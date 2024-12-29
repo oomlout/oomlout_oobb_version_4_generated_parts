@@ -1,0 +1,67 @@
+#   
+
+note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
+
+##  part details
+
+
+
+holder 5x5x4
+
+### name
+* name: 
+* name_short: 
+### id
+* oomp_id: oobb_part_holder_5_width_5_height_4_mm_depth_electronic_battery_box_aa_battery_4_cell_extra
+  * classification: oobb
+  * type: part
+  * size: holder
+  * color: 
+  * description_main: 5_width_5_height_4_mm_depth
+  * description_extra: electronic_battery_box_aa_battery_4_cell_extra
+  * manufacturer: 
+  * part_number: 
+  * bip 39 word 2: 
+  * bip 39 word 3: 
+  * bip 39 word: 
+
+### other_codes
+* short_code: 
+* oomp_word: 
+* oomp_word_emoji 
+* md5_6_alpha: 
+* md5_6: 
+
+
+
+
+
+
+
+
+
+### all codes 
+| key | value |  
+| --- | --- |  
+| classification | oobb |  
+| color |  |  
+| components | [] |  
+| components_objects | [] |  
+| components_string | [] |  
+| description | holder 5x5x4 |  
+| description_extra | electronic_battery_box_aa_battery_4_cell_extra |  
+| description_main | 5_width_5_height_4_mm_depth |  
+| extra | electronic_battery_box_aa_battery_4_cell |  
+| folder | C:\gh\oomlout_oobb_version_4_generated_parts\things\oobb_part_holder_5_width_5_height_4_mm_depth_electronic_battery_box_aa_battery_4_cell_extra |  
+| height | 5 |  
+| height_mm | 74 |  
+| id | oobb_part_holder_5_width_5_height_4_mm_depth_electronic_battery_box_aa_battery_4_cell_extra |  
+| manufacturer |  |  
+| part_number |  |  
+| short_name |  |  
+| size | holder |  
+| thickness | 4 |  
+| thickness_mm | 4 |  
+| type | part |  
+| width | 5 |  
+| width_mm | 74 |  
