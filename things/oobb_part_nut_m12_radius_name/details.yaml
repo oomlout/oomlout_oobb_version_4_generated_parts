@@ -1,0 +1,90 @@
+classification: oobb
+color: ''
+components:
+-   -   objects:
+        -   height: 10
+            inclusion: laser
+            pos:
+            - 0
+            - 0
+            - 0
+            r: 10.963
+            shape: polyg
+            sides: 6
+            type: positive
+        -   height: 10
+            inclusion: 3dpr
+            pos:
+            - 0
+            - 0
+            - 0
+            r: 11.3092
+            shape: polyg
+            sides: 6
+            type: positive
+        -   height: 10
+            inclusion: 'true'
+            pos:
+            - 0
+            - 0
+            - 0
+            r: 10.963
+            shape: polyg
+            sides: 6
+            type: positive
+        pos:
+        - 0
+        - 0
+        - 0
+        rot:
+        - 0
+        - 0
+        - 0
+        type: rotation
+        typetype: p
+-   -   depth: 100
+        h: 100
+        inclusion: laser
+        m: ''
+        pos: &id001
+        - 0
+        - 0
+        - 0
+        r: 6.0
+        shape: cylinder
+        type: n
+        z: -10
+    -   depth: 100
+        h: 100
+        inclusion: 3dpr
+        m: ''
+        pos: *id001
+        r: 6.25
+        shape: cylinder
+        type: n
+        z: -10
+    -   depth: 100
+        h: 100
+        inclusion: 'true'
+        m: ''
+        pos: *id001
+        r: 6.0
+        shape: cylinder
+        type: n
+        z: -10
+components_objects: []
+components_string: []
+depth_mm: 10
+description: nut m12x10
+description_extra: m12_radius_name
+description_main: ''
+folder: C:\gh\oomlout_oobb_version_4_generated_parts\things\oobb_part_nut_m12_radius_name
+height_mm: 9.5
+id: oobb_part_nut_m12_radius_name
+manufacturer: ''
+part_number: ''
+radius_name: m12
+short_name: ''
+size: nut
+type: part
+width_mm: 10.963

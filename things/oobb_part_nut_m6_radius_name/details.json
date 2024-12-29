@@ -1,0 +1,126 @@
+{
+    "description": "nut m6x5",
+    "id": "oobb_part_nut_m6_radius_name",
+    "type": "part",
+    "radius_name": "m6",
+    "components": [
+        [
+            {
+                "type": "rotation",
+                "typetype": "p",
+                "pos": [
+                    0,
+                    0,
+                    0
+                ],
+                "rot": [
+                    0,
+                    0,
+                    0
+                ],
+                "objects": [
+                    {
+                        "type": "positive",
+                        "shape": "polyg",
+                        "r": 5.77,
+                        "pos": [
+                            0,
+                            0,
+                            0
+                        ],
+                        "inclusion": "laser",
+                        "sides": 6,
+                        "height": 5
+                    },
+                    {
+                        "type": "positive",
+                        "shape": "polyg",
+                        "r": 5.914249999999999,
+                        "pos": [
+                            0,
+                            0,
+                            0
+                        ],
+                        "inclusion": "3dpr",
+                        "sides": 6,
+                        "height": 5
+                    },
+                    {
+                        "type": "positive",
+                        "shape": "polyg",
+                        "r": 5.77,
+                        "pos": [
+                            0,
+                            0,
+                            0
+                        ],
+                        "inclusion": "true",
+                        "sides": 6,
+                        "height": 5
+                    }
+                ]
+            }
+        ],
+        [
+            {
+                "type": "n",
+                "shape": "cylinder",
+                "r": 3.0,
+                "h": 100,
+                "pos": [
+                    0,
+                    0,
+                    0
+                ],
+                "z": -10,
+                "inclusion": "laser",
+                "m": "",
+                "depth": 100
+            },
+            {
+                "type": "n",
+                "shape": "cylinder",
+                "r": 3.25,
+                "h": 100,
+                "pos": [
+                    0,
+                    0,
+                    0
+                ],
+                "z": -10,
+                "inclusion": "3dpr",
+                "m": "",
+                "depth": 100
+            },
+            {
+                "type": "n",
+                "shape": "cylinder",
+                "r": 3.0,
+                "h": 100,
+                "pos": [
+                    0,
+                    0,
+                    0
+                ],
+                "z": -10,
+                "inclusion": "true",
+                "m": "",
+                "depth": 100
+            }
+        ]
+    ],
+    "components_string": [],
+    "components_objects": [],
+    "classification": "oobb",
+    "size": "nut",
+    "color": "",
+    "description_main": "",
+    "description_extra": "m6_radius_name",
+    "manufacturer": "",
+    "part_number": "",
+    "short_name": "",
+    "folder": "C:\\gh\\oomlout_oobb_version_4_generated_parts\\things\\oobb_part_nut_m6_radius_name",
+    "width_mm": 5.77,
+    "depth_mm": 5,
+    "height_mm": 5.0
+}

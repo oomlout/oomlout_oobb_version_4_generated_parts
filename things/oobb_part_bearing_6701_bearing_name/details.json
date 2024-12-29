@@ -1,0 +1,101 @@
+{
+    "description": "bearing 6701",
+    "id": "oobb_part_bearing_6701_bearing_name",
+    "type": "part",
+    "bearing_name": "6701",
+    "components": [
+        [
+            {
+                "type": "positive",
+                "shape": "cylinder",
+                "r": 9.0,
+                "h": 4,
+                "pos": [
+                    0,
+                    0,
+                    0
+                ],
+                "inclusion": "laser",
+                "depth": "bearing_6701_depth"
+            },
+            {
+                "type": "positive",
+                "shape": "cylinder",
+                "r": 9.2,
+                "h": 4,
+                "pos": [
+                    0,
+                    0,
+                    0
+                ],
+                "inclusion": "3dpr",
+                "depth": "bearing_6701_depth"
+            },
+            {
+                "type": "positive",
+                "shape": "cylinder",
+                "r": 9.0,
+                "h": 4,
+                "pos": [
+                    0,
+                    0,
+                    0
+                ],
+                "inclusion": "true",
+                "depth": "bearing_6701_depth"
+            }
+        ],
+        [
+            {
+                "type": "negative",
+                "shape": "cylinder",
+                "r": 6.0,
+                "h": 4,
+                "pos": [
+                    0,
+                    0,
+                    0
+                ],
+                "inclusion": "laser",
+                "depth": "bearing_6701_depth"
+            },
+            {
+                "type": "negative",
+                "shape": "cylinder",
+                "r": 6.0,
+                "h": 4,
+                "pos": [
+                    0,
+                    0,
+                    0
+                ],
+                "inclusion": "3dpr",
+                "depth": "bearing_6701_depth"
+            },
+            {
+                "type": "negative",
+                "shape": "cylinder",
+                "r": 6.0,
+                "h": 4,
+                "pos": [
+                    0,
+                    0,
+                    0
+                ],
+                "inclusion": "true",
+                "depth": "bearing_6701_depth"
+            }
+        ]
+    ],
+    "components_string": [],
+    "components_objects": [],
+    "classification": "oobb",
+    "size": "bearing",
+    "color": "",
+    "description_main": "",
+    "description_extra": "6701_bearing_name",
+    "manufacturer": "",
+    "part_number": "",
+    "short_name": "",
+    "folder": "C:\\gh\\oomlout_oobb_version_4_generated_parts\\things\\oobb_part_bearing_6701_bearing_name"
+}

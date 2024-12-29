@@ -1,0 +1,25 @@
+classification: oobb
+color: ''
+components: []
+components_objects: []
+components_string: []
+description: wire 3x3x6
+description_extra: '[''higher_voltage'', ''higher_voltage'']_extra'
+description_main: 3_width_3_height_6_mm_depth
+extra:
+- higher_voltage
+- higher_voltage
+folder: C:\gh\oomlout_oobb_version_4_generated_parts\things\oobb_part_wire_3_width_3_height_6_mm_depth_['higher_voltage',
+    'higher_voltage']_extra
+height: 3
+height_mm: 44
+id: oobb_part_wire_3_width_3_height_6_mm_depth_['higher_voltage', 'higher_voltage']_extra
+manufacturer: ''
+part_number: ''
+short_name: ''
+size: wire
+thickness: 6
+thickness_mm: 6
+type: part
+width: 3
+width_mm: 44
