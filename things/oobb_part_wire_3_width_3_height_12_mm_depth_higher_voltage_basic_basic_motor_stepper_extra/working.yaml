@@ -1,0 +1,29 @@
+classification: oobb
+color: ''
+components: []
+components_objects: []
+components_string: []
+description: wire 3x3x12
+description_extra: higher_voltage_basic_basic_motor_stepper_extra
+description_main: 3_width_3_height_12_mm_depth
+extra:
+- higher_voltage
+- basic
+- basic
+- motor_stepper
+folder: C:\gh\oomlout_oobb_version_4_generated_parts\things\oobb_part_wire_3_width_3_height_12_mm_depth_higher_voltage_basic_basic_motor_stepper_extra
+height: 3
+height_mm: 44
+id: oobb_part_wire_3_width_3_height_12_mm_depth_higher_voltage_basic_basic_motor_stepper_extra
+manufacturer: ''
+name: Oobb Part Wire 3 Width 3 Height 12 mm Depth Higher Voltage Basic Basic Motor
+    Stepper Extra
+name_short: Wire 3x3x12 Higher Voltage Basic Basic
+part_number: ''
+short_name: ''
+size: wire
+thickness: 12
+thickness_mm: 12
+type: part
+width: 3
+width_mm: 44
