@@ -1,0 +1,392 @@
+{
+    "description": "smd magazine 2x2x18",
+    "id": "oobb_part_smd_magazine_2_width_2_height_18_mm_depth_3_extra",
+    "type": "part",
+    "width": 2,
+    "height": 2,
+    "thickness": 18,
+    "name": "Oobb Part Smd Magazine 2 Width 2 Height 18 mm Depth 3 Extra",
+    "extra": 3,
+    "width_mm": 29,
+    "thickness_mm": 18,
+    "height_mm": 29,
+    "components": [
+        [
+            [
+                {
+                    "type": "p",
+                    "shape": "rounded_rectangle",
+                    "size": [
+                        32.0,
+                        32.0,
+                        18
+                    ],
+                    "pos": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "height": 2.2,
+                    "width": 2.2,
+                    "m": "",
+                    "depth": 18
+                }
+            ]
+        ],
+        [
+            [
+                {
+                    "type": "p",
+                    "shape": "rounded_rectangle",
+                    "size": [
+                        29,
+                        14,
+                        18
+                    ],
+                    "pos": [
+                        7.5,
+                        -9.0,
+                        0
+                    ],
+                    "height": 1,
+                    "width": 2,
+                    "m": "",
+                    "depth": 18
+                }
+            ]
+        ],
+        [
+            [
+                [
+                    {
+                        "type": "p",
+                        "shape": "cube",
+                        "size": [
+                            6,
+                            6,
+                            18
+                        ],
+                        "pos": [
+                            -16.0,
+                            10.0,
+                            0
+                        ],
+                        "m": ""
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                [
+                    {
+                        "type": "n",
+                        "shape": "cube",
+                        "size": [
+                            14,
+                            0.5,
+                            17.0
+                        ],
+                        "pos": [
+                            -15.5,
+                            15.5,
+                            0.5
+                        ],
+                        "m": ""
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                {
+                    "type": "n",
+                    "shape": "cylinder",
+                    "r": 3.0,
+                    "h": 200,
+                    "pos": [
+                        15.0,
+                        -9.0,
+                        -100.0
+                    ],
+                    "inclusion": "laser",
+                    "m": ""
+                },
+                {
+                    "type": "n",
+                    "shape": "cylinder",
+                    "r": 3.25,
+                    "h": 200,
+                    "pos": [
+                        15.0,
+                        -9.0,
+                        -100.0
+                    ],
+                    "inclusion": "3dpr",
+                    "m": ""
+                },
+                {
+                    "type": "n",
+                    "shape": "cylinder",
+                    "r": 3.0,
+                    "h": 200,
+                    "pos": [
+                        15.0,
+                        -9.0,
+                        -100.0
+                    ],
+                    "inclusion": "true",
+                    "m": ""
+                }
+            ]
+        ],
+        [
+            [
+                {
+                    "type": "n",
+                    "shape": "cylinder",
+                    "r": 14.5,
+                    "radius": 14.5,
+                    "h": 20.4,
+                    "pos": [
+                        -0.5,
+                        0.0,
+                        0.5999999999999996
+                    ],
+                    "inclusion": "laser",
+                    "m": "",
+                    "depth": 20.4
+                },
+                {
+                    "type": "n",
+                    "shape": "cylinder",
+                    "r": 14.5,
+                    "radius": 14.5,
+                    "h": 20.4,
+                    "pos": [
+                        -0.5,
+                        0.0,
+                        0.5999999999999996
+                    ],
+                    "inclusion": "3dpr",
+                    "m": "",
+                    "depth": 20.4
+                },
+                {
+                    "type": "n",
+                    "shape": "cylinder",
+                    "r": 14.5,
+                    "radius": 14.5,
+                    "h": 20.4,
+                    "pos": [
+                        -0.5,
+                        0.0,
+                        0.5999999999999996
+                    ],
+                    "inclusion": "true",
+                    "m": "",
+                    "depth": 20.4
+                }
+            ]
+        ],
+        [
+            [
+                {
+                    "type": "n",
+                    "shape": "cylinder",
+                    "r": 6.5,
+                    "radius": 6.5,
+                    "h": 18,
+                    "pos": [
+                        -0.5,
+                        0.0,
+                        -9.0
+                    ],
+                    "inclusion": "laser",
+                    "m": "",
+                    "depth": 18
+                },
+                {
+                    "type": "n",
+                    "shape": "cylinder",
+                    "r": 6.5,
+                    "radius": 6.5,
+                    "h": 18,
+                    "pos": [
+                        -0.5,
+                        0.0,
+                        -9.0
+                    ],
+                    "inclusion": "3dpr",
+                    "m": "",
+                    "depth": 18
+                },
+                {
+                    "type": "n",
+                    "shape": "cylinder",
+                    "r": 6.5,
+                    "radius": 6.5,
+                    "h": 18,
+                    "pos": [
+                        -0.5,
+                        0.0,
+                        -9.0
+                    ],
+                    "inclusion": "true",
+                    "m": "",
+                    "depth": 18
+                }
+            ]
+        ],
+        [
+            [
+                [
+                    {
+                        "type": "n",
+                        "shape": "cube",
+                        "size": [
+                            16.0,
+                            3,
+                            20.4
+                        ],
+                        "pos": [
+                            0.0,
+                            11.5,
+                            0.6
+                        ],
+                        "m": ""
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                [
+                    {
+                        "type": "n",
+                        "shape": "cube",
+                        "size": [
+                            14.0,
+                            6,
+                            1.5
+                        ],
+                        "pos": [
+                            2.0,
+                            11.5,
+                            16.5
+                        ],
+                        "m": ""
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                [
+                    {
+                        "type": "n",
+                        "shape": "cube",
+                        "size": [
+                            10,
+                            1.5,
+                            20.4
+                        ],
+                        "pos": [
+                            -3.0,
+                            18.75,
+                            0.6
+                        ],
+                        "rotZ": -45,
+                        "m": ""
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                {
+                    "type": "rotation",
+                    "typetype": "pp",
+                    "pos": [
+                        11.5,
+                        12,
+                        -9.0
+                    ],
+                    "rot": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "objects": [
+                        {
+                            "type": "positive",
+                            "shape": "slot",
+                            "r": 1.0,
+                            "radius": 1.0,
+                            "h": 18,
+                            "w": 5,
+                            "inclusion": "laser",
+                            "m": "",
+                            "depth": 18
+                        },
+                        {
+                            "type": "positive",
+                            "shape": "slot",
+                            "r": 1.0,
+                            "radius": 1.0,
+                            "h": 18,
+                            "w": 5,
+                            "inclusion": "3dpr",
+                            "m": "",
+                            "depth": 18
+                        },
+                        {
+                            "type": "positive",
+                            "shape": "slot",
+                            "r": 1.0,
+                            "radius": 1.0,
+                            "h": 18,
+                            "w": 5,
+                            "inclusion": "true",
+                            "m": "",
+                            "depth": 18
+                        }
+                    ]
+                }
+            ]
+        ],
+        [
+            [
+                [
+                    {
+                        "type": "n",
+                        "shape": "cube",
+                        "size": [
+                            7.5,
+                            2,
+                            17.4
+                        ],
+                        "pos": [
+                            2.25,
+                            11.0,
+                            0.6
+                        ],
+                        "m": ""
+                    }
+                ]
+            ]
+        ]
+    ],
+    "components_string": [],
+    "components_objects": [],
+    "classification": "oobb",
+    "size": "smd_magazine",
+    "color": "",
+    "description_main": "2_width_2_height_18_mm_depth",
+    "description_extra": "3_extra",
+    "manufacturer": "",
+    "part_number": "",
+    "short_name": "",
+    "name_short": "Smd Magazine 2x2x18 3 Extra",
+    "folder": "C:\\gh\\oomlout_oobb_version_4_generated_parts\\things\\oobb_part_smd_magazine_2_width_2_height_18_mm_depth_3_extra"
+}

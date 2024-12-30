@@ -7654,7 +7654,6 @@ components_objects:
 -   both_holes: true
     depth: 3
     height: 7
-    name: oobb_pl_a6
     pos:
     - 0
     - 0
@@ -7665,7 +7664,6 @@ components_objects:
     width: 10
 -   both_holes: true
     height: 7
-    name: oobb_pl_a6
     pos:
     - 0
     - 0
@@ -7675,8 +7673,8 @@ components_objects:
     type: n
     width: 10
 components_string:
-- oobb_plate_shape_p_type_3_depth_10_width_7_height_3_thickness_oobb_pl_a6_name_true_both_holes
-- oobb_holes_shape_n_type_10_width_7_height_3_thickness_oobb_pl_a6_name_true_both_holes
+- oobb_plate_shape_p_type_3_depth_10_width_7_height_3_thickness_true_both_holes
+- oobb_holes_shape_n_type_10_width_7_height_3_thickness_true_both_holes
 description: plate 10x7x3
 description_extra: ''
 description_main: 10_width_7_height_3_mm_depth

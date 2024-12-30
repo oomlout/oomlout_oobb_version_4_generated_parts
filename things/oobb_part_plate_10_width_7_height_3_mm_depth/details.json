@@ -5,7 +5,6 @@
     "width": 10,
     "height": 7,
     "thickness": 3,
-    "name": "Oobb Part Plate 10 Width 7 Height 3 mm Depth",
     "width_mm": 149,
     "thickness_mm": 3,
     "height_mm": 104,
@@ -14340,8 +14339,8 @@
         ]
     ],
     "components_string": [
-        "oobb_plate_shape_p_type_3_depth_10_width_7_height_3_thickness_oobb_pl_a6_name_true_both_holes",
-        "oobb_holes_shape_n_type_10_width_7_height_3_thickness_oobb_pl_a6_name_true_both_holes"
+        "oobb_plate_shape_p_type_3_depth_10_width_7_height_3_thickness_true_both_holes",
+        "oobb_holes_shape_n_type_10_width_7_height_3_thickness_true_both_holes"
     ],
     "components_objects": [
         {
@@ -14349,7 +14348,6 @@
             "width": 10,
             "height": 7,
             "thickness": 3,
-            "name": "oobb_pl_a6",
             "both_holes": true,
             "pos": [
                 0,
@@ -14364,7 +14362,6 @@
             "width": 10,
             "height": 7,
             "thickness": 3,
-            "name": "oobb_pl_a6",
             "both_holes": true,
             "pos": [
                 0,
@@ -14382,6 +14379,7 @@
     "manufacturer": "",
     "part_number": "",
     "short_name": "",
+    "name": "Oobb Part Plate 10 Width 7 Height 3 mm Depth",
     "name_short": "Plate 10x7x3 ",
     "folder": "C:\\gh\\oomlout_oobb_version_4_generated_parts\\things\\oobb_part_plate_10_width_7_height_3_mm_depth"
 }
