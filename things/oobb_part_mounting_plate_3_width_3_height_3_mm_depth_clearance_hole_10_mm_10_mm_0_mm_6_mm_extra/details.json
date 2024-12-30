@@ -6,7 +6,7 @@
     "height": 3,
     "thickness": 3,
     "radius_hole": "m3",
-    "name": "Oobb part mounting plate 3 width 3 height 3 mm depth clearance hole 10 mm 10 mm 0 mm 6 mm extra",
+    "name": "Oobb Part Mounting Plate 3 Width 3 Height 3 mm Depth Clearance Hole 10 mm 10 mm 0 mm 6 mm Extra",
     "extra": "clearance_hole_10_mm_10_mm_0_mm_6_mm",
     "width_mm": 44,
     "thickness_mm": 3,
@@ -2988,6 +2988,7 @@
     "description_extra": "clearance_hole_10_mm_10_mm_0_mm_6_mm_extra",
     "manufacturer": "",
     "part_number": "",
-    "short_name": "Oobb part mounting p",
+    "short_name": "",
+    "name_short": "Mounting Plate 3x3x3 Clearance Hole 10",
     "folder": "C:\\gh\\oomlout_oobb_version_4_generated_parts\\things\\oobb_part_mounting_plate_3_width_3_height_3_mm_depth_clearance_hole_10_mm_10_mm_0_mm_6_mm_extra"
 }
