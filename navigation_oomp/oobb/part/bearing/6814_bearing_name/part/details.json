@@ -1,0 +1,103 @@
+{
+    "description": "bearing 6814",
+    "id": "oobb_part_bearing_6814_bearing_name",
+    "type": "part",
+    "bearing_name": "6814",
+    "components": [
+        [
+            {
+                "type": "positive",
+                "shape": "cylinder",
+                "r": 45.0,
+                "h": 10,
+                "pos": [
+                    0,
+                    0,
+                    0
+                ],
+                "inclusion": "laser",
+                "depth": "bearing_6814_depth"
+            },
+            {
+                "type": "positive",
+                "shape": "cylinder",
+                "r": 45.2,
+                "h": 10,
+                "pos": [
+                    0,
+                    0,
+                    0
+                ],
+                "inclusion": "3dpr",
+                "depth": "bearing_6814_depth"
+            },
+            {
+                "type": "positive",
+                "shape": "cylinder",
+                "r": 45.0,
+                "h": 10,
+                "pos": [
+                    0,
+                    0,
+                    0
+                ],
+                "inclusion": "true",
+                "depth": "bearing_6814_depth"
+            }
+        ],
+        [
+            {
+                "type": "negative",
+                "shape": "cylinder",
+                "r": 35.0,
+                "h": 10,
+                "pos": [
+                    0,
+                    0,
+                    0
+                ],
+                "inclusion": "laser",
+                "depth": "bearing_6814_depth"
+            },
+            {
+                "type": "negative",
+                "shape": "cylinder",
+                "r": 35.0,
+                "h": 10,
+                "pos": [
+                    0,
+                    0,
+                    0
+                ],
+                "inclusion": "3dpr",
+                "depth": "bearing_6814_depth"
+            },
+            {
+                "type": "negative",
+                "shape": "cylinder",
+                "r": 35.0,
+                "h": 10,
+                "pos": [
+                    0,
+                    0,
+                    0
+                ],
+                "inclusion": "true",
+                "depth": "bearing_6814_depth"
+            }
+        ]
+    ],
+    "components_string": [],
+    "components_objects": [],
+    "classification": "oobb",
+    "size": "bearing",
+    "color": "",
+    "description_main": "",
+    "description_extra": "6814_bearing_name",
+    "manufacturer": "",
+    "part_number": "",
+    "short_name": "",
+    "name": "Oobb Part Bearing 6814 Bearing Name",
+    "name_short": "Bearing 6814 Bearing Name",
+    "folder": "C:\\gh\\oomlout_oobb_version_4_generated_parts\\parts\\oobb_part_bearing_6814_bearing_name"
+}

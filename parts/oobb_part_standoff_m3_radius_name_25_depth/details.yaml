@@ -1,0 +1,82 @@
+classification: oobb
+color: ''
+components:
+-   -   -   depth: 25
+            h: 25
+            inclusion: laser
+            m: ''
+            pos: &id001
+            - 0
+            - 0
+            - 0
+            r: 1.5
+            shape: cylinder
+            type: n
+        -   depth: 25
+            h: 25
+            inclusion: 3dpr
+            m: ''
+            pos: *id001
+            r: 1.8
+            shape: cylinder
+            type: n
+        -   depth: 25
+            h: 25
+            inclusion: 'true'
+            m: ''
+            pos: *id001
+            r: 1.5
+            shape: cylinder
+            type: n
+    -   depth: 25
+        height: 25
+        inclusion: laser
+        pos:
+        - 0
+        - 0
+        - 0
+        r: 3.3465999999999996
+        shape: polyg
+        sides: 6
+        type: p
+    -   depth: 25
+        height: 25
+        inclusion: 3dpr
+        pos:
+        - 0
+        - 0
+        - 0
+        r: 3.6350999999999996
+        shape: polyg
+        sides: 6
+        type: p
+    -   depth: 25
+        height: 25
+        inclusion: 'true'
+        pos:
+        - 0
+        - 0
+        - 0
+        r: 3.3465999999999996
+        shape: polyg
+        sides: 6
+        type: p
+components_objects: []
+components_string: []
+depth: 25
+depth_mm: 25
+description: standoff m3x25x25
+description_extra: m3_radius_name_25_depth
+description_main: ''
+folder: C:\gh\oomlout_oobb_version_4_generated_parts\parts\oobb_part_standoff_m3_radius_name_25_depth
+height_mm: 2.75
+id: oobb_part_standoff_m3_radius_name_25_depth
+manufacturer: ''
+name: Oobb Part Standoff M3 Radius Name 25 Depth
+name_short: Standoff M3 Radius Name 25 Depth
+part_number: ''
+radius_name: m3
+short_name: ''
+size: standoff
+type: part
+width_mm: 3.1734999999999998

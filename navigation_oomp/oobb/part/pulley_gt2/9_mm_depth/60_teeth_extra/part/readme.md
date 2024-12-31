@@ -1,0 +1,115 @@
+# Oobb Part Pulley Gt2 9 mm Depth 60 Teeth Extra  
+
+note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
+
+##  part details
+  
+
+
+
+pulley gt2 0x0x9
+
+
+
+### name
+* name: Oobb Part Pulley Gt2 9 mm Depth 60 Teeth Extra
+* name_short: Pulley Gt2 9 60 Teeth Extra
+### id
+* oomp_id: oobb_part_pulley_gt2_9_mm_depth_60_teeth_extra
+  * classification: oobb
+  * type: part
+  * size: pulley_gt2
+  * color: 
+  * description_main: 9_mm_depth
+  * description_extra: 60_teeth_extra
+  * manufacturer: 
+  * part_number: 
+  * bip 39 word 2: happy man
+  * bip 39 word 3: happy man gate
+  * bip 39 word: happy man gate grab quarter limb region mammal pigeon absurd reason about
+
+### other_codes
+* short_code: 
+* oomp_word: cry leaves bowtie
+* oomp_word_emoji :cry: :leaves: :bowtie:
+* md5_6_alpha: ae4g
+* md5_6: 076600
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%20ae4g)
+[3x2_oomp_table](http://192.168.1.108:1112/?label=oomp%20ae4g)
+[2x1](http://192.168.1.242:1112/?label=oomp%20ae4g)
+[6x4](http://192.168.1.55:1112/?label=oomp%20ae4g)    
+
+#### link
+
+                              
+
+#### price
+
+
+
+
+
+
+
+### all codes 
+| key | value |  
+| --- | --- |  
+| classification | oobb |  
+| classification_name | Oobb |  
+| color |  |  
+| color_name |  |  
+| components | [] |  
+| components_objects | [] |  
+| components_string | [] |  
+| description | pulley gt2 0x0x9 |  
+| description_extra | 60_teeth_extra |  
+| description_extra_name | 60 Teeth Extra |  
+| description_main | 9_mm_depth |  
+| description_main_name | 9 mm Depth |  
+| directory | parts/oobb_part_pulley_gt2_9_mm_depth_60_teeth_extra |  
+| extra | 60_teeth |  
+| folder | C:\gh\oomlout_oobb_version_4_generated_parts\things\oobb_part_pulley_gt2_9_mm_depth_60_teeth_extra |  
+| github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_9_mm_depth_60_teeth_extra |  
+| id | oobb_part_pulley_gt2_9_mm_depth_60_teeth_extra |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%20ae4g |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%20ae4g |  
+| link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%20ae4g |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%20ae4g |  
+| manufacturer |  |  
+| manufacturer_name |  |  
+| md5 | 076600452586b6920757b654c0a1b347 |  
+| md5_10 | 0766004525 |  
+| md5_5 | 07660 |  
+| md5_6 | 076600 |  
+| md5_6_alpha | ae4g |  
+| name | Oobb Part Pulley Gt2 9 mm Depth 60 Teeth Extra |  
+| name_short | Pulley Gt2 9 60 Teeth Extra |  
+| oomlout_detail_hierarchy_1 | oobb |  
+| oomlout_detail_hierarchy_2 | part |  
+| oomlout_detail_hierarchy_3 | pulley_gt2 |  
+| oomlout_detail_hierarchy_4 | 9_mm_depth |  
+| oomlout_detail_hierarchy_5 | 60_teeth_extra |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
+| oomp_key | oomp_oobb_part_pulley_gt2_9_mm_depth_60_teeth_extra |  
+| oomp_word | cry leaves bowtie |  
+| oomp_word_emoji | :cry: :leaves: :bowtie: |  
+| oomp_word_emoji_list | [':cry:', ':leaves:', ':bowtie:'] |  
+| oomp_word_list | ['cry', 'leaves', 'bowtie'] |  
+| part_number |  |  
+| part_number_name |  |  
+| shaft |  |  
+| short_name |  |  
+| size | pulley_gt2 |  
+| size_name | Pulley Gt2 |  
+| thickness | 9 |  
+| thickness_mm | 9 |  
+| type | part |  
+| type_name | Part |  

@@ -1,0 +1,2 @@
+* [tool_side_cutters_generic_110_mm_red_extra](tool_side_cutters_generic_110_mm_red_extra)
+* [tool_wire_strippers_generic_120_red_extra](tool_wire_strippers_generic_120_red_extra)

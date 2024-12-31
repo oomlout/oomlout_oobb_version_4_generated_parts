@@ -1,0 +1,66 @@
+bearing_name: '6703'
+classification: oobb
+color: ''
+components:
+-   -   depth: bearing_6703_depth
+        h: 4
+        inclusion: laser
+        pos: &id001
+        - 0
+        - 0
+        - 0
+        r: 11.5
+        shape: cylinder
+        type: positive
+    -   depth: bearing_6703_depth
+        h: 4
+        inclusion: 3dpr
+        pos: *id001
+        r: 11.7
+        shape: cylinder
+        type: positive
+    -   depth: bearing_6703_depth
+        h: 4
+        inclusion: 'true'
+        pos: *id001
+        r: 11.5
+        shape: cylinder
+        type: positive
+-   -   depth: bearing_6703_depth
+        h: 4
+        inclusion: laser
+        pos: &id002
+        - 0
+        - 0
+        - 0
+        r: 8.5
+        shape: cylinder
+        type: negative
+    -   depth: bearing_6703_depth
+        h: 4
+        inclusion: 3dpr
+        pos: *id002
+        r: 8.5
+        shape: cylinder
+        type: negative
+    -   depth: bearing_6703_depth
+        h: 4
+        inclusion: 'true'
+        pos: *id002
+        r: 8.5
+        shape: cylinder
+        type: negative
+components_objects: []
+components_string: []
+description: bearing 6703
+description_extra: 6703_bearing_name
+description_main: ''
+folder: C:\gh\oomlout_oobb_version_4_generated_parts\parts\oobb_part_bearing_6703_bearing_name
+id: oobb_part_bearing_6703_bearing_name
+manufacturer: ''
+name: Oobb Part Bearing 6703 Bearing Name
+name_short: Bearing 6703 Bearing Name
+part_number: ''
+short_name: ''
+size: bearing
+type: part

@@ -1,0 +1,126 @@
+{
+    "description": "bolt m6x35",
+    "id": "oobb_part_bolt_m6_radius_name_35_depth",
+    "type": "part",
+    "radius_name": "m6",
+    "depth": 35,
+    "components": [
+        [
+            [
+                [
+                    {
+                        "type": "positive",
+                        "shape": "polyg",
+                        "r": 5.77,
+                        "h": 4,
+                        "pos": [
+                            0,
+                            0,
+                            0
+                        ],
+                        "rotY": 0,
+                        "inclusion": "laser",
+                        "sides": 6,
+                        "depth": 35
+                    }
+                ]
+            ],
+            [
+                [
+                    {
+                        "type": "positive",
+                        "shape": "polyg",
+                        "r": 5.914249999999999,
+                        "h": 4.5,
+                        "pos": [
+                            0,
+                            0,
+                            0
+                        ],
+                        "rotY": 0,
+                        "inclusion": "3dpr",
+                        "sides": 6,
+                        "depth": 35
+                    }
+                ]
+            ],
+            [
+                [
+                    {
+                        "type": "positive",
+                        "shape": "polyg",
+                        "r": 5.77,
+                        "h": 4,
+                        "pos": [
+                            0,
+                            0,
+                            0
+                        ],
+                        "rotY": 0,
+                        "inclusion": "true",
+                        "sides": 6,
+                        "depth": 35
+                    }
+                ]
+            ],
+            [
+                {
+                    "type": "positive",
+                    "shape": "cylinder",
+                    "r": 3.0,
+                    "h": 35,
+                    "pos": [
+                        0,
+                        0,
+                        -35
+                    ],
+                    "rotY": 0,
+                    "inclusion": "laser",
+                    "depth": 35
+                },
+                {
+                    "type": "positive",
+                    "shape": "cylinder",
+                    "r": 3.25,
+                    "h": 35,
+                    "pos": [
+                        0,
+                        0,
+                        -35
+                    ],
+                    "rotY": 0,
+                    "inclusion": "3dpr",
+                    "depth": 35
+                },
+                {
+                    "type": "positive",
+                    "shape": "cylinder",
+                    "r": 3.0,
+                    "h": 35,
+                    "pos": [
+                        0,
+                        0,
+                        -35
+                    ],
+                    "rotY": 0,
+                    "inclusion": "true",
+                    "depth": 35
+                }
+            ]
+        ]
+    ],
+    "components_string": [],
+    "components_objects": [],
+    "classification": "oobb",
+    "size": "bolt",
+    "color": "",
+    "description_main": "",
+    "description_extra": "m6_radius_name_35_depth",
+    "manufacturer": "",
+    "part_number": "",
+    "short_name": "",
+    "name": "Oobb Part Bolt M6 Radius Name 35 Depth",
+    "name_short": "Bolt M6 Radius Name 35 Depth",
+    "folder": "C:\\gh\\oomlout_oobb_version_4_generated_parts\\parts\\oobb_part_bolt_m6_radius_name_35_depth",
+    "depth_mm": 35
+}

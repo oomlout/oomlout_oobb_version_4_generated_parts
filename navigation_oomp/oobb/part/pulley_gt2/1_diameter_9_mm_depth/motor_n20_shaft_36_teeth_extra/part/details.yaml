@@ -1,0 +1,157 @@
+classification: oobb
+color: ''
+components:
+-   -   -   center: true
+            color: gray
+            comment: gear main
+            depth: 1
+            font: Arial:style=Bold
+            m: '*'
+            pos:
+            - 0
+            - 7
+            - 0
+            shape: text
+            size: 4.5
+            text: COMMENT gear main
+            type: p
+-   -   depth: 11.5
+        extra: 36_teeth
+        number_of_teeth: 36
+        pos:
+        - 0
+        - 0
+        - -5.75
+        shape: pulley_gt2
+        type: p
+-   -   -   center: true
+            color: gray
+            comment: holes main
+            depth: 1
+            font: Arial:style=Bold
+            m: '*'
+            pos:
+            - 0
+            - 7
+            - 0
+            shape: text
+            size: 4.5
+            text: COMMENT holes main
+            type: n
+- []
+-   -   -   comment:
+            - shaft for n20 motor
+            depth: 250
+            id: 2.75
+            m: '#'
+            pos:
+            - 0
+            - 0
+            - 125
+            r: 1.75
+            shape: d_shaft
+            type: n
+-   -   extra: 36_teeth
+        pos:
+        - -250.0
+        - -250.0
+        - 0
+        shape: cube
+        size:
+        - 500
+        - 500
+        - 500
+        type: n
+    -   extra: 36_teeth
+        pos:
+        - -250.0
+        - -250.0
+        - 0
+        shape: cube
+        size:
+        - 500
+        - 500
+        - 500
+        type: n
+    -   extra: 36_teeth
+        pos:
+        - -250.0
+        - -250.0
+        - 0
+        shape: cube
+        size:
+        - 500
+        - 500
+        - 500
+        type: n
+components_objects:
+-   depth: 11.5
+    diameter: 1
+    extra: 36_teeth
+    number_of_teeth: 36
+    pos:
+    - 0
+    - 0
+    - -5.75
+    shaft: motor_n20
+    shape: pulley_gt2
+    thickness: 9
+    type: p
+-   both_holes: true
+    circle: true
+    diameter: 1
+    extra: 36_teeth
+    height: 1
+    middle: false
+    pos:
+    - 0
+    - 0
+    - 0
+    shaft: motor_n20
+    shape: oobb_holes
+    thickness: 9
+    type: n
+    width: 1
+-   diameter: 1
+    m: '#'
+    part: shaft
+    pos:
+    - 0
+    - 0
+    - 0
+    shaft: motor_n20
+    shape: oobb_motor_n20
+    thickness: 9
+    type: n
+-   diameter: 1
+    extra: 36_teeth
+    pos:
+    - 0
+    - 0
+    - 0
+    shaft: motor_n20
+    shape: oobb_slice
+    thickness: 9
+    type: n
+components_string:
+- pulley_gt2_shape_p_type_11.5_depth_0_0_-5.75_pos_9_thickness_36_teeth_extra_motor_n20_shaft_1_diameter_36_number_of_teeth
+- oobb_holes_shape_n_type_9_thickness_36_teeth_extra_motor_n20_shaft_1_diameter_1_width_1_height_true_both_holes_true_circle_false_middle
+- oobb_motor_n20_shape_n_type_9_thickness_motor_n20_shaft_1_diameter_shaft_part
+- oobb_slice_shape_n_type_9_thickness_36_teeth_extra_motor_n20_shaft_1_diameter
+description: pulley gt2 0x0x9
+description_extra: motor_n20_shaft_36_teeth_extra
+description_main: 1_diameter_9_mm_depth
+diameter: 1
+extra: 36_teeth
+folder: C:\gh\oomlout_oobb_version_4_generated_parts\parts\oobb_part_pulley_gt2_1_diameter_9_mm_depth_motor_n20_shaft_36_teeth_extra
+id: oobb_part_pulley_gt2_1_diameter_9_mm_depth_motor_n20_shaft_36_teeth_extra
+manufacturer: ''
+name: Oobb Part Pulley Gt2 1 Diameter 9 mm Depth Motor N20 Shaft 36 Teeth Extra
+name_short: Pulley Gt2 1x9 Motor N20 Shaft 36 Teeth
+part_number: ''
+shaft: motor_n20
+short_name: ''
+size: pulley_gt2
+thickness: 9
+thickness_mm: 9
+type: part

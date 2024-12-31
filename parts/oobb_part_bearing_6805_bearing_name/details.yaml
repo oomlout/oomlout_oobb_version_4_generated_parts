@@ -1,0 +1,66 @@
+bearing_name: '6805'
+classification: oobb
+color: ''
+components:
+-   -   depth: bearing_6805_depth
+        h: 7
+        inclusion: laser
+        pos: &id001
+        - 0
+        - 0
+        - 0
+        r: 18.5
+        shape: cylinder
+        type: positive
+    -   depth: bearing_6805_depth
+        h: 7
+        inclusion: 3dpr
+        pos: *id001
+        r: 18.7
+        shape: cylinder
+        type: positive
+    -   depth: bearing_6805_depth
+        h: 7
+        inclusion: 'true'
+        pos: *id001
+        r: 18.5
+        shape: cylinder
+        type: positive
+-   -   depth: bearing_6805_depth
+        h: 7
+        inclusion: laser
+        pos: &id002
+        - 0
+        - 0
+        - 0
+        r: 12.5
+        shape: cylinder
+        type: negative
+    -   depth: bearing_6805_depth
+        h: 7
+        inclusion: 3dpr
+        pos: *id002
+        r: 12.5
+        shape: cylinder
+        type: negative
+    -   depth: bearing_6805_depth
+        h: 7
+        inclusion: 'true'
+        pos: *id002
+        r: 12.5
+        shape: cylinder
+        type: negative
+components_objects: []
+components_string: []
+description: bearing 6805
+description_extra: 6805_bearing_name
+description_main: ''
+folder: C:\gh\oomlout_oobb_version_4_generated_parts\parts\oobb_part_bearing_6805_bearing_name
+id: oobb_part_bearing_6805_bearing_name
+manufacturer: ''
+name: Oobb Part Bearing 6805 Bearing Name
+name_short: Bearing 6805 Bearing Name
+part_number: ''
+short_name: ''
+size: bearing
+type: part
