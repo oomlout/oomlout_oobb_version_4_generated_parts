@@ -24,16 +24,16 @@ bearing 0x0x0
   * description_extra: 6819_bearing_name
   * manufacturer: 
   * part_number: 
-  * bip 39 word 2: 
-  * bip 39 word 3: 
-  * bip 39 word: 
+  * bip 39 word 2: foam gentle
+  * bip 39 word 3: foam gentle any
+  * bip 39 word: foam gentle any lava below wedding foot cluster manage twin convince army
 
 ### other_codes
 * short_code: 
-* oomp_word: 
-* oomp_word_emoji 
-* md5_6_alpha: 
-* md5_6: 
+* oomp_word: bread leopard koala
+* oomp_word_emoji :bread: :leopard: :koala:
+* md5_6_alpha: 7i7ui
+* md5_6: c05f3a
 
 
 
@@ -42,10 +42,10 @@ bearing 0x0x0
 
 ### oomlout_oomp_utility_custom_data_manipulation
 #### label print
-[3x2](http://192.168.1.245:1112/?label=oomp%20)
-[3x2_oomp_table](http://192.168.1.108:1112/?label=oomp%20)
-[2x1](http://192.168.1.242:1112/?label=oomp%20)
-[6x4](http://192.168.1.55:1112/?label=oomp%20)    
+[3x2](http://192.168.1.245:1112/?label=oomp%207i7ui)
+[3x2_oomp_table](http://192.168.1.108:1112/?label=oomp%207i7ui)
+[2x1](http://192.168.1.242:1112/?label=oomp%207i7ui)
+[6x4](http://192.168.1.55:1112/?label=oomp%207i7ui)    
 
 #### link
 
@@ -64,20 +64,32 @@ bearing 0x0x0
 | --- | --- |  
 | bearing_name | 6819 |  
 | classification | oobb |  
+| classification_name | Oobb |  
 | color |  |  
+| color_name |  |  
 | components | [] |  
 | components_objects | [] |  
 | components_string | [] |  
 | description | bearing 0x0x0 |  
 | description_extra | 6819_bearing_name |  
+| description_extra_name | 6819 Bearing Name |  
 | description_main |  |  
+| description_main_name |  |  
+| directory | parts/oobb_part_bearing_6819_bearing_name |  
 | folder | C:\gh\oomlout_oobb_version_4_generated_parts\parts\oobb_part_bearing_6819_bearing_name |  
+| github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bearing_6819_bearing_name |  
 | id | oobb_part_bearing_6819_bearing_name |  
-| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%20 |  
-| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%20 |  
-| link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%20 |  
-| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%20 |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%207i7ui |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%207i7ui |  
+| link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%207i7ui |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%207i7ui |  
 | manufacturer |  |  
+| manufacturer_name |  |  
+| md5 | c05f3adc372c6b5fe38a67dc14584ad0 |  
+| md5_10 | c05f3adc37 |  
+| md5_5 | c05f3 |  
+| md5_6 | c05f3a |  
+| md5_6_alpha | 7i7ui |  
 | name | Oobb Part Bearing 6819 Bearing Name |  
 | name_short | Bearing 6819 Bearing Name |  
 | oomlout_detail_hierarchy_1 | oobb |  
@@ -85,7 +97,15 @@ bearing 0x0x0
 | oomlout_detail_hierarchy_3 | bearing |  
 | oomlout_detail_hierarchy_4 | 6819_bearing_name |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
+| oomp_key | oomp_oobb_part_bearing_6819_bearing_name |  
+| oomp_word | bread leopard koala |  
+| oomp_word_emoji | :bread: :leopard: :koala: |  
+| oomp_word_emoji_list | [':bread:', ':leopard:', ':koala:'] |  
+| oomp_word_list | ['bread', 'leopard', 'koala'] |  
 | part_number |  |  
+| part_number_name |  |  
 | short_name |  |  
 | size | bearing |  
+| size_name | Bearing |  
 | type | part |  
+| type_name | Part |  

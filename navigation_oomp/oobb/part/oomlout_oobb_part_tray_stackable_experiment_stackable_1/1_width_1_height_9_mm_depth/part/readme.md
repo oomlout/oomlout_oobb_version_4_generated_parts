@@ -75,7 +75,7 @@ oomlout oobb part tray stackable experiment stackable 1 1x1x9
 | description_main | 1_width_1_height_9_mm_depth |  
 | description_main_name | 1 Width 1 Height 9 mm Depth |  
 | directory | parts/oobb_part_oomlout_oobb_part_tray_stackable_experiment_stackable_1_1_width_1_height_9_mm_depth |  
-| folder | C:\gh\oomlout_oobb_version_4_generated_parts\things\oobb_part_oomlout_oobb_part_tray_stackable_experiment_stackable_1_1_width_1_height_9_mm_depth |  
+| folder | C:\gh\oomlout_oobb_version_4_generated_parts\parts\oobb_part_oomlout_oobb_part_tray_stackable_experiment_stackable_1_1_width_1_height_9_mm_depth |  
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oomlout_oobb_part_tray_stackable_experiment_stackable_1_1_width_1_height_9_mm_depth |  
 | height | 1 |  
 | height_mm | 14 |  

@@ -1,21 +1,313 @@
 bearing: 0.1
+bip_39_word_dash_1: veteran
+bip_39_word_dash_10: veteran-because-scan-bread-label-jacket-multiply-crawl-level-kingdom
+bip_39_word_dash_11: veteran-because-scan-bread-label-jacket-multiply-crawl-level-kingdom-pole
+bip_39_word_dash_12: veteran-because-scan-bread-label-jacket-multiply-crawl-level-kingdom-pole-aunt
+bip_39_word_dash_2: veteran-because
+bip_39_word_dash_3: veteran-because-scan
+bip_39_word_dash_4: veteran-because-scan-bread
+bip_39_word_dash_5: veteran-because-scan-bread-label
+bip_39_word_dash_6: veteran-because-scan-bread-label-jacket
+bip_39_word_dash_7: veteran-because-scan-bread-label-jacket-multiply
+bip_39_word_dash_8: veteran-because-scan-bread-label-jacket-multiply-crawl
+bip_39_word_dash_9: veteran-because-scan-bread-label-jacket-multiply-crawl-level
+bip_39_word_new_br_1: veteran
+bip_39_word_new_br_10: veteran<br>because<br>scan<br>bread<br>label<br>jacket<br>multiply<br>crawl<br>level<br>kingdom
+bip_39_word_new_br_11: veteran<br>because<br>scan<br>bread<br>label<br>jacket<br>multiply<br>crawl<br>level<br>kingdom<br>pole
+bip_39_word_new_br_12: veteran<br>because<br>scan<br>bread<br>label<br>jacket<br>multiply<br>crawl<br>level<br>kingdom<br>pole<br>aunt
+bip_39_word_new_br_2: veteran<br>because
+bip_39_word_new_br_3: veteran<br>because<br>scan
+bip_39_word_new_br_4: veteran<br>because<br>scan<br>bread
+bip_39_word_new_br_5: veteran<br>because<br>scan<br>bread<br>label
+bip_39_word_new_br_6: veteran<br>because<br>scan<br>bread<br>label<br>jacket
+bip_39_word_new_br_7: veteran<br>because<br>scan<br>bread<br>label<br>jacket<br>multiply
+bip_39_word_new_br_8: veteran<br>because<br>scan<br>bread<br>label<br>jacket<br>multiply<br>crawl
+bip_39_word_new_br_9: veteran<br>because<br>scan<br>bread<br>label<br>jacket<br>multiply<br>crawl<br>level
+bip_39_word_new_line_1: veteran
+bip_39_word_new_line_10: 'veteran
+
+  because
+
+  scan
+
+  bread
+
+  label
+
+  jacket
+
+  multiply
+
+  crawl
+
+  level
+
+  kingdom'
+bip_39_word_new_line_11: 'veteran
+
+  because
+
+  scan
+
+  bread
+
+  label
+
+  jacket
+
+  multiply
+
+  crawl
+
+  level
+
+  kingdom
+
+  pole'
+bip_39_word_new_line_12: 'veteran
+
+  because
+
+  scan
+
+  bread
+
+  label
+
+  jacket
+
+  multiply
+
+  crawl
+
+  level
+
+  kingdom
+
+  pole
+
+  aunt'
+bip_39_word_new_line_2: 'veteran
+
+  because'
+bip_39_word_new_line_3: 'veteran
+
+  because
+
+  scan'
+bip_39_word_new_line_4: 'veteran
+
+  because
+
+  scan
+
+  bread'
+bip_39_word_new_line_5: 'veteran
+
+  because
+
+  scan
+
+  bread
+
+  label'
+bip_39_word_new_line_6: 'veteran
+
+  because
+
+  scan
+
+  bread
+
+  label
+
+  jacket'
+bip_39_word_new_line_7: 'veteran
+
+  because
+
+  scan
+
+  bread
+
+  label
+
+  jacket
+
+  multiply'
+bip_39_word_new_line_8: 'veteran
+
+  because
+
+  scan
+
+  bread
+
+  label
+
+  jacket
+
+  multiply
+
+  crawl'
+bip_39_word_new_line_9: 'veteran
+
+  because
+
+  scan
+
+  bread
+
+  label
+
+  jacket
+
+  multiply
+
+  crawl
+
+  level'
+bip_39_word_no_space_1: veteran
+bip_39_word_no_space_10: veteranbecausescanbreadlabeljacketmultiplycrawllevelkingdom
+bip_39_word_no_space_11: veteranbecausescanbreadlabeljacketmultiplycrawllevelkingdompole
+bip_39_word_no_space_12: veteranbecausescanbreadlabeljacketmultiplycrawllevelkingdompoleaunt
+bip_39_word_no_space_2: veteranbecause
+bip_39_word_no_space_3: veteranbecausescan
+bip_39_word_no_space_4: veteranbecausescanbread
+bip_39_word_no_space_5: veteranbecausescanbreadlabel
+bip_39_word_no_space_6: veteranbecausescanbreadlabeljacket
+bip_39_word_no_space_7: veteranbecausescanbreadlabeljacketmultiply
+bip_39_word_no_space_8: veteranbecausescanbreadlabeljacketmultiplycrawl
+bip_39_word_no_space_9: veteranbecausescanbreadlabeljacketmultiplycrawllevel
+bip_39_word_space_0:
+- veteran
+- because
+- scan
+- bread
+- label
+- jacket
+- multiply
+- crawl
+- level
+- kingdom
+- pole
+- aunt
+bip_39_word_space_1: veteran
+bip_39_word_space_10: veteran because scan bread label jacket multiply crawl level
+  kingdom
+bip_39_word_space_11: veteran because scan bread label jacket multiply crawl level
+  kingdom pole
+bip_39_word_space_12: veteran because scan bread label jacket multiply crawl level
+  kingdom pole aunt
+bip_39_word_space_2: veteran because
+bip_39_word_space_3: veteran because scan
+bip_39_word_space_4: veteran because scan bread
+bip_39_word_space_5: veteran because scan bread label
+bip_39_word_space_6: veteran because scan bread label jacket
+bip_39_word_space_7: veteran because scan bread label jacket multiply
+bip_39_word_space_8: veteran because scan bread label jacket multiply crawl
+bip_39_word_space_9: veteran because scan bread label jacket multiply crawl level
+bip_39_word_underscore_1: veteran
+bip_39_word_underscore_10: veteran_because_scan_bread_label_jacket_multiply_crawl_level_kingdom
+bip_39_word_underscore_11: veteran_because_scan_bread_label_jacket_multiply_crawl_level_kingdom_pole
+bip_39_word_underscore_12: veteran_because_scan_bread_label_jacket_multiply_crawl_level_kingdom_pole_aunt
+bip_39_word_underscore_2: veteran_because
+bip_39_word_underscore_3: veteran_because_scan
+bip_39_word_underscore_4: veteran_because_scan_bread
+bip_39_word_underscore_5: veteran_because_scan_bread_label
+bip_39_word_underscore_6: veteran_because_scan_bread_label_jacket
+bip_39_word_underscore_7: veteran_because_scan_bread_label_jacket_multiply
+bip_39_word_underscore_8: veteran_because_scan_bread_label_jacket_multiply_crawl
+bip_39_word_underscore_9: veteran_because_scan_bread_label_jacket_multiply_crawl_level
 classification: oobb
+classification_length_1: o
+classification_length_2: oo
+classification_length_3: oob
+classification_length_4: oobb
+classification_length_5: oobb
+classification_length_6: oobb
+classification_name: Oobb
+classification_no_space_length_1: o
+classification_no_space_length_2: oo
+classification_no_space_length_3: oob
+classification_no_space_length_4: oobb
+classification_no_space_length_5: oobb
+classification_no_space_length_6: oobb
+classification_no_space_upper_length_1: O
+classification_no_space_upper_length_2: OO
+classification_no_space_upper_length_3: OOB
+classification_no_space_upper_length_4: OOBB
+classification_no_space_upper_length_5: OOBB
+classification_no_space_upper_length_6: OOBB
+classification_upper_length_1: O
+classification_upper_length_2: OO
+classification_upper_length_3: OOB
+classification_upper_length_4: OOBB
+classification_upper_length_5: OOBB
+classification_upper_length_6: OOBB
 color: ''
+color_name: ''
 components: []
 components_objects: []
 components_string: []
 description: test 0x0x0
 description_extra: 0.1_bearing_6_shaft_hole_extra
+description_extra_length_1: '0'
+description_extra_length_2: '0.'
+description_extra_length_3: '0.1'
+description_extra_length_4: '0.1_'
+description_extra_length_5: 0.1_b
+description_extra_length_6: 0.1_be
+description_extra_name: 0.1 Bearing 6 Shaft Hole Extra
+description_extra_no_space_length_1: '0'
+description_extra_no_space_length_2: '0.'
+description_extra_no_space_length_3: '0.1'
+description_extra_no_space_length_4: 0.1b
+description_extra_no_space_length_5: 0.1be
+description_extra_no_space_length_6: 0.1bea
+description_extra_no_space_upper_length_1: '0'
+description_extra_no_space_upper_length_2: '0.'
+description_extra_no_space_upper_length_3: '0.1'
+description_extra_no_space_upper_length_4: 0.1B
+description_extra_no_space_upper_length_5: 0.1BE
+description_extra_no_space_upper_length_6: 0.1BEA
+description_extra_upper_length_1: '0'
+description_extra_upper_length_2: '0.'
+description_extra_upper_length_3: '0.1'
+description_extra_upper_length_4: '0.1_'
+description_extra_upper_length_5: 0.1_B
+description_extra_upper_length_6: 0.1_BE
 description_main: ''
+description_main_name: ''
+directory: parts/oobb_part_test_0d1_bearing_6_shaft_hole_extra
 extra: hole
 folder: C:\gh\oomlout_oobb_version_4_generated_parts\parts\oobb_part_test_0d1_bearing_6_shaft_hole_extra
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_test_0d1_bearing_6_shaft_hole_extra
 id: oobb_part_test_0d1_bearing_6_shaft_hole_extra
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%20
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20
+id_no_class: part_test_0d1_bearing_6_shaft_hole_extra
+id_no_color: 0d1bearing6shaftholeextra
+id_no_size: 0d1_bearing_6_shaft_hole_extra
+id_no_type: test_0d1_bearing_6_shaft_hole_extra
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%209kkri
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%209kkri
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%209kkri
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%209kkri
 manufacturer: ''
+manufacturer_name: ''
+md5: f54f1eac0532b22ddc3e11b78044f799
+md5_10: f54f1eac05
+md5_10_upper: F54F1EAC05
+md5_5: f54f1
+md5_5_upper: F54F1
+md5_6: f54f1e
+md5_6_alpha: 9kkri
+md5_6_alpha_upper: 9KKRI
+md5_6_upper: F54F1E
 name: Oobb Part Test 0D1 Bearing 6 Shaft Hole Extra
+name_no_class: Part Test 0D1 Bearing 6 Shaft Hole Extra
+name_no_color: 0D1Bearing6Shaftholeextra
+name_no_size: 0D1 Bearing 6 Shaft Hole Extra
+name_no_type: Test 0D1 Bearing 6 Shaft Hole Extra
 name_short: Test 0D1 Bearing 6 Shaft Hole Extra
 oomlout_detail_hierarchy_1: oobb
 oomlout_detail_hierarchy_1_upper: OOBB
@@ -33,11 +325,73 @@ oomlout_detail_hierarchy_5: hole_extra
 oomlout_detail_hierarchy_5_upper: HOLE_EXTRA
 oomlout_detail_hierarchy_5_upper_length_4: HOLE
 oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_oobb_part_test_0d1_bearing_6_shaft_hole_extra
+oomp_word: four ant angel
+oomp_word_emoji: ':four: :ant: :angel:'
+oomp_word_emoji_list:
+- ':four:'
+- ':ant:'
+- ':angel:'
+oomp_word_list:
+- four
+- ant
+- angel
 part_number: ''
+part_number_name: ''
 price_1_name: orbital_fasteners
 price_2_name: accu
 price_3_name: amazon
 shaft: 6
 short_name: ''
 size: test
+size_length_1: t
+size_length_2: te
+size_length_3: tes
+size_length_4: test
+size_length_5: test
+size_length_6: test
+size_name: Test
+size_no_space_length_1: t
+size_no_space_length_2: te
+size_no_space_length_3: tes
+size_no_space_length_4: test
+size_no_space_length_5: test
+size_no_space_length_6: test
+size_no_space_upper_length_1: T
+size_no_space_upper_length_2: TE
+size_no_space_upper_length_3: TES
+size_no_space_upper_length_4: TEST
+size_no_space_upper_length_5: TEST
+size_no_space_upper_length_6: TEST
+size_upper_length_1: T
+size_upper_length_2: TE
+size_upper_length_3: TES
+size_upper_length_4: TEST
+size_upper_length_5: TEST
+size_upper_length_6: TEST
 type: part
+type_length_1: p
+type_length_2: pa
+type_length_3: par
+type_length_4: part
+type_length_5: part
+type_length_6: part
+type_name: Part
+type_no_space_length_1: p
+type_no_space_length_2: pa
+type_no_space_length_3: par
+type_no_space_length_4: part
+type_no_space_length_5: part
+type_no_space_length_6: part
+type_no_space_upper_length_1: P
+type_no_space_upper_length_2: PA
+type_no_space_upper_length_3: PAR
+type_no_space_upper_length_4: PART
+type_no_space_upper_length_5: PART
+type_no_space_upper_length_6: PART
+type_upper_length_1: P
+type_upper_length_2: PA
+type_upper_length_3: PAR
+type_upper_length_4: PART
+type_upper_length_5: PART
+type_upper_length_6: PART

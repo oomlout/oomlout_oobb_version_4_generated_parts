@@ -24,16 +24,16 @@ other 1x3x14
   * description_extra: m6_shaft_ptfe_tube_holder_extra
   * manufacturer: 
   * part_number: 
-  * bip 39 word 2: 
-  * bip 39 word 3: 
-  * bip 39 word: 
+  * bip 39 word 2: pipe measure
+  * bip 39 word 3: pipe measure fat
+  * bip 39 word: pipe measure fat pepper dad crouch kidney paddle misery call cat ask
 
 ### other_codes
 * short_code: 
-* oomp_word: 
-* oomp_word_emoji 
-* md5_6_alpha: 
-* md5_6: 
+* oomp_word: corn baby_chick wrench
+* oomp_word_emoji :corn: :baby_chick: :wrench:
+* md5_6_alpha: 8a6iw
+* md5_6: d44788
 
 
 
@@ -42,10 +42,10 @@ other 1x3x14
 
 ### oomlout_oomp_utility_custom_data_manipulation
 #### label print
-[3x2](http://192.168.1.245:1112/?label=oomp%20)
-[3x2_oomp_table](http://192.168.1.108:1112/?label=oomp%20)
-[2x1](http://192.168.1.242:1112/?label=oomp%20)
-[6x4](http://192.168.1.55:1112/?label=oomp%20)    
+[3x2](http://192.168.1.245:1112/?label=oomp%208a6iw)
+[3x2_oomp_table](http://192.168.1.108:1112/?label=oomp%208a6iw)
+[2x1](http://192.168.1.242:1112/?label=oomp%208a6iw)
+[6x4](http://192.168.1.55:1112/?label=oomp%208a6iw)    
 
 #### link
 
@@ -63,23 +63,35 @@ other 1x3x14
 | key | value |  
 | --- | --- |  
 | classification | oobb |  
+| classification_name | Oobb |  
 | color |  |  
+| color_name |  |  
 | components | [] |  
 | components_objects | [] |  
 | components_string | [] |  
 | description | other 1x3x14 |  
 | description_extra | m6_shaft_ptfe_tube_holder_extra |  
+| description_extra_name | M6 Shaft Ptfe Tube Holder Extra |  
 | description_main | 1_width_3_height_14_mm_depth |  
+| description_main_name | 1 Width 3 Height 14 mm Depth |  
+| directory | parts/oobb_part_other_1_width_3_height_14_mm_depth_m6_shaft_ptfe_tube_holder_extra |  
 | extra | ptfe_tube_holder |  
 | folder | C:\gh\oomlout_oobb_version_4_generated_parts\parts\oobb_part_other_1_width_3_height_14_mm_depth_m6_shaft_ptfe_tube_holder_extra |  
+| github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_other_1_width_3_height_14_mm_depth_m6_shaft_ptfe_tube_holder_extra |  
 | height | 3 |  
 | height_mm | 44 |  
 | id | oobb_part_other_1_width_3_height_14_mm_depth_m6_shaft_ptfe_tube_holder_extra |  
-| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%20 |  
-| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%20 |  
-| link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%20 |  
-| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%20 |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%208a6iw |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%208a6iw |  
+| link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%208a6iw |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%208a6iw |  
 | manufacturer |  |  
+| manufacturer_name |  |  
+| md5 | d447881c6d9ecf4cd09b7a2ea6e27d2a |  
+| md5_10 | d447881c6d |  
+| md5_5 | d4478 |  
+| md5_6 | d44788 |  
+| md5_6_alpha | 8a6iw |  
 | name | Oobb Part Other 1 Width 3 Height 14 mm Depth M6 Shaft Ptfe Tube Holder Extra |  
 | name_short | Other 1x3x14 M6 Shaft Ptfe Tube Holder |  
 | oomlout_detail_hierarchy_1 | oobb |  
@@ -89,12 +101,20 @@ other 1x3x14
 | oomlout_detail_hierarchy_5 | m6_shaft_ptfe_tube |  
 | oomlout_detail_hierarchy_6 | holder_extra |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
+| oomp_key | oomp_oobb_part_other_1_width_3_height_14_mm_depth_m6_shaft_ptfe_tube_holder_extra |  
+| oomp_word | corn baby_chick wrench |  
+| oomp_word_emoji | :corn: :baby_chick: :wrench: |  
+| oomp_word_emoji_list | [':corn:', ':baby_chick:', ':wrench:'] |  
+| oomp_word_list | ['corn', 'baby_chick', 'wrench'] |  
 | part_number |  |  
+| part_number_name |  |  
 | shaft | m6 |  
 | short_name |  |  
 | size | other |  
+| size_name | Other |  
 | thickness | 14 |  
 | thickness_mm | 14 |  
 | type | part |  
+| type_name | Part |  
 | width | 1 |  
 | width_mm | 14 |  

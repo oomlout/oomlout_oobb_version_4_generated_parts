@@ -24,16 +24,16 @@ bolt 0x0x0
   * description_extra: m6_radius_name_60_depth
   * manufacturer: 
   * part_number: 
-  * bip 39 word 2: 
-  * bip 39 word 3: 
-  * bip 39 word: 
+  * bip 39 word 2: injury master
+  * bip 39 word 3: injury master cash
+  * bip 39 word: injury master cash cushion foam trick photo spread way jeans mosquito alert
 
 ### other_codes
 * short_code: 
-* oomp_word: 
-* oomp_word_emoji 
-* md5_6_alpha: 
-* md5_6: 
+* oomp_word: rose skull baby
+* oomp_word_emoji :rose: :skull: :baby:
+* md5_6_alpha: 3v8kd
+* md5_6: 63201d
 
 
 
@@ -42,10 +42,10 @@ bolt 0x0x0
 
 ### oomlout_oomp_utility_custom_data_manipulation
 #### label print
-[3x2](http://192.168.1.245:1112/?label=oomp%20)
-[3x2_oomp_table](http://192.168.1.108:1112/?label=oomp%20)
-[2x1](http://192.168.1.242:1112/?label=oomp%20)
-[6x4](http://192.168.1.55:1112/?label=oomp%20)    
+[3x2](http://192.168.1.245:1112/?label=oomp%203v8kd)
+[3x2_oomp_table](http://192.168.1.108:1112/?label=oomp%203v8kd)
+[2x1](http://192.168.1.242:1112/?label=oomp%203v8kd)
+[6x4](http://192.168.1.55:1112/?label=oomp%203v8kd)    
 
 #### link
 
@@ -63,21 +63,33 @@ bolt 0x0x0
 | key | value |  
 | --- | --- |  
 | classification | oobb |  
+| classification_name | Oobb |  
 | color |  |  
+| color_name |  |  
 | components | [] |  
 | components_objects | [] |  
 | components_string | [] |  
 | depth | 60 |  
 | description | bolt 0x0x0 |  
 | description_extra | m6_radius_name_60_depth |  
+| description_extra_name | M6 Radius Name 60 Depth |  
 | description_main |  |  
+| description_main_name |  |  
+| directory | parts/oobb_part_bolt_m6_radius_name_60_depth |  
 | folder | C:\gh\oomlout_oobb_version_4_generated_parts\parts\oobb_part_bolt_m6_radius_name_60_depth |  
+| github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bolt_m6_radius_name_60_depth |  
 | id | oobb_part_bolt_m6_radius_name_60_depth |  
-| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%20 |  
-| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%20 |  
-| link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%20 |  
-| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%20 |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%203v8kd |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%203v8kd |  
+| link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%203v8kd |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%203v8kd |  
 | manufacturer |  |  
+| manufacturer_name |  |  
+| md5 | 63201defc0d31477a1ad036646a22ba1 |  
+| md5_10 | 63201defc0 |  
+| md5_5 | 63201 |  
+| md5_6 | 63201d |  
+| md5_6_alpha | 3v8kd |  
 | name | Oobb Part Bolt M6 Radius Name 60 Depth |  
 | name_short | Bolt M6 Radius Name 60 Depth |  
 | oomlout_detail_hierarchy_1 | oobb |  
@@ -85,8 +97,16 @@ bolt 0x0x0
 | oomlout_detail_hierarchy_3 | bolt |  
 | oomlout_detail_hierarchy_4 | m6_radius_name_60_depth |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
+| oomp_key | oomp_oobb_part_bolt_m6_radius_name_60_depth |  
+| oomp_word | rose skull baby |  
+| oomp_word_emoji | :rose: :skull: :baby: |  
+| oomp_word_emoji_list | [':rose:', ':skull:', ':baby:'] |  
+| oomp_word_list | ['rose', 'skull', 'baby'] |  
 | part_number |  |  
+| part_number_name |  |  
 | radius_name | m6 |  
 | short_name |  |  
 | size | bolt |  
+| size_name | Bolt |  
 | type | part |  
+| type_name | Part |  

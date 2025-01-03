@@ -24,16 +24,16 @@ test 0x0x0
   * description_extra: motor_tt_01_extra
   * manufacturer: 
   * part_number: 
-  * bip 39 word 2: 
-  * bip 39 word 3: 
-  * bip 39 word: 
+  * bip 39 word 2: film firm
+  * bip 39 word 3: film firm acid
+  * bip 39 word: film firm acid guitar certain almost private else echo guilt account aspect
 
 ### other_codes
 * short_code: 
-* oomp_word: 
-* oomp_word_emoji 
-* md5_6_alpha: 
-* md5_6: 
+* oomp_word: school grin pray
+* oomp_word_emoji :school: :grin: :pray:
+* md5_6_alpha: 8cm55
+* md5_6: d60319
 
 
 
@@ -42,10 +42,10 @@ test 0x0x0
 
 ### oomlout_oomp_utility_custom_data_manipulation
 #### label print
-[3x2](http://192.168.1.245:1112/?label=oomp%20)
-[3x2_oomp_table](http://192.168.1.108:1112/?label=oomp%20)
-[2x1](http://192.168.1.242:1112/?label=oomp%20)
-[6x4](http://192.168.1.55:1112/?label=oomp%20)    
+[3x2](http://192.168.1.245:1112/?label=oomp%208cm55)
+[3x2_oomp_table](http://192.168.1.108:1112/?label=oomp%208cm55)
+[2x1](http://192.168.1.242:1112/?label=oomp%208cm55)
+[6x4](http://192.168.1.55:1112/?label=oomp%208cm55)    
 
 #### link
 
@@ -63,21 +63,33 @@ test 0x0x0
 | key | value |  
 | --- | --- |  
 | classification | oobb |  
+| classification_name | Oobb |  
 | color |  |  
+| color_name |  |  
 | components | [] |  
 | components_objects | [] |  
 | components_string | [] |  
 | description | test 0x0x0 |  
 | description_extra | motor_tt_01_extra |  
+| description_extra_name | Motor Tt 01 Extra |  
 | description_main |  |  
+| description_main_name |  |  
+| directory | parts/oobb_part_test_motor_tt_01_extra |  
 | extra | motor_tt_01 |  
 | folder | C:\gh\oomlout_oobb_version_4_generated_parts\parts\oobb_part_test_motor_tt_01_extra |  
+| github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_test_motor_tt_01_extra |  
 | id | oobb_part_test_motor_tt_01_extra |  
-| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%20 |  
-| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%20 |  
-| link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%20 |  
-| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%20 |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%208cm55 |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%208cm55 |  
+| link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%208cm55 |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%208cm55 |  
 | manufacturer |  |  
+| manufacturer_name |  |  
+| md5 | d60319ea2f4835641b12d67c03d5d2b2 |  
+| md5_10 | d60319ea2f |  
+| md5_5 | d6031 |  
+| md5_6 | d60319 |  
+| md5_6_alpha | 8cm55 |  
 | name | Oobb Part Test Motor Tt 01 Extra |  
 | name_short | Test Motor Tt 01 Extra |  
 | oomlout_detail_hierarchy_1 | oobb |  
@@ -85,7 +97,15 @@ test 0x0x0
 | oomlout_detail_hierarchy_3 | test |  
 | oomlout_detail_hierarchy_4 | motor_tt_01_extra |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
+| oomp_key | oomp_oobb_part_test_motor_tt_01_extra |  
+| oomp_word | school grin pray |  
+| oomp_word_emoji | :school: :grin: :pray: |  
+| oomp_word_emoji_list | [':school:', ':grin:', ':pray:'] |  
+| oomp_word_list | ['school', 'grin', 'pray'] |  
 | part_number |  |  
+| part_number_name |  |  
 | short_name |  |  
 | size | test |  
+| size_name | Test |  
 | type | part |  
+| type_name | Part |  

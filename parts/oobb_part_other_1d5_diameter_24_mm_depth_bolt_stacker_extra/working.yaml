@@ -1,21 +1,337 @@
+bip_39_word_dash_1: bracket
+bip_39_word_dash_10: bracket-fee-regret-lonely-check-advice-warrior-produce-vanish-fault
+bip_39_word_dash_11: bracket-fee-regret-lonely-check-advice-warrior-produce-vanish-fault-squirrel
+bip_39_word_dash_12: bracket-fee-regret-lonely-check-advice-warrior-produce-vanish-fault-squirrel-auction
+bip_39_word_dash_2: bracket-fee
+bip_39_word_dash_3: bracket-fee-regret
+bip_39_word_dash_4: bracket-fee-regret-lonely
+bip_39_word_dash_5: bracket-fee-regret-lonely-check
+bip_39_word_dash_6: bracket-fee-regret-lonely-check-advice
+bip_39_word_dash_7: bracket-fee-regret-lonely-check-advice-warrior
+bip_39_word_dash_8: bracket-fee-regret-lonely-check-advice-warrior-produce
+bip_39_word_dash_9: bracket-fee-regret-lonely-check-advice-warrior-produce-vanish
+bip_39_word_new_br_1: bracket
+bip_39_word_new_br_10: bracket<br>fee<br>regret<br>lonely<br>check<br>advice<br>warrior<br>produce<br>vanish<br>fault
+bip_39_word_new_br_11: bracket<br>fee<br>regret<br>lonely<br>check<br>advice<br>warrior<br>produce<br>vanish<br>fault<br>squirrel
+bip_39_word_new_br_12: bracket<br>fee<br>regret<br>lonely<br>check<br>advice<br>warrior<br>produce<br>vanish<br>fault<br>squirrel<br>auction
+bip_39_word_new_br_2: bracket<br>fee
+bip_39_word_new_br_3: bracket<br>fee<br>regret
+bip_39_word_new_br_4: bracket<br>fee<br>regret<br>lonely
+bip_39_word_new_br_5: bracket<br>fee<br>regret<br>lonely<br>check
+bip_39_word_new_br_6: bracket<br>fee<br>regret<br>lonely<br>check<br>advice
+bip_39_word_new_br_7: bracket<br>fee<br>regret<br>lonely<br>check<br>advice<br>warrior
+bip_39_word_new_br_8: bracket<br>fee<br>regret<br>lonely<br>check<br>advice<br>warrior<br>produce
+bip_39_word_new_br_9: bracket<br>fee<br>regret<br>lonely<br>check<br>advice<br>warrior<br>produce<br>vanish
+bip_39_word_new_line_1: bracket
+bip_39_word_new_line_10: 'bracket
+
+  fee
+
+  regret
+
+  lonely
+
+  check
+
+  advice
+
+  warrior
+
+  produce
+
+  vanish
+
+  fault'
+bip_39_word_new_line_11: 'bracket
+
+  fee
+
+  regret
+
+  lonely
+
+  check
+
+  advice
+
+  warrior
+
+  produce
+
+  vanish
+
+  fault
+
+  squirrel'
+bip_39_word_new_line_12: 'bracket
+
+  fee
+
+  regret
+
+  lonely
+
+  check
+
+  advice
+
+  warrior
+
+  produce
+
+  vanish
+
+  fault
+
+  squirrel
+
+  auction'
+bip_39_word_new_line_2: 'bracket
+
+  fee'
+bip_39_word_new_line_3: 'bracket
+
+  fee
+
+  regret'
+bip_39_word_new_line_4: 'bracket
+
+  fee
+
+  regret
+
+  lonely'
+bip_39_word_new_line_5: 'bracket
+
+  fee
+
+  regret
+
+  lonely
+
+  check'
+bip_39_word_new_line_6: 'bracket
+
+  fee
+
+  regret
+
+  lonely
+
+  check
+
+  advice'
+bip_39_word_new_line_7: 'bracket
+
+  fee
+
+  regret
+
+  lonely
+
+  check
+
+  advice
+
+  warrior'
+bip_39_word_new_line_8: 'bracket
+
+  fee
+
+  regret
+
+  lonely
+
+  check
+
+  advice
+
+  warrior
+
+  produce'
+bip_39_word_new_line_9: 'bracket
+
+  fee
+
+  regret
+
+  lonely
+
+  check
+
+  advice
+
+  warrior
+
+  produce
+
+  vanish'
+bip_39_word_no_space_1: bracket
+bip_39_word_no_space_10: bracketfeeregretlonelycheckadvicewarriorproducevanishfault
+bip_39_word_no_space_11: bracketfeeregretlonelycheckadvicewarriorproducevanishfaultsquirrel
+bip_39_word_no_space_12: bracketfeeregretlonelycheckadvicewarriorproducevanishfaultsquirrelauction
+bip_39_word_no_space_2: bracketfee
+bip_39_word_no_space_3: bracketfeeregret
+bip_39_word_no_space_4: bracketfeeregretlonely
+bip_39_word_no_space_5: bracketfeeregretlonelycheck
+bip_39_word_no_space_6: bracketfeeregretlonelycheckadvice
+bip_39_word_no_space_7: bracketfeeregretlonelycheckadvicewarrior
+bip_39_word_no_space_8: bracketfeeregretlonelycheckadvicewarriorproduce
+bip_39_word_no_space_9: bracketfeeregretlonelycheckadvicewarriorproducevanish
+bip_39_word_space_0:
+- bracket
+- fee
+- regret
+- lonely
+- check
+- advice
+- warrior
+- produce
+- vanish
+- fault
+- squirrel
+- auction
+bip_39_word_space_1: bracket
+bip_39_word_space_10: bracket fee regret lonely check advice warrior produce vanish
+  fault
+bip_39_word_space_11: bracket fee regret lonely check advice warrior produce vanish
+  fault squirrel
+bip_39_word_space_12: bracket fee regret lonely check advice warrior produce vanish
+  fault squirrel auction
+bip_39_word_space_2: bracket fee
+bip_39_word_space_3: bracket fee regret
+bip_39_word_space_4: bracket fee regret lonely
+bip_39_word_space_5: bracket fee regret lonely check
+bip_39_word_space_6: bracket fee regret lonely check advice
+bip_39_word_space_7: bracket fee regret lonely check advice warrior
+bip_39_word_space_8: bracket fee regret lonely check advice warrior produce
+bip_39_word_space_9: bracket fee regret lonely check advice warrior produce vanish
+bip_39_word_underscore_1: bracket
+bip_39_word_underscore_10: bracket_fee_regret_lonely_check_advice_warrior_produce_vanish_fault
+bip_39_word_underscore_11: bracket_fee_regret_lonely_check_advice_warrior_produce_vanish_fault_squirrel
+bip_39_word_underscore_12: bracket_fee_regret_lonely_check_advice_warrior_produce_vanish_fault_squirrel_auction
+bip_39_word_underscore_2: bracket_fee
+bip_39_word_underscore_3: bracket_fee_regret
+bip_39_word_underscore_4: bracket_fee_regret_lonely
+bip_39_word_underscore_5: bracket_fee_regret_lonely_check
+bip_39_word_underscore_6: bracket_fee_regret_lonely_check_advice
+bip_39_word_underscore_7: bracket_fee_regret_lonely_check_advice_warrior
+bip_39_word_underscore_8: bracket_fee_regret_lonely_check_advice_warrior_produce
+bip_39_word_underscore_9: bracket_fee_regret_lonely_check_advice_warrior_produce_vanish
 classification: oobb
+classification_length_1: o
+classification_length_2: oo
+classification_length_3: oob
+classification_length_4: oobb
+classification_length_5: oobb
+classification_length_6: oobb
+classification_name: Oobb
+classification_no_space_length_1: o
+classification_no_space_length_2: oo
+classification_no_space_length_3: oob
+classification_no_space_length_4: oobb
+classification_no_space_length_5: oobb
+classification_no_space_length_6: oobb
+classification_no_space_upper_length_1: O
+classification_no_space_upper_length_2: OO
+classification_no_space_upper_length_3: OOB
+classification_no_space_upper_length_4: OOBB
+classification_no_space_upper_length_5: OOBB
+classification_no_space_upper_length_6: OOBB
+classification_upper_length_1: O
+classification_upper_length_2: OO
+classification_upper_length_3: OOB
+classification_upper_length_4: OOBB
+classification_upper_length_5: OOBB
+classification_upper_length_6: OOBB
 color: ''
+color_name: ''
 components: []
 components_objects: []
 components_string: []
 description: other 0x0x24
 description_extra: bolt_stacker_extra
+description_extra_length_1: b
+description_extra_length_2: bo
+description_extra_length_3: bol
+description_extra_length_4: bolt
+description_extra_length_5: bolt_
+description_extra_length_6: bolt_s
+description_extra_name: Bolt Stacker Extra
+description_extra_no_space_length_1: b
+description_extra_no_space_length_2: bo
+description_extra_no_space_length_3: bol
+description_extra_no_space_length_4: bolt
+description_extra_no_space_length_5: bolts
+description_extra_no_space_length_6: boltst
+description_extra_no_space_upper_length_1: B
+description_extra_no_space_upper_length_2: BO
+description_extra_no_space_upper_length_3: BOL
+description_extra_no_space_upper_length_4: BOLT
+description_extra_no_space_upper_length_5: BOLTS
+description_extra_no_space_upper_length_6: BOLTST
+description_extra_upper_length_1: B
+description_extra_upper_length_2: BO
+description_extra_upper_length_3: BOL
+description_extra_upper_length_4: BOLT
+description_extra_upper_length_5: BOLT_
+description_extra_upper_length_6: BOLT_S
 description_main: 1.5_diameter_24_mm_depth
+description_main_length_1: '1'
+description_main_length_2: '1.'
+description_main_length_3: '1.5'
+description_main_length_4: '1.5_'
+description_main_length_5: 1.5_d
+description_main_length_6: 1.5_di
+description_main_name: 1.5 Diameter 24 mm Depth
+description_main_no_space_length_1: '1'
+description_main_no_space_length_2: '1.'
+description_main_no_space_length_3: '1.5'
+description_main_no_space_length_4: 1.5d
+description_main_no_space_length_5: 1.5di
+description_main_no_space_length_6: 1.5dia
+description_main_no_space_upper_length_1: '1'
+description_main_no_space_upper_length_2: '1.'
+description_main_no_space_upper_length_3: '1.5'
+description_main_no_space_upper_length_4: 1.5D
+description_main_no_space_upper_length_5: 1.5DI
+description_main_no_space_upper_length_6: 1.5DIA
+description_main_upper_length_1: '1'
+description_main_upper_length_2: '1.'
+description_main_upper_length_3: '1.5'
+description_main_upper_length_4: '1.5_'
+description_main_upper_length_5: 1.5_D
+description_main_upper_length_6: 1.5_DI
 diameter: 1.5
+directory: parts/oobb_part_other_1d5_diameter_24_mm_depth_bolt_stacker_extra
 extra: bolt_stacker
 folder: C:\gh\oomlout_oobb_version_4_generated_parts\parts\oobb_part_other_1d5_diameter_24_mm_depth_bolt_stacker_extra
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_other_1d5_diameter_24_mm_depth_bolt_stacker_extra
 id: oobb_part_other_1d5_diameter_24_mm_depth_bolt_stacker_extra
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%20
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20
+id_no_class: part_other_1d5_diameter_24_mm_depth_bolt_stacker_extra
+id_no_color: 1d5diameter24mmdepthboltstackerextra
+id_no_size: 1d5_diameter_24_mm_depth_bolt_stacker_extra
+id_no_type: other_1d5_diameter_24_mm_depth_bolt_stacker_extra
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%209cms4
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%209cms4
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%209cms4
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%209cms4
 manufacturer: ''
+manufacturer_name: ''
+md5: efa754ff8aabbee81013883b695520d6
+md5_10: efa754ff8a
+md5_10_upper: EFA754FF8A
+md5_5: efa75
+md5_5_upper: EFA75
+md5_6: efa754
+md5_6_alpha: 9cms4
+md5_6_alpha_upper: 9CMS4
+md5_6_upper: EFA754
 name: Oobb Part Other 1D5 Diameter 24 mm Depth Bolt Stacker Extra
+name_no_class: Part Other 1D5 Diameter 24 mm Depth Bolt Stacker Extra
+name_no_color: 1D5Diameter24mmdepthboltstackerextra
+name_no_size: 1D5 Diameter 24 mm Depth Bolt Stacker Extra
+name_no_type: Other 1D5 Diameter 24 mm Depth Bolt Stacker Extra
 name_short: Other 1D5x24 Bolt Stacker Extra
 oomlout_detail_hierarchy_1: oobb
 oomlout_detail_hierarchy_1_upper: OOBB
@@ -36,12 +352,74 @@ oomlout_detail_hierarchy_6: bolt_stacker_extra
 oomlout_detail_hierarchy_6_upper: BOLT_STACKER_EXTRA
 oomlout_detail_hierarchy_6_upper_length_4: BOLT
 oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_oobb_part_other_1d5_diameter_24_mm_depth_bolt_stacker_extra
+oomp_word: truck guitar whale
+oomp_word_emoji: ':truck: :guitar: :whale:'
+oomp_word_emoji_list:
+- ':truck:'
+- ':guitar:'
+- ':whale:'
+oomp_word_list:
+- truck
+- guitar
+- whale
 part_number: ''
+part_number_name: ''
 price_1_name: orbital_fasteners
 price_2_name: accu
 price_3_name: amazon
 short_name: ''
 size: other
+size_length_1: o
+size_length_2: ot
+size_length_3: oth
+size_length_4: othe
+size_length_5: other
+size_length_6: other
+size_name: Other
+size_no_space_length_1: o
+size_no_space_length_2: ot
+size_no_space_length_3: oth
+size_no_space_length_4: othe
+size_no_space_length_5: other
+size_no_space_length_6: other
+size_no_space_upper_length_1: O
+size_no_space_upper_length_2: OT
+size_no_space_upper_length_3: OTH
+size_no_space_upper_length_4: OTHE
+size_no_space_upper_length_5: OTHER
+size_no_space_upper_length_6: OTHER
+size_upper_length_1: O
+size_upper_length_2: OT
+size_upper_length_3: OTH
+size_upper_length_4: OTHE
+size_upper_length_5: OTHER
+size_upper_length_6: OTHER
 thickness: 24
 thickness_mm: 24
 type: part
+type_length_1: p
+type_length_2: pa
+type_length_3: par
+type_length_4: part
+type_length_5: part
+type_length_6: part
+type_name: Part
+type_no_space_length_1: p
+type_no_space_length_2: pa
+type_no_space_length_3: par
+type_no_space_length_4: part
+type_no_space_length_5: part
+type_no_space_length_6: part
+type_no_space_upper_length_1: P
+type_no_space_upper_length_2: PA
+type_no_space_upper_length_3: PAR
+type_no_space_upper_length_4: PART
+type_no_space_upper_length_5: PART
+type_no_space_upper_length_6: PART
+type_upper_length_1: P
+type_upper_length_2: PA
+type_upper_length_3: PAR
+type_upper_length_4: PART
+type_upper_length_5: PART
+type_upper_length_6: PART

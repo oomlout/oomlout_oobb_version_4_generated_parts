@@ -1,0 +1,117 @@
+# Oobb Part Oomlout Oobb Part Tray Stackable Experiment Stackable 1 4 Width 2 Height 12 mm Depth  
+
+note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
+
+##  part details
+  
+
+
+
+oomlout oobb part tray stackable experiment stackable 1 4x2x12
+
+
+
+### name
+* name: Oobb Part Oomlout Oobb Part Tray Stackable Experiment Stackable 1 4 Width 2 Height 12 mm Depth
+* name_short: Oomlout Tray Stackable Experiment
+### id
+* oomp_id: oobb_part_oomlout_oobb_part_tray_stackable_experiment_stackable_1_4_width_2_height_12_mm_depth
+  * classification: oobb
+  * type: part
+  * size: oomlout_oobb_part_tray_stackable_experiment_stackable_1
+  * color: 
+  * description_main: 4_width_2_height_12_mm_depth
+  * description_extra: 
+  * manufacturer: 
+  * part_number: 
+  * bip 39 word 2: kingdom moral
+  * bip 39 word 3: kingdom moral car
+  * bip 39 word: kingdom moral car monitor warm solid layer velvet broken require winter achieve
+
+### other_codes
+* short_code: 
+* oomp_word: baby seven snowman
+* oomp_word_emoji :baby: :seven: :snowman:
+* md5_6_alpha: 163hp
+* md5_6: 1df82d
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%20163hp)
+[3x2_oomp_table](http://192.168.1.108:1112/?label=oomp%20163hp)
+[2x1](http://192.168.1.242:1112/?label=oomp%20163hp)
+[6x4](http://192.168.1.55:1112/?label=oomp%20163hp)    
+
+#### link
+
+                              
+
+#### price
+
+
+
+
+
+
+
+### all codes 
+| key | value |  
+| --- | --- |  
+| classification | oobb |  
+| classification_name | Oobb |  
+| color |  |  
+| color_name |  |  
+| components | [] |  
+| components_objects | [] |  
+| components_string | [] |  
+| description | oomlout oobb part tray stackable experiment stackable 1 4x2x12 |  
+| description_extra |  |  
+| description_extra_name |  |  
+| description_main | 4_width_2_height_12_mm_depth |  
+| description_main_name | 4 Width 2 Height 12 mm Depth |  
+| directory | parts/oobb_part_oomlout_oobb_part_tray_stackable_experiment_stackable_1_4_width_2_height_12_mm_depth |  
+| folder | C:\gh\oomlout_oobb_version_4_generated_parts\parts\oobb_part_oomlout_oobb_part_tray_stackable_experiment_stackable_1_4_width_2_height_12_mm_depth |  
+| github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oomlout_oobb_part_tray_stackable_experiment_stackable_1_4_width_2_height_12_mm_depth |  
+| height | 2 |  
+| height_mm | 29 |  
+| id | oobb_part_oomlout_oobb_part_tray_stackable_experiment_stackable_1_4_width_2_height_12_mm_depth |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%20163hp |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%20163hp |  
+| link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%20163hp |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%20163hp |  
+| manufacturer |  |  
+| manufacturer_name |  |  
+| md5 | 1df82dc0e4f20fcb3afb98f044a3ebd5 |  
+| md5_10 | 1df82dc0e4 |  
+| md5_5 | 1df82 |  
+| md5_6 | 1df82d |  
+| md5_6_alpha | 163hp |  
+| name | Oobb Part Oomlout Oobb Part Tray Stackable Experiment Stackable 1 4 Width 2 Height 12 mm Depth |  
+| name_short | Oomlout Tray Stackable Experiment |  
+| oomlout_detail_hierarchy_1 | oobb |  
+| oomlout_detail_hierarchy_2 | part |  
+| oomlout_detail_hierarchy_3 | oobb_part_tray |  
+| oomlout_detail_hierarchy_4 | stackable_experiment_stackable_1 |  
+| oomlout_detail_hierarchy_5 | 12_mm_depth |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
+| oomp_key | oomp_oobb_part_oomlout_oobb_part_tray_stackable_experiment_stackable_1_4_width_2_height_12_mm_depth |  
+| oomp_word | baby seven snowman |  
+| oomp_word_emoji | :baby: :seven: :snowman: |  
+| oomp_word_emoji_list | [':baby:', ':seven:', ':snowman:'] |  
+| oomp_word_list | ['baby', 'seven', 'snowman'] |  
+| part_number |  |  
+| part_number_name |  |  
+| short_name |  |  
+| size | oomlout_oobb_part_tray_stackable_experiment_stackable_1 |  
+| size_name | Oomlout Oobb Part Tray Stackable Experiment Stackable 1 |  
+| thickness | 12 |  
+| thickness_mm | 12 |  
+| type | part |  
+| type_name | Part |  
+| width | 4 |  
+| width_mm | 59 |  
