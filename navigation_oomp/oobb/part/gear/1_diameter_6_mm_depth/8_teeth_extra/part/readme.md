@@ -49,7 +49,7 @@ gear 0x0x6
 
 #### link
 
-                              
+[link_main](https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/gear/1_diameter_6_mm_depth/8_teeth_extra/part)                              
 
 #### price
 
@@ -77,13 +77,17 @@ gear 0x0x6
 | diameter | 1 |  
 | directory | parts/oobb_part_gear_1_diameter_6_mm_depth_8_teeth_extra |  
 | extra | 8_teeth |  
-| folder | C:\gh\oomlout_oobb_version_4_generated_parts\things\oobb_part_gear_1_diameter_6_mm_depth_8_teeth_extra |  
+| folder | C:\gh\oomlout_oobb_version_4_generated_parts\parts\oobb_part_gear_1_diameter_6_mm_depth_8_teeth_extra |  
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_1_diameter_6_mm_depth_8_teeth_extra |  
 | id | oobb_part_gear_1_diameter_6_mm_depth_8_teeth_extra |  
+| link_1 | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/gear/1_diameter_6_mm_depth/8_teeth_extra/part |  
+| link_1_name | link_main |  
+| link_main | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/gear/1_diameter_6_mm_depth/8_teeth_extra/part |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%208wwws |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%208wwws |  
 | link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%208wwws |  
 | link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%208wwws |  
+| link_redirect | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/oobb_gear_01_06_ex_8_teeth |  
 | manufacturer |  |  
 | manufacturer_name |  |  
 | md5 | e4769cd1bdbfde40abc751c9ccce6f19 |  

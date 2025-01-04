@@ -49,7 +49,7 @@ holder 3x3x3
 
 #### link
 
-                              
+[link_main](https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/holder/3_width_3_height_3_mm_depth/electronic_potentiometer_17_mm_extra/part)                              
 
 #### price
 
@@ -76,15 +76,19 @@ holder 3x3x3
 | description_main_name | 3 Width 3 Height 3 mm Depth |  
 | directory | parts/oobb_part_holder_3_width_3_height_3_mm_depth_electronic_potentiometer_17_mm_extra |  
 | extra | electronic_potentiometer_17_mm |  
-| folder | C:\gh\oomlout_oobb_version_4_generated_parts\things\oobb_part_holder_3_width_3_height_3_mm_depth_electronic_potentiometer_17_mm_extra |  
+| folder | C:\gh\oomlout_oobb_version_4_generated_parts\parts\oobb_part_holder_3_width_3_height_3_mm_depth_electronic_potentiometer_17_mm_extra |  
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_holder_3_width_3_height_3_mm_depth_electronic_potentiometer_17_mm_extra |  
 | height | 3 |  
 | height_mm | 44 |  
 | id | oobb_part_holder_3_width_3_height_3_mm_depth_electronic_potentiometer_17_mm_extra |  
+| link_1 | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/holder/3_width_3_height_3_mm_depth/electronic_potentiometer_17_mm_extra/part |  
+| link_1_name | link_main |  
+| link_main | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/holder/3_width_3_height_3_mm_depth/electronic_potentiometer_17_mm_extra/part |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%209gn93 |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%209gn93 |  
 | link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%209gn93 |  
 | link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%209gn93 |  
+| link_redirect | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/oobb_holder_03_03_03_ex_electronic_potentiometer_17_mm |  
 | manufacturer |  |  
 | manufacturer_name |  |  
 | md5 | f282b754df576eab5e98a7eee100f8f3 |  

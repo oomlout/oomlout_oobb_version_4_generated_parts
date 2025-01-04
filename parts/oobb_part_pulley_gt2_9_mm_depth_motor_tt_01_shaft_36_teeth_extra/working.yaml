@@ -1,21 +1,428 @@
+bip_39_word_dash_1: gaze
+bip_39_word_dash_10: gaze-buyer-round-proof-clarify-pioneer-beach-dash-immune-armed
+bip_39_word_dash_11: gaze-buyer-round-proof-clarify-pioneer-beach-dash-immune-armed-attitude
+bip_39_word_dash_12: gaze-buyer-round-proof-clarify-pioneer-beach-dash-immune-armed-attitude-any
+bip_39_word_dash_2: gaze-buyer
+bip_39_word_dash_3: gaze-buyer-round
+bip_39_word_dash_4: gaze-buyer-round-proof
+bip_39_word_dash_5: gaze-buyer-round-proof-clarify
+bip_39_word_dash_6: gaze-buyer-round-proof-clarify-pioneer
+bip_39_word_dash_7: gaze-buyer-round-proof-clarify-pioneer-beach
+bip_39_word_dash_8: gaze-buyer-round-proof-clarify-pioneer-beach-dash
+bip_39_word_dash_9: gaze-buyer-round-proof-clarify-pioneer-beach-dash-immune
+bip_39_word_new_br_1: gaze
+bip_39_word_new_br_10: gaze<br>buyer<br>round<br>proof<br>clarify<br>pioneer<br>beach<br>dash<br>immune<br>armed
+bip_39_word_new_br_11: gaze<br>buyer<br>round<br>proof<br>clarify<br>pioneer<br>beach<br>dash<br>immune<br>armed<br>attitude
+bip_39_word_new_br_12: gaze<br>buyer<br>round<br>proof<br>clarify<br>pioneer<br>beach<br>dash<br>immune<br>armed<br>attitude<br>any
+bip_39_word_new_br_2: gaze<br>buyer
+bip_39_word_new_br_3: gaze<br>buyer<br>round
+bip_39_word_new_br_4: gaze<br>buyer<br>round<br>proof
+bip_39_word_new_br_5: gaze<br>buyer<br>round<br>proof<br>clarify
+bip_39_word_new_br_6: gaze<br>buyer<br>round<br>proof<br>clarify<br>pioneer
+bip_39_word_new_br_7: gaze<br>buyer<br>round<br>proof<br>clarify<br>pioneer<br>beach
+bip_39_word_new_br_8: gaze<br>buyer<br>round<br>proof<br>clarify<br>pioneer<br>beach<br>dash
+bip_39_word_new_br_9: gaze<br>buyer<br>round<br>proof<br>clarify<br>pioneer<br>beach<br>dash<br>immune
+bip_39_word_new_line_1: gaze
+bip_39_word_new_line_10: 'gaze
+
+  buyer
+
+  round
+
+  proof
+
+  clarify
+
+  pioneer
+
+  beach
+
+  dash
+
+  immune
+
+  armed'
+bip_39_word_new_line_11: 'gaze
+
+  buyer
+
+  round
+
+  proof
+
+  clarify
+
+  pioneer
+
+  beach
+
+  dash
+
+  immune
+
+  armed
+
+  attitude'
+bip_39_word_new_line_12: 'gaze
+
+  buyer
+
+  round
+
+  proof
+
+  clarify
+
+  pioneer
+
+  beach
+
+  dash
+
+  immune
+
+  armed
+
+  attitude
+
+  any'
+bip_39_word_new_line_2: 'gaze
+
+  buyer'
+bip_39_word_new_line_3: 'gaze
+
+  buyer
+
+  round'
+bip_39_word_new_line_4: 'gaze
+
+  buyer
+
+  round
+
+  proof'
+bip_39_word_new_line_5: 'gaze
+
+  buyer
+
+  round
+
+  proof
+
+  clarify'
+bip_39_word_new_line_6: 'gaze
+
+  buyer
+
+  round
+
+  proof
+
+  clarify
+
+  pioneer'
+bip_39_word_new_line_7: 'gaze
+
+  buyer
+
+  round
+
+  proof
+
+  clarify
+
+  pioneer
+
+  beach'
+bip_39_word_new_line_8: 'gaze
+
+  buyer
+
+  round
+
+  proof
+
+  clarify
+
+  pioneer
+
+  beach
+
+  dash'
+bip_39_word_new_line_9: 'gaze
+
+  buyer
+
+  round
+
+  proof
+
+  clarify
+
+  pioneer
+
+  beach
+
+  dash
+
+  immune'
+bip_39_word_no_space_1: gaze
+bip_39_word_no_space_10: gazebuyerroundproofclarifypioneerbeachdashimmunearmed
+bip_39_word_no_space_11: gazebuyerroundproofclarifypioneerbeachdashimmunearmedattitude
+bip_39_word_no_space_12: gazebuyerroundproofclarifypioneerbeachdashimmunearmedattitudeany
+bip_39_word_no_space_2: gazebuyer
+bip_39_word_no_space_3: gazebuyerround
+bip_39_word_no_space_4: gazebuyerroundproof
+bip_39_word_no_space_5: gazebuyerroundproofclarify
+bip_39_word_no_space_6: gazebuyerroundproofclarifypioneer
+bip_39_word_no_space_7: gazebuyerroundproofclarifypioneerbeach
+bip_39_word_no_space_8: gazebuyerroundproofclarifypioneerbeachdash
+bip_39_word_no_space_9: gazebuyerroundproofclarifypioneerbeachdashimmune
+bip_39_word_space_0:
+- gaze
+- buyer
+- round
+- proof
+- clarify
+- pioneer
+- beach
+- dash
+- immune
+- armed
+- attitude
+- any
+bip_39_word_space_1: gaze
+bip_39_word_space_10: gaze buyer round proof clarify pioneer beach dash immune armed
+bip_39_word_space_11: gaze buyer round proof clarify pioneer beach dash immune armed
+  attitude
+bip_39_word_space_12: gaze buyer round proof clarify pioneer beach dash immune armed
+  attitude any
+bip_39_word_space_2: gaze buyer
+bip_39_word_space_3: gaze buyer round
+bip_39_word_space_4: gaze buyer round proof
+bip_39_word_space_5: gaze buyer round proof clarify
+bip_39_word_space_6: gaze buyer round proof clarify pioneer
+bip_39_word_space_7: gaze buyer round proof clarify pioneer beach
+bip_39_word_space_8: gaze buyer round proof clarify pioneer beach dash
+bip_39_word_space_9: gaze buyer round proof clarify pioneer beach dash immune
+bip_39_word_underscore_1: gaze
+bip_39_word_underscore_10: gaze_buyer_round_proof_clarify_pioneer_beach_dash_immune_armed
+bip_39_word_underscore_11: gaze_buyer_round_proof_clarify_pioneer_beach_dash_immune_armed_attitude
+bip_39_word_underscore_12: gaze_buyer_round_proof_clarify_pioneer_beach_dash_immune_armed_attitude_any
+bip_39_word_underscore_2: gaze_buyer
+bip_39_word_underscore_3: gaze_buyer_round
+bip_39_word_underscore_4: gaze_buyer_round_proof
+bip_39_word_underscore_5: gaze_buyer_round_proof_clarify
+bip_39_word_underscore_6: gaze_buyer_round_proof_clarify_pioneer
+bip_39_word_underscore_7: gaze_buyer_round_proof_clarify_pioneer_beach
+bip_39_word_underscore_8: gaze_buyer_round_proof_clarify_pioneer_beach_dash
+bip_39_word_underscore_9: gaze_buyer_round_proof_clarify_pioneer_beach_dash_immune
 classification: oobb
+classification_length_1: o
+classification_length_2: oo
+classification_length_3: oob
+classification_length_4: oobb
+classification_length_5: oobb
+classification_length_6: oobb
+classification_name: Oobb
+classification_no_space_length_1: o
+classification_no_space_length_2: oo
+classification_no_space_length_3: oob
+classification_no_space_length_4: oobb
+classification_no_space_length_5: oobb
+classification_no_space_length_6: oobb
+classification_no_space_upper_length_1: O
+classification_no_space_upper_length_2: OO
+classification_no_space_upper_length_3: OOB
+classification_no_space_upper_length_4: OOBB
+classification_no_space_upper_length_5: OOBB
+classification_no_space_upper_length_6: OOBB
+classification_upper_length_1: O
+classification_upper_length_2: OO
+classification_upper_length_3: OOB
+classification_upper_length_4: OOBB
+classification_upper_length_5: OOBB
+classification_upper_length_6: OOBB
 color: ''
+color_name: ''
 components: []
 components_objects: []
 components_string: []
 description: pulley gt2 0x0x9
 description_extra: motor_tt_01_shaft_36_teeth_extra
+description_extra_length_1: m
+description_extra_length_2: mo
+description_extra_length_3: mot
+description_extra_length_4: moto
+description_extra_length_5: motor
+description_extra_length_6: motor_
+description_extra_name: Motor Tt 01 Shaft 36 Teeth Extra
+description_extra_no_space_length_1: m
+description_extra_no_space_length_2: mo
+description_extra_no_space_length_3: mot
+description_extra_no_space_length_4: moto
+description_extra_no_space_length_5: motor
+description_extra_no_space_length_6: motort
+description_extra_no_space_upper_length_1: M
+description_extra_no_space_upper_length_2: MO
+description_extra_no_space_upper_length_3: MOT
+description_extra_no_space_upper_length_4: MOTO
+description_extra_no_space_upper_length_5: MOTOR
+description_extra_no_space_upper_length_6: MOTORT
+description_extra_upper_length_1: M
+description_extra_upper_length_2: MO
+description_extra_upper_length_3: MOT
+description_extra_upper_length_4: MOTO
+description_extra_upper_length_5: MOTOR
+description_extra_upper_length_6: MOTOR_
 description_main: 9_mm_depth
+description_main_length_1: '9'
+description_main_length_2: '9_'
+description_main_length_3: 9_m
+description_main_length_4: 9_mm
+description_main_length_5: 9_mm_
+description_main_length_6: 9_mm_d
+description_main_name: 9 mm Depth
+description_main_no_space_length_1: '9'
+description_main_no_space_length_2: 9m
+description_main_no_space_length_3: 9mm
+description_main_no_space_length_4: 9mmd
+description_main_no_space_length_5: 9mmde
+description_main_no_space_length_6: 9mmdep
+description_main_no_space_upper_length_1: '9'
+description_main_no_space_upper_length_2: 9M
+description_main_no_space_upper_length_3: 9MM
+description_main_no_space_upper_length_4: 9MMD
+description_main_no_space_upper_length_5: 9MMDE
+description_main_no_space_upper_length_6: 9MMDEP
+description_main_upper_length_1: '9'
+description_main_upper_length_2: '9_'
+description_main_upper_length_3: 9_M
+description_main_upper_length_4: 9_MM
+description_main_upper_length_5: 9_MM_
+description_main_upper_length_6: 9_MM_D
+directory: parts/oobb_part_pulley_gt2_9_mm_depth_motor_tt_01_shaft_36_teeth_extra
 extra: 36_teeth
 folder: C:\gh\oomlout_oobb_version_4_generated_parts\parts\oobb_part_pulley_gt2_9_mm_depth_motor_tt_01_shaft_36_teeth_extra
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_9_mm_depth_motor_tt_01_shaft_36_teeth_extra
 id: oobb_part_pulley_gt2_9_mm_depth_motor_tt_01_shaft_36_teeth_extra
+id_no_class: part_pulley_gt2_9_mm_depth_motor_tt_01_shaft_36_teeth_extra
+id_no_color: 9mmdepthmotortt01shaft36teethextra
+id_no_size: 9_mm_depth_motor_tt_01_shaft_36_teeth_extra
+id_no_type: pulley_gt2_9_mm_depth_motor_tt_01_shaft_36_teeth_extra
+link_1: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/pulley_gt2/9_mm_depth/motor_tt_01_shaft_36_teeth_extra/part
+link_1_name: link_main
+link_main: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/pulley_gt2/9_mm_depth/motor_tt_01_shaft_36_teeth_extra/part
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%206bps2
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%206bps2
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%206bps2
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%206bps2
+link_redirect: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/oobb_pulley_gt2_09_ex_36_teeth_sh_motor_tt_01
 manufacturer: ''
+manufacturer_name: ''
+md5: a21d42f38d37a26e9494fac578c7db05
+md5_10: a21d42f38d
+md5_10_upper: A21D42F38D
+md5_5: a21d4
+md5_5_upper: A21D4
+md5_6: a21d42
+md5_6_alpha: 6bps2
+md5_6_alpha_upper: 6BPS2
+md5_6_upper: A21D42
 name: Oobb Part Pulley Gt2 9 mm Depth Motor Tt 01 Shaft 36 Teeth Extra
+name_no_class: Part Pulley Gt2 9 mm Depth Motor Tt 01 Shaft 36 Teeth Extra
+name_no_color: 9mmdepthmotortt01Shaft36Teethextra
+name_no_size: 9 mm Depth Motor Tt 01 Shaft 36 Teeth Extra
+name_no_type: Pulley Gt2 9 mm Depth Motor Tt 01 Shaft 36 Teeth Extra
 name_short: Pulley Gt2 9 Motor Tt 01 Shaft 36 Teeth
+oomlout_detail_hierarchy_1: oobb
+oomlout_detail_hierarchy_1_upper: OOBB
+oomlout_detail_hierarchy_1_upper_length_4: OOBB
+oomlout_detail_hierarchy_2: part
+oomlout_detail_hierarchy_2_upper: PART
+oomlout_detail_hierarchy_2_upper_length_4: PART
+oomlout_detail_hierarchy_3: pulley_gt2
+oomlout_detail_hierarchy_3_upper: PULLEY_GT2
+oomlout_detail_hierarchy_3_upper_length_4: PULL
+oomlout_detail_hierarchy_4: 9_mm_depth
+oomlout_detail_hierarchy_4_upper: 9_MM_DEPTH
+oomlout_detail_hierarchy_4_upper_length_4: 9DEP
+oomlout_detail_hierarchy_5: motor_tt_01_shaft
+oomlout_detail_hierarchy_5_upper: MOTOR_TT_01_SHAFT
+oomlout_detail_hierarchy_5_upper_length_4: MOTO
+oomlout_detail_hierarchy_6: 36_teeth_extra
+oomlout_detail_hierarchy_6_upper: 36_TEETH_EXTRA
+oomlout_detail_hierarchy_6_upper_length_4: 36_T
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_oobb_part_pulley_gt2_9_mm_depth_motor_tt_01_shaft_36_teeth_extra
+oomp_word: violin baby sheep
+oomp_word_emoji: ':violin: :baby: :sheep:'
+oomp_word_emoji_list:
+- ':violin:'
+- ':baby:'
+- ':sheep:'
+oomp_word_list:
+- violin
+- baby
+- sheep
 part_number: ''
+part_number_name: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
 shaft: motor_tt_01
 short_name: ''
 size: pulley_gt2
+size_length_1: p
+size_length_2: pu
+size_length_3: pul
+size_length_4: pull
+size_length_5: pulle
+size_length_6: pulley
+size_name: Pulley Gt2
+size_no_space_length_1: p
+size_no_space_length_2: pu
+size_no_space_length_3: pul
+size_no_space_length_4: pull
+size_no_space_length_5: pulle
+size_no_space_length_6: pulley
+size_no_space_upper_length_1: P
+size_no_space_upper_length_2: PU
+size_no_space_upper_length_3: PUL
+size_no_space_upper_length_4: PULL
+size_no_space_upper_length_5: PULLE
+size_no_space_upper_length_6: PULLEY
+size_upper_length_1: P
+size_upper_length_2: PU
+size_upper_length_3: PUL
+size_upper_length_4: PULL
+size_upper_length_5: PULLE
+size_upper_length_6: PULLEY
 thickness: 9
 thickness_mm: 9
 type: part
+type_length_1: p
+type_length_2: pa
+type_length_3: par
+type_length_4: part
+type_length_5: part
+type_length_6: part
+type_name: Part
+type_no_space_length_1: p
+type_no_space_length_2: pa
+type_no_space_length_3: par
+type_no_space_length_4: part
+type_no_space_length_5: part
+type_no_space_length_6: part
+type_no_space_upper_length_1: P
+type_no_space_upper_length_2: PA
+type_no_space_upper_length_3: PAR
+type_no_space_upper_length_4: PART
+type_no_space_upper_length_5: PART
+type_no_space_upper_length_6: PART
+type_upper_length_1: P
+type_upper_length_2: PA
+type_upper_length_3: PAR
+type_upper_length_4: PART
+type_upper_length_5: PART
+type_upper_length_6: PART

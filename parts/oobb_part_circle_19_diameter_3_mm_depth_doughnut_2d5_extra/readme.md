@@ -5,7 +5,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ##  part details
   
 
-
+[![](3dpr.png)](3dpr.png)
 
 circle 0x0x3
 
@@ -49,7 +49,7 @@ circle 0x0x3
 
 #### link
 
-                              
+[link_main](https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/circle/19_diameter_3_mm_depth/doughnut_2.5_extra/part)                              
 
 #### price
 
@@ -77,13 +77,17 @@ circle 0x0x3
 | diameter | 19 |  
 | directory | parts/oobb_part_circle_19_diameter_3_mm_depth_doughnut_2d5_extra |  
 | extra | doughnut_2.5 |  
-| folder | C:\gh\oomlout_oobb_version_4_generated_parts\things\oobb_part_circle_19_diameter_3_mm_depth_doughnut_2d5_extra |  
+| folder | C:\gh\oomlout_oobb_version_4_generated_parts\parts\oobb_part_circle_19_diameter_3_mm_depth_doughnut_2d5_extra |  
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_circle_19_diameter_3_mm_depth_doughnut_2d5_extra |  
 | id | oobb_part_circle_19_diameter_3_mm_depth_doughnut_2d5_extra |  
+| link_1 | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/circle/19_diameter_3_mm_depth/doughnut_2.5_extra/part |  
+| link_1_name | link_main |  
+| link_main | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/circle/19_diameter_3_mm_depth/doughnut_2.5_extra/part |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%209skzl |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%209skzl |  
 | link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%209skzl |  
 | link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%209skzl |  
+| link_redirect | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/oobb_circle_19_03_ex_doughnut_2d5 |  
 | manufacturer |  |  
 | manufacturer_name |  |  
 | md5 | fb02410a388994e9ff0f72ea12ea8b17 |  

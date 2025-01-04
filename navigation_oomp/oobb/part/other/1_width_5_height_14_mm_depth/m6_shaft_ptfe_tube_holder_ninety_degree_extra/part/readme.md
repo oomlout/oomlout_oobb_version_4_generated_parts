@@ -49,7 +49,7 @@ other 1x5x14
 
 #### link
 
-                              
+[link_main](https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/other/1_width_5_height_14_mm_depth/m6_shaft_ptfe_tube_holder_ninety_degree_extra/part)                              
 
 #### price
 
@@ -81,10 +81,14 @@ other 1x5x14
 | height | 5 |  
 | height_mm | 74 |  
 | id | oobb_part_other_1_width_5_height_14_mm_depth_m6_shaft_ptfe_tube_holder_ninety_degree_extra |  
+| link_1 | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/other/1_width_5_height_14_mm_depth/m6_shaft_ptfe_tube_holder_ninety_degree_extra/part |  
+| link_1_name | link_main |  
+| link_main | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/other/1_width_5_height_14_mm_depth/m6_shaft_ptfe_tube_holder_ninety_degree_extra/part |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%206ioud |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%206ioud |  
 | link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%206ioud |  
 | link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%206ioud |  
+| link_redirect | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/oobb_other_01_05_14_ex_ptfe_tube_holder_ninety_degree_sh_m6 |  
 | manufacturer |  |  
 | manufacturer_name |  |  
 | md5 | a714458365787b869225b2abeae8eacf |  

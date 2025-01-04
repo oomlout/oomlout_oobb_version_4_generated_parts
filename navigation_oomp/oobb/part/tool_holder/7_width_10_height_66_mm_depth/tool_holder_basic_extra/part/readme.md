@@ -49,7 +49,7 @@ tool holder 7x10x66
 
 #### link
 
-                              
+[link_main](https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/tool_holder/7_width_10_height_66_mm_depth/tool_holder_basic_extra/part)                              
 
 #### price
 
@@ -76,15 +76,19 @@ tool holder 7x10x66
 | description_main_name | 7 Width 10 Height 66 mm Depth |  
 | directory | parts/oobb_part_tool_holder_7_width_10_height_66_mm_depth_tool_holder_basic_extra |  
 | extra | tool_holder_basic |  
-| folder | C:\gh\oomlout_oobb_version_4_generated_parts\things\oobb_part_tool_holder_7_width_10_height_66_mm_depth_tool_holder_basic_extra |  
+| folder | C:\gh\oomlout_oobb_version_4_generated_parts\parts\oobb_part_tool_holder_7_width_10_height_66_mm_depth_tool_holder_basic_extra |  
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tool_holder_7_width_10_height_66_mm_depth_tool_holder_basic_extra |  
 | height | 10 |  
 | height_mm | 149 |  
 | id | oobb_part_tool_holder_7_width_10_height_66_mm_depth_tool_holder_basic_extra |  
+| link_1 | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/tool_holder/7_width_10_height_66_mm_depth/tool_holder_basic_extra/part |  
+| link_1_name | link_main |  
+| link_main | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/tool_holder/7_width_10_height_66_mm_depth/tool_holder_basic_extra/part |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%20t4ji |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%20t4ji |  
 | link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%20t4ji |  
 | link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%20t4ji |  
+| link_redirect | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/oobb_tool_holder_07_10_66_ex_tool_holder_basic |  
 | manufacturer |  |  
 | manufacturer_name |  |  
 | md5 | 14bc3e3b674c912cfb02378d2c7bc6b7 |  

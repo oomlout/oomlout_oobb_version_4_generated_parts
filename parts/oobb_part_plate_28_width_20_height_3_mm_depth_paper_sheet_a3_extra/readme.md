@@ -49,7 +49,7 @@ plate 28x20x3
 
 #### link
 
-                              
+[link_main](https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/plate/28_width_20_height_3_mm_depth/paper_sheet_a3_extra/part)                              
 
 #### price
 
@@ -76,15 +76,19 @@ plate 28x20x3
 | description_main_name | 28 Width 20 Height 3 mm Depth |  
 | directory | parts/oobb_part_plate_28_width_20_height_3_mm_depth_paper_sheet_a3_extra |  
 | extra | paper_sheet_a3 |  
-| folder | C:\gh\oomlout_oobb_version_4_generated_parts\things\oobb_part_plate_28_width_20_height_3_mm_depth_paper_sheet_a3_extra |  
+| folder | C:\gh\oomlout_oobb_version_4_generated_parts\parts\oobb_part_plate_28_width_20_height_3_mm_depth_paper_sheet_a3_extra |  
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_28_width_20_height_3_mm_depth_paper_sheet_a3_extra |  
 | height | 20 |  
 | height_mm | 299 |  
 | id | oobb_part_plate_28_width_20_height_3_mm_depth_paper_sheet_a3_extra |  
+| link_1 | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/plate/28_width_20_height_3_mm_depth/paper_sheet_a3_extra/part |  
+| link_1_name | link_main |  
+| link_main | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/plate/28_width_20_height_3_mm_depth/paper_sheet_a3_extra/part |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%209k0xo |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%209k0xo |  
 | link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%209k0xo |  
 | link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%209k0xo |  
+| link_redirect | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/oobb_plate_28_20_03_ex_paper_sheet_a3 |  
 | manufacturer |  |  
 | manufacturer_name |  |  
 | md5 | f4eabc4240e337cb62247d7079ab9450 |  

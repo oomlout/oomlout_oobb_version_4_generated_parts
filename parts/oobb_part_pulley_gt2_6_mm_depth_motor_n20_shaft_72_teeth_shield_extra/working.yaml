@@ -1,21 +1,428 @@
+bip_39_word_dash_1: adapt
+bip_39_word_dash_10: adapt-output-mimic-adult-engine-ocean-fortune-dry-rotate-crawl
+bip_39_word_dash_11: adapt-output-mimic-adult-engine-ocean-fortune-dry-rotate-crawl-tribe
+bip_39_word_dash_12: adapt-output-mimic-adult-engine-ocean-fortune-dry-rotate-crawl-tribe-adapt
+bip_39_word_dash_2: adapt-output
+bip_39_word_dash_3: adapt-output-mimic
+bip_39_word_dash_4: adapt-output-mimic-adult
+bip_39_word_dash_5: adapt-output-mimic-adult-engine
+bip_39_word_dash_6: adapt-output-mimic-adult-engine-ocean
+bip_39_word_dash_7: adapt-output-mimic-adult-engine-ocean-fortune
+bip_39_word_dash_8: adapt-output-mimic-adult-engine-ocean-fortune-dry
+bip_39_word_dash_9: adapt-output-mimic-adult-engine-ocean-fortune-dry-rotate
+bip_39_word_new_br_1: adapt
+bip_39_word_new_br_10: adapt<br>output<br>mimic<br>adult<br>engine<br>ocean<br>fortune<br>dry<br>rotate<br>crawl
+bip_39_word_new_br_11: adapt<br>output<br>mimic<br>adult<br>engine<br>ocean<br>fortune<br>dry<br>rotate<br>crawl<br>tribe
+bip_39_word_new_br_12: adapt<br>output<br>mimic<br>adult<br>engine<br>ocean<br>fortune<br>dry<br>rotate<br>crawl<br>tribe<br>adapt
+bip_39_word_new_br_2: adapt<br>output
+bip_39_word_new_br_3: adapt<br>output<br>mimic
+bip_39_word_new_br_4: adapt<br>output<br>mimic<br>adult
+bip_39_word_new_br_5: adapt<br>output<br>mimic<br>adult<br>engine
+bip_39_word_new_br_6: adapt<br>output<br>mimic<br>adult<br>engine<br>ocean
+bip_39_word_new_br_7: adapt<br>output<br>mimic<br>adult<br>engine<br>ocean<br>fortune
+bip_39_word_new_br_8: adapt<br>output<br>mimic<br>adult<br>engine<br>ocean<br>fortune<br>dry
+bip_39_word_new_br_9: adapt<br>output<br>mimic<br>adult<br>engine<br>ocean<br>fortune<br>dry<br>rotate
+bip_39_word_new_line_1: adapt
+bip_39_word_new_line_10: 'adapt
+
+  output
+
+  mimic
+
+  adult
+
+  engine
+
+  ocean
+
+  fortune
+
+  dry
+
+  rotate
+
+  crawl'
+bip_39_word_new_line_11: 'adapt
+
+  output
+
+  mimic
+
+  adult
+
+  engine
+
+  ocean
+
+  fortune
+
+  dry
+
+  rotate
+
+  crawl
+
+  tribe'
+bip_39_word_new_line_12: 'adapt
+
+  output
+
+  mimic
+
+  adult
+
+  engine
+
+  ocean
+
+  fortune
+
+  dry
+
+  rotate
+
+  crawl
+
+  tribe
+
+  adapt'
+bip_39_word_new_line_2: 'adapt
+
+  output'
+bip_39_word_new_line_3: 'adapt
+
+  output
+
+  mimic'
+bip_39_word_new_line_4: 'adapt
+
+  output
+
+  mimic
+
+  adult'
+bip_39_word_new_line_5: 'adapt
+
+  output
+
+  mimic
+
+  adult
+
+  engine'
+bip_39_word_new_line_6: 'adapt
+
+  output
+
+  mimic
+
+  adult
+
+  engine
+
+  ocean'
+bip_39_word_new_line_7: 'adapt
+
+  output
+
+  mimic
+
+  adult
+
+  engine
+
+  ocean
+
+  fortune'
+bip_39_word_new_line_8: 'adapt
+
+  output
+
+  mimic
+
+  adult
+
+  engine
+
+  ocean
+
+  fortune
+
+  dry'
+bip_39_word_new_line_9: 'adapt
+
+  output
+
+  mimic
+
+  adult
+
+  engine
+
+  ocean
+
+  fortune
+
+  dry
+
+  rotate'
+bip_39_word_no_space_1: adapt
+bip_39_word_no_space_10: adaptoutputmimicadultengineoceanfortunedryrotatecrawl
+bip_39_word_no_space_11: adaptoutputmimicadultengineoceanfortunedryrotatecrawltribe
+bip_39_word_no_space_12: adaptoutputmimicadultengineoceanfortunedryrotatecrawltribeadapt
+bip_39_word_no_space_2: adaptoutput
+bip_39_word_no_space_3: adaptoutputmimic
+bip_39_word_no_space_4: adaptoutputmimicadult
+bip_39_word_no_space_5: adaptoutputmimicadultengine
+bip_39_word_no_space_6: adaptoutputmimicadultengineocean
+bip_39_word_no_space_7: adaptoutputmimicadultengineoceanfortune
+bip_39_word_no_space_8: adaptoutputmimicadultengineoceanfortunedry
+bip_39_word_no_space_9: adaptoutputmimicadultengineoceanfortunedryrotate
+bip_39_word_space_0:
+- adapt
+- output
+- mimic
+- adult
+- engine
+- ocean
+- fortune
+- dry
+- rotate
+- crawl
+- tribe
+- adapt
+bip_39_word_space_1: adapt
+bip_39_word_space_10: adapt output mimic adult engine ocean fortune dry rotate crawl
+bip_39_word_space_11: adapt output mimic adult engine ocean fortune dry rotate crawl
+  tribe
+bip_39_word_space_12: adapt output mimic adult engine ocean fortune dry rotate crawl
+  tribe adapt
+bip_39_word_space_2: adapt output
+bip_39_word_space_3: adapt output mimic
+bip_39_word_space_4: adapt output mimic adult
+bip_39_word_space_5: adapt output mimic adult engine
+bip_39_word_space_6: adapt output mimic adult engine ocean
+bip_39_word_space_7: adapt output mimic adult engine ocean fortune
+bip_39_word_space_8: adapt output mimic adult engine ocean fortune dry
+bip_39_word_space_9: adapt output mimic adult engine ocean fortune dry rotate
+bip_39_word_underscore_1: adapt
+bip_39_word_underscore_10: adapt_output_mimic_adult_engine_ocean_fortune_dry_rotate_crawl
+bip_39_word_underscore_11: adapt_output_mimic_adult_engine_ocean_fortune_dry_rotate_crawl_tribe
+bip_39_word_underscore_12: adapt_output_mimic_adult_engine_ocean_fortune_dry_rotate_crawl_tribe_adapt
+bip_39_word_underscore_2: adapt_output
+bip_39_word_underscore_3: adapt_output_mimic
+bip_39_word_underscore_4: adapt_output_mimic_adult
+bip_39_word_underscore_5: adapt_output_mimic_adult_engine
+bip_39_word_underscore_6: adapt_output_mimic_adult_engine_ocean
+bip_39_word_underscore_7: adapt_output_mimic_adult_engine_ocean_fortune
+bip_39_word_underscore_8: adapt_output_mimic_adult_engine_ocean_fortune_dry
+bip_39_word_underscore_9: adapt_output_mimic_adult_engine_ocean_fortune_dry_rotate
 classification: oobb
+classification_length_1: o
+classification_length_2: oo
+classification_length_3: oob
+classification_length_4: oobb
+classification_length_5: oobb
+classification_length_6: oobb
+classification_name: Oobb
+classification_no_space_length_1: o
+classification_no_space_length_2: oo
+classification_no_space_length_3: oob
+classification_no_space_length_4: oobb
+classification_no_space_length_5: oobb
+classification_no_space_length_6: oobb
+classification_no_space_upper_length_1: O
+classification_no_space_upper_length_2: OO
+classification_no_space_upper_length_3: OOB
+classification_no_space_upper_length_4: OOBB
+classification_no_space_upper_length_5: OOBB
+classification_no_space_upper_length_6: OOBB
+classification_upper_length_1: O
+classification_upper_length_2: OO
+classification_upper_length_3: OOB
+classification_upper_length_4: OOBB
+classification_upper_length_5: OOBB
+classification_upper_length_6: OOBB
 color: ''
+color_name: ''
 components: []
 components_objects: []
 components_string: []
 description: pulley gt2 0x0x6
 description_extra: motor_n20_shaft_72_teeth_shield_extra
+description_extra_length_1: m
+description_extra_length_2: mo
+description_extra_length_3: mot
+description_extra_length_4: moto
+description_extra_length_5: motor
+description_extra_length_6: motor_
+description_extra_name: Motor N20 Shaft 72 Teeth Shield Extra
+description_extra_no_space_length_1: m
+description_extra_no_space_length_2: mo
+description_extra_no_space_length_3: mot
+description_extra_no_space_length_4: moto
+description_extra_no_space_length_5: motor
+description_extra_no_space_length_6: motorn
+description_extra_no_space_upper_length_1: M
+description_extra_no_space_upper_length_2: MO
+description_extra_no_space_upper_length_3: MOT
+description_extra_no_space_upper_length_4: MOTO
+description_extra_no_space_upper_length_5: MOTOR
+description_extra_no_space_upper_length_6: MOTORN
+description_extra_upper_length_1: M
+description_extra_upper_length_2: MO
+description_extra_upper_length_3: MOT
+description_extra_upper_length_4: MOTO
+description_extra_upper_length_5: MOTOR
+description_extra_upper_length_6: MOTOR_
 description_main: 6_mm_depth
+description_main_length_1: '6'
+description_main_length_2: '6_'
+description_main_length_3: 6_m
+description_main_length_4: 6_mm
+description_main_length_5: 6_mm_
+description_main_length_6: 6_mm_d
+description_main_name: 6 mm Depth
+description_main_no_space_length_1: '6'
+description_main_no_space_length_2: 6m
+description_main_no_space_length_3: 6mm
+description_main_no_space_length_4: 6mmd
+description_main_no_space_length_5: 6mmde
+description_main_no_space_length_6: 6mmdep
+description_main_no_space_upper_length_1: '6'
+description_main_no_space_upper_length_2: 6M
+description_main_no_space_upper_length_3: 6MM
+description_main_no_space_upper_length_4: 6MMD
+description_main_no_space_upper_length_5: 6MMDE
+description_main_no_space_upper_length_6: 6MMDEP
+description_main_upper_length_1: '6'
+description_main_upper_length_2: '6_'
+description_main_upper_length_3: 6_M
+description_main_upper_length_4: 6_MM
+description_main_upper_length_5: 6_MM_
+description_main_upper_length_6: 6_MM_D
+directory: parts/oobb_part_pulley_gt2_6_mm_depth_motor_n20_shaft_72_teeth_shield_extra
 extra: 72_teeth_shield
 folder: C:\gh\oomlout_oobb_version_4_generated_parts\parts\oobb_part_pulley_gt2_6_mm_depth_motor_n20_shaft_72_teeth_shield_extra
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_6_mm_depth_motor_n20_shaft_72_teeth_shield_extra
 id: oobb_part_pulley_gt2_6_mm_depth_motor_n20_shaft_72_teeth_shield_extra
+id_no_class: part_pulley_gt2_6_mm_depth_motor_n20_shaft_72_teeth_shield_extra
+id_no_color: 6mmdepthmotorn20shaft72teethshieldextra
+id_no_size: 6_mm_depth_motor_n20_shaft_72_teeth_shield_extra
+id_no_type: pulley_gt2_6_mm_depth_motor_n20_shaft_72_teeth_shield_extra
+link_1: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/pulley_gt2/6_mm_depth/motor_n20_shaft_72_teeth_shield_extra/part
+link_1_name: link_main
+link_main: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/pulley_gt2/6_mm_depth/motor_n20_shaft_72_teeth_shield_extra/part
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%201xz0s
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%201xz0s
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%201xz0s
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%201xz0s
+link_redirect: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/oobb_pulley_gt2_06_ex_72_teeth_shield_sh_motor_n20
 manufacturer: ''
+manufacturer_name: ''
+md5: 31d08cade143ab7263a5303d19a75818
+md5_10: 31d08cade1
+md5_10_upper: 31D08CADE1
+md5_5: 31d08
+md5_5_upper: 31D08
+md5_6: 31d08c
+md5_6_alpha: 1xz0s
+md5_6_alpha_upper: 1XZ0S
+md5_6_upper: 31D08C
 name: Oobb Part Pulley Gt2 6 mm Depth Motor N20 Shaft 72 Teeth Shield Extra
+name_no_class: Part Pulley Gt2 6 mm Depth Motor N20 Shaft 72 Teeth Shield Extra
+name_no_color: 6mmdepthmotorn20Shaft72Teethshieldextra
+name_no_size: 6 mm Depth Motor N20 Shaft 72 Teeth Shield Extra
+name_no_type: Pulley Gt2 6 mm Depth Motor N20 Shaft 72 Teeth Shield Extra
 name_short: Pulley Gt2 6 Motor N20 Shaft 72 Teeth
+oomlout_detail_hierarchy_1: oobb
+oomlout_detail_hierarchy_1_upper: OOBB
+oomlout_detail_hierarchy_1_upper_length_4: OOBB
+oomlout_detail_hierarchy_2: part
+oomlout_detail_hierarchy_2_upper: PART
+oomlout_detail_hierarchy_2_upper_length_4: PART
+oomlout_detail_hierarchy_3: pulley_gt2
+oomlout_detail_hierarchy_3_upper: PULLEY_GT2
+oomlout_detail_hierarchy_3_upper_length_4: PULL
+oomlout_detail_hierarchy_4: 6_mm_depth
+oomlout_detail_hierarchy_4_upper: 6_MM_DEPTH
+oomlout_detail_hierarchy_4_upper_length_4: 6DEP
+oomlout_detail_hierarchy_5: motor_n20_shaft_72
+oomlout_detail_hierarchy_5_upper: MOTOR_N20_SHAFT_72
+oomlout_detail_hierarchy_5_upper_length_4: MOTO
+oomlout_detail_hierarchy_6: teeth_shield_extra
+oomlout_detail_hierarchy_6_upper: TEETH_SHIELD_EXTRA
+oomlout_detail_hierarchy_6_upper_length_4: TEET
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_oobb_part_pulley_gt2_6_mm_depth_motor_n20_shaft_72_teeth_shield_extra
+oomp_word: ocean banana pill
+oomp_word_emoji: ':ocean: :banana: :pill:'
+oomp_word_emoji_list:
+- ':ocean:'
+- ':banana:'
+- ':pill:'
+oomp_word_list:
+- ocean
+- banana
+- pill
 part_number: ''
+part_number_name: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
 shaft: motor_n20
 short_name: ''
 size: pulley_gt2
+size_length_1: p
+size_length_2: pu
+size_length_3: pul
+size_length_4: pull
+size_length_5: pulle
+size_length_6: pulley
+size_name: Pulley Gt2
+size_no_space_length_1: p
+size_no_space_length_2: pu
+size_no_space_length_3: pul
+size_no_space_length_4: pull
+size_no_space_length_5: pulle
+size_no_space_length_6: pulley
+size_no_space_upper_length_1: P
+size_no_space_upper_length_2: PU
+size_no_space_upper_length_3: PUL
+size_no_space_upper_length_4: PULL
+size_no_space_upper_length_5: PULLE
+size_no_space_upper_length_6: PULLEY
+size_upper_length_1: P
+size_upper_length_2: PU
+size_upper_length_3: PUL
+size_upper_length_4: PULL
+size_upper_length_5: PULLE
+size_upper_length_6: PULLEY
 thickness: 6
 thickness_mm: 6
 type: part
+type_length_1: p
+type_length_2: pa
+type_length_3: par
+type_length_4: part
+type_length_5: part
+type_length_6: part
+type_name: Part
+type_no_space_length_1: p
+type_no_space_length_2: pa
+type_no_space_length_3: par
+type_no_space_length_4: part
+type_no_space_length_5: part
+type_no_space_length_6: part
+type_no_space_upper_length_1: P
+type_no_space_upper_length_2: PA
+type_no_space_upper_length_3: PAR
+type_no_space_upper_length_4: PART
+type_no_space_upper_length_5: PART
+type_no_space_upper_length_6: PART
+type_upper_length_1: P
+type_upper_length_2: PA
+type_upper_length_3: PAR
+type_upper_length_4: PART
+type_upper_length_5: PART
+type_upper_length_6: PART

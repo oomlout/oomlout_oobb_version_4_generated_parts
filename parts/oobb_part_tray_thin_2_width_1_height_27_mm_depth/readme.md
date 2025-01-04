@@ -49,7 +49,7 @@ tray thin 2x1x27
 
 #### link
 
-                              
+[link_main](https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/tray_thin/2_width_1_height_27_mm_depth/part)                              
 
 #### price
 
@@ -75,15 +75,19 @@ tray thin 2x1x27
 | description_main | 2_width_1_height_27_mm_depth |  
 | description_main_name | 2 Width 1 Height 27 mm Depth |  
 | directory | parts/oobb_part_tray_thin_2_width_1_height_27_mm_depth |  
-| folder | C:\gh\oomlout_oobb_version_4_generated_parts\things\oobb_part_tray_thin_2_width_1_height_27_mm_depth |  
+| folder | C:\gh\oomlout_oobb_version_4_generated_parts\parts\oobb_part_tray_thin_2_width_1_height_27_mm_depth |  
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_2_width_1_height_27_mm_depth |  
 | height | 1 |  
 | height_mm | 14 |  
 | id | oobb_part_tray_thin_2_width_1_height_27_mm_depth |  
+| link_1 | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/tray_thin/2_width_1_height_27_mm_depth/part |  
+| link_1_name | link_main |  
+| link_main | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/tray_thin/2_width_1_height_27_mm_depth/part |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%204hj0u |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%204hj0u |  
 | link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%204hj0u |  
 | link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%204hj0u |  
+| link_redirect | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/oobb_tray_thin_02_01_27 |  
 | manufacturer |  |  
 | manufacturer_name |  |  
 | md5 | 72fe8e1c190e1b2c513206df4515d7c9 |  

@@ -49,7 +49,7 @@ plate 5x5x15
 
 #### link
 
-                              
+[link_main](https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/plate/5_width_5_height_15_mm_depth/u_double_extra/part)                              
 
 #### price
 
@@ -76,15 +76,19 @@ plate 5x5x15
 | description_main_name | 5 Width 5 Height 15 mm Depth |  
 | directory | parts/oobb_part_plate_5_width_5_height_15_mm_depth_u_double_extra |  
 | extra | u_double |  
-| folder | C:\gh\oomlout_oobb_version_4_generated_parts\things\oobb_part_plate_5_width_5_height_15_mm_depth_u_double_extra |  
+| folder | C:\gh\oomlout_oobb_version_4_generated_parts\parts\oobb_part_plate_5_width_5_height_15_mm_depth_u_double_extra |  
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_5_width_5_height_15_mm_depth_u_double_extra |  
 | height | 5 |  
 | height_mm | 74 |  
 | id | oobb_part_plate_5_width_5_height_15_mm_depth_u_double_extra |  
+| link_1 | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/plate/5_width_5_height_15_mm_depth/u_double_extra/part |  
+| link_1_name | link_main |  
+| link_main | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/plate/5_width_5_height_15_mm_depth/u_double_extra/part |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%2070wnx |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%2070wnx |  
 | link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%2070wnx |  
 | link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%2070wnx |  
+| link_redirect | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/oobb_plate_05_05_15_ex_u_double |  
 | manufacturer |  |  
 | manufacturer_name |  |  
 | md5 | b40c5d3876e970e2d30e66a42b58628e |  

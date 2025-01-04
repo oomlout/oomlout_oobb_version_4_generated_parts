@@ -49,7 +49,7 @@ pulley gt2 0x0x6
 
 #### link
 
-                              
+[link_main](https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/pulley_gt2/1_diameter_6_mm_depth/m3_shaft_30_teeth_extra/part)                              
 
 #### price
 
@@ -77,13 +77,17 @@ pulley gt2 0x0x6
 | diameter | 1 |  
 | directory | parts/oobb_part_pulley_gt2_1_diameter_6_mm_depth_m3_shaft_30_teeth_extra |  
 | extra | 30_teeth |  
-| folder | C:\gh\oomlout_oobb_version_4_generated_parts\things\oobb_part_pulley_gt2_1_diameter_6_mm_depth_m3_shaft_30_teeth_extra |  
+| folder | C:\gh\oomlout_oobb_version_4_generated_parts\parts\oobb_part_pulley_gt2_1_diameter_6_mm_depth_m3_shaft_30_teeth_extra |  
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_1_diameter_6_mm_depth_m3_shaft_30_teeth_extra |  
 | id | oobb_part_pulley_gt2_1_diameter_6_mm_depth_m3_shaft_30_teeth_extra |  
+| link_1 | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/pulley_gt2/1_diameter_6_mm_depth/m3_shaft_30_teeth_extra/part |  
+| link_1_name | link_main |  
+| link_main | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/pulley_gt2/1_diameter_6_mm_depth/m3_shaft_30_teeth_extra/part |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%20750qq |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%20750qq |  
 | link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%20750qq |  
 | link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%20750qq |  
+| link_redirect | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/oobb_pulley_gt2_01_06_ex_30_teeth_sh_m3 |  
 | manufacturer |  |  
 | manufacturer_name |  |  
 | md5 | b6fa02f7fd60e4637f97af9e17562422 |  

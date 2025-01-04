@@ -1,22 +1,431 @@
+bip_39_word_dash_1: infant
+bip_39_word_dash_10: infant-borrow-cry-say-violin-bundle-immune-spin-dinner-west
+bip_39_word_dash_11: infant-borrow-cry-say-violin-bundle-immune-spin-dinner-west-canyon
+bip_39_word_dash_12: infant-borrow-cry-say-violin-bundle-immune-spin-dinner-west-canyon-admit
+bip_39_word_dash_2: infant-borrow
+bip_39_word_dash_3: infant-borrow-cry
+bip_39_word_dash_4: infant-borrow-cry-say
+bip_39_word_dash_5: infant-borrow-cry-say-violin
+bip_39_word_dash_6: infant-borrow-cry-say-violin-bundle
+bip_39_word_dash_7: infant-borrow-cry-say-violin-bundle-immune
+bip_39_word_dash_8: infant-borrow-cry-say-violin-bundle-immune-spin
+bip_39_word_dash_9: infant-borrow-cry-say-violin-bundle-immune-spin-dinner
+bip_39_word_new_br_1: infant
+bip_39_word_new_br_10: infant<br>borrow<br>cry<br>say<br>violin<br>bundle<br>immune<br>spin<br>dinner<br>west
+bip_39_word_new_br_11: infant<br>borrow<br>cry<br>say<br>violin<br>bundle<br>immune<br>spin<br>dinner<br>west<br>canyon
+bip_39_word_new_br_12: infant<br>borrow<br>cry<br>say<br>violin<br>bundle<br>immune<br>spin<br>dinner<br>west<br>canyon<br>admit
+bip_39_word_new_br_2: infant<br>borrow
+bip_39_word_new_br_3: infant<br>borrow<br>cry
+bip_39_word_new_br_4: infant<br>borrow<br>cry<br>say
+bip_39_word_new_br_5: infant<br>borrow<br>cry<br>say<br>violin
+bip_39_word_new_br_6: infant<br>borrow<br>cry<br>say<br>violin<br>bundle
+bip_39_word_new_br_7: infant<br>borrow<br>cry<br>say<br>violin<br>bundle<br>immune
+bip_39_word_new_br_8: infant<br>borrow<br>cry<br>say<br>violin<br>bundle<br>immune<br>spin
+bip_39_word_new_br_9: infant<br>borrow<br>cry<br>say<br>violin<br>bundle<br>immune<br>spin<br>dinner
+bip_39_word_new_line_1: infant
+bip_39_word_new_line_10: 'infant
+
+  borrow
+
+  cry
+
+  say
+
+  violin
+
+  bundle
+
+  immune
+
+  spin
+
+  dinner
+
+  west'
+bip_39_word_new_line_11: 'infant
+
+  borrow
+
+  cry
+
+  say
+
+  violin
+
+  bundle
+
+  immune
+
+  spin
+
+  dinner
+
+  west
+
+  canyon'
+bip_39_word_new_line_12: 'infant
+
+  borrow
+
+  cry
+
+  say
+
+  violin
+
+  bundle
+
+  immune
+
+  spin
+
+  dinner
+
+  west
+
+  canyon
+
+  admit'
+bip_39_word_new_line_2: 'infant
+
+  borrow'
+bip_39_word_new_line_3: 'infant
+
+  borrow
+
+  cry'
+bip_39_word_new_line_4: 'infant
+
+  borrow
+
+  cry
+
+  say'
+bip_39_word_new_line_5: 'infant
+
+  borrow
+
+  cry
+
+  say
+
+  violin'
+bip_39_word_new_line_6: 'infant
+
+  borrow
+
+  cry
+
+  say
+
+  violin
+
+  bundle'
+bip_39_word_new_line_7: 'infant
+
+  borrow
+
+  cry
+
+  say
+
+  violin
+
+  bundle
+
+  immune'
+bip_39_word_new_line_8: 'infant
+
+  borrow
+
+  cry
+
+  say
+
+  violin
+
+  bundle
+
+  immune
+
+  spin'
+bip_39_word_new_line_9: 'infant
+
+  borrow
+
+  cry
+
+  say
+
+  violin
+
+  bundle
+
+  immune
+
+  spin
+
+  dinner'
+bip_39_word_no_space_1: infant
+bip_39_word_no_space_10: infantborrowcrysayviolinbundleimmunespindinnerwest
+bip_39_word_no_space_11: infantborrowcrysayviolinbundleimmunespindinnerwestcanyon
+bip_39_word_no_space_12: infantborrowcrysayviolinbundleimmunespindinnerwestcanyonadmit
+bip_39_word_no_space_2: infantborrow
+bip_39_word_no_space_3: infantborrowcry
+bip_39_word_no_space_4: infantborrowcrysay
+bip_39_word_no_space_5: infantborrowcrysayviolin
+bip_39_word_no_space_6: infantborrowcrysayviolinbundle
+bip_39_word_no_space_7: infantborrowcrysayviolinbundleimmune
+bip_39_word_no_space_8: infantborrowcrysayviolinbundleimmunespin
+bip_39_word_no_space_9: infantborrowcrysayviolinbundleimmunespindinner
+bip_39_word_space_0:
+- infant
+- borrow
+- cry
+- say
+- violin
+- bundle
+- immune
+- spin
+- dinner
+- west
+- canyon
+- admit
+bip_39_word_space_1: infant
+bip_39_word_space_10: infant borrow cry say violin bundle immune spin dinner west
+bip_39_word_space_11: infant borrow cry say violin bundle immune spin dinner west
+  canyon
+bip_39_word_space_12: infant borrow cry say violin bundle immune spin dinner west
+  canyon admit
+bip_39_word_space_2: infant borrow
+bip_39_word_space_3: infant borrow cry
+bip_39_word_space_4: infant borrow cry say
+bip_39_word_space_5: infant borrow cry say violin
+bip_39_word_space_6: infant borrow cry say violin bundle
+bip_39_word_space_7: infant borrow cry say violin bundle immune
+bip_39_word_space_8: infant borrow cry say violin bundle immune spin
+bip_39_word_space_9: infant borrow cry say violin bundle immune spin dinner
+bip_39_word_underscore_1: infant
+bip_39_word_underscore_10: infant_borrow_cry_say_violin_bundle_immune_spin_dinner_west
+bip_39_word_underscore_11: infant_borrow_cry_say_violin_bundle_immune_spin_dinner_west_canyon
+bip_39_word_underscore_12: infant_borrow_cry_say_violin_bundle_immune_spin_dinner_west_canyon_admit
+bip_39_word_underscore_2: infant_borrow
+bip_39_word_underscore_3: infant_borrow_cry
+bip_39_word_underscore_4: infant_borrow_cry_say
+bip_39_word_underscore_5: infant_borrow_cry_say_violin
+bip_39_word_underscore_6: infant_borrow_cry_say_violin_bundle
+bip_39_word_underscore_7: infant_borrow_cry_say_violin_bundle_immune
+bip_39_word_underscore_8: infant_borrow_cry_say_violin_bundle_immune_spin
+bip_39_word_underscore_9: infant_borrow_cry_say_violin_bundle_immune_spin_dinner
 classification: oobb
+classification_length_1: o
+classification_length_2: oo
+classification_length_3: oob
+classification_length_4: oobb
+classification_length_5: oobb
+classification_length_6: oobb
+classification_name: Oobb
+classification_no_space_length_1: o
+classification_no_space_length_2: oo
+classification_no_space_length_3: oob
+classification_no_space_length_4: oobb
+classification_no_space_length_5: oobb
+classification_no_space_length_6: oobb
+classification_no_space_upper_length_1: O
+classification_no_space_upper_length_2: OO
+classification_no_space_upper_length_3: OOB
+classification_no_space_upper_length_4: OOBB
+classification_no_space_upper_length_5: OOBB
+classification_no_space_upper_length_6: OOBB
+classification_upper_length_1: O
+classification_upper_length_2: OO
+classification_upper_length_3: OOB
+classification_upper_length_4: OOBB
+classification_upper_length_5: OOBB
+classification_upper_length_6: OOBB
 color: ''
+color_name: ''
 components: []
 components_objects: []
 components_string: []
 description: pulley gt2 0x0x9
 description_extra: motor_servo_standard_01_shaft_72_teeth_shield_extra
+description_extra_length_1: m
+description_extra_length_2: mo
+description_extra_length_3: mot
+description_extra_length_4: moto
+description_extra_length_5: motor
+description_extra_length_6: motor_
+description_extra_name: Motor Servo Standard 01 Shaft 72 Teeth Shield Extra
+description_extra_no_space_length_1: m
+description_extra_no_space_length_2: mo
+description_extra_no_space_length_3: mot
+description_extra_no_space_length_4: moto
+description_extra_no_space_length_5: motor
+description_extra_no_space_length_6: motors
+description_extra_no_space_upper_length_1: M
+description_extra_no_space_upper_length_2: MO
+description_extra_no_space_upper_length_3: MOT
+description_extra_no_space_upper_length_4: MOTO
+description_extra_no_space_upper_length_5: MOTOR
+description_extra_no_space_upper_length_6: MOTORS
+description_extra_upper_length_1: M
+description_extra_upper_length_2: MO
+description_extra_upper_length_3: MOT
+description_extra_upper_length_4: MOTO
+description_extra_upper_length_5: MOTOR
+description_extra_upper_length_6: MOTOR_
 description_main: 9_mm_depth
+description_main_length_1: '9'
+description_main_length_2: '9_'
+description_main_length_3: 9_m
+description_main_length_4: 9_mm
+description_main_length_5: 9_mm_
+description_main_length_6: 9_mm_d
+description_main_name: 9 mm Depth
+description_main_no_space_length_1: '9'
+description_main_no_space_length_2: 9m
+description_main_no_space_length_3: 9mm
+description_main_no_space_length_4: 9mmd
+description_main_no_space_length_5: 9mmde
+description_main_no_space_length_6: 9mmdep
+description_main_no_space_upper_length_1: '9'
+description_main_no_space_upper_length_2: 9M
+description_main_no_space_upper_length_3: 9MM
+description_main_no_space_upper_length_4: 9MMD
+description_main_no_space_upper_length_5: 9MMDE
+description_main_no_space_upper_length_6: 9MMDEP
+description_main_upper_length_1: '9'
+description_main_upper_length_2: '9_'
+description_main_upper_length_3: 9_M
+description_main_upper_length_4: 9_MM
+description_main_upper_length_5: 9_MM_
+description_main_upper_length_6: 9_MM_D
+directory: parts/oobb_part_pulley_gt2_9_mm_depth_motor_servo_standard_01_shaft_72_teeth_shield_extra
 extra: 72_teeth_shield
 folder: C:\gh\oomlout_oobb_version_4_generated_parts\parts\oobb_part_pulley_gt2_9_mm_depth_motor_servo_standard_01_shaft_72_teeth_shield_extra
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_9_mm_depth_motor_servo_standard_01_shaft_72_teeth_shield_extra
 id: oobb_part_pulley_gt2_9_mm_depth_motor_servo_standard_01_shaft_72_teeth_shield_extra
+id_no_class: part_pulley_gt2_9_mm_depth_motor_servo_standard_01_shaft_72_teeth_shield_extra
+id_no_color: 9mmdepthmotorservostandard01shaft72teethshieldextra
+id_no_size: 9_mm_depth_motor_servo_standard_01_shaft_72_teeth_shield_extra
+id_no_type: pulley_gt2_9_mm_depth_motor_servo_standard_01_shaft_72_teeth_shield_extra
+link_1: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/pulley_gt2/9_mm_depth/motor_servo_standard_01_shaft_72_teeth_shield_extra/part
+link_1_name: link_main
+link_main: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/pulley_gt2/9_mm_depth/motor_servo_standard_01_shaft_72_teeth_shield_extra/part
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2029ubi
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2029ubi
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%2029ubi
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2029ubi
+link_redirect: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/oobb_pulley_gt2_09_ex_72_teeth_shield_sh_motor_servo_standard_01
 manufacturer: ''
+manufacturer_name: ''
+md5: 3a43be59f2d1ee34797a2bfe6a46839a
+md5_10: 3a43be59f2
+md5_10_upper: 3A43BE59F2
+md5_5: 3a43b
+md5_5_upper: 3A43B
+md5_6: 3a43be
+md5_6_alpha: 29ubi
+md5_6_alpha_upper: 29UBI
+md5_6_upper: 3A43BE
 name: Oobb Part Pulley Gt2 9 mm Depth Motor Servo Standard 01 Shaft 72 Teeth Shield
-    Extra
+  Extra
+name_no_class: Part Pulley Gt2 9 mm Depth Motor Servo Standard 01 Shaft 72 Teeth Shield
+  Extra
+name_no_color: 9mmdepthmotorservostandard01Shaft72Teethshieldextra
+name_no_size: 9 mm Depth Motor Servo Standard 01 Shaft 72 Teeth Shield Extra
+name_no_type: Pulley Gt2 9 mm Depth Motor Servo Standard 01 Shaft 72 Teeth Shield
+  Extra
 name_short: Pulley Gt2 9 Motor Servo Standard 01
+oomlout_detail_hierarchy_1: oobb
+oomlout_detail_hierarchy_1_upper: OOBB
+oomlout_detail_hierarchy_1_upper_length_4: OOBB
+oomlout_detail_hierarchy_2: part
+oomlout_detail_hierarchy_2_upper: PART
+oomlout_detail_hierarchy_2_upper_length_4: PART
+oomlout_detail_hierarchy_3: pulley_gt2
+oomlout_detail_hierarchy_3_upper: PULLEY_GT2
+oomlout_detail_hierarchy_3_upper_length_4: PULL
+oomlout_detail_hierarchy_4: 9_mm_depth
+oomlout_detail_hierarchy_4_upper: 9_MM_DEPTH
+oomlout_detail_hierarchy_4_upper_length_4: 9DEP
+oomlout_detail_hierarchy_5: motor_servo_standard_01
+oomlout_detail_hierarchy_5_upper: MOTOR_SERVO_STANDARD_01
+oomlout_detail_hierarchy_5_upper_length_4: MOTO
+oomlout_detail_hierarchy_6: shaft_72_teeth_shield_extra
+oomlout_detail_hierarchy_6_upper: SHAFT_72_TEETH_SHIELD_EXTRA
+oomlout_detail_hierarchy_6_upper_length_4: SHAF
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_oobb_part_pulley_gt2_9_mm_depth_motor_servo_standard_01_shaft_72_teeth_shield_extra
+oomp_word: koala elephant ramen
+oomp_word_emoji: ':koala: :elephant: :ramen:'
+oomp_word_emoji_list:
+- ':koala:'
+- ':elephant:'
+- ':ramen:'
+oomp_word_list:
+- koala
+- elephant
+- ramen
 part_number: ''
+part_number_name: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
 shaft: motor_servo_standard_01
 short_name: ''
 size: pulley_gt2
+size_length_1: p
+size_length_2: pu
+size_length_3: pul
+size_length_4: pull
+size_length_5: pulle
+size_length_6: pulley
+size_name: Pulley Gt2
+size_no_space_length_1: p
+size_no_space_length_2: pu
+size_no_space_length_3: pul
+size_no_space_length_4: pull
+size_no_space_length_5: pulle
+size_no_space_length_6: pulley
+size_no_space_upper_length_1: P
+size_no_space_upper_length_2: PU
+size_no_space_upper_length_3: PUL
+size_no_space_upper_length_4: PULL
+size_no_space_upper_length_5: PULLE
+size_no_space_upper_length_6: PULLEY
+size_upper_length_1: P
+size_upper_length_2: PU
+size_upper_length_3: PUL
+size_upper_length_4: PULL
+size_upper_length_5: PULLE
+size_upper_length_6: PULLEY
 thickness: 9
 thickness_mm: 9
 type: part
+type_length_1: p
+type_length_2: pa
+type_length_3: par
+type_length_4: part
+type_length_5: part
+type_length_6: part
+type_name: Part
+type_no_space_length_1: p
+type_no_space_length_2: pa
+type_no_space_length_3: par
+type_no_space_length_4: part
+type_no_space_length_5: part
+type_no_space_length_6: part
+type_no_space_upper_length_1: P
+type_no_space_upper_length_2: PA
+type_no_space_upper_length_3: PAR
+type_no_space_upper_length_4: PART
+type_no_space_upper_length_5: PART
+type_no_space_upper_length_6: PART
+type_upper_length_1: P
+type_upper_length_2: PA
+type_upper_length_3: PAR
+type_upper_length_4: PART
+type_upper_length_5: PART
+type_upper_length_6: PART

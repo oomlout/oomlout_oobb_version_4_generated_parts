@@ -49,7 +49,7 @@ tool holder vertical 3x5x16
 
 #### link
 
-                              
+[link_main](https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/tool_holder_vertical/3_width_5_height_16_mm_depth/tool_marker_ikea_mala_extra/part)                              
 
 #### price
 
@@ -76,15 +76,19 @@ tool holder vertical 3x5x16
 | description_main_name | 3 Width 5 Height 16 mm Depth |  
 | directory | parts/oobb_part_tool_holder_vertical_3_width_5_height_16_mm_depth_tool_marker_ikea_mala_extra |  
 | extra | tool_marker_ikea_mala |  
-| folder | C:\gh\oomlout_oobb_version_4_generated_parts\things\oobb_part_tool_holder_vertical_3_width_5_height_16_mm_depth_tool_marker_ikea_mala_extra |  
+| folder | C:\gh\oomlout_oobb_version_4_generated_parts\parts\oobb_part_tool_holder_vertical_3_width_5_height_16_mm_depth_tool_marker_ikea_mala_extra |  
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tool_holder_vertical_3_width_5_height_16_mm_depth_tool_marker_ikea_mala_extra |  
 | height | 5 |  
 | height_mm | 74 |  
 | id | oobb_part_tool_holder_vertical_3_width_5_height_16_mm_depth_tool_marker_ikea_mala_extra |  
+| link_1 | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/tool_holder_vertical/3_width_5_height_16_mm_depth/tool_marker_ikea_mala_extra/part |  
+| link_1_name | link_main |  
+| link_main | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/tool_holder_vertical/3_width_5_height_16_mm_depth/tool_marker_ikea_mala_extra/part |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%206tlrl |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%206tlrl |  
 | link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%206tlrl |  
 | link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%206tlrl |  
+| link_redirect | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/oobb_tool_holder_vertical_03_05_16_ex_tool_marker_ikea_mala |  
 | manufacturer |  |  
 | manufacturer_name |  |  
 | md5 | aed971b390a8aaae758010895470e2d8 |  

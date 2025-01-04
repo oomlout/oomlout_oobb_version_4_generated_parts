@@ -49,7 +49,7 @@ smd magazine lid 4x4x0
 
 #### link
 
-                              
+[link_main](https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/smd_magazine_lid/4_width_4_height/part)                              
 
 #### price
 
@@ -75,15 +75,19 @@ smd magazine lid 4x4x0
 | description_main | 4_width_4_height |  
 | description_main_name | 4 Width 4 Height |  
 | directory | parts/oobb_part_smd_magazine_lid_4_width_4_height |  
-| folder | C:\gh\oomlout_oobb_version_4_generated_parts\things\oobb_part_smd_magazine_lid_4_width_4_height |  
+| folder | C:\gh\oomlout_oobb_version_4_generated_parts\parts\oobb_part_smd_magazine_lid_4_width_4_height |  
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_smd_magazine_lid_4_width_4_height |  
 | height | 4 |  
 | height_mm | 59 |  
 | id | oobb_part_smd_magazine_lid_4_width_4_height |  
+| link_1 | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/smd_magazine_lid/4_width_4_height/part |  
+| link_1_name | link_main |  
+| link_main | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/smd_magazine_lid/4_width_4_height/part |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%209sisf |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%209sisf |  
 | link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%209sisf |  
 | link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%209sisf |  
+| link_redirect | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/oobb_smd_magazine_lid_04_04 |  
 | manufacturer |  |  
 | manufacturer_name |  |  
 | md5 | faf71f99c888574c2e2cc4cb7314d474 |  

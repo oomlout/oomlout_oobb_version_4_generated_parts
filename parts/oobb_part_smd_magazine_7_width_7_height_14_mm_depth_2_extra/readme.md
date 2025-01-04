@@ -49,7 +49,7 @@ smd magazine 7x7x14
 
 #### link
 
-                              
+[link_main](https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/smd_magazine/7_width_7_height_14_mm_depth/2_extra/part)                              
 
 #### price
 
@@ -76,15 +76,19 @@ smd magazine 7x7x14
 | description_main_name | 7 Width 7 Height 14 mm Depth |  
 | directory | parts/oobb_part_smd_magazine_7_width_7_height_14_mm_depth_2_extra |  
 | extra | 2 |  
-| folder | C:\gh\oomlout_oobb_version_4_generated_parts\things\oobb_part_smd_magazine_7_width_7_height_14_mm_depth_2_extra |  
+| folder | C:\gh\oomlout_oobb_version_4_generated_parts\parts\oobb_part_smd_magazine_7_width_7_height_14_mm_depth_2_extra |  
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_smd_magazine_7_width_7_height_14_mm_depth_2_extra |  
 | height | 7 |  
 | height_mm | 104 |  
 | id | oobb_part_smd_magazine_7_width_7_height_14_mm_depth_2_extra |  
+| link_1 | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/smd_magazine/7_width_7_height_14_mm_depth/2_extra/part |  
+| link_1_name | link_main |  
+| link_main | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/smd_magazine/7_width_7_height_14_mm_depth/2_extra/part |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%206j2vc |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%206j2vc |  
 | link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%206j2vc |  
 | link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%206j2vc |  
+| link_redirect | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/oobb_smd_magazine_07_07_14_nm_12_mm_tape_width_2_mm_tape_thickness_ex_2 |  
 | manufacturer |  |  
 | manufacturer_name |  |  
 | md5 | a75b4842d4d5d8a868c192a64b541cd3 |  

@@ -49,7 +49,7 @@ wheel 0x0x9
 
 #### link
 
-                              
+[link_main](https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/wheel/3_diameter_9_mm_depth/606_bearing/part)                              
 
 #### price
 
@@ -80,10 +80,14 @@ wheel 0x0x9
 | folder | C:\gh\oomlout_oobb_version_4_generated_parts\parts\oobb_part_wheel_3_diameter_9_mm_depth_606_bearing |  
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_wheel_3_diameter_9_mm_depth_606_bearing |  
 | id | oobb_part_wheel_3_diameter_9_mm_depth_606_bearing |  
+| link_1 | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/wheel/3_diameter_9_mm_depth/606_bearing/part |  
+| link_1_name | link_main |  
+| link_main | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/wheel/3_diameter_9_mm_depth/606_bearing/part |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%208ua2c |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%208ua2c |  
 | link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%208ua2c |  
 | link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%208ua2c |  
+| link_redirect | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/oobb_wheel_03_09_606 |  
 | manufacturer |  |  
 | manufacturer_name |  |  
 | md5 | e29674d09a3dfbf2ed8a64fb1363a9b5 |  

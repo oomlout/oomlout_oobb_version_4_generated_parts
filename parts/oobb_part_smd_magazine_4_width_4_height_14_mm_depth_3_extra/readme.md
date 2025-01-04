@@ -49,7 +49,7 @@ smd magazine 4x4x14
 
 #### link
 
-                              
+[link_main](https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/smd_magazine/4_width_4_height_14_mm_depth/3_extra/part)                              
 
 #### price
 
@@ -76,15 +76,19 @@ smd magazine 4x4x14
 | description_main_name | 4 Width 4 Height 14 mm Depth |  
 | directory | parts/oobb_part_smd_magazine_4_width_4_height_14_mm_depth_3_extra |  
 | extra | 3 |  
-| folder | C:\gh\oomlout_oobb_version_4_generated_parts\things\oobb_part_smd_magazine_4_width_4_height_14_mm_depth_3_extra |  
+| folder | C:\gh\oomlout_oobb_version_4_generated_parts\parts\oobb_part_smd_magazine_4_width_4_height_14_mm_depth_3_extra |  
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_smd_magazine_4_width_4_height_14_mm_depth_3_extra |  
 | height | 4 |  
 | height_mm | 59 |  
 | id | oobb_part_smd_magazine_4_width_4_height_14_mm_depth_3_extra |  
+| link_1 | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/smd_magazine/4_width_4_height_14_mm_depth/3_extra/part |  
+| link_1_name | link_main |  
+| link_main | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/smd_magazine/4_width_4_height_14_mm_depth/3_extra/part |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%207d99g |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%207d99g |  
 | link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%207d99g |  
 | link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%207d99g |  
+| link_redirect | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/oobb_smd_magazine_04_04_14_nm_12_mm_tape_width_3_mm_tape_thickness_ex_3 |  
 | manufacturer |  |  
 | manufacturer_name |  |  
 | md5 | bcd7243b2a2460c4b3e24c5d94efd919 |  

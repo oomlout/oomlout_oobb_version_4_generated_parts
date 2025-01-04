@@ -49,7 +49,7 @@ bearing circle 0x0x12
 
 #### link
 
-                              
+[link_main](https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/bearing_circle/3_diameter_12_mm_depth/606_bearing/part)                              
 
 #### price
 
@@ -77,13 +77,17 @@ bearing circle 0x0x12
 | description_main_name | 3 Diameter 12 mm Depth |  
 | diameter | 3 |  
 | directory | parts/oobb_part_bearing_circle_3_diameter_12_mm_depth_606_bearing |  
-| folder | C:\gh\oomlout_oobb_version_4_generated_parts\things\oobb_part_bearing_circle_3_diameter_12_mm_depth_606_bearing |  
+| folder | C:\gh\oomlout_oobb_version_4_generated_parts\parts\oobb_part_bearing_circle_3_diameter_12_mm_depth_606_bearing |  
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bearing_circle_3_diameter_12_mm_depth_606_bearing |  
 | id | oobb_part_bearing_circle_3_diameter_12_mm_depth_606_bearing |  
+| link_1 | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/bearing_circle/3_diameter_12_mm_depth/606_bearing/part |  
+| link_1_name | link_main |  
+| link_main | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/bearing_circle/3_diameter_12_mm_depth/606_bearing/part |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%2031rz6 |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%2031rz6 |  
 | link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%2031rz6 |  
 | link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%2031rz6 |  
+| link_redirect | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/oobb_bearing_circle_03_12_606 |  
 | manufacturer |  |  
 | manufacturer_name |  |  
 | md5 | 4e26e2c3548f4788f592dac6dcd590e9 |  

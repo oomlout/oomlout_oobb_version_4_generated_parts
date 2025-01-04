@@ -49,7 +49,7 @@ wire 3x3x4
 
 #### link
 
-                              
+[link_main](https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/wire/3_width_3_height_4_mm_depth/motor_stepper_extra/part)                              
 
 #### price
 
@@ -81,10 +81,14 @@ wire 3x3x4
 | height | 3 |  
 | height_mm | 44 |  
 | id | oobb_part_wire_3_width_3_height_4_mm_depth_motor_stepper_extra |  
+| link_1 | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/wire/3_width_3_height_4_mm_depth/motor_stepper_extra/part |  
+| link_1_name | link_main |  
+| link_main | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/wire/3_width_3_height_4_mm_depth/motor_stepper_extra/part |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%203118s |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%203118s |  
 | link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%203118s |  
 | link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%203118s |  
+| link_redirect | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/oobb_wire_03_03_04_ex_motor_stepper |  
 | manufacturer |  |  
 | manufacturer_name |  |  
 | md5 | 4d9f8c0613c45890b0691d545c5ff3b4 |  

@@ -49,7 +49,7 @@ shaft 0x0x0
 
 #### link
 
-                              
+[link_main](https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/shaft/0_mm_depth/part)                              
 
 #### price
 
@@ -76,13 +76,17 @@ shaft 0x0x0
 | description_main_name | 0 mm Depth |  
 | directory | parts/oobb_part_shaft_0_mm_depth |  
 | extra |  |  
-| folder | C:\gh\oomlout_oobb_version_4_generated_parts\things\oobb_part_shaft_0_mm_depth |  
+| folder | C:\gh\oomlout_oobb_version_4_generated_parts\parts\oobb_part_shaft_0_mm_depth |  
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_0_mm_depth |  
 | id | oobb_part_shaft_0_mm_depth |  
+| link_1 | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/shaft/0_mm_depth/part |  
+| link_1_name | link_main |  
+| link_main | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/shaft/0_mm_depth/part |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%2037u2u |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%2037u2u |  
 | link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%2037u2u |  
 | link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%2037u2u |  
+| link_redirect | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/oobb_shaft_00 |  
 | manufacturer |  |  
 | manufacturer_name |  |  
 | md5 | 527706f1b9830a3d261c33f461a338b2 |  

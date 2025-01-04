@@ -304,7 +304,7 @@ description_main_upper_length_5: 12_WI
 description_main_upper_length_6: 12_WID
 directory: parts/oobb_part_plate_12_width_1_height_14_mm_depth_ninety_degree_extra
 extra: ninety_degree
-folder: C:\gh\oomlout_oobb_version_4_generated_parts\things\oobb_part_plate_12_width_1_height_14_mm_depth_ninety_degree_extra
+folder: C:\gh\oomlout_oobb_version_4_generated_parts\parts\oobb_part_plate_12_width_1_height_14_mm_depth_ninety_degree_extra
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_12_width_1_height_14_mm_depth_ninety_degree_extra
 height: 1
 height_mm: 14
@@ -313,10 +313,14 @@ id_no_class: part_plate_12_width_1_height_14_mm_depth_ninety_degree_extra
 id_no_color: 12width1height14mmdepthninetydegreeextra
 id_no_size: 12_width_1_height_14_mm_depth_ninety_degree_extra
 id_no_type: plate_12_width_1_height_14_mm_depth_ninety_degree_extra
+link_1: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/plate/12_width_1_height_14_mm_depth/ninety_degree_extra/part
+link_1_name: link_main
+link_main: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/plate/12_width_1_height_14_mm_depth/ninety_degree_extra/part
 link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%205tz1k
 link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%205tz1k
 link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%205tz1k
 link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%205tz1k
+link_redirect: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/oobb_plate_12_01_14_ex_ninety_degree
 manufacturer: ''
 manufacturer_name: ''
 md5: 957ba8c7c1410de6493beed49e4bc6a2

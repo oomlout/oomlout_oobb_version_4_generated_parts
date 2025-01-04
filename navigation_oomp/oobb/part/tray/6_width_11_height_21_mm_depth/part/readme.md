@@ -49,7 +49,7 @@ tray 6x11x21
 
 #### link
 
-                              
+[link_main](https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/tray/6_width_11_height_21_mm_depth/part)                              
 
 #### price
 
@@ -80,10 +80,14 @@ tray 6x11x21
 | height | 11 |  
 | height_mm | 164 |  
 | id | oobb_part_tray_6_width_11_height_21_mm_depth |  
+| link_1 | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/tray/6_width_11_height_21_mm_depth/part |  
+| link_1_name | link_main |  
+| link_main | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/tray/6_width_11_height_21_mm_depth/part |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%20285jo |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%20285jo |  
 | link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%20285jo |  
 | link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%20285jo |  
+| link_redirect | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/oobb_tray_06_11_21 |  
 | manufacturer |  |  
 | manufacturer_name |  |  
 | md5 | 391014e3a68eaf0dc91cbbd8f9c3ab8a |  

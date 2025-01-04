@@ -49,7 +49,7 @@ plate 2x2x29
 
 #### link
 
-                              
+[link_main](https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/plate/2_width_2_height_29_mm_depth/ninety_degree_extra/part)                              
 
 #### price
 
@@ -76,15 +76,19 @@ plate 2x2x29
 | description_main_name | 2 Width 2 Height 29 mm Depth |  
 | directory | parts/oobb_part_plate_2_width_2_height_29_mm_depth_ninety_degree_extra |  
 | extra | ninety_degree |  
-| folder | C:\gh\oomlout_oobb_version_4_generated_parts\things\oobb_part_plate_2_width_2_height_29_mm_depth_ninety_degree_extra |  
+| folder | C:\gh\oomlout_oobb_version_4_generated_parts\parts\oobb_part_plate_2_width_2_height_29_mm_depth_ninety_degree_extra |  
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_2_width_2_height_29_mm_depth_ninety_degree_extra |  
 | height | 2 |  
 | height_mm | 29 |  
 | id | oobb_part_plate_2_width_2_height_29_mm_depth_ninety_degree_extra |  
+| link_1 | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/plate/2_width_2_height_29_mm_depth/ninety_degree_extra/part |  
+| link_1_name | link_main |  
+| link_main | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/plate/2_width_2_height_29_mm_depth/ninety_degree_extra/part |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%204u7mf |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%204u7mf |  
 | link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%204u7mf |  
 | link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%204u7mf |  
+| link_redirect | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/oobb_plate_02_02_29_ex_ninety_degree |  
 | manufacturer |  |  
 | manufacturer_name |  |  
 | md5 | 7c061799d44e7f25cdf4f3459ad4312a |  

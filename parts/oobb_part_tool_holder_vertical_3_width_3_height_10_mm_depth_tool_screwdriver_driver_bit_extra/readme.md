@@ -49,7 +49,7 @@ tool holder vertical 3x3x10
 
 #### link
 
-                              
+[link_main](https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/tool_holder_vertical/3_width_3_height_10_mm_depth/tool_screwdriver_driver_bit_extra/part)                              
 
 #### price
 
@@ -76,15 +76,19 @@ tool holder vertical 3x3x10
 | description_main_name | 3 Width 3 Height 10 mm Depth |  
 | directory | parts/oobb_part_tool_holder_vertical_3_width_3_height_10_mm_depth_tool_screwdriver_driver_bit_extra |  
 | extra | tool_screwdriver_driver_bit |  
-| folder | C:\gh\oomlout_oobb_version_4_generated_parts\things\oobb_part_tool_holder_vertical_3_width_3_height_10_mm_depth_tool_screwdriver_driver_bit_extra |  
+| folder | C:\gh\oomlout_oobb_version_4_generated_parts\parts\oobb_part_tool_holder_vertical_3_width_3_height_10_mm_depth_tool_screwdriver_driver_bit_extra |  
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tool_holder_vertical_3_width_3_height_10_mm_depth_tool_screwdriver_driver_bit_extra |  
 | height | 3 |  
 | height_mm | 44 |  
 | id | oobb_part_tool_holder_vertical_3_width_3_height_10_mm_depth_tool_screwdriver_driver_bit_extra |  
+| link_1 | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/tool_holder_vertical/3_width_3_height_10_mm_depth/tool_screwdriver_driver_bit_extra/part |  
+| link_1_name | link_main |  
+| link_main | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/tool_holder_vertical/3_width_3_height_10_mm_depth/tool_screwdriver_driver_bit_extra/part |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%202mkim |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%202mkim |  
 | link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%202mkim |  
 | link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%202mkim |  
+| link_redirect | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/oobb_tool_holder_vertical_03_03_10_ex_tool_screwdriver_driver_bit |  
 | manufacturer |  |  
 | manufacturer_name |  |  
 | md5 | 43535e31c135b74f0fe2e77d045babaf |  

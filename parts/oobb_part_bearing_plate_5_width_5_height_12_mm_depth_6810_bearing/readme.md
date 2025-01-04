@@ -49,7 +49,7 @@ bearing plate 5x5x12
 
 #### link
 
-                              
+[link_main](https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/bearing_plate/5_width_5_height_12_mm_depth/6810_bearing/part)                              
 
 #### price
 
@@ -76,15 +76,19 @@ bearing plate 5x5x12
 | description_main | 5_width_5_height_12_mm_depth |  
 | description_main_name | 5 Width 5 Height 12 mm Depth |  
 | directory | parts/oobb_part_bearing_plate_5_width_5_height_12_mm_depth_6810_bearing |  
-| folder | C:\gh\oomlout_oobb_version_4_generated_parts\things\oobb_part_bearing_plate_5_width_5_height_12_mm_depth_6810_bearing |  
+| folder | C:\gh\oomlout_oobb_version_4_generated_parts\parts\oobb_part_bearing_plate_5_width_5_height_12_mm_depth_6810_bearing |  
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bearing_plate_5_width_5_height_12_mm_depth_6810_bearing |  
 | height | 5 |  
 | height_mm | 74 |  
 | id | oobb_part_bearing_plate_5_width_5_height_12_mm_depth_6810_bearing |  
+| link_1 | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/bearing_plate/5_width_5_height_12_mm_depth/6810_bearing/part |  
+| link_1_name | link_main |  
+| link_main | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/bearing_plate/5_width_5_height_12_mm_depth/6810_bearing/part |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%201876f |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%201876f |  
 | link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%201876f |  
 | link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%201876f |  
+| link_redirect | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/oobb_bearing_plate_05_05_12_6810 |  
 | manufacturer |  |  
 | manufacturer_name |  |  
 | md5 | 1f7757815a0eee886499028edbdfe781 |  

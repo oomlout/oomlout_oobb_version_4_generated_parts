@@ -49,7 +49,7 @@ holder 5x3x15
 
 #### link
 
-                              
+[link_main](https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/holder/5_width_3_height_15_mm_depth/motor_servo_standard_01_extra/part)                              
 
 #### price
 
@@ -76,15 +76,19 @@ holder 5x3x15
 | description_main_name | 5 Width 3 Height 15 mm Depth |  
 | directory | parts/oobb_part_holder_5_width_3_height_15_mm_depth_motor_servo_standard_01_extra |  
 | extra | motor_servo_standard_01 |  
-| folder | C:\gh\oomlout_oobb_version_4_generated_parts\things\oobb_part_holder_5_width_3_height_15_mm_depth_motor_servo_standard_01_extra |  
+| folder | C:\gh\oomlout_oobb_version_4_generated_parts\parts\oobb_part_holder_5_width_3_height_15_mm_depth_motor_servo_standard_01_extra |  
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_holder_5_width_3_height_15_mm_depth_motor_servo_standard_01_extra |  
 | height | 3 |  
 | height_mm | 44 |  
 | id | oobb_part_holder_5_width_3_height_15_mm_depth_motor_servo_standard_01_extra |  
+| link_1 | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/holder/5_width_3_height_15_mm_depth/motor_servo_standard_01_extra/part |  
+| link_1_name | link_main |  
+| link_main | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/holder/5_width_3_height_15_mm_depth/motor_servo_standard_01_extra/part |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%2010ttu |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%2010ttu |  
 | link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%2010ttu |  
 | link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%2010ttu |  
+| link_redirect | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/oobb_holder_05_03_15_ex_motor_servo_standard_01 |  
 | manufacturer |  |  
 | manufacturer_name |  |  
 | md5 | 1a38028143cd6f349a373f2372eb1188 |  

@@ -49,7 +49,7 @@ bearing plate shim 0x0x2
 
 #### link
 
-                              
+[link_main](https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/bearing_plate_shim/2_mm_depth/6704_bearing/part)                              
 
 #### price
 
@@ -79,10 +79,14 @@ bearing plate shim 0x0x2
 | folder | C:\gh\oomlout_oobb_version_4_generated_parts\parts\oobb_part_bearing_plate_shim_2_mm_depth_6704_bearing |  
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bearing_plate_shim_2_mm_depth_6704_bearing |  
 | id | oobb_part_bearing_plate_shim_2_mm_depth_6704_bearing |  
+| link_1 | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/bearing_plate_shim/2_mm_depth/6704_bearing/part |  
+| link_1_name | link_main |  
+| link_main | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/bearing_plate_shim/2_mm_depth/6704_bearing/part |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%2052lsn |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%2052lsn |  
 | link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%2052lsn |  
 | link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%2052lsn |  
+| link_redirect | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/oobb_bearing_plate_shim_02_6704 |  
 | manufacturer |  |  
 | manufacturer_name |  |  
 | md5 | 81ffd734a425c5c757fb2f7168c37195 |  

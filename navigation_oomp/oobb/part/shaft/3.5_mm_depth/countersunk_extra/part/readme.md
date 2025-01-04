@@ -49,7 +49,7 @@ shaft 0x0x3.5
 
 #### link
 
-                              
+[link_main](https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/shaft/3.5_mm_depth/countersunk_extra/part)                              
 
 #### price
 
@@ -76,13 +76,17 @@ shaft 0x0x3.5
 | description_main_name | 3.5 mm Depth |  
 | directory | parts/oobb_part_shaft_3d5_mm_depth_countersunk_extra |  
 | extra | countersunk |  
-| folder | C:\gh\oomlout_oobb_version_4_generated_parts\things\oobb_part_shaft_3d5_mm_depth_countersunk_extra |  
+| folder | C:\gh\oomlout_oobb_version_4_generated_parts\parts\oobb_part_shaft_3d5_mm_depth_countersunk_extra |  
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_3d5_mm_depth_countersunk_extra |  
 | id | oobb_part_shaft_3d5_mm_depth_countersunk_extra |  
+| link_1 | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/shaft/3.5_mm_depth/countersunk_extra/part |  
+| link_1_name | link_main |  
+| link_main | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/shaft/3.5_mm_depth/countersunk_extra/part |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%205n9il |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%205n9il |  
 | link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%205n9il |  
 | link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%205n9il |  
+| link_redirect | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/oobb_shaft_3d5_ex_countersunk |  
 | manufacturer |  |  
 | manufacturer_name |  |  
 | md5 | 90b4ed3bece4d14fb037432255d1e488 |  

@@ -49,7 +49,7 @@ bearing 0x0x0
 
 #### link
 
-                              
+[link_main](https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/bearing//6810_bearing_name/part)                              
 
 #### price
 
@@ -79,10 +79,14 @@ bearing 0x0x0
 | folder | C:\gh\oomlout_oobb_version_4_generated_parts\parts\oobb_part_bearing_6810_bearing_name |  
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bearing_6810_bearing_name |  
 | id | oobb_part_bearing_6810_bearing_name |  
+| link_1 | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/bearing//6810_bearing_name/part |  
+| link_1_name | link_main |  
+| link_main | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/bearing//6810_bearing_name/part |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%209tng1 |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%209tng1 |  
 | link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%209tng1 |  
 | link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%209tng1 |  
+| link_redirect | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/hardware_bearing_6810 |  
 | manufacturer |  |  
 | manufacturer_name |  |  
 | md5 | fbc4f1f48c13c37e7fd3d64fa0c65892 |  

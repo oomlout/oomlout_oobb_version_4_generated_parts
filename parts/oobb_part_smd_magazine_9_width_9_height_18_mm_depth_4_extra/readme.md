@@ -49,7 +49,7 @@ smd magazine 9x9x18
 
 #### link
 
-                              
+[link_main](https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/smd_magazine/9_width_9_height_18_mm_depth/4_extra/part)                              
 
 #### price
 
@@ -76,15 +76,19 @@ smd magazine 9x9x18
 | description_main_name | 9 Width 9 Height 18 mm Depth |  
 | directory | parts/oobb_part_smd_magazine_9_width_9_height_18_mm_depth_4_extra |  
 | extra | 4 |  
-| folder | C:\gh\oomlout_oobb_version_4_generated_parts\things\oobb_part_smd_magazine_9_width_9_height_18_mm_depth_4_extra |  
+| folder | C:\gh\oomlout_oobb_version_4_generated_parts\parts\oobb_part_smd_magazine_9_width_9_height_18_mm_depth_4_extra |  
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_smd_magazine_9_width_9_height_18_mm_depth_4_extra |  
 | height | 9 |  
 | height_mm | 134 |  
 | id | oobb_part_smd_magazine_9_width_9_height_18_mm_depth_4_extra |  
+| link_1 | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/smd_magazine/9_width_9_height_18_mm_depth/4_extra/part |  
+| link_1_name | link_main |  
+| link_main | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/smd_magazine/9_width_9_height_18_mm_depth/4_extra/part |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%206smxr |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%206smxr |  
 | link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%206smxr |  
 | link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%206smxr |  
+| link_redirect | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/oobb_smd_magazine_09_09_18_nm_16_mm_tape_width_4_mm_tape_thickness_ex_4 |  
 | manufacturer |  |  
 | manufacturer_name |  |  
 | md5 | ae291f5bf8cfceba7450fdc2a1faa427 |  

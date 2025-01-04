@@ -49,7 +49,7 @@ tray 4x5x18
 
 #### link
 
-                              
+[link_main](https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/tray/4_width_5_height_18_mm_depth/part)                              
 
 #### price
 
@@ -80,10 +80,14 @@ tray 4x5x18
 | height | 5 |  
 | height_mm | 74 |  
 | id | oobb_part_tray_4_width_5_height_18_mm_depth |  
+| link_1 | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/tray/4_width_5_height_18_mm_depth/part |  
+| link_1_name | link_main |  
+| link_main | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/tray/4_width_5_height_18_mm_depth/part |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%2030z0n |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%2030z0n |  
 | link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%2030z0n |  
 | link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%2030z0n |  
+| link_redirect | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/oobb_tray_04_05_18 |  
 | manufacturer |  |  
 | manufacturer_name |  |  
 | md5 | 4d9447a77cad87d0c8e9526e7a98bb1e |  

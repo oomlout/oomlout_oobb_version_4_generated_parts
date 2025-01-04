@@ -278,7 +278,7 @@ description_main_upper_length_4: 13_W
 description_main_upper_length_5: 13_WI
 description_main_upper_length_6: 13_WID
 directory: parts/oobb_part_tray_thin_13_width_2_height_30_mm_depth
-folder: C:\gh\oomlout_oobb_version_4_generated_parts\things\oobb_part_tray_thin_13_width_2_height_30_mm_depth
+folder: C:\gh\oomlout_oobb_version_4_generated_parts\parts\oobb_part_tray_thin_13_width_2_height_30_mm_depth
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_13_width_2_height_30_mm_depth
 height: 2
 height_mm: 29
@@ -287,10 +287,14 @@ id_no_class: part_tray_thin_13_width_2_height_30_mm_depth
 id_no_color: 13width2height30mmdepth
 id_no_size: 13_width_2_height_30_mm_depth
 id_no_type: tray_thin_13_width_2_height_30_mm_depth
+link_1: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/tray_thin/13_width_2_height_30_mm_depth/part
+link_1_name: link_main
+link_main: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/tray_thin/13_width_2_height_30_mm_depth/part
 link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2029j1a
 link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2029j1a
 link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%2029j1a
 link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2029j1a
+link_redirect: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/oobb_tray_thin_13_02_30
 manufacturer: ''
 manufacturer_name: ''
 md5: 3a0a9e55b08f18d7856d5068c9a02e05

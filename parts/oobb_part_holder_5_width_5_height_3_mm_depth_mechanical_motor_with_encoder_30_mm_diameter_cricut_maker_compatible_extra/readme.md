@@ -49,7 +49,7 @@ holder 5x5x3
 
 #### link
 
-                              
+[link_main](https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/holder/5_width_5_height_3_mm_depth/mechanical_motor_with_encoder_30_mm_diameter_cricut_maker_compatible_extra/part)                              
 
 #### price
 
@@ -76,15 +76,19 @@ holder 5x5x3
 | description_main_name | 5 Width 5 Height 3 mm Depth |  
 | directory | parts/oobb_part_holder_5_width_5_height_3_mm_depth_mechanical_motor_with_encoder_30_mm_diameter_cricut_maker_compatible_extra |  
 | extra | mechanical_motor_with_encoder_30_mm_diameter_cricut_maker_compatible |  
-| folder | C:\gh\oomlout_oobb_version_4_generated_parts\things\oobb_part_holder_5_width_5_height_3_mm_depth_mechanical_motor_with_encoder_30_mm_diameter_cricut_maker_compatible_extra |  
+| folder | C:\gh\oomlout_oobb_version_4_generated_parts\parts\oobb_part_holder_5_width_5_height_3_mm_depth_mechanical_motor_with_encoder_30_mm_diameter_cricut_maker_compatible_extra |  
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_holder_5_width_5_height_3_mm_depth_mechanical_motor_with_encoder_30_mm_diameter_cricut_maker_compatible_extra |  
 | height | 5 |  
 | height_mm | 74 |  
 | id | oobb_part_holder_5_width_5_height_3_mm_depth_mechanical_motor_with_encoder_30_mm_diameter_cricut_maker_compatible_extra |  
+| link_1 | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/holder/5_width_5_height_3_mm_depth/mechanical_motor_with_encoder_30_mm_diameter_cricut_maker_compatible_extra/part |  
+| link_1_name | link_main |  
+| link_main | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/holder/5_width_5_height_3_mm_depth/mechanical_motor_with_encoder_30_mm_diameter_cricut_maker_compatible_extra/part |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%2020mit |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%2020mit |  
 | link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%2020mit |  
 | link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%2020mit |  
+| link_redirect | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/oobb_holder_05_05_03_ex_mechanical_motor_with_encoder_30_mm_diameter_cricut_maker_compatible |  
 | manufacturer |  |  
 | manufacturer_name |  |  
 | md5 | 33b4056246d6a348ed0d455fbe6f5763 |  

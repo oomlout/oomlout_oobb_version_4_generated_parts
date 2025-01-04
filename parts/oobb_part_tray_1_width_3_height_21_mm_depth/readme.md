@@ -49,7 +49,7 @@ tray 1x3x21
 
 #### link
 
-                              
+[link_main](https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/tray/1_width_3_height_21_mm_depth/part)                              
 
 #### price
 
@@ -75,15 +75,19 @@ tray 1x3x21
 | description_main | 1_width_3_height_21_mm_depth |  
 | description_main_name | 1 Width 3 Height 21 mm Depth |  
 | directory | parts/oobb_part_tray_1_width_3_height_21_mm_depth |  
-| folder | C:\gh\oomlout_oobb_version_4_generated_parts\things\oobb_part_tray_1_width_3_height_21_mm_depth |  
+| folder | C:\gh\oomlout_oobb_version_4_generated_parts\parts\oobb_part_tray_1_width_3_height_21_mm_depth |  
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_1_width_3_height_21_mm_depth |  
 | height | 3 |  
 | height_mm | 44 |  
 | id | oobb_part_tray_1_width_3_height_21_mm_depth |  
+| link_1 | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/tray/1_width_3_height_21_mm_depth/part |  
+| link_1_name | link_main |  
+| link_main | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/tray/1_width_3_height_21_mm_depth/part |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%20gbgz |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%20gbgz |  
 | link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%20gbgz |  
 | link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%20gbgz |  
+| link_redirect | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/oobb_tray_01_03_21 |  
 | manufacturer |  |  
 | manufacturer_name |  |  
 | md5 | 0b9e13e16232a656d450e811bc66f7d1 |  

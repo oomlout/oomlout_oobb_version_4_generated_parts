@@ -49,7 +49,7 @@ plate 5x2x3
 
 #### link
 
-                              
+[link_main](https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/plate/5_width_2_height_3_mm_depth/t_extra/part)                              
 
 #### price
 
@@ -76,15 +76,19 @@ plate 5x2x3
 | description_main_name | 5 Width 2 Height 3 mm Depth |  
 | directory | parts/oobb_part_plate_5_width_2_height_3_mm_depth_t_extra |  
 | extra | t |  
-| folder | C:\gh\oomlout_oobb_version_4_generated_parts\things\oobb_part_plate_5_width_2_height_3_mm_depth_t_extra |  
+| folder | C:\gh\oomlout_oobb_version_4_generated_parts\parts\oobb_part_plate_5_width_2_height_3_mm_depth_t_extra |  
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_5_width_2_height_3_mm_depth_t_extra |  
 | height | 2 |  
 | height_mm | 29 |  
 | id | oobb_part_plate_5_width_2_height_3_mm_depth_t_extra |  
+| link_1 | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/plate/5_width_2_height_3_mm_depth/t_extra/part |  
+| link_1_name | link_main |  
+| link_main | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/plate/5_width_2_height_3_mm_depth/t_extra/part |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%206dcnr |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%206dcnr |  
 | link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%206dcnr |  
 | link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%206dcnr |  
+| link_redirect | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/oobb_plate_05_02_03_ex_t |  
 | manufacturer |  |  
 | manufacturer_name |  |  
 | md5 | a347575cf7d6bf0bccb6154c8ac973f2 |  

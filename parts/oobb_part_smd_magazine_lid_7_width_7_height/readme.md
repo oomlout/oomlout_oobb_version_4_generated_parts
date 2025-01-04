@@ -49,7 +49,7 @@ smd magazine lid 7x7x0
 
 #### link
 
-                              
+[link_main](https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/smd_magazine_lid/7_width_7_height/part)                              
 
 #### price
 
@@ -75,15 +75,19 @@ smd magazine lid 7x7x0
 | description_main | 7_width_7_height |  
 | description_main_name | 7 Width 7 Height |  
 | directory | parts/oobb_part_smd_magazine_lid_7_width_7_height |  
-| folder | C:\gh\oomlout_oobb_version_4_generated_parts\things\oobb_part_smd_magazine_lid_7_width_7_height |  
+| folder | C:\gh\oomlout_oobb_version_4_generated_parts\parts\oobb_part_smd_magazine_lid_7_width_7_height |  
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_smd_magazine_lid_7_width_7_height |  
 | height | 7 |  
 | height_mm | 104 |  
 | id | oobb_part_smd_magazine_lid_7_width_7_height |  
+| link_1 | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/smd_magazine_lid/7_width_7_height/part |  
+| link_1_name | link_main |  
+| link_main | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/smd_magazine_lid/7_width_7_height/part |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%205udyb |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%205udyb |  
 | link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%205udyb |  
 | link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%205udyb |  
+| link_redirect | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/oobb_smd_magazine_lid_07_07 |  
 | manufacturer |  |  
 | manufacturer_name |  |  
 | md5 | 95c72399416790ca39f84eab0325d423 |  

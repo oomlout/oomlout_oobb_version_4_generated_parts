@@ -49,7 +49,7 @@ bunting alphabet 7x0x1
 
 #### link
 
-                              
+[link_main](https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/bunting_alphabet/7_width_1_mm_depth/u_extra/part)                              
 
 #### price
 
@@ -76,13 +76,17 @@ bunting alphabet 7x0x1
 | description_main_name | 7 Width 1 mm Depth |  
 | directory | parts/oobb_part_bunting_alphabet_7_width_1_mm_depth_u_extra |  
 | extra | u |  
-| folder | C:\gh\oomlout_oobb_version_4_generated_parts\things\oobb_part_bunting_alphabet_7_width_1_mm_depth_u_extra |  
+| folder | C:\gh\oomlout_oobb_version_4_generated_parts\parts\oobb_part_bunting_alphabet_7_width_1_mm_depth_u_extra |  
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_7_width_1_mm_depth_u_extra |  
 | id | oobb_part_bunting_alphabet_7_width_1_mm_depth_u_extra |  
+| link_1 | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/bunting_alphabet/7_width_1_mm_depth/u_extra/part |  
+| link_1_name | link_main |  
+| link_main | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/bunting_alphabet/7_width_1_mm_depth/u_extra/part |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%205bbl9 |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%205bbl9 |  
 | link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%205bbl9 |  
 | link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%205bbl9 |  
+| link_redirect | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/oobb_bunting_alphabet_07_01_ex_u |  
 | manufacturer |  |  
 | manufacturer_name |  |  
 | md5 | 88346d9321959300ab45fe65ce67a5e0 |  

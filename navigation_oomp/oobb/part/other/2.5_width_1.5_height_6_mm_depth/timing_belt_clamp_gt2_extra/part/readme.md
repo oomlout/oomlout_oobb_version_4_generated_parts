@@ -49,7 +49,7 @@ other 2.5x1.5x6
 
 #### link
 
-                              
+[link_main](https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/other/2.5_width_1.5_height_6_mm_depth/timing_belt_clamp_gt2_extra/part)                              
 
 #### price
 
@@ -81,10 +81,14 @@ other 2.5x1.5x6
 | height | 1.5 |  
 | height_mm | 21.5 |  
 | id | oobb_part_other_2d5_width_1d5_height_6_mm_depth_timing_belt_clamp_gt2_extra |  
+| link_1 | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/other/2.5_width_1.5_height_6_mm_depth/timing_belt_clamp_gt2_extra/part |  
+| link_1_name | link_main |  
+| link_main | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/other/2.5_width_1.5_height_6_mm_depth/timing_belt_clamp_gt2_extra/part |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%202hurn |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%202hurn |  
 | link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%202hurn |  
 | link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%202hurn |  
+| link_redirect | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/oobb_other_2d5_1d5_06_ex_timing_belt_clamp_gt2 |  
 | manufacturer |  |  
 | manufacturer_name |  |  
 | md5 | 3ff8034d7ae82a4dca9673b8d2ade926 |  

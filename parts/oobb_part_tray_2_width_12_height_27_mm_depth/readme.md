@@ -49,7 +49,7 @@ tray 2x12x27
 
 #### link
 
-                              
+[link_main](https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/tray/2_width_12_height_27_mm_depth/part)                              
 
 #### price
 
@@ -80,10 +80,14 @@ tray 2x12x27
 | height | 12 |  
 | height_mm | 179 |  
 | id | oobb_part_tray_2_width_12_height_27_mm_depth |  
+| link_1 | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/tray/2_width_12_height_27_mm_depth/part |  
+| link_1_name | link_main |  
+| link_main | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/tray/2_width_12_height_27_mm_depth/part |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%207gg3t |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%207gg3t |  
 | link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%207gg3t |  
 | link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%207gg3t |  
+| link_redirect | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/oobb_tray_02_12_27 |  
 | manufacturer |  |  
 | manufacturer_name |  |  
 | md5 | bf1c89dfe1b4ffe219c9ffab4a4a52dd |  

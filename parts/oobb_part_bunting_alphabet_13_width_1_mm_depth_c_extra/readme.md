@@ -76,7 +76,7 @@ bunting alphabet 13x0x1
 | description_main_name | 13 Width 1 mm Depth |  
 | directory | parts/oobb_part_bunting_alphabet_13_width_1_mm_depth_c_extra |  
 | extra | c |  
-| folder | C:\gh\oomlout_oobb_version_4_generated_parts\things\oobb_part_bunting_alphabet_13_width_1_mm_depth_c_extra |  
+| folder | C:\gh\oomlout_oobb_version_4_generated_parts\parts\oobb_part_bunting_alphabet_13_width_1_mm_depth_c_extra |  
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_13_width_1_mm_depth_c_extra |  
 | id | oobb_part_bunting_alphabet_13_width_1_mm_depth_c_extra |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%209jg9o |  

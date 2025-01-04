@@ -49,7 +49,7 @@ ziptie holder jack 2x3x12
 
 #### link
 
-                              
+[link_main](https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/ziptie_holder_jack/2_width_3_height_12_mm_depth/part)                              
 
 #### price
 
@@ -80,10 +80,14 @@ ziptie holder jack 2x3x12
 | height | 3 |  
 | height_mm | 44 |  
 | id | oobb_part_ziptie_holder_jack_2_width_3_height_12_mm_depth |  
+| link_1 | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/ziptie_holder_jack/2_width_3_height_12_mm_depth/part |  
+| link_1_name | link_main |  
+| link_main | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/ziptie_holder_jack/2_width_3_height_12_mm_depth/part |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%205p5o4 |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%205p5o4 |  
 | link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%205p5o4 |  
 | link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%205p5o4 |  
+| link_redirect | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/oobb_ziptie_holder_jack_02_03_12 |  
 | manufacturer |  |  
 | manufacturer_name |  |  
 | md5 | 920df4e37d1ab72c3939cb79131c4876 |  

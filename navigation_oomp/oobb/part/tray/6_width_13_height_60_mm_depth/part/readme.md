@@ -49,7 +49,7 @@ tray 6x13x60
 
 #### link
 
-                              
+[link_main](https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/tray/6_width_13_height_60_mm_depth/part)                              
 
 #### price
 
@@ -80,10 +80,14 @@ tray 6x13x60
 | height | 13 |  
 | height_mm | 194 |  
 | id | oobb_part_tray_6_width_13_height_60_mm_depth |  
+| link_1 | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/tray/6_width_13_height_60_mm_depth/part |  
+| link_1_name | link_main |  
+| link_main | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/tray/6_width_13_height_60_mm_depth/part |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%20xgkg |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%20xgkg |  
 | link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%20xgkg |  
 | link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%20xgkg |  
+| link_redirect | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/oobb_tray_06_13_60 |  
 | manufacturer |  |  
 | manufacturer_name |  |  
 | md5 | 17d2206bc55a3cf2241b4322079536d5 |  

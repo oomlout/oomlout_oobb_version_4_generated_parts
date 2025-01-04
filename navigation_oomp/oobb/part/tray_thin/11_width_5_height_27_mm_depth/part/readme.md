@@ -49,7 +49,7 @@ tray thin 11x5x27
 
 #### link
 
-                              
+[link_main](https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/tray_thin/11_width_5_height_27_mm_depth/part)                              
 
 #### price
 
@@ -80,10 +80,14 @@ tray thin 11x5x27
 | height | 5 |  
 | height_mm | 74 |  
 | id | oobb_part_tray_thin_11_width_5_height_27_mm_depth |  
+| link_1 | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/tray_thin/11_width_5_height_27_mm_depth/part |  
+| link_1_name | link_main |  
+| link_main | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/tray_thin/11_width_5_height_27_mm_depth/part |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%2039y4i |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%2039y4i |  
 | link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%2039y4i |  
 | link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%2039y4i |  
+| link_redirect | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/oobb_tray_thin_11_05_27 |  
 | manufacturer |  |  
 | manufacturer_name |  |  
 | md5 | 53f8028d4804118096ee7cd425783105 |  

@@ -49,7 +49,7 @@ holder 5x3x9
 
 #### link
 
-                              
+[link_main](https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/holder/5_width_3_height_9_mm_depth/motor_stepper_nema_17_flat_shifted_spacer_10_mm_extra/part)                              
 
 #### price
 
@@ -76,15 +76,19 @@ holder 5x3x9
 | description_main_name | 5 Width 3 Height 9 mm Depth |  
 | directory | parts/oobb_part_holder_5_width_3_height_9_mm_depth_motor_stepper_nema_17_flat_shifted_spacer_10_mm_extra |  
 | extra | motor_stepper_nema_17_flat_shifted_spacer_10_mm |  
-| folder | C:\gh\oomlout_oobb_version_4_generated_parts\things\oobb_part_holder_5_width_3_height_9_mm_depth_motor_stepper_nema_17_flat_shifted_spacer_10_mm_extra |  
+| folder | C:\gh\oomlout_oobb_version_4_generated_parts\parts\oobb_part_holder_5_width_3_height_9_mm_depth_motor_stepper_nema_17_flat_shifted_spacer_10_mm_extra |  
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_holder_5_width_3_height_9_mm_depth_motor_stepper_nema_17_flat_shifted_spacer_10_mm_extra |  
 | height | 3 |  
 | height_mm | 44 |  
 | id | oobb_part_holder_5_width_3_height_9_mm_depth_motor_stepper_nema_17_flat_shifted_spacer_10_mm_extra |  
+| link_1 | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/holder/5_width_3_height_9_mm_depth/motor_stepper_nema_17_flat_shifted_spacer_10_mm_extra/part |  
+| link_1_name | link_main |  
+| link_main | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/holder/5_width_3_height_9_mm_depth/motor_stepper_nema_17_flat_shifted_spacer_10_mm_extra/part |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%201z29p |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%201z29p |  
 | link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%201z29p |  
 | link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%201z29p |  
+| link_redirect | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/oobb_holder_05_03_09_ex_motor_stepper_nema_17_flat_shifted_spacer_10_mm |  
 | manufacturer |  |  
 | manufacturer_name |  |  
 | md5 | 32973d3224e08038fa58bccfc53f5995 |  

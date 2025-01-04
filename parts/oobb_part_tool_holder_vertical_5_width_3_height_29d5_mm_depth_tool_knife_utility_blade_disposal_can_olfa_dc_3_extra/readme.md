@@ -49,7 +49,7 @@ tool holder vertical 5x3x29.5
 
 #### link
 
-                              
+[link_main](https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/tool_holder_vertical/5_width_3_height_29.5_mm_depth/tool_knife_utility_blade_disposal_can_olfa_dc_3_extra/part)                              
 
 #### price
 
@@ -76,15 +76,19 @@ tool holder vertical 5x3x29.5
 | description_main_name | 5 Width 3 Height 29.5 mm Depth |  
 | directory | parts/oobb_part_tool_holder_vertical_5_width_3_height_29d5_mm_depth_tool_knife_utility_blade_disposal_can_olfa_dc_3_extra |  
 | extra | tool_knife_utility_blade_disposal_can_olfa_dc_3 |  
-| folder | C:\gh\oomlout_oobb_version_4_generated_parts\things\oobb_part_tool_holder_vertical_5_width_3_height_29d5_mm_depth_tool_knife_utility_blade_disposal_can_olfa_dc_3_extra |  
+| folder | C:\gh\oomlout_oobb_version_4_generated_parts\parts\oobb_part_tool_holder_vertical_5_width_3_height_29d5_mm_depth_tool_knife_utility_blade_disposal_can_olfa_dc_3_extra |  
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tool_holder_vertical_5_width_3_height_29d5_mm_depth_tool_knife_utility_blade_disposal_can_olfa_dc_3_extra |  
 | height | 3 |  
 | height_mm | 44 |  
 | id | oobb_part_tool_holder_vertical_5_width_3_height_29d5_mm_depth_tool_knife_utility_blade_disposal_can_olfa_dc_3_extra |  
+| link_1 | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/tool_holder_vertical/5_width_3_height_29.5_mm_depth/tool_knife_utility_blade_disposal_can_olfa_dc_3_extra/part |  
+| link_1_name | link_main |  
+| link_main | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/tool_holder_vertical/5_width_3_height_29.5_mm_depth/tool_knife_utility_blade_disposal_can_olfa_dc_3_extra/part |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%201tb4w |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%201tb4w |  
 | link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%201tb4w |  
 | link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%201tb4w |  
+| link_redirect | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/oobb_tool_holder_vertical_05_03_29d5_ex_tool_knife_utility_blade_disposal_can_olfa_dc_3 |  
 | manufacturer |  |  
 | manufacturer_name |  |  
 | md5 | 2e7ea0a9e0d91b39c05169a5ba0b2c9f |  

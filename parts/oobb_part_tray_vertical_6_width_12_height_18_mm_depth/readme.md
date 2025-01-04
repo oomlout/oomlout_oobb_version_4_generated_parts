@@ -49,7 +49,7 @@ tray vertical 6x12x18
 
 #### link
 
-                              
+[link_main](https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/tray_vertical/6_width_12_height_18_mm_depth/part)                              
 
 #### price
 
@@ -80,10 +80,14 @@ tray vertical 6x12x18
 | height | 12 |  
 | height_mm | 179 |  
 | id | oobb_part_tray_vertical_6_width_12_height_18_mm_depth |  
+| link_1 | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/tray_vertical/6_width_12_height_18_mm_depth/part |  
+| link_1_name | link_main |  
+| link_main | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/tray_vertical/6_width_12_height_18_mm_depth/part |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%2078qv1 |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%2078qv1 |  
 | link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%2078qv1 |  
 | link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%2078qv1 |  
+| link_redirect | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/oobb_tray_vertical_06_12_18 |  
 | manufacturer |  |  
 | manufacturer_name |  |  
 | md5 | b9a0fdba35f7490deb6e22ac4161735b |  

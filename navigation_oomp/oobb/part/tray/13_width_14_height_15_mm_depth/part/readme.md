@@ -49,7 +49,7 @@ tray 13x14x15
 
 #### link
 
-                              
+[link_main](https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/tray/13_width_14_height_15_mm_depth/part)                              
 
 #### price
 
@@ -80,10 +80,14 @@ tray 13x14x15
 | height | 14 |  
 | height_mm | 209 |  
 | id | oobb_part_tray_13_width_14_height_15_mm_depth |  
+| link_1 | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/tray/13_width_14_height_15_mm_depth/part |  
+| link_1_name | link_main |  
+| link_main | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/tray/13_width_14_height_15_mm_depth/part |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%2027oaj |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%2027oaj |  
 | link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%2027oaj |  
 | link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%2027oaj |  
+| link_redirect | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/oobb_tray_13_14_15 |  
 | manufacturer |  |  
 | manufacturer_name |  |  
 | md5 | 38b8bb6233114548ce3d4e50a808b73a |  

@@ -49,7 +49,7 @@ holder 3x1x9
 
 #### link
 
-                              
+[link_main](https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/holder/3_width_1_height_9_mm_depth/electronic_potentiometer_stick_single_axis_16_mm_arm_extra/part)                              
 
 #### price
 
@@ -76,15 +76,19 @@ holder 3x1x9
 | description_main_name | 3 Width 1 Height 9 mm Depth |  
 | directory | parts/oobb_part_holder_3_width_1_height_9_mm_depth_electronic_potentiometer_stick_single_axis_16_mm_arm_extra |  
 | extra | electronic_potentiometer_stick_single_axis_16_mm_arm |  
-| folder | C:\gh\oomlout_oobb_version_4_generated_parts\things\oobb_part_holder_3_width_1_height_9_mm_depth_electronic_potentiometer_stick_single_axis_16_mm_arm_extra |  
+| folder | C:\gh\oomlout_oobb_version_4_generated_parts\parts\oobb_part_holder_3_width_1_height_9_mm_depth_electronic_potentiometer_stick_single_axis_16_mm_arm_extra |  
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_holder_3_width_1_height_9_mm_depth_electronic_potentiometer_stick_single_axis_16_mm_arm_extra |  
 | height | 1 |  
 | height_mm | 14 |  
 | id | oobb_part_holder_3_width_1_height_9_mm_depth_electronic_potentiometer_stick_single_axis_16_mm_arm_extra |  
+| link_1 | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/holder/3_width_1_height_9_mm_depth/electronic_potentiometer_stick_single_axis_16_mm_arm_extra/part |  
+| link_1_name | link_main |  
+| link_main | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/holder/3_width_1_height_9_mm_depth/electronic_potentiometer_stick_single_axis_16_mm_arm_extra/part |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%202y8qw |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%202y8qw |  
 | link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%202y8qw |  
 | link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%202y8qw |  
+| link_redirect | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/oobb_holder_03_01_09_ex_electronic_potentiometer_stick_single_axis_16_mm_arm |  
 | manufacturer |  |  
 | manufacturer_name |  |  
 | md5 | 4ba2c8c962db4f800d087eb6f071a167 |  

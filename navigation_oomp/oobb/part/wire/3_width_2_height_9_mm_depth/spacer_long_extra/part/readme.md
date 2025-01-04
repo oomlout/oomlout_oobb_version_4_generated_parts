@@ -49,7 +49,7 @@ wire 3x2x9
 
 #### link
 
-                              
+[link_main](https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/wire/3_width_2_height_9_mm_depth/spacer_long_extra/part)                              
 
 #### price
 
@@ -81,10 +81,14 @@ wire 3x2x9
 | height | 2 |  
 | height_mm | 29 |  
 | id | oobb_part_wire_3_width_2_height_9_mm_depth_spacer_long_extra |  
+| link_1 | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/wire/3_width_2_height_9_mm_depth/spacer_long_extra/part |  
+| link_1_name | link_main |  
+| link_main | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/wire/3_width_2_height_9_mm_depth/spacer_long_extra/part |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%205sn48 |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%205sn48 |  
 | link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%205sn48 |  
 | link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%205sn48 |  
+| link_redirect | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/oobb_wire_03_02_09_ex_spacer_long |  
 | manufacturer |  |  
 | manufacturer_name |  |  
 | md5 | 948908d93be450c4146a56b4914daf85 |  

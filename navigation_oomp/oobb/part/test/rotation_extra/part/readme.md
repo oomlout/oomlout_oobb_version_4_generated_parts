@@ -49,7 +49,7 @@ test 0x0x0
 
 #### link
 
-                              
+[link_main](https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/test//rotation_extra/part)                              
 
 #### price
 
@@ -79,10 +79,14 @@ test 0x0x0
 | folder | C:\gh\oomlout_oobb_version_4_generated_parts\parts\oobb_part_test_rotation_extra |  
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_test_rotation_extra |  
 | id | oobb_part_test_rotation_extra |  
+| link_1 | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/test//rotation_extra/part |  
+| link_1_name | link_main |  
+| link_main | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/test//rotation_extra/part |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%202eg2u |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%202eg2u |  
 | link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%202eg2u |  
 | link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%202eg2u |  
+| link_redirect | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/oobb_test_ex_rotation |  
 | manufacturer |  |  
 | manufacturer_name |  |  
 | md5 | 3d8ae66d848ca6ad11d156f89b00a8f6 |  

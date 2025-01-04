@@ -49,7 +49,7 @@ tray vertical 15x1.5x30
 
 #### link
 
-                              
+[link_main](https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/tray_vertical/15_width_1.5_height_30_mm_depth/part)                              
 
 #### price
 
@@ -80,10 +80,14 @@ tray vertical 15x1.5x30
 | height | 1.5 |  
 | height_mm | 21.5 |  
 | id | oobb_part_tray_vertical_15_width_1d5_height_30_mm_depth |  
+| link_1 | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/tray_vertical/15_width_1.5_height_30_mm_depth/part |  
+| link_1_name | link_main |  
+| link_main | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/tray_vertical/15_width_1.5_height_30_mm_depth/part |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%209ldyo |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%209ldyo |  
 | link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%209ldyo |  
 | link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%209ldyo |  
+| link_redirect | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/oobb_tray_vertical_15_1d5_30 |  
 | manufacturer |  |  
 | manufacturer_name |  |  
 | md5 | f5e2f0e49c7a2736a1fe23481a944e0b |  

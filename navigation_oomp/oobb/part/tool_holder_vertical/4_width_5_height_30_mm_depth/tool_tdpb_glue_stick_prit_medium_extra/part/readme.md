@@ -49,7 +49,7 @@ tool holder vertical 4x5x30
 
 #### link
 
-                              
+[link_main](https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/tool_holder_vertical/4_width_5_height_30_mm_depth/tool_tdpb_glue_stick_prit_medium_extra/part)                              
 
 #### price
 
@@ -76,15 +76,19 @@ tool holder vertical 4x5x30
 | description_main_name | 4 Width 5 Height 30 mm Depth |  
 | directory | parts/oobb_part_tool_holder_vertical_4_width_5_height_30_mm_depth_tool_tdpb_glue_stick_prit_medium_extra |  
 | extra | tool_tdpb_glue_stick_prit_medium |  
-| folder | C:\gh\oomlout_oobb_version_4_generated_parts\things\oobb_part_tool_holder_vertical_4_width_5_height_30_mm_depth_tool_tdpb_glue_stick_prit_medium_extra |  
+| folder | C:\gh\oomlout_oobb_version_4_generated_parts\parts\oobb_part_tool_holder_vertical_4_width_5_height_30_mm_depth_tool_tdpb_glue_stick_prit_medium_extra |  
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tool_holder_vertical_4_width_5_height_30_mm_depth_tool_tdpb_glue_stick_prit_medium_extra |  
 | height | 5 |  
 | height_mm | 74 |  
 | id | oobb_part_tool_holder_vertical_4_width_5_height_30_mm_depth_tool_tdpb_glue_stick_prit_medium_extra |  
+| link_1 | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/tool_holder_vertical/4_width_5_height_30_mm_depth/tool_tdpb_glue_stick_prit_medium_extra/part |  
+| link_1_name | link_main |  
+| link_main | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/tool_holder_vertical/4_width_5_height_30_mm_depth/tool_tdpb_glue_stick_prit_medium_extra/part |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%203sr1x |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%203sr1x |  
 | link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%203sr1x |  
 | link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%203sr1x |  
+| link_redirect | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/oobb_tool_holder_vertical_04_05_30_ex_tool_tdpb_glue_stick_prit_medium |  
 | manufacturer |  |  
 | manufacturer_name |  |  
 | md5 | 615af5230e3afaccce7a22e107b3a39e |  

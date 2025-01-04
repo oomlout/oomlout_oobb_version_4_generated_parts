@@ -49,7 +49,7 @@ tray 7x2.5x24
 
 #### link
 
-                              
+[link_main](https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/tray/7_width_2.5_height_24_mm_depth/part)                              
 
 #### price
 
@@ -80,10 +80,14 @@ tray 7x2.5x24
 | height | 2.5 |  
 | height_mm | 36.5 |  
 | id | oobb_part_tray_7_width_2d5_height_24_mm_depth |  
+| link_1 | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/tray/7_width_2.5_height_24_mm_depth/part |  
+| link_1_name | link_main |  
+| link_main | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/tray/7_width_2.5_height_24_mm_depth/part |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%207q7os |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%207q7os |  
 | link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%207q7os |  
 | link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%207q7os |  
+| link_redirect | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/oobb_tray_07_2d5_24 |  
 | manufacturer |  |  
 | manufacturer_name |  |  
 | md5 | c6106c697ab323d6f57f393553f2a5ee |  

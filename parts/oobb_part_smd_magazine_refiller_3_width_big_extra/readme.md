@@ -49,7 +49,7 @@ smd magazine refiller 3x0x0
 
 #### link
 
-                              
+[link_main](https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/smd_magazine_refiller/3_width/big_extra/part)                              
 
 #### price
 
@@ -76,13 +76,17 @@ smd magazine refiller 3x0x0
 | description_main_name | 3 Width |  
 | directory | parts/oobb_part_smd_magazine_refiller_3_width_big_extra |  
 | extra | big |  
-| folder | C:\gh\oomlout_oobb_version_4_generated_parts\things\oobb_part_smd_magazine_refiller_3_width_big_extra |  
+| folder | C:\gh\oomlout_oobb_version_4_generated_parts\parts\oobb_part_smd_magazine_refiller_3_width_big_extra |  
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_smd_magazine_refiller_3_width_big_extra |  
 | id | oobb_part_smd_magazine_refiller_3_width_big_extra |  
+| link_1 | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/smd_magazine_refiller/3_width/big_extra/part |  
+| link_1_name | link_main |  
+| link_main | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/smd_magazine_refiller/3_width/big_extra/part |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%20749h5 |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%20749h5 |  
 | link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%20749h5 |  
 | link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%20749h5 |  
+| link_redirect | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/oobb_smd_magazine_refiller_03_ex_big |  
 | manufacturer |  |  
 | manufacturer_name |  |  
 | md5 | b66ff9d39d32ac128490b9081614f2b7 |  

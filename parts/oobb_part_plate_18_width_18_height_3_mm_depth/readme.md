@@ -49,7 +49,7 @@ plate 18x18x3
 
 #### link
 
-                              
+[link_main](https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/plate/18_width_18_height_3_mm_depth/part)                              
 
 #### price
 
@@ -75,15 +75,19 @@ plate 18x18x3
 | description_main | 18_width_18_height_3_mm_depth |  
 | description_main_name | 18 Width 18 Height 3 mm Depth |  
 | directory | parts/oobb_part_plate_18_width_18_height_3_mm_depth |  
-| folder | C:\gh\oomlout_oobb_version_4_generated_parts\things\oobb_part_plate_18_width_18_height_3_mm_depth |  
+| folder | C:\gh\oomlout_oobb_version_4_generated_parts\parts\oobb_part_plate_18_width_18_height_3_mm_depth |  
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_18_width_18_height_3_mm_depth |  
 | height | 18 |  
 | height_mm | 269 |  
 | id | oobb_part_plate_18_width_18_height_3_mm_depth |  
+| link_1 | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/plate/18_width_18_height_3_mm_depth/part |  
+| link_1_name | link_main |  
+| link_main | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/plate/18_width_18_height_3_mm_depth/part |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%2087d1v |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%2087d1v |  
 | link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%2087d1v |  
 | link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%2087d1v |  
+| link_redirect | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/oobb_plate_18_18_03 |  
 | manufacturer |  |  
 | manufacturer_name |  |  
 | md5 | d245d3d6331de0618fea5c886dbcb9de |  

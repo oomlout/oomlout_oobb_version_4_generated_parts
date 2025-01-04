@@ -49,7 +49,7 @@ wire 3x3x12
 
 #### link
 
-                              
+[link_main](https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/wire/3_width_3_height_12_mm_depth/basic_basic_basic_basic_extra/part)                              
 
 #### price
 
@@ -81,10 +81,14 @@ wire 3x3x12
 | height | 3 |  
 | height_mm | 44 |  
 | id | oobb_part_wire_3_width_3_height_12_mm_depth_basic_basic_basic_basic_extra |  
+| link_1 | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/wire/3_width_3_height_12_mm_depth/basic_basic_basic_basic_extra/part |  
+| link_1_name | link_main |  
+| link_main | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/wire/3_width_3_height_12_mm_depth/basic_basic_basic_basic_extra/part |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%20848a0 |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%20848a0 |  
 | link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%20848a0 |  
 | link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%20848a0 |  
+| link_redirect | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/oobb_wire_03_03_12_ex_basic_basic_basic_basic |  
 | manufacturer |  |  
 | manufacturer_name |  |  
 | md5 | d00ae8dc1669e24ed2d9f22d16d2c059 |  
