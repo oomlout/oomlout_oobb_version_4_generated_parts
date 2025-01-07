@@ -49,7 +49,7 @@ oomlout oobb part tray stackable experiment base 4x2.5x18
 
 #### link
 
-                              
+[link_main](https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/oomlout_oobb_part_tray_stackable_experiment_base/4_width_2.5_height_18_mm_depth/part)                              
 
 #### price
 
@@ -75,15 +75,19 @@ oomlout oobb part tray stackable experiment base 4x2.5x18
 | description_main | 4_width_2.5_height_18_mm_depth |  
 | description_main_name | 4 Width 2.5 Height 18 mm Depth |  
 | directory | parts/oobb_part_oomlout_oobb_part_tray_stackable_experiment_base_4_width_2d5_height_18_mm_depth |  
-| folder | C:\gh\oomlout_oobb_version_4_generated_parts\things\oobb_part_oomlout_oobb_part_tray_stackable_experiment_base_4_width_2d5_height_18_mm_depth |  
+| folder | C:\gh\oomlout_oobb_version_4_generated_parts\parts\oobb_part_oomlout_oobb_part_tray_stackable_experiment_base_4_width_2d5_height_18_mm_depth |  
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oomlout_oobb_part_tray_stackable_experiment_base_4_width_2d5_height_18_mm_depth |  
 | height | 2.5 |  
 | height_mm | 36.5 |  
 | id | oobb_part_oomlout_oobb_part_tray_stackable_experiment_base_4_width_2d5_height_18_mm_depth |  
+| link_1 | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/oomlout_oobb_part_tray_stackable_experiment_base/4_width_2.5_height_18_mm_depth/part |  
+| link_1_name | link_main |  
+| link_main | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/oomlout_oobb_part_tray_stackable_experiment_base/4_width_2.5_height_18_mm_depth/part |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%207zjba |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%207zjba |  
 | link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%207zjba |  
 | link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%207zjba |  
+| link_redirect | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/oobb_oomlout_oobb_part_tray_stackable_experiment_base_04_2d5_18 |  
 | manufacturer |  |  
 | manufacturer_name |  |  
 | md5 | ccb386d98b360f5db4a0ad8529b41b5d |  

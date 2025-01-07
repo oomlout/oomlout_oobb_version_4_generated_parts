@@ -49,7 +49,7 @@ oomlout oobb part tray stackable experiment stackable 1 2x2x18
 
 #### link
 
-                              
+[link_main](https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/oomlout_oobb_part_tray_stackable_experiment_stackable_1/2_width_2_height_18_mm_depth/part)                              
 
 #### price
 
@@ -80,10 +80,14 @@ oomlout oobb part tray stackable experiment stackable 1 2x2x18
 | height | 2 |  
 | height_mm | 29 |  
 | id | oobb_part_oomlout_oobb_part_tray_stackable_experiment_stackable_1_2_width_2_height_18_mm_depth |  
+| link_1 | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/oomlout_oobb_part_tray_stackable_experiment_stackable_1/2_width_2_height_18_mm_depth/part |  
+| link_1_name | link_main |  
+| link_main | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/oomlout_oobb_part_tray_stackable_experiment_stackable_1/2_width_2_height_18_mm_depth/part |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%2099j01 |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%2099j01 |  
 | link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%2099j01 |  
 | link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%2099j01 |  
+| link_redirect | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/oobb_oomlout_oobb_part_tray_stackable_experiment_stackable_1_02_02_18 |  
 | manufacturer |  |  
 | manufacturer_name |  |  
 | md5 | ed717107f48c7496af91a5623436407a |  
