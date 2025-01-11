@@ -1,68 +1,9 @@
-bip_39_word_dash_1: avoid
-bip_39_word_dash_10: avoid-rug-crumble-path-senior-onion-job-shell-panda-wrong
-bip_39_word_dash_11: avoid-rug-crumble-path-senior-onion-job-shell-panda-wrong-album
 bip_39_word_dash_12: avoid-rug-crumble-path-senior-onion-job-shell-panda-wrong-album-any
 bip_39_word_dash_2: avoid-rug
 bip_39_word_dash_3: avoid-rug-crumble
-bip_39_word_dash_4: avoid-rug-crumble-path
-bip_39_word_dash_5: avoid-rug-crumble-path-senior
-bip_39_word_dash_6: avoid-rug-crumble-path-senior-onion
-bip_39_word_dash_7: avoid-rug-crumble-path-senior-onion-job
-bip_39_word_dash_8: avoid-rug-crumble-path-senior-onion-job-shell
-bip_39_word_dash_9: avoid-rug-crumble-path-senior-onion-job-shell-panda
-bip_39_word_new_br_1: avoid
-bip_39_word_new_br_10: avoid<br>rug<br>crumble<br>path<br>senior<br>onion<br>job<br>shell<br>panda<br>wrong
-bip_39_word_new_br_11: avoid<br>rug<br>crumble<br>path<br>senior<br>onion<br>job<br>shell<br>panda<br>wrong<br>album
 bip_39_word_new_br_12: avoid<br>rug<br>crumble<br>path<br>senior<br>onion<br>job<br>shell<br>panda<br>wrong<br>album<br>any
 bip_39_word_new_br_2: avoid<br>rug
 bip_39_word_new_br_3: avoid<br>rug<br>crumble
-bip_39_word_new_br_4: avoid<br>rug<br>crumble<br>path
-bip_39_word_new_br_5: avoid<br>rug<br>crumble<br>path<br>senior
-bip_39_word_new_br_6: avoid<br>rug<br>crumble<br>path<br>senior<br>onion
-bip_39_word_new_br_7: avoid<br>rug<br>crumble<br>path<br>senior<br>onion<br>job
-bip_39_word_new_br_8: avoid<br>rug<br>crumble<br>path<br>senior<br>onion<br>job<br>shell
-bip_39_word_new_br_9: avoid<br>rug<br>crumble<br>path<br>senior<br>onion<br>job<br>shell<br>panda
-bip_39_word_new_line_1: avoid
-bip_39_word_new_line_10: 'avoid
-
-  rug
-
-  crumble
-
-  path
-
-  senior
-
-  onion
-
-  job
-
-  shell
-
-  panda
-
-  wrong'
-bip_39_word_new_line_11: 'avoid
-
-  rug
-
-  crumble
-
-  path
-
-  senior
-
-  onion
-
-  job
-
-  shell
-
-  panda
-
-  wrong
-
-  album'
 bip_39_word_new_line_12: 'avoid
 
   rug
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'avoid
   rug
 
   crumble'
-bip_39_word_new_line_4: 'avoid
-
-  rug
-
-  crumble
-
-  path'
-bip_39_word_new_line_5: 'avoid
-
-  rug
-
-  crumble
-
-  path
-
-  senior'
-bip_39_word_new_line_6: 'avoid
-
-  rug
-
-  crumble
-
-  path
-
-  senior
-
-  onion'
-bip_39_word_new_line_7: 'avoid
-
-  rug
-
-  crumble
-
-  path
-
-  senior
-
-  onion
-
-  job'
-bip_39_word_new_line_8: 'avoid
-
-  rug
-
-  crumble
-
-  path
-
-  senior
-
-  onion
-
-  job
-
-  shell'
-bip_39_word_new_line_9: 'avoid
-
-  rug
-
-  crumble
-
-  path
-
-  senior
-
-  onion
-
-  job
-
-  shell
-
-  panda'
-bip_39_word_no_space_1: avoid
-bip_39_word_no_space_10: avoidrugcrumblepathsenioronionjobshellpandawrong
-bip_39_word_no_space_11: avoidrugcrumblepathsenioronionjobshellpandawrongalbum
 bip_39_word_no_space_12: avoidrugcrumblepathsenioronionjobshellpandawrongalbumany
 bip_39_word_no_space_2: avoidrug
 bip_39_word_no_space_3: avoidrugcrumble
-bip_39_word_no_space_4: avoidrugcrumblepath
-bip_39_word_no_space_5: avoidrugcrumblepathsenior
-bip_39_word_no_space_6: avoidrugcrumblepathsenioronion
-bip_39_word_no_space_7: avoidrugcrumblepathsenioronionjob
-bip_39_word_no_space_8: avoidrugcrumblepathsenioronionjobshell
-bip_39_word_no_space_9: avoidrugcrumblepathsenioronionjobshellpanda
-bip_39_word_space_0:
-- avoid
-- rug
-- crumble
-- path
-- senior
-- onion
-- job
-- shell
-- panda
-- wrong
-- album
-- any
-bip_39_word_space_1: avoid
-bip_39_word_space_10: avoid rug crumble path senior onion job shell panda wrong
-bip_39_word_space_11: avoid rug crumble path senior onion job shell panda wrong album
 bip_39_word_space_12: avoid rug crumble path senior onion job shell panda wrong album
   any
 bip_39_word_space_2: avoid rug
 bip_39_word_space_3: avoid rug crumble
-bip_39_word_space_4: avoid rug crumble path
-bip_39_word_space_5: avoid rug crumble path senior
-bip_39_word_space_6: avoid rug crumble path senior onion
-bip_39_word_space_7: avoid rug crumble path senior onion job
-bip_39_word_space_8: avoid rug crumble path senior onion job shell
-bip_39_word_space_9: avoid rug crumble path senior onion job shell panda
-bip_39_word_underscore_1: avoid
-bip_39_word_underscore_10: avoid_rug_crumble_path_senior_onion_job_shell_panda_wrong
-bip_39_word_underscore_11: avoid_rug_crumble_path_senior_onion_job_shell_panda_wrong_album
 bip_39_word_underscore_12: avoid_rug_crumble_path_senior_onion_job_shell_panda_wrong_album_any
 bip_39_word_underscore_2: avoid_rug
 bip_39_word_underscore_3: avoid_rug_crumble
-bip_39_word_underscore_4: avoid_rug_crumble_path
-bip_39_word_underscore_5: avoid_rug_crumble_path_senior
-bip_39_word_underscore_6: avoid_rug_crumble_path_senior_onion
-bip_39_word_underscore_7: avoid_rug_crumble_path_senior_onion_job
-bip_39_word_underscore_8: avoid_rug_crumble_path_senior_onion_job_shell
-bip_39_word_underscore_9: avoid_rug_crumble_path_senior_onion_job_shell_panda
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

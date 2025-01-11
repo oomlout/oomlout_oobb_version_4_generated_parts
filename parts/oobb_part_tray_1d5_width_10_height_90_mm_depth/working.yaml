@@ -1,68 +1,9 @@
-bip_39_word_dash_1: team
-bip_39_word_dash_10: team-ten-shuffle-search-guard-number-force-blast-man-despair
-bip_39_word_dash_11: team-ten-shuffle-search-guard-number-force-blast-man-despair-bench
 bip_39_word_dash_12: team-ten-shuffle-search-guard-number-force-blast-man-despair-bench-armed
 bip_39_word_dash_2: team-ten
 bip_39_word_dash_3: team-ten-shuffle
-bip_39_word_dash_4: team-ten-shuffle-search
-bip_39_word_dash_5: team-ten-shuffle-search-guard
-bip_39_word_dash_6: team-ten-shuffle-search-guard-number
-bip_39_word_dash_7: team-ten-shuffle-search-guard-number-force
-bip_39_word_dash_8: team-ten-shuffle-search-guard-number-force-blast
-bip_39_word_dash_9: team-ten-shuffle-search-guard-number-force-blast-man
-bip_39_word_new_br_1: team
-bip_39_word_new_br_10: team<br>ten<br>shuffle<br>search<br>guard<br>number<br>force<br>blast<br>man<br>despair
-bip_39_word_new_br_11: team<br>ten<br>shuffle<br>search<br>guard<br>number<br>force<br>blast<br>man<br>despair<br>bench
 bip_39_word_new_br_12: team<br>ten<br>shuffle<br>search<br>guard<br>number<br>force<br>blast<br>man<br>despair<br>bench<br>armed
 bip_39_word_new_br_2: team<br>ten
 bip_39_word_new_br_3: team<br>ten<br>shuffle
-bip_39_word_new_br_4: team<br>ten<br>shuffle<br>search
-bip_39_word_new_br_5: team<br>ten<br>shuffle<br>search<br>guard
-bip_39_word_new_br_6: team<br>ten<br>shuffle<br>search<br>guard<br>number
-bip_39_word_new_br_7: team<br>ten<br>shuffle<br>search<br>guard<br>number<br>force
-bip_39_word_new_br_8: team<br>ten<br>shuffle<br>search<br>guard<br>number<br>force<br>blast
-bip_39_word_new_br_9: team<br>ten<br>shuffle<br>search<br>guard<br>number<br>force<br>blast<br>man
-bip_39_word_new_line_1: team
-bip_39_word_new_line_10: 'team
-
-  ten
-
-  shuffle
-
-  search
-
-  guard
-
-  number
-
-  force
-
-  blast
-
-  man
-
-  despair'
-bip_39_word_new_line_11: 'team
-
-  ten
-
-  shuffle
-
-  search
-
-  guard
-
-  number
-
-  force
-
-  blast
-
-  man
-
-  despair
-
-  bench'
 bip_39_word_new_line_12: 'team
 
   ten
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'team
   ten
 
   shuffle'
-bip_39_word_new_line_4: 'team
-
-  ten
-
-  shuffle
-
-  search'
-bip_39_word_new_line_5: 'team
-
-  ten
-
-  shuffle
-
-  search
-
-  guard'
-bip_39_word_new_line_6: 'team
-
-  ten
-
-  shuffle
-
-  search
-
-  guard
-
-  number'
-bip_39_word_new_line_7: 'team
-
-  ten
-
-  shuffle
-
-  search
-
-  guard
-
-  number
-
-  force'
-bip_39_word_new_line_8: 'team
-
-  ten
-
-  shuffle
-
-  search
-
-  guard
-
-  number
-
-  force
-
-  blast'
-bip_39_word_new_line_9: 'team
-
-  ten
-
-  shuffle
-
-  search
-
-  guard
-
-  number
-
-  force
-
-  blast
-
-  man'
-bip_39_word_no_space_1: team
-bip_39_word_no_space_10: teamtenshufflesearchguardnumberforceblastmandespair
-bip_39_word_no_space_11: teamtenshufflesearchguardnumberforceblastmandespairbench
 bip_39_word_no_space_12: teamtenshufflesearchguardnumberforceblastmandespairbencharmed
 bip_39_word_no_space_2: teamten
 bip_39_word_no_space_3: teamtenshuffle
-bip_39_word_no_space_4: teamtenshufflesearch
-bip_39_word_no_space_5: teamtenshufflesearchguard
-bip_39_word_no_space_6: teamtenshufflesearchguardnumber
-bip_39_word_no_space_7: teamtenshufflesearchguardnumberforce
-bip_39_word_no_space_8: teamtenshufflesearchguardnumberforceblast
-bip_39_word_no_space_9: teamtenshufflesearchguardnumberforceblastman
-bip_39_word_space_0:
-- team
-- ten
-- shuffle
-- search
-- guard
-- number
-- force
-- blast
-- man
-- despair
-- bench
-- armed
-bip_39_word_space_1: team
-bip_39_word_space_10: team ten shuffle search guard number force blast man despair
-bip_39_word_space_11: team ten shuffle search guard number force blast man despair
-  bench
 bip_39_word_space_12: team ten shuffle search guard number force blast man despair
   bench armed
 bip_39_word_space_2: team ten
 bip_39_word_space_3: team ten shuffle
-bip_39_word_space_4: team ten shuffle search
-bip_39_word_space_5: team ten shuffle search guard
-bip_39_word_space_6: team ten shuffle search guard number
-bip_39_word_space_7: team ten shuffle search guard number force
-bip_39_word_space_8: team ten shuffle search guard number force blast
-bip_39_word_space_9: team ten shuffle search guard number force blast man
-bip_39_word_underscore_1: team
-bip_39_word_underscore_10: team_ten_shuffle_search_guard_number_force_blast_man_despair
-bip_39_word_underscore_11: team_ten_shuffle_search_guard_number_force_blast_man_despair_bench
 bip_39_word_underscore_12: team_ten_shuffle_search_guard_number_force_blast_man_despair_bench_armed
 bip_39_word_underscore_2: team_ten
 bip_39_word_underscore_3: team_ten_shuffle
-bip_39_word_underscore_4: team_ten_shuffle_search
-bip_39_word_underscore_5: team_ten_shuffle_search_guard
-bip_39_word_underscore_6: team_ten_shuffle_search_guard_number
-bip_39_word_underscore_7: team_ten_shuffle_search_guard_number_force
-bip_39_word_underscore_8: team_ten_shuffle_search_guard_number_force_blast
-bip_39_word_underscore_9: team_ten_shuffle_search_guard_number_force_blast_man
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: sign
-bip_39_word_dash_10: sign-coil-weasel-pulp-candy-valid-roast-nation-chest-typical
-bip_39_word_dash_11: sign-coil-weasel-pulp-candy-valid-roast-nation-chest-typical-derive
 bip_39_word_dash_12: sign-coil-weasel-pulp-candy-valid-roast-nation-chest-typical-derive-avocado
 bip_39_word_dash_2: sign-coil
 bip_39_word_dash_3: sign-coil-weasel
-bip_39_word_dash_4: sign-coil-weasel-pulp
-bip_39_word_dash_5: sign-coil-weasel-pulp-candy
-bip_39_word_dash_6: sign-coil-weasel-pulp-candy-valid
-bip_39_word_dash_7: sign-coil-weasel-pulp-candy-valid-roast
-bip_39_word_dash_8: sign-coil-weasel-pulp-candy-valid-roast-nation
-bip_39_word_dash_9: sign-coil-weasel-pulp-candy-valid-roast-nation-chest
-bip_39_word_new_br_1: sign
-bip_39_word_new_br_10: sign<br>coil<br>weasel<br>pulp<br>candy<br>valid<br>roast<br>nation<br>chest<br>typical
-bip_39_word_new_br_11: sign<br>coil<br>weasel<br>pulp<br>candy<br>valid<br>roast<br>nation<br>chest<br>typical<br>derive
 bip_39_word_new_br_12: sign<br>coil<br>weasel<br>pulp<br>candy<br>valid<br>roast<br>nation<br>chest<br>typical<br>derive<br>avocado
 bip_39_word_new_br_2: sign<br>coil
 bip_39_word_new_br_3: sign<br>coil<br>weasel
-bip_39_word_new_br_4: sign<br>coil<br>weasel<br>pulp
-bip_39_word_new_br_5: sign<br>coil<br>weasel<br>pulp<br>candy
-bip_39_word_new_br_6: sign<br>coil<br>weasel<br>pulp<br>candy<br>valid
-bip_39_word_new_br_7: sign<br>coil<br>weasel<br>pulp<br>candy<br>valid<br>roast
-bip_39_word_new_br_8: sign<br>coil<br>weasel<br>pulp<br>candy<br>valid<br>roast<br>nation
-bip_39_word_new_br_9: sign<br>coil<br>weasel<br>pulp<br>candy<br>valid<br>roast<br>nation<br>chest
-bip_39_word_new_line_1: sign
-bip_39_word_new_line_10: 'sign
-
-  coil
-
-  weasel
-
-  pulp
-
-  candy
-
-  valid
-
-  roast
-
-  nation
-
-  chest
-
-  typical'
-bip_39_word_new_line_11: 'sign
-
-  coil
-
-  weasel
-
-  pulp
-
-  candy
-
-  valid
-
-  roast
-
-  nation
-
-  chest
-
-  typical
-
-  derive'
 bip_39_word_new_line_12: 'sign
 
   coil
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'sign
   coil
 
   weasel'
-bip_39_word_new_line_4: 'sign
-
-  coil
-
-  weasel
-
-  pulp'
-bip_39_word_new_line_5: 'sign
-
-  coil
-
-  weasel
-
-  pulp
-
-  candy'
-bip_39_word_new_line_6: 'sign
-
-  coil
-
-  weasel
-
-  pulp
-
-  candy
-
-  valid'
-bip_39_word_new_line_7: 'sign
-
-  coil
-
-  weasel
-
-  pulp
-
-  candy
-
-  valid
-
-  roast'
-bip_39_word_new_line_8: 'sign
-
-  coil
-
-  weasel
-
-  pulp
-
-  candy
-
-  valid
-
-  roast
-
-  nation'
-bip_39_word_new_line_9: 'sign
-
-  coil
-
-  weasel
-
-  pulp
-
-  candy
-
-  valid
-
-  roast
-
-  nation
-
-  chest'
-bip_39_word_no_space_1: sign
-bip_39_word_no_space_10: signcoilweaselpulpcandyvalidroastnationchesttypical
-bip_39_word_no_space_11: signcoilweaselpulpcandyvalidroastnationchesttypicalderive
 bip_39_word_no_space_12: signcoilweaselpulpcandyvalidroastnationchesttypicalderiveavocado
 bip_39_word_no_space_2: signcoil
 bip_39_word_no_space_3: signcoilweasel
-bip_39_word_no_space_4: signcoilweaselpulp
-bip_39_word_no_space_5: signcoilweaselpulpcandy
-bip_39_word_no_space_6: signcoilweaselpulpcandyvalid
-bip_39_word_no_space_7: signcoilweaselpulpcandyvalidroast
-bip_39_word_no_space_8: signcoilweaselpulpcandyvalidroastnation
-bip_39_word_no_space_9: signcoilweaselpulpcandyvalidroastnationchest
-bip_39_word_space_0:
-- sign
-- coil
-- weasel
-- pulp
-- candy
-- valid
-- roast
-- nation
-- chest
-- typical
-- derive
-- avocado
-bip_39_word_space_1: sign
-bip_39_word_space_10: sign coil weasel pulp candy valid roast nation chest typical
-bip_39_word_space_11: sign coil weasel pulp candy valid roast nation chest typical
-  derive
 bip_39_word_space_12: sign coil weasel pulp candy valid roast nation chest typical
   derive avocado
 bip_39_word_space_2: sign coil
 bip_39_word_space_3: sign coil weasel
-bip_39_word_space_4: sign coil weasel pulp
-bip_39_word_space_5: sign coil weasel pulp candy
-bip_39_word_space_6: sign coil weasel pulp candy valid
-bip_39_word_space_7: sign coil weasel pulp candy valid roast
-bip_39_word_space_8: sign coil weasel pulp candy valid roast nation
-bip_39_word_space_9: sign coil weasel pulp candy valid roast nation chest
-bip_39_word_underscore_1: sign
-bip_39_word_underscore_10: sign_coil_weasel_pulp_candy_valid_roast_nation_chest_typical
-bip_39_word_underscore_11: sign_coil_weasel_pulp_candy_valid_roast_nation_chest_typical_derive
 bip_39_word_underscore_12: sign_coil_weasel_pulp_candy_valid_roast_nation_chest_typical_derive_avocado
 bip_39_word_underscore_2: sign_coil
 bip_39_word_underscore_3: sign_coil_weasel
-bip_39_word_underscore_4: sign_coil_weasel_pulp
-bip_39_word_underscore_5: sign_coil_weasel_pulp_candy
-bip_39_word_underscore_6: sign_coil_weasel_pulp_candy_valid
-bip_39_word_underscore_7: sign_coil_weasel_pulp_candy_valid_roast
-bip_39_word_underscore_8: sign_coil_weasel_pulp_candy_valid_roast_nation
-bip_39_word_underscore_9: sign_coil_weasel_pulp_candy_valid_roast_nation_chest
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: vault
-bip_39_word_dash_10: vault-tail-nasty-deny-survey-model-caution-pumpkin-rescue-next
-bip_39_word_dash_11: vault-tail-nasty-deny-survey-model-caution-pumpkin-rescue-next-nuclear
 bip_39_word_dash_12: vault-tail-nasty-deny-survey-model-caution-pumpkin-rescue-next-nuclear-aim
 bip_39_word_dash_2: vault-tail
 bip_39_word_dash_3: vault-tail-nasty
-bip_39_word_dash_4: vault-tail-nasty-deny
-bip_39_word_dash_5: vault-tail-nasty-deny-survey
-bip_39_word_dash_6: vault-tail-nasty-deny-survey-model
-bip_39_word_dash_7: vault-tail-nasty-deny-survey-model-caution
-bip_39_word_dash_8: vault-tail-nasty-deny-survey-model-caution-pumpkin
-bip_39_word_dash_9: vault-tail-nasty-deny-survey-model-caution-pumpkin-rescue
-bip_39_word_new_br_1: vault
-bip_39_word_new_br_10: vault<br>tail<br>nasty<br>deny<br>survey<br>model<br>caution<br>pumpkin<br>rescue<br>next
-bip_39_word_new_br_11: vault<br>tail<br>nasty<br>deny<br>survey<br>model<br>caution<br>pumpkin<br>rescue<br>next<br>nuclear
 bip_39_word_new_br_12: vault<br>tail<br>nasty<br>deny<br>survey<br>model<br>caution<br>pumpkin<br>rescue<br>next<br>nuclear<br>aim
 bip_39_word_new_br_2: vault<br>tail
 bip_39_word_new_br_3: vault<br>tail<br>nasty
-bip_39_word_new_br_4: vault<br>tail<br>nasty<br>deny
-bip_39_word_new_br_5: vault<br>tail<br>nasty<br>deny<br>survey
-bip_39_word_new_br_6: vault<br>tail<br>nasty<br>deny<br>survey<br>model
-bip_39_word_new_br_7: vault<br>tail<br>nasty<br>deny<br>survey<br>model<br>caution
-bip_39_word_new_br_8: vault<br>tail<br>nasty<br>deny<br>survey<br>model<br>caution<br>pumpkin
-bip_39_word_new_br_9: vault<br>tail<br>nasty<br>deny<br>survey<br>model<br>caution<br>pumpkin<br>rescue
-bip_39_word_new_line_1: vault
-bip_39_word_new_line_10: 'vault
-
-  tail
-
-  nasty
-
-  deny
-
-  survey
-
-  model
-
-  caution
-
-  pumpkin
-
-  rescue
-
-  next'
-bip_39_word_new_line_11: 'vault
-
-  tail
-
-  nasty
-
-  deny
-
-  survey
-
-  model
-
-  caution
-
-  pumpkin
-
-  rescue
-
-  next
-
-  nuclear'
 bip_39_word_new_line_12: 'vault
 
   tail
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'vault
   tail
 
   nasty'
-bip_39_word_new_line_4: 'vault
-
-  tail
-
-  nasty
-
-  deny'
-bip_39_word_new_line_5: 'vault
-
-  tail
-
-  nasty
-
-  deny
-
-  survey'
-bip_39_word_new_line_6: 'vault
-
-  tail
-
-  nasty
-
-  deny
-
-  survey
-
-  model'
-bip_39_word_new_line_7: 'vault
-
-  tail
-
-  nasty
-
-  deny
-
-  survey
-
-  model
-
-  caution'
-bip_39_word_new_line_8: 'vault
-
-  tail
-
-  nasty
-
-  deny
-
-  survey
-
-  model
-
-  caution
-
-  pumpkin'
-bip_39_word_new_line_9: 'vault
-
-  tail
-
-  nasty
-
-  deny
-
-  survey
-
-  model
-
-  caution
-
-  pumpkin
-
-  rescue'
-bip_39_word_no_space_1: vault
-bip_39_word_no_space_10: vaulttailnastydenysurveymodelcautionpumpkinrescuenext
-bip_39_word_no_space_11: vaulttailnastydenysurveymodelcautionpumpkinrescuenextnuclear
 bip_39_word_no_space_12: vaulttailnastydenysurveymodelcautionpumpkinrescuenextnuclearaim
 bip_39_word_no_space_2: vaulttail
 bip_39_word_no_space_3: vaulttailnasty
-bip_39_word_no_space_4: vaulttailnastydeny
-bip_39_word_no_space_5: vaulttailnastydenysurvey
-bip_39_word_no_space_6: vaulttailnastydenysurveymodel
-bip_39_word_no_space_7: vaulttailnastydenysurveymodelcaution
-bip_39_word_no_space_8: vaulttailnastydenysurveymodelcautionpumpkin
-bip_39_word_no_space_9: vaulttailnastydenysurveymodelcautionpumpkinrescue
-bip_39_word_space_0:
-- vault
-- tail
-- nasty
-- deny
-- survey
-- model
-- caution
-- pumpkin
-- rescue
-- next
-- nuclear
-- aim
-bip_39_word_space_1: vault
-bip_39_word_space_10: vault tail nasty deny survey model caution pumpkin rescue next
-bip_39_word_space_11: vault tail nasty deny survey model caution pumpkin rescue next
-  nuclear
 bip_39_word_space_12: vault tail nasty deny survey model caution pumpkin rescue next
   nuclear aim
 bip_39_word_space_2: vault tail
 bip_39_word_space_3: vault tail nasty
-bip_39_word_space_4: vault tail nasty deny
-bip_39_word_space_5: vault tail nasty deny survey
-bip_39_word_space_6: vault tail nasty deny survey model
-bip_39_word_space_7: vault tail nasty deny survey model caution
-bip_39_word_space_8: vault tail nasty deny survey model caution pumpkin
-bip_39_word_space_9: vault tail nasty deny survey model caution pumpkin rescue
-bip_39_word_underscore_1: vault
-bip_39_word_underscore_10: vault_tail_nasty_deny_survey_model_caution_pumpkin_rescue_next
-bip_39_word_underscore_11: vault_tail_nasty_deny_survey_model_caution_pumpkin_rescue_next_nuclear
 bip_39_word_underscore_12: vault_tail_nasty_deny_survey_model_caution_pumpkin_rescue_next_nuclear_aim
 bip_39_word_underscore_2: vault_tail
 bip_39_word_underscore_3: vault_tail_nasty
-bip_39_word_underscore_4: vault_tail_nasty_deny
-bip_39_word_underscore_5: vault_tail_nasty_deny_survey
-bip_39_word_underscore_6: vault_tail_nasty_deny_survey_model
-bip_39_word_underscore_7: vault_tail_nasty_deny_survey_model_caution
-bip_39_word_underscore_8: vault_tail_nasty_deny_survey_model_caution_pumpkin
-bip_39_word_underscore_9: vault_tail_nasty_deny_survey_model_caution_pumpkin_rescue
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

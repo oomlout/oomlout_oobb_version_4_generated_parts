@@ -1,68 +1,9 @@
-bip_39_word_dash_1: student
-bip_39_word_dash_10: student-ribbon-genius-steel-add-liquid-seed-hamster-monkey-giraffe
-bip_39_word_dash_11: student-ribbon-genius-steel-add-liquid-seed-hamster-monkey-giraffe-wild
 bip_39_word_dash_12: student-ribbon-genius-steel-add-liquid-seed-hamster-monkey-giraffe-wild-actor
 bip_39_word_dash_2: student-ribbon
 bip_39_word_dash_3: student-ribbon-genius
-bip_39_word_dash_4: student-ribbon-genius-steel
-bip_39_word_dash_5: student-ribbon-genius-steel-add
-bip_39_word_dash_6: student-ribbon-genius-steel-add-liquid
-bip_39_word_dash_7: student-ribbon-genius-steel-add-liquid-seed
-bip_39_word_dash_8: student-ribbon-genius-steel-add-liquid-seed-hamster
-bip_39_word_dash_9: student-ribbon-genius-steel-add-liquid-seed-hamster-monkey
-bip_39_word_new_br_1: student
-bip_39_word_new_br_10: student<br>ribbon<br>genius<br>steel<br>add<br>liquid<br>seed<br>hamster<br>monkey<br>giraffe
-bip_39_word_new_br_11: student<br>ribbon<br>genius<br>steel<br>add<br>liquid<br>seed<br>hamster<br>monkey<br>giraffe<br>wild
 bip_39_word_new_br_12: student<br>ribbon<br>genius<br>steel<br>add<br>liquid<br>seed<br>hamster<br>monkey<br>giraffe<br>wild<br>actor
 bip_39_word_new_br_2: student<br>ribbon
 bip_39_word_new_br_3: student<br>ribbon<br>genius
-bip_39_word_new_br_4: student<br>ribbon<br>genius<br>steel
-bip_39_word_new_br_5: student<br>ribbon<br>genius<br>steel<br>add
-bip_39_word_new_br_6: student<br>ribbon<br>genius<br>steel<br>add<br>liquid
-bip_39_word_new_br_7: student<br>ribbon<br>genius<br>steel<br>add<br>liquid<br>seed
-bip_39_word_new_br_8: student<br>ribbon<br>genius<br>steel<br>add<br>liquid<br>seed<br>hamster
-bip_39_word_new_br_9: student<br>ribbon<br>genius<br>steel<br>add<br>liquid<br>seed<br>hamster<br>monkey
-bip_39_word_new_line_1: student
-bip_39_word_new_line_10: 'student
-
-  ribbon
-
-  genius
-
-  steel
-
-  add
-
-  liquid
-
-  seed
-
-  hamster
-
-  monkey
-
-  giraffe'
-bip_39_word_new_line_11: 'student
-
-  ribbon
-
-  genius
-
-  steel
-
-  add
-
-  liquid
-
-  seed
-
-  hamster
-
-  monkey
-
-  giraffe
-
-  wild'
 bip_39_word_new_line_12: 'student
 
   ribbon
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'student
   ribbon
 
   genius'
-bip_39_word_new_line_4: 'student
-
-  ribbon
-
-  genius
-
-  steel'
-bip_39_word_new_line_5: 'student
-
-  ribbon
-
-  genius
-
-  steel
-
-  add'
-bip_39_word_new_line_6: 'student
-
-  ribbon
-
-  genius
-
-  steel
-
-  add
-
-  liquid'
-bip_39_word_new_line_7: 'student
-
-  ribbon
-
-  genius
-
-  steel
-
-  add
-
-  liquid
-
-  seed'
-bip_39_word_new_line_8: 'student
-
-  ribbon
-
-  genius
-
-  steel
-
-  add
-
-  liquid
-
-  seed
-
-  hamster'
-bip_39_word_new_line_9: 'student
-
-  ribbon
-
-  genius
-
-  steel
-
-  add
-
-  liquid
-
-  seed
-
-  hamster
-
-  monkey'
-bip_39_word_no_space_1: student
-bip_39_word_no_space_10: studentribbongeniussteeladdliquidseedhamstermonkeygiraffe
-bip_39_word_no_space_11: studentribbongeniussteeladdliquidseedhamstermonkeygiraffewild
 bip_39_word_no_space_12: studentribbongeniussteeladdliquidseedhamstermonkeygiraffewildactor
 bip_39_word_no_space_2: studentribbon
 bip_39_word_no_space_3: studentribbongenius
-bip_39_word_no_space_4: studentribbongeniussteel
-bip_39_word_no_space_5: studentribbongeniussteeladd
-bip_39_word_no_space_6: studentribbongeniussteeladdliquid
-bip_39_word_no_space_7: studentribbongeniussteeladdliquidseed
-bip_39_word_no_space_8: studentribbongeniussteeladdliquidseedhamster
-bip_39_word_no_space_9: studentribbongeniussteeladdliquidseedhamstermonkey
-bip_39_word_space_0:
-- student
-- ribbon
-- genius
-- steel
-- add
-- liquid
-- seed
-- hamster
-- monkey
-- giraffe
-- wild
-- actor
-bip_39_word_space_1: student
-bip_39_word_space_10: student ribbon genius steel add liquid seed hamster monkey giraffe
-bip_39_word_space_11: student ribbon genius steel add liquid seed hamster monkey giraffe
-  wild
 bip_39_word_space_12: student ribbon genius steel add liquid seed hamster monkey giraffe
   wild actor
 bip_39_word_space_2: student ribbon
 bip_39_word_space_3: student ribbon genius
-bip_39_word_space_4: student ribbon genius steel
-bip_39_word_space_5: student ribbon genius steel add
-bip_39_word_space_6: student ribbon genius steel add liquid
-bip_39_word_space_7: student ribbon genius steel add liquid seed
-bip_39_word_space_8: student ribbon genius steel add liquid seed hamster
-bip_39_word_space_9: student ribbon genius steel add liquid seed hamster monkey
-bip_39_word_underscore_1: student
-bip_39_word_underscore_10: student_ribbon_genius_steel_add_liquid_seed_hamster_monkey_giraffe
-bip_39_word_underscore_11: student_ribbon_genius_steel_add_liquid_seed_hamster_monkey_giraffe_wild
 bip_39_word_underscore_12: student_ribbon_genius_steel_add_liquid_seed_hamster_monkey_giraffe_wild_actor
 bip_39_word_underscore_2: student_ribbon
 bip_39_word_underscore_3: student_ribbon_genius
-bip_39_word_underscore_4: student_ribbon_genius_steel
-bip_39_word_underscore_5: student_ribbon_genius_steel_add
-bip_39_word_underscore_6: student_ribbon_genius_steel_add_liquid
-bip_39_word_underscore_7: student_ribbon_genius_steel_add_liquid_seed
-bip_39_word_underscore_8: student_ribbon_genius_steel_add_liquid_seed_hamster
-bip_39_word_underscore_9: student_ribbon_genius_steel_add_liquid_seed_hamster_monkey
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

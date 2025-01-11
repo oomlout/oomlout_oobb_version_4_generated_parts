@@ -1,68 +1,9 @@
-bip_39_word_dash_1: repeat
-bip_39_word_dash_10: repeat-fresh-strike-more-wealth-fossil-idle-bacon-accuse-future
-bip_39_word_dash_11: repeat-fresh-strike-more-wealth-fossil-idle-bacon-accuse-future-genre
 bip_39_word_dash_12: repeat-fresh-strike-more-wealth-fossil-idle-bacon-accuse-future-genre-amount
 bip_39_word_dash_2: repeat-fresh
 bip_39_word_dash_3: repeat-fresh-strike
-bip_39_word_dash_4: repeat-fresh-strike-more
-bip_39_word_dash_5: repeat-fresh-strike-more-wealth
-bip_39_word_dash_6: repeat-fresh-strike-more-wealth-fossil
-bip_39_word_dash_7: repeat-fresh-strike-more-wealth-fossil-idle
-bip_39_word_dash_8: repeat-fresh-strike-more-wealth-fossil-idle-bacon
-bip_39_word_dash_9: repeat-fresh-strike-more-wealth-fossil-idle-bacon-accuse
-bip_39_word_new_br_1: repeat
-bip_39_word_new_br_10: repeat<br>fresh<br>strike<br>more<br>wealth<br>fossil<br>idle<br>bacon<br>accuse<br>future
-bip_39_word_new_br_11: repeat<br>fresh<br>strike<br>more<br>wealth<br>fossil<br>idle<br>bacon<br>accuse<br>future<br>genre
 bip_39_word_new_br_12: repeat<br>fresh<br>strike<br>more<br>wealth<br>fossil<br>idle<br>bacon<br>accuse<br>future<br>genre<br>amount
 bip_39_word_new_br_2: repeat<br>fresh
 bip_39_word_new_br_3: repeat<br>fresh<br>strike
-bip_39_word_new_br_4: repeat<br>fresh<br>strike<br>more
-bip_39_word_new_br_5: repeat<br>fresh<br>strike<br>more<br>wealth
-bip_39_word_new_br_6: repeat<br>fresh<br>strike<br>more<br>wealth<br>fossil
-bip_39_word_new_br_7: repeat<br>fresh<br>strike<br>more<br>wealth<br>fossil<br>idle
-bip_39_word_new_br_8: repeat<br>fresh<br>strike<br>more<br>wealth<br>fossil<br>idle<br>bacon
-bip_39_word_new_br_9: repeat<br>fresh<br>strike<br>more<br>wealth<br>fossil<br>idle<br>bacon<br>accuse
-bip_39_word_new_line_1: repeat
-bip_39_word_new_line_10: 'repeat
-
-  fresh
-
-  strike
-
-  more
-
-  wealth
-
-  fossil
-
-  idle
-
-  bacon
-
-  accuse
-
-  future'
-bip_39_word_new_line_11: 'repeat
-
-  fresh
-
-  strike
-
-  more
-
-  wealth
-
-  fossil
-
-  idle
-
-  bacon
-
-  accuse
-
-  future
-
-  genre'
 bip_39_word_new_line_12: 'repeat
 
   fresh
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'repeat
   fresh
 
   strike'
-bip_39_word_new_line_4: 'repeat
-
-  fresh
-
-  strike
-
-  more'
-bip_39_word_new_line_5: 'repeat
-
-  fresh
-
-  strike
-
-  more
-
-  wealth'
-bip_39_word_new_line_6: 'repeat
-
-  fresh
-
-  strike
-
-  more
-
-  wealth
-
-  fossil'
-bip_39_word_new_line_7: 'repeat
-
-  fresh
-
-  strike
-
-  more
-
-  wealth
-
-  fossil
-
-  idle'
-bip_39_word_new_line_8: 'repeat
-
-  fresh
-
-  strike
-
-  more
-
-  wealth
-
-  fossil
-
-  idle
-
-  bacon'
-bip_39_word_new_line_9: 'repeat
-
-  fresh
-
-  strike
-
-  more
-
-  wealth
-
-  fossil
-
-  idle
-
-  bacon
-
-  accuse'
-bip_39_word_no_space_1: repeat
-bip_39_word_no_space_10: repeatfreshstrikemorewealthfossilidlebaconaccusefuture
-bip_39_word_no_space_11: repeatfreshstrikemorewealthfossilidlebaconaccusefuturegenre
 bip_39_word_no_space_12: repeatfreshstrikemorewealthfossilidlebaconaccusefuturegenreamount
 bip_39_word_no_space_2: repeatfresh
 bip_39_word_no_space_3: repeatfreshstrike
-bip_39_word_no_space_4: repeatfreshstrikemore
-bip_39_word_no_space_5: repeatfreshstrikemorewealth
-bip_39_word_no_space_6: repeatfreshstrikemorewealthfossil
-bip_39_word_no_space_7: repeatfreshstrikemorewealthfossilidle
-bip_39_word_no_space_8: repeatfreshstrikemorewealthfossilidlebacon
-bip_39_word_no_space_9: repeatfreshstrikemorewealthfossilidlebaconaccuse
-bip_39_word_space_0:
-- repeat
-- fresh
-- strike
-- more
-- wealth
-- fossil
-- idle
-- bacon
-- accuse
-- future
-- genre
-- amount
-bip_39_word_space_1: repeat
-bip_39_word_space_10: repeat fresh strike more wealth fossil idle bacon accuse future
-bip_39_word_space_11: repeat fresh strike more wealth fossil idle bacon accuse future
-  genre
 bip_39_word_space_12: repeat fresh strike more wealth fossil idle bacon accuse future
   genre amount
 bip_39_word_space_2: repeat fresh
 bip_39_word_space_3: repeat fresh strike
-bip_39_word_space_4: repeat fresh strike more
-bip_39_word_space_5: repeat fresh strike more wealth
-bip_39_word_space_6: repeat fresh strike more wealth fossil
-bip_39_word_space_7: repeat fresh strike more wealth fossil idle
-bip_39_word_space_8: repeat fresh strike more wealth fossil idle bacon
-bip_39_word_space_9: repeat fresh strike more wealth fossil idle bacon accuse
-bip_39_word_underscore_1: repeat
-bip_39_word_underscore_10: repeat_fresh_strike_more_wealth_fossil_idle_bacon_accuse_future
-bip_39_word_underscore_11: repeat_fresh_strike_more_wealth_fossil_idle_bacon_accuse_future_genre
 bip_39_word_underscore_12: repeat_fresh_strike_more_wealth_fossil_idle_bacon_accuse_future_genre_amount
 bip_39_word_underscore_2: repeat_fresh
 bip_39_word_underscore_3: repeat_fresh_strike
-bip_39_word_underscore_4: repeat_fresh_strike_more
-bip_39_word_underscore_5: repeat_fresh_strike_more_wealth
-bip_39_word_underscore_6: repeat_fresh_strike_more_wealth_fossil
-bip_39_word_underscore_7: repeat_fresh_strike_more_wealth_fossil_idle
-bip_39_word_underscore_8: repeat_fresh_strike_more_wealth_fossil_idle_bacon
-bip_39_word_underscore_9: repeat_fresh_strike_more_wealth_fossil_idle_bacon_accuse
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

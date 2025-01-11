@@ -1,68 +1,9 @@
-bip_39_word_dash_1: ski
-bip_39_word_dash_10: ski-barrel-inner-pulse-code-label-cram-board-crunch-okay
-bip_39_word_dash_11: ski-barrel-inner-pulse-code-label-cram-board-crunch-okay-balcony
 bip_39_word_dash_12: ski-barrel-inner-pulse-code-label-cram-board-crunch-okay-balcony-average
 bip_39_word_dash_2: ski-barrel
 bip_39_word_dash_3: ski-barrel-inner
-bip_39_word_dash_4: ski-barrel-inner-pulse
-bip_39_word_dash_5: ski-barrel-inner-pulse-code
-bip_39_word_dash_6: ski-barrel-inner-pulse-code-label
-bip_39_word_dash_7: ski-barrel-inner-pulse-code-label-cram
-bip_39_word_dash_8: ski-barrel-inner-pulse-code-label-cram-board
-bip_39_word_dash_9: ski-barrel-inner-pulse-code-label-cram-board-crunch
-bip_39_word_new_br_1: ski
-bip_39_word_new_br_10: ski<br>barrel<br>inner<br>pulse<br>code<br>label<br>cram<br>board<br>crunch<br>okay
-bip_39_word_new_br_11: ski<br>barrel<br>inner<br>pulse<br>code<br>label<br>cram<br>board<br>crunch<br>okay<br>balcony
 bip_39_word_new_br_12: ski<br>barrel<br>inner<br>pulse<br>code<br>label<br>cram<br>board<br>crunch<br>okay<br>balcony<br>average
 bip_39_word_new_br_2: ski<br>barrel
 bip_39_word_new_br_3: ski<br>barrel<br>inner
-bip_39_word_new_br_4: ski<br>barrel<br>inner<br>pulse
-bip_39_word_new_br_5: ski<br>barrel<br>inner<br>pulse<br>code
-bip_39_word_new_br_6: ski<br>barrel<br>inner<br>pulse<br>code<br>label
-bip_39_word_new_br_7: ski<br>barrel<br>inner<br>pulse<br>code<br>label<br>cram
-bip_39_word_new_br_8: ski<br>barrel<br>inner<br>pulse<br>code<br>label<br>cram<br>board
-bip_39_word_new_br_9: ski<br>barrel<br>inner<br>pulse<br>code<br>label<br>cram<br>board<br>crunch
-bip_39_word_new_line_1: ski
-bip_39_word_new_line_10: 'ski
-
-  barrel
-
-  inner
-
-  pulse
-
-  code
-
-  label
-
-  cram
-
-  board
-
-  crunch
-
-  okay'
-bip_39_word_new_line_11: 'ski
-
-  barrel
-
-  inner
-
-  pulse
-
-  code
-
-  label
-
-  cram
-
-  board
-
-  crunch
-
-  okay
-
-  balcony'
 bip_39_word_new_line_12: 'ski
 
   barrel
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'ski
   barrel
 
   inner'
-bip_39_word_new_line_4: 'ski
-
-  barrel
-
-  inner
-
-  pulse'
-bip_39_word_new_line_5: 'ski
-
-  barrel
-
-  inner
-
-  pulse
-
-  code'
-bip_39_word_new_line_6: 'ski
-
-  barrel
-
-  inner
-
-  pulse
-
-  code
-
-  label'
-bip_39_word_new_line_7: 'ski
-
-  barrel
-
-  inner
-
-  pulse
-
-  code
-
-  label
-
-  cram'
-bip_39_word_new_line_8: 'ski
-
-  barrel
-
-  inner
-
-  pulse
-
-  code
-
-  label
-
-  cram
-
-  board'
-bip_39_word_new_line_9: 'ski
-
-  barrel
-
-  inner
-
-  pulse
-
-  code
-
-  label
-
-  cram
-
-  board
-
-  crunch'
-bip_39_word_no_space_1: ski
-bip_39_word_no_space_10: skibarrelinnerpulsecodelabelcramboardcrunchokay
-bip_39_word_no_space_11: skibarrelinnerpulsecodelabelcramboardcrunchokaybalcony
 bip_39_word_no_space_12: skibarrelinnerpulsecodelabelcramboardcrunchokaybalconyaverage
 bip_39_word_no_space_2: skibarrel
 bip_39_word_no_space_3: skibarrelinner
-bip_39_word_no_space_4: skibarrelinnerpulse
-bip_39_word_no_space_5: skibarrelinnerpulsecode
-bip_39_word_no_space_6: skibarrelinnerpulsecodelabel
-bip_39_word_no_space_7: skibarrelinnerpulsecodelabelcram
-bip_39_word_no_space_8: skibarrelinnerpulsecodelabelcramboard
-bip_39_word_no_space_9: skibarrelinnerpulsecodelabelcramboardcrunch
-bip_39_word_space_0:
-- ski
-- barrel
-- inner
-- pulse
-- code
-- label
-- cram
-- board
-- crunch
-- okay
-- balcony
-- average
-bip_39_word_space_1: ski
-bip_39_word_space_10: ski barrel inner pulse code label cram board crunch okay
-bip_39_word_space_11: ski barrel inner pulse code label cram board crunch okay balcony
 bip_39_word_space_12: ski barrel inner pulse code label cram board crunch okay balcony
   average
 bip_39_word_space_2: ski barrel
 bip_39_word_space_3: ski barrel inner
-bip_39_word_space_4: ski barrel inner pulse
-bip_39_word_space_5: ski barrel inner pulse code
-bip_39_word_space_6: ski barrel inner pulse code label
-bip_39_word_space_7: ski barrel inner pulse code label cram
-bip_39_word_space_8: ski barrel inner pulse code label cram board
-bip_39_word_space_9: ski barrel inner pulse code label cram board crunch
-bip_39_word_underscore_1: ski
-bip_39_word_underscore_10: ski_barrel_inner_pulse_code_label_cram_board_crunch_okay
-bip_39_word_underscore_11: ski_barrel_inner_pulse_code_label_cram_board_crunch_okay_balcony
 bip_39_word_underscore_12: ski_barrel_inner_pulse_code_label_cram_board_crunch_okay_balcony_average
 bip_39_word_underscore_2: ski_barrel
 bip_39_word_underscore_3: ski_barrel_inner
-bip_39_word_underscore_4: ski_barrel_inner_pulse
-bip_39_word_underscore_5: ski_barrel_inner_pulse_code
-bip_39_word_underscore_6: ski_barrel_inner_pulse_code_label
-bip_39_word_underscore_7: ski_barrel_inner_pulse_code_label_cram
-bip_39_word_underscore_8: ski_barrel_inner_pulse_code_label_cram_board
-bip_39_word_underscore_9: ski_barrel_inner_pulse_code_label_cram_board_crunch
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

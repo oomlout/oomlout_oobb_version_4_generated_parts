@@ -1,68 +1,9 @@
-bip_39_word_dash_1: crawl
-bip_39_word_dash_10: crawl-toddler-way-because-reflect-sibling-fault-senior-dutch-join
-bip_39_word_dash_11: crawl-toddler-way-because-reflect-sibling-fault-senior-dutch-join-bitter
 bip_39_word_dash_12: crawl-toddler-way-because-reflect-sibling-fault-senior-dutch-join-bitter-appear
 bip_39_word_dash_2: crawl-toddler
 bip_39_word_dash_3: crawl-toddler-way
-bip_39_word_dash_4: crawl-toddler-way-because
-bip_39_word_dash_5: crawl-toddler-way-because-reflect
-bip_39_word_dash_6: crawl-toddler-way-because-reflect-sibling
-bip_39_word_dash_7: crawl-toddler-way-because-reflect-sibling-fault
-bip_39_word_dash_8: crawl-toddler-way-because-reflect-sibling-fault-senior
-bip_39_word_dash_9: crawl-toddler-way-because-reflect-sibling-fault-senior-dutch
-bip_39_word_new_br_1: crawl
-bip_39_word_new_br_10: crawl<br>toddler<br>way<br>because<br>reflect<br>sibling<br>fault<br>senior<br>dutch<br>join
-bip_39_word_new_br_11: crawl<br>toddler<br>way<br>because<br>reflect<br>sibling<br>fault<br>senior<br>dutch<br>join<br>bitter
 bip_39_word_new_br_12: crawl<br>toddler<br>way<br>because<br>reflect<br>sibling<br>fault<br>senior<br>dutch<br>join<br>bitter<br>appear
 bip_39_word_new_br_2: crawl<br>toddler
 bip_39_word_new_br_3: crawl<br>toddler<br>way
-bip_39_word_new_br_4: crawl<br>toddler<br>way<br>because
-bip_39_word_new_br_5: crawl<br>toddler<br>way<br>because<br>reflect
-bip_39_word_new_br_6: crawl<br>toddler<br>way<br>because<br>reflect<br>sibling
-bip_39_word_new_br_7: crawl<br>toddler<br>way<br>because<br>reflect<br>sibling<br>fault
-bip_39_word_new_br_8: crawl<br>toddler<br>way<br>because<br>reflect<br>sibling<br>fault<br>senior
-bip_39_word_new_br_9: crawl<br>toddler<br>way<br>because<br>reflect<br>sibling<br>fault<br>senior<br>dutch
-bip_39_word_new_line_1: crawl
-bip_39_word_new_line_10: 'crawl
-
-  toddler
-
-  way
-
-  because
-
-  reflect
-
-  sibling
-
-  fault
-
-  senior
-
-  dutch
-
-  join'
-bip_39_word_new_line_11: 'crawl
-
-  toddler
-
-  way
-
-  because
-
-  reflect
-
-  sibling
-
-  fault
-
-  senior
-
-  dutch
-
-  join
-
-  bitter'
 bip_39_word_new_line_12: 'crawl
 
   toddler
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'crawl
   toddler
 
   way'
-bip_39_word_new_line_4: 'crawl
-
-  toddler
-
-  way
-
-  because'
-bip_39_word_new_line_5: 'crawl
-
-  toddler
-
-  way
-
-  because
-
-  reflect'
-bip_39_word_new_line_6: 'crawl
-
-  toddler
-
-  way
-
-  because
-
-  reflect
-
-  sibling'
-bip_39_word_new_line_7: 'crawl
-
-  toddler
-
-  way
-
-  because
-
-  reflect
-
-  sibling
-
-  fault'
-bip_39_word_new_line_8: 'crawl
-
-  toddler
-
-  way
-
-  because
-
-  reflect
-
-  sibling
-
-  fault
-
-  senior'
-bip_39_word_new_line_9: 'crawl
-
-  toddler
-
-  way
-
-  because
-
-  reflect
-
-  sibling
-
-  fault
-
-  senior
-
-  dutch'
-bip_39_word_no_space_1: crawl
-bip_39_word_no_space_10: crawltoddlerwaybecausereflectsiblingfaultseniordutchjoin
-bip_39_word_no_space_11: crawltoddlerwaybecausereflectsiblingfaultseniordutchjoinbitter
 bip_39_word_no_space_12: crawltoddlerwaybecausereflectsiblingfaultseniordutchjoinbitterappear
 bip_39_word_no_space_2: crawltoddler
 bip_39_word_no_space_3: crawltoddlerway
-bip_39_word_no_space_4: crawltoddlerwaybecause
-bip_39_word_no_space_5: crawltoddlerwaybecausereflect
-bip_39_word_no_space_6: crawltoddlerwaybecausereflectsibling
-bip_39_word_no_space_7: crawltoddlerwaybecausereflectsiblingfault
-bip_39_word_no_space_8: crawltoddlerwaybecausereflectsiblingfaultsenior
-bip_39_word_no_space_9: crawltoddlerwaybecausereflectsiblingfaultseniordutch
-bip_39_word_space_0:
-- crawl
-- toddler
-- way
-- because
-- reflect
-- sibling
-- fault
-- senior
-- dutch
-- join
-- bitter
-- appear
-bip_39_word_space_1: crawl
-bip_39_word_space_10: crawl toddler way because reflect sibling fault senior dutch
-  join
-bip_39_word_space_11: crawl toddler way because reflect sibling fault senior dutch
-  join bitter
 bip_39_word_space_12: crawl toddler way because reflect sibling fault senior dutch
   join bitter appear
 bip_39_word_space_2: crawl toddler
 bip_39_word_space_3: crawl toddler way
-bip_39_word_space_4: crawl toddler way because
-bip_39_word_space_5: crawl toddler way because reflect
-bip_39_word_space_6: crawl toddler way because reflect sibling
-bip_39_word_space_7: crawl toddler way because reflect sibling fault
-bip_39_word_space_8: crawl toddler way because reflect sibling fault senior
-bip_39_word_space_9: crawl toddler way because reflect sibling fault senior dutch
-bip_39_word_underscore_1: crawl
-bip_39_word_underscore_10: crawl_toddler_way_because_reflect_sibling_fault_senior_dutch_join
-bip_39_word_underscore_11: crawl_toddler_way_because_reflect_sibling_fault_senior_dutch_join_bitter
 bip_39_word_underscore_12: crawl_toddler_way_because_reflect_sibling_fault_senior_dutch_join_bitter_appear
 bip_39_word_underscore_2: crawl_toddler
 bip_39_word_underscore_3: crawl_toddler_way
-bip_39_word_underscore_4: crawl_toddler_way_because
-bip_39_word_underscore_5: crawl_toddler_way_because_reflect
-bip_39_word_underscore_6: crawl_toddler_way_because_reflect_sibling
-bip_39_word_underscore_7: crawl_toddler_way_because_reflect_sibling_fault
-bip_39_word_underscore_8: crawl_toddler_way_because_reflect_sibling_fault_senior
-bip_39_word_underscore_9: crawl_toddler_way_because_reflect_sibling_fault_senior_dutch
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

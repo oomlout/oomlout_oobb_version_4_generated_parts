@@ -1,68 +1,9 @@
-bip_39_word_dash_1: myself
-bip_39_word_dash_10: myself-they-crush-fame-chef-wire-hammer-subject-okay-input
-bip_39_word_dash_11: myself-they-crush-fame-chef-wire-hammer-subject-okay-input-rally
 bip_39_word_dash_12: myself-they-crush-fame-chef-wire-hammer-subject-okay-input-rally-across
 bip_39_word_dash_2: myself-they
 bip_39_word_dash_3: myself-they-crush
-bip_39_word_dash_4: myself-they-crush-fame
-bip_39_word_dash_5: myself-they-crush-fame-chef
-bip_39_word_dash_6: myself-they-crush-fame-chef-wire
-bip_39_word_dash_7: myself-they-crush-fame-chef-wire-hammer
-bip_39_word_dash_8: myself-they-crush-fame-chef-wire-hammer-subject
-bip_39_word_dash_9: myself-they-crush-fame-chef-wire-hammer-subject-okay
-bip_39_word_new_br_1: myself
-bip_39_word_new_br_10: myself<br>they<br>crush<br>fame<br>chef<br>wire<br>hammer<br>subject<br>okay<br>input
-bip_39_word_new_br_11: myself<br>they<br>crush<br>fame<br>chef<br>wire<br>hammer<br>subject<br>okay<br>input<br>rally
 bip_39_word_new_br_12: myself<br>they<br>crush<br>fame<br>chef<br>wire<br>hammer<br>subject<br>okay<br>input<br>rally<br>across
 bip_39_word_new_br_2: myself<br>they
 bip_39_word_new_br_3: myself<br>they<br>crush
-bip_39_word_new_br_4: myself<br>they<br>crush<br>fame
-bip_39_word_new_br_5: myself<br>they<br>crush<br>fame<br>chef
-bip_39_word_new_br_6: myself<br>they<br>crush<br>fame<br>chef<br>wire
-bip_39_word_new_br_7: myself<br>they<br>crush<br>fame<br>chef<br>wire<br>hammer
-bip_39_word_new_br_8: myself<br>they<br>crush<br>fame<br>chef<br>wire<br>hammer<br>subject
-bip_39_word_new_br_9: myself<br>they<br>crush<br>fame<br>chef<br>wire<br>hammer<br>subject<br>okay
-bip_39_word_new_line_1: myself
-bip_39_word_new_line_10: 'myself
-
-  they
-
-  crush
-
-  fame
-
-  chef
-
-  wire
-
-  hammer
-
-  subject
-
-  okay
-
-  input'
-bip_39_word_new_line_11: 'myself
-
-  they
-
-  crush
-
-  fame
-
-  chef
-
-  wire
-
-  hammer
-
-  subject
-
-  okay
-
-  input
-
-  rally'
 bip_39_word_new_line_12: 'myself
 
   they
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'myself
   they
 
   crush'
-bip_39_word_new_line_4: 'myself
-
-  they
-
-  crush
-
-  fame'
-bip_39_word_new_line_5: 'myself
-
-  they
-
-  crush
-
-  fame
-
-  chef'
-bip_39_word_new_line_6: 'myself
-
-  they
-
-  crush
-
-  fame
-
-  chef
-
-  wire'
-bip_39_word_new_line_7: 'myself
-
-  they
-
-  crush
-
-  fame
-
-  chef
-
-  wire
-
-  hammer'
-bip_39_word_new_line_8: 'myself
-
-  they
-
-  crush
-
-  fame
-
-  chef
-
-  wire
-
-  hammer
-
-  subject'
-bip_39_word_new_line_9: 'myself
-
-  they
-
-  crush
-
-  fame
-
-  chef
-
-  wire
-
-  hammer
-
-  subject
-
-  okay'
-bip_39_word_no_space_1: myself
-bip_39_word_no_space_10: myselftheycrushfamechefwirehammersubjectokayinput
-bip_39_word_no_space_11: myselftheycrushfamechefwirehammersubjectokayinputrally
 bip_39_word_no_space_12: myselftheycrushfamechefwirehammersubjectokayinputrallyacross
 bip_39_word_no_space_2: myselfthey
 bip_39_word_no_space_3: myselftheycrush
-bip_39_word_no_space_4: myselftheycrushfame
-bip_39_word_no_space_5: myselftheycrushfamechef
-bip_39_word_no_space_6: myselftheycrushfamechefwire
-bip_39_word_no_space_7: myselftheycrushfamechefwirehammer
-bip_39_word_no_space_8: myselftheycrushfamechefwirehammersubject
-bip_39_word_no_space_9: myselftheycrushfamechefwirehammersubjectokay
-bip_39_word_space_0:
-- myself
-- they
-- crush
-- fame
-- chef
-- wire
-- hammer
-- subject
-- okay
-- input
-- rally
-- across
-bip_39_word_space_1: myself
-bip_39_word_space_10: myself they crush fame chef wire hammer subject okay input
-bip_39_word_space_11: myself they crush fame chef wire hammer subject okay input rally
 bip_39_word_space_12: myself they crush fame chef wire hammer subject okay input rally
   across
 bip_39_word_space_2: myself they
 bip_39_word_space_3: myself they crush
-bip_39_word_space_4: myself they crush fame
-bip_39_word_space_5: myself they crush fame chef
-bip_39_word_space_6: myself they crush fame chef wire
-bip_39_word_space_7: myself they crush fame chef wire hammer
-bip_39_word_space_8: myself they crush fame chef wire hammer subject
-bip_39_word_space_9: myself they crush fame chef wire hammer subject okay
-bip_39_word_underscore_1: myself
-bip_39_word_underscore_10: myself_they_crush_fame_chef_wire_hammer_subject_okay_input
-bip_39_word_underscore_11: myself_they_crush_fame_chef_wire_hammer_subject_okay_input_rally
 bip_39_word_underscore_12: myself_they_crush_fame_chef_wire_hammer_subject_okay_input_rally_across
 bip_39_word_underscore_2: myself_they
 bip_39_word_underscore_3: myself_they_crush
-bip_39_word_underscore_4: myself_they_crush_fame
-bip_39_word_underscore_5: myself_they_crush_fame_chef
-bip_39_word_underscore_6: myself_they_crush_fame_chef_wire
-bip_39_word_underscore_7: myself_they_crush_fame_chef_wire_hammer
-bip_39_word_underscore_8: myself_they_crush_fame_chef_wire_hammer_subject
-bip_39_word_underscore_9: myself_they_crush_fame_chef_wire_hammer_subject_okay
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

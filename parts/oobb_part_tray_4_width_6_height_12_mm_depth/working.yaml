@@ -1,68 +1,9 @@
-bip_39_word_dash_1: distance
-bip_39_word_dash_10: distance-twelve-visa-ice-roof-head-grass-tunnel-once-wrong
-bip_39_word_dash_11: distance-twelve-visa-ice-roof-head-grass-tunnel-once-wrong-forward
 bip_39_word_dash_12: distance-twelve-visa-ice-roof-head-grass-tunnel-once-wrong-forward-access
 bip_39_word_dash_2: distance-twelve
 bip_39_word_dash_3: distance-twelve-visa
-bip_39_word_dash_4: distance-twelve-visa-ice
-bip_39_word_dash_5: distance-twelve-visa-ice-roof
-bip_39_word_dash_6: distance-twelve-visa-ice-roof-head
-bip_39_word_dash_7: distance-twelve-visa-ice-roof-head-grass
-bip_39_word_dash_8: distance-twelve-visa-ice-roof-head-grass-tunnel
-bip_39_word_dash_9: distance-twelve-visa-ice-roof-head-grass-tunnel-once
-bip_39_word_new_br_1: distance
-bip_39_word_new_br_10: distance<br>twelve<br>visa<br>ice<br>roof<br>head<br>grass<br>tunnel<br>once<br>wrong
-bip_39_word_new_br_11: distance<br>twelve<br>visa<br>ice<br>roof<br>head<br>grass<br>tunnel<br>once<br>wrong<br>forward
 bip_39_word_new_br_12: distance<br>twelve<br>visa<br>ice<br>roof<br>head<br>grass<br>tunnel<br>once<br>wrong<br>forward<br>access
 bip_39_word_new_br_2: distance<br>twelve
 bip_39_word_new_br_3: distance<br>twelve<br>visa
-bip_39_word_new_br_4: distance<br>twelve<br>visa<br>ice
-bip_39_word_new_br_5: distance<br>twelve<br>visa<br>ice<br>roof
-bip_39_word_new_br_6: distance<br>twelve<br>visa<br>ice<br>roof<br>head
-bip_39_word_new_br_7: distance<br>twelve<br>visa<br>ice<br>roof<br>head<br>grass
-bip_39_word_new_br_8: distance<br>twelve<br>visa<br>ice<br>roof<br>head<br>grass<br>tunnel
-bip_39_word_new_br_9: distance<br>twelve<br>visa<br>ice<br>roof<br>head<br>grass<br>tunnel<br>once
-bip_39_word_new_line_1: distance
-bip_39_word_new_line_10: 'distance
-
-  twelve
-
-  visa
-
-  ice
-
-  roof
-
-  head
-
-  grass
-
-  tunnel
-
-  once
-
-  wrong'
-bip_39_word_new_line_11: 'distance
-
-  twelve
-
-  visa
-
-  ice
-
-  roof
-
-  head
-
-  grass
-
-  tunnel
-
-  once
-
-  wrong
-
-  forward'
 bip_39_word_new_line_12: 'distance
 
   twelve
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'distance
   twelve
 
   visa'
-bip_39_word_new_line_4: 'distance
-
-  twelve
-
-  visa
-
-  ice'
-bip_39_word_new_line_5: 'distance
-
-  twelve
-
-  visa
-
-  ice
-
-  roof'
-bip_39_word_new_line_6: 'distance
-
-  twelve
-
-  visa
-
-  ice
-
-  roof
-
-  head'
-bip_39_word_new_line_7: 'distance
-
-  twelve
-
-  visa
-
-  ice
-
-  roof
-
-  head
-
-  grass'
-bip_39_word_new_line_8: 'distance
-
-  twelve
-
-  visa
-
-  ice
-
-  roof
-
-  head
-
-  grass
-
-  tunnel'
-bip_39_word_new_line_9: 'distance
-
-  twelve
-
-  visa
-
-  ice
-
-  roof
-
-  head
-
-  grass
-
-  tunnel
-
-  once'
-bip_39_word_no_space_1: distance
-bip_39_word_no_space_10: distancetwelvevisaiceroofheadgrasstunneloncewrong
-bip_39_word_no_space_11: distancetwelvevisaiceroofheadgrasstunneloncewrongforward
 bip_39_word_no_space_12: distancetwelvevisaiceroofheadgrasstunneloncewrongforwardaccess
 bip_39_word_no_space_2: distancetwelve
 bip_39_word_no_space_3: distancetwelvevisa
-bip_39_word_no_space_4: distancetwelvevisaice
-bip_39_word_no_space_5: distancetwelvevisaiceroof
-bip_39_word_no_space_6: distancetwelvevisaiceroofhead
-bip_39_word_no_space_7: distancetwelvevisaiceroofheadgrass
-bip_39_word_no_space_8: distancetwelvevisaiceroofheadgrasstunnel
-bip_39_word_no_space_9: distancetwelvevisaiceroofheadgrasstunnelonce
-bip_39_word_space_0:
-- distance
-- twelve
-- visa
-- ice
-- roof
-- head
-- grass
-- tunnel
-- once
-- wrong
-- forward
-- access
-bip_39_word_space_1: distance
-bip_39_word_space_10: distance twelve visa ice roof head grass tunnel once wrong
-bip_39_word_space_11: distance twelve visa ice roof head grass tunnel once wrong forward
 bip_39_word_space_12: distance twelve visa ice roof head grass tunnel once wrong forward
   access
 bip_39_word_space_2: distance twelve
 bip_39_word_space_3: distance twelve visa
-bip_39_word_space_4: distance twelve visa ice
-bip_39_word_space_5: distance twelve visa ice roof
-bip_39_word_space_6: distance twelve visa ice roof head
-bip_39_word_space_7: distance twelve visa ice roof head grass
-bip_39_word_space_8: distance twelve visa ice roof head grass tunnel
-bip_39_word_space_9: distance twelve visa ice roof head grass tunnel once
-bip_39_word_underscore_1: distance
-bip_39_word_underscore_10: distance_twelve_visa_ice_roof_head_grass_tunnel_once_wrong
-bip_39_word_underscore_11: distance_twelve_visa_ice_roof_head_grass_tunnel_once_wrong_forward
 bip_39_word_underscore_12: distance_twelve_visa_ice_roof_head_grass_tunnel_once_wrong_forward_access
 bip_39_word_underscore_2: distance_twelve
 bip_39_word_underscore_3: distance_twelve_visa
-bip_39_word_underscore_4: distance_twelve_visa_ice
-bip_39_word_underscore_5: distance_twelve_visa_ice_roof
-bip_39_word_underscore_6: distance_twelve_visa_ice_roof_head
-bip_39_word_underscore_7: distance_twelve_visa_ice_roof_head_grass
-bip_39_word_underscore_8: distance_twelve_visa_ice_roof_head_grass_tunnel
-bip_39_word_underscore_9: distance_twelve_visa_ice_roof_head_grass_tunnel_once
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

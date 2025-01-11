@@ -1,68 +1,9 @@
-bip_39_word_dash_1: sign
-bip_39_word_dash_10: sign-boat-faculty-because-sleep-coin-zebra-empower-indicate-rate
-bip_39_word_dash_11: sign-boat-faculty-because-sleep-coin-zebra-empower-indicate-rate-expect
 bip_39_word_dash_12: sign-boat-faculty-because-sleep-coin-zebra-empower-indicate-rate-expect-ask
 bip_39_word_dash_2: sign-boat
 bip_39_word_dash_3: sign-boat-faculty
-bip_39_word_dash_4: sign-boat-faculty-because
-bip_39_word_dash_5: sign-boat-faculty-because-sleep
-bip_39_word_dash_6: sign-boat-faculty-because-sleep-coin
-bip_39_word_dash_7: sign-boat-faculty-because-sleep-coin-zebra
-bip_39_word_dash_8: sign-boat-faculty-because-sleep-coin-zebra-empower
-bip_39_word_dash_9: sign-boat-faculty-because-sleep-coin-zebra-empower-indicate
-bip_39_word_new_br_1: sign
-bip_39_word_new_br_10: sign<br>boat<br>faculty<br>because<br>sleep<br>coin<br>zebra<br>empower<br>indicate<br>rate
-bip_39_word_new_br_11: sign<br>boat<br>faculty<br>because<br>sleep<br>coin<br>zebra<br>empower<br>indicate<br>rate<br>expect
 bip_39_word_new_br_12: sign<br>boat<br>faculty<br>because<br>sleep<br>coin<br>zebra<br>empower<br>indicate<br>rate<br>expect<br>ask
 bip_39_word_new_br_2: sign<br>boat
 bip_39_word_new_br_3: sign<br>boat<br>faculty
-bip_39_word_new_br_4: sign<br>boat<br>faculty<br>because
-bip_39_word_new_br_5: sign<br>boat<br>faculty<br>because<br>sleep
-bip_39_word_new_br_6: sign<br>boat<br>faculty<br>because<br>sleep<br>coin
-bip_39_word_new_br_7: sign<br>boat<br>faculty<br>because<br>sleep<br>coin<br>zebra
-bip_39_word_new_br_8: sign<br>boat<br>faculty<br>because<br>sleep<br>coin<br>zebra<br>empower
-bip_39_word_new_br_9: sign<br>boat<br>faculty<br>because<br>sleep<br>coin<br>zebra<br>empower<br>indicate
-bip_39_word_new_line_1: sign
-bip_39_word_new_line_10: 'sign
-
-  boat
-
-  faculty
-
-  because
-
-  sleep
-
-  coin
-
-  zebra
-
-  empower
-
-  indicate
-
-  rate'
-bip_39_word_new_line_11: 'sign
-
-  boat
-
-  faculty
-
-  because
-
-  sleep
-
-  coin
-
-  zebra
-
-  empower
-
-  indicate
-
-  rate
-
-  expect'
 bip_39_word_new_line_12: 'sign
 
   boat
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'sign
   boat
 
   faculty'
-bip_39_word_new_line_4: 'sign
-
-  boat
-
-  faculty
-
-  because'
-bip_39_word_new_line_5: 'sign
-
-  boat
-
-  faculty
-
-  because
-
-  sleep'
-bip_39_word_new_line_6: 'sign
-
-  boat
-
-  faculty
-
-  because
-
-  sleep
-
-  coin'
-bip_39_word_new_line_7: 'sign
-
-  boat
-
-  faculty
-
-  because
-
-  sleep
-
-  coin
-
-  zebra'
-bip_39_word_new_line_8: 'sign
-
-  boat
-
-  faculty
-
-  because
-
-  sleep
-
-  coin
-
-  zebra
-
-  empower'
-bip_39_word_new_line_9: 'sign
-
-  boat
-
-  faculty
-
-  because
-
-  sleep
-
-  coin
-
-  zebra
-
-  empower
-
-  indicate'
-bip_39_word_no_space_1: sign
-bip_39_word_no_space_10: signboatfacultybecausesleepcoinzebraempowerindicaterate
-bip_39_word_no_space_11: signboatfacultybecausesleepcoinzebraempowerindicaterateexpect
 bip_39_word_no_space_12: signboatfacultybecausesleepcoinzebraempowerindicaterateexpectask
 bip_39_word_no_space_2: signboat
 bip_39_word_no_space_3: signboatfaculty
-bip_39_word_no_space_4: signboatfacultybecause
-bip_39_word_no_space_5: signboatfacultybecausesleep
-bip_39_word_no_space_6: signboatfacultybecausesleepcoin
-bip_39_word_no_space_7: signboatfacultybecausesleepcoinzebra
-bip_39_word_no_space_8: signboatfacultybecausesleepcoinzebraempower
-bip_39_word_no_space_9: signboatfacultybecausesleepcoinzebraempowerindicate
-bip_39_word_space_0:
-- sign
-- boat
-- faculty
-- because
-- sleep
-- coin
-- zebra
-- empower
-- indicate
-- rate
-- expect
-- ask
-bip_39_word_space_1: sign
-bip_39_word_space_10: sign boat faculty because sleep coin zebra empower indicate
-  rate
-bip_39_word_space_11: sign boat faculty because sleep coin zebra empower indicate
-  rate expect
 bip_39_word_space_12: sign boat faculty because sleep coin zebra empower indicate
   rate expect ask
 bip_39_word_space_2: sign boat
 bip_39_word_space_3: sign boat faculty
-bip_39_word_space_4: sign boat faculty because
-bip_39_word_space_5: sign boat faculty because sleep
-bip_39_word_space_6: sign boat faculty because sleep coin
-bip_39_word_space_7: sign boat faculty because sleep coin zebra
-bip_39_word_space_8: sign boat faculty because sleep coin zebra empower
-bip_39_word_space_9: sign boat faculty because sleep coin zebra empower indicate
-bip_39_word_underscore_1: sign
-bip_39_word_underscore_10: sign_boat_faculty_because_sleep_coin_zebra_empower_indicate_rate
-bip_39_word_underscore_11: sign_boat_faculty_because_sleep_coin_zebra_empower_indicate_rate_expect
 bip_39_word_underscore_12: sign_boat_faculty_because_sleep_coin_zebra_empower_indicate_rate_expect_ask
 bip_39_word_underscore_2: sign_boat
 bip_39_word_underscore_3: sign_boat_faculty
-bip_39_word_underscore_4: sign_boat_faculty_because
-bip_39_word_underscore_5: sign_boat_faculty_because_sleep
-bip_39_word_underscore_6: sign_boat_faculty_because_sleep_coin
-bip_39_word_underscore_7: sign_boat_faculty_because_sleep_coin_zebra
-bip_39_word_underscore_8: sign_boat_faculty_because_sleep_coin_zebra_empower
-bip_39_word_underscore_9: sign_boat_faculty_because_sleep_coin_zebra_empower_indicate
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

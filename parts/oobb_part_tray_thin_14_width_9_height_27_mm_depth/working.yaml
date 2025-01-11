@@ -1,68 +1,9 @@
-bip_39_word_dash_1: surge
-bip_39_word_dash_10: surge-heavy-cherry-beyond-hurry-medal-later-gold-fault-chalk
-bip_39_word_dash_11: surge-heavy-cherry-beyond-hurry-medal-later-gold-fault-chalk-weird
 bip_39_word_dash_12: surge-heavy-cherry-beyond-hurry-medal-later-gold-fault-chalk-weird-ahead
 bip_39_word_dash_2: surge-heavy
 bip_39_word_dash_3: surge-heavy-cherry
-bip_39_word_dash_4: surge-heavy-cherry-beyond
-bip_39_word_dash_5: surge-heavy-cherry-beyond-hurry
-bip_39_word_dash_6: surge-heavy-cherry-beyond-hurry-medal
-bip_39_word_dash_7: surge-heavy-cherry-beyond-hurry-medal-later
-bip_39_word_dash_8: surge-heavy-cherry-beyond-hurry-medal-later-gold
-bip_39_word_dash_9: surge-heavy-cherry-beyond-hurry-medal-later-gold-fault
-bip_39_word_new_br_1: surge
-bip_39_word_new_br_10: surge<br>heavy<br>cherry<br>beyond<br>hurry<br>medal<br>later<br>gold<br>fault<br>chalk
-bip_39_word_new_br_11: surge<br>heavy<br>cherry<br>beyond<br>hurry<br>medal<br>later<br>gold<br>fault<br>chalk<br>weird
 bip_39_word_new_br_12: surge<br>heavy<br>cherry<br>beyond<br>hurry<br>medal<br>later<br>gold<br>fault<br>chalk<br>weird<br>ahead
 bip_39_word_new_br_2: surge<br>heavy
 bip_39_word_new_br_3: surge<br>heavy<br>cherry
-bip_39_word_new_br_4: surge<br>heavy<br>cherry<br>beyond
-bip_39_word_new_br_5: surge<br>heavy<br>cherry<br>beyond<br>hurry
-bip_39_word_new_br_6: surge<br>heavy<br>cherry<br>beyond<br>hurry<br>medal
-bip_39_word_new_br_7: surge<br>heavy<br>cherry<br>beyond<br>hurry<br>medal<br>later
-bip_39_word_new_br_8: surge<br>heavy<br>cherry<br>beyond<br>hurry<br>medal<br>later<br>gold
-bip_39_word_new_br_9: surge<br>heavy<br>cherry<br>beyond<br>hurry<br>medal<br>later<br>gold<br>fault
-bip_39_word_new_line_1: surge
-bip_39_word_new_line_10: 'surge
-
-  heavy
-
-  cherry
-
-  beyond
-
-  hurry
-
-  medal
-
-  later
-
-  gold
-
-  fault
-
-  chalk'
-bip_39_word_new_line_11: 'surge
-
-  heavy
-
-  cherry
-
-  beyond
-
-  hurry
-
-  medal
-
-  later
-
-  gold
-
-  fault
-
-  chalk
-
-  weird'
 bip_39_word_new_line_12: 'surge
 
   heavy
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'surge
   heavy
 
   cherry'
-bip_39_word_new_line_4: 'surge
-
-  heavy
-
-  cherry
-
-  beyond'
-bip_39_word_new_line_5: 'surge
-
-  heavy
-
-  cherry
-
-  beyond
-
-  hurry'
-bip_39_word_new_line_6: 'surge
-
-  heavy
-
-  cherry
-
-  beyond
-
-  hurry
-
-  medal'
-bip_39_word_new_line_7: 'surge
-
-  heavy
-
-  cherry
-
-  beyond
-
-  hurry
-
-  medal
-
-  later'
-bip_39_word_new_line_8: 'surge
-
-  heavy
-
-  cherry
-
-  beyond
-
-  hurry
-
-  medal
-
-  later
-
-  gold'
-bip_39_word_new_line_9: 'surge
-
-  heavy
-
-  cherry
-
-  beyond
-
-  hurry
-
-  medal
-
-  later
-
-  gold
-
-  fault'
-bip_39_word_no_space_1: surge
-bip_39_word_no_space_10: surgeheavycherrybeyondhurrymedallatergoldfaultchalk
-bip_39_word_no_space_11: surgeheavycherrybeyondhurrymedallatergoldfaultchalkweird
 bip_39_word_no_space_12: surgeheavycherrybeyondhurrymedallatergoldfaultchalkweirdahead
 bip_39_word_no_space_2: surgeheavy
 bip_39_word_no_space_3: surgeheavycherry
-bip_39_word_no_space_4: surgeheavycherrybeyond
-bip_39_word_no_space_5: surgeheavycherrybeyondhurry
-bip_39_word_no_space_6: surgeheavycherrybeyondhurrymedal
-bip_39_word_no_space_7: surgeheavycherrybeyondhurrymedallater
-bip_39_word_no_space_8: surgeheavycherrybeyondhurrymedallatergold
-bip_39_word_no_space_9: surgeheavycherrybeyondhurrymedallatergoldfault
-bip_39_word_space_0:
-- surge
-- heavy
-- cherry
-- beyond
-- hurry
-- medal
-- later
-- gold
-- fault
-- chalk
-- weird
-- ahead
-bip_39_word_space_1: surge
-bip_39_word_space_10: surge heavy cherry beyond hurry medal later gold fault chalk
-bip_39_word_space_11: surge heavy cherry beyond hurry medal later gold fault chalk
-  weird
 bip_39_word_space_12: surge heavy cherry beyond hurry medal later gold fault chalk
   weird ahead
 bip_39_word_space_2: surge heavy
 bip_39_word_space_3: surge heavy cherry
-bip_39_word_space_4: surge heavy cherry beyond
-bip_39_word_space_5: surge heavy cherry beyond hurry
-bip_39_word_space_6: surge heavy cherry beyond hurry medal
-bip_39_word_space_7: surge heavy cherry beyond hurry medal later
-bip_39_word_space_8: surge heavy cherry beyond hurry medal later gold
-bip_39_word_space_9: surge heavy cherry beyond hurry medal later gold fault
-bip_39_word_underscore_1: surge
-bip_39_word_underscore_10: surge_heavy_cherry_beyond_hurry_medal_later_gold_fault_chalk
-bip_39_word_underscore_11: surge_heavy_cherry_beyond_hurry_medal_later_gold_fault_chalk_weird
 bip_39_word_underscore_12: surge_heavy_cherry_beyond_hurry_medal_later_gold_fault_chalk_weird_ahead
 bip_39_word_underscore_2: surge_heavy
 bip_39_word_underscore_3: surge_heavy_cherry
-bip_39_word_underscore_4: surge_heavy_cherry_beyond
-bip_39_word_underscore_5: surge_heavy_cherry_beyond_hurry
-bip_39_word_underscore_6: surge_heavy_cherry_beyond_hurry_medal
-bip_39_word_underscore_7: surge_heavy_cherry_beyond_hurry_medal_later
-bip_39_word_underscore_8: surge_heavy_cherry_beyond_hurry_medal_later_gold
-bip_39_word_underscore_9: surge_heavy_cherry_beyond_hurry_medal_later_gold_fault
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

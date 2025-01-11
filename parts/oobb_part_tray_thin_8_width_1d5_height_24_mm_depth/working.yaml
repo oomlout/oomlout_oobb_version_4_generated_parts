@@ -1,68 +1,9 @@
-bip_39_word_dash_1: food
-bip_39_word_dash_10: food-organ-square-penalty-grass-dad-where-laptop-bitter-hidden
-bip_39_word_dash_11: food-organ-square-penalty-grass-dad-where-laptop-bitter-hidden-pledge
 bip_39_word_dash_12: food-organ-square-penalty-grass-dad-where-laptop-bitter-hidden-pledge-aerobic
 bip_39_word_dash_2: food-organ
 bip_39_word_dash_3: food-organ-square
-bip_39_word_dash_4: food-organ-square-penalty
-bip_39_word_dash_5: food-organ-square-penalty-grass
-bip_39_word_dash_6: food-organ-square-penalty-grass-dad
-bip_39_word_dash_7: food-organ-square-penalty-grass-dad-where
-bip_39_word_dash_8: food-organ-square-penalty-grass-dad-where-laptop
-bip_39_word_dash_9: food-organ-square-penalty-grass-dad-where-laptop-bitter
-bip_39_word_new_br_1: food
-bip_39_word_new_br_10: food<br>organ<br>square<br>penalty<br>grass<br>dad<br>where<br>laptop<br>bitter<br>hidden
-bip_39_word_new_br_11: food<br>organ<br>square<br>penalty<br>grass<br>dad<br>where<br>laptop<br>bitter<br>hidden<br>pledge
 bip_39_word_new_br_12: food<br>organ<br>square<br>penalty<br>grass<br>dad<br>where<br>laptop<br>bitter<br>hidden<br>pledge<br>aerobic
 bip_39_word_new_br_2: food<br>organ
 bip_39_word_new_br_3: food<br>organ<br>square
-bip_39_word_new_br_4: food<br>organ<br>square<br>penalty
-bip_39_word_new_br_5: food<br>organ<br>square<br>penalty<br>grass
-bip_39_word_new_br_6: food<br>organ<br>square<br>penalty<br>grass<br>dad
-bip_39_word_new_br_7: food<br>organ<br>square<br>penalty<br>grass<br>dad<br>where
-bip_39_word_new_br_8: food<br>organ<br>square<br>penalty<br>grass<br>dad<br>where<br>laptop
-bip_39_word_new_br_9: food<br>organ<br>square<br>penalty<br>grass<br>dad<br>where<br>laptop<br>bitter
-bip_39_word_new_line_1: food
-bip_39_word_new_line_10: 'food
-
-  organ
-
-  square
-
-  penalty
-
-  grass
-
-  dad
-
-  where
-
-  laptop
-
-  bitter
-
-  hidden'
-bip_39_word_new_line_11: 'food
-
-  organ
-
-  square
-
-  penalty
-
-  grass
-
-  dad
-
-  where
-
-  laptop
-
-  bitter
-
-  hidden
-
-  pledge'
 bip_39_word_new_line_12: 'food
 
   organ
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'food
   organ
 
   square'
-bip_39_word_new_line_4: 'food
-
-  organ
-
-  square
-
-  penalty'
-bip_39_word_new_line_5: 'food
-
-  organ
-
-  square
-
-  penalty
-
-  grass'
-bip_39_word_new_line_6: 'food
-
-  organ
-
-  square
-
-  penalty
-
-  grass
-
-  dad'
-bip_39_word_new_line_7: 'food
-
-  organ
-
-  square
-
-  penalty
-
-  grass
-
-  dad
-
-  where'
-bip_39_word_new_line_8: 'food
-
-  organ
-
-  square
-
-  penalty
-
-  grass
-
-  dad
-
-  where
-
-  laptop'
-bip_39_word_new_line_9: 'food
-
-  organ
-
-  square
-
-  penalty
-
-  grass
-
-  dad
-
-  where
-
-  laptop
-
-  bitter'
-bip_39_word_no_space_1: food
-bip_39_word_no_space_10: foodorgansquarepenaltygrassdadwherelaptopbitterhidden
-bip_39_word_no_space_11: foodorgansquarepenaltygrassdadwherelaptopbitterhiddenpledge
 bip_39_word_no_space_12: foodorgansquarepenaltygrassdadwherelaptopbitterhiddenpledgeaerobic
 bip_39_word_no_space_2: foodorgan
 bip_39_word_no_space_3: foodorgansquare
-bip_39_word_no_space_4: foodorgansquarepenalty
-bip_39_word_no_space_5: foodorgansquarepenaltygrass
-bip_39_word_no_space_6: foodorgansquarepenaltygrassdad
-bip_39_word_no_space_7: foodorgansquarepenaltygrassdadwhere
-bip_39_word_no_space_8: foodorgansquarepenaltygrassdadwherelaptop
-bip_39_word_no_space_9: foodorgansquarepenaltygrassdadwherelaptopbitter
-bip_39_word_space_0:
-- food
-- organ
-- square
-- penalty
-- grass
-- dad
-- where
-- laptop
-- bitter
-- hidden
-- pledge
-- aerobic
-bip_39_word_space_1: food
-bip_39_word_space_10: food organ square penalty grass dad where laptop bitter hidden
-bip_39_word_space_11: food organ square penalty grass dad where laptop bitter hidden
-  pledge
 bip_39_word_space_12: food organ square penalty grass dad where laptop bitter hidden
   pledge aerobic
 bip_39_word_space_2: food organ
 bip_39_word_space_3: food organ square
-bip_39_word_space_4: food organ square penalty
-bip_39_word_space_5: food organ square penalty grass
-bip_39_word_space_6: food organ square penalty grass dad
-bip_39_word_space_7: food organ square penalty grass dad where
-bip_39_word_space_8: food organ square penalty grass dad where laptop
-bip_39_word_space_9: food organ square penalty grass dad where laptop bitter
-bip_39_word_underscore_1: food
-bip_39_word_underscore_10: food_organ_square_penalty_grass_dad_where_laptop_bitter_hidden
-bip_39_word_underscore_11: food_organ_square_penalty_grass_dad_where_laptop_bitter_hidden_pledge
 bip_39_word_underscore_12: food_organ_square_penalty_grass_dad_where_laptop_bitter_hidden_pledge_aerobic
 bip_39_word_underscore_2: food_organ
 bip_39_word_underscore_3: food_organ_square
-bip_39_word_underscore_4: food_organ_square_penalty
-bip_39_word_underscore_5: food_organ_square_penalty_grass
-bip_39_word_underscore_6: food_organ_square_penalty_grass_dad
-bip_39_word_underscore_7: food_organ_square_penalty_grass_dad_where
-bip_39_word_underscore_8: food_organ_square_penalty_grass_dad_where_laptop
-bip_39_word_underscore_9: food_organ_square_penalty_grass_dad_where_laptop_bitter
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

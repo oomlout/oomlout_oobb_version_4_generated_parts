@@ -1,68 +1,9 @@
-bip_39_word_dash_1: vast
-bip_39_word_dash_10: vast-bundle-clerk-club-repair-world-tail-uniform-liberty-maximum
-bip_39_word_dash_11: vast-bundle-clerk-club-repair-world-tail-uniform-liberty-maximum-dinner
 bip_39_word_dash_12: vast-bundle-clerk-club-repair-world-tail-uniform-liberty-maximum-dinner-arrest
 bip_39_word_dash_2: vast-bundle
 bip_39_word_dash_3: vast-bundle-clerk
-bip_39_word_dash_4: vast-bundle-clerk-club
-bip_39_word_dash_5: vast-bundle-clerk-club-repair
-bip_39_word_dash_6: vast-bundle-clerk-club-repair-world
-bip_39_word_dash_7: vast-bundle-clerk-club-repair-world-tail
-bip_39_word_dash_8: vast-bundle-clerk-club-repair-world-tail-uniform
-bip_39_word_dash_9: vast-bundle-clerk-club-repair-world-tail-uniform-liberty
-bip_39_word_new_br_1: vast
-bip_39_word_new_br_10: vast<br>bundle<br>clerk<br>club<br>repair<br>world<br>tail<br>uniform<br>liberty<br>maximum
-bip_39_word_new_br_11: vast<br>bundle<br>clerk<br>club<br>repair<br>world<br>tail<br>uniform<br>liberty<br>maximum<br>dinner
 bip_39_word_new_br_12: vast<br>bundle<br>clerk<br>club<br>repair<br>world<br>tail<br>uniform<br>liberty<br>maximum<br>dinner<br>arrest
 bip_39_word_new_br_2: vast<br>bundle
 bip_39_word_new_br_3: vast<br>bundle<br>clerk
-bip_39_word_new_br_4: vast<br>bundle<br>clerk<br>club
-bip_39_word_new_br_5: vast<br>bundle<br>clerk<br>club<br>repair
-bip_39_word_new_br_6: vast<br>bundle<br>clerk<br>club<br>repair<br>world
-bip_39_word_new_br_7: vast<br>bundle<br>clerk<br>club<br>repair<br>world<br>tail
-bip_39_word_new_br_8: vast<br>bundle<br>clerk<br>club<br>repair<br>world<br>tail<br>uniform
-bip_39_word_new_br_9: vast<br>bundle<br>clerk<br>club<br>repair<br>world<br>tail<br>uniform<br>liberty
-bip_39_word_new_line_1: vast
-bip_39_word_new_line_10: 'vast
-
-  bundle
-
-  clerk
-
-  club
-
-  repair
-
-  world
-
-  tail
-
-  uniform
-
-  liberty
-
-  maximum'
-bip_39_word_new_line_11: 'vast
-
-  bundle
-
-  clerk
-
-  club
-
-  repair
-
-  world
-
-  tail
-
-  uniform
-
-  liberty
-
-  maximum
-
-  dinner'
 bip_39_word_new_line_12: 'vast
 
   bundle
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'vast
   bundle
 
   clerk'
-bip_39_word_new_line_4: 'vast
-
-  bundle
-
-  clerk
-
-  club'
-bip_39_word_new_line_5: 'vast
-
-  bundle
-
-  clerk
-
-  club
-
-  repair'
-bip_39_word_new_line_6: 'vast
-
-  bundle
-
-  clerk
-
-  club
-
-  repair
-
-  world'
-bip_39_word_new_line_7: 'vast
-
-  bundle
-
-  clerk
-
-  club
-
-  repair
-
-  world
-
-  tail'
-bip_39_word_new_line_8: 'vast
-
-  bundle
-
-  clerk
-
-  club
-
-  repair
-
-  world
-
-  tail
-
-  uniform'
-bip_39_word_new_line_9: 'vast
-
-  bundle
-
-  clerk
-
-  club
-
-  repair
-
-  world
-
-  tail
-
-  uniform
-
-  liberty'
-bip_39_word_no_space_1: vast
-bip_39_word_no_space_10: vastbundleclerkclubrepairworldtailuniformlibertymaximum
-bip_39_word_no_space_11: vastbundleclerkclubrepairworldtailuniformlibertymaximumdinner
 bip_39_word_no_space_12: vastbundleclerkclubrepairworldtailuniformlibertymaximumdinnerarrest
 bip_39_word_no_space_2: vastbundle
 bip_39_word_no_space_3: vastbundleclerk
-bip_39_word_no_space_4: vastbundleclerkclub
-bip_39_word_no_space_5: vastbundleclerkclubrepair
-bip_39_word_no_space_6: vastbundleclerkclubrepairworld
-bip_39_word_no_space_7: vastbundleclerkclubrepairworldtail
-bip_39_word_no_space_8: vastbundleclerkclubrepairworldtailuniform
-bip_39_word_no_space_9: vastbundleclerkclubrepairworldtailuniformliberty
-bip_39_word_space_0:
-- vast
-- bundle
-- clerk
-- club
-- repair
-- world
-- tail
-- uniform
-- liberty
-- maximum
-- dinner
-- arrest
-bip_39_word_space_1: vast
-bip_39_word_space_10: vast bundle clerk club repair world tail uniform liberty maximum
-bip_39_word_space_11: vast bundle clerk club repair world tail uniform liberty maximum
-  dinner
 bip_39_word_space_12: vast bundle clerk club repair world tail uniform liberty maximum
   dinner arrest
 bip_39_word_space_2: vast bundle
 bip_39_word_space_3: vast bundle clerk
-bip_39_word_space_4: vast bundle clerk club
-bip_39_word_space_5: vast bundle clerk club repair
-bip_39_word_space_6: vast bundle clerk club repair world
-bip_39_word_space_7: vast bundle clerk club repair world tail
-bip_39_word_space_8: vast bundle clerk club repair world tail uniform
-bip_39_word_space_9: vast bundle clerk club repair world tail uniform liberty
-bip_39_word_underscore_1: vast
-bip_39_word_underscore_10: vast_bundle_clerk_club_repair_world_tail_uniform_liberty_maximum
-bip_39_word_underscore_11: vast_bundle_clerk_club_repair_world_tail_uniform_liberty_maximum_dinner
 bip_39_word_underscore_12: vast_bundle_clerk_club_repair_world_tail_uniform_liberty_maximum_dinner_arrest
 bip_39_word_underscore_2: vast_bundle
 bip_39_word_underscore_3: vast_bundle_clerk
-bip_39_word_underscore_4: vast_bundle_clerk_club
-bip_39_word_underscore_5: vast_bundle_clerk_club_repair
-bip_39_word_underscore_6: vast_bundle_clerk_club_repair_world
-bip_39_word_underscore_7: vast_bundle_clerk_club_repair_world_tail
-bip_39_word_underscore_8: vast_bundle_clerk_club_repair_world_tail_uniform
-bip_39_word_underscore_9: vast_bundle_clerk_club_repair_world_tail_uniform_liberty
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: extend
-bip_39_word_dash_10: extend-common-scene-mercy-exit-motion-tackle-pepper-snow-pulse
-bip_39_word_dash_11: extend-common-scene-mercy-exit-motion-tackle-pepper-snow-pulse-expect
 bip_39_word_dash_12: extend-common-scene-mercy-exit-motion-tackle-pepper-snow-pulse-expect-atom
 bip_39_word_dash_2: extend-common
 bip_39_word_dash_3: extend-common-scene
-bip_39_word_dash_4: extend-common-scene-mercy
-bip_39_word_dash_5: extend-common-scene-mercy-exit
-bip_39_word_dash_6: extend-common-scene-mercy-exit-motion
-bip_39_word_dash_7: extend-common-scene-mercy-exit-motion-tackle
-bip_39_word_dash_8: extend-common-scene-mercy-exit-motion-tackle-pepper
-bip_39_word_dash_9: extend-common-scene-mercy-exit-motion-tackle-pepper-snow
-bip_39_word_new_br_1: extend
-bip_39_word_new_br_10: extend<br>common<br>scene<br>mercy<br>exit<br>motion<br>tackle<br>pepper<br>snow<br>pulse
-bip_39_word_new_br_11: extend<br>common<br>scene<br>mercy<br>exit<br>motion<br>tackle<br>pepper<br>snow<br>pulse<br>expect
 bip_39_word_new_br_12: extend<br>common<br>scene<br>mercy<br>exit<br>motion<br>tackle<br>pepper<br>snow<br>pulse<br>expect<br>atom
 bip_39_word_new_br_2: extend<br>common
 bip_39_word_new_br_3: extend<br>common<br>scene
-bip_39_word_new_br_4: extend<br>common<br>scene<br>mercy
-bip_39_word_new_br_5: extend<br>common<br>scene<br>mercy<br>exit
-bip_39_word_new_br_6: extend<br>common<br>scene<br>mercy<br>exit<br>motion
-bip_39_word_new_br_7: extend<br>common<br>scene<br>mercy<br>exit<br>motion<br>tackle
-bip_39_word_new_br_8: extend<br>common<br>scene<br>mercy<br>exit<br>motion<br>tackle<br>pepper
-bip_39_word_new_br_9: extend<br>common<br>scene<br>mercy<br>exit<br>motion<br>tackle<br>pepper<br>snow
-bip_39_word_new_line_1: extend
-bip_39_word_new_line_10: 'extend
-
-  common
-
-  scene
-
-  mercy
-
-  exit
-
-  motion
-
-  tackle
-
-  pepper
-
-  snow
-
-  pulse'
-bip_39_word_new_line_11: 'extend
-
-  common
-
-  scene
-
-  mercy
-
-  exit
-
-  motion
-
-  tackle
-
-  pepper
-
-  snow
-
-  pulse
-
-  expect'
 bip_39_word_new_line_12: 'extend
 
   common
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'extend
   common
 
   scene'
-bip_39_word_new_line_4: 'extend
-
-  common
-
-  scene
-
-  mercy'
-bip_39_word_new_line_5: 'extend
-
-  common
-
-  scene
-
-  mercy
-
-  exit'
-bip_39_word_new_line_6: 'extend
-
-  common
-
-  scene
-
-  mercy
-
-  exit
-
-  motion'
-bip_39_word_new_line_7: 'extend
-
-  common
-
-  scene
-
-  mercy
-
-  exit
-
-  motion
-
-  tackle'
-bip_39_word_new_line_8: 'extend
-
-  common
-
-  scene
-
-  mercy
-
-  exit
-
-  motion
-
-  tackle
-
-  pepper'
-bip_39_word_new_line_9: 'extend
-
-  common
-
-  scene
-
-  mercy
-
-  exit
-
-  motion
-
-  tackle
-
-  pepper
-
-  snow'
-bip_39_word_no_space_1: extend
-bip_39_word_no_space_10: extendcommonscenemercyexitmotiontacklepeppersnowpulse
-bip_39_word_no_space_11: extendcommonscenemercyexitmotiontacklepeppersnowpulseexpect
 bip_39_word_no_space_12: extendcommonscenemercyexitmotiontacklepeppersnowpulseexpectatom
 bip_39_word_no_space_2: extendcommon
 bip_39_word_no_space_3: extendcommonscene
-bip_39_word_no_space_4: extendcommonscenemercy
-bip_39_word_no_space_5: extendcommonscenemercyexit
-bip_39_word_no_space_6: extendcommonscenemercyexitmotion
-bip_39_word_no_space_7: extendcommonscenemercyexitmotiontackle
-bip_39_word_no_space_8: extendcommonscenemercyexitmotiontacklepepper
-bip_39_word_no_space_9: extendcommonscenemercyexitmotiontacklepeppersnow
-bip_39_word_space_0:
-- extend
-- common
-- scene
-- mercy
-- exit
-- motion
-- tackle
-- pepper
-- snow
-- pulse
-- expect
-- atom
-bip_39_word_space_1: extend
-bip_39_word_space_10: extend common scene mercy exit motion tackle pepper snow pulse
-bip_39_word_space_11: extend common scene mercy exit motion tackle pepper snow pulse
-  expect
 bip_39_word_space_12: extend common scene mercy exit motion tackle pepper snow pulse
   expect atom
 bip_39_word_space_2: extend common
 bip_39_word_space_3: extend common scene
-bip_39_word_space_4: extend common scene mercy
-bip_39_word_space_5: extend common scene mercy exit
-bip_39_word_space_6: extend common scene mercy exit motion
-bip_39_word_space_7: extend common scene mercy exit motion tackle
-bip_39_word_space_8: extend common scene mercy exit motion tackle pepper
-bip_39_word_space_9: extend common scene mercy exit motion tackle pepper snow
-bip_39_word_underscore_1: extend
-bip_39_word_underscore_10: extend_common_scene_mercy_exit_motion_tackle_pepper_snow_pulse
-bip_39_word_underscore_11: extend_common_scene_mercy_exit_motion_tackle_pepper_snow_pulse_expect
 bip_39_word_underscore_12: extend_common_scene_mercy_exit_motion_tackle_pepper_snow_pulse_expect_atom
 bip_39_word_underscore_2: extend_common
 bip_39_word_underscore_3: extend_common_scene
-bip_39_word_underscore_4: extend_common_scene_mercy
-bip_39_word_underscore_5: extend_common_scene_mercy_exit
-bip_39_word_underscore_6: extend_common_scene_mercy_exit_motion
-bip_39_word_underscore_7: extend_common_scene_mercy_exit_motion_tackle
-bip_39_word_underscore_8: extend_common_scene_mercy_exit_motion_tackle_pepper
-bip_39_word_underscore_9: extend_common_scene_mercy_exit_motion_tackle_pepper_snow
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

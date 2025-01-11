@@ -1,68 +1,9 @@
-bip_39_word_dash_1: salute
-bip_39_word_dash_10: salute-daughter-payment-scout-craft-company-dutch-employ-law-barrel
-bip_39_word_dash_11: salute-daughter-payment-scout-craft-company-dutch-employ-law-barrel-uniform
 bip_39_word_dash_12: salute-daughter-payment-scout-craft-company-dutch-employ-law-barrel-uniform-apple
 bip_39_word_dash_2: salute-daughter
 bip_39_word_dash_3: salute-daughter-payment
-bip_39_word_dash_4: salute-daughter-payment-scout
-bip_39_word_dash_5: salute-daughter-payment-scout-craft
-bip_39_word_dash_6: salute-daughter-payment-scout-craft-company
-bip_39_word_dash_7: salute-daughter-payment-scout-craft-company-dutch
-bip_39_word_dash_8: salute-daughter-payment-scout-craft-company-dutch-employ
-bip_39_word_dash_9: salute-daughter-payment-scout-craft-company-dutch-employ-law
-bip_39_word_new_br_1: salute
-bip_39_word_new_br_10: salute<br>daughter<br>payment<br>scout<br>craft<br>company<br>dutch<br>employ<br>law<br>barrel
-bip_39_word_new_br_11: salute<br>daughter<br>payment<br>scout<br>craft<br>company<br>dutch<br>employ<br>law<br>barrel<br>uniform
 bip_39_word_new_br_12: salute<br>daughter<br>payment<br>scout<br>craft<br>company<br>dutch<br>employ<br>law<br>barrel<br>uniform<br>apple
 bip_39_word_new_br_2: salute<br>daughter
 bip_39_word_new_br_3: salute<br>daughter<br>payment
-bip_39_word_new_br_4: salute<br>daughter<br>payment<br>scout
-bip_39_word_new_br_5: salute<br>daughter<br>payment<br>scout<br>craft
-bip_39_word_new_br_6: salute<br>daughter<br>payment<br>scout<br>craft<br>company
-bip_39_word_new_br_7: salute<br>daughter<br>payment<br>scout<br>craft<br>company<br>dutch
-bip_39_word_new_br_8: salute<br>daughter<br>payment<br>scout<br>craft<br>company<br>dutch<br>employ
-bip_39_word_new_br_9: salute<br>daughter<br>payment<br>scout<br>craft<br>company<br>dutch<br>employ<br>law
-bip_39_word_new_line_1: salute
-bip_39_word_new_line_10: 'salute
-
-  daughter
-
-  payment
-
-  scout
-
-  craft
-
-  company
-
-  dutch
-
-  employ
-
-  law
-
-  barrel'
-bip_39_word_new_line_11: 'salute
-
-  daughter
-
-  payment
-
-  scout
-
-  craft
-
-  company
-
-  dutch
-
-  employ
-
-  law
-
-  barrel
-
-  uniform'
 bip_39_word_new_line_12: 'salute
 
   daughter
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'salute
   daughter
 
   payment'
-bip_39_word_new_line_4: 'salute
-
-  daughter
-
-  payment
-
-  scout'
-bip_39_word_new_line_5: 'salute
-
-  daughter
-
-  payment
-
-  scout
-
-  craft'
-bip_39_word_new_line_6: 'salute
-
-  daughter
-
-  payment
-
-  scout
-
-  craft
-
-  company'
-bip_39_word_new_line_7: 'salute
-
-  daughter
-
-  payment
-
-  scout
-
-  craft
-
-  company
-
-  dutch'
-bip_39_word_new_line_8: 'salute
-
-  daughter
-
-  payment
-
-  scout
-
-  craft
-
-  company
-
-  dutch
-
-  employ'
-bip_39_word_new_line_9: 'salute
-
-  daughter
-
-  payment
-
-  scout
-
-  craft
-
-  company
-
-  dutch
-
-  employ
-
-  law'
-bip_39_word_no_space_1: salute
-bip_39_word_no_space_10: salutedaughterpaymentscoutcraftcompanydutchemploylawbarrel
-bip_39_word_no_space_11: salutedaughterpaymentscoutcraftcompanydutchemploylawbarreluniform
 bip_39_word_no_space_12: salutedaughterpaymentscoutcraftcompanydutchemploylawbarreluniformapple
 bip_39_word_no_space_2: salutedaughter
 bip_39_word_no_space_3: salutedaughterpayment
-bip_39_word_no_space_4: salutedaughterpaymentscout
-bip_39_word_no_space_5: salutedaughterpaymentscoutcraft
-bip_39_word_no_space_6: salutedaughterpaymentscoutcraftcompany
-bip_39_word_no_space_7: salutedaughterpaymentscoutcraftcompanydutch
-bip_39_word_no_space_8: salutedaughterpaymentscoutcraftcompanydutchemploy
-bip_39_word_no_space_9: salutedaughterpaymentscoutcraftcompanydutchemploylaw
-bip_39_word_space_0:
-- salute
-- daughter
-- payment
-- scout
-- craft
-- company
-- dutch
-- employ
-- law
-- barrel
-- uniform
-- apple
-bip_39_word_space_1: salute
-bip_39_word_space_10: salute daughter payment scout craft company dutch employ law
-  barrel
-bip_39_word_space_11: salute daughter payment scout craft company dutch employ law
-  barrel uniform
 bip_39_word_space_12: salute daughter payment scout craft company dutch employ law
   barrel uniform apple
 bip_39_word_space_2: salute daughter
 bip_39_word_space_3: salute daughter payment
-bip_39_word_space_4: salute daughter payment scout
-bip_39_word_space_5: salute daughter payment scout craft
-bip_39_word_space_6: salute daughter payment scout craft company
-bip_39_word_space_7: salute daughter payment scout craft company dutch
-bip_39_word_space_8: salute daughter payment scout craft company dutch employ
-bip_39_word_space_9: salute daughter payment scout craft company dutch employ law
-bip_39_word_underscore_1: salute
-bip_39_word_underscore_10: salute_daughter_payment_scout_craft_company_dutch_employ_law_barrel
-bip_39_word_underscore_11: salute_daughter_payment_scout_craft_company_dutch_employ_law_barrel_uniform
 bip_39_word_underscore_12: salute_daughter_payment_scout_craft_company_dutch_employ_law_barrel_uniform_apple
 bip_39_word_underscore_2: salute_daughter
 bip_39_word_underscore_3: salute_daughter_payment
-bip_39_word_underscore_4: salute_daughter_payment_scout
-bip_39_word_underscore_5: salute_daughter_payment_scout_craft
-bip_39_word_underscore_6: salute_daughter_payment_scout_craft_company
-bip_39_word_underscore_7: salute_daughter_payment_scout_craft_company_dutch
-bip_39_word_underscore_8: salute_daughter_payment_scout_craft_company_dutch_employ
-bip_39_word_underscore_9: salute_daughter_payment_scout_craft_company_dutch_employ_law
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

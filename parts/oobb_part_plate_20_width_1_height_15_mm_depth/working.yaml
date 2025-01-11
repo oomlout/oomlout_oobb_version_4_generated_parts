@@ -1,68 +1,9 @@
-bip_39_word_dash_1: pudding
-bip_39_word_dash_10: pudding-usage-dawn-gym-bulb-syrup-avocado-ocean-file-bounce
-bip_39_word_dash_11: pudding-usage-dawn-gym-bulb-syrup-avocado-ocean-file-bounce-between
 bip_39_word_dash_12: pudding-usage-dawn-gym-bulb-syrup-avocado-ocean-file-bounce-between-analyst
 bip_39_word_dash_2: pudding-usage
 bip_39_word_dash_3: pudding-usage-dawn
-bip_39_word_dash_4: pudding-usage-dawn-gym
-bip_39_word_dash_5: pudding-usage-dawn-gym-bulb
-bip_39_word_dash_6: pudding-usage-dawn-gym-bulb-syrup
-bip_39_word_dash_7: pudding-usage-dawn-gym-bulb-syrup-avocado
-bip_39_word_dash_8: pudding-usage-dawn-gym-bulb-syrup-avocado-ocean
-bip_39_word_dash_9: pudding-usage-dawn-gym-bulb-syrup-avocado-ocean-file
-bip_39_word_new_br_1: pudding
-bip_39_word_new_br_10: pudding<br>usage<br>dawn<br>gym<br>bulb<br>syrup<br>avocado<br>ocean<br>file<br>bounce
-bip_39_word_new_br_11: pudding<br>usage<br>dawn<br>gym<br>bulb<br>syrup<br>avocado<br>ocean<br>file<br>bounce<br>between
 bip_39_word_new_br_12: pudding<br>usage<br>dawn<br>gym<br>bulb<br>syrup<br>avocado<br>ocean<br>file<br>bounce<br>between<br>analyst
 bip_39_word_new_br_2: pudding<br>usage
 bip_39_word_new_br_3: pudding<br>usage<br>dawn
-bip_39_word_new_br_4: pudding<br>usage<br>dawn<br>gym
-bip_39_word_new_br_5: pudding<br>usage<br>dawn<br>gym<br>bulb
-bip_39_word_new_br_6: pudding<br>usage<br>dawn<br>gym<br>bulb<br>syrup
-bip_39_word_new_br_7: pudding<br>usage<br>dawn<br>gym<br>bulb<br>syrup<br>avocado
-bip_39_word_new_br_8: pudding<br>usage<br>dawn<br>gym<br>bulb<br>syrup<br>avocado<br>ocean
-bip_39_word_new_br_9: pudding<br>usage<br>dawn<br>gym<br>bulb<br>syrup<br>avocado<br>ocean<br>file
-bip_39_word_new_line_1: pudding
-bip_39_word_new_line_10: 'pudding
-
-  usage
-
-  dawn
-
-  gym
-
-  bulb
-
-  syrup
-
-  avocado
-
-  ocean
-
-  file
-
-  bounce'
-bip_39_word_new_line_11: 'pudding
-
-  usage
-
-  dawn
-
-  gym
-
-  bulb
-
-  syrup
-
-  avocado
-
-  ocean
-
-  file
-
-  bounce
-
-  between'
 bip_39_word_new_line_12: 'pudding
 
   usage
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'pudding
   usage
 
   dawn'
-bip_39_word_new_line_4: 'pudding
-
-  usage
-
-  dawn
-
-  gym'
-bip_39_word_new_line_5: 'pudding
-
-  usage
-
-  dawn
-
-  gym
-
-  bulb'
-bip_39_word_new_line_6: 'pudding
-
-  usage
-
-  dawn
-
-  gym
-
-  bulb
-
-  syrup'
-bip_39_word_new_line_7: 'pudding
-
-  usage
-
-  dawn
-
-  gym
-
-  bulb
-
-  syrup
-
-  avocado'
-bip_39_word_new_line_8: 'pudding
-
-  usage
-
-  dawn
-
-  gym
-
-  bulb
-
-  syrup
-
-  avocado
-
-  ocean'
-bip_39_word_new_line_9: 'pudding
-
-  usage
-
-  dawn
-
-  gym
-
-  bulb
-
-  syrup
-
-  avocado
-
-  ocean
-
-  file'
-bip_39_word_no_space_1: pudding
-bip_39_word_no_space_10: puddingusagedawngymbulbsyrupavocadooceanfilebounce
-bip_39_word_no_space_11: puddingusagedawngymbulbsyrupavocadooceanfilebouncebetween
 bip_39_word_no_space_12: puddingusagedawngymbulbsyrupavocadooceanfilebouncebetweenanalyst
 bip_39_word_no_space_2: puddingusage
 bip_39_word_no_space_3: puddingusagedawn
-bip_39_word_no_space_4: puddingusagedawngym
-bip_39_word_no_space_5: puddingusagedawngymbulb
-bip_39_word_no_space_6: puddingusagedawngymbulbsyrup
-bip_39_word_no_space_7: puddingusagedawngymbulbsyrupavocado
-bip_39_word_no_space_8: puddingusagedawngymbulbsyrupavocadoocean
-bip_39_word_no_space_9: puddingusagedawngymbulbsyrupavocadooceanfile
-bip_39_word_space_0:
-- pudding
-- usage
-- dawn
-- gym
-- bulb
-- syrup
-- avocado
-- ocean
-- file
-- bounce
-- between
-- analyst
-bip_39_word_space_1: pudding
-bip_39_word_space_10: pudding usage dawn gym bulb syrup avocado ocean file bounce
-bip_39_word_space_11: pudding usage dawn gym bulb syrup avocado ocean file bounce
-  between
 bip_39_word_space_12: pudding usage dawn gym bulb syrup avocado ocean file bounce
   between analyst
 bip_39_word_space_2: pudding usage
 bip_39_word_space_3: pudding usage dawn
-bip_39_word_space_4: pudding usage dawn gym
-bip_39_word_space_5: pudding usage dawn gym bulb
-bip_39_word_space_6: pudding usage dawn gym bulb syrup
-bip_39_word_space_7: pudding usage dawn gym bulb syrup avocado
-bip_39_word_space_8: pudding usage dawn gym bulb syrup avocado ocean
-bip_39_word_space_9: pudding usage dawn gym bulb syrup avocado ocean file
-bip_39_word_underscore_1: pudding
-bip_39_word_underscore_10: pudding_usage_dawn_gym_bulb_syrup_avocado_ocean_file_bounce
-bip_39_word_underscore_11: pudding_usage_dawn_gym_bulb_syrup_avocado_ocean_file_bounce_between
 bip_39_word_underscore_12: pudding_usage_dawn_gym_bulb_syrup_avocado_ocean_file_bounce_between_analyst
 bip_39_word_underscore_2: pudding_usage
 bip_39_word_underscore_3: pudding_usage_dawn
-bip_39_word_underscore_4: pudding_usage_dawn_gym
-bip_39_word_underscore_5: pudding_usage_dawn_gym_bulb
-bip_39_word_underscore_6: pudding_usage_dawn_gym_bulb_syrup
-bip_39_word_underscore_7: pudding_usage_dawn_gym_bulb_syrup_avocado
-bip_39_word_underscore_8: pudding_usage_dawn_gym_bulb_syrup_avocado_ocean
-bip_39_word_underscore_9: pudding_usage_dawn_gym_bulb_syrup_avocado_ocean_file
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

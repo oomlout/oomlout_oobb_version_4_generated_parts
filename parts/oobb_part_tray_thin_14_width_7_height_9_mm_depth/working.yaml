@@ -1,68 +1,9 @@
-bip_39_word_dash_1: mimic
-bip_39_word_dash_10: mimic-trumpet-much-fox-wear-easy-cattle-crystal-language-inside
-bip_39_word_dash_11: mimic-trumpet-much-fox-wear-easy-cattle-crystal-language-inside-curve
 bip_39_word_dash_12: mimic-trumpet-much-fox-wear-easy-cattle-crystal-language-inside-curve-acquire
 bip_39_word_dash_2: mimic-trumpet
 bip_39_word_dash_3: mimic-trumpet-much
-bip_39_word_dash_4: mimic-trumpet-much-fox
-bip_39_word_dash_5: mimic-trumpet-much-fox-wear
-bip_39_word_dash_6: mimic-trumpet-much-fox-wear-easy
-bip_39_word_dash_7: mimic-trumpet-much-fox-wear-easy-cattle
-bip_39_word_dash_8: mimic-trumpet-much-fox-wear-easy-cattle-crystal
-bip_39_word_dash_9: mimic-trumpet-much-fox-wear-easy-cattle-crystal-language
-bip_39_word_new_br_1: mimic
-bip_39_word_new_br_10: mimic<br>trumpet<br>much<br>fox<br>wear<br>easy<br>cattle<br>crystal<br>language<br>inside
-bip_39_word_new_br_11: mimic<br>trumpet<br>much<br>fox<br>wear<br>easy<br>cattle<br>crystal<br>language<br>inside<br>curve
 bip_39_word_new_br_12: mimic<br>trumpet<br>much<br>fox<br>wear<br>easy<br>cattle<br>crystal<br>language<br>inside<br>curve<br>acquire
 bip_39_word_new_br_2: mimic<br>trumpet
 bip_39_word_new_br_3: mimic<br>trumpet<br>much
-bip_39_word_new_br_4: mimic<br>trumpet<br>much<br>fox
-bip_39_word_new_br_5: mimic<br>trumpet<br>much<br>fox<br>wear
-bip_39_word_new_br_6: mimic<br>trumpet<br>much<br>fox<br>wear<br>easy
-bip_39_word_new_br_7: mimic<br>trumpet<br>much<br>fox<br>wear<br>easy<br>cattle
-bip_39_word_new_br_8: mimic<br>trumpet<br>much<br>fox<br>wear<br>easy<br>cattle<br>crystal
-bip_39_word_new_br_9: mimic<br>trumpet<br>much<br>fox<br>wear<br>easy<br>cattle<br>crystal<br>language
-bip_39_word_new_line_1: mimic
-bip_39_word_new_line_10: 'mimic
-
-  trumpet
-
-  much
-
-  fox
-
-  wear
-
-  easy
-
-  cattle
-
-  crystal
-
-  language
-
-  inside'
-bip_39_word_new_line_11: 'mimic
-
-  trumpet
-
-  much
-
-  fox
-
-  wear
-
-  easy
-
-  cattle
-
-  crystal
-
-  language
-
-  inside
-
-  curve'
 bip_39_word_new_line_12: 'mimic
 
   trumpet
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'mimic
   trumpet
 
   much'
-bip_39_word_new_line_4: 'mimic
-
-  trumpet
-
-  much
-
-  fox'
-bip_39_word_new_line_5: 'mimic
-
-  trumpet
-
-  much
-
-  fox
-
-  wear'
-bip_39_word_new_line_6: 'mimic
-
-  trumpet
-
-  much
-
-  fox
-
-  wear
-
-  easy'
-bip_39_word_new_line_7: 'mimic
-
-  trumpet
-
-  much
-
-  fox
-
-  wear
-
-  easy
-
-  cattle'
-bip_39_word_new_line_8: 'mimic
-
-  trumpet
-
-  much
-
-  fox
-
-  wear
-
-  easy
-
-  cattle
-
-  crystal'
-bip_39_word_new_line_9: 'mimic
-
-  trumpet
-
-  much
-
-  fox
-
-  wear
-
-  easy
-
-  cattle
-
-  crystal
-
-  language'
-bip_39_word_no_space_1: mimic
-bip_39_word_no_space_10: mimictrumpetmuchfoxweareasycattlecrystallanguageinside
-bip_39_word_no_space_11: mimictrumpetmuchfoxweareasycattlecrystallanguageinsidecurve
 bip_39_word_no_space_12: mimictrumpetmuchfoxweareasycattlecrystallanguageinsidecurveacquire
 bip_39_word_no_space_2: mimictrumpet
 bip_39_word_no_space_3: mimictrumpetmuch
-bip_39_word_no_space_4: mimictrumpetmuchfox
-bip_39_word_no_space_5: mimictrumpetmuchfoxwear
-bip_39_word_no_space_6: mimictrumpetmuchfoxweareasy
-bip_39_word_no_space_7: mimictrumpetmuchfoxweareasycattle
-bip_39_word_no_space_8: mimictrumpetmuchfoxweareasycattlecrystal
-bip_39_word_no_space_9: mimictrumpetmuchfoxweareasycattlecrystallanguage
-bip_39_word_space_0:
-- mimic
-- trumpet
-- much
-- fox
-- wear
-- easy
-- cattle
-- crystal
-- language
-- inside
-- curve
-- acquire
-bip_39_word_space_1: mimic
-bip_39_word_space_10: mimic trumpet much fox wear easy cattle crystal language inside
-bip_39_word_space_11: mimic trumpet much fox wear easy cattle crystal language inside
-  curve
 bip_39_word_space_12: mimic trumpet much fox wear easy cattle crystal language inside
   curve acquire
 bip_39_word_space_2: mimic trumpet
 bip_39_word_space_3: mimic trumpet much
-bip_39_word_space_4: mimic trumpet much fox
-bip_39_word_space_5: mimic trumpet much fox wear
-bip_39_word_space_6: mimic trumpet much fox wear easy
-bip_39_word_space_7: mimic trumpet much fox wear easy cattle
-bip_39_word_space_8: mimic trumpet much fox wear easy cattle crystal
-bip_39_word_space_9: mimic trumpet much fox wear easy cattle crystal language
-bip_39_word_underscore_1: mimic
-bip_39_word_underscore_10: mimic_trumpet_much_fox_wear_easy_cattle_crystal_language_inside
-bip_39_word_underscore_11: mimic_trumpet_much_fox_wear_easy_cattle_crystal_language_inside_curve
 bip_39_word_underscore_12: mimic_trumpet_much_fox_wear_easy_cattle_crystal_language_inside_curve_acquire
 bip_39_word_underscore_2: mimic_trumpet
 bip_39_word_underscore_3: mimic_trumpet_much
-bip_39_word_underscore_4: mimic_trumpet_much_fox
-bip_39_word_underscore_5: mimic_trumpet_much_fox_wear
-bip_39_word_underscore_6: mimic_trumpet_much_fox_wear_easy
-bip_39_word_underscore_7: mimic_trumpet_much_fox_wear_easy_cattle
-bip_39_word_underscore_8: mimic_trumpet_much_fox_wear_easy_cattle_crystal
-bip_39_word_underscore_9: mimic_trumpet_much_fox_wear_easy_cattle_crystal_language
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

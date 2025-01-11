@@ -1,68 +1,9 @@
-bip_39_word_dash_1: session
-bip_39_word_dash_10: session-critic-satisfy-energy-select-whale-color-monitor-devote-raise
-bip_39_word_dash_11: session-critic-satisfy-energy-select-whale-color-monitor-devote-raise-live
 bip_39_word_dash_12: session-critic-satisfy-energy-select-whale-color-monitor-devote-raise-live-across
 bip_39_word_dash_2: session-critic
 bip_39_word_dash_3: session-critic-satisfy
-bip_39_word_dash_4: session-critic-satisfy-energy
-bip_39_word_dash_5: session-critic-satisfy-energy-select
-bip_39_word_dash_6: session-critic-satisfy-energy-select-whale
-bip_39_word_dash_7: session-critic-satisfy-energy-select-whale-color
-bip_39_word_dash_8: session-critic-satisfy-energy-select-whale-color-monitor
-bip_39_word_dash_9: session-critic-satisfy-energy-select-whale-color-monitor-devote
-bip_39_word_new_br_1: session
-bip_39_word_new_br_10: session<br>critic<br>satisfy<br>energy<br>select<br>whale<br>color<br>monitor<br>devote<br>raise
-bip_39_word_new_br_11: session<br>critic<br>satisfy<br>energy<br>select<br>whale<br>color<br>monitor<br>devote<br>raise<br>live
 bip_39_word_new_br_12: session<br>critic<br>satisfy<br>energy<br>select<br>whale<br>color<br>monitor<br>devote<br>raise<br>live<br>across
 bip_39_word_new_br_2: session<br>critic
 bip_39_word_new_br_3: session<br>critic<br>satisfy
-bip_39_word_new_br_4: session<br>critic<br>satisfy<br>energy
-bip_39_word_new_br_5: session<br>critic<br>satisfy<br>energy<br>select
-bip_39_word_new_br_6: session<br>critic<br>satisfy<br>energy<br>select<br>whale
-bip_39_word_new_br_7: session<br>critic<br>satisfy<br>energy<br>select<br>whale<br>color
-bip_39_word_new_br_8: session<br>critic<br>satisfy<br>energy<br>select<br>whale<br>color<br>monitor
-bip_39_word_new_br_9: session<br>critic<br>satisfy<br>energy<br>select<br>whale<br>color<br>monitor<br>devote
-bip_39_word_new_line_1: session
-bip_39_word_new_line_10: 'session
-
-  critic
-
-  satisfy
-
-  energy
-
-  select
-
-  whale
-
-  color
-
-  monitor
-
-  devote
-
-  raise'
-bip_39_word_new_line_11: 'session
-
-  critic
-
-  satisfy
-
-  energy
-
-  select
-
-  whale
-
-  color
-
-  monitor
-
-  devote
-
-  raise
-
-  live'
 bip_39_word_new_line_12: 'session
 
   critic
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'session
   critic
 
   satisfy'
-bip_39_word_new_line_4: 'session
-
-  critic
-
-  satisfy
-
-  energy'
-bip_39_word_new_line_5: 'session
-
-  critic
-
-  satisfy
-
-  energy
-
-  select'
-bip_39_word_new_line_6: 'session
-
-  critic
-
-  satisfy
-
-  energy
-
-  select
-
-  whale'
-bip_39_word_new_line_7: 'session
-
-  critic
-
-  satisfy
-
-  energy
-
-  select
-
-  whale
-
-  color'
-bip_39_word_new_line_8: 'session
-
-  critic
-
-  satisfy
-
-  energy
-
-  select
-
-  whale
-
-  color
-
-  monitor'
-bip_39_word_new_line_9: 'session
-
-  critic
-
-  satisfy
-
-  energy
-
-  select
-
-  whale
-
-  color
-
-  monitor
-
-  devote'
-bip_39_word_no_space_1: session
-bip_39_word_no_space_10: sessioncriticsatisfyenergyselectwhalecolormonitordevoteraise
-bip_39_word_no_space_11: sessioncriticsatisfyenergyselectwhalecolormonitordevoteraiselive
 bip_39_word_no_space_12: sessioncriticsatisfyenergyselectwhalecolormonitordevoteraiseliveacross
 bip_39_word_no_space_2: sessioncritic
 bip_39_word_no_space_3: sessioncriticsatisfy
-bip_39_word_no_space_4: sessioncriticsatisfyenergy
-bip_39_word_no_space_5: sessioncriticsatisfyenergyselect
-bip_39_word_no_space_6: sessioncriticsatisfyenergyselectwhale
-bip_39_word_no_space_7: sessioncriticsatisfyenergyselectwhalecolor
-bip_39_word_no_space_8: sessioncriticsatisfyenergyselectwhalecolormonitor
-bip_39_word_no_space_9: sessioncriticsatisfyenergyselectwhalecolormonitordevote
-bip_39_word_space_0:
-- session
-- critic
-- satisfy
-- energy
-- select
-- whale
-- color
-- monitor
-- devote
-- raise
-- live
-- across
-bip_39_word_space_1: session
-bip_39_word_space_10: session critic satisfy energy select whale color monitor devote
-  raise
-bip_39_word_space_11: session critic satisfy energy select whale color monitor devote
-  raise live
 bip_39_word_space_12: session critic satisfy energy select whale color monitor devote
   raise live across
 bip_39_word_space_2: session critic
 bip_39_word_space_3: session critic satisfy
-bip_39_word_space_4: session critic satisfy energy
-bip_39_word_space_5: session critic satisfy energy select
-bip_39_word_space_6: session critic satisfy energy select whale
-bip_39_word_space_7: session critic satisfy energy select whale color
-bip_39_word_space_8: session critic satisfy energy select whale color monitor
-bip_39_word_space_9: session critic satisfy energy select whale color monitor devote
-bip_39_word_underscore_1: session
-bip_39_word_underscore_10: session_critic_satisfy_energy_select_whale_color_monitor_devote_raise
-bip_39_word_underscore_11: session_critic_satisfy_energy_select_whale_color_monitor_devote_raise_live
 bip_39_word_underscore_12: session_critic_satisfy_energy_select_whale_color_monitor_devote_raise_live_across
 bip_39_word_underscore_2: session_critic
 bip_39_word_underscore_3: session_critic_satisfy
-bip_39_word_underscore_4: session_critic_satisfy_energy
-bip_39_word_underscore_5: session_critic_satisfy_energy_select
-bip_39_word_underscore_6: session_critic_satisfy_energy_select_whale
-bip_39_word_underscore_7: session_critic_satisfy_energy_select_whale_color
-bip_39_word_underscore_8: session_critic_satisfy_energy_select_whale_color_monitor
-bip_39_word_underscore_9: session_critic_satisfy_energy_select_whale_color_monitor_devote
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

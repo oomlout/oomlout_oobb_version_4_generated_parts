@@ -1,68 +1,9 @@
-bip_39_word_dash_1: doctor
-bip_39_word_dash_10: doctor-panther-music-leave-lizard-sad-gloom-local-march-arrive
-bip_39_word_dash_11: doctor-panther-music-leave-lizard-sad-gloom-local-march-arrive-squirrel
 bip_39_word_dash_12: doctor-panther-music-leave-lizard-sad-gloom-local-march-arrive-squirrel-august
 bip_39_word_dash_2: doctor-panther
 bip_39_word_dash_3: doctor-panther-music
-bip_39_word_dash_4: doctor-panther-music-leave
-bip_39_word_dash_5: doctor-panther-music-leave-lizard
-bip_39_word_dash_6: doctor-panther-music-leave-lizard-sad
-bip_39_word_dash_7: doctor-panther-music-leave-lizard-sad-gloom
-bip_39_word_dash_8: doctor-panther-music-leave-lizard-sad-gloom-local
-bip_39_word_dash_9: doctor-panther-music-leave-lizard-sad-gloom-local-march
-bip_39_word_new_br_1: doctor
-bip_39_word_new_br_10: doctor<br>panther<br>music<br>leave<br>lizard<br>sad<br>gloom<br>local<br>march<br>arrive
-bip_39_word_new_br_11: doctor<br>panther<br>music<br>leave<br>lizard<br>sad<br>gloom<br>local<br>march<br>arrive<br>squirrel
 bip_39_word_new_br_12: doctor<br>panther<br>music<br>leave<br>lizard<br>sad<br>gloom<br>local<br>march<br>arrive<br>squirrel<br>august
 bip_39_word_new_br_2: doctor<br>panther
 bip_39_word_new_br_3: doctor<br>panther<br>music
-bip_39_word_new_br_4: doctor<br>panther<br>music<br>leave
-bip_39_word_new_br_5: doctor<br>panther<br>music<br>leave<br>lizard
-bip_39_word_new_br_6: doctor<br>panther<br>music<br>leave<br>lizard<br>sad
-bip_39_word_new_br_7: doctor<br>panther<br>music<br>leave<br>lizard<br>sad<br>gloom
-bip_39_word_new_br_8: doctor<br>panther<br>music<br>leave<br>lizard<br>sad<br>gloom<br>local
-bip_39_word_new_br_9: doctor<br>panther<br>music<br>leave<br>lizard<br>sad<br>gloom<br>local<br>march
-bip_39_word_new_line_1: doctor
-bip_39_word_new_line_10: 'doctor
-
-  panther
-
-  music
-
-  leave
-
-  lizard
-
-  sad
-
-  gloom
-
-  local
-
-  march
-
-  arrive'
-bip_39_word_new_line_11: 'doctor
-
-  panther
-
-  music
-
-  leave
-
-  lizard
-
-  sad
-
-  gloom
-
-  local
-
-  march
-
-  arrive
-
-  squirrel'
 bip_39_word_new_line_12: 'doctor
 
   panther
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'doctor
   panther
 
   music'
-bip_39_word_new_line_4: 'doctor
-
-  panther
-
-  music
-
-  leave'
-bip_39_word_new_line_5: 'doctor
-
-  panther
-
-  music
-
-  leave
-
-  lizard'
-bip_39_word_new_line_6: 'doctor
-
-  panther
-
-  music
-
-  leave
-
-  lizard
-
-  sad'
-bip_39_word_new_line_7: 'doctor
-
-  panther
-
-  music
-
-  leave
-
-  lizard
-
-  sad
-
-  gloom'
-bip_39_word_new_line_8: 'doctor
-
-  panther
-
-  music
-
-  leave
-
-  lizard
-
-  sad
-
-  gloom
-
-  local'
-bip_39_word_new_line_9: 'doctor
-
-  panther
-
-  music
-
-  leave
-
-  lizard
-
-  sad
-
-  gloom
-
-  local
-
-  march'
-bip_39_word_no_space_1: doctor
-bip_39_word_no_space_10: doctorpanthermusicleavelizardsadgloomlocalmarcharrive
-bip_39_word_no_space_11: doctorpanthermusicleavelizardsadgloomlocalmarcharrivesquirrel
 bip_39_word_no_space_12: doctorpanthermusicleavelizardsadgloomlocalmarcharrivesquirrelaugust
 bip_39_word_no_space_2: doctorpanther
 bip_39_word_no_space_3: doctorpanthermusic
-bip_39_word_no_space_4: doctorpanthermusicleave
-bip_39_word_no_space_5: doctorpanthermusicleavelizard
-bip_39_word_no_space_6: doctorpanthermusicleavelizardsad
-bip_39_word_no_space_7: doctorpanthermusicleavelizardsadgloom
-bip_39_word_no_space_8: doctorpanthermusicleavelizardsadgloomlocal
-bip_39_word_no_space_9: doctorpanthermusicleavelizardsadgloomlocalmarch
-bip_39_word_space_0:
-- doctor
-- panther
-- music
-- leave
-- lizard
-- sad
-- gloom
-- local
-- march
-- arrive
-- squirrel
-- august
-bip_39_word_space_1: doctor
-bip_39_word_space_10: doctor panther music leave lizard sad gloom local march arrive
-bip_39_word_space_11: doctor panther music leave lizard sad gloom local march arrive
-  squirrel
 bip_39_word_space_12: doctor panther music leave lizard sad gloom local march arrive
   squirrel august
 bip_39_word_space_2: doctor panther
 bip_39_word_space_3: doctor panther music
-bip_39_word_space_4: doctor panther music leave
-bip_39_word_space_5: doctor panther music leave lizard
-bip_39_word_space_6: doctor panther music leave lizard sad
-bip_39_word_space_7: doctor panther music leave lizard sad gloom
-bip_39_word_space_8: doctor panther music leave lizard sad gloom local
-bip_39_word_space_9: doctor panther music leave lizard sad gloom local march
-bip_39_word_underscore_1: doctor
-bip_39_word_underscore_10: doctor_panther_music_leave_lizard_sad_gloom_local_march_arrive
-bip_39_word_underscore_11: doctor_panther_music_leave_lizard_sad_gloom_local_march_arrive_squirrel
 bip_39_word_underscore_12: doctor_panther_music_leave_lizard_sad_gloom_local_march_arrive_squirrel_august
 bip_39_word_underscore_2: doctor_panther
 bip_39_word_underscore_3: doctor_panther_music
-bip_39_word_underscore_4: doctor_panther_music_leave
-bip_39_word_underscore_5: doctor_panther_music_leave_lizard
-bip_39_word_underscore_6: doctor_panther_music_leave_lizard_sad
-bip_39_word_underscore_7: doctor_panther_music_leave_lizard_sad_gloom
-bip_39_word_underscore_8: doctor_panther_music_leave_lizard_sad_gloom_local
-bip_39_word_underscore_9: doctor_panther_music_leave_lizard_sad_gloom_local_march
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

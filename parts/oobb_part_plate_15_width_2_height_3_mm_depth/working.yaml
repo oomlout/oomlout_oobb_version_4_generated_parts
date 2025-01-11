@@ -1,68 +1,9 @@
-bip_39_word_dash_1: sphere
-bip_39_word_dash_10: sphere-parade-frost-mandate-caution-chef-grunt-concert-convince-join
-bip_39_word_dash_11: sphere-parade-frost-mandate-caution-chef-grunt-concert-convince-join-marriage
 bip_39_word_dash_12: sphere-parade-frost-mandate-caution-chef-grunt-concert-convince-join-marriage-artist
 bip_39_word_dash_2: sphere-parade
 bip_39_word_dash_3: sphere-parade-frost
-bip_39_word_dash_4: sphere-parade-frost-mandate
-bip_39_word_dash_5: sphere-parade-frost-mandate-caution
-bip_39_word_dash_6: sphere-parade-frost-mandate-caution-chef
-bip_39_word_dash_7: sphere-parade-frost-mandate-caution-chef-grunt
-bip_39_word_dash_8: sphere-parade-frost-mandate-caution-chef-grunt-concert
-bip_39_word_dash_9: sphere-parade-frost-mandate-caution-chef-grunt-concert-convince
-bip_39_word_new_br_1: sphere
-bip_39_word_new_br_10: sphere<br>parade<br>frost<br>mandate<br>caution<br>chef<br>grunt<br>concert<br>convince<br>join
-bip_39_word_new_br_11: sphere<br>parade<br>frost<br>mandate<br>caution<br>chef<br>grunt<br>concert<br>convince<br>join<br>marriage
 bip_39_word_new_br_12: sphere<br>parade<br>frost<br>mandate<br>caution<br>chef<br>grunt<br>concert<br>convince<br>join<br>marriage<br>artist
 bip_39_word_new_br_2: sphere<br>parade
 bip_39_word_new_br_3: sphere<br>parade<br>frost
-bip_39_word_new_br_4: sphere<br>parade<br>frost<br>mandate
-bip_39_word_new_br_5: sphere<br>parade<br>frost<br>mandate<br>caution
-bip_39_word_new_br_6: sphere<br>parade<br>frost<br>mandate<br>caution<br>chef
-bip_39_word_new_br_7: sphere<br>parade<br>frost<br>mandate<br>caution<br>chef<br>grunt
-bip_39_word_new_br_8: sphere<br>parade<br>frost<br>mandate<br>caution<br>chef<br>grunt<br>concert
-bip_39_word_new_br_9: sphere<br>parade<br>frost<br>mandate<br>caution<br>chef<br>grunt<br>concert<br>convince
-bip_39_word_new_line_1: sphere
-bip_39_word_new_line_10: 'sphere
-
-  parade
-
-  frost
-
-  mandate
-
-  caution
-
-  chef
-
-  grunt
-
-  concert
-
-  convince
-
-  join'
-bip_39_word_new_line_11: 'sphere
-
-  parade
-
-  frost
-
-  mandate
-
-  caution
-
-  chef
-
-  grunt
-
-  concert
-
-  convince
-
-  join
-
-  marriage'
 bip_39_word_new_line_12: 'sphere
 
   parade
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'sphere
   parade
 
   frost'
-bip_39_word_new_line_4: 'sphere
-
-  parade
-
-  frost
-
-  mandate'
-bip_39_word_new_line_5: 'sphere
-
-  parade
-
-  frost
-
-  mandate
-
-  caution'
-bip_39_word_new_line_6: 'sphere
-
-  parade
-
-  frost
-
-  mandate
-
-  caution
-
-  chef'
-bip_39_word_new_line_7: 'sphere
-
-  parade
-
-  frost
-
-  mandate
-
-  caution
-
-  chef
-
-  grunt'
-bip_39_word_new_line_8: 'sphere
-
-  parade
-
-  frost
-
-  mandate
-
-  caution
-
-  chef
-
-  grunt
-
-  concert'
-bip_39_word_new_line_9: 'sphere
-
-  parade
-
-  frost
-
-  mandate
-
-  caution
-
-  chef
-
-  grunt
-
-  concert
-
-  convince'
-bip_39_word_no_space_1: sphere
-bip_39_word_no_space_10: sphereparadefrostmandatecautionchefgruntconcertconvincejoin
-bip_39_word_no_space_11: sphereparadefrostmandatecautionchefgruntconcertconvincejoinmarriage
 bip_39_word_no_space_12: sphereparadefrostmandatecautionchefgruntconcertconvincejoinmarriageartist
 bip_39_word_no_space_2: sphereparade
 bip_39_word_no_space_3: sphereparadefrost
-bip_39_word_no_space_4: sphereparadefrostmandate
-bip_39_word_no_space_5: sphereparadefrostmandatecaution
-bip_39_word_no_space_6: sphereparadefrostmandatecautionchef
-bip_39_word_no_space_7: sphereparadefrostmandatecautionchefgrunt
-bip_39_word_no_space_8: sphereparadefrostmandatecautionchefgruntconcert
-bip_39_word_no_space_9: sphereparadefrostmandatecautionchefgruntconcertconvince
-bip_39_word_space_0:
-- sphere
-- parade
-- frost
-- mandate
-- caution
-- chef
-- grunt
-- concert
-- convince
-- join
-- marriage
-- artist
-bip_39_word_space_1: sphere
-bip_39_word_space_10: sphere parade frost mandate caution chef grunt concert convince
-  join
-bip_39_word_space_11: sphere parade frost mandate caution chef grunt concert convince
-  join marriage
 bip_39_word_space_12: sphere parade frost mandate caution chef grunt concert convince
   join marriage artist
 bip_39_word_space_2: sphere parade
 bip_39_word_space_3: sphere parade frost
-bip_39_word_space_4: sphere parade frost mandate
-bip_39_word_space_5: sphere parade frost mandate caution
-bip_39_word_space_6: sphere parade frost mandate caution chef
-bip_39_word_space_7: sphere parade frost mandate caution chef grunt
-bip_39_word_space_8: sphere parade frost mandate caution chef grunt concert
-bip_39_word_space_9: sphere parade frost mandate caution chef grunt concert convince
-bip_39_word_underscore_1: sphere
-bip_39_word_underscore_10: sphere_parade_frost_mandate_caution_chef_grunt_concert_convince_join
-bip_39_word_underscore_11: sphere_parade_frost_mandate_caution_chef_grunt_concert_convince_join_marriage
 bip_39_word_underscore_12: sphere_parade_frost_mandate_caution_chef_grunt_concert_convince_join_marriage_artist
 bip_39_word_underscore_2: sphere_parade
 bip_39_word_underscore_3: sphere_parade_frost
-bip_39_word_underscore_4: sphere_parade_frost_mandate
-bip_39_word_underscore_5: sphere_parade_frost_mandate_caution
-bip_39_word_underscore_6: sphere_parade_frost_mandate_caution_chef
-bip_39_word_underscore_7: sphere_parade_frost_mandate_caution_chef_grunt
-bip_39_word_underscore_8: sphere_parade_frost_mandate_caution_chef_grunt_concert
-bip_39_word_underscore_9: sphere_parade_frost_mandate_caution_chef_grunt_concert_convince
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

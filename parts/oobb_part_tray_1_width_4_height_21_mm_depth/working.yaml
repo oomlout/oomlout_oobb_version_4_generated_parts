@@ -1,68 +1,9 @@
-bip_39_word_dash_1: select
-bip_39_word_dash_10: select-gate-second-patch-alpha-mean-clay-math-deer-spray
-bip_39_word_dash_11: select-gate-second-patch-alpha-mean-clay-math-deer-spray-nature
 bip_39_word_dash_12: select-gate-second-patch-alpha-mean-clay-math-deer-spray-nature-athlete
 bip_39_word_dash_2: select-gate
 bip_39_word_dash_3: select-gate-second
-bip_39_word_dash_4: select-gate-second-patch
-bip_39_word_dash_5: select-gate-second-patch-alpha
-bip_39_word_dash_6: select-gate-second-patch-alpha-mean
-bip_39_word_dash_7: select-gate-second-patch-alpha-mean-clay
-bip_39_word_dash_8: select-gate-second-patch-alpha-mean-clay-math
-bip_39_word_dash_9: select-gate-second-patch-alpha-mean-clay-math-deer
-bip_39_word_new_br_1: select
-bip_39_word_new_br_10: select<br>gate<br>second<br>patch<br>alpha<br>mean<br>clay<br>math<br>deer<br>spray
-bip_39_word_new_br_11: select<br>gate<br>second<br>patch<br>alpha<br>mean<br>clay<br>math<br>deer<br>spray<br>nature
 bip_39_word_new_br_12: select<br>gate<br>second<br>patch<br>alpha<br>mean<br>clay<br>math<br>deer<br>spray<br>nature<br>athlete
 bip_39_word_new_br_2: select<br>gate
 bip_39_word_new_br_3: select<br>gate<br>second
-bip_39_word_new_br_4: select<br>gate<br>second<br>patch
-bip_39_word_new_br_5: select<br>gate<br>second<br>patch<br>alpha
-bip_39_word_new_br_6: select<br>gate<br>second<br>patch<br>alpha<br>mean
-bip_39_word_new_br_7: select<br>gate<br>second<br>patch<br>alpha<br>mean<br>clay
-bip_39_word_new_br_8: select<br>gate<br>second<br>patch<br>alpha<br>mean<br>clay<br>math
-bip_39_word_new_br_9: select<br>gate<br>second<br>patch<br>alpha<br>mean<br>clay<br>math<br>deer
-bip_39_word_new_line_1: select
-bip_39_word_new_line_10: 'select
-
-  gate
-
-  second
-
-  patch
-
-  alpha
-
-  mean
-
-  clay
-
-  math
-
-  deer
-
-  spray'
-bip_39_word_new_line_11: 'select
-
-  gate
-
-  second
-
-  patch
-
-  alpha
-
-  mean
-
-  clay
-
-  math
-
-  deer
-
-  spray
-
-  nature'
 bip_39_word_new_line_12: 'select
 
   gate
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'select
   gate
 
   second'
-bip_39_word_new_line_4: 'select
-
-  gate
-
-  second
-
-  patch'
-bip_39_word_new_line_5: 'select
-
-  gate
-
-  second
-
-  patch
-
-  alpha'
-bip_39_word_new_line_6: 'select
-
-  gate
-
-  second
-
-  patch
-
-  alpha
-
-  mean'
-bip_39_word_new_line_7: 'select
-
-  gate
-
-  second
-
-  patch
-
-  alpha
-
-  mean
-
-  clay'
-bip_39_word_new_line_8: 'select
-
-  gate
-
-  second
-
-  patch
-
-  alpha
-
-  mean
-
-  clay
-
-  math'
-bip_39_word_new_line_9: 'select
-
-  gate
-
-  second
-
-  patch
-
-  alpha
-
-  mean
-
-  clay
-
-  math
-
-  deer'
-bip_39_word_no_space_1: select
-bip_39_word_no_space_10: selectgatesecondpatchalphameanclaymathdeerspray
-bip_39_word_no_space_11: selectgatesecondpatchalphameanclaymathdeerspraynature
 bip_39_word_no_space_12: selectgatesecondpatchalphameanclaymathdeerspraynatureathlete
 bip_39_word_no_space_2: selectgate
 bip_39_word_no_space_3: selectgatesecond
-bip_39_word_no_space_4: selectgatesecondpatch
-bip_39_word_no_space_5: selectgatesecondpatchalpha
-bip_39_word_no_space_6: selectgatesecondpatchalphamean
-bip_39_word_no_space_7: selectgatesecondpatchalphameanclay
-bip_39_word_no_space_8: selectgatesecondpatchalphameanclaymath
-bip_39_word_no_space_9: selectgatesecondpatchalphameanclaymathdeer
-bip_39_word_space_0:
-- select
-- gate
-- second
-- patch
-- alpha
-- mean
-- clay
-- math
-- deer
-- spray
-- nature
-- athlete
-bip_39_word_space_1: select
-bip_39_word_space_10: select gate second patch alpha mean clay math deer spray
-bip_39_word_space_11: select gate second patch alpha mean clay math deer spray nature
 bip_39_word_space_12: select gate second patch alpha mean clay math deer spray nature
   athlete
 bip_39_word_space_2: select gate
 bip_39_word_space_3: select gate second
-bip_39_word_space_4: select gate second patch
-bip_39_word_space_5: select gate second patch alpha
-bip_39_word_space_6: select gate second patch alpha mean
-bip_39_word_space_7: select gate second patch alpha mean clay
-bip_39_word_space_8: select gate second patch alpha mean clay math
-bip_39_word_space_9: select gate second patch alpha mean clay math deer
-bip_39_word_underscore_1: select
-bip_39_word_underscore_10: select_gate_second_patch_alpha_mean_clay_math_deer_spray
-bip_39_word_underscore_11: select_gate_second_patch_alpha_mean_clay_math_deer_spray_nature
 bip_39_word_underscore_12: select_gate_second_patch_alpha_mean_clay_math_deer_spray_nature_athlete
 bip_39_word_underscore_2: select_gate
 bip_39_word_underscore_3: select_gate_second
-bip_39_word_underscore_4: select_gate_second_patch
-bip_39_word_underscore_5: select_gate_second_patch_alpha
-bip_39_word_underscore_6: select_gate_second_patch_alpha_mean
-bip_39_word_underscore_7: select_gate_second_patch_alpha_mean_clay
-bip_39_word_underscore_8: select_gate_second_patch_alpha_mean_clay_math
-bip_39_word_underscore_9: select_gate_second_patch_alpha_mean_clay_math_deer
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

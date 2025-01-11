@@ -1,68 +1,9 @@
-bip_39_word_dash_1: apple
-bip_39_word_dash_10: apple-pulp-ugly-good-antenna-sugar-lift-ankle-grief-room
-bip_39_word_dash_11: apple-pulp-ugly-good-antenna-sugar-lift-ankle-grief-room-grape
 bip_39_word_dash_12: apple-pulp-ugly-good-antenna-sugar-lift-ankle-grief-room-grape-army
 bip_39_word_dash_2: apple-pulp
 bip_39_word_dash_3: apple-pulp-ugly
-bip_39_word_dash_4: apple-pulp-ugly-good
-bip_39_word_dash_5: apple-pulp-ugly-good-antenna
-bip_39_word_dash_6: apple-pulp-ugly-good-antenna-sugar
-bip_39_word_dash_7: apple-pulp-ugly-good-antenna-sugar-lift
-bip_39_word_dash_8: apple-pulp-ugly-good-antenna-sugar-lift-ankle
-bip_39_word_dash_9: apple-pulp-ugly-good-antenna-sugar-lift-ankle-grief
-bip_39_word_new_br_1: apple
-bip_39_word_new_br_10: apple<br>pulp<br>ugly<br>good<br>antenna<br>sugar<br>lift<br>ankle<br>grief<br>room
-bip_39_word_new_br_11: apple<br>pulp<br>ugly<br>good<br>antenna<br>sugar<br>lift<br>ankle<br>grief<br>room<br>grape
 bip_39_word_new_br_12: apple<br>pulp<br>ugly<br>good<br>antenna<br>sugar<br>lift<br>ankle<br>grief<br>room<br>grape<br>army
 bip_39_word_new_br_2: apple<br>pulp
 bip_39_word_new_br_3: apple<br>pulp<br>ugly
-bip_39_word_new_br_4: apple<br>pulp<br>ugly<br>good
-bip_39_word_new_br_5: apple<br>pulp<br>ugly<br>good<br>antenna
-bip_39_word_new_br_6: apple<br>pulp<br>ugly<br>good<br>antenna<br>sugar
-bip_39_word_new_br_7: apple<br>pulp<br>ugly<br>good<br>antenna<br>sugar<br>lift
-bip_39_word_new_br_8: apple<br>pulp<br>ugly<br>good<br>antenna<br>sugar<br>lift<br>ankle
-bip_39_word_new_br_9: apple<br>pulp<br>ugly<br>good<br>antenna<br>sugar<br>lift<br>ankle<br>grief
-bip_39_word_new_line_1: apple
-bip_39_word_new_line_10: 'apple
-
-  pulp
-
-  ugly
-
-  good
-
-  antenna
-
-  sugar
-
-  lift
-
-  ankle
-
-  grief
-
-  room'
-bip_39_word_new_line_11: 'apple
-
-  pulp
-
-  ugly
-
-  good
-
-  antenna
-
-  sugar
-
-  lift
-
-  ankle
-
-  grief
-
-  room
-
-  grape'
 bip_39_word_new_line_12: 'apple
 
   pulp
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'apple
   pulp
 
   ugly'
-bip_39_word_new_line_4: 'apple
-
-  pulp
-
-  ugly
-
-  good'
-bip_39_word_new_line_5: 'apple
-
-  pulp
-
-  ugly
-
-  good
-
-  antenna'
-bip_39_word_new_line_6: 'apple
-
-  pulp
-
-  ugly
-
-  good
-
-  antenna
-
-  sugar'
-bip_39_word_new_line_7: 'apple
-
-  pulp
-
-  ugly
-
-  good
-
-  antenna
-
-  sugar
-
-  lift'
-bip_39_word_new_line_8: 'apple
-
-  pulp
-
-  ugly
-
-  good
-
-  antenna
-
-  sugar
-
-  lift
-
-  ankle'
-bip_39_word_new_line_9: 'apple
-
-  pulp
-
-  ugly
-
-  good
-
-  antenna
-
-  sugar
-
-  lift
-
-  ankle
-
-  grief'
-bip_39_word_no_space_1: apple
-bip_39_word_no_space_10: applepulpuglygoodantennasugarliftanklegriefroom
-bip_39_word_no_space_11: applepulpuglygoodantennasugarliftanklegriefroomgrape
 bip_39_word_no_space_12: applepulpuglygoodantennasugarliftanklegriefroomgrapearmy
 bip_39_word_no_space_2: applepulp
 bip_39_word_no_space_3: applepulpugly
-bip_39_word_no_space_4: applepulpuglygood
-bip_39_word_no_space_5: applepulpuglygoodantenna
-bip_39_word_no_space_6: applepulpuglygoodantennasugar
-bip_39_word_no_space_7: applepulpuglygoodantennasugarlift
-bip_39_word_no_space_8: applepulpuglygoodantennasugarliftankle
-bip_39_word_no_space_9: applepulpuglygoodantennasugarliftanklegrief
-bip_39_word_space_0:
-- apple
-- pulp
-- ugly
-- good
-- antenna
-- sugar
-- lift
-- ankle
-- grief
-- room
-- grape
-- army
-bip_39_word_space_1: apple
-bip_39_word_space_10: apple pulp ugly good antenna sugar lift ankle grief room
-bip_39_word_space_11: apple pulp ugly good antenna sugar lift ankle grief room grape
 bip_39_word_space_12: apple pulp ugly good antenna sugar lift ankle grief room grape
   army
 bip_39_word_space_2: apple pulp
 bip_39_word_space_3: apple pulp ugly
-bip_39_word_space_4: apple pulp ugly good
-bip_39_word_space_5: apple pulp ugly good antenna
-bip_39_word_space_6: apple pulp ugly good antenna sugar
-bip_39_word_space_7: apple pulp ugly good antenna sugar lift
-bip_39_word_space_8: apple pulp ugly good antenna sugar lift ankle
-bip_39_word_space_9: apple pulp ugly good antenna sugar lift ankle grief
-bip_39_word_underscore_1: apple
-bip_39_word_underscore_10: apple_pulp_ugly_good_antenna_sugar_lift_ankle_grief_room
-bip_39_word_underscore_11: apple_pulp_ugly_good_antenna_sugar_lift_ankle_grief_room_grape
 bip_39_word_underscore_12: apple_pulp_ugly_good_antenna_sugar_lift_ankle_grief_room_grape_army
 bip_39_word_underscore_2: apple_pulp
 bip_39_word_underscore_3: apple_pulp_ugly
-bip_39_word_underscore_4: apple_pulp_ugly_good
-bip_39_word_underscore_5: apple_pulp_ugly_good_antenna
-bip_39_word_underscore_6: apple_pulp_ugly_good_antenna_sugar
-bip_39_word_underscore_7: apple_pulp_ugly_good_antenna_sugar_lift
-bip_39_word_underscore_8: apple_pulp_ugly_good_antenna_sugar_lift_ankle
-bip_39_word_underscore_9: apple_pulp_ugly_good_antenna_sugar_lift_ankle_grief
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

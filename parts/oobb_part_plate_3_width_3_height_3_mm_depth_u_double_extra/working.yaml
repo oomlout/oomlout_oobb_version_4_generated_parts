@@ -1,68 +1,9 @@
-bip_39_word_dash_1: common
-bip_39_word_dash_10: common-sight-oil-machine-say-pole-famous-milk-machine-purchase
-bip_39_word_dash_11: common-sight-oil-machine-say-pole-famous-milk-machine-purchase-enrich
 bip_39_word_dash_12: common-sight-oil-machine-say-pole-famous-milk-machine-purchase-enrich-anchor
 bip_39_word_dash_2: common-sight
 bip_39_word_dash_3: common-sight-oil
-bip_39_word_dash_4: common-sight-oil-machine
-bip_39_word_dash_5: common-sight-oil-machine-say
-bip_39_word_dash_6: common-sight-oil-machine-say-pole
-bip_39_word_dash_7: common-sight-oil-machine-say-pole-famous
-bip_39_word_dash_8: common-sight-oil-machine-say-pole-famous-milk
-bip_39_word_dash_9: common-sight-oil-machine-say-pole-famous-milk-machine
-bip_39_word_new_br_1: common
-bip_39_word_new_br_10: common<br>sight<br>oil<br>machine<br>say<br>pole<br>famous<br>milk<br>machine<br>purchase
-bip_39_word_new_br_11: common<br>sight<br>oil<br>machine<br>say<br>pole<br>famous<br>milk<br>machine<br>purchase<br>enrich
 bip_39_word_new_br_12: common<br>sight<br>oil<br>machine<br>say<br>pole<br>famous<br>milk<br>machine<br>purchase<br>enrich<br>anchor
 bip_39_word_new_br_2: common<br>sight
 bip_39_word_new_br_3: common<br>sight<br>oil
-bip_39_word_new_br_4: common<br>sight<br>oil<br>machine
-bip_39_word_new_br_5: common<br>sight<br>oil<br>machine<br>say
-bip_39_word_new_br_6: common<br>sight<br>oil<br>machine<br>say<br>pole
-bip_39_word_new_br_7: common<br>sight<br>oil<br>machine<br>say<br>pole<br>famous
-bip_39_word_new_br_8: common<br>sight<br>oil<br>machine<br>say<br>pole<br>famous<br>milk
-bip_39_word_new_br_9: common<br>sight<br>oil<br>machine<br>say<br>pole<br>famous<br>milk<br>machine
-bip_39_word_new_line_1: common
-bip_39_word_new_line_10: 'common
-
-  sight
-
-  oil
-
-  machine
-
-  say
-
-  pole
-
-  famous
-
-  milk
-
-  machine
-
-  purchase'
-bip_39_word_new_line_11: 'common
-
-  sight
-
-  oil
-
-  machine
-
-  say
-
-  pole
-
-  famous
-
-  milk
-
-  machine
-
-  purchase
-
-  enrich'
 bip_39_word_new_line_12: 'common
 
   sight
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'common
   sight
 
   oil'
-bip_39_word_new_line_4: 'common
-
-  sight
-
-  oil
-
-  machine'
-bip_39_word_new_line_5: 'common
-
-  sight
-
-  oil
-
-  machine
-
-  say'
-bip_39_word_new_line_6: 'common
-
-  sight
-
-  oil
-
-  machine
-
-  say
-
-  pole'
-bip_39_word_new_line_7: 'common
-
-  sight
-
-  oil
-
-  machine
-
-  say
-
-  pole
-
-  famous'
-bip_39_word_new_line_8: 'common
-
-  sight
-
-  oil
-
-  machine
-
-  say
-
-  pole
-
-  famous
-
-  milk'
-bip_39_word_new_line_9: 'common
-
-  sight
-
-  oil
-
-  machine
-
-  say
-
-  pole
-
-  famous
-
-  milk
-
-  machine'
-bip_39_word_no_space_1: common
-bip_39_word_no_space_10: commonsightoilmachinesaypolefamousmilkmachinepurchase
-bip_39_word_no_space_11: commonsightoilmachinesaypolefamousmilkmachinepurchaseenrich
 bip_39_word_no_space_12: commonsightoilmachinesaypolefamousmilkmachinepurchaseenrichanchor
 bip_39_word_no_space_2: commonsight
 bip_39_word_no_space_3: commonsightoil
-bip_39_word_no_space_4: commonsightoilmachine
-bip_39_word_no_space_5: commonsightoilmachinesay
-bip_39_word_no_space_6: commonsightoilmachinesaypole
-bip_39_word_no_space_7: commonsightoilmachinesaypolefamous
-bip_39_word_no_space_8: commonsightoilmachinesaypolefamousmilk
-bip_39_word_no_space_9: commonsightoilmachinesaypolefamousmilkmachine
-bip_39_word_space_0:
-- common
-- sight
-- oil
-- machine
-- say
-- pole
-- famous
-- milk
-- machine
-- purchase
-- enrich
-- anchor
-bip_39_word_space_1: common
-bip_39_word_space_10: common sight oil machine say pole famous milk machine purchase
-bip_39_word_space_11: common sight oil machine say pole famous milk machine purchase
-  enrich
 bip_39_word_space_12: common sight oil machine say pole famous milk machine purchase
   enrich anchor
 bip_39_word_space_2: common sight
 bip_39_word_space_3: common sight oil
-bip_39_word_space_4: common sight oil machine
-bip_39_word_space_5: common sight oil machine say
-bip_39_word_space_6: common sight oil machine say pole
-bip_39_word_space_7: common sight oil machine say pole famous
-bip_39_word_space_8: common sight oil machine say pole famous milk
-bip_39_word_space_9: common sight oil machine say pole famous milk machine
-bip_39_word_underscore_1: common
-bip_39_word_underscore_10: common_sight_oil_machine_say_pole_famous_milk_machine_purchase
-bip_39_word_underscore_11: common_sight_oil_machine_say_pole_famous_milk_machine_purchase_enrich
 bip_39_word_underscore_12: common_sight_oil_machine_say_pole_famous_milk_machine_purchase_enrich_anchor
 bip_39_word_underscore_2: common_sight
 bip_39_word_underscore_3: common_sight_oil
-bip_39_word_underscore_4: common_sight_oil_machine
-bip_39_word_underscore_5: common_sight_oil_machine_say
-bip_39_word_underscore_6: common_sight_oil_machine_say_pole
-bip_39_word_underscore_7: common_sight_oil_machine_say_pole_famous
-bip_39_word_underscore_8: common_sight_oil_machine_say_pole_famous_milk
-bip_39_word_underscore_9: common_sight_oil_machine_say_pole_famous_milk_machine
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

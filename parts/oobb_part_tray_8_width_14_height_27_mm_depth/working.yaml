@@ -1,68 +1,9 @@
-bip_39_word_dash_1: monitor
-bip_39_word_dash_10: monitor-jacket-require-lift-vintage-pelican-virus-bamboo-staff-ketchup
-bip_39_word_dash_11: monitor-jacket-require-lift-vintage-pelican-virus-bamboo-staff-ketchup-force
 bip_39_word_dash_12: monitor-jacket-require-lift-vintage-pelican-virus-bamboo-staff-ketchup-force-agent
 bip_39_word_dash_2: monitor-jacket
 bip_39_word_dash_3: monitor-jacket-require
-bip_39_word_dash_4: monitor-jacket-require-lift
-bip_39_word_dash_5: monitor-jacket-require-lift-vintage
-bip_39_word_dash_6: monitor-jacket-require-lift-vintage-pelican
-bip_39_word_dash_7: monitor-jacket-require-lift-vintage-pelican-virus
-bip_39_word_dash_8: monitor-jacket-require-lift-vintage-pelican-virus-bamboo
-bip_39_word_dash_9: monitor-jacket-require-lift-vintage-pelican-virus-bamboo-staff
-bip_39_word_new_br_1: monitor
-bip_39_word_new_br_10: monitor<br>jacket<br>require<br>lift<br>vintage<br>pelican<br>virus<br>bamboo<br>staff<br>ketchup
-bip_39_word_new_br_11: monitor<br>jacket<br>require<br>lift<br>vintage<br>pelican<br>virus<br>bamboo<br>staff<br>ketchup<br>force
 bip_39_word_new_br_12: monitor<br>jacket<br>require<br>lift<br>vintage<br>pelican<br>virus<br>bamboo<br>staff<br>ketchup<br>force<br>agent
 bip_39_word_new_br_2: monitor<br>jacket
 bip_39_word_new_br_3: monitor<br>jacket<br>require
-bip_39_word_new_br_4: monitor<br>jacket<br>require<br>lift
-bip_39_word_new_br_5: monitor<br>jacket<br>require<br>lift<br>vintage
-bip_39_word_new_br_6: monitor<br>jacket<br>require<br>lift<br>vintage<br>pelican
-bip_39_word_new_br_7: monitor<br>jacket<br>require<br>lift<br>vintage<br>pelican<br>virus
-bip_39_word_new_br_8: monitor<br>jacket<br>require<br>lift<br>vintage<br>pelican<br>virus<br>bamboo
-bip_39_word_new_br_9: monitor<br>jacket<br>require<br>lift<br>vintage<br>pelican<br>virus<br>bamboo<br>staff
-bip_39_word_new_line_1: monitor
-bip_39_word_new_line_10: 'monitor
-
-  jacket
-
-  require
-
-  lift
-
-  vintage
-
-  pelican
-
-  virus
-
-  bamboo
-
-  staff
-
-  ketchup'
-bip_39_word_new_line_11: 'monitor
-
-  jacket
-
-  require
-
-  lift
-
-  vintage
-
-  pelican
-
-  virus
-
-  bamboo
-
-  staff
-
-  ketchup
-
-  force'
 bip_39_word_new_line_12: 'monitor
 
   jacket
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'monitor
   jacket
 
   require'
-bip_39_word_new_line_4: 'monitor
-
-  jacket
-
-  require
-
-  lift'
-bip_39_word_new_line_5: 'monitor
-
-  jacket
-
-  require
-
-  lift
-
-  vintage'
-bip_39_word_new_line_6: 'monitor
-
-  jacket
-
-  require
-
-  lift
-
-  vintage
-
-  pelican'
-bip_39_word_new_line_7: 'monitor
-
-  jacket
-
-  require
-
-  lift
-
-  vintage
-
-  pelican
-
-  virus'
-bip_39_word_new_line_8: 'monitor
-
-  jacket
-
-  require
-
-  lift
-
-  vintage
-
-  pelican
-
-  virus
-
-  bamboo'
-bip_39_word_new_line_9: 'monitor
-
-  jacket
-
-  require
-
-  lift
-
-  vintage
-
-  pelican
-
-  virus
-
-  bamboo
-
-  staff'
-bip_39_word_no_space_1: monitor
-bip_39_word_no_space_10: monitorjacketrequireliftvintagepelicanvirusbamboostaffketchup
-bip_39_word_no_space_11: monitorjacketrequireliftvintagepelicanvirusbamboostaffketchupforce
 bip_39_word_no_space_12: monitorjacketrequireliftvintagepelicanvirusbamboostaffketchupforceagent
 bip_39_word_no_space_2: monitorjacket
 bip_39_word_no_space_3: monitorjacketrequire
-bip_39_word_no_space_4: monitorjacketrequirelift
-bip_39_word_no_space_5: monitorjacketrequireliftvintage
-bip_39_word_no_space_6: monitorjacketrequireliftvintagepelican
-bip_39_word_no_space_7: monitorjacketrequireliftvintagepelicanvirus
-bip_39_word_no_space_8: monitorjacketrequireliftvintagepelicanvirusbamboo
-bip_39_word_no_space_9: monitorjacketrequireliftvintagepelicanvirusbamboostaff
-bip_39_word_space_0:
-- monitor
-- jacket
-- require
-- lift
-- vintage
-- pelican
-- virus
-- bamboo
-- staff
-- ketchup
-- force
-- agent
-bip_39_word_space_1: monitor
-bip_39_word_space_10: monitor jacket require lift vintage pelican virus bamboo staff
-  ketchup
-bip_39_word_space_11: monitor jacket require lift vintage pelican virus bamboo staff
-  ketchup force
 bip_39_word_space_12: monitor jacket require lift vintage pelican virus bamboo staff
   ketchup force agent
 bip_39_word_space_2: monitor jacket
 bip_39_word_space_3: monitor jacket require
-bip_39_word_space_4: monitor jacket require lift
-bip_39_word_space_5: monitor jacket require lift vintage
-bip_39_word_space_6: monitor jacket require lift vintage pelican
-bip_39_word_space_7: monitor jacket require lift vintage pelican virus
-bip_39_word_space_8: monitor jacket require lift vintage pelican virus bamboo
-bip_39_word_space_9: monitor jacket require lift vintage pelican virus bamboo staff
-bip_39_word_underscore_1: monitor
-bip_39_word_underscore_10: monitor_jacket_require_lift_vintage_pelican_virus_bamboo_staff_ketchup
-bip_39_word_underscore_11: monitor_jacket_require_lift_vintage_pelican_virus_bamboo_staff_ketchup_force
 bip_39_word_underscore_12: monitor_jacket_require_lift_vintage_pelican_virus_bamboo_staff_ketchup_force_agent
 bip_39_word_underscore_2: monitor_jacket
 bip_39_word_underscore_3: monitor_jacket_require
-bip_39_word_underscore_4: monitor_jacket_require_lift
-bip_39_word_underscore_5: monitor_jacket_require_lift_vintage
-bip_39_word_underscore_6: monitor_jacket_require_lift_vintage_pelican
-bip_39_word_underscore_7: monitor_jacket_require_lift_vintage_pelican_virus
-bip_39_word_underscore_8: monitor_jacket_require_lift_vintage_pelican_virus_bamboo
-bip_39_word_underscore_9: monitor_jacket_require_lift_vintage_pelican_virus_bamboo_staff
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: feed
-bip_39_word_dash_10: feed-inject-awkward-artefact-hair-only-hint-maid-allow-notable
-bip_39_word_dash_11: feed-inject-awkward-artefact-hair-only-hint-maid-allow-notable-library
 bip_39_word_dash_12: feed-inject-awkward-artefact-hair-only-hint-maid-allow-notable-library-answer
 bip_39_word_dash_2: feed-inject
 bip_39_word_dash_3: feed-inject-awkward
-bip_39_word_dash_4: feed-inject-awkward-artefact
-bip_39_word_dash_5: feed-inject-awkward-artefact-hair
-bip_39_word_dash_6: feed-inject-awkward-artefact-hair-only
-bip_39_word_dash_7: feed-inject-awkward-artefact-hair-only-hint
-bip_39_word_dash_8: feed-inject-awkward-artefact-hair-only-hint-maid
-bip_39_word_dash_9: feed-inject-awkward-artefact-hair-only-hint-maid-allow
-bip_39_word_new_br_1: feed
-bip_39_word_new_br_10: feed<br>inject<br>awkward<br>artefact<br>hair<br>only<br>hint<br>maid<br>allow<br>notable
-bip_39_word_new_br_11: feed<br>inject<br>awkward<br>artefact<br>hair<br>only<br>hint<br>maid<br>allow<br>notable<br>library
 bip_39_word_new_br_12: feed<br>inject<br>awkward<br>artefact<br>hair<br>only<br>hint<br>maid<br>allow<br>notable<br>library<br>answer
 bip_39_word_new_br_2: feed<br>inject
 bip_39_word_new_br_3: feed<br>inject<br>awkward
-bip_39_word_new_br_4: feed<br>inject<br>awkward<br>artefact
-bip_39_word_new_br_5: feed<br>inject<br>awkward<br>artefact<br>hair
-bip_39_word_new_br_6: feed<br>inject<br>awkward<br>artefact<br>hair<br>only
-bip_39_word_new_br_7: feed<br>inject<br>awkward<br>artefact<br>hair<br>only<br>hint
-bip_39_word_new_br_8: feed<br>inject<br>awkward<br>artefact<br>hair<br>only<br>hint<br>maid
-bip_39_word_new_br_9: feed<br>inject<br>awkward<br>artefact<br>hair<br>only<br>hint<br>maid<br>allow
-bip_39_word_new_line_1: feed
-bip_39_word_new_line_10: 'feed
-
-  inject
-
-  awkward
-
-  artefact
-
-  hair
-
-  only
-
-  hint
-
-  maid
-
-  allow
-
-  notable'
-bip_39_word_new_line_11: 'feed
-
-  inject
-
-  awkward
-
-  artefact
-
-  hair
-
-  only
-
-  hint
-
-  maid
-
-  allow
-
-  notable
-
-  library'
 bip_39_word_new_line_12: 'feed
 
   inject
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'feed
   inject
 
   awkward'
-bip_39_word_new_line_4: 'feed
-
-  inject
-
-  awkward
-
-  artefact'
-bip_39_word_new_line_5: 'feed
-
-  inject
-
-  awkward
-
-  artefact
-
-  hair'
-bip_39_word_new_line_6: 'feed
-
-  inject
-
-  awkward
-
-  artefact
-
-  hair
-
-  only'
-bip_39_word_new_line_7: 'feed
-
-  inject
-
-  awkward
-
-  artefact
-
-  hair
-
-  only
-
-  hint'
-bip_39_word_new_line_8: 'feed
-
-  inject
-
-  awkward
-
-  artefact
-
-  hair
-
-  only
-
-  hint
-
-  maid'
-bip_39_word_new_line_9: 'feed
-
-  inject
-
-  awkward
-
-  artefact
-
-  hair
-
-  only
-
-  hint
-
-  maid
-
-  allow'
-bip_39_word_no_space_1: feed
-bip_39_word_no_space_10: feedinjectawkwardartefacthaironlyhintmaidallownotable
-bip_39_word_no_space_11: feedinjectawkwardartefacthaironlyhintmaidallownotablelibrary
 bip_39_word_no_space_12: feedinjectawkwardartefacthaironlyhintmaidallownotablelibraryanswer
 bip_39_word_no_space_2: feedinject
 bip_39_word_no_space_3: feedinjectawkward
-bip_39_word_no_space_4: feedinjectawkwardartefact
-bip_39_word_no_space_5: feedinjectawkwardartefacthair
-bip_39_word_no_space_6: feedinjectawkwardartefacthaironly
-bip_39_word_no_space_7: feedinjectawkwardartefacthaironlyhint
-bip_39_word_no_space_8: feedinjectawkwardartefacthaironlyhintmaid
-bip_39_word_no_space_9: feedinjectawkwardartefacthaironlyhintmaidallow
-bip_39_word_space_0:
-- feed
-- inject
-- awkward
-- artefact
-- hair
-- only
-- hint
-- maid
-- allow
-- notable
-- library
-- answer
-bip_39_word_space_1: feed
-bip_39_word_space_10: feed inject awkward artefact hair only hint maid allow notable
-bip_39_word_space_11: feed inject awkward artefact hair only hint maid allow notable
-  library
 bip_39_word_space_12: feed inject awkward artefact hair only hint maid allow notable
   library answer
 bip_39_word_space_2: feed inject
 bip_39_word_space_3: feed inject awkward
-bip_39_word_space_4: feed inject awkward artefact
-bip_39_word_space_5: feed inject awkward artefact hair
-bip_39_word_space_6: feed inject awkward artefact hair only
-bip_39_word_space_7: feed inject awkward artefact hair only hint
-bip_39_word_space_8: feed inject awkward artefact hair only hint maid
-bip_39_word_space_9: feed inject awkward artefact hair only hint maid allow
-bip_39_word_underscore_1: feed
-bip_39_word_underscore_10: feed_inject_awkward_artefact_hair_only_hint_maid_allow_notable
-bip_39_word_underscore_11: feed_inject_awkward_artefact_hair_only_hint_maid_allow_notable_library
 bip_39_word_underscore_12: feed_inject_awkward_artefact_hair_only_hint_maid_allow_notable_library_answer
 bip_39_word_underscore_2: feed_inject
 bip_39_word_underscore_3: feed_inject_awkward
-bip_39_word_underscore_4: feed_inject_awkward_artefact
-bip_39_word_underscore_5: feed_inject_awkward_artefact_hair
-bip_39_word_underscore_6: feed_inject_awkward_artefact_hair_only
-bip_39_word_underscore_7: feed_inject_awkward_artefact_hair_only_hint
-bip_39_word_underscore_8: feed_inject_awkward_artefact_hair_only_hint_maid
-bip_39_word_underscore_9: feed_inject_awkward_artefact_hair_only_hint_maid_allow
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

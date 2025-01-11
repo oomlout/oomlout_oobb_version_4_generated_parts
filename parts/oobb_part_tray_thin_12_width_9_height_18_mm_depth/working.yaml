@@ -1,68 +1,9 @@
-bip_39_word_dash_1: wire
-bip_39_word_dash_10: wire-blood-artefact-denial-mesh-economy-charge-twist-celery-ancient
-bip_39_word_dash_11: wire-blood-artefact-denial-mesh-economy-charge-twist-celery-ancient-snow
 bip_39_word_dash_12: wire-blood-artefact-denial-mesh-economy-charge-twist-celery-ancient-snow-audit
 bip_39_word_dash_2: wire-blood
 bip_39_word_dash_3: wire-blood-artefact
-bip_39_word_dash_4: wire-blood-artefact-denial
-bip_39_word_dash_5: wire-blood-artefact-denial-mesh
-bip_39_word_dash_6: wire-blood-artefact-denial-mesh-economy
-bip_39_word_dash_7: wire-blood-artefact-denial-mesh-economy-charge
-bip_39_word_dash_8: wire-blood-artefact-denial-mesh-economy-charge-twist
-bip_39_word_dash_9: wire-blood-artefact-denial-mesh-economy-charge-twist-celery
-bip_39_word_new_br_1: wire
-bip_39_word_new_br_10: wire<br>blood<br>artefact<br>denial<br>mesh<br>economy<br>charge<br>twist<br>celery<br>ancient
-bip_39_word_new_br_11: wire<br>blood<br>artefact<br>denial<br>mesh<br>economy<br>charge<br>twist<br>celery<br>ancient<br>snow
 bip_39_word_new_br_12: wire<br>blood<br>artefact<br>denial<br>mesh<br>economy<br>charge<br>twist<br>celery<br>ancient<br>snow<br>audit
 bip_39_word_new_br_2: wire<br>blood
 bip_39_word_new_br_3: wire<br>blood<br>artefact
-bip_39_word_new_br_4: wire<br>blood<br>artefact<br>denial
-bip_39_word_new_br_5: wire<br>blood<br>artefact<br>denial<br>mesh
-bip_39_word_new_br_6: wire<br>blood<br>artefact<br>denial<br>mesh<br>economy
-bip_39_word_new_br_7: wire<br>blood<br>artefact<br>denial<br>mesh<br>economy<br>charge
-bip_39_word_new_br_8: wire<br>blood<br>artefact<br>denial<br>mesh<br>economy<br>charge<br>twist
-bip_39_word_new_br_9: wire<br>blood<br>artefact<br>denial<br>mesh<br>economy<br>charge<br>twist<br>celery
-bip_39_word_new_line_1: wire
-bip_39_word_new_line_10: 'wire
-
-  blood
-
-  artefact
-
-  denial
-
-  mesh
-
-  economy
-
-  charge
-
-  twist
-
-  celery
-
-  ancient'
-bip_39_word_new_line_11: 'wire
-
-  blood
-
-  artefact
-
-  denial
-
-  mesh
-
-  economy
-
-  charge
-
-  twist
-
-  celery
-
-  ancient
-
-  snow'
 bip_39_word_new_line_12: 'wire
 
   blood
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'wire
   blood
 
   artefact'
-bip_39_word_new_line_4: 'wire
-
-  blood
-
-  artefact
-
-  denial'
-bip_39_word_new_line_5: 'wire
-
-  blood
-
-  artefact
-
-  denial
-
-  mesh'
-bip_39_word_new_line_6: 'wire
-
-  blood
-
-  artefact
-
-  denial
-
-  mesh
-
-  economy'
-bip_39_word_new_line_7: 'wire
-
-  blood
-
-  artefact
-
-  denial
-
-  mesh
-
-  economy
-
-  charge'
-bip_39_word_new_line_8: 'wire
-
-  blood
-
-  artefact
-
-  denial
-
-  mesh
-
-  economy
-
-  charge
-
-  twist'
-bip_39_word_new_line_9: 'wire
-
-  blood
-
-  artefact
-
-  denial
-
-  mesh
-
-  economy
-
-  charge
-
-  twist
-
-  celery'
-bip_39_word_no_space_1: wire
-bip_39_word_no_space_10: wirebloodartefactdenialmesheconomychargetwistceleryancient
-bip_39_word_no_space_11: wirebloodartefactdenialmesheconomychargetwistceleryancientsnow
 bip_39_word_no_space_12: wirebloodartefactdenialmesheconomychargetwistceleryancientsnowaudit
 bip_39_word_no_space_2: wireblood
 bip_39_word_no_space_3: wirebloodartefact
-bip_39_word_no_space_4: wirebloodartefactdenial
-bip_39_word_no_space_5: wirebloodartefactdenialmesh
-bip_39_word_no_space_6: wirebloodartefactdenialmesheconomy
-bip_39_word_no_space_7: wirebloodartefactdenialmesheconomycharge
-bip_39_word_no_space_8: wirebloodartefactdenialmesheconomychargetwist
-bip_39_word_no_space_9: wirebloodartefactdenialmesheconomychargetwistcelery
-bip_39_word_space_0:
-- wire
-- blood
-- artefact
-- denial
-- mesh
-- economy
-- charge
-- twist
-- celery
-- ancient
-- snow
-- audit
-bip_39_word_space_1: wire
-bip_39_word_space_10: wire blood artefact denial mesh economy charge twist celery
-  ancient
-bip_39_word_space_11: wire blood artefact denial mesh economy charge twist celery
-  ancient snow
 bip_39_word_space_12: wire blood artefact denial mesh economy charge twist celery
   ancient snow audit
 bip_39_word_space_2: wire blood
 bip_39_word_space_3: wire blood artefact
-bip_39_word_space_4: wire blood artefact denial
-bip_39_word_space_5: wire blood artefact denial mesh
-bip_39_word_space_6: wire blood artefact denial mesh economy
-bip_39_word_space_7: wire blood artefact denial mesh economy charge
-bip_39_word_space_8: wire blood artefact denial mesh economy charge twist
-bip_39_word_space_9: wire blood artefact denial mesh economy charge twist celery
-bip_39_word_underscore_1: wire
-bip_39_word_underscore_10: wire_blood_artefact_denial_mesh_economy_charge_twist_celery_ancient
-bip_39_word_underscore_11: wire_blood_artefact_denial_mesh_economy_charge_twist_celery_ancient_snow
 bip_39_word_underscore_12: wire_blood_artefact_denial_mesh_economy_charge_twist_celery_ancient_snow_audit
 bip_39_word_underscore_2: wire_blood
 bip_39_word_underscore_3: wire_blood_artefact
-bip_39_word_underscore_4: wire_blood_artefact_denial
-bip_39_word_underscore_5: wire_blood_artefact_denial_mesh
-bip_39_word_underscore_6: wire_blood_artefact_denial_mesh_economy
-bip_39_word_underscore_7: wire_blood_artefact_denial_mesh_economy_charge
-bip_39_word_underscore_8: wire_blood_artefact_denial_mesh_economy_charge_twist
-bip_39_word_underscore_9: wire_blood_artefact_denial_mesh_economy_charge_twist_celery
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

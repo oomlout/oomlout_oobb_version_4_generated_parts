@@ -1,68 +1,9 @@
-bip_39_word_dash_1: ozone
-bip_39_word_dash_10: ozone-stock-pen-left-salute-village-above-pencil-bacon-couch
-bip_39_word_dash_11: ozone-stock-pen-left-salute-village-above-pencil-bacon-couch-rail
 bip_39_word_dash_12: ozone-stock-pen-left-salute-village-above-pencil-bacon-couch-rail-adapt
 bip_39_word_dash_2: ozone-stock
 bip_39_word_dash_3: ozone-stock-pen
-bip_39_word_dash_4: ozone-stock-pen-left
-bip_39_word_dash_5: ozone-stock-pen-left-salute
-bip_39_word_dash_6: ozone-stock-pen-left-salute-village
-bip_39_word_dash_7: ozone-stock-pen-left-salute-village-above
-bip_39_word_dash_8: ozone-stock-pen-left-salute-village-above-pencil
-bip_39_word_dash_9: ozone-stock-pen-left-salute-village-above-pencil-bacon
-bip_39_word_new_br_1: ozone
-bip_39_word_new_br_10: ozone<br>stock<br>pen<br>left<br>salute<br>village<br>above<br>pencil<br>bacon<br>couch
-bip_39_word_new_br_11: ozone<br>stock<br>pen<br>left<br>salute<br>village<br>above<br>pencil<br>bacon<br>couch<br>rail
 bip_39_word_new_br_12: ozone<br>stock<br>pen<br>left<br>salute<br>village<br>above<br>pencil<br>bacon<br>couch<br>rail<br>adapt
 bip_39_word_new_br_2: ozone<br>stock
 bip_39_word_new_br_3: ozone<br>stock<br>pen
-bip_39_word_new_br_4: ozone<br>stock<br>pen<br>left
-bip_39_word_new_br_5: ozone<br>stock<br>pen<br>left<br>salute
-bip_39_word_new_br_6: ozone<br>stock<br>pen<br>left<br>salute<br>village
-bip_39_word_new_br_7: ozone<br>stock<br>pen<br>left<br>salute<br>village<br>above
-bip_39_word_new_br_8: ozone<br>stock<br>pen<br>left<br>salute<br>village<br>above<br>pencil
-bip_39_word_new_br_9: ozone<br>stock<br>pen<br>left<br>salute<br>village<br>above<br>pencil<br>bacon
-bip_39_word_new_line_1: ozone
-bip_39_word_new_line_10: 'ozone
-
-  stock
-
-  pen
-
-  left
-
-  salute
-
-  village
-
-  above
-
-  pencil
-
-  bacon
-
-  couch'
-bip_39_word_new_line_11: 'ozone
-
-  stock
-
-  pen
-
-  left
-
-  salute
-
-  village
-
-  above
-
-  pencil
-
-  bacon
-
-  couch
-
-  rail'
 bip_39_word_new_line_12: 'ozone
 
   stock
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'ozone
   stock
 
   pen'
-bip_39_word_new_line_4: 'ozone
-
-  stock
-
-  pen
-
-  left'
-bip_39_word_new_line_5: 'ozone
-
-  stock
-
-  pen
-
-  left
-
-  salute'
-bip_39_word_new_line_6: 'ozone
-
-  stock
-
-  pen
-
-  left
-
-  salute
-
-  village'
-bip_39_word_new_line_7: 'ozone
-
-  stock
-
-  pen
-
-  left
-
-  salute
-
-  village
-
-  above'
-bip_39_word_new_line_8: 'ozone
-
-  stock
-
-  pen
-
-  left
-
-  salute
-
-  village
-
-  above
-
-  pencil'
-bip_39_word_new_line_9: 'ozone
-
-  stock
-
-  pen
-
-  left
-
-  salute
-
-  village
-
-  above
-
-  pencil
-
-  bacon'
-bip_39_word_no_space_1: ozone
-bip_39_word_no_space_10: ozonestockpenleftsalutevillageabovepencilbaconcouch
-bip_39_word_no_space_11: ozonestockpenleftsalutevillageabovepencilbaconcouchrail
 bip_39_word_no_space_12: ozonestockpenleftsalutevillageabovepencilbaconcouchrailadapt
 bip_39_word_no_space_2: ozonestock
 bip_39_word_no_space_3: ozonestockpen
-bip_39_word_no_space_4: ozonestockpenleft
-bip_39_word_no_space_5: ozonestockpenleftsalute
-bip_39_word_no_space_6: ozonestockpenleftsalutevillage
-bip_39_word_no_space_7: ozonestockpenleftsalutevillageabove
-bip_39_word_no_space_8: ozonestockpenleftsalutevillageabovepencil
-bip_39_word_no_space_9: ozonestockpenleftsalutevillageabovepencilbacon
-bip_39_word_space_0:
-- ozone
-- stock
-- pen
-- left
-- salute
-- village
-- above
-- pencil
-- bacon
-- couch
-- rail
-- adapt
-bip_39_word_space_1: ozone
-bip_39_word_space_10: ozone stock pen left salute village above pencil bacon couch
-bip_39_word_space_11: ozone stock pen left salute village above pencil bacon couch
-  rail
 bip_39_word_space_12: ozone stock pen left salute village above pencil bacon couch
   rail adapt
 bip_39_word_space_2: ozone stock
 bip_39_word_space_3: ozone stock pen
-bip_39_word_space_4: ozone stock pen left
-bip_39_word_space_5: ozone stock pen left salute
-bip_39_word_space_6: ozone stock pen left salute village
-bip_39_word_space_7: ozone stock pen left salute village above
-bip_39_word_space_8: ozone stock pen left salute village above pencil
-bip_39_word_space_9: ozone stock pen left salute village above pencil bacon
-bip_39_word_underscore_1: ozone
-bip_39_word_underscore_10: ozone_stock_pen_left_salute_village_above_pencil_bacon_couch
-bip_39_word_underscore_11: ozone_stock_pen_left_salute_village_above_pencil_bacon_couch_rail
 bip_39_word_underscore_12: ozone_stock_pen_left_salute_village_above_pencil_bacon_couch_rail_adapt
 bip_39_word_underscore_2: ozone_stock
 bip_39_word_underscore_3: ozone_stock_pen
-bip_39_word_underscore_4: ozone_stock_pen_left
-bip_39_word_underscore_5: ozone_stock_pen_left_salute
-bip_39_word_underscore_6: ozone_stock_pen_left_salute_village
-bip_39_word_underscore_7: ozone_stock_pen_left_salute_village_above
-bip_39_word_underscore_8: ozone_stock_pen_left_salute_village_above_pencil
-bip_39_word_underscore_9: ozone_stock_pen_left_salute_village_above_pencil_bacon
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: model
-bip_39_word_dash_10: model-element-hurry-kite-despair-wedding-embody-donor-sand-cruel
-bip_39_word_dash_11: model-element-hurry-kite-despair-wedding-embody-donor-sand-cruel-pilot
 bip_39_word_dash_12: model-element-hurry-kite-despair-wedding-embody-donor-sand-cruel-pilot-average
 bip_39_word_dash_2: model-element
 bip_39_word_dash_3: model-element-hurry
-bip_39_word_dash_4: model-element-hurry-kite
-bip_39_word_dash_5: model-element-hurry-kite-despair
-bip_39_word_dash_6: model-element-hurry-kite-despair-wedding
-bip_39_word_dash_7: model-element-hurry-kite-despair-wedding-embody
-bip_39_word_dash_8: model-element-hurry-kite-despair-wedding-embody-donor
-bip_39_word_dash_9: model-element-hurry-kite-despair-wedding-embody-donor-sand
-bip_39_word_new_br_1: model
-bip_39_word_new_br_10: model<br>element<br>hurry<br>kite<br>despair<br>wedding<br>embody<br>donor<br>sand<br>cruel
-bip_39_word_new_br_11: model<br>element<br>hurry<br>kite<br>despair<br>wedding<br>embody<br>donor<br>sand<br>cruel<br>pilot
 bip_39_word_new_br_12: model<br>element<br>hurry<br>kite<br>despair<br>wedding<br>embody<br>donor<br>sand<br>cruel<br>pilot<br>average
 bip_39_word_new_br_2: model<br>element
 bip_39_word_new_br_3: model<br>element<br>hurry
-bip_39_word_new_br_4: model<br>element<br>hurry<br>kite
-bip_39_word_new_br_5: model<br>element<br>hurry<br>kite<br>despair
-bip_39_word_new_br_6: model<br>element<br>hurry<br>kite<br>despair<br>wedding
-bip_39_word_new_br_7: model<br>element<br>hurry<br>kite<br>despair<br>wedding<br>embody
-bip_39_word_new_br_8: model<br>element<br>hurry<br>kite<br>despair<br>wedding<br>embody<br>donor
-bip_39_word_new_br_9: model<br>element<br>hurry<br>kite<br>despair<br>wedding<br>embody<br>donor<br>sand
-bip_39_word_new_line_1: model
-bip_39_word_new_line_10: 'model
-
-  element
-
-  hurry
-
-  kite
-
-  despair
-
-  wedding
-
-  embody
-
-  donor
-
-  sand
-
-  cruel'
-bip_39_word_new_line_11: 'model
-
-  element
-
-  hurry
-
-  kite
-
-  despair
-
-  wedding
-
-  embody
-
-  donor
-
-  sand
-
-  cruel
-
-  pilot'
 bip_39_word_new_line_12: 'model
 
   element
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'model
   element
 
   hurry'
-bip_39_word_new_line_4: 'model
-
-  element
-
-  hurry
-
-  kite'
-bip_39_word_new_line_5: 'model
-
-  element
-
-  hurry
-
-  kite
-
-  despair'
-bip_39_word_new_line_6: 'model
-
-  element
-
-  hurry
-
-  kite
-
-  despair
-
-  wedding'
-bip_39_word_new_line_7: 'model
-
-  element
-
-  hurry
-
-  kite
-
-  despair
-
-  wedding
-
-  embody'
-bip_39_word_new_line_8: 'model
-
-  element
-
-  hurry
-
-  kite
-
-  despair
-
-  wedding
-
-  embody
-
-  donor'
-bip_39_word_new_line_9: 'model
-
-  element
-
-  hurry
-
-  kite
-
-  despair
-
-  wedding
-
-  embody
-
-  donor
-
-  sand'
-bip_39_word_no_space_1: model
-bip_39_word_no_space_10: modelelementhurrykitedespairweddingembodydonorsandcruel
-bip_39_word_no_space_11: modelelementhurrykitedespairweddingembodydonorsandcruelpilot
 bip_39_word_no_space_12: modelelementhurrykitedespairweddingembodydonorsandcruelpilotaverage
 bip_39_word_no_space_2: modelelement
 bip_39_word_no_space_3: modelelementhurry
-bip_39_word_no_space_4: modelelementhurrykite
-bip_39_word_no_space_5: modelelementhurrykitedespair
-bip_39_word_no_space_6: modelelementhurrykitedespairwedding
-bip_39_word_no_space_7: modelelementhurrykitedespairweddingembody
-bip_39_word_no_space_8: modelelementhurrykitedespairweddingembodydonor
-bip_39_word_no_space_9: modelelementhurrykitedespairweddingembodydonorsand
-bip_39_word_space_0:
-- model
-- element
-- hurry
-- kite
-- despair
-- wedding
-- embody
-- donor
-- sand
-- cruel
-- pilot
-- average
-bip_39_word_space_1: model
-bip_39_word_space_10: model element hurry kite despair wedding embody donor sand cruel
-bip_39_word_space_11: model element hurry kite despair wedding embody donor sand cruel
-  pilot
 bip_39_word_space_12: model element hurry kite despair wedding embody donor sand cruel
   pilot average
 bip_39_word_space_2: model element
 bip_39_word_space_3: model element hurry
-bip_39_word_space_4: model element hurry kite
-bip_39_word_space_5: model element hurry kite despair
-bip_39_word_space_6: model element hurry kite despair wedding
-bip_39_word_space_7: model element hurry kite despair wedding embody
-bip_39_word_space_8: model element hurry kite despair wedding embody donor
-bip_39_word_space_9: model element hurry kite despair wedding embody donor sand
-bip_39_word_underscore_1: model
-bip_39_word_underscore_10: model_element_hurry_kite_despair_wedding_embody_donor_sand_cruel
-bip_39_word_underscore_11: model_element_hurry_kite_despair_wedding_embody_donor_sand_cruel_pilot
 bip_39_word_underscore_12: model_element_hurry_kite_despair_wedding_embody_donor_sand_cruel_pilot_average
 bip_39_word_underscore_2: model_element
 bip_39_word_underscore_3: model_element_hurry
-bip_39_word_underscore_4: model_element_hurry_kite
-bip_39_word_underscore_5: model_element_hurry_kite_despair
-bip_39_word_underscore_6: model_element_hurry_kite_despair_wedding
-bip_39_word_underscore_7: model_element_hurry_kite_despair_wedding_embody
-bip_39_word_underscore_8: model_element_hurry_kite_despair_wedding_embody_donor
-bip_39_word_underscore_9: model_element_hurry_kite_despair_wedding_embody_donor_sand
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

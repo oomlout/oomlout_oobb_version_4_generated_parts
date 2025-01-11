@@ -1,68 +1,9 @@
-bip_39_word_dash_1: upgrade
-bip_39_word_dash_10: upgrade-original-way-behind-crew-turn-tag-staff-spin-ride
-bip_39_word_dash_11: upgrade-original-way-behind-crew-turn-tag-staff-spin-ride-warfare
 bip_39_word_dash_12: upgrade-original-way-behind-crew-turn-tag-staff-spin-ride-warfare-asset
 bip_39_word_dash_2: upgrade-original
 bip_39_word_dash_3: upgrade-original-way
-bip_39_word_dash_4: upgrade-original-way-behind
-bip_39_word_dash_5: upgrade-original-way-behind-crew
-bip_39_word_dash_6: upgrade-original-way-behind-crew-turn
-bip_39_word_dash_7: upgrade-original-way-behind-crew-turn-tag
-bip_39_word_dash_8: upgrade-original-way-behind-crew-turn-tag-staff
-bip_39_word_dash_9: upgrade-original-way-behind-crew-turn-tag-staff-spin
-bip_39_word_new_br_1: upgrade
-bip_39_word_new_br_10: upgrade<br>original<br>way<br>behind<br>crew<br>turn<br>tag<br>staff<br>spin<br>ride
-bip_39_word_new_br_11: upgrade<br>original<br>way<br>behind<br>crew<br>turn<br>tag<br>staff<br>spin<br>ride<br>warfare
 bip_39_word_new_br_12: upgrade<br>original<br>way<br>behind<br>crew<br>turn<br>tag<br>staff<br>spin<br>ride<br>warfare<br>asset
 bip_39_word_new_br_2: upgrade<br>original
 bip_39_word_new_br_3: upgrade<br>original<br>way
-bip_39_word_new_br_4: upgrade<br>original<br>way<br>behind
-bip_39_word_new_br_5: upgrade<br>original<br>way<br>behind<br>crew
-bip_39_word_new_br_6: upgrade<br>original<br>way<br>behind<br>crew<br>turn
-bip_39_word_new_br_7: upgrade<br>original<br>way<br>behind<br>crew<br>turn<br>tag
-bip_39_word_new_br_8: upgrade<br>original<br>way<br>behind<br>crew<br>turn<br>tag<br>staff
-bip_39_word_new_br_9: upgrade<br>original<br>way<br>behind<br>crew<br>turn<br>tag<br>staff<br>spin
-bip_39_word_new_line_1: upgrade
-bip_39_word_new_line_10: 'upgrade
-
-  original
-
-  way
-
-  behind
-
-  crew
-
-  turn
-
-  tag
-
-  staff
-
-  spin
-
-  ride'
-bip_39_word_new_line_11: 'upgrade
-
-  original
-
-  way
-
-  behind
-
-  crew
-
-  turn
-
-  tag
-
-  staff
-
-  spin
-
-  ride
-
-  warfare'
 bip_39_word_new_line_12: 'upgrade
 
   original
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'upgrade
   original
 
   way'
-bip_39_word_new_line_4: 'upgrade
-
-  original
-
-  way
-
-  behind'
-bip_39_word_new_line_5: 'upgrade
-
-  original
-
-  way
-
-  behind
-
-  crew'
-bip_39_word_new_line_6: 'upgrade
-
-  original
-
-  way
-
-  behind
-
-  crew
-
-  turn'
-bip_39_word_new_line_7: 'upgrade
-
-  original
-
-  way
-
-  behind
-
-  crew
-
-  turn
-
-  tag'
-bip_39_word_new_line_8: 'upgrade
-
-  original
-
-  way
-
-  behind
-
-  crew
-
-  turn
-
-  tag
-
-  staff'
-bip_39_word_new_line_9: 'upgrade
-
-  original
-
-  way
-
-  behind
-
-  crew
-
-  turn
-
-  tag
-
-  staff
-
-  spin'
-bip_39_word_no_space_1: upgrade
-bip_39_word_no_space_10: upgradeoriginalwaybehindcrewturntagstaffspinride
-bip_39_word_no_space_11: upgradeoriginalwaybehindcrewturntagstaffspinridewarfare
 bip_39_word_no_space_12: upgradeoriginalwaybehindcrewturntagstaffspinridewarfareasset
 bip_39_word_no_space_2: upgradeoriginal
 bip_39_word_no_space_3: upgradeoriginalway
-bip_39_word_no_space_4: upgradeoriginalwaybehind
-bip_39_word_no_space_5: upgradeoriginalwaybehindcrew
-bip_39_word_no_space_6: upgradeoriginalwaybehindcrewturn
-bip_39_word_no_space_7: upgradeoriginalwaybehindcrewturntag
-bip_39_word_no_space_8: upgradeoriginalwaybehindcrewturntagstaff
-bip_39_word_no_space_9: upgradeoriginalwaybehindcrewturntagstaffspin
-bip_39_word_space_0:
-- upgrade
-- original
-- way
-- behind
-- crew
-- turn
-- tag
-- staff
-- spin
-- ride
-- warfare
-- asset
-bip_39_word_space_1: upgrade
-bip_39_word_space_10: upgrade original way behind crew turn tag staff spin ride
-bip_39_word_space_11: upgrade original way behind crew turn tag staff spin ride warfare
 bip_39_word_space_12: upgrade original way behind crew turn tag staff spin ride warfare
   asset
 bip_39_word_space_2: upgrade original
 bip_39_word_space_3: upgrade original way
-bip_39_word_space_4: upgrade original way behind
-bip_39_word_space_5: upgrade original way behind crew
-bip_39_word_space_6: upgrade original way behind crew turn
-bip_39_word_space_7: upgrade original way behind crew turn tag
-bip_39_word_space_8: upgrade original way behind crew turn tag staff
-bip_39_word_space_9: upgrade original way behind crew turn tag staff spin
-bip_39_word_underscore_1: upgrade
-bip_39_word_underscore_10: upgrade_original_way_behind_crew_turn_tag_staff_spin_ride
-bip_39_word_underscore_11: upgrade_original_way_behind_crew_turn_tag_staff_spin_ride_warfare
 bip_39_word_underscore_12: upgrade_original_way_behind_crew_turn_tag_staff_spin_ride_warfare_asset
 bip_39_word_underscore_2: upgrade_original
 bip_39_word_underscore_3: upgrade_original_way
-bip_39_word_underscore_4: upgrade_original_way_behind
-bip_39_word_underscore_5: upgrade_original_way_behind_crew
-bip_39_word_underscore_6: upgrade_original_way_behind_crew_turn
-bip_39_word_underscore_7: upgrade_original_way_behind_crew_turn_tag
-bip_39_word_underscore_8: upgrade_original_way_behind_crew_turn_tag_staff
-bip_39_word_underscore_9: upgrade_original_way_behind_crew_turn_tag_staff_spin
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

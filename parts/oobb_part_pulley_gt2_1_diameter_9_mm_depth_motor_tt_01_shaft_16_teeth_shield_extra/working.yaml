@@ -1,68 +1,9 @@
-bip_39_word_dash_1: fuel
-bip_39_word_dash_10: fuel-purpose-unusual-vanish-rough-exhaust-rival-cliff-cake-state
-bip_39_word_dash_11: fuel-purpose-unusual-vanish-rough-exhaust-rival-cliff-cake-state-raccoon
 bip_39_word_dash_12: fuel-purpose-unusual-vanish-rough-exhaust-rival-cliff-cake-state-raccoon-add
 bip_39_word_dash_2: fuel-purpose
 bip_39_word_dash_3: fuel-purpose-unusual
-bip_39_word_dash_4: fuel-purpose-unusual-vanish
-bip_39_word_dash_5: fuel-purpose-unusual-vanish-rough
-bip_39_word_dash_6: fuel-purpose-unusual-vanish-rough-exhaust
-bip_39_word_dash_7: fuel-purpose-unusual-vanish-rough-exhaust-rival
-bip_39_word_dash_8: fuel-purpose-unusual-vanish-rough-exhaust-rival-cliff
-bip_39_word_dash_9: fuel-purpose-unusual-vanish-rough-exhaust-rival-cliff-cake
-bip_39_word_new_br_1: fuel
-bip_39_word_new_br_10: fuel<br>purpose<br>unusual<br>vanish<br>rough<br>exhaust<br>rival<br>cliff<br>cake<br>state
-bip_39_word_new_br_11: fuel<br>purpose<br>unusual<br>vanish<br>rough<br>exhaust<br>rival<br>cliff<br>cake<br>state<br>raccoon
 bip_39_word_new_br_12: fuel<br>purpose<br>unusual<br>vanish<br>rough<br>exhaust<br>rival<br>cliff<br>cake<br>state<br>raccoon<br>add
 bip_39_word_new_br_2: fuel<br>purpose
 bip_39_word_new_br_3: fuel<br>purpose<br>unusual
-bip_39_word_new_br_4: fuel<br>purpose<br>unusual<br>vanish
-bip_39_word_new_br_5: fuel<br>purpose<br>unusual<br>vanish<br>rough
-bip_39_word_new_br_6: fuel<br>purpose<br>unusual<br>vanish<br>rough<br>exhaust
-bip_39_word_new_br_7: fuel<br>purpose<br>unusual<br>vanish<br>rough<br>exhaust<br>rival
-bip_39_word_new_br_8: fuel<br>purpose<br>unusual<br>vanish<br>rough<br>exhaust<br>rival<br>cliff
-bip_39_word_new_br_9: fuel<br>purpose<br>unusual<br>vanish<br>rough<br>exhaust<br>rival<br>cliff<br>cake
-bip_39_word_new_line_1: fuel
-bip_39_word_new_line_10: 'fuel
-
-  purpose
-
-  unusual
-
-  vanish
-
-  rough
-
-  exhaust
-
-  rival
-
-  cliff
-
-  cake
-
-  state'
-bip_39_word_new_line_11: 'fuel
-
-  purpose
-
-  unusual
-
-  vanish
-
-  rough
-
-  exhaust
-
-  rival
-
-  cliff
-
-  cake
-
-  state
-
-  raccoon'
 bip_39_word_new_line_12: 'fuel
 
   purpose
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'fuel
   purpose
 
   unusual'
-bip_39_word_new_line_4: 'fuel
-
-  purpose
-
-  unusual
-
-  vanish'
-bip_39_word_new_line_5: 'fuel
-
-  purpose
-
-  unusual
-
-  vanish
-
-  rough'
-bip_39_word_new_line_6: 'fuel
-
-  purpose
-
-  unusual
-
-  vanish
-
-  rough
-
-  exhaust'
-bip_39_word_new_line_7: 'fuel
-
-  purpose
-
-  unusual
-
-  vanish
-
-  rough
-
-  exhaust
-
-  rival'
-bip_39_word_new_line_8: 'fuel
-
-  purpose
-
-  unusual
-
-  vanish
-
-  rough
-
-  exhaust
-
-  rival
-
-  cliff'
-bip_39_word_new_line_9: 'fuel
-
-  purpose
-
-  unusual
-
-  vanish
-
-  rough
-
-  exhaust
-
-  rival
-
-  cliff
-
-  cake'
-bip_39_word_no_space_1: fuel
-bip_39_word_no_space_10: fuelpurposeunusualvanishroughexhaustrivalcliffcakestate
-bip_39_word_no_space_11: fuelpurposeunusualvanishroughexhaustrivalcliffcakestateraccoon
 bip_39_word_no_space_12: fuelpurposeunusualvanishroughexhaustrivalcliffcakestateraccoonadd
 bip_39_word_no_space_2: fuelpurpose
 bip_39_word_no_space_3: fuelpurposeunusual
-bip_39_word_no_space_4: fuelpurposeunusualvanish
-bip_39_word_no_space_5: fuelpurposeunusualvanishrough
-bip_39_word_no_space_6: fuelpurposeunusualvanishroughexhaust
-bip_39_word_no_space_7: fuelpurposeunusualvanishroughexhaustrival
-bip_39_word_no_space_8: fuelpurposeunusualvanishroughexhaustrivalcliff
-bip_39_word_no_space_9: fuelpurposeunusualvanishroughexhaustrivalcliffcake
-bip_39_word_space_0:
-- fuel
-- purpose
-- unusual
-- vanish
-- rough
-- exhaust
-- rival
-- cliff
-- cake
-- state
-- raccoon
-- add
-bip_39_word_space_1: fuel
-bip_39_word_space_10: fuel purpose unusual vanish rough exhaust rival cliff cake state
-bip_39_word_space_11: fuel purpose unusual vanish rough exhaust rival cliff cake state
-  raccoon
 bip_39_word_space_12: fuel purpose unusual vanish rough exhaust rival cliff cake state
   raccoon add
 bip_39_word_space_2: fuel purpose
 bip_39_word_space_3: fuel purpose unusual
-bip_39_word_space_4: fuel purpose unusual vanish
-bip_39_word_space_5: fuel purpose unusual vanish rough
-bip_39_word_space_6: fuel purpose unusual vanish rough exhaust
-bip_39_word_space_7: fuel purpose unusual vanish rough exhaust rival
-bip_39_word_space_8: fuel purpose unusual vanish rough exhaust rival cliff
-bip_39_word_space_9: fuel purpose unusual vanish rough exhaust rival cliff cake
-bip_39_word_underscore_1: fuel
-bip_39_word_underscore_10: fuel_purpose_unusual_vanish_rough_exhaust_rival_cliff_cake_state
-bip_39_word_underscore_11: fuel_purpose_unusual_vanish_rough_exhaust_rival_cliff_cake_state_raccoon
 bip_39_word_underscore_12: fuel_purpose_unusual_vanish_rough_exhaust_rival_cliff_cake_state_raccoon_add
 bip_39_word_underscore_2: fuel_purpose
 bip_39_word_underscore_3: fuel_purpose_unusual
-bip_39_word_underscore_4: fuel_purpose_unusual_vanish
-bip_39_word_underscore_5: fuel_purpose_unusual_vanish_rough
-bip_39_word_underscore_6: fuel_purpose_unusual_vanish_rough_exhaust
-bip_39_word_underscore_7: fuel_purpose_unusual_vanish_rough_exhaust_rival
-bip_39_word_underscore_8: fuel_purpose_unusual_vanish_rough_exhaust_rival_cliff
-bip_39_word_underscore_9: fuel_purpose_unusual_vanish_rough_exhaust_rival_cliff_cake
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

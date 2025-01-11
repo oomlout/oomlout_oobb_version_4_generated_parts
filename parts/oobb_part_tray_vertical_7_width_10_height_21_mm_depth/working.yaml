@@ -1,68 +1,9 @@
-bip_39_word_dash_1: quiz
-bip_39_word_dash_10: quiz-upgrade-unlock-rack-dust-strike-crystal-pass-quantum-cupboard
-bip_39_word_dash_11: quiz-upgrade-unlock-rack-dust-strike-crystal-pass-quantum-cupboard-perfect
 bip_39_word_dash_12: quiz-upgrade-unlock-rack-dust-strike-crystal-pass-quantum-cupboard-perfect-attend
 bip_39_word_dash_2: quiz-upgrade
 bip_39_word_dash_3: quiz-upgrade-unlock
-bip_39_word_dash_4: quiz-upgrade-unlock-rack
-bip_39_word_dash_5: quiz-upgrade-unlock-rack-dust
-bip_39_word_dash_6: quiz-upgrade-unlock-rack-dust-strike
-bip_39_word_dash_7: quiz-upgrade-unlock-rack-dust-strike-crystal
-bip_39_word_dash_8: quiz-upgrade-unlock-rack-dust-strike-crystal-pass
-bip_39_word_dash_9: quiz-upgrade-unlock-rack-dust-strike-crystal-pass-quantum
-bip_39_word_new_br_1: quiz
-bip_39_word_new_br_10: quiz<br>upgrade<br>unlock<br>rack<br>dust<br>strike<br>crystal<br>pass<br>quantum<br>cupboard
-bip_39_word_new_br_11: quiz<br>upgrade<br>unlock<br>rack<br>dust<br>strike<br>crystal<br>pass<br>quantum<br>cupboard<br>perfect
 bip_39_word_new_br_12: quiz<br>upgrade<br>unlock<br>rack<br>dust<br>strike<br>crystal<br>pass<br>quantum<br>cupboard<br>perfect<br>attend
 bip_39_word_new_br_2: quiz<br>upgrade
 bip_39_word_new_br_3: quiz<br>upgrade<br>unlock
-bip_39_word_new_br_4: quiz<br>upgrade<br>unlock<br>rack
-bip_39_word_new_br_5: quiz<br>upgrade<br>unlock<br>rack<br>dust
-bip_39_word_new_br_6: quiz<br>upgrade<br>unlock<br>rack<br>dust<br>strike
-bip_39_word_new_br_7: quiz<br>upgrade<br>unlock<br>rack<br>dust<br>strike<br>crystal
-bip_39_word_new_br_8: quiz<br>upgrade<br>unlock<br>rack<br>dust<br>strike<br>crystal<br>pass
-bip_39_word_new_br_9: quiz<br>upgrade<br>unlock<br>rack<br>dust<br>strike<br>crystal<br>pass<br>quantum
-bip_39_word_new_line_1: quiz
-bip_39_word_new_line_10: 'quiz
-
-  upgrade
-
-  unlock
-
-  rack
-
-  dust
-
-  strike
-
-  crystal
-
-  pass
-
-  quantum
-
-  cupboard'
-bip_39_word_new_line_11: 'quiz
-
-  upgrade
-
-  unlock
-
-  rack
-
-  dust
-
-  strike
-
-  crystal
-
-  pass
-
-  quantum
-
-  cupboard
-
-  perfect'
 bip_39_word_new_line_12: 'quiz
 
   upgrade
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'quiz
   upgrade
 
   unlock'
-bip_39_word_new_line_4: 'quiz
-
-  upgrade
-
-  unlock
-
-  rack'
-bip_39_word_new_line_5: 'quiz
-
-  upgrade
-
-  unlock
-
-  rack
-
-  dust'
-bip_39_word_new_line_6: 'quiz
-
-  upgrade
-
-  unlock
-
-  rack
-
-  dust
-
-  strike'
-bip_39_word_new_line_7: 'quiz
-
-  upgrade
-
-  unlock
-
-  rack
-
-  dust
-
-  strike
-
-  crystal'
-bip_39_word_new_line_8: 'quiz
-
-  upgrade
-
-  unlock
-
-  rack
-
-  dust
-
-  strike
-
-  crystal
-
-  pass'
-bip_39_word_new_line_9: 'quiz
-
-  upgrade
-
-  unlock
-
-  rack
-
-  dust
-
-  strike
-
-  crystal
-
-  pass
-
-  quantum'
-bip_39_word_no_space_1: quiz
-bip_39_word_no_space_10: quizupgradeunlockrackduststrikecrystalpassquantumcupboard
-bip_39_word_no_space_11: quizupgradeunlockrackduststrikecrystalpassquantumcupboardperfect
 bip_39_word_no_space_12: quizupgradeunlockrackduststrikecrystalpassquantumcupboardperfectattend
 bip_39_word_no_space_2: quizupgrade
 bip_39_word_no_space_3: quizupgradeunlock
-bip_39_word_no_space_4: quizupgradeunlockrack
-bip_39_word_no_space_5: quizupgradeunlockrackdust
-bip_39_word_no_space_6: quizupgradeunlockrackduststrike
-bip_39_word_no_space_7: quizupgradeunlockrackduststrikecrystal
-bip_39_word_no_space_8: quizupgradeunlockrackduststrikecrystalpass
-bip_39_word_no_space_9: quizupgradeunlockrackduststrikecrystalpassquantum
-bip_39_word_space_0:
-- quiz
-- upgrade
-- unlock
-- rack
-- dust
-- strike
-- crystal
-- pass
-- quantum
-- cupboard
-- perfect
-- attend
-bip_39_word_space_1: quiz
-bip_39_word_space_10: quiz upgrade unlock rack dust strike crystal pass quantum cupboard
-bip_39_word_space_11: quiz upgrade unlock rack dust strike crystal pass quantum cupboard
-  perfect
 bip_39_word_space_12: quiz upgrade unlock rack dust strike crystal pass quantum cupboard
   perfect attend
 bip_39_word_space_2: quiz upgrade
 bip_39_word_space_3: quiz upgrade unlock
-bip_39_word_space_4: quiz upgrade unlock rack
-bip_39_word_space_5: quiz upgrade unlock rack dust
-bip_39_word_space_6: quiz upgrade unlock rack dust strike
-bip_39_word_space_7: quiz upgrade unlock rack dust strike crystal
-bip_39_word_space_8: quiz upgrade unlock rack dust strike crystal pass
-bip_39_word_space_9: quiz upgrade unlock rack dust strike crystal pass quantum
-bip_39_word_underscore_1: quiz
-bip_39_word_underscore_10: quiz_upgrade_unlock_rack_dust_strike_crystal_pass_quantum_cupboard
-bip_39_word_underscore_11: quiz_upgrade_unlock_rack_dust_strike_crystal_pass_quantum_cupboard_perfect
 bip_39_word_underscore_12: quiz_upgrade_unlock_rack_dust_strike_crystal_pass_quantum_cupboard_perfect_attend
 bip_39_word_underscore_2: quiz_upgrade
 bip_39_word_underscore_3: quiz_upgrade_unlock
-bip_39_word_underscore_4: quiz_upgrade_unlock_rack
-bip_39_word_underscore_5: quiz_upgrade_unlock_rack_dust
-bip_39_word_underscore_6: quiz_upgrade_unlock_rack_dust_strike
-bip_39_word_underscore_7: quiz_upgrade_unlock_rack_dust_strike_crystal
-bip_39_word_underscore_8: quiz_upgrade_unlock_rack_dust_strike_crystal_pass
-bip_39_word_underscore_9: quiz_upgrade_unlock_rack_dust_strike_crystal_pass_quantum
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

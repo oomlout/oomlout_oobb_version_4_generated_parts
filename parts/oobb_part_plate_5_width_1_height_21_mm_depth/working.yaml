@@ -1,68 +1,9 @@
-bip_39_word_dash_1: flame
-bip_39_word_dash_10: flame-echo-state-view-amount-opera-whisper-dwarf-brand-coral
-bip_39_word_dash_11: flame-echo-state-view-amount-opera-whisper-dwarf-brand-coral-oblige
 bip_39_word_dash_12: flame-echo-state-view-amount-opera-whisper-dwarf-brand-coral-oblige-artist
 bip_39_word_dash_2: flame-echo
 bip_39_word_dash_3: flame-echo-state
-bip_39_word_dash_4: flame-echo-state-view
-bip_39_word_dash_5: flame-echo-state-view-amount
-bip_39_word_dash_6: flame-echo-state-view-amount-opera
-bip_39_word_dash_7: flame-echo-state-view-amount-opera-whisper
-bip_39_word_dash_8: flame-echo-state-view-amount-opera-whisper-dwarf
-bip_39_word_dash_9: flame-echo-state-view-amount-opera-whisper-dwarf-brand
-bip_39_word_new_br_1: flame
-bip_39_word_new_br_10: flame<br>echo<br>state<br>view<br>amount<br>opera<br>whisper<br>dwarf<br>brand<br>coral
-bip_39_word_new_br_11: flame<br>echo<br>state<br>view<br>amount<br>opera<br>whisper<br>dwarf<br>brand<br>coral<br>oblige
 bip_39_word_new_br_12: flame<br>echo<br>state<br>view<br>amount<br>opera<br>whisper<br>dwarf<br>brand<br>coral<br>oblige<br>artist
 bip_39_word_new_br_2: flame<br>echo
 bip_39_word_new_br_3: flame<br>echo<br>state
-bip_39_word_new_br_4: flame<br>echo<br>state<br>view
-bip_39_word_new_br_5: flame<br>echo<br>state<br>view<br>amount
-bip_39_word_new_br_6: flame<br>echo<br>state<br>view<br>amount<br>opera
-bip_39_word_new_br_7: flame<br>echo<br>state<br>view<br>amount<br>opera<br>whisper
-bip_39_word_new_br_8: flame<br>echo<br>state<br>view<br>amount<br>opera<br>whisper<br>dwarf
-bip_39_word_new_br_9: flame<br>echo<br>state<br>view<br>amount<br>opera<br>whisper<br>dwarf<br>brand
-bip_39_word_new_line_1: flame
-bip_39_word_new_line_10: 'flame
-
-  echo
-
-  state
-
-  view
-
-  amount
-
-  opera
-
-  whisper
-
-  dwarf
-
-  brand
-
-  coral'
-bip_39_word_new_line_11: 'flame
-
-  echo
-
-  state
-
-  view
-
-  amount
-
-  opera
-
-  whisper
-
-  dwarf
-
-  brand
-
-  coral
-
-  oblige'
 bip_39_word_new_line_12: 'flame
 
   echo
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'flame
   echo
 
   state'
-bip_39_word_new_line_4: 'flame
-
-  echo
-
-  state
-
-  view'
-bip_39_word_new_line_5: 'flame
-
-  echo
-
-  state
-
-  view
-
-  amount'
-bip_39_word_new_line_6: 'flame
-
-  echo
-
-  state
-
-  view
-
-  amount
-
-  opera'
-bip_39_word_new_line_7: 'flame
-
-  echo
-
-  state
-
-  view
-
-  amount
-
-  opera
-
-  whisper'
-bip_39_word_new_line_8: 'flame
-
-  echo
-
-  state
-
-  view
-
-  amount
-
-  opera
-
-  whisper
-
-  dwarf'
-bip_39_word_new_line_9: 'flame
-
-  echo
-
-  state
-
-  view
-
-  amount
-
-  opera
-
-  whisper
-
-  dwarf
-
-  brand'
-bip_39_word_no_space_1: flame
-bip_39_word_no_space_10: flameechostateviewamountoperawhisperdwarfbrandcoral
-bip_39_word_no_space_11: flameechostateviewamountoperawhisperdwarfbrandcoraloblige
 bip_39_word_no_space_12: flameechostateviewamountoperawhisperdwarfbrandcoralobligeartist
 bip_39_word_no_space_2: flameecho
 bip_39_word_no_space_3: flameechostate
-bip_39_word_no_space_4: flameechostateview
-bip_39_word_no_space_5: flameechostateviewamount
-bip_39_word_no_space_6: flameechostateviewamountopera
-bip_39_word_no_space_7: flameechostateviewamountoperawhisper
-bip_39_word_no_space_8: flameechostateviewamountoperawhisperdwarf
-bip_39_word_no_space_9: flameechostateviewamountoperawhisperdwarfbrand
-bip_39_word_space_0:
-- flame
-- echo
-- state
-- view
-- amount
-- opera
-- whisper
-- dwarf
-- brand
-- coral
-- oblige
-- artist
-bip_39_word_space_1: flame
-bip_39_word_space_10: flame echo state view amount opera whisper dwarf brand coral
-bip_39_word_space_11: flame echo state view amount opera whisper dwarf brand coral
-  oblige
 bip_39_word_space_12: flame echo state view amount opera whisper dwarf brand coral
   oblige artist
 bip_39_word_space_2: flame echo
 bip_39_word_space_3: flame echo state
-bip_39_word_space_4: flame echo state view
-bip_39_word_space_5: flame echo state view amount
-bip_39_word_space_6: flame echo state view amount opera
-bip_39_word_space_7: flame echo state view amount opera whisper
-bip_39_word_space_8: flame echo state view amount opera whisper dwarf
-bip_39_word_space_9: flame echo state view amount opera whisper dwarf brand
-bip_39_word_underscore_1: flame
-bip_39_word_underscore_10: flame_echo_state_view_amount_opera_whisper_dwarf_brand_coral
-bip_39_word_underscore_11: flame_echo_state_view_amount_opera_whisper_dwarf_brand_coral_oblige
 bip_39_word_underscore_12: flame_echo_state_view_amount_opera_whisper_dwarf_brand_coral_oblige_artist
 bip_39_word_underscore_2: flame_echo
 bip_39_word_underscore_3: flame_echo_state
-bip_39_word_underscore_4: flame_echo_state_view
-bip_39_word_underscore_5: flame_echo_state_view_amount
-bip_39_word_underscore_6: flame_echo_state_view_amount_opera
-bip_39_word_underscore_7: flame_echo_state_view_amount_opera_whisper
-bip_39_word_underscore_8: flame_echo_state_view_amount_opera_whisper_dwarf
-bip_39_word_underscore_9: flame_echo_state_view_amount_opera_whisper_dwarf_brand
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

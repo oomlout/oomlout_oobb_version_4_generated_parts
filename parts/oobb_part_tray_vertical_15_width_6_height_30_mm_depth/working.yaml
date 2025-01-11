@@ -1,68 +1,9 @@
-bip_39_word_dash_1: onion
-bip_39_word_dash_10: onion-below-sponsor-exit-prepare-coyote-inside-treat-blue-gather
-bip_39_word_dash_11: onion-below-sponsor-exit-prepare-coyote-inside-treat-blue-gather-slender
 bip_39_word_dash_12: onion-below-sponsor-exit-prepare-coyote-inside-treat-blue-gather-slender-attack
 bip_39_word_dash_2: onion-below
 bip_39_word_dash_3: onion-below-sponsor
-bip_39_word_dash_4: onion-below-sponsor-exit
-bip_39_word_dash_5: onion-below-sponsor-exit-prepare
-bip_39_word_dash_6: onion-below-sponsor-exit-prepare-coyote
-bip_39_word_dash_7: onion-below-sponsor-exit-prepare-coyote-inside
-bip_39_word_dash_8: onion-below-sponsor-exit-prepare-coyote-inside-treat
-bip_39_word_dash_9: onion-below-sponsor-exit-prepare-coyote-inside-treat-blue
-bip_39_word_new_br_1: onion
-bip_39_word_new_br_10: onion<br>below<br>sponsor<br>exit<br>prepare<br>coyote<br>inside<br>treat<br>blue<br>gather
-bip_39_word_new_br_11: onion<br>below<br>sponsor<br>exit<br>prepare<br>coyote<br>inside<br>treat<br>blue<br>gather<br>slender
 bip_39_word_new_br_12: onion<br>below<br>sponsor<br>exit<br>prepare<br>coyote<br>inside<br>treat<br>blue<br>gather<br>slender<br>attack
 bip_39_word_new_br_2: onion<br>below
 bip_39_word_new_br_3: onion<br>below<br>sponsor
-bip_39_word_new_br_4: onion<br>below<br>sponsor<br>exit
-bip_39_word_new_br_5: onion<br>below<br>sponsor<br>exit<br>prepare
-bip_39_word_new_br_6: onion<br>below<br>sponsor<br>exit<br>prepare<br>coyote
-bip_39_word_new_br_7: onion<br>below<br>sponsor<br>exit<br>prepare<br>coyote<br>inside
-bip_39_word_new_br_8: onion<br>below<br>sponsor<br>exit<br>prepare<br>coyote<br>inside<br>treat
-bip_39_word_new_br_9: onion<br>below<br>sponsor<br>exit<br>prepare<br>coyote<br>inside<br>treat<br>blue
-bip_39_word_new_line_1: onion
-bip_39_word_new_line_10: 'onion
-
-  below
-
-  sponsor
-
-  exit
-
-  prepare
-
-  coyote
-
-  inside
-
-  treat
-
-  blue
-
-  gather'
-bip_39_word_new_line_11: 'onion
-
-  below
-
-  sponsor
-
-  exit
-
-  prepare
-
-  coyote
-
-  inside
-
-  treat
-
-  blue
-
-  gather
-
-  slender'
 bip_39_word_new_line_12: 'onion
 
   below
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'onion
   below
 
   sponsor'
-bip_39_word_new_line_4: 'onion
-
-  below
-
-  sponsor
-
-  exit'
-bip_39_word_new_line_5: 'onion
-
-  below
-
-  sponsor
-
-  exit
-
-  prepare'
-bip_39_word_new_line_6: 'onion
-
-  below
-
-  sponsor
-
-  exit
-
-  prepare
-
-  coyote'
-bip_39_word_new_line_7: 'onion
-
-  below
-
-  sponsor
-
-  exit
-
-  prepare
-
-  coyote
-
-  inside'
-bip_39_word_new_line_8: 'onion
-
-  below
-
-  sponsor
-
-  exit
-
-  prepare
-
-  coyote
-
-  inside
-
-  treat'
-bip_39_word_new_line_9: 'onion
-
-  below
-
-  sponsor
-
-  exit
-
-  prepare
-
-  coyote
-
-  inside
-
-  treat
-
-  blue'
-bip_39_word_no_space_1: onion
-bip_39_word_no_space_10: onionbelowsponsorexitpreparecoyoteinsidetreatbluegather
-bip_39_word_no_space_11: onionbelowsponsorexitpreparecoyoteinsidetreatbluegatherslender
 bip_39_word_no_space_12: onionbelowsponsorexitpreparecoyoteinsidetreatbluegatherslenderattack
 bip_39_word_no_space_2: onionbelow
 bip_39_word_no_space_3: onionbelowsponsor
-bip_39_word_no_space_4: onionbelowsponsorexit
-bip_39_word_no_space_5: onionbelowsponsorexitprepare
-bip_39_word_no_space_6: onionbelowsponsorexitpreparecoyote
-bip_39_word_no_space_7: onionbelowsponsorexitpreparecoyoteinside
-bip_39_word_no_space_8: onionbelowsponsorexitpreparecoyoteinsidetreat
-bip_39_word_no_space_9: onionbelowsponsorexitpreparecoyoteinsidetreatblue
-bip_39_word_space_0:
-- onion
-- below
-- sponsor
-- exit
-- prepare
-- coyote
-- inside
-- treat
-- blue
-- gather
-- slender
-- attack
-bip_39_word_space_1: onion
-bip_39_word_space_10: onion below sponsor exit prepare coyote inside treat blue gather
-bip_39_word_space_11: onion below sponsor exit prepare coyote inside treat blue gather
-  slender
 bip_39_word_space_12: onion below sponsor exit prepare coyote inside treat blue gather
   slender attack
 bip_39_word_space_2: onion below
 bip_39_word_space_3: onion below sponsor
-bip_39_word_space_4: onion below sponsor exit
-bip_39_word_space_5: onion below sponsor exit prepare
-bip_39_word_space_6: onion below sponsor exit prepare coyote
-bip_39_word_space_7: onion below sponsor exit prepare coyote inside
-bip_39_word_space_8: onion below sponsor exit prepare coyote inside treat
-bip_39_word_space_9: onion below sponsor exit prepare coyote inside treat blue
-bip_39_word_underscore_1: onion
-bip_39_word_underscore_10: onion_below_sponsor_exit_prepare_coyote_inside_treat_blue_gather
-bip_39_word_underscore_11: onion_below_sponsor_exit_prepare_coyote_inside_treat_blue_gather_slender
 bip_39_word_underscore_12: onion_below_sponsor_exit_prepare_coyote_inside_treat_blue_gather_slender_attack
 bip_39_word_underscore_2: onion_below
 bip_39_word_underscore_3: onion_below_sponsor
-bip_39_word_underscore_4: onion_below_sponsor_exit
-bip_39_word_underscore_5: onion_below_sponsor_exit_prepare
-bip_39_word_underscore_6: onion_below_sponsor_exit_prepare_coyote
-bip_39_word_underscore_7: onion_below_sponsor_exit_prepare_coyote_inside
-bip_39_word_underscore_8: onion_below_sponsor_exit_prepare_coyote_inside_treat
-bip_39_word_underscore_9: onion_below_sponsor_exit_prepare_coyote_inside_treat_blue
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: step
-bip_39_word_dash_10: step-kiwi-tail-reduce-theory-whale-fish-cancel-awake-receive
-bip_39_word_dash_11: step-kiwi-tail-reduce-theory-whale-fish-cancel-awake-receive-cannon
 bip_39_word_dash_12: step-kiwi-tail-reduce-theory-whale-fish-cancel-awake-receive-cannon-aunt
 bip_39_word_dash_2: step-kiwi
 bip_39_word_dash_3: step-kiwi-tail
-bip_39_word_dash_4: step-kiwi-tail-reduce
-bip_39_word_dash_5: step-kiwi-tail-reduce-theory
-bip_39_word_dash_6: step-kiwi-tail-reduce-theory-whale
-bip_39_word_dash_7: step-kiwi-tail-reduce-theory-whale-fish
-bip_39_word_dash_8: step-kiwi-tail-reduce-theory-whale-fish-cancel
-bip_39_word_dash_9: step-kiwi-tail-reduce-theory-whale-fish-cancel-awake
-bip_39_word_new_br_1: step
-bip_39_word_new_br_10: step<br>kiwi<br>tail<br>reduce<br>theory<br>whale<br>fish<br>cancel<br>awake<br>receive
-bip_39_word_new_br_11: step<br>kiwi<br>tail<br>reduce<br>theory<br>whale<br>fish<br>cancel<br>awake<br>receive<br>cannon
 bip_39_word_new_br_12: step<br>kiwi<br>tail<br>reduce<br>theory<br>whale<br>fish<br>cancel<br>awake<br>receive<br>cannon<br>aunt
 bip_39_word_new_br_2: step<br>kiwi
 bip_39_word_new_br_3: step<br>kiwi<br>tail
-bip_39_word_new_br_4: step<br>kiwi<br>tail<br>reduce
-bip_39_word_new_br_5: step<br>kiwi<br>tail<br>reduce<br>theory
-bip_39_word_new_br_6: step<br>kiwi<br>tail<br>reduce<br>theory<br>whale
-bip_39_word_new_br_7: step<br>kiwi<br>tail<br>reduce<br>theory<br>whale<br>fish
-bip_39_word_new_br_8: step<br>kiwi<br>tail<br>reduce<br>theory<br>whale<br>fish<br>cancel
-bip_39_word_new_br_9: step<br>kiwi<br>tail<br>reduce<br>theory<br>whale<br>fish<br>cancel<br>awake
-bip_39_word_new_line_1: step
-bip_39_word_new_line_10: 'step
-
-  kiwi
-
-  tail
-
-  reduce
-
-  theory
-
-  whale
-
-  fish
-
-  cancel
-
-  awake
-
-  receive'
-bip_39_word_new_line_11: 'step
-
-  kiwi
-
-  tail
-
-  reduce
-
-  theory
-
-  whale
-
-  fish
-
-  cancel
-
-  awake
-
-  receive
-
-  cannon'
 bip_39_word_new_line_12: 'step
 
   kiwi
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'step
   kiwi
 
   tail'
-bip_39_word_new_line_4: 'step
-
-  kiwi
-
-  tail
-
-  reduce'
-bip_39_word_new_line_5: 'step
-
-  kiwi
-
-  tail
-
-  reduce
-
-  theory'
-bip_39_word_new_line_6: 'step
-
-  kiwi
-
-  tail
-
-  reduce
-
-  theory
-
-  whale'
-bip_39_word_new_line_7: 'step
-
-  kiwi
-
-  tail
-
-  reduce
-
-  theory
-
-  whale
-
-  fish'
-bip_39_word_new_line_8: 'step
-
-  kiwi
-
-  tail
-
-  reduce
-
-  theory
-
-  whale
-
-  fish
-
-  cancel'
-bip_39_word_new_line_9: 'step
-
-  kiwi
-
-  tail
-
-  reduce
-
-  theory
-
-  whale
-
-  fish
-
-  cancel
-
-  awake'
-bip_39_word_no_space_1: step
-bip_39_word_no_space_10: stepkiwitailreducetheorywhalefishcancelawakereceive
-bip_39_word_no_space_11: stepkiwitailreducetheorywhalefishcancelawakereceivecannon
 bip_39_word_no_space_12: stepkiwitailreducetheorywhalefishcancelawakereceivecannonaunt
 bip_39_word_no_space_2: stepkiwi
 bip_39_word_no_space_3: stepkiwitail
-bip_39_word_no_space_4: stepkiwitailreduce
-bip_39_word_no_space_5: stepkiwitailreducetheory
-bip_39_word_no_space_6: stepkiwitailreducetheorywhale
-bip_39_word_no_space_7: stepkiwitailreducetheorywhalefish
-bip_39_word_no_space_8: stepkiwitailreducetheorywhalefishcancel
-bip_39_word_no_space_9: stepkiwitailreducetheorywhalefishcancelawake
-bip_39_word_space_0:
-- step
-- kiwi
-- tail
-- reduce
-- theory
-- whale
-- fish
-- cancel
-- awake
-- receive
-- cannon
-- aunt
-bip_39_word_space_1: step
-bip_39_word_space_10: step kiwi tail reduce theory whale fish cancel awake receive
-bip_39_word_space_11: step kiwi tail reduce theory whale fish cancel awake receive
-  cannon
 bip_39_word_space_12: step kiwi tail reduce theory whale fish cancel awake receive
   cannon aunt
 bip_39_word_space_2: step kiwi
 bip_39_word_space_3: step kiwi tail
-bip_39_word_space_4: step kiwi tail reduce
-bip_39_word_space_5: step kiwi tail reduce theory
-bip_39_word_space_6: step kiwi tail reduce theory whale
-bip_39_word_space_7: step kiwi tail reduce theory whale fish
-bip_39_word_space_8: step kiwi tail reduce theory whale fish cancel
-bip_39_word_space_9: step kiwi tail reduce theory whale fish cancel awake
-bip_39_word_underscore_1: step
-bip_39_word_underscore_10: step_kiwi_tail_reduce_theory_whale_fish_cancel_awake_receive
-bip_39_word_underscore_11: step_kiwi_tail_reduce_theory_whale_fish_cancel_awake_receive_cannon
 bip_39_word_underscore_12: step_kiwi_tail_reduce_theory_whale_fish_cancel_awake_receive_cannon_aunt
 bip_39_word_underscore_2: step_kiwi
 bip_39_word_underscore_3: step_kiwi_tail
-bip_39_word_underscore_4: step_kiwi_tail_reduce
-bip_39_word_underscore_5: step_kiwi_tail_reduce_theory
-bip_39_word_underscore_6: step_kiwi_tail_reduce_theory_whale
-bip_39_word_underscore_7: step_kiwi_tail_reduce_theory_whale_fish
-bip_39_word_underscore_8: step_kiwi_tail_reduce_theory_whale_fish_cancel
-bip_39_word_underscore_9: step_kiwi_tail_reduce_theory_whale_fish_cancel_awake
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

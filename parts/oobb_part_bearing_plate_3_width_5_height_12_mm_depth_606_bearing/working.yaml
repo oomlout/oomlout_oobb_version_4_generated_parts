@@ -1,69 +1,10 @@
 bearing: '606'
-bip_39_word_dash_1: pact
-bip_39_word_dash_10: pact-walnut-addict-bench-paddle-bread-bargain-gossip-secret-flip
-bip_39_word_dash_11: pact-walnut-addict-bench-paddle-bread-bargain-gossip-secret-flip-link
 bip_39_word_dash_12: pact-walnut-addict-bench-paddle-bread-bargain-gossip-secret-flip-link-average
 bip_39_word_dash_2: pact-walnut
 bip_39_word_dash_3: pact-walnut-addict
-bip_39_word_dash_4: pact-walnut-addict-bench
-bip_39_word_dash_5: pact-walnut-addict-bench-paddle
-bip_39_word_dash_6: pact-walnut-addict-bench-paddle-bread
-bip_39_word_dash_7: pact-walnut-addict-bench-paddle-bread-bargain
-bip_39_word_dash_8: pact-walnut-addict-bench-paddle-bread-bargain-gossip
-bip_39_word_dash_9: pact-walnut-addict-bench-paddle-bread-bargain-gossip-secret
-bip_39_word_new_br_1: pact
-bip_39_word_new_br_10: pact<br>walnut<br>addict<br>bench<br>paddle<br>bread<br>bargain<br>gossip<br>secret<br>flip
-bip_39_word_new_br_11: pact<br>walnut<br>addict<br>bench<br>paddle<br>bread<br>bargain<br>gossip<br>secret<br>flip<br>link
 bip_39_word_new_br_12: pact<br>walnut<br>addict<br>bench<br>paddle<br>bread<br>bargain<br>gossip<br>secret<br>flip<br>link<br>average
 bip_39_word_new_br_2: pact<br>walnut
 bip_39_word_new_br_3: pact<br>walnut<br>addict
-bip_39_word_new_br_4: pact<br>walnut<br>addict<br>bench
-bip_39_word_new_br_5: pact<br>walnut<br>addict<br>bench<br>paddle
-bip_39_word_new_br_6: pact<br>walnut<br>addict<br>bench<br>paddle<br>bread
-bip_39_word_new_br_7: pact<br>walnut<br>addict<br>bench<br>paddle<br>bread<br>bargain
-bip_39_word_new_br_8: pact<br>walnut<br>addict<br>bench<br>paddle<br>bread<br>bargain<br>gossip
-bip_39_word_new_br_9: pact<br>walnut<br>addict<br>bench<br>paddle<br>bread<br>bargain<br>gossip<br>secret
-bip_39_word_new_line_1: pact
-bip_39_word_new_line_10: 'pact
-
-  walnut
-
-  addict
-
-  bench
-
-  paddle
-
-  bread
-
-  bargain
-
-  gossip
-
-  secret
-
-  flip'
-bip_39_word_new_line_11: 'pact
-
-  walnut
-
-  addict
-
-  bench
-
-  paddle
-
-  bread
-
-  bargain
-
-  gossip
-
-  secret
-
-  flip
-
-  link'
 bip_39_word_new_line_12: 'pact
 
   walnut
@@ -95,130 +36,16 @@ bip_39_word_new_line_3: 'pact
   walnut
 
   addict'
-bip_39_word_new_line_4: 'pact
-
-  walnut
-
-  addict
-
-  bench'
-bip_39_word_new_line_5: 'pact
-
-  walnut
-
-  addict
-
-  bench
-
-  paddle'
-bip_39_word_new_line_6: 'pact
-
-  walnut
-
-  addict
-
-  bench
-
-  paddle
-
-  bread'
-bip_39_word_new_line_7: 'pact
-
-  walnut
-
-  addict
-
-  bench
-
-  paddle
-
-  bread
-
-  bargain'
-bip_39_word_new_line_8: 'pact
-
-  walnut
-
-  addict
-
-  bench
-
-  paddle
-
-  bread
-
-  bargain
-
-  gossip'
-bip_39_word_new_line_9: 'pact
-
-  walnut
-
-  addict
-
-  bench
-
-  paddle
-
-  bread
-
-  bargain
-
-  gossip
-
-  secret'
-bip_39_word_no_space_1: pact
-bip_39_word_no_space_10: pactwalnutaddictbenchpaddlebreadbargaingossipsecretflip
-bip_39_word_no_space_11: pactwalnutaddictbenchpaddlebreadbargaingossipsecretfliplink
 bip_39_word_no_space_12: pactwalnutaddictbenchpaddlebreadbargaingossipsecretfliplinkaverage
 bip_39_word_no_space_2: pactwalnut
 bip_39_word_no_space_3: pactwalnutaddict
-bip_39_word_no_space_4: pactwalnutaddictbench
-bip_39_word_no_space_5: pactwalnutaddictbenchpaddle
-bip_39_word_no_space_6: pactwalnutaddictbenchpaddlebread
-bip_39_word_no_space_7: pactwalnutaddictbenchpaddlebreadbargain
-bip_39_word_no_space_8: pactwalnutaddictbenchpaddlebreadbargaingossip
-bip_39_word_no_space_9: pactwalnutaddictbenchpaddlebreadbargaingossipsecret
-bip_39_word_space_0:
-- pact
-- walnut
-- addict
-- bench
-- paddle
-- bread
-- bargain
-- gossip
-- secret
-- flip
-- link
-- average
-bip_39_word_space_1: pact
-bip_39_word_space_10: pact walnut addict bench paddle bread bargain gossip secret
-  flip
-bip_39_word_space_11: pact walnut addict bench paddle bread bargain gossip secret
-  flip link
 bip_39_word_space_12: pact walnut addict bench paddle bread bargain gossip secret
   flip link average
 bip_39_word_space_2: pact walnut
 bip_39_word_space_3: pact walnut addict
-bip_39_word_space_4: pact walnut addict bench
-bip_39_word_space_5: pact walnut addict bench paddle
-bip_39_word_space_6: pact walnut addict bench paddle bread
-bip_39_word_space_7: pact walnut addict bench paddle bread bargain
-bip_39_word_space_8: pact walnut addict bench paddle bread bargain gossip
-bip_39_word_space_9: pact walnut addict bench paddle bread bargain gossip secret
-bip_39_word_underscore_1: pact
-bip_39_word_underscore_10: pact_walnut_addict_bench_paddle_bread_bargain_gossip_secret_flip
-bip_39_word_underscore_11: pact_walnut_addict_bench_paddle_bread_bargain_gossip_secret_flip_link
 bip_39_word_underscore_12: pact_walnut_addict_bench_paddle_bread_bargain_gossip_secret_flip_link_average
 bip_39_word_underscore_2: pact_walnut
 bip_39_word_underscore_3: pact_walnut_addict
-bip_39_word_underscore_4: pact_walnut_addict_bench
-bip_39_word_underscore_5: pact_walnut_addict_bench_paddle
-bip_39_word_underscore_6: pact_walnut_addict_bench_paddle_bread
-bip_39_word_underscore_7: pact_walnut_addict_bench_paddle_bread_bargain
-bip_39_word_underscore_8: pact_walnut_addict_bench_paddle_bread_bargain_gossip
-bip_39_word_underscore_9: pact_walnut_addict_bench_paddle_bread_bargain_gossip_secret
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: area
-bip_39_word_dash_10: area-depend-pumpkin-shiver-trade-ice-reward-pistol-zebra-envelope
-bip_39_word_dash_11: area-depend-pumpkin-shiver-trade-ice-reward-pistol-zebra-envelope-warrior
 bip_39_word_dash_12: area-depend-pumpkin-shiver-trade-ice-reward-pistol-zebra-envelope-warrior-again
 bip_39_word_dash_2: area-depend
 bip_39_word_dash_3: area-depend-pumpkin
-bip_39_word_dash_4: area-depend-pumpkin-shiver
-bip_39_word_dash_5: area-depend-pumpkin-shiver-trade
-bip_39_word_dash_6: area-depend-pumpkin-shiver-trade-ice
-bip_39_word_dash_7: area-depend-pumpkin-shiver-trade-ice-reward
-bip_39_word_dash_8: area-depend-pumpkin-shiver-trade-ice-reward-pistol
-bip_39_word_dash_9: area-depend-pumpkin-shiver-trade-ice-reward-pistol-zebra
-bip_39_word_new_br_1: area
-bip_39_word_new_br_10: area<br>depend<br>pumpkin<br>shiver<br>trade<br>ice<br>reward<br>pistol<br>zebra<br>envelope
-bip_39_word_new_br_11: area<br>depend<br>pumpkin<br>shiver<br>trade<br>ice<br>reward<br>pistol<br>zebra<br>envelope<br>warrior
 bip_39_word_new_br_12: area<br>depend<br>pumpkin<br>shiver<br>trade<br>ice<br>reward<br>pistol<br>zebra<br>envelope<br>warrior<br>again
 bip_39_word_new_br_2: area<br>depend
 bip_39_word_new_br_3: area<br>depend<br>pumpkin
-bip_39_word_new_br_4: area<br>depend<br>pumpkin<br>shiver
-bip_39_word_new_br_5: area<br>depend<br>pumpkin<br>shiver<br>trade
-bip_39_word_new_br_6: area<br>depend<br>pumpkin<br>shiver<br>trade<br>ice
-bip_39_word_new_br_7: area<br>depend<br>pumpkin<br>shiver<br>trade<br>ice<br>reward
-bip_39_word_new_br_8: area<br>depend<br>pumpkin<br>shiver<br>trade<br>ice<br>reward<br>pistol
-bip_39_word_new_br_9: area<br>depend<br>pumpkin<br>shiver<br>trade<br>ice<br>reward<br>pistol<br>zebra
-bip_39_word_new_line_1: area
-bip_39_word_new_line_10: 'area
-
-  depend
-
-  pumpkin
-
-  shiver
-
-  trade
-
-  ice
-
-  reward
-
-  pistol
-
-  zebra
-
-  envelope'
-bip_39_word_new_line_11: 'area
-
-  depend
-
-  pumpkin
-
-  shiver
-
-  trade
-
-  ice
-
-  reward
-
-  pistol
-
-  zebra
-
-  envelope
-
-  warrior'
 bip_39_word_new_line_12: 'area
 
   depend
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'area
   depend
 
   pumpkin'
-bip_39_word_new_line_4: 'area
-
-  depend
-
-  pumpkin
-
-  shiver'
-bip_39_word_new_line_5: 'area
-
-  depend
-
-  pumpkin
-
-  shiver
-
-  trade'
-bip_39_word_new_line_6: 'area
-
-  depend
-
-  pumpkin
-
-  shiver
-
-  trade
-
-  ice'
-bip_39_word_new_line_7: 'area
-
-  depend
-
-  pumpkin
-
-  shiver
-
-  trade
-
-  ice
-
-  reward'
-bip_39_word_new_line_8: 'area
-
-  depend
-
-  pumpkin
-
-  shiver
-
-  trade
-
-  ice
-
-  reward
-
-  pistol'
-bip_39_word_new_line_9: 'area
-
-  depend
-
-  pumpkin
-
-  shiver
-
-  trade
-
-  ice
-
-  reward
-
-  pistol
-
-  zebra'
-bip_39_word_no_space_1: area
-bip_39_word_no_space_10: areadependpumpkinshivertradeicerewardpistolzebraenvelope
-bip_39_word_no_space_11: areadependpumpkinshivertradeicerewardpistolzebraenvelopewarrior
 bip_39_word_no_space_12: areadependpumpkinshivertradeicerewardpistolzebraenvelopewarrioragain
 bip_39_word_no_space_2: areadepend
 bip_39_word_no_space_3: areadependpumpkin
-bip_39_word_no_space_4: areadependpumpkinshiver
-bip_39_word_no_space_5: areadependpumpkinshivertrade
-bip_39_word_no_space_6: areadependpumpkinshivertradeice
-bip_39_word_no_space_7: areadependpumpkinshivertradeicereward
-bip_39_word_no_space_8: areadependpumpkinshivertradeicerewardpistol
-bip_39_word_no_space_9: areadependpumpkinshivertradeicerewardpistolzebra
-bip_39_word_space_0:
-- area
-- depend
-- pumpkin
-- shiver
-- trade
-- ice
-- reward
-- pistol
-- zebra
-- envelope
-- warrior
-- again
-bip_39_word_space_1: area
-bip_39_word_space_10: area depend pumpkin shiver trade ice reward pistol zebra envelope
-bip_39_word_space_11: area depend pumpkin shiver trade ice reward pistol zebra envelope
-  warrior
 bip_39_word_space_12: area depend pumpkin shiver trade ice reward pistol zebra envelope
   warrior again
 bip_39_word_space_2: area depend
 bip_39_word_space_3: area depend pumpkin
-bip_39_word_space_4: area depend pumpkin shiver
-bip_39_word_space_5: area depend pumpkin shiver trade
-bip_39_word_space_6: area depend pumpkin shiver trade ice
-bip_39_word_space_7: area depend pumpkin shiver trade ice reward
-bip_39_word_space_8: area depend pumpkin shiver trade ice reward pistol
-bip_39_word_space_9: area depend pumpkin shiver trade ice reward pistol zebra
-bip_39_word_underscore_1: area
-bip_39_word_underscore_10: area_depend_pumpkin_shiver_trade_ice_reward_pistol_zebra_envelope
-bip_39_word_underscore_11: area_depend_pumpkin_shiver_trade_ice_reward_pistol_zebra_envelope_warrior
 bip_39_word_underscore_12: area_depend_pumpkin_shiver_trade_ice_reward_pistol_zebra_envelope_warrior_again
 bip_39_word_underscore_2: area_depend
 bip_39_word_underscore_3: area_depend_pumpkin
-bip_39_word_underscore_4: area_depend_pumpkin_shiver
-bip_39_word_underscore_5: area_depend_pumpkin_shiver_trade
-bip_39_word_underscore_6: area_depend_pumpkin_shiver_trade_ice
-bip_39_word_underscore_7: area_depend_pumpkin_shiver_trade_ice_reward
-bip_39_word_underscore_8: area_depend_pumpkin_shiver_trade_ice_reward_pistol
-bip_39_word_underscore_9: area_depend_pumpkin_shiver_trade_ice_reward_pistol_zebra
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

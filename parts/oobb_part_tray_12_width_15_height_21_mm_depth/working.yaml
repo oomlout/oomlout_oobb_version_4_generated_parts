@@ -1,68 +1,9 @@
-bip_39_word_dash_1: bachelor
-bip_39_word_dash_10: bachelor-fatal-spare-attack-pottery-catch-depend-destroy-lucky-awkward
-bip_39_word_dash_11: bachelor-fatal-spare-attack-pottery-catch-depend-destroy-lucky-awkward-wink
 bip_39_word_dash_12: bachelor-fatal-spare-attack-pottery-catch-depend-destroy-lucky-awkward-wink-apart
 bip_39_word_dash_2: bachelor-fatal
 bip_39_word_dash_3: bachelor-fatal-spare
-bip_39_word_dash_4: bachelor-fatal-spare-attack
-bip_39_word_dash_5: bachelor-fatal-spare-attack-pottery
-bip_39_word_dash_6: bachelor-fatal-spare-attack-pottery-catch
-bip_39_word_dash_7: bachelor-fatal-spare-attack-pottery-catch-depend
-bip_39_word_dash_8: bachelor-fatal-spare-attack-pottery-catch-depend-destroy
-bip_39_word_dash_9: bachelor-fatal-spare-attack-pottery-catch-depend-destroy-lucky
-bip_39_word_new_br_1: bachelor
-bip_39_word_new_br_10: bachelor<br>fatal<br>spare<br>attack<br>pottery<br>catch<br>depend<br>destroy<br>lucky<br>awkward
-bip_39_word_new_br_11: bachelor<br>fatal<br>spare<br>attack<br>pottery<br>catch<br>depend<br>destroy<br>lucky<br>awkward<br>wink
 bip_39_word_new_br_12: bachelor<br>fatal<br>spare<br>attack<br>pottery<br>catch<br>depend<br>destroy<br>lucky<br>awkward<br>wink<br>apart
 bip_39_word_new_br_2: bachelor<br>fatal
 bip_39_word_new_br_3: bachelor<br>fatal<br>spare
-bip_39_word_new_br_4: bachelor<br>fatal<br>spare<br>attack
-bip_39_word_new_br_5: bachelor<br>fatal<br>spare<br>attack<br>pottery
-bip_39_word_new_br_6: bachelor<br>fatal<br>spare<br>attack<br>pottery<br>catch
-bip_39_word_new_br_7: bachelor<br>fatal<br>spare<br>attack<br>pottery<br>catch<br>depend
-bip_39_word_new_br_8: bachelor<br>fatal<br>spare<br>attack<br>pottery<br>catch<br>depend<br>destroy
-bip_39_word_new_br_9: bachelor<br>fatal<br>spare<br>attack<br>pottery<br>catch<br>depend<br>destroy<br>lucky
-bip_39_word_new_line_1: bachelor
-bip_39_word_new_line_10: 'bachelor
-
-  fatal
-
-  spare
-
-  attack
-
-  pottery
-
-  catch
-
-  depend
-
-  destroy
-
-  lucky
-
-  awkward'
-bip_39_word_new_line_11: 'bachelor
-
-  fatal
-
-  spare
-
-  attack
-
-  pottery
-
-  catch
-
-  depend
-
-  destroy
-
-  lucky
-
-  awkward
-
-  wink'
 bip_39_word_new_line_12: 'bachelor
 
   fatal
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'bachelor
   fatal
 
   spare'
-bip_39_word_new_line_4: 'bachelor
-
-  fatal
-
-  spare
-
-  attack'
-bip_39_word_new_line_5: 'bachelor
-
-  fatal
-
-  spare
-
-  attack
-
-  pottery'
-bip_39_word_new_line_6: 'bachelor
-
-  fatal
-
-  spare
-
-  attack
-
-  pottery
-
-  catch'
-bip_39_word_new_line_7: 'bachelor
-
-  fatal
-
-  spare
-
-  attack
-
-  pottery
-
-  catch
-
-  depend'
-bip_39_word_new_line_8: 'bachelor
-
-  fatal
-
-  spare
-
-  attack
-
-  pottery
-
-  catch
-
-  depend
-
-  destroy'
-bip_39_word_new_line_9: 'bachelor
-
-  fatal
-
-  spare
-
-  attack
-
-  pottery
-
-  catch
-
-  depend
-
-  destroy
-
-  lucky'
-bip_39_word_no_space_1: bachelor
-bip_39_word_no_space_10: bachelorfatalspareattackpotterycatchdependdestroyluckyawkward
-bip_39_word_no_space_11: bachelorfatalspareattackpotterycatchdependdestroyluckyawkwardwink
 bip_39_word_no_space_12: bachelorfatalspareattackpotterycatchdependdestroyluckyawkwardwinkapart
 bip_39_word_no_space_2: bachelorfatal
 bip_39_word_no_space_3: bachelorfatalspare
-bip_39_word_no_space_4: bachelorfatalspareattack
-bip_39_word_no_space_5: bachelorfatalspareattackpottery
-bip_39_word_no_space_6: bachelorfatalspareattackpotterycatch
-bip_39_word_no_space_7: bachelorfatalspareattackpotterycatchdepend
-bip_39_word_no_space_8: bachelorfatalspareattackpotterycatchdependdestroy
-bip_39_word_no_space_9: bachelorfatalspareattackpotterycatchdependdestroylucky
-bip_39_word_space_0:
-- bachelor
-- fatal
-- spare
-- attack
-- pottery
-- catch
-- depend
-- destroy
-- lucky
-- awkward
-- wink
-- apart
-bip_39_word_space_1: bachelor
-bip_39_word_space_10: bachelor fatal spare attack pottery catch depend destroy lucky
-  awkward
-bip_39_word_space_11: bachelor fatal spare attack pottery catch depend destroy lucky
-  awkward wink
 bip_39_word_space_12: bachelor fatal spare attack pottery catch depend destroy lucky
   awkward wink apart
 bip_39_word_space_2: bachelor fatal
 bip_39_word_space_3: bachelor fatal spare
-bip_39_word_space_4: bachelor fatal spare attack
-bip_39_word_space_5: bachelor fatal spare attack pottery
-bip_39_word_space_6: bachelor fatal spare attack pottery catch
-bip_39_word_space_7: bachelor fatal spare attack pottery catch depend
-bip_39_word_space_8: bachelor fatal spare attack pottery catch depend destroy
-bip_39_word_space_9: bachelor fatal spare attack pottery catch depend destroy lucky
-bip_39_word_underscore_1: bachelor
-bip_39_word_underscore_10: bachelor_fatal_spare_attack_pottery_catch_depend_destroy_lucky_awkward
-bip_39_word_underscore_11: bachelor_fatal_spare_attack_pottery_catch_depend_destroy_lucky_awkward_wink
 bip_39_word_underscore_12: bachelor_fatal_spare_attack_pottery_catch_depend_destroy_lucky_awkward_wink_apart
 bip_39_word_underscore_2: bachelor_fatal
 bip_39_word_underscore_3: bachelor_fatal_spare
-bip_39_word_underscore_4: bachelor_fatal_spare_attack
-bip_39_word_underscore_5: bachelor_fatal_spare_attack_pottery
-bip_39_word_underscore_6: bachelor_fatal_spare_attack_pottery_catch
-bip_39_word_underscore_7: bachelor_fatal_spare_attack_pottery_catch_depend
-bip_39_word_underscore_8: bachelor_fatal_spare_attack_pottery_catch_depend_destroy
-bip_39_word_underscore_9: bachelor_fatal_spare_attack_pottery_catch_depend_destroy_lucky
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

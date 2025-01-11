@@ -1,69 +1,10 @@
 bearing_name: '6811'
-bip_39_word_dash_1: upon
-bip_39_word_dash_10: upon-bridge-typical-mean-history-follow-mask-illness-patient-together
-bip_39_word_dash_11: upon-bridge-typical-mean-history-follow-mask-illness-patient-together-mimic
 bip_39_word_dash_12: upon-bridge-typical-mean-history-follow-mask-illness-patient-together-mimic-acoustic
 bip_39_word_dash_2: upon-bridge
 bip_39_word_dash_3: upon-bridge-typical
-bip_39_word_dash_4: upon-bridge-typical-mean
-bip_39_word_dash_5: upon-bridge-typical-mean-history
-bip_39_word_dash_6: upon-bridge-typical-mean-history-follow
-bip_39_word_dash_7: upon-bridge-typical-mean-history-follow-mask
-bip_39_word_dash_8: upon-bridge-typical-mean-history-follow-mask-illness
-bip_39_word_dash_9: upon-bridge-typical-mean-history-follow-mask-illness-patient
-bip_39_word_new_br_1: upon
-bip_39_word_new_br_10: upon<br>bridge<br>typical<br>mean<br>history<br>follow<br>mask<br>illness<br>patient<br>together
-bip_39_word_new_br_11: upon<br>bridge<br>typical<br>mean<br>history<br>follow<br>mask<br>illness<br>patient<br>together<br>mimic
 bip_39_word_new_br_12: upon<br>bridge<br>typical<br>mean<br>history<br>follow<br>mask<br>illness<br>patient<br>together<br>mimic<br>acoustic
 bip_39_word_new_br_2: upon<br>bridge
 bip_39_word_new_br_3: upon<br>bridge<br>typical
-bip_39_word_new_br_4: upon<br>bridge<br>typical<br>mean
-bip_39_word_new_br_5: upon<br>bridge<br>typical<br>mean<br>history
-bip_39_word_new_br_6: upon<br>bridge<br>typical<br>mean<br>history<br>follow
-bip_39_word_new_br_7: upon<br>bridge<br>typical<br>mean<br>history<br>follow<br>mask
-bip_39_word_new_br_8: upon<br>bridge<br>typical<br>mean<br>history<br>follow<br>mask<br>illness
-bip_39_word_new_br_9: upon<br>bridge<br>typical<br>mean<br>history<br>follow<br>mask<br>illness<br>patient
-bip_39_word_new_line_1: upon
-bip_39_word_new_line_10: 'upon
-
-  bridge
-
-  typical
-
-  mean
-
-  history
-
-  follow
-
-  mask
-
-  illness
-
-  patient
-
-  together'
-bip_39_word_new_line_11: 'upon
-
-  bridge
-
-  typical
-
-  mean
-
-  history
-
-  follow
-
-  mask
-
-  illness
-
-  patient
-
-  together
-
-  mimic'
 bip_39_word_new_line_12: 'upon
 
   bridge
@@ -95,130 +36,16 @@ bip_39_word_new_line_3: 'upon
   bridge
 
   typical'
-bip_39_word_new_line_4: 'upon
-
-  bridge
-
-  typical
-
-  mean'
-bip_39_word_new_line_5: 'upon
-
-  bridge
-
-  typical
-
-  mean
-
-  history'
-bip_39_word_new_line_6: 'upon
-
-  bridge
-
-  typical
-
-  mean
-
-  history
-
-  follow'
-bip_39_word_new_line_7: 'upon
-
-  bridge
-
-  typical
-
-  mean
-
-  history
-
-  follow
-
-  mask'
-bip_39_word_new_line_8: 'upon
-
-  bridge
-
-  typical
-
-  mean
-
-  history
-
-  follow
-
-  mask
-
-  illness'
-bip_39_word_new_line_9: 'upon
-
-  bridge
-
-  typical
-
-  mean
-
-  history
-
-  follow
-
-  mask
-
-  illness
-
-  patient'
-bip_39_word_no_space_1: upon
-bip_39_word_no_space_10: uponbridgetypicalmeanhistoryfollowmaskillnesspatienttogether
-bip_39_word_no_space_11: uponbridgetypicalmeanhistoryfollowmaskillnesspatienttogethermimic
 bip_39_word_no_space_12: uponbridgetypicalmeanhistoryfollowmaskillnesspatienttogethermimicacoustic
 bip_39_word_no_space_2: uponbridge
 bip_39_word_no_space_3: uponbridgetypical
-bip_39_word_no_space_4: uponbridgetypicalmean
-bip_39_word_no_space_5: uponbridgetypicalmeanhistory
-bip_39_word_no_space_6: uponbridgetypicalmeanhistoryfollow
-bip_39_word_no_space_7: uponbridgetypicalmeanhistoryfollowmask
-bip_39_word_no_space_8: uponbridgetypicalmeanhistoryfollowmaskillness
-bip_39_word_no_space_9: uponbridgetypicalmeanhistoryfollowmaskillnesspatient
-bip_39_word_space_0:
-- upon
-- bridge
-- typical
-- mean
-- history
-- follow
-- mask
-- illness
-- patient
-- together
-- mimic
-- acoustic
-bip_39_word_space_1: upon
-bip_39_word_space_10: upon bridge typical mean history follow mask illness patient
-  together
-bip_39_word_space_11: upon bridge typical mean history follow mask illness patient
-  together mimic
 bip_39_word_space_12: upon bridge typical mean history follow mask illness patient
   together mimic acoustic
 bip_39_word_space_2: upon bridge
 bip_39_word_space_3: upon bridge typical
-bip_39_word_space_4: upon bridge typical mean
-bip_39_word_space_5: upon bridge typical mean history
-bip_39_word_space_6: upon bridge typical mean history follow
-bip_39_word_space_7: upon bridge typical mean history follow mask
-bip_39_word_space_8: upon bridge typical mean history follow mask illness
-bip_39_word_space_9: upon bridge typical mean history follow mask illness patient
-bip_39_word_underscore_1: upon
-bip_39_word_underscore_10: upon_bridge_typical_mean_history_follow_mask_illness_patient_together
-bip_39_word_underscore_11: upon_bridge_typical_mean_history_follow_mask_illness_patient_together_mimic
 bip_39_word_underscore_12: upon_bridge_typical_mean_history_follow_mask_illness_patient_together_mimic_acoustic
 bip_39_word_underscore_2: upon_bridge
 bip_39_word_underscore_3: upon_bridge_typical
-bip_39_word_underscore_4: upon_bridge_typical_mean
-bip_39_word_underscore_5: upon_bridge_typical_mean_history
-bip_39_word_underscore_6: upon_bridge_typical_mean_history_follow
-bip_39_word_underscore_7: upon_bridge_typical_mean_history_follow_mask
-bip_39_word_underscore_8: upon_bridge_typical_mean_history_follow_mask_illness
-bip_39_word_underscore_9: upon_bridge_typical_mean_history_follow_mask_illness_patient
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

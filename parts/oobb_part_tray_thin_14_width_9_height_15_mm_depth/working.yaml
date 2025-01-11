@@ -1,68 +1,9 @@
-bip_39_word_dash_1: sadness
-bip_39_word_dash_10: sadness-tail-wrap-corn-brush-popular-weather-receive-gate-recall
-bip_39_word_dash_11: sadness-tail-wrap-corn-brush-popular-weather-receive-gate-recall-future
 bip_39_word_dash_12: sadness-tail-wrap-corn-brush-popular-weather-receive-gate-recall-future-agree
 bip_39_word_dash_2: sadness-tail
 bip_39_word_dash_3: sadness-tail-wrap
-bip_39_word_dash_4: sadness-tail-wrap-corn
-bip_39_word_dash_5: sadness-tail-wrap-corn-brush
-bip_39_word_dash_6: sadness-tail-wrap-corn-brush-popular
-bip_39_word_dash_7: sadness-tail-wrap-corn-brush-popular-weather
-bip_39_word_dash_8: sadness-tail-wrap-corn-brush-popular-weather-receive
-bip_39_word_dash_9: sadness-tail-wrap-corn-brush-popular-weather-receive-gate
-bip_39_word_new_br_1: sadness
-bip_39_word_new_br_10: sadness<br>tail<br>wrap<br>corn<br>brush<br>popular<br>weather<br>receive<br>gate<br>recall
-bip_39_word_new_br_11: sadness<br>tail<br>wrap<br>corn<br>brush<br>popular<br>weather<br>receive<br>gate<br>recall<br>future
 bip_39_word_new_br_12: sadness<br>tail<br>wrap<br>corn<br>brush<br>popular<br>weather<br>receive<br>gate<br>recall<br>future<br>agree
 bip_39_word_new_br_2: sadness<br>tail
 bip_39_word_new_br_3: sadness<br>tail<br>wrap
-bip_39_word_new_br_4: sadness<br>tail<br>wrap<br>corn
-bip_39_word_new_br_5: sadness<br>tail<br>wrap<br>corn<br>brush
-bip_39_word_new_br_6: sadness<br>tail<br>wrap<br>corn<br>brush<br>popular
-bip_39_word_new_br_7: sadness<br>tail<br>wrap<br>corn<br>brush<br>popular<br>weather
-bip_39_word_new_br_8: sadness<br>tail<br>wrap<br>corn<br>brush<br>popular<br>weather<br>receive
-bip_39_word_new_br_9: sadness<br>tail<br>wrap<br>corn<br>brush<br>popular<br>weather<br>receive<br>gate
-bip_39_word_new_line_1: sadness
-bip_39_word_new_line_10: 'sadness
-
-  tail
-
-  wrap
-
-  corn
-
-  brush
-
-  popular
-
-  weather
-
-  receive
-
-  gate
-
-  recall'
-bip_39_word_new_line_11: 'sadness
-
-  tail
-
-  wrap
-
-  corn
-
-  brush
-
-  popular
-
-  weather
-
-  receive
-
-  gate
-
-  recall
-
-  future'
 bip_39_word_new_line_12: 'sadness
 
   tail
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'sadness
   tail
 
   wrap'
-bip_39_word_new_line_4: 'sadness
-
-  tail
-
-  wrap
-
-  corn'
-bip_39_word_new_line_5: 'sadness
-
-  tail
-
-  wrap
-
-  corn
-
-  brush'
-bip_39_word_new_line_6: 'sadness
-
-  tail
-
-  wrap
-
-  corn
-
-  brush
-
-  popular'
-bip_39_word_new_line_7: 'sadness
-
-  tail
-
-  wrap
-
-  corn
-
-  brush
-
-  popular
-
-  weather'
-bip_39_word_new_line_8: 'sadness
-
-  tail
-
-  wrap
-
-  corn
-
-  brush
-
-  popular
-
-  weather
-
-  receive'
-bip_39_word_new_line_9: 'sadness
-
-  tail
-
-  wrap
-
-  corn
-
-  brush
-
-  popular
-
-  weather
-
-  receive
-
-  gate'
-bip_39_word_no_space_1: sadness
-bip_39_word_no_space_10: sadnesstailwrapcornbrushpopularweatherreceivegaterecall
-bip_39_word_no_space_11: sadnesstailwrapcornbrushpopularweatherreceivegaterecallfuture
 bip_39_word_no_space_12: sadnesstailwrapcornbrushpopularweatherreceivegaterecallfutureagree
 bip_39_word_no_space_2: sadnesstail
 bip_39_word_no_space_3: sadnesstailwrap
-bip_39_word_no_space_4: sadnesstailwrapcorn
-bip_39_word_no_space_5: sadnesstailwrapcornbrush
-bip_39_word_no_space_6: sadnesstailwrapcornbrushpopular
-bip_39_word_no_space_7: sadnesstailwrapcornbrushpopularweather
-bip_39_word_no_space_8: sadnesstailwrapcornbrushpopularweatherreceive
-bip_39_word_no_space_9: sadnesstailwrapcornbrushpopularweatherreceivegate
-bip_39_word_space_0:
-- sadness
-- tail
-- wrap
-- corn
-- brush
-- popular
-- weather
-- receive
-- gate
-- recall
-- future
-- agree
-bip_39_word_space_1: sadness
-bip_39_word_space_10: sadness tail wrap corn brush popular weather receive gate recall
-bip_39_word_space_11: sadness tail wrap corn brush popular weather receive gate recall
-  future
 bip_39_word_space_12: sadness tail wrap corn brush popular weather receive gate recall
   future agree
 bip_39_word_space_2: sadness tail
 bip_39_word_space_3: sadness tail wrap
-bip_39_word_space_4: sadness tail wrap corn
-bip_39_word_space_5: sadness tail wrap corn brush
-bip_39_word_space_6: sadness tail wrap corn brush popular
-bip_39_word_space_7: sadness tail wrap corn brush popular weather
-bip_39_word_space_8: sadness tail wrap corn brush popular weather receive
-bip_39_word_space_9: sadness tail wrap corn brush popular weather receive gate
-bip_39_word_underscore_1: sadness
-bip_39_word_underscore_10: sadness_tail_wrap_corn_brush_popular_weather_receive_gate_recall
-bip_39_word_underscore_11: sadness_tail_wrap_corn_brush_popular_weather_receive_gate_recall_future
 bip_39_word_underscore_12: sadness_tail_wrap_corn_brush_popular_weather_receive_gate_recall_future_agree
 bip_39_word_underscore_2: sadness_tail
 bip_39_word_underscore_3: sadness_tail_wrap
-bip_39_word_underscore_4: sadness_tail_wrap_corn
-bip_39_word_underscore_5: sadness_tail_wrap_corn_brush
-bip_39_word_underscore_6: sadness_tail_wrap_corn_brush_popular
-bip_39_word_underscore_7: sadness_tail_wrap_corn_brush_popular_weather
-bip_39_word_underscore_8: sadness_tail_wrap_corn_brush_popular_weather_receive
-bip_39_word_underscore_9: sadness_tail_wrap_corn_brush_popular_weather_receive_gate
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

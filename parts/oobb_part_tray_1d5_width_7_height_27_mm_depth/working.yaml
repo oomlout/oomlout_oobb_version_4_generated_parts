@@ -1,68 +1,9 @@
-bip_39_word_dash_1: delay
-bip_39_word_dash_10: delay-term-bacon-song-canvas-ridge-tornado-bright-fatal-three
-bip_39_word_dash_11: delay-term-bacon-song-canvas-ridge-tornado-bright-fatal-three-lamp
 bip_39_word_dash_12: delay-term-bacon-song-canvas-ridge-tornado-bright-fatal-three-lamp-album
 bip_39_word_dash_2: delay-term
 bip_39_word_dash_3: delay-term-bacon
-bip_39_word_dash_4: delay-term-bacon-song
-bip_39_word_dash_5: delay-term-bacon-song-canvas
-bip_39_word_dash_6: delay-term-bacon-song-canvas-ridge
-bip_39_word_dash_7: delay-term-bacon-song-canvas-ridge-tornado
-bip_39_word_dash_8: delay-term-bacon-song-canvas-ridge-tornado-bright
-bip_39_word_dash_9: delay-term-bacon-song-canvas-ridge-tornado-bright-fatal
-bip_39_word_new_br_1: delay
-bip_39_word_new_br_10: delay<br>term<br>bacon<br>song<br>canvas<br>ridge<br>tornado<br>bright<br>fatal<br>three
-bip_39_word_new_br_11: delay<br>term<br>bacon<br>song<br>canvas<br>ridge<br>tornado<br>bright<br>fatal<br>three<br>lamp
 bip_39_word_new_br_12: delay<br>term<br>bacon<br>song<br>canvas<br>ridge<br>tornado<br>bright<br>fatal<br>three<br>lamp<br>album
 bip_39_word_new_br_2: delay<br>term
 bip_39_word_new_br_3: delay<br>term<br>bacon
-bip_39_word_new_br_4: delay<br>term<br>bacon<br>song
-bip_39_word_new_br_5: delay<br>term<br>bacon<br>song<br>canvas
-bip_39_word_new_br_6: delay<br>term<br>bacon<br>song<br>canvas<br>ridge
-bip_39_word_new_br_7: delay<br>term<br>bacon<br>song<br>canvas<br>ridge<br>tornado
-bip_39_word_new_br_8: delay<br>term<br>bacon<br>song<br>canvas<br>ridge<br>tornado<br>bright
-bip_39_word_new_br_9: delay<br>term<br>bacon<br>song<br>canvas<br>ridge<br>tornado<br>bright<br>fatal
-bip_39_word_new_line_1: delay
-bip_39_word_new_line_10: 'delay
-
-  term
-
-  bacon
-
-  song
-
-  canvas
-
-  ridge
-
-  tornado
-
-  bright
-
-  fatal
-
-  three'
-bip_39_word_new_line_11: 'delay
-
-  term
-
-  bacon
-
-  song
-
-  canvas
-
-  ridge
-
-  tornado
-
-  bright
-
-  fatal
-
-  three
-
-  lamp'
 bip_39_word_new_line_12: 'delay
 
   term
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'delay
   term
 
   bacon'
-bip_39_word_new_line_4: 'delay
-
-  term
-
-  bacon
-
-  song'
-bip_39_word_new_line_5: 'delay
-
-  term
-
-  bacon
-
-  song
-
-  canvas'
-bip_39_word_new_line_6: 'delay
-
-  term
-
-  bacon
-
-  song
-
-  canvas
-
-  ridge'
-bip_39_word_new_line_7: 'delay
-
-  term
-
-  bacon
-
-  song
-
-  canvas
-
-  ridge
-
-  tornado'
-bip_39_word_new_line_8: 'delay
-
-  term
-
-  bacon
-
-  song
-
-  canvas
-
-  ridge
-
-  tornado
-
-  bright'
-bip_39_word_new_line_9: 'delay
-
-  term
-
-  bacon
-
-  song
-
-  canvas
-
-  ridge
-
-  tornado
-
-  bright
-
-  fatal'
-bip_39_word_no_space_1: delay
-bip_39_word_no_space_10: delaytermbaconsongcanvasridgetornadobrightfatalthree
-bip_39_word_no_space_11: delaytermbaconsongcanvasridgetornadobrightfatalthreelamp
 bip_39_word_no_space_12: delaytermbaconsongcanvasridgetornadobrightfatalthreelampalbum
 bip_39_word_no_space_2: delayterm
 bip_39_word_no_space_3: delaytermbacon
-bip_39_word_no_space_4: delaytermbaconsong
-bip_39_word_no_space_5: delaytermbaconsongcanvas
-bip_39_word_no_space_6: delaytermbaconsongcanvasridge
-bip_39_word_no_space_7: delaytermbaconsongcanvasridgetornado
-bip_39_word_no_space_8: delaytermbaconsongcanvasridgetornadobright
-bip_39_word_no_space_9: delaytermbaconsongcanvasridgetornadobrightfatal
-bip_39_word_space_0:
-- delay
-- term
-- bacon
-- song
-- canvas
-- ridge
-- tornado
-- bright
-- fatal
-- three
-- lamp
-- album
-bip_39_word_space_1: delay
-bip_39_word_space_10: delay term bacon song canvas ridge tornado bright fatal three
-bip_39_word_space_11: delay term bacon song canvas ridge tornado bright fatal three
-  lamp
 bip_39_word_space_12: delay term bacon song canvas ridge tornado bright fatal three
   lamp album
 bip_39_word_space_2: delay term
 bip_39_word_space_3: delay term bacon
-bip_39_word_space_4: delay term bacon song
-bip_39_word_space_5: delay term bacon song canvas
-bip_39_word_space_6: delay term bacon song canvas ridge
-bip_39_word_space_7: delay term bacon song canvas ridge tornado
-bip_39_word_space_8: delay term bacon song canvas ridge tornado bright
-bip_39_word_space_9: delay term bacon song canvas ridge tornado bright fatal
-bip_39_word_underscore_1: delay
-bip_39_word_underscore_10: delay_term_bacon_song_canvas_ridge_tornado_bright_fatal_three
-bip_39_word_underscore_11: delay_term_bacon_song_canvas_ridge_tornado_bright_fatal_three_lamp
 bip_39_word_underscore_12: delay_term_bacon_song_canvas_ridge_tornado_bright_fatal_three_lamp_album
 bip_39_word_underscore_2: delay_term
 bip_39_word_underscore_3: delay_term_bacon
-bip_39_word_underscore_4: delay_term_bacon_song
-bip_39_word_underscore_5: delay_term_bacon_song_canvas
-bip_39_word_underscore_6: delay_term_bacon_song_canvas_ridge
-bip_39_word_underscore_7: delay_term_bacon_song_canvas_ridge_tornado
-bip_39_word_underscore_8: delay_term_bacon_song_canvas_ridge_tornado_bright
-bip_39_word_underscore_9: delay_term_bacon_song_canvas_ridge_tornado_bright_fatal
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

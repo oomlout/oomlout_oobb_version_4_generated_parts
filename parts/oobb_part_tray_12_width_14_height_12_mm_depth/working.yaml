@@ -1,68 +1,9 @@
-bip_39_word_dash_1: horse
-bip_39_word_dash_10: horse-run-quality-tumble-speak-library-save-eager-live-coral
-bip_39_word_dash_11: horse-run-quality-tumble-speak-library-save-eager-live-coral-field
 bip_39_word_dash_12: horse-run-quality-tumble-speak-library-save-eager-live-coral-field-alley
 bip_39_word_dash_2: horse-run
 bip_39_word_dash_3: horse-run-quality
-bip_39_word_dash_4: horse-run-quality-tumble
-bip_39_word_dash_5: horse-run-quality-tumble-speak
-bip_39_word_dash_6: horse-run-quality-tumble-speak-library
-bip_39_word_dash_7: horse-run-quality-tumble-speak-library-save
-bip_39_word_dash_8: horse-run-quality-tumble-speak-library-save-eager
-bip_39_word_dash_9: horse-run-quality-tumble-speak-library-save-eager-live
-bip_39_word_new_br_1: horse
-bip_39_word_new_br_10: horse<br>run<br>quality<br>tumble<br>speak<br>library<br>save<br>eager<br>live<br>coral
-bip_39_word_new_br_11: horse<br>run<br>quality<br>tumble<br>speak<br>library<br>save<br>eager<br>live<br>coral<br>field
 bip_39_word_new_br_12: horse<br>run<br>quality<br>tumble<br>speak<br>library<br>save<br>eager<br>live<br>coral<br>field<br>alley
 bip_39_word_new_br_2: horse<br>run
 bip_39_word_new_br_3: horse<br>run<br>quality
-bip_39_word_new_br_4: horse<br>run<br>quality<br>tumble
-bip_39_word_new_br_5: horse<br>run<br>quality<br>tumble<br>speak
-bip_39_word_new_br_6: horse<br>run<br>quality<br>tumble<br>speak<br>library
-bip_39_word_new_br_7: horse<br>run<br>quality<br>tumble<br>speak<br>library<br>save
-bip_39_word_new_br_8: horse<br>run<br>quality<br>tumble<br>speak<br>library<br>save<br>eager
-bip_39_word_new_br_9: horse<br>run<br>quality<br>tumble<br>speak<br>library<br>save<br>eager<br>live
-bip_39_word_new_line_1: horse
-bip_39_word_new_line_10: 'horse
-
-  run
-
-  quality
-
-  tumble
-
-  speak
-
-  library
-
-  save
-
-  eager
-
-  live
-
-  coral'
-bip_39_word_new_line_11: 'horse
-
-  run
-
-  quality
-
-  tumble
-
-  speak
-
-  library
-
-  save
-
-  eager
-
-  live
-
-  coral
-
-  field'
 bip_39_word_new_line_12: 'horse
 
   run
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'horse
   run
 
   quality'
-bip_39_word_new_line_4: 'horse
-
-  run
-
-  quality
-
-  tumble'
-bip_39_word_new_line_5: 'horse
-
-  run
-
-  quality
-
-  tumble
-
-  speak'
-bip_39_word_new_line_6: 'horse
-
-  run
-
-  quality
-
-  tumble
-
-  speak
-
-  library'
-bip_39_word_new_line_7: 'horse
-
-  run
-
-  quality
-
-  tumble
-
-  speak
-
-  library
-
-  save'
-bip_39_word_new_line_8: 'horse
-
-  run
-
-  quality
-
-  tumble
-
-  speak
-
-  library
-
-  save
-
-  eager'
-bip_39_word_new_line_9: 'horse
-
-  run
-
-  quality
-
-  tumble
-
-  speak
-
-  library
-
-  save
-
-  eager
-
-  live'
-bip_39_word_no_space_1: horse
-bip_39_word_no_space_10: horserunqualitytumblespeaklibrarysaveeagerlivecoral
-bip_39_word_no_space_11: horserunqualitytumblespeaklibrarysaveeagerlivecoralfield
 bip_39_word_no_space_12: horserunqualitytumblespeaklibrarysaveeagerlivecoralfieldalley
 bip_39_word_no_space_2: horserun
 bip_39_word_no_space_3: horserunquality
-bip_39_word_no_space_4: horserunqualitytumble
-bip_39_word_no_space_5: horserunqualitytumblespeak
-bip_39_word_no_space_6: horserunqualitytumblespeaklibrary
-bip_39_word_no_space_7: horserunqualitytumblespeaklibrarysave
-bip_39_word_no_space_8: horserunqualitytumblespeaklibrarysaveeager
-bip_39_word_no_space_9: horserunqualitytumblespeaklibrarysaveeagerlive
-bip_39_word_space_0:
-- horse
-- run
-- quality
-- tumble
-- speak
-- library
-- save
-- eager
-- live
-- coral
-- field
-- alley
-bip_39_word_space_1: horse
-bip_39_word_space_10: horse run quality tumble speak library save eager live coral
-bip_39_word_space_11: horse run quality tumble speak library save eager live coral
-  field
 bip_39_word_space_12: horse run quality tumble speak library save eager live coral
   field alley
 bip_39_word_space_2: horse run
 bip_39_word_space_3: horse run quality
-bip_39_word_space_4: horse run quality tumble
-bip_39_word_space_5: horse run quality tumble speak
-bip_39_word_space_6: horse run quality tumble speak library
-bip_39_word_space_7: horse run quality tumble speak library save
-bip_39_word_space_8: horse run quality tumble speak library save eager
-bip_39_word_space_9: horse run quality tumble speak library save eager live
-bip_39_word_underscore_1: horse
-bip_39_word_underscore_10: horse_run_quality_tumble_speak_library_save_eager_live_coral
-bip_39_word_underscore_11: horse_run_quality_tumble_speak_library_save_eager_live_coral_field
 bip_39_word_underscore_12: horse_run_quality_tumble_speak_library_save_eager_live_coral_field_alley
 bip_39_word_underscore_2: horse_run
 bip_39_word_underscore_3: horse_run_quality
-bip_39_word_underscore_4: horse_run_quality_tumble
-bip_39_word_underscore_5: horse_run_quality_tumble_speak
-bip_39_word_underscore_6: horse_run_quality_tumble_speak_library
-bip_39_word_underscore_7: horse_run_quality_tumble_speak_library_save
-bip_39_word_underscore_8: horse_run_quality_tumble_speak_library_save_eager
-bip_39_word_underscore_9: horse_run_quality_tumble_speak_library_save_eager_live
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

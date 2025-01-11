@@ -1,68 +1,9 @@
-bip_39_word_dash_1: canoe
-bip_39_word_dash_10: canoe-sound-secret-sadness-army-garment-chunk-moral-deer-just
-bip_39_word_dash_11: canoe-sound-secret-sadness-army-garment-chunk-moral-deer-just-little
 bip_39_word_dash_12: canoe-sound-secret-sadness-army-garment-chunk-moral-deer-just-little-arm
 bip_39_word_dash_2: canoe-sound
 bip_39_word_dash_3: canoe-sound-secret
-bip_39_word_dash_4: canoe-sound-secret-sadness
-bip_39_word_dash_5: canoe-sound-secret-sadness-army
-bip_39_word_dash_6: canoe-sound-secret-sadness-army-garment
-bip_39_word_dash_7: canoe-sound-secret-sadness-army-garment-chunk
-bip_39_word_dash_8: canoe-sound-secret-sadness-army-garment-chunk-moral
-bip_39_word_dash_9: canoe-sound-secret-sadness-army-garment-chunk-moral-deer
-bip_39_word_new_br_1: canoe
-bip_39_word_new_br_10: canoe<br>sound<br>secret<br>sadness<br>army<br>garment<br>chunk<br>moral<br>deer<br>just
-bip_39_word_new_br_11: canoe<br>sound<br>secret<br>sadness<br>army<br>garment<br>chunk<br>moral<br>deer<br>just<br>little
 bip_39_word_new_br_12: canoe<br>sound<br>secret<br>sadness<br>army<br>garment<br>chunk<br>moral<br>deer<br>just<br>little<br>arm
 bip_39_word_new_br_2: canoe<br>sound
 bip_39_word_new_br_3: canoe<br>sound<br>secret
-bip_39_word_new_br_4: canoe<br>sound<br>secret<br>sadness
-bip_39_word_new_br_5: canoe<br>sound<br>secret<br>sadness<br>army
-bip_39_word_new_br_6: canoe<br>sound<br>secret<br>sadness<br>army<br>garment
-bip_39_word_new_br_7: canoe<br>sound<br>secret<br>sadness<br>army<br>garment<br>chunk
-bip_39_word_new_br_8: canoe<br>sound<br>secret<br>sadness<br>army<br>garment<br>chunk<br>moral
-bip_39_word_new_br_9: canoe<br>sound<br>secret<br>sadness<br>army<br>garment<br>chunk<br>moral<br>deer
-bip_39_word_new_line_1: canoe
-bip_39_word_new_line_10: 'canoe
-
-  sound
-
-  secret
-
-  sadness
-
-  army
-
-  garment
-
-  chunk
-
-  moral
-
-  deer
-
-  just'
-bip_39_word_new_line_11: 'canoe
-
-  sound
-
-  secret
-
-  sadness
-
-  army
-
-  garment
-
-  chunk
-
-  moral
-
-  deer
-
-  just
-
-  little'
 bip_39_word_new_line_12: 'canoe
 
   sound
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'canoe
   sound
 
   secret'
-bip_39_word_new_line_4: 'canoe
-
-  sound
-
-  secret
-
-  sadness'
-bip_39_word_new_line_5: 'canoe
-
-  sound
-
-  secret
-
-  sadness
-
-  army'
-bip_39_word_new_line_6: 'canoe
-
-  sound
-
-  secret
-
-  sadness
-
-  army
-
-  garment'
-bip_39_word_new_line_7: 'canoe
-
-  sound
-
-  secret
-
-  sadness
-
-  army
-
-  garment
-
-  chunk'
-bip_39_word_new_line_8: 'canoe
-
-  sound
-
-  secret
-
-  sadness
-
-  army
-
-  garment
-
-  chunk
-
-  moral'
-bip_39_word_new_line_9: 'canoe
-
-  sound
-
-  secret
-
-  sadness
-
-  army
-
-  garment
-
-  chunk
-
-  moral
-
-  deer'
-bip_39_word_no_space_1: canoe
-bip_39_word_no_space_10: canoesoundsecretsadnessarmygarmentchunkmoraldeerjust
-bip_39_word_no_space_11: canoesoundsecretsadnessarmygarmentchunkmoraldeerjustlittle
 bip_39_word_no_space_12: canoesoundsecretsadnessarmygarmentchunkmoraldeerjustlittlearm
 bip_39_word_no_space_2: canoesound
 bip_39_word_no_space_3: canoesoundsecret
-bip_39_word_no_space_4: canoesoundsecretsadness
-bip_39_word_no_space_5: canoesoundsecretsadnessarmy
-bip_39_word_no_space_6: canoesoundsecretsadnessarmygarment
-bip_39_word_no_space_7: canoesoundsecretsadnessarmygarmentchunk
-bip_39_word_no_space_8: canoesoundsecretsadnessarmygarmentchunkmoral
-bip_39_word_no_space_9: canoesoundsecretsadnessarmygarmentchunkmoraldeer
-bip_39_word_space_0:
-- canoe
-- sound
-- secret
-- sadness
-- army
-- garment
-- chunk
-- moral
-- deer
-- just
-- little
-- arm
-bip_39_word_space_1: canoe
-bip_39_word_space_10: canoe sound secret sadness army garment chunk moral deer just
-bip_39_word_space_11: canoe sound secret sadness army garment chunk moral deer just
-  little
 bip_39_word_space_12: canoe sound secret sadness army garment chunk moral deer just
   little arm
 bip_39_word_space_2: canoe sound
 bip_39_word_space_3: canoe sound secret
-bip_39_word_space_4: canoe sound secret sadness
-bip_39_word_space_5: canoe sound secret sadness army
-bip_39_word_space_6: canoe sound secret sadness army garment
-bip_39_word_space_7: canoe sound secret sadness army garment chunk
-bip_39_word_space_8: canoe sound secret sadness army garment chunk moral
-bip_39_word_space_9: canoe sound secret sadness army garment chunk moral deer
-bip_39_word_underscore_1: canoe
-bip_39_word_underscore_10: canoe_sound_secret_sadness_army_garment_chunk_moral_deer_just
-bip_39_word_underscore_11: canoe_sound_secret_sadness_army_garment_chunk_moral_deer_just_little
 bip_39_word_underscore_12: canoe_sound_secret_sadness_army_garment_chunk_moral_deer_just_little_arm
 bip_39_word_underscore_2: canoe_sound
 bip_39_word_underscore_3: canoe_sound_secret
-bip_39_word_underscore_4: canoe_sound_secret_sadness
-bip_39_word_underscore_5: canoe_sound_secret_sadness_army
-bip_39_word_underscore_6: canoe_sound_secret_sadness_army_garment
-bip_39_word_underscore_7: canoe_sound_secret_sadness_army_garment_chunk
-bip_39_word_underscore_8: canoe_sound_secret_sadness_army_garment_chunk_moral
-bip_39_word_underscore_9: canoe_sound_secret_sadness_army_garment_chunk_moral_deer
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

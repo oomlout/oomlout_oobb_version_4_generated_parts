@@ -1,68 +1,9 @@
-bip_39_word_dash_1: error
-bip_39_word_dash_10: error-permit-recall-hurt-inspire-endless-myself-size-wing-embark
-bip_39_word_dash_11: error-permit-recall-hurt-inspire-endless-myself-size-wing-embark-crush
 bip_39_word_dash_12: error-permit-recall-hurt-inspire-endless-myself-size-wing-embark-crush-account
 bip_39_word_dash_2: error-permit
 bip_39_word_dash_3: error-permit-recall
-bip_39_word_dash_4: error-permit-recall-hurt
-bip_39_word_dash_5: error-permit-recall-hurt-inspire
-bip_39_word_dash_6: error-permit-recall-hurt-inspire-endless
-bip_39_word_dash_7: error-permit-recall-hurt-inspire-endless-myself
-bip_39_word_dash_8: error-permit-recall-hurt-inspire-endless-myself-size
-bip_39_word_dash_9: error-permit-recall-hurt-inspire-endless-myself-size-wing
-bip_39_word_new_br_1: error
-bip_39_word_new_br_10: error<br>permit<br>recall<br>hurt<br>inspire<br>endless<br>myself<br>size<br>wing<br>embark
-bip_39_word_new_br_11: error<br>permit<br>recall<br>hurt<br>inspire<br>endless<br>myself<br>size<br>wing<br>embark<br>crush
 bip_39_word_new_br_12: error<br>permit<br>recall<br>hurt<br>inspire<br>endless<br>myself<br>size<br>wing<br>embark<br>crush<br>account
 bip_39_word_new_br_2: error<br>permit
 bip_39_word_new_br_3: error<br>permit<br>recall
-bip_39_word_new_br_4: error<br>permit<br>recall<br>hurt
-bip_39_word_new_br_5: error<br>permit<br>recall<br>hurt<br>inspire
-bip_39_word_new_br_6: error<br>permit<br>recall<br>hurt<br>inspire<br>endless
-bip_39_word_new_br_7: error<br>permit<br>recall<br>hurt<br>inspire<br>endless<br>myself
-bip_39_word_new_br_8: error<br>permit<br>recall<br>hurt<br>inspire<br>endless<br>myself<br>size
-bip_39_word_new_br_9: error<br>permit<br>recall<br>hurt<br>inspire<br>endless<br>myself<br>size<br>wing
-bip_39_word_new_line_1: error
-bip_39_word_new_line_10: 'error
-
-  permit
-
-  recall
-
-  hurt
-
-  inspire
-
-  endless
-
-  myself
-
-  size
-
-  wing
-
-  embark'
-bip_39_word_new_line_11: 'error
-
-  permit
-
-  recall
-
-  hurt
-
-  inspire
-
-  endless
-
-  myself
-
-  size
-
-  wing
-
-  embark
-
-  crush'
 bip_39_word_new_line_12: 'error
 
   permit
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'error
   permit
 
   recall'
-bip_39_word_new_line_4: 'error
-
-  permit
-
-  recall
-
-  hurt'
-bip_39_word_new_line_5: 'error
-
-  permit
-
-  recall
-
-  hurt
-
-  inspire'
-bip_39_word_new_line_6: 'error
-
-  permit
-
-  recall
-
-  hurt
-
-  inspire
-
-  endless'
-bip_39_word_new_line_7: 'error
-
-  permit
-
-  recall
-
-  hurt
-
-  inspire
-
-  endless
-
-  myself'
-bip_39_word_new_line_8: 'error
-
-  permit
-
-  recall
-
-  hurt
-
-  inspire
-
-  endless
-
-  myself
-
-  size'
-bip_39_word_new_line_9: 'error
-
-  permit
-
-  recall
-
-  hurt
-
-  inspire
-
-  endless
-
-  myself
-
-  size
-
-  wing'
-bip_39_word_no_space_1: error
-bip_39_word_no_space_10: errorpermitrecallhurtinspireendlessmyselfsizewingembark
-bip_39_word_no_space_11: errorpermitrecallhurtinspireendlessmyselfsizewingembarkcrush
 bip_39_word_no_space_12: errorpermitrecallhurtinspireendlessmyselfsizewingembarkcrushaccount
 bip_39_word_no_space_2: errorpermit
 bip_39_word_no_space_3: errorpermitrecall
-bip_39_word_no_space_4: errorpermitrecallhurt
-bip_39_word_no_space_5: errorpermitrecallhurtinspire
-bip_39_word_no_space_6: errorpermitrecallhurtinspireendless
-bip_39_word_no_space_7: errorpermitrecallhurtinspireendlessmyself
-bip_39_word_no_space_8: errorpermitrecallhurtinspireendlessmyselfsize
-bip_39_word_no_space_9: errorpermitrecallhurtinspireendlessmyselfsizewing
-bip_39_word_space_0:
-- error
-- permit
-- recall
-- hurt
-- inspire
-- endless
-- myself
-- size
-- wing
-- embark
-- crush
-- account
-bip_39_word_space_1: error
-bip_39_word_space_10: error permit recall hurt inspire endless myself size wing embark
-bip_39_word_space_11: error permit recall hurt inspire endless myself size wing embark
-  crush
 bip_39_word_space_12: error permit recall hurt inspire endless myself size wing embark
   crush account
 bip_39_word_space_2: error permit
 bip_39_word_space_3: error permit recall
-bip_39_word_space_4: error permit recall hurt
-bip_39_word_space_5: error permit recall hurt inspire
-bip_39_word_space_6: error permit recall hurt inspire endless
-bip_39_word_space_7: error permit recall hurt inspire endless myself
-bip_39_word_space_8: error permit recall hurt inspire endless myself size
-bip_39_word_space_9: error permit recall hurt inspire endless myself size wing
-bip_39_word_underscore_1: error
-bip_39_word_underscore_10: error_permit_recall_hurt_inspire_endless_myself_size_wing_embark
-bip_39_word_underscore_11: error_permit_recall_hurt_inspire_endless_myself_size_wing_embark_crush
 bip_39_word_underscore_12: error_permit_recall_hurt_inspire_endless_myself_size_wing_embark_crush_account
 bip_39_word_underscore_2: error_permit
 bip_39_word_underscore_3: error_permit_recall
-bip_39_word_underscore_4: error_permit_recall_hurt
-bip_39_word_underscore_5: error_permit_recall_hurt_inspire
-bip_39_word_underscore_6: error_permit_recall_hurt_inspire_endless
-bip_39_word_underscore_7: error_permit_recall_hurt_inspire_endless_myself
-bip_39_word_underscore_8: error_permit_recall_hurt_inspire_endless_myself_size
-bip_39_word_underscore_9: error_permit_recall_hurt_inspire_endless_myself_size_wing
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

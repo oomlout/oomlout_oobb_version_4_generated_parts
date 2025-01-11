@@ -1,68 +1,9 @@
-bip_39_word_dash_1: lab
-bip_39_word_dash_10: lab-cabbage-donate-brisk-defy-sample-siege-cannon-powder-cupboard
-bip_39_word_dash_11: lab-cabbage-donate-brisk-defy-sample-siege-cannon-powder-cupboard-example
 bip_39_word_dash_12: lab-cabbage-donate-brisk-defy-sample-siege-cannon-powder-cupboard-example-age
 bip_39_word_dash_2: lab-cabbage
 bip_39_word_dash_3: lab-cabbage-donate
-bip_39_word_dash_4: lab-cabbage-donate-brisk
-bip_39_word_dash_5: lab-cabbage-donate-brisk-defy
-bip_39_word_dash_6: lab-cabbage-donate-brisk-defy-sample
-bip_39_word_dash_7: lab-cabbage-donate-brisk-defy-sample-siege
-bip_39_word_dash_8: lab-cabbage-donate-brisk-defy-sample-siege-cannon
-bip_39_word_dash_9: lab-cabbage-donate-brisk-defy-sample-siege-cannon-powder
-bip_39_word_new_br_1: lab
-bip_39_word_new_br_10: lab<br>cabbage<br>donate<br>brisk<br>defy<br>sample<br>siege<br>cannon<br>powder<br>cupboard
-bip_39_word_new_br_11: lab<br>cabbage<br>donate<br>brisk<br>defy<br>sample<br>siege<br>cannon<br>powder<br>cupboard<br>example
 bip_39_word_new_br_12: lab<br>cabbage<br>donate<br>brisk<br>defy<br>sample<br>siege<br>cannon<br>powder<br>cupboard<br>example<br>age
 bip_39_word_new_br_2: lab<br>cabbage
 bip_39_word_new_br_3: lab<br>cabbage<br>donate
-bip_39_word_new_br_4: lab<br>cabbage<br>donate<br>brisk
-bip_39_word_new_br_5: lab<br>cabbage<br>donate<br>brisk<br>defy
-bip_39_word_new_br_6: lab<br>cabbage<br>donate<br>brisk<br>defy<br>sample
-bip_39_word_new_br_7: lab<br>cabbage<br>donate<br>brisk<br>defy<br>sample<br>siege
-bip_39_word_new_br_8: lab<br>cabbage<br>donate<br>brisk<br>defy<br>sample<br>siege<br>cannon
-bip_39_word_new_br_9: lab<br>cabbage<br>donate<br>brisk<br>defy<br>sample<br>siege<br>cannon<br>powder
-bip_39_word_new_line_1: lab
-bip_39_word_new_line_10: 'lab
-
-  cabbage
-
-  donate
-
-  brisk
-
-  defy
-
-  sample
-
-  siege
-
-  cannon
-
-  powder
-
-  cupboard'
-bip_39_word_new_line_11: 'lab
-
-  cabbage
-
-  donate
-
-  brisk
-
-  defy
-
-  sample
-
-  siege
-
-  cannon
-
-  powder
-
-  cupboard
-
-  example'
 bip_39_word_new_line_12: 'lab
 
   cabbage
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'lab
   cabbage
 
   donate'
-bip_39_word_new_line_4: 'lab
-
-  cabbage
-
-  donate
-
-  brisk'
-bip_39_word_new_line_5: 'lab
-
-  cabbage
-
-  donate
-
-  brisk
-
-  defy'
-bip_39_word_new_line_6: 'lab
-
-  cabbage
-
-  donate
-
-  brisk
-
-  defy
-
-  sample'
-bip_39_word_new_line_7: 'lab
-
-  cabbage
-
-  donate
-
-  brisk
-
-  defy
-
-  sample
-
-  siege'
-bip_39_word_new_line_8: 'lab
-
-  cabbage
-
-  donate
-
-  brisk
-
-  defy
-
-  sample
-
-  siege
-
-  cannon'
-bip_39_word_new_line_9: 'lab
-
-  cabbage
-
-  donate
-
-  brisk
-
-  defy
-
-  sample
-
-  siege
-
-  cannon
-
-  powder'
-bip_39_word_no_space_1: lab
-bip_39_word_no_space_10: labcabbagedonatebriskdefysamplesiegecannonpowdercupboard
-bip_39_word_no_space_11: labcabbagedonatebriskdefysamplesiegecannonpowdercupboardexample
 bip_39_word_no_space_12: labcabbagedonatebriskdefysamplesiegecannonpowdercupboardexampleage
 bip_39_word_no_space_2: labcabbage
 bip_39_word_no_space_3: labcabbagedonate
-bip_39_word_no_space_4: labcabbagedonatebrisk
-bip_39_word_no_space_5: labcabbagedonatebriskdefy
-bip_39_word_no_space_6: labcabbagedonatebriskdefysample
-bip_39_word_no_space_7: labcabbagedonatebriskdefysamplesiege
-bip_39_word_no_space_8: labcabbagedonatebriskdefysamplesiegecannon
-bip_39_word_no_space_9: labcabbagedonatebriskdefysamplesiegecannonpowder
-bip_39_word_space_0:
-- lab
-- cabbage
-- donate
-- brisk
-- defy
-- sample
-- siege
-- cannon
-- powder
-- cupboard
-- example
-- age
-bip_39_word_space_1: lab
-bip_39_word_space_10: lab cabbage donate brisk defy sample siege cannon powder cupboard
-bip_39_word_space_11: lab cabbage donate brisk defy sample siege cannon powder cupboard
-  example
 bip_39_word_space_12: lab cabbage donate brisk defy sample siege cannon powder cupboard
   example age
 bip_39_word_space_2: lab cabbage
 bip_39_word_space_3: lab cabbage donate
-bip_39_word_space_4: lab cabbage donate brisk
-bip_39_word_space_5: lab cabbage donate brisk defy
-bip_39_word_space_6: lab cabbage donate brisk defy sample
-bip_39_word_space_7: lab cabbage donate brisk defy sample siege
-bip_39_word_space_8: lab cabbage donate brisk defy sample siege cannon
-bip_39_word_space_9: lab cabbage donate brisk defy sample siege cannon powder
-bip_39_word_underscore_1: lab
-bip_39_word_underscore_10: lab_cabbage_donate_brisk_defy_sample_siege_cannon_powder_cupboard
-bip_39_word_underscore_11: lab_cabbage_donate_brisk_defy_sample_siege_cannon_powder_cupboard_example
 bip_39_word_underscore_12: lab_cabbage_donate_brisk_defy_sample_siege_cannon_powder_cupboard_example_age
 bip_39_word_underscore_2: lab_cabbage
 bip_39_word_underscore_3: lab_cabbage_donate
-bip_39_word_underscore_4: lab_cabbage_donate_brisk
-bip_39_word_underscore_5: lab_cabbage_donate_brisk_defy
-bip_39_word_underscore_6: lab_cabbage_donate_brisk_defy_sample
-bip_39_word_underscore_7: lab_cabbage_donate_brisk_defy_sample_siege
-bip_39_word_underscore_8: lab_cabbage_donate_brisk_defy_sample_siege_cannon
-bip_39_word_underscore_9: lab_cabbage_donate_brisk_defy_sample_siege_cannon_powder
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

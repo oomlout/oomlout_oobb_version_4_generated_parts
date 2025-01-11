@@ -1,68 +1,9 @@
-bip_39_word_dash_1: emotion
-bip_39_word_dash_10: emotion-gaze-east-enact-enroll-giggle-sample-treat-sense-turtle
-bip_39_word_dash_11: emotion-gaze-east-enact-enroll-giggle-sample-treat-sense-turtle-because
 bip_39_word_dash_12: emotion-gaze-east-enact-enroll-giggle-sample-treat-sense-turtle-because-art
 bip_39_word_dash_2: emotion-gaze
 bip_39_word_dash_3: emotion-gaze-east
-bip_39_word_dash_4: emotion-gaze-east-enact
-bip_39_word_dash_5: emotion-gaze-east-enact-enroll
-bip_39_word_dash_6: emotion-gaze-east-enact-enroll-giggle
-bip_39_word_dash_7: emotion-gaze-east-enact-enroll-giggle-sample
-bip_39_word_dash_8: emotion-gaze-east-enact-enroll-giggle-sample-treat
-bip_39_word_dash_9: emotion-gaze-east-enact-enroll-giggle-sample-treat-sense
-bip_39_word_new_br_1: emotion
-bip_39_word_new_br_10: emotion<br>gaze<br>east<br>enact<br>enroll<br>giggle<br>sample<br>treat<br>sense<br>turtle
-bip_39_word_new_br_11: emotion<br>gaze<br>east<br>enact<br>enroll<br>giggle<br>sample<br>treat<br>sense<br>turtle<br>because
 bip_39_word_new_br_12: emotion<br>gaze<br>east<br>enact<br>enroll<br>giggle<br>sample<br>treat<br>sense<br>turtle<br>because<br>art
 bip_39_word_new_br_2: emotion<br>gaze
 bip_39_word_new_br_3: emotion<br>gaze<br>east
-bip_39_word_new_br_4: emotion<br>gaze<br>east<br>enact
-bip_39_word_new_br_5: emotion<br>gaze<br>east<br>enact<br>enroll
-bip_39_word_new_br_6: emotion<br>gaze<br>east<br>enact<br>enroll<br>giggle
-bip_39_word_new_br_7: emotion<br>gaze<br>east<br>enact<br>enroll<br>giggle<br>sample
-bip_39_word_new_br_8: emotion<br>gaze<br>east<br>enact<br>enroll<br>giggle<br>sample<br>treat
-bip_39_word_new_br_9: emotion<br>gaze<br>east<br>enact<br>enroll<br>giggle<br>sample<br>treat<br>sense
-bip_39_word_new_line_1: emotion
-bip_39_word_new_line_10: 'emotion
-
-  gaze
-
-  east
-
-  enact
-
-  enroll
-
-  giggle
-
-  sample
-
-  treat
-
-  sense
-
-  turtle'
-bip_39_word_new_line_11: 'emotion
-
-  gaze
-
-  east
-
-  enact
-
-  enroll
-
-  giggle
-
-  sample
-
-  treat
-
-  sense
-
-  turtle
-
-  because'
 bip_39_word_new_line_12: 'emotion
 
   gaze
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'emotion
   gaze
 
   east'
-bip_39_word_new_line_4: 'emotion
-
-  gaze
-
-  east
-
-  enact'
-bip_39_word_new_line_5: 'emotion
-
-  gaze
-
-  east
-
-  enact
-
-  enroll'
-bip_39_word_new_line_6: 'emotion
-
-  gaze
-
-  east
-
-  enact
-
-  enroll
-
-  giggle'
-bip_39_word_new_line_7: 'emotion
-
-  gaze
-
-  east
-
-  enact
-
-  enroll
-
-  giggle
-
-  sample'
-bip_39_word_new_line_8: 'emotion
-
-  gaze
-
-  east
-
-  enact
-
-  enroll
-
-  giggle
-
-  sample
-
-  treat'
-bip_39_word_new_line_9: 'emotion
-
-  gaze
-
-  east
-
-  enact
-
-  enroll
-
-  giggle
-
-  sample
-
-  treat
-
-  sense'
-bip_39_word_no_space_1: emotion
-bip_39_word_no_space_10: emotiongazeeastenactenrollgigglesampletreatsenseturtle
-bip_39_word_no_space_11: emotiongazeeastenactenrollgigglesampletreatsenseturtlebecause
 bip_39_word_no_space_12: emotiongazeeastenactenrollgigglesampletreatsenseturtlebecauseart
 bip_39_word_no_space_2: emotiongaze
 bip_39_word_no_space_3: emotiongazeeast
-bip_39_word_no_space_4: emotiongazeeastenact
-bip_39_word_no_space_5: emotiongazeeastenactenroll
-bip_39_word_no_space_6: emotiongazeeastenactenrollgiggle
-bip_39_word_no_space_7: emotiongazeeastenactenrollgigglesample
-bip_39_word_no_space_8: emotiongazeeastenactenrollgigglesampletreat
-bip_39_word_no_space_9: emotiongazeeastenactenrollgigglesampletreatsense
-bip_39_word_space_0:
-- emotion
-- gaze
-- east
-- enact
-- enroll
-- giggle
-- sample
-- treat
-- sense
-- turtle
-- because
-- art
-bip_39_word_space_1: emotion
-bip_39_word_space_10: emotion gaze east enact enroll giggle sample treat sense turtle
-bip_39_word_space_11: emotion gaze east enact enroll giggle sample treat sense turtle
-  because
 bip_39_word_space_12: emotion gaze east enact enroll giggle sample treat sense turtle
   because art
 bip_39_word_space_2: emotion gaze
 bip_39_word_space_3: emotion gaze east
-bip_39_word_space_4: emotion gaze east enact
-bip_39_word_space_5: emotion gaze east enact enroll
-bip_39_word_space_6: emotion gaze east enact enroll giggle
-bip_39_word_space_7: emotion gaze east enact enroll giggle sample
-bip_39_word_space_8: emotion gaze east enact enroll giggle sample treat
-bip_39_word_space_9: emotion gaze east enact enroll giggle sample treat sense
-bip_39_word_underscore_1: emotion
-bip_39_word_underscore_10: emotion_gaze_east_enact_enroll_giggle_sample_treat_sense_turtle
-bip_39_word_underscore_11: emotion_gaze_east_enact_enroll_giggle_sample_treat_sense_turtle_because
 bip_39_word_underscore_12: emotion_gaze_east_enact_enroll_giggle_sample_treat_sense_turtle_because_art
 bip_39_word_underscore_2: emotion_gaze
 bip_39_word_underscore_3: emotion_gaze_east
-bip_39_word_underscore_4: emotion_gaze_east_enact
-bip_39_word_underscore_5: emotion_gaze_east_enact_enroll
-bip_39_word_underscore_6: emotion_gaze_east_enact_enroll_giggle
-bip_39_word_underscore_7: emotion_gaze_east_enact_enroll_giggle_sample
-bip_39_word_underscore_8: emotion_gaze_east_enact_enroll_giggle_sample_treat
-bip_39_word_underscore_9: emotion_gaze_east_enact_enroll_giggle_sample_treat_sense
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

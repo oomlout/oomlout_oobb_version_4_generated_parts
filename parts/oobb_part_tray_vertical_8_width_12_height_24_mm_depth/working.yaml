@@ -1,68 +1,9 @@
-bip_39_word_dash_1: output
-bip_39_word_dash_10: output-chef-final-fresh-camp-flock-mad-orbit-brick-satoshi
-bip_39_word_dash_11: output-chef-final-fresh-camp-flock-mad-orbit-brick-satoshi-flat
 bip_39_word_dash_12: output-chef-final-fresh-camp-flock-mad-orbit-brick-satoshi-flat-apart
 bip_39_word_dash_2: output-chef
 bip_39_word_dash_3: output-chef-final
-bip_39_word_dash_4: output-chef-final-fresh
-bip_39_word_dash_5: output-chef-final-fresh-camp
-bip_39_word_dash_6: output-chef-final-fresh-camp-flock
-bip_39_word_dash_7: output-chef-final-fresh-camp-flock-mad
-bip_39_word_dash_8: output-chef-final-fresh-camp-flock-mad-orbit
-bip_39_word_dash_9: output-chef-final-fresh-camp-flock-mad-orbit-brick
-bip_39_word_new_br_1: output
-bip_39_word_new_br_10: output<br>chef<br>final<br>fresh<br>camp<br>flock<br>mad<br>orbit<br>brick<br>satoshi
-bip_39_word_new_br_11: output<br>chef<br>final<br>fresh<br>camp<br>flock<br>mad<br>orbit<br>brick<br>satoshi<br>flat
 bip_39_word_new_br_12: output<br>chef<br>final<br>fresh<br>camp<br>flock<br>mad<br>orbit<br>brick<br>satoshi<br>flat<br>apart
 bip_39_word_new_br_2: output<br>chef
 bip_39_word_new_br_3: output<br>chef<br>final
-bip_39_word_new_br_4: output<br>chef<br>final<br>fresh
-bip_39_word_new_br_5: output<br>chef<br>final<br>fresh<br>camp
-bip_39_word_new_br_6: output<br>chef<br>final<br>fresh<br>camp<br>flock
-bip_39_word_new_br_7: output<br>chef<br>final<br>fresh<br>camp<br>flock<br>mad
-bip_39_word_new_br_8: output<br>chef<br>final<br>fresh<br>camp<br>flock<br>mad<br>orbit
-bip_39_word_new_br_9: output<br>chef<br>final<br>fresh<br>camp<br>flock<br>mad<br>orbit<br>brick
-bip_39_word_new_line_1: output
-bip_39_word_new_line_10: 'output
-
-  chef
-
-  final
-
-  fresh
-
-  camp
-
-  flock
-
-  mad
-
-  orbit
-
-  brick
-
-  satoshi'
-bip_39_word_new_line_11: 'output
-
-  chef
-
-  final
-
-  fresh
-
-  camp
-
-  flock
-
-  mad
-
-  orbit
-
-  brick
-
-  satoshi
-
-  flat'
 bip_39_word_new_line_12: 'output
 
   chef
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'output
   chef
 
   final'
-bip_39_word_new_line_4: 'output
-
-  chef
-
-  final
-
-  fresh'
-bip_39_word_new_line_5: 'output
-
-  chef
-
-  final
-
-  fresh
-
-  camp'
-bip_39_word_new_line_6: 'output
-
-  chef
-
-  final
-
-  fresh
-
-  camp
-
-  flock'
-bip_39_word_new_line_7: 'output
-
-  chef
-
-  final
-
-  fresh
-
-  camp
-
-  flock
-
-  mad'
-bip_39_word_new_line_8: 'output
-
-  chef
-
-  final
-
-  fresh
-
-  camp
-
-  flock
-
-  mad
-
-  orbit'
-bip_39_word_new_line_9: 'output
-
-  chef
-
-  final
-
-  fresh
-
-  camp
-
-  flock
-
-  mad
-
-  orbit
-
-  brick'
-bip_39_word_no_space_1: output
-bip_39_word_no_space_10: outputcheffinalfreshcampflockmadorbitbricksatoshi
-bip_39_word_no_space_11: outputcheffinalfreshcampflockmadorbitbricksatoshiflat
 bip_39_word_no_space_12: outputcheffinalfreshcampflockmadorbitbricksatoshiflatapart
 bip_39_word_no_space_2: outputchef
 bip_39_word_no_space_3: outputcheffinal
-bip_39_word_no_space_4: outputcheffinalfresh
-bip_39_word_no_space_5: outputcheffinalfreshcamp
-bip_39_word_no_space_6: outputcheffinalfreshcampflock
-bip_39_word_no_space_7: outputcheffinalfreshcampflockmad
-bip_39_word_no_space_8: outputcheffinalfreshcampflockmadorbit
-bip_39_word_no_space_9: outputcheffinalfreshcampflockmadorbitbrick
-bip_39_word_space_0:
-- output
-- chef
-- final
-- fresh
-- camp
-- flock
-- mad
-- orbit
-- brick
-- satoshi
-- flat
-- apart
-bip_39_word_space_1: output
-bip_39_word_space_10: output chef final fresh camp flock mad orbit brick satoshi
-bip_39_word_space_11: output chef final fresh camp flock mad orbit brick satoshi flat
 bip_39_word_space_12: output chef final fresh camp flock mad orbit brick satoshi flat
   apart
 bip_39_word_space_2: output chef
 bip_39_word_space_3: output chef final
-bip_39_word_space_4: output chef final fresh
-bip_39_word_space_5: output chef final fresh camp
-bip_39_word_space_6: output chef final fresh camp flock
-bip_39_word_space_7: output chef final fresh camp flock mad
-bip_39_word_space_8: output chef final fresh camp flock mad orbit
-bip_39_word_space_9: output chef final fresh camp flock mad orbit brick
-bip_39_word_underscore_1: output
-bip_39_word_underscore_10: output_chef_final_fresh_camp_flock_mad_orbit_brick_satoshi
-bip_39_word_underscore_11: output_chef_final_fresh_camp_flock_mad_orbit_brick_satoshi_flat
 bip_39_word_underscore_12: output_chef_final_fresh_camp_flock_mad_orbit_brick_satoshi_flat_apart
 bip_39_word_underscore_2: output_chef
 bip_39_word_underscore_3: output_chef_final
-bip_39_word_underscore_4: output_chef_final_fresh
-bip_39_word_underscore_5: output_chef_final_fresh_camp
-bip_39_word_underscore_6: output_chef_final_fresh_camp_flock
-bip_39_word_underscore_7: output_chef_final_fresh_camp_flock_mad
-bip_39_word_underscore_8: output_chef_final_fresh_camp_flock_mad_orbit
-bip_39_word_underscore_9: output_chef_final_fresh_camp_flock_mad_orbit_brick
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

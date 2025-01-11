@@ -1,68 +1,9 @@
-bip_39_word_dash_1: dinosaur
-bip_39_word_dash_10: dinosaur-similar-tissue-evil-anchor-flight-poet-method-mad-slush
-bip_39_word_dash_11: dinosaur-similar-tissue-evil-anchor-flight-poet-method-mad-slush-mimic
 bip_39_word_dash_12: dinosaur-similar-tissue-evil-anchor-flight-poet-method-mad-slush-mimic-avocado
 bip_39_word_dash_2: dinosaur-similar
 bip_39_word_dash_3: dinosaur-similar-tissue
-bip_39_word_dash_4: dinosaur-similar-tissue-evil
-bip_39_word_dash_5: dinosaur-similar-tissue-evil-anchor
-bip_39_word_dash_6: dinosaur-similar-tissue-evil-anchor-flight
-bip_39_word_dash_7: dinosaur-similar-tissue-evil-anchor-flight-poet
-bip_39_word_dash_8: dinosaur-similar-tissue-evil-anchor-flight-poet-method
-bip_39_word_dash_9: dinosaur-similar-tissue-evil-anchor-flight-poet-method-mad
-bip_39_word_new_br_1: dinosaur
-bip_39_word_new_br_10: dinosaur<br>similar<br>tissue<br>evil<br>anchor<br>flight<br>poet<br>method<br>mad<br>slush
-bip_39_word_new_br_11: dinosaur<br>similar<br>tissue<br>evil<br>anchor<br>flight<br>poet<br>method<br>mad<br>slush<br>mimic
 bip_39_word_new_br_12: dinosaur<br>similar<br>tissue<br>evil<br>anchor<br>flight<br>poet<br>method<br>mad<br>slush<br>mimic<br>avocado
 bip_39_word_new_br_2: dinosaur<br>similar
 bip_39_word_new_br_3: dinosaur<br>similar<br>tissue
-bip_39_word_new_br_4: dinosaur<br>similar<br>tissue<br>evil
-bip_39_word_new_br_5: dinosaur<br>similar<br>tissue<br>evil<br>anchor
-bip_39_word_new_br_6: dinosaur<br>similar<br>tissue<br>evil<br>anchor<br>flight
-bip_39_word_new_br_7: dinosaur<br>similar<br>tissue<br>evil<br>anchor<br>flight<br>poet
-bip_39_word_new_br_8: dinosaur<br>similar<br>tissue<br>evil<br>anchor<br>flight<br>poet<br>method
-bip_39_word_new_br_9: dinosaur<br>similar<br>tissue<br>evil<br>anchor<br>flight<br>poet<br>method<br>mad
-bip_39_word_new_line_1: dinosaur
-bip_39_word_new_line_10: 'dinosaur
-
-  similar
-
-  tissue
-
-  evil
-
-  anchor
-
-  flight
-
-  poet
-
-  method
-
-  mad
-
-  slush'
-bip_39_word_new_line_11: 'dinosaur
-
-  similar
-
-  tissue
-
-  evil
-
-  anchor
-
-  flight
-
-  poet
-
-  method
-
-  mad
-
-  slush
-
-  mimic'
 bip_39_word_new_line_12: 'dinosaur
 
   similar
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'dinosaur
   similar
 
   tissue'
-bip_39_word_new_line_4: 'dinosaur
-
-  similar
-
-  tissue
-
-  evil'
-bip_39_word_new_line_5: 'dinosaur
-
-  similar
-
-  tissue
-
-  evil
-
-  anchor'
-bip_39_word_new_line_6: 'dinosaur
-
-  similar
-
-  tissue
-
-  evil
-
-  anchor
-
-  flight'
-bip_39_word_new_line_7: 'dinosaur
-
-  similar
-
-  tissue
-
-  evil
-
-  anchor
-
-  flight
-
-  poet'
-bip_39_word_new_line_8: 'dinosaur
-
-  similar
-
-  tissue
-
-  evil
-
-  anchor
-
-  flight
-
-  poet
-
-  method'
-bip_39_word_new_line_9: 'dinosaur
-
-  similar
-
-  tissue
-
-  evil
-
-  anchor
-
-  flight
-
-  poet
-
-  method
-
-  mad'
-bip_39_word_no_space_1: dinosaur
-bip_39_word_no_space_10: dinosaursimilartissueevilanchorflightpoetmethodmadslush
-bip_39_word_no_space_11: dinosaursimilartissueevilanchorflightpoetmethodmadslushmimic
 bip_39_word_no_space_12: dinosaursimilartissueevilanchorflightpoetmethodmadslushmimicavocado
 bip_39_word_no_space_2: dinosaursimilar
 bip_39_word_no_space_3: dinosaursimilartissue
-bip_39_word_no_space_4: dinosaursimilartissueevil
-bip_39_word_no_space_5: dinosaursimilartissueevilanchor
-bip_39_word_no_space_6: dinosaursimilartissueevilanchorflight
-bip_39_word_no_space_7: dinosaursimilartissueevilanchorflightpoet
-bip_39_word_no_space_8: dinosaursimilartissueevilanchorflightpoetmethod
-bip_39_word_no_space_9: dinosaursimilartissueevilanchorflightpoetmethodmad
-bip_39_word_space_0:
-- dinosaur
-- similar
-- tissue
-- evil
-- anchor
-- flight
-- poet
-- method
-- mad
-- slush
-- mimic
-- avocado
-bip_39_word_space_1: dinosaur
-bip_39_word_space_10: dinosaur similar tissue evil anchor flight poet method mad slush
-bip_39_word_space_11: dinosaur similar tissue evil anchor flight poet method mad slush
-  mimic
 bip_39_word_space_12: dinosaur similar tissue evil anchor flight poet method mad slush
   mimic avocado
 bip_39_word_space_2: dinosaur similar
 bip_39_word_space_3: dinosaur similar tissue
-bip_39_word_space_4: dinosaur similar tissue evil
-bip_39_word_space_5: dinosaur similar tissue evil anchor
-bip_39_word_space_6: dinosaur similar tissue evil anchor flight
-bip_39_word_space_7: dinosaur similar tissue evil anchor flight poet
-bip_39_word_space_8: dinosaur similar tissue evil anchor flight poet method
-bip_39_word_space_9: dinosaur similar tissue evil anchor flight poet method mad
-bip_39_word_underscore_1: dinosaur
-bip_39_word_underscore_10: dinosaur_similar_tissue_evil_anchor_flight_poet_method_mad_slush
-bip_39_word_underscore_11: dinosaur_similar_tissue_evil_anchor_flight_poet_method_mad_slush_mimic
 bip_39_word_underscore_12: dinosaur_similar_tissue_evil_anchor_flight_poet_method_mad_slush_mimic_avocado
 bip_39_word_underscore_2: dinosaur_similar
 bip_39_word_underscore_3: dinosaur_similar_tissue
-bip_39_word_underscore_4: dinosaur_similar_tissue_evil
-bip_39_word_underscore_5: dinosaur_similar_tissue_evil_anchor
-bip_39_word_underscore_6: dinosaur_similar_tissue_evil_anchor_flight
-bip_39_word_underscore_7: dinosaur_similar_tissue_evil_anchor_flight_poet
-bip_39_word_underscore_8: dinosaur_similar_tissue_evil_anchor_flight_poet_method
-bip_39_word_underscore_9: dinosaur_similar_tissue_evil_anchor_flight_poet_method_mad
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

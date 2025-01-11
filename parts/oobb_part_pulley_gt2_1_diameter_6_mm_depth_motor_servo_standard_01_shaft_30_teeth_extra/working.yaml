@@ -1,68 +1,9 @@
-bip_39_word_dash_1: tray
-bip_39_word_dash_10: tray-access-liar-race-orphan-pumpkin-cream-alert-fiscal-before
-bip_39_word_dash_11: tray-access-liar-race-orphan-pumpkin-cream-alert-fiscal-before-discover
 bip_39_word_dash_12: tray-access-liar-race-orphan-pumpkin-cream-alert-fiscal-before-discover-action
 bip_39_word_dash_2: tray-access
 bip_39_word_dash_3: tray-access-liar
-bip_39_word_dash_4: tray-access-liar-race
-bip_39_word_dash_5: tray-access-liar-race-orphan
-bip_39_word_dash_6: tray-access-liar-race-orphan-pumpkin
-bip_39_word_dash_7: tray-access-liar-race-orphan-pumpkin-cream
-bip_39_word_dash_8: tray-access-liar-race-orphan-pumpkin-cream-alert
-bip_39_word_dash_9: tray-access-liar-race-orphan-pumpkin-cream-alert-fiscal
-bip_39_word_new_br_1: tray
-bip_39_word_new_br_10: tray<br>access<br>liar<br>race<br>orphan<br>pumpkin<br>cream<br>alert<br>fiscal<br>before
-bip_39_word_new_br_11: tray<br>access<br>liar<br>race<br>orphan<br>pumpkin<br>cream<br>alert<br>fiscal<br>before<br>discover
 bip_39_word_new_br_12: tray<br>access<br>liar<br>race<br>orphan<br>pumpkin<br>cream<br>alert<br>fiscal<br>before<br>discover<br>action
 bip_39_word_new_br_2: tray<br>access
 bip_39_word_new_br_3: tray<br>access<br>liar
-bip_39_word_new_br_4: tray<br>access<br>liar<br>race
-bip_39_word_new_br_5: tray<br>access<br>liar<br>race<br>orphan
-bip_39_word_new_br_6: tray<br>access<br>liar<br>race<br>orphan<br>pumpkin
-bip_39_word_new_br_7: tray<br>access<br>liar<br>race<br>orphan<br>pumpkin<br>cream
-bip_39_word_new_br_8: tray<br>access<br>liar<br>race<br>orphan<br>pumpkin<br>cream<br>alert
-bip_39_word_new_br_9: tray<br>access<br>liar<br>race<br>orphan<br>pumpkin<br>cream<br>alert<br>fiscal
-bip_39_word_new_line_1: tray
-bip_39_word_new_line_10: 'tray
-
-  access
-
-  liar
-
-  race
-
-  orphan
-
-  pumpkin
-
-  cream
-
-  alert
-
-  fiscal
-
-  before'
-bip_39_word_new_line_11: 'tray
-
-  access
-
-  liar
-
-  race
-
-  orphan
-
-  pumpkin
-
-  cream
-
-  alert
-
-  fiscal
-
-  before
-
-  discover'
 bip_39_word_new_line_12: 'tray
 
   access
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'tray
   access
 
   liar'
-bip_39_word_new_line_4: 'tray
-
-  access
-
-  liar
-
-  race'
-bip_39_word_new_line_5: 'tray
-
-  access
-
-  liar
-
-  race
-
-  orphan'
-bip_39_word_new_line_6: 'tray
-
-  access
-
-  liar
-
-  race
-
-  orphan
-
-  pumpkin'
-bip_39_word_new_line_7: 'tray
-
-  access
-
-  liar
-
-  race
-
-  orphan
-
-  pumpkin
-
-  cream'
-bip_39_word_new_line_8: 'tray
-
-  access
-
-  liar
-
-  race
-
-  orphan
-
-  pumpkin
-
-  cream
-
-  alert'
-bip_39_word_new_line_9: 'tray
-
-  access
-
-  liar
-
-  race
-
-  orphan
-
-  pumpkin
-
-  cream
-
-  alert
-
-  fiscal'
-bip_39_word_no_space_1: tray
-bip_39_word_no_space_10: trayaccessliarraceorphanpumpkincreamalertfiscalbefore
-bip_39_word_no_space_11: trayaccessliarraceorphanpumpkincreamalertfiscalbeforediscover
 bip_39_word_no_space_12: trayaccessliarraceorphanpumpkincreamalertfiscalbeforediscoveraction
 bip_39_word_no_space_2: trayaccess
 bip_39_word_no_space_3: trayaccessliar
-bip_39_word_no_space_4: trayaccessliarrace
-bip_39_word_no_space_5: trayaccessliarraceorphan
-bip_39_word_no_space_6: trayaccessliarraceorphanpumpkin
-bip_39_word_no_space_7: trayaccessliarraceorphanpumpkincream
-bip_39_word_no_space_8: trayaccessliarraceorphanpumpkincreamalert
-bip_39_word_no_space_9: trayaccessliarraceorphanpumpkincreamalertfiscal
-bip_39_word_space_0:
-- tray
-- access
-- liar
-- race
-- orphan
-- pumpkin
-- cream
-- alert
-- fiscal
-- before
-- discover
-- action
-bip_39_word_space_1: tray
-bip_39_word_space_10: tray access liar race orphan pumpkin cream alert fiscal before
-bip_39_word_space_11: tray access liar race orphan pumpkin cream alert fiscal before
-  discover
 bip_39_word_space_12: tray access liar race orphan pumpkin cream alert fiscal before
   discover action
 bip_39_word_space_2: tray access
 bip_39_word_space_3: tray access liar
-bip_39_word_space_4: tray access liar race
-bip_39_word_space_5: tray access liar race orphan
-bip_39_word_space_6: tray access liar race orphan pumpkin
-bip_39_word_space_7: tray access liar race orphan pumpkin cream
-bip_39_word_space_8: tray access liar race orphan pumpkin cream alert
-bip_39_word_space_9: tray access liar race orphan pumpkin cream alert fiscal
-bip_39_word_underscore_1: tray
-bip_39_word_underscore_10: tray_access_liar_race_orphan_pumpkin_cream_alert_fiscal_before
-bip_39_word_underscore_11: tray_access_liar_race_orphan_pumpkin_cream_alert_fiscal_before_discover
 bip_39_word_underscore_12: tray_access_liar_race_orphan_pumpkin_cream_alert_fiscal_before_discover_action
 bip_39_word_underscore_2: tray_access
 bip_39_word_underscore_3: tray_access_liar
-bip_39_word_underscore_4: tray_access_liar_race
-bip_39_word_underscore_5: tray_access_liar_race_orphan
-bip_39_word_underscore_6: tray_access_liar_race_orphan_pumpkin
-bip_39_word_underscore_7: tray_access_liar_race_orphan_pumpkin_cream
-bip_39_word_underscore_8: tray_access_liar_race_orphan_pumpkin_cream_alert
-bip_39_word_underscore_9: tray_access_liar_race_orphan_pumpkin_cream_alert_fiscal
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

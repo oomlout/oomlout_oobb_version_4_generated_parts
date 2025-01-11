@@ -1,68 +1,9 @@
-bip_39_word_dash_1: clarify
-bip_39_word_dash_10: clarify-concert-sword-miracle-dune-light-trouble-furnace-kit-cage
-bip_39_word_dash_11: clarify-concert-sword-miracle-dune-light-trouble-furnace-kit-cage-attack
 bip_39_word_dash_12: clarify-concert-sword-miracle-dune-light-trouble-furnace-kit-cage-attack-ancient
 bip_39_word_dash_2: clarify-concert
 bip_39_word_dash_3: clarify-concert-sword
-bip_39_word_dash_4: clarify-concert-sword-miracle
-bip_39_word_dash_5: clarify-concert-sword-miracle-dune
-bip_39_word_dash_6: clarify-concert-sword-miracle-dune-light
-bip_39_word_dash_7: clarify-concert-sword-miracle-dune-light-trouble
-bip_39_word_dash_8: clarify-concert-sword-miracle-dune-light-trouble-furnace
-bip_39_word_dash_9: clarify-concert-sword-miracle-dune-light-trouble-furnace-kit
-bip_39_word_new_br_1: clarify
-bip_39_word_new_br_10: clarify<br>concert<br>sword<br>miracle<br>dune<br>light<br>trouble<br>furnace<br>kit<br>cage
-bip_39_word_new_br_11: clarify<br>concert<br>sword<br>miracle<br>dune<br>light<br>trouble<br>furnace<br>kit<br>cage<br>attack
 bip_39_word_new_br_12: clarify<br>concert<br>sword<br>miracle<br>dune<br>light<br>trouble<br>furnace<br>kit<br>cage<br>attack<br>ancient
 bip_39_word_new_br_2: clarify<br>concert
 bip_39_word_new_br_3: clarify<br>concert<br>sword
-bip_39_word_new_br_4: clarify<br>concert<br>sword<br>miracle
-bip_39_word_new_br_5: clarify<br>concert<br>sword<br>miracle<br>dune
-bip_39_word_new_br_6: clarify<br>concert<br>sword<br>miracle<br>dune<br>light
-bip_39_word_new_br_7: clarify<br>concert<br>sword<br>miracle<br>dune<br>light<br>trouble
-bip_39_word_new_br_8: clarify<br>concert<br>sword<br>miracle<br>dune<br>light<br>trouble<br>furnace
-bip_39_word_new_br_9: clarify<br>concert<br>sword<br>miracle<br>dune<br>light<br>trouble<br>furnace<br>kit
-bip_39_word_new_line_1: clarify
-bip_39_word_new_line_10: 'clarify
-
-  concert
-
-  sword
-
-  miracle
-
-  dune
-
-  light
-
-  trouble
-
-  furnace
-
-  kit
-
-  cage'
-bip_39_word_new_line_11: 'clarify
-
-  concert
-
-  sword
-
-  miracle
-
-  dune
-
-  light
-
-  trouble
-
-  furnace
-
-  kit
-
-  cage
-
-  attack'
 bip_39_word_new_line_12: 'clarify
 
   concert
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'clarify
   concert
 
   sword'
-bip_39_word_new_line_4: 'clarify
-
-  concert
-
-  sword
-
-  miracle'
-bip_39_word_new_line_5: 'clarify
-
-  concert
-
-  sword
-
-  miracle
-
-  dune'
-bip_39_word_new_line_6: 'clarify
-
-  concert
-
-  sword
-
-  miracle
-
-  dune
-
-  light'
-bip_39_word_new_line_7: 'clarify
-
-  concert
-
-  sword
-
-  miracle
-
-  dune
-
-  light
-
-  trouble'
-bip_39_word_new_line_8: 'clarify
-
-  concert
-
-  sword
-
-  miracle
-
-  dune
-
-  light
-
-  trouble
-
-  furnace'
-bip_39_word_new_line_9: 'clarify
-
-  concert
-
-  sword
-
-  miracle
-
-  dune
-
-  light
-
-  trouble
-
-  furnace
-
-  kit'
-bip_39_word_no_space_1: clarify
-bip_39_word_no_space_10: clarifyconcertswordmiracledunelighttroublefurnacekitcage
-bip_39_word_no_space_11: clarifyconcertswordmiracledunelighttroublefurnacekitcageattack
 bip_39_word_no_space_12: clarifyconcertswordmiracledunelighttroublefurnacekitcageattackancient
 bip_39_word_no_space_2: clarifyconcert
 bip_39_word_no_space_3: clarifyconcertsword
-bip_39_word_no_space_4: clarifyconcertswordmiracle
-bip_39_word_no_space_5: clarifyconcertswordmiracledune
-bip_39_word_no_space_6: clarifyconcertswordmiracledunelight
-bip_39_word_no_space_7: clarifyconcertswordmiracledunelighttrouble
-bip_39_word_no_space_8: clarifyconcertswordmiracledunelighttroublefurnace
-bip_39_word_no_space_9: clarifyconcertswordmiracledunelighttroublefurnacekit
-bip_39_word_space_0:
-- clarify
-- concert
-- sword
-- miracle
-- dune
-- light
-- trouble
-- furnace
-- kit
-- cage
-- attack
-- ancient
-bip_39_word_space_1: clarify
-bip_39_word_space_10: clarify concert sword miracle dune light trouble furnace kit
-  cage
-bip_39_word_space_11: clarify concert sword miracle dune light trouble furnace kit
-  cage attack
 bip_39_word_space_12: clarify concert sword miracle dune light trouble furnace kit
   cage attack ancient
 bip_39_word_space_2: clarify concert
 bip_39_word_space_3: clarify concert sword
-bip_39_word_space_4: clarify concert sword miracle
-bip_39_word_space_5: clarify concert sword miracle dune
-bip_39_word_space_6: clarify concert sword miracle dune light
-bip_39_word_space_7: clarify concert sword miracle dune light trouble
-bip_39_word_space_8: clarify concert sword miracle dune light trouble furnace
-bip_39_word_space_9: clarify concert sword miracle dune light trouble furnace kit
-bip_39_word_underscore_1: clarify
-bip_39_word_underscore_10: clarify_concert_sword_miracle_dune_light_trouble_furnace_kit_cage
-bip_39_word_underscore_11: clarify_concert_sword_miracle_dune_light_trouble_furnace_kit_cage_attack
 bip_39_word_underscore_12: clarify_concert_sword_miracle_dune_light_trouble_furnace_kit_cage_attack_ancient
 bip_39_word_underscore_2: clarify_concert
 bip_39_word_underscore_3: clarify_concert_sword
-bip_39_word_underscore_4: clarify_concert_sword_miracle
-bip_39_word_underscore_5: clarify_concert_sword_miracle_dune
-bip_39_word_underscore_6: clarify_concert_sword_miracle_dune_light
-bip_39_word_underscore_7: clarify_concert_sword_miracle_dune_light_trouble
-bip_39_word_underscore_8: clarify_concert_sword_miracle_dune_light_trouble_furnace
-bip_39_word_underscore_9: clarify_concert_sword_miracle_dune_light_trouble_furnace_kit
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

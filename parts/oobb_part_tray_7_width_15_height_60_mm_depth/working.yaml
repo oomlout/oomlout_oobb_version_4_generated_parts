@@ -1,68 +1,9 @@
-bip_39_word_dash_1: anchor
-bip_39_word_dash_10: anchor-nuclear-uniform-dutch-leg-never-sample-door-scissors-demand
-bip_39_word_dash_11: anchor-nuclear-uniform-dutch-leg-never-sample-door-scissors-demand-stand
 bip_39_word_dash_12: anchor-nuclear-uniform-dutch-leg-never-sample-door-scissors-demand-stand-airport
 bip_39_word_dash_2: anchor-nuclear
 bip_39_word_dash_3: anchor-nuclear-uniform
-bip_39_word_dash_4: anchor-nuclear-uniform-dutch
-bip_39_word_dash_5: anchor-nuclear-uniform-dutch-leg
-bip_39_word_dash_6: anchor-nuclear-uniform-dutch-leg-never
-bip_39_word_dash_7: anchor-nuclear-uniform-dutch-leg-never-sample
-bip_39_word_dash_8: anchor-nuclear-uniform-dutch-leg-never-sample-door
-bip_39_word_dash_9: anchor-nuclear-uniform-dutch-leg-never-sample-door-scissors
-bip_39_word_new_br_1: anchor
-bip_39_word_new_br_10: anchor<br>nuclear<br>uniform<br>dutch<br>leg<br>never<br>sample<br>door<br>scissors<br>demand
-bip_39_word_new_br_11: anchor<br>nuclear<br>uniform<br>dutch<br>leg<br>never<br>sample<br>door<br>scissors<br>demand<br>stand
 bip_39_word_new_br_12: anchor<br>nuclear<br>uniform<br>dutch<br>leg<br>never<br>sample<br>door<br>scissors<br>demand<br>stand<br>airport
 bip_39_word_new_br_2: anchor<br>nuclear
 bip_39_word_new_br_3: anchor<br>nuclear<br>uniform
-bip_39_word_new_br_4: anchor<br>nuclear<br>uniform<br>dutch
-bip_39_word_new_br_5: anchor<br>nuclear<br>uniform<br>dutch<br>leg
-bip_39_word_new_br_6: anchor<br>nuclear<br>uniform<br>dutch<br>leg<br>never
-bip_39_word_new_br_7: anchor<br>nuclear<br>uniform<br>dutch<br>leg<br>never<br>sample
-bip_39_word_new_br_8: anchor<br>nuclear<br>uniform<br>dutch<br>leg<br>never<br>sample<br>door
-bip_39_word_new_br_9: anchor<br>nuclear<br>uniform<br>dutch<br>leg<br>never<br>sample<br>door<br>scissors
-bip_39_word_new_line_1: anchor
-bip_39_word_new_line_10: 'anchor
-
-  nuclear
-
-  uniform
-
-  dutch
-
-  leg
-
-  never
-
-  sample
-
-  door
-
-  scissors
-
-  demand'
-bip_39_word_new_line_11: 'anchor
-
-  nuclear
-
-  uniform
-
-  dutch
-
-  leg
-
-  never
-
-  sample
-
-  door
-
-  scissors
-
-  demand
-
-  stand'
 bip_39_word_new_line_12: 'anchor
 
   nuclear
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'anchor
   nuclear
 
   uniform'
-bip_39_word_new_line_4: 'anchor
-
-  nuclear
-
-  uniform
-
-  dutch'
-bip_39_word_new_line_5: 'anchor
-
-  nuclear
-
-  uniform
-
-  dutch
-
-  leg'
-bip_39_word_new_line_6: 'anchor
-
-  nuclear
-
-  uniform
-
-  dutch
-
-  leg
-
-  never'
-bip_39_word_new_line_7: 'anchor
-
-  nuclear
-
-  uniform
-
-  dutch
-
-  leg
-
-  never
-
-  sample'
-bip_39_word_new_line_8: 'anchor
-
-  nuclear
-
-  uniform
-
-  dutch
-
-  leg
-
-  never
-
-  sample
-
-  door'
-bip_39_word_new_line_9: 'anchor
-
-  nuclear
-
-  uniform
-
-  dutch
-
-  leg
-
-  never
-
-  sample
-
-  door
-
-  scissors'
-bip_39_word_no_space_1: anchor
-bip_39_word_no_space_10: anchornuclearuniformdutchlegneversampledoorscissorsdemand
-bip_39_word_no_space_11: anchornuclearuniformdutchlegneversampledoorscissorsdemandstand
 bip_39_word_no_space_12: anchornuclearuniformdutchlegneversampledoorscissorsdemandstandairport
 bip_39_word_no_space_2: anchornuclear
 bip_39_word_no_space_3: anchornuclearuniform
-bip_39_word_no_space_4: anchornuclearuniformdutch
-bip_39_word_no_space_5: anchornuclearuniformdutchleg
-bip_39_word_no_space_6: anchornuclearuniformdutchlegnever
-bip_39_word_no_space_7: anchornuclearuniformdutchlegneversample
-bip_39_word_no_space_8: anchornuclearuniformdutchlegneversampledoor
-bip_39_word_no_space_9: anchornuclearuniformdutchlegneversampledoorscissors
-bip_39_word_space_0:
-- anchor
-- nuclear
-- uniform
-- dutch
-- leg
-- never
-- sample
-- door
-- scissors
-- demand
-- stand
-- airport
-bip_39_word_space_1: anchor
-bip_39_word_space_10: anchor nuclear uniform dutch leg never sample door scissors
-  demand
-bip_39_word_space_11: anchor nuclear uniform dutch leg never sample door scissors
-  demand stand
 bip_39_word_space_12: anchor nuclear uniform dutch leg never sample door scissors
   demand stand airport
 bip_39_word_space_2: anchor nuclear
 bip_39_word_space_3: anchor nuclear uniform
-bip_39_word_space_4: anchor nuclear uniform dutch
-bip_39_word_space_5: anchor nuclear uniform dutch leg
-bip_39_word_space_6: anchor nuclear uniform dutch leg never
-bip_39_word_space_7: anchor nuclear uniform dutch leg never sample
-bip_39_word_space_8: anchor nuclear uniform dutch leg never sample door
-bip_39_word_space_9: anchor nuclear uniform dutch leg never sample door scissors
-bip_39_word_underscore_1: anchor
-bip_39_word_underscore_10: anchor_nuclear_uniform_dutch_leg_never_sample_door_scissors_demand
-bip_39_word_underscore_11: anchor_nuclear_uniform_dutch_leg_never_sample_door_scissors_demand_stand
 bip_39_word_underscore_12: anchor_nuclear_uniform_dutch_leg_never_sample_door_scissors_demand_stand_airport
 bip_39_word_underscore_2: anchor_nuclear
 bip_39_word_underscore_3: anchor_nuclear_uniform
-bip_39_word_underscore_4: anchor_nuclear_uniform_dutch
-bip_39_word_underscore_5: anchor_nuclear_uniform_dutch_leg
-bip_39_word_underscore_6: anchor_nuclear_uniform_dutch_leg_never
-bip_39_word_underscore_7: anchor_nuclear_uniform_dutch_leg_never_sample
-bip_39_word_underscore_8: anchor_nuclear_uniform_dutch_leg_never_sample_door
-bip_39_word_underscore_9: anchor_nuclear_uniform_dutch_leg_never_sample_door_scissors
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

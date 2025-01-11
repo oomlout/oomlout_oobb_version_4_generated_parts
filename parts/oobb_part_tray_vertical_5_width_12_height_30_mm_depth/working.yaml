@@ -1,68 +1,9 @@
-bip_39_word_dash_1: plunge
-bip_39_word_dash_10: plunge-invite-permit-dwarf-cradle-act-palm-ostrich-maximum-shuffle
-bip_39_word_dash_11: plunge-invite-permit-dwarf-cradle-act-palm-ostrich-maximum-shuffle-mimic
 bip_39_word_dash_12: plunge-invite-permit-dwarf-cradle-act-palm-ostrich-maximum-shuffle-mimic-absorb
 bip_39_word_dash_2: plunge-invite
 bip_39_word_dash_3: plunge-invite-permit
-bip_39_word_dash_4: plunge-invite-permit-dwarf
-bip_39_word_dash_5: plunge-invite-permit-dwarf-cradle
-bip_39_word_dash_6: plunge-invite-permit-dwarf-cradle-act
-bip_39_word_dash_7: plunge-invite-permit-dwarf-cradle-act-palm
-bip_39_word_dash_8: plunge-invite-permit-dwarf-cradle-act-palm-ostrich
-bip_39_word_dash_9: plunge-invite-permit-dwarf-cradle-act-palm-ostrich-maximum
-bip_39_word_new_br_1: plunge
-bip_39_word_new_br_10: plunge<br>invite<br>permit<br>dwarf<br>cradle<br>act<br>palm<br>ostrich<br>maximum<br>shuffle
-bip_39_word_new_br_11: plunge<br>invite<br>permit<br>dwarf<br>cradle<br>act<br>palm<br>ostrich<br>maximum<br>shuffle<br>mimic
 bip_39_word_new_br_12: plunge<br>invite<br>permit<br>dwarf<br>cradle<br>act<br>palm<br>ostrich<br>maximum<br>shuffle<br>mimic<br>absorb
 bip_39_word_new_br_2: plunge<br>invite
 bip_39_word_new_br_3: plunge<br>invite<br>permit
-bip_39_word_new_br_4: plunge<br>invite<br>permit<br>dwarf
-bip_39_word_new_br_5: plunge<br>invite<br>permit<br>dwarf<br>cradle
-bip_39_word_new_br_6: plunge<br>invite<br>permit<br>dwarf<br>cradle<br>act
-bip_39_word_new_br_7: plunge<br>invite<br>permit<br>dwarf<br>cradle<br>act<br>palm
-bip_39_word_new_br_8: plunge<br>invite<br>permit<br>dwarf<br>cradle<br>act<br>palm<br>ostrich
-bip_39_word_new_br_9: plunge<br>invite<br>permit<br>dwarf<br>cradle<br>act<br>palm<br>ostrich<br>maximum
-bip_39_word_new_line_1: plunge
-bip_39_word_new_line_10: 'plunge
-
-  invite
-
-  permit
-
-  dwarf
-
-  cradle
-
-  act
-
-  palm
-
-  ostrich
-
-  maximum
-
-  shuffle'
-bip_39_word_new_line_11: 'plunge
-
-  invite
-
-  permit
-
-  dwarf
-
-  cradle
-
-  act
-
-  palm
-
-  ostrich
-
-  maximum
-
-  shuffle
-
-  mimic'
 bip_39_word_new_line_12: 'plunge
 
   invite
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'plunge
   invite
 
   permit'
-bip_39_word_new_line_4: 'plunge
-
-  invite
-
-  permit
-
-  dwarf'
-bip_39_word_new_line_5: 'plunge
-
-  invite
-
-  permit
-
-  dwarf
-
-  cradle'
-bip_39_word_new_line_6: 'plunge
-
-  invite
-
-  permit
-
-  dwarf
-
-  cradle
-
-  act'
-bip_39_word_new_line_7: 'plunge
-
-  invite
-
-  permit
-
-  dwarf
-
-  cradle
-
-  act
-
-  palm'
-bip_39_word_new_line_8: 'plunge
-
-  invite
-
-  permit
-
-  dwarf
-
-  cradle
-
-  act
-
-  palm
-
-  ostrich'
-bip_39_word_new_line_9: 'plunge
-
-  invite
-
-  permit
-
-  dwarf
-
-  cradle
-
-  act
-
-  palm
-
-  ostrich
-
-  maximum'
-bip_39_word_no_space_1: plunge
-bip_39_word_no_space_10: plungeinvitepermitdwarfcradleactpalmostrichmaximumshuffle
-bip_39_word_no_space_11: plungeinvitepermitdwarfcradleactpalmostrichmaximumshufflemimic
 bip_39_word_no_space_12: plungeinvitepermitdwarfcradleactpalmostrichmaximumshufflemimicabsorb
 bip_39_word_no_space_2: plungeinvite
 bip_39_word_no_space_3: plungeinvitepermit
-bip_39_word_no_space_4: plungeinvitepermitdwarf
-bip_39_word_no_space_5: plungeinvitepermitdwarfcradle
-bip_39_word_no_space_6: plungeinvitepermitdwarfcradleact
-bip_39_word_no_space_7: plungeinvitepermitdwarfcradleactpalm
-bip_39_word_no_space_8: plungeinvitepermitdwarfcradleactpalmostrich
-bip_39_word_no_space_9: plungeinvitepermitdwarfcradleactpalmostrichmaximum
-bip_39_word_space_0:
-- plunge
-- invite
-- permit
-- dwarf
-- cradle
-- act
-- palm
-- ostrich
-- maximum
-- shuffle
-- mimic
-- absorb
-bip_39_word_space_1: plunge
-bip_39_word_space_10: plunge invite permit dwarf cradle act palm ostrich maximum shuffle
-bip_39_word_space_11: plunge invite permit dwarf cradle act palm ostrich maximum shuffle
-  mimic
 bip_39_word_space_12: plunge invite permit dwarf cradle act palm ostrich maximum shuffle
   mimic absorb
 bip_39_word_space_2: plunge invite
 bip_39_word_space_3: plunge invite permit
-bip_39_word_space_4: plunge invite permit dwarf
-bip_39_word_space_5: plunge invite permit dwarf cradle
-bip_39_word_space_6: plunge invite permit dwarf cradle act
-bip_39_word_space_7: plunge invite permit dwarf cradle act palm
-bip_39_word_space_8: plunge invite permit dwarf cradle act palm ostrich
-bip_39_word_space_9: plunge invite permit dwarf cradle act palm ostrich maximum
-bip_39_word_underscore_1: plunge
-bip_39_word_underscore_10: plunge_invite_permit_dwarf_cradle_act_palm_ostrich_maximum_shuffle
-bip_39_word_underscore_11: plunge_invite_permit_dwarf_cradle_act_palm_ostrich_maximum_shuffle_mimic
 bip_39_word_underscore_12: plunge_invite_permit_dwarf_cradle_act_palm_ostrich_maximum_shuffle_mimic_absorb
 bip_39_word_underscore_2: plunge_invite
 bip_39_word_underscore_3: plunge_invite_permit
-bip_39_word_underscore_4: plunge_invite_permit_dwarf
-bip_39_word_underscore_5: plunge_invite_permit_dwarf_cradle
-bip_39_word_underscore_6: plunge_invite_permit_dwarf_cradle_act
-bip_39_word_underscore_7: plunge_invite_permit_dwarf_cradle_act_palm
-bip_39_word_underscore_8: plunge_invite_permit_dwarf_cradle_act_palm_ostrich
-bip_39_word_underscore_9: plunge_invite_permit_dwarf_cradle_act_palm_ostrich_maximum
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

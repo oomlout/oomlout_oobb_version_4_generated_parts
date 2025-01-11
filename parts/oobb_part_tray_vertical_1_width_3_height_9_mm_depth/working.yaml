@@ -1,68 +1,9 @@
-bip_39_word_dash_1: icon
-bip_39_word_dash_10: icon-hungry-gap-powder-case-canyon-betray-charge-air-response
-bip_39_word_dash_11: icon-hungry-gap-powder-case-canyon-betray-charge-air-response-satoshi
 bip_39_word_dash_12: icon-hungry-gap-powder-case-canyon-betray-charge-air-response-satoshi-aspect
 bip_39_word_dash_2: icon-hungry
 bip_39_word_dash_3: icon-hungry-gap
-bip_39_word_dash_4: icon-hungry-gap-powder
-bip_39_word_dash_5: icon-hungry-gap-powder-case
-bip_39_word_dash_6: icon-hungry-gap-powder-case-canyon
-bip_39_word_dash_7: icon-hungry-gap-powder-case-canyon-betray
-bip_39_word_dash_8: icon-hungry-gap-powder-case-canyon-betray-charge
-bip_39_word_dash_9: icon-hungry-gap-powder-case-canyon-betray-charge-air
-bip_39_word_new_br_1: icon
-bip_39_word_new_br_10: icon<br>hungry<br>gap<br>powder<br>case<br>canyon<br>betray<br>charge<br>air<br>response
-bip_39_word_new_br_11: icon<br>hungry<br>gap<br>powder<br>case<br>canyon<br>betray<br>charge<br>air<br>response<br>satoshi
 bip_39_word_new_br_12: icon<br>hungry<br>gap<br>powder<br>case<br>canyon<br>betray<br>charge<br>air<br>response<br>satoshi<br>aspect
 bip_39_word_new_br_2: icon<br>hungry
 bip_39_word_new_br_3: icon<br>hungry<br>gap
-bip_39_word_new_br_4: icon<br>hungry<br>gap<br>powder
-bip_39_word_new_br_5: icon<br>hungry<br>gap<br>powder<br>case
-bip_39_word_new_br_6: icon<br>hungry<br>gap<br>powder<br>case<br>canyon
-bip_39_word_new_br_7: icon<br>hungry<br>gap<br>powder<br>case<br>canyon<br>betray
-bip_39_word_new_br_8: icon<br>hungry<br>gap<br>powder<br>case<br>canyon<br>betray<br>charge
-bip_39_word_new_br_9: icon<br>hungry<br>gap<br>powder<br>case<br>canyon<br>betray<br>charge<br>air
-bip_39_word_new_line_1: icon
-bip_39_word_new_line_10: 'icon
-
-  hungry
-
-  gap
-
-  powder
-
-  case
-
-  canyon
-
-  betray
-
-  charge
-
-  air
-
-  response'
-bip_39_word_new_line_11: 'icon
-
-  hungry
-
-  gap
-
-  powder
-
-  case
-
-  canyon
-
-  betray
-
-  charge
-
-  air
-
-  response
-
-  satoshi'
 bip_39_word_new_line_12: 'icon
 
   hungry
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'icon
   hungry
 
   gap'
-bip_39_word_new_line_4: 'icon
-
-  hungry
-
-  gap
-
-  powder'
-bip_39_word_new_line_5: 'icon
-
-  hungry
-
-  gap
-
-  powder
-
-  case'
-bip_39_word_new_line_6: 'icon
-
-  hungry
-
-  gap
-
-  powder
-
-  case
-
-  canyon'
-bip_39_word_new_line_7: 'icon
-
-  hungry
-
-  gap
-
-  powder
-
-  case
-
-  canyon
-
-  betray'
-bip_39_word_new_line_8: 'icon
-
-  hungry
-
-  gap
-
-  powder
-
-  case
-
-  canyon
-
-  betray
-
-  charge'
-bip_39_word_new_line_9: 'icon
-
-  hungry
-
-  gap
-
-  powder
-
-  case
-
-  canyon
-
-  betray
-
-  charge
-
-  air'
-bip_39_word_no_space_1: icon
-bip_39_word_no_space_10: iconhungrygappowdercasecanyonbetraychargeairresponse
-bip_39_word_no_space_11: iconhungrygappowdercasecanyonbetraychargeairresponsesatoshi
 bip_39_word_no_space_12: iconhungrygappowdercasecanyonbetraychargeairresponsesatoshiaspect
 bip_39_word_no_space_2: iconhungry
 bip_39_word_no_space_3: iconhungrygap
-bip_39_word_no_space_4: iconhungrygappowder
-bip_39_word_no_space_5: iconhungrygappowdercase
-bip_39_word_no_space_6: iconhungrygappowdercasecanyon
-bip_39_word_no_space_7: iconhungrygappowdercasecanyonbetray
-bip_39_word_no_space_8: iconhungrygappowdercasecanyonbetraycharge
-bip_39_word_no_space_9: iconhungrygappowdercasecanyonbetraychargeair
-bip_39_word_space_0:
-- icon
-- hungry
-- gap
-- powder
-- case
-- canyon
-- betray
-- charge
-- air
-- response
-- satoshi
-- aspect
-bip_39_word_space_1: icon
-bip_39_word_space_10: icon hungry gap powder case canyon betray charge air response
-bip_39_word_space_11: icon hungry gap powder case canyon betray charge air response
-  satoshi
 bip_39_word_space_12: icon hungry gap powder case canyon betray charge air response
   satoshi aspect
 bip_39_word_space_2: icon hungry
 bip_39_word_space_3: icon hungry gap
-bip_39_word_space_4: icon hungry gap powder
-bip_39_word_space_5: icon hungry gap powder case
-bip_39_word_space_6: icon hungry gap powder case canyon
-bip_39_word_space_7: icon hungry gap powder case canyon betray
-bip_39_word_space_8: icon hungry gap powder case canyon betray charge
-bip_39_word_space_9: icon hungry gap powder case canyon betray charge air
-bip_39_word_underscore_1: icon
-bip_39_word_underscore_10: icon_hungry_gap_powder_case_canyon_betray_charge_air_response
-bip_39_word_underscore_11: icon_hungry_gap_powder_case_canyon_betray_charge_air_response_satoshi
 bip_39_word_underscore_12: icon_hungry_gap_powder_case_canyon_betray_charge_air_response_satoshi_aspect
 bip_39_word_underscore_2: icon_hungry
 bip_39_word_underscore_3: icon_hungry_gap
-bip_39_word_underscore_4: icon_hungry_gap_powder
-bip_39_word_underscore_5: icon_hungry_gap_powder_case
-bip_39_word_underscore_6: icon_hungry_gap_powder_case_canyon
-bip_39_word_underscore_7: icon_hungry_gap_powder_case_canyon_betray
-bip_39_word_underscore_8: icon_hungry_gap_powder_case_canyon_betray_charge
-bip_39_word_underscore_9: icon_hungry_gap_powder_case_canyon_betray_charge_air
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

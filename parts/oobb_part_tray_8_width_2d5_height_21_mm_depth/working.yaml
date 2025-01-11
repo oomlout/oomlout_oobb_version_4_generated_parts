@@ -1,68 +1,9 @@
-bip_39_word_dash_1: bus
-bip_39_word_dash_10: bus-coil-inner-escape-vote-approve-silver-wash-found-acid
-bip_39_word_dash_11: bus-coil-inner-escape-vote-approve-silver-wash-found-acid-scrub
 bip_39_word_dash_12: bus-coil-inner-escape-vote-approve-silver-wash-found-acid-scrub-average
 bip_39_word_dash_2: bus-coil
 bip_39_word_dash_3: bus-coil-inner
-bip_39_word_dash_4: bus-coil-inner-escape
-bip_39_word_dash_5: bus-coil-inner-escape-vote
-bip_39_word_dash_6: bus-coil-inner-escape-vote-approve
-bip_39_word_dash_7: bus-coil-inner-escape-vote-approve-silver
-bip_39_word_dash_8: bus-coil-inner-escape-vote-approve-silver-wash
-bip_39_word_dash_9: bus-coil-inner-escape-vote-approve-silver-wash-found
-bip_39_word_new_br_1: bus
-bip_39_word_new_br_10: bus<br>coil<br>inner<br>escape<br>vote<br>approve<br>silver<br>wash<br>found<br>acid
-bip_39_word_new_br_11: bus<br>coil<br>inner<br>escape<br>vote<br>approve<br>silver<br>wash<br>found<br>acid<br>scrub
 bip_39_word_new_br_12: bus<br>coil<br>inner<br>escape<br>vote<br>approve<br>silver<br>wash<br>found<br>acid<br>scrub<br>average
 bip_39_word_new_br_2: bus<br>coil
 bip_39_word_new_br_3: bus<br>coil<br>inner
-bip_39_word_new_br_4: bus<br>coil<br>inner<br>escape
-bip_39_word_new_br_5: bus<br>coil<br>inner<br>escape<br>vote
-bip_39_word_new_br_6: bus<br>coil<br>inner<br>escape<br>vote<br>approve
-bip_39_word_new_br_7: bus<br>coil<br>inner<br>escape<br>vote<br>approve<br>silver
-bip_39_word_new_br_8: bus<br>coil<br>inner<br>escape<br>vote<br>approve<br>silver<br>wash
-bip_39_word_new_br_9: bus<br>coil<br>inner<br>escape<br>vote<br>approve<br>silver<br>wash<br>found
-bip_39_word_new_line_1: bus
-bip_39_word_new_line_10: 'bus
-
-  coil
-
-  inner
-
-  escape
-
-  vote
-
-  approve
-
-  silver
-
-  wash
-
-  found
-
-  acid'
-bip_39_word_new_line_11: 'bus
-
-  coil
-
-  inner
-
-  escape
-
-  vote
-
-  approve
-
-  silver
-
-  wash
-
-  found
-
-  acid
-
-  scrub'
 bip_39_word_new_line_12: 'bus
 
   coil
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'bus
   coil
 
   inner'
-bip_39_word_new_line_4: 'bus
-
-  coil
-
-  inner
-
-  escape'
-bip_39_word_new_line_5: 'bus
-
-  coil
-
-  inner
-
-  escape
-
-  vote'
-bip_39_word_new_line_6: 'bus
-
-  coil
-
-  inner
-
-  escape
-
-  vote
-
-  approve'
-bip_39_word_new_line_7: 'bus
-
-  coil
-
-  inner
-
-  escape
-
-  vote
-
-  approve
-
-  silver'
-bip_39_word_new_line_8: 'bus
-
-  coil
-
-  inner
-
-  escape
-
-  vote
-
-  approve
-
-  silver
-
-  wash'
-bip_39_word_new_line_9: 'bus
-
-  coil
-
-  inner
-
-  escape
-
-  vote
-
-  approve
-
-  silver
-
-  wash
-
-  found'
-bip_39_word_no_space_1: bus
-bip_39_word_no_space_10: buscoilinnerescapevoteapprovesilverwashfoundacid
-bip_39_word_no_space_11: buscoilinnerescapevoteapprovesilverwashfoundacidscrub
 bip_39_word_no_space_12: buscoilinnerescapevoteapprovesilverwashfoundacidscrubaverage
 bip_39_word_no_space_2: buscoil
 bip_39_word_no_space_3: buscoilinner
-bip_39_word_no_space_4: buscoilinnerescape
-bip_39_word_no_space_5: buscoilinnerescapevote
-bip_39_word_no_space_6: buscoilinnerescapevoteapprove
-bip_39_word_no_space_7: buscoilinnerescapevoteapprovesilver
-bip_39_word_no_space_8: buscoilinnerescapevoteapprovesilverwash
-bip_39_word_no_space_9: buscoilinnerescapevoteapprovesilverwashfound
-bip_39_word_space_0:
-- bus
-- coil
-- inner
-- escape
-- vote
-- approve
-- silver
-- wash
-- found
-- acid
-- scrub
-- average
-bip_39_word_space_1: bus
-bip_39_word_space_10: bus coil inner escape vote approve silver wash found acid
-bip_39_word_space_11: bus coil inner escape vote approve silver wash found acid scrub
 bip_39_word_space_12: bus coil inner escape vote approve silver wash found acid scrub
   average
 bip_39_word_space_2: bus coil
 bip_39_word_space_3: bus coil inner
-bip_39_word_space_4: bus coil inner escape
-bip_39_word_space_5: bus coil inner escape vote
-bip_39_word_space_6: bus coil inner escape vote approve
-bip_39_word_space_7: bus coil inner escape vote approve silver
-bip_39_word_space_8: bus coil inner escape vote approve silver wash
-bip_39_word_space_9: bus coil inner escape vote approve silver wash found
-bip_39_word_underscore_1: bus
-bip_39_word_underscore_10: bus_coil_inner_escape_vote_approve_silver_wash_found_acid
-bip_39_word_underscore_11: bus_coil_inner_escape_vote_approve_silver_wash_found_acid_scrub
 bip_39_word_underscore_12: bus_coil_inner_escape_vote_approve_silver_wash_found_acid_scrub_average
 bip_39_word_underscore_2: bus_coil
 bip_39_word_underscore_3: bus_coil_inner
-bip_39_word_underscore_4: bus_coil_inner_escape
-bip_39_word_underscore_5: bus_coil_inner_escape_vote
-bip_39_word_underscore_6: bus_coil_inner_escape_vote_approve
-bip_39_word_underscore_7: bus_coil_inner_escape_vote_approve_silver
-bip_39_word_underscore_8: bus_coil_inner_escape_vote_approve_silver_wash
-bip_39_word_underscore_9: bus_coil_inner_escape_vote_approve_silver_wash_found
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

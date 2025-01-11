@@ -1,68 +1,9 @@
-bip_39_word_dash_1: snow
-bip_39_word_dash_10: snow-donkey-derive-transfer-trim-life-glad-ripple-slot-void
-bip_39_word_dash_11: snow-donkey-derive-transfer-trim-life-glad-ripple-slot-void-behind
 bip_39_word_dash_12: snow-donkey-derive-transfer-trim-life-glad-ripple-slot-void-behind-actress
 bip_39_word_dash_2: snow-donkey
 bip_39_word_dash_3: snow-donkey-derive
-bip_39_word_dash_4: snow-donkey-derive-transfer
-bip_39_word_dash_5: snow-donkey-derive-transfer-trim
-bip_39_word_dash_6: snow-donkey-derive-transfer-trim-life
-bip_39_word_dash_7: snow-donkey-derive-transfer-trim-life-glad
-bip_39_word_dash_8: snow-donkey-derive-transfer-trim-life-glad-ripple
-bip_39_word_dash_9: snow-donkey-derive-transfer-trim-life-glad-ripple-slot
-bip_39_word_new_br_1: snow
-bip_39_word_new_br_10: snow<br>donkey<br>derive<br>transfer<br>trim<br>life<br>glad<br>ripple<br>slot<br>void
-bip_39_word_new_br_11: snow<br>donkey<br>derive<br>transfer<br>trim<br>life<br>glad<br>ripple<br>slot<br>void<br>behind
 bip_39_word_new_br_12: snow<br>donkey<br>derive<br>transfer<br>trim<br>life<br>glad<br>ripple<br>slot<br>void<br>behind<br>actress
 bip_39_word_new_br_2: snow<br>donkey
 bip_39_word_new_br_3: snow<br>donkey<br>derive
-bip_39_word_new_br_4: snow<br>donkey<br>derive<br>transfer
-bip_39_word_new_br_5: snow<br>donkey<br>derive<br>transfer<br>trim
-bip_39_word_new_br_6: snow<br>donkey<br>derive<br>transfer<br>trim<br>life
-bip_39_word_new_br_7: snow<br>donkey<br>derive<br>transfer<br>trim<br>life<br>glad
-bip_39_word_new_br_8: snow<br>donkey<br>derive<br>transfer<br>trim<br>life<br>glad<br>ripple
-bip_39_word_new_br_9: snow<br>donkey<br>derive<br>transfer<br>trim<br>life<br>glad<br>ripple<br>slot
-bip_39_word_new_line_1: snow
-bip_39_word_new_line_10: 'snow
-
-  donkey
-
-  derive
-
-  transfer
-
-  trim
-
-  life
-
-  glad
-
-  ripple
-
-  slot
-
-  void'
-bip_39_word_new_line_11: 'snow
-
-  donkey
-
-  derive
-
-  transfer
-
-  trim
-
-  life
-
-  glad
-
-  ripple
-
-  slot
-
-  void
-
-  behind'
 bip_39_word_new_line_12: 'snow
 
   donkey
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'snow
   donkey
 
   derive'
-bip_39_word_new_line_4: 'snow
-
-  donkey
-
-  derive
-
-  transfer'
-bip_39_word_new_line_5: 'snow
-
-  donkey
-
-  derive
-
-  transfer
-
-  trim'
-bip_39_word_new_line_6: 'snow
-
-  donkey
-
-  derive
-
-  transfer
-
-  trim
-
-  life'
-bip_39_word_new_line_7: 'snow
-
-  donkey
-
-  derive
-
-  transfer
-
-  trim
-
-  life
-
-  glad'
-bip_39_word_new_line_8: 'snow
-
-  donkey
-
-  derive
-
-  transfer
-
-  trim
-
-  life
-
-  glad
-
-  ripple'
-bip_39_word_new_line_9: 'snow
-
-  donkey
-
-  derive
-
-  transfer
-
-  trim
-
-  life
-
-  glad
-
-  ripple
-
-  slot'
-bip_39_word_no_space_1: snow
-bip_39_word_no_space_10: snowdonkeyderivetransfertrimlifegladrippleslotvoid
-bip_39_word_no_space_11: snowdonkeyderivetransfertrimlifegladrippleslotvoidbehind
 bip_39_word_no_space_12: snowdonkeyderivetransfertrimlifegladrippleslotvoidbehindactress
 bip_39_word_no_space_2: snowdonkey
 bip_39_word_no_space_3: snowdonkeyderive
-bip_39_word_no_space_4: snowdonkeyderivetransfer
-bip_39_word_no_space_5: snowdonkeyderivetransfertrim
-bip_39_word_no_space_6: snowdonkeyderivetransfertrimlife
-bip_39_word_no_space_7: snowdonkeyderivetransfertrimlifeglad
-bip_39_word_no_space_8: snowdonkeyderivetransfertrimlifegladripple
-bip_39_word_no_space_9: snowdonkeyderivetransfertrimlifegladrippleslot
-bip_39_word_space_0:
-- snow
-- donkey
-- derive
-- transfer
-- trim
-- life
-- glad
-- ripple
-- slot
-- void
-- behind
-- actress
-bip_39_word_space_1: snow
-bip_39_word_space_10: snow donkey derive transfer trim life glad ripple slot void
-bip_39_word_space_11: snow donkey derive transfer trim life glad ripple slot void
-  behind
 bip_39_word_space_12: snow donkey derive transfer trim life glad ripple slot void
   behind actress
 bip_39_word_space_2: snow donkey
 bip_39_word_space_3: snow donkey derive
-bip_39_word_space_4: snow donkey derive transfer
-bip_39_word_space_5: snow donkey derive transfer trim
-bip_39_word_space_6: snow donkey derive transfer trim life
-bip_39_word_space_7: snow donkey derive transfer trim life glad
-bip_39_word_space_8: snow donkey derive transfer trim life glad ripple
-bip_39_word_space_9: snow donkey derive transfer trim life glad ripple slot
-bip_39_word_underscore_1: snow
-bip_39_word_underscore_10: snow_donkey_derive_transfer_trim_life_glad_ripple_slot_void
-bip_39_word_underscore_11: snow_donkey_derive_transfer_trim_life_glad_ripple_slot_void_behind
 bip_39_word_underscore_12: snow_donkey_derive_transfer_trim_life_glad_ripple_slot_void_behind_actress
 bip_39_word_underscore_2: snow_donkey
 bip_39_word_underscore_3: snow_donkey_derive
-bip_39_word_underscore_4: snow_donkey_derive_transfer
-bip_39_word_underscore_5: snow_donkey_derive_transfer_trim
-bip_39_word_underscore_6: snow_donkey_derive_transfer_trim_life
-bip_39_word_underscore_7: snow_donkey_derive_transfer_trim_life_glad
-bip_39_word_underscore_8: snow_donkey_derive_transfer_trim_life_glad_ripple
-bip_39_word_underscore_9: snow_donkey_derive_transfer_trim_life_glad_ripple_slot
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: apple
-bip_39_word_dash_10: apple-review-joke-sea-elephant-miracle-champion-slice-maze-throw
-bip_39_word_dash_11: apple-review-joke-sea-elephant-miracle-champion-slice-maze-throw-glad
 bip_39_word_dash_12: apple-review-joke-sea-elephant-miracle-champion-slice-maze-throw-glad-afford
 bip_39_word_dash_2: apple-review
 bip_39_word_dash_3: apple-review-joke
-bip_39_word_dash_4: apple-review-joke-sea
-bip_39_word_dash_5: apple-review-joke-sea-elephant
-bip_39_word_dash_6: apple-review-joke-sea-elephant-miracle
-bip_39_word_dash_7: apple-review-joke-sea-elephant-miracle-champion
-bip_39_word_dash_8: apple-review-joke-sea-elephant-miracle-champion-slice
-bip_39_word_dash_9: apple-review-joke-sea-elephant-miracle-champion-slice-maze
-bip_39_word_new_br_1: apple
-bip_39_word_new_br_10: apple<br>review<br>joke<br>sea<br>elephant<br>miracle<br>champion<br>slice<br>maze<br>throw
-bip_39_word_new_br_11: apple<br>review<br>joke<br>sea<br>elephant<br>miracle<br>champion<br>slice<br>maze<br>throw<br>glad
 bip_39_word_new_br_12: apple<br>review<br>joke<br>sea<br>elephant<br>miracle<br>champion<br>slice<br>maze<br>throw<br>glad<br>afford
 bip_39_word_new_br_2: apple<br>review
 bip_39_word_new_br_3: apple<br>review<br>joke
-bip_39_word_new_br_4: apple<br>review<br>joke<br>sea
-bip_39_word_new_br_5: apple<br>review<br>joke<br>sea<br>elephant
-bip_39_word_new_br_6: apple<br>review<br>joke<br>sea<br>elephant<br>miracle
-bip_39_word_new_br_7: apple<br>review<br>joke<br>sea<br>elephant<br>miracle<br>champion
-bip_39_word_new_br_8: apple<br>review<br>joke<br>sea<br>elephant<br>miracle<br>champion<br>slice
-bip_39_word_new_br_9: apple<br>review<br>joke<br>sea<br>elephant<br>miracle<br>champion<br>slice<br>maze
-bip_39_word_new_line_1: apple
-bip_39_word_new_line_10: 'apple
-
-  review
-
-  joke
-
-  sea
-
-  elephant
-
-  miracle
-
-  champion
-
-  slice
-
-  maze
-
-  throw'
-bip_39_word_new_line_11: 'apple
-
-  review
-
-  joke
-
-  sea
-
-  elephant
-
-  miracle
-
-  champion
-
-  slice
-
-  maze
-
-  throw
-
-  glad'
 bip_39_word_new_line_12: 'apple
 
   review
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'apple
   review
 
   joke'
-bip_39_word_new_line_4: 'apple
-
-  review
-
-  joke
-
-  sea'
-bip_39_word_new_line_5: 'apple
-
-  review
-
-  joke
-
-  sea
-
-  elephant'
-bip_39_word_new_line_6: 'apple
-
-  review
-
-  joke
-
-  sea
-
-  elephant
-
-  miracle'
-bip_39_word_new_line_7: 'apple
-
-  review
-
-  joke
-
-  sea
-
-  elephant
-
-  miracle
-
-  champion'
-bip_39_word_new_line_8: 'apple
-
-  review
-
-  joke
-
-  sea
-
-  elephant
-
-  miracle
-
-  champion
-
-  slice'
-bip_39_word_new_line_9: 'apple
-
-  review
-
-  joke
-
-  sea
-
-  elephant
-
-  miracle
-
-  champion
-
-  slice
-
-  maze'
-bip_39_word_no_space_1: apple
-bip_39_word_no_space_10: applereviewjokeseaelephantmiraclechampionslicemazethrow
-bip_39_word_no_space_11: applereviewjokeseaelephantmiraclechampionslicemazethrowglad
 bip_39_word_no_space_12: applereviewjokeseaelephantmiraclechampionslicemazethrowgladafford
 bip_39_word_no_space_2: applereview
 bip_39_word_no_space_3: applereviewjoke
-bip_39_word_no_space_4: applereviewjokesea
-bip_39_word_no_space_5: applereviewjokeseaelephant
-bip_39_word_no_space_6: applereviewjokeseaelephantmiracle
-bip_39_word_no_space_7: applereviewjokeseaelephantmiraclechampion
-bip_39_word_no_space_8: applereviewjokeseaelephantmiraclechampionslice
-bip_39_word_no_space_9: applereviewjokeseaelephantmiraclechampionslicemaze
-bip_39_word_space_0:
-- apple
-- review
-- joke
-- sea
-- elephant
-- miracle
-- champion
-- slice
-- maze
-- throw
-- glad
-- afford
-bip_39_word_space_1: apple
-bip_39_word_space_10: apple review joke sea elephant miracle champion slice maze throw
-bip_39_word_space_11: apple review joke sea elephant miracle champion slice maze throw
-  glad
 bip_39_word_space_12: apple review joke sea elephant miracle champion slice maze throw
   glad afford
 bip_39_word_space_2: apple review
 bip_39_word_space_3: apple review joke
-bip_39_word_space_4: apple review joke sea
-bip_39_word_space_5: apple review joke sea elephant
-bip_39_word_space_6: apple review joke sea elephant miracle
-bip_39_word_space_7: apple review joke sea elephant miracle champion
-bip_39_word_space_8: apple review joke sea elephant miracle champion slice
-bip_39_word_space_9: apple review joke sea elephant miracle champion slice maze
-bip_39_word_underscore_1: apple
-bip_39_word_underscore_10: apple_review_joke_sea_elephant_miracle_champion_slice_maze_throw
-bip_39_word_underscore_11: apple_review_joke_sea_elephant_miracle_champion_slice_maze_throw_glad
 bip_39_word_underscore_12: apple_review_joke_sea_elephant_miracle_champion_slice_maze_throw_glad_afford
 bip_39_word_underscore_2: apple_review
 bip_39_word_underscore_3: apple_review_joke
-bip_39_word_underscore_4: apple_review_joke_sea
-bip_39_word_underscore_5: apple_review_joke_sea_elephant
-bip_39_word_underscore_6: apple_review_joke_sea_elephant_miracle
-bip_39_word_underscore_7: apple_review_joke_sea_elephant_miracle_champion
-bip_39_word_underscore_8: apple_review_joke_sea_elephant_miracle_champion_slice
-bip_39_word_underscore_9: apple_review_joke_sea_elephant_miracle_champion_slice_maze
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

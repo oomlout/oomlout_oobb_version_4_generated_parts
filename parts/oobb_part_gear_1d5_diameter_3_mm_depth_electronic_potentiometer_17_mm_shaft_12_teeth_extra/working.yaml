@@ -1,68 +1,9 @@
-bip_39_word_dash_1: local
-bip_39_word_dash_10: local-company-express-weasel-force-room-cup-night-oval-moral
-bip_39_word_dash_11: local-company-express-weasel-force-room-cup-night-oval-moral-bag
 bip_39_word_dash_12: local-company-express-weasel-force-room-cup-night-oval-moral-bag-among
 bip_39_word_dash_2: local-company
 bip_39_word_dash_3: local-company-express
-bip_39_word_dash_4: local-company-express-weasel
-bip_39_word_dash_5: local-company-express-weasel-force
-bip_39_word_dash_6: local-company-express-weasel-force-room
-bip_39_word_dash_7: local-company-express-weasel-force-room-cup
-bip_39_word_dash_8: local-company-express-weasel-force-room-cup-night
-bip_39_word_dash_9: local-company-express-weasel-force-room-cup-night-oval
-bip_39_word_new_br_1: local
-bip_39_word_new_br_10: local<br>company<br>express<br>weasel<br>force<br>room<br>cup<br>night<br>oval<br>moral
-bip_39_word_new_br_11: local<br>company<br>express<br>weasel<br>force<br>room<br>cup<br>night<br>oval<br>moral<br>bag
 bip_39_word_new_br_12: local<br>company<br>express<br>weasel<br>force<br>room<br>cup<br>night<br>oval<br>moral<br>bag<br>among
 bip_39_word_new_br_2: local<br>company
 bip_39_word_new_br_3: local<br>company<br>express
-bip_39_word_new_br_4: local<br>company<br>express<br>weasel
-bip_39_word_new_br_5: local<br>company<br>express<br>weasel<br>force
-bip_39_word_new_br_6: local<br>company<br>express<br>weasel<br>force<br>room
-bip_39_word_new_br_7: local<br>company<br>express<br>weasel<br>force<br>room<br>cup
-bip_39_word_new_br_8: local<br>company<br>express<br>weasel<br>force<br>room<br>cup<br>night
-bip_39_word_new_br_9: local<br>company<br>express<br>weasel<br>force<br>room<br>cup<br>night<br>oval
-bip_39_word_new_line_1: local
-bip_39_word_new_line_10: 'local
-
-  company
-
-  express
-
-  weasel
-
-  force
-
-  room
-
-  cup
-
-  night
-
-  oval
-
-  moral'
-bip_39_word_new_line_11: 'local
-
-  company
-
-  express
-
-  weasel
-
-  force
-
-  room
-
-  cup
-
-  night
-
-  oval
-
-  moral
-
-  bag'
 bip_39_word_new_line_12: 'local
 
   company
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'local
   company
 
   express'
-bip_39_word_new_line_4: 'local
-
-  company
-
-  express
-
-  weasel'
-bip_39_word_new_line_5: 'local
-
-  company
-
-  express
-
-  weasel
-
-  force'
-bip_39_word_new_line_6: 'local
-
-  company
-
-  express
-
-  weasel
-
-  force
-
-  room'
-bip_39_word_new_line_7: 'local
-
-  company
-
-  express
-
-  weasel
-
-  force
-
-  room
-
-  cup'
-bip_39_word_new_line_8: 'local
-
-  company
-
-  express
-
-  weasel
-
-  force
-
-  room
-
-  cup
-
-  night'
-bip_39_word_new_line_9: 'local
-
-  company
-
-  express
-
-  weasel
-
-  force
-
-  room
-
-  cup
-
-  night
-
-  oval'
-bip_39_word_no_space_1: local
-bip_39_word_no_space_10: localcompanyexpressweaselforceroomcupnightovalmoral
-bip_39_word_no_space_11: localcompanyexpressweaselforceroomcupnightovalmoralbag
 bip_39_word_no_space_12: localcompanyexpressweaselforceroomcupnightovalmoralbagamong
 bip_39_word_no_space_2: localcompany
 bip_39_word_no_space_3: localcompanyexpress
-bip_39_word_no_space_4: localcompanyexpressweasel
-bip_39_word_no_space_5: localcompanyexpressweaselforce
-bip_39_word_no_space_6: localcompanyexpressweaselforceroom
-bip_39_word_no_space_7: localcompanyexpressweaselforceroomcup
-bip_39_word_no_space_8: localcompanyexpressweaselforceroomcupnight
-bip_39_word_no_space_9: localcompanyexpressweaselforceroomcupnightoval
-bip_39_word_space_0:
-- local
-- company
-- express
-- weasel
-- force
-- room
-- cup
-- night
-- oval
-- moral
-- bag
-- among
-bip_39_word_space_1: local
-bip_39_word_space_10: local company express weasel force room cup night oval moral
-bip_39_word_space_11: local company express weasel force room cup night oval moral
-  bag
 bip_39_word_space_12: local company express weasel force room cup night oval moral
   bag among
 bip_39_word_space_2: local company
 bip_39_word_space_3: local company express
-bip_39_word_space_4: local company express weasel
-bip_39_word_space_5: local company express weasel force
-bip_39_word_space_6: local company express weasel force room
-bip_39_word_space_7: local company express weasel force room cup
-bip_39_word_space_8: local company express weasel force room cup night
-bip_39_word_space_9: local company express weasel force room cup night oval
-bip_39_word_underscore_1: local
-bip_39_word_underscore_10: local_company_express_weasel_force_room_cup_night_oval_moral
-bip_39_word_underscore_11: local_company_express_weasel_force_room_cup_night_oval_moral_bag
 bip_39_word_underscore_12: local_company_express_weasel_force_room_cup_night_oval_moral_bag_among
 bip_39_word_underscore_2: local_company
 bip_39_word_underscore_3: local_company_express
-bip_39_word_underscore_4: local_company_express_weasel
-bip_39_word_underscore_5: local_company_express_weasel_force
-bip_39_word_underscore_6: local_company_express_weasel_force_room
-bip_39_word_underscore_7: local_company_express_weasel_force_room_cup
-bip_39_word_underscore_8: local_company_express_weasel_force_room_cup_night
-bip_39_word_underscore_9: local_company_express_weasel_force_room_cup_night_oval
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

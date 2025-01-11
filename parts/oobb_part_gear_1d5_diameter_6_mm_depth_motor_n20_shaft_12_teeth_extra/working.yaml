@@ -1,68 +1,9 @@
-bip_39_word_dash_1: blanket
-bip_39_word_dash_10: blanket-cart-scout-must-peanut-oak-wool-roof-farm-fantasy
-bip_39_word_dash_11: blanket-cart-scout-must-peanut-oak-wool-roof-farm-fantasy-must
 bip_39_word_dash_12: blanket-cart-scout-must-peanut-oak-wool-roof-farm-fantasy-must-abuse
 bip_39_word_dash_2: blanket-cart
 bip_39_word_dash_3: blanket-cart-scout
-bip_39_word_dash_4: blanket-cart-scout-must
-bip_39_word_dash_5: blanket-cart-scout-must-peanut
-bip_39_word_dash_6: blanket-cart-scout-must-peanut-oak
-bip_39_word_dash_7: blanket-cart-scout-must-peanut-oak-wool
-bip_39_word_dash_8: blanket-cart-scout-must-peanut-oak-wool-roof
-bip_39_word_dash_9: blanket-cart-scout-must-peanut-oak-wool-roof-farm
-bip_39_word_new_br_1: blanket
-bip_39_word_new_br_10: blanket<br>cart<br>scout<br>must<br>peanut<br>oak<br>wool<br>roof<br>farm<br>fantasy
-bip_39_word_new_br_11: blanket<br>cart<br>scout<br>must<br>peanut<br>oak<br>wool<br>roof<br>farm<br>fantasy<br>must
 bip_39_word_new_br_12: blanket<br>cart<br>scout<br>must<br>peanut<br>oak<br>wool<br>roof<br>farm<br>fantasy<br>must<br>abuse
 bip_39_word_new_br_2: blanket<br>cart
 bip_39_word_new_br_3: blanket<br>cart<br>scout
-bip_39_word_new_br_4: blanket<br>cart<br>scout<br>must
-bip_39_word_new_br_5: blanket<br>cart<br>scout<br>must<br>peanut
-bip_39_word_new_br_6: blanket<br>cart<br>scout<br>must<br>peanut<br>oak
-bip_39_word_new_br_7: blanket<br>cart<br>scout<br>must<br>peanut<br>oak<br>wool
-bip_39_word_new_br_8: blanket<br>cart<br>scout<br>must<br>peanut<br>oak<br>wool<br>roof
-bip_39_word_new_br_9: blanket<br>cart<br>scout<br>must<br>peanut<br>oak<br>wool<br>roof<br>farm
-bip_39_word_new_line_1: blanket
-bip_39_word_new_line_10: 'blanket
-
-  cart
-
-  scout
-
-  must
-
-  peanut
-
-  oak
-
-  wool
-
-  roof
-
-  farm
-
-  fantasy'
-bip_39_word_new_line_11: 'blanket
-
-  cart
-
-  scout
-
-  must
-
-  peanut
-
-  oak
-
-  wool
-
-  roof
-
-  farm
-
-  fantasy
-
-  must'
 bip_39_word_new_line_12: 'blanket
 
   cart
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'blanket
   cart
 
   scout'
-bip_39_word_new_line_4: 'blanket
-
-  cart
-
-  scout
-
-  must'
-bip_39_word_new_line_5: 'blanket
-
-  cart
-
-  scout
-
-  must
-
-  peanut'
-bip_39_word_new_line_6: 'blanket
-
-  cart
-
-  scout
-
-  must
-
-  peanut
-
-  oak'
-bip_39_word_new_line_7: 'blanket
-
-  cart
-
-  scout
-
-  must
-
-  peanut
-
-  oak
-
-  wool'
-bip_39_word_new_line_8: 'blanket
-
-  cart
-
-  scout
-
-  must
-
-  peanut
-
-  oak
-
-  wool
-
-  roof'
-bip_39_word_new_line_9: 'blanket
-
-  cart
-
-  scout
-
-  must
-
-  peanut
-
-  oak
-
-  wool
-
-  roof
-
-  farm'
-bip_39_word_no_space_1: blanket
-bip_39_word_no_space_10: blanketcartscoutmustpeanutoakwoolrooffarmfantasy
-bip_39_word_no_space_11: blanketcartscoutmustpeanutoakwoolrooffarmfantasymust
 bip_39_word_no_space_12: blanketcartscoutmustpeanutoakwoolrooffarmfantasymustabuse
 bip_39_word_no_space_2: blanketcart
 bip_39_word_no_space_3: blanketcartscout
-bip_39_word_no_space_4: blanketcartscoutmust
-bip_39_word_no_space_5: blanketcartscoutmustpeanut
-bip_39_word_no_space_6: blanketcartscoutmustpeanutoak
-bip_39_word_no_space_7: blanketcartscoutmustpeanutoakwool
-bip_39_word_no_space_8: blanketcartscoutmustpeanutoakwoolroof
-bip_39_word_no_space_9: blanketcartscoutmustpeanutoakwoolrooffarm
-bip_39_word_space_0:
-- blanket
-- cart
-- scout
-- must
-- peanut
-- oak
-- wool
-- roof
-- farm
-- fantasy
-- must
-- abuse
-bip_39_word_space_1: blanket
-bip_39_word_space_10: blanket cart scout must peanut oak wool roof farm fantasy
-bip_39_word_space_11: blanket cart scout must peanut oak wool roof farm fantasy must
 bip_39_word_space_12: blanket cart scout must peanut oak wool roof farm fantasy must
   abuse
 bip_39_word_space_2: blanket cart
 bip_39_word_space_3: blanket cart scout
-bip_39_word_space_4: blanket cart scout must
-bip_39_word_space_5: blanket cart scout must peanut
-bip_39_word_space_6: blanket cart scout must peanut oak
-bip_39_word_space_7: blanket cart scout must peanut oak wool
-bip_39_word_space_8: blanket cart scout must peanut oak wool roof
-bip_39_word_space_9: blanket cart scout must peanut oak wool roof farm
-bip_39_word_underscore_1: blanket
-bip_39_word_underscore_10: blanket_cart_scout_must_peanut_oak_wool_roof_farm_fantasy
-bip_39_word_underscore_11: blanket_cart_scout_must_peanut_oak_wool_roof_farm_fantasy_must
 bip_39_word_underscore_12: blanket_cart_scout_must_peanut_oak_wool_roof_farm_fantasy_must_abuse
 bip_39_word_underscore_2: blanket_cart
 bip_39_word_underscore_3: blanket_cart_scout
-bip_39_word_underscore_4: blanket_cart_scout_must
-bip_39_word_underscore_5: blanket_cart_scout_must_peanut
-bip_39_word_underscore_6: blanket_cart_scout_must_peanut_oak
-bip_39_word_underscore_7: blanket_cart_scout_must_peanut_oak_wool
-bip_39_word_underscore_8: blanket_cart_scout_must_peanut_oak_wool_roof
-bip_39_word_underscore_9: blanket_cart_scout_must_peanut_oak_wool_roof_farm
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

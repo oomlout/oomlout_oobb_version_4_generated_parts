@@ -1,68 +1,9 @@
-bip_39_word_dash_1: oyster
-bip_39_word_dash_10: oyster-squirrel-lift-tired-mansion-bargain-wasp-fault-success-vacuum
-bip_39_word_dash_11: oyster-squirrel-lift-tired-mansion-bargain-wasp-fault-success-vacuum-hundred
 bip_39_word_dash_12: oyster-squirrel-lift-tired-mansion-bargain-wasp-fault-success-vacuum-hundred-agent
 bip_39_word_dash_2: oyster-squirrel
 bip_39_word_dash_3: oyster-squirrel-lift
-bip_39_word_dash_4: oyster-squirrel-lift-tired
-bip_39_word_dash_5: oyster-squirrel-lift-tired-mansion
-bip_39_word_dash_6: oyster-squirrel-lift-tired-mansion-bargain
-bip_39_word_dash_7: oyster-squirrel-lift-tired-mansion-bargain-wasp
-bip_39_word_dash_8: oyster-squirrel-lift-tired-mansion-bargain-wasp-fault
-bip_39_word_dash_9: oyster-squirrel-lift-tired-mansion-bargain-wasp-fault-success
-bip_39_word_new_br_1: oyster
-bip_39_word_new_br_10: oyster<br>squirrel<br>lift<br>tired<br>mansion<br>bargain<br>wasp<br>fault<br>success<br>vacuum
-bip_39_word_new_br_11: oyster<br>squirrel<br>lift<br>tired<br>mansion<br>bargain<br>wasp<br>fault<br>success<br>vacuum<br>hundred
 bip_39_word_new_br_12: oyster<br>squirrel<br>lift<br>tired<br>mansion<br>bargain<br>wasp<br>fault<br>success<br>vacuum<br>hundred<br>agent
 bip_39_word_new_br_2: oyster<br>squirrel
 bip_39_word_new_br_3: oyster<br>squirrel<br>lift
-bip_39_word_new_br_4: oyster<br>squirrel<br>lift<br>tired
-bip_39_word_new_br_5: oyster<br>squirrel<br>lift<br>tired<br>mansion
-bip_39_word_new_br_6: oyster<br>squirrel<br>lift<br>tired<br>mansion<br>bargain
-bip_39_word_new_br_7: oyster<br>squirrel<br>lift<br>tired<br>mansion<br>bargain<br>wasp
-bip_39_word_new_br_8: oyster<br>squirrel<br>lift<br>tired<br>mansion<br>bargain<br>wasp<br>fault
-bip_39_word_new_br_9: oyster<br>squirrel<br>lift<br>tired<br>mansion<br>bargain<br>wasp<br>fault<br>success
-bip_39_word_new_line_1: oyster
-bip_39_word_new_line_10: 'oyster
-
-  squirrel
-
-  lift
-
-  tired
-
-  mansion
-
-  bargain
-
-  wasp
-
-  fault
-
-  success
-
-  vacuum'
-bip_39_word_new_line_11: 'oyster
-
-  squirrel
-
-  lift
-
-  tired
-
-  mansion
-
-  bargain
-
-  wasp
-
-  fault
-
-  success
-
-  vacuum
-
-  hundred'
 bip_39_word_new_line_12: 'oyster
 
   squirrel
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'oyster
   squirrel
 
   lift'
-bip_39_word_new_line_4: 'oyster
-
-  squirrel
-
-  lift
-
-  tired'
-bip_39_word_new_line_5: 'oyster
-
-  squirrel
-
-  lift
-
-  tired
-
-  mansion'
-bip_39_word_new_line_6: 'oyster
-
-  squirrel
-
-  lift
-
-  tired
-
-  mansion
-
-  bargain'
-bip_39_word_new_line_7: 'oyster
-
-  squirrel
-
-  lift
-
-  tired
-
-  mansion
-
-  bargain
-
-  wasp'
-bip_39_word_new_line_8: 'oyster
-
-  squirrel
-
-  lift
-
-  tired
-
-  mansion
-
-  bargain
-
-  wasp
-
-  fault'
-bip_39_word_new_line_9: 'oyster
-
-  squirrel
-
-  lift
-
-  tired
-
-  mansion
-
-  bargain
-
-  wasp
-
-  fault
-
-  success'
-bip_39_word_no_space_1: oyster
-bip_39_word_no_space_10: oystersquirrellifttiredmansionbargainwaspfaultsuccessvacuum
-bip_39_word_no_space_11: oystersquirrellifttiredmansionbargainwaspfaultsuccessvacuumhundred
 bip_39_word_no_space_12: oystersquirrellifttiredmansionbargainwaspfaultsuccessvacuumhundredagent
 bip_39_word_no_space_2: oystersquirrel
 bip_39_word_no_space_3: oystersquirrellift
-bip_39_word_no_space_4: oystersquirrellifttired
-bip_39_word_no_space_5: oystersquirrellifttiredmansion
-bip_39_word_no_space_6: oystersquirrellifttiredmansionbargain
-bip_39_word_no_space_7: oystersquirrellifttiredmansionbargainwasp
-bip_39_word_no_space_8: oystersquirrellifttiredmansionbargainwaspfault
-bip_39_word_no_space_9: oystersquirrellifttiredmansionbargainwaspfaultsuccess
-bip_39_word_space_0:
-- oyster
-- squirrel
-- lift
-- tired
-- mansion
-- bargain
-- wasp
-- fault
-- success
-- vacuum
-- hundred
-- agent
-bip_39_word_space_1: oyster
-bip_39_word_space_10: oyster squirrel lift tired mansion bargain wasp fault success
-  vacuum
-bip_39_word_space_11: oyster squirrel lift tired mansion bargain wasp fault success
-  vacuum hundred
 bip_39_word_space_12: oyster squirrel lift tired mansion bargain wasp fault success
   vacuum hundred agent
 bip_39_word_space_2: oyster squirrel
 bip_39_word_space_3: oyster squirrel lift
-bip_39_word_space_4: oyster squirrel lift tired
-bip_39_word_space_5: oyster squirrel lift tired mansion
-bip_39_word_space_6: oyster squirrel lift tired mansion bargain
-bip_39_word_space_7: oyster squirrel lift tired mansion bargain wasp
-bip_39_word_space_8: oyster squirrel lift tired mansion bargain wasp fault
-bip_39_word_space_9: oyster squirrel lift tired mansion bargain wasp fault success
-bip_39_word_underscore_1: oyster
-bip_39_word_underscore_10: oyster_squirrel_lift_tired_mansion_bargain_wasp_fault_success_vacuum
-bip_39_word_underscore_11: oyster_squirrel_lift_tired_mansion_bargain_wasp_fault_success_vacuum_hundred
 bip_39_word_underscore_12: oyster_squirrel_lift_tired_mansion_bargain_wasp_fault_success_vacuum_hundred_agent
 bip_39_word_underscore_2: oyster_squirrel
 bip_39_word_underscore_3: oyster_squirrel_lift
-bip_39_word_underscore_4: oyster_squirrel_lift_tired
-bip_39_word_underscore_5: oyster_squirrel_lift_tired_mansion
-bip_39_word_underscore_6: oyster_squirrel_lift_tired_mansion_bargain
-bip_39_word_underscore_7: oyster_squirrel_lift_tired_mansion_bargain_wasp
-bip_39_word_underscore_8: oyster_squirrel_lift_tired_mansion_bargain_wasp_fault
-bip_39_word_underscore_9: oyster_squirrel_lift_tired_mansion_bargain_wasp_fault_success
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: lock
-bip_39_word_dash_10: lock-tobacco-dilemma-arena-power-mountain-measure-three-draw-noble
-bip_39_word_dash_11: lock-tobacco-dilemma-arena-power-mountain-measure-three-draw-noble-spice
 bip_39_word_dash_12: lock-tobacco-dilemma-arena-power-mountain-measure-three-draw-noble-spice-about
 bip_39_word_dash_2: lock-tobacco
 bip_39_word_dash_3: lock-tobacco-dilemma
-bip_39_word_dash_4: lock-tobacco-dilemma-arena
-bip_39_word_dash_5: lock-tobacco-dilemma-arena-power
-bip_39_word_dash_6: lock-tobacco-dilemma-arena-power-mountain
-bip_39_word_dash_7: lock-tobacco-dilemma-arena-power-mountain-measure
-bip_39_word_dash_8: lock-tobacco-dilemma-arena-power-mountain-measure-three
-bip_39_word_dash_9: lock-tobacco-dilemma-arena-power-mountain-measure-three-draw
-bip_39_word_new_br_1: lock
-bip_39_word_new_br_10: lock<br>tobacco<br>dilemma<br>arena<br>power<br>mountain<br>measure<br>three<br>draw<br>noble
-bip_39_word_new_br_11: lock<br>tobacco<br>dilemma<br>arena<br>power<br>mountain<br>measure<br>three<br>draw<br>noble<br>spice
 bip_39_word_new_br_12: lock<br>tobacco<br>dilemma<br>arena<br>power<br>mountain<br>measure<br>three<br>draw<br>noble<br>spice<br>about
 bip_39_word_new_br_2: lock<br>tobacco
 bip_39_word_new_br_3: lock<br>tobacco<br>dilemma
-bip_39_word_new_br_4: lock<br>tobacco<br>dilemma<br>arena
-bip_39_word_new_br_5: lock<br>tobacco<br>dilemma<br>arena<br>power
-bip_39_word_new_br_6: lock<br>tobacco<br>dilemma<br>arena<br>power<br>mountain
-bip_39_word_new_br_7: lock<br>tobacco<br>dilemma<br>arena<br>power<br>mountain<br>measure
-bip_39_word_new_br_8: lock<br>tobacco<br>dilemma<br>arena<br>power<br>mountain<br>measure<br>three
-bip_39_word_new_br_9: lock<br>tobacco<br>dilemma<br>arena<br>power<br>mountain<br>measure<br>three<br>draw
-bip_39_word_new_line_1: lock
-bip_39_word_new_line_10: 'lock
-
-  tobacco
-
-  dilemma
-
-  arena
-
-  power
-
-  mountain
-
-  measure
-
-  three
-
-  draw
-
-  noble'
-bip_39_word_new_line_11: 'lock
-
-  tobacco
-
-  dilemma
-
-  arena
-
-  power
-
-  mountain
-
-  measure
-
-  three
-
-  draw
-
-  noble
-
-  spice'
 bip_39_word_new_line_12: 'lock
 
   tobacco
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'lock
   tobacco
 
   dilemma'
-bip_39_word_new_line_4: 'lock
-
-  tobacco
-
-  dilemma
-
-  arena'
-bip_39_word_new_line_5: 'lock
-
-  tobacco
-
-  dilemma
-
-  arena
-
-  power'
-bip_39_word_new_line_6: 'lock
-
-  tobacco
-
-  dilemma
-
-  arena
-
-  power
-
-  mountain'
-bip_39_word_new_line_7: 'lock
-
-  tobacco
-
-  dilemma
-
-  arena
-
-  power
-
-  mountain
-
-  measure'
-bip_39_word_new_line_8: 'lock
-
-  tobacco
-
-  dilemma
-
-  arena
-
-  power
-
-  mountain
-
-  measure
-
-  three'
-bip_39_word_new_line_9: 'lock
-
-  tobacco
-
-  dilemma
-
-  arena
-
-  power
-
-  mountain
-
-  measure
-
-  three
-
-  draw'
-bip_39_word_no_space_1: lock
-bip_39_word_no_space_10: locktobaccodilemmaarenapowermountainmeasurethreedrawnoble
-bip_39_word_no_space_11: locktobaccodilemmaarenapowermountainmeasurethreedrawnoblespice
 bip_39_word_no_space_12: locktobaccodilemmaarenapowermountainmeasurethreedrawnoblespiceabout
 bip_39_word_no_space_2: locktobacco
 bip_39_word_no_space_3: locktobaccodilemma
-bip_39_word_no_space_4: locktobaccodilemmaarena
-bip_39_word_no_space_5: locktobaccodilemmaarenapower
-bip_39_word_no_space_6: locktobaccodilemmaarenapowermountain
-bip_39_word_no_space_7: locktobaccodilemmaarenapowermountainmeasure
-bip_39_word_no_space_8: locktobaccodilemmaarenapowermountainmeasurethree
-bip_39_word_no_space_9: locktobaccodilemmaarenapowermountainmeasurethreedraw
-bip_39_word_space_0:
-- lock
-- tobacco
-- dilemma
-- arena
-- power
-- mountain
-- measure
-- three
-- draw
-- noble
-- spice
-- about
-bip_39_word_space_1: lock
-bip_39_word_space_10: lock tobacco dilemma arena power mountain measure three draw
-  noble
-bip_39_word_space_11: lock tobacco dilemma arena power mountain measure three draw
-  noble spice
 bip_39_word_space_12: lock tobacco dilemma arena power mountain measure three draw
   noble spice about
 bip_39_word_space_2: lock tobacco
 bip_39_word_space_3: lock tobacco dilemma
-bip_39_word_space_4: lock tobacco dilemma arena
-bip_39_word_space_5: lock tobacco dilemma arena power
-bip_39_word_space_6: lock tobacco dilemma arena power mountain
-bip_39_word_space_7: lock tobacco dilemma arena power mountain measure
-bip_39_word_space_8: lock tobacco dilemma arena power mountain measure three
-bip_39_word_space_9: lock tobacco dilemma arena power mountain measure three draw
-bip_39_word_underscore_1: lock
-bip_39_word_underscore_10: lock_tobacco_dilemma_arena_power_mountain_measure_three_draw_noble
-bip_39_word_underscore_11: lock_tobacco_dilemma_arena_power_mountain_measure_three_draw_noble_spice
 bip_39_word_underscore_12: lock_tobacco_dilemma_arena_power_mountain_measure_three_draw_noble_spice_about
 bip_39_word_underscore_2: lock_tobacco
 bip_39_word_underscore_3: lock_tobacco_dilemma
-bip_39_word_underscore_4: lock_tobacco_dilemma_arena
-bip_39_word_underscore_5: lock_tobacco_dilemma_arena_power
-bip_39_word_underscore_6: lock_tobacco_dilemma_arena_power_mountain
-bip_39_word_underscore_7: lock_tobacco_dilemma_arena_power_mountain_measure
-bip_39_word_underscore_8: lock_tobacco_dilemma_arena_power_mountain_measure_three
-bip_39_word_underscore_9: lock_tobacco_dilemma_arena_power_mountain_measure_three_draw
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

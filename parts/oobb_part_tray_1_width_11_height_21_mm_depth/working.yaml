@@ -1,68 +1,9 @@
-bip_39_word_dash_1: loop
-bip_39_word_dash_10: loop-sadness-verify-people-apart-argue-original-only-velvet-wreck
-bip_39_word_dash_11: loop-sadness-verify-people-apart-argue-original-only-velvet-wreck-rabbit
 bip_39_word_dash_12: loop-sadness-verify-people-apart-argue-original-only-velvet-wreck-rabbit-attend
 bip_39_word_dash_2: loop-sadness
 bip_39_word_dash_3: loop-sadness-verify
-bip_39_word_dash_4: loop-sadness-verify-people
-bip_39_word_dash_5: loop-sadness-verify-people-apart
-bip_39_word_dash_6: loop-sadness-verify-people-apart-argue
-bip_39_word_dash_7: loop-sadness-verify-people-apart-argue-original
-bip_39_word_dash_8: loop-sadness-verify-people-apart-argue-original-only
-bip_39_word_dash_9: loop-sadness-verify-people-apart-argue-original-only-velvet
-bip_39_word_new_br_1: loop
-bip_39_word_new_br_10: loop<br>sadness<br>verify<br>people<br>apart<br>argue<br>original<br>only<br>velvet<br>wreck
-bip_39_word_new_br_11: loop<br>sadness<br>verify<br>people<br>apart<br>argue<br>original<br>only<br>velvet<br>wreck<br>rabbit
 bip_39_word_new_br_12: loop<br>sadness<br>verify<br>people<br>apart<br>argue<br>original<br>only<br>velvet<br>wreck<br>rabbit<br>attend
 bip_39_word_new_br_2: loop<br>sadness
 bip_39_word_new_br_3: loop<br>sadness<br>verify
-bip_39_word_new_br_4: loop<br>sadness<br>verify<br>people
-bip_39_word_new_br_5: loop<br>sadness<br>verify<br>people<br>apart
-bip_39_word_new_br_6: loop<br>sadness<br>verify<br>people<br>apart<br>argue
-bip_39_word_new_br_7: loop<br>sadness<br>verify<br>people<br>apart<br>argue<br>original
-bip_39_word_new_br_8: loop<br>sadness<br>verify<br>people<br>apart<br>argue<br>original<br>only
-bip_39_word_new_br_9: loop<br>sadness<br>verify<br>people<br>apart<br>argue<br>original<br>only<br>velvet
-bip_39_word_new_line_1: loop
-bip_39_word_new_line_10: 'loop
-
-  sadness
-
-  verify
-
-  people
-
-  apart
-
-  argue
-
-  original
-
-  only
-
-  velvet
-
-  wreck'
-bip_39_word_new_line_11: 'loop
-
-  sadness
-
-  verify
-
-  people
-
-  apart
-
-  argue
-
-  original
-
-  only
-
-  velvet
-
-  wreck
-
-  rabbit'
 bip_39_word_new_line_12: 'loop
 
   sadness
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'loop
   sadness
 
   verify'
-bip_39_word_new_line_4: 'loop
-
-  sadness
-
-  verify
-
-  people'
-bip_39_word_new_line_5: 'loop
-
-  sadness
-
-  verify
-
-  people
-
-  apart'
-bip_39_word_new_line_6: 'loop
-
-  sadness
-
-  verify
-
-  people
-
-  apart
-
-  argue'
-bip_39_word_new_line_7: 'loop
-
-  sadness
-
-  verify
-
-  people
-
-  apart
-
-  argue
-
-  original'
-bip_39_word_new_line_8: 'loop
-
-  sadness
-
-  verify
-
-  people
-
-  apart
-
-  argue
-
-  original
-
-  only'
-bip_39_word_new_line_9: 'loop
-
-  sadness
-
-  verify
-
-  people
-
-  apart
-
-  argue
-
-  original
-
-  only
-
-  velvet'
-bip_39_word_no_space_1: loop
-bip_39_word_no_space_10: loopsadnessverifypeopleapartargueoriginalonlyvelvetwreck
-bip_39_word_no_space_11: loopsadnessverifypeopleapartargueoriginalonlyvelvetwreckrabbit
 bip_39_word_no_space_12: loopsadnessverifypeopleapartargueoriginalonlyvelvetwreckrabbitattend
 bip_39_word_no_space_2: loopsadness
 bip_39_word_no_space_3: loopsadnessverify
-bip_39_word_no_space_4: loopsadnessverifypeople
-bip_39_word_no_space_5: loopsadnessverifypeopleapart
-bip_39_word_no_space_6: loopsadnessverifypeopleapartargue
-bip_39_word_no_space_7: loopsadnessverifypeopleapartargueoriginal
-bip_39_word_no_space_8: loopsadnessverifypeopleapartargueoriginalonly
-bip_39_word_no_space_9: loopsadnessverifypeopleapartargueoriginalonlyvelvet
-bip_39_word_space_0:
-- loop
-- sadness
-- verify
-- people
-- apart
-- argue
-- original
-- only
-- velvet
-- wreck
-- rabbit
-- attend
-bip_39_word_space_1: loop
-bip_39_word_space_10: loop sadness verify people apart argue original only velvet
-  wreck
-bip_39_word_space_11: loop sadness verify people apart argue original only velvet
-  wreck rabbit
 bip_39_word_space_12: loop sadness verify people apart argue original only velvet
   wreck rabbit attend
 bip_39_word_space_2: loop sadness
 bip_39_word_space_3: loop sadness verify
-bip_39_word_space_4: loop sadness verify people
-bip_39_word_space_5: loop sadness verify people apart
-bip_39_word_space_6: loop sadness verify people apart argue
-bip_39_word_space_7: loop sadness verify people apart argue original
-bip_39_word_space_8: loop sadness verify people apart argue original only
-bip_39_word_space_9: loop sadness verify people apart argue original only velvet
-bip_39_word_underscore_1: loop
-bip_39_word_underscore_10: loop_sadness_verify_people_apart_argue_original_only_velvet_wreck
-bip_39_word_underscore_11: loop_sadness_verify_people_apart_argue_original_only_velvet_wreck_rabbit
 bip_39_word_underscore_12: loop_sadness_verify_people_apart_argue_original_only_velvet_wreck_rabbit_attend
 bip_39_word_underscore_2: loop_sadness
 bip_39_word_underscore_3: loop_sadness_verify
-bip_39_word_underscore_4: loop_sadness_verify_people
-bip_39_word_underscore_5: loop_sadness_verify_people_apart
-bip_39_word_underscore_6: loop_sadness_verify_people_apart_argue
-bip_39_word_underscore_7: loop_sadness_verify_people_apart_argue_original
-bip_39_word_underscore_8: loop_sadness_verify_people_apart_argue_original_only
-bip_39_word_underscore_9: loop_sadness_verify_people_apart_argue_original_only_velvet
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

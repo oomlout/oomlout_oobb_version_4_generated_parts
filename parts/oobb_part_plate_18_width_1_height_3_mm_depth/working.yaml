@@ -1,68 +1,9 @@
-bip_39_word_dash_1: chair
-bip_39_word_dash_10: chair-desk-floor-curtain-subway-fruit-melody-bar-cement-spatial
-bip_39_word_dash_11: chair-desk-floor-curtain-subway-fruit-melody-bar-cement-spatial-crane
 bip_39_word_dash_12: chair-desk-floor-curtain-subway-fruit-melody-bar-cement-spatial-crane-arctic
 bip_39_word_dash_2: chair-desk
 bip_39_word_dash_3: chair-desk-floor
-bip_39_word_dash_4: chair-desk-floor-curtain
-bip_39_word_dash_5: chair-desk-floor-curtain-subway
-bip_39_word_dash_6: chair-desk-floor-curtain-subway-fruit
-bip_39_word_dash_7: chair-desk-floor-curtain-subway-fruit-melody
-bip_39_word_dash_8: chair-desk-floor-curtain-subway-fruit-melody-bar
-bip_39_word_dash_9: chair-desk-floor-curtain-subway-fruit-melody-bar-cement
-bip_39_word_new_br_1: chair
-bip_39_word_new_br_10: chair<br>desk<br>floor<br>curtain<br>subway<br>fruit<br>melody<br>bar<br>cement<br>spatial
-bip_39_word_new_br_11: chair<br>desk<br>floor<br>curtain<br>subway<br>fruit<br>melody<br>bar<br>cement<br>spatial<br>crane
 bip_39_word_new_br_12: chair<br>desk<br>floor<br>curtain<br>subway<br>fruit<br>melody<br>bar<br>cement<br>spatial<br>crane<br>arctic
 bip_39_word_new_br_2: chair<br>desk
 bip_39_word_new_br_3: chair<br>desk<br>floor
-bip_39_word_new_br_4: chair<br>desk<br>floor<br>curtain
-bip_39_word_new_br_5: chair<br>desk<br>floor<br>curtain<br>subway
-bip_39_word_new_br_6: chair<br>desk<br>floor<br>curtain<br>subway<br>fruit
-bip_39_word_new_br_7: chair<br>desk<br>floor<br>curtain<br>subway<br>fruit<br>melody
-bip_39_word_new_br_8: chair<br>desk<br>floor<br>curtain<br>subway<br>fruit<br>melody<br>bar
-bip_39_word_new_br_9: chair<br>desk<br>floor<br>curtain<br>subway<br>fruit<br>melody<br>bar<br>cement
-bip_39_word_new_line_1: chair
-bip_39_word_new_line_10: 'chair
-
-  desk
-
-  floor
-
-  curtain
-
-  subway
-
-  fruit
-
-  melody
-
-  bar
-
-  cement
-
-  spatial'
-bip_39_word_new_line_11: 'chair
-
-  desk
-
-  floor
-
-  curtain
-
-  subway
-
-  fruit
-
-  melody
-
-  bar
-
-  cement
-
-  spatial
-
-  crane'
 bip_39_word_new_line_12: 'chair
 
   desk
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'chair
   desk
 
   floor'
-bip_39_word_new_line_4: 'chair
-
-  desk
-
-  floor
-
-  curtain'
-bip_39_word_new_line_5: 'chair
-
-  desk
-
-  floor
-
-  curtain
-
-  subway'
-bip_39_word_new_line_6: 'chair
-
-  desk
-
-  floor
-
-  curtain
-
-  subway
-
-  fruit'
-bip_39_word_new_line_7: 'chair
-
-  desk
-
-  floor
-
-  curtain
-
-  subway
-
-  fruit
-
-  melody'
-bip_39_word_new_line_8: 'chair
-
-  desk
-
-  floor
-
-  curtain
-
-  subway
-
-  fruit
-
-  melody
-
-  bar'
-bip_39_word_new_line_9: 'chair
-
-  desk
-
-  floor
-
-  curtain
-
-  subway
-
-  fruit
-
-  melody
-
-  bar
-
-  cement'
-bip_39_word_no_space_1: chair
-bip_39_word_no_space_10: chairdeskfloorcurtainsubwayfruitmelodybarcementspatial
-bip_39_word_no_space_11: chairdeskfloorcurtainsubwayfruitmelodybarcementspatialcrane
 bip_39_word_no_space_12: chairdeskfloorcurtainsubwayfruitmelodybarcementspatialcranearctic
 bip_39_word_no_space_2: chairdesk
 bip_39_word_no_space_3: chairdeskfloor
-bip_39_word_no_space_4: chairdeskfloorcurtain
-bip_39_word_no_space_5: chairdeskfloorcurtainsubway
-bip_39_word_no_space_6: chairdeskfloorcurtainsubwayfruit
-bip_39_word_no_space_7: chairdeskfloorcurtainsubwayfruitmelody
-bip_39_word_no_space_8: chairdeskfloorcurtainsubwayfruitmelodybar
-bip_39_word_no_space_9: chairdeskfloorcurtainsubwayfruitmelodybarcement
-bip_39_word_space_0:
-- chair
-- desk
-- floor
-- curtain
-- subway
-- fruit
-- melody
-- bar
-- cement
-- spatial
-- crane
-- arctic
-bip_39_word_space_1: chair
-bip_39_word_space_10: chair desk floor curtain subway fruit melody bar cement spatial
-bip_39_word_space_11: chair desk floor curtain subway fruit melody bar cement spatial
-  crane
 bip_39_word_space_12: chair desk floor curtain subway fruit melody bar cement spatial
   crane arctic
 bip_39_word_space_2: chair desk
 bip_39_word_space_3: chair desk floor
-bip_39_word_space_4: chair desk floor curtain
-bip_39_word_space_5: chair desk floor curtain subway
-bip_39_word_space_6: chair desk floor curtain subway fruit
-bip_39_word_space_7: chair desk floor curtain subway fruit melody
-bip_39_word_space_8: chair desk floor curtain subway fruit melody bar
-bip_39_word_space_9: chair desk floor curtain subway fruit melody bar cement
-bip_39_word_underscore_1: chair
-bip_39_word_underscore_10: chair_desk_floor_curtain_subway_fruit_melody_bar_cement_spatial
-bip_39_word_underscore_11: chair_desk_floor_curtain_subway_fruit_melody_bar_cement_spatial_crane
 bip_39_word_underscore_12: chair_desk_floor_curtain_subway_fruit_melody_bar_cement_spatial_crane_arctic
 bip_39_word_underscore_2: chair_desk
 bip_39_word_underscore_3: chair_desk_floor
-bip_39_word_underscore_4: chair_desk_floor_curtain
-bip_39_word_underscore_5: chair_desk_floor_curtain_subway
-bip_39_word_underscore_6: chair_desk_floor_curtain_subway_fruit
-bip_39_word_underscore_7: chair_desk_floor_curtain_subway_fruit_melody
-bip_39_word_underscore_8: chair_desk_floor_curtain_subway_fruit_melody_bar
-bip_39_word_underscore_9: chair_desk_floor_curtain_subway_fruit_melody_bar_cement
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

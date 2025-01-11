@@ -1,68 +1,9 @@
-bip_39_word_dash_1: base
-bip_39_word_dash_10: base-evoke-rabbit-begin-dune-merge-silly-thank-virtual-borrow
-bip_39_word_dash_11: base-evoke-rabbit-begin-dune-merge-silly-thank-virtual-borrow-view
 bip_39_word_dash_12: base-evoke-rabbit-begin-dune-merge-silly-thank-virtual-borrow-view-afford
 bip_39_word_dash_2: base-evoke
 bip_39_word_dash_3: base-evoke-rabbit
-bip_39_word_dash_4: base-evoke-rabbit-begin
-bip_39_word_dash_5: base-evoke-rabbit-begin-dune
-bip_39_word_dash_6: base-evoke-rabbit-begin-dune-merge
-bip_39_word_dash_7: base-evoke-rabbit-begin-dune-merge-silly
-bip_39_word_dash_8: base-evoke-rabbit-begin-dune-merge-silly-thank
-bip_39_word_dash_9: base-evoke-rabbit-begin-dune-merge-silly-thank-virtual
-bip_39_word_new_br_1: base
-bip_39_word_new_br_10: base<br>evoke<br>rabbit<br>begin<br>dune<br>merge<br>silly<br>thank<br>virtual<br>borrow
-bip_39_word_new_br_11: base<br>evoke<br>rabbit<br>begin<br>dune<br>merge<br>silly<br>thank<br>virtual<br>borrow<br>view
 bip_39_word_new_br_12: base<br>evoke<br>rabbit<br>begin<br>dune<br>merge<br>silly<br>thank<br>virtual<br>borrow<br>view<br>afford
 bip_39_word_new_br_2: base<br>evoke
 bip_39_word_new_br_3: base<br>evoke<br>rabbit
-bip_39_word_new_br_4: base<br>evoke<br>rabbit<br>begin
-bip_39_word_new_br_5: base<br>evoke<br>rabbit<br>begin<br>dune
-bip_39_word_new_br_6: base<br>evoke<br>rabbit<br>begin<br>dune<br>merge
-bip_39_word_new_br_7: base<br>evoke<br>rabbit<br>begin<br>dune<br>merge<br>silly
-bip_39_word_new_br_8: base<br>evoke<br>rabbit<br>begin<br>dune<br>merge<br>silly<br>thank
-bip_39_word_new_br_9: base<br>evoke<br>rabbit<br>begin<br>dune<br>merge<br>silly<br>thank<br>virtual
-bip_39_word_new_line_1: base
-bip_39_word_new_line_10: 'base
-
-  evoke
-
-  rabbit
-
-  begin
-
-  dune
-
-  merge
-
-  silly
-
-  thank
-
-  virtual
-
-  borrow'
-bip_39_word_new_line_11: 'base
-
-  evoke
-
-  rabbit
-
-  begin
-
-  dune
-
-  merge
-
-  silly
-
-  thank
-
-  virtual
-
-  borrow
-
-  view'
 bip_39_word_new_line_12: 'base
 
   evoke
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'base
   evoke
 
   rabbit'
-bip_39_word_new_line_4: 'base
-
-  evoke
-
-  rabbit
-
-  begin'
-bip_39_word_new_line_5: 'base
-
-  evoke
-
-  rabbit
-
-  begin
-
-  dune'
-bip_39_word_new_line_6: 'base
-
-  evoke
-
-  rabbit
-
-  begin
-
-  dune
-
-  merge'
-bip_39_word_new_line_7: 'base
-
-  evoke
-
-  rabbit
-
-  begin
-
-  dune
-
-  merge
-
-  silly'
-bip_39_word_new_line_8: 'base
-
-  evoke
-
-  rabbit
-
-  begin
-
-  dune
-
-  merge
-
-  silly
-
-  thank'
-bip_39_word_new_line_9: 'base
-
-  evoke
-
-  rabbit
-
-  begin
-
-  dune
-
-  merge
-
-  silly
-
-  thank
-
-  virtual'
-bip_39_word_no_space_1: base
-bip_39_word_no_space_10: baseevokerabbitbegindunemergesillythankvirtualborrow
-bip_39_word_no_space_11: baseevokerabbitbegindunemergesillythankvirtualborrowview
 bip_39_word_no_space_12: baseevokerabbitbegindunemergesillythankvirtualborrowviewafford
 bip_39_word_no_space_2: baseevoke
 bip_39_word_no_space_3: baseevokerabbit
-bip_39_word_no_space_4: baseevokerabbitbegin
-bip_39_word_no_space_5: baseevokerabbitbegindune
-bip_39_word_no_space_6: baseevokerabbitbegindunemerge
-bip_39_word_no_space_7: baseevokerabbitbegindunemergesilly
-bip_39_word_no_space_8: baseevokerabbitbegindunemergesillythank
-bip_39_word_no_space_9: baseevokerabbitbegindunemergesillythankvirtual
-bip_39_word_space_0:
-- base
-- evoke
-- rabbit
-- begin
-- dune
-- merge
-- silly
-- thank
-- virtual
-- borrow
-- view
-- afford
-bip_39_word_space_1: base
-bip_39_word_space_10: base evoke rabbit begin dune merge silly thank virtual borrow
-bip_39_word_space_11: base evoke rabbit begin dune merge silly thank virtual borrow
-  view
 bip_39_word_space_12: base evoke rabbit begin dune merge silly thank virtual borrow
   view afford
 bip_39_word_space_2: base evoke
 bip_39_word_space_3: base evoke rabbit
-bip_39_word_space_4: base evoke rabbit begin
-bip_39_word_space_5: base evoke rabbit begin dune
-bip_39_word_space_6: base evoke rabbit begin dune merge
-bip_39_word_space_7: base evoke rabbit begin dune merge silly
-bip_39_word_space_8: base evoke rabbit begin dune merge silly thank
-bip_39_word_space_9: base evoke rabbit begin dune merge silly thank virtual
-bip_39_word_underscore_1: base
-bip_39_word_underscore_10: base_evoke_rabbit_begin_dune_merge_silly_thank_virtual_borrow
-bip_39_word_underscore_11: base_evoke_rabbit_begin_dune_merge_silly_thank_virtual_borrow_view
 bip_39_word_underscore_12: base_evoke_rabbit_begin_dune_merge_silly_thank_virtual_borrow_view_afford
 bip_39_word_underscore_2: base_evoke
 bip_39_word_underscore_3: base_evoke_rabbit
-bip_39_word_underscore_4: base_evoke_rabbit_begin
-bip_39_word_underscore_5: base_evoke_rabbit_begin_dune
-bip_39_word_underscore_6: base_evoke_rabbit_begin_dune_merge
-bip_39_word_underscore_7: base_evoke_rabbit_begin_dune_merge_silly
-bip_39_word_underscore_8: base_evoke_rabbit_begin_dune_merge_silly_thank
-bip_39_word_underscore_9: base_evoke_rabbit_begin_dune_merge_silly_thank_virtual
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

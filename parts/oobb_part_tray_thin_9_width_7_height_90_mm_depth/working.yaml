@@ -1,68 +1,9 @@
-bip_39_word_dash_1: crouch
-bip_39_word_dash_10: crouch-scissors-rude-candy-van-road-prosper-scout-struggle-embrace
-bip_39_word_dash_11: crouch-scissors-rude-candy-van-road-prosper-scout-struggle-embrace-pluck
 bip_39_word_dash_12: crouch-scissors-rude-candy-van-road-prosper-scout-struggle-embrace-pluck-any
 bip_39_word_dash_2: crouch-scissors
 bip_39_word_dash_3: crouch-scissors-rude
-bip_39_word_dash_4: crouch-scissors-rude-candy
-bip_39_word_dash_5: crouch-scissors-rude-candy-van
-bip_39_word_dash_6: crouch-scissors-rude-candy-van-road
-bip_39_word_dash_7: crouch-scissors-rude-candy-van-road-prosper
-bip_39_word_dash_8: crouch-scissors-rude-candy-van-road-prosper-scout
-bip_39_word_dash_9: crouch-scissors-rude-candy-van-road-prosper-scout-struggle
-bip_39_word_new_br_1: crouch
-bip_39_word_new_br_10: crouch<br>scissors<br>rude<br>candy<br>van<br>road<br>prosper<br>scout<br>struggle<br>embrace
-bip_39_word_new_br_11: crouch<br>scissors<br>rude<br>candy<br>van<br>road<br>prosper<br>scout<br>struggle<br>embrace<br>pluck
 bip_39_word_new_br_12: crouch<br>scissors<br>rude<br>candy<br>van<br>road<br>prosper<br>scout<br>struggle<br>embrace<br>pluck<br>any
 bip_39_word_new_br_2: crouch<br>scissors
 bip_39_word_new_br_3: crouch<br>scissors<br>rude
-bip_39_word_new_br_4: crouch<br>scissors<br>rude<br>candy
-bip_39_word_new_br_5: crouch<br>scissors<br>rude<br>candy<br>van
-bip_39_word_new_br_6: crouch<br>scissors<br>rude<br>candy<br>van<br>road
-bip_39_word_new_br_7: crouch<br>scissors<br>rude<br>candy<br>van<br>road<br>prosper
-bip_39_word_new_br_8: crouch<br>scissors<br>rude<br>candy<br>van<br>road<br>prosper<br>scout
-bip_39_word_new_br_9: crouch<br>scissors<br>rude<br>candy<br>van<br>road<br>prosper<br>scout<br>struggle
-bip_39_word_new_line_1: crouch
-bip_39_word_new_line_10: 'crouch
-
-  scissors
-
-  rude
-
-  candy
-
-  van
-
-  road
-
-  prosper
-
-  scout
-
-  struggle
-
-  embrace'
-bip_39_word_new_line_11: 'crouch
-
-  scissors
-
-  rude
-
-  candy
-
-  van
-
-  road
-
-  prosper
-
-  scout
-
-  struggle
-
-  embrace
-
-  pluck'
 bip_39_word_new_line_12: 'crouch
 
   scissors
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'crouch
   scissors
 
   rude'
-bip_39_word_new_line_4: 'crouch
-
-  scissors
-
-  rude
-
-  candy'
-bip_39_word_new_line_5: 'crouch
-
-  scissors
-
-  rude
-
-  candy
-
-  van'
-bip_39_word_new_line_6: 'crouch
-
-  scissors
-
-  rude
-
-  candy
-
-  van
-
-  road'
-bip_39_word_new_line_7: 'crouch
-
-  scissors
-
-  rude
-
-  candy
-
-  van
-
-  road
-
-  prosper'
-bip_39_word_new_line_8: 'crouch
-
-  scissors
-
-  rude
-
-  candy
-
-  van
-
-  road
-
-  prosper
-
-  scout'
-bip_39_word_new_line_9: 'crouch
-
-  scissors
-
-  rude
-
-  candy
-
-  van
-
-  road
-
-  prosper
-
-  scout
-
-  struggle'
-bip_39_word_no_space_1: crouch
-bip_39_word_no_space_10: crouchscissorsrudecandyvanroadprosperscoutstruggleembrace
-bip_39_word_no_space_11: crouchscissorsrudecandyvanroadprosperscoutstruggleembracepluck
 bip_39_word_no_space_12: crouchscissorsrudecandyvanroadprosperscoutstruggleembracepluckany
 bip_39_word_no_space_2: crouchscissors
 bip_39_word_no_space_3: crouchscissorsrude
-bip_39_word_no_space_4: crouchscissorsrudecandy
-bip_39_word_no_space_5: crouchscissorsrudecandyvan
-bip_39_word_no_space_6: crouchscissorsrudecandyvanroad
-bip_39_word_no_space_7: crouchscissorsrudecandyvanroadprosper
-bip_39_word_no_space_8: crouchscissorsrudecandyvanroadprosperscout
-bip_39_word_no_space_9: crouchscissorsrudecandyvanroadprosperscoutstruggle
-bip_39_word_space_0:
-- crouch
-- scissors
-- rude
-- candy
-- van
-- road
-- prosper
-- scout
-- struggle
-- embrace
-- pluck
-- any
-bip_39_word_space_1: crouch
-bip_39_word_space_10: crouch scissors rude candy van road prosper scout struggle embrace
-bip_39_word_space_11: crouch scissors rude candy van road prosper scout struggle embrace
-  pluck
 bip_39_word_space_12: crouch scissors rude candy van road prosper scout struggle embrace
   pluck any
 bip_39_word_space_2: crouch scissors
 bip_39_word_space_3: crouch scissors rude
-bip_39_word_space_4: crouch scissors rude candy
-bip_39_word_space_5: crouch scissors rude candy van
-bip_39_word_space_6: crouch scissors rude candy van road
-bip_39_word_space_7: crouch scissors rude candy van road prosper
-bip_39_word_space_8: crouch scissors rude candy van road prosper scout
-bip_39_word_space_9: crouch scissors rude candy van road prosper scout struggle
-bip_39_word_underscore_1: crouch
-bip_39_word_underscore_10: crouch_scissors_rude_candy_van_road_prosper_scout_struggle_embrace
-bip_39_word_underscore_11: crouch_scissors_rude_candy_van_road_prosper_scout_struggle_embrace_pluck
 bip_39_word_underscore_12: crouch_scissors_rude_candy_van_road_prosper_scout_struggle_embrace_pluck_any
 bip_39_word_underscore_2: crouch_scissors
 bip_39_word_underscore_3: crouch_scissors_rude
-bip_39_word_underscore_4: crouch_scissors_rude_candy
-bip_39_word_underscore_5: crouch_scissors_rude_candy_van
-bip_39_word_underscore_6: crouch_scissors_rude_candy_van_road
-bip_39_word_underscore_7: crouch_scissors_rude_candy_van_road_prosper
-bip_39_word_underscore_8: crouch_scissors_rude_candy_van_road_prosper_scout
-bip_39_word_underscore_9: crouch_scissors_rude_candy_van_road_prosper_scout_struggle
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

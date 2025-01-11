@@ -1,69 +1,10 @@
 bearing_name: '6812'
-bip_39_word_dash_1: client
-bip_39_word_dash_10: client-three-admit-whip-wait-security-typical-laugh-cruel-sight
-bip_39_word_dash_11: client-three-admit-whip-wait-security-typical-laugh-cruel-sight-icon
 bip_39_word_dash_12: client-three-admit-whip-wait-security-typical-laugh-cruel-sight-icon-agent
 bip_39_word_dash_2: client-three
 bip_39_word_dash_3: client-three-admit
-bip_39_word_dash_4: client-three-admit-whip
-bip_39_word_dash_5: client-three-admit-whip-wait
-bip_39_word_dash_6: client-three-admit-whip-wait-security
-bip_39_word_dash_7: client-three-admit-whip-wait-security-typical
-bip_39_word_dash_8: client-three-admit-whip-wait-security-typical-laugh
-bip_39_word_dash_9: client-three-admit-whip-wait-security-typical-laugh-cruel
-bip_39_word_new_br_1: client
-bip_39_word_new_br_10: client<br>three<br>admit<br>whip<br>wait<br>security<br>typical<br>laugh<br>cruel<br>sight
-bip_39_word_new_br_11: client<br>three<br>admit<br>whip<br>wait<br>security<br>typical<br>laugh<br>cruel<br>sight<br>icon
 bip_39_word_new_br_12: client<br>three<br>admit<br>whip<br>wait<br>security<br>typical<br>laugh<br>cruel<br>sight<br>icon<br>agent
 bip_39_word_new_br_2: client<br>three
 bip_39_word_new_br_3: client<br>three<br>admit
-bip_39_word_new_br_4: client<br>three<br>admit<br>whip
-bip_39_word_new_br_5: client<br>three<br>admit<br>whip<br>wait
-bip_39_word_new_br_6: client<br>three<br>admit<br>whip<br>wait<br>security
-bip_39_word_new_br_7: client<br>three<br>admit<br>whip<br>wait<br>security<br>typical
-bip_39_word_new_br_8: client<br>three<br>admit<br>whip<br>wait<br>security<br>typical<br>laugh
-bip_39_word_new_br_9: client<br>three<br>admit<br>whip<br>wait<br>security<br>typical<br>laugh<br>cruel
-bip_39_word_new_line_1: client
-bip_39_word_new_line_10: 'client
-
-  three
-
-  admit
-
-  whip
-
-  wait
-
-  security
-
-  typical
-
-  laugh
-
-  cruel
-
-  sight'
-bip_39_word_new_line_11: 'client
-
-  three
-
-  admit
-
-  whip
-
-  wait
-
-  security
-
-  typical
-
-  laugh
-
-  cruel
-
-  sight
-
-  icon'
 bip_39_word_new_line_12: 'client
 
   three
@@ -95,129 +36,16 @@ bip_39_word_new_line_3: 'client
   three
 
   admit'
-bip_39_word_new_line_4: 'client
-
-  three
-
-  admit
-
-  whip'
-bip_39_word_new_line_5: 'client
-
-  three
-
-  admit
-
-  whip
-
-  wait'
-bip_39_word_new_line_6: 'client
-
-  three
-
-  admit
-
-  whip
-
-  wait
-
-  security'
-bip_39_word_new_line_7: 'client
-
-  three
-
-  admit
-
-  whip
-
-  wait
-
-  security
-
-  typical'
-bip_39_word_new_line_8: 'client
-
-  three
-
-  admit
-
-  whip
-
-  wait
-
-  security
-
-  typical
-
-  laugh'
-bip_39_word_new_line_9: 'client
-
-  three
-
-  admit
-
-  whip
-
-  wait
-
-  security
-
-  typical
-
-  laugh
-
-  cruel'
-bip_39_word_no_space_1: client
-bip_39_word_no_space_10: clientthreeadmitwhipwaitsecuritytypicallaughcruelsight
-bip_39_word_no_space_11: clientthreeadmitwhipwaitsecuritytypicallaughcruelsighticon
 bip_39_word_no_space_12: clientthreeadmitwhipwaitsecuritytypicallaughcruelsighticonagent
 bip_39_word_no_space_2: clientthree
 bip_39_word_no_space_3: clientthreeadmit
-bip_39_word_no_space_4: clientthreeadmitwhip
-bip_39_word_no_space_5: clientthreeadmitwhipwait
-bip_39_word_no_space_6: clientthreeadmitwhipwaitsecurity
-bip_39_word_no_space_7: clientthreeadmitwhipwaitsecuritytypical
-bip_39_word_no_space_8: clientthreeadmitwhipwaitsecuritytypicallaugh
-bip_39_word_no_space_9: clientthreeadmitwhipwaitsecuritytypicallaughcruel
-bip_39_word_space_0:
-- client
-- three
-- admit
-- whip
-- wait
-- security
-- typical
-- laugh
-- cruel
-- sight
-- icon
-- agent
-bip_39_word_space_1: client
-bip_39_word_space_10: client three admit whip wait security typical laugh cruel sight
-bip_39_word_space_11: client three admit whip wait security typical laugh cruel sight
-  icon
 bip_39_word_space_12: client three admit whip wait security typical laugh cruel sight
   icon agent
 bip_39_word_space_2: client three
 bip_39_word_space_3: client three admit
-bip_39_word_space_4: client three admit whip
-bip_39_word_space_5: client three admit whip wait
-bip_39_word_space_6: client three admit whip wait security
-bip_39_word_space_7: client three admit whip wait security typical
-bip_39_word_space_8: client three admit whip wait security typical laugh
-bip_39_word_space_9: client three admit whip wait security typical laugh cruel
-bip_39_word_underscore_1: client
-bip_39_word_underscore_10: client_three_admit_whip_wait_security_typical_laugh_cruel_sight
-bip_39_word_underscore_11: client_three_admit_whip_wait_security_typical_laugh_cruel_sight_icon
 bip_39_word_underscore_12: client_three_admit_whip_wait_security_typical_laugh_cruel_sight_icon_agent
 bip_39_word_underscore_2: client_three
 bip_39_word_underscore_3: client_three_admit
-bip_39_word_underscore_4: client_three_admit_whip
-bip_39_word_underscore_5: client_three_admit_whip_wait
-bip_39_word_underscore_6: client_three_admit_whip_wait_security
-bip_39_word_underscore_7: client_three_admit_whip_wait_security_typical
-bip_39_word_underscore_8: client_three_admit_whip_wait_security_typical_laugh
-bip_39_word_underscore_9: client_three_admit_whip_wait_security_typical_laugh_cruel
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: pet
-bip_39_word_dash_10: pet-venture-glad-festival-lend-pistol-manage-arrive-end-aisle
-bip_39_word_dash_11: pet-venture-glad-festival-lend-pistol-manage-arrive-end-aisle-special
 bip_39_word_dash_12: pet-venture-glad-festival-lend-pistol-manage-arrive-end-aisle-special-argue
 bip_39_word_dash_2: pet-venture
 bip_39_word_dash_3: pet-venture-glad
-bip_39_word_dash_4: pet-venture-glad-festival
-bip_39_word_dash_5: pet-venture-glad-festival-lend
-bip_39_word_dash_6: pet-venture-glad-festival-lend-pistol
-bip_39_word_dash_7: pet-venture-glad-festival-lend-pistol-manage
-bip_39_word_dash_8: pet-venture-glad-festival-lend-pistol-manage-arrive
-bip_39_word_dash_9: pet-venture-glad-festival-lend-pistol-manage-arrive-end
-bip_39_word_new_br_1: pet
-bip_39_word_new_br_10: pet<br>venture<br>glad<br>festival<br>lend<br>pistol<br>manage<br>arrive<br>end<br>aisle
-bip_39_word_new_br_11: pet<br>venture<br>glad<br>festival<br>lend<br>pistol<br>manage<br>arrive<br>end<br>aisle<br>special
 bip_39_word_new_br_12: pet<br>venture<br>glad<br>festival<br>lend<br>pistol<br>manage<br>arrive<br>end<br>aisle<br>special<br>argue
 bip_39_word_new_br_2: pet<br>venture
 bip_39_word_new_br_3: pet<br>venture<br>glad
-bip_39_word_new_br_4: pet<br>venture<br>glad<br>festival
-bip_39_word_new_br_5: pet<br>venture<br>glad<br>festival<br>lend
-bip_39_word_new_br_6: pet<br>venture<br>glad<br>festival<br>lend<br>pistol
-bip_39_word_new_br_7: pet<br>venture<br>glad<br>festival<br>lend<br>pistol<br>manage
-bip_39_word_new_br_8: pet<br>venture<br>glad<br>festival<br>lend<br>pistol<br>manage<br>arrive
-bip_39_word_new_br_9: pet<br>venture<br>glad<br>festival<br>lend<br>pistol<br>manage<br>arrive<br>end
-bip_39_word_new_line_1: pet
-bip_39_word_new_line_10: 'pet
-
-  venture
-
-  glad
-
-  festival
-
-  lend
-
-  pistol
-
-  manage
-
-  arrive
-
-  end
-
-  aisle'
-bip_39_word_new_line_11: 'pet
-
-  venture
-
-  glad
-
-  festival
-
-  lend
-
-  pistol
-
-  manage
-
-  arrive
-
-  end
-
-  aisle
-
-  special'
 bip_39_word_new_line_12: 'pet
 
   venture
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'pet
   venture
 
   glad'
-bip_39_word_new_line_4: 'pet
-
-  venture
-
-  glad
-
-  festival'
-bip_39_word_new_line_5: 'pet
-
-  venture
-
-  glad
-
-  festival
-
-  lend'
-bip_39_word_new_line_6: 'pet
-
-  venture
-
-  glad
-
-  festival
-
-  lend
-
-  pistol'
-bip_39_word_new_line_7: 'pet
-
-  venture
-
-  glad
-
-  festival
-
-  lend
-
-  pistol
-
-  manage'
-bip_39_word_new_line_8: 'pet
-
-  venture
-
-  glad
-
-  festival
-
-  lend
-
-  pistol
-
-  manage
-
-  arrive'
-bip_39_word_new_line_9: 'pet
-
-  venture
-
-  glad
-
-  festival
-
-  lend
-
-  pistol
-
-  manage
-
-  arrive
-
-  end'
-bip_39_word_no_space_1: pet
-bip_39_word_no_space_10: petventuregladfestivallendpistolmanagearriveendaisle
-bip_39_word_no_space_11: petventuregladfestivallendpistolmanagearriveendaislespecial
 bip_39_word_no_space_12: petventuregladfestivallendpistolmanagearriveendaislespecialargue
 bip_39_word_no_space_2: petventure
 bip_39_word_no_space_3: petventureglad
-bip_39_word_no_space_4: petventuregladfestival
-bip_39_word_no_space_5: petventuregladfestivallend
-bip_39_word_no_space_6: petventuregladfestivallendpistol
-bip_39_word_no_space_7: petventuregladfestivallendpistolmanage
-bip_39_word_no_space_8: petventuregladfestivallendpistolmanagearrive
-bip_39_word_no_space_9: petventuregladfestivallendpistolmanagearriveend
-bip_39_word_space_0:
-- pet
-- venture
-- glad
-- festival
-- lend
-- pistol
-- manage
-- arrive
-- end
-- aisle
-- special
-- argue
-bip_39_word_space_1: pet
-bip_39_word_space_10: pet venture glad festival lend pistol manage arrive end aisle
-bip_39_word_space_11: pet venture glad festival lend pistol manage arrive end aisle
-  special
 bip_39_word_space_12: pet venture glad festival lend pistol manage arrive end aisle
   special argue
 bip_39_word_space_2: pet venture
 bip_39_word_space_3: pet venture glad
-bip_39_word_space_4: pet venture glad festival
-bip_39_word_space_5: pet venture glad festival lend
-bip_39_word_space_6: pet venture glad festival lend pistol
-bip_39_word_space_7: pet venture glad festival lend pistol manage
-bip_39_word_space_8: pet venture glad festival lend pistol manage arrive
-bip_39_word_space_9: pet venture glad festival lend pistol manage arrive end
-bip_39_word_underscore_1: pet
-bip_39_word_underscore_10: pet_venture_glad_festival_lend_pistol_manage_arrive_end_aisle
-bip_39_word_underscore_11: pet_venture_glad_festival_lend_pistol_manage_arrive_end_aisle_special
 bip_39_word_underscore_12: pet_venture_glad_festival_lend_pistol_manage_arrive_end_aisle_special_argue
 bip_39_word_underscore_2: pet_venture
 bip_39_word_underscore_3: pet_venture_glad
-bip_39_word_underscore_4: pet_venture_glad_festival
-bip_39_word_underscore_5: pet_venture_glad_festival_lend
-bip_39_word_underscore_6: pet_venture_glad_festival_lend_pistol
-bip_39_word_underscore_7: pet_venture_glad_festival_lend_pistol_manage
-bip_39_word_underscore_8: pet_venture_glad_festival_lend_pistol_manage_arrive
-bip_39_word_underscore_9: pet_venture_glad_festival_lend_pistol_manage_arrive_end
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

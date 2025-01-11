@@ -1,45 +1,9 @@
-bip_39_word_dash_1: tenant
-bip_39_word_dash_10: tenant-prefer-image-border-rain-park-top-parade-correct-fix
 bip_39_word_dash_11: tenant-prefer-image-border-rain-park-top-parade-correct-fix-vacant
 bip_39_word_dash_2: tenant-prefer
 bip_39_word_dash_3: tenant-prefer-image
-bip_39_word_dash_4: tenant-prefer-image-border
-bip_39_word_dash_5: tenant-prefer-image-border-rain
-bip_39_word_dash_6: tenant-prefer-image-border-rain-park
-bip_39_word_dash_7: tenant-prefer-image-border-rain-park-top
-bip_39_word_dash_8: tenant-prefer-image-border-rain-park-top-parade
-bip_39_word_dash_9: tenant-prefer-image-border-rain-park-top-parade-correct
-bip_39_word_new_br_1: tenant
-bip_39_word_new_br_10: tenant<br>prefer<br>image<br>border<br>rain<br>park<br>top<br>parade<br>correct<br>fix
 bip_39_word_new_br_11: tenant<br>prefer<br>image<br>border<br>rain<br>park<br>top<br>parade<br>correct<br>fix<br>vacant
 bip_39_word_new_br_2: tenant<br>prefer
 bip_39_word_new_br_3: tenant<br>prefer<br>image
-bip_39_word_new_br_4: tenant<br>prefer<br>image<br>border
-bip_39_word_new_br_5: tenant<br>prefer<br>image<br>border<br>rain
-bip_39_word_new_br_6: tenant<br>prefer<br>image<br>border<br>rain<br>park
-bip_39_word_new_br_7: tenant<br>prefer<br>image<br>border<br>rain<br>park<br>top
-bip_39_word_new_br_8: tenant<br>prefer<br>image<br>border<br>rain<br>park<br>top<br>parade
-bip_39_word_new_br_9: tenant<br>prefer<br>image<br>border<br>rain<br>park<br>top<br>parade<br>correct
-bip_39_word_new_line_1: tenant
-bip_39_word_new_line_10: 'tenant
-
-  prefer
-
-  image
-
-  border
-
-  rain
-
-  park
-
-  top
-
-  parade
-
-  correct
-
-  fix'
 bip_39_word_new_line_11: 'tenant
 
   prefer
@@ -69,124 +33,16 @@ bip_39_word_new_line_3: 'tenant
   prefer
 
   image'
-bip_39_word_new_line_4: 'tenant
-
-  prefer
-
-  image
-
-  border'
-bip_39_word_new_line_5: 'tenant
-
-  prefer
-
-  image
-
-  border
-
-  rain'
-bip_39_word_new_line_6: 'tenant
-
-  prefer
-
-  image
-
-  border
-
-  rain
-
-  park'
-bip_39_word_new_line_7: 'tenant
-
-  prefer
-
-  image
-
-  border
-
-  rain
-
-  park
-
-  top'
-bip_39_word_new_line_8: 'tenant
-
-  prefer
-
-  image
-
-  border
-
-  rain
-
-  park
-
-  top
-
-  parade'
-bip_39_word_new_line_9: 'tenant
-
-  prefer
-
-  image
-
-  border
-
-  rain
-
-  park
-
-  top
-
-  parade
-
-  correct'
-bip_39_word_no_space_1: tenant
-bip_39_word_no_space_10: tenantpreferimageborderrainparktopparadecorrectfix
 bip_39_word_no_space_11: tenantpreferimageborderrainparktopparadecorrectfixvacant
 bip_39_word_no_space_2: tenantprefer
 bip_39_word_no_space_3: tenantpreferimage
-bip_39_word_no_space_4: tenantpreferimageborder
-bip_39_word_no_space_5: tenantpreferimageborderrain
-bip_39_word_no_space_6: tenantpreferimageborderrainpark
-bip_39_word_no_space_7: tenantpreferimageborderrainparktop
-bip_39_word_no_space_8: tenantpreferimageborderrainparktopparade
-bip_39_word_no_space_9: tenantpreferimageborderrainparktopparadecorrect
-bip_39_word_space_0:
-- tenant
-- prefer
-- image
-- border
-- rain
-- park
-- top
-- parade
-- correct
-- fix
-- vacant
-bip_39_word_space_1: tenant
-bip_39_word_space_10: tenant prefer image border rain park top parade correct fix
 bip_39_word_space_11: tenant prefer image border rain park top parade correct fix
   vacant
 bip_39_word_space_2: tenant prefer
 bip_39_word_space_3: tenant prefer image
-bip_39_word_space_4: tenant prefer image border
-bip_39_word_space_5: tenant prefer image border rain
-bip_39_word_space_6: tenant prefer image border rain park
-bip_39_word_space_7: tenant prefer image border rain park top
-bip_39_word_space_8: tenant prefer image border rain park top parade
-bip_39_word_space_9: tenant prefer image border rain park top parade correct
-bip_39_word_underscore_1: tenant
-bip_39_word_underscore_10: tenant_prefer_image_border_rain_park_top_parade_correct_fix
 bip_39_word_underscore_11: tenant_prefer_image_border_rain_park_top_parade_correct_fix_vacant
 bip_39_word_underscore_2: tenant_prefer
 bip_39_word_underscore_3: tenant_prefer_image
-bip_39_word_underscore_4: tenant_prefer_image_border
-bip_39_word_underscore_5: tenant_prefer_image_border_rain
-bip_39_word_underscore_6: tenant_prefer_image_border_rain_park
-bip_39_word_underscore_7: tenant_prefer_image_border_rain_park_top
-bip_39_word_underscore_8: tenant_prefer_image_border_rain_park_top_parade
-bip_39_word_underscore_9: tenant_prefer_image_border_rain_park_top_parade_correct
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

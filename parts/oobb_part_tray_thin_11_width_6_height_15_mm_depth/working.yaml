@@ -1,68 +1,9 @@
-bip_39_word_dash_1: legend
-bip_39_word_dash_10: legend-glass-cruise-disorder-burst-segment-layer-gold-ignore-gossip
-bip_39_word_dash_11: legend-glass-cruise-disorder-burst-segment-layer-gold-ignore-gossip-repair
 bip_39_word_dash_12: legend-glass-cruise-disorder-burst-segment-layer-gold-ignore-gossip-repair-appear
 bip_39_word_dash_2: legend-glass
 bip_39_word_dash_3: legend-glass-cruise
-bip_39_word_dash_4: legend-glass-cruise-disorder
-bip_39_word_dash_5: legend-glass-cruise-disorder-burst
-bip_39_word_dash_6: legend-glass-cruise-disorder-burst-segment
-bip_39_word_dash_7: legend-glass-cruise-disorder-burst-segment-layer
-bip_39_word_dash_8: legend-glass-cruise-disorder-burst-segment-layer-gold
-bip_39_word_dash_9: legend-glass-cruise-disorder-burst-segment-layer-gold-ignore
-bip_39_word_new_br_1: legend
-bip_39_word_new_br_10: legend<br>glass<br>cruise<br>disorder<br>burst<br>segment<br>layer<br>gold<br>ignore<br>gossip
-bip_39_word_new_br_11: legend<br>glass<br>cruise<br>disorder<br>burst<br>segment<br>layer<br>gold<br>ignore<br>gossip<br>repair
 bip_39_word_new_br_12: legend<br>glass<br>cruise<br>disorder<br>burst<br>segment<br>layer<br>gold<br>ignore<br>gossip<br>repair<br>appear
 bip_39_word_new_br_2: legend<br>glass
 bip_39_word_new_br_3: legend<br>glass<br>cruise
-bip_39_word_new_br_4: legend<br>glass<br>cruise<br>disorder
-bip_39_word_new_br_5: legend<br>glass<br>cruise<br>disorder<br>burst
-bip_39_word_new_br_6: legend<br>glass<br>cruise<br>disorder<br>burst<br>segment
-bip_39_word_new_br_7: legend<br>glass<br>cruise<br>disorder<br>burst<br>segment<br>layer
-bip_39_word_new_br_8: legend<br>glass<br>cruise<br>disorder<br>burst<br>segment<br>layer<br>gold
-bip_39_word_new_br_9: legend<br>glass<br>cruise<br>disorder<br>burst<br>segment<br>layer<br>gold<br>ignore
-bip_39_word_new_line_1: legend
-bip_39_word_new_line_10: 'legend
-
-  glass
-
-  cruise
-
-  disorder
-
-  burst
-
-  segment
-
-  layer
-
-  gold
-
-  ignore
-
-  gossip'
-bip_39_word_new_line_11: 'legend
-
-  glass
-
-  cruise
-
-  disorder
-
-  burst
-
-  segment
-
-  layer
-
-  gold
-
-  ignore
-
-  gossip
-
-  repair'
 bip_39_word_new_line_12: 'legend
 
   glass
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'legend
   glass
 
   cruise'
-bip_39_word_new_line_4: 'legend
-
-  glass
-
-  cruise
-
-  disorder'
-bip_39_word_new_line_5: 'legend
-
-  glass
-
-  cruise
-
-  disorder
-
-  burst'
-bip_39_word_new_line_6: 'legend
-
-  glass
-
-  cruise
-
-  disorder
-
-  burst
-
-  segment'
-bip_39_word_new_line_7: 'legend
-
-  glass
-
-  cruise
-
-  disorder
-
-  burst
-
-  segment
-
-  layer'
-bip_39_word_new_line_8: 'legend
-
-  glass
-
-  cruise
-
-  disorder
-
-  burst
-
-  segment
-
-  layer
-
-  gold'
-bip_39_word_new_line_9: 'legend
-
-  glass
-
-  cruise
-
-  disorder
-
-  burst
-
-  segment
-
-  layer
-
-  gold
-
-  ignore'
-bip_39_word_no_space_1: legend
-bip_39_word_no_space_10: legendglasscruisedisorderburstsegmentlayergoldignoregossip
-bip_39_word_no_space_11: legendglasscruisedisorderburstsegmentlayergoldignoregossiprepair
 bip_39_word_no_space_12: legendglasscruisedisorderburstsegmentlayergoldignoregossiprepairappear
 bip_39_word_no_space_2: legendglass
 bip_39_word_no_space_3: legendglasscruise
-bip_39_word_no_space_4: legendglasscruisedisorder
-bip_39_word_no_space_5: legendglasscruisedisorderburst
-bip_39_word_no_space_6: legendglasscruisedisorderburstsegment
-bip_39_word_no_space_7: legendglasscruisedisorderburstsegmentlayer
-bip_39_word_no_space_8: legendglasscruisedisorderburstsegmentlayergold
-bip_39_word_no_space_9: legendglasscruisedisorderburstsegmentlayergoldignore
-bip_39_word_space_0:
-- legend
-- glass
-- cruise
-- disorder
-- burst
-- segment
-- layer
-- gold
-- ignore
-- gossip
-- repair
-- appear
-bip_39_word_space_1: legend
-bip_39_word_space_10: legend glass cruise disorder burst segment layer gold ignore
-  gossip
-bip_39_word_space_11: legend glass cruise disorder burst segment layer gold ignore
-  gossip repair
 bip_39_word_space_12: legend glass cruise disorder burst segment layer gold ignore
   gossip repair appear
 bip_39_word_space_2: legend glass
 bip_39_word_space_3: legend glass cruise
-bip_39_word_space_4: legend glass cruise disorder
-bip_39_word_space_5: legend glass cruise disorder burst
-bip_39_word_space_6: legend glass cruise disorder burst segment
-bip_39_word_space_7: legend glass cruise disorder burst segment layer
-bip_39_word_space_8: legend glass cruise disorder burst segment layer gold
-bip_39_word_space_9: legend glass cruise disorder burst segment layer gold ignore
-bip_39_word_underscore_1: legend
-bip_39_word_underscore_10: legend_glass_cruise_disorder_burst_segment_layer_gold_ignore_gossip
-bip_39_word_underscore_11: legend_glass_cruise_disorder_burst_segment_layer_gold_ignore_gossip_repair
 bip_39_word_underscore_12: legend_glass_cruise_disorder_burst_segment_layer_gold_ignore_gossip_repair_appear
 bip_39_word_underscore_2: legend_glass
 bip_39_word_underscore_3: legend_glass_cruise
-bip_39_word_underscore_4: legend_glass_cruise_disorder
-bip_39_word_underscore_5: legend_glass_cruise_disorder_burst
-bip_39_word_underscore_6: legend_glass_cruise_disorder_burst_segment
-bip_39_word_underscore_7: legend_glass_cruise_disorder_burst_segment_layer
-bip_39_word_underscore_8: legend_glass_cruise_disorder_burst_segment_layer_gold
-bip_39_word_underscore_9: legend_glass_cruise_disorder_burst_segment_layer_gold_ignore
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

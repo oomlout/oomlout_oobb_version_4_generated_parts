@@ -1,68 +1,9 @@
-bip_39_word_dash_1: hold
-bip_39_word_dash_10: hold-front-unfair-monitor-giraffe-marine-relief-mechanic-rifle-angry
-bip_39_word_dash_11: hold-front-unfair-monitor-giraffe-marine-relief-mechanic-rifle-angry-narrow
 bip_39_word_dash_12: hold-front-unfair-monitor-giraffe-marine-relief-mechanic-rifle-angry-narrow-around
 bip_39_word_dash_2: hold-front
 bip_39_word_dash_3: hold-front-unfair
-bip_39_word_dash_4: hold-front-unfair-monitor
-bip_39_word_dash_5: hold-front-unfair-monitor-giraffe
-bip_39_word_dash_6: hold-front-unfair-monitor-giraffe-marine
-bip_39_word_dash_7: hold-front-unfair-monitor-giraffe-marine-relief
-bip_39_word_dash_8: hold-front-unfair-monitor-giraffe-marine-relief-mechanic
-bip_39_word_dash_9: hold-front-unfair-monitor-giraffe-marine-relief-mechanic-rifle
-bip_39_word_new_br_1: hold
-bip_39_word_new_br_10: hold<br>front<br>unfair<br>monitor<br>giraffe<br>marine<br>relief<br>mechanic<br>rifle<br>angry
-bip_39_word_new_br_11: hold<br>front<br>unfair<br>monitor<br>giraffe<br>marine<br>relief<br>mechanic<br>rifle<br>angry<br>narrow
 bip_39_word_new_br_12: hold<br>front<br>unfair<br>monitor<br>giraffe<br>marine<br>relief<br>mechanic<br>rifle<br>angry<br>narrow<br>around
 bip_39_word_new_br_2: hold<br>front
 bip_39_word_new_br_3: hold<br>front<br>unfair
-bip_39_word_new_br_4: hold<br>front<br>unfair<br>monitor
-bip_39_word_new_br_5: hold<br>front<br>unfair<br>monitor<br>giraffe
-bip_39_word_new_br_6: hold<br>front<br>unfair<br>monitor<br>giraffe<br>marine
-bip_39_word_new_br_7: hold<br>front<br>unfair<br>monitor<br>giraffe<br>marine<br>relief
-bip_39_word_new_br_8: hold<br>front<br>unfair<br>monitor<br>giraffe<br>marine<br>relief<br>mechanic
-bip_39_word_new_br_9: hold<br>front<br>unfair<br>monitor<br>giraffe<br>marine<br>relief<br>mechanic<br>rifle
-bip_39_word_new_line_1: hold
-bip_39_word_new_line_10: 'hold
-
-  front
-
-  unfair
-
-  monitor
-
-  giraffe
-
-  marine
-
-  relief
-
-  mechanic
-
-  rifle
-
-  angry'
-bip_39_word_new_line_11: 'hold
-
-  front
-
-  unfair
-
-  monitor
-
-  giraffe
-
-  marine
-
-  relief
-
-  mechanic
-
-  rifle
-
-  angry
-
-  narrow'
 bip_39_word_new_line_12: 'hold
 
   front
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'hold
   front
 
   unfair'
-bip_39_word_new_line_4: 'hold
-
-  front
-
-  unfair
-
-  monitor'
-bip_39_word_new_line_5: 'hold
-
-  front
-
-  unfair
-
-  monitor
-
-  giraffe'
-bip_39_word_new_line_6: 'hold
-
-  front
-
-  unfair
-
-  monitor
-
-  giraffe
-
-  marine'
-bip_39_word_new_line_7: 'hold
-
-  front
-
-  unfair
-
-  monitor
-
-  giraffe
-
-  marine
-
-  relief'
-bip_39_word_new_line_8: 'hold
-
-  front
-
-  unfair
-
-  monitor
-
-  giraffe
-
-  marine
-
-  relief
-
-  mechanic'
-bip_39_word_new_line_9: 'hold
-
-  front
-
-  unfair
-
-  monitor
-
-  giraffe
-
-  marine
-
-  relief
-
-  mechanic
-
-  rifle'
-bip_39_word_no_space_1: hold
-bip_39_word_no_space_10: holdfrontunfairmonitorgiraffemarinereliefmechanicrifleangry
-bip_39_word_no_space_11: holdfrontunfairmonitorgiraffemarinereliefmechanicrifleangrynarrow
 bip_39_word_no_space_12: holdfrontunfairmonitorgiraffemarinereliefmechanicrifleangrynarrowaround
 bip_39_word_no_space_2: holdfront
 bip_39_word_no_space_3: holdfrontunfair
-bip_39_word_no_space_4: holdfrontunfairmonitor
-bip_39_word_no_space_5: holdfrontunfairmonitorgiraffe
-bip_39_word_no_space_6: holdfrontunfairmonitorgiraffemarine
-bip_39_word_no_space_7: holdfrontunfairmonitorgiraffemarinerelief
-bip_39_word_no_space_8: holdfrontunfairmonitorgiraffemarinereliefmechanic
-bip_39_word_no_space_9: holdfrontunfairmonitorgiraffemarinereliefmechanicrifle
-bip_39_word_space_0:
-- hold
-- front
-- unfair
-- monitor
-- giraffe
-- marine
-- relief
-- mechanic
-- rifle
-- angry
-- narrow
-- around
-bip_39_word_space_1: hold
-bip_39_word_space_10: hold front unfair monitor giraffe marine relief mechanic rifle
-  angry
-bip_39_word_space_11: hold front unfair monitor giraffe marine relief mechanic rifle
-  angry narrow
 bip_39_word_space_12: hold front unfair monitor giraffe marine relief mechanic rifle
   angry narrow around
 bip_39_word_space_2: hold front
 bip_39_word_space_3: hold front unfair
-bip_39_word_space_4: hold front unfair monitor
-bip_39_word_space_5: hold front unfair monitor giraffe
-bip_39_word_space_6: hold front unfair monitor giraffe marine
-bip_39_word_space_7: hold front unfair monitor giraffe marine relief
-bip_39_word_space_8: hold front unfair monitor giraffe marine relief mechanic
-bip_39_word_space_9: hold front unfair monitor giraffe marine relief mechanic rifle
-bip_39_word_underscore_1: hold
-bip_39_word_underscore_10: hold_front_unfair_monitor_giraffe_marine_relief_mechanic_rifle_angry
-bip_39_word_underscore_11: hold_front_unfair_monitor_giraffe_marine_relief_mechanic_rifle_angry_narrow
 bip_39_word_underscore_12: hold_front_unfair_monitor_giraffe_marine_relief_mechanic_rifle_angry_narrow_around
 bip_39_word_underscore_2: hold_front
 bip_39_word_underscore_3: hold_front_unfair
-bip_39_word_underscore_4: hold_front_unfair_monitor
-bip_39_word_underscore_5: hold_front_unfair_monitor_giraffe
-bip_39_word_underscore_6: hold_front_unfair_monitor_giraffe_marine
-bip_39_word_underscore_7: hold_front_unfair_monitor_giraffe_marine_relief
-bip_39_word_underscore_8: hold_front_unfair_monitor_giraffe_marine_relief_mechanic
-bip_39_word_underscore_9: hold_front_unfair_monitor_giraffe_marine_relief_mechanic_rifle
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

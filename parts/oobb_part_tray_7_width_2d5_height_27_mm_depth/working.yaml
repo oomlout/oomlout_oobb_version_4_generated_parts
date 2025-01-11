@@ -1,68 +1,9 @@
-bip_39_word_dash_1: episode
-bip_39_word_dash_10: episode-occur-explain-bronze-quantum-surprise-blast-ignore-recipe-actor
-bip_39_word_dash_11: episode-occur-explain-bronze-quantum-surprise-blast-ignore-recipe-actor-light
 bip_39_word_dash_12: episode-occur-explain-bronze-quantum-surprise-blast-ignore-recipe-actor-light-auction
 bip_39_word_dash_2: episode-occur
 bip_39_word_dash_3: episode-occur-explain
-bip_39_word_dash_4: episode-occur-explain-bronze
-bip_39_word_dash_5: episode-occur-explain-bronze-quantum
-bip_39_word_dash_6: episode-occur-explain-bronze-quantum-surprise
-bip_39_word_dash_7: episode-occur-explain-bronze-quantum-surprise-blast
-bip_39_word_dash_8: episode-occur-explain-bronze-quantum-surprise-blast-ignore
-bip_39_word_dash_9: episode-occur-explain-bronze-quantum-surprise-blast-ignore-recipe
-bip_39_word_new_br_1: episode
-bip_39_word_new_br_10: episode<br>occur<br>explain<br>bronze<br>quantum<br>surprise<br>blast<br>ignore<br>recipe<br>actor
-bip_39_word_new_br_11: episode<br>occur<br>explain<br>bronze<br>quantum<br>surprise<br>blast<br>ignore<br>recipe<br>actor<br>light
 bip_39_word_new_br_12: episode<br>occur<br>explain<br>bronze<br>quantum<br>surprise<br>blast<br>ignore<br>recipe<br>actor<br>light<br>auction
 bip_39_word_new_br_2: episode<br>occur
 bip_39_word_new_br_3: episode<br>occur<br>explain
-bip_39_word_new_br_4: episode<br>occur<br>explain<br>bronze
-bip_39_word_new_br_5: episode<br>occur<br>explain<br>bronze<br>quantum
-bip_39_word_new_br_6: episode<br>occur<br>explain<br>bronze<br>quantum<br>surprise
-bip_39_word_new_br_7: episode<br>occur<br>explain<br>bronze<br>quantum<br>surprise<br>blast
-bip_39_word_new_br_8: episode<br>occur<br>explain<br>bronze<br>quantum<br>surprise<br>blast<br>ignore
-bip_39_word_new_br_9: episode<br>occur<br>explain<br>bronze<br>quantum<br>surprise<br>blast<br>ignore<br>recipe
-bip_39_word_new_line_1: episode
-bip_39_word_new_line_10: 'episode
-
-  occur
-
-  explain
-
-  bronze
-
-  quantum
-
-  surprise
-
-  blast
-
-  ignore
-
-  recipe
-
-  actor'
-bip_39_word_new_line_11: 'episode
-
-  occur
-
-  explain
-
-  bronze
-
-  quantum
-
-  surprise
-
-  blast
-
-  ignore
-
-  recipe
-
-  actor
-
-  light'
 bip_39_word_new_line_12: 'episode
 
   occur
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'episode
   occur
 
   explain'
-bip_39_word_new_line_4: 'episode
-
-  occur
-
-  explain
-
-  bronze'
-bip_39_word_new_line_5: 'episode
-
-  occur
-
-  explain
-
-  bronze
-
-  quantum'
-bip_39_word_new_line_6: 'episode
-
-  occur
-
-  explain
-
-  bronze
-
-  quantum
-
-  surprise'
-bip_39_word_new_line_7: 'episode
-
-  occur
-
-  explain
-
-  bronze
-
-  quantum
-
-  surprise
-
-  blast'
-bip_39_word_new_line_8: 'episode
-
-  occur
-
-  explain
-
-  bronze
-
-  quantum
-
-  surprise
-
-  blast
-
-  ignore'
-bip_39_word_new_line_9: 'episode
-
-  occur
-
-  explain
-
-  bronze
-
-  quantum
-
-  surprise
-
-  blast
-
-  ignore
-
-  recipe'
-bip_39_word_no_space_1: episode
-bip_39_word_no_space_10: episodeoccurexplainbronzequantumsurpriseblastignorerecipeactor
-bip_39_word_no_space_11: episodeoccurexplainbronzequantumsurpriseblastignorerecipeactorlight
 bip_39_word_no_space_12: episodeoccurexplainbronzequantumsurpriseblastignorerecipeactorlightauction
 bip_39_word_no_space_2: episodeoccur
 bip_39_word_no_space_3: episodeoccurexplain
-bip_39_word_no_space_4: episodeoccurexplainbronze
-bip_39_word_no_space_5: episodeoccurexplainbronzequantum
-bip_39_word_no_space_6: episodeoccurexplainbronzequantumsurprise
-bip_39_word_no_space_7: episodeoccurexplainbronzequantumsurpriseblast
-bip_39_word_no_space_8: episodeoccurexplainbronzequantumsurpriseblastignore
-bip_39_word_no_space_9: episodeoccurexplainbronzequantumsurpriseblastignorerecipe
-bip_39_word_space_0:
-- episode
-- occur
-- explain
-- bronze
-- quantum
-- surprise
-- blast
-- ignore
-- recipe
-- actor
-- light
-- auction
-bip_39_word_space_1: episode
-bip_39_word_space_10: episode occur explain bronze quantum surprise blast ignore recipe
-  actor
-bip_39_word_space_11: episode occur explain bronze quantum surprise blast ignore recipe
-  actor light
 bip_39_word_space_12: episode occur explain bronze quantum surprise blast ignore recipe
   actor light auction
 bip_39_word_space_2: episode occur
 bip_39_word_space_3: episode occur explain
-bip_39_word_space_4: episode occur explain bronze
-bip_39_word_space_5: episode occur explain bronze quantum
-bip_39_word_space_6: episode occur explain bronze quantum surprise
-bip_39_word_space_7: episode occur explain bronze quantum surprise blast
-bip_39_word_space_8: episode occur explain bronze quantum surprise blast ignore
-bip_39_word_space_9: episode occur explain bronze quantum surprise blast ignore recipe
-bip_39_word_underscore_1: episode
-bip_39_word_underscore_10: episode_occur_explain_bronze_quantum_surprise_blast_ignore_recipe_actor
-bip_39_word_underscore_11: episode_occur_explain_bronze_quantum_surprise_blast_ignore_recipe_actor_light
 bip_39_word_underscore_12: episode_occur_explain_bronze_quantum_surprise_blast_ignore_recipe_actor_light_auction
 bip_39_word_underscore_2: episode_occur
 bip_39_word_underscore_3: episode_occur_explain
-bip_39_word_underscore_4: episode_occur_explain_bronze
-bip_39_word_underscore_5: episode_occur_explain_bronze_quantum
-bip_39_word_underscore_6: episode_occur_explain_bronze_quantum_surprise
-bip_39_word_underscore_7: episode_occur_explain_bronze_quantum_surprise_blast
-bip_39_word_underscore_8: episode_occur_explain_bronze_quantum_surprise_blast_ignore
-bip_39_word_underscore_9: episode_occur_explain_bronze_quantum_surprise_blast_ignore_recipe
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: empty
-bip_39_word_dash_10: empty-mango-output-cradle-usage-blind-visit-invite-lava-true
-bip_39_word_dash_11: empty-mango-output-cradle-usage-blind-visit-invite-lava-true-curve
 bip_39_word_dash_12: empty-mango-output-cradle-usage-blind-visit-invite-lava-true-curve-afford
 bip_39_word_dash_2: empty-mango
 bip_39_word_dash_3: empty-mango-output
-bip_39_word_dash_4: empty-mango-output-cradle
-bip_39_word_dash_5: empty-mango-output-cradle-usage
-bip_39_word_dash_6: empty-mango-output-cradle-usage-blind
-bip_39_word_dash_7: empty-mango-output-cradle-usage-blind-visit
-bip_39_word_dash_8: empty-mango-output-cradle-usage-blind-visit-invite
-bip_39_word_dash_9: empty-mango-output-cradle-usage-blind-visit-invite-lava
-bip_39_word_new_br_1: empty
-bip_39_word_new_br_10: empty<br>mango<br>output<br>cradle<br>usage<br>blind<br>visit<br>invite<br>lava<br>true
-bip_39_word_new_br_11: empty<br>mango<br>output<br>cradle<br>usage<br>blind<br>visit<br>invite<br>lava<br>true<br>curve
 bip_39_word_new_br_12: empty<br>mango<br>output<br>cradle<br>usage<br>blind<br>visit<br>invite<br>lava<br>true<br>curve<br>afford
 bip_39_word_new_br_2: empty<br>mango
 bip_39_word_new_br_3: empty<br>mango<br>output
-bip_39_word_new_br_4: empty<br>mango<br>output<br>cradle
-bip_39_word_new_br_5: empty<br>mango<br>output<br>cradle<br>usage
-bip_39_word_new_br_6: empty<br>mango<br>output<br>cradle<br>usage<br>blind
-bip_39_word_new_br_7: empty<br>mango<br>output<br>cradle<br>usage<br>blind<br>visit
-bip_39_word_new_br_8: empty<br>mango<br>output<br>cradle<br>usage<br>blind<br>visit<br>invite
-bip_39_word_new_br_9: empty<br>mango<br>output<br>cradle<br>usage<br>blind<br>visit<br>invite<br>lava
-bip_39_word_new_line_1: empty
-bip_39_word_new_line_10: 'empty
-
-  mango
-
-  output
-
-  cradle
-
-  usage
-
-  blind
-
-  visit
-
-  invite
-
-  lava
-
-  true'
-bip_39_word_new_line_11: 'empty
-
-  mango
-
-  output
-
-  cradle
-
-  usage
-
-  blind
-
-  visit
-
-  invite
-
-  lava
-
-  true
-
-  curve'
 bip_39_word_new_line_12: 'empty
 
   mango
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'empty
   mango
 
   output'
-bip_39_word_new_line_4: 'empty
-
-  mango
-
-  output
-
-  cradle'
-bip_39_word_new_line_5: 'empty
-
-  mango
-
-  output
-
-  cradle
-
-  usage'
-bip_39_word_new_line_6: 'empty
-
-  mango
-
-  output
-
-  cradle
-
-  usage
-
-  blind'
-bip_39_word_new_line_7: 'empty
-
-  mango
-
-  output
-
-  cradle
-
-  usage
-
-  blind
-
-  visit'
-bip_39_word_new_line_8: 'empty
-
-  mango
-
-  output
-
-  cradle
-
-  usage
-
-  blind
-
-  visit
-
-  invite'
-bip_39_word_new_line_9: 'empty
-
-  mango
-
-  output
-
-  cradle
-
-  usage
-
-  blind
-
-  visit
-
-  invite
-
-  lava'
-bip_39_word_no_space_1: empty
-bip_39_word_no_space_10: emptymangooutputcradleusageblindvisitinvitelavatrue
-bip_39_word_no_space_11: emptymangooutputcradleusageblindvisitinvitelavatruecurve
 bip_39_word_no_space_12: emptymangooutputcradleusageblindvisitinvitelavatruecurveafford
 bip_39_word_no_space_2: emptymango
 bip_39_word_no_space_3: emptymangooutput
-bip_39_word_no_space_4: emptymangooutputcradle
-bip_39_word_no_space_5: emptymangooutputcradleusage
-bip_39_word_no_space_6: emptymangooutputcradleusageblind
-bip_39_word_no_space_7: emptymangooutputcradleusageblindvisit
-bip_39_word_no_space_8: emptymangooutputcradleusageblindvisitinvite
-bip_39_word_no_space_9: emptymangooutputcradleusageblindvisitinvitelava
-bip_39_word_space_0:
-- empty
-- mango
-- output
-- cradle
-- usage
-- blind
-- visit
-- invite
-- lava
-- 'true'
-- curve
-- afford
-bip_39_word_space_1: empty
-bip_39_word_space_10: empty mango output cradle usage blind visit invite lava true
-bip_39_word_space_11: empty mango output cradle usage blind visit invite lava true
-  curve
 bip_39_word_space_12: empty mango output cradle usage blind visit invite lava true
   curve afford
 bip_39_word_space_2: empty mango
 bip_39_word_space_3: empty mango output
-bip_39_word_space_4: empty mango output cradle
-bip_39_word_space_5: empty mango output cradle usage
-bip_39_word_space_6: empty mango output cradle usage blind
-bip_39_word_space_7: empty mango output cradle usage blind visit
-bip_39_word_space_8: empty mango output cradle usage blind visit invite
-bip_39_word_space_9: empty mango output cradle usage blind visit invite lava
-bip_39_word_underscore_1: empty
-bip_39_word_underscore_10: empty_mango_output_cradle_usage_blind_visit_invite_lava_true
-bip_39_word_underscore_11: empty_mango_output_cradle_usage_blind_visit_invite_lava_true_curve
 bip_39_word_underscore_12: empty_mango_output_cradle_usage_blind_visit_invite_lava_true_curve_afford
 bip_39_word_underscore_2: empty_mango
 bip_39_word_underscore_3: empty_mango_output
-bip_39_word_underscore_4: empty_mango_output_cradle
-bip_39_word_underscore_5: empty_mango_output_cradle_usage
-bip_39_word_underscore_6: empty_mango_output_cradle_usage_blind
-bip_39_word_underscore_7: empty_mango_output_cradle_usage_blind_visit
-bip_39_word_underscore_8: empty_mango_output_cradle_usage_blind_visit_invite
-bip_39_word_underscore_9: empty_mango_output_cradle_usage_blind_visit_invite_lava
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

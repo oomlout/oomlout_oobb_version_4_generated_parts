@@ -1,68 +1,9 @@
-bip_39_word_dash_1: ensure
-bip_39_word_dash_10: ensure-advance-boss-hope-roof-leave-atom-dash-sing-pilot
-bip_39_word_dash_11: ensure-advance-boss-hope-roof-leave-atom-dash-sing-pilot-amazing
 bip_39_word_dash_12: ensure-advance-boss-hope-roof-leave-atom-dash-sing-pilot-amazing-act
 bip_39_word_dash_2: ensure-advance
 bip_39_word_dash_3: ensure-advance-boss
-bip_39_word_dash_4: ensure-advance-boss-hope
-bip_39_word_dash_5: ensure-advance-boss-hope-roof
-bip_39_word_dash_6: ensure-advance-boss-hope-roof-leave
-bip_39_word_dash_7: ensure-advance-boss-hope-roof-leave-atom
-bip_39_word_dash_8: ensure-advance-boss-hope-roof-leave-atom-dash
-bip_39_word_dash_9: ensure-advance-boss-hope-roof-leave-atom-dash-sing
-bip_39_word_new_br_1: ensure
-bip_39_word_new_br_10: ensure<br>advance<br>boss<br>hope<br>roof<br>leave<br>atom<br>dash<br>sing<br>pilot
-bip_39_word_new_br_11: ensure<br>advance<br>boss<br>hope<br>roof<br>leave<br>atom<br>dash<br>sing<br>pilot<br>amazing
 bip_39_word_new_br_12: ensure<br>advance<br>boss<br>hope<br>roof<br>leave<br>atom<br>dash<br>sing<br>pilot<br>amazing<br>act
 bip_39_word_new_br_2: ensure<br>advance
 bip_39_word_new_br_3: ensure<br>advance<br>boss
-bip_39_word_new_br_4: ensure<br>advance<br>boss<br>hope
-bip_39_word_new_br_5: ensure<br>advance<br>boss<br>hope<br>roof
-bip_39_word_new_br_6: ensure<br>advance<br>boss<br>hope<br>roof<br>leave
-bip_39_word_new_br_7: ensure<br>advance<br>boss<br>hope<br>roof<br>leave<br>atom
-bip_39_word_new_br_8: ensure<br>advance<br>boss<br>hope<br>roof<br>leave<br>atom<br>dash
-bip_39_word_new_br_9: ensure<br>advance<br>boss<br>hope<br>roof<br>leave<br>atom<br>dash<br>sing
-bip_39_word_new_line_1: ensure
-bip_39_word_new_line_10: 'ensure
-
-  advance
-
-  boss
-
-  hope
-
-  roof
-
-  leave
-
-  atom
-
-  dash
-
-  sing
-
-  pilot'
-bip_39_word_new_line_11: 'ensure
-
-  advance
-
-  boss
-
-  hope
-
-  roof
-
-  leave
-
-  atom
-
-  dash
-
-  sing
-
-  pilot
-
-  amazing'
 bip_39_word_new_line_12: 'ensure
 
   advance
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'ensure
   advance
 
   boss'
-bip_39_word_new_line_4: 'ensure
-
-  advance
-
-  boss
-
-  hope'
-bip_39_word_new_line_5: 'ensure
-
-  advance
-
-  boss
-
-  hope
-
-  roof'
-bip_39_word_new_line_6: 'ensure
-
-  advance
-
-  boss
-
-  hope
-
-  roof
-
-  leave'
-bip_39_word_new_line_7: 'ensure
-
-  advance
-
-  boss
-
-  hope
-
-  roof
-
-  leave
-
-  atom'
-bip_39_word_new_line_8: 'ensure
-
-  advance
-
-  boss
-
-  hope
-
-  roof
-
-  leave
-
-  atom
-
-  dash'
-bip_39_word_new_line_9: 'ensure
-
-  advance
-
-  boss
-
-  hope
-
-  roof
-
-  leave
-
-  atom
-
-  dash
-
-  sing'
-bip_39_word_no_space_1: ensure
-bip_39_word_no_space_10: ensureadvancebosshoperoofleaveatomdashsingpilot
-bip_39_word_no_space_11: ensureadvancebosshoperoofleaveatomdashsingpilotamazing
 bip_39_word_no_space_12: ensureadvancebosshoperoofleaveatomdashsingpilotamazingact
 bip_39_word_no_space_2: ensureadvance
 bip_39_word_no_space_3: ensureadvanceboss
-bip_39_word_no_space_4: ensureadvancebosshope
-bip_39_word_no_space_5: ensureadvancebosshoperoof
-bip_39_word_no_space_6: ensureadvancebosshoperoofleave
-bip_39_word_no_space_7: ensureadvancebosshoperoofleaveatom
-bip_39_word_no_space_8: ensureadvancebosshoperoofleaveatomdash
-bip_39_word_no_space_9: ensureadvancebosshoperoofleaveatomdashsing
-bip_39_word_space_0:
-- ensure
-- advance
-- boss
-- hope
-- roof
-- leave
-- atom
-- dash
-- sing
-- pilot
-- amazing
-- act
-bip_39_word_space_1: ensure
-bip_39_word_space_10: ensure advance boss hope roof leave atom dash sing pilot
-bip_39_word_space_11: ensure advance boss hope roof leave atom dash sing pilot amazing
 bip_39_word_space_12: ensure advance boss hope roof leave atom dash sing pilot amazing
   act
 bip_39_word_space_2: ensure advance
 bip_39_word_space_3: ensure advance boss
-bip_39_word_space_4: ensure advance boss hope
-bip_39_word_space_5: ensure advance boss hope roof
-bip_39_word_space_6: ensure advance boss hope roof leave
-bip_39_word_space_7: ensure advance boss hope roof leave atom
-bip_39_word_space_8: ensure advance boss hope roof leave atom dash
-bip_39_word_space_9: ensure advance boss hope roof leave atom dash sing
-bip_39_word_underscore_1: ensure
-bip_39_word_underscore_10: ensure_advance_boss_hope_roof_leave_atom_dash_sing_pilot
-bip_39_word_underscore_11: ensure_advance_boss_hope_roof_leave_atom_dash_sing_pilot_amazing
 bip_39_word_underscore_12: ensure_advance_boss_hope_roof_leave_atom_dash_sing_pilot_amazing_act
 bip_39_word_underscore_2: ensure_advance
 bip_39_word_underscore_3: ensure_advance_boss
-bip_39_word_underscore_4: ensure_advance_boss_hope
-bip_39_word_underscore_5: ensure_advance_boss_hope_roof
-bip_39_word_underscore_6: ensure_advance_boss_hope_roof_leave
-bip_39_word_underscore_7: ensure_advance_boss_hope_roof_leave_atom
-bip_39_word_underscore_8: ensure_advance_boss_hope_roof_leave_atom_dash
-bip_39_word_underscore_9: ensure_advance_boss_hope_roof_leave_atom_dash_sing
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

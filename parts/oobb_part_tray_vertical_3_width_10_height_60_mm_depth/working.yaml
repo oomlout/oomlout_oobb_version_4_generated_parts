@@ -1,68 +1,9 @@
-bip_39_word_dash_1: alarm
-bip_39_word_dash_10: alarm-accuse-brisk-mother-prison-simple-puppy-mix-spoil-second
-bip_39_word_dash_11: alarm-accuse-brisk-mother-prison-simple-puppy-mix-spoil-second-mouse
 bip_39_word_dash_12: alarm-accuse-brisk-mother-prison-simple-puppy-mix-spoil-second-mouse-amateur
 bip_39_word_dash_2: alarm-accuse
 bip_39_word_dash_3: alarm-accuse-brisk
-bip_39_word_dash_4: alarm-accuse-brisk-mother
-bip_39_word_dash_5: alarm-accuse-brisk-mother-prison
-bip_39_word_dash_6: alarm-accuse-brisk-mother-prison-simple
-bip_39_word_dash_7: alarm-accuse-brisk-mother-prison-simple-puppy
-bip_39_word_dash_8: alarm-accuse-brisk-mother-prison-simple-puppy-mix
-bip_39_word_dash_9: alarm-accuse-brisk-mother-prison-simple-puppy-mix-spoil
-bip_39_word_new_br_1: alarm
-bip_39_word_new_br_10: alarm<br>accuse<br>brisk<br>mother<br>prison<br>simple<br>puppy<br>mix<br>spoil<br>second
-bip_39_word_new_br_11: alarm<br>accuse<br>brisk<br>mother<br>prison<br>simple<br>puppy<br>mix<br>spoil<br>second<br>mouse
 bip_39_word_new_br_12: alarm<br>accuse<br>brisk<br>mother<br>prison<br>simple<br>puppy<br>mix<br>spoil<br>second<br>mouse<br>amateur
 bip_39_word_new_br_2: alarm<br>accuse
 bip_39_word_new_br_3: alarm<br>accuse<br>brisk
-bip_39_word_new_br_4: alarm<br>accuse<br>brisk<br>mother
-bip_39_word_new_br_5: alarm<br>accuse<br>brisk<br>mother<br>prison
-bip_39_word_new_br_6: alarm<br>accuse<br>brisk<br>mother<br>prison<br>simple
-bip_39_word_new_br_7: alarm<br>accuse<br>brisk<br>mother<br>prison<br>simple<br>puppy
-bip_39_word_new_br_8: alarm<br>accuse<br>brisk<br>mother<br>prison<br>simple<br>puppy<br>mix
-bip_39_word_new_br_9: alarm<br>accuse<br>brisk<br>mother<br>prison<br>simple<br>puppy<br>mix<br>spoil
-bip_39_word_new_line_1: alarm
-bip_39_word_new_line_10: 'alarm
-
-  accuse
-
-  brisk
-
-  mother
-
-  prison
-
-  simple
-
-  puppy
-
-  mix
-
-  spoil
-
-  second'
-bip_39_word_new_line_11: 'alarm
-
-  accuse
-
-  brisk
-
-  mother
-
-  prison
-
-  simple
-
-  puppy
-
-  mix
-
-  spoil
-
-  second
-
-  mouse'
 bip_39_word_new_line_12: 'alarm
 
   accuse
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'alarm
   accuse
 
   brisk'
-bip_39_word_new_line_4: 'alarm
-
-  accuse
-
-  brisk
-
-  mother'
-bip_39_word_new_line_5: 'alarm
-
-  accuse
-
-  brisk
-
-  mother
-
-  prison'
-bip_39_word_new_line_6: 'alarm
-
-  accuse
-
-  brisk
-
-  mother
-
-  prison
-
-  simple'
-bip_39_word_new_line_7: 'alarm
-
-  accuse
-
-  brisk
-
-  mother
-
-  prison
-
-  simple
-
-  puppy'
-bip_39_word_new_line_8: 'alarm
-
-  accuse
-
-  brisk
-
-  mother
-
-  prison
-
-  simple
-
-  puppy
-
-  mix'
-bip_39_word_new_line_9: 'alarm
-
-  accuse
-
-  brisk
-
-  mother
-
-  prison
-
-  simple
-
-  puppy
-
-  mix
-
-  spoil'
-bip_39_word_no_space_1: alarm
-bip_39_word_no_space_10: alarmaccusebriskmotherprisonsimplepuppymixspoilsecond
-bip_39_word_no_space_11: alarmaccusebriskmotherprisonsimplepuppymixspoilsecondmouse
 bip_39_word_no_space_12: alarmaccusebriskmotherprisonsimplepuppymixspoilsecondmouseamateur
 bip_39_word_no_space_2: alarmaccuse
 bip_39_word_no_space_3: alarmaccusebrisk
-bip_39_word_no_space_4: alarmaccusebriskmother
-bip_39_word_no_space_5: alarmaccusebriskmotherprison
-bip_39_word_no_space_6: alarmaccusebriskmotherprisonsimple
-bip_39_word_no_space_7: alarmaccusebriskmotherprisonsimplepuppy
-bip_39_word_no_space_8: alarmaccusebriskmotherprisonsimplepuppymix
-bip_39_word_no_space_9: alarmaccusebriskmotherprisonsimplepuppymixspoil
-bip_39_word_space_0:
-- alarm
-- accuse
-- brisk
-- mother
-- prison
-- simple
-- puppy
-- mix
-- spoil
-- second
-- mouse
-- amateur
-bip_39_word_space_1: alarm
-bip_39_word_space_10: alarm accuse brisk mother prison simple puppy mix spoil second
-bip_39_word_space_11: alarm accuse brisk mother prison simple puppy mix spoil second
-  mouse
 bip_39_word_space_12: alarm accuse brisk mother prison simple puppy mix spoil second
   mouse amateur
 bip_39_word_space_2: alarm accuse
 bip_39_word_space_3: alarm accuse brisk
-bip_39_word_space_4: alarm accuse brisk mother
-bip_39_word_space_5: alarm accuse brisk mother prison
-bip_39_word_space_6: alarm accuse brisk mother prison simple
-bip_39_word_space_7: alarm accuse brisk mother prison simple puppy
-bip_39_word_space_8: alarm accuse brisk mother prison simple puppy mix
-bip_39_word_space_9: alarm accuse brisk mother prison simple puppy mix spoil
-bip_39_word_underscore_1: alarm
-bip_39_word_underscore_10: alarm_accuse_brisk_mother_prison_simple_puppy_mix_spoil_second
-bip_39_word_underscore_11: alarm_accuse_brisk_mother_prison_simple_puppy_mix_spoil_second_mouse
 bip_39_word_underscore_12: alarm_accuse_brisk_mother_prison_simple_puppy_mix_spoil_second_mouse_amateur
 bip_39_word_underscore_2: alarm_accuse
 bip_39_word_underscore_3: alarm_accuse_brisk
-bip_39_word_underscore_4: alarm_accuse_brisk_mother
-bip_39_word_underscore_5: alarm_accuse_brisk_mother_prison
-bip_39_word_underscore_6: alarm_accuse_brisk_mother_prison_simple
-bip_39_word_underscore_7: alarm_accuse_brisk_mother_prison_simple_puppy
-bip_39_word_underscore_8: alarm_accuse_brisk_mother_prison_simple_puppy_mix
-bip_39_word_underscore_9: alarm_accuse_brisk_mother_prison_simple_puppy_mix_spoil
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

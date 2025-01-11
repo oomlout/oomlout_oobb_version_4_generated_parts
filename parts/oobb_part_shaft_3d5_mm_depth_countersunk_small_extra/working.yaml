@@ -1,68 +1,9 @@
-bip_39_word_dash_1: inject
-bip_39_word_dash_10: inject-before-near-betray-light-snack-run-seven-exile-employ
-bip_39_word_dash_11: inject-before-near-betray-light-snack-run-seven-exile-employ-unlock
 bip_39_word_dash_12: inject-before-near-betray-light-snack-run-seven-exile-employ-unlock-alarm
 bip_39_word_dash_2: inject-before
 bip_39_word_dash_3: inject-before-near
-bip_39_word_dash_4: inject-before-near-betray
-bip_39_word_dash_5: inject-before-near-betray-light
-bip_39_word_dash_6: inject-before-near-betray-light-snack
-bip_39_word_dash_7: inject-before-near-betray-light-snack-run
-bip_39_word_dash_8: inject-before-near-betray-light-snack-run-seven
-bip_39_word_dash_9: inject-before-near-betray-light-snack-run-seven-exile
-bip_39_word_new_br_1: inject
-bip_39_word_new_br_10: inject<br>before<br>near<br>betray<br>light<br>snack<br>run<br>seven<br>exile<br>employ
-bip_39_word_new_br_11: inject<br>before<br>near<br>betray<br>light<br>snack<br>run<br>seven<br>exile<br>employ<br>unlock
 bip_39_word_new_br_12: inject<br>before<br>near<br>betray<br>light<br>snack<br>run<br>seven<br>exile<br>employ<br>unlock<br>alarm
 bip_39_word_new_br_2: inject<br>before
 bip_39_word_new_br_3: inject<br>before<br>near
-bip_39_word_new_br_4: inject<br>before<br>near<br>betray
-bip_39_word_new_br_5: inject<br>before<br>near<br>betray<br>light
-bip_39_word_new_br_6: inject<br>before<br>near<br>betray<br>light<br>snack
-bip_39_word_new_br_7: inject<br>before<br>near<br>betray<br>light<br>snack<br>run
-bip_39_word_new_br_8: inject<br>before<br>near<br>betray<br>light<br>snack<br>run<br>seven
-bip_39_word_new_br_9: inject<br>before<br>near<br>betray<br>light<br>snack<br>run<br>seven<br>exile
-bip_39_word_new_line_1: inject
-bip_39_word_new_line_10: 'inject
-
-  before
-
-  near
-
-  betray
-
-  light
-
-  snack
-
-  run
-
-  seven
-
-  exile
-
-  employ'
-bip_39_word_new_line_11: 'inject
-
-  before
-
-  near
-
-  betray
-
-  light
-
-  snack
-
-  run
-
-  seven
-
-  exile
-
-  employ
-
-  unlock'
 bip_39_word_new_line_12: 'inject
 
   before
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'inject
   before
 
   near'
-bip_39_word_new_line_4: 'inject
-
-  before
-
-  near
-
-  betray'
-bip_39_word_new_line_5: 'inject
-
-  before
-
-  near
-
-  betray
-
-  light'
-bip_39_word_new_line_6: 'inject
-
-  before
-
-  near
-
-  betray
-
-  light
-
-  snack'
-bip_39_word_new_line_7: 'inject
-
-  before
-
-  near
-
-  betray
-
-  light
-
-  snack
-
-  run'
-bip_39_word_new_line_8: 'inject
-
-  before
-
-  near
-
-  betray
-
-  light
-
-  snack
-
-  run
-
-  seven'
-bip_39_word_new_line_9: 'inject
-
-  before
-
-  near
-
-  betray
-
-  light
-
-  snack
-
-  run
-
-  seven
-
-  exile'
-bip_39_word_no_space_1: inject
-bip_39_word_no_space_10: injectbeforenearbetraylightsnackrunsevenexileemploy
-bip_39_word_no_space_11: injectbeforenearbetraylightsnackrunsevenexileemployunlock
 bip_39_word_no_space_12: injectbeforenearbetraylightsnackrunsevenexileemployunlockalarm
 bip_39_word_no_space_2: injectbefore
 bip_39_word_no_space_3: injectbeforenear
-bip_39_word_no_space_4: injectbeforenearbetray
-bip_39_word_no_space_5: injectbeforenearbetraylight
-bip_39_word_no_space_6: injectbeforenearbetraylightsnack
-bip_39_word_no_space_7: injectbeforenearbetraylightsnackrun
-bip_39_word_no_space_8: injectbeforenearbetraylightsnackrunseven
-bip_39_word_no_space_9: injectbeforenearbetraylightsnackrunsevenexile
-bip_39_word_space_0:
-- inject
-- before
-- near
-- betray
-- light
-- snack
-- run
-- seven
-- exile
-- employ
-- unlock
-- alarm
-bip_39_word_space_1: inject
-bip_39_word_space_10: inject before near betray light snack run seven exile employ
-bip_39_word_space_11: inject before near betray light snack run seven exile employ
-  unlock
 bip_39_word_space_12: inject before near betray light snack run seven exile employ
   unlock alarm
 bip_39_word_space_2: inject before
 bip_39_word_space_3: inject before near
-bip_39_word_space_4: inject before near betray
-bip_39_word_space_5: inject before near betray light
-bip_39_word_space_6: inject before near betray light snack
-bip_39_word_space_7: inject before near betray light snack run
-bip_39_word_space_8: inject before near betray light snack run seven
-bip_39_word_space_9: inject before near betray light snack run seven exile
-bip_39_word_underscore_1: inject
-bip_39_word_underscore_10: inject_before_near_betray_light_snack_run_seven_exile_employ
-bip_39_word_underscore_11: inject_before_near_betray_light_snack_run_seven_exile_employ_unlock
 bip_39_word_underscore_12: inject_before_near_betray_light_snack_run_seven_exile_employ_unlock_alarm
 bip_39_word_underscore_2: inject_before
 bip_39_word_underscore_3: inject_before_near
-bip_39_word_underscore_4: inject_before_near_betray
-bip_39_word_underscore_5: inject_before_near_betray_light
-bip_39_word_underscore_6: inject_before_near_betray_light_snack
-bip_39_word_underscore_7: inject_before_near_betray_light_snack_run
-bip_39_word_underscore_8: inject_before_near_betray_light_snack_run_seven
-bip_39_word_underscore_9: inject_before_near_betray_light_snack_run_seven_exile
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

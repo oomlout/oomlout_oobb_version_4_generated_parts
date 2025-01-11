@@ -1,68 +1,9 @@
-bip_39_word_dash_1: mammal
-bip_39_word_dash_10: mammal-wild-blame-awesome-avocado-travel-mystery-cliff-until-injury
-bip_39_word_dash_11: mammal-wild-blame-awesome-avocado-travel-mystery-cliff-until-injury-curve
 bip_39_word_dash_12: mammal-wild-blame-awesome-avocado-travel-mystery-cliff-until-injury-curve-approve
 bip_39_word_dash_2: mammal-wild
 bip_39_word_dash_3: mammal-wild-blame
-bip_39_word_dash_4: mammal-wild-blame-awesome
-bip_39_word_dash_5: mammal-wild-blame-awesome-avocado
-bip_39_word_dash_6: mammal-wild-blame-awesome-avocado-travel
-bip_39_word_dash_7: mammal-wild-blame-awesome-avocado-travel-mystery
-bip_39_word_dash_8: mammal-wild-blame-awesome-avocado-travel-mystery-cliff
-bip_39_word_dash_9: mammal-wild-blame-awesome-avocado-travel-mystery-cliff-until
-bip_39_word_new_br_1: mammal
-bip_39_word_new_br_10: mammal<br>wild<br>blame<br>awesome<br>avocado<br>travel<br>mystery<br>cliff<br>until<br>injury
-bip_39_word_new_br_11: mammal<br>wild<br>blame<br>awesome<br>avocado<br>travel<br>mystery<br>cliff<br>until<br>injury<br>curve
 bip_39_word_new_br_12: mammal<br>wild<br>blame<br>awesome<br>avocado<br>travel<br>mystery<br>cliff<br>until<br>injury<br>curve<br>approve
 bip_39_word_new_br_2: mammal<br>wild
 bip_39_word_new_br_3: mammal<br>wild<br>blame
-bip_39_word_new_br_4: mammal<br>wild<br>blame<br>awesome
-bip_39_word_new_br_5: mammal<br>wild<br>blame<br>awesome<br>avocado
-bip_39_word_new_br_6: mammal<br>wild<br>blame<br>awesome<br>avocado<br>travel
-bip_39_word_new_br_7: mammal<br>wild<br>blame<br>awesome<br>avocado<br>travel<br>mystery
-bip_39_word_new_br_8: mammal<br>wild<br>blame<br>awesome<br>avocado<br>travel<br>mystery<br>cliff
-bip_39_word_new_br_9: mammal<br>wild<br>blame<br>awesome<br>avocado<br>travel<br>mystery<br>cliff<br>until
-bip_39_word_new_line_1: mammal
-bip_39_word_new_line_10: 'mammal
-
-  wild
-
-  blame
-
-  awesome
-
-  avocado
-
-  travel
-
-  mystery
-
-  cliff
-
-  until
-
-  injury'
-bip_39_word_new_line_11: 'mammal
-
-  wild
-
-  blame
-
-  awesome
-
-  avocado
-
-  travel
-
-  mystery
-
-  cliff
-
-  until
-
-  injury
-
-  curve'
 bip_39_word_new_line_12: 'mammal
 
   wild
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'mammal
   wild
 
   blame'
-bip_39_word_new_line_4: 'mammal
-
-  wild
-
-  blame
-
-  awesome'
-bip_39_word_new_line_5: 'mammal
-
-  wild
-
-  blame
-
-  awesome
-
-  avocado'
-bip_39_word_new_line_6: 'mammal
-
-  wild
-
-  blame
-
-  awesome
-
-  avocado
-
-  travel'
-bip_39_word_new_line_7: 'mammal
-
-  wild
-
-  blame
-
-  awesome
-
-  avocado
-
-  travel
-
-  mystery'
-bip_39_word_new_line_8: 'mammal
-
-  wild
-
-  blame
-
-  awesome
-
-  avocado
-
-  travel
-
-  mystery
-
-  cliff'
-bip_39_word_new_line_9: 'mammal
-
-  wild
-
-  blame
-
-  awesome
-
-  avocado
-
-  travel
-
-  mystery
-
-  cliff
-
-  until'
-bip_39_word_no_space_1: mammal
-bip_39_word_no_space_10: mammalwildblameawesomeavocadotravelmysterycliffuntilinjury
-bip_39_word_no_space_11: mammalwildblameawesomeavocadotravelmysterycliffuntilinjurycurve
 bip_39_word_no_space_12: mammalwildblameawesomeavocadotravelmysterycliffuntilinjurycurveapprove
 bip_39_word_no_space_2: mammalwild
 bip_39_word_no_space_3: mammalwildblame
-bip_39_word_no_space_4: mammalwildblameawesome
-bip_39_word_no_space_5: mammalwildblameawesomeavocado
-bip_39_word_no_space_6: mammalwildblameawesomeavocadotravel
-bip_39_word_no_space_7: mammalwildblameawesomeavocadotravelmystery
-bip_39_word_no_space_8: mammalwildblameawesomeavocadotravelmysterycliff
-bip_39_word_no_space_9: mammalwildblameawesomeavocadotravelmysterycliffuntil
-bip_39_word_space_0:
-- mammal
-- wild
-- blame
-- awesome
-- avocado
-- travel
-- mystery
-- cliff
-- until
-- injury
-- curve
-- approve
-bip_39_word_space_1: mammal
-bip_39_word_space_10: mammal wild blame awesome avocado travel mystery cliff until
-  injury
-bip_39_word_space_11: mammal wild blame awesome avocado travel mystery cliff until
-  injury curve
 bip_39_word_space_12: mammal wild blame awesome avocado travel mystery cliff until
   injury curve approve
 bip_39_word_space_2: mammal wild
 bip_39_word_space_3: mammal wild blame
-bip_39_word_space_4: mammal wild blame awesome
-bip_39_word_space_5: mammal wild blame awesome avocado
-bip_39_word_space_6: mammal wild blame awesome avocado travel
-bip_39_word_space_7: mammal wild blame awesome avocado travel mystery
-bip_39_word_space_8: mammal wild blame awesome avocado travel mystery cliff
-bip_39_word_space_9: mammal wild blame awesome avocado travel mystery cliff until
-bip_39_word_underscore_1: mammal
-bip_39_word_underscore_10: mammal_wild_blame_awesome_avocado_travel_mystery_cliff_until_injury
-bip_39_word_underscore_11: mammal_wild_blame_awesome_avocado_travel_mystery_cliff_until_injury_curve
 bip_39_word_underscore_12: mammal_wild_blame_awesome_avocado_travel_mystery_cliff_until_injury_curve_approve
 bip_39_word_underscore_2: mammal_wild
 bip_39_word_underscore_3: mammal_wild_blame
-bip_39_word_underscore_4: mammal_wild_blame_awesome
-bip_39_word_underscore_5: mammal_wild_blame_awesome_avocado
-bip_39_word_underscore_6: mammal_wild_blame_awesome_avocado_travel
-bip_39_word_underscore_7: mammal_wild_blame_awesome_avocado_travel_mystery
-bip_39_word_underscore_8: mammal_wild_blame_awesome_avocado_travel_mystery_cliff
-bip_39_word_underscore_9: mammal_wild_blame_awesome_avocado_travel_mystery_cliff_until
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

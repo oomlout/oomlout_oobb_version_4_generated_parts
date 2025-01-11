@@ -1,68 +1,9 @@
-bip_39_word_dash_1: agent
-bip_39_word_dash_10: agent-ridge-pelican-east-pumpkin-mail-scout-pear-sphere-ozone
-bip_39_word_dash_11: agent-ridge-pelican-east-pumpkin-mail-scout-pear-sphere-ozone-claim
 bip_39_word_dash_12: agent-ridge-pelican-east-pumpkin-mail-scout-pear-sphere-ozone-claim-airport
 bip_39_word_dash_2: agent-ridge
 bip_39_word_dash_3: agent-ridge-pelican
-bip_39_word_dash_4: agent-ridge-pelican-east
-bip_39_word_dash_5: agent-ridge-pelican-east-pumpkin
-bip_39_word_dash_6: agent-ridge-pelican-east-pumpkin-mail
-bip_39_word_dash_7: agent-ridge-pelican-east-pumpkin-mail-scout
-bip_39_word_dash_8: agent-ridge-pelican-east-pumpkin-mail-scout-pear
-bip_39_word_dash_9: agent-ridge-pelican-east-pumpkin-mail-scout-pear-sphere
-bip_39_word_new_br_1: agent
-bip_39_word_new_br_10: agent<br>ridge<br>pelican<br>east<br>pumpkin<br>mail<br>scout<br>pear<br>sphere<br>ozone
-bip_39_word_new_br_11: agent<br>ridge<br>pelican<br>east<br>pumpkin<br>mail<br>scout<br>pear<br>sphere<br>ozone<br>claim
 bip_39_word_new_br_12: agent<br>ridge<br>pelican<br>east<br>pumpkin<br>mail<br>scout<br>pear<br>sphere<br>ozone<br>claim<br>airport
 bip_39_word_new_br_2: agent<br>ridge
 bip_39_word_new_br_3: agent<br>ridge<br>pelican
-bip_39_word_new_br_4: agent<br>ridge<br>pelican<br>east
-bip_39_word_new_br_5: agent<br>ridge<br>pelican<br>east<br>pumpkin
-bip_39_word_new_br_6: agent<br>ridge<br>pelican<br>east<br>pumpkin<br>mail
-bip_39_word_new_br_7: agent<br>ridge<br>pelican<br>east<br>pumpkin<br>mail<br>scout
-bip_39_word_new_br_8: agent<br>ridge<br>pelican<br>east<br>pumpkin<br>mail<br>scout<br>pear
-bip_39_word_new_br_9: agent<br>ridge<br>pelican<br>east<br>pumpkin<br>mail<br>scout<br>pear<br>sphere
-bip_39_word_new_line_1: agent
-bip_39_word_new_line_10: 'agent
-
-  ridge
-
-  pelican
-
-  east
-
-  pumpkin
-
-  mail
-
-  scout
-
-  pear
-
-  sphere
-
-  ozone'
-bip_39_word_new_line_11: 'agent
-
-  ridge
-
-  pelican
-
-  east
-
-  pumpkin
-
-  mail
-
-  scout
-
-  pear
-
-  sphere
-
-  ozone
-
-  claim'
 bip_39_word_new_line_12: 'agent
 
   ridge
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'agent
   ridge
 
   pelican'
-bip_39_word_new_line_4: 'agent
-
-  ridge
-
-  pelican
-
-  east'
-bip_39_word_new_line_5: 'agent
-
-  ridge
-
-  pelican
-
-  east
-
-  pumpkin'
-bip_39_word_new_line_6: 'agent
-
-  ridge
-
-  pelican
-
-  east
-
-  pumpkin
-
-  mail'
-bip_39_word_new_line_7: 'agent
-
-  ridge
-
-  pelican
-
-  east
-
-  pumpkin
-
-  mail
-
-  scout'
-bip_39_word_new_line_8: 'agent
-
-  ridge
-
-  pelican
-
-  east
-
-  pumpkin
-
-  mail
-
-  scout
-
-  pear'
-bip_39_word_new_line_9: 'agent
-
-  ridge
-
-  pelican
-
-  east
-
-  pumpkin
-
-  mail
-
-  scout
-
-  pear
-
-  sphere'
-bip_39_word_no_space_1: agent
-bip_39_word_no_space_10: agentridgepelicaneastpumpkinmailscoutpearsphereozone
-bip_39_word_no_space_11: agentridgepelicaneastpumpkinmailscoutpearsphereozoneclaim
 bip_39_word_no_space_12: agentridgepelicaneastpumpkinmailscoutpearsphereozoneclaimairport
 bip_39_word_no_space_2: agentridge
 bip_39_word_no_space_3: agentridgepelican
-bip_39_word_no_space_4: agentridgepelicaneast
-bip_39_word_no_space_5: agentridgepelicaneastpumpkin
-bip_39_word_no_space_6: agentridgepelicaneastpumpkinmail
-bip_39_word_no_space_7: agentridgepelicaneastpumpkinmailscout
-bip_39_word_no_space_8: agentridgepelicaneastpumpkinmailscoutpear
-bip_39_word_no_space_9: agentridgepelicaneastpumpkinmailscoutpearsphere
-bip_39_word_space_0:
-- agent
-- ridge
-- pelican
-- east
-- pumpkin
-- mail
-- scout
-- pear
-- sphere
-- ozone
-- claim
-- airport
-bip_39_word_space_1: agent
-bip_39_word_space_10: agent ridge pelican east pumpkin mail scout pear sphere ozone
-bip_39_word_space_11: agent ridge pelican east pumpkin mail scout pear sphere ozone
-  claim
 bip_39_word_space_12: agent ridge pelican east pumpkin mail scout pear sphere ozone
   claim airport
 bip_39_word_space_2: agent ridge
 bip_39_word_space_3: agent ridge pelican
-bip_39_word_space_4: agent ridge pelican east
-bip_39_word_space_5: agent ridge pelican east pumpkin
-bip_39_word_space_6: agent ridge pelican east pumpkin mail
-bip_39_word_space_7: agent ridge pelican east pumpkin mail scout
-bip_39_word_space_8: agent ridge pelican east pumpkin mail scout pear
-bip_39_word_space_9: agent ridge pelican east pumpkin mail scout pear sphere
-bip_39_word_underscore_1: agent
-bip_39_word_underscore_10: agent_ridge_pelican_east_pumpkin_mail_scout_pear_sphere_ozone
-bip_39_word_underscore_11: agent_ridge_pelican_east_pumpkin_mail_scout_pear_sphere_ozone_claim
 bip_39_word_underscore_12: agent_ridge_pelican_east_pumpkin_mail_scout_pear_sphere_ozone_claim_airport
 bip_39_word_underscore_2: agent_ridge
 bip_39_word_underscore_3: agent_ridge_pelican
-bip_39_word_underscore_4: agent_ridge_pelican_east
-bip_39_word_underscore_5: agent_ridge_pelican_east_pumpkin
-bip_39_word_underscore_6: agent_ridge_pelican_east_pumpkin_mail
-bip_39_word_underscore_7: agent_ridge_pelican_east_pumpkin_mail_scout
-bip_39_word_underscore_8: agent_ridge_pelican_east_pumpkin_mail_scout_pear
-bip_39_word_underscore_9: agent_ridge_pelican_east_pumpkin_mail_scout_pear_sphere
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: defy
-bip_39_word_dash_10: defy-allow-snow-record-census-laugh-deliver-isolate-pistol-wrestle
-bip_39_word_dash_11: defy-allow-snow-record-census-laugh-deliver-isolate-pistol-wrestle-disease
 bip_39_word_dash_12: defy-allow-snow-record-census-laugh-deliver-isolate-pistol-wrestle-disease-attack
 bip_39_word_dash_2: defy-allow
 bip_39_word_dash_3: defy-allow-snow
-bip_39_word_dash_4: defy-allow-snow-record
-bip_39_word_dash_5: defy-allow-snow-record-census
-bip_39_word_dash_6: defy-allow-snow-record-census-laugh
-bip_39_word_dash_7: defy-allow-snow-record-census-laugh-deliver
-bip_39_word_dash_8: defy-allow-snow-record-census-laugh-deliver-isolate
-bip_39_word_dash_9: defy-allow-snow-record-census-laugh-deliver-isolate-pistol
-bip_39_word_new_br_1: defy
-bip_39_word_new_br_10: defy<br>allow<br>snow<br>record<br>census<br>laugh<br>deliver<br>isolate<br>pistol<br>wrestle
-bip_39_word_new_br_11: defy<br>allow<br>snow<br>record<br>census<br>laugh<br>deliver<br>isolate<br>pistol<br>wrestle<br>disease
 bip_39_word_new_br_12: defy<br>allow<br>snow<br>record<br>census<br>laugh<br>deliver<br>isolate<br>pistol<br>wrestle<br>disease<br>attack
 bip_39_word_new_br_2: defy<br>allow
 bip_39_word_new_br_3: defy<br>allow<br>snow
-bip_39_word_new_br_4: defy<br>allow<br>snow<br>record
-bip_39_word_new_br_5: defy<br>allow<br>snow<br>record<br>census
-bip_39_word_new_br_6: defy<br>allow<br>snow<br>record<br>census<br>laugh
-bip_39_word_new_br_7: defy<br>allow<br>snow<br>record<br>census<br>laugh<br>deliver
-bip_39_word_new_br_8: defy<br>allow<br>snow<br>record<br>census<br>laugh<br>deliver<br>isolate
-bip_39_word_new_br_9: defy<br>allow<br>snow<br>record<br>census<br>laugh<br>deliver<br>isolate<br>pistol
-bip_39_word_new_line_1: defy
-bip_39_word_new_line_10: 'defy
-
-  allow
-
-  snow
-
-  record
-
-  census
-
-  laugh
-
-  deliver
-
-  isolate
-
-  pistol
-
-  wrestle'
-bip_39_word_new_line_11: 'defy
-
-  allow
-
-  snow
-
-  record
-
-  census
-
-  laugh
-
-  deliver
-
-  isolate
-
-  pistol
-
-  wrestle
-
-  disease'
 bip_39_word_new_line_12: 'defy
 
   allow
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'defy
   allow
 
   snow'
-bip_39_word_new_line_4: 'defy
-
-  allow
-
-  snow
-
-  record'
-bip_39_word_new_line_5: 'defy
-
-  allow
-
-  snow
-
-  record
-
-  census'
-bip_39_word_new_line_6: 'defy
-
-  allow
-
-  snow
-
-  record
-
-  census
-
-  laugh'
-bip_39_word_new_line_7: 'defy
-
-  allow
-
-  snow
-
-  record
-
-  census
-
-  laugh
-
-  deliver'
-bip_39_word_new_line_8: 'defy
-
-  allow
-
-  snow
-
-  record
-
-  census
-
-  laugh
-
-  deliver
-
-  isolate'
-bip_39_word_new_line_9: 'defy
-
-  allow
-
-  snow
-
-  record
-
-  census
-
-  laugh
-
-  deliver
-
-  isolate
-
-  pistol'
-bip_39_word_no_space_1: defy
-bip_39_word_no_space_10: defyallowsnowrecordcensuslaughdeliverisolatepistolwrestle
-bip_39_word_no_space_11: defyallowsnowrecordcensuslaughdeliverisolatepistolwrestledisease
 bip_39_word_no_space_12: defyallowsnowrecordcensuslaughdeliverisolatepistolwrestlediseaseattack
 bip_39_word_no_space_2: defyallow
 bip_39_word_no_space_3: defyallowsnow
-bip_39_word_no_space_4: defyallowsnowrecord
-bip_39_word_no_space_5: defyallowsnowrecordcensus
-bip_39_word_no_space_6: defyallowsnowrecordcensuslaugh
-bip_39_word_no_space_7: defyallowsnowrecordcensuslaughdeliver
-bip_39_word_no_space_8: defyallowsnowrecordcensuslaughdeliverisolate
-bip_39_word_no_space_9: defyallowsnowrecordcensuslaughdeliverisolatepistol
-bip_39_word_space_0:
-- defy
-- allow
-- snow
-- record
-- census
-- laugh
-- deliver
-- isolate
-- pistol
-- wrestle
-- disease
-- attack
-bip_39_word_space_1: defy
-bip_39_word_space_10: defy allow snow record census laugh deliver isolate pistol wrestle
-bip_39_word_space_11: defy allow snow record census laugh deliver isolate pistol wrestle
-  disease
 bip_39_word_space_12: defy allow snow record census laugh deliver isolate pistol wrestle
   disease attack
 bip_39_word_space_2: defy allow
 bip_39_word_space_3: defy allow snow
-bip_39_word_space_4: defy allow snow record
-bip_39_word_space_5: defy allow snow record census
-bip_39_word_space_6: defy allow snow record census laugh
-bip_39_word_space_7: defy allow snow record census laugh deliver
-bip_39_word_space_8: defy allow snow record census laugh deliver isolate
-bip_39_word_space_9: defy allow snow record census laugh deliver isolate pistol
-bip_39_word_underscore_1: defy
-bip_39_word_underscore_10: defy_allow_snow_record_census_laugh_deliver_isolate_pistol_wrestle
-bip_39_word_underscore_11: defy_allow_snow_record_census_laugh_deliver_isolate_pistol_wrestle_disease
 bip_39_word_underscore_12: defy_allow_snow_record_census_laugh_deliver_isolate_pistol_wrestle_disease_attack
 bip_39_word_underscore_2: defy_allow
 bip_39_word_underscore_3: defy_allow_snow
-bip_39_word_underscore_4: defy_allow_snow_record
-bip_39_word_underscore_5: defy_allow_snow_record_census
-bip_39_word_underscore_6: defy_allow_snow_record_census_laugh
-bip_39_word_underscore_7: defy_allow_snow_record_census_laugh_deliver
-bip_39_word_underscore_8: defy_allow_snow_record_census_laugh_deliver_isolate
-bip_39_word_underscore_9: defy_allow_snow_record_census_laugh_deliver_isolate_pistol
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

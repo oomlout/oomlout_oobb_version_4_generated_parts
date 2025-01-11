@@ -1,68 +1,9 @@
-bip_39_word_dash_1: uniform
-bip_39_word_dash_10: uniform-treat-retreat-bag-aware-cute-impose-elephant-horror-lumber
-bip_39_word_dash_11: uniform-treat-retreat-bag-aware-cute-impose-elephant-horror-lumber-fringe
 bip_39_word_dash_12: uniform-treat-retreat-bag-aware-cute-impose-elephant-horror-lumber-fringe-album
 bip_39_word_dash_2: uniform-treat
 bip_39_word_dash_3: uniform-treat-retreat
-bip_39_word_dash_4: uniform-treat-retreat-bag
-bip_39_word_dash_5: uniform-treat-retreat-bag-aware
-bip_39_word_dash_6: uniform-treat-retreat-bag-aware-cute
-bip_39_word_dash_7: uniform-treat-retreat-bag-aware-cute-impose
-bip_39_word_dash_8: uniform-treat-retreat-bag-aware-cute-impose-elephant
-bip_39_word_dash_9: uniform-treat-retreat-bag-aware-cute-impose-elephant-horror
-bip_39_word_new_br_1: uniform
-bip_39_word_new_br_10: uniform<br>treat<br>retreat<br>bag<br>aware<br>cute<br>impose<br>elephant<br>horror<br>lumber
-bip_39_word_new_br_11: uniform<br>treat<br>retreat<br>bag<br>aware<br>cute<br>impose<br>elephant<br>horror<br>lumber<br>fringe
 bip_39_word_new_br_12: uniform<br>treat<br>retreat<br>bag<br>aware<br>cute<br>impose<br>elephant<br>horror<br>lumber<br>fringe<br>album
 bip_39_word_new_br_2: uniform<br>treat
 bip_39_word_new_br_3: uniform<br>treat<br>retreat
-bip_39_word_new_br_4: uniform<br>treat<br>retreat<br>bag
-bip_39_word_new_br_5: uniform<br>treat<br>retreat<br>bag<br>aware
-bip_39_word_new_br_6: uniform<br>treat<br>retreat<br>bag<br>aware<br>cute
-bip_39_word_new_br_7: uniform<br>treat<br>retreat<br>bag<br>aware<br>cute<br>impose
-bip_39_word_new_br_8: uniform<br>treat<br>retreat<br>bag<br>aware<br>cute<br>impose<br>elephant
-bip_39_word_new_br_9: uniform<br>treat<br>retreat<br>bag<br>aware<br>cute<br>impose<br>elephant<br>horror
-bip_39_word_new_line_1: uniform
-bip_39_word_new_line_10: 'uniform
-
-  treat
-
-  retreat
-
-  bag
-
-  aware
-
-  cute
-
-  impose
-
-  elephant
-
-  horror
-
-  lumber'
-bip_39_word_new_line_11: 'uniform
-
-  treat
-
-  retreat
-
-  bag
-
-  aware
-
-  cute
-
-  impose
-
-  elephant
-
-  horror
-
-  lumber
-
-  fringe'
 bip_39_word_new_line_12: 'uniform
 
   treat
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'uniform
   treat
 
   retreat'
-bip_39_word_new_line_4: 'uniform
-
-  treat
-
-  retreat
-
-  bag'
-bip_39_word_new_line_5: 'uniform
-
-  treat
-
-  retreat
-
-  bag
-
-  aware'
-bip_39_word_new_line_6: 'uniform
-
-  treat
-
-  retreat
-
-  bag
-
-  aware
-
-  cute'
-bip_39_word_new_line_7: 'uniform
-
-  treat
-
-  retreat
-
-  bag
-
-  aware
-
-  cute
-
-  impose'
-bip_39_word_new_line_8: 'uniform
-
-  treat
-
-  retreat
-
-  bag
-
-  aware
-
-  cute
-
-  impose
-
-  elephant'
-bip_39_word_new_line_9: 'uniform
-
-  treat
-
-  retreat
-
-  bag
-
-  aware
-
-  cute
-
-  impose
-
-  elephant
-
-  horror'
-bip_39_word_no_space_1: uniform
-bip_39_word_no_space_10: uniformtreatretreatbagawarecuteimposeelephanthorrorlumber
-bip_39_word_no_space_11: uniformtreatretreatbagawarecuteimposeelephanthorrorlumberfringe
 bip_39_word_no_space_12: uniformtreatretreatbagawarecuteimposeelephanthorrorlumberfringealbum
 bip_39_word_no_space_2: uniformtreat
 bip_39_word_no_space_3: uniformtreatretreat
-bip_39_word_no_space_4: uniformtreatretreatbag
-bip_39_word_no_space_5: uniformtreatretreatbagaware
-bip_39_word_no_space_6: uniformtreatretreatbagawarecute
-bip_39_word_no_space_7: uniformtreatretreatbagawarecuteimpose
-bip_39_word_no_space_8: uniformtreatretreatbagawarecuteimposeelephant
-bip_39_word_no_space_9: uniformtreatretreatbagawarecuteimposeelephanthorror
-bip_39_word_space_0:
-- uniform
-- treat
-- retreat
-- bag
-- aware
-- cute
-- impose
-- elephant
-- horror
-- lumber
-- fringe
-- album
-bip_39_word_space_1: uniform
-bip_39_word_space_10: uniform treat retreat bag aware cute impose elephant horror
-  lumber
-bip_39_word_space_11: uniform treat retreat bag aware cute impose elephant horror
-  lumber fringe
 bip_39_word_space_12: uniform treat retreat bag aware cute impose elephant horror
   lumber fringe album
 bip_39_word_space_2: uniform treat
 bip_39_word_space_3: uniform treat retreat
-bip_39_word_space_4: uniform treat retreat bag
-bip_39_word_space_5: uniform treat retreat bag aware
-bip_39_word_space_6: uniform treat retreat bag aware cute
-bip_39_word_space_7: uniform treat retreat bag aware cute impose
-bip_39_word_space_8: uniform treat retreat bag aware cute impose elephant
-bip_39_word_space_9: uniform treat retreat bag aware cute impose elephant horror
-bip_39_word_underscore_1: uniform
-bip_39_word_underscore_10: uniform_treat_retreat_bag_aware_cute_impose_elephant_horror_lumber
-bip_39_word_underscore_11: uniform_treat_retreat_bag_aware_cute_impose_elephant_horror_lumber_fringe
 bip_39_word_underscore_12: uniform_treat_retreat_bag_aware_cute_impose_elephant_horror_lumber_fringe_album
 bip_39_word_underscore_2: uniform_treat
 bip_39_word_underscore_3: uniform_treat_retreat
-bip_39_word_underscore_4: uniform_treat_retreat_bag
-bip_39_word_underscore_5: uniform_treat_retreat_bag_aware
-bip_39_word_underscore_6: uniform_treat_retreat_bag_aware_cute
-bip_39_word_underscore_7: uniform_treat_retreat_bag_aware_cute_impose
-bip_39_word_underscore_8: uniform_treat_retreat_bag_aware_cute_impose_elephant
-bip_39_word_underscore_9: uniform_treat_retreat_bag_aware_cute_impose_elephant_horror
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

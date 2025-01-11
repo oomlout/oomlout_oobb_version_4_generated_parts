@@ -1,68 +1,9 @@
-bip_39_word_dash_1: weather
-bip_39_word_dash_10: weather-ready-critic-party-antenna-depth-tooth-theory-clinic-use
-bip_39_word_dash_11: weather-ready-critic-party-antenna-depth-tooth-theory-clinic-use-secret
 bip_39_word_dash_12: weather-ready-critic-party-antenna-depth-tooth-theory-clinic-use-secret-air
 bip_39_word_dash_2: weather-ready
 bip_39_word_dash_3: weather-ready-critic
-bip_39_word_dash_4: weather-ready-critic-party
-bip_39_word_dash_5: weather-ready-critic-party-antenna
-bip_39_word_dash_6: weather-ready-critic-party-antenna-depth
-bip_39_word_dash_7: weather-ready-critic-party-antenna-depth-tooth
-bip_39_word_dash_8: weather-ready-critic-party-antenna-depth-tooth-theory
-bip_39_word_dash_9: weather-ready-critic-party-antenna-depth-tooth-theory-clinic
-bip_39_word_new_br_1: weather
-bip_39_word_new_br_10: weather<br>ready<br>critic<br>party<br>antenna<br>depth<br>tooth<br>theory<br>clinic<br>use
-bip_39_word_new_br_11: weather<br>ready<br>critic<br>party<br>antenna<br>depth<br>tooth<br>theory<br>clinic<br>use<br>secret
 bip_39_word_new_br_12: weather<br>ready<br>critic<br>party<br>antenna<br>depth<br>tooth<br>theory<br>clinic<br>use<br>secret<br>air
 bip_39_word_new_br_2: weather<br>ready
 bip_39_word_new_br_3: weather<br>ready<br>critic
-bip_39_word_new_br_4: weather<br>ready<br>critic<br>party
-bip_39_word_new_br_5: weather<br>ready<br>critic<br>party<br>antenna
-bip_39_word_new_br_6: weather<br>ready<br>critic<br>party<br>antenna<br>depth
-bip_39_word_new_br_7: weather<br>ready<br>critic<br>party<br>antenna<br>depth<br>tooth
-bip_39_word_new_br_8: weather<br>ready<br>critic<br>party<br>antenna<br>depth<br>tooth<br>theory
-bip_39_word_new_br_9: weather<br>ready<br>critic<br>party<br>antenna<br>depth<br>tooth<br>theory<br>clinic
-bip_39_word_new_line_1: weather
-bip_39_word_new_line_10: 'weather
-
-  ready
-
-  critic
-
-  party
-
-  antenna
-
-  depth
-
-  tooth
-
-  theory
-
-  clinic
-
-  use'
-bip_39_word_new_line_11: 'weather
-
-  ready
-
-  critic
-
-  party
-
-  antenna
-
-  depth
-
-  tooth
-
-  theory
-
-  clinic
-
-  use
-
-  secret'
 bip_39_word_new_line_12: 'weather
 
   ready
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'weather
   ready
 
   critic'
-bip_39_word_new_line_4: 'weather
-
-  ready
-
-  critic
-
-  party'
-bip_39_word_new_line_5: 'weather
-
-  ready
-
-  critic
-
-  party
-
-  antenna'
-bip_39_word_new_line_6: 'weather
-
-  ready
-
-  critic
-
-  party
-
-  antenna
-
-  depth'
-bip_39_word_new_line_7: 'weather
-
-  ready
-
-  critic
-
-  party
-
-  antenna
-
-  depth
-
-  tooth'
-bip_39_word_new_line_8: 'weather
-
-  ready
-
-  critic
-
-  party
-
-  antenna
-
-  depth
-
-  tooth
-
-  theory'
-bip_39_word_new_line_9: 'weather
-
-  ready
-
-  critic
-
-  party
-
-  antenna
-
-  depth
-
-  tooth
-
-  theory
-
-  clinic'
-bip_39_word_no_space_1: weather
-bip_39_word_no_space_10: weatherreadycriticpartyantennadepthtooththeoryclinicuse
-bip_39_word_no_space_11: weatherreadycriticpartyantennadepthtooththeoryclinicusesecret
 bip_39_word_no_space_12: weatherreadycriticpartyantennadepthtooththeoryclinicusesecretair
 bip_39_word_no_space_2: weatherready
 bip_39_word_no_space_3: weatherreadycritic
-bip_39_word_no_space_4: weatherreadycriticparty
-bip_39_word_no_space_5: weatherreadycriticpartyantenna
-bip_39_word_no_space_6: weatherreadycriticpartyantennadepth
-bip_39_word_no_space_7: weatherreadycriticpartyantennadepthtooth
-bip_39_word_no_space_8: weatherreadycriticpartyantennadepthtooththeory
-bip_39_word_no_space_9: weatherreadycriticpartyantennadepthtooththeoryclinic
-bip_39_word_space_0:
-- weather
-- ready
-- critic
-- party
-- antenna
-- depth
-- tooth
-- theory
-- clinic
-- use
-- secret
-- air
-bip_39_word_space_1: weather
-bip_39_word_space_10: weather ready critic party antenna depth tooth theory clinic
-  use
-bip_39_word_space_11: weather ready critic party antenna depth tooth theory clinic
-  use secret
 bip_39_word_space_12: weather ready critic party antenna depth tooth theory clinic
   use secret air
 bip_39_word_space_2: weather ready
 bip_39_word_space_3: weather ready critic
-bip_39_word_space_4: weather ready critic party
-bip_39_word_space_5: weather ready critic party antenna
-bip_39_word_space_6: weather ready critic party antenna depth
-bip_39_word_space_7: weather ready critic party antenna depth tooth
-bip_39_word_space_8: weather ready critic party antenna depth tooth theory
-bip_39_word_space_9: weather ready critic party antenna depth tooth theory clinic
-bip_39_word_underscore_1: weather
-bip_39_word_underscore_10: weather_ready_critic_party_antenna_depth_tooth_theory_clinic_use
-bip_39_word_underscore_11: weather_ready_critic_party_antenna_depth_tooth_theory_clinic_use_secret
 bip_39_word_underscore_12: weather_ready_critic_party_antenna_depth_tooth_theory_clinic_use_secret_air
 bip_39_word_underscore_2: weather_ready
 bip_39_word_underscore_3: weather_ready_critic
-bip_39_word_underscore_4: weather_ready_critic_party
-bip_39_word_underscore_5: weather_ready_critic_party_antenna
-bip_39_word_underscore_6: weather_ready_critic_party_antenna_depth
-bip_39_word_underscore_7: weather_ready_critic_party_antenna_depth_tooth
-bip_39_word_underscore_8: weather_ready_critic_party_antenna_depth_tooth_theory
-bip_39_word_underscore_9: weather_ready_critic_party_antenna_depth_tooth_theory_clinic
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

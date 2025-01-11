@@ -1,68 +1,9 @@
-bip_39_word_dash_1: bird
-bip_39_word_dash_10: bird-capital-fortune-suggest-photo-place-eagle-spell-peasant-flag
-bip_39_word_dash_11: bird-capital-fortune-suggest-photo-place-eagle-spell-peasant-flag-leave
 bip_39_word_dash_12: bird-capital-fortune-suggest-photo-place-eagle-spell-peasant-flag-leave-apart
 bip_39_word_dash_2: bird-capital
 bip_39_word_dash_3: bird-capital-fortune
-bip_39_word_dash_4: bird-capital-fortune-suggest
-bip_39_word_dash_5: bird-capital-fortune-suggest-photo
-bip_39_word_dash_6: bird-capital-fortune-suggest-photo-place
-bip_39_word_dash_7: bird-capital-fortune-suggest-photo-place-eagle
-bip_39_word_dash_8: bird-capital-fortune-suggest-photo-place-eagle-spell
-bip_39_word_dash_9: bird-capital-fortune-suggest-photo-place-eagle-spell-peasant
-bip_39_word_new_br_1: bird
-bip_39_word_new_br_10: bird<br>capital<br>fortune<br>suggest<br>photo<br>place<br>eagle<br>spell<br>peasant<br>flag
-bip_39_word_new_br_11: bird<br>capital<br>fortune<br>suggest<br>photo<br>place<br>eagle<br>spell<br>peasant<br>flag<br>leave
 bip_39_word_new_br_12: bird<br>capital<br>fortune<br>suggest<br>photo<br>place<br>eagle<br>spell<br>peasant<br>flag<br>leave<br>apart
 bip_39_word_new_br_2: bird<br>capital
 bip_39_word_new_br_3: bird<br>capital<br>fortune
-bip_39_word_new_br_4: bird<br>capital<br>fortune<br>suggest
-bip_39_word_new_br_5: bird<br>capital<br>fortune<br>suggest<br>photo
-bip_39_word_new_br_6: bird<br>capital<br>fortune<br>suggest<br>photo<br>place
-bip_39_word_new_br_7: bird<br>capital<br>fortune<br>suggest<br>photo<br>place<br>eagle
-bip_39_word_new_br_8: bird<br>capital<br>fortune<br>suggest<br>photo<br>place<br>eagle<br>spell
-bip_39_word_new_br_9: bird<br>capital<br>fortune<br>suggest<br>photo<br>place<br>eagle<br>spell<br>peasant
-bip_39_word_new_line_1: bird
-bip_39_word_new_line_10: 'bird
-
-  capital
-
-  fortune
-
-  suggest
-
-  photo
-
-  place
-
-  eagle
-
-  spell
-
-  peasant
-
-  flag'
-bip_39_word_new_line_11: 'bird
-
-  capital
-
-  fortune
-
-  suggest
-
-  photo
-
-  place
-
-  eagle
-
-  spell
-
-  peasant
-
-  flag
-
-  leave'
 bip_39_word_new_line_12: 'bird
 
   capital
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'bird
   capital
 
   fortune'
-bip_39_word_new_line_4: 'bird
-
-  capital
-
-  fortune
-
-  suggest'
-bip_39_word_new_line_5: 'bird
-
-  capital
-
-  fortune
-
-  suggest
-
-  photo'
-bip_39_word_new_line_6: 'bird
-
-  capital
-
-  fortune
-
-  suggest
-
-  photo
-
-  place'
-bip_39_word_new_line_7: 'bird
-
-  capital
-
-  fortune
-
-  suggest
-
-  photo
-
-  place
-
-  eagle'
-bip_39_word_new_line_8: 'bird
-
-  capital
-
-  fortune
-
-  suggest
-
-  photo
-
-  place
-
-  eagle
-
-  spell'
-bip_39_word_new_line_9: 'bird
-
-  capital
-
-  fortune
-
-  suggest
-
-  photo
-
-  place
-
-  eagle
-
-  spell
-
-  peasant'
-bip_39_word_no_space_1: bird
-bip_39_word_no_space_10: birdcapitalfortunesuggestphotoplaceeaglespellpeasantflag
-bip_39_word_no_space_11: birdcapitalfortunesuggestphotoplaceeaglespellpeasantflagleave
 bip_39_word_no_space_12: birdcapitalfortunesuggestphotoplaceeaglespellpeasantflagleaveapart
 bip_39_word_no_space_2: birdcapital
 bip_39_word_no_space_3: birdcapitalfortune
-bip_39_word_no_space_4: birdcapitalfortunesuggest
-bip_39_word_no_space_5: birdcapitalfortunesuggestphoto
-bip_39_word_no_space_6: birdcapitalfortunesuggestphotoplace
-bip_39_word_no_space_7: birdcapitalfortunesuggestphotoplaceeagle
-bip_39_word_no_space_8: birdcapitalfortunesuggestphotoplaceeaglespell
-bip_39_word_no_space_9: birdcapitalfortunesuggestphotoplaceeaglespellpeasant
-bip_39_word_space_0:
-- bird
-- capital
-- fortune
-- suggest
-- photo
-- place
-- eagle
-- spell
-- peasant
-- flag
-- leave
-- apart
-bip_39_word_space_1: bird
-bip_39_word_space_10: bird capital fortune suggest photo place eagle spell peasant
-  flag
-bip_39_word_space_11: bird capital fortune suggest photo place eagle spell peasant
-  flag leave
 bip_39_word_space_12: bird capital fortune suggest photo place eagle spell peasant
   flag leave apart
 bip_39_word_space_2: bird capital
 bip_39_word_space_3: bird capital fortune
-bip_39_word_space_4: bird capital fortune suggest
-bip_39_word_space_5: bird capital fortune suggest photo
-bip_39_word_space_6: bird capital fortune suggest photo place
-bip_39_word_space_7: bird capital fortune suggest photo place eagle
-bip_39_word_space_8: bird capital fortune suggest photo place eagle spell
-bip_39_word_space_9: bird capital fortune suggest photo place eagle spell peasant
-bip_39_word_underscore_1: bird
-bip_39_word_underscore_10: bird_capital_fortune_suggest_photo_place_eagle_spell_peasant_flag
-bip_39_word_underscore_11: bird_capital_fortune_suggest_photo_place_eagle_spell_peasant_flag_leave
 bip_39_word_underscore_12: bird_capital_fortune_suggest_photo_place_eagle_spell_peasant_flag_leave_apart
 bip_39_word_underscore_2: bird_capital
 bip_39_word_underscore_3: bird_capital_fortune
-bip_39_word_underscore_4: bird_capital_fortune_suggest
-bip_39_word_underscore_5: bird_capital_fortune_suggest_photo
-bip_39_word_underscore_6: bird_capital_fortune_suggest_photo_place
-bip_39_word_underscore_7: bird_capital_fortune_suggest_photo_place_eagle
-bip_39_word_underscore_8: bird_capital_fortune_suggest_photo_place_eagle_spell
-bip_39_word_underscore_9: bird_capital_fortune_suggest_photo_place_eagle_spell_peasant
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

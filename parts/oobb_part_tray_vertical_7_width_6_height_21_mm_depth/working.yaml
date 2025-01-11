@@ -1,68 +1,9 @@
-bip_39_word_dash_1: ginger
-bip_39_word_dash_10: ginger-hover-question-certain-fetch-diary-food-metal-arena-anchor
-bip_39_word_dash_11: ginger-hover-question-certain-fetch-diary-food-metal-arena-anchor-action
 bip_39_word_dash_12: ginger-hover-question-certain-fetch-diary-food-metal-arena-anchor-action-amount
 bip_39_word_dash_2: ginger-hover
 bip_39_word_dash_3: ginger-hover-question
-bip_39_word_dash_4: ginger-hover-question-certain
-bip_39_word_dash_5: ginger-hover-question-certain-fetch
-bip_39_word_dash_6: ginger-hover-question-certain-fetch-diary
-bip_39_word_dash_7: ginger-hover-question-certain-fetch-diary-food
-bip_39_word_dash_8: ginger-hover-question-certain-fetch-diary-food-metal
-bip_39_word_dash_9: ginger-hover-question-certain-fetch-diary-food-metal-arena
-bip_39_word_new_br_1: ginger
-bip_39_word_new_br_10: ginger<br>hover<br>question<br>certain<br>fetch<br>diary<br>food<br>metal<br>arena<br>anchor
-bip_39_word_new_br_11: ginger<br>hover<br>question<br>certain<br>fetch<br>diary<br>food<br>metal<br>arena<br>anchor<br>action
 bip_39_word_new_br_12: ginger<br>hover<br>question<br>certain<br>fetch<br>diary<br>food<br>metal<br>arena<br>anchor<br>action<br>amount
 bip_39_word_new_br_2: ginger<br>hover
 bip_39_word_new_br_3: ginger<br>hover<br>question
-bip_39_word_new_br_4: ginger<br>hover<br>question<br>certain
-bip_39_word_new_br_5: ginger<br>hover<br>question<br>certain<br>fetch
-bip_39_word_new_br_6: ginger<br>hover<br>question<br>certain<br>fetch<br>diary
-bip_39_word_new_br_7: ginger<br>hover<br>question<br>certain<br>fetch<br>diary<br>food
-bip_39_word_new_br_8: ginger<br>hover<br>question<br>certain<br>fetch<br>diary<br>food<br>metal
-bip_39_word_new_br_9: ginger<br>hover<br>question<br>certain<br>fetch<br>diary<br>food<br>metal<br>arena
-bip_39_word_new_line_1: ginger
-bip_39_word_new_line_10: 'ginger
-
-  hover
-
-  question
-
-  certain
-
-  fetch
-
-  diary
-
-  food
-
-  metal
-
-  arena
-
-  anchor'
-bip_39_word_new_line_11: 'ginger
-
-  hover
-
-  question
-
-  certain
-
-  fetch
-
-  diary
-
-  food
-
-  metal
-
-  arena
-
-  anchor
-
-  action'
 bip_39_word_new_line_12: 'ginger
 
   hover
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'ginger
   hover
 
   question'
-bip_39_word_new_line_4: 'ginger
-
-  hover
-
-  question
-
-  certain'
-bip_39_word_new_line_5: 'ginger
-
-  hover
-
-  question
-
-  certain
-
-  fetch'
-bip_39_word_new_line_6: 'ginger
-
-  hover
-
-  question
-
-  certain
-
-  fetch
-
-  diary'
-bip_39_word_new_line_7: 'ginger
-
-  hover
-
-  question
-
-  certain
-
-  fetch
-
-  diary
-
-  food'
-bip_39_word_new_line_8: 'ginger
-
-  hover
-
-  question
-
-  certain
-
-  fetch
-
-  diary
-
-  food
-
-  metal'
-bip_39_word_new_line_9: 'ginger
-
-  hover
-
-  question
-
-  certain
-
-  fetch
-
-  diary
-
-  food
-
-  metal
-
-  arena'
-bip_39_word_no_space_1: ginger
-bip_39_word_no_space_10: gingerhoverquestioncertainfetchdiaryfoodmetalarenaanchor
-bip_39_word_no_space_11: gingerhoverquestioncertainfetchdiaryfoodmetalarenaanchoraction
 bip_39_word_no_space_12: gingerhoverquestioncertainfetchdiaryfoodmetalarenaanchoractionamount
 bip_39_word_no_space_2: gingerhover
 bip_39_word_no_space_3: gingerhoverquestion
-bip_39_word_no_space_4: gingerhoverquestioncertain
-bip_39_word_no_space_5: gingerhoverquestioncertainfetch
-bip_39_word_no_space_6: gingerhoverquestioncertainfetchdiary
-bip_39_word_no_space_7: gingerhoverquestioncertainfetchdiaryfood
-bip_39_word_no_space_8: gingerhoverquestioncertainfetchdiaryfoodmetal
-bip_39_word_no_space_9: gingerhoverquestioncertainfetchdiaryfoodmetalarena
-bip_39_word_space_0:
-- ginger
-- hover
-- question
-- certain
-- fetch
-- diary
-- food
-- metal
-- arena
-- anchor
-- action
-- amount
-bip_39_word_space_1: ginger
-bip_39_word_space_10: ginger hover question certain fetch diary food metal arena anchor
-bip_39_word_space_11: ginger hover question certain fetch diary food metal arena anchor
-  action
 bip_39_word_space_12: ginger hover question certain fetch diary food metal arena anchor
   action amount
 bip_39_word_space_2: ginger hover
 bip_39_word_space_3: ginger hover question
-bip_39_word_space_4: ginger hover question certain
-bip_39_word_space_5: ginger hover question certain fetch
-bip_39_word_space_6: ginger hover question certain fetch diary
-bip_39_word_space_7: ginger hover question certain fetch diary food
-bip_39_word_space_8: ginger hover question certain fetch diary food metal
-bip_39_word_space_9: ginger hover question certain fetch diary food metal arena
-bip_39_word_underscore_1: ginger
-bip_39_word_underscore_10: ginger_hover_question_certain_fetch_diary_food_metal_arena_anchor
-bip_39_word_underscore_11: ginger_hover_question_certain_fetch_diary_food_metal_arena_anchor_action
 bip_39_word_underscore_12: ginger_hover_question_certain_fetch_diary_food_metal_arena_anchor_action_amount
 bip_39_word_underscore_2: ginger_hover
 bip_39_word_underscore_3: ginger_hover_question
-bip_39_word_underscore_4: ginger_hover_question_certain
-bip_39_word_underscore_5: ginger_hover_question_certain_fetch
-bip_39_word_underscore_6: ginger_hover_question_certain_fetch_diary
-bip_39_word_underscore_7: ginger_hover_question_certain_fetch_diary_food
-bip_39_word_underscore_8: ginger_hover_question_certain_fetch_diary_food_metal
-bip_39_word_underscore_9: ginger_hover_question_certain_fetch_diary_food_metal_arena
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: inject
-bip_39_word_dash_10: inject-always-blanket-kangaroo-virus-diet-napkin-curve-enter-hamster
-bip_39_word_dash_11: inject-always-blanket-kangaroo-virus-diet-napkin-curve-enter-hamster-say
 bip_39_word_dash_12: inject-always-blanket-kangaroo-virus-diet-napkin-curve-enter-hamster-say-account
 bip_39_word_dash_2: inject-always
 bip_39_word_dash_3: inject-always-blanket
-bip_39_word_dash_4: inject-always-blanket-kangaroo
-bip_39_word_dash_5: inject-always-blanket-kangaroo-virus
-bip_39_word_dash_6: inject-always-blanket-kangaroo-virus-diet
-bip_39_word_dash_7: inject-always-blanket-kangaroo-virus-diet-napkin
-bip_39_word_dash_8: inject-always-blanket-kangaroo-virus-diet-napkin-curve
-bip_39_word_dash_9: inject-always-blanket-kangaroo-virus-diet-napkin-curve-enter
-bip_39_word_new_br_1: inject
-bip_39_word_new_br_10: inject<br>always<br>blanket<br>kangaroo<br>virus<br>diet<br>napkin<br>curve<br>enter<br>hamster
-bip_39_word_new_br_11: inject<br>always<br>blanket<br>kangaroo<br>virus<br>diet<br>napkin<br>curve<br>enter<br>hamster<br>say
 bip_39_word_new_br_12: inject<br>always<br>blanket<br>kangaroo<br>virus<br>diet<br>napkin<br>curve<br>enter<br>hamster<br>say<br>account
 bip_39_word_new_br_2: inject<br>always
 bip_39_word_new_br_3: inject<br>always<br>blanket
-bip_39_word_new_br_4: inject<br>always<br>blanket<br>kangaroo
-bip_39_word_new_br_5: inject<br>always<br>blanket<br>kangaroo<br>virus
-bip_39_word_new_br_6: inject<br>always<br>blanket<br>kangaroo<br>virus<br>diet
-bip_39_word_new_br_7: inject<br>always<br>blanket<br>kangaroo<br>virus<br>diet<br>napkin
-bip_39_word_new_br_8: inject<br>always<br>blanket<br>kangaroo<br>virus<br>diet<br>napkin<br>curve
-bip_39_word_new_br_9: inject<br>always<br>blanket<br>kangaroo<br>virus<br>diet<br>napkin<br>curve<br>enter
-bip_39_word_new_line_1: inject
-bip_39_word_new_line_10: 'inject
-
-  always
-
-  blanket
-
-  kangaroo
-
-  virus
-
-  diet
-
-  napkin
-
-  curve
-
-  enter
-
-  hamster'
-bip_39_word_new_line_11: 'inject
-
-  always
-
-  blanket
-
-  kangaroo
-
-  virus
-
-  diet
-
-  napkin
-
-  curve
-
-  enter
-
-  hamster
-
-  say'
 bip_39_word_new_line_12: 'inject
 
   always
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'inject
   always
 
   blanket'
-bip_39_word_new_line_4: 'inject
-
-  always
-
-  blanket
-
-  kangaroo'
-bip_39_word_new_line_5: 'inject
-
-  always
-
-  blanket
-
-  kangaroo
-
-  virus'
-bip_39_word_new_line_6: 'inject
-
-  always
-
-  blanket
-
-  kangaroo
-
-  virus
-
-  diet'
-bip_39_word_new_line_7: 'inject
-
-  always
-
-  blanket
-
-  kangaroo
-
-  virus
-
-  diet
-
-  napkin'
-bip_39_word_new_line_8: 'inject
-
-  always
-
-  blanket
-
-  kangaroo
-
-  virus
-
-  diet
-
-  napkin
-
-  curve'
-bip_39_word_new_line_9: 'inject
-
-  always
-
-  blanket
-
-  kangaroo
-
-  virus
-
-  diet
-
-  napkin
-
-  curve
-
-  enter'
-bip_39_word_no_space_1: inject
-bip_39_word_no_space_10: injectalwaysblanketkangaroovirusdietnapkincurveenterhamster
-bip_39_word_no_space_11: injectalwaysblanketkangaroovirusdietnapkincurveenterhamstersay
 bip_39_word_no_space_12: injectalwaysblanketkangaroovirusdietnapkincurveenterhamstersayaccount
 bip_39_word_no_space_2: injectalways
 bip_39_word_no_space_3: injectalwaysblanket
-bip_39_word_no_space_4: injectalwaysblanketkangaroo
-bip_39_word_no_space_5: injectalwaysblanketkangaroovirus
-bip_39_word_no_space_6: injectalwaysblanketkangaroovirusdiet
-bip_39_word_no_space_7: injectalwaysblanketkangaroovirusdietnapkin
-bip_39_word_no_space_8: injectalwaysblanketkangaroovirusdietnapkincurve
-bip_39_word_no_space_9: injectalwaysblanketkangaroovirusdietnapkincurveenter
-bip_39_word_space_0:
-- inject
-- always
-- blanket
-- kangaroo
-- virus
-- diet
-- napkin
-- curve
-- enter
-- hamster
-- say
-- account
-bip_39_word_space_1: inject
-bip_39_word_space_10: inject always blanket kangaroo virus diet napkin curve enter
-  hamster
-bip_39_word_space_11: inject always blanket kangaroo virus diet napkin curve enter
-  hamster say
 bip_39_word_space_12: inject always blanket kangaroo virus diet napkin curve enter
   hamster say account
 bip_39_word_space_2: inject always
 bip_39_word_space_3: inject always blanket
-bip_39_word_space_4: inject always blanket kangaroo
-bip_39_word_space_5: inject always blanket kangaroo virus
-bip_39_word_space_6: inject always blanket kangaroo virus diet
-bip_39_word_space_7: inject always blanket kangaroo virus diet napkin
-bip_39_word_space_8: inject always blanket kangaroo virus diet napkin curve
-bip_39_word_space_9: inject always blanket kangaroo virus diet napkin curve enter
-bip_39_word_underscore_1: inject
-bip_39_word_underscore_10: inject_always_blanket_kangaroo_virus_diet_napkin_curve_enter_hamster
-bip_39_word_underscore_11: inject_always_blanket_kangaroo_virus_diet_napkin_curve_enter_hamster_say
 bip_39_word_underscore_12: inject_always_blanket_kangaroo_virus_diet_napkin_curve_enter_hamster_say_account
 bip_39_word_underscore_2: inject_always
 bip_39_word_underscore_3: inject_always_blanket
-bip_39_word_underscore_4: inject_always_blanket_kangaroo
-bip_39_word_underscore_5: inject_always_blanket_kangaroo_virus
-bip_39_word_underscore_6: inject_always_blanket_kangaroo_virus_diet
-bip_39_word_underscore_7: inject_always_blanket_kangaroo_virus_diet_napkin
-bip_39_word_underscore_8: inject_always_blanket_kangaroo_virus_diet_napkin_curve
-bip_39_word_underscore_9: inject_always_blanket_kangaroo_virus_diet_napkin_curve_enter
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

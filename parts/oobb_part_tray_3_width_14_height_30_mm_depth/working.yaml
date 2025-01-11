@@ -1,68 +1,9 @@
-bip_39_word_dash_1: fuel
-bip_39_word_dash_10: fuel-call-hidden-rotate-water-arrive-slow-pyramid-wonder-vague
-bip_39_word_dash_11: fuel-call-hidden-rotate-water-arrive-slow-pyramid-wonder-vague-valid
 bip_39_word_dash_12: fuel-call-hidden-rotate-water-arrive-slow-pyramid-wonder-vague-valid-anchor
 bip_39_word_dash_2: fuel-call
 bip_39_word_dash_3: fuel-call-hidden
-bip_39_word_dash_4: fuel-call-hidden-rotate
-bip_39_word_dash_5: fuel-call-hidden-rotate-water
-bip_39_word_dash_6: fuel-call-hidden-rotate-water-arrive
-bip_39_word_dash_7: fuel-call-hidden-rotate-water-arrive-slow
-bip_39_word_dash_8: fuel-call-hidden-rotate-water-arrive-slow-pyramid
-bip_39_word_dash_9: fuel-call-hidden-rotate-water-arrive-slow-pyramid-wonder
-bip_39_word_new_br_1: fuel
-bip_39_word_new_br_10: fuel<br>call<br>hidden<br>rotate<br>water<br>arrive<br>slow<br>pyramid<br>wonder<br>vague
-bip_39_word_new_br_11: fuel<br>call<br>hidden<br>rotate<br>water<br>arrive<br>slow<br>pyramid<br>wonder<br>vague<br>valid
 bip_39_word_new_br_12: fuel<br>call<br>hidden<br>rotate<br>water<br>arrive<br>slow<br>pyramid<br>wonder<br>vague<br>valid<br>anchor
 bip_39_word_new_br_2: fuel<br>call
 bip_39_word_new_br_3: fuel<br>call<br>hidden
-bip_39_word_new_br_4: fuel<br>call<br>hidden<br>rotate
-bip_39_word_new_br_5: fuel<br>call<br>hidden<br>rotate<br>water
-bip_39_word_new_br_6: fuel<br>call<br>hidden<br>rotate<br>water<br>arrive
-bip_39_word_new_br_7: fuel<br>call<br>hidden<br>rotate<br>water<br>arrive<br>slow
-bip_39_word_new_br_8: fuel<br>call<br>hidden<br>rotate<br>water<br>arrive<br>slow<br>pyramid
-bip_39_word_new_br_9: fuel<br>call<br>hidden<br>rotate<br>water<br>arrive<br>slow<br>pyramid<br>wonder
-bip_39_word_new_line_1: fuel
-bip_39_word_new_line_10: 'fuel
-
-  call
-
-  hidden
-
-  rotate
-
-  water
-
-  arrive
-
-  slow
-
-  pyramid
-
-  wonder
-
-  vague'
-bip_39_word_new_line_11: 'fuel
-
-  call
-
-  hidden
-
-  rotate
-
-  water
-
-  arrive
-
-  slow
-
-  pyramid
-
-  wonder
-
-  vague
-
-  valid'
 bip_39_word_new_line_12: 'fuel
 
   call
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'fuel
   call
 
   hidden'
-bip_39_word_new_line_4: 'fuel
-
-  call
-
-  hidden
-
-  rotate'
-bip_39_word_new_line_5: 'fuel
-
-  call
-
-  hidden
-
-  rotate
-
-  water'
-bip_39_word_new_line_6: 'fuel
-
-  call
-
-  hidden
-
-  rotate
-
-  water
-
-  arrive'
-bip_39_word_new_line_7: 'fuel
-
-  call
-
-  hidden
-
-  rotate
-
-  water
-
-  arrive
-
-  slow'
-bip_39_word_new_line_8: 'fuel
-
-  call
-
-  hidden
-
-  rotate
-
-  water
-
-  arrive
-
-  slow
-
-  pyramid'
-bip_39_word_new_line_9: 'fuel
-
-  call
-
-  hidden
-
-  rotate
-
-  water
-
-  arrive
-
-  slow
-
-  pyramid
-
-  wonder'
-bip_39_word_no_space_1: fuel
-bip_39_word_no_space_10: fuelcallhiddenrotatewaterarriveslowpyramidwondervague
-bip_39_word_no_space_11: fuelcallhiddenrotatewaterarriveslowpyramidwondervaguevalid
 bip_39_word_no_space_12: fuelcallhiddenrotatewaterarriveslowpyramidwondervaguevalidanchor
 bip_39_word_no_space_2: fuelcall
 bip_39_word_no_space_3: fuelcallhidden
-bip_39_word_no_space_4: fuelcallhiddenrotate
-bip_39_word_no_space_5: fuelcallhiddenrotatewater
-bip_39_word_no_space_6: fuelcallhiddenrotatewaterarrive
-bip_39_word_no_space_7: fuelcallhiddenrotatewaterarriveslow
-bip_39_word_no_space_8: fuelcallhiddenrotatewaterarriveslowpyramid
-bip_39_word_no_space_9: fuelcallhiddenrotatewaterarriveslowpyramidwonder
-bip_39_word_space_0:
-- fuel
-- call
-- hidden
-- rotate
-- water
-- arrive
-- slow
-- pyramid
-- wonder
-- vague
-- valid
-- anchor
-bip_39_word_space_1: fuel
-bip_39_word_space_10: fuel call hidden rotate water arrive slow pyramid wonder vague
-bip_39_word_space_11: fuel call hidden rotate water arrive slow pyramid wonder vague
-  valid
 bip_39_word_space_12: fuel call hidden rotate water arrive slow pyramid wonder vague
   valid anchor
 bip_39_word_space_2: fuel call
 bip_39_word_space_3: fuel call hidden
-bip_39_word_space_4: fuel call hidden rotate
-bip_39_word_space_5: fuel call hidden rotate water
-bip_39_word_space_6: fuel call hidden rotate water arrive
-bip_39_word_space_7: fuel call hidden rotate water arrive slow
-bip_39_word_space_8: fuel call hidden rotate water arrive slow pyramid
-bip_39_word_space_9: fuel call hidden rotate water arrive slow pyramid wonder
-bip_39_word_underscore_1: fuel
-bip_39_word_underscore_10: fuel_call_hidden_rotate_water_arrive_slow_pyramid_wonder_vague
-bip_39_word_underscore_11: fuel_call_hidden_rotate_water_arrive_slow_pyramid_wonder_vague_valid
 bip_39_word_underscore_12: fuel_call_hidden_rotate_water_arrive_slow_pyramid_wonder_vague_valid_anchor
 bip_39_word_underscore_2: fuel_call
 bip_39_word_underscore_3: fuel_call_hidden
-bip_39_word_underscore_4: fuel_call_hidden_rotate
-bip_39_word_underscore_5: fuel_call_hidden_rotate_water
-bip_39_word_underscore_6: fuel_call_hidden_rotate_water_arrive
-bip_39_word_underscore_7: fuel_call_hidden_rotate_water_arrive_slow
-bip_39_word_underscore_8: fuel_call_hidden_rotate_water_arrive_slow_pyramid
-bip_39_word_underscore_9: fuel_call_hidden_rotate_water_arrive_slow_pyramid_wonder
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: render
-bip_39_word_dash_10: render-fence-feed-unhappy-kingdom-fox-diamond-police-swap-spider
-bip_39_word_dash_11: render-fence-feed-unhappy-kingdom-fox-diamond-police-swap-spider-today
 bip_39_word_dash_12: render-fence-feed-unhappy-kingdom-fox-diamond-police-swap-spider-today-asset
 bip_39_word_dash_2: render-fence
 bip_39_word_dash_3: render-fence-feed
-bip_39_word_dash_4: render-fence-feed-unhappy
-bip_39_word_dash_5: render-fence-feed-unhappy-kingdom
-bip_39_word_dash_6: render-fence-feed-unhappy-kingdom-fox
-bip_39_word_dash_7: render-fence-feed-unhappy-kingdom-fox-diamond
-bip_39_word_dash_8: render-fence-feed-unhappy-kingdom-fox-diamond-police
-bip_39_word_dash_9: render-fence-feed-unhappy-kingdom-fox-diamond-police-swap
-bip_39_word_new_br_1: render
-bip_39_word_new_br_10: render<br>fence<br>feed<br>unhappy<br>kingdom<br>fox<br>diamond<br>police<br>swap<br>spider
-bip_39_word_new_br_11: render<br>fence<br>feed<br>unhappy<br>kingdom<br>fox<br>diamond<br>police<br>swap<br>spider<br>today
 bip_39_word_new_br_12: render<br>fence<br>feed<br>unhappy<br>kingdom<br>fox<br>diamond<br>police<br>swap<br>spider<br>today<br>asset
 bip_39_word_new_br_2: render<br>fence
 bip_39_word_new_br_3: render<br>fence<br>feed
-bip_39_word_new_br_4: render<br>fence<br>feed<br>unhappy
-bip_39_word_new_br_5: render<br>fence<br>feed<br>unhappy<br>kingdom
-bip_39_word_new_br_6: render<br>fence<br>feed<br>unhappy<br>kingdom<br>fox
-bip_39_word_new_br_7: render<br>fence<br>feed<br>unhappy<br>kingdom<br>fox<br>diamond
-bip_39_word_new_br_8: render<br>fence<br>feed<br>unhappy<br>kingdom<br>fox<br>diamond<br>police
-bip_39_word_new_br_9: render<br>fence<br>feed<br>unhappy<br>kingdom<br>fox<br>diamond<br>police<br>swap
-bip_39_word_new_line_1: render
-bip_39_word_new_line_10: 'render
-
-  fence
-
-  feed
-
-  unhappy
-
-  kingdom
-
-  fox
-
-  diamond
-
-  police
-
-  swap
-
-  spider'
-bip_39_word_new_line_11: 'render
-
-  fence
-
-  feed
-
-  unhappy
-
-  kingdom
-
-  fox
-
-  diamond
-
-  police
-
-  swap
-
-  spider
-
-  today'
 bip_39_word_new_line_12: 'render
 
   fence
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'render
   fence
 
   feed'
-bip_39_word_new_line_4: 'render
-
-  fence
-
-  feed
-
-  unhappy'
-bip_39_word_new_line_5: 'render
-
-  fence
-
-  feed
-
-  unhappy
-
-  kingdom'
-bip_39_word_new_line_6: 'render
-
-  fence
-
-  feed
-
-  unhappy
-
-  kingdom
-
-  fox'
-bip_39_word_new_line_7: 'render
-
-  fence
-
-  feed
-
-  unhappy
-
-  kingdom
-
-  fox
-
-  diamond'
-bip_39_word_new_line_8: 'render
-
-  fence
-
-  feed
-
-  unhappy
-
-  kingdom
-
-  fox
-
-  diamond
-
-  police'
-bip_39_word_new_line_9: 'render
-
-  fence
-
-  feed
-
-  unhappy
-
-  kingdom
-
-  fox
-
-  diamond
-
-  police
-
-  swap'
-bip_39_word_no_space_1: render
-bip_39_word_no_space_10: renderfencefeedunhappykingdomfoxdiamondpoliceswapspider
-bip_39_word_no_space_11: renderfencefeedunhappykingdomfoxdiamondpoliceswapspidertoday
 bip_39_word_no_space_12: renderfencefeedunhappykingdomfoxdiamondpoliceswapspidertodayasset
 bip_39_word_no_space_2: renderfence
 bip_39_word_no_space_3: renderfencefeed
-bip_39_word_no_space_4: renderfencefeedunhappy
-bip_39_word_no_space_5: renderfencefeedunhappykingdom
-bip_39_word_no_space_6: renderfencefeedunhappykingdomfox
-bip_39_word_no_space_7: renderfencefeedunhappykingdomfoxdiamond
-bip_39_word_no_space_8: renderfencefeedunhappykingdomfoxdiamondpolice
-bip_39_word_no_space_9: renderfencefeedunhappykingdomfoxdiamondpoliceswap
-bip_39_word_space_0:
-- render
-- fence
-- feed
-- unhappy
-- kingdom
-- fox
-- diamond
-- police
-- swap
-- spider
-- today
-- asset
-bip_39_word_space_1: render
-bip_39_word_space_10: render fence feed unhappy kingdom fox diamond police swap spider
-bip_39_word_space_11: render fence feed unhappy kingdom fox diamond police swap spider
-  today
 bip_39_word_space_12: render fence feed unhappy kingdom fox diamond police swap spider
   today asset
 bip_39_word_space_2: render fence
 bip_39_word_space_3: render fence feed
-bip_39_word_space_4: render fence feed unhappy
-bip_39_word_space_5: render fence feed unhappy kingdom
-bip_39_word_space_6: render fence feed unhappy kingdom fox
-bip_39_word_space_7: render fence feed unhappy kingdom fox diamond
-bip_39_word_space_8: render fence feed unhappy kingdom fox diamond police
-bip_39_word_space_9: render fence feed unhappy kingdom fox diamond police swap
-bip_39_word_underscore_1: render
-bip_39_word_underscore_10: render_fence_feed_unhappy_kingdom_fox_diamond_police_swap_spider
-bip_39_word_underscore_11: render_fence_feed_unhappy_kingdom_fox_diamond_police_swap_spider_today
 bip_39_word_underscore_12: render_fence_feed_unhappy_kingdom_fox_diamond_police_swap_spider_today_asset
 bip_39_word_underscore_2: render_fence
 bip_39_word_underscore_3: render_fence_feed
-bip_39_word_underscore_4: render_fence_feed_unhappy
-bip_39_word_underscore_5: render_fence_feed_unhappy_kingdom
-bip_39_word_underscore_6: render_fence_feed_unhappy_kingdom_fox
-bip_39_word_underscore_7: render_fence_feed_unhappy_kingdom_fox_diamond
-bip_39_word_underscore_8: render_fence_feed_unhappy_kingdom_fox_diamond_police
-bip_39_word_underscore_9: render_fence_feed_unhappy_kingdom_fox_diamond_police_swap
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: logic
-bip_39_word_dash_10: logic-ancient-early-fuel-also-chair-announce-surround-tennis-million
-bip_39_word_dash_11: logic-ancient-early-fuel-also-chair-announce-surround-tennis-million-bring
 bip_39_word_dash_12: logic-ancient-early-fuel-also-chair-announce-surround-tennis-million-bring-ask
 bip_39_word_dash_2: logic-ancient
 bip_39_word_dash_3: logic-ancient-early
-bip_39_word_dash_4: logic-ancient-early-fuel
-bip_39_word_dash_5: logic-ancient-early-fuel-also
-bip_39_word_dash_6: logic-ancient-early-fuel-also-chair
-bip_39_word_dash_7: logic-ancient-early-fuel-also-chair-announce
-bip_39_word_dash_8: logic-ancient-early-fuel-also-chair-announce-surround
-bip_39_word_dash_9: logic-ancient-early-fuel-also-chair-announce-surround-tennis
-bip_39_word_new_br_1: logic
-bip_39_word_new_br_10: logic<br>ancient<br>early<br>fuel<br>also<br>chair<br>announce<br>surround<br>tennis<br>million
-bip_39_word_new_br_11: logic<br>ancient<br>early<br>fuel<br>also<br>chair<br>announce<br>surround<br>tennis<br>million<br>bring
 bip_39_word_new_br_12: logic<br>ancient<br>early<br>fuel<br>also<br>chair<br>announce<br>surround<br>tennis<br>million<br>bring<br>ask
 bip_39_word_new_br_2: logic<br>ancient
 bip_39_word_new_br_3: logic<br>ancient<br>early
-bip_39_word_new_br_4: logic<br>ancient<br>early<br>fuel
-bip_39_word_new_br_5: logic<br>ancient<br>early<br>fuel<br>also
-bip_39_word_new_br_6: logic<br>ancient<br>early<br>fuel<br>also<br>chair
-bip_39_word_new_br_7: logic<br>ancient<br>early<br>fuel<br>also<br>chair<br>announce
-bip_39_word_new_br_8: logic<br>ancient<br>early<br>fuel<br>also<br>chair<br>announce<br>surround
-bip_39_word_new_br_9: logic<br>ancient<br>early<br>fuel<br>also<br>chair<br>announce<br>surround<br>tennis
-bip_39_word_new_line_1: logic
-bip_39_word_new_line_10: 'logic
-
-  ancient
-
-  early
-
-  fuel
-
-  also
-
-  chair
-
-  announce
-
-  surround
-
-  tennis
-
-  million'
-bip_39_word_new_line_11: 'logic
-
-  ancient
-
-  early
-
-  fuel
-
-  also
-
-  chair
-
-  announce
-
-  surround
-
-  tennis
-
-  million
-
-  bring'
 bip_39_word_new_line_12: 'logic
 
   ancient
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'logic
   ancient
 
   early'
-bip_39_word_new_line_4: 'logic
-
-  ancient
-
-  early
-
-  fuel'
-bip_39_word_new_line_5: 'logic
-
-  ancient
-
-  early
-
-  fuel
-
-  also'
-bip_39_word_new_line_6: 'logic
-
-  ancient
-
-  early
-
-  fuel
-
-  also
-
-  chair'
-bip_39_word_new_line_7: 'logic
-
-  ancient
-
-  early
-
-  fuel
-
-  also
-
-  chair
-
-  announce'
-bip_39_word_new_line_8: 'logic
-
-  ancient
-
-  early
-
-  fuel
-
-  also
-
-  chair
-
-  announce
-
-  surround'
-bip_39_word_new_line_9: 'logic
-
-  ancient
-
-  early
-
-  fuel
-
-  also
-
-  chair
-
-  announce
-
-  surround
-
-  tennis'
-bip_39_word_no_space_1: logic
-bip_39_word_no_space_10: logicancientearlyfuelalsochairannouncesurroundtennismillion
-bip_39_word_no_space_11: logicancientearlyfuelalsochairannouncesurroundtennismillionbring
 bip_39_word_no_space_12: logicancientearlyfuelalsochairannouncesurroundtennismillionbringask
 bip_39_word_no_space_2: logicancient
 bip_39_word_no_space_3: logicancientearly
-bip_39_word_no_space_4: logicancientearlyfuel
-bip_39_word_no_space_5: logicancientearlyfuelalso
-bip_39_word_no_space_6: logicancientearlyfuelalsochair
-bip_39_word_no_space_7: logicancientearlyfuelalsochairannounce
-bip_39_word_no_space_8: logicancientearlyfuelalsochairannouncesurround
-bip_39_word_no_space_9: logicancientearlyfuelalsochairannouncesurroundtennis
-bip_39_word_space_0:
-- logic
-- ancient
-- early
-- fuel
-- also
-- chair
-- announce
-- surround
-- tennis
-- million
-- bring
-- ask
-bip_39_word_space_1: logic
-bip_39_word_space_10: logic ancient early fuel also chair announce surround tennis
-  million
-bip_39_word_space_11: logic ancient early fuel also chair announce surround tennis
-  million bring
 bip_39_word_space_12: logic ancient early fuel also chair announce surround tennis
   million bring ask
 bip_39_word_space_2: logic ancient
 bip_39_word_space_3: logic ancient early
-bip_39_word_space_4: logic ancient early fuel
-bip_39_word_space_5: logic ancient early fuel also
-bip_39_word_space_6: logic ancient early fuel also chair
-bip_39_word_space_7: logic ancient early fuel also chair announce
-bip_39_word_space_8: logic ancient early fuel also chair announce surround
-bip_39_word_space_9: logic ancient early fuel also chair announce surround tennis
-bip_39_word_underscore_1: logic
-bip_39_word_underscore_10: logic_ancient_early_fuel_also_chair_announce_surround_tennis_million
-bip_39_word_underscore_11: logic_ancient_early_fuel_also_chair_announce_surround_tennis_million_bring
 bip_39_word_underscore_12: logic_ancient_early_fuel_also_chair_announce_surround_tennis_million_bring_ask
 bip_39_word_underscore_2: logic_ancient
 bip_39_word_underscore_3: logic_ancient_early
-bip_39_word_underscore_4: logic_ancient_early_fuel
-bip_39_word_underscore_5: logic_ancient_early_fuel_also
-bip_39_word_underscore_6: logic_ancient_early_fuel_also_chair
-bip_39_word_underscore_7: logic_ancient_early_fuel_also_chair_announce
-bip_39_word_underscore_8: logic_ancient_early_fuel_also_chair_announce_surround
-bip_39_word_underscore_9: logic_ancient_early_fuel_also_chair_announce_surround_tennis
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

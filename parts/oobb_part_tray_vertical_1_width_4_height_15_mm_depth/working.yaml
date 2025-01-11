@@ -1,68 +1,9 @@
-bip_39_word_dash_1: decorate
-bip_39_word_dash_10: decorate-pear-drink-cloud-differ-erupt-limb-boost-result-pepper
-bip_39_word_dash_11: decorate-pear-drink-cloud-differ-erupt-limb-boost-result-pepper-reward
 bip_39_word_dash_12: decorate-pear-drink-cloud-differ-erupt-limb-boost-result-pepper-reward-annual
 bip_39_word_dash_2: decorate-pear
 bip_39_word_dash_3: decorate-pear-drink
-bip_39_word_dash_4: decorate-pear-drink-cloud
-bip_39_word_dash_5: decorate-pear-drink-cloud-differ
-bip_39_word_dash_6: decorate-pear-drink-cloud-differ-erupt
-bip_39_word_dash_7: decorate-pear-drink-cloud-differ-erupt-limb
-bip_39_word_dash_8: decorate-pear-drink-cloud-differ-erupt-limb-boost
-bip_39_word_dash_9: decorate-pear-drink-cloud-differ-erupt-limb-boost-result
-bip_39_word_new_br_1: decorate
-bip_39_word_new_br_10: decorate<br>pear<br>drink<br>cloud<br>differ<br>erupt<br>limb<br>boost<br>result<br>pepper
-bip_39_word_new_br_11: decorate<br>pear<br>drink<br>cloud<br>differ<br>erupt<br>limb<br>boost<br>result<br>pepper<br>reward
 bip_39_word_new_br_12: decorate<br>pear<br>drink<br>cloud<br>differ<br>erupt<br>limb<br>boost<br>result<br>pepper<br>reward<br>annual
 bip_39_word_new_br_2: decorate<br>pear
 bip_39_word_new_br_3: decorate<br>pear<br>drink
-bip_39_word_new_br_4: decorate<br>pear<br>drink<br>cloud
-bip_39_word_new_br_5: decorate<br>pear<br>drink<br>cloud<br>differ
-bip_39_word_new_br_6: decorate<br>pear<br>drink<br>cloud<br>differ<br>erupt
-bip_39_word_new_br_7: decorate<br>pear<br>drink<br>cloud<br>differ<br>erupt<br>limb
-bip_39_word_new_br_8: decorate<br>pear<br>drink<br>cloud<br>differ<br>erupt<br>limb<br>boost
-bip_39_word_new_br_9: decorate<br>pear<br>drink<br>cloud<br>differ<br>erupt<br>limb<br>boost<br>result
-bip_39_word_new_line_1: decorate
-bip_39_word_new_line_10: 'decorate
-
-  pear
-
-  drink
-
-  cloud
-
-  differ
-
-  erupt
-
-  limb
-
-  boost
-
-  result
-
-  pepper'
-bip_39_word_new_line_11: 'decorate
-
-  pear
-
-  drink
-
-  cloud
-
-  differ
-
-  erupt
-
-  limb
-
-  boost
-
-  result
-
-  pepper
-
-  reward'
 bip_39_word_new_line_12: 'decorate
 
   pear
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'decorate
   pear
 
   drink'
-bip_39_word_new_line_4: 'decorate
-
-  pear
-
-  drink
-
-  cloud'
-bip_39_word_new_line_5: 'decorate
-
-  pear
-
-  drink
-
-  cloud
-
-  differ'
-bip_39_word_new_line_6: 'decorate
-
-  pear
-
-  drink
-
-  cloud
-
-  differ
-
-  erupt'
-bip_39_word_new_line_7: 'decorate
-
-  pear
-
-  drink
-
-  cloud
-
-  differ
-
-  erupt
-
-  limb'
-bip_39_word_new_line_8: 'decorate
-
-  pear
-
-  drink
-
-  cloud
-
-  differ
-
-  erupt
-
-  limb
-
-  boost'
-bip_39_word_new_line_9: 'decorate
-
-  pear
-
-  drink
-
-  cloud
-
-  differ
-
-  erupt
-
-  limb
-
-  boost
-
-  result'
-bip_39_word_no_space_1: decorate
-bip_39_word_no_space_10: decoratepeardrinkclouddiffereruptlimbboostresultpepper
-bip_39_word_no_space_11: decoratepeardrinkclouddiffereruptlimbboostresultpepperreward
 bip_39_word_no_space_12: decoratepeardrinkclouddiffereruptlimbboostresultpepperrewardannual
 bip_39_word_no_space_2: decoratepear
 bip_39_word_no_space_3: decoratepeardrink
-bip_39_word_no_space_4: decoratepeardrinkcloud
-bip_39_word_no_space_5: decoratepeardrinkclouddiffer
-bip_39_word_no_space_6: decoratepeardrinkclouddiffererupt
-bip_39_word_no_space_7: decoratepeardrinkclouddiffereruptlimb
-bip_39_word_no_space_8: decoratepeardrinkclouddiffereruptlimbboost
-bip_39_word_no_space_9: decoratepeardrinkclouddiffereruptlimbboostresult
-bip_39_word_space_0:
-- decorate
-- pear
-- drink
-- cloud
-- differ
-- erupt
-- limb
-- boost
-- result
-- pepper
-- reward
-- annual
-bip_39_word_space_1: decorate
-bip_39_word_space_10: decorate pear drink cloud differ erupt limb boost result pepper
-bip_39_word_space_11: decorate pear drink cloud differ erupt limb boost result pepper
-  reward
 bip_39_word_space_12: decorate pear drink cloud differ erupt limb boost result pepper
   reward annual
 bip_39_word_space_2: decorate pear
 bip_39_word_space_3: decorate pear drink
-bip_39_word_space_4: decorate pear drink cloud
-bip_39_word_space_5: decorate pear drink cloud differ
-bip_39_word_space_6: decorate pear drink cloud differ erupt
-bip_39_word_space_7: decorate pear drink cloud differ erupt limb
-bip_39_word_space_8: decorate pear drink cloud differ erupt limb boost
-bip_39_word_space_9: decorate pear drink cloud differ erupt limb boost result
-bip_39_word_underscore_1: decorate
-bip_39_word_underscore_10: decorate_pear_drink_cloud_differ_erupt_limb_boost_result_pepper
-bip_39_word_underscore_11: decorate_pear_drink_cloud_differ_erupt_limb_boost_result_pepper_reward
 bip_39_word_underscore_12: decorate_pear_drink_cloud_differ_erupt_limb_boost_result_pepper_reward_annual
 bip_39_word_underscore_2: decorate_pear
 bip_39_word_underscore_3: decorate_pear_drink
-bip_39_word_underscore_4: decorate_pear_drink_cloud
-bip_39_word_underscore_5: decorate_pear_drink_cloud_differ
-bip_39_word_underscore_6: decorate_pear_drink_cloud_differ_erupt
-bip_39_word_underscore_7: decorate_pear_drink_cloud_differ_erupt_limb
-bip_39_word_underscore_8: decorate_pear_drink_cloud_differ_erupt_limb_boost
-bip_39_word_underscore_9: decorate_pear_drink_cloud_differ_erupt_limb_boost_result
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

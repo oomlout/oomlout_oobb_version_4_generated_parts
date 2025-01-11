@@ -1,68 +1,9 @@
-bip_39_word_dash_1: arm
-bip_39_word_dash_10: arm-hurt-purity-zero-proof-awkward-end-soldier-kind-merge
-bip_39_word_dash_11: arm-hurt-purity-zero-proof-awkward-end-soldier-kind-merge-blast
 bip_39_word_dash_12: arm-hurt-purity-zero-proof-awkward-end-soldier-kind-merge-blast-autumn
 bip_39_word_dash_2: arm-hurt
 bip_39_word_dash_3: arm-hurt-purity
-bip_39_word_dash_4: arm-hurt-purity-zero
-bip_39_word_dash_5: arm-hurt-purity-zero-proof
-bip_39_word_dash_6: arm-hurt-purity-zero-proof-awkward
-bip_39_word_dash_7: arm-hurt-purity-zero-proof-awkward-end
-bip_39_word_dash_8: arm-hurt-purity-zero-proof-awkward-end-soldier
-bip_39_word_dash_9: arm-hurt-purity-zero-proof-awkward-end-soldier-kind
-bip_39_word_new_br_1: arm
-bip_39_word_new_br_10: arm<br>hurt<br>purity<br>zero<br>proof<br>awkward<br>end<br>soldier<br>kind<br>merge
-bip_39_word_new_br_11: arm<br>hurt<br>purity<br>zero<br>proof<br>awkward<br>end<br>soldier<br>kind<br>merge<br>blast
 bip_39_word_new_br_12: arm<br>hurt<br>purity<br>zero<br>proof<br>awkward<br>end<br>soldier<br>kind<br>merge<br>blast<br>autumn
 bip_39_word_new_br_2: arm<br>hurt
 bip_39_word_new_br_3: arm<br>hurt<br>purity
-bip_39_word_new_br_4: arm<br>hurt<br>purity<br>zero
-bip_39_word_new_br_5: arm<br>hurt<br>purity<br>zero<br>proof
-bip_39_word_new_br_6: arm<br>hurt<br>purity<br>zero<br>proof<br>awkward
-bip_39_word_new_br_7: arm<br>hurt<br>purity<br>zero<br>proof<br>awkward<br>end
-bip_39_word_new_br_8: arm<br>hurt<br>purity<br>zero<br>proof<br>awkward<br>end<br>soldier
-bip_39_word_new_br_9: arm<br>hurt<br>purity<br>zero<br>proof<br>awkward<br>end<br>soldier<br>kind
-bip_39_word_new_line_1: arm
-bip_39_word_new_line_10: 'arm
-
-  hurt
-
-  purity
-
-  zero
-
-  proof
-
-  awkward
-
-  end
-
-  soldier
-
-  kind
-
-  merge'
-bip_39_word_new_line_11: 'arm
-
-  hurt
-
-  purity
-
-  zero
-
-  proof
-
-  awkward
-
-  end
-
-  soldier
-
-  kind
-
-  merge
-
-  blast'
 bip_39_word_new_line_12: 'arm
 
   hurt
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'arm
   hurt
 
   purity'
-bip_39_word_new_line_4: 'arm
-
-  hurt
-
-  purity
-
-  zero'
-bip_39_word_new_line_5: 'arm
-
-  hurt
-
-  purity
-
-  zero
-
-  proof'
-bip_39_word_new_line_6: 'arm
-
-  hurt
-
-  purity
-
-  zero
-
-  proof
-
-  awkward'
-bip_39_word_new_line_7: 'arm
-
-  hurt
-
-  purity
-
-  zero
-
-  proof
-
-  awkward
-
-  end'
-bip_39_word_new_line_8: 'arm
-
-  hurt
-
-  purity
-
-  zero
-
-  proof
-
-  awkward
-
-  end
-
-  soldier'
-bip_39_word_new_line_9: 'arm
-
-  hurt
-
-  purity
-
-  zero
-
-  proof
-
-  awkward
-
-  end
-
-  soldier
-
-  kind'
-bip_39_word_no_space_1: arm
-bip_39_word_no_space_10: armhurtpurityzeroproofawkwardendsoldierkindmerge
-bip_39_word_no_space_11: armhurtpurityzeroproofawkwardendsoldierkindmergeblast
 bip_39_word_no_space_12: armhurtpurityzeroproofawkwardendsoldierkindmergeblastautumn
 bip_39_word_no_space_2: armhurt
 bip_39_word_no_space_3: armhurtpurity
-bip_39_word_no_space_4: armhurtpurityzero
-bip_39_word_no_space_5: armhurtpurityzeroproof
-bip_39_word_no_space_6: armhurtpurityzeroproofawkward
-bip_39_word_no_space_7: armhurtpurityzeroproofawkwardend
-bip_39_word_no_space_8: armhurtpurityzeroproofawkwardendsoldier
-bip_39_word_no_space_9: armhurtpurityzeroproofawkwardendsoldierkind
-bip_39_word_space_0:
-- arm
-- hurt
-- purity
-- zero
-- proof
-- awkward
-- end
-- soldier
-- kind
-- merge
-- blast
-- autumn
-bip_39_word_space_1: arm
-bip_39_word_space_10: arm hurt purity zero proof awkward end soldier kind merge
-bip_39_word_space_11: arm hurt purity zero proof awkward end soldier kind merge blast
 bip_39_word_space_12: arm hurt purity zero proof awkward end soldier kind merge blast
   autumn
 bip_39_word_space_2: arm hurt
 bip_39_word_space_3: arm hurt purity
-bip_39_word_space_4: arm hurt purity zero
-bip_39_word_space_5: arm hurt purity zero proof
-bip_39_word_space_6: arm hurt purity zero proof awkward
-bip_39_word_space_7: arm hurt purity zero proof awkward end
-bip_39_word_space_8: arm hurt purity zero proof awkward end soldier
-bip_39_word_space_9: arm hurt purity zero proof awkward end soldier kind
-bip_39_word_underscore_1: arm
-bip_39_word_underscore_10: arm_hurt_purity_zero_proof_awkward_end_soldier_kind_merge
-bip_39_word_underscore_11: arm_hurt_purity_zero_proof_awkward_end_soldier_kind_merge_blast
 bip_39_word_underscore_12: arm_hurt_purity_zero_proof_awkward_end_soldier_kind_merge_blast_autumn
 bip_39_word_underscore_2: arm_hurt
 bip_39_word_underscore_3: arm_hurt_purity
-bip_39_word_underscore_4: arm_hurt_purity_zero
-bip_39_word_underscore_5: arm_hurt_purity_zero_proof
-bip_39_word_underscore_6: arm_hurt_purity_zero_proof_awkward
-bip_39_word_underscore_7: arm_hurt_purity_zero_proof_awkward_end
-bip_39_word_underscore_8: arm_hurt_purity_zero_proof_awkward_end_soldier
-bip_39_word_underscore_9: arm_hurt_purity_zero_proof_awkward_end_soldier_kind
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

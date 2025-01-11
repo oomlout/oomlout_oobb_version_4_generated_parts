@@ -1,68 +1,9 @@
-bip_39_word_dash_1: escape
-bip_39_word_dash_10: escape-mutual-lobster-honey-frost-quality-curve-nice-pass-coast
-bip_39_word_dash_11: escape-mutual-lobster-honey-frost-quality-curve-nice-pass-coast-birth
 bip_39_word_dash_12: escape-mutual-lobster-honey-frost-quality-curve-nice-pass-coast-birth-arrange
 bip_39_word_dash_2: escape-mutual
 bip_39_word_dash_3: escape-mutual-lobster
-bip_39_word_dash_4: escape-mutual-lobster-honey
-bip_39_word_dash_5: escape-mutual-lobster-honey-frost
-bip_39_word_dash_6: escape-mutual-lobster-honey-frost-quality
-bip_39_word_dash_7: escape-mutual-lobster-honey-frost-quality-curve
-bip_39_word_dash_8: escape-mutual-lobster-honey-frost-quality-curve-nice
-bip_39_word_dash_9: escape-mutual-lobster-honey-frost-quality-curve-nice-pass
-bip_39_word_new_br_1: escape
-bip_39_word_new_br_10: escape<br>mutual<br>lobster<br>honey<br>frost<br>quality<br>curve<br>nice<br>pass<br>coast
-bip_39_word_new_br_11: escape<br>mutual<br>lobster<br>honey<br>frost<br>quality<br>curve<br>nice<br>pass<br>coast<br>birth
 bip_39_word_new_br_12: escape<br>mutual<br>lobster<br>honey<br>frost<br>quality<br>curve<br>nice<br>pass<br>coast<br>birth<br>arrange
 bip_39_word_new_br_2: escape<br>mutual
 bip_39_word_new_br_3: escape<br>mutual<br>lobster
-bip_39_word_new_br_4: escape<br>mutual<br>lobster<br>honey
-bip_39_word_new_br_5: escape<br>mutual<br>lobster<br>honey<br>frost
-bip_39_word_new_br_6: escape<br>mutual<br>lobster<br>honey<br>frost<br>quality
-bip_39_word_new_br_7: escape<br>mutual<br>lobster<br>honey<br>frost<br>quality<br>curve
-bip_39_word_new_br_8: escape<br>mutual<br>lobster<br>honey<br>frost<br>quality<br>curve<br>nice
-bip_39_word_new_br_9: escape<br>mutual<br>lobster<br>honey<br>frost<br>quality<br>curve<br>nice<br>pass
-bip_39_word_new_line_1: escape
-bip_39_word_new_line_10: 'escape
-
-  mutual
-
-  lobster
-
-  honey
-
-  frost
-
-  quality
-
-  curve
-
-  nice
-
-  pass
-
-  coast'
-bip_39_word_new_line_11: 'escape
-
-  mutual
-
-  lobster
-
-  honey
-
-  frost
-
-  quality
-
-  curve
-
-  nice
-
-  pass
-
-  coast
-
-  birth'
 bip_39_word_new_line_12: 'escape
 
   mutual
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'escape
   mutual
 
   lobster'
-bip_39_word_new_line_4: 'escape
-
-  mutual
-
-  lobster
-
-  honey'
-bip_39_word_new_line_5: 'escape
-
-  mutual
-
-  lobster
-
-  honey
-
-  frost'
-bip_39_word_new_line_6: 'escape
-
-  mutual
-
-  lobster
-
-  honey
-
-  frost
-
-  quality'
-bip_39_word_new_line_7: 'escape
-
-  mutual
-
-  lobster
-
-  honey
-
-  frost
-
-  quality
-
-  curve'
-bip_39_word_new_line_8: 'escape
-
-  mutual
-
-  lobster
-
-  honey
-
-  frost
-
-  quality
-
-  curve
-
-  nice'
-bip_39_word_new_line_9: 'escape
-
-  mutual
-
-  lobster
-
-  honey
-
-  frost
-
-  quality
-
-  curve
-
-  nice
-
-  pass'
-bip_39_word_no_space_1: escape
-bip_39_word_no_space_10: escapemutuallobsterhoneyfrostqualitycurvenicepasscoast
-bip_39_word_no_space_11: escapemutuallobsterhoneyfrostqualitycurvenicepasscoastbirth
 bip_39_word_no_space_12: escapemutuallobsterhoneyfrostqualitycurvenicepasscoastbirtharrange
 bip_39_word_no_space_2: escapemutual
 bip_39_word_no_space_3: escapemutuallobster
-bip_39_word_no_space_4: escapemutuallobsterhoney
-bip_39_word_no_space_5: escapemutuallobsterhoneyfrost
-bip_39_word_no_space_6: escapemutuallobsterhoneyfrostquality
-bip_39_word_no_space_7: escapemutuallobsterhoneyfrostqualitycurve
-bip_39_word_no_space_8: escapemutuallobsterhoneyfrostqualitycurvenice
-bip_39_word_no_space_9: escapemutuallobsterhoneyfrostqualitycurvenicepass
-bip_39_word_space_0:
-- escape
-- mutual
-- lobster
-- honey
-- frost
-- quality
-- curve
-- nice
-- pass
-- coast
-- birth
-- arrange
-bip_39_word_space_1: escape
-bip_39_word_space_10: escape mutual lobster honey frost quality curve nice pass coast
-bip_39_word_space_11: escape mutual lobster honey frost quality curve nice pass coast
-  birth
 bip_39_word_space_12: escape mutual lobster honey frost quality curve nice pass coast
   birth arrange
 bip_39_word_space_2: escape mutual
 bip_39_word_space_3: escape mutual lobster
-bip_39_word_space_4: escape mutual lobster honey
-bip_39_word_space_5: escape mutual lobster honey frost
-bip_39_word_space_6: escape mutual lobster honey frost quality
-bip_39_word_space_7: escape mutual lobster honey frost quality curve
-bip_39_word_space_8: escape mutual lobster honey frost quality curve nice
-bip_39_word_space_9: escape mutual lobster honey frost quality curve nice pass
-bip_39_word_underscore_1: escape
-bip_39_word_underscore_10: escape_mutual_lobster_honey_frost_quality_curve_nice_pass_coast
-bip_39_word_underscore_11: escape_mutual_lobster_honey_frost_quality_curve_nice_pass_coast_birth
 bip_39_word_underscore_12: escape_mutual_lobster_honey_frost_quality_curve_nice_pass_coast_birth_arrange
 bip_39_word_underscore_2: escape_mutual
 bip_39_word_underscore_3: escape_mutual_lobster
-bip_39_word_underscore_4: escape_mutual_lobster_honey
-bip_39_word_underscore_5: escape_mutual_lobster_honey_frost
-bip_39_word_underscore_6: escape_mutual_lobster_honey_frost_quality
-bip_39_word_underscore_7: escape_mutual_lobster_honey_frost_quality_curve
-bip_39_word_underscore_8: escape_mutual_lobster_honey_frost_quality_curve_nice
-bip_39_word_underscore_9: escape_mutual_lobster_honey_frost_quality_curve_nice_pass
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: tiger
-bip_39_word_dash_10: tiger-panther-ship-zebra-pause-swamp-crash-hockey-skate-still
-bip_39_word_dash_11: tiger-panther-ship-zebra-pause-swamp-crash-hockey-skate-still-general
 bip_39_word_dash_12: tiger-panther-ship-zebra-pause-swamp-crash-hockey-skate-still-general-aerobic
 bip_39_word_dash_2: tiger-panther
 bip_39_word_dash_3: tiger-panther-ship
-bip_39_word_dash_4: tiger-panther-ship-zebra
-bip_39_word_dash_5: tiger-panther-ship-zebra-pause
-bip_39_word_dash_6: tiger-panther-ship-zebra-pause-swamp
-bip_39_word_dash_7: tiger-panther-ship-zebra-pause-swamp-crash
-bip_39_word_dash_8: tiger-panther-ship-zebra-pause-swamp-crash-hockey
-bip_39_word_dash_9: tiger-panther-ship-zebra-pause-swamp-crash-hockey-skate
-bip_39_word_new_br_1: tiger
-bip_39_word_new_br_10: tiger<br>panther<br>ship<br>zebra<br>pause<br>swamp<br>crash<br>hockey<br>skate<br>still
-bip_39_word_new_br_11: tiger<br>panther<br>ship<br>zebra<br>pause<br>swamp<br>crash<br>hockey<br>skate<br>still<br>general
 bip_39_word_new_br_12: tiger<br>panther<br>ship<br>zebra<br>pause<br>swamp<br>crash<br>hockey<br>skate<br>still<br>general<br>aerobic
 bip_39_word_new_br_2: tiger<br>panther
 bip_39_word_new_br_3: tiger<br>panther<br>ship
-bip_39_word_new_br_4: tiger<br>panther<br>ship<br>zebra
-bip_39_word_new_br_5: tiger<br>panther<br>ship<br>zebra<br>pause
-bip_39_word_new_br_6: tiger<br>panther<br>ship<br>zebra<br>pause<br>swamp
-bip_39_word_new_br_7: tiger<br>panther<br>ship<br>zebra<br>pause<br>swamp<br>crash
-bip_39_word_new_br_8: tiger<br>panther<br>ship<br>zebra<br>pause<br>swamp<br>crash<br>hockey
-bip_39_word_new_br_9: tiger<br>panther<br>ship<br>zebra<br>pause<br>swamp<br>crash<br>hockey<br>skate
-bip_39_word_new_line_1: tiger
-bip_39_word_new_line_10: 'tiger
-
-  panther
-
-  ship
-
-  zebra
-
-  pause
-
-  swamp
-
-  crash
-
-  hockey
-
-  skate
-
-  still'
-bip_39_word_new_line_11: 'tiger
-
-  panther
-
-  ship
-
-  zebra
-
-  pause
-
-  swamp
-
-  crash
-
-  hockey
-
-  skate
-
-  still
-
-  general'
 bip_39_word_new_line_12: 'tiger
 
   panther
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'tiger
   panther
 
   ship'
-bip_39_word_new_line_4: 'tiger
-
-  panther
-
-  ship
-
-  zebra'
-bip_39_word_new_line_5: 'tiger
-
-  panther
-
-  ship
-
-  zebra
-
-  pause'
-bip_39_word_new_line_6: 'tiger
-
-  panther
-
-  ship
-
-  zebra
-
-  pause
-
-  swamp'
-bip_39_word_new_line_7: 'tiger
-
-  panther
-
-  ship
-
-  zebra
-
-  pause
-
-  swamp
-
-  crash'
-bip_39_word_new_line_8: 'tiger
-
-  panther
-
-  ship
-
-  zebra
-
-  pause
-
-  swamp
-
-  crash
-
-  hockey'
-bip_39_word_new_line_9: 'tiger
-
-  panther
-
-  ship
-
-  zebra
-
-  pause
-
-  swamp
-
-  crash
-
-  hockey
-
-  skate'
-bip_39_word_no_space_1: tiger
-bip_39_word_no_space_10: tigerpanthershipzebrapauseswampcrashhockeyskatestill
-bip_39_word_no_space_11: tigerpanthershipzebrapauseswampcrashhockeyskatestillgeneral
 bip_39_word_no_space_12: tigerpanthershipzebrapauseswampcrashhockeyskatestillgeneralaerobic
 bip_39_word_no_space_2: tigerpanther
 bip_39_word_no_space_3: tigerpanthership
-bip_39_word_no_space_4: tigerpanthershipzebra
-bip_39_word_no_space_5: tigerpanthershipzebrapause
-bip_39_word_no_space_6: tigerpanthershipzebrapauseswamp
-bip_39_word_no_space_7: tigerpanthershipzebrapauseswampcrash
-bip_39_word_no_space_8: tigerpanthershipzebrapauseswampcrashhockey
-bip_39_word_no_space_9: tigerpanthershipzebrapauseswampcrashhockeyskate
-bip_39_word_space_0:
-- tiger
-- panther
-- ship
-- zebra
-- pause
-- swamp
-- crash
-- hockey
-- skate
-- still
-- general
-- aerobic
-bip_39_word_space_1: tiger
-bip_39_word_space_10: tiger panther ship zebra pause swamp crash hockey skate still
-bip_39_word_space_11: tiger panther ship zebra pause swamp crash hockey skate still
-  general
 bip_39_word_space_12: tiger panther ship zebra pause swamp crash hockey skate still
   general aerobic
 bip_39_word_space_2: tiger panther
 bip_39_word_space_3: tiger panther ship
-bip_39_word_space_4: tiger panther ship zebra
-bip_39_word_space_5: tiger panther ship zebra pause
-bip_39_word_space_6: tiger panther ship zebra pause swamp
-bip_39_word_space_7: tiger panther ship zebra pause swamp crash
-bip_39_word_space_8: tiger panther ship zebra pause swamp crash hockey
-bip_39_word_space_9: tiger panther ship zebra pause swamp crash hockey skate
-bip_39_word_underscore_1: tiger
-bip_39_word_underscore_10: tiger_panther_ship_zebra_pause_swamp_crash_hockey_skate_still
-bip_39_word_underscore_11: tiger_panther_ship_zebra_pause_swamp_crash_hockey_skate_still_general
 bip_39_word_underscore_12: tiger_panther_ship_zebra_pause_swamp_crash_hockey_skate_still_general_aerobic
 bip_39_word_underscore_2: tiger_panther
 bip_39_word_underscore_3: tiger_panther_ship
-bip_39_word_underscore_4: tiger_panther_ship_zebra
-bip_39_word_underscore_5: tiger_panther_ship_zebra_pause
-bip_39_word_underscore_6: tiger_panther_ship_zebra_pause_swamp
-bip_39_word_underscore_7: tiger_panther_ship_zebra_pause_swamp_crash
-bip_39_word_underscore_8: tiger_panther_ship_zebra_pause_swamp_crash_hockey
-bip_39_word_underscore_9: tiger_panther_ship_zebra_pause_swamp_crash_hockey_skate
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: airport
-bip_39_word_dash_10: airport-arrive-fortune-citizen-lake-gate-weekend-throw-include-spawn
-bip_39_word_dash_11: airport-arrive-fortune-citizen-lake-gate-weekend-throw-include-spawn-spatial
 bip_39_word_dash_12: airport-arrive-fortune-citizen-lake-gate-weekend-throw-include-spawn-spatial-assume
 bip_39_word_dash_2: airport-arrive
 bip_39_word_dash_3: airport-arrive-fortune
-bip_39_word_dash_4: airport-arrive-fortune-citizen
-bip_39_word_dash_5: airport-arrive-fortune-citizen-lake
-bip_39_word_dash_6: airport-arrive-fortune-citizen-lake-gate
-bip_39_word_dash_7: airport-arrive-fortune-citizen-lake-gate-weekend
-bip_39_word_dash_8: airport-arrive-fortune-citizen-lake-gate-weekend-throw
-bip_39_word_dash_9: airport-arrive-fortune-citizen-lake-gate-weekend-throw-include
-bip_39_word_new_br_1: airport
-bip_39_word_new_br_10: airport<br>arrive<br>fortune<br>citizen<br>lake<br>gate<br>weekend<br>throw<br>include<br>spawn
-bip_39_word_new_br_11: airport<br>arrive<br>fortune<br>citizen<br>lake<br>gate<br>weekend<br>throw<br>include<br>spawn<br>spatial
 bip_39_word_new_br_12: airport<br>arrive<br>fortune<br>citizen<br>lake<br>gate<br>weekend<br>throw<br>include<br>spawn<br>spatial<br>assume
 bip_39_word_new_br_2: airport<br>arrive
 bip_39_word_new_br_3: airport<br>arrive<br>fortune
-bip_39_word_new_br_4: airport<br>arrive<br>fortune<br>citizen
-bip_39_word_new_br_5: airport<br>arrive<br>fortune<br>citizen<br>lake
-bip_39_word_new_br_6: airport<br>arrive<br>fortune<br>citizen<br>lake<br>gate
-bip_39_word_new_br_7: airport<br>arrive<br>fortune<br>citizen<br>lake<br>gate<br>weekend
-bip_39_word_new_br_8: airport<br>arrive<br>fortune<br>citizen<br>lake<br>gate<br>weekend<br>throw
-bip_39_word_new_br_9: airport<br>arrive<br>fortune<br>citizen<br>lake<br>gate<br>weekend<br>throw<br>include
-bip_39_word_new_line_1: airport
-bip_39_word_new_line_10: 'airport
-
-  arrive
-
-  fortune
-
-  citizen
-
-  lake
-
-  gate
-
-  weekend
-
-  throw
-
-  include
-
-  spawn'
-bip_39_word_new_line_11: 'airport
-
-  arrive
-
-  fortune
-
-  citizen
-
-  lake
-
-  gate
-
-  weekend
-
-  throw
-
-  include
-
-  spawn
-
-  spatial'
 bip_39_word_new_line_12: 'airport
 
   arrive
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'airport
   arrive
 
   fortune'
-bip_39_word_new_line_4: 'airport
-
-  arrive
-
-  fortune
-
-  citizen'
-bip_39_word_new_line_5: 'airport
-
-  arrive
-
-  fortune
-
-  citizen
-
-  lake'
-bip_39_word_new_line_6: 'airport
-
-  arrive
-
-  fortune
-
-  citizen
-
-  lake
-
-  gate'
-bip_39_word_new_line_7: 'airport
-
-  arrive
-
-  fortune
-
-  citizen
-
-  lake
-
-  gate
-
-  weekend'
-bip_39_word_new_line_8: 'airport
-
-  arrive
-
-  fortune
-
-  citizen
-
-  lake
-
-  gate
-
-  weekend
-
-  throw'
-bip_39_word_new_line_9: 'airport
-
-  arrive
-
-  fortune
-
-  citizen
-
-  lake
-
-  gate
-
-  weekend
-
-  throw
-
-  include'
-bip_39_word_no_space_1: airport
-bip_39_word_no_space_10: airportarrivefortunecitizenlakegateweekendthrowincludespawn
-bip_39_word_no_space_11: airportarrivefortunecitizenlakegateweekendthrowincludespawnspatial
 bip_39_word_no_space_12: airportarrivefortunecitizenlakegateweekendthrowincludespawnspatialassume
 bip_39_word_no_space_2: airportarrive
 bip_39_word_no_space_3: airportarrivefortune
-bip_39_word_no_space_4: airportarrivefortunecitizen
-bip_39_word_no_space_5: airportarrivefortunecitizenlake
-bip_39_word_no_space_6: airportarrivefortunecitizenlakegate
-bip_39_word_no_space_7: airportarrivefortunecitizenlakegateweekend
-bip_39_word_no_space_8: airportarrivefortunecitizenlakegateweekendthrow
-bip_39_word_no_space_9: airportarrivefortunecitizenlakegateweekendthrowinclude
-bip_39_word_space_0:
-- airport
-- arrive
-- fortune
-- citizen
-- lake
-- gate
-- weekend
-- throw
-- include
-- spawn
-- spatial
-- assume
-bip_39_word_space_1: airport
-bip_39_word_space_10: airport arrive fortune citizen lake gate weekend throw include
-  spawn
-bip_39_word_space_11: airport arrive fortune citizen lake gate weekend throw include
-  spawn spatial
 bip_39_word_space_12: airport arrive fortune citizen lake gate weekend throw include
   spawn spatial assume
 bip_39_word_space_2: airport arrive
 bip_39_word_space_3: airport arrive fortune
-bip_39_word_space_4: airport arrive fortune citizen
-bip_39_word_space_5: airport arrive fortune citizen lake
-bip_39_word_space_6: airport arrive fortune citizen lake gate
-bip_39_word_space_7: airport arrive fortune citizen lake gate weekend
-bip_39_word_space_8: airport arrive fortune citizen lake gate weekend throw
-bip_39_word_space_9: airport arrive fortune citizen lake gate weekend throw include
-bip_39_word_underscore_1: airport
-bip_39_word_underscore_10: airport_arrive_fortune_citizen_lake_gate_weekend_throw_include_spawn
-bip_39_word_underscore_11: airport_arrive_fortune_citizen_lake_gate_weekend_throw_include_spawn_spatial
 bip_39_word_underscore_12: airport_arrive_fortune_citizen_lake_gate_weekend_throw_include_spawn_spatial_assume
 bip_39_word_underscore_2: airport_arrive
 bip_39_word_underscore_3: airport_arrive_fortune
-bip_39_word_underscore_4: airport_arrive_fortune_citizen
-bip_39_word_underscore_5: airport_arrive_fortune_citizen_lake
-bip_39_word_underscore_6: airport_arrive_fortune_citizen_lake_gate
-bip_39_word_underscore_7: airport_arrive_fortune_citizen_lake_gate_weekend
-bip_39_word_underscore_8: airport_arrive_fortune_citizen_lake_gate_weekend_throw
-bip_39_word_underscore_9: airport_arrive_fortune_citizen_lake_gate_weekend_throw_include
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

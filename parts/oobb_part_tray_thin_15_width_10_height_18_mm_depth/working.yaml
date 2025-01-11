@@ -1,68 +1,9 @@
-bip_39_word_dash_1: tape
-bip_39_word_dash_10: tape-clock-obey-view-hat-fork-keen-winter-grit-sheriff
-bip_39_word_dash_11: tape-clock-obey-view-hat-fork-keen-winter-grit-sheriff-arm
 bip_39_word_dash_12: tape-clock-obey-view-hat-fork-keen-winter-grit-sheriff-arm-absent
 bip_39_word_dash_2: tape-clock
 bip_39_word_dash_3: tape-clock-obey
-bip_39_word_dash_4: tape-clock-obey-view
-bip_39_word_dash_5: tape-clock-obey-view-hat
-bip_39_word_dash_6: tape-clock-obey-view-hat-fork
-bip_39_word_dash_7: tape-clock-obey-view-hat-fork-keen
-bip_39_word_dash_8: tape-clock-obey-view-hat-fork-keen-winter
-bip_39_word_dash_9: tape-clock-obey-view-hat-fork-keen-winter-grit
-bip_39_word_new_br_1: tape
-bip_39_word_new_br_10: tape<br>clock<br>obey<br>view<br>hat<br>fork<br>keen<br>winter<br>grit<br>sheriff
-bip_39_word_new_br_11: tape<br>clock<br>obey<br>view<br>hat<br>fork<br>keen<br>winter<br>grit<br>sheriff<br>arm
 bip_39_word_new_br_12: tape<br>clock<br>obey<br>view<br>hat<br>fork<br>keen<br>winter<br>grit<br>sheriff<br>arm<br>absent
 bip_39_word_new_br_2: tape<br>clock
 bip_39_word_new_br_3: tape<br>clock<br>obey
-bip_39_word_new_br_4: tape<br>clock<br>obey<br>view
-bip_39_word_new_br_5: tape<br>clock<br>obey<br>view<br>hat
-bip_39_word_new_br_6: tape<br>clock<br>obey<br>view<br>hat<br>fork
-bip_39_word_new_br_7: tape<br>clock<br>obey<br>view<br>hat<br>fork<br>keen
-bip_39_word_new_br_8: tape<br>clock<br>obey<br>view<br>hat<br>fork<br>keen<br>winter
-bip_39_word_new_br_9: tape<br>clock<br>obey<br>view<br>hat<br>fork<br>keen<br>winter<br>grit
-bip_39_word_new_line_1: tape
-bip_39_word_new_line_10: 'tape
-
-  clock
-
-  obey
-
-  view
-
-  hat
-
-  fork
-
-  keen
-
-  winter
-
-  grit
-
-  sheriff'
-bip_39_word_new_line_11: 'tape
-
-  clock
-
-  obey
-
-  view
-
-  hat
-
-  fork
-
-  keen
-
-  winter
-
-  grit
-
-  sheriff
-
-  arm'
 bip_39_word_new_line_12: 'tape
 
   clock
@@ -94,127 +35,15 @@ bip_39_word_new_line_3: 'tape
   clock
 
   obey'
-bip_39_word_new_line_4: 'tape
-
-  clock
-
-  obey
-
-  view'
-bip_39_word_new_line_5: 'tape
-
-  clock
-
-  obey
-
-  view
-
-  hat'
-bip_39_word_new_line_6: 'tape
-
-  clock
-
-  obey
-
-  view
-
-  hat
-
-  fork'
-bip_39_word_new_line_7: 'tape
-
-  clock
-
-  obey
-
-  view
-
-  hat
-
-  fork
-
-  keen'
-bip_39_word_new_line_8: 'tape
-
-  clock
-
-  obey
-
-  view
-
-  hat
-
-  fork
-
-  keen
-
-  winter'
-bip_39_word_new_line_9: 'tape
-
-  clock
-
-  obey
-
-  view
-
-  hat
-
-  fork
-
-  keen
-
-  winter
-
-  grit'
-bip_39_word_no_space_1: tape
-bip_39_word_no_space_10: tapeclockobeyviewhatforkkeenwintergritsheriff
-bip_39_word_no_space_11: tapeclockobeyviewhatforkkeenwintergritsheriffarm
 bip_39_word_no_space_12: tapeclockobeyviewhatforkkeenwintergritsheriffarmabsent
 bip_39_word_no_space_2: tapeclock
 bip_39_word_no_space_3: tapeclockobey
-bip_39_word_no_space_4: tapeclockobeyview
-bip_39_word_no_space_5: tapeclockobeyviewhat
-bip_39_word_no_space_6: tapeclockobeyviewhatfork
-bip_39_word_no_space_7: tapeclockobeyviewhatforkkeen
-bip_39_word_no_space_8: tapeclockobeyviewhatforkkeenwinter
-bip_39_word_no_space_9: tapeclockobeyviewhatforkkeenwintergrit
-bip_39_word_space_0:
-- tape
-- clock
-- obey
-- view
-- hat
-- fork
-- keen
-- winter
-- grit
-- sheriff
-- arm
-- absent
-bip_39_word_space_1: tape
-bip_39_word_space_10: tape clock obey view hat fork keen winter grit sheriff
-bip_39_word_space_11: tape clock obey view hat fork keen winter grit sheriff arm
 bip_39_word_space_12: tape clock obey view hat fork keen winter grit sheriff arm absent
 bip_39_word_space_2: tape clock
 bip_39_word_space_3: tape clock obey
-bip_39_word_space_4: tape clock obey view
-bip_39_word_space_5: tape clock obey view hat
-bip_39_word_space_6: tape clock obey view hat fork
-bip_39_word_space_7: tape clock obey view hat fork keen
-bip_39_word_space_8: tape clock obey view hat fork keen winter
-bip_39_word_space_9: tape clock obey view hat fork keen winter grit
-bip_39_word_underscore_1: tape
-bip_39_word_underscore_10: tape_clock_obey_view_hat_fork_keen_winter_grit_sheriff
-bip_39_word_underscore_11: tape_clock_obey_view_hat_fork_keen_winter_grit_sheriff_arm
 bip_39_word_underscore_12: tape_clock_obey_view_hat_fork_keen_winter_grit_sheriff_arm_absent
 bip_39_word_underscore_2: tape_clock
 bip_39_word_underscore_3: tape_clock_obey
-bip_39_word_underscore_4: tape_clock_obey_view
-bip_39_word_underscore_5: tape_clock_obey_view_hat
-bip_39_word_underscore_6: tape_clock_obey_view_hat_fork
-bip_39_word_underscore_7: tape_clock_obey_view_hat_fork_keen
-bip_39_word_underscore_8: tape_clock_obey_view_hat_fork_keen_winter
-bip_39_word_underscore_9: tape_clock_obey_view_hat_fork_keen_winter_grit
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

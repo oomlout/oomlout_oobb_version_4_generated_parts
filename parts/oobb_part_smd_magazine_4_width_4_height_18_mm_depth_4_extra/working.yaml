@@ -1,68 +1,9 @@
-bip_39_word_dash_1: prefer
-bip_39_word_dash_10: prefer-injury-accuse-tomato-fitness-crane-version-resource-sort-ginger
-bip_39_word_dash_11: prefer-injury-accuse-tomato-fitness-crane-version-resource-sort-ginger-cloth
 bip_39_word_dash_12: prefer-injury-accuse-tomato-fitness-crane-version-resource-sort-ginger-cloth-abuse
 bip_39_word_dash_2: prefer-injury
 bip_39_word_dash_3: prefer-injury-accuse
-bip_39_word_dash_4: prefer-injury-accuse-tomato
-bip_39_word_dash_5: prefer-injury-accuse-tomato-fitness
-bip_39_word_dash_6: prefer-injury-accuse-tomato-fitness-crane
-bip_39_word_dash_7: prefer-injury-accuse-tomato-fitness-crane-version
-bip_39_word_dash_8: prefer-injury-accuse-tomato-fitness-crane-version-resource
-bip_39_word_dash_9: prefer-injury-accuse-tomato-fitness-crane-version-resource-sort
-bip_39_word_new_br_1: prefer
-bip_39_word_new_br_10: prefer<br>injury<br>accuse<br>tomato<br>fitness<br>crane<br>version<br>resource<br>sort<br>ginger
-bip_39_word_new_br_11: prefer<br>injury<br>accuse<br>tomato<br>fitness<br>crane<br>version<br>resource<br>sort<br>ginger<br>cloth
 bip_39_word_new_br_12: prefer<br>injury<br>accuse<br>tomato<br>fitness<br>crane<br>version<br>resource<br>sort<br>ginger<br>cloth<br>abuse
 bip_39_word_new_br_2: prefer<br>injury
 bip_39_word_new_br_3: prefer<br>injury<br>accuse
-bip_39_word_new_br_4: prefer<br>injury<br>accuse<br>tomato
-bip_39_word_new_br_5: prefer<br>injury<br>accuse<br>tomato<br>fitness
-bip_39_word_new_br_6: prefer<br>injury<br>accuse<br>tomato<br>fitness<br>crane
-bip_39_word_new_br_7: prefer<br>injury<br>accuse<br>tomato<br>fitness<br>crane<br>version
-bip_39_word_new_br_8: prefer<br>injury<br>accuse<br>tomato<br>fitness<br>crane<br>version<br>resource
-bip_39_word_new_br_9: prefer<br>injury<br>accuse<br>tomato<br>fitness<br>crane<br>version<br>resource<br>sort
-bip_39_word_new_line_1: prefer
-bip_39_word_new_line_10: 'prefer
-
-  injury
-
-  accuse
-
-  tomato
-
-  fitness
-
-  crane
-
-  version
-
-  resource
-
-  sort
-
-  ginger'
-bip_39_word_new_line_11: 'prefer
-
-  injury
-
-  accuse
-
-  tomato
-
-  fitness
-
-  crane
-
-  version
-
-  resource
-
-  sort
-
-  ginger
-
-  cloth'
 bip_39_word_new_line_12: 'prefer
 
   injury
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'prefer
   injury
 
   accuse'
-bip_39_word_new_line_4: 'prefer
-
-  injury
-
-  accuse
-
-  tomato'
-bip_39_word_new_line_5: 'prefer
-
-  injury
-
-  accuse
-
-  tomato
-
-  fitness'
-bip_39_word_new_line_6: 'prefer
-
-  injury
-
-  accuse
-
-  tomato
-
-  fitness
-
-  crane'
-bip_39_word_new_line_7: 'prefer
-
-  injury
-
-  accuse
-
-  tomato
-
-  fitness
-
-  crane
-
-  version'
-bip_39_word_new_line_8: 'prefer
-
-  injury
-
-  accuse
-
-  tomato
-
-  fitness
-
-  crane
-
-  version
-
-  resource'
-bip_39_word_new_line_9: 'prefer
-
-  injury
-
-  accuse
-
-  tomato
-
-  fitness
-
-  crane
-
-  version
-
-  resource
-
-  sort'
-bip_39_word_no_space_1: prefer
-bip_39_word_no_space_10: preferinjuryaccusetomatofitnesscraneversionresourcesortginger
-bip_39_word_no_space_11: preferinjuryaccusetomatofitnesscraneversionresourcesortgingercloth
 bip_39_word_no_space_12: preferinjuryaccusetomatofitnesscraneversionresourcesortgingerclothabuse
 bip_39_word_no_space_2: preferinjury
 bip_39_word_no_space_3: preferinjuryaccuse
-bip_39_word_no_space_4: preferinjuryaccusetomato
-bip_39_word_no_space_5: preferinjuryaccusetomatofitness
-bip_39_word_no_space_6: preferinjuryaccusetomatofitnesscrane
-bip_39_word_no_space_7: preferinjuryaccusetomatofitnesscraneversion
-bip_39_word_no_space_8: preferinjuryaccusetomatofitnesscraneversionresource
-bip_39_word_no_space_9: preferinjuryaccusetomatofitnesscraneversionresourcesort
-bip_39_word_space_0:
-- prefer
-- injury
-- accuse
-- tomato
-- fitness
-- crane
-- version
-- resource
-- sort
-- ginger
-- cloth
-- abuse
-bip_39_word_space_1: prefer
-bip_39_word_space_10: prefer injury accuse tomato fitness crane version resource sort
-  ginger
-bip_39_word_space_11: prefer injury accuse tomato fitness crane version resource sort
-  ginger cloth
 bip_39_word_space_12: prefer injury accuse tomato fitness crane version resource sort
   ginger cloth abuse
 bip_39_word_space_2: prefer injury
 bip_39_word_space_3: prefer injury accuse
-bip_39_word_space_4: prefer injury accuse tomato
-bip_39_word_space_5: prefer injury accuse tomato fitness
-bip_39_word_space_6: prefer injury accuse tomato fitness crane
-bip_39_word_space_7: prefer injury accuse tomato fitness crane version
-bip_39_word_space_8: prefer injury accuse tomato fitness crane version resource
-bip_39_word_space_9: prefer injury accuse tomato fitness crane version resource sort
-bip_39_word_underscore_1: prefer
-bip_39_word_underscore_10: prefer_injury_accuse_tomato_fitness_crane_version_resource_sort_ginger
-bip_39_word_underscore_11: prefer_injury_accuse_tomato_fitness_crane_version_resource_sort_ginger_cloth
 bip_39_word_underscore_12: prefer_injury_accuse_tomato_fitness_crane_version_resource_sort_ginger_cloth_abuse
 bip_39_word_underscore_2: prefer_injury
 bip_39_word_underscore_3: prefer_injury_accuse
-bip_39_word_underscore_4: prefer_injury_accuse_tomato
-bip_39_word_underscore_5: prefer_injury_accuse_tomato_fitness
-bip_39_word_underscore_6: prefer_injury_accuse_tomato_fitness_crane
-bip_39_word_underscore_7: prefer_injury_accuse_tomato_fitness_crane_version
-bip_39_word_underscore_8: prefer_injury_accuse_tomato_fitness_crane_version_resource
-bip_39_word_underscore_9: prefer_injury_accuse_tomato_fitness_crane_version_resource_sort
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

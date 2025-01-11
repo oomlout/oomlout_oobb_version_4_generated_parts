@@ -1,68 +1,9 @@
-bip_39_word_dash_1: pen
-bip_39_word_dash_10: pen-coral-empty-volume-work-note-wave-staff-train-shield
-bip_39_word_dash_11: pen-coral-empty-volume-work-note-wave-staff-train-shield-arrow
 bip_39_word_dash_12: pen-coral-empty-volume-work-note-wave-staff-train-shield-arrow-attitude
 bip_39_word_dash_2: pen-coral
 bip_39_word_dash_3: pen-coral-empty
-bip_39_word_dash_4: pen-coral-empty-volume
-bip_39_word_dash_5: pen-coral-empty-volume-work
-bip_39_word_dash_6: pen-coral-empty-volume-work-note
-bip_39_word_dash_7: pen-coral-empty-volume-work-note-wave
-bip_39_word_dash_8: pen-coral-empty-volume-work-note-wave-staff
-bip_39_word_dash_9: pen-coral-empty-volume-work-note-wave-staff-train
-bip_39_word_new_br_1: pen
-bip_39_word_new_br_10: pen<br>coral<br>empty<br>volume<br>work<br>note<br>wave<br>staff<br>train<br>shield
-bip_39_word_new_br_11: pen<br>coral<br>empty<br>volume<br>work<br>note<br>wave<br>staff<br>train<br>shield<br>arrow
 bip_39_word_new_br_12: pen<br>coral<br>empty<br>volume<br>work<br>note<br>wave<br>staff<br>train<br>shield<br>arrow<br>attitude
 bip_39_word_new_br_2: pen<br>coral
 bip_39_word_new_br_3: pen<br>coral<br>empty
-bip_39_word_new_br_4: pen<br>coral<br>empty<br>volume
-bip_39_word_new_br_5: pen<br>coral<br>empty<br>volume<br>work
-bip_39_word_new_br_6: pen<br>coral<br>empty<br>volume<br>work<br>note
-bip_39_word_new_br_7: pen<br>coral<br>empty<br>volume<br>work<br>note<br>wave
-bip_39_word_new_br_8: pen<br>coral<br>empty<br>volume<br>work<br>note<br>wave<br>staff
-bip_39_word_new_br_9: pen<br>coral<br>empty<br>volume<br>work<br>note<br>wave<br>staff<br>train
-bip_39_word_new_line_1: pen
-bip_39_word_new_line_10: 'pen
-
-  coral
-
-  empty
-
-  volume
-
-  work
-
-  note
-
-  wave
-
-  staff
-
-  train
-
-  shield'
-bip_39_word_new_line_11: 'pen
-
-  coral
-
-  empty
-
-  volume
-
-  work
-
-  note
-
-  wave
-
-  staff
-
-  train
-
-  shield
-
-  arrow'
 bip_39_word_new_line_12: 'pen
 
   coral
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'pen
   coral
 
   empty'
-bip_39_word_new_line_4: 'pen
-
-  coral
-
-  empty
-
-  volume'
-bip_39_word_new_line_5: 'pen
-
-  coral
-
-  empty
-
-  volume
-
-  work'
-bip_39_word_new_line_6: 'pen
-
-  coral
-
-  empty
-
-  volume
-
-  work
-
-  note'
-bip_39_word_new_line_7: 'pen
-
-  coral
-
-  empty
-
-  volume
-
-  work
-
-  note
-
-  wave'
-bip_39_word_new_line_8: 'pen
-
-  coral
-
-  empty
-
-  volume
-
-  work
-
-  note
-
-  wave
-
-  staff'
-bip_39_word_new_line_9: 'pen
-
-  coral
-
-  empty
-
-  volume
-
-  work
-
-  note
-
-  wave
-
-  staff
-
-  train'
-bip_39_word_no_space_1: pen
-bip_39_word_no_space_10: pencoralemptyvolumeworknotewavestafftrainshield
-bip_39_word_no_space_11: pencoralemptyvolumeworknotewavestafftrainshieldarrow
 bip_39_word_no_space_12: pencoralemptyvolumeworknotewavestafftrainshieldarrowattitude
 bip_39_word_no_space_2: pencoral
 bip_39_word_no_space_3: pencoralempty
-bip_39_word_no_space_4: pencoralemptyvolume
-bip_39_word_no_space_5: pencoralemptyvolumework
-bip_39_word_no_space_6: pencoralemptyvolumeworknote
-bip_39_word_no_space_7: pencoralemptyvolumeworknotewave
-bip_39_word_no_space_8: pencoralemptyvolumeworknotewavestaff
-bip_39_word_no_space_9: pencoralemptyvolumeworknotewavestafftrain
-bip_39_word_space_0:
-- pen
-- coral
-- empty
-- volume
-- work
-- note
-- wave
-- staff
-- train
-- shield
-- arrow
-- attitude
-bip_39_word_space_1: pen
-bip_39_word_space_10: pen coral empty volume work note wave staff train shield
-bip_39_word_space_11: pen coral empty volume work note wave staff train shield arrow
 bip_39_word_space_12: pen coral empty volume work note wave staff train shield arrow
   attitude
 bip_39_word_space_2: pen coral
 bip_39_word_space_3: pen coral empty
-bip_39_word_space_4: pen coral empty volume
-bip_39_word_space_5: pen coral empty volume work
-bip_39_word_space_6: pen coral empty volume work note
-bip_39_word_space_7: pen coral empty volume work note wave
-bip_39_word_space_8: pen coral empty volume work note wave staff
-bip_39_word_space_9: pen coral empty volume work note wave staff train
-bip_39_word_underscore_1: pen
-bip_39_word_underscore_10: pen_coral_empty_volume_work_note_wave_staff_train_shield
-bip_39_word_underscore_11: pen_coral_empty_volume_work_note_wave_staff_train_shield_arrow
 bip_39_word_underscore_12: pen_coral_empty_volume_work_note_wave_staff_train_shield_arrow_attitude
 bip_39_word_underscore_2: pen_coral
 bip_39_word_underscore_3: pen_coral_empty
-bip_39_word_underscore_4: pen_coral_empty_volume
-bip_39_word_underscore_5: pen_coral_empty_volume_work
-bip_39_word_underscore_6: pen_coral_empty_volume_work_note
-bip_39_word_underscore_7: pen_coral_empty_volume_work_note_wave
-bip_39_word_underscore_8: pen_coral_empty_volume_work_note_wave_staff
-bip_39_word_underscore_9: pen_coral_empty_volume_work_note_wave_staff_train
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

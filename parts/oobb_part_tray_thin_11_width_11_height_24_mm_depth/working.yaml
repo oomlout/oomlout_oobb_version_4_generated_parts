@@ -1,68 +1,9 @@
-bip_39_word_dash_1: action
-bip_39_word_dash_10: action-address-obey-dress-match-canoe-someone-absorb-carry-brown
-bip_39_word_dash_11: action-address-obey-dress-match-canoe-someone-absorb-carry-brown-divert
 bip_39_word_dash_12: action-address-obey-dress-match-canoe-someone-absorb-carry-brown-divert-atom
 bip_39_word_dash_2: action-address
 bip_39_word_dash_3: action-address-obey
-bip_39_word_dash_4: action-address-obey-dress
-bip_39_word_dash_5: action-address-obey-dress-match
-bip_39_word_dash_6: action-address-obey-dress-match-canoe
-bip_39_word_dash_7: action-address-obey-dress-match-canoe-someone
-bip_39_word_dash_8: action-address-obey-dress-match-canoe-someone-absorb
-bip_39_word_dash_9: action-address-obey-dress-match-canoe-someone-absorb-carry
-bip_39_word_new_br_1: action
-bip_39_word_new_br_10: action<br>address<br>obey<br>dress<br>match<br>canoe<br>someone<br>absorb<br>carry<br>brown
-bip_39_word_new_br_11: action<br>address<br>obey<br>dress<br>match<br>canoe<br>someone<br>absorb<br>carry<br>brown<br>divert
 bip_39_word_new_br_12: action<br>address<br>obey<br>dress<br>match<br>canoe<br>someone<br>absorb<br>carry<br>brown<br>divert<br>atom
 bip_39_word_new_br_2: action<br>address
 bip_39_word_new_br_3: action<br>address<br>obey
-bip_39_word_new_br_4: action<br>address<br>obey<br>dress
-bip_39_word_new_br_5: action<br>address<br>obey<br>dress<br>match
-bip_39_word_new_br_6: action<br>address<br>obey<br>dress<br>match<br>canoe
-bip_39_word_new_br_7: action<br>address<br>obey<br>dress<br>match<br>canoe<br>someone
-bip_39_word_new_br_8: action<br>address<br>obey<br>dress<br>match<br>canoe<br>someone<br>absorb
-bip_39_word_new_br_9: action<br>address<br>obey<br>dress<br>match<br>canoe<br>someone<br>absorb<br>carry
-bip_39_word_new_line_1: action
-bip_39_word_new_line_10: 'action
-
-  address
-
-  obey
-
-  dress
-
-  match
-
-  canoe
-
-  someone
-
-  absorb
-
-  carry
-
-  brown'
-bip_39_word_new_line_11: 'action
-
-  address
-
-  obey
-
-  dress
-
-  match
-
-  canoe
-
-  someone
-
-  absorb
-
-  carry
-
-  brown
-
-  divert'
 bip_39_word_new_line_12: 'action
 
   address
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'action
   address
 
   obey'
-bip_39_word_new_line_4: 'action
-
-  address
-
-  obey
-
-  dress'
-bip_39_word_new_line_5: 'action
-
-  address
-
-  obey
-
-  dress
-
-  match'
-bip_39_word_new_line_6: 'action
-
-  address
-
-  obey
-
-  dress
-
-  match
-
-  canoe'
-bip_39_word_new_line_7: 'action
-
-  address
-
-  obey
-
-  dress
-
-  match
-
-  canoe
-
-  someone'
-bip_39_word_new_line_8: 'action
-
-  address
-
-  obey
-
-  dress
-
-  match
-
-  canoe
-
-  someone
-
-  absorb'
-bip_39_word_new_line_9: 'action
-
-  address
-
-  obey
-
-  dress
-
-  match
-
-  canoe
-
-  someone
-
-  absorb
-
-  carry'
-bip_39_word_no_space_1: action
-bip_39_word_no_space_10: actionaddressobeydressmatchcanoesomeoneabsorbcarrybrown
-bip_39_word_no_space_11: actionaddressobeydressmatchcanoesomeoneabsorbcarrybrowndivert
 bip_39_word_no_space_12: actionaddressobeydressmatchcanoesomeoneabsorbcarrybrowndivertatom
 bip_39_word_no_space_2: actionaddress
 bip_39_word_no_space_3: actionaddressobey
-bip_39_word_no_space_4: actionaddressobeydress
-bip_39_word_no_space_5: actionaddressobeydressmatch
-bip_39_word_no_space_6: actionaddressobeydressmatchcanoe
-bip_39_word_no_space_7: actionaddressobeydressmatchcanoesomeone
-bip_39_word_no_space_8: actionaddressobeydressmatchcanoesomeoneabsorb
-bip_39_word_no_space_9: actionaddressobeydressmatchcanoesomeoneabsorbcarry
-bip_39_word_space_0:
-- action
-- address
-- obey
-- dress
-- match
-- canoe
-- someone
-- absorb
-- carry
-- brown
-- divert
-- atom
-bip_39_word_space_1: action
-bip_39_word_space_10: action address obey dress match canoe someone absorb carry brown
-bip_39_word_space_11: action address obey dress match canoe someone absorb carry brown
-  divert
 bip_39_word_space_12: action address obey dress match canoe someone absorb carry brown
   divert atom
 bip_39_word_space_2: action address
 bip_39_word_space_3: action address obey
-bip_39_word_space_4: action address obey dress
-bip_39_word_space_5: action address obey dress match
-bip_39_word_space_6: action address obey dress match canoe
-bip_39_word_space_7: action address obey dress match canoe someone
-bip_39_word_space_8: action address obey dress match canoe someone absorb
-bip_39_word_space_9: action address obey dress match canoe someone absorb carry
-bip_39_word_underscore_1: action
-bip_39_word_underscore_10: action_address_obey_dress_match_canoe_someone_absorb_carry_brown
-bip_39_word_underscore_11: action_address_obey_dress_match_canoe_someone_absorb_carry_brown_divert
 bip_39_word_underscore_12: action_address_obey_dress_match_canoe_someone_absorb_carry_brown_divert_atom
 bip_39_word_underscore_2: action_address
 bip_39_word_underscore_3: action_address_obey
-bip_39_word_underscore_4: action_address_obey_dress
-bip_39_word_underscore_5: action_address_obey_dress_match
-bip_39_word_underscore_6: action_address_obey_dress_match_canoe
-bip_39_word_underscore_7: action_address_obey_dress_match_canoe_someone
-bip_39_word_underscore_8: action_address_obey_dress_match_canoe_someone_absorb
-bip_39_word_underscore_9: action_address_obey_dress_match_canoe_someone_absorb_carry
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

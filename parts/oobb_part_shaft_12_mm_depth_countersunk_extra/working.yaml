@@ -1,68 +1,9 @@
-bip_39_word_dash_1: start
-bip_39_word_dash_10: start-faculty-riot-large-bring-sugar-blue-social-keep-erode
-bip_39_word_dash_11: start-faculty-riot-large-bring-sugar-blue-social-keep-erode-require
 bip_39_word_dash_12: start-faculty-riot-large-bring-sugar-blue-social-keep-erode-require-age
 bip_39_word_dash_2: start-faculty
 bip_39_word_dash_3: start-faculty-riot
-bip_39_word_dash_4: start-faculty-riot-large
-bip_39_word_dash_5: start-faculty-riot-large-bring
-bip_39_word_dash_6: start-faculty-riot-large-bring-sugar
-bip_39_word_dash_7: start-faculty-riot-large-bring-sugar-blue
-bip_39_word_dash_8: start-faculty-riot-large-bring-sugar-blue-social
-bip_39_word_dash_9: start-faculty-riot-large-bring-sugar-blue-social-keep
-bip_39_word_new_br_1: start
-bip_39_word_new_br_10: start<br>faculty<br>riot<br>large<br>bring<br>sugar<br>blue<br>social<br>keep<br>erode
-bip_39_word_new_br_11: start<br>faculty<br>riot<br>large<br>bring<br>sugar<br>blue<br>social<br>keep<br>erode<br>require
 bip_39_word_new_br_12: start<br>faculty<br>riot<br>large<br>bring<br>sugar<br>blue<br>social<br>keep<br>erode<br>require<br>age
 bip_39_word_new_br_2: start<br>faculty
 bip_39_word_new_br_3: start<br>faculty<br>riot
-bip_39_word_new_br_4: start<br>faculty<br>riot<br>large
-bip_39_word_new_br_5: start<br>faculty<br>riot<br>large<br>bring
-bip_39_word_new_br_6: start<br>faculty<br>riot<br>large<br>bring<br>sugar
-bip_39_word_new_br_7: start<br>faculty<br>riot<br>large<br>bring<br>sugar<br>blue
-bip_39_word_new_br_8: start<br>faculty<br>riot<br>large<br>bring<br>sugar<br>blue<br>social
-bip_39_word_new_br_9: start<br>faculty<br>riot<br>large<br>bring<br>sugar<br>blue<br>social<br>keep
-bip_39_word_new_line_1: start
-bip_39_word_new_line_10: 'start
-
-  faculty
-
-  riot
-
-  large
-
-  bring
-
-  sugar
-
-  blue
-
-  social
-
-  keep
-
-  erode'
-bip_39_word_new_line_11: 'start
-
-  faculty
-
-  riot
-
-  large
-
-  bring
-
-  sugar
-
-  blue
-
-  social
-
-  keep
-
-  erode
-
-  require'
 bip_39_word_new_line_12: 'start
 
   faculty
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'start
   faculty
 
   riot'
-bip_39_word_new_line_4: 'start
-
-  faculty
-
-  riot
-
-  large'
-bip_39_word_new_line_5: 'start
-
-  faculty
-
-  riot
-
-  large
-
-  bring'
-bip_39_word_new_line_6: 'start
-
-  faculty
-
-  riot
-
-  large
-
-  bring
-
-  sugar'
-bip_39_word_new_line_7: 'start
-
-  faculty
-
-  riot
-
-  large
-
-  bring
-
-  sugar
-
-  blue'
-bip_39_word_new_line_8: 'start
-
-  faculty
-
-  riot
-
-  large
-
-  bring
-
-  sugar
-
-  blue
-
-  social'
-bip_39_word_new_line_9: 'start
-
-  faculty
-
-  riot
-
-  large
-
-  bring
-
-  sugar
-
-  blue
-
-  social
-
-  keep'
-bip_39_word_no_space_1: start
-bip_39_word_no_space_10: startfacultyriotlargebringsugarbluesocialkeeperode
-bip_39_word_no_space_11: startfacultyriotlargebringsugarbluesocialkeeperoderequire
 bip_39_word_no_space_12: startfacultyriotlargebringsugarbluesocialkeeperoderequireage
 bip_39_word_no_space_2: startfaculty
 bip_39_word_no_space_3: startfacultyriot
-bip_39_word_no_space_4: startfacultyriotlarge
-bip_39_word_no_space_5: startfacultyriotlargebring
-bip_39_word_no_space_6: startfacultyriotlargebringsugar
-bip_39_word_no_space_7: startfacultyriotlargebringsugarblue
-bip_39_word_no_space_8: startfacultyriotlargebringsugarbluesocial
-bip_39_word_no_space_9: startfacultyriotlargebringsugarbluesocialkeep
-bip_39_word_space_0:
-- start
-- faculty
-- riot
-- large
-- bring
-- sugar
-- blue
-- social
-- keep
-- erode
-- require
-- age
-bip_39_word_space_1: start
-bip_39_word_space_10: start faculty riot large bring sugar blue social keep erode
-bip_39_word_space_11: start faculty riot large bring sugar blue social keep erode
-  require
 bip_39_word_space_12: start faculty riot large bring sugar blue social keep erode
   require age
 bip_39_word_space_2: start faculty
 bip_39_word_space_3: start faculty riot
-bip_39_word_space_4: start faculty riot large
-bip_39_word_space_5: start faculty riot large bring
-bip_39_word_space_6: start faculty riot large bring sugar
-bip_39_word_space_7: start faculty riot large bring sugar blue
-bip_39_word_space_8: start faculty riot large bring sugar blue social
-bip_39_word_space_9: start faculty riot large bring sugar blue social keep
-bip_39_word_underscore_1: start
-bip_39_word_underscore_10: start_faculty_riot_large_bring_sugar_blue_social_keep_erode
-bip_39_word_underscore_11: start_faculty_riot_large_bring_sugar_blue_social_keep_erode_require
 bip_39_word_underscore_12: start_faculty_riot_large_bring_sugar_blue_social_keep_erode_require_age
 bip_39_word_underscore_2: start_faculty
 bip_39_word_underscore_3: start_faculty_riot
-bip_39_word_underscore_4: start_faculty_riot_large
-bip_39_word_underscore_5: start_faculty_riot_large_bring
-bip_39_word_underscore_6: start_faculty_riot_large_bring_sugar
-bip_39_word_underscore_7: start_faculty_riot_large_bring_sugar_blue
-bip_39_word_underscore_8: start_faculty_riot_large_bring_sugar_blue_social
-bip_39_word_underscore_9: start_faculty_riot_large_bring_sugar_blue_social_keep
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

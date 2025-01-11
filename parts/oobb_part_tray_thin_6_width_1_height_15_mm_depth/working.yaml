@@ -1,68 +1,9 @@
-bip_39_word_dash_1: field
-bip_39_word_dash_10: field-resist-carpet-grab-zoo-where-dry-enough-else-crush
-bip_39_word_dash_11: field-resist-carpet-grab-zoo-where-dry-enough-else-crush-balance
 bip_39_word_dash_12: field-resist-carpet-grab-zoo-where-dry-enough-else-crush-balance-arctic
 bip_39_word_dash_2: field-resist
 bip_39_word_dash_3: field-resist-carpet
-bip_39_word_dash_4: field-resist-carpet-grab
-bip_39_word_dash_5: field-resist-carpet-grab-zoo
-bip_39_word_dash_6: field-resist-carpet-grab-zoo-where
-bip_39_word_dash_7: field-resist-carpet-grab-zoo-where-dry
-bip_39_word_dash_8: field-resist-carpet-grab-zoo-where-dry-enough
-bip_39_word_dash_9: field-resist-carpet-grab-zoo-where-dry-enough-else
-bip_39_word_new_br_1: field
-bip_39_word_new_br_10: field<br>resist<br>carpet<br>grab<br>zoo<br>where<br>dry<br>enough<br>else<br>crush
-bip_39_word_new_br_11: field<br>resist<br>carpet<br>grab<br>zoo<br>where<br>dry<br>enough<br>else<br>crush<br>balance
 bip_39_word_new_br_12: field<br>resist<br>carpet<br>grab<br>zoo<br>where<br>dry<br>enough<br>else<br>crush<br>balance<br>arctic
 bip_39_word_new_br_2: field<br>resist
 bip_39_word_new_br_3: field<br>resist<br>carpet
-bip_39_word_new_br_4: field<br>resist<br>carpet<br>grab
-bip_39_word_new_br_5: field<br>resist<br>carpet<br>grab<br>zoo
-bip_39_word_new_br_6: field<br>resist<br>carpet<br>grab<br>zoo<br>where
-bip_39_word_new_br_7: field<br>resist<br>carpet<br>grab<br>zoo<br>where<br>dry
-bip_39_word_new_br_8: field<br>resist<br>carpet<br>grab<br>zoo<br>where<br>dry<br>enough
-bip_39_word_new_br_9: field<br>resist<br>carpet<br>grab<br>zoo<br>where<br>dry<br>enough<br>else
-bip_39_word_new_line_1: field
-bip_39_word_new_line_10: 'field
-
-  resist
-
-  carpet
-
-  grab
-
-  zoo
-
-  where
-
-  dry
-
-  enough
-
-  else
-
-  crush'
-bip_39_word_new_line_11: 'field
-
-  resist
-
-  carpet
-
-  grab
-
-  zoo
-
-  where
-
-  dry
-
-  enough
-
-  else
-
-  crush
-
-  balance'
 bip_39_word_new_line_12: 'field
 
   resist
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'field
   resist
 
   carpet'
-bip_39_word_new_line_4: 'field
-
-  resist
-
-  carpet
-
-  grab'
-bip_39_word_new_line_5: 'field
-
-  resist
-
-  carpet
-
-  grab
-
-  zoo'
-bip_39_word_new_line_6: 'field
-
-  resist
-
-  carpet
-
-  grab
-
-  zoo
-
-  where'
-bip_39_word_new_line_7: 'field
-
-  resist
-
-  carpet
-
-  grab
-
-  zoo
-
-  where
-
-  dry'
-bip_39_word_new_line_8: 'field
-
-  resist
-
-  carpet
-
-  grab
-
-  zoo
-
-  where
-
-  dry
-
-  enough'
-bip_39_word_new_line_9: 'field
-
-  resist
-
-  carpet
-
-  grab
-
-  zoo
-
-  where
-
-  dry
-
-  enough
-
-  else'
-bip_39_word_no_space_1: field
-bip_39_word_no_space_10: fieldresistcarpetgrabzoowheredryenoughelsecrush
-bip_39_word_no_space_11: fieldresistcarpetgrabzoowheredryenoughelsecrushbalance
 bip_39_word_no_space_12: fieldresistcarpetgrabzoowheredryenoughelsecrushbalancearctic
 bip_39_word_no_space_2: fieldresist
 bip_39_word_no_space_3: fieldresistcarpet
-bip_39_word_no_space_4: fieldresistcarpetgrab
-bip_39_word_no_space_5: fieldresistcarpetgrabzoo
-bip_39_word_no_space_6: fieldresistcarpetgrabzoowhere
-bip_39_word_no_space_7: fieldresistcarpetgrabzoowheredry
-bip_39_word_no_space_8: fieldresistcarpetgrabzoowheredryenough
-bip_39_word_no_space_9: fieldresistcarpetgrabzoowheredryenoughelse
-bip_39_word_space_0:
-- field
-- resist
-- carpet
-- grab
-- zoo
-- where
-- dry
-- enough
-- else
-- crush
-- balance
-- arctic
-bip_39_word_space_1: field
-bip_39_word_space_10: field resist carpet grab zoo where dry enough else crush
-bip_39_word_space_11: field resist carpet grab zoo where dry enough else crush balance
 bip_39_word_space_12: field resist carpet grab zoo where dry enough else crush balance
   arctic
 bip_39_word_space_2: field resist
 bip_39_word_space_3: field resist carpet
-bip_39_word_space_4: field resist carpet grab
-bip_39_word_space_5: field resist carpet grab zoo
-bip_39_word_space_6: field resist carpet grab zoo where
-bip_39_word_space_7: field resist carpet grab zoo where dry
-bip_39_word_space_8: field resist carpet grab zoo where dry enough
-bip_39_word_space_9: field resist carpet grab zoo where dry enough else
-bip_39_word_underscore_1: field
-bip_39_word_underscore_10: field_resist_carpet_grab_zoo_where_dry_enough_else_crush
-bip_39_word_underscore_11: field_resist_carpet_grab_zoo_where_dry_enough_else_crush_balance
 bip_39_word_underscore_12: field_resist_carpet_grab_zoo_where_dry_enough_else_crush_balance_arctic
 bip_39_word_underscore_2: field_resist
 bip_39_word_underscore_3: field_resist_carpet
-bip_39_word_underscore_4: field_resist_carpet_grab
-bip_39_word_underscore_5: field_resist_carpet_grab_zoo
-bip_39_word_underscore_6: field_resist_carpet_grab_zoo_where
-bip_39_word_underscore_7: field_resist_carpet_grab_zoo_where_dry
-bip_39_word_underscore_8: field_resist_carpet_grab_zoo_where_dry_enough
-bip_39_word_underscore_9: field_resist_carpet_grab_zoo_where_dry_enough_else
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

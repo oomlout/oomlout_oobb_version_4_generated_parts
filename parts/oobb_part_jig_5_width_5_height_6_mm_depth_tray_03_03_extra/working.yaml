@@ -1,68 +1,9 @@
-bip_39_word_dash_1: orient
-bip_39_word_dash_10: orient-check-cabin-cause-fiber-local-unknown-gap-turtle-invite
-bip_39_word_dash_11: orient-check-cabin-cause-fiber-local-unknown-gap-turtle-invite-lazy
 bip_39_word_dash_12: orient-check-cabin-cause-fiber-local-unknown-gap-turtle-invite-lazy-abstract
 bip_39_word_dash_2: orient-check
 bip_39_word_dash_3: orient-check-cabin
-bip_39_word_dash_4: orient-check-cabin-cause
-bip_39_word_dash_5: orient-check-cabin-cause-fiber
-bip_39_word_dash_6: orient-check-cabin-cause-fiber-local
-bip_39_word_dash_7: orient-check-cabin-cause-fiber-local-unknown
-bip_39_word_dash_8: orient-check-cabin-cause-fiber-local-unknown-gap
-bip_39_word_dash_9: orient-check-cabin-cause-fiber-local-unknown-gap-turtle
-bip_39_word_new_br_1: orient
-bip_39_word_new_br_10: orient<br>check<br>cabin<br>cause<br>fiber<br>local<br>unknown<br>gap<br>turtle<br>invite
-bip_39_word_new_br_11: orient<br>check<br>cabin<br>cause<br>fiber<br>local<br>unknown<br>gap<br>turtle<br>invite<br>lazy
 bip_39_word_new_br_12: orient<br>check<br>cabin<br>cause<br>fiber<br>local<br>unknown<br>gap<br>turtle<br>invite<br>lazy<br>abstract
 bip_39_word_new_br_2: orient<br>check
 bip_39_word_new_br_3: orient<br>check<br>cabin
-bip_39_word_new_br_4: orient<br>check<br>cabin<br>cause
-bip_39_word_new_br_5: orient<br>check<br>cabin<br>cause<br>fiber
-bip_39_word_new_br_6: orient<br>check<br>cabin<br>cause<br>fiber<br>local
-bip_39_word_new_br_7: orient<br>check<br>cabin<br>cause<br>fiber<br>local<br>unknown
-bip_39_word_new_br_8: orient<br>check<br>cabin<br>cause<br>fiber<br>local<br>unknown<br>gap
-bip_39_word_new_br_9: orient<br>check<br>cabin<br>cause<br>fiber<br>local<br>unknown<br>gap<br>turtle
-bip_39_word_new_line_1: orient
-bip_39_word_new_line_10: 'orient
-
-  check
-
-  cabin
-
-  cause
-
-  fiber
-
-  local
-
-  unknown
-
-  gap
-
-  turtle
-
-  invite'
-bip_39_word_new_line_11: 'orient
-
-  check
-
-  cabin
-
-  cause
-
-  fiber
-
-  local
-
-  unknown
-
-  gap
-
-  turtle
-
-  invite
-
-  lazy'
 bip_39_word_new_line_12: 'orient
 
   check
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'orient
   check
 
   cabin'
-bip_39_word_new_line_4: 'orient
-
-  check
-
-  cabin
-
-  cause'
-bip_39_word_new_line_5: 'orient
-
-  check
-
-  cabin
-
-  cause
-
-  fiber'
-bip_39_word_new_line_6: 'orient
-
-  check
-
-  cabin
-
-  cause
-
-  fiber
-
-  local'
-bip_39_word_new_line_7: 'orient
-
-  check
-
-  cabin
-
-  cause
-
-  fiber
-
-  local
-
-  unknown'
-bip_39_word_new_line_8: 'orient
-
-  check
-
-  cabin
-
-  cause
-
-  fiber
-
-  local
-
-  unknown
-
-  gap'
-bip_39_word_new_line_9: 'orient
-
-  check
-
-  cabin
-
-  cause
-
-  fiber
-
-  local
-
-  unknown
-
-  gap
-
-  turtle'
-bip_39_word_no_space_1: orient
-bip_39_word_no_space_10: orientcheckcabincausefiberlocalunknowngapturtleinvite
-bip_39_word_no_space_11: orientcheckcabincausefiberlocalunknowngapturtleinvitelazy
 bip_39_word_no_space_12: orientcheckcabincausefiberlocalunknowngapturtleinvitelazyabstract
 bip_39_word_no_space_2: orientcheck
 bip_39_word_no_space_3: orientcheckcabin
-bip_39_word_no_space_4: orientcheckcabincause
-bip_39_word_no_space_5: orientcheckcabincausefiber
-bip_39_word_no_space_6: orientcheckcabincausefiberlocal
-bip_39_word_no_space_7: orientcheckcabincausefiberlocalunknown
-bip_39_word_no_space_8: orientcheckcabincausefiberlocalunknowngap
-bip_39_word_no_space_9: orientcheckcabincausefiberlocalunknowngapturtle
-bip_39_word_space_0:
-- orient
-- check
-- cabin
-- cause
-- fiber
-- local
-- unknown
-- gap
-- turtle
-- invite
-- lazy
-- abstract
-bip_39_word_space_1: orient
-bip_39_word_space_10: orient check cabin cause fiber local unknown gap turtle invite
-bip_39_word_space_11: orient check cabin cause fiber local unknown gap turtle invite
-  lazy
 bip_39_word_space_12: orient check cabin cause fiber local unknown gap turtle invite
   lazy abstract
 bip_39_word_space_2: orient check
 bip_39_word_space_3: orient check cabin
-bip_39_word_space_4: orient check cabin cause
-bip_39_word_space_5: orient check cabin cause fiber
-bip_39_word_space_6: orient check cabin cause fiber local
-bip_39_word_space_7: orient check cabin cause fiber local unknown
-bip_39_word_space_8: orient check cabin cause fiber local unknown gap
-bip_39_word_space_9: orient check cabin cause fiber local unknown gap turtle
-bip_39_word_underscore_1: orient
-bip_39_word_underscore_10: orient_check_cabin_cause_fiber_local_unknown_gap_turtle_invite
-bip_39_word_underscore_11: orient_check_cabin_cause_fiber_local_unknown_gap_turtle_invite_lazy
 bip_39_word_underscore_12: orient_check_cabin_cause_fiber_local_unknown_gap_turtle_invite_lazy_abstract
 bip_39_word_underscore_2: orient_check
 bip_39_word_underscore_3: orient_check_cabin
-bip_39_word_underscore_4: orient_check_cabin_cause
-bip_39_word_underscore_5: orient_check_cabin_cause_fiber
-bip_39_word_underscore_6: orient_check_cabin_cause_fiber_local
-bip_39_word_underscore_7: orient_check_cabin_cause_fiber_local_unknown
-bip_39_word_underscore_8: orient_check_cabin_cause_fiber_local_unknown_gap
-bip_39_word_underscore_9: orient_check_cabin_cause_fiber_local_unknown_gap_turtle
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

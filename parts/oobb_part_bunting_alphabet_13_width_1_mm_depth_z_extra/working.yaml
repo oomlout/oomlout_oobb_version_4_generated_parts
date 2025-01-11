@@ -1,68 +1,9 @@
-bip_39_word_dash_1: funny
-bip_39_word_dash_10: funny-sock-float-post-praise-fragile-squirrel-ozone-middle-trouble
-bip_39_word_dash_11: funny-sock-float-post-praise-fragile-squirrel-ozone-middle-trouble-neglect
 bip_39_word_dash_12: funny-sock-float-post-praise-fragile-squirrel-ozone-middle-trouble-neglect-apart
 bip_39_word_dash_2: funny-sock
 bip_39_word_dash_3: funny-sock-float
-bip_39_word_dash_4: funny-sock-float-post
-bip_39_word_dash_5: funny-sock-float-post-praise
-bip_39_word_dash_6: funny-sock-float-post-praise-fragile
-bip_39_word_dash_7: funny-sock-float-post-praise-fragile-squirrel
-bip_39_word_dash_8: funny-sock-float-post-praise-fragile-squirrel-ozone
-bip_39_word_dash_9: funny-sock-float-post-praise-fragile-squirrel-ozone-middle
-bip_39_word_new_br_1: funny
-bip_39_word_new_br_10: funny<br>sock<br>float<br>post<br>praise<br>fragile<br>squirrel<br>ozone<br>middle<br>trouble
-bip_39_word_new_br_11: funny<br>sock<br>float<br>post<br>praise<br>fragile<br>squirrel<br>ozone<br>middle<br>trouble<br>neglect
 bip_39_word_new_br_12: funny<br>sock<br>float<br>post<br>praise<br>fragile<br>squirrel<br>ozone<br>middle<br>trouble<br>neglect<br>apart
 bip_39_word_new_br_2: funny<br>sock
 bip_39_word_new_br_3: funny<br>sock<br>float
-bip_39_word_new_br_4: funny<br>sock<br>float<br>post
-bip_39_word_new_br_5: funny<br>sock<br>float<br>post<br>praise
-bip_39_word_new_br_6: funny<br>sock<br>float<br>post<br>praise<br>fragile
-bip_39_word_new_br_7: funny<br>sock<br>float<br>post<br>praise<br>fragile<br>squirrel
-bip_39_word_new_br_8: funny<br>sock<br>float<br>post<br>praise<br>fragile<br>squirrel<br>ozone
-bip_39_word_new_br_9: funny<br>sock<br>float<br>post<br>praise<br>fragile<br>squirrel<br>ozone<br>middle
-bip_39_word_new_line_1: funny
-bip_39_word_new_line_10: 'funny
-
-  sock
-
-  float
-
-  post
-
-  praise
-
-  fragile
-
-  squirrel
-
-  ozone
-
-  middle
-
-  trouble'
-bip_39_word_new_line_11: 'funny
-
-  sock
-
-  float
-
-  post
-
-  praise
-
-  fragile
-
-  squirrel
-
-  ozone
-
-  middle
-
-  trouble
-
-  neglect'
 bip_39_word_new_line_12: 'funny
 
   sock
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'funny
   sock
 
   float'
-bip_39_word_new_line_4: 'funny
-
-  sock
-
-  float
-
-  post'
-bip_39_word_new_line_5: 'funny
-
-  sock
-
-  float
-
-  post
-
-  praise'
-bip_39_word_new_line_6: 'funny
-
-  sock
-
-  float
-
-  post
-
-  praise
-
-  fragile'
-bip_39_word_new_line_7: 'funny
-
-  sock
-
-  float
-
-  post
-
-  praise
-
-  fragile
-
-  squirrel'
-bip_39_word_new_line_8: 'funny
-
-  sock
-
-  float
-
-  post
-
-  praise
-
-  fragile
-
-  squirrel
-
-  ozone'
-bip_39_word_new_line_9: 'funny
-
-  sock
-
-  float
-
-  post
-
-  praise
-
-  fragile
-
-  squirrel
-
-  ozone
-
-  middle'
-bip_39_word_no_space_1: funny
-bip_39_word_no_space_10: funnysockfloatpostpraisefragilesquirrelozonemiddletrouble
-bip_39_word_no_space_11: funnysockfloatpostpraisefragilesquirrelozonemiddletroubleneglect
 bip_39_word_no_space_12: funnysockfloatpostpraisefragilesquirrelozonemiddletroubleneglectapart
 bip_39_word_no_space_2: funnysock
 bip_39_word_no_space_3: funnysockfloat
-bip_39_word_no_space_4: funnysockfloatpost
-bip_39_word_no_space_5: funnysockfloatpostpraise
-bip_39_word_no_space_6: funnysockfloatpostpraisefragile
-bip_39_word_no_space_7: funnysockfloatpostpraisefragilesquirrel
-bip_39_word_no_space_8: funnysockfloatpostpraisefragilesquirrelozone
-bip_39_word_no_space_9: funnysockfloatpostpraisefragilesquirrelozonemiddle
-bip_39_word_space_0:
-- funny
-- sock
-- float
-- post
-- praise
-- fragile
-- squirrel
-- ozone
-- middle
-- trouble
-- neglect
-- apart
-bip_39_word_space_1: funny
-bip_39_word_space_10: funny sock float post praise fragile squirrel ozone middle trouble
-bip_39_word_space_11: funny sock float post praise fragile squirrel ozone middle trouble
-  neglect
 bip_39_word_space_12: funny sock float post praise fragile squirrel ozone middle trouble
   neglect apart
 bip_39_word_space_2: funny sock
 bip_39_word_space_3: funny sock float
-bip_39_word_space_4: funny sock float post
-bip_39_word_space_5: funny sock float post praise
-bip_39_word_space_6: funny sock float post praise fragile
-bip_39_word_space_7: funny sock float post praise fragile squirrel
-bip_39_word_space_8: funny sock float post praise fragile squirrel ozone
-bip_39_word_space_9: funny sock float post praise fragile squirrel ozone middle
-bip_39_word_underscore_1: funny
-bip_39_word_underscore_10: funny_sock_float_post_praise_fragile_squirrel_ozone_middle_trouble
-bip_39_word_underscore_11: funny_sock_float_post_praise_fragile_squirrel_ozone_middle_trouble_neglect
 bip_39_word_underscore_12: funny_sock_float_post_praise_fragile_squirrel_ozone_middle_trouble_neglect_apart
 bip_39_word_underscore_2: funny_sock
 bip_39_word_underscore_3: funny_sock_float
-bip_39_word_underscore_4: funny_sock_float_post
-bip_39_word_underscore_5: funny_sock_float_post_praise
-bip_39_word_underscore_6: funny_sock_float_post_praise_fragile
-bip_39_word_underscore_7: funny_sock_float_post_praise_fragile_squirrel
-bip_39_word_underscore_8: funny_sock_float_post_praise_fragile_squirrel_ozone
-bip_39_word_underscore_9: funny_sock_float_post_praise_fragile_squirrel_ozone_middle
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

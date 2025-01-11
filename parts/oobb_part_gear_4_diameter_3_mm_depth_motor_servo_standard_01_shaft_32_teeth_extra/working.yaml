@@ -1,68 +1,9 @@
-bip_39_word_dash_1: nut
-bip_39_word_dash_10: nut-evil-prize-lobster-ostrich-riot-cable-chest-border-dish
-bip_39_word_dash_11: nut-evil-prize-lobster-ostrich-riot-cable-chest-border-dish-anchor
 bip_39_word_dash_12: nut-evil-prize-lobster-ostrich-riot-cable-chest-border-dish-anchor-arm
 bip_39_word_dash_2: nut-evil
 bip_39_word_dash_3: nut-evil-prize
-bip_39_word_dash_4: nut-evil-prize-lobster
-bip_39_word_dash_5: nut-evil-prize-lobster-ostrich
-bip_39_word_dash_6: nut-evil-prize-lobster-ostrich-riot
-bip_39_word_dash_7: nut-evil-prize-lobster-ostrich-riot-cable
-bip_39_word_dash_8: nut-evil-prize-lobster-ostrich-riot-cable-chest
-bip_39_word_dash_9: nut-evil-prize-lobster-ostrich-riot-cable-chest-border
-bip_39_word_new_br_1: nut
-bip_39_word_new_br_10: nut<br>evil<br>prize<br>lobster<br>ostrich<br>riot<br>cable<br>chest<br>border<br>dish
-bip_39_word_new_br_11: nut<br>evil<br>prize<br>lobster<br>ostrich<br>riot<br>cable<br>chest<br>border<br>dish<br>anchor
 bip_39_word_new_br_12: nut<br>evil<br>prize<br>lobster<br>ostrich<br>riot<br>cable<br>chest<br>border<br>dish<br>anchor<br>arm
 bip_39_word_new_br_2: nut<br>evil
 bip_39_word_new_br_3: nut<br>evil<br>prize
-bip_39_word_new_br_4: nut<br>evil<br>prize<br>lobster
-bip_39_word_new_br_5: nut<br>evil<br>prize<br>lobster<br>ostrich
-bip_39_word_new_br_6: nut<br>evil<br>prize<br>lobster<br>ostrich<br>riot
-bip_39_word_new_br_7: nut<br>evil<br>prize<br>lobster<br>ostrich<br>riot<br>cable
-bip_39_word_new_br_8: nut<br>evil<br>prize<br>lobster<br>ostrich<br>riot<br>cable<br>chest
-bip_39_word_new_br_9: nut<br>evil<br>prize<br>lobster<br>ostrich<br>riot<br>cable<br>chest<br>border
-bip_39_word_new_line_1: nut
-bip_39_word_new_line_10: 'nut
-
-  evil
-
-  prize
-
-  lobster
-
-  ostrich
-
-  riot
-
-  cable
-
-  chest
-
-  border
-
-  dish'
-bip_39_word_new_line_11: 'nut
-
-  evil
-
-  prize
-
-  lobster
-
-  ostrich
-
-  riot
-
-  cable
-
-  chest
-
-  border
-
-  dish
-
-  anchor'
 bip_39_word_new_line_12: 'nut
 
   evil
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'nut
   evil
 
   prize'
-bip_39_word_new_line_4: 'nut
-
-  evil
-
-  prize
-
-  lobster'
-bip_39_word_new_line_5: 'nut
-
-  evil
-
-  prize
-
-  lobster
-
-  ostrich'
-bip_39_word_new_line_6: 'nut
-
-  evil
-
-  prize
-
-  lobster
-
-  ostrich
-
-  riot'
-bip_39_word_new_line_7: 'nut
-
-  evil
-
-  prize
-
-  lobster
-
-  ostrich
-
-  riot
-
-  cable'
-bip_39_word_new_line_8: 'nut
-
-  evil
-
-  prize
-
-  lobster
-
-  ostrich
-
-  riot
-
-  cable
-
-  chest'
-bip_39_word_new_line_9: 'nut
-
-  evil
-
-  prize
-
-  lobster
-
-  ostrich
-
-  riot
-
-  cable
-
-  chest
-
-  border'
-bip_39_word_no_space_1: nut
-bip_39_word_no_space_10: nutevilprizelobsterostrichriotcablechestborderdish
-bip_39_word_no_space_11: nutevilprizelobsterostrichriotcablechestborderdishanchor
 bip_39_word_no_space_12: nutevilprizelobsterostrichriotcablechestborderdishanchorarm
 bip_39_word_no_space_2: nutevil
 bip_39_word_no_space_3: nutevilprize
-bip_39_word_no_space_4: nutevilprizelobster
-bip_39_word_no_space_5: nutevilprizelobsterostrich
-bip_39_word_no_space_6: nutevilprizelobsterostrichriot
-bip_39_word_no_space_7: nutevilprizelobsterostrichriotcable
-bip_39_word_no_space_8: nutevilprizelobsterostrichriotcablechest
-bip_39_word_no_space_9: nutevilprizelobsterostrichriotcablechestborder
-bip_39_word_space_0:
-- nut
-- evil
-- prize
-- lobster
-- ostrich
-- riot
-- cable
-- chest
-- border
-- dish
-- anchor
-- arm
-bip_39_word_space_1: nut
-bip_39_word_space_10: nut evil prize lobster ostrich riot cable chest border dish
-bip_39_word_space_11: nut evil prize lobster ostrich riot cable chest border dish
-  anchor
 bip_39_word_space_12: nut evil prize lobster ostrich riot cable chest border dish
   anchor arm
 bip_39_word_space_2: nut evil
 bip_39_word_space_3: nut evil prize
-bip_39_word_space_4: nut evil prize lobster
-bip_39_word_space_5: nut evil prize lobster ostrich
-bip_39_word_space_6: nut evil prize lobster ostrich riot
-bip_39_word_space_7: nut evil prize lobster ostrich riot cable
-bip_39_word_space_8: nut evil prize lobster ostrich riot cable chest
-bip_39_word_space_9: nut evil prize lobster ostrich riot cable chest border
-bip_39_word_underscore_1: nut
-bip_39_word_underscore_10: nut_evil_prize_lobster_ostrich_riot_cable_chest_border_dish
-bip_39_word_underscore_11: nut_evil_prize_lobster_ostrich_riot_cable_chest_border_dish_anchor
 bip_39_word_underscore_12: nut_evil_prize_lobster_ostrich_riot_cable_chest_border_dish_anchor_arm
 bip_39_word_underscore_2: nut_evil
 bip_39_word_underscore_3: nut_evil_prize
-bip_39_word_underscore_4: nut_evil_prize_lobster
-bip_39_word_underscore_5: nut_evil_prize_lobster_ostrich
-bip_39_word_underscore_6: nut_evil_prize_lobster_ostrich_riot
-bip_39_word_underscore_7: nut_evil_prize_lobster_ostrich_riot_cable
-bip_39_word_underscore_8: nut_evil_prize_lobster_ostrich_riot_cable_chest
-bip_39_word_underscore_9: nut_evil_prize_lobster_ostrich_riot_cable_chest_border
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

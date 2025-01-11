@@ -1,68 +1,9 @@
-bip_39_word_dash_1: vessel
-bip_39_word_dash_10: vessel-home-bounce-dial-wave-habit-normal-police-memory-matrix
-bip_39_word_dash_11: vessel-home-bounce-dial-wave-habit-normal-police-memory-matrix-olive
 bip_39_word_dash_12: vessel-home-bounce-dial-wave-habit-normal-police-memory-matrix-olive-appear
 bip_39_word_dash_2: vessel-home
 bip_39_word_dash_3: vessel-home-bounce
-bip_39_word_dash_4: vessel-home-bounce-dial
-bip_39_word_dash_5: vessel-home-bounce-dial-wave
-bip_39_word_dash_6: vessel-home-bounce-dial-wave-habit
-bip_39_word_dash_7: vessel-home-bounce-dial-wave-habit-normal
-bip_39_word_dash_8: vessel-home-bounce-dial-wave-habit-normal-police
-bip_39_word_dash_9: vessel-home-bounce-dial-wave-habit-normal-police-memory
-bip_39_word_new_br_1: vessel
-bip_39_word_new_br_10: vessel<br>home<br>bounce<br>dial<br>wave<br>habit<br>normal<br>police<br>memory<br>matrix
-bip_39_word_new_br_11: vessel<br>home<br>bounce<br>dial<br>wave<br>habit<br>normal<br>police<br>memory<br>matrix<br>olive
 bip_39_word_new_br_12: vessel<br>home<br>bounce<br>dial<br>wave<br>habit<br>normal<br>police<br>memory<br>matrix<br>olive<br>appear
 bip_39_word_new_br_2: vessel<br>home
 bip_39_word_new_br_3: vessel<br>home<br>bounce
-bip_39_word_new_br_4: vessel<br>home<br>bounce<br>dial
-bip_39_word_new_br_5: vessel<br>home<br>bounce<br>dial<br>wave
-bip_39_word_new_br_6: vessel<br>home<br>bounce<br>dial<br>wave<br>habit
-bip_39_word_new_br_7: vessel<br>home<br>bounce<br>dial<br>wave<br>habit<br>normal
-bip_39_word_new_br_8: vessel<br>home<br>bounce<br>dial<br>wave<br>habit<br>normal<br>police
-bip_39_word_new_br_9: vessel<br>home<br>bounce<br>dial<br>wave<br>habit<br>normal<br>police<br>memory
-bip_39_word_new_line_1: vessel
-bip_39_word_new_line_10: 'vessel
-
-  home
-
-  bounce
-
-  dial
-
-  wave
-
-  habit
-
-  normal
-
-  police
-
-  memory
-
-  matrix'
-bip_39_word_new_line_11: 'vessel
-
-  home
-
-  bounce
-
-  dial
-
-  wave
-
-  habit
-
-  normal
-
-  police
-
-  memory
-
-  matrix
-
-  olive'
 bip_39_word_new_line_12: 'vessel
 
   home
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'vessel
   home
 
   bounce'
-bip_39_word_new_line_4: 'vessel
-
-  home
-
-  bounce
-
-  dial'
-bip_39_word_new_line_5: 'vessel
-
-  home
-
-  bounce
-
-  dial
-
-  wave'
-bip_39_word_new_line_6: 'vessel
-
-  home
-
-  bounce
-
-  dial
-
-  wave
-
-  habit'
-bip_39_word_new_line_7: 'vessel
-
-  home
-
-  bounce
-
-  dial
-
-  wave
-
-  habit
-
-  normal'
-bip_39_word_new_line_8: 'vessel
-
-  home
-
-  bounce
-
-  dial
-
-  wave
-
-  habit
-
-  normal
-
-  police'
-bip_39_word_new_line_9: 'vessel
-
-  home
-
-  bounce
-
-  dial
-
-  wave
-
-  habit
-
-  normal
-
-  police
-
-  memory'
-bip_39_word_no_space_1: vessel
-bip_39_word_no_space_10: vesselhomebouncedialwavehabitnormalpolicememorymatrix
-bip_39_word_no_space_11: vesselhomebouncedialwavehabitnormalpolicememorymatrixolive
 bip_39_word_no_space_12: vesselhomebouncedialwavehabitnormalpolicememorymatrixoliveappear
 bip_39_word_no_space_2: vesselhome
 bip_39_word_no_space_3: vesselhomebounce
-bip_39_word_no_space_4: vesselhomebouncedial
-bip_39_word_no_space_5: vesselhomebouncedialwave
-bip_39_word_no_space_6: vesselhomebouncedialwavehabit
-bip_39_word_no_space_7: vesselhomebouncedialwavehabitnormal
-bip_39_word_no_space_8: vesselhomebouncedialwavehabitnormalpolice
-bip_39_word_no_space_9: vesselhomebouncedialwavehabitnormalpolicememory
-bip_39_word_space_0:
-- vessel
-- home
-- bounce
-- dial
-- wave
-- habit
-- normal
-- police
-- memory
-- matrix
-- olive
-- appear
-bip_39_word_space_1: vessel
-bip_39_word_space_10: vessel home bounce dial wave habit normal police memory matrix
-bip_39_word_space_11: vessel home bounce dial wave habit normal police memory matrix
-  olive
 bip_39_word_space_12: vessel home bounce dial wave habit normal police memory matrix
   olive appear
 bip_39_word_space_2: vessel home
 bip_39_word_space_3: vessel home bounce
-bip_39_word_space_4: vessel home bounce dial
-bip_39_word_space_5: vessel home bounce dial wave
-bip_39_word_space_6: vessel home bounce dial wave habit
-bip_39_word_space_7: vessel home bounce dial wave habit normal
-bip_39_word_space_8: vessel home bounce dial wave habit normal police
-bip_39_word_space_9: vessel home bounce dial wave habit normal police memory
-bip_39_word_underscore_1: vessel
-bip_39_word_underscore_10: vessel_home_bounce_dial_wave_habit_normal_police_memory_matrix
-bip_39_word_underscore_11: vessel_home_bounce_dial_wave_habit_normal_police_memory_matrix_olive
 bip_39_word_underscore_12: vessel_home_bounce_dial_wave_habit_normal_police_memory_matrix_olive_appear
 bip_39_word_underscore_2: vessel_home
 bip_39_word_underscore_3: vessel_home_bounce
-bip_39_word_underscore_4: vessel_home_bounce_dial
-bip_39_word_underscore_5: vessel_home_bounce_dial_wave
-bip_39_word_underscore_6: vessel_home_bounce_dial_wave_habit
-bip_39_word_underscore_7: vessel_home_bounce_dial_wave_habit_normal
-bip_39_word_underscore_8: vessel_home_bounce_dial_wave_habit_normal_police
-bip_39_word_underscore_9: vessel_home_bounce_dial_wave_habit_normal_police_memory
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

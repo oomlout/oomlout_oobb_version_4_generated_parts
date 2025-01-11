@@ -1,68 +1,9 @@
-bip_39_word_dash_1: mosquito
-bip_39_word_dash_10: mosquito-ghost-liquid-equip-path-swarm-access-glare-fitness-verify
-bip_39_word_dash_11: mosquito-ghost-liquid-equip-path-swarm-access-glare-fitness-verify-health
 bip_39_word_dash_12: mosquito-ghost-liquid-equip-path-swarm-access-glare-fitness-verify-health-afraid
 bip_39_word_dash_2: mosquito-ghost
 bip_39_word_dash_3: mosquito-ghost-liquid
-bip_39_word_dash_4: mosquito-ghost-liquid-equip
-bip_39_word_dash_5: mosquito-ghost-liquid-equip-path
-bip_39_word_dash_6: mosquito-ghost-liquid-equip-path-swarm
-bip_39_word_dash_7: mosquito-ghost-liquid-equip-path-swarm-access
-bip_39_word_dash_8: mosquito-ghost-liquid-equip-path-swarm-access-glare
-bip_39_word_dash_9: mosquito-ghost-liquid-equip-path-swarm-access-glare-fitness
-bip_39_word_new_br_1: mosquito
-bip_39_word_new_br_10: mosquito<br>ghost<br>liquid<br>equip<br>path<br>swarm<br>access<br>glare<br>fitness<br>verify
-bip_39_word_new_br_11: mosquito<br>ghost<br>liquid<br>equip<br>path<br>swarm<br>access<br>glare<br>fitness<br>verify<br>health
 bip_39_word_new_br_12: mosquito<br>ghost<br>liquid<br>equip<br>path<br>swarm<br>access<br>glare<br>fitness<br>verify<br>health<br>afraid
 bip_39_word_new_br_2: mosquito<br>ghost
 bip_39_word_new_br_3: mosquito<br>ghost<br>liquid
-bip_39_word_new_br_4: mosquito<br>ghost<br>liquid<br>equip
-bip_39_word_new_br_5: mosquito<br>ghost<br>liquid<br>equip<br>path
-bip_39_word_new_br_6: mosquito<br>ghost<br>liquid<br>equip<br>path<br>swarm
-bip_39_word_new_br_7: mosquito<br>ghost<br>liquid<br>equip<br>path<br>swarm<br>access
-bip_39_word_new_br_8: mosquito<br>ghost<br>liquid<br>equip<br>path<br>swarm<br>access<br>glare
-bip_39_word_new_br_9: mosquito<br>ghost<br>liquid<br>equip<br>path<br>swarm<br>access<br>glare<br>fitness
-bip_39_word_new_line_1: mosquito
-bip_39_word_new_line_10: 'mosquito
-
-  ghost
-
-  liquid
-
-  equip
-
-  path
-
-  swarm
-
-  access
-
-  glare
-
-  fitness
-
-  verify'
-bip_39_word_new_line_11: 'mosquito
-
-  ghost
-
-  liquid
-
-  equip
-
-  path
-
-  swarm
-
-  access
-
-  glare
-
-  fitness
-
-  verify
-
-  health'
 bip_39_word_new_line_12: 'mosquito
 
   ghost
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'mosquito
   ghost
 
   liquid'
-bip_39_word_new_line_4: 'mosquito
-
-  ghost
-
-  liquid
-
-  equip'
-bip_39_word_new_line_5: 'mosquito
-
-  ghost
-
-  liquid
-
-  equip
-
-  path'
-bip_39_word_new_line_6: 'mosquito
-
-  ghost
-
-  liquid
-
-  equip
-
-  path
-
-  swarm'
-bip_39_word_new_line_7: 'mosquito
-
-  ghost
-
-  liquid
-
-  equip
-
-  path
-
-  swarm
-
-  access'
-bip_39_word_new_line_8: 'mosquito
-
-  ghost
-
-  liquid
-
-  equip
-
-  path
-
-  swarm
-
-  access
-
-  glare'
-bip_39_word_new_line_9: 'mosquito
-
-  ghost
-
-  liquid
-
-  equip
-
-  path
-
-  swarm
-
-  access
-
-  glare
-
-  fitness'
-bip_39_word_no_space_1: mosquito
-bip_39_word_no_space_10: mosquitoghostliquidequippathswarmaccessglarefitnessverify
-bip_39_word_no_space_11: mosquitoghostliquidequippathswarmaccessglarefitnessverifyhealth
 bip_39_word_no_space_12: mosquitoghostliquidequippathswarmaccessglarefitnessverifyhealthafraid
 bip_39_word_no_space_2: mosquitoghost
 bip_39_word_no_space_3: mosquitoghostliquid
-bip_39_word_no_space_4: mosquitoghostliquidequip
-bip_39_word_no_space_5: mosquitoghostliquidequippath
-bip_39_word_no_space_6: mosquitoghostliquidequippathswarm
-bip_39_word_no_space_7: mosquitoghostliquidequippathswarmaccess
-bip_39_word_no_space_8: mosquitoghostliquidequippathswarmaccessglare
-bip_39_word_no_space_9: mosquitoghostliquidequippathswarmaccessglarefitness
-bip_39_word_space_0:
-- mosquito
-- ghost
-- liquid
-- equip
-- path
-- swarm
-- access
-- glare
-- fitness
-- verify
-- health
-- afraid
-bip_39_word_space_1: mosquito
-bip_39_word_space_10: mosquito ghost liquid equip path swarm access glare fitness
-  verify
-bip_39_word_space_11: mosquito ghost liquid equip path swarm access glare fitness
-  verify health
 bip_39_word_space_12: mosquito ghost liquid equip path swarm access glare fitness
   verify health afraid
 bip_39_word_space_2: mosquito ghost
 bip_39_word_space_3: mosquito ghost liquid
-bip_39_word_space_4: mosquito ghost liquid equip
-bip_39_word_space_5: mosquito ghost liquid equip path
-bip_39_word_space_6: mosquito ghost liquid equip path swarm
-bip_39_word_space_7: mosquito ghost liquid equip path swarm access
-bip_39_word_space_8: mosquito ghost liquid equip path swarm access glare
-bip_39_word_space_9: mosquito ghost liquid equip path swarm access glare fitness
-bip_39_word_underscore_1: mosquito
-bip_39_word_underscore_10: mosquito_ghost_liquid_equip_path_swarm_access_glare_fitness_verify
-bip_39_word_underscore_11: mosquito_ghost_liquid_equip_path_swarm_access_glare_fitness_verify_health
 bip_39_word_underscore_12: mosquito_ghost_liquid_equip_path_swarm_access_glare_fitness_verify_health_afraid
 bip_39_word_underscore_2: mosquito_ghost
 bip_39_word_underscore_3: mosquito_ghost_liquid
-bip_39_word_underscore_4: mosquito_ghost_liquid_equip
-bip_39_word_underscore_5: mosquito_ghost_liquid_equip_path
-bip_39_word_underscore_6: mosquito_ghost_liquid_equip_path_swarm
-bip_39_word_underscore_7: mosquito_ghost_liquid_equip_path_swarm_access
-bip_39_word_underscore_8: mosquito_ghost_liquid_equip_path_swarm_access_glare
-bip_39_word_underscore_9: mosquito_ghost_liquid_equip_path_swarm_access_glare_fitness
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

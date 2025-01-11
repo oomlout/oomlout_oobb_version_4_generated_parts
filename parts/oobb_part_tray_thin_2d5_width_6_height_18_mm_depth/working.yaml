@@ -1,68 +1,9 @@
-bip_39_word_dash_1: comic
-bip_39_word_dash_10: comic-genius-cousin-erosion-swear-glass-patrol-dolphin-truly-vicious
-bip_39_word_dash_11: comic-genius-cousin-erosion-swear-glass-patrol-dolphin-truly-vicious-faint
 bip_39_word_dash_12: comic-genius-cousin-erosion-swear-glass-patrol-dolphin-truly-vicious-faint-actor
 bip_39_word_dash_2: comic-genius
 bip_39_word_dash_3: comic-genius-cousin
-bip_39_word_dash_4: comic-genius-cousin-erosion
-bip_39_word_dash_5: comic-genius-cousin-erosion-swear
-bip_39_word_dash_6: comic-genius-cousin-erosion-swear-glass
-bip_39_word_dash_7: comic-genius-cousin-erosion-swear-glass-patrol
-bip_39_word_dash_8: comic-genius-cousin-erosion-swear-glass-patrol-dolphin
-bip_39_word_dash_9: comic-genius-cousin-erosion-swear-glass-patrol-dolphin-truly
-bip_39_word_new_br_1: comic
-bip_39_word_new_br_10: comic<br>genius<br>cousin<br>erosion<br>swear<br>glass<br>patrol<br>dolphin<br>truly<br>vicious
-bip_39_word_new_br_11: comic<br>genius<br>cousin<br>erosion<br>swear<br>glass<br>patrol<br>dolphin<br>truly<br>vicious<br>faint
 bip_39_word_new_br_12: comic<br>genius<br>cousin<br>erosion<br>swear<br>glass<br>patrol<br>dolphin<br>truly<br>vicious<br>faint<br>actor
 bip_39_word_new_br_2: comic<br>genius
 bip_39_word_new_br_3: comic<br>genius<br>cousin
-bip_39_word_new_br_4: comic<br>genius<br>cousin<br>erosion
-bip_39_word_new_br_5: comic<br>genius<br>cousin<br>erosion<br>swear
-bip_39_word_new_br_6: comic<br>genius<br>cousin<br>erosion<br>swear<br>glass
-bip_39_word_new_br_7: comic<br>genius<br>cousin<br>erosion<br>swear<br>glass<br>patrol
-bip_39_word_new_br_8: comic<br>genius<br>cousin<br>erosion<br>swear<br>glass<br>patrol<br>dolphin
-bip_39_word_new_br_9: comic<br>genius<br>cousin<br>erosion<br>swear<br>glass<br>patrol<br>dolphin<br>truly
-bip_39_word_new_line_1: comic
-bip_39_word_new_line_10: 'comic
-
-  genius
-
-  cousin
-
-  erosion
-
-  swear
-
-  glass
-
-  patrol
-
-  dolphin
-
-  truly
-
-  vicious'
-bip_39_word_new_line_11: 'comic
-
-  genius
-
-  cousin
-
-  erosion
-
-  swear
-
-  glass
-
-  patrol
-
-  dolphin
-
-  truly
-
-  vicious
-
-  faint'
 bip_39_word_new_line_12: 'comic
 
   genius
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'comic
   genius
 
   cousin'
-bip_39_word_new_line_4: 'comic
-
-  genius
-
-  cousin
-
-  erosion'
-bip_39_word_new_line_5: 'comic
-
-  genius
-
-  cousin
-
-  erosion
-
-  swear'
-bip_39_word_new_line_6: 'comic
-
-  genius
-
-  cousin
-
-  erosion
-
-  swear
-
-  glass'
-bip_39_word_new_line_7: 'comic
-
-  genius
-
-  cousin
-
-  erosion
-
-  swear
-
-  glass
-
-  patrol'
-bip_39_word_new_line_8: 'comic
-
-  genius
-
-  cousin
-
-  erosion
-
-  swear
-
-  glass
-
-  patrol
-
-  dolphin'
-bip_39_word_new_line_9: 'comic
-
-  genius
-
-  cousin
-
-  erosion
-
-  swear
-
-  glass
-
-  patrol
-
-  dolphin
-
-  truly'
-bip_39_word_no_space_1: comic
-bip_39_word_no_space_10: comicgeniuscousinerosionswearglasspatroldolphintrulyvicious
-bip_39_word_no_space_11: comicgeniuscousinerosionswearglasspatroldolphintrulyviciousfaint
 bip_39_word_no_space_12: comicgeniuscousinerosionswearglasspatroldolphintrulyviciousfaintactor
 bip_39_word_no_space_2: comicgenius
 bip_39_word_no_space_3: comicgeniuscousin
-bip_39_word_no_space_4: comicgeniuscousinerosion
-bip_39_word_no_space_5: comicgeniuscousinerosionswear
-bip_39_word_no_space_6: comicgeniuscousinerosionswearglass
-bip_39_word_no_space_7: comicgeniuscousinerosionswearglasspatrol
-bip_39_word_no_space_8: comicgeniuscousinerosionswearglasspatroldolphin
-bip_39_word_no_space_9: comicgeniuscousinerosionswearglasspatroldolphintruly
-bip_39_word_space_0:
-- comic
-- genius
-- cousin
-- erosion
-- swear
-- glass
-- patrol
-- dolphin
-- truly
-- vicious
-- faint
-- actor
-bip_39_word_space_1: comic
-bip_39_word_space_10: comic genius cousin erosion swear glass patrol dolphin truly
-  vicious
-bip_39_word_space_11: comic genius cousin erosion swear glass patrol dolphin truly
-  vicious faint
 bip_39_word_space_12: comic genius cousin erosion swear glass patrol dolphin truly
   vicious faint actor
 bip_39_word_space_2: comic genius
 bip_39_word_space_3: comic genius cousin
-bip_39_word_space_4: comic genius cousin erosion
-bip_39_word_space_5: comic genius cousin erosion swear
-bip_39_word_space_6: comic genius cousin erosion swear glass
-bip_39_word_space_7: comic genius cousin erosion swear glass patrol
-bip_39_word_space_8: comic genius cousin erosion swear glass patrol dolphin
-bip_39_word_space_9: comic genius cousin erosion swear glass patrol dolphin truly
-bip_39_word_underscore_1: comic
-bip_39_word_underscore_10: comic_genius_cousin_erosion_swear_glass_patrol_dolphin_truly_vicious
-bip_39_word_underscore_11: comic_genius_cousin_erosion_swear_glass_patrol_dolphin_truly_vicious_faint
 bip_39_word_underscore_12: comic_genius_cousin_erosion_swear_glass_patrol_dolphin_truly_vicious_faint_actor
 bip_39_word_underscore_2: comic_genius
 bip_39_word_underscore_3: comic_genius_cousin
-bip_39_word_underscore_4: comic_genius_cousin_erosion
-bip_39_word_underscore_5: comic_genius_cousin_erosion_swear
-bip_39_word_underscore_6: comic_genius_cousin_erosion_swear_glass
-bip_39_word_underscore_7: comic_genius_cousin_erosion_swear_glass_patrol
-bip_39_word_underscore_8: comic_genius_cousin_erosion_swear_glass_patrol_dolphin
-bip_39_word_underscore_9: comic_genius_cousin_erosion_swear_glass_patrol_dolphin_truly
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

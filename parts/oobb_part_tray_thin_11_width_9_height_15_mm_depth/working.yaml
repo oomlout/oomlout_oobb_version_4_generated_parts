@@ -1,68 +1,9 @@
-bip_39_word_dash_1: loop
-bip_39_word_dash_10: loop-firm-hill-point-voice-dance-oval-february-armed-possible
-bip_39_word_dash_11: loop-firm-hill-point-voice-dance-oval-february-armed-possible-praise
 bip_39_word_dash_12: loop-firm-hill-point-voice-dance-oval-february-armed-possible-praise-abuse
 bip_39_word_dash_2: loop-firm
 bip_39_word_dash_3: loop-firm-hill
-bip_39_word_dash_4: loop-firm-hill-point
-bip_39_word_dash_5: loop-firm-hill-point-voice
-bip_39_word_dash_6: loop-firm-hill-point-voice-dance
-bip_39_word_dash_7: loop-firm-hill-point-voice-dance-oval
-bip_39_word_dash_8: loop-firm-hill-point-voice-dance-oval-february
-bip_39_word_dash_9: loop-firm-hill-point-voice-dance-oval-february-armed
-bip_39_word_new_br_1: loop
-bip_39_word_new_br_10: loop<br>firm<br>hill<br>point<br>voice<br>dance<br>oval<br>february<br>armed<br>possible
-bip_39_word_new_br_11: loop<br>firm<br>hill<br>point<br>voice<br>dance<br>oval<br>february<br>armed<br>possible<br>praise
 bip_39_word_new_br_12: loop<br>firm<br>hill<br>point<br>voice<br>dance<br>oval<br>february<br>armed<br>possible<br>praise<br>abuse
 bip_39_word_new_br_2: loop<br>firm
 bip_39_word_new_br_3: loop<br>firm<br>hill
-bip_39_word_new_br_4: loop<br>firm<br>hill<br>point
-bip_39_word_new_br_5: loop<br>firm<br>hill<br>point<br>voice
-bip_39_word_new_br_6: loop<br>firm<br>hill<br>point<br>voice<br>dance
-bip_39_word_new_br_7: loop<br>firm<br>hill<br>point<br>voice<br>dance<br>oval
-bip_39_word_new_br_8: loop<br>firm<br>hill<br>point<br>voice<br>dance<br>oval<br>february
-bip_39_word_new_br_9: loop<br>firm<br>hill<br>point<br>voice<br>dance<br>oval<br>february<br>armed
-bip_39_word_new_line_1: loop
-bip_39_word_new_line_10: 'loop
-
-  firm
-
-  hill
-
-  point
-
-  voice
-
-  dance
-
-  oval
-
-  february
-
-  armed
-
-  possible'
-bip_39_word_new_line_11: 'loop
-
-  firm
-
-  hill
-
-  point
-
-  voice
-
-  dance
-
-  oval
-
-  february
-
-  armed
-
-  possible
-
-  praise'
 bip_39_word_new_line_12: 'loop
 
   firm
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'loop
   firm
 
   hill'
-bip_39_word_new_line_4: 'loop
-
-  firm
-
-  hill
-
-  point'
-bip_39_word_new_line_5: 'loop
-
-  firm
-
-  hill
-
-  point
-
-  voice'
-bip_39_word_new_line_6: 'loop
-
-  firm
-
-  hill
-
-  point
-
-  voice
-
-  dance'
-bip_39_word_new_line_7: 'loop
-
-  firm
-
-  hill
-
-  point
-
-  voice
-
-  dance
-
-  oval'
-bip_39_word_new_line_8: 'loop
-
-  firm
-
-  hill
-
-  point
-
-  voice
-
-  dance
-
-  oval
-
-  february'
-bip_39_word_new_line_9: 'loop
-
-  firm
-
-  hill
-
-  point
-
-  voice
-
-  dance
-
-  oval
-
-  february
-
-  armed'
-bip_39_word_no_space_1: loop
-bip_39_word_no_space_10: loopfirmhillpointvoicedanceovalfebruaryarmedpossible
-bip_39_word_no_space_11: loopfirmhillpointvoicedanceovalfebruaryarmedpossiblepraise
 bip_39_word_no_space_12: loopfirmhillpointvoicedanceovalfebruaryarmedpossiblepraiseabuse
 bip_39_word_no_space_2: loopfirm
 bip_39_word_no_space_3: loopfirmhill
-bip_39_word_no_space_4: loopfirmhillpoint
-bip_39_word_no_space_5: loopfirmhillpointvoice
-bip_39_word_no_space_6: loopfirmhillpointvoicedance
-bip_39_word_no_space_7: loopfirmhillpointvoicedanceoval
-bip_39_word_no_space_8: loopfirmhillpointvoicedanceovalfebruary
-bip_39_word_no_space_9: loopfirmhillpointvoicedanceovalfebruaryarmed
-bip_39_word_space_0:
-- loop
-- firm
-- hill
-- point
-- voice
-- dance
-- oval
-- february
-- armed
-- possible
-- praise
-- abuse
-bip_39_word_space_1: loop
-bip_39_word_space_10: loop firm hill point voice dance oval february armed possible
-bip_39_word_space_11: loop firm hill point voice dance oval february armed possible
-  praise
 bip_39_word_space_12: loop firm hill point voice dance oval february armed possible
   praise abuse
 bip_39_word_space_2: loop firm
 bip_39_word_space_3: loop firm hill
-bip_39_word_space_4: loop firm hill point
-bip_39_word_space_5: loop firm hill point voice
-bip_39_word_space_6: loop firm hill point voice dance
-bip_39_word_space_7: loop firm hill point voice dance oval
-bip_39_word_space_8: loop firm hill point voice dance oval february
-bip_39_word_space_9: loop firm hill point voice dance oval february armed
-bip_39_word_underscore_1: loop
-bip_39_word_underscore_10: loop_firm_hill_point_voice_dance_oval_february_armed_possible
-bip_39_word_underscore_11: loop_firm_hill_point_voice_dance_oval_february_armed_possible_praise
 bip_39_word_underscore_12: loop_firm_hill_point_voice_dance_oval_february_armed_possible_praise_abuse
 bip_39_word_underscore_2: loop_firm
 bip_39_word_underscore_3: loop_firm_hill
-bip_39_word_underscore_4: loop_firm_hill_point
-bip_39_word_underscore_5: loop_firm_hill_point_voice
-bip_39_word_underscore_6: loop_firm_hill_point_voice_dance
-bip_39_word_underscore_7: loop_firm_hill_point_voice_dance_oval
-bip_39_word_underscore_8: loop_firm_hill_point_voice_dance_oval_february
-bip_39_word_underscore_9: loop_firm_hill_point_voice_dance_oval_february_armed
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

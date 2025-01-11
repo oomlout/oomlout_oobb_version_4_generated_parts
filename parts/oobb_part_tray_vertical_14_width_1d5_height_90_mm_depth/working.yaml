@@ -1,68 +1,9 @@
-bip_39_word_dash_1: scatter
-bip_39_word_dash_10: scatter-deer-frame-vanish-eye-used-extend-doll-gate-fringe
-bip_39_word_dash_11: scatter-deer-frame-vanish-eye-used-extend-doll-gate-fringe-short
 bip_39_word_dash_12: scatter-deer-frame-vanish-eye-used-extend-doll-gate-fringe-short-alien
 bip_39_word_dash_2: scatter-deer
 bip_39_word_dash_3: scatter-deer-frame
-bip_39_word_dash_4: scatter-deer-frame-vanish
-bip_39_word_dash_5: scatter-deer-frame-vanish-eye
-bip_39_word_dash_6: scatter-deer-frame-vanish-eye-used
-bip_39_word_dash_7: scatter-deer-frame-vanish-eye-used-extend
-bip_39_word_dash_8: scatter-deer-frame-vanish-eye-used-extend-doll
-bip_39_word_dash_9: scatter-deer-frame-vanish-eye-used-extend-doll-gate
-bip_39_word_new_br_1: scatter
-bip_39_word_new_br_10: scatter<br>deer<br>frame<br>vanish<br>eye<br>used<br>extend<br>doll<br>gate<br>fringe
-bip_39_word_new_br_11: scatter<br>deer<br>frame<br>vanish<br>eye<br>used<br>extend<br>doll<br>gate<br>fringe<br>short
 bip_39_word_new_br_12: scatter<br>deer<br>frame<br>vanish<br>eye<br>used<br>extend<br>doll<br>gate<br>fringe<br>short<br>alien
 bip_39_word_new_br_2: scatter<br>deer
 bip_39_word_new_br_3: scatter<br>deer<br>frame
-bip_39_word_new_br_4: scatter<br>deer<br>frame<br>vanish
-bip_39_word_new_br_5: scatter<br>deer<br>frame<br>vanish<br>eye
-bip_39_word_new_br_6: scatter<br>deer<br>frame<br>vanish<br>eye<br>used
-bip_39_word_new_br_7: scatter<br>deer<br>frame<br>vanish<br>eye<br>used<br>extend
-bip_39_word_new_br_8: scatter<br>deer<br>frame<br>vanish<br>eye<br>used<br>extend<br>doll
-bip_39_word_new_br_9: scatter<br>deer<br>frame<br>vanish<br>eye<br>used<br>extend<br>doll<br>gate
-bip_39_word_new_line_1: scatter
-bip_39_word_new_line_10: 'scatter
-
-  deer
-
-  frame
-
-  vanish
-
-  eye
-
-  used
-
-  extend
-
-  doll
-
-  gate
-
-  fringe'
-bip_39_word_new_line_11: 'scatter
-
-  deer
-
-  frame
-
-  vanish
-
-  eye
-
-  used
-
-  extend
-
-  doll
-
-  gate
-
-  fringe
-
-  short'
 bip_39_word_new_line_12: 'scatter
 
   deer
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'scatter
   deer
 
   frame'
-bip_39_word_new_line_4: 'scatter
-
-  deer
-
-  frame
-
-  vanish'
-bip_39_word_new_line_5: 'scatter
-
-  deer
-
-  frame
-
-  vanish
-
-  eye'
-bip_39_word_new_line_6: 'scatter
-
-  deer
-
-  frame
-
-  vanish
-
-  eye
-
-  used'
-bip_39_word_new_line_7: 'scatter
-
-  deer
-
-  frame
-
-  vanish
-
-  eye
-
-  used
-
-  extend'
-bip_39_word_new_line_8: 'scatter
-
-  deer
-
-  frame
-
-  vanish
-
-  eye
-
-  used
-
-  extend
-
-  doll'
-bip_39_word_new_line_9: 'scatter
-
-  deer
-
-  frame
-
-  vanish
-
-  eye
-
-  used
-
-  extend
-
-  doll
-
-  gate'
-bip_39_word_no_space_1: scatter
-bip_39_word_no_space_10: scatterdeerframevanisheyeusedextenddollgatefringe
-bip_39_word_no_space_11: scatterdeerframevanisheyeusedextenddollgatefringeshort
 bip_39_word_no_space_12: scatterdeerframevanisheyeusedextenddollgatefringeshortalien
 bip_39_word_no_space_2: scatterdeer
 bip_39_word_no_space_3: scatterdeerframe
-bip_39_word_no_space_4: scatterdeerframevanish
-bip_39_word_no_space_5: scatterdeerframevanisheye
-bip_39_word_no_space_6: scatterdeerframevanisheyeused
-bip_39_word_no_space_7: scatterdeerframevanisheyeusedextend
-bip_39_word_no_space_8: scatterdeerframevanisheyeusedextenddoll
-bip_39_word_no_space_9: scatterdeerframevanisheyeusedextenddollgate
-bip_39_word_space_0:
-- scatter
-- deer
-- frame
-- vanish
-- eye
-- used
-- extend
-- doll
-- gate
-- fringe
-- short
-- alien
-bip_39_word_space_1: scatter
-bip_39_word_space_10: scatter deer frame vanish eye used extend doll gate fringe
-bip_39_word_space_11: scatter deer frame vanish eye used extend doll gate fringe short
 bip_39_word_space_12: scatter deer frame vanish eye used extend doll gate fringe short
   alien
 bip_39_word_space_2: scatter deer
 bip_39_word_space_3: scatter deer frame
-bip_39_word_space_4: scatter deer frame vanish
-bip_39_word_space_5: scatter deer frame vanish eye
-bip_39_word_space_6: scatter deer frame vanish eye used
-bip_39_word_space_7: scatter deer frame vanish eye used extend
-bip_39_word_space_8: scatter deer frame vanish eye used extend doll
-bip_39_word_space_9: scatter deer frame vanish eye used extend doll gate
-bip_39_word_underscore_1: scatter
-bip_39_word_underscore_10: scatter_deer_frame_vanish_eye_used_extend_doll_gate_fringe
-bip_39_word_underscore_11: scatter_deer_frame_vanish_eye_used_extend_doll_gate_fringe_short
 bip_39_word_underscore_12: scatter_deer_frame_vanish_eye_used_extend_doll_gate_fringe_short_alien
 bip_39_word_underscore_2: scatter_deer
 bip_39_word_underscore_3: scatter_deer_frame
-bip_39_word_underscore_4: scatter_deer_frame_vanish
-bip_39_word_underscore_5: scatter_deer_frame_vanish_eye
-bip_39_word_underscore_6: scatter_deer_frame_vanish_eye_used
-bip_39_word_underscore_7: scatter_deer_frame_vanish_eye_used_extend
-bip_39_word_underscore_8: scatter_deer_frame_vanish_eye_used_extend_doll
-bip_39_word_underscore_9: scatter_deer_frame_vanish_eye_used_extend_doll_gate
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

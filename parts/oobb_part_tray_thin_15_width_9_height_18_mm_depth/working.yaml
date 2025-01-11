@@ -1,68 +1,9 @@
-bip_39_word_dash_1: mask
-bip_39_word_dash_10: mask-rent-stem-bread-behave-puzzle-embrace-boost-face-swim
-bip_39_word_dash_11: mask-rent-stem-bread-behave-puzzle-embrace-boost-face-swim-east
 bip_39_word_dash_12: mask-rent-stem-bread-behave-puzzle-embrace-boost-face-swim-east-amateur
 bip_39_word_dash_2: mask-rent
 bip_39_word_dash_3: mask-rent-stem
-bip_39_word_dash_4: mask-rent-stem-bread
-bip_39_word_dash_5: mask-rent-stem-bread-behave
-bip_39_word_dash_6: mask-rent-stem-bread-behave-puzzle
-bip_39_word_dash_7: mask-rent-stem-bread-behave-puzzle-embrace
-bip_39_word_dash_8: mask-rent-stem-bread-behave-puzzle-embrace-boost
-bip_39_word_dash_9: mask-rent-stem-bread-behave-puzzle-embrace-boost-face
-bip_39_word_new_br_1: mask
-bip_39_word_new_br_10: mask<br>rent<br>stem<br>bread<br>behave<br>puzzle<br>embrace<br>boost<br>face<br>swim
-bip_39_word_new_br_11: mask<br>rent<br>stem<br>bread<br>behave<br>puzzle<br>embrace<br>boost<br>face<br>swim<br>east
 bip_39_word_new_br_12: mask<br>rent<br>stem<br>bread<br>behave<br>puzzle<br>embrace<br>boost<br>face<br>swim<br>east<br>amateur
 bip_39_word_new_br_2: mask<br>rent
 bip_39_word_new_br_3: mask<br>rent<br>stem
-bip_39_word_new_br_4: mask<br>rent<br>stem<br>bread
-bip_39_word_new_br_5: mask<br>rent<br>stem<br>bread<br>behave
-bip_39_word_new_br_6: mask<br>rent<br>stem<br>bread<br>behave<br>puzzle
-bip_39_word_new_br_7: mask<br>rent<br>stem<br>bread<br>behave<br>puzzle<br>embrace
-bip_39_word_new_br_8: mask<br>rent<br>stem<br>bread<br>behave<br>puzzle<br>embrace<br>boost
-bip_39_word_new_br_9: mask<br>rent<br>stem<br>bread<br>behave<br>puzzle<br>embrace<br>boost<br>face
-bip_39_word_new_line_1: mask
-bip_39_word_new_line_10: 'mask
-
-  rent
-
-  stem
-
-  bread
-
-  behave
-
-  puzzle
-
-  embrace
-
-  boost
-
-  face
-
-  swim'
-bip_39_word_new_line_11: 'mask
-
-  rent
-
-  stem
-
-  bread
-
-  behave
-
-  puzzle
-
-  embrace
-
-  boost
-
-  face
-
-  swim
-
-  east'
 bip_39_word_new_line_12: 'mask
 
   rent
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'mask
   rent
 
   stem'
-bip_39_word_new_line_4: 'mask
-
-  rent
-
-  stem
-
-  bread'
-bip_39_word_new_line_5: 'mask
-
-  rent
-
-  stem
-
-  bread
-
-  behave'
-bip_39_word_new_line_6: 'mask
-
-  rent
-
-  stem
-
-  bread
-
-  behave
-
-  puzzle'
-bip_39_word_new_line_7: 'mask
-
-  rent
-
-  stem
-
-  bread
-
-  behave
-
-  puzzle
-
-  embrace'
-bip_39_word_new_line_8: 'mask
-
-  rent
-
-  stem
-
-  bread
-
-  behave
-
-  puzzle
-
-  embrace
-
-  boost'
-bip_39_word_new_line_9: 'mask
-
-  rent
-
-  stem
-
-  bread
-
-  behave
-
-  puzzle
-
-  embrace
-
-  boost
-
-  face'
-bip_39_word_no_space_1: mask
-bip_39_word_no_space_10: maskrentstembreadbehavepuzzleembraceboostfaceswim
-bip_39_word_no_space_11: maskrentstembreadbehavepuzzleembraceboostfaceswimeast
 bip_39_word_no_space_12: maskrentstembreadbehavepuzzleembraceboostfaceswimeastamateur
 bip_39_word_no_space_2: maskrent
 bip_39_word_no_space_3: maskrentstem
-bip_39_word_no_space_4: maskrentstembread
-bip_39_word_no_space_5: maskrentstembreadbehave
-bip_39_word_no_space_6: maskrentstembreadbehavepuzzle
-bip_39_word_no_space_7: maskrentstembreadbehavepuzzleembrace
-bip_39_word_no_space_8: maskrentstembreadbehavepuzzleembraceboost
-bip_39_word_no_space_9: maskrentstembreadbehavepuzzleembraceboostface
-bip_39_word_space_0:
-- mask
-- rent
-- stem
-- bread
-- behave
-- puzzle
-- embrace
-- boost
-- face
-- swim
-- east
-- amateur
-bip_39_word_space_1: mask
-bip_39_word_space_10: mask rent stem bread behave puzzle embrace boost face swim
-bip_39_word_space_11: mask rent stem bread behave puzzle embrace boost face swim east
 bip_39_word_space_12: mask rent stem bread behave puzzle embrace boost face swim east
   amateur
 bip_39_word_space_2: mask rent
 bip_39_word_space_3: mask rent stem
-bip_39_word_space_4: mask rent stem bread
-bip_39_word_space_5: mask rent stem bread behave
-bip_39_word_space_6: mask rent stem bread behave puzzle
-bip_39_word_space_7: mask rent stem bread behave puzzle embrace
-bip_39_word_space_8: mask rent stem bread behave puzzle embrace boost
-bip_39_word_space_9: mask rent stem bread behave puzzle embrace boost face
-bip_39_word_underscore_1: mask
-bip_39_word_underscore_10: mask_rent_stem_bread_behave_puzzle_embrace_boost_face_swim
-bip_39_word_underscore_11: mask_rent_stem_bread_behave_puzzle_embrace_boost_face_swim_east
 bip_39_word_underscore_12: mask_rent_stem_bread_behave_puzzle_embrace_boost_face_swim_east_amateur
 bip_39_word_underscore_2: mask_rent
 bip_39_word_underscore_3: mask_rent_stem
-bip_39_word_underscore_4: mask_rent_stem_bread
-bip_39_word_underscore_5: mask_rent_stem_bread_behave
-bip_39_word_underscore_6: mask_rent_stem_bread_behave_puzzle
-bip_39_word_underscore_7: mask_rent_stem_bread_behave_puzzle_embrace
-bip_39_word_underscore_8: mask_rent_stem_bread_behave_puzzle_embrace_boost
-bip_39_word_underscore_9: mask_rent_stem_bread_behave_puzzle_embrace_boost_face
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

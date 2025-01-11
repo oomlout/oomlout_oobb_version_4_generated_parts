@@ -1,68 +1,9 @@
-bip_39_word_dash_1: shove
-bip_39_word_dash_10: shove-dilemma-butter-damp-bubble-clutch-vacant-boil-credit-offer
-bip_39_word_dash_11: shove-dilemma-butter-damp-bubble-clutch-vacant-boil-credit-offer-wait
 bip_39_word_dash_12: shove-dilemma-butter-damp-bubble-clutch-vacant-boil-credit-offer-wait-alter
 bip_39_word_dash_2: shove-dilemma
 bip_39_word_dash_3: shove-dilemma-butter
-bip_39_word_dash_4: shove-dilemma-butter-damp
-bip_39_word_dash_5: shove-dilemma-butter-damp-bubble
-bip_39_word_dash_6: shove-dilemma-butter-damp-bubble-clutch
-bip_39_word_dash_7: shove-dilemma-butter-damp-bubble-clutch-vacant
-bip_39_word_dash_8: shove-dilemma-butter-damp-bubble-clutch-vacant-boil
-bip_39_word_dash_9: shove-dilemma-butter-damp-bubble-clutch-vacant-boil-credit
-bip_39_word_new_br_1: shove
-bip_39_word_new_br_10: shove<br>dilemma<br>butter<br>damp<br>bubble<br>clutch<br>vacant<br>boil<br>credit<br>offer
-bip_39_word_new_br_11: shove<br>dilemma<br>butter<br>damp<br>bubble<br>clutch<br>vacant<br>boil<br>credit<br>offer<br>wait
 bip_39_word_new_br_12: shove<br>dilemma<br>butter<br>damp<br>bubble<br>clutch<br>vacant<br>boil<br>credit<br>offer<br>wait<br>alter
 bip_39_word_new_br_2: shove<br>dilemma
 bip_39_word_new_br_3: shove<br>dilemma<br>butter
-bip_39_word_new_br_4: shove<br>dilemma<br>butter<br>damp
-bip_39_word_new_br_5: shove<br>dilemma<br>butter<br>damp<br>bubble
-bip_39_word_new_br_6: shove<br>dilemma<br>butter<br>damp<br>bubble<br>clutch
-bip_39_word_new_br_7: shove<br>dilemma<br>butter<br>damp<br>bubble<br>clutch<br>vacant
-bip_39_word_new_br_8: shove<br>dilemma<br>butter<br>damp<br>bubble<br>clutch<br>vacant<br>boil
-bip_39_word_new_br_9: shove<br>dilemma<br>butter<br>damp<br>bubble<br>clutch<br>vacant<br>boil<br>credit
-bip_39_word_new_line_1: shove
-bip_39_word_new_line_10: 'shove
-
-  dilemma
-
-  butter
-
-  damp
-
-  bubble
-
-  clutch
-
-  vacant
-
-  boil
-
-  credit
-
-  offer'
-bip_39_word_new_line_11: 'shove
-
-  dilemma
-
-  butter
-
-  damp
-
-  bubble
-
-  clutch
-
-  vacant
-
-  boil
-
-  credit
-
-  offer
-
-  wait'
 bip_39_word_new_line_12: 'shove
 
   dilemma
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'shove
   dilemma
 
   butter'
-bip_39_word_new_line_4: 'shove
-
-  dilemma
-
-  butter
-
-  damp'
-bip_39_word_new_line_5: 'shove
-
-  dilemma
-
-  butter
-
-  damp
-
-  bubble'
-bip_39_word_new_line_6: 'shove
-
-  dilemma
-
-  butter
-
-  damp
-
-  bubble
-
-  clutch'
-bip_39_word_new_line_7: 'shove
-
-  dilemma
-
-  butter
-
-  damp
-
-  bubble
-
-  clutch
-
-  vacant'
-bip_39_word_new_line_8: 'shove
-
-  dilemma
-
-  butter
-
-  damp
-
-  bubble
-
-  clutch
-
-  vacant
-
-  boil'
-bip_39_word_new_line_9: 'shove
-
-  dilemma
-
-  butter
-
-  damp
-
-  bubble
-
-  clutch
-
-  vacant
-
-  boil
-
-  credit'
-bip_39_word_no_space_1: shove
-bip_39_word_no_space_10: shovedilemmabutterdampbubbleclutchvacantboilcreditoffer
-bip_39_word_no_space_11: shovedilemmabutterdampbubbleclutchvacantboilcreditofferwait
 bip_39_word_no_space_12: shovedilemmabutterdampbubbleclutchvacantboilcreditofferwaitalter
 bip_39_word_no_space_2: shovedilemma
 bip_39_word_no_space_3: shovedilemmabutter
-bip_39_word_no_space_4: shovedilemmabutterdamp
-bip_39_word_no_space_5: shovedilemmabutterdampbubble
-bip_39_word_no_space_6: shovedilemmabutterdampbubbleclutch
-bip_39_word_no_space_7: shovedilemmabutterdampbubbleclutchvacant
-bip_39_word_no_space_8: shovedilemmabutterdampbubbleclutchvacantboil
-bip_39_word_no_space_9: shovedilemmabutterdampbubbleclutchvacantboilcredit
-bip_39_word_space_0:
-- shove
-- dilemma
-- butter
-- damp
-- bubble
-- clutch
-- vacant
-- boil
-- credit
-- offer
-- wait
-- alter
-bip_39_word_space_1: shove
-bip_39_word_space_10: shove dilemma butter damp bubble clutch vacant boil credit offer
-bip_39_word_space_11: shove dilemma butter damp bubble clutch vacant boil credit offer
-  wait
 bip_39_word_space_12: shove dilemma butter damp bubble clutch vacant boil credit offer
   wait alter
 bip_39_word_space_2: shove dilemma
 bip_39_word_space_3: shove dilemma butter
-bip_39_word_space_4: shove dilemma butter damp
-bip_39_word_space_5: shove dilemma butter damp bubble
-bip_39_word_space_6: shove dilemma butter damp bubble clutch
-bip_39_word_space_7: shove dilemma butter damp bubble clutch vacant
-bip_39_word_space_8: shove dilemma butter damp bubble clutch vacant boil
-bip_39_word_space_9: shove dilemma butter damp bubble clutch vacant boil credit
-bip_39_word_underscore_1: shove
-bip_39_word_underscore_10: shove_dilemma_butter_damp_bubble_clutch_vacant_boil_credit_offer
-bip_39_word_underscore_11: shove_dilemma_butter_damp_bubble_clutch_vacant_boil_credit_offer_wait
 bip_39_word_underscore_12: shove_dilemma_butter_damp_bubble_clutch_vacant_boil_credit_offer_wait_alter
 bip_39_word_underscore_2: shove_dilemma
 bip_39_word_underscore_3: shove_dilemma_butter
-bip_39_word_underscore_4: shove_dilemma_butter_damp
-bip_39_word_underscore_5: shove_dilemma_butter_damp_bubble
-bip_39_word_underscore_6: shove_dilemma_butter_damp_bubble_clutch
-bip_39_word_underscore_7: shove_dilemma_butter_damp_bubble_clutch_vacant
-bip_39_word_underscore_8: shove_dilemma_butter_damp_bubble_clutch_vacant_boil
-bip_39_word_underscore_9: shove_dilemma_butter_damp_bubble_clutch_vacant_boil_credit
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

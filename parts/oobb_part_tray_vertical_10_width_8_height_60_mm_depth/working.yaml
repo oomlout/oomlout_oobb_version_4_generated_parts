@@ -1,68 +1,9 @@
-bip_39_word_dash_1: limit
-bip_39_word_dash_10: limit-bounce-letter-kite-trial-idea-clip-target-bird-unique
-bip_39_word_dash_11: limit-bounce-letter-kite-trial-idea-clip-target-bird-unique-elder
 bip_39_word_dash_12: limit-bounce-letter-kite-trial-idea-clip-target-bird-unique-elder-affair
 bip_39_word_dash_2: limit-bounce
 bip_39_word_dash_3: limit-bounce-letter
-bip_39_word_dash_4: limit-bounce-letter-kite
-bip_39_word_dash_5: limit-bounce-letter-kite-trial
-bip_39_word_dash_6: limit-bounce-letter-kite-trial-idea
-bip_39_word_dash_7: limit-bounce-letter-kite-trial-idea-clip
-bip_39_word_dash_8: limit-bounce-letter-kite-trial-idea-clip-target
-bip_39_word_dash_9: limit-bounce-letter-kite-trial-idea-clip-target-bird
-bip_39_word_new_br_1: limit
-bip_39_word_new_br_10: limit<br>bounce<br>letter<br>kite<br>trial<br>idea<br>clip<br>target<br>bird<br>unique
-bip_39_word_new_br_11: limit<br>bounce<br>letter<br>kite<br>trial<br>idea<br>clip<br>target<br>bird<br>unique<br>elder
 bip_39_word_new_br_12: limit<br>bounce<br>letter<br>kite<br>trial<br>idea<br>clip<br>target<br>bird<br>unique<br>elder<br>affair
 bip_39_word_new_br_2: limit<br>bounce
 bip_39_word_new_br_3: limit<br>bounce<br>letter
-bip_39_word_new_br_4: limit<br>bounce<br>letter<br>kite
-bip_39_word_new_br_5: limit<br>bounce<br>letter<br>kite<br>trial
-bip_39_word_new_br_6: limit<br>bounce<br>letter<br>kite<br>trial<br>idea
-bip_39_word_new_br_7: limit<br>bounce<br>letter<br>kite<br>trial<br>idea<br>clip
-bip_39_word_new_br_8: limit<br>bounce<br>letter<br>kite<br>trial<br>idea<br>clip<br>target
-bip_39_word_new_br_9: limit<br>bounce<br>letter<br>kite<br>trial<br>idea<br>clip<br>target<br>bird
-bip_39_word_new_line_1: limit
-bip_39_word_new_line_10: 'limit
-
-  bounce
-
-  letter
-
-  kite
-
-  trial
-
-  idea
-
-  clip
-
-  target
-
-  bird
-
-  unique'
-bip_39_word_new_line_11: 'limit
-
-  bounce
-
-  letter
-
-  kite
-
-  trial
-
-  idea
-
-  clip
-
-  target
-
-  bird
-
-  unique
-
-  elder'
 bip_39_word_new_line_12: 'limit
 
   bounce
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'limit
   bounce
 
   letter'
-bip_39_word_new_line_4: 'limit
-
-  bounce
-
-  letter
-
-  kite'
-bip_39_word_new_line_5: 'limit
-
-  bounce
-
-  letter
-
-  kite
-
-  trial'
-bip_39_word_new_line_6: 'limit
-
-  bounce
-
-  letter
-
-  kite
-
-  trial
-
-  idea'
-bip_39_word_new_line_7: 'limit
-
-  bounce
-
-  letter
-
-  kite
-
-  trial
-
-  idea
-
-  clip'
-bip_39_word_new_line_8: 'limit
-
-  bounce
-
-  letter
-
-  kite
-
-  trial
-
-  idea
-
-  clip
-
-  target'
-bip_39_word_new_line_9: 'limit
-
-  bounce
-
-  letter
-
-  kite
-
-  trial
-
-  idea
-
-  clip
-
-  target
-
-  bird'
-bip_39_word_no_space_1: limit
-bip_39_word_no_space_10: limitbounceletterkitetrialideacliptargetbirdunique
-bip_39_word_no_space_11: limitbounceletterkitetrialideacliptargetbirduniqueelder
 bip_39_word_no_space_12: limitbounceletterkitetrialideacliptargetbirduniqueelderaffair
 bip_39_word_no_space_2: limitbounce
 bip_39_word_no_space_3: limitbounceletter
-bip_39_word_no_space_4: limitbounceletterkite
-bip_39_word_no_space_5: limitbounceletterkitetrial
-bip_39_word_no_space_6: limitbounceletterkitetrialidea
-bip_39_word_no_space_7: limitbounceletterkitetrialideaclip
-bip_39_word_no_space_8: limitbounceletterkitetrialideacliptarget
-bip_39_word_no_space_9: limitbounceletterkitetrialideacliptargetbird
-bip_39_word_space_0:
-- limit
-- bounce
-- letter
-- kite
-- trial
-- idea
-- clip
-- target
-- bird
-- unique
-- elder
-- affair
-bip_39_word_space_1: limit
-bip_39_word_space_10: limit bounce letter kite trial idea clip target bird unique
-bip_39_word_space_11: limit bounce letter kite trial idea clip target bird unique
-  elder
 bip_39_word_space_12: limit bounce letter kite trial idea clip target bird unique
   elder affair
 bip_39_word_space_2: limit bounce
 bip_39_word_space_3: limit bounce letter
-bip_39_word_space_4: limit bounce letter kite
-bip_39_word_space_5: limit bounce letter kite trial
-bip_39_word_space_6: limit bounce letter kite trial idea
-bip_39_word_space_7: limit bounce letter kite trial idea clip
-bip_39_word_space_8: limit bounce letter kite trial idea clip target
-bip_39_word_space_9: limit bounce letter kite trial idea clip target bird
-bip_39_word_underscore_1: limit
-bip_39_word_underscore_10: limit_bounce_letter_kite_trial_idea_clip_target_bird_unique
-bip_39_word_underscore_11: limit_bounce_letter_kite_trial_idea_clip_target_bird_unique_elder
 bip_39_word_underscore_12: limit_bounce_letter_kite_trial_idea_clip_target_bird_unique_elder_affair
 bip_39_word_underscore_2: limit_bounce
 bip_39_word_underscore_3: limit_bounce_letter
-bip_39_word_underscore_4: limit_bounce_letter_kite
-bip_39_word_underscore_5: limit_bounce_letter_kite_trial
-bip_39_word_underscore_6: limit_bounce_letter_kite_trial_idea
-bip_39_word_underscore_7: limit_bounce_letter_kite_trial_idea_clip
-bip_39_word_underscore_8: limit_bounce_letter_kite_trial_idea_clip_target
-bip_39_word_underscore_9: limit_bounce_letter_kite_trial_idea_clip_target_bird
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

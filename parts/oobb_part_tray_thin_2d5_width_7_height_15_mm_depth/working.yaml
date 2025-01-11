@@ -1,68 +1,9 @@
-bip_39_word_dash_1: pact
-bip_39_word_dash_10: pact-theme-wheat-echo-seek-yellow-resource-act-online-zoo
-bip_39_word_dash_11: pact-theme-wheat-echo-seek-yellow-resource-act-online-zoo-usage
 bip_39_word_dash_12: pact-theme-wheat-echo-seek-yellow-resource-act-online-zoo-usage-account
 bip_39_word_dash_2: pact-theme
 bip_39_word_dash_3: pact-theme-wheat
-bip_39_word_dash_4: pact-theme-wheat-echo
-bip_39_word_dash_5: pact-theme-wheat-echo-seek
-bip_39_word_dash_6: pact-theme-wheat-echo-seek-yellow
-bip_39_word_dash_7: pact-theme-wheat-echo-seek-yellow-resource
-bip_39_word_dash_8: pact-theme-wheat-echo-seek-yellow-resource-act
-bip_39_word_dash_9: pact-theme-wheat-echo-seek-yellow-resource-act-online
-bip_39_word_new_br_1: pact
-bip_39_word_new_br_10: pact<br>theme<br>wheat<br>echo<br>seek<br>yellow<br>resource<br>act<br>online<br>zoo
-bip_39_word_new_br_11: pact<br>theme<br>wheat<br>echo<br>seek<br>yellow<br>resource<br>act<br>online<br>zoo<br>usage
 bip_39_word_new_br_12: pact<br>theme<br>wheat<br>echo<br>seek<br>yellow<br>resource<br>act<br>online<br>zoo<br>usage<br>account
 bip_39_word_new_br_2: pact<br>theme
 bip_39_word_new_br_3: pact<br>theme<br>wheat
-bip_39_word_new_br_4: pact<br>theme<br>wheat<br>echo
-bip_39_word_new_br_5: pact<br>theme<br>wheat<br>echo<br>seek
-bip_39_word_new_br_6: pact<br>theme<br>wheat<br>echo<br>seek<br>yellow
-bip_39_word_new_br_7: pact<br>theme<br>wheat<br>echo<br>seek<br>yellow<br>resource
-bip_39_word_new_br_8: pact<br>theme<br>wheat<br>echo<br>seek<br>yellow<br>resource<br>act
-bip_39_word_new_br_9: pact<br>theme<br>wheat<br>echo<br>seek<br>yellow<br>resource<br>act<br>online
-bip_39_word_new_line_1: pact
-bip_39_word_new_line_10: 'pact
-
-  theme
-
-  wheat
-
-  echo
-
-  seek
-
-  yellow
-
-  resource
-
-  act
-
-  online
-
-  zoo'
-bip_39_word_new_line_11: 'pact
-
-  theme
-
-  wheat
-
-  echo
-
-  seek
-
-  yellow
-
-  resource
-
-  act
-
-  online
-
-  zoo
-
-  usage'
 bip_39_word_new_line_12: 'pact
 
   theme
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'pact
   theme
 
   wheat'
-bip_39_word_new_line_4: 'pact
-
-  theme
-
-  wheat
-
-  echo'
-bip_39_word_new_line_5: 'pact
-
-  theme
-
-  wheat
-
-  echo
-
-  seek'
-bip_39_word_new_line_6: 'pact
-
-  theme
-
-  wheat
-
-  echo
-
-  seek
-
-  yellow'
-bip_39_word_new_line_7: 'pact
-
-  theme
-
-  wheat
-
-  echo
-
-  seek
-
-  yellow
-
-  resource'
-bip_39_word_new_line_8: 'pact
-
-  theme
-
-  wheat
-
-  echo
-
-  seek
-
-  yellow
-
-  resource
-
-  act'
-bip_39_word_new_line_9: 'pact
-
-  theme
-
-  wheat
-
-  echo
-
-  seek
-
-  yellow
-
-  resource
-
-  act
-
-  online'
-bip_39_word_no_space_1: pact
-bip_39_word_no_space_10: pactthemewheatechoseekyellowresourceactonlinezoo
-bip_39_word_no_space_11: pactthemewheatechoseekyellowresourceactonlinezoousage
 bip_39_word_no_space_12: pactthemewheatechoseekyellowresourceactonlinezoousageaccount
 bip_39_word_no_space_2: pacttheme
 bip_39_word_no_space_3: pactthemewheat
-bip_39_word_no_space_4: pactthemewheatecho
-bip_39_word_no_space_5: pactthemewheatechoseek
-bip_39_word_no_space_6: pactthemewheatechoseekyellow
-bip_39_word_no_space_7: pactthemewheatechoseekyellowresource
-bip_39_word_no_space_8: pactthemewheatechoseekyellowresourceact
-bip_39_word_no_space_9: pactthemewheatechoseekyellowresourceactonline
-bip_39_word_space_0:
-- pact
-- theme
-- wheat
-- echo
-- seek
-- yellow
-- resource
-- act
-- online
-- zoo
-- usage
-- account
-bip_39_word_space_1: pact
-bip_39_word_space_10: pact theme wheat echo seek yellow resource act online zoo
-bip_39_word_space_11: pact theme wheat echo seek yellow resource act online zoo usage
 bip_39_word_space_12: pact theme wheat echo seek yellow resource act online zoo usage
   account
 bip_39_word_space_2: pact theme
 bip_39_word_space_3: pact theme wheat
-bip_39_word_space_4: pact theme wheat echo
-bip_39_word_space_5: pact theme wheat echo seek
-bip_39_word_space_6: pact theme wheat echo seek yellow
-bip_39_word_space_7: pact theme wheat echo seek yellow resource
-bip_39_word_space_8: pact theme wheat echo seek yellow resource act
-bip_39_word_space_9: pact theme wheat echo seek yellow resource act online
-bip_39_word_underscore_1: pact
-bip_39_word_underscore_10: pact_theme_wheat_echo_seek_yellow_resource_act_online_zoo
-bip_39_word_underscore_11: pact_theme_wheat_echo_seek_yellow_resource_act_online_zoo_usage
 bip_39_word_underscore_12: pact_theme_wheat_echo_seek_yellow_resource_act_online_zoo_usage_account
 bip_39_word_underscore_2: pact_theme
 bip_39_word_underscore_3: pact_theme_wheat
-bip_39_word_underscore_4: pact_theme_wheat_echo
-bip_39_word_underscore_5: pact_theme_wheat_echo_seek
-bip_39_word_underscore_6: pact_theme_wheat_echo_seek_yellow
-bip_39_word_underscore_7: pact_theme_wheat_echo_seek_yellow_resource
-bip_39_word_underscore_8: pact_theme_wheat_echo_seek_yellow_resource_act
-bip_39_word_underscore_9: pact_theme_wheat_echo_seek_yellow_resource_act_online
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

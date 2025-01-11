@@ -1,68 +1,9 @@
-bip_39_word_dash_1: oblige
-bip_39_word_dash_10: oblige-stamp-trust-rich-goose-inject-pepper-reason-hood-unique
-bip_39_word_dash_11: oblige-stamp-trust-rich-goose-inject-pepper-reason-hood-unique-verify
 bip_39_word_dash_12: oblige-stamp-trust-rich-goose-inject-pepper-reason-hood-unique-verify-allow
 bip_39_word_dash_2: oblige-stamp
 bip_39_word_dash_3: oblige-stamp-trust
-bip_39_word_dash_4: oblige-stamp-trust-rich
-bip_39_word_dash_5: oblige-stamp-trust-rich-goose
-bip_39_word_dash_6: oblige-stamp-trust-rich-goose-inject
-bip_39_word_dash_7: oblige-stamp-trust-rich-goose-inject-pepper
-bip_39_word_dash_8: oblige-stamp-trust-rich-goose-inject-pepper-reason
-bip_39_word_dash_9: oblige-stamp-trust-rich-goose-inject-pepper-reason-hood
-bip_39_word_new_br_1: oblige
-bip_39_word_new_br_10: oblige<br>stamp<br>trust<br>rich<br>goose<br>inject<br>pepper<br>reason<br>hood<br>unique
-bip_39_word_new_br_11: oblige<br>stamp<br>trust<br>rich<br>goose<br>inject<br>pepper<br>reason<br>hood<br>unique<br>verify
 bip_39_word_new_br_12: oblige<br>stamp<br>trust<br>rich<br>goose<br>inject<br>pepper<br>reason<br>hood<br>unique<br>verify<br>allow
 bip_39_word_new_br_2: oblige<br>stamp
 bip_39_word_new_br_3: oblige<br>stamp<br>trust
-bip_39_word_new_br_4: oblige<br>stamp<br>trust<br>rich
-bip_39_word_new_br_5: oblige<br>stamp<br>trust<br>rich<br>goose
-bip_39_word_new_br_6: oblige<br>stamp<br>trust<br>rich<br>goose<br>inject
-bip_39_word_new_br_7: oblige<br>stamp<br>trust<br>rich<br>goose<br>inject<br>pepper
-bip_39_word_new_br_8: oblige<br>stamp<br>trust<br>rich<br>goose<br>inject<br>pepper<br>reason
-bip_39_word_new_br_9: oblige<br>stamp<br>trust<br>rich<br>goose<br>inject<br>pepper<br>reason<br>hood
-bip_39_word_new_line_1: oblige
-bip_39_word_new_line_10: 'oblige
-
-  stamp
-
-  trust
-
-  rich
-
-  goose
-
-  inject
-
-  pepper
-
-  reason
-
-  hood
-
-  unique'
-bip_39_word_new_line_11: 'oblige
-
-  stamp
-
-  trust
-
-  rich
-
-  goose
-
-  inject
-
-  pepper
-
-  reason
-
-  hood
-
-  unique
-
-  verify'
 bip_39_word_new_line_12: 'oblige
 
   stamp
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'oblige
   stamp
 
   trust'
-bip_39_word_new_line_4: 'oblige
-
-  stamp
-
-  trust
-
-  rich'
-bip_39_word_new_line_5: 'oblige
-
-  stamp
-
-  trust
-
-  rich
-
-  goose'
-bip_39_word_new_line_6: 'oblige
-
-  stamp
-
-  trust
-
-  rich
-
-  goose
-
-  inject'
-bip_39_word_new_line_7: 'oblige
-
-  stamp
-
-  trust
-
-  rich
-
-  goose
-
-  inject
-
-  pepper'
-bip_39_word_new_line_8: 'oblige
-
-  stamp
-
-  trust
-
-  rich
-
-  goose
-
-  inject
-
-  pepper
-
-  reason'
-bip_39_word_new_line_9: 'oblige
-
-  stamp
-
-  trust
-
-  rich
-
-  goose
-
-  inject
-
-  pepper
-
-  reason
-
-  hood'
-bip_39_word_no_space_1: oblige
-bip_39_word_no_space_10: obligestamptrustrichgooseinjectpepperreasonhoodunique
-bip_39_word_no_space_11: obligestamptrustrichgooseinjectpepperreasonhooduniqueverify
 bip_39_word_no_space_12: obligestamptrustrichgooseinjectpepperreasonhooduniqueverifyallow
 bip_39_word_no_space_2: obligestamp
 bip_39_word_no_space_3: obligestamptrust
-bip_39_word_no_space_4: obligestamptrustrich
-bip_39_word_no_space_5: obligestamptrustrichgoose
-bip_39_word_no_space_6: obligestamptrustrichgooseinject
-bip_39_word_no_space_7: obligestamptrustrichgooseinjectpepper
-bip_39_word_no_space_8: obligestamptrustrichgooseinjectpepperreason
-bip_39_word_no_space_9: obligestamptrustrichgooseinjectpepperreasonhood
-bip_39_word_space_0:
-- oblige
-- stamp
-- trust
-- rich
-- goose
-- inject
-- pepper
-- reason
-- hood
-- unique
-- verify
-- allow
-bip_39_word_space_1: oblige
-bip_39_word_space_10: oblige stamp trust rich goose inject pepper reason hood unique
-bip_39_word_space_11: oblige stamp trust rich goose inject pepper reason hood unique
-  verify
 bip_39_word_space_12: oblige stamp trust rich goose inject pepper reason hood unique
   verify allow
 bip_39_word_space_2: oblige stamp
 bip_39_word_space_3: oblige stamp trust
-bip_39_word_space_4: oblige stamp trust rich
-bip_39_word_space_5: oblige stamp trust rich goose
-bip_39_word_space_6: oblige stamp trust rich goose inject
-bip_39_word_space_7: oblige stamp trust rich goose inject pepper
-bip_39_word_space_8: oblige stamp trust rich goose inject pepper reason
-bip_39_word_space_9: oblige stamp trust rich goose inject pepper reason hood
-bip_39_word_underscore_1: oblige
-bip_39_word_underscore_10: oblige_stamp_trust_rich_goose_inject_pepper_reason_hood_unique
-bip_39_word_underscore_11: oblige_stamp_trust_rich_goose_inject_pepper_reason_hood_unique_verify
 bip_39_word_underscore_12: oblige_stamp_trust_rich_goose_inject_pepper_reason_hood_unique_verify_allow
 bip_39_word_underscore_2: oblige_stamp
 bip_39_word_underscore_3: oblige_stamp_trust
-bip_39_word_underscore_4: oblige_stamp_trust_rich
-bip_39_word_underscore_5: oblige_stamp_trust_rich_goose
-bip_39_word_underscore_6: oblige_stamp_trust_rich_goose_inject
-bip_39_word_underscore_7: oblige_stamp_trust_rich_goose_inject_pepper
-bip_39_word_underscore_8: oblige_stamp_trust_rich_goose_inject_pepper_reason
-bip_39_word_underscore_9: oblige_stamp_trust_rich_goose_inject_pepper_reason_hood
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

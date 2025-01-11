@@ -1,68 +1,9 @@
-bip_39_word_dash_1: exclude
-bip_39_word_dash_10: exclude-breeze-surface-major-shove-noodle-hammer-aim-monitor-settle
-bip_39_word_dash_11: exclude-breeze-surface-major-shove-noodle-hammer-aim-monitor-settle-injury
 bip_39_word_dash_12: exclude-breeze-surface-major-shove-noodle-hammer-aim-monitor-settle-injury-antique
 bip_39_word_dash_2: exclude-breeze
 bip_39_word_dash_3: exclude-breeze-surface
-bip_39_word_dash_4: exclude-breeze-surface-major
-bip_39_word_dash_5: exclude-breeze-surface-major-shove
-bip_39_word_dash_6: exclude-breeze-surface-major-shove-noodle
-bip_39_word_dash_7: exclude-breeze-surface-major-shove-noodle-hammer
-bip_39_word_dash_8: exclude-breeze-surface-major-shove-noodle-hammer-aim
-bip_39_word_dash_9: exclude-breeze-surface-major-shove-noodle-hammer-aim-monitor
-bip_39_word_new_br_1: exclude
-bip_39_word_new_br_10: exclude<br>breeze<br>surface<br>major<br>shove<br>noodle<br>hammer<br>aim<br>monitor<br>settle
-bip_39_word_new_br_11: exclude<br>breeze<br>surface<br>major<br>shove<br>noodle<br>hammer<br>aim<br>monitor<br>settle<br>injury
 bip_39_word_new_br_12: exclude<br>breeze<br>surface<br>major<br>shove<br>noodle<br>hammer<br>aim<br>monitor<br>settle<br>injury<br>antique
 bip_39_word_new_br_2: exclude<br>breeze
 bip_39_word_new_br_3: exclude<br>breeze<br>surface
-bip_39_word_new_br_4: exclude<br>breeze<br>surface<br>major
-bip_39_word_new_br_5: exclude<br>breeze<br>surface<br>major<br>shove
-bip_39_word_new_br_6: exclude<br>breeze<br>surface<br>major<br>shove<br>noodle
-bip_39_word_new_br_7: exclude<br>breeze<br>surface<br>major<br>shove<br>noodle<br>hammer
-bip_39_word_new_br_8: exclude<br>breeze<br>surface<br>major<br>shove<br>noodle<br>hammer<br>aim
-bip_39_word_new_br_9: exclude<br>breeze<br>surface<br>major<br>shove<br>noodle<br>hammer<br>aim<br>monitor
-bip_39_word_new_line_1: exclude
-bip_39_word_new_line_10: 'exclude
-
-  breeze
-
-  surface
-
-  major
-
-  shove
-
-  noodle
-
-  hammer
-
-  aim
-
-  monitor
-
-  settle'
-bip_39_word_new_line_11: 'exclude
-
-  breeze
-
-  surface
-
-  major
-
-  shove
-
-  noodle
-
-  hammer
-
-  aim
-
-  monitor
-
-  settle
-
-  injury'
 bip_39_word_new_line_12: 'exclude
 
   breeze
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'exclude
   breeze
 
   surface'
-bip_39_word_new_line_4: 'exclude
-
-  breeze
-
-  surface
-
-  major'
-bip_39_word_new_line_5: 'exclude
-
-  breeze
-
-  surface
-
-  major
-
-  shove'
-bip_39_word_new_line_6: 'exclude
-
-  breeze
-
-  surface
-
-  major
-
-  shove
-
-  noodle'
-bip_39_word_new_line_7: 'exclude
-
-  breeze
-
-  surface
-
-  major
-
-  shove
-
-  noodle
-
-  hammer'
-bip_39_word_new_line_8: 'exclude
-
-  breeze
-
-  surface
-
-  major
-
-  shove
-
-  noodle
-
-  hammer
-
-  aim'
-bip_39_word_new_line_9: 'exclude
-
-  breeze
-
-  surface
-
-  major
-
-  shove
-
-  noodle
-
-  hammer
-
-  aim
-
-  monitor'
-bip_39_word_no_space_1: exclude
-bip_39_word_no_space_10: excludebreezesurfacemajorshovenoodlehammeraimmonitorsettle
-bip_39_word_no_space_11: excludebreezesurfacemajorshovenoodlehammeraimmonitorsettleinjury
 bip_39_word_no_space_12: excludebreezesurfacemajorshovenoodlehammeraimmonitorsettleinjuryantique
 bip_39_word_no_space_2: excludebreeze
 bip_39_word_no_space_3: excludebreezesurface
-bip_39_word_no_space_4: excludebreezesurfacemajor
-bip_39_word_no_space_5: excludebreezesurfacemajorshove
-bip_39_word_no_space_6: excludebreezesurfacemajorshovenoodle
-bip_39_word_no_space_7: excludebreezesurfacemajorshovenoodlehammer
-bip_39_word_no_space_8: excludebreezesurfacemajorshovenoodlehammeraim
-bip_39_word_no_space_9: excludebreezesurfacemajorshovenoodlehammeraimmonitor
-bip_39_word_space_0:
-- exclude
-- breeze
-- surface
-- major
-- shove
-- noodle
-- hammer
-- aim
-- monitor
-- settle
-- injury
-- antique
-bip_39_word_space_1: exclude
-bip_39_word_space_10: exclude breeze surface major shove noodle hammer aim monitor
-  settle
-bip_39_word_space_11: exclude breeze surface major shove noodle hammer aim monitor
-  settle injury
 bip_39_word_space_12: exclude breeze surface major shove noodle hammer aim monitor
   settle injury antique
 bip_39_word_space_2: exclude breeze
 bip_39_word_space_3: exclude breeze surface
-bip_39_word_space_4: exclude breeze surface major
-bip_39_word_space_5: exclude breeze surface major shove
-bip_39_word_space_6: exclude breeze surface major shove noodle
-bip_39_word_space_7: exclude breeze surface major shove noodle hammer
-bip_39_word_space_8: exclude breeze surface major shove noodle hammer aim
-bip_39_word_space_9: exclude breeze surface major shove noodle hammer aim monitor
-bip_39_word_underscore_1: exclude
-bip_39_word_underscore_10: exclude_breeze_surface_major_shove_noodle_hammer_aim_monitor_settle
-bip_39_word_underscore_11: exclude_breeze_surface_major_shove_noodle_hammer_aim_monitor_settle_injury
 bip_39_word_underscore_12: exclude_breeze_surface_major_shove_noodle_hammer_aim_monitor_settle_injury_antique
 bip_39_word_underscore_2: exclude_breeze
 bip_39_word_underscore_3: exclude_breeze_surface
-bip_39_word_underscore_4: exclude_breeze_surface_major
-bip_39_word_underscore_5: exclude_breeze_surface_major_shove
-bip_39_word_underscore_6: exclude_breeze_surface_major_shove_noodle
-bip_39_word_underscore_7: exclude_breeze_surface_major_shove_noodle_hammer
-bip_39_word_underscore_8: exclude_breeze_surface_major_shove_noodle_hammer_aim
-bip_39_word_underscore_9: exclude_breeze_surface_major_shove_noodle_hammer_aim_monitor
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

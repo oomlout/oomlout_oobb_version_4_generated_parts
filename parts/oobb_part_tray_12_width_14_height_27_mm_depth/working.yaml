@@ -1,68 +1,9 @@
-bip_39_word_dash_1: advance
-bip_39_word_dash_10: advance-swallow-wheat-dial-attend-still-early-tool-alley-border
-bip_39_word_dash_11: advance-swallow-wheat-dial-attend-still-early-tool-alley-border-auto
 bip_39_word_dash_12: advance-swallow-wheat-dial-attend-still-early-tool-alley-border-auto-amateur
 bip_39_word_dash_2: advance-swallow
 bip_39_word_dash_3: advance-swallow-wheat
-bip_39_word_dash_4: advance-swallow-wheat-dial
-bip_39_word_dash_5: advance-swallow-wheat-dial-attend
-bip_39_word_dash_6: advance-swallow-wheat-dial-attend-still
-bip_39_word_dash_7: advance-swallow-wheat-dial-attend-still-early
-bip_39_word_dash_8: advance-swallow-wheat-dial-attend-still-early-tool
-bip_39_word_dash_9: advance-swallow-wheat-dial-attend-still-early-tool-alley
-bip_39_word_new_br_1: advance
-bip_39_word_new_br_10: advance<br>swallow<br>wheat<br>dial<br>attend<br>still<br>early<br>tool<br>alley<br>border
-bip_39_word_new_br_11: advance<br>swallow<br>wheat<br>dial<br>attend<br>still<br>early<br>tool<br>alley<br>border<br>auto
 bip_39_word_new_br_12: advance<br>swallow<br>wheat<br>dial<br>attend<br>still<br>early<br>tool<br>alley<br>border<br>auto<br>amateur
 bip_39_word_new_br_2: advance<br>swallow
 bip_39_word_new_br_3: advance<br>swallow<br>wheat
-bip_39_word_new_br_4: advance<br>swallow<br>wheat<br>dial
-bip_39_word_new_br_5: advance<br>swallow<br>wheat<br>dial<br>attend
-bip_39_word_new_br_6: advance<br>swallow<br>wheat<br>dial<br>attend<br>still
-bip_39_word_new_br_7: advance<br>swallow<br>wheat<br>dial<br>attend<br>still<br>early
-bip_39_word_new_br_8: advance<br>swallow<br>wheat<br>dial<br>attend<br>still<br>early<br>tool
-bip_39_word_new_br_9: advance<br>swallow<br>wheat<br>dial<br>attend<br>still<br>early<br>tool<br>alley
-bip_39_word_new_line_1: advance
-bip_39_word_new_line_10: 'advance
-
-  swallow
-
-  wheat
-
-  dial
-
-  attend
-
-  still
-
-  early
-
-  tool
-
-  alley
-
-  border'
-bip_39_word_new_line_11: 'advance
-
-  swallow
-
-  wheat
-
-  dial
-
-  attend
-
-  still
-
-  early
-
-  tool
-
-  alley
-
-  border
-
-  auto'
 bip_39_word_new_line_12: 'advance
 
   swallow
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'advance
   swallow
 
   wheat'
-bip_39_word_new_line_4: 'advance
-
-  swallow
-
-  wheat
-
-  dial'
-bip_39_word_new_line_5: 'advance
-
-  swallow
-
-  wheat
-
-  dial
-
-  attend'
-bip_39_word_new_line_6: 'advance
-
-  swallow
-
-  wheat
-
-  dial
-
-  attend
-
-  still'
-bip_39_word_new_line_7: 'advance
-
-  swallow
-
-  wheat
-
-  dial
-
-  attend
-
-  still
-
-  early'
-bip_39_word_new_line_8: 'advance
-
-  swallow
-
-  wheat
-
-  dial
-
-  attend
-
-  still
-
-  early
-
-  tool'
-bip_39_word_new_line_9: 'advance
-
-  swallow
-
-  wheat
-
-  dial
-
-  attend
-
-  still
-
-  early
-
-  tool
-
-  alley'
-bip_39_word_no_space_1: advance
-bip_39_word_no_space_10: advanceswallowwheatdialattendstillearlytoolalleyborder
-bip_39_word_no_space_11: advanceswallowwheatdialattendstillearlytoolalleyborderauto
 bip_39_word_no_space_12: advanceswallowwheatdialattendstillearlytoolalleyborderautoamateur
 bip_39_word_no_space_2: advanceswallow
 bip_39_word_no_space_3: advanceswallowwheat
-bip_39_word_no_space_4: advanceswallowwheatdial
-bip_39_word_no_space_5: advanceswallowwheatdialattend
-bip_39_word_no_space_6: advanceswallowwheatdialattendstill
-bip_39_word_no_space_7: advanceswallowwheatdialattendstillearly
-bip_39_word_no_space_8: advanceswallowwheatdialattendstillearlytool
-bip_39_word_no_space_9: advanceswallowwheatdialattendstillearlytoolalley
-bip_39_word_space_0:
-- advance
-- swallow
-- wheat
-- dial
-- attend
-- still
-- early
-- tool
-- alley
-- border
-- auto
-- amateur
-bip_39_word_space_1: advance
-bip_39_word_space_10: advance swallow wheat dial attend still early tool alley border
-bip_39_word_space_11: advance swallow wheat dial attend still early tool alley border
-  auto
 bip_39_word_space_12: advance swallow wheat dial attend still early tool alley border
   auto amateur
 bip_39_word_space_2: advance swallow
 bip_39_word_space_3: advance swallow wheat
-bip_39_word_space_4: advance swallow wheat dial
-bip_39_word_space_5: advance swallow wheat dial attend
-bip_39_word_space_6: advance swallow wheat dial attend still
-bip_39_word_space_7: advance swallow wheat dial attend still early
-bip_39_word_space_8: advance swallow wheat dial attend still early tool
-bip_39_word_space_9: advance swallow wheat dial attend still early tool alley
-bip_39_word_underscore_1: advance
-bip_39_word_underscore_10: advance_swallow_wheat_dial_attend_still_early_tool_alley_border
-bip_39_word_underscore_11: advance_swallow_wheat_dial_attend_still_early_tool_alley_border_auto
 bip_39_word_underscore_12: advance_swallow_wheat_dial_attend_still_early_tool_alley_border_auto_amateur
 bip_39_word_underscore_2: advance_swallow
 bip_39_word_underscore_3: advance_swallow_wheat
-bip_39_word_underscore_4: advance_swallow_wheat_dial
-bip_39_word_underscore_5: advance_swallow_wheat_dial_attend
-bip_39_word_underscore_6: advance_swallow_wheat_dial_attend_still
-bip_39_word_underscore_7: advance_swallow_wheat_dial_attend_still_early
-bip_39_word_underscore_8: advance_swallow_wheat_dial_attend_still_early_tool
-bip_39_word_underscore_9: advance_swallow_wheat_dial_attend_still_early_tool_alley
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

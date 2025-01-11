@@ -1,68 +1,9 @@
-bip_39_word_dash_1: pause
-bip_39_word_dash_10: pause-network-unlock-flee-series-doll-pact-depend-absurd-element
-bip_39_word_dash_11: pause-network-unlock-flee-series-doll-pact-depend-absurd-element-proof
 bip_39_word_dash_12: pause-network-unlock-flee-series-doll-pact-depend-absurd-element-proof-alarm
 bip_39_word_dash_2: pause-network
 bip_39_word_dash_3: pause-network-unlock
-bip_39_word_dash_4: pause-network-unlock-flee
-bip_39_word_dash_5: pause-network-unlock-flee-series
-bip_39_word_dash_6: pause-network-unlock-flee-series-doll
-bip_39_word_dash_7: pause-network-unlock-flee-series-doll-pact
-bip_39_word_dash_8: pause-network-unlock-flee-series-doll-pact-depend
-bip_39_word_dash_9: pause-network-unlock-flee-series-doll-pact-depend-absurd
-bip_39_word_new_br_1: pause
-bip_39_word_new_br_10: pause<br>network<br>unlock<br>flee<br>series<br>doll<br>pact<br>depend<br>absurd<br>element
-bip_39_word_new_br_11: pause<br>network<br>unlock<br>flee<br>series<br>doll<br>pact<br>depend<br>absurd<br>element<br>proof
 bip_39_word_new_br_12: pause<br>network<br>unlock<br>flee<br>series<br>doll<br>pact<br>depend<br>absurd<br>element<br>proof<br>alarm
 bip_39_word_new_br_2: pause<br>network
 bip_39_word_new_br_3: pause<br>network<br>unlock
-bip_39_word_new_br_4: pause<br>network<br>unlock<br>flee
-bip_39_word_new_br_5: pause<br>network<br>unlock<br>flee<br>series
-bip_39_word_new_br_6: pause<br>network<br>unlock<br>flee<br>series<br>doll
-bip_39_word_new_br_7: pause<br>network<br>unlock<br>flee<br>series<br>doll<br>pact
-bip_39_word_new_br_8: pause<br>network<br>unlock<br>flee<br>series<br>doll<br>pact<br>depend
-bip_39_word_new_br_9: pause<br>network<br>unlock<br>flee<br>series<br>doll<br>pact<br>depend<br>absurd
-bip_39_word_new_line_1: pause
-bip_39_word_new_line_10: 'pause
-
-  network
-
-  unlock
-
-  flee
-
-  series
-
-  doll
-
-  pact
-
-  depend
-
-  absurd
-
-  element'
-bip_39_word_new_line_11: 'pause
-
-  network
-
-  unlock
-
-  flee
-
-  series
-
-  doll
-
-  pact
-
-  depend
-
-  absurd
-
-  element
-
-  proof'
 bip_39_word_new_line_12: 'pause
 
   network
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'pause
   network
 
   unlock'
-bip_39_word_new_line_4: 'pause
-
-  network
-
-  unlock
-
-  flee'
-bip_39_word_new_line_5: 'pause
-
-  network
-
-  unlock
-
-  flee
-
-  series'
-bip_39_word_new_line_6: 'pause
-
-  network
-
-  unlock
-
-  flee
-
-  series
-
-  doll'
-bip_39_word_new_line_7: 'pause
-
-  network
-
-  unlock
-
-  flee
-
-  series
-
-  doll
-
-  pact'
-bip_39_word_new_line_8: 'pause
-
-  network
-
-  unlock
-
-  flee
-
-  series
-
-  doll
-
-  pact
-
-  depend'
-bip_39_word_new_line_9: 'pause
-
-  network
-
-  unlock
-
-  flee
-
-  series
-
-  doll
-
-  pact
-
-  depend
-
-  absurd'
-bip_39_word_no_space_1: pause
-bip_39_word_no_space_10: pausenetworkunlockfleeseriesdollpactdependabsurdelement
-bip_39_word_no_space_11: pausenetworkunlockfleeseriesdollpactdependabsurdelementproof
 bip_39_word_no_space_12: pausenetworkunlockfleeseriesdollpactdependabsurdelementproofalarm
 bip_39_word_no_space_2: pausenetwork
 bip_39_word_no_space_3: pausenetworkunlock
-bip_39_word_no_space_4: pausenetworkunlockflee
-bip_39_word_no_space_5: pausenetworkunlockfleeseries
-bip_39_word_no_space_6: pausenetworkunlockfleeseriesdoll
-bip_39_word_no_space_7: pausenetworkunlockfleeseriesdollpact
-bip_39_word_no_space_8: pausenetworkunlockfleeseriesdollpactdepend
-bip_39_word_no_space_9: pausenetworkunlockfleeseriesdollpactdependabsurd
-bip_39_word_space_0:
-- pause
-- network
-- unlock
-- flee
-- series
-- doll
-- pact
-- depend
-- absurd
-- element
-- proof
-- alarm
-bip_39_word_space_1: pause
-bip_39_word_space_10: pause network unlock flee series doll pact depend absurd element
-bip_39_word_space_11: pause network unlock flee series doll pact depend absurd element
-  proof
 bip_39_word_space_12: pause network unlock flee series doll pact depend absurd element
   proof alarm
 bip_39_word_space_2: pause network
 bip_39_word_space_3: pause network unlock
-bip_39_word_space_4: pause network unlock flee
-bip_39_word_space_5: pause network unlock flee series
-bip_39_word_space_6: pause network unlock flee series doll
-bip_39_word_space_7: pause network unlock flee series doll pact
-bip_39_word_space_8: pause network unlock flee series doll pact depend
-bip_39_word_space_9: pause network unlock flee series doll pact depend absurd
-bip_39_word_underscore_1: pause
-bip_39_word_underscore_10: pause_network_unlock_flee_series_doll_pact_depend_absurd_element
-bip_39_word_underscore_11: pause_network_unlock_flee_series_doll_pact_depend_absurd_element_proof
 bip_39_word_underscore_12: pause_network_unlock_flee_series_doll_pact_depend_absurd_element_proof_alarm
 bip_39_word_underscore_2: pause_network
 bip_39_word_underscore_3: pause_network_unlock
-bip_39_word_underscore_4: pause_network_unlock_flee
-bip_39_word_underscore_5: pause_network_unlock_flee_series
-bip_39_word_underscore_6: pause_network_unlock_flee_series_doll
-bip_39_word_underscore_7: pause_network_unlock_flee_series_doll_pact
-bip_39_word_underscore_8: pause_network_unlock_flee_series_doll_pact_depend
-bip_39_word_underscore_9: pause_network_unlock_flee_series_doll_pact_depend_absurd
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

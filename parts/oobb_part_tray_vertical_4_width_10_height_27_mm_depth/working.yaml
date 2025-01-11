@@ -1,68 +1,9 @@
-bip_39_word_dash_1: ensure
-bip_39_word_dash_10: ensure-simple-wage-focus-mimic-note-split-pear-clutch-veteran
-bip_39_word_dash_11: ensure-simple-wage-focus-mimic-note-split-pear-clutch-veteran-midnight
 bip_39_word_dash_12: ensure-simple-wage-focus-mimic-note-split-pear-clutch-veteran-midnight-adjust
 bip_39_word_dash_2: ensure-simple
 bip_39_word_dash_3: ensure-simple-wage
-bip_39_word_dash_4: ensure-simple-wage-focus
-bip_39_word_dash_5: ensure-simple-wage-focus-mimic
-bip_39_word_dash_6: ensure-simple-wage-focus-mimic-note
-bip_39_word_dash_7: ensure-simple-wage-focus-mimic-note-split
-bip_39_word_dash_8: ensure-simple-wage-focus-mimic-note-split-pear
-bip_39_word_dash_9: ensure-simple-wage-focus-mimic-note-split-pear-clutch
-bip_39_word_new_br_1: ensure
-bip_39_word_new_br_10: ensure<br>simple<br>wage<br>focus<br>mimic<br>note<br>split<br>pear<br>clutch<br>veteran
-bip_39_word_new_br_11: ensure<br>simple<br>wage<br>focus<br>mimic<br>note<br>split<br>pear<br>clutch<br>veteran<br>midnight
 bip_39_word_new_br_12: ensure<br>simple<br>wage<br>focus<br>mimic<br>note<br>split<br>pear<br>clutch<br>veteran<br>midnight<br>adjust
 bip_39_word_new_br_2: ensure<br>simple
 bip_39_word_new_br_3: ensure<br>simple<br>wage
-bip_39_word_new_br_4: ensure<br>simple<br>wage<br>focus
-bip_39_word_new_br_5: ensure<br>simple<br>wage<br>focus<br>mimic
-bip_39_word_new_br_6: ensure<br>simple<br>wage<br>focus<br>mimic<br>note
-bip_39_word_new_br_7: ensure<br>simple<br>wage<br>focus<br>mimic<br>note<br>split
-bip_39_word_new_br_8: ensure<br>simple<br>wage<br>focus<br>mimic<br>note<br>split<br>pear
-bip_39_word_new_br_9: ensure<br>simple<br>wage<br>focus<br>mimic<br>note<br>split<br>pear<br>clutch
-bip_39_word_new_line_1: ensure
-bip_39_word_new_line_10: 'ensure
-
-  simple
-
-  wage
-
-  focus
-
-  mimic
-
-  note
-
-  split
-
-  pear
-
-  clutch
-
-  veteran'
-bip_39_word_new_line_11: 'ensure
-
-  simple
-
-  wage
-
-  focus
-
-  mimic
-
-  note
-
-  split
-
-  pear
-
-  clutch
-
-  veteran
-
-  midnight'
 bip_39_word_new_line_12: 'ensure
 
   simple
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'ensure
   simple
 
   wage'
-bip_39_word_new_line_4: 'ensure
-
-  simple
-
-  wage
-
-  focus'
-bip_39_word_new_line_5: 'ensure
-
-  simple
-
-  wage
-
-  focus
-
-  mimic'
-bip_39_word_new_line_6: 'ensure
-
-  simple
-
-  wage
-
-  focus
-
-  mimic
-
-  note'
-bip_39_word_new_line_7: 'ensure
-
-  simple
-
-  wage
-
-  focus
-
-  mimic
-
-  note
-
-  split'
-bip_39_word_new_line_8: 'ensure
-
-  simple
-
-  wage
-
-  focus
-
-  mimic
-
-  note
-
-  split
-
-  pear'
-bip_39_word_new_line_9: 'ensure
-
-  simple
-
-  wage
-
-  focus
-
-  mimic
-
-  note
-
-  split
-
-  pear
-
-  clutch'
-bip_39_word_no_space_1: ensure
-bip_39_word_no_space_10: ensuresimplewagefocusmimicnotesplitpearclutchveteran
-bip_39_word_no_space_11: ensuresimplewagefocusmimicnotesplitpearclutchveteranmidnight
 bip_39_word_no_space_12: ensuresimplewagefocusmimicnotesplitpearclutchveteranmidnightadjust
 bip_39_word_no_space_2: ensuresimple
 bip_39_word_no_space_3: ensuresimplewage
-bip_39_word_no_space_4: ensuresimplewagefocus
-bip_39_word_no_space_5: ensuresimplewagefocusmimic
-bip_39_word_no_space_6: ensuresimplewagefocusmimicnote
-bip_39_word_no_space_7: ensuresimplewagefocusmimicnotesplit
-bip_39_word_no_space_8: ensuresimplewagefocusmimicnotesplitpear
-bip_39_word_no_space_9: ensuresimplewagefocusmimicnotesplitpearclutch
-bip_39_word_space_0:
-- ensure
-- simple
-- wage
-- focus
-- mimic
-- note
-- split
-- pear
-- clutch
-- veteran
-- midnight
-- adjust
-bip_39_word_space_1: ensure
-bip_39_word_space_10: ensure simple wage focus mimic note split pear clutch veteran
-bip_39_word_space_11: ensure simple wage focus mimic note split pear clutch veteran
-  midnight
 bip_39_word_space_12: ensure simple wage focus mimic note split pear clutch veteran
   midnight adjust
 bip_39_word_space_2: ensure simple
 bip_39_word_space_3: ensure simple wage
-bip_39_word_space_4: ensure simple wage focus
-bip_39_word_space_5: ensure simple wage focus mimic
-bip_39_word_space_6: ensure simple wage focus mimic note
-bip_39_word_space_7: ensure simple wage focus mimic note split
-bip_39_word_space_8: ensure simple wage focus mimic note split pear
-bip_39_word_space_9: ensure simple wage focus mimic note split pear clutch
-bip_39_word_underscore_1: ensure
-bip_39_word_underscore_10: ensure_simple_wage_focus_mimic_note_split_pear_clutch_veteran
-bip_39_word_underscore_11: ensure_simple_wage_focus_mimic_note_split_pear_clutch_veteran_midnight
 bip_39_word_underscore_12: ensure_simple_wage_focus_mimic_note_split_pear_clutch_veteran_midnight_adjust
 bip_39_word_underscore_2: ensure_simple
 bip_39_word_underscore_3: ensure_simple_wage
-bip_39_word_underscore_4: ensure_simple_wage_focus
-bip_39_word_underscore_5: ensure_simple_wage_focus_mimic
-bip_39_word_underscore_6: ensure_simple_wage_focus_mimic_note
-bip_39_word_underscore_7: ensure_simple_wage_focus_mimic_note_split
-bip_39_word_underscore_8: ensure_simple_wage_focus_mimic_note_split_pear
-bip_39_word_underscore_9: ensure_simple_wage_focus_mimic_note_split_pear_clutch
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

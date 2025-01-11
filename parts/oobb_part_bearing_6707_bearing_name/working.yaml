@@ -1,69 +1,10 @@
 bearing_name: '6707'
-bip_39_word_dash_1: wait
-bip_39_word_dash_10: wait-unlock-wreck-extra-adjust-omit-muffin-theme-spy-tragic
-bip_39_word_dash_11: wait-unlock-wreck-extra-adjust-omit-muffin-theme-spy-tragic-latin
 bip_39_word_dash_12: wait-unlock-wreck-extra-adjust-omit-muffin-theme-spy-tragic-latin-adjust
 bip_39_word_dash_2: wait-unlock
 bip_39_word_dash_3: wait-unlock-wreck
-bip_39_word_dash_4: wait-unlock-wreck-extra
-bip_39_word_dash_5: wait-unlock-wreck-extra-adjust
-bip_39_word_dash_6: wait-unlock-wreck-extra-adjust-omit
-bip_39_word_dash_7: wait-unlock-wreck-extra-adjust-omit-muffin
-bip_39_word_dash_8: wait-unlock-wreck-extra-adjust-omit-muffin-theme
-bip_39_word_dash_9: wait-unlock-wreck-extra-adjust-omit-muffin-theme-spy
-bip_39_word_new_br_1: wait
-bip_39_word_new_br_10: wait<br>unlock<br>wreck<br>extra<br>adjust<br>omit<br>muffin<br>theme<br>spy<br>tragic
-bip_39_word_new_br_11: wait<br>unlock<br>wreck<br>extra<br>adjust<br>omit<br>muffin<br>theme<br>spy<br>tragic<br>latin
 bip_39_word_new_br_12: wait<br>unlock<br>wreck<br>extra<br>adjust<br>omit<br>muffin<br>theme<br>spy<br>tragic<br>latin<br>adjust
 bip_39_word_new_br_2: wait<br>unlock
 bip_39_word_new_br_3: wait<br>unlock<br>wreck
-bip_39_word_new_br_4: wait<br>unlock<br>wreck<br>extra
-bip_39_word_new_br_5: wait<br>unlock<br>wreck<br>extra<br>adjust
-bip_39_word_new_br_6: wait<br>unlock<br>wreck<br>extra<br>adjust<br>omit
-bip_39_word_new_br_7: wait<br>unlock<br>wreck<br>extra<br>adjust<br>omit<br>muffin
-bip_39_word_new_br_8: wait<br>unlock<br>wreck<br>extra<br>adjust<br>omit<br>muffin<br>theme
-bip_39_word_new_br_9: wait<br>unlock<br>wreck<br>extra<br>adjust<br>omit<br>muffin<br>theme<br>spy
-bip_39_word_new_line_1: wait
-bip_39_word_new_line_10: 'wait
-
-  unlock
-
-  wreck
-
-  extra
-
-  adjust
-
-  omit
-
-  muffin
-
-  theme
-
-  spy
-
-  tragic'
-bip_39_word_new_line_11: 'wait
-
-  unlock
-
-  wreck
-
-  extra
-
-  adjust
-
-  omit
-
-  muffin
-
-  theme
-
-  spy
-
-  tragic
-
-  latin'
 bip_39_word_new_line_12: 'wait
 
   unlock
@@ -95,129 +36,16 @@ bip_39_word_new_line_3: 'wait
   unlock
 
   wreck'
-bip_39_word_new_line_4: 'wait
-
-  unlock
-
-  wreck
-
-  extra'
-bip_39_word_new_line_5: 'wait
-
-  unlock
-
-  wreck
-
-  extra
-
-  adjust'
-bip_39_word_new_line_6: 'wait
-
-  unlock
-
-  wreck
-
-  extra
-
-  adjust
-
-  omit'
-bip_39_word_new_line_7: 'wait
-
-  unlock
-
-  wreck
-
-  extra
-
-  adjust
-
-  omit
-
-  muffin'
-bip_39_word_new_line_8: 'wait
-
-  unlock
-
-  wreck
-
-  extra
-
-  adjust
-
-  omit
-
-  muffin
-
-  theme'
-bip_39_word_new_line_9: 'wait
-
-  unlock
-
-  wreck
-
-  extra
-
-  adjust
-
-  omit
-
-  muffin
-
-  theme
-
-  spy'
-bip_39_word_no_space_1: wait
-bip_39_word_no_space_10: waitunlockwreckextraadjustomitmuffinthemespytragic
-bip_39_word_no_space_11: waitunlockwreckextraadjustomitmuffinthemespytragiclatin
 bip_39_word_no_space_12: waitunlockwreckextraadjustomitmuffinthemespytragiclatinadjust
 bip_39_word_no_space_2: waitunlock
 bip_39_word_no_space_3: waitunlockwreck
-bip_39_word_no_space_4: waitunlockwreckextra
-bip_39_word_no_space_5: waitunlockwreckextraadjust
-bip_39_word_no_space_6: waitunlockwreckextraadjustomit
-bip_39_word_no_space_7: waitunlockwreckextraadjustomitmuffin
-bip_39_word_no_space_8: waitunlockwreckextraadjustomitmuffintheme
-bip_39_word_no_space_9: waitunlockwreckextraadjustomitmuffinthemespy
-bip_39_word_space_0:
-- wait
-- unlock
-- wreck
-- extra
-- adjust
-- omit
-- muffin
-- theme
-- spy
-- tragic
-- latin
-- adjust
-bip_39_word_space_1: wait
-bip_39_word_space_10: wait unlock wreck extra adjust omit muffin theme spy tragic
-bip_39_word_space_11: wait unlock wreck extra adjust omit muffin theme spy tragic
-  latin
 bip_39_word_space_12: wait unlock wreck extra adjust omit muffin theme spy tragic
   latin adjust
 bip_39_word_space_2: wait unlock
 bip_39_word_space_3: wait unlock wreck
-bip_39_word_space_4: wait unlock wreck extra
-bip_39_word_space_5: wait unlock wreck extra adjust
-bip_39_word_space_6: wait unlock wreck extra adjust omit
-bip_39_word_space_7: wait unlock wreck extra adjust omit muffin
-bip_39_word_space_8: wait unlock wreck extra adjust omit muffin theme
-bip_39_word_space_9: wait unlock wreck extra adjust omit muffin theme spy
-bip_39_word_underscore_1: wait
-bip_39_word_underscore_10: wait_unlock_wreck_extra_adjust_omit_muffin_theme_spy_tragic
-bip_39_word_underscore_11: wait_unlock_wreck_extra_adjust_omit_muffin_theme_spy_tragic_latin
 bip_39_word_underscore_12: wait_unlock_wreck_extra_adjust_omit_muffin_theme_spy_tragic_latin_adjust
 bip_39_word_underscore_2: wait_unlock
 bip_39_word_underscore_3: wait_unlock_wreck
-bip_39_word_underscore_4: wait_unlock_wreck_extra
-bip_39_word_underscore_5: wait_unlock_wreck_extra_adjust
-bip_39_word_underscore_6: wait_unlock_wreck_extra_adjust_omit
-bip_39_word_underscore_7: wait_unlock_wreck_extra_adjust_omit_muffin
-bip_39_word_underscore_8: wait_unlock_wreck_extra_adjust_omit_muffin_theme
-bip_39_word_underscore_9: wait_unlock_wreck_extra_adjust_omit_muffin_theme_spy
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

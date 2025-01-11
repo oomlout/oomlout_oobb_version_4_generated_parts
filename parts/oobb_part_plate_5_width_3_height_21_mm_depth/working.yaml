@@ -1,68 +1,9 @@
-bip_39_word_dash_1: search
-bip_39_word_dash_10: search-discover-fork-delay-wall-fuel-gate-raw-country-face
-bip_39_word_dash_11: search-discover-fork-delay-wall-fuel-gate-raw-country-face-differ
 bip_39_word_dash_12: search-discover-fork-delay-wall-fuel-gate-raw-country-face-differ-another
 bip_39_word_dash_2: search-discover
 bip_39_word_dash_3: search-discover-fork
-bip_39_word_dash_4: search-discover-fork-delay
-bip_39_word_dash_5: search-discover-fork-delay-wall
-bip_39_word_dash_6: search-discover-fork-delay-wall-fuel
-bip_39_word_dash_7: search-discover-fork-delay-wall-fuel-gate
-bip_39_word_dash_8: search-discover-fork-delay-wall-fuel-gate-raw
-bip_39_word_dash_9: search-discover-fork-delay-wall-fuel-gate-raw-country
-bip_39_word_new_br_1: search
-bip_39_word_new_br_10: search<br>discover<br>fork<br>delay<br>wall<br>fuel<br>gate<br>raw<br>country<br>face
-bip_39_word_new_br_11: search<br>discover<br>fork<br>delay<br>wall<br>fuel<br>gate<br>raw<br>country<br>face<br>differ
 bip_39_word_new_br_12: search<br>discover<br>fork<br>delay<br>wall<br>fuel<br>gate<br>raw<br>country<br>face<br>differ<br>another
 bip_39_word_new_br_2: search<br>discover
 bip_39_word_new_br_3: search<br>discover<br>fork
-bip_39_word_new_br_4: search<br>discover<br>fork<br>delay
-bip_39_word_new_br_5: search<br>discover<br>fork<br>delay<br>wall
-bip_39_word_new_br_6: search<br>discover<br>fork<br>delay<br>wall<br>fuel
-bip_39_word_new_br_7: search<br>discover<br>fork<br>delay<br>wall<br>fuel<br>gate
-bip_39_word_new_br_8: search<br>discover<br>fork<br>delay<br>wall<br>fuel<br>gate<br>raw
-bip_39_word_new_br_9: search<br>discover<br>fork<br>delay<br>wall<br>fuel<br>gate<br>raw<br>country
-bip_39_word_new_line_1: search
-bip_39_word_new_line_10: 'search
-
-  discover
-
-  fork
-
-  delay
-
-  wall
-
-  fuel
-
-  gate
-
-  raw
-
-  country
-
-  face'
-bip_39_word_new_line_11: 'search
-
-  discover
-
-  fork
-
-  delay
-
-  wall
-
-  fuel
-
-  gate
-
-  raw
-
-  country
-
-  face
-
-  differ'
 bip_39_word_new_line_12: 'search
 
   discover
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'search
   discover
 
   fork'
-bip_39_word_new_line_4: 'search
-
-  discover
-
-  fork
-
-  delay'
-bip_39_word_new_line_5: 'search
-
-  discover
-
-  fork
-
-  delay
-
-  wall'
-bip_39_word_new_line_6: 'search
-
-  discover
-
-  fork
-
-  delay
-
-  wall
-
-  fuel'
-bip_39_word_new_line_7: 'search
-
-  discover
-
-  fork
-
-  delay
-
-  wall
-
-  fuel
-
-  gate'
-bip_39_word_new_line_8: 'search
-
-  discover
-
-  fork
-
-  delay
-
-  wall
-
-  fuel
-
-  gate
-
-  raw'
-bip_39_word_new_line_9: 'search
-
-  discover
-
-  fork
-
-  delay
-
-  wall
-
-  fuel
-
-  gate
-
-  raw
-
-  country'
-bip_39_word_no_space_1: search
-bip_39_word_no_space_10: searchdiscoverforkdelaywallfuelgaterawcountryface
-bip_39_word_no_space_11: searchdiscoverforkdelaywallfuelgaterawcountryfacediffer
 bip_39_word_no_space_12: searchdiscoverforkdelaywallfuelgaterawcountryfacedifferanother
 bip_39_word_no_space_2: searchdiscover
 bip_39_word_no_space_3: searchdiscoverfork
-bip_39_word_no_space_4: searchdiscoverforkdelay
-bip_39_word_no_space_5: searchdiscoverforkdelaywall
-bip_39_word_no_space_6: searchdiscoverforkdelaywallfuel
-bip_39_word_no_space_7: searchdiscoverforkdelaywallfuelgate
-bip_39_word_no_space_8: searchdiscoverforkdelaywallfuelgateraw
-bip_39_word_no_space_9: searchdiscoverforkdelaywallfuelgaterawcountry
-bip_39_word_space_0:
-- search
-- discover
-- fork
-- delay
-- wall
-- fuel
-- gate
-- raw
-- country
-- face
-- differ
-- another
-bip_39_word_space_1: search
-bip_39_word_space_10: search discover fork delay wall fuel gate raw country face
-bip_39_word_space_11: search discover fork delay wall fuel gate raw country face differ
 bip_39_word_space_12: search discover fork delay wall fuel gate raw country face differ
   another
 bip_39_word_space_2: search discover
 bip_39_word_space_3: search discover fork
-bip_39_word_space_4: search discover fork delay
-bip_39_word_space_5: search discover fork delay wall
-bip_39_word_space_6: search discover fork delay wall fuel
-bip_39_word_space_7: search discover fork delay wall fuel gate
-bip_39_word_space_8: search discover fork delay wall fuel gate raw
-bip_39_word_space_9: search discover fork delay wall fuel gate raw country
-bip_39_word_underscore_1: search
-bip_39_word_underscore_10: search_discover_fork_delay_wall_fuel_gate_raw_country_face
-bip_39_word_underscore_11: search_discover_fork_delay_wall_fuel_gate_raw_country_face_differ
 bip_39_word_underscore_12: search_discover_fork_delay_wall_fuel_gate_raw_country_face_differ_another
 bip_39_word_underscore_2: search_discover
 bip_39_word_underscore_3: search_discover_fork
-bip_39_word_underscore_4: search_discover_fork_delay
-bip_39_word_underscore_5: search_discover_fork_delay_wall
-bip_39_word_underscore_6: search_discover_fork_delay_wall_fuel
-bip_39_word_underscore_7: search_discover_fork_delay_wall_fuel_gate
-bip_39_word_underscore_8: search_discover_fork_delay_wall_fuel_gate_raw
-bip_39_word_underscore_9: search_discover_fork_delay_wall_fuel_gate_raw_country
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: aspect
-bip_39_word_dash_10: aspect-gold-staff-boil-faint-gift-security-goose-pitch-tail
-bip_39_word_dash_11: aspect-gold-staff-boil-faint-gift-security-goose-pitch-tail-outer
 bip_39_word_dash_12: aspect-gold-staff-boil-faint-gift-security-goose-pitch-tail-outer-arctic
 bip_39_word_dash_2: aspect-gold
 bip_39_word_dash_3: aspect-gold-staff
-bip_39_word_dash_4: aspect-gold-staff-boil
-bip_39_word_dash_5: aspect-gold-staff-boil-faint
-bip_39_word_dash_6: aspect-gold-staff-boil-faint-gift
-bip_39_word_dash_7: aspect-gold-staff-boil-faint-gift-security
-bip_39_word_dash_8: aspect-gold-staff-boil-faint-gift-security-goose
-bip_39_word_dash_9: aspect-gold-staff-boil-faint-gift-security-goose-pitch
-bip_39_word_new_br_1: aspect
-bip_39_word_new_br_10: aspect<br>gold<br>staff<br>boil<br>faint<br>gift<br>security<br>goose<br>pitch<br>tail
-bip_39_word_new_br_11: aspect<br>gold<br>staff<br>boil<br>faint<br>gift<br>security<br>goose<br>pitch<br>tail<br>outer
 bip_39_word_new_br_12: aspect<br>gold<br>staff<br>boil<br>faint<br>gift<br>security<br>goose<br>pitch<br>tail<br>outer<br>arctic
 bip_39_word_new_br_2: aspect<br>gold
 bip_39_word_new_br_3: aspect<br>gold<br>staff
-bip_39_word_new_br_4: aspect<br>gold<br>staff<br>boil
-bip_39_word_new_br_5: aspect<br>gold<br>staff<br>boil<br>faint
-bip_39_word_new_br_6: aspect<br>gold<br>staff<br>boil<br>faint<br>gift
-bip_39_word_new_br_7: aspect<br>gold<br>staff<br>boil<br>faint<br>gift<br>security
-bip_39_word_new_br_8: aspect<br>gold<br>staff<br>boil<br>faint<br>gift<br>security<br>goose
-bip_39_word_new_br_9: aspect<br>gold<br>staff<br>boil<br>faint<br>gift<br>security<br>goose<br>pitch
-bip_39_word_new_line_1: aspect
-bip_39_word_new_line_10: 'aspect
-
-  gold
-
-  staff
-
-  boil
-
-  faint
-
-  gift
-
-  security
-
-  goose
-
-  pitch
-
-  tail'
-bip_39_word_new_line_11: 'aspect
-
-  gold
-
-  staff
-
-  boil
-
-  faint
-
-  gift
-
-  security
-
-  goose
-
-  pitch
-
-  tail
-
-  outer'
 bip_39_word_new_line_12: 'aspect
 
   gold
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'aspect
   gold
 
   staff'
-bip_39_word_new_line_4: 'aspect
-
-  gold
-
-  staff
-
-  boil'
-bip_39_word_new_line_5: 'aspect
-
-  gold
-
-  staff
-
-  boil
-
-  faint'
-bip_39_word_new_line_6: 'aspect
-
-  gold
-
-  staff
-
-  boil
-
-  faint
-
-  gift'
-bip_39_word_new_line_7: 'aspect
-
-  gold
-
-  staff
-
-  boil
-
-  faint
-
-  gift
-
-  security'
-bip_39_word_new_line_8: 'aspect
-
-  gold
-
-  staff
-
-  boil
-
-  faint
-
-  gift
-
-  security
-
-  goose'
-bip_39_word_new_line_9: 'aspect
-
-  gold
-
-  staff
-
-  boil
-
-  faint
-
-  gift
-
-  security
-
-  goose
-
-  pitch'
-bip_39_word_no_space_1: aspect
-bip_39_word_no_space_10: aspectgoldstaffboilfaintgiftsecuritygoosepitchtail
-bip_39_word_no_space_11: aspectgoldstaffboilfaintgiftsecuritygoosepitchtailouter
 bip_39_word_no_space_12: aspectgoldstaffboilfaintgiftsecuritygoosepitchtailouterarctic
 bip_39_word_no_space_2: aspectgold
 bip_39_word_no_space_3: aspectgoldstaff
-bip_39_word_no_space_4: aspectgoldstaffboil
-bip_39_word_no_space_5: aspectgoldstaffboilfaint
-bip_39_word_no_space_6: aspectgoldstaffboilfaintgift
-bip_39_word_no_space_7: aspectgoldstaffboilfaintgiftsecurity
-bip_39_word_no_space_8: aspectgoldstaffboilfaintgiftsecuritygoose
-bip_39_word_no_space_9: aspectgoldstaffboilfaintgiftsecuritygoosepitch
-bip_39_word_space_0:
-- aspect
-- gold
-- staff
-- boil
-- faint
-- gift
-- security
-- goose
-- pitch
-- tail
-- outer
-- arctic
-bip_39_word_space_1: aspect
-bip_39_word_space_10: aspect gold staff boil faint gift security goose pitch tail
-bip_39_word_space_11: aspect gold staff boil faint gift security goose pitch tail
-  outer
 bip_39_word_space_12: aspect gold staff boil faint gift security goose pitch tail
   outer arctic
 bip_39_word_space_2: aspect gold
 bip_39_word_space_3: aspect gold staff
-bip_39_word_space_4: aspect gold staff boil
-bip_39_word_space_5: aspect gold staff boil faint
-bip_39_word_space_6: aspect gold staff boil faint gift
-bip_39_word_space_7: aspect gold staff boil faint gift security
-bip_39_word_space_8: aspect gold staff boil faint gift security goose
-bip_39_word_space_9: aspect gold staff boil faint gift security goose pitch
-bip_39_word_underscore_1: aspect
-bip_39_word_underscore_10: aspect_gold_staff_boil_faint_gift_security_goose_pitch_tail
-bip_39_word_underscore_11: aspect_gold_staff_boil_faint_gift_security_goose_pitch_tail_outer
 bip_39_word_underscore_12: aspect_gold_staff_boil_faint_gift_security_goose_pitch_tail_outer_arctic
 bip_39_word_underscore_2: aspect_gold
 bip_39_word_underscore_3: aspect_gold_staff
-bip_39_word_underscore_4: aspect_gold_staff_boil
-bip_39_word_underscore_5: aspect_gold_staff_boil_faint
-bip_39_word_underscore_6: aspect_gold_staff_boil_faint_gift
-bip_39_word_underscore_7: aspect_gold_staff_boil_faint_gift_security
-bip_39_word_underscore_8: aspect_gold_staff_boil_faint_gift_security_goose
-bip_39_word_underscore_9: aspect_gold_staff_boil_faint_gift_security_goose_pitch
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

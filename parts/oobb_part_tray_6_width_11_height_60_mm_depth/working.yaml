@@ -1,68 +1,9 @@
-bip_39_word_dash_1: bench
-bip_39_word_dash_10: bench-name-repair-group-hat-together-frost-razor-canoe-upgrade
-bip_39_word_dash_11: bench-name-repair-group-hat-together-frost-razor-canoe-upgrade-mansion
 bip_39_word_dash_12: bench-name-repair-group-hat-together-frost-razor-canoe-upgrade-mansion-amused
 bip_39_word_dash_2: bench-name
 bip_39_word_dash_3: bench-name-repair
-bip_39_word_dash_4: bench-name-repair-group
-bip_39_word_dash_5: bench-name-repair-group-hat
-bip_39_word_dash_6: bench-name-repair-group-hat-together
-bip_39_word_dash_7: bench-name-repair-group-hat-together-frost
-bip_39_word_dash_8: bench-name-repair-group-hat-together-frost-razor
-bip_39_word_dash_9: bench-name-repair-group-hat-together-frost-razor-canoe
-bip_39_word_new_br_1: bench
-bip_39_word_new_br_10: bench<br>name<br>repair<br>group<br>hat<br>together<br>frost<br>razor<br>canoe<br>upgrade
-bip_39_word_new_br_11: bench<br>name<br>repair<br>group<br>hat<br>together<br>frost<br>razor<br>canoe<br>upgrade<br>mansion
 bip_39_word_new_br_12: bench<br>name<br>repair<br>group<br>hat<br>together<br>frost<br>razor<br>canoe<br>upgrade<br>mansion<br>amused
 bip_39_word_new_br_2: bench<br>name
 bip_39_word_new_br_3: bench<br>name<br>repair
-bip_39_word_new_br_4: bench<br>name<br>repair<br>group
-bip_39_word_new_br_5: bench<br>name<br>repair<br>group<br>hat
-bip_39_word_new_br_6: bench<br>name<br>repair<br>group<br>hat<br>together
-bip_39_word_new_br_7: bench<br>name<br>repair<br>group<br>hat<br>together<br>frost
-bip_39_word_new_br_8: bench<br>name<br>repair<br>group<br>hat<br>together<br>frost<br>razor
-bip_39_word_new_br_9: bench<br>name<br>repair<br>group<br>hat<br>together<br>frost<br>razor<br>canoe
-bip_39_word_new_line_1: bench
-bip_39_word_new_line_10: 'bench
-
-  name
-
-  repair
-
-  group
-
-  hat
-
-  together
-
-  frost
-
-  razor
-
-  canoe
-
-  upgrade'
-bip_39_word_new_line_11: 'bench
-
-  name
-
-  repair
-
-  group
-
-  hat
-
-  together
-
-  frost
-
-  razor
-
-  canoe
-
-  upgrade
-
-  mansion'
 bip_39_word_new_line_12: 'bench
 
   name
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'bench
   name
 
   repair'
-bip_39_word_new_line_4: 'bench
-
-  name
-
-  repair
-
-  group'
-bip_39_word_new_line_5: 'bench
-
-  name
-
-  repair
-
-  group
-
-  hat'
-bip_39_word_new_line_6: 'bench
-
-  name
-
-  repair
-
-  group
-
-  hat
-
-  together'
-bip_39_word_new_line_7: 'bench
-
-  name
-
-  repair
-
-  group
-
-  hat
-
-  together
-
-  frost'
-bip_39_word_new_line_8: 'bench
-
-  name
-
-  repair
-
-  group
-
-  hat
-
-  together
-
-  frost
-
-  razor'
-bip_39_word_new_line_9: 'bench
-
-  name
-
-  repair
-
-  group
-
-  hat
-
-  together
-
-  frost
-
-  razor
-
-  canoe'
-bip_39_word_no_space_1: bench
-bip_39_word_no_space_10: benchnamerepairgrouphattogetherfrostrazorcanoeupgrade
-bip_39_word_no_space_11: benchnamerepairgrouphattogetherfrostrazorcanoeupgrademansion
 bip_39_word_no_space_12: benchnamerepairgrouphattogetherfrostrazorcanoeupgrademansionamused
 bip_39_word_no_space_2: benchname
 bip_39_word_no_space_3: benchnamerepair
-bip_39_word_no_space_4: benchnamerepairgroup
-bip_39_word_no_space_5: benchnamerepairgrouphat
-bip_39_word_no_space_6: benchnamerepairgrouphattogether
-bip_39_word_no_space_7: benchnamerepairgrouphattogetherfrost
-bip_39_word_no_space_8: benchnamerepairgrouphattogetherfrostrazor
-bip_39_word_no_space_9: benchnamerepairgrouphattogetherfrostrazorcanoe
-bip_39_word_space_0:
-- bench
-- name
-- repair
-- group
-- hat
-- together
-- frost
-- razor
-- canoe
-- upgrade
-- mansion
-- amused
-bip_39_word_space_1: bench
-bip_39_word_space_10: bench name repair group hat together frost razor canoe upgrade
-bip_39_word_space_11: bench name repair group hat together frost razor canoe upgrade
-  mansion
 bip_39_word_space_12: bench name repair group hat together frost razor canoe upgrade
   mansion amused
 bip_39_word_space_2: bench name
 bip_39_word_space_3: bench name repair
-bip_39_word_space_4: bench name repair group
-bip_39_word_space_5: bench name repair group hat
-bip_39_word_space_6: bench name repair group hat together
-bip_39_word_space_7: bench name repair group hat together frost
-bip_39_word_space_8: bench name repair group hat together frost razor
-bip_39_word_space_9: bench name repair group hat together frost razor canoe
-bip_39_word_underscore_1: bench
-bip_39_word_underscore_10: bench_name_repair_group_hat_together_frost_razor_canoe_upgrade
-bip_39_word_underscore_11: bench_name_repair_group_hat_together_frost_razor_canoe_upgrade_mansion
 bip_39_word_underscore_12: bench_name_repair_group_hat_together_frost_razor_canoe_upgrade_mansion_amused
 bip_39_word_underscore_2: bench_name
 bip_39_word_underscore_3: bench_name_repair
-bip_39_word_underscore_4: bench_name_repair_group
-bip_39_word_underscore_5: bench_name_repair_group_hat
-bip_39_word_underscore_6: bench_name_repair_group_hat_together
-bip_39_word_underscore_7: bench_name_repair_group_hat_together_frost
-bip_39_word_underscore_8: bench_name_repair_group_hat_together_frost_razor
-bip_39_word_underscore_9: bench_name_repair_group_hat_together_frost_razor_canoe
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: razor
-bip_39_word_dash_10: razor-asset-table-skull-claw-peasant-unaware-cruel-glimpse-sustain
-bip_39_word_dash_11: razor-asset-table-skull-claw-peasant-unaware-cruel-glimpse-sustain-curtain
 bip_39_word_dash_12: razor-asset-table-skull-claw-peasant-unaware-cruel-glimpse-sustain-curtain-air
 bip_39_word_dash_2: razor-asset
 bip_39_word_dash_3: razor-asset-table
-bip_39_word_dash_4: razor-asset-table-skull
-bip_39_word_dash_5: razor-asset-table-skull-claw
-bip_39_word_dash_6: razor-asset-table-skull-claw-peasant
-bip_39_word_dash_7: razor-asset-table-skull-claw-peasant-unaware
-bip_39_word_dash_8: razor-asset-table-skull-claw-peasant-unaware-cruel
-bip_39_word_dash_9: razor-asset-table-skull-claw-peasant-unaware-cruel-glimpse
-bip_39_word_new_br_1: razor
-bip_39_word_new_br_10: razor<br>asset<br>table<br>skull<br>claw<br>peasant<br>unaware<br>cruel<br>glimpse<br>sustain
-bip_39_word_new_br_11: razor<br>asset<br>table<br>skull<br>claw<br>peasant<br>unaware<br>cruel<br>glimpse<br>sustain<br>curtain
 bip_39_word_new_br_12: razor<br>asset<br>table<br>skull<br>claw<br>peasant<br>unaware<br>cruel<br>glimpse<br>sustain<br>curtain<br>air
 bip_39_word_new_br_2: razor<br>asset
 bip_39_word_new_br_3: razor<br>asset<br>table
-bip_39_word_new_br_4: razor<br>asset<br>table<br>skull
-bip_39_word_new_br_5: razor<br>asset<br>table<br>skull<br>claw
-bip_39_word_new_br_6: razor<br>asset<br>table<br>skull<br>claw<br>peasant
-bip_39_word_new_br_7: razor<br>asset<br>table<br>skull<br>claw<br>peasant<br>unaware
-bip_39_word_new_br_8: razor<br>asset<br>table<br>skull<br>claw<br>peasant<br>unaware<br>cruel
-bip_39_word_new_br_9: razor<br>asset<br>table<br>skull<br>claw<br>peasant<br>unaware<br>cruel<br>glimpse
-bip_39_word_new_line_1: razor
-bip_39_word_new_line_10: 'razor
-
-  asset
-
-  table
-
-  skull
-
-  claw
-
-  peasant
-
-  unaware
-
-  cruel
-
-  glimpse
-
-  sustain'
-bip_39_word_new_line_11: 'razor
-
-  asset
-
-  table
-
-  skull
-
-  claw
-
-  peasant
-
-  unaware
-
-  cruel
-
-  glimpse
-
-  sustain
-
-  curtain'
 bip_39_word_new_line_12: 'razor
 
   asset
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'razor
   asset
 
   table'
-bip_39_word_new_line_4: 'razor
-
-  asset
-
-  table
-
-  skull'
-bip_39_word_new_line_5: 'razor
-
-  asset
-
-  table
-
-  skull
-
-  claw'
-bip_39_word_new_line_6: 'razor
-
-  asset
-
-  table
-
-  skull
-
-  claw
-
-  peasant'
-bip_39_word_new_line_7: 'razor
-
-  asset
-
-  table
-
-  skull
-
-  claw
-
-  peasant
-
-  unaware'
-bip_39_word_new_line_8: 'razor
-
-  asset
-
-  table
-
-  skull
-
-  claw
-
-  peasant
-
-  unaware
-
-  cruel'
-bip_39_word_new_line_9: 'razor
-
-  asset
-
-  table
-
-  skull
-
-  claw
-
-  peasant
-
-  unaware
-
-  cruel
-
-  glimpse'
-bip_39_word_no_space_1: razor
-bip_39_word_no_space_10: razorassettableskullclawpeasantunawarecruelglimpsesustain
-bip_39_word_no_space_11: razorassettableskullclawpeasantunawarecruelglimpsesustaincurtain
 bip_39_word_no_space_12: razorassettableskullclawpeasantunawarecruelglimpsesustaincurtainair
 bip_39_word_no_space_2: razorasset
 bip_39_word_no_space_3: razorassettable
-bip_39_word_no_space_4: razorassettableskull
-bip_39_word_no_space_5: razorassettableskullclaw
-bip_39_word_no_space_6: razorassettableskullclawpeasant
-bip_39_word_no_space_7: razorassettableskullclawpeasantunaware
-bip_39_word_no_space_8: razorassettableskullclawpeasantunawarecruel
-bip_39_word_no_space_9: razorassettableskullclawpeasantunawarecruelglimpse
-bip_39_word_space_0:
-- razor
-- asset
-- table
-- skull
-- claw
-- peasant
-- unaware
-- cruel
-- glimpse
-- sustain
-- curtain
-- air
-bip_39_word_space_1: razor
-bip_39_word_space_10: razor asset table skull claw peasant unaware cruel glimpse sustain
-bip_39_word_space_11: razor asset table skull claw peasant unaware cruel glimpse sustain
-  curtain
 bip_39_word_space_12: razor asset table skull claw peasant unaware cruel glimpse sustain
   curtain air
 bip_39_word_space_2: razor asset
 bip_39_word_space_3: razor asset table
-bip_39_word_space_4: razor asset table skull
-bip_39_word_space_5: razor asset table skull claw
-bip_39_word_space_6: razor asset table skull claw peasant
-bip_39_word_space_7: razor asset table skull claw peasant unaware
-bip_39_word_space_8: razor asset table skull claw peasant unaware cruel
-bip_39_word_space_9: razor asset table skull claw peasant unaware cruel glimpse
-bip_39_word_underscore_1: razor
-bip_39_word_underscore_10: razor_asset_table_skull_claw_peasant_unaware_cruel_glimpse_sustain
-bip_39_word_underscore_11: razor_asset_table_skull_claw_peasant_unaware_cruel_glimpse_sustain_curtain
 bip_39_word_underscore_12: razor_asset_table_skull_claw_peasant_unaware_cruel_glimpse_sustain_curtain_air
 bip_39_word_underscore_2: razor_asset
 bip_39_word_underscore_3: razor_asset_table
-bip_39_word_underscore_4: razor_asset_table_skull
-bip_39_word_underscore_5: razor_asset_table_skull_claw
-bip_39_word_underscore_6: razor_asset_table_skull_claw_peasant
-bip_39_word_underscore_7: razor_asset_table_skull_claw_peasant_unaware
-bip_39_word_underscore_8: razor_asset_table_skull_claw_peasant_unaware_cruel
-bip_39_word_underscore_9: razor_asset_table_skull_claw_peasant_unaware_cruel_glimpse
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

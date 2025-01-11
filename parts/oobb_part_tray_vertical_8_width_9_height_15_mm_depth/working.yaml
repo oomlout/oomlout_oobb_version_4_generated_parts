@@ -1,68 +1,9 @@
-bip_39_word_dash_1: caution
-bip_39_word_dash_10: caution-next-receive-rocket-sentence-wing-confirm-mimic-traffic-twenty
-bip_39_word_dash_11: caution-next-receive-rocket-sentence-wing-confirm-mimic-traffic-twenty-burden
 bip_39_word_dash_12: caution-next-receive-rocket-sentence-wing-confirm-mimic-traffic-twenty-burden-audit
 bip_39_word_dash_2: caution-next
 bip_39_word_dash_3: caution-next-receive
-bip_39_word_dash_4: caution-next-receive-rocket
-bip_39_word_dash_5: caution-next-receive-rocket-sentence
-bip_39_word_dash_6: caution-next-receive-rocket-sentence-wing
-bip_39_word_dash_7: caution-next-receive-rocket-sentence-wing-confirm
-bip_39_word_dash_8: caution-next-receive-rocket-sentence-wing-confirm-mimic
-bip_39_word_dash_9: caution-next-receive-rocket-sentence-wing-confirm-mimic-traffic
-bip_39_word_new_br_1: caution
-bip_39_word_new_br_10: caution<br>next<br>receive<br>rocket<br>sentence<br>wing<br>confirm<br>mimic<br>traffic<br>twenty
-bip_39_word_new_br_11: caution<br>next<br>receive<br>rocket<br>sentence<br>wing<br>confirm<br>mimic<br>traffic<br>twenty<br>burden
 bip_39_word_new_br_12: caution<br>next<br>receive<br>rocket<br>sentence<br>wing<br>confirm<br>mimic<br>traffic<br>twenty<br>burden<br>audit
 bip_39_word_new_br_2: caution<br>next
 bip_39_word_new_br_3: caution<br>next<br>receive
-bip_39_word_new_br_4: caution<br>next<br>receive<br>rocket
-bip_39_word_new_br_5: caution<br>next<br>receive<br>rocket<br>sentence
-bip_39_word_new_br_6: caution<br>next<br>receive<br>rocket<br>sentence<br>wing
-bip_39_word_new_br_7: caution<br>next<br>receive<br>rocket<br>sentence<br>wing<br>confirm
-bip_39_word_new_br_8: caution<br>next<br>receive<br>rocket<br>sentence<br>wing<br>confirm<br>mimic
-bip_39_word_new_br_9: caution<br>next<br>receive<br>rocket<br>sentence<br>wing<br>confirm<br>mimic<br>traffic
-bip_39_word_new_line_1: caution
-bip_39_word_new_line_10: 'caution
-
-  next
-
-  receive
-
-  rocket
-
-  sentence
-
-  wing
-
-  confirm
-
-  mimic
-
-  traffic
-
-  twenty'
-bip_39_word_new_line_11: 'caution
-
-  next
-
-  receive
-
-  rocket
-
-  sentence
-
-  wing
-
-  confirm
-
-  mimic
-
-  traffic
-
-  twenty
-
-  burden'
 bip_39_word_new_line_12: 'caution
 
   next
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'caution
   next
 
   receive'
-bip_39_word_new_line_4: 'caution
-
-  next
-
-  receive
-
-  rocket'
-bip_39_word_new_line_5: 'caution
-
-  next
-
-  receive
-
-  rocket
-
-  sentence'
-bip_39_word_new_line_6: 'caution
-
-  next
-
-  receive
-
-  rocket
-
-  sentence
-
-  wing'
-bip_39_word_new_line_7: 'caution
-
-  next
-
-  receive
-
-  rocket
-
-  sentence
-
-  wing
-
-  confirm'
-bip_39_word_new_line_8: 'caution
-
-  next
-
-  receive
-
-  rocket
-
-  sentence
-
-  wing
-
-  confirm
-
-  mimic'
-bip_39_word_new_line_9: 'caution
-
-  next
-
-  receive
-
-  rocket
-
-  sentence
-
-  wing
-
-  confirm
-
-  mimic
-
-  traffic'
-bip_39_word_no_space_1: caution
-bip_39_word_no_space_10: cautionnextreceiverocketsentencewingconfirmmimictraffictwenty
-bip_39_word_no_space_11: cautionnextreceiverocketsentencewingconfirmmimictraffictwentyburden
 bip_39_word_no_space_12: cautionnextreceiverocketsentencewingconfirmmimictraffictwentyburdenaudit
 bip_39_word_no_space_2: cautionnext
 bip_39_word_no_space_3: cautionnextreceive
-bip_39_word_no_space_4: cautionnextreceiverocket
-bip_39_word_no_space_5: cautionnextreceiverocketsentence
-bip_39_word_no_space_6: cautionnextreceiverocketsentencewing
-bip_39_word_no_space_7: cautionnextreceiverocketsentencewingconfirm
-bip_39_word_no_space_8: cautionnextreceiverocketsentencewingconfirmmimic
-bip_39_word_no_space_9: cautionnextreceiverocketsentencewingconfirmmimictraffic
-bip_39_word_space_0:
-- caution
-- next
-- receive
-- rocket
-- sentence
-- wing
-- confirm
-- mimic
-- traffic
-- twenty
-- burden
-- audit
-bip_39_word_space_1: caution
-bip_39_word_space_10: caution next receive rocket sentence wing confirm mimic traffic
-  twenty
-bip_39_word_space_11: caution next receive rocket sentence wing confirm mimic traffic
-  twenty burden
 bip_39_word_space_12: caution next receive rocket sentence wing confirm mimic traffic
   twenty burden audit
 bip_39_word_space_2: caution next
 bip_39_word_space_3: caution next receive
-bip_39_word_space_4: caution next receive rocket
-bip_39_word_space_5: caution next receive rocket sentence
-bip_39_word_space_6: caution next receive rocket sentence wing
-bip_39_word_space_7: caution next receive rocket sentence wing confirm
-bip_39_word_space_8: caution next receive rocket sentence wing confirm mimic
-bip_39_word_space_9: caution next receive rocket sentence wing confirm mimic traffic
-bip_39_word_underscore_1: caution
-bip_39_word_underscore_10: caution_next_receive_rocket_sentence_wing_confirm_mimic_traffic_twenty
-bip_39_word_underscore_11: caution_next_receive_rocket_sentence_wing_confirm_mimic_traffic_twenty_burden
 bip_39_word_underscore_12: caution_next_receive_rocket_sentence_wing_confirm_mimic_traffic_twenty_burden_audit
 bip_39_word_underscore_2: caution_next
 bip_39_word_underscore_3: caution_next_receive
-bip_39_word_underscore_4: caution_next_receive_rocket
-bip_39_word_underscore_5: caution_next_receive_rocket_sentence
-bip_39_word_underscore_6: caution_next_receive_rocket_sentence_wing
-bip_39_word_underscore_7: caution_next_receive_rocket_sentence_wing_confirm
-bip_39_word_underscore_8: caution_next_receive_rocket_sentence_wing_confirm_mimic
-bip_39_word_underscore_9: caution_next_receive_rocket_sentence_wing_confirm_mimic_traffic
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

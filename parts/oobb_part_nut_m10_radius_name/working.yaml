@@ -1,68 +1,9 @@
-bip_39_word_dash_1: rare
-bip_39_word_dash_10: rare-shield-plunge-plunge-coyote-save-spatial-size-flock-include
-bip_39_word_dash_11: rare-shield-plunge-plunge-coyote-save-spatial-size-flock-include-develop
 bip_39_word_dash_12: rare-shield-plunge-plunge-coyote-save-spatial-size-flock-include-develop-absent
 bip_39_word_dash_2: rare-shield
 bip_39_word_dash_3: rare-shield-plunge
-bip_39_word_dash_4: rare-shield-plunge-plunge
-bip_39_word_dash_5: rare-shield-plunge-plunge-coyote
-bip_39_word_dash_6: rare-shield-plunge-plunge-coyote-save
-bip_39_word_dash_7: rare-shield-plunge-plunge-coyote-save-spatial
-bip_39_word_dash_8: rare-shield-plunge-plunge-coyote-save-spatial-size
-bip_39_word_dash_9: rare-shield-plunge-plunge-coyote-save-spatial-size-flock
-bip_39_word_new_br_1: rare
-bip_39_word_new_br_10: rare<br>shield<br>plunge<br>plunge<br>coyote<br>save<br>spatial<br>size<br>flock<br>include
-bip_39_word_new_br_11: rare<br>shield<br>plunge<br>plunge<br>coyote<br>save<br>spatial<br>size<br>flock<br>include<br>develop
 bip_39_word_new_br_12: rare<br>shield<br>plunge<br>plunge<br>coyote<br>save<br>spatial<br>size<br>flock<br>include<br>develop<br>absent
 bip_39_word_new_br_2: rare<br>shield
 bip_39_word_new_br_3: rare<br>shield<br>plunge
-bip_39_word_new_br_4: rare<br>shield<br>plunge<br>plunge
-bip_39_word_new_br_5: rare<br>shield<br>plunge<br>plunge<br>coyote
-bip_39_word_new_br_6: rare<br>shield<br>plunge<br>plunge<br>coyote<br>save
-bip_39_word_new_br_7: rare<br>shield<br>plunge<br>plunge<br>coyote<br>save<br>spatial
-bip_39_word_new_br_8: rare<br>shield<br>plunge<br>plunge<br>coyote<br>save<br>spatial<br>size
-bip_39_word_new_br_9: rare<br>shield<br>plunge<br>plunge<br>coyote<br>save<br>spatial<br>size<br>flock
-bip_39_word_new_line_1: rare
-bip_39_word_new_line_10: 'rare
-
-  shield
-
-  plunge
-
-  plunge
-
-  coyote
-
-  save
-
-  spatial
-
-  size
-
-  flock
-
-  include'
-bip_39_word_new_line_11: 'rare
-
-  shield
-
-  plunge
-
-  plunge
-
-  coyote
-
-  save
-
-  spatial
-
-  size
-
-  flock
-
-  include
-
-  develop'
 bip_39_word_new_line_12: 'rare
 
   shield
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'rare
   shield
 
   plunge'
-bip_39_word_new_line_4: 'rare
-
-  shield
-
-  plunge
-
-  plunge'
-bip_39_word_new_line_5: 'rare
-
-  shield
-
-  plunge
-
-  plunge
-
-  coyote'
-bip_39_word_new_line_6: 'rare
-
-  shield
-
-  plunge
-
-  plunge
-
-  coyote
-
-  save'
-bip_39_word_new_line_7: 'rare
-
-  shield
-
-  plunge
-
-  plunge
-
-  coyote
-
-  save
-
-  spatial'
-bip_39_word_new_line_8: 'rare
-
-  shield
-
-  plunge
-
-  plunge
-
-  coyote
-
-  save
-
-  spatial
-
-  size'
-bip_39_word_new_line_9: 'rare
-
-  shield
-
-  plunge
-
-  plunge
-
-  coyote
-
-  save
-
-  spatial
-
-  size
-
-  flock'
-bip_39_word_no_space_1: rare
-bip_39_word_no_space_10: rareshieldplungeplungecoyotesavespatialsizeflockinclude
-bip_39_word_no_space_11: rareshieldplungeplungecoyotesavespatialsizeflockincludedevelop
 bip_39_word_no_space_12: rareshieldplungeplungecoyotesavespatialsizeflockincludedevelopabsent
 bip_39_word_no_space_2: rareshield
 bip_39_word_no_space_3: rareshieldplunge
-bip_39_word_no_space_4: rareshieldplungeplunge
-bip_39_word_no_space_5: rareshieldplungeplungecoyote
-bip_39_word_no_space_6: rareshieldplungeplungecoyotesave
-bip_39_word_no_space_7: rareshieldplungeplungecoyotesavespatial
-bip_39_word_no_space_8: rareshieldplungeplungecoyotesavespatialsize
-bip_39_word_no_space_9: rareshieldplungeplungecoyotesavespatialsizeflock
-bip_39_word_space_0:
-- rare
-- shield
-- plunge
-- plunge
-- coyote
-- save
-- spatial
-- size
-- flock
-- include
-- develop
-- absent
-bip_39_word_space_1: rare
-bip_39_word_space_10: rare shield plunge plunge coyote save spatial size flock include
-bip_39_word_space_11: rare shield plunge plunge coyote save spatial size flock include
-  develop
 bip_39_word_space_12: rare shield plunge plunge coyote save spatial size flock include
   develop absent
 bip_39_word_space_2: rare shield
 bip_39_word_space_3: rare shield plunge
-bip_39_word_space_4: rare shield plunge plunge
-bip_39_word_space_5: rare shield plunge plunge coyote
-bip_39_word_space_6: rare shield plunge plunge coyote save
-bip_39_word_space_7: rare shield plunge plunge coyote save spatial
-bip_39_word_space_8: rare shield plunge plunge coyote save spatial size
-bip_39_word_space_9: rare shield plunge plunge coyote save spatial size flock
-bip_39_word_underscore_1: rare
-bip_39_word_underscore_10: rare_shield_plunge_plunge_coyote_save_spatial_size_flock_include
-bip_39_word_underscore_11: rare_shield_plunge_plunge_coyote_save_spatial_size_flock_include_develop
 bip_39_word_underscore_12: rare_shield_plunge_plunge_coyote_save_spatial_size_flock_include_develop_absent
 bip_39_word_underscore_2: rare_shield
 bip_39_word_underscore_3: rare_shield_plunge
-bip_39_word_underscore_4: rare_shield_plunge_plunge
-bip_39_word_underscore_5: rare_shield_plunge_plunge_coyote
-bip_39_word_underscore_6: rare_shield_plunge_plunge_coyote_save
-bip_39_word_underscore_7: rare_shield_plunge_plunge_coyote_save_spatial
-bip_39_word_underscore_8: rare_shield_plunge_plunge_coyote_save_spatial_size
-bip_39_word_underscore_9: rare_shield_plunge_plunge_coyote_save_spatial_size_flock
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: peasant
-bip_39_word_dash_10: peasant-list-push-north-enable-desert-hand-smooth-artefact-edge
-bip_39_word_dash_11: peasant-list-push-north-enable-desert-hand-smooth-artefact-edge-always
 bip_39_word_dash_12: peasant-list-push-north-enable-desert-hand-smooth-artefact-edge-always-access
 bip_39_word_dash_2: peasant-list
 bip_39_word_dash_3: peasant-list-push
-bip_39_word_dash_4: peasant-list-push-north
-bip_39_word_dash_5: peasant-list-push-north-enable
-bip_39_word_dash_6: peasant-list-push-north-enable-desert
-bip_39_word_dash_7: peasant-list-push-north-enable-desert-hand
-bip_39_word_dash_8: peasant-list-push-north-enable-desert-hand-smooth
-bip_39_word_dash_9: peasant-list-push-north-enable-desert-hand-smooth-artefact
-bip_39_word_new_br_1: peasant
-bip_39_word_new_br_10: peasant<br>list<br>push<br>north<br>enable<br>desert<br>hand<br>smooth<br>artefact<br>edge
-bip_39_word_new_br_11: peasant<br>list<br>push<br>north<br>enable<br>desert<br>hand<br>smooth<br>artefact<br>edge<br>always
 bip_39_word_new_br_12: peasant<br>list<br>push<br>north<br>enable<br>desert<br>hand<br>smooth<br>artefact<br>edge<br>always<br>access
 bip_39_word_new_br_2: peasant<br>list
 bip_39_word_new_br_3: peasant<br>list<br>push
-bip_39_word_new_br_4: peasant<br>list<br>push<br>north
-bip_39_word_new_br_5: peasant<br>list<br>push<br>north<br>enable
-bip_39_word_new_br_6: peasant<br>list<br>push<br>north<br>enable<br>desert
-bip_39_word_new_br_7: peasant<br>list<br>push<br>north<br>enable<br>desert<br>hand
-bip_39_word_new_br_8: peasant<br>list<br>push<br>north<br>enable<br>desert<br>hand<br>smooth
-bip_39_word_new_br_9: peasant<br>list<br>push<br>north<br>enable<br>desert<br>hand<br>smooth<br>artefact
-bip_39_word_new_line_1: peasant
-bip_39_word_new_line_10: 'peasant
-
-  list
-
-  push
-
-  north
-
-  enable
-
-  desert
-
-  hand
-
-  smooth
-
-  artefact
-
-  edge'
-bip_39_word_new_line_11: 'peasant
-
-  list
-
-  push
-
-  north
-
-  enable
-
-  desert
-
-  hand
-
-  smooth
-
-  artefact
-
-  edge
-
-  always'
 bip_39_word_new_line_12: 'peasant
 
   list
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'peasant
   list
 
   push'
-bip_39_word_new_line_4: 'peasant
-
-  list
-
-  push
-
-  north'
-bip_39_word_new_line_5: 'peasant
-
-  list
-
-  push
-
-  north
-
-  enable'
-bip_39_word_new_line_6: 'peasant
-
-  list
-
-  push
-
-  north
-
-  enable
-
-  desert'
-bip_39_word_new_line_7: 'peasant
-
-  list
-
-  push
-
-  north
-
-  enable
-
-  desert
-
-  hand'
-bip_39_word_new_line_8: 'peasant
-
-  list
-
-  push
-
-  north
-
-  enable
-
-  desert
-
-  hand
-
-  smooth'
-bip_39_word_new_line_9: 'peasant
-
-  list
-
-  push
-
-  north
-
-  enable
-
-  desert
-
-  hand
-
-  smooth
-
-  artefact'
-bip_39_word_no_space_1: peasant
-bip_39_word_no_space_10: peasantlistpushnorthenabledeserthandsmoothartefactedge
-bip_39_word_no_space_11: peasantlistpushnorthenabledeserthandsmoothartefactedgealways
 bip_39_word_no_space_12: peasantlistpushnorthenabledeserthandsmoothartefactedgealwaysaccess
 bip_39_word_no_space_2: peasantlist
 bip_39_word_no_space_3: peasantlistpush
-bip_39_word_no_space_4: peasantlistpushnorth
-bip_39_word_no_space_5: peasantlistpushnorthenable
-bip_39_word_no_space_6: peasantlistpushnorthenabledesert
-bip_39_word_no_space_7: peasantlistpushnorthenabledeserthand
-bip_39_word_no_space_8: peasantlistpushnorthenabledeserthandsmooth
-bip_39_word_no_space_9: peasantlistpushnorthenabledeserthandsmoothartefact
-bip_39_word_space_0:
-- peasant
-- list
-- push
-- north
-- enable
-- desert
-- hand
-- smooth
-- artefact
-- edge
-- always
-- access
-bip_39_word_space_1: peasant
-bip_39_word_space_10: peasant list push north enable desert hand smooth artefact edge
-bip_39_word_space_11: peasant list push north enable desert hand smooth artefact edge
-  always
 bip_39_word_space_12: peasant list push north enable desert hand smooth artefact edge
   always access
 bip_39_word_space_2: peasant list
 bip_39_word_space_3: peasant list push
-bip_39_word_space_4: peasant list push north
-bip_39_word_space_5: peasant list push north enable
-bip_39_word_space_6: peasant list push north enable desert
-bip_39_word_space_7: peasant list push north enable desert hand
-bip_39_word_space_8: peasant list push north enable desert hand smooth
-bip_39_word_space_9: peasant list push north enable desert hand smooth artefact
-bip_39_word_underscore_1: peasant
-bip_39_word_underscore_10: peasant_list_push_north_enable_desert_hand_smooth_artefact_edge
-bip_39_word_underscore_11: peasant_list_push_north_enable_desert_hand_smooth_artefact_edge_always
 bip_39_word_underscore_12: peasant_list_push_north_enable_desert_hand_smooth_artefact_edge_always_access
 bip_39_word_underscore_2: peasant_list
 bip_39_word_underscore_3: peasant_list_push
-bip_39_word_underscore_4: peasant_list_push_north
-bip_39_word_underscore_5: peasant_list_push_north_enable
-bip_39_word_underscore_6: peasant_list_push_north_enable_desert
-bip_39_word_underscore_7: peasant_list_push_north_enable_desert_hand
-bip_39_word_underscore_8: peasant_list_push_north_enable_desert_hand_smooth
-bip_39_word_underscore_9: peasant_list_push_north_enable_desert_hand_smooth_artefact
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

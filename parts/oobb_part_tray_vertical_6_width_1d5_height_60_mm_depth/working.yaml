@@ -1,68 +1,9 @@
-bip_39_word_dash_1: float
-bip_39_word_dash_10: float-input-patch-tape-truly-fall-govern-receive-utility-inmate
-bip_39_word_dash_11: float-input-patch-tape-truly-fall-govern-receive-utility-inmate-inhale
 bip_39_word_dash_12: float-input-patch-tape-truly-fall-govern-receive-utility-inmate-inhale-admit
 bip_39_word_dash_2: float-input
 bip_39_word_dash_3: float-input-patch
-bip_39_word_dash_4: float-input-patch-tape
-bip_39_word_dash_5: float-input-patch-tape-truly
-bip_39_word_dash_6: float-input-patch-tape-truly-fall
-bip_39_word_dash_7: float-input-patch-tape-truly-fall-govern
-bip_39_word_dash_8: float-input-patch-tape-truly-fall-govern-receive
-bip_39_word_dash_9: float-input-patch-tape-truly-fall-govern-receive-utility
-bip_39_word_new_br_1: float
-bip_39_word_new_br_10: float<br>input<br>patch<br>tape<br>truly<br>fall<br>govern<br>receive<br>utility<br>inmate
-bip_39_word_new_br_11: float<br>input<br>patch<br>tape<br>truly<br>fall<br>govern<br>receive<br>utility<br>inmate<br>inhale
 bip_39_word_new_br_12: float<br>input<br>patch<br>tape<br>truly<br>fall<br>govern<br>receive<br>utility<br>inmate<br>inhale<br>admit
 bip_39_word_new_br_2: float<br>input
 bip_39_word_new_br_3: float<br>input<br>patch
-bip_39_word_new_br_4: float<br>input<br>patch<br>tape
-bip_39_word_new_br_5: float<br>input<br>patch<br>tape<br>truly
-bip_39_word_new_br_6: float<br>input<br>patch<br>tape<br>truly<br>fall
-bip_39_word_new_br_7: float<br>input<br>patch<br>tape<br>truly<br>fall<br>govern
-bip_39_word_new_br_8: float<br>input<br>patch<br>tape<br>truly<br>fall<br>govern<br>receive
-bip_39_word_new_br_9: float<br>input<br>patch<br>tape<br>truly<br>fall<br>govern<br>receive<br>utility
-bip_39_word_new_line_1: float
-bip_39_word_new_line_10: 'float
-
-  input
-
-  patch
-
-  tape
-
-  truly
-
-  fall
-
-  govern
-
-  receive
-
-  utility
-
-  inmate'
-bip_39_word_new_line_11: 'float
-
-  input
-
-  patch
-
-  tape
-
-  truly
-
-  fall
-
-  govern
-
-  receive
-
-  utility
-
-  inmate
-
-  inhale'
 bip_39_word_new_line_12: 'float
 
   input
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'float
   input
 
   patch'
-bip_39_word_new_line_4: 'float
-
-  input
-
-  patch
-
-  tape'
-bip_39_word_new_line_5: 'float
-
-  input
-
-  patch
-
-  tape
-
-  truly'
-bip_39_word_new_line_6: 'float
-
-  input
-
-  patch
-
-  tape
-
-  truly
-
-  fall'
-bip_39_word_new_line_7: 'float
-
-  input
-
-  patch
-
-  tape
-
-  truly
-
-  fall
-
-  govern'
-bip_39_word_new_line_8: 'float
-
-  input
-
-  patch
-
-  tape
-
-  truly
-
-  fall
-
-  govern
-
-  receive'
-bip_39_word_new_line_9: 'float
-
-  input
-
-  patch
-
-  tape
-
-  truly
-
-  fall
-
-  govern
-
-  receive
-
-  utility'
-bip_39_word_no_space_1: float
-bip_39_word_no_space_10: floatinputpatchtapetrulyfallgovernreceiveutilityinmate
-bip_39_word_no_space_11: floatinputpatchtapetrulyfallgovernreceiveutilityinmateinhale
 bip_39_word_no_space_12: floatinputpatchtapetrulyfallgovernreceiveutilityinmateinhaleadmit
 bip_39_word_no_space_2: floatinput
 bip_39_word_no_space_3: floatinputpatch
-bip_39_word_no_space_4: floatinputpatchtape
-bip_39_word_no_space_5: floatinputpatchtapetruly
-bip_39_word_no_space_6: floatinputpatchtapetrulyfall
-bip_39_word_no_space_7: floatinputpatchtapetrulyfallgovern
-bip_39_word_no_space_8: floatinputpatchtapetrulyfallgovernreceive
-bip_39_word_no_space_9: floatinputpatchtapetrulyfallgovernreceiveutility
-bip_39_word_space_0:
-- float
-- input
-- patch
-- tape
-- truly
-- fall
-- govern
-- receive
-- utility
-- inmate
-- inhale
-- admit
-bip_39_word_space_1: float
-bip_39_word_space_10: float input patch tape truly fall govern receive utility inmate
-bip_39_word_space_11: float input patch tape truly fall govern receive utility inmate
-  inhale
 bip_39_word_space_12: float input patch tape truly fall govern receive utility inmate
   inhale admit
 bip_39_word_space_2: float input
 bip_39_word_space_3: float input patch
-bip_39_word_space_4: float input patch tape
-bip_39_word_space_5: float input patch tape truly
-bip_39_word_space_6: float input patch tape truly fall
-bip_39_word_space_7: float input patch tape truly fall govern
-bip_39_word_space_8: float input patch tape truly fall govern receive
-bip_39_word_space_9: float input patch tape truly fall govern receive utility
-bip_39_word_underscore_1: float
-bip_39_word_underscore_10: float_input_patch_tape_truly_fall_govern_receive_utility_inmate
-bip_39_word_underscore_11: float_input_patch_tape_truly_fall_govern_receive_utility_inmate_inhale
 bip_39_word_underscore_12: float_input_patch_tape_truly_fall_govern_receive_utility_inmate_inhale_admit
 bip_39_word_underscore_2: float_input
 bip_39_word_underscore_3: float_input_patch
-bip_39_word_underscore_4: float_input_patch_tape
-bip_39_word_underscore_5: float_input_patch_tape_truly
-bip_39_word_underscore_6: float_input_patch_tape_truly_fall
-bip_39_word_underscore_7: float_input_patch_tape_truly_fall_govern
-bip_39_word_underscore_8: float_input_patch_tape_truly_fall_govern_receive
-bip_39_word_underscore_9: float_input_patch_tape_truly_fall_govern_receive_utility
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

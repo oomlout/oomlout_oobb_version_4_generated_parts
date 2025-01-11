@@ -1,68 +1,9 @@
-bip_39_word_dash_1: resemble
-bip_39_word_dash_10: resemble-useless-letter-prison-enrich-bachelor-bulk-twist-laundry-bunker
-bip_39_word_dash_11: resemble-useless-letter-prison-enrich-bachelor-bulk-twist-laundry-bunker-tray
 bip_39_word_dash_12: resemble-useless-letter-prison-enrich-bachelor-bulk-twist-laundry-bunker-tray-around
 bip_39_word_dash_2: resemble-useless
 bip_39_word_dash_3: resemble-useless-letter
-bip_39_word_dash_4: resemble-useless-letter-prison
-bip_39_word_dash_5: resemble-useless-letter-prison-enrich
-bip_39_word_dash_6: resemble-useless-letter-prison-enrich-bachelor
-bip_39_word_dash_7: resemble-useless-letter-prison-enrich-bachelor-bulk
-bip_39_word_dash_8: resemble-useless-letter-prison-enrich-bachelor-bulk-twist
-bip_39_word_dash_9: resemble-useless-letter-prison-enrich-bachelor-bulk-twist-laundry
-bip_39_word_new_br_1: resemble
-bip_39_word_new_br_10: resemble<br>useless<br>letter<br>prison<br>enrich<br>bachelor<br>bulk<br>twist<br>laundry<br>bunker
-bip_39_word_new_br_11: resemble<br>useless<br>letter<br>prison<br>enrich<br>bachelor<br>bulk<br>twist<br>laundry<br>bunker<br>tray
 bip_39_word_new_br_12: resemble<br>useless<br>letter<br>prison<br>enrich<br>bachelor<br>bulk<br>twist<br>laundry<br>bunker<br>tray<br>around
 bip_39_word_new_br_2: resemble<br>useless
 bip_39_word_new_br_3: resemble<br>useless<br>letter
-bip_39_word_new_br_4: resemble<br>useless<br>letter<br>prison
-bip_39_word_new_br_5: resemble<br>useless<br>letter<br>prison<br>enrich
-bip_39_word_new_br_6: resemble<br>useless<br>letter<br>prison<br>enrich<br>bachelor
-bip_39_word_new_br_7: resemble<br>useless<br>letter<br>prison<br>enrich<br>bachelor<br>bulk
-bip_39_word_new_br_8: resemble<br>useless<br>letter<br>prison<br>enrich<br>bachelor<br>bulk<br>twist
-bip_39_word_new_br_9: resemble<br>useless<br>letter<br>prison<br>enrich<br>bachelor<br>bulk<br>twist<br>laundry
-bip_39_word_new_line_1: resemble
-bip_39_word_new_line_10: 'resemble
-
-  useless
-
-  letter
-
-  prison
-
-  enrich
-
-  bachelor
-
-  bulk
-
-  twist
-
-  laundry
-
-  bunker'
-bip_39_word_new_line_11: 'resemble
-
-  useless
-
-  letter
-
-  prison
-
-  enrich
-
-  bachelor
-
-  bulk
-
-  twist
-
-  laundry
-
-  bunker
-
-  tray'
 bip_39_word_new_line_12: 'resemble
 
   useless
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'resemble
   useless
 
   letter'
-bip_39_word_new_line_4: 'resemble
-
-  useless
-
-  letter
-
-  prison'
-bip_39_word_new_line_5: 'resemble
-
-  useless
-
-  letter
-
-  prison
-
-  enrich'
-bip_39_word_new_line_6: 'resemble
-
-  useless
-
-  letter
-
-  prison
-
-  enrich
-
-  bachelor'
-bip_39_word_new_line_7: 'resemble
-
-  useless
-
-  letter
-
-  prison
-
-  enrich
-
-  bachelor
-
-  bulk'
-bip_39_word_new_line_8: 'resemble
-
-  useless
-
-  letter
-
-  prison
-
-  enrich
-
-  bachelor
-
-  bulk
-
-  twist'
-bip_39_word_new_line_9: 'resemble
-
-  useless
-
-  letter
-
-  prison
-
-  enrich
-
-  bachelor
-
-  bulk
-
-  twist
-
-  laundry'
-bip_39_word_no_space_1: resemble
-bip_39_word_no_space_10: resembleuselessletterprisonenrichbachelorbulktwistlaundrybunker
-bip_39_word_no_space_11: resembleuselessletterprisonenrichbachelorbulktwistlaundrybunkertray
 bip_39_word_no_space_12: resembleuselessletterprisonenrichbachelorbulktwistlaundrybunkertrayaround
 bip_39_word_no_space_2: resembleuseless
 bip_39_word_no_space_3: resembleuselessletter
-bip_39_word_no_space_4: resembleuselessletterprison
-bip_39_word_no_space_5: resembleuselessletterprisonenrich
-bip_39_word_no_space_6: resembleuselessletterprisonenrichbachelor
-bip_39_word_no_space_7: resembleuselessletterprisonenrichbachelorbulk
-bip_39_word_no_space_8: resembleuselessletterprisonenrichbachelorbulktwist
-bip_39_word_no_space_9: resembleuselessletterprisonenrichbachelorbulktwistlaundry
-bip_39_word_space_0:
-- resemble
-- useless
-- letter
-- prison
-- enrich
-- bachelor
-- bulk
-- twist
-- laundry
-- bunker
-- tray
-- around
-bip_39_word_space_1: resemble
-bip_39_word_space_10: resemble useless letter prison enrich bachelor bulk twist laundry
-  bunker
-bip_39_word_space_11: resemble useless letter prison enrich bachelor bulk twist laundry
-  bunker tray
 bip_39_word_space_12: resemble useless letter prison enrich bachelor bulk twist laundry
   bunker tray around
 bip_39_word_space_2: resemble useless
 bip_39_word_space_3: resemble useless letter
-bip_39_word_space_4: resemble useless letter prison
-bip_39_word_space_5: resemble useless letter prison enrich
-bip_39_word_space_6: resemble useless letter prison enrich bachelor
-bip_39_word_space_7: resemble useless letter prison enrich bachelor bulk
-bip_39_word_space_8: resemble useless letter prison enrich bachelor bulk twist
-bip_39_word_space_9: resemble useless letter prison enrich bachelor bulk twist laundry
-bip_39_word_underscore_1: resemble
-bip_39_word_underscore_10: resemble_useless_letter_prison_enrich_bachelor_bulk_twist_laundry_bunker
-bip_39_word_underscore_11: resemble_useless_letter_prison_enrich_bachelor_bulk_twist_laundry_bunker_tray
 bip_39_word_underscore_12: resemble_useless_letter_prison_enrich_bachelor_bulk_twist_laundry_bunker_tray_around
 bip_39_word_underscore_2: resemble_useless
 bip_39_word_underscore_3: resemble_useless_letter
-bip_39_word_underscore_4: resemble_useless_letter_prison
-bip_39_word_underscore_5: resemble_useless_letter_prison_enrich
-bip_39_word_underscore_6: resemble_useless_letter_prison_enrich_bachelor
-bip_39_word_underscore_7: resemble_useless_letter_prison_enrich_bachelor_bulk
-bip_39_word_underscore_8: resemble_useless_letter_prison_enrich_bachelor_bulk_twist
-bip_39_word_underscore_9: resemble_useless_letter_prison_enrich_bachelor_bulk_twist_laundry
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

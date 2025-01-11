@@ -1,68 +1,9 @@
-bip_39_word_dash_1: reason
-bip_39_word_dash_10: reason-merge-park-bar-mask-snake-fog-donate-upgrade-olive
-bip_39_word_dash_11: reason-merge-park-bar-mask-snake-fog-donate-upgrade-olive-army
 bip_39_word_dash_12: reason-merge-park-bar-mask-snake-fog-donate-upgrade-olive-army-abstract
 bip_39_word_dash_2: reason-merge
 bip_39_word_dash_3: reason-merge-park
-bip_39_word_dash_4: reason-merge-park-bar
-bip_39_word_dash_5: reason-merge-park-bar-mask
-bip_39_word_dash_6: reason-merge-park-bar-mask-snake
-bip_39_word_dash_7: reason-merge-park-bar-mask-snake-fog
-bip_39_word_dash_8: reason-merge-park-bar-mask-snake-fog-donate
-bip_39_word_dash_9: reason-merge-park-bar-mask-snake-fog-donate-upgrade
-bip_39_word_new_br_1: reason
-bip_39_word_new_br_10: reason<br>merge<br>park<br>bar<br>mask<br>snake<br>fog<br>donate<br>upgrade<br>olive
-bip_39_word_new_br_11: reason<br>merge<br>park<br>bar<br>mask<br>snake<br>fog<br>donate<br>upgrade<br>olive<br>army
 bip_39_word_new_br_12: reason<br>merge<br>park<br>bar<br>mask<br>snake<br>fog<br>donate<br>upgrade<br>olive<br>army<br>abstract
 bip_39_word_new_br_2: reason<br>merge
 bip_39_word_new_br_3: reason<br>merge<br>park
-bip_39_word_new_br_4: reason<br>merge<br>park<br>bar
-bip_39_word_new_br_5: reason<br>merge<br>park<br>bar<br>mask
-bip_39_word_new_br_6: reason<br>merge<br>park<br>bar<br>mask<br>snake
-bip_39_word_new_br_7: reason<br>merge<br>park<br>bar<br>mask<br>snake<br>fog
-bip_39_word_new_br_8: reason<br>merge<br>park<br>bar<br>mask<br>snake<br>fog<br>donate
-bip_39_word_new_br_9: reason<br>merge<br>park<br>bar<br>mask<br>snake<br>fog<br>donate<br>upgrade
-bip_39_word_new_line_1: reason
-bip_39_word_new_line_10: 'reason
-
-  merge
-
-  park
-
-  bar
-
-  mask
-
-  snake
-
-  fog
-
-  donate
-
-  upgrade
-
-  olive'
-bip_39_word_new_line_11: 'reason
-
-  merge
-
-  park
-
-  bar
-
-  mask
-
-  snake
-
-  fog
-
-  donate
-
-  upgrade
-
-  olive
-
-  army'
 bip_39_word_new_line_12: 'reason
 
   merge
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'reason
   merge
 
   park'
-bip_39_word_new_line_4: 'reason
-
-  merge
-
-  park
-
-  bar'
-bip_39_word_new_line_5: 'reason
-
-  merge
-
-  park
-
-  bar
-
-  mask'
-bip_39_word_new_line_6: 'reason
-
-  merge
-
-  park
-
-  bar
-
-  mask
-
-  snake'
-bip_39_word_new_line_7: 'reason
-
-  merge
-
-  park
-
-  bar
-
-  mask
-
-  snake
-
-  fog'
-bip_39_word_new_line_8: 'reason
-
-  merge
-
-  park
-
-  bar
-
-  mask
-
-  snake
-
-  fog
-
-  donate'
-bip_39_word_new_line_9: 'reason
-
-  merge
-
-  park
-
-  bar
-
-  mask
-
-  snake
-
-  fog
-
-  donate
-
-  upgrade'
-bip_39_word_no_space_1: reason
-bip_39_word_no_space_10: reasonmergeparkbarmasksnakefogdonateupgradeolive
-bip_39_word_no_space_11: reasonmergeparkbarmasksnakefogdonateupgradeolivearmy
 bip_39_word_no_space_12: reasonmergeparkbarmasksnakefogdonateupgradeolivearmyabstract
 bip_39_word_no_space_2: reasonmerge
 bip_39_word_no_space_3: reasonmergepark
-bip_39_word_no_space_4: reasonmergeparkbar
-bip_39_word_no_space_5: reasonmergeparkbarmask
-bip_39_word_no_space_6: reasonmergeparkbarmasksnake
-bip_39_word_no_space_7: reasonmergeparkbarmasksnakefog
-bip_39_word_no_space_8: reasonmergeparkbarmasksnakefogdonate
-bip_39_word_no_space_9: reasonmergeparkbarmasksnakefogdonateupgrade
-bip_39_word_space_0:
-- reason
-- merge
-- park
-- bar
-- mask
-- snake
-- fog
-- donate
-- upgrade
-- olive
-- army
-- abstract
-bip_39_word_space_1: reason
-bip_39_word_space_10: reason merge park bar mask snake fog donate upgrade olive
-bip_39_word_space_11: reason merge park bar mask snake fog donate upgrade olive army
 bip_39_word_space_12: reason merge park bar mask snake fog donate upgrade olive army
   abstract
 bip_39_word_space_2: reason merge
 bip_39_word_space_3: reason merge park
-bip_39_word_space_4: reason merge park bar
-bip_39_word_space_5: reason merge park bar mask
-bip_39_word_space_6: reason merge park bar mask snake
-bip_39_word_space_7: reason merge park bar mask snake fog
-bip_39_word_space_8: reason merge park bar mask snake fog donate
-bip_39_word_space_9: reason merge park bar mask snake fog donate upgrade
-bip_39_word_underscore_1: reason
-bip_39_word_underscore_10: reason_merge_park_bar_mask_snake_fog_donate_upgrade_olive
-bip_39_word_underscore_11: reason_merge_park_bar_mask_snake_fog_donate_upgrade_olive_army
 bip_39_word_underscore_12: reason_merge_park_bar_mask_snake_fog_donate_upgrade_olive_army_abstract
 bip_39_word_underscore_2: reason_merge
 bip_39_word_underscore_3: reason_merge_park
-bip_39_word_underscore_4: reason_merge_park_bar
-bip_39_word_underscore_5: reason_merge_park_bar_mask
-bip_39_word_underscore_6: reason_merge_park_bar_mask_snake
-bip_39_word_underscore_7: reason_merge_park_bar_mask_snake_fog
-bip_39_word_underscore_8: reason_merge_park_bar_mask_snake_fog_donate
-bip_39_word_underscore_9: reason_merge_park_bar_mask_snake_fog_donate_upgrade
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

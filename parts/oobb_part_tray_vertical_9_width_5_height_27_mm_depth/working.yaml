@@ -1,68 +1,9 @@
-bip_39_word_dash_1: main
-bip_39_word_dash_10: main-aunt-about-lawn-rocket-merit-recall-thing-chunk-iron
-bip_39_word_dash_11: main-aunt-about-lawn-rocket-merit-recall-thing-chunk-iron-fence
 bip_39_word_dash_12: main-aunt-about-lawn-rocket-merit-recall-thing-chunk-iron-fence-acid
 bip_39_word_dash_2: main-aunt
 bip_39_word_dash_3: main-aunt-about
-bip_39_word_dash_4: main-aunt-about-lawn
-bip_39_word_dash_5: main-aunt-about-lawn-rocket
-bip_39_word_dash_6: main-aunt-about-lawn-rocket-merit
-bip_39_word_dash_7: main-aunt-about-lawn-rocket-merit-recall
-bip_39_word_dash_8: main-aunt-about-lawn-rocket-merit-recall-thing
-bip_39_word_dash_9: main-aunt-about-lawn-rocket-merit-recall-thing-chunk
-bip_39_word_new_br_1: main
-bip_39_word_new_br_10: main<br>aunt<br>about<br>lawn<br>rocket<br>merit<br>recall<br>thing<br>chunk<br>iron
-bip_39_word_new_br_11: main<br>aunt<br>about<br>lawn<br>rocket<br>merit<br>recall<br>thing<br>chunk<br>iron<br>fence
 bip_39_word_new_br_12: main<br>aunt<br>about<br>lawn<br>rocket<br>merit<br>recall<br>thing<br>chunk<br>iron<br>fence<br>acid
 bip_39_word_new_br_2: main<br>aunt
 bip_39_word_new_br_3: main<br>aunt<br>about
-bip_39_word_new_br_4: main<br>aunt<br>about<br>lawn
-bip_39_word_new_br_5: main<br>aunt<br>about<br>lawn<br>rocket
-bip_39_word_new_br_6: main<br>aunt<br>about<br>lawn<br>rocket<br>merit
-bip_39_word_new_br_7: main<br>aunt<br>about<br>lawn<br>rocket<br>merit<br>recall
-bip_39_word_new_br_8: main<br>aunt<br>about<br>lawn<br>rocket<br>merit<br>recall<br>thing
-bip_39_word_new_br_9: main<br>aunt<br>about<br>lawn<br>rocket<br>merit<br>recall<br>thing<br>chunk
-bip_39_word_new_line_1: main
-bip_39_word_new_line_10: 'main
-
-  aunt
-
-  about
-
-  lawn
-
-  rocket
-
-  merit
-
-  recall
-
-  thing
-
-  chunk
-
-  iron'
-bip_39_word_new_line_11: 'main
-
-  aunt
-
-  about
-
-  lawn
-
-  rocket
-
-  merit
-
-  recall
-
-  thing
-
-  chunk
-
-  iron
-
-  fence'
 bip_39_word_new_line_12: 'main
 
   aunt
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'main
   aunt
 
   about'
-bip_39_word_new_line_4: 'main
-
-  aunt
-
-  about
-
-  lawn'
-bip_39_word_new_line_5: 'main
-
-  aunt
-
-  about
-
-  lawn
-
-  rocket'
-bip_39_word_new_line_6: 'main
-
-  aunt
-
-  about
-
-  lawn
-
-  rocket
-
-  merit'
-bip_39_word_new_line_7: 'main
-
-  aunt
-
-  about
-
-  lawn
-
-  rocket
-
-  merit
-
-  recall'
-bip_39_word_new_line_8: 'main
-
-  aunt
-
-  about
-
-  lawn
-
-  rocket
-
-  merit
-
-  recall
-
-  thing'
-bip_39_word_new_line_9: 'main
-
-  aunt
-
-  about
-
-  lawn
-
-  rocket
-
-  merit
-
-  recall
-
-  thing
-
-  chunk'
-bip_39_word_no_space_1: main
-bip_39_word_no_space_10: mainauntaboutlawnrocketmeritrecallthingchunkiron
-bip_39_word_no_space_11: mainauntaboutlawnrocketmeritrecallthingchunkironfence
 bip_39_word_no_space_12: mainauntaboutlawnrocketmeritrecallthingchunkironfenceacid
 bip_39_word_no_space_2: mainaunt
 bip_39_word_no_space_3: mainauntabout
-bip_39_word_no_space_4: mainauntaboutlawn
-bip_39_word_no_space_5: mainauntaboutlawnrocket
-bip_39_word_no_space_6: mainauntaboutlawnrocketmerit
-bip_39_word_no_space_7: mainauntaboutlawnrocketmeritrecall
-bip_39_word_no_space_8: mainauntaboutlawnrocketmeritrecallthing
-bip_39_word_no_space_9: mainauntaboutlawnrocketmeritrecallthingchunk
-bip_39_word_space_0:
-- main
-- aunt
-- about
-- lawn
-- rocket
-- merit
-- recall
-- thing
-- chunk
-- iron
-- fence
-- acid
-bip_39_word_space_1: main
-bip_39_word_space_10: main aunt about lawn rocket merit recall thing chunk iron
-bip_39_word_space_11: main aunt about lawn rocket merit recall thing chunk iron fence
 bip_39_word_space_12: main aunt about lawn rocket merit recall thing chunk iron fence
   acid
 bip_39_word_space_2: main aunt
 bip_39_word_space_3: main aunt about
-bip_39_word_space_4: main aunt about lawn
-bip_39_word_space_5: main aunt about lawn rocket
-bip_39_word_space_6: main aunt about lawn rocket merit
-bip_39_word_space_7: main aunt about lawn rocket merit recall
-bip_39_word_space_8: main aunt about lawn rocket merit recall thing
-bip_39_word_space_9: main aunt about lawn rocket merit recall thing chunk
-bip_39_word_underscore_1: main
-bip_39_word_underscore_10: main_aunt_about_lawn_rocket_merit_recall_thing_chunk_iron
-bip_39_word_underscore_11: main_aunt_about_lawn_rocket_merit_recall_thing_chunk_iron_fence
 bip_39_word_underscore_12: main_aunt_about_lawn_rocket_merit_recall_thing_chunk_iron_fence_acid
 bip_39_word_underscore_2: main_aunt
 bip_39_word_underscore_3: main_aunt_about
-bip_39_word_underscore_4: main_aunt_about_lawn
-bip_39_word_underscore_5: main_aunt_about_lawn_rocket
-bip_39_word_underscore_6: main_aunt_about_lawn_rocket_merit
-bip_39_word_underscore_7: main_aunt_about_lawn_rocket_merit_recall
-bip_39_word_underscore_8: main_aunt_about_lawn_rocket_merit_recall_thing
-bip_39_word_underscore_9: main_aunt_about_lawn_rocket_merit_recall_thing_chunk
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

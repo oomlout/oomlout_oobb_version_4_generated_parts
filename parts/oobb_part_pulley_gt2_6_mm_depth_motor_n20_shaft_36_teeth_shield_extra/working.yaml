@@ -1,68 +1,9 @@
-bip_39_word_dash_1: kangaroo
-bip_39_word_dash_10: kangaroo-nerve-grace-weasel-fresh-fun-rail-salmon-segment-amount
-bip_39_word_dash_11: kangaroo-nerve-grace-weasel-fresh-fun-rail-salmon-segment-amount-glide
 bip_39_word_dash_12: kangaroo-nerve-grace-weasel-fresh-fun-rail-salmon-segment-amount-glide-aunt
 bip_39_word_dash_2: kangaroo-nerve
 bip_39_word_dash_3: kangaroo-nerve-grace
-bip_39_word_dash_4: kangaroo-nerve-grace-weasel
-bip_39_word_dash_5: kangaroo-nerve-grace-weasel-fresh
-bip_39_word_dash_6: kangaroo-nerve-grace-weasel-fresh-fun
-bip_39_word_dash_7: kangaroo-nerve-grace-weasel-fresh-fun-rail
-bip_39_word_dash_8: kangaroo-nerve-grace-weasel-fresh-fun-rail-salmon
-bip_39_word_dash_9: kangaroo-nerve-grace-weasel-fresh-fun-rail-salmon-segment
-bip_39_word_new_br_1: kangaroo
-bip_39_word_new_br_10: kangaroo<br>nerve<br>grace<br>weasel<br>fresh<br>fun<br>rail<br>salmon<br>segment<br>amount
-bip_39_word_new_br_11: kangaroo<br>nerve<br>grace<br>weasel<br>fresh<br>fun<br>rail<br>salmon<br>segment<br>amount<br>glide
 bip_39_word_new_br_12: kangaroo<br>nerve<br>grace<br>weasel<br>fresh<br>fun<br>rail<br>salmon<br>segment<br>amount<br>glide<br>aunt
 bip_39_word_new_br_2: kangaroo<br>nerve
 bip_39_word_new_br_3: kangaroo<br>nerve<br>grace
-bip_39_word_new_br_4: kangaroo<br>nerve<br>grace<br>weasel
-bip_39_word_new_br_5: kangaroo<br>nerve<br>grace<br>weasel<br>fresh
-bip_39_word_new_br_6: kangaroo<br>nerve<br>grace<br>weasel<br>fresh<br>fun
-bip_39_word_new_br_7: kangaroo<br>nerve<br>grace<br>weasel<br>fresh<br>fun<br>rail
-bip_39_word_new_br_8: kangaroo<br>nerve<br>grace<br>weasel<br>fresh<br>fun<br>rail<br>salmon
-bip_39_word_new_br_9: kangaroo<br>nerve<br>grace<br>weasel<br>fresh<br>fun<br>rail<br>salmon<br>segment
-bip_39_word_new_line_1: kangaroo
-bip_39_word_new_line_10: 'kangaroo
-
-  nerve
-
-  grace
-
-  weasel
-
-  fresh
-
-  fun
-
-  rail
-
-  salmon
-
-  segment
-
-  amount'
-bip_39_word_new_line_11: 'kangaroo
-
-  nerve
-
-  grace
-
-  weasel
-
-  fresh
-
-  fun
-
-  rail
-
-  salmon
-
-  segment
-
-  amount
-
-  glide'
 bip_39_word_new_line_12: 'kangaroo
 
   nerve
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'kangaroo
   nerve
 
   grace'
-bip_39_word_new_line_4: 'kangaroo
-
-  nerve
-
-  grace
-
-  weasel'
-bip_39_word_new_line_5: 'kangaroo
-
-  nerve
-
-  grace
-
-  weasel
-
-  fresh'
-bip_39_word_new_line_6: 'kangaroo
-
-  nerve
-
-  grace
-
-  weasel
-
-  fresh
-
-  fun'
-bip_39_word_new_line_7: 'kangaroo
-
-  nerve
-
-  grace
-
-  weasel
-
-  fresh
-
-  fun
-
-  rail'
-bip_39_word_new_line_8: 'kangaroo
-
-  nerve
-
-  grace
-
-  weasel
-
-  fresh
-
-  fun
-
-  rail
-
-  salmon'
-bip_39_word_new_line_9: 'kangaroo
-
-  nerve
-
-  grace
-
-  weasel
-
-  fresh
-
-  fun
-
-  rail
-
-  salmon
-
-  segment'
-bip_39_word_no_space_1: kangaroo
-bip_39_word_no_space_10: kangaroonervegraceweaselfreshfunrailsalmonsegmentamount
-bip_39_word_no_space_11: kangaroonervegraceweaselfreshfunrailsalmonsegmentamountglide
 bip_39_word_no_space_12: kangaroonervegraceweaselfreshfunrailsalmonsegmentamountglideaunt
 bip_39_word_no_space_2: kangaroonerve
 bip_39_word_no_space_3: kangaroonervegrace
-bip_39_word_no_space_4: kangaroonervegraceweasel
-bip_39_word_no_space_5: kangaroonervegraceweaselfresh
-bip_39_word_no_space_6: kangaroonervegraceweaselfreshfun
-bip_39_word_no_space_7: kangaroonervegraceweaselfreshfunrail
-bip_39_word_no_space_8: kangaroonervegraceweaselfreshfunrailsalmon
-bip_39_word_no_space_9: kangaroonervegraceweaselfreshfunrailsalmonsegment
-bip_39_word_space_0:
-- kangaroo
-- nerve
-- grace
-- weasel
-- fresh
-- fun
-- rail
-- salmon
-- segment
-- amount
-- glide
-- aunt
-bip_39_word_space_1: kangaroo
-bip_39_word_space_10: kangaroo nerve grace weasel fresh fun rail salmon segment amount
-bip_39_word_space_11: kangaroo nerve grace weasel fresh fun rail salmon segment amount
-  glide
 bip_39_word_space_12: kangaroo nerve grace weasel fresh fun rail salmon segment amount
   glide aunt
 bip_39_word_space_2: kangaroo nerve
 bip_39_word_space_3: kangaroo nerve grace
-bip_39_word_space_4: kangaroo nerve grace weasel
-bip_39_word_space_5: kangaroo nerve grace weasel fresh
-bip_39_word_space_6: kangaroo nerve grace weasel fresh fun
-bip_39_word_space_7: kangaroo nerve grace weasel fresh fun rail
-bip_39_word_space_8: kangaroo nerve grace weasel fresh fun rail salmon
-bip_39_word_space_9: kangaroo nerve grace weasel fresh fun rail salmon segment
-bip_39_word_underscore_1: kangaroo
-bip_39_word_underscore_10: kangaroo_nerve_grace_weasel_fresh_fun_rail_salmon_segment_amount
-bip_39_word_underscore_11: kangaroo_nerve_grace_weasel_fresh_fun_rail_salmon_segment_amount_glide
 bip_39_word_underscore_12: kangaroo_nerve_grace_weasel_fresh_fun_rail_salmon_segment_amount_glide_aunt
 bip_39_word_underscore_2: kangaroo_nerve
 bip_39_word_underscore_3: kangaroo_nerve_grace
-bip_39_word_underscore_4: kangaroo_nerve_grace_weasel
-bip_39_word_underscore_5: kangaroo_nerve_grace_weasel_fresh
-bip_39_word_underscore_6: kangaroo_nerve_grace_weasel_fresh_fun
-bip_39_word_underscore_7: kangaroo_nerve_grace_weasel_fresh_fun_rail
-bip_39_word_underscore_8: kangaroo_nerve_grace_weasel_fresh_fun_rail_salmon
-bip_39_word_underscore_9: kangaroo_nerve_grace_weasel_fresh_fun_rail_salmon_segment
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

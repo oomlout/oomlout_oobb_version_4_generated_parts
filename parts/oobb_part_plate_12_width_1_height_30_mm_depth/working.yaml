@@ -1,68 +1,9 @@
-bip_39_word_dash_1: lens
-bip_39_word_dash_10: lens-tortoise-cruise-general-frequent-immense-leopard-control-patch-reduce
-bip_39_word_dash_11: lens-tortoise-cruise-general-frequent-immense-leopard-control-patch-reduce-oyster
 bip_39_word_dash_12: lens-tortoise-cruise-general-frequent-immense-leopard-control-patch-reduce-oyster-acquire
 bip_39_word_dash_2: lens-tortoise
 bip_39_word_dash_3: lens-tortoise-cruise
-bip_39_word_dash_4: lens-tortoise-cruise-general
-bip_39_word_dash_5: lens-tortoise-cruise-general-frequent
-bip_39_word_dash_6: lens-tortoise-cruise-general-frequent-immense
-bip_39_word_dash_7: lens-tortoise-cruise-general-frequent-immense-leopard
-bip_39_word_dash_8: lens-tortoise-cruise-general-frequent-immense-leopard-control
-bip_39_word_dash_9: lens-tortoise-cruise-general-frequent-immense-leopard-control-patch
-bip_39_word_new_br_1: lens
-bip_39_word_new_br_10: lens<br>tortoise<br>cruise<br>general<br>frequent<br>immense<br>leopard<br>control<br>patch<br>reduce
-bip_39_word_new_br_11: lens<br>tortoise<br>cruise<br>general<br>frequent<br>immense<br>leopard<br>control<br>patch<br>reduce<br>oyster
 bip_39_word_new_br_12: lens<br>tortoise<br>cruise<br>general<br>frequent<br>immense<br>leopard<br>control<br>patch<br>reduce<br>oyster<br>acquire
 bip_39_word_new_br_2: lens<br>tortoise
 bip_39_word_new_br_3: lens<br>tortoise<br>cruise
-bip_39_word_new_br_4: lens<br>tortoise<br>cruise<br>general
-bip_39_word_new_br_5: lens<br>tortoise<br>cruise<br>general<br>frequent
-bip_39_word_new_br_6: lens<br>tortoise<br>cruise<br>general<br>frequent<br>immense
-bip_39_word_new_br_7: lens<br>tortoise<br>cruise<br>general<br>frequent<br>immense<br>leopard
-bip_39_word_new_br_8: lens<br>tortoise<br>cruise<br>general<br>frequent<br>immense<br>leopard<br>control
-bip_39_word_new_br_9: lens<br>tortoise<br>cruise<br>general<br>frequent<br>immense<br>leopard<br>control<br>patch
-bip_39_word_new_line_1: lens
-bip_39_word_new_line_10: 'lens
-
-  tortoise
-
-  cruise
-
-  general
-
-  frequent
-
-  immense
-
-  leopard
-
-  control
-
-  patch
-
-  reduce'
-bip_39_word_new_line_11: 'lens
-
-  tortoise
-
-  cruise
-
-  general
-
-  frequent
-
-  immense
-
-  leopard
-
-  control
-
-  patch
-
-  reduce
-
-  oyster'
 bip_39_word_new_line_12: 'lens
 
   tortoise
@@ -94,131 +35,16 @@ bip_39_word_new_line_3: 'lens
   tortoise
 
   cruise'
-bip_39_word_new_line_4: 'lens
-
-  tortoise
-
-  cruise
-
-  general'
-bip_39_word_new_line_5: 'lens
-
-  tortoise
-
-  cruise
-
-  general
-
-  frequent'
-bip_39_word_new_line_6: 'lens
-
-  tortoise
-
-  cruise
-
-  general
-
-  frequent
-
-  immense'
-bip_39_word_new_line_7: 'lens
-
-  tortoise
-
-  cruise
-
-  general
-
-  frequent
-
-  immense
-
-  leopard'
-bip_39_word_new_line_8: 'lens
-
-  tortoise
-
-  cruise
-
-  general
-
-  frequent
-
-  immense
-
-  leopard
-
-  control'
-bip_39_word_new_line_9: 'lens
-
-  tortoise
-
-  cruise
-
-  general
-
-  frequent
-
-  immense
-
-  leopard
-
-  control
-
-  patch'
-bip_39_word_no_space_1: lens
-bip_39_word_no_space_10: lenstortoisecruisegeneralfrequentimmenseleopardcontrolpatchreduce
-bip_39_word_no_space_11: lenstortoisecruisegeneralfrequentimmenseleopardcontrolpatchreduceoyster
 bip_39_word_no_space_12: lenstortoisecruisegeneralfrequentimmenseleopardcontrolpatchreduceoysteracquire
 bip_39_word_no_space_2: lenstortoise
 bip_39_word_no_space_3: lenstortoisecruise
-bip_39_word_no_space_4: lenstortoisecruisegeneral
-bip_39_word_no_space_5: lenstortoisecruisegeneralfrequent
-bip_39_word_no_space_6: lenstortoisecruisegeneralfrequentimmense
-bip_39_word_no_space_7: lenstortoisecruisegeneralfrequentimmenseleopard
-bip_39_word_no_space_8: lenstortoisecruisegeneralfrequentimmenseleopardcontrol
-bip_39_word_no_space_9: lenstortoisecruisegeneralfrequentimmenseleopardcontrolpatch
-bip_39_word_space_0:
-- lens
-- tortoise
-- cruise
-- general
-- frequent
-- immense
-- leopard
-- control
-- patch
-- reduce
-- oyster
-- acquire
-bip_39_word_space_1: lens
-bip_39_word_space_10: lens tortoise cruise general frequent immense leopard control
-  patch reduce
-bip_39_word_space_11: lens tortoise cruise general frequent immense leopard control
-  patch reduce oyster
 bip_39_word_space_12: lens tortoise cruise general frequent immense leopard control
   patch reduce oyster acquire
 bip_39_word_space_2: lens tortoise
 bip_39_word_space_3: lens tortoise cruise
-bip_39_word_space_4: lens tortoise cruise general
-bip_39_word_space_5: lens tortoise cruise general frequent
-bip_39_word_space_6: lens tortoise cruise general frequent immense
-bip_39_word_space_7: lens tortoise cruise general frequent immense leopard
-bip_39_word_space_8: lens tortoise cruise general frequent immense leopard control
-bip_39_word_space_9: lens tortoise cruise general frequent immense leopard control
-  patch
-bip_39_word_underscore_1: lens
-bip_39_word_underscore_10: lens_tortoise_cruise_general_frequent_immense_leopard_control_patch_reduce
-bip_39_word_underscore_11: lens_tortoise_cruise_general_frequent_immense_leopard_control_patch_reduce_oyster
 bip_39_word_underscore_12: lens_tortoise_cruise_general_frequent_immense_leopard_control_patch_reduce_oyster_acquire
 bip_39_word_underscore_2: lens_tortoise
 bip_39_word_underscore_3: lens_tortoise_cruise
-bip_39_word_underscore_4: lens_tortoise_cruise_general
-bip_39_word_underscore_5: lens_tortoise_cruise_general_frequent
-bip_39_word_underscore_6: lens_tortoise_cruise_general_frequent_immense
-bip_39_word_underscore_7: lens_tortoise_cruise_general_frequent_immense_leopard
-bip_39_word_underscore_8: lens_tortoise_cruise_general_frequent_immense_leopard_control
-bip_39_word_underscore_9: lens_tortoise_cruise_general_frequent_immense_leopard_control_patch
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

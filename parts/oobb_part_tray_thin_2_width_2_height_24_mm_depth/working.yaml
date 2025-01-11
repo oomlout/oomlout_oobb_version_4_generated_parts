@@ -1,68 +1,9 @@
-bip_39_word_dash_1: unfair
-bip_39_word_dash_10: unfair-slow-edge-buddy-sea-clarify-chuckle-stand-effort-blame
-bip_39_word_dash_11: unfair-slow-edge-buddy-sea-clarify-chuckle-stand-effort-blame-cable
 bip_39_word_dash_12: unfair-slow-edge-buddy-sea-clarify-chuckle-stand-effort-blame-cable-avocado
 bip_39_word_dash_2: unfair-slow
 bip_39_word_dash_3: unfair-slow-edge
-bip_39_word_dash_4: unfair-slow-edge-buddy
-bip_39_word_dash_5: unfair-slow-edge-buddy-sea
-bip_39_word_dash_6: unfair-slow-edge-buddy-sea-clarify
-bip_39_word_dash_7: unfair-slow-edge-buddy-sea-clarify-chuckle
-bip_39_word_dash_8: unfair-slow-edge-buddy-sea-clarify-chuckle-stand
-bip_39_word_dash_9: unfair-slow-edge-buddy-sea-clarify-chuckle-stand-effort
-bip_39_word_new_br_1: unfair
-bip_39_word_new_br_10: unfair<br>slow<br>edge<br>buddy<br>sea<br>clarify<br>chuckle<br>stand<br>effort<br>blame
-bip_39_word_new_br_11: unfair<br>slow<br>edge<br>buddy<br>sea<br>clarify<br>chuckle<br>stand<br>effort<br>blame<br>cable
 bip_39_word_new_br_12: unfair<br>slow<br>edge<br>buddy<br>sea<br>clarify<br>chuckle<br>stand<br>effort<br>blame<br>cable<br>avocado
 bip_39_word_new_br_2: unfair<br>slow
 bip_39_word_new_br_3: unfair<br>slow<br>edge
-bip_39_word_new_br_4: unfair<br>slow<br>edge<br>buddy
-bip_39_word_new_br_5: unfair<br>slow<br>edge<br>buddy<br>sea
-bip_39_word_new_br_6: unfair<br>slow<br>edge<br>buddy<br>sea<br>clarify
-bip_39_word_new_br_7: unfair<br>slow<br>edge<br>buddy<br>sea<br>clarify<br>chuckle
-bip_39_word_new_br_8: unfair<br>slow<br>edge<br>buddy<br>sea<br>clarify<br>chuckle<br>stand
-bip_39_word_new_br_9: unfair<br>slow<br>edge<br>buddy<br>sea<br>clarify<br>chuckle<br>stand<br>effort
-bip_39_word_new_line_1: unfair
-bip_39_word_new_line_10: 'unfair
-
-  slow
-
-  edge
-
-  buddy
-
-  sea
-
-  clarify
-
-  chuckle
-
-  stand
-
-  effort
-
-  blame'
-bip_39_word_new_line_11: 'unfair
-
-  slow
-
-  edge
-
-  buddy
-
-  sea
-
-  clarify
-
-  chuckle
-
-  stand
-
-  effort
-
-  blame
-
-  cable'
 bip_39_word_new_line_12: 'unfair
 
   slow
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'unfair
   slow
 
   edge'
-bip_39_word_new_line_4: 'unfair
-
-  slow
-
-  edge
-
-  buddy'
-bip_39_word_new_line_5: 'unfair
-
-  slow
-
-  edge
-
-  buddy
-
-  sea'
-bip_39_word_new_line_6: 'unfair
-
-  slow
-
-  edge
-
-  buddy
-
-  sea
-
-  clarify'
-bip_39_word_new_line_7: 'unfair
-
-  slow
-
-  edge
-
-  buddy
-
-  sea
-
-  clarify
-
-  chuckle'
-bip_39_word_new_line_8: 'unfair
-
-  slow
-
-  edge
-
-  buddy
-
-  sea
-
-  clarify
-
-  chuckle
-
-  stand'
-bip_39_word_new_line_9: 'unfair
-
-  slow
-
-  edge
-
-  buddy
-
-  sea
-
-  clarify
-
-  chuckle
-
-  stand
-
-  effort'
-bip_39_word_no_space_1: unfair
-bip_39_word_no_space_10: unfairslowedgebuddyseaclarifychucklestandeffortblame
-bip_39_word_no_space_11: unfairslowedgebuddyseaclarifychucklestandeffortblamecable
 bip_39_word_no_space_12: unfairslowedgebuddyseaclarifychucklestandeffortblamecableavocado
 bip_39_word_no_space_2: unfairslow
 bip_39_word_no_space_3: unfairslowedge
-bip_39_word_no_space_4: unfairslowedgebuddy
-bip_39_word_no_space_5: unfairslowedgebuddysea
-bip_39_word_no_space_6: unfairslowedgebuddyseaclarify
-bip_39_word_no_space_7: unfairslowedgebuddyseaclarifychuckle
-bip_39_word_no_space_8: unfairslowedgebuddyseaclarifychucklestand
-bip_39_word_no_space_9: unfairslowedgebuddyseaclarifychucklestandeffort
-bip_39_word_space_0:
-- unfair
-- slow
-- edge
-- buddy
-- sea
-- clarify
-- chuckle
-- stand
-- effort
-- blame
-- cable
-- avocado
-bip_39_word_space_1: unfair
-bip_39_word_space_10: unfair slow edge buddy sea clarify chuckle stand effort blame
-bip_39_word_space_11: unfair slow edge buddy sea clarify chuckle stand effort blame
-  cable
 bip_39_word_space_12: unfair slow edge buddy sea clarify chuckle stand effort blame
   cable avocado
 bip_39_word_space_2: unfair slow
 bip_39_word_space_3: unfair slow edge
-bip_39_word_space_4: unfair slow edge buddy
-bip_39_word_space_5: unfair slow edge buddy sea
-bip_39_word_space_6: unfair slow edge buddy sea clarify
-bip_39_word_space_7: unfair slow edge buddy sea clarify chuckle
-bip_39_word_space_8: unfair slow edge buddy sea clarify chuckle stand
-bip_39_word_space_9: unfair slow edge buddy sea clarify chuckle stand effort
-bip_39_word_underscore_1: unfair
-bip_39_word_underscore_10: unfair_slow_edge_buddy_sea_clarify_chuckle_stand_effort_blame
-bip_39_word_underscore_11: unfair_slow_edge_buddy_sea_clarify_chuckle_stand_effort_blame_cable
 bip_39_word_underscore_12: unfair_slow_edge_buddy_sea_clarify_chuckle_stand_effort_blame_cable_avocado
 bip_39_word_underscore_2: unfair_slow
 bip_39_word_underscore_3: unfair_slow_edge
-bip_39_word_underscore_4: unfair_slow_edge_buddy
-bip_39_word_underscore_5: unfair_slow_edge_buddy_sea
-bip_39_word_underscore_6: unfair_slow_edge_buddy_sea_clarify
-bip_39_word_underscore_7: unfair_slow_edge_buddy_sea_clarify_chuckle
-bip_39_word_underscore_8: unfair_slow_edge_buddy_sea_clarify_chuckle_stand
-bip_39_word_underscore_9: unfair_slow_edge_buddy_sea_clarify_chuckle_stand_effort
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

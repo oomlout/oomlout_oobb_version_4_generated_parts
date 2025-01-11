@@ -1,68 +1,9 @@
-bip_39_word_dash_1: radio
-bip_39_word_dash_10: radio-satisfy-cruel-fence-deposit-peasant-all-wasp-robot-enjoy
-bip_39_word_dash_11: radio-satisfy-cruel-fence-deposit-peasant-all-wasp-robot-enjoy-grant
 bip_39_word_dash_12: radio-satisfy-cruel-fence-deposit-peasant-all-wasp-robot-enjoy-grant-animal
 bip_39_word_dash_2: radio-satisfy
 bip_39_word_dash_3: radio-satisfy-cruel
-bip_39_word_dash_4: radio-satisfy-cruel-fence
-bip_39_word_dash_5: radio-satisfy-cruel-fence-deposit
-bip_39_word_dash_6: radio-satisfy-cruel-fence-deposit-peasant
-bip_39_word_dash_7: radio-satisfy-cruel-fence-deposit-peasant-all
-bip_39_word_dash_8: radio-satisfy-cruel-fence-deposit-peasant-all-wasp
-bip_39_word_dash_9: radio-satisfy-cruel-fence-deposit-peasant-all-wasp-robot
-bip_39_word_new_br_1: radio
-bip_39_word_new_br_10: radio<br>satisfy<br>cruel<br>fence<br>deposit<br>peasant<br>all<br>wasp<br>robot<br>enjoy
-bip_39_word_new_br_11: radio<br>satisfy<br>cruel<br>fence<br>deposit<br>peasant<br>all<br>wasp<br>robot<br>enjoy<br>grant
 bip_39_word_new_br_12: radio<br>satisfy<br>cruel<br>fence<br>deposit<br>peasant<br>all<br>wasp<br>robot<br>enjoy<br>grant<br>animal
 bip_39_word_new_br_2: radio<br>satisfy
 bip_39_word_new_br_3: radio<br>satisfy<br>cruel
-bip_39_word_new_br_4: radio<br>satisfy<br>cruel<br>fence
-bip_39_word_new_br_5: radio<br>satisfy<br>cruel<br>fence<br>deposit
-bip_39_word_new_br_6: radio<br>satisfy<br>cruel<br>fence<br>deposit<br>peasant
-bip_39_word_new_br_7: radio<br>satisfy<br>cruel<br>fence<br>deposit<br>peasant<br>all
-bip_39_word_new_br_8: radio<br>satisfy<br>cruel<br>fence<br>deposit<br>peasant<br>all<br>wasp
-bip_39_word_new_br_9: radio<br>satisfy<br>cruel<br>fence<br>deposit<br>peasant<br>all<br>wasp<br>robot
-bip_39_word_new_line_1: radio
-bip_39_word_new_line_10: 'radio
-
-  satisfy
-
-  cruel
-
-  fence
-
-  deposit
-
-  peasant
-
-  all
-
-  wasp
-
-  robot
-
-  enjoy'
-bip_39_word_new_line_11: 'radio
-
-  satisfy
-
-  cruel
-
-  fence
-
-  deposit
-
-  peasant
-
-  all
-
-  wasp
-
-  robot
-
-  enjoy
-
-  grant'
 bip_39_word_new_line_12: 'radio
 
   satisfy
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'radio
   satisfy
 
   cruel'
-bip_39_word_new_line_4: 'radio
-
-  satisfy
-
-  cruel
-
-  fence'
-bip_39_word_new_line_5: 'radio
-
-  satisfy
-
-  cruel
-
-  fence
-
-  deposit'
-bip_39_word_new_line_6: 'radio
-
-  satisfy
-
-  cruel
-
-  fence
-
-  deposit
-
-  peasant'
-bip_39_word_new_line_7: 'radio
-
-  satisfy
-
-  cruel
-
-  fence
-
-  deposit
-
-  peasant
-
-  all'
-bip_39_word_new_line_8: 'radio
-
-  satisfy
-
-  cruel
-
-  fence
-
-  deposit
-
-  peasant
-
-  all
-
-  wasp'
-bip_39_word_new_line_9: 'radio
-
-  satisfy
-
-  cruel
-
-  fence
-
-  deposit
-
-  peasant
-
-  all
-
-  wasp
-
-  robot'
-bip_39_word_no_space_1: radio
-bip_39_word_no_space_10: radiosatisfycruelfencedepositpeasantallwasprobotenjoy
-bip_39_word_no_space_11: radiosatisfycruelfencedepositpeasantallwasprobotenjoygrant
 bip_39_word_no_space_12: radiosatisfycruelfencedepositpeasantallwasprobotenjoygrantanimal
 bip_39_word_no_space_2: radiosatisfy
 bip_39_word_no_space_3: radiosatisfycruel
-bip_39_word_no_space_4: radiosatisfycruelfence
-bip_39_word_no_space_5: radiosatisfycruelfencedeposit
-bip_39_word_no_space_6: radiosatisfycruelfencedepositpeasant
-bip_39_word_no_space_7: radiosatisfycruelfencedepositpeasantall
-bip_39_word_no_space_8: radiosatisfycruelfencedepositpeasantallwasp
-bip_39_word_no_space_9: radiosatisfycruelfencedepositpeasantallwasprobot
-bip_39_word_space_0:
-- radio
-- satisfy
-- cruel
-- fence
-- deposit
-- peasant
-- all
-- wasp
-- robot
-- enjoy
-- grant
-- animal
-bip_39_word_space_1: radio
-bip_39_word_space_10: radio satisfy cruel fence deposit peasant all wasp robot enjoy
-bip_39_word_space_11: radio satisfy cruel fence deposit peasant all wasp robot enjoy
-  grant
 bip_39_word_space_12: radio satisfy cruel fence deposit peasant all wasp robot enjoy
   grant animal
 bip_39_word_space_2: radio satisfy
 bip_39_word_space_3: radio satisfy cruel
-bip_39_word_space_4: radio satisfy cruel fence
-bip_39_word_space_5: radio satisfy cruel fence deposit
-bip_39_word_space_6: radio satisfy cruel fence deposit peasant
-bip_39_word_space_7: radio satisfy cruel fence deposit peasant all
-bip_39_word_space_8: radio satisfy cruel fence deposit peasant all wasp
-bip_39_word_space_9: radio satisfy cruel fence deposit peasant all wasp robot
-bip_39_word_underscore_1: radio
-bip_39_word_underscore_10: radio_satisfy_cruel_fence_deposit_peasant_all_wasp_robot_enjoy
-bip_39_word_underscore_11: radio_satisfy_cruel_fence_deposit_peasant_all_wasp_robot_enjoy_grant
 bip_39_word_underscore_12: radio_satisfy_cruel_fence_deposit_peasant_all_wasp_robot_enjoy_grant_animal
 bip_39_word_underscore_2: radio_satisfy
 bip_39_word_underscore_3: radio_satisfy_cruel
-bip_39_word_underscore_4: radio_satisfy_cruel_fence
-bip_39_word_underscore_5: radio_satisfy_cruel_fence_deposit
-bip_39_word_underscore_6: radio_satisfy_cruel_fence_deposit_peasant
-bip_39_word_underscore_7: radio_satisfy_cruel_fence_deposit_peasant_all
-bip_39_word_underscore_8: radio_satisfy_cruel_fence_deposit_peasant_all_wasp
-bip_39_word_underscore_9: radio_satisfy_cruel_fence_deposit_peasant_all_wasp_robot
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

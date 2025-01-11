@@ -1,68 +1,9 @@
-bip_39_word_dash_1: suit
-bip_39_word_dash_10: suit-actor-jeans-blush-goat-evoke-music-club-track-assault
-bip_39_word_dash_11: suit-actor-jeans-blush-goat-evoke-music-club-track-assault-catch
 bip_39_word_dash_12: suit-actor-jeans-blush-goat-evoke-music-club-track-assault-catch-alarm
 bip_39_word_dash_2: suit-actor
 bip_39_word_dash_3: suit-actor-jeans
-bip_39_word_dash_4: suit-actor-jeans-blush
-bip_39_word_dash_5: suit-actor-jeans-blush-goat
-bip_39_word_dash_6: suit-actor-jeans-blush-goat-evoke
-bip_39_word_dash_7: suit-actor-jeans-blush-goat-evoke-music
-bip_39_word_dash_8: suit-actor-jeans-blush-goat-evoke-music-club
-bip_39_word_dash_9: suit-actor-jeans-blush-goat-evoke-music-club-track
-bip_39_word_new_br_1: suit
-bip_39_word_new_br_10: suit<br>actor<br>jeans<br>blush<br>goat<br>evoke<br>music<br>club<br>track<br>assault
-bip_39_word_new_br_11: suit<br>actor<br>jeans<br>blush<br>goat<br>evoke<br>music<br>club<br>track<br>assault<br>catch
 bip_39_word_new_br_12: suit<br>actor<br>jeans<br>blush<br>goat<br>evoke<br>music<br>club<br>track<br>assault<br>catch<br>alarm
 bip_39_word_new_br_2: suit<br>actor
 bip_39_word_new_br_3: suit<br>actor<br>jeans
-bip_39_word_new_br_4: suit<br>actor<br>jeans<br>blush
-bip_39_word_new_br_5: suit<br>actor<br>jeans<br>blush<br>goat
-bip_39_word_new_br_6: suit<br>actor<br>jeans<br>blush<br>goat<br>evoke
-bip_39_word_new_br_7: suit<br>actor<br>jeans<br>blush<br>goat<br>evoke<br>music
-bip_39_word_new_br_8: suit<br>actor<br>jeans<br>blush<br>goat<br>evoke<br>music<br>club
-bip_39_word_new_br_9: suit<br>actor<br>jeans<br>blush<br>goat<br>evoke<br>music<br>club<br>track
-bip_39_word_new_line_1: suit
-bip_39_word_new_line_10: 'suit
-
-  actor
-
-  jeans
-
-  blush
-
-  goat
-
-  evoke
-
-  music
-
-  club
-
-  track
-
-  assault'
-bip_39_word_new_line_11: 'suit
-
-  actor
-
-  jeans
-
-  blush
-
-  goat
-
-  evoke
-
-  music
-
-  club
-
-  track
-
-  assault
-
-  catch'
 bip_39_word_new_line_12: 'suit
 
   actor
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'suit
   actor
 
   jeans'
-bip_39_word_new_line_4: 'suit
-
-  actor
-
-  jeans
-
-  blush'
-bip_39_word_new_line_5: 'suit
-
-  actor
-
-  jeans
-
-  blush
-
-  goat'
-bip_39_word_new_line_6: 'suit
-
-  actor
-
-  jeans
-
-  blush
-
-  goat
-
-  evoke'
-bip_39_word_new_line_7: 'suit
-
-  actor
-
-  jeans
-
-  blush
-
-  goat
-
-  evoke
-
-  music'
-bip_39_word_new_line_8: 'suit
-
-  actor
-
-  jeans
-
-  blush
-
-  goat
-
-  evoke
-
-  music
-
-  club'
-bip_39_word_new_line_9: 'suit
-
-  actor
-
-  jeans
-
-  blush
-
-  goat
-
-  evoke
-
-  music
-
-  club
-
-  track'
-bip_39_word_no_space_1: suit
-bip_39_word_no_space_10: suitactorjeansblushgoatevokemusicclubtrackassault
-bip_39_word_no_space_11: suitactorjeansblushgoatevokemusicclubtrackassaultcatch
 bip_39_word_no_space_12: suitactorjeansblushgoatevokemusicclubtrackassaultcatchalarm
 bip_39_word_no_space_2: suitactor
 bip_39_word_no_space_3: suitactorjeans
-bip_39_word_no_space_4: suitactorjeansblush
-bip_39_word_no_space_5: suitactorjeansblushgoat
-bip_39_word_no_space_6: suitactorjeansblushgoatevoke
-bip_39_word_no_space_7: suitactorjeansblushgoatevokemusic
-bip_39_word_no_space_8: suitactorjeansblushgoatevokemusicclub
-bip_39_word_no_space_9: suitactorjeansblushgoatevokemusicclubtrack
-bip_39_word_space_0:
-- suit
-- actor
-- jeans
-- blush
-- goat
-- evoke
-- music
-- club
-- track
-- assault
-- catch
-- alarm
-bip_39_word_space_1: suit
-bip_39_word_space_10: suit actor jeans blush goat evoke music club track assault
-bip_39_word_space_11: suit actor jeans blush goat evoke music club track assault catch
 bip_39_word_space_12: suit actor jeans blush goat evoke music club track assault catch
   alarm
 bip_39_word_space_2: suit actor
 bip_39_word_space_3: suit actor jeans
-bip_39_word_space_4: suit actor jeans blush
-bip_39_word_space_5: suit actor jeans blush goat
-bip_39_word_space_6: suit actor jeans blush goat evoke
-bip_39_word_space_7: suit actor jeans blush goat evoke music
-bip_39_word_space_8: suit actor jeans blush goat evoke music club
-bip_39_word_space_9: suit actor jeans blush goat evoke music club track
-bip_39_word_underscore_1: suit
-bip_39_word_underscore_10: suit_actor_jeans_blush_goat_evoke_music_club_track_assault
-bip_39_word_underscore_11: suit_actor_jeans_blush_goat_evoke_music_club_track_assault_catch
 bip_39_word_underscore_12: suit_actor_jeans_blush_goat_evoke_music_club_track_assault_catch_alarm
 bip_39_word_underscore_2: suit_actor
 bip_39_word_underscore_3: suit_actor_jeans
-bip_39_word_underscore_4: suit_actor_jeans_blush
-bip_39_word_underscore_5: suit_actor_jeans_blush_goat
-bip_39_word_underscore_6: suit_actor_jeans_blush_goat_evoke
-bip_39_word_underscore_7: suit_actor_jeans_blush_goat_evoke_music
-bip_39_word_underscore_8: suit_actor_jeans_blush_goat_evoke_music_club
-bip_39_word_underscore_9: suit_actor_jeans_blush_goat_evoke_music_club_track
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

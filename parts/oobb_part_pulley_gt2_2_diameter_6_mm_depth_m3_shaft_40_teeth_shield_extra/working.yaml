@@ -1,68 +1,9 @@
-bip_39_word_dash_1: walnut
-bip_39_word_dash_10: walnut-just-scrap-couch-lucky-harbor-middle-security-inquiry-clown
-bip_39_word_dash_11: walnut-just-scrap-couch-lucky-harbor-middle-security-inquiry-clown-cram
 bip_39_word_dash_12: walnut-just-scrap-couch-lucky-harbor-middle-security-inquiry-clown-cram-already
 bip_39_word_dash_2: walnut-just
 bip_39_word_dash_3: walnut-just-scrap
-bip_39_word_dash_4: walnut-just-scrap-couch
-bip_39_word_dash_5: walnut-just-scrap-couch-lucky
-bip_39_word_dash_6: walnut-just-scrap-couch-lucky-harbor
-bip_39_word_dash_7: walnut-just-scrap-couch-lucky-harbor-middle
-bip_39_word_dash_8: walnut-just-scrap-couch-lucky-harbor-middle-security
-bip_39_word_dash_9: walnut-just-scrap-couch-lucky-harbor-middle-security-inquiry
-bip_39_word_new_br_1: walnut
-bip_39_word_new_br_10: walnut<br>just<br>scrap<br>couch<br>lucky<br>harbor<br>middle<br>security<br>inquiry<br>clown
-bip_39_word_new_br_11: walnut<br>just<br>scrap<br>couch<br>lucky<br>harbor<br>middle<br>security<br>inquiry<br>clown<br>cram
 bip_39_word_new_br_12: walnut<br>just<br>scrap<br>couch<br>lucky<br>harbor<br>middle<br>security<br>inquiry<br>clown<br>cram<br>already
 bip_39_word_new_br_2: walnut<br>just
 bip_39_word_new_br_3: walnut<br>just<br>scrap
-bip_39_word_new_br_4: walnut<br>just<br>scrap<br>couch
-bip_39_word_new_br_5: walnut<br>just<br>scrap<br>couch<br>lucky
-bip_39_word_new_br_6: walnut<br>just<br>scrap<br>couch<br>lucky<br>harbor
-bip_39_word_new_br_7: walnut<br>just<br>scrap<br>couch<br>lucky<br>harbor<br>middle
-bip_39_word_new_br_8: walnut<br>just<br>scrap<br>couch<br>lucky<br>harbor<br>middle<br>security
-bip_39_word_new_br_9: walnut<br>just<br>scrap<br>couch<br>lucky<br>harbor<br>middle<br>security<br>inquiry
-bip_39_word_new_line_1: walnut
-bip_39_word_new_line_10: 'walnut
-
-  just
-
-  scrap
-
-  couch
-
-  lucky
-
-  harbor
-
-  middle
-
-  security
-
-  inquiry
-
-  clown'
-bip_39_word_new_line_11: 'walnut
-
-  just
-
-  scrap
-
-  couch
-
-  lucky
-
-  harbor
-
-  middle
-
-  security
-
-  inquiry
-
-  clown
-
-  cram'
 bip_39_word_new_line_12: 'walnut
 
   just
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'walnut
   just
 
   scrap'
-bip_39_word_new_line_4: 'walnut
-
-  just
-
-  scrap
-
-  couch'
-bip_39_word_new_line_5: 'walnut
-
-  just
-
-  scrap
-
-  couch
-
-  lucky'
-bip_39_word_new_line_6: 'walnut
-
-  just
-
-  scrap
-
-  couch
-
-  lucky
-
-  harbor'
-bip_39_word_new_line_7: 'walnut
-
-  just
-
-  scrap
-
-  couch
-
-  lucky
-
-  harbor
-
-  middle'
-bip_39_word_new_line_8: 'walnut
-
-  just
-
-  scrap
-
-  couch
-
-  lucky
-
-  harbor
-
-  middle
-
-  security'
-bip_39_word_new_line_9: 'walnut
-
-  just
-
-  scrap
-
-  couch
-
-  lucky
-
-  harbor
-
-  middle
-
-  security
-
-  inquiry'
-bip_39_word_no_space_1: walnut
-bip_39_word_no_space_10: walnutjustscrapcouchluckyharbormiddlesecurityinquiryclown
-bip_39_word_no_space_11: walnutjustscrapcouchluckyharbormiddlesecurityinquiryclowncram
 bip_39_word_no_space_12: walnutjustscrapcouchluckyharbormiddlesecurityinquiryclowncramalready
 bip_39_word_no_space_2: walnutjust
 bip_39_word_no_space_3: walnutjustscrap
-bip_39_word_no_space_4: walnutjustscrapcouch
-bip_39_word_no_space_5: walnutjustscrapcouchlucky
-bip_39_word_no_space_6: walnutjustscrapcouchluckyharbor
-bip_39_word_no_space_7: walnutjustscrapcouchluckyharbormiddle
-bip_39_word_no_space_8: walnutjustscrapcouchluckyharbormiddlesecurity
-bip_39_word_no_space_9: walnutjustscrapcouchluckyharbormiddlesecurityinquiry
-bip_39_word_space_0:
-- walnut
-- just
-- scrap
-- couch
-- lucky
-- harbor
-- middle
-- security
-- inquiry
-- clown
-- cram
-- already
-bip_39_word_space_1: walnut
-bip_39_word_space_10: walnut just scrap couch lucky harbor middle security inquiry
-  clown
-bip_39_word_space_11: walnut just scrap couch lucky harbor middle security inquiry
-  clown cram
 bip_39_word_space_12: walnut just scrap couch lucky harbor middle security inquiry
   clown cram already
 bip_39_word_space_2: walnut just
 bip_39_word_space_3: walnut just scrap
-bip_39_word_space_4: walnut just scrap couch
-bip_39_word_space_5: walnut just scrap couch lucky
-bip_39_word_space_6: walnut just scrap couch lucky harbor
-bip_39_word_space_7: walnut just scrap couch lucky harbor middle
-bip_39_word_space_8: walnut just scrap couch lucky harbor middle security
-bip_39_word_space_9: walnut just scrap couch lucky harbor middle security inquiry
-bip_39_word_underscore_1: walnut
-bip_39_word_underscore_10: walnut_just_scrap_couch_lucky_harbor_middle_security_inquiry_clown
-bip_39_word_underscore_11: walnut_just_scrap_couch_lucky_harbor_middle_security_inquiry_clown_cram
 bip_39_word_underscore_12: walnut_just_scrap_couch_lucky_harbor_middle_security_inquiry_clown_cram_already
 bip_39_word_underscore_2: walnut_just
 bip_39_word_underscore_3: walnut_just_scrap
-bip_39_word_underscore_4: walnut_just_scrap_couch
-bip_39_word_underscore_5: walnut_just_scrap_couch_lucky
-bip_39_word_underscore_6: walnut_just_scrap_couch_lucky_harbor
-bip_39_word_underscore_7: walnut_just_scrap_couch_lucky_harbor_middle
-bip_39_word_underscore_8: walnut_just_scrap_couch_lucky_harbor_middle_security
-bip_39_word_underscore_9: walnut_just_scrap_couch_lucky_harbor_middle_security_inquiry
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

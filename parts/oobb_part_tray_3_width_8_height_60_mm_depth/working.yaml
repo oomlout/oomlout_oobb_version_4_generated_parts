@@ -1,68 +1,9 @@
-bip_39_word_dash_1: saddle
-bip_39_word_dash_10: saddle-broom-wrap-affair-mesh-utility-cliff-disease-spawn-puzzle
-bip_39_word_dash_11: saddle-broom-wrap-affair-mesh-utility-cliff-disease-spawn-puzzle-place
 bip_39_word_dash_12: saddle-broom-wrap-affair-mesh-utility-cliff-disease-spawn-puzzle-place-alien
 bip_39_word_dash_2: saddle-broom
 bip_39_word_dash_3: saddle-broom-wrap
-bip_39_word_dash_4: saddle-broom-wrap-affair
-bip_39_word_dash_5: saddle-broom-wrap-affair-mesh
-bip_39_word_dash_6: saddle-broom-wrap-affair-mesh-utility
-bip_39_word_dash_7: saddle-broom-wrap-affair-mesh-utility-cliff
-bip_39_word_dash_8: saddle-broom-wrap-affair-mesh-utility-cliff-disease
-bip_39_word_dash_9: saddle-broom-wrap-affair-mesh-utility-cliff-disease-spawn
-bip_39_word_new_br_1: saddle
-bip_39_word_new_br_10: saddle<br>broom<br>wrap<br>affair<br>mesh<br>utility<br>cliff<br>disease<br>spawn<br>puzzle
-bip_39_word_new_br_11: saddle<br>broom<br>wrap<br>affair<br>mesh<br>utility<br>cliff<br>disease<br>spawn<br>puzzle<br>place
 bip_39_word_new_br_12: saddle<br>broom<br>wrap<br>affair<br>mesh<br>utility<br>cliff<br>disease<br>spawn<br>puzzle<br>place<br>alien
 bip_39_word_new_br_2: saddle<br>broom
 bip_39_word_new_br_3: saddle<br>broom<br>wrap
-bip_39_word_new_br_4: saddle<br>broom<br>wrap<br>affair
-bip_39_word_new_br_5: saddle<br>broom<br>wrap<br>affair<br>mesh
-bip_39_word_new_br_6: saddle<br>broom<br>wrap<br>affair<br>mesh<br>utility
-bip_39_word_new_br_7: saddle<br>broom<br>wrap<br>affair<br>mesh<br>utility<br>cliff
-bip_39_word_new_br_8: saddle<br>broom<br>wrap<br>affair<br>mesh<br>utility<br>cliff<br>disease
-bip_39_word_new_br_9: saddle<br>broom<br>wrap<br>affair<br>mesh<br>utility<br>cliff<br>disease<br>spawn
-bip_39_word_new_line_1: saddle
-bip_39_word_new_line_10: 'saddle
-
-  broom
-
-  wrap
-
-  affair
-
-  mesh
-
-  utility
-
-  cliff
-
-  disease
-
-  spawn
-
-  puzzle'
-bip_39_word_new_line_11: 'saddle
-
-  broom
-
-  wrap
-
-  affair
-
-  mesh
-
-  utility
-
-  cliff
-
-  disease
-
-  spawn
-
-  puzzle
-
-  place'
 bip_39_word_new_line_12: 'saddle
 
   broom
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'saddle
   broom
 
   wrap'
-bip_39_word_new_line_4: 'saddle
-
-  broom
-
-  wrap
-
-  affair'
-bip_39_word_new_line_5: 'saddle
-
-  broom
-
-  wrap
-
-  affair
-
-  mesh'
-bip_39_word_new_line_6: 'saddle
-
-  broom
-
-  wrap
-
-  affair
-
-  mesh
-
-  utility'
-bip_39_word_new_line_7: 'saddle
-
-  broom
-
-  wrap
-
-  affair
-
-  mesh
-
-  utility
-
-  cliff'
-bip_39_word_new_line_8: 'saddle
-
-  broom
-
-  wrap
-
-  affair
-
-  mesh
-
-  utility
-
-  cliff
-
-  disease'
-bip_39_word_new_line_9: 'saddle
-
-  broom
-
-  wrap
-
-  affair
-
-  mesh
-
-  utility
-
-  cliff
-
-  disease
-
-  spawn'
-bip_39_word_no_space_1: saddle
-bip_39_word_no_space_10: saddlebroomwrapaffairmeshutilitycliffdiseasespawnpuzzle
-bip_39_word_no_space_11: saddlebroomwrapaffairmeshutilitycliffdiseasespawnpuzzleplace
 bip_39_word_no_space_12: saddlebroomwrapaffairmeshutilitycliffdiseasespawnpuzzleplacealien
 bip_39_word_no_space_2: saddlebroom
 bip_39_word_no_space_3: saddlebroomwrap
-bip_39_word_no_space_4: saddlebroomwrapaffair
-bip_39_word_no_space_5: saddlebroomwrapaffairmesh
-bip_39_word_no_space_6: saddlebroomwrapaffairmeshutility
-bip_39_word_no_space_7: saddlebroomwrapaffairmeshutilitycliff
-bip_39_word_no_space_8: saddlebroomwrapaffairmeshutilitycliffdisease
-bip_39_word_no_space_9: saddlebroomwrapaffairmeshutilitycliffdiseasespawn
-bip_39_word_space_0:
-- saddle
-- broom
-- wrap
-- affair
-- mesh
-- utility
-- cliff
-- disease
-- spawn
-- puzzle
-- place
-- alien
-bip_39_word_space_1: saddle
-bip_39_word_space_10: saddle broom wrap affair mesh utility cliff disease spawn puzzle
-bip_39_word_space_11: saddle broom wrap affair mesh utility cliff disease spawn puzzle
-  place
 bip_39_word_space_12: saddle broom wrap affair mesh utility cliff disease spawn puzzle
   place alien
 bip_39_word_space_2: saddle broom
 bip_39_word_space_3: saddle broom wrap
-bip_39_word_space_4: saddle broom wrap affair
-bip_39_word_space_5: saddle broom wrap affair mesh
-bip_39_word_space_6: saddle broom wrap affair mesh utility
-bip_39_word_space_7: saddle broom wrap affair mesh utility cliff
-bip_39_word_space_8: saddle broom wrap affair mesh utility cliff disease
-bip_39_word_space_9: saddle broom wrap affair mesh utility cliff disease spawn
-bip_39_word_underscore_1: saddle
-bip_39_word_underscore_10: saddle_broom_wrap_affair_mesh_utility_cliff_disease_spawn_puzzle
-bip_39_word_underscore_11: saddle_broom_wrap_affair_mesh_utility_cliff_disease_spawn_puzzle_place
 bip_39_word_underscore_12: saddle_broom_wrap_affair_mesh_utility_cliff_disease_spawn_puzzle_place_alien
 bip_39_word_underscore_2: saddle_broom
 bip_39_word_underscore_3: saddle_broom_wrap
-bip_39_word_underscore_4: saddle_broom_wrap_affair
-bip_39_word_underscore_5: saddle_broom_wrap_affair_mesh
-bip_39_word_underscore_6: saddle_broom_wrap_affair_mesh_utility
-bip_39_word_underscore_7: saddle_broom_wrap_affair_mesh_utility_cliff
-bip_39_word_underscore_8: saddle_broom_wrap_affair_mesh_utility_cliff_disease
-bip_39_word_underscore_9: saddle_broom_wrap_affair_mesh_utility_cliff_disease_spawn
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

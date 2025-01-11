@@ -1,68 +1,9 @@
-bip_39_word_dash_1: onion
-bip_39_word_dash_10: onion-record-bicycle-wait-climb-shine-duck-hockey-rare-damp
-bip_39_word_dash_11: onion-record-bicycle-wait-climb-shine-duck-hockey-rare-damp-express
 bip_39_word_dash_12: onion-record-bicycle-wait-climb-shine-duck-hockey-rare-damp-express-airport
 bip_39_word_dash_2: onion-record
 bip_39_word_dash_3: onion-record-bicycle
-bip_39_word_dash_4: onion-record-bicycle-wait
-bip_39_word_dash_5: onion-record-bicycle-wait-climb
-bip_39_word_dash_6: onion-record-bicycle-wait-climb-shine
-bip_39_word_dash_7: onion-record-bicycle-wait-climb-shine-duck
-bip_39_word_dash_8: onion-record-bicycle-wait-climb-shine-duck-hockey
-bip_39_word_dash_9: onion-record-bicycle-wait-climb-shine-duck-hockey-rare
-bip_39_word_new_br_1: onion
-bip_39_word_new_br_10: onion<br>record<br>bicycle<br>wait<br>climb<br>shine<br>duck<br>hockey<br>rare<br>damp
-bip_39_word_new_br_11: onion<br>record<br>bicycle<br>wait<br>climb<br>shine<br>duck<br>hockey<br>rare<br>damp<br>express
 bip_39_word_new_br_12: onion<br>record<br>bicycle<br>wait<br>climb<br>shine<br>duck<br>hockey<br>rare<br>damp<br>express<br>airport
 bip_39_word_new_br_2: onion<br>record
 bip_39_word_new_br_3: onion<br>record<br>bicycle
-bip_39_word_new_br_4: onion<br>record<br>bicycle<br>wait
-bip_39_word_new_br_5: onion<br>record<br>bicycle<br>wait<br>climb
-bip_39_word_new_br_6: onion<br>record<br>bicycle<br>wait<br>climb<br>shine
-bip_39_word_new_br_7: onion<br>record<br>bicycle<br>wait<br>climb<br>shine<br>duck
-bip_39_word_new_br_8: onion<br>record<br>bicycle<br>wait<br>climb<br>shine<br>duck<br>hockey
-bip_39_word_new_br_9: onion<br>record<br>bicycle<br>wait<br>climb<br>shine<br>duck<br>hockey<br>rare
-bip_39_word_new_line_1: onion
-bip_39_word_new_line_10: 'onion
-
-  record
-
-  bicycle
-
-  wait
-
-  climb
-
-  shine
-
-  duck
-
-  hockey
-
-  rare
-
-  damp'
-bip_39_word_new_line_11: 'onion
-
-  record
-
-  bicycle
-
-  wait
-
-  climb
-
-  shine
-
-  duck
-
-  hockey
-
-  rare
-
-  damp
-
-  express'
 bip_39_word_new_line_12: 'onion
 
   record
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'onion
   record
 
   bicycle'
-bip_39_word_new_line_4: 'onion
-
-  record
-
-  bicycle
-
-  wait'
-bip_39_word_new_line_5: 'onion
-
-  record
-
-  bicycle
-
-  wait
-
-  climb'
-bip_39_word_new_line_6: 'onion
-
-  record
-
-  bicycle
-
-  wait
-
-  climb
-
-  shine'
-bip_39_word_new_line_7: 'onion
-
-  record
-
-  bicycle
-
-  wait
-
-  climb
-
-  shine
-
-  duck'
-bip_39_word_new_line_8: 'onion
-
-  record
-
-  bicycle
-
-  wait
-
-  climb
-
-  shine
-
-  duck
-
-  hockey'
-bip_39_word_new_line_9: 'onion
-
-  record
-
-  bicycle
-
-  wait
-
-  climb
-
-  shine
-
-  duck
-
-  hockey
-
-  rare'
-bip_39_word_no_space_1: onion
-bip_39_word_no_space_10: onionrecordbicyclewaitclimbshineduckhockeyraredamp
-bip_39_word_no_space_11: onionrecordbicyclewaitclimbshineduckhockeyraredampexpress
 bip_39_word_no_space_12: onionrecordbicyclewaitclimbshineduckhockeyraredampexpressairport
 bip_39_word_no_space_2: onionrecord
 bip_39_word_no_space_3: onionrecordbicycle
-bip_39_word_no_space_4: onionrecordbicyclewait
-bip_39_word_no_space_5: onionrecordbicyclewaitclimb
-bip_39_word_no_space_6: onionrecordbicyclewaitclimbshine
-bip_39_word_no_space_7: onionrecordbicyclewaitclimbshineduck
-bip_39_word_no_space_8: onionrecordbicyclewaitclimbshineduckhockey
-bip_39_word_no_space_9: onionrecordbicyclewaitclimbshineduckhockeyrare
-bip_39_word_space_0:
-- onion
-- record
-- bicycle
-- wait
-- climb
-- shine
-- duck
-- hockey
-- rare
-- damp
-- express
-- airport
-bip_39_word_space_1: onion
-bip_39_word_space_10: onion record bicycle wait climb shine duck hockey rare damp
-bip_39_word_space_11: onion record bicycle wait climb shine duck hockey rare damp
-  express
 bip_39_word_space_12: onion record bicycle wait climb shine duck hockey rare damp
   express airport
 bip_39_word_space_2: onion record
 bip_39_word_space_3: onion record bicycle
-bip_39_word_space_4: onion record bicycle wait
-bip_39_word_space_5: onion record bicycle wait climb
-bip_39_word_space_6: onion record bicycle wait climb shine
-bip_39_word_space_7: onion record bicycle wait climb shine duck
-bip_39_word_space_8: onion record bicycle wait climb shine duck hockey
-bip_39_word_space_9: onion record bicycle wait climb shine duck hockey rare
-bip_39_word_underscore_1: onion
-bip_39_word_underscore_10: onion_record_bicycle_wait_climb_shine_duck_hockey_rare_damp
-bip_39_word_underscore_11: onion_record_bicycle_wait_climb_shine_duck_hockey_rare_damp_express
 bip_39_word_underscore_12: onion_record_bicycle_wait_climb_shine_duck_hockey_rare_damp_express_airport
 bip_39_word_underscore_2: onion_record
 bip_39_word_underscore_3: onion_record_bicycle
-bip_39_word_underscore_4: onion_record_bicycle_wait
-bip_39_word_underscore_5: onion_record_bicycle_wait_climb
-bip_39_word_underscore_6: onion_record_bicycle_wait_climb_shine
-bip_39_word_underscore_7: onion_record_bicycle_wait_climb_shine_duck
-bip_39_word_underscore_8: onion_record_bicycle_wait_climb_shine_duck_hockey
-bip_39_word_underscore_9: onion_record_bicycle_wait_climb_shine_duck_hockey_rare
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

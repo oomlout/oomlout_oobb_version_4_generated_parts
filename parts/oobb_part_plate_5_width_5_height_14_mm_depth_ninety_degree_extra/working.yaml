@@ -1,68 +1,9 @@
-bip_39_word_dash_1: coffee
-bip_39_word_dash_10: coffee-naive-output-melody-eternal-myself-neither-citizen-plunge-mask
-bip_39_word_dash_11: coffee-naive-output-melody-eternal-myself-neither-citizen-plunge-mask-cool
 bip_39_word_dash_12: coffee-naive-output-melody-eternal-myself-neither-citizen-plunge-mask-cool-apple
 bip_39_word_dash_2: coffee-naive
 bip_39_word_dash_3: coffee-naive-output
-bip_39_word_dash_4: coffee-naive-output-melody
-bip_39_word_dash_5: coffee-naive-output-melody-eternal
-bip_39_word_dash_6: coffee-naive-output-melody-eternal-myself
-bip_39_word_dash_7: coffee-naive-output-melody-eternal-myself-neither
-bip_39_word_dash_8: coffee-naive-output-melody-eternal-myself-neither-citizen
-bip_39_word_dash_9: coffee-naive-output-melody-eternal-myself-neither-citizen-plunge
-bip_39_word_new_br_1: coffee
-bip_39_word_new_br_10: coffee<br>naive<br>output<br>melody<br>eternal<br>myself<br>neither<br>citizen<br>plunge<br>mask
-bip_39_word_new_br_11: coffee<br>naive<br>output<br>melody<br>eternal<br>myself<br>neither<br>citizen<br>plunge<br>mask<br>cool
 bip_39_word_new_br_12: coffee<br>naive<br>output<br>melody<br>eternal<br>myself<br>neither<br>citizen<br>plunge<br>mask<br>cool<br>apple
 bip_39_word_new_br_2: coffee<br>naive
 bip_39_word_new_br_3: coffee<br>naive<br>output
-bip_39_word_new_br_4: coffee<br>naive<br>output<br>melody
-bip_39_word_new_br_5: coffee<br>naive<br>output<br>melody<br>eternal
-bip_39_word_new_br_6: coffee<br>naive<br>output<br>melody<br>eternal<br>myself
-bip_39_word_new_br_7: coffee<br>naive<br>output<br>melody<br>eternal<br>myself<br>neither
-bip_39_word_new_br_8: coffee<br>naive<br>output<br>melody<br>eternal<br>myself<br>neither<br>citizen
-bip_39_word_new_br_9: coffee<br>naive<br>output<br>melody<br>eternal<br>myself<br>neither<br>citizen<br>plunge
-bip_39_word_new_line_1: coffee
-bip_39_word_new_line_10: 'coffee
-
-  naive
-
-  output
-
-  melody
-
-  eternal
-
-  myself
-
-  neither
-
-  citizen
-
-  plunge
-
-  mask'
-bip_39_word_new_line_11: 'coffee
-
-  naive
-
-  output
-
-  melody
-
-  eternal
-
-  myself
-
-  neither
-
-  citizen
-
-  plunge
-
-  mask
-
-  cool'
 bip_39_word_new_line_12: 'coffee
 
   naive
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'coffee
   naive
 
   output'
-bip_39_word_new_line_4: 'coffee
-
-  naive
-
-  output
-
-  melody'
-bip_39_word_new_line_5: 'coffee
-
-  naive
-
-  output
-
-  melody
-
-  eternal'
-bip_39_word_new_line_6: 'coffee
-
-  naive
-
-  output
-
-  melody
-
-  eternal
-
-  myself'
-bip_39_word_new_line_7: 'coffee
-
-  naive
-
-  output
-
-  melody
-
-  eternal
-
-  myself
-
-  neither'
-bip_39_word_new_line_8: 'coffee
-
-  naive
-
-  output
-
-  melody
-
-  eternal
-
-  myself
-
-  neither
-
-  citizen'
-bip_39_word_new_line_9: 'coffee
-
-  naive
-
-  output
-
-  melody
-
-  eternal
-
-  myself
-
-  neither
-
-  citizen
-
-  plunge'
-bip_39_word_no_space_1: coffee
-bip_39_word_no_space_10: coffeenaiveoutputmelodyeternalmyselfneithercitizenplungemask
-bip_39_word_no_space_11: coffeenaiveoutputmelodyeternalmyselfneithercitizenplungemaskcool
 bip_39_word_no_space_12: coffeenaiveoutputmelodyeternalmyselfneithercitizenplungemaskcoolapple
 bip_39_word_no_space_2: coffeenaive
 bip_39_word_no_space_3: coffeenaiveoutput
-bip_39_word_no_space_4: coffeenaiveoutputmelody
-bip_39_word_no_space_5: coffeenaiveoutputmelodyeternal
-bip_39_word_no_space_6: coffeenaiveoutputmelodyeternalmyself
-bip_39_word_no_space_7: coffeenaiveoutputmelodyeternalmyselfneither
-bip_39_word_no_space_8: coffeenaiveoutputmelodyeternalmyselfneithercitizen
-bip_39_word_no_space_9: coffeenaiveoutputmelodyeternalmyselfneithercitizenplunge
-bip_39_word_space_0:
-- coffee
-- naive
-- output
-- melody
-- eternal
-- myself
-- neither
-- citizen
-- plunge
-- mask
-- cool
-- apple
-bip_39_word_space_1: coffee
-bip_39_word_space_10: coffee naive output melody eternal myself neither citizen plunge
-  mask
-bip_39_word_space_11: coffee naive output melody eternal myself neither citizen plunge
-  mask cool
 bip_39_word_space_12: coffee naive output melody eternal myself neither citizen plunge
   mask cool apple
 bip_39_word_space_2: coffee naive
 bip_39_word_space_3: coffee naive output
-bip_39_word_space_4: coffee naive output melody
-bip_39_word_space_5: coffee naive output melody eternal
-bip_39_word_space_6: coffee naive output melody eternal myself
-bip_39_word_space_7: coffee naive output melody eternal myself neither
-bip_39_word_space_8: coffee naive output melody eternal myself neither citizen
-bip_39_word_space_9: coffee naive output melody eternal myself neither citizen plunge
-bip_39_word_underscore_1: coffee
-bip_39_word_underscore_10: coffee_naive_output_melody_eternal_myself_neither_citizen_plunge_mask
-bip_39_word_underscore_11: coffee_naive_output_melody_eternal_myself_neither_citizen_plunge_mask_cool
 bip_39_word_underscore_12: coffee_naive_output_melody_eternal_myself_neither_citizen_plunge_mask_cool_apple
 bip_39_word_underscore_2: coffee_naive
 bip_39_word_underscore_3: coffee_naive_output
-bip_39_word_underscore_4: coffee_naive_output_melody
-bip_39_word_underscore_5: coffee_naive_output_melody_eternal
-bip_39_word_underscore_6: coffee_naive_output_melody_eternal_myself
-bip_39_word_underscore_7: coffee_naive_output_melody_eternal_myself_neither
-bip_39_word_underscore_8: coffee_naive_output_melody_eternal_myself_neither_citizen
-bip_39_word_underscore_9: coffee_naive_output_melody_eternal_myself_neither_citizen_plunge
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

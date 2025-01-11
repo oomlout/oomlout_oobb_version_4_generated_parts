@@ -1,68 +1,9 @@
-bip_39_word_dash_1: cereal
-bip_39_word_dash_10: cereal-afraid-liberty-merge-torch-fix-resource-tragic-powder-gold
-bip_39_word_dash_11: cereal-afraid-liberty-merge-torch-fix-resource-tragic-powder-gold-seven
 bip_39_word_dash_12: cereal-afraid-liberty-merge-torch-fix-resource-tragic-powder-gold-seven-announce
 bip_39_word_dash_2: cereal-afraid
 bip_39_word_dash_3: cereal-afraid-liberty
-bip_39_word_dash_4: cereal-afraid-liberty-merge
-bip_39_word_dash_5: cereal-afraid-liberty-merge-torch
-bip_39_word_dash_6: cereal-afraid-liberty-merge-torch-fix
-bip_39_word_dash_7: cereal-afraid-liberty-merge-torch-fix-resource
-bip_39_word_dash_8: cereal-afraid-liberty-merge-torch-fix-resource-tragic
-bip_39_word_dash_9: cereal-afraid-liberty-merge-torch-fix-resource-tragic-powder
-bip_39_word_new_br_1: cereal
-bip_39_word_new_br_10: cereal<br>afraid<br>liberty<br>merge<br>torch<br>fix<br>resource<br>tragic<br>powder<br>gold
-bip_39_word_new_br_11: cereal<br>afraid<br>liberty<br>merge<br>torch<br>fix<br>resource<br>tragic<br>powder<br>gold<br>seven
 bip_39_word_new_br_12: cereal<br>afraid<br>liberty<br>merge<br>torch<br>fix<br>resource<br>tragic<br>powder<br>gold<br>seven<br>announce
 bip_39_word_new_br_2: cereal<br>afraid
 bip_39_word_new_br_3: cereal<br>afraid<br>liberty
-bip_39_word_new_br_4: cereal<br>afraid<br>liberty<br>merge
-bip_39_word_new_br_5: cereal<br>afraid<br>liberty<br>merge<br>torch
-bip_39_word_new_br_6: cereal<br>afraid<br>liberty<br>merge<br>torch<br>fix
-bip_39_word_new_br_7: cereal<br>afraid<br>liberty<br>merge<br>torch<br>fix<br>resource
-bip_39_word_new_br_8: cereal<br>afraid<br>liberty<br>merge<br>torch<br>fix<br>resource<br>tragic
-bip_39_word_new_br_9: cereal<br>afraid<br>liberty<br>merge<br>torch<br>fix<br>resource<br>tragic<br>powder
-bip_39_word_new_line_1: cereal
-bip_39_word_new_line_10: 'cereal
-
-  afraid
-
-  liberty
-
-  merge
-
-  torch
-
-  fix
-
-  resource
-
-  tragic
-
-  powder
-
-  gold'
-bip_39_word_new_line_11: 'cereal
-
-  afraid
-
-  liberty
-
-  merge
-
-  torch
-
-  fix
-
-  resource
-
-  tragic
-
-  powder
-
-  gold
-
-  seven'
 bip_39_word_new_line_12: 'cereal
 
   afraid
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'cereal
   afraid
 
   liberty'
-bip_39_word_new_line_4: 'cereal
-
-  afraid
-
-  liberty
-
-  merge'
-bip_39_word_new_line_5: 'cereal
-
-  afraid
-
-  liberty
-
-  merge
-
-  torch'
-bip_39_word_new_line_6: 'cereal
-
-  afraid
-
-  liberty
-
-  merge
-
-  torch
-
-  fix'
-bip_39_word_new_line_7: 'cereal
-
-  afraid
-
-  liberty
-
-  merge
-
-  torch
-
-  fix
-
-  resource'
-bip_39_word_new_line_8: 'cereal
-
-  afraid
-
-  liberty
-
-  merge
-
-  torch
-
-  fix
-
-  resource
-
-  tragic'
-bip_39_word_new_line_9: 'cereal
-
-  afraid
-
-  liberty
-
-  merge
-
-  torch
-
-  fix
-
-  resource
-
-  tragic
-
-  powder'
-bip_39_word_no_space_1: cereal
-bip_39_word_no_space_10: cerealafraidlibertymergetorchfixresourcetragicpowdergold
-bip_39_word_no_space_11: cerealafraidlibertymergetorchfixresourcetragicpowdergoldseven
 bip_39_word_no_space_12: cerealafraidlibertymergetorchfixresourcetragicpowdergoldsevenannounce
 bip_39_word_no_space_2: cerealafraid
 bip_39_word_no_space_3: cerealafraidliberty
-bip_39_word_no_space_4: cerealafraidlibertymerge
-bip_39_word_no_space_5: cerealafraidlibertymergetorch
-bip_39_word_no_space_6: cerealafraidlibertymergetorchfix
-bip_39_word_no_space_7: cerealafraidlibertymergetorchfixresource
-bip_39_word_no_space_8: cerealafraidlibertymergetorchfixresourcetragic
-bip_39_word_no_space_9: cerealafraidlibertymergetorchfixresourcetragicpowder
-bip_39_word_space_0:
-- cereal
-- afraid
-- liberty
-- merge
-- torch
-- fix
-- resource
-- tragic
-- powder
-- gold
-- seven
-- announce
-bip_39_word_space_1: cereal
-bip_39_word_space_10: cereal afraid liberty merge torch fix resource tragic powder
-  gold
-bip_39_word_space_11: cereal afraid liberty merge torch fix resource tragic powder
-  gold seven
 bip_39_word_space_12: cereal afraid liberty merge torch fix resource tragic powder
   gold seven announce
 bip_39_word_space_2: cereal afraid
 bip_39_word_space_3: cereal afraid liberty
-bip_39_word_space_4: cereal afraid liberty merge
-bip_39_word_space_5: cereal afraid liberty merge torch
-bip_39_word_space_6: cereal afraid liberty merge torch fix
-bip_39_word_space_7: cereal afraid liberty merge torch fix resource
-bip_39_word_space_8: cereal afraid liberty merge torch fix resource tragic
-bip_39_word_space_9: cereal afraid liberty merge torch fix resource tragic powder
-bip_39_word_underscore_1: cereal
-bip_39_word_underscore_10: cereal_afraid_liberty_merge_torch_fix_resource_tragic_powder_gold
-bip_39_word_underscore_11: cereal_afraid_liberty_merge_torch_fix_resource_tragic_powder_gold_seven
 bip_39_word_underscore_12: cereal_afraid_liberty_merge_torch_fix_resource_tragic_powder_gold_seven_announce
 bip_39_word_underscore_2: cereal_afraid
 bip_39_word_underscore_3: cereal_afraid_liberty
-bip_39_word_underscore_4: cereal_afraid_liberty_merge
-bip_39_word_underscore_5: cereal_afraid_liberty_merge_torch
-bip_39_word_underscore_6: cereal_afraid_liberty_merge_torch_fix
-bip_39_word_underscore_7: cereal_afraid_liberty_merge_torch_fix_resource
-bip_39_word_underscore_8: cereal_afraid_liberty_merge_torch_fix_resource_tragic
-bip_39_word_underscore_9: cereal_afraid_liberty_merge_torch_fix_resource_tragic_powder
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: gown
-bip_39_word_dash_10: gown-tide-match-clerk-vacant-broccoli-hip-parade-hole-arctic
-bip_39_word_dash_11: gown-tide-match-clerk-vacant-broccoli-hip-parade-hole-arctic-night
 bip_39_word_dash_12: gown-tide-match-clerk-vacant-broccoli-hip-parade-hole-arctic-night-athlete
 bip_39_word_dash_2: gown-tide
 bip_39_word_dash_3: gown-tide-match
-bip_39_word_dash_4: gown-tide-match-clerk
-bip_39_word_dash_5: gown-tide-match-clerk-vacant
-bip_39_word_dash_6: gown-tide-match-clerk-vacant-broccoli
-bip_39_word_dash_7: gown-tide-match-clerk-vacant-broccoli-hip
-bip_39_word_dash_8: gown-tide-match-clerk-vacant-broccoli-hip-parade
-bip_39_word_dash_9: gown-tide-match-clerk-vacant-broccoli-hip-parade-hole
-bip_39_word_new_br_1: gown
-bip_39_word_new_br_10: gown<br>tide<br>match<br>clerk<br>vacant<br>broccoli<br>hip<br>parade<br>hole<br>arctic
-bip_39_word_new_br_11: gown<br>tide<br>match<br>clerk<br>vacant<br>broccoli<br>hip<br>parade<br>hole<br>arctic<br>night
 bip_39_word_new_br_12: gown<br>tide<br>match<br>clerk<br>vacant<br>broccoli<br>hip<br>parade<br>hole<br>arctic<br>night<br>athlete
 bip_39_word_new_br_2: gown<br>tide
 bip_39_word_new_br_3: gown<br>tide<br>match
-bip_39_word_new_br_4: gown<br>tide<br>match<br>clerk
-bip_39_word_new_br_5: gown<br>tide<br>match<br>clerk<br>vacant
-bip_39_word_new_br_6: gown<br>tide<br>match<br>clerk<br>vacant<br>broccoli
-bip_39_word_new_br_7: gown<br>tide<br>match<br>clerk<br>vacant<br>broccoli<br>hip
-bip_39_word_new_br_8: gown<br>tide<br>match<br>clerk<br>vacant<br>broccoli<br>hip<br>parade
-bip_39_word_new_br_9: gown<br>tide<br>match<br>clerk<br>vacant<br>broccoli<br>hip<br>parade<br>hole
-bip_39_word_new_line_1: gown
-bip_39_word_new_line_10: 'gown
-
-  tide
-
-  match
-
-  clerk
-
-  vacant
-
-  broccoli
-
-  hip
-
-  parade
-
-  hole
-
-  arctic'
-bip_39_word_new_line_11: 'gown
-
-  tide
-
-  match
-
-  clerk
-
-  vacant
-
-  broccoli
-
-  hip
-
-  parade
-
-  hole
-
-  arctic
-
-  night'
 bip_39_word_new_line_12: 'gown
 
   tide
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'gown
   tide
 
   match'
-bip_39_word_new_line_4: 'gown
-
-  tide
-
-  match
-
-  clerk'
-bip_39_word_new_line_5: 'gown
-
-  tide
-
-  match
-
-  clerk
-
-  vacant'
-bip_39_word_new_line_6: 'gown
-
-  tide
-
-  match
-
-  clerk
-
-  vacant
-
-  broccoli'
-bip_39_word_new_line_7: 'gown
-
-  tide
-
-  match
-
-  clerk
-
-  vacant
-
-  broccoli
-
-  hip'
-bip_39_word_new_line_8: 'gown
-
-  tide
-
-  match
-
-  clerk
-
-  vacant
-
-  broccoli
-
-  hip
-
-  parade'
-bip_39_word_new_line_9: 'gown
-
-  tide
-
-  match
-
-  clerk
-
-  vacant
-
-  broccoli
-
-  hip
-
-  parade
-
-  hole'
-bip_39_word_no_space_1: gown
-bip_39_word_no_space_10: gowntidematchclerkvacantbroccolihipparadeholearctic
-bip_39_word_no_space_11: gowntidematchclerkvacantbroccolihipparadeholearcticnight
 bip_39_word_no_space_12: gowntidematchclerkvacantbroccolihipparadeholearcticnightathlete
 bip_39_word_no_space_2: gowntide
 bip_39_word_no_space_3: gowntidematch
-bip_39_word_no_space_4: gowntidematchclerk
-bip_39_word_no_space_5: gowntidematchclerkvacant
-bip_39_word_no_space_6: gowntidematchclerkvacantbroccoli
-bip_39_word_no_space_7: gowntidematchclerkvacantbroccolihip
-bip_39_word_no_space_8: gowntidematchclerkvacantbroccolihipparade
-bip_39_word_no_space_9: gowntidematchclerkvacantbroccolihipparadehole
-bip_39_word_space_0:
-- gown
-- tide
-- match
-- clerk
-- vacant
-- broccoli
-- hip
-- parade
-- hole
-- arctic
-- night
-- athlete
-bip_39_word_space_1: gown
-bip_39_word_space_10: gown tide match clerk vacant broccoli hip parade hole arctic
-bip_39_word_space_11: gown tide match clerk vacant broccoli hip parade hole arctic
-  night
 bip_39_word_space_12: gown tide match clerk vacant broccoli hip parade hole arctic
   night athlete
 bip_39_word_space_2: gown tide
 bip_39_word_space_3: gown tide match
-bip_39_word_space_4: gown tide match clerk
-bip_39_word_space_5: gown tide match clerk vacant
-bip_39_word_space_6: gown tide match clerk vacant broccoli
-bip_39_word_space_7: gown tide match clerk vacant broccoli hip
-bip_39_word_space_8: gown tide match clerk vacant broccoli hip parade
-bip_39_word_space_9: gown tide match clerk vacant broccoli hip parade hole
-bip_39_word_underscore_1: gown
-bip_39_word_underscore_10: gown_tide_match_clerk_vacant_broccoli_hip_parade_hole_arctic
-bip_39_word_underscore_11: gown_tide_match_clerk_vacant_broccoli_hip_parade_hole_arctic_night
 bip_39_word_underscore_12: gown_tide_match_clerk_vacant_broccoli_hip_parade_hole_arctic_night_athlete
 bip_39_word_underscore_2: gown_tide
 bip_39_word_underscore_3: gown_tide_match
-bip_39_word_underscore_4: gown_tide_match_clerk
-bip_39_word_underscore_5: gown_tide_match_clerk_vacant
-bip_39_word_underscore_6: gown_tide_match_clerk_vacant_broccoli
-bip_39_word_underscore_7: gown_tide_match_clerk_vacant_broccoli_hip
-bip_39_word_underscore_8: gown_tide_match_clerk_vacant_broccoli_hip_parade
-bip_39_word_underscore_9: gown_tide_match_clerk_vacant_broccoli_hip_parade_hole
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

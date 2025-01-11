@@ -1,68 +1,9 @@
-bip_39_word_dash_1: pilot
-bip_39_word_dash_10: pilot-avoid-will-cushion-next-person-cat-couch-deliver-call
-bip_39_word_dash_11: pilot-avoid-will-cushion-next-person-cat-couch-deliver-call-few
 bip_39_word_dash_12: pilot-avoid-will-cushion-next-person-cat-couch-deliver-call-few-again
 bip_39_word_dash_2: pilot-avoid
 bip_39_word_dash_3: pilot-avoid-will
-bip_39_word_dash_4: pilot-avoid-will-cushion
-bip_39_word_dash_5: pilot-avoid-will-cushion-next
-bip_39_word_dash_6: pilot-avoid-will-cushion-next-person
-bip_39_word_dash_7: pilot-avoid-will-cushion-next-person-cat
-bip_39_word_dash_8: pilot-avoid-will-cushion-next-person-cat-couch
-bip_39_word_dash_9: pilot-avoid-will-cushion-next-person-cat-couch-deliver
-bip_39_word_new_br_1: pilot
-bip_39_word_new_br_10: pilot<br>avoid<br>will<br>cushion<br>next<br>person<br>cat<br>couch<br>deliver<br>call
-bip_39_word_new_br_11: pilot<br>avoid<br>will<br>cushion<br>next<br>person<br>cat<br>couch<br>deliver<br>call<br>few
 bip_39_word_new_br_12: pilot<br>avoid<br>will<br>cushion<br>next<br>person<br>cat<br>couch<br>deliver<br>call<br>few<br>again
 bip_39_word_new_br_2: pilot<br>avoid
 bip_39_word_new_br_3: pilot<br>avoid<br>will
-bip_39_word_new_br_4: pilot<br>avoid<br>will<br>cushion
-bip_39_word_new_br_5: pilot<br>avoid<br>will<br>cushion<br>next
-bip_39_word_new_br_6: pilot<br>avoid<br>will<br>cushion<br>next<br>person
-bip_39_word_new_br_7: pilot<br>avoid<br>will<br>cushion<br>next<br>person<br>cat
-bip_39_word_new_br_8: pilot<br>avoid<br>will<br>cushion<br>next<br>person<br>cat<br>couch
-bip_39_word_new_br_9: pilot<br>avoid<br>will<br>cushion<br>next<br>person<br>cat<br>couch<br>deliver
-bip_39_word_new_line_1: pilot
-bip_39_word_new_line_10: 'pilot
-
-  avoid
-
-  will
-
-  cushion
-
-  next
-
-  person
-
-  cat
-
-  couch
-
-  deliver
-
-  call'
-bip_39_word_new_line_11: 'pilot
-
-  avoid
-
-  will
-
-  cushion
-
-  next
-
-  person
-
-  cat
-
-  couch
-
-  deliver
-
-  call
-
-  few'
 bip_39_word_new_line_12: 'pilot
 
   avoid
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'pilot
   avoid
 
   will'
-bip_39_word_new_line_4: 'pilot
-
-  avoid
-
-  will
-
-  cushion'
-bip_39_word_new_line_5: 'pilot
-
-  avoid
-
-  will
-
-  cushion
-
-  next'
-bip_39_word_new_line_6: 'pilot
-
-  avoid
-
-  will
-
-  cushion
-
-  next
-
-  person'
-bip_39_word_new_line_7: 'pilot
-
-  avoid
-
-  will
-
-  cushion
-
-  next
-
-  person
-
-  cat'
-bip_39_word_new_line_8: 'pilot
-
-  avoid
-
-  will
-
-  cushion
-
-  next
-
-  person
-
-  cat
-
-  couch'
-bip_39_word_new_line_9: 'pilot
-
-  avoid
-
-  will
-
-  cushion
-
-  next
-
-  person
-
-  cat
-
-  couch
-
-  deliver'
-bip_39_word_no_space_1: pilot
-bip_39_word_no_space_10: pilotavoidwillcushionnextpersoncatcouchdelivercall
-bip_39_word_no_space_11: pilotavoidwillcushionnextpersoncatcouchdelivercallfew
 bip_39_word_no_space_12: pilotavoidwillcushionnextpersoncatcouchdelivercallfewagain
 bip_39_word_no_space_2: pilotavoid
 bip_39_word_no_space_3: pilotavoidwill
-bip_39_word_no_space_4: pilotavoidwillcushion
-bip_39_word_no_space_5: pilotavoidwillcushionnext
-bip_39_word_no_space_6: pilotavoidwillcushionnextperson
-bip_39_word_no_space_7: pilotavoidwillcushionnextpersoncat
-bip_39_word_no_space_8: pilotavoidwillcushionnextpersoncatcouch
-bip_39_word_no_space_9: pilotavoidwillcushionnextpersoncatcouchdeliver
-bip_39_word_space_0:
-- pilot
-- avoid
-- will
-- cushion
-- next
-- person
-- cat
-- couch
-- deliver
-- call
-- few
-- again
-bip_39_word_space_1: pilot
-bip_39_word_space_10: pilot avoid will cushion next person cat couch deliver call
-bip_39_word_space_11: pilot avoid will cushion next person cat couch deliver call
-  few
 bip_39_word_space_12: pilot avoid will cushion next person cat couch deliver call
   few again
 bip_39_word_space_2: pilot avoid
 bip_39_word_space_3: pilot avoid will
-bip_39_word_space_4: pilot avoid will cushion
-bip_39_word_space_5: pilot avoid will cushion next
-bip_39_word_space_6: pilot avoid will cushion next person
-bip_39_word_space_7: pilot avoid will cushion next person cat
-bip_39_word_space_8: pilot avoid will cushion next person cat couch
-bip_39_word_space_9: pilot avoid will cushion next person cat couch deliver
-bip_39_word_underscore_1: pilot
-bip_39_word_underscore_10: pilot_avoid_will_cushion_next_person_cat_couch_deliver_call
-bip_39_word_underscore_11: pilot_avoid_will_cushion_next_person_cat_couch_deliver_call_few
 bip_39_word_underscore_12: pilot_avoid_will_cushion_next_person_cat_couch_deliver_call_few_again
 bip_39_word_underscore_2: pilot_avoid
 bip_39_word_underscore_3: pilot_avoid_will
-bip_39_word_underscore_4: pilot_avoid_will_cushion
-bip_39_word_underscore_5: pilot_avoid_will_cushion_next
-bip_39_word_underscore_6: pilot_avoid_will_cushion_next_person
-bip_39_word_underscore_7: pilot_avoid_will_cushion_next_person_cat
-bip_39_word_underscore_8: pilot_avoid_will_cushion_next_person_cat_couch
-bip_39_word_underscore_9: pilot_avoid_will_cushion_next_person_cat_couch_deliver
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

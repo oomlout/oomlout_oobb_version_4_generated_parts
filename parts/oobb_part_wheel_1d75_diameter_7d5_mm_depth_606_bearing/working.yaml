@@ -1,69 +1,10 @@
 bearing: '606'
-bip_39_word_dash_1: figure
-bip_39_word_dash_10: figure-double-long-update-income-neither-enter-ocean-cradle-tip
-bip_39_word_dash_11: figure-double-long-update-income-neither-enter-ocean-cradle-tip-return
 bip_39_word_dash_12: figure-double-long-update-income-neither-enter-ocean-cradle-tip-return-air
 bip_39_word_dash_2: figure-double
 bip_39_word_dash_3: figure-double-long
-bip_39_word_dash_4: figure-double-long-update
-bip_39_word_dash_5: figure-double-long-update-income
-bip_39_word_dash_6: figure-double-long-update-income-neither
-bip_39_word_dash_7: figure-double-long-update-income-neither-enter
-bip_39_word_dash_8: figure-double-long-update-income-neither-enter-ocean
-bip_39_word_dash_9: figure-double-long-update-income-neither-enter-ocean-cradle
-bip_39_word_new_br_1: figure
-bip_39_word_new_br_10: figure<br>double<br>long<br>update<br>income<br>neither<br>enter<br>ocean<br>cradle<br>tip
-bip_39_word_new_br_11: figure<br>double<br>long<br>update<br>income<br>neither<br>enter<br>ocean<br>cradle<br>tip<br>return
 bip_39_word_new_br_12: figure<br>double<br>long<br>update<br>income<br>neither<br>enter<br>ocean<br>cradle<br>tip<br>return<br>air
 bip_39_word_new_br_2: figure<br>double
 bip_39_word_new_br_3: figure<br>double<br>long
-bip_39_word_new_br_4: figure<br>double<br>long<br>update
-bip_39_word_new_br_5: figure<br>double<br>long<br>update<br>income
-bip_39_word_new_br_6: figure<br>double<br>long<br>update<br>income<br>neither
-bip_39_word_new_br_7: figure<br>double<br>long<br>update<br>income<br>neither<br>enter
-bip_39_word_new_br_8: figure<br>double<br>long<br>update<br>income<br>neither<br>enter<br>ocean
-bip_39_word_new_br_9: figure<br>double<br>long<br>update<br>income<br>neither<br>enter<br>ocean<br>cradle
-bip_39_word_new_line_1: figure
-bip_39_word_new_line_10: 'figure
-
-  double
-
-  long
-
-  update
-
-  income
-
-  neither
-
-  enter
-
-  ocean
-
-  cradle
-
-  tip'
-bip_39_word_new_line_11: 'figure
-
-  double
-
-  long
-
-  update
-
-  income
-
-  neither
-
-  enter
-
-  ocean
-
-  cradle
-
-  tip
-
-  return'
 bip_39_word_new_line_12: 'figure
 
   double
@@ -95,130 +36,16 @@ bip_39_word_new_line_3: 'figure
   double
 
   long'
-bip_39_word_new_line_4: 'figure
-
-  double
-
-  long
-
-  update'
-bip_39_word_new_line_5: 'figure
-
-  double
-
-  long
-
-  update
-
-  income'
-bip_39_word_new_line_6: 'figure
-
-  double
-
-  long
-
-  update
-
-  income
-
-  neither'
-bip_39_word_new_line_7: 'figure
-
-  double
-
-  long
-
-  update
-
-  income
-
-  neither
-
-  enter'
-bip_39_word_new_line_8: 'figure
-
-  double
-
-  long
-
-  update
-
-  income
-
-  neither
-
-  enter
-
-  ocean'
-bip_39_word_new_line_9: 'figure
-
-  double
-
-  long
-
-  update
-
-  income
-
-  neither
-
-  enter
-
-  ocean
-
-  cradle'
-bip_39_word_no_space_1: figure
-bip_39_word_no_space_10: figuredoublelongupdateincomeneitherenteroceancradletip
-bip_39_word_no_space_11: figuredoublelongupdateincomeneitherenteroceancradletipreturn
 bip_39_word_no_space_12: figuredoublelongupdateincomeneitherenteroceancradletipreturnair
 bip_39_word_no_space_2: figuredouble
 bip_39_word_no_space_3: figuredoublelong
-bip_39_word_no_space_4: figuredoublelongupdate
-bip_39_word_no_space_5: figuredoublelongupdateincome
-bip_39_word_no_space_6: figuredoublelongupdateincomeneither
-bip_39_word_no_space_7: figuredoublelongupdateincomeneitherenter
-bip_39_word_no_space_8: figuredoublelongupdateincomeneitherenterocean
-bip_39_word_no_space_9: figuredoublelongupdateincomeneitherenteroceancradle
-bip_39_word_space_0:
-- figure
-- double
-- long
-- update
-- income
-- neither
-- enter
-- ocean
-- cradle
-- tip
-- return
-- air
-bip_39_word_space_1: figure
-bip_39_word_space_10: figure double long update income neither enter ocean cradle
-  tip
-bip_39_word_space_11: figure double long update income neither enter ocean cradle
-  tip return
 bip_39_word_space_12: figure double long update income neither enter ocean cradle
   tip return air
 bip_39_word_space_2: figure double
 bip_39_word_space_3: figure double long
-bip_39_word_space_4: figure double long update
-bip_39_word_space_5: figure double long update income
-bip_39_word_space_6: figure double long update income neither
-bip_39_word_space_7: figure double long update income neither enter
-bip_39_word_space_8: figure double long update income neither enter ocean
-bip_39_word_space_9: figure double long update income neither enter ocean cradle
-bip_39_word_underscore_1: figure
-bip_39_word_underscore_10: figure_double_long_update_income_neither_enter_ocean_cradle_tip
-bip_39_word_underscore_11: figure_double_long_update_income_neither_enter_ocean_cradle_tip_return
 bip_39_word_underscore_12: figure_double_long_update_income_neither_enter_ocean_cradle_tip_return_air
 bip_39_word_underscore_2: figure_double
 bip_39_word_underscore_3: figure_double_long
-bip_39_word_underscore_4: figure_double_long_update
-bip_39_word_underscore_5: figure_double_long_update_income
-bip_39_word_underscore_6: figure_double_long_update_income_neither
-bip_39_word_underscore_7: figure_double_long_update_income_neither_enter
-bip_39_word_underscore_8: figure_double_long_update_income_neither_enter_ocean
-bip_39_word_underscore_9: figure_double_long_update_income_neither_enter_ocean_cradle
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

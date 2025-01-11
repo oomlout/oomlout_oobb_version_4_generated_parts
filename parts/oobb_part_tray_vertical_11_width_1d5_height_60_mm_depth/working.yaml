@@ -1,68 +1,9 @@
-bip_39_word_dash_1: spawn
-bip_39_word_dash_10: spawn-axis-million-better-ski-laptop-fire-have-forest-mesh
-bip_39_word_dash_11: spawn-axis-million-better-ski-laptop-fire-have-forest-mesh-whale
 bip_39_word_dash_12: spawn-axis-million-better-ski-laptop-fire-have-forest-mesh-whale-artefact
 bip_39_word_dash_2: spawn-axis
 bip_39_word_dash_3: spawn-axis-million
-bip_39_word_dash_4: spawn-axis-million-better
-bip_39_word_dash_5: spawn-axis-million-better-ski
-bip_39_word_dash_6: spawn-axis-million-better-ski-laptop
-bip_39_word_dash_7: spawn-axis-million-better-ski-laptop-fire
-bip_39_word_dash_8: spawn-axis-million-better-ski-laptop-fire-have
-bip_39_word_dash_9: spawn-axis-million-better-ski-laptop-fire-have-forest
-bip_39_word_new_br_1: spawn
-bip_39_word_new_br_10: spawn<br>axis<br>million<br>better<br>ski<br>laptop<br>fire<br>have<br>forest<br>mesh
-bip_39_word_new_br_11: spawn<br>axis<br>million<br>better<br>ski<br>laptop<br>fire<br>have<br>forest<br>mesh<br>whale
 bip_39_word_new_br_12: spawn<br>axis<br>million<br>better<br>ski<br>laptop<br>fire<br>have<br>forest<br>mesh<br>whale<br>artefact
 bip_39_word_new_br_2: spawn<br>axis
 bip_39_word_new_br_3: spawn<br>axis<br>million
-bip_39_word_new_br_4: spawn<br>axis<br>million<br>better
-bip_39_word_new_br_5: spawn<br>axis<br>million<br>better<br>ski
-bip_39_word_new_br_6: spawn<br>axis<br>million<br>better<br>ski<br>laptop
-bip_39_word_new_br_7: spawn<br>axis<br>million<br>better<br>ski<br>laptop<br>fire
-bip_39_word_new_br_8: spawn<br>axis<br>million<br>better<br>ski<br>laptop<br>fire<br>have
-bip_39_word_new_br_9: spawn<br>axis<br>million<br>better<br>ski<br>laptop<br>fire<br>have<br>forest
-bip_39_word_new_line_1: spawn
-bip_39_word_new_line_10: 'spawn
-
-  axis
-
-  million
-
-  better
-
-  ski
-
-  laptop
-
-  fire
-
-  have
-
-  forest
-
-  mesh'
-bip_39_word_new_line_11: 'spawn
-
-  axis
-
-  million
-
-  better
-
-  ski
-
-  laptop
-
-  fire
-
-  have
-
-  forest
-
-  mesh
-
-  whale'
 bip_39_word_new_line_12: 'spawn
 
   axis
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'spawn
   axis
 
   million'
-bip_39_word_new_line_4: 'spawn
-
-  axis
-
-  million
-
-  better'
-bip_39_word_new_line_5: 'spawn
-
-  axis
-
-  million
-
-  better
-
-  ski'
-bip_39_word_new_line_6: 'spawn
-
-  axis
-
-  million
-
-  better
-
-  ski
-
-  laptop'
-bip_39_word_new_line_7: 'spawn
-
-  axis
-
-  million
-
-  better
-
-  ski
-
-  laptop
-
-  fire'
-bip_39_word_new_line_8: 'spawn
-
-  axis
-
-  million
-
-  better
-
-  ski
-
-  laptop
-
-  fire
-
-  have'
-bip_39_word_new_line_9: 'spawn
-
-  axis
-
-  million
-
-  better
-
-  ski
-
-  laptop
-
-  fire
-
-  have
-
-  forest'
-bip_39_word_no_space_1: spawn
-bip_39_word_no_space_10: spawnaxismillionbetterskilaptopfirehaveforestmesh
-bip_39_word_no_space_11: spawnaxismillionbetterskilaptopfirehaveforestmeshwhale
 bip_39_word_no_space_12: spawnaxismillionbetterskilaptopfirehaveforestmeshwhaleartefact
 bip_39_word_no_space_2: spawnaxis
 bip_39_word_no_space_3: spawnaxismillion
-bip_39_word_no_space_4: spawnaxismillionbetter
-bip_39_word_no_space_5: spawnaxismillionbetterski
-bip_39_word_no_space_6: spawnaxismillionbetterskilaptop
-bip_39_word_no_space_7: spawnaxismillionbetterskilaptopfire
-bip_39_word_no_space_8: spawnaxismillionbetterskilaptopfirehave
-bip_39_word_no_space_9: spawnaxismillionbetterskilaptopfirehaveforest
-bip_39_word_space_0:
-- spawn
-- axis
-- million
-- better
-- ski
-- laptop
-- fire
-- have
-- forest
-- mesh
-- whale
-- artefact
-bip_39_word_space_1: spawn
-bip_39_word_space_10: spawn axis million better ski laptop fire have forest mesh
-bip_39_word_space_11: spawn axis million better ski laptop fire have forest mesh whale
 bip_39_word_space_12: spawn axis million better ski laptop fire have forest mesh whale
   artefact
 bip_39_word_space_2: spawn axis
 bip_39_word_space_3: spawn axis million
-bip_39_word_space_4: spawn axis million better
-bip_39_word_space_5: spawn axis million better ski
-bip_39_word_space_6: spawn axis million better ski laptop
-bip_39_word_space_7: spawn axis million better ski laptop fire
-bip_39_word_space_8: spawn axis million better ski laptop fire have
-bip_39_word_space_9: spawn axis million better ski laptop fire have forest
-bip_39_word_underscore_1: spawn
-bip_39_word_underscore_10: spawn_axis_million_better_ski_laptop_fire_have_forest_mesh
-bip_39_word_underscore_11: spawn_axis_million_better_ski_laptop_fire_have_forest_mesh_whale
 bip_39_word_underscore_12: spawn_axis_million_better_ski_laptop_fire_have_forest_mesh_whale_artefact
 bip_39_word_underscore_2: spawn_axis
 bip_39_word_underscore_3: spawn_axis_million
-bip_39_word_underscore_4: spawn_axis_million_better
-bip_39_word_underscore_5: spawn_axis_million_better_ski
-bip_39_word_underscore_6: spawn_axis_million_better_ski_laptop
-bip_39_word_underscore_7: spawn_axis_million_better_ski_laptop_fire
-bip_39_word_underscore_8: spawn_axis_million_better_ski_laptop_fire_have
-bip_39_word_underscore_9: spawn_axis_million_better_ski_laptop_fire_have_forest
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: swamp
-bip_39_word_dash_10: swamp-old-lemon-artist-employ-result-sunset-celery-matrix-hedgehog
-bip_39_word_dash_11: swamp-old-lemon-artist-employ-result-sunset-celery-matrix-hedgehog-hedgehog
 bip_39_word_dash_12: swamp-old-lemon-artist-employ-result-sunset-celery-matrix-hedgehog-hedgehog-author
 bip_39_word_dash_2: swamp-old
 bip_39_word_dash_3: swamp-old-lemon
-bip_39_word_dash_4: swamp-old-lemon-artist
-bip_39_word_dash_5: swamp-old-lemon-artist-employ
-bip_39_word_dash_6: swamp-old-lemon-artist-employ-result
-bip_39_word_dash_7: swamp-old-lemon-artist-employ-result-sunset
-bip_39_word_dash_8: swamp-old-lemon-artist-employ-result-sunset-celery
-bip_39_word_dash_9: swamp-old-lemon-artist-employ-result-sunset-celery-matrix
-bip_39_word_new_br_1: swamp
-bip_39_word_new_br_10: swamp<br>old<br>lemon<br>artist<br>employ<br>result<br>sunset<br>celery<br>matrix<br>hedgehog
-bip_39_word_new_br_11: swamp<br>old<br>lemon<br>artist<br>employ<br>result<br>sunset<br>celery<br>matrix<br>hedgehog<br>hedgehog
 bip_39_word_new_br_12: swamp<br>old<br>lemon<br>artist<br>employ<br>result<br>sunset<br>celery<br>matrix<br>hedgehog<br>hedgehog<br>author
 bip_39_word_new_br_2: swamp<br>old
 bip_39_word_new_br_3: swamp<br>old<br>lemon
-bip_39_word_new_br_4: swamp<br>old<br>lemon<br>artist
-bip_39_word_new_br_5: swamp<br>old<br>lemon<br>artist<br>employ
-bip_39_word_new_br_6: swamp<br>old<br>lemon<br>artist<br>employ<br>result
-bip_39_word_new_br_7: swamp<br>old<br>lemon<br>artist<br>employ<br>result<br>sunset
-bip_39_word_new_br_8: swamp<br>old<br>lemon<br>artist<br>employ<br>result<br>sunset<br>celery
-bip_39_word_new_br_9: swamp<br>old<br>lemon<br>artist<br>employ<br>result<br>sunset<br>celery<br>matrix
-bip_39_word_new_line_1: swamp
-bip_39_word_new_line_10: 'swamp
-
-  old
-
-  lemon
-
-  artist
-
-  employ
-
-  result
-
-  sunset
-
-  celery
-
-  matrix
-
-  hedgehog'
-bip_39_word_new_line_11: 'swamp
-
-  old
-
-  lemon
-
-  artist
-
-  employ
-
-  result
-
-  sunset
-
-  celery
-
-  matrix
-
-  hedgehog
-
-  hedgehog'
 bip_39_word_new_line_12: 'swamp
 
   old
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'swamp
   old
 
   lemon'
-bip_39_word_new_line_4: 'swamp
-
-  old
-
-  lemon
-
-  artist'
-bip_39_word_new_line_5: 'swamp
-
-  old
-
-  lemon
-
-  artist
-
-  employ'
-bip_39_word_new_line_6: 'swamp
-
-  old
-
-  lemon
-
-  artist
-
-  employ
-
-  result'
-bip_39_word_new_line_7: 'swamp
-
-  old
-
-  lemon
-
-  artist
-
-  employ
-
-  result
-
-  sunset'
-bip_39_word_new_line_8: 'swamp
-
-  old
-
-  lemon
-
-  artist
-
-  employ
-
-  result
-
-  sunset
-
-  celery'
-bip_39_word_new_line_9: 'swamp
-
-  old
-
-  lemon
-
-  artist
-
-  employ
-
-  result
-
-  sunset
-
-  celery
-
-  matrix'
-bip_39_word_no_space_1: swamp
-bip_39_word_no_space_10: swampoldlemonartistemployresultsunsetcelerymatrixhedgehog
-bip_39_word_no_space_11: swampoldlemonartistemployresultsunsetcelerymatrixhedgehoghedgehog
 bip_39_word_no_space_12: swampoldlemonartistemployresultsunsetcelerymatrixhedgehoghedgehogauthor
 bip_39_word_no_space_2: swampold
 bip_39_word_no_space_3: swampoldlemon
-bip_39_word_no_space_4: swampoldlemonartist
-bip_39_word_no_space_5: swampoldlemonartistemploy
-bip_39_word_no_space_6: swampoldlemonartistemployresult
-bip_39_word_no_space_7: swampoldlemonartistemployresultsunset
-bip_39_word_no_space_8: swampoldlemonartistemployresultsunsetcelery
-bip_39_word_no_space_9: swampoldlemonartistemployresultsunsetcelerymatrix
-bip_39_word_space_0:
-- swamp
-- old
-- lemon
-- artist
-- employ
-- result
-- sunset
-- celery
-- matrix
-- hedgehog
-- hedgehog
-- author
-bip_39_word_space_1: swamp
-bip_39_word_space_10: swamp old lemon artist employ result sunset celery matrix hedgehog
-bip_39_word_space_11: swamp old lemon artist employ result sunset celery matrix hedgehog
-  hedgehog
 bip_39_word_space_12: swamp old lemon artist employ result sunset celery matrix hedgehog
   hedgehog author
 bip_39_word_space_2: swamp old
 bip_39_word_space_3: swamp old lemon
-bip_39_word_space_4: swamp old lemon artist
-bip_39_word_space_5: swamp old lemon artist employ
-bip_39_word_space_6: swamp old lemon artist employ result
-bip_39_word_space_7: swamp old lemon artist employ result sunset
-bip_39_word_space_8: swamp old lemon artist employ result sunset celery
-bip_39_word_space_9: swamp old lemon artist employ result sunset celery matrix
-bip_39_word_underscore_1: swamp
-bip_39_word_underscore_10: swamp_old_lemon_artist_employ_result_sunset_celery_matrix_hedgehog
-bip_39_word_underscore_11: swamp_old_lemon_artist_employ_result_sunset_celery_matrix_hedgehog_hedgehog
 bip_39_word_underscore_12: swamp_old_lemon_artist_employ_result_sunset_celery_matrix_hedgehog_hedgehog_author
 bip_39_word_underscore_2: swamp_old
 bip_39_word_underscore_3: swamp_old_lemon
-bip_39_word_underscore_4: swamp_old_lemon_artist
-bip_39_word_underscore_5: swamp_old_lemon_artist_employ
-bip_39_word_underscore_6: swamp_old_lemon_artist_employ_result
-bip_39_word_underscore_7: swamp_old_lemon_artist_employ_result_sunset
-bip_39_word_underscore_8: swamp_old_lemon_artist_employ_result_sunset_celery
-bip_39_word_underscore_9: swamp_old_lemon_artist_employ_result_sunset_celery_matrix
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

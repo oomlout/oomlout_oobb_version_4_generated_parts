@@ -1,68 +1,9 @@
-bip_39_word_dash_1: steel
-bip_39_word_dash_10: steel-spike-smart-utility-arch-airport-cat-lock-clump-essence
-bip_39_word_dash_11: steel-spike-smart-utility-arch-airport-cat-lock-clump-essence-broccoli
 bip_39_word_dash_12: steel-spike-smart-utility-arch-airport-cat-lock-clump-essence-broccoli-accuse
 bip_39_word_dash_2: steel-spike
 bip_39_word_dash_3: steel-spike-smart
-bip_39_word_dash_4: steel-spike-smart-utility
-bip_39_word_dash_5: steel-spike-smart-utility-arch
-bip_39_word_dash_6: steel-spike-smart-utility-arch-airport
-bip_39_word_dash_7: steel-spike-smart-utility-arch-airport-cat
-bip_39_word_dash_8: steel-spike-smart-utility-arch-airport-cat-lock
-bip_39_word_dash_9: steel-spike-smart-utility-arch-airport-cat-lock-clump
-bip_39_word_new_br_1: steel
-bip_39_word_new_br_10: steel<br>spike<br>smart<br>utility<br>arch<br>airport<br>cat<br>lock<br>clump<br>essence
-bip_39_word_new_br_11: steel<br>spike<br>smart<br>utility<br>arch<br>airport<br>cat<br>lock<br>clump<br>essence<br>broccoli
 bip_39_word_new_br_12: steel<br>spike<br>smart<br>utility<br>arch<br>airport<br>cat<br>lock<br>clump<br>essence<br>broccoli<br>accuse
 bip_39_word_new_br_2: steel<br>spike
 bip_39_word_new_br_3: steel<br>spike<br>smart
-bip_39_word_new_br_4: steel<br>spike<br>smart<br>utility
-bip_39_word_new_br_5: steel<br>spike<br>smart<br>utility<br>arch
-bip_39_word_new_br_6: steel<br>spike<br>smart<br>utility<br>arch<br>airport
-bip_39_word_new_br_7: steel<br>spike<br>smart<br>utility<br>arch<br>airport<br>cat
-bip_39_word_new_br_8: steel<br>spike<br>smart<br>utility<br>arch<br>airport<br>cat<br>lock
-bip_39_word_new_br_9: steel<br>spike<br>smart<br>utility<br>arch<br>airport<br>cat<br>lock<br>clump
-bip_39_word_new_line_1: steel
-bip_39_word_new_line_10: 'steel
-
-  spike
-
-  smart
-
-  utility
-
-  arch
-
-  airport
-
-  cat
-
-  lock
-
-  clump
-
-  essence'
-bip_39_word_new_line_11: 'steel
-
-  spike
-
-  smart
-
-  utility
-
-  arch
-
-  airport
-
-  cat
-
-  lock
-
-  clump
-
-  essence
-
-  broccoli'
 bip_39_word_new_line_12: 'steel
 
   spike
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'steel
   spike
 
   smart'
-bip_39_word_new_line_4: 'steel
-
-  spike
-
-  smart
-
-  utility'
-bip_39_word_new_line_5: 'steel
-
-  spike
-
-  smart
-
-  utility
-
-  arch'
-bip_39_word_new_line_6: 'steel
-
-  spike
-
-  smart
-
-  utility
-
-  arch
-
-  airport'
-bip_39_word_new_line_7: 'steel
-
-  spike
-
-  smart
-
-  utility
-
-  arch
-
-  airport
-
-  cat'
-bip_39_word_new_line_8: 'steel
-
-  spike
-
-  smart
-
-  utility
-
-  arch
-
-  airport
-
-  cat
-
-  lock'
-bip_39_word_new_line_9: 'steel
-
-  spike
-
-  smart
-
-  utility
-
-  arch
-
-  airport
-
-  cat
-
-  lock
-
-  clump'
-bip_39_word_no_space_1: steel
-bip_39_word_no_space_10: steelspikesmartutilityarchairportcatlockclumpessence
-bip_39_word_no_space_11: steelspikesmartutilityarchairportcatlockclumpessencebroccoli
 bip_39_word_no_space_12: steelspikesmartutilityarchairportcatlockclumpessencebroccoliaccuse
 bip_39_word_no_space_2: steelspike
 bip_39_word_no_space_3: steelspikesmart
-bip_39_word_no_space_4: steelspikesmartutility
-bip_39_word_no_space_5: steelspikesmartutilityarch
-bip_39_word_no_space_6: steelspikesmartutilityarchairport
-bip_39_word_no_space_7: steelspikesmartutilityarchairportcat
-bip_39_word_no_space_8: steelspikesmartutilityarchairportcatlock
-bip_39_word_no_space_9: steelspikesmartutilityarchairportcatlockclump
-bip_39_word_space_0:
-- steel
-- spike
-- smart
-- utility
-- arch
-- airport
-- cat
-- lock
-- clump
-- essence
-- broccoli
-- accuse
-bip_39_word_space_1: steel
-bip_39_word_space_10: steel spike smart utility arch airport cat lock clump essence
-bip_39_word_space_11: steel spike smart utility arch airport cat lock clump essence
-  broccoli
 bip_39_word_space_12: steel spike smart utility arch airport cat lock clump essence
   broccoli accuse
 bip_39_word_space_2: steel spike
 bip_39_word_space_3: steel spike smart
-bip_39_word_space_4: steel spike smart utility
-bip_39_word_space_5: steel spike smart utility arch
-bip_39_word_space_6: steel spike smart utility arch airport
-bip_39_word_space_7: steel spike smart utility arch airport cat
-bip_39_word_space_8: steel spike smart utility arch airport cat lock
-bip_39_word_space_9: steel spike smart utility arch airport cat lock clump
-bip_39_word_underscore_1: steel
-bip_39_word_underscore_10: steel_spike_smart_utility_arch_airport_cat_lock_clump_essence
-bip_39_word_underscore_11: steel_spike_smart_utility_arch_airport_cat_lock_clump_essence_broccoli
 bip_39_word_underscore_12: steel_spike_smart_utility_arch_airport_cat_lock_clump_essence_broccoli_accuse
 bip_39_word_underscore_2: steel_spike
 bip_39_word_underscore_3: steel_spike_smart
-bip_39_word_underscore_4: steel_spike_smart_utility
-bip_39_word_underscore_5: steel_spike_smart_utility_arch
-bip_39_word_underscore_6: steel_spike_smart_utility_arch_airport
-bip_39_word_underscore_7: steel_spike_smart_utility_arch_airport_cat
-bip_39_word_underscore_8: steel_spike_smart_utility_arch_airport_cat_lock
-bip_39_word_underscore_9: steel_spike_smart_utility_arch_airport_cat_lock_clump
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

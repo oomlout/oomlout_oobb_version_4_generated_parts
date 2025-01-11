@@ -1,68 +1,9 @@
-bip_39_word_dash_1: amount
-bip_39_word_dash_10: amount-bundle-slight-twelve-sibling-grass-side-peasant-danger-boil
-bip_39_word_dash_11: amount-bundle-slight-twelve-sibling-grass-side-peasant-danger-boil-attack
 bip_39_word_dash_12: amount-bundle-slight-twelve-sibling-grass-side-peasant-danger-boil-attack-address
 bip_39_word_dash_2: amount-bundle
 bip_39_word_dash_3: amount-bundle-slight
-bip_39_word_dash_4: amount-bundle-slight-twelve
-bip_39_word_dash_5: amount-bundle-slight-twelve-sibling
-bip_39_word_dash_6: amount-bundle-slight-twelve-sibling-grass
-bip_39_word_dash_7: amount-bundle-slight-twelve-sibling-grass-side
-bip_39_word_dash_8: amount-bundle-slight-twelve-sibling-grass-side-peasant
-bip_39_word_dash_9: amount-bundle-slight-twelve-sibling-grass-side-peasant-danger
-bip_39_word_new_br_1: amount
-bip_39_word_new_br_10: amount<br>bundle<br>slight<br>twelve<br>sibling<br>grass<br>side<br>peasant<br>danger<br>boil
-bip_39_word_new_br_11: amount<br>bundle<br>slight<br>twelve<br>sibling<br>grass<br>side<br>peasant<br>danger<br>boil<br>attack
 bip_39_word_new_br_12: amount<br>bundle<br>slight<br>twelve<br>sibling<br>grass<br>side<br>peasant<br>danger<br>boil<br>attack<br>address
 bip_39_word_new_br_2: amount<br>bundle
 bip_39_word_new_br_3: amount<br>bundle<br>slight
-bip_39_word_new_br_4: amount<br>bundle<br>slight<br>twelve
-bip_39_word_new_br_5: amount<br>bundle<br>slight<br>twelve<br>sibling
-bip_39_word_new_br_6: amount<br>bundle<br>slight<br>twelve<br>sibling<br>grass
-bip_39_word_new_br_7: amount<br>bundle<br>slight<br>twelve<br>sibling<br>grass<br>side
-bip_39_word_new_br_8: amount<br>bundle<br>slight<br>twelve<br>sibling<br>grass<br>side<br>peasant
-bip_39_word_new_br_9: amount<br>bundle<br>slight<br>twelve<br>sibling<br>grass<br>side<br>peasant<br>danger
-bip_39_word_new_line_1: amount
-bip_39_word_new_line_10: 'amount
-
-  bundle
-
-  slight
-
-  twelve
-
-  sibling
-
-  grass
-
-  side
-
-  peasant
-
-  danger
-
-  boil'
-bip_39_word_new_line_11: 'amount
-
-  bundle
-
-  slight
-
-  twelve
-
-  sibling
-
-  grass
-
-  side
-
-  peasant
-
-  danger
-
-  boil
-
-  attack'
 bip_39_word_new_line_12: 'amount
 
   bundle
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'amount
   bundle
 
   slight'
-bip_39_word_new_line_4: 'amount
-
-  bundle
-
-  slight
-
-  twelve'
-bip_39_word_new_line_5: 'amount
-
-  bundle
-
-  slight
-
-  twelve
-
-  sibling'
-bip_39_word_new_line_6: 'amount
-
-  bundle
-
-  slight
-
-  twelve
-
-  sibling
-
-  grass'
-bip_39_word_new_line_7: 'amount
-
-  bundle
-
-  slight
-
-  twelve
-
-  sibling
-
-  grass
-
-  side'
-bip_39_word_new_line_8: 'amount
-
-  bundle
-
-  slight
-
-  twelve
-
-  sibling
-
-  grass
-
-  side
-
-  peasant'
-bip_39_word_new_line_9: 'amount
-
-  bundle
-
-  slight
-
-  twelve
-
-  sibling
-
-  grass
-
-  side
-
-  peasant
-
-  danger'
-bip_39_word_no_space_1: amount
-bip_39_word_no_space_10: amountbundleslighttwelvesiblinggrasssidepeasantdangerboil
-bip_39_word_no_space_11: amountbundleslighttwelvesiblinggrasssidepeasantdangerboilattack
 bip_39_word_no_space_12: amountbundleslighttwelvesiblinggrasssidepeasantdangerboilattackaddress
 bip_39_word_no_space_2: amountbundle
 bip_39_word_no_space_3: amountbundleslight
-bip_39_word_no_space_4: amountbundleslighttwelve
-bip_39_word_no_space_5: amountbundleslighttwelvesibling
-bip_39_word_no_space_6: amountbundleslighttwelvesiblinggrass
-bip_39_word_no_space_7: amountbundleslighttwelvesiblinggrassside
-bip_39_word_no_space_8: amountbundleslighttwelvesiblinggrasssidepeasant
-bip_39_word_no_space_9: amountbundleslighttwelvesiblinggrasssidepeasantdanger
-bip_39_word_space_0:
-- amount
-- bundle
-- slight
-- twelve
-- sibling
-- grass
-- side
-- peasant
-- danger
-- boil
-- attack
-- address
-bip_39_word_space_1: amount
-bip_39_word_space_10: amount bundle slight twelve sibling grass side peasant danger
-  boil
-bip_39_word_space_11: amount bundle slight twelve sibling grass side peasant danger
-  boil attack
 bip_39_word_space_12: amount bundle slight twelve sibling grass side peasant danger
   boil attack address
 bip_39_word_space_2: amount bundle
 bip_39_word_space_3: amount bundle slight
-bip_39_word_space_4: amount bundle slight twelve
-bip_39_word_space_5: amount bundle slight twelve sibling
-bip_39_word_space_6: amount bundle slight twelve sibling grass
-bip_39_word_space_7: amount bundle slight twelve sibling grass side
-bip_39_word_space_8: amount bundle slight twelve sibling grass side peasant
-bip_39_word_space_9: amount bundle slight twelve sibling grass side peasant danger
-bip_39_word_underscore_1: amount
-bip_39_word_underscore_10: amount_bundle_slight_twelve_sibling_grass_side_peasant_danger_boil
-bip_39_word_underscore_11: amount_bundle_slight_twelve_sibling_grass_side_peasant_danger_boil_attack
 bip_39_word_underscore_12: amount_bundle_slight_twelve_sibling_grass_side_peasant_danger_boil_attack_address
 bip_39_word_underscore_2: amount_bundle
 bip_39_word_underscore_3: amount_bundle_slight
-bip_39_word_underscore_4: amount_bundle_slight_twelve
-bip_39_word_underscore_5: amount_bundle_slight_twelve_sibling
-bip_39_word_underscore_6: amount_bundle_slight_twelve_sibling_grass
-bip_39_word_underscore_7: amount_bundle_slight_twelve_sibling_grass_side
-bip_39_word_underscore_8: amount_bundle_slight_twelve_sibling_grass_side_peasant
-bip_39_word_underscore_9: amount_bundle_slight_twelve_sibling_grass_side_peasant_danger
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

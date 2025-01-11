@@ -1,68 +1,9 @@
-bip_39_word_dash_1: old
-bip_39_word_dash_10: old-mention-collect-young-drink-cloth-cargo-mechanic-gadget-silver
-bip_39_word_dash_11: old-mention-collect-young-drink-cloth-cargo-mechanic-gadget-silver-impose
 bip_39_word_dash_12: old-mention-collect-young-drink-cloth-cargo-mechanic-gadget-silver-impose-average
 bip_39_word_dash_2: old-mention
 bip_39_word_dash_3: old-mention-collect
-bip_39_word_dash_4: old-mention-collect-young
-bip_39_word_dash_5: old-mention-collect-young-drink
-bip_39_word_dash_6: old-mention-collect-young-drink-cloth
-bip_39_word_dash_7: old-mention-collect-young-drink-cloth-cargo
-bip_39_word_dash_8: old-mention-collect-young-drink-cloth-cargo-mechanic
-bip_39_word_dash_9: old-mention-collect-young-drink-cloth-cargo-mechanic-gadget
-bip_39_word_new_br_1: old
-bip_39_word_new_br_10: old<br>mention<br>collect<br>young<br>drink<br>cloth<br>cargo<br>mechanic<br>gadget<br>silver
-bip_39_word_new_br_11: old<br>mention<br>collect<br>young<br>drink<br>cloth<br>cargo<br>mechanic<br>gadget<br>silver<br>impose
 bip_39_word_new_br_12: old<br>mention<br>collect<br>young<br>drink<br>cloth<br>cargo<br>mechanic<br>gadget<br>silver<br>impose<br>average
 bip_39_word_new_br_2: old<br>mention
 bip_39_word_new_br_3: old<br>mention<br>collect
-bip_39_word_new_br_4: old<br>mention<br>collect<br>young
-bip_39_word_new_br_5: old<br>mention<br>collect<br>young<br>drink
-bip_39_word_new_br_6: old<br>mention<br>collect<br>young<br>drink<br>cloth
-bip_39_word_new_br_7: old<br>mention<br>collect<br>young<br>drink<br>cloth<br>cargo
-bip_39_word_new_br_8: old<br>mention<br>collect<br>young<br>drink<br>cloth<br>cargo<br>mechanic
-bip_39_word_new_br_9: old<br>mention<br>collect<br>young<br>drink<br>cloth<br>cargo<br>mechanic<br>gadget
-bip_39_word_new_line_1: old
-bip_39_word_new_line_10: 'old
-
-  mention
-
-  collect
-
-  young
-
-  drink
-
-  cloth
-
-  cargo
-
-  mechanic
-
-  gadget
-
-  silver'
-bip_39_word_new_line_11: 'old
-
-  mention
-
-  collect
-
-  young
-
-  drink
-
-  cloth
-
-  cargo
-
-  mechanic
-
-  gadget
-
-  silver
-
-  impose'
 bip_39_word_new_line_12: 'old
 
   mention
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'old
   mention
 
   collect'
-bip_39_word_new_line_4: 'old
-
-  mention
-
-  collect
-
-  young'
-bip_39_word_new_line_5: 'old
-
-  mention
-
-  collect
-
-  young
-
-  drink'
-bip_39_word_new_line_6: 'old
-
-  mention
-
-  collect
-
-  young
-
-  drink
-
-  cloth'
-bip_39_word_new_line_7: 'old
-
-  mention
-
-  collect
-
-  young
-
-  drink
-
-  cloth
-
-  cargo'
-bip_39_word_new_line_8: 'old
-
-  mention
-
-  collect
-
-  young
-
-  drink
-
-  cloth
-
-  cargo
-
-  mechanic'
-bip_39_word_new_line_9: 'old
-
-  mention
-
-  collect
-
-  young
-
-  drink
-
-  cloth
-
-  cargo
-
-  mechanic
-
-  gadget'
-bip_39_word_no_space_1: old
-bip_39_word_no_space_10: oldmentioncollectyoungdrinkclothcargomechanicgadgetsilver
-bip_39_word_no_space_11: oldmentioncollectyoungdrinkclothcargomechanicgadgetsilverimpose
 bip_39_word_no_space_12: oldmentioncollectyoungdrinkclothcargomechanicgadgetsilverimposeaverage
 bip_39_word_no_space_2: oldmention
 bip_39_word_no_space_3: oldmentioncollect
-bip_39_word_no_space_4: oldmentioncollectyoung
-bip_39_word_no_space_5: oldmentioncollectyoungdrink
-bip_39_word_no_space_6: oldmentioncollectyoungdrinkcloth
-bip_39_word_no_space_7: oldmentioncollectyoungdrinkclothcargo
-bip_39_word_no_space_8: oldmentioncollectyoungdrinkclothcargomechanic
-bip_39_word_no_space_9: oldmentioncollectyoungdrinkclothcargomechanicgadget
-bip_39_word_space_0:
-- old
-- mention
-- collect
-- young
-- drink
-- cloth
-- cargo
-- mechanic
-- gadget
-- silver
-- impose
-- average
-bip_39_word_space_1: old
-bip_39_word_space_10: old mention collect young drink cloth cargo mechanic gadget
-  silver
-bip_39_word_space_11: old mention collect young drink cloth cargo mechanic gadget
-  silver impose
 bip_39_word_space_12: old mention collect young drink cloth cargo mechanic gadget
   silver impose average
 bip_39_word_space_2: old mention
 bip_39_word_space_3: old mention collect
-bip_39_word_space_4: old mention collect young
-bip_39_word_space_5: old mention collect young drink
-bip_39_word_space_6: old mention collect young drink cloth
-bip_39_word_space_7: old mention collect young drink cloth cargo
-bip_39_word_space_8: old mention collect young drink cloth cargo mechanic
-bip_39_word_space_9: old mention collect young drink cloth cargo mechanic gadget
-bip_39_word_underscore_1: old
-bip_39_word_underscore_10: old_mention_collect_young_drink_cloth_cargo_mechanic_gadget_silver
-bip_39_word_underscore_11: old_mention_collect_young_drink_cloth_cargo_mechanic_gadget_silver_impose
 bip_39_word_underscore_12: old_mention_collect_young_drink_cloth_cargo_mechanic_gadget_silver_impose_average
 bip_39_word_underscore_2: old_mention
 bip_39_word_underscore_3: old_mention_collect
-bip_39_word_underscore_4: old_mention_collect_young
-bip_39_word_underscore_5: old_mention_collect_young_drink
-bip_39_word_underscore_6: old_mention_collect_young_drink_cloth
-bip_39_word_underscore_7: old_mention_collect_young_drink_cloth_cargo
-bip_39_word_underscore_8: old_mention_collect_young_drink_cloth_cargo_mechanic
-bip_39_word_underscore_9: old_mention_collect_young_drink_cloth_cargo_mechanic_gadget
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

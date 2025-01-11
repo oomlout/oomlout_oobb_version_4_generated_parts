@@ -1,68 +1,9 @@
-bip_39_word_dash_1: main
-bip_39_word_dash_10: main-vague-hammer-away-deliver-glare-sing-stock-lift-proof
-bip_39_word_dash_11: main-vague-hammer-away-deliver-glare-sing-stock-lift-proof-ensure
 bip_39_word_dash_12: main-vague-hammer-away-deliver-glare-sing-stock-lift-proof-ensure-about
 bip_39_word_dash_2: main-vague
 bip_39_word_dash_3: main-vague-hammer
-bip_39_word_dash_4: main-vague-hammer-away
-bip_39_word_dash_5: main-vague-hammer-away-deliver
-bip_39_word_dash_6: main-vague-hammer-away-deliver-glare
-bip_39_word_dash_7: main-vague-hammer-away-deliver-glare-sing
-bip_39_word_dash_8: main-vague-hammer-away-deliver-glare-sing-stock
-bip_39_word_dash_9: main-vague-hammer-away-deliver-glare-sing-stock-lift
-bip_39_word_new_br_1: main
-bip_39_word_new_br_10: main<br>vague<br>hammer<br>away<br>deliver<br>glare<br>sing<br>stock<br>lift<br>proof
-bip_39_word_new_br_11: main<br>vague<br>hammer<br>away<br>deliver<br>glare<br>sing<br>stock<br>lift<br>proof<br>ensure
 bip_39_word_new_br_12: main<br>vague<br>hammer<br>away<br>deliver<br>glare<br>sing<br>stock<br>lift<br>proof<br>ensure<br>about
 bip_39_word_new_br_2: main<br>vague
 bip_39_word_new_br_3: main<br>vague<br>hammer
-bip_39_word_new_br_4: main<br>vague<br>hammer<br>away
-bip_39_word_new_br_5: main<br>vague<br>hammer<br>away<br>deliver
-bip_39_word_new_br_6: main<br>vague<br>hammer<br>away<br>deliver<br>glare
-bip_39_word_new_br_7: main<br>vague<br>hammer<br>away<br>deliver<br>glare<br>sing
-bip_39_word_new_br_8: main<br>vague<br>hammer<br>away<br>deliver<br>glare<br>sing<br>stock
-bip_39_word_new_br_9: main<br>vague<br>hammer<br>away<br>deliver<br>glare<br>sing<br>stock<br>lift
-bip_39_word_new_line_1: main
-bip_39_word_new_line_10: 'main
-
-  vague
-
-  hammer
-
-  away
-
-  deliver
-
-  glare
-
-  sing
-
-  stock
-
-  lift
-
-  proof'
-bip_39_word_new_line_11: 'main
-
-  vague
-
-  hammer
-
-  away
-
-  deliver
-
-  glare
-
-  sing
-
-  stock
-
-  lift
-
-  proof
-
-  ensure'
 bip_39_word_new_line_12: 'main
 
   vague
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'main
   vague
 
   hammer'
-bip_39_word_new_line_4: 'main
-
-  vague
-
-  hammer
-
-  away'
-bip_39_word_new_line_5: 'main
-
-  vague
-
-  hammer
-
-  away
-
-  deliver'
-bip_39_word_new_line_6: 'main
-
-  vague
-
-  hammer
-
-  away
-
-  deliver
-
-  glare'
-bip_39_word_new_line_7: 'main
-
-  vague
-
-  hammer
-
-  away
-
-  deliver
-
-  glare
-
-  sing'
-bip_39_word_new_line_8: 'main
-
-  vague
-
-  hammer
-
-  away
-
-  deliver
-
-  glare
-
-  sing
-
-  stock'
-bip_39_word_new_line_9: 'main
-
-  vague
-
-  hammer
-
-  away
-
-  deliver
-
-  glare
-
-  sing
-
-  stock
-
-  lift'
-bip_39_word_no_space_1: main
-bip_39_word_no_space_10: mainvaguehammerawaydeliverglaresingstockliftproof
-bip_39_word_no_space_11: mainvaguehammerawaydeliverglaresingstockliftproofensure
 bip_39_word_no_space_12: mainvaguehammerawaydeliverglaresingstockliftproofensureabout
 bip_39_word_no_space_2: mainvague
 bip_39_word_no_space_3: mainvaguehammer
-bip_39_word_no_space_4: mainvaguehammeraway
-bip_39_word_no_space_5: mainvaguehammerawaydeliver
-bip_39_word_no_space_6: mainvaguehammerawaydeliverglare
-bip_39_word_no_space_7: mainvaguehammerawaydeliverglaresing
-bip_39_word_no_space_8: mainvaguehammerawaydeliverglaresingstock
-bip_39_word_no_space_9: mainvaguehammerawaydeliverglaresingstocklift
-bip_39_word_space_0:
-- main
-- vague
-- hammer
-- away
-- deliver
-- glare
-- sing
-- stock
-- lift
-- proof
-- ensure
-- about
-bip_39_word_space_1: main
-bip_39_word_space_10: main vague hammer away deliver glare sing stock lift proof
-bip_39_word_space_11: main vague hammer away deliver glare sing stock lift proof ensure
 bip_39_word_space_12: main vague hammer away deliver glare sing stock lift proof ensure
   about
 bip_39_word_space_2: main vague
 bip_39_word_space_3: main vague hammer
-bip_39_word_space_4: main vague hammer away
-bip_39_word_space_5: main vague hammer away deliver
-bip_39_word_space_6: main vague hammer away deliver glare
-bip_39_word_space_7: main vague hammer away deliver glare sing
-bip_39_word_space_8: main vague hammer away deliver glare sing stock
-bip_39_word_space_9: main vague hammer away deliver glare sing stock lift
-bip_39_word_underscore_1: main
-bip_39_word_underscore_10: main_vague_hammer_away_deliver_glare_sing_stock_lift_proof
-bip_39_word_underscore_11: main_vague_hammer_away_deliver_glare_sing_stock_lift_proof_ensure
 bip_39_word_underscore_12: main_vague_hammer_away_deliver_glare_sing_stock_lift_proof_ensure_about
 bip_39_word_underscore_2: main_vague
 bip_39_word_underscore_3: main_vague_hammer
-bip_39_word_underscore_4: main_vague_hammer_away
-bip_39_word_underscore_5: main_vague_hammer_away_deliver
-bip_39_word_underscore_6: main_vague_hammer_away_deliver_glare
-bip_39_word_underscore_7: main_vague_hammer_away_deliver_glare_sing
-bip_39_word_underscore_8: main_vague_hammer_away_deliver_glare_sing_stock
-bip_39_word_underscore_9: main_vague_hammer_away_deliver_glare_sing_stock_lift
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

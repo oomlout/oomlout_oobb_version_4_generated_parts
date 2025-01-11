@@ -1,68 +1,9 @@
-bip_39_word_dash_1: bus
-bip_39_word_dash_10: bus-news-source-motion-divorce-build-orchard-cherry-guilt-sand
-bip_39_word_dash_11: bus-news-source-motion-divorce-build-orchard-cherry-guilt-sand-phone
 bip_39_word_dash_12: bus-news-source-motion-divorce-build-orchard-cherry-guilt-sand-phone-antique
 bip_39_word_dash_2: bus-news
 bip_39_word_dash_3: bus-news-source
-bip_39_word_dash_4: bus-news-source-motion
-bip_39_word_dash_5: bus-news-source-motion-divorce
-bip_39_word_dash_6: bus-news-source-motion-divorce-build
-bip_39_word_dash_7: bus-news-source-motion-divorce-build-orchard
-bip_39_word_dash_8: bus-news-source-motion-divorce-build-orchard-cherry
-bip_39_word_dash_9: bus-news-source-motion-divorce-build-orchard-cherry-guilt
-bip_39_word_new_br_1: bus
-bip_39_word_new_br_10: bus<br>news<br>source<br>motion<br>divorce<br>build<br>orchard<br>cherry<br>guilt<br>sand
-bip_39_word_new_br_11: bus<br>news<br>source<br>motion<br>divorce<br>build<br>orchard<br>cherry<br>guilt<br>sand<br>phone
 bip_39_word_new_br_12: bus<br>news<br>source<br>motion<br>divorce<br>build<br>orchard<br>cherry<br>guilt<br>sand<br>phone<br>antique
 bip_39_word_new_br_2: bus<br>news
 bip_39_word_new_br_3: bus<br>news<br>source
-bip_39_word_new_br_4: bus<br>news<br>source<br>motion
-bip_39_word_new_br_5: bus<br>news<br>source<br>motion<br>divorce
-bip_39_word_new_br_6: bus<br>news<br>source<br>motion<br>divorce<br>build
-bip_39_word_new_br_7: bus<br>news<br>source<br>motion<br>divorce<br>build<br>orchard
-bip_39_word_new_br_8: bus<br>news<br>source<br>motion<br>divorce<br>build<br>orchard<br>cherry
-bip_39_word_new_br_9: bus<br>news<br>source<br>motion<br>divorce<br>build<br>orchard<br>cherry<br>guilt
-bip_39_word_new_line_1: bus
-bip_39_word_new_line_10: 'bus
-
-  news
-
-  source
-
-  motion
-
-  divorce
-
-  build
-
-  orchard
-
-  cherry
-
-  guilt
-
-  sand'
-bip_39_word_new_line_11: 'bus
-
-  news
-
-  source
-
-  motion
-
-  divorce
-
-  build
-
-  orchard
-
-  cherry
-
-  guilt
-
-  sand
-
-  phone'
 bip_39_word_new_line_12: 'bus
 
   news
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'bus
   news
 
   source'
-bip_39_word_new_line_4: 'bus
-
-  news
-
-  source
-
-  motion'
-bip_39_word_new_line_5: 'bus
-
-  news
-
-  source
-
-  motion
-
-  divorce'
-bip_39_word_new_line_6: 'bus
-
-  news
-
-  source
-
-  motion
-
-  divorce
-
-  build'
-bip_39_word_new_line_7: 'bus
-
-  news
-
-  source
-
-  motion
-
-  divorce
-
-  build
-
-  orchard'
-bip_39_word_new_line_8: 'bus
-
-  news
-
-  source
-
-  motion
-
-  divorce
-
-  build
-
-  orchard
-
-  cherry'
-bip_39_word_new_line_9: 'bus
-
-  news
-
-  source
-
-  motion
-
-  divorce
-
-  build
-
-  orchard
-
-  cherry
-
-  guilt'
-bip_39_word_no_space_1: bus
-bip_39_word_no_space_10: busnewssourcemotiondivorcebuildorchardcherryguiltsand
-bip_39_word_no_space_11: busnewssourcemotiondivorcebuildorchardcherryguiltsandphone
 bip_39_word_no_space_12: busnewssourcemotiondivorcebuildorchardcherryguiltsandphoneantique
 bip_39_word_no_space_2: busnews
 bip_39_word_no_space_3: busnewssource
-bip_39_word_no_space_4: busnewssourcemotion
-bip_39_word_no_space_5: busnewssourcemotiondivorce
-bip_39_word_no_space_6: busnewssourcemotiondivorcebuild
-bip_39_word_no_space_7: busnewssourcemotiondivorcebuildorchard
-bip_39_word_no_space_8: busnewssourcemotiondivorcebuildorchardcherry
-bip_39_word_no_space_9: busnewssourcemotiondivorcebuildorchardcherryguilt
-bip_39_word_space_0:
-- bus
-- news
-- source
-- motion
-- divorce
-- build
-- orchard
-- cherry
-- guilt
-- sand
-- phone
-- antique
-bip_39_word_space_1: bus
-bip_39_word_space_10: bus news source motion divorce build orchard cherry guilt sand
-bip_39_word_space_11: bus news source motion divorce build orchard cherry guilt sand
-  phone
 bip_39_word_space_12: bus news source motion divorce build orchard cherry guilt sand
   phone antique
 bip_39_word_space_2: bus news
 bip_39_word_space_3: bus news source
-bip_39_word_space_4: bus news source motion
-bip_39_word_space_5: bus news source motion divorce
-bip_39_word_space_6: bus news source motion divorce build
-bip_39_word_space_7: bus news source motion divorce build orchard
-bip_39_word_space_8: bus news source motion divorce build orchard cherry
-bip_39_word_space_9: bus news source motion divorce build orchard cherry guilt
-bip_39_word_underscore_1: bus
-bip_39_word_underscore_10: bus_news_source_motion_divorce_build_orchard_cherry_guilt_sand
-bip_39_word_underscore_11: bus_news_source_motion_divorce_build_orchard_cherry_guilt_sand_phone
 bip_39_word_underscore_12: bus_news_source_motion_divorce_build_orchard_cherry_guilt_sand_phone_antique
 bip_39_word_underscore_2: bus_news
 bip_39_word_underscore_3: bus_news_source
-bip_39_word_underscore_4: bus_news_source_motion
-bip_39_word_underscore_5: bus_news_source_motion_divorce
-bip_39_word_underscore_6: bus_news_source_motion_divorce_build
-bip_39_word_underscore_7: bus_news_source_motion_divorce_build_orchard
-bip_39_word_underscore_8: bus_news_source_motion_divorce_build_orchard_cherry
-bip_39_word_underscore_9: bus_news_source_motion_divorce_build_orchard_cherry_guilt
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

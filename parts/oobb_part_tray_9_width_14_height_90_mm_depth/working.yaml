@@ -1,68 +1,9 @@
-bip_39_word_dash_1: sound
-bip_39_word_dash_10: sound-host-vibrant-silent-license-coyote-twelve-work-demand-wrong
-bip_39_word_dash_11: sound-host-vibrant-silent-license-coyote-twelve-work-demand-wrong-empty
 bip_39_word_dash_12: sound-host-vibrant-silent-license-coyote-twelve-work-demand-wrong-empty-almost
 bip_39_word_dash_2: sound-host
 bip_39_word_dash_3: sound-host-vibrant
-bip_39_word_dash_4: sound-host-vibrant-silent
-bip_39_word_dash_5: sound-host-vibrant-silent-license
-bip_39_word_dash_6: sound-host-vibrant-silent-license-coyote
-bip_39_word_dash_7: sound-host-vibrant-silent-license-coyote-twelve
-bip_39_word_dash_8: sound-host-vibrant-silent-license-coyote-twelve-work
-bip_39_word_dash_9: sound-host-vibrant-silent-license-coyote-twelve-work-demand
-bip_39_word_new_br_1: sound
-bip_39_word_new_br_10: sound<br>host<br>vibrant<br>silent<br>license<br>coyote<br>twelve<br>work<br>demand<br>wrong
-bip_39_word_new_br_11: sound<br>host<br>vibrant<br>silent<br>license<br>coyote<br>twelve<br>work<br>demand<br>wrong<br>empty
 bip_39_word_new_br_12: sound<br>host<br>vibrant<br>silent<br>license<br>coyote<br>twelve<br>work<br>demand<br>wrong<br>empty<br>almost
 bip_39_word_new_br_2: sound<br>host
 bip_39_word_new_br_3: sound<br>host<br>vibrant
-bip_39_word_new_br_4: sound<br>host<br>vibrant<br>silent
-bip_39_word_new_br_5: sound<br>host<br>vibrant<br>silent<br>license
-bip_39_word_new_br_6: sound<br>host<br>vibrant<br>silent<br>license<br>coyote
-bip_39_word_new_br_7: sound<br>host<br>vibrant<br>silent<br>license<br>coyote<br>twelve
-bip_39_word_new_br_8: sound<br>host<br>vibrant<br>silent<br>license<br>coyote<br>twelve<br>work
-bip_39_word_new_br_9: sound<br>host<br>vibrant<br>silent<br>license<br>coyote<br>twelve<br>work<br>demand
-bip_39_word_new_line_1: sound
-bip_39_word_new_line_10: 'sound
-
-  host
-
-  vibrant
-
-  silent
-
-  license
-
-  coyote
-
-  twelve
-
-  work
-
-  demand
-
-  wrong'
-bip_39_word_new_line_11: 'sound
-
-  host
-
-  vibrant
-
-  silent
-
-  license
-
-  coyote
-
-  twelve
-
-  work
-
-  demand
-
-  wrong
-
-  empty'
 bip_39_word_new_line_12: 'sound
 
   host
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'sound
   host
 
   vibrant'
-bip_39_word_new_line_4: 'sound
-
-  host
-
-  vibrant
-
-  silent'
-bip_39_word_new_line_5: 'sound
-
-  host
-
-  vibrant
-
-  silent
-
-  license'
-bip_39_word_new_line_6: 'sound
-
-  host
-
-  vibrant
-
-  silent
-
-  license
-
-  coyote'
-bip_39_word_new_line_7: 'sound
-
-  host
-
-  vibrant
-
-  silent
-
-  license
-
-  coyote
-
-  twelve'
-bip_39_word_new_line_8: 'sound
-
-  host
-
-  vibrant
-
-  silent
-
-  license
-
-  coyote
-
-  twelve
-
-  work'
-bip_39_word_new_line_9: 'sound
-
-  host
-
-  vibrant
-
-  silent
-
-  license
-
-  coyote
-
-  twelve
-
-  work
-
-  demand'
-bip_39_word_no_space_1: sound
-bip_39_word_no_space_10: soundhostvibrantsilentlicensecoyotetwelveworkdemandwrong
-bip_39_word_no_space_11: soundhostvibrantsilentlicensecoyotetwelveworkdemandwrongempty
 bip_39_word_no_space_12: soundhostvibrantsilentlicensecoyotetwelveworkdemandwrongemptyalmost
 bip_39_word_no_space_2: soundhost
 bip_39_word_no_space_3: soundhostvibrant
-bip_39_word_no_space_4: soundhostvibrantsilent
-bip_39_word_no_space_5: soundhostvibrantsilentlicense
-bip_39_word_no_space_6: soundhostvibrantsilentlicensecoyote
-bip_39_word_no_space_7: soundhostvibrantsilentlicensecoyotetwelve
-bip_39_word_no_space_8: soundhostvibrantsilentlicensecoyotetwelvework
-bip_39_word_no_space_9: soundhostvibrantsilentlicensecoyotetwelveworkdemand
-bip_39_word_space_0:
-- sound
-- host
-- vibrant
-- silent
-- license
-- coyote
-- twelve
-- work
-- demand
-- wrong
-- empty
-- almost
-bip_39_word_space_1: sound
-bip_39_word_space_10: sound host vibrant silent license coyote twelve work demand
-  wrong
-bip_39_word_space_11: sound host vibrant silent license coyote twelve work demand
-  wrong empty
 bip_39_word_space_12: sound host vibrant silent license coyote twelve work demand
   wrong empty almost
 bip_39_word_space_2: sound host
 bip_39_word_space_3: sound host vibrant
-bip_39_word_space_4: sound host vibrant silent
-bip_39_word_space_5: sound host vibrant silent license
-bip_39_word_space_6: sound host vibrant silent license coyote
-bip_39_word_space_7: sound host vibrant silent license coyote twelve
-bip_39_word_space_8: sound host vibrant silent license coyote twelve work
-bip_39_word_space_9: sound host vibrant silent license coyote twelve work demand
-bip_39_word_underscore_1: sound
-bip_39_word_underscore_10: sound_host_vibrant_silent_license_coyote_twelve_work_demand_wrong
-bip_39_word_underscore_11: sound_host_vibrant_silent_license_coyote_twelve_work_demand_wrong_empty
 bip_39_word_underscore_12: sound_host_vibrant_silent_license_coyote_twelve_work_demand_wrong_empty_almost
 bip_39_word_underscore_2: sound_host
 bip_39_word_underscore_3: sound_host_vibrant
-bip_39_word_underscore_4: sound_host_vibrant_silent
-bip_39_word_underscore_5: sound_host_vibrant_silent_license
-bip_39_word_underscore_6: sound_host_vibrant_silent_license_coyote
-bip_39_word_underscore_7: sound_host_vibrant_silent_license_coyote_twelve
-bip_39_word_underscore_8: sound_host_vibrant_silent_license_coyote_twelve_work
-bip_39_word_underscore_9: sound_host_vibrant_silent_license_coyote_twelve_work_demand
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

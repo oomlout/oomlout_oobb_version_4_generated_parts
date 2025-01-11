@@ -1,68 +1,9 @@
-bip_39_word_dash_1: account
-bip_39_word_dash_10: account-secret-wine-renew-calm-kingdom-bus-solid-time-fish
-bip_39_word_dash_11: account-secret-wine-renew-calm-kingdom-bus-solid-time-fish-canvas
 bip_39_word_dash_12: account-secret-wine-renew-calm-kingdom-bus-solid-time-fish-canvas-absent
 bip_39_word_dash_2: account-secret
 bip_39_word_dash_3: account-secret-wine
-bip_39_word_dash_4: account-secret-wine-renew
-bip_39_word_dash_5: account-secret-wine-renew-calm
-bip_39_word_dash_6: account-secret-wine-renew-calm-kingdom
-bip_39_word_dash_7: account-secret-wine-renew-calm-kingdom-bus
-bip_39_word_dash_8: account-secret-wine-renew-calm-kingdom-bus-solid
-bip_39_word_dash_9: account-secret-wine-renew-calm-kingdom-bus-solid-time
-bip_39_word_new_br_1: account
-bip_39_word_new_br_10: account<br>secret<br>wine<br>renew<br>calm<br>kingdom<br>bus<br>solid<br>time<br>fish
-bip_39_word_new_br_11: account<br>secret<br>wine<br>renew<br>calm<br>kingdom<br>bus<br>solid<br>time<br>fish<br>canvas
 bip_39_word_new_br_12: account<br>secret<br>wine<br>renew<br>calm<br>kingdom<br>bus<br>solid<br>time<br>fish<br>canvas<br>absent
 bip_39_word_new_br_2: account<br>secret
 bip_39_word_new_br_3: account<br>secret<br>wine
-bip_39_word_new_br_4: account<br>secret<br>wine<br>renew
-bip_39_word_new_br_5: account<br>secret<br>wine<br>renew<br>calm
-bip_39_word_new_br_6: account<br>secret<br>wine<br>renew<br>calm<br>kingdom
-bip_39_word_new_br_7: account<br>secret<br>wine<br>renew<br>calm<br>kingdom<br>bus
-bip_39_word_new_br_8: account<br>secret<br>wine<br>renew<br>calm<br>kingdom<br>bus<br>solid
-bip_39_word_new_br_9: account<br>secret<br>wine<br>renew<br>calm<br>kingdom<br>bus<br>solid<br>time
-bip_39_word_new_line_1: account
-bip_39_word_new_line_10: 'account
-
-  secret
-
-  wine
-
-  renew
-
-  calm
-
-  kingdom
-
-  bus
-
-  solid
-
-  time
-
-  fish'
-bip_39_word_new_line_11: 'account
-
-  secret
-
-  wine
-
-  renew
-
-  calm
-
-  kingdom
-
-  bus
-
-  solid
-
-  time
-
-  fish
-
-  canvas'
 bip_39_word_new_line_12: 'account
 
   secret
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'account
   secret
 
   wine'
-bip_39_word_new_line_4: 'account
-
-  secret
-
-  wine
-
-  renew'
-bip_39_word_new_line_5: 'account
-
-  secret
-
-  wine
-
-  renew
-
-  calm'
-bip_39_word_new_line_6: 'account
-
-  secret
-
-  wine
-
-  renew
-
-  calm
-
-  kingdom'
-bip_39_word_new_line_7: 'account
-
-  secret
-
-  wine
-
-  renew
-
-  calm
-
-  kingdom
-
-  bus'
-bip_39_word_new_line_8: 'account
-
-  secret
-
-  wine
-
-  renew
-
-  calm
-
-  kingdom
-
-  bus
-
-  solid'
-bip_39_word_new_line_9: 'account
-
-  secret
-
-  wine
-
-  renew
-
-  calm
-
-  kingdom
-
-  bus
-
-  solid
-
-  time'
-bip_39_word_no_space_1: account
-bip_39_word_no_space_10: accountsecretwinerenewcalmkingdombussolidtimefish
-bip_39_word_no_space_11: accountsecretwinerenewcalmkingdombussolidtimefishcanvas
 bip_39_word_no_space_12: accountsecretwinerenewcalmkingdombussolidtimefishcanvasabsent
 bip_39_word_no_space_2: accountsecret
 bip_39_word_no_space_3: accountsecretwine
-bip_39_word_no_space_4: accountsecretwinerenew
-bip_39_word_no_space_5: accountsecretwinerenewcalm
-bip_39_word_no_space_6: accountsecretwinerenewcalmkingdom
-bip_39_word_no_space_7: accountsecretwinerenewcalmkingdombus
-bip_39_word_no_space_8: accountsecretwinerenewcalmkingdombussolid
-bip_39_word_no_space_9: accountsecretwinerenewcalmkingdombussolidtime
-bip_39_word_space_0:
-- account
-- secret
-- wine
-- renew
-- calm
-- kingdom
-- bus
-- solid
-- time
-- fish
-- canvas
-- absent
-bip_39_word_space_1: account
-bip_39_word_space_10: account secret wine renew calm kingdom bus solid time fish
-bip_39_word_space_11: account secret wine renew calm kingdom bus solid time fish canvas
 bip_39_word_space_12: account secret wine renew calm kingdom bus solid time fish canvas
   absent
 bip_39_word_space_2: account secret
 bip_39_word_space_3: account secret wine
-bip_39_word_space_4: account secret wine renew
-bip_39_word_space_5: account secret wine renew calm
-bip_39_word_space_6: account secret wine renew calm kingdom
-bip_39_word_space_7: account secret wine renew calm kingdom bus
-bip_39_word_space_8: account secret wine renew calm kingdom bus solid
-bip_39_word_space_9: account secret wine renew calm kingdom bus solid time
-bip_39_word_underscore_1: account
-bip_39_word_underscore_10: account_secret_wine_renew_calm_kingdom_bus_solid_time_fish
-bip_39_word_underscore_11: account_secret_wine_renew_calm_kingdom_bus_solid_time_fish_canvas
 bip_39_word_underscore_12: account_secret_wine_renew_calm_kingdom_bus_solid_time_fish_canvas_absent
 bip_39_word_underscore_2: account_secret
 bip_39_word_underscore_3: account_secret_wine
-bip_39_word_underscore_4: account_secret_wine_renew
-bip_39_word_underscore_5: account_secret_wine_renew_calm
-bip_39_word_underscore_6: account_secret_wine_renew_calm_kingdom
-bip_39_word_underscore_7: account_secret_wine_renew_calm_kingdom_bus
-bip_39_word_underscore_8: account_secret_wine_renew_calm_kingdom_bus_solid
-bip_39_word_underscore_9: account_secret_wine_renew_calm_kingdom_bus_solid_time
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

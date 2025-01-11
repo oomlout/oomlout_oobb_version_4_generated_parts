@@ -1,68 +1,9 @@
-bip_39_word_dash_1: hello
-bip_39_word_dash_10: hello-pair-message-drastic-unknown-mule-analyst-casino-trust-window
-bip_39_word_dash_11: hello-pair-message-drastic-unknown-mule-analyst-casino-trust-window-swear
 bip_39_word_dash_12: hello-pair-message-drastic-unknown-mule-analyst-casino-trust-window-swear-acquire
 bip_39_word_dash_2: hello-pair
 bip_39_word_dash_3: hello-pair-message
-bip_39_word_dash_4: hello-pair-message-drastic
-bip_39_word_dash_5: hello-pair-message-drastic-unknown
-bip_39_word_dash_6: hello-pair-message-drastic-unknown-mule
-bip_39_word_dash_7: hello-pair-message-drastic-unknown-mule-analyst
-bip_39_word_dash_8: hello-pair-message-drastic-unknown-mule-analyst-casino
-bip_39_word_dash_9: hello-pair-message-drastic-unknown-mule-analyst-casino-trust
-bip_39_word_new_br_1: hello
-bip_39_word_new_br_10: hello<br>pair<br>message<br>drastic<br>unknown<br>mule<br>analyst<br>casino<br>trust<br>window
-bip_39_word_new_br_11: hello<br>pair<br>message<br>drastic<br>unknown<br>mule<br>analyst<br>casino<br>trust<br>window<br>swear
 bip_39_word_new_br_12: hello<br>pair<br>message<br>drastic<br>unknown<br>mule<br>analyst<br>casino<br>trust<br>window<br>swear<br>acquire
 bip_39_word_new_br_2: hello<br>pair
 bip_39_word_new_br_3: hello<br>pair<br>message
-bip_39_word_new_br_4: hello<br>pair<br>message<br>drastic
-bip_39_word_new_br_5: hello<br>pair<br>message<br>drastic<br>unknown
-bip_39_word_new_br_6: hello<br>pair<br>message<br>drastic<br>unknown<br>mule
-bip_39_word_new_br_7: hello<br>pair<br>message<br>drastic<br>unknown<br>mule<br>analyst
-bip_39_word_new_br_8: hello<br>pair<br>message<br>drastic<br>unknown<br>mule<br>analyst<br>casino
-bip_39_word_new_br_9: hello<br>pair<br>message<br>drastic<br>unknown<br>mule<br>analyst<br>casino<br>trust
-bip_39_word_new_line_1: hello
-bip_39_word_new_line_10: 'hello
-
-  pair
-
-  message
-
-  drastic
-
-  unknown
-
-  mule
-
-  analyst
-
-  casino
-
-  trust
-
-  window'
-bip_39_word_new_line_11: 'hello
-
-  pair
-
-  message
-
-  drastic
-
-  unknown
-
-  mule
-
-  analyst
-
-  casino
-
-  trust
-
-  window
-
-  swear'
 bip_39_word_new_line_12: 'hello
 
   pair
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'hello
   pair
 
   message'
-bip_39_word_new_line_4: 'hello
-
-  pair
-
-  message
-
-  drastic'
-bip_39_word_new_line_5: 'hello
-
-  pair
-
-  message
-
-  drastic
-
-  unknown'
-bip_39_word_new_line_6: 'hello
-
-  pair
-
-  message
-
-  drastic
-
-  unknown
-
-  mule'
-bip_39_word_new_line_7: 'hello
-
-  pair
-
-  message
-
-  drastic
-
-  unknown
-
-  mule
-
-  analyst'
-bip_39_word_new_line_8: 'hello
-
-  pair
-
-  message
-
-  drastic
-
-  unknown
-
-  mule
-
-  analyst
-
-  casino'
-bip_39_word_new_line_9: 'hello
-
-  pair
-
-  message
-
-  drastic
-
-  unknown
-
-  mule
-
-  analyst
-
-  casino
-
-  trust'
-bip_39_word_no_space_1: hello
-bip_39_word_no_space_10: hellopairmessagedrasticunknownmuleanalystcasinotrustwindow
-bip_39_word_no_space_11: hellopairmessagedrasticunknownmuleanalystcasinotrustwindowswear
 bip_39_word_no_space_12: hellopairmessagedrasticunknownmuleanalystcasinotrustwindowswearacquire
 bip_39_word_no_space_2: hellopair
 bip_39_word_no_space_3: hellopairmessage
-bip_39_word_no_space_4: hellopairmessagedrastic
-bip_39_word_no_space_5: hellopairmessagedrasticunknown
-bip_39_word_no_space_6: hellopairmessagedrasticunknownmule
-bip_39_word_no_space_7: hellopairmessagedrasticunknownmuleanalyst
-bip_39_word_no_space_8: hellopairmessagedrasticunknownmuleanalystcasino
-bip_39_word_no_space_9: hellopairmessagedrasticunknownmuleanalystcasinotrust
-bip_39_word_space_0:
-- hello
-- pair
-- message
-- drastic
-- unknown
-- mule
-- analyst
-- casino
-- trust
-- window
-- swear
-- acquire
-bip_39_word_space_1: hello
-bip_39_word_space_10: hello pair message drastic unknown mule analyst casino trust
-  window
-bip_39_word_space_11: hello pair message drastic unknown mule analyst casino trust
-  window swear
 bip_39_word_space_12: hello pair message drastic unknown mule analyst casino trust
   window swear acquire
 bip_39_word_space_2: hello pair
 bip_39_word_space_3: hello pair message
-bip_39_word_space_4: hello pair message drastic
-bip_39_word_space_5: hello pair message drastic unknown
-bip_39_word_space_6: hello pair message drastic unknown mule
-bip_39_word_space_7: hello pair message drastic unknown mule analyst
-bip_39_word_space_8: hello pair message drastic unknown mule analyst casino
-bip_39_word_space_9: hello pair message drastic unknown mule analyst casino trust
-bip_39_word_underscore_1: hello
-bip_39_word_underscore_10: hello_pair_message_drastic_unknown_mule_analyst_casino_trust_window
-bip_39_word_underscore_11: hello_pair_message_drastic_unknown_mule_analyst_casino_trust_window_swear
 bip_39_word_underscore_12: hello_pair_message_drastic_unknown_mule_analyst_casino_trust_window_swear_acquire
 bip_39_word_underscore_2: hello_pair
 bip_39_word_underscore_3: hello_pair_message
-bip_39_word_underscore_4: hello_pair_message_drastic
-bip_39_word_underscore_5: hello_pair_message_drastic_unknown
-bip_39_word_underscore_6: hello_pair_message_drastic_unknown_mule
-bip_39_word_underscore_7: hello_pair_message_drastic_unknown_mule_analyst
-bip_39_word_underscore_8: hello_pair_message_drastic_unknown_mule_analyst_casino
-bip_39_word_underscore_9: hello_pair_message_drastic_unknown_mule_analyst_casino_trust
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

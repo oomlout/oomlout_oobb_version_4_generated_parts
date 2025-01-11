@@ -1,68 +1,9 @@
-bip_39_word_dash_1: system
-bip_39_word_dash_10: system-receive-wide-detect-push-cancel-section-fatigue-vehicle-change
-bip_39_word_dash_11: system-receive-wide-detect-push-cancel-section-fatigue-vehicle-change-undo
 bip_39_word_dash_12: system-receive-wide-detect-push-cancel-section-fatigue-vehicle-change-undo-about
 bip_39_word_dash_2: system-receive
 bip_39_word_dash_3: system-receive-wide
-bip_39_word_dash_4: system-receive-wide-detect
-bip_39_word_dash_5: system-receive-wide-detect-push
-bip_39_word_dash_6: system-receive-wide-detect-push-cancel
-bip_39_word_dash_7: system-receive-wide-detect-push-cancel-section
-bip_39_word_dash_8: system-receive-wide-detect-push-cancel-section-fatigue
-bip_39_word_dash_9: system-receive-wide-detect-push-cancel-section-fatigue-vehicle
-bip_39_word_new_br_1: system
-bip_39_word_new_br_10: system<br>receive<br>wide<br>detect<br>push<br>cancel<br>section<br>fatigue<br>vehicle<br>change
-bip_39_word_new_br_11: system<br>receive<br>wide<br>detect<br>push<br>cancel<br>section<br>fatigue<br>vehicle<br>change<br>undo
 bip_39_word_new_br_12: system<br>receive<br>wide<br>detect<br>push<br>cancel<br>section<br>fatigue<br>vehicle<br>change<br>undo<br>about
 bip_39_word_new_br_2: system<br>receive
 bip_39_word_new_br_3: system<br>receive<br>wide
-bip_39_word_new_br_4: system<br>receive<br>wide<br>detect
-bip_39_word_new_br_5: system<br>receive<br>wide<br>detect<br>push
-bip_39_word_new_br_6: system<br>receive<br>wide<br>detect<br>push<br>cancel
-bip_39_word_new_br_7: system<br>receive<br>wide<br>detect<br>push<br>cancel<br>section
-bip_39_word_new_br_8: system<br>receive<br>wide<br>detect<br>push<br>cancel<br>section<br>fatigue
-bip_39_word_new_br_9: system<br>receive<br>wide<br>detect<br>push<br>cancel<br>section<br>fatigue<br>vehicle
-bip_39_word_new_line_1: system
-bip_39_word_new_line_10: 'system
-
-  receive
-
-  wide
-
-  detect
-
-  push
-
-  cancel
-
-  section
-
-  fatigue
-
-  vehicle
-
-  change'
-bip_39_word_new_line_11: 'system
-
-  receive
-
-  wide
-
-  detect
-
-  push
-
-  cancel
-
-  section
-
-  fatigue
-
-  vehicle
-
-  change
-
-  undo'
 bip_39_word_new_line_12: 'system
 
   receive
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'system
   receive
 
   wide'
-bip_39_word_new_line_4: 'system
-
-  receive
-
-  wide
-
-  detect'
-bip_39_word_new_line_5: 'system
-
-  receive
-
-  wide
-
-  detect
-
-  push'
-bip_39_word_new_line_6: 'system
-
-  receive
-
-  wide
-
-  detect
-
-  push
-
-  cancel'
-bip_39_word_new_line_7: 'system
-
-  receive
-
-  wide
-
-  detect
-
-  push
-
-  cancel
-
-  section'
-bip_39_word_new_line_8: 'system
-
-  receive
-
-  wide
-
-  detect
-
-  push
-
-  cancel
-
-  section
-
-  fatigue'
-bip_39_word_new_line_9: 'system
-
-  receive
-
-  wide
-
-  detect
-
-  push
-
-  cancel
-
-  section
-
-  fatigue
-
-  vehicle'
-bip_39_word_no_space_1: system
-bip_39_word_no_space_10: systemreceivewidedetectpushcancelsectionfatiguevehiclechange
-bip_39_word_no_space_11: systemreceivewidedetectpushcancelsectionfatiguevehiclechangeundo
 bip_39_word_no_space_12: systemreceivewidedetectpushcancelsectionfatiguevehiclechangeundoabout
 bip_39_word_no_space_2: systemreceive
 bip_39_word_no_space_3: systemreceivewide
-bip_39_word_no_space_4: systemreceivewidedetect
-bip_39_word_no_space_5: systemreceivewidedetectpush
-bip_39_word_no_space_6: systemreceivewidedetectpushcancel
-bip_39_word_no_space_7: systemreceivewidedetectpushcancelsection
-bip_39_word_no_space_8: systemreceivewidedetectpushcancelsectionfatigue
-bip_39_word_no_space_9: systemreceivewidedetectpushcancelsectionfatiguevehicle
-bip_39_word_space_0:
-- system
-- receive
-- wide
-- detect
-- push
-- cancel
-- section
-- fatigue
-- vehicle
-- change
-- undo
-- about
-bip_39_word_space_1: system
-bip_39_word_space_10: system receive wide detect push cancel section fatigue vehicle
-  change
-bip_39_word_space_11: system receive wide detect push cancel section fatigue vehicle
-  change undo
 bip_39_word_space_12: system receive wide detect push cancel section fatigue vehicle
   change undo about
 bip_39_word_space_2: system receive
 bip_39_word_space_3: system receive wide
-bip_39_word_space_4: system receive wide detect
-bip_39_word_space_5: system receive wide detect push
-bip_39_word_space_6: system receive wide detect push cancel
-bip_39_word_space_7: system receive wide detect push cancel section
-bip_39_word_space_8: system receive wide detect push cancel section fatigue
-bip_39_word_space_9: system receive wide detect push cancel section fatigue vehicle
-bip_39_word_underscore_1: system
-bip_39_word_underscore_10: system_receive_wide_detect_push_cancel_section_fatigue_vehicle_change
-bip_39_word_underscore_11: system_receive_wide_detect_push_cancel_section_fatigue_vehicle_change_undo
 bip_39_word_underscore_12: system_receive_wide_detect_push_cancel_section_fatigue_vehicle_change_undo_about
 bip_39_word_underscore_2: system_receive
 bip_39_word_underscore_3: system_receive_wide
-bip_39_word_underscore_4: system_receive_wide_detect
-bip_39_word_underscore_5: system_receive_wide_detect_push
-bip_39_word_underscore_6: system_receive_wide_detect_push_cancel
-bip_39_word_underscore_7: system_receive_wide_detect_push_cancel_section
-bip_39_word_underscore_8: system_receive_wide_detect_push_cancel_section_fatigue
-bip_39_word_underscore_9: system_receive_wide_detect_push_cancel_section_fatigue_vehicle
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

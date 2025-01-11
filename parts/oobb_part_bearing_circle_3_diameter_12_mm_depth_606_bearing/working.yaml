@@ -1,69 +1,10 @@
 bearing: '606'
-bip_39_word_dash_1: brush
-bip_39_word_dash_10: brush-film-hover-property-certain-dice-detail-monster-hedgehog-mention
-bip_39_word_dash_11: brush-film-hover-property-certain-dice-detail-monster-hedgehog-mention-beach
 bip_39_word_dash_12: brush-film-hover-property-certain-dice-detail-monster-hedgehog-mention-beach-agent
 bip_39_word_dash_2: brush-film
 bip_39_word_dash_3: brush-film-hover
-bip_39_word_dash_4: brush-film-hover-property
-bip_39_word_dash_5: brush-film-hover-property-certain
-bip_39_word_dash_6: brush-film-hover-property-certain-dice
-bip_39_word_dash_7: brush-film-hover-property-certain-dice-detail
-bip_39_word_dash_8: brush-film-hover-property-certain-dice-detail-monster
-bip_39_word_dash_9: brush-film-hover-property-certain-dice-detail-monster-hedgehog
-bip_39_word_new_br_1: brush
-bip_39_word_new_br_10: brush<br>film<br>hover<br>property<br>certain<br>dice<br>detail<br>monster<br>hedgehog<br>mention
-bip_39_word_new_br_11: brush<br>film<br>hover<br>property<br>certain<br>dice<br>detail<br>monster<br>hedgehog<br>mention<br>beach
 bip_39_word_new_br_12: brush<br>film<br>hover<br>property<br>certain<br>dice<br>detail<br>monster<br>hedgehog<br>mention<br>beach<br>agent
 bip_39_word_new_br_2: brush<br>film
 bip_39_word_new_br_3: brush<br>film<br>hover
-bip_39_word_new_br_4: brush<br>film<br>hover<br>property
-bip_39_word_new_br_5: brush<br>film<br>hover<br>property<br>certain
-bip_39_word_new_br_6: brush<br>film<br>hover<br>property<br>certain<br>dice
-bip_39_word_new_br_7: brush<br>film<br>hover<br>property<br>certain<br>dice<br>detail
-bip_39_word_new_br_8: brush<br>film<br>hover<br>property<br>certain<br>dice<br>detail<br>monster
-bip_39_word_new_br_9: brush<br>film<br>hover<br>property<br>certain<br>dice<br>detail<br>monster<br>hedgehog
-bip_39_word_new_line_1: brush
-bip_39_word_new_line_10: 'brush
-
-  film
-
-  hover
-
-  property
-
-  certain
-
-  dice
-
-  detail
-
-  monster
-
-  hedgehog
-
-  mention'
-bip_39_word_new_line_11: 'brush
-
-  film
-
-  hover
-
-  property
-
-  certain
-
-  dice
-
-  detail
-
-  monster
-
-  hedgehog
-
-  mention
-
-  beach'
 bip_39_word_new_line_12: 'brush
 
   film
@@ -95,130 +36,16 @@ bip_39_word_new_line_3: 'brush
   film
 
   hover'
-bip_39_word_new_line_4: 'brush
-
-  film
-
-  hover
-
-  property'
-bip_39_word_new_line_5: 'brush
-
-  film
-
-  hover
-
-  property
-
-  certain'
-bip_39_word_new_line_6: 'brush
-
-  film
-
-  hover
-
-  property
-
-  certain
-
-  dice'
-bip_39_word_new_line_7: 'brush
-
-  film
-
-  hover
-
-  property
-
-  certain
-
-  dice
-
-  detail'
-bip_39_word_new_line_8: 'brush
-
-  film
-
-  hover
-
-  property
-
-  certain
-
-  dice
-
-  detail
-
-  monster'
-bip_39_word_new_line_9: 'brush
-
-  film
-
-  hover
-
-  property
-
-  certain
-
-  dice
-
-  detail
-
-  monster
-
-  hedgehog'
-bip_39_word_no_space_1: brush
-bip_39_word_no_space_10: brushfilmhoverpropertycertaindicedetailmonsterhedgehogmention
-bip_39_word_no_space_11: brushfilmhoverpropertycertaindicedetailmonsterhedgehogmentionbeach
 bip_39_word_no_space_12: brushfilmhoverpropertycertaindicedetailmonsterhedgehogmentionbeachagent
 bip_39_word_no_space_2: brushfilm
 bip_39_word_no_space_3: brushfilmhover
-bip_39_word_no_space_4: brushfilmhoverproperty
-bip_39_word_no_space_5: brushfilmhoverpropertycertain
-bip_39_word_no_space_6: brushfilmhoverpropertycertaindice
-bip_39_word_no_space_7: brushfilmhoverpropertycertaindicedetail
-bip_39_word_no_space_8: brushfilmhoverpropertycertaindicedetailmonster
-bip_39_word_no_space_9: brushfilmhoverpropertycertaindicedetailmonsterhedgehog
-bip_39_word_space_0:
-- brush
-- film
-- hover
-- property
-- certain
-- dice
-- detail
-- monster
-- hedgehog
-- mention
-- beach
-- agent
-bip_39_word_space_1: brush
-bip_39_word_space_10: brush film hover property certain dice detail monster hedgehog
-  mention
-bip_39_word_space_11: brush film hover property certain dice detail monster hedgehog
-  mention beach
 bip_39_word_space_12: brush film hover property certain dice detail monster hedgehog
   mention beach agent
 bip_39_word_space_2: brush film
 bip_39_word_space_3: brush film hover
-bip_39_word_space_4: brush film hover property
-bip_39_word_space_5: brush film hover property certain
-bip_39_word_space_6: brush film hover property certain dice
-bip_39_word_space_7: brush film hover property certain dice detail
-bip_39_word_space_8: brush film hover property certain dice detail monster
-bip_39_word_space_9: brush film hover property certain dice detail monster hedgehog
-bip_39_word_underscore_1: brush
-bip_39_word_underscore_10: brush_film_hover_property_certain_dice_detail_monster_hedgehog_mention
-bip_39_word_underscore_11: brush_film_hover_property_certain_dice_detail_monster_hedgehog_mention_beach
 bip_39_word_underscore_12: brush_film_hover_property_certain_dice_detail_monster_hedgehog_mention_beach_agent
 bip_39_word_underscore_2: brush_film
 bip_39_word_underscore_3: brush_film_hover
-bip_39_word_underscore_4: brush_film_hover_property
-bip_39_word_underscore_5: brush_film_hover_property_certain
-bip_39_word_underscore_6: brush_film_hover_property_certain_dice
-bip_39_word_underscore_7: brush_film_hover_property_certain_dice_detail
-bip_39_word_underscore_8: brush_film_hover_property_certain_dice_detail_monster
-bip_39_word_underscore_9: brush_film_hover_property_certain_dice_detail_monster_hedgehog
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

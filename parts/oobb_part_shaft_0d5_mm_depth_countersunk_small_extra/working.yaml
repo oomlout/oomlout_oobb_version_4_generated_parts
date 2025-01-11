@@ -1,68 +1,9 @@
-bip_39_word_dash_1: rail
-bip_39_word_dash_10: rail-enemy-chaos-sand-attack-gym-sorry-broccoli-pattern-negative
-bip_39_word_dash_11: rail-enemy-chaos-sand-attack-gym-sorry-broccoli-pattern-negative-lounge
 bip_39_word_dash_12: rail-enemy-chaos-sand-attack-gym-sorry-broccoli-pattern-negative-lounge-aim
 bip_39_word_dash_2: rail-enemy
 bip_39_word_dash_3: rail-enemy-chaos
-bip_39_word_dash_4: rail-enemy-chaos-sand
-bip_39_word_dash_5: rail-enemy-chaos-sand-attack
-bip_39_word_dash_6: rail-enemy-chaos-sand-attack-gym
-bip_39_word_dash_7: rail-enemy-chaos-sand-attack-gym-sorry
-bip_39_word_dash_8: rail-enemy-chaos-sand-attack-gym-sorry-broccoli
-bip_39_word_dash_9: rail-enemy-chaos-sand-attack-gym-sorry-broccoli-pattern
-bip_39_word_new_br_1: rail
-bip_39_word_new_br_10: rail<br>enemy<br>chaos<br>sand<br>attack<br>gym<br>sorry<br>broccoli<br>pattern<br>negative
-bip_39_word_new_br_11: rail<br>enemy<br>chaos<br>sand<br>attack<br>gym<br>sorry<br>broccoli<br>pattern<br>negative<br>lounge
 bip_39_word_new_br_12: rail<br>enemy<br>chaos<br>sand<br>attack<br>gym<br>sorry<br>broccoli<br>pattern<br>negative<br>lounge<br>aim
 bip_39_word_new_br_2: rail<br>enemy
 bip_39_word_new_br_3: rail<br>enemy<br>chaos
-bip_39_word_new_br_4: rail<br>enemy<br>chaos<br>sand
-bip_39_word_new_br_5: rail<br>enemy<br>chaos<br>sand<br>attack
-bip_39_word_new_br_6: rail<br>enemy<br>chaos<br>sand<br>attack<br>gym
-bip_39_word_new_br_7: rail<br>enemy<br>chaos<br>sand<br>attack<br>gym<br>sorry
-bip_39_word_new_br_8: rail<br>enemy<br>chaos<br>sand<br>attack<br>gym<br>sorry<br>broccoli
-bip_39_word_new_br_9: rail<br>enemy<br>chaos<br>sand<br>attack<br>gym<br>sorry<br>broccoli<br>pattern
-bip_39_word_new_line_1: rail
-bip_39_word_new_line_10: 'rail
-
-  enemy
-
-  chaos
-
-  sand
-
-  attack
-
-  gym
-
-  sorry
-
-  broccoli
-
-  pattern
-
-  negative'
-bip_39_word_new_line_11: 'rail
-
-  enemy
-
-  chaos
-
-  sand
-
-  attack
-
-  gym
-
-  sorry
-
-  broccoli
-
-  pattern
-
-  negative
-
-  lounge'
 bip_39_word_new_line_12: 'rail
 
   enemy
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'rail
   enemy
 
   chaos'
-bip_39_word_new_line_4: 'rail
-
-  enemy
-
-  chaos
-
-  sand'
-bip_39_word_new_line_5: 'rail
-
-  enemy
-
-  chaos
-
-  sand
-
-  attack'
-bip_39_word_new_line_6: 'rail
-
-  enemy
-
-  chaos
-
-  sand
-
-  attack
-
-  gym'
-bip_39_word_new_line_7: 'rail
-
-  enemy
-
-  chaos
-
-  sand
-
-  attack
-
-  gym
-
-  sorry'
-bip_39_word_new_line_8: 'rail
-
-  enemy
-
-  chaos
-
-  sand
-
-  attack
-
-  gym
-
-  sorry
-
-  broccoli'
-bip_39_word_new_line_9: 'rail
-
-  enemy
-
-  chaos
-
-  sand
-
-  attack
-
-  gym
-
-  sorry
-
-  broccoli
-
-  pattern'
-bip_39_word_no_space_1: rail
-bip_39_word_no_space_10: railenemychaossandattackgymsorrybroccolipatternnegative
-bip_39_word_no_space_11: railenemychaossandattackgymsorrybroccolipatternnegativelounge
 bip_39_word_no_space_12: railenemychaossandattackgymsorrybroccolipatternnegativeloungeaim
 bip_39_word_no_space_2: railenemy
 bip_39_word_no_space_3: railenemychaos
-bip_39_word_no_space_4: railenemychaossand
-bip_39_word_no_space_5: railenemychaossandattack
-bip_39_word_no_space_6: railenemychaossandattackgym
-bip_39_word_no_space_7: railenemychaossandattackgymsorry
-bip_39_word_no_space_8: railenemychaossandattackgymsorrybroccoli
-bip_39_word_no_space_9: railenemychaossandattackgymsorrybroccolipattern
-bip_39_word_space_0:
-- rail
-- enemy
-- chaos
-- sand
-- attack
-- gym
-- sorry
-- broccoli
-- pattern
-- negative
-- lounge
-- aim
-bip_39_word_space_1: rail
-bip_39_word_space_10: rail enemy chaos sand attack gym sorry broccoli pattern negative
-bip_39_word_space_11: rail enemy chaos sand attack gym sorry broccoli pattern negative
-  lounge
 bip_39_word_space_12: rail enemy chaos sand attack gym sorry broccoli pattern negative
   lounge aim
 bip_39_word_space_2: rail enemy
 bip_39_word_space_3: rail enemy chaos
-bip_39_word_space_4: rail enemy chaos sand
-bip_39_word_space_5: rail enemy chaos sand attack
-bip_39_word_space_6: rail enemy chaos sand attack gym
-bip_39_word_space_7: rail enemy chaos sand attack gym sorry
-bip_39_word_space_8: rail enemy chaos sand attack gym sorry broccoli
-bip_39_word_space_9: rail enemy chaos sand attack gym sorry broccoli pattern
-bip_39_word_underscore_1: rail
-bip_39_word_underscore_10: rail_enemy_chaos_sand_attack_gym_sorry_broccoli_pattern_negative
-bip_39_word_underscore_11: rail_enemy_chaos_sand_attack_gym_sorry_broccoli_pattern_negative_lounge
 bip_39_word_underscore_12: rail_enemy_chaos_sand_attack_gym_sorry_broccoli_pattern_negative_lounge_aim
 bip_39_word_underscore_2: rail_enemy
 bip_39_word_underscore_3: rail_enemy_chaos
-bip_39_word_underscore_4: rail_enemy_chaos_sand
-bip_39_word_underscore_5: rail_enemy_chaos_sand_attack
-bip_39_word_underscore_6: rail_enemy_chaos_sand_attack_gym
-bip_39_word_underscore_7: rail_enemy_chaos_sand_attack_gym_sorry
-bip_39_word_underscore_8: rail_enemy_chaos_sand_attack_gym_sorry_broccoli
-bip_39_word_underscore_9: rail_enemy_chaos_sand_attack_gym_sorry_broccoli_pattern
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

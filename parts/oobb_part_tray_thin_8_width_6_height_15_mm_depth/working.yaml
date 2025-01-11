@@ -1,68 +1,9 @@
-bip_39_word_dash_1: exit
-bip_39_word_dash_10: exit-hedgehog-blame-flame-car-merit-myself-scout-sausage-lion
-bip_39_word_dash_11: exit-hedgehog-blame-flame-car-merit-myself-scout-sausage-lion-tide
 bip_39_word_dash_12: exit-hedgehog-blame-flame-car-merit-myself-scout-sausage-lion-tide-angle
 bip_39_word_dash_2: exit-hedgehog
 bip_39_word_dash_3: exit-hedgehog-blame
-bip_39_word_dash_4: exit-hedgehog-blame-flame
-bip_39_word_dash_5: exit-hedgehog-blame-flame-car
-bip_39_word_dash_6: exit-hedgehog-blame-flame-car-merit
-bip_39_word_dash_7: exit-hedgehog-blame-flame-car-merit-myself
-bip_39_word_dash_8: exit-hedgehog-blame-flame-car-merit-myself-scout
-bip_39_word_dash_9: exit-hedgehog-blame-flame-car-merit-myself-scout-sausage
-bip_39_word_new_br_1: exit
-bip_39_word_new_br_10: exit<br>hedgehog<br>blame<br>flame<br>car<br>merit<br>myself<br>scout<br>sausage<br>lion
-bip_39_word_new_br_11: exit<br>hedgehog<br>blame<br>flame<br>car<br>merit<br>myself<br>scout<br>sausage<br>lion<br>tide
 bip_39_word_new_br_12: exit<br>hedgehog<br>blame<br>flame<br>car<br>merit<br>myself<br>scout<br>sausage<br>lion<br>tide<br>angle
 bip_39_word_new_br_2: exit<br>hedgehog
 bip_39_word_new_br_3: exit<br>hedgehog<br>blame
-bip_39_word_new_br_4: exit<br>hedgehog<br>blame<br>flame
-bip_39_word_new_br_5: exit<br>hedgehog<br>blame<br>flame<br>car
-bip_39_word_new_br_6: exit<br>hedgehog<br>blame<br>flame<br>car<br>merit
-bip_39_word_new_br_7: exit<br>hedgehog<br>blame<br>flame<br>car<br>merit<br>myself
-bip_39_word_new_br_8: exit<br>hedgehog<br>blame<br>flame<br>car<br>merit<br>myself<br>scout
-bip_39_word_new_br_9: exit<br>hedgehog<br>blame<br>flame<br>car<br>merit<br>myself<br>scout<br>sausage
-bip_39_word_new_line_1: exit
-bip_39_word_new_line_10: 'exit
-
-  hedgehog
-
-  blame
-
-  flame
-
-  car
-
-  merit
-
-  myself
-
-  scout
-
-  sausage
-
-  lion'
-bip_39_word_new_line_11: 'exit
-
-  hedgehog
-
-  blame
-
-  flame
-
-  car
-
-  merit
-
-  myself
-
-  scout
-
-  sausage
-
-  lion
-
-  tide'
 bip_39_word_new_line_12: 'exit
 
   hedgehog
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'exit
   hedgehog
 
   blame'
-bip_39_word_new_line_4: 'exit
-
-  hedgehog
-
-  blame
-
-  flame'
-bip_39_word_new_line_5: 'exit
-
-  hedgehog
-
-  blame
-
-  flame
-
-  car'
-bip_39_word_new_line_6: 'exit
-
-  hedgehog
-
-  blame
-
-  flame
-
-  car
-
-  merit'
-bip_39_word_new_line_7: 'exit
-
-  hedgehog
-
-  blame
-
-  flame
-
-  car
-
-  merit
-
-  myself'
-bip_39_word_new_line_8: 'exit
-
-  hedgehog
-
-  blame
-
-  flame
-
-  car
-
-  merit
-
-  myself
-
-  scout'
-bip_39_word_new_line_9: 'exit
-
-  hedgehog
-
-  blame
-
-  flame
-
-  car
-
-  merit
-
-  myself
-
-  scout
-
-  sausage'
-bip_39_word_no_space_1: exit
-bip_39_word_no_space_10: exithedgehogblameflamecarmeritmyselfscoutsausagelion
-bip_39_word_no_space_11: exithedgehogblameflamecarmeritmyselfscoutsausageliontide
 bip_39_word_no_space_12: exithedgehogblameflamecarmeritmyselfscoutsausageliontideangle
 bip_39_word_no_space_2: exithedgehog
 bip_39_word_no_space_3: exithedgehogblame
-bip_39_word_no_space_4: exithedgehogblameflame
-bip_39_word_no_space_5: exithedgehogblameflamecar
-bip_39_word_no_space_6: exithedgehogblameflamecarmerit
-bip_39_word_no_space_7: exithedgehogblameflamecarmeritmyself
-bip_39_word_no_space_8: exithedgehogblameflamecarmeritmyselfscout
-bip_39_word_no_space_9: exithedgehogblameflamecarmeritmyselfscoutsausage
-bip_39_word_space_0:
-- exit
-- hedgehog
-- blame
-- flame
-- car
-- merit
-- myself
-- scout
-- sausage
-- lion
-- tide
-- angle
-bip_39_word_space_1: exit
-bip_39_word_space_10: exit hedgehog blame flame car merit myself scout sausage lion
-bip_39_word_space_11: exit hedgehog blame flame car merit myself scout sausage lion
-  tide
 bip_39_word_space_12: exit hedgehog blame flame car merit myself scout sausage lion
   tide angle
 bip_39_word_space_2: exit hedgehog
 bip_39_word_space_3: exit hedgehog blame
-bip_39_word_space_4: exit hedgehog blame flame
-bip_39_word_space_5: exit hedgehog blame flame car
-bip_39_word_space_6: exit hedgehog blame flame car merit
-bip_39_word_space_7: exit hedgehog blame flame car merit myself
-bip_39_word_space_8: exit hedgehog blame flame car merit myself scout
-bip_39_word_space_9: exit hedgehog blame flame car merit myself scout sausage
-bip_39_word_underscore_1: exit
-bip_39_word_underscore_10: exit_hedgehog_blame_flame_car_merit_myself_scout_sausage_lion
-bip_39_word_underscore_11: exit_hedgehog_blame_flame_car_merit_myself_scout_sausage_lion_tide
 bip_39_word_underscore_12: exit_hedgehog_blame_flame_car_merit_myself_scout_sausage_lion_tide_angle
 bip_39_word_underscore_2: exit_hedgehog
 bip_39_word_underscore_3: exit_hedgehog_blame
-bip_39_word_underscore_4: exit_hedgehog_blame_flame
-bip_39_word_underscore_5: exit_hedgehog_blame_flame_car
-bip_39_word_underscore_6: exit_hedgehog_blame_flame_car_merit
-bip_39_word_underscore_7: exit_hedgehog_blame_flame_car_merit_myself
-bip_39_word_underscore_8: exit_hedgehog_blame_flame_car_merit_myself_scout
-bip_39_word_underscore_9: exit_hedgehog_blame_flame_car_merit_myself_scout_sausage
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

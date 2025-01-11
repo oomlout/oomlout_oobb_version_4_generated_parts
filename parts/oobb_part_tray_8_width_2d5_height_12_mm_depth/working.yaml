@@ -1,68 +1,9 @@
-bip_39_word_dash_1: make
-bip_39_word_dash_10: make-prefer-creek-witness-myself-estate-phone-exile-olympic-crowd
-bip_39_word_dash_11: make-prefer-creek-witness-myself-estate-phone-exile-olympic-crowd-tower
 bip_39_word_dash_12: make-prefer-creek-witness-myself-estate-phone-exile-olympic-crowd-tower-achieve
 bip_39_word_dash_2: make-prefer
 bip_39_word_dash_3: make-prefer-creek
-bip_39_word_dash_4: make-prefer-creek-witness
-bip_39_word_dash_5: make-prefer-creek-witness-myself
-bip_39_word_dash_6: make-prefer-creek-witness-myself-estate
-bip_39_word_dash_7: make-prefer-creek-witness-myself-estate-phone
-bip_39_word_dash_8: make-prefer-creek-witness-myself-estate-phone-exile
-bip_39_word_dash_9: make-prefer-creek-witness-myself-estate-phone-exile-olympic
-bip_39_word_new_br_1: make
-bip_39_word_new_br_10: make<br>prefer<br>creek<br>witness<br>myself<br>estate<br>phone<br>exile<br>olympic<br>crowd
-bip_39_word_new_br_11: make<br>prefer<br>creek<br>witness<br>myself<br>estate<br>phone<br>exile<br>olympic<br>crowd<br>tower
 bip_39_word_new_br_12: make<br>prefer<br>creek<br>witness<br>myself<br>estate<br>phone<br>exile<br>olympic<br>crowd<br>tower<br>achieve
 bip_39_word_new_br_2: make<br>prefer
 bip_39_word_new_br_3: make<br>prefer<br>creek
-bip_39_word_new_br_4: make<br>prefer<br>creek<br>witness
-bip_39_word_new_br_5: make<br>prefer<br>creek<br>witness<br>myself
-bip_39_word_new_br_6: make<br>prefer<br>creek<br>witness<br>myself<br>estate
-bip_39_word_new_br_7: make<br>prefer<br>creek<br>witness<br>myself<br>estate<br>phone
-bip_39_word_new_br_8: make<br>prefer<br>creek<br>witness<br>myself<br>estate<br>phone<br>exile
-bip_39_word_new_br_9: make<br>prefer<br>creek<br>witness<br>myself<br>estate<br>phone<br>exile<br>olympic
-bip_39_word_new_line_1: make
-bip_39_word_new_line_10: 'make
-
-  prefer
-
-  creek
-
-  witness
-
-  myself
-
-  estate
-
-  phone
-
-  exile
-
-  olympic
-
-  crowd'
-bip_39_word_new_line_11: 'make
-
-  prefer
-
-  creek
-
-  witness
-
-  myself
-
-  estate
-
-  phone
-
-  exile
-
-  olympic
-
-  crowd
-
-  tower'
 bip_39_word_new_line_12: 'make
 
   prefer
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'make
   prefer
 
   creek'
-bip_39_word_new_line_4: 'make
-
-  prefer
-
-  creek
-
-  witness'
-bip_39_word_new_line_5: 'make
-
-  prefer
-
-  creek
-
-  witness
-
-  myself'
-bip_39_word_new_line_6: 'make
-
-  prefer
-
-  creek
-
-  witness
-
-  myself
-
-  estate'
-bip_39_word_new_line_7: 'make
-
-  prefer
-
-  creek
-
-  witness
-
-  myself
-
-  estate
-
-  phone'
-bip_39_word_new_line_8: 'make
-
-  prefer
-
-  creek
-
-  witness
-
-  myself
-
-  estate
-
-  phone
-
-  exile'
-bip_39_word_new_line_9: 'make
-
-  prefer
-
-  creek
-
-  witness
-
-  myself
-
-  estate
-
-  phone
-
-  exile
-
-  olympic'
-bip_39_word_no_space_1: make
-bip_39_word_no_space_10: makeprefercreekwitnessmyselfestatephoneexileolympiccrowd
-bip_39_word_no_space_11: makeprefercreekwitnessmyselfestatephoneexileolympiccrowdtower
 bip_39_word_no_space_12: makeprefercreekwitnessmyselfestatephoneexileolympiccrowdtowerachieve
 bip_39_word_no_space_2: makeprefer
 bip_39_word_no_space_3: makeprefercreek
-bip_39_word_no_space_4: makeprefercreekwitness
-bip_39_word_no_space_5: makeprefercreekwitnessmyself
-bip_39_word_no_space_6: makeprefercreekwitnessmyselfestate
-bip_39_word_no_space_7: makeprefercreekwitnessmyselfestatephone
-bip_39_word_no_space_8: makeprefercreekwitnessmyselfestatephoneexile
-bip_39_word_no_space_9: makeprefercreekwitnessmyselfestatephoneexileolympic
-bip_39_word_space_0:
-- make
-- prefer
-- creek
-- witness
-- myself
-- estate
-- phone
-- exile
-- olympic
-- crowd
-- tower
-- achieve
-bip_39_word_space_1: make
-bip_39_word_space_10: make prefer creek witness myself estate phone exile olympic
-  crowd
-bip_39_word_space_11: make prefer creek witness myself estate phone exile olympic
-  crowd tower
 bip_39_word_space_12: make prefer creek witness myself estate phone exile olympic
   crowd tower achieve
 bip_39_word_space_2: make prefer
 bip_39_word_space_3: make prefer creek
-bip_39_word_space_4: make prefer creek witness
-bip_39_word_space_5: make prefer creek witness myself
-bip_39_word_space_6: make prefer creek witness myself estate
-bip_39_word_space_7: make prefer creek witness myself estate phone
-bip_39_word_space_8: make prefer creek witness myself estate phone exile
-bip_39_word_space_9: make prefer creek witness myself estate phone exile olympic
-bip_39_word_underscore_1: make
-bip_39_word_underscore_10: make_prefer_creek_witness_myself_estate_phone_exile_olympic_crowd
-bip_39_word_underscore_11: make_prefer_creek_witness_myself_estate_phone_exile_olympic_crowd_tower
 bip_39_word_underscore_12: make_prefer_creek_witness_myself_estate_phone_exile_olympic_crowd_tower_achieve
 bip_39_word_underscore_2: make_prefer
 bip_39_word_underscore_3: make_prefer_creek
-bip_39_word_underscore_4: make_prefer_creek_witness
-bip_39_word_underscore_5: make_prefer_creek_witness_myself
-bip_39_word_underscore_6: make_prefer_creek_witness_myself_estate
-bip_39_word_underscore_7: make_prefer_creek_witness_myself_estate_phone
-bip_39_word_underscore_8: make_prefer_creek_witness_myself_estate_phone_exile
-bip_39_word_underscore_9: make_prefer_creek_witness_myself_estate_phone_exile_olympic
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

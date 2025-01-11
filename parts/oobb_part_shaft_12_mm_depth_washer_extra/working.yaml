@@ -1,68 +1,9 @@
-bip_39_word_dash_1: melody
-bip_39_word_dash_10: melody-address-zoo-pipe-spice-direct-flush-frost-primary-time
-bip_39_word_dash_11: melody-address-zoo-pipe-spice-direct-flush-frost-primary-time-verify
 bip_39_word_dash_12: melody-address-zoo-pipe-spice-direct-flush-frost-primary-time-verify-agent
 bip_39_word_dash_2: melody-address
 bip_39_word_dash_3: melody-address-zoo
-bip_39_word_dash_4: melody-address-zoo-pipe
-bip_39_word_dash_5: melody-address-zoo-pipe-spice
-bip_39_word_dash_6: melody-address-zoo-pipe-spice-direct
-bip_39_word_dash_7: melody-address-zoo-pipe-spice-direct-flush
-bip_39_word_dash_8: melody-address-zoo-pipe-spice-direct-flush-frost
-bip_39_word_dash_9: melody-address-zoo-pipe-spice-direct-flush-frost-primary
-bip_39_word_new_br_1: melody
-bip_39_word_new_br_10: melody<br>address<br>zoo<br>pipe<br>spice<br>direct<br>flush<br>frost<br>primary<br>time
-bip_39_word_new_br_11: melody<br>address<br>zoo<br>pipe<br>spice<br>direct<br>flush<br>frost<br>primary<br>time<br>verify
 bip_39_word_new_br_12: melody<br>address<br>zoo<br>pipe<br>spice<br>direct<br>flush<br>frost<br>primary<br>time<br>verify<br>agent
 bip_39_word_new_br_2: melody<br>address
 bip_39_word_new_br_3: melody<br>address<br>zoo
-bip_39_word_new_br_4: melody<br>address<br>zoo<br>pipe
-bip_39_word_new_br_5: melody<br>address<br>zoo<br>pipe<br>spice
-bip_39_word_new_br_6: melody<br>address<br>zoo<br>pipe<br>spice<br>direct
-bip_39_word_new_br_7: melody<br>address<br>zoo<br>pipe<br>spice<br>direct<br>flush
-bip_39_word_new_br_8: melody<br>address<br>zoo<br>pipe<br>spice<br>direct<br>flush<br>frost
-bip_39_word_new_br_9: melody<br>address<br>zoo<br>pipe<br>spice<br>direct<br>flush<br>frost<br>primary
-bip_39_word_new_line_1: melody
-bip_39_word_new_line_10: 'melody
-
-  address
-
-  zoo
-
-  pipe
-
-  spice
-
-  direct
-
-  flush
-
-  frost
-
-  primary
-
-  time'
-bip_39_word_new_line_11: 'melody
-
-  address
-
-  zoo
-
-  pipe
-
-  spice
-
-  direct
-
-  flush
-
-  frost
-
-  primary
-
-  time
-
-  verify'
 bip_39_word_new_line_12: 'melody
 
   address
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'melody
   address
 
   zoo'
-bip_39_word_new_line_4: 'melody
-
-  address
-
-  zoo
-
-  pipe'
-bip_39_word_new_line_5: 'melody
-
-  address
-
-  zoo
-
-  pipe
-
-  spice'
-bip_39_word_new_line_6: 'melody
-
-  address
-
-  zoo
-
-  pipe
-
-  spice
-
-  direct'
-bip_39_word_new_line_7: 'melody
-
-  address
-
-  zoo
-
-  pipe
-
-  spice
-
-  direct
-
-  flush'
-bip_39_word_new_line_8: 'melody
-
-  address
-
-  zoo
-
-  pipe
-
-  spice
-
-  direct
-
-  flush
-
-  frost'
-bip_39_word_new_line_9: 'melody
-
-  address
-
-  zoo
-
-  pipe
-
-  spice
-
-  direct
-
-  flush
-
-  frost
-
-  primary'
-bip_39_word_no_space_1: melody
-bip_39_word_no_space_10: melodyaddresszoopipespicedirectflushfrostprimarytime
-bip_39_word_no_space_11: melodyaddresszoopipespicedirectflushfrostprimarytimeverify
 bip_39_word_no_space_12: melodyaddresszoopipespicedirectflushfrostprimarytimeverifyagent
 bip_39_word_no_space_2: melodyaddress
 bip_39_word_no_space_3: melodyaddresszoo
-bip_39_word_no_space_4: melodyaddresszoopipe
-bip_39_word_no_space_5: melodyaddresszoopipespice
-bip_39_word_no_space_6: melodyaddresszoopipespicedirect
-bip_39_word_no_space_7: melodyaddresszoopipespicedirectflush
-bip_39_word_no_space_8: melodyaddresszoopipespicedirectflushfrost
-bip_39_word_no_space_9: melodyaddresszoopipespicedirectflushfrostprimary
-bip_39_word_space_0:
-- melody
-- address
-- zoo
-- pipe
-- spice
-- direct
-- flush
-- frost
-- primary
-- time
-- verify
-- agent
-bip_39_word_space_1: melody
-bip_39_word_space_10: melody address zoo pipe spice direct flush frost primary time
-bip_39_word_space_11: melody address zoo pipe spice direct flush frost primary time
-  verify
 bip_39_word_space_12: melody address zoo pipe spice direct flush frost primary time
   verify agent
 bip_39_word_space_2: melody address
 bip_39_word_space_3: melody address zoo
-bip_39_word_space_4: melody address zoo pipe
-bip_39_word_space_5: melody address zoo pipe spice
-bip_39_word_space_6: melody address zoo pipe spice direct
-bip_39_word_space_7: melody address zoo pipe spice direct flush
-bip_39_word_space_8: melody address zoo pipe spice direct flush frost
-bip_39_word_space_9: melody address zoo pipe spice direct flush frost primary
-bip_39_word_underscore_1: melody
-bip_39_word_underscore_10: melody_address_zoo_pipe_spice_direct_flush_frost_primary_time
-bip_39_word_underscore_11: melody_address_zoo_pipe_spice_direct_flush_frost_primary_time_verify
 bip_39_word_underscore_12: melody_address_zoo_pipe_spice_direct_flush_frost_primary_time_verify_agent
 bip_39_word_underscore_2: melody_address
 bip_39_word_underscore_3: melody_address_zoo
-bip_39_word_underscore_4: melody_address_zoo_pipe
-bip_39_word_underscore_5: melody_address_zoo_pipe_spice
-bip_39_word_underscore_6: melody_address_zoo_pipe_spice_direct
-bip_39_word_underscore_7: melody_address_zoo_pipe_spice_direct_flush
-bip_39_word_underscore_8: melody_address_zoo_pipe_spice_direct_flush_frost
-bip_39_word_underscore_9: melody_address_zoo_pipe_spice_direct_flush_frost_primary
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: horn
-bip_39_word_dash_10: horn-crunch-lemon-purse-dwarf-crystal-imitate-cradle-blind-opinion
-bip_39_word_dash_11: horn-crunch-lemon-purse-dwarf-crystal-imitate-cradle-blind-opinion-rare
 bip_39_word_dash_12: horn-crunch-lemon-purse-dwarf-crystal-imitate-cradle-blind-opinion-rare-acquire
 bip_39_word_dash_2: horn-crunch
 bip_39_word_dash_3: horn-crunch-lemon
-bip_39_word_dash_4: horn-crunch-lemon-purse
-bip_39_word_dash_5: horn-crunch-lemon-purse-dwarf
-bip_39_word_dash_6: horn-crunch-lemon-purse-dwarf-crystal
-bip_39_word_dash_7: horn-crunch-lemon-purse-dwarf-crystal-imitate
-bip_39_word_dash_8: horn-crunch-lemon-purse-dwarf-crystal-imitate-cradle
-bip_39_word_dash_9: horn-crunch-lemon-purse-dwarf-crystal-imitate-cradle-blind
-bip_39_word_new_br_1: horn
-bip_39_word_new_br_10: horn<br>crunch<br>lemon<br>purse<br>dwarf<br>crystal<br>imitate<br>cradle<br>blind<br>opinion
-bip_39_word_new_br_11: horn<br>crunch<br>lemon<br>purse<br>dwarf<br>crystal<br>imitate<br>cradle<br>blind<br>opinion<br>rare
 bip_39_word_new_br_12: horn<br>crunch<br>lemon<br>purse<br>dwarf<br>crystal<br>imitate<br>cradle<br>blind<br>opinion<br>rare<br>acquire
 bip_39_word_new_br_2: horn<br>crunch
 bip_39_word_new_br_3: horn<br>crunch<br>lemon
-bip_39_word_new_br_4: horn<br>crunch<br>lemon<br>purse
-bip_39_word_new_br_5: horn<br>crunch<br>lemon<br>purse<br>dwarf
-bip_39_word_new_br_6: horn<br>crunch<br>lemon<br>purse<br>dwarf<br>crystal
-bip_39_word_new_br_7: horn<br>crunch<br>lemon<br>purse<br>dwarf<br>crystal<br>imitate
-bip_39_word_new_br_8: horn<br>crunch<br>lemon<br>purse<br>dwarf<br>crystal<br>imitate<br>cradle
-bip_39_word_new_br_9: horn<br>crunch<br>lemon<br>purse<br>dwarf<br>crystal<br>imitate<br>cradle<br>blind
-bip_39_word_new_line_1: horn
-bip_39_word_new_line_10: 'horn
-
-  crunch
-
-  lemon
-
-  purse
-
-  dwarf
-
-  crystal
-
-  imitate
-
-  cradle
-
-  blind
-
-  opinion'
-bip_39_word_new_line_11: 'horn
-
-  crunch
-
-  lemon
-
-  purse
-
-  dwarf
-
-  crystal
-
-  imitate
-
-  cradle
-
-  blind
-
-  opinion
-
-  rare'
 bip_39_word_new_line_12: 'horn
 
   crunch
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'horn
   crunch
 
   lemon'
-bip_39_word_new_line_4: 'horn
-
-  crunch
-
-  lemon
-
-  purse'
-bip_39_word_new_line_5: 'horn
-
-  crunch
-
-  lemon
-
-  purse
-
-  dwarf'
-bip_39_word_new_line_6: 'horn
-
-  crunch
-
-  lemon
-
-  purse
-
-  dwarf
-
-  crystal'
-bip_39_word_new_line_7: 'horn
-
-  crunch
-
-  lemon
-
-  purse
-
-  dwarf
-
-  crystal
-
-  imitate'
-bip_39_word_new_line_8: 'horn
-
-  crunch
-
-  lemon
-
-  purse
-
-  dwarf
-
-  crystal
-
-  imitate
-
-  cradle'
-bip_39_word_new_line_9: 'horn
-
-  crunch
-
-  lemon
-
-  purse
-
-  dwarf
-
-  crystal
-
-  imitate
-
-  cradle
-
-  blind'
-bip_39_word_no_space_1: horn
-bip_39_word_no_space_10: horncrunchlemonpursedwarfcrystalimitatecradleblindopinion
-bip_39_word_no_space_11: horncrunchlemonpursedwarfcrystalimitatecradleblindopinionrare
 bip_39_word_no_space_12: horncrunchlemonpursedwarfcrystalimitatecradleblindopinionrareacquire
 bip_39_word_no_space_2: horncrunch
 bip_39_word_no_space_3: horncrunchlemon
-bip_39_word_no_space_4: horncrunchlemonpurse
-bip_39_word_no_space_5: horncrunchlemonpursedwarf
-bip_39_word_no_space_6: horncrunchlemonpursedwarfcrystal
-bip_39_word_no_space_7: horncrunchlemonpursedwarfcrystalimitate
-bip_39_word_no_space_8: horncrunchlemonpursedwarfcrystalimitatecradle
-bip_39_word_no_space_9: horncrunchlemonpursedwarfcrystalimitatecradleblind
-bip_39_word_space_0:
-- horn
-- crunch
-- lemon
-- purse
-- dwarf
-- crystal
-- imitate
-- cradle
-- blind
-- opinion
-- rare
-- acquire
-bip_39_word_space_1: horn
-bip_39_word_space_10: horn crunch lemon purse dwarf crystal imitate cradle blind opinion
-bip_39_word_space_11: horn crunch lemon purse dwarf crystal imitate cradle blind opinion
-  rare
 bip_39_word_space_12: horn crunch lemon purse dwarf crystal imitate cradle blind opinion
   rare acquire
 bip_39_word_space_2: horn crunch
 bip_39_word_space_3: horn crunch lemon
-bip_39_word_space_4: horn crunch lemon purse
-bip_39_word_space_5: horn crunch lemon purse dwarf
-bip_39_word_space_6: horn crunch lemon purse dwarf crystal
-bip_39_word_space_7: horn crunch lemon purse dwarf crystal imitate
-bip_39_word_space_8: horn crunch lemon purse dwarf crystal imitate cradle
-bip_39_word_space_9: horn crunch lemon purse dwarf crystal imitate cradle blind
-bip_39_word_underscore_1: horn
-bip_39_word_underscore_10: horn_crunch_lemon_purse_dwarf_crystal_imitate_cradle_blind_opinion
-bip_39_word_underscore_11: horn_crunch_lemon_purse_dwarf_crystal_imitate_cradle_blind_opinion_rare
 bip_39_word_underscore_12: horn_crunch_lemon_purse_dwarf_crystal_imitate_cradle_blind_opinion_rare_acquire
 bip_39_word_underscore_2: horn_crunch
 bip_39_word_underscore_3: horn_crunch_lemon
-bip_39_word_underscore_4: horn_crunch_lemon_purse
-bip_39_word_underscore_5: horn_crunch_lemon_purse_dwarf
-bip_39_word_underscore_6: horn_crunch_lemon_purse_dwarf_crystal
-bip_39_word_underscore_7: horn_crunch_lemon_purse_dwarf_crystal_imitate
-bip_39_word_underscore_8: horn_crunch_lemon_purse_dwarf_crystal_imitate_cradle
-bip_39_word_underscore_9: horn_crunch_lemon_purse_dwarf_crystal_imitate_cradle_blind
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

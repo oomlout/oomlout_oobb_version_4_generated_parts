@@ -1,68 +1,9 @@
-bip_39_word_dash_1: poet
-bip_39_word_dash_10: poet-spell-car-innocent-satoshi-divert-derive-leave-chef-sick
-bip_39_word_dash_11: poet-spell-car-innocent-satoshi-divert-derive-leave-chef-sick-first
 bip_39_word_dash_12: poet-spell-car-innocent-satoshi-divert-derive-leave-chef-sick-first-amount
 bip_39_word_dash_2: poet-spell
 bip_39_word_dash_3: poet-spell-car
-bip_39_word_dash_4: poet-spell-car-innocent
-bip_39_word_dash_5: poet-spell-car-innocent-satoshi
-bip_39_word_dash_6: poet-spell-car-innocent-satoshi-divert
-bip_39_word_dash_7: poet-spell-car-innocent-satoshi-divert-derive
-bip_39_word_dash_8: poet-spell-car-innocent-satoshi-divert-derive-leave
-bip_39_word_dash_9: poet-spell-car-innocent-satoshi-divert-derive-leave-chef
-bip_39_word_new_br_1: poet
-bip_39_word_new_br_10: poet<br>spell<br>car<br>innocent<br>satoshi<br>divert<br>derive<br>leave<br>chef<br>sick
-bip_39_word_new_br_11: poet<br>spell<br>car<br>innocent<br>satoshi<br>divert<br>derive<br>leave<br>chef<br>sick<br>first
 bip_39_word_new_br_12: poet<br>spell<br>car<br>innocent<br>satoshi<br>divert<br>derive<br>leave<br>chef<br>sick<br>first<br>amount
 bip_39_word_new_br_2: poet<br>spell
 bip_39_word_new_br_3: poet<br>spell<br>car
-bip_39_word_new_br_4: poet<br>spell<br>car<br>innocent
-bip_39_word_new_br_5: poet<br>spell<br>car<br>innocent<br>satoshi
-bip_39_word_new_br_6: poet<br>spell<br>car<br>innocent<br>satoshi<br>divert
-bip_39_word_new_br_7: poet<br>spell<br>car<br>innocent<br>satoshi<br>divert<br>derive
-bip_39_word_new_br_8: poet<br>spell<br>car<br>innocent<br>satoshi<br>divert<br>derive<br>leave
-bip_39_word_new_br_9: poet<br>spell<br>car<br>innocent<br>satoshi<br>divert<br>derive<br>leave<br>chef
-bip_39_word_new_line_1: poet
-bip_39_word_new_line_10: 'poet
-
-  spell
-
-  car
-
-  innocent
-
-  satoshi
-
-  divert
-
-  derive
-
-  leave
-
-  chef
-
-  sick'
-bip_39_word_new_line_11: 'poet
-
-  spell
-
-  car
-
-  innocent
-
-  satoshi
-
-  divert
-
-  derive
-
-  leave
-
-  chef
-
-  sick
-
-  first'
 bip_39_word_new_line_12: 'poet
 
   spell
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'poet
   spell
 
   car'
-bip_39_word_new_line_4: 'poet
-
-  spell
-
-  car
-
-  innocent'
-bip_39_word_new_line_5: 'poet
-
-  spell
-
-  car
-
-  innocent
-
-  satoshi'
-bip_39_word_new_line_6: 'poet
-
-  spell
-
-  car
-
-  innocent
-
-  satoshi
-
-  divert'
-bip_39_word_new_line_7: 'poet
-
-  spell
-
-  car
-
-  innocent
-
-  satoshi
-
-  divert
-
-  derive'
-bip_39_word_new_line_8: 'poet
-
-  spell
-
-  car
-
-  innocent
-
-  satoshi
-
-  divert
-
-  derive
-
-  leave'
-bip_39_word_new_line_9: 'poet
-
-  spell
-
-  car
-
-  innocent
-
-  satoshi
-
-  divert
-
-  derive
-
-  leave
-
-  chef'
-bip_39_word_no_space_1: poet
-bip_39_word_no_space_10: poetspellcarinnocentsatoshidivertderiveleavechefsick
-bip_39_word_no_space_11: poetspellcarinnocentsatoshidivertderiveleavechefsickfirst
 bip_39_word_no_space_12: poetspellcarinnocentsatoshidivertderiveleavechefsickfirstamount
 bip_39_word_no_space_2: poetspell
 bip_39_word_no_space_3: poetspellcar
-bip_39_word_no_space_4: poetspellcarinnocent
-bip_39_word_no_space_5: poetspellcarinnocentsatoshi
-bip_39_word_no_space_6: poetspellcarinnocentsatoshidivert
-bip_39_word_no_space_7: poetspellcarinnocentsatoshidivertderive
-bip_39_word_no_space_8: poetspellcarinnocentsatoshidivertderiveleave
-bip_39_word_no_space_9: poetspellcarinnocentsatoshidivertderiveleavechef
-bip_39_word_space_0:
-- poet
-- spell
-- car
-- innocent
-- satoshi
-- divert
-- derive
-- leave
-- chef
-- sick
-- first
-- amount
-bip_39_word_space_1: poet
-bip_39_word_space_10: poet spell car innocent satoshi divert derive leave chef sick
-bip_39_word_space_11: poet spell car innocent satoshi divert derive leave chef sick
-  first
 bip_39_word_space_12: poet spell car innocent satoshi divert derive leave chef sick
   first amount
 bip_39_word_space_2: poet spell
 bip_39_word_space_3: poet spell car
-bip_39_word_space_4: poet spell car innocent
-bip_39_word_space_5: poet spell car innocent satoshi
-bip_39_word_space_6: poet spell car innocent satoshi divert
-bip_39_word_space_7: poet spell car innocent satoshi divert derive
-bip_39_word_space_8: poet spell car innocent satoshi divert derive leave
-bip_39_word_space_9: poet spell car innocent satoshi divert derive leave chef
-bip_39_word_underscore_1: poet
-bip_39_word_underscore_10: poet_spell_car_innocent_satoshi_divert_derive_leave_chef_sick
-bip_39_word_underscore_11: poet_spell_car_innocent_satoshi_divert_derive_leave_chef_sick_first
 bip_39_word_underscore_12: poet_spell_car_innocent_satoshi_divert_derive_leave_chef_sick_first_amount
 bip_39_word_underscore_2: poet_spell
 bip_39_word_underscore_3: poet_spell_car
-bip_39_word_underscore_4: poet_spell_car_innocent
-bip_39_word_underscore_5: poet_spell_car_innocent_satoshi
-bip_39_word_underscore_6: poet_spell_car_innocent_satoshi_divert
-bip_39_word_underscore_7: poet_spell_car_innocent_satoshi_divert_derive
-bip_39_word_underscore_8: poet_spell_car_innocent_satoshi_divert_derive_leave
-bip_39_word_underscore_9: poet_spell_car_innocent_satoshi_divert_derive_leave_chef
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

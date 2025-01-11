@@ -1,68 +1,9 @@
-bip_39_word_dash_1: unit
-bip_39_word_dash_10: unit-room-other-great-neutral-artwork-safe-catch-boat-midnight
-bip_39_word_dash_11: unit-room-other-great-neutral-artwork-safe-catch-boat-midnight-always
 bip_39_word_dash_12: unit-room-other-great-neutral-artwork-safe-catch-boat-midnight-always-air
 bip_39_word_dash_2: unit-room
 bip_39_word_dash_3: unit-room-other
-bip_39_word_dash_4: unit-room-other-great
-bip_39_word_dash_5: unit-room-other-great-neutral
-bip_39_word_dash_6: unit-room-other-great-neutral-artwork
-bip_39_word_dash_7: unit-room-other-great-neutral-artwork-safe
-bip_39_word_dash_8: unit-room-other-great-neutral-artwork-safe-catch
-bip_39_word_dash_9: unit-room-other-great-neutral-artwork-safe-catch-boat
-bip_39_word_new_br_1: unit
-bip_39_word_new_br_10: unit<br>room<br>other<br>great<br>neutral<br>artwork<br>safe<br>catch<br>boat<br>midnight
-bip_39_word_new_br_11: unit<br>room<br>other<br>great<br>neutral<br>artwork<br>safe<br>catch<br>boat<br>midnight<br>always
 bip_39_word_new_br_12: unit<br>room<br>other<br>great<br>neutral<br>artwork<br>safe<br>catch<br>boat<br>midnight<br>always<br>air
 bip_39_word_new_br_2: unit<br>room
 bip_39_word_new_br_3: unit<br>room<br>other
-bip_39_word_new_br_4: unit<br>room<br>other<br>great
-bip_39_word_new_br_5: unit<br>room<br>other<br>great<br>neutral
-bip_39_word_new_br_6: unit<br>room<br>other<br>great<br>neutral<br>artwork
-bip_39_word_new_br_7: unit<br>room<br>other<br>great<br>neutral<br>artwork<br>safe
-bip_39_word_new_br_8: unit<br>room<br>other<br>great<br>neutral<br>artwork<br>safe<br>catch
-bip_39_word_new_br_9: unit<br>room<br>other<br>great<br>neutral<br>artwork<br>safe<br>catch<br>boat
-bip_39_word_new_line_1: unit
-bip_39_word_new_line_10: 'unit
-
-  room
-
-  other
-
-  great
-
-  neutral
-
-  artwork
-
-  safe
-
-  catch
-
-  boat
-
-  midnight'
-bip_39_word_new_line_11: 'unit
-
-  room
-
-  other
-
-  great
-
-  neutral
-
-  artwork
-
-  safe
-
-  catch
-
-  boat
-
-  midnight
-
-  always'
 bip_39_word_new_line_12: 'unit
 
   room
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'unit
   room
 
   other'
-bip_39_word_new_line_4: 'unit
-
-  room
-
-  other
-
-  great'
-bip_39_word_new_line_5: 'unit
-
-  room
-
-  other
-
-  great
-
-  neutral'
-bip_39_word_new_line_6: 'unit
-
-  room
-
-  other
-
-  great
-
-  neutral
-
-  artwork'
-bip_39_word_new_line_7: 'unit
-
-  room
-
-  other
-
-  great
-
-  neutral
-
-  artwork
-
-  safe'
-bip_39_word_new_line_8: 'unit
-
-  room
-
-  other
-
-  great
-
-  neutral
-
-  artwork
-
-  safe
-
-  catch'
-bip_39_word_new_line_9: 'unit
-
-  room
-
-  other
-
-  great
-
-  neutral
-
-  artwork
-
-  safe
-
-  catch
-
-  boat'
-bip_39_word_no_space_1: unit
-bip_39_word_no_space_10: unitroomothergreatneutralartworksafecatchboatmidnight
-bip_39_word_no_space_11: unitroomothergreatneutralartworksafecatchboatmidnightalways
 bip_39_word_no_space_12: unitroomothergreatneutralartworksafecatchboatmidnightalwaysair
 bip_39_word_no_space_2: unitroom
 bip_39_word_no_space_3: unitroomother
-bip_39_word_no_space_4: unitroomothergreat
-bip_39_word_no_space_5: unitroomothergreatneutral
-bip_39_word_no_space_6: unitroomothergreatneutralartwork
-bip_39_word_no_space_7: unitroomothergreatneutralartworksafe
-bip_39_word_no_space_8: unitroomothergreatneutralartworksafecatch
-bip_39_word_no_space_9: unitroomothergreatneutralartworksafecatchboat
-bip_39_word_space_0:
-- unit
-- room
-- other
-- great
-- neutral
-- artwork
-- safe
-- catch
-- boat
-- midnight
-- always
-- air
-bip_39_word_space_1: unit
-bip_39_word_space_10: unit room other great neutral artwork safe catch boat midnight
-bip_39_word_space_11: unit room other great neutral artwork safe catch boat midnight
-  always
 bip_39_word_space_12: unit room other great neutral artwork safe catch boat midnight
   always air
 bip_39_word_space_2: unit room
 bip_39_word_space_3: unit room other
-bip_39_word_space_4: unit room other great
-bip_39_word_space_5: unit room other great neutral
-bip_39_word_space_6: unit room other great neutral artwork
-bip_39_word_space_7: unit room other great neutral artwork safe
-bip_39_word_space_8: unit room other great neutral artwork safe catch
-bip_39_word_space_9: unit room other great neutral artwork safe catch boat
-bip_39_word_underscore_1: unit
-bip_39_word_underscore_10: unit_room_other_great_neutral_artwork_safe_catch_boat_midnight
-bip_39_word_underscore_11: unit_room_other_great_neutral_artwork_safe_catch_boat_midnight_always
 bip_39_word_underscore_12: unit_room_other_great_neutral_artwork_safe_catch_boat_midnight_always_air
 bip_39_word_underscore_2: unit_room
 bip_39_word_underscore_3: unit_room_other
-bip_39_word_underscore_4: unit_room_other_great
-bip_39_word_underscore_5: unit_room_other_great_neutral
-bip_39_word_underscore_6: unit_room_other_great_neutral_artwork
-bip_39_word_underscore_7: unit_room_other_great_neutral_artwork_safe
-bip_39_word_underscore_8: unit_room_other_great_neutral_artwork_safe_catch
-bip_39_word_underscore_9: unit_room_other_great_neutral_artwork_safe_catch_boat
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

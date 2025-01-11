@@ -1,68 +1,9 @@
-bip_39_word_dash_1: direct
-bip_39_word_dash_10: direct-sustain-always-one-length-reform-found-broccoli-doctor-code
-bip_39_word_dash_11: direct-sustain-always-one-length-reform-found-broccoli-doctor-code-jelly
 bip_39_word_dash_12: direct-sustain-always-one-length-reform-found-broccoli-doctor-code-jelly-ability
 bip_39_word_dash_2: direct-sustain
 bip_39_word_dash_3: direct-sustain-always
-bip_39_word_dash_4: direct-sustain-always-one
-bip_39_word_dash_5: direct-sustain-always-one-length
-bip_39_word_dash_6: direct-sustain-always-one-length-reform
-bip_39_word_dash_7: direct-sustain-always-one-length-reform-found
-bip_39_word_dash_8: direct-sustain-always-one-length-reform-found-broccoli
-bip_39_word_dash_9: direct-sustain-always-one-length-reform-found-broccoli-doctor
-bip_39_word_new_br_1: direct
-bip_39_word_new_br_10: direct<br>sustain<br>always<br>one<br>length<br>reform<br>found<br>broccoli<br>doctor<br>code
-bip_39_word_new_br_11: direct<br>sustain<br>always<br>one<br>length<br>reform<br>found<br>broccoli<br>doctor<br>code<br>jelly
 bip_39_word_new_br_12: direct<br>sustain<br>always<br>one<br>length<br>reform<br>found<br>broccoli<br>doctor<br>code<br>jelly<br>ability
 bip_39_word_new_br_2: direct<br>sustain
 bip_39_word_new_br_3: direct<br>sustain<br>always
-bip_39_word_new_br_4: direct<br>sustain<br>always<br>one
-bip_39_word_new_br_5: direct<br>sustain<br>always<br>one<br>length
-bip_39_word_new_br_6: direct<br>sustain<br>always<br>one<br>length<br>reform
-bip_39_word_new_br_7: direct<br>sustain<br>always<br>one<br>length<br>reform<br>found
-bip_39_word_new_br_8: direct<br>sustain<br>always<br>one<br>length<br>reform<br>found<br>broccoli
-bip_39_word_new_br_9: direct<br>sustain<br>always<br>one<br>length<br>reform<br>found<br>broccoli<br>doctor
-bip_39_word_new_line_1: direct
-bip_39_word_new_line_10: 'direct
-
-  sustain
-
-  always
-
-  one
-
-  length
-
-  reform
-
-  found
-
-  broccoli
-
-  doctor
-
-  code'
-bip_39_word_new_line_11: 'direct
-
-  sustain
-
-  always
-
-  one
-
-  length
-
-  reform
-
-  found
-
-  broccoli
-
-  doctor
-
-  code
-
-  jelly'
 bip_39_word_new_line_12: 'direct
 
   sustain
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'direct
   sustain
 
   always'
-bip_39_word_new_line_4: 'direct
-
-  sustain
-
-  always
-
-  one'
-bip_39_word_new_line_5: 'direct
-
-  sustain
-
-  always
-
-  one
-
-  length'
-bip_39_word_new_line_6: 'direct
-
-  sustain
-
-  always
-
-  one
-
-  length
-
-  reform'
-bip_39_word_new_line_7: 'direct
-
-  sustain
-
-  always
-
-  one
-
-  length
-
-  reform
-
-  found'
-bip_39_word_new_line_8: 'direct
-
-  sustain
-
-  always
-
-  one
-
-  length
-
-  reform
-
-  found
-
-  broccoli'
-bip_39_word_new_line_9: 'direct
-
-  sustain
-
-  always
-
-  one
-
-  length
-
-  reform
-
-  found
-
-  broccoli
-
-  doctor'
-bip_39_word_no_space_1: direct
-bip_39_word_no_space_10: directsustainalwaysonelengthreformfoundbroccolidoctorcode
-bip_39_word_no_space_11: directsustainalwaysonelengthreformfoundbroccolidoctorcodejelly
 bip_39_word_no_space_12: directsustainalwaysonelengthreformfoundbroccolidoctorcodejellyability
 bip_39_word_no_space_2: directsustain
 bip_39_word_no_space_3: directsustainalways
-bip_39_word_no_space_4: directsustainalwaysone
-bip_39_word_no_space_5: directsustainalwaysonelength
-bip_39_word_no_space_6: directsustainalwaysonelengthreform
-bip_39_word_no_space_7: directsustainalwaysonelengthreformfound
-bip_39_word_no_space_8: directsustainalwaysonelengthreformfoundbroccoli
-bip_39_word_no_space_9: directsustainalwaysonelengthreformfoundbroccolidoctor
-bip_39_word_space_0:
-- direct
-- sustain
-- always
-- one
-- length
-- reform
-- found
-- broccoli
-- doctor
-- code
-- jelly
-- ability
-bip_39_word_space_1: direct
-bip_39_word_space_10: direct sustain always one length reform found broccoli doctor
-  code
-bip_39_word_space_11: direct sustain always one length reform found broccoli doctor
-  code jelly
 bip_39_word_space_12: direct sustain always one length reform found broccoli doctor
   code jelly ability
 bip_39_word_space_2: direct sustain
 bip_39_word_space_3: direct sustain always
-bip_39_word_space_4: direct sustain always one
-bip_39_word_space_5: direct sustain always one length
-bip_39_word_space_6: direct sustain always one length reform
-bip_39_word_space_7: direct sustain always one length reform found
-bip_39_word_space_8: direct sustain always one length reform found broccoli
-bip_39_word_space_9: direct sustain always one length reform found broccoli doctor
-bip_39_word_underscore_1: direct
-bip_39_word_underscore_10: direct_sustain_always_one_length_reform_found_broccoli_doctor_code
-bip_39_word_underscore_11: direct_sustain_always_one_length_reform_found_broccoli_doctor_code_jelly
 bip_39_word_underscore_12: direct_sustain_always_one_length_reform_found_broccoli_doctor_code_jelly_ability
 bip_39_word_underscore_2: direct_sustain
 bip_39_word_underscore_3: direct_sustain_always
-bip_39_word_underscore_4: direct_sustain_always_one
-bip_39_word_underscore_5: direct_sustain_always_one_length
-bip_39_word_underscore_6: direct_sustain_always_one_length_reform
-bip_39_word_underscore_7: direct_sustain_always_one_length_reform_found
-bip_39_word_underscore_8: direct_sustain_always_one_length_reform_found_broccoli
-bip_39_word_underscore_9: direct_sustain_always_one_length_reform_found_broccoli_doctor
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

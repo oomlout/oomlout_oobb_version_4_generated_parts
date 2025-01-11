@@ -1,68 +1,9 @@
-bip_39_word_dash_1: uniform
-bip_39_word_dash_10: uniform-clown-sketch-upper-pond-trust-common-chimney-urge-exit
-bip_39_word_dash_11: uniform-clown-sketch-upper-pond-trust-common-chimney-urge-exit-idea
 bip_39_word_dash_12: uniform-clown-sketch-upper-pond-trust-common-chimney-urge-exit-idea-almost
 bip_39_word_dash_2: uniform-clown
 bip_39_word_dash_3: uniform-clown-sketch
-bip_39_word_dash_4: uniform-clown-sketch-upper
-bip_39_word_dash_5: uniform-clown-sketch-upper-pond
-bip_39_word_dash_6: uniform-clown-sketch-upper-pond-trust
-bip_39_word_dash_7: uniform-clown-sketch-upper-pond-trust-common
-bip_39_word_dash_8: uniform-clown-sketch-upper-pond-trust-common-chimney
-bip_39_word_dash_9: uniform-clown-sketch-upper-pond-trust-common-chimney-urge
-bip_39_word_new_br_1: uniform
-bip_39_word_new_br_10: uniform<br>clown<br>sketch<br>upper<br>pond<br>trust<br>common<br>chimney<br>urge<br>exit
-bip_39_word_new_br_11: uniform<br>clown<br>sketch<br>upper<br>pond<br>trust<br>common<br>chimney<br>urge<br>exit<br>idea
 bip_39_word_new_br_12: uniform<br>clown<br>sketch<br>upper<br>pond<br>trust<br>common<br>chimney<br>urge<br>exit<br>idea<br>almost
 bip_39_word_new_br_2: uniform<br>clown
 bip_39_word_new_br_3: uniform<br>clown<br>sketch
-bip_39_word_new_br_4: uniform<br>clown<br>sketch<br>upper
-bip_39_word_new_br_5: uniform<br>clown<br>sketch<br>upper<br>pond
-bip_39_word_new_br_6: uniform<br>clown<br>sketch<br>upper<br>pond<br>trust
-bip_39_word_new_br_7: uniform<br>clown<br>sketch<br>upper<br>pond<br>trust<br>common
-bip_39_word_new_br_8: uniform<br>clown<br>sketch<br>upper<br>pond<br>trust<br>common<br>chimney
-bip_39_word_new_br_9: uniform<br>clown<br>sketch<br>upper<br>pond<br>trust<br>common<br>chimney<br>urge
-bip_39_word_new_line_1: uniform
-bip_39_word_new_line_10: 'uniform
-
-  clown
-
-  sketch
-
-  upper
-
-  pond
-
-  trust
-
-  common
-
-  chimney
-
-  urge
-
-  exit'
-bip_39_word_new_line_11: 'uniform
-
-  clown
-
-  sketch
-
-  upper
-
-  pond
-
-  trust
-
-  common
-
-  chimney
-
-  urge
-
-  exit
-
-  idea'
 bip_39_word_new_line_12: 'uniform
 
   clown
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'uniform
   clown
 
   sketch'
-bip_39_word_new_line_4: 'uniform
-
-  clown
-
-  sketch
-
-  upper'
-bip_39_word_new_line_5: 'uniform
-
-  clown
-
-  sketch
-
-  upper
-
-  pond'
-bip_39_word_new_line_6: 'uniform
-
-  clown
-
-  sketch
-
-  upper
-
-  pond
-
-  trust'
-bip_39_word_new_line_7: 'uniform
-
-  clown
-
-  sketch
-
-  upper
-
-  pond
-
-  trust
-
-  common'
-bip_39_word_new_line_8: 'uniform
-
-  clown
-
-  sketch
-
-  upper
-
-  pond
-
-  trust
-
-  common
-
-  chimney'
-bip_39_word_new_line_9: 'uniform
-
-  clown
-
-  sketch
-
-  upper
-
-  pond
-
-  trust
-
-  common
-
-  chimney
-
-  urge'
-bip_39_word_no_space_1: uniform
-bip_39_word_no_space_10: uniformclownsketchupperpondtrustcommonchimneyurgeexit
-bip_39_word_no_space_11: uniformclownsketchupperpondtrustcommonchimneyurgeexitidea
 bip_39_word_no_space_12: uniformclownsketchupperpondtrustcommonchimneyurgeexitideaalmost
 bip_39_word_no_space_2: uniformclown
 bip_39_word_no_space_3: uniformclownsketch
-bip_39_word_no_space_4: uniformclownsketchupper
-bip_39_word_no_space_5: uniformclownsketchupperpond
-bip_39_word_no_space_6: uniformclownsketchupperpondtrust
-bip_39_word_no_space_7: uniformclownsketchupperpondtrustcommon
-bip_39_word_no_space_8: uniformclownsketchupperpondtrustcommonchimney
-bip_39_word_no_space_9: uniformclownsketchupperpondtrustcommonchimneyurge
-bip_39_word_space_0:
-- uniform
-- clown
-- sketch
-- upper
-- pond
-- trust
-- common
-- chimney
-- urge
-- exit
-- idea
-- almost
-bip_39_word_space_1: uniform
-bip_39_word_space_10: uniform clown sketch upper pond trust common chimney urge exit
-bip_39_word_space_11: uniform clown sketch upper pond trust common chimney urge exit
-  idea
 bip_39_word_space_12: uniform clown sketch upper pond trust common chimney urge exit
   idea almost
 bip_39_word_space_2: uniform clown
 bip_39_word_space_3: uniform clown sketch
-bip_39_word_space_4: uniform clown sketch upper
-bip_39_word_space_5: uniform clown sketch upper pond
-bip_39_word_space_6: uniform clown sketch upper pond trust
-bip_39_word_space_7: uniform clown sketch upper pond trust common
-bip_39_word_space_8: uniform clown sketch upper pond trust common chimney
-bip_39_word_space_9: uniform clown sketch upper pond trust common chimney urge
-bip_39_word_underscore_1: uniform
-bip_39_word_underscore_10: uniform_clown_sketch_upper_pond_trust_common_chimney_urge_exit
-bip_39_word_underscore_11: uniform_clown_sketch_upper_pond_trust_common_chimney_urge_exit_idea
 bip_39_word_underscore_12: uniform_clown_sketch_upper_pond_trust_common_chimney_urge_exit_idea_almost
 bip_39_word_underscore_2: uniform_clown
 bip_39_word_underscore_3: uniform_clown_sketch
-bip_39_word_underscore_4: uniform_clown_sketch_upper
-bip_39_word_underscore_5: uniform_clown_sketch_upper_pond
-bip_39_word_underscore_6: uniform_clown_sketch_upper_pond_trust
-bip_39_word_underscore_7: uniform_clown_sketch_upper_pond_trust_common
-bip_39_word_underscore_8: uniform_clown_sketch_upper_pond_trust_common_chimney
-bip_39_word_underscore_9: uniform_clown_sketch_upper_pond_trust_common_chimney_urge
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

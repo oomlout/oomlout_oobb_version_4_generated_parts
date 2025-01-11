@@ -1,68 +1,9 @@
-bip_39_word_dash_1: priority
-bip_39_word_dash_10: priority-floor-flight-food-multiply-opinion-drastic-velvet-book-neck
-bip_39_word_dash_11: priority-floor-flight-food-multiply-opinion-drastic-velvet-book-neck-dawn
 bip_39_word_dash_12: priority-floor-flight-food-multiply-opinion-drastic-velvet-book-neck-dawn-artist
 bip_39_word_dash_2: priority-floor
 bip_39_word_dash_3: priority-floor-flight
-bip_39_word_dash_4: priority-floor-flight-food
-bip_39_word_dash_5: priority-floor-flight-food-multiply
-bip_39_word_dash_6: priority-floor-flight-food-multiply-opinion
-bip_39_word_dash_7: priority-floor-flight-food-multiply-opinion-drastic
-bip_39_word_dash_8: priority-floor-flight-food-multiply-opinion-drastic-velvet
-bip_39_word_dash_9: priority-floor-flight-food-multiply-opinion-drastic-velvet-book
-bip_39_word_new_br_1: priority
-bip_39_word_new_br_10: priority<br>floor<br>flight<br>food<br>multiply<br>opinion<br>drastic<br>velvet<br>book<br>neck
-bip_39_word_new_br_11: priority<br>floor<br>flight<br>food<br>multiply<br>opinion<br>drastic<br>velvet<br>book<br>neck<br>dawn
 bip_39_word_new_br_12: priority<br>floor<br>flight<br>food<br>multiply<br>opinion<br>drastic<br>velvet<br>book<br>neck<br>dawn<br>artist
 bip_39_word_new_br_2: priority<br>floor
 bip_39_word_new_br_3: priority<br>floor<br>flight
-bip_39_word_new_br_4: priority<br>floor<br>flight<br>food
-bip_39_word_new_br_5: priority<br>floor<br>flight<br>food<br>multiply
-bip_39_word_new_br_6: priority<br>floor<br>flight<br>food<br>multiply<br>opinion
-bip_39_word_new_br_7: priority<br>floor<br>flight<br>food<br>multiply<br>opinion<br>drastic
-bip_39_word_new_br_8: priority<br>floor<br>flight<br>food<br>multiply<br>opinion<br>drastic<br>velvet
-bip_39_word_new_br_9: priority<br>floor<br>flight<br>food<br>multiply<br>opinion<br>drastic<br>velvet<br>book
-bip_39_word_new_line_1: priority
-bip_39_word_new_line_10: 'priority
-
-  floor
-
-  flight
-
-  food
-
-  multiply
-
-  opinion
-
-  drastic
-
-  velvet
-
-  book
-
-  neck'
-bip_39_word_new_line_11: 'priority
-
-  floor
-
-  flight
-
-  food
-
-  multiply
-
-  opinion
-
-  drastic
-
-  velvet
-
-  book
-
-  neck
-
-  dawn'
 bip_39_word_new_line_12: 'priority
 
   floor
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'priority
   floor
 
   flight'
-bip_39_word_new_line_4: 'priority
-
-  floor
-
-  flight
-
-  food'
-bip_39_word_new_line_5: 'priority
-
-  floor
-
-  flight
-
-  food
-
-  multiply'
-bip_39_word_new_line_6: 'priority
-
-  floor
-
-  flight
-
-  food
-
-  multiply
-
-  opinion'
-bip_39_word_new_line_7: 'priority
-
-  floor
-
-  flight
-
-  food
-
-  multiply
-
-  opinion
-
-  drastic'
-bip_39_word_new_line_8: 'priority
-
-  floor
-
-  flight
-
-  food
-
-  multiply
-
-  opinion
-
-  drastic
-
-  velvet'
-bip_39_word_new_line_9: 'priority
-
-  floor
-
-  flight
-
-  food
-
-  multiply
-
-  opinion
-
-  drastic
-
-  velvet
-
-  book'
-bip_39_word_no_space_1: priority
-bip_39_word_no_space_10: priorityfloorflightfoodmultiplyopiniondrasticvelvetbookneck
-bip_39_word_no_space_11: priorityfloorflightfoodmultiplyopiniondrasticvelvetbookneckdawn
 bip_39_word_no_space_12: priorityfloorflightfoodmultiplyopiniondrasticvelvetbookneckdawnartist
 bip_39_word_no_space_2: priorityfloor
 bip_39_word_no_space_3: priorityfloorflight
-bip_39_word_no_space_4: priorityfloorflightfood
-bip_39_word_no_space_5: priorityfloorflightfoodmultiply
-bip_39_word_no_space_6: priorityfloorflightfoodmultiplyopinion
-bip_39_word_no_space_7: priorityfloorflightfoodmultiplyopiniondrastic
-bip_39_word_no_space_8: priorityfloorflightfoodmultiplyopiniondrasticvelvet
-bip_39_word_no_space_9: priorityfloorflightfoodmultiplyopiniondrasticvelvetbook
-bip_39_word_space_0:
-- priority
-- floor
-- flight
-- food
-- multiply
-- opinion
-- drastic
-- velvet
-- book
-- neck
-- dawn
-- artist
-bip_39_word_space_1: priority
-bip_39_word_space_10: priority floor flight food multiply opinion drastic velvet book
-  neck
-bip_39_word_space_11: priority floor flight food multiply opinion drastic velvet book
-  neck dawn
 bip_39_word_space_12: priority floor flight food multiply opinion drastic velvet book
   neck dawn artist
 bip_39_word_space_2: priority floor
 bip_39_word_space_3: priority floor flight
-bip_39_word_space_4: priority floor flight food
-bip_39_word_space_5: priority floor flight food multiply
-bip_39_word_space_6: priority floor flight food multiply opinion
-bip_39_word_space_7: priority floor flight food multiply opinion drastic
-bip_39_word_space_8: priority floor flight food multiply opinion drastic velvet
-bip_39_word_space_9: priority floor flight food multiply opinion drastic velvet book
-bip_39_word_underscore_1: priority
-bip_39_word_underscore_10: priority_floor_flight_food_multiply_opinion_drastic_velvet_book_neck
-bip_39_word_underscore_11: priority_floor_flight_food_multiply_opinion_drastic_velvet_book_neck_dawn
 bip_39_word_underscore_12: priority_floor_flight_food_multiply_opinion_drastic_velvet_book_neck_dawn_artist
 bip_39_word_underscore_2: priority_floor
 bip_39_word_underscore_3: priority_floor_flight
-bip_39_word_underscore_4: priority_floor_flight_food
-bip_39_word_underscore_5: priority_floor_flight_food_multiply
-bip_39_word_underscore_6: priority_floor_flight_food_multiply_opinion
-bip_39_word_underscore_7: priority_floor_flight_food_multiply_opinion_drastic
-bip_39_word_underscore_8: priority_floor_flight_food_multiply_opinion_drastic_velvet
-bip_39_word_underscore_9: priority_floor_flight_food_multiply_opinion_drastic_velvet_book
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

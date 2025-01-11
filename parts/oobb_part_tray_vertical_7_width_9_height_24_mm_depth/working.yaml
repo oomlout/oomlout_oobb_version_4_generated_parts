@@ -1,68 +1,9 @@
-bip_39_word_dash_1: fee
-bip_39_word_dash_10: fee-trigger-laundry-decorate-act-wagon-pool-remove-diary-oxygen
-bip_39_word_dash_11: fee-trigger-laundry-decorate-act-wagon-pool-remove-diary-oxygen-unlock
 bip_39_word_dash_12: fee-trigger-laundry-decorate-act-wagon-pool-remove-diary-oxygen-unlock-auto
 bip_39_word_dash_2: fee-trigger
 bip_39_word_dash_3: fee-trigger-laundry
-bip_39_word_dash_4: fee-trigger-laundry-decorate
-bip_39_word_dash_5: fee-trigger-laundry-decorate-act
-bip_39_word_dash_6: fee-trigger-laundry-decorate-act-wagon
-bip_39_word_dash_7: fee-trigger-laundry-decorate-act-wagon-pool
-bip_39_word_dash_8: fee-trigger-laundry-decorate-act-wagon-pool-remove
-bip_39_word_dash_9: fee-trigger-laundry-decorate-act-wagon-pool-remove-diary
-bip_39_word_new_br_1: fee
-bip_39_word_new_br_10: fee<br>trigger<br>laundry<br>decorate<br>act<br>wagon<br>pool<br>remove<br>diary<br>oxygen
-bip_39_word_new_br_11: fee<br>trigger<br>laundry<br>decorate<br>act<br>wagon<br>pool<br>remove<br>diary<br>oxygen<br>unlock
 bip_39_word_new_br_12: fee<br>trigger<br>laundry<br>decorate<br>act<br>wagon<br>pool<br>remove<br>diary<br>oxygen<br>unlock<br>auto
 bip_39_word_new_br_2: fee<br>trigger
 bip_39_word_new_br_3: fee<br>trigger<br>laundry
-bip_39_word_new_br_4: fee<br>trigger<br>laundry<br>decorate
-bip_39_word_new_br_5: fee<br>trigger<br>laundry<br>decorate<br>act
-bip_39_word_new_br_6: fee<br>trigger<br>laundry<br>decorate<br>act<br>wagon
-bip_39_word_new_br_7: fee<br>trigger<br>laundry<br>decorate<br>act<br>wagon<br>pool
-bip_39_word_new_br_8: fee<br>trigger<br>laundry<br>decorate<br>act<br>wagon<br>pool<br>remove
-bip_39_word_new_br_9: fee<br>trigger<br>laundry<br>decorate<br>act<br>wagon<br>pool<br>remove<br>diary
-bip_39_word_new_line_1: fee
-bip_39_word_new_line_10: 'fee
-
-  trigger
-
-  laundry
-
-  decorate
-
-  act
-
-  wagon
-
-  pool
-
-  remove
-
-  diary
-
-  oxygen'
-bip_39_word_new_line_11: 'fee
-
-  trigger
-
-  laundry
-
-  decorate
-
-  act
-
-  wagon
-
-  pool
-
-  remove
-
-  diary
-
-  oxygen
-
-  unlock'
 bip_39_word_new_line_12: 'fee
 
   trigger
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'fee
   trigger
 
   laundry'
-bip_39_word_new_line_4: 'fee
-
-  trigger
-
-  laundry
-
-  decorate'
-bip_39_word_new_line_5: 'fee
-
-  trigger
-
-  laundry
-
-  decorate
-
-  act'
-bip_39_word_new_line_6: 'fee
-
-  trigger
-
-  laundry
-
-  decorate
-
-  act
-
-  wagon'
-bip_39_word_new_line_7: 'fee
-
-  trigger
-
-  laundry
-
-  decorate
-
-  act
-
-  wagon
-
-  pool'
-bip_39_word_new_line_8: 'fee
-
-  trigger
-
-  laundry
-
-  decorate
-
-  act
-
-  wagon
-
-  pool
-
-  remove'
-bip_39_word_new_line_9: 'fee
-
-  trigger
-
-  laundry
-
-  decorate
-
-  act
-
-  wagon
-
-  pool
-
-  remove
-
-  diary'
-bip_39_word_no_space_1: fee
-bip_39_word_no_space_10: feetriggerlaundrydecorateactwagonpoolremovediaryoxygen
-bip_39_word_no_space_11: feetriggerlaundrydecorateactwagonpoolremovediaryoxygenunlock
 bip_39_word_no_space_12: feetriggerlaundrydecorateactwagonpoolremovediaryoxygenunlockauto
 bip_39_word_no_space_2: feetrigger
 bip_39_word_no_space_3: feetriggerlaundry
-bip_39_word_no_space_4: feetriggerlaundrydecorate
-bip_39_word_no_space_5: feetriggerlaundrydecorateact
-bip_39_word_no_space_6: feetriggerlaundrydecorateactwagon
-bip_39_word_no_space_7: feetriggerlaundrydecorateactwagonpool
-bip_39_word_no_space_8: feetriggerlaundrydecorateactwagonpoolremove
-bip_39_word_no_space_9: feetriggerlaundrydecorateactwagonpoolremovediary
-bip_39_word_space_0:
-- fee
-- trigger
-- laundry
-- decorate
-- act
-- wagon
-- pool
-- remove
-- diary
-- oxygen
-- unlock
-- auto
-bip_39_word_space_1: fee
-bip_39_word_space_10: fee trigger laundry decorate act wagon pool remove diary oxygen
-bip_39_word_space_11: fee trigger laundry decorate act wagon pool remove diary oxygen
-  unlock
 bip_39_word_space_12: fee trigger laundry decorate act wagon pool remove diary oxygen
   unlock auto
 bip_39_word_space_2: fee trigger
 bip_39_word_space_3: fee trigger laundry
-bip_39_word_space_4: fee trigger laundry decorate
-bip_39_word_space_5: fee trigger laundry decorate act
-bip_39_word_space_6: fee trigger laundry decorate act wagon
-bip_39_word_space_7: fee trigger laundry decorate act wagon pool
-bip_39_word_space_8: fee trigger laundry decorate act wagon pool remove
-bip_39_word_space_9: fee trigger laundry decorate act wagon pool remove diary
-bip_39_word_underscore_1: fee
-bip_39_word_underscore_10: fee_trigger_laundry_decorate_act_wagon_pool_remove_diary_oxygen
-bip_39_word_underscore_11: fee_trigger_laundry_decorate_act_wagon_pool_remove_diary_oxygen_unlock
 bip_39_word_underscore_12: fee_trigger_laundry_decorate_act_wagon_pool_remove_diary_oxygen_unlock_auto
 bip_39_word_underscore_2: fee_trigger
 bip_39_word_underscore_3: fee_trigger_laundry
-bip_39_word_underscore_4: fee_trigger_laundry_decorate
-bip_39_word_underscore_5: fee_trigger_laundry_decorate_act
-bip_39_word_underscore_6: fee_trigger_laundry_decorate_act_wagon
-bip_39_word_underscore_7: fee_trigger_laundry_decorate_act_wagon_pool
-bip_39_word_underscore_8: fee_trigger_laundry_decorate_act_wagon_pool_remove
-bip_39_word_underscore_9: fee_trigger_laundry_decorate_act_wagon_pool_remove_diary
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

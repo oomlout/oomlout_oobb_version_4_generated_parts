@@ -1,68 +1,9 @@
-bip_39_word_dash_1: wealth
-bip_39_word_dash_10: wealth-stool-know-peasant-wish-bridge-surface-canyon-rocket-century
-bip_39_word_dash_11: wealth-stool-know-peasant-wish-bridge-surface-canyon-rocket-century-demand
 bip_39_word_dash_12: wealth-stool-know-peasant-wish-bridge-surface-canyon-rocket-century-demand-access
 bip_39_word_dash_2: wealth-stool
 bip_39_word_dash_3: wealth-stool-know
-bip_39_word_dash_4: wealth-stool-know-peasant
-bip_39_word_dash_5: wealth-stool-know-peasant-wish
-bip_39_word_dash_6: wealth-stool-know-peasant-wish-bridge
-bip_39_word_dash_7: wealth-stool-know-peasant-wish-bridge-surface
-bip_39_word_dash_8: wealth-stool-know-peasant-wish-bridge-surface-canyon
-bip_39_word_dash_9: wealth-stool-know-peasant-wish-bridge-surface-canyon-rocket
-bip_39_word_new_br_1: wealth
-bip_39_word_new_br_10: wealth<br>stool<br>know<br>peasant<br>wish<br>bridge<br>surface<br>canyon<br>rocket<br>century
-bip_39_word_new_br_11: wealth<br>stool<br>know<br>peasant<br>wish<br>bridge<br>surface<br>canyon<br>rocket<br>century<br>demand
 bip_39_word_new_br_12: wealth<br>stool<br>know<br>peasant<br>wish<br>bridge<br>surface<br>canyon<br>rocket<br>century<br>demand<br>access
 bip_39_word_new_br_2: wealth<br>stool
 bip_39_word_new_br_3: wealth<br>stool<br>know
-bip_39_word_new_br_4: wealth<br>stool<br>know<br>peasant
-bip_39_word_new_br_5: wealth<br>stool<br>know<br>peasant<br>wish
-bip_39_word_new_br_6: wealth<br>stool<br>know<br>peasant<br>wish<br>bridge
-bip_39_word_new_br_7: wealth<br>stool<br>know<br>peasant<br>wish<br>bridge<br>surface
-bip_39_word_new_br_8: wealth<br>stool<br>know<br>peasant<br>wish<br>bridge<br>surface<br>canyon
-bip_39_word_new_br_9: wealth<br>stool<br>know<br>peasant<br>wish<br>bridge<br>surface<br>canyon<br>rocket
-bip_39_word_new_line_1: wealth
-bip_39_word_new_line_10: 'wealth
-
-  stool
-
-  know
-
-  peasant
-
-  wish
-
-  bridge
-
-  surface
-
-  canyon
-
-  rocket
-
-  century'
-bip_39_word_new_line_11: 'wealth
-
-  stool
-
-  know
-
-  peasant
-
-  wish
-
-  bridge
-
-  surface
-
-  canyon
-
-  rocket
-
-  century
-
-  demand'
 bip_39_word_new_line_12: 'wealth
 
   stool
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'wealth
   stool
 
   know'
-bip_39_word_new_line_4: 'wealth
-
-  stool
-
-  know
-
-  peasant'
-bip_39_word_new_line_5: 'wealth
-
-  stool
-
-  know
-
-  peasant
-
-  wish'
-bip_39_word_new_line_6: 'wealth
-
-  stool
-
-  know
-
-  peasant
-
-  wish
-
-  bridge'
-bip_39_word_new_line_7: 'wealth
-
-  stool
-
-  know
-
-  peasant
-
-  wish
-
-  bridge
-
-  surface'
-bip_39_word_new_line_8: 'wealth
-
-  stool
-
-  know
-
-  peasant
-
-  wish
-
-  bridge
-
-  surface
-
-  canyon'
-bip_39_word_new_line_9: 'wealth
-
-  stool
-
-  know
-
-  peasant
-
-  wish
-
-  bridge
-
-  surface
-
-  canyon
-
-  rocket'
-bip_39_word_no_space_1: wealth
-bip_39_word_no_space_10: wealthstoolknowpeasantwishbridgesurfacecanyonrocketcentury
-bip_39_word_no_space_11: wealthstoolknowpeasantwishbridgesurfacecanyonrocketcenturydemand
 bip_39_word_no_space_12: wealthstoolknowpeasantwishbridgesurfacecanyonrocketcenturydemandaccess
 bip_39_word_no_space_2: wealthstool
 bip_39_word_no_space_3: wealthstoolknow
-bip_39_word_no_space_4: wealthstoolknowpeasant
-bip_39_word_no_space_5: wealthstoolknowpeasantwish
-bip_39_word_no_space_6: wealthstoolknowpeasantwishbridge
-bip_39_word_no_space_7: wealthstoolknowpeasantwishbridgesurface
-bip_39_word_no_space_8: wealthstoolknowpeasantwishbridgesurfacecanyon
-bip_39_word_no_space_9: wealthstoolknowpeasantwishbridgesurfacecanyonrocket
-bip_39_word_space_0:
-- wealth
-- stool
-- know
-- peasant
-- wish
-- bridge
-- surface
-- canyon
-- rocket
-- century
-- demand
-- access
-bip_39_word_space_1: wealth
-bip_39_word_space_10: wealth stool know peasant wish bridge surface canyon rocket
-  century
-bip_39_word_space_11: wealth stool know peasant wish bridge surface canyon rocket
-  century demand
 bip_39_word_space_12: wealth stool know peasant wish bridge surface canyon rocket
   century demand access
 bip_39_word_space_2: wealth stool
 bip_39_word_space_3: wealth stool know
-bip_39_word_space_4: wealth stool know peasant
-bip_39_word_space_5: wealth stool know peasant wish
-bip_39_word_space_6: wealth stool know peasant wish bridge
-bip_39_word_space_7: wealth stool know peasant wish bridge surface
-bip_39_word_space_8: wealth stool know peasant wish bridge surface canyon
-bip_39_word_space_9: wealth stool know peasant wish bridge surface canyon rocket
-bip_39_word_underscore_1: wealth
-bip_39_word_underscore_10: wealth_stool_know_peasant_wish_bridge_surface_canyon_rocket_century
-bip_39_word_underscore_11: wealth_stool_know_peasant_wish_bridge_surface_canyon_rocket_century_demand
 bip_39_word_underscore_12: wealth_stool_know_peasant_wish_bridge_surface_canyon_rocket_century_demand_access
 bip_39_word_underscore_2: wealth_stool
 bip_39_word_underscore_3: wealth_stool_know
-bip_39_word_underscore_4: wealth_stool_know_peasant
-bip_39_word_underscore_5: wealth_stool_know_peasant_wish
-bip_39_word_underscore_6: wealth_stool_know_peasant_wish_bridge
-bip_39_word_underscore_7: wealth_stool_know_peasant_wish_bridge_surface
-bip_39_word_underscore_8: wealth_stool_know_peasant_wish_bridge_surface_canyon
-bip_39_word_underscore_9: wealth_stool_know_peasant_wish_bridge_surface_canyon_rocket
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

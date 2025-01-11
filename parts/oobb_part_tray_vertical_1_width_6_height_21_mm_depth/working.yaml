@@ -1,68 +1,9 @@
-bip_39_word_dash_1: snack
-bip_39_word_dash_10: snack-flower-creek-half-chapter-kitten-palm-educate-embark-mad
-bip_39_word_dash_11: snack-flower-creek-half-chapter-kitten-palm-educate-embark-mad-siren
 bip_39_word_dash_12: snack-flower-creek-half-chapter-kitten-palm-educate-embark-mad-siren-advice
 bip_39_word_dash_2: snack-flower
 bip_39_word_dash_3: snack-flower-creek
-bip_39_word_dash_4: snack-flower-creek-half
-bip_39_word_dash_5: snack-flower-creek-half-chapter
-bip_39_word_dash_6: snack-flower-creek-half-chapter-kitten
-bip_39_word_dash_7: snack-flower-creek-half-chapter-kitten-palm
-bip_39_word_dash_8: snack-flower-creek-half-chapter-kitten-palm-educate
-bip_39_word_dash_9: snack-flower-creek-half-chapter-kitten-palm-educate-embark
-bip_39_word_new_br_1: snack
-bip_39_word_new_br_10: snack<br>flower<br>creek<br>half<br>chapter<br>kitten<br>palm<br>educate<br>embark<br>mad
-bip_39_word_new_br_11: snack<br>flower<br>creek<br>half<br>chapter<br>kitten<br>palm<br>educate<br>embark<br>mad<br>siren
 bip_39_word_new_br_12: snack<br>flower<br>creek<br>half<br>chapter<br>kitten<br>palm<br>educate<br>embark<br>mad<br>siren<br>advice
 bip_39_word_new_br_2: snack<br>flower
 bip_39_word_new_br_3: snack<br>flower<br>creek
-bip_39_word_new_br_4: snack<br>flower<br>creek<br>half
-bip_39_word_new_br_5: snack<br>flower<br>creek<br>half<br>chapter
-bip_39_word_new_br_6: snack<br>flower<br>creek<br>half<br>chapter<br>kitten
-bip_39_word_new_br_7: snack<br>flower<br>creek<br>half<br>chapter<br>kitten<br>palm
-bip_39_word_new_br_8: snack<br>flower<br>creek<br>half<br>chapter<br>kitten<br>palm<br>educate
-bip_39_word_new_br_9: snack<br>flower<br>creek<br>half<br>chapter<br>kitten<br>palm<br>educate<br>embark
-bip_39_word_new_line_1: snack
-bip_39_word_new_line_10: 'snack
-
-  flower
-
-  creek
-
-  half
-
-  chapter
-
-  kitten
-
-  palm
-
-  educate
-
-  embark
-
-  mad'
-bip_39_word_new_line_11: 'snack
-
-  flower
-
-  creek
-
-  half
-
-  chapter
-
-  kitten
-
-  palm
-
-  educate
-
-  embark
-
-  mad
-
-  siren'
 bip_39_word_new_line_12: 'snack
 
   flower
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'snack
   flower
 
   creek'
-bip_39_word_new_line_4: 'snack
-
-  flower
-
-  creek
-
-  half'
-bip_39_word_new_line_5: 'snack
-
-  flower
-
-  creek
-
-  half
-
-  chapter'
-bip_39_word_new_line_6: 'snack
-
-  flower
-
-  creek
-
-  half
-
-  chapter
-
-  kitten'
-bip_39_word_new_line_7: 'snack
-
-  flower
-
-  creek
-
-  half
-
-  chapter
-
-  kitten
-
-  palm'
-bip_39_word_new_line_8: 'snack
-
-  flower
-
-  creek
-
-  half
-
-  chapter
-
-  kitten
-
-  palm
-
-  educate'
-bip_39_word_new_line_9: 'snack
-
-  flower
-
-  creek
-
-  half
-
-  chapter
-
-  kitten
-
-  palm
-
-  educate
-
-  embark'
-bip_39_word_no_space_1: snack
-bip_39_word_no_space_10: snackflowercreekhalfchapterkittenpalmeducateembarkmad
-bip_39_word_no_space_11: snackflowercreekhalfchapterkittenpalmeducateembarkmadsiren
 bip_39_word_no_space_12: snackflowercreekhalfchapterkittenpalmeducateembarkmadsirenadvice
 bip_39_word_no_space_2: snackflower
 bip_39_word_no_space_3: snackflowercreek
-bip_39_word_no_space_4: snackflowercreekhalf
-bip_39_word_no_space_5: snackflowercreekhalfchapter
-bip_39_word_no_space_6: snackflowercreekhalfchapterkitten
-bip_39_word_no_space_7: snackflowercreekhalfchapterkittenpalm
-bip_39_word_no_space_8: snackflowercreekhalfchapterkittenpalmeducate
-bip_39_word_no_space_9: snackflowercreekhalfchapterkittenpalmeducateembark
-bip_39_word_space_0:
-- snack
-- flower
-- creek
-- half
-- chapter
-- kitten
-- palm
-- educate
-- embark
-- mad
-- siren
-- advice
-bip_39_word_space_1: snack
-bip_39_word_space_10: snack flower creek half chapter kitten palm educate embark mad
-bip_39_word_space_11: snack flower creek half chapter kitten palm educate embark mad
-  siren
 bip_39_word_space_12: snack flower creek half chapter kitten palm educate embark mad
   siren advice
 bip_39_word_space_2: snack flower
 bip_39_word_space_3: snack flower creek
-bip_39_word_space_4: snack flower creek half
-bip_39_word_space_5: snack flower creek half chapter
-bip_39_word_space_6: snack flower creek half chapter kitten
-bip_39_word_space_7: snack flower creek half chapter kitten palm
-bip_39_word_space_8: snack flower creek half chapter kitten palm educate
-bip_39_word_space_9: snack flower creek half chapter kitten palm educate embark
-bip_39_word_underscore_1: snack
-bip_39_word_underscore_10: snack_flower_creek_half_chapter_kitten_palm_educate_embark_mad
-bip_39_word_underscore_11: snack_flower_creek_half_chapter_kitten_palm_educate_embark_mad_siren
 bip_39_word_underscore_12: snack_flower_creek_half_chapter_kitten_palm_educate_embark_mad_siren_advice
 bip_39_word_underscore_2: snack_flower
 bip_39_word_underscore_3: snack_flower_creek
-bip_39_word_underscore_4: snack_flower_creek_half
-bip_39_word_underscore_5: snack_flower_creek_half_chapter
-bip_39_word_underscore_6: snack_flower_creek_half_chapter_kitten
-bip_39_word_underscore_7: snack_flower_creek_half_chapter_kitten_palm
-bip_39_word_underscore_8: snack_flower_creek_half_chapter_kitten_palm_educate
-bip_39_word_underscore_9: snack_flower_creek_half_chapter_kitten_palm_educate_embark
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

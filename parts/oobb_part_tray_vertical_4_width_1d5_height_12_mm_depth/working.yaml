@@ -1,68 +1,9 @@
-bip_39_word_dash_1: erosion
-bip_39_word_dash_10: erosion-empty-emotion-century-orphan-matrix-olive-river-daring-motion
-bip_39_word_dash_11: erosion-empty-emotion-century-orphan-matrix-olive-river-daring-motion-usual
 bip_39_word_dash_12: erosion-empty-emotion-century-orphan-matrix-olive-river-daring-motion-usual-apple
 bip_39_word_dash_2: erosion-empty
 bip_39_word_dash_3: erosion-empty-emotion
-bip_39_word_dash_4: erosion-empty-emotion-century
-bip_39_word_dash_5: erosion-empty-emotion-century-orphan
-bip_39_word_dash_6: erosion-empty-emotion-century-orphan-matrix
-bip_39_word_dash_7: erosion-empty-emotion-century-orphan-matrix-olive
-bip_39_word_dash_8: erosion-empty-emotion-century-orphan-matrix-olive-river
-bip_39_word_dash_9: erosion-empty-emotion-century-orphan-matrix-olive-river-daring
-bip_39_word_new_br_1: erosion
-bip_39_word_new_br_10: erosion<br>empty<br>emotion<br>century<br>orphan<br>matrix<br>olive<br>river<br>daring<br>motion
-bip_39_word_new_br_11: erosion<br>empty<br>emotion<br>century<br>orphan<br>matrix<br>olive<br>river<br>daring<br>motion<br>usual
 bip_39_word_new_br_12: erosion<br>empty<br>emotion<br>century<br>orphan<br>matrix<br>olive<br>river<br>daring<br>motion<br>usual<br>apple
 bip_39_word_new_br_2: erosion<br>empty
 bip_39_word_new_br_3: erosion<br>empty<br>emotion
-bip_39_word_new_br_4: erosion<br>empty<br>emotion<br>century
-bip_39_word_new_br_5: erosion<br>empty<br>emotion<br>century<br>orphan
-bip_39_word_new_br_6: erosion<br>empty<br>emotion<br>century<br>orphan<br>matrix
-bip_39_word_new_br_7: erosion<br>empty<br>emotion<br>century<br>orphan<br>matrix<br>olive
-bip_39_word_new_br_8: erosion<br>empty<br>emotion<br>century<br>orphan<br>matrix<br>olive<br>river
-bip_39_word_new_br_9: erosion<br>empty<br>emotion<br>century<br>orphan<br>matrix<br>olive<br>river<br>daring
-bip_39_word_new_line_1: erosion
-bip_39_word_new_line_10: 'erosion
-
-  empty
-
-  emotion
-
-  century
-
-  orphan
-
-  matrix
-
-  olive
-
-  river
-
-  daring
-
-  motion'
-bip_39_word_new_line_11: 'erosion
-
-  empty
-
-  emotion
-
-  century
-
-  orphan
-
-  matrix
-
-  olive
-
-  river
-
-  daring
-
-  motion
-
-  usual'
 bip_39_word_new_line_12: 'erosion
 
   empty
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'erosion
   empty
 
   emotion'
-bip_39_word_new_line_4: 'erosion
-
-  empty
-
-  emotion
-
-  century'
-bip_39_word_new_line_5: 'erosion
-
-  empty
-
-  emotion
-
-  century
-
-  orphan'
-bip_39_word_new_line_6: 'erosion
-
-  empty
-
-  emotion
-
-  century
-
-  orphan
-
-  matrix'
-bip_39_word_new_line_7: 'erosion
-
-  empty
-
-  emotion
-
-  century
-
-  orphan
-
-  matrix
-
-  olive'
-bip_39_word_new_line_8: 'erosion
-
-  empty
-
-  emotion
-
-  century
-
-  orphan
-
-  matrix
-
-  olive
-
-  river'
-bip_39_word_new_line_9: 'erosion
-
-  empty
-
-  emotion
-
-  century
-
-  orphan
-
-  matrix
-
-  olive
-
-  river
-
-  daring'
-bip_39_word_no_space_1: erosion
-bip_39_word_no_space_10: erosionemptyemotioncenturyorphanmatrixoliveriverdaringmotion
-bip_39_word_no_space_11: erosionemptyemotioncenturyorphanmatrixoliveriverdaringmotionusual
 bip_39_word_no_space_12: erosionemptyemotioncenturyorphanmatrixoliveriverdaringmotionusualapple
 bip_39_word_no_space_2: erosionempty
 bip_39_word_no_space_3: erosionemptyemotion
-bip_39_word_no_space_4: erosionemptyemotioncentury
-bip_39_word_no_space_5: erosionemptyemotioncenturyorphan
-bip_39_word_no_space_6: erosionemptyemotioncenturyorphanmatrix
-bip_39_word_no_space_7: erosionemptyemotioncenturyorphanmatrixolive
-bip_39_word_no_space_8: erosionemptyemotioncenturyorphanmatrixoliveriver
-bip_39_word_no_space_9: erosionemptyemotioncenturyorphanmatrixoliveriverdaring
-bip_39_word_space_0:
-- erosion
-- empty
-- emotion
-- century
-- orphan
-- matrix
-- olive
-- river
-- daring
-- motion
-- usual
-- apple
-bip_39_word_space_1: erosion
-bip_39_word_space_10: erosion empty emotion century orphan matrix olive river daring
-  motion
-bip_39_word_space_11: erosion empty emotion century orphan matrix olive river daring
-  motion usual
 bip_39_word_space_12: erosion empty emotion century orphan matrix olive river daring
   motion usual apple
 bip_39_word_space_2: erosion empty
 bip_39_word_space_3: erosion empty emotion
-bip_39_word_space_4: erosion empty emotion century
-bip_39_word_space_5: erosion empty emotion century orphan
-bip_39_word_space_6: erosion empty emotion century orphan matrix
-bip_39_word_space_7: erosion empty emotion century orphan matrix olive
-bip_39_word_space_8: erosion empty emotion century orphan matrix olive river
-bip_39_word_space_9: erosion empty emotion century orphan matrix olive river daring
-bip_39_word_underscore_1: erosion
-bip_39_word_underscore_10: erosion_empty_emotion_century_orphan_matrix_olive_river_daring_motion
-bip_39_word_underscore_11: erosion_empty_emotion_century_orphan_matrix_olive_river_daring_motion_usual
 bip_39_word_underscore_12: erosion_empty_emotion_century_orphan_matrix_olive_river_daring_motion_usual_apple
 bip_39_word_underscore_2: erosion_empty
 bip_39_word_underscore_3: erosion_empty_emotion
-bip_39_word_underscore_4: erosion_empty_emotion_century
-bip_39_word_underscore_5: erosion_empty_emotion_century_orphan
-bip_39_word_underscore_6: erosion_empty_emotion_century_orphan_matrix
-bip_39_word_underscore_7: erosion_empty_emotion_century_orphan_matrix_olive
-bip_39_word_underscore_8: erosion_empty_emotion_century_orphan_matrix_olive_river
-bip_39_word_underscore_9: erosion_empty_emotion_century_orphan_matrix_olive_river_daring
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

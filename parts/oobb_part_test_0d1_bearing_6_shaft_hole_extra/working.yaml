@@ -1,69 +1,10 @@
 bearing: 0.1
-bip_39_word_dash_1: veteran
-bip_39_word_dash_10: veteran-because-scan-bread-label-jacket-multiply-crawl-level-kingdom
-bip_39_word_dash_11: veteran-because-scan-bread-label-jacket-multiply-crawl-level-kingdom-pole
 bip_39_word_dash_12: veteran-because-scan-bread-label-jacket-multiply-crawl-level-kingdom-pole-aunt
 bip_39_word_dash_2: veteran-because
 bip_39_word_dash_3: veteran-because-scan
-bip_39_word_dash_4: veteran-because-scan-bread
-bip_39_word_dash_5: veteran-because-scan-bread-label
-bip_39_word_dash_6: veteran-because-scan-bread-label-jacket
-bip_39_word_dash_7: veteran-because-scan-bread-label-jacket-multiply
-bip_39_word_dash_8: veteran-because-scan-bread-label-jacket-multiply-crawl
-bip_39_word_dash_9: veteran-because-scan-bread-label-jacket-multiply-crawl-level
-bip_39_word_new_br_1: veteran
-bip_39_word_new_br_10: veteran<br>because<br>scan<br>bread<br>label<br>jacket<br>multiply<br>crawl<br>level<br>kingdom
-bip_39_word_new_br_11: veteran<br>because<br>scan<br>bread<br>label<br>jacket<br>multiply<br>crawl<br>level<br>kingdom<br>pole
 bip_39_word_new_br_12: veteran<br>because<br>scan<br>bread<br>label<br>jacket<br>multiply<br>crawl<br>level<br>kingdom<br>pole<br>aunt
 bip_39_word_new_br_2: veteran<br>because
 bip_39_word_new_br_3: veteran<br>because<br>scan
-bip_39_word_new_br_4: veteran<br>because<br>scan<br>bread
-bip_39_word_new_br_5: veteran<br>because<br>scan<br>bread<br>label
-bip_39_word_new_br_6: veteran<br>because<br>scan<br>bread<br>label<br>jacket
-bip_39_word_new_br_7: veteran<br>because<br>scan<br>bread<br>label<br>jacket<br>multiply
-bip_39_word_new_br_8: veteran<br>because<br>scan<br>bread<br>label<br>jacket<br>multiply<br>crawl
-bip_39_word_new_br_9: veteran<br>because<br>scan<br>bread<br>label<br>jacket<br>multiply<br>crawl<br>level
-bip_39_word_new_line_1: veteran
-bip_39_word_new_line_10: 'veteran
-
-  because
-
-  scan
-
-  bread
-
-  label
-
-  jacket
-
-  multiply
-
-  crawl
-
-  level
-
-  kingdom'
-bip_39_word_new_line_11: 'veteran
-
-  because
-
-  scan
-
-  bread
-
-  label
-
-  jacket
-
-  multiply
-
-  crawl
-
-  level
-
-  kingdom
-
-  pole'
 bip_39_word_new_line_12: 'veteran
 
   because
@@ -95,130 +36,16 @@ bip_39_word_new_line_3: 'veteran
   because
 
   scan'
-bip_39_word_new_line_4: 'veteran
-
-  because
-
-  scan
-
-  bread'
-bip_39_word_new_line_5: 'veteran
-
-  because
-
-  scan
-
-  bread
-
-  label'
-bip_39_word_new_line_6: 'veteran
-
-  because
-
-  scan
-
-  bread
-
-  label
-
-  jacket'
-bip_39_word_new_line_7: 'veteran
-
-  because
-
-  scan
-
-  bread
-
-  label
-
-  jacket
-
-  multiply'
-bip_39_word_new_line_8: 'veteran
-
-  because
-
-  scan
-
-  bread
-
-  label
-
-  jacket
-
-  multiply
-
-  crawl'
-bip_39_word_new_line_9: 'veteran
-
-  because
-
-  scan
-
-  bread
-
-  label
-
-  jacket
-
-  multiply
-
-  crawl
-
-  level'
-bip_39_word_no_space_1: veteran
-bip_39_word_no_space_10: veteranbecausescanbreadlabeljacketmultiplycrawllevelkingdom
-bip_39_word_no_space_11: veteranbecausescanbreadlabeljacketmultiplycrawllevelkingdompole
 bip_39_word_no_space_12: veteranbecausescanbreadlabeljacketmultiplycrawllevelkingdompoleaunt
 bip_39_word_no_space_2: veteranbecause
 bip_39_word_no_space_3: veteranbecausescan
-bip_39_word_no_space_4: veteranbecausescanbread
-bip_39_word_no_space_5: veteranbecausescanbreadlabel
-bip_39_word_no_space_6: veteranbecausescanbreadlabeljacket
-bip_39_word_no_space_7: veteranbecausescanbreadlabeljacketmultiply
-bip_39_word_no_space_8: veteranbecausescanbreadlabeljacketmultiplycrawl
-bip_39_word_no_space_9: veteranbecausescanbreadlabeljacketmultiplycrawllevel
-bip_39_word_space_0:
-- veteran
-- because
-- scan
-- bread
-- label
-- jacket
-- multiply
-- crawl
-- level
-- kingdom
-- pole
-- aunt
-bip_39_word_space_1: veteran
-bip_39_word_space_10: veteran because scan bread label jacket multiply crawl level
-  kingdom
-bip_39_word_space_11: veteran because scan bread label jacket multiply crawl level
-  kingdom pole
 bip_39_word_space_12: veteran because scan bread label jacket multiply crawl level
   kingdom pole aunt
 bip_39_word_space_2: veteran because
 bip_39_word_space_3: veteran because scan
-bip_39_word_space_4: veteran because scan bread
-bip_39_word_space_5: veteran because scan bread label
-bip_39_word_space_6: veteran because scan bread label jacket
-bip_39_word_space_7: veteran because scan bread label jacket multiply
-bip_39_word_space_8: veteran because scan bread label jacket multiply crawl
-bip_39_word_space_9: veteran because scan bread label jacket multiply crawl level
-bip_39_word_underscore_1: veteran
-bip_39_word_underscore_10: veteran_because_scan_bread_label_jacket_multiply_crawl_level_kingdom
-bip_39_word_underscore_11: veteran_because_scan_bread_label_jacket_multiply_crawl_level_kingdom_pole
 bip_39_word_underscore_12: veteran_because_scan_bread_label_jacket_multiply_crawl_level_kingdom_pole_aunt
 bip_39_word_underscore_2: veteran_because
 bip_39_word_underscore_3: veteran_because_scan
-bip_39_word_underscore_4: veteran_because_scan_bread
-bip_39_word_underscore_5: veteran_because_scan_bread_label
-bip_39_word_underscore_6: veteran_because_scan_bread_label_jacket
-bip_39_word_underscore_7: veteran_because_scan_bread_label_jacket_multiply
-bip_39_word_underscore_8: veteran_because_scan_bread_label_jacket_multiply_crawl
-bip_39_word_underscore_9: veteran_because_scan_bread_label_jacket_multiply_crawl_level
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

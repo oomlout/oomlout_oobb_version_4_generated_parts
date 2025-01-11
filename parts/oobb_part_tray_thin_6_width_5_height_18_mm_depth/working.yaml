@@ -1,68 +1,9 @@
-bip_39_word_dash_1: jeans
-bip_39_word_dash_10: jeans-derive-nuclear-lion-satoshi-myself-angry-help-tilt-turkey
-bip_39_word_dash_11: jeans-derive-nuclear-lion-satoshi-myself-angry-help-tilt-turkey-frog
 bip_39_word_dash_12: jeans-derive-nuclear-lion-satoshi-myself-angry-help-tilt-turkey-frog-attitude
 bip_39_word_dash_2: jeans-derive
 bip_39_word_dash_3: jeans-derive-nuclear
-bip_39_word_dash_4: jeans-derive-nuclear-lion
-bip_39_word_dash_5: jeans-derive-nuclear-lion-satoshi
-bip_39_word_dash_6: jeans-derive-nuclear-lion-satoshi-myself
-bip_39_word_dash_7: jeans-derive-nuclear-lion-satoshi-myself-angry
-bip_39_word_dash_8: jeans-derive-nuclear-lion-satoshi-myself-angry-help
-bip_39_word_dash_9: jeans-derive-nuclear-lion-satoshi-myself-angry-help-tilt
-bip_39_word_new_br_1: jeans
-bip_39_word_new_br_10: jeans<br>derive<br>nuclear<br>lion<br>satoshi<br>myself<br>angry<br>help<br>tilt<br>turkey
-bip_39_word_new_br_11: jeans<br>derive<br>nuclear<br>lion<br>satoshi<br>myself<br>angry<br>help<br>tilt<br>turkey<br>frog
 bip_39_word_new_br_12: jeans<br>derive<br>nuclear<br>lion<br>satoshi<br>myself<br>angry<br>help<br>tilt<br>turkey<br>frog<br>attitude
 bip_39_word_new_br_2: jeans<br>derive
 bip_39_word_new_br_3: jeans<br>derive<br>nuclear
-bip_39_word_new_br_4: jeans<br>derive<br>nuclear<br>lion
-bip_39_word_new_br_5: jeans<br>derive<br>nuclear<br>lion<br>satoshi
-bip_39_word_new_br_6: jeans<br>derive<br>nuclear<br>lion<br>satoshi<br>myself
-bip_39_word_new_br_7: jeans<br>derive<br>nuclear<br>lion<br>satoshi<br>myself<br>angry
-bip_39_word_new_br_8: jeans<br>derive<br>nuclear<br>lion<br>satoshi<br>myself<br>angry<br>help
-bip_39_word_new_br_9: jeans<br>derive<br>nuclear<br>lion<br>satoshi<br>myself<br>angry<br>help<br>tilt
-bip_39_word_new_line_1: jeans
-bip_39_word_new_line_10: 'jeans
-
-  derive
-
-  nuclear
-
-  lion
-
-  satoshi
-
-  myself
-
-  angry
-
-  help
-
-  tilt
-
-  turkey'
-bip_39_word_new_line_11: 'jeans
-
-  derive
-
-  nuclear
-
-  lion
-
-  satoshi
-
-  myself
-
-  angry
-
-  help
-
-  tilt
-
-  turkey
-
-  frog'
 bip_39_word_new_line_12: 'jeans
 
   derive
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'jeans
   derive
 
   nuclear'
-bip_39_word_new_line_4: 'jeans
-
-  derive
-
-  nuclear
-
-  lion'
-bip_39_word_new_line_5: 'jeans
-
-  derive
-
-  nuclear
-
-  lion
-
-  satoshi'
-bip_39_word_new_line_6: 'jeans
-
-  derive
-
-  nuclear
-
-  lion
-
-  satoshi
-
-  myself'
-bip_39_word_new_line_7: 'jeans
-
-  derive
-
-  nuclear
-
-  lion
-
-  satoshi
-
-  myself
-
-  angry'
-bip_39_word_new_line_8: 'jeans
-
-  derive
-
-  nuclear
-
-  lion
-
-  satoshi
-
-  myself
-
-  angry
-
-  help'
-bip_39_word_new_line_9: 'jeans
-
-  derive
-
-  nuclear
-
-  lion
-
-  satoshi
-
-  myself
-
-  angry
-
-  help
-
-  tilt'
-bip_39_word_no_space_1: jeans
-bip_39_word_no_space_10: jeansderivenuclearlionsatoshimyselfangryhelptiltturkey
-bip_39_word_no_space_11: jeansderivenuclearlionsatoshimyselfangryhelptiltturkeyfrog
 bip_39_word_no_space_12: jeansderivenuclearlionsatoshimyselfangryhelptiltturkeyfrogattitude
 bip_39_word_no_space_2: jeansderive
 bip_39_word_no_space_3: jeansderivenuclear
-bip_39_word_no_space_4: jeansderivenuclearlion
-bip_39_word_no_space_5: jeansderivenuclearlionsatoshi
-bip_39_word_no_space_6: jeansderivenuclearlionsatoshimyself
-bip_39_word_no_space_7: jeansderivenuclearlionsatoshimyselfangry
-bip_39_word_no_space_8: jeansderivenuclearlionsatoshimyselfangryhelp
-bip_39_word_no_space_9: jeansderivenuclearlionsatoshimyselfangryhelptilt
-bip_39_word_space_0:
-- jeans
-- derive
-- nuclear
-- lion
-- satoshi
-- myself
-- angry
-- help
-- tilt
-- turkey
-- frog
-- attitude
-bip_39_word_space_1: jeans
-bip_39_word_space_10: jeans derive nuclear lion satoshi myself angry help tilt turkey
-bip_39_word_space_11: jeans derive nuclear lion satoshi myself angry help tilt turkey
-  frog
 bip_39_word_space_12: jeans derive nuclear lion satoshi myself angry help tilt turkey
   frog attitude
 bip_39_word_space_2: jeans derive
 bip_39_word_space_3: jeans derive nuclear
-bip_39_word_space_4: jeans derive nuclear lion
-bip_39_word_space_5: jeans derive nuclear lion satoshi
-bip_39_word_space_6: jeans derive nuclear lion satoshi myself
-bip_39_word_space_7: jeans derive nuclear lion satoshi myself angry
-bip_39_word_space_8: jeans derive nuclear lion satoshi myself angry help
-bip_39_word_space_9: jeans derive nuclear lion satoshi myself angry help tilt
-bip_39_word_underscore_1: jeans
-bip_39_word_underscore_10: jeans_derive_nuclear_lion_satoshi_myself_angry_help_tilt_turkey
-bip_39_word_underscore_11: jeans_derive_nuclear_lion_satoshi_myself_angry_help_tilt_turkey_frog
 bip_39_word_underscore_12: jeans_derive_nuclear_lion_satoshi_myself_angry_help_tilt_turkey_frog_attitude
 bip_39_word_underscore_2: jeans_derive
 bip_39_word_underscore_3: jeans_derive_nuclear
-bip_39_word_underscore_4: jeans_derive_nuclear_lion
-bip_39_word_underscore_5: jeans_derive_nuclear_lion_satoshi
-bip_39_word_underscore_6: jeans_derive_nuclear_lion_satoshi_myself
-bip_39_word_underscore_7: jeans_derive_nuclear_lion_satoshi_myself_angry
-bip_39_word_underscore_8: jeans_derive_nuclear_lion_satoshi_myself_angry_help
-bip_39_word_underscore_9: jeans_derive_nuclear_lion_satoshi_myself_angry_help_tilt
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

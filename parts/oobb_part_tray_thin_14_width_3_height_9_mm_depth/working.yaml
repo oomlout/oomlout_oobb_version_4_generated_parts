@@ -1,68 +1,9 @@
-bip_39_word_dash_1: evolve
-bip_39_word_dash_10: evolve-neither-predict-sustain-wood-digital-useless-argue-swarm-solve
-bip_39_word_dash_11: evolve-neither-predict-sustain-wood-digital-useless-argue-swarm-solve-envelope
 bip_39_word_dash_12: evolve-neither-predict-sustain-wood-digital-useless-argue-swarm-solve-envelope-age
 bip_39_word_dash_2: evolve-neither
 bip_39_word_dash_3: evolve-neither-predict
-bip_39_word_dash_4: evolve-neither-predict-sustain
-bip_39_word_dash_5: evolve-neither-predict-sustain-wood
-bip_39_word_dash_6: evolve-neither-predict-sustain-wood-digital
-bip_39_word_dash_7: evolve-neither-predict-sustain-wood-digital-useless
-bip_39_word_dash_8: evolve-neither-predict-sustain-wood-digital-useless-argue
-bip_39_word_dash_9: evolve-neither-predict-sustain-wood-digital-useless-argue-swarm
-bip_39_word_new_br_1: evolve
-bip_39_word_new_br_10: evolve<br>neither<br>predict<br>sustain<br>wood<br>digital<br>useless<br>argue<br>swarm<br>solve
-bip_39_word_new_br_11: evolve<br>neither<br>predict<br>sustain<br>wood<br>digital<br>useless<br>argue<br>swarm<br>solve<br>envelope
 bip_39_word_new_br_12: evolve<br>neither<br>predict<br>sustain<br>wood<br>digital<br>useless<br>argue<br>swarm<br>solve<br>envelope<br>age
 bip_39_word_new_br_2: evolve<br>neither
 bip_39_word_new_br_3: evolve<br>neither<br>predict
-bip_39_word_new_br_4: evolve<br>neither<br>predict<br>sustain
-bip_39_word_new_br_5: evolve<br>neither<br>predict<br>sustain<br>wood
-bip_39_word_new_br_6: evolve<br>neither<br>predict<br>sustain<br>wood<br>digital
-bip_39_word_new_br_7: evolve<br>neither<br>predict<br>sustain<br>wood<br>digital<br>useless
-bip_39_word_new_br_8: evolve<br>neither<br>predict<br>sustain<br>wood<br>digital<br>useless<br>argue
-bip_39_word_new_br_9: evolve<br>neither<br>predict<br>sustain<br>wood<br>digital<br>useless<br>argue<br>swarm
-bip_39_word_new_line_1: evolve
-bip_39_word_new_line_10: 'evolve
-
-  neither
-
-  predict
-
-  sustain
-
-  wood
-
-  digital
-
-  useless
-
-  argue
-
-  swarm
-
-  solve'
-bip_39_word_new_line_11: 'evolve
-
-  neither
-
-  predict
-
-  sustain
-
-  wood
-
-  digital
-
-  useless
-
-  argue
-
-  swarm
-
-  solve
-
-  envelope'
 bip_39_word_new_line_12: 'evolve
 
   neither
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'evolve
   neither
 
   predict'
-bip_39_word_new_line_4: 'evolve
-
-  neither
-
-  predict
-
-  sustain'
-bip_39_word_new_line_5: 'evolve
-
-  neither
-
-  predict
-
-  sustain
-
-  wood'
-bip_39_word_new_line_6: 'evolve
-
-  neither
-
-  predict
-
-  sustain
-
-  wood
-
-  digital'
-bip_39_word_new_line_7: 'evolve
-
-  neither
-
-  predict
-
-  sustain
-
-  wood
-
-  digital
-
-  useless'
-bip_39_word_new_line_8: 'evolve
-
-  neither
-
-  predict
-
-  sustain
-
-  wood
-
-  digital
-
-  useless
-
-  argue'
-bip_39_word_new_line_9: 'evolve
-
-  neither
-
-  predict
-
-  sustain
-
-  wood
-
-  digital
-
-  useless
-
-  argue
-
-  swarm'
-bip_39_word_no_space_1: evolve
-bip_39_word_no_space_10: evolveneitherpredictsustainwooddigitaluselessargueswarmsolve
-bip_39_word_no_space_11: evolveneitherpredictsustainwooddigitaluselessargueswarmsolveenvelope
 bip_39_word_no_space_12: evolveneitherpredictsustainwooddigitaluselessargueswarmsolveenvelopeage
 bip_39_word_no_space_2: evolveneither
 bip_39_word_no_space_3: evolveneitherpredict
-bip_39_word_no_space_4: evolveneitherpredictsustain
-bip_39_word_no_space_5: evolveneitherpredictsustainwood
-bip_39_word_no_space_6: evolveneitherpredictsustainwooddigital
-bip_39_word_no_space_7: evolveneitherpredictsustainwooddigitaluseless
-bip_39_word_no_space_8: evolveneitherpredictsustainwooddigitaluselessargue
-bip_39_word_no_space_9: evolveneitherpredictsustainwooddigitaluselessargueswarm
-bip_39_word_space_0:
-- evolve
-- neither
-- predict
-- sustain
-- wood
-- digital
-- useless
-- argue
-- swarm
-- solve
-- envelope
-- age
-bip_39_word_space_1: evolve
-bip_39_word_space_10: evolve neither predict sustain wood digital useless argue swarm
-  solve
-bip_39_word_space_11: evolve neither predict sustain wood digital useless argue swarm
-  solve envelope
 bip_39_word_space_12: evolve neither predict sustain wood digital useless argue swarm
   solve envelope age
 bip_39_word_space_2: evolve neither
 bip_39_word_space_3: evolve neither predict
-bip_39_word_space_4: evolve neither predict sustain
-bip_39_word_space_5: evolve neither predict sustain wood
-bip_39_word_space_6: evolve neither predict sustain wood digital
-bip_39_word_space_7: evolve neither predict sustain wood digital useless
-bip_39_word_space_8: evolve neither predict sustain wood digital useless argue
-bip_39_word_space_9: evolve neither predict sustain wood digital useless argue swarm
-bip_39_word_underscore_1: evolve
-bip_39_word_underscore_10: evolve_neither_predict_sustain_wood_digital_useless_argue_swarm_solve
-bip_39_word_underscore_11: evolve_neither_predict_sustain_wood_digital_useless_argue_swarm_solve_envelope
 bip_39_word_underscore_12: evolve_neither_predict_sustain_wood_digital_useless_argue_swarm_solve_envelope_age
 bip_39_word_underscore_2: evolve_neither
 bip_39_word_underscore_3: evolve_neither_predict
-bip_39_word_underscore_4: evolve_neither_predict_sustain
-bip_39_word_underscore_5: evolve_neither_predict_sustain_wood
-bip_39_word_underscore_6: evolve_neither_predict_sustain_wood_digital
-bip_39_word_underscore_7: evolve_neither_predict_sustain_wood_digital_useless
-bip_39_word_underscore_8: evolve_neither_predict_sustain_wood_digital_useless_argue
-bip_39_word_underscore_9: evolve_neither_predict_sustain_wood_digital_useless_argue_swarm
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

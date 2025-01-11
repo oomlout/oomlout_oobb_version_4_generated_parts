@@ -1,68 +1,9 @@
-bip_39_word_dash_1: clever
-bip_39_word_dash_10: clever-strike-taxi-zoo-olive-boring-sausage-canvas-ripple-armed
-bip_39_word_dash_11: clever-strike-taxi-zoo-olive-boring-sausage-canvas-ripple-armed-armor
 bip_39_word_dash_12: clever-strike-taxi-zoo-olive-boring-sausage-canvas-ripple-armed-armor-annual
 bip_39_word_dash_2: clever-strike
 bip_39_word_dash_3: clever-strike-taxi
-bip_39_word_dash_4: clever-strike-taxi-zoo
-bip_39_word_dash_5: clever-strike-taxi-zoo-olive
-bip_39_word_dash_6: clever-strike-taxi-zoo-olive-boring
-bip_39_word_dash_7: clever-strike-taxi-zoo-olive-boring-sausage
-bip_39_word_dash_8: clever-strike-taxi-zoo-olive-boring-sausage-canvas
-bip_39_word_dash_9: clever-strike-taxi-zoo-olive-boring-sausage-canvas-ripple
-bip_39_word_new_br_1: clever
-bip_39_word_new_br_10: clever<br>strike<br>taxi<br>zoo<br>olive<br>boring<br>sausage<br>canvas<br>ripple<br>armed
-bip_39_word_new_br_11: clever<br>strike<br>taxi<br>zoo<br>olive<br>boring<br>sausage<br>canvas<br>ripple<br>armed<br>armor
 bip_39_word_new_br_12: clever<br>strike<br>taxi<br>zoo<br>olive<br>boring<br>sausage<br>canvas<br>ripple<br>armed<br>armor<br>annual
 bip_39_word_new_br_2: clever<br>strike
 bip_39_word_new_br_3: clever<br>strike<br>taxi
-bip_39_word_new_br_4: clever<br>strike<br>taxi<br>zoo
-bip_39_word_new_br_5: clever<br>strike<br>taxi<br>zoo<br>olive
-bip_39_word_new_br_6: clever<br>strike<br>taxi<br>zoo<br>olive<br>boring
-bip_39_word_new_br_7: clever<br>strike<br>taxi<br>zoo<br>olive<br>boring<br>sausage
-bip_39_word_new_br_8: clever<br>strike<br>taxi<br>zoo<br>olive<br>boring<br>sausage<br>canvas
-bip_39_word_new_br_9: clever<br>strike<br>taxi<br>zoo<br>olive<br>boring<br>sausage<br>canvas<br>ripple
-bip_39_word_new_line_1: clever
-bip_39_word_new_line_10: 'clever
-
-  strike
-
-  taxi
-
-  zoo
-
-  olive
-
-  boring
-
-  sausage
-
-  canvas
-
-  ripple
-
-  armed'
-bip_39_word_new_line_11: 'clever
-
-  strike
-
-  taxi
-
-  zoo
-
-  olive
-
-  boring
-
-  sausage
-
-  canvas
-
-  ripple
-
-  armed
-
-  armor'
 bip_39_word_new_line_12: 'clever
 
   strike
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'clever
   strike
 
   taxi'
-bip_39_word_new_line_4: 'clever
-
-  strike
-
-  taxi
-
-  zoo'
-bip_39_word_new_line_5: 'clever
-
-  strike
-
-  taxi
-
-  zoo
-
-  olive'
-bip_39_word_new_line_6: 'clever
-
-  strike
-
-  taxi
-
-  zoo
-
-  olive
-
-  boring'
-bip_39_word_new_line_7: 'clever
-
-  strike
-
-  taxi
-
-  zoo
-
-  olive
-
-  boring
-
-  sausage'
-bip_39_word_new_line_8: 'clever
-
-  strike
-
-  taxi
-
-  zoo
-
-  olive
-
-  boring
-
-  sausage
-
-  canvas'
-bip_39_word_new_line_9: 'clever
-
-  strike
-
-  taxi
-
-  zoo
-
-  olive
-
-  boring
-
-  sausage
-
-  canvas
-
-  ripple'
-bip_39_word_no_space_1: clever
-bip_39_word_no_space_10: cleverstriketaxizoooliveboringsausagecanvasripplearmed
-bip_39_word_no_space_11: cleverstriketaxizoooliveboringsausagecanvasripplearmedarmor
 bip_39_word_no_space_12: cleverstriketaxizoooliveboringsausagecanvasripplearmedarmorannual
 bip_39_word_no_space_2: cleverstrike
 bip_39_word_no_space_3: cleverstriketaxi
-bip_39_word_no_space_4: cleverstriketaxizoo
-bip_39_word_no_space_5: cleverstriketaxizooolive
-bip_39_word_no_space_6: cleverstriketaxizoooliveboring
-bip_39_word_no_space_7: cleverstriketaxizoooliveboringsausage
-bip_39_word_no_space_8: cleverstriketaxizoooliveboringsausagecanvas
-bip_39_word_no_space_9: cleverstriketaxizoooliveboringsausagecanvasripple
-bip_39_word_space_0:
-- clever
-- strike
-- taxi
-- zoo
-- olive
-- boring
-- sausage
-- canvas
-- ripple
-- armed
-- armor
-- annual
-bip_39_word_space_1: clever
-bip_39_word_space_10: clever strike taxi zoo olive boring sausage canvas ripple armed
-bip_39_word_space_11: clever strike taxi zoo olive boring sausage canvas ripple armed
-  armor
 bip_39_word_space_12: clever strike taxi zoo olive boring sausage canvas ripple armed
   armor annual
 bip_39_word_space_2: clever strike
 bip_39_word_space_3: clever strike taxi
-bip_39_word_space_4: clever strike taxi zoo
-bip_39_word_space_5: clever strike taxi zoo olive
-bip_39_word_space_6: clever strike taxi zoo olive boring
-bip_39_word_space_7: clever strike taxi zoo olive boring sausage
-bip_39_word_space_8: clever strike taxi zoo olive boring sausage canvas
-bip_39_word_space_9: clever strike taxi zoo olive boring sausage canvas ripple
-bip_39_word_underscore_1: clever
-bip_39_word_underscore_10: clever_strike_taxi_zoo_olive_boring_sausage_canvas_ripple_armed
-bip_39_word_underscore_11: clever_strike_taxi_zoo_olive_boring_sausage_canvas_ripple_armed_armor
 bip_39_word_underscore_12: clever_strike_taxi_zoo_olive_boring_sausage_canvas_ripple_armed_armor_annual
 bip_39_word_underscore_2: clever_strike
 bip_39_word_underscore_3: clever_strike_taxi
-bip_39_word_underscore_4: clever_strike_taxi_zoo
-bip_39_word_underscore_5: clever_strike_taxi_zoo_olive
-bip_39_word_underscore_6: clever_strike_taxi_zoo_olive_boring
-bip_39_word_underscore_7: clever_strike_taxi_zoo_olive_boring_sausage
-bip_39_word_underscore_8: clever_strike_taxi_zoo_olive_boring_sausage_canvas
-bip_39_word_underscore_9: clever_strike_taxi_zoo_olive_boring_sausage_canvas_ripple
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

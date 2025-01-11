@@ -1,68 +1,9 @@
-bip_39_word_dash_1: scatter
-bip_39_word_dash_10: scatter-logic-busy-myth-tower-assist-nothing-gossip-skate-degree
-bip_39_word_dash_11: scatter-logic-busy-myth-tower-assist-nothing-gossip-skate-degree-update
 bip_39_word_dash_12: scatter-logic-busy-myth-tower-assist-nothing-gossip-skate-degree-update-amount
 bip_39_word_dash_2: scatter-logic
 bip_39_word_dash_3: scatter-logic-busy
-bip_39_word_dash_4: scatter-logic-busy-myth
-bip_39_word_dash_5: scatter-logic-busy-myth-tower
-bip_39_word_dash_6: scatter-logic-busy-myth-tower-assist
-bip_39_word_dash_7: scatter-logic-busy-myth-tower-assist-nothing
-bip_39_word_dash_8: scatter-logic-busy-myth-tower-assist-nothing-gossip
-bip_39_word_dash_9: scatter-logic-busy-myth-tower-assist-nothing-gossip-skate
-bip_39_word_new_br_1: scatter
-bip_39_word_new_br_10: scatter<br>logic<br>busy<br>myth<br>tower<br>assist<br>nothing<br>gossip<br>skate<br>degree
-bip_39_word_new_br_11: scatter<br>logic<br>busy<br>myth<br>tower<br>assist<br>nothing<br>gossip<br>skate<br>degree<br>update
 bip_39_word_new_br_12: scatter<br>logic<br>busy<br>myth<br>tower<br>assist<br>nothing<br>gossip<br>skate<br>degree<br>update<br>amount
 bip_39_word_new_br_2: scatter<br>logic
 bip_39_word_new_br_3: scatter<br>logic<br>busy
-bip_39_word_new_br_4: scatter<br>logic<br>busy<br>myth
-bip_39_word_new_br_5: scatter<br>logic<br>busy<br>myth<br>tower
-bip_39_word_new_br_6: scatter<br>logic<br>busy<br>myth<br>tower<br>assist
-bip_39_word_new_br_7: scatter<br>logic<br>busy<br>myth<br>tower<br>assist<br>nothing
-bip_39_word_new_br_8: scatter<br>logic<br>busy<br>myth<br>tower<br>assist<br>nothing<br>gossip
-bip_39_word_new_br_9: scatter<br>logic<br>busy<br>myth<br>tower<br>assist<br>nothing<br>gossip<br>skate
-bip_39_word_new_line_1: scatter
-bip_39_word_new_line_10: 'scatter
-
-  logic
-
-  busy
-
-  myth
-
-  tower
-
-  assist
-
-  nothing
-
-  gossip
-
-  skate
-
-  degree'
-bip_39_word_new_line_11: 'scatter
-
-  logic
-
-  busy
-
-  myth
-
-  tower
-
-  assist
-
-  nothing
-
-  gossip
-
-  skate
-
-  degree
-
-  update'
 bip_39_word_new_line_12: 'scatter
 
   logic
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'scatter
   logic
 
   busy'
-bip_39_word_new_line_4: 'scatter
-
-  logic
-
-  busy
-
-  myth'
-bip_39_word_new_line_5: 'scatter
-
-  logic
-
-  busy
-
-  myth
-
-  tower'
-bip_39_word_new_line_6: 'scatter
-
-  logic
-
-  busy
-
-  myth
-
-  tower
-
-  assist'
-bip_39_word_new_line_7: 'scatter
-
-  logic
-
-  busy
-
-  myth
-
-  tower
-
-  assist
-
-  nothing'
-bip_39_word_new_line_8: 'scatter
-
-  logic
-
-  busy
-
-  myth
-
-  tower
-
-  assist
-
-  nothing
-
-  gossip'
-bip_39_word_new_line_9: 'scatter
-
-  logic
-
-  busy
-
-  myth
-
-  tower
-
-  assist
-
-  nothing
-
-  gossip
-
-  skate'
-bip_39_word_no_space_1: scatter
-bip_39_word_no_space_10: scatterlogicbusymythtowerassistnothinggossipskatedegree
-bip_39_word_no_space_11: scatterlogicbusymythtowerassistnothinggossipskatedegreeupdate
 bip_39_word_no_space_12: scatterlogicbusymythtowerassistnothinggossipskatedegreeupdateamount
 bip_39_word_no_space_2: scatterlogic
 bip_39_word_no_space_3: scatterlogicbusy
-bip_39_word_no_space_4: scatterlogicbusymyth
-bip_39_word_no_space_5: scatterlogicbusymythtower
-bip_39_word_no_space_6: scatterlogicbusymythtowerassist
-bip_39_word_no_space_7: scatterlogicbusymythtowerassistnothing
-bip_39_word_no_space_8: scatterlogicbusymythtowerassistnothinggossip
-bip_39_word_no_space_9: scatterlogicbusymythtowerassistnothinggossipskate
-bip_39_word_space_0:
-- scatter
-- logic
-- busy
-- myth
-- tower
-- assist
-- nothing
-- gossip
-- skate
-- degree
-- update
-- amount
-bip_39_word_space_1: scatter
-bip_39_word_space_10: scatter logic busy myth tower assist nothing gossip skate degree
-bip_39_word_space_11: scatter logic busy myth tower assist nothing gossip skate degree
-  update
 bip_39_word_space_12: scatter logic busy myth tower assist nothing gossip skate degree
   update amount
 bip_39_word_space_2: scatter logic
 bip_39_word_space_3: scatter logic busy
-bip_39_word_space_4: scatter logic busy myth
-bip_39_word_space_5: scatter logic busy myth tower
-bip_39_word_space_6: scatter logic busy myth tower assist
-bip_39_word_space_7: scatter logic busy myth tower assist nothing
-bip_39_word_space_8: scatter logic busy myth tower assist nothing gossip
-bip_39_word_space_9: scatter logic busy myth tower assist nothing gossip skate
-bip_39_word_underscore_1: scatter
-bip_39_word_underscore_10: scatter_logic_busy_myth_tower_assist_nothing_gossip_skate_degree
-bip_39_word_underscore_11: scatter_logic_busy_myth_tower_assist_nothing_gossip_skate_degree_update
 bip_39_word_underscore_12: scatter_logic_busy_myth_tower_assist_nothing_gossip_skate_degree_update_amount
 bip_39_word_underscore_2: scatter_logic
 bip_39_word_underscore_3: scatter_logic_busy
-bip_39_word_underscore_4: scatter_logic_busy_myth
-bip_39_word_underscore_5: scatter_logic_busy_myth_tower
-bip_39_word_underscore_6: scatter_logic_busy_myth_tower_assist
-bip_39_word_underscore_7: scatter_logic_busy_myth_tower_assist_nothing
-bip_39_word_underscore_8: scatter_logic_busy_myth_tower_assist_nothing_gossip
-bip_39_word_underscore_9: scatter_logic_busy_myth_tower_assist_nothing_gossip_skate
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

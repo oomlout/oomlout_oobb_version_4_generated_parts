@@ -1,68 +1,9 @@
-bip_39_word_dash_1: mystery
-bip_39_word_dash_10: mystery-desert-mushroom-flag-deny-vibrant-room-hedgehog-symptom-labor
-bip_39_word_dash_11: mystery-desert-mushroom-flag-deny-vibrant-room-hedgehog-symptom-labor-action
 bip_39_word_dash_12: mystery-desert-mushroom-flag-deny-vibrant-room-hedgehog-symptom-labor-action-accident
 bip_39_word_dash_2: mystery-desert
 bip_39_word_dash_3: mystery-desert-mushroom
-bip_39_word_dash_4: mystery-desert-mushroom-flag
-bip_39_word_dash_5: mystery-desert-mushroom-flag-deny
-bip_39_word_dash_6: mystery-desert-mushroom-flag-deny-vibrant
-bip_39_word_dash_7: mystery-desert-mushroom-flag-deny-vibrant-room
-bip_39_word_dash_8: mystery-desert-mushroom-flag-deny-vibrant-room-hedgehog
-bip_39_word_dash_9: mystery-desert-mushroom-flag-deny-vibrant-room-hedgehog-symptom
-bip_39_word_new_br_1: mystery
-bip_39_word_new_br_10: mystery<br>desert<br>mushroom<br>flag<br>deny<br>vibrant<br>room<br>hedgehog<br>symptom<br>labor
-bip_39_word_new_br_11: mystery<br>desert<br>mushroom<br>flag<br>deny<br>vibrant<br>room<br>hedgehog<br>symptom<br>labor<br>action
 bip_39_word_new_br_12: mystery<br>desert<br>mushroom<br>flag<br>deny<br>vibrant<br>room<br>hedgehog<br>symptom<br>labor<br>action<br>accident
 bip_39_word_new_br_2: mystery<br>desert
 bip_39_word_new_br_3: mystery<br>desert<br>mushroom
-bip_39_word_new_br_4: mystery<br>desert<br>mushroom<br>flag
-bip_39_word_new_br_5: mystery<br>desert<br>mushroom<br>flag<br>deny
-bip_39_word_new_br_6: mystery<br>desert<br>mushroom<br>flag<br>deny<br>vibrant
-bip_39_word_new_br_7: mystery<br>desert<br>mushroom<br>flag<br>deny<br>vibrant<br>room
-bip_39_word_new_br_8: mystery<br>desert<br>mushroom<br>flag<br>deny<br>vibrant<br>room<br>hedgehog
-bip_39_word_new_br_9: mystery<br>desert<br>mushroom<br>flag<br>deny<br>vibrant<br>room<br>hedgehog<br>symptom
-bip_39_word_new_line_1: mystery
-bip_39_word_new_line_10: 'mystery
-
-  desert
-
-  mushroom
-
-  flag
-
-  deny
-
-  vibrant
-
-  room
-
-  hedgehog
-
-  symptom
-
-  labor'
-bip_39_word_new_line_11: 'mystery
-
-  desert
-
-  mushroom
-
-  flag
-
-  deny
-
-  vibrant
-
-  room
-
-  hedgehog
-
-  symptom
-
-  labor
-
-  action'
 bip_39_word_new_line_12: 'mystery
 
   desert
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'mystery
   desert
 
   mushroom'
-bip_39_word_new_line_4: 'mystery
-
-  desert
-
-  mushroom
-
-  flag'
-bip_39_word_new_line_5: 'mystery
-
-  desert
-
-  mushroom
-
-  flag
-
-  deny'
-bip_39_word_new_line_6: 'mystery
-
-  desert
-
-  mushroom
-
-  flag
-
-  deny
-
-  vibrant'
-bip_39_word_new_line_7: 'mystery
-
-  desert
-
-  mushroom
-
-  flag
-
-  deny
-
-  vibrant
-
-  room'
-bip_39_word_new_line_8: 'mystery
-
-  desert
-
-  mushroom
-
-  flag
-
-  deny
-
-  vibrant
-
-  room
-
-  hedgehog'
-bip_39_word_new_line_9: 'mystery
-
-  desert
-
-  mushroom
-
-  flag
-
-  deny
-
-  vibrant
-
-  room
-
-  hedgehog
-
-  symptom'
-bip_39_word_no_space_1: mystery
-bip_39_word_no_space_10: mysterydesertmushroomflagdenyvibrantroomhedgehogsymptomlabor
-bip_39_word_no_space_11: mysterydesertmushroomflagdenyvibrantroomhedgehogsymptomlaboraction
 bip_39_word_no_space_12: mysterydesertmushroomflagdenyvibrantroomhedgehogsymptomlaboractionaccident
 bip_39_word_no_space_2: mysterydesert
 bip_39_word_no_space_3: mysterydesertmushroom
-bip_39_word_no_space_4: mysterydesertmushroomflag
-bip_39_word_no_space_5: mysterydesertmushroomflagdeny
-bip_39_word_no_space_6: mysterydesertmushroomflagdenyvibrant
-bip_39_word_no_space_7: mysterydesertmushroomflagdenyvibrantroom
-bip_39_word_no_space_8: mysterydesertmushroomflagdenyvibrantroomhedgehog
-bip_39_word_no_space_9: mysterydesertmushroomflagdenyvibrantroomhedgehogsymptom
-bip_39_word_space_0:
-- mystery
-- desert
-- mushroom
-- flag
-- deny
-- vibrant
-- room
-- hedgehog
-- symptom
-- labor
-- action
-- accident
-bip_39_word_space_1: mystery
-bip_39_word_space_10: mystery desert mushroom flag deny vibrant room hedgehog symptom
-  labor
-bip_39_word_space_11: mystery desert mushroom flag deny vibrant room hedgehog symptom
-  labor action
 bip_39_word_space_12: mystery desert mushroom flag deny vibrant room hedgehog symptom
   labor action accident
 bip_39_word_space_2: mystery desert
 bip_39_word_space_3: mystery desert mushroom
-bip_39_word_space_4: mystery desert mushroom flag
-bip_39_word_space_5: mystery desert mushroom flag deny
-bip_39_word_space_6: mystery desert mushroom flag deny vibrant
-bip_39_word_space_7: mystery desert mushroom flag deny vibrant room
-bip_39_word_space_8: mystery desert mushroom flag deny vibrant room hedgehog
-bip_39_word_space_9: mystery desert mushroom flag deny vibrant room hedgehog symptom
-bip_39_word_underscore_1: mystery
-bip_39_word_underscore_10: mystery_desert_mushroom_flag_deny_vibrant_room_hedgehog_symptom_labor
-bip_39_word_underscore_11: mystery_desert_mushroom_flag_deny_vibrant_room_hedgehog_symptom_labor_action
 bip_39_word_underscore_12: mystery_desert_mushroom_flag_deny_vibrant_room_hedgehog_symptom_labor_action_accident
 bip_39_word_underscore_2: mystery_desert
 bip_39_word_underscore_3: mystery_desert_mushroom
-bip_39_word_underscore_4: mystery_desert_mushroom_flag
-bip_39_word_underscore_5: mystery_desert_mushroom_flag_deny
-bip_39_word_underscore_6: mystery_desert_mushroom_flag_deny_vibrant
-bip_39_word_underscore_7: mystery_desert_mushroom_flag_deny_vibrant_room
-bip_39_word_underscore_8: mystery_desert_mushroom_flag_deny_vibrant_room_hedgehog
-bip_39_word_underscore_9: mystery_desert_mushroom_flag_deny_vibrant_room_hedgehog_symptom
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

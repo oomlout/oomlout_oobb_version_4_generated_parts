@@ -1,68 +1,9 @@
-bip_39_word_dash_1: eager
-bip_39_word_dash_10: eager-snake-ship-ethics-buffalo-simple-skull-fish-keep-hint
-bip_39_word_dash_11: eager-snake-ship-ethics-buffalo-simple-skull-fish-keep-hint-nasty
 bip_39_word_dash_12: eager-snake-ship-ethics-buffalo-simple-skull-fish-keep-hint-nasty-attack
 bip_39_word_dash_2: eager-snake
 bip_39_word_dash_3: eager-snake-ship
-bip_39_word_dash_4: eager-snake-ship-ethics
-bip_39_word_dash_5: eager-snake-ship-ethics-buffalo
-bip_39_word_dash_6: eager-snake-ship-ethics-buffalo-simple
-bip_39_word_dash_7: eager-snake-ship-ethics-buffalo-simple-skull
-bip_39_word_dash_8: eager-snake-ship-ethics-buffalo-simple-skull-fish
-bip_39_word_dash_9: eager-snake-ship-ethics-buffalo-simple-skull-fish-keep
-bip_39_word_new_br_1: eager
-bip_39_word_new_br_10: eager<br>snake<br>ship<br>ethics<br>buffalo<br>simple<br>skull<br>fish<br>keep<br>hint
-bip_39_word_new_br_11: eager<br>snake<br>ship<br>ethics<br>buffalo<br>simple<br>skull<br>fish<br>keep<br>hint<br>nasty
 bip_39_word_new_br_12: eager<br>snake<br>ship<br>ethics<br>buffalo<br>simple<br>skull<br>fish<br>keep<br>hint<br>nasty<br>attack
 bip_39_word_new_br_2: eager<br>snake
 bip_39_word_new_br_3: eager<br>snake<br>ship
-bip_39_word_new_br_4: eager<br>snake<br>ship<br>ethics
-bip_39_word_new_br_5: eager<br>snake<br>ship<br>ethics<br>buffalo
-bip_39_word_new_br_6: eager<br>snake<br>ship<br>ethics<br>buffalo<br>simple
-bip_39_word_new_br_7: eager<br>snake<br>ship<br>ethics<br>buffalo<br>simple<br>skull
-bip_39_word_new_br_8: eager<br>snake<br>ship<br>ethics<br>buffalo<br>simple<br>skull<br>fish
-bip_39_word_new_br_9: eager<br>snake<br>ship<br>ethics<br>buffalo<br>simple<br>skull<br>fish<br>keep
-bip_39_word_new_line_1: eager
-bip_39_word_new_line_10: 'eager
-
-  snake
-
-  ship
-
-  ethics
-
-  buffalo
-
-  simple
-
-  skull
-
-  fish
-
-  keep
-
-  hint'
-bip_39_word_new_line_11: 'eager
-
-  snake
-
-  ship
-
-  ethics
-
-  buffalo
-
-  simple
-
-  skull
-
-  fish
-
-  keep
-
-  hint
-
-  nasty'
 bip_39_word_new_line_12: 'eager
 
   snake
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'eager
   snake
 
   ship'
-bip_39_word_new_line_4: 'eager
-
-  snake
-
-  ship
-
-  ethics'
-bip_39_word_new_line_5: 'eager
-
-  snake
-
-  ship
-
-  ethics
-
-  buffalo'
-bip_39_word_new_line_6: 'eager
-
-  snake
-
-  ship
-
-  ethics
-
-  buffalo
-
-  simple'
-bip_39_word_new_line_7: 'eager
-
-  snake
-
-  ship
-
-  ethics
-
-  buffalo
-
-  simple
-
-  skull'
-bip_39_word_new_line_8: 'eager
-
-  snake
-
-  ship
-
-  ethics
-
-  buffalo
-
-  simple
-
-  skull
-
-  fish'
-bip_39_word_new_line_9: 'eager
-
-  snake
-
-  ship
-
-  ethics
-
-  buffalo
-
-  simple
-
-  skull
-
-  fish
-
-  keep'
-bip_39_word_no_space_1: eager
-bip_39_word_no_space_10: eagersnakeshipethicsbuffalosimpleskullfishkeephint
-bip_39_word_no_space_11: eagersnakeshipethicsbuffalosimpleskullfishkeephintnasty
 bip_39_word_no_space_12: eagersnakeshipethicsbuffalosimpleskullfishkeephintnastyattack
 bip_39_word_no_space_2: eagersnake
 bip_39_word_no_space_3: eagersnakeship
-bip_39_word_no_space_4: eagersnakeshipethics
-bip_39_word_no_space_5: eagersnakeshipethicsbuffalo
-bip_39_word_no_space_6: eagersnakeshipethicsbuffalosimple
-bip_39_word_no_space_7: eagersnakeshipethicsbuffalosimpleskull
-bip_39_word_no_space_8: eagersnakeshipethicsbuffalosimpleskullfish
-bip_39_word_no_space_9: eagersnakeshipethicsbuffalosimpleskullfishkeep
-bip_39_word_space_0:
-- eager
-- snake
-- ship
-- ethics
-- buffalo
-- simple
-- skull
-- fish
-- keep
-- hint
-- nasty
-- attack
-bip_39_word_space_1: eager
-bip_39_word_space_10: eager snake ship ethics buffalo simple skull fish keep hint
-bip_39_word_space_11: eager snake ship ethics buffalo simple skull fish keep hint
-  nasty
 bip_39_word_space_12: eager snake ship ethics buffalo simple skull fish keep hint
   nasty attack
 bip_39_word_space_2: eager snake
 bip_39_word_space_3: eager snake ship
-bip_39_word_space_4: eager snake ship ethics
-bip_39_word_space_5: eager snake ship ethics buffalo
-bip_39_word_space_6: eager snake ship ethics buffalo simple
-bip_39_word_space_7: eager snake ship ethics buffalo simple skull
-bip_39_word_space_8: eager snake ship ethics buffalo simple skull fish
-bip_39_word_space_9: eager snake ship ethics buffalo simple skull fish keep
-bip_39_word_underscore_1: eager
-bip_39_word_underscore_10: eager_snake_ship_ethics_buffalo_simple_skull_fish_keep_hint
-bip_39_word_underscore_11: eager_snake_ship_ethics_buffalo_simple_skull_fish_keep_hint_nasty
 bip_39_word_underscore_12: eager_snake_ship_ethics_buffalo_simple_skull_fish_keep_hint_nasty_attack
 bip_39_word_underscore_2: eager_snake
 bip_39_word_underscore_3: eager_snake_ship
-bip_39_word_underscore_4: eager_snake_ship_ethics
-bip_39_word_underscore_5: eager_snake_ship_ethics_buffalo
-bip_39_word_underscore_6: eager_snake_ship_ethics_buffalo_simple
-bip_39_word_underscore_7: eager_snake_ship_ethics_buffalo_simple_skull
-bip_39_word_underscore_8: eager_snake_ship_ethics_buffalo_simple_skull_fish
-bip_39_word_underscore_9: eager_snake_ship_ethics_buffalo_simple_skull_fish_keep
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: spring
-bip_39_word_dash_10: spring-clever-liar-shadow-later-crane-bounce-grass-favorite-hen
-bip_39_word_dash_11: spring-clever-liar-shadow-later-crane-bounce-grass-favorite-hen-horror
 bip_39_word_dash_12: spring-clever-liar-shadow-later-crane-bounce-grass-favorite-hen-horror-account
 bip_39_word_dash_2: spring-clever
 bip_39_word_dash_3: spring-clever-liar
-bip_39_word_dash_4: spring-clever-liar-shadow
-bip_39_word_dash_5: spring-clever-liar-shadow-later
-bip_39_word_dash_6: spring-clever-liar-shadow-later-crane
-bip_39_word_dash_7: spring-clever-liar-shadow-later-crane-bounce
-bip_39_word_dash_8: spring-clever-liar-shadow-later-crane-bounce-grass
-bip_39_word_dash_9: spring-clever-liar-shadow-later-crane-bounce-grass-favorite
-bip_39_word_new_br_1: spring
-bip_39_word_new_br_10: spring<br>clever<br>liar<br>shadow<br>later<br>crane<br>bounce<br>grass<br>favorite<br>hen
-bip_39_word_new_br_11: spring<br>clever<br>liar<br>shadow<br>later<br>crane<br>bounce<br>grass<br>favorite<br>hen<br>horror
 bip_39_word_new_br_12: spring<br>clever<br>liar<br>shadow<br>later<br>crane<br>bounce<br>grass<br>favorite<br>hen<br>horror<br>account
 bip_39_word_new_br_2: spring<br>clever
 bip_39_word_new_br_3: spring<br>clever<br>liar
-bip_39_word_new_br_4: spring<br>clever<br>liar<br>shadow
-bip_39_word_new_br_5: spring<br>clever<br>liar<br>shadow<br>later
-bip_39_word_new_br_6: spring<br>clever<br>liar<br>shadow<br>later<br>crane
-bip_39_word_new_br_7: spring<br>clever<br>liar<br>shadow<br>later<br>crane<br>bounce
-bip_39_word_new_br_8: spring<br>clever<br>liar<br>shadow<br>later<br>crane<br>bounce<br>grass
-bip_39_word_new_br_9: spring<br>clever<br>liar<br>shadow<br>later<br>crane<br>bounce<br>grass<br>favorite
-bip_39_word_new_line_1: spring
-bip_39_word_new_line_10: 'spring
-
-  clever
-
-  liar
-
-  shadow
-
-  later
-
-  crane
-
-  bounce
-
-  grass
-
-  favorite
-
-  hen'
-bip_39_word_new_line_11: 'spring
-
-  clever
-
-  liar
-
-  shadow
-
-  later
-
-  crane
-
-  bounce
-
-  grass
-
-  favorite
-
-  hen
-
-  horror'
 bip_39_word_new_line_12: 'spring
 
   clever
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'spring
   clever
 
   liar'
-bip_39_word_new_line_4: 'spring
-
-  clever
-
-  liar
-
-  shadow'
-bip_39_word_new_line_5: 'spring
-
-  clever
-
-  liar
-
-  shadow
-
-  later'
-bip_39_word_new_line_6: 'spring
-
-  clever
-
-  liar
-
-  shadow
-
-  later
-
-  crane'
-bip_39_word_new_line_7: 'spring
-
-  clever
-
-  liar
-
-  shadow
-
-  later
-
-  crane
-
-  bounce'
-bip_39_word_new_line_8: 'spring
-
-  clever
-
-  liar
-
-  shadow
-
-  later
-
-  crane
-
-  bounce
-
-  grass'
-bip_39_word_new_line_9: 'spring
-
-  clever
-
-  liar
-
-  shadow
-
-  later
-
-  crane
-
-  bounce
-
-  grass
-
-  favorite'
-bip_39_word_no_space_1: spring
-bip_39_word_no_space_10: springcleverliarshadowlatercranebouncegrassfavoritehen
-bip_39_word_no_space_11: springcleverliarshadowlatercranebouncegrassfavoritehenhorror
 bip_39_word_no_space_12: springcleverliarshadowlatercranebouncegrassfavoritehenhorroraccount
 bip_39_word_no_space_2: springclever
 bip_39_word_no_space_3: springcleverliar
-bip_39_word_no_space_4: springcleverliarshadow
-bip_39_word_no_space_5: springcleverliarshadowlater
-bip_39_word_no_space_6: springcleverliarshadowlatercrane
-bip_39_word_no_space_7: springcleverliarshadowlatercranebounce
-bip_39_word_no_space_8: springcleverliarshadowlatercranebouncegrass
-bip_39_word_no_space_9: springcleverliarshadowlatercranebouncegrassfavorite
-bip_39_word_space_0:
-- spring
-- clever
-- liar
-- shadow
-- later
-- crane
-- bounce
-- grass
-- favorite
-- hen
-- horror
-- account
-bip_39_word_space_1: spring
-bip_39_word_space_10: spring clever liar shadow later crane bounce grass favorite
-  hen
-bip_39_word_space_11: spring clever liar shadow later crane bounce grass favorite
-  hen horror
 bip_39_word_space_12: spring clever liar shadow later crane bounce grass favorite
   hen horror account
 bip_39_word_space_2: spring clever
 bip_39_word_space_3: spring clever liar
-bip_39_word_space_4: spring clever liar shadow
-bip_39_word_space_5: spring clever liar shadow later
-bip_39_word_space_6: spring clever liar shadow later crane
-bip_39_word_space_7: spring clever liar shadow later crane bounce
-bip_39_word_space_8: spring clever liar shadow later crane bounce grass
-bip_39_word_space_9: spring clever liar shadow later crane bounce grass favorite
-bip_39_word_underscore_1: spring
-bip_39_word_underscore_10: spring_clever_liar_shadow_later_crane_bounce_grass_favorite_hen
-bip_39_word_underscore_11: spring_clever_liar_shadow_later_crane_bounce_grass_favorite_hen_horror
 bip_39_word_underscore_12: spring_clever_liar_shadow_later_crane_bounce_grass_favorite_hen_horror_account
 bip_39_word_underscore_2: spring_clever
 bip_39_word_underscore_3: spring_clever_liar
-bip_39_word_underscore_4: spring_clever_liar_shadow
-bip_39_word_underscore_5: spring_clever_liar_shadow_later
-bip_39_word_underscore_6: spring_clever_liar_shadow_later_crane
-bip_39_word_underscore_7: spring_clever_liar_shadow_later_crane_bounce
-bip_39_word_underscore_8: spring_clever_liar_shadow_later_crane_bounce_grass
-bip_39_word_underscore_9: spring_clever_liar_shadow_later_crane_bounce_grass_favorite
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: year
-bip_39_word_dash_10: year-marine-space-legal-depart-glory-puppy-approve-scorpion-guard
-bip_39_word_dash_11: year-marine-space-legal-depart-glory-puppy-approve-scorpion-guard-false
 bip_39_word_dash_12: year-marine-space-legal-depart-glory-puppy-approve-scorpion-guard-false-admit
 bip_39_word_dash_2: year-marine
 bip_39_word_dash_3: year-marine-space
-bip_39_word_dash_4: year-marine-space-legal
-bip_39_word_dash_5: year-marine-space-legal-depart
-bip_39_word_dash_6: year-marine-space-legal-depart-glory
-bip_39_word_dash_7: year-marine-space-legal-depart-glory-puppy
-bip_39_word_dash_8: year-marine-space-legal-depart-glory-puppy-approve
-bip_39_word_dash_9: year-marine-space-legal-depart-glory-puppy-approve-scorpion
-bip_39_word_new_br_1: year
-bip_39_word_new_br_10: year<br>marine<br>space<br>legal<br>depart<br>glory<br>puppy<br>approve<br>scorpion<br>guard
-bip_39_word_new_br_11: year<br>marine<br>space<br>legal<br>depart<br>glory<br>puppy<br>approve<br>scorpion<br>guard<br>false
 bip_39_word_new_br_12: year<br>marine<br>space<br>legal<br>depart<br>glory<br>puppy<br>approve<br>scorpion<br>guard<br>false<br>admit
 bip_39_word_new_br_2: year<br>marine
 bip_39_word_new_br_3: year<br>marine<br>space
-bip_39_word_new_br_4: year<br>marine<br>space<br>legal
-bip_39_word_new_br_5: year<br>marine<br>space<br>legal<br>depart
-bip_39_word_new_br_6: year<br>marine<br>space<br>legal<br>depart<br>glory
-bip_39_word_new_br_7: year<br>marine<br>space<br>legal<br>depart<br>glory<br>puppy
-bip_39_word_new_br_8: year<br>marine<br>space<br>legal<br>depart<br>glory<br>puppy<br>approve
-bip_39_word_new_br_9: year<br>marine<br>space<br>legal<br>depart<br>glory<br>puppy<br>approve<br>scorpion
-bip_39_word_new_line_1: year
-bip_39_word_new_line_10: 'year
-
-  marine
-
-  space
-
-  legal
-
-  depart
-
-  glory
-
-  puppy
-
-  approve
-
-  scorpion
-
-  guard'
-bip_39_word_new_line_11: 'year
-
-  marine
-
-  space
-
-  legal
-
-  depart
-
-  glory
-
-  puppy
-
-  approve
-
-  scorpion
-
-  guard
-
-  false'
 bip_39_word_new_line_12: 'year
 
   marine
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'year
   marine
 
   space'
-bip_39_word_new_line_4: 'year
-
-  marine
-
-  space
-
-  legal'
-bip_39_word_new_line_5: 'year
-
-  marine
-
-  space
-
-  legal
-
-  depart'
-bip_39_word_new_line_6: 'year
-
-  marine
-
-  space
-
-  legal
-
-  depart
-
-  glory'
-bip_39_word_new_line_7: 'year
-
-  marine
-
-  space
-
-  legal
-
-  depart
-
-  glory
-
-  puppy'
-bip_39_word_new_line_8: 'year
-
-  marine
-
-  space
-
-  legal
-
-  depart
-
-  glory
-
-  puppy
-
-  approve'
-bip_39_word_new_line_9: 'year
-
-  marine
-
-  space
-
-  legal
-
-  depart
-
-  glory
-
-  puppy
-
-  approve
-
-  scorpion'
-bip_39_word_no_space_1: year
-bip_39_word_no_space_10: yearmarinespacelegaldepartglorypuppyapprovescorpionguard
-bip_39_word_no_space_11: yearmarinespacelegaldepartglorypuppyapprovescorpionguardfalse
 bip_39_word_no_space_12: yearmarinespacelegaldepartglorypuppyapprovescorpionguardfalseadmit
 bip_39_word_no_space_2: yearmarine
 bip_39_word_no_space_3: yearmarinespace
-bip_39_word_no_space_4: yearmarinespacelegal
-bip_39_word_no_space_5: yearmarinespacelegaldepart
-bip_39_word_no_space_6: yearmarinespacelegaldepartglory
-bip_39_word_no_space_7: yearmarinespacelegaldepartglorypuppy
-bip_39_word_no_space_8: yearmarinespacelegaldepartglorypuppyapprove
-bip_39_word_no_space_9: yearmarinespacelegaldepartglorypuppyapprovescorpion
-bip_39_word_space_0:
-- year
-- marine
-- space
-- legal
-- depart
-- glory
-- puppy
-- approve
-- scorpion
-- guard
-- 'false'
-- admit
-bip_39_word_space_1: year
-bip_39_word_space_10: year marine space legal depart glory puppy approve scorpion
-  guard
-bip_39_word_space_11: year marine space legal depart glory puppy approve scorpion
-  guard false
 bip_39_word_space_12: year marine space legal depart glory puppy approve scorpion
   guard false admit
 bip_39_word_space_2: year marine
 bip_39_word_space_3: year marine space
-bip_39_word_space_4: year marine space legal
-bip_39_word_space_5: year marine space legal depart
-bip_39_word_space_6: year marine space legal depart glory
-bip_39_word_space_7: year marine space legal depart glory puppy
-bip_39_word_space_8: year marine space legal depart glory puppy approve
-bip_39_word_space_9: year marine space legal depart glory puppy approve scorpion
-bip_39_word_underscore_1: year
-bip_39_word_underscore_10: year_marine_space_legal_depart_glory_puppy_approve_scorpion_guard
-bip_39_word_underscore_11: year_marine_space_legal_depart_glory_puppy_approve_scorpion_guard_false
 bip_39_word_underscore_12: year_marine_space_legal_depart_glory_puppy_approve_scorpion_guard_false_admit
 bip_39_word_underscore_2: year_marine
 bip_39_word_underscore_3: year_marine_space
-bip_39_word_underscore_4: year_marine_space_legal
-bip_39_word_underscore_5: year_marine_space_legal_depart
-bip_39_word_underscore_6: year_marine_space_legal_depart_glory
-bip_39_word_underscore_7: year_marine_space_legal_depart_glory_puppy
-bip_39_word_underscore_8: year_marine_space_legal_depart_glory_puppy_approve
-bip_39_word_underscore_9: year_marine_space_legal_depart_glory_puppy_approve_scorpion
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

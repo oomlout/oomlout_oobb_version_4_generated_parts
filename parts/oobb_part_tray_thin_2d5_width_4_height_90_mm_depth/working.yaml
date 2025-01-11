@@ -1,68 +1,9 @@
-bip_39_word_dash_1: model
-bip_39_word_dash_10: model-inflict-cheese-tourist-flock-lion-episode-edge-rain-rice
-bip_39_word_dash_11: model-inflict-cheese-tourist-flock-lion-episode-edge-rain-rice-jazz
 bip_39_word_dash_12: model-inflict-cheese-tourist-flock-lion-episode-edge-rain-rice-jazz-argue
 bip_39_word_dash_2: model-inflict
 bip_39_word_dash_3: model-inflict-cheese
-bip_39_word_dash_4: model-inflict-cheese-tourist
-bip_39_word_dash_5: model-inflict-cheese-tourist-flock
-bip_39_word_dash_6: model-inflict-cheese-tourist-flock-lion
-bip_39_word_dash_7: model-inflict-cheese-tourist-flock-lion-episode
-bip_39_word_dash_8: model-inflict-cheese-tourist-flock-lion-episode-edge
-bip_39_word_dash_9: model-inflict-cheese-tourist-flock-lion-episode-edge-rain
-bip_39_word_new_br_1: model
-bip_39_word_new_br_10: model<br>inflict<br>cheese<br>tourist<br>flock<br>lion<br>episode<br>edge<br>rain<br>rice
-bip_39_word_new_br_11: model<br>inflict<br>cheese<br>tourist<br>flock<br>lion<br>episode<br>edge<br>rain<br>rice<br>jazz
 bip_39_word_new_br_12: model<br>inflict<br>cheese<br>tourist<br>flock<br>lion<br>episode<br>edge<br>rain<br>rice<br>jazz<br>argue
 bip_39_word_new_br_2: model<br>inflict
 bip_39_word_new_br_3: model<br>inflict<br>cheese
-bip_39_word_new_br_4: model<br>inflict<br>cheese<br>tourist
-bip_39_word_new_br_5: model<br>inflict<br>cheese<br>tourist<br>flock
-bip_39_word_new_br_6: model<br>inflict<br>cheese<br>tourist<br>flock<br>lion
-bip_39_word_new_br_7: model<br>inflict<br>cheese<br>tourist<br>flock<br>lion<br>episode
-bip_39_word_new_br_8: model<br>inflict<br>cheese<br>tourist<br>flock<br>lion<br>episode<br>edge
-bip_39_word_new_br_9: model<br>inflict<br>cheese<br>tourist<br>flock<br>lion<br>episode<br>edge<br>rain
-bip_39_word_new_line_1: model
-bip_39_word_new_line_10: 'model
-
-  inflict
-
-  cheese
-
-  tourist
-
-  flock
-
-  lion
-
-  episode
-
-  edge
-
-  rain
-
-  rice'
-bip_39_word_new_line_11: 'model
-
-  inflict
-
-  cheese
-
-  tourist
-
-  flock
-
-  lion
-
-  episode
-
-  edge
-
-  rain
-
-  rice
-
-  jazz'
 bip_39_word_new_line_12: 'model
 
   inflict
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'model
   inflict
 
   cheese'
-bip_39_word_new_line_4: 'model
-
-  inflict
-
-  cheese
-
-  tourist'
-bip_39_word_new_line_5: 'model
-
-  inflict
-
-  cheese
-
-  tourist
-
-  flock'
-bip_39_word_new_line_6: 'model
-
-  inflict
-
-  cheese
-
-  tourist
-
-  flock
-
-  lion'
-bip_39_word_new_line_7: 'model
-
-  inflict
-
-  cheese
-
-  tourist
-
-  flock
-
-  lion
-
-  episode'
-bip_39_word_new_line_8: 'model
-
-  inflict
-
-  cheese
-
-  tourist
-
-  flock
-
-  lion
-
-  episode
-
-  edge'
-bip_39_word_new_line_9: 'model
-
-  inflict
-
-  cheese
-
-  tourist
-
-  flock
-
-  lion
-
-  episode
-
-  edge
-
-  rain'
-bip_39_word_no_space_1: model
-bip_39_word_no_space_10: modelinflictcheesetouristflocklionepisodeedgerainrice
-bip_39_word_no_space_11: modelinflictcheesetouristflocklionepisodeedgerainricejazz
 bip_39_word_no_space_12: modelinflictcheesetouristflocklionepisodeedgerainricejazzargue
 bip_39_word_no_space_2: modelinflict
 bip_39_word_no_space_3: modelinflictcheese
-bip_39_word_no_space_4: modelinflictcheesetourist
-bip_39_word_no_space_5: modelinflictcheesetouristflock
-bip_39_word_no_space_6: modelinflictcheesetouristflocklion
-bip_39_word_no_space_7: modelinflictcheesetouristflocklionepisode
-bip_39_word_no_space_8: modelinflictcheesetouristflocklionepisodeedge
-bip_39_word_no_space_9: modelinflictcheesetouristflocklionepisodeedgerain
-bip_39_word_space_0:
-- model
-- inflict
-- cheese
-- tourist
-- flock
-- lion
-- episode
-- edge
-- rain
-- rice
-- jazz
-- argue
-bip_39_word_space_1: model
-bip_39_word_space_10: model inflict cheese tourist flock lion episode edge rain rice
-bip_39_word_space_11: model inflict cheese tourist flock lion episode edge rain rice
-  jazz
 bip_39_word_space_12: model inflict cheese tourist flock lion episode edge rain rice
   jazz argue
 bip_39_word_space_2: model inflict
 bip_39_word_space_3: model inflict cheese
-bip_39_word_space_4: model inflict cheese tourist
-bip_39_word_space_5: model inflict cheese tourist flock
-bip_39_word_space_6: model inflict cheese tourist flock lion
-bip_39_word_space_7: model inflict cheese tourist flock lion episode
-bip_39_word_space_8: model inflict cheese tourist flock lion episode edge
-bip_39_word_space_9: model inflict cheese tourist flock lion episode edge rain
-bip_39_word_underscore_1: model
-bip_39_word_underscore_10: model_inflict_cheese_tourist_flock_lion_episode_edge_rain_rice
-bip_39_word_underscore_11: model_inflict_cheese_tourist_flock_lion_episode_edge_rain_rice_jazz
 bip_39_word_underscore_12: model_inflict_cheese_tourist_flock_lion_episode_edge_rain_rice_jazz_argue
 bip_39_word_underscore_2: model_inflict
 bip_39_word_underscore_3: model_inflict_cheese
-bip_39_word_underscore_4: model_inflict_cheese_tourist
-bip_39_word_underscore_5: model_inflict_cheese_tourist_flock
-bip_39_word_underscore_6: model_inflict_cheese_tourist_flock_lion
-bip_39_word_underscore_7: model_inflict_cheese_tourist_flock_lion_episode
-bip_39_word_underscore_8: model_inflict_cheese_tourist_flock_lion_episode_edge
-bip_39_word_underscore_9: model_inflict_cheese_tourist_flock_lion_episode_edge_rain
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

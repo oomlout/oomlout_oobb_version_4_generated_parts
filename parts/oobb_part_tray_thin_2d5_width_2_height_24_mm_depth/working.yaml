@@ -1,68 +1,9 @@
-bip_39_word_dash_1: payment
-bip_39_word_dash_10: payment-wage-subway-tide-zebra-letter-drill-lounge-call-grant
-bip_39_word_dash_11: payment-wage-subway-tide-zebra-letter-drill-lounge-call-grant-report
 bip_39_word_dash_12: payment-wage-subway-tide-zebra-letter-drill-lounge-call-grant-report-addict
 bip_39_word_dash_2: payment-wage
 bip_39_word_dash_3: payment-wage-subway
-bip_39_word_dash_4: payment-wage-subway-tide
-bip_39_word_dash_5: payment-wage-subway-tide-zebra
-bip_39_word_dash_6: payment-wage-subway-tide-zebra-letter
-bip_39_word_dash_7: payment-wage-subway-tide-zebra-letter-drill
-bip_39_word_dash_8: payment-wage-subway-tide-zebra-letter-drill-lounge
-bip_39_word_dash_9: payment-wage-subway-tide-zebra-letter-drill-lounge-call
-bip_39_word_new_br_1: payment
-bip_39_word_new_br_10: payment<br>wage<br>subway<br>tide<br>zebra<br>letter<br>drill<br>lounge<br>call<br>grant
-bip_39_word_new_br_11: payment<br>wage<br>subway<br>tide<br>zebra<br>letter<br>drill<br>lounge<br>call<br>grant<br>report
 bip_39_word_new_br_12: payment<br>wage<br>subway<br>tide<br>zebra<br>letter<br>drill<br>lounge<br>call<br>grant<br>report<br>addict
 bip_39_word_new_br_2: payment<br>wage
 bip_39_word_new_br_3: payment<br>wage<br>subway
-bip_39_word_new_br_4: payment<br>wage<br>subway<br>tide
-bip_39_word_new_br_5: payment<br>wage<br>subway<br>tide<br>zebra
-bip_39_word_new_br_6: payment<br>wage<br>subway<br>tide<br>zebra<br>letter
-bip_39_word_new_br_7: payment<br>wage<br>subway<br>tide<br>zebra<br>letter<br>drill
-bip_39_word_new_br_8: payment<br>wage<br>subway<br>tide<br>zebra<br>letter<br>drill<br>lounge
-bip_39_word_new_br_9: payment<br>wage<br>subway<br>tide<br>zebra<br>letter<br>drill<br>lounge<br>call
-bip_39_word_new_line_1: payment
-bip_39_word_new_line_10: 'payment
-
-  wage
-
-  subway
-
-  tide
-
-  zebra
-
-  letter
-
-  drill
-
-  lounge
-
-  call
-
-  grant'
-bip_39_word_new_line_11: 'payment
-
-  wage
-
-  subway
-
-  tide
-
-  zebra
-
-  letter
-
-  drill
-
-  lounge
-
-  call
-
-  grant
-
-  report'
 bip_39_word_new_line_12: 'payment
 
   wage
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'payment
   wage
 
   subway'
-bip_39_word_new_line_4: 'payment
-
-  wage
-
-  subway
-
-  tide'
-bip_39_word_new_line_5: 'payment
-
-  wage
-
-  subway
-
-  tide
-
-  zebra'
-bip_39_word_new_line_6: 'payment
-
-  wage
-
-  subway
-
-  tide
-
-  zebra
-
-  letter'
-bip_39_word_new_line_7: 'payment
-
-  wage
-
-  subway
-
-  tide
-
-  zebra
-
-  letter
-
-  drill'
-bip_39_word_new_line_8: 'payment
-
-  wage
-
-  subway
-
-  tide
-
-  zebra
-
-  letter
-
-  drill
-
-  lounge'
-bip_39_word_new_line_9: 'payment
-
-  wage
-
-  subway
-
-  tide
-
-  zebra
-
-  letter
-
-  drill
-
-  lounge
-
-  call'
-bip_39_word_no_space_1: payment
-bip_39_word_no_space_10: paymentwagesubwaytidezebraletterdrillloungecallgrant
-bip_39_word_no_space_11: paymentwagesubwaytidezebraletterdrillloungecallgrantreport
 bip_39_word_no_space_12: paymentwagesubwaytidezebraletterdrillloungecallgrantreportaddict
 bip_39_word_no_space_2: paymentwage
 bip_39_word_no_space_3: paymentwagesubway
-bip_39_word_no_space_4: paymentwagesubwaytide
-bip_39_word_no_space_5: paymentwagesubwaytidezebra
-bip_39_word_no_space_6: paymentwagesubwaytidezebraletter
-bip_39_word_no_space_7: paymentwagesubwaytidezebraletterdrill
-bip_39_word_no_space_8: paymentwagesubwaytidezebraletterdrilllounge
-bip_39_word_no_space_9: paymentwagesubwaytidezebraletterdrillloungecall
-bip_39_word_space_0:
-- payment
-- wage
-- subway
-- tide
-- zebra
-- letter
-- drill
-- lounge
-- call
-- grant
-- report
-- addict
-bip_39_word_space_1: payment
-bip_39_word_space_10: payment wage subway tide zebra letter drill lounge call grant
-bip_39_word_space_11: payment wage subway tide zebra letter drill lounge call grant
-  report
 bip_39_word_space_12: payment wage subway tide zebra letter drill lounge call grant
   report addict
 bip_39_word_space_2: payment wage
 bip_39_word_space_3: payment wage subway
-bip_39_word_space_4: payment wage subway tide
-bip_39_word_space_5: payment wage subway tide zebra
-bip_39_word_space_6: payment wage subway tide zebra letter
-bip_39_word_space_7: payment wage subway tide zebra letter drill
-bip_39_word_space_8: payment wage subway tide zebra letter drill lounge
-bip_39_word_space_9: payment wage subway tide zebra letter drill lounge call
-bip_39_word_underscore_1: payment
-bip_39_word_underscore_10: payment_wage_subway_tide_zebra_letter_drill_lounge_call_grant
-bip_39_word_underscore_11: payment_wage_subway_tide_zebra_letter_drill_lounge_call_grant_report
 bip_39_word_underscore_12: payment_wage_subway_tide_zebra_letter_drill_lounge_call_grant_report_addict
 bip_39_word_underscore_2: payment_wage
 bip_39_word_underscore_3: payment_wage_subway
-bip_39_word_underscore_4: payment_wage_subway_tide
-bip_39_word_underscore_5: payment_wage_subway_tide_zebra
-bip_39_word_underscore_6: payment_wage_subway_tide_zebra_letter
-bip_39_word_underscore_7: payment_wage_subway_tide_zebra_letter_drill
-bip_39_word_underscore_8: payment_wage_subway_tide_zebra_letter_drill_lounge
-bip_39_word_underscore_9: payment_wage_subway_tide_zebra_letter_drill_lounge_call
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

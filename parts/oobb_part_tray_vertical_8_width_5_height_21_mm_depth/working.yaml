@@ -1,68 +1,9 @@
-bip_39_word_dash_1: kiss
-bip_39_word_dash_10: kiss-grocery-mimic-ride-urban-high-retire-lumber-client-erode
-bip_39_word_dash_11: kiss-grocery-mimic-ride-urban-high-retire-lumber-client-erode-render
 bip_39_word_dash_12: kiss-grocery-mimic-ride-urban-high-retire-lumber-client-erode-render-affair
 bip_39_word_dash_2: kiss-grocery
 bip_39_word_dash_3: kiss-grocery-mimic
-bip_39_word_dash_4: kiss-grocery-mimic-ride
-bip_39_word_dash_5: kiss-grocery-mimic-ride-urban
-bip_39_word_dash_6: kiss-grocery-mimic-ride-urban-high
-bip_39_word_dash_7: kiss-grocery-mimic-ride-urban-high-retire
-bip_39_word_dash_8: kiss-grocery-mimic-ride-urban-high-retire-lumber
-bip_39_word_dash_9: kiss-grocery-mimic-ride-urban-high-retire-lumber-client
-bip_39_word_new_br_1: kiss
-bip_39_word_new_br_10: kiss<br>grocery<br>mimic<br>ride<br>urban<br>high<br>retire<br>lumber<br>client<br>erode
-bip_39_word_new_br_11: kiss<br>grocery<br>mimic<br>ride<br>urban<br>high<br>retire<br>lumber<br>client<br>erode<br>render
 bip_39_word_new_br_12: kiss<br>grocery<br>mimic<br>ride<br>urban<br>high<br>retire<br>lumber<br>client<br>erode<br>render<br>affair
 bip_39_word_new_br_2: kiss<br>grocery
 bip_39_word_new_br_3: kiss<br>grocery<br>mimic
-bip_39_word_new_br_4: kiss<br>grocery<br>mimic<br>ride
-bip_39_word_new_br_5: kiss<br>grocery<br>mimic<br>ride<br>urban
-bip_39_word_new_br_6: kiss<br>grocery<br>mimic<br>ride<br>urban<br>high
-bip_39_word_new_br_7: kiss<br>grocery<br>mimic<br>ride<br>urban<br>high<br>retire
-bip_39_word_new_br_8: kiss<br>grocery<br>mimic<br>ride<br>urban<br>high<br>retire<br>lumber
-bip_39_word_new_br_9: kiss<br>grocery<br>mimic<br>ride<br>urban<br>high<br>retire<br>lumber<br>client
-bip_39_word_new_line_1: kiss
-bip_39_word_new_line_10: 'kiss
-
-  grocery
-
-  mimic
-
-  ride
-
-  urban
-
-  high
-
-  retire
-
-  lumber
-
-  client
-
-  erode'
-bip_39_word_new_line_11: 'kiss
-
-  grocery
-
-  mimic
-
-  ride
-
-  urban
-
-  high
-
-  retire
-
-  lumber
-
-  client
-
-  erode
-
-  render'
 bip_39_word_new_line_12: 'kiss
 
   grocery
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'kiss
   grocery
 
   mimic'
-bip_39_word_new_line_4: 'kiss
-
-  grocery
-
-  mimic
-
-  ride'
-bip_39_word_new_line_5: 'kiss
-
-  grocery
-
-  mimic
-
-  ride
-
-  urban'
-bip_39_word_new_line_6: 'kiss
-
-  grocery
-
-  mimic
-
-  ride
-
-  urban
-
-  high'
-bip_39_word_new_line_7: 'kiss
-
-  grocery
-
-  mimic
-
-  ride
-
-  urban
-
-  high
-
-  retire'
-bip_39_word_new_line_8: 'kiss
-
-  grocery
-
-  mimic
-
-  ride
-
-  urban
-
-  high
-
-  retire
-
-  lumber'
-bip_39_word_new_line_9: 'kiss
-
-  grocery
-
-  mimic
-
-  ride
-
-  urban
-
-  high
-
-  retire
-
-  lumber
-
-  client'
-bip_39_word_no_space_1: kiss
-bip_39_word_no_space_10: kissgrocerymimicrideurbanhighretirelumberclienterode
-bip_39_word_no_space_11: kissgrocerymimicrideurbanhighretirelumberclienteroderender
 bip_39_word_no_space_12: kissgrocerymimicrideurbanhighretirelumberclienteroderenderaffair
 bip_39_word_no_space_2: kissgrocery
 bip_39_word_no_space_3: kissgrocerymimic
-bip_39_word_no_space_4: kissgrocerymimicride
-bip_39_word_no_space_5: kissgrocerymimicrideurban
-bip_39_word_no_space_6: kissgrocerymimicrideurbanhigh
-bip_39_word_no_space_7: kissgrocerymimicrideurbanhighretire
-bip_39_word_no_space_8: kissgrocerymimicrideurbanhighretirelumber
-bip_39_word_no_space_9: kissgrocerymimicrideurbanhighretirelumberclient
-bip_39_word_space_0:
-- kiss
-- grocery
-- mimic
-- ride
-- urban
-- high
-- retire
-- lumber
-- client
-- erode
-- render
-- affair
-bip_39_word_space_1: kiss
-bip_39_word_space_10: kiss grocery mimic ride urban high retire lumber client erode
-bip_39_word_space_11: kiss grocery mimic ride urban high retire lumber client erode
-  render
 bip_39_word_space_12: kiss grocery mimic ride urban high retire lumber client erode
   render affair
 bip_39_word_space_2: kiss grocery
 bip_39_word_space_3: kiss grocery mimic
-bip_39_word_space_4: kiss grocery mimic ride
-bip_39_word_space_5: kiss grocery mimic ride urban
-bip_39_word_space_6: kiss grocery mimic ride urban high
-bip_39_word_space_7: kiss grocery mimic ride urban high retire
-bip_39_word_space_8: kiss grocery mimic ride urban high retire lumber
-bip_39_word_space_9: kiss grocery mimic ride urban high retire lumber client
-bip_39_word_underscore_1: kiss
-bip_39_word_underscore_10: kiss_grocery_mimic_ride_urban_high_retire_lumber_client_erode
-bip_39_word_underscore_11: kiss_grocery_mimic_ride_urban_high_retire_lumber_client_erode_render
 bip_39_word_underscore_12: kiss_grocery_mimic_ride_urban_high_retire_lumber_client_erode_render_affair
 bip_39_word_underscore_2: kiss_grocery
 bip_39_word_underscore_3: kiss_grocery_mimic
-bip_39_word_underscore_4: kiss_grocery_mimic_ride
-bip_39_word_underscore_5: kiss_grocery_mimic_ride_urban
-bip_39_word_underscore_6: kiss_grocery_mimic_ride_urban_high
-bip_39_word_underscore_7: kiss_grocery_mimic_ride_urban_high_retire
-bip_39_word_underscore_8: kiss_grocery_mimic_ride_urban_high_retire_lumber
-bip_39_word_underscore_9: kiss_grocery_mimic_ride_urban_high_retire_lumber_client
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

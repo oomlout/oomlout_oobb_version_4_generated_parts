@@ -1,68 +1,9 @@
-bip_39_word_dash_1: desert
-bip_39_word_dash_10: desert-live-bright-sample-valid-amateur-leisure-tragic-fall-ticket
-bip_39_word_dash_11: desert-live-bright-sample-valid-amateur-leisure-tragic-fall-ticket-run
 bip_39_word_dash_12: desert-live-bright-sample-valid-amateur-leisure-tragic-fall-ticket-run-agree
 bip_39_word_dash_2: desert-live
 bip_39_word_dash_3: desert-live-bright
-bip_39_word_dash_4: desert-live-bright-sample
-bip_39_word_dash_5: desert-live-bright-sample-valid
-bip_39_word_dash_6: desert-live-bright-sample-valid-amateur
-bip_39_word_dash_7: desert-live-bright-sample-valid-amateur-leisure
-bip_39_word_dash_8: desert-live-bright-sample-valid-amateur-leisure-tragic
-bip_39_word_dash_9: desert-live-bright-sample-valid-amateur-leisure-tragic-fall
-bip_39_word_new_br_1: desert
-bip_39_word_new_br_10: desert<br>live<br>bright<br>sample<br>valid<br>amateur<br>leisure<br>tragic<br>fall<br>ticket
-bip_39_word_new_br_11: desert<br>live<br>bright<br>sample<br>valid<br>amateur<br>leisure<br>tragic<br>fall<br>ticket<br>run
 bip_39_word_new_br_12: desert<br>live<br>bright<br>sample<br>valid<br>amateur<br>leisure<br>tragic<br>fall<br>ticket<br>run<br>agree
 bip_39_word_new_br_2: desert<br>live
 bip_39_word_new_br_3: desert<br>live<br>bright
-bip_39_word_new_br_4: desert<br>live<br>bright<br>sample
-bip_39_word_new_br_5: desert<br>live<br>bright<br>sample<br>valid
-bip_39_word_new_br_6: desert<br>live<br>bright<br>sample<br>valid<br>amateur
-bip_39_word_new_br_7: desert<br>live<br>bright<br>sample<br>valid<br>amateur<br>leisure
-bip_39_word_new_br_8: desert<br>live<br>bright<br>sample<br>valid<br>amateur<br>leisure<br>tragic
-bip_39_word_new_br_9: desert<br>live<br>bright<br>sample<br>valid<br>amateur<br>leisure<br>tragic<br>fall
-bip_39_word_new_line_1: desert
-bip_39_word_new_line_10: 'desert
-
-  live
-
-  bright
-
-  sample
-
-  valid
-
-  amateur
-
-  leisure
-
-  tragic
-
-  fall
-
-  ticket'
-bip_39_word_new_line_11: 'desert
-
-  live
-
-  bright
-
-  sample
-
-  valid
-
-  amateur
-
-  leisure
-
-  tragic
-
-  fall
-
-  ticket
-
-  run'
 bip_39_word_new_line_12: 'desert
 
   live
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'desert
   live
 
   bright'
-bip_39_word_new_line_4: 'desert
-
-  live
-
-  bright
-
-  sample'
-bip_39_word_new_line_5: 'desert
-
-  live
-
-  bright
-
-  sample
-
-  valid'
-bip_39_word_new_line_6: 'desert
-
-  live
-
-  bright
-
-  sample
-
-  valid
-
-  amateur'
-bip_39_word_new_line_7: 'desert
-
-  live
-
-  bright
-
-  sample
-
-  valid
-
-  amateur
-
-  leisure'
-bip_39_word_new_line_8: 'desert
-
-  live
-
-  bright
-
-  sample
-
-  valid
-
-  amateur
-
-  leisure
-
-  tragic'
-bip_39_word_new_line_9: 'desert
-
-  live
-
-  bright
-
-  sample
-
-  valid
-
-  amateur
-
-  leisure
-
-  tragic
-
-  fall'
-bip_39_word_no_space_1: desert
-bip_39_word_no_space_10: desertlivebrightsamplevalidamateurleisuretragicfallticket
-bip_39_word_no_space_11: desertlivebrightsamplevalidamateurleisuretragicfallticketrun
 bip_39_word_no_space_12: desertlivebrightsamplevalidamateurleisuretragicfallticketrunagree
 bip_39_word_no_space_2: desertlive
 bip_39_word_no_space_3: desertlivebright
-bip_39_word_no_space_4: desertlivebrightsample
-bip_39_word_no_space_5: desertlivebrightsamplevalid
-bip_39_word_no_space_6: desertlivebrightsamplevalidamateur
-bip_39_word_no_space_7: desertlivebrightsamplevalidamateurleisure
-bip_39_word_no_space_8: desertlivebrightsamplevalidamateurleisuretragic
-bip_39_word_no_space_9: desertlivebrightsamplevalidamateurleisuretragicfall
-bip_39_word_space_0:
-- desert
-- live
-- bright
-- sample
-- valid
-- amateur
-- leisure
-- tragic
-- fall
-- ticket
-- run
-- agree
-bip_39_word_space_1: desert
-bip_39_word_space_10: desert live bright sample valid amateur leisure tragic fall
-  ticket
-bip_39_word_space_11: desert live bright sample valid amateur leisure tragic fall
-  ticket run
 bip_39_word_space_12: desert live bright sample valid amateur leisure tragic fall
   ticket run agree
 bip_39_word_space_2: desert live
 bip_39_word_space_3: desert live bright
-bip_39_word_space_4: desert live bright sample
-bip_39_word_space_5: desert live bright sample valid
-bip_39_word_space_6: desert live bright sample valid amateur
-bip_39_word_space_7: desert live bright sample valid amateur leisure
-bip_39_word_space_8: desert live bright sample valid amateur leisure tragic
-bip_39_word_space_9: desert live bright sample valid amateur leisure tragic fall
-bip_39_word_underscore_1: desert
-bip_39_word_underscore_10: desert_live_bright_sample_valid_amateur_leisure_tragic_fall_ticket
-bip_39_word_underscore_11: desert_live_bright_sample_valid_amateur_leisure_tragic_fall_ticket_run
 bip_39_word_underscore_12: desert_live_bright_sample_valid_amateur_leisure_tragic_fall_ticket_run_agree
 bip_39_word_underscore_2: desert_live
 bip_39_word_underscore_3: desert_live_bright
-bip_39_word_underscore_4: desert_live_bright_sample
-bip_39_word_underscore_5: desert_live_bright_sample_valid
-bip_39_word_underscore_6: desert_live_bright_sample_valid_amateur
-bip_39_word_underscore_7: desert_live_bright_sample_valid_amateur_leisure
-bip_39_word_underscore_8: desert_live_bright_sample_valid_amateur_leisure_tragic
-bip_39_word_underscore_9: desert_live_bright_sample_valid_amateur_leisure_tragic_fall
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

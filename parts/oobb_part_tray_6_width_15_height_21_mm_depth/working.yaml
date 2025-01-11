@@ -1,68 +1,9 @@
-bip_39_word_dash_1: direct
-bip_39_word_dash_10: direct-disagree-pull-sphere-pledge-birth-law-dust-imitate-door
-bip_39_word_dash_11: direct-disagree-pull-sphere-pledge-birth-law-dust-imitate-door-six
 bip_39_word_dash_12: direct-disagree-pull-sphere-pledge-birth-law-dust-imitate-door-six-apology
 bip_39_word_dash_2: direct-disagree
 bip_39_word_dash_3: direct-disagree-pull
-bip_39_word_dash_4: direct-disagree-pull-sphere
-bip_39_word_dash_5: direct-disagree-pull-sphere-pledge
-bip_39_word_dash_6: direct-disagree-pull-sphere-pledge-birth
-bip_39_word_dash_7: direct-disagree-pull-sphere-pledge-birth-law
-bip_39_word_dash_8: direct-disagree-pull-sphere-pledge-birth-law-dust
-bip_39_word_dash_9: direct-disagree-pull-sphere-pledge-birth-law-dust-imitate
-bip_39_word_new_br_1: direct
-bip_39_word_new_br_10: direct<br>disagree<br>pull<br>sphere<br>pledge<br>birth<br>law<br>dust<br>imitate<br>door
-bip_39_word_new_br_11: direct<br>disagree<br>pull<br>sphere<br>pledge<br>birth<br>law<br>dust<br>imitate<br>door<br>six
 bip_39_word_new_br_12: direct<br>disagree<br>pull<br>sphere<br>pledge<br>birth<br>law<br>dust<br>imitate<br>door<br>six<br>apology
 bip_39_word_new_br_2: direct<br>disagree
 bip_39_word_new_br_3: direct<br>disagree<br>pull
-bip_39_word_new_br_4: direct<br>disagree<br>pull<br>sphere
-bip_39_word_new_br_5: direct<br>disagree<br>pull<br>sphere<br>pledge
-bip_39_word_new_br_6: direct<br>disagree<br>pull<br>sphere<br>pledge<br>birth
-bip_39_word_new_br_7: direct<br>disagree<br>pull<br>sphere<br>pledge<br>birth<br>law
-bip_39_word_new_br_8: direct<br>disagree<br>pull<br>sphere<br>pledge<br>birth<br>law<br>dust
-bip_39_word_new_br_9: direct<br>disagree<br>pull<br>sphere<br>pledge<br>birth<br>law<br>dust<br>imitate
-bip_39_word_new_line_1: direct
-bip_39_word_new_line_10: 'direct
-
-  disagree
-
-  pull
-
-  sphere
-
-  pledge
-
-  birth
-
-  law
-
-  dust
-
-  imitate
-
-  door'
-bip_39_word_new_line_11: 'direct
-
-  disagree
-
-  pull
-
-  sphere
-
-  pledge
-
-  birth
-
-  law
-
-  dust
-
-  imitate
-
-  door
-
-  six'
 bip_39_word_new_line_12: 'direct
 
   disagree
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'direct
   disagree
 
   pull'
-bip_39_word_new_line_4: 'direct
-
-  disagree
-
-  pull
-
-  sphere'
-bip_39_word_new_line_5: 'direct
-
-  disagree
-
-  pull
-
-  sphere
-
-  pledge'
-bip_39_word_new_line_6: 'direct
-
-  disagree
-
-  pull
-
-  sphere
-
-  pledge
-
-  birth'
-bip_39_word_new_line_7: 'direct
-
-  disagree
-
-  pull
-
-  sphere
-
-  pledge
-
-  birth
-
-  law'
-bip_39_word_new_line_8: 'direct
-
-  disagree
-
-  pull
-
-  sphere
-
-  pledge
-
-  birth
-
-  law
-
-  dust'
-bip_39_word_new_line_9: 'direct
-
-  disagree
-
-  pull
-
-  sphere
-
-  pledge
-
-  birth
-
-  law
-
-  dust
-
-  imitate'
-bip_39_word_no_space_1: direct
-bip_39_word_no_space_10: directdisagreepullspherepledgebirthlawdustimitatedoor
-bip_39_word_no_space_11: directdisagreepullspherepledgebirthlawdustimitatedoorsix
 bip_39_word_no_space_12: directdisagreepullspherepledgebirthlawdustimitatedoorsixapology
 bip_39_word_no_space_2: directdisagree
 bip_39_word_no_space_3: directdisagreepull
-bip_39_word_no_space_4: directdisagreepullsphere
-bip_39_word_no_space_5: directdisagreepullspherepledge
-bip_39_word_no_space_6: directdisagreepullspherepledgebirth
-bip_39_word_no_space_7: directdisagreepullspherepledgebirthlaw
-bip_39_word_no_space_8: directdisagreepullspherepledgebirthlawdust
-bip_39_word_no_space_9: directdisagreepullspherepledgebirthlawdustimitate
-bip_39_word_space_0:
-- direct
-- disagree
-- pull
-- sphere
-- pledge
-- birth
-- law
-- dust
-- imitate
-- door
-- six
-- apology
-bip_39_word_space_1: direct
-bip_39_word_space_10: direct disagree pull sphere pledge birth law dust imitate door
-bip_39_word_space_11: direct disagree pull sphere pledge birth law dust imitate door
-  six
 bip_39_word_space_12: direct disagree pull sphere pledge birth law dust imitate door
   six apology
 bip_39_word_space_2: direct disagree
 bip_39_word_space_3: direct disagree pull
-bip_39_word_space_4: direct disagree pull sphere
-bip_39_word_space_5: direct disagree pull sphere pledge
-bip_39_word_space_6: direct disagree pull sphere pledge birth
-bip_39_word_space_7: direct disagree pull sphere pledge birth law
-bip_39_word_space_8: direct disagree pull sphere pledge birth law dust
-bip_39_word_space_9: direct disagree pull sphere pledge birth law dust imitate
-bip_39_word_underscore_1: direct
-bip_39_word_underscore_10: direct_disagree_pull_sphere_pledge_birth_law_dust_imitate_door
-bip_39_word_underscore_11: direct_disagree_pull_sphere_pledge_birth_law_dust_imitate_door_six
 bip_39_word_underscore_12: direct_disagree_pull_sphere_pledge_birth_law_dust_imitate_door_six_apology
 bip_39_word_underscore_2: direct_disagree
 bip_39_word_underscore_3: direct_disagree_pull
-bip_39_word_underscore_4: direct_disagree_pull_sphere
-bip_39_word_underscore_5: direct_disagree_pull_sphere_pledge
-bip_39_word_underscore_6: direct_disagree_pull_sphere_pledge_birth
-bip_39_word_underscore_7: direct_disagree_pull_sphere_pledge_birth_law
-bip_39_word_underscore_8: direct_disagree_pull_sphere_pledge_birth_law_dust
-bip_39_word_underscore_9: direct_disagree_pull_sphere_pledge_birth_law_dust_imitate
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

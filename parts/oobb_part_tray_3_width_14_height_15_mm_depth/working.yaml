@@ -1,68 +1,9 @@
-bip_39_word_dash_1: puppy
-bip_39_word_dash_10: puppy-envelope-judge-orchard-flat-vacant-hazard-bike-journey-gospel
-bip_39_word_dash_11: puppy-envelope-judge-orchard-flat-vacant-hazard-bike-journey-gospel-fruit
 bip_39_word_dash_12: puppy-envelope-judge-orchard-flat-vacant-hazard-bike-journey-gospel-fruit-artist
 bip_39_word_dash_2: puppy-envelope
 bip_39_word_dash_3: puppy-envelope-judge
-bip_39_word_dash_4: puppy-envelope-judge-orchard
-bip_39_word_dash_5: puppy-envelope-judge-orchard-flat
-bip_39_word_dash_6: puppy-envelope-judge-orchard-flat-vacant
-bip_39_word_dash_7: puppy-envelope-judge-orchard-flat-vacant-hazard
-bip_39_word_dash_8: puppy-envelope-judge-orchard-flat-vacant-hazard-bike
-bip_39_word_dash_9: puppy-envelope-judge-orchard-flat-vacant-hazard-bike-journey
-bip_39_word_new_br_1: puppy
-bip_39_word_new_br_10: puppy<br>envelope<br>judge<br>orchard<br>flat<br>vacant<br>hazard<br>bike<br>journey<br>gospel
-bip_39_word_new_br_11: puppy<br>envelope<br>judge<br>orchard<br>flat<br>vacant<br>hazard<br>bike<br>journey<br>gospel<br>fruit
 bip_39_word_new_br_12: puppy<br>envelope<br>judge<br>orchard<br>flat<br>vacant<br>hazard<br>bike<br>journey<br>gospel<br>fruit<br>artist
 bip_39_word_new_br_2: puppy<br>envelope
 bip_39_word_new_br_3: puppy<br>envelope<br>judge
-bip_39_word_new_br_4: puppy<br>envelope<br>judge<br>orchard
-bip_39_word_new_br_5: puppy<br>envelope<br>judge<br>orchard<br>flat
-bip_39_word_new_br_6: puppy<br>envelope<br>judge<br>orchard<br>flat<br>vacant
-bip_39_word_new_br_7: puppy<br>envelope<br>judge<br>orchard<br>flat<br>vacant<br>hazard
-bip_39_word_new_br_8: puppy<br>envelope<br>judge<br>orchard<br>flat<br>vacant<br>hazard<br>bike
-bip_39_word_new_br_9: puppy<br>envelope<br>judge<br>orchard<br>flat<br>vacant<br>hazard<br>bike<br>journey
-bip_39_word_new_line_1: puppy
-bip_39_word_new_line_10: 'puppy
-
-  envelope
-
-  judge
-
-  orchard
-
-  flat
-
-  vacant
-
-  hazard
-
-  bike
-
-  journey
-
-  gospel'
-bip_39_word_new_line_11: 'puppy
-
-  envelope
-
-  judge
-
-  orchard
-
-  flat
-
-  vacant
-
-  hazard
-
-  bike
-
-  journey
-
-  gospel
-
-  fruit'
 bip_39_word_new_line_12: 'puppy
 
   envelope
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'puppy
   envelope
 
   judge'
-bip_39_word_new_line_4: 'puppy
-
-  envelope
-
-  judge
-
-  orchard'
-bip_39_word_new_line_5: 'puppy
-
-  envelope
-
-  judge
-
-  orchard
-
-  flat'
-bip_39_word_new_line_6: 'puppy
-
-  envelope
-
-  judge
-
-  orchard
-
-  flat
-
-  vacant'
-bip_39_word_new_line_7: 'puppy
-
-  envelope
-
-  judge
-
-  orchard
-
-  flat
-
-  vacant
-
-  hazard'
-bip_39_word_new_line_8: 'puppy
-
-  envelope
-
-  judge
-
-  orchard
-
-  flat
-
-  vacant
-
-  hazard
-
-  bike'
-bip_39_word_new_line_9: 'puppy
-
-  envelope
-
-  judge
-
-  orchard
-
-  flat
-
-  vacant
-
-  hazard
-
-  bike
-
-  journey'
-bip_39_word_no_space_1: puppy
-bip_39_word_no_space_10: puppyenvelopejudgeorchardflatvacanthazardbikejourneygospel
-bip_39_word_no_space_11: puppyenvelopejudgeorchardflatvacanthazardbikejourneygospelfruit
 bip_39_word_no_space_12: puppyenvelopejudgeorchardflatvacanthazardbikejourneygospelfruitartist
 bip_39_word_no_space_2: puppyenvelope
 bip_39_word_no_space_3: puppyenvelopejudge
-bip_39_word_no_space_4: puppyenvelopejudgeorchard
-bip_39_word_no_space_5: puppyenvelopejudgeorchardflat
-bip_39_word_no_space_6: puppyenvelopejudgeorchardflatvacant
-bip_39_word_no_space_7: puppyenvelopejudgeorchardflatvacanthazard
-bip_39_word_no_space_8: puppyenvelopejudgeorchardflatvacanthazardbike
-bip_39_word_no_space_9: puppyenvelopejudgeorchardflatvacanthazardbikejourney
-bip_39_word_space_0:
-- puppy
-- envelope
-- judge
-- orchard
-- flat
-- vacant
-- hazard
-- bike
-- journey
-- gospel
-- fruit
-- artist
-bip_39_word_space_1: puppy
-bip_39_word_space_10: puppy envelope judge orchard flat vacant hazard bike journey
-  gospel
-bip_39_word_space_11: puppy envelope judge orchard flat vacant hazard bike journey
-  gospel fruit
 bip_39_word_space_12: puppy envelope judge orchard flat vacant hazard bike journey
   gospel fruit artist
 bip_39_word_space_2: puppy envelope
 bip_39_word_space_3: puppy envelope judge
-bip_39_word_space_4: puppy envelope judge orchard
-bip_39_word_space_5: puppy envelope judge orchard flat
-bip_39_word_space_6: puppy envelope judge orchard flat vacant
-bip_39_word_space_7: puppy envelope judge orchard flat vacant hazard
-bip_39_word_space_8: puppy envelope judge orchard flat vacant hazard bike
-bip_39_word_space_9: puppy envelope judge orchard flat vacant hazard bike journey
-bip_39_word_underscore_1: puppy
-bip_39_word_underscore_10: puppy_envelope_judge_orchard_flat_vacant_hazard_bike_journey_gospel
-bip_39_word_underscore_11: puppy_envelope_judge_orchard_flat_vacant_hazard_bike_journey_gospel_fruit
 bip_39_word_underscore_12: puppy_envelope_judge_orchard_flat_vacant_hazard_bike_journey_gospel_fruit_artist
 bip_39_word_underscore_2: puppy_envelope
 bip_39_word_underscore_3: puppy_envelope_judge
-bip_39_word_underscore_4: puppy_envelope_judge_orchard
-bip_39_word_underscore_5: puppy_envelope_judge_orchard_flat
-bip_39_word_underscore_6: puppy_envelope_judge_orchard_flat_vacant
-bip_39_word_underscore_7: puppy_envelope_judge_orchard_flat_vacant_hazard
-bip_39_word_underscore_8: puppy_envelope_judge_orchard_flat_vacant_hazard_bike
-bip_39_word_underscore_9: puppy_envelope_judge_orchard_flat_vacant_hazard_bike_journey
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

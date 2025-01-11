@@ -1,68 +1,9 @@
-bip_39_word_dash_1: easy
-bip_39_word_dash_10: easy-current-fatal-deny-board-loud-rate-street-charge-sound
-bip_39_word_dash_11: easy-current-fatal-deny-board-loud-rate-street-charge-sound-input
 bip_39_word_dash_12: easy-current-fatal-deny-board-loud-rate-street-charge-sound-input-attack
 bip_39_word_dash_2: easy-current
 bip_39_word_dash_3: easy-current-fatal
-bip_39_word_dash_4: easy-current-fatal-deny
-bip_39_word_dash_5: easy-current-fatal-deny-board
-bip_39_word_dash_6: easy-current-fatal-deny-board-loud
-bip_39_word_dash_7: easy-current-fatal-deny-board-loud-rate
-bip_39_word_dash_8: easy-current-fatal-deny-board-loud-rate-street
-bip_39_word_dash_9: easy-current-fatal-deny-board-loud-rate-street-charge
-bip_39_word_new_br_1: easy
-bip_39_word_new_br_10: easy<br>current<br>fatal<br>deny<br>board<br>loud<br>rate<br>street<br>charge<br>sound
-bip_39_word_new_br_11: easy<br>current<br>fatal<br>deny<br>board<br>loud<br>rate<br>street<br>charge<br>sound<br>input
 bip_39_word_new_br_12: easy<br>current<br>fatal<br>deny<br>board<br>loud<br>rate<br>street<br>charge<br>sound<br>input<br>attack
 bip_39_word_new_br_2: easy<br>current
 bip_39_word_new_br_3: easy<br>current<br>fatal
-bip_39_word_new_br_4: easy<br>current<br>fatal<br>deny
-bip_39_word_new_br_5: easy<br>current<br>fatal<br>deny<br>board
-bip_39_word_new_br_6: easy<br>current<br>fatal<br>deny<br>board<br>loud
-bip_39_word_new_br_7: easy<br>current<br>fatal<br>deny<br>board<br>loud<br>rate
-bip_39_word_new_br_8: easy<br>current<br>fatal<br>deny<br>board<br>loud<br>rate<br>street
-bip_39_word_new_br_9: easy<br>current<br>fatal<br>deny<br>board<br>loud<br>rate<br>street<br>charge
-bip_39_word_new_line_1: easy
-bip_39_word_new_line_10: 'easy
-
-  current
-
-  fatal
-
-  deny
-
-  board
-
-  loud
-
-  rate
-
-  street
-
-  charge
-
-  sound'
-bip_39_word_new_line_11: 'easy
-
-  current
-
-  fatal
-
-  deny
-
-  board
-
-  loud
-
-  rate
-
-  street
-
-  charge
-
-  sound
-
-  input'
 bip_39_word_new_line_12: 'easy
 
   current
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'easy
   current
 
   fatal'
-bip_39_word_new_line_4: 'easy
-
-  current
-
-  fatal
-
-  deny'
-bip_39_word_new_line_5: 'easy
-
-  current
-
-  fatal
-
-  deny
-
-  board'
-bip_39_word_new_line_6: 'easy
-
-  current
-
-  fatal
-
-  deny
-
-  board
-
-  loud'
-bip_39_word_new_line_7: 'easy
-
-  current
-
-  fatal
-
-  deny
-
-  board
-
-  loud
-
-  rate'
-bip_39_word_new_line_8: 'easy
-
-  current
-
-  fatal
-
-  deny
-
-  board
-
-  loud
-
-  rate
-
-  street'
-bip_39_word_new_line_9: 'easy
-
-  current
-
-  fatal
-
-  deny
-
-  board
-
-  loud
-
-  rate
-
-  street
-
-  charge'
-bip_39_word_no_space_1: easy
-bip_39_word_no_space_10: easycurrentfataldenyboardloudratestreetchargesound
-bip_39_word_no_space_11: easycurrentfataldenyboardloudratestreetchargesoundinput
 bip_39_word_no_space_12: easycurrentfataldenyboardloudratestreetchargesoundinputattack
 bip_39_word_no_space_2: easycurrent
 bip_39_word_no_space_3: easycurrentfatal
-bip_39_word_no_space_4: easycurrentfataldeny
-bip_39_word_no_space_5: easycurrentfataldenyboard
-bip_39_word_no_space_6: easycurrentfataldenyboardloud
-bip_39_word_no_space_7: easycurrentfataldenyboardloudrate
-bip_39_word_no_space_8: easycurrentfataldenyboardloudratestreet
-bip_39_word_no_space_9: easycurrentfataldenyboardloudratestreetcharge
-bip_39_word_space_0:
-- easy
-- current
-- fatal
-- deny
-- board
-- loud
-- rate
-- street
-- charge
-- sound
-- input
-- attack
-bip_39_word_space_1: easy
-bip_39_word_space_10: easy current fatal deny board loud rate street charge sound
-bip_39_word_space_11: easy current fatal deny board loud rate street charge sound
-  input
 bip_39_word_space_12: easy current fatal deny board loud rate street charge sound
   input attack
 bip_39_word_space_2: easy current
 bip_39_word_space_3: easy current fatal
-bip_39_word_space_4: easy current fatal deny
-bip_39_word_space_5: easy current fatal deny board
-bip_39_word_space_6: easy current fatal deny board loud
-bip_39_word_space_7: easy current fatal deny board loud rate
-bip_39_word_space_8: easy current fatal deny board loud rate street
-bip_39_word_space_9: easy current fatal deny board loud rate street charge
-bip_39_word_underscore_1: easy
-bip_39_word_underscore_10: easy_current_fatal_deny_board_loud_rate_street_charge_sound
-bip_39_word_underscore_11: easy_current_fatal_deny_board_loud_rate_street_charge_sound_input
 bip_39_word_underscore_12: easy_current_fatal_deny_board_loud_rate_street_charge_sound_input_attack
 bip_39_word_underscore_2: easy_current
 bip_39_word_underscore_3: easy_current_fatal
-bip_39_word_underscore_4: easy_current_fatal_deny
-bip_39_word_underscore_5: easy_current_fatal_deny_board
-bip_39_word_underscore_6: easy_current_fatal_deny_board_loud
-bip_39_word_underscore_7: easy_current_fatal_deny_board_loud_rate
-bip_39_word_underscore_8: easy_current_fatal_deny_board_loud_rate_street
-bip_39_word_underscore_9: easy_current_fatal_deny_board_loud_rate_street_charge
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

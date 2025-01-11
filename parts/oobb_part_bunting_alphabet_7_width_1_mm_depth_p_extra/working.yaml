@@ -1,68 +1,9 @@
-bip_39_word_dash_1: chef
-bip_39_word_dash_10: chef-keep-mushroom-volcano-knife-flag-spare-invest-turkey-unique
-bip_39_word_dash_11: chef-keep-mushroom-volcano-knife-flag-spare-invest-turkey-unique-subject
 bip_39_word_dash_12: chef-keep-mushroom-volcano-knife-flag-spare-invest-turkey-unique-subject-arrange
 bip_39_word_dash_2: chef-keep
 bip_39_word_dash_3: chef-keep-mushroom
-bip_39_word_dash_4: chef-keep-mushroom-volcano
-bip_39_word_dash_5: chef-keep-mushroom-volcano-knife
-bip_39_word_dash_6: chef-keep-mushroom-volcano-knife-flag
-bip_39_word_dash_7: chef-keep-mushroom-volcano-knife-flag-spare
-bip_39_word_dash_8: chef-keep-mushroom-volcano-knife-flag-spare-invest
-bip_39_word_dash_9: chef-keep-mushroom-volcano-knife-flag-spare-invest-turkey
-bip_39_word_new_br_1: chef
-bip_39_word_new_br_10: chef<br>keep<br>mushroom<br>volcano<br>knife<br>flag<br>spare<br>invest<br>turkey<br>unique
-bip_39_word_new_br_11: chef<br>keep<br>mushroom<br>volcano<br>knife<br>flag<br>spare<br>invest<br>turkey<br>unique<br>subject
 bip_39_word_new_br_12: chef<br>keep<br>mushroom<br>volcano<br>knife<br>flag<br>spare<br>invest<br>turkey<br>unique<br>subject<br>arrange
 bip_39_word_new_br_2: chef<br>keep
 bip_39_word_new_br_3: chef<br>keep<br>mushroom
-bip_39_word_new_br_4: chef<br>keep<br>mushroom<br>volcano
-bip_39_word_new_br_5: chef<br>keep<br>mushroom<br>volcano<br>knife
-bip_39_word_new_br_6: chef<br>keep<br>mushroom<br>volcano<br>knife<br>flag
-bip_39_word_new_br_7: chef<br>keep<br>mushroom<br>volcano<br>knife<br>flag<br>spare
-bip_39_word_new_br_8: chef<br>keep<br>mushroom<br>volcano<br>knife<br>flag<br>spare<br>invest
-bip_39_word_new_br_9: chef<br>keep<br>mushroom<br>volcano<br>knife<br>flag<br>spare<br>invest<br>turkey
-bip_39_word_new_line_1: chef
-bip_39_word_new_line_10: 'chef
-
-  keep
-
-  mushroom
-
-  volcano
-
-  knife
-
-  flag
-
-  spare
-
-  invest
-
-  turkey
-
-  unique'
-bip_39_word_new_line_11: 'chef
-
-  keep
-
-  mushroom
-
-  volcano
-
-  knife
-
-  flag
-
-  spare
-
-  invest
-
-  turkey
-
-  unique
-
-  subject'
 bip_39_word_new_line_12: 'chef
 
   keep
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'chef
   keep
 
   mushroom'
-bip_39_word_new_line_4: 'chef
-
-  keep
-
-  mushroom
-
-  volcano'
-bip_39_word_new_line_5: 'chef
-
-  keep
-
-  mushroom
-
-  volcano
-
-  knife'
-bip_39_word_new_line_6: 'chef
-
-  keep
-
-  mushroom
-
-  volcano
-
-  knife
-
-  flag'
-bip_39_word_new_line_7: 'chef
-
-  keep
-
-  mushroom
-
-  volcano
-
-  knife
-
-  flag
-
-  spare'
-bip_39_word_new_line_8: 'chef
-
-  keep
-
-  mushroom
-
-  volcano
-
-  knife
-
-  flag
-
-  spare
-
-  invest'
-bip_39_word_new_line_9: 'chef
-
-  keep
-
-  mushroom
-
-  volcano
-
-  knife
-
-  flag
-
-  spare
-
-  invest
-
-  turkey'
-bip_39_word_no_space_1: chef
-bip_39_word_no_space_10: chefkeepmushroomvolcanoknifeflagspareinvestturkeyunique
-bip_39_word_no_space_11: chefkeepmushroomvolcanoknifeflagspareinvestturkeyuniquesubject
 bip_39_word_no_space_12: chefkeepmushroomvolcanoknifeflagspareinvestturkeyuniquesubjectarrange
 bip_39_word_no_space_2: chefkeep
 bip_39_word_no_space_3: chefkeepmushroom
-bip_39_word_no_space_4: chefkeepmushroomvolcano
-bip_39_word_no_space_5: chefkeepmushroomvolcanoknife
-bip_39_word_no_space_6: chefkeepmushroomvolcanoknifeflag
-bip_39_word_no_space_7: chefkeepmushroomvolcanoknifeflagspare
-bip_39_word_no_space_8: chefkeepmushroomvolcanoknifeflagspareinvest
-bip_39_word_no_space_9: chefkeepmushroomvolcanoknifeflagspareinvestturkey
-bip_39_word_space_0:
-- chef
-- keep
-- mushroom
-- volcano
-- knife
-- flag
-- spare
-- invest
-- turkey
-- unique
-- subject
-- arrange
-bip_39_word_space_1: chef
-bip_39_word_space_10: chef keep mushroom volcano knife flag spare invest turkey unique
-bip_39_word_space_11: chef keep mushroom volcano knife flag spare invest turkey unique
-  subject
 bip_39_word_space_12: chef keep mushroom volcano knife flag spare invest turkey unique
   subject arrange
 bip_39_word_space_2: chef keep
 bip_39_word_space_3: chef keep mushroom
-bip_39_word_space_4: chef keep mushroom volcano
-bip_39_word_space_5: chef keep mushroom volcano knife
-bip_39_word_space_6: chef keep mushroom volcano knife flag
-bip_39_word_space_7: chef keep mushroom volcano knife flag spare
-bip_39_word_space_8: chef keep mushroom volcano knife flag spare invest
-bip_39_word_space_9: chef keep mushroom volcano knife flag spare invest turkey
-bip_39_word_underscore_1: chef
-bip_39_word_underscore_10: chef_keep_mushroom_volcano_knife_flag_spare_invest_turkey_unique
-bip_39_word_underscore_11: chef_keep_mushroom_volcano_knife_flag_spare_invest_turkey_unique_subject
 bip_39_word_underscore_12: chef_keep_mushroom_volcano_knife_flag_spare_invest_turkey_unique_subject_arrange
 bip_39_word_underscore_2: chef_keep
 bip_39_word_underscore_3: chef_keep_mushroom
-bip_39_word_underscore_4: chef_keep_mushroom_volcano
-bip_39_word_underscore_5: chef_keep_mushroom_volcano_knife
-bip_39_word_underscore_6: chef_keep_mushroom_volcano_knife_flag
-bip_39_word_underscore_7: chef_keep_mushroom_volcano_knife_flag_spare
-bip_39_word_underscore_8: chef_keep_mushroom_volcano_knife_flag_spare_invest
-bip_39_word_underscore_9: chef_keep_mushroom_volcano_knife_flag_spare_invest_turkey
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

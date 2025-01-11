@@ -1,68 +1,9 @@
-bip_39_word_dash_1: bicycle
-bip_39_word_dash_10: bicycle-dinner-reduce-occur-traffic-unaware-stand-orange-upgrade-couch
-bip_39_word_dash_11: bicycle-dinner-reduce-occur-traffic-unaware-stand-orange-upgrade-couch-van
 bip_39_word_dash_12: bicycle-dinner-reduce-occur-traffic-unaware-stand-orange-upgrade-couch-van-athlete
 bip_39_word_dash_2: bicycle-dinner
 bip_39_word_dash_3: bicycle-dinner-reduce
-bip_39_word_dash_4: bicycle-dinner-reduce-occur
-bip_39_word_dash_5: bicycle-dinner-reduce-occur-traffic
-bip_39_word_dash_6: bicycle-dinner-reduce-occur-traffic-unaware
-bip_39_word_dash_7: bicycle-dinner-reduce-occur-traffic-unaware-stand
-bip_39_word_dash_8: bicycle-dinner-reduce-occur-traffic-unaware-stand-orange
-bip_39_word_dash_9: bicycle-dinner-reduce-occur-traffic-unaware-stand-orange-upgrade
-bip_39_word_new_br_1: bicycle
-bip_39_word_new_br_10: bicycle<br>dinner<br>reduce<br>occur<br>traffic<br>unaware<br>stand<br>orange<br>upgrade<br>couch
-bip_39_word_new_br_11: bicycle<br>dinner<br>reduce<br>occur<br>traffic<br>unaware<br>stand<br>orange<br>upgrade<br>couch<br>van
 bip_39_word_new_br_12: bicycle<br>dinner<br>reduce<br>occur<br>traffic<br>unaware<br>stand<br>orange<br>upgrade<br>couch<br>van<br>athlete
 bip_39_word_new_br_2: bicycle<br>dinner
 bip_39_word_new_br_3: bicycle<br>dinner<br>reduce
-bip_39_word_new_br_4: bicycle<br>dinner<br>reduce<br>occur
-bip_39_word_new_br_5: bicycle<br>dinner<br>reduce<br>occur<br>traffic
-bip_39_word_new_br_6: bicycle<br>dinner<br>reduce<br>occur<br>traffic<br>unaware
-bip_39_word_new_br_7: bicycle<br>dinner<br>reduce<br>occur<br>traffic<br>unaware<br>stand
-bip_39_word_new_br_8: bicycle<br>dinner<br>reduce<br>occur<br>traffic<br>unaware<br>stand<br>orange
-bip_39_word_new_br_9: bicycle<br>dinner<br>reduce<br>occur<br>traffic<br>unaware<br>stand<br>orange<br>upgrade
-bip_39_word_new_line_1: bicycle
-bip_39_word_new_line_10: 'bicycle
-
-  dinner
-
-  reduce
-
-  occur
-
-  traffic
-
-  unaware
-
-  stand
-
-  orange
-
-  upgrade
-
-  couch'
-bip_39_word_new_line_11: 'bicycle
-
-  dinner
-
-  reduce
-
-  occur
-
-  traffic
-
-  unaware
-
-  stand
-
-  orange
-
-  upgrade
-
-  couch
-
-  van'
 bip_39_word_new_line_12: 'bicycle
 
   dinner
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'bicycle
   dinner
 
   reduce'
-bip_39_word_new_line_4: 'bicycle
-
-  dinner
-
-  reduce
-
-  occur'
-bip_39_word_new_line_5: 'bicycle
-
-  dinner
-
-  reduce
-
-  occur
-
-  traffic'
-bip_39_word_new_line_6: 'bicycle
-
-  dinner
-
-  reduce
-
-  occur
-
-  traffic
-
-  unaware'
-bip_39_word_new_line_7: 'bicycle
-
-  dinner
-
-  reduce
-
-  occur
-
-  traffic
-
-  unaware
-
-  stand'
-bip_39_word_new_line_8: 'bicycle
-
-  dinner
-
-  reduce
-
-  occur
-
-  traffic
-
-  unaware
-
-  stand
-
-  orange'
-bip_39_word_new_line_9: 'bicycle
-
-  dinner
-
-  reduce
-
-  occur
-
-  traffic
-
-  unaware
-
-  stand
-
-  orange
-
-  upgrade'
-bip_39_word_no_space_1: bicycle
-bip_39_word_no_space_10: bicycledinnerreduceoccurtrafficunawarestandorangeupgradecouch
-bip_39_word_no_space_11: bicycledinnerreduceoccurtrafficunawarestandorangeupgradecouchvan
 bip_39_word_no_space_12: bicycledinnerreduceoccurtrafficunawarestandorangeupgradecouchvanathlete
 bip_39_word_no_space_2: bicycledinner
 bip_39_word_no_space_3: bicycledinnerreduce
-bip_39_word_no_space_4: bicycledinnerreduceoccur
-bip_39_word_no_space_5: bicycledinnerreduceoccurtraffic
-bip_39_word_no_space_6: bicycledinnerreduceoccurtrafficunaware
-bip_39_word_no_space_7: bicycledinnerreduceoccurtrafficunawarestand
-bip_39_word_no_space_8: bicycledinnerreduceoccurtrafficunawarestandorange
-bip_39_word_no_space_9: bicycledinnerreduceoccurtrafficunawarestandorangeupgrade
-bip_39_word_space_0:
-- bicycle
-- dinner
-- reduce
-- occur
-- traffic
-- unaware
-- stand
-- orange
-- upgrade
-- couch
-- van
-- athlete
-bip_39_word_space_1: bicycle
-bip_39_word_space_10: bicycle dinner reduce occur traffic unaware stand orange upgrade
-  couch
-bip_39_word_space_11: bicycle dinner reduce occur traffic unaware stand orange upgrade
-  couch van
 bip_39_word_space_12: bicycle dinner reduce occur traffic unaware stand orange upgrade
   couch van athlete
 bip_39_word_space_2: bicycle dinner
 bip_39_word_space_3: bicycle dinner reduce
-bip_39_word_space_4: bicycle dinner reduce occur
-bip_39_word_space_5: bicycle dinner reduce occur traffic
-bip_39_word_space_6: bicycle dinner reduce occur traffic unaware
-bip_39_word_space_7: bicycle dinner reduce occur traffic unaware stand
-bip_39_word_space_8: bicycle dinner reduce occur traffic unaware stand orange
-bip_39_word_space_9: bicycle dinner reduce occur traffic unaware stand orange upgrade
-bip_39_word_underscore_1: bicycle
-bip_39_word_underscore_10: bicycle_dinner_reduce_occur_traffic_unaware_stand_orange_upgrade_couch
-bip_39_word_underscore_11: bicycle_dinner_reduce_occur_traffic_unaware_stand_orange_upgrade_couch_van
 bip_39_word_underscore_12: bicycle_dinner_reduce_occur_traffic_unaware_stand_orange_upgrade_couch_van_athlete
 bip_39_word_underscore_2: bicycle_dinner
 bip_39_word_underscore_3: bicycle_dinner_reduce
-bip_39_word_underscore_4: bicycle_dinner_reduce_occur
-bip_39_word_underscore_5: bicycle_dinner_reduce_occur_traffic
-bip_39_word_underscore_6: bicycle_dinner_reduce_occur_traffic_unaware
-bip_39_word_underscore_7: bicycle_dinner_reduce_occur_traffic_unaware_stand
-bip_39_word_underscore_8: bicycle_dinner_reduce_occur_traffic_unaware_stand_orange
-bip_39_word_underscore_9: bicycle_dinner_reduce_occur_traffic_unaware_stand_orange_upgrade
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

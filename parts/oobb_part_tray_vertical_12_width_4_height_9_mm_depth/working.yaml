@@ -1,68 +1,9 @@
-bip_39_word_dash_1: always
-bip_39_word_dash_10: always-allow-sea-shoot-dish-excess-teach-fog-live-connect
-bip_39_word_dash_11: always-allow-sea-shoot-dish-excess-teach-fog-live-connect-parade
 bip_39_word_dash_12: always-allow-sea-shoot-dish-excess-teach-fog-live-connect-parade-audit
 bip_39_word_dash_2: always-allow
 bip_39_word_dash_3: always-allow-sea
-bip_39_word_dash_4: always-allow-sea-shoot
-bip_39_word_dash_5: always-allow-sea-shoot-dish
-bip_39_word_dash_6: always-allow-sea-shoot-dish-excess
-bip_39_word_dash_7: always-allow-sea-shoot-dish-excess-teach
-bip_39_word_dash_8: always-allow-sea-shoot-dish-excess-teach-fog
-bip_39_word_dash_9: always-allow-sea-shoot-dish-excess-teach-fog-live
-bip_39_word_new_br_1: always
-bip_39_word_new_br_10: always<br>allow<br>sea<br>shoot<br>dish<br>excess<br>teach<br>fog<br>live<br>connect
-bip_39_word_new_br_11: always<br>allow<br>sea<br>shoot<br>dish<br>excess<br>teach<br>fog<br>live<br>connect<br>parade
 bip_39_word_new_br_12: always<br>allow<br>sea<br>shoot<br>dish<br>excess<br>teach<br>fog<br>live<br>connect<br>parade<br>audit
 bip_39_word_new_br_2: always<br>allow
 bip_39_word_new_br_3: always<br>allow<br>sea
-bip_39_word_new_br_4: always<br>allow<br>sea<br>shoot
-bip_39_word_new_br_5: always<br>allow<br>sea<br>shoot<br>dish
-bip_39_word_new_br_6: always<br>allow<br>sea<br>shoot<br>dish<br>excess
-bip_39_word_new_br_7: always<br>allow<br>sea<br>shoot<br>dish<br>excess<br>teach
-bip_39_word_new_br_8: always<br>allow<br>sea<br>shoot<br>dish<br>excess<br>teach<br>fog
-bip_39_word_new_br_9: always<br>allow<br>sea<br>shoot<br>dish<br>excess<br>teach<br>fog<br>live
-bip_39_word_new_line_1: always
-bip_39_word_new_line_10: 'always
-
-  allow
-
-  sea
-
-  shoot
-
-  dish
-
-  excess
-
-  teach
-
-  fog
-
-  live
-
-  connect'
-bip_39_word_new_line_11: 'always
-
-  allow
-
-  sea
-
-  shoot
-
-  dish
-
-  excess
-
-  teach
-
-  fog
-
-  live
-
-  connect
-
-  parade'
 bip_39_word_new_line_12: 'always
 
   allow
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'always
   allow
 
   sea'
-bip_39_word_new_line_4: 'always
-
-  allow
-
-  sea
-
-  shoot'
-bip_39_word_new_line_5: 'always
-
-  allow
-
-  sea
-
-  shoot
-
-  dish'
-bip_39_word_new_line_6: 'always
-
-  allow
-
-  sea
-
-  shoot
-
-  dish
-
-  excess'
-bip_39_word_new_line_7: 'always
-
-  allow
-
-  sea
-
-  shoot
-
-  dish
-
-  excess
-
-  teach'
-bip_39_word_new_line_8: 'always
-
-  allow
-
-  sea
-
-  shoot
-
-  dish
-
-  excess
-
-  teach
-
-  fog'
-bip_39_word_new_line_9: 'always
-
-  allow
-
-  sea
-
-  shoot
-
-  dish
-
-  excess
-
-  teach
-
-  fog
-
-  live'
-bip_39_word_no_space_1: always
-bip_39_word_no_space_10: alwaysallowseashootdishexcessteachfogliveconnect
-bip_39_word_no_space_11: alwaysallowseashootdishexcessteachfogliveconnectparade
 bip_39_word_no_space_12: alwaysallowseashootdishexcessteachfogliveconnectparadeaudit
 bip_39_word_no_space_2: alwaysallow
 bip_39_word_no_space_3: alwaysallowsea
-bip_39_word_no_space_4: alwaysallowseashoot
-bip_39_word_no_space_5: alwaysallowseashootdish
-bip_39_word_no_space_6: alwaysallowseashootdishexcess
-bip_39_word_no_space_7: alwaysallowseashootdishexcessteach
-bip_39_word_no_space_8: alwaysallowseashootdishexcessteachfog
-bip_39_word_no_space_9: alwaysallowseashootdishexcessteachfoglive
-bip_39_word_space_0:
-- always
-- allow
-- sea
-- shoot
-- dish
-- excess
-- teach
-- fog
-- live
-- connect
-- parade
-- audit
-bip_39_word_space_1: always
-bip_39_word_space_10: always allow sea shoot dish excess teach fog live connect
-bip_39_word_space_11: always allow sea shoot dish excess teach fog live connect parade
 bip_39_word_space_12: always allow sea shoot dish excess teach fog live connect parade
   audit
 bip_39_word_space_2: always allow
 bip_39_word_space_3: always allow sea
-bip_39_word_space_4: always allow sea shoot
-bip_39_word_space_5: always allow sea shoot dish
-bip_39_word_space_6: always allow sea shoot dish excess
-bip_39_word_space_7: always allow sea shoot dish excess teach
-bip_39_word_space_8: always allow sea shoot dish excess teach fog
-bip_39_word_space_9: always allow sea shoot dish excess teach fog live
-bip_39_word_underscore_1: always
-bip_39_word_underscore_10: always_allow_sea_shoot_dish_excess_teach_fog_live_connect
-bip_39_word_underscore_11: always_allow_sea_shoot_dish_excess_teach_fog_live_connect_parade
 bip_39_word_underscore_12: always_allow_sea_shoot_dish_excess_teach_fog_live_connect_parade_audit
 bip_39_word_underscore_2: always_allow
 bip_39_word_underscore_3: always_allow_sea
-bip_39_word_underscore_4: always_allow_sea_shoot
-bip_39_word_underscore_5: always_allow_sea_shoot_dish
-bip_39_word_underscore_6: always_allow_sea_shoot_dish_excess
-bip_39_word_underscore_7: always_allow_sea_shoot_dish_excess_teach
-bip_39_word_underscore_8: always_allow_sea_shoot_dish_excess_teach_fog
-bip_39_word_underscore_9: always_allow_sea_shoot_dish_excess_teach_fog_live
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

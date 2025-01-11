@@ -1,68 +1,9 @@
-bip_39_word_dash_1: cat
-bip_39_word_dash_10: cat-someone-essence-token-egg-setup-remove-deputy-grant-usage
-bip_39_word_dash_11: cat-someone-essence-token-egg-setup-remove-deputy-grant-usage-dirt
 bip_39_word_dash_12: cat-someone-essence-token-egg-setup-remove-deputy-grant-usage-dirt-annual
 bip_39_word_dash_2: cat-someone
 bip_39_word_dash_3: cat-someone-essence
-bip_39_word_dash_4: cat-someone-essence-token
-bip_39_word_dash_5: cat-someone-essence-token-egg
-bip_39_word_dash_6: cat-someone-essence-token-egg-setup
-bip_39_word_dash_7: cat-someone-essence-token-egg-setup-remove
-bip_39_word_dash_8: cat-someone-essence-token-egg-setup-remove-deputy
-bip_39_word_dash_9: cat-someone-essence-token-egg-setup-remove-deputy-grant
-bip_39_word_new_br_1: cat
-bip_39_word_new_br_10: cat<br>someone<br>essence<br>token<br>egg<br>setup<br>remove<br>deputy<br>grant<br>usage
-bip_39_word_new_br_11: cat<br>someone<br>essence<br>token<br>egg<br>setup<br>remove<br>deputy<br>grant<br>usage<br>dirt
 bip_39_word_new_br_12: cat<br>someone<br>essence<br>token<br>egg<br>setup<br>remove<br>deputy<br>grant<br>usage<br>dirt<br>annual
 bip_39_word_new_br_2: cat<br>someone
 bip_39_word_new_br_3: cat<br>someone<br>essence
-bip_39_word_new_br_4: cat<br>someone<br>essence<br>token
-bip_39_word_new_br_5: cat<br>someone<br>essence<br>token<br>egg
-bip_39_word_new_br_6: cat<br>someone<br>essence<br>token<br>egg<br>setup
-bip_39_word_new_br_7: cat<br>someone<br>essence<br>token<br>egg<br>setup<br>remove
-bip_39_word_new_br_8: cat<br>someone<br>essence<br>token<br>egg<br>setup<br>remove<br>deputy
-bip_39_word_new_br_9: cat<br>someone<br>essence<br>token<br>egg<br>setup<br>remove<br>deputy<br>grant
-bip_39_word_new_line_1: cat
-bip_39_word_new_line_10: 'cat
-
-  someone
-
-  essence
-
-  token
-
-  egg
-
-  setup
-
-  remove
-
-  deputy
-
-  grant
-
-  usage'
-bip_39_word_new_line_11: 'cat
-
-  someone
-
-  essence
-
-  token
-
-  egg
-
-  setup
-
-  remove
-
-  deputy
-
-  grant
-
-  usage
-
-  dirt'
 bip_39_word_new_line_12: 'cat
 
   someone
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'cat
   someone
 
   essence'
-bip_39_word_new_line_4: 'cat
-
-  someone
-
-  essence
-
-  token'
-bip_39_word_new_line_5: 'cat
-
-  someone
-
-  essence
-
-  token
-
-  egg'
-bip_39_word_new_line_6: 'cat
-
-  someone
-
-  essence
-
-  token
-
-  egg
-
-  setup'
-bip_39_word_new_line_7: 'cat
-
-  someone
-
-  essence
-
-  token
-
-  egg
-
-  setup
-
-  remove'
-bip_39_word_new_line_8: 'cat
-
-  someone
-
-  essence
-
-  token
-
-  egg
-
-  setup
-
-  remove
-
-  deputy'
-bip_39_word_new_line_9: 'cat
-
-  someone
-
-  essence
-
-  token
-
-  egg
-
-  setup
-
-  remove
-
-  deputy
-
-  grant'
-bip_39_word_no_space_1: cat
-bip_39_word_no_space_10: catsomeoneessencetokeneggsetupremovedeputygrantusage
-bip_39_word_no_space_11: catsomeoneessencetokeneggsetupremovedeputygrantusagedirt
 bip_39_word_no_space_12: catsomeoneessencetokeneggsetupremovedeputygrantusagedirtannual
 bip_39_word_no_space_2: catsomeone
 bip_39_word_no_space_3: catsomeoneessence
-bip_39_word_no_space_4: catsomeoneessencetoken
-bip_39_word_no_space_5: catsomeoneessencetokenegg
-bip_39_word_no_space_6: catsomeoneessencetokeneggsetup
-bip_39_word_no_space_7: catsomeoneessencetokeneggsetupremove
-bip_39_word_no_space_8: catsomeoneessencetokeneggsetupremovedeputy
-bip_39_word_no_space_9: catsomeoneessencetokeneggsetupremovedeputygrant
-bip_39_word_space_0:
-- cat
-- someone
-- essence
-- token
-- egg
-- setup
-- remove
-- deputy
-- grant
-- usage
-- dirt
-- annual
-bip_39_word_space_1: cat
-bip_39_word_space_10: cat someone essence token egg setup remove deputy grant usage
-bip_39_word_space_11: cat someone essence token egg setup remove deputy grant usage
-  dirt
 bip_39_word_space_12: cat someone essence token egg setup remove deputy grant usage
   dirt annual
 bip_39_word_space_2: cat someone
 bip_39_word_space_3: cat someone essence
-bip_39_word_space_4: cat someone essence token
-bip_39_word_space_5: cat someone essence token egg
-bip_39_word_space_6: cat someone essence token egg setup
-bip_39_word_space_7: cat someone essence token egg setup remove
-bip_39_word_space_8: cat someone essence token egg setup remove deputy
-bip_39_word_space_9: cat someone essence token egg setup remove deputy grant
-bip_39_word_underscore_1: cat
-bip_39_word_underscore_10: cat_someone_essence_token_egg_setup_remove_deputy_grant_usage
-bip_39_word_underscore_11: cat_someone_essence_token_egg_setup_remove_deputy_grant_usage_dirt
 bip_39_word_underscore_12: cat_someone_essence_token_egg_setup_remove_deputy_grant_usage_dirt_annual
 bip_39_word_underscore_2: cat_someone
 bip_39_word_underscore_3: cat_someone_essence
-bip_39_word_underscore_4: cat_someone_essence_token
-bip_39_word_underscore_5: cat_someone_essence_token_egg
-bip_39_word_underscore_6: cat_someone_essence_token_egg_setup
-bip_39_word_underscore_7: cat_someone_essence_token_egg_setup_remove
-bip_39_word_underscore_8: cat_someone_essence_token_egg_setup_remove_deputy
-bip_39_word_underscore_9: cat_someone_essence_token_egg_setup_remove_deputy_grant
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

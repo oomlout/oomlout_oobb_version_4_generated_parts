@@ -1,68 +1,9 @@
-bip_39_word_dash_1: cliff
-bip_39_word_dash_10: cliff-rose-label-weasel-forget-senior-short-grow-bridge-flag
-bip_39_word_dash_11: cliff-rose-label-weasel-forget-senior-short-grow-bridge-flag-code
 bip_39_word_dash_12: cliff-rose-label-weasel-forget-senior-short-grow-bridge-flag-code-angle
 bip_39_word_dash_2: cliff-rose
 bip_39_word_dash_3: cliff-rose-label
-bip_39_word_dash_4: cliff-rose-label-weasel
-bip_39_word_dash_5: cliff-rose-label-weasel-forget
-bip_39_word_dash_6: cliff-rose-label-weasel-forget-senior
-bip_39_word_dash_7: cliff-rose-label-weasel-forget-senior-short
-bip_39_word_dash_8: cliff-rose-label-weasel-forget-senior-short-grow
-bip_39_word_dash_9: cliff-rose-label-weasel-forget-senior-short-grow-bridge
-bip_39_word_new_br_1: cliff
-bip_39_word_new_br_10: cliff<br>rose<br>label<br>weasel<br>forget<br>senior<br>short<br>grow<br>bridge<br>flag
-bip_39_word_new_br_11: cliff<br>rose<br>label<br>weasel<br>forget<br>senior<br>short<br>grow<br>bridge<br>flag<br>code
 bip_39_word_new_br_12: cliff<br>rose<br>label<br>weasel<br>forget<br>senior<br>short<br>grow<br>bridge<br>flag<br>code<br>angle
 bip_39_word_new_br_2: cliff<br>rose
 bip_39_word_new_br_3: cliff<br>rose<br>label
-bip_39_word_new_br_4: cliff<br>rose<br>label<br>weasel
-bip_39_word_new_br_5: cliff<br>rose<br>label<br>weasel<br>forget
-bip_39_word_new_br_6: cliff<br>rose<br>label<br>weasel<br>forget<br>senior
-bip_39_word_new_br_7: cliff<br>rose<br>label<br>weasel<br>forget<br>senior<br>short
-bip_39_word_new_br_8: cliff<br>rose<br>label<br>weasel<br>forget<br>senior<br>short<br>grow
-bip_39_word_new_br_9: cliff<br>rose<br>label<br>weasel<br>forget<br>senior<br>short<br>grow<br>bridge
-bip_39_word_new_line_1: cliff
-bip_39_word_new_line_10: 'cliff
-
-  rose
-
-  label
-
-  weasel
-
-  forget
-
-  senior
-
-  short
-
-  grow
-
-  bridge
-
-  flag'
-bip_39_word_new_line_11: 'cliff
-
-  rose
-
-  label
-
-  weasel
-
-  forget
-
-  senior
-
-  short
-
-  grow
-
-  bridge
-
-  flag
-
-  code'
 bip_39_word_new_line_12: 'cliff
 
   rose
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'cliff
   rose
 
   label'
-bip_39_word_new_line_4: 'cliff
-
-  rose
-
-  label
-
-  weasel'
-bip_39_word_new_line_5: 'cliff
-
-  rose
-
-  label
-
-  weasel
-
-  forget'
-bip_39_word_new_line_6: 'cliff
-
-  rose
-
-  label
-
-  weasel
-
-  forget
-
-  senior'
-bip_39_word_new_line_7: 'cliff
-
-  rose
-
-  label
-
-  weasel
-
-  forget
-
-  senior
-
-  short'
-bip_39_word_new_line_8: 'cliff
-
-  rose
-
-  label
-
-  weasel
-
-  forget
-
-  senior
-
-  short
-
-  grow'
-bip_39_word_new_line_9: 'cliff
-
-  rose
-
-  label
-
-  weasel
-
-  forget
-
-  senior
-
-  short
-
-  grow
-
-  bridge'
-bip_39_word_no_space_1: cliff
-bip_39_word_no_space_10: cliffroselabelweaselforgetseniorshortgrowbridgeflag
-bip_39_word_no_space_11: cliffroselabelweaselforgetseniorshortgrowbridgeflagcode
 bip_39_word_no_space_12: cliffroselabelweaselforgetseniorshortgrowbridgeflagcodeangle
 bip_39_word_no_space_2: cliffrose
 bip_39_word_no_space_3: cliffroselabel
-bip_39_word_no_space_4: cliffroselabelweasel
-bip_39_word_no_space_5: cliffroselabelweaselforget
-bip_39_word_no_space_6: cliffroselabelweaselforgetsenior
-bip_39_word_no_space_7: cliffroselabelweaselforgetseniorshort
-bip_39_word_no_space_8: cliffroselabelweaselforgetseniorshortgrow
-bip_39_word_no_space_9: cliffroselabelweaselforgetseniorshortgrowbridge
-bip_39_word_space_0:
-- cliff
-- rose
-- label
-- weasel
-- forget
-- senior
-- short
-- grow
-- bridge
-- flag
-- code
-- angle
-bip_39_word_space_1: cliff
-bip_39_word_space_10: cliff rose label weasel forget senior short grow bridge flag
-bip_39_word_space_11: cliff rose label weasel forget senior short grow bridge flag
-  code
 bip_39_word_space_12: cliff rose label weasel forget senior short grow bridge flag
   code angle
 bip_39_word_space_2: cliff rose
 bip_39_word_space_3: cliff rose label
-bip_39_word_space_4: cliff rose label weasel
-bip_39_word_space_5: cliff rose label weasel forget
-bip_39_word_space_6: cliff rose label weasel forget senior
-bip_39_word_space_7: cliff rose label weasel forget senior short
-bip_39_word_space_8: cliff rose label weasel forget senior short grow
-bip_39_word_space_9: cliff rose label weasel forget senior short grow bridge
-bip_39_word_underscore_1: cliff
-bip_39_word_underscore_10: cliff_rose_label_weasel_forget_senior_short_grow_bridge_flag
-bip_39_word_underscore_11: cliff_rose_label_weasel_forget_senior_short_grow_bridge_flag_code
 bip_39_word_underscore_12: cliff_rose_label_weasel_forget_senior_short_grow_bridge_flag_code_angle
 bip_39_word_underscore_2: cliff_rose
 bip_39_word_underscore_3: cliff_rose_label
-bip_39_word_underscore_4: cliff_rose_label_weasel
-bip_39_word_underscore_5: cliff_rose_label_weasel_forget
-bip_39_word_underscore_6: cliff_rose_label_weasel_forget_senior
-bip_39_word_underscore_7: cliff_rose_label_weasel_forget_senior_short
-bip_39_word_underscore_8: cliff_rose_label_weasel_forget_senior_short_grow
-bip_39_word_underscore_9: cliff_rose_label_weasel_forget_senior_short_grow_bridge
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

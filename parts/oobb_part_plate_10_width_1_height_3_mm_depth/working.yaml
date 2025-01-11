@@ -1,68 +1,9 @@
-bip_39_word_dash_1: jacket
-bip_39_word_dash_10: jacket-cabbage-divorce-brave-day-laptop-ignore-tobacco-refuse-wash
-bip_39_word_dash_11: jacket-cabbage-divorce-brave-day-laptop-ignore-tobacco-refuse-wash-prepare
 bip_39_word_dash_12: jacket-cabbage-divorce-brave-day-laptop-ignore-tobacco-refuse-wash-prepare-ancient
 bip_39_word_dash_2: jacket-cabbage
 bip_39_word_dash_3: jacket-cabbage-divorce
-bip_39_word_dash_4: jacket-cabbage-divorce-brave
-bip_39_word_dash_5: jacket-cabbage-divorce-brave-day
-bip_39_word_dash_6: jacket-cabbage-divorce-brave-day-laptop
-bip_39_word_dash_7: jacket-cabbage-divorce-brave-day-laptop-ignore
-bip_39_word_dash_8: jacket-cabbage-divorce-brave-day-laptop-ignore-tobacco
-bip_39_word_dash_9: jacket-cabbage-divorce-brave-day-laptop-ignore-tobacco-refuse
-bip_39_word_new_br_1: jacket
-bip_39_word_new_br_10: jacket<br>cabbage<br>divorce<br>brave<br>day<br>laptop<br>ignore<br>tobacco<br>refuse<br>wash
-bip_39_word_new_br_11: jacket<br>cabbage<br>divorce<br>brave<br>day<br>laptop<br>ignore<br>tobacco<br>refuse<br>wash<br>prepare
 bip_39_word_new_br_12: jacket<br>cabbage<br>divorce<br>brave<br>day<br>laptop<br>ignore<br>tobacco<br>refuse<br>wash<br>prepare<br>ancient
 bip_39_word_new_br_2: jacket<br>cabbage
 bip_39_word_new_br_3: jacket<br>cabbage<br>divorce
-bip_39_word_new_br_4: jacket<br>cabbage<br>divorce<br>brave
-bip_39_word_new_br_5: jacket<br>cabbage<br>divorce<br>brave<br>day
-bip_39_word_new_br_6: jacket<br>cabbage<br>divorce<br>brave<br>day<br>laptop
-bip_39_word_new_br_7: jacket<br>cabbage<br>divorce<br>brave<br>day<br>laptop<br>ignore
-bip_39_word_new_br_8: jacket<br>cabbage<br>divorce<br>brave<br>day<br>laptop<br>ignore<br>tobacco
-bip_39_word_new_br_9: jacket<br>cabbage<br>divorce<br>brave<br>day<br>laptop<br>ignore<br>tobacco<br>refuse
-bip_39_word_new_line_1: jacket
-bip_39_word_new_line_10: 'jacket
-
-  cabbage
-
-  divorce
-
-  brave
-
-  day
-
-  laptop
-
-  ignore
-
-  tobacco
-
-  refuse
-
-  wash'
-bip_39_word_new_line_11: 'jacket
-
-  cabbage
-
-  divorce
-
-  brave
-
-  day
-
-  laptop
-
-  ignore
-
-  tobacco
-
-  refuse
-
-  wash
-
-  prepare'
 bip_39_word_new_line_12: 'jacket
 
   cabbage
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'jacket
   cabbage
 
   divorce'
-bip_39_word_new_line_4: 'jacket
-
-  cabbage
-
-  divorce
-
-  brave'
-bip_39_word_new_line_5: 'jacket
-
-  cabbage
-
-  divorce
-
-  brave
-
-  day'
-bip_39_word_new_line_6: 'jacket
-
-  cabbage
-
-  divorce
-
-  brave
-
-  day
-
-  laptop'
-bip_39_word_new_line_7: 'jacket
-
-  cabbage
-
-  divorce
-
-  brave
-
-  day
-
-  laptop
-
-  ignore'
-bip_39_word_new_line_8: 'jacket
-
-  cabbage
-
-  divorce
-
-  brave
-
-  day
-
-  laptop
-
-  ignore
-
-  tobacco'
-bip_39_word_new_line_9: 'jacket
-
-  cabbage
-
-  divorce
-
-  brave
-
-  day
-
-  laptop
-
-  ignore
-
-  tobacco
-
-  refuse'
-bip_39_word_no_space_1: jacket
-bip_39_word_no_space_10: jacketcabbagedivorcebravedaylaptopignoretobaccorefusewash
-bip_39_word_no_space_11: jacketcabbagedivorcebravedaylaptopignoretobaccorefusewashprepare
 bip_39_word_no_space_12: jacketcabbagedivorcebravedaylaptopignoretobaccorefusewashprepareancient
 bip_39_word_no_space_2: jacketcabbage
 bip_39_word_no_space_3: jacketcabbagedivorce
-bip_39_word_no_space_4: jacketcabbagedivorcebrave
-bip_39_word_no_space_5: jacketcabbagedivorcebraveday
-bip_39_word_no_space_6: jacketcabbagedivorcebravedaylaptop
-bip_39_word_no_space_7: jacketcabbagedivorcebravedaylaptopignore
-bip_39_word_no_space_8: jacketcabbagedivorcebravedaylaptopignoretobacco
-bip_39_word_no_space_9: jacketcabbagedivorcebravedaylaptopignoretobaccorefuse
-bip_39_word_space_0:
-- jacket
-- cabbage
-- divorce
-- brave
-- day
-- laptop
-- ignore
-- tobacco
-- refuse
-- wash
-- prepare
-- ancient
-bip_39_word_space_1: jacket
-bip_39_word_space_10: jacket cabbage divorce brave day laptop ignore tobacco refuse
-  wash
-bip_39_word_space_11: jacket cabbage divorce brave day laptop ignore tobacco refuse
-  wash prepare
 bip_39_word_space_12: jacket cabbage divorce brave day laptop ignore tobacco refuse
   wash prepare ancient
 bip_39_word_space_2: jacket cabbage
 bip_39_word_space_3: jacket cabbage divorce
-bip_39_word_space_4: jacket cabbage divorce brave
-bip_39_word_space_5: jacket cabbage divorce brave day
-bip_39_word_space_6: jacket cabbage divorce brave day laptop
-bip_39_word_space_7: jacket cabbage divorce brave day laptop ignore
-bip_39_word_space_8: jacket cabbage divorce brave day laptop ignore tobacco
-bip_39_word_space_9: jacket cabbage divorce brave day laptop ignore tobacco refuse
-bip_39_word_underscore_1: jacket
-bip_39_word_underscore_10: jacket_cabbage_divorce_brave_day_laptop_ignore_tobacco_refuse_wash
-bip_39_word_underscore_11: jacket_cabbage_divorce_brave_day_laptop_ignore_tobacco_refuse_wash_prepare
 bip_39_word_underscore_12: jacket_cabbage_divorce_brave_day_laptop_ignore_tobacco_refuse_wash_prepare_ancient
 bip_39_word_underscore_2: jacket_cabbage
 bip_39_word_underscore_3: jacket_cabbage_divorce
-bip_39_word_underscore_4: jacket_cabbage_divorce_brave
-bip_39_word_underscore_5: jacket_cabbage_divorce_brave_day
-bip_39_word_underscore_6: jacket_cabbage_divorce_brave_day_laptop
-bip_39_word_underscore_7: jacket_cabbage_divorce_brave_day_laptop_ignore
-bip_39_word_underscore_8: jacket_cabbage_divorce_brave_day_laptop_ignore_tobacco
-bip_39_word_underscore_9: jacket_cabbage_divorce_brave_day_laptop_ignore_tobacco_refuse
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

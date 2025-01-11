@@ -1,68 +1,9 @@
-bip_39_word_dash_1: public
-bip_39_word_dash_10: public-alpha-friend-expose-invite-grain-river-olympic-any-dilemma
-bip_39_word_dash_11: public-alpha-friend-expose-invite-grain-river-olympic-any-dilemma-wash
 bip_39_word_dash_12: public-alpha-friend-expose-invite-grain-river-olympic-any-dilemma-wash-airport
 bip_39_word_dash_2: public-alpha
 bip_39_word_dash_3: public-alpha-friend
-bip_39_word_dash_4: public-alpha-friend-expose
-bip_39_word_dash_5: public-alpha-friend-expose-invite
-bip_39_word_dash_6: public-alpha-friend-expose-invite-grain
-bip_39_word_dash_7: public-alpha-friend-expose-invite-grain-river
-bip_39_word_dash_8: public-alpha-friend-expose-invite-grain-river-olympic
-bip_39_word_dash_9: public-alpha-friend-expose-invite-grain-river-olympic-any
-bip_39_word_new_br_1: public
-bip_39_word_new_br_10: public<br>alpha<br>friend<br>expose<br>invite<br>grain<br>river<br>olympic<br>any<br>dilemma
-bip_39_word_new_br_11: public<br>alpha<br>friend<br>expose<br>invite<br>grain<br>river<br>olympic<br>any<br>dilemma<br>wash
 bip_39_word_new_br_12: public<br>alpha<br>friend<br>expose<br>invite<br>grain<br>river<br>olympic<br>any<br>dilemma<br>wash<br>airport
 bip_39_word_new_br_2: public<br>alpha
 bip_39_word_new_br_3: public<br>alpha<br>friend
-bip_39_word_new_br_4: public<br>alpha<br>friend<br>expose
-bip_39_word_new_br_5: public<br>alpha<br>friend<br>expose<br>invite
-bip_39_word_new_br_6: public<br>alpha<br>friend<br>expose<br>invite<br>grain
-bip_39_word_new_br_7: public<br>alpha<br>friend<br>expose<br>invite<br>grain<br>river
-bip_39_word_new_br_8: public<br>alpha<br>friend<br>expose<br>invite<br>grain<br>river<br>olympic
-bip_39_word_new_br_9: public<br>alpha<br>friend<br>expose<br>invite<br>grain<br>river<br>olympic<br>any
-bip_39_word_new_line_1: public
-bip_39_word_new_line_10: 'public
-
-  alpha
-
-  friend
-
-  expose
-
-  invite
-
-  grain
-
-  river
-
-  olympic
-
-  any
-
-  dilemma'
-bip_39_word_new_line_11: 'public
-
-  alpha
-
-  friend
-
-  expose
-
-  invite
-
-  grain
-
-  river
-
-  olympic
-
-  any
-
-  dilemma
-
-  wash'
 bip_39_word_new_line_12: 'public
 
   alpha
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'public
   alpha
 
   friend'
-bip_39_word_new_line_4: 'public
-
-  alpha
-
-  friend
-
-  expose'
-bip_39_word_new_line_5: 'public
-
-  alpha
-
-  friend
-
-  expose
-
-  invite'
-bip_39_word_new_line_6: 'public
-
-  alpha
-
-  friend
-
-  expose
-
-  invite
-
-  grain'
-bip_39_word_new_line_7: 'public
-
-  alpha
-
-  friend
-
-  expose
-
-  invite
-
-  grain
-
-  river'
-bip_39_word_new_line_8: 'public
-
-  alpha
-
-  friend
-
-  expose
-
-  invite
-
-  grain
-
-  river
-
-  olympic'
-bip_39_word_new_line_9: 'public
-
-  alpha
-
-  friend
-
-  expose
-
-  invite
-
-  grain
-
-  river
-
-  olympic
-
-  any'
-bip_39_word_no_space_1: public
-bip_39_word_no_space_10: publicalphafriendexposeinvitegrainriverolympicanydilemma
-bip_39_word_no_space_11: publicalphafriendexposeinvitegrainriverolympicanydilemmawash
 bip_39_word_no_space_12: publicalphafriendexposeinvitegrainriverolympicanydilemmawashairport
 bip_39_word_no_space_2: publicalpha
 bip_39_word_no_space_3: publicalphafriend
-bip_39_word_no_space_4: publicalphafriendexpose
-bip_39_word_no_space_5: publicalphafriendexposeinvite
-bip_39_word_no_space_6: publicalphafriendexposeinvitegrain
-bip_39_word_no_space_7: publicalphafriendexposeinvitegrainriver
-bip_39_word_no_space_8: publicalphafriendexposeinvitegrainriverolympic
-bip_39_word_no_space_9: publicalphafriendexposeinvitegrainriverolympicany
-bip_39_word_space_0:
-- public
-- alpha
-- friend
-- expose
-- invite
-- grain
-- river
-- olympic
-- any
-- dilemma
-- wash
-- airport
-bip_39_word_space_1: public
-bip_39_word_space_10: public alpha friend expose invite grain river olympic any dilemma
-bip_39_word_space_11: public alpha friend expose invite grain river olympic any dilemma
-  wash
 bip_39_word_space_12: public alpha friend expose invite grain river olympic any dilemma
   wash airport
 bip_39_word_space_2: public alpha
 bip_39_word_space_3: public alpha friend
-bip_39_word_space_4: public alpha friend expose
-bip_39_word_space_5: public alpha friend expose invite
-bip_39_word_space_6: public alpha friend expose invite grain
-bip_39_word_space_7: public alpha friend expose invite grain river
-bip_39_word_space_8: public alpha friend expose invite grain river olympic
-bip_39_word_space_9: public alpha friend expose invite grain river olympic any
-bip_39_word_underscore_1: public
-bip_39_word_underscore_10: public_alpha_friend_expose_invite_grain_river_olympic_any_dilemma
-bip_39_word_underscore_11: public_alpha_friend_expose_invite_grain_river_olympic_any_dilemma_wash
 bip_39_word_underscore_12: public_alpha_friend_expose_invite_grain_river_olympic_any_dilemma_wash_airport
 bip_39_word_underscore_2: public_alpha
 bip_39_word_underscore_3: public_alpha_friend
-bip_39_word_underscore_4: public_alpha_friend_expose
-bip_39_word_underscore_5: public_alpha_friend_expose_invite
-bip_39_word_underscore_6: public_alpha_friend_expose_invite_grain
-bip_39_word_underscore_7: public_alpha_friend_expose_invite_grain_river
-bip_39_word_underscore_8: public_alpha_friend_expose_invite_grain_river_olympic
-bip_39_word_underscore_9: public_alpha_friend_expose_invite_grain_river_olympic_any
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

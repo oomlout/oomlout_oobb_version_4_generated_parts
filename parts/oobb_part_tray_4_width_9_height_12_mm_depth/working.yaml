@@ -1,68 +1,9 @@
-bip_39_word_dash_1: sting
-bip_39_word_dash_10: sting-lazy-embody-neutral-acquire-someone-spend-alley-service-stairs
-bip_39_word_dash_11: sting-lazy-embody-neutral-acquire-someone-spend-alley-service-stairs-antenna
 bip_39_word_dash_12: sting-lazy-embody-neutral-acquire-someone-spend-alley-service-stairs-antenna-apart
 bip_39_word_dash_2: sting-lazy
 bip_39_word_dash_3: sting-lazy-embody
-bip_39_word_dash_4: sting-lazy-embody-neutral
-bip_39_word_dash_5: sting-lazy-embody-neutral-acquire
-bip_39_word_dash_6: sting-lazy-embody-neutral-acquire-someone
-bip_39_word_dash_7: sting-lazy-embody-neutral-acquire-someone-spend
-bip_39_word_dash_8: sting-lazy-embody-neutral-acquire-someone-spend-alley
-bip_39_word_dash_9: sting-lazy-embody-neutral-acquire-someone-spend-alley-service
-bip_39_word_new_br_1: sting
-bip_39_word_new_br_10: sting<br>lazy<br>embody<br>neutral<br>acquire<br>someone<br>spend<br>alley<br>service<br>stairs
-bip_39_word_new_br_11: sting<br>lazy<br>embody<br>neutral<br>acquire<br>someone<br>spend<br>alley<br>service<br>stairs<br>antenna
 bip_39_word_new_br_12: sting<br>lazy<br>embody<br>neutral<br>acquire<br>someone<br>spend<br>alley<br>service<br>stairs<br>antenna<br>apart
 bip_39_word_new_br_2: sting<br>lazy
 bip_39_word_new_br_3: sting<br>lazy<br>embody
-bip_39_word_new_br_4: sting<br>lazy<br>embody<br>neutral
-bip_39_word_new_br_5: sting<br>lazy<br>embody<br>neutral<br>acquire
-bip_39_word_new_br_6: sting<br>lazy<br>embody<br>neutral<br>acquire<br>someone
-bip_39_word_new_br_7: sting<br>lazy<br>embody<br>neutral<br>acquire<br>someone<br>spend
-bip_39_word_new_br_8: sting<br>lazy<br>embody<br>neutral<br>acquire<br>someone<br>spend<br>alley
-bip_39_word_new_br_9: sting<br>lazy<br>embody<br>neutral<br>acquire<br>someone<br>spend<br>alley<br>service
-bip_39_word_new_line_1: sting
-bip_39_word_new_line_10: 'sting
-
-  lazy
-
-  embody
-
-  neutral
-
-  acquire
-
-  someone
-
-  spend
-
-  alley
-
-  service
-
-  stairs'
-bip_39_word_new_line_11: 'sting
-
-  lazy
-
-  embody
-
-  neutral
-
-  acquire
-
-  someone
-
-  spend
-
-  alley
-
-  service
-
-  stairs
-
-  antenna'
 bip_39_word_new_line_12: 'sting
 
   lazy
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'sting
   lazy
 
   embody'
-bip_39_word_new_line_4: 'sting
-
-  lazy
-
-  embody
-
-  neutral'
-bip_39_word_new_line_5: 'sting
-
-  lazy
-
-  embody
-
-  neutral
-
-  acquire'
-bip_39_word_new_line_6: 'sting
-
-  lazy
-
-  embody
-
-  neutral
-
-  acquire
-
-  someone'
-bip_39_word_new_line_7: 'sting
-
-  lazy
-
-  embody
-
-  neutral
-
-  acquire
-
-  someone
-
-  spend'
-bip_39_word_new_line_8: 'sting
-
-  lazy
-
-  embody
-
-  neutral
-
-  acquire
-
-  someone
-
-  spend
-
-  alley'
-bip_39_word_new_line_9: 'sting
-
-  lazy
-
-  embody
-
-  neutral
-
-  acquire
-
-  someone
-
-  spend
-
-  alley
-
-  service'
-bip_39_word_no_space_1: sting
-bip_39_word_no_space_10: stinglazyembodyneutralacquiresomeonespendalleyservicestairs
-bip_39_word_no_space_11: stinglazyembodyneutralacquiresomeonespendalleyservicestairsantenna
 bip_39_word_no_space_12: stinglazyembodyneutralacquiresomeonespendalleyservicestairsantennaapart
 bip_39_word_no_space_2: stinglazy
 bip_39_word_no_space_3: stinglazyembody
-bip_39_word_no_space_4: stinglazyembodyneutral
-bip_39_word_no_space_5: stinglazyembodyneutralacquire
-bip_39_word_no_space_6: stinglazyembodyneutralacquiresomeone
-bip_39_word_no_space_7: stinglazyembodyneutralacquiresomeonespend
-bip_39_word_no_space_8: stinglazyembodyneutralacquiresomeonespendalley
-bip_39_word_no_space_9: stinglazyembodyneutralacquiresomeonespendalleyservice
-bip_39_word_space_0:
-- sting
-- lazy
-- embody
-- neutral
-- acquire
-- someone
-- spend
-- alley
-- service
-- stairs
-- antenna
-- apart
-bip_39_word_space_1: sting
-bip_39_word_space_10: sting lazy embody neutral acquire someone spend alley service
-  stairs
-bip_39_word_space_11: sting lazy embody neutral acquire someone spend alley service
-  stairs antenna
 bip_39_word_space_12: sting lazy embody neutral acquire someone spend alley service
   stairs antenna apart
 bip_39_word_space_2: sting lazy
 bip_39_word_space_3: sting lazy embody
-bip_39_word_space_4: sting lazy embody neutral
-bip_39_word_space_5: sting lazy embody neutral acquire
-bip_39_word_space_6: sting lazy embody neutral acquire someone
-bip_39_word_space_7: sting lazy embody neutral acquire someone spend
-bip_39_word_space_8: sting lazy embody neutral acquire someone spend alley
-bip_39_word_space_9: sting lazy embody neutral acquire someone spend alley service
-bip_39_word_underscore_1: sting
-bip_39_word_underscore_10: sting_lazy_embody_neutral_acquire_someone_spend_alley_service_stairs
-bip_39_word_underscore_11: sting_lazy_embody_neutral_acquire_someone_spend_alley_service_stairs_antenna
 bip_39_word_underscore_12: sting_lazy_embody_neutral_acquire_someone_spend_alley_service_stairs_antenna_apart
 bip_39_word_underscore_2: sting_lazy
 bip_39_word_underscore_3: sting_lazy_embody
-bip_39_word_underscore_4: sting_lazy_embody_neutral
-bip_39_word_underscore_5: sting_lazy_embody_neutral_acquire
-bip_39_word_underscore_6: sting_lazy_embody_neutral_acquire_someone
-bip_39_word_underscore_7: sting_lazy_embody_neutral_acquire_someone_spend
-bip_39_word_underscore_8: sting_lazy_embody_neutral_acquire_someone_spend_alley
-bip_39_word_underscore_9: sting_lazy_embody_neutral_acquire_someone_spend_alley_service
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: critic
-bip_39_word_dash_10: critic-absurd-skill-fancy-near-acoustic-accident-cushion-smoke-donate
-bip_39_word_dash_11: critic-absurd-skill-fancy-near-acoustic-accident-cushion-smoke-donate-riot
 bip_39_word_dash_12: critic-absurd-skill-fancy-near-acoustic-accident-cushion-smoke-donate-riot-action
 bip_39_word_dash_2: critic-absurd
 bip_39_word_dash_3: critic-absurd-skill
-bip_39_word_dash_4: critic-absurd-skill-fancy
-bip_39_word_dash_5: critic-absurd-skill-fancy-near
-bip_39_word_dash_6: critic-absurd-skill-fancy-near-acoustic
-bip_39_word_dash_7: critic-absurd-skill-fancy-near-acoustic-accident
-bip_39_word_dash_8: critic-absurd-skill-fancy-near-acoustic-accident-cushion
-bip_39_word_dash_9: critic-absurd-skill-fancy-near-acoustic-accident-cushion-smoke
-bip_39_word_new_br_1: critic
-bip_39_word_new_br_10: critic<br>absurd<br>skill<br>fancy<br>near<br>acoustic<br>accident<br>cushion<br>smoke<br>donate
-bip_39_word_new_br_11: critic<br>absurd<br>skill<br>fancy<br>near<br>acoustic<br>accident<br>cushion<br>smoke<br>donate<br>riot
 bip_39_word_new_br_12: critic<br>absurd<br>skill<br>fancy<br>near<br>acoustic<br>accident<br>cushion<br>smoke<br>donate<br>riot<br>action
 bip_39_word_new_br_2: critic<br>absurd
 bip_39_word_new_br_3: critic<br>absurd<br>skill
-bip_39_word_new_br_4: critic<br>absurd<br>skill<br>fancy
-bip_39_word_new_br_5: critic<br>absurd<br>skill<br>fancy<br>near
-bip_39_word_new_br_6: critic<br>absurd<br>skill<br>fancy<br>near<br>acoustic
-bip_39_word_new_br_7: critic<br>absurd<br>skill<br>fancy<br>near<br>acoustic<br>accident
-bip_39_word_new_br_8: critic<br>absurd<br>skill<br>fancy<br>near<br>acoustic<br>accident<br>cushion
-bip_39_word_new_br_9: critic<br>absurd<br>skill<br>fancy<br>near<br>acoustic<br>accident<br>cushion<br>smoke
-bip_39_word_new_line_1: critic
-bip_39_word_new_line_10: 'critic
-
-  absurd
-
-  skill
-
-  fancy
-
-  near
-
-  acoustic
-
-  accident
-
-  cushion
-
-  smoke
-
-  donate'
-bip_39_word_new_line_11: 'critic
-
-  absurd
-
-  skill
-
-  fancy
-
-  near
-
-  acoustic
-
-  accident
-
-  cushion
-
-  smoke
-
-  donate
-
-  riot'
 bip_39_word_new_line_12: 'critic
 
   absurd
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'critic
   absurd
 
   skill'
-bip_39_word_new_line_4: 'critic
-
-  absurd
-
-  skill
-
-  fancy'
-bip_39_word_new_line_5: 'critic
-
-  absurd
-
-  skill
-
-  fancy
-
-  near'
-bip_39_word_new_line_6: 'critic
-
-  absurd
-
-  skill
-
-  fancy
-
-  near
-
-  acoustic'
-bip_39_word_new_line_7: 'critic
-
-  absurd
-
-  skill
-
-  fancy
-
-  near
-
-  acoustic
-
-  accident'
-bip_39_word_new_line_8: 'critic
-
-  absurd
-
-  skill
-
-  fancy
-
-  near
-
-  acoustic
-
-  accident
-
-  cushion'
-bip_39_word_new_line_9: 'critic
-
-  absurd
-
-  skill
-
-  fancy
-
-  near
-
-  acoustic
-
-  accident
-
-  cushion
-
-  smoke'
-bip_39_word_no_space_1: critic
-bip_39_word_no_space_10: criticabsurdskillfancynearacousticaccidentcushionsmokedonate
-bip_39_word_no_space_11: criticabsurdskillfancynearacousticaccidentcushionsmokedonateriot
 bip_39_word_no_space_12: criticabsurdskillfancynearacousticaccidentcushionsmokedonateriotaction
 bip_39_word_no_space_2: criticabsurd
 bip_39_word_no_space_3: criticabsurdskill
-bip_39_word_no_space_4: criticabsurdskillfancy
-bip_39_word_no_space_5: criticabsurdskillfancynear
-bip_39_word_no_space_6: criticabsurdskillfancynearacoustic
-bip_39_word_no_space_7: criticabsurdskillfancynearacousticaccident
-bip_39_word_no_space_8: criticabsurdskillfancynearacousticaccidentcushion
-bip_39_word_no_space_9: criticabsurdskillfancynearacousticaccidentcushionsmoke
-bip_39_word_space_0:
-- critic
-- absurd
-- skill
-- fancy
-- near
-- acoustic
-- accident
-- cushion
-- smoke
-- donate
-- riot
-- action
-bip_39_word_space_1: critic
-bip_39_word_space_10: critic absurd skill fancy near acoustic accident cushion smoke
-  donate
-bip_39_word_space_11: critic absurd skill fancy near acoustic accident cushion smoke
-  donate riot
 bip_39_word_space_12: critic absurd skill fancy near acoustic accident cushion smoke
   donate riot action
 bip_39_word_space_2: critic absurd
 bip_39_word_space_3: critic absurd skill
-bip_39_word_space_4: critic absurd skill fancy
-bip_39_word_space_5: critic absurd skill fancy near
-bip_39_word_space_6: critic absurd skill fancy near acoustic
-bip_39_word_space_7: critic absurd skill fancy near acoustic accident
-bip_39_word_space_8: critic absurd skill fancy near acoustic accident cushion
-bip_39_word_space_9: critic absurd skill fancy near acoustic accident cushion smoke
-bip_39_word_underscore_1: critic
-bip_39_word_underscore_10: critic_absurd_skill_fancy_near_acoustic_accident_cushion_smoke_donate
-bip_39_word_underscore_11: critic_absurd_skill_fancy_near_acoustic_accident_cushion_smoke_donate_riot
 bip_39_word_underscore_12: critic_absurd_skill_fancy_near_acoustic_accident_cushion_smoke_donate_riot_action
 bip_39_word_underscore_2: critic_absurd
 bip_39_word_underscore_3: critic_absurd_skill
-bip_39_word_underscore_4: critic_absurd_skill_fancy
-bip_39_word_underscore_5: critic_absurd_skill_fancy_near
-bip_39_word_underscore_6: critic_absurd_skill_fancy_near_acoustic
-bip_39_word_underscore_7: critic_absurd_skill_fancy_near_acoustic_accident
-bip_39_word_underscore_8: critic_absurd_skill_fancy_near_acoustic_accident_cushion
-bip_39_word_underscore_9: critic_absurd_skill_fancy_near_acoustic_accident_cushion_smoke
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

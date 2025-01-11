@@ -1,68 +1,9 @@
-bip_39_word_dash_1: churn
-bip_39_word_dash_10: churn-carpet-repeat-shadow-evolve-strike-rookie-fold-clown-agent
-bip_39_word_dash_11: churn-carpet-repeat-shadow-evolve-strike-rookie-fold-clown-agent-moon
 bip_39_word_dash_12: churn-carpet-repeat-shadow-evolve-strike-rookie-fold-clown-agent-moon-arctic
 bip_39_word_dash_2: churn-carpet
 bip_39_word_dash_3: churn-carpet-repeat
-bip_39_word_dash_4: churn-carpet-repeat-shadow
-bip_39_word_dash_5: churn-carpet-repeat-shadow-evolve
-bip_39_word_dash_6: churn-carpet-repeat-shadow-evolve-strike
-bip_39_word_dash_7: churn-carpet-repeat-shadow-evolve-strike-rookie
-bip_39_word_dash_8: churn-carpet-repeat-shadow-evolve-strike-rookie-fold
-bip_39_word_dash_9: churn-carpet-repeat-shadow-evolve-strike-rookie-fold-clown
-bip_39_word_new_br_1: churn
-bip_39_word_new_br_10: churn<br>carpet<br>repeat<br>shadow<br>evolve<br>strike<br>rookie<br>fold<br>clown<br>agent
-bip_39_word_new_br_11: churn<br>carpet<br>repeat<br>shadow<br>evolve<br>strike<br>rookie<br>fold<br>clown<br>agent<br>moon
 bip_39_word_new_br_12: churn<br>carpet<br>repeat<br>shadow<br>evolve<br>strike<br>rookie<br>fold<br>clown<br>agent<br>moon<br>arctic
 bip_39_word_new_br_2: churn<br>carpet
 bip_39_word_new_br_3: churn<br>carpet<br>repeat
-bip_39_word_new_br_4: churn<br>carpet<br>repeat<br>shadow
-bip_39_word_new_br_5: churn<br>carpet<br>repeat<br>shadow<br>evolve
-bip_39_word_new_br_6: churn<br>carpet<br>repeat<br>shadow<br>evolve<br>strike
-bip_39_word_new_br_7: churn<br>carpet<br>repeat<br>shadow<br>evolve<br>strike<br>rookie
-bip_39_word_new_br_8: churn<br>carpet<br>repeat<br>shadow<br>evolve<br>strike<br>rookie<br>fold
-bip_39_word_new_br_9: churn<br>carpet<br>repeat<br>shadow<br>evolve<br>strike<br>rookie<br>fold<br>clown
-bip_39_word_new_line_1: churn
-bip_39_word_new_line_10: 'churn
-
-  carpet
-
-  repeat
-
-  shadow
-
-  evolve
-
-  strike
-
-  rookie
-
-  fold
-
-  clown
-
-  agent'
-bip_39_word_new_line_11: 'churn
-
-  carpet
-
-  repeat
-
-  shadow
-
-  evolve
-
-  strike
-
-  rookie
-
-  fold
-
-  clown
-
-  agent
-
-  moon'
 bip_39_word_new_line_12: 'churn
 
   carpet
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'churn
   carpet
 
   repeat'
-bip_39_word_new_line_4: 'churn
-
-  carpet
-
-  repeat
-
-  shadow'
-bip_39_word_new_line_5: 'churn
-
-  carpet
-
-  repeat
-
-  shadow
-
-  evolve'
-bip_39_word_new_line_6: 'churn
-
-  carpet
-
-  repeat
-
-  shadow
-
-  evolve
-
-  strike'
-bip_39_word_new_line_7: 'churn
-
-  carpet
-
-  repeat
-
-  shadow
-
-  evolve
-
-  strike
-
-  rookie'
-bip_39_word_new_line_8: 'churn
-
-  carpet
-
-  repeat
-
-  shadow
-
-  evolve
-
-  strike
-
-  rookie
-
-  fold'
-bip_39_word_new_line_9: 'churn
-
-  carpet
-
-  repeat
-
-  shadow
-
-  evolve
-
-  strike
-
-  rookie
-
-  fold
-
-  clown'
-bip_39_word_no_space_1: churn
-bip_39_word_no_space_10: churncarpetrepeatshadowevolvestrikerookiefoldclownagent
-bip_39_word_no_space_11: churncarpetrepeatshadowevolvestrikerookiefoldclownagentmoon
 bip_39_word_no_space_12: churncarpetrepeatshadowevolvestrikerookiefoldclownagentmoonarctic
 bip_39_word_no_space_2: churncarpet
 bip_39_word_no_space_3: churncarpetrepeat
-bip_39_word_no_space_4: churncarpetrepeatshadow
-bip_39_word_no_space_5: churncarpetrepeatshadowevolve
-bip_39_word_no_space_6: churncarpetrepeatshadowevolvestrike
-bip_39_word_no_space_7: churncarpetrepeatshadowevolvestrikerookie
-bip_39_word_no_space_8: churncarpetrepeatshadowevolvestrikerookiefold
-bip_39_word_no_space_9: churncarpetrepeatshadowevolvestrikerookiefoldclown
-bip_39_word_space_0:
-- churn
-- carpet
-- repeat
-- shadow
-- evolve
-- strike
-- rookie
-- fold
-- clown
-- agent
-- moon
-- arctic
-bip_39_word_space_1: churn
-bip_39_word_space_10: churn carpet repeat shadow evolve strike rookie fold clown agent
-bip_39_word_space_11: churn carpet repeat shadow evolve strike rookie fold clown agent
-  moon
 bip_39_word_space_12: churn carpet repeat shadow evolve strike rookie fold clown agent
   moon arctic
 bip_39_word_space_2: churn carpet
 bip_39_word_space_3: churn carpet repeat
-bip_39_word_space_4: churn carpet repeat shadow
-bip_39_word_space_5: churn carpet repeat shadow evolve
-bip_39_word_space_6: churn carpet repeat shadow evolve strike
-bip_39_word_space_7: churn carpet repeat shadow evolve strike rookie
-bip_39_word_space_8: churn carpet repeat shadow evolve strike rookie fold
-bip_39_word_space_9: churn carpet repeat shadow evolve strike rookie fold clown
-bip_39_word_underscore_1: churn
-bip_39_word_underscore_10: churn_carpet_repeat_shadow_evolve_strike_rookie_fold_clown_agent
-bip_39_word_underscore_11: churn_carpet_repeat_shadow_evolve_strike_rookie_fold_clown_agent_moon
 bip_39_word_underscore_12: churn_carpet_repeat_shadow_evolve_strike_rookie_fold_clown_agent_moon_arctic
 bip_39_word_underscore_2: churn_carpet
 bip_39_word_underscore_3: churn_carpet_repeat
-bip_39_word_underscore_4: churn_carpet_repeat_shadow
-bip_39_word_underscore_5: churn_carpet_repeat_shadow_evolve
-bip_39_word_underscore_6: churn_carpet_repeat_shadow_evolve_strike
-bip_39_word_underscore_7: churn_carpet_repeat_shadow_evolve_strike_rookie
-bip_39_word_underscore_8: churn_carpet_repeat_shadow_evolve_strike_rookie_fold
-bip_39_word_underscore_9: churn_carpet_repeat_shadow_evolve_strike_rookie_fold_clown
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

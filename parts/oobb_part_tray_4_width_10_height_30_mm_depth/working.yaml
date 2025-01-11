@@ -1,68 +1,9 @@
-bip_39_word_dash_1: card
-bip_39_word_dash_10: card-rebuild-crystal-cup-rent-pencil-harvest-boost-pole-cover
-bip_39_word_dash_11: card-rebuild-crystal-cup-rent-pencil-harvest-boost-pole-cover-tunnel
 bip_39_word_dash_12: card-rebuild-crystal-cup-rent-pencil-harvest-boost-pole-cover-tunnel-always
 bip_39_word_dash_2: card-rebuild
 bip_39_word_dash_3: card-rebuild-crystal
-bip_39_word_dash_4: card-rebuild-crystal-cup
-bip_39_word_dash_5: card-rebuild-crystal-cup-rent
-bip_39_word_dash_6: card-rebuild-crystal-cup-rent-pencil
-bip_39_word_dash_7: card-rebuild-crystal-cup-rent-pencil-harvest
-bip_39_word_dash_8: card-rebuild-crystal-cup-rent-pencil-harvest-boost
-bip_39_word_dash_9: card-rebuild-crystal-cup-rent-pencil-harvest-boost-pole
-bip_39_word_new_br_1: card
-bip_39_word_new_br_10: card<br>rebuild<br>crystal<br>cup<br>rent<br>pencil<br>harvest<br>boost<br>pole<br>cover
-bip_39_word_new_br_11: card<br>rebuild<br>crystal<br>cup<br>rent<br>pencil<br>harvest<br>boost<br>pole<br>cover<br>tunnel
 bip_39_word_new_br_12: card<br>rebuild<br>crystal<br>cup<br>rent<br>pencil<br>harvest<br>boost<br>pole<br>cover<br>tunnel<br>always
 bip_39_word_new_br_2: card<br>rebuild
 bip_39_word_new_br_3: card<br>rebuild<br>crystal
-bip_39_word_new_br_4: card<br>rebuild<br>crystal<br>cup
-bip_39_word_new_br_5: card<br>rebuild<br>crystal<br>cup<br>rent
-bip_39_word_new_br_6: card<br>rebuild<br>crystal<br>cup<br>rent<br>pencil
-bip_39_word_new_br_7: card<br>rebuild<br>crystal<br>cup<br>rent<br>pencil<br>harvest
-bip_39_word_new_br_8: card<br>rebuild<br>crystal<br>cup<br>rent<br>pencil<br>harvest<br>boost
-bip_39_word_new_br_9: card<br>rebuild<br>crystal<br>cup<br>rent<br>pencil<br>harvest<br>boost<br>pole
-bip_39_word_new_line_1: card
-bip_39_word_new_line_10: 'card
-
-  rebuild
-
-  crystal
-
-  cup
-
-  rent
-
-  pencil
-
-  harvest
-
-  boost
-
-  pole
-
-  cover'
-bip_39_word_new_line_11: 'card
-
-  rebuild
-
-  crystal
-
-  cup
-
-  rent
-
-  pencil
-
-  harvest
-
-  boost
-
-  pole
-
-  cover
-
-  tunnel'
 bip_39_word_new_line_12: 'card
 
   rebuild
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'card
   rebuild
 
   crystal'
-bip_39_word_new_line_4: 'card
-
-  rebuild
-
-  crystal
-
-  cup'
-bip_39_word_new_line_5: 'card
-
-  rebuild
-
-  crystal
-
-  cup
-
-  rent'
-bip_39_word_new_line_6: 'card
-
-  rebuild
-
-  crystal
-
-  cup
-
-  rent
-
-  pencil'
-bip_39_word_new_line_7: 'card
-
-  rebuild
-
-  crystal
-
-  cup
-
-  rent
-
-  pencil
-
-  harvest'
-bip_39_word_new_line_8: 'card
-
-  rebuild
-
-  crystal
-
-  cup
-
-  rent
-
-  pencil
-
-  harvest
-
-  boost'
-bip_39_word_new_line_9: 'card
-
-  rebuild
-
-  crystal
-
-  cup
-
-  rent
-
-  pencil
-
-  harvest
-
-  boost
-
-  pole'
-bip_39_word_no_space_1: card
-bip_39_word_no_space_10: cardrebuildcrystalcuprentpencilharvestboostpolecover
-bip_39_word_no_space_11: cardrebuildcrystalcuprentpencilharvestboostpolecovertunnel
 bip_39_word_no_space_12: cardrebuildcrystalcuprentpencilharvestboostpolecovertunnelalways
 bip_39_word_no_space_2: cardrebuild
 bip_39_word_no_space_3: cardrebuildcrystal
-bip_39_word_no_space_4: cardrebuildcrystalcup
-bip_39_word_no_space_5: cardrebuildcrystalcuprent
-bip_39_word_no_space_6: cardrebuildcrystalcuprentpencil
-bip_39_word_no_space_7: cardrebuildcrystalcuprentpencilharvest
-bip_39_word_no_space_8: cardrebuildcrystalcuprentpencilharvestboost
-bip_39_word_no_space_9: cardrebuildcrystalcuprentpencilharvestboostpole
-bip_39_word_space_0:
-- card
-- rebuild
-- crystal
-- cup
-- rent
-- pencil
-- harvest
-- boost
-- pole
-- cover
-- tunnel
-- always
-bip_39_word_space_1: card
-bip_39_word_space_10: card rebuild crystal cup rent pencil harvest boost pole cover
-bip_39_word_space_11: card rebuild crystal cup rent pencil harvest boost pole cover
-  tunnel
 bip_39_word_space_12: card rebuild crystal cup rent pencil harvest boost pole cover
   tunnel always
 bip_39_word_space_2: card rebuild
 bip_39_word_space_3: card rebuild crystal
-bip_39_word_space_4: card rebuild crystal cup
-bip_39_word_space_5: card rebuild crystal cup rent
-bip_39_word_space_6: card rebuild crystal cup rent pencil
-bip_39_word_space_7: card rebuild crystal cup rent pencil harvest
-bip_39_word_space_8: card rebuild crystal cup rent pencil harvest boost
-bip_39_word_space_9: card rebuild crystal cup rent pencil harvest boost pole
-bip_39_word_underscore_1: card
-bip_39_word_underscore_10: card_rebuild_crystal_cup_rent_pencil_harvest_boost_pole_cover
-bip_39_word_underscore_11: card_rebuild_crystal_cup_rent_pencil_harvest_boost_pole_cover_tunnel
 bip_39_word_underscore_12: card_rebuild_crystal_cup_rent_pencil_harvest_boost_pole_cover_tunnel_always
 bip_39_word_underscore_2: card_rebuild
 bip_39_word_underscore_3: card_rebuild_crystal
-bip_39_word_underscore_4: card_rebuild_crystal_cup
-bip_39_word_underscore_5: card_rebuild_crystal_cup_rent
-bip_39_word_underscore_6: card_rebuild_crystal_cup_rent_pencil
-bip_39_word_underscore_7: card_rebuild_crystal_cup_rent_pencil_harvest
-bip_39_word_underscore_8: card_rebuild_crystal_cup_rent_pencil_harvest_boost
-bip_39_word_underscore_9: card_rebuild_crystal_cup_rent_pencil_harvest_boost_pole
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

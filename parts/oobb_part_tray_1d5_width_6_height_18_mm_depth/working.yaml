@@ -1,68 +1,9 @@
-bip_39_word_dash_1: loop
-bip_39_word_dash_10: loop-much-used-arm-home-gather-diagram-elegant-alert-tackle
-bip_39_word_dash_11: loop-much-used-arm-home-gather-diagram-elegant-alert-tackle-sample
 bip_39_word_dash_12: loop-much-used-arm-home-gather-diagram-elegant-alert-tackle-sample-angry
 bip_39_word_dash_2: loop-much
 bip_39_word_dash_3: loop-much-used
-bip_39_word_dash_4: loop-much-used-arm
-bip_39_word_dash_5: loop-much-used-arm-home
-bip_39_word_dash_6: loop-much-used-arm-home-gather
-bip_39_word_dash_7: loop-much-used-arm-home-gather-diagram
-bip_39_word_dash_8: loop-much-used-arm-home-gather-diagram-elegant
-bip_39_word_dash_9: loop-much-used-arm-home-gather-diagram-elegant-alert
-bip_39_word_new_br_1: loop
-bip_39_word_new_br_10: loop<br>much<br>used<br>arm<br>home<br>gather<br>diagram<br>elegant<br>alert<br>tackle
-bip_39_word_new_br_11: loop<br>much<br>used<br>arm<br>home<br>gather<br>diagram<br>elegant<br>alert<br>tackle<br>sample
 bip_39_word_new_br_12: loop<br>much<br>used<br>arm<br>home<br>gather<br>diagram<br>elegant<br>alert<br>tackle<br>sample<br>angry
 bip_39_word_new_br_2: loop<br>much
 bip_39_word_new_br_3: loop<br>much<br>used
-bip_39_word_new_br_4: loop<br>much<br>used<br>arm
-bip_39_word_new_br_5: loop<br>much<br>used<br>arm<br>home
-bip_39_word_new_br_6: loop<br>much<br>used<br>arm<br>home<br>gather
-bip_39_word_new_br_7: loop<br>much<br>used<br>arm<br>home<br>gather<br>diagram
-bip_39_word_new_br_8: loop<br>much<br>used<br>arm<br>home<br>gather<br>diagram<br>elegant
-bip_39_word_new_br_9: loop<br>much<br>used<br>arm<br>home<br>gather<br>diagram<br>elegant<br>alert
-bip_39_word_new_line_1: loop
-bip_39_word_new_line_10: 'loop
-
-  much
-
-  used
-
-  arm
-
-  home
-
-  gather
-
-  diagram
-
-  elegant
-
-  alert
-
-  tackle'
-bip_39_word_new_line_11: 'loop
-
-  much
-
-  used
-
-  arm
-
-  home
-
-  gather
-
-  diagram
-
-  elegant
-
-  alert
-
-  tackle
-
-  sample'
 bip_39_word_new_line_12: 'loop
 
   much
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'loop
   much
 
   used'
-bip_39_word_new_line_4: 'loop
-
-  much
-
-  used
-
-  arm'
-bip_39_word_new_line_5: 'loop
-
-  much
-
-  used
-
-  arm
-
-  home'
-bip_39_word_new_line_6: 'loop
-
-  much
-
-  used
-
-  arm
-
-  home
-
-  gather'
-bip_39_word_new_line_7: 'loop
-
-  much
-
-  used
-
-  arm
-
-  home
-
-  gather
-
-  diagram'
-bip_39_word_new_line_8: 'loop
-
-  much
-
-  used
-
-  arm
-
-  home
-
-  gather
-
-  diagram
-
-  elegant'
-bip_39_word_new_line_9: 'loop
-
-  much
-
-  used
-
-  arm
-
-  home
-
-  gather
-
-  diagram
-
-  elegant
-
-  alert'
-bip_39_word_no_space_1: loop
-bip_39_word_no_space_10: loopmuchusedarmhomegatherdiagramelegantalerttackle
-bip_39_word_no_space_11: loopmuchusedarmhomegatherdiagramelegantalerttacklesample
 bip_39_word_no_space_12: loopmuchusedarmhomegatherdiagramelegantalerttacklesampleangry
 bip_39_word_no_space_2: loopmuch
 bip_39_word_no_space_3: loopmuchused
-bip_39_word_no_space_4: loopmuchusedarm
-bip_39_word_no_space_5: loopmuchusedarmhome
-bip_39_word_no_space_6: loopmuchusedarmhomegather
-bip_39_word_no_space_7: loopmuchusedarmhomegatherdiagram
-bip_39_word_no_space_8: loopmuchusedarmhomegatherdiagramelegant
-bip_39_word_no_space_9: loopmuchusedarmhomegatherdiagramelegantalert
-bip_39_word_space_0:
-- loop
-- much
-- used
-- arm
-- home
-- gather
-- diagram
-- elegant
-- alert
-- tackle
-- sample
-- angry
-bip_39_word_space_1: loop
-bip_39_word_space_10: loop much used arm home gather diagram elegant alert tackle
-bip_39_word_space_11: loop much used arm home gather diagram elegant alert tackle
-  sample
 bip_39_word_space_12: loop much used arm home gather diagram elegant alert tackle
   sample angry
 bip_39_word_space_2: loop much
 bip_39_word_space_3: loop much used
-bip_39_word_space_4: loop much used arm
-bip_39_word_space_5: loop much used arm home
-bip_39_word_space_6: loop much used arm home gather
-bip_39_word_space_7: loop much used arm home gather diagram
-bip_39_word_space_8: loop much used arm home gather diagram elegant
-bip_39_word_space_9: loop much used arm home gather diagram elegant alert
-bip_39_word_underscore_1: loop
-bip_39_word_underscore_10: loop_much_used_arm_home_gather_diagram_elegant_alert_tackle
-bip_39_word_underscore_11: loop_much_used_arm_home_gather_diagram_elegant_alert_tackle_sample
 bip_39_word_underscore_12: loop_much_used_arm_home_gather_diagram_elegant_alert_tackle_sample_angry
 bip_39_word_underscore_2: loop_much
 bip_39_word_underscore_3: loop_much_used
-bip_39_word_underscore_4: loop_much_used_arm
-bip_39_word_underscore_5: loop_much_used_arm_home
-bip_39_word_underscore_6: loop_much_used_arm_home_gather
-bip_39_word_underscore_7: loop_much_used_arm_home_gather_diagram
-bip_39_word_underscore_8: loop_much_used_arm_home_gather_diagram_elegant
-bip_39_word_underscore_9: loop_much_used_arm_home_gather_diagram_elegant_alert
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

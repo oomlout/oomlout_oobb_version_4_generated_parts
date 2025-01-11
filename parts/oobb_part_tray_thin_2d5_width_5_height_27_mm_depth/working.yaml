@@ -1,68 +1,9 @@
-bip_39_word_dash_1: donkey
-bip_39_word_dash_10: donkey-canvas-transfer-mansion-shrug-color-input-purchase-black-special
-bip_39_word_dash_11: donkey-canvas-transfer-mansion-shrug-color-input-purchase-black-special-cook
 bip_39_word_dash_12: donkey-canvas-transfer-mansion-shrug-color-input-purchase-black-special-cook-alert
 bip_39_word_dash_2: donkey-canvas
 bip_39_word_dash_3: donkey-canvas-transfer
-bip_39_word_dash_4: donkey-canvas-transfer-mansion
-bip_39_word_dash_5: donkey-canvas-transfer-mansion-shrug
-bip_39_word_dash_6: donkey-canvas-transfer-mansion-shrug-color
-bip_39_word_dash_7: donkey-canvas-transfer-mansion-shrug-color-input
-bip_39_word_dash_8: donkey-canvas-transfer-mansion-shrug-color-input-purchase
-bip_39_word_dash_9: donkey-canvas-transfer-mansion-shrug-color-input-purchase-black
-bip_39_word_new_br_1: donkey
-bip_39_word_new_br_10: donkey<br>canvas<br>transfer<br>mansion<br>shrug<br>color<br>input<br>purchase<br>black<br>special
-bip_39_word_new_br_11: donkey<br>canvas<br>transfer<br>mansion<br>shrug<br>color<br>input<br>purchase<br>black<br>special<br>cook
 bip_39_word_new_br_12: donkey<br>canvas<br>transfer<br>mansion<br>shrug<br>color<br>input<br>purchase<br>black<br>special<br>cook<br>alert
 bip_39_word_new_br_2: donkey<br>canvas
 bip_39_word_new_br_3: donkey<br>canvas<br>transfer
-bip_39_word_new_br_4: donkey<br>canvas<br>transfer<br>mansion
-bip_39_word_new_br_5: donkey<br>canvas<br>transfer<br>mansion<br>shrug
-bip_39_word_new_br_6: donkey<br>canvas<br>transfer<br>mansion<br>shrug<br>color
-bip_39_word_new_br_7: donkey<br>canvas<br>transfer<br>mansion<br>shrug<br>color<br>input
-bip_39_word_new_br_8: donkey<br>canvas<br>transfer<br>mansion<br>shrug<br>color<br>input<br>purchase
-bip_39_word_new_br_9: donkey<br>canvas<br>transfer<br>mansion<br>shrug<br>color<br>input<br>purchase<br>black
-bip_39_word_new_line_1: donkey
-bip_39_word_new_line_10: 'donkey
-
-  canvas
-
-  transfer
-
-  mansion
-
-  shrug
-
-  color
-
-  input
-
-  purchase
-
-  black
-
-  special'
-bip_39_word_new_line_11: 'donkey
-
-  canvas
-
-  transfer
-
-  mansion
-
-  shrug
-
-  color
-
-  input
-
-  purchase
-
-  black
-
-  special
-
-  cook'
 bip_39_word_new_line_12: 'donkey
 
   canvas
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'donkey
   canvas
 
   transfer'
-bip_39_word_new_line_4: 'donkey
-
-  canvas
-
-  transfer
-
-  mansion'
-bip_39_word_new_line_5: 'donkey
-
-  canvas
-
-  transfer
-
-  mansion
-
-  shrug'
-bip_39_word_new_line_6: 'donkey
-
-  canvas
-
-  transfer
-
-  mansion
-
-  shrug
-
-  color'
-bip_39_word_new_line_7: 'donkey
-
-  canvas
-
-  transfer
-
-  mansion
-
-  shrug
-
-  color
-
-  input'
-bip_39_word_new_line_8: 'donkey
-
-  canvas
-
-  transfer
-
-  mansion
-
-  shrug
-
-  color
-
-  input
-
-  purchase'
-bip_39_word_new_line_9: 'donkey
-
-  canvas
-
-  transfer
-
-  mansion
-
-  shrug
-
-  color
-
-  input
-
-  purchase
-
-  black'
-bip_39_word_no_space_1: donkey
-bip_39_word_no_space_10: donkeycanvastransfermansionshrugcolorinputpurchaseblackspecial
-bip_39_word_no_space_11: donkeycanvastransfermansionshrugcolorinputpurchaseblackspecialcook
 bip_39_word_no_space_12: donkeycanvastransfermansionshrugcolorinputpurchaseblackspecialcookalert
 bip_39_word_no_space_2: donkeycanvas
 bip_39_word_no_space_3: donkeycanvastransfer
-bip_39_word_no_space_4: donkeycanvastransfermansion
-bip_39_word_no_space_5: donkeycanvastransfermansionshrug
-bip_39_word_no_space_6: donkeycanvastransfermansionshrugcolor
-bip_39_word_no_space_7: donkeycanvastransfermansionshrugcolorinput
-bip_39_word_no_space_8: donkeycanvastransfermansionshrugcolorinputpurchase
-bip_39_word_no_space_9: donkeycanvastransfermansionshrugcolorinputpurchaseblack
-bip_39_word_space_0:
-- donkey
-- canvas
-- transfer
-- mansion
-- shrug
-- color
-- input
-- purchase
-- black
-- special
-- cook
-- alert
-bip_39_word_space_1: donkey
-bip_39_word_space_10: donkey canvas transfer mansion shrug color input purchase black
-  special
-bip_39_word_space_11: donkey canvas transfer mansion shrug color input purchase black
-  special cook
 bip_39_word_space_12: donkey canvas transfer mansion shrug color input purchase black
   special cook alert
 bip_39_word_space_2: donkey canvas
 bip_39_word_space_3: donkey canvas transfer
-bip_39_word_space_4: donkey canvas transfer mansion
-bip_39_word_space_5: donkey canvas transfer mansion shrug
-bip_39_word_space_6: donkey canvas transfer mansion shrug color
-bip_39_word_space_7: donkey canvas transfer mansion shrug color input
-bip_39_word_space_8: donkey canvas transfer mansion shrug color input purchase
-bip_39_word_space_9: donkey canvas transfer mansion shrug color input purchase black
-bip_39_word_underscore_1: donkey
-bip_39_word_underscore_10: donkey_canvas_transfer_mansion_shrug_color_input_purchase_black_special
-bip_39_word_underscore_11: donkey_canvas_transfer_mansion_shrug_color_input_purchase_black_special_cook
 bip_39_word_underscore_12: donkey_canvas_transfer_mansion_shrug_color_input_purchase_black_special_cook_alert
 bip_39_word_underscore_2: donkey_canvas
 bip_39_word_underscore_3: donkey_canvas_transfer
-bip_39_word_underscore_4: donkey_canvas_transfer_mansion
-bip_39_word_underscore_5: donkey_canvas_transfer_mansion_shrug
-bip_39_word_underscore_6: donkey_canvas_transfer_mansion_shrug_color
-bip_39_word_underscore_7: donkey_canvas_transfer_mansion_shrug_color_input
-bip_39_word_underscore_8: donkey_canvas_transfer_mansion_shrug_color_input_purchase
-bip_39_word_underscore_9: donkey_canvas_transfer_mansion_shrug_color_input_purchase_black
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

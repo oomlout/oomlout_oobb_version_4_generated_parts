@@ -1,68 +1,9 @@
-bip_39_word_dash_1: grow
-bip_39_word_dash_10: grow-swarm-develop-human-song-example-usage-cluster-gadget-hire
-bip_39_word_dash_11: grow-swarm-develop-human-song-example-usage-cluster-gadget-hire-parade
 bip_39_word_dash_12: grow-swarm-develop-human-song-example-usage-cluster-gadget-hire-parade-arrow
 bip_39_word_dash_2: grow-swarm
 bip_39_word_dash_3: grow-swarm-develop
-bip_39_word_dash_4: grow-swarm-develop-human
-bip_39_word_dash_5: grow-swarm-develop-human-song
-bip_39_word_dash_6: grow-swarm-develop-human-song-example
-bip_39_word_dash_7: grow-swarm-develop-human-song-example-usage
-bip_39_word_dash_8: grow-swarm-develop-human-song-example-usage-cluster
-bip_39_word_dash_9: grow-swarm-develop-human-song-example-usage-cluster-gadget
-bip_39_word_new_br_1: grow
-bip_39_word_new_br_10: grow<br>swarm<br>develop<br>human<br>song<br>example<br>usage<br>cluster<br>gadget<br>hire
-bip_39_word_new_br_11: grow<br>swarm<br>develop<br>human<br>song<br>example<br>usage<br>cluster<br>gadget<br>hire<br>parade
 bip_39_word_new_br_12: grow<br>swarm<br>develop<br>human<br>song<br>example<br>usage<br>cluster<br>gadget<br>hire<br>parade<br>arrow
 bip_39_word_new_br_2: grow<br>swarm
 bip_39_word_new_br_3: grow<br>swarm<br>develop
-bip_39_word_new_br_4: grow<br>swarm<br>develop<br>human
-bip_39_word_new_br_5: grow<br>swarm<br>develop<br>human<br>song
-bip_39_word_new_br_6: grow<br>swarm<br>develop<br>human<br>song<br>example
-bip_39_word_new_br_7: grow<br>swarm<br>develop<br>human<br>song<br>example<br>usage
-bip_39_word_new_br_8: grow<br>swarm<br>develop<br>human<br>song<br>example<br>usage<br>cluster
-bip_39_word_new_br_9: grow<br>swarm<br>develop<br>human<br>song<br>example<br>usage<br>cluster<br>gadget
-bip_39_word_new_line_1: grow
-bip_39_word_new_line_10: 'grow
-
-  swarm
-
-  develop
-
-  human
-
-  song
-
-  example
-
-  usage
-
-  cluster
-
-  gadget
-
-  hire'
-bip_39_word_new_line_11: 'grow
-
-  swarm
-
-  develop
-
-  human
-
-  song
-
-  example
-
-  usage
-
-  cluster
-
-  gadget
-
-  hire
-
-  parade'
 bip_39_word_new_line_12: 'grow
 
   swarm
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'grow
   swarm
 
   develop'
-bip_39_word_new_line_4: 'grow
-
-  swarm
-
-  develop
-
-  human'
-bip_39_word_new_line_5: 'grow
-
-  swarm
-
-  develop
-
-  human
-
-  song'
-bip_39_word_new_line_6: 'grow
-
-  swarm
-
-  develop
-
-  human
-
-  song
-
-  example'
-bip_39_word_new_line_7: 'grow
-
-  swarm
-
-  develop
-
-  human
-
-  song
-
-  example
-
-  usage'
-bip_39_word_new_line_8: 'grow
-
-  swarm
-
-  develop
-
-  human
-
-  song
-
-  example
-
-  usage
-
-  cluster'
-bip_39_word_new_line_9: 'grow
-
-  swarm
-
-  develop
-
-  human
-
-  song
-
-  example
-
-  usage
-
-  cluster
-
-  gadget'
-bip_39_word_no_space_1: grow
-bip_39_word_no_space_10: growswarmdevelophumansongexampleusageclustergadgethire
-bip_39_word_no_space_11: growswarmdevelophumansongexampleusageclustergadgethireparade
 bip_39_word_no_space_12: growswarmdevelophumansongexampleusageclustergadgethireparadearrow
 bip_39_word_no_space_2: growswarm
 bip_39_word_no_space_3: growswarmdevelop
-bip_39_word_no_space_4: growswarmdevelophuman
-bip_39_word_no_space_5: growswarmdevelophumansong
-bip_39_word_no_space_6: growswarmdevelophumansongexample
-bip_39_word_no_space_7: growswarmdevelophumansongexampleusage
-bip_39_word_no_space_8: growswarmdevelophumansongexampleusagecluster
-bip_39_word_no_space_9: growswarmdevelophumansongexampleusageclustergadget
-bip_39_word_space_0:
-- grow
-- swarm
-- develop
-- human
-- song
-- example
-- usage
-- cluster
-- gadget
-- hire
-- parade
-- arrow
-bip_39_word_space_1: grow
-bip_39_word_space_10: grow swarm develop human song example usage cluster gadget hire
-bip_39_word_space_11: grow swarm develop human song example usage cluster gadget hire
-  parade
 bip_39_word_space_12: grow swarm develop human song example usage cluster gadget hire
   parade arrow
 bip_39_word_space_2: grow swarm
 bip_39_word_space_3: grow swarm develop
-bip_39_word_space_4: grow swarm develop human
-bip_39_word_space_5: grow swarm develop human song
-bip_39_word_space_6: grow swarm develop human song example
-bip_39_word_space_7: grow swarm develop human song example usage
-bip_39_word_space_8: grow swarm develop human song example usage cluster
-bip_39_word_space_9: grow swarm develop human song example usage cluster gadget
-bip_39_word_underscore_1: grow
-bip_39_word_underscore_10: grow_swarm_develop_human_song_example_usage_cluster_gadget_hire
-bip_39_word_underscore_11: grow_swarm_develop_human_song_example_usage_cluster_gadget_hire_parade
 bip_39_word_underscore_12: grow_swarm_develop_human_song_example_usage_cluster_gadget_hire_parade_arrow
 bip_39_word_underscore_2: grow_swarm
 bip_39_word_underscore_3: grow_swarm_develop
-bip_39_word_underscore_4: grow_swarm_develop_human
-bip_39_word_underscore_5: grow_swarm_develop_human_song
-bip_39_word_underscore_6: grow_swarm_develop_human_song_example
-bip_39_word_underscore_7: grow_swarm_develop_human_song_example_usage
-bip_39_word_underscore_8: grow_swarm_develop_human_song_example_usage_cluster
-bip_39_word_underscore_9: grow_swarm_develop_human_song_example_usage_cluster_gadget
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

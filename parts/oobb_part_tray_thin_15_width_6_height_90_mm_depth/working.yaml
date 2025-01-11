@@ -1,45 +1,9 @@
-bip_39_word_dash_1: short
-bip_39_word_dash_10: short-spot-siege-vendor-gloom-screen-jump-stomach-stuff-ignore
 bip_39_word_dash_11: short-spot-siege-vendor-gloom-screen-jump-stomach-stuff-ignore-outer
 bip_39_word_dash_2: short-spot
 bip_39_word_dash_3: short-spot-siege
-bip_39_word_dash_4: short-spot-siege-vendor
-bip_39_word_dash_5: short-spot-siege-vendor-gloom
-bip_39_word_dash_6: short-spot-siege-vendor-gloom-screen
-bip_39_word_dash_7: short-spot-siege-vendor-gloom-screen-jump
-bip_39_word_dash_8: short-spot-siege-vendor-gloom-screen-jump-stomach
-bip_39_word_dash_9: short-spot-siege-vendor-gloom-screen-jump-stomach-stuff
-bip_39_word_new_br_1: short
-bip_39_word_new_br_10: short<br>spot<br>siege<br>vendor<br>gloom<br>screen<br>jump<br>stomach<br>stuff<br>ignore
 bip_39_word_new_br_11: short<br>spot<br>siege<br>vendor<br>gloom<br>screen<br>jump<br>stomach<br>stuff<br>ignore<br>outer
 bip_39_word_new_br_2: short<br>spot
 bip_39_word_new_br_3: short<br>spot<br>siege
-bip_39_word_new_br_4: short<br>spot<br>siege<br>vendor
-bip_39_word_new_br_5: short<br>spot<br>siege<br>vendor<br>gloom
-bip_39_word_new_br_6: short<br>spot<br>siege<br>vendor<br>gloom<br>screen
-bip_39_word_new_br_7: short<br>spot<br>siege<br>vendor<br>gloom<br>screen<br>jump
-bip_39_word_new_br_8: short<br>spot<br>siege<br>vendor<br>gloom<br>screen<br>jump<br>stomach
-bip_39_word_new_br_9: short<br>spot<br>siege<br>vendor<br>gloom<br>screen<br>jump<br>stomach<br>stuff
-bip_39_word_new_line_1: short
-bip_39_word_new_line_10: 'short
-
-  spot
-
-  siege
-
-  vendor
-
-  gloom
-
-  screen
-
-  jump
-
-  stomach
-
-  stuff
-
-  ignore'
 bip_39_word_new_line_11: 'short
 
   spot
@@ -69,124 +33,16 @@ bip_39_word_new_line_3: 'short
   spot
 
   siege'
-bip_39_word_new_line_4: 'short
-
-  spot
-
-  siege
-
-  vendor'
-bip_39_word_new_line_5: 'short
-
-  spot
-
-  siege
-
-  vendor
-
-  gloom'
-bip_39_word_new_line_6: 'short
-
-  spot
-
-  siege
-
-  vendor
-
-  gloom
-
-  screen'
-bip_39_word_new_line_7: 'short
-
-  spot
-
-  siege
-
-  vendor
-
-  gloom
-
-  screen
-
-  jump'
-bip_39_word_new_line_8: 'short
-
-  spot
-
-  siege
-
-  vendor
-
-  gloom
-
-  screen
-
-  jump
-
-  stomach'
-bip_39_word_new_line_9: 'short
-
-  spot
-
-  siege
-
-  vendor
-
-  gloom
-
-  screen
-
-  jump
-
-  stomach
-
-  stuff'
-bip_39_word_no_space_1: short
-bip_39_word_no_space_10: shortspotsiegevendorgloomscreenjumpstomachstuffignore
 bip_39_word_no_space_11: shortspotsiegevendorgloomscreenjumpstomachstuffignoreouter
 bip_39_word_no_space_2: shortspot
 bip_39_word_no_space_3: shortspotsiege
-bip_39_word_no_space_4: shortspotsiegevendor
-bip_39_word_no_space_5: shortspotsiegevendorgloom
-bip_39_word_no_space_6: shortspotsiegevendorgloomscreen
-bip_39_word_no_space_7: shortspotsiegevendorgloomscreenjump
-bip_39_word_no_space_8: shortspotsiegevendorgloomscreenjumpstomach
-bip_39_word_no_space_9: shortspotsiegevendorgloomscreenjumpstomachstuff
-bip_39_word_space_0:
-- short
-- spot
-- siege
-- vendor
-- gloom
-- screen
-- jump
-- stomach
-- stuff
-- ignore
-- outer
-bip_39_word_space_1: short
-bip_39_word_space_10: short spot siege vendor gloom screen jump stomach stuff ignore
 bip_39_word_space_11: short spot siege vendor gloom screen jump stomach stuff ignore
   outer
 bip_39_word_space_2: short spot
 bip_39_word_space_3: short spot siege
-bip_39_word_space_4: short spot siege vendor
-bip_39_word_space_5: short spot siege vendor gloom
-bip_39_word_space_6: short spot siege vendor gloom screen
-bip_39_word_space_7: short spot siege vendor gloom screen jump
-bip_39_word_space_8: short spot siege vendor gloom screen jump stomach
-bip_39_word_space_9: short spot siege vendor gloom screen jump stomach stuff
-bip_39_word_underscore_1: short
-bip_39_word_underscore_10: short_spot_siege_vendor_gloom_screen_jump_stomach_stuff_ignore
 bip_39_word_underscore_11: short_spot_siege_vendor_gloom_screen_jump_stomach_stuff_ignore_outer
 bip_39_word_underscore_2: short_spot
 bip_39_word_underscore_3: short_spot_siege
-bip_39_word_underscore_4: short_spot_siege_vendor
-bip_39_word_underscore_5: short_spot_siege_vendor_gloom
-bip_39_word_underscore_6: short_spot_siege_vendor_gloom_screen
-bip_39_word_underscore_7: short_spot_siege_vendor_gloom_screen_jump
-bip_39_word_underscore_8: short_spot_siege_vendor_gloom_screen_jump_stomach
-bip_39_word_underscore_9: short_spot_siege_vendor_gloom_screen_jump_stomach_stuff
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

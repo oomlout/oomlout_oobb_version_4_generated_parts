@@ -1,68 +1,9 @@
-bip_39_word_dash_1: junior
-bip_39_word_dash_10: junior-waste-rapid-space-return-lift-suffer-sort-joy-pact
-bip_39_word_dash_11: junior-waste-rapid-space-return-lift-suffer-sort-joy-pact-garden
 bip_39_word_dash_12: junior-waste-rapid-space-return-lift-suffer-sort-joy-pact-garden-action
 bip_39_word_dash_2: junior-waste
 bip_39_word_dash_3: junior-waste-rapid
-bip_39_word_dash_4: junior-waste-rapid-space
-bip_39_word_dash_5: junior-waste-rapid-space-return
-bip_39_word_dash_6: junior-waste-rapid-space-return-lift
-bip_39_word_dash_7: junior-waste-rapid-space-return-lift-suffer
-bip_39_word_dash_8: junior-waste-rapid-space-return-lift-suffer-sort
-bip_39_word_dash_9: junior-waste-rapid-space-return-lift-suffer-sort-joy
-bip_39_word_new_br_1: junior
-bip_39_word_new_br_10: junior<br>waste<br>rapid<br>space<br>return<br>lift<br>suffer<br>sort<br>joy<br>pact
-bip_39_word_new_br_11: junior<br>waste<br>rapid<br>space<br>return<br>lift<br>suffer<br>sort<br>joy<br>pact<br>garden
 bip_39_word_new_br_12: junior<br>waste<br>rapid<br>space<br>return<br>lift<br>suffer<br>sort<br>joy<br>pact<br>garden<br>action
 bip_39_word_new_br_2: junior<br>waste
 bip_39_word_new_br_3: junior<br>waste<br>rapid
-bip_39_word_new_br_4: junior<br>waste<br>rapid<br>space
-bip_39_word_new_br_5: junior<br>waste<br>rapid<br>space<br>return
-bip_39_word_new_br_6: junior<br>waste<br>rapid<br>space<br>return<br>lift
-bip_39_word_new_br_7: junior<br>waste<br>rapid<br>space<br>return<br>lift<br>suffer
-bip_39_word_new_br_8: junior<br>waste<br>rapid<br>space<br>return<br>lift<br>suffer<br>sort
-bip_39_word_new_br_9: junior<br>waste<br>rapid<br>space<br>return<br>lift<br>suffer<br>sort<br>joy
-bip_39_word_new_line_1: junior
-bip_39_word_new_line_10: 'junior
-
-  waste
-
-  rapid
-
-  space
-
-  return
-
-  lift
-
-  suffer
-
-  sort
-
-  joy
-
-  pact'
-bip_39_word_new_line_11: 'junior
-
-  waste
-
-  rapid
-
-  space
-
-  return
-
-  lift
-
-  suffer
-
-  sort
-
-  joy
-
-  pact
-
-  garden'
 bip_39_word_new_line_12: 'junior
 
   waste
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'junior
   waste
 
   rapid'
-bip_39_word_new_line_4: 'junior
-
-  waste
-
-  rapid
-
-  space'
-bip_39_word_new_line_5: 'junior
-
-  waste
-
-  rapid
-
-  space
-
-  return'
-bip_39_word_new_line_6: 'junior
-
-  waste
-
-  rapid
-
-  space
-
-  return
-
-  lift'
-bip_39_word_new_line_7: 'junior
-
-  waste
-
-  rapid
-
-  space
-
-  return
-
-  lift
-
-  suffer'
-bip_39_word_new_line_8: 'junior
-
-  waste
-
-  rapid
-
-  space
-
-  return
-
-  lift
-
-  suffer
-
-  sort'
-bip_39_word_new_line_9: 'junior
-
-  waste
-
-  rapid
-
-  space
-
-  return
-
-  lift
-
-  suffer
-
-  sort
-
-  joy'
-bip_39_word_no_space_1: junior
-bip_39_word_no_space_10: juniorwasterapidspacereturnliftsuffersortjoypact
-bip_39_word_no_space_11: juniorwasterapidspacereturnliftsuffersortjoypactgarden
 bip_39_word_no_space_12: juniorwasterapidspacereturnliftsuffersortjoypactgardenaction
 bip_39_word_no_space_2: juniorwaste
 bip_39_word_no_space_3: juniorwasterapid
-bip_39_word_no_space_4: juniorwasterapidspace
-bip_39_word_no_space_5: juniorwasterapidspacereturn
-bip_39_word_no_space_6: juniorwasterapidspacereturnlift
-bip_39_word_no_space_7: juniorwasterapidspacereturnliftsuffer
-bip_39_word_no_space_8: juniorwasterapidspacereturnliftsuffersort
-bip_39_word_no_space_9: juniorwasterapidspacereturnliftsuffersortjoy
-bip_39_word_space_0:
-- junior
-- waste
-- rapid
-- space
-- return
-- lift
-- suffer
-- sort
-- joy
-- pact
-- garden
-- action
-bip_39_word_space_1: junior
-bip_39_word_space_10: junior waste rapid space return lift suffer sort joy pact
-bip_39_word_space_11: junior waste rapid space return lift suffer sort joy pact garden
 bip_39_word_space_12: junior waste rapid space return lift suffer sort joy pact garden
   action
 bip_39_word_space_2: junior waste
 bip_39_word_space_3: junior waste rapid
-bip_39_word_space_4: junior waste rapid space
-bip_39_word_space_5: junior waste rapid space return
-bip_39_word_space_6: junior waste rapid space return lift
-bip_39_word_space_7: junior waste rapid space return lift suffer
-bip_39_word_space_8: junior waste rapid space return lift suffer sort
-bip_39_word_space_9: junior waste rapid space return lift suffer sort joy
-bip_39_word_underscore_1: junior
-bip_39_word_underscore_10: junior_waste_rapid_space_return_lift_suffer_sort_joy_pact
-bip_39_word_underscore_11: junior_waste_rapid_space_return_lift_suffer_sort_joy_pact_garden
 bip_39_word_underscore_12: junior_waste_rapid_space_return_lift_suffer_sort_joy_pact_garden_action
 bip_39_word_underscore_2: junior_waste
 bip_39_word_underscore_3: junior_waste_rapid
-bip_39_word_underscore_4: junior_waste_rapid_space
-bip_39_word_underscore_5: junior_waste_rapid_space_return
-bip_39_word_underscore_6: junior_waste_rapid_space_return_lift
-bip_39_word_underscore_7: junior_waste_rapid_space_return_lift_suffer
-bip_39_word_underscore_8: junior_waste_rapid_space_return_lift_suffer_sort
-bip_39_word_underscore_9: junior_waste_rapid_space_return_lift_suffer_sort_joy
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

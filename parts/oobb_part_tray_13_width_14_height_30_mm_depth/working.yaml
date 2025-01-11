@@ -1,68 +1,9 @@
-bip_39_word_dash_1: paddle
-bip_39_word_dash_10: paddle-little-knee-door-buffalo-destroy-merry-churn-sing-siren
-bip_39_word_dash_11: paddle-little-knee-door-buffalo-destroy-merry-churn-sing-siren-mushroom
 bip_39_word_dash_12: paddle-little-knee-door-buffalo-destroy-merry-churn-sing-siren-mushroom-ancient
 bip_39_word_dash_2: paddle-little
 bip_39_word_dash_3: paddle-little-knee
-bip_39_word_dash_4: paddle-little-knee-door
-bip_39_word_dash_5: paddle-little-knee-door-buffalo
-bip_39_word_dash_6: paddle-little-knee-door-buffalo-destroy
-bip_39_word_dash_7: paddle-little-knee-door-buffalo-destroy-merry
-bip_39_word_dash_8: paddle-little-knee-door-buffalo-destroy-merry-churn
-bip_39_word_dash_9: paddle-little-knee-door-buffalo-destroy-merry-churn-sing
-bip_39_word_new_br_1: paddle
-bip_39_word_new_br_10: paddle<br>little<br>knee<br>door<br>buffalo<br>destroy<br>merry<br>churn<br>sing<br>siren
-bip_39_word_new_br_11: paddle<br>little<br>knee<br>door<br>buffalo<br>destroy<br>merry<br>churn<br>sing<br>siren<br>mushroom
 bip_39_word_new_br_12: paddle<br>little<br>knee<br>door<br>buffalo<br>destroy<br>merry<br>churn<br>sing<br>siren<br>mushroom<br>ancient
 bip_39_word_new_br_2: paddle<br>little
 bip_39_word_new_br_3: paddle<br>little<br>knee
-bip_39_word_new_br_4: paddle<br>little<br>knee<br>door
-bip_39_word_new_br_5: paddle<br>little<br>knee<br>door<br>buffalo
-bip_39_word_new_br_6: paddle<br>little<br>knee<br>door<br>buffalo<br>destroy
-bip_39_word_new_br_7: paddle<br>little<br>knee<br>door<br>buffalo<br>destroy<br>merry
-bip_39_word_new_br_8: paddle<br>little<br>knee<br>door<br>buffalo<br>destroy<br>merry<br>churn
-bip_39_word_new_br_9: paddle<br>little<br>knee<br>door<br>buffalo<br>destroy<br>merry<br>churn<br>sing
-bip_39_word_new_line_1: paddle
-bip_39_word_new_line_10: 'paddle
-
-  little
-
-  knee
-
-  door
-
-  buffalo
-
-  destroy
-
-  merry
-
-  churn
-
-  sing
-
-  siren'
-bip_39_word_new_line_11: 'paddle
-
-  little
-
-  knee
-
-  door
-
-  buffalo
-
-  destroy
-
-  merry
-
-  churn
-
-  sing
-
-  siren
-
-  mushroom'
 bip_39_word_new_line_12: 'paddle
 
   little
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'paddle
   little
 
   knee'
-bip_39_word_new_line_4: 'paddle
-
-  little
-
-  knee
-
-  door'
-bip_39_word_new_line_5: 'paddle
-
-  little
-
-  knee
-
-  door
-
-  buffalo'
-bip_39_word_new_line_6: 'paddle
-
-  little
-
-  knee
-
-  door
-
-  buffalo
-
-  destroy'
-bip_39_word_new_line_7: 'paddle
-
-  little
-
-  knee
-
-  door
-
-  buffalo
-
-  destroy
-
-  merry'
-bip_39_word_new_line_8: 'paddle
-
-  little
-
-  knee
-
-  door
-
-  buffalo
-
-  destroy
-
-  merry
-
-  churn'
-bip_39_word_new_line_9: 'paddle
-
-  little
-
-  knee
-
-  door
-
-  buffalo
-
-  destroy
-
-  merry
-
-  churn
-
-  sing'
-bip_39_word_no_space_1: paddle
-bip_39_word_no_space_10: paddlelittlekneedoorbuffalodestroymerrychurnsingsiren
-bip_39_word_no_space_11: paddlelittlekneedoorbuffalodestroymerrychurnsingsirenmushroom
 bip_39_word_no_space_12: paddlelittlekneedoorbuffalodestroymerrychurnsingsirenmushroomancient
 bip_39_word_no_space_2: paddlelittle
 bip_39_word_no_space_3: paddlelittleknee
-bip_39_word_no_space_4: paddlelittlekneedoor
-bip_39_word_no_space_5: paddlelittlekneedoorbuffalo
-bip_39_word_no_space_6: paddlelittlekneedoorbuffalodestroy
-bip_39_word_no_space_7: paddlelittlekneedoorbuffalodestroymerry
-bip_39_word_no_space_8: paddlelittlekneedoorbuffalodestroymerrychurn
-bip_39_word_no_space_9: paddlelittlekneedoorbuffalodestroymerrychurnsing
-bip_39_word_space_0:
-- paddle
-- little
-- knee
-- door
-- buffalo
-- destroy
-- merry
-- churn
-- sing
-- siren
-- mushroom
-- ancient
-bip_39_word_space_1: paddle
-bip_39_word_space_10: paddle little knee door buffalo destroy merry churn sing siren
-bip_39_word_space_11: paddle little knee door buffalo destroy merry churn sing siren
-  mushroom
 bip_39_word_space_12: paddle little knee door buffalo destroy merry churn sing siren
   mushroom ancient
 bip_39_word_space_2: paddle little
 bip_39_word_space_3: paddle little knee
-bip_39_word_space_4: paddle little knee door
-bip_39_word_space_5: paddle little knee door buffalo
-bip_39_word_space_6: paddle little knee door buffalo destroy
-bip_39_word_space_7: paddle little knee door buffalo destroy merry
-bip_39_word_space_8: paddle little knee door buffalo destroy merry churn
-bip_39_word_space_9: paddle little knee door buffalo destroy merry churn sing
-bip_39_word_underscore_1: paddle
-bip_39_word_underscore_10: paddle_little_knee_door_buffalo_destroy_merry_churn_sing_siren
-bip_39_word_underscore_11: paddle_little_knee_door_buffalo_destroy_merry_churn_sing_siren_mushroom
 bip_39_word_underscore_12: paddle_little_knee_door_buffalo_destroy_merry_churn_sing_siren_mushroom_ancient
 bip_39_word_underscore_2: paddle_little
 bip_39_word_underscore_3: paddle_little_knee
-bip_39_word_underscore_4: paddle_little_knee_door
-bip_39_word_underscore_5: paddle_little_knee_door_buffalo
-bip_39_word_underscore_6: paddle_little_knee_door_buffalo_destroy
-bip_39_word_underscore_7: paddle_little_knee_door_buffalo_destroy_merry
-bip_39_word_underscore_8: paddle_little_knee_door_buffalo_destroy_merry_churn
-bip_39_word_underscore_9: paddle_little_knee_door_buffalo_destroy_merry_churn_sing
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

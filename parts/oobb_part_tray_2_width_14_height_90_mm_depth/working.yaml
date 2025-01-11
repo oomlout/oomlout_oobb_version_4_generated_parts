@@ -1,68 +1,9 @@
-bip_39_word_dash_1: message
-bip_39_word_dash_10: message-blast-bamboo-lazy-rain-diesel-usual-segment-split-stable
-bip_39_word_dash_11: message-blast-bamboo-lazy-rain-diesel-usual-segment-split-stable-barely
 bip_39_word_dash_12: message-blast-bamboo-lazy-rain-diesel-usual-segment-split-stable-barely-author
 bip_39_word_dash_2: message-blast
 bip_39_word_dash_3: message-blast-bamboo
-bip_39_word_dash_4: message-blast-bamboo-lazy
-bip_39_word_dash_5: message-blast-bamboo-lazy-rain
-bip_39_word_dash_6: message-blast-bamboo-lazy-rain-diesel
-bip_39_word_dash_7: message-blast-bamboo-lazy-rain-diesel-usual
-bip_39_word_dash_8: message-blast-bamboo-lazy-rain-diesel-usual-segment
-bip_39_word_dash_9: message-blast-bamboo-lazy-rain-diesel-usual-segment-split
-bip_39_word_new_br_1: message
-bip_39_word_new_br_10: message<br>blast<br>bamboo<br>lazy<br>rain<br>diesel<br>usual<br>segment<br>split<br>stable
-bip_39_word_new_br_11: message<br>blast<br>bamboo<br>lazy<br>rain<br>diesel<br>usual<br>segment<br>split<br>stable<br>barely
 bip_39_word_new_br_12: message<br>blast<br>bamboo<br>lazy<br>rain<br>diesel<br>usual<br>segment<br>split<br>stable<br>barely<br>author
 bip_39_word_new_br_2: message<br>blast
 bip_39_word_new_br_3: message<br>blast<br>bamboo
-bip_39_word_new_br_4: message<br>blast<br>bamboo<br>lazy
-bip_39_word_new_br_5: message<br>blast<br>bamboo<br>lazy<br>rain
-bip_39_word_new_br_6: message<br>blast<br>bamboo<br>lazy<br>rain<br>diesel
-bip_39_word_new_br_7: message<br>blast<br>bamboo<br>lazy<br>rain<br>diesel<br>usual
-bip_39_word_new_br_8: message<br>blast<br>bamboo<br>lazy<br>rain<br>diesel<br>usual<br>segment
-bip_39_word_new_br_9: message<br>blast<br>bamboo<br>lazy<br>rain<br>diesel<br>usual<br>segment<br>split
-bip_39_word_new_line_1: message
-bip_39_word_new_line_10: 'message
-
-  blast
-
-  bamboo
-
-  lazy
-
-  rain
-
-  diesel
-
-  usual
-
-  segment
-
-  split
-
-  stable'
-bip_39_word_new_line_11: 'message
-
-  blast
-
-  bamboo
-
-  lazy
-
-  rain
-
-  diesel
-
-  usual
-
-  segment
-
-  split
-
-  stable
-
-  barely'
 bip_39_word_new_line_12: 'message
 
   blast
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'message
   blast
 
   bamboo'
-bip_39_word_new_line_4: 'message
-
-  blast
-
-  bamboo
-
-  lazy'
-bip_39_word_new_line_5: 'message
-
-  blast
-
-  bamboo
-
-  lazy
-
-  rain'
-bip_39_word_new_line_6: 'message
-
-  blast
-
-  bamboo
-
-  lazy
-
-  rain
-
-  diesel'
-bip_39_word_new_line_7: 'message
-
-  blast
-
-  bamboo
-
-  lazy
-
-  rain
-
-  diesel
-
-  usual'
-bip_39_word_new_line_8: 'message
-
-  blast
-
-  bamboo
-
-  lazy
-
-  rain
-
-  diesel
-
-  usual
-
-  segment'
-bip_39_word_new_line_9: 'message
-
-  blast
-
-  bamboo
-
-  lazy
-
-  rain
-
-  diesel
-
-  usual
-
-  segment
-
-  split'
-bip_39_word_no_space_1: message
-bip_39_word_no_space_10: messageblastbamboolazyraindieselusualsegmentsplitstable
-bip_39_word_no_space_11: messageblastbamboolazyraindieselusualsegmentsplitstablebarely
 bip_39_word_no_space_12: messageblastbamboolazyraindieselusualsegmentsplitstablebarelyauthor
 bip_39_word_no_space_2: messageblast
 bip_39_word_no_space_3: messageblastbamboo
-bip_39_word_no_space_4: messageblastbamboolazy
-bip_39_word_no_space_5: messageblastbamboolazyrain
-bip_39_word_no_space_6: messageblastbamboolazyraindiesel
-bip_39_word_no_space_7: messageblastbamboolazyraindieselusual
-bip_39_word_no_space_8: messageblastbamboolazyraindieselusualsegment
-bip_39_word_no_space_9: messageblastbamboolazyraindieselusualsegmentsplit
-bip_39_word_space_0:
-- message
-- blast
-- bamboo
-- lazy
-- rain
-- diesel
-- usual
-- segment
-- split
-- stable
-- barely
-- author
-bip_39_word_space_1: message
-bip_39_word_space_10: message blast bamboo lazy rain diesel usual segment split stable
-bip_39_word_space_11: message blast bamboo lazy rain diesel usual segment split stable
-  barely
 bip_39_word_space_12: message blast bamboo lazy rain diesel usual segment split stable
   barely author
 bip_39_word_space_2: message blast
 bip_39_word_space_3: message blast bamboo
-bip_39_word_space_4: message blast bamboo lazy
-bip_39_word_space_5: message blast bamboo lazy rain
-bip_39_word_space_6: message blast bamboo lazy rain diesel
-bip_39_word_space_7: message blast bamboo lazy rain diesel usual
-bip_39_word_space_8: message blast bamboo lazy rain diesel usual segment
-bip_39_word_space_9: message blast bamboo lazy rain diesel usual segment split
-bip_39_word_underscore_1: message
-bip_39_word_underscore_10: message_blast_bamboo_lazy_rain_diesel_usual_segment_split_stable
-bip_39_word_underscore_11: message_blast_bamboo_lazy_rain_diesel_usual_segment_split_stable_barely
 bip_39_word_underscore_12: message_blast_bamboo_lazy_rain_diesel_usual_segment_split_stable_barely_author
 bip_39_word_underscore_2: message_blast
 bip_39_word_underscore_3: message_blast_bamboo
-bip_39_word_underscore_4: message_blast_bamboo_lazy
-bip_39_word_underscore_5: message_blast_bamboo_lazy_rain
-bip_39_word_underscore_6: message_blast_bamboo_lazy_rain_diesel
-bip_39_word_underscore_7: message_blast_bamboo_lazy_rain_diesel_usual
-bip_39_word_underscore_8: message_blast_bamboo_lazy_rain_diesel_usual_segment
-bip_39_word_underscore_9: message_blast_bamboo_lazy_rain_diesel_usual_segment_split
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

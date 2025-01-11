@@ -1,68 +1,9 @@
-bip_39_word_dash_1: today
-bip_39_word_dash_10: today-reject-loyal-crater-raven-enrich-issue-process-rail-term
-bip_39_word_dash_11: today-reject-loyal-crater-raven-enrich-issue-process-rail-term-grain
 bip_39_word_dash_12: today-reject-loyal-crater-raven-enrich-issue-process-rail-term-grain-assume
 bip_39_word_dash_2: today-reject
 bip_39_word_dash_3: today-reject-loyal
-bip_39_word_dash_4: today-reject-loyal-crater
-bip_39_word_dash_5: today-reject-loyal-crater-raven
-bip_39_word_dash_6: today-reject-loyal-crater-raven-enrich
-bip_39_word_dash_7: today-reject-loyal-crater-raven-enrich-issue
-bip_39_word_dash_8: today-reject-loyal-crater-raven-enrich-issue-process
-bip_39_word_dash_9: today-reject-loyal-crater-raven-enrich-issue-process-rail
-bip_39_word_new_br_1: today
-bip_39_word_new_br_10: today<br>reject<br>loyal<br>crater<br>raven<br>enrich<br>issue<br>process<br>rail<br>term
-bip_39_word_new_br_11: today<br>reject<br>loyal<br>crater<br>raven<br>enrich<br>issue<br>process<br>rail<br>term<br>grain
 bip_39_word_new_br_12: today<br>reject<br>loyal<br>crater<br>raven<br>enrich<br>issue<br>process<br>rail<br>term<br>grain<br>assume
 bip_39_word_new_br_2: today<br>reject
 bip_39_word_new_br_3: today<br>reject<br>loyal
-bip_39_word_new_br_4: today<br>reject<br>loyal<br>crater
-bip_39_word_new_br_5: today<br>reject<br>loyal<br>crater<br>raven
-bip_39_word_new_br_6: today<br>reject<br>loyal<br>crater<br>raven<br>enrich
-bip_39_word_new_br_7: today<br>reject<br>loyal<br>crater<br>raven<br>enrich<br>issue
-bip_39_word_new_br_8: today<br>reject<br>loyal<br>crater<br>raven<br>enrich<br>issue<br>process
-bip_39_word_new_br_9: today<br>reject<br>loyal<br>crater<br>raven<br>enrich<br>issue<br>process<br>rail
-bip_39_word_new_line_1: today
-bip_39_word_new_line_10: 'today
-
-  reject
-
-  loyal
-
-  crater
-
-  raven
-
-  enrich
-
-  issue
-
-  process
-
-  rail
-
-  term'
-bip_39_word_new_line_11: 'today
-
-  reject
-
-  loyal
-
-  crater
-
-  raven
-
-  enrich
-
-  issue
-
-  process
-
-  rail
-
-  term
-
-  grain'
 bip_39_word_new_line_12: 'today
 
   reject
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'today
   reject
 
   loyal'
-bip_39_word_new_line_4: 'today
-
-  reject
-
-  loyal
-
-  crater'
-bip_39_word_new_line_5: 'today
-
-  reject
-
-  loyal
-
-  crater
-
-  raven'
-bip_39_word_new_line_6: 'today
-
-  reject
-
-  loyal
-
-  crater
-
-  raven
-
-  enrich'
-bip_39_word_new_line_7: 'today
-
-  reject
-
-  loyal
-
-  crater
-
-  raven
-
-  enrich
-
-  issue'
-bip_39_word_new_line_8: 'today
-
-  reject
-
-  loyal
-
-  crater
-
-  raven
-
-  enrich
-
-  issue
-
-  process'
-bip_39_word_new_line_9: 'today
-
-  reject
-
-  loyal
-
-  crater
-
-  raven
-
-  enrich
-
-  issue
-
-  process
-
-  rail'
-bip_39_word_no_space_1: today
-bip_39_word_no_space_10: todayrejectloyalcraterravenenrichissueprocessrailterm
-bip_39_word_no_space_11: todayrejectloyalcraterravenenrichissueprocessrailtermgrain
 bip_39_word_no_space_12: todayrejectloyalcraterravenenrichissueprocessrailtermgrainassume
 bip_39_word_no_space_2: todayreject
 bip_39_word_no_space_3: todayrejectloyal
-bip_39_word_no_space_4: todayrejectloyalcrater
-bip_39_word_no_space_5: todayrejectloyalcraterraven
-bip_39_word_no_space_6: todayrejectloyalcraterravenenrich
-bip_39_word_no_space_7: todayrejectloyalcraterravenenrichissue
-bip_39_word_no_space_8: todayrejectloyalcraterravenenrichissueprocess
-bip_39_word_no_space_9: todayrejectloyalcraterravenenrichissueprocessrail
-bip_39_word_space_0:
-- today
-- reject
-- loyal
-- crater
-- raven
-- enrich
-- issue
-- process
-- rail
-- term
-- grain
-- assume
-bip_39_word_space_1: today
-bip_39_word_space_10: today reject loyal crater raven enrich issue process rail term
-bip_39_word_space_11: today reject loyal crater raven enrich issue process rail term
-  grain
 bip_39_word_space_12: today reject loyal crater raven enrich issue process rail term
   grain assume
 bip_39_word_space_2: today reject
 bip_39_word_space_3: today reject loyal
-bip_39_word_space_4: today reject loyal crater
-bip_39_word_space_5: today reject loyal crater raven
-bip_39_word_space_6: today reject loyal crater raven enrich
-bip_39_word_space_7: today reject loyal crater raven enrich issue
-bip_39_word_space_8: today reject loyal crater raven enrich issue process
-bip_39_word_space_9: today reject loyal crater raven enrich issue process rail
-bip_39_word_underscore_1: today
-bip_39_word_underscore_10: today_reject_loyal_crater_raven_enrich_issue_process_rail_term
-bip_39_word_underscore_11: today_reject_loyal_crater_raven_enrich_issue_process_rail_term_grain
 bip_39_word_underscore_12: today_reject_loyal_crater_raven_enrich_issue_process_rail_term_grain_assume
 bip_39_word_underscore_2: today_reject
 bip_39_word_underscore_3: today_reject_loyal
-bip_39_word_underscore_4: today_reject_loyal_crater
-bip_39_word_underscore_5: today_reject_loyal_crater_raven
-bip_39_word_underscore_6: today_reject_loyal_crater_raven_enrich
-bip_39_word_underscore_7: today_reject_loyal_crater_raven_enrich_issue
-bip_39_word_underscore_8: today_reject_loyal_crater_raven_enrich_issue_process
-bip_39_word_underscore_9: today_reject_loyal_crater_raven_enrich_issue_process_rail
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

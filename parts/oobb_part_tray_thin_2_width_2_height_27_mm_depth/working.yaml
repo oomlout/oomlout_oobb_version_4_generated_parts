@@ -1,68 +1,9 @@
-bip_39_word_dash_1: spare
-bip_39_word_dash_10: spare-good-penalty-essence-praise-flavor-balance-body-leopard-grit
-bip_39_word_dash_11: spare-good-penalty-essence-praise-flavor-balance-body-leopard-grit-dish
 bip_39_word_dash_12: spare-good-penalty-essence-praise-flavor-balance-body-leopard-grit-dish-address
 bip_39_word_dash_2: spare-good
 bip_39_word_dash_3: spare-good-penalty
-bip_39_word_dash_4: spare-good-penalty-essence
-bip_39_word_dash_5: spare-good-penalty-essence-praise
-bip_39_word_dash_6: spare-good-penalty-essence-praise-flavor
-bip_39_word_dash_7: spare-good-penalty-essence-praise-flavor-balance
-bip_39_word_dash_8: spare-good-penalty-essence-praise-flavor-balance-body
-bip_39_word_dash_9: spare-good-penalty-essence-praise-flavor-balance-body-leopard
-bip_39_word_new_br_1: spare
-bip_39_word_new_br_10: spare<br>good<br>penalty<br>essence<br>praise<br>flavor<br>balance<br>body<br>leopard<br>grit
-bip_39_word_new_br_11: spare<br>good<br>penalty<br>essence<br>praise<br>flavor<br>balance<br>body<br>leopard<br>grit<br>dish
 bip_39_word_new_br_12: spare<br>good<br>penalty<br>essence<br>praise<br>flavor<br>balance<br>body<br>leopard<br>grit<br>dish<br>address
 bip_39_word_new_br_2: spare<br>good
 bip_39_word_new_br_3: spare<br>good<br>penalty
-bip_39_word_new_br_4: spare<br>good<br>penalty<br>essence
-bip_39_word_new_br_5: spare<br>good<br>penalty<br>essence<br>praise
-bip_39_word_new_br_6: spare<br>good<br>penalty<br>essence<br>praise<br>flavor
-bip_39_word_new_br_7: spare<br>good<br>penalty<br>essence<br>praise<br>flavor<br>balance
-bip_39_word_new_br_8: spare<br>good<br>penalty<br>essence<br>praise<br>flavor<br>balance<br>body
-bip_39_word_new_br_9: spare<br>good<br>penalty<br>essence<br>praise<br>flavor<br>balance<br>body<br>leopard
-bip_39_word_new_line_1: spare
-bip_39_word_new_line_10: 'spare
-
-  good
-
-  penalty
-
-  essence
-
-  praise
-
-  flavor
-
-  balance
-
-  body
-
-  leopard
-
-  grit'
-bip_39_word_new_line_11: 'spare
-
-  good
-
-  penalty
-
-  essence
-
-  praise
-
-  flavor
-
-  balance
-
-  body
-
-  leopard
-
-  grit
-
-  dish'
 bip_39_word_new_line_12: 'spare
 
   good
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'spare
   good
 
   penalty'
-bip_39_word_new_line_4: 'spare
-
-  good
-
-  penalty
-
-  essence'
-bip_39_word_new_line_5: 'spare
-
-  good
-
-  penalty
-
-  essence
-
-  praise'
-bip_39_word_new_line_6: 'spare
-
-  good
-
-  penalty
-
-  essence
-
-  praise
-
-  flavor'
-bip_39_word_new_line_7: 'spare
-
-  good
-
-  penalty
-
-  essence
-
-  praise
-
-  flavor
-
-  balance'
-bip_39_word_new_line_8: 'spare
-
-  good
-
-  penalty
-
-  essence
-
-  praise
-
-  flavor
-
-  balance
-
-  body'
-bip_39_word_new_line_9: 'spare
-
-  good
-
-  penalty
-
-  essence
-
-  praise
-
-  flavor
-
-  balance
-
-  body
-
-  leopard'
-bip_39_word_no_space_1: spare
-bip_39_word_no_space_10: sparegoodpenaltyessencepraiseflavorbalancebodyleopardgrit
-bip_39_word_no_space_11: sparegoodpenaltyessencepraiseflavorbalancebodyleopardgritdish
 bip_39_word_no_space_12: sparegoodpenaltyessencepraiseflavorbalancebodyleopardgritdishaddress
 bip_39_word_no_space_2: sparegood
 bip_39_word_no_space_3: sparegoodpenalty
-bip_39_word_no_space_4: sparegoodpenaltyessence
-bip_39_word_no_space_5: sparegoodpenaltyessencepraise
-bip_39_word_no_space_6: sparegoodpenaltyessencepraiseflavor
-bip_39_word_no_space_7: sparegoodpenaltyessencepraiseflavorbalance
-bip_39_word_no_space_8: sparegoodpenaltyessencepraiseflavorbalancebody
-bip_39_word_no_space_9: sparegoodpenaltyessencepraiseflavorbalancebodyleopard
-bip_39_word_space_0:
-- spare
-- good
-- penalty
-- essence
-- praise
-- flavor
-- balance
-- body
-- leopard
-- grit
-- dish
-- address
-bip_39_word_space_1: spare
-bip_39_word_space_10: spare good penalty essence praise flavor balance body leopard
-  grit
-bip_39_word_space_11: spare good penalty essence praise flavor balance body leopard
-  grit dish
 bip_39_word_space_12: spare good penalty essence praise flavor balance body leopard
   grit dish address
 bip_39_word_space_2: spare good
 bip_39_word_space_3: spare good penalty
-bip_39_word_space_4: spare good penalty essence
-bip_39_word_space_5: spare good penalty essence praise
-bip_39_word_space_6: spare good penalty essence praise flavor
-bip_39_word_space_7: spare good penalty essence praise flavor balance
-bip_39_word_space_8: spare good penalty essence praise flavor balance body
-bip_39_word_space_9: spare good penalty essence praise flavor balance body leopard
-bip_39_word_underscore_1: spare
-bip_39_word_underscore_10: spare_good_penalty_essence_praise_flavor_balance_body_leopard_grit
-bip_39_word_underscore_11: spare_good_penalty_essence_praise_flavor_balance_body_leopard_grit_dish
 bip_39_word_underscore_12: spare_good_penalty_essence_praise_flavor_balance_body_leopard_grit_dish_address
 bip_39_word_underscore_2: spare_good
 bip_39_word_underscore_3: spare_good_penalty
-bip_39_word_underscore_4: spare_good_penalty_essence
-bip_39_word_underscore_5: spare_good_penalty_essence_praise
-bip_39_word_underscore_6: spare_good_penalty_essence_praise_flavor
-bip_39_word_underscore_7: spare_good_penalty_essence_praise_flavor_balance
-bip_39_word_underscore_8: spare_good_penalty_essence_praise_flavor_balance_body
-bip_39_word_underscore_9: spare_good_penalty_essence_praise_flavor_balance_body_leopard
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

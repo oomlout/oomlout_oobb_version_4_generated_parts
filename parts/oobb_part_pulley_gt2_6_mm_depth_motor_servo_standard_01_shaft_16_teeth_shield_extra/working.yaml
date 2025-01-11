@@ -1,68 +1,9 @@
-bip_39_word_dash_1: dignity
-bip_39_word_dash_10: dignity-grocery-clay-bacon-monkey-gloom-bar-corn-empty-fame
-bip_39_word_dash_11: dignity-grocery-clay-bacon-monkey-gloom-bar-corn-empty-fame-frozen
 bip_39_word_dash_12: dignity-grocery-clay-bacon-monkey-gloom-bar-corn-empty-fame-frozen-again
 bip_39_word_dash_2: dignity-grocery
 bip_39_word_dash_3: dignity-grocery-clay
-bip_39_word_dash_4: dignity-grocery-clay-bacon
-bip_39_word_dash_5: dignity-grocery-clay-bacon-monkey
-bip_39_word_dash_6: dignity-grocery-clay-bacon-monkey-gloom
-bip_39_word_dash_7: dignity-grocery-clay-bacon-monkey-gloom-bar
-bip_39_word_dash_8: dignity-grocery-clay-bacon-monkey-gloom-bar-corn
-bip_39_word_dash_9: dignity-grocery-clay-bacon-monkey-gloom-bar-corn-empty
-bip_39_word_new_br_1: dignity
-bip_39_word_new_br_10: dignity<br>grocery<br>clay<br>bacon<br>monkey<br>gloom<br>bar<br>corn<br>empty<br>fame
-bip_39_word_new_br_11: dignity<br>grocery<br>clay<br>bacon<br>monkey<br>gloom<br>bar<br>corn<br>empty<br>fame<br>frozen
 bip_39_word_new_br_12: dignity<br>grocery<br>clay<br>bacon<br>monkey<br>gloom<br>bar<br>corn<br>empty<br>fame<br>frozen<br>again
 bip_39_word_new_br_2: dignity<br>grocery
 bip_39_word_new_br_3: dignity<br>grocery<br>clay
-bip_39_word_new_br_4: dignity<br>grocery<br>clay<br>bacon
-bip_39_word_new_br_5: dignity<br>grocery<br>clay<br>bacon<br>monkey
-bip_39_word_new_br_6: dignity<br>grocery<br>clay<br>bacon<br>monkey<br>gloom
-bip_39_word_new_br_7: dignity<br>grocery<br>clay<br>bacon<br>monkey<br>gloom<br>bar
-bip_39_word_new_br_8: dignity<br>grocery<br>clay<br>bacon<br>monkey<br>gloom<br>bar<br>corn
-bip_39_word_new_br_9: dignity<br>grocery<br>clay<br>bacon<br>monkey<br>gloom<br>bar<br>corn<br>empty
-bip_39_word_new_line_1: dignity
-bip_39_word_new_line_10: 'dignity
-
-  grocery
-
-  clay
-
-  bacon
-
-  monkey
-
-  gloom
-
-  bar
-
-  corn
-
-  empty
-
-  fame'
-bip_39_word_new_line_11: 'dignity
-
-  grocery
-
-  clay
-
-  bacon
-
-  monkey
-
-  gloom
-
-  bar
-
-  corn
-
-  empty
-
-  fame
-
-  frozen'
 bip_39_word_new_line_12: 'dignity
 
   grocery
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'dignity
   grocery
 
   clay'
-bip_39_word_new_line_4: 'dignity
-
-  grocery
-
-  clay
-
-  bacon'
-bip_39_word_new_line_5: 'dignity
-
-  grocery
-
-  clay
-
-  bacon
-
-  monkey'
-bip_39_word_new_line_6: 'dignity
-
-  grocery
-
-  clay
-
-  bacon
-
-  monkey
-
-  gloom'
-bip_39_word_new_line_7: 'dignity
-
-  grocery
-
-  clay
-
-  bacon
-
-  monkey
-
-  gloom
-
-  bar'
-bip_39_word_new_line_8: 'dignity
-
-  grocery
-
-  clay
-
-  bacon
-
-  monkey
-
-  gloom
-
-  bar
-
-  corn'
-bip_39_word_new_line_9: 'dignity
-
-  grocery
-
-  clay
-
-  bacon
-
-  monkey
-
-  gloom
-
-  bar
-
-  corn
-
-  empty'
-bip_39_word_no_space_1: dignity
-bip_39_word_no_space_10: dignitygroceryclaybaconmonkeygloombarcornemptyfame
-bip_39_word_no_space_11: dignitygroceryclaybaconmonkeygloombarcornemptyfamefrozen
 bip_39_word_no_space_12: dignitygroceryclaybaconmonkeygloombarcornemptyfamefrozenagain
 bip_39_word_no_space_2: dignitygrocery
 bip_39_word_no_space_3: dignitygroceryclay
-bip_39_word_no_space_4: dignitygroceryclaybacon
-bip_39_word_no_space_5: dignitygroceryclaybaconmonkey
-bip_39_word_no_space_6: dignitygroceryclaybaconmonkeygloom
-bip_39_word_no_space_7: dignitygroceryclaybaconmonkeygloombar
-bip_39_word_no_space_8: dignitygroceryclaybaconmonkeygloombarcorn
-bip_39_word_no_space_9: dignitygroceryclaybaconmonkeygloombarcornempty
-bip_39_word_space_0:
-- dignity
-- grocery
-- clay
-- bacon
-- monkey
-- gloom
-- bar
-- corn
-- empty
-- fame
-- frozen
-- again
-bip_39_word_space_1: dignity
-bip_39_word_space_10: dignity grocery clay bacon monkey gloom bar corn empty fame
-bip_39_word_space_11: dignity grocery clay bacon monkey gloom bar corn empty fame
-  frozen
 bip_39_word_space_12: dignity grocery clay bacon monkey gloom bar corn empty fame
   frozen again
 bip_39_word_space_2: dignity grocery
 bip_39_word_space_3: dignity grocery clay
-bip_39_word_space_4: dignity grocery clay bacon
-bip_39_word_space_5: dignity grocery clay bacon monkey
-bip_39_word_space_6: dignity grocery clay bacon monkey gloom
-bip_39_word_space_7: dignity grocery clay bacon monkey gloom bar
-bip_39_word_space_8: dignity grocery clay bacon monkey gloom bar corn
-bip_39_word_space_9: dignity grocery clay bacon monkey gloom bar corn empty
-bip_39_word_underscore_1: dignity
-bip_39_word_underscore_10: dignity_grocery_clay_bacon_monkey_gloom_bar_corn_empty_fame
-bip_39_word_underscore_11: dignity_grocery_clay_bacon_monkey_gloom_bar_corn_empty_fame_frozen
 bip_39_word_underscore_12: dignity_grocery_clay_bacon_monkey_gloom_bar_corn_empty_fame_frozen_again
 bip_39_word_underscore_2: dignity_grocery
 bip_39_word_underscore_3: dignity_grocery_clay
-bip_39_word_underscore_4: dignity_grocery_clay_bacon
-bip_39_word_underscore_5: dignity_grocery_clay_bacon_monkey
-bip_39_word_underscore_6: dignity_grocery_clay_bacon_monkey_gloom
-bip_39_word_underscore_7: dignity_grocery_clay_bacon_monkey_gloom_bar
-bip_39_word_underscore_8: dignity_grocery_clay_bacon_monkey_gloom_bar_corn
-bip_39_word_underscore_9: dignity_grocery_clay_bacon_monkey_gloom_bar_corn_empty
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

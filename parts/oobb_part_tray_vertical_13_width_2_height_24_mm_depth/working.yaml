@@ -1,68 +1,9 @@
-bip_39_word_dash_1: reject
-bip_39_word_dash_10: reject-grape-fabric-panic-garment-sunset-love-color-diary-found
-bip_39_word_dash_11: reject-grape-fabric-panic-garment-sunset-love-color-diary-found-network
 bip_39_word_dash_12: reject-grape-fabric-panic-garment-sunset-love-color-diary-found-network-author
 bip_39_word_dash_2: reject-grape
 bip_39_word_dash_3: reject-grape-fabric
-bip_39_word_dash_4: reject-grape-fabric-panic
-bip_39_word_dash_5: reject-grape-fabric-panic-garment
-bip_39_word_dash_6: reject-grape-fabric-panic-garment-sunset
-bip_39_word_dash_7: reject-grape-fabric-panic-garment-sunset-love
-bip_39_word_dash_8: reject-grape-fabric-panic-garment-sunset-love-color
-bip_39_word_dash_9: reject-grape-fabric-panic-garment-sunset-love-color-diary
-bip_39_word_new_br_1: reject
-bip_39_word_new_br_10: reject<br>grape<br>fabric<br>panic<br>garment<br>sunset<br>love<br>color<br>diary<br>found
-bip_39_word_new_br_11: reject<br>grape<br>fabric<br>panic<br>garment<br>sunset<br>love<br>color<br>diary<br>found<br>network
 bip_39_word_new_br_12: reject<br>grape<br>fabric<br>panic<br>garment<br>sunset<br>love<br>color<br>diary<br>found<br>network<br>author
 bip_39_word_new_br_2: reject<br>grape
 bip_39_word_new_br_3: reject<br>grape<br>fabric
-bip_39_word_new_br_4: reject<br>grape<br>fabric<br>panic
-bip_39_word_new_br_5: reject<br>grape<br>fabric<br>panic<br>garment
-bip_39_word_new_br_6: reject<br>grape<br>fabric<br>panic<br>garment<br>sunset
-bip_39_word_new_br_7: reject<br>grape<br>fabric<br>panic<br>garment<br>sunset<br>love
-bip_39_word_new_br_8: reject<br>grape<br>fabric<br>panic<br>garment<br>sunset<br>love<br>color
-bip_39_word_new_br_9: reject<br>grape<br>fabric<br>panic<br>garment<br>sunset<br>love<br>color<br>diary
-bip_39_word_new_line_1: reject
-bip_39_word_new_line_10: 'reject
-
-  grape
-
-  fabric
-
-  panic
-
-  garment
-
-  sunset
-
-  love
-
-  color
-
-  diary
-
-  found'
-bip_39_word_new_line_11: 'reject
-
-  grape
-
-  fabric
-
-  panic
-
-  garment
-
-  sunset
-
-  love
-
-  color
-
-  diary
-
-  found
-
-  network'
 bip_39_word_new_line_12: 'reject
 
   grape
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'reject
   grape
 
   fabric'
-bip_39_word_new_line_4: 'reject
-
-  grape
-
-  fabric
-
-  panic'
-bip_39_word_new_line_5: 'reject
-
-  grape
-
-  fabric
-
-  panic
-
-  garment'
-bip_39_word_new_line_6: 'reject
-
-  grape
-
-  fabric
-
-  panic
-
-  garment
-
-  sunset'
-bip_39_word_new_line_7: 'reject
-
-  grape
-
-  fabric
-
-  panic
-
-  garment
-
-  sunset
-
-  love'
-bip_39_word_new_line_8: 'reject
-
-  grape
-
-  fabric
-
-  panic
-
-  garment
-
-  sunset
-
-  love
-
-  color'
-bip_39_word_new_line_9: 'reject
-
-  grape
-
-  fabric
-
-  panic
-
-  garment
-
-  sunset
-
-  love
-
-  color
-
-  diary'
-bip_39_word_no_space_1: reject
-bip_39_word_no_space_10: rejectgrapefabricpanicgarmentsunsetlovecolordiaryfound
-bip_39_word_no_space_11: rejectgrapefabricpanicgarmentsunsetlovecolordiaryfoundnetwork
 bip_39_word_no_space_12: rejectgrapefabricpanicgarmentsunsetlovecolordiaryfoundnetworkauthor
 bip_39_word_no_space_2: rejectgrape
 bip_39_word_no_space_3: rejectgrapefabric
-bip_39_word_no_space_4: rejectgrapefabricpanic
-bip_39_word_no_space_5: rejectgrapefabricpanicgarment
-bip_39_word_no_space_6: rejectgrapefabricpanicgarmentsunset
-bip_39_word_no_space_7: rejectgrapefabricpanicgarmentsunsetlove
-bip_39_word_no_space_8: rejectgrapefabricpanicgarmentsunsetlovecolor
-bip_39_word_no_space_9: rejectgrapefabricpanicgarmentsunsetlovecolordiary
-bip_39_word_space_0:
-- reject
-- grape
-- fabric
-- panic
-- garment
-- sunset
-- love
-- color
-- diary
-- found
-- network
-- author
-bip_39_word_space_1: reject
-bip_39_word_space_10: reject grape fabric panic garment sunset love color diary found
-bip_39_word_space_11: reject grape fabric panic garment sunset love color diary found
-  network
 bip_39_word_space_12: reject grape fabric panic garment sunset love color diary found
   network author
 bip_39_word_space_2: reject grape
 bip_39_word_space_3: reject grape fabric
-bip_39_word_space_4: reject grape fabric panic
-bip_39_word_space_5: reject grape fabric panic garment
-bip_39_word_space_6: reject grape fabric panic garment sunset
-bip_39_word_space_7: reject grape fabric panic garment sunset love
-bip_39_word_space_8: reject grape fabric panic garment sunset love color
-bip_39_word_space_9: reject grape fabric panic garment sunset love color diary
-bip_39_word_underscore_1: reject
-bip_39_word_underscore_10: reject_grape_fabric_panic_garment_sunset_love_color_diary_found
-bip_39_word_underscore_11: reject_grape_fabric_panic_garment_sunset_love_color_diary_found_network
 bip_39_word_underscore_12: reject_grape_fabric_panic_garment_sunset_love_color_diary_found_network_author
 bip_39_word_underscore_2: reject_grape
 bip_39_word_underscore_3: reject_grape_fabric
-bip_39_word_underscore_4: reject_grape_fabric_panic
-bip_39_word_underscore_5: reject_grape_fabric_panic_garment
-bip_39_word_underscore_6: reject_grape_fabric_panic_garment_sunset
-bip_39_word_underscore_7: reject_grape_fabric_panic_garment_sunset_love
-bip_39_word_underscore_8: reject_grape_fabric_panic_garment_sunset_love_color
-bip_39_word_underscore_9: reject_grape_fabric_panic_garment_sunset_love_color_diary
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

@@ -1,69 +1,10 @@
 bearing: '6704'
-bip_39_word_dash_1: spring
-bip_39_word_dash_10: spring-junk-frequent-snap-rain-oppose-tomorrow-asthma-finish-hand
-bip_39_word_dash_11: spring-junk-frequent-snap-rain-oppose-tomorrow-asthma-finish-hand-juice
 bip_39_word_dash_12: spring-junk-frequent-snap-rain-oppose-tomorrow-asthma-finish-hand-juice-amount
 bip_39_word_dash_2: spring-junk
 bip_39_word_dash_3: spring-junk-frequent
-bip_39_word_dash_4: spring-junk-frequent-snap
-bip_39_word_dash_5: spring-junk-frequent-snap-rain
-bip_39_word_dash_6: spring-junk-frequent-snap-rain-oppose
-bip_39_word_dash_7: spring-junk-frequent-snap-rain-oppose-tomorrow
-bip_39_word_dash_8: spring-junk-frequent-snap-rain-oppose-tomorrow-asthma
-bip_39_word_dash_9: spring-junk-frequent-snap-rain-oppose-tomorrow-asthma-finish
-bip_39_word_new_br_1: spring
-bip_39_word_new_br_10: spring<br>junk<br>frequent<br>snap<br>rain<br>oppose<br>tomorrow<br>asthma<br>finish<br>hand
-bip_39_word_new_br_11: spring<br>junk<br>frequent<br>snap<br>rain<br>oppose<br>tomorrow<br>asthma<br>finish<br>hand<br>juice
 bip_39_word_new_br_12: spring<br>junk<br>frequent<br>snap<br>rain<br>oppose<br>tomorrow<br>asthma<br>finish<br>hand<br>juice<br>amount
 bip_39_word_new_br_2: spring<br>junk
 bip_39_word_new_br_3: spring<br>junk<br>frequent
-bip_39_word_new_br_4: spring<br>junk<br>frequent<br>snap
-bip_39_word_new_br_5: spring<br>junk<br>frequent<br>snap<br>rain
-bip_39_word_new_br_6: spring<br>junk<br>frequent<br>snap<br>rain<br>oppose
-bip_39_word_new_br_7: spring<br>junk<br>frequent<br>snap<br>rain<br>oppose<br>tomorrow
-bip_39_word_new_br_8: spring<br>junk<br>frequent<br>snap<br>rain<br>oppose<br>tomorrow<br>asthma
-bip_39_word_new_br_9: spring<br>junk<br>frequent<br>snap<br>rain<br>oppose<br>tomorrow<br>asthma<br>finish
-bip_39_word_new_line_1: spring
-bip_39_word_new_line_10: 'spring
-
-  junk
-
-  frequent
-
-  snap
-
-  rain
-
-  oppose
-
-  tomorrow
-
-  asthma
-
-  finish
-
-  hand'
-bip_39_word_new_line_11: 'spring
-
-  junk
-
-  frequent
-
-  snap
-
-  rain
-
-  oppose
-
-  tomorrow
-
-  asthma
-
-  finish
-
-  hand
-
-  juice'
 bip_39_word_new_line_12: 'spring
 
   junk
@@ -95,130 +36,16 @@ bip_39_word_new_line_3: 'spring
   junk
 
   frequent'
-bip_39_word_new_line_4: 'spring
-
-  junk
-
-  frequent
-
-  snap'
-bip_39_word_new_line_5: 'spring
-
-  junk
-
-  frequent
-
-  snap
-
-  rain'
-bip_39_word_new_line_6: 'spring
-
-  junk
-
-  frequent
-
-  snap
-
-  rain
-
-  oppose'
-bip_39_word_new_line_7: 'spring
-
-  junk
-
-  frequent
-
-  snap
-
-  rain
-
-  oppose
-
-  tomorrow'
-bip_39_word_new_line_8: 'spring
-
-  junk
-
-  frequent
-
-  snap
-
-  rain
-
-  oppose
-
-  tomorrow
-
-  asthma'
-bip_39_word_new_line_9: 'spring
-
-  junk
-
-  frequent
-
-  snap
-
-  rain
-
-  oppose
-
-  tomorrow
-
-  asthma
-
-  finish'
-bip_39_word_no_space_1: spring
-bip_39_word_no_space_10: springjunkfrequentsnaprainopposetomorrowasthmafinishhand
-bip_39_word_no_space_11: springjunkfrequentsnaprainopposetomorrowasthmafinishhandjuice
 bip_39_word_no_space_12: springjunkfrequentsnaprainopposetomorrowasthmafinishhandjuiceamount
 bip_39_word_no_space_2: springjunk
 bip_39_word_no_space_3: springjunkfrequent
-bip_39_word_no_space_4: springjunkfrequentsnap
-bip_39_word_no_space_5: springjunkfrequentsnaprain
-bip_39_word_no_space_6: springjunkfrequentsnaprainoppose
-bip_39_word_no_space_7: springjunkfrequentsnaprainopposetomorrow
-bip_39_word_no_space_8: springjunkfrequentsnaprainopposetomorrowasthma
-bip_39_word_no_space_9: springjunkfrequentsnaprainopposetomorrowasthmafinish
-bip_39_word_space_0:
-- spring
-- junk
-- frequent
-- snap
-- rain
-- oppose
-- tomorrow
-- asthma
-- finish
-- hand
-- juice
-- amount
-bip_39_word_space_1: spring
-bip_39_word_space_10: spring junk frequent snap rain oppose tomorrow asthma finish
-  hand
-bip_39_word_space_11: spring junk frequent snap rain oppose tomorrow asthma finish
-  hand juice
 bip_39_word_space_12: spring junk frequent snap rain oppose tomorrow asthma finish
   hand juice amount
 bip_39_word_space_2: spring junk
 bip_39_word_space_3: spring junk frequent
-bip_39_word_space_4: spring junk frequent snap
-bip_39_word_space_5: spring junk frequent snap rain
-bip_39_word_space_6: spring junk frequent snap rain oppose
-bip_39_word_space_7: spring junk frequent snap rain oppose tomorrow
-bip_39_word_space_8: spring junk frequent snap rain oppose tomorrow asthma
-bip_39_word_space_9: spring junk frequent snap rain oppose tomorrow asthma finish
-bip_39_word_underscore_1: spring
-bip_39_word_underscore_10: spring_junk_frequent_snap_rain_oppose_tomorrow_asthma_finish_hand
-bip_39_word_underscore_11: spring_junk_frequent_snap_rain_oppose_tomorrow_asthma_finish_hand_juice
 bip_39_word_underscore_12: spring_junk_frequent_snap_rain_oppose_tomorrow_asthma_finish_hand_juice_amount
 bip_39_word_underscore_2: spring_junk
 bip_39_word_underscore_3: spring_junk_frequent
-bip_39_word_underscore_4: spring_junk_frequent_snap
-bip_39_word_underscore_5: spring_junk_frequent_snap_rain
-bip_39_word_underscore_6: spring_junk_frequent_snap_rain_oppose
-bip_39_word_underscore_7: spring_junk_frequent_snap_rain_oppose_tomorrow
-bip_39_word_underscore_8: spring_junk_frequent_snap_rain_oppose_tomorrow_asthma
-bip_39_word_underscore_9: spring_junk_frequent_snap_rain_oppose_tomorrow_asthma_finish
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

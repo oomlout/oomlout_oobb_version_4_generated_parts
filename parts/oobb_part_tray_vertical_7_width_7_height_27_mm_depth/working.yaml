@@ -1,68 +1,9 @@
-bip_39_word_dash_1: animal
-bip_39_word_dash_10: animal-cupboard-protect-enact-depart-slab-bullet-tip-brisk-grocery
-bip_39_word_dash_11: animal-cupboard-protect-enact-depart-slab-bullet-tip-brisk-grocery-arrive
 bip_39_word_dash_12: animal-cupboard-protect-enact-depart-slab-bullet-tip-brisk-grocery-arrive-achieve
 bip_39_word_dash_2: animal-cupboard
 bip_39_word_dash_3: animal-cupboard-protect
-bip_39_word_dash_4: animal-cupboard-protect-enact
-bip_39_word_dash_5: animal-cupboard-protect-enact-depart
-bip_39_word_dash_6: animal-cupboard-protect-enact-depart-slab
-bip_39_word_dash_7: animal-cupboard-protect-enact-depart-slab-bullet
-bip_39_word_dash_8: animal-cupboard-protect-enact-depart-slab-bullet-tip
-bip_39_word_dash_9: animal-cupboard-protect-enact-depart-slab-bullet-tip-brisk
-bip_39_word_new_br_1: animal
-bip_39_word_new_br_10: animal<br>cupboard<br>protect<br>enact<br>depart<br>slab<br>bullet<br>tip<br>brisk<br>grocery
-bip_39_word_new_br_11: animal<br>cupboard<br>protect<br>enact<br>depart<br>slab<br>bullet<br>tip<br>brisk<br>grocery<br>arrive
 bip_39_word_new_br_12: animal<br>cupboard<br>protect<br>enact<br>depart<br>slab<br>bullet<br>tip<br>brisk<br>grocery<br>arrive<br>achieve
 bip_39_word_new_br_2: animal<br>cupboard
 bip_39_word_new_br_3: animal<br>cupboard<br>protect
-bip_39_word_new_br_4: animal<br>cupboard<br>protect<br>enact
-bip_39_word_new_br_5: animal<br>cupboard<br>protect<br>enact<br>depart
-bip_39_word_new_br_6: animal<br>cupboard<br>protect<br>enact<br>depart<br>slab
-bip_39_word_new_br_7: animal<br>cupboard<br>protect<br>enact<br>depart<br>slab<br>bullet
-bip_39_word_new_br_8: animal<br>cupboard<br>protect<br>enact<br>depart<br>slab<br>bullet<br>tip
-bip_39_word_new_br_9: animal<br>cupboard<br>protect<br>enact<br>depart<br>slab<br>bullet<br>tip<br>brisk
-bip_39_word_new_line_1: animal
-bip_39_word_new_line_10: 'animal
-
-  cupboard
-
-  protect
-
-  enact
-
-  depart
-
-  slab
-
-  bullet
-
-  tip
-
-  brisk
-
-  grocery'
-bip_39_word_new_line_11: 'animal
-
-  cupboard
-
-  protect
-
-  enact
-
-  depart
-
-  slab
-
-  bullet
-
-  tip
-
-  brisk
-
-  grocery
-
-  arrive'
 bip_39_word_new_line_12: 'animal
 
   cupboard
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'animal
   cupboard
 
   protect'
-bip_39_word_new_line_4: 'animal
-
-  cupboard
-
-  protect
-
-  enact'
-bip_39_word_new_line_5: 'animal
-
-  cupboard
-
-  protect
-
-  enact
-
-  depart'
-bip_39_word_new_line_6: 'animal
-
-  cupboard
-
-  protect
-
-  enact
-
-  depart
-
-  slab'
-bip_39_word_new_line_7: 'animal
-
-  cupboard
-
-  protect
-
-  enact
-
-  depart
-
-  slab
-
-  bullet'
-bip_39_word_new_line_8: 'animal
-
-  cupboard
-
-  protect
-
-  enact
-
-  depart
-
-  slab
-
-  bullet
-
-  tip'
-bip_39_word_new_line_9: 'animal
-
-  cupboard
-
-  protect
-
-  enact
-
-  depart
-
-  slab
-
-  bullet
-
-  tip
-
-  brisk'
-bip_39_word_no_space_1: animal
-bip_39_word_no_space_10: animalcupboardprotectenactdepartslabbullettipbriskgrocery
-bip_39_word_no_space_11: animalcupboardprotectenactdepartslabbullettipbriskgroceryarrive
 bip_39_word_no_space_12: animalcupboardprotectenactdepartslabbullettipbriskgroceryarriveachieve
 bip_39_word_no_space_2: animalcupboard
 bip_39_word_no_space_3: animalcupboardprotect
-bip_39_word_no_space_4: animalcupboardprotectenact
-bip_39_word_no_space_5: animalcupboardprotectenactdepart
-bip_39_word_no_space_6: animalcupboardprotectenactdepartslab
-bip_39_word_no_space_7: animalcupboardprotectenactdepartslabbullet
-bip_39_word_no_space_8: animalcupboardprotectenactdepartslabbullettip
-bip_39_word_no_space_9: animalcupboardprotectenactdepartslabbullettipbrisk
-bip_39_word_space_0:
-- animal
-- cupboard
-- protect
-- enact
-- depart
-- slab
-- bullet
-- tip
-- brisk
-- grocery
-- arrive
-- achieve
-bip_39_word_space_1: animal
-bip_39_word_space_10: animal cupboard protect enact depart slab bullet tip brisk grocery
-bip_39_word_space_11: animal cupboard protect enact depart slab bullet tip brisk grocery
-  arrive
 bip_39_word_space_12: animal cupboard protect enact depart slab bullet tip brisk grocery
   arrive achieve
 bip_39_word_space_2: animal cupboard
 bip_39_word_space_3: animal cupboard protect
-bip_39_word_space_4: animal cupboard protect enact
-bip_39_word_space_5: animal cupboard protect enact depart
-bip_39_word_space_6: animal cupboard protect enact depart slab
-bip_39_word_space_7: animal cupboard protect enact depart slab bullet
-bip_39_word_space_8: animal cupboard protect enact depart slab bullet tip
-bip_39_word_space_9: animal cupboard protect enact depart slab bullet tip brisk
-bip_39_word_underscore_1: animal
-bip_39_word_underscore_10: animal_cupboard_protect_enact_depart_slab_bullet_tip_brisk_grocery
-bip_39_word_underscore_11: animal_cupboard_protect_enact_depart_slab_bullet_tip_brisk_grocery_arrive
 bip_39_word_underscore_12: animal_cupboard_protect_enact_depart_slab_bullet_tip_brisk_grocery_arrive_achieve
 bip_39_word_underscore_2: animal_cupboard
 bip_39_word_underscore_3: animal_cupboard_protect
-bip_39_word_underscore_4: animal_cupboard_protect_enact
-bip_39_word_underscore_5: animal_cupboard_protect_enact_depart
-bip_39_word_underscore_6: animal_cupboard_protect_enact_depart_slab
-bip_39_word_underscore_7: animal_cupboard_protect_enact_depart_slab_bullet
-bip_39_word_underscore_8: animal_cupboard_protect_enact_depart_slab_bullet_tip
-bip_39_word_underscore_9: animal_cupboard_protect_enact_depart_slab_bullet_tip_brisk
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

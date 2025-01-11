@@ -1,68 +1,9 @@
-bip_39_word_dash_1: cradle
-bip_39_word_dash_10: cradle-shoe-name-upon-enroll-arm-armed-clever-achieve-client
-bip_39_word_dash_11: cradle-shoe-name-upon-enroll-arm-armed-clever-achieve-client-face
 bip_39_word_dash_12: cradle-shoe-name-upon-enroll-arm-armed-clever-achieve-client-face-abuse
 bip_39_word_dash_2: cradle-shoe
 bip_39_word_dash_3: cradle-shoe-name
-bip_39_word_dash_4: cradle-shoe-name-upon
-bip_39_word_dash_5: cradle-shoe-name-upon-enroll
-bip_39_word_dash_6: cradle-shoe-name-upon-enroll-arm
-bip_39_word_dash_7: cradle-shoe-name-upon-enroll-arm-armed
-bip_39_word_dash_8: cradle-shoe-name-upon-enroll-arm-armed-clever
-bip_39_word_dash_9: cradle-shoe-name-upon-enroll-arm-armed-clever-achieve
-bip_39_word_new_br_1: cradle
-bip_39_word_new_br_10: cradle<br>shoe<br>name<br>upon<br>enroll<br>arm<br>armed<br>clever<br>achieve<br>client
-bip_39_word_new_br_11: cradle<br>shoe<br>name<br>upon<br>enroll<br>arm<br>armed<br>clever<br>achieve<br>client<br>face
 bip_39_word_new_br_12: cradle<br>shoe<br>name<br>upon<br>enroll<br>arm<br>armed<br>clever<br>achieve<br>client<br>face<br>abuse
 bip_39_word_new_br_2: cradle<br>shoe
 bip_39_word_new_br_3: cradle<br>shoe<br>name
-bip_39_word_new_br_4: cradle<br>shoe<br>name<br>upon
-bip_39_word_new_br_5: cradle<br>shoe<br>name<br>upon<br>enroll
-bip_39_word_new_br_6: cradle<br>shoe<br>name<br>upon<br>enroll<br>arm
-bip_39_word_new_br_7: cradle<br>shoe<br>name<br>upon<br>enroll<br>arm<br>armed
-bip_39_word_new_br_8: cradle<br>shoe<br>name<br>upon<br>enroll<br>arm<br>armed<br>clever
-bip_39_word_new_br_9: cradle<br>shoe<br>name<br>upon<br>enroll<br>arm<br>armed<br>clever<br>achieve
-bip_39_word_new_line_1: cradle
-bip_39_word_new_line_10: 'cradle
-
-  shoe
-
-  name
-
-  upon
-
-  enroll
-
-  arm
-
-  armed
-
-  clever
-
-  achieve
-
-  client'
-bip_39_word_new_line_11: 'cradle
-
-  shoe
-
-  name
-
-  upon
-
-  enroll
-
-  arm
-
-  armed
-
-  clever
-
-  achieve
-
-  client
-
-  face'
 bip_39_word_new_line_12: 'cradle
 
   shoe
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'cradle
   shoe
 
   name'
-bip_39_word_new_line_4: 'cradle
-
-  shoe
-
-  name
-
-  upon'
-bip_39_word_new_line_5: 'cradle
-
-  shoe
-
-  name
-
-  upon
-
-  enroll'
-bip_39_word_new_line_6: 'cradle
-
-  shoe
-
-  name
-
-  upon
-
-  enroll
-
-  arm'
-bip_39_word_new_line_7: 'cradle
-
-  shoe
-
-  name
-
-  upon
-
-  enroll
-
-  arm
-
-  armed'
-bip_39_word_new_line_8: 'cradle
-
-  shoe
-
-  name
-
-  upon
-
-  enroll
-
-  arm
-
-  armed
-
-  clever'
-bip_39_word_new_line_9: 'cradle
-
-  shoe
-
-  name
-
-  upon
-
-  enroll
-
-  arm
-
-  armed
-
-  clever
-
-  achieve'
-bip_39_word_no_space_1: cradle
-bip_39_word_no_space_10: cradleshoenameuponenrollarmarmedcleverachieveclient
-bip_39_word_no_space_11: cradleshoenameuponenrollarmarmedcleverachieveclientface
 bip_39_word_no_space_12: cradleshoenameuponenrollarmarmedcleverachieveclientfaceabuse
 bip_39_word_no_space_2: cradleshoe
 bip_39_word_no_space_3: cradleshoename
-bip_39_word_no_space_4: cradleshoenameupon
-bip_39_word_no_space_5: cradleshoenameuponenroll
-bip_39_word_no_space_6: cradleshoenameuponenrollarm
-bip_39_word_no_space_7: cradleshoenameuponenrollarmarmed
-bip_39_word_no_space_8: cradleshoenameuponenrollarmarmedclever
-bip_39_word_no_space_9: cradleshoenameuponenrollarmarmedcleverachieve
-bip_39_word_space_0:
-- cradle
-- shoe
-- name
-- upon
-- enroll
-- arm
-- armed
-- clever
-- achieve
-- client
-- face
-- abuse
-bip_39_word_space_1: cradle
-bip_39_word_space_10: cradle shoe name upon enroll arm armed clever achieve client
-bip_39_word_space_11: cradle shoe name upon enroll arm armed clever achieve client
-  face
 bip_39_word_space_12: cradle shoe name upon enroll arm armed clever achieve client
   face abuse
 bip_39_word_space_2: cradle shoe
 bip_39_word_space_3: cradle shoe name
-bip_39_word_space_4: cradle shoe name upon
-bip_39_word_space_5: cradle shoe name upon enroll
-bip_39_word_space_6: cradle shoe name upon enroll arm
-bip_39_word_space_7: cradle shoe name upon enroll arm armed
-bip_39_word_space_8: cradle shoe name upon enroll arm armed clever
-bip_39_word_space_9: cradle shoe name upon enroll arm armed clever achieve
-bip_39_word_underscore_1: cradle
-bip_39_word_underscore_10: cradle_shoe_name_upon_enroll_arm_armed_clever_achieve_client
-bip_39_word_underscore_11: cradle_shoe_name_upon_enroll_arm_armed_clever_achieve_client_face
 bip_39_word_underscore_12: cradle_shoe_name_upon_enroll_arm_armed_clever_achieve_client_face_abuse
 bip_39_word_underscore_2: cradle_shoe
 bip_39_word_underscore_3: cradle_shoe_name
-bip_39_word_underscore_4: cradle_shoe_name_upon
-bip_39_word_underscore_5: cradle_shoe_name_upon_enroll
-bip_39_word_underscore_6: cradle_shoe_name_upon_enroll_arm
-bip_39_word_underscore_7: cradle_shoe_name_upon_enroll_arm_armed
-bip_39_word_underscore_8: cradle_shoe_name_upon_enroll_arm_armed_clever
-bip_39_word_underscore_9: cradle_shoe_name_upon_enroll_arm_armed_clever_achieve
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

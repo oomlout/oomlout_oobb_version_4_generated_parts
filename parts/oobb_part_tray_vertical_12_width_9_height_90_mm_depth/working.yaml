@@ -1,68 +1,9 @@
-bip_39_word_dash_1: vehicle
-bip_39_word_dash_10: vehicle-frost-ocean-play-arrive-flip-acquire-chuckle-depart-rare
-bip_39_word_dash_11: vehicle-frost-ocean-play-arrive-flip-acquire-chuckle-depart-rare-diagram
 bip_39_word_dash_12: vehicle-frost-ocean-play-arrive-flip-acquire-chuckle-depart-rare-diagram-absurd
 bip_39_word_dash_2: vehicle-frost
 bip_39_word_dash_3: vehicle-frost-ocean
-bip_39_word_dash_4: vehicle-frost-ocean-play
-bip_39_word_dash_5: vehicle-frost-ocean-play-arrive
-bip_39_word_dash_6: vehicle-frost-ocean-play-arrive-flip
-bip_39_word_dash_7: vehicle-frost-ocean-play-arrive-flip-acquire
-bip_39_word_dash_8: vehicle-frost-ocean-play-arrive-flip-acquire-chuckle
-bip_39_word_dash_9: vehicle-frost-ocean-play-arrive-flip-acquire-chuckle-depart
-bip_39_word_new_br_1: vehicle
-bip_39_word_new_br_10: vehicle<br>frost<br>ocean<br>play<br>arrive<br>flip<br>acquire<br>chuckle<br>depart<br>rare
-bip_39_word_new_br_11: vehicle<br>frost<br>ocean<br>play<br>arrive<br>flip<br>acquire<br>chuckle<br>depart<br>rare<br>diagram
 bip_39_word_new_br_12: vehicle<br>frost<br>ocean<br>play<br>arrive<br>flip<br>acquire<br>chuckle<br>depart<br>rare<br>diagram<br>absurd
 bip_39_word_new_br_2: vehicle<br>frost
 bip_39_word_new_br_3: vehicle<br>frost<br>ocean
-bip_39_word_new_br_4: vehicle<br>frost<br>ocean<br>play
-bip_39_word_new_br_5: vehicle<br>frost<br>ocean<br>play<br>arrive
-bip_39_word_new_br_6: vehicle<br>frost<br>ocean<br>play<br>arrive<br>flip
-bip_39_word_new_br_7: vehicle<br>frost<br>ocean<br>play<br>arrive<br>flip<br>acquire
-bip_39_word_new_br_8: vehicle<br>frost<br>ocean<br>play<br>arrive<br>flip<br>acquire<br>chuckle
-bip_39_word_new_br_9: vehicle<br>frost<br>ocean<br>play<br>arrive<br>flip<br>acquire<br>chuckle<br>depart
-bip_39_word_new_line_1: vehicle
-bip_39_word_new_line_10: 'vehicle
-
-  frost
-
-  ocean
-
-  play
-
-  arrive
-
-  flip
-
-  acquire
-
-  chuckle
-
-  depart
-
-  rare'
-bip_39_word_new_line_11: 'vehicle
-
-  frost
-
-  ocean
-
-  play
-
-  arrive
-
-  flip
-
-  acquire
-
-  chuckle
-
-  depart
-
-  rare
-
-  diagram'
 bip_39_word_new_line_12: 'vehicle
 
   frost
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'vehicle
   frost
 
   ocean'
-bip_39_word_new_line_4: 'vehicle
-
-  frost
-
-  ocean
-
-  play'
-bip_39_word_new_line_5: 'vehicle
-
-  frost
-
-  ocean
-
-  play
-
-  arrive'
-bip_39_word_new_line_6: 'vehicle
-
-  frost
-
-  ocean
-
-  play
-
-  arrive
-
-  flip'
-bip_39_word_new_line_7: 'vehicle
-
-  frost
-
-  ocean
-
-  play
-
-  arrive
-
-  flip
-
-  acquire'
-bip_39_word_new_line_8: 'vehicle
-
-  frost
-
-  ocean
-
-  play
-
-  arrive
-
-  flip
-
-  acquire
-
-  chuckle'
-bip_39_word_new_line_9: 'vehicle
-
-  frost
-
-  ocean
-
-  play
-
-  arrive
-
-  flip
-
-  acquire
-
-  chuckle
-
-  depart'
-bip_39_word_no_space_1: vehicle
-bip_39_word_no_space_10: vehiclefrostoceanplayarriveflipacquirechuckledepartrare
-bip_39_word_no_space_11: vehiclefrostoceanplayarriveflipacquirechuckledepartrarediagram
 bip_39_word_no_space_12: vehiclefrostoceanplayarriveflipacquirechuckledepartrarediagramabsurd
 bip_39_word_no_space_2: vehiclefrost
 bip_39_word_no_space_3: vehiclefrostocean
-bip_39_word_no_space_4: vehiclefrostoceanplay
-bip_39_word_no_space_5: vehiclefrostoceanplayarrive
-bip_39_word_no_space_6: vehiclefrostoceanplayarriveflip
-bip_39_word_no_space_7: vehiclefrostoceanplayarriveflipacquire
-bip_39_word_no_space_8: vehiclefrostoceanplayarriveflipacquirechuckle
-bip_39_word_no_space_9: vehiclefrostoceanplayarriveflipacquirechuckledepart
-bip_39_word_space_0:
-- vehicle
-- frost
-- ocean
-- play
-- arrive
-- flip
-- acquire
-- chuckle
-- depart
-- rare
-- diagram
-- absurd
-bip_39_word_space_1: vehicle
-bip_39_word_space_10: vehicle frost ocean play arrive flip acquire chuckle depart
-  rare
-bip_39_word_space_11: vehicle frost ocean play arrive flip acquire chuckle depart
-  rare diagram
 bip_39_word_space_12: vehicle frost ocean play arrive flip acquire chuckle depart
   rare diagram absurd
 bip_39_word_space_2: vehicle frost
 bip_39_word_space_3: vehicle frost ocean
-bip_39_word_space_4: vehicle frost ocean play
-bip_39_word_space_5: vehicle frost ocean play arrive
-bip_39_word_space_6: vehicle frost ocean play arrive flip
-bip_39_word_space_7: vehicle frost ocean play arrive flip acquire
-bip_39_word_space_8: vehicle frost ocean play arrive flip acquire chuckle
-bip_39_word_space_9: vehicle frost ocean play arrive flip acquire chuckle depart
-bip_39_word_underscore_1: vehicle
-bip_39_word_underscore_10: vehicle_frost_ocean_play_arrive_flip_acquire_chuckle_depart_rare
-bip_39_word_underscore_11: vehicle_frost_ocean_play_arrive_flip_acquire_chuckle_depart_rare_diagram
 bip_39_word_underscore_12: vehicle_frost_ocean_play_arrive_flip_acquire_chuckle_depart_rare_diagram_absurd
 bip_39_word_underscore_2: vehicle_frost
 bip_39_word_underscore_3: vehicle_frost_ocean
-bip_39_word_underscore_4: vehicle_frost_ocean_play
-bip_39_word_underscore_5: vehicle_frost_ocean_play_arrive
-bip_39_word_underscore_6: vehicle_frost_ocean_play_arrive_flip
-bip_39_word_underscore_7: vehicle_frost_ocean_play_arrive_flip_acquire
-bip_39_word_underscore_8: vehicle_frost_ocean_play_arrive_flip_acquire_chuckle
-bip_39_word_underscore_9: vehicle_frost_ocean_play_arrive_flip_acquire_chuckle_depart
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

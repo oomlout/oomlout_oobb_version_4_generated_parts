@@ -1,68 +1,9 @@
-bip_39_word_dash_1: travel
-bip_39_word_dash_10: travel-stumble-child-bench-space-example-remind-drill-present-damp
-bip_39_word_dash_11: travel-stumble-child-bench-space-example-remind-drill-present-damp-voyage
 bip_39_word_dash_12: travel-stumble-child-bench-space-example-remind-drill-present-damp-voyage-arctic
 bip_39_word_dash_2: travel-stumble
 bip_39_word_dash_3: travel-stumble-child
-bip_39_word_dash_4: travel-stumble-child-bench
-bip_39_word_dash_5: travel-stumble-child-bench-space
-bip_39_word_dash_6: travel-stumble-child-bench-space-example
-bip_39_word_dash_7: travel-stumble-child-bench-space-example-remind
-bip_39_word_dash_8: travel-stumble-child-bench-space-example-remind-drill
-bip_39_word_dash_9: travel-stumble-child-bench-space-example-remind-drill-present
-bip_39_word_new_br_1: travel
-bip_39_word_new_br_10: travel<br>stumble<br>child<br>bench<br>space<br>example<br>remind<br>drill<br>present<br>damp
-bip_39_word_new_br_11: travel<br>stumble<br>child<br>bench<br>space<br>example<br>remind<br>drill<br>present<br>damp<br>voyage
 bip_39_word_new_br_12: travel<br>stumble<br>child<br>bench<br>space<br>example<br>remind<br>drill<br>present<br>damp<br>voyage<br>arctic
 bip_39_word_new_br_2: travel<br>stumble
 bip_39_word_new_br_3: travel<br>stumble<br>child
-bip_39_word_new_br_4: travel<br>stumble<br>child<br>bench
-bip_39_word_new_br_5: travel<br>stumble<br>child<br>bench<br>space
-bip_39_word_new_br_6: travel<br>stumble<br>child<br>bench<br>space<br>example
-bip_39_word_new_br_7: travel<br>stumble<br>child<br>bench<br>space<br>example<br>remind
-bip_39_word_new_br_8: travel<br>stumble<br>child<br>bench<br>space<br>example<br>remind<br>drill
-bip_39_word_new_br_9: travel<br>stumble<br>child<br>bench<br>space<br>example<br>remind<br>drill<br>present
-bip_39_word_new_line_1: travel
-bip_39_word_new_line_10: 'travel
-
-  stumble
-
-  child
-
-  bench
-
-  space
-
-  example
-
-  remind
-
-  drill
-
-  present
-
-  damp'
-bip_39_word_new_line_11: 'travel
-
-  stumble
-
-  child
-
-  bench
-
-  space
-
-  example
-
-  remind
-
-  drill
-
-  present
-
-  damp
-
-  voyage'
 bip_39_word_new_line_12: 'travel
 
   stumble
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'travel
   stumble
 
   child'
-bip_39_word_new_line_4: 'travel
-
-  stumble
-
-  child
-
-  bench'
-bip_39_word_new_line_5: 'travel
-
-  stumble
-
-  child
-
-  bench
-
-  space'
-bip_39_word_new_line_6: 'travel
-
-  stumble
-
-  child
-
-  bench
-
-  space
-
-  example'
-bip_39_word_new_line_7: 'travel
-
-  stumble
-
-  child
-
-  bench
-
-  space
-
-  example
-
-  remind'
-bip_39_word_new_line_8: 'travel
-
-  stumble
-
-  child
-
-  bench
-
-  space
-
-  example
-
-  remind
-
-  drill'
-bip_39_word_new_line_9: 'travel
-
-  stumble
-
-  child
-
-  bench
-
-  space
-
-  example
-
-  remind
-
-  drill
-
-  present'
-bip_39_word_no_space_1: travel
-bip_39_word_no_space_10: travelstumblechildbenchspaceexamplereminddrillpresentdamp
-bip_39_word_no_space_11: travelstumblechildbenchspaceexamplereminddrillpresentdampvoyage
 bip_39_word_no_space_12: travelstumblechildbenchspaceexamplereminddrillpresentdampvoyagearctic
 bip_39_word_no_space_2: travelstumble
 bip_39_word_no_space_3: travelstumblechild
-bip_39_word_no_space_4: travelstumblechildbench
-bip_39_word_no_space_5: travelstumblechildbenchspace
-bip_39_word_no_space_6: travelstumblechildbenchspaceexample
-bip_39_word_no_space_7: travelstumblechildbenchspaceexampleremind
-bip_39_word_no_space_8: travelstumblechildbenchspaceexamplereminddrill
-bip_39_word_no_space_9: travelstumblechildbenchspaceexamplereminddrillpresent
-bip_39_word_space_0:
-- travel
-- stumble
-- child
-- bench
-- space
-- example
-- remind
-- drill
-- present
-- damp
-- voyage
-- arctic
-bip_39_word_space_1: travel
-bip_39_word_space_10: travel stumble child bench space example remind drill present
-  damp
-bip_39_word_space_11: travel stumble child bench space example remind drill present
-  damp voyage
 bip_39_word_space_12: travel stumble child bench space example remind drill present
   damp voyage arctic
 bip_39_word_space_2: travel stumble
 bip_39_word_space_3: travel stumble child
-bip_39_word_space_4: travel stumble child bench
-bip_39_word_space_5: travel stumble child bench space
-bip_39_word_space_6: travel stumble child bench space example
-bip_39_word_space_7: travel stumble child bench space example remind
-bip_39_word_space_8: travel stumble child bench space example remind drill
-bip_39_word_space_9: travel stumble child bench space example remind drill present
-bip_39_word_underscore_1: travel
-bip_39_word_underscore_10: travel_stumble_child_bench_space_example_remind_drill_present_damp
-bip_39_word_underscore_11: travel_stumble_child_bench_space_example_remind_drill_present_damp_voyage
 bip_39_word_underscore_12: travel_stumble_child_bench_space_example_remind_drill_present_damp_voyage_arctic
 bip_39_word_underscore_2: travel_stumble
 bip_39_word_underscore_3: travel_stumble_child
-bip_39_word_underscore_4: travel_stumble_child_bench
-bip_39_word_underscore_5: travel_stumble_child_bench_space
-bip_39_word_underscore_6: travel_stumble_child_bench_space_example
-bip_39_word_underscore_7: travel_stumble_child_bench_space_example_remind
-bip_39_word_underscore_8: travel_stumble_child_bench_space_example_remind_drill
-bip_39_word_underscore_9: travel_stumble_child_bench_space_example_remind_drill_present
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

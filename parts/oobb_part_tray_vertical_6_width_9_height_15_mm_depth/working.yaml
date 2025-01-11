@@ -1,68 +1,9 @@
-bip_39_word_dash_1: job
-bip_39_word_dash_10: job-chicken-exhaust-nice-elephant-child-jealous-fiscal-nut-cradle
-bip_39_word_dash_11: job-chicken-exhaust-nice-elephant-child-jealous-fiscal-nut-cradle-regular
 bip_39_word_dash_12: job-chicken-exhaust-nice-elephant-child-jealous-fiscal-nut-cradle-regular-anger
 bip_39_word_dash_2: job-chicken
 bip_39_word_dash_3: job-chicken-exhaust
-bip_39_word_dash_4: job-chicken-exhaust-nice
-bip_39_word_dash_5: job-chicken-exhaust-nice-elephant
-bip_39_word_dash_6: job-chicken-exhaust-nice-elephant-child
-bip_39_word_dash_7: job-chicken-exhaust-nice-elephant-child-jealous
-bip_39_word_dash_8: job-chicken-exhaust-nice-elephant-child-jealous-fiscal
-bip_39_word_dash_9: job-chicken-exhaust-nice-elephant-child-jealous-fiscal-nut
-bip_39_word_new_br_1: job
-bip_39_word_new_br_10: job<br>chicken<br>exhaust<br>nice<br>elephant<br>child<br>jealous<br>fiscal<br>nut<br>cradle
-bip_39_word_new_br_11: job<br>chicken<br>exhaust<br>nice<br>elephant<br>child<br>jealous<br>fiscal<br>nut<br>cradle<br>regular
 bip_39_word_new_br_12: job<br>chicken<br>exhaust<br>nice<br>elephant<br>child<br>jealous<br>fiscal<br>nut<br>cradle<br>regular<br>anger
 bip_39_word_new_br_2: job<br>chicken
 bip_39_word_new_br_3: job<br>chicken<br>exhaust
-bip_39_word_new_br_4: job<br>chicken<br>exhaust<br>nice
-bip_39_word_new_br_5: job<br>chicken<br>exhaust<br>nice<br>elephant
-bip_39_word_new_br_6: job<br>chicken<br>exhaust<br>nice<br>elephant<br>child
-bip_39_word_new_br_7: job<br>chicken<br>exhaust<br>nice<br>elephant<br>child<br>jealous
-bip_39_word_new_br_8: job<br>chicken<br>exhaust<br>nice<br>elephant<br>child<br>jealous<br>fiscal
-bip_39_word_new_br_9: job<br>chicken<br>exhaust<br>nice<br>elephant<br>child<br>jealous<br>fiscal<br>nut
-bip_39_word_new_line_1: job
-bip_39_word_new_line_10: 'job
-
-  chicken
-
-  exhaust
-
-  nice
-
-  elephant
-
-  child
-
-  jealous
-
-  fiscal
-
-  nut
-
-  cradle'
-bip_39_word_new_line_11: 'job
-
-  chicken
-
-  exhaust
-
-  nice
-
-  elephant
-
-  child
-
-  jealous
-
-  fiscal
-
-  nut
-
-  cradle
-
-  regular'
 bip_39_word_new_line_12: 'job
 
   chicken
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'job
   chicken
 
   exhaust'
-bip_39_word_new_line_4: 'job
-
-  chicken
-
-  exhaust
-
-  nice'
-bip_39_word_new_line_5: 'job
-
-  chicken
-
-  exhaust
-
-  nice
-
-  elephant'
-bip_39_word_new_line_6: 'job
-
-  chicken
-
-  exhaust
-
-  nice
-
-  elephant
-
-  child'
-bip_39_word_new_line_7: 'job
-
-  chicken
-
-  exhaust
-
-  nice
-
-  elephant
-
-  child
-
-  jealous'
-bip_39_word_new_line_8: 'job
-
-  chicken
-
-  exhaust
-
-  nice
-
-  elephant
-
-  child
-
-  jealous
-
-  fiscal'
-bip_39_word_new_line_9: 'job
-
-  chicken
-
-  exhaust
-
-  nice
-
-  elephant
-
-  child
-
-  jealous
-
-  fiscal
-
-  nut'
-bip_39_word_no_space_1: job
-bip_39_word_no_space_10: jobchickenexhaustniceelephantchildjealousfiscalnutcradle
-bip_39_word_no_space_11: jobchickenexhaustniceelephantchildjealousfiscalnutcradleregular
 bip_39_word_no_space_12: jobchickenexhaustniceelephantchildjealousfiscalnutcradleregularanger
 bip_39_word_no_space_2: jobchicken
 bip_39_word_no_space_3: jobchickenexhaust
-bip_39_word_no_space_4: jobchickenexhaustnice
-bip_39_word_no_space_5: jobchickenexhaustniceelephant
-bip_39_word_no_space_6: jobchickenexhaustniceelephantchild
-bip_39_word_no_space_7: jobchickenexhaustniceelephantchildjealous
-bip_39_word_no_space_8: jobchickenexhaustniceelephantchildjealousfiscal
-bip_39_word_no_space_9: jobchickenexhaustniceelephantchildjealousfiscalnut
-bip_39_word_space_0:
-- job
-- chicken
-- exhaust
-- nice
-- elephant
-- child
-- jealous
-- fiscal
-- nut
-- cradle
-- regular
-- anger
-bip_39_word_space_1: job
-bip_39_word_space_10: job chicken exhaust nice elephant child jealous fiscal nut cradle
-bip_39_word_space_11: job chicken exhaust nice elephant child jealous fiscal nut cradle
-  regular
 bip_39_word_space_12: job chicken exhaust nice elephant child jealous fiscal nut cradle
   regular anger
 bip_39_word_space_2: job chicken
 bip_39_word_space_3: job chicken exhaust
-bip_39_word_space_4: job chicken exhaust nice
-bip_39_word_space_5: job chicken exhaust nice elephant
-bip_39_word_space_6: job chicken exhaust nice elephant child
-bip_39_word_space_7: job chicken exhaust nice elephant child jealous
-bip_39_word_space_8: job chicken exhaust nice elephant child jealous fiscal
-bip_39_word_space_9: job chicken exhaust nice elephant child jealous fiscal nut
-bip_39_word_underscore_1: job
-bip_39_word_underscore_10: job_chicken_exhaust_nice_elephant_child_jealous_fiscal_nut_cradle
-bip_39_word_underscore_11: job_chicken_exhaust_nice_elephant_child_jealous_fiscal_nut_cradle_regular
 bip_39_word_underscore_12: job_chicken_exhaust_nice_elephant_child_jealous_fiscal_nut_cradle_regular_anger
 bip_39_word_underscore_2: job_chicken
 bip_39_word_underscore_3: job_chicken_exhaust
-bip_39_word_underscore_4: job_chicken_exhaust_nice
-bip_39_word_underscore_5: job_chicken_exhaust_nice_elephant
-bip_39_word_underscore_6: job_chicken_exhaust_nice_elephant_child
-bip_39_word_underscore_7: job_chicken_exhaust_nice_elephant_child_jealous
-bip_39_word_underscore_8: job_chicken_exhaust_nice_elephant_child_jealous_fiscal
-bip_39_word_underscore_9: job_chicken_exhaust_nice_elephant_child_jealous_fiscal_nut
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

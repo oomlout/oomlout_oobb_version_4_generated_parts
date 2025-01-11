@@ -1,68 +1,9 @@
-bip_39_word_dash_1: dial
-bip_39_word_dash_10: dial-network-riot-fly-smooth-grass-orphan-economy-record-grab
-bip_39_word_dash_11: dial-network-riot-fly-smooth-grass-orphan-economy-record-grab-light
 bip_39_word_dash_12: dial-network-riot-fly-smooth-grass-orphan-economy-record-grab-light-aspect
 bip_39_word_dash_2: dial-network
 bip_39_word_dash_3: dial-network-riot
-bip_39_word_dash_4: dial-network-riot-fly
-bip_39_word_dash_5: dial-network-riot-fly-smooth
-bip_39_word_dash_6: dial-network-riot-fly-smooth-grass
-bip_39_word_dash_7: dial-network-riot-fly-smooth-grass-orphan
-bip_39_word_dash_8: dial-network-riot-fly-smooth-grass-orphan-economy
-bip_39_word_dash_9: dial-network-riot-fly-smooth-grass-orphan-economy-record
-bip_39_word_new_br_1: dial
-bip_39_word_new_br_10: dial<br>network<br>riot<br>fly<br>smooth<br>grass<br>orphan<br>economy<br>record<br>grab
-bip_39_word_new_br_11: dial<br>network<br>riot<br>fly<br>smooth<br>grass<br>orphan<br>economy<br>record<br>grab<br>light
 bip_39_word_new_br_12: dial<br>network<br>riot<br>fly<br>smooth<br>grass<br>orphan<br>economy<br>record<br>grab<br>light<br>aspect
 bip_39_word_new_br_2: dial<br>network
 bip_39_word_new_br_3: dial<br>network<br>riot
-bip_39_word_new_br_4: dial<br>network<br>riot<br>fly
-bip_39_word_new_br_5: dial<br>network<br>riot<br>fly<br>smooth
-bip_39_word_new_br_6: dial<br>network<br>riot<br>fly<br>smooth<br>grass
-bip_39_word_new_br_7: dial<br>network<br>riot<br>fly<br>smooth<br>grass<br>orphan
-bip_39_word_new_br_8: dial<br>network<br>riot<br>fly<br>smooth<br>grass<br>orphan<br>economy
-bip_39_word_new_br_9: dial<br>network<br>riot<br>fly<br>smooth<br>grass<br>orphan<br>economy<br>record
-bip_39_word_new_line_1: dial
-bip_39_word_new_line_10: 'dial
-
-  network
-
-  riot
-
-  fly
-
-  smooth
-
-  grass
-
-  orphan
-
-  economy
-
-  record
-
-  grab'
-bip_39_word_new_line_11: 'dial
-
-  network
-
-  riot
-
-  fly
-
-  smooth
-
-  grass
-
-  orphan
-
-  economy
-
-  record
-
-  grab
-
-  light'
 bip_39_word_new_line_12: 'dial
 
   network
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'dial
   network
 
   riot'
-bip_39_word_new_line_4: 'dial
-
-  network
-
-  riot
-
-  fly'
-bip_39_word_new_line_5: 'dial
-
-  network
-
-  riot
-
-  fly
-
-  smooth'
-bip_39_word_new_line_6: 'dial
-
-  network
-
-  riot
-
-  fly
-
-  smooth
-
-  grass'
-bip_39_word_new_line_7: 'dial
-
-  network
-
-  riot
-
-  fly
-
-  smooth
-
-  grass
-
-  orphan'
-bip_39_word_new_line_8: 'dial
-
-  network
-
-  riot
-
-  fly
-
-  smooth
-
-  grass
-
-  orphan
-
-  economy'
-bip_39_word_new_line_9: 'dial
-
-  network
-
-  riot
-
-  fly
-
-  smooth
-
-  grass
-
-  orphan
-
-  economy
-
-  record'
-bip_39_word_no_space_1: dial
-bip_39_word_no_space_10: dialnetworkriotflysmoothgrassorphaneconomyrecordgrab
-bip_39_word_no_space_11: dialnetworkriotflysmoothgrassorphaneconomyrecordgrablight
 bip_39_word_no_space_12: dialnetworkriotflysmoothgrassorphaneconomyrecordgrablightaspect
 bip_39_word_no_space_2: dialnetwork
 bip_39_word_no_space_3: dialnetworkriot
-bip_39_word_no_space_4: dialnetworkriotfly
-bip_39_word_no_space_5: dialnetworkriotflysmooth
-bip_39_word_no_space_6: dialnetworkriotflysmoothgrass
-bip_39_word_no_space_7: dialnetworkriotflysmoothgrassorphan
-bip_39_word_no_space_8: dialnetworkriotflysmoothgrassorphaneconomy
-bip_39_word_no_space_9: dialnetworkriotflysmoothgrassorphaneconomyrecord
-bip_39_word_space_0:
-- dial
-- network
-- riot
-- fly
-- smooth
-- grass
-- orphan
-- economy
-- record
-- grab
-- light
-- aspect
-bip_39_word_space_1: dial
-bip_39_word_space_10: dial network riot fly smooth grass orphan economy record grab
-bip_39_word_space_11: dial network riot fly smooth grass orphan economy record grab
-  light
 bip_39_word_space_12: dial network riot fly smooth grass orphan economy record grab
   light aspect
 bip_39_word_space_2: dial network
 bip_39_word_space_3: dial network riot
-bip_39_word_space_4: dial network riot fly
-bip_39_word_space_5: dial network riot fly smooth
-bip_39_word_space_6: dial network riot fly smooth grass
-bip_39_word_space_7: dial network riot fly smooth grass orphan
-bip_39_word_space_8: dial network riot fly smooth grass orphan economy
-bip_39_word_space_9: dial network riot fly smooth grass orphan economy record
-bip_39_word_underscore_1: dial
-bip_39_word_underscore_10: dial_network_riot_fly_smooth_grass_orphan_economy_record_grab
-bip_39_word_underscore_11: dial_network_riot_fly_smooth_grass_orphan_economy_record_grab_light
 bip_39_word_underscore_12: dial_network_riot_fly_smooth_grass_orphan_economy_record_grab_light_aspect
 bip_39_word_underscore_2: dial_network
 bip_39_word_underscore_3: dial_network_riot
-bip_39_word_underscore_4: dial_network_riot_fly
-bip_39_word_underscore_5: dial_network_riot_fly_smooth
-bip_39_word_underscore_6: dial_network_riot_fly_smooth_grass
-bip_39_word_underscore_7: dial_network_riot_fly_smooth_grass_orphan
-bip_39_word_underscore_8: dial_network_riot_fly_smooth_grass_orphan_economy
-bip_39_word_underscore_9: dial_network_riot_fly_smooth_grass_orphan_economy_record
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

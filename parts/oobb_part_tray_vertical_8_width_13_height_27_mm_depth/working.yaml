@@ -1,68 +1,9 @@
-bip_39_word_dash_1: plate
-bip_39_word_dash_10: plate-wool-dish-hood-organ-rib-exit-grit-drop-base
-bip_39_word_dash_11: plate-wool-dish-hood-organ-rib-exit-grit-drop-base-ride
 bip_39_word_dash_12: plate-wool-dish-hood-organ-rib-exit-grit-drop-base-ride-art
 bip_39_word_dash_2: plate-wool
 bip_39_word_dash_3: plate-wool-dish
-bip_39_word_dash_4: plate-wool-dish-hood
-bip_39_word_dash_5: plate-wool-dish-hood-organ
-bip_39_word_dash_6: plate-wool-dish-hood-organ-rib
-bip_39_word_dash_7: plate-wool-dish-hood-organ-rib-exit
-bip_39_word_dash_8: plate-wool-dish-hood-organ-rib-exit-grit
-bip_39_word_dash_9: plate-wool-dish-hood-organ-rib-exit-grit-drop
-bip_39_word_new_br_1: plate
-bip_39_word_new_br_10: plate<br>wool<br>dish<br>hood<br>organ<br>rib<br>exit<br>grit<br>drop<br>base
-bip_39_word_new_br_11: plate<br>wool<br>dish<br>hood<br>organ<br>rib<br>exit<br>grit<br>drop<br>base<br>ride
 bip_39_word_new_br_12: plate<br>wool<br>dish<br>hood<br>organ<br>rib<br>exit<br>grit<br>drop<br>base<br>ride<br>art
 bip_39_word_new_br_2: plate<br>wool
 bip_39_word_new_br_3: plate<br>wool<br>dish
-bip_39_word_new_br_4: plate<br>wool<br>dish<br>hood
-bip_39_word_new_br_5: plate<br>wool<br>dish<br>hood<br>organ
-bip_39_word_new_br_6: plate<br>wool<br>dish<br>hood<br>organ<br>rib
-bip_39_word_new_br_7: plate<br>wool<br>dish<br>hood<br>organ<br>rib<br>exit
-bip_39_word_new_br_8: plate<br>wool<br>dish<br>hood<br>organ<br>rib<br>exit<br>grit
-bip_39_word_new_br_9: plate<br>wool<br>dish<br>hood<br>organ<br>rib<br>exit<br>grit<br>drop
-bip_39_word_new_line_1: plate
-bip_39_word_new_line_10: 'plate
-
-  wool
-
-  dish
-
-  hood
-
-  organ
-
-  rib
-
-  exit
-
-  grit
-
-  drop
-
-  base'
-bip_39_word_new_line_11: 'plate
-
-  wool
-
-  dish
-
-  hood
-
-  organ
-
-  rib
-
-  exit
-
-  grit
-
-  drop
-
-  base
-
-  ride'
 bip_39_word_new_line_12: 'plate
 
   wool
@@ -94,127 +35,15 @@ bip_39_word_new_line_3: 'plate
   wool
 
   dish'
-bip_39_word_new_line_4: 'plate
-
-  wool
-
-  dish
-
-  hood'
-bip_39_word_new_line_5: 'plate
-
-  wool
-
-  dish
-
-  hood
-
-  organ'
-bip_39_word_new_line_6: 'plate
-
-  wool
-
-  dish
-
-  hood
-
-  organ
-
-  rib'
-bip_39_word_new_line_7: 'plate
-
-  wool
-
-  dish
-
-  hood
-
-  organ
-
-  rib
-
-  exit'
-bip_39_word_new_line_8: 'plate
-
-  wool
-
-  dish
-
-  hood
-
-  organ
-
-  rib
-
-  exit
-
-  grit'
-bip_39_word_new_line_9: 'plate
-
-  wool
-
-  dish
-
-  hood
-
-  organ
-
-  rib
-
-  exit
-
-  grit
-
-  drop'
-bip_39_word_no_space_1: plate
-bip_39_word_no_space_10: platewooldishhoodorganribexitgritdropbase
-bip_39_word_no_space_11: platewooldishhoodorganribexitgritdropbaseride
 bip_39_word_no_space_12: platewooldishhoodorganribexitgritdropbaserideart
 bip_39_word_no_space_2: platewool
 bip_39_word_no_space_3: platewooldish
-bip_39_word_no_space_4: platewooldishhood
-bip_39_word_no_space_5: platewooldishhoodorgan
-bip_39_word_no_space_6: platewooldishhoodorganrib
-bip_39_word_no_space_7: platewooldishhoodorganribexit
-bip_39_word_no_space_8: platewooldishhoodorganribexitgrit
-bip_39_word_no_space_9: platewooldishhoodorganribexitgritdrop
-bip_39_word_space_0:
-- plate
-- wool
-- dish
-- hood
-- organ
-- rib
-- exit
-- grit
-- drop
-- base
-- ride
-- art
-bip_39_word_space_1: plate
-bip_39_word_space_10: plate wool dish hood organ rib exit grit drop base
-bip_39_word_space_11: plate wool dish hood organ rib exit grit drop base ride
 bip_39_word_space_12: plate wool dish hood organ rib exit grit drop base ride art
 bip_39_word_space_2: plate wool
 bip_39_word_space_3: plate wool dish
-bip_39_word_space_4: plate wool dish hood
-bip_39_word_space_5: plate wool dish hood organ
-bip_39_word_space_6: plate wool dish hood organ rib
-bip_39_word_space_7: plate wool dish hood organ rib exit
-bip_39_word_space_8: plate wool dish hood organ rib exit grit
-bip_39_word_space_9: plate wool dish hood organ rib exit grit drop
-bip_39_word_underscore_1: plate
-bip_39_word_underscore_10: plate_wool_dish_hood_organ_rib_exit_grit_drop_base
-bip_39_word_underscore_11: plate_wool_dish_hood_organ_rib_exit_grit_drop_base_ride
 bip_39_word_underscore_12: plate_wool_dish_hood_organ_rib_exit_grit_drop_base_ride_art
 bip_39_word_underscore_2: plate_wool
 bip_39_word_underscore_3: plate_wool_dish
-bip_39_word_underscore_4: plate_wool_dish_hood
-bip_39_word_underscore_5: plate_wool_dish_hood_organ
-bip_39_word_underscore_6: plate_wool_dish_hood_organ_rib
-bip_39_word_underscore_7: plate_wool_dish_hood_organ_rib_exit
-bip_39_word_underscore_8: plate_wool_dish_hood_organ_rib_exit_grit
-bip_39_word_underscore_9: plate_wool_dish_hood_organ_rib_exit_grit_drop
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

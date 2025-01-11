@@ -1,68 +1,9 @@
-bip_39_word_dash_1: furnace
-bip_39_word_dash_10: furnace-denial-dove-man-mail-host-virus-cluster-small-cactus
-bip_39_word_dash_11: furnace-denial-dove-man-mail-host-virus-cluster-small-cactus-borrow
 bip_39_word_dash_12: furnace-denial-dove-man-mail-host-virus-cluster-small-cactus-borrow-absorb
 bip_39_word_dash_2: furnace-denial
 bip_39_word_dash_3: furnace-denial-dove
-bip_39_word_dash_4: furnace-denial-dove-man
-bip_39_word_dash_5: furnace-denial-dove-man-mail
-bip_39_word_dash_6: furnace-denial-dove-man-mail-host
-bip_39_word_dash_7: furnace-denial-dove-man-mail-host-virus
-bip_39_word_dash_8: furnace-denial-dove-man-mail-host-virus-cluster
-bip_39_word_dash_9: furnace-denial-dove-man-mail-host-virus-cluster-small
-bip_39_word_new_br_1: furnace
-bip_39_word_new_br_10: furnace<br>denial<br>dove<br>man<br>mail<br>host<br>virus<br>cluster<br>small<br>cactus
-bip_39_word_new_br_11: furnace<br>denial<br>dove<br>man<br>mail<br>host<br>virus<br>cluster<br>small<br>cactus<br>borrow
 bip_39_word_new_br_12: furnace<br>denial<br>dove<br>man<br>mail<br>host<br>virus<br>cluster<br>small<br>cactus<br>borrow<br>absorb
 bip_39_word_new_br_2: furnace<br>denial
 bip_39_word_new_br_3: furnace<br>denial<br>dove
-bip_39_word_new_br_4: furnace<br>denial<br>dove<br>man
-bip_39_word_new_br_5: furnace<br>denial<br>dove<br>man<br>mail
-bip_39_word_new_br_6: furnace<br>denial<br>dove<br>man<br>mail<br>host
-bip_39_word_new_br_7: furnace<br>denial<br>dove<br>man<br>mail<br>host<br>virus
-bip_39_word_new_br_8: furnace<br>denial<br>dove<br>man<br>mail<br>host<br>virus<br>cluster
-bip_39_word_new_br_9: furnace<br>denial<br>dove<br>man<br>mail<br>host<br>virus<br>cluster<br>small
-bip_39_word_new_line_1: furnace
-bip_39_word_new_line_10: 'furnace
-
-  denial
-
-  dove
-
-  man
-
-  mail
-
-  host
-
-  virus
-
-  cluster
-
-  small
-
-  cactus'
-bip_39_word_new_line_11: 'furnace
-
-  denial
-
-  dove
-
-  man
-
-  mail
-
-  host
-
-  virus
-
-  cluster
-
-  small
-
-  cactus
-
-  borrow'
 bip_39_word_new_line_12: 'furnace
 
   denial
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'furnace
   denial
 
   dove'
-bip_39_word_new_line_4: 'furnace
-
-  denial
-
-  dove
-
-  man'
-bip_39_word_new_line_5: 'furnace
-
-  denial
-
-  dove
-
-  man
-
-  mail'
-bip_39_word_new_line_6: 'furnace
-
-  denial
-
-  dove
-
-  man
-
-  mail
-
-  host'
-bip_39_word_new_line_7: 'furnace
-
-  denial
-
-  dove
-
-  man
-
-  mail
-
-  host
-
-  virus'
-bip_39_word_new_line_8: 'furnace
-
-  denial
-
-  dove
-
-  man
-
-  mail
-
-  host
-
-  virus
-
-  cluster'
-bip_39_word_new_line_9: 'furnace
-
-  denial
-
-  dove
-
-  man
-
-  mail
-
-  host
-
-  virus
-
-  cluster
-
-  small'
-bip_39_word_no_space_1: furnace
-bip_39_word_no_space_10: furnacedenialdovemanmailhostvirusclustersmallcactus
-bip_39_word_no_space_11: furnacedenialdovemanmailhostvirusclustersmallcactusborrow
 bip_39_word_no_space_12: furnacedenialdovemanmailhostvirusclustersmallcactusborrowabsorb
 bip_39_word_no_space_2: furnacedenial
 bip_39_word_no_space_3: furnacedenialdove
-bip_39_word_no_space_4: furnacedenialdoveman
-bip_39_word_no_space_5: furnacedenialdovemanmail
-bip_39_word_no_space_6: furnacedenialdovemanmailhost
-bip_39_word_no_space_7: furnacedenialdovemanmailhostvirus
-bip_39_word_no_space_8: furnacedenialdovemanmailhostviruscluster
-bip_39_word_no_space_9: furnacedenialdovemanmailhostvirusclustersmall
-bip_39_word_space_0:
-- furnace
-- denial
-- dove
-- man
-- mail
-- host
-- virus
-- cluster
-- small
-- cactus
-- borrow
-- absorb
-bip_39_word_space_1: furnace
-bip_39_word_space_10: furnace denial dove man mail host virus cluster small cactus
-bip_39_word_space_11: furnace denial dove man mail host virus cluster small cactus
-  borrow
 bip_39_word_space_12: furnace denial dove man mail host virus cluster small cactus
   borrow absorb
 bip_39_word_space_2: furnace denial
 bip_39_word_space_3: furnace denial dove
-bip_39_word_space_4: furnace denial dove man
-bip_39_word_space_5: furnace denial dove man mail
-bip_39_word_space_6: furnace denial dove man mail host
-bip_39_word_space_7: furnace denial dove man mail host virus
-bip_39_word_space_8: furnace denial dove man mail host virus cluster
-bip_39_word_space_9: furnace denial dove man mail host virus cluster small
-bip_39_word_underscore_1: furnace
-bip_39_word_underscore_10: furnace_denial_dove_man_mail_host_virus_cluster_small_cactus
-bip_39_word_underscore_11: furnace_denial_dove_man_mail_host_virus_cluster_small_cactus_borrow
 bip_39_word_underscore_12: furnace_denial_dove_man_mail_host_virus_cluster_small_cactus_borrow_absorb
 bip_39_word_underscore_2: furnace_denial
 bip_39_word_underscore_3: furnace_denial_dove
-bip_39_word_underscore_4: furnace_denial_dove_man
-bip_39_word_underscore_5: furnace_denial_dove_man_mail
-bip_39_word_underscore_6: furnace_denial_dove_man_mail_host
-bip_39_word_underscore_7: furnace_denial_dove_man_mail_host_virus
-bip_39_word_underscore_8: furnace_denial_dove_man_mail_host_virus_cluster
-bip_39_word_underscore_9: furnace_denial_dove_man_mail_host_virus_cluster_small
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

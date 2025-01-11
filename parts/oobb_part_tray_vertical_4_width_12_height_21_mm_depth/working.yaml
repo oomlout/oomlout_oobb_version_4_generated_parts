@@ -1,68 +1,9 @@
-bip_39_word_dash_1: isolate
-bip_39_word_dash_10: isolate-grass-oxygen-pupil-spread-shine-cost-uphold-word-mercy
-bip_39_word_dash_11: isolate-grass-oxygen-pupil-spread-shine-cost-uphold-word-mercy-increase
 bip_39_word_dash_12: isolate-grass-oxygen-pupil-spread-shine-cost-uphold-word-mercy-increase-almost
 bip_39_word_dash_2: isolate-grass
 bip_39_word_dash_3: isolate-grass-oxygen
-bip_39_word_dash_4: isolate-grass-oxygen-pupil
-bip_39_word_dash_5: isolate-grass-oxygen-pupil-spread
-bip_39_word_dash_6: isolate-grass-oxygen-pupil-spread-shine
-bip_39_word_dash_7: isolate-grass-oxygen-pupil-spread-shine-cost
-bip_39_word_dash_8: isolate-grass-oxygen-pupil-spread-shine-cost-uphold
-bip_39_word_dash_9: isolate-grass-oxygen-pupil-spread-shine-cost-uphold-word
-bip_39_word_new_br_1: isolate
-bip_39_word_new_br_10: isolate<br>grass<br>oxygen<br>pupil<br>spread<br>shine<br>cost<br>uphold<br>word<br>mercy
-bip_39_word_new_br_11: isolate<br>grass<br>oxygen<br>pupil<br>spread<br>shine<br>cost<br>uphold<br>word<br>mercy<br>increase
 bip_39_word_new_br_12: isolate<br>grass<br>oxygen<br>pupil<br>spread<br>shine<br>cost<br>uphold<br>word<br>mercy<br>increase<br>almost
 bip_39_word_new_br_2: isolate<br>grass
 bip_39_word_new_br_3: isolate<br>grass<br>oxygen
-bip_39_word_new_br_4: isolate<br>grass<br>oxygen<br>pupil
-bip_39_word_new_br_5: isolate<br>grass<br>oxygen<br>pupil<br>spread
-bip_39_word_new_br_6: isolate<br>grass<br>oxygen<br>pupil<br>spread<br>shine
-bip_39_word_new_br_7: isolate<br>grass<br>oxygen<br>pupil<br>spread<br>shine<br>cost
-bip_39_word_new_br_8: isolate<br>grass<br>oxygen<br>pupil<br>spread<br>shine<br>cost<br>uphold
-bip_39_word_new_br_9: isolate<br>grass<br>oxygen<br>pupil<br>spread<br>shine<br>cost<br>uphold<br>word
-bip_39_word_new_line_1: isolate
-bip_39_word_new_line_10: 'isolate
-
-  grass
-
-  oxygen
-
-  pupil
-
-  spread
-
-  shine
-
-  cost
-
-  uphold
-
-  word
-
-  mercy'
-bip_39_word_new_line_11: 'isolate
-
-  grass
-
-  oxygen
-
-  pupil
-
-  spread
-
-  shine
-
-  cost
-
-  uphold
-
-  word
-
-  mercy
-
-  increase'
 bip_39_word_new_line_12: 'isolate
 
   grass
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'isolate
   grass
 
   oxygen'
-bip_39_word_new_line_4: 'isolate
-
-  grass
-
-  oxygen
-
-  pupil'
-bip_39_word_new_line_5: 'isolate
-
-  grass
-
-  oxygen
-
-  pupil
-
-  spread'
-bip_39_word_new_line_6: 'isolate
-
-  grass
-
-  oxygen
-
-  pupil
-
-  spread
-
-  shine'
-bip_39_word_new_line_7: 'isolate
-
-  grass
-
-  oxygen
-
-  pupil
-
-  spread
-
-  shine
-
-  cost'
-bip_39_word_new_line_8: 'isolate
-
-  grass
-
-  oxygen
-
-  pupil
-
-  spread
-
-  shine
-
-  cost
-
-  uphold'
-bip_39_word_new_line_9: 'isolate
-
-  grass
-
-  oxygen
-
-  pupil
-
-  spread
-
-  shine
-
-  cost
-
-  uphold
-
-  word'
-bip_39_word_no_space_1: isolate
-bip_39_word_no_space_10: isolategrassoxygenpupilspreadshinecostupholdwordmercy
-bip_39_word_no_space_11: isolategrassoxygenpupilspreadshinecostupholdwordmercyincrease
 bip_39_word_no_space_12: isolategrassoxygenpupilspreadshinecostupholdwordmercyincreasealmost
 bip_39_word_no_space_2: isolategrass
 bip_39_word_no_space_3: isolategrassoxygen
-bip_39_word_no_space_4: isolategrassoxygenpupil
-bip_39_word_no_space_5: isolategrassoxygenpupilspread
-bip_39_word_no_space_6: isolategrassoxygenpupilspreadshine
-bip_39_word_no_space_7: isolategrassoxygenpupilspreadshinecost
-bip_39_word_no_space_8: isolategrassoxygenpupilspreadshinecostuphold
-bip_39_word_no_space_9: isolategrassoxygenpupilspreadshinecostupholdword
-bip_39_word_space_0:
-- isolate
-- grass
-- oxygen
-- pupil
-- spread
-- shine
-- cost
-- uphold
-- word
-- mercy
-- increase
-- almost
-bip_39_word_space_1: isolate
-bip_39_word_space_10: isolate grass oxygen pupil spread shine cost uphold word mercy
-bip_39_word_space_11: isolate grass oxygen pupil spread shine cost uphold word mercy
-  increase
 bip_39_word_space_12: isolate grass oxygen pupil spread shine cost uphold word mercy
   increase almost
 bip_39_word_space_2: isolate grass
 bip_39_word_space_3: isolate grass oxygen
-bip_39_word_space_4: isolate grass oxygen pupil
-bip_39_word_space_5: isolate grass oxygen pupil spread
-bip_39_word_space_6: isolate grass oxygen pupil spread shine
-bip_39_word_space_7: isolate grass oxygen pupil spread shine cost
-bip_39_word_space_8: isolate grass oxygen pupil spread shine cost uphold
-bip_39_word_space_9: isolate grass oxygen pupil spread shine cost uphold word
-bip_39_word_underscore_1: isolate
-bip_39_word_underscore_10: isolate_grass_oxygen_pupil_spread_shine_cost_uphold_word_mercy
-bip_39_word_underscore_11: isolate_grass_oxygen_pupil_spread_shine_cost_uphold_word_mercy_increase
 bip_39_word_underscore_12: isolate_grass_oxygen_pupil_spread_shine_cost_uphold_word_mercy_increase_almost
 bip_39_word_underscore_2: isolate_grass
 bip_39_word_underscore_3: isolate_grass_oxygen
-bip_39_word_underscore_4: isolate_grass_oxygen_pupil
-bip_39_word_underscore_5: isolate_grass_oxygen_pupil_spread
-bip_39_word_underscore_6: isolate_grass_oxygen_pupil_spread_shine
-bip_39_word_underscore_7: isolate_grass_oxygen_pupil_spread_shine_cost
-bip_39_word_underscore_8: isolate_grass_oxygen_pupil_spread_shine_cost_uphold
-bip_39_word_underscore_9: isolate_grass_oxygen_pupil_spread_shine_cost_uphold_word
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: render
-bip_39_word_dash_10: render-lumber-actress-melt-decide-neutral-purity-mirror-curtain-fringe
-bip_39_word_dash_11: render-lumber-actress-melt-decide-neutral-purity-mirror-curtain-fringe-bleak
 bip_39_word_dash_12: render-lumber-actress-melt-decide-neutral-purity-mirror-curtain-fringe-bleak-artwork
 bip_39_word_dash_2: render-lumber
 bip_39_word_dash_3: render-lumber-actress
-bip_39_word_dash_4: render-lumber-actress-melt
-bip_39_word_dash_5: render-lumber-actress-melt-decide
-bip_39_word_dash_6: render-lumber-actress-melt-decide-neutral
-bip_39_word_dash_7: render-lumber-actress-melt-decide-neutral-purity
-bip_39_word_dash_8: render-lumber-actress-melt-decide-neutral-purity-mirror
-bip_39_word_dash_9: render-lumber-actress-melt-decide-neutral-purity-mirror-curtain
-bip_39_word_new_br_1: render
-bip_39_word_new_br_10: render<br>lumber<br>actress<br>melt<br>decide<br>neutral<br>purity<br>mirror<br>curtain<br>fringe
-bip_39_word_new_br_11: render<br>lumber<br>actress<br>melt<br>decide<br>neutral<br>purity<br>mirror<br>curtain<br>fringe<br>bleak
 bip_39_word_new_br_12: render<br>lumber<br>actress<br>melt<br>decide<br>neutral<br>purity<br>mirror<br>curtain<br>fringe<br>bleak<br>artwork
 bip_39_word_new_br_2: render<br>lumber
 bip_39_word_new_br_3: render<br>lumber<br>actress
-bip_39_word_new_br_4: render<br>lumber<br>actress<br>melt
-bip_39_word_new_br_5: render<br>lumber<br>actress<br>melt<br>decide
-bip_39_word_new_br_6: render<br>lumber<br>actress<br>melt<br>decide<br>neutral
-bip_39_word_new_br_7: render<br>lumber<br>actress<br>melt<br>decide<br>neutral<br>purity
-bip_39_word_new_br_8: render<br>lumber<br>actress<br>melt<br>decide<br>neutral<br>purity<br>mirror
-bip_39_word_new_br_9: render<br>lumber<br>actress<br>melt<br>decide<br>neutral<br>purity<br>mirror<br>curtain
-bip_39_word_new_line_1: render
-bip_39_word_new_line_10: 'render
-
-  lumber
-
-  actress
-
-  melt
-
-  decide
-
-  neutral
-
-  purity
-
-  mirror
-
-  curtain
-
-  fringe'
-bip_39_word_new_line_11: 'render
-
-  lumber
-
-  actress
-
-  melt
-
-  decide
-
-  neutral
-
-  purity
-
-  mirror
-
-  curtain
-
-  fringe
-
-  bleak'
 bip_39_word_new_line_12: 'render
 
   lumber
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'render
   lumber
 
   actress'
-bip_39_word_new_line_4: 'render
-
-  lumber
-
-  actress
-
-  melt'
-bip_39_word_new_line_5: 'render
-
-  lumber
-
-  actress
-
-  melt
-
-  decide'
-bip_39_word_new_line_6: 'render
-
-  lumber
-
-  actress
-
-  melt
-
-  decide
-
-  neutral'
-bip_39_word_new_line_7: 'render
-
-  lumber
-
-  actress
-
-  melt
-
-  decide
-
-  neutral
-
-  purity'
-bip_39_word_new_line_8: 'render
-
-  lumber
-
-  actress
-
-  melt
-
-  decide
-
-  neutral
-
-  purity
-
-  mirror'
-bip_39_word_new_line_9: 'render
-
-  lumber
-
-  actress
-
-  melt
-
-  decide
-
-  neutral
-
-  purity
-
-  mirror
-
-  curtain'
-bip_39_word_no_space_1: render
-bip_39_word_no_space_10: renderlumberactressmeltdecideneutralpuritymirrorcurtainfringe
-bip_39_word_no_space_11: renderlumberactressmeltdecideneutralpuritymirrorcurtainfringebleak
 bip_39_word_no_space_12: renderlumberactressmeltdecideneutralpuritymirrorcurtainfringebleakartwork
 bip_39_word_no_space_2: renderlumber
 bip_39_word_no_space_3: renderlumberactress
-bip_39_word_no_space_4: renderlumberactressmelt
-bip_39_word_no_space_5: renderlumberactressmeltdecide
-bip_39_word_no_space_6: renderlumberactressmeltdecideneutral
-bip_39_word_no_space_7: renderlumberactressmeltdecideneutralpurity
-bip_39_word_no_space_8: renderlumberactressmeltdecideneutralpuritymirror
-bip_39_word_no_space_9: renderlumberactressmeltdecideneutralpuritymirrorcurtain
-bip_39_word_space_0:
-- render
-- lumber
-- actress
-- melt
-- decide
-- neutral
-- purity
-- mirror
-- curtain
-- fringe
-- bleak
-- artwork
-bip_39_word_space_1: render
-bip_39_word_space_10: render lumber actress melt decide neutral purity mirror curtain
-  fringe
-bip_39_word_space_11: render lumber actress melt decide neutral purity mirror curtain
-  fringe bleak
 bip_39_word_space_12: render lumber actress melt decide neutral purity mirror curtain
   fringe bleak artwork
 bip_39_word_space_2: render lumber
 bip_39_word_space_3: render lumber actress
-bip_39_word_space_4: render lumber actress melt
-bip_39_word_space_5: render lumber actress melt decide
-bip_39_word_space_6: render lumber actress melt decide neutral
-bip_39_word_space_7: render lumber actress melt decide neutral purity
-bip_39_word_space_8: render lumber actress melt decide neutral purity mirror
-bip_39_word_space_9: render lumber actress melt decide neutral purity mirror curtain
-bip_39_word_underscore_1: render
-bip_39_word_underscore_10: render_lumber_actress_melt_decide_neutral_purity_mirror_curtain_fringe
-bip_39_word_underscore_11: render_lumber_actress_melt_decide_neutral_purity_mirror_curtain_fringe_bleak
 bip_39_word_underscore_12: render_lumber_actress_melt_decide_neutral_purity_mirror_curtain_fringe_bleak_artwork
 bip_39_word_underscore_2: render_lumber
 bip_39_word_underscore_3: render_lumber_actress
-bip_39_word_underscore_4: render_lumber_actress_melt
-bip_39_word_underscore_5: render_lumber_actress_melt_decide
-bip_39_word_underscore_6: render_lumber_actress_melt_decide_neutral
-bip_39_word_underscore_7: render_lumber_actress_melt_decide_neutral_purity
-bip_39_word_underscore_8: render_lumber_actress_melt_decide_neutral_purity_mirror
-bip_39_word_underscore_9: render_lumber_actress_melt_decide_neutral_purity_mirror_curtain
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

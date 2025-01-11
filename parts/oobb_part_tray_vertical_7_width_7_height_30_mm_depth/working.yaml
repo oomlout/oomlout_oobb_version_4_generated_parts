@@ -1,68 +1,9 @@
-bip_39_word_dash_1: loop
-bip_39_word_dash_10: loop-deliver-twenty-insect-flip-excuse-catalog-choice-act-bunker
-bip_39_word_dash_11: loop-deliver-twenty-insect-flip-excuse-catalog-choice-act-bunker-layer
 bip_39_word_dash_12: loop-deliver-twenty-insect-flip-excuse-catalog-choice-act-bunker-layer-acid
 bip_39_word_dash_2: loop-deliver
 bip_39_word_dash_3: loop-deliver-twenty
-bip_39_word_dash_4: loop-deliver-twenty-insect
-bip_39_word_dash_5: loop-deliver-twenty-insect-flip
-bip_39_word_dash_6: loop-deliver-twenty-insect-flip-excuse
-bip_39_word_dash_7: loop-deliver-twenty-insect-flip-excuse-catalog
-bip_39_word_dash_8: loop-deliver-twenty-insect-flip-excuse-catalog-choice
-bip_39_word_dash_9: loop-deliver-twenty-insect-flip-excuse-catalog-choice-act
-bip_39_word_new_br_1: loop
-bip_39_word_new_br_10: loop<br>deliver<br>twenty<br>insect<br>flip<br>excuse<br>catalog<br>choice<br>act<br>bunker
-bip_39_word_new_br_11: loop<br>deliver<br>twenty<br>insect<br>flip<br>excuse<br>catalog<br>choice<br>act<br>bunker<br>layer
 bip_39_word_new_br_12: loop<br>deliver<br>twenty<br>insect<br>flip<br>excuse<br>catalog<br>choice<br>act<br>bunker<br>layer<br>acid
 bip_39_word_new_br_2: loop<br>deliver
 bip_39_word_new_br_3: loop<br>deliver<br>twenty
-bip_39_word_new_br_4: loop<br>deliver<br>twenty<br>insect
-bip_39_word_new_br_5: loop<br>deliver<br>twenty<br>insect<br>flip
-bip_39_word_new_br_6: loop<br>deliver<br>twenty<br>insect<br>flip<br>excuse
-bip_39_word_new_br_7: loop<br>deliver<br>twenty<br>insect<br>flip<br>excuse<br>catalog
-bip_39_word_new_br_8: loop<br>deliver<br>twenty<br>insect<br>flip<br>excuse<br>catalog<br>choice
-bip_39_word_new_br_9: loop<br>deliver<br>twenty<br>insect<br>flip<br>excuse<br>catalog<br>choice<br>act
-bip_39_word_new_line_1: loop
-bip_39_word_new_line_10: 'loop
-
-  deliver
-
-  twenty
-
-  insect
-
-  flip
-
-  excuse
-
-  catalog
-
-  choice
-
-  act
-
-  bunker'
-bip_39_word_new_line_11: 'loop
-
-  deliver
-
-  twenty
-
-  insect
-
-  flip
-
-  excuse
-
-  catalog
-
-  choice
-
-  act
-
-  bunker
-
-  layer'
 bip_39_word_new_line_12: 'loop
 
   deliver
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'loop
   deliver
 
   twenty'
-bip_39_word_new_line_4: 'loop
-
-  deliver
-
-  twenty
-
-  insect'
-bip_39_word_new_line_5: 'loop
-
-  deliver
-
-  twenty
-
-  insect
-
-  flip'
-bip_39_word_new_line_6: 'loop
-
-  deliver
-
-  twenty
-
-  insect
-
-  flip
-
-  excuse'
-bip_39_word_new_line_7: 'loop
-
-  deliver
-
-  twenty
-
-  insect
-
-  flip
-
-  excuse
-
-  catalog'
-bip_39_word_new_line_8: 'loop
-
-  deliver
-
-  twenty
-
-  insect
-
-  flip
-
-  excuse
-
-  catalog
-
-  choice'
-bip_39_word_new_line_9: 'loop
-
-  deliver
-
-  twenty
-
-  insect
-
-  flip
-
-  excuse
-
-  catalog
-
-  choice
-
-  act'
-bip_39_word_no_space_1: loop
-bip_39_word_no_space_10: loopdelivertwentyinsectflipexcusecatalogchoiceactbunker
-bip_39_word_no_space_11: loopdelivertwentyinsectflipexcusecatalogchoiceactbunkerlayer
 bip_39_word_no_space_12: loopdelivertwentyinsectflipexcusecatalogchoiceactbunkerlayeracid
 bip_39_word_no_space_2: loopdeliver
 bip_39_word_no_space_3: loopdelivertwenty
-bip_39_word_no_space_4: loopdelivertwentyinsect
-bip_39_word_no_space_5: loopdelivertwentyinsectflip
-bip_39_word_no_space_6: loopdelivertwentyinsectflipexcuse
-bip_39_word_no_space_7: loopdelivertwentyinsectflipexcusecatalog
-bip_39_word_no_space_8: loopdelivertwentyinsectflipexcusecatalogchoice
-bip_39_word_no_space_9: loopdelivertwentyinsectflipexcusecatalogchoiceact
-bip_39_word_space_0:
-- loop
-- deliver
-- twenty
-- insect
-- flip
-- excuse
-- catalog
-- choice
-- act
-- bunker
-- layer
-- acid
-bip_39_word_space_1: loop
-bip_39_word_space_10: loop deliver twenty insect flip excuse catalog choice act bunker
-bip_39_word_space_11: loop deliver twenty insect flip excuse catalog choice act bunker
-  layer
 bip_39_word_space_12: loop deliver twenty insect flip excuse catalog choice act bunker
   layer acid
 bip_39_word_space_2: loop deliver
 bip_39_word_space_3: loop deliver twenty
-bip_39_word_space_4: loop deliver twenty insect
-bip_39_word_space_5: loop deliver twenty insect flip
-bip_39_word_space_6: loop deliver twenty insect flip excuse
-bip_39_word_space_7: loop deliver twenty insect flip excuse catalog
-bip_39_word_space_8: loop deliver twenty insect flip excuse catalog choice
-bip_39_word_space_9: loop deliver twenty insect flip excuse catalog choice act
-bip_39_word_underscore_1: loop
-bip_39_word_underscore_10: loop_deliver_twenty_insect_flip_excuse_catalog_choice_act_bunker
-bip_39_word_underscore_11: loop_deliver_twenty_insect_flip_excuse_catalog_choice_act_bunker_layer
 bip_39_word_underscore_12: loop_deliver_twenty_insect_flip_excuse_catalog_choice_act_bunker_layer_acid
 bip_39_word_underscore_2: loop_deliver
 bip_39_word_underscore_3: loop_deliver_twenty
-bip_39_word_underscore_4: loop_deliver_twenty_insect
-bip_39_word_underscore_5: loop_deliver_twenty_insect_flip
-bip_39_word_underscore_6: loop_deliver_twenty_insect_flip_excuse
-bip_39_word_underscore_7: loop_deliver_twenty_insect_flip_excuse_catalog
-bip_39_word_underscore_8: loop_deliver_twenty_insect_flip_excuse_catalog_choice
-bip_39_word_underscore_9: loop_deliver_twenty_insect_flip_excuse_catalog_choice_act
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

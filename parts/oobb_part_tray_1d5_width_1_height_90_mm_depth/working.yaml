@@ -1,68 +1,9 @@
-bip_39_word_dash_1: flock
-bip_39_word_dash_10: flock-cricket-swallow-cat-battle-trophy-guilt-grass-actress-gym
-bip_39_word_dash_11: flock-cricket-swallow-cat-battle-trophy-guilt-grass-actress-gym-glove
 bip_39_word_dash_12: flock-cricket-swallow-cat-battle-trophy-guilt-grass-actress-gym-glove-attract
 bip_39_word_dash_2: flock-cricket
 bip_39_word_dash_3: flock-cricket-swallow
-bip_39_word_dash_4: flock-cricket-swallow-cat
-bip_39_word_dash_5: flock-cricket-swallow-cat-battle
-bip_39_word_dash_6: flock-cricket-swallow-cat-battle-trophy
-bip_39_word_dash_7: flock-cricket-swallow-cat-battle-trophy-guilt
-bip_39_word_dash_8: flock-cricket-swallow-cat-battle-trophy-guilt-grass
-bip_39_word_dash_9: flock-cricket-swallow-cat-battle-trophy-guilt-grass-actress
-bip_39_word_new_br_1: flock
-bip_39_word_new_br_10: flock<br>cricket<br>swallow<br>cat<br>battle<br>trophy<br>guilt<br>grass<br>actress<br>gym
-bip_39_word_new_br_11: flock<br>cricket<br>swallow<br>cat<br>battle<br>trophy<br>guilt<br>grass<br>actress<br>gym<br>glove
 bip_39_word_new_br_12: flock<br>cricket<br>swallow<br>cat<br>battle<br>trophy<br>guilt<br>grass<br>actress<br>gym<br>glove<br>attract
 bip_39_word_new_br_2: flock<br>cricket
 bip_39_word_new_br_3: flock<br>cricket<br>swallow
-bip_39_word_new_br_4: flock<br>cricket<br>swallow<br>cat
-bip_39_word_new_br_5: flock<br>cricket<br>swallow<br>cat<br>battle
-bip_39_word_new_br_6: flock<br>cricket<br>swallow<br>cat<br>battle<br>trophy
-bip_39_word_new_br_7: flock<br>cricket<br>swallow<br>cat<br>battle<br>trophy<br>guilt
-bip_39_word_new_br_8: flock<br>cricket<br>swallow<br>cat<br>battle<br>trophy<br>guilt<br>grass
-bip_39_word_new_br_9: flock<br>cricket<br>swallow<br>cat<br>battle<br>trophy<br>guilt<br>grass<br>actress
-bip_39_word_new_line_1: flock
-bip_39_word_new_line_10: 'flock
-
-  cricket
-
-  swallow
-
-  cat
-
-  battle
-
-  trophy
-
-  guilt
-
-  grass
-
-  actress
-
-  gym'
-bip_39_word_new_line_11: 'flock
-
-  cricket
-
-  swallow
-
-  cat
-
-  battle
-
-  trophy
-
-  guilt
-
-  grass
-
-  actress
-
-  gym
-
-  glove'
 bip_39_word_new_line_12: 'flock
 
   cricket
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'flock
   cricket
 
   swallow'
-bip_39_word_new_line_4: 'flock
-
-  cricket
-
-  swallow
-
-  cat'
-bip_39_word_new_line_5: 'flock
-
-  cricket
-
-  swallow
-
-  cat
-
-  battle'
-bip_39_word_new_line_6: 'flock
-
-  cricket
-
-  swallow
-
-  cat
-
-  battle
-
-  trophy'
-bip_39_word_new_line_7: 'flock
-
-  cricket
-
-  swallow
-
-  cat
-
-  battle
-
-  trophy
-
-  guilt'
-bip_39_word_new_line_8: 'flock
-
-  cricket
-
-  swallow
-
-  cat
-
-  battle
-
-  trophy
-
-  guilt
-
-  grass'
-bip_39_word_new_line_9: 'flock
-
-  cricket
-
-  swallow
-
-  cat
-
-  battle
-
-  trophy
-
-  guilt
-
-  grass
-
-  actress'
-bip_39_word_no_space_1: flock
-bip_39_word_no_space_10: flockcricketswallowcatbattletrophyguiltgrassactressgym
-bip_39_word_no_space_11: flockcricketswallowcatbattletrophyguiltgrassactressgymglove
 bip_39_word_no_space_12: flockcricketswallowcatbattletrophyguiltgrassactressgymgloveattract
 bip_39_word_no_space_2: flockcricket
 bip_39_word_no_space_3: flockcricketswallow
-bip_39_word_no_space_4: flockcricketswallowcat
-bip_39_word_no_space_5: flockcricketswallowcatbattle
-bip_39_word_no_space_6: flockcricketswallowcatbattletrophy
-bip_39_word_no_space_7: flockcricketswallowcatbattletrophyguilt
-bip_39_word_no_space_8: flockcricketswallowcatbattletrophyguiltgrass
-bip_39_word_no_space_9: flockcricketswallowcatbattletrophyguiltgrassactress
-bip_39_word_space_0:
-- flock
-- cricket
-- swallow
-- cat
-- battle
-- trophy
-- guilt
-- grass
-- actress
-- gym
-- glove
-- attract
-bip_39_word_space_1: flock
-bip_39_word_space_10: flock cricket swallow cat battle trophy guilt grass actress
-  gym
-bip_39_word_space_11: flock cricket swallow cat battle trophy guilt grass actress
-  gym glove
 bip_39_word_space_12: flock cricket swallow cat battle trophy guilt grass actress
   gym glove attract
 bip_39_word_space_2: flock cricket
 bip_39_word_space_3: flock cricket swallow
-bip_39_word_space_4: flock cricket swallow cat
-bip_39_word_space_5: flock cricket swallow cat battle
-bip_39_word_space_6: flock cricket swallow cat battle trophy
-bip_39_word_space_7: flock cricket swallow cat battle trophy guilt
-bip_39_word_space_8: flock cricket swallow cat battle trophy guilt grass
-bip_39_word_space_9: flock cricket swallow cat battle trophy guilt grass actress
-bip_39_word_underscore_1: flock
-bip_39_word_underscore_10: flock_cricket_swallow_cat_battle_trophy_guilt_grass_actress_gym
-bip_39_word_underscore_11: flock_cricket_swallow_cat_battle_trophy_guilt_grass_actress_gym_glove
 bip_39_word_underscore_12: flock_cricket_swallow_cat_battle_trophy_guilt_grass_actress_gym_glove_attract
 bip_39_word_underscore_2: flock_cricket
 bip_39_word_underscore_3: flock_cricket_swallow
-bip_39_word_underscore_4: flock_cricket_swallow_cat
-bip_39_word_underscore_5: flock_cricket_swallow_cat_battle
-bip_39_word_underscore_6: flock_cricket_swallow_cat_battle_trophy
-bip_39_word_underscore_7: flock_cricket_swallow_cat_battle_trophy_guilt
-bip_39_word_underscore_8: flock_cricket_swallow_cat_battle_trophy_guilt_grass
-bip_39_word_underscore_9: flock_cricket_swallow_cat_battle_trophy_guilt_grass_actress
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

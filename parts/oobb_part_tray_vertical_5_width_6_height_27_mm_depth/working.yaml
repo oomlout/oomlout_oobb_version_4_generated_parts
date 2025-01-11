@@ -1,68 +1,9 @@
-bip_39_word_dash_1: mesh
-bip_39_word_dash_10: mesh-mouse-point-sock-purpose-afraid-fiscal-pigeon-favorite-hedgehog
-bip_39_word_dash_11: mesh-mouse-point-sock-purpose-afraid-fiscal-pigeon-favorite-hedgehog-ostrich
 bip_39_word_dash_12: mesh-mouse-point-sock-purpose-afraid-fiscal-pigeon-favorite-hedgehog-ostrich-able
 bip_39_word_dash_2: mesh-mouse
 bip_39_word_dash_3: mesh-mouse-point
-bip_39_word_dash_4: mesh-mouse-point-sock
-bip_39_word_dash_5: mesh-mouse-point-sock-purpose
-bip_39_word_dash_6: mesh-mouse-point-sock-purpose-afraid
-bip_39_word_dash_7: mesh-mouse-point-sock-purpose-afraid-fiscal
-bip_39_word_dash_8: mesh-mouse-point-sock-purpose-afraid-fiscal-pigeon
-bip_39_word_dash_9: mesh-mouse-point-sock-purpose-afraid-fiscal-pigeon-favorite
-bip_39_word_new_br_1: mesh
-bip_39_word_new_br_10: mesh<br>mouse<br>point<br>sock<br>purpose<br>afraid<br>fiscal<br>pigeon<br>favorite<br>hedgehog
-bip_39_word_new_br_11: mesh<br>mouse<br>point<br>sock<br>purpose<br>afraid<br>fiscal<br>pigeon<br>favorite<br>hedgehog<br>ostrich
 bip_39_word_new_br_12: mesh<br>mouse<br>point<br>sock<br>purpose<br>afraid<br>fiscal<br>pigeon<br>favorite<br>hedgehog<br>ostrich<br>able
 bip_39_word_new_br_2: mesh<br>mouse
 bip_39_word_new_br_3: mesh<br>mouse<br>point
-bip_39_word_new_br_4: mesh<br>mouse<br>point<br>sock
-bip_39_word_new_br_5: mesh<br>mouse<br>point<br>sock<br>purpose
-bip_39_word_new_br_6: mesh<br>mouse<br>point<br>sock<br>purpose<br>afraid
-bip_39_word_new_br_7: mesh<br>mouse<br>point<br>sock<br>purpose<br>afraid<br>fiscal
-bip_39_word_new_br_8: mesh<br>mouse<br>point<br>sock<br>purpose<br>afraid<br>fiscal<br>pigeon
-bip_39_word_new_br_9: mesh<br>mouse<br>point<br>sock<br>purpose<br>afraid<br>fiscal<br>pigeon<br>favorite
-bip_39_word_new_line_1: mesh
-bip_39_word_new_line_10: 'mesh
-
-  mouse
-
-  point
-
-  sock
-
-  purpose
-
-  afraid
-
-  fiscal
-
-  pigeon
-
-  favorite
-
-  hedgehog'
-bip_39_word_new_line_11: 'mesh
-
-  mouse
-
-  point
-
-  sock
-
-  purpose
-
-  afraid
-
-  fiscal
-
-  pigeon
-
-  favorite
-
-  hedgehog
-
-  ostrich'
 bip_39_word_new_line_12: 'mesh
 
   mouse
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'mesh
   mouse
 
   point'
-bip_39_word_new_line_4: 'mesh
-
-  mouse
-
-  point
-
-  sock'
-bip_39_word_new_line_5: 'mesh
-
-  mouse
-
-  point
-
-  sock
-
-  purpose'
-bip_39_word_new_line_6: 'mesh
-
-  mouse
-
-  point
-
-  sock
-
-  purpose
-
-  afraid'
-bip_39_word_new_line_7: 'mesh
-
-  mouse
-
-  point
-
-  sock
-
-  purpose
-
-  afraid
-
-  fiscal'
-bip_39_word_new_line_8: 'mesh
-
-  mouse
-
-  point
-
-  sock
-
-  purpose
-
-  afraid
-
-  fiscal
-
-  pigeon'
-bip_39_word_new_line_9: 'mesh
-
-  mouse
-
-  point
-
-  sock
-
-  purpose
-
-  afraid
-
-  fiscal
-
-  pigeon
-
-  favorite'
-bip_39_word_no_space_1: mesh
-bip_39_word_no_space_10: meshmousepointsockpurposeafraidfiscalpigeonfavoritehedgehog
-bip_39_word_no_space_11: meshmousepointsockpurposeafraidfiscalpigeonfavoritehedgehogostrich
 bip_39_word_no_space_12: meshmousepointsockpurposeafraidfiscalpigeonfavoritehedgehogostrichable
 bip_39_word_no_space_2: meshmouse
 bip_39_word_no_space_3: meshmousepoint
-bip_39_word_no_space_4: meshmousepointsock
-bip_39_word_no_space_5: meshmousepointsockpurpose
-bip_39_word_no_space_6: meshmousepointsockpurposeafraid
-bip_39_word_no_space_7: meshmousepointsockpurposeafraidfiscal
-bip_39_word_no_space_8: meshmousepointsockpurposeafraidfiscalpigeon
-bip_39_word_no_space_9: meshmousepointsockpurposeafraidfiscalpigeonfavorite
-bip_39_word_space_0:
-- mesh
-- mouse
-- point
-- sock
-- purpose
-- afraid
-- fiscal
-- pigeon
-- favorite
-- hedgehog
-- ostrich
-- able
-bip_39_word_space_1: mesh
-bip_39_word_space_10: mesh mouse point sock purpose afraid fiscal pigeon favorite
-  hedgehog
-bip_39_word_space_11: mesh mouse point sock purpose afraid fiscal pigeon favorite
-  hedgehog ostrich
 bip_39_word_space_12: mesh mouse point sock purpose afraid fiscal pigeon favorite
   hedgehog ostrich able
 bip_39_word_space_2: mesh mouse
 bip_39_word_space_3: mesh mouse point
-bip_39_word_space_4: mesh mouse point sock
-bip_39_word_space_5: mesh mouse point sock purpose
-bip_39_word_space_6: mesh mouse point sock purpose afraid
-bip_39_word_space_7: mesh mouse point sock purpose afraid fiscal
-bip_39_word_space_8: mesh mouse point sock purpose afraid fiscal pigeon
-bip_39_word_space_9: mesh mouse point sock purpose afraid fiscal pigeon favorite
-bip_39_word_underscore_1: mesh
-bip_39_word_underscore_10: mesh_mouse_point_sock_purpose_afraid_fiscal_pigeon_favorite_hedgehog
-bip_39_word_underscore_11: mesh_mouse_point_sock_purpose_afraid_fiscal_pigeon_favorite_hedgehog_ostrich
 bip_39_word_underscore_12: mesh_mouse_point_sock_purpose_afraid_fiscal_pigeon_favorite_hedgehog_ostrich_able
 bip_39_word_underscore_2: mesh_mouse
 bip_39_word_underscore_3: mesh_mouse_point
-bip_39_word_underscore_4: mesh_mouse_point_sock
-bip_39_word_underscore_5: mesh_mouse_point_sock_purpose
-bip_39_word_underscore_6: mesh_mouse_point_sock_purpose_afraid
-bip_39_word_underscore_7: mesh_mouse_point_sock_purpose_afraid_fiscal
-bip_39_word_underscore_8: mesh_mouse_point_sock_purpose_afraid_fiscal_pigeon
-bip_39_word_underscore_9: mesh_mouse_point_sock_purpose_afraid_fiscal_pigeon_favorite
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

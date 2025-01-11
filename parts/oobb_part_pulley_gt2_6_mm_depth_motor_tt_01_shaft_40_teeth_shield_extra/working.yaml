@@ -1,68 +1,9 @@
-bip_39_word_dash_1: silver
-bip_39_word_dash_10: silver-life-crystal-ivory-hill-carry-firm-zero-fatal-blue
-bip_39_word_dash_11: silver-life-crystal-ivory-hill-carry-firm-zero-fatal-blue-damage
 bip_39_word_dash_12: silver-life-crystal-ivory-hill-carry-firm-zero-fatal-blue-damage-aunt
 bip_39_word_dash_2: silver-life
 bip_39_word_dash_3: silver-life-crystal
-bip_39_word_dash_4: silver-life-crystal-ivory
-bip_39_word_dash_5: silver-life-crystal-ivory-hill
-bip_39_word_dash_6: silver-life-crystal-ivory-hill-carry
-bip_39_word_dash_7: silver-life-crystal-ivory-hill-carry-firm
-bip_39_word_dash_8: silver-life-crystal-ivory-hill-carry-firm-zero
-bip_39_word_dash_9: silver-life-crystal-ivory-hill-carry-firm-zero-fatal
-bip_39_word_new_br_1: silver
-bip_39_word_new_br_10: silver<br>life<br>crystal<br>ivory<br>hill<br>carry<br>firm<br>zero<br>fatal<br>blue
-bip_39_word_new_br_11: silver<br>life<br>crystal<br>ivory<br>hill<br>carry<br>firm<br>zero<br>fatal<br>blue<br>damage
 bip_39_word_new_br_12: silver<br>life<br>crystal<br>ivory<br>hill<br>carry<br>firm<br>zero<br>fatal<br>blue<br>damage<br>aunt
 bip_39_word_new_br_2: silver<br>life
 bip_39_word_new_br_3: silver<br>life<br>crystal
-bip_39_word_new_br_4: silver<br>life<br>crystal<br>ivory
-bip_39_word_new_br_5: silver<br>life<br>crystal<br>ivory<br>hill
-bip_39_word_new_br_6: silver<br>life<br>crystal<br>ivory<br>hill<br>carry
-bip_39_word_new_br_7: silver<br>life<br>crystal<br>ivory<br>hill<br>carry<br>firm
-bip_39_word_new_br_8: silver<br>life<br>crystal<br>ivory<br>hill<br>carry<br>firm<br>zero
-bip_39_word_new_br_9: silver<br>life<br>crystal<br>ivory<br>hill<br>carry<br>firm<br>zero<br>fatal
-bip_39_word_new_line_1: silver
-bip_39_word_new_line_10: 'silver
-
-  life
-
-  crystal
-
-  ivory
-
-  hill
-
-  carry
-
-  firm
-
-  zero
-
-  fatal
-
-  blue'
-bip_39_word_new_line_11: 'silver
-
-  life
-
-  crystal
-
-  ivory
-
-  hill
-
-  carry
-
-  firm
-
-  zero
-
-  fatal
-
-  blue
-
-  damage'
 bip_39_word_new_line_12: 'silver
 
   life
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'silver
   life
 
   crystal'
-bip_39_word_new_line_4: 'silver
-
-  life
-
-  crystal
-
-  ivory'
-bip_39_word_new_line_5: 'silver
-
-  life
-
-  crystal
-
-  ivory
-
-  hill'
-bip_39_word_new_line_6: 'silver
-
-  life
-
-  crystal
-
-  ivory
-
-  hill
-
-  carry'
-bip_39_word_new_line_7: 'silver
-
-  life
-
-  crystal
-
-  ivory
-
-  hill
-
-  carry
-
-  firm'
-bip_39_word_new_line_8: 'silver
-
-  life
-
-  crystal
-
-  ivory
-
-  hill
-
-  carry
-
-  firm
-
-  zero'
-bip_39_word_new_line_9: 'silver
-
-  life
-
-  crystal
-
-  ivory
-
-  hill
-
-  carry
-
-  firm
-
-  zero
-
-  fatal'
-bip_39_word_no_space_1: silver
-bip_39_word_no_space_10: silverlifecrystalivoryhillcarryfirmzerofatalblue
-bip_39_word_no_space_11: silverlifecrystalivoryhillcarryfirmzerofatalbluedamage
 bip_39_word_no_space_12: silverlifecrystalivoryhillcarryfirmzerofatalbluedamageaunt
 bip_39_word_no_space_2: silverlife
 bip_39_word_no_space_3: silverlifecrystal
-bip_39_word_no_space_4: silverlifecrystalivory
-bip_39_word_no_space_5: silverlifecrystalivoryhill
-bip_39_word_no_space_6: silverlifecrystalivoryhillcarry
-bip_39_word_no_space_7: silverlifecrystalivoryhillcarryfirm
-bip_39_word_no_space_8: silverlifecrystalivoryhillcarryfirmzero
-bip_39_word_no_space_9: silverlifecrystalivoryhillcarryfirmzerofatal
-bip_39_word_space_0:
-- silver
-- life
-- crystal
-- ivory
-- hill
-- carry
-- firm
-- zero
-- fatal
-- blue
-- damage
-- aunt
-bip_39_word_space_1: silver
-bip_39_word_space_10: silver life crystal ivory hill carry firm zero fatal blue
-bip_39_word_space_11: silver life crystal ivory hill carry firm zero fatal blue damage
 bip_39_word_space_12: silver life crystal ivory hill carry firm zero fatal blue damage
   aunt
 bip_39_word_space_2: silver life
 bip_39_word_space_3: silver life crystal
-bip_39_word_space_4: silver life crystal ivory
-bip_39_word_space_5: silver life crystal ivory hill
-bip_39_word_space_6: silver life crystal ivory hill carry
-bip_39_word_space_7: silver life crystal ivory hill carry firm
-bip_39_word_space_8: silver life crystal ivory hill carry firm zero
-bip_39_word_space_9: silver life crystal ivory hill carry firm zero fatal
-bip_39_word_underscore_1: silver
-bip_39_word_underscore_10: silver_life_crystal_ivory_hill_carry_firm_zero_fatal_blue
-bip_39_word_underscore_11: silver_life_crystal_ivory_hill_carry_firm_zero_fatal_blue_damage
 bip_39_word_underscore_12: silver_life_crystal_ivory_hill_carry_firm_zero_fatal_blue_damage_aunt
 bip_39_word_underscore_2: silver_life
 bip_39_word_underscore_3: silver_life_crystal
-bip_39_word_underscore_4: silver_life_crystal_ivory
-bip_39_word_underscore_5: silver_life_crystal_ivory_hill
-bip_39_word_underscore_6: silver_life_crystal_ivory_hill_carry
-bip_39_word_underscore_7: silver_life_crystal_ivory_hill_carry_firm
-bip_39_word_underscore_8: silver_life_crystal_ivory_hill_carry_firm_zero
-bip_39_word_underscore_9: silver_life_crystal_ivory_hill_carry_firm_zero_fatal
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

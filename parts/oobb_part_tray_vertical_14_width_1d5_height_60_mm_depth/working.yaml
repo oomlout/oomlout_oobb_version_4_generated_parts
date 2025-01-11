@@ -1,68 +1,9 @@
-bip_39_word_dash_1: oak
-bip_39_word_dash_10: oak-rent-corn-lucky-custom-dress-rely-vocal-credit-misery
-bip_39_word_dash_11: oak-rent-corn-lucky-custom-dress-rely-vocal-credit-misery-expect
 bip_39_word_dash_12: oak-rent-corn-lucky-custom-dress-rely-vocal-credit-misery-expect-alter
 bip_39_word_dash_2: oak-rent
 bip_39_word_dash_3: oak-rent-corn
-bip_39_word_dash_4: oak-rent-corn-lucky
-bip_39_word_dash_5: oak-rent-corn-lucky-custom
-bip_39_word_dash_6: oak-rent-corn-lucky-custom-dress
-bip_39_word_dash_7: oak-rent-corn-lucky-custom-dress-rely
-bip_39_word_dash_8: oak-rent-corn-lucky-custom-dress-rely-vocal
-bip_39_word_dash_9: oak-rent-corn-lucky-custom-dress-rely-vocal-credit
-bip_39_word_new_br_1: oak
-bip_39_word_new_br_10: oak<br>rent<br>corn<br>lucky<br>custom<br>dress<br>rely<br>vocal<br>credit<br>misery
-bip_39_word_new_br_11: oak<br>rent<br>corn<br>lucky<br>custom<br>dress<br>rely<br>vocal<br>credit<br>misery<br>expect
 bip_39_word_new_br_12: oak<br>rent<br>corn<br>lucky<br>custom<br>dress<br>rely<br>vocal<br>credit<br>misery<br>expect<br>alter
 bip_39_word_new_br_2: oak<br>rent
 bip_39_word_new_br_3: oak<br>rent<br>corn
-bip_39_word_new_br_4: oak<br>rent<br>corn<br>lucky
-bip_39_word_new_br_5: oak<br>rent<br>corn<br>lucky<br>custom
-bip_39_word_new_br_6: oak<br>rent<br>corn<br>lucky<br>custom<br>dress
-bip_39_word_new_br_7: oak<br>rent<br>corn<br>lucky<br>custom<br>dress<br>rely
-bip_39_word_new_br_8: oak<br>rent<br>corn<br>lucky<br>custom<br>dress<br>rely<br>vocal
-bip_39_word_new_br_9: oak<br>rent<br>corn<br>lucky<br>custom<br>dress<br>rely<br>vocal<br>credit
-bip_39_word_new_line_1: oak
-bip_39_word_new_line_10: 'oak
-
-  rent
-
-  corn
-
-  lucky
-
-  custom
-
-  dress
-
-  rely
-
-  vocal
-
-  credit
-
-  misery'
-bip_39_word_new_line_11: 'oak
-
-  rent
-
-  corn
-
-  lucky
-
-  custom
-
-  dress
-
-  rely
-
-  vocal
-
-  credit
-
-  misery
-
-  expect'
 bip_39_word_new_line_12: 'oak
 
   rent
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'oak
   rent
 
   corn'
-bip_39_word_new_line_4: 'oak
-
-  rent
-
-  corn
-
-  lucky'
-bip_39_word_new_line_5: 'oak
-
-  rent
-
-  corn
-
-  lucky
-
-  custom'
-bip_39_word_new_line_6: 'oak
-
-  rent
-
-  corn
-
-  lucky
-
-  custom
-
-  dress'
-bip_39_word_new_line_7: 'oak
-
-  rent
-
-  corn
-
-  lucky
-
-  custom
-
-  dress
-
-  rely'
-bip_39_word_new_line_8: 'oak
-
-  rent
-
-  corn
-
-  lucky
-
-  custom
-
-  dress
-
-  rely
-
-  vocal'
-bip_39_word_new_line_9: 'oak
-
-  rent
-
-  corn
-
-  lucky
-
-  custom
-
-  dress
-
-  rely
-
-  vocal
-
-  credit'
-bip_39_word_no_space_1: oak
-bip_39_word_no_space_10: oakrentcornluckycustomdressrelyvocalcreditmisery
-bip_39_word_no_space_11: oakrentcornluckycustomdressrelyvocalcreditmiseryexpect
 bip_39_word_no_space_12: oakrentcornluckycustomdressrelyvocalcreditmiseryexpectalter
 bip_39_word_no_space_2: oakrent
 bip_39_word_no_space_3: oakrentcorn
-bip_39_word_no_space_4: oakrentcornlucky
-bip_39_word_no_space_5: oakrentcornluckycustom
-bip_39_word_no_space_6: oakrentcornluckycustomdress
-bip_39_word_no_space_7: oakrentcornluckycustomdressrely
-bip_39_word_no_space_8: oakrentcornluckycustomdressrelyvocal
-bip_39_word_no_space_9: oakrentcornluckycustomdressrelyvocalcredit
-bip_39_word_space_0:
-- oak
-- rent
-- corn
-- lucky
-- custom
-- dress
-- rely
-- vocal
-- credit
-- misery
-- expect
-- alter
-bip_39_word_space_1: oak
-bip_39_word_space_10: oak rent corn lucky custom dress rely vocal credit misery
-bip_39_word_space_11: oak rent corn lucky custom dress rely vocal credit misery expect
 bip_39_word_space_12: oak rent corn lucky custom dress rely vocal credit misery expect
   alter
 bip_39_word_space_2: oak rent
 bip_39_word_space_3: oak rent corn
-bip_39_word_space_4: oak rent corn lucky
-bip_39_word_space_5: oak rent corn lucky custom
-bip_39_word_space_6: oak rent corn lucky custom dress
-bip_39_word_space_7: oak rent corn lucky custom dress rely
-bip_39_word_space_8: oak rent corn lucky custom dress rely vocal
-bip_39_word_space_9: oak rent corn lucky custom dress rely vocal credit
-bip_39_word_underscore_1: oak
-bip_39_word_underscore_10: oak_rent_corn_lucky_custom_dress_rely_vocal_credit_misery
-bip_39_word_underscore_11: oak_rent_corn_lucky_custom_dress_rely_vocal_credit_misery_expect
 bip_39_word_underscore_12: oak_rent_corn_lucky_custom_dress_rely_vocal_credit_misery_expect_alter
 bip_39_word_underscore_2: oak_rent
 bip_39_word_underscore_3: oak_rent_corn
-bip_39_word_underscore_4: oak_rent_corn_lucky
-bip_39_word_underscore_5: oak_rent_corn_lucky_custom
-bip_39_word_underscore_6: oak_rent_corn_lucky_custom_dress
-bip_39_word_underscore_7: oak_rent_corn_lucky_custom_dress_rely
-bip_39_word_underscore_8: oak_rent_corn_lucky_custom_dress_rely_vocal
-bip_39_word_underscore_9: oak_rent_corn_lucky_custom_dress_rely_vocal_credit
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

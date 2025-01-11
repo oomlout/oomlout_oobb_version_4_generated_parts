@@ -1,68 +1,9 @@
-bip_39_word_dash_1: vocal
-bip_39_word_dash_10: vocal-antenna-eye-boat-position-meadow-pass-view-exchange-wonder
-bip_39_word_dash_11: vocal-antenna-eye-boat-position-meadow-pass-view-exchange-wonder-tiny
 bip_39_word_dash_12: vocal-antenna-eye-boat-position-meadow-pass-view-exchange-wonder-tiny-assault
 bip_39_word_dash_2: vocal-antenna
 bip_39_word_dash_3: vocal-antenna-eye
-bip_39_word_dash_4: vocal-antenna-eye-boat
-bip_39_word_dash_5: vocal-antenna-eye-boat-position
-bip_39_word_dash_6: vocal-antenna-eye-boat-position-meadow
-bip_39_word_dash_7: vocal-antenna-eye-boat-position-meadow-pass
-bip_39_word_dash_8: vocal-antenna-eye-boat-position-meadow-pass-view
-bip_39_word_dash_9: vocal-antenna-eye-boat-position-meadow-pass-view-exchange
-bip_39_word_new_br_1: vocal
-bip_39_word_new_br_10: vocal<br>antenna<br>eye<br>boat<br>position<br>meadow<br>pass<br>view<br>exchange<br>wonder
-bip_39_word_new_br_11: vocal<br>antenna<br>eye<br>boat<br>position<br>meadow<br>pass<br>view<br>exchange<br>wonder<br>tiny
 bip_39_word_new_br_12: vocal<br>antenna<br>eye<br>boat<br>position<br>meadow<br>pass<br>view<br>exchange<br>wonder<br>tiny<br>assault
 bip_39_word_new_br_2: vocal<br>antenna
 bip_39_word_new_br_3: vocal<br>antenna<br>eye
-bip_39_word_new_br_4: vocal<br>antenna<br>eye<br>boat
-bip_39_word_new_br_5: vocal<br>antenna<br>eye<br>boat<br>position
-bip_39_word_new_br_6: vocal<br>antenna<br>eye<br>boat<br>position<br>meadow
-bip_39_word_new_br_7: vocal<br>antenna<br>eye<br>boat<br>position<br>meadow<br>pass
-bip_39_word_new_br_8: vocal<br>antenna<br>eye<br>boat<br>position<br>meadow<br>pass<br>view
-bip_39_word_new_br_9: vocal<br>antenna<br>eye<br>boat<br>position<br>meadow<br>pass<br>view<br>exchange
-bip_39_word_new_line_1: vocal
-bip_39_word_new_line_10: 'vocal
-
-  antenna
-
-  eye
-
-  boat
-
-  position
-
-  meadow
-
-  pass
-
-  view
-
-  exchange
-
-  wonder'
-bip_39_word_new_line_11: 'vocal
-
-  antenna
-
-  eye
-
-  boat
-
-  position
-
-  meadow
-
-  pass
-
-  view
-
-  exchange
-
-  wonder
-
-  tiny'
 bip_39_word_new_line_12: 'vocal
 
   antenna
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'vocal
   antenna
 
   eye'
-bip_39_word_new_line_4: 'vocal
-
-  antenna
-
-  eye
-
-  boat'
-bip_39_word_new_line_5: 'vocal
-
-  antenna
-
-  eye
-
-  boat
-
-  position'
-bip_39_word_new_line_6: 'vocal
-
-  antenna
-
-  eye
-
-  boat
-
-  position
-
-  meadow'
-bip_39_word_new_line_7: 'vocal
-
-  antenna
-
-  eye
-
-  boat
-
-  position
-
-  meadow
-
-  pass'
-bip_39_word_new_line_8: 'vocal
-
-  antenna
-
-  eye
-
-  boat
-
-  position
-
-  meadow
-
-  pass
-
-  view'
-bip_39_word_new_line_9: 'vocal
-
-  antenna
-
-  eye
-
-  boat
-
-  position
-
-  meadow
-
-  pass
-
-  view
-
-  exchange'
-bip_39_word_no_space_1: vocal
-bip_39_word_no_space_10: vocalantennaeyeboatpositionmeadowpassviewexchangewonder
-bip_39_word_no_space_11: vocalantennaeyeboatpositionmeadowpassviewexchangewondertiny
 bip_39_word_no_space_12: vocalantennaeyeboatpositionmeadowpassviewexchangewondertinyassault
 bip_39_word_no_space_2: vocalantenna
 bip_39_word_no_space_3: vocalantennaeye
-bip_39_word_no_space_4: vocalantennaeyeboat
-bip_39_word_no_space_5: vocalantennaeyeboatposition
-bip_39_word_no_space_6: vocalantennaeyeboatpositionmeadow
-bip_39_word_no_space_7: vocalantennaeyeboatpositionmeadowpass
-bip_39_word_no_space_8: vocalantennaeyeboatpositionmeadowpassview
-bip_39_word_no_space_9: vocalantennaeyeboatpositionmeadowpassviewexchange
-bip_39_word_space_0:
-- vocal
-- antenna
-- eye
-- boat
-- position
-- meadow
-- pass
-- view
-- exchange
-- wonder
-- tiny
-- assault
-bip_39_word_space_1: vocal
-bip_39_word_space_10: vocal antenna eye boat position meadow pass view exchange wonder
-bip_39_word_space_11: vocal antenna eye boat position meadow pass view exchange wonder
-  tiny
 bip_39_word_space_12: vocal antenna eye boat position meadow pass view exchange wonder
   tiny assault
 bip_39_word_space_2: vocal antenna
 bip_39_word_space_3: vocal antenna eye
-bip_39_word_space_4: vocal antenna eye boat
-bip_39_word_space_5: vocal antenna eye boat position
-bip_39_word_space_6: vocal antenna eye boat position meadow
-bip_39_word_space_7: vocal antenna eye boat position meadow pass
-bip_39_word_space_8: vocal antenna eye boat position meadow pass view
-bip_39_word_space_9: vocal antenna eye boat position meadow pass view exchange
-bip_39_word_underscore_1: vocal
-bip_39_word_underscore_10: vocal_antenna_eye_boat_position_meadow_pass_view_exchange_wonder
-bip_39_word_underscore_11: vocal_antenna_eye_boat_position_meadow_pass_view_exchange_wonder_tiny
 bip_39_word_underscore_12: vocal_antenna_eye_boat_position_meadow_pass_view_exchange_wonder_tiny_assault
 bip_39_word_underscore_2: vocal_antenna
 bip_39_word_underscore_3: vocal_antenna_eye
-bip_39_word_underscore_4: vocal_antenna_eye_boat
-bip_39_word_underscore_5: vocal_antenna_eye_boat_position
-bip_39_word_underscore_6: vocal_antenna_eye_boat_position_meadow
-bip_39_word_underscore_7: vocal_antenna_eye_boat_position_meadow_pass
-bip_39_word_underscore_8: vocal_antenna_eye_boat_position_meadow_pass_view
-bip_39_word_underscore_9: vocal_antenna_eye_boat_position_meadow_pass_view_exchange
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

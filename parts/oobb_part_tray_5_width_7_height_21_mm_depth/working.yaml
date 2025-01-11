@@ -1,68 +1,9 @@
-bip_39_word_dash_1: usage
-bip_39_word_dash_10: usage-bird-audit-divorce-hold-seat-enter-giraffe-slight-truck
-bip_39_word_dash_11: usage-bird-audit-divorce-hold-seat-enter-giraffe-slight-truck-one
 bip_39_word_dash_12: usage-bird-audit-divorce-hold-seat-enter-giraffe-slight-truck-one-antique
 bip_39_word_dash_2: usage-bird
 bip_39_word_dash_3: usage-bird-audit
-bip_39_word_dash_4: usage-bird-audit-divorce
-bip_39_word_dash_5: usage-bird-audit-divorce-hold
-bip_39_word_dash_6: usage-bird-audit-divorce-hold-seat
-bip_39_word_dash_7: usage-bird-audit-divorce-hold-seat-enter
-bip_39_word_dash_8: usage-bird-audit-divorce-hold-seat-enter-giraffe
-bip_39_word_dash_9: usage-bird-audit-divorce-hold-seat-enter-giraffe-slight
-bip_39_word_new_br_1: usage
-bip_39_word_new_br_10: usage<br>bird<br>audit<br>divorce<br>hold<br>seat<br>enter<br>giraffe<br>slight<br>truck
-bip_39_word_new_br_11: usage<br>bird<br>audit<br>divorce<br>hold<br>seat<br>enter<br>giraffe<br>slight<br>truck<br>one
 bip_39_word_new_br_12: usage<br>bird<br>audit<br>divorce<br>hold<br>seat<br>enter<br>giraffe<br>slight<br>truck<br>one<br>antique
 bip_39_word_new_br_2: usage<br>bird
 bip_39_word_new_br_3: usage<br>bird<br>audit
-bip_39_word_new_br_4: usage<br>bird<br>audit<br>divorce
-bip_39_word_new_br_5: usage<br>bird<br>audit<br>divorce<br>hold
-bip_39_word_new_br_6: usage<br>bird<br>audit<br>divorce<br>hold<br>seat
-bip_39_word_new_br_7: usage<br>bird<br>audit<br>divorce<br>hold<br>seat<br>enter
-bip_39_word_new_br_8: usage<br>bird<br>audit<br>divorce<br>hold<br>seat<br>enter<br>giraffe
-bip_39_word_new_br_9: usage<br>bird<br>audit<br>divorce<br>hold<br>seat<br>enter<br>giraffe<br>slight
-bip_39_word_new_line_1: usage
-bip_39_word_new_line_10: 'usage
-
-  bird
-
-  audit
-
-  divorce
-
-  hold
-
-  seat
-
-  enter
-
-  giraffe
-
-  slight
-
-  truck'
-bip_39_word_new_line_11: 'usage
-
-  bird
-
-  audit
-
-  divorce
-
-  hold
-
-  seat
-
-  enter
-
-  giraffe
-
-  slight
-
-  truck
-
-  one'
 bip_39_word_new_line_12: 'usage
 
   bird
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'usage
   bird
 
   audit'
-bip_39_word_new_line_4: 'usage
-
-  bird
-
-  audit
-
-  divorce'
-bip_39_word_new_line_5: 'usage
-
-  bird
-
-  audit
-
-  divorce
-
-  hold'
-bip_39_word_new_line_6: 'usage
-
-  bird
-
-  audit
-
-  divorce
-
-  hold
-
-  seat'
-bip_39_word_new_line_7: 'usage
-
-  bird
-
-  audit
-
-  divorce
-
-  hold
-
-  seat
-
-  enter'
-bip_39_word_new_line_8: 'usage
-
-  bird
-
-  audit
-
-  divorce
-
-  hold
-
-  seat
-
-  enter
-
-  giraffe'
-bip_39_word_new_line_9: 'usage
-
-  bird
-
-  audit
-
-  divorce
-
-  hold
-
-  seat
-
-  enter
-
-  giraffe
-
-  slight'
-bip_39_word_no_space_1: usage
-bip_39_word_no_space_10: usagebirdauditdivorceholdseatentergiraffeslighttruck
-bip_39_word_no_space_11: usagebirdauditdivorceholdseatentergiraffeslighttruckone
 bip_39_word_no_space_12: usagebirdauditdivorceholdseatentergiraffeslighttruckoneantique
 bip_39_word_no_space_2: usagebird
 bip_39_word_no_space_3: usagebirdaudit
-bip_39_word_no_space_4: usagebirdauditdivorce
-bip_39_word_no_space_5: usagebirdauditdivorcehold
-bip_39_word_no_space_6: usagebirdauditdivorceholdseat
-bip_39_word_no_space_7: usagebirdauditdivorceholdseatenter
-bip_39_word_no_space_8: usagebirdauditdivorceholdseatentergiraffe
-bip_39_word_no_space_9: usagebirdauditdivorceholdseatentergiraffeslight
-bip_39_word_space_0:
-- usage
-- bird
-- audit
-- divorce
-- hold
-- seat
-- enter
-- giraffe
-- slight
-- truck
-- one
-- antique
-bip_39_word_space_1: usage
-bip_39_word_space_10: usage bird audit divorce hold seat enter giraffe slight truck
-bip_39_word_space_11: usage bird audit divorce hold seat enter giraffe slight truck
-  one
 bip_39_word_space_12: usage bird audit divorce hold seat enter giraffe slight truck
   one antique
 bip_39_word_space_2: usage bird
 bip_39_word_space_3: usage bird audit
-bip_39_word_space_4: usage bird audit divorce
-bip_39_word_space_5: usage bird audit divorce hold
-bip_39_word_space_6: usage bird audit divorce hold seat
-bip_39_word_space_7: usage bird audit divorce hold seat enter
-bip_39_word_space_8: usage bird audit divorce hold seat enter giraffe
-bip_39_word_space_9: usage bird audit divorce hold seat enter giraffe slight
-bip_39_word_underscore_1: usage
-bip_39_word_underscore_10: usage_bird_audit_divorce_hold_seat_enter_giraffe_slight_truck
-bip_39_word_underscore_11: usage_bird_audit_divorce_hold_seat_enter_giraffe_slight_truck_one
 bip_39_word_underscore_12: usage_bird_audit_divorce_hold_seat_enter_giraffe_slight_truck_one_antique
 bip_39_word_underscore_2: usage_bird
 bip_39_word_underscore_3: usage_bird_audit
-bip_39_word_underscore_4: usage_bird_audit_divorce
-bip_39_word_underscore_5: usage_bird_audit_divorce_hold
-bip_39_word_underscore_6: usage_bird_audit_divorce_hold_seat
-bip_39_word_underscore_7: usage_bird_audit_divorce_hold_seat_enter
-bip_39_word_underscore_8: usage_bird_audit_divorce_hold_seat_enter_giraffe
-bip_39_word_underscore_9: usage_bird_audit_divorce_hold_seat_enter_giraffe_slight
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

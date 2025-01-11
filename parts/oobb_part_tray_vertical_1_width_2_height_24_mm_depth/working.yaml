@@ -1,68 +1,9 @@
-bip_39_word_dash_1: bench
-bip_39_word_dash_10: bench-always-odor-warm-various-member-ramp-brave-soldier-double
-bip_39_word_dash_11: bench-always-odor-warm-various-member-ramp-brave-soldier-double-library
 bip_39_word_dash_12: bench-always-odor-warm-various-member-ramp-brave-soldier-double-library-antenna
 bip_39_word_dash_2: bench-always
 bip_39_word_dash_3: bench-always-odor
-bip_39_word_dash_4: bench-always-odor-warm
-bip_39_word_dash_5: bench-always-odor-warm-various
-bip_39_word_dash_6: bench-always-odor-warm-various-member
-bip_39_word_dash_7: bench-always-odor-warm-various-member-ramp
-bip_39_word_dash_8: bench-always-odor-warm-various-member-ramp-brave
-bip_39_word_dash_9: bench-always-odor-warm-various-member-ramp-brave-soldier
-bip_39_word_new_br_1: bench
-bip_39_word_new_br_10: bench<br>always<br>odor<br>warm<br>various<br>member<br>ramp<br>brave<br>soldier<br>double
-bip_39_word_new_br_11: bench<br>always<br>odor<br>warm<br>various<br>member<br>ramp<br>brave<br>soldier<br>double<br>library
 bip_39_word_new_br_12: bench<br>always<br>odor<br>warm<br>various<br>member<br>ramp<br>brave<br>soldier<br>double<br>library<br>antenna
 bip_39_word_new_br_2: bench<br>always
 bip_39_word_new_br_3: bench<br>always<br>odor
-bip_39_word_new_br_4: bench<br>always<br>odor<br>warm
-bip_39_word_new_br_5: bench<br>always<br>odor<br>warm<br>various
-bip_39_word_new_br_6: bench<br>always<br>odor<br>warm<br>various<br>member
-bip_39_word_new_br_7: bench<br>always<br>odor<br>warm<br>various<br>member<br>ramp
-bip_39_word_new_br_8: bench<br>always<br>odor<br>warm<br>various<br>member<br>ramp<br>brave
-bip_39_word_new_br_9: bench<br>always<br>odor<br>warm<br>various<br>member<br>ramp<br>brave<br>soldier
-bip_39_word_new_line_1: bench
-bip_39_word_new_line_10: 'bench
-
-  always
-
-  odor
-
-  warm
-
-  various
-
-  member
-
-  ramp
-
-  brave
-
-  soldier
-
-  double'
-bip_39_word_new_line_11: 'bench
-
-  always
-
-  odor
-
-  warm
-
-  various
-
-  member
-
-  ramp
-
-  brave
-
-  soldier
-
-  double
-
-  library'
 bip_39_word_new_line_12: 'bench
 
   always
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'bench
   always
 
   odor'
-bip_39_word_new_line_4: 'bench
-
-  always
-
-  odor
-
-  warm'
-bip_39_word_new_line_5: 'bench
-
-  always
-
-  odor
-
-  warm
-
-  various'
-bip_39_word_new_line_6: 'bench
-
-  always
-
-  odor
-
-  warm
-
-  various
-
-  member'
-bip_39_word_new_line_7: 'bench
-
-  always
-
-  odor
-
-  warm
-
-  various
-
-  member
-
-  ramp'
-bip_39_word_new_line_8: 'bench
-
-  always
-
-  odor
-
-  warm
-
-  various
-
-  member
-
-  ramp
-
-  brave'
-bip_39_word_new_line_9: 'bench
-
-  always
-
-  odor
-
-  warm
-
-  various
-
-  member
-
-  ramp
-
-  brave
-
-  soldier'
-bip_39_word_no_space_1: bench
-bip_39_word_no_space_10: benchalwaysodorwarmvariousmemberrampbravesoldierdouble
-bip_39_word_no_space_11: benchalwaysodorwarmvariousmemberrampbravesoldierdoublelibrary
 bip_39_word_no_space_12: benchalwaysodorwarmvariousmemberrampbravesoldierdoublelibraryantenna
 bip_39_word_no_space_2: benchalways
 bip_39_word_no_space_3: benchalwaysodor
-bip_39_word_no_space_4: benchalwaysodorwarm
-bip_39_word_no_space_5: benchalwaysodorwarmvarious
-bip_39_word_no_space_6: benchalwaysodorwarmvariousmember
-bip_39_word_no_space_7: benchalwaysodorwarmvariousmemberramp
-bip_39_word_no_space_8: benchalwaysodorwarmvariousmemberrampbrave
-bip_39_word_no_space_9: benchalwaysodorwarmvariousmemberrampbravesoldier
-bip_39_word_space_0:
-- bench
-- always
-- odor
-- warm
-- various
-- member
-- ramp
-- brave
-- soldier
-- double
-- library
-- antenna
-bip_39_word_space_1: bench
-bip_39_word_space_10: bench always odor warm various member ramp brave soldier double
-bip_39_word_space_11: bench always odor warm various member ramp brave soldier double
-  library
 bip_39_word_space_12: bench always odor warm various member ramp brave soldier double
   library antenna
 bip_39_word_space_2: bench always
 bip_39_word_space_3: bench always odor
-bip_39_word_space_4: bench always odor warm
-bip_39_word_space_5: bench always odor warm various
-bip_39_word_space_6: bench always odor warm various member
-bip_39_word_space_7: bench always odor warm various member ramp
-bip_39_word_space_8: bench always odor warm various member ramp brave
-bip_39_word_space_9: bench always odor warm various member ramp brave soldier
-bip_39_word_underscore_1: bench
-bip_39_word_underscore_10: bench_always_odor_warm_various_member_ramp_brave_soldier_double
-bip_39_word_underscore_11: bench_always_odor_warm_various_member_ramp_brave_soldier_double_library
 bip_39_word_underscore_12: bench_always_odor_warm_various_member_ramp_brave_soldier_double_library_antenna
 bip_39_word_underscore_2: bench_always
 bip_39_word_underscore_3: bench_always_odor
-bip_39_word_underscore_4: bench_always_odor_warm
-bip_39_word_underscore_5: bench_always_odor_warm_various
-bip_39_word_underscore_6: bench_always_odor_warm_various_member
-bip_39_word_underscore_7: bench_always_odor_warm_various_member_ramp
-bip_39_word_underscore_8: bench_always_odor_warm_various_member_ramp_brave
-bip_39_word_underscore_9: bench_always_odor_warm_various_member_ramp_brave_soldier
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

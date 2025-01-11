@@ -1,69 +1,10 @@
 bearing: '606'
-bip_39_word_dash_1: immune
-bip_39_word_dash_10: immune-kitten-hard-fan-floor-cloth-fancy-below-early-hope
-bip_39_word_dash_11: immune-kitten-hard-fan-floor-cloth-fancy-below-early-hope-sing
 bip_39_word_dash_12: immune-kitten-hard-fan-floor-cloth-fancy-below-early-hope-sing-ahead
 bip_39_word_dash_2: immune-kitten
 bip_39_word_dash_3: immune-kitten-hard
-bip_39_word_dash_4: immune-kitten-hard-fan
-bip_39_word_dash_5: immune-kitten-hard-fan-floor
-bip_39_word_dash_6: immune-kitten-hard-fan-floor-cloth
-bip_39_word_dash_7: immune-kitten-hard-fan-floor-cloth-fancy
-bip_39_word_dash_8: immune-kitten-hard-fan-floor-cloth-fancy-below
-bip_39_word_dash_9: immune-kitten-hard-fan-floor-cloth-fancy-below-early
-bip_39_word_new_br_1: immune
-bip_39_word_new_br_10: immune<br>kitten<br>hard<br>fan<br>floor<br>cloth<br>fancy<br>below<br>early<br>hope
-bip_39_word_new_br_11: immune<br>kitten<br>hard<br>fan<br>floor<br>cloth<br>fancy<br>below<br>early<br>hope<br>sing
 bip_39_word_new_br_12: immune<br>kitten<br>hard<br>fan<br>floor<br>cloth<br>fancy<br>below<br>early<br>hope<br>sing<br>ahead
 bip_39_word_new_br_2: immune<br>kitten
 bip_39_word_new_br_3: immune<br>kitten<br>hard
-bip_39_word_new_br_4: immune<br>kitten<br>hard<br>fan
-bip_39_word_new_br_5: immune<br>kitten<br>hard<br>fan<br>floor
-bip_39_word_new_br_6: immune<br>kitten<br>hard<br>fan<br>floor<br>cloth
-bip_39_word_new_br_7: immune<br>kitten<br>hard<br>fan<br>floor<br>cloth<br>fancy
-bip_39_word_new_br_8: immune<br>kitten<br>hard<br>fan<br>floor<br>cloth<br>fancy<br>below
-bip_39_word_new_br_9: immune<br>kitten<br>hard<br>fan<br>floor<br>cloth<br>fancy<br>below<br>early
-bip_39_word_new_line_1: immune
-bip_39_word_new_line_10: 'immune
-
-  kitten
-
-  hard
-
-  fan
-
-  floor
-
-  cloth
-
-  fancy
-
-  below
-
-  early
-
-  hope'
-bip_39_word_new_line_11: 'immune
-
-  kitten
-
-  hard
-
-  fan
-
-  floor
-
-  cloth
-
-  fancy
-
-  below
-
-  early
-
-  hope
-
-  sing'
 bip_39_word_new_line_12: 'immune
 
   kitten
@@ -95,128 +36,16 @@ bip_39_word_new_line_3: 'immune
   kitten
 
   hard'
-bip_39_word_new_line_4: 'immune
-
-  kitten
-
-  hard
-
-  fan'
-bip_39_word_new_line_5: 'immune
-
-  kitten
-
-  hard
-
-  fan
-
-  floor'
-bip_39_word_new_line_6: 'immune
-
-  kitten
-
-  hard
-
-  fan
-
-  floor
-
-  cloth'
-bip_39_word_new_line_7: 'immune
-
-  kitten
-
-  hard
-
-  fan
-
-  floor
-
-  cloth
-
-  fancy'
-bip_39_word_new_line_8: 'immune
-
-  kitten
-
-  hard
-
-  fan
-
-  floor
-
-  cloth
-
-  fancy
-
-  below'
-bip_39_word_new_line_9: 'immune
-
-  kitten
-
-  hard
-
-  fan
-
-  floor
-
-  cloth
-
-  fancy
-
-  below
-
-  early'
-bip_39_word_no_space_1: immune
-bip_39_word_no_space_10: immunekittenhardfanfloorclothfancybelowearlyhope
-bip_39_word_no_space_11: immunekittenhardfanfloorclothfancybelowearlyhopesing
 bip_39_word_no_space_12: immunekittenhardfanfloorclothfancybelowearlyhopesingahead
 bip_39_word_no_space_2: immunekitten
 bip_39_word_no_space_3: immunekittenhard
-bip_39_word_no_space_4: immunekittenhardfan
-bip_39_word_no_space_5: immunekittenhardfanfloor
-bip_39_word_no_space_6: immunekittenhardfanfloorcloth
-bip_39_word_no_space_7: immunekittenhardfanfloorclothfancy
-bip_39_word_no_space_8: immunekittenhardfanfloorclothfancybelow
-bip_39_word_no_space_9: immunekittenhardfanfloorclothfancybelowearly
-bip_39_word_space_0:
-- immune
-- kitten
-- hard
-- fan
-- floor
-- cloth
-- fancy
-- below
-- early
-- hope
-- sing
-- ahead
-bip_39_word_space_1: immune
-bip_39_word_space_10: immune kitten hard fan floor cloth fancy below early hope
-bip_39_word_space_11: immune kitten hard fan floor cloth fancy below early hope sing
 bip_39_word_space_12: immune kitten hard fan floor cloth fancy below early hope sing
   ahead
 bip_39_word_space_2: immune kitten
 bip_39_word_space_3: immune kitten hard
-bip_39_word_space_4: immune kitten hard fan
-bip_39_word_space_5: immune kitten hard fan floor
-bip_39_word_space_6: immune kitten hard fan floor cloth
-bip_39_word_space_7: immune kitten hard fan floor cloth fancy
-bip_39_word_space_8: immune kitten hard fan floor cloth fancy below
-bip_39_word_space_9: immune kitten hard fan floor cloth fancy below early
-bip_39_word_underscore_1: immune
-bip_39_word_underscore_10: immune_kitten_hard_fan_floor_cloth_fancy_below_early_hope
-bip_39_word_underscore_11: immune_kitten_hard_fan_floor_cloth_fancy_below_early_hope_sing
 bip_39_word_underscore_12: immune_kitten_hard_fan_floor_cloth_fancy_below_early_hope_sing_ahead
 bip_39_word_underscore_2: immune_kitten
 bip_39_word_underscore_3: immune_kitten_hard
-bip_39_word_underscore_4: immune_kitten_hard_fan
-bip_39_word_underscore_5: immune_kitten_hard_fan_floor
-bip_39_word_underscore_6: immune_kitten_hard_fan_floor_cloth
-bip_39_word_underscore_7: immune_kitten_hard_fan_floor_cloth_fancy
-bip_39_word_underscore_8: immune_kitten_hard_fan_floor_cloth_fancy_below
-bip_39_word_underscore_9: immune_kitten_hard_fan_floor_cloth_fancy_below_early
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

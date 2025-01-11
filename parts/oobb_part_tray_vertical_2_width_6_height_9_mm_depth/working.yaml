@@ -1,68 +1,9 @@
-bip_39_word_dash_1: venue
-bip_39_word_dash_10: venue-dinosaur-stick-train-exhaust-purse-double-benefit-mail-coconut
-bip_39_word_dash_11: venue-dinosaur-stick-train-exhaust-purse-double-benefit-mail-coconut-volcano
 bip_39_word_dash_12: venue-dinosaur-stick-train-exhaust-purse-double-benefit-mail-coconut-volcano-able
 bip_39_word_dash_2: venue-dinosaur
 bip_39_word_dash_3: venue-dinosaur-stick
-bip_39_word_dash_4: venue-dinosaur-stick-train
-bip_39_word_dash_5: venue-dinosaur-stick-train-exhaust
-bip_39_word_dash_6: venue-dinosaur-stick-train-exhaust-purse
-bip_39_word_dash_7: venue-dinosaur-stick-train-exhaust-purse-double
-bip_39_word_dash_8: venue-dinosaur-stick-train-exhaust-purse-double-benefit
-bip_39_word_dash_9: venue-dinosaur-stick-train-exhaust-purse-double-benefit-mail
-bip_39_word_new_br_1: venue
-bip_39_word_new_br_10: venue<br>dinosaur<br>stick<br>train<br>exhaust<br>purse<br>double<br>benefit<br>mail<br>coconut
-bip_39_word_new_br_11: venue<br>dinosaur<br>stick<br>train<br>exhaust<br>purse<br>double<br>benefit<br>mail<br>coconut<br>volcano
 bip_39_word_new_br_12: venue<br>dinosaur<br>stick<br>train<br>exhaust<br>purse<br>double<br>benefit<br>mail<br>coconut<br>volcano<br>able
 bip_39_word_new_br_2: venue<br>dinosaur
 bip_39_word_new_br_3: venue<br>dinosaur<br>stick
-bip_39_word_new_br_4: venue<br>dinosaur<br>stick<br>train
-bip_39_word_new_br_5: venue<br>dinosaur<br>stick<br>train<br>exhaust
-bip_39_word_new_br_6: venue<br>dinosaur<br>stick<br>train<br>exhaust<br>purse
-bip_39_word_new_br_7: venue<br>dinosaur<br>stick<br>train<br>exhaust<br>purse<br>double
-bip_39_word_new_br_8: venue<br>dinosaur<br>stick<br>train<br>exhaust<br>purse<br>double<br>benefit
-bip_39_word_new_br_9: venue<br>dinosaur<br>stick<br>train<br>exhaust<br>purse<br>double<br>benefit<br>mail
-bip_39_word_new_line_1: venue
-bip_39_word_new_line_10: 'venue
-
-  dinosaur
-
-  stick
-
-  train
-
-  exhaust
-
-  purse
-
-  double
-
-  benefit
-
-  mail
-
-  coconut'
-bip_39_word_new_line_11: 'venue
-
-  dinosaur
-
-  stick
-
-  train
-
-  exhaust
-
-  purse
-
-  double
-
-  benefit
-
-  mail
-
-  coconut
-
-  volcano'
 bip_39_word_new_line_12: 'venue
 
   dinosaur
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'venue
   dinosaur
 
   stick'
-bip_39_word_new_line_4: 'venue
-
-  dinosaur
-
-  stick
-
-  train'
-bip_39_word_new_line_5: 'venue
-
-  dinosaur
-
-  stick
-
-  train
-
-  exhaust'
-bip_39_word_new_line_6: 'venue
-
-  dinosaur
-
-  stick
-
-  train
-
-  exhaust
-
-  purse'
-bip_39_word_new_line_7: 'venue
-
-  dinosaur
-
-  stick
-
-  train
-
-  exhaust
-
-  purse
-
-  double'
-bip_39_word_new_line_8: 'venue
-
-  dinosaur
-
-  stick
-
-  train
-
-  exhaust
-
-  purse
-
-  double
-
-  benefit'
-bip_39_word_new_line_9: 'venue
-
-  dinosaur
-
-  stick
-
-  train
-
-  exhaust
-
-  purse
-
-  double
-
-  benefit
-
-  mail'
-bip_39_word_no_space_1: venue
-bip_39_word_no_space_10: venuedinosaursticktrainexhaustpursedoublebenefitmailcoconut
-bip_39_word_no_space_11: venuedinosaursticktrainexhaustpursedoublebenefitmailcoconutvolcano
 bip_39_word_no_space_12: venuedinosaursticktrainexhaustpursedoublebenefitmailcoconutvolcanoable
 bip_39_word_no_space_2: venuedinosaur
 bip_39_word_no_space_3: venuedinosaurstick
-bip_39_word_no_space_4: venuedinosaursticktrain
-bip_39_word_no_space_5: venuedinosaursticktrainexhaust
-bip_39_word_no_space_6: venuedinosaursticktrainexhaustpurse
-bip_39_word_no_space_7: venuedinosaursticktrainexhaustpursedouble
-bip_39_word_no_space_8: venuedinosaursticktrainexhaustpursedoublebenefit
-bip_39_word_no_space_9: venuedinosaursticktrainexhaustpursedoublebenefitmail
-bip_39_word_space_0:
-- venue
-- dinosaur
-- stick
-- train
-- exhaust
-- purse
-- double
-- benefit
-- mail
-- coconut
-- volcano
-- able
-bip_39_word_space_1: venue
-bip_39_word_space_10: venue dinosaur stick train exhaust purse double benefit mail
-  coconut
-bip_39_word_space_11: venue dinosaur stick train exhaust purse double benefit mail
-  coconut volcano
 bip_39_word_space_12: venue dinosaur stick train exhaust purse double benefit mail
   coconut volcano able
 bip_39_word_space_2: venue dinosaur
 bip_39_word_space_3: venue dinosaur stick
-bip_39_word_space_4: venue dinosaur stick train
-bip_39_word_space_5: venue dinosaur stick train exhaust
-bip_39_word_space_6: venue dinosaur stick train exhaust purse
-bip_39_word_space_7: venue dinosaur stick train exhaust purse double
-bip_39_word_space_8: venue dinosaur stick train exhaust purse double benefit
-bip_39_word_space_9: venue dinosaur stick train exhaust purse double benefit mail
-bip_39_word_underscore_1: venue
-bip_39_word_underscore_10: venue_dinosaur_stick_train_exhaust_purse_double_benefit_mail_coconut
-bip_39_word_underscore_11: venue_dinosaur_stick_train_exhaust_purse_double_benefit_mail_coconut_volcano
 bip_39_word_underscore_12: venue_dinosaur_stick_train_exhaust_purse_double_benefit_mail_coconut_volcano_able
 bip_39_word_underscore_2: venue_dinosaur
 bip_39_word_underscore_3: venue_dinosaur_stick
-bip_39_word_underscore_4: venue_dinosaur_stick_train
-bip_39_word_underscore_5: venue_dinosaur_stick_train_exhaust
-bip_39_word_underscore_6: venue_dinosaur_stick_train_exhaust_purse
-bip_39_word_underscore_7: venue_dinosaur_stick_train_exhaust_purse_double
-bip_39_word_underscore_8: venue_dinosaur_stick_train_exhaust_purse_double_benefit
-bip_39_word_underscore_9: venue_dinosaur_stick_train_exhaust_purse_double_benefit_mail
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

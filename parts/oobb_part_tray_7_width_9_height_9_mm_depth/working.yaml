@@ -1,68 +1,9 @@
-bip_39_word_dash_1: vast
-bip_39_word_dash_10: vast-once-sight-public-parrot-entry-wash-hurry-sea-property
-bip_39_word_dash_11: vast-once-sight-public-parrot-entry-wash-hurry-sea-property-ticket
 bip_39_word_dash_12: vast-once-sight-public-parrot-entry-wash-hurry-sea-property-ticket-always
 bip_39_word_dash_2: vast-once
 bip_39_word_dash_3: vast-once-sight
-bip_39_word_dash_4: vast-once-sight-public
-bip_39_word_dash_5: vast-once-sight-public-parrot
-bip_39_word_dash_6: vast-once-sight-public-parrot-entry
-bip_39_word_dash_7: vast-once-sight-public-parrot-entry-wash
-bip_39_word_dash_8: vast-once-sight-public-parrot-entry-wash-hurry
-bip_39_word_dash_9: vast-once-sight-public-parrot-entry-wash-hurry-sea
-bip_39_word_new_br_1: vast
-bip_39_word_new_br_10: vast<br>once<br>sight<br>public<br>parrot<br>entry<br>wash<br>hurry<br>sea<br>property
-bip_39_word_new_br_11: vast<br>once<br>sight<br>public<br>parrot<br>entry<br>wash<br>hurry<br>sea<br>property<br>ticket
 bip_39_word_new_br_12: vast<br>once<br>sight<br>public<br>parrot<br>entry<br>wash<br>hurry<br>sea<br>property<br>ticket<br>always
 bip_39_word_new_br_2: vast<br>once
 bip_39_word_new_br_3: vast<br>once<br>sight
-bip_39_word_new_br_4: vast<br>once<br>sight<br>public
-bip_39_word_new_br_5: vast<br>once<br>sight<br>public<br>parrot
-bip_39_word_new_br_6: vast<br>once<br>sight<br>public<br>parrot<br>entry
-bip_39_word_new_br_7: vast<br>once<br>sight<br>public<br>parrot<br>entry<br>wash
-bip_39_word_new_br_8: vast<br>once<br>sight<br>public<br>parrot<br>entry<br>wash<br>hurry
-bip_39_word_new_br_9: vast<br>once<br>sight<br>public<br>parrot<br>entry<br>wash<br>hurry<br>sea
-bip_39_word_new_line_1: vast
-bip_39_word_new_line_10: 'vast
-
-  once
-
-  sight
-
-  public
-
-  parrot
-
-  entry
-
-  wash
-
-  hurry
-
-  sea
-
-  property'
-bip_39_word_new_line_11: 'vast
-
-  once
-
-  sight
-
-  public
-
-  parrot
-
-  entry
-
-  wash
-
-  hurry
-
-  sea
-
-  property
-
-  ticket'
 bip_39_word_new_line_12: 'vast
 
   once
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'vast
   once
 
   sight'
-bip_39_word_new_line_4: 'vast
-
-  once
-
-  sight
-
-  public'
-bip_39_word_new_line_5: 'vast
-
-  once
-
-  sight
-
-  public
-
-  parrot'
-bip_39_word_new_line_6: 'vast
-
-  once
-
-  sight
-
-  public
-
-  parrot
-
-  entry'
-bip_39_word_new_line_7: 'vast
-
-  once
-
-  sight
-
-  public
-
-  parrot
-
-  entry
-
-  wash'
-bip_39_word_new_line_8: 'vast
-
-  once
-
-  sight
-
-  public
-
-  parrot
-
-  entry
-
-  wash
-
-  hurry'
-bip_39_word_new_line_9: 'vast
-
-  once
-
-  sight
-
-  public
-
-  parrot
-
-  entry
-
-  wash
-
-  hurry
-
-  sea'
-bip_39_word_no_space_1: vast
-bip_39_word_no_space_10: vastoncesightpublicparrotentrywashhurryseaproperty
-bip_39_word_no_space_11: vastoncesightpublicparrotentrywashhurryseapropertyticket
 bip_39_word_no_space_12: vastoncesightpublicparrotentrywashhurryseapropertyticketalways
 bip_39_word_no_space_2: vastonce
 bip_39_word_no_space_3: vastoncesight
-bip_39_word_no_space_4: vastoncesightpublic
-bip_39_word_no_space_5: vastoncesightpublicparrot
-bip_39_word_no_space_6: vastoncesightpublicparrotentry
-bip_39_word_no_space_7: vastoncesightpublicparrotentrywash
-bip_39_word_no_space_8: vastoncesightpublicparrotentrywashhurry
-bip_39_word_no_space_9: vastoncesightpublicparrotentrywashhurrysea
-bip_39_word_space_0:
-- vast
-- once
-- sight
-- public
-- parrot
-- entry
-- wash
-- hurry
-- sea
-- property
-- ticket
-- always
-bip_39_word_space_1: vast
-bip_39_word_space_10: vast once sight public parrot entry wash hurry sea property
-bip_39_word_space_11: vast once sight public parrot entry wash hurry sea property
-  ticket
 bip_39_word_space_12: vast once sight public parrot entry wash hurry sea property
   ticket always
 bip_39_word_space_2: vast once
 bip_39_word_space_3: vast once sight
-bip_39_word_space_4: vast once sight public
-bip_39_word_space_5: vast once sight public parrot
-bip_39_word_space_6: vast once sight public parrot entry
-bip_39_word_space_7: vast once sight public parrot entry wash
-bip_39_word_space_8: vast once sight public parrot entry wash hurry
-bip_39_word_space_9: vast once sight public parrot entry wash hurry sea
-bip_39_word_underscore_1: vast
-bip_39_word_underscore_10: vast_once_sight_public_parrot_entry_wash_hurry_sea_property
-bip_39_word_underscore_11: vast_once_sight_public_parrot_entry_wash_hurry_sea_property_ticket
 bip_39_word_underscore_12: vast_once_sight_public_parrot_entry_wash_hurry_sea_property_ticket_always
 bip_39_word_underscore_2: vast_once
 bip_39_word_underscore_3: vast_once_sight
-bip_39_word_underscore_4: vast_once_sight_public
-bip_39_word_underscore_5: vast_once_sight_public_parrot
-bip_39_word_underscore_6: vast_once_sight_public_parrot_entry
-bip_39_word_underscore_7: vast_once_sight_public_parrot_entry_wash
-bip_39_word_underscore_8: vast_once_sight_public_parrot_entry_wash_hurry
-bip_39_word_underscore_9: vast_once_sight_public_parrot_entry_wash_hurry_sea
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

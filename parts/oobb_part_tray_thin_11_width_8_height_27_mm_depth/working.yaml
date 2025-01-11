@@ -1,68 +1,9 @@
-bip_39_word_dash_1: genre
-bip_39_word_dash_10: genre-bar-problem-flush-myth-chief-fashion-lumber-trust-noise
-bip_39_word_dash_11: genre-bar-problem-flush-myth-chief-fashion-lumber-trust-noise-crush
 bip_39_word_dash_12: genre-bar-problem-flush-myth-chief-fashion-lumber-trust-noise-crush-ankle
 bip_39_word_dash_2: genre-bar
 bip_39_word_dash_3: genre-bar-problem
-bip_39_word_dash_4: genre-bar-problem-flush
-bip_39_word_dash_5: genre-bar-problem-flush-myth
-bip_39_word_dash_6: genre-bar-problem-flush-myth-chief
-bip_39_word_dash_7: genre-bar-problem-flush-myth-chief-fashion
-bip_39_word_dash_8: genre-bar-problem-flush-myth-chief-fashion-lumber
-bip_39_word_dash_9: genre-bar-problem-flush-myth-chief-fashion-lumber-trust
-bip_39_word_new_br_1: genre
-bip_39_word_new_br_10: genre<br>bar<br>problem<br>flush<br>myth<br>chief<br>fashion<br>lumber<br>trust<br>noise
-bip_39_word_new_br_11: genre<br>bar<br>problem<br>flush<br>myth<br>chief<br>fashion<br>lumber<br>trust<br>noise<br>crush
 bip_39_word_new_br_12: genre<br>bar<br>problem<br>flush<br>myth<br>chief<br>fashion<br>lumber<br>trust<br>noise<br>crush<br>ankle
 bip_39_word_new_br_2: genre<br>bar
 bip_39_word_new_br_3: genre<br>bar<br>problem
-bip_39_word_new_br_4: genre<br>bar<br>problem<br>flush
-bip_39_word_new_br_5: genre<br>bar<br>problem<br>flush<br>myth
-bip_39_word_new_br_6: genre<br>bar<br>problem<br>flush<br>myth<br>chief
-bip_39_word_new_br_7: genre<br>bar<br>problem<br>flush<br>myth<br>chief<br>fashion
-bip_39_word_new_br_8: genre<br>bar<br>problem<br>flush<br>myth<br>chief<br>fashion<br>lumber
-bip_39_word_new_br_9: genre<br>bar<br>problem<br>flush<br>myth<br>chief<br>fashion<br>lumber<br>trust
-bip_39_word_new_line_1: genre
-bip_39_word_new_line_10: 'genre
-
-  bar
-
-  problem
-
-  flush
-
-  myth
-
-  chief
-
-  fashion
-
-  lumber
-
-  trust
-
-  noise'
-bip_39_word_new_line_11: 'genre
-
-  bar
-
-  problem
-
-  flush
-
-  myth
-
-  chief
-
-  fashion
-
-  lumber
-
-  trust
-
-  noise
-
-  crush'
 bip_39_word_new_line_12: 'genre
 
   bar
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'genre
   bar
 
   problem'
-bip_39_word_new_line_4: 'genre
-
-  bar
-
-  problem
-
-  flush'
-bip_39_word_new_line_5: 'genre
-
-  bar
-
-  problem
-
-  flush
-
-  myth'
-bip_39_word_new_line_6: 'genre
-
-  bar
-
-  problem
-
-  flush
-
-  myth
-
-  chief'
-bip_39_word_new_line_7: 'genre
-
-  bar
-
-  problem
-
-  flush
-
-  myth
-
-  chief
-
-  fashion'
-bip_39_word_new_line_8: 'genre
-
-  bar
-
-  problem
-
-  flush
-
-  myth
-
-  chief
-
-  fashion
-
-  lumber'
-bip_39_word_new_line_9: 'genre
-
-  bar
-
-  problem
-
-  flush
-
-  myth
-
-  chief
-
-  fashion
-
-  lumber
-
-  trust'
-bip_39_word_no_space_1: genre
-bip_39_word_no_space_10: genrebarproblemflushmythchieffashionlumbertrustnoise
-bip_39_word_no_space_11: genrebarproblemflushmythchieffashionlumbertrustnoisecrush
 bip_39_word_no_space_12: genrebarproblemflushmythchieffashionlumbertrustnoisecrushankle
 bip_39_word_no_space_2: genrebar
 bip_39_word_no_space_3: genrebarproblem
-bip_39_word_no_space_4: genrebarproblemflush
-bip_39_word_no_space_5: genrebarproblemflushmyth
-bip_39_word_no_space_6: genrebarproblemflushmythchief
-bip_39_word_no_space_7: genrebarproblemflushmythchieffashion
-bip_39_word_no_space_8: genrebarproblemflushmythchieffashionlumber
-bip_39_word_no_space_9: genrebarproblemflushmythchieffashionlumbertrust
-bip_39_word_space_0:
-- genre
-- bar
-- problem
-- flush
-- myth
-- chief
-- fashion
-- lumber
-- trust
-- noise
-- crush
-- ankle
-bip_39_word_space_1: genre
-bip_39_word_space_10: genre bar problem flush myth chief fashion lumber trust noise
-bip_39_word_space_11: genre bar problem flush myth chief fashion lumber trust noise
-  crush
 bip_39_word_space_12: genre bar problem flush myth chief fashion lumber trust noise
   crush ankle
 bip_39_word_space_2: genre bar
 bip_39_word_space_3: genre bar problem
-bip_39_word_space_4: genre bar problem flush
-bip_39_word_space_5: genre bar problem flush myth
-bip_39_word_space_6: genre bar problem flush myth chief
-bip_39_word_space_7: genre bar problem flush myth chief fashion
-bip_39_word_space_8: genre bar problem flush myth chief fashion lumber
-bip_39_word_space_9: genre bar problem flush myth chief fashion lumber trust
-bip_39_word_underscore_1: genre
-bip_39_word_underscore_10: genre_bar_problem_flush_myth_chief_fashion_lumber_trust_noise
-bip_39_word_underscore_11: genre_bar_problem_flush_myth_chief_fashion_lumber_trust_noise_crush
 bip_39_word_underscore_12: genre_bar_problem_flush_myth_chief_fashion_lumber_trust_noise_crush_ankle
 bip_39_word_underscore_2: genre_bar
 bip_39_word_underscore_3: genre_bar_problem
-bip_39_word_underscore_4: genre_bar_problem_flush
-bip_39_word_underscore_5: genre_bar_problem_flush_myth
-bip_39_word_underscore_6: genre_bar_problem_flush_myth_chief
-bip_39_word_underscore_7: genre_bar_problem_flush_myth_chief_fashion
-bip_39_word_underscore_8: genre_bar_problem_flush_myth_chief_fashion_lumber
-bip_39_word_underscore_9: genre_bar_problem_flush_myth_chief_fashion_lumber_trust
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

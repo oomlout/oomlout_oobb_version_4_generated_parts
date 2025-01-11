@@ -1,68 +1,9 @@
-bip_39_word_dash_1: choice
-bip_39_word_dash_10: choice-swallow-crumble-month-fuel-harvest-insane-royal-tiger-above
-bip_39_word_dash_11: choice-swallow-crumble-month-fuel-harvest-insane-royal-tiger-above-orchard
 bip_39_word_dash_12: choice-swallow-crumble-month-fuel-harvest-insane-royal-tiger-above-orchard-act
 bip_39_word_dash_2: choice-swallow
 bip_39_word_dash_3: choice-swallow-crumble
-bip_39_word_dash_4: choice-swallow-crumble-month
-bip_39_word_dash_5: choice-swallow-crumble-month-fuel
-bip_39_word_dash_6: choice-swallow-crumble-month-fuel-harvest
-bip_39_word_dash_7: choice-swallow-crumble-month-fuel-harvest-insane
-bip_39_word_dash_8: choice-swallow-crumble-month-fuel-harvest-insane-royal
-bip_39_word_dash_9: choice-swallow-crumble-month-fuel-harvest-insane-royal-tiger
-bip_39_word_new_br_1: choice
-bip_39_word_new_br_10: choice<br>swallow<br>crumble<br>month<br>fuel<br>harvest<br>insane<br>royal<br>tiger<br>above
-bip_39_word_new_br_11: choice<br>swallow<br>crumble<br>month<br>fuel<br>harvest<br>insane<br>royal<br>tiger<br>above<br>orchard
 bip_39_word_new_br_12: choice<br>swallow<br>crumble<br>month<br>fuel<br>harvest<br>insane<br>royal<br>tiger<br>above<br>orchard<br>act
 bip_39_word_new_br_2: choice<br>swallow
 bip_39_word_new_br_3: choice<br>swallow<br>crumble
-bip_39_word_new_br_4: choice<br>swallow<br>crumble<br>month
-bip_39_word_new_br_5: choice<br>swallow<br>crumble<br>month<br>fuel
-bip_39_word_new_br_6: choice<br>swallow<br>crumble<br>month<br>fuel<br>harvest
-bip_39_word_new_br_7: choice<br>swallow<br>crumble<br>month<br>fuel<br>harvest<br>insane
-bip_39_word_new_br_8: choice<br>swallow<br>crumble<br>month<br>fuel<br>harvest<br>insane<br>royal
-bip_39_word_new_br_9: choice<br>swallow<br>crumble<br>month<br>fuel<br>harvest<br>insane<br>royal<br>tiger
-bip_39_word_new_line_1: choice
-bip_39_word_new_line_10: 'choice
-
-  swallow
-
-  crumble
-
-  month
-
-  fuel
-
-  harvest
-
-  insane
-
-  royal
-
-  tiger
-
-  above'
-bip_39_word_new_line_11: 'choice
-
-  swallow
-
-  crumble
-
-  month
-
-  fuel
-
-  harvest
-
-  insane
-
-  royal
-
-  tiger
-
-  above
-
-  orchard'
 bip_39_word_new_line_12: 'choice
 
   swallow
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'choice
   swallow
 
   crumble'
-bip_39_word_new_line_4: 'choice
-
-  swallow
-
-  crumble
-
-  month'
-bip_39_word_new_line_5: 'choice
-
-  swallow
-
-  crumble
-
-  month
-
-  fuel'
-bip_39_word_new_line_6: 'choice
-
-  swallow
-
-  crumble
-
-  month
-
-  fuel
-
-  harvest'
-bip_39_word_new_line_7: 'choice
-
-  swallow
-
-  crumble
-
-  month
-
-  fuel
-
-  harvest
-
-  insane'
-bip_39_word_new_line_8: 'choice
-
-  swallow
-
-  crumble
-
-  month
-
-  fuel
-
-  harvest
-
-  insane
-
-  royal'
-bip_39_word_new_line_9: 'choice
-
-  swallow
-
-  crumble
-
-  month
-
-  fuel
-
-  harvest
-
-  insane
-
-  royal
-
-  tiger'
-bip_39_word_no_space_1: choice
-bip_39_word_no_space_10: choiceswallowcrumblemonthfuelharvestinsaneroyaltigerabove
-bip_39_word_no_space_11: choiceswallowcrumblemonthfuelharvestinsaneroyaltigeraboveorchard
 bip_39_word_no_space_12: choiceswallowcrumblemonthfuelharvestinsaneroyaltigeraboveorchardact
 bip_39_word_no_space_2: choiceswallow
 bip_39_word_no_space_3: choiceswallowcrumble
-bip_39_word_no_space_4: choiceswallowcrumblemonth
-bip_39_word_no_space_5: choiceswallowcrumblemonthfuel
-bip_39_word_no_space_6: choiceswallowcrumblemonthfuelharvest
-bip_39_word_no_space_7: choiceswallowcrumblemonthfuelharvestinsane
-bip_39_word_no_space_8: choiceswallowcrumblemonthfuelharvestinsaneroyal
-bip_39_word_no_space_9: choiceswallowcrumblemonthfuelharvestinsaneroyaltiger
-bip_39_word_space_0:
-- choice
-- swallow
-- crumble
-- month
-- fuel
-- harvest
-- insane
-- royal
-- tiger
-- above
-- orchard
-- act
-bip_39_word_space_1: choice
-bip_39_word_space_10: choice swallow crumble month fuel harvest insane royal tiger
-  above
-bip_39_word_space_11: choice swallow crumble month fuel harvest insane royal tiger
-  above orchard
 bip_39_word_space_12: choice swallow crumble month fuel harvest insane royal tiger
   above orchard act
 bip_39_word_space_2: choice swallow
 bip_39_word_space_3: choice swallow crumble
-bip_39_word_space_4: choice swallow crumble month
-bip_39_word_space_5: choice swallow crumble month fuel
-bip_39_word_space_6: choice swallow crumble month fuel harvest
-bip_39_word_space_7: choice swallow crumble month fuel harvest insane
-bip_39_word_space_8: choice swallow crumble month fuel harvest insane royal
-bip_39_word_space_9: choice swallow crumble month fuel harvest insane royal tiger
-bip_39_word_underscore_1: choice
-bip_39_word_underscore_10: choice_swallow_crumble_month_fuel_harvest_insane_royal_tiger_above
-bip_39_word_underscore_11: choice_swallow_crumble_month_fuel_harvest_insane_royal_tiger_above_orchard
 bip_39_word_underscore_12: choice_swallow_crumble_month_fuel_harvest_insane_royal_tiger_above_orchard_act
 bip_39_word_underscore_2: choice_swallow
 bip_39_word_underscore_3: choice_swallow_crumble
-bip_39_word_underscore_4: choice_swallow_crumble_month
-bip_39_word_underscore_5: choice_swallow_crumble_month_fuel
-bip_39_word_underscore_6: choice_swallow_crumble_month_fuel_harvest
-bip_39_word_underscore_7: choice_swallow_crumble_month_fuel_harvest_insane
-bip_39_word_underscore_8: choice_swallow_crumble_month_fuel_harvest_insane_royal
-bip_39_word_underscore_9: choice_swallow_crumble_month_fuel_harvest_insane_royal_tiger
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

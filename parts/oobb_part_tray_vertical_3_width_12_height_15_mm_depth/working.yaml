@@ -1,68 +1,9 @@
-bip_39_word_dash_1: alpha
-bip_39_word_dash_10: alpha-ring-night-cable-hollow-same-arena-damage-scan-pupil
-bip_39_word_dash_11: alpha-ring-night-cable-hollow-same-arena-damage-scan-pupil-home
 bip_39_word_dash_12: alpha-ring-night-cable-hollow-same-arena-damage-scan-pupil-home-appear
 bip_39_word_dash_2: alpha-ring
 bip_39_word_dash_3: alpha-ring-night
-bip_39_word_dash_4: alpha-ring-night-cable
-bip_39_word_dash_5: alpha-ring-night-cable-hollow
-bip_39_word_dash_6: alpha-ring-night-cable-hollow-same
-bip_39_word_dash_7: alpha-ring-night-cable-hollow-same-arena
-bip_39_word_dash_8: alpha-ring-night-cable-hollow-same-arena-damage
-bip_39_word_dash_9: alpha-ring-night-cable-hollow-same-arena-damage-scan
-bip_39_word_new_br_1: alpha
-bip_39_word_new_br_10: alpha<br>ring<br>night<br>cable<br>hollow<br>same<br>arena<br>damage<br>scan<br>pupil
-bip_39_word_new_br_11: alpha<br>ring<br>night<br>cable<br>hollow<br>same<br>arena<br>damage<br>scan<br>pupil<br>home
 bip_39_word_new_br_12: alpha<br>ring<br>night<br>cable<br>hollow<br>same<br>arena<br>damage<br>scan<br>pupil<br>home<br>appear
 bip_39_word_new_br_2: alpha<br>ring
 bip_39_word_new_br_3: alpha<br>ring<br>night
-bip_39_word_new_br_4: alpha<br>ring<br>night<br>cable
-bip_39_word_new_br_5: alpha<br>ring<br>night<br>cable<br>hollow
-bip_39_word_new_br_6: alpha<br>ring<br>night<br>cable<br>hollow<br>same
-bip_39_word_new_br_7: alpha<br>ring<br>night<br>cable<br>hollow<br>same<br>arena
-bip_39_word_new_br_8: alpha<br>ring<br>night<br>cable<br>hollow<br>same<br>arena<br>damage
-bip_39_word_new_br_9: alpha<br>ring<br>night<br>cable<br>hollow<br>same<br>arena<br>damage<br>scan
-bip_39_word_new_line_1: alpha
-bip_39_word_new_line_10: 'alpha
-
-  ring
-
-  night
-
-  cable
-
-  hollow
-
-  same
-
-  arena
-
-  damage
-
-  scan
-
-  pupil'
-bip_39_word_new_line_11: 'alpha
-
-  ring
-
-  night
-
-  cable
-
-  hollow
-
-  same
-
-  arena
-
-  damage
-
-  scan
-
-  pupil
-
-  home'
 bip_39_word_new_line_12: 'alpha
 
   ring
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'alpha
   ring
 
   night'
-bip_39_word_new_line_4: 'alpha
-
-  ring
-
-  night
-
-  cable'
-bip_39_word_new_line_5: 'alpha
-
-  ring
-
-  night
-
-  cable
-
-  hollow'
-bip_39_word_new_line_6: 'alpha
-
-  ring
-
-  night
-
-  cable
-
-  hollow
-
-  same'
-bip_39_word_new_line_7: 'alpha
-
-  ring
-
-  night
-
-  cable
-
-  hollow
-
-  same
-
-  arena'
-bip_39_word_new_line_8: 'alpha
-
-  ring
-
-  night
-
-  cable
-
-  hollow
-
-  same
-
-  arena
-
-  damage'
-bip_39_word_new_line_9: 'alpha
-
-  ring
-
-  night
-
-  cable
-
-  hollow
-
-  same
-
-  arena
-
-  damage
-
-  scan'
-bip_39_word_no_space_1: alpha
-bip_39_word_no_space_10: alpharingnightcablehollowsamearenadamagescanpupil
-bip_39_word_no_space_11: alpharingnightcablehollowsamearenadamagescanpupilhome
 bip_39_word_no_space_12: alpharingnightcablehollowsamearenadamagescanpupilhomeappear
 bip_39_word_no_space_2: alpharing
 bip_39_word_no_space_3: alpharingnight
-bip_39_word_no_space_4: alpharingnightcable
-bip_39_word_no_space_5: alpharingnightcablehollow
-bip_39_word_no_space_6: alpharingnightcablehollowsame
-bip_39_word_no_space_7: alpharingnightcablehollowsamearena
-bip_39_word_no_space_8: alpharingnightcablehollowsamearenadamage
-bip_39_word_no_space_9: alpharingnightcablehollowsamearenadamagescan
-bip_39_word_space_0:
-- alpha
-- ring
-- night
-- cable
-- hollow
-- same
-- arena
-- damage
-- scan
-- pupil
-- home
-- appear
-bip_39_word_space_1: alpha
-bip_39_word_space_10: alpha ring night cable hollow same arena damage scan pupil
-bip_39_word_space_11: alpha ring night cable hollow same arena damage scan pupil home
 bip_39_word_space_12: alpha ring night cable hollow same arena damage scan pupil home
   appear
 bip_39_word_space_2: alpha ring
 bip_39_word_space_3: alpha ring night
-bip_39_word_space_4: alpha ring night cable
-bip_39_word_space_5: alpha ring night cable hollow
-bip_39_word_space_6: alpha ring night cable hollow same
-bip_39_word_space_7: alpha ring night cable hollow same arena
-bip_39_word_space_8: alpha ring night cable hollow same arena damage
-bip_39_word_space_9: alpha ring night cable hollow same arena damage scan
-bip_39_word_underscore_1: alpha
-bip_39_word_underscore_10: alpha_ring_night_cable_hollow_same_arena_damage_scan_pupil
-bip_39_word_underscore_11: alpha_ring_night_cable_hollow_same_arena_damage_scan_pupil_home
 bip_39_word_underscore_12: alpha_ring_night_cable_hollow_same_arena_damage_scan_pupil_home_appear
 bip_39_word_underscore_2: alpha_ring
 bip_39_word_underscore_3: alpha_ring_night
-bip_39_word_underscore_4: alpha_ring_night_cable
-bip_39_word_underscore_5: alpha_ring_night_cable_hollow
-bip_39_word_underscore_6: alpha_ring_night_cable_hollow_same
-bip_39_word_underscore_7: alpha_ring_night_cable_hollow_same_arena
-bip_39_word_underscore_8: alpha_ring_night_cable_hollow_same_arena_damage
-bip_39_word_underscore_9: alpha_ring_night_cable_hollow_same_arena_damage_scan
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

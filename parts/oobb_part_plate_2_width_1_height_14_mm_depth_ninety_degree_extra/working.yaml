@@ -1,68 +1,9 @@
-bip_39_word_dash_1: boss
-bip_39_word_dash_10: boss-wild-primary-sunset-impulse-hint-lock-reform-able-tape
-bip_39_word_dash_11: boss-wild-primary-sunset-impulse-hint-lock-reform-able-tape-easy
 bip_39_word_dash_12: boss-wild-primary-sunset-impulse-hint-lock-reform-able-tape-easy-agree
 bip_39_word_dash_2: boss-wild
 bip_39_word_dash_3: boss-wild-primary
-bip_39_word_dash_4: boss-wild-primary-sunset
-bip_39_word_dash_5: boss-wild-primary-sunset-impulse
-bip_39_word_dash_6: boss-wild-primary-sunset-impulse-hint
-bip_39_word_dash_7: boss-wild-primary-sunset-impulse-hint-lock
-bip_39_word_dash_8: boss-wild-primary-sunset-impulse-hint-lock-reform
-bip_39_word_dash_9: boss-wild-primary-sunset-impulse-hint-lock-reform-able
-bip_39_word_new_br_1: boss
-bip_39_word_new_br_10: boss<br>wild<br>primary<br>sunset<br>impulse<br>hint<br>lock<br>reform<br>able<br>tape
-bip_39_word_new_br_11: boss<br>wild<br>primary<br>sunset<br>impulse<br>hint<br>lock<br>reform<br>able<br>tape<br>easy
 bip_39_word_new_br_12: boss<br>wild<br>primary<br>sunset<br>impulse<br>hint<br>lock<br>reform<br>able<br>tape<br>easy<br>agree
 bip_39_word_new_br_2: boss<br>wild
 bip_39_word_new_br_3: boss<br>wild<br>primary
-bip_39_word_new_br_4: boss<br>wild<br>primary<br>sunset
-bip_39_word_new_br_5: boss<br>wild<br>primary<br>sunset<br>impulse
-bip_39_word_new_br_6: boss<br>wild<br>primary<br>sunset<br>impulse<br>hint
-bip_39_word_new_br_7: boss<br>wild<br>primary<br>sunset<br>impulse<br>hint<br>lock
-bip_39_word_new_br_8: boss<br>wild<br>primary<br>sunset<br>impulse<br>hint<br>lock<br>reform
-bip_39_word_new_br_9: boss<br>wild<br>primary<br>sunset<br>impulse<br>hint<br>lock<br>reform<br>able
-bip_39_word_new_line_1: boss
-bip_39_word_new_line_10: 'boss
-
-  wild
-
-  primary
-
-  sunset
-
-  impulse
-
-  hint
-
-  lock
-
-  reform
-
-  able
-
-  tape'
-bip_39_word_new_line_11: 'boss
-
-  wild
-
-  primary
-
-  sunset
-
-  impulse
-
-  hint
-
-  lock
-
-  reform
-
-  able
-
-  tape
-
-  easy'
 bip_39_word_new_line_12: 'boss
 
   wild
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'boss
   wild
 
   primary'
-bip_39_word_new_line_4: 'boss
-
-  wild
-
-  primary
-
-  sunset'
-bip_39_word_new_line_5: 'boss
-
-  wild
-
-  primary
-
-  sunset
-
-  impulse'
-bip_39_word_new_line_6: 'boss
-
-  wild
-
-  primary
-
-  sunset
-
-  impulse
-
-  hint'
-bip_39_word_new_line_7: 'boss
-
-  wild
-
-  primary
-
-  sunset
-
-  impulse
-
-  hint
-
-  lock'
-bip_39_word_new_line_8: 'boss
-
-  wild
-
-  primary
-
-  sunset
-
-  impulse
-
-  hint
-
-  lock
-
-  reform'
-bip_39_word_new_line_9: 'boss
-
-  wild
-
-  primary
-
-  sunset
-
-  impulse
-
-  hint
-
-  lock
-
-  reform
-
-  able'
-bip_39_word_no_space_1: boss
-bip_39_word_no_space_10: bosswildprimarysunsetimpulsehintlockreformabletape
-bip_39_word_no_space_11: bosswildprimarysunsetimpulsehintlockreformabletapeeasy
 bip_39_word_no_space_12: bosswildprimarysunsetimpulsehintlockreformabletapeeasyagree
 bip_39_word_no_space_2: bosswild
 bip_39_word_no_space_3: bosswildprimary
-bip_39_word_no_space_4: bosswildprimarysunset
-bip_39_word_no_space_5: bosswildprimarysunsetimpulse
-bip_39_word_no_space_6: bosswildprimarysunsetimpulsehint
-bip_39_word_no_space_7: bosswildprimarysunsetimpulsehintlock
-bip_39_word_no_space_8: bosswildprimarysunsetimpulsehintlockreform
-bip_39_word_no_space_9: bosswildprimarysunsetimpulsehintlockreformable
-bip_39_word_space_0:
-- boss
-- wild
-- primary
-- sunset
-- impulse
-- hint
-- lock
-- reform
-- able
-- tape
-- easy
-- agree
-bip_39_word_space_1: boss
-bip_39_word_space_10: boss wild primary sunset impulse hint lock reform able tape
-bip_39_word_space_11: boss wild primary sunset impulse hint lock reform able tape
-  easy
 bip_39_word_space_12: boss wild primary sunset impulse hint lock reform able tape
   easy agree
 bip_39_word_space_2: boss wild
 bip_39_word_space_3: boss wild primary
-bip_39_word_space_4: boss wild primary sunset
-bip_39_word_space_5: boss wild primary sunset impulse
-bip_39_word_space_6: boss wild primary sunset impulse hint
-bip_39_word_space_7: boss wild primary sunset impulse hint lock
-bip_39_word_space_8: boss wild primary sunset impulse hint lock reform
-bip_39_word_space_9: boss wild primary sunset impulse hint lock reform able
-bip_39_word_underscore_1: boss
-bip_39_word_underscore_10: boss_wild_primary_sunset_impulse_hint_lock_reform_able_tape
-bip_39_word_underscore_11: boss_wild_primary_sunset_impulse_hint_lock_reform_able_tape_easy
 bip_39_word_underscore_12: boss_wild_primary_sunset_impulse_hint_lock_reform_able_tape_easy_agree
 bip_39_word_underscore_2: boss_wild
 bip_39_word_underscore_3: boss_wild_primary
-bip_39_word_underscore_4: boss_wild_primary_sunset
-bip_39_word_underscore_5: boss_wild_primary_sunset_impulse
-bip_39_word_underscore_6: boss_wild_primary_sunset_impulse_hint
-bip_39_word_underscore_7: boss_wild_primary_sunset_impulse_hint_lock
-bip_39_word_underscore_8: boss_wild_primary_sunset_impulse_hint_lock_reform
-bip_39_word_underscore_9: boss_wild_primary_sunset_impulse_hint_lock_reform_able
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

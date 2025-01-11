@@ -1,68 +1,9 @@
-bip_39_word_dash_1: leaf
-bip_39_word_dash_10: leaf-illness-local-horror-tired-occur-like-duck-little-mix
-bip_39_word_dash_11: leaf-illness-local-horror-tired-occur-like-duck-little-mix-myself
 bip_39_word_dash_12: leaf-illness-local-horror-tired-occur-like-duck-little-mix-myself-apology
 bip_39_word_dash_2: leaf-illness
 bip_39_word_dash_3: leaf-illness-local
-bip_39_word_dash_4: leaf-illness-local-horror
-bip_39_word_dash_5: leaf-illness-local-horror-tired
-bip_39_word_dash_6: leaf-illness-local-horror-tired-occur
-bip_39_word_dash_7: leaf-illness-local-horror-tired-occur-like
-bip_39_word_dash_8: leaf-illness-local-horror-tired-occur-like-duck
-bip_39_word_dash_9: leaf-illness-local-horror-tired-occur-like-duck-little
-bip_39_word_new_br_1: leaf
-bip_39_word_new_br_10: leaf<br>illness<br>local<br>horror<br>tired<br>occur<br>like<br>duck<br>little<br>mix
-bip_39_word_new_br_11: leaf<br>illness<br>local<br>horror<br>tired<br>occur<br>like<br>duck<br>little<br>mix<br>myself
 bip_39_word_new_br_12: leaf<br>illness<br>local<br>horror<br>tired<br>occur<br>like<br>duck<br>little<br>mix<br>myself<br>apology
 bip_39_word_new_br_2: leaf<br>illness
 bip_39_word_new_br_3: leaf<br>illness<br>local
-bip_39_word_new_br_4: leaf<br>illness<br>local<br>horror
-bip_39_word_new_br_5: leaf<br>illness<br>local<br>horror<br>tired
-bip_39_word_new_br_6: leaf<br>illness<br>local<br>horror<br>tired<br>occur
-bip_39_word_new_br_7: leaf<br>illness<br>local<br>horror<br>tired<br>occur<br>like
-bip_39_word_new_br_8: leaf<br>illness<br>local<br>horror<br>tired<br>occur<br>like<br>duck
-bip_39_word_new_br_9: leaf<br>illness<br>local<br>horror<br>tired<br>occur<br>like<br>duck<br>little
-bip_39_word_new_line_1: leaf
-bip_39_word_new_line_10: 'leaf
-
-  illness
-
-  local
-
-  horror
-
-  tired
-
-  occur
-
-  like
-
-  duck
-
-  little
-
-  mix'
-bip_39_word_new_line_11: 'leaf
-
-  illness
-
-  local
-
-  horror
-
-  tired
-
-  occur
-
-  like
-
-  duck
-
-  little
-
-  mix
-
-  myself'
 bip_39_word_new_line_12: 'leaf
 
   illness
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'leaf
   illness
 
   local'
-bip_39_word_new_line_4: 'leaf
-
-  illness
-
-  local
-
-  horror'
-bip_39_word_new_line_5: 'leaf
-
-  illness
-
-  local
-
-  horror
-
-  tired'
-bip_39_word_new_line_6: 'leaf
-
-  illness
-
-  local
-
-  horror
-
-  tired
-
-  occur'
-bip_39_word_new_line_7: 'leaf
-
-  illness
-
-  local
-
-  horror
-
-  tired
-
-  occur
-
-  like'
-bip_39_word_new_line_8: 'leaf
-
-  illness
-
-  local
-
-  horror
-
-  tired
-
-  occur
-
-  like
-
-  duck'
-bip_39_word_new_line_9: 'leaf
-
-  illness
-
-  local
-
-  horror
-
-  tired
-
-  occur
-
-  like
-
-  duck
-
-  little'
-bip_39_word_no_space_1: leaf
-bip_39_word_no_space_10: leafillnesslocalhorrortiredoccurlikeducklittlemix
-bip_39_word_no_space_11: leafillnesslocalhorrortiredoccurlikeducklittlemixmyself
 bip_39_word_no_space_12: leafillnesslocalhorrortiredoccurlikeducklittlemixmyselfapology
 bip_39_word_no_space_2: leafillness
 bip_39_word_no_space_3: leafillnesslocal
-bip_39_word_no_space_4: leafillnesslocalhorror
-bip_39_word_no_space_5: leafillnesslocalhorrortired
-bip_39_word_no_space_6: leafillnesslocalhorrortiredoccur
-bip_39_word_no_space_7: leafillnesslocalhorrortiredoccurlike
-bip_39_word_no_space_8: leafillnesslocalhorrortiredoccurlikeduck
-bip_39_word_no_space_9: leafillnesslocalhorrortiredoccurlikeducklittle
-bip_39_word_space_0:
-- leaf
-- illness
-- local
-- horror
-- tired
-- occur
-- like
-- duck
-- little
-- mix
-- myself
-- apology
-bip_39_word_space_1: leaf
-bip_39_word_space_10: leaf illness local horror tired occur like duck little mix
-bip_39_word_space_11: leaf illness local horror tired occur like duck little mix myself
 bip_39_word_space_12: leaf illness local horror tired occur like duck little mix myself
   apology
 bip_39_word_space_2: leaf illness
 bip_39_word_space_3: leaf illness local
-bip_39_word_space_4: leaf illness local horror
-bip_39_word_space_5: leaf illness local horror tired
-bip_39_word_space_6: leaf illness local horror tired occur
-bip_39_word_space_7: leaf illness local horror tired occur like
-bip_39_word_space_8: leaf illness local horror tired occur like duck
-bip_39_word_space_9: leaf illness local horror tired occur like duck little
-bip_39_word_underscore_1: leaf
-bip_39_word_underscore_10: leaf_illness_local_horror_tired_occur_like_duck_little_mix
-bip_39_word_underscore_11: leaf_illness_local_horror_tired_occur_like_duck_little_mix_myself
 bip_39_word_underscore_12: leaf_illness_local_horror_tired_occur_like_duck_little_mix_myself_apology
 bip_39_word_underscore_2: leaf_illness
 bip_39_word_underscore_3: leaf_illness_local
-bip_39_word_underscore_4: leaf_illness_local_horror
-bip_39_word_underscore_5: leaf_illness_local_horror_tired
-bip_39_word_underscore_6: leaf_illness_local_horror_tired_occur
-bip_39_word_underscore_7: leaf_illness_local_horror_tired_occur_like
-bip_39_word_underscore_8: leaf_illness_local_horror_tired_occur_like_duck
-bip_39_word_underscore_9: leaf_illness_local_horror_tired_occur_like_duck_little
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

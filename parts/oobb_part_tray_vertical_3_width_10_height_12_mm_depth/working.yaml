@@ -1,68 +1,9 @@
-bip_39_word_dash_1: cable
-bip_39_word_dash_10: cable-domain-turkey-license-parrot-garlic-forest-deny-diet-drum
-bip_39_word_dash_11: cable-domain-turkey-license-parrot-garlic-forest-deny-diet-drum-fancy
 bip_39_word_dash_12: cable-domain-turkey-license-parrot-garlic-forest-deny-diet-drum-fancy-anchor
 bip_39_word_dash_2: cable-domain
 bip_39_word_dash_3: cable-domain-turkey
-bip_39_word_dash_4: cable-domain-turkey-license
-bip_39_word_dash_5: cable-domain-turkey-license-parrot
-bip_39_word_dash_6: cable-domain-turkey-license-parrot-garlic
-bip_39_word_dash_7: cable-domain-turkey-license-parrot-garlic-forest
-bip_39_word_dash_8: cable-domain-turkey-license-parrot-garlic-forest-deny
-bip_39_word_dash_9: cable-domain-turkey-license-parrot-garlic-forest-deny-diet
-bip_39_word_new_br_1: cable
-bip_39_word_new_br_10: cable<br>domain<br>turkey<br>license<br>parrot<br>garlic<br>forest<br>deny<br>diet<br>drum
-bip_39_word_new_br_11: cable<br>domain<br>turkey<br>license<br>parrot<br>garlic<br>forest<br>deny<br>diet<br>drum<br>fancy
 bip_39_word_new_br_12: cable<br>domain<br>turkey<br>license<br>parrot<br>garlic<br>forest<br>deny<br>diet<br>drum<br>fancy<br>anchor
 bip_39_word_new_br_2: cable<br>domain
 bip_39_word_new_br_3: cable<br>domain<br>turkey
-bip_39_word_new_br_4: cable<br>domain<br>turkey<br>license
-bip_39_word_new_br_5: cable<br>domain<br>turkey<br>license<br>parrot
-bip_39_word_new_br_6: cable<br>domain<br>turkey<br>license<br>parrot<br>garlic
-bip_39_word_new_br_7: cable<br>domain<br>turkey<br>license<br>parrot<br>garlic<br>forest
-bip_39_word_new_br_8: cable<br>domain<br>turkey<br>license<br>parrot<br>garlic<br>forest<br>deny
-bip_39_word_new_br_9: cable<br>domain<br>turkey<br>license<br>parrot<br>garlic<br>forest<br>deny<br>diet
-bip_39_word_new_line_1: cable
-bip_39_word_new_line_10: 'cable
-
-  domain
-
-  turkey
-
-  license
-
-  parrot
-
-  garlic
-
-  forest
-
-  deny
-
-  diet
-
-  drum'
-bip_39_word_new_line_11: 'cable
-
-  domain
-
-  turkey
-
-  license
-
-  parrot
-
-  garlic
-
-  forest
-
-  deny
-
-  diet
-
-  drum
-
-  fancy'
 bip_39_word_new_line_12: 'cable
 
   domain
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'cable
   domain
 
   turkey'
-bip_39_word_new_line_4: 'cable
-
-  domain
-
-  turkey
-
-  license'
-bip_39_word_new_line_5: 'cable
-
-  domain
-
-  turkey
-
-  license
-
-  parrot'
-bip_39_word_new_line_6: 'cable
-
-  domain
-
-  turkey
-
-  license
-
-  parrot
-
-  garlic'
-bip_39_word_new_line_7: 'cable
-
-  domain
-
-  turkey
-
-  license
-
-  parrot
-
-  garlic
-
-  forest'
-bip_39_word_new_line_8: 'cable
-
-  domain
-
-  turkey
-
-  license
-
-  parrot
-
-  garlic
-
-  forest
-
-  deny'
-bip_39_word_new_line_9: 'cable
-
-  domain
-
-  turkey
-
-  license
-
-  parrot
-
-  garlic
-
-  forest
-
-  deny
-
-  diet'
-bip_39_word_no_space_1: cable
-bip_39_word_no_space_10: cabledomainturkeylicenseparrotgarlicforestdenydietdrum
-bip_39_word_no_space_11: cabledomainturkeylicenseparrotgarlicforestdenydietdrumfancy
 bip_39_word_no_space_12: cabledomainturkeylicenseparrotgarlicforestdenydietdrumfancyanchor
 bip_39_word_no_space_2: cabledomain
 bip_39_word_no_space_3: cabledomainturkey
-bip_39_word_no_space_4: cabledomainturkeylicense
-bip_39_word_no_space_5: cabledomainturkeylicenseparrot
-bip_39_word_no_space_6: cabledomainturkeylicenseparrotgarlic
-bip_39_word_no_space_7: cabledomainturkeylicenseparrotgarlicforest
-bip_39_word_no_space_8: cabledomainturkeylicenseparrotgarlicforestdeny
-bip_39_word_no_space_9: cabledomainturkeylicenseparrotgarlicforestdenydiet
-bip_39_word_space_0:
-- cable
-- domain
-- turkey
-- license
-- parrot
-- garlic
-- forest
-- deny
-- diet
-- drum
-- fancy
-- anchor
-bip_39_word_space_1: cable
-bip_39_word_space_10: cable domain turkey license parrot garlic forest deny diet drum
-bip_39_word_space_11: cable domain turkey license parrot garlic forest deny diet drum
-  fancy
 bip_39_word_space_12: cable domain turkey license parrot garlic forest deny diet drum
   fancy anchor
 bip_39_word_space_2: cable domain
 bip_39_word_space_3: cable domain turkey
-bip_39_word_space_4: cable domain turkey license
-bip_39_word_space_5: cable domain turkey license parrot
-bip_39_word_space_6: cable domain turkey license parrot garlic
-bip_39_word_space_7: cable domain turkey license parrot garlic forest
-bip_39_word_space_8: cable domain turkey license parrot garlic forest deny
-bip_39_word_space_9: cable domain turkey license parrot garlic forest deny diet
-bip_39_word_underscore_1: cable
-bip_39_word_underscore_10: cable_domain_turkey_license_parrot_garlic_forest_deny_diet_drum
-bip_39_word_underscore_11: cable_domain_turkey_license_parrot_garlic_forest_deny_diet_drum_fancy
 bip_39_word_underscore_12: cable_domain_turkey_license_parrot_garlic_forest_deny_diet_drum_fancy_anchor
 bip_39_word_underscore_2: cable_domain
 bip_39_word_underscore_3: cable_domain_turkey
-bip_39_word_underscore_4: cable_domain_turkey_license
-bip_39_word_underscore_5: cable_domain_turkey_license_parrot
-bip_39_word_underscore_6: cable_domain_turkey_license_parrot_garlic
-bip_39_word_underscore_7: cable_domain_turkey_license_parrot_garlic_forest
-bip_39_word_underscore_8: cable_domain_turkey_license_parrot_garlic_forest_deny
-bip_39_word_underscore_9: cable_domain_turkey_license_parrot_garlic_forest_deny_diet
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

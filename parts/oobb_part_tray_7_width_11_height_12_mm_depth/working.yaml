@@ -1,68 +1,9 @@
-bip_39_word_dash_1: secret
-bip_39_word_dash_10: secret-neither-decrease-wide-curve-struggle-shoot-group-knee-age
-bip_39_word_dash_11: secret-neither-decrease-wide-curve-struggle-shoot-group-knee-age-behind
 bip_39_word_dash_12: secret-neither-decrease-wide-curve-struggle-shoot-group-knee-age-behind-arrive
 bip_39_word_dash_2: secret-neither
 bip_39_word_dash_3: secret-neither-decrease
-bip_39_word_dash_4: secret-neither-decrease-wide
-bip_39_word_dash_5: secret-neither-decrease-wide-curve
-bip_39_word_dash_6: secret-neither-decrease-wide-curve-struggle
-bip_39_word_dash_7: secret-neither-decrease-wide-curve-struggle-shoot
-bip_39_word_dash_8: secret-neither-decrease-wide-curve-struggle-shoot-group
-bip_39_word_dash_9: secret-neither-decrease-wide-curve-struggle-shoot-group-knee
-bip_39_word_new_br_1: secret
-bip_39_word_new_br_10: secret<br>neither<br>decrease<br>wide<br>curve<br>struggle<br>shoot<br>group<br>knee<br>age
-bip_39_word_new_br_11: secret<br>neither<br>decrease<br>wide<br>curve<br>struggle<br>shoot<br>group<br>knee<br>age<br>behind
 bip_39_word_new_br_12: secret<br>neither<br>decrease<br>wide<br>curve<br>struggle<br>shoot<br>group<br>knee<br>age<br>behind<br>arrive
 bip_39_word_new_br_2: secret<br>neither
 bip_39_word_new_br_3: secret<br>neither<br>decrease
-bip_39_word_new_br_4: secret<br>neither<br>decrease<br>wide
-bip_39_word_new_br_5: secret<br>neither<br>decrease<br>wide<br>curve
-bip_39_word_new_br_6: secret<br>neither<br>decrease<br>wide<br>curve<br>struggle
-bip_39_word_new_br_7: secret<br>neither<br>decrease<br>wide<br>curve<br>struggle<br>shoot
-bip_39_word_new_br_8: secret<br>neither<br>decrease<br>wide<br>curve<br>struggle<br>shoot<br>group
-bip_39_word_new_br_9: secret<br>neither<br>decrease<br>wide<br>curve<br>struggle<br>shoot<br>group<br>knee
-bip_39_word_new_line_1: secret
-bip_39_word_new_line_10: 'secret
-
-  neither
-
-  decrease
-
-  wide
-
-  curve
-
-  struggle
-
-  shoot
-
-  group
-
-  knee
-
-  age'
-bip_39_word_new_line_11: 'secret
-
-  neither
-
-  decrease
-
-  wide
-
-  curve
-
-  struggle
-
-  shoot
-
-  group
-
-  knee
-
-  age
-
-  behind'
 bip_39_word_new_line_12: 'secret
 
   neither
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'secret
   neither
 
   decrease'
-bip_39_word_new_line_4: 'secret
-
-  neither
-
-  decrease
-
-  wide'
-bip_39_word_new_line_5: 'secret
-
-  neither
-
-  decrease
-
-  wide
-
-  curve'
-bip_39_word_new_line_6: 'secret
-
-  neither
-
-  decrease
-
-  wide
-
-  curve
-
-  struggle'
-bip_39_word_new_line_7: 'secret
-
-  neither
-
-  decrease
-
-  wide
-
-  curve
-
-  struggle
-
-  shoot'
-bip_39_word_new_line_8: 'secret
-
-  neither
-
-  decrease
-
-  wide
-
-  curve
-
-  struggle
-
-  shoot
-
-  group'
-bip_39_word_new_line_9: 'secret
-
-  neither
-
-  decrease
-
-  wide
-
-  curve
-
-  struggle
-
-  shoot
-
-  group
-
-  knee'
-bip_39_word_no_space_1: secret
-bip_39_word_no_space_10: secretneitherdecreasewidecurvestruggleshootgroupkneeage
-bip_39_word_no_space_11: secretneitherdecreasewidecurvestruggleshootgroupkneeagebehind
 bip_39_word_no_space_12: secretneitherdecreasewidecurvestruggleshootgroupkneeagebehindarrive
 bip_39_word_no_space_2: secretneither
 bip_39_word_no_space_3: secretneitherdecrease
-bip_39_word_no_space_4: secretneitherdecreasewide
-bip_39_word_no_space_5: secretneitherdecreasewidecurve
-bip_39_word_no_space_6: secretneitherdecreasewidecurvestruggle
-bip_39_word_no_space_7: secretneitherdecreasewidecurvestruggleshoot
-bip_39_word_no_space_8: secretneitherdecreasewidecurvestruggleshootgroup
-bip_39_word_no_space_9: secretneitherdecreasewidecurvestruggleshootgroupknee
-bip_39_word_space_0:
-- secret
-- neither
-- decrease
-- wide
-- curve
-- struggle
-- shoot
-- group
-- knee
-- age
-- behind
-- arrive
-bip_39_word_space_1: secret
-bip_39_word_space_10: secret neither decrease wide curve struggle shoot group knee
-  age
-bip_39_word_space_11: secret neither decrease wide curve struggle shoot group knee
-  age behind
 bip_39_word_space_12: secret neither decrease wide curve struggle shoot group knee
   age behind arrive
 bip_39_word_space_2: secret neither
 bip_39_word_space_3: secret neither decrease
-bip_39_word_space_4: secret neither decrease wide
-bip_39_word_space_5: secret neither decrease wide curve
-bip_39_word_space_6: secret neither decrease wide curve struggle
-bip_39_word_space_7: secret neither decrease wide curve struggle shoot
-bip_39_word_space_8: secret neither decrease wide curve struggle shoot group
-bip_39_word_space_9: secret neither decrease wide curve struggle shoot group knee
-bip_39_word_underscore_1: secret
-bip_39_word_underscore_10: secret_neither_decrease_wide_curve_struggle_shoot_group_knee_age
-bip_39_word_underscore_11: secret_neither_decrease_wide_curve_struggle_shoot_group_knee_age_behind
 bip_39_word_underscore_12: secret_neither_decrease_wide_curve_struggle_shoot_group_knee_age_behind_arrive
 bip_39_word_underscore_2: secret_neither
 bip_39_word_underscore_3: secret_neither_decrease
-bip_39_word_underscore_4: secret_neither_decrease_wide
-bip_39_word_underscore_5: secret_neither_decrease_wide_curve
-bip_39_word_underscore_6: secret_neither_decrease_wide_curve_struggle
-bip_39_word_underscore_7: secret_neither_decrease_wide_curve_struggle_shoot
-bip_39_word_underscore_8: secret_neither_decrease_wide_curve_struggle_shoot_group
-bip_39_word_underscore_9: secret_neither_decrease_wide_curve_struggle_shoot_group_knee
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

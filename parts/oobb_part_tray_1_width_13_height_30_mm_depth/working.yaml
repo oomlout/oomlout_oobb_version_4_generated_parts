@@ -1,68 +1,9 @@
-bip_39_word_dash_1: name
-bip_39_word_dash_10: name-dizzy-inner-shine-wonder-reveal-unknown-diagram-slice-always
-bip_39_word_dash_11: name-dizzy-inner-shine-wonder-reveal-unknown-diagram-slice-always-simple
 bip_39_word_dash_12: name-dizzy-inner-shine-wonder-reveal-unknown-diagram-slice-always-simple-arrow
 bip_39_word_dash_2: name-dizzy
 bip_39_word_dash_3: name-dizzy-inner
-bip_39_word_dash_4: name-dizzy-inner-shine
-bip_39_word_dash_5: name-dizzy-inner-shine-wonder
-bip_39_word_dash_6: name-dizzy-inner-shine-wonder-reveal
-bip_39_word_dash_7: name-dizzy-inner-shine-wonder-reveal-unknown
-bip_39_word_dash_8: name-dizzy-inner-shine-wonder-reveal-unknown-diagram
-bip_39_word_dash_9: name-dizzy-inner-shine-wonder-reveal-unknown-diagram-slice
-bip_39_word_new_br_1: name
-bip_39_word_new_br_10: name<br>dizzy<br>inner<br>shine<br>wonder<br>reveal<br>unknown<br>diagram<br>slice<br>always
-bip_39_word_new_br_11: name<br>dizzy<br>inner<br>shine<br>wonder<br>reveal<br>unknown<br>diagram<br>slice<br>always<br>simple
 bip_39_word_new_br_12: name<br>dizzy<br>inner<br>shine<br>wonder<br>reveal<br>unknown<br>diagram<br>slice<br>always<br>simple<br>arrow
 bip_39_word_new_br_2: name<br>dizzy
 bip_39_word_new_br_3: name<br>dizzy<br>inner
-bip_39_word_new_br_4: name<br>dizzy<br>inner<br>shine
-bip_39_word_new_br_5: name<br>dizzy<br>inner<br>shine<br>wonder
-bip_39_word_new_br_6: name<br>dizzy<br>inner<br>shine<br>wonder<br>reveal
-bip_39_word_new_br_7: name<br>dizzy<br>inner<br>shine<br>wonder<br>reveal<br>unknown
-bip_39_word_new_br_8: name<br>dizzy<br>inner<br>shine<br>wonder<br>reveal<br>unknown<br>diagram
-bip_39_word_new_br_9: name<br>dizzy<br>inner<br>shine<br>wonder<br>reveal<br>unknown<br>diagram<br>slice
-bip_39_word_new_line_1: name
-bip_39_word_new_line_10: 'name
-
-  dizzy
-
-  inner
-
-  shine
-
-  wonder
-
-  reveal
-
-  unknown
-
-  diagram
-
-  slice
-
-  always'
-bip_39_word_new_line_11: 'name
-
-  dizzy
-
-  inner
-
-  shine
-
-  wonder
-
-  reveal
-
-  unknown
-
-  diagram
-
-  slice
-
-  always
-
-  simple'
 bip_39_word_new_line_12: 'name
 
   dizzy
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'name
   dizzy
 
   inner'
-bip_39_word_new_line_4: 'name
-
-  dizzy
-
-  inner
-
-  shine'
-bip_39_word_new_line_5: 'name
-
-  dizzy
-
-  inner
-
-  shine
-
-  wonder'
-bip_39_word_new_line_6: 'name
-
-  dizzy
-
-  inner
-
-  shine
-
-  wonder
-
-  reveal'
-bip_39_word_new_line_7: 'name
-
-  dizzy
-
-  inner
-
-  shine
-
-  wonder
-
-  reveal
-
-  unknown'
-bip_39_word_new_line_8: 'name
-
-  dizzy
-
-  inner
-
-  shine
-
-  wonder
-
-  reveal
-
-  unknown
-
-  diagram'
-bip_39_word_new_line_9: 'name
-
-  dizzy
-
-  inner
-
-  shine
-
-  wonder
-
-  reveal
-
-  unknown
-
-  diagram
-
-  slice'
-bip_39_word_no_space_1: name
-bip_39_word_no_space_10: namedizzyinnershinewonderrevealunknowndiagramslicealways
-bip_39_word_no_space_11: namedizzyinnershinewonderrevealunknowndiagramslicealwayssimple
 bip_39_word_no_space_12: namedizzyinnershinewonderrevealunknowndiagramslicealwayssimplearrow
 bip_39_word_no_space_2: namedizzy
 bip_39_word_no_space_3: namedizzyinner
-bip_39_word_no_space_4: namedizzyinnershine
-bip_39_word_no_space_5: namedizzyinnershinewonder
-bip_39_word_no_space_6: namedizzyinnershinewonderreveal
-bip_39_word_no_space_7: namedizzyinnershinewonderrevealunknown
-bip_39_word_no_space_8: namedizzyinnershinewonderrevealunknowndiagram
-bip_39_word_no_space_9: namedizzyinnershinewonderrevealunknowndiagramslice
-bip_39_word_space_0:
-- name
-- dizzy
-- inner
-- shine
-- wonder
-- reveal
-- unknown
-- diagram
-- slice
-- always
-- simple
-- arrow
-bip_39_word_space_1: name
-bip_39_word_space_10: name dizzy inner shine wonder reveal unknown diagram slice always
-bip_39_word_space_11: name dizzy inner shine wonder reveal unknown diagram slice always
-  simple
 bip_39_word_space_12: name dizzy inner shine wonder reveal unknown diagram slice always
   simple arrow
 bip_39_word_space_2: name dizzy
 bip_39_word_space_3: name dizzy inner
-bip_39_word_space_4: name dizzy inner shine
-bip_39_word_space_5: name dizzy inner shine wonder
-bip_39_word_space_6: name dizzy inner shine wonder reveal
-bip_39_word_space_7: name dizzy inner shine wonder reveal unknown
-bip_39_word_space_8: name dizzy inner shine wonder reveal unknown diagram
-bip_39_word_space_9: name dizzy inner shine wonder reveal unknown diagram slice
-bip_39_word_underscore_1: name
-bip_39_word_underscore_10: name_dizzy_inner_shine_wonder_reveal_unknown_diagram_slice_always
-bip_39_word_underscore_11: name_dizzy_inner_shine_wonder_reveal_unknown_diagram_slice_always_simple
 bip_39_word_underscore_12: name_dizzy_inner_shine_wonder_reveal_unknown_diagram_slice_always_simple_arrow
 bip_39_word_underscore_2: name_dizzy
 bip_39_word_underscore_3: name_dizzy_inner
-bip_39_word_underscore_4: name_dizzy_inner_shine
-bip_39_word_underscore_5: name_dizzy_inner_shine_wonder
-bip_39_word_underscore_6: name_dizzy_inner_shine_wonder_reveal
-bip_39_word_underscore_7: name_dizzy_inner_shine_wonder_reveal_unknown
-bip_39_word_underscore_8: name_dizzy_inner_shine_wonder_reveal_unknown_diagram
-bip_39_word_underscore_9: name_dizzy_inner_shine_wonder_reveal_unknown_diagram_slice
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

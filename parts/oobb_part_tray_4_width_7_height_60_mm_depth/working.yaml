@@ -1,68 +1,9 @@
-bip_39_word_dash_1: ignore
-bip_39_word_dash_10: ignore-transfer-napkin-harvest-nose-begin-sail-degree-senior-garden
-bip_39_word_dash_11: ignore-transfer-napkin-harvest-nose-begin-sail-degree-senior-garden-raw
 bip_39_word_dash_12: ignore-transfer-napkin-harvest-nose-begin-sail-degree-senior-garden-raw-around
 bip_39_word_dash_2: ignore-transfer
 bip_39_word_dash_3: ignore-transfer-napkin
-bip_39_word_dash_4: ignore-transfer-napkin-harvest
-bip_39_word_dash_5: ignore-transfer-napkin-harvest-nose
-bip_39_word_dash_6: ignore-transfer-napkin-harvest-nose-begin
-bip_39_word_dash_7: ignore-transfer-napkin-harvest-nose-begin-sail
-bip_39_word_dash_8: ignore-transfer-napkin-harvest-nose-begin-sail-degree
-bip_39_word_dash_9: ignore-transfer-napkin-harvest-nose-begin-sail-degree-senior
-bip_39_word_new_br_1: ignore
-bip_39_word_new_br_10: ignore<br>transfer<br>napkin<br>harvest<br>nose<br>begin<br>sail<br>degree<br>senior<br>garden
-bip_39_word_new_br_11: ignore<br>transfer<br>napkin<br>harvest<br>nose<br>begin<br>sail<br>degree<br>senior<br>garden<br>raw
 bip_39_word_new_br_12: ignore<br>transfer<br>napkin<br>harvest<br>nose<br>begin<br>sail<br>degree<br>senior<br>garden<br>raw<br>around
 bip_39_word_new_br_2: ignore<br>transfer
 bip_39_word_new_br_3: ignore<br>transfer<br>napkin
-bip_39_word_new_br_4: ignore<br>transfer<br>napkin<br>harvest
-bip_39_word_new_br_5: ignore<br>transfer<br>napkin<br>harvest<br>nose
-bip_39_word_new_br_6: ignore<br>transfer<br>napkin<br>harvest<br>nose<br>begin
-bip_39_word_new_br_7: ignore<br>transfer<br>napkin<br>harvest<br>nose<br>begin<br>sail
-bip_39_word_new_br_8: ignore<br>transfer<br>napkin<br>harvest<br>nose<br>begin<br>sail<br>degree
-bip_39_word_new_br_9: ignore<br>transfer<br>napkin<br>harvest<br>nose<br>begin<br>sail<br>degree<br>senior
-bip_39_word_new_line_1: ignore
-bip_39_word_new_line_10: 'ignore
-
-  transfer
-
-  napkin
-
-  harvest
-
-  nose
-
-  begin
-
-  sail
-
-  degree
-
-  senior
-
-  garden'
-bip_39_word_new_line_11: 'ignore
-
-  transfer
-
-  napkin
-
-  harvest
-
-  nose
-
-  begin
-
-  sail
-
-  degree
-
-  senior
-
-  garden
-
-  raw'
 bip_39_word_new_line_12: 'ignore
 
   transfer
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'ignore
   transfer
 
   napkin'
-bip_39_word_new_line_4: 'ignore
-
-  transfer
-
-  napkin
-
-  harvest'
-bip_39_word_new_line_5: 'ignore
-
-  transfer
-
-  napkin
-
-  harvest
-
-  nose'
-bip_39_word_new_line_6: 'ignore
-
-  transfer
-
-  napkin
-
-  harvest
-
-  nose
-
-  begin'
-bip_39_word_new_line_7: 'ignore
-
-  transfer
-
-  napkin
-
-  harvest
-
-  nose
-
-  begin
-
-  sail'
-bip_39_word_new_line_8: 'ignore
-
-  transfer
-
-  napkin
-
-  harvest
-
-  nose
-
-  begin
-
-  sail
-
-  degree'
-bip_39_word_new_line_9: 'ignore
-
-  transfer
-
-  napkin
-
-  harvest
-
-  nose
-
-  begin
-
-  sail
-
-  degree
-
-  senior'
-bip_39_word_no_space_1: ignore
-bip_39_word_no_space_10: ignoretransfernapkinharvestnosebeginsaildegreeseniorgarden
-bip_39_word_no_space_11: ignoretransfernapkinharvestnosebeginsaildegreeseniorgardenraw
 bip_39_word_no_space_12: ignoretransfernapkinharvestnosebeginsaildegreeseniorgardenrawaround
 bip_39_word_no_space_2: ignoretransfer
 bip_39_word_no_space_3: ignoretransfernapkin
-bip_39_word_no_space_4: ignoretransfernapkinharvest
-bip_39_word_no_space_5: ignoretransfernapkinharvestnose
-bip_39_word_no_space_6: ignoretransfernapkinharvestnosebegin
-bip_39_word_no_space_7: ignoretransfernapkinharvestnosebeginsail
-bip_39_word_no_space_8: ignoretransfernapkinharvestnosebeginsaildegree
-bip_39_word_no_space_9: ignoretransfernapkinharvestnosebeginsaildegreesenior
-bip_39_word_space_0:
-- ignore
-- transfer
-- napkin
-- harvest
-- nose
-- begin
-- sail
-- degree
-- senior
-- garden
-- raw
-- around
-bip_39_word_space_1: ignore
-bip_39_word_space_10: ignore transfer napkin harvest nose begin sail degree senior
-  garden
-bip_39_word_space_11: ignore transfer napkin harvest nose begin sail degree senior
-  garden raw
 bip_39_word_space_12: ignore transfer napkin harvest nose begin sail degree senior
   garden raw around
 bip_39_word_space_2: ignore transfer
 bip_39_word_space_3: ignore transfer napkin
-bip_39_word_space_4: ignore transfer napkin harvest
-bip_39_word_space_5: ignore transfer napkin harvest nose
-bip_39_word_space_6: ignore transfer napkin harvest nose begin
-bip_39_word_space_7: ignore transfer napkin harvest nose begin sail
-bip_39_word_space_8: ignore transfer napkin harvest nose begin sail degree
-bip_39_word_space_9: ignore transfer napkin harvest nose begin sail degree senior
-bip_39_word_underscore_1: ignore
-bip_39_word_underscore_10: ignore_transfer_napkin_harvest_nose_begin_sail_degree_senior_garden
-bip_39_word_underscore_11: ignore_transfer_napkin_harvest_nose_begin_sail_degree_senior_garden_raw
 bip_39_word_underscore_12: ignore_transfer_napkin_harvest_nose_begin_sail_degree_senior_garden_raw_around
 bip_39_word_underscore_2: ignore_transfer
 bip_39_word_underscore_3: ignore_transfer_napkin
-bip_39_word_underscore_4: ignore_transfer_napkin_harvest
-bip_39_word_underscore_5: ignore_transfer_napkin_harvest_nose
-bip_39_word_underscore_6: ignore_transfer_napkin_harvest_nose_begin
-bip_39_word_underscore_7: ignore_transfer_napkin_harvest_nose_begin_sail
-bip_39_word_underscore_8: ignore_transfer_napkin_harvest_nose_begin_sail_degree
-bip_39_word_underscore_9: ignore_transfer_napkin_harvest_nose_begin_sail_degree_senior
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: hello
-bip_39_word_dash_10: hello-repeat-museum-world-subject-warfare-feel-winter-private-alarm
-bip_39_word_dash_11: hello-repeat-museum-world-subject-warfare-feel-winter-private-alarm-vast
 bip_39_word_dash_12: hello-repeat-museum-world-subject-warfare-feel-winter-private-alarm-vast-abstract
 bip_39_word_dash_2: hello-repeat
 bip_39_word_dash_3: hello-repeat-museum
-bip_39_word_dash_4: hello-repeat-museum-world
-bip_39_word_dash_5: hello-repeat-museum-world-subject
-bip_39_word_dash_6: hello-repeat-museum-world-subject-warfare
-bip_39_word_dash_7: hello-repeat-museum-world-subject-warfare-feel
-bip_39_word_dash_8: hello-repeat-museum-world-subject-warfare-feel-winter
-bip_39_word_dash_9: hello-repeat-museum-world-subject-warfare-feel-winter-private
-bip_39_word_new_br_1: hello
-bip_39_word_new_br_10: hello<br>repeat<br>museum<br>world<br>subject<br>warfare<br>feel<br>winter<br>private<br>alarm
-bip_39_word_new_br_11: hello<br>repeat<br>museum<br>world<br>subject<br>warfare<br>feel<br>winter<br>private<br>alarm<br>vast
 bip_39_word_new_br_12: hello<br>repeat<br>museum<br>world<br>subject<br>warfare<br>feel<br>winter<br>private<br>alarm<br>vast<br>abstract
 bip_39_word_new_br_2: hello<br>repeat
 bip_39_word_new_br_3: hello<br>repeat<br>museum
-bip_39_word_new_br_4: hello<br>repeat<br>museum<br>world
-bip_39_word_new_br_5: hello<br>repeat<br>museum<br>world<br>subject
-bip_39_word_new_br_6: hello<br>repeat<br>museum<br>world<br>subject<br>warfare
-bip_39_word_new_br_7: hello<br>repeat<br>museum<br>world<br>subject<br>warfare<br>feel
-bip_39_word_new_br_8: hello<br>repeat<br>museum<br>world<br>subject<br>warfare<br>feel<br>winter
-bip_39_word_new_br_9: hello<br>repeat<br>museum<br>world<br>subject<br>warfare<br>feel<br>winter<br>private
-bip_39_word_new_line_1: hello
-bip_39_word_new_line_10: 'hello
-
-  repeat
-
-  museum
-
-  world
-
-  subject
-
-  warfare
-
-  feel
-
-  winter
-
-  private
-
-  alarm'
-bip_39_word_new_line_11: 'hello
-
-  repeat
-
-  museum
-
-  world
-
-  subject
-
-  warfare
-
-  feel
-
-  winter
-
-  private
-
-  alarm
-
-  vast'
 bip_39_word_new_line_12: 'hello
 
   repeat
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'hello
   repeat
 
   museum'
-bip_39_word_new_line_4: 'hello
-
-  repeat
-
-  museum
-
-  world'
-bip_39_word_new_line_5: 'hello
-
-  repeat
-
-  museum
-
-  world
-
-  subject'
-bip_39_word_new_line_6: 'hello
-
-  repeat
-
-  museum
-
-  world
-
-  subject
-
-  warfare'
-bip_39_word_new_line_7: 'hello
-
-  repeat
-
-  museum
-
-  world
-
-  subject
-
-  warfare
-
-  feel'
-bip_39_word_new_line_8: 'hello
-
-  repeat
-
-  museum
-
-  world
-
-  subject
-
-  warfare
-
-  feel
-
-  winter'
-bip_39_word_new_line_9: 'hello
-
-  repeat
-
-  museum
-
-  world
-
-  subject
-
-  warfare
-
-  feel
-
-  winter
-
-  private'
-bip_39_word_no_space_1: hello
-bip_39_word_no_space_10: hellorepeatmuseumworldsubjectwarfarefeelwinterprivatealarm
-bip_39_word_no_space_11: hellorepeatmuseumworldsubjectwarfarefeelwinterprivatealarmvast
 bip_39_word_no_space_12: hellorepeatmuseumworldsubjectwarfarefeelwinterprivatealarmvastabstract
 bip_39_word_no_space_2: hellorepeat
 bip_39_word_no_space_3: hellorepeatmuseum
-bip_39_word_no_space_4: hellorepeatmuseumworld
-bip_39_word_no_space_5: hellorepeatmuseumworldsubject
-bip_39_word_no_space_6: hellorepeatmuseumworldsubjectwarfare
-bip_39_word_no_space_7: hellorepeatmuseumworldsubjectwarfarefeel
-bip_39_word_no_space_8: hellorepeatmuseumworldsubjectwarfarefeelwinter
-bip_39_word_no_space_9: hellorepeatmuseumworldsubjectwarfarefeelwinterprivate
-bip_39_word_space_0:
-- hello
-- repeat
-- museum
-- world
-- subject
-- warfare
-- feel
-- winter
-- private
-- alarm
-- vast
-- abstract
-bip_39_word_space_1: hello
-bip_39_word_space_10: hello repeat museum world subject warfare feel winter private
-  alarm
-bip_39_word_space_11: hello repeat museum world subject warfare feel winter private
-  alarm vast
 bip_39_word_space_12: hello repeat museum world subject warfare feel winter private
   alarm vast abstract
 bip_39_word_space_2: hello repeat
 bip_39_word_space_3: hello repeat museum
-bip_39_word_space_4: hello repeat museum world
-bip_39_word_space_5: hello repeat museum world subject
-bip_39_word_space_6: hello repeat museum world subject warfare
-bip_39_word_space_7: hello repeat museum world subject warfare feel
-bip_39_word_space_8: hello repeat museum world subject warfare feel winter
-bip_39_word_space_9: hello repeat museum world subject warfare feel winter private
-bip_39_word_underscore_1: hello
-bip_39_word_underscore_10: hello_repeat_museum_world_subject_warfare_feel_winter_private_alarm
-bip_39_word_underscore_11: hello_repeat_museum_world_subject_warfare_feel_winter_private_alarm_vast
 bip_39_word_underscore_12: hello_repeat_museum_world_subject_warfare_feel_winter_private_alarm_vast_abstract
 bip_39_word_underscore_2: hello_repeat
 bip_39_word_underscore_3: hello_repeat_museum
-bip_39_word_underscore_4: hello_repeat_museum_world
-bip_39_word_underscore_5: hello_repeat_museum_world_subject
-bip_39_word_underscore_6: hello_repeat_museum_world_subject_warfare
-bip_39_word_underscore_7: hello_repeat_museum_world_subject_warfare_feel
-bip_39_word_underscore_8: hello_repeat_museum_world_subject_warfare_feel_winter
-bip_39_word_underscore_9: hello_repeat_museum_world_subject_warfare_feel_winter_private
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

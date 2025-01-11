@@ -1,68 +1,9 @@
-bip_39_word_dash_1: slim
-bip_39_word_dash_10: slim-depth-cupboard-garlic-situate-rookie-bench-weasel-key-enemy
-bip_39_word_dash_11: slim-depth-cupboard-garlic-situate-rookie-bench-weasel-key-enemy-neutral
 bip_39_word_dash_12: slim-depth-cupboard-garlic-situate-rookie-bench-weasel-key-enemy-neutral-antenna
 bip_39_word_dash_2: slim-depth
 bip_39_word_dash_3: slim-depth-cupboard
-bip_39_word_dash_4: slim-depth-cupboard-garlic
-bip_39_word_dash_5: slim-depth-cupboard-garlic-situate
-bip_39_word_dash_6: slim-depth-cupboard-garlic-situate-rookie
-bip_39_word_dash_7: slim-depth-cupboard-garlic-situate-rookie-bench
-bip_39_word_dash_8: slim-depth-cupboard-garlic-situate-rookie-bench-weasel
-bip_39_word_dash_9: slim-depth-cupboard-garlic-situate-rookie-bench-weasel-key
-bip_39_word_new_br_1: slim
-bip_39_word_new_br_10: slim<br>depth<br>cupboard<br>garlic<br>situate<br>rookie<br>bench<br>weasel<br>key<br>enemy
-bip_39_word_new_br_11: slim<br>depth<br>cupboard<br>garlic<br>situate<br>rookie<br>bench<br>weasel<br>key<br>enemy<br>neutral
 bip_39_word_new_br_12: slim<br>depth<br>cupboard<br>garlic<br>situate<br>rookie<br>bench<br>weasel<br>key<br>enemy<br>neutral<br>antenna
 bip_39_word_new_br_2: slim<br>depth
 bip_39_word_new_br_3: slim<br>depth<br>cupboard
-bip_39_word_new_br_4: slim<br>depth<br>cupboard<br>garlic
-bip_39_word_new_br_5: slim<br>depth<br>cupboard<br>garlic<br>situate
-bip_39_word_new_br_6: slim<br>depth<br>cupboard<br>garlic<br>situate<br>rookie
-bip_39_word_new_br_7: slim<br>depth<br>cupboard<br>garlic<br>situate<br>rookie<br>bench
-bip_39_word_new_br_8: slim<br>depth<br>cupboard<br>garlic<br>situate<br>rookie<br>bench<br>weasel
-bip_39_word_new_br_9: slim<br>depth<br>cupboard<br>garlic<br>situate<br>rookie<br>bench<br>weasel<br>key
-bip_39_word_new_line_1: slim
-bip_39_word_new_line_10: 'slim
-
-  depth
-
-  cupboard
-
-  garlic
-
-  situate
-
-  rookie
-
-  bench
-
-  weasel
-
-  key
-
-  enemy'
-bip_39_word_new_line_11: 'slim
-
-  depth
-
-  cupboard
-
-  garlic
-
-  situate
-
-  rookie
-
-  bench
-
-  weasel
-
-  key
-
-  enemy
-
-  neutral'
 bip_39_word_new_line_12: 'slim
 
   depth
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'slim
   depth
 
   cupboard'
-bip_39_word_new_line_4: 'slim
-
-  depth
-
-  cupboard
-
-  garlic'
-bip_39_word_new_line_5: 'slim
-
-  depth
-
-  cupboard
-
-  garlic
-
-  situate'
-bip_39_word_new_line_6: 'slim
-
-  depth
-
-  cupboard
-
-  garlic
-
-  situate
-
-  rookie'
-bip_39_word_new_line_7: 'slim
-
-  depth
-
-  cupboard
-
-  garlic
-
-  situate
-
-  rookie
-
-  bench'
-bip_39_word_new_line_8: 'slim
-
-  depth
-
-  cupboard
-
-  garlic
-
-  situate
-
-  rookie
-
-  bench
-
-  weasel'
-bip_39_word_new_line_9: 'slim
-
-  depth
-
-  cupboard
-
-  garlic
-
-  situate
-
-  rookie
-
-  bench
-
-  weasel
-
-  key'
-bip_39_word_no_space_1: slim
-bip_39_word_no_space_10: slimdepthcupboardgarlicsituaterookiebenchweaselkeyenemy
-bip_39_word_no_space_11: slimdepthcupboardgarlicsituaterookiebenchweaselkeyenemyneutral
 bip_39_word_no_space_12: slimdepthcupboardgarlicsituaterookiebenchweaselkeyenemyneutralantenna
 bip_39_word_no_space_2: slimdepth
 bip_39_word_no_space_3: slimdepthcupboard
-bip_39_word_no_space_4: slimdepthcupboardgarlic
-bip_39_word_no_space_5: slimdepthcupboardgarlicsituate
-bip_39_word_no_space_6: slimdepthcupboardgarlicsituaterookie
-bip_39_word_no_space_7: slimdepthcupboardgarlicsituaterookiebench
-bip_39_word_no_space_8: slimdepthcupboardgarlicsituaterookiebenchweasel
-bip_39_word_no_space_9: slimdepthcupboardgarlicsituaterookiebenchweaselkey
-bip_39_word_space_0:
-- slim
-- depth
-- cupboard
-- garlic
-- situate
-- rookie
-- bench
-- weasel
-- key
-- enemy
-- neutral
-- antenna
-bip_39_word_space_1: slim
-bip_39_word_space_10: slim depth cupboard garlic situate rookie bench weasel key enemy
-bip_39_word_space_11: slim depth cupboard garlic situate rookie bench weasel key enemy
-  neutral
 bip_39_word_space_12: slim depth cupboard garlic situate rookie bench weasel key enemy
   neutral antenna
 bip_39_word_space_2: slim depth
 bip_39_word_space_3: slim depth cupboard
-bip_39_word_space_4: slim depth cupboard garlic
-bip_39_word_space_5: slim depth cupboard garlic situate
-bip_39_word_space_6: slim depth cupboard garlic situate rookie
-bip_39_word_space_7: slim depth cupboard garlic situate rookie bench
-bip_39_word_space_8: slim depth cupboard garlic situate rookie bench weasel
-bip_39_word_space_9: slim depth cupboard garlic situate rookie bench weasel key
-bip_39_word_underscore_1: slim
-bip_39_word_underscore_10: slim_depth_cupboard_garlic_situate_rookie_bench_weasel_key_enemy
-bip_39_word_underscore_11: slim_depth_cupboard_garlic_situate_rookie_bench_weasel_key_enemy_neutral
 bip_39_word_underscore_12: slim_depth_cupboard_garlic_situate_rookie_bench_weasel_key_enemy_neutral_antenna
 bip_39_word_underscore_2: slim_depth
 bip_39_word_underscore_3: slim_depth_cupboard
-bip_39_word_underscore_4: slim_depth_cupboard_garlic
-bip_39_word_underscore_5: slim_depth_cupboard_garlic_situate
-bip_39_word_underscore_6: slim_depth_cupboard_garlic_situate_rookie
-bip_39_word_underscore_7: slim_depth_cupboard_garlic_situate_rookie_bench
-bip_39_word_underscore_8: slim_depth_cupboard_garlic_situate_rookie_bench_weasel
-bip_39_word_underscore_9: slim_depth_cupboard_garlic_situate_rookie_bench_weasel_key
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

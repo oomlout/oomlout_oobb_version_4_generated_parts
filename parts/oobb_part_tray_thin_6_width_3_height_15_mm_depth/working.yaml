@@ -1,68 +1,9 @@
-bip_39_word_dash_1: grit
-bip_39_word_dash_10: grit-frog-adjust-change-tumble-theory-harsh-release-trophy-bike
-bip_39_word_dash_11: grit-frog-adjust-change-tumble-theory-harsh-release-trophy-bike-idle
 bip_39_word_dash_12: grit-frog-adjust-change-tumble-theory-harsh-release-trophy-bike-idle-army
 bip_39_word_dash_2: grit-frog
 bip_39_word_dash_3: grit-frog-adjust
-bip_39_word_dash_4: grit-frog-adjust-change
-bip_39_word_dash_5: grit-frog-adjust-change-tumble
-bip_39_word_dash_6: grit-frog-adjust-change-tumble-theory
-bip_39_word_dash_7: grit-frog-adjust-change-tumble-theory-harsh
-bip_39_word_dash_8: grit-frog-adjust-change-tumble-theory-harsh-release
-bip_39_word_dash_9: grit-frog-adjust-change-tumble-theory-harsh-release-trophy
-bip_39_word_new_br_1: grit
-bip_39_word_new_br_10: grit<br>frog<br>adjust<br>change<br>tumble<br>theory<br>harsh<br>release<br>trophy<br>bike
-bip_39_word_new_br_11: grit<br>frog<br>adjust<br>change<br>tumble<br>theory<br>harsh<br>release<br>trophy<br>bike<br>idle
 bip_39_word_new_br_12: grit<br>frog<br>adjust<br>change<br>tumble<br>theory<br>harsh<br>release<br>trophy<br>bike<br>idle<br>army
 bip_39_word_new_br_2: grit<br>frog
 bip_39_word_new_br_3: grit<br>frog<br>adjust
-bip_39_word_new_br_4: grit<br>frog<br>adjust<br>change
-bip_39_word_new_br_5: grit<br>frog<br>adjust<br>change<br>tumble
-bip_39_word_new_br_6: grit<br>frog<br>adjust<br>change<br>tumble<br>theory
-bip_39_word_new_br_7: grit<br>frog<br>adjust<br>change<br>tumble<br>theory<br>harsh
-bip_39_word_new_br_8: grit<br>frog<br>adjust<br>change<br>tumble<br>theory<br>harsh<br>release
-bip_39_word_new_br_9: grit<br>frog<br>adjust<br>change<br>tumble<br>theory<br>harsh<br>release<br>trophy
-bip_39_word_new_line_1: grit
-bip_39_word_new_line_10: 'grit
-
-  frog
-
-  adjust
-
-  change
-
-  tumble
-
-  theory
-
-  harsh
-
-  release
-
-  trophy
-
-  bike'
-bip_39_word_new_line_11: 'grit
-
-  frog
-
-  adjust
-
-  change
-
-  tumble
-
-  theory
-
-  harsh
-
-  release
-
-  trophy
-
-  bike
-
-  idle'
 bip_39_word_new_line_12: 'grit
 
   frog
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'grit
   frog
 
   adjust'
-bip_39_word_new_line_4: 'grit
-
-  frog
-
-  adjust
-
-  change'
-bip_39_word_new_line_5: 'grit
-
-  frog
-
-  adjust
-
-  change
-
-  tumble'
-bip_39_word_new_line_6: 'grit
-
-  frog
-
-  adjust
-
-  change
-
-  tumble
-
-  theory'
-bip_39_word_new_line_7: 'grit
-
-  frog
-
-  adjust
-
-  change
-
-  tumble
-
-  theory
-
-  harsh'
-bip_39_word_new_line_8: 'grit
-
-  frog
-
-  adjust
-
-  change
-
-  tumble
-
-  theory
-
-  harsh
-
-  release'
-bip_39_word_new_line_9: 'grit
-
-  frog
-
-  adjust
-
-  change
-
-  tumble
-
-  theory
-
-  harsh
-
-  release
-
-  trophy'
-bip_39_word_no_space_1: grit
-bip_39_word_no_space_10: gritfrogadjustchangetumbletheoryharshreleasetrophybike
-bip_39_word_no_space_11: gritfrogadjustchangetumbletheoryharshreleasetrophybikeidle
 bip_39_word_no_space_12: gritfrogadjustchangetumbletheoryharshreleasetrophybikeidlearmy
 bip_39_word_no_space_2: gritfrog
 bip_39_word_no_space_3: gritfrogadjust
-bip_39_word_no_space_4: gritfrogadjustchange
-bip_39_word_no_space_5: gritfrogadjustchangetumble
-bip_39_word_no_space_6: gritfrogadjustchangetumbletheory
-bip_39_word_no_space_7: gritfrogadjustchangetumbletheoryharsh
-bip_39_word_no_space_8: gritfrogadjustchangetumbletheoryharshrelease
-bip_39_word_no_space_9: gritfrogadjustchangetumbletheoryharshreleasetrophy
-bip_39_word_space_0:
-- grit
-- frog
-- adjust
-- change
-- tumble
-- theory
-- harsh
-- release
-- trophy
-- bike
-- idle
-- army
-bip_39_word_space_1: grit
-bip_39_word_space_10: grit frog adjust change tumble theory harsh release trophy bike
-bip_39_word_space_11: grit frog adjust change tumble theory harsh release trophy bike
-  idle
 bip_39_word_space_12: grit frog adjust change tumble theory harsh release trophy bike
   idle army
 bip_39_word_space_2: grit frog
 bip_39_word_space_3: grit frog adjust
-bip_39_word_space_4: grit frog adjust change
-bip_39_word_space_5: grit frog adjust change tumble
-bip_39_word_space_6: grit frog adjust change tumble theory
-bip_39_word_space_7: grit frog adjust change tumble theory harsh
-bip_39_word_space_8: grit frog adjust change tumble theory harsh release
-bip_39_word_space_9: grit frog adjust change tumble theory harsh release trophy
-bip_39_word_underscore_1: grit
-bip_39_word_underscore_10: grit_frog_adjust_change_tumble_theory_harsh_release_trophy_bike
-bip_39_word_underscore_11: grit_frog_adjust_change_tumble_theory_harsh_release_trophy_bike_idle
 bip_39_word_underscore_12: grit_frog_adjust_change_tumble_theory_harsh_release_trophy_bike_idle_army
 bip_39_word_underscore_2: grit_frog
 bip_39_word_underscore_3: grit_frog_adjust
-bip_39_word_underscore_4: grit_frog_adjust_change
-bip_39_word_underscore_5: grit_frog_adjust_change_tumble
-bip_39_word_underscore_6: grit_frog_adjust_change_tumble_theory
-bip_39_word_underscore_7: grit_frog_adjust_change_tumble_theory_harsh
-bip_39_word_underscore_8: grit_frog_adjust_change_tumble_theory_harsh_release
-bip_39_word_underscore_9: grit_frog_adjust_change_tumble_theory_harsh_release_trophy
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

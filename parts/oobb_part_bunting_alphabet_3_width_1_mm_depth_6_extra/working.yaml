@@ -1,68 +1,9 @@
-bip_39_word_dash_1: print
-bip_39_word_dash_10: print-goat-program-abstract-track-employ-trend-fury-birth-quarter
-bip_39_word_dash_11: print-goat-program-abstract-track-employ-trend-fury-birth-quarter-vintage
 bip_39_word_dash_12: print-goat-program-abstract-track-employ-trend-fury-birth-quarter-vintage-amount
 bip_39_word_dash_2: print-goat
 bip_39_word_dash_3: print-goat-program
-bip_39_word_dash_4: print-goat-program-abstract
-bip_39_word_dash_5: print-goat-program-abstract-track
-bip_39_word_dash_6: print-goat-program-abstract-track-employ
-bip_39_word_dash_7: print-goat-program-abstract-track-employ-trend
-bip_39_word_dash_8: print-goat-program-abstract-track-employ-trend-fury
-bip_39_word_dash_9: print-goat-program-abstract-track-employ-trend-fury-birth
-bip_39_word_new_br_1: print
-bip_39_word_new_br_10: print<br>goat<br>program<br>abstract<br>track<br>employ<br>trend<br>fury<br>birth<br>quarter
-bip_39_word_new_br_11: print<br>goat<br>program<br>abstract<br>track<br>employ<br>trend<br>fury<br>birth<br>quarter<br>vintage
 bip_39_word_new_br_12: print<br>goat<br>program<br>abstract<br>track<br>employ<br>trend<br>fury<br>birth<br>quarter<br>vintage<br>amount
 bip_39_word_new_br_2: print<br>goat
 bip_39_word_new_br_3: print<br>goat<br>program
-bip_39_word_new_br_4: print<br>goat<br>program<br>abstract
-bip_39_word_new_br_5: print<br>goat<br>program<br>abstract<br>track
-bip_39_word_new_br_6: print<br>goat<br>program<br>abstract<br>track<br>employ
-bip_39_word_new_br_7: print<br>goat<br>program<br>abstract<br>track<br>employ<br>trend
-bip_39_word_new_br_8: print<br>goat<br>program<br>abstract<br>track<br>employ<br>trend<br>fury
-bip_39_word_new_br_9: print<br>goat<br>program<br>abstract<br>track<br>employ<br>trend<br>fury<br>birth
-bip_39_word_new_line_1: print
-bip_39_word_new_line_10: 'print
-
-  goat
-
-  program
-
-  abstract
-
-  track
-
-  employ
-
-  trend
-
-  fury
-
-  birth
-
-  quarter'
-bip_39_word_new_line_11: 'print
-
-  goat
-
-  program
-
-  abstract
-
-  track
-
-  employ
-
-  trend
-
-  fury
-
-  birth
-
-  quarter
-
-  vintage'
 bip_39_word_new_line_12: 'print
 
   goat
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'print
   goat
 
   program'
-bip_39_word_new_line_4: 'print
-
-  goat
-
-  program
-
-  abstract'
-bip_39_word_new_line_5: 'print
-
-  goat
-
-  program
-
-  abstract
-
-  track'
-bip_39_word_new_line_6: 'print
-
-  goat
-
-  program
-
-  abstract
-
-  track
-
-  employ'
-bip_39_word_new_line_7: 'print
-
-  goat
-
-  program
-
-  abstract
-
-  track
-
-  employ
-
-  trend'
-bip_39_word_new_line_8: 'print
-
-  goat
-
-  program
-
-  abstract
-
-  track
-
-  employ
-
-  trend
-
-  fury'
-bip_39_word_new_line_9: 'print
-
-  goat
-
-  program
-
-  abstract
-
-  track
-
-  employ
-
-  trend
-
-  fury
-
-  birth'
-bip_39_word_no_space_1: print
-bip_39_word_no_space_10: printgoatprogramabstracttrackemploytrendfurybirthquarter
-bip_39_word_no_space_11: printgoatprogramabstracttrackemploytrendfurybirthquartervintage
 bip_39_word_no_space_12: printgoatprogramabstracttrackemploytrendfurybirthquartervintageamount
 bip_39_word_no_space_2: printgoat
 bip_39_word_no_space_3: printgoatprogram
-bip_39_word_no_space_4: printgoatprogramabstract
-bip_39_word_no_space_5: printgoatprogramabstracttrack
-bip_39_word_no_space_6: printgoatprogramabstracttrackemploy
-bip_39_word_no_space_7: printgoatprogramabstracttrackemploytrend
-bip_39_word_no_space_8: printgoatprogramabstracttrackemploytrendfury
-bip_39_word_no_space_9: printgoatprogramabstracttrackemploytrendfurybirth
-bip_39_word_space_0:
-- print
-- goat
-- program
-- abstract
-- track
-- employ
-- trend
-- fury
-- birth
-- quarter
-- vintage
-- amount
-bip_39_word_space_1: print
-bip_39_word_space_10: print goat program abstract track employ trend fury birth quarter
-bip_39_word_space_11: print goat program abstract track employ trend fury birth quarter
-  vintage
 bip_39_word_space_12: print goat program abstract track employ trend fury birth quarter
   vintage amount
 bip_39_word_space_2: print goat
 bip_39_word_space_3: print goat program
-bip_39_word_space_4: print goat program abstract
-bip_39_word_space_5: print goat program abstract track
-bip_39_word_space_6: print goat program abstract track employ
-bip_39_word_space_7: print goat program abstract track employ trend
-bip_39_word_space_8: print goat program abstract track employ trend fury
-bip_39_word_space_9: print goat program abstract track employ trend fury birth
-bip_39_word_underscore_1: print
-bip_39_word_underscore_10: print_goat_program_abstract_track_employ_trend_fury_birth_quarter
-bip_39_word_underscore_11: print_goat_program_abstract_track_employ_trend_fury_birth_quarter_vintage
 bip_39_word_underscore_12: print_goat_program_abstract_track_employ_trend_fury_birth_quarter_vintage_amount
 bip_39_word_underscore_2: print_goat
 bip_39_word_underscore_3: print_goat_program
-bip_39_word_underscore_4: print_goat_program_abstract
-bip_39_word_underscore_5: print_goat_program_abstract_track
-bip_39_word_underscore_6: print_goat_program_abstract_track_employ
-bip_39_word_underscore_7: print_goat_program_abstract_track_employ_trend
-bip_39_word_underscore_8: print_goat_program_abstract_track_employ_trend_fury
-bip_39_word_underscore_9: print_goat_program_abstract_track_employ_trend_fury_birth
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

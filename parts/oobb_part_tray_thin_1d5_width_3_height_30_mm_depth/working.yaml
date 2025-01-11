@@ -1,68 +1,9 @@
-bip_39_word_dash_1: chalk
-bip_39_word_dash_10: chalk-truth-path-deposit-thought-indicate-champion-board-dolphin-achieve
-bip_39_word_dash_11: chalk-truth-path-deposit-thought-indicate-champion-board-dolphin-achieve-fork
 bip_39_word_dash_12: chalk-truth-path-deposit-thought-indicate-champion-board-dolphin-achieve-fork-alley
 bip_39_word_dash_2: chalk-truth
 bip_39_word_dash_3: chalk-truth-path
-bip_39_word_dash_4: chalk-truth-path-deposit
-bip_39_word_dash_5: chalk-truth-path-deposit-thought
-bip_39_word_dash_6: chalk-truth-path-deposit-thought-indicate
-bip_39_word_dash_7: chalk-truth-path-deposit-thought-indicate-champion
-bip_39_word_dash_8: chalk-truth-path-deposit-thought-indicate-champion-board
-bip_39_word_dash_9: chalk-truth-path-deposit-thought-indicate-champion-board-dolphin
-bip_39_word_new_br_1: chalk
-bip_39_word_new_br_10: chalk<br>truth<br>path<br>deposit<br>thought<br>indicate<br>champion<br>board<br>dolphin<br>achieve
-bip_39_word_new_br_11: chalk<br>truth<br>path<br>deposit<br>thought<br>indicate<br>champion<br>board<br>dolphin<br>achieve<br>fork
 bip_39_word_new_br_12: chalk<br>truth<br>path<br>deposit<br>thought<br>indicate<br>champion<br>board<br>dolphin<br>achieve<br>fork<br>alley
 bip_39_word_new_br_2: chalk<br>truth
 bip_39_word_new_br_3: chalk<br>truth<br>path
-bip_39_word_new_br_4: chalk<br>truth<br>path<br>deposit
-bip_39_word_new_br_5: chalk<br>truth<br>path<br>deposit<br>thought
-bip_39_word_new_br_6: chalk<br>truth<br>path<br>deposit<br>thought<br>indicate
-bip_39_word_new_br_7: chalk<br>truth<br>path<br>deposit<br>thought<br>indicate<br>champion
-bip_39_word_new_br_8: chalk<br>truth<br>path<br>deposit<br>thought<br>indicate<br>champion<br>board
-bip_39_word_new_br_9: chalk<br>truth<br>path<br>deposit<br>thought<br>indicate<br>champion<br>board<br>dolphin
-bip_39_word_new_line_1: chalk
-bip_39_word_new_line_10: 'chalk
-
-  truth
-
-  path
-
-  deposit
-
-  thought
-
-  indicate
-
-  champion
-
-  board
-
-  dolphin
-
-  achieve'
-bip_39_word_new_line_11: 'chalk
-
-  truth
-
-  path
-
-  deposit
-
-  thought
-
-  indicate
-
-  champion
-
-  board
-
-  dolphin
-
-  achieve
-
-  fork'
 bip_39_word_new_line_12: 'chalk
 
   truth
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'chalk
   truth
 
   path'
-bip_39_word_new_line_4: 'chalk
-
-  truth
-
-  path
-
-  deposit'
-bip_39_word_new_line_5: 'chalk
-
-  truth
-
-  path
-
-  deposit
-
-  thought'
-bip_39_word_new_line_6: 'chalk
-
-  truth
-
-  path
-
-  deposit
-
-  thought
-
-  indicate'
-bip_39_word_new_line_7: 'chalk
-
-  truth
-
-  path
-
-  deposit
-
-  thought
-
-  indicate
-
-  champion'
-bip_39_word_new_line_8: 'chalk
-
-  truth
-
-  path
-
-  deposit
-
-  thought
-
-  indicate
-
-  champion
-
-  board'
-bip_39_word_new_line_9: 'chalk
-
-  truth
-
-  path
-
-  deposit
-
-  thought
-
-  indicate
-
-  champion
-
-  board
-
-  dolphin'
-bip_39_word_no_space_1: chalk
-bip_39_word_no_space_10: chalktruthpathdepositthoughtindicatechampionboarddolphinachieve
-bip_39_word_no_space_11: chalktruthpathdepositthoughtindicatechampionboarddolphinachievefork
 bip_39_word_no_space_12: chalktruthpathdepositthoughtindicatechampionboarddolphinachieveforkalley
 bip_39_word_no_space_2: chalktruth
 bip_39_word_no_space_3: chalktruthpath
-bip_39_word_no_space_4: chalktruthpathdeposit
-bip_39_word_no_space_5: chalktruthpathdepositthought
-bip_39_word_no_space_6: chalktruthpathdepositthoughtindicate
-bip_39_word_no_space_7: chalktruthpathdepositthoughtindicatechampion
-bip_39_word_no_space_8: chalktruthpathdepositthoughtindicatechampionboard
-bip_39_word_no_space_9: chalktruthpathdepositthoughtindicatechampionboarddolphin
-bip_39_word_space_0:
-- chalk
-- truth
-- path
-- deposit
-- thought
-- indicate
-- champion
-- board
-- dolphin
-- achieve
-- fork
-- alley
-bip_39_word_space_1: chalk
-bip_39_word_space_10: chalk truth path deposit thought indicate champion board dolphin
-  achieve
-bip_39_word_space_11: chalk truth path deposit thought indicate champion board dolphin
-  achieve fork
 bip_39_word_space_12: chalk truth path deposit thought indicate champion board dolphin
   achieve fork alley
 bip_39_word_space_2: chalk truth
 bip_39_word_space_3: chalk truth path
-bip_39_word_space_4: chalk truth path deposit
-bip_39_word_space_5: chalk truth path deposit thought
-bip_39_word_space_6: chalk truth path deposit thought indicate
-bip_39_word_space_7: chalk truth path deposit thought indicate champion
-bip_39_word_space_8: chalk truth path deposit thought indicate champion board
-bip_39_word_space_9: chalk truth path deposit thought indicate champion board dolphin
-bip_39_word_underscore_1: chalk
-bip_39_word_underscore_10: chalk_truth_path_deposit_thought_indicate_champion_board_dolphin_achieve
-bip_39_word_underscore_11: chalk_truth_path_deposit_thought_indicate_champion_board_dolphin_achieve_fork
 bip_39_word_underscore_12: chalk_truth_path_deposit_thought_indicate_champion_board_dolphin_achieve_fork_alley
 bip_39_word_underscore_2: chalk_truth
 bip_39_word_underscore_3: chalk_truth_path
-bip_39_word_underscore_4: chalk_truth_path_deposit
-bip_39_word_underscore_5: chalk_truth_path_deposit_thought
-bip_39_word_underscore_6: chalk_truth_path_deposit_thought_indicate
-bip_39_word_underscore_7: chalk_truth_path_deposit_thought_indicate_champion
-bip_39_word_underscore_8: chalk_truth_path_deposit_thought_indicate_champion_board
-bip_39_word_underscore_9: chalk_truth_path_deposit_thought_indicate_champion_board_dolphin
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

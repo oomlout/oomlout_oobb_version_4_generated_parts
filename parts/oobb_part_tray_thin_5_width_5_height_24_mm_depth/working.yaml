@@ -1,68 +1,9 @@
-bip_39_word_dash_1: sword
-bip_39_word_dash_10: sword-key-spare-smoke-tired-acid-salon-trip-brush-current
-bip_39_word_dash_11: sword-key-spare-smoke-tired-acid-salon-trip-brush-current-copy
 bip_39_word_dash_12: sword-key-spare-smoke-tired-acid-salon-trip-brush-current-copy-army
 bip_39_word_dash_2: sword-key
 bip_39_word_dash_3: sword-key-spare
-bip_39_word_dash_4: sword-key-spare-smoke
-bip_39_word_dash_5: sword-key-spare-smoke-tired
-bip_39_word_dash_6: sword-key-spare-smoke-tired-acid
-bip_39_word_dash_7: sword-key-spare-smoke-tired-acid-salon
-bip_39_word_dash_8: sword-key-spare-smoke-tired-acid-salon-trip
-bip_39_word_dash_9: sword-key-spare-smoke-tired-acid-salon-trip-brush
-bip_39_word_new_br_1: sword
-bip_39_word_new_br_10: sword<br>key<br>spare<br>smoke<br>tired<br>acid<br>salon<br>trip<br>brush<br>current
-bip_39_word_new_br_11: sword<br>key<br>spare<br>smoke<br>tired<br>acid<br>salon<br>trip<br>brush<br>current<br>copy
 bip_39_word_new_br_12: sword<br>key<br>spare<br>smoke<br>tired<br>acid<br>salon<br>trip<br>brush<br>current<br>copy<br>army
 bip_39_word_new_br_2: sword<br>key
 bip_39_word_new_br_3: sword<br>key<br>spare
-bip_39_word_new_br_4: sword<br>key<br>spare<br>smoke
-bip_39_word_new_br_5: sword<br>key<br>spare<br>smoke<br>tired
-bip_39_word_new_br_6: sword<br>key<br>spare<br>smoke<br>tired<br>acid
-bip_39_word_new_br_7: sword<br>key<br>spare<br>smoke<br>tired<br>acid<br>salon
-bip_39_word_new_br_8: sword<br>key<br>spare<br>smoke<br>tired<br>acid<br>salon<br>trip
-bip_39_word_new_br_9: sword<br>key<br>spare<br>smoke<br>tired<br>acid<br>salon<br>trip<br>brush
-bip_39_word_new_line_1: sword
-bip_39_word_new_line_10: 'sword
-
-  key
-
-  spare
-
-  smoke
-
-  tired
-
-  acid
-
-  salon
-
-  trip
-
-  brush
-
-  current'
-bip_39_word_new_line_11: 'sword
-
-  key
-
-  spare
-
-  smoke
-
-  tired
-
-  acid
-
-  salon
-
-  trip
-
-  brush
-
-  current
-
-  copy'
 bip_39_word_new_line_12: 'sword
 
   key
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'sword
   key
 
   spare'
-bip_39_word_new_line_4: 'sword
-
-  key
-
-  spare
-
-  smoke'
-bip_39_word_new_line_5: 'sword
-
-  key
-
-  spare
-
-  smoke
-
-  tired'
-bip_39_word_new_line_6: 'sword
-
-  key
-
-  spare
-
-  smoke
-
-  tired
-
-  acid'
-bip_39_word_new_line_7: 'sword
-
-  key
-
-  spare
-
-  smoke
-
-  tired
-
-  acid
-
-  salon'
-bip_39_word_new_line_8: 'sword
-
-  key
-
-  spare
-
-  smoke
-
-  tired
-
-  acid
-
-  salon
-
-  trip'
-bip_39_word_new_line_9: 'sword
-
-  key
-
-  spare
-
-  smoke
-
-  tired
-
-  acid
-
-  salon
-
-  trip
-
-  brush'
-bip_39_word_no_space_1: sword
-bip_39_word_no_space_10: swordkeysparesmoketiredacidsalontripbrushcurrent
-bip_39_word_no_space_11: swordkeysparesmoketiredacidsalontripbrushcurrentcopy
 bip_39_word_no_space_12: swordkeysparesmoketiredacidsalontripbrushcurrentcopyarmy
 bip_39_word_no_space_2: swordkey
 bip_39_word_no_space_3: swordkeyspare
-bip_39_word_no_space_4: swordkeysparesmoke
-bip_39_word_no_space_5: swordkeysparesmoketired
-bip_39_word_no_space_6: swordkeysparesmoketiredacid
-bip_39_word_no_space_7: swordkeysparesmoketiredacidsalon
-bip_39_word_no_space_8: swordkeysparesmoketiredacidsalontrip
-bip_39_word_no_space_9: swordkeysparesmoketiredacidsalontripbrush
-bip_39_word_space_0:
-- sword
-- key
-- spare
-- smoke
-- tired
-- acid
-- salon
-- trip
-- brush
-- current
-- copy
-- army
-bip_39_word_space_1: sword
-bip_39_word_space_10: sword key spare smoke tired acid salon trip brush current
-bip_39_word_space_11: sword key spare smoke tired acid salon trip brush current copy
 bip_39_word_space_12: sword key spare smoke tired acid salon trip brush current copy
   army
 bip_39_word_space_2: sword key
 bip_39_word_space_3: sword key spare
-bip_39_word_space_4: sword key spare smoke
-bip_39_word_space_5: sword key spare smoke tired
-bip_39_word_space_6: sword key spare smoke tired acid
-bip_39_word_space_7: sword key spare smoke tired acid salon
-bip_39_word_space_8: sword key spare smoke tired acid salon trip
-bip_39_word_space_9: sword key spare smoke tired acid salon trip brush
-bip_39_word_underscore_1: sword
-bip_39_word_underscore_10: sword_key_spare_smoke_tired_acid_salon_trip_brush_current
-bip_39_word_underscore_11: sword_key_spare_smoke_tired_acid_salon_trip_brush_current_copy
 bip_39_word_underscore_12: sword_key_spare_smoke_tired_acid_salon_trip_brush_current_copy_army
 bip_39_word_underscore_2: sword_key
 bip_39_word_underscore_3: sword_key_spare
-bip_39_word_underscore_4: sword_key_spare_smoke
-bip_39_word_underscore_5: sword_key_spare_smoke_tired
-bip_39_word_underscore_6: sword_key_spare_smoke_tired_acid
-bip_39_word_underscore_7: sword_key_spare_smoke_tired_acid_salon
-bip_39_word_underscore_8: sword_key_spare_smoke_tired_acid_salon_trip
-bip_39_word_underscore_9: sword_key_spare_smoke_tired_acid_salon_trip_brush
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: elder
-bip_39_word_dash_10: elder-topple-still-endless-narrow-endless-teach-fragile-tail-chase
-bip_39_word_dash_11: elder-topple-still-endless-narrow-endless-teach-fragile-tail-chase-castle
 bip_39_word_dash_12: elder-topple-still-endless-narrow-endless-teach-fragile-tail-chase-castle-acoustic
 bip_39_word_dash_2: elder-topple
 bip_39_word_dash_3: elder-topple-still
-bip_39_word_dash_4: elder-topple-still-endless
-bip_39_word_dash_5: elder-topple-still-endless-narrow
-bip_39_word_dash_6: elder-topple-still-endless-narrow-endless
-bip_39_word_dash_7: elder-topple-still-endless-narrow-endless-teach
-bip_39_word_dash_8: elder-topple-still-endless-narrow-endless-teach-fragile
-bip_39_word_dash_9: elder-topple-still-endless-narrow-endless-teach-fragile-tail
-bip_39_word_new_br_1: elder
-bip_39_word_new_br_10: elder<br>topple<br>still<br>endless<br>narrow<br>endless<br>teach<br>fragile<br>tail<br>chase
-bip_39_word_new_br_11: elder<br>topple<br>still<br>endless<br>narrow<br>endless<br>teach<br>fragile<br>tail<br>chase<br>castle
 bip_39_word_new_br_12: elder<br>topple<br>still<br>endless<br>narrow<br>endless<br>teach<br>fragile<br>tail<br>chase<br>castle<br>acoustic
 bip_39_word_new_br_2: elder<br>topple
 bip_39_word_new_br_3: elder<br>topple<br>still
-bip_39_word_new_br_4: elder<br>topple<br>still<br>endless
-bip_39_word_new_br_5: elder<br>topple<br>still<br>endless<br>narrow
-bip_39_word_new_br_6: elder<br>topple<br>still<br>endless<br>narrow<br>endless
-bip_39_word_new_br_7: elder<br>topple<br>still<br>endless<br>narrow<br>endless<br>teach
-bip_39_word_new_br_8: elder<br>topple<br>still<br>endless<br>narrow<br>endless<br>teach<br>fragile
-bip_39_word_new_br_9: elder<br>topple<br>still<br>endless<br>narrow<br>endless<br>teach<br>fragile<br>tail
-bip_39_word_new_line_1: elder
-bip_39_word_new_line_10: 'elder
-
-  topple
-
-  still
-
-  endless
-
-  narrow
-
-  endless
-
-  teach
-
-  fragile
-
-  tail
-
-  chase'
-bip_39_word_new_line_11: 'elder
-
-  topple
-
-  still
-
-  endless
-
-  narrow
-
-  endless
-
-  teach
-
-  fragile
-
-  tail
-
-  chase
-
-  castle'
 bip_39_word_new_line_12: 'elder
 
   topple
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'elder
   topple
 
   still'
-bip_39_word_new_line_4: 'elder
-
-  topple
-
-  still
-
-  endless'
-bip_39_word_new_line_5: 'elder
-
-  topple
-
-  still
-
-  endless
-
-  narrow'
-bip_39_word_new_line_6: 'elder
-
-  topple
-
-  still
-
-  endless
-
-  narrow
-
-  endless'
-bip_39_word_new_line_7: 'elder
-
-  topple
-
-  still
-
-  endless
-
-  narrow
-
-  endless
-
-  teach'
-bip_39_word_new_line_8: 'elder
-
-  topple
-
-  still
-
-  endless
-
-  narrow
-
-  endless
-
-  teach
-
-  fragile'
-bip_39_word_new_line_9: 'elder
-
-  topple
-
-  still
-
-  endless
-
-  narrow
-
-  endless
-
-  teach
-
-  fragile
-
-  tail'
-bip_39_word_no_space_1: elder
-bip_39_word_no_space_10: eldertopplestillendlessnarrowendlessteachfragiletailchase
-bip_39_word_no_space_11: eldertopplestillendlessnarrowendlessteachfragiletailchasecastle
 bip_39_word_no_space_12: eldertopplestillendlessnarrowendlessteachfragiletailchasecastleacoustic
 bip_39_word_no_space_2: eldertopple
 bip_39_word_no_space_3: eldertopplestill
-bip_39_word_no_space_4: eldertopplestillendless
-bip_39_word_no_space_5: eldertopplestillendlessnarrow
-bip_39_word_no_space_6: eldertopplestillendlessnarrowendless
-bip_39_word_no_space_7: eldertopplestillendlessnarrowendlessteach
-bip_39_word_no_space_8: eldertopplestillendlessnarrowendlessteachfragile
-bip_39_word_no_space_9: eldertopplestillendlessnarrowendlessteachfragiletail
-bip_39_word_space_0:
-- elder
-- topple
-- still
-- endless
-- narrow
-- endless
-- teach
-- fragile
-- tail
-- chase
-- castle
-- acoustic
-bip_39_word_space_1: elder
-bip_39_word_space_10: elder topple still endless narrow endless teach fragile tail
-  chase
-bip_39_word_space_11: elder topple still endless narrow endless teach fragile tail
-  chase castle
 bip_39_word_space_12: elder topple still endless narrow endless teach fragile tail
   chase castle acoustic
 bip_39_word_space_2: elder topple
 bip_39_word_space_3: elder topple still
-bip_39_word_space_4: elder topple still endless
-bip_39_word_space_5: elder topple still endless narrow
-bip_39_word_space_6: elder topple still endless narrow endless
-bip_39_word_space_7: elder topple still endless narrow endless teach
-bip_39_word_space_8: elder topple still endless narrow endless teach fragile
-bip_39_word_space_9: elder topple still endless narrow endless teach fragile tail
-bip_39_word_underscore_1: elder
-bip_39_word_underscore_10: elder_topple_still_endless_narrow_endless_teach_fragile_tail_chase
-bip_39_word_underscore_11: elder_topple_still_endless_narrow_endless_teach_fragile_tail_chase_castle
 bip_39_word_underscore_12: elder_topple_still_endless_narrow_endless_teach_fragile_tail_chase_castle_acoustic
 bip_39_word_underscore_2: elder_topple
 bip_39_word_underscore_3: elder_topple_still
-bip_39_word_underscore_4: elder_topple_still_endless
-bip_39_word_underscore_5: elder_topple_still_endless_narrow
-bip_39_word_underscore_6: elder_topple_still_endless_narrow_endless
-bip_39_word_underscore_7: elder_topple_still_endless_narrow_endless_teach
-bip_39_word_underscore_8: elder_topple_still_endless_narrow_endless_teach_fragile
-bip_39_word_underscore_9: elder_topple_still_endless_narrow_endless_teach_fragile_tail
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

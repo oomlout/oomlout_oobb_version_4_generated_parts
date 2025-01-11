@@ -1,68 +1,9 @@
-bip_39_word_dash_1: spin
-bip_39_word_dash_10: spin-basic-ahead-demand-web-there-faith-stone-parrot-sadness
-bip_39_word_dash_11: spin-basic-ahead-demand-web-there-faith-stone-parrot-sadness-slender
 bip_39_word_dash_12: spin-basic-ahead-demand-web-there-faith-stone-parrot-sadness-slender-art
 bip_39_word_dash_2: spin-basic
 bip_39_word_dash_3: spin-basic-ahead
-bip_39_word_dash_4: spin-basic-ahead-demand
-bip_39_word_dash_5: spin-basic-ahead-demand-web
-bip_39_word_dash_6: spin-basic-ahead-demand-web-there
-bip_39_word_dash_7: spin-basic-ahead-demand-web-there-faith
-bip_39_word_dash_8: spin-basic-ahead-demand-web-there-faith-stone
-bip_39_word_dash_9: spin-basic-ahead-demand-web-there-faith-stone-parrot
-bip_39_word_new_br_1: spin
-bip_39_word_new_br_10: spin<br>basic<br>ahead<br>demand<br>web<br>there<br>faith<br>stone<br>parrot<br>sadness
-bip_39_word_new_br_11: spin<br>basic<br>ahead<br>demand<br>web<br>there<br>faith<br>stone<br>parrot<br>sadness<br>slender
 bip_39_word_new_br_12: spin<br>basic<br>ahead<br>demand<br>web<br>there<br>faith<br>stone<br>parrot<br>sadness<br>slender<br>art
 bip_39_word_new_br_2: spin<br>basic
 bip_39_word_new_br_3: spin<br>basic<br>ahead
-bip_39_word_new_br_4: spin<br>basic<br>ahead<br>demand
-bip_39_word_new_br_5: spin<br>basic<br>ahead<br>demand<br>web
-bip_39_word_new_br_6: spin<br>basic<br>ahead<br>demand<br>web<br>there
-bip_39_word_new_br_7: spin<br>basic<br>ahead<br>demand<br>web<br>there<br>faith
-bip_39_word_new_br_8: spin<br>basic<br>ahead<br>demand<br>web<br>there<br>faith<br>stone
-bip_39_word_new_br_9: spin<br>basic<br>ahead<br>demand<br>web<br>there<br>faith<br>stone<br>parrot
-bip_39_word_new_line_1: spin
-bip_39_word_new_line_10: 'spin
-
-  basic
-
-  ahead
-
-  demand
-
-  web
-
-  there
-
-  faith
-
-  stone
-
-  parrot
-
-  sadness'
-bip_39_word_new_line_11: 'spin
-
-  basic
-
-  ahead
-
-  demand
-
-  web
-
-  there
-
-  faith
-
-  stone
-
-  parrot
-
-  sadness
-
-  slender'
 bip_39_word_new_line_12: 'spin
 
   basic
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'spin
   basic
 
   ahead'
-bip_39_word_new_line_4: 'spin
-
-  basic
-
-  ahead
-
-  demand'
-bip_39_word_new_line_5: 'spin
-
-  basic
-
-  ahead
-
-  demand
-
-  web'
-bip_39_word_new_line_6: 'spin
-
-  basic
-
-  ahead
-
-  demand
-
-  web
-
-  there'
-bip_39_word_new_line_7: 'spin
-
-  basic
-
-  ahead
-
-  demand
-
-  web
-
-  there
-
-  faith'
-bip_39_word_new_line_8: 'spin
-
-  basic
-
-  ahead
-
-  demand
-
-  web
-
-  there
-
-  faith
-
-  stone'
-bip_39_word_new_line_9: 'spin
-
-  basic
-
-  ahead
-
-  demand
-
-  web
-
-  there
-
-  faith
-
-  stone
-
-  parrot'
-bip_39_word_no_space_1: spin
-bip_39_word_no_space_10: spinbasicaheaddemandwebtherefaithstoneparrotsadness
-bip_39_word_no_space_11: spinbasicaheaddemandwebtherefaithstoneparrotsadnessslender
 bip_39_word_no_space_12: spinbasicaheaddemandwebtherefaithstoneparrotsadnessslenderart
 bip_39_word_no_space_2: spinbasic
 bip_39_word_no_space_3: spinbasicahead
-bip_39_word_no_space_4: spinbasicaheaddemand
-bip_39_word_no_space_5: spinbasicaheaddemandweb
-bip_39_word_no_space_6: spinbasicaheaddemandwebthere
-bip_39_word_no_space_7: spinbasicaheaddemandwebtherefaith
-bip_39_word_no_space_8: spinbasicaheaddemandwebtherefaithstone
-bip_39_word_no_space_9: spinbasicaheaddemandwebtherefaithstoneparrot
-bip_39_word_space_0:
-- spin
-- basic
-- ahead
-- demand
-- web
-- there
-- faith
-- stone
-- parrot
-- sadness
-- slender
-- art
-bip_39_word_space_1: spin
-bip_39_word_space_10: spin basic ahead demand web there faith stone parrot sadness
-bip_39_word_space_11: spin basic ahead demand web there faith stone parrot sadness
-  slender
 bip_39_word_space_12: spin basic ahead demand web there faith stone parrot sadness
   slender art
 bip_39_word_space_2: spin basic
 bip_39_word_space_3: spin basic ahead
-bip_39_word_space_4: spin basic ahead demand
-bip_39_word_space_5: spin basic ahead demand web
-bip_39_word_space_6: spin basic ahead demand web there
-bip_39_word_space_7: spin basic ahead demand web there faith
-bip_39_word_space_8: spin basic ahead demand web there faith stone
-bip_39_word_space_9: spin basic ahead demand web there faith stone parrot
-bip_39_word_underscore_1: spin
-bip_39_word_underscore_10: spin_basic_ahead_demand_web_there_faith_stone_parrot_sadness
-bip_39_word_underscore_11: spin_basic_ahead_demand_web_there_faith_stone_parrot_sadness_slender
 bip_39_word_underscore_12: spin_basic_ahead_demand_web_there_faith_stone_parrot_sadness_slender_art
 bip_39_word_underscore_2: spin_basic
 bip_39_word_underscore_3: spin_basic_ahead
-bip_39_word_underscore_4: spin_basic_ahead_demand
-bip_39_word_underscore_5: spin_basic_ahead_demand_web
-bip_39_word_underscore_6: spin_basic_ahead_demand_web_there
-bip_39_word_underscore_7: spin_basic_ahead_demand_web_there_faith
-bip_39_word_underscore_8: spin_basic_ahead_demand_web_there_faith_stone
-bip_39_word_underscore_9: spin_basic_ahead_demand_web_there_faith_stone_parrot
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

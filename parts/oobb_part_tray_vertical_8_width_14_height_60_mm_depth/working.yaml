@@ -1,68 +1,9 @@
-bip_39_word_dash_1: genre
-bip_39_word_dash_10: genre-media-unique-harbor-novel-fluid-soup-orient-weekend-miracle
-bip_39_word_dash_11: genre-media-unique-harbor-novel-fluid-soup-orient-weekend-miracle-sock
 bip_39_word_dash_12: genre-media-unique-harbor-novel-fluid-soup-orient-weekend-miracle-sock-any
 bip_39_word_dash_2: genre-media
 bip_39_word_dash_3: genre-media-unique
-bip_39_word_dash_4: genre-media-unique-harbor
-bip_39_word_dash_5: genre-media-unique-harbor-novel
-bip_39_word_dash_6: genre-media-unique-harbor-novel-fluid
-bip_39_word_dash_7: genre-media-unique-harbor-novel-fluid-soup
-bip_39_word_dash_8: genre-media-unique-harbor-novel-fluid-soup-orient
-bip_39_word_dash_9: genre-media-unique-harbor-novel-fluid-soup-orient-weekend
-bip_39_word_new_br_1: genre
-bip_39_word_new_br_10: genre<br>media<br>unique<br>harbor<br>novel<br>fluid<br>soup<br>orient<br>weekend<br>miracle
-bip_39_word_new_br_11: genre<br>media<br>unique<br>harbor<br>novel<br>fluid<br>soup<br>orient<br>weekend<br>miracle<br>sock
 bip_39_word_new_br_12: genre<br>media<br>unique<br>harbor<br>novel<br>fluid<br>soup<br>orient<br>weekend<br>miracle<br>sock<br>any
 bip_39_word_new_br_2: genre<br>media
 bip_39_word_new_br_3: genre<br>media<br>unique
-bip_39_word_new_br_4: genre<br>media<br>unique<br>harbor
-bip_39_word_new_br_5: genre<br>media<br>unique<br>harbor<br>novel
-bip_39_word_new_br_6: genre<br>media<br>unique<br>harbor<br>novel<br>fluid
-bip_39_word_new_br_7: genre<br>media<br>unique<br>harbor<br>novel<br>fluid<br>soup
-bip_39_word_new_br_8: genre<br>media<br>unique<br>harbor<br>novel<br>fluid<br>soup<br>orient
-bip_39_word_new_br_9: genre<br>media<br>unique<br>harbor<br>novel<br>fluid<br>soup<br>orient<br>weekend
-bip_39_word_new_line_1: genre
-bip_39_word_new_line_10: 'genre
-
-  media
-
-  unique
-
-  harbor
-
-  novel
-
-  fluid
-
-  soup
-
-  orient
-
-  weekend
-
-  miracle'
-bip_39_word_new_line_11: 'genre
-
-  media
-
-  unique
-
-  harbor
-
-  novel
-
-  fluid
-
-  soup
-
-  orient
-
-  weekend
-
-  miracle
-
-  sock'
 bip_39_word_new_line_12: 'genre
 
   media
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'genre
   media
 
   unique'
-bip_39_word_new_line_4: 'genre
-
-  media
-
-  unique
-
-  harbor'
-bip_39_word_new_line_5: 'genre
-
-  media
-
-  unique
-
-  harbor
-
-  novel'
-bip_39_word_new_line_6: 'genre
-
-  media
-
-  unique
-
-  harbor
-
-  novel
-
-  fluid'
-bip_39_word_new_line_7: 'genre
-
-  media
-
-  unique
-
-  harbor
-
-  novel
-
-  fluid
-
-  soup'
-bip_39_word_new_line_8: 'genre
-
-  media
-
-  unique
-
-  harbor
-
-  novel
-
-  fluid
-
-  soup
-
-  orient'
-bip_39_word_new_line_9: 'genre
-
-  media
-
-  unique
-
-  harbor
-
-  novel
-
-  fluid
-
-  soup
-
-  orient
-
-  weekend'
-bip_39_word_no_space_1: genre
-bip_39_word_no_space_10: genremediauniqueharbornovelfluidsouporientweekendmiracle
-bip_39_word_no_space_11: genremediauniqueharbornovelfluidsouporientweekendmiraclesock
 bip_39_word_no_space_12: genremediauniqueharbornovelfluidsouporientweekendmiraclesockany
 bip_39_word_no_space_2: genremedia
 bip_39_word_no_space_3: genremediaunique
-bip_39_word_no_space_4: genremediauniqueharbor
-bip_39_word_no_space_5: genremediauniqueharbornovel
-bip_39_word_no_space_6: genremediauniqueharbornovelfluid
-bip_39_word_no_space_7: genremediauniqueharbornovelfluidsoup
-bip_39_word_no_space_8: genremediauniqueharbornovelfluidsouporient
-bip_39_word_no_space_9: genremediauniqueharbornovelfluidsouporientweekend
-bip_39_word_space_0:
-- genre
-- media
-- unique
-- harbor
-- novel
-- fluid
-- soup
-- orient
-- weekend
-- miracle
-- sock
-- any
-bip_39_word_space_1: genre
-bip_39_word_space_10: genre media unique harbor novel fluid soup orient weekend miracle
-bip_39_word_space_11: genre media unique harbor novel fluid soup orient weekend miracle
-  sock
 bip_39_word_space_12: genre media unique harbor novel fluid soup orient weekend miracle
   sock any
 bip_39_word_space_2: genre media
 bip_39_word_space_3: genre media unique
-bip_39_word_space_4: genre media unique harbor
-bip_39_word_space_5: genre media unique harbor novel
-bip_39_word_space_6: genre media unique harbor novel fluid
-bip_39_word_space_7: genre media unique harbor novel fluid soup
-bip_39_word_space_8: genre media unique harbor novel fluid soup orient
-bip_39_word_space_9: genre media unique harbor novel fluid soup orient weekend
-bip_39_word_underscore_1: genre
-bip_39_word_underscore_10: genre_media_unique_harbor_novel_fluid_soup_orient_weekend_miracle
-bip_39_word_underscore_11: genre_media_unique_harbor_novel_fluid_soup_orient_weekend_miracle_sock
 bip_39_word_underscore_12: genre_media_unique_harbor_novel_fluid_soup_orient_weekend_miracle_sock_any
 bip_39_word_underscore_2: genre_media
 bip_39_word_underscore_3: genre_media_unique
-bip_39_word_underscore_4: genre_media_unique_harbor
-bip_39_word_underscore_5: genre_media_unique_harbor_novel
-bip_39_word_underscore_6: genre_media_unique_harbor_novel_fluid
-bip_39_word_underscore_7: genre_media_unique_harbor_novel_fluid_soup
-bip_39_word_underscore_8: genre_media_unique_harbor_novel_fluid_soup_orient
-bip_39_word_underscore_9: genre_media_unique_harbor_novel_fluid_soup_orient_weekend
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

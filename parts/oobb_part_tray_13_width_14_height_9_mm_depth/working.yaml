@@ -1,68 +1,9 @@
-bip_39_word_dash_1: iron
-bip_39_word_dash_10: iron-casual-boil-mean-disagree-tennis-glow-junk-suggest-rocket
-bip_39_word_dash_11: iron-casual-boil-mean-disagree-tennis-glow-junk-suggest-rocket-rose
 bip_39_word_dash_12: iron-casual-boil-mean-disagree-tennis-glow-junk-suggest-rocket-rose-amount
 bip_39_word_dash_2: iron-casual
 bip_39_word_dash_3: iron-casual-boil
-bip_39_word_dash_4: iron-casual-boil-mean
-bip_39_word_dash_5: iron-casual-boil-mean-disagree
-bip_39_word_dash_6: iron-casual-boil-mean-disagree-tennis
-bip_39_word_dash_7: iron-casual-boil-mean-disagree-tennis-glow
-bip_39_word_dash_8: iron-casual-boil-mean-disagree-tennis-glow-junk
-bip_39_word_dash_9: iron-casual-boil-mean-disagree-tennis-glow-junk-suggest
-bip_39_word_new_br_1: iron
-bip_39_word_new_br_10: iron<br>casual<br>boil<br>mean<br>disagree<br>tennis<br>glow<br>junk<br>suggest<br>rocket
-bip_39_word_new_br_11: iron<br>casual<br>boil<br>mean<br>disagree<br>tennis<br>glow<br>junk<br>suggest<br>rocket<br>rose
 bip_39_word_new_br_12: iron<br>casual<br>boil<br>mean<br>disagree<br>tennis<br>glow<br>junk<br>suggest<br>rocket<br>rose<br>amount
 bip_39_word_new_br_2: iron<br>casual
 bip_39_word_new_br_3: iron<br>casual<br>boil
-bip_39_word_new_br_4: iron<br>casual<br>boil<br>mean
-bip_39_word_new_br_5: iron<br>casual<br>boil<br>mean<br>disagree
-bip_39_word_new_br_6: iron<br>casual<br>boil<br>mean<br>disagree<br>tennis
-bip_39_word_new_br_7: iron<br>casual<br>boil<br>mean<br>disagree<br>tennis<br>glow
-bip_39_word_new_br_8: iron<br>casual<br>boil<br>mean<br>disagree<br>tennis<br>glow<br>junk
-bip_39_word_new_br_9: iron<br>casual<br>boil<br>mean<br>disagree<br>tennis<br>glow<br>junk<br>suggest
-bip_39_word_new_line_1: iron
-bip_39_word_new_line_10: 'iron
-
-  casual
-
-  boil
-
-  mean
-
-  disagree
-
-  tennis
-
-  glow
-
-  junk
-
-  suggest
-
-  rocket'
-bip_39_word_new_line_11: 'iron
-
-  casual
-
-  boil
-
-  mean
-
-  disagree
-
-  tennis
-
-  glow
-
-  junk
-
-  suggest
-
-  rocket
-
-  rose'
 bip_39_word_new_line_12: 'iron
 
   casual
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'iron
   casual
 
   boil'
-bip_39_word_new_line_4: 'iron
-
-  casual
-
-  boil
-
-  mean'
-bip_39_word_new_line_5: 'iron
-
-  casual
-
-  boil
-
-  mean
-
-  disagree'
-bip_39_word_new_line_6: 'iron
-
-  casual
-
-  boil
-
-  mean
-
-  disagree
-
-  tennis'
-bip_39_word_new_line_7: 'iron
-
-  casual
-
-  boil
-
-  mean
-
-  disagree
-
-  tennis
-
-  glow'
-bip_39_word_new_line_8: 'iron
-
-  casual
-
-  boil
-
-  mean
-
-  disagree
-
-  tennis
-
-  glow
-
-  junk'
-bip_39_word_new_line_9: 'iron
-
-  casual
-
-  boil
-
-  mean
-
-  disagree
-
-  tennis
-
-  glow
-
-  junk
-
-  suggest'
-bip_39_word_no_space_1: iron
-bip_39_word_no_space_10: ironcasualboilmeandisagreetennisglowjunksuggestrocket
-bip_39_word_no_space_11: ironcasualboilmeandisagreetennisglowjunksuggestrocketrose
 bip_39_word_no_space_12: ironcasualboilmeandisagreetennisglowjunksuggestrocketroseamount
 bip_39_word_no_space_2: ironcasual
 bip_39_word_no_space_3: ironcasualboil
-bip_39_word_no_space_4: ironcasualboilmean
-bip_39_word_no_space_5: ironcasualboilmeandisagree
-bip_39_word_no_space_6: ironcasualboilmeandisagreetennis
-bip_39_word_no_space_7: ironcasualboilmeandisagreetennisglow
-bip_39_word_no_space_8: ironcasualboilmeandisagreetennisglowjunk
-bip_39_word_no_space_9: ironcasualboilmeandisagreetennisglowjunksuggest
-bip_39_word_space_0:
-- iron
-- casual
-- boil
-- mean
-- disagree
-- tennis
-- glow
-- junk
-- suggest
-- rocket
-- rose
-- amount
-bip_39_word_space_1: iron
-bip_39_word_space_10: iron casual boil mean disagree tennis glow junk suggest rocket
-bip_39_word_space_11: iron casual boil mean disagree tennis glow junk suggest rocket
-  rose
 bip_39_word_space_12: iron casual boil mean disagree tennis glow junk suggest rocket
   rose amount
 bip_39_word_space_2: iron casual
 bip_39_word_space_3: iron casual boil
-bip_39_word_space_4: iron casual boil mean
-bip_39_word_space_5: iron casual boil mean disagree
-bip_39_word_space_6: iron casual boil mean disagree tennis
-bip_39_word_space_7: iron casual boil mean disagree tennis glow
-bip_39_word_space_8: iron casual boil mean disagree tennis glow junk
-bip_39_word_space_9: iron casual boil mean disagree tennis glow junk suggest
-bip_39_word_underscore_1: iron
-bip_39_word_underscore_10: iron_casual_boil_mean_disagree_tennis_glow_junk_suggest_rocket
-bip_39_word_underscore_11: iron_casual_boil_mean_disagree_tennis_glow_junk_suggest_rocket_rose
 bip_39_word_underscore_12: iron_casual_boil_mean_disagree_tennis_glow_junk_suggest_rocket_rose_amount
 bip_39_word_underscore_2: iron_casual
 bip_39_word_underscore_3: iron_casual_boil
-bip_39_word_underscore_4: iron_casual_boil_mean
-bip_39_word_underscore_5: iron_casual_boil_mean_disagree
-bip_39_word_underscore_6: iron_casual_boil_mean_disagree_tennis
-bip_39_word_underscore_7: iron_casual_boil_mean_disagree_tennis_glow
-bip_39_word_underscore_8: iron_casual_boil_mean_disagree_tennis_glow_junk
-bip_39_word_underscore_9: iron_casual_boil_mean_disagree_tennis_glow_junk_suggest
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

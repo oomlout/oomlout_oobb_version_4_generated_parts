@@ -1,68 +1,9 @@
-bip_39_word_dash_1: unknown
-bip_39_word_dash_10: unknown-guard-verify-suggest-tortoise-immune-fire-lake-wash-pole
-bip_39_word_dash_11: unknown-guard-verify-suggest-tortoise-immune-fire-lake-wash-pole-direct
 bip_39_word_dash_12: unknown-guard-verify-suggest-tortoise-immune-fire-lake-wash-pole-direct-artefact
 bip_39_word_dash_2: unknown-guard
 bip_39_word_dash_3: unknown-guard-verify
-bip_39_word_dash_4: unknown-guard-verify-suggest
-bip_39_word_dash_5: unknown-guard-verify-suggest-tortoise
-bip_39_word_dash_6: unknown-guard-verify-suggest-tortoise-immune
-bip_39_word_dash_7: unknown-guard-verify-suggest-tortoise-immune-fire
-bip_39_word_dash_8: unknown-guard-verify-suggest-tortoise-immune-fire-lake
-bip_39_word_dash_9: unknown-guard-verify-suggest-tortoise-immune-fire-lake-wash
-bip_39_word_new_br_1: unknown
-bip_39_word_new_br_10: unknown<br>guard<br>verify<br>suggest<br>tortoise<br>immune<br>fire<br>lake<br>wash<br>pole
-bip_39_word_new_br_11: unknown<br>guard<br>verify<br>suggest<br>tortoise<br>immune<br>fire<br>lake<br>wash<br>pole<br>direct
 bip_39_word_new_br_12: unknown<br>guard<br>verify<br>suggest<br>tortoise<br>immune<br>fire<br>lake<br>wash<br>pole<br>direct<br>artefact
 bip_39_word_new_br_2: unknown<br>guard
 bip_39_word_new_br_3: unknown<br>guard<br>verify
-bip_39_word_new_br_4: unknown<br>guard<br>verify<br>suggest
-bip_39_word_new_br_5: unknown<br>guard<br>verify<br>suggest<br>tortoise
-bip_39_word_new_br_6: unknown<br>guard<br>verify<br>suggest<br>tortoise<br>immune
-bip_39_word_new_br_7: unknown<br>guard<br>verify<br>suggest<br>tortoise<br>immune<br>fire
-bip_39_word_new_br_8: unknown<br>guard<br>verify<br>suggest<br>tortoise<br>immune<br>fire<br>lake
-bip_39_word_new_br_9: unknown<br>guard<br>verify<br>suggest<br>tortoise<br>immune<br>fire<br>lake<br>wash
-bip_39_word_new_line_1: unknown
-bip_39_word_new_line_10: 'unknown
-
-  guard
-
-  verify
-
-  suggest
-
-  tortoise
-
-  immune
-
-  fire
-
-  lake
-
-  wash
-
-  pole'
-bip_39_word_new_line_11: 'unknown
-
-  guard
-
-  verify
-
-  suggest
-
-  tortoise
-
-  immune
-
-  fire
-
-  lake
-
-  wash
-
-  pole
-
-  direct'
 bip_39_word_new_line_12: 'unknown
 
   guard
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'unknown
   guard
 
   verify'
-bip_39_word_new_line_4: 'unknown
-
-  guard
-
-  verify
-
-  suggest'
-bip_39_word_new_line_5: 'unknown
-
-  guard
-
-  verify
-
-  suggest
-
-  tortoise'
-bip_39_word_new_line_6: 'unknown
-
-  guard
-
-  verify
-
-  suggest
-
-  tortoise
-
-  immune'
-bip_39_word_new_line_7: 'unknown
-
-  guard
-
-  verify
-
-  suggest
-
-  tortoise
-
-  immune
-
-  fire'
-bip_39_word_new_line_8: 'unknown
-
-  guard
-
-  verify
-
-  suggest
-
-  tortoise
-
-  immune
-
-  fire
-
-  lake'
-bip_39_word_new_line_9: 'unknown
-
-  guard
-
-  verify
-
-  suggest
-
-  tortoise
-
-  immune
-
-  fire
-
-  lake
-
-  wash'
-bip_39_word_no_space_1: unknown
-bip_39_word_no_space_10: unknownguardverifysuggesttortoiseimmunefirelakewashpole
-bip_39_word_no_space_11: unknownguardverifysuggesttortoiseimmunefirelakewashpoledirect
 bip_39_word_no_space_12: unknownguardverifysuggesttortoiseimmunefirelakewashpoledirectartefact
 bip_39_word_no_space_2: unknownguard
 bip_39_word_no_space_3: unknownguardverify
-bip_39_word_no_space_4: unknownguardverifysuggest
-bip_39_word_no_space_5: unknownguardverifysuggesttortoise
-bip_39_word_no_space_6: unknownguardverifysuggesttortoiseimmune
-bip_39_word_no_space_7: unknownguardverifysuggesttortoiseimmunefire
-bip_39_word_no_space_8: unknownguardverifysuggesttortoiseimmunefirelake
-bip_39_word_no_space_9: unknownguardverifysuggesttortoiseimmunefirelakewash
-bip_39_word_space_0:
-- unknown
-- guard
-- verify
-- suggest
-- tortoise
-- immune
-- fire
-- lake
-- wash
-- pole
-- direct
-- artefact
-bip_39_word_space_1: unknown
-bip_39_word_space_10: unknown guard verify suggest tortoise immune fire lake wash
-  pole
-bip_39_word_space_11: unknown guard verify suggest tortoise immune fire lake wash
-  pole direct
 bip_39_word_space_12: unknown guard verify suggest tortoise immune fire lake wash
   pole direct artefact
 bip_39_word_space_2: unknown guard
 bip_39_word_space_3: unknown guard verify
-bip_39_word_space_4: unknown guard verify suggest
-bip_39_word_space_5: unknown guard verify suggest tortoise
-bip_39_word_space_6: unknown guard verify suggest tortoise immune
-bip_39_word_space_7: unknown guard verify suggest tortoise immune fire
-bip_39_word_space_8: unknown guard verify suggest tortoise immune fire lake
-bip_39_word_space_9: unknown guard verify suggest tortoise immune fire lake wash
-bip_39_word_underscore_1: unknown
-bip_39_word_underscore_10: unknown_guard_verify_suggest_tortoise_immune_fire_lake_wash_pole
-bip_39_word_underscore_11: unknown_guard_verify_suggest_tortoise_immune_fire_lake_wash_pole_direct
 bip_39_word_underscore_12: unknown_guard_verify_suggest_tortoise_immune_fire_lake_wash_pole_direct_artefact
 bip_39_word_underscore_2: unknown_guard
 bip_39_word_underscore_3: unknown_guard_verify
-bip_39_word_underscore_4: unknown_guard_verify_suggest
-bip_39_word_underscore_5: unknown_guard_verify_suggest_tortoise
-bip_39_word_underscore_6: unknown_guard_verify_suggest_tortoise_immune
-bip_39_word_underscore_7: unknown_guard_verify_suggest_tortoise_immune_fire
-bip_39_word_underscore_8: unknown_guard_verify_suggest_tortoise_immune_fire_lake
-bip_39_word_underscore_9: unknown_guard_verify_suggest_tortoise_immune_fire_lake_wash
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

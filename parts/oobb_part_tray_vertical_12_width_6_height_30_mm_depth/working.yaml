@@ -1,68 +1,9 @@
-bip_39_word_dash_1: master
-bip_39_word_dash_10: master-enemy-laptop-gorilla-smoke-grit-grief-medal-skull-feel
-bip_39_word_dash_11: master-enemy-laptop-gorilla-smoke-grit-grief-medal-skull-feel-permit
 bip_39_word_dash_12: master-enemy-laptop-gorilla-smoke-grit-grief-medal-skull-feel-permit-all
 bip_39_word_dash_2: master-enemy
 bip_39_word_dash_3: master-enemy-laptop
-bip_39_word_dash_4: master-enemy-laptop-gorilla
-bip_39_word_dash_5: master-enemy-laptop-gorilla-smoke
-bip_39_word_dash_6: master-enemy-laptop-gorilla-smoke-grit
-bip_39_word_dash_7: master-enemy-laptop-gorilla-smoke-grit-grief
-bip_39_word_dash_8: master-enemy-laptop-gorilla-smoke-grit-grief-medal
-bip_39_word_dash_9: master-enemy-laptop-gorilla-smoke-grit-grief-medal-skull
-bip_39_word_new_br_1: master
-bip_39_word_new_br_10: master<br>enemy<br>laptop<br>gorilla<br>smoke<br>grit<br>grief<br>medal<br>skull<br>feel
-bip_39_word_new_br_11: master<br>enemy<br>laptop<br>gorilla<br>smoke<br>grit<br>grief<br>medal<br>skull<br>feel<br>permit
 bip_39_word_new_br_12: master<br>enemy<br>laptop<br>gorilla<br>smoke<br>grit<br>grief<br>medal<br>skull<br>feel<br>permit<br>all
 bip_39_word_new_br_2: master<br>enemy
 bip_39_word_new_br_3: master<br>enemy<br>laptop
-bip_39_word_new_br_4: master<br>enemy<br>laptop<br>gorilla
-bip_39_word_new_br_5: master<br>enemy<br>laptop<br>gorilla<br>smoke
-bip_39_word_new_br_6: master<br>enemy<br>laptop<br>gorilla<br>smoke<br>grit
-bip_39_word_new_br_7: master<br>enemy<br>laptop<br>gorilla<br>smoke<br>grit<br>grief
-bip_39_word_new_br_8: master<br>enemy<br>laptop<br>gorilla<br>smoke<br>grit<br>grief<br>medal
-bip_39_word_new_br_9: master<br>enemy<br>laptop<br>gorilla<br>smoke<br>grit<br>grief<br>medal<br>skull
-bip_39_word_new_line_1: master
-bip_39_word_new_line_10: 'master
-
-  enemy
-
-  laptop
-
-  gorilla
-
-  smoke
-
-  grit
-
-  grief
-
-  medal
-
-  skull
-
-  feel'
-bip_39_word_new_line_11: 'master
-
-  enemy
-
-  laptop
-
-  gorilla
-
-  smoke
-
-  grit
-
-  grief
-
-  medal
-
-  skull
-
-  feel
-
-  permit'
 bip_39_word_new_line_12: 'master
 
   enemy
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'master
   enemy
 
   laptop'
-bip_39_word_new_line_4: 'master
-
-  enemy
-
-  laptop
-
-  gorilla'
-bip_39_word_new_line_5: 'master
-
-  enemy
-
-  laptop
-
-  gorilla
-
-  smoke'
-bip_39_word_new_line_6: 'master
-
-  enemy
-
-  laptop
-
-  gorilla
-
-  smoke
-
-  grit'
-bip_39_word_new_line_7: 'master
-
-  enemy
-
-  laptop
-
-  gorilla
-
-  smoke
-
-  grit
-
-  grief'
-bip_39_word_new_line_8: 'master
-
-  enemy
-
-  laptop
-
-  gorilla
-
-  smoke
-
-  grit
-
-  grief
-
-  medal'
-bip_39_word_new_line_9: 'master
-
-  enemy
-
-  laptop
-
-  gorilla
-
-  smoke
-
-  grit
-
-  grief
-
-  medal
-
-  skull'
-bip_39_word_no_space_1: master
-bip_39_word_no_space_10: masterenemylaptopgorillasmokegritgriefmedalskullfeel
-bip_39_word_no_space_11: masterenemylaptopgorillasmokegritgriefmedalskullfeelpermit
 bip_39_word_no_space_12: masterenemylaptopgorillasmokegritgriefmedalskullfeelpermitall
 bip_39_word_no_space_2: masterenemy
 bip_39_word_no_space_3: masterenemylaptop
-bip_39_word_no_space_4: masterenemylaptopgorilla
-bip_39_word_no_space_5: masterenemylaptopgorillasmoke
-bip_39_word_no_space_6: masterenemylaptopgorillasmokegrit
-bip_39_word_no_space_7: masterenemylaptopgorillasmokegritgrief
-bip_39_word_no_space_8: masterenemylaptopgorillasmokegritgriefmedal
-bip_39_word_no_space_9: masterenemylaptopgorillasmokegritgriefmedalskull
-bip_39_word_space_0:
-- master
-- enemy
-- laptop
-- gorilla
-- smoke
-- grit
-- grief
-- medal
-- skull
-- feel
-- permit
-- all
-bip_39_word_space_1: master
-bip_39_word_space_10: master enemy laptop gorilla smoke grit grief medal skull feel
-bip_39_word_space_11: master enemy laptop gorilla smoke grit grief medal skull feel
-  permit
 bip_39_word_space_12: master enemy laptop gorilla smoke grit grief medal skull feel
   permit all
 bip_39_word_space_2: master enemy
 bip_39_word_space_3: master enemy laptop
-bip_39_word_space_4: master enemy laptop gorilla
-bip_39_word_space_5: master enemy laptop gorilla smoke
-bip_39_word_space_6: master enemy laptop gorilla smoke grit
-bip_39_word_space_7: master enemy laptop gorilla smoke grit grief
-bip_39_word_space_8: master enemy laptop gorilla smoke grit grief medal
-bip_39_word_space_9: master enemy laptop gorilla smoke grit grief medal skull
-bip_39_word_underscore_1: master
-bip_39_word_underscore_10: master_enemy_laptop_gorilla_smoke_grit_grief_medal_skull_feel
-bip_39_word_underscore_11: master_enemy_laptop_gorilla_smoke_grit_grief_medal_skull_feel_permit
 bip_39_word_underscore_12: master_enemy_laptop_gorilla_smoke_grit_grief_medal_skull_feel_permit_all
 bip_39_word_underscore_2: master_enemy
 bip_39_word_underscore_3: master_enemy_laptop
-bip_39_word_underscore_4: master_enemy_laptop_gorilla
-bip_39_word_underscore_5: master_enemy_laptop_gorilla_smoke
-bip_39_word_underscore_6: master_enemy_laptop_gorilla_smoke_grit
-bip_39_word_underscore_7: master_enemy_laptop_gorilla_smoke_grit_grief
-bip_39_word_underscore_8: master_enemy_laptop_gorilla_smoke_grit_grief_medal
-bip_39_word_underscore_9: master_enemy_laptop_gorilla_smoke_grit_grief_medal_skull
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

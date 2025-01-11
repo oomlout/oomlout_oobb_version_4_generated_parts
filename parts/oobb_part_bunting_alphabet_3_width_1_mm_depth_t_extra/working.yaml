@@ -1,68 +1,9 @@
-bip_39_word_dash_1: this
-bip_39_word_dash_10: this-banana-text-chimney-bus-crater-present-ship-ordinary-cabbage
-bip_39_word_dash_11: this-banana-text-chimney-bus-crater-present-ship-ordinary-cabbage-image
 bip_39_word_dash_12: this-banana-text-chimney-bus-crater-present-ship-ordinary-cabbage-image-atom
 bip_39_word_dash_2: this-banana
 bip_39_word_dash_3: this-banana-text
-bip_39_word_dash_4: this-banana-text-chimney
-bip_39_word_dash_5: this-banana-text-chimney-bus
-bip_39_word_dash_6: this-banana-text-chimney-bus-crater
-bip_39_word_dash_7: this-banana-text-chimney-bus-crater-present
-bip_39_word_dash_8: this-banana-text-chimney-bus-crater-present-ship
-bip_39_word_dash_9: this-banana-text-chimney-bus-crater-present-ship-ordinary
-bip_39_word_new_br_1: this
-bip_39_word_new_br_10: this<br>banana<br>text<br>chimney<br>bus<br>crater<br>present<br>ship<br>ordinary<br>cabbage
-bip_39_word_new_br_11: this<br>banana<br>text<br>chimney<br>bus<br>crater<br>present<br>ship<br>ordinary<br>cabbage<br>image
 bip_39_word_new_br_12: this<br>banana<br>text<br>chimney<br>bus<br>crater<br>present<br>ship<br>ordinary<br>cabbage<br>image<br>atom
 bip_39_word_new_br_2: this<br>banana
 bip_39_word_new_br_3: this<br>banana<br>text
-bip_39_word_new_br_4: this<br>banana<br>text<br>chimney
-bip_39_word_new_br_5: this<br>banana<br>text<br>chimney<br>bus
-bip_39_word_new_br_6: this<br>banana<br>text<br>chimney<br>bus<br>crater
-bip_39_word_new_br_7: this<br>banana<br>text<br>chimney<br>bus<br>crater<br>present
-bip_39_word_new_br_8: this<br>banana<br>text<br>chimney<br>bus<br>crater<br>present<br>ship
-bip_39_word_new_br_9: this<br>banana<br>text<br>chimney<br>bus<br>crater<br>present<br>ship<br>ordinary
-bip_39_word_new_line_1: this
-bip_39_word_new_line_10: 'this
-
-  banana
-
-  text
-
-  chimney
-
-  bus
-
-  crater
-
-  present
-
-  ship
-
-  ordinary
-
-  cabbage'
-bip_39_word_new_line_11: 'this
-
-  banana
-
-  text
-
-  chimney
-
-  bus
-
-  crater
-
-  present
-
-  ship
-
-  ordinary
-
-  cabbage
-
-  image'
 bip_39_word_new_line_12: 'this
 
   banana
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'this
   banana
 
   text'
-bip_39_word_new_line_4: 'this
-
-  banana
-
-  text
-
-  chimney'
-bip_39_word_new_line_5: 'this
-
-  banana
-
-  text
-
-  chimney
-
-  bus'
-bip_39_word_new_line_6: 'this
-
-  banana
-
-  text
-
-  chimney
-
-  bus
-
-  crater'
-bip_39_word_new_line_7: 'this
-
-  banana
-
-  text
-
-  chimney
-
-  bus
-
-  crater
-
-  present'
-bip_39_word_new_line_8: 'this
-
-  banana
-
-  text
-
-  chimney
-
-  bus
-
-  crater
-
-  present
-
-  ship'
-bip_39_word_new_line_9: 'this
-
-  banana
-
-  text
-
-  chimney
-
-  bus
-
-  crater
-
-  present
-
-  ship
-
-  ordinary'
-bip_39_word_no_space_1: this
-bip_39_word_no_space_10: thisbananatextchimneybuscraterpresentshipordinarycabbage
-bip_39_word_no_space_11: thisbananatextchimneybuscraterpresentshipordinarycabbageimage
 bip_39_word_no_space_12: thisbananatextchimneybuscraterpresentshipordinarycabbageimageatom
 bip_39_word_no_space_2: thisbanana
 bip_39_word_no_space_3: thisbananatext
-bip_39_word_no_space_4: thisbananatextchimney
-bip_39_word_no_space_5: thisbananatextchimneybus
-bip_39_word_no_space_6: thisbananatextchimneybuscrater
-bip_39_word_no_space_7: thisbananatextchimneybuscraterpresent
-bip_39_word_no_space_8: thisbananatextchimneybuscraterpresentship
-bip_39_word_no_space_9: thisbananatextchimneybuscraterpresentshipordinary
-bip_39_word_space_0:
-- this
-- banana
-- text
-- chimney
-- bus
-- crater
-- present
-- ship
-- ordinary
-- cabbage
-- image
-- atom
-bip_39_word_space_1: this
-bip_39_word_space_10: this banana text chimney bus crater present ship ordinary cabbage
-bip_39_word_space_11: this banana text chimney bus crater present ship ordinary cabbage
-  image
 bip_39_word_space_12: this banana text chimney bus crater present ship ordinary cabbage
   image atom
 bip_39_word_space_2: this banana
 bip_39_word_space_3: this banana text
-bip_39_word_space_4: this banana text chimney
-bip_39_word_space_5: this banana text chimney bus
-bip_39_word_space_6: this banana text chimney bus crater
-bip_39_word_space_7: this banana text chimney bus crater present
-bip_39_word_space_8: this banana text chimney bus crater present ship
-bip_39_word_space_9: this banana text chimney bus crater present ship ordinary
-bip_39_word_underscore_1: this
-bip_39_word_underscore_10: this_banana_text_chimney_bus_crater_present_ship_ordinary_cabbage
-bip_39_word_underscore_11: this_banana_text_chimney_bus_crater_present_ship_ordinary_cabbage_image
 bip_39_word_underscore_12: this_banana_text_chimney_bus_crater_present_ship_ordinary_cabbage_image_atom
 bip_39_word_underscore_2: this_banana
 bip_39_word_underscore_3: this_banana_text
-bip_39_word_underscore_4: this_banana_text_chimney
-bip_39_word_underscore_5: this_banana_text_chimney_bus
-bip_39_word_underscore_6: this_banana_text_chimney_bus_crater
-bip_39_word_underscore_7: this_banana_text_chimney_bus_crater_present
-bip_39_word_underscore_8: this_banana_text_chimney_bus_crater_present_ship
-bip_39_word_underscore_9: this_banana_text_chimney_bus_crater_present_ship_ordinary
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

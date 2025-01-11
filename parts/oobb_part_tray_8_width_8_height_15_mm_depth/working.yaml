@@ -1,68 +1,9 @@
-bip_39_word_dash_1: scale
-bip_39_word_dash_10: scale-depart-another-angry-brisk-dismiss-valley-gun-pottery-hand
-bip_39_word_dash_11: scale-depart-another-angry-brisk-dismiss-valley-gun-pottery-hand-sun
 bip_39_word_dash_12: scale-depart-another-angry-brisk-dismiss-valley-gun-pottery-hand-sun-apology
 bip_39_word_dash_2: scale-depart
 bip_39_word_dash_3: scale-depart-another
-bip_39_word_dash_4: scale-depart-another-angry
-bip_39_word_dash_5: scale-depart-another-angry-brisk
-bip_39_word_dash_6: scale-depart-another-angry-brisk-dismiss
-bip_39_word_dash_7: scale-depart-another-angry-brisk-dismiss-valley
-bip_39_word_dash_8: scale-depart-another-angry-brisk-dismiss-valley-gun
-bip_39_word_dash_9: scale-depart-another-angry-brisk-dismiss-valley-gun-pottery
-bip_39_word_new_br_1: scale
-bip_39_word_new_br_10: scale<br>depart<br>another<br>angry<br>brisk<br>dismiss<br>valley<br>gun<br>pottery<br>hand
-bip_39_word_new_br_11: scale<br>depart<br>another<br>angry<br>brisk<br>dismiss<br>valley<br>gun<br>pottery<br>hand<br>sun
 bip_39_word_new_br_12: scale<br>depart<br>another<br>angry<br>brisk<br>dismiss<br>valley<br>gun<br>pottery<br>hand<br>sun<br>apology
 bip_39_word_new_br_2: scale<br>depart
 bip_39_word_new_br_3: scale<br>depart<br>another
-bip_39_word_new_br_4: scale<br>depart<br>another<br>angry
-bip_39_word_new_br_5: scale<br>depart<br>another<br>angry<br>brisk
-bip_39_word_new_br_6: scale<br>depart<br>another<br>angry<br>brisk<br>dismiss
-bip_39_word_new_br_7: scale<br>depart<br>another<br>angry<br>brisk<br>dismiss<br>valley
-bip_39_word_new_br_8: scale<br>depart<br>another<br>angry<br>brisk<br>dismiss<br>valley<br>gun
-bip_39_word_new_br_9: scale<br>depart<br>another<br>angry<br>brisk<br>dismiss<br>valley<br>gun<br>pottery
-bip_39_word_new_line_1: scale
-bip_39_word_new_line_10: 'scale
-
-  depart
-
-  another
-
-  angry
-
-  brisk
-
-  dismiss
-
-  valley
-
-  gun
-
-  pottery
-
-  hand'
-bip_39_word_new_line_11: 'scale
-
-  depart
-
-  another
-
-  angry
-
-  brisk
-
-  dismiss
-
-  valley
-
-  gun
-
-  pottery
-
-  hand
-
-  sun'
 bip_39_word_new_line_12: 'scale
 
   depart
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'scale
   depart
 
   another'
-bip_39_word_new_line_4: 'scale
-
-  depart
-
-  another
-
-  angry'
-bip_39_word_new_line_5: 'scale
-
-  depart
-
-  another
-
-  angry
-
-  brisk'
-bip_39_word_new_line_6: 'scale
-
-  depart
-
-  another
-
-  angry
-
-  brisk
-
-  dismiss'
-bip_39_word_new_line_7: 'scale
-
-  depart
-
-  another
-
-  angry
-
-  brisk
-
-  dismiss
-
-  valley'
-bip_39_word_new_line_8: 'scale
-
-  depart
-
-  another
-
-  angry
-
-  brisk
-
-  dismiss
-
-  valley
-
-  gun'
-bip_39_word_new_line_9: 'scale
-
-  depart
-
-  another
-
-  angry
-
-  brisk
-
-  dismiss
-
-  valley
-
-  gun
-
-  pottery'
-bip_39_word_no_space_1: scale
-bip_39_word_no_space_10: scaledepartanotherangrybriskdismissvalleygunpotteryhand
-bip_39_word_no_space_11: scaledepartanotherangrybriskdismissvalleygunpotteryhandsun
 bip_39_word_no_space_12: scaledepartanotherangrybriskdismissvalleygunpotteryhandsunapology
 bip_39_word_no_space_2: scaledepart
 bip_39_word_no_space_3: scaledepartanother
-bip_39_word_no_space_4: scaledepartanotherangry
-bip_39_word_no_space_5: scaledepartanotherangrybrisk
-bip_39_word_no_space_6: scaledepartanotherangrybriskdismiss
-bip_39_word_no_space_7: scaledepartanotherangrybriskdismissvalley
-bip_39_word_no_space_8: scaledepartanotherangrybriskdismissvalleygun
-bip_39_word_no_space_9: scaledepartanotherangrybriskdismissvalleygunpottery
-bip_39_word_space_0:
-- scale
-- depart
-- another
-- angry
-- brisk
-- dismiss
-- valley
-- gun
-- pottery
-- hand
-- sun
-- apology
-bip_39_word_space_1: scale
-bip_39_word_space_10: scale depart another angry brisk dismiss valley gun pottery
-  hand
-bip_39_word_space_11: scale depart another angry brisk dismiss valley gun pottery
-  hand sun
 bip_39_word_space_12: scale depart another angry brisk dismiss valley gun pottery
   hand sun apology
 bip_39_word_space_2: scale depart
 bip_39_word_space_3: scale depart another
-bip_39_word_space_4: scale depart another angry
-bip_39_word_space_5: scale depart another angry brisk
-bip_39_word_space_6: scale depart another angry brisk dismiss
-bip_39_word_space_7: scale depart another angry brisk dismiss valley
-bip_39_word_space_8: scale depart another angry brisk dismiss valley gun
-bip_39_word_space_9: scale depart another angry brisk dismiss valley gun pottery
-bip_39_word_underscore_1: scale
-bip_39_word_underscore_10: scale_depart_another_angry_brisk_dismiss_valley_gun_pottery_hand
-bip_39_word_underscore_11: scale_depart_another_angry_brisk_dismiss_valley_gun_pottery_hand_sun
 bip_39_word_underscore_12: scale_depart_another_angry_brisk_dismiss_valley_gun_pottery_hand_sun_apology
 bip_39_word_underscore_2: scale_depart
 bip_39_word_underscore_3: scale_depart_another
-bip_39_word_underscore_4: scale_depart_another_angry
-bip_39_word_underscore_5: scale_depart_another_angry_brisk
-bip_39_word_underscore_6: scale_depart_another_angry_brisk_dismiss
-bip_39_word_underscore_7: scale_depart_another_angry_brisk_dismiss_valley
-bip_39_word_underscore_8: scale_depart_another_angry_brisk_dismiss_valley_gun
-bip_39_word_underscore_9: scale_depart_another_angry_brisk_dismiss_valley_gun_pottery
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

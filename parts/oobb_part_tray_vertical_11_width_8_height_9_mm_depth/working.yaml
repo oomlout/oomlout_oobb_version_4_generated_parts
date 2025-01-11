@@ -1,68 +1,9 @@
-bip_39_word_dash_1: inform
-bip_39_word_dash_10: inform-task-empty-coin-easily-fish-fitness-mistake-bring-lamp
-bip_39_word_dash_11: inform-task-empty-coin-easily-fish-fitness-mistake-bring-lamp-pave
 bip_39_word_dash_12: inform-task-empty-coin-easily-fish-fitness-mistake-bring-lamp-pave-appear
 bip_39_word_dash_2: inform-task
 bip_39_word_dash_3: inform-task-empty
-bip_39_word_dash_4: inform-task-empty-coin
-bip_39_word_dash_5: inform-task-empty-coin-easily
-bip_39_word_dash_6: inform-task-empty-coin-easily-fish
-bip_39_word_dash_7: inform-task-empty-coin-easily-fish-fitness
-bip_39_word_dash_8: inform-task-empty-coin-easily-fish-fitness-mistake
-bip_39_word_dash_9: inform-task-empty-coin-easily-fish-fitness-mistake-bring
-bip_39_word_new_br_1: inform
-bip_39_word_new_br_10: inform<br>task<br>empty<br>coin<br>easily<br>fish<br>fitness<br>mistake<br>bring<br>lamp
-bip_39_word_new_br_11: inform<br>task<br>empty<br>coin<br>easily<br>fish<br>fitness<br>mistake<br>bring<br>lamp<br>pave
 bip_39_word_new_br_12: inform<br>task<br>empty<br>coin<br>easily<br>fish<br>fitness<br>mistake<br>bring<br>lamp<br>pave<br>appear
 bip_39_word_new_br_2: inform<br>task
 bip_39_word_new_br_3: inform<br>task<br>empty
-bip_39_word_new_br_4: inform<br>task<br>empty<br>coin
-bip_39_word_new_br_5: inform<br>task<br>empty<br>coin<br>easily
-bip_39_word_new_br_6: inform<br>task<br>empty<br>coin<br>easily<br>fish
-bip_39_word_new_br_7: inform<br>task<br>empty<br>coin<br>easily<br>fish<br>fitness
-bip_39_word_new_br_8: inform<br>task<br>empty<br>coin<br>easily<br>fish<br>fitness<br>mistake
-bip_39_word_new_br_9: inform<br>task<br>empty<br>coin<br>easily<br>fish<br>fitness<br>mistake<br>bring
-bip_39_word_new_line_1: inform
-bip_39_word_new_line_10: 'inform
-
-  task
-
-  empty
-
-  coin
-
-  easily
-
-  fish
-
-  fitness
-
-  mistake
-
-  bring
-
-  lamp'
-bip_39_word_new_line_11: 'inform
-
-  task
-
-  empty
-
-  coin
-
-  easily
-
-  fish
-
-  fitness
-
-  mistake
-
-  bring
-
-  lamp
-
-  pave'
 bip_39_word_new_line_12: 'inform
 
   task
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'inform
   task
 
   empty'
-bip_39_word_new_line_4: 'inform
-
-  task
-
-  empty
-
-  coin'
-bip_39_word_new_line_5: 'inform
-
-  task
-
-  empty
-
-  coin
-
-  easily'
-bip_39_word_new_line_6: 'inform
-
-  task
-
-  empty
-
-  coin
-
-  easily
-
-  fish'
-bip_39_word_new_line_7: 'inform
-
-  task
-
-  empty
-
-  coin
-
-  easily
-
-  fish
-
-  fitness'
-bip_39_word_new_line_8: 'inform
-
-  task
-
-  empty
-
-  coin
-
-  easily
-
-  fish
-
-  fitness
-
-  mistake'
-bip_39_word_new_line_9: 'inform
-
-  task
-
-  empty
-
-  coin
-
-  easily
-
-  fish
-
-  fitness
-
-  mistake
-
-  bring'
-bip_39_word_no_space_1: inform
-bip_39_word_no_space_10: informtaskemptycoineasilyfishfitnessmistakebringlamp
-bip_39_word_no_space_11: informtaskemptycoineasilyfishfitnessmistakebringlamppave
 bip_39_word_no_space_12: informtaskemptycoineasilyfishfitnessmistakebringlamppaveappear
 bip_39_word_no_space_2: informtask
 bip_39_word_no_space_3: informtaskempty
-bip_39_word_no_space_4: informtaskemptycoin
-bip_39_word_no_space_5: informtaskemptycoineasily
-bip_39_word_no_space_6: informtaskemptycoineasilyfish
-bip_39_word_no_space_7: informtaskemptycoineasilyfishfitness
-bip_39_word_no_space_8: informtaskemptycoineasilyfishfitnessmistake
-bip_39_word_no_space_9: informtaskemptycoineasilyfishfitnessmistakebring
-bip_39_word_space_0:
-- inform
-- task
-- empty
-- coin
-- easily
-- fish
-- fitness
-- mistake
-- bring
-- lamp
-- pave
-- appear
-bip_39_word_space_1: inform
-bip_39_word_space_10: inform task empty coin easily fish fitness mistake bring lamp
-bip_39_word_space_11: inform task empty coin easily fish fitness mistake bring lamp
-  pave
 bip_39_word_space_12: inform task empty coin easily fish fitness mistake bring lamp
   pave appear
 bip_39_word_space_2: inform task
 bip_39_word_space_3: inform task empty
-bip_39_word_space_4: inform task empty coin
-bip_39_word_space_5: inform task empty coin easily
-bip_39_word_space_6: inform task empty coin easily fish
-bip_39_word_space_7: inform task empty coin easily fish fitness
-bip_39_word_space_8: inform task empty coin easily fish fitness mistake
-bip_39_word_space_9: inform task empty coin easily fish fitness mistake bring
-bip_39_word_underscore_1: inform
-bip_39_word_underscore_10: inform_task_empty_coin_easily_fish_fitness_mistake_bring_lamp
-bip_39_word_underscore_11: inform_task_empty_coin_easily_fish_fitness_mistake_bring_lamp_pave
 bip_39_word_underscore_12: inform_task_empty_coin_easily_fish_fitness_mistake_bring_lamp_pave_appear
 bip_39_word_underscore_2: inform_task
 bip_39_word_underscore_3: inform_task_empty
-bip_39_word_underscore_4: inform_task_empty_coin
-bip_39_word_underscore_5: inform_task_empty_coin_easily
-bip_39_word_underscore_6: inform_task_empty_coin_easily_fish
-bip_39_word_underscore_7: inform_task_empty_coin_easily_fish_fitness
-bip_39_word_underscore_8: inform_task_empty_coin_easily_fish_fitness_mistake
-bip_39_word_underscore_9: inform_task_empty_coin_easily_fish_fitness_mistake_bring
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: resource
-bip_39_word_dash_10: resource-alley-punch-usage-cost-sense-notable-victory-half-bid
-bip_39_word_dash_11: resource-alley-punch-usage-cost-sense-notable-victory-half-bid-share
 bip_39_word_dash_12: resource-alley-punch-usage-cost-sense-notable-victory-half-bid-share-armor
 bip_39_word_dash_2: resource-alley
 bip_39_word_dash_3: resource-alley-punch
-bip_39_word_dash_4: resource-alley-punch-usage
-bip_39_word_dash_5: resource-alley-punch-usage-cost
-bip_39_word_dash_6: resource-alley-punch-usage-cost-sense
-bip_39_word_dash_7: resource-alley-punch-usage-cost-sense-notable
-bip_39_word_dash_8: resource-alley-punch-usage-cost-sense-notable-victory
-bip_39_word_dash_9: resource-alley-punch-usage-cost-sense-notable-victory-half
-bip_39_word_new_br_1: resource
-bip_39_word_new_br_10: resource<br>alley<br>punch<br>usage<br>cost<br>sense<br>notable<br>victory<br>half<br>bid
-bip_39_word_new_br_11: resource<br>alley<br>punch<br>usage<br>cost<br>sense<br>notable<br>victory<br>half<br>bid<br>share
 bip_39_word_new_br_12: resource<br>alley<br>punch<br>usage<br>cost<br>sense<br>notable<br>victory<br>half<br>bid<br>share<br>armor
 bip_39_word_new_br_2: resource<br>alley
 bip_39_word_new_br_3: resource<br>alley<br>punch
-bip_39_word_new_br_4: resource<br>alley<br>punch<br>usage
-bip_39_word_new_br_5: resource<br>alley<br>punch<br>usage<br>cost
-bip_39_word_new_br_6: resource<br>alley<br>punch<br>usage<br>cost<br>sense
-bip_39_word_new_br_7: resource<br>alley<br>punch<br>usage<br>cost<br>sense<br>notable
-bip_39_word_new_br_8: resource<br>alley<br>punch<br>usage<br>cost<br>sense<br>notable<br>victory
-bip_39_word_new_br_9: resource<br>alley<br>punch<br>usage<br>cost<br>sense<br>notable<br>victory<br>half
-bip_39_word_new_line_1: resource
-bip_39_word_new_line_10: 'resource
-
-  alley
-
-  punch
-
-  usage
-
-  cost
-
-  sense
-
-  notable
-
-  victory
-
-  half
-
-  bid'
-bip_39_word_new_line_11: 'resource
-
-  alley
-
-  punch
-
-  usage
-
-  cost
-
-  sense
-
-  notable
-
-  victory
-
-  half
-
-  bid
-
-  share'
 bip_39_word_new_line_12: 'resource
 
   alley
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'resource
   alley
 
   punch'
-bip_39_word_new_line_4: 'resource
-
-  alley
-
-  punch
-
-  usage'
-bip_39_word_new_line_5: 'resource
-
-  alley
-
-  punch
-
-  usage
-
-  cost'
-bip_39_word_new_line_6: 'resource
-
-  alley
-
-  punch
-
-  usage
-
-  cost
-
-  sense'
-bip_39_word_new_line_7: 'resource
-
-  alley
-
-  punch
-
-  usage
-
-  cost
-
-  sense
-
-  notable'
-bip_39_word_new_line_8: 'resource
-
-  alley
-
-  punch
-
-  usage
-
-  cost
-
-  sense
-
-  notable
-
-  victory'
-bip_39_word_new_line_9: 'resource
-
-  alley
-
-  punch
-
-  usage
-
-  cost
-
-  sense
-
-  notable
-
-  victory
-
-  half'
-bip_39_word_no_space_1: resource
-bip_39_word_no_space_10: resourcealleypunchusagecostsensenotablevictoryhalfbid
-bip_39_word_no_space_11: resourcealleypunchusagecostsensenotablevictoryhalfbidshare
 bip_39_word_no_space_12: resourcealleypunchusagecostsensenotablevictoryhalfbidsharearmor
 bip_39_word_no_space_2: resourcealley
 bip_39_word_no_space_3: resourcealleypunch
-bip_39_word_no_space_4: resourcealleypunchusage
-bip_39_word_no_space_5: resourcealleypunchusagecost
-bip_39_word_no_space_6: resourcealleypunchusagecostsense
-bip_39_word_no_space_7: resourcealleypunchusagecostsensenotable
-bip_39_word_no_space_8: resourcealleypunchusagecostsensenotablevictory
-bip_39_word_no_space_9: resourcealleypunchusagecostsensenotablevictoryhalf
-bip_39_word_space_0:
-- resource
-- alley
-- punch
-- usage
-- cost
-- sense
-- notable
-- victory
-- half
-- bid
-- share
-- armor
-bip_39_word_space_1: resource
-bip_39_word_space_10: resource alley punch usage cost sense notable victory half bid
-bip_39_word_space_11: resource alley punch usage cost sense notable victory half bid
-  share
 bip_39_word_space_12: resource alley punch usage cost sense notable victory half bid
   share armor
 bip_39_word_space_2: resource alley
 bip_39_word_space_3: resource alley punch
-bip_39_word_space_4: resource alley punch usage
-bip_39_word_space_5: resource alley punch usage cost
-bip_39_word_space_6: resource alley punch usage cost sense
-bip_39_word_space_7: resource alley punch usage cost sense notable
-bip_39_word_space_8: resource alley punch usage cost sense notable victory
-bip_39_word_space_9: resource alley punch usage cost sense notable victory half
-bip_39_word_underscore_1: resource
-bip_39_word_underscore_10: resource_alley_punch_usage_cost_sense_notable_victory_half_bid
-bip_39_word_underscore_11: resource_alley_punch_usage_cost_sense_notable_victory_half_bid_share
 bip_39_word_underscore_12: resource_alley_punch_usage_cost_sense_notable_victory_half_bid_share_armor
 bip_39_word_underscore_2: resource_alley
 bip_39_word_underscore_3: resource_alley_punch
-bip_39_word_underscore_4: resource_alley_punch_usage
-bip_39_word_underscore_5: resource_alley_punch_usage_cost
-bip_39_word_underscore_6: resource_alley_punch_usage_cost_sense
-bip_39_word_underscore_7: resource_alley_punch_usage_cost_sense_notable
-bip_39_word_underscore_8: resource_alley_punch_usage_cost_sense_notable_victory
-bip_39_word_underscore_9: resource_alley_punch_usage_cost_sense_notable_victory_half
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

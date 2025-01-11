@@ -1,68 +1,9 @@
-bip_39_word_dash_1: sun
-bip_39_word_dash_10: sun-weasel-goddess-fire-wine-reduce-edge-claw-dish-visual
-bip_39_word_dash_11: sun-weasel-goddess-fire-wine-reduce-edge-claw-dish-visual-ticket
 bip_39_word_dash_12: sun-weasel-goddess-fire-wine-reduce-edge-claw-dish-visual-ticket-autumn
 bip_39_word_dash_2: sun-weasel
 bip_39_word_dash_3: sun-weasel-goddess
-bip_39_word_dash_4: sun-weasel-goddess-fire
-bip_39_word_dash_5: sun-weasel-goddess-fire-wine
-bip_39_word_dash_6: sun-weasel-goddess-fire-wine-reduce
-bip_39_word_dash_7: sun-weasel-goddess-fire-wine-reduce-edge
-bip_39_word_dash_8: sun-weasel-goddess-fire-wine-reduce-edge-claw
-bip_39_word_dash_9: sun-weasel-goddess-fire-wine-reduce-edge-claw-dish
-bip_39_word_new_br_1: sun
-bip_39_word_new_br_10: sun<br>weasel<br>goddess<br>fire<br>wine<br>reduce<br>edge<br>claw<br>dish<br>visual
-bip_39_word_new_br_11: sun<br>weasel<br>goddess<br>fire<br>wine<br>reduce<br>edge<br>claw<br>dish<br>visual<br>ticket
 bip_39_word_new_br_12: sun<br>weasel<br>goddess<br>fire<br>wine<br>reduce<br>edge<br>claw<br>dish<br>visual<br>ticket<br>autumn
 bip_39_word_new_br_2: sun<br>weasel
 bip_39_word_new_br_3: sun<br>weasel<br>goddess
-bip_39_word_new_br_4: sun<br>weasel<br>goddess<br>fire
-bip_39_word_new_br_5: sun<br>weasel<br>goddess<br>fire<br>wine
-bip_39_word_new_br_6: sun<br>weasel<br>goddess<br>fire<br>wine<br>reduce
-bip_39_word_new_br_7: sun<br>weasel<br>goddess<br>fire<br>wine<br>reduce<br>edge
-bip_39_word_new_br_8: sun<br>weasel<br>goddess<br>fire<br>wine<br>reduce<br>edge<br>claw
-bip_39_word_new_br_9: sun<br>weasel<br>goddess<br>fire<br>wine<br>reduce<br>edge<br>claw<br>dish
-bip_39_word_new_line_1: sun
-bip_39_word_new_line_10: 'sun
-
-  weasel
-
-  goddess
-
-  fire
-
-  wine
-
-  reduce
-
-  edge
-
-  claw
-
-  dish
-
-  visual'
-bip_39_word_new_line_11: 'sun
-
-  weasel
-
-  goddess
-
-  fire
-
-  wine
-
-  reduce
-
-  edge
-
-  claw
-
-  dish
-
-  visual
-
-  ticket'
 bip_39_word_new_line_12: 'sun
 
   weasel
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'sun
   weasel
 
   goddess'
-bip_39_word_new_line_4: 'sun
-
-  weasel
-
-  goddess
-
-  fire'
-bip_39_word_new_line_5: 'sun
-
-  weasel
-
-  goddess
-
-  fire
-
-  wine'
-bip_39_word_new_line_6: 'sun
-
-  weasel
-
-  goddess
-
-  fire
-
-  wine
-
-  reduce'
-bip_39_word_new_line_7: 'sun
-
-  weasel
-
-  goddess
-
-  fire
-
-  wine
-
-  reduce
-
-  edge'
-bip_39_word_new_line_8: 'sun
-
-  weasel
-
-  goddess
-
-  fire
-
-  wine
-
-  reduce
-
-  edge
-
-  claw'
-bip_39_word_new_line_9: 'sun
-
-  weasel
-
-  goddess
-
-  fire
-
-  wine
-
-  reduce
-
-  edge
-
-  claw
-
-  dish'
-bip_39_word_no_space_1: sun
-bip_39_word_no_space_10: sunweaselgoddessfirewinereduceedgeclawdishvisual
-bip_39_word_no_space_11: sunweaselgoddessfirewinereduceedgeclawdishvisualticket
 bip_39_word_no_space_12: sunweaselgoddessfirewinereduceedgeclawdishvisualticketautumn
 bip_39_word_no_space_2: sunweasel
 bip_39_word_no_space_3: sunweaselgoddess
-bip_39_word_no_space_4: sunweaselgoddessfire
-bip_39_word_no_space_5: sunweaselgoddessfirewine
-bip_39_word_no_space_6: sunweaselgoddessfirewinereduce
-bip_39_word_no_space_7: sunweaselgoddessfirewinereduceedge
-bip_39_word_no_space_8: sunweaselgoddessfirewinereduceedgeclaw
-bip_39_word_no_space_9: sunweaselgoddessfirewinereduceedgeclawdish
-bip_39_word_space_0:
-- sun
-- weasel
-- goddess
-- fire
-- wine
-- reduce
-- edge
-- claw
-- dish
-- visual
-- ticket
-- autumn
-bip_39_word_space_1: sun
-bip_39_word_space_10: sun weasel goddess fire wine reduce edge claw dish visual
-bip_39_word_space_11: sun weasel goddess fire wine reduce edge claw dish visual ticket
 bip_39_word_space_12: sun weasel goddess fire wine reduce edge claw dish visual ticket
   autumn
 bip_39_word_space_2: sun weasel
 bip_39_word_space_3: sun weasel goddess
-bip_39_word_space_4: sun weasel goddess fire
-bip_39_word_space_5: sun weasel goddess fire wine
-bip_39_word_space_6: sun weasel goddess fire wine reduce
-bip_39_word_space_7: sun weasel goddess fire wine reduce edge
-bip_39_word_space_8: sun weasel goddess fire wine reduce edge claw
-bip_39_word_space_9: sun weasel goddess fire wine reduce edge claw dish
-bip_39_word_underscore_1: sun
-bip_39_word_underscore_10: sun_weasel_goddess_fire_wine_reduce_edge_claw_dish_visual
-bip_39_word_underscore_11: sun_weasel_goddess_fire_wine_reduce_edge_claw_dish_visual_ticket
 bip_39_word_underscore_12: sun_weasel_goddess_fire_wine_reduce_edge_claw_dish_visual_ticket_autumn
 bip_39_word_underscore_2: sun_weasel
 bip_39_word_underscore_3: sun_weasel_goddess
-bip_39_word_underscore_4: sun_weasel_goddess_fire
-bip_39_word_underscore_5: sun_weasel_goddess_fire_wine
-bip_39_word_underscore_6: sun_weasel_goddess_fire_wine_reduce
-bip_39_word_underscore_7: sun_weasel_goddess_fire_wine_reduce_edge
-bip_39_word_underscore_8: sun_weasel_goddess_fire_wine_reduce_edge_claw
-bip_39_word_underscore_9: sun_weasel_goddess_fire_wine_reduce_edge_claw_dish
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

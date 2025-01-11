@@ -1,68 +1,9 @@
-bip_39_word_dash_1: style
-bip_39_word_dash_10: style-search-copy-sugar-swallow-cruel-air-cover-frequent-bus
-bip_39_word_dash_11: style-search-copy-sugar-swallow-cruel-air-cover-frequent-bus-innocent
 bip_39_word_dash_12: style-search-copy-sugar-swallow-cruel-air-cover-frequent-bus-innocent-affair
 bip_39_word_dash_2: style-search
 bip_39_word_dash_3: style-search-copy
-bip_39_word_dash_4: style-search-copy-sugar
-bip_39_word_dash_5: style-search-copy-sugar-swallow
-bip_39_word_dash_6: style-search-copy-sugar-swallow-cruel
-bip_39_word_dash_7: style-search-copy-sugar-swallow-cruel-air
-bip_39_word_dash_8: style-search-copy-sugar-swallow-cruel-air-cover
-bip_39_word_dash_9: style-search-copy-sugar-swallow-cruel-air-cover-frequent
-bip_39_word_new_br_1: style
-bip_39_word_new_br_10: style<br>search<br>copy<br>sugar<br>swallow<br>cruel<br>air<br>cover<br>frequent<br>bus
-bip_39_word_new_br_11: style<br>search<br>copy<br>sugar<br>swallow<br>cruel<br>air<br>cover<br>frequent<br>bus<br>innocent
 bip_39_word_new_br_12: style<br>search<br>copy<br>sugar<br>swallow<br>cruel<br>air<br>cover<br>frequent<br>bus<br>innocent<br>affair
 bip_39_word_new_br_2: style<br>search
 bip_39_word_new_br_3: style<br>search<br>copy
-bip_39_word_new_br_4: style<br>search<br>copy<br>sugar
-bip_39_word_new_br_5: style<br>search<br>copy<br>sugar<br>swallow
-bip_39_word_new_br_6: style<br>search<br>copy<br>sugar<br>swallow<br>cruel
-bip_39_word_new_br_7: style<br>search<br>copy<br>sugar<br>swallow<br>cruel<br>air
-bip_39_word_new_br_8: style<br>search<br>copy<br>sugar<br>swallow<br>cruel<br>air<br>cover
-bip_39_word_new_br_9: style<br>search<br>copy<br>sugar<br>swallow<br>cruel<br>air<br>cover<br>frequent
-bip_39_word_new_line_1: style
-bip_39_word_new_line_10: 'style
-
-  search
-
-  copy
-
-  sugar
-
-  swallow
-
-  cruel
-
-  air
-
-  cover
-
-  frequent
-
-  bus'
-bip_39_word_new_line_11: 'style
-
-  search
-
-  copy
-
-  sugar
-
-  swallow
-
-  cruel
-
-  air
-
-  cover
-
-  frequent
-
-  bus
-
-  innocent'
 bip_39_word_new_line_12: 'style
 
   search
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'style
   search
 
   copy'
-bip_39_word_new_line_4: 'style
-
-  search
-
-  copy
-
-  sugar'
-bip_39_word_new_line_5: 'style
-
-  search
-
-  copy
-
-  sugar
-
-  swallow'
-bip_39_word_new_line_6: 'style
-
-  search
-
-  copy
-
-  sugar
-
-  swallow
-
-  cruel'
-bip_39_word_new_line_7: 'style
-
-  search
-
-  copy
-
-  sugar
-
-  swallow
-
-  cruel
-
-  air'
-bip_39_word_new_line_8: 'style
-
-  search
-
-  copy
-
-  sugar
-
-  swallow
-
-  cruel
-
-  air
-
-  cover'
-bip_39_word_new_line_9: 'style
-
-  search
-
-  copy
-
-  sugar
-
-  swallow
-
-  cruel
-
-  air
-
-  cover
-
-  frequent'
-bip_39_word_no_space_1: style
-bip_39_word_no_space_10: stylesearchcopysugarswallowcruelaircoverfrequentbus
-bip_39_word_no_space_11: stylesearchcopysugarswallowcruelaircoverfrequentbusinnocent
 bip_39_word_no_space_12: stylesearchcopysugarswallowcruelaircoverfrequentbusinnocentaffair
 bip_39_word_no_space_2: stylesearch
 bip_39_word_no_space_3: stylesearchcopy
-bip_39_word_no_space_4: stylesearchcopysugar
-bip_39_word_no_space_5: stylesearchcopysugarswallow
-bip_39_word_no_space_6: stylesearchcopysugarswallowcruel
-bip_39_word_no_space_7: stylesearchcopysugarswallowcruelair
-bip_39_word_no_space_8: stylesearchcopysugarswallowcruelaircover
-bip_39_word_no_space_9: stylesearchcopysugarswallowcruelaircoverfrequent
-bip_39_word_space_0:
-- style
-- search
-- copy
-- sugar
-- swallow
-- cruel
-- air
-- cover
-- frequent
-- bus
-- innocent
-- affair
-bip_39_word_space_1: style
-bip_39_word_space_10: style search copy sugar swallow cruel air cover frequent bus
-bip_39_word_space_11: style search copy sugar swallow cruel air cover frequent bus
-  innocent
 bip_39_word_space_12: style search copy sugar swallow cruel air cover frequent bus
   innocent affair
 bip_39_word_space_2: style search
 bip_39_word_space_3: style search copy
-bip_39_word_space_4: style search copy sugar
-bip_39_word_space_5: style search copy sugar swallow
-bip_39_word_space_6: style search copy sugar swallow cruel
-bip_39_word_space_7: style search copy sugar swallow cruel air
-bip_39_word_space_8: style search copy sugar swallow cruel air cover
-bip_39_word_space_9: style search copy sugar swallow cruel air cover frequent
-bip_39_word_underscore_1: style
-bip_39_word_underscore_10: style_search_copy_sugar_swallow_cruel_air_cover_frequent_bus
-bip_39_word_underscore_11: style_search_copy_sugar_swallow_cruel_air_cover_frequent_bus_innocent
 bip_39_word_underscore_12: style_search_copy_sugar_swallow_cruel_air_cover_frequent_bus_innocent_affair
 bip_39_word_underscore_2: style_search
 bip_39_word_underscore_3: style_search_copy
-bip_39_word_underscore_4: style_search_copy_sugar
-bip_39_word_underscore_5: style_search_copy_sugar_swallow
-bip_39_word_underscore_6: style_search_copy_sugar_swallow_cruel
-bip_39_word_underscore_7: style_search_copy_sugar_swallow_cruel_air
-bip_39_word_underscore_8: style_search_copy_sugar_swallow_cruel_air_cover
-bip_39_word_underscore_9: style_search_copy_sugar_swallow_cruel_air_cover_frequent
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

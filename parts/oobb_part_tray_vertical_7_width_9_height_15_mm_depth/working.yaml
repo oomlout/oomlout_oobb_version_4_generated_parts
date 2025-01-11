@@ -1,68 +1,9 @@
-bip_39_word_dash_1: crystal
-bip_39_word_dash_10: crystal-monitor-damp-sphere-message-whale-silent-step-glance-end
-bip_39_word_dash_11: crystal-monitor-damp-sphere-message-whale-silent-step-glance-end-mammal
 bip_39_word_dash_12: crystal-monitor-damp-sphere-message-whale-silent-step-glance-end-mammal-acquire
 bip_39_word_dash_2: crystal-monitor
 bip_39_word_dash_3: crystal-monitor-damp
-bip_39_word_dash_4: crystal-monitor-damp-sphere
-bip_39_word_dash_5: crystal-monitor-damp-sphere-message
-bip_39_word_dash_6: crystal-monitor-damp-sphere-message-whale
-bip_39_word_dash_7: crystal-monitor-damp-sphere-message-whale-silent
-bip_39_word_dash_8: crystal-monitor-damp-sphere-message-whale-silent-step
-bip_39_word_dash_9: crystal-monitor-damp-sphere-message-whale-silent-step-glance
-bip_39_word_new_br_1: crystal
-bip_39_word_new_br_10: crystal<br>monitor<br>damp<br>sphere<br>message<br>whale<br>silent<br>step<br>glance<br>end
-bip_39_word_new_br_11: crystal<br>monitor<br>damp<br>sphere<br>message<br>whale<br>silent<br>step<br>glance<br>end<br>mammal
 bip_39_word_new_br_12: crystal<br>monitor<br>damp<br>sphere<br>message<br>whale<br>silent<br>step<br>glance<br>end<br>mammal<br>acquire
 bip_39_word_new_br_2: crystal<br>monitor
 bip_39_word_new_br_3: crystal<br>monitor<br>damp
-bip_39_word_new_br_4: crystal<br>monitor<br>damp<br>sphere
-bip_39_word_new_br_5: crystal<br>monitor<br>damp<br>sphere<br>message
-bip_39_word_new_br_6: crystal<br>monitor<br>damp<br>sphere<br>message<br>whale
-bip_39_word_new_br_7: crystal<br>monitor<br>damp<br>sphere<br>message<br>whale<br>silent
-bip_39_word_new_br_8: crystal<br>monitor<br>damp<br>sphere<br>message<br>whale<br>silent<br>step
-bip_39_word_new_br_9: crystal<br>monitor<br>damp<br>sphere<br>message<br>whale<br>silent<br>step<br>glance
-bip_39_word_new_line_1: crystal
-bip_39_word_new_line_10: 'crystal
-
-  monitor
-
-  damp
-
-  sphere
-
-  message
-
-  whale
-
-  silent
-
-  step
-
-  glance
-
-  end'
-bip_39_word_new_line_11: 'crystal
-
-  monitor
-
-  damp
-
-  sphere
-
-  message
-
-  whale
-
-  silent
-
-  step
-
-  glance
-
-  end
-
-  mammal'
 bip_39_word_new_line_12: 'crystal
 
   monitor
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'crystal
   monitor
 
   damp'
-bip_39_word_new_line_4: 'crystal
-
-  monitor
-
-  damp
-
-  sphere'
-bip_39_word_new_line_5: 'crystal
-
-  monitor
-
-  damp
-
-  sphere
-
-  message'
-bip_39_word_new_line_6: 'crystal
-
-  monitor
-
-  damp
-
-  sphere
-
-  message
-
-  whale'
-bip_39_word_new_line_7: 'crystal
-
-  monitor
-
-  damp
-
-  sphere
-
-  message
-
-  whale
-
-  silent'
-bip_39_word_new_line_8: 'crystal
-
-  monitor
-
-  damp
-
-  sphere
-
-  message
-
-  whale
-
-  silent
-
-  step'
-bip_39_word_new_line_9: 'crystal
-
-  monitor
-
-  damp
-
-  sphere
-
-  message
-
-  whale
-
-  silent
-
-  step
-
-  glance'
-bip_39_word_no_space_1: crystal
-bip_39_word_no_space_10: crystalmonitordampspheremessagewhalesilentstepglanceend
-bip_39_word_no_space_11: crystalmonitordampspheremessagewhalesilentstepglanceendmammal
 bip_39_word_no_space_12: crystalmonitordampspheremessagewhalesilentstepglanceendmammalacquire
 bip_39_word_no_space_2: crystalmonitor
 bip_39_word_no_space_3: crystalmonitordamp
-bip_39_word_no_space_4: crystalmonitordampsphere
-bip_39_word_no_space_5: crystalmonitordampspheremessage
-bip_39_word_no_space_6: crystalmonitordampspheremessagewhale
-bip_39_word_no_space_7: crystalmonitordampspheremessagewhalesilent
-bip_39_word_no_space_8: crystalmonitordampspheremessagewhalesilentstep
-bip_39_word_no_space_9: crystalmonitordampspheremessagewhalesilentstepglance
-bip_39_word_space_0:
-- crystal
-- monitor
-- damp
-- sphere
-- message
-- whale
-- silent
-- step
-- glance
-- end
-- mammal
-- acquire
-bip_39_word_space_1: crystal
-bip_39_word_space_10: crystal monitor damp sphere message whale silent step glance
-  end
-bip_39_word_space_11: crystal monitor damp sphere message whale silent step glance
-  end mammal
 bip_39_word_space_12: crystal monitor damp sphere message whale silent step glance
   end mammal acquire
 bip_39_word_space_2: crystal monitor
 bip_39_word_space_3: crystal monitor damp
-bip_39_word_space_4: crystal monitor damp sphere
-bip_39_word_space_5: crystal monitor damp sphere message
-bip_39_word_space_6: crystal monitor damp sphere message whale
-bip_39_word_space_7: crystal monitor damp sphere message whale silent
-bip_39_word_space_8: crystal monitor damp sphere message whale silent step
-bip_39_word_space_9: crystal monitor damp sphere message whale silent step glance
-bip_39_word_underscore_1: crystal
-bip_39_word_underscore_10: crystal_monitor_damp_sphere_message_whale_silent_step_glance_end
-bip_39_word_underscore_11: crystal_monitor_damp_sphere_message_whale_silent_step_glance_end_mammal
 bip_39_word_underscore_12: crystal_monitor_damp_sphere_message_whale_silent_step_glance_end_mammal_acquire
 bip_39_word_underscore_2: crystal_monitor
 bip_39_word_underscore_3: crystal_monitor_damp
-bip_39_word_underscore_4: crystal_monitor_damp_sphere
-bip_39_word_underscore_5: crystal_monitor_damp_sphere_message
-bip_39_word_underscore_6: crystal_monitor_damp_sphere_message_whale
-bip_39_word_underscore_7: crystal_monitor_damp_sphere_message_whale_silent
-bip_39_word_underscore_8: crystal_monitor_damp_sphere_message_whale_silent_step
-bip_39_word_underscore_9: crystal_monitor_damp_sphere_message_whale_silent_step_glance
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

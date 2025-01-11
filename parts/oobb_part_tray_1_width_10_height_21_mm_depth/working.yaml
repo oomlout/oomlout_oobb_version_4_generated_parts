@@ -1,68 +1,9 @@
-bip_39_word_dash_1: frog
-bip_39_word_dash_10: frog-decorate-drive-home-tooth-anger-insect-equal-pool-toss
-bip_39_word_dash_11: frog-decorate-drive-home-tooth-anger-insect-equal-pool-toss-holiday
 bip_39_word_dash_12: frog-decorate-drive-home-tooth-anger-insect-equal-pool-toss-holiday-across
 bip_39_word_dash_2: frog-decorate
 bip_39_word_dash_3: frog-decorate-drive
-bip_39_word_dash_4: frog-decorate-drive-home
-bip_39_word_dash_5: frog-decorate-drive-home-tooth
-bip_39_word_dash_6: frog-decorate-drive-home-tooth-anger
-bip_39_word_dash_7: frog-decorate-drive-home-tooth-anger-insect
-bip_39_word_dash_8: frog-decorate-drive-home-tooth-anger-insect-equal
-bip_39_word_dash_9: frog-decorate-drive-home-tooth-anger-insect-equal-pool
-bip_39_word_new_br_1: frog
-bip_39_word_new_br_10: frog<br>decorate<br>drive<br>home<br>tooth<br>anger<br>insect<br>equal<br>pool<br>toss
-bip_39_word_new_br_11: frog<br>decorate<br>drive<br>home<br>tooth<br>anger<br>insect<br>equal<br>pool<br>toss<br>holiday
 bip_39_word_new_br_12: frog<br>decorate<br>drive<br>home<br>tooth<br>anger<br>insect<br>equal<br>pool<br>toss<br>holiday<br>across
 bip_39_word_new_br_2: frog<br>decorate
 bip_39_word_new_br_3: frog<br>decorate<br>drive
-bip_39_word_new_br_4: frog<br>decorate<br>drive<br>home
-bip_39_word_new_br_5: frog<br>decorate<br>drive<br>home<br>tooth
-bip_39_word_new_br_6: frog<br>decorate<br>drive<br>home<br>tooth<br>anger
-bip_39_word_new_br_7: frog<br>decorate<br>drive<br>home<br>tooth<br>anger<br>insect
-bip_39_word_new_br_8: frog<br>decorate<br>drive<br>home<br>tooth<br>anger<br>insect<br>equal
-bip_39_word_new_br_9: frog<br>decorate<br>drive<br>home<br>tooth<br>anger<br>insect<br>equal<br>pool
-bip_39_word_new_line_1: frog
-bip_39_word_new_line_10: 'frog
-
-  decorate
-
-  drive
-
-  home
-
-  tooth
-
-  anger
-
-  insect
-
-  equal
-
-  pool
-
-  toss'
-bip_39_word_new_line_11: 'frog
-
-  decorate
-
-  drive
-
-  home
-
-  tooth
-
-  anger
-
-  insect
-
-  equal
-
-  pool
-
-  toss
-
-  holiday'
 bip_39_word_new_line_12: 'frog
 
   decorate
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'frog
   decorate
 
   drive'
-bip_39_word_new_line_4: 'frog
-
-  decorate
-
-  drive
-
-  home'
-bip_39_word_new_line_5: 'frog
-
-  decorate
-
-  drive
-
-  home
-
-  tooth'
-bip_39_word_new_line_6: 'frog
-
-  decorate
-
-  drive
-
-  home
-
-  tooth
-
-  anger'
-bip_39_word_new_line_7: 'frog
-
-  decorate
-
-  drive
-
-  home
-
-  tooth
-
-  anger
-
-  insect'
-bip_39_word_new_line_8: 'frog
-
-  decorate
-
-  drive
-
-  home
-
-  tooth
-
-  anger
-
-  insect
-
-  equal'
-bip_39_word_new_line_9: 'frog
-
-  decorate
-
-  drive
-
-  home
-
-  tooth
-
-  anger
-
-  insect
-
-  equal
-
-  pool'
-bip_39_word_no_space_1: frog
-bip_39_word_no_space_10: frogdecoratedrivehometoothangerinsectequalpooltoss
-bip_39_word_no_space_11: frogdecoratedrivehometoothangerinsectequalpooltossholiday
 bip_39_word_no_space_12: frogdecoratedrivehometoothangerinsectequalpooltossholidayacross
 bip_39_word_no_space_2: frogdecorate
 bip_39_word_no_space_3: frogdecoratedrive
-bip_39_word_no_space_4: frogdecoratedrivehome
-bip_39_word_no_space_5: frogdecoratedrivehometooth
-bip_39_word_no_space_6: frogdecoratedrivehometoothanger
-bip_39_word_no_space_7: frogdecoratedrivehometoothangerinsect
-bip_39_word_no_space_8: frogdecoratedrivehometoothangerinsectequal
-bip_39_word_no_space_9: frogdecoratedrivehometoothangerinsectequalpool
-bip_39_word_space_0:
-- frog
-- decorate
-- drive
-- home
-- tooth
-- anger
-- insect
-- equal
-- pool
-- toss
-- holiday
-- across
-bip_39_word_space_1: frog
-bip_39_word_space_10: frog decorate drive home tooth anger insect equal pool toss
-bip_39_word_space_11: frog decorate drive home tooth anger insect equal pool toss
-  holiday
 bip_39_word_space_12: frog decorate drive home tooth anger insect equal pool toss
   holiday across
 bip_39_word_space_2: frog decorate
 bip_39_word_space_3: frog decorate drive
-bip_39_word_space_4: frog decorate drive home
-bip_39_word_space_5: frog decorate drive home tooth
-bip_39_word_space_6: frog decorate drive home tooth anger
-bip_39_word_space_7: frog decorate drive home tooth anger insect
-bip_39_word_space_8: frog decorate drive home tooth anger insect equal
-bip_39_word_space_9: frog decorate drive home tooth anger insect equal pool
-bip_39_word_underscore_1: frog
-bip_39_word_underscore_10: frog_decorate_drive_home_tooth_anger_insect_equal_pool_toss
-bip_39_word_underscore_11: frog_decorate_drive_home_tooth_anger_insect_equal_pool_toss_holiday
 bip_39_word_underscore_12: frog_decorate_drive_home_tooth_anger_insect_equal_pool_toss_holiday_across
 bip_39_word_underscore_2: frog_decorate
 bip_39_word_underscore_3: frog_decorate_drive
-bip_39_word_underscore_4: frog_decorate_drive_home
-bip_39_word_underscore_5: frog_decorate_drive_home_tooth
-bip_39_word_underscore_6: frog_decorate_drive_home_tooth_anger
-bip_39_word_underscore_7: frog_decorate_drive_home_tooth_anger_insect
-bip_39_word_underscore_8: frog_decorate_drive_home_tooth_anger_insect_equal
-bip_39_word_underscore_9: frog_decorate_drive_home_tooth_anger_insect_equal_pool
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

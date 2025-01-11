@@ -1,68 +1,9 @@
-bip_39_word_dash_1: injury
-bip_39_word_dash_10: injury-slush-omit-inner-dinner-ramp-artefact-whip-service-lizard
-bip_39_word_dash_11: injury-slush-omit-inner-dinner-ramp-artefact-whip-service-lizard-walk
 bip_39_word_dash_12: injury-slush-omit-inner-dinner-ramp-artefact-whip-service-lizard-walk-add
 bip_39_word_dash_2: injury-slush
 bip_39_word_dash_3: injury-slush-omit
-bip_39_word_dash_4: injury-slush-omit-inner
-bip_39_word_dash_5: injury-slush-omit-inner-dinner
-bip_39_word_dash_6: injury-slush-omit-inner-dinner-ramp
-bip_39_word_dash_7: injury-slush-omit-inner-dinner-ramp-artefact
-bip_39_word_dash_8: injury-slush-omit-inner-dinner-ramp-artefact-whip
-bip_39_word_dash_9: injury-slush-omit-inner-dinner-ramp-artefact-whip-service
-bip_39_word_new_br_1: injury
-bip_39_word_new_br_10: injury<br>slush<br>omit<br>inner<br>dinner<br>ramp<br>artefact<br>whip<br>service<br>lizard
-bip_39_word_new_br_11: injury<br>slush<br>omit<br>inner<br>dinner<br>ramp<br>artefact<br>whip<br>service<br>lizard<br>walk
 bip_39_word_new_br_12: injury<br>slush<br>omit<br>inner<br>dinner<br>ramp<br>artefact<br>whip<br>service<br>lizard<br>walk<br>add
 bip_39_word_new_br_2: injury<br>slush
 bip_39_word_new_br_3: injury<br>slush<br>omit
-bip_39_word_new_br_4: injury<br>slush<br>omit<br>inner
-bip_39_word_new_br_5: injury<br>slush<br>omit<br>inner<br>dinner
-bip_39_word_new_br_6: injury<br>slush<br>omit<br>inner<br>dinner<br>ramp
-bip_39_word_new_br_7: injury<br>slush<br>omit<br>inner<br>dinner<br>ramp<br>artefact
-bip_39_word_new_br_8: injury<br>slush<br>omit<br>inner<br>dinner<br>ramp<br>artefact<br>whip
-bip_39_word_new_br_9: injury<br>slush<br>omit<br>inner<br>dinner<br>ramp<br>artefact<br>whip<br>service
-bip_39_word_new_line_1: injury
-bip_39_word_new_line_10: 'injury
-
-  slush
-
-  omit
-
-  inner
-
-  dinner
-
-  ramp
-
-  artefact
-
-  whip
-
-  service
-
-  lizard'
-bip_39_word_new_line_11: 'injury
-
-  slush
-
-  omit
-
-  inner
-
-  dinner
-
-  ramp
-
-  artefact
-
-  whip
-
-  service
-
-  lizard
-
-  walk'
 bip_39_word_new_line_12: 'injury
 
   slush
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'injury
   slush
 
   omit'
-bip_39_word_new_line_4: 'injury
-
-  slush
-
-  omit
-
-  inner'
-bip_39_word_new_line_5: 'injury
-
-  slush
-
-  omit
-
-  inner
-
-  dinner'
-bip_39_word_new_line_6: 'injury
-
-  slush
-
-  omit
-
-  inner
-
-  dinner
-
-  ramp'
-bip_39_word_new_line_7: 'injury
-
-  slush
-
-  omit
-
-  inner
-
-  dinner
-
-  ramp
-
-  artefact'
-bip_39_word_new_line_8: 'injury
-
-  slush
-
-  omit
-
-  inner
-
-  dinner
-
-  ramp
-
-  artefact
-
-  whip'
-bip_39_word_new_line_9: 'injury
-
-  slush
-
-  omit
-
-  inner
-
-  dinner
-
-  ramp
-
-  artefact
-
-  whip
-
-  service'
-bip_39_word_no_space_1: injury
-bip_39_word_no_space_10: injuryslushomitinnerdinnerrampartefactwhipservicelizard
-bip_39_word_no_space_11: injuryslushomitinnerdinnerrampartefactwhipservicelizardwalk
 bip_39_word_no_space_12: injuryslushomitinnerdinnerrampartefactwhipservicelizardwalkadd
 bip_39_word_no_space_2: injuryslush
 bip_39_word_no_space_3: injuryslushomit
-bip_39_word_no_space_4: injuryslushomitinner
-bip_39_word_no_space_5: injuryslushomitinnerdinner
-bip_39_word_no_space_6: injuryslushomitinnerdinnerramp
-bip_39_word_no_space_7: injuryslushomitinnerdinnerrampartefact
-bip_39_word_no_space_8: injuryslushomitinnerdinnerrampartefactwhip
-bip_39_word_no_space_9: injuryslushomitinnerdinnerrampartefactwhipservice
-bip_39_word_space_0:
-- injury
-- slush
-- omit
-- inner
-- dinner
-- ramp
-- artefact
-- whip
-- service
-- lizard
-- walk
-- add
-bip_39_word_space_1: injury
-bip_39_word_space_10: injury slush omit inner dinner ramp artefact whip service lizard
-bip_39_word_space_11: injury slush omit inner dinner ramp artefact whip service lizard
-  walk
 bip_39_word_space_12: injury slush omit inner dinner ramp artefact whip service lizard
   walk add
 bip_39_word_space_2: injury slush
 bip_39_word_space_3: injury slush omit
-bip_39_word_space_4: injury slush omit inner
-bip_39_word_space_5: injury slush omit inner dinner
-bip_39_word_space_6: injury slush omit inner dinner ramp
-bip_39_word_space_7: injury slush omit inner dinner ramp artefact
-bip_39_word_space_8: injury slush omit inner dinner ramp artefact whip
-bip_39_word_space_9: injury slush omit inner dinner ramp artefact whip service
-bip_39_word_underscore_1: injury
-bip_39_word_underscore_10: injury_slush_omit_inner_dinner_ramp_artefact_whip_service_lizard
-bip_39_word_underscore_11: injury_slush_omit_inner_dinner_ramp_artefact_whip_service_lizard_walk
 bip_39_word_underscore_12: injury_slush_omit_inner_dinner_ramp_artefact_whip_service_lizard_walk_add
 bip_39_word_underscore_2: injury_slush
 bip_39_word_underscore_3: injury_slush_omit
-bip_39_word_underscore_4: injury_slush_omit_inner
-bip_39_word_underscore_5: injury_slush_omit_inner_dinner
-bip_39_word_underscore_6: injury_slush_omit_inner_dinner_ramp
-bip_39_word_underscore_7: injury_slush_omit_inner_dinner_ramp_artefact
-bip_39_word_underscore_8: injury_slush_omit_inner_dinner_ramp_artefact_whip
-bip_39_word_underscore_9: injury_slush_omit_inner_dinner_ramp_artefact_whip_service
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

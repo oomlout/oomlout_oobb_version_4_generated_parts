@@ -1,68 +1,9 @@
-bip_39_word_dash_1: hazard
-bip_39_word_dash_10: hazard-squeeze-decorate-tumble-portion-segment-kidney-labor-cruise-act
-bip_39_word_dash_11: hazard-squeeze-decorate-tumble-portion-segment-kidney-labor-cruise-act-casual
 bip_39_word_dash_12: hazard-squeeze-decorate-tumble-portion-segment-kidney-labor-cruise-act-casual-addict
 bip_39_word_dash_2: hazard-squeeze
 bip_39_word_dash_3: hazard-squeeze-decorate
-bip_39_word_dash_4: hazard-squeeze-decorate-tumble
-bip_39_word_dash_5: hazard-squeeze-decorate-tumble-portion
-bip_39_word_dash_6: hazard-squeeze-decorate-tumble-portion-segment
-bip_39_word_dash_7: hazard-squeeze-decorate-tumble-portion-segment-kidney
-bip_39_word_dash_8: hazard-squeeze-decorate-tumble-portion-segment-kidney-labor
-bip_39_word_dash_9: hazard-squeeze-decorate-tumble-portion-segment-kidney-labor-cruise
-bip_39_word_new_br_1: hazard
-bip_39_word_new_br_10: hazard<br>squeeze<br>decorate<br>tumble<br>portion<br>segment<br>kidney<br>labor<br>cruise<br>act
-bip_39_word_new_br_11: hazard<br>squeeze<br>decorate<br>tumble<br>portion<br>segment<br>kidney<br>labor<br>cruise<br>act<br>casual
 bip_39_word_new_br_12: hazard<br>squeeze<br>decorate<br>tumble<br>portion<br>segment<br>kidney<br>labor<br>cruise<br>act<br>casual<br>addict
 bip_39_word_new_br_2: hazard<br>squeeze
 bip_39_word_new_br_3: hazard<br>squeeze<br>decorate
-bip_39_word_new_br_4: hazard<br>squeeze<br>decorate<br>tumble
-bip_39_word_new_br_5: hazard<br>squeeze<br>decorate<br>tumble<br>portion
-bip_39_word_new_br_6: hazard<br>squeeze<br>decorate<br>tumble<br>portion<br>segment
-bip_39_word_new_br_7: hazard<br>squeeze<br>decorate<br>tumble<br>portion<br>segment<br>kidney
-bip_39_word_new_br_8: hazard<br>squeeze<br>decorate<br>tumble<br>portion<br>segment<br>kidney<br>labor
-bip_39_word_new_br_9: hazard<br>squeeze<br>decorate<br>tumble<br>portion<br>segment<br>kidney<br>labor<br>cruise
-bip_39_word_new_line_1: hazard
-bip_39_word_new_line_10: 'hazard
-
-  squeeze
-
-  decorate
-
-  tumble
-
-  portion
-
-  segment
-
-  kidney
-
-  labor
-
-  cruise
-
-  act'
-bip_39_word_new_line_11: 'hazard
-
-  squeeze
-
-  decorate
-
-  tumble
-
-  portion
-
-  segment
-
-  kidney
-
-  labor
-
-  cruise
-
-  act
-
-  casual'
 bip_39_word_new_line_12: 'hazard
 
   squeeze
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'hazard
   squeeze
 
   decorate'
-bip_39_word_new_line_4: 'hazard
-
-  squeeze
-
-  decorate
-
-  tumble'
-bip_39_word_new_line_5: 'hazard
-
-  squeeze
-
-  decorate
-
-  tumble
-
-  portion'
-bip_39_word_new_line_6: 'hazard
-
-  squeeze
-
-  decorate
-
-  tumble
-
-  portion
-
-  segment'
-bip_39_word_new_line_7: 'hazard
-
-  squeeze
-
-  decorate
-
-  tumble
-
-  portion
-
-  segment
-
-  kidney'
-bip_39_word_new_line_8: 'hazard
-
-  squeeze
-
-  decorate
-
-  tumble
-
-  portion
-
-  segment
-
-  kidney
-
-  labor'
-bip_39_word_new_line_9: 'hazard
-
-  squeeze
-
-  decorate
-
-  tumble
-
-  portion
-
-  segment
-
-  kidney
-
-  labor
-
-  cruise'
-bip_39_word_no_space_1: hazard
-bip_39_word_no_space_10: hazardsqueezedecoratetumbleportionsegmentkidneylaborcruiseact
-bip_39_word_no_space_11: hazardsqueezedecoratetumbleportionsegmentkidneylaborcruiseactcasual
 bip_39_word_no_space_12: hazardsqueezedecoratetumbleportionsegmentkidneylaborcruiseactcasualaddict
 bip_39_word_no_space_2: hazardsqueeze
 bip_39_word_no_space_3: hazardsqueezedecorate
-bip_39_word_no_space_4: hazardsqueezedecoratetumble
-bip_39_word_no_space_5: hazardsqueezedecoratetumbleportion
-bip_39_word_no_space_6: hazardsqueezedecoratetumbleportionsegment
-bip_39_word_no_space_7: hazardsqueezedecoratetumbleportionsegmentkidney
-bip_39_word_no_space_8: hazardsqueezedecoratetumbleportionsegmentkidneylabor
-bip_39_word_no_space_9: hazardsqueezedecoratetumbleportionsegmentkidneylaborcruise
-bip_39_word_space_0:
-- hazard
-- squeeze
-- decorate
-- tumble
-- portion
-- segment
-- kidney
-- labor
-- cruise
-- act
-- casual
-- addict
-bip_39_word_space_1: hazard
-bip_39_word_space_10: hazard squeeze decorate tumble portion segment kidney labor
-  cruise act
-bip_39_word_space_11: hazard squeeze decorate tumble portion segment kidney labor
-  cruise act casual
 bip_39_word_space_12: hazard squeeze decorate tumble portion segment kidney labor
   cruise act casual addict
 bip_39_word_space_2: hazard squeeze
 bip_39_word_space_3: hazard squeeze decorate
-bip_39_word_space_4: hazard squeeze decorate tumble
-bip_39_word_space_5: hazard squeeze decorate tumble portion
-bip_39_word_space_6: hazard squeeze decorate tumble portion segment
-bip_39_word_space_7: hazard squeeze decorate tumble portion segment kidney
-bip_39_word_space_8: hazard squeeze decorate tumble portion segment kidney labor
-bip_39_word_space_9: hazard squeeze decorate tumble portion segment kidney labor cruise
-bip_39_word_underscore_1: hazard
-bip_39_word_underscore_10: hazard_squeeze_decorate_tumble_portion_segment_kidney_labor_cruise_act
-bip_39_word_underscore_11: hazard_squeeze_decorate_tumble_portion_segment_kidney_labor_cruise_act_casual
 bip_39_word_underscore_12: hazard_squeeze_decorate_tumble_portion_segment_kidney_labor_cruise_act_casual_addict
 bip_39_word_underscore_2: hazard_squeeze
 bip_39_word_underscore_3: hazard_squeeze_decorate
-bip_39_word_underscore_4: hazard_squeeze_decorate_tumble
-bip_39_word_underscore_5: hazard_squeeze_decorate_tumble_portion
-bip_39_word_underscore_6: hazard_squeeze_decorate_tumble_portion_segment
-bip_39_word_underscore_7: hazard_squeeze_decorate_tumble_portion_segment_kidney
-bip_39_word_underscore_8: hazard_squeeze_decorate_tumble_portion_segment_kidney_labor
-bip_39_word_underscore_9: hazard_squeeze_decorate_tumble_portion_segment_kidney_labor_cruise
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

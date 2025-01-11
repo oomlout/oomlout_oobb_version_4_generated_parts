@@ -1,68 +1,9 @@
-bip_39_word_dash_1: lava
-bip_39_word_dash_10: lava-rent-palm-noodle-agent-uncover-island-rubber-radar-bulb
-bip_39_word_dash_11: lava-rent-palm-noodle-agent-uncover-island-rubber-radar-bulb-melt
 bip_39_word_dash_12: lava-rent-palm-noodle-agent-uncover-island-rubber-radar-bulb-melt-auction
 bip_39_word_dash_2: lava-rent
 bip_39_word_dash_3: lava-rent-palm
-bip_39_word_dash_4: lava-rent-palm-noodle
-bip_39_word_dash_5: lava-rent-palm-noodle-agent
-bip_39_word_dash_6: lava-rent-palm-noodle-agent-uncover
-bip_39_word_dash_7: lava-rent-palm-noodle-agent-uncover-island
-bip_39_word_dash_8: lava-rent-palm-noodle-agent-uncover-island-rubber
-bip_39_word_dash_9: lava-rent-palm-noodle-agent-uncover-island-rubber-radar
-bip_39_word_new_br_1: lava
-bip_39_word_new_br_10: lava<br>rent<br>palm<br>noodle<br>agent<br>uncover<br>island<br>rubber<br>radar<br>bulb
-bip_39_word_new_br_11: lava<br>rent<br>palm<br>noodle<br>agent<br>uncover<br>island<br>rubber<br>radar<br>bulb<br>melt
 bip_39_word_new_br_12: lava<br>rent<br>palm<br>noodle<br>agent<br>uncover<br>island<br>rubber<br>radar<br>bulb<br>melt<br>auction
 bip_39_word_new_br_2: lava<br>rent
 bip_39_word_new_br_3: lava<br>rent<br>palm
-bip_39_word_new_br_4: lava<br>rent<br>palm<br>noodle
-bip_39_word_new_br_5: lava<br>rent<br>palm<br>noodle<br>agent
-bip_39_word_new_br_6: lava<br>rent<br>palm<br>noodle<br>agent<br>uncover
-bip_39_word_new_br_7: lava<br>rent<br>palm<br>noodle<br>agent<br>uncover<br>island
-bip_39_word_new_br_8: lava<br>rent<br>palm<br>noodle<br>agent<br>uncover<br>island<br>rubber
-bip_39_word_new_br_9: lava<br>rent<br>palm<br>noodle<br>agent<br>uncover<br>island<br>rubber<br>radar
-bip_39_word_new_line_1: lava
-bip_39_word_new_line_10: 'lava
-
-  rent
-
-  palm
-
-  noodle
-
-  agent
-
-  uncover
-
-  island
-
-  rubber
-
-  radar
-
-  bulb'
-bip_39_word_new_line_11: 'lava
-
-  rent
-
-  palm
-
-  noodle
-
-  agent
-
-  uncover
-
-  island
-
-  rubber
-
-  radar
-
-  bulb
-
-  melt'
 bip_39_word_new_line_12: 'lava
 
   rent
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'lava
   rent
 
   palm'
-bip_39_word_new_line_4: 'lava
-
-  rent
-
-  palm
-
-  noodle'
-bip_39_word_new_line_5: 'lava
-
-  rent
-
-  palm
-
-  noodle
-
-  agent'
-bip_39_word_new_line_6: 'lava
-
-  rent
-
-  palm
-
-  noodle
-
-  agent
-
-  uncover'
-bip_39_word_new_line_7: 'lava
-
-  rent
-
-  palm
-
-  noodle
-
-  agent
-
-  uncover
-
-  island'
-bip_39_word_new_line_8: 'lava
-
-  rent
-
-  palm
-
-  noodle
-
-  agent
-
-  uncover
-
-  island
-
-  rubber'
-bip_39_word_new_line_9: 'lava
-
-  rent
-
-  palm
-
-  noodle
-
-  agent
-
-  uncover
-
-  island
-
-  rubber
-
-  radar'
-bip_39_word_no_space_1: lava
-bip_39_word_no_space_10: lavarentpalmnoodleagentuncoverislandrubberradarbulb
-bip_39_word_no_space_11: lavarentpalmnoodleagentuncoverislandrubberradarbulbmelt
 bip_39_word_no_space_12: lavarentpalmnoodleagentuncoverislandrubberradarbulbmeltauction
 bip_39_word_no_space_2: lavarent
 bip_39_word_no_space_3: lavarentpalm
-bip_39_word_no_space_4: lavarentpalmnoodle
-bip_39_word_no_space_5: lavarentpalmnoodleagent
-bip_39_word_no_space_6: lavarentpalmnoodleagentuncover
-bip_39_word_no_space_7: lavarentpalmnoodleagentuncoverisland
-bip_39_word_no_space_8: lavarentpalmnoodleagentuncoverislandrubber
-bip_39_word_no_space_9: lavarentpalmnoodleagentuncoverislandrubberradar
-bip_39_word_space_0:
-- lava
-- rent
-- palm
-- noodle
-- agent
-- uncover
-- island
-- rubber
-- radar
-- bulb
-- melt
-- auction
-bip_39_word_space_1: lava
-bip_39_word_space_10: lava rent palm noodle agent uncover island rubber radar bulb
-bip_39_word_space_11: lava rent palm noodle agent uncover island rubber radar bulb
-  melt
 bip_39_word_space_12: lava rent palm noodle agent uncover island rubber radar bulb
   melt auction
 bip_39_word_space_2: lava rent
 bip_39_word_space_3: lava rent palm
-bip_39_word_space_4: lava rent palm noodle
-bip_39_word_space_5: lava rent palm noodle agent
-bip_39_word_space_6: lava rent palm noodle agent uncover
-bip_39_word_space_7: lava rent palm noodle agent uncover island
-bip_39_word_space_8: lava rent palm noodle agent uncover island rubber
-bip_39_word_space_9: lava rent palm noodle agent uncover island rubber radar
-bip_39_word_underscore_1: lava
-bip_39_word_underscore_10: lava_rent_palm_noodle_agent_uncover_island_rubber_radar_bulb
-bip_39_word_underscore_11: lava_rent_palm_noodle_agent_uncover_island_rubber_radar_bulb_melt
 bip_39_word_underscore_12: lava_rent_palm_noodle_agent_uncover_island_rubber_radar_bulb_melt_auction
 bip_39_word_underscore_2: lava_rent
 bip_39_word_underscore_3: lava_rent_palm
-bip_39_word_underscore_4: lava_rent_palm_noodle
-bip_39_word_underscore_5: lava_rent_palm_noodle_agent
-bip_39_word_underscore_6: lava_rent_palm_noodle_agent_uncover
-bip_39_word_underscore_7: lava_rent_palm_noodle_agent_uncover_island
-bip_39_word_underscore_8: lava_rent_palm_noodle_agent_uncover_island_rubber
-bip_39_word_underscore_9: lava_rent_palm_noodle_agent_uncover_island_rubber_radar
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

@@ -1,69 +1,10 @@
 bearing: 0.1
-bip_39_word_dash_1: scorpion
-bip_39_word_dash_10: scorpion-cake-twice-unhappy-capable-visit-hazard-school-actress-mechanic
-bip_39_word_dash_11: scorpion-cake-twice-unhappy-capable-visit-hazard-school-actress-mechanic-strategy
 bip_39_word_dash_12: scorpion-cake-twice-unhappy-capable-visit-hazard-school-actress-mechanic-strategy-attend
 bip_39_word_dash_2: scorpion-cake
 bip_39_word_dash_3: scorpion-cake-twice
-bip_39_word_dash_4: scorpion-cake-twice-unhappy
-bip_39_word_dash_5: scorpion-cake-twice-unhappy-capable
-bip_39_word_dash_6: scorpion-cake-twice-unhappy-capable-visit
-bip_39_word_dash_7: scorpion-cake-twice-unhappy-capable-visit-hazard
-bip_39_word_dash_8: scorpion-cake-twice-unhappy-capable-visit-hazard-school
-bip_39_word_dash_9: scorpion-cake-twice-unhappy-capable-visit-hazard-school-actress
-bip_39_word_new_br_1: scorpion
-bip_39_word_new_br_10: scorpion<br>cake<br>twice<br>unhappy<br>capable<br>visit<br>hazard<br>school<br>actress<br>mechanic
-bip_39_word_new_br_11: scorpion<br>cake<br>twice<br>unhappy<br>capable<br>visit<br>hazard<br>school<br>actress<br>mechanic<br>strategy
 bip_39_word_new_br_12: scorpion<br>cake<br>twice<br>unhappy<br>capable<br>visit<br>hazard<br>school<br>actress<br>mechanic<br>strategy<br>attend
 bip_39_word_new_br_2: scorpion<br>cake
 bip_39_word_new_br_3: scorpion<br>cake<br>twice
-bip_39_word_new_br_4: scorpion<br>cake<br>twice<br>unhappy
-bip_39_word_new_br_5: scorpion<br>cake<br>twice<br>unhappy<br>capable
-bip_39_word_new_br_6: scorpion<br>cake<br>twice<br>unhappy<br>capable<br>visit
-bip_39_word_new_br_7: scorpion<br>cake<br>twice<br>unhappy<br>capable<br>visit<br>hazard
-bip_39_word_new_br_8: scorpion<br>cake<br>twice<br>unhappy<br>capable<br>visit<br>hazard<br>school
-bip_39_word_new_br_9: scorpion<br>cake<br>twice<br>unhappy<br>capable<br>visit<br>hazard<br>school<br>actress
-bip_39_word_new_line_1: scorpion
-bip_39_word_new_line_10: 'scorpion
-
-  cake
-
-  twice
-
-  unhappy
-
-  capable
-
-  visit
-
-  hazard
-
-  school
-
-  actress
-
-  mechanic'
-bip_39_word_new_line_11: 'scorpion
-
-  cake
-
-  twice
-
-  unhappy
-
-  capable
-
-  visit
-
-  hazard
-
-  school
-
-  actress
-
-  mechanic
-
-  strategy'
 bip_39_word_new_line_12: 'scorpion
 
   cake
@@ -95,130 +36,16 @@ bip_39_word_new_line_3: 'scorpion
   cake
 
   twice'
-bip_39_word_new_line_4: 'scorpion
-
-  cake
-
-  twice
-
-  unhappy'
-bip_39_word_new_line_5: 'scorpion
-
-  cake
-
-  twice
-
-  unhappy
-
-  capable'
-bip_39_word_new_line_6: 'scorpion
-
-  cake
-
-  twice
-
-  unhappy
-
-  capable
-
-  visit'
-bip_39_word_new_line_7: 'scorpion
-
-  cake
-
-  twice
-
-  unhappy
-
-  capable
-
-  visit
-
-  hazard'
-bip_39_word_new_line_8: 'scorpion
-
-  cake
-
-  twice
-
-  unhappy
-
-  capable
-
-  visit
-
-  hazard
-
-  school'
-bip_39_word_new_line_9: 'scorpion
-
-  cake
-
-  twice
-
-  unhappy
-
-  capable
-
-  visit
-
-  hazard
-
-  school
-
-  actress'
-bip_39_word_no_space_1: scorpion
-bip_39_word_no_space_10: scorpioncaketwiceunhappycapablevisithazardschoolactressmechanic
-bip_39_word_no_space_11: scorpioncaketwiceunhappycapablevisithazardschoolactressmechanicstrategy
 bip_39_word_no_space_12: scorpioncaketwiceunhappycapablevisithazardschoolactressmechanicstrategyattend
 bip_39_word_no_space_2: scorpioncake
 bip_39_word_no_space_3: scorpioncaketwice
-bip_39_word_no_space_4: scorpioncaketwiceunhappy
-bip_39_word_no_space_5: scorpioncaketwiceunhappycapable
-bip_39_word_no_space_6: scorpioncaketwiceunhappycapablevisit
-bip_39_word_no_space_7: scorpioncaketwiceunhappycapablevisithazard
-bip_39_word_no_space_8: scorpioncaketwiceunhappycapablevisithazardschool
-bip_39_word_no_space_9: scorpioncaketwiceunhappycapablevisithazardschoolactress
-bip_39_word_space_0:
-- scorpion
-- cake
-- twice
-- unhappy
-- capable
-- visit
-- hazard
-- school
-- actress
-- mechanic
-- strategy
-- attend
-bip_39_word_space_1: scorpion
-bip_39_word_space_10: scorpion cake twice unhappy capable visit hazard school actress
-  mechanic
-bip_39_word_space_11: scorpion cake twice unhappy capable visit hazard school actress
-  mechanic strategy
 bip_39_word_space_12: scorpion cake twice unhappy capable visit hazard school actress
   mechanic strategy attend
 bip_39_word_space_2: scorpion cake
 bip_39_word_space_3: scorpion cake twice
-bip_39_word_space_4: scorpion cake twice unhappy
-bip_39_word_space_5: scorpion cake twice unhappy capable
-bip_39_word_space_6: scorpion cake twice unhappy capable visit
-bip_39_word_space_7: scorpion cake twice unhappy capable visit hazard
-bip_39_word_space_8: scorpion cake twice unhappy capable visit hazard school
-bip_39_word_space_9: scorpion cake twice unhappy capable visit hazard school actress
-bip_39_word_underscore_1: scorpion
-bip_39_word_underscore_10: scorpion_cake_twice_unhappy_capable_visit_hazard_school_actress_mechanic
-bip_39_word_underscore_11: scorpion_cake_twice_unhappy_capable_visit_hazard_school_actress_mechanic_strategy
 bip_39_word_underscore_12: scorpion_cake_twice_unhappy_capable_visit_hazard_school_actress_mechanic_strategy_attend
 bip_39_word_underscore_2: scorpion_cake
 bip_39_word_underscore_3: scorpion_cake_twice
-bip_39_word_underscore_4: scorpion_cake_twice_unhappy
-bip_39_word_underscore_5: scorpion_cake_twice_unhappy_capable
-bip_39_word_underscore_6: scorpion_cake_twice_unhappy_capable_visit
-bip_39_word_underscore_7: scorpion_cake_twice_unhappy_capable_visit_hazard
-bip_39_word_underscore_8: scorpion_cake_twice_unhappy_capable_visit_hazard_school
-bip_39_word_underscore_9: scorpion_cake_twice_unhappy_capable_visit_hazard_school_actress
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

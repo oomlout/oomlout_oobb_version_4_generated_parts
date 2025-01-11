@@ -1,68 +1,9 @@
-bip_39_word_dash_1: antique
-bip_39_word_dash_10: antique-hard-argue-toe-avocado-company-rescue-cricket-nasty-swing
-bip_39_word_dash_11: antique-hard-argue-toe-avocado-company-rescue-cricket-nasty-swing-palace
 bip_39_word_dash_12: antique-hard-argue-toe-avocado-company-rescue-cricket-nasty-swing-palace-account
 bip_39_word_dash_2: antique-hard
 bip_39_word_dash_3: antique-hard-argue
-bip_39_word_dash_4: antique-hard-argue-toe
-bip_39_word_dash_5: antique-hard-argue-toe-avocado
-bip_39_word_dash_6: antique-hard-argue-toe-avocado-company
-bip_39_word_dash_7: antique-hard-argue-toe-avocado-company-rescue
-bip_39_word_dash_8: antique-hard-argue-toe-avocado-company-rescue-cricket
-bip_39_word_dash_9: antique-hard-argue-toe-avocado-company-rescue-cricket-nasty
-bip_39_word_new_br_1: antique
-bip_39_word_new_br_10: antique<br>hard<br>argue<br>toe<br>avocado<br>company<br>rescue<br>cricket<br>nasty<br>swing
-bip_39_word_new_br_11: antique<br>hard<br>argue<br>toe<br>avocado<br>company<br>rescue<br>cricket<br>nasty<br>swing<br>palace
 bip_39_word_new_br_12: antique<br>hard<br>argue<br>toe<br>avocado<br>company<br>rescue<br>cricket<br>nasty<br>swing<br>palace<br>account
 bip_39_word_new_br_2: antique<br>hard
 bip_39_word_new_br_3: antique<br>hard<br>argue
-bip_39_word_new_br_4: antique<br>hard<br>argue<br>toe
-bip_39_word_new_br_5: antique<br>hard<br>argue<br>toe<br>avocado
-bip_39_word_new_br_6: antique<br>hard<br>argue<br>toe<br>avocado<br>company
-bip_39_word_new_br_7: antique<br>hard<br>argue<br>toe<br>avocado<br>company<br>rescue
-bip_39_word_new_br_8: antique<br>hard<br>argue<br>toe<br>avocado<br>company<br>rescue<br>cricket
-bip_39_word_new_br_9: antique<br>hard<br>argue<br>toe<br>avocado<br>company<br>rescue<br>cricket<br>nasty
-bip_39_word_new_line_1: antique
-bip_39_word_new_line_10: 'antique
-
-  hard
-
-  argue
-
-  toe
-
-  avocado
-
-  company
-
-  rescue
-
-  cricket
-
-  nasty
-
-  swing'
-bip_39_word_new_line_11: 'antique
-
-  hard
-
-  argue
-
-  toe
-
-  avocado
-
-  company
-
-  rescue
-
-  cricket
-
-  nasty
-
-  swing
-
-  palace'
 bip_39_word_new_line_12: 'antique
 
   hard
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'antique
   hard
 
   argue'
-bip_39_word_new_line_4: 'antique
-
-  hard
-
-  argue
-
-  toe'
-bip_39_word_new_line_5: 'antique
-
-  hard
-
-  argue
-
-  toe
-
-  avocado'
-bip_39_word_new_line_6: 'antique
-
-  hard
-
-  argue
-
-  toe
-
-  avocado
-
-  company'
-bip_39_word_new_line_7: 'antique
-
-  hard
-
-  argue
-
-  toe
-
-  avocado
-
-  company
-
-  rescue'
-bip_39_word_new_line_8: 'antique
-
-  hard
-
-  argue
-
-  toe
-
-  avocado
-
-  company
-
-  rescue
-
-  cricket'
-bip_39_word_new_line_9: 'antique
-
-  hard
-
-  argue
-
-  toe
-
-  avocado
-
-  company
-
-  rescue
-
-  cricket
-
-  nasty'
-bip_39_word_no_space_1: antique
-bip_39_word_no_space_10: antiquehardarguetoeavocadocompanyrescuecricketnastyswing
-bip_39_word_no_space_11: antiquehardarguetoeavocadocompanyrescuecricketnastyswingpalace
 bip_39_word_no_space_12: antiquehardarguetoeavocadocompanyrescuecricketnastyswingpalaceaccount
 bip_39_word_no_space_2: antiquehard
 bip_39_word_no_space_3: antiquehardargue
-bip_39_word_no_space_4: antiquehardarguetoe
-bip_39_word_no_space_5: antiquehardarguetoeavocado
-bip_39_word_no_space_6: antiquehardarguetoeavocadocompany
-bip_39_word_no_space_7: antiquehardarguetoeavocadocompanyrescue
-bip_39_word_no_space_8: antiquehardarguetoeavocadocompanyrescuecricket
-bip_39_word_no_space_9: antiquehardarguetoeavocadocompanyrescuecricketnasty
-bip_39_word_space_0:
-- antique
-- hard
-- argue
-- toe
-- avocado
-- company
-- rescue
-- cricket
-- nasty
-- swing
-- palace
-- account
-bip_39_word_space_1: antique
-bip_39_word_space_10: antique hard argue toe avocado company rescue cricket nasty
-  swing
-bip_39_word_space_11: antique hard argue toe avocado company rescue cricket nasty
-  swing palace
 bip_39_word_space_12: antique hard argue toe avocado company rescue cricket nasty
   swing palace account
 bip_39_word_space_2: antique hard
 bip_39_word_space_3: antique hard argue
-bip_39_word_space_4: antique hard argue toe
-bip_39_word_space_5: antique hard argue toe avocado
-bip_39_word_space_6: antique hard argue toe avocado company
-bip_39_word_space_7: antique hard argue toe avocado company rescue
-bip_39_word_space_8: antique hard argue toe avocado company rescue cricket
-bip_39_word_space_9: antique hard argue toe avocado company rescue cricket nasty
-bip_39_word_underscore_1: antique
-bip_39_word_underscore_10: antique_hard_argue_toe_avocado_company_rescue_cricket_nasty_swing
-bip_39_word_underscore_11: antique_hard_argue_toe_avocado_company_rescue_cricket_nasty_swing_palace
 bip_39_word_underscore_12: antique_hard_argue_toe_avocado_company_rescue_cricket_nasty_swing_palace_account
 bip_39_word_underscore_2: antique_hard
 bip_39_word_underscore_3: antique_hard_argue
-bip_39_word_underscore_4: antique_hard_argue_toe
-bip_39_word_underscore_5: antique_hard_argue_toe_avocado
-bip_39_word_underscore_6: antique_hard_argue_toe_avocado_company
-bip_39_word_underscore_7: antique_hard_argue_toe_avocado_company_rescue
-bip_39_word_underscore_8: antique_hard_argue_toe_avocado_company_rescue_cricket
-bip_39_word_underscore_9: antique_hard_argue_toe_avocado_company_rescue_cricket_nasty
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

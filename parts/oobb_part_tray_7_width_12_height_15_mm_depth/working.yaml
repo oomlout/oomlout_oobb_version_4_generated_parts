@@ -1,68 +1,9 @@
-bip_39_word_dash_1: anxiety
-bip_39_word_dash_10: anxiety-frog-cliff-giant-orphan-warfare-exile-swarm-crime-tide
-bip_39_word_dash_11: anxiety-frog-cliff-giant-orphan-warfare-exile-swarm-crime-tide-mimic
 bip_39_word_dash_12: anxiety-frog-cliff-giant-orphan-warfare-exile-swarm-crime-tide-mimic-angry
 bip_39_word_dash_2: anxiety-frog
 bip_39_word_dash_3: anxiety-frog-cliff
-bip_39_word_dash_4: anxiety-frog-cliff-giant
-bip_39_word_dash_5: anxiety-frog-cliff-giant-orphan
-bip_39_word_dash_6: anxiety-frog-cliff-giant-orphan-warfare
-bip_39_word_dash_7: anxiety-frog-cliff-giant-orphan-warfare-exile
-bip_39_word_dash_8: anxiety-frog-cliff-giant-orphan-warfare-exile-swarm
-bip_39_word_dash_9: anxiety-frog-cliff-giant-orphan-warfare-exile-swarm-crime
-bip_39_word_new_br_1: anxiety
-bip_39_word_new_br_10: anxiety<br>frog<br>cliff<br>giant<br>orphan<br>warfare<br>exile<br>swarm<br>crime<br>tide
-bip_39_word_new_br_11: anxiety<br>frog<br>cliff<br>giant<br>orphan<br>warfare<br>exile<br>swarm<br>crime<br>tide<br>mimic
 bip_39_word_new_br_12: anxiety<br>frog<br>cliff<br>giant<br>orphan<br>warfare<br>exile<br>swarm<br>crime<br>tide<br>mimic<br>angry
 bip_39_word_new_br_2: anxiety<br>frog
 bip_39_word_new_br_3: anxiety<br>frog<br>cliff
-bip_39_word_new_br_4: anxiety<br>frog<br>cliff<br>giant
-bip_39_word_new_br_5: anxiety<br>frog<br>cliff<br>giant<br>orphan
-bip_39_word_new_br_6: anxiety<br>frog<br>cliff<br>giant<br>orphan<br>warfare
-bip_39_word_new_br_7: anxiety<br>frog<br>cliff<br>giant<br>orphan<br>warfare<br>exile
-bip_39_word_new_br_8: anxiety<br>frog<br>cliff<br>giant<br>orphan<br>warfare<br>exile<br>swarm
-bip_39_word_new_br_9: anxiety<br>frog<br>cliff<br>giant<br>orphan<br>warfare<br>exile<br>swarm<br>crime
-bip_39_word_new_line_1: anxiety
-bip_39_word_new_line_10: 'anxiety
-
-  frog
-
-  cliff
-
-  giant
-
-  orphan
-
-  warfare
-
-  exile
-
-  swarm
-
-  crime
-
-  tide'
-bip_39_word_new_line_11: 'anxiety
-
-  frog
-
-  cliff
-
-  giant
-
-  orphan
-
-  warfare
-
-  exile
-
-  swarm
-
-  crime
-
-  tide
-
-  mimic'
 bip_39_word_new_line_12: 'anxiety
 
   frog
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'anxiety
   frog
 
   cliff'
-bip_39_word_new_line_4: 'anxiety
-
-  frog
-
-  cliff
-
-  giant'
-bip_39_word_new_line_5: 'anxiety
-
-  frog
-
-  cliff
-
-  giant
-
-  orphan'
-bip_39_word_new_line_6: 'anxiety
-
-  frog
-
-  cliff
-
-  giant
-
-  orphan
-
-  warfare'
-bip_39_word_new_line_7: 'anxiety
-
-  frog
-
-  cliff
-
-  giant
-
-  orphan
-
-  warfare
-
-  exile'
-bip_39_word_new_line_8: 'anxiety
-
-  frog
-
-  cliff
-
-  giant
-
-  orphan
-
-  warfare
-
-  exile
-
-  swarm'
-bip_39_word_new_line_9: 'anxiety
-
-  frog
-
-  cliff
-
-  giant
-
-  orphan
-
-  warfare
-
-  exile
-
-  swarm
-
-  crime'
-bip_39_word_no_space_1: anxiety
-bip_39_word_no_space_10: anxietyfrogcliffgiantorphanwarfareexileswarmcrimetide
-bip_39_word_no_space_11: anxietyfrogcliffgiantorphanwarfareexileswarmcrimetidemimic
 bip_39_word_no_space_12: anxietyfrogcliffgiantorphanwarfareexileswarmcrimetidemimicangry
 bip_39_word_no_space_2: anxietyfrog
 bip_39_word_no_space_3: anxietyfrogcliff
-bip_39_word_no_space_4: anxietyfrogcliffgiant
-bip_39_word_no_space_5: anxietyfrogcliffgiantorphan
-bip_39_word_no_space_6: anxietyfrogcliffgiantorphanwarfare
-bip_39_word_no_space_7: anxietyfrogcliffgiantorphanwarfareexile
-bip_39_word_no_space_8: anxietyfrogcliffgiantorphanwarfareexileswarm
-bip_39_word_no_space_9: anxietyfrogcliffgiantorphanwarfareexileswarmcrime
-bip_39_word_space_0:
-- anxiety
-- frog
-- cliff
-- giant
-- orphan
-- warfare
-- exile
-- swarm
-- crime
-- tide
-- mimic
-- angry
-bip_39_word_space_1: anxiety
-bip_39_word_space_10: anxiety frog cliff giant orphan warfare exile swarm crime tide
-bip_39_word_space_11: anxiety frog cliff giant orphan warfare exile swarm crime tide
-  mimic
 bip_39_word_space_12: anxiety frog cliff giant orphan warfare exile swarm crime tide
   mimic angry
 bip_39_word_space_2: anxiety frog
 bip_39_word_space_3: anxiety frog cliff
-bip_39_word_space_4: anxiety frog cliff giant
-bip_39_word_space_5: anxiety frog cliff giant orphan
-bip_39_word_space_6: anxiety frog cliff giant orphan warfare
-bip_39_word_space_7: anxiety frog cliff giant orphan warfare exile
-bip_39_word_space_8: anxiety frog cliff giant orphan warfare exile swarm
-bip_39_word_space_9: anxiety frog cliff giant orphan warfare exile swarm crime
-bip_39_word_underscore_1: anxiety
-bip_39_word_underscore_10: anxiety_frog_cliff_giant_orphan_warfare_exile_swarm_crime_tide
-bip_39_word_underscore_11: anxiety_frog_cliff_giant_orphan_warfare_exile_swarm_crime_tide_mimic
 bip_39_word_underscore_12: anxiety_frog_cliff_giant_orphan_warfare_exile_swarm_crime_tide_mimic_angry
 bip_39_word_underscore_2: anxiety_frog
 bip_39_word_underscore_3: anxiety_frog_cliff
-bip_39_word_underscore_4: anxiety_frog_cliff_giant
-bip_39_word_underscore_5: anxiety_frog_cliff_giant_orphan
-bip_39_word_underscore_6: anxiety_frog_cliff_giant_orphan_warfare
-bip_39_word_underscore_7: anxiety_frog_cliff_giant_orphan_warfare_exile
-bip_39_word_underscore_8: anxiety_frog_cliff_giant_orphan_warfare_exile_swarm
-bip_39_word_underscore_9: anxiety_frog_cliff_giant_orphan_warfare_exile_swarm_crime
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

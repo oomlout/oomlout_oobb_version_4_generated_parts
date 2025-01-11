@@ -1,68 +1,9 @@
-bip_39_word_dash_1: lunch
-bip_39_word_dash_10: lunch-tiger-clown-come-cargo-verify-forward-squeeze-stage-elegant
-bip_39_word_dash_11: lunch-tiger-clown-come-cargo-verify-forward-squeeze-stage-elegant-silk
 bip_39_word_dash_12: lunch-tiger-clown-come-cargo-verify-forward-squeeze-stage-elegant-silk-anchor
 bip_39_word_dash_2: lunch-tiger
 bip_39_word_dash_3: lunch-tiger-clown
-bip_39_word_dash_4: lunch-tiger-clown-come
-bip_39_word_dash_5: lunch-tiger-clown-come-cargo
-bip_39_word_dash_6: lunch-tiger-clown-come-cargo-verify
-bip_39_word_dash_7: lunch-tiger-clown-come-cargo-verify-forward
-bip_39_word_dash_8: lunch-tiger-clown-come-cargo-verify-forward-squeeze
-bip_39_word_dash_9: lunch-tiger-clown-come-cargo-verify-forward-squeeze-stage
-bip_39_word_new_br_1: lunch
-bip_39_word_new_br_10: lunch<br>tiger<br>clown<br>come<br>cargo<br>verify<br>forward<br>squeeze<br>stage<br>elegant
-bip_39_word_new_br_11: lunch<br>tiger<br>clown<br>come<br>cargo<br>verify<br>forward<br>squeeze<br>stage<br>elegant<br>silk
 bip_39_word_new_br_12: lunch<br>tiger<br>clown<br>come<br>cargo<br>verify<br>forward<br>squeeze<br>stage<br>elegant<br>silk<br>anchor
 bip_39_word_new_br_2: lunch<br>tiger
 bip_39_word_new_br_3: lunch<br>tiger<br>clown
-bip_39_word_new_br_4: lunch<br>tiger<br>clown<br>come
-bip_39_word_new_br_5: lunch<br>tiger<br>clown<br>come<br>cargo
-bip_39_word_new_br_6: lunch<br>tiger<br>clown<br>come<br>cargo<br>verify
-bip_39_word_new_br_7: lunch<br>tiger<br>clown<br>come<br>cargo<br>verify<br>forward
-bip_39_word_new_br_8: lunch<br>tiger<br>clown<br>come<br>cargo<br>verify<br>forward<br>squeeze
-bip_39_word_new_br_9: lunch<br>tiger<br>clown<br>come<br>cargo<br>verify<br>forward<br>squeeze<br>stage
-bip_39_word_new_line_1: lunch
-bip_39_word_new_line_10: 'lunch
-
-  tiger
-
-  clown
-
-  come
-
-  cargo
-
-  verify
-
-  forward
-
-  squeeze
-
-  stage
-
-  elegant'
-bip_39_word_new_line_11: 'lunch
-
-  tiger
-
-  clown
-
-  come
-
-  cargo
-
-  verify
-
-  forward
-
-  squeeze
-
-  stage
-
-  elegant
-
-  silk'
 bip_39_word_new_line_12: 'lunch
 
   tiger
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'lunch
   tiger
 
   clown'
-bip_39_word_new_line_4: 'lunch
-
-  tiger
-
-  clown
-
-  come'
-bip_39_word_new_line_5: 'lunch
-
-  tiger
-
-  clown
-
-  come
-
-  cargo'
-bip_39_word_new_line_6: 'lunch
-
-  tiger
-
-  clown
-
-  come
-
-  cargo
-
-  verify'
-bip_39_word_new_line_7: 'lunch
-
-  tiger
-
-  clown
-
-  come
-
-  cargo
-
-  verify
-
-  forward'
-bip_39_word_new_line_8: 'lunch
-
-  tiger
-
-  clown
-
-  come
-
-  cargo
-
-  verify
-
-  forward
-
-  squeeze'
-bip_39_word_new_line_9: 'lunch
-
-  tiger
-
-  clown
-
-  come
-
-  cargo
-
-  verify
-
-  forward
-
-  squeeze
-
-  stage'
-bip_39_word_no_space_1: lunch
-bip_39_word_no_space_10: lunchtigerclowncomecargoverifyforwardsqueezestageelegant
-bip_39_word_no_space_11: lunchtigerclowncomecargoverifyforwardsqueezestageelegantsilk
 bip_39_word_no_space_12: lunchtigerclowncomecargoverifyforwardsqueezestageelegantsilkanchor
 bip_39_word_no_space_2: lunchtiger
 bip_39_word_no_space_3: lunchtigerclown
-bip_39_word_no_space_4: lunchtigerclowncome
-bip_39_word_no_space_5: lunchtigerclowncomecargo
-bip_39_word_no_space_6: lunchtigerclowncomecargoverify
-bip_39_word_no_space_7: lunchtigerclowncomecargoverifyforward
-bip_39_word_no_space_8: lunchtigerclowncomecargoverifyforwardsqueeze
-bip_39_word_no_space_9: lunchtigerclowncomecargoverifyforwardsqueezestage
-bip_39_word_space_0:
-- lunch
-- tiger
-- clown
-- come
-- cargo
-- verify
-- forward
-- squeeze
-- stage
-- elegant
-- silk
-- anchor
-bip_39_word_space_1: lunch
-bip_39_word_space_10: lunch tiger clown come cargo verify forward squeeze stage elegant
-bip_39_word_space_11: lunch tiger clown come cargo verify forward squeeze stage elegant
-  silk
 bip_39_word_space_12: lunch tiger clown come cargo verify forward squeeze stage elegant
   silk anchor
 bip_39_word_space_2: lunch tiger
 bip_39_word_space_3: lunch tiger clown
-bip_39_word_space_4: lunch tiger clown come
-bip_39_word_space_5: lunch tiger clown come cargo
-bip_39_word_space_6: lunch tiger clown come cargo verify
-bip_39_word_space_7: lunch tiger clown come cargo verify forward
-bip_39_word_space_8: lunch tiger clown come cargo verify forward squeeze
-bip_39_word_space_9: lunch tiger clown come cargo verify forward squeeze stage
-bip_39_word_underscore_1: lunch
-bip_39_word_underscore_10: lunch_tiger_clown_come_cargo_verify_forward_squeeze_stage_elegant
-bip_39_word_underscore_11: lunch_tiger_clown_come_cargo_verify_forward_squeeze_stage_elegant_silk
 bip_39_word_underscore_12: lunch_tiger_clown_come_cargo_verify_forward_squeeze_stage_elegant_silk_anchor
 bip_39_word_underscore_2: lunch_tiger
 bip_39_word_underscore_3: lunch_tiger_clown
-bip_39_word_underscore_4: lunch_tiger_clown_come
-bip_39_word_underscore_5: lunch_tiger_clown_come_cargo
-bip_39_word_underscore_6: lunch_tiger_clown_come_cargo_verify
-bip_39_word_underscore_7: lunch_tiger_clown_come_cargo_verify_forward
-bip_39_word_underscore_8: lunch_tiger_clown_come_cargo_verify_forward_squeeze
-bip_39_word_underscore_9: lunch_tiger_clown_come_cargo_verify_forward_squeeze_stage
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

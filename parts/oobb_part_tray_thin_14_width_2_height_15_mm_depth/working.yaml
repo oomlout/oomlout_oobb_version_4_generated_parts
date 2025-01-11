@@ -1,68 +1,9 @@
-bip_39_word_dash_1: shell
-bip_39_word_dash_10: shell-parrot-guard-eternal-this-ill-name-paddle-security-orphan
-bip_39_word_dash_11: shell-parrot-guard-eternal-this-ill-name-paddle-security-orphan-napkin
 bip_39_word_dash_12: shell-parrot-guard-eternal-this-ill-name-paddle-security-orphan-napkin-antique
 bip_39_word_dash_2: shell-parrot
 bip_39_word_dash_3: shell-parrot-guard
-bip_39_word_dash_4: shell-parrot-guard-eternal
-bip_39_word_dash_5: shell-parrot-guard-eternal-this
-bip_39_word_dash_6: shell-parrot-guard-eternal-this-ill
-bip_39_word_dash_7: shell-parrot-guard-eternal-this-ill-name
-bip_39_word_dash_8: shell-parrot-guard-eternal-this-ill-name-paddle
-bip_39_word_dash_9: shell-parrot-guard-eternal-this-ill-name-paddle-security
-bip_39_word_new_br_1: shell
-bip_39_word_new_br_10: shell<br>parrot<br>guard<br>eternal<br>this<br>ill<br>name<br>paddle<br>security<br>orphan
-bip_39_word_new_br_11: shell<br>parrot<br>guard<br>eternal<br>this<br>ill<br>name<br>paddle<br>security<br>orphan<br>napkin
 bip_39_word_new_br_12: shell<br>parrot<br>guard<br>eternal<br>this<br>ill<br>name<br>paddle<br>security<br>orphan<br>napkin<br>antique
 bip_39_word_new_br_2: shell<br>parrot
 bip_39_word_new_br_3: shell<br>parrot<br>guard
-bip_39_word_new_br_4: shell<br>parrot<br>guard<br>eternal
-bip_39_word_new_br_5: shell<br>parrot<br>guard<br>eternal<br>this
-bip_39_word_new_br_6: shell<br>parrot<br>guard<br>eternal<br>this<br>ill
-bip_39_word_new_br_7: shell<br>parrot<br>guard<br>eternal<br>this<br>ill<br>name
-bip_39_word_new_br_8: shell<br>parrot<br>guard<br>eternal<br>this<br>ill<br>name<br>paddle
-bip_39_word_new_br_9: shell<br>parrot<br>guard<br>eternal<br>this<br>ill<br>name<br>paddle<br>security
-bip_39_word_new_line_1: shell
-bip_39_word_new_line_10: 'shell
-
-  parrot
-
-  guard
-
-  eternal
-
-  this
-
-  ill
-
-  name
-
-  paddle
-
-  security
-
-  orphan'
-bip_39_word_new_line_11: 'shell
-
-  parrot
-
-  guard
-
-  eternal
-
-  this
-
-  ill
-
-  name
-
-  paddle
-
-  security
-
-  orphan
-
-  napkin'
 bip_39_word_new_line_12: 'shell
 
   parrot
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'shell
   parrot
 
   guard'
-bip_39_word_new_line_4: 'shell
-
-  parrot
-
-  guard
-
-  eternal'
-bip_39_word_new_line_5: 'shell
-
-  parrot
-
-  guard
-
-  eternal
-
-  this'
-bip_39_word_new_line_6: 'shell
-
-  parrot
-
-  guard
-
-  eternal
-
-  this
-
-  ill'
-bip_39_word_new_line_7: 'shell
-
-  parrot
-
-  guard
-
-  eternal
-
-  this
-
-  ill
-
-  name'
-bip_39_word_new_line_8: 'shell
-
-  parrot
-
-  guard
-
-  eternal
-
-  this
-
-  ill
-
-  name
-
-  paddle'
-bip_39_word_new_line_9: 'shell
-
-  parrot
-
-  guard
-
-  eternal
-
-  this
-
-  ill
-
-  name
-
-  paddle
-
-  security'
-bip_39_word_no_space_1: shell
-bip_39_word_no_space_10: shellparrotguardeternalthisillnamepaddlesecurityorphan
-bip_39_word_no_space_11: shellparrotguardeternalthisillnamepaddlesecurityorphannapkin
 bip_39_word_no_space_12: shellparrotguardeternalthisillnamepaddlesecurityorphannapkinantique
 bip_39_word_no_space_2: shellparrot
 bip_39_word_no_space_3: shellparrotguard
-bip_39_word_no_space_4: shellparrotguardeternal
-bip_39_word_no_space_5: shellparrotguardeternalthis
-bip_39_word_no_space_6: shellparrotguardeternalthisill
-bip_39_word_no_space_7: shellparrotguardeternalthisillname
-bip_39_word_no_space_8: shellparrotguardeternalthisillnamepaddle
-bip_39_word_no_space_9: shellparrotguardeternalthisillnamepaddlesecurity
-bip_39_word_space_0:
-- shell
-- parrot
-- guard
-- eternal
-- this
-- ill
-- name
-- paddle
-- security
-- orphan
-- napkin
-- antique
-bip_39_word_space_1: shell
-bip_39_word_space_10: shell parrot guard eternal this ill name paddle security orphan
-bip_39_word_space_11: shell parrot guard eternal this ill name paddle security orphan
-  napkin
 bip_39_word_space_12: shell parrot guard eternal this ill name paddle security orphan
   napkin antique
 bip_39_word_space_2: shell parrot
 bip_39_word_space_3: shell parrot guard
-bip_39_word_space_4: shell parrot guard eternal
-bip_39_word_space_5: shell parrot guard eternal this
-bip_39_word_space_6: shell parrot guard eternal this ill
-bip_39_word_space_7: shell parrot guard eternal this ill name
-bip_39_word_space_8: shell parrot guard eternal this ill name paddle
-bip_39_word_space_9: shell parrot guard eternal this ill name paddle security
-bip_39_word_underscore_1: shell
-bip_39_word_underscore_10: shell_parrot_guard_eternal_this_ill_name_paddle_security_orphan
-bip_39_word_underscore_11: shell_parrot_guard_eternal_this_ill_name_paddle_security_orphan_napkin
 bip_39_word_underscore_12: shell_parrot_guard_eternal_this_ill_name_paddle_security_orphan_napkin_antique
 bip_39_word_underscore_2: shell_parrot
 bip_39_word_underscore_3: shell_parrot_guard
-bip_39_word_underscore_4: shell_parrot_guard_eternal
-bip_39_word_underscore_5: shell_parrot_guard_eternal_this
-bip_39_word_underscore_6: shell_parrot_guard_eternal_this_ill
-bip_39_word_underscore_7: shell_parrot_guard_eternal_this_ill_name
-bip_39_word_underscore_8: shell_parrot_guard_eternal_this_ill_name_paddle
-bip_39_word_underscore_9: shell_parrot_guard_eternal_this_ill_name_paddle_security
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

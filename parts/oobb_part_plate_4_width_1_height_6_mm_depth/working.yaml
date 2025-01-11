@@ -1,68 +1,9 @@
-bip_39_word_dash_1: mountain
-bip_39_word_dash_10: mountain-wood-wide-eager-flavor-illness-mind-weird-cancel-shed
-bip_39_word_dash_11: mountain-wood-wide-eager-flavor-illness-mind-weird-cancel-shed-confirm
 bip_39_word_dash_12: mountain-wood-wide-eager-flavor-illness-mind-weird-cancel-shed-confirm-above
 bip_39_word_dash_2: mountain-wood
 bip_39_word_dash_3: mountain-wood-wide
-bip_39_word_dash_4: mountain-wood-wide-eager
-bip_39_word_dash_5: mountain-wood-wide-eager-flavor
-bip_39_word_dash_6: mountain-wood-wide-eager-flavor-illness
-bip_39_word_dash_7: mountain-wood-wide-eager-flavor-illness-mind
-bip_39_word_dash_8: mountain-wood-wide-eager-flavor-illness-mind-weird
-bip_39_word_dash_9: mountain-wood-wide-eager-flavor-illness-mind-weird-cancel
-bip_39_word_new_br_1: mountain
-bip_39_word_new_br_10: mountain<br>wood<br>wide<br>eager<br>flavor<br>illness<br>mind<br>weird<br>cancel<br>shed
-bip_39_word_new_br_11: mountain<br>wood<br>wide<br>eager<br>flavor<br>illness<br>mind<br>weird<br>cancel<br>shed<br>confirm
 bip_39_word_new_br_12: mountain<br>wood<br>wide<br>eager<br>flavor<br>illness<br>mind<br>weird<br>cancel<br>shed<br>confirm<br>above
 bip_39_word_new_br_2: mountain<br>wood
 bip_39_word_new_br_3: mountain<br>wood<br>wide
-bip_39_word_new_br_4: mountain<br>wood<br>wide<br>eager
-bip_39_word_new_br_5: mountain<br>wood<br>wide<br>eager<br>flavor
-bip_39_word_new_br_6: mountain<br>wood<br>wide<br>eager<br>flavor<br>illness
-bip_39_word_new_br_7: mountain<br>wood<br>wide<br>eager<br>flavor<br>illness<br>mind
-bip_39_word_new_br_8: mountain<br>wood<br>wide<br>eager<br>flavor<br>illness<br>mind<br>weird
-bip_39_word_new_br_9: mountain<br>wood<br>wide<br>eager<br>flavor<br>illness<br>mind<br>weird<br>cancel
-bip_39_word_new_line_1: mountain
-bip_39_word_new_line_10: 'mountain
-
-  wood
-
-  wide
-
-  eager
-
-  flavor
-
-  illness
-
-  mind
-
-  weird
-
-  cancel
-
-  shed'
-bip_39_word_new_line_11: 'mountain
-
-  wood
-
-  wide
-
-  eager
-
-  flavor
-
-  illness
-
-  mind
-
-  weird
-
-  cancel
-
-  shed
-
-  confirm'
 bip_39_word_new_line_12: 'mountain
 
   wood
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'mountain
   wood
 
   wide'
-bip_39_word_new_line_4: 'mountain
-
-  wood
-
-  wide
-
-  eager'
-bip_39_word_new_line_5: 'mountain
-
-  wood
-
-  wide
-
-  eager
-
-  flavor'
-bip_39_word_new_line_6: 'mountain
-
-  wood
-
-  wide
-
-  eager
-
-  flavor
-
-  illness'
-bip_39_word_new_line_7: 'mountain
-
-  wood
-
-  wide
-
-  eager
-
-  flavor
-
-  illness
-
-  mind'
-bip_39_word_new_line_8: 'mountain
-
-  wood
-
-  wide
-
-  eager
-
-  flavor
-
-  illness
-
-  mind
-
-  weird'
-bip_39_word_new_line_9: 'mountain
-
-  wood
-
-  wide
-
-  eager
-
-  flavor
-
-  illness
-
-  mind
-
-  weird
-
-  cancel'
-bip_39_word_no_space_1: mountain
-bip_39_word_no_space_10: mountainwoodwideeagerflavorillnessmindweirdcancelshed
-bip_39_word_no_space_11: mountainwoodwideeagerflavorillnessmindweirdcancelshedconfirm
 bip_39_word_no_space_12: mountainwoodwideeagerflavorillnessmindweirdcancelshedconfirmabove
 bip_39_word_no_space_2: mountainwood
 bip_39_word_no_space_3: mountainwoodwide
-bip_39_word_no_space_4: mountainwoodwideeager
-bip_39_word_no_space_5: mountainwoodwideeagerflavor
-bip_39_word_no_space_6: mountainwoodwideeagerflavorillness
-bip_39_word_no_space_7: mountainwoodwideeagerflavorillnessmind
-bip_39_word_no_space_8: mountainwoodwideeagerflavorillnessmindweird
-bip_39_word_no_space_9: mountainwoodwideeagerflavorillnessmindweirdcancel
-bip_39_word_space_0:
-- mountain
-- wood
-- wide
-- eager
-- flavor
-- illness
-- mind
-- weird
-- cancel
-- shed
-- confirm
-- above
-bip_39_word_space_1: mountain
-bip_39_word_space_10: mountain wood wide eager flavor illness mind weird cancel shed
-bip_39_word_space_11: mountain wood wide eager flavor illness mind weird cancel shed
-  confirm
 bip_39_word_space_12: mountain wood wide eager flavor illness mind weird cancel shed
   confirm above
 bip_39_word_space_2: mountain wood
 bip_39_word_space_3: mountain wood wide
-bip_39_word_space_4: mountain wood wide eager
-bip_39_word_space_5: mountain wood wide eager flavor
-bip_39_word_space_6: mountain wood wide eager flavor illness
-bip_39_word_space_7: mountain wood wide eager flavor illness mind
-bip_39_word_space_8: mountain wood wide eager flavor illness mind weird
-bip_39_word_space_9: mountain wood wide eager flavor illness mind weird cancel
-bip_39_word_underscore_1: mountain
-bip_39_word_underscore_10: mountain_wood_wide_eager_flavor_illness_mind_weird_cancel_shed
-bip_39_word_underscore_11: mountain_wood_wide_eager_flavor_illness_mind_weird_cancel_shed_confirm
 bip_39_word_underscore_12: mountain_wood_wide_eager_flavor_illness_mind_weird_cancel_shed_confirm_above
 bip_39_word_underscore_2: mountain_wood
 bip_39_word_underscore_3: mountain_wood_wide
-bip_39_word_underscore_4: mountain_wood_wide_eager
-bip_39_word_underscore_5: mountain_wood_wide_eager_flavor
-bip_39_word_underscore_6: mountain_wood_wide_eager_flavor_illness
-bip_39_word_underscore_7: mountain_wood_wide_eager_flavor_illness_mind
-bip_39_word_underscore_8: mountain_wood_wide_eager_flavor_illness_mind_weird
-bip_39_word_underscore_9: mountain_wood_wide_eager_flavor_illness_mind_weird_cancel
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: switch
-bip_39_word_dash_10: switch-expect-jelly-square-lemon-zebra-pet-shine-same-cargo
-bip_39_word_dash_11: switch-expect-jelly-square-lemon-zebra-pet-shine-same-cargo-various
 bip_39_word_dash_12: switch-expect-jelly-square-lemon-zebra-pet-shine-same-cargo-various-anxiety
 bip_39_word_dash_2: switch-expect
 bip_39_word_dash_3: switch-expect-jelly
-bip_39_word_dash_4: switch-expect-jelly-square
-bip_39_word_dash_5: switch-expect-jelly-square-lemon
-bip_39_word_dash_6: switch-expect-jelly-square-lemon-zebra
-bip_39_word_dash_7: switch-expect-jelly-square-lemon-zebra-pet
-bip_39_word_dash_8: switch-expect-jelly-square-lemon-zebra-pet-shine
-bip_39_word_dash_9: switch-expect-jelly-square-lemon-zebra-pet-shine-same
-bip_39_word_new_br_1: switch
-bip_39_word_new_br_10: switch<br>expect<br>jelly<br>square<br>lemon<br>zebra<br>pet<br>shine<br>same<br>cargo
-bip_39_word_new_br_11: switch<br>expect<br>jelly<br>square<br>lemon<br>zebra<br>pet<br>shine<br>same<br>cargo<br>various
 bip_39_word_new_br_12: switch<br>expect<br>jelly<br>square<br>lemon<br>zebra<br>pet<br>shine<br>same<br>cargo<br>various<br>anxiety
 bip_39_word_new_br_2: switch<br>expect
 bip_39_word_new_br_3: switch<br>expect<br>jelly
-bip_39_word_new_br_4: switch<br>expect<br>jelly<br>square
-bip_39_word_new_br_5: switch<br>expect<br>jelly<br>square<br>lemon
-bip_39_word_new_br_6: switch<br>expect<br>jelly<br>square<br>lemon<br>zebra
-bip_39_word_new_br_7: switch<br>expect<br>jelly<br>square<br>lemon<br>zebra<br>pet
-bip_39_word_new_br_8: switch<br>expect<br>jelly<br>square<br>lemon<br>zebra<br>pet<br>shine
-bip_39_word_new_br_9: switch<br>expect<br>jelly<br>square<br>lemon<br>zebra<br>pet<br>shine<br>same
-bip_39_word_new_line_1: switch
-bip_39_word_new_line_10: 'switch
-
-  expect
-
-  jelly
-
-  square
-
-  lemon
-
-  zebra
-
-  pet
-
-  shine
-
-  same
-
-  cargo'
-bip_39_word_new_line_11: 'switch
-
-  expect
-
-  jelly
-
-  square
-
-  lemon
-
-  zebra
-
-  pet
-
-  shine
-
-  same
-
-  cargo
-
-  various'
 bip_39_word_new_line_12: 'switch
 
   expect
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'switch
   expect
 
   jelly'
-bip_39_word_new_line_4: 'switch
-
-  expect
-
-  jelly
-
-  square'
-bip_39_word_new_line_5: 'switch
-
-  expect
-
-  jelly
-
-  square
-
-  lemon'
-bip_39_word_new_line_6: 'switch
-
-  expect
-
-  jelly
-
-  square
-
-  lemon
-
-  zebra'
-bip_39_word_new_line_7: 'switch
-
-  expect
-
-  jelly
-
-  square
-
-  lemon
-
-  zebra
-
-  pet'
-bip_39_word_new_line_8: 'switch
-
-  expect
-
-  jelly
-
-  square
-
-  lemon
-
-  zebra
-
-  pet
-
-  shine'
-bip_39_word_new_line_9: 'switch
-
-  expect
-
-  jelly
-
-  square
-
-  lemon
-
-  zebra
-
-  pet
-
-  shine
-
-  same'
-bip_39_word_no_space_1: switch
-bip_39_word_no_space_10: switchexpectjellysquarelemonzebrapetshinesamecargo
-bip_39_word_no_space_11: switchexpectjellysquarelemonzebrapetshinesamecargovarious
 bip_39_word_no_space_12: switchexpectjellysquarelemonzebrapetshinesamecargovariousanxiety
 bip_39_word_no_space_2: switchexpect
 bip_39_word_no_space_3: switchexpectjelly
-bip_39_word_no_space_4: switchexpectjellysquare
-bip_39_word_no_space_5: switchexpectjellysquarelemon
-bip_39_word_no_space_6: switchexpectjellysquarelemonzebra
-bip_39_word_no_space_7: switchexpectjellysquarelemonzebrapet
-bip_39_word_no_space_8: switchexpectjellysquarelemonzebrapetshine
-bip_39_word_no_space_9: switchexpectjellysquarelemonzebrapetshinesame
-bip_39_word_space_0:
-- switch
-- expect
-- jelly
-- square
-- lemon
-- zebra
-- pet
-- shine
-- same
-- cargo
-- various
-- anxiety
-bip_39_word_space_1: switch
-bip_39_word_space_10: switch expect jelly square lemon zebra pet shine same cargo
-bip_39_word_space_11: switch expect jelly square lemon zebra pet shine same cargo
-  various
 bip_39_word_space_12: switch expect jelly square lemon zebra pet shine same cargo
   various anxiety
 bip_39_word_space_2: switch expect
 bip_39_word_space_3: switch expect jelly
-bip_39_word_space_4: switch expect jelly square
-bip_39_word_space_5: switch expect jelly square lemon
-bip_39_word_space_6: switch expect jelly square lemon zebra
-bip_39_word_space_7: switch expect jelly square lemon zebra pet
-bip_39_word_space_8: switch expect jelly square lemon zebra pet shine
-bip_39_word_space_9: switch expect jelly square lemon zebra pet shine same
-bip_39_word_underscore_1: switch
-bip_39_word_underscore_10: switch_expect_jelly_square_lemon_zebra_pet_shine_same_cargo
-bip_39_word_underscore_11: switch_expect_jelly_square_lemon_zebra_pet_shine_same_cargo_various
 bip_39_word_underscore_12: switch_expect_jelly_square_lemon_zebra_pet_shine_same_cargo_various_anxiety
 bip_39_word_underscore_2: switch_expect
 bip_39_word_underscore_3: switch_expect_jelly
-bip_39_word_underscore_4: switch_expect_jelly_square
-bip_39_word_underscore_5: switch_expect_jelly_square_lemon
-bip_39_word_underscore_6: switch_expect_jelly_square_lemon_zebra
-bip_39_word_underscore_7: switch_expect_jelly_square_lemon_zebra_pet
-bip_39_word_underscore_8: switch_expect_jelly_square_lemon_zebra_pet_shine
-bip_39_word_underscore_9: switch_expect_jelly_square_lemon_zebra_pet_shine_same
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: mansion
-bip_39_word_dash_10: mansion-rice-jealous-student-forest-room-rather-girl-air-faculty
-bip_39_word_dash_11: mansion-rice-jealous-student-forest-room-rather-girl-air-faculty-ticket
 bip_39_word_dash_12: mansion-rice-jealous-student-forest-room-rather-girl-air-faculty-ticket-already
 bip_39_word_dash_2: mansion-rice
 bip_39_word_dash_3: mansion-rice-jealous
-bip_39_word_dash_4: mansion-rice-jealous-student
-bip_39_word_dash_5: mansion-rice-jealous-student-forest
-bip_39_word_dash_6: mansion-rice-jealous-student-forest-room
-bip_39_word_dash_7: mansion-rice-jealous-student-forest-room-rather
-bip_39_word_dash_8: mansion-rice-jealous-student-forest-room-rather-girl
-bip_39_word_dash_9: mansion-rice-jealous-student-forest-room-rather-girl-air
-bip_39_word_new_br_1: mansion
-bip_39_word_new_br_10: mansion<br>rice<br>jealous<br>student<br>forest<br>room<br>rather<br>girl<br>air<br>faculty
-bip_39_word_new_br_11: mansion<br>rice<br>jealous<br>student<br>forest<br>room<br>rather<br>girl<br>air<br>faculty<br>ticket
 bip_39_word_new_br_12: mansion<br>rice<br>jealous<br>student<br>forest<br>room<br>rather<br>girl<br>air<br>faculty<br>ticket<br>already
 bip_39_word_new_br_2: mansion<br>rice
 bip_39_word_new_br_3: mansion<br>rice<br>jealous
-bip_39_word_new_br_4: mansion<br>rice<br>jealous<br>student
-bip_39_word_new_br_5: mansion<br>rice<br>jealous<br>student<br>forest
-bip_39_word_new_br_6: mansion<br>rice<br>jealous<br>student<br>forest<br>room
-bip_39_word_new_br_7: mansion<br>rice<br>jealous<br>student<br>forest<br>room<br>rather
-bip_39_word_new_br_8: mansion<br>rice<br>jealous<br>student<br>forest<br>room<br>rather<br>girl
-bip_39_word_new_br_9: mansion<br>rice<br>jealous<br>student<br>forest<br>room<br>rather<br>girl<br>air
-bip_39_word_new_line_1: mansion
-bip_39_word_new_line_10: 'mansion
-
-  rice
-
-  jealous
-
-  student
-
-  forest
-
-  room
-
-  rather
-
-  girl
-
-  air
-
-  faculty'
-bip_39_word_new_line_11: 'mansion
-
-  rice
-
-  jealous
-
-  student
-
-  forest
-
-  room
-
-  rather
-
-  girl
-
-  air
-
-  faculty
-
-  ticket'
 bip_39_word_new_line_12: 'mansion
 
   rice
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'mansion
   rice
 
   jealous'
-bip_39_word_new_line_4: 'mansion
-
-  rice
-
-  jealous
-
-  student'
-bip_39_word_new_line_5: 'mansion
-
-  rice
-
-  jealous
-
-  student
-
-  forest'
-bip_39_word_new_line_6: 'mansion
-
-  rice
-
-  jealous
-
-  student
-
-  forest
-
-  room'
-bip_39_word_new_line_7: 'mansion
-
-  rice
-
-  jealous
-
-  student
-
-  forest
-
-  room
-
-  rather'
-bip_39_word_new_line_8: 'mansion
-
-  rice
-
-  jealous
-
-  student
-
-  forest
-
-  room
-
-  rather
-
-  girl'
-bip_39_word_new_line_9: 'mansion
-
-  rice
-
-  jealous
-
-  student
-
-  forest
-
-  room
-
-  rather
-
-  girl
-
-  air'
-bip_39_word_no_space_1: mansion
-bip_39_word_no_space_10: mansionricejealousstudentforestroomrathergirlairfaculty
-bip_39_word_no_space_11: mansionricejealousstudentforestroomrathergirlairfacultyticket
 bip_39_word_no_space_12: mansionricejealousstudentforestroomrathergirlairfacultyticketalready
 bip_39_word_no_space_2: mansionrice
 bip_39_word_no_space_3: mansionricejealous
-bip_39_word_no_space_4: mansionricejealousstudent
-bip_39_word_no_space_5: mansionricejealousstudentforest
-bip_39_word_no_space_6: mansionricejealousstudentforestroom
-bip_39_word_no_space_7: mansionricejealousstudentforestroomrather
-bip_39_word_no_space_8: mansionricejealousstudentforestroomrathergirl
-bip_39_word_no_space_9: mansionricejealousstudentforestroomrathergirlair
-bip_39_word_space_0:
-- mansion
-- rice
-- jealous
-- student
-- forest
-- room
-- rather
-- girl
-- air
-- faculty
-- ticket
-- already
-bip_39_word_space_1: mansion
-bip_39_word_space_10: mansion rice jealous student forest room rather girl air faculty
-bip_39_word_space_11: mansion rice jealous student forest room rather girl air faculty
-  ticket
 bip_39_word_space_12: mansion rice jealous student forest room rather girl air faculty
   ticket already
 bip_39_word_space_2: mansion rice
 bip_39_word_space_3: mansion rice jealous
-bip_39_word_space_4: mansion rice jealous student
-bip_39_word_space_5: mansion rice jealous student forest
-bip_39_word_space_6: mansion rice jealous student forest room
-bip_39_word_space_7: mansion rice jealous student forest room rather
-bip_39_word_space_8: mansion rice jealous student forest room rather girl
-bip_39_word_space_9: mansion rice jealous student forest room rather girl air
-bip_39_word_underscore_1: mansion
-bip_39_word_underscore_10: mansion_rice_jealous_student_forest_room_rather_girl_air_faculty
-bip_39_word_underscore_11: mansion_rice_jealous_student_forest_room_rather_girl_air_faculty_ticket
 bip_39_word_underscore_12: mansion_rice_jealous_student_forest_room_rather_girl_air_faculty_ticket_already
 bip_39_word_underscore_2: mansion_rice
 bip_39_word_underscore_3: mansion_rice_jealous
-bip_39_word_underscore_4: mansion_rice_jealous_student
-bip_39_word_underscore_5: mansion_rice_jealous_student_forest
-bip_39_word_underscore_6: mansion_rice_jealous_student_forest_room
-bip_39_word_underscore_7: mansion_rice_jealous_student_forest_room_rather
-bip_39_word_underscore_8: mansion_rice_jealous_student_forest_room_rather_girl
-bip_39_word_underscore_9: mansion_rice_jealous_student_forest_room_rather_girl_air
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

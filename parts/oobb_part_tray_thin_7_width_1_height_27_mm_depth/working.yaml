@@ -1,68 +1,9 @@
-bip_39_word_dash_1: swarm
-bip_39_word_dash_10: swarm-crucial-man-shed-parent-oven-color-deliver-duck-brother
-bip_39_word_dash_11: swarm-crucial-man-shed-parent-oven-color-deliver-duck-brother-neither
 bip_39_word_dash_12: swarm-crucial-man-shed-parent-oven-color-deliver-duck-brother-neither-apple
 bip_39_word_dash_2: swarm-crucial
 bip_39_word_dash_3: swarm-crucial-man
-bip_39_word_dash_4: swarm-crucial-man-shed
-bip_39_word_dash_5: swarm-crucial-man-shed-parent
-bip_39_word_dash_6: swarm-crucial-man-shed-parent-oven
-bip_39_word_dash_7: swarm-crucial-man-shed-parent-oven-color
-bip_39_word_dash_8: swarm-crucial-man-shed-parent-oven-color-deliver
-bip_39_word_dash_9: swarm-crucial-man-shed-parent-oven-color-deliver-duck
-bip_39_word_new_br_1: swarm
-bip_39_word_new_br_10: swarm<br>crucial<br>man<br>shed<br>parent<br>oven<br>color<br>deliver<br>duck<br>brother
-bip_39_word_new_br_11: swarm<br>crucial<br>man<br>shed<br>parent<br>oven<br>color<br>deliver<br>duck<br>brother<br>neither
 bip_39_word_new_br_12: swarm<br>crucial<br>man<br>shed<br>parent<br>oven<br>color<br>deliver<br>duck<br>brother<br>neither<br>apple
 bip_39_word_new_br_2: swarm<br>crucial
 bip_39_word_new_br_3: swarm<br>crucial<br>man
-bip_39_word_new_br_4: swarm<br>crucial<br>man<br>shed
-bip_39_word_new_br_5: swarm<br>crucial<br>man<br>shed<br>parent
-bip_39_word_new_br_6: swarm<br>crucial<br>man<br>shed<br>parent<br>oven
-bip_39_word_new_br_7: swarm<br>crucial<br>man<br>shed<br>parent<br>oven<br>color
-bip_39_word_new_br_8: swarm<br>crucial<br>man<br>shed<br>parent<br>oven<br>color<br>deliver
-bip_39_word_new_br_9: swarm<br>crucial<br>man<br>shed<br>parent<br>oven<br>color<br>deliver<br>duck
-bip_39_word_new_line_1: swarm
-bip_39_word_new_line_10: 'swarm
-
-  crucial
-
-  man
-
-  shed
-
-  parent
-
-  oven
-
-  color
-
-  deliver
-
-  duck
-
-  brother'
-bip_39_word_new_line_11: 'swarm
-
-  crucial
-
-  man
-
-  shed
-
-  parent
-
-  oven
-
-  color
-
-  deliver
-
-  duck
-
-  brother
-
-  neither'
 bip_39_word_new_line_12: 'swarm
 
   crucial
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'swarm
   crucial
 
   man'
-bip_39_word_new_line_4: 'swarm
-
-  crucial
-
-  man
-
-  shed'
-bip_39_word_new_line_5: 'swarm
-
-  crucial
-
-  man
-
-  shed
-
-  parent'
-bip_39_word_new_line_6: 'swarm
-
-  crucial
-
-  man
-
-  shed
-
-  parent
-
-  oven'
-bip_39_word_new_line_7: 'swarm
-
-  crucial
-
-  man
-
-  shed
-
-  parent
-
-  oven
-
-  color'
-bip_39_word_new_line_8: 'swarm
-
-  crucial
-
-  man
-
-  shed
-
-  parent
-
-  oven
-
-  color
-
-  deliver'
-bip_39_word_new_line_9: 'swarm
-
-  crucial
-
-  man
-
-  shed
-
-  parent
-
-  oven
-
-  color
-
-  deliver
-
-  duck'
-bip_39_word_no_space_1: swarm
-bip_39_word_no_space_10: swarmcrucialmanshedparentovencolordeliverduckbrother
-bip_39_word_no_space_11: swarmcrucialmanshedparentovencolordeliverduckbrotherneither
 bip_39_word_no_space_12: swarmcrucialmanshedparentovencolordeliverduckbrotherneitherapple
 bip_39_word_no_space_2: swarmcrucial
 bip_39_word_no_space_3: swarmcrucialman
-bip_39_word_no_space_4: swarmcrucialmanshed
-bip_39_word_no_space_5: swarmcrucialmanshedparent
-bip_39_word_no_space_6: swarmcrucialmanshedparentoven
-bip_39_word_no_space_7: swarmcrucialmanshedparentovencolor
-bip_39_word_no_space_8: swarmcrucialmanshedparentovencolordeliver
-bip_39_word_no_space_9: swarmcrucialmanshedparentovencolordeliverduck
-bip_39_word_space_0:
-- swarm
-- crucial
-- man
-- shed
-- parent
-- oven
-- color
-- deliver
-- duck
-- brother
-- neither
-- apple
-bip_39_word_space_1: swarm
-bip_39_word_space_10: swarm crucial man shed parent oven color deliver duck brother
-bip_39_word_space_11: swarm crucial man shed parent oven color deliver duck brother
-  neither
 bip_39_word_space_12: swarm crucial man shed parent oven color deliver duck brother
   neither apple
 bip_39_word_space_2: swarm crucial
 bip_39_word_space_3: swarm crucial man
-bip_39_word_space_4: swarm crucial man shed
-bip_39_word_space_5: swarm crucial man shed parent
-bip_39_word_space_6: swarm crucial man shed parent oven
-bip_39_word_space_7: swarm crucial man shed parent oven color
-bip_39_word_space_8: swarm crucial man shed parent oven color deliver
-bip_39_word_space_9: swarm crucial man shed parent oven color deliver duck
-bip_39_word_underscore_1: swarm
-bip_39_word_underscore_10: swarm_crucial_man_shed_parent_oven_color_deliver_duck_brother
-bip_39_word_underscore_11: swarm_crucial_man_shed_parent_oven_color_deliver_duck_brother_neither
 bip_39_word_underscore_12: swarm_crucial_man_shed_parent_oven_color_deliver_duck_brother_neither_apple
 bip_39_word_underscore_2: swarm_crucial
 bip_39_word_underscore_3: swarm_crucial_man
-bip_39_word_underscore_4: swarm_crucial_man_shed
-bip_39_word_underscore_5: swarm_crucial_man_shed_parent
-bip_39_word_underscore_6: swarm_crucial_man_shed_parent_oven
-bip_39_word_underscore_7: swarm_crucial_man_shed_parent_oven_color
-bip_39_word_underscore_8: swarm_crucial_man_shed_parent_oven_color_deliver
-bip_39_word_underscore_9: swarm_crucial_man_shed_parent_oven_color_deliver_duck
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

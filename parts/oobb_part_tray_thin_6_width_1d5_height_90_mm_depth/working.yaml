@@ -1,68 +1,9 @@
-bip_39_word_dash_1: grunt
-bip_39_word_dash_10: grunt-cricket-seed-scene-flower-patrol-impact-river-dirt-confirm
-bip_39_word_dash_11: grunt-cricket-seed-scene-flower-patrol-impact-river-dirt-confirm-helmet
 bip_39_word_dash_12: grunt-cricket-seed-scene-flower-patrol-impact-river-dirt-confirm-helmet-army
 bip_39_word_dash_2: grunt-cricket
 bip_39_word_dash_3: grunt-cricket-seed
-bip_39_word_dash_4: grunt-cricket-seed-scene
-bip_39_word_dash_5: grunt-cricket-seed-scene-flower
-bip_39_word_dash_6: grunt-cricket-seed-scene-flower-patrol
-bip_39_word_dash_7: grunt-cricket-seed-scene-flower-patrol-impact
-bip_39_word_dash_8: grunt-cricket-seed-scene-flower-patrol-impact-river
-bip_39_word_dash_9: grunt-cricket-seed-scene-flower-patrol-impact-river-dirt
-bip_39_word_new_br_1: grunt
-bip_39_word_new_br_10: grunt<br>cricket<br>seed<br>scene<br>flower<br>patrol<br>impact<br>river<br>dirt<br>confirm
-bip_39_word_new_br_11: grunt<br>cricket<br>seed<br>scene<br>flower<br>patrol<br>impact<br>river<br>dirt<br>confirm<br>helmet
 bip_39_word_new_br_12: grunt<br>cricket<br>seed<br>scene<br>flower<br>patrol<br>impact<br>river<br>dirt<br>confirm<br>helmet<br>army
 bip_39_word_new_br_2: grunt<br>cricket
 bip_39_word_new_br_3: grunt<br>cricket<br>seed
-bip_39_word_new_br_4: grunt<br>cricket<br>seed<br>scene
-bip_39_word_new_br_5: grunt<br>cricket<br>seed<br>scene<br>flower
-bip_39_word_new_br_6: grunt<br>cricket<br>seed<br>scene<br>flower<br>patrol
-bip_39_word_new_br_7: grunt<br>cricket<br>seed<br>scene<br>flower<br>patrol<br>impact
-bip_39_word_new_br_8: grunt<br>cricket<br>seed<br>scene<br>flower<br>patrol<br>impact<br>river
-bip_39_word_new_br_9: grunt<br>cricket<br>seed<br>scene<br>flower<br>patrol<br>impact<br>river<br>dirt
-bip_39_word_new_line_1: grunt
-bip_39_word_new_line_10: 'grunt
-
-  cricket
-
-  seed
-
-  scene
-
-  flower
-
-  patrol
-
-  impact
-
-  river
-
-  dirt
-
-  confirm'
-bip_39_word_new_line_11: 'grunt
-
-  cricket
-
-  seed
-
-  scene
-
-  flower
-
-  patrol
-
-  impact
-
-  river
-
-  dirt
-
-  confirm
-
-  helmet'
 bip_39_word_new_line_12: 'grunt
 
   cricket
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'grunt
   cricket
 
   seed'
-bip_39_word_new_line_4: 'grunt
-
-  cricket
-
-  seed
-
-  scene'
-bip_39_word_new_line_5: 'grunt
-
-  cricket
-
-  seed
-
-  scene
-
-  flower'
-bip_39_word_new_line_6: 'grunt
-
-  cricket
-
-  seed
-
-  scene
-
-  flower
-
-  patrol'
-bip_39_word_new_line_7: 'grunt
-
-  cricket
-
-  seed
-
-  scene
-
-  flower
-
-  patrol
-
-  impact'
-bip_39_word_new_line_8: 'grunt
-
-  cricket
-
-  seed
-
-  scene
-
-  flower
-
-  patrol
-
-  impact
-
-  river'
-bip_39_word_new_line_9: 'grunt
-
-  cricket
-
-  seed
-
-  scene
-
-  flower
-
-  patrol
-
-  impact
-
-  river
-
-  dirt'
-bip_39_word_no_space_1: grunt
-bip_39_word_no_space_10: gruntcricketseedsceneflowerpatrolimpactriverdirtconfirm
-bip_39_word_no_space_11: gruntcricketseedsceneflowerpatrolimpactriverdirtconfirmhelmet
 bip_39_word_no_space_12: gruntcricketseedsceneflowerpatrolimpactriverdirtconfirmhelmetarmy
 bip_39_word_no_space_2: gruntcricket
 bip_39_word_no_space_3: gruntcricketseed
-bip_39_word_no_space_4: gruntcricketseedscene
-bip_39_word_no_space_5: gruntcricketseedsceneflower
-bip_39_word_no_space_6: gruntcricketseedsceneflowerpatrol
-bip_39_word_no_space_7: gruntcricketseedsceneflowerpatrolimpact
-bip_39_word_no_space_8: gruntcricketseedsceneflowerpatrolimpactriver
-bip_39_word_no_space_9: gruntcricketseedsceneflowerpatrolimpactriverdirt
-bip_39_word_space_0:
-- grunt
-- cricket
-- seed
-- scene
-- flower
-- patrol
-- impact
-- river
-- dirt
-- confirm
-- helmet
-- army
-bip_39_word_space_1: grunt
-bip_39_word_space_10: grunt cricket seed scene flower patrol impact river dirt confirm
-bip_39_word_space_11: grunt cricket seed scene flower patrol impact river dirt confirm
-  helmet
 bip_39_word_space_12: grunt cricket seed scene flower patrol impact river dirt confirm
   helmet army
 bip_39_word_space_2: grunt cricket
 bip_39_word_space_3: grunt cricket seed
-bip_39_word_space_4: grunt cricket seed scene
-bip_39_word_space_5: grunt cricket seed scene flower
-bip_39_word_space_6: grunt cricket seed scene flower patrol
-bip_39_word_space_7: grunt cricket seed scene flower patrol impact
-bip_39_word_space_8: grunt cricket seed scene flower patrol impact river
-bip_39_word_space_9: grunt cricket seed scene flower patrol impact river dirt
-bip_39_word_underscore_1: grunt
-bip_39_word_underscore_10: grunt_cricket_seed_scene_flower_patrol_impact_river_dirt_confirm
-bip_39_word_underscore_11: grunt_cricket_seed_scene_flower_patrol_impact_river_dirt_confirm_helmet
 bip_39_word_underscore_12: grunt_cricket_seed_scene_flower_patrol_impact_river_dirt_confirm_helmet_army
 bip_39_word_underscore_2: grunt_cricket
 bip_39_word_underscore_3: grunt_cricket_seed
-bip_39_word_underscore_4: grunt_cricket_seed_scene
-bip_39_word_underscore_5: grunt_cricket_seed_scene_flower
-bip_39_word_underscore_6: grunt_cricket_seed_scene_flower_patrol
-bip_39_word_underscore_7: grunt_cricket_seed_scene_flower_patrol_impact
-bip_39_word_underscore_8: grunt_cricket_seed_scene_flower_patrol_impact_river
-bip_39_word_underscore_9: grunt_cricket_seed_scene_flower_patrol_impact_river_dirt
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

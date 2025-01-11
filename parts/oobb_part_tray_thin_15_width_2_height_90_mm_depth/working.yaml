@@ -1,68 +1,9 @@
-bip_39_word_dash_1: detect
-bip_39_word_dash_10: detect-oak-exercise-snack-flip-adult-gorilla-extra-original-track
-bip_39_word_dash_11: detect-oak-exercise-snack-flip-adult-gorilla-extra-original-track-present
 bip_39_word_dash_12: detect-oak-exercise-snack-flip-adult-gorilla-extra-original-track-present-attract
 bip_39_word_dash_2: detect-oak
 bip_39_word_dash_3: detect-oak-exercise
-bip_39_word_dash_4: detect-oak-exercise-snack
-bip_39_word_dash_5: detect-oak-exercise-snack-flip
-bip_39_word_dash_6: detect-oak-exercise-snack-flip-adult
-bip_39_word_dash_7: detect-oak-exercise-snack-flip-adult-gorilla
-bip_39_word_dash_8: detect-oak-exercise-snack-flip-adult-gorilla-extra
-bip_39_word_dash_9: detect-oak-exercise-snack-flip-adult-gorilla-extra-original
-bip_39_word_new_br_1: detect
-bip_39_word_new_br_10: detect<br>oak<br>exercise<br>snack<br>flip<br>adult<br>gorilla<br>extra<br>original<br>track
-bip_39_word_new_br_11: detect<br>oak<br>exercise<br>snack<br>flip<br>adult<br>gorilla<br>extra<br>original<br>track<br>present
 bip_39_word_new_br_12: detect<br>oak<br>exercise<br>snack<br>flip<br>adult<br>gorilla<br>extra<br>original<br>track<br>present<br>attract
 bip_39_word_new_br_2: detect<br>oak
 bip_39_word_new_br_3: detect<br>oak<br>exercise
-bip_39_word_new_br_4: detect<br>oak<br>exercise<br>snack
-bip_39_word_new_br_5: detect<br>oak<br>exercise<br>snack<br>flip
-bip_39_word_new_br_6: detect<br>oak<br>exercise<br>snack<br>flip<br>adult
-bip_39_word_new_br_7: detect<br>oak<br>exercise<br>snack<br>flip<br>adult<br>gorilla
-bip_39_word_new_br_8: detect<br>oak<br>exercise<br>snack<br>flip<br>adult<br>gorilla<br>extra
-bip_39_word_new_br_9: detect<br>oak<br>exercise<br>snack<br>flip<br>adult<br>gorilla<br>extra<br>original
-bip_39_word_new_line_1: detect
-bip_39_word_new_line_10: 'detect
-
-  oak
-
-  exercise
-
-  snack
-
-  flip
-
-  adult
-
-  gorilla
-
-  extra
-
-  original
-
-  track'
-bip_39_word_new_line_11: 'detect
-
-  oak
-
-  exercise
-
-  snack
-
-  flip
-
-  adult
-
-  gorilla
-
-  extra
-
-  original
-
-  track
-
-  present'
 bip_39_word_new_line_12: 'detect
 
   oak
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'detect
   oak
 
   exercise'
-bip_39_word_new_line_4: 'detect
-
-  oak
-
-  exercise
-
-  snack'
-bip_39_word_new_line_5: 'detect
-
-  oak
-
-  exercise
-
-  snack
-
-  flip'
-bip_39_word_new_line_6: 'detect
-
-  oak
-
-  exercise
-
-  snack
-
-  flip
-
-  adult'
-bip_39_word_new_line_7: 'detect
-
-  oak
-
-  exercise
-
-  snack
-
-  flip
-
-  adult
-
-  gorilla'
-bip_39_word_new_line_8: 'detect
-
-  oak
-
-  exercise
-
-  snack
-
-  flip
-
-  adult
-
-  gorilla
-
-  extra'
-bip_39_word_new_line_9: 'detect
-
-  oak
-
-  exercise
-
-  snack
-
-  flip
-
-  adult
-
-  gorilla
-
-  extra
-
-  original'
-bip_39_word_no_space_1: detect
-bip_39_word_no_space_10: detectoakexercisesnackflipadultgorillaextraoriginaltrack
-bip_39_word_no_space_11: detectoakexercisesnackflipadultgorillaextraoriginaltrackpresent
 bip_39_word_no_space_12: detectoakexercisesnackflipadultgorillaextraoriginaltrackpresentattract
 bip_39_word_no_space_2: detectoak
 bip_39_word_no_space_3: detectoakexercise
-bip_39_word_no_space_4: detectoakexercisesnack
-bip_39_word_no_space_5: detectoakexercisesnackflip
-bip_39_word_no_space_6: detectoakexercisesnackflipadult
-bip_39_word_no_space_7: detectoakexercisesnackflipadultgorilla
-bip_39_word_no_space_8: detectoakexercisesnackflipadultgorillaextra
-bip_39_word_no_space_9: detectoakexercisesnackflipadultgorillaextraoriginal
-bip_39_word_space_0:
-- detect
-- oak
-- exercise
-- snack
-- flip
-- adult
-- gorilla
-- extra
-- original
-- track
-- present
-- attract
-bip_39_word_space_1: detect
-bip_39_word_space_10: detect oak exercise snack flip adult gorilla extra original
-  track
-bip_39_word_space_11: detect oak exercise snack flip adult gorilla extra original
-  track present
 bip_39_word_space_12: detect oak exercise snack flip adult gorilla extra original
   track present attract
 bip_39_word_space_2: detect oak
 bip_39_word_space_3: detect oak exercise
-bip_39_word_space_4: detect oak exercise snack
-bip_39_word_space_5: detect oak exercise snack flip
-bip_39_word_space_6: detect oak exercise snack flip adult
-bip_39_word_space_7: detect oak exercise snack flip adult gorilla
-bip_39_word_space_8: detect oak exercise snack flip adult gorilla extra
-bip_39_word_space_9: detect oak exercise snack flip adult gorilla extra original
-bip_39_word_underscore_1: detect
-bip_39_word_underscore_10: detect_oak_exercise_snack_flip_adult_gorilla_extra_original_track
-bip_39_word_underscore_11: detect_oak_exercise_snack_flip_adult_gorilla_extra_original_track_present
 bip_39_word_underscore_12: detect_oak_exercise_snack_flip_adult_gorilla_extra_original_track_present_attract
 bip_39_word_underscore_2: detect_oak
 bip_39_word_underscore_3: detect_oak_exercise
-bip_39_word_underscore_4: detect_oak_exercise_snack
-bip_39_word_underscore_5: detect_oak_exercise_snack_flip
-bip_39_word_underscore_6: detect_oak_exercise_snack_flip_adult
-bip_39_word_underscore_7: detect_oak_exercise_snack_flip_adult_gorilla
-bip_39_word_underscore_8: detect_oak_exercise_snack_flip_adult_gorilla_extra
-bip_39_word_underscore_9: detect_oak_exercise_snack_flip_adult_gorilla_extra_original
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: umbrella
-bip_39_word_dash_10: umbrella-club-fatal-faint-delay-resemble-drive-hill-humble-flip
-bip_39_word_dash_11: umbrella-club-fatal-faint-delay-resemble-drive-hill-humble-flip-ecology
 bip_39_word_dash_12: umbrella-club-fatal-faint-delay-resemble-drive-hill-humble-flip-ecology-apology
 bip_39_word_dash_2: umbrella-club
 bip_39_word_dash_3: umbrella-club-fatal
-bip_39_word_dash_4: umbrella-club-fatal-faint
-bip_39_word_dash_5: umbrella-club-fatal-faint-delay
-bip_39_word_dash_6: umbrella-club-fatal-faint-delay-resemble
-bip_39_word_dash_7: umbrella-club-fatal-faint-delay-resemble-drive
-bip_39_word_dash_8: umbrella-club-fatal-faint-delay-resemble-drive-hill
-bip_39_word_dash_9: umbrella-club-fatal-faint-delay-resemble-drive-hill-humble
-bip_39_word_new_br_1: umbrella
-bip_39_word_new_br_10: umbrella<br>club<br>fatal<br>faint<br>delay<br>resemble<br>drive<br>hill<br>humble<br>flip
-bip_39_word_new_br_11: umbrella<br>club<br>fatal<br>faint<br>delay<br>resemble<br>drive<br>hill<br>humble<br>flip<br>ecology
 bip_39_word_new_br_12: umbrella<br>club<br>fatal<br>faint<br>delay<br>resemble<br>drive<br>hill<br>humble<br>flip<br>ecology<br>apology
 bip_39_word_new_br_2: umbrella<br>club
 bip_39_word_new_br_3: umbrella<br>club<br>fatal
-bip_39_word_new_br_4: umbrella<br>club<br>fatal<br>faint
-bip_39_word_new_br_5: umbrella<br>club<br>fatal<br>faint<br>delay
-bip_39_word_new_br_6: umbrella<br>club<br>fatal<br>faint<br>delay<br>resemble
-bip_39_word_new_br_7: umbrella<br>club<br>fatal<br>faint<br>delay<br>resemble<br>drive
-bip_39_word_new_br_8: umbrella<br>club<br>fatal<br>faint<br>delay<br>resemble<br>drive<br>hill
-bip_39_word_new_br_9: umbrella<br>club<br>fatal<br>faint<br>delay<br>resemble<br>drive<br>hill<br>humble
-bip_39_word_new_line_1: umbrella
-bip_39_word_new_line_10: 'umbrella
-
-  club
-
-  fatal
-
-  faint
-
-  delay
-
-  resemble
-
-  drive
-
-  hill
-
-  humble
-
-  flip'
-bip_39_word_new_line_11: 'umbrella
-
-  club
-
-  fatal
-
-  faint
-
-  delay
-
-  resemble
-
-  drive
-
-  hill
-
-  humble
-
-  flip
-
-  ecology'
 bip_39_word_new_line_12: 'umbrella
 
   club
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'umbrella
   club
 
   fatal'
-bip_39_word_new_line_4: 'umbrella
-
-  club
-
-  fatal
-
-  faint'
-bip_39_word_new_line_5: 'umbrella
-
-  club
-
-  fatal
-
-  faint
-
-  delay'
-bip_39_word_new_line_6: 'umbrella
-
-  club
-
-  fatal
-
-  faint
-
-  delay
-
-  resemble'
-bip_39_word_new_line_7: 'umbrella
-
-  club
-
-  fatal
-
-  faint
-
-  delay
-
-  resemble
-
-  drive'
-bip_39_word_new_line_8: 'umbrella
-
-  club
-
-  fatal
-
-  faint
-
-  delay
-
-  resemble
-
-  drive
-
-  hill'
-bip_39_word_new_line_9: 'umbrella
-
-  club
-
-  fatal
-
-  faint
-
-  delay
-
-  resemble
-
-  drive
-
-  hill
-
-  humble'
-bip_39_word_no_space_1: umbrella
-bip_39_word_no_space_10: umbrellaclubfatalfaintdelayresembledrivehillhumbleflip
-bip_39_word_no_space_11: umbrellaclubfatalfaintdelayresembledrivehillhumbleflipecology
 bip_39_word_no_space_12: umbrellaclubfatalfaintdelayresembledrivehillhumbleflipecologyapology
 bip_39_word_no_space_2: umbrellaclub
 bip_39_word_no_space_3: umbrellaclubfatal
-bip_39_word_no_space_4: umbrellaclubfatalfaint
-bip_39_word_no_space_5: umbrellaclubfatalfaintdelay
-bip_39_word_no_space_6: umbrellaclubfatalfaintdelayresemble
-bip_39_word_no_space_7: umbrellaclubfatalfaintdelayresembledrive
-bip_39_word_no_space_8: umbrellaclubfatalfaintdelayresembledrivehill
-bip_39_word_no_space_9: umbrellaclubfatalfaintdelayresembledrivehillhumble
-bip_39_word_space_0:
-- umbrella
-- club
-- fatal
-- faint
-- delay
-- resemble
-- drive
-- hill
-- humble
-- flip
-- ecology
-- apology
-bip_39_word_space_1: umbrella
-bip_39_word_space_10: umbrella club fatal faint delay resemble drive hill humble flip
-bip_39_word_space_11: umbrella club fatal faint delay resemble drive hill humble flip
-  ecology
 bip_39_word_space_12: umbrella club fatal faint delay resemble drive hill humble flip
   ecology apology
 bip_39_word_space_2: umbrella club
 bip_39_word_space_3: umbrella club fatal
-bip_39_word_space_4: umbrella club fatal faint
-bip_39_word_space_5: umbrella club fatal faint delay
-bip_39_word_space_6: umbrella club fatal faint delay resemble
-bip_39_word_space_7: umbrella club fatal faint delay resemble drive
-bip_39_word_space_8: umbrella club fatal faint delay resemble drive hill
-bip_39_word_space_9: umbrella club fatal faint delay resemble drive hill humble
-bip_39_word_underscore_1: umbrella
-bip_39_word_underscore_10: umbrella_club_fatal_faint_delay_resemble_drive_hill_humble_flip
-bip_39_word_underscore_11: umbrella_club_fatal_faint_delay_resemble_drive_hill_humble_flip_ecology
 bip_39_word_underscore_12: umbrella_club_fatal_faint_delay_resemble_drive_hill_humble_flip_ecology_apology
 bip_39_word_underscore_2: umbrella_club
 bip_39_word_underscore_3: umbrella_club_fatal
-bip_39_word_underscore_4: umbrella_club_fatal_faint
-bip_39_word_underscore_5: umbrella_club_fatal_faint_delay
-bip_39_word_underscore_6: umbrella_club_fatal_faint_delay_resemble
-bip_39_word_underscore_7: umbrella_club_fatal_faint_delay_resemble_drive
-bip_39_word_underscore_8: umbrella_club_fatal_faint_delay_resemble_drive_hill
-bip_39_word_underscore_9: umbrella_club_fatal_faint_delay_resemble_drive_hill_humble
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: people
-bip_39_word_dash_10: people-north-skill-ability-another-flavor-math-carry-method-entry
-bip_39_word_dash_11: people-north-skill-ability-another-flavor-math-carry-method-entry-result
 bip_39_word_dash_12: people-north-skill-ability-another-flavor-math-carry-method-entry-result-acid
 bip_39_word_dash_2: people-north
 bip_39_word_dash_3: people-north-skill
-bip_39_word_dash_4: people-north-skill-ability
-bip_39_word_dash_5: people-north-skill-ability-another
-bip_39_word_dash_6: people-north-skill-ability-another-flavor
-bip_39_word_dash_7: people-north-skill-ability-another-flavor-math
-bip_39_word_dash_8: people-north-skill-ability-another-flavor-math-carry
-bip_39_word_dash_9: people-north-skill-ability-another-flavor-math-carry-method
-bip_39_word_new_br_1: people
-bip_39_word_new_br_10: people<br>north<br>skill<br>ability<br>another<br>flavor<br>math<br>carry<br>method<br>entry
-bip_39_word_new_br_11: people<br>north<br>skill<br>ability<br>another<br>flavor<br>math<br>carry<br>method<br>entry<br>result
 bip_39_word_new_br_12: people<br>north<br>skill<br>ability<br>another<br>flavor<br>math<br>carry<br>method<br>entry<br>result<br>acid
 bip_39_word_new_br_2: people<br>north
 bip_39_word_new_br_3: people<br>north<br>skill
-bip_39_word_new_br_4: people<br>north<br>skill<br>ability
-bip_39_word_new_br_5: people<br>north<br>skill<br>ability<br>another
-bip_39_word_new_br_6: people<br>north<br>skill<br>ability<br>another<br>flavor
-bip_39_word_new_br_7: people<br>north<br>skill<br>ability<br>another<br>flavor<br>math
-bip_39_word_new_br_8: people<br>north<br>skill<br>ability<br>another<br>flavor<br>math<br>carry
-bip_39_word_new_br_9: people<br>north<br>skill<br>ability<br>another<br>flavor<br>math<br>carry<br>method
-bip_39_word_new_line_1: people
-bip_39_word_new_line_10: 'people
-
-  north
-
-  skill
-
-  ability
-
-  another
-
-  flavor
-
-  math
-
-  carry
-
-  method
-
-  entry'
-bip_39_word_new_line_11: 'people
-
-  north
-
-  skill
-
-  ability
-
-  another
-
-  flavor
-
-  math
-
-  carry
-
-  method
-
-  entry
-
-  result'
 bip_39_word_new_line_12: 'people
 
   north
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'people
   north
 
   skill'
-bip_39_word_new_line_4: 'people
-
-  north
-
-  skill
-
-  ability'
-bip_39_word_new_line_5: 'people
-
-  north
-
-  skill
-
-  ability
-
-  another'
-bip_39_word_new_line_6: 'people
-
-  north
-
-  skill
-
-  ability
-
-  another
-
-  flavor'
-bip_39_word_new_line_7: 'people
-
-  north
-
-  skill
-
-  ability
-
-  another
-
-  flavor
-
-  math'
-bip_39_word_new_line_8: 'people
-
-  north
-
-  skill
-
-  ability
-
-  another
-
-  flavor
-
-  math
-
-  carry'
-bip_39_word_new_line_9: 'people
-
-  north
-
-  skill
-
-  ability
-
-  another
-
-  flavor
-
-  math
-
-  carry
-
-  method'
-bip_39_word_no_space_1: people
-bip_39_word_no_space_10: peoplenorthskillabilityanotherflavormathcarrymethodentry
-bip_39_word_no_space_11: peoplenorthskillabilityanotherflavormathcarrymethodentryresult
 bip_39_word_no_space_12: peoplenorthskillabilityanotherflavormathcarrymethodentryresultacid
 bip_39_word_no_space_2: peoplenorth
 bip_39_word_no_space_3: peoplenorthskill
-bip_39_word_no_space_4: peoplenorthskillability
-bip_39_word_no_space_5: peoplenorthskillabilityanother
-bip_39_word_no_space_6: peoplenorthskillabilityanotherflavor
-bip_39_word_no_space_7: peoplenorthskillabilityanotherflavormath
-bip_39_word_no_space_8: peoplenorthskillabilityanotherflavormathcarry
-bip_39_word_no_space_9: peoplenorthskillabilityanotherflavormathcarrymethod
-bip_39_word_space_0:
-- people
-- north
-- skill
-- ability
-- another
-- flavor
-- math
-- carry
-- method
-- entry
-- result
-- acid
-bip_39_word_space_1: people
-bip_39_word_space_10: people north skill ability another flavor math carry method
-  entry
-bip_39_word_space_11: people north skill ability another flavor math carry method
-  entry result
 bip_39_word_space_12: people north skill ability another flavor math carry method
   entry result acid
 bip_39_word_space_2: people north
 bip_39_word_space_3: people north skill
-bip_39_word_space_4: people north skill ability
-bip_39_word_space_5: people north skill ability another
-bip_39_word_space_6: people north skill ability another flavor
-bip_39_word_space_7: people north skill ability another flavor math
-bip_39_word_space_8: people north skill ability another flavor math carry
-bip_39_word_space_9: people north skill ability another flavor math carry method
-bip_39_word_underscore_1: people
-bip_39_word_underscore_10: people_north_skill_ability_another_flavor_math_carry_method_entry
-bip_39_word_underscore_11: people_north_skill_ability_another_flavor_math_carry_method_entry_result
 bip_39_word_underscore_12: people_north_skill_ability_another_flavor_math_carry_method_entry_result_acid
 bip_39_word_underscore_2: people_north
 bip_39_word_underscore_3: people_north_skill
-bip_39_word_underscore_4: people_north_skill_ability
-bip_39_word_underscore_5: people_north_skill_ability_another
-bip_39_word_underscore_6: people_north_skill_ability_another_flavor
-bip_39_word_underscore_7: people_north_skill_ability_another_flavor_math
-bip_39_word_underscore_8: people_north_skill_ability_another_flavor_math_carry
-bip_39_word_underscore_9: people_north_skill_ability_another_flavor_math_carry_method
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

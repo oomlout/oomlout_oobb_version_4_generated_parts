@@ -1,68 +1,9 @@
-bip_39_word_dash_1: alert
-bip_39_word_dash_10: alert-gown-baby-syrup-egg-weapon-blush-climb-silly-unaware
-bip_39_word_dash_11: alert-gown-baby-syrup-egg-weapon-blush-climb-silly-unaware-antique
 bip_39_word_dash_12: alert-gown-baby-syrup-egg-weapon-blush-climb-silly-unaware-antique-actress
 bip_39_word_dash_2: alert-gown
 bip_39_word_dash_3: alert-gown-baby
-bip_39_word_dash_4: alert-gown-baby-syrup
-bip_39_word_dash_5: alert-gown-baby-syrup-egg
-bip_39_word_dash_6: alert-gown-baby-syrup-egg-weapon
-bip_39_word_dash_7: alert-gown-baby-syrup-egg-weapon-blush
-bip_39_word_dash_8: alert-gown-baby-syrup-egg-weapon-blush-climb
-bip_39_word_dash_9: alert-gown-baby-syrup-egg-weapon-blush-climb-silly
-bip_39_word_new_br_1: alert
-bip_39_word_new_br_10: alert<br>gown<br>baby<br>syrup<br>egg<br>weapon<br>blush<br>climb<br>silly<br>unaware
-bip_39_word_new_br_11: alert<br>gown<br>baby<br>syrup<br>egg<br>weapon<br>blush<br>climb<br>silly<br>unaware<br>antique
 bip_39_word_new_br_12: alert<br>gown<br>baby<br>syrup<br>egg<br>weapon<br>blush<br>climb<br>silly<br>unaware<br>antique<br>actress
 bip_39_word_new_br_2: alert<br>gown
 bip_39_word_new_br_3: alert<br>gown<br>baby
-bip_39_word_new_br_4: alert<br>gown<br>baby<br>syrup
-bip_39_word_new_br_5: alert<br>gown<br>baby<br>syrup<br>egg
-bip_39_word_new_br_6: alert<br>gown<br>baby<br>syrup<br>egg<br>weapon
-bip_39_word_new_br_7: alert<br>gown<br>baby<br>syrup<br>egg<br>weapon<br>blush
-bip_39_word_new_br_8: alert<br>gown<br>baby<br>syrup<br>egg<br>weapon<br>blush<br>climb
-bip_39_word_new_br_9: alert<br>gown<br>baby<br>syrup<br>egg<br>weapon<br>blush<br>climb<br>silly
-bip_39_word_new_line_1: alert
-bip_39_word_new_line_10: 'alert
-
-  gown
-
-  baby
-
-  syrup
-
-  egg
-
-  weapon
-
-  blush
-
-  climb
-
-  silly
-
-  unaware'
-bip_39_word_new_line_11: 'alert
-
-  gown
-
-  baby
-
-  syrup
-
-  egg
-
-  weapon
-
-  blush
-
-  climb
-
-  silly
-
-  unaware
-
-  antique'
 bip_39_word_new_line_12: 'alert
 
   gown
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'alert
   gown
 
   baby'
-bip_39_word_new_line_4: 'alert
-
-  gown
-
-  baby
-
-  syrup'
-bip_39_word_new_line_5: 'alert
-
-  gown
-
-  baby
-
-  syrup
-
-  egg'
-bip_39_word_new_line_6: 'alert
-
-  gown
-
-  baby
-
-  syrup
-
-  egg
-
-  weapon'
-bip_39_word_new_line_7: 'alert
-
-  gown
-
-  baby
-
-  syrup
-
-  egg
-
-  weapon
-
-  blush'
-bip_39_word_new_line_8: 'alert
-
-  gown
-
-  baby
-
-  syrup
-
-  egg
-
-  weapon
-
-  blush
-
-  climb'
-bip_39_word_new_line_9: 'alert
-
-  gown
-
-  baby
-
-  syrup
-
-  egg
-
-  weapon
-
-  blush
-
-  climb
-
-  silly'
-bip_39_word_no_space_1: alert
-bip_39_word_no_space_10: alertgownbabysyrupeggweaponblushclimbsillyunaware
-bip_39_word_no_space_11: alertgownbabysyrupeggweaponblushclimbsillyunawareantique
 bip_39_word_no_space_12: alertgownbabysyrupeggweaponblushclimbsillyunawareantiqueactress
 bip_39_word_no_space_2: alertgown
 bip_39_word_no_space_3: alertgownbaby
-bip_39_word_no_space_4: alertgownbabysyrup
-bip_39_word_no_space_5: alertgownbabysyrupegg
-bip_39_word_no_space_6: alertgownbabysyrupeggweapon
-bip_39_word_no_space_7: alertgownbabysyrupeggweaponblush
-bip_39_word_no_space_8: alertgownbabysyrupeggweaponblushclimb
-bip_39_word_no_space_9: alertgownbabysyrupeggweaponblushclimbsilly
-bip_39_word_space_0:
-- alert
-- gown
-- baby
-- syrup
-- egg
-- weapon
-- blush
-- climb
-- silly
-- unaware
-- antique
-- actress
-bip_39_word_space_1: alert
-bip_39_word_space_10: alert gown baby syrup egg weapon blush climb silly unaware
-bip_39_word_space_11: alert gown baby syrup egg weapon blush climb silly unaware antique
 bip_39_word_space_12: alert gown baby syrup egg weapon blush climb silly unaware antique
   actress
 bip_39_word_space_2: alert gown
 bip_39_word_space_3: alert gown baby
-bip_39_word_space_4: alert gown baby syrup
-bip_39_word_space_5: alert gown baby syrup egg
-bip_39_word_space_6: alert gown baby syrup egg weapon
-bip_39_word_space_7: alert gown baby syrup egg weapon blush
-bip_39_word_space_8: alert gown baby syrup egg weapon blush climb
-bip_39_word_space_9: alert gown baby syrup egg weapon blush climb silly
-bip_39_word_underscore_1: alert
-bip_39_word_underscore_10: alert_gown_baby_syrup_egg_weapon_blush_climb_silly_unaware
-bip_39_word_underscore_11: alert_gown_baby_syrup_egg_weapon_blush_climb_silly_unaware_antique
 bip_39_word_underscore_12: alert_gown_baby_syrup_egg_weapon_blush_climb_silly_unaware_antique_actress
 bip_39_word_underscore_2: alert_gown
 bip_39_word_underscore_3: alert_gown_baby
-bip_39_word_underscore_4: alert_gown_baby_syrup
-bip_39_word_underscore_5: alert_gown_baby_syrup_egg
-bip_39_word_underscore_6: alert_gown_baby_syrup_egg_weapon
-bip_39_word_underscore_7: alert_gown_baby_syrup_egg_weapon_blush
-bip_39_word_underscore_8: alert_gown_baby_syrup_egg_weapon_blush_climb
-bip_39_word_underscore_9: alert_gown_baby_syrup_egg_weapon_blush_climb_silly
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

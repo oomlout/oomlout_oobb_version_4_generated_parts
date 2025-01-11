@@ -1,68 +1,9 @@
-bip_39_word_dash_1: gate
-bip_39_word_dash_10: gate-cliff-tennis-wife-multiply-leader-buddy-knock-snow-winner
-bip_39_word_dash_11: gate-cliff-tennis-wife-multiply-leader-buddy-knock-snow-winner-sell
 bip_39_word_dash_12: gate-cliff-tennis-wife-multiply-leader-buddy-knock-snow-winner-sell-aisle
 bip_39_word_dash_2: gate-cliff
 bip_39_word_dash_3: gate-cliff-tennis
-bip_39_word_dash_4: gate-cliff-tennis-wife
-bip_39_word_dash_5: gate-cliff-tennis-wife-multiply
-bip_39_word_dash_6: gate-cliff-tennis-wife-multiply-leader
-bip_39_word_dash_7: gate-cliff-tennis-wife-multiply-leader-buddy
-bip_39_word_dash_8: gate-cliff-tennis-wife-multiply-leader-buddy-knock
-bip_39_word_dash_9: gate-cliff-tennis-wife-multiply-leader-buddy-knock-snow
-bip_39_word_new_br_1: gate
-bip_39_word_new_br_10: gate<br>cliff<br>tennis<br>wife<br>multiply<br>leader<br>buddy<br>knock<br>snow<br>winner
-bip_39_word_new_br_11: gate<br>cliff<br>tennis<br>wife<br>multiply<br>leader<br>buddy<br>knock<br>snow<br>winner<br>sell
 bip_39_word_new_br_12: gate<br>cliff<br>tennis<br>wife<br>multiply<br>leader<br>buddy<br>knock<br>snow<br>winner<br>sell<br>aisle
 bip_39_word_new_br_2: gate<br>cliff
 bip_39_word_new_br_3: gate<br>cliff<br>tennis
-bip_39_word_new_br_4: gate<br>cliff<br>tennis<br>wife
-bip_39_word_new_br_5: gate<br>cliff<br>tennis<br>wife<br>multiply
-bip_39_word_new_br_6: gate<br>cliff<br>tennis<br>wife<br>multiply<br>leader
-bip_39_word_new_br_7: gate<br>cliff<br>tennis<br>wife<br>multiply<br>leader<br>buddy
-bip_39_word_new_br_8: gate<br>cliff<br>tennis<br>wife<br>multiply<br>leader<br>buddy<br>knock
-bip_39_word_new_br_9: gate<br>cliff<br>tennis<br>wife<br>multiply<br>leader<br>buddy<br>knock<br>snow
-bip_39_word_new_line_1: gate
-bip_39_word_new_line_10: 'gate
-
-  cliff
-
-  tennis
-
-  wife
-
-  multiply
-
-  leader
-
-  buddy
-
-  knock
-
-  snow
-
-  winner'
-bip_39_word_new_line_11: 'gate
-
-  cliff
-
-  tennis
-
-  wife
-
-  multiply
-
-  leader
-
-  buddy
-
-  knock
-
-  snow
-
-  winner
-
-  sell'
 bip_39_word_new_line_12: 'gate
 
   cliff
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'gate
   cliff
 
   tennis'
-bip_39_word_new_line_4: 'gate
-
-  cliff
-
-  tennis
-
-  wife'
-bip_39_word_new_line_5: 'gate
-
-  cliff
-
-  tennis
-
-  wife
-
-  multiply'
-bip_39_word_new_line_6: 'gate
-
-  cliff
-
-  tennis
-
-  wife
-
-  multiply
-
-  leader'
-bip_39_word_new_line_7: 'gate
-
-  cliff
-
-  tennis
-
-  wife
-
-  multiply
-
-  leader
-
-  buddy'
-bip_39_word_new_line_8: 'gate
-
-  cliff
-
-  tennis
-
-  wife
-
-  multiply
-
-  leader
-
-  buddy
-
-  knock'
-bip_39_word_new_line_9: 'gate
-
-  cliff
-
-  tennis
-
-  wife
-
-  multiply
-
-  leader
-
-  buddy
-
-  knock
-
-  snow'
-bip_39_word_no_space_1: gate
-bip_39_word_no_space_10: gateclifftenniswifemultiplyleaderbuddyknocksnowwinner
-bip_39_word_no_space_11: gateclifftenniswifemultiplyleaderbuddyknocksnowwinnersell
 bip_39_word_no_space_12: gateclifftenniswifemultiplyleaderbuddyknocksnowwinnersellaisle
 bip_39_word_no_space_2: gatecliff
 bip_39_word_no_space_3: gateclifftennis
-bip_39_word_no_space_4: gateclifftenniswife
-bip_39_word_no_space_5: gateclifftenniswifemultiply
-bip_39_word_no_space_6: gateclifftenniswifemultiplyleader
-bip_39_word_no_space_7: gateclifftenniswifemultiplyleaderbuddy
-bip_39_word_no_space_8: gateclifftenniswifemultiplyleaderbuddyknock
-bip_39_word_no_space_9: gateclifftenniswifemultiplyleaderbuddyknocksnow
-bip_39_word_space_0:
-- gate
-- cliff
-- tennis
-- wife
-- multiply
-- leader
-- buddy
-- knock
-- snow
-- winner
-- sell
-- aisle
-bip_39_word_space_1: gate
-bip_39_word_space_10: gate cliff tennis wife multiply leader buddy knock snow winner
-bip_39_word_space_11: gate cliff tennis wife multiply leader buddy knock snow winner
-  sell
 bip_39_word_space_12: gate cliff tennis wife multiply leader buddy knock snow winner
   sell aisle
 bip_39_word_space_2: gate cliff
 bip_39_word_space_3: gate cliff tennis
-bip_39_word_space_4: gate cliff tennis wife
-bip_39_word_space_5: gate cliff tennis wife multiply
-bip_39_word_space_6: gate cliff tennis wife multiply leader
-bip_39_word_space_7: gate cliff tennis wife multiply leader buddy
-bip_39_word_space_8: gate cliff tennis wife multiply leader buddy knock
-bip_39_word_space_9: gate cliff tennis wife multiply leader buddy knock snow
-bip_39_word_underscore_1: gate
-bip_39_word_underscore_10: gate_cliff_tennis_wife_multiply_leader_buddy_knock_snow_winner
-bip_39_word_underscore_11: gate_cliff_tennis_wife_multiply_leader_buddy_knock_snow_winner_sell
 bip_39_word_underscore_12: gate_cliff_tennis_wife_multiply_leader_buddy_knock_snow_winner_sell_aisle
 bip_39_word_underscore_2: gate_cliff
 bip_39_word_underscore_3: gate_cliff_tennis
-bip_39_word_underscore_4: gate_cliff_tennis_wife
-bip_39_word_underscore_5: gate_cliff_tennis_wife_multiply
-bip_39_word_underscore_6: gate_cliff_tennis_wife_multiply_leader
-bip_39_word_underscore_7: gate_cliff_tennis_wife_multiply_leader_buddy
-bip_39_word_underscore_8: gate_cliff_tennis_wife_multiply_leader_buddy_knock
-bip_39_word_underscore_9: gate_cliff_tennis_wife_multiply_leader_buddy_knock_snow
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

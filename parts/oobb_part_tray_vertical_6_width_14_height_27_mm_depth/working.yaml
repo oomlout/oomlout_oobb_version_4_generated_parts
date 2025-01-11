@@ -1,68 +1,9 @@
-bip_39_word_dash_1: rough
-bip_39_word_dash_10: rough-just-scissors-giraffe-steak-purse-play-laptop-room-brick
-bip_39_word_dash_11: rough-just-scissors-giraffe-steak-purse-play-laptop-room-brick-coin
 bip_39_word_dash_12: rough-just-scissors-giraffe-steak-purse-play-laptop-room-brick-coin-average
 bip_39_word_dash_2: rough-just
 bip_39_word_dash_3: rough-just-scissors
-bip_39_word_dash_4: rough-just-scissors-giraffe
-bip_39_word_dash_5: rough-just-scissors-giraffe-steak
-bip_39_word_dash_6: rough-just-scissors-giraffe-steak-purse
-bip_39_word_dash_7: rough-just-scissors-giraffe-steak-purse-play
-bip_39_word_dash_8: rough-just-scissors-giraffe-steak-purse-play-laptop
-bip_39_word_dash_9: rough-just-scissors-giraffe-steak-purse-play-laptop-room
-bip_39_word_new_br_1: rough
-bip_39_word_new_br_10: rough<br>just<br>scissors<br>giraffe<br>steak<br>purse<br>play<br>laptop<br>room<br>brick
-bip_39_word_new_br_11: rough<br>just<br>scissors<br>giraffe<br>steak<br>purse<br>play<br>laptop<br>room<br>brick<br>coin
 bip_39_word_new_br_12: rough<br>just<br>scissors<br>giraffe<br>steak<br>purse<br>play<br>laptop<br>room<br>brick<br>coin<br>average
 bip_39_word_new_br_2: rough<br>just
 bip_39_word_new_br_3: rough<br>just<br>scissors
-bip_39_word_new_br_4: rough<br>just<br>scissors<br>giraffe
-bip_39_word_new_br_5: rough<br>just<br>scissors<br>giraffe<br>steak
-bip_39_word_new_br_6: rough<br>just<br>scissors<br>giraffe<br>steak<br>purse
-bip_39_word_new_br_7: rough<br>just<br>scissors<br>giraffe<br>steak<br>purse<br>play
-bip_39_word_new_br_8: rough<br>just<br>scissors<br>giraffe<br>steak<br>purse<br>play<br>laptop
-bip_39_word_new_br_9: rough<br>just<br>scissors<br>giraffe<br>steak<br>purse<br>play<br>laptop<br>room
-bip_39_word_new_line_1: rough
-bip_39_word_new_line_10: 'rough
-
-  just
-
-  scissors
-
-  giraffe
-
-  steak
-
-  purse
-
-  play
-
-  laptop
-
-  room
-
-  brick'
-bip_39_word_new_line_11: 'rough
-
-  just
-
-  scissors
-
-  giraffe
-
-  steak
-
-  purse
-
-  play
-
-  laptop
-
-  room
-
-  brick
-
-  coin'
 bip_39_word_new_line_12: 'rough
 
   just
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'rough
   just
 
   scissors'
-bip_39_word_new_line_4: 'rough
-
-  just
-
-  scissors
-
-  giraffe'
-bip_39_word_new_line_5: 'rough
-
-  just
-
-  scissors
-
-  giraffe
-
-  steak'
-bip_39_word_new_line_6: 'rough
-
-  just
-
-  scissors
-
-  giraffe
-
-  steak
-
-  purse'
-bip_39_word_new_line_7: 'rough
-
-  just
-
-  scissors
-
-  giraffe
-
-  steak
-
-  purse
-
-  play'
-bip_39_word_new_line_8: 'rough
-
-  just
-
-  scissors
-
-  giraffe
-
-  steak
-
-  purse
-
-  play
-
-  laptop'
-bip_39_word_new_line_9: 'rough
-
-  just
-
-  scissors
-
-  giraffe
-
-  steak
-
-  purse
-
-  play
-
-  laptop
-
-  room'
-bip_39_word_no_space_1: rough
-bip_39_word_no_space_10: roughjustscissorsgiraffesteakpurseplaylaptoproombrick
-bip_39_word_no_space_11: roughjustscissorsgiraffesteakpurseplaylaptoproombrickcoin
 bip_39_word_no_space_12: roughjustscissorsgiraffesteakpurseplaylaptoproombrickcoinaverage
 bip_39_word_no_space_2: roughjust
 bip_39_word_no_space_3: roughjustscissors
-bip_39_word_no_space_4: roughjustscissorsgiraffe
-bip_39_word_no_space_5: roughjustscissorsgiraffesteak
-bip_39_word_no_space_6: roughjustscissorsgiraffesteakpurse
-bip_39_word_no_space_7: roughjustscissorsgiraffesteakpurseplay
-bip_39_word_no_space_8: roughjustscissorsgiraffesteakpurseplaylaptop
-bip_39_word_no_space_9: roughjustscissorsgiraffesteakpurseplaylaptoproom
-bip_39_word_space_0:
-- rough
-- just
-- scissors
-- giraffe
-- steak
-- purse
-- play
-- laptop
-- room
-- brick
-- coin
-- average
-bip_39_word_space_1: rough
-bip_39_word_space_10: rough just scissors giraffe steak purse play laptop room brick
-bip_39_word_space_11: rough just scissors giraffe steak purse play laptop room brick
-  coin
 bip_39_word_space_12: rough just scissors giraffe steak purse play laptop room brick
   coin average
 bip_39_word_space_2: rough just
 bip_39_word_space_3: rough just scissors
-bip_39_word_space_4: rough just scissors giraffe
-bip_39_word_space_5: rough just scissors giraffe steak
-bip_39_word_space_6: rough just scissors giraffe steak purse
-bip_39_word_space_7: rough just scissors giraffe steak purse play
-bip_39_word_space_8: rough just scissors giraffe steak purse play laptop
-bip_39_word_space_9: rough just scissors giraffe steak purse play laptop room
-bip_39_word_underscore_1: rough
-bip_39_word_underscore_10: rough_just_scissors_giraffe_steak_purse_play_laptop_room_brick
-bip_39_word_underscore_11: rough_just_scissors_giraffe_steak_purse_play_laptop_room_brick_coin
 bip_39_word_underscore_12: rough_just_scissors_giraffe_steak_purse_play_laptop_room_brick_coin_average
 bip_39_word_underscore_2: rough_just
 bip_39_word_underscore_3: rough_just_scissors
-bip_39_word_underscore_4: rough_just_scissors_giraffe
-bip_39_word_underscore_5: rough_just_scissors_giraffe_steak
-bip_39_word_underscore_6: rough_just_scissors_giraffe_steak_purse
-bip_39_word_underscore_7: rough_just_scissors_giraffe_steak_purse_play
-bip_39_word_underscore_8: rough_just_scissors_giraffe_steak_purse_play_laptop
-bip_39_word_underscore_9: rough_just_scissors_giraffe_steak_purse_play_laptop_room
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: unlock
-bip_39_word_dash_10: unlock-used-combine-occur-flight-loop-gap-harvest-vault-bronze
-bip_39_word_dash_11: unlock-used-combine-occur-flight-loop-gap-harvest-vault-bronze-similar
 bip_39_word_dash_12: unlock-used-combine-occur-flight-loop-gap-harvest-vault-bronze-similar-alley
 bip_39_word_dash_2: unlock-used
 bip_39_word_dash_3: unlock-used-combine
-bip_39_word_dash_4: unlock-used-combine-occur
-bip_39_word_dash_5: unlock-used-combine-occur-flight
-bip_39_word_dash_6: unlock-used-combine-occur-flight-loop
-bip_39_word_dash_7: unlock-used-combine-occur-flight-loop-gap
-bip_39_word_dash_8: unlock-used-combine-occur-flight-loop-gap-harvest
-bip_39_word_dash_9: unlock-used-combine-occur-flight-loop-gap-harvest-vault
-bip_39_word_new_br_1: unlock
-bip_39_word_new_br_10: unlock<br>used<br>combine<br>occur<br>flight<br>loop<br>gap<br>harvest<br>vault<br>bronze
-bip_39_word_new_br_11: unlock<br>used<br>combine<br>occur<br>flight<br>loop<br>gap<br>harvest<br>vault<br>bronze<br>similar
 bip_39_word_new_br_12: unlock<br>used<br>combine<br>occur<br>flight<br>loop<br>gap<br>harvest<br>vault<br>bronze<br>similar<br>alley
 bip_39_word_new_br_2: unlock<br>used
 bip_39_word_new_br_3: unlock<br>used<br>combine
-bip_39_word_new_br_4: unlock<br>used<br>combine<br>occur
-bip_39_word_new_br_5: unlock<br>used<br>combine<br>occur<br>flight
-bip_39_word_new_br_6: unlock<br>used<br>combine<br>occur<br>flight<br>loop
-bip_39_word_new_br_7: unlock<br>used<br>combine<br>occur<br>flight<br>loop<br>gap
-bip_39_word_new_br_8: unlock<br>used<br>combine<br>occur<br>flight<br>loop<br>gap<br>harvest
-bip_39_word_new_br_9: unlock<br>used<br>combine<br>occur<br>flight<br>loop<br>gap<br>harvest<br>vault
-bip_39_word_new_line_1: unlock
-bip_39_word_new_line_10: 'unlock
-
-  used
-
-  combine
-
-  occur
-
-  flight
-
-  loop
-
-  gap
-
-  harvest
-
-  vault
-
-  bronze'
-bip_39_word_new_line_11: 'unlock
-
-  used
-
-  combine
-
-  occur
-
-  flight
-
-  loop
-
-  gap
-
-  harvest
-
-  vault
-
-  bronze
-
-  similar'
 bip_39_word_new_line_12: 'unlock
 
   used
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'unlock
   used
 
   combine'
-bip_39_word_new_line_4: 'unlock
-
-  used
-
-  combine
-
-  occur'
-bip_39_word_new_line_5: 'unlock
-
-  used
-
-  combine
-
-  occur
-
-  flight'
-bip_39_word_new_line_6: 'unlock
-
-  used
-
-  combine
-
-  occur
-
-  flight
-
-  loop'
-bip_39_word_new_line_7: 'unlock
-
-  used
-
-  combine
-
-  occur
-
-  flight
-
-  loop
-
-  gap'
-bip_39_word_new_line_8: 'unlock
-
-  used
-
-  combine
-
-  occur
-
-  flight
-
-  loop
-
-  gap
-
-  harvest'
-bip_39_word_new_line_9: 'unlock
-
-  used
-
-  combine
-
-  occur
-
-  flight
-
-  loop
-
-  gap
-
-  harvest
-
-  vault'
-bip_39_word_no_space_1: unlock
-bip_39_word_no_space_10: unlockusedcombineoccurflightloopgapharvestvaultbronze
-bip_39_word_no_space_11: unlockusedcombineoccurflightloopgapharvestvaultbronzesimilar
 bip_39_word_no_space_12: unlockusedcombineoccurflightloopgapharvestvaultbronzesimilaralley
 bip_39_word_no_space_2: unlockused
 bip_39_word_no_space_3: unlockusedcombine
-bip_39_word_no_space_4: unlockusedcombineoccur
-bip_39_word_no_space_5: unlockusedcombineoccurflight
-bip_39_word_no_space_6: unlockusedcombineoccurflightloop
-bip_39_word_no_space_7: unlockusedcombineoccurflightloopgap
-bip_39_word_no_space_8: unlockusedcombineoccurflightloopgapharvest
-bip_39_word_no_space_9: unlockusedcombineoccurflightloopgapharvestvault
-bip_39_word_space_0:
-- unlock
-- used
-- combine
-- occur
-- flight
-- loop
-- gap
-- harvest
-- vault
-- bronze
-- similar
-- alley
-bip_39_word_space_1: unlock
-bip_39_word_space_10: unlock used combine occur flight loop gap harvest vault bronze
-bip_39_word_space_11: unlock used combine occur flight loop gap harvest vault bronze
-  similar
 bip_39_word_space_12: unlock used combine occur flight loop gap harvest vault bronze
   similar alley
 bip_39_word_space_2: unlock used
 bip_39_word_space_3: unlock used combine
-bip_39_word_space_4: unlock used combine occur
-bip_39_word_space_5: unlock used combine occur flight
-bip_39_word_space_6: unlock used combine occur flight loop
-bip_39_word_space_7: unlock used combine occur flight loop gap
-bip_39_word_space_8: unlock used combine occur flight loop gap harvest
-bip_39_word_space_9: unlock used combine occur flight loop gap harvest vault
-bip_39_word_underscore_1: unlock
-bip_39_word_underscore_10: unlock_used_combine_occur_flight_loop_gap_harvest_vault_bronze
-bip_39_word_underscore_11: unlock_used_combine_occur_flight_loop_gap_harvest_vault_bronze_similar
 bip_39_word_underscore_12: unlock_used_combine_occur_flight_loop_gap_harvest_vault_bronze_similar_alley
 bip_39_word_underscore_2: unlock_used
 bip_39_word_underscore_3: unlock_used_combine
-bip_39_word_underscore_4: unlock_used_combine_occur
-bip_39_word_underscore_5: unlock_used_combine_occur_flight
-bip_39_word_underscore_6: unlock_used_combine_occur_flight_loop
-bip_39_word_underscore_7: unlock_used_combine_occur_flight_loop_gap
-bip_39_word_underscore_8: unlock_used_combine_occur_flight_loop_gap_harvest
-bip_39_word_underscore_9: unlock_used_combine_occur_flight_loop_gap_harvest_vault
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

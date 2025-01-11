@@ -1,68 +1,9 @@
-bip_39_word_dash_1: bench
-bip_39_word_dash_10: bench-cushion-verb-wonder-crumble-march-fancy-evolve-version-bind
-bip_39_word_dash_11: bench-cushion-verb-wonder-crumble-march-fancy-evolve-version-bind-mandate
 bip_39_word_dash_12: bench-cushion-verb-wonder-crumble-march-fancy-evolve-version-bind-mandate-author
 bip_39_word_dash_2: bench-cushion
 bip_39_word_dash_3: bench-cushion-verb
-bip_39_word_dash_4: bench-cushion-verb-wonder
-bip_39_word_dash_5: bench-cushion-verb-wonder-crumble
-bip_39_word_dash_6: bench-cushion-verb-wonder-crumble-march
-bip_39_word_dash_7: bench-cushion-verb-wonder-crumble-march-fancy
-bip_39_word_dash_8: bench-cushion-verb-wonder-crumble-march-fancy-evolve
-bip_39_word_dash_9: bench-cushion-verb-wonder-crumble-march-fancy-evolve-version
-bip_39_word_new_br_1: bench
-bip_39_word_new_br_10: bench<br>cushion<br>verb<br>wonder<br>crumble<br>march<br>fancy<br>evolve<br>version<br>bind
-bip_39_word_new_br_11: bench<br>cushion<br>verb<br>wonder<br>crumble<br>march<br>fancy<br>evolve<br>version<br>bind<br>mandate
 bip_39_word_new_br_12: bench<br>cushion<br>verb<br>wonder<br>crumble<br>march<br>fancy<br>evolve<br>version<br>bind<br>mandate<br>author
 bip_39_word_new_br_2: bench<br>cushion
 bip_39_word_new_br_3: bench<br>cushion<br>verb
-bip_39_word_new_br_4: bench<br>cushion<br>verb<br>wonder
-bip_39_word_new_br_5: bench<br>cushion<br>verb<br>wonder<br>crumble
-bip_39_word_new_br_6: bench<br>cushion<br>verb<br>wonder<br>crumble<br>march
-bip_39_word_new_br_7: bench<br>cushion<br>verb<br>wonder<br>crumble<br>march<br>fancy
-bip_39_word_new_br_8: bench<br>cushion<br>verb<br>wonder<br>crumble<br>march<br>fancy<br>evolve
-bip_39_word_new_br_9: bench<br>cushion<br>verb<br>wonder<br>crumble<br>march<br>fancy<br>evolve<br>version
-bip_39_word_new_line_1: bench
-bip_39_word_new_line_10: 'bench
-
-  cushion
-
-  verb
-
-  wonder
-
-  crumble
-
-  march
-
-  fancy
-
-  evolve
-
-  version
-
-  bind'
-bip_39_word_new_line_11: 'bench
-
-  cushion
-
-  verb
-
-  wonder
-
-  crumble
-
-  march
-
-  fancy
-
-  evolve
-
-  version
-
-  bind
-
-  mandate'
 bip_39_word_new_line_12: 'bench
 
   cushion
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'bench
   cushion
 
   verb'
-bip_39_word_new_line_4: 'bench
-
-  cushion
-
-  verb
-
-  wonder'
-bip_39_word_new_line_5: 'bench
-
-  cushion
-
-  verb
-
-  wonder
-
-  crumble'
-bip_39_word_new_line_6: 'bench
-
-  cushion
-
-  verb
-
-  wonder
-
-  crumble
-
-  march'
-bip_39_word_new_line_7: 'bench
-
-  cushion
-
-  verb
-
-  wonder
-
-  crumble
-
-  march
-
-  fancy'
-bip_39_word_new_line_8: 'bench
-
-  cushion
-
-  verb
-
-  wonder
-
-  crumble
-
-  march
-
-  fancy
-
-  evolve'
-bip_39_word_new_line_9: 'bench
-
-  cushion
-
-  verb
-
-  wonder
-
-  crumble
-
-  march
-
-  fancy
-
-  evolve
-
-  version'
-bip_39_word_no_space_1: bench
-bip_39_word_no_space_10: benchcushionverbwondercrumblemarchfancyevolveversionbind
-bip_39_word_no_space_11: benchcushionverbwondercrumblemarchfancyevolveversionbindmandate
 bip_39_word_no_space_12: benchcushionverbwondercrumblemarchfancyevolveversionbindmandateauthor
 bip_39_word_no_space_2: benchcushion
 bip_39_word_no_space_3: benchcushionverb
-bip_39_word_no_space_4: benchcushionverbwonder
-bip_39_word_no_space_5: benchcushionverbwondercrumble
-bip_39_word_no_space_6: benchcushionverbwondercrumblemarch
-bip_39_word_no_space_7: benchcushionverbwondercrumblemarchfancy
-bip_39_word_no_space_8: benchcushionverbwondercrumblemarchfancyevolve
-bip_39_word_no_space_9: benchcushionverbwondercrumblemarchfancyevolveversion
-bip_39_word_space_0:
-- bench
-- cushion
-- verb
-- wonder
-- crumble
-- march
-- fancy
-- evolve
-- version
-- bind
-- mandate
-- author
-bip_39_word_space_1: bench
-bip_39_word_space_10: bench cushion verb wonder crumble march fancy evolve version
-  bind
-bip_39_word_space_11: bench cushion verb wonder crumble march fancy evolve version
-  bind mandate
 bip_39_word_space_12: bench cushion verb wonder crumble march fancy evolve version
   bind mandate author
 bip_39_word_space_2: bench cushion
 bip_39_word_space_3: bench cushion verb
-bip_39_word_space_4: bench cushion verb wonder
-bip_39_word_space_5: bench cushion verb wonder crumble
-bip_39_word_space_6: bench cushion verb wonder crumble march
-bip_39_word_space_7: bench cushion verb wonder crumble march fancy
-bip_39_word_space_8: bench cushion verb wonder crumble march fancy evolve
-bip_39_word_space_9: bench cushion verb wonder crumble march fancy evolve version
-bip_39_word_underscore_1: bench
-bip_39_word_underscore_10: bench_cushion_verb_wonder_crumble_march_fancy_evolve_version_bind
-bip_39_word_underscore_11: bench_cushion_verb_wonder_crumble_march_fancy_evolve_version_bind_mandate
 bip_39_word_underscore_12: bench_cushion_verb_wonder_crumble_march_fancy_evolve_version_bind_mandate_author
 bip_39_word_underscore_2: bench_cushion
 bip_39_word_underscore_3: bench_cushion_verb
-bip_39_word_underscore_4: bench_cushion_verb_wonder
-bip_39_word_underscore_5: bench_cushion_verb_wonder_crumble
-bip_39_word_underscore_6: bench_cushion_verb_wonder_crumble_march
-bip_39_word_underscore_7: bench_cushion_verb_wonder_crumble_march_fancy
-bip_39_word_underscore_8: bench_cushion_verb_wonder_crumble_march_fancy_evolve
-bip_39_word_underscore_9: bench_cushion_verb_wonder_crumble_march_fancy_evolve_version
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: fashion
-bip_39_word_dash_10: fashion-satoshi-omit-spend-salmon-ripple-horse-oppose-target-defense
-bip_39_word_dash_11: fashion-satoshi-omit-spend-salmon-ripple-horse-oppose-target-defense-mixed
 bip_39_word_dash_12: fashion-satoshi-omit-spend-salmon-ripple-horse-oppose-target-defense-mixed-answer
 bip_39_word_dash_2: fashion-satoshi
 bip_39_word_dash_3: fashion-satoshi-omit
-bip_39_word_dash_4: fashion-satoshi-omit-spend
-bip_39_word_dash_5: fashion-satoshi-omit-spend-salmon
-bip_39_word_dash_6: fashion-satoshi-omit-spend-salmon-ripple
-bip_39_word_dash_7: fashion-satoshi-omit-spend-salmon-ripple-horse
-bip_39_word_dash_8: fashion-satoshi-omit-spend-salmon-ripple-horse-oppose
-bip_39_word_dash_9: fashion-satoshi-omit-spend-salmon-ripple-horse-oppose-target
-bip_39_word_new_br_1: fashion
-bip_39_word_new_br_10: fashion<br>satoshi<br>omit<br>spend<br>salmon<br>ripple<br>horse<br>oppose<br>target<br>defense
-bip_39_word_new_br_11: fashion<br>satoshi<br>omit<br>spend<br>salmon<br>ripple<br>horse<br>oppose<br>target<br>defense<br>mixed
 bip_39_word_new_br_12: fashion<br>satoshi<br>omit<br>spend<br>salmon<br>ripple<br>horse<br>oppose<br>target<br>defense<br>mixed<br>answer
 bip_39_word_new_br_2: fashion<br>satoshi
 bip_39_word_new_br_3: fashion<br>satoshi<br>omit
-bip_39_word_new_br_4: fashion<br>satoshi<br>omit<br>spend
-bip_39_word_new_br_5: fashion<br>satoshi<br>omit<br>spend<br>salmon
-bip_39_word_new_br_6: fashion<br>satoshi<br>omit<br>spend<br>salmon<br>ripple
-bip_39_word_new_br_7: fashion<br>satoshi<br>omit<br>spend<br>salmon<br>ripple<br>horse
-bip_39_word_new_br_8: fashion<br>satoshi<br>omit<br>spend<br>salmon<br>ripple<br>horse<br>oppose
-bip_39_word_new_br_9: fashion<br>satoshi<br>omit<br>spend<br>salmon<br>ripple<br>horse<br>oppose<br>target
-bip_39_word_new_line_1: fashion
-bip_39_word_new_line_10: 'fashion
-
-  satoshi
-
-  omit
-
-  spend
-
-  salmon
-
-  ripple
-
-  horse
-
-  oppose
-
-  target
-
-  defense'
-bip_39_word_new_line_11: 'fashion
-
-  satoshi
-
-  omit
-
-  spend
-
-  salmon
-
-  ripple
-
-  horse
-
-  oppose
-
-  target
-
-  defense
-
-  mixed'
 bip_39_word_new_line_12: 'fashion
 
   satoshi
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'fashion
   satoshi
 
   omit'
-bip_39_word_new_line_4: 'fashion
-
-  satoshi
-
-  omit
-
-  spend'
-bip_39_word_new_line_5: 'fashion
-
-  satoshi
-
-  omit
-
-  spend
-
-  salmon'
-bip_39_word_new_line_6: 'fashion
-
-  satoshi
-
-  omit
-
-  spend
-
-  salmon
-
-  ripple'
-bip_39_word_new_line_7: 'fashion
-
-  satoshi
-
-  omit
-
-  spend
-
-  salmon
-
-  ripple
-
-  horse'
-bip_39_word_new_line_8: 'fashion
-
-  satoshi
-
-  omit
-
-  spend
-
-  salmon
-
-  ripple
-
-  horse
-
-  oppose'
-bip_39_word_new_line_9: 'fashion
-
-  satoshi
-
-  omit
-
-  spend
-
-  salmon
-
-  ripple
-
-  horse
-
-  oppose
-
-  target'
-bip_39_word_no_space_1: fashion
-bip_39_word_no_space_10: fashionsatoshiomitspendsalmonripplehorseopposetargetdefense
-bip_39_word_no_space_11: fashionsatoshiomitspendsalmonripplehorseopposetargetdefensemixed
 bip_39_word_no_space_12: fashionsatoshiomitspendsalmonripplehorseopposetargetdefensemixedanswer
 bip_39_word_no_space_2: fashionsatoshi
 bip_39_word_no_space_3: fashionsatoshiomit
-bip_39_word_no_space_4: fashionsatoshiomitspend
-bip_39_word_no_space_5: fashionsatoshiomitspendsalmon
-bip_39_word_no_space_6: fashionsatoshiomitspendsalmonripple
-bip_39_word_no_space_7: fashionsatoshiomitspendsalmonripplehorse
-bip_39_word_no_space_8: fashionsatoshiomitspendsalmonripplehorseoppose
-bip_39_word_no_space_9: fashionsatoshiomitspendsalmonripplehorseopposetarget
-bip_39_word_space_0:
-- fashion
-- satoshi
-- omit
-- spend
-- salmon
-- ripple
-- horse
-- oppose
-- target
-- defense
-- mixed
-- answer
-bip_39_word_space_1: fashion
-bip_39_word_space_10: fashion satoshi omit spend salmon ripple horse oppose target
-  defense
-bip_39_word_space_11: fashion satoshi omit spend salmon ripple horse oppose target
-  defense mixed
 bip_39_word_space_12: fashion satoshi omit spend salmon ripple horse oppose target
   defense mixed answer
 bip_39_word_space_2: fashion satoshi
 bip_39_word_space_3: fashion satoshi omit
-bip_39_word_space_4: fashion satoshi omit spend
-bip_39_word_space_5: fashion satoshi omit spend salmon
-bip_39_word_space_6: fashion satoshi omit spend salmon ripple
-bip_39_word_space_7: fashion satoshi omit spend salmon ripple horse
-bip_39_word_space_8: fashion satoshi omit spend salmon ripple horse oppose
-bip_39_word_space_9: fashion satoshi omit spend salmon ripple horse oppose target
-bip_39_word_underscore_1: fashion
-bip_39_word_underscore_10: fashion_satoshi_omit_spend_salmon_ripple_horse_oppose_target_defense
-bip_39_word_underscore_11: fashion_satoshi_omit_spend_salmon_ripple_horse_oppose_target_defense_mixed
 bip_39_word_underscore_12: fashion_satoshi_omit_spend_salmon_ripple_horse_oppose_target_defense_mixed_answer
 bip_39_word_underscore_2: fashion_satoshi
 bip_39_word_underscore_3: fashion_satoshi_omit
-bip_39_word_underscore_4: fashion_satoshi_omit_spend
-bip_39_word_underscore_5: fashion_satoshi_omit_spend_salmon
-bip_39_word_underscore_6: fashion_satoshi_omit_spend_salmon_ripple
-bip_39_word_underscore_7: fashion_satoshi_omit_spend_salmon_ripple_horse
-bip_39_word_underscore_8: fashion_satoshi_omit_spend_salmon_ripple_horse_oppose
-bip_39_word_underscore_9: fashion_satoshi_omit_spend_salmon_ripple_horse_oppose_target
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

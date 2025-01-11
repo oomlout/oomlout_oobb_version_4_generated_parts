@@ -1,68 +1,9 @@
-bip_39_word_dash_1: scale
-bip_39_word_dash_10: scale-act-mean-keen-gloom-soup-noodle-matter-fantasy-catch
-bip_39_word_dash_11: scale-act-mean-keen-gloom-soup-noodle-matter-fantasy-catch-media
 bip_39_word_dash_12: scale-act-mean-keen-gloom-soup-noodle-matter-fantasy-catch-media-actor
 bip_39_word_dash_2: scale-act
 bip_39_word_dash_3: scale-act-mean
-bip_39_word_dash_4: scale-act-mean-keen
-bip_39_word_dash_5: scale-act-mean-keen-gloom
-bip_39_word_dash_6: scale-act-mean-keen-gloom-soup
-bip_39_word_dash_7: scale-act-mean-keen-gloom-soup-noodle
-bip_39_word_dash_8: scale-act-mean-keen-gloom-soup-noodle-matter
-bip_39_word_dash_9: scale-act-mean-keen-gloom-soup-noodle-matter-fantasy
-bip_39_word_new_br_1: scale
-bip_39_word_new_br_10: scale<br>act<br>mean<br>keen<br>gloom<br>soup<br>noodle<br>matter<br>fantasy<br>catch
-bip_39_word_new_br_11: scale<br>act<br>mean<br>keen<br>gloom<br>soup<br>noodle<br>matter<br>fantasy<br>catch<br>media
 bip_39_word_new_br_12: scale<br>act<br>mean<br>keen<br>gloom<br>soup<br>noodle<br>matter<br>fantasy<br>catch<br>media<br>actor
 bip_39_word_new_br_2: scale<br>act
 bip_39_word_new_br_3: scale<br>act<br>mean
-bip_39_word_new_br_4: scale<br>act<br>mean<br>keen
-bip_39_word_new_br_5: scale<br>act<br>mean<br>keen<br>gloom
-bip_39_word_new_br_6: scale<br>act<br>mean<br>keen<br>gloom<br>soup
-bip_39_word_new_br_7: scale<br>act<br>mean<br>keen<br>gloom<br>soup<br>noodle
-bip_39_word_new_br_8: scale<br>act<br>mean<br>keen<br>gloom<br>soup<br>noodle<br>matter
-bip_39_word_new_br_9: scale<br>act<br>mean<br>keen<br>gloom<br>soup<br>noodle<br>matter<br>fantasy
-bip_39_word_new_line_1: scale
-bip_39_word_new_line_10: 'scale
-
-  act
-
-  mean
-
-  keen
-
-  gloom
-
-  soup
-
-  noodle
-
-  matter
-
-  fantasy
-
-  catch'
-bip_39_word_new_line_11: 'scale
-
-  act
-
-  mean
-
-  keen
-
-  gloom
-
-  soup
-
-  noodle
-
-  matter
-
-  fantasy
-
-  catch
-
-  media'
 bip_39_word_new_line_12: 'scale
 
   act
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'scale
   act
 
   mean'
-bip_39_word_new_line_4: 'scale
-
-  act
-
-  mean
-
-  keen'
-bip_39_word_new_line_5: 'scale
-
-  act
-
-  mean
-
-  keen
-
-  gloom'
-bip_39_word_new_line_6: 'scale
-
-  act
-
-  mean
-
-  keen
-
-  gloom
-
-  soup'
-bip_39_word_new_line_7: 'scale
-
-  act
-
-  mean
-
-  keen
-
-  gloom
-
-  soup
-
-  noodle'
-bip_39_word_new_line_8: 'scale
-
-  act
-
-  mean
-
-  keen
-
-  gloom
-
-  soup
-
-  noodle
-
-  matter'
-bip_39_word_new_line_9: 'scale
-
-  act
-
-  mean
-
-  keen
-
-  gloom
-
-  soup
-
-  noodle
-
-  matter
-
-  fantasy'
-bip_39_word_no_space_1: scale
-bip_39_word_no_space_10: scaleactmeankeengloomsoupnoodlematterfantasycatch
-bip_39_word_no_space_11: scaleactmeankeengloomsoupnoodlematterfantasycatchmedia
 bip_39_word_no_space_12: scaleactmeankeengloomsoupnoodlematterfantasycatchmediaactor
 bip_39_word_no_space_2: scaleact
 bip_39_word_no_space_3: scaleactmean
-bip_39_word_no_space_4: scaleactmeankeen
-bip_39_word_no_space_5: scaleactmeankeengloom
-bip_39_word_no_space_6: scaleactmeankeengloomsoup
-bip_39_word_no_space_7: scaleactmeankeengloomsoupnoodle
-bip_39_word_no_space_8: scaleactmeankeengloomsoupnoodlematter
-bip_39_word_no_space_9: scaleactmeankeengloomsoupnoodlematterfantasy
-bip_39_word_space_0:
-- scale
-- act
-- mean
-- keen
-- gloom
-- soup
-- noodle
-- matter
-- fantasy
-- catch
-- media
-- actor
-bip_39_word_space_1: scale
-bip_39_word_space_10: scale act mean keen gloom soup noodle matter fantasy catch
-bip_39_word_space_11: scale act mean keen gloom soup noodle matter fantasy catch media
 bip_39_word_space_12: scale act mean keen gloom soup noodle matter fantasy catch media
   actor
 bip_39_word_space_2: scale act
 bip_39_word_space_3: scale act mean
-bip_39_word_space_4: scale act mean keen
-bip_39_word_space_5: scale act mean keen gloom
-bip_39_word_space_6: scale act mean keen gloom soup
-bip_39_word_space_7: scale act mean keen gloom soup noodle
-bip_39_word_space_8: scale act mean keen gloom soup noodle matter
-bip_39_word_space_9: scale act mean keen gloom soup noodle matter fantasy
-bip_39_word_underscore_1: scale
-bip_39_word_underscore_10: scale_act_mean_keen_gloom_soup_noodle_matter_fantasy_catch
-bip_39_word_underscore_11: scale_act_mean_keen_gloom_soup_noodle_matter_fantasy_catch_media
 bip_39_word_underscore_12: scale_act_mean_keen_gloom_soup_noodle_matter_fantasy_catch_media_actor
 bip_39_word_underscore_2: scale_act
 bip_39_word_underscore_3: scale_act_mean
-bip_39_word_underscore_4: scale_act_mean_keen
-bip_39_word_underscore_5: scale_act_mean_keen_gloom
-bip_39_word_underscore_6: scale_act_mean_keen_gloom_soup
-bip_39_word_underscore_7: scale_act_mean_keen_gloom_soup_noodle
-bip_39_word_underscore_8: scale_act_mean_keen_gloom_soup_noodle_matter
-bip_39_word_underscore_9: scale_act_mean_keen_gloom_soup_noodle_matter_fantasy
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

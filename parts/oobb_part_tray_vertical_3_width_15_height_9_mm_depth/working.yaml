@@ -1,68 +1,9 @@
-bip_39_word_dash_1: regular
-bip_39_word_dash_10: regular-broken-grant-traffic-gorilla-isolate-casual-sustain-section-pelican
-bip_39_word_dash_11: regular-broken-grant-traffic-gorilla-isolate-casual-sustain-section-pelican-load
 bip_39_word_dash_12: regular-broken-grant-traffic-gorilla-isolate-casual-sustain-section-pelican-load-acquire
 bip_39_word_dash_2: regular-broken
 bip_39_word_dash_3: regular-broken-grant
-bip_39_word_dash_4: regular-broken-grant-traffic
-bip_39_word_dash_5: regular-broken-grant-traffic-gorilla
-bip_39_word_dash_6: regular-broken-grant-traffic-gorilla-isolate
-bip_39_word_dash_7: regular-broken-grant-traffic-gorilla-isolate-casual
-bip_39_word_dash_8: regular-broken-grant-traffic-gorilla-isolate-casual-sustain
-bip_39_word_dash_9: regular-broken-grant-traffic-gorilla-isolate-casual-sustain-section
-bip_39_word_new_br_1: regular
-bip_39_word_new_br_10: regular<br>broken<br>grant<br>traffic<br>gorilla<br>isolate<br>casual<br>sustain<br>section<br>pelican
-bip_39_word_new_br_11: regular<br>broken<br>grant<br>traffic<br>gorilla<br>isolate<br>casual<br>sustain<br>section<br>pelican<br>load
 bip_39_word_new_br_12: regular<br>broken<br>grant<br>traffic<br>gorilla<br>isolate<br>casual<br>sustain<br>section<br>pelican<br>load<br>acquire
 bip_39_word_new_br_2: regular<br>broken
 bip_39_word_new_br_3: regular<br>broken<br>grant
-bip_39_word_new_br_4: regular<br>broken<br>grant<br>traffic
-bip_39_word_new_br_5: regular<br>broken<br>grant<br>traffic<br>gorilla
-bip_39_word_new_br_6: regular<br>broken<br>grant<br>traffic<br>gorilla<br>isolate
-bip_39_word_new_br_7: regular<br>broken<br>grant<br>traffic<br>gorilla<br>isolate<br>casual
-bip_39_word_new_br_8: regular<br>broken<br>grant<br>traffic<br>gorilla<br>isolate<br>casual<br>sustain
-bip_39_word_new_br_9: regular<br>broken<br>grant<br>traffic<br>gorilla<br>isolate<br>casual<br>sustain<br>section
-bip_39_word_new_line_1: regular
-bip_39_word_new_line_10: 'regular
-
-  broken
-
-  grant
-
-  traffic
-
-  gorilla
-
-  isolate
-
-  casual
-
-  sustain
-
-  section
-
-  pelican'
-bip_39_word_new_line_11: 'regular
-
-  broken
-
-  grant
-
-  traffic
-
-  gorilla
-
-  isolate
-
-  casual
-
-  sustain
-
-  section
-
-  pelican
-
-  load'
 bip_39_word_new_line_12: 'regular
 
   broken
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'regular
   broken
 
   grant'
-bip_39_word_new_line_4: 'regular
-
-  broken
-
-  grant
-
-  traffic'
-bip_39_word_new_line_5: 'regular
-
-  broken
-
-  grant
-
-  traffic
-
-  gorilla'
-bip_39_word_new_line_6: 'regular
-
-  broken
-
-  grant
-
-  traffic
-
-  gorilla
-
-  isolate'
-bip_39_word_new_line_7: 'regular
-
-  broken
-
-  grant
-
-  traffic
-
-  gorilla
-
-  isolate
-
-  casual'
-bip_39_word_new_line_8: 'regular
-
-  broken
-
-  grant
-
-  traffic
-
-  gorilla
-
-  isolate
-
-  casual
-
-  sustain'
-bip_39_word_new_line_9: 'regular
-
-  broken
-
-  grant
-
-  traffic
-
-  gorilla
-
-  isolate
-
-  casual
-
-  sustain
-
-  section'
-bip_39_word_no_space_1: regular
-bip_39_word_no_space_10: regularbrokengranttrafficgorillaisolatecasualsustainsectionpelican
-bip_39_word_no_space_11: regularbrokengranttrafficgorillaisolatecasualsustainsectionpelicanload
 bip_39_word_no_space_12: regularbrokengranttrafficgorillaisolatecasualsustainsectionpelicanloadacquire
 bip_39_word_no_space_2: regularbroken
 bip_39_word_no_space_3: regularbrokengrant
-bip_39_word_no_space_4: regularbrokengranttraffic
-bip_39_word_no_space_5: regularbrokengranttrafficgorilla
-bip_39_word_no_space_6: regularbrokengranttrafficgorillaisolate
-bip_39_word_no_space_7: regularbrokengranttrafficgorillaisolatecasual
-bip_39_word_no_space_8: regularbrokengranttrafficgorillaisolatecasualsustain
-bip_39_word_no_space_9: regularbrokengranttrafficgorillaisolatecasualsustainsection
-bip_39_word_space_0:
-- regular
-- broken
-- grant
-- traffic
-- gorilla
-- isolate
-- casual
-- sustain
-- section
-- pelican
-- load
-- acquire
-bip_39_word_space_1: regular
-bip_39_word_space_10: regular broken grant traffic gorilla isolate casual sustain
-  section pelican
-bip_39_word_space_11: regular broken grant traffic gorilla isolate casual sustain
-  section pelican load
 bip_39_word_space_12: regular broken grant traffic gorilla isolate casual sustain
   section pelican load acquire
 bip_39_word_space_2: regular broken
 bip_39_word_space_3: regular broken grant
-bip_39_word_space_4: regular broken grant traffic
-bip_39_word_space_5: regular broken grant traffic gorilla
-bip_39_word_space_6: regular broken grant traffic gorilla isolate
-bip_39_word_space_7: regular broken grant traffic gorilla isolate casual
-bip_39_word_space_8: regular broken grant traffic gorilla isolate casual sustain
-bip_39_word_space_9: regular broken grant traffic gorilla isolate casual sustain section
-bip_39_word_underscore_1: regular
-bip_39_word_underscore_10: regular_broken_grant_traffic_gorilla_isolate_casual_sustain_section_pelican
-bip_39_word_underscore_11: regular_broken_grant_traffic_gorilla_isolate_casual_sustain_section_pelican_load
 bip_39_word_underscore_12: regular_broken_grant_traffic_gorilla_isolate_casual_sustain_section_pelican_load_acquire
 bip_39_word_underscore_2: regular_broken
 bip_39_word_underscore_3: regular_broken_grant
-bip_39_word_underscore_4: regular_broken_grant_traffic
-bip_39_word_underscore_5: regular_broken_grant_traffic_gorilla
-bip_39_word_underscore_6: regular_broken_grant_traffic_gorilla_isolate
-bip_39_word_underscore_7: regular_broken_grant_traffic_gorilla_isolate_casual
-bip_39_word_underscore_8: regular_broken_grant_traffic_gorilla_isolate_casual_sustain
-bip_39_word_underscore_9: regular_broken_grant_traffic_gorilla_isolate_casual_sustain_section
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

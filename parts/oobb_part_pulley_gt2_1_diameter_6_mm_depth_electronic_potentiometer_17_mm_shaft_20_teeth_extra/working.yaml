@@ -1,68 +1,9 @@
-bip_39_word_dash_1: enable
-bip_39_word_dash_10: enable-gasp-oven-vibrant-apart-helmet-vital-patient-olive-course
-bip_39_word_dash_11: enable-gasp-oven-vibrant-apart-helmet-vital-patient-olive-course-earth
 bip_39_word_dash_12: enable-gasp-oven-vibrant-apart-helmet-vital-patient-olive-course-earth-again
 bip_39_word_dash_2: enable-gasp
 bip_39_word_dash_3: enable-gasp-oven
-bip_39_word_dash_4: enable-gasp-oven-vibrant
-bip_39_word_dash_5: enable-gasp-oven-vibrant-apart
-bip_39_word_dash_6: enable-gasp-oven-vibrant-apart-helmet
-bip_39_word_dash_7: enable-gasp-oven-vibrant-apart-helmet-vital
-bip_39_word_dash_8: enable-gasp-oven-vibrant-apart-helmet-vital-patient
-bip_39_word_dash_9: enable-gasp-oven-vibrant-apart-helmet-vital-patient-olive
-bip_39_word_new_br_1: enable
-bip_39_word_new_br_10: enable<br>gasp<br>oven<br>vibrant<br>apart<br>helmet<br>vital<br>patient<br>olive<br>course
-bip_39_word_new_br_11: enable<br>gasp<br>oven<br>vibrant<br>apart<br>helmet<br>vital<br>patient<br>olive<br>course<br>earth
 bip_39_word_new_br_12: enable<br>gasp<br>oven<br>vibrant<br>apart<br>helmet<br>vital<br>patient<br>olive<br>course<br>earth<br>again
 bip_39_word_new_br_2: enable<br>gasp
 bip_39_word_new_br_3: enable<br>gasp<br>oven
-bip_39_word_new_br_4: enable<br>gasp<br>oven<br>vibrant
-bip_39_word_new_br_5: enable<br>gasp<br>oven<br>vibrant<br>apart
-bip_39_word_new_br_6: enable<br>gasp<br>oven<br>vibrant<br>apart<br>helmet
-bip_39_word_new_br_7: enable<br>gasp<br>oven<br>vibrant<br>apart<br>helmet<br>vital
-bip_39_word_new_br_8: enable<br>gasp<br>oven<br>vibrant<br>apart<br>helmet<br>vital<br>patient
-bip_39_word_new_br_9: enable<br>gasp<br>oven<br>vibrant<br>apart<br>helmet<br>vital<br>patient<br>olive
-bip_39_word_new_line_1: enable
-bip_39_word_new_line_10: 'enable
-
-  gasp
-
-  oven
-
-  vibrant
-
-  apart
-
-  helmet
-
-  vital
-
-  patient
-
-  olive
-
-  course'
-bip_39_word_new_line_11: 'enable
-
-  gasp
-
-  oven
-
-  vibrant
-
-  apart
-
-  helmet
-
-  vital
-
-  patient
-
-  olive
-
-  course
-
-  earth'
 bip_39_word_new_line_12: 'enable
 
   gasp
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'enable
   gasp
 
   oven'
-bip_39_word_new_line_4: 'enable
-
-  gasp
-
-  oven
-
-  vibrant'
-bip_39_word_new_line_5: 'enable
-
-  gasp
-
-  oven
-
-  vibrant
-
-  apart'
-bip_39_word_new_line_6: 'enable
-
-  gasp
-
-  oven
-
-  vibrant
-
-  apart
-
-  helmet'
-bip_39_word_new_line_7: 'enable
-
-  gasp
-
-  oven
-
-  vibrant
-
-  apart
-
-  helmet
-
-  vital'
-bip_39_word_new_line_8: 'enable
-
-  gasp
-
-  oven
-
-  vibrant
-
-  apart
-
-  helmet
-
-  vital
-
-  patient'
-bip_39_word_new_line_9: 'enable
-
-  gasp
-
-  oven
-
-  vibrant
-
-  apart
-
-  helmet
-
-  vital
-
-  patient
-
-  olive'
-bip_39_word_no_space_1: enable
-bip_39_word_no_space_10: enablegaspovenvibrantaparthelmetvitalpatientolivecourse
-bip_39_word_no_space_11: enablegaspovenvibrantaparthelmetvitalpatientolivecourseearth
 bip_39_word_no_space_12: enablegaspovenvibrantaparthelmetvitalpatientolivecourseearthagain
 bip_39_word_no_space_2: enablegasp
 bip_39_word_no_space_3: enablegaspoven
-bip_39_word_no_space_4: enablegaspovenvibrant
-bip_39_word_no_space_5: enablegaspovenvibrantapart
-bip_39_word_no_space_6: enablegaspovenvibrantaparthelmet
-bip_39_word_no_space_7: enablegaspovenvibrantaparthelmetvital
-bip_39_word_no_space_8: enablegaspovenvibrantaparthelmetvitalpatient
-bip_39_word_no_space_9: enablegaspovenvibrantaparthelmetvitalpatientolive
-bip_39_word_space_0:
-- enable
-- gasp
-- oven
-- vibrant
-- apart
-- helmet
-- vital
-- patient
-- olive
-- course
-- earth
-- again
-bip_39_word_space_1: enable
-bip_39_word_space_10: enable gasp oven vibrant apart helmet vital patient olive course
-bip_39_word_space_11: enable gasp oven vibrant apart helmet vital patient olive course
-  earth
 bip_39_word_space_12: enable gasp oven vibrant apart helmet vital patient olive course
   earth again
 bip_39_word_space_2: enable gasp
 bip_39_word_space_3: enable gasp oven
-bip_39_word_space_4: enable gasp oven vibrant
-bip_39_word_space_5: enable gasp oven vibrant apart
-bip_39_word_space_6: enable gasp oven vibrant apart helmet
-bip_39_word_space_7: enable gasp oven vibrant apart helmet vital
-bip_39_word_space_8: enable gasp oven vibrant apart helmet vital patient
-bip_39_word_space_9: enable gasp oven vibrant apart helmet vital patient olive
-bip_39_word_underscore_1: enable
-bip_39_word_underscore_10: enable_gasp_oven_vibrant_apart_helmet_vital_patient_olive_course
-bip_39_word_underscore_11: enable_gasp_oven_vibrant_apart_helmet_vital_patient_olive_course_earth
 bip_39_word_underscore_12: enable_gasp_oven_vibrant_apart_helmet_vital_patient_olive_course_earth_again
 bip_39_word_underscore_2: enable_gasp
 bip_39_word_underscore_3: enable_gasp_oven
-bip_39_word_underscore_4: enable_gasp_oven_vibrant
-bip_39_word_underscore_5: enable_gasp_oven_vibrant_apart
-bip_39_word_underscore_6: enable_gasp_oven_vibrant_apart_helmet
-bip_39_word_underscore_7: enable_gasp_oven_vibrant_apart_helmet_vital
-bip_39_word_underscore_8: enable_gasp_oven_vibrant_apart_helmet_vital_patient
-bip_39_word_underscore_9: enable_gasp_oven_vibrant_apart_helmet_vital_patient_olive
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

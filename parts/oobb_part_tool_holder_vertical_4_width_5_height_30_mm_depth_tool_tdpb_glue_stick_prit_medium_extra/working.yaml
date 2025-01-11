@@ -1,68 +1,9 @@
-bip_39_word_dash_1: inherit
-bip_39_word_dash_10: inherit-soldier-long-come-violin-crime-stool-depend-gift-stand
-bip_39_word_dash_11: inherit-soldier-long-come-violin-crime-stool-depend-gift-stand-pulp
 bip_39_word_dash_12: inherit-soldier-long-come-violin-crime-stool-depend-gift-stand-pulp-alcohol
 bip_39_word_dash_2: inherit-soldier
 bip_39_word_dash_3: inherit-soldier-long
-bip_39_word_dash_4: inherit-soldier-long-come
-bip_39_word_dash_5: inherit-soldier-long-come-violin
-bip_39_word_dash_6: inherit-soldier-long-come-violin-crime
-bip_39_word_dash_7: inherit-soldier-long-come-violin-crime-stool
-bip_39_word_dash_8: inherit-soldier-long-come-violin-crime-stool-depend
-bip_39_word_dash_9: inherit-soldier-long-come-violin-crime-stool-depend-gift
-bip_39_word_new_br_1: inherit
-bip_39_word_new_br_10: inherit<br>soldier<br>long<br>come<br>violin<br>crime<br>stool<br>depend<br>gift<br>stand
-bip_39_word_new_br_11: inherit<br>soldier<br>long<br>come<br>violin<br>crime<br>stool<br>depend<br>gift<br>stand<br>pulp
 bip_39_word_new_br_12: inherit<br>soldier<br>long<br>come<br>violin<br>crime<br>stool<br>depend<br>gift<br>stand<br>pulp<br>alcohol
 bip_39_word_new_br_2: inherit<br>soldier
 bip_39_word_new_br_3: inherit<br>soldier<br>long
-bip_39_word_new_br_4: inherit<br>soldier<br>long<br>come
-bip_39_word_new_br_5: inherit<br>soldier<br>long<br>come<br>violin
-bip_39_word_new_br_6: inherit<br>soldier<br>long<br>come<br>violin<br>crime
-bip_39_word_new_br_7: inherit<br>soldier<br>long<br>come<br>violin<br>crime<br>stool
-bip_39_word_new_br_8: inherit<br>soldier<br>long<br>come<br>violin<br>crime<br>stool<br>depend
-bip_39_word_new_br_9: inherit<br>soldier<br>long<br>come<br>violin<br>crime<br>stool<br>depend<br>gift
-bip_39_word_new_line_1: inherit
-bip_39_word_new_line_10: 'inherit
-
-  soldier
-
-  long
-
-  come
-
-  violin
-
-  crime
-
-  stool
-
-  depend
-
-  gift
-
-  stand'
-bip_39_word_new_line_11: 'inherit
-
-  soldier
-
-  long
-
-  come
-
-  violin
-
-  crime
-
-  stool
-
-  depend
-
-  gift
-
-  stand
-
-  pulp'
 bip_39_word_new_line_12: 'inherit
 
   soldier
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'inherit
   soldier
 
   long'
-bip_39_word_new_line_4: 'inherit
-
-  soldier
-
-  long
-
-  come'
-bip_39_word_new_line_5: 'inherit
-
-  soldier
-
-  long
-
-  come
-
-  violin'
-bip_39_word_new_line_6: 'inherit
-
-  soldier
-
-  long
-
-  come
-
-  violin
-
-  crime'
-bip_39_word_new_line_7: 'inherit
-
-  soldier
-
-  long
-
-  come
-
-  violin
-
-  crime
-
-  stool'
-bip_39_word_new_line_8: 'inherit
-
-  soldier
-
-  long
-
-  come
-
-  violin
-
-  crime
-
-  stool
-
-  depend'
-bip_39_word_new_line_9: 'inherit
-
-  soldier
-
-  long
-
-  come
-
-  violin
-
-  crime
-
-  stool
-
-  depend
-
-  gift'
-bip_39_word_no_space_1: inherit
-bip_39_word_no_space_10: inheritsoldierlongcomeviolincrimestooldependgiftstand
-bip_39_word_no_space_11: inheritsoldierlongcomeviolincrimestooldependgiftstandpulp
 bip_39_word_no_space_12: inheritsoldierlongcomeviolincrimestooldependgiftstandpulpalcohol
 bip_39_word_no_space_2: inheritsoldier
 bip_39_word_no_space_3: inheritsoldierlong
-bip_39_word_no_space_4: inheritsoldierlongcome
-bip_39_word_no_space_5: inheritsoldierlongcomeviolin
-bip_39_word_no_space_6: inheritsoldierlongcomeviolincrime
-bip_39_word_no_space_7: inheritsoldierlongcomeviolincrimestool
-bip_39_word_no_space_8: inheritsoldierlongcomeviolincrimestooldepend
-bip_39_word_no_space_9: inheritsoldierlongcomeviolincrimestooldependgift
-bip_39_word_space_0:
-- inherit
-- soldier
-- long
-- come
-- violin
-- crime
-- stool
-- depend
-- gift
-- stand
-- pulp
-- alcohol
-bip_39_word_space_1: inherit
-bip_39_word_space_10: inherit soldier long come violin crime stool depend gift stand
-bip_39_word_space_11: inherit soldier long come violin crime stool depend gift stand
-  pulp
 bip_39_word_space_12: inherit soldier long come violin crime stool depend gift stand
   pulp alcohol
 bip_39_word_space_2: inherit soldier
 bip_39_word_space_3: inherit soldier long
-bip_39_word_space_4: inherit soldier long come
-bip_39_word_space_5: inherit soldier long come violin
-bip_39_word_space_6: inherit soldier long come violin crime
-bip_39_word_space_7: inherit soldier long come violin crime stool
-bip_39_word_space_8: inherit soldier long come violin crime stool depend
-bip_39_word_space_9: inherit soldier long come violin crime stool depend gift
-bip_39_word_underscore_1: inherit
-bip_39_word_underscore_10: inherit_soldier_long_come_violin_crime_stool_depend_gift_stand
-bip_39_word_underscore_11: inherit_soldier_long_come_violin_crime_stool_depend_gift_stand_pulp
 bip_39_word_underscore_12: inherit_soldier_long_come_violin_crime_stool_depend_gift_stand_pulp_alcohol
 bip_39_word_underscore_2: inherit_soldier
 bip_39_word_underscore_3: inherit_soldier_long
-bip_39_word_underscore_4: inherit_soldier_long_come
-bip_39_word_underscore_5: inherit_soldier_long_come_violin
-bip_39_word_underscore_6: inherit_soldier_long_come_violin_crime
-bip_39_word_underscore_7: inherit_soldier_long_come_violin_crime_stool
-bip_39_word_underscore_8: inherit_soldier_long_come_violin_crime_stool_depend
-bip_39_word_underscore_9: inherit_soldier_long_come_violin_crime_stool_depend_gift
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

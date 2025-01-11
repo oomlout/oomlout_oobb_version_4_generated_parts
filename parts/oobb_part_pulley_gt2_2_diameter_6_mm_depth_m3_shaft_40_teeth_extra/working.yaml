@@ -1,68 +1,9 @@
-bip_39_word_dash_1: match
-bip_39_word_dash_10: match-output-bullet-wing-charge-business-insect-tonight-involve-cigar
-bip_39_word_dash_11: match-output-bullet-wing-charge-business-insect-tonight-involve-cigar-major
 bip_39_word_dash_12: match-output-bullet-wing-charge-business-insect-tonight-involve-cigar-major-attract
 bip_39_word_dash_2: match-output
 bip_39_word_dash_3: match-output-bullet
-bip_39_word_dash_4: match-output-bullet-wing
-bip_39_word_dash_5: match-output-bullet-wing-charge
-bip_39_word_dash_6: match-output-bullet-wing-charge-business
-bip_39_word_dash_7: match-output-bullet-wing-charge-business-insect
-bip_39_word_dash_8: match-output-bullet-wing-charge-business-insect-tonight
-bip_39_word_dash_9: match-output-bullet-wing-charge-business-insect-tonight-involve
-bip_39_word_new_br_1: match
-bip_39_word_new_br_10: match<br>output<br>bullet<br>wing<br>charge<br>business<br>insect<br>tonight<br>involve<br>cigar
-bip_39_word_new_br_11: match<br>output<br>bullet<br>wing<br>charge<br>business<br>insect<br>tonight<br>involve<br>cigar<br>major
 bip_39_word_new_br_12: match<br>output<br>bullet<br>wing<br>charge<br>business<br>insect<br>tonight<br>involve<br>cigar<br>major<br>attract
 bip_39_word_new_br_2: match<br>output
 bip_39_word_new_br_3: match<br>output<br>bullet
-bip_39_word_new_br_4: match<br>output<br>bullet<br>wing
-bip_39_word_new_br_5: match<br>output<br>bullet<br>wing<br>charge
-bip_39_word_new_br_6: match<br>output<br>bullet<br>wing<br>charge<br>business
-bip_39_word_new_br_7: match<br>output<br>bullet<br>wing<br>charge<br>business<br>insect
-bip_39_word_new_br_8: match<br>output<br>bullet<br>wing<br>charge<br>business<br>insect<br>tonight
-bip_39_word_new_br_9: match<br>output<br>bullet<br>wing<br>charge<br>business<br>insect<br>tonight<br>involve
-bip_39_word_new_line_1: match
-bip_39_word_new_line_10: 'match
-
-  output
-
-  bullet
-
-  wing
-
-  charge
-
-  business
-
-  insect
-
-  tonight
-
-  involve
-
-  cigar'
-bip_39_word_new_line_11: 'match
-
-  output
-
-  bullet
-
-  wing
-
-  charge
-
-  business
-
-  insect
-
-  tonight
-
-  involve
-
-  cigar
-
-  major'
 bip_39_word_new_line_12: 'match
 
   output
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'match
   output
 
   bullet'
-bip_39_word_new_line_4: 'match
-
-  output
-
-  bullet
-
-  wing'
-bip_39_word_new_line_5: 'match
-
-  output
-
-  bullet
-
-  wing
-
-  charge'
-bip_39_word_new_line_6: 'match
-
-  output
-
-  bullet
-
-  wing
-
-  charge
-
-  business'
-bip_39_word_new_line_7: 'match
-
-  output
-
-  bullet
-
-  wing
-
-  charge
-
-  business
-
-  insect'
-bip_39_word_new_line_8: 'match
-
-  output
-
-  bullet
-
-  wing
-
-  charge
-
-  business
-
-  insect
-
-  tonight'
-bip_39_word_new_line_9: 'match
-
-  output
-
-  bullet
-
-  wing
-
-  charge
-
-  business
-
-  insect
-
-  tonight
-
-  involve'
-bip_39_word_no_space_1: match
-bip_39_word_no_space_10: matchoutputbulletwingchargebusinessinsecttonightinvolvecigar
-bip_39_word_no_space_11: matchoutputbulletwingchargebusinessinsecttonightinvolvecigarmajor
 bip_39_word_no_space_12: matchoutputbulletwingchargebusinessinsecttonightinvolvecigarmajorattract
 bip_39_word_no_space_2: matchoutput
 bip_39_word_no_space_3: matchoutputbullet
-bip_39_word_no_space_4: matchoutputbulletwing
-bip_39_word_no_space_5: matchoutputbulletwingcharge
-bip_39_word_no_space_6: matchoutputbulletwingchargebusiness
-bip_39_word_no_space_7: matchoutputbulletwingchargebusinessinsect
-bip_39_word_no_space_8: matchoutputbulletwingchargebusinessinsecttonight
-bip_39_word_no_space_9: matchoutputbulletwingchargebusinessinsecttonightinvolve
-bip_39_word_space_0:
-- match
-- output
-- bullet
-- wing
-- charge
-- business
-- insect
-- tonight
-- involve
-- cigar
-- major
-- attract
-bip_39_word_space_1: match
-bip_39_word_space_10: match output bullet wing charge business insect tonight involve
-  cigar
-bip_39_word_space_11: match output bullet wing charge business insect tonight involve
-  cigar major
 bip_39_word_space_12: match output bullet wing charge business insect tonight involve
   cigar major attract
 bip_39_word_space_2: match output
 bip_39_word_space_3: match output bullet
-bip_39_word_space_4: match output bullet wing
-bip_39_word_space_5: match output bullet wing charge
-bip_39_word_space_6: match output bullet wing charge business
-bip_39_word_space_7: match output bullet wing charge business insect
-bip_39_word_space_8: match output bullet wing charge business insect tonight
-bip_39_word_space_9: match output bullet wing charge business insect tonight involve
-bip_39_word_underscore_1: match
-bip_39_word_underscore_10: match_output_bullet_wing_charge_business_insect_tonight_involve_cigar
-bip_39_word_underscore_11: match_output_bullet_wing_charge_business_insect_tonight_involve_cigar_major
 bip_39_word_underscore_12: match_output_bullet_wing_charge_business_insect_tonight_involve_cigar_major_attract
 bip_39_word_underscore_2: match_output
 bip_39_word_underscore_3: match_output_bullet
-bip_39_word_underscore_4: match_output_bullet_wing
-bip_39_word_underscore_5: match_output_bullet_wing_charge
-bip_39_word_underscore_6: match_output_bullet_wing_charge_business
-bip_39_word_underscore_7: match_output_bullet_wing_charge_business_insect
-bip_39_word_underscore_8: match_output_bullet_wing_charge_business_insect_tonight
-bip_39_word_underscore_9: match_output_bullet_wing_charge_business_insect_tonight_involve
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

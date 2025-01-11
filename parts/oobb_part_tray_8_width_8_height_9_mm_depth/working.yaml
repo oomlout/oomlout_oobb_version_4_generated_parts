@@ -1,68 +1,9 @@
-bip_39_word_dash_1: pattern
-bip_39_word_dash_10: pattern-wolf-okay-fortune-fat-embrace-repair-glory-lounge-cage
-bip_39_word_dash_11: pattern-wolf-okay-fortune-fat-embrace-repair-glory-lounge-cage-drop
 bip_39_word_dash_12: pattern-wolf-okay-fortune-fat-embrace-repair-glory-lounge-cage-drop-ankle
 bip_39_word_dash_2: pattern-wolf
 bip_39_word_dash_3: pattern-wolf-okay
-bip_39_word_dash_4: pattern-wolf-okay-fortune
-bip_39_word_dash_5: pattern-wolf-okay-fortune-fat
-bip_39_word_dash_6: pattern-wolf-okay-fortune-fat-embrace
-bip_39_word_dash_7: pattern-wolf-okay-fortune-fat-embrace-repair
-bip_39_word_dash_8: pattern-wolf-okay-fortune-fat-embrace-repair-glory
-bip_39_word_dash_9: pattern-wolf-okay-fortune-fat-embrace-repair-glory-lounge
-bip_39_word_new_br_1: pattern
-bip_39_word_new_br_10: pattern<br>wolf<br>okay<br>fortune<br>fat<br>embrace<br>repair<br>glory<br>lounge<br>cage
-bip_39_word_new_br_11: pattern<br>wolf<br>okay<br>fortune<br>fat<br>embrace<br>repair<br>glory<br>lounge<br>cage<br>drop
 bip_39_word_new_br_12: pattern<br>wolf<br>okay<br>fortune<br>fat<br>embrace<br>repair<br>glory<br>lounge<br>cage<br>drop<br>ankle
 bip_39_word_new_br_2: pattern<br>wolf
 bip_39_word_new_br_3: pattern<br>wolf<br>okay
-bip_39_word_new_br_4: pattern<br>wolf<br>okay<br>fortune
-bip_39_word_new_br_5: pattern<br>wolf<br>okay<br>fortune<br>fat
-bip_39_word_new_br_6: pattern<br>wolf<br>okay<br>fortune<br>fat<br>embrace
-bip_39_word_new_br_7: pattern<br>wolf<br>okay<br>fortune<br>fat<br>embrace<br>repair
-bip_39_word_new_br_8: pattern<br>wolf<br>okay<br>fortune<br>fat<br>embrace<br>repair<br>glory
-bip_39_word_new_br_9: pattern<br>wolf<br>okay<br>fortune<br>fat<br>embrace<br>repair<br>glory<br>lounge
-bip_39_word_new_line_1: pattern
-bip_39_word_new_line_10: 'pattern
-
-  wolf
-
-  okay
-
-  fortune
-
-  fat
-
-  embrace
-
-  repair
-
-  glory
-
-  lounge
-
-  cage'
-bip_39_word_new_line_11: 'pattern
-
-  wolf
-
-  okay
-
-  fortune
-
-  fat
-
-  embrace
-
-  repair
-
-  glory
-
-  lounge
-
-  cage
-
-  drop'
 bip_39_word_new_line_12: 'pattern
 
   wolf
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'pattern
   wolf
 
   okay'
-bip_39_word_new_line_4: 'pattern
-
-  wolf
-
-  okay
-
-  fortune'
-bip_39_word_new_line_5: 'pattern
-
-  wolf
-
-  okay
-
-  fortune
-
-  fat'
-bip_39_word_new_line_6: 'pattern
-
-  wolf
-
-  okay
-
-  fortune
-
-  fat
-
-  embrace'
-bip_39_word_new_line_7: 'pattern
-
-  wolf
-
-  okay
-
-  fortune
-
-  fat
-
-  embrace
-
-  repair'
-bip_39_word_new_line_8: 'pattern
-
-  wolf
-
-  okay
-
-  fortune
-
-  fat
-
-  embrace
-
-  repair
-
-  glory'
-bip_39_word_new_line_9: 'pattern
-
-  wolf
-
-  okay
-
-  fortune
-
-  fat
-
-  embrace
-
-  repair
-
-  glory
-
-  lounge'
-bip_39_word_no_space_1: pattern
-bip_39_word_no_space_10: patternwolfokayfortunefatembracerepairgloryloungecage
-bip_39_word_no_space_11: patternwolfokayfortunefatembracerepairgloryloungecagedrop
 bip_39_word_no_space_12: patternwolfokayfortunefatembracerepairgloryloungecagedropankle
 bip_39_word_no_space_2: patternwolf
 bip_39_word_no_space_3: patternwolfokay
-bip_39_word_no_space_4: patternwolfokayfortune
-bip_39_word_no_space_5: patternwolfokayfortunefat
-bip_39_word_no_space_6: patternwolfokayfortunefatembrace
-bip_39_word_no_space_7: patternwolfokayfortunefatembracerepair
-bip_39_word_no_space_8: patternwolfokayfortunefatembracerepairglory
-bip_39_word_no_space_9: patternwolfokayfortunefatembracerepairglorylounge
-bip_39_word_space_0:
-- pattern
-- wolf
-- okay
-- fortune
-- fat
-- embrace
-- repair
-- glory
-- lounge
-- cage
-- drop
-- ankle
-bip_39_word_space_1: pattern
-bip_39_word_space_10: pattern wolf okay fortune fat embrace repair glory lounge cage
-bip_39_word_space_11: pattern wolf okay fortune fat embrace repair glory lounge cage
-  drop
 bip_39_word_space_12: pattern wolf okay fortune fat embrace repair glory lounge cage
   drop ankle
 bip_39_word_space_2: pattern wolf
 bip_39_word_space_3: pattern wolf okay
-bip_39_word_space_4: pattern wolf okay fortune
-bip_39_word_space_5: pattern wolf okay fortune fat
-bip_39_word_space_6: pattern wolf okay fortune fat embrace
-bip_39_word_space_7: pattern wolf okay fortune fat embrace repair
-bip_39_word_space_8: pattern wolf okay fortune fat embrace repair glory
-bip_39_word_space_9: pattern wolf okay fortune fat embrace repair glory lounge
-bip_39_word_underscore_1: pattern
-bip_39_word_underscore_10: pattern_wolf_okay_fortune_fat_embrace_repair_glory_lounge_cage
-bip_39_word_underscore_11: pattern_wolf_okay_fortune_fat_embrace_repair_glory_lounge_cage_drop
 bip_39_word_underscore_12: pattern_wolf_okay_fortune_fat_embrace_repair_glory_lounge_cage_drop_ankle
 bip_39_word_underscore_2: pattern_wolf
 bip_39_word_underscore_3: pattern_wolf_okay
-bip_39_word_underscore_4: pattern_wolf_okay_fortune
-bip_39_word_underscore_5: pattern_wolf_okay_fortune_fat
-bip_39_word_underscore_6: pattern_wolf_okay_fortune_fat_embrace
-bip_39_word_underscore_7: pattern_wolf_okay_fortune_fat_embrace_repair
-bip_39_word_underscore_8: pattern_wolf_okay_fortune_fat_embrace_repair_glory
-bip_39_word_underscore_9: pattern_wolf_okay_fortune_fat_embrace_repair_glory_lounge
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

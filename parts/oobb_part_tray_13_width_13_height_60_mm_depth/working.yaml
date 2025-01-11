@@ -1,68 +1,9 @@
-bip_39_word_dash_1: when
-bip_39_word_dash_10: when-appear-piece-dog-bone-normal-blur-use-cigar-used
-bip_39_word_dash_11: when-appear-piece-dog-bone-normal-blur-use-cigar-used-meadow
 bip_39_word_dash_12: when-appear-piece-dog-bone-normal-blur-use-cigar-used-meadow-able
 bip_39_word_dash_2: when-appear
 bip_39_word_dash_3: when-appear-piece
-bip_39_word_dash_4: when-appear-piece-dog
-bip_39_word_dash_5: when-appear-piece-dog-bone
-bip_39_word_dash_6: when-appear-piece-dog-bone-normal
-bip_39_word_dash_7: when-appear-piece-dog-bone-normal-blur
-bip_39_word_dash_8: when-appear-piece-dog-bone-normal-blur-use
-bip_39_word_dash_9: when-appear-piece-dog-bone-normal-blur-use-cigar
-bip_39_word_new_br_1: when
-bip_39_word_new_br_10: when<br>appear<br>piece<br>dog<br>bone<br>normal<br>blur<br>use<br>cigar<br>used
-bip_39_word_new_br_11: when<br>appear<br>piece<br>dog<br>bone<br>normal<br>blur<br>use<br>cigar<br>used<br>meadow
 bip_39_word_new_br_12: when<br>appear<br>piece<br>dog<br>bone<br>normal<br>blur<br>use<br>cigar<br>used<br>meadow<br>able
 bip_39_word_new_br_2: when<br>appear
 bip_39_word_new_br_3: when<br>appear<br>piece
-bip_39_word_new_br_4: when<br>appear<br>piece<br>dog
-bip_39_word_new_br_5: when<br>appear<br>piece<br>dog<br>bone
-bip_39_word_new_br_6: when<br>appear<br>piece<br>dog<br>bone<br>normal
-bip_39_word_new_br_7: when<br>appear<br>piece<br>dog<br>bone<br>normal<br>blur
-bip_39_word_new_br_8: when<br>appear<br>piece<br>dog<br>bone<br>normal<br>blur<br>use
-bip_39_word_new_br_9: when<br>appear<br>piece<br>dog<br>bone<br>normal<br>blur<br>use<br>cigar
-bip_39_word_new_line_1: when
-bip_39_word_new_line_10: 'when
-
-  appear
-
-  piece
-
-  dog
-
-  bone
-
-  normal
-
-  blur
-
-  use
-
-  cigar
-
-  used'
-bip_39_word_new_line_11: 'when
-
-  appear
-
-  piece
-
-  dog
-
-  bone
-
-  normal
-
-  blur
-
-  use
-
-  cigar
-
-  used
-
-  meadow'
 bip_39_word_new_line_12: 'when
 
   appear
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'when
   appear
 
   piece'
-bip_39_word_new_line_4: 'when
-
-  appear
-
-  piece
-
-  dog'
-bip_39_word_new_line_5: 'when
-
-  appear
-
-  piece
-
-  dog
-
-  bone'
-bip_39_word_new_line_6: 'when
-
-  appear
-
-  piece
-
-  dog
-
-  bone
-
-  normal'
-bip_39_word_new_line_7: 'when
-
-  appear
-
-  piece
-
-  dog
-
-  bone
-
-  normal
-
-  blur'
-bip_39_word_new_line_8: 'when
-
-  appear
-
-  piece
-
-  dog
-
-  bone
-
-  normal
-
-  blur
-
-  use'
-bip_39_word_new_line_9: 'when
-
-  appear
-
-  piece
-
-  dog
-
-  bone
-
-  normal
-
-  blur
-
-  use
-
-  cigar'
-bip_39_word_no_space_1: when
-bip_39_word_no_space_10: whenappearpiecedogbonenormalblurusecigarused
-bip_39_word_no_space_11: whenappearpiecedogbonenormalblurusecigarusedmeadow
 bip_39_word_no_space_12: whenappearpiecedogbonenormalblurusecigarusedmeadowable
 bip_39_word_no_space_2: whenappear
 bip_39_word_no_space_3: whenappearpiece
-bip_39_word_no_space_4: whenappearpiecedog
-bip_39_word_no_space_5: whenappearpiecedogbone
-bip_39_word_no_space_6: whenappearpiecedogbonenormal
-bip_39_word_no_space_7: whenappearpiecedogbonenormalblur
-bip_39_word_no_space_8: whenappearpiecedogbonenormalbluruse
-bip_39_word_no_space_9: whenappearpiecedogbonenormalblurusecigar
-bip_39_word_space_0:
-- when
-- appear
-- piece
-- dog
-- bone
-- normal
-- blur
-- use
-- cigar
-- used
-- meadow
-- able
-bip_39_word_space_1: when
-bip_39_word_space_10: when appear piece dog bone normal blur use cigar used
-bip_39_word_space_11: when appear piece dog bone normal blur use cigar used meadow
 bip_39_word_space_12: when appear piece dog bone normal blur use cigar used meadow
   able
 bip_39_word_space_2: when appear
 bip_39_word_space_3: when appear piece
-bip_39_word_space_4: when appear piece dog
-bip_39_word_space_5: when appear piece dog bone
-bip_39_word_space_6: when appear piece dog bone normal
-bip_39_word_space_7: when appear piece dog bone normal blur
-bip_39_word_space_8: when appear piece dog bone normal blur use
-bip_39_word_space_9: when appear piece dog bone normal blur use cigar
-bip_39_word_underscore_1: when
-bip_39_word_underscore_10: when_appear_piece_dog_bone_normal_blur_use_cigar_used
-bip_39_word_underscore_11: when_appear_piece_dog_bone_normal_blur_use_cigar_used_meadow
 bip_39_word_underscore_12: when_appear_piece_dog_bone_normal_blur_use_cigar_used_meadow_able
 bip_39_word_underscore_2: when_appear
 bip_39_word_underscore_3: when_appear_piece
-bip_39_word_underscore_4: when_appear_piece_dog
-bip_39_word_underscore_5: when_appear_piece_dog_bone
-bip_39_word_underscore_6: when_appear_piece_dog_bone_normal
-bip_39_word_underscore_7: when_appear_piece_dog_bone_normal_blur
-bip_39_word_underscore_8: when_appear_piece_dog_bone_normal_blur_use
-bip_39_word_underscore_9: when_appear_piece_dog_bone_normal_blur_use_cigar
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

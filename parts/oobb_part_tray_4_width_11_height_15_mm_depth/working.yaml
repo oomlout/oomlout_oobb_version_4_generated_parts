@@ -1,68 +1,9 @@
-bip_39_word_dash_1: affair
-bip_39_word_dash_10: affair-loyal-sniff-quarter-frown-sting-maid-dust-empty-airport
-bip_39_word_dash_11: affair-loyal-sniff-quarter-frown-sting-maid-dust-empty-airport-gentle
 bip_39_word_dash_12: affair-loyal-sniff-quarter-frown-sting-maid-dust-empty-airport-gentle-access
 bip_39_word_dash_2: affair-loyal
 bip_39_word_dash_3: affair-loyal-sniff
-bip_39_word_dash_4: affair-loyal-sniff-quarter
-bip_39_word_dash_5: affair-loyal-sniff-quarter-frown
-bip_39_word_dash_6: affair-loyal-sniff-quarter-frown-sting
-bip_39_word_dash_7: affair-loyal-sniff-quarter-frown-sting-maid
-bip_39_word_dash_8: affair-loyal-sniff-quarter-frown-sting-maid-dust
-bip_39_word_dash_9: affair-loyal-sniff-quarter-frown-sting-maid-dust-empty
-bip_39_word_new_br_1: affair
-bip_39_word_new_br_10: affair<br>loyal<br>sniff<br>quarter<br>frown<br>sting<br>maid<br>dust<br>empty<br>airport
-bip_39_word_new_br_11: affair<br>loyal<br>sniff<br>quarter<br>frown<br>sting<br>maid<br>dust<br>empty<br>airport<br>gentle
 bip_39_word_new_br_12: affair<br>loyal<br>sniff<br>quarter<br>frown<br>sting<br>maid<br>dust<br>empty<br>airport<br>gentle<br>access
 bip_39_word_new_br_2: affair<br>loyal
 bip_39_word_new_br_3: affair<br>loyal<br>sniff
-bip_39_word_new_br_4: affair<br>loyal<br>sniff<br>quarter
-bip_39_word_new_br_5: affair<br>loyal<br>sniff<br>quarter<br>frown
-bip_39_word_new_br_6: affair<br>loyal<br>sniff<br>quarter<br>frown<br>sting
-bip_39_word_new_br_7: affair<br>loyal<br>sniff<br>quarter<br>frown<br>sting<br>maid
-bip_39_word_new_br_8: affair<br>loyal<br>sniff<br>quarter<br>frown<br>sting<br>maid<br>dust
-bip_39_word_new_br_9: affair<br>loyal<br>sniff<br>quarter<br>frown<br>sting<br>maid<br>dust<br>empty
-bip_39_word_new_line_1: affair
-bip_39_word_new_line_10: 'affair
-
-  loyal
-
-  sniff
-
-  quarter
-
-  frown
-
-  sting
-
-  maid
-
-  dust
-
-  empty
-
-  airport'
-bip_39_word_new_line_11: 'affair
-
-  loyal
-
-  sniff
-
-  quarter
-
-  frown
-
-  sting
-
-  maid
-
-  dust
-
-  empty
-
-  airport
-
-  gentle'
 bip_39_word_new_line_12: 'affair
 
   loyal
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'affair
   loyal
 
   sniff'
-bip_39_word_new_line_4: 'affair
-
-  loyal
-
-  sniff
-
-  quarter'
-bip_39_word_new_line_5: 'affair
-
-  loyal
-
-  sniff
-
-  quarter
-
-  frown'
-bip_39_word_new_line_6: 'affair
-
-  loyal
-
-  sniff
-
-  quarter
-
-  frown
-
-  sting'
-bip_39_word_new_line_7: 'affair
-
-  loyal
-
-  sniff
-
-  quarter
-
-  frown
-
-  sting
-
-  maid'
-bip_39_word_new_line_8: 'affair
-
-  loyal
-
-  sniff
-
-  quarter
-
-  frown
-
-  sting
-
-  maid
-
-  dust'
-bip_39_word_new_line_9: 'affair
-
-  loyal
-
-  sniff
-
-  quarter
-
-  frown
-
-  sting
-
-  maid
-
-  dust
-
-  empty'
-bip_39_word_no_space_1: affair
-bip_39_word_no_space_10: affairloyalsniffquarterfrownstingmaiddustemptyairport
-bip_39_word_no_space_11: affairloyalsniffquarterfrownstingmaiddustemptyairportgentle
 bip_39_word_no_space_12: affairloyalsniffquarterfrownstingmaiddustemptyairportgentleaccess
 bip_39_word_no_space_2: affairloyal
 bip_39_word_no_space_3: affairloyalsniff
-bip_39_word_no_space_4: affairloyalsniffquarter
-bip_39_word_no_space_5: affairloyalsniffquarterfrown
-bip_39_word_no_space_6: affairloyalsniffquarterfrownsting
-bip_39_word_no_space_7: affairloyalsniffquarterfrownstingmaid
-bip_39_word_no_space_8: affairloyalsniffquarterfrownstingmaiddust
-bip_39_word_no_space_9: affairloyalsniffquarterfrownstingmaiddustempty
-bip_39_word_space_0:
-- affair
-- loyal
-- sniff
-- quarter
-- frown
-- sting
-- maid
-- dust
-- empty
-- airport
-- gentle
-- access
-bip_39_word_space_1: affair
-bip_39_word_space_10: affair loyal sniff quarter frown sting maid dust empty airport
-bip_39_word_space_11: affair loyal sniff quarter frown sting maid dust empty airport
-  gentle
 bip_39_word_space_12: affair loyal sniff quarter frown sting maid dust empty airport
   gentle access
 bip_39_word_space_2: affair loyal
 bip_39_word_space_3: affair loyal sniff
-bip_39_word_space_4: affair loyal sniff quarter
-bip_39_word_space_5: affair loyal sniff quarter frown
-bip_39_word_space_6: affair loyal sniff quarter frown sting
-bip_39_word_space_7: affair loyal sniff quarter frown sting maid
-bip_39_word_space_8: affair loyal sniff quarter frown sting maid dust
-bip_39_word_space_9: affair loyal sniff quarter frown sting maid dust empty
-bip_39_word_underscore_1: affair
-bip_39_word_underscore_10: affair_loyal_sniff_quarter_frown_sting_maid_dust_empty_airport
-bip_39_word_underscore_11: affair_loyal_sniff_quarter_frown_sting_maid_dust_empty_airport_gentle
 bip_39_word_underscore_12: affair_loyal_sniff_quarter_frown_sting_maid_dust_empty_airport_gentle_access
 bip_39_word_underscore_2: affair_loyal
 bip_39_word_underscore_3: affair_loyal_sniff
-bip_39_word_underscore_4: affair_loyal_sniff_quarter
-bip_39_word_underscore_5: affair_loyal_sniff_quarter_frown
-bip_39_word_underscore_6: affair_loyal_sniff_quarter_frown_sting
-bip_39_word_underscore_7: affair_loyal_sniff_quarter_frown_sting_maid
-bip_39_word_underscore_8: affair_loyal_sniff_quarter_frown_sting_maid_dust
-bip_39_word_underscore_9: affair_loyal_sniff_quarter_frown_sting_maid_dust_empty
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

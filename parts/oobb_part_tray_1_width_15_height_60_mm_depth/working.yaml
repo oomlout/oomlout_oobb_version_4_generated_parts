@@ -1,68 +1,9 @@
-bip_39_word_dash_1: cargo
-bip_39_word_dash_10: cargo-broken-license-goose-key-false-lucky-hazard-elevator-expose
-bip_39_word_dash_11: cargo-broken-license-goose-key-false-lucky-hazard-elevator-expose-estate
 bip_39_word_dash_12: cargo-broken-license-goose-key-false-lucky-hazard-elevator-expose-estate-actress
 bip_39_word_dash_2: cargo-broken
 bip_39_word_dash_3: cargo-broken-license
-bip_39_word_dash_4: cargo-broken-license-goose
-bip_39_word_dash_5: cargo-broken-license-goose-key
-bip_39_word_dash_6: cargo-broken-license-goose-key-false
-bip_39_word_dash_7: cargo-broken-license-goose-key-false-lucky
-bip_39_word_dash_8: cargo-broken-license-goose-key-false-lucky-hazard
-bip_39_word_dash_9: cargo-broken-license-goose-key-false-lucky-hazard-elevator
-bip_39_word_new_br_1: cargo
-bip_39_word_new_br_10: cargo<br>broken<br>license<br>goose<br>key<br>false<br>lucky<br>hazard<br>elevator<br>expose
-bip_39_word_new_br_11: cargo<br>broken<br>license<br>goose<br>key<br>false<br>lucky<br>hazard<br>elevator<br>expose<br>estate
 bip_39_word_new_br_12: cargo<br>broken<br>license<br>goose<br>key<br>false<br>lucky<br>hazard<br>elevator<br>expose<br>estate<br>actress
 bip_39_word_new_br_2: cargo<br>broken
 bip_39_word_new_br_3: cargo<br>broken<br>license
-bip_39_word_new_br_4: cargo<br>broken<br>license<br>goose
-bip_39_word_new_br_5: cargo<br>broken<br>license<br>goose<br>key
-bip_39_word_new_br_6: cargo<br>broken<br>license<br>goose<br>key<br>false
-bip_39_word_new_br_7: cargo<br>broken<br>license<br>goose<br>key<br>false<br>lucky
-bip_39_word_new_br_8: cargo<br>broken<br>license<br>goose<br>key<br>false<br>lucky<br>hazard
-bip_39_word_new_br_9: cargo<br>broken<br>license<br>goose<br>key<br>false<br>lucky<br>hazard<br>elevator
-bip_39_word_new_line_1: cargo
-bip_39_word_new_line_10: 'cargo
-
-  broken
-
-  license
-
-  goose
-
-  key
-
-  false
-
-  lucky
-
-  hazard
-
-  elevator
-
-  expose'
-bip_39_word_new_line_11: 'cargo
-
-  broken
-
-  license
-
-  goose
-
-  key
-
-  false
-
-  lucky
-
-  hazard
-
-  elevator
-
-  expose
-
-  estate'
 bip_39_word_new_line_12: 'cargo
 
   broken
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'cargo
   broken
 
   license'
-bip_39_word_new_line_4: 'cargo
-
-  broken
-
-  license
-
-  goose'
-bip_39_word_new_line_5: 'cargo
-
-  broken
-
-  license
-
-  goose
-
-  key'
-bip_39_word_new_line_6: 'cargo
-
-  broken
-
-  license
-
-  goose
-
-  key
-
-  false'
-bip_39_word_new_line_7: 'cargo
-
-  broken
-
-  license
-
-  goose
-
-  key
-
-  false
-
-  lucky'
-bip_39_word_new_line_8: 'cargo
-
-  broken
-
-  license
-
-  goose
-
-  key
-
-  false
-
-  lucky
-
-  hazard'
-bip_39_word_new_line_9: 'cargo
-
-  broken
-
-  license
-
-  goose
-
-  key
-
-  false
-
-  lucky
-
-  hazard
-
-  elevator'
-bip_39_word_no_space_1: cargo
-bip_39_word_no_space_10: cargobrokenlicensegoosekeyfalseluckyhazardelevatorexpose
-bip_39_word_no_space_11: cargobrokenlicensegoosekeyfalseluckyhazardelevatorexposeestate
 bip_39_word_no_space_12: cargobrokenlicensegoosekeyfalseluckyhazardelevatorexposeestateactress
 bip_39_word_no_space_2: cargobroken
 bip_39_word_no_space_3: cargobrokenlicense
-bip_39_word_no_space_4: cargobrokenlicensegoose
-bip_39_word_no_space_5: cargobrokenlicensegoosekey
-bip_39_word_no_space_6: cargobrokenlicensegoosekeyfalse
-bip_39_word_no_space_7: cargobrokenlicensegoosekeyfalselucky
-bip_39_word_no_space_8: cargobrokenlicensegoosekeyfalseluckyhazard
-bip_39_word_no_space_9: cargobrokenlicensegoosekeyfalseluckyhazardelevator
-bip_39_word_space_0:
-- cargo
-- broken
-- license
-- goose
-- key
-- 'false'
-- lucky
-- hazard
-- elevator
-- expose
-- estate
-- actress
-bip_39_word_space_1: cargo
-bip_39_word_space_10: cargo broken license goose key false lucky hazard elevator expose
-bip_39_word_space_11: cargo broken license goose key false lucky hazard elevator expose
-  estate
 bip_39_word_space_12: cargo broken license goose key false lucky hazard elevator expose
   estate actress
 bip_39_word_space_2: cargo broken
 bip_39_word_space_3: cargo broken license
-bip_39_word_space_4: cargo broken license goose
-bip_39_word_space_5: cargo broken license goose key
-bip_39_word_space_6: cargo broken license goose key false
-bip_39_word_space_7: cargo broken license goose key false lucky
-bip_39_word_space_8: cargo broken license goose key false lucky hazard
-bip_39_word_space_9: cargo broken license goose key false lucky hazard elevator
-bip_39_word_underscore_1: cargo
-bip_39_word_underscore_10: cargo_broken_license_goose_key_false_lucky_hazard_elevator_expose
-bip_39_word_underscore_11: cargo_broken_license_goose_key_false_lucky_hazard_elevator_expose_estate
 bip_39_word_underscore_12: cargo_broken_license_goose_key_false_lucky_hazard_elevator_expose_estate_actress
 bip_39_word_underscore_2: cargo_broken
 bip_39_word_underscore_3: cargo_broken_license
-bip_39_word_underscore_4: cargo_broken_license_goose
-bip_39_word_underscore_5: cargo_broken_license_goose_key
-bip_39_word_underscore_6: cargo_broken_license_goose_key_false
-bip_39_word_underscore_7: cargo_broken_license_goose_key_false_lucky
-bip_39_word_underscore_8: cargo_broken_license_goose_key_false_lucky_hazard
-bip_39_word_underscore_9: cargo_broken_license_goose_key_false_lucky_hazard_elevator
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

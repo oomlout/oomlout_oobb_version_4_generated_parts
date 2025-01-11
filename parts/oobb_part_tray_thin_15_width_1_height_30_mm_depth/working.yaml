@@ -1,68 +1,9 @@
-bip_39_word_dash_1: occur
-bip_39_word_dash_10: occur-ugly-bunker-square-crouch-dolphin-tape-transfer-leisure-cactus
-bip_39_word_dash_11: occur-ugly-bunker-square-crouch-dolphin-tape-transfer-leisure-cactus-ability
 bip_39_word_dash_12: occur-ugly-bunker-square-crouch-dolphin-tape-transfer-leisure-cactus-ability-alcohol
 bip_39_word_dash_2: occur-ugly
 bip_39_word_dash_3: occur-ugly-bunker
-bip_39_word_dash_4: occur-ugly-bunker-square
-bip_39_word_dash_5: occur-ugly-bunker-square-crouch
-bip_39_word_dash_6: occur-ugly-bunker-square-crouch-dolphin
-bip_39_word_dash_7: occur-ugly-bunker-square-crouch-dolphin-tape
-bip_39_word_dash_8: occur-ugly-bunker-square-crouch-dolphin-tape-transfer
-bip_39_word_dash_9: occur-ugly-bunker-square-crouch-dolphin-tape-transfer-leisure
-bip_39_word_new_br_1: occur
-bip_39_word_new_br_10: occur<br>ugly<br>bunker<br>square<br>crouch<br>dolphin<br>tape<br>transfer<br>leisure<br>cactus
-bip_39_word_new_br_11: occur<br>ugly<br>bunker<br>square<br>crouch<br>dolphin<br>tape<br>transfer<br>leisure<br>cactus<br>ability
 bip_39_word_new_br_12: occur<br>ugly<br>bunker<br>square<br>crouch<br>dolphin<br>tape<br>transfer<br>leisure<br>cactus<br>ability<br>alcohol
 bip_39_word_new_br_2: occur<br>ugly
 bip_39_word_new_br_3: occur<br>ugly<br>bunker
-bip_39_word_new_br_4: occur<br>ugly<br>bunker<br>square
-bip_39_word_new_br_5: occur<br>ugly<br>bunker<br>square<br>crouch
-bip_39_word_new_br_6: occur<br>ugly<br>bunker<br>square<br>crouch<br>dolphin
-bip_39_word_new_br_7: occur<br>ugly<br>bunker<br>square<br>crouch<br>dolphin<br>tape
-bip_39_word_new_br_8: occur<br>ugly<br>bunker<br>square<br>crouch<br>dolphin<br>tape<br>transfer
-bip_39_word_new_br_9: occur<br>ugly<br>bunker<br>square<br>crouch<br>dolphin<br>tape<br>transfer<br>leisure
-bip_39_word_new_line_1: occur
-bip_39_word_new_line_10: 'occur
-
-  ugly
-
-  bunker
-
-  square
-
-  crouch
-
-  dolphin
-
-  tape
-
-  transfer
-
-  leisure
-
-  cactus'
-bip_39_word_new_line_11: 'occur
-
-  ugly
-
-  bunker
-
-  square
-
-  crouch
-
-  dolphin
-
-  tape
-
-  transfer
-
-  leisure
-
-  cactus
-
-  ability'
 bip_39_word_new_line_12: 'occur
 
   ugly
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'occur
   ugly
 
   bunker'
-bip_39_word_new_line_4: 'occur
-
-  ugly
-
-  bunker
-
-  square'
-bip_39_word_new_line_5: 'occur
-
-  ugly
-
-  bunker
-
-  square
-
-  crouch'
-bip_39_word_new_line_6: 'occur
-
-  ugly
-
-  bunker
-
-  square
-
-  crouch
-
-  dolphin'
-bip_39_word_new_line_7: 'occur
-
-  ugly
-
-  bunker
-
-  square
-
-  crouch
-
-  dolphin
-
-  tape'
-bip_39_word_new_line_8: 'occur
-
-  ugly
-
-  bunker
-
-  square
-
-  crouch
-
-  dolphin
-
-  tape
-
-  transfer'
-bip_39_word_new_line_9: 'occur
-
-  ugly
-
-  bunker
-
-  square
-
-  crouch
-
-  dolphin
-
-  tape
-
-  transfer
-
-  leisure'
-bip_39_word_no_space_1: occur
-bip_39_word_no_space_10: occuruglybunkersquarecrouchdolphintapetransferleisurecactus
-bip_39_word_no_space_11: occuruglybunkersquarecrouchdolphintapetransferleisurecactusability
 bip_39_word_no_space_12: occuruglybunkersquarecrouchdolphintapetransferleisurecactusabilityalcohol
 bip_39_word_no_space_2: occurugly
 bip_39_word_no_space_3: occuruglybunker
-bip_39_word_no_space_4: occuruglybunkersquare
-bip_39_word_no_space_5: occuruglybunkersquarecrouch
-bip_39_word_no_space_6: occuruglybunkersquarecrouchdolphin
-bip_39_word_no_space_7: occuruglybunkersquarecrouchdolphintape
-bip_39_word_no_space_8: occuruglybunkersquarecrouchdolphintapetransfer
-bip_39_word_no_space_9: occuruglybunkersquarecrouchdolphintapetransferleisure
-bip_39_word_space_0:
-- occur
-- ugly
-- bunker
-- square
-- crouch
-- dolphin
-- tape
-- transfer
-- leisure
-- cactus
-- ability
-- alcohol
-bip_39_word_space_1: occur
-bip_39_word_space_10: occur ugly bunker square crouch dolphin tape transfer leisure
-  cactus
-bip_39_word_space_11: occur ugly bunker square crouch dolphin tape transfer leisure
-  cactus ability
 bip_39_word_space_12: occur ugly bunker square crouch dolphin tape transfer leisure
   cactus ability alcohol
 bip_39_word_space_2: occur ugly
 bip_39_word_space_3: occur ugly bunker
-bip_39_word_space_4: occur ugly bunker square
-bip_39_word_space_5: occur ugly bunker square crouch
-bip_39_word_space_6: occur ugly bunker square crouch dolphin
-bip_39_word_space_7: occur ugly bunker square crouch dolphin tape
-bip_39_word_space_8: occur ugly bunker square crouch dolphin tape transfer
-bip_39_word_space_9: occur ugly bunker square crouch dolphin tape transfer leisure
-bip_39_word_underscore_1: occur
-bip_39_word_underscore_10: occur_ugly_bunker_square_crouch_dolphin_tape_transfer_leisure_cactus
-bip_39_word_underscore_11: occur_ugly_bunker_square_crouch_dolphin_tape_transfer_leisure_cactus_ability
 bip_39_word_underscore_12: occur_ugly_bunker_square_crouch_dolphin_tape_transfer_leisure_cactus_ability_alcohol
 bip_39_word_underscore_2: occur_ugly
 bip_39_word_underscore_3: occur_ugly_bunker
-bip_39_word_underscore_4: occur_ugly_bunker_square
-bip_39_word_underscore_5: occur_ugly_bunker_square_crouch
-bip_39_word_underscore_6: occur_ugly_bunker_square_crouch_dolphin
-bip_39_word_underscore_7: occur_ugly_bunker_square_crouch_dolphin_tape
-bip_39_word_underscore_8: occur_ugly_bunker_square_crouch_dolphin_tape_transfer
-bip_39_word_underscore_9: occur_ugly_bunker_square_crouch_dolphin_tape_transfer_leisure
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: narrow
-bip_39_word_dash_10: narrow-charge-soldier-use-verify-carry-scrub-taxi-grant-render
-bip_39_word_dash_11: narrow-charge-soldier-use-verify-carry-scrub-taxi-grant-render-season
 bip_39_word_dash_12: narrow-charge-soldier-use-verify-carry-scrub-taxi-grant-render-season-air
 bip_39_word_dash_2: narrow-charge
 bip_39_word_dash_3: narrow-charge-soldier
-bip_39_word_dash_4: narrow-charge-soldier-use
-bip_39_word_dash_5: narrow-charge-soldier-use-verify
-bip_39_word_dash_6: narrow-charge-soldier-use-verify-carry
-bip_39_word_dash_7: narrow-charge-soldier-use-verify-carry-scrub
-bip_39_word_dash_8: narrow-charge-soldier-use-verify-carry-scrub-taxi
-bip_39_word_dash_9: narrow-charge-soldier-use-verify-carry-scrub-taxi-grant
-bip_39_word_new_br_1: narrow
-bip_39_word_new_br_10: narrow<br>charge<br>soldier<br>use<br>verify<br>carry<br>scrub<br>taxi<br>grant<br>render
-bip_39_word_new_br_11: narrow<br>charge<br>soldier<br>use<br>verify<br>carry<br>scrub<br>taxi<br>grant<br>render<br>season
 bip_39_word_new_br_12: narrow<br>charge<br>soldier<br>use<br>verify<br>carry<br>scrub<br>taxi<br>grant<br>render<br>season<br>air
 bip_39_word_new_br_2: narrow<br>charge
 bip_39_word_new_br_3: narrow<br>charge<br>soldier
-bip_39_word_new_br_4: narrow<br>charge<br>soldier<br>use
-bip_39_word_new_br_5: narrow<br>charge<br>soldier<br>use<br>verify
-bip_39_word_new_br_6: narrow<br>charge<br>soldier<br>use<br>verify<br>carry
-bip_39_word_new_br_7: narrow<br>charge<br>soldier<br>use<br>verify<br>carry<br>scrub
-bip_39_word_new_br_8: narrow<br>charge<br>soldier<br>use<br>verify<br>carry<br>scrub<br>taxi
-bip_39_word_new_br_9: narrow<br>charge<br>soldier<br>use<br>verify<br>carry<br>scrub<br>taxi<br>grant
-bip_39_word_new_line_1: narrow
-bip_39_word_new_line_10: 'narrow
-
-  charge
-
-  soldier
-
-  use
-
-  verify
-
-  carry
-
-  scrub
-
-  taxi
-
-  grant
-
-  render'
-bip_39_word_new_line_11: 'narrow
-
-  charge
-
-  soldier
-
-  use
-
-  verify
-
-  carry
-
-  scrub
-
-  taxi
-
-  grant
-
-  render
-
-  season'
 bip_39_word_new_line_12: 'narrow
 
   charge
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'narrow
   charge
 
   soldier'
-bip_39_word_new_line_4: 'narrow
-
-  charge
-
-  soldier
-
-  use'
-bip_39_word_new_line_5: 'narrow
-
-  charge
-
-  soldier
-
-  use
-
-  verify'
-bip_39_word_new_line_6: 'narrow
-
-  charge
-
-  soldier
-
-  use
-
-  verify
-
-  carry'
-bip_39_word_new_line_7: 'narrow
-
-  charge
-
-  soldier
-
-  use
-
-  verify
-
-  carry
-
-  scrub'
-bip_39_word_new_line_8: 'narrow
-
-  charge
-
-  soldier
-
-  use
-
-  verify
-
-  carry
-
-  scrub
-
-  taxi'
-bip_39_word_new_line_9: 'narrow
-
-  charge
-
-  soldier
-
-  use
-
-  verify
-
-  carry
-
-  scrub
-
-  taxi
-
-  grant'
-bip_39_word_no_space_1: narrow
-bip_39_word_no_space_10: narrowchargesoldieruseverifycarryscrubtaxigrantrender
-bip_39_word_no_space_11: narrowchargesoldieruseverifycarryscrubtaxigrantrenderseason
 bip_39_word_no_space_12: narrowchargesoldieruseverifycarryscrubtaxigrantrenderseasonair
 bip_39_word_no_space_2: narrowcharge
 bip_39_word_no_space_3: narrowchargesoldier
-bip_39_word_no_space_4: narrowchargesoldieruse
-bip_39_word_no_space_5: narrowchargesoldieruseverify
-bip_39_word_no_space_6: narrowchargesoldieruseverifycarry
-bip_39_word_no_space_7: narrowchargesoldieruseverifycarryscrub
-bip_39_word_no_space_8: narrowchargesoldieruseverifycarryscrubtaxi
-bip_39_word_no_space_9: narrowchargesoldieruseverifycarryscrubtaxigrant
-bip_39_word_space_0:
-- narrow
-- charge
-- soldier
-- use
-- verify
-- carry
-- scrub
-- taxi
-- grant
-- render
-- season
-- air
-bip_39_word_space_1: narrow
-bip_39_word_space_10: narrow charge soldier use verify carry scrub taxi grant render
-bip_39_word_space_11: narrow charge soldier use verify carry scrub taxi grant render
-  season
 bip_39_word_space_12: narrow charge soldier use verify carry scrub taxi grant render
   season air
 bip_39_word_space_2: narrow charge
 bip_39_word_space_3: narrow charge soldier
-bip_39_word_space_4: narrow charge soldier use
-bip_39_word_space_5: narrow charge soldier use verify
-bip_39_word_space_6: narrow charge soldier use verify carry
-bip_39_word_space_7: narrow charge soldier use verify carry scrub
-bip_39_word_space_8: narrow charge soldier use verify carry scrub taxi
-bip_39_word_space_9: narrow charge soldier use verify carry scrub taxi grant
-bip_39_word_underscore_1: narrow
-bip_39_word_underscore_10: narrow_charge_soldier_use_verify_carry_scrub_taxi_grant_render
-bip_39_word_underscore_11: narrow_charge_soldier_use_verify_carry_scrub_taxi_grant_render_season
 bip_39_word_underscore_12: narrow_charge_soldier_use_verify_carry_scrub_taxi_grant_render_season_air
 bip_39_word_underscore_2: narrow_charge
 bip_39_word_underscore_3: narrow_charge_soldier
-bip_39_word_underscore_4: narrow_charge_soldier_use
-bip_39_word_underscore_5: narrow_charge_soldier_use_verify
-bip_39_word_underscore_6: narrow_charge_soldier_use_verify_carry
-bip_39_word_underscore_7: narrow_charge_soldier_use_verify_carry_scrub
-bip_39_word_underscore_8: narrow_charge_soldier_use_verify_carry_scrub_taxi
-bip_39_word_underscore_9: narrow_charge_soldier_use_verify_carry_scrub_taxi_grant
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

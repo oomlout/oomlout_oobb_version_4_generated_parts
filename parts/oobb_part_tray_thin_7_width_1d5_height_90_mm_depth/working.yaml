@@ -1,68 +1,9 @@
-bip_39_word_dash_1: service
-bip_39_word_dash_10: service-below-motor-remain-pause-cigar-sad-illegal-echo-fashion
-bip_39_word_dash_11: service-below-motor-remain-pause-cigar-sad-illegal-echo-fashion-comfort
 bip_39_word_dash_12: service-below-motor-remain-pause-cigar-sad-illegal-echo-fashion-comfort-aerobic
 bip_39_word_dash_2: service-below
 bip_39_word_dash_3: service-below-motor
-bip_39_word_dash_4: service-below-motor-remain
-bip_39_word_dash_5: service-below-motor-remain-pause
-bip_39_word_dash_6: service-below-motor-remain-pause-cigar
-bip_39_word_dash_7: service-below-motor-remain-pause-cigar-sad
-bip_39_word_dash_8: service-below-motor-remain-pause-cigar-sad-illegal
-bip_39_word_dash_9: service-below-motor-remain-pause-cigar-sad-illegal-echo
-bip_39_word_new_br_1: service
-bip_39_word_new_br_10: service<br>below<br>motor<br>remain<br>pause<br>cigar<br>sad<br>illegal<br>echo<br>fashion
-bip_39_word_new_br_11: service<br>below<br>motor<br>remain<br>pause<br>cigar<br>sad<br>illegal<br>echo<br>fashion<br>comfort
 bip_39_word_new_br_12: service<br>below<br>motor<br>remain<br>pause<br>cigar<br>sad<br>illegal<br>echo<br>fashion<br>comfort<br>aerobic
 bip_39_word_new_br_2: service<br>below
 bip_39_word_new_br_3: service<br>below<br>motor
-bip_39_word_new_br_4: service<br>below<br>motor<br>remain
-bip_39_word_new_br_5: service<br>below<br>motor<br>remain<br>pause
-bip_39_word_new_br_6: service<br>below<br>motor<br>remain<br>pause<br>cigar
-bip_39_word_new_br_7: service<br>below<br>motor<br>remain<br>pause<br>cigar<br>sad
-bip_39_word_new_br_8: service<br>below<br>motor<br>remain<br>pause<br>cigar<br>sad<br>illegal
-bip_39_word_new_br_9: service<br>below<br>motor<br>remain<br>pause<br>cigar<br>sad<br>illegal<br>echo
-bip_39_word_new_line_1: service
-bip_39_word_new_line_10: 'service
-
-  below
-
-  motor
-
-  remain
-
-  pause
-
-  cigar
-
-  sad
-
-  illegal
-
-  echo
-
-  fashion'
-bip_39_word_new_line_11: 'service
-
-  below
-
-  motor
-
-  remain
-
-  pause
-
-  cigar
-
-  sad
-
-  illegal
-
-  echo
-
-  fashion
-
-  comfort'
 bip_39_word_new_line_12: 'service
 
   below
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'service
   below
 
   motor'
-bip_39_word_new_line_4: 'service
-
-  below
-
-  motor
-
-  remain'
-bip_39_word_new_line_5: 'service
-
-  below
-
-  motor
-
-  remain
-
-  pause'
-bip_39_word_new_line_6: 'service
-
-  below
-
-  motor
-
-  remain
-
-  pause
-
-  cigar'
-bip_39_word_new_line_7: 'service
-
-  below
-
-  motor
-
-  remain
-
-  pause
-
-  cigar
-
-  sad'
-bip_39_word_new_line_8: 'service
-
-  below
-
-  motor
-
-  remain
-
-  pause
-
-  cigar
-
-  sad
-
-  illegal'
-bip_39_word_new_line_9: 'service
-
-  below
-
-  motor
-
-  remain
-
-  pause
-
-  cigar
-
-  sad
-
-  illegal
-
-  echo'
-bip_39_word_no_space_1: service
-bip_39_word_no_space_10: servicebelowmotorremainpausecigarsadillegalechofashion
-bip_39_word_no_space_11: servicebelowmotorremainpausecigarsadillegalechofashioncomfort
 bip_39_word_no_space_12: servicebelowmotorremainpausecigarsadillegalechofashioncomfortaerobic
 bip_39_word_no_space_2: servicebelow
 bip_39_word_no_space_3: servicebelowmotor
-bip_39_word_no_space_4: servicebelowmotorremain
-bip_39_word_no_space_5: servicebelowmotorremainpause
-bip_39_word_no_space_6: servicebelowmotorremainpausecigar
-bip_39_word_no_space_7: servicebelowmotorremainpausecigarsad
-bip_39_word_no_space_8: servicebelowmotorremainpausecigarsadillegal
-bip_39_word_no_space_9: servicebelowmotorremainpausecigarsadillegalecho
-bip_39_word_space_0:
-- service
-- below
-- motor
-- remain
-- pause
-- cigar
-- sad
-- illegal
-- echo
-- fashion
-- comfort
-- aerobic
-bip_39_word_space_1: service
-bip_39_word_space_10: service below motor remain pause cigar sad illegal echo fashion
-bip_39_word_space_11: service below motor remain pause cigar sad illegal echo fashion
-  comfort
 bip_39_word_space_12: service below motor remain pause cigar sad illegal echo fashion
   comfort aerobic
 bip_39_word_space_2: service below
 bip_39_word_space_3: service below motor
-bip_39_word_space_4: service below motor remain
-bip_39_word_space_5: service below motor remain pause
-bip_39_word_space_6: service below motor remain pause cigar
-bip_39_word_space_7: service below motor remain pause cigar sad
-bip_39_word_space_8: service below motor remain pause cigar sad illegal
-bip_39_word_space_9: service below motor remain pause cigar sad illegal echo
-bip_39_word_underscore_1: service
-bip_39_word_underscore_10: service_below_motor_remain_pause_cigar_sad_illegal_echo_fashion
-bip_39_word_underscore_11: service_below_motor_remain_pause_cigar_sad_illegal_echo_fashion_comfort
 bip_39_word_underscore_12: service_below_motor_remain_pause_cigar_sad_illegal_echo_fashion_comfort_aerobic
 bip_39_word_underscore_2: service_below
 bip_39_word_underscore_3: service_below_motor
-bip_39_word_underscore_4: service_below_motor_remain
-bip_39_word_underscore_5: service_below_motor_remain_pause
-bip_39_word_underscore_6: service_below_motor_remain_pause_cigar
-bip_39_word_underscore_7: service_below_motor_remain_pause_cigar_sad
-bip_39_word_underscore_8: service_below_motor_remain_pause_cigar_sad_illegal
-bip_39_word_underscore_9: service_below_motor_remain_pause_cigar_sad_illegal_echo
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

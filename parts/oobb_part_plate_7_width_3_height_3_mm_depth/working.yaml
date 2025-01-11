@@ -1,68 +1,9 @@
-bip_39_word_dash_1: choice
-bip_39_word_dash_10: choice-dolphin-head-more-smart-gun-mobile-delay-old-machine
-bip_39_word_dash_11: choice-dolphin-head-more-smart-gun-mobile-delay-old-machine-diary
 bip_39_word_dash_12: choice-dolphin-head-more-smart-gun-mobile-delay-old-machine-diary-apple
 bip_39_word_dash_2: choice-dolphin
 bip_39_word_dash_3: choice-dolphin-head
-bip_39_word_dash_4: choice-dolphin-head-more
-bip_39_word_dash_5: choice-dolphin-head-more-smart
-bip_39_word_dash_6: choice-dolphin-head-more-smart-gun
-bip_39_word_dash_7: choice-dolphin-head-more-smart-gun-mobile
-bip_39_word_dash_8: choice-dolphin-head-more-smart-gun-mobile-delay
-bip_39_word_dash_9: choice-dolphin-head-more-smart-gun-mobile-delay-old
-bip_39_word_new_br_1: choice
-bip_39_word_new_br_10: choice<br>dolphin<br>head<br>more<br>smart<br>gun<br>mobile<br>delay<br>old<br>machine
-bip_39_word_new_br_11: choice<br>dolphin<br>head<br>more<br>smart<br>gun<br>mobile<br>delay<br>old<br>machine<br>diary
 bip_39_word_new_br_12: choice<br>dolphin<br>head<br>more<br>smart<br>gun<br>mobile<br>delay<br>old<br>machine<br>diary<br>apple
 bip_39_word_new_br_2: choice<br>dolphin
 bip_39_word_new_br_3: choice<br>dolphin<br>head
-bip_39_word_new_br_4: choice<br>dolphin<br>head<br>more
-bip_39_word_new_br_5: choice<br>dolphin<br>head<br>more<br>smart
-bip_39_word_new_br_6: choice<br>dolphin<br>head<br>more<br>smart<br>gun
-bip_39_word_new_br_7: choice<br>dolphin<br>head<br>more<br>smart<br>gun<br>mobile
-bip_39_word_new_br_8: choice<br>dolphin<br>head<br>more<br>smart<br>gun<br>mobile<br>delay
-bip_39_word_new_br_9: choice<br>dolphin<br>head<br>more<br>smart<br>gun<br>mobile<br>delay<br>old
-bip_39_word_new_line_1: choice
-bip_39_word_new_line_10: 'choice
-
-  dolphin
-
-  head
-
-  more
-
-  smart
-
-  gun
-
-  mobile
-
-  delay
-
-  old
-
-  machine'
-bip_39_word_new_line_11: 'choice
-
-  dolphin
-
-  head
-
-  more
-
-  smart
-
-  gun
-
-  mobile
-
-  delay
-
-  old
-
-  machine
-
-  diary'
 bip_39_word_new_line_12: 'choice
 
   dolphin
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'choice
   dolphin
 
   head'
-bip_39_word_new_line_4: 'choice
-
-  dolphin
-
-  head
-
-  more'
-bip_39_word_new_line_5: 'choice
-
-  dolphin
-
-  head
-
-  more
-
-  smart'
-bip_39_word_new_line_6: 'choice
-
-  dolphin
-
-  head
-
-  more
-
-  smart
-
-  gun'
-bip_39_word_new_line_7: 'choice
-
-  dolphin
-
-  head
-
-  more
-
-  smart
-
-  gun
-
-  mobile'
-bip_39_word_new_line_8: 'choice
-
-  dolphin
-
-  head
-
-  more
-
-  smart
-
-  gun
-
-  mobile
-
-  delay'
-bip_39_word_new_line_9: 'choice
-
-  dolphin
-
-  head
-
-  more
-
-  smart
-
-  gun
-
-  mobile
-
-  delay
-
-  old'
-bip_39_word_no_space_1: choice
-bip_39_word_no_space_10: choicedolphinheadmoresmartgunmobiledelayoldmachine
-bip_39_word_no_space_11: choicedolphinheadmoresmartgunmobiledelayoldmachinediary
 bip_39_word_no_space_12: choicedolphinheadmoresmartgunmobiledelayoldmachinediaryapple
 bip_39_word_no_space_2: choicedolphin
 bip_39_word_no_space_3: choicedolphinhead
-bip_39_word_no_space_4: choicedolphinheadmore
-bip_39_word_no_space_5: choicedolphinheadmoresmart
-bip_39_word_no_space_6: choicedolphinheadmoresmartgun
-bip_39_word_no_space_7: choicedolphinheadmoresmartgunmobile
-bip_39_word_no_space_8: choicedolphinheadmoresmartgunmobiledelay
-bip_39_word_no_space_9: choicedolphinheadmoresmartgunmobiledelayold
-bip_39_word_space_0:
-- choice
-- dolphin
-- head
-- more
-- smart
-- gun
-- mobile
-- delay
-- old
-- machine
-- diary
-- apple
-bip_39_word_space_1: choice
-bip_39_word_space_10: choice dolphin head more smart gun mobile delay old machine
-bip_39_word_space_11: choice dolphin head more smart gun mobile delay old machine
-  diary
 bip_39_word_space_12: choice dolphin head more smart gun mobile delay old machine
   diary apple
 bip_39_word_space_2: choice dolphin
 bip_39_word_space_3: choice dolphin head
-bip_39_word_space_4: choice dolphin head more
-bip_39_word_space_5: choice dolphin head more smart
-bip_39_word_space_6: choice dolphin head more smart gun
-bip_39_word_space_7: choice dolphin head more smart gun mobile
-bip_39_word_space_8: choice dolphin head more smart gun mobile delay
-bip_39_word_space_9: choice dolphin head more smart gun mobile delay old
-bip_39_word_underscore_1: choice
-bip_39_word_underscore_10: choice_dolphin_head_more_smart_gun_mobile_delay_old_machine
-bip_39_word_underscore_11: choice_dolphin_head_more_smart_gun_mobile_delay_old_machine_diary
 bip_39_word_underscore_12: choice_dolphin_head_more_smart_gun_mobile_delay_old_machine_diary_apple
 bip_39_word_underscore_2: choice_dolphin
 bip_39_word_underscore_3: choice_dolphin_head
-bip_39_word_underscore_4: choice_dolphin_head_more
-bip_39_word_underscore_5: choice_dolphin_head_more_smart
-bip_39_word_underscore_6: choice_dolphin_head_more_smart_gun
-bip_39_word_underscore_7: choice_dolphin_head_more_smart_gun_mobile
-bip_39_word_underscore_8: choice_dolphin_head_more_smart_gun_mobile_delay
-bip_39_word_underscore_9: choice_dolphin_head_more_smart_gun_mobile_delay_old
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

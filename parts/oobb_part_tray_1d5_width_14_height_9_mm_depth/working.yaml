@@ -1,68 +1,9 @@
-bip_39_word_dash_1: all
-bip_39_word_dash_10: all-legal-cram-profit-betray-follow-step-close-rough-release
-bip_39_word_dash_11: all-legal-cram-profit-betray-follow-step-close-rough-release-all
 bip_39_word_dash_12: all-legal-cram-profit-betray-follow-step-close-rough-release-all-audit
 bip_39_word_dash_2: all-legal
 bip_39_word_dash_3: all-legal-cram
-bip_39_word_dash_4: all-legal-cram-profit
-bip_39_word_dash_5: all-legal-cram-profit-betray
-bip_39_word_dash_6: all-legal-cram-profit-betray-follow
-bip_39_word_dash_7: all-legal-cram-profit-betray-follow-step
-bip_39_word_dash_8: all-legal-cram-profit-betray-follow-step-close
-bip_39_word_dash_9: all-legal-cram-profit-betray-follow-step-close-rough
-bip_39_word_new_br_1: all
-bip_39_word_new_br_10: all<br>legal<br>cram<br>profit<br>betray<br>follow<br>step<br>close<br>rough<br>release
-bip_39_word_new_br_11: all<br>legal<br>cram<br>profit<br>betray<br>follow<br>step<br>close<br>rough<br>release<br>all
 bip_39_word_new_br_12: all<br>legal<br>cram<br>profit<br>betray<br>follow<br>step<br>close<br>rough<br>release<br>all<br>audit
 bip_39_word_new_br_2: all<br>legal
 bip_39_word_new_br_3: all<br>legal<br>cram
-bip_39_word_new_br_4: all<br>legal<br>cram<br>profit
-bip_39_word_new_br_5: all<br>legal<br>cram<br>profit<br>betray
-bip_39_word_new_br_6: all<br>legal<br>cram<br>profit<br>betray<br>follow
-bip_39_word_new_br_7: all<br>legal<br>cram<br>profit<br>betray<br>follow<br>step
-bip_39_word_new_br_8: all<br>legal<br>cram<br>profit<br>betray<br>follow<br>step<br>close
-bip_39_word_new_br_9: all<br>legal<br>cram<br>profit<br>betray<br>follow<br>step<br>close<br>rough
-bip_39_word_new_line_1: all
-bip_39_word_new_line_10: 'all
-
-  legal
-
-  cram
-
-  profit
-
-  betray
-
-  follow
-
-  step
-
-  close
-
-  rough
-
-  release'
-bip_39_word_new_line_11: 'all
-
-  legal
-
-  cram
-
-  profit
-
-  betray
-
-  follow
-
-  step
-
-  close
-
-  rough
-
-  release
-
-  all'
 bip_39_word_new_line_12: 'all
 
   legal
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'all
   legal
 
   cram'
-bip_39_word_new_line_4: 'all
-
-  legal
-
-  cram
-
-  profit'
-bip_39_word_new_line_5: 'all
-
-  legal
-
-  cram
-
-  profit
-
-  betray'
-bip_39_word_new_line_6: 'all
-
-  legal
-
-  cram
-
-  profit
-
-  betray
-
-  follow'
-bip_39_word_new_line_7: 'all
-
-  legal
-
-  cram
-
-  profit
-
-  betray
-
-  follow
-
-  step'
-bip_39_word_new_line_8: 'all
-
-  legal
-
-  cram
-
-  profit
-
-  betray
-
-  follow
-
-  step
-
-  close'
-bip_39_word_new_line_9: 'all
-
-  legal
-
-  cram
-
-  profit
-
-  betray
-
-  follow
-
-  step
-
-  close
-
-  rough'
-bip_39_word_no_space_1: all
-bip_39_word_no_space_10: alllegalcramprofitbetrayfollowstepcloseroughrelease
-bip_39_word_no_space_11: alllegalcramprofitbetrayfollowstepcloseroughreleaseall
 bip_39_word_no_space_12: alllegalcramprofitbetrayfollowstepcloseroughreleaseallaudit
 bip_39_word_no_space_2: alllegal
 bip_39_word_no_space_3: alllegalcram
-bip_39_word_no_space_4: alllegalcramprofit
-bip_39_word_no_space_5: alllegalcramprofitbetray
-bip_39_word_no_space_6: alllegalcramprofitbetrayfollow
-bip_39_word_no_space_7: alllegalcramprofitbetrayfollowstep
-bip_39_word_no_space_8: alllegalcramprofitbetrayfollowstepclose
-bip_39_word_no_space_9: alllegalcramprofitbetrayfollowstepcloserough
-bip_39_word_space_0:
-- all
-- legal
-- cram
-- profit
-- betray
-- follow
-- step
-- close
-- rough
-- release
-- all
-- audit
-bip_39_word_space_1: all
-bip_39_word_space_10: all legal cram profit betray follow step close rough release
-bip_39_word_space_11: all legal cram profit betray follow step close rough release
-  all
 bip_39_word_space_12: all legal cram profit betray follow step close rough release
   all audit
 bip_39_word_space_2: all legal
 bip_39_word_space_3: all legal cram
-bip_39_word_space_4: all legal cram profit
-bip_39_word_space_5: all legal cram profit betray
-bip_39_word_space_6: all legal cram profit betray follow
-bip_39_word_space_7: all legal cram profit betray follow step
-bip_39_word_space_8: all legal cram profit betray follow step close
-bip_39_word_space_9: all legal cram profit betray follow step close rough
-bip_39_word_underscore_1: all
-bip_39_word_underscore_10: all_legal_cram_profit_betray_follow_step_close_rough_release
-bip_39_word_underscore_11: all_legal_cram_profit_betray_follow_step_close_rough_release_all
 bip_39_word_underscore_12: all_legal_cram_profit_betray_follow_step_close_rough_release_all_audit
 bip_39_word_underscore_2: all_legal
 bip_39_word_underscore_3: all_legal_cram
-bip_39_word_underscore_4: all_legal_cram_profit
-bip_39_word_underscore_5: all_legal_cram_profit_betray
-bip_39_word_underscore_6: all_legal_cram_profit_betray_follow
-bip_39_word_underscore_7: all_legal_cram_profit_betray_follow_step
-bip_39_word_underscore_8: all_legal_cram_profit_betray_follow_step_close
-bip_39_word_underscore_9: all_legal_cram_profit_betray_follow_step_close_rough
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

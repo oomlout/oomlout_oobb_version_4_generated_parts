@@ -1,68 +1,9 @@
-bip_39_word_dash_1: isolate
-bip_39_word_dash_10: isolate-body-double-health-shine-year-napkin-junior-clap-toss
-bip_39_word_dash_11: isolate-body-double-health-shine-year-napkin-junior-clap-toss-physical
 bip_39_word_dash_12: isolate-body-double-health-shine-year-napkin-junior-clap-toss-physical-afford
 bip_39_word_dash_2: isolate-body
 bip_39_word_dash_3: isolate-body-double
-bip_39_word_dash_4: isolate-body-double-health
-bip_39_word_dash_5: isolate-body-double-health-shine
-bip_39_word_dash_6: isolate-body-double-health-shine-year
-bip_39_word_dash_7: isolate-body-double-health-shine-year-napkin
-bip_39_word_dash_8: isolate-body-double-health-shine-year-napkin-junior
-bip_39_word_dash_9: isolate-body-double-health-shine-year-napkin-junior-clap
-bip_39_word_new_br_1: isolate
-bip_39_word_new_br_10: isolate<br>body<br>double<br>health<br>shine<br>year<br>napkin<br>junior<br>clap<br>toss
-bip_39_word_new_br_11: isolate<br>body<br>double<br>health<br>shine<br>year<br>napkin<br>junior<br>clap<br>toss<br>physical
 bip_39_word_new_br_12: isolate<br>body<br>double<br>health<br>shine<br>year<br>napkin<br>junior<br>clap<br>toss<br>physical<br>afford
 bip_39_word_new_br_2: isolate<br>body
 bip_39_word_new_br_3: isolate<br>body<br>double
-bip_39_word_new_br_4: isolate<br>body<br>double<br>health
-bip_39_word_new_br_5: isolate<br>body<br>double<br>health<br>shine
-bip_39_word_new_br_6: isolate<br>body<br>double<br>health<br>shine<br>year
-bip_39_word_new_br_7: isolate<br>body<br>double<br>health<br>shine<br>year<br>napkin
-bip_39_word_new_br_8: isolate<br>body<br>double<br>health<br>shine<br>year<br>napkin<br>junior
-bip_39_word_new_br_9: isolate<br>body<br>double<br>health<br>shine<br>year<br>napkin<br>junior<br>clap
-bip_39_word_new_line_1: isolate
-bip_39_word_new_line_10: 'isolate
-
-  body
-
-  double
-
-  health
-
-  shine
-
-  year
-
-  napkin
-
-  junior
-
-  clap
-
-  toss'
-bip_39_word_new_line_11: 'isolate
-
-  body
-
-  double
-
-  health
-
-  shine
-
-  year
-
-  napkin
-
-  junior
-
-  clap
-
-  toss
-
-  physical'
 bip_39_word_new_line_12: 'isolate
 
   body
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'isolate
   body
 
   double'
-bip_39_word_new_line_4: 'isolate
-
-  body
-
-  double
-
-  health'
-bip_39_word_new_line_5: 'isolate
-
-  body
-
-  double
-
-  health
-
-  shine'
-bip_39_word_new_line_6: 'isolate
-
-  body
-
-  double
-
-  health
-
-  shine
-
-  year'
-bip_39_word_new_line_7: 'isolate
-
-  body
-
-  double
-
-  health
-
-  shine
-
-  year
-
-  napkin'
-bip_39_word_new_line_8: 'isolate
-
-  body
-
-  double
-
-  health
-
-  shine
-
-  year
-
-  napkin
-
-  junior'
-bip_39_word_new_line_9: 'isolate
-
-  body
-
-  double
-
-  health
-
-  shine
-
-  year
-
-  napkin
-
-  junior
-
-  clap'
-bip_39_word_no_space_1: isolate
-bip_39_word_no_space_10: isolatebodydoublehealthshineyearnapkinjuniorclaptoss
-bip_39_word_no_space_11: isolatebodydoublehealthshineyearnapkinjuniorclaptossphysical
 bip_39_word_no_space_12: isolatebodydoublehealthshineyearnapkinjuniorclaptossphysicalafford
 bip_39_word_no_space_2: isolatebody
 bip_39_word_no_space_3: isolatebodydouble
-bip_39_word_no_space_4: isolatebodydoublehealth
-bip_39_word_no_space_5: isolatebodydoublehealthshine
-bip_39_word_no_space_6: isolatebodydoublehealthshineyear
-bip_39_word_no_space_7: isolatebodydoublehealthshineyearnapkin
-bip_39_word_no_space_8: isolatebodydoublehealthshineyearnapkinjunior
-bip_39_word_no_space_9: isolatebodydoublehealthshineyearnapkinjuniorclap
-bip_39_word_space_0:
-- isolate
-- body
-- double
-- health
-- shine
-- year
-- napkin
-- junior
-- clap
-- toss
-- physical
-- afford
-bip_39_word_space_1: isolate
-bip_39_word_space_10: isolate body double health shine year napkin junior clap toss
-bip_39_word_space_11: isolate body double health shine year napkin junior clap toss
-  physical
 bip_39_word_space_12: isolate body double health shine year napkin junior clap toss
   physical afford
 bip_39_word_space_2: isolate body
 bip_39_word_space_3: isolate body double
-bip_39_word_space_4: isolate body double health
-bip_39_word_space_5: isolate body double health shine
-bip_39_word_space_6: isolate body double health shine year
-bip_39_word_space_7: isolate body double health shine year napkin
-bip_39_word_space_8: isolate body double health shine year napkin junior
-bip_39_word_space_9: isolate body double health shine year napkin junior clap
-bip_39_word_underscore_1: isolate
-bip_39_word_underscore_10: isolate_body_double_health_shine_year_napkin_junior_clap_toss
-bip_39_word_underscore_11: isolate_body_double_health_shine_year_napkin_junior_clap_toss_physical
 bip_39_word_underscore_12: isolate_body_double_health_shine_year_napkin_junior_clap_toss_physical_afford
 bip_39_word_underscore_2: isolate_body
 bip_39_word_underscore_3: isolate_body_double
-bip_39_word_underscore_4: isolate_body_double_health
-bip_39_word_underscore_5: isolate_body_double_health_shine
-bip_39_word_underscore_6: isolate_body_double_health_shine_year
-bip_39_word_underscore_7: isolate_body_double_health_shine_year_napkin
-bip_39_word_underscore_8: isolate_body_double_health_shine_year_napkin_junior
-bip_39_word_underscore_9: isolate_body_double_health_shine_year_napkin_junior_clap
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

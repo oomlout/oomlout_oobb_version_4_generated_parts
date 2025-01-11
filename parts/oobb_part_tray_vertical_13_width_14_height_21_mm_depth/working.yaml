@@ -1,68 +1,9 @@
-bip_39_word_dash_1: news
-bip_39_word_dash_10: news-method-song-reflect-stuff-until-force-rebuild-size-unable
-bip_39_word_dash_11: news-method-song-reflect-stuff-until-force-rebuild-size-unable-since
 bip_39_word_dash_12: news-method-song-reflect-stuff-until-force-rebuild-size-unable-since-arrange
 bip_39_word_dash_2: news-method
 bip_39_word_dash_3: news-method-song
-bip_39_word_dash_4: news-method-song-reflect
-bip_39_word_dash_5: news-method-song-reflect-stuff
-bip_39_word_dash_6: news-method-song-reflect-stuff-until
-bip_39_word_dash_7: news-method-song-reflect-stuff-until-force
-bip_39_word_dash_8: news-method-song-reflect-stuff-until-force-rebuild
-bip_39_word_dash_9: news-method-song-reflect-stuff-until-force-rebuild-size
-bip_39_word_new_br_1: news
-bip_39_word_new_br_10: news<br>method<br>song<br>reflect<br>stuff<br>until<br>force<br>rebuild<br>size<br>unable
-bip_39_word_new_br_11: news<br>method<br>song<br>reflect<br>stuff<br>until<br>force<br>rebuild<br>size<br>unable<br>since
 bip_39_word_new_br_12: news<br>method<br>song<br>reflect<br>stuff<br>until<br>force<br>rebuild<br>size<br>unable<br>since<br>arrange
 bip_39_word_new_br_2: news<br>method
 bip_39_word_new_br_3: news<br>method<br>song
-bip_39_word_new_br_4: news<br>method<br>song<br>reflect
-bip_39_word_new_br_5: news<br>method<br>song<br>reflect<br>stuff
-bip_39_word_new_br_6: news<br>method<br>song<br>reflect<br>stuff<br>until
-bip_39_word_new_br_7: news<br>method<br>song<br>reflect<br>stuff<br>until<br>force
-bip_39_word_new_br_8: news<br>method<br>song<br>reflect<br>stuff<br>until<br>force<br>rebuild
-bip_39_word_new_br_9: news<br>method<br>song<br>reflect<br>stuff<br>until<br>force<br>rebuild<br>size
-bip_39_word_new_line_1: news
-bip_39_word_new_line_10: 'news
-
-  method
-
-  song
-
-  reflect
-
-  stuff
-
-  until
-
-  force
-
-  rebuild
-
-  size
-
-  unable'
-bip_39_word_new_line_11: 'news
-
-  method
-
-  song
-
-  reflect
-
-  stuff
-
-  until
-
-  force
-
-  rebuild
-
-  size
-
-  unable
-
-  since'
 bip_39_word_new_line_12: 'news
 
   method
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'news
   method
 
   song'
-bip_39_word_new_line_4: 'news
-
-  method
-
-  song
-
-  reflect'
-bip_39_word_new_line_5: 'news
-
-  method
-
-  song
-
-  reflect
-
-  stuff'
-bip_39_word_new_line_6: 'news
-
-  method
-
-  song
-
-  reflect
-
-  stuff
-
-  until'
-bip_39_word_new_line_7: 'news
-
-  method
-
-  song
-
-  reflect
-
-  stuff
-
-  until
-
-  force'
-bip_39_word_new_line_8: 'news
-
-  method
-
-  song
-
-  reflect
-
-  stuff
-
-  until
-
-  force
-
-  rebuild'
-bip_39_word_new_line_9: 'news
-
-  method
-
-  song
-
-  reflect
-
-  stuff
-
-  until
-
-  force
-
-  rebuild
-
-  size'
-bip_39_word_no_space_1: news
-bip_39_word_no_space_10: newsmethodsongreflectstuffuntilforcerebuildsizeunable
-bip_39_word_no_space_11: newsmethodsongreflectstuffuntilforcerebuildsizeunablesince
 bip_39_word_no_space_12: newsmethodsongreflectstuffuntilforcerebuildsizeunablesincearrange
 bip_39_word_no_space_2: newsmethod
 bip_39_word_no_space_3: newsmethodsong
-bip_39_word_no_space_4: newsmethodsongreflect
-bip_39_word_no_space_5: newsmethodsongreflectstuff
-bip_39_word_no_space_6: newsmethodsongreflectstuffuntil
-bip_39_word_no_space_7: newsmethodsongreflectstuffuntilforce
-bip_39_word_no_space_8: newsmethodsongreflectstuffuntilforcerebuild
-bip_39_word_no_space_9: newsmethodsongreflectstuffuntilforcerebuildsize
-bip_39_word_space_0:
-- news
-- method
-- song
-- reflect
-- stuff
-- until
-- force
-- rebuild
-- size
-- unable
-- since
-- arrange
-bip_39_word_space_1: news
-bip_39_word_space_10: news method song reflect stuff until force rebuild size unable
-bip_39_word_space_11: news method song reflect stuff until force rebuild size unable
-  since
 bip_39_word_space_12: news method song reflect stuff until force rebuild size unable
   since arrange
 bip_39_word_space_2: news method
 bip_39_word_space_3: news method song
-bip_39_word_space_4: news method song reflect
-bip_39_word_space_5: news method song reflect stuff
-bip_39_word_space_6: news method song reflect stuff until
-bip_39_word_space_7: news method song reflect stuff until force
-bip_39_word_space_8: news method song reflect stuff until force rebuild
-bip_39_word_space_9: news method song reflect stuff until force rebuild size
-bip_39_word_underscore_1: news
-bip_39_word_underscore_10: news_method_song_reflect_stuff_until_force_rebuild_size_unable
-bip_39_word_underscore_11: news_method_song_reflect_stuff_until_force_rebuild_size_unable_since
 bip_39_word_underscore_12: news_method_song_reflect_stuff_until_force_rebuild_size_unable_since_arrange
 bip_39_word_underscore_2: news_method
 bip_39_word_underscore_3: news_method_song
-bip_39_word_underscore_4: news_method_song_reflect
-bip_39_word_underscore_5: news_method_song_reflect_stuff
-bip_39_word_underscore_6: news_method_song_reflect_stuff_until
-bip_39_word_underscore_7: news_method_song_reflect_stuff_until_force
-bip_39_word_underscore_8: news_method_song_reflect_stuff_until_force_rebuild
-bip_39_word_underscore_9: news_method_song_reflect_stuff_until_force_rebuild_size
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

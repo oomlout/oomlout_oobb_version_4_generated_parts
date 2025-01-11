@@ -1,68 +1,9 @@
-bip_39_word_dash_1: echo
-bip_39_word_dash_10: echo-ribbon-jaguar-brief-rotate-fiscal-harvest-beyond-hire-depart
-bip_39_word_dash_11: echo-ribbon-jaguar-brief-rotate-fiscal-harvest-beyond-hire-depart-soup
 bip_39_word_dash_12: echo-ribbon-jaguar-brief-rotate-fiscal-harvest-beyond-hire-depart-soup-arrow
 bip_39_word_dash_2: echo-ribbon
 bip_39_word_dash_3: echo-ribbon-jaguar
-bip_39_word_dash_4: echo-ribbon-jaguar-brief
-bip_39_word_dash_5: echo-ribbon-jaguar-brief-rotate
-bip_39_word_dash_6: echo-ribbon-jaguar-brief-rotate-fiscal
-bip_39_word_dash_7: echo-ribbon-jaguar-brief-rotate-fiscal-harvest
-bip_39_word_dash_8: echo-ribbon-jaguar-brief-rotate-fiscal-harvest-beyond
-bip_39_word_dash_9: echo-ribbon-jaguar-brief-rotate-fiscal-harvest-beyond-hire
-bip_39_word_new_br_1: echo
-bip_39_word_new_br_10: echo<br>ribbon<br>jaguar<br>brief<br>rotate<br>fiscal<br>harvest<br>beyond<br>hire<br>depart
-bip_39_word_new_br_11: echo<br>ribbon<br>jaguar<br>brief<br>rotate<br>fiscal<br>harvest<br>beyond<br>hire<br>depart<br>soup
 bip_39_word_new_br_12: echo<br>ribbon<br>jaguar<br>brief<br>rotate<br>fiscal<br>harvest<br>beyond<br>hire<br>depart<br>soup<br>arrow
 bip_39_word_new_br_2: echo<br>ribbon
 bip_39_word_new_br_3: echo<br>ribbon<br>jaguar
-bip_39_word_new_br_4: echo<br>ribbon<br>jaguar<br>brief
-bip_39_word_new_br_5: echo<br>ribbon<br>jaguar<br>brief<br>rotate
-bip_39_word_new_br_6: echo<br>ribbon<br>jaguar<br>brief<br>rotate<br>fiscal
-bip_39_word_new_br_7: echo<br>ribbon<br>jaguar<br>brief<br>rotate<br>fiscal<br>harvest
-bip_39_word_new_br_8: echo<br>ribbon<br>jaguar<br>brief<br>rotate<br>fiscal<br>harvest<br>beyond
-bip_39_word_new_br_9: echo<br>ribbon<br>jaguar<br>brief<br>rotate<br>fiscal<br>harvest<br>beyond<br>hire
-bip_39_word_new_line_1: echo
-bip_39_word_new_line_10: 'echo
-
-  ribbon
-
-  jaguar
-
-  brief
-
-  rotate
-
-  fiscal
-
-  harvest
-
-  beyond
-
-  hire
-
-  depart'
-bip_39_word_new_line_11: 'echo
-
-  ribbon
-
-  jaguar
-
-  brief
-
-  rotate
-
-  fiscal
-
-  harvest
-
-  beyond
-
-  hire
-
-  depart
-
-  soup'
 bip_39_word_new_line_12: 'echo
 
   ribbon
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'echo
   ribbon
 
   jaguar'
-bip_39_word_new_line_4: 'echo
-
-  ribbon
-
-  jaguar
-
-  brief'
-bip_39_word_new_line_5: 'echo
-
-  ribbon
-
-  jaguar
-
-  brief
-
-  rotate'
-bip_39_word_new_line_6: 'echo
-
-  ribbon
-
-  jaguar
-
-  brief
-
-  rotate
-
-  fiscal'
-bip_39_word_new_line_7: 'echo
-
-  ribbon
-
-  jaguar
-
-  brief
-
-  rotate
-
-  fiscal
-
-  harvest'
-bip_39_word_new_line_8: 'echo
-
-  ribbon
-
-  jaguar
-
-  brief
-
-  rotate
-
-  fiscal
-
-  harvest
-
-  beyond'
-bip_39_word_new_line_9: 'echo
-
-  ribbon
-
-  jaguar
-
-  brief
-
-  rotate
-
-  fiscal
-
-  harvest
-
-  beyond
-
-  hire'
-bip_39_word_no_space_1: echo
-bip_39_word_no_space_10: echoribbonjaguarbriefrotatefiscalharvestbeyondhiredepart
-bip_39_word_no_space_11: echoribbonjaguarbriefrotatefiscalharvestbeyondhiredepartsoup
 bip_39_word_no_space_12: echoribbonjaguarbriefrotatefiscalharvestbeyondhiredepartsouparrow
 bip_39_word_no_space_2: echoribbon
 bip_39_word_no_space_3: echoribbonjaguar
-bip_39_word_no_space_4: echoribbonjaguarbrief
-bip_39_word_no_space_5: echoribbonjaguarbriefrotate
-bip_39_word_no_space_6: echoribbonjaguarbriefrotatefiscal
-bip_39_word_no_space_7: echoribbonjaguarbriefrotatefiscalharvest
-bip_39_word_no_space_8: echoribbonjaguarbriefrotatefiscalharvestbeyond
-bip_39_word_no_space_9: echoribbonjaguarbriefrotatefiscalharvestbeyondhire
-bip_39_word_space_0:
-- echo
-- ribbon
-- jaguar
-- brief
-- rotate
-- fiscal
-- harvest
-- beyond
-- hire
-- depart
-- soup
-- arrow
-bip_39_word_space_1: echo
-bip_39_word_space_10: echo ribbon jaguar brief rotate fiscal harvest beyond hire depart
-bip_39_word_space_11: echo ribbon jaguar brief rotate fiscal harvest beyond hire depart
-  soup
 bip_39_word_space_12: echo ribbon jaguar brief rotate fiscal harvest beyond hire depart
   soup arrow
 bip_39_word_space_2: echo ribbon
 bip_39_word_space_3: echo ribbon jaguar
-bip_39_word_space_4: echo ribbon jaguar brief
-bip_39_word_space_5: echo ribbon jaguar brief rotate
-bip_39_word_space_6: echo ribbon jaguar brief rotate fiscal
-bip_39_word_space_7: echo ribbon jaguar brief rotate fiscal harvest
-bip_39_word_space_8: echo ribbon jaguar brief rotate fiscal harvest beyond
-bip_39_word_space_9: echo ribbon jaguar brief rotate fiscal harvest beyond hire
-bip_39_word_underscore_1: echo
-bip_39_word_underscore_10: echo_ribbon_jaguar_brief_rotate_fiscal_harvest_beyond_hire_depart
-bip_39_word_underscore_11: echo_ribbon_jaguar_brief_rotate_fiscal_harvest_beyond_hire_depart_soup
 bip_39_word_underscore_12: echo_ribbon_jaguar_brief_rotate_fiscal_harvest_beyond_hire_depart_soup_arrow
 bip_39_word_underscore_2: echo_ribbon
 bip_39_word_underscore_3: echo_ribbon_jaguar
-bip_39_word_underscore_4: echo_ribbon_jaguar_brief
-bip_39_word_underscore_5: echo_ribbon_jaguar_brief_rotate
-bip_39_word_underscore_6: echo_ribbon_jaguar_brief_rotate_fiscal
-bip_39_word_underscore_7: echo_ribbon_jaguar_brief_rotate_fiscal_harvest
-bip_39_word_underscore_8: echo_ribbon_jaguar_brief_rotate_fiscal_harvest_beyond
-bip_39_word_underscore_9: echo_ribbon_jaguar_brief_rotate_fiscal_harvest_beyond_hire
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

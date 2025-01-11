@@ -1,68 +1,9 @@
-bip_39_word_dash_1: repeat
-bip_39_word_dash_10: repeat-always-help-alpha-strong-code-sock-trash-what-river
-bip_39_word_dash_11: repeat-always-help-alpha-strong-code-sock-trash-what-river-logic
 bip_39_word_dash_12: repeat-always-help-alpha-strong-code-sock-trash-what-river-logic-adjust
 bip_39_word_dash_2: repeat-always
 bip_39_word_dash_3: repeat-always-help
-bip_39_word_dash_4: repeat-always-help-alpha
-bip_39_word_dash_5: repeat-always-help-alpha-strong
-bip_39_word_dash_6: repeat-always-help-alpha-strong-code
-bip_39_word_dash_7: repeat-always-help-alpha-strong-code-sock
-bip_39_word_dash_8: repeat-always-help-alpha-strong-code-sock-trash
-bip_39_word_dash_9: repeat-always-help-alpha-strong-code-sock-trash-what
-bip_39_word_new_br_1: repeat
-bip_39_word_new_br_10: repeat<br>always<br>help<br>alpha<br>strong<br>code<br>sock<br>trash<br>what<br>river
-bip_39_word_new_br_11: repeat<br>always<br>help<br>alpha<br>strong<br>code<br>sock<br>trash<br>what<br>river<br>logic
 bip_39_word_new_br_12: repeat<br>always<br>help<br>alpha<br>strong<br>code<br>sock<br>trash<br>what<br>river<br>logic<br>adjust
 bip_39_word_new_br_2: repeat<br>always
 bip_39_word_new_br_3: repeat<br>always<br>help
-bip_39_word_new_br_4: repeat<br>always<br>help<br>alpha
-bip_39_word_new_br_5: repeat<br>always<br>help<br>alpha<br>strong
-bip_39_word_new_br_6: repeat<br>always<br>help<br>alpha<br>strong<br>code
-bip_39_word_new_br_7: repeat<br>always<br>help<br>alpha<br>strong<br>code<br>sock
-bip_39_word_new_br_8: repeat<br>always<br>help<br>alpha<br>strong<br>code<br>sock<br>trash
-bip_39_word_new_br_9: repeat<br>always<br>help<br>alpha<br>strong<br>code<br>sock<br>trash<br>what
-bip_39_word_new_line_1: repeat
-bip_39_word_new_line_10: 'repeat
-
-  always
-
-  help
-
-  alpha
-
-  strong
-
-  code
-
-  sock
-
-  trash
-
-  what
-
-  river'
-bip_39_word_new_line_11: 'repeat
-
-  always
-
-  help
-
-  alpha
-
-  strong
-
-  code
-
-  sock
-
-  trash
-
-  what
-
-  river
-
-  logic'
 bip_39_word_new_line_12: 'repeat
 
   always
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'repeat
   always
 
   help'
-bip_39_word_new_line_4: 'repeat
-
-  always
-
-  help
-
-  alpha'
-bip_39_word_new_line_5: 'repeat
-
-  always
-
-  help
-
-  alpha
-
-  strong'
-bip_39_word_new_line_6: 'repeat
-
-  always
-
-  help
-
-  alpha
-
-  strong
-
-  code'
-bip_39_word_new_line_7: 'repeat
-
-  always
-
-  help
-
-  alpha
-
-  strong
-
-  code
-
-  sock'
-bip_39_word_new_line_8: 'repeat
-
-  always
-
-  help
-
-  alpha
-
-  strong
-
-  code
-
-  sock
-
-  trash'
-bip_39_word_new_line_9: 'repeat
-
-  always
-
-  help
-
-  alpha
-
-  strong
-
-  code
-
-  sock
-
-  trash
-
-  what'
-bip_39_word_no_space_1: repeat
-bip_39_word_no_space_10: repeatalwayshelpalphastrongcodesocktrashwhatriver
-bip_39_word_no_space_11: repeatalwayshelpalphastrongcodesocktrashwhatriverlogic
 bip_39_word_no_space_12: repeatalwayshelpalphastrongcodesocktrashwhatriverlogicadjust
 bip_39_word_no_space_2: repeatalways
 bip_39_word_no_space_3: repeatalwayshelp
-bip_39_word_no_space_4: repeatalwayshelpalpha
-bip_39_word_no_space_5: repeatalwayshelpalphastrong
-bip_39_word_no_space_6: repeatalwayshelpalphastrongcode
-bip_39_word_no_space_7: repeatalwayshelpalphastrongcodesock
-bip_39_word_no_space_8: repeatalwayshelpalphastrongcodesocktrash
-bip_39_word_no_space_9: repeatalwayshelpalphastrongcodesocktrashwhat
-bip_39_word_space_0:
-- repeat
-- always
-- help
-- alpha
-- strong
-- code
-- sock
-- trash
-- what
-- river
-- logic
-- adjust
-bip_39_word_space_1: repeat
-bip_39_word_space_10: repeat always help alpha strong code sock trash what river
-bip_39_word_space_11: repeat always help alpha strong code sock trash what river logic
 bip_39_word_space_12: repeat always help alpha strong code sock trash what river logic
   adjust
 bip_39_word_space_2: repeat always
 bip_39_word_space_3: repeat always help
-bip_39_word_space_4: repeat always help alpha
-bip_39_word_space_5: repeat always help alpha strong
-bip_39_word_space_6: repeat always help alpha strong code
-bip_39_word_space_7: repeat always help alpha strong code sock
-bip_39_word_space_8: repeat always help alpha strong code sock trash
-bip_39_word_space_9: repeat always help alpha strong code sock trash what
-bip_39_word_underscore_1: repeat
-bip_39_word_underscore_10: repeat_always_help_alpha_strong_code_sock_trash_what_river
-bip_39_word_underscore_11: repeat_always_help_alpha_strong_code_sock_trash_what_river_logic
 bip_39_word_underscore_12: repeat_always_help_alpha_strong_code_sock_trash_what_river_logic_adjust
 bip_39_word_underscore_2: repeat_always
 bip_39_word_underscore_3: repeat_always_help
-bip_39_word_underscore_4: repeat_always_help_alpha
-bip_39_word_underscore_5: repeat_always_help_alpha_strong
-bip_39_word_underscore_6: repeat_always_help_alpha_strong_code
-bip_39_word_underscore_7: repeat_always_help_alpha_strong_code_sock
-bip_39_word_underscore_8: repeat_always_help_alpha_strong_code_sock_trash
-bip_39_word_underscore_9: repeat_always_help_alpha_strong_code_sock_trash_what
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

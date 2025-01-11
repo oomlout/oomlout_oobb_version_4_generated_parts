@@ -1,68 +1,9 @@
-bip_39_word_dash_1: rice
-bip_39_word_dash_10: rice-party-armor-fault-dove-assault-sting-winner-execute-salmon
-bip_39_word_dash_11: rice-party-armor-fault-dove-assault-sting-winner-execute-salmon-snack
 bip_39_word_dash_12: rice-party-armor-fault-dove-assault-sting-winner-execute-salmon-snack-affair
 bip_39_word_dash_2: rice-party
 bip_39_word_dash_3: rice-party-armor
-bip_39_word_dash_4: rice-party-armor-fault
-bip_39_word_dash_5: rice-party-armor-fault-dove
-bip_39_word_dash_6: rice-party-armor-fault-dove-assault
-bip_39_word_dash_7: rice-party-armor-fault-dove-assault-sting
-bip_39_word_dash_8: rice-party-armor-fault-dove-assault-sting-winner
-bip_39_word_dash_9: rice-party-armor-fault-dove-assault-sting-winner-execute
-bip_39_word_new_br_1: rice
-bip_39_word_new_br_10: rice<br>party<br>armor<br>fault<br>dove<br>assault<br>sting<br>winner<br>execute<br>salmon
-bip_39_word_new_br_11: rice<br>party<br>armor<br>fault<br>dove<br>assault<br>sting<br>winner<br>execute<br>salmon<br>snack
 bip_39_word_new_br_12: rice<br>party<br>armor<br>fault<br>dove<br>assault<br>sting<br>winner<br>execute<br>salmon<br>snack<br>affair
 bip_39_word_new_br_2: rice<br>party
 bip_39_word_new_br_3: rice<br>party<br>armor
-bip_39_word_new_br_4: rice<br>party<br>armor<br>fault
-bip_39_word_new_br_5: rice<br>party<br>armor<br>fault<br>dove
-bip_39_word_new_br_6: rice<br>party<br>armor<br>fault<br>dove<br>assault
-bip_39_word_new_br_7: rice<br>party<br>armor<br>fault<br>dove<br>assault<br>sting
-bip_39_word_new_br_8: rice<br>party<br>armor<br>fault<br>dove<br>assault<br>sting<br>winner
-bip_39_word_new_br_9: rice<br>party<br>armor<br>fault<br>dove<br>assault<br>sting<br>winner<br>execute
-bip_39_word_new_line_1: rice
-bip_39_word_new_line_10: 'rice
-
-  party
-
-  armor
-
-  fault
-
-  dove
-
-  assault
-
-  sting
-
-  winner
-
-  execute
-
-  salmon'
-bip_39_word_new_line_11: 'rice
-
-  party
-
-  armor
-
-  fault
-
-  dove
-
-  assault
-
-  sting
-
-  winner
-
-  execute
-
-  salmon
-
-  snack'
 bip_39_word_new_line_12: 'rice
 
   party
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'rice
   party
 
   armor'
-bip_39_word_new_line_4: 'rice
-
-  party
-
-  armor
-
-  fault'
-bip_39_word_new_line_5: 'rice
-
-  party
-
-  armor
-
-  fault
-
-  dove'
-bip_39_word_new_line_6: 'rice
-
-  party
-
-  armor
-
-  fault
-
-  dove
-
-  assault'
-bip_39_word_new_line_7: 'rice
-
-  party
-
-  armor
-
-  fault
-
-  dove
-
-  assault
-
-  sting'
-bip_39_word_new_line_8: 'rice
-
-  party
-
-  armor
-
-  fault
-
-  dove
-
-  assault
-
-  sting
-
-  winner'
-bip_39_word_new_line_9: 'rice
-
-  party
-
-  armor
-
-  fault
-
-  dove
-
-  assault
-
-  sting
-
-  winner
-
-  execute'
-bip_39_word_no_space_1: rice
-bip_39_word_no_space_10: ricepartyarmorfaultdoveassaultstingwinnerexecutesalmon
-bip_39_word_no_space_11: ricepartyarmorfaultdoveassaultstingwinnerexecutesalmonsnack
 bip_39_word_no_space_12: ricepartyarmorfaultdoveassaultstingwinnerexecutesalmonsnackaffair
 bip_39_word_no_space_2: riceparty
 bip_39_word_no_space_3: ricepartyarmor
-bip_39_word_no_space_4: ricepartyarmorfault
-bip_39_word_no_space_5: ricepartyarmorfaultdove
-bip_39_word_no_space_6: ricepartyarmorfaultdoveassault
-bip_39_word_no_space_7: ricepartyarmorfaultdoveassaultsting
-bip_39_word_no_space_8: ricepartyarmorfaultdoveassaultstingwinner
-bip_39_word_no_space_9: ricepartyarmorfaultdoveassaultstingwinnerexecute
-bip_39_word_space_0:
-- rice
-- party
-- armor
-- fault
-- dove
-- assault
-- sting
-- winner
-- execute
-- salmon
-- snack
-- affair
-bip_39_word_space_1: rice
-bip_39_word_space_10: rice party armor fault dove assault sting winner execute salmon
-bip_39_word_space_11: rice party armor fault dove assault sting winner execute salmon
-  snack
 bip_39_word_space_12: rice party armor fault dove assault sting winner execute salmon
   snack affair
 bip_39_word_space_2: rice party
 bip_39_word_space_3: rice party armor
-bip_39_word_space_4: rice party armor fault
-bip_39_word_space_5: rice party armor fault dove
-bip_39_word_space_6: rice party armor fault dove assault
-bip_39_word_space_7: rice party armor fault dove assault sting
-bip_39_word_space_8: rice party armor fault dove assault sting winner
-bip_39_word_space_9: rice party armor fault dove assault sting winner execute
-bip_39_word_underscore_1: rice
-bip_39_word_underscore_10: rice_party_armor_fault_dove_assault_sting_winner_execute_salmon
-bip_39_word_underscore_11: rice_party_armor_fault_dove_assault_sting_winner_execute_salmon_snack
 bip_39_word_underscore_12: rice_party_armor_fault_dove_assault_sting_winner_execute_salmon_snack_affair
 bip_39_word_underscore_2: rice_party
 bip_39_word_underscore_3: rice_party_armor
-bip_39_word_underscore_4: rice_party_armor_fault
-bip_39_word_underscore_5: rice_party_armor_fault_dove
-bip_39_word_underscore_6: rice_party_armor_fault_dove_assault
-bip_39_word_underscore_7: rice_party_armor_fault_dove_assault_sting
-bip_39_word_underscore_8: rice_party_armor_fault_dove_assault_sting_winner
-bip_39_word_underscore_9: rice_party_armor_fault_dove_assault_sting_winner_execute
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

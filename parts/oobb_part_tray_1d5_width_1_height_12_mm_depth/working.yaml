@@ -1,68 +1,9 @@
-bip_39_word_dash_1: tired
-bip_39_word_dash_10: tired-owner-weasel-laptop-broken-require-coral-describe-science-heavy
-bip_39_word_dash_11: tired-owner-weasel-laptop-broken-require-coral-describe-science-heavy-inflict
 bip_39_word_dash_12: tired-owner-weasel-laptop-broken-require-coral-describe-science-heavy-inflict-always
 bip_39_word_dash_2: tired-owner
 bip_39_word_dash_3: tired-owner-weasel
-bip_39_word_dash_4: tired-owner-weasel-laptop
-bip_39_word_dash_5: tired-owner-weasel-laptop-broken
-bip_39_word_dash_6: tired-owner-weasel-laptop-broken-require
-bip_39_word_dash_7: tired-owner-weasel-laptop-broken-require-coral
-bip_39_word_dash_8: tired-owner-weasel-laptop-broken-require-coral-describe
-bip_39_word_dash_9: tired-owner-weasel-laptop-broken-require-coral-describe-science
-bip_39_word_new_br_1: tired
-bip_39_word_new_br_10: tired<br>owner<br>weasel<br>laptop<br>broken<br>require<br>coral<br>describe<br>science<br>heavy
-bip_39_word_new_br_11: tired<br>owner<br>weasel<br>laptop<br>broken<br>require<br>coral<br>describe<br>science<br>heavy<br>inflict
 bip_39_word_new_br_12: tired<br>owner<br>weasel<br>laptop<br>broken<br>require<br>coral<br>describe<br>science<br>heavy<br>inflict<br>always
 bip_39_word_new_br_2: tired<br>owner
 bip_39_word_new_br_3: tired<br>owner<br>weasel
-bip_39_word_new_br_4: tired<br>owner<br>weasel<br>laptop
-bip_39_word_new_br_5: tired<br>owner<br>weasel<br>laptop<br>broken
-bip_39_word_new_br_6: tired<br>owner<br>weasel<br>laptop<br>broken<br>require
-bip_39_word_new_br_7: tired<br>owner<br>weasel<br>laptop<br>broken<br>require<br>coral
-bip_39_word_new_br_8: tired<br>owner<br>weasel<br>laptop<br>broken<br>require<br>coral<br>describe
-bip_39_word_new_br_9: tired<br>owner<br>weasel<br>laptop<br>broken<br>require<br>coral<br>describe<br>science
-bip_39_word_new_line_1: tired
-bip_39_word_new_line_10: 'tired
-
-  owner
-
-  weasel
-
-  laptop
-
-  broken
-
-  require
-
-  coral
-
-  describe
-
-  science
-
-  heavy'
-bip_39_word_new_line_11: 'tired
-
-  owner
-
-  weasel
-
-  laptop
-
-  broken
-
-  require
-
-  coral
-
-  describe
-
-  science
-
-  heavy
-
-  inflict'
 bip_39_word_new_line_12: 'tired
 
   owner
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'tired
   owner
 
   weasel'
-bip_39_word_new_line_4: 'tired
-
-  owner
-
-  weasel
-
-  laptop'
-bip_39_word_new_line_5: 'tired
-
-  owner
-
-  weasel
-
-  laptop
-
-  broken'
-bip_39_word_new_line_6: 'tired
-
-  owner
-
-  weasel
-
-  laptop
-
-  broken
-
-  require'
-bip_39_word_new_line_7: 'tired
-
-  owner
-
-  weasel
-
-  laptop
-
-  broken
-
-  require
-
-  coral'
-bip_39_word_new_line_8: 'tired
-
-  owner
-
-  weasel
-
-  laptop
-
-  broken
-
-  require
-
-  coral
-
-  describe'
-bip_39_word_new_line_9: 'tired
-
-  owner
-
-  weasel
-
-  laptop
-
-  broken
-
-  require
-
-  coral
-
-  describe
-
-  science'
-bip_39_word_no_space_1: tired
-bip_39_word_no_space_10: tiredownerweasellaptopbrokenrequirecoraldescribescienceheavy
-bip_39_word_no_space_11: tiredownerweasellaptopbrokenrequirecoraldescribescienceheavyinflict
 bip_39_word_no_space_12: tiredownerweasellaptopbrokenrequirecoraldescribescienceheavyinflictalways
 bip_39_word_no_space_2: tiredowner
 bip_39_word_no_space_3: tiredownerweasel
-bip_39_word_no_space_4: tiredownerweasellaptop
-bip_39_word_no_space_5: tiredownerweasellaptopbroken
-bip_39_word_no_space_6: tiredownerweasellaptopbrokenrequire
-bip_39_word_no_space_7: tiredownerweasellaptopbrokenrequirecoral
-bip_39_word_no_space_8: tiredownerweasellaptopbrokenrequirecoraldescribe
-bip_39_word_no_space_9: tiredownerweasellaptopbrokenrequirecoraldescribescience
-bip_39_word_space_0:
-- tired
-- owner
-- weasel
-- laptop
-- broken
-- require
-- coral
-- describe
-- science
-- heavy
-- inflict
-- always
-bip_39_word_space_1: tired
-bip_39_word_space_10: tired owner weasel laptop broken require coral describe science
-  heavy
-bip_39_word_space_11: tired owner weasel laptop broken require coral describe science
-  heavy inflict
 bip_39_word_space_12: tired owner weasel laptop broken require coral describe science
   heavy inflict always
 bip_39_word_space_2: tired owner
 bip_39_word_space_3: tired owner weasel
-bip_39_word_space_4: tired owner weasel laptop
-bip_39_word_space_5: tired owner weasel laptop broken
-bip_39_word_space_6: tired owner weasel laptop broken require
-bip_39_word_space_7: tired owner weasel laptop broken require coral
-bip_39_word_space_8: tired owner weasel laptop broken require coral describe
-bip_39_word_space_9: tired owner weasel laptop broken require coral describe science
-bip_39_word_underscore_1: tired
-bip_39_word_underscore_10: tired_owner_weasel_laptop_broken_require_coral_describe_science_heavy
-bip_39_word_underscore_11: tired_owner_weasel_laptop_broken_require_coral_describe_science_heavy_inflict
 bip_39_word_underscore_12: tired_owner_weasel_laptop_broken_require_coral_describe_science_heavy_inflict_always
 bip_39_word_underscore_2: tired_owner
 bip_39_word_underscore_3: tired_owner_weasel
-bip_39_word_underscore_4: tired_owner_weasel_laptop
-bip_39_word_underscore_5: tired_owner_weasel_laptop_broken
-bip_39_word_underscore_6: tired_owner_weasel_laptop_broken_require
-bip_39_word_underscore_7: tired_owner_weasel_laptop_broken_require_coral
-bip_39_word_underscore_8: tired_owner_weasel_laptop_broken_require_coral_describe
-bip_39_word_underscore_9: tired_owner_weasel_laptop_broken_require_coral_describe_science
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

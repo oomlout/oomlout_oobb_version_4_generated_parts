@@ -1,68 +1,9 @@
-bip_39_word_dash_1: census
-bip_39_word_dash_10: census-permit-hospital-ordinary-valid-draft-village-doll-print-manual
-bip_39_word_dash_11: census-permit-hospital-ordinary-valid-draft-village-doll-print-manual-city
 bip_39_word_dash_12: census-permit-hospital-ordinary-valid-draft-village-doll-print-manual-city-appear
 bip_39_word_dash_2: census-permit
 bip_39_word_dash_3: census-permit-hospital
-bip_39_word_dash_4: census-permit-hospital-ordinary
-bip_39_word_dash_5: census-permit-hospital-ordinary-valid
-bip_39_word_dash_6: census-permit-hospital-ordinary-valid-draft
-bip_39_word_dash_7: census-permit-hospital-ordinary-valid-draft-village
-bip_39_word_dash_8: census-permit-hospital-ordinary-valid-draft-village-doll
-bip_39_word_dash_9: census-permit-hospital-ordinary-valid-draft-village-doll-print
-bip_39_word_new_br_1: census
-bip_39_word_new_br_10: census<br>permit<br>hospital<br>ordinary<br>valid<br>draft<br>village<br>doll<br>print<br>manual
-bip_39_word_new_br_11: census<br>permit<br>hospital<br>ordinary<br>valid<br>draft<br>village<br>doll<br>print<br>manual<br>city
 bip_39_word_new_br_12: census<br>permit<br>hospital<br>ordinary<br>valid<br>draft<br>village<br>doll<br>print<br>manual<br>city<br>appear
 bip_39_word_new_br_2: census<br>permit
 bip_39_word_new_br_3: census<br>permit<br>hospital
-bip_39_word_new_br_4: census<br>permit<br>hospital<br>ordinary
-bip_39_word_new_br_5: census<br>permit<br>hospital<br>ordinary<br>valid
-bip_39_word_new_br_6: census<br>permit<br>hospital<br>ordinary<br>valid<br>draft
-bip_39_word_new_br_7: census<br>permit<br>hospital<br>ordinary<br>valid<br>draft<br>village
-bip_39_word_new_br_8: census<br>permit<br>hospital<br>ordinary<br>valid<br>draft<br>village<br>doll
-bip_39_word_new_br_9: census<br>permit<br>hospital<br>ordinary<br>valid<br>draft<br>village<br>doll<br>print
-bip_39_word_new_line_1: census
-bip_39_word_new_line_10: 'census
-
-  permit
-
-  hospital
-
-  ordinary
-
-  valid
-
-  draft
-
-  village
-
-  doll
-
-  print
-
-  manual'
-bip_39_word_new_line_11: 'census
-
-  permit
-
-  hospital
-
-  ordinary
-
-  valid
-
-  draft
-
-  village
-
-  doll
-
-  print
-
-  manual
-
-  city'
 bip_39_word_new_line_12: 'census
 
   permit
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'census
   permit
 
   hospital'
-bip_39_word_new_line_4: 'census
-
-  permit
-
-  hospital
-
-  ordinary'
-bip_39_word_new_line_5: 'census
-
-  permit
-
-  hospital
-
-  ordinary
-
-  valid'
-bip_39_word_new_line_6: 'census
-
-  permit
-
-  hospital
-
-  ordinary
-
-  valid
-
-  draft'
-bip_39_word_new_line_7: 'census
-
-  permit
-
-  hospital
-
-  ordinary
-
-  valid
-
-  draft
-
-  village'
-bip_39_word_new_line_8: 'census
-
-  permit
-
-  hospital
-
-  ordinary
-
-  valid
-
-  draft
-
-  village
-
-  doll'
-bip_39_word_new_line_9: 'census
-
-  permit
-
-  hospital
-
-  ordinary
-
-  valid
-
-  draft
-
-  village
-
-  doll
-
-  print'
-bip_39_word_no_space_1: census
-bip_39_word_no_space_10: censuspermithospitalordinaryvaliddraftvillagedollprintmanual
-bip_39_word_no_space_11: censuspermithospitalordinaryvaliddraftvillagedollprintmanualcity
 bip_39_word_no_space_12: censuspermithospitalordinaryvaliddraftvillagedollprintmanualcityappear
 bip_39_word_no_space_2: censuspermit
 bip_39_word_no_space_3: censuspermithospital
-bip_39_word_no_space_4: censuspermithospitalordinary
-bip_39_word_no_space_5: censuspermithospitalordinaryvalid
-bip_39_word_no_space_6: censuspermithospitalordinaryvaliddraft
-bip_39_word_no_space_7: censuspermithospitalordinaryvaliddraftvillage
-bip_39_word_no_space_8: censuspermithospitalordinaryvaliddraftvillagedoll
-bip_39_word_no_space_9: censuspermithospitalordinaryvaliddraftvillagedollprint
-bip_39_word_space_0:
-- census
-- permit
-- hospital
-- ordinary
-- valid
-- draft
-- village
-- doll
-- print
-- manual
-- city
-- appear
-bip_39_word_space_1: census
-bip_39_word_space_10: census permit hospital ordinary valid draft village doll print
-  manual
-bip_39_word_space_11: census permit hospital ordinary valid draft village doll print
-  manual city
 bip_39_word_space_12: census permit hospital ordinary valid draft village doll print
   manual city appear
 bip_39_word_space_2: census permit
 bip_39_word_space_3: census permit hospital
-bip_39_word_space_4: census permit hospital ordinary
-bip_39_word_space_5: census permit hospital ordinary valid
-bip_39_word_space_6: census permit hospital ordinary valid draft
-bip_39_word_space_7: census permit hospital ordinary valid draft village
-bip_39_word_space_8: census permit hospital ordinary valid draft village doll
-bip_39_word_space_9: census permit hospital ordinary valid draft village doll print
-bip_39_word_underscore_1: census
-bip_39_word_underscore_10: census_permit_hospital_ordinary_valid_draft_village_doll_print_manual
-bip_39_word_underscore_11: census_permit_hospital_ordinary_valid_draft_village_doll_print_manual_city
 bip_39_word_underscore_12: census_permit_hospital_ordinary_valid_draft_village_doll_print_manual_city_appear
 bip_39_word_underscore_2: census_permit
 bip_39_word_underscore_3: census_permit_hospital
-bip_39_word_underscore_4: census_permit_hospital_ordinary
-bip_39_word_underscore_5: census_permit_hospital_ordinary_valid
-bip_39_word_underscore_6: census_permit_hospital_ordinary_valid_draft
-bip_39_word_underscore_7: census_permit_hospital_ordinary_valid_draft_village
-bip_39_word_underscore_8: census_permit_hospital_ordinary_valid_draft_village_doll
-bip_39_word_underscore_9: census_permit_hospital_ordinary_valid_draft_village_doll_print
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

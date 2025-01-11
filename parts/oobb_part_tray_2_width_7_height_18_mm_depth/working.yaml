@@ -1,68 +1,9 @@
-bip_39_word_dash_1: cash
-bip_39_word_dash_10: cash-jazz-sand-napkin-setup-swallow-educate-chuckle-net-soon
-bip_39_word_dash_11: cash-jazz-sand-napkin-setup-swallow-educate-chuckle-net-soon-glare
 bip_39_word_dash_12: cash-jazz-sand-napkin-setup-swallow-educate-chuckle-net-soon-glare-approve
 bip_39_word_dash_2: cash-jazz
 bip_39_word_dash_3: cash-jazz-sand
-bip_39_word_dash_4: cash-jazz-sand-napkin
-bip_39_word_dash_5: cash-jazz-sand-napkin-setup
-bip_39_word_dash_6: cash-jazz-sand-napkin-setup-swallow
-bip_39_word_dash_7: cash-jazz-sand-napkin-setup-swallow-educate
-bip_39_word_dash_8: cash-jazz-sand-napkin-setup-swallow-educate-chuckle
-bip_39_word_dash_9: cash-jazz-sand-napkin-setup-swallow-educate-chuckle-net
-bip_39_word_new_br_1: cash
-bip_39_word_new_br_10: cash<br>jazz<br>sand<br>napkin<br>setup<br>swallow<br>educate<br>chuckle<br>net<br>soon
-bip_39_word_new_br_11: cash<br>jazz<br>sand<br>napkin<br>setup<br>swallow<br>educate<br>chuckle<br>net<br>soon<br>glare
 bip_39_word_new_br_12: cash<br>jazz<br>sand<br>napkin<br>setup<br>swallow<br>educate<br>chuckle<br>net<br>soon<br>glare<br>approve
 bip_39_word_new_br_2: cash<br>jazz
 bip_39_word_new_br_3: cash<br>jazz<br>sand
-bip_39_word_new_br_4: cash<br>jazz<br>sand<br>napkin
-bip_39_word_new_br_5: cash<br>jazz<br>sand<br>napkin<br>setup
-bip_39_word_new_br_6: cash<br>jazz<br>sand<br>napkin<br>setup<br>swallow
-bip_39_word_new_br_7: cash<br>jazz<br>sand<br>napkin<br>setup<br>swallow<br>educate
-bip_39_word_new_br_8: cash<br>jazz<br>sand<br>napkin<br>setup<br>swallow<br>educate<br>chuckle
-bip_39_word_new_br_9: cash<br>jazz<br>sand<br>napkin<br>setup<br>swallow<br>educate<br>chuckle<br>net
-bip_39_word_new_line_1: cash
-bip_39_word_new_line_10: 'cash
-
-  jazz
-
-  sand
-
-  napkin
-
-  setup
-
-  swallow
-
-  educate
-
-  chuckle
-
-  net
-
-  soon'
-bip_39_word_new_line_11: 'cash
-
-  jazz
-
-  sand
-
-  napkin
-
-  setup
-
-  swallow
-
-  educate
-
-  chuckle
-
-  net
-
-  soon
-
-  glare'
 bip_39_word_new_line_12: 'cash
 
   jazz
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'cash
   jazz
 
   sand'
-bip_39_word_new_line_4: 'cash
-
-  jazz
-
-  sand
-
-  napkin'
-bip_39_word_new_line_5: 'cash
-
-  jazz
-
-  sand
-
-  napkin
-
-  setup'
-bip_39_word_new_line_6: 'cash
-
-  jazz
-
-  sand
-
-  napkin
-
-  setup
-
-  swallow'
-bip_39_word_new_line_7: 'cash
-
-  jazz
-
-  sand
-
-  napkin
-
-  setup
-
-  swallow
-
-  educate'
-bip_39_word_new_line_8: 'cash
-
-  jazz
-
-  sand
-
-  napkin
-
-  setup
-
-  swallow
-
-  educate
-
-  chuckle'
-bip_39_word_new_line_9: 'cash
-
-  jazz
-
-  sand
-
-  napkin
-
-  setup
-
-  swallow
-
-  educate
-
-  chuckle
-
-  net'
-bip_39_word_no_space_1: cash
-bip_39_word_no_space_10: cashjazzsandnapkinsetupswalloweducatechucklenetsoon
-bip_39_word_no_space_11: cashjazzsandnapkinsetupswalloweducatechucklenetsoonglare
 bip_39_word_no_space_12: cashjazzsandnapkinsetupswalloweducatechucklenetsoonglareapprove
 bip_39_word_no_space_2: cashjazz
 bip_39_word_no_space_3: cashjazzsand
-bip_39_word_no_space_4: cashjazzsandnapkin
-bip_39_word_no_space_5: cashjazzsandnapkinsetup
-bip_39_word_no_space_6: cashjazzsandnapkinsetupswallow
-bip_39_word_no_space_7: cashjazzsandnapkinsetupswalloweducate
-bip_39_word_no_space_8: cashjazzsandnapkinsetupswalloweducatechuckle
-bip_39_word_no_space_9: cashjazzsandnapkinsetupswalloweducatechucklenet
-bip_39_word_space_0:
-- cash
-- jazz
-- sand
-- napkin
-- setup
-- swallow
-- educate
-- chuckle
-- net
-- soon
-- glare
-- approve
-bip_39_word_space_1: cash
-bip_39_word_space_10: cash jazz sand napkin setup swallow educate chuckle net soon
-bip_39_word_space_11: cash jazz sand napkin setup swallow educate chuckle net soon
-  glare
 bip_39_word_space_12: cash jazz sand napkin setup swallow educate chuckle net soon
   glare approve
 bip_39_word_space_2: cash jazz
 bip_39_word_space_3: cash jazz sand
-bip_39_word_space_4: cash jazz sand napkin
-bip_39_word_space_5: cash jazz sand napkin setup
-bip_39_word_space_6: cash jazz sand napkin setup swallow
-bip_39_word_space_7: cash jazz sand napkin setup swallow educate
-bip_39_word_space_8: cash jazz sand napkin setup swallow educate chuckle
-bip_39_word_space_9: cash jazz sand napkin setup swallow educate chuckle net
-bip_39_word_underscore_1: cash
-bip_39_word_underscore_10: cash_jazz_sand_napkin_setup_swallow_educate_chuckle_net_soon
-bip_39_word_underscore_11: cash_jazz_sand_napkin_setup_swallow_educate_chuckle_net_soon_glare
 bip_39_word_underscore_12: cash_jazz_sand_napkin_setup_swallow_educate_chuckle_net_soon_glare_approve
 bip_39_word_underscore_2: cash_jazz
 bip_39_word_underscore_3: cash_jazz_sand
-bip_39_word_underscore_4: cash_jazz_sand_napkin
-bip_39_word_underscore_5: cash_jazz_sand_napkin_setup
-bip_39_word_underscore_6: cash_jazz_sand_napkin_setup_swallow
-bip_39_word_underscore_7: cash_jazz_sand_napkin_setup_swallow_educate
-bip_39_word_underscore_8: cash_jazz_sand_napkin_setup_swallow_educate_chuckle
-bip_39_word_underscore_9: cash_jazz_sand_napkin_setup_swallow_educate_chuckle_net
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: cereal
-bip_39_word_dash_10: cereal-insane-mesh-dune-wish-install-mesh-system-lazy-question
-bip_39_word_dash_11: cereal-insane-mesh-dune-wish-install-mesh-system-lazy-question-route
 bip_39_word_dash_12: cereal-insane-mesh-dune-wish-install-mesh-system-lazy-question-route-author
 bip_39_word_dash_2: cereal-insane
 bip_39_word_dash_3: cereal-insane-mesh
-bip_39_word_dash_4: cereal-insane-mesh-dune
-bip_39_word_dash_5: cereal-insane-mesh-dune-wish
-bip_39_word_dash_6: cereal-insane-mesh-dune-wish-install
-bip_39_word_dash_7: cereal-insane-mesh-dune-wish-install-mesh
-bip_39_word_dash_8: cereal-insane-mesh-dune-wish-install-mesh-system
-bip_39_word_dash_9: cereal-insane-mesh-dune-wish-install-mesh-system-lazy
-bip_39_word_new_br_1: cereal
-bip_39_word_new_br_10: cereal<br>insane<br>mesh<br>dune<br>wish<br>install<br>mesh<br>system<br>lazy<br>question
-bip_39_word_new_br_11: cereal<br>insane<br>mesh<br>dune<br>wish<br>install<br>mesh<br>system<br>lazy<br>question<br>route
 bip_39_word_new_br_12: cereal<br>insane<br>mesh<br>dune<br>wish<br>install<br>mesh<br>system<br>lazy<br>question<br>route<br>author
 bip_39_word_new_br_2: cereal<br>insane
 bip_39_word_new_br_3: cereal<br>insane<br>mesh
-bip_39_word_new_br_4: cereal<br>insane<br>mesh<br>dune
-bip_39_word_new_br_5: cereal<br>insane<br>mesh<br>dune<br>wish
-bip_39_word_new_br_6: cereal<br>insane<br>mesh<br>dune<br>wish<br>install
-bip_39_word_new_br_7: cereal<br>insane<br>mesh<br>dune<br>wish<br>install<br>mesh
-bip_39_word_new_br_8: cereal<br>insane<br>mesh<br>dune<br>wish<br>install<br>mesh<br>system
-bip_39_word_new_br_9: cereal<br>insane<br>mesh<br>dune<br>wish<br>install<br>mesh<br>system<br>lazy
-bip_39_word_new_line_1: cereal
-bip_39_word_new_line_10: 'cereal
-
-  insane
-
-  mesh
-
-  dune
-
-  wish
-
-  install
-
-  mesh
-
-  system
-
-  lazy
-
-  question'
-bip_39_word_new_line_11: 'cereal
-
-  insane
-
-  mesh
-
-  dune
-
-  wish
-
-  install
-
-  mesh
-
-  system
-
-  lazy
-
-  question
-
-  route'
 bip_39_word_new_line_12: 'cereal
 
   insane
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'cereal
   insane
 
   mesh'
-bip_39_word_new_line_4: 'cereal
-
-  insane
-
-  mesh
-
-  dune'
-bip_39_word_new_line_5: 'cereal
-
-  insane
-
-  mesh
-
-  dune
-
-  wish'
-bip_39_word_new_line_6: 'cereal
-
-  insane
-
-  mesh
-
-  dune
-
-  wish
-
-  install'
-bip_39_word_new_line_7: 'cereal
-
-  insane
-
-  mesh
-
-  dune
-
-  wish
-
-  install
-
-  mesh'
-bip_39_word_new_line_8: 'cereal
-
-  insane
-
-  mesh
-
-  dune
-
-  wish
-
-  install
-
-  mesh
-
-  system'
-bip_39_word_new_line_9: 'cereal
-
-  insane
-
-  mesh
-
-  dune
-
-  wish
-
-  install
-
-  mesh
-
-  system
-
-  lazy'
-bip_39_word_no_space_1: cereal
-bip_39_word_no_space_10: cerealinsanemeshdunewishinstallmeshsystemlazyquestion
-bip_39_word_no_space_11: cerealinsanemeshdunewishinstallmeshsystemlazyquestionroute
 bip_39_word_no_space_12: cerealinsanemeshdunewishinstallmeshsystemlazyquestionrouteauthor
 bip_39_word_no_space_2: cerealinsane
 bip_39_word_no_space_3: cerealinsanemesh
-bip_39_word_no_space_4: cerealinsanemeshdune
-bip_39_word_no_space_5: cerealinsanemeshdunewish
-bip_39_word_no_space_6: cerealinsanemeshdunewishinstall
-bip_39_word_no_space_7: cerealinsanemeshdunewishinstallmesh
-bip_39_word_no_space_8: cerealinsanemeshdunewishinstallmeshsystem
-bip_39_word_no_space_9: cerealinsanemeshdunewishinstallmeshsystemlazy
-bip_39_word_space_0:
-- cereal
-- insane
-- mesh
-- dune
-- wish
-- install
-- mesh
-- system
-- lazy
-- question
-- route
-- author
-bip_39_word_space_1: cereal
-bip_39_word_space_10: cereal insane mesh dune wish install mesh system lazy question
-bip_39_word_space_11: cereal insane mesh dune wish install mesh system lazy question
-  route
 bip_39_word_space_12: cereal insane mesh dune wish install mesh system lazy question
   route author
 bip_39_word_space_2: cereal insane
 bip_39_word_space_3: cereal insane mesh
-bip_39_word_space_4: cereal insane mesh dune
-bip_39_word_space_5: cereal insane mesh dune wish
-bip_39_word_space_6: cereal insane mesh dune wish install
-bip_39_word_space_7: cereal insane mesh dune wish install mesh
-bip_39_word_space_8: cereal insane mesh dune wish install mesh system
-bip_39_word_space_9: cereal insane mesh dune wish install mesh system lazy
-bip_39_word_underscore_1: cereal
-bip_39_word_underscore_10: cereal_insane_mesh_dune_wish_install_mesh_system_lazy_question
-bip_39_word_underscore_11: cereal_insane_mesh_dune_wish_install_mesh_system_lazy_question_route
 bip_39_word_underscore_12: cereal_insane_mesh_dune_wish_install_mesh_system_lazy_question_route_author
 bip_39_word_underscore_2: cereal_insane
 bip_39_word_underscore_3: cereal_insane_mesh
-bip_39_word_underscore_4: cereal_insane_mesh_dune
-bip_39_word_underscore_5: cereal_insane_mesh_dune_wish
-bip_39_word_underscore_6: cereal_insane_mesh_dune_wish_install
-bip_39_word_underscore_7: cereal_insane_mesh_dune_wish_install_mesh
-bip_39_word_underscore_8: cereal_insane_mesh_dune_wish_install_mesh_system
-bip_39_word_underscore_9: cereal_insane_mesh_dune_wish_install_mesh_system_lazy
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

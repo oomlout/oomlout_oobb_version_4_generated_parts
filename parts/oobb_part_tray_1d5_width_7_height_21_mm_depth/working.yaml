@@ -1,68 +1,9 @@
-bip_39_word_dash_1: flower
-bip_39_word_dash_10: flower-bean-today-seed-mesh-portion-lunar-bubble-buddy-reform
-bip_39_word_dash_11: flower-bean-today-seed-mesh-portion-lunar-bubble-buddy-reform-bridge
 bip_39_word_dash_12: flower-bean-today-seed-mesh-portion-lunar-bubble-buddy-reform-bridge-analyst
 bip_39_word_dash_2: flower-bean
 bip_39_word_dash_3: flower-bean-today
-bip_39_word_dash_4: flower-bean-today-seed
-bip_39_word_dash_5: flower-bean-today-seed-mesh
-bip_39_word_dash_6: flower-bean-today-seed-mesh-portion
-bip_39_word_dash_7: flower-bean-today-seed-mesh-portion-lunar
-bip_39_word_dash_8: flower-bean-today-seed-mesh-portion-lunar-bubble
-bip_39_word_dash_9: flower-bean-today-seed-mesh-portion-lunar-bubble-buddy
-bip_39_word_new_br_1: flower
-bip_39_word_new_br_10: flower<br>bean<br>today<br>seed<br>mesh<br>portion<br>lunar<br>bubble<br>buddy<br>reform
-bip_39_word_new_br_11: flower<br>bean<br>today<br>seed<br>mesh<br>portion<br>lunar<br>bubble<br>buddy<br>reform<br>bridge
 bip_39_word_new_br_12: flower<br>bean<br>today<br>seed<br>mesh<br>portion<br>lunar<br>bubble<br>buddy<br>reform<br>bridge<br>analyst
 bip_39_word_new_br_2: flower<br>bean
 bip_39_word_new_br_3: flower<br>bean<br>today
-bip_39_word_new_br_4: flower<br>bean<br>today<br>seed
-bip_39_word_new_br_5: flower<br>bean<br>today<br>seed<br>mesh
-bip_39_word_new_br_6: flower<br>bean<br>today<br>seed<br>mesh<br>portion
-bip_39_word_new_br_7: flower<br>bean<br>today<br>seed<br>mesh<br>portion<br>lunar
-bip_39_word_new_br_8: flower<br>bean<br>today<br>seed<br>mesh<br>portion<br>lunar<br>bubble
-bip_39_word_new_br_9: flower<br>bean<br>today<br>seed<br>mesh<br>portion<br>lunar<br>bubble<br>buddy
-bip_39_word_new_line_1: flower
-bip_39_word_new_line_10: 'flower
-
-  bean
-
-  today
-
-  seed
-
-  mesh
-
-  portion
-
-  lunar
-
-  bubble
-
-  buddy
-
-  reform'
-bip_39_word_new_line_11: 'flower
-
-  bean
-
-  today
-
-  seed
-
-  mesh
-
-  portion
-
-  lunar
-
-  bubble
-
-  buddy
-
-  reform
-
-  bridge'
 bip_39_word_new_line_12: 'flower
 
   bean
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'flower
   bean
 
   today'
-bip_39_word_new_line_4: 'flower
-
-  bean
-
-  today
-
-  seed'
-bip_39_word_new_line_5: 'flower
-
-  bean
-
-  today
-
-  seed
-
-  mesh'
-bip_39_word_new_line_6: 'flower
-
-  bean
-
-  today
-
-  seed
-
-  mesh
-
-  portion'
-bip_39_word_new_line_7: 'flower
-
-  bean
-
-  today
-
-  seed
-
-  mesh
-
-  portion
-
-  lunar'
-bip_39_word_new_line_8: 'flower
-
-  bean
-
-  today
-
-  seed
-
-  mesh
-
-  portion
-
-  lunar
-
-  bubble'
-bip_39_word_new_line_9: 'flower
-
-  bean
-
-  today
-
-  seed
-
-  mesh
-
-  portion
-
-  lunar
-
-  bubble
-
-  buddy'
-bip_39_word_no_space_1: flower
-bip_39_word_no_space_10: flowerbeantodayseedmeshportionlunarbubblebuddyreform
-bip_39_word_no_space_11: flowerbeantodayseedmeshportionlunarbubblebuddyreformbridge
 bip_39_word_no_space_12: flowerbeantodayseedmeshportionlunarbubblebuddyreformbridgeanalyst
 bip_39_word_no_space_2: flowerbean
 bip_39_word_no_space_3: flowerbeantoday
-bip_39_word_no_space_4: flowerbeantodayseed
-bip_39_word_no_space_5: flowerbeantodayseedmesh
-bip_39_word_no_space_6: flowerbeantodayseedmeshportion
-bip_39_word_no_space_7: flowerbeantodayseedmeshportionlunar
-bip_39_word_no_space_8: flowerbeantodayseedmeshportionlunarbubble
-bip_39_word_no_space_9: flowerbeantodayseedmeshportionlunarbubblebuddy
-bip_39_word_space_0:
-- flower
-- bean
-- today
-- seed
-- mesh
-- portion
-- lunar
-- bubble
-- buddy
-- reform
-- bridge
-- analyst
-bip_39_word_space_1: flower
-bip_39_word_space_10: flower bean today seed mesh portion lunar bubble buddy reform
-bip_39_word_space_11: flower bean today seed mesh portion lunar bubble buddy reform
-  bridge
 bip_39_word_space_12: flower bean today seed mesh portion lunar bubble buddy reform
   bridge analyst
 bip_39_word_space_2: flower bean
 bip_39_word_space_3: flower bean today
-bip_39_word_space_4: flower bean today seed
-bip_39_word_space_5: flower bean today seed mesh
-bip_39_word_space_6: flower bean today seed mesh portion
-bip_39_word_space_7: flower bean today seed mesh portion lunar
-bip_39_word_space_8: flower bean today seed mesh portion lunar bubble
-bip_39_word_space_9: flower bean today seed mesh portion lunar bubble buddy
-bip_39_word_underscore_1: flower
-bip_39_word_underscore_10: flower_bean_today_seed_mesh_portion_lunar_bubble_buddy_reform
-bip_39_word_underscore_11: flower_bean_today_seed_mesh_portion_lunar_bubble_buddy_reform_bridge
 bip_39_word_underscore_12: flower_bean_today_seed_mesh_portion_lunar_bubble_buddy_reform_bridge_analyst
 bip_39_word_underscore_2: flower_bean
 bip_39_word_underscore_3: flower_bean_today
-bip_39_word_underscore_4: flower_bean_today_seed
-bip_39_word_underscore_5: flower_bean_today_seed_mesh
-bip_39_word_underscore_6: flower_bean_today_seed_mesh_portion
-bip_39_word_underscore_7: flower_bean_today_seed_mesh_portion_lunar
-bip_39_word_underscore_8: flower_bean_today_seed_mesh_portion_lunar_bubble
-bip_39_word_underscore_9: flower_bean_today_seed_mesh_portion_lunar_bubble_buddy
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

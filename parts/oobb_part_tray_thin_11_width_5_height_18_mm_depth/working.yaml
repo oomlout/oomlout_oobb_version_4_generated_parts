@@ -1,68 +1,9 @@
-bip_39_word_dash_1: crew
-bip_39_word_dash_10: crew-battle-execute-risk-olive-bag-bomb-stand-civil-ankle
-bip_39_word_dash_11: crew-battle-execute-risk-olive-bag-bomb-stand-civil-ankle-system
 bip_39_word_dash_12: crew-battle-execute-risk-olive-bag-bomb-stand-civil-ankle-system-around
 bip_39_word_dash_2: crew-battle
 bip_39_word_dash_3: crew-battle-execute
-bip_39_word_dash_4: crew-battle-execute-risk
-bip_39_word_dash_5: crew-battle-execute-risk-olive
-bip_39_word_dash_6: crew-battle-execute-risk-olive-bag
-bip_39_word_dash_7: crew-battle-execute-risk-olive-bag-bomb
-bip_39_word_dash_8: crew-battle-execute-risk-olive-bag-bomb-stand
-bip_39_word_dash_9: crew-battle-execute-risk-olive-bag-bomb-stand-civil
-bip_39_word_new_br_1: crew
-bip_39_word_new_br_10: crew<br>battle<br>execute<br>risk<br>olive<br>bag<br>bomb<br>stand<br>civil<br>ankle
-bip_39_word_new_br_11: crew<br>battle<br>execute<br>risk<br>olive<br>bag<br>bomb<br>stand<br>civil<br>ankle<br>system
 bip_39_word_new_br_12: crew<br>battle<br>execute<br>risk<br>olive<br>bag<br>bomb<br>stand<br>civil<br>ankle<br>system<br>around
 bip_39_word_new_br_2: crew<br>battle
 bip_39_word_new_br_3: crew<br>battle<br>execute
-bip_39_word_new_br_4: crew<br>battle<br>execute<br>risk
-bip_39_word_new_br_5: crew<br>battle<br>execute<br>risk<br>olive
-bip_39_word_new_br_6: crew<br>battle<br>execute<br>risk<br>olive<br>bag
-bip_39_word_new_br_7: crew<br>battle<br>execute<br>risk<br>olive<br>bag<br>bomb
-bip_39_word_new_br_8: crew<br>battle<br>execute<br>risk<br>olive<br>bag<br>bomb<br>stand
-bip_39_word_new_br_9: crew<br>battle<br>execute<br>risk<br>olive<br>bag<br>bomb<br>stand<br>civil
-bip_39_word_new_line_1: crew
-bip_39_word_new_line_10: 'crew
-
-  battle
-
-  execute
-
-  risk
-
-  olive
-
-  bag
-
-  bomb
-
-  stand
-
-  civil
-
-  ankle'
-bip_39_word_new_line_11: 'crew
-
-  battle
-
-  execute
-
-  risk
-
-  olive
-
-  bag
-
-  bomb
-
-  stand
-
-  civil
-
-  ankle
-
-  system'
 bip_39_word_new_line_12: 'crew
 
   battle
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'crew
   battle
 
   execute'
-bip_39_word_new_line_4: 'crew
-
-  battle
-
-  execute
-
-  risk'
-bip_39_word_new_line_5: 'crew
-
-  battle
-
-  execute
-
-  risk
-
-  olive'
-bip_39_word_new_line_6: 'crew
-
-  battle
-
-  execute
-
-  risk
-
-  olive
-
-  bag'
-bip_39_word_new_line_7: 'crew
-
-  battle
-
-  execute
-
-  risk
-
-  olive
-
-  bag
-
-  bomb'
-bip_39_word_new_line_8: 'crew
-
-  battle
-
-  execute
-
-  risk
-
-  olive
-
-  bag
-
-  bomb
-
-  stand'
-bip_39_word_new_line_9: 'crew
-
-  battle
-
-  execute
-
-  risk
-
-  olive
-
-  bag
-
-  bomb
-
-  stand
-
-  civil'
-bip_39_word_no_space_1: crew
-bip_39_word_no_space_10: crewbattleexecuteriskolivebagbombstandcivilankle
-bip_39_word_no_space_11: crewbattleexecuteriskolivebagbombstandcivilanklesystem
 bip_39_word_no_space_12: crewbattleexecuteriskolivebagbombstandcivilanklesystemaround
 bip_39_word_no_space_2: crewbattle
 bip_39_word_no_space_3: crewbattleexecute
-bip_39_word_no_space_4: crewbattleexecuterisk
-bip_39_word_no_space_5: crewbattleexecuteriskolive
-bip_39_word_no_space_6: crewbattleexecuteriskolivebag
-bip_39_word_no_space_7: crewbattleexecuteriskolivebagbomb
-bip_39_word_no_space_8: crewbattleexecuteriskolivebagbombstand
-bip_39_word_no_space_9: crewbattleexecuteriskolivebagbombstandcivil
-bip_39_word_space_0:
-- crew
-- battle
-- execute
-- risk
-- olive
-- bag
-- bomb
-- stand
-- civil
-- ankle
-- system
-- around
-bip_39_word_space_1: crew
-bip_39_word_space_10: crew battle execute risk olive bag bomb stand civil ankle
-bip_39_word_space_11: crew battle execute risk olive bag bomb stand civil ankle system
 bip_39_word_space_12: crew battle execute risk olive bag bomb stand civil ankle system
   around
 bip_39_word_space_2: crew battle
 bip_39_word_space_3: crew battle execute
-bip_39_word_space_4: crew battle execute risk
-bip_39_word_space_5: crew battle execute risk olive
-bip_39_word_space_6: crew battle execute risk olive bag
-bip_39_word_space_7: crew battle execute risk olive bag bomb
-bip_39_word_space_8: crew battle execute risk olive bag bomb stand
-bip_39_word_space_9: crew battle execute risk olive bag bomb stand civil
-bip_39_word_underscore_1: crew
-bip_39_word_underscore_10: crew_battle_execute_risk_olive_bag_bomb_stand_civil_ankle
-bip_39_word_underscore_11: crew_battle_execute_risk_olive_bag_bomb_stand_civil_ankle_system
 bip_39_word_underscore_12: crew_battle_execute_risk_olive_bag_bomb_stand_civil_ankle_system_around
 bip_39_word_underscore_2: crew_battle
 bip_39_word_underscore_3: crew_battle_execute
-bip_39_word_underscore_4: crew_battle_execute_risk
-bip_39_word_underscore_5: crew_battle_execute_risk_olive
-bip_39_word_underscore_6: crew_battle_execute_risk_olive_bag
-bip_39_word_underscore_7: crew_battle_execute_risk_olive_bag_bomb
-bip_39_word_underscore_8: crew_battle_execute_risk_olive_bag_bomb_stand
-bip_39_word_underscore_9: crew_battle_execute_risk_olive_bag_bomb_stand_civil
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

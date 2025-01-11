@@ -1,68 +1,9 @@
-bip_39_word_dash_1: all
-bip_39_word_dash_10: all-door-swim-powder-treat-thing-fall-song-pottery-kingdom
-bip_39_word_dash_11: all-door-swim-powder-treat-thing-fall-song-pottery-kingdom-alarm
 bip_39_word_dash_12: all-door-swim-powder-treat-thing-fall-song-pottery-kingdom-alarm-age
 bip_39_word_dash_2: all-door
 bip_39_word_dash_3: all-door-swim
-bip_39_word_dash_4: all-door-swim-powder
-bip_39_word_dash_5: all-door-swim-powder-treat
-bip_39_word_dash_6: all-door-swim-powder-treat-thing
-bip_39_word_dash_7: all-door-swim-powder-treat-thing-fall
-bip_39_word_dash_8: all-door-swim-powder-treat-thing-fall-song
-bip_39_word_dash_9: all-door-swim-powder-treat-thing-fall-song-pottery
-bip_39_word_new_br_1: all
-bip_39_word_new_br_10: all<br>door<br>swim<br>powder<br>treat<br>thing<br>fall<br>song<br>pottery<br>kingdom
-bip_39_word_new_br_11: all<br>door<br>swim<br>powder<br>treat<br>thing<br>fall<br>song<br>pottery<br>kingdom<br>alarm
 bip_39_word_new_br_12: all<br>door<br>swim<br>powder<br>treat<br>thing<br>fall<br>song<br>pottery<br>kingdom<br>alarm<br>age
 bip_39_word_new_br_2: all<br>door
 bip_39_word_new_br_3: all<br>door<br>swim
-bip_39_word_new_br_4: all<br>door<br>swim<br>powder
-bip_39_word_new_br_5: all<br>door<br>swim<br>powder<br>treat
-bip_39_word_new_br_6: all<br>door<br>swim<br>powder<br>treat<br>thing
-bip_39_word_new_br_7: all<br>door<br>swim<br>powder<br>treat<br>thing<br>fall
-bip_39_word_new_br_8: all<br>door<br>swim<br>powder<br>treat<br>thing<br>fall<br>song
-bip_39_word_new_br_9: all<br>door<br>swim<br>powder<br>treat<br>thing<br>fall<br>song<br>pottery
-bip_39_word_new_line_1: all
-bip_39_word_new_line_10: 'all
-
-  door
-
-  swim
-
-  powder
-
-  treat
-
-  thing
-
-  fall
-
-  song
-
-  pottery
-
-  kingdom'
-bip_39_word_new_line_11: 'all
-
-  door
-
-  swim
-
-  powder
-
-  treat
-
-  thing
-
-  fall
-
-  song
-
-  pottery
-
-  kingdom
-
-  alarm'
 bip_39_word_new_line_12: 'all
 
   door
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'all
   door
 
   swim'
-bip_39_word_new_line_4: 'all
-
-  door
-
-  swim
-
-  powder'
-bip_39_word_new_line_5: 'all
-
-  door
-
-  swim
-
-  powder
-
-  treat'
-bip_39_word_new_line_6: 'all
-
-  door
-
-  swim
-
-  powder
-
-  treat
-
-  thing'
-bip_39_word_new_line_7: 'all
-
-  door
-
-  swim
-
-  powder
-
-  treat
-
-  thing
-
-  fall'
-bip_39_word_new_line_8: 'all
-
-  door
-
-  swim
-
-  powder
-
-  treat
-
-  thing
-
-  fall
-
-  song'
-bip_39_word_new_line_9: 'all
-
-  door
-
-  swim
-
-  powder
-
-  treat
-
-  thing
-
-  fall
-
-  song
-
-  pottery'
-bip_39_word_no_space_1: all
-bip_39_word_no_space_10: alldoorswimpowdertreatthingfallsongpotterykingdom
-bip_39_word_no_space_11: alldoorswimpowdertreatthingfallsongpotterykingdomalarm
 bip_39_word_no_space_12: alldoorswimpowdertreatthingfallsongpotterykingdomalarmage
 bip_39_word_no_space_2: alldoor
 bip_39_word_no_space_3: alldoorswim
-bip_39_word_no_space_4: alldoorswimpowder
-bip_39_word_no_space_5: alldoorswimpowdertreat
-bip_39_word_no_space_6: alldoorswimpowdertreatthing
-bip_39_word_no_space_7: alldoorswimpowdertreatthingfall
-bip_39_word_no_space_8: alldoorswimpowdertreatthingfallsong
-bip_39_word_no_space_9: alldoorswimpowdertreatthingfallsongpottery
-bip_39_word_space_0:
-- all
-- door
-- swim
-- powder
-- treat
-- thing
-- fall
-- song
-- pottery
-- kingdom
-- alarm
-- age
-bip_39_word_space_1: all
-bip_39_word_space_10: all door swim powder treat thing fall song pottery kingdom
-bip_39_word_space_11: all door swim powder treat thing fall song pottery kingdom alarm
 bip_39_word_space_12: all door swim powder treat thing fall song pottery kingdom alarm
   age
 bip_39_word_space_2: all door
 bip_39_word_space_3: all door swim
-bip_39_word_space_4: all door swim powder
-bip_39_word_space_5: all door swim powder treat
-bip_39_word_space_6: all door swim powder treat thing
-bip_39_word_space_7: all door swim powder treat thing fall
-bip_39_word_space_8: all door swim powder treat thing fall song
-bip_39_word_space_9: all door swim powder treat thing fall song pottery
-bip_39_word_underscore_1: all
-bip_39_word_underscore_10: all_door_swim_powder_treat_thing_fall_song_pottery_kingdom
-bip_39_word_underscore_11: all_door_swim_powder_treat_thing_fall_song_pottery_kingdom_alarm
 bip_39_word_underscore_12: all_door_swim_powder_treat_thing_fall_song_pottery_kingdom_alarm_age
 bip_39_word_underscore_2: all_door
 bip_39_word_underscore_3: all_door_swim
-bip_39_word_underscore_4: all_door_swim_powder
-bip_39_word_underscore_5: all_door_swim_powder_treat
-bip_39_word_underscore_6: all_door_swim_powder_treat_thing
-bip_39_word_underscore_7: all_door_swim_powder_treat_thing_fall
-bip_39_word_underscore_8: all_door_swim_powder_treat_thing_fall_song
-bip_39_word_underscore_9: all_door_swim_powder_treat_thing_fall_song_pottery
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

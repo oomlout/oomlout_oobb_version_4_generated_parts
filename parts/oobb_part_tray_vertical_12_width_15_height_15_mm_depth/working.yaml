@@ -1,68 +1,9 @@
-bip_39_word_dash_1: damage
-bip_39_word_dash_10: damage-auction-equip-snap-scatter-slam-wrist-buffalo-shift-deliver
-bip_39_word_dash_11: damage-auction-equip-snap-scatter-slam-wrist-buffalo-shift-deliver-elegant
 bip_39_word_dash_12: damage-auction-equip-snap-scatter-slam-wrist-buffalo-shift-deliver-elegant-almost
 bip_39_word_dash_2: damage-auction
 bip_39_word_dash_3: damage-auction-equip
-bip_39_word_dash_4: damage-auction-equip-snap
-bip_39_word_dash_5: damage-auction-equip-snap-scatter
-bip_39_word_dash_6: damage-auction-equip-snap-scatter-slam
-bip_39_word_dash_7: damage-auction-equip-snap-scatter-slam-wrist
-bip_39_word_dash_8: damage-auction-equip-snap-scatter-slam-wrist-buffalo
-bip_39_word_dash_9: damage-auction-equip-snap-scatter-slam-wrist-buffalo-shift
-bip_39_word_new_br_1: damage
-bip_39_word_new_br_10: damage<br>auction<br>equip<br>snap<br>scatter<br>slam<br>wrist<br>buffalo<br>shift<br>deliver
-bip_39_word_new_br_11: damage<br>auction<br>equip<br>snap<br>scatter<br>slam<br>wrist<br>buffalo<br>shift<br>deliver<br>elegant
 bip_39_word_new_br_12: damage<br>auction<br>equip<br>snap<br>scatter<br>slam<br>wrist<br>buffalo<br>shift<br>deliver<br>elegant<br>almost
 bip_39_word_new_br_2: damage<br>auction
 bip_39_word_new_br_3: damage<br>auction<br>equip
-bip_39_word_new_br_4: damage<br>auction<br>equip<br>snap
-bip_39_word_new_br_5: damage<br>auction<br>equip<br>snap<br>scatter
-bip_39_word_new_br_6: damage<br>auction<br>equip<br>snap<br>scatter<br>slam
-bip_39_word_new_br_7: damage<br>auction<br>equip<br>snap<br>scatter<br>slam<br>wrist
-bip_39_word_new_br_8: damage<br>auction<br>equip<br>snap<br>scatter<br>slam<br>wrist<br>buffalo
-bip_39_word_new_br_9: damage<br>auction<br>equip<br>snap<br>scatter<br>slam<br>wrist<br>buffalo<br>shift
-bip_39_word_new_line_1: damage
-bip_39_word_new_line_10: 'damage
-
-  auction
-
-  equip
-
-  snap
-
-  scatter
-
-  slam
-
-  wrist
-
-  buffalo
-
-  shift
-
-  deliver'
-bip_39_word_new_line_11: 'damage
-
-  auction
-
-  equip
-
-  snap
-
-  scatter
-
-  slam
-
-  wrist
-
-  buffalo
-
-  shift
-
-  deliver
-
-  elegant'
 bip_39_word_new_line_12: 'damage
 
   auction
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'damage
   auction
 
   equip'
-bip_39_word_new_line_4: 'damage
-
-  auction
-
-  equip
-
-  snap'
-bip_39_word_new_line_5: 'damage
-
-  auction
-
-  equip
-
-  snap
-
-  scatter'
-bip_39_word_new_line_6: 'damage
-
-  auction
-
-  equip
-
-  snap
-
-  scatter
-
-  slam'
-bip_39_word_new_line_7: 'damage
-
-  auction
-
-  equip
-
-  snap
-
-  scatter
-
-  slam
-
-  wrist'
-bip_39_word_new_line_8: 'damage
-
-  auction
-
-  equip
-
-  snap
-
-  scatter
-
-  slam
-
-  wrist
-
-  buffalo'
-bip_39_word_new_line_9: 'damage
-
-  auction
-
-  equip
-
-  snap
-
-  scatter
-
-  slam
-
-  wrist
-
-  buffalo
-
-  shift'
-bip_39_word_no_space_1: damage
-bip_39_word_no_space_10: damageauctionequipsnapscatterslamwristbuffaloshiftdeliver
-bip_39_word_no_space_11: damageauctionequipsnapscatterslamwristbuffaloshiftdeliverelegant
 bip_39_word_no_space_12: damageauctionequipsnapscatterslamwristbuffaloshiftdeliverelegantalmost
 bip_39_word_no_space_2: damageauction
 bip_39_word_no_space_3: damageauctionequip
-bip_39_word_no_space_4: damageauctionequipsnap
-bip_39_word_no_space_5: damageauctionequipsnapscatter
-bip_39_word_no_space_6: damageauctionequipsnapscatterslam
-bip_39_word_no_space_7: damageauctionequipsnapscatterslamwrist
-bip_39_word_no_space_8: damageauctionequipsnapscatterslamwristbuffalo
-bip_39_word_no_space_9: damageauctionequipsnapscatterslamwristbuffaloshift
-bip_39_word_space_0:
-- damage
-- auction
-- equip
-- snap
-- scatter
-- slam
-- wrist
-- buffalo
-- shift
-- deliver
-- elegant
-- almost
-bip_39_word_space_1: damage
-bip_39_word_space_10: damage auction equip snap scatter slam wrist buffalo shift deliver
-bip_39_word_space_11: damage auction equip snap scatter slam wrist buffalo shift deliver
-  elegant
 bip_39_word_space_12: damage auction equip snap scatter slam wrist buffalo shift deliver
   elegant almost
 bip_39_word_space_2: damage auction
 bip_39_word_space_3: damage auction equip
-bip_39_word_space_4: damage auction equip snap
-bip_39_word_space_5: damage auction equip snap scatter
-bip_39_word_space_6: damage auction equip snap scatter slam
-bip_39_word_space_7: damage auction equip snap scatter slam wrist
-bip_39_word_space_8: damage auction equip snap scatter slam wrist buffalo
-bip_39_word_space_9: damage auction equip snap scatter slam wrist buffalo shift
-bip_39_word_underscore_1: damage
-bip_39_word_underscore_10: damage_auction_equip_snap_scatter_slam_wrist_buffalo_shift_deliver
-bip_39_word_underscore_11: damage_auction_equip_snap_scatter_slam_wrist_buffalo_shift_deliver_elegant
 bip_39_word_underscore_12: damage_auction_equip_snap_scatter_slam_wrist_buffalo_shift_deliver_elegant_almost
 bip_39_word_underscore_2: damage_auction
 bip_39_word_underscore_3: damage_auction_equip
-bip_39_word_underscore_4: damage_auction_equip_snap
-bip_39_word_underscore_5: damage_auction_equip_snap_scatter
-bip_39_word_underscore_6: damage_auction_equip_snap_scatter_slam
-bip_39_word_underscore_7: damage_auction_equip_snap_scatter_slam_wrist
-bip_39_word_underscore_8: damage_auction_equip_snap_scatter_slam_wrist_buffalo
-bip_39_word_underscore_9: damage_auction_equip_snap_scatter_slam_wrist_buffalo_shift
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: grunt
-bip_39_word_dash_10: grunt-robot-find-build-abandon-abstract-please-broom-exchange-put
-bip_39_word_dash_11: grunt-robot-find-build-abandon-abstract-please-broom-exchange-put-ginger
 bip_39_word_dash_12: grunt-robot-find-build-abandon-abstract-please-broom-exchange-put-ginger-august
 bip_39_word_dash_2: grunt-robot
 bip_39_word_dash_3: grunt-robot-find
-bip_39_word_dash_4: grunt-robot-find-build
-bip_39_word_dash_5: grunt-robot-find-build-abandon
-bip_39_word_dash_6: grunt-robot-find-build-abandon-abstract
-bip_39_word_dash_7: grunt-robot-find-build-abandon-abstract-please
-bip_39_word_dash_8: grunt-robot-find-build-abandon-abstract-please-broom
-bip_39_word_dash_9: grunt-robot-find-build-abandon-abstract-please-broom-exchange
-bip_39_word_new_br_1: grunt
-bip_39_word_new_br_10: grunt<br>robot<br>find<br>build<br>abandon<br>abstract<br>please<br>broom<br>exchange<br>put
-bip_39_word_new_br_11: grunt<br>robot<br>find<br>build<br>abandon<br>abstract<br>please<br>broom<br>exchange<br>put<br>ginger
 bip_39_word_new_br_12: grunt<br>robot<br>find<br>build<br>abandon<br>abstract<br>please<br>broom<br>exchange<br>put<br>ginger<br>august
 bip_39_word_new_br_2: grunt<br>robot
 bip_39_word_new_br_3: grunt<br>robot<br>find
-bip_39_word_new_br_4: grunt<br>robot<br>find<br>build
-bip_39_word_new_br_5: grunt<br>robot<br>find<br>build<br>abandon
-bip_39_word_new_br_6: grunt<br>robot<br>find<br>build<br>abandon<br>abstract
-bip_39_word_new_br_7: grunt<br>robot<br>find<br>build<br>abandon<br>abstract<br>please
-bip_39_word_new_br_8: grunt<br>robot<br>find<br>build<br>abandon<br>abstract<br>please<br>broom
-bip_39_word_new_br_9: grunt<br>robot<br>find<br>build<br>abandon<br>abstract<br>please<br>broom<br>exchange
-bip_39_word_new_line_1: grunt
-bip_39_word_new_line_10: 'grunt
-
-  robot
-
-  find
-
-  build
-
-  abandon
-
-  abstract
-
-  please
-
-  broom
-
-  exchange
-
-  put'
-bip_39_word_new_line_11: 'grunt
-
-  robot
-
-  find
-
-  build
-
-  abandon
-
-  abstract
-
-  please
-
-  broom
-
-  exchange
-
-  put
-
-  ginger'
 bip_39_word_new_line_12: 'grunt
 
   robot
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'grunt
   robot
 
   find'
-bip_39_word_new_line_4: 'grunt
-
-  robot
-
-  find
-
-  build'
-bip_39_word_new_line_5: 'grunt
-
-  robot
-
-  find
-
-  build
-
-  abandon'
-bip_39_word_new_line_6: 'grunt
-
-  robot
-
-  find
-
-  build
-
-  abandon
-
-  abstract'
-bip_39_word_new_line_7: 'grunt
-
-  robot
-
-  find
-
-  build
-
-  abandon
-
-  abstract
-
-  please'
-bip_39_word_new_line_8: 'grunt
-
-  robot
-
-  find
-
-  build
-
-  abandon
-
-  abstract
-
-  please
-
-  broom'
-bip_39_word_new_line_9: 'grunt
-
-  robot
-
-  find
-
-  build
-
-  abandon
-
-  abstract
-
-  please
-
-  broom
-
-  exchange'
-bip_39_word_no_space_1: grunt
-bip_39_word_no_space_10: gruntrobotfindbuildabandonabstractpleasebroomexchangeput
-bip_39_word_no_space_11: gruntrobotfindbuildabandonabstractpleasebroomexchangeputginger
 bip_39_word_no_space_12: gruntrobotfindbuildabandonabstractpleasebroomexchangeputgingeraugust
 bip_39_word_no_space_2: gruntrobot
 bip_39_word_no_space_3: gruntrobotfind
-bip_39_word_no_space_4: gruntrobotfindbuild
-bip_39_word_no_space_5: gruntrobotfindbuildabandon
-bip_39_word_no_space_6: gruntrobotfindbuildabandonabstract
-bip_39_word_no_space_7: gruntrobotfindbuildabandonabstractplease
-bip_39_word_no_space_8: gruntrobotfindbuildabandonabstractpleasebroom
-bip_39_word_no_space_9: gruntrobotfindbuildabandonabstractpleasebroomexchange
-bip_39_word_space_0:
-- grunt
-- robot
-- find
-- build
-- abandon
-- abstract
-- please
-- broom
-- exchange
-- put
-- ginger
-- august
-bip_39_word_space_1: grunt
-bip_39_word_space_10: grunt robot find build abandon abstract please broom exchange
-  put
-bip_39_word_space_11: grunt robot find build abandon abstract please broom exchange
-  put ginger
 bip_39_word_space_12: grunt robot find build abandon abstract please broom exchange
   put ginger august
 bip_39_word_space_2: grunt robot
 bip_39_word_space_3: grunt robot find
-bip_39_word_space_4: grunt robot find build
-bip_39_word_space_5: grunt robot find build abandon
-bip_39_word_space_6: grunt robot find build abandon abstract
-bip_39_word_space_7: grunt robot find build abandon abstract please
-bip_39_word_space_8: grunt robot find build abandon abstract please broom
-bip_39_word_space_9: grunt robot find build abandon abstract please broom exchange
-bip_39_word_underscore_1: grunt
-bip_39_word_underscore_10: grunt_robot_find_build_abandon_abstract_please_broom_exchange_put
-bip_39_word_underscore_11: grunt_robot_find_build_abandon_abstract_please_broom_exchange_put_ginger
 bip_39_word_underscore_12: grunt_robot_find_build_abandon_abstract_please_broom_exchange_put_ginger_august
 bip_39_word_underscore_2: grunt_robot
 bip_39_word_underscore_3: grunt_robot_find
-bip_39_word_underscore_4: grunt_robot_find_build
-bip_39_word_underscore_5: grunt_robot_find_build_abandon
-bip_39_word_underscore_6: grunt_robot_find_build_abandon_abstract
-bip_39_word_underscore_7: grunt_robot_find_build_abandon_abstract_please
-bip_39_word_underscore_8: grunt_robot_find_build_abandon_abstract_please_broom
-bip_39_word_underscore_9: grunt_robot_find_build_abandon_abstract_please_broom_exchange
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

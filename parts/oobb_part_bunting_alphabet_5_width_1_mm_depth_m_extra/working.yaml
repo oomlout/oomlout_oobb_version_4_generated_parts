@@ -1,68 +1,9 @@
-bip_39_word_dash_1: foster
-bip_39_word_dash_10: foster-gown-ensure-talent-cram-claim-used-possible-predict-orient
-bip_39_word_dash_11: foster-gown-ensure-talent-cram-claim-used-possible-predict-orient-bounce
 bip_39_word_dash_12: foster-gown-ensure-talent-cram-claim-used-possible-predict-orient-bounce-action
 bip_39_word_dash_2: foster-gown
 bip_39_word_dash_3: foster-gown-ensure
-bip_39_word_dash_4: foster-gown-ensure-talent
-bip_39_word_dash_5: foster-gown-ensure-talent-cram
-bip_39_word_dash_6: foster-gown-ensure-talent-cram-claim
-bip_39_word_dash_7: foster-gown-ensure-talent-cram-claim-used
-bip_39_word_dash_8: foster-gown-ensure-talent-cram-claim-used-possible
-bip_39_word_dash_9: foster-gown-ensure-talent-cram-claim-used-possible-predict
-bip_39_word_new_br_1: foster
-bip_39_word_new_br_10: foster<br>gown<br>ensure<br>talent<br>cram<br>claim<br>used<br>possible<br>predict<br>orient
-bip_39_word_new_br_11: foster<br>gown<br>ensure<br>talent<br>cram<br>claim<br>used<br>possible<br>predict<br>orient<br>bounce
 bip_39_word_new_br_12: foster<br>gown<br>ensure<br>talent<br>cram<br>claim<br>used<br>possible<br>predict<br>orient<br>bounce<br>action
 bip_39_word_new_br_2: foster<br>gown
 bip_39_word_new_br_3: foster<br>gown<br>ensure
-bip_39_word_new_br_4: foster<br>gown<br>ensure<br>talent
-bip_39_word_new_br_5: foster<br>gown<br>ensure<br>talent<br>cram
-bip_39_word_new_br_6: foster<br>gown<br>ensure<br>talent<br>cram<br>claim
-bip_39_word_new_br_7: foster<br>gown<br>ensure<br>talent<br>cram<br>claim<br>used
-bip_39_word_new_br_8: foster<br>gown<br>ensure<br>talent<br>cram<br>claim<br>used<br>possible
-bip_39_word_new_br_9: foster<br>gown<br>ensure<br>talent<br>cram<br>claim<br>used<br>possible<br>predict
-bip_39_word_new_line_1: foster
-bip_39_word_new_line_10: 'foster
-
-  gown
-
-  ensure
-
-  talent
-
-  cram
-
-  claim
-
-  used
-
-  possible
-
-  predict
-
-  orient'
-bip_39_word_new_line_11: 'foster
-
-  gown
-
-  ensure
-
-  talent
-
-  cram
-
-  claim
-
-  used
-
-  possible
-
-  predict
-
-  orient
-
-  bounce'
 bip_39_word_new_line_12: 'foster
 
   gown
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'foster
   gown
 
   ensure'
-bip_39_word_new_line_4: 'foster
-
-  gown
-
-  ensure
-
-  talent'
-bip_39_word_new_line_5: 'foster
-
-  gown
-
-  ensure
-
-  talent
-
-  cram'
-bip_39_word_new_line_6: 'foster
-
-  gown
-
-  ensure
-
-  talent
-
-  cram
-
-  claim'
-bip_39_word_new_line_7: 'foster
-
-  gown
-
-  ensure
-
-  talent
-
-  cram
-
-  claim
-
-  used'
-bip_39_word_new_line_8: 'foster
-
-  gown
-
-  ensure
-
-  talent
-
-  cram
-
-  claim
-
-  used
-
-  possible'
-bip_39_word_new_line_9: 'foster
-
-  gown
-
-  ensure
-
-  talent
-
-  cram
-
-  claim
-
-  used
-
-  possible
-
-  predict'
-bip_39_word_no_space_1: foster
-bip_39_word_no_space_10: fostergownensuretalentcramclaimusedpossiblepredictorient
-bip_39_word_no_space_11: fostergownensuretalentcramclaimusedpossiblepredictorientbounce
 bip_39_word_no_space_12: fostergownensuretalentcramclaimusedpossiblepredictorientbounceaction
 bip_39_word_no_space_2: fostergown
 bip_39_word_no_space_3: fostergownensure
-bip_39_word_no_space_4: fostergownensuretalent
-bip_39_word_no_space_5: fostergownensuretalentcram
-bip_39_word_no_space_6: fostergownensuretalentcramclaim
-bip_39_word_no_space_7: fostergownensuretalentcramclaimused
-bip_39_word_no_space_8: fostergownensuretalentcramclaimusedpossible
-bip_39_word_no_space_9: fostergownensuretalentcramclaimusedpossiblepredict
-bip_39_word_space_0:
-- foster
-- gown
-- ensure
-- talent
-- cram
-- claim
-- used
-- possible
-- predict
-- orient
-- bounce
-- action
-bip_39_word_space_1: foster
-bip_39_word_space_10: foster gown ensure talent cram claim used possible predict orient
-bip_39_word_space_11: foster gown ensure talent cram claim used possible predict orient
-  bounce
 bip_39_word_space_12: foster gown ensure talent cram claim used possible predict orient
   bounce action
 bip_39_word_space_2: foster gown
 bip_39_word_space_3: foster gown ensure
-bip_39_word_space_4: foster gown ensure talent
-bip_39_word_space_5: foster gown ensure talent cram
-bip_39_word_space_6: foster gown ensure talent cram claim
-bip_39_word_space_7: foster gown ensure talent cram claim used
-bip_39_word_space_8: foster gown ensure talent cram claim used possible
-bip_39_word_space_9: foster gown ensure talent cram claim used possible predict
-bip_39_word_underscore_1: foster
-bip_39_word_underscore_10: foster_gown_ensure_talent_cram_claim_used_possible_predict_orient
-bip_39_word_underscore_11: foster_gown_ensure_talent_cram_claim_used_possible_predict_orient_bounce
 bip_39_word_underscore_12: foster_gown_ensure_talent_cram_claim_used_possible_predict_orient_bounce_action
 bip_39_word_underscore_2: foster_gown
 bip_39_word_underscore_3: foster_gown_ensure
-bip_39_word_underscore_4: foster_gown_ensure_talent
-bip_39_word_underscore_5: foster_gown_ensure_talent_cram
-bip_39_word_underscore_6: foster_gown_ensure_talent_cram_claim
-bip_39_word_underscore_7: foster_gown_ensure_talent_cram_claim_used
-bip_39_word_underscore_8: foster_gown_ensure_talent_cram_claim_used_possible
-bip_39_word_underscore_9: foster_gown_ensure_talent_cram_claim_used_possible_predict
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

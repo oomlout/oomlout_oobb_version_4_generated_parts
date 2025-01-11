@@ -1,68 +1,9 @@
-bip_39_word_dash_1: sound
-bip_39_word_dash_10: sound-train-include-make-pluck-universe-this-sound-vibrant-wealth
-bip_39_word_dash_11: sound-train-include-make-pluck-universe-this-sound-vibrant-wealth-share
 bip_39_word_dash_12: sound-train-include-make-pluck-universe-this-sound-vibrant-wealth-share-alter
 bip_39_word_dash_2: sound-train
 bip_39_word_dash_3: sound-train-include
-bip_39_word_dash_4: sound-train-include-make
-bip_39_word_dash_5: sound-train-include-make-pluck
-bip_39_word_dash_6: sound-train-include-make-pluck-universe
-bip_39_word_dash_7: sound-train-include-make-pluck-universe-this
-bip_39_word_dash_8: sound-train-include-make-pluck-universe-this-sound
-bip_39_word_dash_9: sound-train-include-make-pluck-universe-this-sound-vibrant
-bip_39_word_new_br_1: sound
-bip_39_word_new_br_10: sound<br>train<br>include<br>make<br>pluck<br>universe<br>this<br>sound<br>vibrant<br>wealth
-bip_39_word_new_br_11: sound<br>train<br>include<br>make<br>pluck<br>universe<br>this<br>sound<br>vibrant<br>wealth<br>share
 bip_39_word_new_br_12: sound<br>train<br>include<br>make<br>pluck<br>universe<br>this<br>sound<br>vibrant<br>wealth<br>share<br>alter
 bip_39_word_new_br_2: sound<br>train
 bip_39_word_new_br_3: sound<br>train<br>include
-bip_39_word_new_br_4: sound<br>train<br>include<br>make
-bip_39_word_new_br_5: sound<br>train<br>include<br>make<br>pluck
-bip_39_word_new_br_6: sound<br>train<br>include<br>make<br>pluck<br>universe
-bip_39_word_new_br_7: sound<br>train<br>include<br>make<br>pluck<br>universe<br>this
-bip_39_word_new_br_8: sound<br>train<br>include<br>make<br>pluck<br>universe<br>this<br>sound
-bip_39_word_new_br_9: sound<br>train<br>include<br>make<br>pluck<br>universe<br>this<br>sound<br>vibrant
-bip_39_word_new_line_1: sound
-bip_39_word_new_line_10: 'sound
-
-  train
-
-  include
-
-  make
-
-  pluck
-
-  universe
-
-  this
-
-  sound
-
-  vibrant
-
-  wealth'
-bip_39_word_new_line_11: 'sound
-
-  train
-
-  include
-
-  make
-
-  pluck
-
-  universe
-
-  this
-
-  sound
-
-  vibrant
-
-  wealth
-
-  share'
 bip_39_word_new_line_12: 'sound
 
   train
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'sound
   train
 
   include'
-bip_39_word_new_line_4: 'sound
-
-  train
-
-  include
-
-  make'
-bip_39_word_new_line_5: 'sound
-
-  train
-
-  include
-
-  make
-
-  pluck'
-bip_39_word_new_line_6: 'sound
-
-  train
-
-  include
-
-  make
-
-  pluck
-
-  universe'
-bip_39_word_new_line_7: 'sound
-
-  train
-
-  include
-
-  make
-
-  pluck
-
-  universe
-
-  this'
-bip_39_word_new_line_8: 'sound
-
-  train
-
-  include
-
-  make
-
-  pluck
-
-  universe
-
-  this
-
-  sound'
-bip_39_word_new_line_9: 'sound
-
-  train
-
-  include
-
-  make
-
-  pluck
-
-  universe
-
-  this
-
-  sound
-
-  vibrant'
-bip_39_word_no_space_1: sound
-bip_39_word_no_space_10: soundtrainincludemakepluckuniversethissoundvibrantwealth
-bip_39_word_no_space_11: soundtrainincludemakepluckuniversethissoundvibrantwealthshare
 bip_39_word_no_space_12: soundtrainincludemakepluckuniversethissoundvibrantwealthsharealter
 bip_39_word_no_space_2: soundtrain
 bip_39_word_no_space_3: soundtraininclude
-bip_39_word_no_space_4: soundtrainincludemake
-bip_39_word_no_space_5: soundtrainincludemakepluck
-bip_39_word_no_space_6: soundtrainincludemakepluckuniverse
-bip_39_word_no_space_7: soundtrainincludemakepluckuniversethis
-bip_39_word_no_space_8: soundtrainincludemakepluckuniversethissound
-bip_39_word_no_space_9: soundtrainincludemakepluckuniversethissoundvibrant
-bip_39_word_space_0:
-- sound
-- train
-- include
-- make
-- pluck
-- universe
-- this
-- sound
-- vibrant
-- wealth
-- share
-- alter
-bip_39_word_space_1: sound
-bip_39_word_space_10: sound train include make pluck universe this sound vibrant wealth
-bip_39_word_space_11: sound train include make pluck universe this sound vibrant wealth
-  share
 bip_39_word_space_12: sound train include make pluck universe this sound vibrant wealth
   share alter
 bip_39_word_space_2: sound train
 bip_39_word_space_3: sound train include
-bip_39_word_space_4: sound train include make
-bip_39_word_space_5: sound train include make pluck
-bip_39_word_space_6: sound train include make pluck universe
-bip_39_word_space_7: sound train include make pluck universe this
-bip_39_word_space_8: sound train include make pluck universe this sound
-bip_39_word_space_9: sound train include make pluck universe this sound vibrant
-bip_39_word_underscore_1: sound
-bip_39_word_underscore_10: sound_train_include_make_pluck_universe_this_sound_vibrant_wealth
-bip_39_word_underscore_11: sound_train_include_make_pluck_universe_this_sound_vibrant_wealth_share
 bip_39_word_underscore_12: sound_train_include_make_pluck_universe_this_sound_vibrant_wealth_share_alter
 bip_39_word_underscore_2: sound_train
 bip_39_word_underscore_3: sound_train_include
-bip_39_word_underscore_4: sound_train_include_make
-bip_39_word_underscore_5: sound_train_include_make_pluck
-bip_39_word_underscore_6: sound_train_include_make_pluck_universe
-bip_39_word_underscore_7: sound_train_include_make_pluck_universe_this
-bip_39_word_underscore_8: sound_train_include_make_pluck_universe_this_sound
-bip_39_word_underscore_9: sound_train_include_make_pluck_universe_this_sound_vibrant
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: gate
-bip_39_word_dash_10: gate-remind-survey-profit-aunt-stereo-luxury-enact-toy-guard
-bip_39_word_dash_11: gate-remind-survey-profit-aunt-stereo-luxury-enact-toy-guard-seek
 bip_39_word_dash_12: gate-remind-survey-profit-aunt-stereo-luxury-enact-toy-guard-seek-armor
 bip_39_word_dash_2: gate-remind
 bip_39_word_dash_3: gate-remind-survey
-bip_39_word_dash_4: gate-remind-survey-profit
-bip_39_word_dash_5: gate-remind-survey-profit-aunt
-bip_39_word_dash_6: gate-remind-survey-profit-aunt-stereo
-bip_39_word_dash_7: gate-remind-survey-profit-aunt-stereo-luxury
-bip_39_word_dash_8: gate-remind-survey-profit-aunt-stereo-luxury-enact
-bip_39_word_dash_9: gate-remind-survey-profit-aunt-stereo-luxury-enact-toy
-bip_39_word_new_br_1: gate
-bip_39_word_new_br_10: gate<br>remind<br>survey<br>profit<br>aunt<br>stereo<br>luxury<br>enact<br>toy<br>guard
-bip_39_word_new_br_11: gate<br>remind<br>survey<br>profit<br>aunt<br>stereo<br>luxury<br>enact<br>toy<br>guard<br>seek
 bip_39_word_new_br_12: gate<br>remind<br>survey<br>profit<br>aunt<br>stereo<br>luxury<br>enact<br>toy<br>guard<br>seek<br>armor
 bip_39_word_new_br_2: gate<br>remind
 bip_39_word_new_br_3: gate<br>remind<br>survey
-bip_39_word_new_br_4: gate<br>remind<br>survey<br>profit
-bip_39_word_new_br_5: gate<br>remind<br>survey<br>profit<br>aunt
-bip_39_word_new_br_6: gate<br>remind<br>survey<br>profit<br>aunt<br>stereo
-bip_39_word_new_br_7: gate<br>remind<br>survey<br>profit<br>aunt<br>stereo<br>luxury
-bip_39_word_new_br_8: gate<br>remind<br>survey<br>profit<br>aunt<br>stereo<br>luxury<br>enact
-bip_39_word_new_br_9: gate<br>remind<br>survey<br>profit<br>aunt<br>stereo<br>luxury<br>enact<br>toy
-bip_39_word_new_line_1: gate
-bip_39_word_new_line_10: 'gate
-
-  remind
-
-  survey
-
-  profit
-
-  aunt
-
-  stereo
-
-  luxury
-
-  enact
-
-  toy
-
-  guard'
-bip_39_word_new_line_11: 'gate
-
-  remind
-
-  survey
-
-  profit
-
-  aunt
-
-  stereo
-
-  luxury
-
-  enact
-
-  toy
-
-  guard
-
-  seek'
 bip_39_word_new_line_12: 'gate
 
   remind
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'gate
   remind
 
   survey'
-bip_39_word_new_line_4: 'gate
-
-  remind
-
-  survey
-
-  profit'
-bip_39_word_new_line_5: 'gate
-
-  remind
-
-  survey
-
-  profit
-
-  aunt'
-bip_39_word_new_line_6: 'gate
-
-  remind
-
-  survey
-
-  profit
-
-  aunt
-
-  stereo'
-bip_39_word_new_line_7: 'gate
-
-  remind
-
-  survey
-
-  profit
-
-  aunt
-
-  stereo
-
-  luxury'
-bip_39_word_new_line_8: 'gate
-
-  remind
-
-  survey
-
-  profit
-
-  aunt
-
-  stereo
-
-  luxury
-
-  enact'
-bip_39_word_new_line_9: 'gate
-
-  remind
-
-  survey
-
-  profit
-
-  aunt
-
-  stereo
-
-  luxury
-
-  enact
-
-  toy'
-bip_39_word_no_space_1: gate
-bip_39_word_no_space_10: gateremindsurveyprofitauntstereoluxuryenacttoyguard
-bip_39_word_no_space_11: gateremindsurveyprofitauntstereoluxuryenacttoyguardseek
 bip_39_word_no_space_12: gateremindsurveyprofitauntstereoluxuryenacttoyguardseekarmor
 bip_39_word_no_space_2: gateremind
 bip_39_word_no_space_3: gateremindsurvey
-bip_39_word_no_space_4: gateremindsurveyprofit
-bip_39_word_no_space_5: gateremindsurveyprofitaunt
-bip_39_word_no_space_6: gateremindsurveyprofitauntstereo
-bip_39_word_no_space_7: gateremindsurveyprofitauntstereoluxury
-bip_39_word_no_space_8: gateremindsurveyprofitauntstereoluxuryenact
-bip_39_word_no_space_9: gateremindsurveyprofitauntstereoluxuryenacttoy
-bip_39_word_space_0:
-- gate
-- remind
-- survey
-- profit
-- aunt
-- stereo
-- luxury
-- enact
-- toy
-- guard
-- seek
-- armor
-bip_39_word_space_1: gate
-bip_39_word_space_10: gate remind survey profit aunt stereo luxury enact toy guard
-bip_39_word_space_11: gate remind survey profit aunt stereo luxury enact toy guard
-  seek
 bip_39_word_space_12: gate remind survey profit aunt stereo luxury enact toy guard
   seek armor
 bip_39_word_space_2: gate remind
 bip_39_word_space_3: gate remind survey
-bip_39_word_space_4: gate remind survey profit
-bip_39_word_space_5: gate remind survey profit aunt
-bip_39_word_space_6: gate remind survey profit aunt stereo
-bip_39_word_space_7: gate remind survey profit aunt stereo luxury
-bip_39_word_space_8: gate remind survey profit aunt stereo luxury enact
-bip_39_word_space_9: gate remind survey profit aunt stereo luxury enact toy
-bip_39_word_underscore_1: gate
-bip_39_word_underscore_10: gate_remind_survey_profit_aunt_stereo_luxury_enact_toy_guard
-bip_39_word_underscore_11: gate_remind_survey_profit_aunt_stereo_luxury_enact_toy_guard_seek
 bip_39_word_underscore_12: gate_remind_survey_profit_aunt_stereo_luxury_enact_toy_guard_seek_armor
 bip_39_word_underscore_2: gate_remind
 bip_39_word_underscore_3: gate_remind_survey
-bip_39_word_underscore_4: gate_remind_survey_profit
-bip_39_word_underscore_5: gate_remind_survey_profit_aunt
-bip_39_word_underscore_6: gate_remind_survey_profit_aunt_stereo
-bip_39_word_underscore_7: gate_remind_survey_profit_aunt_stereo_luxury
-bip_39_word_underscore_8: gate_remind_survey_profit_aunt_stereo_luxury_enact
-bip_39_word_underscore_9: gate_remind_survey_profit_aunt_stereo_luxury_enact_toy
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

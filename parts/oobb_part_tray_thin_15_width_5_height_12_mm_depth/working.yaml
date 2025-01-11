@@ -1,68 +1,9 @@
-bip_39_word_dash_1: size
-bip_39_word_dash_10: size-float-kid-exhaust-bomb-soda-expand-edit-shuffle-fringe
-bip_39_word_dash_11: size-float-kid-exhaust-bomb-soda-expand-edit-shuffle-fringe-grid
 bip_39_word_dash_12: size-float-kid-exhaust-bomb-soda-expand-edit-shuffle-fringe-grid-aunt
 bip_39_word_dash_2: size-float
 bip_39_word_dash_3: size-float-kid
-bip_39_word_dash_4: size-float-kid-exhaust
-bip_39_word_dash_5: size-float-kid-exhaust-bomb
-bip_39_word_dash_6: size-float-kid-exhaust-bomb-soda
-bip_39_word_dash_7: size-float-kid-exhaust-bomb-soda-expand
-bip_39_word_dash_8: size-float-kid-exhaust-bomb-soda-expand-edit
-bip_39_word_dash_9: size-float-kid-exhaust-bomb-soda-expand-edit-shuffle
-bip_39_word_new_br_1: size
-bip_39_word_new_br_10: size<br>float<br>kid<br>exhaust<br>bomb<br>soda<br>expand<br>edit<br>shuffle<br>fringe
-bip_39_word_new_br_11: size<br>float<br>kid<br>exhaust<br>bomb<br>soda<br>expand<br>edit<br>shuffle<br>fringe<br>grid
 bip_39_word_new_br_12: size<br>float<br>kid<br>exhaust<br>bomb<br>soda<br>expand<br>edit<br>shuffle<br>fringe<br>grid<br>aunt
 bip_39_word_new_br_2: size<br>float
 bip_39_word_new_br_3: size<br>float<br>kid
-bip_39_word_new_br_4: size<br>float<br>kid<br>exhaust
-bip_39_word_new_br_5: size<br>float<br>kid<br>exhaust<br>bomb
-bip_39_word_new_br_6: size<br>float<br>kid<br>exhaust<br>bomb<br>soda
-bip_39_word_new_br_7: size<br>float<br>kid<br>exhaust<br>bomb<br>soda<br>expand
-bip_39_word_new_br_8: size<br>float<br>kid<br>exhaust<br>bomb<br>soda<br>expand<br>edit
-bip_39_word_new_br_9: size<br>float<br>kid<br>exhaust<br>bomb<br>soda<br>expand<br>edit<br>shuffle
-bip_39_word_new_line_1: size
-bip_39_word_new_line_10: 'size
-
-  float
-
-  kid
-
-  exhaust
-
-  bomb
-
-  soda
-
-  expand
-
-  edit
-
-  shuffle
-
-  fringe'
-bip_39_word_new_line_11: 'size
-
-  float
-
-  kid
-
-  exhaust
-
-  bomb
-
-  soda
-
-  expand
-
-  edit
-
-  shuffle
-
-  fringe
-
-  grid'
 bip_39_word_new_line_12: 'size
 
   float
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'size
   float
 
   kid'
-bip_39_word_new_line_4: 'size
-
-  float
-
-  kid
-
-  exhaust'
-bip_39_word_new_line_5: 'size
-
-  float
-
-  kid
-
-  exhaust
-
-  bomb'
-bip_39_word_new_line_6: 'size
-
-  float
-
-  kid
-
-  exhaust
-
-  bomb
-
-  soda'
-bip_39_word_new_line_7: 'size
-
-  float
-
-  kid
-
-  exhaust
-
-  bomb
-
-  soda
-
-  expand'
-bip_39_word_new_line_8: 'size
-
-  float
-
-  kid
-
-  exhaust
-
-  bomb
-
-  soda
-
-  expand
-
-  edit'
-bip_39_word_new_line_9: 'size
-
-  float
-
-  kid
-
-  exhaust
-
-  bomb
-
-  soda
-
-  expand
-
-  edit
-
-  shuffle'
-bip_39_word_no_space_1: size
-bip_39_word_no_space_10: sizefloatkidexhaustbombsodaexpandeditshufflefringe
-bip_39_word_no_space_11: sizefloatkidexhaustbombsodaexpandeditshufflefringegrid
 bip_39_word_no_space_12: sizefloatkidexhaustbombsodaexpandeditshufflefringegridaunt
 bip_39_word_no_space_2: sizefloat
 bip_39_word_no_space_3: sizefloatkid
-bip_39_word_no_space_4: sizefloatkidexhaust
-bip_39_word_no_space_5: sizefloatkidexhaustbomb
-bip_39_word_no_space_6: sizefloatkidexhaustbombsoda
-bip_39_word_no_space_7: sizefloatkidexhaustbombsodaexpand
-bip_39_word_no_space_8: sizefloatkidexhaustbombsodaexpandedit
-bip_39_word_no_space_9: sizefloatkidexhaustbombsodaexpandeditshuffle
-bip_39_word_space_0:
-- size
-- float
-- kid
-- exhaust
-- bomb
-- soda
-- expand
-- edit
-- shuffle
-- fringe
-- grid
-- aunt
-bip_39_word_space_1: size
-bip_39_word_space_10: size float kid exhaust bomb soda expand edit shuffle fringe
-bip_39_word_space_11: size float kid exhaust bomb soda expand edit shuffle fringe
-  grid
 bip_39_word_space_12: size float kid exhaust bomb soda expand edit shuffle fringe
   grid aunt
 bip_39_word_space_2: size float
 bip_39_word_space_3: size float kid
-bip_39_word_space_4: size float kid exhaust
-bip_39_word_space_5: size float kid exhaust bomb
-bip_39_word_space_6: size float kid exhaust bomb soda
-bip_39_word_space_7: size float kid exhaust bomb soda expand
-bip_39_word_space_8: size float kid exhaust bomb soda expand edit
-bip_39_word_space_9: size float kid exhaust bomb soda expand edit shuffle
-bip_39_word_underscore_1: size
-bip_39_word_underscore_10: size_float_kid_exhaust_bomb_soda_expand_edit_shuffle_fringe
-bip_39_word_underscore_11: size_float_kid_exhaust_bomb_soda_expand_edit_shuffle_fringe_grid
 bip_39_word_underscore_12: size_float_kid_exhaust_bomb_soda_expand_edit_shuffle_fringe_grid_aunt
 bip_39_word_underscore_2: size_float
 bip_39_word_underscore_3: size_float_kid
-bip_39_word_underscore_4: size_float_kid_exhaust
-bip_39_word_underscore_5: size_float_kid_exhaust_bomb
-bip_39_word_underscore_6: size_float_kid_exhaust_bomb_soda
-bip_39_word_underscore_7: size_float_kid_exhaust_bomb_soda_expand
-bip_39_word_underscore_8: size_float_kid_exhaust_bomb_soda_expand_edit
-bip_39_word_underscore_9: size_float_kid_exhaust_bomb_soda_expand_edit_shuffle
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: select
-bip_39_word_dash_10: select-primary-proof-cactus-basic-shoe-female-rifle-flight-friend
-bip_39_word_dash_11: select-primary-proof-cactus-basic-shoe-female-rifle-flight-friend-attitude
 bip_39_word_dash_12: select-primary-proof-cactus-basic-shoe-female-rifle-flight-friend-attitude-absurd
 bip_39_word_dash_2: select-primary
 bip_39_word_dash_3: select-primary-proof
-bip_39_word_dash_4: select-primary-proof-cactus
-bip_39_word_dash_5: select-primary-proof-cactus-basic
-bip_39_word_dash_6: select-primary-proof-cactus-basic-shoe
-bip_39_word_dash_7: select-primary-proof-cactus-basic-shoe-female
-bip_39_word_dash_8: select-primary-proof-cactus-basic-shoe-female-rifle
-bip_39_word_dash_9: select-primary-proof-cactus-basic-shoe-female-rifle-flight
-bip_39_word_new_br_1: select
-bip_39_word_new_br_10: select<br>primary<br>proof<br>cactus<br>basic<br>shoe<br>female<br>rifle<br>flight<br>friend
-bip_39_word_new_br_11: select<br>primary<br>proof<br>cactus<br>basic<br>shoe<br>female<br>rifle<br>flight<br>friend<br>attitude
 bip_39_word_new_br_12: select<br>primary<br>proof<br>cactus<br>basic<br>shoe<br>female<br>rifle<br>flight<br>friend<br>attitude<br>absurd
 bip_39_word_new_br_2: select<br>primary
 bip_39_word_new_br_3: select<br>primary<br>proof
-bip_39_word_new_br_4: select<br>primary<br>proof<br>cactus
-bip_39_word_new_br_5: select<br>primary<br>proof<br>cactus<br>basic
-bip_39_word_new_br_6: select<br>primary<br>proof<br>cactus<br>basic<br>shoe
-bip_39_word_new_br_7: select<br>primary<br>proof<br>cactus<br>basic<br>shoe<br>female
-bip_39_word_new_br_8: select<br>primary<br>proof<br>cactus<br>basic<br>shoe<br>female<br>rifle
-bip_39_word_new_br_9: select<br>primary<br>proof<br>cactus<br>basic<br>shoe<br>female<br>rifle<br>flight
-bip_39_word_new_line_1: select
-bip_39_word_new_line_10: 'select
-
-  primary
-
-  proof
-
-  cactus
-
-  basic
-
-  shoe
-
-  female
-
-  rifle
-
-  flight
-
-  friend'
-bip_39_word_new_line_11: 'select
-
-  primary
-
-  proof
-
-  cactus
-
-  basic
-
-  shoe
-
-  female
-
-  rifle
-
-  flight
-
-  friend
-
-  attitude'
 bip_39_word_new_line_12: 'select
 
   primary
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'select
   primary
 
   proof'
-bip_39_word_new_line_4: 'select
-
-  primary
-
-  proof
-
-  cactus'
-bip_39_word_new_line_5: 'select
-
-  primary
-
-  proof
-
-  cactus
-
-  basic'
-bip_39_word_new_line_6: 'select
-
-  primary
-
-  proof
-
-  cactus
-
-  basic
-
-  shoe'
-bip_39_word_new_line_7: 'select
-
-  primary
-
-  proof
-
-  cactus
-
-  basic
-
-  shoe
-
-  female'
-bip_39_word_new_line_8: 'select
-
-  primary
-
-  proof
-
-  cactus
-
-  basic
-
-  shoe
-
-  female
-
-  rifle'
-bip_39_word_new_line_9: 'select
-
-  primary
-
-  proof
-
-  cactus
-
-  basic
-
-  shoe
-
-  female
-
-  rifle
-
-  flight'
-bip_39_word_no_space_1: select
-bip_39_word_no_space_10: selectprimaryproofcactusbasicshoefemalerifleflightfriend
-bip_39_word_no_space_11: selectprimaryproofcactusbasicshoefemalerifleflightfriendattitude
 bip_39_word_no_space_12: selectprimaryproofcactusbasicshoefemalerifleflightfriendattitudeabsurd
 bip_39_word_no_space_2: selectprimary
 bip_39_word_no_space_3: selectprimaryproof
-bip_39_word_no_space_4: selectprimaryproofcactus
-bip_39_word_no_space_5: selectprimaryproofcactusbasic
-bip_39_word_no_space_6: selectprimaryproofcactusbasicshoe
-bip_39_word_no_space_7: selectprimaryproofcactusbasicshoefemale
-bip_39_word_no_space_8: selectprimaryproofcactusbasicshoefemalerifle
-bip_39_word_no_space_9: selectprimaryproofcactusbasicshoefemalerifleflight
-bip_39_word_space_0:
-- select
-- primary
-- proof
-- cactus
-- basic
-- shoe
-- female
-- rifle
-- flight
-- friend
-- attitude
-- absurd
-bip_39_word_space_1: select
-bip_39_word_space_10: select primary proof cactus basic shoe female rifle flight friend
-bip_39_word_space_11: select primary proof cactus basic shoe female rifle flight friend
-  attitude
 bip_39_word_space_12: select primary proof cactus basic shoe female rifle flight friend
   attitude absurd
 bip_39_word_space_2: select primary
 bip_39_word_space_3: select primary proof
-bip_39_word_space_4: select primary proof cactus
-bip_39_word_space_5: select primary proof cactus basic
-bip_39_word_space_6: select primary proof cactus basic shoe
-bip_39_word_space_7: select primary proof cactus basic shoe female
-bip_39_word_space_8: select primary proof cactus basic shoe female rifle
-bip_39_word_space_9: select primary proof cactus basic shoe female rifle flight
-bip_39_word_underscore_1: select
-bip_39_word_underscore_10: select_primary_proof_cactus_basic_shoe_female_rifle_flight_friend
-bip_39_word_underscore_11: select_primary_proof_cactus_basic_shoe_female_rifle_flight_friend_attitude
 bip_39_word_underscore_12: select_primary_proof_cactus_basic_shoe_female_rifle_flight_friend_attitude_absurd
 bip_39_word_underscore_2: select_primary
 bip_39_word_underscore_3: select_primary_proof
-bip_39_word_underscore_4: select_primary_proof_cactus
-bip_39_word_underscore_5: select_primary_proof_cactus_basic
-bip_39_word_underscore_6: select_primary_proof_cactus_basic_shoe
-bip_39_word_underscore_7: select_primary_proof_cactus_basic_shoe_female
-bip_39_word_underscore_8: select_primary_proof_cactus_basic_shoe_female_rifle
-bip_39_word_underscore_9: select_primary_proof_cactus_basic_shoe_female_rifle_flight
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

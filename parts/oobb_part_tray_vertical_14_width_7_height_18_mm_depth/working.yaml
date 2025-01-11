@@ -1,68 +1,9 @@
-bip_39_word_dash_1: social
-bip_39_word_dash_10: social-example-galaxy-barrel-game-phrase-soldier-mention-snap-floor
-bip_39_word_dash_11: social-example-galaxy-barrel-game-phrase-soldier-mention-snap-floor-rhythm
 bip_39_word_dash_12: social-example-galaxy-barrel-game-phrase-soldier-mention-snap-floor-rhythm-alpha
 bip_39_word_dash_2: social-example
 bip_39_word_dash_3: social-example-galaxy
-bip_39_word_dash_4: social-example-galaxy-barrel
-bip_39_word_dash_5: social-example-galaxy-barrel-game
-bip_39_word_dash_6: social-example-galaxy-barrel-game-phrase
-bip_39_word_dash_7: social-example-galaxy-barrel-game-phrase-soldier
-bip_39_word_dash_8: social-example-galaxy-barrel-game-phrase-soldier-mention
-bip_39_word_dash_9: social-example-galaxy-barrel-game-phrase-soldier-mention-snap
-bip_39_word_new_br_1: social
-bip_39_word_new_br_10: social<br>example<br>galaxy<br>barrel<br>game<br>phrase<br>soldier<br>mention<br>snap<br>floor
-bip_39_word_new_br_11: social<br>example<br>galaxy<br>barrel<br>game<br>phrase<br>soldier<br>mention<br>snap<br>floor<br>rhythm
 bip_39_word_new_br_12: social<br>example<br>galaxy<br>barrel<br>game<br>phrase<br>soldier<br>mention<br>snap<br>floor<br>rhythm<br>alpha
 bip_39_word_new_br_2: social<br>example
 bip_39_word_new_br_3: social<br>example<br>galaxy
-bip_39_word_new_br_4: social<br>example<br>galaxy<br>barrel
-bip_39_word_new_br_5: social<br>example<br>galaxy<br>barrel<br>game
-bip_39_word_new_br_6: social<br>example<br>galaxy<br>barrel<br>game<br>phrase
-bip_39_word_new_br_7: social<br>example<br>galaxy<br>barrel<br>game<br>phrase<br>soldier
-bip_39_word_new_br_8: social<br>example<br>galaxy<br>barrel<br>game<br>phrase<br>soldier<br>mention
-bip_39_word_new_br_9: social<br>example<br>galaxy<br>barrel<br>game<br>phrase<br>soldier<br>mention<br>snap
-bip_39_word_new_line_1: social
-bip_39_word_new_line_10: 'social
-
-  example
-
-  galaxy
-
-  barrel
-
-  game
-
-  phrase
-
-  soldier
-
-  mention
-
-  snap
-
-  floor'
-bip_39_word_new_line_11: 'social
-
-  example
-
-  galaxy
-
-  barrel
-
-  game
-
-  phrase
-
-  soldier
-
-  mention
-
-  snap
-
-  floor
-
-  rhythm'
 bip_39_word_new_line_12: 'social
 
   example
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'social
   example
 
   galaxy'
-bip_39_word_new_line_4: 'social
-
-  example
-
-  galaxy
-
-  barrel'
-bip_39_word_new_line_5: 'social
-
-  example
-
-  galaxy
-
-  barrel
-
-  game'
-bip_39_word_new_line_6: 'social
-
-  example
-
-  galaxy
-
-  barrel
-
-  game
-
-  phrase'
-bip_39_word_new_line_7: 'social
-
-  example
-
-  galaxy
-
-  barrel
-
-  game
-
-  phrase
-
-  soldier'
-bip_39_word_new_line_8: 'social
-
-  example
-
-  galaxy
-
-  barrel
-
-  game
-
-  phrase
-
-  soldier
-
-  mention'
-bip_39_word_new_line_9: 'social
-
-  example
-
-  galaxy
-
-  barrel
-
-  game
-
-  phrase
-
-  soldier
-
-  mention
-
-  snap'
-bip_39_word_no_space_1: social
-bip_39_word_no_space_10: socialexamplegalaxybarrelgamephrasesoldiermentionsnapfloor
-bip_39_word_no_space_11: socialexamplegalaxybarrelgamephrasesoldiermentionsnapfloorrhythm
 bip_39_word_no_space_12: socialexamplegalaxybarrelgamephrasesoldiermentionsnapfloorrhythmalpha
 bip_39_word_no_space_2: socialexample
 bip_39_word_no_space_3: socialexamplegalaxy
-bip_39_word_no_space_4: socialexamplegalaxybarrel
-bip_39_word_no_space_5: socialexamplegalaxybarrelgame
-bip_39_word_no_space_6: socialexamplegalaxybarrelgamephrase
-bip_39_word_no_space_7: socialexamplegalaxybarrelgamephrasesoldier
-bip_39_word_no_space_8: socialexamplegalaxybarrelgamephrasesoldiermention
-bip_39_word_no_space_9: socialexamplegalaxybarrelgamephrasesoldiermentionsnap
-bip_39_word_space_0:
-- social
-- example
-- galaxy
-- barrel
-- game
-- phrase
-- soldier
-- mention
-- snap
-- floor
-- rhythm
-- alpha
-bip_39_word_space_1: social
-bip_39_word_space_10: social example galaxy barrel game phrase soldier mention snap
-  floor
-bip_39_word_space_11: social example galaxy barrel game phrase soldier mention snap
-  floor rhythm
 bip_39_word_space_12: social example galaxy barrel game phrase soldier mention snap
   floor rhythm alpha
 bip_39_word_space_2: social example
 bip_39_word_space_3: social example galaxy
-bip_39_word_space_4: social example galaxy barrel
-bip_39_word_space_5: social example galaxy barrel game
-bip_39_word_space_6: social example galaxy barrel game phrase
-bip_39_word_space_7: social example galaxy barrel game phrase soldier
-bip_39_word_space_8: social example galaxy barrel game phrase soldier mention
-bip_39_word_space_9: social example galaxy barrel game phrase soldier mention snap
-bip_39_word_underscore_1: social
-bip_39_word_underscore_10: social_example_galaxy_barrel_game_phrase_soldier_mention_snap_floor
-bip_39_word_underscore_11: social_example_galaxy_barrel_game_phrase_soldier_mention_snap_floor_rhythm
 bip_39_word_underscore_12: social_example_galaxy_barrel_game_phrase_soldier_mention_snap_floor_rhythm_alpha
 bip_39_word_underscore_2: social_example
 bip_39_word_underscore_3: social_example_galaxy
-bip_39_word_underscore_4: social_example_galaxy_barrel
-bip_39_word_underscore_5: social_example_galaxy_barrel_game
-bip_39_word_underscore_6: social_example_galaxy_barrel_game_phrase
-bip_39_word_underscore_7: social_example_galaxy_barrel_game_phrase_soldier
-bip_39_word_underscore_8: social_example_galaxy_barrel_game_phrase_soldier_mention
-bip_39_word_underscore_9: social_example_galaxy_barrel_game_phrase_soldier_mention_snap
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

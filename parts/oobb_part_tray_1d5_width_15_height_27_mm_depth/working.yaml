@@ -1,68 +1,9 @@
-bip_39_word_dash_1: cup
-bip_39_word_dash_10: cup-depend-join-half-behind-three-quit-tumble-eye-brick
-bip_39_word_dash_11: cup-depend-join-half-behind-three-quit-tumble-eye-brick-stay
 bip_39_word_dash_12: cup-depend-join-half-behind-three-quit-tumble-eye-brick-stay-addict
 bip_39_word_dash_2: cup-depend
 bip_39_word_dash_3: cup-depend-join
-bip_39_word_dash_4: cup-depend-join-half
-bip_39_word_dash_5: cup-depend-join-half-behind
-bip_39_word_dash_6: cup-depend-join-half-behind-three
-bip_39_word_dash_7: cup-depend-join-half-behind-three-quit
-bip_39_word_dash_8: cup-depend-join-half-behind-three-quit-tumble
-bip_39_word_dash_9: cup-depend-join-half-behind-three-quit-tumble-eye
-bip_39_word_new_br_1: cup
-bip_39_word_new_br_10: cup<br>depend<br>join<br>half<br>behind<br>three<br>quit<br>tumble<br>eye<br>brick
-bip_39_word_new_br_11: cup<br>depend<br>join<br>half<br>behind<br>three<br>quit<br>tumble<br>eye<br>brick<br>stay
 bip_39_word_new_br_12: cup<br>depend<br>join<br>half<br>behind<br>three<br>quit<br>tumble<br>eye<br>brick<br>stay<br>addict
 bip_39_word_new_br_2: cup<br>depend
 bip_39_word_new_br_3: cup<br>depend<br>join
-bip_39_word_new_br_4: cup<br>depend<br>join<br>half
-bip_39_word_new_br_5: cup<br>depend<br>join<br>half<br>behind
-bip_39_word_new_br_6: cup<br>depend<br>join<br>half<br>behind<br>three
-bip_39_word_new_br_7: cup<br>depend<br>join<br>half<br>behind<br>three<br>quit
-bip_39_word_new_br_8: cup<br>depend<br>join<br>half<br>behind<br>three<br>quit<br>tumble
-bip_39_word_new_br_9: cup<br>depend<br>join<br>half<br>behind<br>three<br>quit<br>tumble<br>eye
-bip_39_word_new_line_1: cup
-bip_39_word_new_line_10: 'cup
-
-  depend
-
-  join
-
-  half
-
-  behind
-
-  three
-
-  quit
-
-  tumble
-
-  eye
-
-  brick'
-bip_39_word_new_line_11: 'cup
-
-  depend
-
-  join
-
-  half
-
-  behind
-
-  three
-
-  quit
-
-  tumble
-
-  eye
-
-  brick
-
-  stay'
 bip_39_word_new_line_12: 'cup
 
   depend
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'cup
   depend
 
   join'
-bip_39_word_new_line_4: 'cup
-
-  depend
-
-  join
-
-  half'
-bip_39_word_new_line_5: 'cup
-
-  depend
-
-  join
-
-  half
-
-  behind'
-bip_39_word_new_line_6: 'cup
-
-  depend
-
-  join
-
-  half
-
-  behind
-
-  three'
-bip_39_word_new_line_7: 'cup
-
-  depend
-
-  join
-
-  half
-
-  behind
-
-  three
-
-  quit'
-bip_39_word_new_line_8: 'cup
-
-  depend
-
-  join
-
-  half
-
-  behind
-
-  three
-
-  quit
-
-  tumble'
-bip_39_word_new_line_9: 'cup
-
-  depend
-
-  join
-
-  half
-
-  behind
-
-  three
-
-  quit
-
-  tumble
-
-  eye'
-bip_39_word_no_space_1: cup
-bip_39_word_no_space_10: cupdependjoinhalfbehindthreequittumbleeyebrick
-bip_39_word_no_space_11: cupdependjoinhalfbehindthreequittumbleeyebrickstay
 bip_39_word_no_space_12: cupdependjoinhalfbehindthreequittumbleeyebrickstayaddict
 bip_39_word_no_space_2: cupdepend
 bip_39_word_no_space_3: cupdependjoin
-bip_39_word_no_space_4: cupdependjoinhalf
-bip_39_word_no_space_5: cupdependjoinhalfbehind
-bip_39_word_no_space_6: cupdependjoinhalfbehindthree
-bip_39_word_no_space_7: cupdependjoinhalfbehindthreequit
-bip_39_word_no_space_8: cupdependjoinhalfbehindthreequittumble
-bip_39_word_no_space_9: cupdependjoinhalfbehindthreequittumbleeye
-bip_39_word_space_0:
-- cup
-- depend
-- join
-- half
-- behind
-- three
-- quit
-- tumble
-- eye
-- brick
-- stay
-- addict
-bip_39_word_space_1: cup
-bip_39_word_space_10: cup depend join half behind three quit tumble eye brick
-bip_39_word_space_11: cup depend join half behind three quit tumble eye brick stay
 bip_39_word_space_12: cup depend join half behind three quit tumble eye brick stay
   addict
 bip_39_word_space_2: cup depend
 bip_39_word_space_3: cup depend join
-bip_39_word_space_4: cup depend join half
-bip_39_word_space_5: cup depend join half behind
-bip_39_word_space_6: cup depend join half behind three
-bip_39_word_space_7: cup depend join half behind three quit
-bip_39_word_space_8: cup depend join half behind three quit tumble
-bip_39_word_space_9: cup depend join half behind three quit tumble eye
-bip_39_word_underscore_1: cup
-bip_39_word_underscore_10: cup_depend_join_half_behind_three_quit_tumble_eye_brick
-bip_39_word_underscore_11: cup_depend_join_half_behind_three_quit_tumble_eye_brick_stay
 bip_39_word_underscore_12: cup_depend_join_half_behind_three_quit_tumble_eye_brick_stay_addict
 bip_39_word_underscore_2: cup_depend
 bip_39_word_underscore_3: cup_depend_join
-bip_39_word_underscore_4: cup_depend_join_half
-bip_39_word_underscore_5: cup_depend_join_half_behind
-bip_39_word_underscore_6: cup_depend_join_half_behind_three
-bip_39_word_underscore_7: cup_depend_join_half_behind_three_quit
-bip_39_word_underscore_8: cup_depend_join_half_behind_three_quit_tumble
-bip_39_word_underscore_9: cup_depend_join_half_behind_three_quit_tumble_eye
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: clever
-bip_39_word_dash_10: clever-burger-clown-casual-oil-pill-kitten-clump-razor-flush
-bip_39_word_dash_11: clever-burger-clown-casual-oil-pill-kitten-clump-razor-flush-century
 bip_39_word_dash_12: clever-burger-clown-casual-oil-pill-kitten-clump-razor-flush-century-arctic
 bip_39_word_dash_2: clever-burger
 bip_39_word_dash_3: clever-burger-clown
-bip_39_word_dash_4: clever-burger-clown-casual
-bip_39_word_dash_5: clever-burger-clown-casual-oil
-bip_39_word_dash_6: clever-burger-clown-casual-oil-pill
-bip_39_word_dash_7: clever-burger-clown-casual-oil-pill-kitten
-bip_39_word_dash_8: clever-burger-clown-casual-oil-pill-kitten-clump
-bip_39_word_dash_9: clever-burger-clown-casual-oil-pill-kitten-clump-razor
-bip_39_word_new_br_1: clever
-bip_39_word_new_br_10: clever<br>burger<br>clown<br>casual<br>oil<br>pill<br>kitten<br>clump<br>razor<br>flush
-bip_39_word_new_br_11: clever<br>burger<br>clown<br>casual<br>oil<br>pill<br>kitten<br>clump<br>razor<br>flush<br>century
 bip_39_word_new_br_12: clever<br>burger<br>clown<br>casual<br>oil<br>pill<br>kitten<br>clump<br>razor<br>flush<br>century<br>arctic
 bip_39_word_new_br_2: clever<br>burger
 bip_39_word_new_br_3: clever<br>burger<br>clown
-bip_39_word_new_br_4: clever<br>burger<br>clown<br>casual
-bip_39_word_new_br_5: clever<br>burger<br>clown<br>casual<br>oil
-bip_39_word_new_br_6: clever<br>burger<br>clown<br>casual<br>oil<br>pill
-bip_39_word_new_br_7: clever<br>burger<br>clown<br>casual<br>oil<br>pill<br>kitten
-bip_39_word_new_br_8: clever<br>burger<br>clown<br>casual<br>oil<br>pill<br>kitten<br>clump
-bip_39_word_new_br_9: clever<br>burger<br>clown<br>casual<br>oil<br>pill<br>kitten<br>clump<br>razor
-bip_39_word_new_line_1: clever
-bip_39_word_new_line_10: 'clever
-
-  burger
-
-  clown
-
-  casual
-
-  oil
-
-  pill
-
-  kitten
-
-  clump
-
-  razor
-
-  flush'
-bip_39_word_new_line_11: 'clever
-
-  burger
-
-  clown
-
-  casual
-
-  oil
-
-  pill
-
-  kitten
-
-  clump
-
-  razor
-
-  flush
-
-  century'
 bip_39_word_new_line_12: 'clever
 
   burger
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'clever
   burger
 
   clown'
-bip_39_word_new_line_4: 'clever
-
-  burger
-
-  clown
-
-  casual'
-bip_39_word_new_line_5: 'clever
-
-  burger
-
-  clown
-
-  casual
-
-  oil'
-bip_39_word_new_line_6: 'clever
-
-  burger
-
-  clown
-
-  casual
-
-  oil
-
-  pill'
-bip_39_word_new_line_7: 'clever
-
-  burger
-
-  clown
-
-  casual
-
-  oil
-
-  pill
-
-  kitten'
-bip_39_word_new_line_8: 'clever
-
-  burger
-
-  clown
-
-  casual
-
-  oil
-
-  pill
-
-  kitten
-
-  clump'
-bip_39_word_new_line_9: 'clever
-
-  burger
-
-  clown
-
-  casual
-
-  oil
-
-  pill
-
-  kitten
-
-  clump
-
-  razor'
-bip_39_word_no_space_1: clever
-bip_39_word_no_space_10: cleverburgerclowncasualoilpillkittenclumprazorflush
-bip_39_word_no_space_11: cleverburgerclowncasualoilpillkittenclumprazorflushcentury
 bip_39_word_no_space_12: cleverburgerclowncasualoilpillkittenclumprazorflushcenturyarctic
 bip_39_word_no_space_2: cleverburger
 bip_39_word_no_space_3: cleverburgerclown
-bip_39_word_no_space_4: cleverburgerclowncasual
-bip_39_word_no_space_5: cleverburgerclowncasualoil
-bip_39_word_no_space_6: cleverburgerclowncasualoilpill
-bip_39_word_no_space_7: cleverburgerclowncasualoilpillkitten
-bip_39_word_no_space_8: cleverburgerclowncasualoilpillkittenclump
-bip_39_word_no_space_9: cleverburgerclowncasualoilpillkittenclumprazor
-bip_39_word_space_0:
-- clever
-- burger
-- clown
-- casual
-- oil
-- pill
-- kitten
-- clump
-- razor
-- flush
-- century
-- arctic
-bip_39_word_space_1: clever
-bip_39_word_space_10: clever burger clown casual oil pill kitten clump razor flush
-bip_39_word_space_11: clever burger clown casual oil pill kitten clump razor flush
-  century
 bip_39_word_space_12: clever burger clown casual oil pill kitten clump razor flush
   century arctic
 bip_39_word_space_2: clever burger
 bip_39_word_space_3: clever burger clown
-bip_39_word_space_4: clever burger clown casual
-bip_39_word_space_5: clever burger clown casual oil
-bip_39_word_space_6: clever burger clown casual oil pill
-bip_39_word_space_7: clever burger clown casual oil pill kitten
-bip_39_word_space_8: clever burger clown casual oil pill kitten clump
-bip_39_word_space_9: clever burger clown casual oil pill kitten clump razor
-bip_39_word_underscore_1: clever
-bip_39_word_underscore_10: clever_burger_clown_casual_oil_pill_kitten_clump_razor_flush
-bip_39_word_underscore_11: clever_burger_clown_casual_oil_pill_kitten_clump_razor_flush_century
 bip_39_word_underscore_12: clever_burger_clown_casual_oil_pill_kitten_clump_razor_flush_century_arctic
 bip_39_word_underscore_2: clever_burger
 bip_39_word_underscore_3: clever_burger_clown
-bip_39_word_underscore_4: clever_burger_clown_casual
-bip_39_word_underscore_5: clever_burger_clown_casual_oil
-bip_39_word_underscore_6: clever_burger_clown_casual_oil_pill
-bip_39_word_underscore_7: clever_burger_clown_casual_oil_pill_kitten
-bip_39_word_underscore_8: clever_burger_clown_casual_oil_pill_kitten_clump
-bip_39_word_underscore_9: clever_burger_clown_casual_oil_pill_kitten_clump_razor
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

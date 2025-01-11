@@ -1,68 +1,9 @@
-bip_39_word_dash_1: spawn
-bip_39_word_dash_10: spawn-excess-pulp-system-outside-light-law-sleep-fortune-volume
-bip_39_word_dash_11: spawn-excess-pulp-system-outside-light-law-sleep-fortune-volume-panic
 bip_39_word_dash_12: spawn-excess-pulp-system-outside-light-law-sleep-fortune-volume-panic-acoustic
 bip_39_word_dash_2: spawn-excess
 bip_39_word_dash_3: spawn-excess-pulp
-bip_39_word_dash_4: spawn-excess-pulp-system
-bip_39_word_dash_5: spawn-excess-pulp-system-outside
-bip_39_word_dash_6: spawn-excess-pulp-system-outside-light
-bip_39_word_dash_7: spawn-excess-pulp-system-outside-light-law
-bip_39_word_dash_8: spawn-excess-pulp-system-outside-light-law-sleep
-bip_39_word_dash_9: spawn-excess-pulp-system-outside-light-law-sleep-fortune
-bip_39_word_new_br_1: spawn
-bip_39_word_new_br_10: spawn<br>excess<br>pulp<br>system<br>outside<br>light<br>law<br>sleep<br>fortune<br>volume
-bip_39_word_new_br_11: spawn<br>excess<br>pulp<br>system<br>outside<br>light<br>law<br>sleep<br>fortune<br>volume<br>panic
 bip_39_word_new_br_12: spawn<br>excess<br>pulp<br>system<br>outside<br>light<br>law<br>sleep<br>fortune<br>volume<br>panic<br>acoustic
 bip_39_word_new_br_2: spawn<br>excess
 bip_39_word_new_br_3: spawn<br>excess<br>pulp
-bip_39_word_new_br_4: spawn<br>excess<br>pulp<br>system
-bip_39_word_new_br_5: spawn<br>excess<br>pulp<br>system<br>outside
-bip_39_word_new_br_6: spawn<br>excess<br>pulp<br>system<br>outside<br>light
-bip_39_word_new_br_7: spawn<br>excess<br>pulp<br>system<br>outside<br>light<br>law
-bip_39_word_new_br_8: spawn<br>excess<br>pulp<br>system<br>outside<br>light<br>law<br>sleep
-bip_39_word_new_br_9: spawn<br>excess<br>pulp<br>system<br>outside<br>light<br>law<br>sleep<br>fortune
-bip_39_word_new_line_1: spawn
-bip_39_word_new_line_10: 'spawn
-
-  excess
-
-  pulp
-
-  system
-
-  outside
-
-  light
-
-  law
-
-  sleep
-
-  fortune
-
-  volume'
-bip_39_word_new_line_11: 'spawn
-
-  excess
-
-  pulp
-
-  system
-
-  outside
-
-  light
-
-  law
-
-  sleep
-
-  fortune
-
-  volume
-
-  panic'
 bip_39_word_new_line_12: 'spawn
 
   excess
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'spawn
   excess
 
   pulp'
-bip_39_word_new_line_4: 'spawn
-
-  excess
-
-  pulp
-
-  system'
-bip_39_word_new_line_5: 'spawn
-
-  excess
-
-  pulp
-
-  system
-
-  outside'
-bip_39_word_new_line_6: 'spawn
-
-  excess
-
-  pulp
-
-  system
-
-  outside
-
-  light'
-bip_39_word_new_line_7: 'spawn
-
-  excess
-
-  pulp
-
-  system
-
-  outside
-
-  light
-
-  law'
-bip_39_word_new_line_8: 'spawn
-
-  excess
-
-  pulp
-
-  system
-
-  outside
-
-  light
-
-  law
-
-  sleep'
-bip_39_word_new_line_9: 'spawn
-
-  excess
-
-  pulp
-
-  system
-
-  outside
-
-  light
-
-  law
-
-  sleep
-
-  fortune'
-bip_39_word_no_space_1: spawn
-bip_39_word_no_space_10: spawnexcesspulpsystemoutsidelightlawsleepfortunevolume
-bip_39_word_no_space_11: spawnexcesspulpsystemoutsidelightlawsleepfortunevolumepanic
 bip_39_word_no_space_12: spawnexcesspulpsystemoutsidelightlawsleepfortunevolumepanicacoustic
 bip_39_word_no_space_2: spawnexcess
 bip_39_word_no_space_3: spawnexcesspulp
-bip_39_word_no_space_4: spawnexcesspulpsystem
-bip_39_word_no_space_5: spawnexcesspulpsystemoutside
-bip_39_word_no_space_6: spawnexcesspulpsystemoutsidelight
-bip_39_word_no_space_7: spawnexcesspulpsystemoutsidelightlaw
-bip_39_word_no_space_8: spawnexcesspulpsystemoutsidelightlawsleep
-bip_39_word_no_space_9: spawnexcesspulpsystemoutsidelightlawsleepfortune
-bip_39_word_space_0:
-- spawn
-- excess
-- pulp
-- system
-- outside
-- light
-- law
-- sleep
-- fortune
-- volume
-- panic
-- acoustic
-bip_39_word_space_1: spawn
-bip_39_word_space_10: spawn excess pulp system outside light law sleep fortune volume
-bip_39_word_space_11: spawn excess pulp system outside light law sleep fortune volume
-  panic
 bip_39_word_space_12: spawn excess pulp system outside light law sleep fortune volume
   panic acoustic
 bip_39_word_space_2: spawn excess
 bip_39_word_space_3: spawn excess pulp
-bip_39_word_space_4: spawn excess pulp system
-bip_39_word_space_5: spawn excess pulp system outside
-bip_39_word_space_6: spawn excess pulp system outside light
-bip_39_word_space_7: spawn excess pulp system outside light law
-bip_39_word_space_8: spawn excess pulp system outside light law sleep
-bip_39_word_space_9: spawn excess pulp system outside light law sleep fortune
-bip_39_word_underscore_1: spawn
-bip_39_word_underscore_10: spawn_excess_pulp_system_outside_light_law_sleep_fortune_volume
-bip_39_word_underscore_11: spawn_excess_pulp_system_outside_light_law_sleep_fortune_volume_panic
 bip_39_word_underscore_12: spawn_excess_pulp_system_outside_light_law_sleep_fortune_volume_panic_acoustic
 bip_39_word_underscore_2: spawn_excess
 bip_39_word_underscore_3: spawn_excess_pulp
-bip_39_word_underscore_4: spawn_excess_pulp_system
-bip_39_word_underscore_5: spawn_excess_pulp_system_outside
-bip_39_word_underscore_6: spawn_excess_pulp_system_outside_light
-bip_39_word_underscore_7: spawn_excess_pulp_system_outside_light_law
-bip_39_word_underscore_8: spawn_excess_pulp_system_outside_light_law_sleep
-bip_39_word_underscore_9: spawn_excess_pulp_system_outside_light_law_sleep_fortune
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

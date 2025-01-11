@@ -1,68 +1,9 @@
-bip_39_word_dash_1: equip
-bip_39_word_dash_10: equip-erase-toddler-shiver-spoon-idea-detect-that-number-board
-bip_39_word_dash_11: equip-erase-toddler-shiver-spoon-idea-detect-that-number-board-lend
 bip_39_word_dash_12: equip-erase-toddler-shiver-spoon-idea-detect-that-number-board-lend-ahead
 bip_39_word_dash_2: equip-erase
 bip_39_word_dash_3: equip-erase-toddler
-bip_39_word_dash_4: equip-erase-toddler-shiver
-bip_39_word_dash_5: equip-erase-toddler-shiver-spoon
-bip_39_word_dash_6: equip-erase-toddler-shiver-spoon-idea
-bip_39_word_dash_7: equip-erase-toddler-shiver-spoon-idea-detect
-bip_39_word_dash_8: equip-erase-toddler-shiver-spoon-idea-detect-that
-bip_39_word_dash_9: equip-erase-toddler-shiver-spoon-idea-detect-that-number
-bip_39_word_new_br_1: equip
-bip_39_word_new_br_10: equip<br>erase<br>toddler<br>shiver<br>spoon<br>idea<br>detect<br>that<br>number<br>board
-bip_39_word_new_br_11: equip<br>erase<br>toddler<br>shiver<br>spoon<br>idea<br>detect<br>that<br>number<br>board<br>lend
 bip_39_word_new_br_12: equip<br>erase<br>toddler<br>shiver<br>spoon<br>idea<br>detect<br>that<br>number<br>board<br>lend<br>ahead
 bip_39_word_new_br_2: equip<br>erase
 bip_39_word_new_br_3: equip<br>erase<br>toddler
-bip_39_word_new_br_4: equip<br>erase<br>toddler<br>shiver
-bip_39_word_new_br_5: equip<br>erase<br>toddler<br>shiver<br>spoon
-bip_39_word_new_br_6: equip<br>erase<br>toddler<br>shiver<br>spoon<br>idea
-bip_39_word_new_br_7: equip<br>erase<br>toddler<br>shiver<br>spoon<br>idea<br>detect
-bip_39_word_new_br_8: equip<br>erase<br>toddler<br>shiver<br>spoon<br>idea<br>detect<br>that
-bip_39_word_new_br_9: equip<br>erase<br>toddler<br>shiver<br>spoon<br>idea<br>detect<br>that<br>number
-bip_39_word_new_line_1: equip
-bip_39_word_new_line_10: 'equip
-
-  erase
-
-  toddler
-
-  shiver
-
-  spoon
-
-  idea
-
-  detect
-
-  that
-
-  number
-
-  board'
-bip_39_word_new_line_11: 'equip
-
-  erase
-
-  toddler
-
-  shiver
-
-  spoon
-
-  idea
-
-  detect
-
-  that
-
-  number
-
-  board
-
-  lend'
 bip_39_word_new_line_12: 'equip
 
   erase
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'equip
   erase
 
   toddler'
-bip_39_word_new_line_4: 'equip
-
-  erase
-
-  toddler
-
-  shiver'
-bip_39_word_new_line_5: 'equip
-
-  erase
-
-  toddler
-
-  shiver
-
-  spoon'
-bip_39_word_new_line_6: 'equip
-
-  erase
-
-  toddler
-
-  shiver
-
-  spoon
-
-  idea'
-bip_39_word_new_line_7: 'equip
-
-  erase
-
-  toddler
-
-  shiver
-
-  spoon
-
-  idea
-
-  detect'
-bip_39_word_new_line_8: 'equip
-
-  erase
-
-  toddler
-
-  shiver
-
-  spoon
-
-  idea
-
-  detect
-
-  that'
-bip_39_word_new_line_9: 'equip
-
-  erase
-
-  toddler
-
-  shiver
-
-  spoon
-
-  idea
-
-  detect
-
-  that
-
-  number'
-bip_39_word_no_space_1: equip
-bip_39_word_no_space_10: equiperasetoddlershiverspoonideadetectthatnumberboard
-bip_39_word_no_space_11: equiperasetoddlershiverspoonideadetectthatnumberboardlend
 bip_39_word_no_space_12: equiperasetoddlershiverspoonideadetectthatnumberboardlendahead
 bip_39_word_no_space_2: equiperase
 bip_39_word_no_space_3: equiperasetoddler
-bip_39_word_no_space_4: equiperasetoddlershiver
-bip_39_word_no_space_5: equiperasetoddlershiverspoon
-bip_39_word_no_space_6: equiperasetoddlershiverspoonidea
-bip_39_word_no_space_7: equiperasetoddlershiverspoonideadetect
-bip_39_word_no_space_8: equiperasetoddlershiverspoonideadetectthat
-bip_39_word_no_space_9: equiperasetoddlershiverspoonideadetectthatnumber
-bip_39_word_space_0:
-- equip
-- erase
-- toddler
-- shiver
-- spoon
-- idea
-- detect
-- that
-- number
-- board
-- lend
-- ahead
-bip_39_word_space_1: equip
-bip_39_word_space_10: equip erase toddler shiver spoon idea detect that number board
-bip_39_word_space_11: equip erase toddler shiver spoon idea detect that number board
-  lend
 bip_39_word_space_12: equip erase toddler shiver spoon idea detect that number board
   lend ahead
 bip_39_word_space_2: equip erase
 bip_39_word_space_3: equip erase toddler
-bip_39_word_space_4: equip erase toddler shiver
-bip_39_word_space_5: equip erase toddler shiver spoon
-bip_39_word_space_6: equip erase toddler shiver spoon idea
-bip_39_word_space_7: equip erase toddler shiver spoon idea detect
-bip_39_word_space_8: equip erase toddler shiver spoon idea detect that
-bip_39_word_space_9: equip erase toddler shiver spoon idea detect that number
-bip_39_word_underscore_1: equip
-bip_39_word_underscore_10: equip_erase_toddler_shiver_spoon_idea_detect_that_number_board
-bip_39_word_underscore_11: equip_erase_toddler_shiver_spoon_idea_detect_that_number_board_lend
 bip_39_word_underscore_12: equip_erase_toddler_shiver_spoon_idea_detect_that_number_board_lend_ahead
 bip_39_word_underscore_2: equip_erase
 bip_39_word_underscore_3: equip_erase_toddler
-bip_39_word_underscore_4: equip_erase_toddler_shiver
-bip_39_word_underscore_5: equip_erase_toddler_shiver_spoon
-bip_39_word_underscore_6: equip_erase_toddler_shiver_spoon_idea
-bip_39_word_underscore_7: equip_erase_toddler_shiver_spoon_idea_detect
-bip_39_word_underscore_8: equip_erase_toddler_shiver_spoon_idea_detect_that
-bip_39_word_underscore_9: equip_erase_toddler_shiver_spoon_idea_detect_that_number
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

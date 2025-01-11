@@ -1,68 +1,9 @@
-bip_39_word_dash_1: fox
-bip_39_word_dash_10: fox-dawn-tank-laundry-sudden-coconut-energy-oven-juice-knife
-bip_39_word_dash_11: fox-dawn-tank-laundry-sudden-coconut-energy-oven-juice-knife-call
 bip_39_word_dash_12: fox-dawn-tank-laundry-sudden-coconut-energy-oven-juice-knife-call-animal
 bip_39_word_dash_2: fox-dawn
 bip_39_word_dash_3: fox-dawn-tank
-bip_39_word_dash_4: fox-dawn-tank-laundry
-bip_39_word_dash_5: fox-dawn-tank-laundry-sudden
-bip_39_word_dash_6: fox-dawn-tank-laundry-sudden-coconut
-bip_39_word_dash_7: fox-dawn-tank-laundry-sudden-coconut-energy
-bip_39_word_dash_8: fox-dawn-tank-laundry-sudden-coconut-energy-oven
-bip_39_word_dash_9: fox-dawn-tank-laundry-sudden-coconut-energy-oven-juice
-bip_39_word_new_br_1: fox
-bip_39_word_new_br_10: fox<br>dawn<br>tank<br>laundry<br>sudden<br>coconut<br>energy<br>oven<br>juice<br>knife
-bip_39_word_new_br_11: fox<br>dawn<br>tank<br>laundry<br>sudden<br>coconut<br>energy<br>oven<br>juice<br>knife<br>call
 bip_39_word_new_br_12: fox<br>dawn<br>tank<br>laundry<br>sudden<br>coconut<br>energy<br>oven<br>juice<br>knife<br>call<br>animal
 bip_39_word_new_br_2: fox<br>dawn
 bip_39_word_new_br_3: fox<br>dawn<br>tank
-bip_39_word_new_br_4: fox<br>dawn<br>tank<br>laundry
-bip_39_word_new_br_5: fox<br>dawn<br>tank<br>laundry<br>sudden
-bip_39_word_new_br_6: fox<br>dawn<br>tank<br>laundry<br>sudden<br>coconut
-bip_39_word_new_br_7: fox<br>dawn<br>tank<br>laundry<br>sudden<br>coconut<br>energy
-bip_39_word_new_br_8: fox<br>dawn<br>tank<br>laundry<br>sudden<br>coconut<br>energy<br>oven
-bip_39_word_new_br_9: fox<br>dawn<br>tank<br>laundry<br>sudden<br>coconut<br>energy<br>oven<br>juice
-bip_39_word_new_line_1: fox
-bip_39_word_new_line_10: 'fox
-
-  dawn
-
-  tank
-
-  laundry
-
-  sudden
-
-  coconut
-
-  energy
-
-  oven
-
-  juice
-
-  knife'
-bip_39_word_new_line_11: 'fox
-
-  dawn
-
-  tank
-
-  laundry
-
-  sudden
-
-  coconut
-
-  energy
-
-  oven
-
-  juice
-
-  knife
-
-  call'
 bip_39_word_new_line_12: 'fox
 
   dawn
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'fox
   dawn
 
   tank'
-bip_39_word_new_line_4: 'fox
-
-  dawn
-
-  tank
-
-  laundry'
-bip_39_word_new_line_5: 'fox
-
-  dawn
-
-  tank
-
-  laundry
-
-  sudden'
-bip_39_word_new_line_6: 'fox
-
-  dawn
-
-  tank
-
-  laundry
-
-  sudden
-
-  coconut'
-bip_39_word_new_line_7: 'fox
-
-  dawn
-
-  tank
-
-  laundry
-
-  sudden
-
-  coconut
-
-  energy'
-bip_39_word_new_line_8: 'fox
-
-  dawn
-
-  tank
-
-  laundry
-
-  sudden
-
-  coconut
-
-  energy
-
-  oven'
-bip_39_word_new_line_9: 'fox
-
-  dawn
-
-  tank
-
-  laundry
-
-  sudden
-
-  coconut
-
-  energy
-
-  oven
-
-  juice'
-bip_39_word_no_space_1: fox
-bip_39_word_no_space_10: foxdawntanklaundrysuddencoconutenergyovenjuiceknife
-bip_39_word_no_space_11: foxdawntanklaundrysuddencoconutenergyovenjuiceknifecall
 bip_39_word_no_space_12: foxdawntanklaundrysuddencoconutenergyovenjuiceknifecallanimal
 bip_39_word_no_space_2: foxdawn
 bip_39_word_no_space_3: foxdawntank
-bip_39_word_no_space_4: foxdawntanklaundry
-bip_39_word_no_space_5: foxdawntanklaundrysudden
-bip_39_word_no_space_6: foxdawntanklaundrysuddencoconut
-bip_39_word_no_space_7: foxdawntanklaundrysuddencoconutenergy
-bip_39_word_no_space_8: foxdawntanklaundrysuddencoconutenergyoven
-bip_39_word_no_space_9: foxdawntanklaundrysuddencoconutenergyovenjuice
-bip_39_word_space_0:
-- fox
-- dawn
-- tank
-- laundry
-- sudden
-- coconut
-- energy
-- oven
-- juice
-- knife
-- call
-- animal
-bip_39_word_space_1: fox
-bip_39_word_space_10: fox dawn tank laundry sudden coconut energy oven juice knife
-bip_39_word_space_11: fox dawn tank laundry sudden coconut energy oven juice knife
-  call
 bip_39_word_space_12: fox dawn tank laundry sudden coconut energy oven juice knife
   call animal
 bip_39_word_space_2: fox dawn
 bip_39_word_space_3: fox dawn tank
-bip_39_word_space_4: fox dawn tank laundry
-bip_39_word_space_5: fox dawn tank laundry sudden
-bip_39_word_space_6: fox dawn tank laundry sudden coconut
-bip_39_word_space_7: fox dawn tank laundry sudden coconut energy
-bip_39_word_space_8: fox dawn tank laundry sudden coconut energy oven
-bip_39_word_space_9: fox dawn tank laundry sudden coconut energy oven juice
-bip_39_word_underscore_1: fox
-bip_39_word_underscore_10: fox_dawn_tank_laundry_sudden_coconut_energy_oven_juice_knife
-bip_39_word_underscore_11: fox_dawn_tank_laundry_sudden_coconut_energy_oven_juice_knife_call
 bip_39_word_underscore_12: fox_dawn_tank_laundry_sudden_coconut_energy_oven_juice_knife_call_animal
 bip_39_word_underscore_2: fox_dawn
 bip_39_word_underscore_3: fox_dawn_tank
-bip_39_word_underscore_4: fox_dawn_tank_laundry
-bip_39_word_underscore_5: fox_dawn_tank_laundry_sudden
-bip_39_word_underscore_6: fox_dawn_tank_laundry_sudden_coconut
-bip_39_word_underscore_7: fox_dawn_tank_laundry_sudden_coconut_energy
-bip_39_word_underscore_8: fox_dawn_tank_laundry_sudden_coconut_energy_oven
-bip_39_word_underscore_9: fox_dawn_tank_laundry_sudden_coconut_energy_oven_juice
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: tiger
-bip_39_word_dash_10: tiger-budget-urban-chronic-cactus-claim-episode-legend-leader-guard
-bip_39_word_dash_11: tiger-budget-urban-chronic-cactus-claim-episode-legend-leader-guard-flavor
 bip_39_word_dash_12: tiger-budget-urban-chronic-cactus-claim-episode-legend-leader-guard-flavor-ahead
 bip_39_word_dash_2: tiger-budget
 bip_39_word_dash_3: tiger-budget-urban
-bip_39_word_dash_4: tiger-budget-urban-chronic
-bip_39_word_dash_5: tiger-budget-urban-chronic-cactus
-bip_39_word_dash_6: tiger-budget-urban-chronic-cactus-claim
-bip_39_word_dash_7: tiger-budget-urban-chronic-cactus-claim-episode
-bip_39_word_dash_8: tiger-budget-urban-chronic-cactus-claim-episode-legend
-bip_39_word_dash_9: tiger-budget-urban-chronic-cactus-claim-episode-legend-leader
-bip_39_word_new_br_1: tiger
-bip_39_word_new_br_10: tiger<br>budget<br>urban<br>chronic<br>cactus<br>claim<br>episode<br>legend<br>leader<br>guard
-bip_39_word_new_br_11: tiger<br>budget<br>urban<br>chronic<br>cactus<br>claim<br>episode<br>legend<br>leader<br>guard<br>flavor
 bip_39_word_new_br_12: tiger<br>budget<br>urban<br>chronic<br>cactus<br>claim<br>episode<br>legend<br>leader<br>guard<br>flavor<br>ahead
 bip_39_word_new_br_2: tiger<br>budget
 bip_39_word_new_br_3: tiger<br>budget<br>urban
-bip_39_word_new_br_4: tiger<br>budget<br>urban<br>chronic
-bip_39_word_new_br_5: tiger<br>budget<br>urban<br>chronic<br>cactus
-bip_39_word_new_br_6: tiger<br>budget<br>urban<br>chronic<br>cactus<br>claim
-bip_39_word_new_br_7: tiger<br>budget<br>urban<br>chronic<br>cactus<br>claim<br>episode
-bip_39_word_new_br_8: tiger<br>budget<br>urban<br>chronic<br>cactus<br>claim<br>episode<br>legend
-bip_39_word_new_br_9: tiger<br>budget<br>urban<br>chronic<br>cactus<br>claim<br>episode<br>legend<br>leader
-bip_39_word_new_line_1: tiger
-bip_39_word_new_line_10: 'tiger
-
-  budget
-
-  urban
-
-  chronic
-
-  cactus
-
-  claim
-
-  episode
-
-  legend
-
-  leader
-
-  guard'
-bip_39_word_new_line_11: 'tiger
-
-  budget
-
-  urban
-
-  chronic
-
-  cactus
-
-  claim
-
-  episode
-
-  legend
-
-  leader
-
-  guard
-
-  flavor'
 bip_39_word_new_line_12: 'tiger
 
   budget
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'tiger
   budget
 
   urban'
-bip_39_word_new_line_4: 'tiger
-
-  budget
-
-  urban
-
-  chronic'
-bip_39_word_new_line_5: 'tiger
-
-  budget
-
-  urban
-
-  chronic
-
-  cactus'
-bip_39_word_new_line_6: 'tiger
-
-  budget
-
-  urban
-
-  chronic
-
-  cactus
-
-  claim'
-bip_39_word_new_line_7: 'tiger
-
-  budget
-
-  urban
-
-  chronic
-
-  cactus
-
-  claim
-
-  episode'
-bip_39_word_new_line_8: 'tiger
-
-  budget
-
-  urban
-
-  chronic
-
-  cactus
-
-  claim
-
-  episode
-
-  legend'
-bip_39_word_new_line_9: 'tiger
-
-  budget
-
-  urban
-
-  chronic
-
-  cactus
-
-  claim
-
-  episode
-
-  legend
-
-  leader'
-bip_39_word_no_space_1: tiger
-bip_39_word_no_space_10: tigerbudgeturbanchroniccactusclaimepisodelegendleaderguard
-bip_39_word_no_space_11: tigerbudgeturbanchroniccactusclaimepisodelegendleaderguardflavor
 bip_39_word_no_space_12: tigerbudgeturbanchroniccactusclaimepisodelegendleaderguardflavorahead
 bip_39_word_no_space_2: tigerbudget
 bip_39_word_no_space_3: tigerbudgeturban
-bip_39_word_no_space_4: tigerbudgeturbanchronic
-bip_39_word_no_space_5: tigerbudgeturbanchroniccactus
-bip_39_word_no_space_6: tigerbudgeturbanchroniccactusclaim
-bip_39_word_no_space_7: tigerbudgeturbanchroniccactusclaimepisode
-bip_39_word_no_space_8: tigerbudgeturbanchroniccactusclaimepisodelegend
-bip_39_word_no_space_9: tigerbudgeturbanchroniccactusclaimepisodelegendleader
-bip_39_word_space_0:
-- tiger
-- budget
-- urban
-- chronic
-- cactus
-- claim
-- episode
-- legend
-- leader
-- guard
-- flavor
-- ahead
-bip_39_word_space_1: tiger
-bip_39_word_space_10: tiger budget urban chronic cactus claim episode legend leader
-  guard
-bip_39_word_space_11: tiger budget urban chronic cactus claim episode legend leader
-  guard flavor
 bip_39_word_space_12: tiger budget urban chronic cactus claim episode legend leader
   guard flavor ahead
 bip_39_word_space_2: tiger budget
 bip_39_word_space_3: tiger budget urban
-bip_39_word_space_4: tiger budget urban chronic
-bip_39_word_space_5: tiger budget urban chronic cactus
-bip_39_word_space_6: tiger budget urban chronic cactus claim
-bip_39_word_space_7: tiger budget urban chronic cactus claim episode
-bip_39_word_space_8: tiger budget urban chronic cactus claim episode legend
-bip_39_word_space_9: tiger budget urban chronic cactus claim episode legend leader
-bip_39_word_underscore_1: tiger
-bip_39_word_underscore_10: tiger_budget_urban_chronic_cactus_claim_episode_legend_leader_guard
-bip_39_word_underscore_11: tiger_budget_urban_chronic_cactus_claim_episode_legend_leader_guard_flavor
 bip_39_word_underscore_12: tiger_budget_urban_chronic_cactus_claim_episode_legend_leader_guard_flavor_ahead
 bip_39_word_underscore_2: tiger_budget
 bip_39_word_underscore_3: tiger_budget_urban
-bip_39_word_underscore_4: tiger_budget_urban_chronic
-bip_39_word_underscore_5: tiger_budget_urban_chronic_cactus
-bip_39_word_underscore_6: tiger_budget_urban_chronic_cactus_claim
-bip_39_word_underscore_7: tiger_budget_urban_chronic_cactus_claim_episode
-bip_39_word_underscore_8: tiger_budget_urban_chronic_cactus_claim_episode_legend
-bip_39_word_underscore_9: tiger_budget_urban_chronic_cactus_claim_episode_legend_leader
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

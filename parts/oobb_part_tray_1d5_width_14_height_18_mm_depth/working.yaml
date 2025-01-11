@@ -1,68 +1,9 @@
-bip_39_word_dash_1: puppy
-bip_39_word_dash_10: puppy-lucky-envelope-sniff-device-piano-pilot-bid-critic-image
-bip_39_word_dash_11: puppy-lucky-envelope-sniff-device-piano-pilot-bid-critic-image-obscure
 bip_39_word_dash_12: puppy-lucky-envelope-sniff-device-piano-pilot-bid-critic-image-obscure-auction
 bip_39_word_dash_2: puppy-lucky
 bip_39_word_dash_3: puppy-lucky-envelope
-bip_39_word_dash_4: puppy-lucky-envelope-sniff
-bip_39_word_dash_5: puppy-lucky-envelope-sniff-device
-bip_39_word_dash_6: puppy-lucky-envelope-sniff-device-piano
-bip_39_word_dash_7: puppy-lucky-envelope-sniff-device-piano-pilot
-bip_39_word_dash_8: puppy-lucky-envelope-sniff-device-piano-pilot-bid
-bip_39_word_dash_9: puppy-lucky-envelope-sniff-device-piano-pilot-bid-critic
-bip_39_word_new_br_1: puppy
-bip_39_word_new_br_10: puppy<br>lucky<br>envelope<br>sniff<br>device<br>piano<br>pilot<br>bid<br>critic<br>image
-bip_39_word_new_br_11: puppy<br>lucky<br>envelope<br>sniff<br>device<br>piano<br>pilot<br>bid<br>critic<br>image<br>obscure
 bip_39_word_new_br_12: puppy<br>lucky<br>envelope<br>sniff<br>device<br>piano<br>pilot<br>bid<br>critic<br>image<br>obscure<br>auction
 bip_39_word_new_br_2: puppy<br>lucky
 bip_39_word_new_br_3: puppy<br>lucky<br>envelope
-bip_39_word_new_br_4: puppy<br>lucky<br>envelope<br>sniff
-bip_39_word_new_br_5: puppy<br>lucky<br>envelope<br>sniff<br>device
-bip_39_word_new_br_6: puppy<br>lucky<br>envelope<br>sniff<br>device<br>piano
-bip_39_word_new_br_7: puppy<br>lucky<br>envelope<br>sniff<br>device<br>piano<br>pilot
-bip_39_word_new_br_8: puppy<br>lucky<br>envelope<br>sniff<br>device<br>piano<br>pilot<br>bid
-bip_39_word_new_br_9: puppy<br>lucky<br>envelope<br>sniff<br>device<br>piano<br>pilot<br>bid<br>critic
-bip_39_word_new_line_1: puppy
-bip_39_word_new_line_10: 'puppy
-
-  lucky
-
-  envelope
-
-  sniff
-
-  device
-
-  piano
-
-  pilot
-
-  bid
-
-  critic
-
-  image'
-bip_39_word_new_line_11: 'puppy
-
-  lucky
-
-  envelope
-
-  sniff
-
-  device
-
-  piano
-
-  pilot
-
-  bid
-
-  critic
-
-  image
-
-  obscure'
 bip_39_word_new_line_12: 'puppy
 
   lucky
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'puppy
   lucky
 
   envelope'
-bip_39_word_new_line_4: 'puppy
-
-  lucky
-
-  envelope
-
-  sniff'
-bip_39_word_new_line_5: 'puppy
-
-  lucky
-
-  envelope
-
-  sniff
-
-  device'
-bip_39_word_new_line_6: 'puppy
-
-  lucky
-
-  envelope
-
-  sniff
-
-  device
-
-  piano'
-bip_39_word_new_line_7: 'puppy
-
-  lucky
-
-  envelope
-
-  sniff
-
-  device
-
-  piano
-
-  pilot'
-bip_39_word_new_line_8: 'puppy
-
-  lucky
-
-  envelope
-
-  sniff
-
-  device
-
-  piano
-
-  pilot
-
-  bid'
-bip_39_word_new_line_9: 'puppy
-
-  lucky
-
-  envelope
-
-  sniff
-
-  device
-
-  piano
-
-  pilot
-
-  bid
-
-  critic'
-bip_39_word_no_space_1: puppy
-bip_39_word_no_space_10: puppyluckyenvelopesniffdevicepianopilotbidcriticimage
-bip_39_word_no_space_11: puppyluckyenvelopesniffdevicepianopilotbidcriticimageobscure
 bip_39_word_no_space_12: puppyluckyenvelopesniffdevicepianopilotbidcriticimageobscureauction
 bip_39_word_no_space_2: puppylucky
 bip_39_word_no_space_3: puppyluckyenvelope
-bip_39_word_no_space_4: puppyluckyenvelopesniff
-bip_39_word_no_space_5: puppyluckyenvelopesniffdevice
-bip_39_word_no_space_6: puppyluckyenvelopesniffdevicepiano
-bip_39_word_no_space_7: puppyluckyenvelopesniffdevicepianopilot
-bip_39_word_no_space_8: puppyluckyenvelopesniffdevicepianopilotbid
-bip_39_word_no_space_9: puppyluckyenvelopesniffdevicepianopilotbidcritic
-bip_39_word_space_0:
-- puppy
-- lucky
-- envelope
-- sniff
-- device
-- piano
-- pilot
-- bid
-- critic
-- image
-- obscure
-- auction
-bip_39_word_space_1: puppy
-bip_39_word_space_10: puppy lucky envelope sniff device piano pilot bid critic image
-bip_39_word_space_11: puppy lucky envelope sniff device piano pilot bid critic image
-  obscure
 bip_39_word_space_12: puppy lucky envelope sniff device piano pilot bid critic image
   obscure auction
 bip_39_word_space_2: puppy lucky
 bip_39_word_space_3: puppy lucky envelope
-bip_39_word_space_4: puppy lucky envelope sniff
-bip_39_word_space_5: puppy lucky envelope sniff device
-bip_39_word_space_6: puppy lucky envelope sniff device piano
-bip_39_word_space_7: puppy lucky envelope sniff device piano pilot
-bip_39_word_space_8: puppy lucky envelope sniff device piano pilot bid
-bip_39_word_space_9: puppy lucky envelope sniff device piano pilot bid critic
-bip_39_word_underscore_1: puppy
-bip_39_word_underscore_10: puppy_lucky_envelope_sniff_device_piano_pilot_bid_critic_image
-bip_39_word_underscore_11: puppy_lucky_envelope_sniff_device_piano_pilot_bid_critic_image_obscure
 bip_39_word_underscore_12: puppy_lucky_envelope_sniff_device_piano_pilot_bid_critic_image_obscure_auction
 bip_39_word_underscore_2: puppy_lucky
 bip_39_word_underscore_3: puppy_lucky_envelope
-bip_39_word_underscore_4: puppy_lucky_envelope_sniff
-bip_39_word_underscore_5: puppy_lucky_envelope_sniff_device
-bip_39_word_underscore_6: puppy_lucky_envelope_sniff_device_piano
-bip_39_word_underscore_7: puppy_lucky_envelope_sniff_device_piano_pilot
-bip_39_word_underscore_8: puppy_lucky_envelope_sniff_device_piano_pilot_bid
-bip_39_word_underscore_9: puppy_lucky_envelope_sniff_device_piano_pilot_bid_critic
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

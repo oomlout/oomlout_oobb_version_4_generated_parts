@@ -1,68 +1,9 @@
-bip_39_word_dash_1: tuna
-bip_39_word_dash_10: tuna-rocket-ladder-loud-library-supply-color-sister-trust-shed
-bip_39_word_dash_11: tuna-rocket-ladder-loud-library-supply-color-sister-trust-shed-recall
 bip_39_word_dash_12: tuna-rocket-ladder-loud-library-supply-color-sister-trust-shed-recall-amount
 bip_39_word_dash_2: tuna-rocket
 bip_39_word_dash_3: tuna-rocket-ladder
-bip_39_word_dash_4: tuna-rocket-ladder-loud
-bip_39_word_dash_5: tuna-rocket-ladder-loud-library
-bip_39_word_dash_6: tuna-rocket-ladder-loud-library-supply
-bip_39_word_dash_7: tuna-rocket-ladder-loud-library-supply-color
-bip_39_word_dash_8: tuna-rocket-ladder-loud-library-supply-color-sister
-bip_39_word_dash_9: tuna-rocket-ladder-loud-library-supply-color-sister-trust
-bip_39_word_new_br_1: tuna
-bip_39_word_new_br_10: tuna<br>rocket<br>ladder<br>loud<br>library<br>supply<br>color<br>sister<br>trust<br>shed
-bip_39_word_new_br_11: tuna<br>rocket<br>ladder<br>loud<br>library<br>supply<br>color<br>sister<br>trust<br>shed<br>recall
 bip_39_word_new_br_12: tuna<br>rocket<br>ladder<br>loud<br>library<br>supply<br>color<br>sister<br>trust<br>shed<br>recall<br>amount
 bip_39_word_new_br_2: tuna<br>rocket
 bip_39_word_new_br_3: tuna<br>rocket<br>ladder
-bip_39_word_new_br_4: tuna<br>rocket<br>ladder<br>loud
-bip_39_word_new_br_5: tuna<br>rocket<br>ladder<br>loud<br>library
-bip_39_word_new_br_6: tuna<br>rocket<br>ladder<br>loud<br>library<br>supply
-bip_39_word_new_br_7: tuna<br>rocket<br>ladder<br>loud<br>library<br>supply<br>color
-bip_39_word_new_br_8: tuna<br>rocket<br>ladder<br>loud<br>library<br>supply<br>color<br>sister
-bip_39_word_new_br_9: tuna<br>rocket<br>ladder<br>loud<br>library<br>supply<br>color<br>sister<br>trust
-bip_39_word_new_line_1: tuna
-bip_39_word_new_line_10: 'tuna
-
-  rocket
-
-  ladder
-
-  loud
-
-  library
-
-  supply
-
-  color
-
-  sister
-
-  trust
-
-  shed'
-bip_39_word_new_line_11: 'tuna
-
-  rocket
-
-  ladder
-
-  loud
-
-  library
-
-  supply
-
-  color
-
-  sister
-
-  trust
-
-  shed
-
-  recall'
 bip_39_word_new_line_12: 'tuna
 
   rocket
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'tuna
   rocket
 
   ladder'
-bip_39_word_new_line_4: 'tuna
-
-  rocket
-
-  ladder
-
-  loud'
-bip_39_word_new_line_5: 'tuna
-
-  rocket
-
-  ladder
-
-  loud
-
-  library'
-bip_39_word_new_line_6: 'tuna
-
-  rocket
-
-  ladder
-
-  loud
-
-  library
-
-  supply'
-bip_39_word_new_line_7: 'tuna
-
-  rocket
-
-  ladder
-
-  loud
-
-  library
-
-  supply
-
-  color'
-bip_39_word_new_line_8: 'tuna
-
-  rocket
-
-  ladder
-
-  loud
-
-  library
-
-  supply
-
-  color
-
-  sister'
-bip_39_word_new_line_9: 'tuna
-
-  rocket
-
-  ladder
-
-  loud
-
-  library
-
-  supply
-
-  color
-
-  sister
-
-  trust'
-bip_39_word_no_space_1: tuna
-bip_39_word_no_space_10: tunarocketladderloudlibrarysupplycolorsistertrustshed
-bip_39_word_no_space_11: tunarocketladderloudlibrarysupplycolorsistertrustshedrecall
 bip_39_word_no_space_12: tunarocketladderloudlibrarysupplycolorsistertrustshedrecallamount
 bip_39_word_no_space_2: tunarocket
 bip_39_word_no_space_3: tunarocketladder
-bip_39_word_no_space_4: tunarocketladderloud
-bip_39_word_no_space_5: tunarocketladderloudlibrary
-bip_39_word_no_space_6: tunarocketladderloudlibrarysupply
-bip_39_word_no_space_7: tunarocketladderloudlibrarysupplycolor
-bip_39_word_no_space_8: tunarocketladderloudlibrarysupplycolorsister
-bip_39_word_no_space_9: tunarocketladderloudlibrarysupplycolorsistertrust
-bip_39_word_space_0:
-- tuna
-- rocket
-- ladder
-- loud
-- library
-- supply
-- color
-- sister
-- trust
-- shed
-- recall
-- amount
-bip_39_word_space_1: tuna
-bip_39_word_space_10: tuna rocket ladder loud library supply color sister trust shed
-bip_39_word_space_11: tuna rocket ladder loud library supply color sister trust shed
-  recall
 bip_39_word_space_12: tuna rocket ladder loud library supply color sister trust shed
   recall amount
 bip_39_word_space_2: tuna rocket
 bip_39_word_space_3: tuna rocket ladder
-bip_39_word_space_4: tuna rocket ladder loud
-bip_39_word_space_5: tuna rocket ladder loud library
-bip_39_word_space_6: tuna rocket ladder loud library supply
-bip_39_word_space_7: tuna rocket ladder loud library supply color
-bip_39_word_space_8: tuna rocket ladder loud library supply color sister
-bip_39_word_space_9: tuna rocket ladder loud library supply color sister trust
-bip_39_word_underscore_1: tuna
-bip_39_word_underscore_10: tuna_rocket_ladder_loud_library_supply_color_sister_trust_shed
-bip_39_word_underscore_11: tuna_rocket_ladder_loud_library_supply_color_sister_trust_shed_recall
 bip_39_word_underscore_12: tuna_rocket_ladder_loud_library_supply_color_sister_trust_shed_recall_amount
 bip_39_word_underscore_2: tuna_rocket
 bip_39_word_underscore_3: tuna_rocket_ladder
-bip_39_word_underscore_4: tuna_rocket_ladder_loud
-bip_39_word_underscore_5: tuna_rocket_ladder_loud_library
-bip_39_word_underscore_6: tuna_rocket_ladder_loud_library_supply
-bip_39_word_underscore_7: tuna_rocket_ladder_loud_library_supply_color
-bip_39_word_underscore_8: tuna_rocket_ladder_loud_library_supply_color_sister
-bip_39_word_underscore_9: tuna_rocket_ladder_loud_library_supply_color_sister_trust
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

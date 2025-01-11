@@ -1,68 +1,9 @@
-bip_39_word_dash_1: enforce
-bip_39_word_dash_10: enforce-seek-property-reason-eight-parrot-congress-caution-announce-pluck
-bip_39_word_dash_11: enforce-seek-property-reason-eight-parrot-congress-caution-announce-pluck-broom
 bip_39_word_dash_12: enforce-seek-property-reason-eight-parrot-congress-caution-announce-pluck-broom-artist
 bip_39_word_dash_2: enforce-seek
 bip_39_word_dash_3: enforce-seek-property
-bip_39_word_dash_4: enforce-seek-property-reason
-bip_39_word_dash_5: enforce-seek-property-reason-eight
-bip_39_word_dash_6: enforce-seek-property-reason-eight-parrot
-bip_39_word_dash_7: enforce-seek-property-reason-eight-parrot-congress
-bip_39_word_dash_8: enforce-seek-property-reason-eight-parrot-congress-caution
-bip_39_word_dash_9: enforce-seek-property-reason-eight-parrot-congress-caution-announce
-bip_39_word_new_br_1: enforce
-bip_39_word_new_br_10: enforce<br>seek<br>property<br>reason<br>eight<br>parrot<br>congress<br>caution<br>announce<br>pluck
-bip_39_word_new_br_11: enforce<br>seek<br>property<br>reason<br>eight<br>parrot<br>congress<br>caution<br>announce<br>pluck<br>broom
 bip_39_word_new_br_12: enforce<br>seek<br>property<br>reason<br>eight<br>parrot<br>congress<br>caution<br>announce<br>pluck<br>broom<br>artist
 bip_39_word_new_br_2: enforce<br>seek
 bip_39_word_new_br_3: enforce<br>seek<br>property
-bip_39_word_new_br_4: enforce<br>seek<br>property<br>reason
-bip_39_word_new_br_5: enforce<br>seek<br>property<br>reason<br>eight
-bip_39_word_new_br_6: enforce<br>seek<br>property<br>reason<br>eight<br>parrot
-bip_39_word_new_br_7: enforce<br>seek<br>property<br>reason<br>eight<br>parrot<br>congress
-bip_39_word_new_br_8: enforce<br>seek<br>property<br>reason<br>eight<br>parrot<br>congress<br>caution
-bip_39_word_new_br_9: enforce<br>seek<br>property<br>reason<br>eight<br>parrot<br>congress<br>caution<br>announce
-bip_39_word_new_line_1: enforce
-bip_39_word_new_line_10: 'enforce
-
-  seek
-
-  property
-
-  reason
-
-  eight
-
-  parrot
-
-  congress
-
-  caution
-
-  announce
-
-  pluck'
-bip_39_word_new_line_11: 'enforce
-
-  seek
-
-  property
-
-  reason
-
-  eight
-
-  parrot
-
-  congress
-
-  caution
-
-  announce
-
-  pluck
-
-  broom'
 bip_39_word_new_line_12: 'enforce
 
   seek
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'enforce
   seek
 
   property'
-bip_39_word_new_line_4: 'enforce
-
-  seek
-
-  property
-
-  reason'
-bip_39_word_new_line_5: 'enforce
-
-  seek
-
-  property
-
-  reason
-
-  eight'
-bip_39_word_new_line_6: 'enforce
-
-  seek
-
-  property
-
-  reason
-
-  eight
-
-  parrot'
-bip_39_word_new_line_7: 'enforce
-
-  seek
-
-  property
-
-  reason
-
-  eight
-
-  parrot
-
-  congress'
-bip_39_word_new_line_8: 'enforce
-
-  seek
-
-  property
-
-  reason
-
-  eight
-
-  parrot
-
-  congress
-
-  caution'
-bip_39_word_new_line_9: 'enforce
-
-  seek
-
-  property
-
-  reason
-
-  eight
-
-  parrot
-
-  congress
-
-  caution
-
-  announce'
-bip_39_word_no_space_1: enforce
-bip_39_word_no_space_10: enforceseekpropertyreasoneightparrotcongresscautionannouncepluck
-bip_39_word_no_space_11: enforceseekpropertyreasoneightparrotcongresscautionannouncepluckbroom
 bip_39_word_no_space_12: enforceseekpropertyreasoneightparrotcongresscautionannouncepluckbroomartist
 bip_39_word_no_space_2: enforceseek
 bip_39_word_no_space_3: enforceseekproperty
-bip_39_word_no_space_4: enforceseekpropertyreason
-bip_39_word_no_space_5: enforceseekpropertyreasoneight
-bip_39_word_no_space_6: enforceseekpropertyreasoneightparrot
-bip_39_word_no_space_7: enforceseekpropertyreasoneightparrotcongress
-bip_39_word_no_space_8: enforceseekpropertyreasoneightparrotcongresscaution
-bip_39_word_no_space_9: enforceseekpropertyreasoneightparrotcongresscautionannounce
-bip_39_word_space_0:
-- enforce
-- seek
-- property
-- reason
-- eight
-- parrot
-- congress
-- caution
-- announce
-- pluck
-- broom
-- artist
-bip_39_word_space_1: enforce
-bip_39_word_space_10: enforce seek property reason eight parrot congress caution announce
-  pluck
-bip_39_word_space_11: enforce seek property reason eight parrot congress caution announce
-  pluck broom
 bip_39_word_space_12: enforce seek property reason eight parrot congress caution announce
   pluck broom artist
 bip_39_word_space_2: enforce seek
 bip_39_word_space_3: enforce seek property
-bip_39_word_space_4: enforce seek property reason
-bip_39_word_space_5: enforce seek property reason eight
-bip_39_word_space_6: enforce seek property reason eight parrot
-bip_39_word_space_7: enforce seek property reason eight parrot congress
-bip_39_word_space_8: enforce seek property reason eight parrot congress caution
-bip_39_word_space_9: enforce seek property reason eight parrot congress caution announce
-bip_39_word_underscore_1: enforce
-bip_39_word_underscore_10: enforce_seek_property_reason_eight_parrot_congress_caution_announce_pluck
-bip_39_word_underscore_11: enforce_seek_property_reason_eight_parrot_congress_caution_announce_pluck_broom
 bip_39_word_underscore_12: enforce_seek_property_reason_eight_parrot_congress_caution_announce_pluck_broom_artist
 bip_39_word_underscore_2: enforce_seek
 bip_39_word_underscore_3: enforce_seek_property
-bip_39_word_underscore_4: enforce_seek_property_reason
-bip_39_word_underscore_5: enforce_seek_property_reason_eight
-bip_39_word_underscore_6: enforce_seek_property_reason_eight_parrot
-bip_39_word_underscore_7: enforce_seek_property_reason_eight_parrot_congress
-bip_39_word_underscore_8: enforce_seek_property_reason_eight_parrot_congress_caution
-bip_39_word_underscore_9: enforce_seek_property_reason_eight_parrot_congress_caution_announce
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: hedgehog
-bip_39_word_dash_10: hedgehog-dust-basket-mutual-abandon-concert-rose-vacuum-file-guess
-bip_39_word_dash_11: hedgehog-dust-basket-mutual-abandon-concert-rose-vacuum-file-guess-excite
 bip_39_word_dash_12: hedgehog-dust-basket-mutual-abandon-concert-rose-vacuum-file-guess-excite-armor
 bip_39_word_dash_2: hedgehog-dust
 bip_39_word_dash_3: hedgehog-dust-basket
-bip_39_word_dash_4: hedgehog-dust-basket-mutual
-bip_39_word_dash_5: hedgehog-dust-basket-mutual-abandon
-bip_39_word_dash_6: hedgehog-dust-basket-mutual-abandon-concert
-bip_39_word_dash_7: hedgehog-dust-basket-mutual-abandon-concert-rose
-bip_39_word_dash_8: hedgehog-dust-basket-mutual-abandon-concert-rose-vacuum
-bip_39_word_dash_9: hedgehog-dust-basket-mutual-abandon-concert-rose-vacuum-file
-bip_39_word_new_br_1: hedgehog
-bip_39_word_new_br_10: hedgehog<br>dust<br>basket<br>mutual<br>abandon<br>concert<br>rose<br>vacuum<br>file<br>guess
-bip_39_word_new_br_11: hedgehog<br>dust<br>basket<br>mutual<br>abandon<br>concert<br>rose<br>vacuum<br>file<br>guess<br>excite
 bip_39_word_new_br_12: hedgehog<br>dust<br>basket<br>mutual<br>abandon<br>concert<br>rose<br>vacuum<br>file<br>guess<br>excite<br>armor
 bip_39_word_new_br_2: hedgehog<br>dust
 bip_39_word_new_br_3: hedgehog<br>dust<br>basket
-bip_39_word_new_br_4: hedgehog<br>dust<br>basket<br>mutual
-bip_39_word_new_br_5: hedgehog<br>dust<br>basket<br>mutual<br>abandon
-bip_39_word_new_br_6: hedgehog<br>dust<br>basket<br>mutual<br>abandon<br>concert
-bip_39_word_new_br_7: hedgehog<br>dust<br>basket<br>mutual<br>abandon<br>concert<br>rose
-bip_39_word_new_br_8: hedgehog<br>dust<br>basket<br>mutual<br>abandon<br>concert<br>rose<br>vacuum
-bip_39_word_new_br_9: hedgehog<br>dust<br>basket<br>mutual<br>abandon<br>concert<br>rose<br>vacuum<br>file
-bip_39_word_new_line_1: hedgehog
-bip_39_word_new_line_10: 'hedgehog
-
-  dust
-
-  basket
-
-  mutual
-
-  abandon
-
-  concert
-
-  rose
-
-  vacuum
-
-  file
-
-  guess'
-bip_39_word_new_line_11: 'hedgehog
-
-  dust
-
-  basket
-
-  mutual
-
-  abandon
-
-  concert
-
-  rose
-
-  vacuum
-
-  file
-
-  guess
-
-  excite'
 bip_39_word_new_line_12: 'hedgehog
 
   dust
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'hedgehog
   dust
 
   basket'
-bip_39_word_new_line_4: 'hedgehog
-
-  dust
-
-  basket
-
-  mutual'
-bip_39_word_new_line_5: 'hedgehog
-
-  dust
-
-  basket
-
-  mutual
-
-  abandon'
-bip_39_word_new_line_6: 'hedgehog
-
-  dust
-
-  basket
-
-  mutual
-
-  abandon
-
-  concert'
-bip_39_word_new_line_7: 'hedgehog
-
-  dust
-
-  basket
-
-  mutual
-
-  abandon
-
-  concert
-
-  rose'
-bip_39_word_new_line_8: 'hedgehog
-
-  dust
-
-  basket
-
-  mutual
-
-  abandon
-
-  concert
-
-  rose
-
-  vacuum'
-bip_39_word_new_line_9: 'hedgehog
-
-  dust
-
-  basket
-
-  mutual
-
-  abandon
-
-  concert
-
-  rose
-
-  vacuum
-
-  file'
-bip_39_word_no_space_1: hedgehog
-bip_39_word_no_space_10: hedgehogdustbasketmutualabandonconcertrosevacuumfileguess
-bip_39_word_no_space_11: hedgehogdustbasketmutualabandonconcertrosevacuumfileguessexcite
 bip_39_word_no_space_12: hedgehogdustbasketmutualabandonconcertrosevacuumfileguessexcitearmor
 bip_39_word_no_space_2: hedgehogdust
 bip_39_word_no_space_3: hedgehogdustbasket
-bip_39_word_no_space_4: hedgehogdustbasketmutual
-bip_39_word_no_space_5: hedgehogdustbasketmutualabandon
-bip_39_word_no_space_6: hedgehogdustbasketmutualabandonconcert
-bip_39_word_no_space_7: hedgehogdustbasketmutualabandonconcertrose
-bip_39_word_no_space_8: hedgehogdustbasketmutualabandonconcertrosevacuum
-bip_39_word_no_space_9: hedgehogdustbasketmutualabandonconcertrosevacuumfile
-bip_39_word_space_0:
-- hedgehog
-- dust
-- basket
-- mutual
-- abandon
-- concert
-- rose
-- vacuum
-- file
-- guess
-- excite
-- armor
-bip_39_word_space_1: hedgehog
-bip_39_word_space_10: hedgehog dust basket mutual abandon concert rose vacuum file
-  guess
-bip_39_word_space_11: hedgehog dust basket mutual abandon concert rose vacuum file
-  guess excite
 bip_39_word_space_12: hedgehog dust basket mutual abandon concert rose vacuum file
   guess excite armor
 bip_39_word_space_2: hedgehog dust
 bip_39_word_space_3: hedgehog dust basket
-bip_39_word_space_4: hedgehog dust basket mutual
-bip_39_word_space_5: hedgehog dust basket mutual abandon
-bip_39_word_space_6: hedgehog dust basket mutual abandon concert
-bip_39_word_space_7: hedgehog dust basket mutual abandon concert rose
-bip_39_word_space_8: hedgehog dust basket mutual abandon concert rose vacuum
-bip_39_word_space_9: hedgehog dust basket mutual abandon concert rose vacuum file
-bip_39_word_underscore_1: hedgehog
-bip_39_word_underscore_10: hedgehog_dust_basket_mutual_abandon_concert_rose_vacuum_file_guess
-bip_39_word_underscore_11: hedgehog_dust_basket_mutual_abandon_concert_rose_vacuum_file_guess_excite
 bip_39_word_underscore_12: hedgehog_dust_basket_mutual_abandon_concert_rose_vacuum_file_guess_excite_armor
 bip_39_word_underscore_2: hedgehog_dust
 bip_39_word_underscore_3: hedgehog_dust_basket
-bip_39_word_underscore_4: hedgehog_dust_basket_mutual
-bip_39_word_underscore_5: hedgehog_dust_basket_mutual_abandon
-bip_39_word_underscore_6: hedgehog_dust_basket_mutual_abandon_concert
-bip_39_word_underscore_7: hedgehog_dust_basket_mutual_abandon_concert_rose
-bip_39_word_underscore_8: hedgehog_dust_basket_mutual_abandon_concert_rose_vacuum
-bip_39_word_underscore_9: hedgehog_dust_basket_mutual_abandon_concert_rose_vacuum_file
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

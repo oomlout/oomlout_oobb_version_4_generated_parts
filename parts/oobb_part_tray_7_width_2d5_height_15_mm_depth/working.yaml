@@ -1,68 +1,9 @@
-bip_39_word_dash_1: section
-bip_39_word_dash_10: section-faint-fantasy-require-latin-inquiry-warm-object-loop-evolve
-bip_39_word_dash_11: section-faint-fantasy-require-latin-inquiry-warm-object-loop-evolve-alone
 bip_39_word_dash_12: section-faint-fantasy-require-latin-inquiry-warm-object-loop-evolve-alone-arrange
 bip_39_word_dash_2: section-faint
 bip_39_word_dash_3: section-faint-fantasy
-bip_39_word_dash_4: section-faint-fantasy-require
-bip_39_word_dash_5: section-faint-fantasy-require-latin
-bip_39_word_dash_6: section-faint-fantasy-require-latin-inquiry
-bip_39_word_dash_7: section-faint-fantasy-require-latin-inquiry-warm
-bip_39_word_dash_8: section-faint-fantasy-require-latin-inquiry-warm-object
-bip_39_word_dash_9: section-faint-fantasy-require-latin-inquiry-warm-object-loop
-bip_39_word_new_br_1: section
-bip_39_word_new_br_10: section<br>faint<br>fantasy<br>require<br>latin<br>inquiry<br>warm<br>object<br>loop<br>evolve
-bip_39_word_new_br_11: section<br>faint<br>fantasy<br>require<br>latin<br>inquiry<br>warm<br>object<br>loop<br>evolve<br>alone
 bip_39_word_new_br_12: section<br>faint<br>fantasy<br>require<br>latin<br>inquiry<br>warm<br>object<br>loop<br>evolve<br>alone<br>arrange
 bip_39_word_new_br_2: section<br>faint
 bip_39_word_new_br_3: section<br>faint<br>fantasy
-bip_39_word_new_br_4: section<br>faint<br>fantasy<br>require
-bip_39_word_new_br_5: section<br>faint<br>fantasy<br>require<br>latin
-bip_39_word_new_br_6: section<br>faint<br>fantasy<br>require<br>latin<br>inquiry
-bip_39_word_new_br_7: section<br>faint<br>fantasy<br>require<br>latin<br>inquiry<br>warm
-bip_39_word_new_br_8: section<br>faint<br>fantasy<br>require<br>latin<br>inquiry<br>warm<br>object
-bip_39_word_new_br_9: section<br>faint<br>fantasy<br>require<br>latin<br>inquiry<br>warm<br>object<br>loop
-bip_39_word_new_line_1: section
-bip_39_word_new_line_10: 'section
-
-  faint
-
-  fantasy
-
-  require
-
-  latin
-
-  inquiry
-
-  warm
-
-  object
-
-  loop
-
-  evolve'
-bip_39_word_new_line_11: 'section
-
-  faint
-
-  fantasy
-
-  require
-
-  latin
-
-  inquiry
-
-  warm
-
-  object
-
-  loop
-
-  evolve
-
-  alone'
 bip_39_word_new_line_12: 'section
 
   faint
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'section
   faint
 
   fantasy'
-bip_39_word_new_line_4: 'section
-
-  faint
-
-  fantasy
-
-  require'
-bip_39_word_new_line_5: 'section
-
-  faint
-
-  fantasy
-
-  require
-
-  latin'
-bip_39_word_new_line_6: 'section
-
-  faint
-
-  fantasy
-
-  require
-
-  latin
-
-  inquiry'
-bip_39_word_new_line_7: 'section
-
-  faint
-
-  fantasy
-
-  require
-
-  latin
-
-  inquiry
-
-  warm'
-bip_39_word_new_line_8: 'section
-
-  faint
-
-  fantasy
-
-  require
-
-  latin
-
-  inquiry
-
-  warm
-
-  object'
-bip_39_word_new_line_9: 'section
-
-  faint
-
-  fantasy
-
-  require
-
-  latin
-
-  inquiry
-
-  warm
-
-  object
-
-  loop'
-bip_39_word_no_space_1: section
-bip_39_word_no_space_10: sectionfaintfantasyrequirelatininquirywarmobjectloopevolve
-bip_39_word_no_space_11: sectionfaintfantasyrequirelatininquirywarmobjectloopevolvealone
 bip_39_word_no_space_12: sectionfaintfantasyrequirelatininquirywarmobjectloopevolvealonearrange
 bip_39_word_no_space_2: sectionfaint
 bip_39_word_no_space_3: sectionfaintfantasy
-bip_39_word_no_space_4: sectionfaintfantasyrequire
-bip_39_word_no_space_5: sectionfaintfantasyrequirelatin
-bip_39_word_no_space_6: sectionfaintfantasyrequirelatininquiry
-bip_39_word_no_space_7: sectionfaintfantasyrequirelatininquirywarm
-bip_39_word_no_space_8: sectionfaintfantasyrequirelatininquirywarmobject
-bip_39_word_no_space_9: sectionfaintfantasyrequirelatininquirywarmobjectloop
-bip_39_word_space_0:
-- section
-- faint
-- fantasy
-- require
-- latin
-- inquiry
-- warm
-- object
-- loop
-- evolve
-- alone
-- arrange
-bip_39_word_space_1: section
-bip_39_word_space_10: section faint fantasy require latin inquiry warm object loop
-  evolve
-bip_39_word_space_11: section faint fantasy require latin inquiry warm object loop
-  evolve alone
 bip_39_word_space_12: section faint fantasy require latin inquiry warm object loop
   evolve alone arrange
 bip_39_word_space_2: section faint
 bip_39_word_space_3: section faint fantasy
-bip_39_word_space_4: section faint fantasy require
-bip_39_word_space_5: section faint fantasy require latin
-bip_39_word_space_6: section faint fantasy require latin inquiry
-bip_39_word_space_7: section faint fantasy require latin inquiry warm
-bip_39_word_space_8: section faint fantasy require latin inquiry warm object
-bip_39_word_space_9: section faint fantasy require latin inquiry warm object loop
-bip_39_word_underscore_1: section
-bip_39_word_underscore_10: section_faint_fantasy_require_latin_inquiry_warm_object_loop_evolve
-bip_39_word_underscore_11: section_faint_fantasy_require_latin_inquiry_warm_object_loop_evolve_alone
 bip_39_word_underscore_12: section_faint_fantasy_require_latin_inquiry_warm_object_loop_evolve_alone_arrange
 bip_39_word_underscore_2: section_faint
 bip_39_word_underscore_3: section_faint_fantasy
-bip_39_word_underscore_4: section_faint_fantasy_require
-bip_39_word_underscore_5: section_faint_fantasy_require_latin
-bip_39_word_underscore_6: section_faint_fantasy_require_latin_inquiry
-bip_39_word_underscore_7: section_faint_fantasy_require_latin_inquiry_warm
-bip_39_word_underscore_8: section_faint_fantasy_require_latin_inquiry_warm_object
-bip_39_word_underscore_9: section_faint_fantasy_require_latin_inquiry_warm_object_loop
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

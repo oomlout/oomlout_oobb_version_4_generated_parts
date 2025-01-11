@@ -1,68 +1,9 @@
-bip_39_word_dash_1: curtain
-bip_39_word_dash_10: curtain-sort-ivory-engine-cargo-wait-hold-talk-bid-tag
-bip_39_word_dash_11: curtain-sort-ivory-engine-cargo-wait-hold-talk-bid-tag-parent
 bip_39_word_dash_12: curtain-sort-ivory-engine-cargo-wait-hold-talk-bid-tag-parent-arctic
 bip_39_word_dash_2: curtain-sort
 bip_39_word_dash_3: curtain-sort-ivory
-bip_39_word_dash_4: curtain-sort-ivory-engine
-bip_39_word_dash_5: curtain-sort-ivory-engine-cargo
-bip_39_word_dash_6: curtain-sort-ivory-engine-cargo-wait
-bip_39_word_dash_7: curtain-sort-ivory-engine-cargo-wait-hold
-bip_39_word_dash_8: curtain-sort-ivory-engine-cargo-wait-hold-talk
-bip_39_word_dash_9: curtain-sort-ivory-engine-cargo-wait-hold-talk-bid
-bip_39_word_new_br_1: curtain
-bip_39_word_new_br_10: curtain<br>sort<br>ivory<br>engine<br>cargo<br>wait<br>hold<br>talk<br>bid<br>tag
-bip_39_word_new_br_11: curtain<br>sort<br>ivory<br>engine<br>cargo<br>wait<br>hold<br>talk<br>bid<br>tag<br>parent
 bip_39_word_new_br_12: curtain<br>sort<br>ivory<br>engine<br>cargo<br>wait<br>hold<br>talk<br>bid<br>tag<br>parent<br>arctic
 bip_39_word_new_br_2: curtain<br>sort
 bip_39_word_new_br_3: curtain<br>sort<br>ivory
-bip_39_word_new_br_4: curtain<br>sort<br>ivory<br>engine
-bip_39_word_new_br_5: curtain<br>sort<br>ivory<br>engine<br>cargo
-bip_39_word_new_br_6: curtain<br>sort<br>ivory<br>engine<br>cargo<br>wait
-bip_39_word_new_br_7: curtain<br>sort<br>ivory<br>engine<br>cargo<br>wait<br>hold
-bip_39_word_new_br_8: curtain<br>sort<br>ivory<br>engine<br>cargo<br>wait<br>hold<br>talk
-bip_39_word_new_br_9: curtain<br>sort<br>ivory<br>engine<br>cargo<br>wait<br>hold<br>talk<br>bid
-bip_39_word_new_line_1: curtain
-bip_39_word_new_line_10: 'curtain
-
-  sort
-
-  ivory
-
-  engine
-
-  cargo
-
-  wait
-
-  hold
-
-  talk
-
-  bid
-
-  tag'
-bip_39_word_new_line_11: 'curtain
-
-  sort
-
-  ivory
-
-  engine
-
-  cargo
-
-  wait
-
-  hold
-
-  talk
-
-  bid
-
-  tag
-
-  parent'
 bip_39_word_new_line_12: 'curtain
 
   sort
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'curtain
   sort
 
   ivory'
-bip_39_word_new_line_4: 'curtain
-
-  sort
-
-  ivory
-
-  engine'
-bip_39_word_new_line_5: 'curtain
-
-  sort
-
-  ivory
-
-  engine
-
-  cargo'
-bip_39_word_new_line_6: 'curtain
-
-  sort
-
-  ivory
-
-  engine
-
-  cargo
-
-  wait'
-bip_39_word_new_line_7: 'curtain
-
-  sort
-
-  ivory
-
-  engine
-
-  cargo
-
-  wait
-
-  hold'
-bip_39_word_new_line_8: 'curtain
-
-  sort
-
-  ivory
-
-  engine
-
-  cargo
-
-  wait
-
-  hold
-
-  talk'
-bip_39_word_new_line_9: 'curtain
-
-  sort
-
-  ivory
-
-  engine
-
-  cargo
-
-  wait
-
-  hold
-
-  talk
-
-  bid'
-bip_39_word_no_space_1: curtain
-bip_39_word_no_space_10: curtainsortivoryenginecargowaitholdtalkbidtag
-bip_39_word_no_space_11: curtainsortivoryenginecargowaitholdtalkbidtagparent
 bip_39_word_no_space_12: curtainsortivoryenginecargowaitholdtalkbidtagparentarctic
 bip_39_word_no_space_2: curtainsort
 bip_39_word_no_space_3: curtainsortivory
-bip_39_word_no_space_4: curtainsortivoryengine
-bip_39_word_no_space_5: curtainsortivoryenginecargo
-bip_39_word_no_space_6: curtainsortivoryenginecargowait
-bip_39_word_no_space_7: curtainsortivoryenginecargowaithold
-bip_39_word_no_space_8: curtainsortivoryenginecargowaitholdtalk
-bip_39_word_no_space_9: curtainsortivoryenginecargowaitholdtalkbid
-bip_39_word_space_0:
-- curtain
-- sort
-- ivory
-- engine
-- cargo
-- wait
-- hold
-- talk
-- bid
-- tag
-- parent
-- arctic
-bip_39_word_space_1: curtain
-bip_39_word_space_10: curtain sort ivory engine cargo wait hold talk bid tag
-bip_39_word_space_11: curtain sort ivory engine cargo wait hold talk bid tag parent
 bip_39_word_space_12: curtain sort ivory engine cargo wait hold talk bid tag parent
   arctic
 bip_39_word_space_2: curtain sort
 bip_39_word_space_3: curtain sort ivory
-bip_39_word_space_4: curtain sort ivory engine
-bip_39_word_space_5: curtain sort ivory engine cargo
-bip_39_word_space_6: curtain sort ivory engine cargo wait
-bip_39_word_space_7: curtain sort ivory engine cargo wait hold
-bip_39_word_space_8: curtain sort ivory engine cargo wait hold talk
-bip_39_word_space_9: curtain sort ivory engine cargo wait hold talk bid
-bip_39_word_underscore_1: curtain
-bip_39_word_underscore_10: curtain_sort_ivory_engine_cargo_wait_hold_talk_bid_tag
-bip_39_word_underscore_11: curtain_sort_ivory_engine_cargo_wait_hold_talk_bid_tag_parent
 bip_39_word_underscore_12: curtain_sort_ivory_engine_cargo_wait_hold_talk_bid_tag_parent_arctic
 bip_39_word_underscore_2: curtain_sort
 bip_39_word_underscore_3: curtain_sort_ivory
-bip_39_word_underscore_4: curtain_sort_ivory_engine
-bip_39_word_underscore_5: curtain_sort_ivory_engine_cargo
-bip_39_word_underscore_6: curtain_sort_ivory_engine_cargo_wait
-bip_39_word_underscore_7: curtain_sort_ivory_engine_cargo_wait_hold
-bip_39_word_underscore_8: curtain_sort_ivory_engine_cargo_wait_hold_talk
-bip_39_word_underscore_9: curtain_sort_ivory_engine_cargo_wait_hold_talk_bid
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: sad
-bip_39_word_dash_10: sad-meadow-enter-crater-riot-noble-debris-sister-picnic-asset
-bip_39_word_dash_11: sad-meadow-enter-crater-riot-noble-debris-sister-picnic-asset-cargo
 bip_39_word_dash_12: sad-meadow-enter-crater-riot-noble-debris-sister-picnic-asset-cargo-apart
 bip_39_word_dash_2: sad-meadow
 bip_39_word_dash_3: sad-meadow-enter
-bip_39_word_dash_4: sad-meadow-enter-crater
-bip_39_word_dash_5: sad-meadow-enter-crater-riot
-bip_39_word_dash_6: sad-meadow-enter-crater-riot-noble
-bip_39_word_dash_7: sad-meadow-enter-crater-riot-noble-debris
-bip_39_word_dash_8: sad-meadow-enter-crater-riot-noble-debris-sister
-bip_39_word_dash_9: sad-meadow-enter-crater-riot-noble-debris-sister-picnic
-bip_39_word_new_br_1: sad
-bip_39_word_new_br_10: sad<br>meadow<br>enter<br>crater<br>riot<br>noble<br>debris<br>sister<br>picnic<br>asset
-bip_39_word_new_br_11: sad<br>meadow<br>enter<br>crater<br>riot<br>noble<br>debris<br>sister<br>picnic<br>asset<br>cargo
 bip_39_word_new_br_12: sad<br>meadow<br>enter<br>crater<br>riot<br>noble<br>debris<br>sister<br>picnic<br>asset<br>cargo<br>apart
 bip_39_word_new_br_2: sad<br>meadow
 bip_39_word_new_br_3: sad<br>meadow<br>enter
-bip_39_word_new_br_4: sad<br>meadow<br>enter<br>crater
-bip_39_word_new_br_5: sad<br>meadow<br>enter<br>crater<br>riot
-bip_39_word_new_br_6: sad<br>meadow<br>enter<br>crater<br>riot<br>noble
-bip_39_word_new_br_7: sad<br>meadow<br>enter<br>crater<br>riot<br>noble<br>debris
-bip_39_word_new_br_8: sad<br>meadow<br>enter<br>crater<br>riot<br>noble<br>debris<br>sister
-bip_39_word_new_br_9: sad<br>meadow<br>enter<br>crater<br>riot<br>noble<br>debris<br>sister<br>picnic
-bip_39_word_new_line_1: sad
-bip_39_word_new_line_10: 'sad
-
-  meadow
-
-  enter
-
-  crater
-
-  riot
-
-  noble
-
-  debris
-
-  sister
-
-  picnic
-
-  asset'
-bip_39_word_new_line_11: 'sad
-
-  meadow
-
-  enter
-
-  crater
-
-  riot
-
-  noble
-
-  debris
-
-  sister
-
-  picnic
-
-  asset
-
-  cargo'
 bip_39_word_new_line_12: 'sad
 
   meadow
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'sad
   meadow
 
   enter'
-bip_39_word_new_line_4: 'sad
-
-  meadow
-
-  enter
-
-  crater'
-bip_39_word_new_line_5: 'sad
-
-  meadow
-
-  enter
-
-  crater
-
-  riot'
-bip_39_word_new_line_6: 'sad
-
-  meadow
-
-  enter
-
-  crater
-
-  riot
-
-  noble'
-bip_39_word_new_line_7: 'sad
-
-  meadow
-
-  enter
-
-  crater
-
-  riot
-
-  noble
-
-  debris'
-bip_39_word_new_line_8: 'sad
-
-  meadow
-
-  enter
-
-  crater
-
-  riot
-
-  noble
-
-  debris
-
-  sister'
-bip_39_word_new_line_9: 'sad
-
-  meadow
-
-  enter
-
-  crater
-
-  riot
-
-  noble
-
-  debris
-
-  sister
-
-  picnic'
-bip_39_word_no_space_1: sad
-bip_39_word_no_space_10: sadmeadowentercraterriotnobledebrissisterpicnicasset
-bip_39_word_no_space_11: sadmeadowentercraterriotnobledebrissisterpicnicassetcargo
 bip_39_word_no_space_12: sadmeadowentercraterriotnobledebrissisterpicnicassetcargoapart
 bip_39_word_no_space_2: sadmeadow
 bip_39_word_no_space_3: sadmeadowenter
-bip_39_word_no_space_4: sadmeadowentercrater
-bip_39_word_no_space_5: sadmeadowentercraterriot
-bip_39_word_no_space_6: sadmeadowentercraterriotnoble
-bip_39_word_no_space_7: sadmeadowentercraterriotnobledebris
-bip_39_word_no_space_8: sadmeadowentercraterriotnobledebrissister
-bip_39_word_no_space_9: sadmeadowentercraterriotnobledebrissisterpicnic
-bip_39_word_space_0:
-- sad
-- meadow
-- enter
-- crater
-- riot
-- noble
-- debris
-- sister
-- picnic
-- asset
-- cargo
-- apart
-bip_39_word_space_1: sad
-bip_39_word_space_10: sad meadow enter crater riot noble debris sister picnic asset
-bip_39_word_space_11: sad meadow enter crater riot noble debris sister picnic asset
-  cargo
 bip_39_word_space_12: sad meadow enter crater riot noble debris sister picnic asset
   cargo apart
 bip_39_word_space_2: sad meadow
 bip_39_word_space_3: sad meadow enter
-bip_39_word_space_4: sad meadow enter crater
-bip_39_word_space_5: sad meadow enter crater riot
-bip_39_word_space_6: sad meadow enter crater riot noble
-bip_39_word_space_7: sad meadow enter crater riot noble debris
-bip_39_word_space_8: sad meadow enter crater riot noble debris sister
-bip_39_word_space_9: sad meadow enter crater riot noble debris sister picnic
-bip_39_word_underscore_1: sad
-bip_39_word_underscore_10: sad_meadow_enter_crater_riot_noble_debris_sister_picnic_asset
-bip_39_word_underscore_11: sad_meadow_enter_crater_riot_noble_debris_sister_picnic_asset_cargo
 bip_39_word_underscore_12: sad_meadow_enter_crater_riot_noble_debris_sister_picnic_asset_cargo_apart
 bip_39_word_underscore_2: sad_meadow
 bip_39_word_underscore_3: sad_meadow_enter
-bip_39_word_underscore_4: sad_meadow_enter_crater
-bip_39_word_underscore_5: sad_meadow_enter_crater_riot
-bip_39_word_underscore_6: sad_meadow_enter_crater_riot_noble
-bip_39_word_underscore_7: sad_meadow_enter_crater_riot_noble_debris
-bip_39_word_underscore_8: sad_meadow_enter_crater_riot_noble_debris_sister
-bip_39_word_underscore_9: sad_meadow_enter_crater_riot_noble_debris_sister_picnic
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

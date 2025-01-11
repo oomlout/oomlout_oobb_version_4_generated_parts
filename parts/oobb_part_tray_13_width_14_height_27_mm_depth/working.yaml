@@ -1,68 +1,9 @@
-bip_39_word_dash_1: settle
-bip_39_word_dash_10: settle-stamp-actor-motor-crop-join-lonely-leave-fetch-sock
-bip_39_word_dash_11: settle-stamp-actor-motor-crop-join-lonely-leave-fetch-sock-inside
 bip_39_word_dash_12: settle-stamp-actor-motor-crop-join-lonely-leave-fetch-sock-inside-amount
 bip_39_word_dash_2: settle-stamp
 bip_39_word_dash_3: settle-stamp-actor
-bip_39_word_dash_4: settle-stamp-actor-motor
-bip_39_word_dash_5: settle-stamp-actor-motor-crop
-bip_39_word_dash_6: settle-stamp-actor-motor-crop-join
-bip_39_word_dash_7: settle-stamp-actor-motor-crop-join-lonely
-bip_39_word_dash_8: settle-stamp-actor-motor-crop-join-lonely-leave
-bip_39_word_dash_9: settle-stamp-actor-motor-crop-join-lonely-leave-fetch
-bip_39_word_new_br_1: settle
-bip_39_word_new_br_10: settle<br>stamp<br>actor<br>motor<br>crop<br>join<br>lonely<br>leave<br>fetch<br>sock
-bip_39_word_new_br_11: settle<br>stamp<br>actor<br>motor<br>crop<br>join<br>lonely<br>leave<br>fetch<br>sock<br>inside
 bip_39_word_new_br_12: settle<br>stamp<br>actor<br>motor<br>crop<br>join<br>lonely<br>leave<br>fetch<br>sock<br>inside<br>amount
 bip_39_word_new_br_2: settle<br>stamp
 bip_39_word_new_br_3: settle<br>stamp<br>actor
-bip_39_word_new_br_4: settle<br>stamp<br>actor<br>motor
-bip_39_word_new_br_5: settle<br>stamp<br>actor<br>motor<br>crop
-bip_39_word_new_br_6: settle<br>stamp<br>actor<br>motor<br>crop<br>join
-bip_39_word_new_br_7: settle<br>stamp<br>actor<br>motor<br>crop<br>join<br>lonely
-bip_39_word_new_br_8: settle<br>stamp<br>actor<br>motor<br>crop<br>join<br>lonely<br>leave
-bip_39_word_new_br_9: settle<br>stamp<br>actor<br>motor<br>crop<br>join<br>lonely<br>leave<br>fetch
-bip_39_word_new_line_1: settle
-bip_39_word_new_line_10: 'settle
-
-  stamp
-
-  actor
-
-  motor
-
-  crop
-
-  join
-
-  lonely
-
-  leave
-
-  fetch
-
-  sock'
-bip_39_word_new_line_11: 'settle
-
-  stamp
-
-  actor
-
-  motor
-
-  crop
-
-  join
-
-  lonely
-
-  leave
-
-  fetch
-
-  sock
-
-  inside'
 bip_39_word_new_line_12: 'settle
 
   stamp
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'settle
   stamp
 
   actor'
-bip_39_word_new_line_4: 'settle
-
-  stamp
-
-  actor
-
-  motor'
-bip_39_word_new_line_5: 'settle
-
-  stamp
-
-  actor
-
-  motor
-
-  crop'
-bip_39_word_new_line_6: 'settle
-
-  stamp
-
-  actor
-
-  motor
-
-  crop
-
-  join'
-bip_39_word_new_line_7: 'settle
-
-  stamp
-
-  actor
-
-  motor
-
-  crop
-
-  join
-
-  lonely'
-bip_39_word_new_line_8: 'settle
-
-  stamp
-
-  actor
-
-  motor
-
-  crop
-
-  join
-
-  lonely
-
-  leave'
-bip_39_word_new_line_9: 'settle
-
-  stamp
-
-  actor
-
-  motor
-
-  crop
-
-  join
-
-  lonely
-
-  leave
-
-  fetch'
-bip_39_word_no_space_1: settle
-bip_39_word_no_space_10: settlestampactormotorcropjoinlonelyleavefetchsock
-bip_39_word_no_space_11: settlestampactormotorcropjoinlonelyleavefetchsockinside
 bip_39_word_no_space_12: settlestampactormotorcropjoinlonelyleavefetchsockinsideamount
 bip_39_word_no_space_2: settlestamp
 bip_39_word_no_space_3: settlestampactor
-bip_39_word_no_space_4: settlestampactormotor
-bip_39_word_no_space_5: settlestampactormotorcrop
-bip_39_word_no_space_6: settlestampactormotorcropjoin
-bip_39_word_no_space_7: settlestampactormotorcropjoinlonely
-bip_39_word_no_space_8: settlestampactormotorcropjoinlonelyleave
-bip_39_word_no_space_9: settlestampactormotorcropjoinlonelyleavefetch
-bip_39_word_space_0:
-- settle
-- stamp
-- actor
-- motor
-- crop
-- join
-- lonely
-- leave
-- fetch
-- sock
-- inside
-- amount
-bip_39_word_space_1: settle
-bip_39_word_space_10: settle stamp actor motor crop join lonely leave fetch sock
-bip_39_word_space_11: settle stamp actor motor crop join lonely leave fetch sock inside
 bip_39_word_space_12: settle stamp actor motor crop join lonely leave fetch sock inside
   amount
 bip_39_word_space_2: settle stamp
 bip_39_word_space_3: settle stamp actor
-bip_39_word_space_4: settle stamp actor motor
-bip_39_word_space_5: settle stamp actor motor crop
-bip_39_word_space_6: settle stamp actor motor crop join
-bip_39_word_space_7: settle stamp actor motor crop join lonely
-bip_39_word_space_8: settle stamp actor motor crop join lonely leave
-bip_39_word_space_9: settle stamp actor motor crop join lonely leave fetch
-bip_39_word_underscore_1: settle
-bip_39_word_underscore_10: settle_stamp_actor_motor_crop_join_lonely_leave_fetch_sock
-bip_39_word_underscore_11: settle_stamp_actor_motor_crop_join_lonely_leave_fetch_sock_inside
 bip_39_word_underscore_12: settle_stamp_actor_motor_crop_join_lonely_leave_fetch_sock_inside_amount
 bip_39_word_underscore_2: settle_stamp
 bip_39_word_underscore_3: settle_stamp_actor
-bip_39_word_underscore_4: settle_stamp_actor_motor
-bip_39_word_underscore_5: settle_stamp_actor_motor_crop
-bip_39_word_underscore_6: settle_stamp_actor_motor_crop_join
-bip_39_word_underscore_7: settle_stamp_actor_motor_crop_join_lonely
-bip_39_word_underscore_8: settle_stamp_actor_motor_crop_join_lonely_leave
-bip_39_word_underscore_9: settle_stamp_actor_motor_crop_join_lonely_leave_fetch
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

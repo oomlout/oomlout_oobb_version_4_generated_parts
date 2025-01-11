@@ -1,68 +1,9 @@
-bip_39_word_dash_1: fault
-bip_39_word_dash_10: fault-decrease-faith-stock-sell-weasel-mountain-crunch-resource-deposit
-bip_39_word_dash_11: fault-decrease-faith-stock-sell-weasel-mountain-crunch-resource-deposit-tip
 bip_39_word_dash_12: fault-decrease-faith-stock-sell-weasel-mountain-crunch-resource-deposit-tip-apology
 bip_39_word_dash_2: fault-decrease
 bip_39_word_dash_3: fault-decrease-faith
-bip_39_word_dash_4: fault-decrease-faith-stock
-bip_39_word_dash_5: fault-decrease-faith-stock-sell
-bip_39_word_dash_6: fault-decrease-faith-stock-sell-weasel
-bip_39_word_dash_7: fault-decrease-faith-stock-sell-weasel-mountain
-bip_39_word_dash_8: fault-decrease-faith-stock-sell-weasel-mountain-crunch
-bip_39_word_dash_9: fault-decrease-faith-stock-sell-weasel-mountain-crunch-resource
-bip_39_word_new_br_1: fault
-bip_39_word_new_br_10: fault<br>decrease<br>faith<br>stock<br>sell<br>weasel<br>mountain<br>crunch<br>resource<br>deposit
-bip_39_word_new_br_11: fault<br>decrease<br>faith<br>stock<br>sell<br>weasel<br>mountain<br>crunch<br>resource<br>deposit<br>tip
 bip_39_word_new_br_12: fault<br>decrease<br>faith<br>stock<br>sell<br>weasel<br>mountain<br>crunch<br>resource<br>deposit<br>tip<br>apology
 bip_39_word_new_br_2: fault<br>decrease
 bip_39_word_new_br_3: fault<br>decrease<br>faith
-bip_39_word_new_br_4: fault<br>decrease<br>faith<br>stock
-bip_39_word_new_br_5: fault<br>decrease<br>faith<br>stock<br>sell
-bip_39_word_new_br_6: fault<br>decrease<br>faith<br>stock<br>sell<br>weasel
-bip_39_word_new_br_7: fault<br>decrease<br>faith<br>stock<br>sell<br>weasel<br>mountain
-bip_39_word_new_br_8: fault<br>decrease<br>faith<br>stock<br>sell<br>weasel<br>mountain<br>crunch
-bip_39_word_new_br_9: fault<br>decrease<br>faith<br>stock<br>sell<br>weasel<br>mountain<br>crunch<br>resource
-bip_39_word_new_line_1: fault
-bip_39_word_new_line_10: 'fault
-
-  decrease
-
-  faith
-
-  stock
-
-  sell
-
-  weasel
-
-  mountain
-
-  crunch
-
-  resource
-
-  deposit'
-bip_39_word_new_line_11: 'fault
-
-  decrease
-
-  faith
-
-  stock
-
-  sell
-
-  weasel
-
-  mountain
-
-  crunch
-
-  resource
-
-  deposit
-
-  tip'
 bip_39_word_new_line_12: 'fault
 
   decrease
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'fault
   decrease
 
   faith'
-bip_39_word_new_line_4: 'fault
-
-  decrease
-
-  faith
-
-  stock'
-bip_39_word_new_line_5: 'fault
-
-  decrease
-
-  faith
-
-  stock
-
-  sell'
-bip_39_word_new_line_6: 'fault
-
-  decrease
-
-  faith
-
-  stock
-
-  sell
-
-  weasel'
-bip_39_word_new_line_7: 'fault
-
-  decrease
-
-  faith
-
-  stock
-
-  sell
-
-  weasel
-
-  mountain'
-bip_39_word_new_line_8: 'fault
-
-  decrease
-
-  faith
-
-  stock
-
-  sell
-
-  weasel
-
-  mountain
-
-  crunch'
-bip_39_word_new_line_9: 'fault
-
-  decrease
-
-  faith
-
-  stock
-
-  sell
-
-  weasel
-
-  mountain
-
-  crunch
-
-  resource'
-bip_39_word_no_space_1: fault
-bip_39_word_no_space_10: faultdecreasefaithstocksellweaselmountaincrunchresourcedeposit
-bip_39_word_no_space_11: faultdecreasefaithstocksellweaselmountaincrunchresourcedeposittip
 bip_39_word_no_space_12: faultdecreasefaithstocksellweaselmountaincrunchresourcedeposittipapology
 bip_39_word_no_space_2: faultdecrease
 bip_39_word_no_space_3: faultdecreasefaith
-bip_39_word_no_space_4: faultdecreasefaithstock
-bip_39_word_no_space_5: faultdecreasefaithstocksell
-bip_39_word_no_space_6: faultdecreasefaithstocksellweasel
-bip_39_word_no_space_7: faultdecreasefaithstocksellweaselmountain
-bip_39_word_no_space_8: faultdecreasefaithstocksellweaselmountaincrunch
-bip_39_word_no_space_9: faultdecreasefaithstocksellweaselmountaincrunchresource
-bip_39_word_space_0:
-- fault
-- decrease
-- faith
-- stock
-- sell
-- weasel
-- mountain
-- crunch
-- resource
-- deposit
-- tip
-- apology
-bip_39_word_space_1: fault
-bip_39_word_space_10: fault decrease faith stock sell weasel mountain crunch resource
-  deposit
-bip_39_word_space_11: fault decrease faith stock sell weasel mountain crunch resource
-  deposit tip
 bip_39_word_space_12: fault decrease faith stock sell weasel mountain crunch resource
   deposit tip apology
 bip_39_word_space_2: fault decrease
 bip_39_word_space_3: fault decrease faith
-bip_39_word_space_4: fault decrease faith stock
-bip_39_word_space_5: fault decrease faith stock sell
-bip_39_word_space_6: fault decrease faith stock sell weasel
-bip_39_word_space_7: fault decrease faith stock sell weasel mountain
-bip_39_word_space_8: fault decrease faith stock sell weasel mountain crunch
-bip_39_word_space_9: fault decrease faith stock sell weasel mountain crunch resource
-bip_39_word_underscore_1: fault
-bip_39_word_underscore_10: fault_decrease_faith_stock_sell_weasel_mountain_crunch_resource_deposit
-bip_39_word_underscore_11: fault_decrease_faith_stock_sell_weasel_mountain_crunch_resource_deposit_tip
 bip_39_word_underscore_12: fault_decrease_faith_stock_sell_weasel_mountain_crunch_resource_deposit_tip_apology
 bip_39_word_underscore_2: fault_decrease
 bip_39_word_underscore_3: fault_decrease_faith
-bip_39_word_underscore_4: fault_decrease_faith_stock
-bip_39_word_underscore_5: fault_decrease_faith_stock_sell
-bip_39_word_underscore_6: fault_decrease_faith_stock_sell_weasel
-bip_39_word_underscore_7: fault_decrease_faith_stock_sell_weasel_mountain
-bip_39_word_underscore_8: fault_decrease_faith_stock_sell_weasel_mountain_crunch
-bip_39_word_underscore_9: fault_decrease_faith_stock_sell_weasel_mountain_crunch_resource
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

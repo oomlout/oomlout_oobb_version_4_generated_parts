@@ -1,68 +1,9 @@
-bip_39_word_dash_1: auto
-bip_39_word_dash_10: auto-please-gun-equal-lab-black-exile-issue-guilt-dwarf
-bip_39_word_dash_11: auto-please-gun-equal-lab-black-exile-issue-guilt-dwarf-young
 bip_39_word_dash_12: auto-please-gun-equal-lab-black-exile-issue-guilt-dwarf-young-apart
 bip_39_word_dash_2: auto-please
 bip_39_word_dash_3: auto-please-gun
-bip_39_word_dash_4: auto-please-gun-equal
-bip_39_word_dash_5: auto-please-gun-equal-lab
-bip_39_word_dash_6: auto-please-gun-equal-lab-black
-bip_39_word_dash_7: auto-please-gun-equal-lab-black-exile
-bip_39_word_dash_8: auto-please-gun-equal-lab-black-exile-issue
-bip_39_word_dash_9: auto-please-gun-equal-lab-black-exile-issue-guilt
-bip_39_word_new_br_1: auto
-bip_39_word_new_br_10: auto<br>please<br>gun<br>equal<br>lab<br>black<br>exile<br>issue<br>guilt<br>dwarf
-bip_39_word_new_br_11: auto<br>please<br>gun<br>equal<br>lab<br>black<br>exile<br>issue<br>guilt<br>dwarf<br>young
 bip_39_word_new_br_12: auto<br>please<br>gun<br>equal<br>lab<br>black<br>exile<br>issue<br>guilt<br>dwarf<br>young<br>apart
 bip_39_word_new_br_2: auto<br>please
 bip_39_word_new_br_3: auto<br>please<br>gun
-bip_39_word_new_br_4: auto<br>please<br>gun<br>equal
-bip_39_word_new_br_5: auto<br>please<br>gun<br>equal<br>lab
-bip_39_word_new_br_6: auto<br>please<br>gun<br>equal<br>lab<br>black
-bip_39_word_new_br_7: auto<br>please<br>gun<br>equal<br>lab<br>black<br>exile
-bip_39_word_new_br_8: auto<br>please<br>gun<br>equal<br>lab<br>black<br>exile<br>issue
-bip_39_word_new_br_9: auto<br>please<br>gun<br>equal<br>lab<br>black<br>exile<br>issue<br>guilt
-bip_39_word_new_line_1: auto
-bip_39_word_new_line_10: 'auto
-
-  please
-
-  gun
-
-  equal
-
-  lab
-
-  black
-
-  exile
-
-  issue
-
-  guilt
-
-  dwarf'
-bip_39_word_new_line_11: 'auto
-
-  please
-
-  gun
-
-  equal
-
-  lab
-
-  black
-
-  exile
-
-  issue
-
-  guilt
-
-  dwarf
-
-  young'
 bip_39_word_new_line_12: 'auto
 
   please
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'auto
   please
 
   gun'
-bip_39_word_new_line_4: 'auto
-
-  please
-
-  gun
-
-  equal'
-bip_39_word_new_line_5: 'auto
-
-  please
-
-  gun
-
-  equal
-
-  lab'
-bip_39_word_new_line_6: 'auto
-
-  please
-
-  gun
-
-  equal
-
-  lab
-
-  black'
-bip_39_word_new_line_7: 'auto
-
-  please
-
-  gun
-
-  equal
-
-  lab
-
-  black
-
-  exile'
-bip_39_word_new_line_8: 'auto
-
-  please
-
-  gun
-
-  equal
-
-  lab
-
-  black
-
-  exile
-
-  issue'
-bip_39_word_new_line_9: 'auto
-
-  please
-
-  gun
-
-  equal
-
-  lab
-
-  black
-
-  exile
-
-  issue
-
-  guilt'
-bip_39_word_no_space_1: auto
-bip_39_word_no_space_10: autopleasegunequallabblackexileissueguiltdwarf
-bip_39_word_no_space_11: autopleasegunequallabblackexileissueguiltdwarfyoung
 bip_39_word_no_space_12: autopleasegunequallabblackexileissueguiltdwarfyoungapart
 bip_39_word_no_space_2: autoplease
 bip_39_word_no_space_3: autopleasegun
-bip_39_word_no_space_4: autopleasegunequal
-bip_39_word_no_space_5: autopleasegunequallab
-bip_39_word_no_space_6: autopleasegunequallabblack
-bip_39_word_no_space_7: autopleasegunequallabblackexile
-bip_39_word_no_space_8: autopleasegunequallabblackexileissue
-bip_39_word_no_space_9: autopleasegunequallabblackexileissueguilt
-bip_39_word_space_0:
-- auto
-- please
-- gun
-- equal
-- lab
-- black
-- exile
-- issue
-- guilt
-- dwarf
-- young
-- apart
-bip_39_word_space_1: auto
-bip_39_word_space_10: auto please gun equal lab black exile issue guilt dwarf
-bip_39_word_space_11: auto please gun equal lab black exile issue guilt dwarf young
 bip_39_word_space_12: auto please gun equal lab black exile issue guilt dwarf young
   apart
 bip_39_word_space_2: auto please
 bip_39_word_space_3: auto please gun
-bip_39_word_space_4: auto please gun equal
-bip_39_word_space_5: auto please gun equal lab
-bip_39_word_space_6: auto please gun equal lab black
-bip_39_word_space_7: auto please gun equal lab black exile
-bip_39_word_space_8: auto please gun equal lab black exile issue
-bip_39_word_space_9: auto please gun equal lab black exile issue guilt
-bip_39_word_underscore_1: auto
-bip_39_word_underscore_10: auto_please_gun_equal_lab_black_exile_issue_guilt_dwarf
-bip_39_word_underscore_11: auto_please_gun_equal_lab_black_exile_issue_guilt_dwarf_young
 bip_39_word_underscore_12: auto_please_gun_equal_lab_black_exile_issue_guilt_dwarf_young_apart
 bip_39_word_underscore_2: auto_please
 bip_39_word_underscore_3: auto_please_gun
-bip_39_word_underscore_4: auto_please_gun_equal
-bip_39_word_underscore_5: auto_please_gun_equal_lab
-bip_39_word_underscore_6: auto_please_gun_equal_lab_black
-bip_39_word_underscore_7: auto_please_gun_equal_lab_black_exile
-bip_39_word_underscore_8: auto_please_gun_equal_lab_black_exile_issue
-bip_39_word_underscore_9: auto_please_gun_equal_lab_black_exile_issue_guilt
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

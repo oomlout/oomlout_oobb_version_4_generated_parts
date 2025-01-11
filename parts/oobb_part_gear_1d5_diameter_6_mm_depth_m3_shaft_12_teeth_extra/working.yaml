@@ -1,68 +1,9 @@
-bip_39_word_dash_1: input
-bip_39_word_dash_10: input-private-refuse-response-noise-code-truth-conduct-unfair-direct
-bip_39_word_dash_11: input-private-refuse-response-noise-code-truth-conduct-unfair-direct-course
 bip_39_word_dash_12: input-private-refuse-response-noise-code-truth-conduct-unfair-direct-course-allow
 bip_39_word_dash_2: input-private
 bip_39_word_dash_3: input-private-refuse
-bip_39_word_dash_4: input-private-refuse-response
-bip_39_word_dash_5: input-private-refuse-response-noise
-bip_39_word_dash_6: input-private-refuse-response-noise-code
-bip_39_word_dash_7: input-private-refuse-response-noise-code-truth
-bip_39_word_dash_8: input-private-refuse-response-noise-code-truth-conduct
-bip_39_word_dash_9: input-private-refuse-response-noise-code-truth-conduct-unfair
-bip_39_word_new_br_1: input
-bip_39_word_new_br_10: input<br>private<br>refuse<br>response<br>noise<br>code<br>truth<br>conduct<br>unfair<br>direct
-bip_39_word_new_br_11: input<br>private<br>refuse<br>response<br>noise<br>code<br>truth<br>conduct<br>unfair<br>direct<br>course
 bip_39_word_new_br_12: input<br>private<br>refuse<br>response<br>noise<br>code<br>truth<br>conduct<br>unfair<br>direct<br>course<br>allow
 bip_39_word_new_br_2: input<br>private
 bip_39_word_new_br_3: input<br>private<br>refuse
-bip_39_word_new_br_4: input<br>private<br>refuse<br>response
-bip_39_word_new_br_5: input<br>private<br>refuse<br>response<br>noise
-bip_39_word_new_br_6: input<br>private<br>refuse<br>response<br>noise<br>code
-bip_39_word_new_br_7: input<br>private<br>refuse<br>response<br>noise<br>code<br>truth
-bip_39_word_new_br_8: input<br>private<br>refuse<br>response<br>noise<br>code<br>truth<br>conduct
-bip_39_word_new_br_9: input<br>private<br>refuse<br>response<br>noise<br>code<br>truth<br>conduct<br>unfair
-bip_39_word_new_line_1: input
-bip_39_word_new_line_10: 'input
-
-  private
-
-  refuse
-
-  response
-
-  noise
-
-  code
-
-  truth
-
-  conduct
-
-  unfair
-
-  direct'
-bip_39_word_new_line_11: 'input
-
-  private
-
-  refuse
-
-  response
-
-  noise
-
-  code
-
-  truth
-
-  conduct
-
-  unfair
-
-  direct
-
-  course'
 bip_39_word_new_line_12: 'input
 
   private
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'input
   private
 
   refuse'
-bip_39_word_new_line_4: 'input
-
-  private
-
-  refuse
-
-  response'
-bip_39_word_new_line_5: 'input
-
-  private
-
-  refuse
-
-  response
-
-  noise'
-bip_39_word_new_line_6: 'input
-
-  private
-
-  refuse
-
-  response
-
-  noise
-
-  code'
-bip_39_word_new_line_7: 'input
-
-  private
-
-  refuse
-
-  response
-
-  noise
-
-  code
-
-  truth'
-bip_39_word_new_line_8: 'input
-
-  private
-
-  refuse
-
-  response
-
-  noise
-
-  code
-
-  truth
-
-  conduct'
-bip_39_word_new_line_9: 'input
-
-  private
-
-  refuse
-
-  response
-
-  noise
-
-  code
-
-  truth
-
-  conduct
-
-  unfair'
-bip_39_word_no_space_1: input
-bip_39_word_no_space_10: inputprivaterefuseresponsenoisecodetruthconductunfairdirect
-bip_39_word_no_space_11: inputprivaterefuseresponsenoisecodetruthconductunfairdirectcourse
 bip_39_word_no_space_12: inputprivaterefuseresponsenoisecodetruthconductunfairdirectcourseallow
 bip_39_word_no_space_2: inputprivate
 bip_39_word_no_space_3: inputprivaterefuse
-bip_39_word_no_space_4: inputprivaterefuseresponse
-bip_39_word_no_space_5: inputprivaterefuseresponsenoise
-bip_39_word_no_space_6: inputprivaterefuseresponsenoisecode
-bip_39_word_no_space_7: inputprivaterefuseresponsenoisecodetruth
-bip_39_word_no_space_8: inputprivaterefuseresponsenoisecodetruthconduct
-bip_39_word_no_space_9: inputprivaterefuseresponsenoisecodetruthconductunfair
-bip_39_word_space_0:
-- input
-- private
-- refuse
-- response
-- noise
-- code
-- truth
-- conduct
-- unfair
-- direct
-- course
-- allow
-bip_39_word_space_1: input
-bip_39_word_space_10: input private refuse response noise code truth conduct unfair
-  direct
-bip_39_word_space_11: input private refuse response noise code truth conduct unfair
-  direct course
 bip_39_word_space_12: input private refuse response noise code truth conduct unfair
   direct course allow
 bip_39_word_space_2: input private
 bip_39_word_space_3: input private refuse
-bip_39_word_space_4: input private refuse response
-bip_39_word_space_5: input private refuse response noise
-bip_39_word_space_6: input private refuse response noise code
-bip_39_word_space_7: input private refuse response noise code truth
-bip_39_word_space_8: input private refuse response noise code truth conduct
-bip_39_word_space_9: input private refuse response noise code truth conduct unfair
-bip_39_word_underscore_1: input
-bip_39_word_underscore_10: input_private_refuse_response_noise_code_truth_conduct_unfair_direct
-bip_39_word_underscore_11: input_private_refuse_response_noise_code_truth_conduct_unfair_direct_course
 bip_39_word_underscore_12: input_private_refuse_response_noise_code_truth_conduct_unfair_direct_course_allow
 bip_39_word_underscore_2: input_private
 bip_39_word_underscore_3: input_private_refuse
-bip_39_word_underscore_4: input_private_refuse_response
-bip_39_word_underscore_5: input_private_refuse_response_noise
-bip_39_word_underscore_6: input_private_refuse_response_noise_code
-bip_39_word_underscore_7: input_private_refuse_response_noise_code_truth
-bip_39_word_underscore_8: input_private_refuse_response_noise_code_truth_conduct
-bip_39_word_underscore_9: input_private_refuse_response_noise_code_truth_conduct_unfair
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

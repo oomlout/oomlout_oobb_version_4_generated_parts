@@ -1,68 +1,9 @@
-bip_39_word_dash_1: wash
-bip_39_word_dash_10: wash-slice-elegant-poverty-tuition-diesel-exact-race-poverty-hard
-bip_39_word_dash_11: wash-slice-elegant-poverty-tuition-diesel-exact-race-poverty-hard-elder
 bip_39_word_dash_12: wash-slice-elegant-poverty-tuition-diesel-exact-race-poverty-hard-elder-auction
 bip_39_word_dash_2: wash-slice
 bip_39_word_dash_3: wash-slice-elegant
-bip_39_word_dash_4: wash-slice-elegant-poverty
-bip_39_word_dash_5: wash-slice-elegant-poverty-tuition
-bip_39_word_dash_6: wash-slice-elegant-poverty-tuition-diesel
-bip_39_word_dash_7: wash-slice-elegant-poverty-tuition-diesel-exact
-bip_39_word_dash_8: wash-slice-elegant-poverty-tuition-diesel-exact-race
-bip_39_word_dash_9: wash-slice-elegant-poverty-tuition-diesel-exact-race-poverty
-bip_39_word_new_br_1: wash
-bip_39_word_new_br_10: wash<br>slice<br>elegant<br>poverty<br>tuition<br>diesel<br>exact<br>race<br>poverty<br>hard
-bip_39_word_new_br_11: wash<br>slice<br>elegant<br>poverty<br>tuition<br>diesel<br>exact<br>race<br>poverty<br>hard<br>elder
 bip_39_word_new_br_12: wash<br>slice<br>elegant<br>poverty<br>tuition<br>diesel<br>exact<br>race<br>poverty<br>hard<br>elder<br>auction
 bip_39_word_new_br_2: wash<br>slice
 bip_39_word_new_br_3: wash<br>slice<br>elegant
-bip_39_word_new_br_4: wash<br>slice<br>elegant<br>poverty
-bip_39_word_new_br_5: wash<br>slice<br>elegant<br>poverty<br>tuition
-bip_39_word_new_br_6: wash<br>slice<br>elegant<br>poverty<br>tuition<br>diesel
-bip_39_word_new_br_7: wash<br>slice<br>elegant<br>poverty<br>tuition<br>diesel<br>exact
-bip_39_word_new_br_8: wash<br>slice<br>elegant<br>poverty<br>tuition<br>diesel<br>exact<br>race
-bip_39_word_new_br_9: wash<br>slice<br>elegant<br>poverty<br>tuition<br>diesel<br>exact<br>race<br>poverty
-bip_39_word_new_line_1: wash
-bip_39_word_new_line_10: 'wash
-
-  slice
-
-  elegant
-
-  poverty
-
-  tuition
-
-  diesel
-
-  exact
-
-  race
-
-  poverty
-
-  hard'
-bip_39_word_new_line_11: 'wash
-
-  slice
-
-  elegant
-
-  poverty
-
-  tuition
-
-  diesel
-
-  exact
-
-  race
-
-  poverty
-
-  hard
-
-  elder'
 bip_39_word_new_line_12: 'wash
 
   slice
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'wash
   slice
 
   elegant'
-bip_39_word_new_line_4: 'wash
-
-  slice
-
-  elegant
-
-  poverty'
-bip_39_word_new_line_5: 'wash
-
-  slice
-
-  elegant
-
-  poverty
-
-  tuition'
-bip_39_word_new_line_6: 'wash
-
-  slice
-
-  elegant
-
-  poverty
-
-  tuition
-
-  diesel'
-bip_39_word_new_line_7: 'wash
-
-  slice
-
-  elegant
-
-  poverty
-
-  tuition
-
-  diesel
-
-  exact'
-bip_39_word_new_line_8: 'wash
-
-  slice
-
-  elegant
-
-  poverty
-
-  tuition
-
-  diesel
-
-  exact
-
-  race'
-bip_39_word_new_line_9: 'wash
-
-  slice
-
-  elegant
-
-  poverty
-
-  tuition
-
-  diesel
-
-  exact
-
-  race
-
-  poverty'
-bip_39_word_no_space_1: wash
-bip_39_word_no_space_10: washsliceelegantpovertytuitiondieselexactracepovertyhard
-bip_39_word_no_space_11: washsliceelegantpovertytuitiondieselexactracepovertyhardelder
 bip_39_word_no_space_12: washsliceelegantpovertytuitiondieselexactracepovertyhardelderauction
 bip_39_word_no_space_2: washslice
 bip_39_word_no_space_3: washsliceelegant
-bip_39_word_no_space_4: washsliceelegantpoverty
-bip_39_word_no_space_5: washsliceelegantpovertytuition
-bip_39_word_no_space_6: washsliceelegantpovertytuitiondiesel
-bip_39_word_no_space_7: washsliceelegantpovertytuitiondieselexact
-bip_39_word_no_space_8: washsliceelegantpovertytuitiondieselexactrace
-bip_39_word_no_space_9: washsliceelegantpovertytuitiondieselexactracepoverty
-bip_39_word_space_0:
-- wash
-- slice
-- elegant
-- poverty
-- tuition
-- diesel
-- exact
-- race
-- poverty
-- hard
-- elder
-- auction
-bip_39_word_space_1: wash
-bip_39_word_space_10: wash slice elegant poverty tuition diesel exact race poverty
-  hard
-bip_39_word_space_11: wash slice elegant poverty tuition diesel exact race poverty
-  hard elder
 bip_39_word_space_12: wash slice elegant poverty tuition diesel exact race poverty
   hard elder auction
 bip_39_word_space_2: wash slice
 bip_39_word_space_3: wash slice elegant
-bip_39_word_space_4: wash slice elegant poverty
-bip_39_word_space_5: wash slice elegant poverty tuition
-bip_39_word_space_6: wash slice elegant poverty tuition diesel
-bip_39_word_space_7: wash slice elegant poverty tuition diesel exact
-bip_39_word_space_8: wash slice elegant poverty tuition diesel exact race
-bip_39_word_space_9: wash slice elegant poverty tuition diesel exact race poverty
-bip_39_word_underscore_1: wash
-bip_39_word_underscore_10: wash_slice_elegant_poverty_tuition_diesel_exact_race_poverty_hard
-bip_39_word_underscore_11: wash_slice_elegant_poverty_tuition_diesel_exact_race_poverty_hard_elder
 bip_39_word_underscore_12: wash_slice_elegant_poverty_tuition_diesel_exact_race_poverty_hard_elder_auction
 bip_39_word_underscore_2: wash_slice
 bip_39_word_underscore_3: wash_slice_elegant
-bip_39_word_underscore_4: wash_slice_elegant_poverty
-bip_39_word_underscore_5: wash_slice_elegant_poverty_tuition
-bip_39_word_underscore_6: wash_slice_elegant_poverty_tuition_diesel
-bip_39_word_underscore_7: wash_slice_elegant_poverty_tuition_diesel_exact
-bip_39_word_underscore_8: wash_slice_elegant_poverty_tuition_diesel_exact_race
-bip_39_word_underscore_9: wash_slice_elegant_poverty_tuition_diesel_exact_race_poverty
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

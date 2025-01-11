@@ -1,68 +1,9 @@
-bip_39_word_dash_1: text
-bip_39_word_dash_10: text-tooth-tissue-extend-teach-artefact-change-cricket-letter-first
-bip_39_word_dash_11: text-tooth-tissue-extend-teach-artefact-change-cricket-letter-first-require
 bip_39_word_dash_12: text-tooth-tissue-extend-teach-artefact-change-cricket-letter-first-require-arrange
 bip_39_word_dash_2: text-tooth
 bip_39_word_dash_3: text-tooth-tissue
-bip_39_word_dash_4: text-tooth-tissue-extend
-bip_39_word_dash_5: text-tooth-tissue-extend-teach
-bip_39_word_dash_6: text-tooth-tissue-extend-teach-artefact
-bip_39_word_dash_7: text-tooth-tissue-extend-teach-artefact-change
-bip_39_word_dash_8: text-tooth-tissue-extend-teach-artefact-change-cricket
-bip_39_word_dash_9: text-tooth-tissue-extend-teach-artefact-change-cricket-letter
-bip_39_word_new_br_1: text
-bip_39_word_new_br_10: text<br>tooth<br>tissue<br>extend<br>teach<br>artefact<br>change<br>cricket<br>letter<br>first
-bip_39_word_new_br_11: text<br>tooth<br>tissue<br>extend<br>teach<br>artefact<br>change<br>cricket<br>letter<br>first<br>require
 bip_39_word_new_br_12: text<br>tooth<br>tissue<br>extend<br>teach<br>artefact<br>change<br>cricket<br>letter<br>first<br>require<br>arrange
 bip_39_word_new_br_2: text<br>tooth
 bip_39_word_new_br_3: text<br>tooth<br>tissue
-bip_39_word_new_br_4: text<br>tooth<br>tissue<br>extend
-bip_39_word_new_br_5: text<br>tooth<br>tissue<br>extend<br>teach
-bip_39_word_new_br_6: text<br>tooth<br>tissue<br>extend<br>teach<br>artefact
-bip_39_word_new_br_7: text<br>tooth<br>tissue<br>extend<br>teach<br>artefact<br>change
-bip_39_word_new_br_8: text<br>tooth<br>tissue<br>extend<br>teach<br>artefact<br>change<br>cricket
-bip_39_word_new_br_9: text<br>tooth<br>tissue<br>extend<br>teach<br>artefact<br>change<br>cricket<br>letter
-bip_39_word_new_line_1: text
-bip_39_word_new_line_10: 'text
-
-  tooth
-
-  tissue
-
-  extend
-
-  teach
-
-  artefact
-
-  change
-
-  cricket
-
-  letter
-
-  first'
-bip_39_word_new_line_11: 'text
-
-  tooth
-
-  tissue
-
-  extend
-
-  teach
-
-  artefact
-
-  change
-
-  cricket
-
-  letter
-
-  first
-
-  require'
 bip_39_word_new_line_12: 'text
 
   tooth
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'text
   tooth
 
   tissue'
-bip_39_word_new_line_4: 'text
-
-  tooth
-
-  tissue
-
-  extend'
-bip_39_word_new_line_5: 'text
-
-  tooth
-
-  tissue
-
-  extend
-
-  teach'
-bip_39_word_new_line_6: 'text
-
-  tooth
-
-  tissue
-
-  extend
-
-  teach
-
-  artefact'
-bip_39_word_new_line_7: 'text
-
-  tooth
-
-  tissue
-
-  extend
-
-  teach
-
-  artefact
-
-  change'
-bip_39_word_new_line_8: 'text
-
-  tooth
-
-  tissue
-
-  extend
-
-  teach
-
-  artefact
-
-  change
-
-  cricket'
-bip_39_word_new_line_9: 'text
-
-  tooth
-
-  tissue
-
-  extend
-
-  teach
-
-  artefact
-
-  change
-
-  cricket
-
-  letter'
-bip_39_word_no_space_1: text
-bip_39_word_no_space_10: texttoothtissueextendteachartefactchangecricketletterfirst
-bip_39_word_no_space_11: texttoothtissueextendteachartefactchangecricketletterfirstrequire
 bip_39_word_no_space_12: texttoothtissueextendteachartefactchangecricketletterfirstrequirearrange
 bip_39_word_no_space_2: texttooth
 bip_39_word_no_space_3: texttoothtissue
-bip_39_word_no_space_4: texttoothtissueextend
-bip_39_word_no_space_5: texttoothtissueextendteach
-bip_39_word_no_space_6: texttoothtissueextendteachartefact
-bip_39_word_no_space_7: texttoothtissueextendteachartefactchange
-bip_39_word_no_space_8: texttoothtissueextendteachartefactchangecricket
-bip_39_word_no_space_9: texttoothtissueextendteachartefactchangecricketletter
-bip_39_word_space_0:
-- text
-- tooth
-- tissue
-- extend
-- teach
-- artefact
-- change
-- cricket
-- letter
-- first
-- require
-- arrange
-bip_39_word_space_1: text
-bip_39_word_space_10: text tooth tissue extend teach artefact change cricket letter
-  first
-bip_39_word_space_11: text tooth tissue extend teach artefact change cricket letter
-  first require
 bip_39_word_space_12: text tooth tissue extend teach artefact change cricket letter
   first require arrange
 bip_39_word_space_2: text tooth
 bip_39_word_space_3: text tooth tissue
-bip_39_word_space_4: text tooth tissue extend
-bip_39_word_space_5: text tooth tissue extend teach
-bip_39_word_space_6: text tooth tissue extend teach artefact
-bip_39_word_space_7: text tooth tissue extend teach artefact change
-bip_39_word_space_8: text tooth tissue extend teach artefact change cricket
-bip_39_word_space_9: text tooth tissue extend teach artefact change cricket letter
-bip_39_word_underscore_1: text
-bip_39_word_underscore_10: text_tooth_tissue_extend_teach_artefact_change_cricket_letter_first
-bip_39_word_underscore_11: text_tooth_tissue_extend_teach_artefact_change_cricket_letter_first_require
 bip_39_word_underscore_12: text_tooth_tissue_extend_teach_artefact_change_cricket_letter_first_require_arrange
 bip_39_word_underscore_2: text_tooth
 bip_39_word_underscore_3: text_tooth_tissue
-bip_39_word_underscore_4: text_tooth_tissue_extend
-bip_39_word_underscore_5: text_tooth_tissue_extend_teach
-bip_39_word_underscore_6: text_tooth_tissue_extend_teach_artefact
-bip_39_word_underscore_7: text_tooth_tissue_extend_teach_artefact_change
-bip_39_word_underscore_8: text_tooth_tissue_extend_teach_artefact_change_cricket
-bip_39_word_underscore_9: text_tooth_tissue_extend_teach_artefact_change_cricket_letter
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

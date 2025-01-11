@@ -1,68 +1,9 @@
-bip_39_word_dash_1: rude
-bip_39_word_dash_10: rude-million-flash-bar-innocent-peanut-divide-bacon-kidney-vast
-bip_39_word_dash_11: rude-million-flash-bar-innocent-peanut-divide-bacon-kidney-vast-clean
 bip_39_word_dash_12: rude-million-flash-bar-innocent-peanut-divide-bacon-kidney-vast-clean-amount
 bip_39_word_dash_2: rude-million
 bip_39_word_dash_3: rude-million-flash
-bip_39_word_dash_4: rude-million-flash-bar
-bip_39_word_dash_5: rude-million-flash-bar-innocent
-bip_39_word_dash_6: rude-million-flash-bar-innocent-peanut
-bip_39_word_dash_7: rude-million-flash-bar-innocent-peanut-divide
-bip_39_word_dash_8: rude-million-flash-bar-innocent-peanut-divide-bacon
-bip_39_word_dash_9: rude-million-flash-bar-innocent-peanut-divide-bacon-kidney
-bip_39_word_new_br_1: rude
-bip_39_word_new_br_10: rude<br>million<br>flash<br>bar<br>innocent<br>peanut<br>divide<br>bacon<br>kidney<br>vast
-bip_39_word_new_br_11: rude<br>million<br>flash<br>bar<br>innocent<br>peanut<br>divide<br>bacon<br>kidney<br>vast<br>clean
 bip_39_word_new_br_12: rude<br>million<br>flash<br>bar<br>innocent<br>peanut<br>divide<br>bacon<br>kidney<br>vast<br>clean<br>amount
 bip_39_word_new_br_2: rude<br>million
 bip_39_word_new_br_3: rude<br>million<br>flash
-bip_39_word_new_br_4: rude<br>million<br>flash<br>bar
-bip_39_word_new_br_5: rude<br>million<br>flash<br>bar<br>innocent
-bip_39_word_new_br_6: rude<br>million<br>flash<br>bar<br>innocent<br>peanut
-bip_39_word_new_br_7: rude<br>million<br>flash<br>bar<br>innocent<br>peanut<br>divide
-bip_39_word_new_br_8: rude<br>million<br>flash<br>bar<br>innocent<br>peanut<br>divide<br>bacon
-bip_39_word_new_br_9: rude<br>million<br>flash<br>bar<br>innocent<br>peanut<br>divide<br>bacon<br>kidney
-bip_39_word_new_line_1: rude
-bip_39_word_new_line_10: 'rude
-
-  million
-
-  flash
-
-  bar
-
-  innocent
-
-  peanut
-
-  divide
-
-  bacon
-
-  kidney
-
-  vast'
-bip_39_word_new_line_11: 'rude
-
-  million
-
-  flash
-
-  bar
-
-  innocent
-
-  peanut
-
-  divide
-
-  bacon
-
-  kidney
-
-  vast
-
-  clean'
 bip_39_word_new_line_12: 'rude
 
   million
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'rude
   million
 
   flash'
-bip_39_word_new_line_4: 'rude
-
-  million
-
-  flash
-
-  bar'
-bip_39_word_new_line_5: 'rude
-
-  million
-
-  flash
-
-  bar
-
-  innocent'
-bip_39_word_new_line_6: 'rude
-
-  million
-
-  flash
-
-  bar
-
-  innocent
-
-  peanut'
-bip_39_word_new_line_7: 'rude
-
-  million
-
-  flash
-
-  bar
-
-  innocent
-
-  peanut
-
-  divide'
-bip_39_word_new_line_8: 'rude
-
-  million
-
-  flash
-
-  bar
-
-  innocent
-
-  peanut
-
-  divide
-
-  bacon'
-bip_39_word_new_line_9: 'rude
-
-  million
-
-  flash
-
-  bar
-
-  innocent
-
-  peanut
-
-  divide
-
-  bacon
-
-  kidney'
-bip_39_word_no_space_1: rude
-bip_39_word_no_space_10: rudemillionflashbarinnocentpeanutdividebaconkidneyvast
-bip_39_word_no_space_11: rudemillionflashbarinnocentpeanutdividebaconkidneyvastclean
 bip_39_word_no_space_12: rudemillionflashbarinnocentpeanutdividebaconkidneyvastcleanamount
 bip_39_word_no_space_2: rudemillion
 bip_39_word_no_space_3: rudemillionflash
-bip_39_word_no_space_4: rudemillionflashbar
-bip_39_word_no_space_5: rudemillionflashbarinnocent
-bip_39_word_no_space_6: rudemillionflashbarinnocentpeanut
-bip_39_word_no_space_7: rudemillionflashbarinnocentpeanutdivide
-bip_39_word_no_space_8: rudemillionflashbarinnocentpeanutdividebacon
-bip_39_word_no_space_9: rudemillionflashbarinnocentpeanutdividebaconkidney
-bip_39_word_space_0:
-- rude
-- million
-- flash
-- bar
-- innocent
-- peanut
-- divide
-- bacon
-- kidney
-- vast
-- clean
-- amount
-bip_39_word_space_1: rude
-bip_39_word_space_10: rude million flash bar innocent peanut divide bacon kidney vast
-bip_39_word_space_11: rude million flash bar innocent peanut divide bacon kidney vast
-  clean
 bip_39_word_space_12: rude million flash bar innocent peanut divide bacon kidney vast
   clean amount
 bip_39_word_space_2: rude million
 bip_39_word_space_3: rude million flash
-bip_39_word_space_4: rude million flash bar
-bip_39_word_space_5: rude million flash bar innocent
-bip_39_word_space_6: rude million flash bar innocent peanut
-bip_39_word_space_7: rude million flash bar innocent peanut divide
-bip_39_word_space_8: rude million flash bar innocent peanut divide bacon
-bip_39_word_space_9: rude million flash bar innocent peanut divide bacon kidney
-bip_39_word_underscore_1: rude
-bip_39_word_underscore_10: rude_million_flash_bar_innocent_peanut_divide_bacon_kidney_vast
-bip_39_word_underscore_11: rude_million_flash_bar_innocent_peanut_divide_bacon_kidney_vast_clean
 bip_39_word_underscore_12: rude_million_flash_bar_innocent_peanut_divide_bacon_kidney_vast_clean_amount
 bip_39_word_underscore_2: rude_million
 bip_39_word_underscore_3: rude_million_flash
-bip_39_word_underscore_4: rude_million_flash_bar
-bip_39_word_underscore_5: rude_million_flash_bar_innocent
-bip_39_word_underscore_6: rude_million_flash_bar_innocent_peanut
-bip_39_word_underscore_7: rude_million_flash_bar_innocent_peanut_divide
-bip_39_word_underscore_8: rude_million_flash_bar_innocent_peanut_divide_bacon
-bip_39_word_underscore_9: rude_million_flash_bar_innocent_peanut_divide_bacon_kidney
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

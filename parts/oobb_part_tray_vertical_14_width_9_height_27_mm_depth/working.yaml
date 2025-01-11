@@ -1,68 +1,9 @@
-bip_39_word_dash_1: nature
-bip_39_word_dash_10: nature-dolphin-birth-blame-soldier-leader-sister-tiny-lunch-wrestle
-bip_39_word_dash_11: nature-dolphin-birth-blame-soldier-leader-sister-tiny-lunch-wrestle-select
 bip_39_word_dash_12: nature-dolphin-birth-blame-soldier-leader-sister-tiny-lunch-wrestle-select-already
 bip_39_word_dash_2: nature-dolphin
 bip_39_word_dash_3: nature-dolphin-birth
-bip_39_word_dash_4: nature-dolphin-birth-blame
-bip_39_word_dash_5: nature-dolphin-birth-blame-soldier
-bip_39_word_dash_6: nature-dolphin-birth-blame-soldier-leader
-bip_39_word_dash_7: nature-dolphin-birth-blame-soldier-leader-sister
-bip_39_word_dash_8: nature-dolphin-birth-blame-soldier-leader-sister-tiny
-bip_39_word_dash_9: nature-dolphin-birth-blame-soldier-leader-sister-tiny-lunch
-bip_39_word_new_br_1: nature
-bip_39_word_new_br_10: nature<br>dolphin<br>birth<br>blame<br>soldier<br>leader<br>sister<br>tiny<br>lunch<br>wrestle
-bip_39_word_new_br_11: nature<br>dolphin<br>birth<br>blame<br>soldier<br>leader<br>sister<br>tiny<br>lunch<br>wrestle<br>select
 bip_39_word_new_br_12: nature<br>dolphin<br>birth<br>blame<br>soldier<br>leader<br>sister<br>tiny<br>lunch<br>wrestle<br>select<br>already
 bip_39_word_new_br_2: nature<br>dolphin
 bip_39_word_new_br_3: nature<br>dolphin<br>birth
-bip_39_word_new_br_4: nature<br>dolphin<br>birth<br>blame
-bip_39_word_new_br_5: nature<br>dolphin<br>birth<br>blame<br>soldier
-bip_39_word_new_br_6: nature<br>dolphin<br>birth<br>blame<br>soldier<br>leader
-bip_39_word_new_br_7: nature<br>dolphin<br>birth<br>blame<br>soldier<br>leader<br>sister
-bip_39_word_new_br_8: nature<br>dolphin<br>birth<br>blame<br>soldier<br>leader<br>sister<br>tiny
-bip_39_word_new_br_9: nature<br>dolphin<br>birth<br>blame<br>soldier<br>leader<br>sister<br>tiny<br>lunch
-bip_39_word_new_line_1: nature
-bip_39_word_new_line_10: 'nature
-
-  dolphin
-
-  birth
-
-  blame
-
-  soldier
-
-  leader
-
-  sister
-
-  tiny
-
-  lunch
-
-  wrestle'
-bip_39_word_new_line_11: 'nature
-
-  dolphin
-
-  birth
-
-  blame
-
-  soldier
-
-  leader
-
-  sister
-
-  tiny
-
-  lunch
-
-  wrestle
-
-  select'
 bip_39_word_new_line_12: 'nature
 
   dolphin
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'nature
   dolphin
 
   birth'
-bip_39_word_new_line_4: 'nature
-
-  dolphin
-
-  birth
-
-  blame'
-bip_39_word_new_line_5: 'nature
-
-  dolphin
-
-  birth
-
-  blame
-
-  soldier'
-bip_39_word_new_line_6: 'nature
-
-  dolphin
-
-  birth
-
-  blame
-
-  soldier
-
-  leader'
-bip_39_word_new_line_7: 'nature
-
-  dolphin
-
-  birth
-
-  blame
-
-  soldier
-
-  leader
-
-  sister'
-bip_39_word_new_line_8: 'nature
-
-  dolphin
-
-  birth
-
-  blame
-
-  soldier
-
-  leader
-
-  sister
-
-  tiny'
-bip_39_word_new_line_9: 'nature
-
-  dolphin
-
-  birth
-
-  blame
-
-  soldier
-
-  leader
-
-  sister
-
-  tiny
-
-  lunch'
-bip_39_word_no_space_1: nature
-bip_39_word_no_space_10: naturedolphinbirthblamesoldierleadersistertinylunchwrestle
-bip_39_word_no_space_11: naturedolphinbirthblamesoldierleadersistertinylunchwrestleselect
 bip_39_word_no_space_12: naturedolphinbirthblamesoldierleadersistertinylunchwrestleselectalready
 bip_39_word_no_space_2: naturedolphin
 bip_39_word_no_space_3: naturedolphinbirth
-bip_39_word_no_space_4: naturedolphinbirthblame
-bip_39_word_no_space_5: naturedolphinbirthblamesoldier
-bip_39_word_no_space_6: naturedolphinbirthblamesoldierleader
-bip_39_word_no_space_7: naturedolphinbirthblamesoldierleadersister
-bip_39_word_no_space_8: naturedolphinbirthblamesoldierleadersistertiny
-bip_39_word_no_space_9: naturedolphinbirthblamesoldierleadersistertinylunch
-bip_39_word_space_0:
-- nature
-- dolphin
-- birth
-- blame
-- soldier
-- leader
-- sister
-- tiny
-- lunch
-- wrestle
-- select
-- already
-bip_39_word_space_1: nature
-bip_39_word_space_10: nature dolphin birth blame soldier leader sister tiny lunch
-  wrestle
-bip_39_word_space_11: nature dolphin birth blame soldier leader sister tiny lunch
-  wrestle select
 bip_39_word_space_12: nature dolphin birth blame soldier leader sister tiny lunch
   wrestle select already
 bip_39_word_space_2: nature dolphin
 bip_39_word_space_3: nature dolphin birth
-bip_39_word_space_4: nature dolphin birth blame
-bip_39_word_space_5: nature dolphin birth blame soldier
-bip_39_word_space_6: nature dolphin birth blame soldier leader
-bip_39_word_space_7: nature dolphin birth blame soldier leader sister
-bip_39_word_space_8: nature dolphin birth blame soldier leader sister tiny
-bip_39_word_space_9: nature dolphin birth blame soldier leader sister tiny lunch
-bip_39_word_underscore_1: nature
-bip_39_word_underscore_10: nature_dolphin_birth_blame_soldier_leader_sister_tiny_lunch_wrestle
-bip_39_word_underscore_11: nature_dolphin_birth_blame_soldier_leader_sister_tiny_lunch_wrestle_select
 bip_39_word_underscore_12: nature_dolphin_birth_blame_soldier_leader_sister_tiny_lunch_wrestle_select_already
 bip_39_word_underscore_2: nature_dolphin
 bip_39_word_underscore_3: nature_dolphin_birth
-bip_39_word_underscore_4: nature_dolphin_birth_blame
-bip_39_word_underscore_5: nature_dolphin_birth_blame_soldier
-bip_39_word_underscore_6: nature_dolphin_birth_blame_soldier_leader
-bip_39_word_underscore_7: nature_dolphin_birth_blame_soldier_leader_sister
-bip_39_word_underscore_8: nature_dolphin_birth_blame_soldier_leader_sister_tiny
-bip_39_word_underscore_9: nature_dolphin_birth_blame_soldier_leader_sister_tiny_lunch
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

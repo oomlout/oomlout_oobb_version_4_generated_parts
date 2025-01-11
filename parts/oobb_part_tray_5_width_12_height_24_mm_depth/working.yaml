@@ -1,68 +1,9 @@
-bip_39_word_dash_1: razor
-bip_39_word_dash_10: razor-remain-token-exchange-health-prepare-loan-payment-split-skin
-bip_39_word_dash_11: razor-remain-token-exchange-health-prepare-loan-payment-split-skin-judge
 bip_39_word_dash_12: razor-remain-token-exchange-health-prepare-loan-payment-split-skin-judge-act
 bip_39_word_dash_2: razor-remain
 bip_39_word_dash_3: razor-remain-token
-bip_39_word_dash_4: razor-remain-token-exchange
-bip_39_word_dash_5: razor-remain-token-exchange-health
-bip_39_word_dash_6: razor-remain-token-exchange-health-prepare
-bip_39_word_dash_7: razor-remain-token-exchange-health-prepare-loan
-bip_39_word_dash_8: razor-remain-token-exchange-health-prepare-loan-payment
-bip_39_word_dash_9: razor-remain-token-exchange-health-prepare-loan-payment-split
-bip_39_word_new_br_1: razor
-bip_39_word_new_br_10: razor<br>remain<br>token<br>exchange<br>health<br>prepare<br>loan<br>payment<br>split<br>skin
-bip_39_word_new_br_11: razor<br>remain<br>token<br>exchange<br>health<br>prepare<br>loan<br>payment<br>split<br>skin<br>judge
 bip_39_word_new_br_12: razor<br>remain<br>token<br>exchange<br>health<br>prepare<br>loan<br>payment<br>split<br>skin<br>judge<br>act
 bip_39_word_new_br_2: razor<br>remain
 bip_39_word_new_br_3: razor<br>remain<br>token
-bip_39_word_new_br_4: razor<br>remain<br>token<br>exchange
-bip_39_word_new_br_5: razor<br>remain<br>token<br>exchange<br>health
-bip_39_word_new_br_6: razor<br>remain<br>token<br>exchange<br>health<br>prepare
-bip_39_word_new_br_7: razor<br>remain<br>token<br>exchange<br>health<br>prepare<br>loan
-bip_39_word_new_br_8: razor<br>remain<br>token<br>exchange<br>health<br>prepare<br>loan<br>payment
-bip_39_word_new_br_9: razor<br>remain<br>token<br>exchange<br>health<br>prepare<br>loan<br>payment<br>split
-bip_39_word_new_line_1: razor
-bip_39_word_new_line_10: 'razor
-
-  remain
-
-  token
-
-  exchange
-
-  health
-
-  prepare
-
-  loan
-
-  payment
-
-  split
-
-  skin'
-bip_39_word_new_line_11: 'razor
-
-  remain
-
-  token
-
-  exchange
-
-  health
-
-  prepare
-
-  loan
-
-  payment
-
-  split
-
-  skin
-
-  judge'
 bip_39_word_new_line_12: 'razor
 
   remain
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'razor
   remain
 
   token'
-bip_39_word_new_line_4: 'razor
-
-  remain
-
-  token
-
-  exchange'
-bip_39_word_new_line_5: 'razor
-
-  remain
-
-  token
-
-  exchange
-
-  health'
-bip_39_word_new_line_6: 'razor
-
-  remain
-
-  token
-
-  exchange
-
-  health
-
-  prepare'
-bip_39_word_new_line_7: 'razor
-
-  remain
-
-  token
-
-  exchange
-
-  health
-
-  prepare
-
-  loan'
-bip_39_word_new_line_8: 'razor
-
-  remain
-
-  token
-
-  exchange
-
-  health
-
-  prepare
-
-  loan
-
-  payment'
-bip_39_word_new_line_9: 'razor
-
-  remain
-
-  token
-
-  exchange
-
-  health
-
-  prepare
-
-  loan
-
-  payment
-
-  split'
-bip_39_word_no_space_1: razor
-bip_39_word_no_space_10: razorremaintokenexchangehealthprepareloanpaymentsplitskin
-bip_39_word_no_space_11: razorremaintokenexchangehealthprepareloanpaymentsplitskinjudge
 bip_39_word_no_space_12: razorremaintokenexchangehealthprepareloanpaymentsplitskinjudgeact
 bip_39_word_no_space_2: razorremain
 bip_39_word_no_space_3: razorremaintoken
-bip_39_word_no_space_4: razorremaintokenexchange
-bip_39_word_no_space_5: razorremaintokenexchangehealth
-bip_39_word_no_space_6: razorremaintokenexchangehealthprepare
-bip_39_word_no_space_7: razorremaintokenexchangehealthprepareloan
-bip_39_word_no_space_8: razorremaintokenexchangehealthprepareloanpayment
-bip_39_word_no_space_9: razorremaintokenexchangehealthprepareloanpaymentsplit
-bip_39_word_space_0:
-- razor
-- remain
-- token
-- exchange
-- health
-- prepare
-- loan
-- payment
-- split
-- skin
-- judge
-- act
-bip_39_word_space_1: razor
-bip_39_word_space_10: razor remain token exchange health prepare loan payment split
-  skin
-bip_39_word_space_11: razor remain token exchange health prepare loan payment split
-  skin judge
 bip_39_word_space_12: razor remain token exchange health prepare loan payment split
   skin judge act
 bip_39_word_space_2: razor remain
 bip_39_word_space_3: razor remain token
-bip_39_word_space_4: razor remain token exchange
-bip_39_word_space_5: razor remain token exchange health
-bip_39_word_space_6: razor remain token exchange health prepare
-bip_39_word_space_7: razor remain token exchange health prepare loan
-bip_39_word_space_8: razor remain token exchange health prepare loan payment
-bip_39_word_space_9: razor remain token exchange health prepare loan payment split
-bip_39_word_underscore_1: razor
-bip_39_word_underscore_10: razor_remain_token_exchange_health_prepare_loan_payment_split_skin
-bip_39_word_underscore_11: razor_remain_token_exchange_health_prepare_loan_payment_split_skin_judge
 bip_39_word_underscore_12: razor_remain_token_exchange_health_prepare_loan_payment_split_skin_judge_act
 bip_39_word_underscore_2: razor_remain
 bip_39_word_underscore_3: razor_remain_token
-bip_39_word_underscore_4: razor_remain_token_exchange
-bip_39_word_underscore_5: razor_remain_token_exchange_health
-bip_39_word_underscore_6: razor_remain_token_exchange_health_prepare
-bip_39_word_underscore_7: razor_remain_token_exchange_health_prepare_loan
-bip_39_word_underscore_8: razor_remain_token_exchange_health_prepare_loan_payment
-bip_39_word_underscore_9: razor_remain_token_exchange_health_prepare_loan_payment_split
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: hungry
-bip_39_word_dash_10: hungry-coffee-galaxy-inside-north-smoke-spoil-absurd-crime-verify
-bip_39_word_dash_11: hungry-coffee-galaxy-inside-north-smoke-spoil-absurd-crime-verify-rely
 bip_39_word_dash_12: hungry-coffee-galaxy-inside-north-smoke-spoil-absurd-crime-verify-rely-auto
 bip_39_word_dash_2: hungry-coffee
 bip_39_word_dash_3: hungry-coffee-galaxy
-bip_39_word_dash_4: hungry-coffee-galaxy-inside
-bip_39_word_dash_5: hungry-coffee-galaxy-inside-north
-bip_39_word_dash_6: hungry-coffee-galaxy-inside-north-smoke
-bip_39_word_dash_7: hungry-coffee-galaxy-inside-north-smoke-spoil
-bip_39_word_dash_8: hungry-coffee-galaxy-inside-north-smoke-spoil-absurd
-bip_39_word_dash_9: hungry-coffee-galaxy-inside-north-smoke-spoil-absurd-crime
-bip_39_word_new_br_1: hungry
-bip_39_word_new_br_10: hungry<br>coffee<br>galaxy<br>inside<br>north<br>smoke<br>spoil<br>absurd<br>crime<br>verify
-bip_39_word_new_br_11: hungry<br>coffee<br>galaxy<br>inside<br>north<br>smoke<br>spoil<br>absurd<br>crime<br>verify<br>rely
 bip_39_word_new_br_12: hungry<br>coffee<br>galaxy<br>inside<br>north<br>smoke<br>spoil<br>absurd<br>crime<br>verify<br>rely<br>auto
 bip_39_word_new_br_2: hungry<br>coffee
 bip_39_word_new_br_3: hungry<br>coffee<br>galaxy
-bip_39_word_new_br_4: hungry<br>coffee<br>galaxy<br>inside
-bip_39_word_new_br_5: hungry<br>coffee<br>galaxy<br>inside<br>north
-bip_39_word_new_br_6: hungry<br>coffee<br>galaxy<br>inside<br>north<br>smoke
-bip_39_word_new_br_7: hungry<br>coffee<br>galaxy<br>inside<br>north<br>smoke<br>spoil
-bip_39_word_new_br_8: hungry<br>coffee<br>galaxy<br>inside<br>north<br>smoke<br>spoil<br>absurd
-bip_39_word_new_br_9: hungry<br>coffee<br>galaxy<br>inside<br>north<br>smoke<br>spoil<br>absurd<br>crime
-bip_39_word_new_line_1: hungry
-bip_39_word_new_line_10: 'hungry
-
-  coffee
-
-  galaxy
-
-  inside
-
-  north
-
-  smoke
-
-  spoil
-
-  absurd
-
-  crime
-
-  verify'
-bip_39_word_new_line_11: 'hungry
-
-  coffee
-
-  galaxy
-
-  inside
-
-  north
-
-  smoke
-
-  spoil
-
-  absurd
-
-  crime
-
-  verify
-
-  rely'
 bip_39_word_new_line_12: 'hungry
 
   coffee
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'hungry
   coffee
 
   galaxy'
-bip_39_word_new_line_4: 'hungry
-
-  coffee
-
-  galaxy
-
-  inside'
-bip_39_word_new_line_5: 'hungry
-
-  coffee
-
-  galaxy
-
-  inside
-
-  north'
-bip_39_word_new_line_6: 'hungry
-
-  coffee
-
-  galaxy
-
-  inside
-
-  north
-
-  smoke'
-bip_39_word_new_line_7: 'hungry
-
-  coffee
-
-  galaxy
-
-  inside
-
-  north
-
-  smoke
-
-  spoil'
-bip_39_word_new_line_8: 'hungry
-
-  coffee
-
-  galaxy
-
-  inside
-
-  north
-
-  smoke
-
-  spoil
-
-  absurd'
-bip_39_word_new_line_9: 'hungry
-
-  coffee
-
-  galaxy
-
-  inside
-
-  north
-
-  smoke
-
-  spoil
-
-  absurd
-
-  crime'
-bip_39_word_no_space_1: hungry
-bip_39_word_no_space_10: hungrycoffeegalaxyinsidenorthsmokespoilabsurdcrimeverify
-bip_39_word_no_space_11: hungrycoffeegalaxyinsidenorthsmokespoilabsurdcrimeverifyrely
 bip_39_word_no_space_12: hungrycoffeegalaxyinsidenorthsmokespoilabsurdcrimeverifyrelyauto
 bip_39_word_no_space_2: hungrycoffee
 bip_39_word_no_space_3: hungrycoffeegalaxy
-bip_39_word_no_space_4: hungrycoffeegalaxyinside
-bip_39_word_no_space_5: hungrycoffeegalaxyinsidenorth
-bip_39_word_no_space_6: hungrycoffeegalaxyinsidenorthsmoke
-bip_39_word_no_space_7: hungrycoffeegalaxyinsidenorthsmokespoil
-bip_39_word_no_space_8: hungrycoffeegalaxyinsidenorthsmokespoilabsurd
-bip_39_word_no_space_9: hungrycoffeegalaxyinsidenorthsmokespoilabsurdcrime
-bip_39_word_space_0:
-- hungry
-- coffee
-- galaxy
-- inside
-- north
-- smoke
-- spoil
-- absurd
-- crime
-- verify
-- rely
-- auto
-bip_39_word_space_1: hungry
-bip_39_word_space_10: hungry coffee galaxy inside north smoke spoil absurd crime verify
-bip_39_word_space_11: hungry coffee galaxy inside north smoke spoil absurd crime verify
-  rely
 bip_39_word_space_12: hungry coffee galaxy inside north smoke spoil absurd crime verify
   rely auto
 bip_39_word_space_2: hungry coffee
 bip_39_word_space_3: hungry coffee galaxy
-bip_39_word_space_4: hungry coffee galaxy inside
-bip_39_word_space_5: hungry coffee galaxy inside north
-bip_39_word_space_6: hungry coffee galaxy inside north smoke
-bip_39_word_space_7: hungry coffee galaxy inside north smoke spoil
-bip_39_word_space_8: hungry coffee galaxy inside north smoke spoil absurd
-bip_39_word_space_9: hungry coffee galaxy inside north smoke spoil absurd crime
-bip_39_word_underscore_1: hungry
-bip_39_word_underscore_10: hungry_coffee_galaxy_inside_north_smoke_spoil_absurd_crime_verify
-bip_39_word_underscore_11: hungry_coffee_galaxy_inside_north_smoke_spoil_absurd_crime_verify_rely
 bip_39_word_underscore_12: hungry_coffee_galaxy_inside_north_smoke_spoil_absurd_crime_verify_rely_auto
 bip_39_word_underscore_2: hungry_coffee
 bip_39_word_underscore_3: hungry_coffee_galaxy
-bip_39_word_underscore_4: hungry_coffee_galaxy_inside
-bip_39_word_underscore_5: hungry_coffee_galaxy_inside_north
-bip_39_word_underscore_6: hungry_coffee_galaxy_inside_north_smoke
-bip_39_word_underscore_7: hungry_coffee_galaxy_inside_north_smoke_spoil
-bip_39_word_underscore_8: hungry_coffee_galaxy_inside_north_smoke_spoil_absurd
-bip_39_word_underscore_9: hungry_coffee_galaxy_inside_north_smoke_spoil_absurd_crime
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

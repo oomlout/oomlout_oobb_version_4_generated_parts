@@ -1,45 +1,9 @@
-bip_39_word_dash_1: canal
-bip_39_word_dash_10: canal-feed-load-drink-romance-inflict-wedding-remain-spread-mimic
 bip_39_word_dash_11: canal-feed-load-drink-romance-inflict-wedding-remain-spread-mimic-trick
 bip_39_word_dash_2: canal-feed
 bip_39_word_dash_3: canal-feed-load
-bip_39_word_dash_4: canal-feed-load-drink
-bip_39_word_dash_5: canal-feed-load-drink-romance
-bip_39_word_dash_6: canal-feed-load-drink-romance-inflict
-bip_39_word_dash_7: canal-feed-load-drink-romance-inflict-wedding
-bip_39_word_dash_8: canal-feed-load-drink-romance-inflict-wedding-remain
-bip_39_word_dash_9: canal-feed-load-drink-romance-inflict-wedding-remain-spread
-bip_39_word_new_br_1: canal
-bip_39_word_new_br_10: canal<br>feed<br>load<br>drink<br>romance<br>inflict<br>wedding<br>remain<br>spread<br>mimic
 bip_39_word_new_br_11: canal<br>feed<br>load<br>drink<br>romance<br>inflict<br>wedding<br>remain<br>spread<br>mimic<br>trick
 bip_39_word_new_br_2: canal<br>feed
 bip_39_word_new_br_3: canal<br>feed<br>load
-bip_39_word_new_br_4: canal<br>feed<br>load<br>drink
-bip_39_word_new_br_5: canal<br>feed<br>load<br>drink<br>romance
-bip_39_word_new_br_6: canal<br>feed<br>load<br>drink<br>romance<br>inflict
-bip_39_word_new_br_7: canal<br>feed<br>load<br>drink<br>romance<br>inflict<br>wedding
-bip_39_word_new_br_8: canal<br>feed<br>load<br>drink<br>romance<br>inflict<br>wedding<br>remain
-bip_39_word_new_br_9: canal<br>feed<br>load<br>drink<br>romance<br>inflict<br>wedding<br>remain<br>spread
-bip_39_word_new_line_1: canal
-bip_39_word_new_line_10: 'canal
-
-  feed
-
-  load
-
-  drink
-
-  romance
-
-  inflict
-
-  wedding
-
-  remain
-
-  spread
-
-  mimic'
 bip_39_word_new_line_11: 'canal
 
   feed
@@ -69,125 +33,16 @@ bip_39_word_new_line_3: 'canal
   feed
 
   load'
-bip_39_word_new_line_4: 'canal
-
-  feed
-
-  load
-
-  drink'
-bip_39_word_new_line_5: 'canal
-
-  feed
-
-  load
-
-  drink
-
-  romance'
-bip_39_word_new_line_6: 'canal
-
-  feed
-
-  load
-
-  drink
-
-  romance
-
-  inflict'
-bip_39_word_new_line_7: 'canal
-
-  feed
-
-  load
-
-  drink
-
-  romance
-
-  inflict
-
-  wedding'
-bip_39_word_new_line_8: 'canal
-
-  feed
-
-  load
-
-  drink
-
-  romance
-
-  inflict
-
-  wedding
-
-  remain'
-bip_39_word_new_line_9: 'canal
-
-  feed
-
-  load
-
-  drink
-
-  romance
-
-  inflict
-
-  wedding
-
-  remain
-
-  spread'
-bip_39_word_no_space_1: canal
-bip_39_word_no_space_10: canalfeedloaddrinkromanceinflictweddingremainspreadmimic
 bip_39_word_no_space_11: canalfeedloaddrinkromanceinflictweddingremainspreadmimictrick
 bip_39_word_no_space_2: canalfeed
 bip_39_word_no_space_3: canalfeedload
-bip_39_word_no_space_4: canalfeedloaddrink
-bip_39_word_no_space_5: canalfeedloaddrinkromance
-bip_39_word_no_space_6: canalfeedloaddrinkromanceinflict
-bip_39_word_no_space_7: canalfeedloaddrinkromanceinflictwedding
-bip_39_word_no_space_8: canalfeedloaddrinkromanceinflictweddingremain
-bip_39_word_no_space_9: canalfeedloaddrinkromanceinflictweddingremainspread
-bip_39_word_space_0:
-- canal
-- feed
-- load
-- drink
-- romance
-- inflict
-- wedding
-- remain
-- spread
-- mimic
-- trick
-bip_39_word_space_1: canal
-bip_39_word_space_10: canal feed load drink romance inflict wedding remain spread
-  mimic
 bip_39_word_space_11: canal feed load drink romance inflict wedding remain spread
   mimic trick
 bip_39_word_space_2: canal feed
 bip_39_word_space_3: canal feed load
-bip_39_word_space_4: canal feed load drink
-bip_39_word_space_5: canal feed load drink romance
-bip_39_word_space_6: canal feed load drink romance inflict
-bip_39_word_space_7: canal feed load drink romance inflict wedding
-bip_39_word_space_8: canal feed load drink romance inflict wedding remain
-bip_39_word_space_9: canal feed load drink romance inflict wedding remain spread
-bip_39_word_underscore_1: canal
-bip_39_word_underscore_10: canal_feed_load_drink_romance_inflict_wedding_remain_spread_mimic
 bip_39_word_underscore_11: canal_feed_load_drink_romance_inflict_wedding_remain_spread_mimic_trick
 bip_39_word_underscore_2: canal_feed
 bip_39_word_underscore_3: canal_feed_load
-bip_39_word_underscore_4: canal_feed_load_drink
-bip_39_word_underscore_5: canal_feed_load_drink_romance
-bip_39_word_underscore_6: canal_feed_load_drink_romance_inflict
-bip_39_word_underscore_7: canal_feed_load_drink_romance_inflict_wedding
-bip_39_word_underscore_8: canal_feed_load_drink_romance_inflict_wedding_remain
-bip_39_word_underscore_9: canal_feed_load_drink_romance_inflict_wedding_remain_spread
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: glue
-bip_39_word_dash_10: glue-dose-decade-approve-satisfy-physical-couple-case-exclude-actor
-bip_39_word_dash_11: glue-dose-decade-approve-satisfy-physical-couple-case-exclude-actor-basket
 bip_39_word_dash_12: glue-dose-decade-approve-satisfy-physical-couple-case-exclude-actor-basket-act
 bip_39_word_dash_2: glue-dose
 bip_39_word_dash_3: glue-dose-decade
-bip_39_word_dash_4: glue-dose-decade-approve
-bip_39_word_dash_5: glue-dose-decade-approve-satisfy
-bip_39_word_dash_6: glue-dose-decade-approve-satisfy-physical
-bip_39_word_dash_7: glue-dose-decade-approve-satisfy-physical-couple
-bip_39_word_dash_8: glue-dose-decade-approve-satisfy-physical-couple-case
-bip_39_word_dash_9: glue-dose-decade-approve-satisfy-physical-couple-case-exclude
-bip_39_word_new_br_1: glue
-bip_39_word_new_br_10: glue<br>dose<br>decade<br>approve<br>satisfy<br>physical<br>couple<br>case<br>exclude<br>actor
-bip_39_word_new_br_11: glue<br>dose<br>decade<br>approve<br>satisfy<br>physical<br>couple<br>case<br>exclude<br>actor<br>basket
 bip_39_word_new_br_12: glue<br>dose<br>decade<br>approve<br>satisfy<br>physical<br>couple<br>case<br>exclude<br>actor<br>basket<br>act
 bip_39_word_new_br_2: glue<br>dose
 bip_39_word_new_br_3: glue<br>dose<br>decade
-bip_39_word_new_br_4: glue<br>dose<br>decade<br>approve
-bip_39_word_new_br_5: glue<br>dose<br>decade<br>approve<br>satisfy
-bip_39_word_new_br_6: glue<br>dose<br>decade<br>approve<br>satisfy<br>physical
-bip_39_word_new_br_7: glue<br>dose<br>decade<br>approve<br>satisfy<br>physical<br>couple
-bip_39_word_new_br_8: glue<br>dose<br>decade<br>approve<br>satisfy<br>physical<br>couple<br>case
-bip_39_word_new_br_9: glue<br>dose<br>decade<br>approve<br>satisfy<br>physical<br>couple<br>case<br>exclude
-bip_39_word_new_line_1: glue
-bip_39_word_new_line_10: 'glue
-
-  dose
-
-  decade
-
-  approve
-
-  satisfy
-
-  physical
-
-  couple
-
-  case
-
-  exclude
-
-  actor'
-bip_39_word_new_line_11: 'glue
-
-  dose
-
-  decade
-
-  approve
-
-  satisfy
-
-  physical
-
-  couple
-
-  case
-
-  exclude
-
-  actor
-
-  basket'
 bip_39_word_new_line_12: 'glue
 
   dose
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'glue
   dose
 
   decade'
-bip_39_word_new_line_4: 'glue
-
-  dose
-
-  decade
-
-  approve'
-bip_39_word_new_line_5: 'glue
-
-  dose
-
-  decade
-
-  approve
-
-  satisfy'
-bip_39_word_new_line_6: 'glue
-
-  dose
-
-  decade
-
-  approve
-
-  satisfy
-
-  physical'
-bip_39_word_new_line_7: 'glue
-
-  dose
-
-  decade
-
-  approve
-
-  satisfy
-
-  physical
-
-  couple'
-bip_39_word_new_line_8: 'glue
-
-  dose
-
-  decade
-
-  approve
-
-  satisfy
-
-  physical
-
-  couple
-
-  case'
-bip_39_word_new_line_9: 'glue
-
-  dose
-
-  decade
-
-  approve
-
-  satisfy
-
-  physical
-
-  couple
-
-  case
-
-  exclude'
-bip_39_word_no_space_1: glue
-bip_39_word_no_space_10: gluedosedecadeapprovesatisfyphysicalcouplecaseexcludeactor
-bip_39_word_no_space_11: gluedosedecadeapprovesatisfyphysicalcouplecaseexcludeactorbasket
 bip_39_word_no_space_12: gluedosedecadeapprovesatisfyphysicalcouplecaseexcludeactorbasketact
 bip_39_word_no_space_2: gluedose
 bip_39_word_no_space_3: gluedosedecade
-bip_39_word_no_space_4: gluedosedecadeapprove
-bip_39_word_no_space_5: gluedosedecadeapprovesatisfy
-bip_39_word_no_space_6: gluedosedecadeapprovesatisfyphysical
-bip_39_word_no_space_7: gluedosedecadeapprovesatisfyphysicalcouple
-bip_39_word_no_space_8: gluedosedecadeapprovesatisfyphysicalcouplecase
-bip_39_word_no_space_9: gluedosedecadeapprovesatisfyphysicalcouplecaseexclude
-bip_39_word_space_0:
-- glue
-- dose
-- decade
-- approve
-- satisfy
-- physical
-- couple
-- case
-- exclude
-- actor
-- basket
-- act
-bip_39_word_space_1: glue
-bip_39_word_space_10: glue dose decade approve satisfy physical couple case exclude
-  actor
-bip_39_word_space_11: glue dose decade approve satisfy physical couple case exclude
-  actor basket
 bip_39_word_space_12: glue dose decade approve satisfy physical couple case exclude
   actor basket act
 bip_39_word_space_2: glue dose
 bip_39_word_space_3: glue dose decade
-bip_39_word_space_4: glue dose decade approve
-bip_39_word_space_5: glue dose decade approve satisfy
-bip_39_word_space_6: glue dose decade approve satisfy physical
-bip_39_word_space_7: glue dose decade approve satisfy physical couple
-bip_39_word_space_8: glue dose decade approve satisfy physical couple case
-bip_39_word_space_9: glue dose decade approve satisfy physical couple case exclude
-bip_39_word_underscore_1: glue
-bip_39_word_underscore_10: glue_dose_decade_approve_satisfy_physical_couple_case_exclude_actor
-bip_39_word_underscore_11: glue_dose_decade_approve_satisfy_physical_couple_case_exclude_actor_basket
 bip_39_word_underscore_12: glue_dose_decade_approve_satisfy_physical_couple_case_exclude_actor_basket_act
 bip_39_word_underscore_2: glue_dose
 bip_39_word_underscore_3: glue_dose_decade
-bip_39_word_underscore_4: glue_dose_decade_approve
-bip_39_word_underscore_5: glue_dose_decade_approve_satisfy
-bip_39_word_underscore_6: glue_dose_decade_approve_satisfy_physical
-bip_39_word_underscore_7: glue_dose_decade_approve_satisfy_physical_couple
-bip_39_word_underscore_8: glue_dose_decade_approve_satisfy_physical_couple_case
-bip_39_word_underscore_9: glue_dose_decade_approve_satisfy_physical_couple_case_exclude
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

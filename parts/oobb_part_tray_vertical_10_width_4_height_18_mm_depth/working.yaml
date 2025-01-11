@@ -1,68 +1,9 @@
-bip_39_word_dash_1: mesh
-bip_39_word_dash_10: mesh-course-clock-thumb-game-bench-elder-mutual-damp-seek
-bip_39_word_dash_11: mesh-course-clock-thumb-game-bench-elder-mutual-damp-seek-eternal
 bip_39_word_dash_12: mesh-course-clock-thumb-game-bench-elder-mutual-damp-seek-eternal-alien
 bip_39_word_dash_2: mesh-course
 bip_39_word_dash_3: mesh-course-clock
-bip_39_word_dash_4: mesh-course-clock-thumb
-bip_39_word_dash_5: mesh-course-clock-thumb-game
-bip_39_word_dash_6: mesh-course-clock-thumb-game-bench
-bip_39_word_dash_7: mesh-course-clock-thumb-game-bench-elder
-bip_39_word_dash_8: mesh-course-clock-thumb-game-bench-elder-mutual
-bip_39_word_dash_9: mesh-course-clock-thumb-game-bench-elder-mutual-damp
-bip_39_word_new_br_1: mesh
-bip_39_word_new_br_10: mesh<br>course<br>clock<br>thumb<br>game<br>bench<br>elder<br>mutual<br>damp<br>seek
-bip_39_word_new_br_11: mesh<br>course<br>clock<br>thumb<br>game<br>bench<br>elder<br>mutual<br>damp<br>seek<br>eternal
 bip_39_word_new_br_12: mesh<br>course<br>clock<br>thumb<br>game<br>bench<br>elder<br>mutual<br>damp<br>seek<br>eternal<br>alien
 bip_39_word_new_br_2: mesh<br>course
 bip_39_word_new_br_3: mesh<br>course<br>clock
-bip_39_word_new_br_4: mesh<br>course<br>clock<br>thumb
-bip_39_word_new_br_5: mesh<br>course<br>clock<br>thumb<br>game
-bip_39_word_new_br_6: mesh<br>course<br>clock<br>thumb<br>game<br>bench
-bip_39_word_new_br_7: mesh<br>course<br>clock<br>thumb<br>game<br>bench<br>elder
-bip_39_word_new_br_8: mesh<br>course<br>clock<br>thumb<br>game<br>bench<br>elder<br>mutual
-bip_39_word_new_br_9: mesh<br>course<br>clock<br>thumb<br>game<br>bench<br>elder<br>mutual<br>damp
-bip_39_word_new_line_1: mesh
-bip_39_word_new_line_10: 'mesh
-
-  course
-
-  clock
-
-  thumb
-
-  game
-
-  bench
-
-  elder
-
-  mutual
-
-  damp
-
-  seek'
-bip_39_word_new_line_11: 'mesh
-
-  course
-
-  clock
-
-  thumb
-
-  game
-
-  bench
-
-  elder
-
-  mutual
-
-  damp
-
-  seek
-
-  eternal'
 bip_39_word_new_line_12: 'mesh
 
   course
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'mesh
   course
 
   clock'
-bip_39_word_new_line_4: 'mesh
-
-  course
-
-  clock
-
-  thumb'
-bip_39_word_new_line_5: 'mesh
-
-  course
-
-  clock
-
-  thumb
-
-  game'
-bip_39_word_new_line_6: 'mesh
-
-  course
-
-  clock
-
-  thumb
-
-  game
-
-  bench'
-bip_39_word_new_line_7: 'mesh
-
-  course
-
-  clock
-
-  thumb
-
-  game
-
-  bench
-
-  elder'
-bip_39_word_new_line_8: 'mesh
-
-  course
-
-  clock
-
-  thumb
-
-  game
-
-  bench
-
-  elder
-
-  mutual'
-bip_39_word_new_line_9: 'mesh
-
-  course
-
-  clock
-
-  thumb
-
-  game
-
-  bench
-
-  elder
-
-  mutual
-
-  damp'
-bip_39_word_no_space_1: mesh
-bip_39_word_no_space_10: meshcourseclockthumbgamebencheldermutualdampseek
-bip_39_word_no_space_11: meshcourseclockthumbgamebencheldermutualdampseeketernal
 bip_39_word_no_space_12: meshcourseclockthumbgamebencheldermutualdampseeketernalalien
 bip_39_word_no_space_2: meshcourse
 bip_39_word_no_space_3: meshcourseclock
-bip_39_word_no_space_4: meshcourseclockthumb
-bip_39_word_no_space_5: meshcourseclockthumbgame
-bip_39_word_no_space_6: meshcourseclockthumbgamebench
-bip_39_word_no_space_7: meshcourseclockthumbgamebenchelder
-bip_39_word_no_space_8: meshcourseclockthumbgamebencheldermutual
-bip_39_word_no_space_9: meshcourseclockthumbgamebencheldermutualdamp
-bip_39_word_space_0:
-- mesh
-- course
-- clock
-- thumb
-- game
-- bench
-- elder
-- mutual
-- damp
-- seek
-- eternal
-- alien
-bip_39_word_space_1: mesh
-bip_39_word_space_10: mesh course clock thumb game bench elder mutual damp seek
-bip_39_word_space_11: mesh course clock thumb game bench elder mutual damp seek eternal
 bip_39_word_space_12: mesh course clock thumb game bench elder mutual damp seek eternal
   alien
 bip_39_word_space_2: mesh course
 bip_39_word_space_3: mesh course clock
-bip_39_word_space_4: mesh course clock thumb
-bip_39_word_space_5: mesh course clock thumb game
-bip_39_word_space_6: mesh course clock thumb game bench
-bip_39_word_space_7: mesh course clock thumb game bench elder
-bip_39_word_space_8: mesh course clock thumb game bench elder mutual
-bip_39_word_space_9: mesh course clock thumb game bench elder mutual damp
-bip_39_word_underscore_1: mesh
-bip_39_word_underscore_10: mesh_course_clock_thumb_game_bench_elder_mutual_damp_seek
-bip_39_word_underscore_11: mesh_course_clock_thumb_game_bench_elder_mutual_damp_seek_eternal
 bip_39_word_underscore_12: mesh_course_clock_thumb_game_bench_elder_mutual_damp_seek_eternal_alien
 bip_39_word_underscore_2: mesh_course
 bip_39_word_underscore_3: mesh_course_clock
-bip_39_word_underscore_4: mesh_course_clock_thumb
-bip_39_word_underscore_5: mesh_course_clock_thumb_game
-bip_39_word_underscore_6: mesh_course_clock_thumb_game_bench
-bip_39_word_underscore_7: mesh_course_clock_thumb_game_bench_elder
-bip_39_word_underscore_8: mesh_course_clock_thumb_game_bench_elder_mutual
-bip_39_word_underscore_9: mesh_course_clock_thumb_game_bench_elder_mutual_damp
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: zone
-bip_39_word_dash_10: zone-salad-turkey-satoshi-clay-ability-legend-destroy-concert-shield
-bip_39_word_dash_11: zone-salad-turkey-satoshi-clay-ability-legend-destroy-concert-shield-flee
 bip_39_word_dash_12: zone-salad-turkey-satoshi-clay-ability-legend-destroy-concert-shield-flee-alcohol
 bip_39_word_dash_2: zone-salad
 bip_39_word_dash_3: zone-salad-turkey
-bip_39_word_dash_4: zone-salad-turkey-satoshi
-bip_39_word_dash_5: zone-salad-turkey-satoshi-clay
-bip_39_word_dash_6: zone-salad-turkey-satoshi-clay-ability
-bip_39_word_dash_7: zone-salad-turkey-satoshi-clay-ability-legend
-bip_39_word_dash_8: zone-salad-turkey-satoshi-clay-ability-legend-destroy
-bip_39_word_dash_9: zone-salad-turkey-satoshi-clay-ability-legend-destroy-concert
-bip_39_word_new_br_1: zone
-bip_39_word_new_br_10: zone<br>salad<br>turkey<br>satoshi<br>clay<br>ability<br>legend<br>destroy<br>concert<br>shield
-bip_39_word_new_br_11: zone<br>salad<br>turkey<br>satoshi<br>clay<br>ability<br>legend<br>destroy<br>concert<br>shield<br>flee
 bip_39_word_new_br_12: zone<br>salad<br>turkey<br>satoshi<br>clay<br>ability<br>legend<br>destroy<br>concert<br>shield<br>flee<br>alcohol
 bip_39_word_new_br_2: zone<br>salad
 bip_39_word_new_br_3: zone<br>salad<br>turkey
-bip_39_word_new_br_4: zone<br>salad<br>turkey<br>satoshi
-bip_39_word_new_br_5: zone<br>salad<br>turkey<br>satoshi<br>clay
-bip_39_word_new_br_6: zone<br>salad<br>turkey<br>satoshi<br>clay<br>ability
-bip_39_word_new_br_7: zone<br>salad<br>turkey<br>satoshi<br>clay<br>ability<br>legend
-bip_39_word_new_br_8: zone<br>salad<br>turkey<br>satoshi<br>clay<br>ability<br>legend<br>destroy
-bip_39_word_new_br_9: zone<br>salad<br>turkey<br>satoshi<br>clay<br>ability<br>legend<br>destroy<br>concert
-bip_39_word_new_line_1: zone
-bip_39_word_new_line_10: 'zone
-
-  salad
-
-  turkey
-
-  satoshi
-
-  clay
-
-  ability
-
-  legend
-
-  destroy
-
-  concert
-
-  shield'
-bip_39_word_new_line_11: 'zone
-
-  salad
-
-  turkey
-
-  satoshi
-
-  clay
-
-  ability
-
-  legend
-
-  destroy
-
-  concert
-
-  shield
-
-  flee'
 bip_39_word_new_line_12: 'zone
 
   salad
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'zone
   salad
 
   turkey'
-bip_39_word_new_line_4: 'zone
-
-  salad
-
-  turkey
-
-  satoshi'
-bip_39_word_new_line_5: 'zone
-
-  salad
-
-  turkey
-
-  satoshi
-
-  clay'
-bip_39_word_new_line_6: 'zone
-
-  salad
-
-  turkey
-
-  satoshi
-
-  clay
-
-  ability'
-bip_39_word_new_line_7: 'zone
-
-  salad
-
-  turkey
-
-  satoshi
-
-  clay
-
-  ability
-
-  legend'
-bip_39_word_new_line_8: 'zone
-
-  salad
-
-  turkey
-
-  satoshi
-
-  clay
-
-  ability
-
-  legend
-
-  destroy'
-bip_39_word_new_line_9: 'zone
-
-  salad
-
-  turkey
-
-  satoshi
-
-  clay
-
-  ability
-
-  legend
-
-  destroy
-
-  concert'
-bip_39_word_no_space_1: zone
-bip_39_word_no_space_10: zonesaladturkeysatoshiclayabilitylegenddestroyconcertshield
-bip_39_word_no_space_11: zonesaladturkeysatoshiclayabilitylegenddestroyconcertshieldflee
 bip_39_word_no_space_12: zonesaladturkeysatoshiclayabilitylegenddestroyconcertshieldfleealcohol
 bip_39_word_no_space_2: zonesalad
 bip_39_word_no_space_3: zonesaladturkey
-bip_39_word_no_space_4: zonesaladturkeysatoshi
-bip_39_word_no_space_5: zonesaladturkeysatoshiclay
-bip_39_word_no_space_6: zonesaladturkeysatoshiclayability
-bip_39_word_no_space_7: zonesaladturkeysatoshiclayabilitylegend
-bip_39_word_no_space_8: zonesaladturkeysatoshiclayabilitylegenddestroy
-bip_39_word_no_space_9: zonesaladturkeysatoshiclayabilitylegenddestroyconcert
-bip_39_word_space_0:
-- zone
-- salad
-- turkey
-- satoshi
-- clay
-- ability
-- legend
-- destroy
-- concert
-- shield
-- flee
-- alcohol
-bip_39_word_space_1: zone
-bip_39_word_space_10: zone salad turkey satoshi clay ability legend destroy concert
-  shield
-bip_39_word_space_11: zone salad turkey satoshi clay ability legend destroy concert
-  shield flee
 bip_39_word_space_12: zone salad turkey satoshi clay ability legend destroy concert
   shield flee alcohol
 bip_39_word_space_2: zone salad
 bip_39_word_space_3: zone salad turkey
-bip_39_word_space_4: zone salad turkey satoshi
-bip_39_word_space_5: zone salad turkey satoshi clay
-bip_39_word_space_6: zone salad turkey satoshi clay ability
-bip_39_word_space_7: zone salad turkey satoshi clay ability legend
-bip_39_word_space_8: zone salad turkey satoshi clay ability legend destroy
-bip_39_word_space_9: zone salad turkey satoshi clay ability legend destroy concert
-bip_39_word_underscore_1: zone
-bip_39_word_underscore_10: zone_salad_turkey_satoshi_clay_ability_legend_destroy_concert_shield
-bip_39_word_underscore_11: zone_salad_turkey_satoshi_clay_ability_legend_destroy_concert_shield_flee
 bip_39_word_underscore_12: zone_salad_turkey_satoshi_clay_ability_legend_destroy_concert_shield_flee_alcohol
 bip_39_word_underscore_2: zone_salad
 bip_39_word_underscore_3: zone_salad_turkey
-bip_39_word_underscore_4: zone_salad_turkey_satoshi
-bip_39_word_underscore_5: zone_salad_turkey_satoshi_clay
-bip_39_word_underscore_6: zone_salad_turkey_satoshi_clay_ability
-bip_39_word_underscore_7: zone_salad_turkey_satoshi_clay_ability_legend
-bip_39_word_underscore_8: zone_salad_turkey_satoshi_clay_ability_legend_destroy
-bip_39_word_underscore_9: zone_salad_turkey_satoshi_clay_ability_legend_destroy_concert
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

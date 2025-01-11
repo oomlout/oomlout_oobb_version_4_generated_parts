@@ -1,68 +1,9 @@
-bip_39_word_dash_1: ordinary
-bip_39_word_dash_10: ordinary-bag-fame-hat-arena-wealth-blue-voyage-page-orphan
-bip_39_word_dash_11: ordinary-bag-fame-hat-arena-wealth-blue-voyage-page-orphan-winter
 bip_39_word_dash_12: ordinary-bag-fame-hat-arena-wealth-blue-voyage-page-orphan-winter-assume
 bip_39_word_dash_2: ordinary-bag
 bip_39_word_dash_3: ordinary-bag-fame
-bip_39_word_dash_4: ordinary-bag-fame-hat
-bip_39_word_dash_5: ordinary-bag-fame-hat-arena
-bip_39_word_dash_6: ordinary-bag-fame-hat-arena-wealth
-bip_39_word_dash_7: ordinary-bag-fame-hat-arena-wealth-blue
-bip_39_word_dash_8: ordinary-bag-fame-hat-arena-wealth-blue-voyage
-bip_39_word_dash_9: ordinary-bag-fame-hat-arena-wealth-blue-voyage-page
-bip_39_word_new_br_1: ordinary
-bip_39_word_new_br_10: ordinary<br>bag<br>fame<br>hat<br>arena<br>wealth<br>blue<br>voyage<br>page<br>orphan
-bip_39_word_new_br_11: ordinary<br>bag<br>fame<br>hat<br>arena<br>wealth<br>blue<br>voyage<br>page<br>orphan<br>winter
 bip_39_word_new_br_12: ordinary<br>bag<br>fame<br>hat<br>arena<br>wealth<br>blue<br>voyage<br>page<br>orphan<br>winter<br>assume
 bip_39_word_new_br_2: ordinary<br>bag
 bip_39_word_new_br_3: ordinary<br>bag<br>fame
-bip_39_word_new_br_4: ordinary<br>bag<br>fame<br>hat
-bip_39_word_new_br_5: ordinary<br>bag<br>fame<br>hat<br>arena
-bip_39_word_new_br_6: ordinary<br>bag<br>fame<br>hat<br>arena<br>wealth
-bip_39_word_new_br_7: ordinary<br>bag<br>fame<br>hat<br>arena<br>wealth<br>blue
-bip_39_word_new_br_8: ordinary<br>bag<br>fame<br>hat<br>arena<br>wealth<br>blue<br>voyage
-bip_39_word_new_br_9: ordinary<br>bag<br>fame<br>hat<br>arena<br>wealth<br>blue<br>voyage<br>page
-bip_39_word_new_line_1: ordinary
-bip_39_word_new_line_10: 'ordinary
-
-  bag
-
-  fame
-
-  hat
-
-  arena
-
-  wealth
-
-  blue
-
-  voyage
-
-  page
-
-  orphan'
-bip_39_word_new_line_11: 'ordinary
-
-  bag
-
-  fame
-
-  hat
-
-  arena
-
-  wealth
-
-  blue
-
-  voyage
-
-  page
-
-  orphan
-
-  winter'
 bip_39_word_new_line_12: 'ordinary
 
   bag
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'ordinary
   bag
 
   fame'
-bip_39_word_new_line_4: 'ordinary
-
-  bag
-
-  fame
-
-  hat'
-bip_39_word_new_line_5: 'ordinary
-
-  bag
-
-  fame
-
-  hat
-
-  arena'
-bip_39_word_new_line_6: 'ordinary
-
-  bag
-
-  fame
-
-  hat
-
-  arena
-
-  wealth'
-bip_39_word_new_line_7: 'ordinary
-
-  bag
-
-  fame
-
-  hat
-
-  arena
-
-  wealth
-
-  blue'
-bip_39_word_new_line_8: 'ordinary
-
-  bag
-
-  fame
-
-  hat
-
-  arena
-
-  wealth
-
-  blue
-
-  voyage'
-bip_39_word_new_line_9: 'ordinary
-
-  bag
-
-  fame
-
-  hat
-
-  arena
-
-  wealth
-
-  blue
-
-  voyage
-
-  page'
-bip_39_word_no_space_1: ordinary
-bip_39_word_no_space_10: ordinarybagfamehatarenawealthbluevoyagepageorphan
-bip_39_word_no_space_11: ordinarybagfamehatarenawealthbluevoyagepageorphanwinter
 bip_39_word_no_space_12: ordinarybagfamehatarenawealthbluevoyagepageorphanwinterassume
 bip_39_word_no_space_2: ordinarybag
 bip_39_word_no_space_3: ordinarybagfame
-bip_39_word_no_space_4: ordinarybagfamehat
-bip_39_word_no_space_5: ordinarybagfamehatarena
-bip_39_word_no_space_6: ordinarybagfamehatarenawealth
-bip_39_word_no_space_7: ordinarybagfamehatarenawealthblue
-bip_39_word_no_space_8: ordinarybagfamehatarenawealthbluevoyage
-bip_39_word_no_space_9: ordinarybagfamehatarenawealthbluevoyagepage
-bip_39_word_space_0:
-- ordinary
-- bag
-- fame
-- hat
-- arena
-- wealth
-- blue
-- voyage
-- page
-- orphan
-- winter
-- assume
-bip_39_word_space_1: ordinary
-bip_39_word_space_10: ordinary bag fame hat arena wealth blue voyage page orphan
-bip_39_word_space_11: ordinary bag fame hat arena wealth blue voyage page orphan winter
 bip_39_word_space_12: ordinary bag fame hat arena wealth blue voyage page orphan winter
   assume
 bip_39_word_space_2: ordinary bag
 bip_39_word_space_3: ordinary bag fame
-bip_39_word_space_4: ordinary bag fame hat
-bip_39_word_space_5: ordinary bag fame hat arena
-bip_39_word_space_6: ordinary bag fame hat arena wealth
-bip_39_word_space_7: ordinary bag fame hat arena wealth blue
-bip_39_word_space_8: ordinary bag fame hat arena wealth blue voyage
-bip_39_word_space_9: ordinary bag fame hat arena wealth blue voyage page
-bip_39_word_underscore_1: ordinary
-bip_39_word_underscore_10: ordinary_bag_fame_hat_arena_wealth_blue_voyage_page_orphan
-bip_39_word_underscore_11: ordinary_bag_fame_hat_arena_wealth_blue_voyage_page_orphan_winter
 bip_39_word_underscore_12: ordinary_bag_fame_hat_arena_wealth_blue_voyage_page_orphan_winter_assume
 bip_39_word_underscore_2: ordinary_bag
 bip_39_word_underscore_3: ordinary_bag_fame
-bip_39_word_underscore_4: ordinary_bag_fame_hat
-bip_39_word_underscore_5: ordinary_bag_fame_hat_arena
-bip_39_word_underscore_6: ordinary_bag_fame_hat_arena_wealth
-bip_39_word_underscore_7: ordinary_bag_fame_hat_arena_wealth_blue
-bip_39_word_underscore_8: ordinary_bag_fame_hat_arena_wealth_blue_voyage
-bip_39_word_underscore_9: ordinary_bag_fame_hat_arena_wealth_blue_voyage_page
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

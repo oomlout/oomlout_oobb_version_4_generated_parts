@@ -1,68 +1,9 @@
-bip_39_word_dash_1: card
-bip_39_word_dash_10: card-purse-cannon-thunder-define-like-target-cruel-typical-burger
-bip_39_word_dash_11: card-purse-cannon-thunder-define-like-target-cruel-typical-burger-mirror
 bip_39_word_dash_12: card-purse-cannon-thunder-define-like-target-cruel-typical-burger-mirror-apple
 bip_39_word_dash_2: card-purse
 bip_39_word_dash_3: card-purse-cannon
-bip_39_word_dash_4: card-purse-cannon-thunder
-bip_39_word_dash_5: card-purse-cannon-thunder-define
-bip_39_word_dash_6: card-purse-cannon-thunder-define-like
-bip_39_word_dash_7: card-purse-cannon-thunder-define-like-target
-bip_39_word_dash_8: card-purse-cannon-thunder-define-like-target-cruel
-bip_39_word_dash_9: card-purse-cannon-thunder-define-like-target-cruel-typical
-bip_39_word_new_br_1: card
-bip_39_word_new_br_10: card<br>purse<br>cannon<br>thunder<br>define<br>like<br>target<br>cruel<br>typical<br>burger
-bip_39_word_new_br_11: card<br>purse<br>cannon<br>thunder<br>define<br>like<br>target<br>cruel<br>typical<br>burger<br>mirror
 bip_39_word_new_br_12: card<br>purse<br>cannon<br>thunder<br>define<br>like<br>target<br>cruel<br>typical<br>burger<br>mirror<br>apple
 bip_39_word_new_br_2: card<br>purse
 bip_39_word_new_br_3: card<br>purse<br>cannon
-bip_39_word_new_br_4: card<br>purse<br>cannon<br>thunder
-bip_39_word_new_br_5: card<br>purse<br>cannon<br>thunder<br>define
-bip_39_word_new_br_6: card<br>purse<br>cannon<br>thunder<br>define<br>like
-bip_39_word_new_br_7: card<br>purse<br>cannon<br>thunder<br>define<br>like<br>target
-bip_39_word_new_br_8: card<br>purse<br>cannon<br>thunder<br>define<br>like<br>target<br>cruel
-bip_39_word_new_br_9: card<br>purse<br>cannon<br>thunder<br>define<br>like<br>target<br>cruel<br>typical
-bip_39_word_new_line_1: card
-bip_39_word_new_line_10: 'card
-
-  purse
-
-  cannon
-
-  thunder
-
-  define
-
-  like
-
-  target
-
-  cruel
-
-  typical
-
-  burger'
-bip_39_word_new_line_11: 'card
-
-  purse
-
-  cannon
-
-  thunder
-
-  define
-
-  like
-
-  target
-
-  cruel
-
-  typical
-
-  burger
-
-  mirror'
 bip_39_word_new_line_12: 'card
 
   purse
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'card
   purse
 
   cannon'
-bip_39_word_new_line_4: 'card
-
-  purse
-
-  cannon
-
-  thunder'
-bip_39_word_new_line_5: 'card
-
-  purse
-
-  cannon
-
-  thunder
-
-  define'
-bip_39_word_new_line_6: 'card
-
-  purse
-
-  cannon
-
-  thunder
-
-  define
-
-  like'
-bip_39_word_new_line_7: 'card
-
-  purse
-
-  cannon
-
-  thunder
-
-  define
-
-  like
-
-  target'
-bip_39_word_new_line_8: 'card
-
-  purse
-
-  cannon
-
-  thunder
-
-  define
-
-  like
-
-  target
-
-  cruel'
-bip_39_word_new_line_9: 'card
-
-  purse
-
-  cannon
-
-  thunder
-
-  define
-
-  like
-
-  target
-
-  cruel
-
-  typical'
-bip_39_word_no_space_1: card
-bip_39_word_no_space_10: cardpursecannonthunderdefineliketargetcrueltypicalburger
-bip_39_word_no_space_11: cardpursecannonthunderdefineliketargetcrueltypicalburgermirror
 bip_39_word_no_space_12: cardpursecannonthunderdefineliketargetcrueltypicalburgermirrorapple
 bip_39_word_no_space_2: cardpurse
 bip_39_word_no_space_3: cardpursecannon
-bip_39_word_no_space_4: cardpursecannonthunder
-bip_39_word_no_space_5: cardpursecannonthunderdefine
-bip_39_word_no_space_6: cardpursecannonthunderdefinelike
-bip_39_word_no_space_7: cardpursecannonthunderdefineliketarget
-bip_39_word_no_space_8: cardpursecannonthunderdefineliketargetcruel
-bip_39_word_no_space_9: cardpursecannonthunderdefineliketargetcrueltypical
-bip_39_word_space_0:
-- card
-- purse
-- cannon
-- thunder
-- define
-- like
-- target
-- cruel
-- typical
-- burger
-- mirror
-- apple
-bip_39_word_space_1: card
-bip_39_word_space_10: card purse cannon thunder define like target cruel typical burger
-bip_39_word_space_11: card purse cannon thunder define like target cruel typical burger
-  mirror
 bip_39_word_space_12: card purse cannon thunder define like target cruel typical burger
   mirror apple
 bip_39_word_space_2: card purse
 bip_39_word_space_3: card purse cannon
-bip_39_word_space_4: card purse cannon thunder
-bip_39_word_space_5: card purse cannon thunder define
-bip_39_word_space_6: card purse cannon thunder define like
-bip_39_word_space_7: card purse cannon thunder define like target
-bip_39_word_space_8: card purse cannon thunder define like target cruel
-bip_39_word_space_9: card purse cannon thunder define like target cruel typical
-bip_39_word_underscore_1: card
-bip_39_word_underscore_10: card_purse_cannon_thunder_define_like_target_cruel_typical_burger
-bip_39_word_underscore_11: card_purse_cannon_thunder_define_like_target_cruel_typical_burger_mirror
 bip_39_word_underscore_12: card_purse_cannon_thunder_define_like_target_cruel_typical_burger_mirror_apple
 bip_39_word_underscore_2: card_purse
 bip_39_word_underscore_3: card_purse_cannon
-bip_39_word_underscore_4: card_purse_cannon_thunder
-bip_39_word_underscore_5: card_purse_cannon_thunder_define
-bip_39_word_underscore_6: card_purse_cannon_thunder_define_like
-bip_39_word_underscore_7: card_purse_cannon_thunder_define_like_target
-bip_39_word_underscore_8: card_purse_cannon_thunder_define_like_target_cruel
-bip_39_word_underscore_9: card_purse_cannon_thunder_define_like_target_cruel_typical
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

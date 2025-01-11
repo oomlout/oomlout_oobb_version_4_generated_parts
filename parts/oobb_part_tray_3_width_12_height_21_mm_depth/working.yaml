@@ -1,68 +1,9 @@
-bip_39_word_dash_1: force
-bip_39_word_dash_10: force-token-one-artist-emotion-spell-engage-action-gain-soldier
-bip_39_word_dash_11: force-token-one-artist-emotion-spell-engage-action-gain-soldier-game
 bip_39_word_dash_12: force-token-one-artist-emotion-spell-engage-action-gain-soldier-game-any
 bip_39_word_dash_2: force-token
 bip_39_word_dash_3: force-token-one
-bip_39_word_dash_4: force-token-one-artist
-bip_39_word_dash_5: force-token-one-artist-emotion
-bip_39_word_dash_6: force-token-one-artist-emotion-spell
-bip_39_word_dash_7: force-token-one-artist-emotion-spell-engage
-bip_39_word_dash_8: force-token-one-artist-emotion-spell-engage-action
-bip_39_word_dash_9: force-token-one-artist-emotion-spell-engage-action-gain
-bip_39_word_new_br_1: force
-bip_39_word_new_br_10: force<br>token<br>one<br>artist<br>emotion<br>spell<br>engage<br>action<br>gain<br>soldier
-bip_39_word_new_br_11: force<br>token<br>one<br>artist<br>emotion<br>spell<br>engage<br>action<br>gain<br>soldier<br>game
 bip_39_word_new_br_12: force<br>token<br>one<br>artist<br>emotion<br>spell<br>engage<br>action<br>gain<br>soldier<br>game<br>any
 bip_39_word_new_br_2: force<br>token
 bip_39_word_new_br_3: force<br>token<br>one
-bip_39_word_new_br_4: force<br>token<br>one<br>artist
-bip_39_word_new_br_5: force<br>token<br>one<br>artist<br>emotion
-bip_39_word_new_br_6: force<br>token<br>one<br>artist<br>emotion<br>spell
-bip_39_word_new_br_7: force<br>token<br>one<br>artist<br>emotion<br>spell<br>engage
-bip_39_word_new_br_8: force<br>token<br>one<br>artist<br>emotion<br>spell<br>engage<br>action
-bip_39_word_new_br_9: force<br>token<br>one<br>artist<br>emotion<br>spell<br>engage<br>action<br>gain
-bip_39_word_new_line_1: force
-bip_39_word_new_line_10: 'force
-
-  token
-
-  one
-
-  artist
-
-  emotion
-
-  spell
-
-  engage
-
-  action
-
-  gain
-
-  soldier'
-bip_39_word_new_line_11: 'force
-
-  token
-
-  one
-
-  artist
-
-  emotion
-
-  spell
-
-  engage
-
-  action
-
-  gain
-
-  soldier
-
-  game'
 bip_39_word_new_line_12: 'force
 
   token
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'force
   token
 
   one'
-bip_39_word_new_line_4: 'force
-
-  token
-
-  one
-
-  artist'
-bip_39_word_new_line_5: 'force
-
-  token
-
-  one
-
-  artist
-
-  emotion'
-bip_39_word_new_line_6: 'force
-
-  token
-
-  one
-
-  artist
-
-  emotion
-
-  spell'
-bip_39_word_new_line_7: 'force
-
-  token
-
-  one
-
-  artist
-
-  emotion
-
-  spell
-
-  engage'
-bip_39_word_new_line_8: 'force
-
-  token
-
-  one
-
-  artist
-
-  emotion
-
-  spell
-
-  engage
-
-  action'
-bip_39_word_new_line_9: 'force
-
-  token
-
-  one
-
-  artist
-
-  emotion
-
-  spell
-
-  engage
-
-  action
-
-  gain'
-bip_39_word_no_space_1: force
-bip_39_word_no_space_10: forcetokenoneartistemotionspellengageactiongainsoldier
-bip_39_word_no_space_11: forcetokenoneartistemotionspellengageactiongainsoldiergame
 bip_39_word_no_space_12: forcetokenoneartistemotionspellengageactiongainsoldiergameany
 bip_39_word_no_space_2: forcetoken
 bip_39_word_no_space_3: forcetokenone
-bip_39_word_no_space_4: forcetokenoneartist
-bip_39_word_no_space_5: forcetokenoneartistemotion
-bip_39_word_no_space_6: forcetokenoneartistemotionspell
-bip_39_word_no_space_7: forcetokenoneartistemotionspellengage
-bip_39_word_no_space_8: forcetokenoneartistemotionspellengageaction
-bip_39_word_no_space_9: forcetokenoneartistemotionspellengageactiongain
-bip_39_word_space_0:
-- force
-- token
-- one
-- artist
-- emotion
-- spell
-- engage
-- action
-- gain
-- soldier
-- game
-- any
-bip_39_word_space_1: force
-bip_39_word_space_10: force token one artist emotion spell engage action gain soldier
-bip_39_word_space_11: force token one artist emotion spell engage action gain soldier
-  game
 bip_39_word_space_12: force token one artist emotion spell engage action gain soldier
   game any
 bip_39_word_space_2: force token
 bip_39_word_space_3: force token one
-bip_39_word_space_4: force token one artist
-bip_39_word_space_5: force token one artist emotion
-bip_39_word_space_6: force token one artist emotion spell
-bip_39_word_space_7: force token one artist emotion spell engage
-bip_39_word_space_8: force token one artist emotion spell engage action
-bip_39_word_space_9: force token one artist emotion spell engage action gain
-bip_39_word_underscore_1: force
-bip_39_word_underscore_10: force_token_one_artist_emotion_spell_engage_action_gain_soldier
-bip_39_word_underscore_11: force_token_one_artist_emotion_spell_engage_action_gain_soldier_game
 bip_39_word_underscore_12: force_token_one_artist_emotion_spell_engage_action_gain_soldier_game_any
 bip_39_word_underscore_2: force_token
 bip_39_word_underscore_3: force_token_one
-bip_39_word_underscore_4: force_token_one_artist
-bip_39_word_underscore_5: force_token_one_artist_emotion
-bip_39_word_underscore_6: force_token_one_artist_emotion_spell
-bip_39_word_underscore_7: force_token_one_artist_emotion_spell_engage
-bip_39_word_underscore_8: force_token_one_artist_emotion_spell_engage_action
-bip_39_word_underscore_9: force_token_one_artist_emotion_spell_engage_action_gain
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

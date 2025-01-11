@@ -1,69 +1,10 @@
 bearing: '6704'
-bip_39_word_dash_1: ranch
-bip_39_word_dash_10: ranch-fatal-mom-balcony-toddler-dance-jeans-clean-ability-wrestle
-bip_39_word_dash_11: ranch-fatal-mom-balcony-toddler-dance-jeans-clean-ability-wrestle-holiday
 bip_39_word_dash_12: ranch-fatal-mom-balcony-toddler-dance-jeans-clean-ability-wrestle-holiday-alien
 bip_39_word_dash_2: ranch-fatal
 bip_39_word_dash_3: ranch-fatal-mom
-bip_39_word_dash_4: ranch-fatal-mom-balcony
-bip_39_word_dash_5: ranch-fatal-mom-balcony-toddler
-bip_39_word_dash_6: ranch-fatal-mom-balcony-toddler-dance
-bip_39_word_dash_7: ranch-fatal-mom-balcony-toddler-dance-jeans
-bip_39_word_dash_8: ranch-fatal-mom-balcony-toddler-dance-jeans-clean
-bip_39_word_dash_9: ranch-fatal-mom-balcony-toddler-dance-jeans-clean-ability
-bip_39_word_new_br_1: ranch
-bip_39_word_new_br_10: ranch<br>fatal<br>mom<br>balcony<br>toddler<br>dance<br>jeans<br>clean<br>ability<br>wrestle
-bip_39_word_new_br_11: ranch<br>fatal<br>mom<br>balcony<br>toddler<br>dance<br>jeans<br>clean<br>ability<br>wrestle<br>holiday
 bip_39_word_new_br_12: ranch<br>fatal<br>mom<br>balcony<br>toddler<br>dance<br>jeans<br>clean<br>ability<br>wrestle<br>holiday<br>alien
 bip_39_word_new_br_2: ranch<br>fatal
 bip_39_word_new_br_3: ranch<br>fatal<br>mom
-bip_39_word_new_br_4: ranch<br>fatal<br>mom<br>balcony
-bip_39_word_new_br_5: ranch<br>fatal<br>mom<br>balcony<br>toddler
-bip_39_word_new_br_6: ranch<br>fatal<br>mom<br>balcony<br>toddler<br>dance
-bip_39_word_new_br_7: ranch<br>fatal<br>mom<br>balcony<br>toddler<br>dance<br>jeans
-bip_39_word_new_br_8: ranch<br>fatal<br>mom<br>balcony<br>toddler<br>dance<br>jeans<br>clean
-bip_39_word_new_br_9: ranch<br>fatal<br>mom<br>balcony<br>toddler<br>dance<br>jeans<br>clean<br>ability
-bip_39_word_new_line_1: ranch
-bip_39_word_new_line_10: 'ranch
-
-  fatal
-
-  mom
-
-  balcony
-
-  toddler
-
-  dance
-
-  jeans
-
-  clean
-
-  ability
-
-  wrestle'
-bip_39_word_new_line_11: 'ranch
-
-  fatal
-
-  mom
-
-  balcony
-
-  toddler
-
-  dance
-
-  jeans
-
-  clean
-
-  ability
-
-  wrestle
-
-  holiday'
 bip_39_word_new_line_12: 'ranch
 
   fatal
@@ -95,129 +36,16 @@ bip_39_word_new_line_3: 'ranch
   fatal
 
   mom'
-bip_39_word_new_line_4: 'ranch
-
-  fatal
-
-  mom
-
-  balcony'
-bip_39_word_new_line_5: 'ranch
-
-  fatal
-
-  mom
-
-  balcony
-
-  toddler'
-bip_39_word_new_line_6: 'ranch
-
-  fatal
-
-  mom
-
-  balcony
-
-  toddler
-
-  dance'
-bip_39_word_new_line_7: 'ranch
-
-  fatal
-
-  mom
-
-  balcony
-
-  toddler
-
-  dance
-
-  jeans'
-bip_39_word_new_line_8: 'ranch
-
-  fatal
-
-  mom
-
-  balcony
-
-  toddler
-
-  dance
-
-  jeans
-
-  clean'
-bip_39_word_new_line_9: 'ranch
-
-  fatal
-
-  mom
-
-  balcony
-
-  toddler
-
-  dance
-
-  jeans
-
-  clean
-
-  ability'
-bip_39_word_no_space_1: ranch
-bip_39_word_no_space_10: ranchfatalmombalconytoddlerdancejeanscleanabilitywrestle
-bip_39_word_no_space_11: ranchfatalmombalconytoddlerdancejeanscleanabilitywrestleholiday
 bip_39_word_no_space_12: ranchfatalmombalconytoddlerdancejeanscleanabilitywrestleholidayalien
 bip_39_word_no_space_2: ranchfatal
 bip_39_word_no_space_3: ranchfatalmom
-bip_39_word_no_space_4: ranchfatalmombalcony
-bip_39_word_no_space_5: ranchfatalmombalconytoddler
-bip_39_word_no_space_6: ranchfatalmombalconytoddlerdance
-bip_39_word_no_space_7: ranchfatalmombalconytoddlerdancejeans
-bip_39_word_no_space_8: ranchfatalmombalconytoddlerdancejeansclean
-bip_39_word_no_space_9: ranchfatalmombalconytoddlerdancejeanscleanability
-bip_39_word_space_0:
-- ranch
-- fatal
-- mom
-- balcony
-- toddler
-- dance
-- jeans
-- clean
-- ability
-- wrestle
-- holiday
-- alien
-bip_39_word_space_1: ranch
-bip_39_word_space_10: ranch fatal mom balcony toddler dance jeans clean ability wrestle
-bip_39_word_space_11: ranch fatal mom balcony toddler dance jeans clean ability wrestle
-  holiday
 bip_39_word_space_12: ranch fatal mom balcony toddler dance jeans clean ability wrestle
   holiday alien
 bip_39_word_space_2: ranch fatal
 bip_39_word_space_3: ranch fatal mom
-bip_39_word_space_4: ranch fatal mom balcony
-bip_39_word_space_5: ranch fatal mom balcony toddler
-bip_39_word_space_6: ranch fatal mom balcony toddler dance
-bip_39_word_space_7: ranch fatal mom balcony toddler dance jeans
-bip_39_word_space_8: ranch fatal mom balcony toddler dance jeans clean
-bip_39_word_space_9: ranch fatal mom balcony toddler dance jeans clean ability
-bip_39_word_underscore_1: ranch
-bip_39_word_underscore_10: ranch_fatal_mom_balcony_toddler_dance_jeans_clean_ability_wrestle
-bip_39_word_underscore_11: ranch_fatal_mom_balcony_toddler_dance_jeans_clean_ability_wrestle_holiday
 bip_39_word_underscore_12: ranch_fatal_mom_balcony_toddler_dance_jeans_clean_ability_wrestle_holiday_alien
 bip_39_word_underscore_2: ranch_fatal
 bip_39_word_underscore_3: ranch_fatal_mom
-bip_39_word_underscore_4: ranch_fatal_mom_balcony
-bip_39_word_underscore_5: ranch_fatal_mom_balcony_toddler
-bip_39_word_underscore_6: ranch_fatal_mom_balcony_toddler_dance
-bip_39_word_underscore_7: ranch_fatal_mom_balcony_toddler_dance_jeans
-bip_39_word_underscore_8: ranch_fatal_mom_balcony_toddler_dance_jeans_clean
-bip_39_word_underscore_9: ranch_fatal_mom_balcony_toddler_dance_jeans_clean_ability
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

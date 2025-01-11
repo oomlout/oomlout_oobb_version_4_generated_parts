@@ -1,68 +1,9 @@
-bip_39_word_dash_1: collect
-bip_39_word_dash_10: collect-lock-walk-dial-jaguar-tennis-melody-remove-praise-govern
-bip_39_word_dash_11: collect-lock-walk-dial-jaguar-tennis-melody-remove-praise-govern-bonus
 bip_39_word_dash_12: collect-lock-walk-dial-jaguar-tennis-melody-remove-praise-govern-bonus-adult
 bip_39_word_dash_2: collect-lock
 bip_39_word_dash_3: collect-lock-walk
-bip_39_word_dash_4: collect-lock-walk-dial
-bip_39_word_dash_5: collect-lock-walk-dial-jaguar
-bip_39_word_dash_6: collect-lock-walk-dial-jaguar-tennis
-bip_39_word_dash_7: collect-lock-walk-dial-jaguar-tennis-melody
-bip_39_word_dash_8: collect-lock-walk-dial-jaguar-tennis-melody-remove
-bip_39_word_dash_9: collect-lock-walk-dial-jaguar-tennis-melody-remove-praise
-bip_39_word_new_br_1: collect
-bip_39_word_new_br_10: collect<br>lock<br>walk<br>dial<br>jaguar<br>tennis<br>melody<br>remove<br>praise<br>govern
-bip_39_word_new_br_11: collect<br>lock<br>walk<br>dial<br>jaguar<br>tennis<br>melody<br>remove<br>praise<br>govern<br>bonus
 bip_39_word_new_br_12: collect<br>lock<br>walk<br>dial<br>jaguar<br>tennis<br>melody<br>remove<br>praise<br>govern<br>bonus<br>adult
 bip_39_word_new_br_2: collect<br>lock
 bip_39_word_new_br_3: collect<br>lock<br>walk
-bip_39_word_new_br_4: collect<br>lock<br>walk<br>dial
-bip_39_word_new_br_5: collect<br>lock<br>walk<br>dial<br>jaguar
-bip_39_word_new_br_6: collect<br>lock<br>walk<br>dial<br>jaguar<br>tennis
-bip_39_word_new_br_7: collect<br>lock<br>walk<br>dial<br>jaguar<br>tennis<br>melody
-bip_39_word_new_br_8: collect<br>lock<br>walk<br>dial<br>jaguar<br>tennis<br>melody<br>remove
-bip_39_word_new_br_9: collect<br>lock<br>walk<br>dial<br>jaguar<br>tennis<br>melody<br>remove<br>praise
-bip_39_word_new_line_1: collect
-bip_39_word_new_line_10: 'collect
-
-  lock
-
-  walk
-
-  dial
-
-  jaguar
-
-  tennis
-
-  melody
-
-  remove
-
-  praise
-
-  govern'
-bip_39_word_new_line_11: 'collect
-
-  lock
-
-  walk
-
-  dial
-
-  jaguar
-
-  tennis
-
-  melody
-
-  remove
-
-  praise
-
-  govern
-
-  bonus'
 bip_39_word_new_line_12: 'collect
 
   lock
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'collect
   lock
 
   walk'
-bip_39_word_new_line_4: 'collect
-
-  lock
-
-  walk
-
-  dial'
-bip_39_word_new_line_5: 'collect
-
-  lock
-
-  walk
-
-  dial
-
-  jaguar'
-bip_39_word_new_line_6: 'collect
-
-  lock
-
-  walk
-
-  dial
-
-  jaguar
-
-  tennis'
-bip_39_word_new_line_7: 'collect
-
-  lock
-
-  walk
-
-  dial
-
-  jaguar
-
-  tennis
-
-  melody'
-bip_39_word_new_line_8: 'collect
-
-  lock
-
-  walk
-
-  dial
-
-  jaguar
-
-  tennis
-
-  melody
-
-  remove'
-bip_39_word_new_line_9: 'collect
-
-  lock
-
-  walk
-
-  dial
-
-  jaguar
-
-  tennis
-
-  melody
-
-  remove
-
-  praise'
-bip_39_word_no_space_1: collect
-bip_39_word_no_space_10: collectlockwalkdialjaguartennismelodyremovepraisegovern
-bip_39_word_no_space_11: collectlockwalkdialjaguartennismelodyremovepraisegovernbonus
 bip_39_word_no_space_12: collectlockwalkdialjaguartennismelodyremovepraisegovernbonusadult
 bip_39_word_no_space_2: collectlock
 bip_39_word_no_space_3: collectlockwalk
-bip_39_word_no_space_4: collectlockwalkdial
-bip_39_word_no_space_5: collectlockwalkdialjaguar
-bip_39_word_no_space_6: collectlockwalkdialjaguartennis
-bip_39_word_no_space_7: collectlockwalkdialjaguartennismelody
-bip_39_word_no_space_8: collectlockwalkdialjaguartennismelodyremove
-bip_39_word_no_space_9: collectlockwalkdialjaguartennismelodyremovepraise
-bip_39_word_space_0:
-- collect
-- lock
-- walk
-- dial
-- jaguar
-- tennis
-- melody
-- remove
-- praise
-- govern
-- bonus
-- adult
-bip_39_word_space_1: collect
-bip_39_word_space_10: collect lock walk dial jaguar tennis melody remove praise govern
-bip_39_word_space_11: collect lock walk dial jaguar tennis melody remove praise govern
-  bonus
 bip_39_word_space_12: collect lock walk dial jaguar tennis melody remove praise govern
   bonus adult
 bip_39_word_space_2: collect lock
 bip_39_word_space_3: collect lock walk
-bip_39_word_space_4: collect lock walk dial
-bip_39_word_space_5: collect lock walk dial jaguar
-bip_39_word_space_6: collect lock walk dial jaguar tennis
-bip_39_word_space_7: collect lock walk dial jaguar tennis melody
-bip_39_word_space_8: collect lock walk dial jaguar tennis melody remove
-bip_39_word_space_9: collect lock walk dial jaguar tennis melody remove praise
-bip_39_word_underscore_1: collect
-bip_39_word_underscore_10: collect_lock_walk_dial_jaguar_tennis_melody_remove_praise_govern
-bip_39_word_underscore_11: collect_lock_walk_dial_jaguar_tennis_melody_remove_praise_govern_bonus
 bip_39_word_underscore_12: collect_lock_walk_dial_jaguar_tennis_melody_remove_praise_govern_bonus_adult
 bip_39_word_underscore_2: collect_lock
 bip_39_word_underscore_3: collect_lock_walk
-bip_39_word_underscore_4: collect_lock_walk_dial
-bip_39_word_underscore_5: collect_lock_walk_dial_jaguar
-bip_39_word_underscore_6: collect_lock_walk_dial_jaguar_tennis
-bip_39_word_underscore_7: collect_lock_walk_dial_jaguar_tennis_melody
-bip_39_word_underscore_8: collect_lock_walk_dial_jaguar_tennis_melody_remove
-bip_39_word_underscore_9: collect_lock_walk_dial_jaguar_tennis_melody_remove_praise
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

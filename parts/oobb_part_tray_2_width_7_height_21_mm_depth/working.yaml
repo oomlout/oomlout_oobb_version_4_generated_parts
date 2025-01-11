@@ -1,68 +1,9 @@
-bip_39_word_dash_1: enforce
-bip_39_word_dash_10: enforce-speed-kiwi-about-fiber-submit-seat-erosion-wire-glow
-bip_39_word_dash_11: enforce-speed-kiwi-about-fiber-submit-seat-erosion-wire-glow-nasty
 bip_39_word_dash_12: enforce-speed-kiwi-about-fiber-submit-seat-erosion-wire-glow-nasty-actual
 bip_39_word_dash_2: enforce-speed
 bip_39_word_dash_3: enforce-speed-kiwi
-bip_39_word_dash_4: enforce-speed-kiwi-about
-bip_39_word_dash_5: enforce-speed-kiwi-about-fiber
-bip_39_word_dash_6: enforce-speed-kiwi-about-fiber-submit
-bip_39_word_dash_7: enforce-speed-kiwi-about-fiber-submit-seat
-bip_39_word_dash_8: enforce-speed-kiwi-about-fiber-submit-seat-erosion
-bip_39_word_dash_9: enforce-speed-kiwi-about-fiber-submit-seat-erosion-wire
-bip_39_word_new_br_1: enforce
-bip_39_word_new_br_10: enforce<br>speed<br>kiwi<br>about<br>fiber<br>submit<br>seat<br>erosion<br>wire<br>glow
-bip_39_word_new_br_11: enforce<br>speed<br>kiwi<br>about<br>fiber<br>submit<br>seat<br>erosion<br>wire<br>glow<br>nasty
 bip_39_word_new_br_12: enforce<br>speed<br>kiwi<br>about<br>fiber<br>submit<br>seat<br>erosion<br>wire<br>glow<br>nasty<br>actual
 bip_39_word_new_br_2: enforce<br>speed
 bip_39_word_new_br_3: enforce<br>speed<br>kiwi
-bip_39_word_new_br_4: enforce<br>speed<br>kiwi<br>about
-bip_39_word_new_br_5: enforce<br>speed<br>kiwi<br>about<br>fiber
-bip_39_word_new_br_6: enforce<br>speed<br>kiwi<br>about<br>fiber<br>submit
-bip_39_word_new_br_7: enforce<br>speed<br>kiwi<br>about<br>fiber<br>submit<br>seat
-bip_39_word_new_br_8: enforce<br>speed<br>kiwi<br>about<br>fiber<br>submit<br>seat<br>erosion
-bip_39_word_new_br_9: enforce<br>speed<br>kiwi<br>about<br>fiber<br>submit<br>seat<br>erosion<br>wire
-bip_39_word_new_line_1: enforce
-bip_39_word_new_line_10: 'enforce
-
-  speed
-
-  kiwi
-
-  about
-
-  fiber
-
-  submit
-
-  seat
-
-  erosion
-
-  wire
-
-  glow'
-bip_39_word_new_line_11: 'enforce
-
-  speed
-
-  kiwi
-
-  about
-
-  fiber
-
-  submit
-
-  seat
-
-  erosion
-
-  wire
-
-  glow
-
-  nasty'
 bip_39_word_new_line_12: 'enforce
 
   speed
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'enforce
   speed
 
   kiwi'
-bip_39_word_new_line_4: 'enforce
-
-  speed
-
-  kiwi
-
-  about'
-bip_39_word_new_line_5: 'enforce
-
-  speed
-
-  kiwi
-
-  about
-
-  fiber'
-bip_39_word_new_line_6: 'enforce
-
-  speed
-
-  kiwi
-
-  about
-
-  fiber
-
-  submit'
-bip_39_word_new_line_7: 'enforce
-
-  speed
-
-  kiwi
-
-  about
-
-  fiber
-
-  submit
-
-  seat'
-bip_39_word_new_line_8: 'enforce
-
-  speed
-
-  kiwi
-
-  about
-
-  fiber
-
-  submit
-
-  seat
-
-  erosion'
-bip_39_word_new_line_9: 'enforce
-
-  speed
-
-  kiwi
-
-  about
-
-  fiber
-
-  submit
-
-  seat
-
-  erosion
-
-  wire'
-bip_39_word_no_space_1: enforce
-bip_39_word_no_space_10: enforcespeedkiwiaboutfibersubmitseaterosionwireglow
-bip_39_word_no_space_11: enforcespeedkiwiaboutfibersubmitseaterosionwireglownasty
 bip_39_word_no_space_12: enforcespeedkiwiaboutfibersubmitseaterosionwireglownastyactual
 bip_39_word_no_space_2: enforcespeed
 bip_39_word_no_space_3: enforcespeedkiwi
-bip_39_word_no_space_4: enforcespeedkiwiabout
-bip_39_word_no_space_5: enforcespeedkiwiaboutfiber
-bip_39_word_no_space_6: enforcespeedkiwiaboutfibersubmit
-bip_39_word_no_space_7: enforcespeedkiwiaboutfibersubmitseat
-bip_39_word_no_space_8: enforcespeedkiwiaboutfibersubmitseaterosion
-bip_39_word_no_space_9: enforcespeedkiwiaboutfibersubmitseaterosionwire
-bip_39_word_space_0:
-- enforce
-- speed
-- kiwi
-- about
-- fiber
-- submit
-- seat
-- erosion
-- wire
-- glow
-- nasty
-- actual
-bip_39_word_space_1: enforce
-bip_39_word_space_10: enforce speed kiwi about fiber submit seat erosion wire glow
-bip_39_word_space_11: enforce speed kiwi about fiber submit seat erosion wire glow
-  nasty
 bip_39_word_space_12: enforce speed kiwi about fiber submit seat erosion wire glow
   nasty actual
 bip_39_word_space_2: enforce speed
 bip_39_word_space_3: enforce speed kiwi
-bip_39_word_space_4: enforce speed kiwi about
-bip_39_word_space_5: enforce speed kiwi about fiber
-bip_39_word_space_6: enforce speed kiwi about fiber submit
-bip_39_word_space_7: enforce speed kiwi about fiber submit seat
-bip_39_word_space_8: enforce speed kiwi about fiber submit seat erosion
-bip_39_word_space_9: enforce speed kiwi about fiber submit seat erosion wire
-bip_39_word_underscore_1: enforce
-bip_39_word_underscore_10: enforce_speed_kiwi_about_fiber_submit_seat_erosion_wire_glow
-bip_39_word_underscore_11: enforce_speed_kiwi_about_fiber_submit_seat_erosion_wire_glow_nasty
 bip_39_word_underscore_12: enforce_speed_kiwi_about_fiber_submit_seat_erosion_wire_glow_nasty_actual
 bip_39_word_underscore_2: enforce_speed
 bip_39_word_underscore_3: enforce_speed_kiwi
-bip_39_word_underscore_4: enforce_speed_kiwi_about
-bip_39_word_underscore_5: enforce_speed_kiwi_about_fiber
-bip_39_word_underscore_6: enforce_speed_kiwi_about_fiber_submit
-bip_39_word_underscore_7: enforce_speed_kiwi_about_fiber_submit_seat
-bip_39_word_underscore_8: enforce_speed_kiwi_about_fiber_submit_seat_erosion
-bip_39_word_underscore_9: enforce_speed_kiwi_about_fiber_submit_seat_erosion_wire
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

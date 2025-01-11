@@ -1,68 +1,9 @@
-bip_39_word_dash_1: soft
-bip_39_word_dash_10: soft-blur-rescue-snake-place-derive-reflect-hammer-common-chat
-bip_39_word_dash_11: soft-blur-rescue-snake-place-derive-reflect-hammer-common-chat-shock
 bip_39_word_dash_12: soft-blur-rescue-snake-place-derive-reflect-hammer-common-chat-shock-alcohol
 bip_39_word_dash_2: soft-blur
 bip_39_word_dash_3: soft-blur-rescue
-bip_39_word_dash_4: soft-blur-rescue-snake
-bip_39_word_dash_5: soft-blur-rescue-snake-place
-bip_39_word_dash_6: soft-blur-rescue-snake-place-derive
-bip_39_word_dash_7: soft-blur-rescue-snake-place-derive-reflect
-bip_39_word_dash_8: soft-blur-rescue-snake-place-derive-reflect-hammer
-bip_39_word_dash_9: soft-blur-rescue-snake-place-derive-reflect-hammer-common
-bip_39_word_new_br_1: soft
-bip_39_word_new_br_10: soft<br>blur<br>rescue<br>snake<br>place<br>derive<br>reflect<br>hammer<br>common<br>chat
-bip_39_word_new_br_11: soft<br>blur<br>rescue<br>snake<br>place<br>derive<br>reflect<br>hammer<br>common<br>chat<br>shock
 bip_39_word_new_br_12: soft<br>blur<br>rescue<br>snake<br>place<br>derive<br>reflect<br>hammer<br>common<br>chat<br>shock<br>alcohol
 bip_39_word_new_br_2: soft<br>blur
 bip_39_word_new_br_3: soft<br>blur<br>rescue
-bip_39_word_new_br_4: soft<br>blur<br>rescue<br>snake
-bip_39_word_new_br_5: soft<br>blur<br>rescue<br>snake<br>place
-bip_39_word_new_br_6: soft<br>blur<br>rescue<br>snake<br>place<br>derive
-bip_39_word_new_br_7: soft<br>blur<br>rescue<br>snake<br>place<br>derive<br>reflect
-bip_39_word_new_br_8: soft<br>blur<br>rescue<br>snake<br>place<br>derive<br>reflect<br>hammer
-bip_39_word_new_br_9: soft<br>blur<br>rescue<br>snake<br>place<br>derive<br>reflect<br>hammer<br>common
-bip_39_word_new_line_1: soft
-bip_39_word_new_line_10: 'soft
-
-  blur
-
-  rescue
-
-  snake
-
-  place
-
-  derive
-
-  reflect
-
-  hammer
-
-  common
-
-  chat'
-bip_39_word_new_line_11: 'soft
-
-  blur
-
-  rescue
-
-  snake
-
-  place
-
-  derive
-
-  reflect
-
-  hammer
-
-  common
-
-  chat
-
-  shock'
 bip_39_word_new_line_12: 'soft
 
   blur
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'soft
   blur
 
   rescue'
-bip_39_word_new_line_4: 'soft
-
-  blur
-
-  rescue
-
-  snake'
-bip_39_word_new_line_5: 'soft
-
-  blur
-
-  rescue
-
-  snake
-
-  place'
-bip_39_word_new_line_6: 'soft
-
-  blur
-
-  rescue
-
-  snake
-
-  place
-
-  derive'
-bip_39_word_new_line_7: 'soft
-
-  blur
-
-  rescue
-
-  snake
-
-  place
-
-  derive
-
-  reflect'
-bip_39_word_new_line_8: 'soft
-
-  blur
-
-  rescue
-
-  snake
-
-  place
-
-  derive
-
-  reflect
-
-  hammer'
-bip_39_word_new_line_9: 'soft
-
-  blur
-
-  rescue
-
-  snake
-
-  place
-
-  derive
-
-  reflect
-
-  hammer
-
-  common'
-bip_39_word_no_space_1: soft
-bip_39_word_no_space_10: softblurrescuesnakeplacederivereflecthammercommonchat
-bip_39_word_no_space_11: softblurrescuesnakeplacederivereflecthammercommonchatshock
 bip_39_word_no_space_12: softblurrescuesnakeplacederivereflecthammercommonchatshockalcohol
 bip_39_word_no_space_2: softblur
 bip_39_word_no_space_3: softblurrescue
-bip_39_word_no_space_4: softblurrescuesnake
-bip_39_word_no_space_5: softblurrescuesnakeplace
-bip_39_word_no_space_6: softblurrescuesnakeplacederive
-bip_39_word_no_space_7: softblurrescuesnakeplacederivereflect
-bip_39_word_no_space_8: softblurrescuesnakeplacederivereflecthammer
-bip_39_word_no_space_9: softblurrescuesnakeplacederivereflecthammercommon
-bip_39_word_space_0:
-- soft
-- blur
-- rescue
-- snake
-- place
-- derive
-- reflect
-- hammer
-- common
-- chat
-- shock
-- alcohol
-bip_39_word_space_1: soft
-bip_39_word_space_10: soft blur rescue snake place derive reflect hammer common chat
-bip_39_word_space_11: soft blur rescue snake place derive reflect hammer common chat
-  shock
 bip_39_word_space_12: soft blur rescue snake place derive reflect hammer common chat
   shock alcohol
 bip_39_word_space_2: soft blur
 bip_39_word_space_3: soft blur rescue
-bip_39_word_space_4: soft blur rescue snake
-bip_39_word_space_5: soft blur rescue snake place
-bip_39_word_space_6: soft blur rescue snake place derive
-bip_39_word_space_7: soft blur rescue snake place derive reflect
-bip_39_word_space_8: soft blur rescue snake place derive reflect hammer
-bip_39_word_space_9: soft blur rescue snake place derive reflect hammer common
-bip_39_word_underscore_1: soft
-bip_39_word_underscore_10: soft_blur_rescue_snake_place_derive_reflect_hammer_common_chat
-bip_39_word_underscore_11: soft_blur_rescue_snake_place_derive_reflect_hammer_common_chat_shock
 bip_39_word_underscore_12: soft_blur_rescue_snake_place_derive_reflect_hammer_common_chat_shock_alcohol
 bip_39_word_underscore_2: soft_blur
 bip_39_word_underscore_3: soft_blur_rescue
-bip_39_word_underscore_4: soft_blur_rescue_snake
-bip_39_word_underscore_5: soft_blur_rescue_snake_place
-bip_39_word_underscore_6: soft_blur_rescue_snake_place_derive
-bip_39_word_underscore_7: soft_blur_rescue_snake_place_derive_reflect
-bip_39_word_underscore_8: soft_blur_rescue_snake_place_derive_reflect_hammer
-bip_39_word_underscore_9: soft_blur_rescue_snake_place_derive_reflect_hammer_common
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

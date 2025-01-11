@@ -1,68 +1,9 @@
-bip_39_word_dash_1: thing
-bip_39_word_dash_10: thing-victory-disorder-mercy-setup-result-retire-young-scrub-duty
-bip_39_word_dash_11: thing-victory-disorder-mercy-setup-result-retire-young-scrub-duty-raven
 bip_39_word_dash_12: thing-victory-disorder-mercy-setup-result-retire-young-scrub-duty-raven-arena
 bip_39_word_dash_2: thing-victory
 bip_39_word_dash_3: thing-victory-disorder
-bip_39_word_dash_4: thing-victory-disorder-mercy
-bip_39_word_dash_5: thing-victory-disorder-mercy-setup
-bip_39_word_dash_6: thing-victory-disorder-mercy-setup-result
-bip_39_word_dash_7: thing-victory-disorder-mercy-setup-result-retire
-bip_39_word_dash_8: thing-victory-disorder-mercy-setup-result-retire-young
-bip_39_word_dash_9: thing-victory-disorder-mercy-setup-result-retire-young-scrub
-bip_39_word_new_br_1: thing
-bip_39_word_new_br_10: thing<br>victory<br>disorder<br>mercy<br>setup<br>result<br>retire<br>young<br>scrub<br>duty
-bip_39_word_new_br_11: thing<br>victory<br>disorder<br>mercy<br>setup<br>result<br>retire<br>young<br>scrub<br>duty<br>raven
 bip_39_word_new_br_12: thing<br>victory<br>disorder<br>mercy<br>setup<br>result<br>retire<br>young<br>scrub<br>duty<br>raven<br>arena
 bip_39_word_new_br_2: thing<br>victory
 bip_39_word_new_br_3: thing<br>victory<br>disorder
-bip_39_word_new_br_4: thing<br>victory<br>disorder<br>mercy
-bip_39_word_new_br_5: thing<br>victory<br>disorder<br>mercy<br>setup
-bip_39_word_new_br_6: thing<br>victory<br>disorder<br>mercy<br>setup<br>result
-bip_39_word_new_br_7: thing<br>victory<br>disorder<br>mercy<br>setup<br>result<br>retire
-bip_39_word_new_br_8: thing<br>victory<br>disorder<br>mercy<br>setup<br>result<br>retire<br>young
-bip_39_word_new_br_9: thing<br>victory<br>disorder<br>mercy<br>setup<br>result<br>retire<br>young<br>scrub
-bip_39_word_new_line_1: thing
-bip_39_word_new_line_10: 'thing
-
-  victory
-
-  disorder
-
-  mercy
-
-  setup
-
-  result
-
-  retire
-
-  young
-
-  scrub
-
-  duty'
-bip_39_word_new_line_11: 'thing
-
-  victory
-
-  disorder
-
-  mercy
-
-  setup
-
-  result
-
-  retire
-
-  young
-
-  scrub
-
-  duty
-
-  raven'
 bip_39_word_new_line_12: 'thing
 
   victory
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'thing
   victory
 
   disorder'
-bip_39_word_new_line_4: 'thing
-
-  victory
-
-  disorder
-
-  mercy'
-bip_39_word_new_line_5: 'thing
-
-  victory
-
-  disorder
-
-  mercy
-
-  setup'
-bip_39_word_new_line_6: 'thing
-
-  victory
-
-  disorder
-
-  mercy
-
-  setup
-
-  result'
-bip_39_word_new_line_7: 'thing
-
-  victory
-
-  disorder
-
-  mercy
-
-  setup
-
-  result
-
-  retire'
-bip_39_word_new_line_8: 'thing
-
-  victory
-
-  disorder
-
-  mercy
-
-  setup
-
-  result
-
-  retire
-
-  young'
-bip_39_word_new_line_9: 'thing
-
-  victory
-
-  disorder
-
-  mercy
-
-  setup
-
-  result
-
-  retire
-
-  young
-
-  scrub'
-bip_39_word_no_space_1: thing
-bip_39_word_no_space_10: thingvictorydisordermercysetupresultretireyoungscrubduty
-bip_39_word_no_space_11: thingvictorydisordermercysetupresultretireyoungscrubdutyraven
 bip_39_word_no_space_12: thingvictorydisordermercysetupresultretireyoungscrubdutyravenarena
 bip_39_word_no_space_2: thingvictory
 bip_39_word_no_space_3: thingvictorydisorder
-bip_39_word_no_space_4: thingvictorydisordermercy
-bip_39_word_no_space_5: thingvictorydisordermercysetup
-bip_39_word_no_space_6: thingvictorydisordermercysetupresult
-bip_39_word_no_space_7: thingvictorydisordermercysetupresultretire
-bip_39_word_no_space_8: thingvictorydisordermercysetupresultretireyoung
-bip_39_word_no_space_9: thingvictorydisordermercysetupresultretireyoungscrub
-bip_39_word_space_0:
-- thing
-- victory
-- disorder
-- mercy
-- setup
-- result
-- retire
-- young
-- scrub
-- duty
-- raven
-- arena
-bip_39_word_space_1: thing
-bip_39_word_space_10: thing victory disorder mercy setup result retire young scrub
-  duty
-bip_39_word_space_11: thing victory disorder mercy setup result retire young scrub
-  duty raven
 bip_39_word_space_12: thing victory disorder mercy setup result retire young scrub
   duty raven arena
 bip_39_word_space_2: thing victory
 bip_39_word_space_3: thing victory disorder
-bip_39_word_space_4: thing victory disorder mercy
-bip_39_word_space_5: thing victory disorder mercy setup
-bip_39_word_space_6: thing victory disorder mercy setup result
-bip_39_word_space_7: thing victory disorder mercy setup result retire
-bip_39_word_space_8: thing victory disorder mercy setup result retire young
-bip_39_word_space_9: thing victory disorder mercy setup result retire young scrub
-bip_39_word_underscore_1: thing
-bip_39_word_underscore_10: thing_victory_disorder_mercy_setup_result_retire_young_scrub_duty
-bip_39_word_underscore_11: thing_victory_disorder_mercy_setup_result_retire_young_scrub_duty_raven
 bip_39_word_underscore_12: thing_victory_disorder_mercy_setup_result_retire_young_scrub_duty_raven_arena
 bip_39_word_underscore_2: thing_victory
 bip_39_word_underscore_3: thing_victory_disorder
-bip_39_word_underscore_4: thing_victory_disorder_mercy
-bip_39_word_underscore_5: thing_victory_disorder_mercy_setup
-bip_39_word_underscore_6: thing_victory_disorder_mercy_setup_result
-bip_39_word_underscore_7: thing_victory_disorder_mercy_setup_result_retire
-bip_39_word_underscore_8: thing_victory_disorder_mercy_setup_result_retire_young
-bip_39_word_underscore_9: thing_victory_disorder_mercy_setup_result_retire_young_scrub
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

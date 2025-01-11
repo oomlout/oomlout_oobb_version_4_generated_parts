@@ -1,68 +1,9 @@
-bip_39_word_dash_1: pumpkin
-bip_39_word_dash_10: pumpkin-tumble-regret-cart-frozen-reason-sugar-submit-broom-brand
-bip_39_word_dash_11: pumpkin-tumble-regret-cart-frozen-reason-sugar-submit-broom-brand-cost
 bip_39_word_dash_12: pumpkin-tumble-regret-cart-frozen-reason-sugar-submit-broom-brand-cost-average
 bip_39_word_dash_2: pumpkin-tumble
 bip_39_word_dash_3: pumpkin-tumble-regret
-bip_39_word_dash_4: pumpkin-tumble-regret-cart
-bip_39_word_dash_5: pumpkin-tumble-regret-cart-frozen
-bip_39_word_dash_6: pumpkin-tumble-regret-cart-frozen-reason
-bip_39_word_dash_7: pumpkin-tumble-regret-cart-frozen-reason-sugar
-bip_39_word_dash_8: pumpkin-tumble-regret-cart-frozen-reason-sugar-submit
-bip_39_word_dash_9: pumpkin-tumble-regret-cart-frozen-reason-sugar-submit-broom
-bip_39_word_new_br_1: pumpkin
-bip_39_word_new_br_10: pumpkin<br>tumble<br>regret<br>cart<br>frozen<br>reason<br>sugar<br>submit<br>broom<br>brand
-bip_39_word_new_br_11: pumpkin<br>tumble<br>regret<br>cart<br>frozen<br>reason<br>sugar<br>submit<br>broom<br>brand<br>cost
 bip_39_word_new_br_12: pumpkin<br>tumble<br>regret<br>cart<br>frozen<br>reason<br>sugar<br>submit<br>broom<br>brand<br>cost<br>average
 bip_39_word_new_br_2: pumpkin<br>tumble
 bip_39_word_new_br_3: pumpkin<br>tumble<br>regret
-bip_39_word_new_br_4: pumpkin<br>tumble<br>regret<br>cart
-bip_39_word_new_br_5: pumpkin<br>tumble<br>regret<br>cart<br>frozen
-bip_39_word_new_br_6: pumpkin<br>tumble<br>regret<br>cart<br>frozen<br>reason
-bip_39_word_new_br_7: pumpkin<br>tumble<br>regret<br>cart<br>frozen<br>reason<br>sugar
-bip_39_word_new_br_8: pumpkin<br>tumble<br>regret<br>cart<br>frozen<br>reason<br>sugar<br>submit
-bip_39_word_new_br_9: pumpkin<br>tumble<br>regret<br>cart<br>frozen<br>reason<br>sugar<br>submit<br>broom
-bip_39_word_new_line_1: pumpkin
-bip_39_word_new_line_10: 'pumpkin
-
-  tumble
-
-  regret
-
-  cart
-
-  frozen
-
-  reason
-
-  sugar
-
-  submit
-
-  broom
-
-  brand'
-bip_39_word_new_line_11: 'pumpkin
-
-  tumble
-
-  regret
-
-  cart
-
-  frozen
-
-  reason
-
-  sugar
-
-  submit
-
-  broom
-
-  brand
-
-  cost'
 bip_39_word_new_line_12: 'pumpkin
 
   tumble
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'pumpkin
   tumble
 
   regret'
-bip_39_word_new_line_4: 'pumpkin
-
-  tumble
-
-  regret
-
-  cart'
-bip_39_word_new_line_5: 'pumpkin
-
-  tumble
-
-  regret
-
-  cart
-
-  frozen'
-bip_39_word_new_line_6: 'pumpkin
-
-  tumble
-
-  regret
-
-  cart
-
-  frozen
-
-  reason'
-bip_39_word_new_line_7: 'pumpkin
-
-  tumble
-
-  regret
-
-  cart
-
-  frozen
-
-  reason
-
-  sugar'
-bip_39_word_new_line_8: 'pumpkin
-
-  tumble
-
-  regret
-
-  cart
-
-  frozen
-
-  reason
-
-  sugar
-
-  submit'
-bip_39_word_new_line_9: 'pumpkin
-
-  tumble
-
-  regret
-
-  cart
-
-  frozen
-
-  reason
-
-  sugar
-
-  submit
-
-  broom'
-bip_39_word_no_space_1: pumpkin
-bip_39_word_no_space_10: pumpkintumbleregretcartfrozenreasonsugarsubmitbroombrand
-bip_39_word_no_space_11: pumpkintumbleregretcartfrozenreasonsugarsubmitbroombrandcost
 bip_39_word_no_space_12: pumpkintumbleregretcartfrozenreasonsugarsubmitbroombrandcostaverage
 bip_39_word_no_space_2: pumpkintumble
 bip_39_word_no_space_3: pumpkintumbleregret
-bip_39_word_no_space_4: pumpkintumbleregretcart
-bip_39_word_no_space_5: pumpkintumbleregretcartfrozen
-bip_39_word_no_space_6: pumpkintumbleregretcartfrozenreason
-bip_39_word_no_space_7: pumpkintumbleregretcartfrozenreasonsugar
-bip_39_word_no_space_8: pumpkintumbleregretcartfrozenreasonsugarsubmit
-bip_39_word_no_space_9: pumpkintumbleregretcartfrozenreasonsugarsubmitbroom
-bip_39_word_space_0:
-- pumpkin
-- tumble
-- regret
-- cart
-- frozen
-- reason
-- sugar
-- submit
-- broom
-- brand
-- cost
-- average
-bip_39_word_space_1: pumpkin
-bip_39_word_space_10: pumpkin tumble regret cart frozen reason sugar submit broom
-  brand
-bip_39_word_space_11: pumpkin tumble regret cart frozen reason sugar submit broom
-  brand cost
 bip_39_word_space_12: pumpkin tumble regret cart frozen reason sugar submit broom
   brand cost average
 bip_39_word_space_2: pumpkin tumble
 bip_39_word_space_3: pumpkin tumble regret
-bip_39_word_space_4: pumpkin tumble regret cart
-bip_39_word_space_5: pumpkin tumble regret cart frozen
-bip_39_word_space_6: pumpkin tumble regret cart frozen reason
-bip_39_word_space_7: pumpkin tumble regret cart frozen reason sugar
-bip_39_word_space_8: pumpkin tumble regret cart frozen reason sugar submit
-bip_39_word_space_9: pumpkin tumble regret cart frozen reason sugar submit broom
-bip_39_word_underscore_1: pumpkin
-bip_39_word_underscore_10: pumpkin_tumble_regret_cart_frozen_reason_sugar_submit_broom_brand
-bip_39_word_underscore_11: pumpkin_tumble_regret_cart_frozen_reason_sugar_submit_broom_brand_cost
 bip_39_word_underscore_12: pumpkin_tumble_regret_cart_frozen_reason_sugar_submit_broom_brand_cost_average
 bip_39_word_underscore_2: pumpkin_tumble
 bip_39_word_underscore_3: pumpkin_tumble_regret
-bip_39_word_underscore_4: pumpkin_tumble_regret_cart
-bip_39_word_underscore_5: pumpkin_tumble_regret_cart_frozen
-bip_39_word_underscore_6: pumpkin_tumble_regret_cart_frozen_reason
-bip_39_word_underscore_7: pumpkin_tumble_regret_cart_frozen_reason_sugar
-bip_39_word_underscore_8: pumpkin_tumble_regret_cart_frozen_reason_sugar_submit
-bip_39_word_underscore_9: pumpkin_tumble_regret_cart_frozen_reason_sugar_submit_broom
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: order
-bip_39_word_dash_10: order-poem-become-age-vital-rare-dolphin-near-artefact-winner
-bip_39_word_dash_11: order-poem-become-age-vital-rare-dolphin-near-artefact-winner-surface
 bip_39_word_dash_12: order-poem-become-age-vital-rare-dolphin-near-artefact-winner-surface-all
 bip_39_word_dash_2: order-poem
 bip_39_word_dash_3: order-poem-become
-bip_39_word_dash_4: order-poem-become-age
-bip_39_word_dash_5: order-poem-become-age-vital
-bip_39_word_dash_6: order-poem-become-age-vital-rare
-bip_39_word_dash_7: order-poem-become-age-vital-rare-dolphin
-bip_39_word_dash_8: order-poem-become-age-vital-rare-dolphin-near
-bip_39_word_dash_9: order-poem-become-age-vital-rare-dolphin-near-artefact
-bip_39_word_new_br_1: order
-bip_39_word_new_br_10: order<br>poem<br>become<br>age<br>vital<br>rare<br>dolphin<br>near<br>artefact<br>winner
-bip_39_word_new_br_11: order<br>poem<br>become<br>age<br>vital<br>rare<br>dolphin<br>near<br>artefact<br>winner<br>surface
 bip_39_word_new_br_12: order<br>poem<br>become<br>age<br>vital<br>rare<br>dolphin<br>near<br>artefact<br>winner<br>surface<br>all
 bip_39_word_new_br_2: order<br>poem
 bip_39_word_new_br_3: order<br>poem<br>become
-bip_39_word_new_br_4: order<br>poem<br>become<br>age
-bip_39_word_new_br_5: order<br>poem<br>become<br>age<br>vital
-bip_39_word_new_br_6: order<br>poem<br>become<br>age<br>vital<br>rare
-bip_39_word_new_br_7: order<br>poem<br>become<br>age<br>vital<br>rare<br>dolphin
-bip_39_word_new_br_8: order<br>poem<br>become<br>age<br>vital<br>rare<br>dolphin<br>near
-bip_39_word_new_br_9: order<br>poem<br>become<br>age<br>vital<br>rare<br>dolphin<br>near<br>artefact
-bip_39_word_new_line_1: order
-bip_39_word_new_line_10: 'order
-
-  poem
-
-  become
-
-  age
-
-  vital
-
-  rare
-
-  dolphin
-
-  near
-
-  artefact
-
-  winner'
-bip_39_word_new_line_11: 'order
-
-  poem
-
-  become
-
-  age
-
-  vital
-
-  rare
-
-  dolphin
-
-  near
-
-  artefact
-
-  winner
-
-  surface'
 bip_39_word_new_line_12: 'order
 
   poem
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'order
   poem
 
   become'
-bip_39_word_new_line_4: 'order
-
-  poem
-
-  become
-
-  age'
-bip_39_word_new_line_5: 'order
-
-  poem
-
-  become
-
-  age
-
-  vital'
-bip_39_word_new_line_6: 'order
-
-  poem
-
-  become
-
-  age
-
-  vital
-
-  rare'
-bip_39_word_new_line_7: 'order
-
-  poem
-
-  become
-
-  age
-
-  vital
-
-  rare
-
-  dolphin'
-bip_39_word_new_line_8: 'order
-
-  poem
-
-  become
-
-  age
-
-  vital
-
-  rare
-
-  dolphin
-
-  near'
-bip_39_word_new_line_9: 'order
-
-  poem
-
-  become
-
-  age
-
-  vital
-
-  rare
-
-  dolphin
-
-  near
-
-  artefact'
-bip_39_word_no_space_1: order
-bip_39_word_no_space_10: orderpoembecomeagevitalraredolphinnearartefactwinner
-bip_39_word_no_space_11: orderpoembecomeagevitalraredolphinnearartefactwinnersurface
 bip_39_word_no_space_12: orderpoembecomeagevitalraredolphinnearartefactwinnersurfaceall
 bip_39_word_no_space_2: orderpoem
 bip_39_word_no_space_3: orderpoembecome
-bip_39_word_no_space_4: orderpoembecomeage
-bip_39_word_no_space_5: orderpoembecomeagevital
-bip_39_word_no_space_6: orderpoembecomeagevitalrare
-bip_39_word_no_space_7: orderpoembecomeagevitalraredolphin
-bip_39_word_no_space_8: orderpoembecomeagevitalraredolphinnear
-bip_39_word_no_space_9: orderpoembecomeagevitalraredolphinnearartefact
-bip_39_word_space_0:
-- order
-- poem
-- become
-- age
-- vital
-- rare
-- dolphin
-- near
-- artefact
-- winner
-- surface
-- all
-bip_39_word_space_1: order
-bip_39_word_space_10: order poem become age vital rare dolphin near artefact winner
-bip_39_word_space_11: order poem become age vital rare dolphin near artefact winner
-  surface
 bip_39_word_space_12: order poem become age vital rare dolphin near artefact winner
   surface all
 bip_39_word_space_2: order poem
 bip_39_word_space_3: order poem become
-bip_39_word_space_4: order poem become age
-bip_39_word_space_5: order poem become age vital
-bip_39_word_space_6: order poem become age vital rare
-bip_39_word_space_7: order poem become age vital rare dolphin
-bip_39_word_space_8: order poem become age vital rare dolphin near
-bip_39_word_space_9: order poem become age vital rare dolphin near artefact
-bip_39_word_underscore_1: order
-bip_39_word_underscore_10: order_poem_become_age_vital_rare_dolphin_near_artefact_winner
-bip_39_word_underscore_11: order_poem_become_age_vital_rare_dolphin_near_artefact_winner_surface
 bip_39_word_underscore_12: order_poem_become_age_vital_rare_dolphin_near_artefact_winner_surface_all
 bip_39_word_underscore_2: order_poem
 bip_39_word_underscore_3: order_poem_become
-bip_39_word_underscore_4: order_poem_become_age
-bip_39_word_underscore_5: order_poem_become_age_vital
-bip_39_word_underscore_6: order_poem_become_age_vital_rare
-bip_39_word_underscore_7: order_poem_become_age_vital_rare_dolphin
-bip_39_word_underscore_8: order_poem_become_age_vital_rare_dolphin_near
-bip_39_word_underscore_9: order_poem_become_age_vital_rare_dolphin_near_artefact
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

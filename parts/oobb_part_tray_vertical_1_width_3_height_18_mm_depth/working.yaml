@@ -1,68 +1,9 @@
-bip_39_word_dash_1: fog
-bip_39_word_dash_10: fog-setup-scrap-shoot-stable-cheap-usual-school-exotic-stay
-bip_39_word_dash_11: fog-setup-scrap-shoot-stable-cheap-usual-school-exotic-stay-describe
 bip_39_word_dash_12: fog-setup-scrap-shoot-stable-cheap-usual-school-exotic-stay-describe-acid
 bip_39_word_dash_2: fog-setup
 bip_39_word_dash_3: fog-setup-scrap
-bip_39_word_dash_4: fog-setup-scrap-shoot
-bip_39_word_dash_5: fog-setup-scrap-shoot-stable
-bip_39_word_dash_6: fog-setup-scrap-shoot-stable-cheap
-bip_39_word_dash_7: fog-setup-scrap-shoot-stable-cheap-usual
-bip_39_word_dash_8: fog-setup-scrap-shoot-stable-cheap-usual-school
-bip_39_word_dash_9: fog-setup-scrap-shoot-stable-cheap-usual-school-exotic
-bip_39_word_new_br_1: fog
-bip_39_word_new_br_10: fog<br>setup<br>scrap<br>shoot<br>stable<br>cheap<br>usual<br>school<br>exotic<br>stay
-bip_39_word_new_br_11: fog<br>setup<br>scrap<br>shoot<br>stable<br>cheap<br>usual<br>school<br>exotic<br>stay<br>describe
 bip_39_word_new_br_12: fog<br>setup<br>scrap<br>shoot<br>stable<br>cheap<br>usual<br>school<br>exotic<br>stay<br>describe<br>acid
 bip_39_word_new_br_2: fog<br>setup
 bip_39_word_new_br_3: fog<br>setup<br>scrap
-bip_39_word_new_br_4: fog<br>setup<br>scrap<br>shoot
-bip_39_word_new_br_5: fog<br>setup<br>scrap<br>shoot<br>stable
-bip_39_word_new_br_6: fog<br>setup<br>scrap<br>shoot<br>stable<br>cheap
-bip_39_word_new_br_7: fog<br>setup<br>scrap<br>shoot<br>stable<br>cheap<br>usual
-bip_39_word_new_br_8: fog<br>setup<br>scrap<br>shoot<br>stable<br>cheap<br>usual<br>school
-bip_39_word_new_br_9: fog<br>setup<br>scrap<br>shoot<br>stable<br>cheap<br>usual<br>school<br>exotic
-bip_39_word_new_line_1: fog
-bip_39_word_new_line_10: 'fog
-
-  setup
-
-  scrap
-
-  shoot
-
-  stable
-
-  cheap
-
-  usual
-
-  school
-
-  exotic
-
-  stay'
-bip_39_word_new_line_11: 'fog
-
-  setup
-
-  scrap
-
-  shoot
-
-  stable
-
-  cheap
-
-  usual
-
-  school
-
-  exotic
-
-  stay
-
-  describe'
 bip_39_word_new_line_12: 'fog
 
   setup
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'fog
   setup
 
   scrap'
-bip_39_word_new_line_4: 'fog
-
-  setup
-
-  scrap
-
-  shoot'
-bip_39_word_new_line_5: 'fog
-
-  setup
-
-  scrap
-
-  shoot
-
-  stable'
-bip_39_word_new_line_6: 'fog
-
-  setup
-
-  scrap
-
-  shoot
-
-  stable
-
-  cheap'
-bip_39_word_new_line_7: 'fog
-
-  setup
-
-  scrap
-
-  shoot
-
-  stable
-
-  cheap
-
-  usual'
-bip_39_word_new_line_8: 'fog
-
-  setup
-
-  scrap
-
-  shoot
-
-  stable
-
-  cheap
-
-  usual
-
-  school'
-bip_39_word_new_line_9: 'fog
-
-  setup
-
-  scrap
-
-  shoot
-
-  stable
-
-  cheap
-
-  usual
-
-  school
-
-  exotic'
-bip_39_word_no_space_1: fog
-bip_39_word_no_space_10: fogsetupscrapshootstablecheapusualschoolexoticstay
-bip_39_word_no_space_11: fogsetupscrapshootstablecheapusualschoolexoticstaydescribe
 bip_39_word_no_space_12: fogsetupscrapshootstablecheapusualschoolexoticstaydescribeacid
 bip_39_word_no_space_2: fogsetup
 bip_39_word_no_space_3: fogsetupscrap
-bip_39_word_no_space_4: fogsetupscrapshoot
-bip_39_word_no_space_5: fogsetupscrapshootstable
-bip_39_word_no_space_6: fogsetupscrapshootstablecheap
-bip_39_word_no_space_7: fogsetupscrapshootstablecheapusual
-bip_39_word_no_space_8: fogsetupscrapshootstablecheapusualschool
-bip_39_word_no_space_9: fogsetupscrapshootstablecheapusualschoolexotic
-bip_39_word_space_0:
-- fog
-- setup
-- scrap
-- shoot
-- stable
-- cheap
-- usual
-- school
-- exotic
-- stay
-- describe
-- acid
-bip_39_word_space_1: fog
-bip_39_word_space_10: fog setup scrap shoot stable cheap usual school exotic stay
-bip_39_word_space_11: fog setup scrap shoot stable cheap usual school exotic stay
-  describe
 bip_39_word_space_12: fog setup scrap shoot stable cheap usual school exotic stay
   describe acid
 bip_39_word_space_2: fog setup
 bip_39_word_space_3: fog setup scrap
-bip_39_word_space_4: fog setup scrap shoot
-bip_39_word_space_5: fog setup scrap shoot stable
-bip_39_word_space_6: fog setup scrap shoot stable cheap
-bip_39_word_space_7: fog setup scrap shoot stable cheap usual
-bip_39_word_space_8: fog setup scrap shoot stable cheap usual school
-bip_39_word_space_9: fog setup scrap shoot stable cheap usual school exotic
-bip_39_word_underscore_1: fog
-bip_39_word_underscore_10: fog_setup_scrap_shoot_stable_cheap_usual_school_exotic_stay
-bip_39_word_underscore_11: fog_setup_scrap_shoot_stable_cheap_usual_school_exotic_stay_describe
 bip_39_word_underscore_12: fog_setup_scrap_shoot_stable_cheap_usual_school_exotic_stay_describe_acid
 bip_39_word_underscore_2: fog_setup
 bip_39_word_underscore_3: fog_setup_scrap
-bip_39_word_underscore_4: fog_setup_scrap_shoot
-bip_39_word_underscore_5: fog_setup_scrap_shoot_stable
-bip_39_word_underscore_6: fog_setup_scrap_shoot_stable_cheap
-bip_39_word_underscore_7: fog_setup_scrap_shoot_stable_cheap_usual
-bip_39_word_underscore_8: fog_setup_scrap_shoot_stable_cheap_usual_school
-bip_39_word_underscore_9: fog_setup_scrap_shoot_stable_cheap_usual_school_exotic
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

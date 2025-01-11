@@ -1,68 +1,9 @@
-bip_39_word_dash_1: filter
-bip_39_word_dash_10: filter-speed-convince-business-alone-matrix-dolphin-absent-mule-push
-bip_39_word_dash_11: filter-speed-convince-business-alone-matrix-dolphin-absent-mule-push-pause
 bip_39_word_dash_12: filter-speed-convince-business-alone-matrix-dolphin-absent-mule-push-pause-act
 bip_39_word_dash_2: filter-speed
 bip_39_word_dash_3: filter-speed-convince
-bip_39_word_dash_4: filter-speed-convince-business
-bip_39_word_dash_5: filter-speed-convince-business-alone
-bip_39_word_dash_6: filter-speed-convince-business-alone-matrix
-bip_39_word_dash_7: filter-speed-convince-business-alone-matrix-dolphin
-bip_39_word_dash_8: filter-speed-convince-business-alone-matrix-dolphin-absent
-bip_39_word_dash_9: filter-speed-convince-business-alone-matrix-dolphin-absent-mule
-bip_39_word_new_br_1: filter
-bip_39_word_new_br_10: filter<br>speed<br>convince<br>business<br>alone<br>matrix<br>dolphin<br>absent<br>mule<br>push
-bip_39_word_new_br_11: filter<br>speed<br>convince<br>business<br>alone<br>matrix<br>dolphin<br>absent<br>mule<br>push<br>pause
 bip_39_word_new_br_12: filter<br>speed<br>convince<br>business<br>alone<br>matrix<br>dolphin<br>absent<br>mule<br>push<br>pause<br>act
 bip_39_word_new_br_2: filter<br>speed
 bip_39_word_new_br_3: filter<br>speed<br>convince
-bip_39_word_new_br_4: filter<br>speed<br>convince<br>business
-bip_39_word_new_br_5: filter<br>speed<br>convince<br>business<br>alone
-bip_39_word_new_br_6: filter<br>speed<br>convince<br>business<br>alone<br>matrix
-bip_39_word_new_br_7: filter<br>speed<br>convince<br>business<br>alone<br>matrix<br>dolphin
-bip_39_word_new_br_8: filter<br>speed<br>convince<br>business<br>alone<br>matrix<br>dolphin<br>absent
-bip_39_word_new_br_9: filter<br>speed<br>convince<br>business<br>alone<br>matrix<br>dolphin<br>absent<br>mule
-bip_39_word_new_line_1: filter
-bip_39_word_new_line_10: 'filter
-
-  speed
-
-  convince
-
-  business
-
-  alone
-
-  matrix
-
-  dolphin
-
-  absent
-
-  mule
-
-  push'
-bip_39_word_new_line_11: 'filter
-
-  speed
-
-  convince
-
-  business
-
-  alone
-
-  matrix
-
-  dolphin
-
-  absent
-
-  mule
-
-  push
-
-  pause'
 bip_39_word_new_line_12: 'filter
 
   speed
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'filter
   speed
 
   convince'
-bip_39_word_new_line_4: 'filter
-
-  speed
-
-  convince
-
-  business'
-bip_39_word_new_line_5: 'filter
-
-  speed
-
-  convince
-
-  business
-
-  alone'
-bip_39_word_new_line_6: 'filter
-
-  speed
-
-  convince
-
-  business
-
-  alone
-
-  matrix'
-bip_39_word_new_line_7: 'filter
-
-  speed
-
-  convince
-
-  business
-
-  alone
-
-  matrix
-
-  dolphin'
-bip_39_word_new_line_8: 'filter
-
-  speed
-
-  convince
-
-  business
-
-  alone
-
-  matrix
-
-  dolphin
-
-  absent'
-bip_39_word_new_line_9: 'filter
-
-  speed
-
-  convince
-
-  business
-
-  alone
-
-  matrix
-
-  dolphin
-
-  absent
-
-  mule'
-bip_39_word_no_space_1: filter
-bip_39_word_no_space_10: filterspeedconvincebusinessalonematrixdolphinabsentmulepush
-bip_39_word_no_space_11: filterspeedconvincebusinessalonematrixdolphinabsentmulepushpause
 bip_39_word_no_space_12: filterspeedconvincebusinessalonematrixdolphinabsentmulepushpauseact
 bip_39_word_no_space_2: filterspeed
 bip_39_word_no_space_3: filterspeedconvince
-bip_39_word_no_space_4: filterspeedconvincebusiness
-bip_39_word_no_space_5: filterspeedconvincebusinessalone
-bip_39_word_no_space_6: filterspeedconvincebusinessalonematrix
-bip_39_word_no_space_7: filterspeedconvincebusinessalonematrixdolphin
-bip_39_word_no_space_8: filterspeedconvincebusinessalonematrixdolphinabsent
-bip_39_word_no_space_9: filterspeedconvincebusinessalonematrixdolphinabsentmule
-bip_39_word_space_0:
-- filter
-- speed
-- convince
-- business
-- alone
-- matrix
-- dolphin
-- absent
-- mule
-- push
-- pause
-- act
-bip_39_word_space_1: filter
-bip_39_word_space_10: filter speed convince business alone matrix dolphin absent mule
-  push
-bip_39_word_space_11: filter speed convince business alone matrix dolphin absent mule
-  push pause
 bip_39_word_space_12: filter speed convince business alone matrix dolphin absent mule
   push pause act
 bip_39_word_space_2: filter speed
 bip_39_word_space_3: filter speed convince
-bip_39_word_space_4: filter speed convince business
-bip_39_word_space_5: filter speed convince business alone
-bip_39_word_space_6: filter speed convince business alone matrix
-bip_39_word_space_7: filter speed convince business alone matrix dolphin
-bip_39_word_space_8: filter speed convince business alone matrix dolphin absent
-bip_39_word_space_9: filter speed convince business alone matrix dolphin absent mule
-bip_39_word_underscore_1: filter
-bip_39_word_underscore_10: filter_speed_convince_business_alone_matrix_dolphin_absent_mule_push
-bip_39_word_underscore_11: filter_speed_convince_business_alone_matrix_dolphin_absent_mule_push_pause
 bip_39_word_underscore_12: filter_speed_convince_business_alone_matrix_dolphin_absent_mule_push_pause_act
 bip_39_word_underscore_2: filter_speed
 bip_39_word_underscore_3: filter_speed_convince
-bip_39_word_underscore_4: filter_speed_convince_business
-bip_39_word_underscore_5: filter_speed_convince_business_alone
-bip_39_word_underscore_6: filter_speed_convince_business_alone_matrix
-bip_39_word_underscore_7: filter_speed_convince_business_alone_matrix_dolphin
-bip_39_word_underscore_8: filter_speed_convince_business_alone_matrix_dolphin_absent
-bip_39_word_underscore_9: filter_speed_convince_business_alone_matrix_dolphin_absent_mule
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

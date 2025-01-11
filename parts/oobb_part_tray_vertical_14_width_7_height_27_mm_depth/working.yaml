@@ -1,68 +1,9 @@
-bip_39_word_dash_1: smoke
-bip_39_word_dash_10: smoke-fatal-hold-gym-foot-winter-venture-hold-sword-tray
-bip_39_word_dash_11: smoke-fatal-hold-gym-foot-winter-venture-hold-sword-tray-claim
 bip_39_word_dash_12: smoke-fatal-hold-gym-foot-winter-venture-hold-sword-tray-claim-assault
 bip_39_word_dash_2: smoke-fatal
 bip_39_word_dash_3: smoke-fatal-hold
-bip_39_word_dash_4: smoke-fatal-hold-gym
-bip_39_word_dash_5: smoke-fatal-hold-gym-foot
-bip_39_word_dash_6: smoke-fatal-hold-gym-foot-winter
-bip_39_word_dash_7: smoke-fatal-hold-gym-foot-winter-venture
-bip_39_word_dash_8: smoke-fatal-hold-gym-foot-winter-venture-hold
-bip_39_word_dash_9: smoke-fatal-hold-gym-foot-winter-venture-hold-sword
-bip_39_word_new_br_1: smoke
-bip_39_word_new_br_10: smoke<br>fatal<br>hold<br>gym<br>foot<br>winter<br>venture<br>hold<br>sword<br>tray
-bip_39_word_new_br_11: smoke<br>fatal<br>hold<br>gym<br>foot<br>winter<br>venture<br>hold<br>sword<br>tray<br>claim
 bip_39_word_new_br_12: smoke<br>fatal<br>hold<br>gym<br>foot<br>winter<br>venture<br>hold<br>sword<br>tray<br>claim<br>assault
 bip_39_word_new_br_2: smoke<br>fatal
 bip_39_word_new_br_3: smoke<br>fatal<br>hold
-bip_39_word_new_br_4: smoke<br>fatal<br>hold<br>gym
-bip_39_word_new_br_5: smoke<br>fatal<br>hold<br>gym<br>foot
-bip_39_word_new_br_6: smoke<br>fatal<br>hold<br>gym<br>foot<br>winter
-bip_39_word_new_br_7: smoke<br>fatal<br>hold<br>gym<br>foot<br>winter<br>venture
-bip_39_word_new_br_8: smoke<br>fatal<br>hold<br>gym<br>foot<br>winter<br>venture<br>hold
-bip_39_word_new_br_9: smoke<br>fatal<br>hold<br>gym<br>foot<br>winter<br>venture<br>hold<br>sword
-bip_39_word_new_line_1: smoke
-bip_39_word_new_line_10: 'smoke
-
-  fatal
-
-  hold
-
-  gym
-
-  foot
-
-  winter
-
-  venture
-
-  hold
-
-  sword
-
-  tray'
-bip_39_word_new_line_11: 'smoke
-
-  fatal
-
-  hold
-
-  gym
-
-  foot
-
-  winter
-
-  venture
-
-  hold
-
-  sword
-
-  tray
-
-  claim'
 bip_39_word_new_line_12: 'smoke
 
   fatal
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'smoke
   fatal
 
   hold'
-bip_39_word_new_line_4: 'smoke
-
-  fatal
-
-  hold
-
-  gym'
-bip_39_word_new_line_5: 'smoke
-
-  fatal
-
-  hold
-
-  gym
-
-  foot'
-bip_39_word_new_line_6: 'smoke
-
-  fatal
-
-  hold
-
-  gym
-
-  foot
-
-  winter'
-bip_39_word_new_line_7: 'smoke
-
-  fatal
-
-  hold
-
-  gym
-
-  foot
-
-  winter
-
-  venture'
-bip_39_word_new_line_8: 'smoke
-
-  fatal
-
-  hold
-
-  gym
-
-  foot
-
-  winter
-
-  venture
-
-  hold'
-bip_39_word_new_line_9: 'smoke
-
-  fatal
-
-  hold
-
-  gym
-
-  foot
-
-  winter
-
-  venture
-
-  hold
-
-  sword'
-bip_39_word_no_space_1: smoke
-bip_39_word_no_space_10: smokefatalholdgymfootwinterventureholdswordtray
-bip_39_word_no_space_11: smokefatalholdgymfootwinterventureholdswordtrayclaim
 bip_39_word_no_space_12: smokefatalholdgymfootwinterventureholdswordtrayclaimassault
 bip_39_word_no_space_2: smokefatal
 bip_39_word_no_space_3: smokefatalhold
-bip_39_word_no_space_4: smokefatalholdgym
-bip_39_word_no_space_5: smokefatalholdgymfoot
-bip_39_word_no_space_6: smokefatalholdgymfootwinter
-bip_39_word_no_space_7: smokefatalholdgymfootwinterventure
-bip_39_word_no_space_8: smokefatalholdgymfootwinterventurehold
-bip_39_word_no_space_9: smokefatalholdgymfootwinterventureholdsword
-bip_39_word_space_0:
-- smoke
-- fatal
-- hold
-- gym
-- foot
-- winter
-- venture
-- hold
-- sword
-- tray
-- claim
-- assault
-bip_39_word_space_1: smoke
-bip_39_word_space_10: smoke fatal hold gym foot winter venture hold sword tray
-bip_39_word_space_11: smoke fatal hold gym foot winter venture hold sword tray claim
 bip_39_word_space_12: smoke fatal hold gym foot winter venture hold sword tray claim
   assault
 bip_39_word_space_2: smoke fatal
 bip_39_word_space_3: smoke fatal hold
-bip_39_word_space_4: smoke fatal hold gym
-bip_39_word_space_5: smoke fatal hold gym foot
-bip_39_word_space_6: smoke fatal hold gym foot winter
-bip_39_word_space_7: smoke fatal hold gym foot winter venture
-bip_39_word_space_8: smoke fatal hold gym foot winter venture hold
-bip_39_word_space_9: smoke fatal hold gym foot winter venture hold sword
-bip_39_word_underscore_1: smoke
-bip_39_word_underscore_10: smoke_fatal_hold_gym_foot_winter_venture_hold_sword_tray
-bip_39_word_underscore_11: smoke_fatal_hold_gym_foot_winter_venture_hold_sword_tray_claim
 bip_39_word_underscore_12: smoke_fatal_hold_gym_foot_winter_venture_hold_sword_tray_claim_assault
 bip_39_word_underscore_2: smoke_fatal
 bip_39_word_underscore_3: smoke_fatal_hold
-bip_39_word_underscore_4: smoke_fatal_hold_gym
-bip_39_word_underscore_5: smoke_fatal_hold_gym_foot
-bip_39_word_underscore_6: smoke_fatal_hold_gym_foot_winter
-bip_39_word_underscore_7: smoke_fatal_hold_gym_foot_winter_venture
-bip_39_word_underscore_8: smoke_fatal_hold_gym_foot_winter_venture_hold
-bip_39_word_underscore_9: smoke_fatal_hold_gym_foot_winter_venture_hold_sword
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

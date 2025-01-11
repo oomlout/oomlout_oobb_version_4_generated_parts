@@ -1,68 +1,9 @@
-bip_39_word_dash_1: adapt
-bip_39_word_dash_10: adapt-output-mimic-adult-engine-ocean-fortune-dry-rotate-crawl
-bip_39_word_dash_11: adapt-output-mimic-adult-engine-ocean-fortune-dry-rotate-crawl-tribe
 bip_39_word_dash_12: adapt-output-mimic-adult-engine-ocean-fortune-dry-rotate-crawl-tribe-adapt
 bip_39_word_dash_2: adapt-output
 bip_39_word_dash_3: adapt-output-mimic
-bip_39_word_dash_4: adapt-output-mimic-adult
-bip_39_word_dash_5: adapt-output-mimic-adult-engine
-bip_39_word_dash_6: adapt-output-mimic-adult-engine-ocean
-bip_39_word_dash_7: adapt-output-mimic-adult-engine-ocean-fortune
-bip_39_word_dash_8: adapt-output-mimic-adult-engine-ocean-fortune-dry
-bip_39_word_dash_9: adapt-output-mimic-adult-engine-ocean-fortune-dry-rotate
-bip_39_word_new_br_1: adapt
-bip_39_word_new_br_10: adapt<br>output<br>mimic<br>adult<br>engine<br>ocean<br>fortune<br>dry<br>rotate<br>crawl
-bip_39_word_new_br_11: adapt<br>output<br>mimic<br>adult<br>engine<br>ocean<br>fortune<br>dry<br>rotate<br>crawl<br>tribe
 bip_39_word_new_br_12: adapt<br>output<br>mimic<br>adult<br>engine<br>ocean<br>fortune<br>dry<br>rotate<br>crawl<br>tribe<br>adapt
 bip_39_word_new_br_2: adapt<br>output
 bip_39_word_new_br_3: adapt<br>output<br>mimic
-bip_39_word_new_br_4: adapt<br>output<br>mimic<br>adult
-bip_39_word_new_br_5: adapt<br>output<br>mimic<br>adult<br>engine
-bip_39_word_new_br_6: adapt<br>output<br>mimic<br>adult<br>engine<br>ocean
-bip_39_word_new_br_7: adapt<br>output<br>mimic<br>adult<br>engine<br>ocean<br>fortune
-bip_39_word_new_br_8: adapt<br>output<br>mimic<br>adult<br>engine<br>ocean<br>fortune<br>dry
-bip_39_word_new_br_9: adapt<br>output<br>mimic<br>adult<br>engine<br>ocean<br>fortune<br>dry<br>rotate
-bip_39_word_new_line_1: adapt
-bip_39_word_new_line_10: 'adapt
-
-  output
-
-  mimic
-
-  adult
-
-  engine
-
-  ocean
-
-  fortune
-
-  dry
-
-  rotate
-
-  crawl'
-bip_39_word_new_line_11: 'adapt
-
-  output
-
-  mimic
-
-  adult
-
-  engine
-
-  ocean
-
-  fortune
-
-  dry
-
-  rotate
-
-  crawl
-
-  tribe'
 bip_39_word_new_line_12: 'adapt
 
   output
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'adapt
   output
 
   mimic'
-bip_39_word_new_line_4: 'adapt
-
-  output
-
-  mimic
-
-  adult'
-bip_39_word_new_line_5: 'adapt
-
-  output
-
-  mimic
-
-  adult
-
-  engine'
-bip_39_word_new_line_6: 'adapt
-
-  output
-
-  mimic
-
-  adult
-
-  engine
-
-  ocean'
-bip_39_word_new_line_7: 'adapt
-
-  output
-
-  mimic
-
-  adult
-
-  engine
-
-  ocean
-
-  fortune'
-bip_39_word_new_line_8: 'adapt
-
-  output
-
-  mimic
-
-  adult
-
-  engine
-
-  ocean
-
-  fortune
-
-  dry'
-bip_39_word_new_line_9: 'adapt
-
-  output
-
-  mimic
-
-  adult
-
-  engine
-
-  ocean
-
-  fortune
-
-  dry
-
-  rotate'
-bip_39_word_no_space_1: adapt
-bip_39_word_no_space_10: adaptoutputmimicadultengineoceanfortunedryrotatecrawl
-bip_39_word_no_space_11: adaptoutputmimicadultengineoceanfortunedryrotatecrawltribe
 bip_39_word_no_space_12: adaptoutputmimicadultengineoceanfortunedryrotatecrawltribeadapt
 bip_39_word_no_space_2: adaptoutput
 bip_39_word_no_space_3: adaptoutputmimic
-bip_39_word_no_space_4: adaptoutputmimicadult
-bip_39_word_no_space_5: adaptoutputmimicadultengine
-bip_39_word_no_space_6: adaptoutputmimicadultengineocean
-bip_39_word_no_space_7: adaptoutputmimicadultengineoceanfortune
-bip_39_word_no_space_8: adaptoutputmimicadultengineoceanfortunedry
-bip_39_word_no_space_9: adaptoutputmimicadultengineoceanfortunedryrotate
-bip_39_word_space_0:
-- adapt
-- output
-- mimic
-- adult
-- engine
-- ocean
-- fortune
-- dry
-- rotate
-- crawl
-- tribe
-- adapt
-bip_39_word_space_1: adapt
-bip_39_word_space_10: adapt output mimic adult engine ocean fortune dry rotate crawl
-bip_39_word_space_11: adapt output mimic adult engine ocean fortune dry rotate crawl
-  tribe
 bip_39_word_space_12: adapt output mimic adult engine ocean fortune dry rotate crawl
   tribe adapt
 bip_39_word_space_2: adapt output
 bip_39_word_space_3: adapt output mimic
-bip_39_word_space_4: adapt output mimic adult
-bip_39_word_space_5: adapt output mimic adult engine
-bip_39_word_space_6: adapt output mimic adult engine ocean
-bip_39_word_space_7: adapt output mimic adult engine ocean fortune
-bip_39_word_space_8: adapt output mimic adult engine ocean fortune dry
-bip_39_word_space_9: adapt output mimic adult engine ocean fortune dry rotate
-bip_39_word_underscore_1: adapt
-bip_39_word_underscore_10: adapt_output_mimic_adult_engine_ocean_fortune_dry_rotate_crawl
-bip_39_word_underscore_11: adapt_output_mimic_adult_engine_ocean_fortune_dry_rotate_crawl_tribe
 bip_39_word_underscore_12: adapt_output_mimic_adult_engine_ocean_fortune_dry_rotate_crawl_tribe_adapt
 bip_39_word_underscore_2: adapt_output
 bip_39_word_underscore_3: adapt_output_mimic
-bip_39_word_underscore_4: adapt_output_mimic_adult
-bip_39_word_underscore_5: adapt_output_mimic_adult_engine
-bip_39_word_underscore_6: adapt_output_mimic_adult_engine_ocean
-bip_39_word_underscore_7: adapt_output_mimic_adult_engine_ocean_fortune
-bip_39_word_underscore_8: adapt_output_mimic_adult_engine_ocean_fortune_dry
-bip_39_word_underscore_9: adapt_output_mimic_adult_engine_ocean_fortune_dry_rotate
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

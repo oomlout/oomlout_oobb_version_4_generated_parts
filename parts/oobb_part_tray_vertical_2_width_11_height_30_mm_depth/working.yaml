@@ -1,68 +1,9 @@
-bip_39_word_dash_1: embark
-bip_39_word_dash_10: embark-settle-embrace-sure-powder-need-jar-gorilla-behave-release
-bip_39_word_dash_11: embark-settle-embrace-sure-powder-need-jar-gorilla-behave-release-muffin
 bip_39_word_dash_12: embark-settle-embrace-sure-powder-need-jar-gorilla-behave-release-muffin-antenna
 bip_39_word_dash_2: embark-settle
 bip_39_word_dash_3: embark-settle-embrace
-bip_39_word_dash_4: embark-settle-embrace-sure
-bip_39_word_dash_5: embark-settle-embrace-sure-powder
-bip_39_word_dash_6: embark-settle-embrace-sure-powder-need
-bip_39_word_dash_7: embark-settle-embrace-sure-powder-need-jar
-bip_39_word_dash_8: embark-settle-embrace-sure-powder-need-jar-gorilla
-bip_39_word_dash_9: embark-settle-embrace-sure-powder-need-jar-gorilla-behave
-bip_39_word_new_br_1: embark
-bip_39_word_new_br_10: embark<br>settle<br>embrace<br>sure<br>powder<br>need<br>jar<br>gorilla<br>behave<br>release
-bip_39_word_new_br_11: embark<br>settle<br>embrace<br>sure<br>powder<br>need<br>jar<br>gorilla<br>behave<br>release<br>muffin
 bip_39_word_new_br_12: embark<br>settle<br>embrace<br>sure<br>powder<br>need<br>jar<br>gorilla<br>behave<br>release<br>muffin<br>antenna
 bip_39_word_new_br_2: embark<br>settle
 bip_39_word_new_br_3: embark<br>settle<br>embrace
-bip_39_word_new_br_4: embark<br>settle<br>embrace<br>sure
-bip_39_word_new_br_5: embark<br>settle<br>embrace<br>sure<br>powder
-bip_39_word_new_br_6: embark<br>settle<br>embrace<br>sure<br>powder<br>need
-bip_39_word_new_br_7: embark<br>settle<br>embrace<br>sure<br>powder<br>need<br>jar
-bip_39_word_new_br_8: embark<br>settle<br>embrace<br>sure<br>powder<br>need<br>jar<br>gorilla
-bip_39_word_new_br_9: embark<br>settle<br>embrace<br>sure<br>powder<br>need<br>jar<br>gorilla<br>behave
-bip_39_word_new_line_1: embark
-bip_39_word_new_line_10: 'embark
-
-  settle
-
-  embrace
-
-  sure
-
-  powder
-
-  need
-
-  jar
-
-  gorilla
-
-  behave
-
-  release'
-bip_39_word_new_line_11: 'embark
-
-  settle
-
-  embrace
-
-  sure
-
-  powder
-
-  need
-
-  jar
-
-  gorilla
-
-  behave
-
-  release
-
-  muffin'
 bip_39_word_new_line_12: 'embark
 
   settle
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'embark
   settle
 
   embrace'
-bip_39_word_new_line_4: 'embark
-
-  settle
-
-  embrace
-
-  sure'
-bip_39_word_new_line_5: 'embark
-
-  settle
-
-  embrace
-
-  sure
-
-  powder'
-bip_39_word_new_line_6: 'embark
-
-  settle
-
-  embrace
-
-  sure
-
-  powder
-
-  need'
-bip_39_word_new_line_7: 'embark
-
-  settle
-
-  embrace
-
-  sure
-
-  powder
-
-  need
-
-  jar'
-bip_39_word_new_line_8: 'embark
-
-  settle
-
-  embrace
-
-  sure
-
-  powder
-
-  need
-
-  jar
-
-  gorilla'
-bip_39_word_new_line_9: 'embark
-
-  settle
-
-  embrace
-
-  sure
-
-  powder
-
-  need
-
-  jar
-
-  gorilla
-
-  behave'
-bip_39_word_no_space_1: embark
-bip_39_word_no_space_10: embarksettleembracesurepowderneedjargorillabehaverelease
-bip_39_word_no_space_11: embarksettleembracesurepowderneedjargorillabehavereleasemuffin
 bip_39_word_no_space_12: embarksettleembracesurepowderneedjargorillabehavereleasemuffinantenna
 bip_39_word_no_space_2: embarksettle
 bip_39_word_no_space_3: embarksettleembrace
-bip_39_word_no_space_4: embarksettleembracesure
-bip_39_word_no_space_5: embarksettleembracesurepowder
-bip_39_word_no_space_6: embarksettleembracesurepowderneed
-bip_39_word_no_space_7: embarksettleembracesurepowderneedjar
-bip_39_word_no_space_8: embarksettleembracesurepowderneedjargorilla
-bip_39_word_no_space_9: embarksettleembracesurepowderneedjargorillabehave
-bip_39_word_space_0:
-- embark
-- settle
-- embrace
-- sure
-- powder
-- need
-- jar
-- gorilla
-- behave
-- release
-- muffin
-- antenna
-bip_39_word_space_1: embark
-bip_39_word_space_10: embark settle embrace sure powder need jar gorilla behave release
-bip_39_word_space_11: embark settle embrace sure powder need jar gorilla behave release
-  muffin
 bip_39_word_space_12: embark settle embrace sure powder need jar gorilla behave release
   muffin antenna
 bip_39_word_space_2: embark settle
 bip_39_word_space_3: embark settle embrace
-bip_39_word_space_4: embark settle embrace sure
-bip_39_word_space_5: embark settle embrace sure powder
-bip_39_word_space_6: embark settle embrace sure powder need
-bip_39_word_space_7: embark settle embrace sure powder need jar
-bip_39_word_space_8: embark settle embrace sure powder need jar gorilla
-bip_39_word_space_9: embark settle embrace sure powder need jar gorilla behave
-bip_39_word_underscore_1: embark
-bip_39_word_underscore_10: embark_settle_embrace_sure_powder_need_jar_gorilla_behave_release
-bip_39_word_underscore_11: embark_settle_embrace_sure_powder_need_jar_gorilla_behave_release_muffin
 bip_39_word_underscore_12: embark_settle_embrace_sure_powder_need_jar_gorilla_behave_release_muffin_antenna
 bip_39_word_underscore_2: embark_settle
 bip_39_word_underscore_3: embark_settle_embrace
-bip_39_word_underscore_4: embark_settle_embrace_sure
-bip_39_word_underscore_5: embark_settle_embrace_sure_powder
-bip_39_word_underscore_6: embark_settle_embrace_sure_powder_need
-bip_39_word_underscore_7: embark_settle_embrace_sure_powder_need_jar
-bip_39_word_underscore_8: embark_settle_embrace_sure_powder_need_jar_gorilla
-bip_39_word_underscore_9: embark_settle_embrace_sure_powder_need_jar_gorilla_behave
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

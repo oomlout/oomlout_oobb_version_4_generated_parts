@@ -1,68 +1,9 @@
-bip_39_word_dash_1: party
-bip_39_word_dash_10: party-object-inherit-erosion-cry-alien-olive-obey-alert-inspire
-bip_39_word_dash_11: party-object-inherit-erosion-cry-alien-olive-obey-alert-inspire-area
 bip_39_word_dash_12: party-object-inherit-erosion-cry-alien-olive-obey-alert-inspire-area-also
 bip_39_word_dash_2: party-object
 bip_39_word_dash_3: party-object-inherit
-bip_39_word_dash_4: party-object-inherit-erosion
-bip_39_word_dash_5: party-object-inherit-erosion-cry
-bip_39_word_dash_6: party-object-inherit-erosion-cry-alien
-bip_39_word_dash_7: party-object-inherit-erosion-cry-alien-olive
-bip_39_word_dash_8: party-object-inherit-erosion-cry-alien-olive-obey
-bip_39_word_dash_9: party-object-inherit-erosion-cry-alien-olive-obey-alert
-bip_39_word_new_br_1: party
-bip_39_word_new_br_10: party<br>object<br>inherit<br>erosion<br>cry<br>alien<br>olive<br>obey<br>alert<br>inspire
-bip_39_word_new_br_11: party<br>object<br>inherit<br>erosion<br>cry<br>alien<br>olive<br>obey<br>alert<br>inspire<br>area
 bip_39_word_new_br_12: party<br>object<br>inherit<br>erosion<br>cry<br>alien<br>olive<br>obey<br>alert<br>inspire<br>area<br>also
 bip_39_word_new_br_2: party<br>object
 bip_39_word_new_br_3: party<br>object<br>inherit
-bip_39_word_new_br_4: party<br>object<br>inherit<br>erosion
-bip_39_word_new_br_5: party<br>object<br>inherit<br>erosion<br>cry
-bip_39_word_new_br_6: party<br>object<br>inherit<br>erosion<br>cry<br>alien
-bip_39_word_new_br_7: party<br>object<br>inherit<br>erosion<br>cry<br>alien<br>olive
-bip_39_word_new_br_8: party<br>object<br>inherit<br>erosion<br>cry<br>alien<br>olive<br>obey
-bip_39_word_new_br_9: party<br>object<br>inherit<br>erosion<br>cry<br>alien<br>olive<br>obey<br>alert
-bip_39_word_new_line_1: party
-bip_39_word_new_line_10: 'party
-
-  object
-
-  inherit
-
-  erosion
-
-  cry
-
-  alien
-
-  olive
-
-  obey
-
-  alert
-
-  inspire'
-bip_39_word_new_line_11: 'party
-
-  object
-
-  inherit
-
-  erosion
-
-  cry
-
-  alien
-
-  olive
-
-  obey
-
-  alert
-
-  inspire
-
-  area'
 bip_39_word_new_line_12: 'party
 
   object
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'party
   object
 
   inherit'
-bip_39_word_new_line_4: 'party
-
-  object
-
-  inherit
-
-  erosion'
-bip_39_word_new_line_5: 'party
-
-  object
-
-  inherit
-
-  erosion
-
-  cry'
-bip_39_word_new_line_6: 'party
-
-  object
-
-  inherit
-
-  erosion
-
-  cry
-
-  alien'
-bip_39_word_new_line_7: 'party
-
-  object
-
-  inherit
-
-  erosion
-
-  cry
-
-  alien
-
-  olive'
-bip_39_word_new_line_8: 'party
-
-  object
-
-  inherit
-
-  erosion
-
-  cry
-
-  alien
-
-  olive
-
-  obey'
-bip_39_word_new_line_9: 'party
-
-  object
-
-  inherit
-
-  erosion
-
-  cry
-
-  alien
-
-  olive
-
-  obey
-
-  alert'
-bip_39_word_no_space_1: party
-bip_39_word_no_space_10: partyobjectinheriterosioncryalienoliveobeyalertinspire
-bip_39_word_no_space_11: partyobjectinheriterosioncryalienoliveobeyalertinspirearea
 bip_39_word_no_space_12: partyobjectinheriterosioncryalienoliveobeyalertinspireareaalso
 bip_39_word_no_space_2: partyobject
 bip_39_word_no_space_3: partyobjectinherit
-bip_39_word_no_space_4: partyobjectinheriterosion
-bip_39_word_no_space_5: partyobjectinheriterosioncry
-bip_39_word_no_space_6: partyobjectinheriterosioncryalien
-bip_39_word_no_space_7: partyobjectinheriterosioncryalienolive
-bip_39_word_no_space_8: partyobjectinheriterosioncryalienoliveobey
-bip_39_word_no_space_9: partyobjectinheriterosioncryalienoliveobeyalert
-bip_39_word_space_0:
-- party
-- object
-- inherit
-- erosion
-- cry
-- alien
-- olive
-- obey
-- alert
-- inspire
-- area
-- also
-bip_39_word_space_1: party
-bip_39_word_space_10: party object inherit erosion cry alien olive obey alert inspire
-bip_39_word_space_11: party object inherit erosion cry alien olive obey alert inspire
-  area
 bip_39_word_space_12: party object inherit erosion cry alien olive obey alert inspire
   area also
 bip_39_word_space_2: party object
 bip_39_word_space_3: party object inherit
-bip_39_word_space_4: party object inherit erosion
-bip_39_word_space_5: party object inherit erosion cry
-bip_39_word_space_6: party object inherit erosion cry alien
-bip_39_word_space_7: party object inherit erosion cry alien olive
-bip_39_word_space_8: party object inherit erosion cry alien olive obey
-bip_39_word_space_9: party object inherit erosion cry alien olive obey alert
-bip_39_word_underscore_1: party
-bip_39_word_underscore_10: party_object_inherit_erosion_cry_alien_olive_obey_alert_inspire
-bip_39_word_underscore_11: party_object_inherit_erosion_cry_alien_olive_obey_alert_inspire_area
 bip_39_word_underscore_12: party_object_inherit_erosion_cry_alien_olive_obey_alert_inspire_area_also
 bip_39_word_underscore_2: party_object
 bip_39_word_underscore_3: party_object_inherit
-bip_39_word_underscore_4: party_object_inherit_erosion
-bip_39_word_underscore_5: party_object_inherit_erosion_cry
-bip_39_word_underscore_6: party_object_inherit_erosion_cry_alien
-bip_39_word_underscore_7: party_object_inherit_erosion_cry_alien_olive
-bip_39_word_underscore_8: party_object_inherit_erosion_cry_alien_olive_obey
-bip_39_word_underscore_9: party_object_inherit_erosion_cry_alien_olive_obey_alert
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: pluck
-bip_39_word_dash_10: pluck-vessel-arrow-evoke-away-tourist-sniff-monitor-nasty-verify
-bip_39_word_dash_11: pluck-vessel-arrow-evoke-away-tourist-sniff-monitor-nasty-verify-frog
 bip_39_word_dash_12: pluck-vessel-arrow-evoke-away-tourist-sniff-monitor-nasty-verify-frog-atom
 bip_39_word_dash_2: pluck-vessel
 bip_39_word_dash_3: pluck-vessel-arrow
-bip_39_word_dash_4: pluck-vessel-arrow-evoke
-bip_39_word_dash_5: pluck-vessel-arrow-evoke-away
-bip_39_word_dash_6: pluck-vessel-arrow-evoke-away-tourist
-bip_39_word_dash_7: pluck-vessel-arrow-evoke-away-tourist-sniff
-bip_39_word_dash_8: pluck-vessel-arrow-evoke-away-tourist-sniff-monitor
-bip_39_word_dash_9: pluck-vessel-arrow-evoke-away-tourist-sniff-monitor-nasty
-bip_39_word_new_br_1: pluck
-bip_39_word_new_br_10: pluck<br>vessel<br>arrow<br>evoke<br>away<br>tourist<br>sniff<br>monitor<br>nasty<br>verify
-bip_39_word_new_br_11: pluck<br>vessel<br>arrow<br>evoke<br>away<br>tourist<br>sniff<br>monitor<br>nasty<br>verify<br>frog
 bip_39_word_new_br_12: pluck<br>vessel<br>arrow<br>evoke<br>away<br>tourist<br>sniff<br>monitor<br>nasty<br>verify<br>frog<br>atom
 bip_39_word_new_br_2: pluck<br>vessel
 bip_39_word_new_br_3: pluck<br>vessel<br>arrow
-bip_39_word_new_br_4: pluck<br>vessel<br>arrow<br>evoke
-bip_39_word_new_br_5: pluck<br>vessel<br>arrow<br>evoke<br>away
-bip_39_word_new_br_6: pluck<br>vessel<br>arrow<br>evoke<br>away<br>tourist
-bip_39_word_new_br_7: pluck<br>vessel<br>arrow<br>evoke<br>away<br>tourist<br>sniff
-bip_39_word_new_br_8: pluck<br>vessel<br>arrow<br>evoke<br>away<br>tourist<br>sniff<br>monitor
-bip_39_word_new_br_9: pluck<br>vessel<br>arrow<br>evoke<br>away<br>tourist<br>sniff<br>monitor<br>nasty
-bip_39_word_new_line_1: pluck
-bip_39_word_new_line_10: 'pluck
-
-  vessel
-
-  arrow
-
-  evoke
-
-  away
-
-  tourist
-
-  sniff
-
-  monitor
-
-  nasty
-
-  verify'
-bip_39_word_new_line_11: 'pluck
-
-  vessel
-
-  arrow
-
-  evoke
-
-  away
-
-  tourist
-
-  sniff
-
-  monitor
-
-  nasty
-
-  verify
-
-  frog'
 bip_39_word_new_line_12: 'pluck
 
   vessel
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'pluck
   vessel
 
   arrow'
-bip_39_word_new_line_4: 'pluck
-
-  vessel
-
-  arrow
-
-  evoke'
-bip_39_word_new_line_5: 'pluck
-
-  vessel
-
-  arrow
-
-  evoke
-
-  away'
-bip_39_word_new_line_6: 'pluck
-
-  vessel
-
-  arrow
-
-  evoke
-
-  away
-
-  tourist'
-bip_39_word_new_line_7: 'pluck
-
-  vessel
-
-  arrow
-
-  evoke
-
-  away
-
-  tourist
-
-  sniff'
-bip_39_word_new_line_8: 'pluck
-
-  vessel
-
-  arrow
-
-  evoke
-
-  away
-
-  tourist
-
-  sniff
-
-  monitor'
-bip_39_word_new_line_9: 'pluck
-
-  vessel
-
-  arrow
-
-  evoke
-
-  away
-
-  tourist
-
-  sniff
-
-  monitor
-
-  nasty'
-bip_39_word_no_space_1: pluck
-bip_39_word_no_space_10: pluckvesselarrowevokeawaytouristsniffmonitornastyverify
-bip_39_word_no_space_11: pluckvesselarrowevokeawaytouristsniffmonitornastyverifyfrog
 bip_39_word_no_space_12: pluckvesselarrowevokeawaytouristsniffmonitornastyverifyfrogatom
 bip_39_word_no_space_2: pluckvessel
 bip_39_word_no_space_3: pluckvesselarrow
-bip_39_word_no_space_4: pluckvesselarrowevoke
-bip_39_word_no_space_5: pluckvesselarrowevokeaway
-bip_39_word_no_space_6: pluckvesselarrowevokeawaytourist
-bip_39_word_no_space_7: pluckvesselarrowevokeawaytouristsniff
-bip_39_word_no_space_8: pluckvesselarrowevokeawaytouristsniffmonitor
-bip_39_word_no_space_9: pluckvesselarrowevokeawaytouristsniffmonitornasty
-bip_39_word_space_0:
-- pluck
-- vessel
-- arrow
-- evoke
-- away
-- tourist
-- sniff
-- monitor
-- nasty
-- verify
-- frog
-- atom
-bip_39_word_space_1: pluck
-bip_39_word_space_10: pluck vessel arrow evoke away tourist sniff monitor nasty verify
-bip_39_word_space_11: pluck vessel arrow evoke away tourist sniff monitor nasty verify
-  frog
 bip_39_word_space_12: pluck vessel arrow evoke away tourist sniff monitor nasty verify
   frog atom
 bip_39_word_space_2: pluck vessel
 bip_39_word_space_3: pluck vessel arrow
-bip_39_word_space_4: pluck vessel arrow evoke
-bip_39_word_space_5: pluck vessel arrow evoke away
-bip_39_word_space_6: pluck vessel arrow evoke away tourist
-bip_39_word_space_7: pluck vessel arrow evoke away tourist sniff
-bip_39_word_space_8: pluck vessel arrow evoke away tourist sniff monitor
-bip_39_word_space_9: pluck vessel arrow evoke away tourist sniff monitor nasty
-bip_39_word_underscore_1: pluck
-bip_39_word_underscore_10: pluck_vessel_arrow_evoke_away_tourist_sniff_monitor_nasty_verify
-bip_39_word_underscore_11: pluck_vessel_arrow_evoke_away_tourist_sniff_monitor_nasty_verify_frog
 bip_39_word_underscore_12: pluck_vessel_arrow_evoke_away_tourist_sniff_monitor_nasty_verify_frog_atom
 bip_39_word_underscore_2: pluck_vessel
 bip_39_word_underscore_3: pluck_vessel_arrow
-bip_39_word_underscore_4: pluck_vessel_arrow_evoke
-bip_39_word_underscore_5: pluck_vessel_arrow_evoke_away
-bip_39_word_underscore_6: pluck_vessel_arrow_evoke_away_tourist
-bip_39_word_underscore_7: pluck_vessel_arrow_evoke_away_tourist_sniff
-bip_39_word_underscore_8: pluck_vessel_arrow_evoke_away_tourist_sniff_monitor
-bip_39_word_underscore_9: pluck_vessel_arrow_evoke_away_tourist_sniff_monitor_nasty
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

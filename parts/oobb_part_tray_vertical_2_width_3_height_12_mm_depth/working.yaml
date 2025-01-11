@@ -1,68 +1,9 @@
-bip_39_word_dash_1: barrel
-bip_39_word_dash_10: barrel-company-kite-onion-drastic-chalk-couch-profit-type-ring
-bip_39_word_dash_11: barrel-company-kite-onion-drastic-chalk-couch-profit-type-ring-solid
 bip_39_word_dash_12: barrel-company-kite-onion-drastic-chalk-couch-profit-type-ring-solid-allow
 bip_39_word_dash_2: barrel-company
 bip_39_word_dash_3: barrel-company-kite
-bip_39_word_dash_4: barrel-company-kite-onion
-bip_39_word_dash_5: barrel-company-kite-onion-drastic
-bip_39_word_dash_6: barrel-company-kite-onion-drastic-chalk
-bip_39_word_dash_7: barrel-company-kite-onion-drastic-chalk-couch
-bip_39_word_dash_8: barrel-company-kite-onion-drastic-chalk-couch-profit
-bip_39_word_dash_9: barrel-company-kite-onion-drastic-chalk-couch-profit-type
-bip_39_word_new_br_1: barrel
-bip_39_word_new_br_10: barrel<br>company<br>kite<br>onion<br>drastic<br>chalk<br>couch<br>profit<br>type<br>ring
-bip_39_word_new_br_11: barrel<br>company<br>kite<br>onion<br>drastic<br>chalk<br>couch<br>profit<br>type<br>ring<br>solid
 bip_39_word_new_br_12: barrel<br>company<br>kite<br>onion<br>drastic<br>chalk<br>couch<br>profit<br>type<br>ring<br>solid<br>allow
 bip_39_word_new_br_2: barrel<br>company
 bip_39_word_new_br_3: barrel<br>company<br>kite
-bip_39_word_new_br_4: barrel<br>company<br>kite<br>onion
-bip_39_word_new_br_5: barrel<br>company<br>kite<br>onion<br>drastic
-bip_39_word_new_br_6: barrel<br>company<br>kite<br>onion<br>drastic<br>chalk
-bip_39_word_new_br_7: barrel<br>company<br>kite<br>onion<br>drastic<br>chalk<br>couch
-bip_39_word_new_br_8: barrel<br>company<br>kite<br>onion<br>drastic<br>chalk<br>couch<br>profit
-bip_39_word_new_br_9: barrel<br>company<br>kite<br>onion<br>drastic<br>chalk<br>couch<br>profit<br>type
-bip_39_word_new_line_1: barrel
-bip_39_word_new_line_10: 'barrel
-
-  company
-
-  kite
-
-  onion
-
-  drastic
-
-  chalk
-
-  couch
-
-  profit
-
-  type
-
-  ring'
-bip_39_word_new_line_11: 'barrel
-
-  company
-
-  kite
-
-  onion
-
-  drastic
-
-  chalk
-
-  couch
-
-  profit
-
-  type
-
-  ring
-
-  solid'
 bip_39_word_new_line_12: 'barrel
 
   company
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'barrel
   company
 
   kite'
-bip_39_word_new_line_4: 'barrel
-
-  company
-
-  kite
-
-  onion'
-bip_39_word_new_line_5: 'barrel
-
-  company
-
-  kite
-
-  onion
-
-  drastic'
-bip_39_word_new_line_6: 'barrel
-
-  company
-
-  kite
-
-  onion
-
-  drastic
-
-  chalk'
-bip_39_word_new_line_7: 'barrel
-
-  company
-
-  kite
-
-  onion
-
-  drastic
-
-  chalk
-
-  couch'
-bip_39_word_new_line_8: 'barrel
-
-  company
-
-  kite
-
-  onion
-
-  drastic
-
-  chalk
-
-  couch
-
-  profit'
-bip_39_word_new_line_9: 'barrel
-
-  company
-
-  kite
-
-  onion
-
-  drastic
-
-  chalk
-
-  couch
-
-  profit
-
-  type'
-bip_39_word_no_space_1: barrel
-bip_39_word_no_space_10: barrelcompanykiteoniondrasticchalkcouchprofittypering
-bip_39_word_no_space_11: barrelcompanykiteoniondrasticchalkcouchprofittyperingsolid
 bip_39_word_no_space_12: barrelcompanykiteoniondrasticchalkcouchprofittyperingsolidallow
 bip_39_word_no_space_2: barrelcompany
 bip_39_word_no_space_3: barrelcompanykite
-bip_39_word_no_space_4: barrelcompanykiteonion
-bip_39_word_no_space_5: barrelcompanykiteoniondrastic
-bip_39_word_no_space_6: barrelcompanykiteoniondrasticchalk
-bip_39_word_no_space_7: barrelcompanykiteoniondrasticchalkcouch
-bip_39_word_no_space_8: barrelcompanykiteoniondrasticchalkcouchprofit
-bip_39_word_no_space_9: barrelcompanykiteoniondrasticchalkcouchprofittype
-bip_39_word_space_0:
-- barrel
-- company
-- kite
-- onion
-- drastic
-- chalk
-- couch
-- profit
-- type
-- ring
-- solid
-- allow
-bip_39_word_space_1: barrel
-bip_39_word_space_10: barrel company kite onion drastic chalk couch profit type ring
-bip_39_word_space_11: barrel company kite onion drastic chalk couch profit type ring
-  solid
 bip_39_word_space_12: barrel company kite onion drastic chalk couch profit type ring
   solid allow
 bip_39_word_space_2: barrel company
 bip_39_word_space_3: barrel company kite
-bip_39_word_space_4: barrel company kite onion
-bip_39_word_space_5: barrel company kite onion drastic
-bip_39_word_space_6: barrel company kite onion drastic chalk
-bip_39_word_space_7: barrel company kite onion drastic chalk couch
-bip_39_word_space_8: barrel company kite onion drastic chalk couch profit
-bip_39_word_space_9: barrel company kite onion drastic chalk couch profit type
-bip_39_word_underscore_1: barrel
-bip_39_word_underscore_10: barrel_company_kite_onion_drastic_chalk_couch_profit_type_ring
-bip_39_word_underscore_11: barrel_company_kite_onion_drastic_chalk_couch_profit_type_ring_solid
 bip_39_word_underscore_12: barrel_company_kite_onion_drastic_chalk_couch_profit_type_ring_solid_allow
 bip_39_word_underscore_2: barrel_company
 bip_39_word_underscore_3: barrel_company_kite
-bip_39_word_underscore_4: barrel_company_kite_onion
-bip_39_word_underscore_5: barrel_company_kite_onion_drastic
-bip_39_word_underscore_6: barrel_company_kite_onion_drastic_chalk
-bip_39_word_underscore_7: barrel_company_kite_onion_drastic_chalk_couch
-bip_39_word_underscore_8: barrel_company_kite_onion_drastic_chalk_couch_profit
-bip_39_word_underscore_9: barrel_company_kite_onion_drastic_chalk_couch_profit_type
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

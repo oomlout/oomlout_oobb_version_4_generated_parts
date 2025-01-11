@@ -1,68 +1,9 @@
-bip_39_word_dash_1: file
-bip_39_word_dash_10: file-test-carbon-october-process-ketchup-broccoli-purpose-boil-position
-bip_39_word_dash_11: file-test-carbon-october-process-ketchup-broccoli-purpose-boil-position-other
 bip_39_word_dash_12: file-test-carbon-october-process-ketchup-broccoli-purpose-boil-position-other-air
 bip_39_word_dash_2: file-test
 bip_39_word_dash_3: file-test-carbon
-bip_39_word_dash_4: file-test-carbon-october
-bip_39_word_dash_5: file-test-carbon-october-process
-bip_39_word_dash_6: file-test-carbon-october-process-ketchup
-bip_39_word_dash_7: file-test-carbon-october-process-ketchup-broccoli
-bip_39_word_dash_8: file-test-carbon-october-process-ketchup-broccoli-purpose
-bip_39_word_dash_9: file-test-carbon-october-process-ketchup-broccoli-purpose-boil
-bip_39_word_new_br_1: file
-bip_39_word_new_br_10: file<br>test<br>carbon<br>october<br>process<br>ketchup<br>broccoli<br>purpose<br>boil<br>position
-bip_39_word_new_br_11: file<br>test<br>carbon<br>october<br>process<br>ketchup<br>broccoli<br>purpose<br>boil<br>position<br>other
 bip_39_word_new_br_12: file<br>test<br>carbon<br>october<br>process<br>ketchup<br>broccoli<br>purpose<br>boil<br>position<br>other<br>air
 bip_39_word_new_br_2: file<br>test
 bip_39_word_new_br_3: file<br>test<br>carbon
-bip_39_word_new_br_4: file<br>test<br>carbon<br>october
-bip_39_word_new_br_5: file<br>test<br>carbon<br>october<br>process
-bip_39_word_new_br_6: file<br>test<br>carbon<br>october<br>process<br>ketchup
-bip_39_word_new_br_7: file<br>test<br>carbon<br>october<br>process<br>ketchup<br>broccoli
-bip_39_word_new_br_8: file<br>test<br>carbon<br>october<br>process<br>ketchup<br>broccoli<br>purpose
-bip_39_word_new_br_9: file<br>test<br>carbon<br>october<br>process<br>ketchup<br>broccoli<br>purpose<br>boil
-bip_39_word_new_line_1: file
-bip_39_word_new_line_10: 'file
-
-  test
-
-  carbon
-
-  october
-
-  process
-
-  ketchup
-
-  broccoli
-
-  purpose
-
-  boil
-
-  position'
-bip_39_word_new_line_11: 'file
-
-  test
-
-  carbon
-
-  october
-
-  process
-
-  ketchup
-
-  broccoli
-
-  purpose
-
-  boil
-
-  position
-
-  other'
 bip_39_word_new_line_12: 'file
 
   test
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'file
   test
 
   carbon'
-bip_39_word_new_line_4: 'file
-
-  test
-
-  carbon
-
-  october'
-bip_39_word_new_line_5: 'file
-
-  test
-
-  carbon
-
-  october
-
-  process'
-bip_39_word_new_line_6: 'file
-
-  test
-
-  carbon
-
-  october
-
-  process
-
-  ketchup'
-bip_39_word_new_line_7: 'file
-
-  test
-
-  carbon
-
-  october
-
-  process
-
-  ketchup
-
-  broccoli'
-bip_39_word_new_line_8: 'file
-
-  test
-
-  carbon
-
-  october
-
-  process
-
-  ketchup
-
-  broccoli
-
-  purpose'
-bip_39_word_new_line_9: 'file
-
-  test
-
-  carbon
-
-  october
-
-  process
-
-  ketchup
-
-  broccoli
-
-  purpose
-
-  boil'
-bip_39_word_no_space_1: file
-bip_39_word_no_space_10: filetestcarbonoctoberprocessketchupbroccolipurposeboilposition
-bip_39_word_no_space_11: filetestcarbonoctoberprocessketchupbroccolipurposeboilpositionother
 bip_39_word_no_space_12: filetestcarbonoctoberprocessketchupbroccolipurposeboilpositionotherair
 bip_39_word_no_space_2: filetest
 bip_39_word_no_space_3: filetestcarbon
-bip_39_word_no_space_4: filetestcarbonoctober
-bip_39_word_no_space_5: filetestcarbonoctoberprocess
-bip_39_word_no_space_6: filetestcarbonoctoberprocessketchup
-bip_39_word_no_space_7: filetestcarbonoctoberprocessketchupbroccoli
-bip_39_word_no_space_8: filetestcarbonoctoberprocessketchupbroccolipurpose
-bip_39_word_no_space_9: filetestcarbonoctoberprocessketchupbroccolipurposeboil
-bip_39_word_space_0:
-- file
-- test
-- carbon
-- october
-- process
-- ketchup
-- broccoli
-- purpose
-- boil
-- position
-- other
-- air
-bip_39_word_space_1: file
-bip_39_word_space_10: file test carbon october process ketchup broccoli purpose boil
-  position
-bip_39_word_space_11: file test carbon october process ketchup broccoli purpose boil
-  position other
 bip_39_word_space_12: file test carbon october process ketchup broccoli purpose boil
   position other air
 bip_39_word_space_2: file test
 bip_39_word_space_3: file test carbon
-bip_39_word_space_4: file test carbon october
-bip_39_word_space_5: file test carbon october process
-bip_39_word_space_6: file test carbon october process ketchup
-bip_39_word_space_7: file test carbon october process ketchup broccoli
-bip_39_word_space_8: file test carbon october process ketchup broccoli purpose
-bip_39_word_space_9: file test carbon october process ketchup broccoli purpose boil
-bip_39_word_underscore_1: file
-bip_39_word_underscore_10: file_test_carbon_october_process_ketchup_broccoli_purpose_boil_position
-bip_39_word_underscore_11: file_test_carbon_october_process_ketchup_broccoli_purpose_boil_position_other
 bip_39_word_underscore_12: file_test_carbon_october_process_ketchup_broccoli_purpose_boil_position_other_air
 bip_39_word_underscore_2: file_test
 bip_39_word_underscore_3: file_test_carbon
-bip_39_word_underscore_4: file_test_carbon_october
-bip_39_word_underscore_5: file_test_carbon_october_process
-bip_39_word_underscore_6: file_test_carbon_october_process_ketchup
-bip_39_word_underscore_7: file_test_carbon_october_process_ketchup_broccoli
-bip_39_word_underscore_8: file_test_carbon_october_process_ketchup_broccoli_purpose
-bip_39_word_underscore_9: file_test_carbon_october_process_ketchup_broccoli_purpose_boil
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

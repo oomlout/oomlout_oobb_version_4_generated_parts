@@ -1,68 +1,9 @@
-bip_39_word_dash_1: output
-bip_39_word_dash_10: output-speak-flip-use-word-success-point-able-cabbage-display
-bip_39_word_dash_11: output-speak-flip-use-word-success-point-able-cabbage-display-tomorrow
 bip_39_word_dash_12: output-speak-flip-use-word-success-point-able-cabbage-display-tomorrow-allow
 bip_39_word_dash_2: output-speak
 bip_39_word_dash_3: output-speak-flip
-bip_39_word_dash_4: output-speak-flip-use
-bip_39_word_dash_5: output-speak-flip-use-word
-bip_39_word_dash_6: output-speak-flip-use-word-success
-bip_39_word_dash_7: output-speak-flip-use-word-success-point
-bip_39_word_dash_8: output-speak-flip-use-word-success-point-able
-bip_39_word_dash_9: output-speak-flip-use-word-success-point-able-cabbage
-bip_39_word_new_br_1: output
-bip_39_word_new_br_10: output<br>speak<br>flip<br>use<br>word<br>success<br>point<br>able<br>cabbage<br>display
-bip_39_word_new_br_11: output<br>speak<br>flip<br>use<br>word<br>success<br>point<br>able<br>cabbage<br>display<br>tomorrow
 bip_39_word_new_br_12: output<br>speak<br>flip<br>use<br>word<br>success<br>point<br>able<br>cabbage<br>display<br>tomorrow<br>allow
 bip_39_word_new_br_2: output<br>speak
 bip_39_word_new_br_3: output<br>speak<br>flip
-bip_39_word_new_br_4: output<br>speak<br>flip<br>use
-bip_39_word_new_br_5: output<br>speak<br>flip<br>use<br>word
-bip_39_word_new_br_6: output<br>speak<br>flip<br>use<br>word<br>success
-bip_39_word_new_br_7: output<br>speak<br>flip<br>use<br>word<br>success<br>point
-bip_39_word_new_br_8: output<br>speak<br>flip<br>use<br>word<br>success<br>point<br>able
-bip_39_word_new_br_9: output<br>speak<br>flip<br>use<br>word<br>success<br>point<br>able<br>cabbage
-bip_39_word_new_line_1: output
-bip_39_word_new_line_10: 'output
-
-  speak
-
-  flip
-
-  use
-
-  word
-
-  success
-
-  point
-
-  able
-
-  cabbage
-
-  display'
-bip_39_word_new_line_11: 'output
-
-  speak
-
-  flip
-
-  use
-
-  word
-
-  success
-
-  point
-
-  able
-
-  cabbage
-
-  display
-
-  tomorrow'
 bip_39_word_new_line_12: 'output
 
   speak
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'output
   speak
 
   flip'
-bip_39_word_new_line_4: 'output
-
-  speak
-
-  flip
-
-  use'
-bip_39_word_new_line_5: 'output
-
-  speak
-
-  flip
-
-  use
-
-  word'
-bip_39_word_new_line_6: 'output
-
-  speak
-
-  flip
-
-  use
-
-  word
-
-  success'
-bip_39_word_new_line_7: 'output
-
-  speak
-
-  flip
-
-  use
-
-  word
-
-  success
-
-  point'
-bip_39_word_new_line_8: 'output
-
-  speak
-
-  flip
-
-  use
-
-  word
-
-  success
-
-  point
-
-  able'
-bip_39_word_new_line_9: 'output
-
-  speak
-
-  flip
-
-  use
-
-  word
-
-  success
-
-  point
-
-  able
-
-  cabbage'
-bip_39_word_no_space_1: output
-bip_39_word_no_space_10: outputspeakflipusewordsuccesspointablecabbagedisplay
-bip_39_word_no_space_11: outputspeakflipusewordsuccesspointablecabbagedisplaytomorrow
 bip_39_word_no_space_12: outputspeakflipusewordsuccesspointablecabbagedisplaytomorrowallow
 bip_39_word_no_space_2: outputspeak
 bip_39_word_no_space_3: outputspeakflip
-bip_39_word_no_space_4: outputspeakflipuse
-bip_39_word_no_space_5: outputspeakflipuseword
-bip_39_word_no_space_6: outputspeakflipusewordsuccess
-bip_39_word_no_space_7: outputspeakflipusewordsuccesspoint
-bip_39_word_no_space_8: outputspeakflipusewordsuccesspointable
-bip_39_word_no_space_9: outputspeakflipusewordsuccesspointablecabbage
-bip_39_word_space_0:
-- output
-- speak
-- flip
-- use
-- word
-- success
-- point
-- able
-- cabbage
-- display
-- tomorrow
-- allow
-bip_39_word_space_1: output
-bip_39_word_space_10: output speak flip use word success point able cabbage display
-bip_39_word_space_11: output speak flip use word success point able cabbage display
-  tomorrow
 bip_39_word_space_12: output speak flip use word success point able cabbage display
   tomorrow allow
 bip_39_word_space_2: output speak
 bip_39_word_space_3: output speak flip
-bip_39_word_space_4: output speak flip use
-bip_39_word_space_5: output speak flip use word
-bip_39_word_space_6: output speak flip use word success
-bip_39_word_space_7: output speak flip use word success point
-bip_39_word_space_8: output speak flip use word success point able
-bip_39_word_space_9: output speak flip use word success point able cabbage
-bip_39_word_underscore_1: output
-bip_39_word_underscore_10: output_speak_flip_use_word_success_point_able_cabbage_display
-bip_39_word_underscore_11: output_speak_flip_use_word_success_point_able_cabbage_display_tomorrow
 bip_39_word_underscore_12: output_speak_flip_use_word_success_point_able_cabbage_display_tomorrow_allow
 bip_39_word_underscore_2: output_speak
 bip_39_word_underscore_3: output_speak_flip
-bip_39_word_underscore_4: output_speak_flip_use
-bip_39_word_underscore_5: output_speak_flip_use_word
-bip_39_word_underscore_6: output_speak_flip_use_word_success
-bip_39_word_underscore_7: output_speak_flip_use_word_success_point
-bip_39_word_underscore_8: output_speak_flip_use_word_success_point_able
-bip_39_word_underscore_9: output_speak_flip_use_word_success_point_able_cabbage
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: puzzle
-bip_39_word_dash_10: puzzle-initial-scorpion-enable-thought-desk-soda-warrior-broken-galaxy
-bip_39_word_dash_11: puzzle-initial-scorpion-enable-thought-desk-soda-warrior-broken-galaxy-loyal
 bip_39_word_dash_12: puzzle-initial-scorpion-enable-thought-desk-soda-warrior-broken-galaxy-loyal-agent
 bip_39_word_dash_2: puzzle-initial
 bip_39_word_dash_3: puzzle-initial-scorpion
-bip_39_word_dash_4: puzzle-initial-scorpion-enable
-bip_39_word_dash_5: puzzle-initial-scorpion-enable-thought
-bip_39_word_dash_6: puzzle-initial-scorpion-enable-thought-desk
-bip_39_word_dash_7: puzzle-initial-scorpion-enable-thought-desk-soda
-bip_39_word_dash_8: puzzle-initial-scorpion-enable-thought-desk-soda-warrior
-bip_39_word_dash_9: puzzle-initial-scorpion-enable-thought-desk-soda-warrior-broken
-bip_39_word_new_br_1: puzzle
-bip_39_word_new_br_10: puzzle<br>initial<br>scorpion<br>enable<br>thought<br>desk<br>soda<br>warrior<br>broken<br>galaxy
-bip_39_word_new_br_11: puzzle<br>initial<br>scorpion<br>enable<br>thought<br>desk<br>soda<br>warrior<br>broken<br>galaxy<br>loyal
 bip_39_word_new_br_12: puzzle<br>initial<br>scorpion<br>enable<br>thought<br>desk<br>soda<br>warrior<br>broken<br>galaxy<br>loyal<br>agent
 bip_39_word_new_br_2: puzzle<br>initial
 bip_39_word_new_br_3: puzzle<br>initial<br>scorpion
-bip_39_word_new_br_4: puzzle<br>initial<br>scorpion<br>enable
-bip_39_word_new_br_5: puzzle<br>initial<br>scorpion<br>enable<br>thought
-bip_39_word_new_br_6: puzzle<br>initial<br>scorpion<br>enable<br>thought<br>desk
-bip_39_word_new_br_7: puzzle<br>initial<br>scorpion<br>enable<br>thought<br>desk<br>soda
-bip_39_word_new_br_8: puzzle<br>initial<br>scorpion<br>enable<br>thought<br>desk<br>soda<br>warrior
-bip_39_word_new_br_9: puzzle<br>initial<br>scorpion<br>enable<br>thought<br>desk<br>soda<br>warrior<br>broken
-bip_39_word_new_line_1: puzzle
-bip_39_word_new_line_10: 'puzzle
-
-  initial
-
-  scorpion
-
-  enable
-
-  thought
-
-  desk
-
-  soda
-
-  warrior
-
-  broken
-
-  galaxy'
-bip_39_word_new_line_11: 'puzzle
-
-  initial
-
-  scorpion
-
-  enable
-
-  thought
-
-  desk
-
-  soda
-
-  warrior
-
-  broken
-
-  galaxy
-
-  loyal'
 bip_39_word_new_line_12: 'puzzle
 
   initial
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'puzzle
   initial
 
   scorpion'
-bip_39_word_new_line_4: 'puzzle
-
-  initial
-
-  scorpion
-
-  enable'
-bip_39_word_new_line_5: 'puzzle
-
-  initial
-
-  scorpion
-
-  enable
-
-  thought'
-bip_39_word_new_line_6: 'puzzle
-
-  initial
-
-  scorpion
-
-  enable
-
-  thought
-
-  desk'
-bip_39_word_new_line_7: 'puzzle
-
-  initial
-
-  scorpion
-
-  enable
-
-  thought
-
-  desk
-
-  soda'
-bip_39_word_new_line_8: 'puzzle
-
-  initial
-
-  scorpion
-
-  enable
-
-  thought
-
-  desk
-
-  soda
-
-  warrior'
-bip_39_word_new_line_9: 'puzzle
-
-  initial
-
-  scorpion
-
-  enable
-
-  thought
-
-  desk
-
-  soda
-
-  warrior
-
-  broken'
-bip_39_word_no_space_1: puzzle
-bip_39_word_no_space_10: puzzleinitialscorpionenablethoughtdesksodawarriorbrokengalaxy
-bip_39_word_no_space_11: puzzleinitialscorpionenablethoughtdesksodawarriorbrokengalaxyloyal
 bip_39_word_no_space_12: puzzleinitialscorpionenablethoughtdesksodawarriorbrokengalaxyloyalagent
 bip_39_word_no_space_2: puzzleinitial
 bip_39_word_no_space_3: puzzleinitialscorpion
-bip_39_word_no_space_4: puzzleinitialscorpionenable
-bip_39_word_no_space_5: puzzleinitialscorpionenablethought
-bip_39_word_no_space_6: puzzleinitialscorpionenablethoughtdesk
-bip_39_word_no_space_7: puzzleinitialscorpionenablethoughtdesksoda
-bip_39_word_no_space_8: puzzleinitialscorpionenablethoughtdesksodawarrior
-bip_39_word_no_space_9: puzzleinitialscorpionenablethoughtdesksodawarriorbroken
-bip_39_word_space_0:
-- puzzle
-- initial
-- scorpion
-- enable
-- thought
-- desk
-- soda
-- warrior
-- broken
-- galaxy
-- loyal
-- agent
-bip_39_word_space_1: puzzle
-bip_39_word_space_10: puzzle initial scorpion enable thought desk soda warrior broken
-  galaxy
-bip_39_word_space_11: puzzle initial scorpion enable thought desk soda warrior broken
-  galaxy loyal
 bip_39_word_space_12: puzzle initial scorpion enable thought desk soda warrior broken
   galaxy loyal agent
 bip_39_word_space_2: puzzle initial
 bip_39_word_space_3: puzzle initial scorpion
-bip_39_word_space_4: puzzle initial scorpion enable
-bip_39_word_space_5: puzzle initial scorpion enable thought
-bip_39_word_space_6: puzzle initial scorpion enable thought desk
-bip_39_word_space_7: puzzle initial scorpion enable thought desk soda
-bip_39_word_space_8: puzzle initial scorpion enable thought desk soda warrior
-bip_39_word_space_9: puzzle initial scorpion enable thought desk soda warrior broken
-bip_39_word_underscore_1: puzzle
-bip_39_word_underscore_10: puzzle_initial_scorpion_enable_thought_desk_soda_warrior_broken_galaxy
-bip_39_word_underscore_11: puzzle_initial_scorpion_enable_thought_desk_soda_warrior_broken_galaxy_loyal
 bip_39_word_underscore_12: puzzle_initial_scorpion_enable_thought_desk_soda_warrior_broken_galaxy_loyal_agent
 bip_39_word_underscore_2: puzzle_initial
 bip_39_word_underscore_3: puzzle_initial_scorpion
-bip_39_word_underscore_4: puzzle_initial_scorpion_enable
-bip_39_word_underscore_5: puzzle_initial_scorpion_enable_thought
-bip_39_word_underscore_6: puzzle_initial_scorpion_enable_thought_desk
-bip_39_word_underscore_7: puzzle_initial_scorpion_enable_thought_desk_soda
-bip_39_word_underscore_8: puzzle_initial_scorpion_enable_thought_desk_soda_warrior
-bip_39_word_underscore_9: puzzle_initial_scorpion_enable_thought_desk_soda_warrior_broken
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

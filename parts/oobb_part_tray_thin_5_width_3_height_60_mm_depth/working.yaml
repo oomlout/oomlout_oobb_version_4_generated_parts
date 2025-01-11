@@ -1,68 +1,9 @@
-bip_39_word_dash_1: dry
-bip_39_word_dash_10: dry-secret-comfort-change-tiny-write-move-salon-rebel-dentist
-bip_39_word_dash_11: dry-secret-comfort-change-tiny-write-move-salon-rebel-dentist-front
 bip_39_word_dash_12: dry-secret-comfort-change-tiny-write-move-salon-rebel-dentist-front-analyst
 bip_39_word_dash_2: dry-secret
 bip_39_word_dash_3: dry-secret-comfort
-bip_39_word_dash_4: dry-secret-comfort-change
-bip_39_word_dash_5: dry-secret-comfort-change-tiny
-bip_39_word_dash_6: dry-secret-comfort-change-tiny-write
-bip_39_word_dash_7: dry-secret-comfort-change-tiny-write-move
-bip_39_word_dash_8: dry-secret-comfort-change-tiny-write-move-salon
-bip_39_word_dash_9: dry-secret-comfort-change-tiny-write-move-salon-rebel
-bip_39_word_new_br_1: dry
-bip_39_word_new_br_10: dry<br>secret<br>comfort<br>change<br>tiny<br>write<br>move<br>salon<br>rebel<br>dentist
-bip_39_word_new_br_11: dry<br>secret<br>comfort<br>change<br>tiny<br>write<br>move<br>salon<br>rebel<br>dentist<br>front
 bip_39_word_new_br_12: dry<br>secret<br>comfort<br>change<br>tiny<br>write<br>move<br>salon<br>rebel<br>dentist<br>front<br>analyst
 bip_39_word_new_br_2: dry<br>secret
 bip_39_word_new_br_3: dry<br>secret<br>comfort
-bip_39_word_new_br_4: dry<br>secret<br>comfort<br>change
-bip_39_word_new_br_5: dry<br>secret<br>comfort<br>change<br>tiny
-bip_39_word_new_br_6: dry<br>secret<br>comfort<br>change<br>tiny<br>write
-bip_39_word_new_br_7: dry<br>secret<br>comfort<br>change<br>tiny<br>write<br>move
-bip_39_word_new_br_8: dry<br>secret<br>comfort<br>change<br>tiny<br>write<br>move<br>salon
-bip_39_word_new_br_9: dry<br>secret<br>comfort<br>change<br>tiny<br>write<br>move<br>salon<br>rebel
-bip_39_word_new_line_1: dry
-bip_39_word_new_line_10: 'dry
-
-  secret
-
-  comfort
-
-  change
-
-  tiny
-
-  write
-
-  move
-
-  salon
-
-  rebel
-
-  dentist'
-bip_39_word_new_line_11: 'dry
-
-  secret
-
-  comfort
-
-  change
-
-  tiny
-
-  write
-
-  move
-
-  salon
-
-  rebel
-
-  dentist
-
-  front'
 bip_39_word_new_line_12: 'dry
 
   secret
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'dry
   secret
 
   comfort'
-bip_39_word_new_line_4: 'dry
-
-  secret
-
-  comfort
-
-  change'
-bip_39_word_new_line_5: 'dry
-
-  secret
-
-  comfort
-
-  change
-
-  tiny'
-bip_39_word_new_line_6: 'dry
-
-  secret
-
-  comfort
-
-  change
-
-  tiny
-
-  write'
-bip_39_word_new_line_7: 'dry
-
-  secret
-
-  comfort
-
-  change
-
-  tiny
-
-  write
-
-  move'
-bip_39_word_new_line_8: 'dry
-
-  secret
-
-  comfort
-
-  change
-
-  tiny
-
-  write
-
-  move
-
-  salon'
-bip_39_word_new_line_9: 'dry
-
-  secret
-
-  comfort
-
-  change
-
-  tiny
-
-  write
-
-  move
-
-  salon
-
-  rebel'
-bip_39_word_no_space_1: dry
-bip_39_word_no_space_10: drysecretcomfortchangetinywritemovesalonrebeldentist
-bip_39_word_no_space_11: drysecretcomfortchangetinywritemovesalonrebeldentistfront
 bip_39_word_no_space_12: drysecretcomfortchangetinywritemovesalonrebeldentistfrontanalyst
 bip_39_word_no_space_2: drysecret
 bip_39_word_no_space_3: drysecretcomfort
-bip_39_word_no_space_4: drysecretcomfortchange
-bip_39_word_no_space_5: drysecretcomfortchangetiny
-bip_39_word_no_space_6: drysecretcomfortchangetinywrite
-bip_39_word_no_space_7: drysecretcomfortchangetinywritemove
-bip_39_word_no_space_8: drysecretcomfortchangetinywritemovesalon
-bip_39_word_no_space_9: drysecretcomfortchangetinywritemovesalonrebel
-bip_39_word_space_0:
-- dry
-- secret
-- comfort
-- change
-- tiny
-- write
-- move
-- salon
-- rebel
-- dentist
-- front
-- analyst
-bip_39_word_space_1: dry
-bip_39_word_space_10: dry secret comfort change tiny write move salon rebel dentist
-bip_39_word_space_11: dry secret comfort change tiny write move salon rebel dentist
-  front
 bip_39_word_space_12: dry secret comfort change tiny write move salon rebel dentist
   front analyst
 bip_39_word_space_2: dry secret
 bip_39_word_space_3: dry secret comfort
-bip_39_word_space_4: dry secret comfort change
-bip_39_word_space_5: dry secret comfort change tiny
-bip_39_word_space_6: dry secret comfort change tiny write
-bip_39_word_space_7: dry secret comfort change tiny write move
-bip_39_word_space_8: dry secret comfort change tiny write move salon
-bip_39_word_space_9: dry secret comfort change tiny write move salon rebel
-bip_39_word_underscore_1: dry
-bip_39_word_underscore_10: dry_secret_comfort_change_tiny_write_move_salon_rebel_dentist
-bip_39_word_underscore_11: dry_secret_comfort_change_tiny_write_move_salon_rebel_dentist_front
 bip_39_word_underscore_12: dry_secret_comfort_change_tiny_write_move_salon_rebel_dentist_front_analyst
 bip_39_word_underscore_2: dry_secret
 bip_39_word_underscore_3: dry_secret_comfort
-bip_39_word_underscore_4: dry_secret_comfort_change
-bip_39_word_underscore_5: dry_secret_comfort_change_tiny
-bip_39_word_underscore_6: dry_secret_comfort_change_tiny_write
-bip_39_word_underscore_7: dry_secret_comfort_change_tiny_write_move
-bip_39_word_underscore_8: dry_secret_comfort_change_tiny_write_move_salon
-bip_39_word_underscore_9: dry_secret_comfort_change_tiny_write_move_salon_rebel
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

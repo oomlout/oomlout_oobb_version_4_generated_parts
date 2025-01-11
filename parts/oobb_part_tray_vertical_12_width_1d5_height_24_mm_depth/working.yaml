@@ -1,68 +1,9 @@
-bip_39_word_dash_1: expire
-bip_39_word_dash_10: expire-bring-deal-enrich-gasp-inch-winner-change-plunge-cross
-bip_39_word_dash_11: expire-bring-deal-enrich-gasp-inch-winner-change-plunge-cross-clerk
 bip_39_word_dash_12: expire-bring-deal-enrich-gasp-inch-winner-change-plunge-cross-clerk-any
 bip_39_word_dash_2: expire-bring
 bip_39_word_dash_3: expire-bring-deal
-bip_39_word_dash_4: expire-bring-deal-enrich
-bip_39_word_dash_5: expire-bring-deal-enrich-gasp
-bip_39_word_dash_6: expire-bring-deal-enrich-gasp-inch
-bip_39_word_dash_7: expire-bring-deal-enrich-gasp-inch-winner
-bip_39_word_dash_8: expire-bring-deal-enrich-gasp-inch-winner-change
-bip_39_word_dash_9: expire-bring-deal-enrich-gasp-inch-winner-change-plunge
-bip_39_word_new_br_1: expire
-bip_39_word_new_br_10: expire<br>bring<br>deal<br>enrich<br>gasp<br>inch<br>winner<br>change<br>plunge<br>cross
-bip_39_word_new_br_11: expire<br>bring<br>deal<br>enrich<br>gasp<br>inch<br>winner<br>change<br>plunge<br>cross<br>clerk
 bip_39_word_new_br_12: expire<br>bring<br>deal<br>enrich<br>gasp<br>inch<br>winner<br>change<br>plunge<br>cross<br>clerk<br>any
 bip_39_word_new_br_2: expire<br>bring
 bip_39_word_new_br_3: expire<br>bring<br>deal
-bip_39_word_new_br_4: expire<br>bring<br>deal<br>enrich
-bip_39_word_new_br_5: expire<br>bring<br>deal<br>enrich<br>gasp
-bip_39_word_new_br_6: expire<br>bring<br>deal<br>enrich<br>gasp<br>inch
-bip_39_word_new_br_7: expire<br>bring<br>deal<br>enrich<br>gasp<br>inch<br>winner
-bip_39_word_new_br_8: expire<br>bring<br>deal<br>enrich<br>gasp<br>inch<br>winner<br>change
-bip_39_word_new_br_9: expire<br>bring<br>deal<br>enrich<br>gasp<br>inch<br>winner<br>change<br>plunge
-bip_39_word_new_line_1: expire
-bip_39_word_new_line_10: 'expire
-
-  bring
-
-  deal
-
-  enrich
-
-  gasp
-
-  inch
-
-  winner
-
-  change
-
-  plunge
-
-  cross'
-bip_39_word_new_line_11: 'expire
-
-  bring
-
-  deal
-
-  enrich
-
-  gasp
-
-  inch
-
-  winner
-
-  change
-
-  plunge
-
-  cross
-
-  clerk'
 bip_39_word_new_line_12: 'expire
 
   bring
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'expire
   bring
 
   deal'
-bip_39_word_new_line_4: 'expire
-
-  bring
-
-  deal
-
-  enrich'
-bip_39_word_new_line_5: 'expire
-
-  bring
-
-  deal
-
-  enrich
-
-  gasp'
-bip_39_word_new_line_6: 'expire
-
-  bring
-
-  deal
-
-  enrich
-
-  gasp
-
-  inch'
-bip_39_word_new_line_7: 'expire
-
-  bring
-
-  deal
-
-  enrich
-
-  gasp
-
-  inch
-
-  winner'
-bip_39_word_new_line_8: 'expire
-
-  bring
-
-  deal
-
-  enrich
-
-  gasp
-
-  inch
-
-  winner
-
-  change'
-bip_39_word_new_line_9: 'expire
-
-  bring
-
-  deal
-
-  enrich
-
-  gasp
-
-  inch
-
-  winner
-
-  change
-
-  plunge'
-bip_39_word_no_space_1: expire
-bip_39_word_no_space_10: expirebringdealenrichgaspinchwinnerchangeplungecross
-bip_39_word_no_space_11: expirebringdealenrichgaspinchwinnerchangeplungecrossclerk
 bip_39_word_no_space_12: expirebringdealenrichgaspinchwinnerchangeplungecrossclerkany
 bip_39_word_no_space_2: expirebring
 bip_39_word_no_space_3: expirebringdeal
-bip_39_word_no_space_4: expirebringdealenrich
-bip_39_word_no_space_5: expirebringdealenrichgasp
-bip_39_word_no_space_6: expirebringdealenrichgaspinch
-bip_39_word_no_space_7: expirebringdealenrichgaspinchwinner
-bip_39_word_no_space_8: expirebringdealenrichgaspinchwinnerchange
-bip_39_word_no_space_9: expirebringdealenrichgaspinchwinnerchangeplunge
-bip_39_word_space_0:
-- expire
-- bring
-- deal
-- enrich
-- gasp
-- inch
-- winner
-- change
-- plunge
-- cross
-- clerk
-- any
-bip_39_word_space_1: expire
-bip_39_word_space_10: expire bring deal enrich gasp inch winner change plunge cross
-bip_39_word_space_11: expire bring deal enrich gasp inch winner change plunge cross
-  clerk
 bip_39_word_space_12: expire bring deal enrich gasp inch winner change plunge cross
   clerk any
 bip_39_word_space_2: expire bring
 bip_39_word_space_3: expire bring deal
-bip_39_word_space_4: expire bring deal enrich
-bip_39_word_space_5: expire bring deal enrich gasp
-bip_39_word_space_6: expire bring deal enrich gasp inch
-bip_39_word_space_7: expire bring deal enrich gasp inch winner
-bip_39_word_space_8: expire bring deal enrich gasp inch winner change
-bip_39_word_space_9: expire bring deal enrich gasp inch winner change plunge
-bip_39_word_underscore_1: expire
-bip_39_word_underscore_10: expire_bring_deal_enrich_gasp_inch_winner_change_plunge_cross
-bip_39_word_underscore_11: expire_bring_deal_enrich_gasp_inch_winner_change_plunge_cross_clerk
 bip_39_word_underscore_12: expire_bring_deal_enrich_gasp_inch_winner_change_plunge_cross_clerk_any
 bip_39_word_underscore_2: expire_bring
 bip_39_word_underscore_3: expire_bring_deal
-bip_39_word_underscore_4: expire_bring_deal_enrich
-bip_39_word_underscore_5: expire_bring_deal_enrich_gasp
-bip_39_word_underscore_6: expire_bring_deal_enrich_gasp_inch
-bip_39_word_underscore_7: expire_bring_deal_enrich_gasp_inch_winner
-bip_39_word_underscore_8: expire_bring_deal_enrich_gasp_inch_winner_change
-bip_39_word_underscore_9: expire_bring_deal_enrich_gasp_inch_winner_change_plunge
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

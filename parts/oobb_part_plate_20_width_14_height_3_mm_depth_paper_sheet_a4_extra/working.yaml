@@ -1,68 +1,9 @@
-bip_39_word_dash_1: sleep
-bip_39_word_dash_10: sleep-total-flag-fetch-ranch-interest-size-become-urban-prefer
-bip_39_word_dash_11: sleep-total-flag-fetch-ranch-interest-size-become-urban-prefer-farm
 bip_39_word_dash_12: sleep-total-flag-fetch-ranch-interest-size-become-urban-prefer-farm-art
 bip_39_word_dash_2: sleep-total
 bip_39_word_dash_3: sleep-total-flag
-bip_39_word_dash_4: sleep-total-flag-fetch
-bip_39_word_dash_5: sleep-total-flag-fetch-ranch
-bip_39_word_dash_6: sleep-total-flag-fetch-ranch-interest
-bip_39_word_dash_7: sleep-total-flag-fetch-ranch-interest-size
-bip_39_word_dash_8: sleep-total-flag-fetch-ranch-interest-size-become
-bip_39_word_dash_9: sleep-total-flag-fetch-ranch-interest-size-become-urban
-bip_39_word_new_br_1: sleep
-bip_39_word_new_br_10: sleep<br>total<br>flag<br>fetch<br>ranch<br>interest<br>size<br>become<br>urban<br>prefer
-bip_39_word_new_br_11: sleep<br>total<br>flag<br>fetch<br>ranch<br>interest<br>size<br>become<br>urban<br>prefer<br>farm
 bip_39_word_new_br_12: sleep<br>total<br>flag<br>fetch<br>ranch<br>interest<br>size<br>become<br>urban<br>prefer<br>farm<br>art
 bip_39_word_new_br_2: sleep<br>total
 bip_39_word_new_br_3: sleep<br>total<br>flag
-bip_39_word_new_br_4: sleep<br>total<br>flag<br>fetch
-bip_39_word_new_br_5: sleep<br>total<br>flag<br>fetch<br>ranch
-bip_39_word_new_br_6: sleep<br>total<br>flag<br>fetch<br>ranch<br>interest
-bip_39_word_new_br_7: sleep<br>total<br>flag<br>fetch<br>ranch<br>interest<br>size
-bip_39_word_new_br_8: sleep<br>total<br>flag<br>fetch<br>ranch<br>interest<br>size<br>become
-bip_39_word_new_br_9: sleep<br>total<br>flag<br>fetch<br>ranch<br>interest<br>size<br>become<br>urban
-bip_39_word_new_line_1: sleep
-bip_39_word_new_line_10: 'sleep
-
-  total
-
-  flag
-
-  fetch
-
-  ranch
-
-  interest
-
-  size
-
-  become
-
-  urban
-
-  prefer'
-bip_39_word_new_line_11: 'sleep
-
-  total
-
-  flag
-
-  fetch
-
-  ranch
-
-  interest
-
-  size
-
-  become
-
-  urban
-
-  prefer
-
-  farm'
 bip_39_word_new_line_12: 'sleep
 
   total
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'sleep
   total
 
   flag'
-bip_39_word_new_line_4: 'sleep
-
-  total
-
-  flag
-
-  fetch'
-bip_39_word_new_line_5: 'sleep
-
-  total
-
-  flag
-
-  fetch
-
-  ranch'
-bip_39_word_new_line_6: 'sleep
-
-  total
-
-  flag
-
-  fetch
-
-  ranch
-
-  interest'
-bip_39_word_new_line_7: 'sleep
-
-  total
-
-  flag
-
-  fetch
-
-  ranch
-
-  interest
-
-  size'
-bip_39_word_new_line_8: 'sleep
-
-  total
-
-  flag
-
-  fetch
-
-  ranch
-
-  interest
-
-  size
-
-  become'
-bip_39_word_new_line_9: 'sleep
-
-  total
-
-  flag
-
-  fetch
-
-  ranch
-
-  interest
-
-  size
-
-  become
-
-  urban'
-bip_39_word_no_space_1: sleep
-bip_39_word_no_space_10: sleeptotalflagfetchranchinterestsizebecomeurbanprefer
-bip_39_word_no_space_11: sleeptotalflagfetchranchinterestsizebecomeurbanpreferfarm
 bip_39_word_no_space_12: sleeptotalflagfetchranchinterestsizebecomeurbanpreferfarmart
 bip_39_word_no_space_2: sleeptotal
 bip_39_word_no_space_3: sleeptotalflag
-bip_39_word_no_space_4: sleeptotalflagfetch
-bip_39_word_no_space_5: sleeptotalflagfetchranch
-bip_39_word_no_space_6: sleeptotalflagfetchranchinterest
-bip_39_word_no_space_7: sleeptotalflagfetchranchinterestsize
-bip_39_word_no_space_8: sleeptotalflagfetchranchinterestsizebecome
-bip_39_word_no_space_9: sleeptotalflagfetchranchinterestsizebecomeurban
-bip_39_word_space_0:
-- sleep
-- total
-- flag
-- fetch
-- ranch
-- interest
-- size
-- become
-- urban
-- prefer
-- farm
-- art
-bip_39_word_space_1: sleep
-bip_39_word_space_10: sleep total flag fetch ranch interest size become urban prefer
-bip_39_word_space_11: sleep total flag fetch ranch interest size become urban prefer
-  farm
 bip_39_word_space_12: sleep total flag fetch ranch interest size become urban prefer
   farm art
 bip_39_word_space_2: sleep total
 bip_39_word_space_3: sleep total flag
-bip_39_word_space_4: sleep total flag fetch
-bip_39_word_space_5: sleep total flag fetch ranch
-bip_39_word_space_6: sleep total flag fetch ranch interest
-bip_39_word_space_7: sleep total flag fetch ranch interest size
-bip_39_word_space_8: sleep total flag fetch ranch interest size become
-bip_39_word_space_9: sleep total flag fetch ranch interest size become urban
-bip_39_word_underscore_1: sleep
-bip_39_word_underscore_10: sleep_total_flag_fetch_ranch_interest_size_become_urban_prefer
-bip_39_word_underscore_11: sleep_total_flag_fetch_ranch_interest_size_become_urban_prefer_farm
 bip_39_word_underscore_12: sleep_total_flag_fetch_ranch_interest_size_become_urban_prefer_farm_art
 bip_39_word_underscore_2: sleep_total
 bip_39_word_underscore_3: sleep_total_flag
-bip_39_word_underscore_4: sleep_total_flag_fetch
-bip_39_word_underscore_5: sleep_total_flag_fetch_ranch
-bip_39_word_underscore_6: sleep_total_flag_fetch_ranch_interest
-bip_39_word_underscore_7: sleep_total_flag_fetch_ranch_interest_size
-bip_39_word_underscore_8: sleep_total_flag_fetch_ranch_interest_size_become
-bip_39_word_underscore_9: sleep_total_flag_fetch_ranch_interest_size_become_urban
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

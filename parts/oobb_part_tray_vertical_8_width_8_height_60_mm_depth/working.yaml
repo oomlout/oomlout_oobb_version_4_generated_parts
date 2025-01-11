@@ -1,68 +1,9 @@
-bip_39_word_dash_1: interest
-bip_39_word_dash_10: interest-merge-pencil-faint-flavor-grid-learn-keep-spin-kind
-bip_39_word_dash_11: interest-merge-pencil-faint-flavor-grid-learn-keep-spin-kind-crash
 bip_39_word_dash_12: interest-merge-pencil-faint-flavor-grid-learn-keep-spin-kind-crash-answer
 bip_39_word_dash_2: interest-merge
 bip_39_word_dash_3: interest-merge-pencil
-bip_39_word_dash_4: interest-merge-pencil-faint
-bip_39_word_dash_5: interest-merge-pencil-faint-flavor
-bip_39_word_dash_6: interest-merge-pencil-faint-flavor-grid
-bip_39_word_dash_7: interest-merge-pencil-faint-flavor-grid-learn
-bip_39_word_dash_8: interest-merge-pencil-faint-flavor-grid-learn-keep
-bip_39_word_dash_9: interest-merge-pencil-faint-flavor-grid-learn-keep-spin
-bip_39_word_new_br_1: interest
-bip_39_word_new_br_10: interest<br>merge<br>pencil<br>faint<br>flavor<br>grid<br>learn<br>keep<br>spin<br>kind
-bip_39_word_new_br_11: interest<br>merge<br>pencil<br>faint<br>flavor<br>grid<br>learn<br>keep<br>spin<br>kind<br>crash
 bip_39_word_new_br_12: interest<br>merge<br>pencil<br>faint<br>flavor<br>grid<br>learn<br>keep<br>spin<br>kind<br>crash<br>answer
 bip_39_word_new_br_2: interest<br>merge
 bip_39_word_new_br_3: interest<br>merge<br>pencil
-bip_39_word_new_br_4: interest<br>merge<br>pencil<br>faint
-bip_39_word_new_br_5: interest<br>merge<br>pencil<br>faint<br>flavor
-bip_39_word_new_br_6: interest<br>merge<br>pencil<br>faint<br>flavor<br>grid
-bip_39_word_new_br_7: interest<br>merge<br>pencil<br>faint<br>flavor<br>grid<br>learn
-bip_39_word_new_br_8: interest<br>merge<br>pencil<br>faint<br>flavor<br>grid<br>learn<br>keep
-bip_39_word_new_br_9: interest<br>merge<br>pencil<br>faint<br>flavor<br>grid<br>learn<br>keep<br>spin
-bip_39_word_new_line_1: interest
-bip_39_word_new_line_10: 'interest
-
-  merge
-
-  pencil
-
-  faint
-
-  flavor
-
-  grid
-
-  learn
-
-  keep
-
-  spin
-
-  kind'
-bip_39_word_new_line_11: 'interest
-
-  merge
-
-  pencil
-
-  faint
-
-  flavor
-
-  grid
-
-  learn
-
-  keep
-
-  spin
-
-  kind
-
-  crash'
 bip_39_word_new_line_12: 'interest
 
   merge
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'interest
   merge
 
   pencil'
-bip_39_word_new_line_4: 'interest
-
-  merge
-
-  pencil
-
-  faint'
-bip_39_word_new_line_5: 'interest
-
-  merge
-
-  pencil
-
-  faint
-
-  flavor'
-bip_39_word_new_line_6: 'interest
-
-  merge
-
-  pencil
-
-  faint
-
-  flavor
-
-  grid'
-bip_39_word_new_line_7: 'interest
-
-  merge
-
-  pencil
-
-  faint
-
-  flavor
-
-  grid
-
-  learn'
-bip_39_word_new_line_8: 'interest
-
-  merge
-
-  pencil
-
-  faint
-
-  flavor
-
-  grid
-
-  learn
-
-  keep'
-bip_39_word_new_line_9: 'interest
-
-  merge
-
-  pencil
-
-  faint
-
-  flavor
-
-  grid
-
-  learn
-
-  keep
-
-  spin'
-bip_39_word_no_space_1: interest
-bip_39_word_no_space_10: interestmergepencilfaintflavorgridlearnkeepspinkind
-bip_39_word_no_space_11: interestmergepencilfaintflavorgridlearnkeepspinkindcrash
 bip_39_word_no_space_12: interestmergepencilfaintflavorgridlearnkeepspinkindcrashanswer
 bip_39_word_no_space_2: interestmerge
 bip_39_word_no_space_3: interestmergepencil
-bip_39_word_no_space_4: interestmergepencilfaint
-bip_39_word_no_space_5: interestmergepencilfaintflavor
-bip_39_word_no_space_6: interestmergepencilfaintflavorgrid
-bip_39_word_no_space_7: interestmergepencilfaintflavorgridlearn
-bip_39_word_no_space_8: interestmergepencilfaintflavorgridlearnkeep
-bip_39_word_no_space_9: interestmergepencilfaintflavorgridlearnkeepspin
-bip_39_word_space_0:
-- interest
-- merge
-- pencil
-- faint
-- flavor
-- grid
-- learn
-- keep
-- spin
-- kind
-- crash
-- answer
-bip_39_word_space_1: interest
-bip_39_word_space_10: interest merge pencil faint flavor grid learn keep spin kind
-bip_39_word_space_11: interest merge pencil faint flavor grid learn keep spin kind
-  crash
 bip_39_word_space_12: interest merge pencil faint flavor grid learn keep spin kind
   crash answer
 bip_39_word_space_2: interest merge
 bip_39_word_space_3: interest merge pencil
-bip_39_word_space_4: interest merge pencil faint
-bip_39_word_space_5: interest merge pencil faint flavor
-bip_39_word_space_6: interest merge pencil faint flavor grid
-bip_39_word_space_7: interest merge pencil faint flavor grid learn
-bip_39_word_space_8: interest merge pencil faint flavor grid learn keep
-bip_39_word_space_9: interest merge pencil faint flavor grid learn keep spin
-bip_39_word_underscore_1: interest
-bip_39_word_underscore_10: interest_merge_pencil_faint_flavor_grid_learn_keep_spin_kind
-bip_39_word_underscore_11: interest_merge_pencil_faint_flavor_grid_learn_keep_spin_kind_crash
 bip_39_word_underscore_12: interest_merge_pencil_faint_flavor_grid_learn_keep_spin_kind_crash_answer
 bip_39_word_underscore_2: interest_merge
 bip_39_word_underscore_3: interest_merge_pencil
-bip_39_word_underscore_4: interest_merge_pencil_faint
-bip_39_word_underscore_5: interest_merge_pencil_faint_flavor
-bip_39_word_underscore_6: interest_merge_pencil_faint_flavor_grid
-bip_39_word_underscore_7: interest_merge_pencil_faint_flavor_grid_learn
-bip_39_word_underscore_8: interest_merge_pencil_faint_flavor_grid_learn_keep
-bip_39_word_underscore_9: interest_merge_pencil_faint_flavor_grid_learn_keep_spin
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: text
-bip_39_word_dash_10: text-man-capital-mobile-pipe-submit-mesh-van-casual-bronze
-bip_39_word_dash_11: text-man-capital-mobile-pipe-submit-mesh-van-casual-bronze-island
 bip_39_word_dash_12: text-man-capital-mobile-pipe-submit-mesh-van-casual-bronze-island-assume
 bip_39_word_dash_2: text-man
 bip_39_word_dash_3: text-man-capital
-bip_39_word_dash_4: text-man-capital-mobile
-bip_39_word_dash_5: text-man-capital-mobile-pipe
-bip_39_word_dash_6: text-man-capital-mobile-pipe-submit
-bip_39_word_dash_7: text-man-capital-mobile-pipe-submit-mesh
-bip_39_word_dash_8: text-man-capital-mobile-pipe-submit-mesh-van
-bip_39_word_dash_9: text-man-capital-mobile-pipe-submit-mesh-van-casual
-bip_39_word_new_br_1: text
-bip_39_word_new_br_10: text<br>man<br>capital<br>mobile<br>pipe<br>submit<br>mesh<br>van<br>casual<br>bronze
-bip_39_word_new_br_11: text<br>man<br>capital<br>mobile<br>pipe<br>submit<br>mesh<br>van<br>casual<br>bronze<br>island
 bip_39_word_new_br_12: text<br>man<br>capital<br>mobile<br>pipe<br>submit<br>mesh<br>van<br>casual<br>bronze<br>island<br>assume
 bip_39_word_new_br_2: text<br>man
 bip_39_word_new_br_3: text<br>man<br>capital
-bip_39_word_new_br_4: text<br>man<br>capital<br>mobile
-bip_39_word_new_br_5: text<br>man<br>capital<br>mobile<br>pipe
-bip_39_word_new_br_6: text<br>man<br>capital<br>mobile<br>pipe<br>submit
-bip_39_word_new_br_7: text<br>man<br>capital<br>mobile<br>pipe<br>submit<br>mesh
-bip_39_word_new_br_8: text<br>man<br>capital<br>mobile<br>pipe<br>submit<br>mesh<br>van
-bip_39_word_new_br_9: text<br>man<br>capital<br>mobile<br>pipe<br>submit<br>mesh<br>van<br>casual
-bip_39_word_new_line_1: text
-bip_39_word_new_line_10: 'text
-
-  man
-
-  capital
-
-  mobile
-
-  pipe
-
-  submit
-
-  mesh
-
-  van
-
-  casual
-
-  bronze'
-bip_39_word_new_line_11: 'text
-
-  man
-
-  capital
-
-  mobile
-
-  pipe
-
-  submit
-
-  mesh
-
-  van
-
-  casual
-
-  bronze
-
-  island'
 bip_39_word_new_line_12: 'text
 
   man
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'text
   man
 
   capital'
-bip_39_word_new_line_4: 'text
-
-  man
-
-  capital
-
-  mobile'
-bip_39_word_new_line_5: 'text
-
-  man
-
-  capital
-
-  mobile
-
-  pipe'
-bip_39_word_new_line_6: 'text
-
-  man
-
-  capital
-
-  mobile
-
-  pipe
-
-  submit'
-bip_39_word_new_line_7: 'text
-
-  man
-
-  capital
-
-  mobile
-
-  pipe
-
-  submit
-
-  mesh'
-bip_39_word_new_line_8: 'text
-
-  man
-
-  capital
-
-  mobile
-
-  pipe
-
-  submit
-
-  mesh
-
-  van'
-bip_39_word_new_line_9: 'text
-
-  man
-
-  capital
-
-  mobile
-
-  pipe
-
-  submit
-
-  mesh
-
-  van
-
-  casual'
-bip_39_word_no_space_1: text
-bip_39_word_no_space_10: textmancapitalmobilepipesubmitmeshvancasualbronze
-bip_39_word_no_space_11: textmancapitalmobilepipesubmitmeshvancasualbronzeisland
 bip_39_word_no_space_12: textmancapitalmobilepipesubmitmeshvancasualbronzeislandassume
 bip_39_word_no_space_2: textman
 bip_39_word_no_space_3: textmancapital
-bip_39_word_no_space_4: textmancapitalmobile
-bip_39_word_no_space_5: textmancapitalmobilepipe
-bip_39_word_no_space_6: textmancapitalmobilepipesubmit
-bip_39_word_no_space_7: textmancapitalmobilepipesubmitmesh
-bip_39_word_no_space_8: textmancapitalmobilepipesubmitmeshvan
-bip_39_word_no_space_9: textmancapitalmobilepipesubmitmeshvancasual
-bip_39_word_space_0:
-- text
-- man
-- capital
-- mobile
-- pipe
-- submit
-- mesh
-- van
-- casual
-- bronze
-- island
-- assume
-bip_39_word_space_1: text
-bip_39_word_space_10: text man capital mobile pipe submit mesh van casual bronze
-bip_39_word_space_11: text man capital mobile pipe submit mesh van casual bronze island
 bip_39_word_space_12: text man capital mobile pipe submit mesh van casual bronze island
   assume
 bip_39_word_space_2: text man
 bip_39_word_space_3: text man capital
-bip_39_word_space_4: text man capital mobile
-bip_39_word_space_5: text man capital mobile pipe
-bip_39_word_space_6: text man capital mobile pipe submit
-bip_39_word_space_7: text man capital mobile pipe submit mesh
-bip_39_word_space_8: text man capital mobile pipe submit mesh van
-bip_39_word_space_9: text man capital mobile pipe submit mesh van casual
-bip_39_word_underscore_1: text
-bip_39_word_underscore_10: text_man_capital_mobile_pipe_submit_mesh_van_casual_bronze
-bip_39_word_underscore_11: text_man_capital_mobile_pipe_submit_mesh_van_casual_bronze_island
 bip_39_word_underscore_12: text_man_capital_mobile_pipe_submit_mesh_van_casual_bronze_island_assume
 bip_39_word_underscore_2: text_man
 bip_39_word_underscore_3: text_man_capital
-bip_39_word_underscore_4: text_man_capital_mobile
-bip_39_word_underscore_5: text_man_capital_mobile_pipe
-bip_39_word_underscore_6: text_man_capital_mobile_pipe_submit
-bip_39_word_underscore_7: text_man_capital_mobile_pipe_submit_mesh
-bip_39_word_underscore_8: text_man_capital_mobile_pipe_submit_mesh_van
-bip_39_word_underscore_9: text_man_capital_mobile_pipe_submit_mesh_van_casual
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

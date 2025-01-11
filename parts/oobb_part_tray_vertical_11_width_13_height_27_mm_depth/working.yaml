@@ -1,68 +1,9 @@
-bip_39_word_dash_1: select
-bip_39_word_dash_10: select-adapt-book-hybrid-run-typical-bleak-crack-come-artefact
-bip_39_word_dash_11: select-adapt-book-hybrid-run-typical-bleak-crack-come-artefact-daughter
 bip_39_word_dash_12: select-adapt-book-hybrid-run-typical-bleak-crack-come-artefact-daughter-address
 bip_39_word_dash_2: select-adapt
 bip_39_word_dash_3: select-adapt-book
-bip_39_word_dash_4: select-adapt-book-hybrid
-bip_39_word_dash_5: select-adapt-book-hybrid-run
-bip_39_word_dash_6: select-adapt-book-hybrid-run-typical
-bip_39_word_dash_7: select-adapt-book-hybrid-run-typical-bleak
-bip_39_word_dash_8: select-adapt-book-hybrid-run-typical-bleak-crack
-bip_39_word_dash_9: select-adapt-book-hybrid-run-typical-bleak-crack-come
-bip_39_word_new_br_1: select
-bip_39_word_new_br_10: select<br>adapt<br>book<br>hybrid<br>run<br>typical<br>bleak<br>crack<br>come<br>artefact
-bip_39_word_new_br_11: select<br>adapt<br>book<br>hybrid<br>run<br>typical<br>bleak<br>crack<br>come<br>artefact<br>daughter
 bip_39_word_new_br_12: select<br>adapt<br>book<br>hybrid<br>run<br>typical<br>bleak<br>crack<br>come<br>artefact<br>daughter<br>address
 bip_39_word_new_br_2: select<br>adapt
 bip_39_word_new_br_3: select<br>adapt<br>book
-bip_39_word_new_br_4: select<br>adapt<br>book<br>hybrid
-bip_39_word_new_br_5: select<br>adapt<br>book<br>hybrid<br>run
-bip_39_word_new_br_6: select<br>adapt<br>book<br>hybrid<br>run<br>typical
-bip_39_word_new_br_7: select<br>adapt<br>book<br>hybrid<br>run<br>typical<br>bleak
-bip_39_word_new_br_8: select<br>adapt<br>book<br>hybrid<br>run<br>typical<br>bleak<br>crack
-bip_39_word_new_br_9: select<br>adapt<br>book<br>hybrid<br>run<br>typical<br>bleak<br>crack<br>come
-bip_39_word_new_line_1: select
-bip_39_word_new_line_10: 'select
-
-  adapt
-
-  book
-
-  hybrid
-
-  run
-
-  typical
-
-  bleak
-
-  crack
-
-  come
-
-  artefact'
-bip_39_word_new_line_11: 'select
-
-  adapt
-
-  book
-
-  hybrid
-
-  run
-
-  typical
-
-  bleak
-
-  crack
-
-  come
-
-  artefact
-
-  daughter'
 bip_39_word_new_line_12: 'select
 
   adapt
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'select
   adapt
 
   book'
-bip_39_word_new_line_4: 'select
-
-  adapt
-
-  book
-
-  hybrid'
-bip_39_word_new_line_5: 'select
-
-  adapt
-
-  book
-
-  hybrid
-
-  run'
-bip_39_word_new_line_6: 'select
-
-  adapt
-
-  book
-
-  hybrid
-
-  run
-
-  typical'
-bip_39_word_new_line_7: 'select
-
-  adapt
-
-  book
-
-  hybrid
-
-  run
-
-  typical
-
-  bleak'
-bip_39_word_new_line_8: 'select
-
-  adapt
-
-  book
-
-  hybrid
-
-  run
-
-  typical
-
-  bleak
-
-  crack'
-bip_39_word_new_line_9: 'select
-
-  adapt
-
-  book
-
-  hybrid
-
-  run
-
-  typical
-
-  bleak
-
-  crack
-
-  come'
-bip_39_word_no_space_1: select
-bip_39_word_no_space_10: selectadaptbookhybridruntypicalbleakcrackcomeartefact
-bip_39_word_no_space_11: selectadaptbookhybridruntypicalbleakcrackcomeartefactdaughter
 bip_39_word_no_space_12: selectadaptbookhybridruntypicalbleakcrackcomeartefactdaughteraddress
 bip_39_word_no_space_2: selectadapt
 bip_39_word_no_space_3: selectadaptbook
-bip_39_word_no_space_4: selectadaptbookhybrid
-bip_39_word_no_space_5: selectadaptbookhybridrun
-bip_39_word_no_space_6: selectadaptbookhybridruntypical
-bip_39_word_no_space_7: selectadaptbookhybridruntypicalbleak
-bip_39_word_no_space_8: selectadaptbookhybridruntypicalbleakcrack
-bip_39_word_no_space_9: selectadaptbookhybridruntypicalbleakcrackcome
-bip_39_word_space_0:
-- select
-- adapt
-- book
-- hybrid
-- run
-- typical
-- bleak
-- crack
-- come
-- artefact
-- daughter
-- address
-bip_39_word_space_1: select
-bip_39_word_space_10: select adapt book hybrid run typical bleak crack come artefact
-bip_39_word_space_11: select adapt book hybrid run typical bleak crack come artefact
-  daughter
 bip_39_word_space_12: select adapt book hybrid run typical bleak crack come artefact
   daughter address
 bip_39_word_space_2: select adapt
 bip_39_word_space_3: select adapt book
-bip_39_word_space_4: select adapt book hybrid
-bip_39_word_space_5: select adapt book hybrid run
-bip_39_word_space_6: select adapt book hybrid run typical
-bip_39_word_space_7: select adapt book hybrid run typical bleak
-bip_39_word_space_8: select adapt book hybrid run typical bleak crack
-bip_39_word_space_9: select adapt book hybrid run typical bleak crack come
-bip_39_word_underscore_1: select
-bip_39_word_underscore_10: select_adapt_book_hybrid_run_typical_bleak_crack_come_artefact
-bip_39_word_underscore_11: select_adapt_book_hybrid_run_typical_bleak_crack_come_artefact_daughter
 bip_39_word_underscore_12: select_adapt_book_hybrid_run_typical_bleak_crack_come_artefact_daughter_address
 bip_39_word_underscore_2: select_adapt
 bip_39_word_underscore_3: select_adapt_book
-bip_39_word_underscore_4: select_adapt_book_hybrid
-bip_39_word_underscore_5: select_adapt_book_hybrid_run
-bip_39_word_underscore_6: select_adapt_book_hybrid_run_typical
-bip_39_word_underscore_7: select_adapt_book_hybrid_run_typical_bleak
-bip_39_word_underscore_8: select_adapt_book_hybrid_run_typical_bleak_crack
-bip_39_word_underscore_9: select_adapt_book_hybrid_run_typical_bleak_crack_come
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

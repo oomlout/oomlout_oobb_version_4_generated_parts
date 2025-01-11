@@ -1,68 +1,9 @@
-bip_39_word_dash_1: meadow
-bip_39_word_dash_10: meadow-gentle-candy-dash-aunt-iron-coast-swarm-awful-thumb
-bip_39_word_dash_11: meadow-gentle-candy-dash-aunt-iron-coast-swarm-awful-thumb-illness
 bip_39_word_dash_12: meadow-gentle-candy-dash-aunt-iron-coast-swarm-awful-thumb-illness-almost
 bip_39_word_dash_2: meadow-gentle
 bip_39_word_dash_3: meadow-gentle-candy
-bip_39_word_dash_4: meadow-gentle-candy-dash
-bip_39_word_dash_5: meadow-gentle-candy-dash-aunt
-bip_39_word_dash_6: meadow-gentle-candy-dash-aunt-iron
-bip_39_word_dash_7: meadow-gentle-candy-dash-aunt-iron-coast
-bip_39_word_dash_8: meadow-gentle-candy-dash-aunt-iron-coast-swarm
-bip_39_word_dash_9: meadow-gentle-candy-dash-aunt-iron-coast-swarm-awful
-bip_39_word_new_br_1: meadow
-bip_39_word_new_br_10: meadow<br>gentle<br>candy<br>dash<br>aunt<br>iron<br>coast<br>swarm<br>awful<br>thumb
-bip_39_word_new_br_11: meadow<br>gentle<br>candy<br>dash<br>aunt<br>iron<br>coast<br>swarm<br>awful<br>thumb<br>illness
 bip_39_word_new_br_12: meadow<br>gentle<br>candy<br>dash<br>aunt<br>iron<br>coast<br>swarm<br>awful<br>thumb<br>illness<br>almost
 bip_39_word_new_br_2: meadow<br>gentle
 bip_39_word_new_br_3: meadow<br>gentle<br>candy
-bip_39_word_new_br_4: meadow<br>gentle<br>candy<br>dash
-bip_39_word_new_br_5: meadow<br>gentle<br>candy<br>dash<br>aunt
-bip_39_word_new_br_6: meadow<br>gentle<br>candy<br>dash<br>aunt<br>iron
-bip_39_word_new_br_7: meadow<br>gentle<br>candy<br>dash<br>aunt<br>iron<br>coast
-bip_39_word_new_br_8: meadow<br>gentle<br>candy<br>dash<br>aunt<br>iron<br>coast<br>swarm
-bip_39_word_new_br_9: meadow<br>gentle<br>candy<br>dash<br>aunt<br>iron<br>coast<br>swarm<br>awful
-bip_39_word_new_line_1: meadow
-bip_39_word_new_line_10: 'meadow
-
-  gentle
-
-  candy
-
-  dash
-
-  aunt
-
-  iron
-
-  coast
-
-  swarm
-
-  awful
-
-  thumb'
-bip_39_word_new_line_11: 'meadow
-
-  gentle
-
-  candy
-
-  dash
-
-  aunt
-
-  iron
-
-  coast
-
-  swarm
-
-  awful
-
-  thumb
-
-  illness'
 bip_39_word_new_line_12: 'meadow
 
   gentle
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'meadow
   gentle
 
   candy'
-bip_39_word_new_line_4: 'meadow
-
-  gentle
-
-  candy
-
-  dash'
-bip_39_word_new_line_5: 'meadow
-
-  gentle
-
-  candy
-
-  dash
-
-  aunt'
-bip_39_word_new_line_6: 'meadow
-
-  gentle
-
-  candy
-
-  dash
-
-  aunt
-
-  iron'
-bip_39_word_new_line_7: 'meadow
-
-  gentle
-
-  candy
-
-  dash
-
-  aunt
-
-  iron
-
-  coast'
-bip_39_word_new_line_8: 'meadow
-
-  gentle
-
-  candy
-
-  dash
-
-  aunt
-
-  iron
-
-  coast
-
-  swarm'
-bip_39_word_new_line_9: 'meadow
-
-  gentle
-
-  candy
-
-  dash
-
-  aunt
-
-  iron
-
-  coast
-
-  swarm
-
-  awful'
-bip_39_word_no_space_1: meadow
-bip_39_word_no_space_10: meadowgentlecandydashauntironcoastswarmawfulthumb
-bip_39_word_no_space_11: meadowgentlecandydashauntironcoastswarmawfulthumbillness
 bip_39_word_no_space_12: meadowgentlecandydashauntironcoastswarmawfulthumbillnessalmost
 bip_39_word_no_space_2: meadowgentle
 bip_39_word_no_space_3: meadowgentlecandy
-bip_39_word_no_space_4: meadowgentlecandydash
-bip_39_word_no_space_5: meadowgentlecandydashaunt
-bip_39_word_no_space_6: meadowgentlecandydashauntiron
-bip_39_word_no_space_7: meadowgentlecandydashauntironcoast
-bip_39_word_no_space_8: meadowgentlecandydashauntironcoastswarm
-bip_39_word_no_space_9: meadowgentlecandydashauntironcoastswarmawful
-bip_39_word_space_0:
-- meadow
-- gentle
-- candy
-- dash
-- aunt
-- iron
-- coast
-- swarm
-- awful
-- thumb
-- illness
-- almost
-bip_39_word_space_1: meadow
-bip_39_word_space_10: meadow gentle candy dash aunt iron coast swarm awful thumb
-bip_39_word_space_11: meadow gentle candy dash aunt iron coast swarm awful thumb illness
 bip_39_word_space_12: meadow gentle candy dash aunt iron coast swarm awful thumb illness
   almost
 bip_39_word_space_2: meadow gentle
 bip_39_word_space_3: meadow gentle candy
-bip_39_word_space_4: meadow gentle candy dash
-bip_39_word_space_5: meadow gentle candy dash aunt
-bip_39_word_space_6: meadow gentle candy dash aunt iron
-bip_39_word_space_7: meadow gentle candy dash aunt iron coast
-bip_39_word_space_8: meadow gentle candy dash aunt iron coast swarm
-bip_39_word_space_9: meadow gentle candy dash aunt iron coast swarm awful
-bip_39_word_underscore_1: meadow
-bip_39_word_underscore_10: meadow_gentle_candy_dash_aunt_iron_coast_swarm_awful_thumb
-bip_39_word_underscore_11: meadow_gentle_candy_dash_aunt_iron_coast_swarm_awful_thumb_illness
 bip_39_word_underscore_12: meadow_gentle_candy_dash_aunt_iron_coast_swarm_awful_thumb_illness_almost
 bip_39_word_underscore_2: meadow_gentle
 bip_39_word_underscore_3: meadow_gentle_candy
-bip_39_word_underscore_4: meadow_gentle_candy_dash
-bip_39_word_underscore_5: meadow_gentle_candy_dash_aunt
-bip_39_word_underscore_6: meadow_gentle_candy_dash_aunt_iron
-bip_39_word_underscore_7: meadow_gentle_candy_dash_aunt_iron_coast
-bip_39_word_underscore_8: meadow_gentle_candy_dash_aunt_iron_coast_swarm
-bip_39_word_underscore_9: meadow_gentle_candy_dash_aunt_iron_coast_swarm_awful
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

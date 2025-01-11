@@ -1,68 +1,9 @@
-bip_39_word_dash_1: candy
-bip_39_word_dash_10: candy-sword-bright-wear-brisk-swap-merge-popular-math-sample
-bip_39_word_dash_11: candy-sword-bright-wear-brisk-swap-merge-popular-math-sample-shoe
 bip_39_word_dash_12: candy-sword-bright-wear-brisk-swap-merge-popular-math-sample-shoe-anger
 bip_39_word_dash_2: candy-sword
 bip_39_word_dash_3: candy-sword-bright
-bip_39_word_dash_4: candy-sword-bright-wear
-bip_39_word_dash_5: candy-sword-bright-wear-brisk
-bip_39_word_dash_6: candy-sword-bright-wear-brisk-swap
-bip_39_word_dash_7: candy-sword-bright-wear-brisk-swap-merge
-bip_39_word_dash_8: candy-sword-bright-wear-brisk-swap-merge-popular
-bip_39_word_dash_9: candy-sword-bright-wear-brisk-swap-merge-popular-math
-bip_39_word_new_br_1: candy
-bip_39_word_new_br_10: candy<br>sword<br>bright<br>wear<br>brisk<br>swap<br>merge<br>popular<br>math<br>sample
-bip_39_word_new_br_11: candy<br>sword<br>bright<br>wear<br>brisk<br>swap<br>merge<br>popular<br>math<br>sample<br>shoe
 bip_39_word_new_br_12: candy<br>sword<br>bright<br>wear<br>brisk<br>swap<br>merge<br>popular<br>math<br>sample<br>shoe<br>anger
 bip_39_word_new_br_2: candy<br>sword
 bip_39_word_new_br_3: candy<br>sword<br>bright
-bip_39_word_new_br_4: candy<br>sword<br>bright<br>wear
-bip_39_word_new_br_5: candy<br>sword<br>bright<br>wear<br>brisk
-bip_39_word_new_br_6: candy<br>sword<br>bright<br>wear<br>brisk<br>swap
-bip_39_word_new_br_7: candy<br>sword<br>bright<br>wear<br>brisk<br>swap<br>merge
-bip_39_word_new_br_8: candy<br>sword<br>bright<br>wear<br>brisk<br>swap<br>merge<br>popular
-bip_39_word_new_br_9: candy<br>sword<br>bright<br>wear<br>brisk<br>swap<br>merge<br>popular<br>math
-bip_39_word_new_line_1: candy
-bip_39_word_new_line_10: 'candy
-
-  sword
-
-  bright
-
-  wear
-
-  brisk
-
-  swap
-
-  merge
-
-  popular
-
-  math
-
-  sample'
-bip_39_word_new_line_11: 'candy
-
-  sword
-
-  bright
-
-  wear
-
-  brisk
-
-  swap
-
-  merge
-
-  popular
-
-  math
-
-  sample
-
-  shoe'
 bip_39_word_new_line_12: 'candy
 
   sword
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'candy
   sword
 
   bright'
-bip_39_word_new_line_4: 'candy
-
-  sword
-
-  bright
-
-  wear'
-bip_39_word_new_line_5: 'candy
-
-  sword
-
-  bright
-
-  wear
-
-  brisk'
-bip_39_word_new_line_6: 'candy
-
-  sword
-
-  bright
-
-  wear
-
-  brisk
-
-  swap'
-bip_39_word_new_line_7: 'candy
-
-  sword
-
-  bright
-
-  wear
-
-  brisk
-
-  swap
-
-  merge'
-bip_39_word_new_line_8: 'candy
-
-  sword
-
-  bright
-
-  wear
-
-  brisk
-
-  swap
-
-  merge
-
-  popular'
-bip_39_word_new_line_9: 'candy
-
-  sword
-
-  bright
-
-  wear
-
-  brisk
-
-  swap
-
-  merge
-
-  popular
-
-  math'
-bip_39_word_no_space_1: candy
-bip_39_word_no_space_10: candyswordbrightwearbriskswapmergepopularmathsample
-bip_39_word_no_space_11: candyswordbrightwearbriskswapmergepopularmathsampleshoe
 bip_39_word_no_space_12: candyswordbrightwearbriskswapmergepopularmathsampleshoeanger
 bip_39_word_no_space_2: candysword
 bip_39_word_no_space_3: candyswordbright
-bip_39_word_no_space_4: candyswordbrightwear
-bip_39_word_no_space_5: candyswordbrightwearbrisk
-bip_39_word_no_space_6: candyswordbrightwearbriskswap
-bip_39_word_no_space_7: candyswordbrightwearbriskswapmerge
-bip_39_word_no_space_8: candyswordbrightwearbriskswapmergepopular
-bip_39_word_no_space_9: candyswordbrightwearbriskswapmergepopularmath
-bip_39_word_space_0:
-- candy
-- sword
-- bright
-- wear
-- brisk
-- swap
-- merge
-- popular
-- math
-- sample
-- shoe
-- anger
-bip_39_word_space_1: candy
-bip_39_word_space_10: candy sword bright wear brisk swap merge popular math sample
-bip_39_word_space_11: candy sword bright wear brisk swap merge popular math sample
-  shoe
 bip_39_word_space_12: candy sword bright wear brisk swap merge popular math sample
   shoe anger
 bip_39_word_space_2: candy sword
 bip_39_word_space_3: candy sword bright
-bip_39_word_space_4: candy sword bright wear
-bip_39_word_space_5: candy sword bright wear brisk
-bip_39_word_space_6: candy sword bright wear brisk swap
-bip_39_word_space_7: candy sword bright wear brisk swap merge
-bip_39_word_space_8: candy sword bright wear brisk swap merge popular
-bip_39_word_space_9: candy sword bright wear brisk swap merge popular math
-bip_39_word_underscore_1: candy
-bip_39_word_underscore_10: candy_sword_bright_wear_brisk_swap_merge_popular_math_sample
-bip_39_word_underscore_11: candy_sword_bright_wear_brisk_swap_merge_popular_math_sample_shoe
 bip_39_word_underscore_12: candy_sword_bright_wear_brisk_swap_merge_popular_math_sample_shoe_anger
 bip_39_word_underscore_2: candy_sword
 bip_39_word_underscore_3: candy_sword_bright
-bip_39_word_underscore_4: candy_sword_bright_wear
-bip_39_word_underscore_5: candy_sword_bright_wear_brisk
-bip_39_word_underscore_6: candy_sword_bright_wear_brisk_swap
-bip_39_word_underscore_7: candy_sword_bright_wear_brisk_swap_merge
-bip_39_word_underscore_8: candy_sword_bright_wear_brisk_swap_merge_popular
-bip_39_word_underscore_9: candy_sword_bright_wear_brisk_swap_merge_popular_math
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

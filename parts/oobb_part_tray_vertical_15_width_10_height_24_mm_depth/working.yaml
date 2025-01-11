@@ -1,68 +1,9 @@
-bip_39_word_dash_1: initial
-bip_39_word_dash_10: initial-lab-patient-around-kidney-lamp-assume-scheme-cluster-pen
-bip_39_word_dash_11: initial-lab-patient-around-kidney-lamp-assume-scheme-cluster-pen-grow
 bip_39_word_dash_12: initial-lab-patient-around-kidney-lamp-assume-scheme-cluster-pen-grow-abstract
 bip_39_word_dash_2: initial-lab
 bip_39_word_dash_3: initial-lab-patient
-bip_39_word_dash_4: initial-lab-patient-around
-bip_39_word_dash_5: initial-lab-patient-around-kidney
-bip_39_word_dash_6: initial-lab-patient-around-kidney-lamp
-bip_39_word_dash_7: initial-lab-patient-around-kidney-lamp-assume
-bip_39_word_dash_8: initial-lab-patient-around-kidney-lamp-assume-scheme
-bip_39_word_dash_9: initial-lab-patient-around-kidney-lamp-assume-scheme-cluster
-bip_39_word_new_br_1: initial
-bip_39_word_new_br_10: initial<br>lab<br>patient<br>around<br>kidney<br>lamp<br>assume<br>scheme<br>cluster<br>pen
-bip_39_word_new_br_11: initial<br>lab<br>patient<br>around<br>kidney<br>lamp<br>assume<br>scheme<br>cluster<br>pen<br>grow
 bip_39_word_new_br_12: initial<br>lab<br>patient<br>around<br>kidney<br>lamp<br>assume<br>scheme<br>cluster<br>pen<br>grow<br>abstract
 bip_39_word_new_br_2: initial<br>lab
 bip_39_word_new_br_3: initial<br>lab<br>patient
-bip_39_word_new_br_4: initial<br>lab<br>patient<br>around
-bip_39_word_new_br_5: initial<br>lab<br>patient<br>around<br>kidney
-bip_39_word_new_br_6: initial<br>lab<br>patient<br>around<br>kidney<br>lamp
-bip_39_word_new_br_7: initial<br>lab<br>patient<br>around<br>kidney<br>lamp<br>assume
-bip_39_word_new_br_8: initial<br>lab<br>patient<br>around<br>kidney<br>lamp<br>assume<br>scheme
-bip_39_word_new_br_9: initial<br>lab<br>patient<br>around<br>kidney<br>lamp<br>assume<br>scheme<br>cluster
-bip_39_word_new_line_1: initial
-bip_39_word_new_line_10: 'initial
-
-  lab
-
-  patient
-
-  around
-
-  kidney
-
-  lamp
-
-  assume
-
-  scheme
-
-  cluster
-
-  pen'
-bip_39_word_new_line_11: 'initial
-
-  lab
-
-  patient
-
-  around
-
-  kidney
-
-  lamp
-
-  assume
-
-  scheme
-
-  cluster
-
-  pen
-
-  grow'
 bip_39_word_new_line_12: 'initial
 
   lab
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'initial
   lab
 
   patient'
-bip_39_word_new_line_4: 'initial
-
-  lab
-
-  patient
-
-  around'
-bip_39_word_new_line_5: 'initial
-
-  lab
-
-  patient
-
-  around
-
-  kidney'
-bip_39_word_new_line_6: 'initial
-
-  lab
-
-  patient
-
-  around
-
-  kidney
-
-  lamp'
-bip_39_word_new_line_7: 'initial
-
-  lab
-
-  patient
-
-  around
-
-  kidney
-
-  lamp
-
-  assume'
-bip_39_word_new_line_8: 'initial
-
-  lab
-
-  patient
-
-  around
-
-  kidney
-
-  lamp
-
-  assume
-
-  scheme'
-bip_39_word_new_line_9: 'initial
-
-  lab
-
-  patient
-
-  around
-
-  kidney
-
-  lamp
-
-  assume
-
-  scheme
-
-  cluster'
-bip_39_word_no_space_1: initial
-bip_39_word_no_space_10: initiallabpatientaroundkidneylampassumeschemeclusterpen
-bip_39_word_no_space_11: initiallabpatientaroundkidneylampassumeschemeclusterpengrow
 bip_39_word_no_space_12: initiallabpatientaroundkidneylampassumeschemeclusterpengrowabstract
 bip_39_word_no_space_2: initiallab
 bip_39_word_no_space_3: initiallabpatient
-bip_39_word_no_space_4: initiallabpatientaround
-bip_39_word_no_space_5: initiallabpatientaroundkidney
-bip_39_word_no_space_6: initiallabpatientaroundkidneylamp
-bip_39_word_no_space_7: initiallabpatientaroundkidneylampassume
-bip_39_word_no_space_8: initiallabpatientaroundkidneylampassumescheme
-bip_39_word_no_space_9: initiallabpatientaroundkidneylampassumeschemecluster
-bip_39_word_space_0:
-- initial
-- lab
-- patient
-- around
-- kidney
-- lamp
-- assume
-- scheme
-- cluster
-- pen
-- grow
-- abstract
-bip_39_word_space_1: initial
-bip_39_word_space_10: initial lab patient around kidney lamp assume scheme cluster
-  pen
-bip_39_word_space_11: initial lab patient around kidney lamp assume scheme cluster
-  pen grow
 bip_39_word_space_12: initial lab patient around kidney lamp assume scheme cluster
   pen grow abstract
 bip_39_word_space_2: initial lab
 bip_39_word_space_3: initial lab patient
-bip_39_word_space_4: initial lab patient around
-bip_39_word_space_5: initial lab patient around kidney
-bip_39_word_space_6: initial lab patient around kidney lamp
-bip_39_word_space_7: initial lab patient around kidney lamp assume
-bip_39_word_space_8: initial lab patient around kidney lamp assume scheme
-bip_39_word_space_9: initial lab patient around kidney lamp assume scheme cluster
-bip_39_word_underscore_1: initial
-bip_39_word_underscore_10: initial_lab_patient_around_kidney_lamp_assume_scheme_cluster_pen
-bip_39_word_underscore_11: initial_lab_patient_around_kidney_lamp_assume_scheme_cluster_pen_grow
 bip_39_word_underscore_12: initial_lab_patient_around_kidney_lamp_assume_scheme_cluster_pen_grow_abstract
 bip_39_word_underscore_2: initial_lab
 bip_39_word_underscore_3: initial_lab_patient
-bip_39_word_underscore_4: initial_lab_patient_around
-bip_39_word_underscore_5: initial_lab_patient_around_kidney
-bip_39_word_underscore_6: initial_lab_patient_around_kidney_lamp
-bip_39_word_underscore_7: initial_lab_patient_around_kidney_lamp_assume
-bip_39_word_underscore_8: initial_lab_patient_around_kidney_lamp_assume_scheme
-bip_39_word_underscore_9: initial_lab_patient_around_kidney_lamp_assume_scheme_cluster
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: business
-bip_39_word_dash_10: business-forget-heart-thunder-divert-concert-hungry-embody-tongue-steak
-bip_39_word_dash_11: business-forget-heart-thunder-divert-concert-hungry-embody-tongue-steak-entire
 bip_39_word_dash_12: business-forget-heart-thunder-divert-concert-hungry-embody-tongue-steak-entire-absent
 bip_39_word_dash_2: business-forget
 bip_39_word_dash_3: business-forget-heart
-bip_39_word_dash_4: business-forget-heart-thunder
-bip_39_word_dash_5: business-forget-heart-thunder-divert
-bip_39_word_dash_6: business-forget-heart-thunder-divert-concert
-bip_39_word_dash_7: business-forget-heart-thunder-divert-concert-hungry
-bip_39_word_dash_8: business-forget-heart-thunder-divert-concert-hungry-embody
-bip_39_word_dash_9: business-forget-heart-thunder-divert-concert-hungry-embody-tongue
-bip_39_word_new_br_1: business
-bip_39_word_new_br_10: business<br>forget<br>heart<br>thunder<br>divert<br>concert<br>hungry<br>embody<br>tongue<br>steak
-bip_39_word_new_br_11: business<br>forget<br>heart<br>thunder<br>divert<br>concert<br>hungry<br>embody<br>tongue<br>steak<br>entire
 bip_39_word_new_br_12: business<br>forget<br>heart<br>thunder<br>divert<br>concert<br>hungry<br>embody<br>tongue<br>steak<br>entire<br>absent
 bip_39_word_new_br_2: business<br>forget
 bip_39_word_new_br_3: business<br>forget<br>heart
-bip_39_word_new_br_4: business<br>forget<br>heart<br>thunder
-bip_39_word_new_br_5: business<br>forget<br>heart<br>thunder<br>divert
-bip_39_word_new_br_6: business<br>forget<br>heart<br>thunder<br>divert<br>concert
-bip_39_word_new_br_7: business<br>forget<br>heart<br>thunder<br>divert<br>concert<br>hungry
-bip_39_word_new_br_8: business<br>forget<br>heart<br>thunder<br>divert<br>concert<br>hungry<br>embody
-bip_39_word_new_br_9: business<br>forget<br>heart<br>thunder<br>divert<br>concert<br>hungry<br>embody<br>tongue
-bip_39_word_new_line_1: business
-bip_39_word_new_line_10: 'business
-
-  forget
-
-  heart
-
-  thunder
-
-  divert
-
-  concert
-
-  hungry
-
-  embody
-
-  tongue
-
-  steak'
-bip_39_word_new_line_11: 'business
-
-  forget
-
-  heart
-
-  thunder
-
-  divert
-
-  concert
-
-  hungry
-
-  embody
-
-  tongue
-
-  steak
-
-  entire'
 bip_39_word_new_line_12: 'business
 
   forget
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'business
   forget
 
   heart'
-bip_39_word_new_line_4: 'business
-
-  forget
-
-  heart
-
-  thunder'
-bip_39_word_new_line_5: 'business
-
-  forget
-
-  heart
-
-  thunder
-
-  divert'
-bip_39_word_new_line_6: 'business
-
-  forget
-
-  heart
-
-  thunder
-
-  divert
-
-  concert'
-bip_39_word_new_line_7: 'business
-
-  forget
-
-  heart
-
-  thunder
-
-  divert
-
-  concert
-
-  hungry'
-bip_39_word_new_line_8: 'business
-
-  forget
-
-  heart
-
-  thunder
-
-  divert
-
-  concert
-
-  hungry
-
-  embody'
-bip_39_word_new_line_9: 'business
-
-  forget
-
-  heart
-
-  thunder
-
-  divert
-
-  concert
-
-  hungry
-
-  embody
-
-  tongue'
-bip_39_word_no_space_1: business
-bip_39_word_no_space_10: businessforgetheartthunderdivertconcerthungryembodytonguesteak
-bip_39_word_no_space_11: businessforgetheartthunderdivertconcerthungryembodytonguesteakentire
 bip_39_word_no_space_12: businessforgetheartthunderdivertconcerthungryembodytonguesteakentireabsent
 bip_39_word_no_space_2: businessforget
 bip_39_word_no_space_3: businessforgetheart
-bip_39_word_no_space_4: businessforgetheartthunder
-bip_39_word_no_space_5: businessforgetheartthunderdivert
-bip_39_word_no_space_6: businessforgetheartthunderdivertconcert
-bip_39_word_no_space_7: businessforgetheartthunderdivertconcerthungry
-bip_39_word_no_space_8: businessforgetheartthunderdivertconcerthungryembody
-bip_39_word_no_space_9: businessforgetheartthunderdivertconcerthungryembodytongue
-bip_39_word_space_0:
-- business
-- forget
-- heart
-- thunder
-- divert
-- concert
-- hungry
-- embody
-- tongue
-- steak
-- entire
-- absent
-bip_39_word_space_1: business
-bip_39_word_space_10: business forget heart thunder divert concert hungry embody tongue
-  steak
-bip_39_word_space_11: business forget heart thunder divert concert hungry embody tongue
-  steak entire
 bip_39_word_space_12: business forget heart thunder divert concert hungry embody tongue
   steak entire absent
 bip_39_word_space_2: business forget
 bip_39_word_space_3: business forget heart
-bip_39_word_space_4: business forget heart thunder
-bip_39_word_space_5: business forget heart thunder divert
-bip_39_word_space_6: business forget heart thunder divert concert
-bip_39_word_space_7: business forget heart thunder divert concert hungry
-bip_39_word_space_8: business forget heart thunder divert concert hungry embody
-bip_39_word_space_9: business forget heart thunder divert concert hungry embody tongue
-bip_39_word_underscore_1: business
-bip_39_word_underscore_10: business_forget_heart_thunder_divert_concert_hungry_embody_tongue_steak
-bip_39_word_underscore_11: business_forget_heart_thunder_divert_concert_hungry_embody_tongue_steak_entire
 bip_39_word_underscore_12: business_forget_heart_thunder_divert_concert_hungry_embody_tongue_steak_entire_absent
 bip_39_word_underscore_2: business_forget
 bip_39_word_underscore_3: business_forget_heart
-bip_39_word_underscore_4: business_forget_heart_thunder
-bip_39_word_underscore_5: business_forget_heart_thunder_divert
-bip_39_word_underscore_6: business_forget_heart_thunder_divert_concert
-bip_39_word_underscore_7: business_forget_heart_thunder_divert_concert_hungry
-bip_39_word_underscore_8: business_forget_heart_thunder_divert_concert_hungry_embody
-bip_39_word_underscore_9: business_forget_heart_thunder_divert_concert_hungry_embody_tongue
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

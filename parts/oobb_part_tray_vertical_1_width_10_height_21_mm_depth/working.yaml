@@ -1,68 +1,9 @@
-bip_39_word_dash_1: polar
-bip_39_word_dash_10: polar-settle-zero-remind-tape-another-amount-razor-joke-immune
-bip_39_word_dash_11: polar-settle-zero-remind-tape-another-amount-razor-joke-immune-same
 bip_39_word_dash_12: polar-settle-zero-remind-tape-another-amount-razor-joke-immune-same-actual
 bip_39_word_dash_2: polar-settle
 bip_39_word_dash_3: polar-settle-zero
-bip_39_word_dash_4: polar-settle-zero-remind
-bip_39_word_dash_5: polar-settle-zero-remind-tape
-bip_39_word_dash_6: polar-settle-zero-remind-tape-another
-bip_39_word_dash_7: polar-settle-zero-remind-tape-another-amount
-bip_39_word_dash_8: polar-settle-zero-remind-tape-another-amount-razor
-bip_39_word_dash_9: polar-settle-zero-remind-tape-another-amount-razor-joke
-bip_39_word_new_br_1: polar
-bip_39_word_new_br_10: polar<br>settle<br>zero<br>remind<br>tape<br>another<br>amount<br>razor<br>joke<br>immune
-bip_39_word_new_br_11: polar<br>settle<br>zero<br>remind<br>tape<br>another<br>amount<br>razor<br>joke<br>immune<br>same
 bip_39_word_new_br_12: polar<br>settle<br>zero<br>remind<br>tape<br>another<br>amount<br>razor<br>joke<br>immune<br>same<br>actual
 bip_39_word_new_br_2: polar<br>settle
 bip_39_word_new_br_3: polar<br>settle<br>zero
-bip_39_word_new_br_4: polar<br>settle<br>zero<br>remind
-bip_39_word_new_br_5: polar<br>settle<br>zero<br>remind<br>tape
-bip_39_word_new_br_6: polar<br>settle<br>zero<br>remind<br>tape<br>another
-bip_39_word_new_br_7: polar<br>settle<br>zero<br>remind<br>tape<br>another<br>amount
-bip_39_word_new_br_8: polar<br>settle<br>zero<br>remind<br>tape<br>another<br>amount<br>razor
-bip_39_word_new_br_9: polar<br>settle<br>zero<br>remind<br>tape<br>another<br>amount<br>razor<br>joke
-bip_39_word_new_line_1: polar
-bip_39_word_new_line_10: 'polar
-
-  settle
-
-  zero
-
-  remind
-
-  tape
-
-  another
-
-  amount
-
-  razor
-
-  joke
-
-  immune'
-bip_39_word_new_line_11: 'polar
-
-  settle
-
-  zero
-
-  remind
-
-  tape
-
-  another
-
-  amount
-
-  razor
-
-  joke
-
-  immune
-
-  same'
 bip_39_word_new_line_12: 'polar
 
   settle
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'polar
   settle
 
   zero'
-bip_39_word_new_line_4: 'polar
-
-  settle
-
-  zero
-
-  remind'
-bip_39_word_new_line_5: 'polar
-
-  settle
-
-  zero
-
-  remind
-
-  tape'
-bip_39_word_new_line_6: 'polar
-
-  settle
-
-  zero
-
-  remind
-
-  tape
-
-  another'
-bip_39_word_new_line_7: 'polar
-
-  settle
-
-  zero
-
-  remind
-
-  tape
-
-  another
-
-  amount'
-bip_39_word_new_line_8: 'polar
-
-  settle
-
-  zero
-
-  remind
-
-  tape
-
-  another
-
-  amount
-
-  razor'
-bip_39_word_new_line_9: 'polar
-
-  settle
-
-  zero
-
-  remind
-
-  tape
-
-  another
-
-  amount
-
-  razor
-
-  joke'
-bip_39_word_no_space_1: polar
-bip_39_word_no_space_10: polarsettlezeroremindtapeanotheramountrazorjokeimmune
-bip_39_word_no_space_11: polarsettlezeroremindtapeanotheramountrazorjokeimmunesame
 bip_39_word_no_space_12: polarsettlezeroremindtapeanotheramountrazorjokeimmunesameactual
 bip_39_word_no_space_2: polarsettle
 bip_39_word_no_space_3: polarsettlezero
-bip_39_word_no_space_4: polarsettlezeroremind
-bip_39_word_no_space_5: polarsettlezeroremindtape
-bip_39_word_no_space_6: polarsettlezeroremindtapeanother
-bip_39_word_no_space_7: polarsettlezeroremindtapeanotheramount
-bip_39_word_no_space_8: polarsettlezeroremindtapeanotheramountrazor
-bip_39_word_no_space_9: polarsettlezeroremindtapeanotheramountrazorjoke
-bip_39_word_space_0:
-- polar
-- settle
-- zero
-- remind
-- tape
-- another
-- amount
-- razor
-- joke
-- immune
-- same
-- actual
-bip_39_word_space_1: polar
-bip_39_word_space_10: polar settle zero remind tape another amount razor joke immune
-bip_39_word_space_11: polar settle zero remind tape another amount razor joke immune
-  same
 bip_39_word_space_12: polar settle zero remind tape another amount razor joke immune
   same actual
 bip_39_word_space_2: polar settle
 bip_39_word_space_3: polar settle zero
-bip_39_word_space_4: polar settle zero remind
-bip_39_word_space_5: polar settle zero remind tape
-bip_39_word_space_6: polar settle zero remind tape another
-bip_39_word_space_7: polar settle zero remind tape another amount
-bip_39_word_space_8: polar settle zero remind tape another amount razor
-bip_39_word_space_9: polar settle zero remind tape another amount razor joke
-bip_39_word_underscore_1: polar
-bip_39_word_underscore_10: polar_settle_zero_remind_tape_another_amount_razor_joke_immune
-bip_39_word_underscore_11: polar_settle_zero_remind_tape_another_amount_razor_joke_immune_same
 bip_39_word_underscore_12: polar_settle_zero_remind_tape_another_amount_razor_joke_immune_same_actual
 bip_39_word_underscore_2: polar_settle
 bip_39_word_underscore_3: polar_settle_zero
-bip_39_word_underscore_4: polar_settle_zero_remind
-bip_39_word_underscore_5: polar_settle_zero_remind_tape
-bip_39_word_underscore_6: polar_settle_zero_remind_tape_another
-bip_39_word_underscore_7: polar_settle_zero_remind_tape_another_amount
-bip_39_word_underscore_8: polar_settle_zero_remind_tape_another_amount_razor
-bip_39_word_underscore_9: polar_settle_zero_remind_tape_another_amount_razor_joke
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

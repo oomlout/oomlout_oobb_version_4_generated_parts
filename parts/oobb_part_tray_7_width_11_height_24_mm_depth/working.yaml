@@ -1,68 +1,9 @@
-bip_39_word_dash_1: bundle
-bip_39_word_dash_10: bundle-carpet-culture-scout-broccoli-carpet-peasant-bid-scatter-clock
-bip_39_word_dash_11: bundle-carpet-culture-scout-broccoli-carpet-peasant-bid-scatter-clock-eyebrow
 bip_39_word_dash_12: bundle-carpet-culture-scout-broccoli-carpet-peasant-bid-scatter-clock-eyebrow-artwork
 bip_39_word_dash_2: bundle-carpet
 bip_39_word_dash_3: bundle-carpet-culture
-bip_39_word_dash_4: bundle-carpet-culture-scout
-bip_39_word_dash_5: bundle-carpet-culture-scout-broccoli
-bip_39_word_dash_6: bundle-carpet-culture-scout-broccoli-carpet
-bip_39_word_dash_7: bundle-carpet-culture-scout-broccoli-carpet-peasant
-bip_39_word_dash_8: bundle-carpet-culture-scout-broccoli-carpet-peasant-bid
-bip_39_word_dash_9: bundle-carpet-culture-scout-broccoli-carpet-peasant-bid-scatter
-bip_39_word_new_br_1: bundle
-bip_39_word_new_br_10: bundle<br>carpet<br>culture<br>scout<br>broccoli<br>carpet<br>peasant<br>bid<br>scatter<br>clock
-bip_39_word_new_br_11: bundle<br>carpet<br>culture<br>scout<br>broccoli<br>carpet<br>peasant<br>bid<br>scatter<br>clock<br>eyebrow
 bip_39_word_new_br_12: bundle<br>carpet<br>culture<br>scout<br>broccoli<br>carpet<br>peasant<br>bid<br>scatter<br>clock<br>eyebrow<br>artwork
 bip_39_word_new_br_2: bundle<br>carpet
 bip_39_word_new_br_3: bundle<br>carpet<br>culture
-bip_39_word_new_br_4: bundle<br>carpet<br>culture<br>scout
-bip_39_word_new_br_5: bundle<br>carpet<br>culture<br>scout<br>broccoli
-bip_39_word_new_br_6: bundle<br>carpet<br>culture<br>scout<br>broccoli<br>carpet
-bip_39_word_new_br_7: bundle<br>carpet<br>culture<br>scout<br>broccoli<br>carpet<br>peasant
-bip_39_word_new_br_8: bundle<br>carpet<br>culture<br>scout<br>broccoli<br>carpet<br>peasant<br>bid
-bip_39_word_new_br_9: bundle<br>carpet<br>culture<br>scout<br>broccoli<br>carpet<br>peasant<br>bid<br>scatter
-bip_39_word_new_line_1: bundle
-bip_39_word_new_line_10: 'bundle
-
-  carpet
-
-  culture
-
-  scout
-
-  broccoli
-
-  carpet
-
-  peasant
-
-  bid
-
-  scatter
-
-  clock'
-bip_39_word_new_line_11: 'bundle
-
-  carpet
-
-  culture
-
-  scout
-
-  broccoli
-
-  carpet
-
-  peasant
-
-  bid
-
-  scatter
-
-  clock
-
-  eyebrow'
 bip_39_word_new_line_12: 'bundle
 
   carpet
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'bundle
   carpet
 
   culture'
-bip_39_word_new_line_4: 'bundle
-
-  carpet
-
-  culture
-
-  scout'
-bip_39_word_new_line_5: 'bundle
-
-  carpet
-
-  culture
-
-  scout
-
-  broccoli'
-bip_39_word_new_line_6: 'bundle
-
-  carpet
-
-  culture
-
-  scout
-
-  broccoli
-
-  carpet'
-bip_39_word_new_line_7: 'bundle
-
-  carpet
-
-  culture
-
-  scout
-
-  broccoli
-
-  carpet
-
-  peasant'
-bip_39_word_new_line_8: 'bundle
-
-  carpet
-
-  culture
-
-  scout
-
-  broccoli
-
-  carpet
-
-  peasant
-
-  bid'
-bip_39_word_new_line_9: 'bundle
-
-  carpet
-
-  culture
-
-  scout
-
-  broccoli
-
-  carpet
-
-  peasant
-
-  bid
-
-  scatter'
-bip_39_word_no_space_1: bundle
-bip_39_word_no_space_10: bundlecarpetculturescoutbroccolicarpetpeasantbidscatterclock
-bip_39_word_no_space_11: bundlecarpetculturescoutbroccolicarpetpeasantbidscatterclockeyebrow
 bip_39_word_no_space_12: bundlecarpetculturescoutbroccolicarpetpeasantbidscatterclockeyebrowartwork
 bip_39_word_no_space_2: bundlecarpet
 bip_39_word_no_space_3: bundlecarpetculture
-bip_39_word_no_space_4: bundlecarpetculturescout
-bip_39_word_no_space_5: bundlecarpetculturescoutbroccoli
-bip_39_word_no_space_6: bundlecarpetculturescoutbroccolicarpet
-bip_39_word_no_space_7: bundlecarpetculturescoutbroccolicarpetpeasant
-bip_39_word_no_space_8: bundlecarpetculturescoutbroccolicarpetpeasantbid
-bip_39_word_no_space_9: bundlecarpetculturescoutbroccolicarpetpeasantbidscatter
-bip_39_word_space_0:
-- bundle
-- carpet
-- culture
-- scout
-- broccoli
-- carpet
-- peasant
-- bid
-- scatter
-- clock
-- eyebrow
-- artwork
-bip_39_word_space_1: bundle
-bip_39_word_space_10: bundle carpet culture scout broccoli carpet peasant bid scatter
-  clock
-bip_39_word_space_11: bundle carpet culture scout broccoli carpet peasant bid scatter
-  clock eyebrow
 bip_39_word_space_12: bundle carpet culture scout broccoli carpet peasant bid scatter
   clock eyebrow artwork
 bip_39_word_space_2: bundle carpet
 bip_39_word_space_3: bundle carpet culture
-bip_39_word_space_4: bundle carpet culture scout
-bip_39_word_space_5: bundle carpet culture scout broccoli
-bip_39_word_space_6: bundle carpet culture scout broccoli carpet
-bip_39_word_space_7: bundle carpet culture scout broccoli carpet peasant
-bip_39_word_space_8: bundle carpet culture scout broccoli carpet peasant bid
-bip_39_word_space_9: bundle carpet culture scout broccoli carpet peasant bid scatter
-bip_39_word_underscore_1: bundle
-bip_39_word_underscore_10: bundle_carpet_culture_scout_broccoli_carpet_peasant_bid_scatter_clock
-bip_39_word_underscore_11: bundle_carpet_culture_scout_broccoli_carpet_peasant_bid_scatter_clock_eyebrow
 bip_39_word_underscore_12: bundle_carpet_culture_scout_broccoli_carpet_peasant_bid_scatter_clock_eyebrow_artwork
 bip_39_word_underscore_2: bundle_carpet
 bip_39_word_underscore_3: bundle_carpet_culture
-bip_39_word_underscore_4: bundle_carpet_culture_scout
-bip_39_word_underscore_5: bundle_carpet_culture_scout_broccoli
-bip_39_word_underscore_6: bundle_carpet_culture_scout_broccoli_carpet
-bip_39_word_underscore_7: bundle_carpet_culture_scout_broccoli_carpet_peasant
-bip_39_word_underscore_8: bundle_carpet_culture_scout_broccoli_carpet_peasant_bid
-bip_39_word_underscore_9: bundle_carpet_culture_scout_broccoli_carpet_peasant_bid_scatter
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

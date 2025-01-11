@@ -1,68 +1,9 @@
-bip_39_word_dash_1: satoshi
-bip_39_word_dash_10: satoshi-pledge-extend-club-agent-cannon-exchange-time-brain-flee
-bip_39_word_dash_11: satoshi-pledge-extend-club-agent-cannon-exchange-time-brain-flee-obtain
 bip_39_word_dash_12: satoshi-pledge-extend-club-agent-cannon-exchange-time-brain-flee-obtain-announce
 bip_39_word_dash_2: satoshi-pledge
 bip_39_word_dash_3: satoshi-pledge-extend
-bip_39_word_dash_4: satoshi-pledge-extend-club
-bip_39_word_dash_5: satoshi-pledge-extend-club-agent
-bip_39_word_dash_6: satoshi-pledge-extend-club-agent-cannon
-bip_39_word_dash_7: satoshi-pledge-extend-club-agent-cannon-exchange
-bip_39_word_dash_8: satoshi-pledge-extend-club-agent-cannon-exchange-time
-bip_39_word_dash_9: satoshi-pledge-extend-club-agent-cannon-exchange-time-brain
-bip_39_word_new_br_1: satoshi
-bip_39_word_new_br_10: satoshi<br>pledge<br>extend<br>club<br>agent<br>cannon<br>exchange<br>time<br>brain<br>flee
-bip_39_word_new_br_11: satoshi<br>pledge<br>extend<br>club<br>agent<br>cannon<br>exchange<br>time<br>brain<br>flee<br>obtain
 bip_39_word_new_br_12: satoshi<br>pledge<br>extend<br>club<br>agent<br>cannon<br>exchange<br>time<br>brain<br>flee<br>obtain<br>announce
 bip_39_word_new_br_2: satoshi<br>pledge
 bip_39_word_new_br_3: satoshi<br>pledge<br>extend
-bip_39_word_new_br_4: satoshi<br>pledge<br>extend<br>club
-bip_39_word_new_br_5: satoshi<br>pledge<br>extend<br>club<br>agent
-bip_39_word_new_br_6: satoshi<br>pledge<br>extend<br>club<br>agent<br>cannon
-bip_39_word_new_br_7: satoshi<br>pledge<br>extend<br>club<br>agent<br>cannon<br>exchange
-bip_39_word_new_br_8: satoshi<br>pledge<br>extend<br>club<br>agent<br>cannon<br>exchange<br>time
-bip_39_word_new_br_9: satoshi<br>pledge<br>extend<br>club<br>agent<br>cannon<br>exchange<br>time<br>brain
-bip_39_word_new_line_1: satoshi
-bip_39_word_new_line_10: 'satoshi
-
-  pledge
-
-  extend
-
-  club
-
-  agent
-
-  cannon
-
-  exchange
-
-  time
-
-  brain
-
-  flee'
-bip_39_word_new_line_11: 'satoshi
-
-  pledge
-
-  extend
-
-  club
-
-  agent
-
-  cannon
-
-  exchange
-
-  time
-
-  brain
-
-  flee
-
-  obtain'
 bip_39_word_new_line_12: 'satoshi
 
   pledge
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'satoshi
   pledge
 
   extend'
-bip_39_word_new_line_4: 'satoshi
-
-  pledge
-
-  extend
-
-  club'
-bip_39_word_new_line_5: 'satoshi
-
-  pledge
-
-  extend
-
-  club
-
-  agent'
-bip_39_word_new_line_6: 'satoshi
-
-  pledge
-
-  extend
-
-  club
-
-  agent
-
-  cannon'
-bip_39_word_new_line_7: 'satoshi
-
-  pledge
-
-  extend
-
-  club
-
-  agent
-
-  cannon
-
-  exchange'
-bip_39_word_new_line_8: 'satoshi
-
-  pledge
-
-  extend
-
-  club
-
-  agent
-
-  cannon
-
-  exchange
-
-  time'
-bip_39_word_new_line_9: 'satoshi
-
-  pledge
-
-  extend
-
-  club
-
-  agent
-
-  cannon
-
-  exchange
-
-  time
-
-  brain'
-bip_39_word_no_space_1: satoshi
-bip_39_word_no_space_10: satoshipledgeextendclubagentcannonexchangetimebrainflee
-bip_39_word_no_space_11: satoshipledgeextendclubagentcannonexchangetimebrainfleeobtain
 bip_39_word_no_space_12: satoshipledgeextendclubagentcannonexchangetimebrainfleeobtainannounce
 bip_39_word_no_space_2: satoshipledge
 bip_39_word_no_space_3: satoshipledgeextend
-bip_39_word_no_space_4: satoshipledgeextendclub
-bip_39_word_no_space_5: satoshipledgeextendclubagent
-bip_39_word_no_space_6: satoshipledgeextendclubagentcannon
-bip_39_word_no_space_7: satoshipledgeextendclubagentcannonexchange
-bip_39_word_no_space_8: satoshipledgeextendclubagentcannonexchangetime
-bip_39_word_no_space_9: satoshipledgeextendclubagentcannonexchangetimebrain
-bip_39_word_space_0:
-- satoshi
-- pledge
-- extend
-- club
-- agent
-- cannon
-- exchange
-- time
-- brain
-- flee
-- obtain
-- announce
-bip_39_word_space_1: satoshi
-bip_39_word_space_10: satoshi pledge extend club agent cannon exchange time brain
-  flee
-bip_39_word_space_11: satoshi pledge extend club agent cannon exchange time brain
-  flee obtain
 bip_39_word_space_12: satoshi pledge extend club agent cannon exchange time brain
   flee obtain announce
 bip_39_word_space_2: satoshi pledge
 bip_39_word_space_3: satoshi pledge extend
-bip_39_word_space_4: satoshi pledge extend club
-bip_39_word_space_5: satoshi pledge extend club agent
-bip_39_word_space_6: satoshi pledge extend club agent cannon
-bip_39_word_space_7: satoshi pledge extend club agent cannon exchange
-bip_39_word_space_8: satoshi pledge extend club agent cannon exchange time
-bip_39_word_space_9: satoshi pledge extend club agent cannon exchange time brain
-bip_39_word_underscore_1: satoshi
-bip_39_word_underscore_10: satoshi_pledge_extend_club_agent_cannon_exchange_time_brain_flee
-bip_39_word_underscore_11: satoshi_pledge_extend_club_agent_cannon_exchange_time_brain_flee_obtain
 bip_39_word_underscore_12: satoshi_pledge_extend_club_agent_cannon_exchange_time_brain_flee_obtain_announce
 bip_39_word_underscore_2: satoshi_pledge
 bip_39_word_underscore_3: satoshi_pledge_extend
-bip_39_word_underscore_4: satoshi_pledge_extend_club
-bip_39_word_underscore_5: satoshi_pledge_extend_club_agent
-bip_39_word_underscore_6: satoshi_pledge_extend_club_agent_cannon
-bip_39_word_underscore_7: satoshi_pledge_extend_club_agent_cannon_exchange
-bip_39_word_underscore_8: satoshi_pledge_extend_club_agent_cannon_exchange_time
-bip_39_word_underscore_9: satoshi_pledge_extend_club_agent_cannon_exchange_time_brain
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

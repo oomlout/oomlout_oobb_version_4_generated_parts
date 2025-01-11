@@ -1,68 +1,9 @@
-bip_39_word_dash_1: aerobic
-bip_39_word_dash_10: aerobic-load-dad-renew-museum-vibrant-volcano-history-print-note
-bip_39_word_dash_11: aerobic-load-dad-renew-museum-vibrant-volcano-history-print-note-noble
 bip_39_word_dash_12: aerobic-load-dad-renew-museum-vibrant-volcano-history-print-note-noble-armor
 bip_39_word_dash_2: aerobic-load
 bip_39_word_dash_3: aerobic-load-dad
-bip_39_word_dash_4: aerobic-load-dad-renew
-bip_39_word_dash_5: aerobic-load-dad-renew-museum
-bip_39_word_dash_6: aerobic-load-dad-renew-museum-vibrant
-bip_39_word_dash_7: aerobic-load-dad-renew-museum-vibrant-volcano
-bip_39_word_dash_8: aerobic-load-dad-renew-museum-vibrant-volcano-history
-bip_39_word_dash_9: aerobic-load-dad-renew-museum-vibrant-volcano-history-print
-bip_39_word_new_br_1: aerobic
-bip_39_word_new_br_10: aerobic<br>load<br>dad<br>renew<br>museum<br>vibrant<br>volcano<br>history<br>print<br>note
-bip_39_word_new_br_11: aerobic<br>load<br>dad<br>renew<br>museum<br>vibrant<br>volcano<br>history<br>print<br>note<br>noble
 bip_39_word_new_br_12: aerobic<br>load<br>dad<br>renew<br>museum<br>vibrant<br>volcano<br>history<br>print<br>note<br>noble<br>armor
 bip_39_word_new_br_2: aerobic<br>load
 bip_39_word_new_br_3: aerobic<br>load<br>dad
-bip_39_word_new_br_4: aerobic<br>load<br>dad<br>renew
-bip_39_word_new_br_5: aerobic<br>load<br>dad<br>renew<br>museum
-bip_39_word_new_br_6: aerobic<br>load<br>dad<br>renew<br>museum<br>vibrant
-bip_39_word_new_br_7: aerobic<br>load<br>dad<br>renew<br>museum<br>vibrant<br>volcano
-bip_39_word_new_br_8: aerobic<br>load<br>dad<br>renew<br>museum<br>vibrant<br>volcano<br>history
-bip_39_word_new_br_9: aerobic<br>load<br>dad<br>renew<br>museum<br>vibrant<br>volcano<br>history<br>print
-bip_39_word_new_line_1: aerobic
-bip_39_word_new_line_10: 'aerobic
-
-  load
-
-  dad
-
-  renew
-
-  museum
-
-  vibrant
-
-  volcano
-
-  history
-
-  print
-
-  note'
-bip_39_word_new_line_11: 'aerobic
-
-  load
-
-  dad
-
-  renew
-
-  museum
-
-  vibrant
-
-  volcano
-
-  history
-
-  print
-
-  note
-
-  noble'
 bip_39_word_new_line_12: 'aerobic
 
   load
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'aerobic
   load
 
   dad'
-bip_39_word_new_line_4: 'aerobic
-
-  load
-
-  dad
-
-  renew'
-bip_39_word_new_line_5: 'aerobic
-
-  load
-
-  dad
-
-  renew
-
-  museum'
-bip_39_word_new_line_6: 'aerobic
-
-  load
-
-  dad
-
-  renew
-
-  museum
-
-  vibrant'
-bip_39_word_new_line_7: 'aerobic
-
-  load
-
-  dad
-
-  renew
-
-  museum
-
-  vibrant
-
-  volcano'
-bip_39_word_new_line_8: 'aerobic
-
-  load
-
-  dad
-
-  renew
-
-  museum
-
-  vibrant
-
-  volcano
-
-  history'
-bip_39_word_new_line_9: 'aerobic
-
-  load
-
-  dad
-
-  renew
-
-  museum
-
-  vibrant
-
-  volcano
-
-  history
-
-  print'
-bip_39_word_no_space_1: aerobic
-bip_39_word_no_space_10: aerobicloaddadrenewmuseumvibrantvolcanohistoryprintnote
-bip_39_word_no_space_11: aerobicloaddadrenewmuseumvibrantvolcanohistoryprintnotenoble
 bip_39_word_no_space_12: aerobicloaddadrenewmuseumvibrantvolcanohistoryprintnotenoblearmor
 bip_39_word_no_space_2: aerobicload
 bip_39_word_no_space_3: aerobicloaddad
-bip_39_word_no_space_4: aerobicloaddadrenew
-bip_39_word_no_space_5: aerobicloaddadrenewmuseum
-bip_39_word_no_space_6: aerobicloaddadrenewmuseumvibrant
-bip_39_word_no_space_7: aerobicloaddadrenewmuseumvibrantvolcano
-bip_39_word_no_space_8: aerobicloaddadrenewmuseumvibrantvolcanohistory
-bip_39_word_no_space_9: aerobicloaddadrenewmuseumvibrantvolcanohistoryprint
-bip_39_word_space_0:
-- aerobic
-- load
-- dad
-- renew
-- museum
-- vibrant
-- volcano
-- history
-- print
-- note
-- noble
-- armor
-bip_39_word_space_1: aerobic
-bip_39_word_space_10: aerobic load dad renew museum vibrant volcano history print
-  note
-bip_39_word_space_11: aerobic load dad renew museum vibrant volcano history print
-  note noble
 bip_39_word_space_12: aerobic load dad renew museum vibrant volcano history print
   note noble armor
 bip_39_word_space_2: aerobic load
 bip_39_word_space_3: aerobic load dad
-bip_39_word_space_4: aerobic load dad renew
-bip_39_word_space_5: aerobic load dad renew museum
-bip_39_word_space_6: aerobic load dad renew museum vibrant
-bip_39_word_space_7: aerobic load dad renew museum vibrant volcano
-bip_39_word_space_8: aerobic load dad renew museum vibrant volcano history
-bip_39_word_space_9: aerobic load dad renew museum vibrant volcano history print
-bip_39_word_underscore_1: aerobic
-bip_39_word_underscore_10: aerobic_load_dad_renew_museum_vibrant_volcano_history_print_note
-bip_39_word_underscore_11: aerobic_load_dad_renew_museum_vibrant_volcano_history_print_note_noble
 bip_39_word_underscore_12: aerobic_load_dad_renew_museum_vibrant_volcano_history_print_note_noble_armor
 bip_39_word_underscore_2: aerobic_load
 bip_39_word_underscore_3: aerobic_load_dad
-bip_39_word_underscore_4: aerobic_load_dad_renew
-bip_39_word_underscore_5: aerobic_load_dad_renew_museum
-bip_39_word_underscore_6: aerobic_load_dad_renew_museum_vibrant
-bip_39_word_underscore_7: aerobic_load_dad_renew_museum_vibrant_volcano
-bip_39_word_underscore_8: aerobic_load_dad_renew_museum_vibrant_volcano_history
-bip_39_word_underscore_9: aerobic_load_dad_renew_museum_vibrant_volcano_history_print
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

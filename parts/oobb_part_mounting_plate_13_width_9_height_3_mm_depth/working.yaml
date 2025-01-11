@@ -1,68 +1,9 @@
-bip_39_word_dash_1: silk
-bip_39_word_dash_10: silk-fade-tired-portion-finger-hill-solid-egg-scrap-chimney
-bip_39_word_dash_11: silk-fade-tired-portion-finger-hill-solid-egg-scrap-chimney-settle
 bip_39_word_dash_12: silk-fade-tired-portion-finger-hill-solid-egg-scrap-chimney-settle-address
 bip_39_word_dash_2: silk-fade
 bip_39_word_dash_3: silk-fade-tired
-bip_39_word_dash_4: silk-fade-tired-portion
-bip_39_word_dash_5: silk-fade-tired-portion-finger
-bip_39_word_dash_6: silk-fade-tired-portion-finger-hill
-bip_39_word_dash_7: silk-fade-tired-portion-finger-hill-solid
-bip_39_word_dash_8: silk-fade-tired-portion-finger-hill-solid-egg
-bip_39_word_dash_9: silk-fade-tired-portion-finger-hill-solid-egg-scrap
-bip_39_word_new_br_1: silk
-bip_39_word_new_br_10: silk<br>fade<br>tired<br>portion<br>finger<br>hill<br>solid<br>egg<br>scrap<br>chimney
-bip_39_word_new_br_11: silk<br>fade<br>tired<br>portion<br>finger<br>hill<br>solid<br>egg<br>scrap<br>chimney<br>settle
 bip_39_word_new_br_12: silk<br>fade<br>tired<br>portion<br>finger<br>hill<br>solid<br>egg<br>scrap<br>chimney<br>settle<br>address
 bip_39_word_new_br_2: silk<br>fade
 bip_39_word_new_br_3: silk<br>fade<br>tired
-bip_39_word_new_br_4: silk<br>fade<br>tired<br>portion
-bip_39_word_new_br_5: silk<br>fade<br>tired<br>portion<br>finger
-bip_39_word_new_br_6: silk<br>fade<br>tired<br>portion<br>finger<br>hill
-bip_39_word_new_br_7: silk<br>fade<br>tired<br>portion<br>finger<br>hill<br>solid
-bip_39_word_new_br_8: silk<br>fade<br>tired<br>portion<br>finger<br>hill<br>solid<br>egg
-bip_39_word_new_br_9: silk<br>fade<br>tired<br>portion<br>finger<br>hill<br>solid<br>egg<br>scrap
-bip_39_word_new_line_1: silk
-bip_39_word_new_line_10: 'silk
-
-  fade
-
-  tired
-
-  portion
-
-  finger
-
-  hill
-
-  solid
-
-  egg
-
-  scrap
-
-  chimney'
-bip_39_word_new_line_11: 'silk
-
-  fade
-
-  tired
-
-  portion
-
-  finger
-
-  hill
-
-  solid
-
-  egg
-
-  scrap
-
-  chimney
-
-  settle'
 bip_39_word_new_line_12: 'silk
 
   fade
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'silk
   fade
 
   tired'
-bip_39_word_new_line_4: 'silk
-
-  fade
-
-  tired
-
-  portion'
-bip_39_word_new_line_5: 'silk
-
-  fade
-
-  tired
-
-  portion
-
-  finger'
-bip_39_word_new_line_6: 'silk
-
-  fade
-
-  tired
-
-  portion
-
-  finger
-
-  hill'
-bip_39_word_new_line_7: 'silk
-
-  fade
-
-  tired
-
-  portion
-
-  finger
-
-  hill
-
-  solid'
-bip_39_word_new_line_8: 'silk
-
-  fade
-
-  tired
-
-  portion
-
-  finger
-
-  hill
-
-  solid
-
-  egg'
-bip_39_word_new_line_9: 'silk
-
-  fade
-
-  tired
-
-  portion
-
-  finger
-
-  hill
-
-  solid
-
-  egg
-
-  scrap'
-bip_39_word_no_space_1: silk
-bip_39_word_no_space_10: silkfadetiredportionfingerhillsolideggscrapchimney
-bip_39_word_no_space_11: silkfadetiredportionfingerhillsolideggscrapchimneysettle
 bip_39_word_no_space_12: silkfadetiredportionfingerhillsolideggscrapchimneysettleaddress
 bip_39_word_no_space_2: silkfade
 bip_39_word_no_space_3: silkfadetired
-bip_39_word_no_space_4: silkfadetiredportion
-bip_39_word_no_space_5: silkfadetiredportionfinger
-bip_39_word_no_space_6: silkfadetiredportionfingerhill
-bip_39_word_no_space_7: silkfadetiredportionfingerhillsolid
-bip_39_word_no_space_8: silkfadetiredportionfingerhillsolidegg
-bip_39_word_no_space_9: silkfadetiredportionfingerhillsolideggscrap
-bip_39_word_space_0:
-- silk
-- fade
-- tired
-- portion
-- finger
-- hill
-- solid
-- egg
-- scrap
-- chimney
-- settle
-- address
-bip_39_word_space_1: silk
-bip_39_word_space_10: silk fade tired portion finger hill solid egg scrap chimney
-bip_39_word_space_11: silk fade tired portion finger hill solid egg scrap chimney
-  settle
 bip_39_word_space_12: silk fade tired portion finger hill solid egg scrap chimney
   settle address
 bip_39_word_space_2: silk fade
 bip_39_word_space_3: silk fade tired
-bip_39_word_space_4: silk fade tired portion
-bip_39_word_space_5: silk fade tired portion finger
-bip_39_word_space_6: silk fade tired portion finger hill
-bip_39_word_space_7: silk fade tired portion finger hill solid
-bip_39_word_space_8: silk fade tired portion finger hill solid egg
-bip_39_word_space_9: silk fade tired portion finger hill solid egg scrap
-bip_39_word_underscore_1: silk
-bip_39_word_underscore_10: silk_fade_tired_portion_finger_hill_solid_egg_scrap_chimney
-bip_39_word_underscore_11: silk_fade_tired_portion_finger_hill_solid_egg_scrap_chimney_settle
 bip_39_word_underscore_12: silk_fade_tired_portion_finger_hill_solid_egg_scrap_chimney_settle_address
 bip_39_word_underscore_2: silk_fade
 bip_39_word_underscore_3: silk_fade_tired
-bip_39_word_underscore_4: silk_fade_tired_portion
-bip_39_word_underscore_5: silk_fade_tired_portion_finger
-bip_39_word_underscore_6: silk_fade_tired_portion_finger_hill
-bip_39_word_underscore_7: silk_fade_tired_portion_finger_hill_solid
-bip_39_word_underscore_8: silk_fade_tired_portion_finger_hill_solid_egg
-bip_39_word_underscore_9: silk_fade_tired_portion_finger_hill_solid_egg_scrap
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

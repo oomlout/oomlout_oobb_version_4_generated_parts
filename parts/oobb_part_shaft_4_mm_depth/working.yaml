@@ -1,68 +1,9 @@
-bip_39_word_dash_1: parent
-bip_39_word_dash_10: parent-mansion-main-tongue-gaze-frost-child-insane-unhappy-six
-bip_39_word_dash_11: parent-mansion-main-tongue-gaze-frost-child-insane-unhappy-six-purity
 bip_39_word_dash_12: parent-mansion-main-tongue-gaze-frost-child-insane-unhappy-six-purity-arrest
 bip_39_word_dash_2: parent-mansion
 bip_39_word_dash_3: parent-mansion-main
-bip_39_word_dash_4: parent-mansion-main-tongue
-bip_39_word_dash_5: parent-mansion-main-tongue-gaze
-bip_39_word_dash_6: parent-mansion-main-tongue-gaze-frost
-bip_39_word_dash_7: parent-mansion-main-tongue-gaze-frost-child
-bip_39_word_dash_8: parent-mansion-main-tongue-gaze-frost-child-insane
-bip_39_word_dash_9: parent-mansion-main-tongue-gaze-frost-child-insane-unhappy
-bip_39_word_new_br_1: parent
-bip_39_word_new_br_10: parent<br>mansion<br>main<br>tongue<br>gaze<br>frost<br>child<br>insane<br>unhappy<br>six
-bip_39_word_new_br_11: parent<br>mansion<br>main<br>tongue<br>gaze<br>frost<br>child<br>insane<br>unhappy<br>six<br>purity
 bip_39_word_new_br_12: parent<br>mansion<br>main<br>tongue<br>gaze<br>frost<br>child<br>insane<br>unhappy<br>six<br>purity<br>arrest
 bip_39_word_new_br_2: parent<br>mansion
 bip_39_word_new_br_3: parent<br>mansion<br>main
-bip_39_word_new_br_4: parent<br>mansion<br>main<br>tongue
-bip_39_word_new_br_5: parent<br>mansion<br>main<br>tongue<br>gaze
-bip_39_word_new_br_6: parent<br>mansion<br>main<br>tongue<br>gaze<br>frost
-bip_39_word_new_br_7: parent<br>mansion<br>main<br>tongue<br>gaze<br>frost<br>child
-bip_39_word_new_br_8: parent<br>mansion<br>main<br>tongue<br>gaze<br>frost<br>child<br>insane
-bip_39_word_new_br_9: parent<br>mansion<br>main<br>tongue<br>gaze<br>frost<br>child<br>insane<br>unhappy
-bip_39_word_new_line_1: parent
-bip_39_word_new_line_10: 'parent
-
-  mansion
-
-  main
-
-  tongue
-
-  gaze
-
-  frost
-
-  child
-
-  insane
-
-  unhappy
-
-  six'
-bip_39_word_new_line_11: 'parent
-
-  mansion
-
-  main
-
-  tongue
-
-  gaze
-
-  frost
-
-  child
-
-  insane
-
-  unhappy
-
-  six
-
-  purity'
 bip_39_word_new_line_12: 'parent
 
   mansion
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'parent
   mansion
 
   main'
-bip_39_word_new_line_4: 'parent
-
-  mansion
-
-  main
-
-  tongue'
-bip_39_word_new_line_5: 'parent
-
-  mansion
-
-  main
-
-  tongue
-
-  gaze'
-bip_39_word_new_line_6: 'parent
-
-  mansion
-
-  main
-
-  tongue
-
-  gaze
-
-  frost'
-bip_39_word_new_line_7: 'parent
-
-  mansion
-
-  main
-
-  tongue
-
-  gaze
-
-  frost
-
-  child'
-bip_39_word_new_line_8: 'parent
-
-  mansion
-
-  main
-
-  tongue
-
-  gaze
-
-  frost
-
-  child
-
-  insane'
-bip_39_word_new_line_9: 'parent
-
-  mansion
-
-  main
-
-  tongue
-
-  gaze
-
-  frost
-
-  child
-
-  insane
-
-  unhappy'
-bip_39_word_no_space_1: parent
-bip_39_word_no_space_10: parentmansionmaintonguegazefrostchildinsaneunhappysix
-bip_39_word_no_space_11: parentmansionmaintonguegazefrostchildinsaneunhappysixpurity
 bip_39_word_no_space_12: parentmansionmaintonguegazefrostchildinsaneunhappysixpurityarrest
 bip_39_word_no_space_2: parentmansion
 bip_39_word_no_space_3: parentmansionmain
-bip_39_word_no_space_4: parentmansionmaintongue
-bip_39_word_no_space_5: parentmansionmaintonguegaze
-bip_39_word_no_space_6: parentmansionmaintonguegazefrost
-bip_39_word_no_space_7: parentmansionmaintonguegazefrostchild
-bip_39_word_no_space_8: parentmansionmaintonguegazefrostchildinsane
-bip_39_word_no_space_9: parentmansionmaintonguegazefrostchildinsaneunhappy
-bip_39_word_space_0:
-- parent
-- mansion
-- main
-- tongue
-- gaze
-- frost
-- child
-- insane
-- unhappy
-- six
-- purity
-- arrest
-bip_39_word_space_1: parent
-bip_39_word_space_10: parent mansion main tongue gaze frost child insane unhappy six
-bip_39_word_space_11: parent mansion main tongue gaze frost child insane unhappy six
-  purity
 bip_39_word_space_12: parent mansion main tongue gaze frost child insane unhappy six
   purity arrest
 bip_39_word_space_2: parent mansion
 bip_39_word_space_3: parent mansion main
-bip_39_word_space_4: parent mansion main tongue
-bip_39_word_space_5: parent mansion main tongue gaze
-bip_39_word_space_6: parent mansion main tongue gaze frost
-bip_39_word_space_7: parent mansion main tongue gaze frost child
-bip_39_word_space_8: parent mansion main tongue gaze frost child insane
-bip_39_word_space_9: parent mansion main tongue gaze frost child insane unhappy
-bip_39_word_underscore_1: parent
-bip_39_word_underscore_10: parent_mansion_main_tongue_gaze_frost_child_insane_unhappy_six
-bip_39_word_underscore_11: parent_mansion_main_tongue_gaze_frost_child_insane_unhappy_six_purity
 bip_39_word_underscore_12: parent_mansion_main_tongue_gaze_frost_child_insane_unhappy_six_purity_arrest
 bip_39_word_underscore_2: parent_mansion
 bip_39_word_underscore_3: parent_mansion_main
-bip_39_word_underscore_4: parent_mansion_main_tongue
-bip_39_word_underscore_5: parent_mansion_main_tongue_gaze
-bip_39_word_underscore_6: parent_mansion_main_tongue_gaze_frost
-bip_39_word_underscore_7: parent_mansion_main_tongue_gaze_frost_child
-bip_39_word_underscore_8: parent_mansion_main_tongue_gaze_frost_child_insane
-bip_39_word_underscore_9: parent_mansion_main_tongue_gaze_frost_child_insane_unhappy
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

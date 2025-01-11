@@ -1,68 +1,9 @@
-bip_39_word_dash_1: salt
-bip_39_word_dash_10: salt-marine-pond-evolve-arch-head-salt-panel-seek-interest
-bip_39_word_dash_11: salt-marine-pond-evolve-arch-head-salt-panel-seek-interest-absent
 bip_39_word_dash_12: salt-marine-pond-evolve-arch-head-salt-panel-seek-interest-absent-amateur
 bip_39_word_dash_2: salt-marine
 bip_39_word_dash_3: salt-marine-pond
-bip_39_word_dash_4: salt-marine-pond-evolve
-bip_39_word_dash_5: salt-marine-pond-evolve-arch
-bip_39_word_dash_6: salt-marine-pond-evolve-arch-head
-bip_39_word_dash_7: salt-marine-pond-evolve-arch-head-salt
-bip_39_word_dash_8: salt-marine-pond-evolve-arch-head-salt-panel
-bip_39_word_dash_9: salt-marine-pond-evolve-arch-head-salt-panel-seek
-bip_39_word_new_br_1: salt
-bip_39_word_new_br_10: salt<br>marine<br>pond<br>evolve<br>arch<br>head<br>salt<br>panel<br>seek<br>interest
-bip_39_word_new_br_11: salt<br>marine<br>pond<br>evolve<br>arch<br>head<br>salt<br>panel<br>seek<br>interest<br>absent
 bip_39_word_new_br_12: salt<br>marine<br>pond<br>evolve<br>arch<br>head<br>salt<br>panel<br>seek<br>interest<br>absent<br>amateur
 bip_39_word_new_br_2: salt<br>marine
 bip_39_word_new_br_3: salt<br>marine<br>pond
-bip_39_word_new_br_4: salt<br>marine<br>pond<br>evolve
-bip_39_word_new_br_5: salt<br>marine<br>pond<br>evolve<br>arch
-bip_39_word_new_br_6: salt<br>marine<br>pond<br>evolve<br>arch<br>head
-bip_39_word_new_br_7: salt<br>marine<br>pond<br>evolve<br>arch<br>head<br>salt
-bip_39_word_new_br_8: salt<br>marine<br>pond<br>evolve<br>arch<br>head<br>salt<br>panel
-bip_39_word_new_br_9: salt<br>marine<br>pond<br>evolve<br>arch<br>head<br>salt<br>panel<br>seek
-bip_39_word_new_line_1: salt
-bip_39_word_new_line_10: 'salt
-
-  marine
-
-  pond
-
-  evolve
-
-  arch
-
-  head
-
-  salt
-
-  panel
-
-  seek
-
-  interest'
-bip_39_word_new_line_11: 'salt
-
-  marine
-
-  pond
-
-  evolve
-
-  arch
-
-  head
-
-  salt
-
-  panel
-
-  seek
-
-  interest
-
-  absent'
 bip_39_word_new_line_12: 'salt
 
   marine
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'salt
   marine
 
   pond'
-bip_39_word_new_line_4: 'salt
-
-  marine
-
-  pond
-
-  evolve'
-bip_39_word_new_line_5: 'salt
-
-  marine
-
-  pond
-
-  evolve
-
-  arch'
-bip_39_word_new_line_6: 'salt
-
-  marine
-
-  pond
-
-  evolve
-
-  arch
-
-  head'
-bip_39_word_new_line_7: 'salt
-
-  marine
-
-  pond
-
-  evolve
-
-  arch
-
-  head
-
-  salt'
-bip_39_word_new_line_8: 'salt
-
-  marine
-
-  pond
-
-  evolve
-
-  arch
-
-  head
-
-  salt
-
-  panel'
-bip_39_word_new_line_9: 'salt
-
-  marine
-
-  pond
-
-  evolve
-
-  arch
-
-  head
-
-  salt
-
-  panel
-
-  seek'
-bip_39_word_no_space_1: salt
-bip_39_word_no_space_10: saltmarinepondevolvearchheadsaltpanelseekinterest
-bip_39_word_no_space_11: saltmarinepondevolvearchheadsaltpanelseekinterestabsent
 bip_39_word_no_space_12: saltmarinepondevolvearchheadsaltpanelseekinterestabsentamateur
 bip_39_word_no_space_2: saltmarine
 bip_39_word_no_space_3: saltmarinepond
-bip_39_word_no_space_4: saltmarinepondevolve
-bip_39_word_no_space_5: saltmarinepondevolvearch
-bip_39_word_no_space_6: saltmarinepondevolvearchhead
-bip_39_word_no_space_7: saltmarinepondevolvearchheadsalt
-bip_39_word_no_space_8: saltmarinepondevolvearchheadsaltpanel
-bip_39_word_no_space_9: saltmarinepondevolvearchheadsaltpanelseek
-bip_39_word_space_0:
-- salt
-- marine
-- pond
-- evolve
-- arch
-- head
-- salt
-- panel
-- seek
-- interest
-- absent
-- amateur
-bip_39_word_space_1: salt
-bip_39_word_space_10: salt marine pond evolve arch head salt panel seek interest
-bip_39_word_space_11: salt marine pond evolve arch head salt panel seek interest absent
 bip_39_word_space_12: salt marine pond evolve arch head salt panel seek interest absent
   amateur
 bip_39_word_space_2: salt marine
 bip_39_word_space_3: salt marine pond
-bip_39_word_space_4: salt marine pond evolve
-bip_39_word_space_5: salt marine pond evolve arch
-bip_39_word_space_6: salt marine pond evolve arch head
-bip_39_word_space_7: salt marine pond evolve arch head salt
-bip_39_word_space_8: salt marine pond evolve arch head salt panel
-bip_39_word_space_9: salt marine pond evolve arch head salt panel seek
-bip_39_word_underscore_1: salt
-bip_39_word_underscore_10: salt_marine_pond_evolve_arch_head_salt_panel_seek_interest
-bip_39_word_underscore_11: salt_marine_pond_evolve_arch_head_salt_panel_seek_interest_absent
 bip_39_word_underscore_12: salt_marine_pond_evolve_arch_head_salt_panel_seek_interest_absent_amateur
 bip_39_word_underscore_2: salt_marine
 bip_39_word_underscore_3: salt_marine_pond
-bip_39_word_underscore_4: salt_marine_pond_evolve
-bip_39_word_underscore_5: salt_marine_pond_evolve_arch
-bip_39_word_underscore_6: salt_marine_pond_evolve_arch_head
-bip_39_word_underscore_7: salt_marine_pond_evolve_arch_head_salt
-bip_39_word_underscore_8: salt_marine_pond_evolve_arch_head_salt_panel
-bip_39_word_underscore_9: salt_marine_pond_evolve_arch_head_salt_panel_seek
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

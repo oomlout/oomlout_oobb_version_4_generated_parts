@@ -1,68 +1,9 @@
-bip_39_word_dash_1: skin
-bip_39_word_dash_10: skin-empty-shrug-purpose-identify-blue-bullet-desk-palm-screen
-bip_39_word_dash_11: skin-empty-shrug-purpose-identify-blue-bullet-desk-palm-screen-unlock
 bip_39_word_dash_12: skin-empty-shrug-purpose-identify-blue-bullet-desk-palm-screen-unlock-amount
 bip_39_word_dash_2: skin-empty
 bip_39_word_dash_3: skin-empty-shrug
-bip_39_word_dash_4: skin-empty-shrug-purpose
-bip_39_word_dash_5: skin-empty-shrug-purpose-identify
-bip_39_word_dash_6: skin-empty-shrug-purpose-identify-blue
-bip_39_word_dash_7: skin-empty-shrug-purpose-identify-blue-bullet
-bip_39_word_dash_8: skin-empty-shrug-purpose-identify-blue-bullet-desk
-bip_39_word_dash_9: skin-empty-shrug-purpose-identify-blue-bullet-desk-palm
-bip_39_word_new_br_1: skin
-bip_39_word_new_br_10: skin<br>empty<br>shrug<br>purpose<br>identify<br>blue<br>bullet<br>desk<br>palm<br>screen
-bip_39_word_new_br_11: skin<br>empty<br>shrug<br>purpose<br>identify<br>blue<br>bullet<br>desk<br>palm<br>screen<br>unlock
 bip_39_word_new_br_12: skin<br>empty<br>shrug<br>purpose<br>identify<br>blue<br>bullet<br>desk<br>palm<br>screen<br>unlock<br>amount
 bip_39_word_new_br_2: skin<br>empty
 bip_39_word_new_br_3: skin<br>empty<br>shrug
-bip_39_word_new_br_4: skin<br>empty<br>shrug<br>purpose
-bip_39_word_new_br_5: skin<br>empty<br>shrug<br>purpose<br>identify
-bip_39_word_new_br_6: skin<br>empty<br>shrug<br>purpose<br>identify<br>blue
-bip_39_word_new_br_7: skin<br>empty<br>shrug<br>purpose<br>identify<br>blue<br>bullet
-bip_39_word_new_br_8: skin<br>empty<br>shrug<br>purpose<br>identify<br>blue<br>bullet<br>desk
-bip_39_word_new_br_9: skin<br>empty<br>shrug<br>purpose<br>identify<br>blue<br>bullet<br>desk<br>palm
-bip_39_word_new_line_1: skin
-bip_39_word_new_line_10: 'skin
-
-  empty
-
-  shrug
-
-  purpose
-
-  identify
-
-  blue
-
-  bullet
-
-  desk
-
-  palm
-
-  screen'
-bip_39_word_new_line_11: 'skin
-
-  empty
-
-  shrug
-
-  purpose
-
-  identify
-
-  blue
-
-  bullet
-
-  desk
-
-  palm
-
-  screen
-
-  unlock'
 bip_39_word_new_line_12: 'skin
 
   empty
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'skin
   empty
 
   shrug'
-bip_39_word_new_line_4: 'skin
-
-  empty
-
-  shrug
-
-  purpose'
-bip_39_word_new_line_5: 'skin
-
-  empty
-
-  shrug
-
-  purpose
-
-  identify'
-bip_39_word_new_line_6: 'skin
-
-  empty
-
-  shrug
-
-  purpose
-
-  identify
-
-  blue'
-bip_39_word_new_line_7: 'skin
-
-  empty
-
-  shrug
-
-  purpose
-
-  identify
-
-  blue
-
-  bullet'
-bip_39_word_new_line_8: 'skin
-
-  empty
-
-  shrug
-
-  purpose
-
-  identify
-
-  blue
-
-  bullet
-
-  desk'
-bip_39_word_new_line_9: 'skin
-
-  empty
-
-  shrug
-
-  purpose
-
-  identify
-
-  blue
-
-  bullet
-
-  desk
-
-  palm'
-bip_39_word_no_space_1: skin
-bip_39_word_no_space_10: skinemptyshrugpurposeidentifybluebulletdeskpalmscreen
-bip_39_word_no_space_11: skinemptyshrugpurposeidentifybluebulletdeskpalmscreenunlock
 bip_39_word_no_space_12: skinemptyshrugpurposeidentifybluebulletdeskpalmscreenunlockamount
 bip_39_word_no_space_2: skinempty
 bip_39_word_no_space_3: skinemptyshrug
-bip_39_word_no_space_4: skinemptyshrugpurpose
-bip_39_word_no_space_5: skinemptyshrugpurposeidentify
-bip_39_word_no_space_6: skinemptyshrugpurposeidentifyblue
-bip_39_word_no_space_7: skinemptyshrugpurposeidentifybluebullet
-bip_39_word_no_space_8: skinemptyshrugpurposeidentifybluebulletdesk
-bip_39_word_no_space_9: skinemptyshrugpurposeidentifybluebulletdeskpalm
-bip_39_word_space_0:
-- skin
-- empty
-- shrug
-- purpose
-- identify
-- blue
-- bullet
-- desk
-- palm
-- screen
-- unlock
-- amount
-bip_39_word_space_1: skin
-bip_39_word_space_10: skin empty shrug purpose identify blue bullet desk palm screen
-bip_39_word_space_11: skin empty shrug purpose identify blue bullet desk palm screen
-  unlock
 bip_39_word_space_12: skin empty shrug purpose identify blue bullet desk palm screen
   unlock amount
 bip_39_word_space_2: skin empty
 bip_39_word_space_3: skin empty shrug
-bip_39_word_space_4: skin empty shrug purpose
-bip_39_word_space_5: skin empty shrug purpose identify
-bip_39_word_space_6: skin empty shrug purpose identify blue
-bip_39_word_space_7: skin empty shrug purpose identify blue bullet
-bip_39_word_space_8: skin empty shrug purpose identify blue bullet desk
-bip_39_word_space_9: skin empty shrug purpose identify blue bullet desk palm
-bip_39_word_underscore_1: skin
-bip_39_word_underscore_10: skin_empty_shrug_purpose_identify_blue_bullet_desk_palm_screen
-bip_39_word_underscore_11: skin_empty_shrug_purpose_identify_blue_bullet_desk_palm_screen_unlock
 bip_39_word_underscore_12: skin_empty_shrug_purpose_identify_blue_bullet_desk_palm_screen_unlock_amount
 bip_39_word_underscore_2: skin_empty
 bip_39_word_underscore_3: skin_empty_shrug
-bip_39_word_underscore_4: skin_empty_shrug_purpose
-bip_39_word_underscore_5: skin_empty_shrug_purpose_identify
-bip_39_word_underscore_6: skin_empty_shrug_purpose_identify_blue
-bip_39_word_underscore_7: skin_empty_shrug_purpose_identify_blue_bullet
-bip_39_word_underscore_8: skin_empty_shrug_purpose_identify_blue_bullet_desk
-bip_39_word_underscore_9: skin_empty_shrug_purpose_identify_blue_bullet_desk_palm
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

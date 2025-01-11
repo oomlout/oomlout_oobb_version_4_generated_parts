@@ -1,68 +1,9 @@
-bip_39_word_dash_1: bus
-bip_39_word_dash_10: bus-initial-act-valid-thumb-family-scorpion-curtain-same-when
-bip_39_word_dash_11: bus-initial-act-valid-thumb-family-scorpion-curtain-same-when-demand
 bip_39_word_dash_12: bus-initial-act-valid-thumb-family-scorpion-curtain-same-when-demand-auto
 bip_39_word_dash_2: bus-initial
 bip_39_word_dash_3: bus-initial-act
-bip_39_word_dash_4: bus-initial-act-valid
-bip_39_word_dash_5: bus-initial-act-valid-thumb
-bip_39_word_dash_6: bus-initial-act-valid-thumb-family
-bip_39_word_dash_7: bus-initial-act-valid-thumb-family-scorpion
-bip_39_word_dash_8: bus-initial-act-valid-thumb-family-scorpion-curtain
-bip_39_word_dash_9: bus-initial-act-valid-thumb-family-scorpion-curtain-same
-bip_39_word_new_br_1: bus
-bip_39_word_new_br_10: bus<br>initial<br>act<br>valid<br>thumb<br>family<br>scorpion<br>curtain<br>same<br>when
-bip_39_word_new_br_11: bus<br>initial<br>act<br>valid<br>thumb<br>family<br>scorpion<br>curtain<br>same<br>when<br>demand
 bip_39_word_new_br_12: bus<br>initial<br>act<br>valid<br>thumb<br>family<br>scorpion<br>curtain<br>same<br>when<br>demand<br>auto
 bip_39_word_new_br_2: bus<br>initial
 bip_39_word_new_br_3: bus<br>initial<br>act
-bip_39_word_new_br_4: bus<br>initial<br>act<br>valid
-bip_39_word_new_br_5: bus<br>initial<br>act<br>valid<br>thumb
-bip_39_word_new_br_6: bus<br>initial<br>act<br>valid<br>thumb<br>family
-bip_39_word_new_br_7: bus<br>initial<br>act<br>valid<br>thumb<br>family<br>scorpion
-bip_39_word_new_br_8: bus<br>initial<br>act<br>valid<br>thumb<br>family<br>scorpion<br>curtain
-bip_39_word_new_br_9: bus<br>initial<br>act<br>valid<br>thumb<br>family<br>scorpion<br>curtain<br>same
-bip_39_word_new_line_1: bus
-bip_39_word_new_line_10: 'bus
-
-  initial
-
-  act
-
-  valid
-
-  thumb
-
-  family
-
-  scorpion
-
-  curtain
-
-  same
-
-  when'
-bip_39_word_new_line_11: 'bus
-
-  initial
-
-  act
-
-  valid
-
-  thumb
-
-  family
-
-  scorpion
-
-  curtain
-
-  same
-
-  when
-
-  demand'
 bip_39_word_new_line_12: 'bus
 
   initial
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'bus
   initial
 
   act'
-bip_39_word_new_line_4: 'bus
-
-  initial
-
-  act
-
-  valid'
-bip_39_word_new_line_5: 'bus
-
-  initial
-
-  act
-
-  valid
-
-  thumb'
-bip_39_word_new_line_6: 'bus
-
-  initial
-
-  act
-
-  valid
-
-  thumb
-
-  family'
-bip_39_word_new_line_7: 'bus
-
-  initial
-
-  act
-
-  valid
-
-  thumb
-
-  family
-
-  scorpion'
-bip_39_word_new_line_8: 'bus
-
-  initial
-
-  act
-
-  valid
-
-  thumb
-
-  family
-
-  scorpion
-
-  curtain'
-bip_39_word_new_line_9: 'bus
-
-  initial
-
-  act
-
-  valid
-
-  thumb
-
-  family
-
-  scorpion
-
-  curtain
-
-  same'
-bip_39_word_no_space_1: bus
-bip_39_word_no_space_10: businitialactvalidthumbfamilyscorpioncurtainsamewhen
-bip_39_word_no_space_11: businitialactvalidthumbfamilyscorpioncurtainsamewhendemand
 bip_39_word_no_space_12: businitialactvalidthumbfamilyscorpioncurtainsamewhendemandauto
 bip_39_word_no_space_2: businitial
 bip_39_word_no_space_3: businitialact
-bip_39_word_no_space_4: businitialactvalid
-bip_39_word_no_space_5: businitialactvalidthumb
-bip_39_word_no_space_6: businitialactvalidthumbfamily
-bip_39_word_no_space_7: businitialactvalidthumbfamilyscorpion
-bip_39_word_no_space_8: businitialactvalidthumbfamilyscorpioncurtain
-bip_39_word_no_space_9: businitialactvalidthumbfamilyscorpioncurtainsame
-bip_39_word_space_0:
-- bus
-- initial
-- act
-- valid
-- thumb
-- family
-- scorpion
-- curtain
-- same
-- when
-- demand
-- auto
-bip_39_word_space_1: bus
-bip_39_word_space_10: bus initial act valid thumb family scorpion curtain same when
-bip_39_word_space_11: bus initial act valid thumb family scorpion curtain same when
-  demand
 bip_39_word_space_12: bus initial act valid thumb family scorpion curtain same when
   demand auto
 bip_39_word_space_2: bus initial
 bip_39_word_space_3: bus initial act
-bip_39_word_space_4: bus initial act valid
-bip_39_word_space_5: bus initial act valid thumb
-bip_39_word_space_6: bus initial act valid thumb family
-bip_39_word_space_7: bus initial act valid thumb family scorpion
-bip_39_word_space_8: bus initial act valid thumb family scorpion curtain
-bip_39_word_space_9: bus initial act valid thumb family scorpion curtain same
-bip_39_word_underscore_1: bus
-bip_39_word_underscore_10: bus_initial_act_valid_thumb_family_scorpion_curtain_same_when
-bip_39_word_underscore_11: bus_initial_act_valid_thumb_family_scorpion_curtain_same_when_demand
 bip_39_word_underscore_12: bus_initial_act_valid_thumb_family_scorpion_curtain_same_when_demand_auto
 bip_39_word_underscore_2: bus_initial
 bip_39_word_underscore_3: bus_initial_act
-bip_39_word_underscore_4: bus_initial_act_valid
-bip_39_word_underscore_5: bus_initial_act_valid_thumb
-bip_39_word_underscore_6: bus_initial_act_valid_thumb_family
-bip_39_word_underscore_7: bus_initial_act_valid_thumb_family_scorpion
-bip_39_word_underscore_8: bus_initial_act_valid_thumb_family_scorpion_curtain
-bip_39_word_underscore_9: bus_initial_act_valid_thumb_family_scorpion_curtain_same
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

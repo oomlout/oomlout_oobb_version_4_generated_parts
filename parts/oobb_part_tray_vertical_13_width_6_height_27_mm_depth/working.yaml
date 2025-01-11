@@ -1,68 +1,9 @@
-bip_39_word_dash_1: movie
-bip_39_word_dash_10: movie-pepper-spy-pair-flip-peanut-power-involve-potato-elephant
-bip_39_word_dash_11: movie-pepper-spy-pair-flip-peanut-power-involve-potato-elephant-swap
 bip_39_word_dash_12: movie-pepper-spy-pair-flip-peanut-power-involve-potato-elephant-swap-abuse
 bip_39_word_dash_2: movie-pepper
 bip_39_word_dash_3: movie-pepper-spy
-bip_39_word_dash_4: movie-pepper-spy-pair
-bip_39_word_dash_5: movie-pepper-spy-pair-flip
-bip_39_word_dash_6: movie-pepper-spy-pair-flip-peanut
-bip_39_word_dash_7: movie-pepper-spy-pair-flip-peanut-power
-bip_39_word_dash_8: movie-pepper-spy-pair-flip-peanut-power-involve
-bip_39_word_dash_9: movie-pepper-spy-pair-flip-peanut-power-involve-potato
-bip_39_word_new_br_1: movie
-bip_39_word_new_br_10: movie<br>pepper<br>spy<br>pair<br>flip<br>peanut<br>power<br>involve<br>potato<br>elephant
-bip_39_word_new_br_11: movie<br>pepper<br>spy<br>pair<br>flip<br>peanut<br>power<br>involve<br>potato<br>elephant<br>swap
 bip_39_word_new_br_12: movie<br>pepper<br>spy<br>pair<br>flip<br>peanut<br>power<br>involve<br>potato<br>elephant<br>swap<br>abuse
 bip_39_word_new_br_2: movie<br>pepper
 bip_39_word_new_br_3: movie<br>pepper<br>spy
-bip_39_word_new_br_4: movie<br>pepper<br>spy<br>pair
-bip_39_word_new_br_5: movie<br>pepper<br>spy<br>pair<br>flip
-bip_39_word_new_br_6: movie<br>pepper<br>spy<br>pair<br>flip<br>peanut
-bip_39_word_new_br_7: movie<br>pepper<br>spy<br>pair<br>flip<br>peanut<br>power
-bip_39_word_new_br_8: movie<br>pepper<br>spy<br>pair<br>flip<br>peanut<br>power<br>involve
-bip_39_word_new_br_9: movie<br>pepper<br>spy<br>pair<br>flip<br>peanut<br>power<br>involve<br>potato
-bip_39_word_new_line_1: movie
-bip_39_word_new_line_10: 'movie
-
-  pepper
-
-  spy
-
-  pair
-
-  flip
-
-  peanut
-
-  power
-
-  involve
-
-  potato
-
-  elephant'
-bip_39_word_new_line_11: 'movie
-
-  pepper
-
-  spy
-
-  pair
-
-  flip
-
-  peanut
-
-  power
-
-  involve
-
-  potato
-
-  elephant
-
-  swap'
 bip_39_word_new_line_12: 'movie
 
   pepper
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'movie
   pepper
 
   spy'
-bip_39_word_new_line_4: 'movie
-
-  pepper
-
-  spy
-
-  pair'
-bip_39_word_new_line_5: 'movie
-
-  pepper
-
-  spy
-
-  pair
-
-  flip'
-bip_39_word_new_line_6: 'movie
-
-  pepper
-
-  spy
-
-  pair
-
-  flip
-
-  peanut'
-bip_39_word_new_line_7: 'movie
-
-  pepper
-
-  spy
-
-  pair
-
-  flip
-
-  peanut
-
-  power'
-bip_39_word_new_line_8: 'movie
-
-  pepper
-
-  spy
-
-  pair
-
-  flip
-
-  peanut
-
-  power
-
-  involve'
-bip_39_word_new_line_9: 'movie
-
-  pepper
-
-  spy
-
-  pair
-
-  flip
-
-  peanut
-
-  power
-
-  involve
-
-  potato'
-bip_39_word_no_space_1: movie
-bip_39_word_no_space_10: moviepepperspypairflippeanutpowerinvolvepotatoelephant
-bip_39_word_no_space_11: moviepepperspypairflippeanutpowerinvolvepotatoelephantswap
 bip_39_word_no_space_12: moviepepperspypairflippeanutpowerinvolvepotatoelephantswapabuse
 bip_39_word_no_space_2: moviepepper
 bip_39_word_no_space_3: moviepepperspy
-bip_39_word_no_space_4: moviepepperspypair
-bip_39_word_no_space_5: moviepepperspypairflip
-bip_39_word_no_space_6: moviepepperspypairflippeanut
-bip_39_word_no_space_7: moviepepperspypairflippeanutpower
-bip_39_word_no_space_8: moviepepperspypairflippeanutpowerinvolve
-bip_39_word_no_space_9: moviepepperspypairflippeanutpowerinvolvepotato
-bip_39_word_space_0:
-- movie
-- pepper
-- spy
-- pair
-- flip
-- peanut
-- power
-- involve
-- potato
-- elephant
-- swap
-- abuse
-bip_39_word_space_1: movie
-bip_39_word_space_10: movie pepper spy pair flip peanut power involve potato elephant
-bip_39_word_space_11: movie pepper spy pair flip peanut power involve potato elephant
-  swap
 bip_39_word_space_12: movie pepper spy pair flip peanut power involve potato elephant
   swap abuse
 bip_39_word_space_2: movie pepper
 bip_39_word_space_3: movie pepper spy
-bip_39_word_space_4: movie pepper spy pair
-bip_39_word_space_5: movie pepper spy pair flip
-bip_39_word_space_6: movie pepper spy pair flip peanut
-bip_39_word_space_7: movie pepper spy pair flip peanut power
-bip_39_word_space_8: movie pepper spy pair flip peanut power involve
-bip_39_word_space_9: movie pepper spy pair flip peanut power involve potato
-bip_39_word_underscore_1: movie
-bip_39_word_underscore_10: movie_pepper_spy_pair_flip_peanut_power_involve_potato_elephant
-bip_39_word_underscore_11: movie_pepper_spy_pair_flip_peanut_power_involve_potato_elephant_swap
 bip_39_word_underscore_12: movie_pepper_spy_pair_flip_peanut_power_involve_potato_elephant_swap_abuse
 bip_39_word_underscore_2: movie_pepper
 bip_39_word_underscore_3: movie_pepper_spy
-bip_39_word_underscore_4: movie_pepper_spy_pair
-bip_39_word_underscore_5: movie_pepper_spy_pair_flip
-bip_39_word_underscore_6: movie_pepper_spy_pair_flip_peanut
-bip_39_word_underscore_7: movie_pepper_spy_pair_flip_peanut_power
-bip_39_word_underscore_8: movie_pepper_spy_pair_flip_peanut_power_involve
-bip_39_word_underscore_9: movie_pepper_spy_pair_flip_peanut_power_involve_potato
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

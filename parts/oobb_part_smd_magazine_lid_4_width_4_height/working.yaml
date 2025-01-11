@@ -1,68 +1,9 @@
-bip_39_word_dash_1: model
-bip_39_word_dash_10: model-fashion-ridge-erosion-flower-argue-risk-marriage-decorate-lazy
-bip_39_word_dash_11: model-fashion-ridge-erosion-flower-argue-risk-marriage-decorate-lazy-knee
 bip_39_word_dash_12: model-fashion-ridge-erosion-flower-argue-risk-marriage-decorate-lazy-knee-autumn
 bip_39_word_dash_2: model-fashion
 bip_39_word_dash_3: model-fashion-ridge
-bip_39_word_dash_4: model-fashion-ridge-erosion
-bip_39_word_dash_5: model-fashion-ridge-erosion-flower
-bip_39_word_dash_6: model-fashion-ridge-erosion-flower-argue
-bip_39_word_dash_7: model-fashion-ridge-erosion-flower-argue-risk
-bip_39_word_dash_8: model-fashion-ridge-erosion-flower-argue-risk-marriage
-bip_39_word_dash_9: model-fashion-ridge-erosion-flower-argue-risk-marriage-decorate
-bip_39_word_new_br_1: model
-bip_39_word_new_br_10: model<br>fashion<br>ridge<br>erosion<br>flower<br>argue<br>risk<br>marriage<br>decorate<br>lazy
-bip_39_word_new_br_11: model<br>fashion<br>ridge<br>erosion<br>flower<br>argue<br>risk<br>marriage<br>decorate<br>lazy<br>knee
 bip_39_word_new_br_12: model<br>fashion<br>ridge<br>erosion<br>flower<br>argue<br>risk<br>marriage<br>decorate<br>lazy<br>knee<br>autumn
 bip_39_word_new_br_2: model<br>fashion
 bip_39_word_new_br_3: model<br>fashion<br>ridge
-bip_39_word_new_br_4: model<br>fashion<br>ridge<br>erosion
-bip_39_word_new_br_5: model<br>fashion<br>ridge<br>erosion<br>flower
-bip_39_word_new_br_6: model<br>fashion<br>ridge<br>erosion<br>flower<br>argue
-bip_39_word_new_br_7: model<br>fashion<br>ridge<br>erosion<br>flower<br>argue<br>risk
-bip_39_word_new_br_8: model<br>fashion<br>ridge<br>erosion<br>flower<br>argue<br>risk<br>marriage
-bip_39_word_new_br_9: model<br>fashion<br>ridge<br>erosion<br>flower<br>argue<br>risk<br>marriage<br>decorate
-bip_39_word_new_line_1: model
-bip_39_word_new_line_10: 'model
-
-  fashion
-
-  ridge
-
-  erosion
-
-  flower
-
-  argue
-
-  risk
-
-  marriage
-
-  decorate
-
-  lazy'
-bip_39_word_new_line_11: 'model
-
-  fashion
-
-  ridge
-
-  erosion
-
-  flower
-
-  argue
-
-  risk
-
-  marriage
-
-  decorate
-
-  lazy
-
-  knee'
 bip_39_word_new_line_12: 'model
 
   fashion
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'model
   fashion
 
   ridge'
-bip_39_word_new_line_4: 'model
-
-  fashion
-
-  ridge
-
-  erosion'
-bip_39_word_new_line_5: 'model
-
-  fashion
-
-  ridge
-
-  erosion
-
-  flower'
-bip_39_word_new_line_6: 'model
-
-  fashion
-
-  ridge
-
-  erosion
-
-  flower
-
-  argue'
-bip_39_word_new_line_7: 'model
-
-  fashion
-
-  ridge
-
-  erosion
-
-  flower
-
-  argue
-
-  risk'
-bip_39_word_new_line_8: 'model
-
-  fashion
-
-  ridge
-
-  erosion
-
-  flower
-
-  argue
-
-  risk
-
-  marriage'
-bip_39_word_new_line_9: 'model
-
-  fashion
-
-  ridge
-
-  erosion
-
-  flower
-
-  argue
-
-  risk
-
-  marriage
-
-  decorate'
-bip_39_word_no_space_1: model
-bip_39_word_no_space_10: modelfashionridgeerosionflowerargueriskmarriagedecoratelazy
-bip_39_word_no_space_11: modelfashionridgeerosionflowerargueriskmarriagedecoratelazyknee
 bip_39_word_no_space_12: modelfashionridgeerosionflowerargueriskmarriagedecoratelazykneeautumn
 bip_39_word_no_space_2: modelfashion
 bip_39_word_no_space_3: modelfashionridge
-bip_39_word_no_space_4: modelfashionridgeerosion
-bip_39_word_no_space_5: modelfashionridgeerosionflower
-bip_39_word_no_space_6: modelfashionridgeerosionflowerargue
-bip_39_word_no_space_7: modelfashionridgeerosionflowerarguerisk
-bip_39_word_no_space_8: modelfashionridgeerosionflowerargueriskmarriage
-bip_39_word_no_space_9: modelfashionridgeerosionflowerargueriskmarriagedecorate
-bip_39_word_space_0:
-- model
-- fashion
-- ridge
-- erosion
-- flower
-- argue
-- risk
-- marriage
-- decorate
-- lazy
-- knee
-- autumn
-bip_39_word_space_1: model
-bip_39_word_space_10: model fashion ridge erosion flower argue risk marriage decorate
-  lazy
-bip_39_word_space_11: model fashion ridge erosion flower argue risk marriage decorate
-  lazy knee
 bip_39_word_space_12: model fashion ridge erosion flower argue risk marriage decorate
   lazy knee autumn
 bip_39_word_space_2: model fashion
 bip_39_word_space_3: model fashion ridge
-bip_39_word_space_4: model fashion ridge erosion
-bip_39_word_space_5: model fashion ridge erosion flower
-bip_39_word_space_6: model fashion ridge erosion flower argue
-bip_39_word_space_7: model fashion ridge erosion flower argue risk
-bip_39_word_space_8: model fashion ridge erosion flower argue risk marriage
-bip_39_word_space_9: model fashion ridge erosion flower argue risk marriage decorate
-bip_39_word_underscore_1: model
-bip_39_word_underscore_10: model_fashion_ridge_erosion_flower_argue_risk_marriage_decorate_lazy
-bip_39_word_underscore_11: model_fashion_ridge_erosion_flower_argue_risk_marriage_decorate_lazy_knee
 bip_39_word_underscore_12: model_fashion_ridge_erosion_flower_argue_risk_marriage_decorate_lazy_knee_autumn
 bip_39_word_underscore_2: model_fashion
 bip_39_word_underscore_3: model_fashion_ridge
-bip_39_word_underscore_4: model_fashion_ridge_erosion
-bip_39_word_underscore_5: model_fashion_ridge_erosion_flower
-bip_39_word_underscore_6: model_fashion_ridge_erosion_flower_argue
-bip_39_word_underscore_7: model_fashion_ridge_erosion_flower_argue_risk
-bip_39_word_underscore_8: model_fashion_ridge_erosion_flower_argue_risk_marriage
-bip_39_word_underscore_9: model_fashion_ridge_erosion_flower_argue_risk_marriage_decorate
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: equal
-bip_39_word_dash_10: equal-mix-camp-depth-clerk-load-shoe-piece-check-expire
-bip_39_word_dash_11: equal-mix-camp-depth-clerk-load-shoe-piece-check-expire-stomach
 bip_39_word_dash_12: equal-mix-camp-depth-clerk-load-shoe-piece-check-expire-stomach-artwork
 bip_39_word_dash_2: equal-mix
 bip_39_word_dash_3: equal-mix-camp
-bip_39_word_dash_4: equal-mix-camp-depth
-bip_39_word_dash_5: equal-mix-camp-depth-clerk
-bip_39_word_dash_6: equal-mix-camp-depth-clerk-load
-bip_39_word_dash_7: equal-mix-camp-depth-clerk-load-shoe
-bip_39_word_dash_8: equal-mix-camp-depth-clerk-load-shoe-piece
-bip_39_word_dash_9: equal-mix-camp-depth-clerk-load-shoe-piece-check
-bip_39_word_new_br_1: equal
-bip_39_word_new_br_10: equal<br>mix<br>camp<br>depth<br>clerk<br>load<br>shoe<br>piece<br>check<br>expire
-bip_39_word_new_br_11: equal<br>mix<br>camp<br>depth<br>clerk<br>load<br>shoe<br>piece<br>check<br>expire<br>stomach
 bip_39_word_new_br_12: equal<br>mix<br>camp<br>depth<br>clerk<br>load<br>shoe<br>piece<br>check<br>expire<br>stomach<br>artwork
 bip_39_word_new_br_2: equal<br>mix
 bip_39_word_new_br_3: equal<br>mix<br>camp
-bip_39_word_new_br_4: equal<br>mix<br>camp<br>depth
-bip_39_word_new_br_5: equal<br>mix<br>camp<br>depth<br>clerk
-bip_39_word_new_br_6: equal<br>mix<br>camp<br>depth<br>clerk<br>load
-bip_39_word_new_br_7: equal<br>mix<br>camp<br>depth<br>clerk<br>load<br>shoe
-bip_39_word_new_br_8: equal<br>mix<br>camp<br>depth<br>clerk<br>load<br>shoe<br>piece
-bip_39_word_new_br_9: equal<br>mix<br>camp<br>depth<br>clerk<br>load<br>shoe<br>piece<br>check
-bip_39_word_new_line_1: equal
-bip_39_word_new_line_10: 'equal
-
-  mix
-
-  camp
-
-  depth
-
-  clerk
-
-  load
-
-  shoe
-
-  piece
-
-  check
-
-  expire'
-bip_39_word_new_line_11: 'equal
-
-  mix
-
-  camp
-
-  depth
-
-  clerk
-
-  load
-
-  shoe
-
-  piece
-
-  check
-
-  expire
-
-  stomach'
 bip_39_word_new_line_12: 'equal
 
   mix
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'equal
   mix
 
   camp'
-bip_39_word_new_line_4: 'equal
-
-  mix
-
-  camp
-
-  depth'
-bip_39_word_new_line_5: 'equal
-
-  mix
-
-  camp
-
-  depth
-
-  clerk'
-bip_39_word_new_line_6: 'equal
-
-  mix
-
-  camp
-
-  depth
-
-  clerk
-
-  load'
-bip_39_word_new_line_7: 'equal
-
-  mix
-
-  camp
-
-  depth
-
-  clerk
-
-  load
-
-  shoe'
-bip_39_word_new_line_8: 'equal
-
-  mix
-
-  camp
-
-  depth
-
-  clerk
-
-  load
-
-  shoe
-
-  piece'
-bip_39_word_new_line_9: 'equal
-
-  mix
-
-  camp
-
-  depth
-
-  clerk
-
-  load
-
-  shoe
-
-  piece
-
-  check'
-bip_39_word_no_space_1: equal
-bip_39_word_no_space_10: equalmixcampdepthclerkloadshoepiececheckexpire
-bip_39_word_no_space_11: equalmixcampdepthclerkloadshoepiececheckexpirestomach
 bip_39_word_no_space_12: equalmixcampdepthclerkloadshoepiececheckexpirestomachartwork
 bip_39_word_no_space_2: equalmix
 bip_39_word_no_space_3: equalmixcamp
-bip_39_word_no_space_4: equalmixcampdepth
-bip_39_word_no_space_5: equalmixcampdepthclerk
-bip_39_word_no_space_6: equalmixcampdepthclerkload
-bip_39_word_no_space_7: equalmixcampdepthclerkloadshoe
-bip_39_word_no_space_8: equalmixcampdepthclerkloadshoepiece
-bip_39_word_no_space_9: equalmixcampdepthclerkloadshoepiececheck
-bip_39_word_space_0:
-- equal
-- mix
-- camp
-- depth
-- clerk
-- load
-- shoe
-- piece
-- check
-- expire
-- stomach
-- artwork
-bip_39_word_space_1: equal
-bip_39_word_space_10: equal mix camp depth clerk load shoe piece check expire
-bip_39_word_space_11: equal mix camp depth clerk load shoe piece check expire stomach
 bip_39_word_space_12: equal mix camp depth clerk load shoe piece check expire stomach
   artwork
 bip_39_word_space_2: equal mix
 bip_39_word_space_3: equal mix camp
-bip_39_word_space_4: equal mix camp depth
-bip_39_word_space_5: equal mix camp depth clerk
-bip_39_word_space_6: equal mix camp depth clerk load
-bip_39_word_space_7: equal mix camp depth clerk load shoe
-bip_39_word_space_8: equal mix camp depth clerk load shoe piece
-bip_39_word_space_9: equal mix camp depth clerk load shoe piece check
-bip_39_word_underscore_1: equal
-bip_39_word_underscore_10: equal_mix_camp_depth_clerk_load_shoe_piece_check_expire
-bip_39_word_underscore_11: equal_mix_camp_depth_clerk_load_shoe_piece_check_expire_stomach
 bip_39_word_underscore_12: equal_mix_camp_depth_clerk_load_shoe_piece_check_expire_stomach_artwork
 bip_39_word_underscore_2: equal_mix
 bip_39_word_underscore_3: equal_mix_camp
-bip_39_word_underscore_4: equal_mix_camp_depth
-bip_39_word_underscore_5: equal_mix_camp_depth_clerk
-bip_39_word_underscore_6: equal_mix_camp_depth_clerk_load
-bip_39_word_underscore_7: equal_mix_camp_depth_clerk_load_shoe
-bip_39_word_underscore_8: equal_mix_camp_depth_clerk_load_shoe_piece
-bip_39_word_underscore_9: equal_mix_camp_depth_clerk_load_shoe_piece_check
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

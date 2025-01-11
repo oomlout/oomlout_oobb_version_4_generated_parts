@@ -1,68 +1,9 @@
-bip_39_word_dash_1: horse
-bip_39_word_dash_10: horse-news-future-credit-eye-battle-hat-wedding-derive-veteran
-bip_39_word_dash_11: horse-news-future-credit-eye-battle-hat-wedding-derive-veteran-attack
 bip_39_word_dash_12: horse-news-future-credit-eye-battle-hat-wedding-derive-veteran-attack-any
 bip_39_word_dash_2: horse-news
 bip_39_word_dash_3: horse-news-future
-bip_39_word_dash_4: horse-news-future-credit
-bip_39_word_dash_5: horse-news-future-credit-eye
-bip_39_word_dash_6: horse-news-future-credit-eye-battle
-bip_39_word_dash_7: horse-news-future-credit-eye-battle-hat
-bip_39_word_dash_8: horse-news-future-credit-eye-battle-hat-wedding
-bip_39_word_dash_9: horse-news-future-credit-eye-battle-hat-wedding-derive
-bip_39_word_new_br_1: horse
-bip_39_word_new_br_10: horse<br>news<br>future<br>credit<br>eye<br>battle<br>hat<br>wedding<br>derive<br>veteran
-bip_39_word_new_br_11: horse<br>news<br>future<br>credit<br>eye<br>battle<br>hat<br>wedding<br>derive<br>veteran<br>attack
 bip_39_word_new_br_12: horse<br>news<br>future<br>credit<br>eye<br>battle<br>hat<br>wedding<br>derive<br>veteran<br>attack<br>any
 bip_39_word_new_br_2: horse<br>news
 bip_39_word_new_br_3: horse<br>news<br>future
-bip_39_word_new_br_4: horse<br>news<br>future<br>credit
-bip_39_word_new_br_5: horse<br>news<br>future<br>credit<br>eye
-bip_39_word_new_br_6: horse<br>news<br>future<br>credit<br>eye<br>battle
-bip_39_word_new_br_7: horse<br>news<br>future<br>credit<br>eye<br>battle<br>hat
-bip_39_word_new_br_8: horse<br>news<br>future<br>credit<br>eye<br>battle<br>hat<br>wedding
-bip_39_word_new_br_9: horse<br>news<br>future<br>credit<br>eye<br>battle<br>hat<br>wedding<br>derive
-bip_39_word_new_line_1: horse
-bip_39_word_new_line_10: 'horse
-
-  news
-
-  future
-
-  credit
-
-  eye
-
-  battle
-
-  hat
-
-  wedding
-
-  derive
-
-  veteran'
-bip_39_word_new_line_11: 'horse
-
-  news
-
-  future
-
-  credit
-
-  eye
-
-  battle
-
-  hat
-
-  wedding
-
-  derive
-
-  veteran
-
-  attack'
 bip_39_word_new_line_12: 'horse
 
   news
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'horse
   news
 
   future'
-bip_39_word_new_line_4: 'horse
-
-  news
-
-  future
-
-  credit'
-bip_39_word_new_line_5: 'horse
-
-  news
-
-  future
-
-  credit
-
-  eye'
-bip_39_word_new_line_6: 'horse
-
-  news
-
-  future
-
-  credit
-
-  eye
-
-  battle'
-bip_39_word_new_line_7: 'horse
-
-  news
-
-  future
-
-  credit
-
-  eye
-
-  battle
-
-  hat'
-bip_39_word_new_line_8: 'horse
-
-  news
-
-  future
-
-  credit
-
-  eye
-
-  battle
-
-  hat
-
-  wedding'
-bip_39_word_new_line_9: 'horse
-
-  news
-
-  future
-
-  credit
-
-  eye
-
-  battle
-
-  hat
-
-  wedding
-
-  derive'
-bip_39_word_no_space_1: horse
-bip_39_word_no_space_10: horsenewsfuturecrediteyebattlehatweddingderiveveteran
-bip_39_word_no_space_11: horsenewsfuturecrediteyebattlehatweddingderiveveteranattack
 bip_39_word_no_space_12: horsenewsfuturecrediteyebattlehatweddingderiveveteranattackany
 bip_39_word_no_space_2: horsenews
 bip_39_word_no_space_3: horsenewsfuture
-bip_39_word_no_space_4: horsenewsfuturecredit
-bip_39_word_no_space_5: horsenewsfuturecrediteye
-bip_39_word_no_space_6: horsenewsfuturecrediteyebattle
-bip_39_word_no_space_7: horsenewsfuturecrediteyebattlehat
-bip_39_word_no_space_8: horsenewsfuturecrediteyebattlehatwedding
-bip_39_word_no_space_9: horsenewsfuturecrediteyebattlehatweddingderive
-bip_39_word_space_0:
-- horse
-- news
-- future
-- credit
-- eye
-- battle
-- hat
-- wedding
-- derive
-- veteran
-- attack
-- any
-bip_39_word_space_1: horse
-bip_39_word_space_10: horse news future credit eye battle hat wedding derive veteran
-bip_39_word_space_11: horse news future credit eye battle hat wedding derive veteran
-  attack
 bip_39_word_space_12: horse news future credit eye battle hat wedding derive veteran
   attack any
 bip_39_word_space_2: horse news
 bip_39_word_space_3: horse news future
-bip_39_word_space_4: horse news future credit
-bip_39_word_space_5: horse news future credit eye
-bip_39_word_space_6: horse news future credit eye battle
-bip_39_word_space_7: horse news future credit eye battle hat
-bip_39_word_space_8: horse news future credit eye battle hat wedding
-bip_39_word_space_9: horse news future credit eye battle hat wedding derive
-bip_39_word_underscore_1: horse
-bip_39_word_underscore_10: horse_news_future_credit_eye_battle_hat_wedding_derive_veteran
-bip_39_word_underscore_11: horse_news_future_credit_eye_battle_hat_wedding_derive_veteran_attack
 bip_39_word_underscore_12: horse_news_future_credit_eye_battle_hat_wedding_derive_veteran_attack_any
 bip_39_word_underscore_2: horse_news
 bip_39_word_underscore_3: horse_news_future
-bip_39_word_underscore_4: horse_news_future_credit
-bip_39_word_underscore_5: horse_news_future_credit_eye
-bip_39_word_underscore_6: horse_news_future_credit_eye_battle
-bip_39_word_underscore_7: horse_news_future_credit_eye_battle_hat
-bip_39_word_underscore_8: horse_news_future_credit_eye_battle_hat_wedding
-bip_39_word_underscore_9: horse_news_future_credit_eye_battle_hat_wedding_derive
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

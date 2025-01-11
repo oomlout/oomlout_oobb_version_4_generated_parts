@@ -1,68 +1,9 @@
-bip_39_word_dash_1: suggest
-bip_39_word_dash_10: suggest-whisper-above-mind-virtual-bunker-miss-message-swim-flock
-bip_39_word_dash_11: suggest-whisper-above-mind-virtual-bunker-miss-message-swim-flock-remember
 bip_39_word_dash_12: suggest-whisper-above-mind-virtual-bunker-miss-message-swim-flock-remember-action
 bip_39_word_dash_2: suggest-whisper
 bip_39_word_dash_3: suggest-whisper-above
-bip_39_word_dash_4: suggest-whisper-above-mind
-bip_39_word_dash_5: suggest-whisper-above-mind-virtual
-bip_39_word_dash_6: suggest-whisper-above-mind-virtual-bunker
-bip_39_word_dash_7: suggest-whisper-above-mind-virtual-bunker-miss
-bip_39_word_dash_8: suggest-whisper-above-mind-virtual-bunker-miss-message
-bip_39_word_dash_9: suggest-whisper-above-mind-virtual-bunker-miss-message-swim
-bip_39_word_new_br_1: suggest
-bip_39_word_new_br_10: suggest<br>whisper<br>above<br>mind<br>virtual<br>bunker<br>miss<br>message<br>swim<br>flock
-bip_39_word_new_br_11: suggest<br>whisper<br>above<br>mind<br>virtual<br>bunker<br>miss<br>message<br>swim<br>flock<br>remember
 bip_39_word_new_br_12: suggest<br>whisper<br>above<br>mind<br>virtual<br>bunker<br>miss<br>message<br>swim<br>flock<br>remember<br>action
 bip_39_word_new_br_2: suggest<br>whisper
 bip_39_word_new_br_3: suggest<br>whisper<br>above
-bip_39_word_new_br_4: suggest<br>whisper<br>above<br>mind
-bip_39_word_new_br_5: suggest<br>whisper<br>above<br>mind<br>virtual
-bip_39_word_new_br_6: suggest<br>whisper<br>above<br>mind<br>virtual<br>bunker
-bip_39_word_new_br_7: suggest<br>whisper<br>above<br>mind<br>virtual<br>bunker<br>miss
-bip_39_word_new_br_8: suggest<br>whisper<br>above<br>mind<br>virtual<br>bunker<br>miss<br>message
-bip_39_word_new_br_9: suggest<br>whisper<br>above<br>mind<br>virtual<br>bunker<br>miss<br>message<br>swim
-bip_39_word_new_line_1: suggest
-bip_39_word_new_line_10: 'suggest
-
-  whisper
-
-  above
-
-  mind
-
-  virtual
-
-  bunker
-
-  miss
-
-  message
-
-  swim
-
-  flock'
-bip_39_word_new_line_11: 'suggest
-
-  whisper
-
-  above
-
-  mind
-
-  virtual
-
-  bunker
-
-  miss
-
-  message
-
-  swim
-
-  flock
-
-  remember'
 bip_39_word_new_line_12: 'suggest
 
   whisper
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'suggest
   whisper
 
   above'
-bip_39_word_new_line_4: 'suggest
-
-  whisper
-
-  above
-
-  mind'
-bip_39_word_new_line_5: 'suggest
-
-  whisper
-
-  above
-
-  mind
-
-  virtual'
-bip_39_word_new_line_6: 'suggest
-
-  whisper
-
-  above
-
-  mind
-
-  virtual
-
-  bunker'
-bip_39_word_new_line_7: 'suggest
-
-  whisper
-
-  above
-
-  mind
-
-  virtual
-
-  bunker
-
-  miss'
-bip_39_word_new_line_8: 'suggest
-
-  whisper
-
-  above
-
-  mind
-
-  virtual
-
-  bunker
-
-  miss
-
-  message'
-bip_39_word_new_line_9: 'suggest
-
-  whisper
-
-  above
-
-  mind
-
-  virtual
-
-  bunker
-
-  miss
-
-  message
-
-  swim'
-bip_39_word_no_space_1: suggest
-bip_39_word_no_space_10: suggestwhisperabovemindvirtualbunkermissmessageswimflock
-bip_39_word_no_space_11: suggestwhisperabovemindvirtualbunkermissmessageswimflockremember
 bip_39_word_no_space_12: suggestwhisperabovemindvirtualbunkermissmessageswimflockrememberaction
 bip_39_word_no_space_2: suggestwhisper
 bip_39_word_no_space_3: suggestwhisperabove
-bip_39_word_no_space_4: suggestwhisperabovemind
-bip_39_word_no_space_5: suggestwhisperabovemindvirtual
-bip_39_word_no_space_6: suggestwhisperabovemindvirtualbunker
-bip_39_word_no_space_7: suggestwhisperabovemindvirtualbunkermiss
-bip_39_word_no_space_8: suggestwhisperabovemindvirtualbunkermissmessage
-bip_39_word_no_space_9: suggestwhisperabovemindvirtualbunkermissmessageswim
-bip_39_word_space_0:
-- suggest
-- whisper
-- above
-- mind
-- virtual
-- bunker
-- miss
-- message
-- swim
-- flock
-- remember
-- action
-bip_39_word_space_1: suggest
-bip_39_word_space_10: suggest whisper above mind virtual bunker miss message swim
-  flock
-bip_39_word_space_11: suggest whisper above mind virtual bunker miss message swim
-  flock remember
 bip_39_word_space_12: suggest whisper above mind virtual bunker miss message swim
   flock remember action
 bip_39_word_space_2: suggest whisper
 bip_39_word_space_3: suggest whisper above
-bip_39_word_space_4: suggest whisper above mind
-bip_39_word_space_5: suggest whisper above mind virtual
-bip_39_word_space_6: suggest whisper above mind virtual bunker
-bip_39_word_space_7: suggest whisper above mind virtual bunker miss
-bip_39_word_space_8: suggest whisper above mind virtual bunker miss message
-bip_39_word_space_9: suggest whisper above mind virtual bunker miss message swim
-bip_39_word_underscore_1: suggest
-bip_39_word_underscore_10: suggest_whisper_above_mind_virtual_bunker_miss_message_swim_flock
-bip_39_word_underscore_11: suggest_whisper_above_mind_virtual_bunker_miss_message_swim_flock_remember
 bip_39_word_underscore_12: suggest_whisper_above_mind_virtual_bunker_miss_message_swim_flock_remember_action
 bip_39_word_underscore_2: suggest_whisper
 bip_39_word_underscore_3: suggest_whisper_above
-bip_39_word_underscore_4: suggest_whisper_above_mind
-bip_39_word_underscore_5: suggest_whisper_above_mind_virtual
-bip_39_word_underscore_6: suggest_whisper_above_mind_virtual_bunker
-bip_39_word_underscore_7: suggest_whisper_above_mind_virtual_bunker_miss
-bip_39_word_underscore_8: suggest_whisper_above_mind_virtual_bunker_miss_message
-bip_39_word_underscore_9: suggest_whisper_above_mind_virtual_bunker_miss_message_swim
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

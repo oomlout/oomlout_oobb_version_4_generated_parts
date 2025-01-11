@@ -1,68 +1,9 @@
-bip_39_word_dash_1: tape
-bip_39_word_dash_10: tape-now-phrase-where-subject-push-foam-topple-room-skate
-bip_39_word_dash_11: tape-now-phrase-where-subject-push-foam-topple-room-skate-head
 bip_39_word_dash_12: tape-now-phrase-where-subject-push-foam-topple-room-skate-head-alone
 bip_39_word_dash_2: tape-now
 bip_39_word_dash_3: tape-now-phrase
-bip_39_word_dash_4: tape-now-phrase-where
-bip_39_word_dash_5: tape-now-phrase-where-subject
-bip_39_word_dash_6: tape-now-phrase-where-subject-push
-bip_39_word_dash_7: tape-now-phrase-where-subject-push-foam
-bip_39_word_dash_8: tape-now-phrase-where-subject-push-foam-topple
-bip_39_word_dash_9: tape-now-phrase-where-subject-push-foam-topple-room
-bip_39_word_new_br_1: tape
-bip_39_word_new_br_10: tape<br>now<br>phrase<br>where<br>subject<br>push<br>foam<br>topple<br>room<br>skate
-bip_39_word_new_br_11: tape<br>now<br>phrase<br>where<br>subject<br>push<br>foam<br>topple<br>room<br>skate<br>head
 bip_39_word_new_br_12: tape<br>now<br>phrase<br>where<br>subject<br>push<br>foam<br>topple<br>room<br>skate<br>head<br>alone
 bip_39_word_new_br_2: tape<br>now
 bip_39_word_new_br_3: tape<br>now<br>phrase
-bip_39_word_new_br_4: tape<br>now<br>phrase<br>where
-bip_39_word_new_br_5: tape<br>now<br>phrase<br>where<br>subject
-bip_39_word_new_br_6: tape<br>now<br>phrase<br>where<br>subject<br>push
-bip_39_word_new_br_7: tape<br>now<br>phrase<br>where<br>subject<br>push<br>foam
-bip_39_word_new_br_8: tape<br>now<br>phrase<br>where<br>subject<br>push<br>foam<br>topple
-bip_39_word_new_br_9: tape<br>now<br>phrase<br>where<br>subject<br>push<br>foam<br>topple<br>room
-bip_39_word_new_line_1: tape
-bip_39_word_new_line_10: 'tape
-
-  now
-
-  phrase
-
-  where
-
-  subject
-
-  push
-
-  foam
-
-  topple
-
-  room
-
-  skate'
-bip_39_word_new_line_11: 'tape
-
-  now
-
-  phrase
-
-  where
-
-  subject
-
-  push
-
-  foam
-
-  topple
-
-  room
-
-  skate
-
-  head'
 bip_39_word_new_line_12: 'tape
 
   now
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'tape
   now
 
   phrase'
-bip_39_word_new_line_4: 'tape
-
-  now
-
-  phrase
-
-  where'
-bip_39_word_new_line_5: 'tape
-
-  now
-
-  phrase
-
-  where
-
-  subject'
-bip_39_word_new_line_6: 'tape
-
-  now
-
-  phrase
-
-  where
-
-  subject
-
-  push'
-bip_39_word_new_line_7: 'tape
-
-  now
-
-  phrase
-
-  where
-
-  subject
-
-  push
-
-  foam'
-bip_39_word_new_line_8: 'tape
-
-  now
-
-  phrase
-
-  where
-
-  subject
-
-  push
-
-  foam
-
-  topple'
-bip_39_word_new_line_9: 'tape
-
-  now
-
-  phrase
-
-  where
-
-  subject
-
-  push
-
-  foam
-
-  topple
-
-  room'
-bip_39_word_no_space_1: tape
-bip_39_word_no_space_10: tapenowphrasewheresubjectpushfoamtoppleroomskate
-bip_39_word_no_space_11: tapenowphrasewheresubjectpushfoamtoppleroomskatehead
 bip_39_word_no_space_12: tapenowphrasewheresubjectpushfoamtoppleroomskateheadalone
 bip_39_word_no_space_2: tapenow
 bip_39_word_no_space_3: tapenowphrase
-bip_39_word_no_space_4: tapenowphrasewhere
-bip_39_word_no_space_5: tapenowphrasewheresubject
-bip_39_word_no_space_6: tapenowphrasewheresubjectpush
-bip_39_word_no_space_7: tapenowphrasewheresubjectpushfoam
-bip_39_word_no_space_8: tapenowphrasewheresubjectpushfoamtopple
-bip_39_word_no_space_9: tapenowphrasewheresubjectpushfoamtoppleroom
-bip_39_word_space_0:
-- tape
-- now
-- phrase
-- where
-- subject
-- push
-- foam
-- topple
-- room
-- skate
-- head
-- alone
-bip_39_word_space_1: tape
-bip_39_word_space_10: tape now phrase where subject push foam topple room skate
-bip_39_word_space_11: tape now phrase where subject push foam topple room skate head
 bip_39_word_space_12: tape now phrase where subject push foam topple room skate head
   alone
 bip_39_word_space_2: tape now
 bip_39_word_space_3: tape now phrase
-bip_39_word_space_4: tape now phrase where
-bip_39_word_space_5: tape now phrase where subject
-bip_39_word_space_6: tape now phrase where subject push
-bip_39_word_space_7: tape now phrase where subject push foam
-bip_39_word_space_8: tape now phrase where subject push foam topple
-bip_39_word_space_9: tape now phrase where subject push foam topple room
-bip_39_word_underscore_1: tape
-bip_39_word_underscore_10: tape_now_phrase_where_subject_push_foam_topple_room_skate
-bip_39_word_underscore_11: tape_now_phrase_where_subject_push_foam_topple_room_skate_head
 bip_39_word_underscore_12: tape_now_phrase_where_subject_push_foam_topple_room_skate_head_alone
 bip_39_word_underscore_2: tape_now
 bip_39_word_underscore_3: tape_now_phrase
-bip_39_word_underscore_4: tape_now_phrase_where
-bip_39_word_underscore_5: tape_now_phrase_where_subject
-bip_39_word_underscore_6: tape_now_phrase_where_subject_push
-bip_39_word_underscore_7: tape_now_phrase_where_subject_push_foam
-bip_39_word_underscore_8: tape_now_phrase_where_subject_push_foam_topple
-bip_39_word_underscore_9: tape_now_phrase_where_subject_push_foam_topple_room
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

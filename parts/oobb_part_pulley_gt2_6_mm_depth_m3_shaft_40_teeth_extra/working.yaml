@@ -1,68 +1,9 @@
-bip_39_word_dash_1: person
-bip_39_word_dash_10: person-gloom-gospel-inch-night-digital-advice-captain-wave-sentence
-bip_39_word_dash_11: person-gloom-gospel-inch-night-digital-advice-captain-wave-sentence-void
 bip_39_word_dash_12: person-gloom-gospel-inch-night-digital-advice-captain-wave-sentence-void-author
 bip_39_word_dash_2: person-gloom
 bip_39_word_dash_3: person-gloom-gospel
-bip_39_word_dash_4: person-gloom-gospel-inch
-bip_39_word_dash_5: person-gloom-gospel-inch-night
-bip_39_word_dash_6: person-gloom-gospel-inch-night-digital
-bip_39_word_dash_7: person-gloom-gospel-inch-night-digital-advice
-bip_39_word_dash_8: person-gloom-gospel-inch-night-digital-advice-captain
-bip_39_word_dash_9: person-gloom-gospel-inch-night-digital-advice-captain-wave
-bip_39_word_new_br_1: person
-bip_39_word_new_br_10: person<br>gloom<br>gospel<br>inch<br>night<br>digital<br>advice<br>captain<br>wave<br>sentence
-bip_39_word_new_br_11: person<br>gloom<br>gospel<br>inch<br>night<br>digital<br>advice<br>captain<br>wave<br>sentence<br>void
 bip_39_word_new_br_12: person<br>gloom<br>gospel<br>inch<br>night<br>digital<br>advice<br>captain<br>wave<br>sentence<br>void<br>author
 bip_39_word_new_br_2: person<br>gloom
 bip_39_word_new_br_3: person<br>gloom<br>gospel
-bip_39_word_new_br_4: person<br>gloom<br>gospel<br>inch
-bip_39_word_new_br_5: person<br>gloom<br>gospel<br>inch<br>night
-bip_39_word_new_br_6: person<br>gloom<br>gospel<br>inch<br>night<br>digital
-bip_39_word_new_br_7: person<br>gloom<br>gospel<br>inch<br>night<br>digital<br>advice
-bip_39_word_new_br_8: person<br>gloom<br>gospel<br>inch<br>night<br>digital<br>advice<br>captain
-bip_39_word_new_br_9: person<br>gloom<br>gospel<br>inch<br>night<br>digital<br>advice<br>captain<br>wave
-bip_39_word_new_line_1: person
-bip_39_word_new_line_10: 'person
-
-  gloom
-
-  gospel
-
-  inch
-
-  night
-
-  digital
-
-  advice
-
-  captain
-
-  wave
-
-  sentence'
-bip_39_word_new_line_11: 'person
-
-  gloom
-
-  gospel
-
-  inch
-
-  night
-
-  digital
-
-  advice
-
-  captain
-
-  wave
-
-  sentence
-
-  void'
 bip_39_word_new_line_12: 'person
 
   gloom
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'person
   gloom
 
   gospel'
-bip_39_word_new_line_4: 'person
-
-  gloom
-
-  gospel
-
-  inch'
-bip_39_word_new_line_5: 'person
-
-  gloom
-
-  gospel
-
-  inch
-
-  night'
-bip_39_word_new_line_6: 'person
-
-  gloom
-
-  gospel
-
-  inch
-
-  night
-
-  digital'
-bip_39_word_new_line_7: 'person
-
-  gloom
-
-  gospel
-
-  inch
-
-  night
-
-  digital
-
-  advice'
-bip_39_word_new_line_8: 'person
-
-  gloom
-
-  gospel
-
-  inch
-
-  night
-
-  digital
-
-  advice
-
-  captain'
-bip_39_word_new_line_9: 'person
-
-  gloom
-
-  gospel
-
-  inch
-
-  night
-
-  digital
-
-  advice
-
-  captain
-
-  wave'
-bip_39_word_no_space_1: person
-bip_39_word_no_space_10: persongloomgospelinchnightdigitaladvicecaptainwavesentence
-bip_39_word_no_space_11: persongloomgospelinchnightdigitaladvicecaptainwavesentencevoid
 bip_39_word_no_space_12: persongloomgospelinchnightdigitaladvicecaptainwavesentencevoidauthor
 bip_39_word_no_space_2: persongloom
 bip_39_word_no_space_3: persongloomgospel
-bip_39_word_no_space_4: persongloomgospelinch
-bip_39_word_no_space_5: persongloomgospelinchnight
-bip_39_word_no_space_6: persongloomgospelinchnightdigital
-bip_39_word_no_space_7: persongloomgospelinchnightdigitaladvice
-bip_39_word_no_space_8: persongloomgospelinchnightdigitaladvicecaptain
-bip_39_word_no_space_9: persongloomgospelinchnightdigitaladvicecaptainwave
-bip_39_word_space_0:
-- person
-- gloom
-- gospel
-- inch
-- night
-- digital
-- advice
-- captain
-- wave
-- sentence
-- void
-- author
-bip_39_word_space_1: person
-bip_39_word_space_10: person gloom gospel inch night digital advice captain wave sentence
-bip_39_word_space_11: person gloom gospel inch night digital advice captain wave sentence
-  void
 bip_39_word_space_12: person gloom gospel inch night digital advice captain wave sentence
   void author
 bip_39_word_space_2: person gloom
 bip_39_word_space_3: person gloom gospel
-bip_39_word_space_4: person gloom gospel inch
-bip_39_word_space_5: person gloom gospel inch night
-bip_39_word_space_6: person gloom gospel inch night digital
-bip_39_word_space_7: person gloom gospel inch night digital advice
-bip_39_word_space_8: person gloom gospel inch night digital advice captain
-bip_39_word_space_9: person gloom gospel inch night digital advice captain wave
-bip_39_word_underscore_1: person
-bip_39_word_underscore_10: person_gloom_gospel_inch_night_digital_advice_captain_wave_sentence
-bip_39_word_underscore_11: person_gloom_gospel_inch_night_digital_advice_captain_wave_sentence_void
 bip_39_word_underscore_12: person_gloom_gospel_inch_night_digital_advice_captain_wave_sentence_void_author
 bip_39_word_underscore_2: person_gloom
 bip_39_word_underscore_3: person_gloom_gospel
-bip_39_word_underscore_4: person_gloom_gospel_inch
-bip_39_word_underscore_5: person_gloom_gospel_inch_night
-bip_39_word_underscore_6: person_gloom_gospel_inch_night_digital
-bip_39_word_underscore_7: person_gloom_gospel_inch_night_digital_advice
-bip_39_word_underscore_8: person_gloom_gospel_inch_night_digital_advice_captain
-bip_39_word_underscore_9: person_gloom_gospel_inch_night_digital_advice_captain_wave
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

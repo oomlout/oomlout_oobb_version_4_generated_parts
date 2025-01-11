@@ -1,68 +1,9 @@
-bip_39_word_dash_1: grow
-bip_39_word_dash_10: grow-slice-fiber-asthma-settle-imitate-cup-seat-law-satisfy
-bip_39_word_dash_11: grow-slice-fiber-asthma-settle-imitate-cup-seat-law-satisfy-warrior
 bip_39_word_dash_12: grow-slice-fiber-asthma-settle-imitate-cup-seat-law-satisfy-warrior-atom
 bip_39_word_dash_2: grow-slice
 bip_39_word_dash_3: grow-slice-fiber
-bip_39_word_dash_4: grow-slice-fiber-asthma
-bip_39_word_dash_5: grow-slice-fiber-asthma-settle
-bip_39_word_dash_6: grow-slice-fiber-asthma-settle-imitate
-bip_39_word_dash_7: grow-slice-fiber-asthma-settle-imitate-cup
-bip_39_word_dash_8: grow-slice-fiber-asthma-settle-imitate-cup-seat
-bip_39_word_dash_9: grow-slice-fiber-asthma-settle-imitate-cup-seat-law
-bip_39_word_new_br_1: grow
-bip_39_word_new_br_10: grow<br>slice<br>fiber<br>asthma<br>settle<br>imitate<br>cup<br>seat<br>law<br>satisfy
-bip_39_word_new_br_11: grow<br>slice<br>fiber<br>asthma<br>settle<br>imitate<br>cup<br>seat<br>law<br>satisfy<br>warrior
 bip_39_word_new_br_12: grow<br>slice<br>fiber<br>asthma<br>settle<br>imitate<br>cup<br>seat<br>law<br>satisfy<br>warrior<br>atom
 bip_39_word_new_br_2: grow<br>slice
 bip_39_word_new_br_3: grow<br>slice<br>fiber
-bip_39_word_new_br_4: grow<br>slice<br>fiber<br>asthma
-bip_39_word_new_br_5: grow<br>slice<br>fiber<br>asthma<br>settle
-bip_39_word_new_br_6: grow<br>slice<br>fiber<br>asthma<br>settle<br>imitate
-bip_39_word_new_br_7: grow<br>slice<br>fiber<br>asthma<br>settle<br>imitate<br>cup
-bip_39_word_new_br_8: grow<br>slice<br>fiber<br>asthma<br>settle<br>imitate<br>cup<br>seat
-bip_39_word_new_br_9: grow<br>slice<br>fiber<br>asthma<br>settle<br>imitate<br>cup<br>seat<br>law
-bip_39_word_new_line_1: grow
-bip_39_word_new_line_10: 'grow
-
-  slice
-
-  fiber
-
-  asthma
-
-  settle
-
-  imitate
-
-  cup
-
-  seat
-
-  law
-
-  satisfy'
-bip_39_word_new_line_11: 'grow
-
-  slice
-
-  fiber
-
-  asthma
-
-  settle
-
-  imitate
-
-  cup
-
-  seat
-
-  law
-
-  satisfy
-
-  warrior'
 bip_39_word_new_line_12: 'grow
 
   slice
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'grow
   slice
 
   fiber'
-bip_39_word_new_line_4: 'grow
-
-  slice
-
-  fiber
-
-  asthma'
-bip_39_word_new_line_5: 'grow
-
-  slice
-
-  fiber
-
-  asthma
-
-  settle'
-bip_39_word_new_line_6: 'grow
-
-  slice
-
-  fiber
-
-  asthma
-
-  settle
-
-  imitate'
-bip_39_word_new_line_7: 'grow
-
-  slice
-
-  fiber
-
-  asthma
-
-  settle
-
-  imitate
-
-  cup'
-bip_39_word_new_line_8: 'grow
-
-  slice
-
-  fiber
-
-  asthma
-
-  settle
-
-  imitate
-
-  cup
-
-  seat'
-bip_39_word_new_line_9: 'grow
-
-  slice
-
-  fiber
-
-  asthma
-
-  settle
-
-  imitate
-
-  cup
-
-  seat
-
-  law'
-bip_39_word_no_space_1: grow
-bip_39_word_no_space_10: growslicefiberasthmasettleimitatecupseatlawsatisfy
-bip_39_word_no_space_11: growslicefiberasthmasettleimitatecupseatlawsatisfywarrior
 bip_39_word_no_space_12: growslicefiberasthmasettleimitatecupseatlawsatisfywarrioratom
 bip_39_word_no_space_2: growslice
 bip_39_word_no_space_3: growslicefiber
-bip_39_word_no_space_4: growslicefiberasthma
-bip_39_word_no_space_5: growslicefiberasthmasettle
-bip_39_word_no_space_6: growslicefiberasthmasettleimitate
-bip_39_word_no_space_7: growslicefiberasthmasettleimitatecup
-bip_39_word_no_space_8: growslicefiberasthmasettleimitatecupseat
-bip_39_word_no_space_9: growslicefiberasthmasettleimitatecupseatlaw
-bip_39_word_space_0:
-- grow
-- slice
-- fiber
-- asthma
-- settle
-- imitate
-- cup
-- seat
-- law
-- satisfy
-- warrior
-- atom
-bip_39_word_space_1: grow
-bip_39_word_space_10: grow slice fiber asthma settle imitate cup seat law satisfy
-bip_39_word_space_11: grow slice fiber asthma settle imitate cup seat law satisfy
-  warrior
 bip_39_word_space_12: grow slice fiber asthma settle imitate cup seat law satisfy
   warrior atom
 bip_39_word_space_2: grow slice
 bip_39_word_space_3: grow slice fiber
-bip_39_word_space_4: grow slice fiber asthma
-bip_39_word_space_5: grow slice fiber asthma settle
-bip_39_word_space_6: grow slice fiber asthma settle imitate
-bip_39_word_space_7: grow slice fiber asthma settle imitate cup
-bip_39_word_space_8: grow slice fiber asthma settle imitate cup seat
-bip_39_word_space_9: grow slice fiber asthma settle imitate cup seat law
-bip_39_word_underscore_1: grow
-bip_39_word_underscore_10: grow_slice_fiber_asthma_settle_imitate_cup_seat_law_satisfy
-bip_39_word_underscore_11: grow_slice_fiber_asthma_settle_imitate_cup_seat_law_satisfy_warrior
 bip_39_word_underscore_12: grow_slice_fiber_asthma_settle_imitate_cup_seat_law_satisfy_warrior_atom
 bip_39_word_underscore_2: grow_slice
 bip_39_word_underscore_3: grow_slice_fiber
-bip_39_word_underscore_4: grow_slice_fiber_asthma
-bip_39_word_underscore_5: grow_slice_fiber_asthma_settle
-bip_39_word_underscore_6: grow_slice_fiber_asthma_settle_imitate
-bip_39_word_underscore_7: grow_slice_fiber_asthma_settle_imitate_cup
-bip_39_word_underscore_8: grow_slice_fiber_asthma_settle_imitate_cup_seat
-bip_39_word_underscore_9: grow_slice_fiber_asthma_settle_imitate_cup_seat_law
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

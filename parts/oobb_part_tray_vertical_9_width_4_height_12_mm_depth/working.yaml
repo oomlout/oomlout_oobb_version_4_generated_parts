@@ -1,68 +1,9 @@
-bip_39_word_dash_1: kangaroo
-bip_39_word_dash_10: kangaroo-safe-gadget-runway-escape-clutch-box-announce-person-stem
-bip_39_word_dash_11: kangaroo-safe-gadget-runway-escape-clutch-box-announce-person-stem-feature
 bip_39_word_dash_12: kangaroo-safe-gadget-runway-escape-clutch-box-announce-person-stem-feature-art
 bip_39_word_dash_2: kangaroo-safe
 bip_39_word_dash_3: kangaroo-safe-gadget
-bip_39_word_dash_4: kangaroo-safe-gadget-runway
-bip_39_word_dash_5: kangaroo-safe-gadget-runway-escape
-bip_39_word_dash_6: kangaroo-safe-gadget-runway-escape-clutch
-bip_39_word_dash_7: kangaroo-safe-gadget-runway-escape-clutch-box
-bip_39_word_dash_8: kangaroo-safe-gadget-runway-escape-clutch-box-announce
-bip_39_word_dash_9: kangaroo-safe-gadget-runway-escape-clutch-box-announce-person
-bip_39_word_new_br_1: kangaroo
-bip_39_word_new_br_10: kangaroo<br>safe<br>gadget<br>runway<br>escape<br>clutch<br>box<br>announce<br>person<br>stem
-bip_39_word_new_br_11: kangaroo<br>safe<br>gadget<br>runway<br>escape<br>clutch<br>box<br>announce<br>person<br>stem<br>feature
 bip_39_word_new_br_12: kangaroo<br>safe<br>gadget<br>runway<br>escape<br>clutch<br>box<br>announce<br>person<br>stem<br>feature<br>art
 bip_39_word_new_br_2: kangaroo<br>safe
 bip_39_word_new_br_3: kangaroo<br>safe<br>gadget
-bip_39_word_new_br_4: kangaroo<br>safe<br>gadget<br>runway
-bip_39_word_new_br_5: kangaroo<br>safe<br>gadget<br>runway<br>escape
-bip_39_word_new_br_6: kangaroo<br>safe<br>gadget<br>runway<br>escape<br>clutch
-bip_39_word_new_br_7: kangaroo<br>safe<br>gadget<br>runway<br>escape<br>clutch<br>box
-bip_39_word_new_br_8: kangaroo<br>safe<br>gadget<br>runway<br>escape<br>clutch<br>box<br>announce
-bip_39_word_new_br_9: kangaroo<br>safe<br>gadget<br>runway<br>escape<br>clutch<br>box<br>announce<br>person
-bip_39_word_new_line_1: kangaroo
-bip_39_word_new_line_10: 'kangaroo
-
-  safe
-
-  gadget
-
-  runway
-
-  escape
-
-  clutch
-
-  box
-
-  announce
-
-  person
-
-  stem'
-bip_39_word_new_line_11: 'kangaroo
-
-  safe
-
-  gadget
-
-  runway
-
-  escape
-
-  clutch
-
-  box
-
-  announce
-
-  person
-
-  stem
-
-  feature'
 bip_39_word_new_line_12: 'kangaroo
 
   safe
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'kangaroo
   safe
 
   gadget'
-bip_39_word_new_line_4: 'kangaroo
-
-  safe
-
-  gadget
-
-  runway'
-bip_39_word_new_line_5: 'kangaroo
-
-  safe
-
-  gadget
-
-  runway
-
-  escape'
-bip_39_word_new_line_6: 'kangaroo
-
-  safe
-
-  gadget
-
-  runway
-
-  escape
-
-  clutch'
-bip_39_word_new_line_7: 'kangaroo
-
-  safe
-
-  gadget
-
-  runway
-
-  escape
-
-  clutch
-
-  box'
-bip_39_word_new_line_8: 'kangaroo
-
-  safe
-
-  gadget
-
-  runway
-
-  escape
-
-  clutch
-
-  box
-
-  announce'
-bip_39_word_new_line_9: 'kangaroo
-
-  safe
-
-  gadget
-
-  runway
-
-  escape
-
-  clutch
-
-  box
-
-  announce
-
-  person'
-bip_39_word_no_space_1: kangaroo
-bip_39_word_no_space_10: kangaroosafegadgetrunwayescapeclutchboxannouncepersonstem
-bip_39_word_no_space_11: kangaroosafegadgetrunwayescapeclutchboxannouncepersonstemfeature
 bip_39_word_no_space_12: kangaroosafegadgetrunwayescapeclutchboxannouncepersonstemfeatureart
 bip_39_word_no_space_2: kangaroosafe
 bip_39_word_no_space_3: kangaroosafegadget
-bip_39_word_no_space_4: kangaroosafegadgetrunway
-bip_39_word_no_space_5: kangaroosafegadgetrunwayescape
-bip_39_word_no_space_6: kangaroosafegadgetrunwayescapeclutch
-bip_39_word_no_space_7: kangaroosafegadgetrunwayescapeclutchbox
-bip_39_word_no_space_8: kangaroosafegadgetrunwayescapeclutchboxannounce
-bip_39_word_no_space_9: kangaroosafegadgetrunwayescapeclutchboxannounceperson
-bip_39_word_space_0:
-- kangaroo
-- safe
-- gadget
-- runway
-- escape
-- clutch
-- box
-- announce
-- person
-- stem
-- feature
-- art
-bip_39_word_space_1: kangaroo
-bip_39_word_space_10: kangaroo safe gadget runway escape clutch box announce person
-  stem
-bip_39_word_space_11: kangaroo safe gadget runway escape clutch box announce person
-  stem feature
 bip_39_word_space_12: kangaroo safe gadget runway escape clutch box announce person
   stem feature art
 bip_39_word_space_2: kangaroo safe
 bip_39_word_space_3: kangaroo safe gadget
-bip_39_word_space_4: kangaroo safe gadget runway
-bip_39_word_space_5: kangaroo safe gadget runway escape
-bip_39_word_space_6: kangaroo safe gadget runway escape clutch
-bip_39_word_space_7: kangaroo safe gadget runway escape clutch box
-bip_39_word_space_8: kangaroo safe gadget runway escape clutch box announce
-bip_39_word_space_9: kangaroo safe gadget runway escape clutch box announce person
-bip_39_word_underscore_1: kangaroo
-bip_39_word_underscore_10: kangaroo_safe_gadget_runway_escape_clutch_box_announce_person_stem
-bip_39_word_underscore_11: kangaroo_safe_gadget_runway_escape_clutch_box_announce_person_stem_feature
 bip_39_word_underscore_12: kangaroo_safe_gadget_runway_escape_clutch_box_announce_person_stem_feature_art
 bip_39_word_underscore_2: kangaroo_safe
 bip_39_word_underscore_3: kangaroo_safe_gadget
-bip_39_word_underscore_4: kangaroo_safe_gadget_runway
-bip_39_word_underscore_5: kangaroo_safe_gadget_runway_escape
-bip_39_word_underscore_6: kangaroo_safe_gadget_runway_escape_clutch
-bip_39_word_underscore_7: kangaroo_safe_gadget_runway_escape_clutch_box
-bip_39_word_underscore_8: kangaroo_safe_gadget_runway_escape_clutch_box_announce
-bip_39_word_underscore_9: kangaroo_safe_gadget_runway_escape_clutch_box_announce_person
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

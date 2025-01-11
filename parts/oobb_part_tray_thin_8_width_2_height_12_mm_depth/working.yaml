@@ -1,68 +1,9 @@
-bip_39_word_dash_1: trap
-bip_39_word_dash_10: trap-advice-economy-weapon-dwarf-derive-toast-choose-side-boss
-bip_39_word_dash_11: trap-advice-economy-weapon-dwarf-derive-toast-choose-side-boss-cereal
 bip_39_word_dash_12: trap-advice-economy-weapon-dwarf-derive-toast-choose-side-boss-cereal-also
 bip_39_word_dash_2: trap-advice
 bip_39_word_dash_3: trap-advice-economy
-bip_39_word_dash_4: trap-advice-economy-weapon
-bip_39_word_dash_5: trap-advice-economy-weapon-dwarf
-bip_39_word_dash_6: trap-advice-economy-weapon-dwarf-derive
-bip_39_word_dash_7: trap-advice-economy-weapon-dwarf-derive-toast
-bip_39_word_dash_8: trap-advice-economy-weapon-dwarf-derive-toast-choose
-bip_39_word_dash_9: trap-advice-economy-weapon-dwarf-derive-toast-choose-side
-bip_39_word_new_br_1: trap
-bip_39_word_new_br_10: trap<br>advice<br>economy<br>weapon<br>dwarf<br>derive<br>toast<br>choose<br>side<br>boss
-bip_39_word_new_br_11: trap<br>advice<br>economy<br>weapon<br>dwarf<br>derive<br>toast<br>choose<br>side<br>boss<br>cereal
 bip_39_word_new_br_12: trap<br>advice<br>economy<br>weapon<br>dwarf<br>derive<br>toast<br>choose<br>side<br>boss<br>cereal<br>also
 bip_39_word_new_br_2: trap<br>advice
 bip_39_word_new_br_3: trap<br>advice<br>economy
-bip_39_word_new_br_4: trap<br>advice<br>economy<br>weapon
-bip_39_word_new_br_5: trap<br>advice<br>economy<br>weapon<br>dwarf
-bip_39_word_new_br_6: trap<br>advice<br>economy<br>weapon<br>dwarf<br>derive
-bip_39_word_new_br_7: trap<br>advice<br>economy<br>weapon<br>dwarf<br>derive<br>toast
-bip_39_word_new_br_8: trap<br>advice<br>economy<br>weapon<br>dwarf<br>derive<br>toast<br>choose
-bip_39_word_new_br_9: trap<br>advice<br>economy<br>weapon<br>dwarf<br>derive<br>toast<br>choose<br>side
-bip_39_word_new_line_1: trap
-bip_39_word_new_line_10: 'trap
-
-  advice
-
-  economy
-
-  weapon
-
-  dwarf
-
-  derive
-
-  toast
-
-  choose
-
-  side
-
-  boss'
-bip_39_word_new_line_11: 'trap
-
-  advice
-
-  economy
-
-  weapon
-
-  dwarf
-
-  derive
-
-  toast
-
-  choose
-
-  side
-
-  boss
-
-  cereal'
 bip_39_word_new_line_12: 'trap
 
   advice
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'trap
   advice
 
   economy'
-bip_39_word_new_line_4: 'trap
-
-  advice
-
-  economy
-
-  weapon'
-bip_39_word_new_line_5: 'trap
-
-  advice
-
-  economy
-
-  weapon
-
-  dwarf'
-bip_39_word_new_line_6: 'trap
-
-  advice
-
-  economy
-
-  weapon
-
-  dwarf
-
-  derive'
-bip_39_word_new_line_7: 'trap
-
-  advice
-
-  economy
-
-  weapon
-
-  dwarf
-
-  derive
-
-  toast'
-bip_39_word_new_line_8: 'trap
-
-  advice
-
-  economy
-
-  weapon
-
-  dwarf
-
-  derive
-
-  toast
-
-  choose'
-bip_39_word_new_line_9: 'trap
-
-  advice
-
-  economy
-
-  weapon
-
-  dwarf
-
-  derive
-
-  toast
-
-  choose
-
-  side'
-bip_39_word_no_space_1: trap
-bip_39_word_no_space_10: trapadviceeconomyweapondwarfderivetoastchoosesideboss
-bip_39_word_no_space_11: trapadviceeconomyweapondwarfderivetoastchoosesidebosscereal
 bip_39_word_no_space_12: trapadviceeconomyweapondwarfderivetoastchoosesidebosscerealalso
 bip_39_word_no_space_2: trapadvice
 bip_39_word_no_space_3: trapadviceeconomy
-bip_39_word_no_space_4: trapadviceeconomyweapon
-bip_39_word_no_space_5: trapadviceeconomyweapondwarf
-bip_39_word_no_space_6: trapadviceeconomyweapondwarfderive
-bip_39_word_no_space_7: trapadviceeconomyweapondwarfderivetoast
-bip_39_word_no_space_8: trapadviceeconomyweapondwarfderivetoastchoose
-bip_39_word_no_space_9: trapadviceeconomyweapondwarfderivetoastchooseside
-bip_39_word_space_0:
-- trap
-- advice
-- economy
-- weapon
-- dwarf
-- derive
-- toast
-- choose
-- side
-- boss
-- cereal
-- also
-bip_39_word_space_1: trap
-bip_39_word_space_10: trap advice economy weapon dwarf derive toast choose side boss
-bip_39_word_space_11: trap advice economy weapon dwarf derive toast choose side boss
-  cereal
 bip_39_word_space_12: trap advice economy weapon dwarf derive toast choose side boss
   cereal also
 bip_39_word_space_2: trap advice
 bip_39_word_space_3: trap advice economy
-bip_39_word_space_4: trap advice economy weapon
-bip_39_word_space_5: trap advice economy weapon dwarf
-bip_39_word_space_6: trap advice economy weapon dwarf derive
-bip_39_word_space_7: trap advice economy weapon dwarf derive toast
-bip_39_word_space_8: trap advice economy weapon dwarf derive toast choose
-bip_39_word_space_9: trap advice economy weapon dwarf derive toast choose side
-bip_39_word_underscore_1: trap
-bip_39_word_underscore_10: trap_advice_economy_weapon_dwarf_derive_toast_choose_side_boss
-bip_39_word_underscore_11: trap_advice_economy_weapon_dwarf_derive_toast_choose_side_boss_cereal
 bip_39_word_underscore_12: trap_advice_economy_weapon_dwarf_derive_toast_choose_side_boss_cereal_also
 bip_39_word_underscore_2: trap_advice
 bip_39_word_underscore_3: trap_advice_economy
-bip_39_word_underscore_4: trap_advice_economy_weapon
-bip_39_word_underscore_5: trap_advice_economy_weapon_dwarf
-bip_39_word_underscore_6: trap_advice_economy_weapon_dwarf_derive
-bip_39_word_underscore_7: trap_advice_economy_weapon_dwarf_derive_toast
-bip_39_word_underscore_8: trap_advice_economy_weapon_dwarf_derive_toast_choose
-bip_39_word_underscore_9: trap_advice_economy_weapon_dwarf_derive_toast_choose_side
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

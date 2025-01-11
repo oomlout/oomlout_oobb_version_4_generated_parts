@@ -1,68 +1,9 @@
-bip_39_word_dash_1: inform
-bip_39_word_dash_10: inform-sniff-holiday-admit-spawn-orange-help-gaze-tell-wait
-bip_39_word_dash_11: inform-sniff-holiday-admit-spawn-orange-help-gaze-tell-wait-library
 bip_39_word_dash_12: inform-sniff-holiday-admit-spawn-orange-help-gaze-tell-wait-library-assist
 bip_39_word_dash_2: inform-sniff
 bip_39_word_dash_3: inform-sniff-holiday
-bip_39_word_dash_4: inform-sniff-holiday-admit
-bip_39_word_dash_5: inform-sniff-holiday-admit-spawn
-bip_39_word_dash_6: inform-sniff-holiday-admit-spawn-orange
-bip_39_word_dash_7: inform-sniff-holiday-admit-spawn-orange-help
-bip_39_word_dash_8: inform-sniff-holiday-admit-spawn-orange-help-gaze
-bip_39_word_dash_9: inform-sniff-holiday-admit-spawn-orange-help-gaze-tell
-bip_39_word_new_br_1: inform
-bip_39_word_new_br_10: inform<br>sniff<br>holiday<br>admit<br>spawn<br>orange<br>help<br>gaze<br>tell<br>wait
-bip_39_word_new_br_11: inform<br>sniff<br>holiday<br>admit<br>spawn<br>orange<br>help<br>gaze<br>tell<br>wait<br>library
 bip_39_word_new_br_12: inform<br>sniff<br>holiday<br>admit<br>spawn<br>orange<br>help<br>gaze<br>tell<br>wait<br>library<br>assist
 bip_39_word_new_br_2: inform<br>sniff
 bip_39_word_new_br_3: inform<br>sniff<br>holiday
-bip_39_word_new_br_4: inform<br>sniff<br>holiday<br>admit
-bip_39_word_new_br_5: inform<br>sniff<br>holiday<br>admit<br>spawn
-bip_39_word_new_br_6: inform<br>sniff<br>holiday<br>admit<br>spawn<br>orange
-bip_39_word_new_br_7: inform<br>sniff<br>holiday<br>admit<br>spawn<br>orange<br>help
-bip_39_word_new_br_8: inform<br>sniff<br>holiday<br>admit<br>spawn<br>orange<br>help<br>gaze
-bip_39_word_new_br_9: inform<br>sniff<br>holiday<br>admit<br>spawn<br>orange<br>help<br>gaze<br>tell
-bip_39_word_new_line_1: inform
-bip_39_word_new_line_10: 'inform
-
-  sniff
-
-  holiday
-
-  admit
-
-  spawn
-
-  orange
-
-  help
-
-  gaze
-
-  tell
-
-  wait'
-bip_39_word_new_line_11: 'inform
-
-  sniff
-
-  holiday
-
-  admit
-
-  spawn
-
-  orange
-
-  help
-
-  gaze
-
-  tell
-
-  wait
-
-  library'
 bip_39_word_new_line_12: 'inform
 
   sniff
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'inform
   sniff
 
   holiday'
-bip_39_word_new_line_4: 'inform
-
-  sniff
-
-  holiday
-
-  admit'
-bip_39_word_new_line_5: 'inform
-
-  sniff
-
-  holiday
-
-  admit
-
-  spawn'
-bip_39_word_new_line_6: 'inform
-
-  sniff
-
-  holiday
-
-  admit
-
-  spawn
-
-  orange'
-bip_39_word_new_line_7: 'inform
-
-  sniff
-
-  holiday
-
-  admit
-
-  spawn
-
-  orange
-
-  help'
-bip_39_word_new_line_8: 'inform
-
-  sniff
-
-  holiday
-
-  admit
-
-  spawn
-
-  orange
-
-  help
-
-  gaze'
-bip_39_word_new_line_9: 'inform
-
-  sniff
-
-  holiday
-
-  admit
-
-  spawn
-
-  orange
-
-  help
-
-  gaze
-
-  tell'
-bip_39_word_no_space_1: inform
-bip_39_word_no_space_10: informsniffholidayadmitspawnorangehelpgazetellwait
-bip_39_word_no_space_11: informsniffholidayadmitspawnorangehelpgazetellwaitlibrary
 bip_39_word_no_space_12: informsniffholidayadmitspawnorangehelpgazetellwaitlibraryassist
 bip_39_word_no_space_2: informsniff
 bip_39_word_no_space_3: informsniffholiday
-bip_39_word_no_space_4: informsniffholidayadmit
-bip_39_word_no_space_5: informsniffholidayadmitspawn
-bip_39_word_no_space_6: informsniffholidayadmitspawnorange
-bip_39_word_no_space_7: informsniffholidayadmitspawnorangehelp
-bip_39_word_no_space_8: informsniffholidayadmitspawnorangehelpgaze
-bip_39_word_no_space_9: informsniffholidayadmitspawnorangehelpgazetell
-bip_39_word_space_0:
-- inform
-- sniff
-- holiday
-- admit
-- spawn
-- orange
-- help
-- gaze
-- tell
-- wait
-- library
-- assist
-bip_39_word_space_1: inform
-bip_39_word_space_10: inform sniff holiday admit spawn orange help gaze tell wait
-bip_39_word_space_11: inform sniff holiday admit spawn orange help gaze tell wait
-  library
 bip_39_word_space_12: inform sniff holiday admit spawn orange help gaze tell wait
   library assist
 bip_39_word_space_2: inform sniff
 bip_39_word_space_3: inform sniff holiday
-bip_39_word_space_4: inform sniff holiday admit
-bip_39_word_space_5: inform sniff holiday admit spawn
-bip_39_word_space_6: inform sniff holiday admit spawn orange
-bip_39_word_space_7: inform sniff holiday admit spawn orange help
-bip_39_word_space_8: inform sniff holiday admit spawn orange help gaze
-bip_39_word_space_9: inform sniff holiday admit spawn orange help gaze tell
-bip_39_word_underscore_1: inform
-bip_39_word_underscore_10: inform_sniff_holiday_admit_spawn_orange_help_gaze_tell_wait
-bip_39_word_underscore_11: inform_sniff_holiday_admit_spawn_orange_help_gaze_tell_wait_library
 bip_39_word_underscore_12: inform_sniff_holiday_admit_spawn_orange_help_gaze_tell_wait_library_assist
 bip_39_word_underscore_2: inform_sniff
 bip_39_word_underscore_3: inform_sniff_holiday
-bip_39_word_underscore_4: inform_sniff_holiday_admit
-bip_39_word_underscore_5: inform_sniff_holiday_admit_spawn
-bip_39_word_underscore_6: inform_sniff_holiday_admit_spawn_orange
-bip_39_word_underscore_7: inform_sniff_holiday_admit_spawn_orange_help
-bip_39_word_underscore_8: inform_sniff_holiday_admit_spawn_orange_help_gaze
-bip_39_word_underscore_9: inform_sniff_holiday_admit_spawn_orange_help_gaze_tell
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

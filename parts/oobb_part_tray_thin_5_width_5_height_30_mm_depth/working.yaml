@@ -1,68 +1,9 @@
-bip_39_word_dash_1: protect
-bip_39_word_dash_10: protect-border-find-lawn-post-faint-bundle-element-stone-exhaust
-bip_39_word_dash_11: protect-border-find-lawn-post-faint-bundle-element-stone-exhaust-destroy
 bip_39_word_dash_12: protect-border-find-lawn-post-faint-bundle-element-stone-exhaust-destroy-arctic
 bip_39_word_dash_2: protect-border
 bip_39_word_dash_3: protect-border-find
-bip_39_word_dash_4: protect-border-find-lawn
-bip_39_word_dash_5: protect-border-find-lawn-post
-bip_39_word_dash_6: protect-border-find-lawn-post-faint
-bip_39_word_dash_7: protect-border-find-lawn-post-faint-bundle
-bip_39_word_dash_8: protect-border-find-lawn-post-faint-bundle-element
-bip_39_word_dash_9: protect-border-find-lawn-post-faint-bundle-element-stone
-bip_39_word_new_br_1: protect
-bip_39_word_new_br_10: protect<br>border<br>find<br>lawn<br>post<br>faint<br>bundle<br>element<br>stone<br>exhaust
-bip_39_word_new_br_11: protect<br>border<br>find<br>lawn<br>post<br>faint<br>bundle<br>element<br>stone<br>exhaust<br>destroy
 bip_39_word_new_br_12: protect<br>border<br>find<br>lawn<br>post<br>faint<br>bundle<br>element<br>stone<br>exhaust<br>destroy<br>arctic
 bip_39_word_new_br_2: protect<br>border
 bip_39_word_new_br_3: protect<br>border<br>find
-bip_39_word_new_br_4: protect<br>border<br>find<br>lawn
-bip_39_word_new_br_5: protect<br>border<br>find<br>lawn<br>post
-bip_39_word_new_br_6: protect<br>border<br>find<br>lawn<br>post<br>faint
-bip_39_word_new_br_7: protect<br>border<br>find<br>lawn<br>post<br>faint<br>bundle
-bip_39_word_new_br_8: protect<br>border<br>find<br>lawn<br>post<br>faint<br>bundle<br>element
-bip_39_word_new_br_9: protect<br>border<br>find<br>lawn<br>post<br>faint<br>bundle<br>element<br>stone
-bip_39_word_new_line_1: protect
-bip_39_word_new_line_10: 'protect
-
-  border
-
-  find
-
-  lawn
-
-  post
-
-  faint
-
-  bundle
-
-  element
-
-  stone
-
-  exhaust'
-bip_39_word_new_line_11: 'protect
-
-  border
-
-  find
-
-  lawn
-
-  post
-
-  faint
-
-  bundle
-
-  element
-
-  stone
-
-  exhaust
-
-  destroy'
 bip_39_word_new_line_12: 'protect
 
   border
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'protect
   border
 
   find'
-bip_39_word_new_line_4: 'protect
-
-  border
-
-  find
-
-  lawn'
-bip_39_word_new_line_5: 'protect
-
-  border
-
-  find
-
-  lawn
-
-  post'
-bip_39_word_new_line_6: 'protect
-
-  border
-
-  find
-
-  lawn
-
-  post
-
-  faint'
-bip_39_word_new_line_7: 'protect
-
-  border
-
-  find
-
-  lawn
-
-  post
-
-  faint
-
-  bundle'
-bip_39_word_new_line_8: 'protect
-
-  border
-
-  find
-
-  lawn
-
-  post
-
-  faint
-
-  bundle
-
-  element'
-bip_39_word_new_line_9: 'protect
-
-  border
-
-  find
-
-  lawn
-
-  post
-
-  faint
-
-  bundle
-
-  element
-
-  stone'
-bip_39_word_no_space_1: protect
-bip_39_word_no_space_10: protectborderfindlawnpostfaintbundleelementstoneexhaust
-bip_39_word_no_space_11: protectborderfindlawnpostfaintbundleelementstoneexhaustdestroy
 bip_39_word_no_space_12: protectborderfindlawnpostfaintbundleelementstoneexhaustdestroyarctic
 bip_39_word_no_space_2: protectborder
 bip_39_word_no_space_3: protectborderfind
-bip_39_word_no_space_4: protectborderfindlawn
-bip_39_word_no_space_5: protectborderfindlawnpost
-bip_39_word_no_space_6: protectborderfindlawnpostfaint
-bip_39_word_no_space_7: protectborderfindlawnpostfaintbundle
-bip_39_word_no_space_8: protectborderfindlawnpostfaintbundleelement
-bip_39_word_no_space_9: protectborderfindlawnpostfaintbundleelementstone
-bip_39_word_space_0:
-- protect
-- border
-- find
-- lawn
-- post
-- faint
-- bundle
-- element
-- stone
-- exhaust
-- destroy
-- arctic
-bip_39_word_space_1: protect
-bip_39_word_space_10: protect border find lawn post faint bundle element stone exhaust
-bip_39_word_space_11: protect border find lawn post faint bundle element stone exhaust
-  destroy
 bip_39_word_space_12: protect border find lawn post faint bundle element stone exhaust
   destroy arctic
 bip_39_word_space_2: protect border
 bip_39_word_space_3: protect border find
-bip_39_word_space_4: protect border find lawn
-bip_39_word_space_5: protect border find lawn post
-bip_39_word_space_6: protect border find lawn post faint
-bip_39_word_space_7: protect border find lawn post faint bundle
-bip_39_word_space_8: protect border find lawn post faint bundle element
-bip_39_word_space_9: protect border find lawn post faint bundle element stone
-bip_39_word_underscore_1: protect
-bip_39_word_underscore_10: protect_border_find_lawn_post_faint_bundle_element_stone_exhaust
-bip_39_word_underscore_11: protect_border_find_lawn_post_faint_bundle_element_stone_exhaust_destroy
 bip_39_word_underscore_12: protect_border_find_lawn_post_faint_bundle_element_stone_exhaust_destroy_arctic
 bip_39_word_underscore_2: protect_border
 bip_39_word_underscore_3: protect_border_find
-bip_39_word_underscore_4: protect_border_find_lawn
-bip_39_word_underscore_5: protect_border_find_lawn_post
-bip_39_word_underscore_6: protect_border_find_lawn_post_faint
-bip_39_word_underscore_7: protect_border_find_lawn_post_faint_bundle
-bip_39_word_underscore_8: protect_border_find_lawn_post_faint_bundle_element
-bip_39_word_underscore_9: protect_border_find_lawn_post_faint_bundle_element_stone
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

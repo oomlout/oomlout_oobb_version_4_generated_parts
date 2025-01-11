@@ -1,68 +1,9 @@
-bip_39_word_dash_1: inspire
-bip_39_word_dash_10: inspire-fever-large-slim-key-gossip-liquid-pluck-hedgehog-south
-bip_39_word_dash_11: inspire-fever-large-slim-key-gossip-liquid-pluck-hedgehog-south-twist
 bip_39_word_dash_12: inspire-fever-large-slim-key-gossip-liquid-pluck-hedgehog-south-twist-approve
 bip_39_word_dash_2: inspire-fever
 bip_39_word_dash_3: inspire-fever-large
-bip_39_word_dash_4: inspire-fever-large-slim
-bip_39_word_dash_5: inspire-fever-large-slim-key
-bip_39_word_dash_6: inspire-fever-large-slim-key-gossip
-bip_39_word_dash_7: inspire-fever-large-slim-key-gossip-liquid
-bip_39_word_dash_8: inspire-fever-large-slim-key-gossip-liquid-pluck
-bip_39_word_dash_9: inspire-fever-large-slim-key-gossip-liquid-pluck-hedgehog
-bip_39_word_new_br_1: inspire
-bip_39_word_new_br_10: inspire<br>fever<br>large<br>slim<br>key<br>gossip<br>liquid<br>pluck<br>hedgehog<br>south
-bip_39_word_new_br_11: inspire<br>fever<br>large<br>slim<br>key<br>gossip<br>liquid<br>pluck<br>hedgehog<br>south<br>twist
 bip_39_word_new_br_12: inspire<br>fever<br>large<br>slim<br>key<br>gossip<br>liquid<br>pluck<br>hedgehog<br>south<br>twist<br>approve
 bip_39_word_new_br_2: inspire<br>fever
 bip_39_word_new_br_3: inspire<br>fever<br>large
-bip_39_word_new_br_4: inspire<br>fever<br>large<br>slim
-bip_39_word_new_br_5: inspire<br>fever<br>large<br>slim<br>key
-bip_39_word_new_br_6: inspire<br>fever<br>large<br>slim<br>key<br>gossip
-bip_39_word_new_br_7: inspire<br>fever<br>large<br>slim<br>key<br>gossip<br>liquid
-bip_39_word_new_br_8: inspire<br>fever<br>large<br>slim<br>key<br>gossip<br>liquid<br>pluck
-bip_39_word_new_br_9: inspire<br>fever<br>large<br>slim<br>key<br>gossip<br>liquid<br>pluck<br>hedgehog
-bip_39_word_new_line_1: inspire
-bip_39_word_new_line_10: 'inspire
-
-  fever
-
-  large
-
-  slim
-
-  key
-
-  gossip
-
-  liquid
-
-  pluck
-
-  hedgehog
-
-  south'
-bip_39_word_new_line_11: 'inspire
-
-  fever
-
-  large
-
-  slim
-
-  key
-
-  gossip
-
-  liquid
-
-  pluck
-
-  hedgehog
-
-  south
-
-  twist'
 bip_39_word_new_line_12: 'inspire
 
   fever
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'inspire
   fever
 
   large'
-bip_39_word_new_line_4: 'inspire
-
-  fever
-
-  large
-
-  slim'
-bip_39_word_new_line_5: 'inspire
-
-  fever
-
-  large
-
-  slim
-
-  key'
-bip_39_word_new_line_6: 'inspire
-
-  fever
-
-  large
-
-  slim
-
-  key
-
-  gossip'
-bip_39_word_new_line_7: 'inspire
-
-  fever
-
-  large
-
-  slim
-
-  key
-
-  gossip
-
-  liquid'
-bip_39_word_new_line_8: 'inspire
-
-  fever
-
-  large
-
-  slim
-
-  key
-
-  gossip
-
-  liquid
-
-  pluck'
-bip_39_word_new_line_9: 'inspire
-
-  fever
-
-  large
-
-  slim
-
-  key
-
-  gossip
-
-  liquid
-
-  pluck
-
-  hedgehog'
-bip_39_word_no_space_1: inspire
-bip_39_word_no_space_10: inspirefeverlargeslimkeygossipliquidpluckhedgehogsouth
-bip_39_word_no_space_11: inspirefeverlargeslimkeygossipliquidpluckhedgehogsouthtwist
 bip_39_word_no_space_12: inspirefeverlargeslimkeygossipliquidpluckhedgehogsouthtwistapprove
 bip_39_word_no_space_2: inspirefever
 bip_39_word_no_space_3: inspirefeverlarge
-bip_39_word_no_space_4: inspirefeverlargeslim
-bip_39_word_no_space_5: inspirefeverlargeslimkey
-bip_39_word_no_space_6: inspirefeverlargeslimkeygossip
-bip_39_word_no_space_7: inspirefeverlargeslimkeygossipliquid
-bip_39_word_no_space_8: inspirefeverlargeslimkeygossipliquidpluck
-bip_39_word_no_space_9: inspirefeverlargeslimkeygossipliquidpluckhedgehog
-bip_39_word_space_0:
-- inspire
-- fever
-- large
-- slim
-- key
-- gossip
-- liquid
-- pluck
-- hedgehog
-- south
-- twist
-- approve
-bip_39_word_space_1: inspire
-bip_39_word_space_10: inspire fever large slim key gossip liquid pluck hedgehog south
-bip_39_word_space_11: inspire fever large slim key gossip liquid pluck hedgehog south
-  twist
 bip_39_word_space_12: inspire fever large slim key gossip liquid pluck hedgehog south
   twist approve
 bip_39_word_space_2: inspire fever
 bip_39_word_space_3: inspire fever large
-bip_39_word_space_4: inspire fever large slim
-bip_39_word_space_5: inspire fever large slim key
-bip_39_word_space_6: inspire fever large slim key gossip
-bip_39_word_space_7: inspire fever large slim key gossip liquid
-bip_39_word_space_8: inspire fever large slim key gossip liquid pluck
-bip_39_word_space_9: inspire fever large slim key gossip liquid pluck hedgehog
-bip_39_word_underscore_1: inspire
-bip_39_word_underscore_10: inspire_fever_large_slim_key_gossip_liquid_pluck_hedgehog_south
-bip_39_word_underscore_11: inspire_fever_large_slim_key_gossip_liquid_pluck_hedgehog_south_twist
 bip_39_word_underscore_12: inspire_fever_large_slim_key_gossip_liquid_pluck_hedgehog_south_twist_approve
 bip_39_word_underscore_2: inspire_fever
 bip_39_word_underscore_3: inspire_fever_large
-bip_39_word_underscore_4: inspire_fever_large_slim
-bip_39_word_underscore_5: inspire_fever_large_slim_key
-bip_39_word_underscore_6: inspire_fever_large_slim_key_gossip
-bip_39_word_underscore_7: inspire_fever_large_slim_key_gossip_liquid
-bip_39_word_underscore_8: inspire_fever_large_slim_key_gossip_liquid_pluck
-bip_39_word_underscore_9: inspire_fever_large_slim_key_gossip_liquid_pluck_hedgehog
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

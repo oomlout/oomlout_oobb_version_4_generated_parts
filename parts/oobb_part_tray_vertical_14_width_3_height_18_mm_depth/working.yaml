@@ -1,68 +1,9 @@
-bip_39_word_dash_1: equal
-bip_39_word_dash_10: equal-anchor-recall-around-mask-public-easily-canoe-jungle-hidden
-bip_39_word_dash_11: equal-anchor-recall-around-mask-public-easily-canoe-jungle-hidden-corn
 bip_39_word_dash_12: equal-anchor-recall-around-mask-public-easily-canoe-jungle-hidden-corn-accident
 bip_39_word_dash_2: equal-anchor
 bip_39_word_dash_3: equal-anchor-recall
-bip_39_word_dash_4: equal-anchor-recall-around
-bip_39_word_dash_5: equal-anchor-recall-around-mask
-bip_39_word_dash_6: equal-anchor-recall-around-mask-public
-bip_39_word_dash_7: equal-anchor-recall-around-mask-public-easily
-bip_39_word_dash_8: equal-anchor-recall-around-mask-public-easily-canoe
-bip_39_word_dash_9: equal-anchor-recall-around-mask-public-easily-canoe-jungle
-bip_39_word_new_br_1: equal
-bip_39_word_new_br_10: equal<br>anchor<br>recall<br>around<br>mask<br>public<br>easily<br>canoe<br>jungle<br>hidden
-bip_39_word_new_br_11: equal<br>anchor<br>recall<br>around<br>mask<br>public<br>easily<br>canoe<br>jungle<br>hidden<br>corn
 bip_39_word_new_br_12: equal<br>anchor<br>recall<br>around<br>mask<br>public<br>easily<br>canoe<br>jungle<br>hidden<br>corn<br>accident
 bip_39_word_new_br_2: equal<br>anchor
 bip_39_word_new_br_3: equal<br>anchor<br>recall
-bip_39_word_new_br_4: equal<br>anchor<br>recall<br>around
-bip_39_word_new_br_5: equal<br>anchor<br>recall<br>around<br>mask
-bip_39_word_new_br_6: equal<br>anchor<br>recall<br>around<br>mask<br>public
-bip_39_word_new_br_7: equal<br>anchor<br>recall<br>around<br>mask<br>public<br>easily
-bip_39_word_new_br_8: equal<br>anchor<br>recall<br>around<br>mask<br>public<br>easily<br>canoe
-bip_39_word_new_br_9: equal<br>anchor<br>recall<br>around<br>mask<br>public<br>easily<br>canoe<br>jungle
-bip_39_word_new_line_1: equal
-bip_39_word_new_line_10: 'equal
-
-  anchor
-
-  recall
-
-  around
-
-  mask
-
-  public
-
-  easily
-
-  canoe
-
-  jungle
-
-  hidden'
-bip_39_word_new_line_11: 'equal
-
-  anchor
-
-  recall
-
-  around
-
-  mask
-
-  public
-
-  easily
-
-  canoe
-
-  jungle
-
-  hidden
-
-  corn'
 bip_39_word_new_line_12: 'equal
 
   anchor
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'equal
   anchor
 
   recall'
-bip_39_word_new_line_4: 'equal
-
-  anchor
-
-  recall
-
-  around'
-bip_39_word_new_line_5: 'equal
-
-  anchor
-
-  recall
-
-  around
-
-  mask'
-bip_39_word_new_line_6: 'equal
-
-  anchor
-
-  recall
-
-  around
-
-  mask
-
-  public'
-bip_39_word_new_line_7: 'equal
-
-  anchor
-
-  recall
-
-  around
-
-  mask
-
-  public
-
-  easily'
-bip_39_word_new_line_8: 'equal
-
-  anchor
-
-  recall
-
-  around
-
-  mask
-
-  public
-
-  easily
-
-  canoe'
-bip_39_word_new_line_9: 'equal
-
-  anchor
-
-  recall
-
-  around
-
-  mask
-
-  public
-
-  easily
-
-  canoe
-
-  jungle'
-bip_39_word_no_space_1: equal
-bip_39_word_no_space_10: equalanchorrecallaroundmaskpubliceasilycanoejunglehidden
-bip_39_word_no_space_11: equalanchorrecallaroundmaskpubliceasilycanoejunglehiddencorn
 bip_39_word_no_space_12: equalanchorrecallaroundmaskpubliceasilycanoejunglehiddencornaccident
 bip_39_word_no_space_2: equalanchor
 bip_39_word_no_space_3: equalanchorrecall
-bip_39_word_no_space_4: equalanchorrecallaround
-bip_39_word_no_space_5: equalanchorrecallaroundmask
-bip_39_word_no_space_6: equalanchorrecallaroundmaskpublic
-bip_39_word_no_space_7: equalanchorrecallaroundmaskpubliceasily
-bip_39_word_no_space_8: equalanchorrecallaroundmaskpubliceasilycanoe
-bip_39_word_no_space_9: equalanchorrecallaroundmaskpubliceasilycanoejungle
-bip_39_word_space_0:
-- equal
-- anchor
-- recall
-- around
-- mask
-- public
-- easily
-- canoe
-- jungle
-- hidden
-- corn
-- accident
-bip_39_word_space_1: equal
-bip_39_word_space_10: equal anchor recall around mask public easily canoe jungle hidden
-bip_39_word_space_11: equal anchor recall around mask public easily canoe jungle hidden
-  corn
 bip_39_word_space_12: equal anchor recall around mask public easily canoe jungle hidden
   corn accident
 bip_39_word_space_2: equal anchor
 bip_39_word_space_3: equal anchor recall
-bip_39_word_space_4: equal anchor recall around
-bip_39_word_space_5: equal anchor recall around mask
-bip_39_word_space_6: equal anchor recall around mask public
-bip_39_word_space_7: equal anchor recall around mask public easily
-bip_39_word_space_8: equal anchor recall around mask public easily canoe
-bip_39_word_space_9: equal anchor recall around mask public easily canoe jungle
-bip_39_word_underscore_1: equal
-bip_39_word_underscore_10: equal_anchor_recall_around_mask_public_easily_canoe_jungle_hidden
-bip_39_word_underscore_11: equal_anchor_recall_around_mask_public_easily_canoe_jungle_hidden_corn
 bip_39_word_underscore_12: equal_anchor_recall_around_mask_public_easily_canoe_jungle_hidden_corn_accident
 bip_39_word_underscore_2: equal_anchor
 bip_39_word_underscore_3: equal_anchor_recall
-bip_39_word_underscore_4: equal_anchor_recall_around
-bip_39_word_underscore_5: equal_anchor_recall_around_mask
-bip_39_word_underscore_6: equal_anchor_recall_around_mask_public
-bip_39_word_underscore_7: equal_anchor_recall_around_mask_public_easily
-bip_39_word_underscore_8: equal_anchor_recall_around_mask_public_easily_canoe
-bip_39_word_underscore_9: equal_anchor_recall_around_mask_public_easily_canoe_jungle
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

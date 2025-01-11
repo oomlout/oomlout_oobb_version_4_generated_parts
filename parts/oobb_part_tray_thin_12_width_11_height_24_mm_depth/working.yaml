@@ -1,68 +1,9 @@
-bip_39_word_dash_1: core
-bip_39_word_dash_10: core-goose-devote-also-eternal-pull-silent-orbit-door-resist
-bip_39_word_dash_11: core-goose-devote-also-eternal-pull-silent-orbit-door-resist-patrol
 bip_39_word_dash_12: core-goose-devote-also-eternal-pull-silent-orbit-door-resist-patrol-alone
 bip_39_word_dash_2: core-goose
 bip_39_word_dash_3: core-goose-devote
-bip_39_word_dash_4: core-goose-devote-also
-bip_39_word_dash_5: core-goose-devote-also-eternal
-bip_39_word_dash_6: core-goose-devote-also-eternal-pull
-bip_39_word_dash_7: core-goose-devote-also-eternal-pull-silent
-bip_39_word_dash_8: core-goose-devote-also-eternal-pull-silent-orbit
-bip_39_word_dash_9: core-goose-devote-also-eternal-pull-silent-orbit-door
-bip_39_word_new_br_1: core
-bip_39_word_new_br_10: core<br>goose<br>devote<br>also<br>eternal<br>pull<br>silent<br>orbit<br>door<br>resist
-bip_39_word_new_br_11: core<br>goose<br>devote<br>also<br>eternal<br>pull<br>silent<br>orbit<br>door<br>resist<br>patrol
 bip_39_word_new_br_12: core<br>goose<br>devote<br>also<br>eternal<br>pull<br>silent<br>orbit<br>door<br>resist<br>patrol<br>alone
 bip_39_word_new_br_2: core<br>goose
 bip_39_word_new_br_3: core<br>goose<br>devote
-bip_39_word_new_br_4: core<br>goose<br>devote<br>also
-bip_39_word_new_br_5: core<br>goose<br>devote<br>also<br>eternal
-bip_39_word_new_br_6: core<br>goose<br>devote<br>also<br>eternal<br>pull
-bip_39_word_new_br_7: core<br>goose<br>devote<br>also<br>eternal<br>pull<br>silent
-bip_39_word_new_br_8: core<br>goose<br>devote<br>also<br>eternal<br>pull<br>silent<br>orbit
-bip_39_word_new_br_9: core<br>goose<br>devote<br>also<br>eternal<br>pull<br>silent<br>orbit<br>door
-bip_39_word_new_line_1: core
-bip_39_word_new_line_10: 'core
-
-  goose
-
-  devote
-
-  also
-
-  eternal
-
-  pull
-
-  silent
-
-  orbit
-
-  door
-
-  resist'
-bip_39_word_new_line_11: 'core
-
-  goose
-
-  devote
-
-  also
-
-  eternal
-
-  pull
-
-  silent
-
-  orbit
-
-  door
-
-  resist
-
-  patrol'
 bip_39_word_new_line_12: 'core
 
   goose
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'core
   goose
 
   devote'
-bip_39_word_new_line_4: 'core
-
-  goose
-
-  devote
-
-  also'
-bip_39_word_new_line_5: 'core
-
-  goose
-
-  devote
-
-  also
-
-  eternal'
-bip_39_word_new_line_6: 'core
-
-  goose
-
-  devote
-
-  also
-
-  eternal
-
-  pull'
-bip_39_word_new_line_7: 'core
-
-  goose
-
-  devote
-
-  also
-
-  eternal
-
-  pull
-
-  silent'
-bip_39_word_new_line_8: 'core
-
-  goose
-
-  devote
-
-  also
-
-  eternal
-
-  pull
-
-  silent
-
-  orbit'
-bip_39_word_new_line_9: 'core
-
-  goose
-
-  devote
-
-  also
-
-  eternal
-
-  pull
-
-  silent
-
-  orbit
-
-  door'
-bip_39_word_no_space_1: core
-bip_39_word_no_space_10: coregoosedevotealsoeternalpullsilentorbitdoorresist
-bip_39_word_no_space_11: coregoosedevotealsoeternalpullsilentorbitdoorresistpatrol
 bip_39_word_no_space_12: coregoosedevotealsoeternalpullsilentorbitdoorresistpatrolalone
 bip_39_word_no_space_2: coregoose
 bip_39_word_no_space_3: coregoosedevote
-bip_39_word_no_space_4: coregoosedevotealso
-bip_39_word_no_space_5: coregoosedevotealsoeternal
-bip_39_word_no_space_6: coregoosedevotealsoeternalpull
-bip_39_word_no_space_7: coregoosedevotealsoeternalpullsilent
-bip_39_word_no_space_8: coregoosedevotealsoeternalpullsilentorbit
-bip_39_word_no_space_9: coregoosedevotealsoeternalpullsilentorbitdoor
-bip_39_word_space_0:
-- core
-- goose
-- devote
-- also
-- eternal
-- pull
-- silent
-- orbit
-- door
-- resist
-- patrol
-- alone
-bip_39_word_space_1: core
-bip_39_word_space_10: core goose devote also eternal pull silent orbit door resist
-bip_39_word_space_11: core goose devote also eternal pull silent orbit door resist
-  patrol
 bip_39_word_space_12: core goose devote also eternal pull silent orbit door resist
   patrol alone
 bip_39_word_space_2: core goose
 bip_39_word_space_3: core goose devote
-bip_39_word_space_4: core goose devote also
-bip_39_word_space_5: core goose devote also eternal
-bip_39_word_space_6: core goose devote also eternal pull
-bip_39_word_space_7: core goose devote also eternal pull silent
-bip_39_word_space_8: core goose devote also eternal pull silent orbit
-bip_39_word_space_9: core goose devote also eternal pull silent orbit door
-bip_39_word_underscore_1: core
-bip_39_word_underscore_10: core_goose_devote_also_eternal_pull_silent_orbit_door_resist
-bip_39_word_underscore_11: core_goose_devote_also_eternal_pull_silent_orbit_door_resist_patrol
 bip_39_word_underscore_12: core_goose_devote_also_eternal_pull_silent_orbit_door_resist_patrol_alone
 bip_39_word_underscore_2: core_goose
 bip_39_word_underscore_3: core_goose_devote
-bip_39_word_underscore_4: core_goose_devote_also
-bip_39_word_underscore_5: core_goose_devote_also_eternal
-bip_39_word_underscore_6: core_goose_devote_also_eternal_pull
-bip_39_word_underscore_7: core_goose_devote_also_eternal_pull_silent
-bip_39_word_underscore_8: core_goose_devote_also_eternal_pull_silent_orbit
-bip_39_word_underscore_9: core_goose_devote_also_eternal_pull_silent_orbit_door
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

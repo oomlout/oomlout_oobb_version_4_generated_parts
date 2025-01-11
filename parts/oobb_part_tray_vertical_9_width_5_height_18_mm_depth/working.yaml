@@ -1,68 +1,9 @@
-bip_39_word_dash_1: tape
-bip_39_word_dash_10: tape-float-divide-finish-alien-claim-element-soap-size-novel
-bip_39_word_dash_11: tape-float-divide-finish-alien-claim-element-soap-size-novel-riot
 bip_39_word_dash_12: tape-float-divide-finish-alien-claim-element-soap-size-novel-riot-affair
 bip_39_word_dash_2: tape-float
 bip_39_word_dash_3: tape-float-divide
-bip_39_word_dash_4: tape-float-divide-finish
-bip_39_word_dash_5: tape-float-divide-finish-alien
-bip_39_word_dash_6: tape-float-divide-finish-alien-claim
-bip_39_word_dash_7: tape-float-divide-finish-alien-claim-element
-bip_39_word_dash_8: tape-float-divide-finish-alien-claim-element-soap
-bip_39_word_dash_9: tape-float-divide-finish-alien-claim-element-soap-size
-bip_39_word_new_br_1: tape
-bip_39_word_new_br_10: tape<br>float<br>divide<br>finish<br>alien<br>claim<br>element<br>soap<br>size<br>novel
-bip_39_word_new_br_11: tape<br>float<br>divide<br>finish<br>alien<br>claim<br>element<br>soap<br>size<br>novel<br>riot
 bip_39_word_new_br_12: tape<br>float<br>divide<br>finish<br>alien<br>claim<br>element<br>soap<br>size<br>novel<br>riot<br>affair
 bip_39_word_new_br_2: tape<br>float
 bip_39_word_new_br_3: tape<br>float<br>divide
-bip_39_word_new_br_4: tape<br>float<br>divide<br>finish
-bip_39_word_new_br_5: tape<br>float<br>divide<br>finish<br>alien
-bip_39_word_new_br_6: tape<br>float<br>divide<br>finish<br>alien<br>claim
-bip_39_word_new_br_7: tape<br>float<br>divide<br>finish<br>alien<br>claim<br>element
-bip_39_word_new_br_8: tape<br>float<br>divide<br>finish<br>alien<br>claim<br>element<br>soap
-bip_39_word_new_br_9: tape<br>float<br>divide<br>finish<br>alien<br>claim<br>element<br>soap<br>size
-bip_39_word_new_line_1: tape
-bip_39_word_new_line_10: 'tape
-
-  float
-
-  divide
-
-  finish
-
-  alien
-
-  claim
-
-  element
-
-  soap
-
-  size
-
-  novel'
-bip_39_word_new_line_11: 'tape
-
-  float
-
-  divide
-
-  finish
-
-  alien
-
-  claim
-
-  element
-
-  soap
-
-  size
-
-  novel
-
-  riot'
 bip_39_word_new_line_12: 'tape
 
   float
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'tape
   float
 
   divide'
-bip_39_word_new_line_4: 'tape
-
-  float
-
-  divide
-
-  finish'
-bip_39_word_new_line_5: 'tape
-
-  float
-
-  divide
-
-  finish
-
-  alien'
-bip_39_word_new_line_6: 'tape
-
-  float
-
-  divide
-
-  finish
-
-  alien
-
-  claim'
-bip_39_word_new_line_7: 'tape
-
-  float
-
-  divide
-
-  finish
-
-  alien
-
-  claim
-
-  element'
-bip_39_word_new_line_8: 'tape
-
-  float
-
-  divide
-
-  finish
-
-  alien
-
-  claim
-
-  element
-
-  soap'
-bip_39_word_new_line_9: 'tape
-
-  float
-
-  divide
-
-  finish
-
-  alien
-
-  claim
-
-  element
-
-  soap
-
-  size'
-bip_39_word_no_space_1: tape
-bip_39_word_no_space_10: tapefloatdividefinishalienclaimelementsoapsizenovel
-bip_39_word_no_space_11: tapefloatdividefinishalienclaimelementsoapsizenovelriot
 bip_39_word_no_space_12: tapefloatdividefinishalienclaimelementsoapsizenovelriotaffair
 bip_39_word_no_space_2: tapefloat
 bip_39_word_no_space_3: tapefloatdivide
-bip_39_word_no_space_4: tapefloatdividefinish
-bip_39_word_no_space_5: tapefloatdividefinishalien
-bip_39_word_no_space_6: tapefloatdividefinishalienclaim
-bip_39_word_no_space_7: tapefloatdividefinishalienclaimelement
-bip_39_word_no_space_8: tapefloatdividefinishalienclaimelementsoap
-bip_39_word_no_space_9: tapefloatdividefinishalienclaimelementsoapsize
-bip_39_word_space_0:
-- tape
-- float
-- divide
-- finish
-- alien
-- claim
-- element
-- soap
-- size
-- novel
-- riot
-- affair
-bip_39_word_space_1: tape
-bip_39_word_space_10: tape float divide finish alien claim element soap size novel
-bip_39_word_space_11: tape float divide finish alien claim element soap size novel
-  riot
 bip_39_word_space_12: tape float divide finish alien claim element soap size novel
   riot affair
 bip_39_word_space_2: tape float
 bip_39_word_space_3: tape float divide
-bip_39_word_space_4: tape float divide finish
-bip_39_word_space_5: tape float divide finish alien
-bip_39_word_space_6: tape float divide finish alien claim
-bip_39_word_space_7: tape float divide finish alien claim element
-bip_39_word_space_8: tape float divide finish alien claim element soap
-bip_39_word_space_9: tape float divide finish alien claim element soap size
-bip_39_word_underscore_1: tape
-bip_39_word_underscore_10: tape_float_divide_finish_alien_claim_element_soap_size_novel
-bip_39_word_underscore_11: tape_float_divide_finish_alien_claim_element_soap_size_novel_riot
 bip_39_word_underscore_12: tape_float_divide_finish_alien_claim_element_soap_size_novel_riot_affair
 bip_39_word_underscore_2: tape_float
 bip_39_word_underscore_3: tape_float_divide
-bip_39_word_underscore_4: tape_float_divide_finish
-bip_39_word_underscore_5: tape_float_divide_finish_alien
-bip_39_word_underscore_6: tape_float_divide_finish_alien_claim
-bip_39_word_underscore_7: tape_float_divide_finish_alien_claim_element
-bip_39_word_underscore_8: tape_float_divide_finish_alien_claim_element_soap
-bip_39_word_underscore_9: tape_float_divide_finish_alien_claim_element_soap_size
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

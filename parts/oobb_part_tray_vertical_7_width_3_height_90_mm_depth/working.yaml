@@ -1,68 +1,9 @@
-bip_39_word_dash_1: sail
-bip_39_word_dash_10: sail-bread-thunder-despair-middle-inquiry-interest-thought-total-cabbage
-bip_39_word_dash_11: sail-bread-thunder-despair-middle-inquiry-interest-thought-total-cabbage-panther
 bip_39_word_dash_12: sail-bread-thunder-despair-middle-inquiry-interest-thought-total-cabbage-panther-anchor
 bip_39_word_dash_2: sail-bread
 bip_39_word_dash_3: sail-bread-thunder
-bip_39_word_dash_4: sail-bread-thunder-despair
-bip_39_word_dash_5: sail-bread-thunder-despair-middle
-bip_39_word_dash_6: sail-bread-thunder-despair-middle-inquiry
-bip_39_word_dash_7: sail-bread-thunder-despair-middle-inquiry-interest
-bip_39_word_dash_8: sail-bread-thunder-despair-middle-inquiry-interest-thought
-bip_39_word_dash_9: sail-bread-thunder-despair-middle-inquiry-interest-thought-total
-bip_39_word_new_br_1: sail
-bip_39_word_new_br_10: sail<br>bread<br>thunder<br>despair<br>middle<br>inquiry<br>interest<br>thought<br>total<br>cabbage
-bip_39_word_new_br_11: sail<br>bread<br>thunder<br>despair<br>middle<br>inquiry<br>interest<br>thought<br>total<br>cabbage<br>panther
 bip_39_word_new_br_12: sail<br>bread<br>thunder<br>despair<br>middle<br>inquiry<br>interest<br>thought<br>total<br>cabbage<br>panther<br>anchor
 bip_39_word_new_br_2: sail<br>bread
 bip_39_word_new_br_3: sail<br>bread<br>thunder
-bip_39_word_new_br_4: sail<br>bread<br>thunder<br>despair
-bip_39_word_new_br_5: sail<br>bread<br>thunder<br>despair<br>middle
-bip_39_word_new_br_6: sail<br>bread<br>thunder<br>despair<br>middle<br>inquiry
-bip_39_word_new_br_7: sail<br>bread<br>thunder<br>despair<br>middle<br>inquiry<br>interest
-bip_39_word_new_br_8: sail<br>bread<br>thunder<br>despair<br>middle<br>inquiry<br>interest<br>thought
-bip_39_word_new_br_9: sail<br>bread<br>thunder<br>despair<br>middle<br>inquiry<br>interest<br>thought<br>total
-bip_39_word_new_line_1: sail
-bip_39_word_new_line_10: 'sail
-
-  bread
-
-  thunder
-
-  despair
-
-  middle
-
-  inquiry
-
-  interest
-
-  thought
-
-  total
-
-  cabbage'
-bip_39_word_new_line_11: 'sail
-
-  bread
-
-  thunder
-
-  despair
-
-  middle
-
-  inquiry
-
-  interest
-
-  thought
-
-  total
-
-  cabbage
-
-  panther'
 bip_39_word_new_line_12: 'sail
 
   bread
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'sail
   bread
 
   thunder'
-bip_39_word_new_line_4: 'sail
-
-  bread
-
-  thunder
-
-  despair'
-bip_39_word_new_line_5: 'sail
-
-  bread
-
-  thunder
-
-  despair
-
-  middle'
-bip_39_word_new_line_6: 'sail
-
-  bread
-
-  thunder
-
-  despair
-
-  middle
-
-  inquiry'
-bip_39_word_new_line_7: 'sail
-
-  bread
-
-  thunder
-
-  despair
-
-  middle
-
-  inquiry
-
-  interest'
-bip_39_word_new_line_8: 'sail
-
-  bread
-
-  thunder
-
-  despair
-
-  middle
-
-  inquiry
-
-  interest
-
-  thought'
-bip_39_word_new_line_9: 'sail
-
-  bread
-
-  thunder
-
-  despair
-
-  middle
-
-  inquiry
-
-  interest
-
-  thought
-
-  total'
-bip_39_word_no_space_1: sail
-bip_39_word_no_space_10: sailbreadthunderdespairmiddleinquiryinterestthoughttotalcabbage
-bip_39_word_no_space_11: sailbreadthunderdespairmiddleinquiryinterestthoughttotalcabbagepanther
 bip_39_word_no_space_12: sailbreadthunderdespairmiddleinquiryinterestthoughttotalcabbagepantheranchor
 bip_39_word_no_space_2: sailbread
 bip_39_word_no_space_3: sailbreadthunder
-bip_39_word_no_space_4: sailbreadthunderdespair
-bip_39_word_no_space_5: sailbreadthunderdespairmiddle
-bip_39_word_no_space_6: sailbreadthunderdespairmiddleinquiry
-bip_39_word_no_space_7: sailbreadthunderdespairmiddleinquiryinterest
-bip_39_word_no_space_8: sailbreadthunderdespairmiddleinquiryinterestthought
-bip_39_word_no_space_9: sailbreadthunderdespairmiddleinquiryinterestthoughttotal
-bip_39_word_space_0:
-- sail
-- bread
-- thunder
-- despair
-- middle
-- inquiry
-- interest
-- thought
-- total
-- cabbage
-- panther
-- anchor
-bip_39_word_space_1: sail
-bip_39_word_space_10: sail bread thunder despair middle inquiry interest thought total
-  cabbage
-bip_39_word_space_11: sail bread thunder despair middle inquiry interest thought total
-  cabbage panther
 bip_39_word_space_12: sail bread thunder despair middle inquiry interest thought total
   cabbage panther anchor
 bip_39_word_space_2: sail bread
 bip_39_word_space_3: sail bread thunder
-bip_39_word_space_4: sail bread thunder despair
-bip_39_word_space_5: sail bread thunder despair middle
-bip_39_word_space_6: sail bread thunder despair middle inquiry
-bip_39_word_space_7: sail bread thunder despair middle inquiry interest
-bip_39_word_space_8: sail bread thunder despair middle inquiry interest thought
-bip_39_word_space_9: sail bread thunder despair middle inquiry interest thought total
-bip_39_word_underscore_1: sail
-bip_39_word_underscore_10: sail_bread_thunder_despair_middle_inquiry_interest_thought_total_cabbage
-bip_39_word_underscore_11: sail_bread_thunder_despair_middle_inquiry_interest_thought_total_cabbage_panther
 bip_39_word_underscore_12: sail_bread_thunder_despair_middle_inquiry_interest_thought_total_cabbage_panther_anchor
 bip_39_word_underscore_2: sail_bread
 bip_39_word_underscore_3: sail_bread_thunder
-bip_39_word_underscore_4: sail_bread_thunder_despair
-bip_39_word_underscore_5: sail_bread_thunder_despair_middle
-bip_39_word_underscore_6: sail_bread_thunder_despair_middle_inquiry
-bip_39_word_underscore_7: sail_bread_thunder_despair_middle_inquiry_interest
-bip_39_word_underscore_8: sail_bread_thunder_despair_middle_inquiry_interest_thought
-bip_39_word_underscore_9: sail_bread_thunder_despair_middle_inquiry_interest_thought_total
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

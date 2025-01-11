@@ -1,68 +1,9 @@
-bip_39_word_dash_1: attack
-bip_39_word_dash_10: attack-blast-receive-cause-awake-resemble-idea-couple-travel-glass
-bip_39_word_dash_11: attack-blast-receive-cause-awake-resemble-idea-couple-travel-glass-radio
 bip_39_word_dash_12: attack-blast-receive-cause-awake-resemble-idea-couple-travel-glass-radio-attitude
 bip_39_word_dash_2: attack-blast
 bip_39_word_dash_3: attack-blast-receive
-bip_39_word_dash_4: attack-blast-receive-cause
-bip_39_word_dash_5: attack-blast-receive-cause-awake
-bip_39_word_dash_6: attack-blast-receive-cause-awake-resemble
-bip_39_word_dash_7: attack-blast-receive-cause-awake-resemble-idea
-bip_39_word_dash_8: attack-blast-receive-cause-awake-resemble-idea-couple
-bip_39_word_dash_9: attack-blast-receive-cause-awake-resemble-idea-couple-travel
-bip_39_word_new_br_1: attack
-bip_39_word_new_br_10: attack<br>blast<br>receive<br>cause<br>awake<br>resemble<br>idea<br>couple<br>travel<br>glass
-bip_39_word_new_br_11: attack<br>blast<br>receive<br>cause<br>awake<br>resemble<br>idea<br>couple<br>travel<br>glass<br>radio
 bip_39_word_new_br_12: attack<br>blast<br>receive<br>cause<br>awake<br>resemble<br>idea<br>couple<br>travel<br>glass<br>radio<br>attitude
 bip_39_word_new_br_2: attack<br>blast
 bip_39_word_new_br_3: attack<br>blast<br>receive
-bip_39_word_new_br_4: attack<br>blast<br>receive<br>cause
-bip_39_word_new_br_5: attack<br>blast<br>receive<br>cause<br>awake
-bip_39_word_new_br_6: attack<br>blast<br>receive<br>cause<br>awake<br>resemble
-bip_39_word_new_br_7: attack<br>blast<br>receive<br>cause<br>awake<br>resemble<br>idea
-bip_39_word_new_br_8: attack<br>blast<br>receive<br>cause<br>awake<br>resemble<br>idea<br>couple
-bip_39_word_new_br_9: attack<br>blast<br>receive<br>cause<br>awake<br>resemble<br>idea<br>couple<br>travel
-bip_39_word_new_line_1: attack
-bip_39_word_new_line_10: 'attack
-
-  blast
-
-  receive
-
-  cause
-
-  awake
-
-  resemble
-
-  idea
-
-  couple
-
-  travel
-
-  glass'
-bip_39_word_new_line_11: 'attack
-
-  blast
-
-  receive
-
-  cause
-
-  awake
-
-  resemble
-
-  idea
-
-  couple
-
-  travel
-
-  glass
-
-  radio'
 bip_39_word_new_line_12: 'attack
 
   blast
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'attack
   blast
 
   receive'
-bip_39_word_new_line_4: 'attack
-
-  blast
-
-  receive
-
-  cause'
-bip_39_word_new_line_5: 'attack
-
-  blast
-
-  receive
-
-  cause
-
-  awake'
-bip_39_word_new_line_6: 'attack
-
-  blast
-
-  receive
-
-  cause
-
-  awake
-
-  resemble'
-bip_39_word_new_line_7: 'attack
-
-  blast
-
-  receive
-
-  cause
-
-  awake
-
-  resemble
-
-  idea'
-bip_39_word_new_line_8: 'attack
-
-  blast
-
-  receive
-
-  cause
-
-  awake
-
-  resemble
-
-  idea
-
-  couple'
-bip_39_word_new_line_9: 'attack
-
-  blast
-
-  receive
-
-  cause
-
-  awake
-
-  resemble
-
-  idea
-
-  couple
-
-  travel'
-bip_39_word_no_space_1: attack
-bip_39_word_no_space_10: attackblastreceivecauseawakeresembleideacoupletravelglass
-bip_39_word_no_space_11: attackblastreceivecauseawakeresembleideacoupletravelglassradio
 bip_39_word_no_space_12: attackblastreceivecauseawakeresembleideacoupletravelglassradioattitude
 bip_39_word_no_space_2: attackblast
 bip_39_word_no_space_3: attackblastreceive
-bip_39_word_no_space_4: attackblastreceivecause
-bip_39_word_no_space_5: attackblastreceivecauseawake
-bip_39_word_no_space_6: attackblastreceivecauseawakeresemble
-bip_39_word_no_space_7: attackblastreceivecauseawakeresembleidea
-bip_39_word_no_space_8: attackblastreceivecauseawakeresembleideacouple
-bip_39_word_no_space_9: attackblastreceivecauseawakeresembleideacoupletravel
-bip_39_word_space_0:
-- attack
-- blast
-- receive
-- cause
-- awake
-- resemble
-- idea
-- couple
-- travel
-- glass
-- radio
-- attitude
-bip_39_word_space_1: attack
-bip_39_word_space_10: attack blast receive cause awake resemble idea couple travel
-  glass
-bip_39_word_space_11: attack blast receive cause awake resemble idea couple travel
-  glass radio
 bip_39_word_space_12: attack blast receive cause awake resemble idea couple travel
   glass radio attitude
 bip_39_word_space_2: attack blast
 bip_39_word_space_3: attack blast receive
-bip_39_word_space_4: attack blast receive cause
-bip_39_word_space_5: attack blast receive cause awake
-bip_39_word_space_6: attack blast receive cause awake resemble
-bip_39_word_space_7: attack blast receive cause awake resemble idea
-bip_39_word_space_8: attack blast receive cause awake resemble idea couple
-bip_39_word_space_9: attack blast receive cause awake resemble idea couple travel
-bip_39_word_underscore_1: attack
-bip_39_word_underscore_10: attack_blast_receive_cause_awake_resemble_idea_couple_travel_glass
-bip_39_word_underscore_11: attack_blast_receive_cause_awake_resemble_idea_couple_travel_glass_radio
 bip_39_word_underscore_12: attack_blast_receive_cause_awake_resemble_idea_couple_travel_glass_radio_attitude
 bip_39_word_underscore_2: attack_blast
 bip_39_word_underscore_3: attack_blast_receive
-bip_39_word_underscore_4: attack_blast_receive_cause
-bip_39_word_underscore_5: attack_blast_receive_cause_awake
-bip_39_word_underscore_6: attack_blast_receive_cause_awake_resemble
-bip_39_word_underscore_7: attack_blast_receive_cause_awake_resemble_idea
-bip_39_word_underscore_8: attack_blast_receive_cause_awake_resemble_idea_couple
-bip_39_word_underscore_9: attack_blast_receive_cause_awake_resemble_idea_couple_travel
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

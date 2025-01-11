@@ -1,68 +1,9 @@
-bip_39_word_dash_1: cross
-bip_39_word_dash_10: cross-side-hawk-olive-crime-hair-poverty-idle-flame-cradle
-bip_39_word_dash_11: cross-side-hawk-olive-crime-hair-poverty-idle-flame-cradle-profit
 bip_39_word_dash_12: cross-side-hawk-olive-crime-hair-poverty-idle-flame-cradle-profit-around
 bip_39_word_dash_2: cross-side
 bip_39_word_dash_3: cross-side-hawk
-bip_39_word_dash_4: cross-side-hawk-olive
-bip_39_word_dash_5: cross-side-hawk-olive-crime
-bip_39_word_dash_6: cross-side-hawk-olive-crime-hair
-bip_39_word_dash_7: cross-side-hawk-olive-crime-hair-poverty
-bip_39_word_dash_8: cross-side-hawk-olive-crime-hair-poverty-idle
-bip_39_word_dash_9: cross-side-hawk-olive-crime-hair-poverty-idle-flame
-bip_39_word_new_br_1: cross
-bip_39_word_new_br_10: cross<br>side<br>hawk<br>olive<br>crime<br>hair<br>poverty<br>idle<br>flame<br>cradle
-bip_39_word_new_br_11: cross<br>side<br>hawk<br>olive<br>crime<br>hair<br>poverty<br>idle<br>flame<br>cradle<br>profit
 bip_39_word_new_br_12: cross<br>side<br>hawk<br>olive<br>crime<br>hair<br>poverty<br>idle<br>flame<br>cradle<br>profit<br>around
 bip_39_word_new_br_2: cross<br>side
 bip_39_word_new_br_3: cross<br>side<br>hawk
-bip_39_word_new_br_4: cross<br>side<br>hawk<br>olive
-bip_39_word_new_br_5: cross<br>side<br>hawk<br>olive<br>crime
-bip_39_word_new_br_6: cross<br>side<br>hawk<br>olive<br>crime<br>hair
-bip_39_word_new_br_7: cross<br>side<br>hawk<br>olive<br>crime<br>hair<br>poverty
-bip_39_word_new_br_8: cross<br>side<br>hawk<br>olive<br>crime<br>hair<br>poverty<br>idle
-bip_39_word_new_br_9: cross<br>side<br>hawk<br>olive<br>crime<br>hair<br>poverty<br>idle<br>flame
-bip_39_word_new_line_1: cross
-bip_39_word_new_line_10: 'cross
-
-  side
-
-  hawk
-
-  olive
-
-  crime
-
-  hair
-
-  poverty
-
-  idle
-
-  flame
-
-  cradle'
-bip_39_word_new_line_11: 'cross
-
-  side
-
-  hawk
-
-  olive
-
-  crime
-
-  hair
-
-  poverty
-
-  idle
-
-  flame
-
-  cradle
-
-  profit'
 bip_39_word_new_line_12: 'cross
 
   side
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'cross
   side
 
   hawk'
-bip_39_word_new_line_4: 'cross
-
-  side
-
-  hawk
-
-  olive'
-bip_39_word_new_line_5: 'cross
-
-  side
-
-  hawk
-
-  olive
-
-  crime'
-bip_39_word_new_line_6: 'cross
-
-  side
-
-  hawk
-
-  olive
-
-  crime
-
-  hair'
-bip_39_word_new_line_7: 'cross
-
-  side
-
-  hawk
-
-  olive
-
-  crime
-
-  hair
-
-  poverty'
-bip_39_word_new_line_8: 'cross
-
-  side
-
-  hawk
-
-  olive
-
-  crime
-
-  hair
-
-  poverty
-
-  idle'
-bip_39_word_new_line_9: 'cross
-
-  side
-
-  hawk
-
-  olive
-
-  crime
-
-  hair
-
-  poverty
-
-  idle
-
-  flame'
-bip_39_word_no_space_1: cross
-bip_39_word_no_space_10: crosssidehawkolivecrimehairpovertyidleflamecradle
-bip_39_word_no_space_11: crosssidehawkolivecrimehairpovertyidleflamecradleprofit
 bip_39_word_no_space_12: crosssidehawkolivecrimehairpovertyidleflamecradleprofitaround
 bip_39_word_no_space_2: crossside
 bip_39_word_no_space_3: crosssidehawk
-bip_39_word_no_space_4: crosssidehawkolive
-bip_39_word_no_space_5: crosssidehawkolivecrime
-bip_39_word_no_space_6: crosssidehawkolivecrimehair
-bip_39_word_no_space_7: crosssidehawkolivecrimehairpoverty
-bip_39_word_no_space_8: crosssidehawkolivecrimehairpovertyidle
-bip_39_word_no_space_9: crosssidehawkolivecrimehairpovertyidleflame
-bip_39_word_space_0:
-- cross
-- side
-- hawk
-- olive
-- crime
-- hair
-- poverty
-- idle
-- flame
-- cradle
-- profit
-- around
-bip_39_word_space_1: cross
-bip_39_word_space_10: cross side hawk olive crime hair poverty idle flame cradle
-bip_39_word_space_11: cross side hawk olive crime hair poverty idle flame cradle profit
 bip_39_word_space_12: cross side hawk olive crime hair poverty idle flame cradle profit
   around
 bip_39_word_space_2: cross side
 bip_39_word_space_3: cross side hawk
-bip_39_word_space_4: cross side hawk olive
-bip_39_word_space_5: cross side hawk olive crime
-bip_39_word_space_6: cross side hawk olive crime hair
-bip_39_word_space_7: cross side hawk olive crime hair poverty
-bip_39_word_space_8: cross side hawk olive crime hair poverty idle
-bip_39_word_space_9: cross side hawk olive crime hair poverty idle flame
-bip_39_word_underscore_1: cross
-bip_39_word_underscore_10: cross_side_hawk_olive_crime_hair_poverty_idle_flame_cradle
-bip_39_word_underscore_11: cross_side_hawk_olive_crime_hair_poverty_idle_flame_cradle_profit
 bip_39_word_underscore_12: cross_side_hawk_olive_crime_hair_poverty_idle_flame_cradle_profit_around
 bip_39_word_underscore_2: cross_side
 bip_39_word_underscore_3: cross_side_hawk
-bip_39_word_underscore_4: cross_side_hawk_olive
-bip_39_word_underscore_5: cross_side_hawk_olive_crime
-bip_39_word_underscore_6: cross_side_hawk_olive_crime_hair
-bip_39_word_underscore_7: cross_side_hawk_olive_crime_hair_poverty
-bip_39_word_underscore_8: cross_side_hawk_olive_crime_hair_poverty_idle
-bip_39_word_underscore_9: cross_side_hawk_olive_crime_hair_poverty_idle_flame
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

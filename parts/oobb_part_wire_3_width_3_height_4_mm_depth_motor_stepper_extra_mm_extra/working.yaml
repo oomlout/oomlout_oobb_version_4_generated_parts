@@ -1,68 +1,9 @@
-bip_39_word_dash_1: crucial
-bip_39_word_dash_10: crucial-then-merge-found-keep-shoulder-prefer-sound-ladder-panic
-bip_39_word_dash_11: crucial-then-merge-found-keep-shoulder-prefer-sound-ladder-panic-air
 bip_39_word_dash_12: crucial-then-merge-found-keep-shoulder-prefer-sound-ladder-panic-air-already
 bip_39_word_dash_2: crucial-then
 bip_39_word_dash_3: crucial-then-merge
-bip_39_word_dash_4: crucial-then-merge-found
-bip_39_word_dash_5: crucial-then-merge-found-keep
-bip_39_word_dash_6: crucial-then-merge-found-keep-shoulder
-bip_39_word_dash_7: crucial-then-merge-found-keep-shoulder-prefer
-bip_39_word_dash_8: crucial-then-merge-found-keep-shoulder-prefer-sound
-bip_39_word_dash_9: crucial-then-merge-found-keep-shoulder-prefer-sound-ladder
-bip_39_word_new_br_1: crucial
-bip_39_word_new_br_10: crucial<br>then<br>merge<br>found<br>keep<br>shoulder<br>prefer<br>sound<br>ladder<br>panic
-bip_39_word_new_br_11: crucial<br>then<br>merge<br>found<br>keep<br>shoulder<br>prefer<br>sound<br>ladder<br>panic<br>air
 bip_39_word_new_br_12: crucial<br>then<br>merge<br>found<br>keep<br>shoulder<br>prefer<br>sound<br>ladder<br>panic<br>air<br>already
 bip_39_word_new_br_2: crucial<br>then
 bip_39_word_new_br_3: crucial<br>then<br>merge
-bip_39_word_new_br_4: crucial<br>then<br>merge<br>found
-bip_39_word_new_br_5: crucial<br>then<br>merge<br>found<br>keep
-bip_39_word_new_br_6: crucial<br>then<br>merge<br>found<br>keep<br>shoulder
-bip_39_word_new_br_7: crucial<br>then<br>merge<br>found<br>keep<br>shoulder<br>prefer
-bip_39_word_new_br_8: crucial<br>then<br>merge<br>found<br>keep<br>shoulder<br>prefer<br>sound
-bip_39_word_new_br_9: crucial<br>then<br>merge<br>found<br>keep<br>shoulder<br>prefer<br>sound<br>ladder
-bip_39_word_new_line_1: crucial
-bip_39_word_new_line_10: 'crucial
-
-  then
-
-  merge
-
-  found
-
-  keep
-
-  shoulder
-
-  prefer
-
-  sound
-
-  ladder
-
-  panic'
-bip_39_word_new_line_11: 'crucial
-
-  then
-
-  merge
-
-  found
-
-  keep
-
-  shoulder
-
-  prefer
-
-  sound
-
-  ladder
-
-  panic
-
-  air'
 bip_39_word_new_line_12: 'crucial
 
   then
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'crucial
   then
 
   merge'
-bip_39_word_new_line_4: 'crucial
-
-  then
-
-  merge
-
-  found'
-bip_39_word_new_line_5: 'crucial
-
-  then
-
-  merge
-
-  found
-
-  keep'
-bip_39_word_new_line_6: 'crucial
-
-  then
-
-  merge
-
-  found
-
-  keep
-
-  shoulder'
-bip_39_word_new_line_7: 'crucial
-
-  then
-
-  merge
-
-  found
-
-  keep
-
-  shoulder
-
-  prefer'
-bip_39_word_new_line_8: 'crucial
-
-  then
-
-  merge
-
-  found
-
-  keep
-
-  shoulder
-
-  prefer
-
-  sound'
-bip_39_word_new_line_9: 'crucial
-
-  then
-
-  merge
-
-  found
-
-  keep
-
-  shoulder
-
-  prefer
-
-  sound
-
-  ladder'
-bip_39_word_no_space_1: crucial
-bip_39_word_no_space_10: crucialthenmergefoundkeepshoulderprefersoundladderpanic
-bip_39_word_no_space_11: crucialthenmergefoundkeepshoulderprefersoundladderpanicair
 bip_39_word_no_space_12: crucialthenmergefoundkeepshoulderprefersoundladderpanicairalready
 bip_39_word_no_space_2: crucialthen
 bip_39_word_no_space_3: crucialthenmerge
-bip_39_word_no_space_4: crucialthenmergefound
-bip_39_word_no_space_5: crucialthenmergefoundkeep
-bip_39_word_no_space_6: crucialthenmergefoundkeepshoulder
-bip_39_word_no_space_7: crucialthenmergefoundkeepshoulderprefer
-bip_39_word_no_space_8: crucialthenmergefoundkeepshoulderprefersound
-bip_39_word_no_space_9: crucialthenmergefoundkeepshoulderprefersoundladder
-bip_39_word_space_0:
-- crucial
-- then
-- merge
-- found
-- keep
-- shoulder
-- prefer
-- sound
-- ladder
-- panic
-- air
-- already
-bip_39_word_space_1: crucial
-bip_39_word_space_10: crucial then merge found keep shoulder prefer sound ladder panic
-bip_39_word_space_11: crucial then merge found keep shoulder prefer sound ladder panic
-  air
 bip_39_word_space_12: crucial then merge found keep shoulder prefer sound ladder panic
   air already
 bip_39_word_space_2: crucial then
 bip_39_word_space_3: crucial then merge
-bip_39_word_space_4: crucial then merge found
-bip_39_word_space_5: crucial then merge found keep
-bip_39_word_space_6: crucial then merge found keep shoulder
-bip_39_word_space_7: crucial then merge found keep shoulder prefer
-bip_39_word_space_8: crucial then merge found keep shoulder prefer sound
-bip_39_word_space_9: crucial then merge found keep shoulder prefer sound ladder
-bip_39_word_underscore_1: crucial
-bip_39_word_underscore_10: crucial_then_merge_found_keep_shoulder_prefer_sound_ladder_panic
-bip_39_word_underscore_11: crucial_then_merge_found_keep_shoulder_prefer_sound_ladder_panic_air
 bip_39_word_underscore_12: crucial_then_merge_found_keep_shoulder_prefer_sound_ladder_panic_air_already
 bip_39_word_underscore_2: crucial_then
 bip_39_word_underscore_3: crucial_then_merge
-bip_39_word_underscore_4: crucial_then_merge_found
-bip_39_word_underscore_5: crucial_then_merge_found_keep
-bip_39_word_underscore_6: crucial_then_merge_found_keep_shoulder
-bip_39_word_underscore_7: crucial_then_merge_found_keep_shoulder_prefer
-bip_39_word_underscore_8: crucial_then_merge_found_keep_shoulder_prefer_sound
-bip_39_word_underscore_9: crucial_then_merge_found_keep_shoulder_prefer_sound_ladder
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

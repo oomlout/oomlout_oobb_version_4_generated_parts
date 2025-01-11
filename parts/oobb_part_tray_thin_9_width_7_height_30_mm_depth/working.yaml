@@ -1,68 +1,9 @@
-bip_39_word_dash_1: impose
-bip_39_word_dash_10: impose-swap-next-regret-alpha-leave-route-sight-sign-aware
-bip_39_word_dash_11: impose-swap-next-regret-alpha-leave-route-sight-sign-aware-defy
 bip_39_word_dash_12: impose-swap-next-regret-alpha-leave-route-sight-sign-aware-defy-act
 bip_39_word_dash_2: impose-swap
 bip_39_word_dash_3: impose-swap-next
-bip_39_word_dash_4: impose-swap-next-regret
-bip_39_word_dash_5: impose-swap-next-regret-alpha
-bip_39_word_dash_6: impose-swap-next-regret-alpha-leave
-bip_39_word_dash_7: impose-swap-next-regret-alpha-leave-route
-bip_39_word_dash_8: impose-swap-next-regret-alpha-leave-route-sight
-bip_39_word_dash_9: impose-swap-next-regret-alpha-leave-route-sight-sign
-bip_39_word_new_br_1: impose
-bip_39_word_new_br_10: impose<br>swap<br>next<br>regret<br>alpha<br>leave<br>route<br>sight<br>sign<br>aware
-bip_39_word_new_br_11: impose<br>swap<br>next<br>regret<br>alpha<br>leave<br>route<br>sight<br>sign<br>aware<br>defy
 bip_39_word_new_br_12: impose<br>swap<br>next<br>regret<br>alpha<br>leave<br>route<br>sight<br>sign<br>aware<br>defy<br>act
 bip_39_word_new_br_2: impose<br>swap
 bip_39_word_new_br_3: impose<br>swap<br>next
-bip_39_word_new_br_4: impose<br>swap<br>next<br>regret
-bip_39_word_new_br_5: impose<br>swap<br>next<br>regret<br>alpha
-bip_39_word_new_br_6: impose<br>swap<br>next<br>regret<br>alpha<br>leave
-bip_39_word_new_br_7: impose<br>swap<br>next<br>regret<br>alpha<br>leave<br>route
-bip_39_word_new_br_8: impose<br>swap<br>next<br>regret<br>alpha<br>leave<br>route<br>sight
-bip_39_word_new_br_9: impose<br>swap<br>next<br>regret<br>alpha<br>leave<br>route<br>sight<br>sign
-bip_39_word_new_line_1: impose
-bip_39_word_new_line_10: 'impose
-
-  swap
-
-  next
-
-  regret
-
-  alpha
-
-  leave
-
-  route
-
-  sight
-
-  sign
-
-  aware'
-bip_39_word_new_line_11: 'impose
-
-  swap
-
-  next
-
-  regret
-
-  alpha
-
-  leave
-
-  route
-
-  sight
-
-  sign
-
-  aware
-
-  defy'
 bip_39_word_new_line_12: 'impose
 
   swap
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'impose
   swap
 
   next'
-bip_39_word_new_line_4: 'impose
-
-  swap
-
-  next
-
-  regret'
-bip_39_word_new_line_5: 'impose
-
-  swap
-
-  next
-
-  regret
-
-  alpha'
-bip_39_word_new_line_6: 'impose
-
-  swap
-
-  next
-
-  regret
-
-  alpha
-
-  leave'
-bip_39_word_new_line_7: 'impose
-
-  swap
-
-  next
-
-  regret
-
-  alpha
-
-  leave
-
-  route'
-bip_39_word_new_line_8: 'impose
-
-  swap
-
-  next
-
-  regret
-
-  alpha
-
-  leave
-
-  route
-
-  sight'
-bip_39_word_new_line_9: 'impose
-
-  swap
-
-  next
-
-  regret
-
-  alpha
-
-  leave
-
-  route
-
-  sight
-
-  sign'
-bip_39_word_no_space_1: impose
-bip_39_word_no_space_10: imposeswapnextregretalphaleaveroutesightsignaware
-bip_39_word_no_space_11: imposeswapnextregretalphaleaveroutesightsignawaredefy
 bip_39_word_no_space_12: imposeswapnextregretalphaleaveroutesightsignawaredefyact
 bip_39_word_no_space_2: imposeswap
 bip_39_word_no_space_3: imposeswapnext
-bip_39_word_no_space_4: imposeswapnextregret
-bip_39_word_no_space_5: imposeswapnextregretalpha
-bip_39_word_no_space_6: imposeswapnextregretalphaleave
-bip_39_word_no_space_7: imposeswapnextregretalphaleaveroute
-bip_39_word_no_space_8: imposeswapnextregretalphaleaveroutesight
-bip_39_word_no_space_9: imposeswapnextregretalphaleaveroutesightsign
-bip_39_word_space_0:
-- impose
-- swap
-- next
-- regret
-- alpha
-- leave
-- route
-- sight
-- sign
-- aware
-- defy
-- act
-bip_39_word_space_1: impose
-bip_39_word_space_10: impose swap next regret alpha leave route sight sign aware
-bip_39_word_space_11: impose swap next regret alpha leave route sight sign aware defy
 bip_39_word_space_12: impose swap next regret alpha leave route sight sign aware defy
   act
 bip_39_word_space_2: impose swap
 bip_39_word_space_3: impose swap next
-bip_39_word_space_4: impose swap next regret
-bip_39_word_space_5: impose swap next regret alpha
-bip_39_word_space_6: impose swap next regret alpha leave
-bip_39_word_space_7: impose swap next regret alpha leave route
-bip_39_word_space_8: impose swap next regret alpha leave route sight
-bip_39_word_space_9: impose swap next regret alpha leave route sight sign
-bip_39_word_underscore_1: impose
-bip_39_word_underscore_10: impose_swap_next_regret_alpha_leave_route_sight_sign_aware
-bip_39_word_underscore_11: impose_swap_next_regret_alpha_leave_route_sight_sign_aware_defy
 bip_39_word_underscore_12: impose_swap_next_regret_alpha_leave_route_sight_sign_aware_defy_act
 bip_39_word_underscore_2: impose_swap
 bip_39_word_underscore_3: impose_swap_next
-bip_39_word_underscore_4: impose_swap_next_regret
-bip_39_word_underscore_5: impose_swap_next_regret_alpha
-bip_39_word_underscore_6: impose_swap_next_regret_alpha_leave
-bip_39_word_underscore_7: impose_swap_next_regret_alpha_leave_route
-bip_39_word_underscore_8: impose_swap_next_regret_alpha_leave_route_sight
-bip_39_word_underscore_9: impose_swap_next_regret_alpha_leave_route_sight_sign
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

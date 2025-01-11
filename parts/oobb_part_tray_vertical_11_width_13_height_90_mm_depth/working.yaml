@@ -1,68 +1,9 @@
-bip_39_word_dash_1: chapter
-bip_39_word_dash_10: chapter-silent-vacant-junk-answer-intact-used-wolf-quick-fire
-bip_39_word_dash_11: chapter-silent-vacant-junk-answer-intact-used-wolf-quick-fire-cream
 bip_39_word_dash_12: chapter-silent-vacant-junk-answer-intact-used-wolf-quick-fire-cream-arch
 bip_39_word_dash_2: chapter-silent
 bip_39_word_dash_3: chapter-silent-vacant
-bip_39_word_dash_4: chapter-silent-vacant-junk
-bip_39_word_dash_5: chapter-silent-vacant-junk-answer
-bip_39_word_dash_6: chapter-silent-vacant-junk-answer-intact
-bip_39_word_dash_7: chapter-silent-vacant-junk-answer-intact-used
-bip_39_word_dash_8: chapter-silent-vacant-junk-answer-intact-used-wolf
-bip_39_word_dash_9: chapter-silent-vacant-junk-answer-intact-used-wolf-quick
-bip_39_word_new_br_1: chapter
-bip_39_word_new_br_10: chapter<br>silent<br>vacant<br>junk<br>answer<br>intact<br>used<br>wolf<br>quick<br>fire
-bip_39_word_new_br_11: chapter<br>silent<br>vacant<br>junk<br>answer<br>intact<br>used<br>wolf<br>quick<br>fire<br>cream
 bip_39_word_new_br_12: chapter<br>silent<br>vacant<br>junk<br>answer<br>intact<br>used<br>wolf<br>quick<br>fire<br>cream<br>arch
 bip_39_word_new_br_2: chapter<br>silent
 bip_39_word_new_br_3: chapter<br>silent<br>vacant
-bip_39_word_new_br_4: chapter<br>silent<br>vacant<br>junk
-bip_39_word_new_br_5: chapter<br>silent<br>vacant<br>junk<br>answer
-bip_39_word_new_br_6: chapter<br>silent<br>vacant<br>junk<br>answer<br>intact
-bip_39_word_new_br_7: chapter<br>silent<br>vacant<br>junk<br>answer<br>intact<br>used
-bip_39_word_new_br_8: chapter<br>silent<br>vacant<br>junk<br>answer<br>intact<br>used<br>wolf
-bip_39_word_new_br_9: chapter<br>silent<br>vacant<br>junk<br>answer<br>intact<br>used<br>wolf<br>quick
-bip_39_word_new_line_1: chapter
-bip_39_word_new_line_10: 'chapter
-
-  silent
-
-  vacant
-
-  junk
-
-  answer
-
-  intact
-
-  used
-
-  wolf
-
-  quick
-
-  fire'
-bip_39_word_new_line_11: 'chapter
-
-  silent
-
-  vacant
-
-  junk
-
-  answer
-
-  intact
-
-  used
-
-  wolf
-
-  quick
-
-  fire
-
-  cream'
 bip_39_word_new_line_12: 'chapter
 
   silent
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'chapter
   silent
 
   vacant'
-bip_39_word_new_line_4: 'chapter
-
-  silent
-
-  vacant
-
-  junk'
-bip_39_word_new_line_5: 'chapter
-
-  silent
-
-  vacant
-
-  junk
-
-  answer'
-bip_39_word_new_line_6: 'chapter
-
-  silent
-
-  vacant
-
-  junk
-
-  answer
-
-  intact'
-bip_39_word_new_line_7: 'chapter
-
-  silent
-
-  vacant
-
-  junk
-
-  answer
-
-  intact
-
-  used'
-bip_39_word_new_line_8: 'chapter
-
-  silent
-
-  vacant
-
-  junk
-
-  answer
-
-  intact
-
-  used
-
-  wolf'
-bip_39_word_new_line_9: 'chapter
-
-  silent
-
-  vacant
-
-  junk
-
-  answer
-
-  intact
-
-  used
-
-  wolf
-
-  quick'
-bip_39_word_no_space_1: chapter
-bip_39_word_no_space_10: chaptersilentvacantjunkanswerintactusedwolfquickfire
-bip_39_word_no_space_11: chaptersilentvacantjunkanswerintactusedwolfquickfirecream
 bip_39_word_no_space_12: chaptersilentvacantjunkanswerintactusedwolfquickfirecreamarch
 bip_39_word_no_space_2: chaptersilent
 bip_39_word_no_space_3: chaptersilentvacant
-bip_39_word_no_space_4: chaptersilentvacantjunk
-bip_39_word_no_space_5: chaptersilentvacantjunkanswer
-bip_39_word_no_space_6: chaptersilentvacantjunkanswerintact
-bip_39_word_no_space_7: chaptersilentvacantjunkanswerintactused
-bip_39_word_no_space_8: chaptersilentvacantjunkanswerintactusedwolf
-bip_39_word_no_space_9: chaptersilentvacantjunkanswerintactusedwolfquick
-bip_39_word_space_0:
-- chapter
-- silent
-- vacant
-- junk
-- answer
-- intact
-- used
-- wolf
-- quick
-- fire
-- cream
-- arch
-bip_39_word_space_1: chapter
-bip_39_word_space_10: chapter silent vacant junk answer intact used wolf quick fire
-bip_39_word_space_11: chapter silent vacant junk answer intact used wolf quick fire
-  cream
 bip_39_word_space_12: chapter silent vacant junk answer intact used wolf quick fire
   cream arch
 bip_39_word_space_2: chapter silent
 bip_39_word_space_3: chapter silent vacant
-bip_39_word_space_4: chapter silent vacant junk
-bip_39_word_space_5: chapter silent vacant junk answer
-bip_39_word_space_6: chapter silent vacant junk answer intact
-bip_39_word_space_7: chapter silent vacant junk answer intact used
-bip_39_word_space_8: chapter silent vacant junk answer intact used wolf
-bip_39_word_space_9: chapter silent vacant junk answer intact used wolf quick
-bip_39_word_underscore_1: chapter
-bip_39_word_underscore_10: chapter_silent_vacant_junk_answer_intact_used_wolf_quick_fire
-bip_39_word_underscore_11: chapter_silent_vacant_junk_answer_intact_used_wolf_quick_fire_cream
 bip_39_word_underscore_12: chapter_silent_vacant_junk_answer_intact_used_wolf_quick_fire_cream_arch
 bip_39_word_underscore_2: chapter_silent
 bip_39_word_underscore_3: chapter_silent_vacant
-bip_39_word_underscore_4: chapter_silent_vacant_junk
-bip_39_word_underscore_5: chapter_silent_vacant_junk_answer
-bip_39_word_underscore_6: chapter_silent_vacant_junk_answer_intact
-bip_39_word_underscore_7: chapter_silent_vacant_junk_answer_intact_used
-bip_39_word_underscore_8: chapter_silent_vacant_junk_answer_intact_used_wolf
-bip_39_word_underscore_9: chapter_silent_vacant_junk_answer_intact_used_wolf_quick
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

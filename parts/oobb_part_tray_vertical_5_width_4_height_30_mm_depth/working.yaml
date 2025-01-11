@@ -1,68 +1,9 @@
-bip_39_word_dash_1: pet
-bip_39_word_dash_10: pet-flag-believe-excess-flag-fresh-guard-scissors-foot-dilemma
-bip_39_word_dash_11: pet-flag-believe-excess-flag-fresh-guard-scissors-foot-dilemma-stove
 bip_39_word_dash_12: pet-flag-believe-excess-flag-fresh-guard-scissors-foot-dilemma-stove-alien
 bip_39_word_dash_2: pet-flag
 bip_39_word_dash_3: pet-flag-believe
-bip_39_word_dash_4: pet-flag-believe-excess
-bip_39_word_dash_5: pet-flag-believe-excess-flag
-bip_39_word_dash_6: pet-flag-believe-excess-flag-fresh
-bip_39_word_dash_7: pet-flag-believe-excess-flag-fresh-guard
-bip_39_word_dash_8: pet-flag-believe-excess-flag-fresh-guard-scissors
-bip_39_word_dash_9: pet-flag-believe-excess-flag-fresh-guard-scissors-foot
-bip_39_word_new_br_1: pet
-bip_39_word_new_br_10: pet<br>flag<br>believe<br>excess<br>flag<br>fresh<br>guard<br>scissors<br>foot<br>dilemma
-bip_39_word_new_br_11: pet<br>flag<br>believe<br>excess<br>flag<br>fresh<br>guard<br>scissors<br>foot<br>dilemma<br>stove
 bip_39_word_new_br_12: pet<br>flag<br>believe<br>excess<br>flag<br>fresh<br>guard<br>scissors<br>foot<br>dilemma<br>stove<br>alien
 bip_39_word_new_br_2: pet<br>flag
 bip_39_word_new_br_3: pet<br>flag<br>believe
-bip_39_word_new_br_4: pet<br>flag<br>believe<br>excess
-bip_39_word_new_br_5: pet<br>flag<br>believe<br>excess<br>flag
-bip_39_word_new_br_6: pet<br>flag<br>believe<br>excess<br>flag<br>fresh
-bip_39_word_new_br_7: pet<br>flag<br>believe<br>excess<br>flag<br>fresh<br>guard
-bip_39_word_new_br_8: pet<br>flag<br>believe<br>excess<br>flag<br>fresh<br>guard<br>scissors
-bip_39_word_new_br_9: pet<br>flag<br>believe<br>excess<br>flag<br>fresh<br>guard<br>scissors<br>foot
-bip_39_word_new_line_1: pet
-bip_39_word_new_line_10: 'pet
-
-  flag
-
-  believe
-
-  excess
-
-  flag
-
-  fresh
-
-  guard
-
-  scissors
-
-  foot
-
-  dilemma'
-bip_39_word_new_line_11: 'pet
-
-  flag
-
-  believe
-
-  excess
-
-  flag
-
-  fresh
-
-  guard
-
-  scissors
-
-  foot
-
-  dilemma
-
-  stove'
 bip_39_word_new_line_12: 'pet
 
   flag
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'pet
   flag
 
   believe'
-bip_39_word_new_line_4: 'pet
-
-  flag
-
-  believe
-
-  excess'
-bip_39_word_new_line_5: 'pet
-
-  flag
-
-  believe
-
-  excess
-
-  flag'
-bip_39_word_new_line_6: 'pet
-
-  flag
-
-  believe
-
-  excess
-
-  flag
-
-  fresh'
-bip_39_word_new_line_7: 'pet
-
-  flag
-
-  believe
-
-  excess
-
-  flag
-
-  fresh
-
-  guard'
-bip_39_word_new_line_8: 'pet
-
-  flag
-
-  believe
-
-  excess
-
-  flag
-
-  fresh
-
-  guard
-
-  scissors'
-bip_39_word_new_line_9: 'pet
-
-  flag
-
-  believe
-
-  excess
-
-  flag
-
-  fresh
-
-  guard
-
-  scissors
-
-  foot'
-bip_39_word_no_space_1: pet
-bip_39_word_no_space_10: petflagbelieveexcessflagfreshguardscissorsfootdilemma
-bip_39_word_no_space_11: petflagbelieveexcessflagfreshguardscissorsfootdilemmastove
 bip_39_word_no_space_12: petflagbelieveexcessflagfreshguardscissorsfootdilemmastovealien
 bip_39_word_no_space_2: petflag
 bip_39_word_no_space_3: petflagbelieve
-bip_39_word_no_space_4: petflagbelieveexcess
-bip_39_word_no_space_5: petflagbelieveexcessflag
-bip_39_word_no_space_6: petflagbelieveexcessflagfresh
-bip_39_word_no_space_7: petflagbelieveexcessflagfreshguard
-bip_39_word_no_space_8: petflagbelieveexcessflagfreshguardscissors
-bip_39_word_no_space_9: petflagbelieveexcessflagfreshguardscissorsfoot
-bip_39_word_space_0:
-- pet
-- flag
-- believe
-- excess
-- flag
-- fresh
-- guard
-- scissors
-- foot
-- dilemma
-- stove
-- alien
-bip_39_word_space_1: pet
-bip_39_word_space_10: pet flag believe excess flag fresh guard scissors foot dilemma
-bip_39_word_space_11: pet flag believe excess flag fresh guard scissors foot dilemma
-  stove
 bip_39_word_space_12: pet flag believe excess flag fresh guard scissors foot dilemma
   stove alien
 bip_39_word_space_2: pet flag
 bip_39_word_space_3: pet flag believe
-bip_39_word_space_4: pet flag believe excess
-bip_39_word_space_5: pet flag believe excess flag
-bip_39_word_space_6: pet flag believe excess flag fresh
-bip_39_word_space_7: pet flag believe excess flag fresh guard
-bip_39_word_space_8: pet flag believe excess flag fresh guard scissors
-bip_39_word_space_9: pet flag believe excess flag fresh guard scissors foot
-bip_39_word_underscore_1: pet
-bip_39_word_underscore_10: pet_flag_believe_excess_flag_fresh_guard_scissors_foot_dilemma
-bip_39_word_underscore_11: pet_flag_believe_excess_flag_fresh_guard_scissors_foot_dilemma_stove
 bip_39_word_underscore_12: pet_flag_believe_excess_flag_fresh_guard_scissors_foot_dilemma_stove_alien
 bip_39_word_underscore_2: pet_flag
 bip_39_word_underscore_3: pet_flag_believe
-bip_39_word_underscore_4: pet_flag_believe_excess
-bip_39_word_underscore_5: pet_flag_believe_excess_flag
-bip_39_word_underscore_6: pet_flag_believe_excess_flag_fresh
-bip_39_word_underscore_7: pet_flag_believe_excess_flag_fresh_guard
-bip_39_word_underscore_8: pet_flag_believe_excess_flag_fresh_guard_scissors
-bip_39_word_underscore_9: pet_flag_believe_excess_flag_fresh_guard_scissors_foot
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

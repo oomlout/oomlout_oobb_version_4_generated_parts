@@ -1,68 +1,9 @@
-bip_39_word_dash_1: choice
-bip_39_word_dash_10: choice-index-sudden-ribbon-dad-victory-story-reward-divorce-pink
-bip_39_word_dash_11: choice-index-sudden-ribbon-dad-victory-story-reward-divorce-pink-peace
 bip_39_word_dash_12: choice-index-sudden-ribbon-dad-victory-story-reward-divorce-pink-peace-antenna
 bip_39_word_dash_2: choice-index
 bip_39_word_dash_3: choice-index-sudden
-bip_39_word_dash_4: choice-index-sudden-ribbon
-bip_39_word_dash_5: choice-index-sudden-ribbon-dad
-bip_39_word_dash_6: choice-index-sudden-ribbon-dad-victory
-bip_39_word_dash_7: choice-index-sudden-ribbon-dad-victory-story
-bip_39_word_dash_8: choice-index-sudden-ribbon-dad-victory-story-reward
-bip_39_word_dash_9: choice-index-sudden-ribbon-dad-victory-story-reward-divorce
-bip_39_word_new_br_1: choice
-bip_39_word_new_br_10: choice<br>index<br>sudden<br>ribbon<br>dad<br>victory<br>story<br>reward<br>divorce<br>pink
-bip_39_word_new_br_11: choice<br>index<br>sudden<br>ribbon<br>dad<br>victory<br>story<br>reward<br>divorce<br>pink<br>peace
 bip_39_word_new_br_12: choice<br>index<br>sudden<br>ribbon<br>dad<br>victory<br>story<br>reward<br>divorce<br>pink<br>peace<br>antenna
 bip_39_word_new_br_2: choice<br>index
 bip_39_word_new_br_3: choice<br>index<br>sudden
-bip_39_word_new_br_4: choice<br>index<br>sudden<br>ribbon
-bip_39_word_new_br_5: choice<br>index<br>sudden<br>ribbon<br>dad
-bip_39_word_new_br_6: choice<br>index<br>sudden<br>ribbon<br>dad<br>victory
-bip_39_word_new_br_7: choice<br>index<br>sudden<br>ribbon<br>dad<br>victory<br>story
-bip_39_word_new_br_8: choice<br>index<br>sudden<br>ribbon<br>dad<br>victory<br>story<br>reward
-bip_39_word_new_br_9: choice<br>index<br>sudden<br>ribbon<br>dad<br>victory<br>story<br>reward<br>divorce
-bip_39_word_new_line_1: choice
-bip_39_word_new_line_10: 'choice
-
-  index
-
-  sudden
-
-  ribbon
-
-  dad
-
-  victory
-
-  story
-
-  reward
-
-  divorce
-
-  pink'
-bip_39_word_new_line_11: 'choice
-
-  index
-
-  sudden
-
-  ribbon
-
-  dad
-
-  victory
-
-  story
-
-  reward
-
-  divorce
-
-  pink
-
-  peace'
 bip_39_word_new_line_12: 'choice
 
   index
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'choice
   index
 
   sudden'
-bip_39_word_new_line_4: 'choice
-
-  index
-
-  sudden
-
-  ribbon'
-bip_39_word_new_line_5: 'choice
-
-  index
-
-  sudden
-
-  ribbon
-
-  dad'
-bip_39_word_new_line_6: 'choice
-
-  index
-
-  sudden
-
-  ribbon
-
-  dad
-
-  victory'
-bip_39_word_new_line_7: 'choice
-
-  index
-
-  sudden
-
-  ribbon
-
-  dad
-
-  victory
-
-  story'
-bip_39_word_new_line_8: 'choice
-
-  index
-
-  sudden
-
-  ribbon
-
-  dad
-
-  victory
-
-  story
-
-  reward'
-bip_39_word_new_line_9: 'choice
-
-  index
-
-  sudden
-
-  ribbon
-
-  dad
-
-  victory
-
-  story
-
-  reward
-
-  divorce'
-bip_39_word_no_space_1: choice
-bip_39_word_no_space_10: choiceindexsuddenribbondadvictorystoryrewarddivorcepink
-bip_39_word_no_space_11: choiceindexsuddenribbondadvictorystoryrewarddivorcepinkpeace
 bip_39_word_no_space_12: choiceindexsuddenribbondadvictorystoryrewarddivorcepinkpeaceantenna
 bip_39_word_no_space_2: choiceindex
 bip_39_word_no_space_3: choiceindexsudden
-bip_39_word_no_space_4: choiceindexsuddenribbon
-bip_39_word_no_space_5: choiceindexsuddenribbondad
-bip_39_word_no_space_6: choiceindexsuddenribbondadvictory
-bip_39_word_no_space_7: choiceindexsuddenribbondadvictorystory
-bip_39_word_no_space_8: choiceindexsuddenribbondadvictorystoryreward
-bip_39_word_no_space_9: choiceindexsuddenribbondadvictorystoryrewarddivorce
-bip_39_word_space_0:
-- choice
-- index
-- sudden
-- ribbon
-- dad
-- victory
-- story
-- reward
-- divorce
-- pink
-- peace
-- antenna
-bip_39_word_space_1: choice
-bip_39_word_space_10: choice index sudden ribbon dad victory story reward divorce
-  pink
-bip_39_word_space_11: choice index sudden ribbon dad victory story reward divorce
-  pink peace
 bip_39_word_space_12: choice index sudden ribbon dad victory story reward divorce
   pink peace antenna
 bip_39_word_space_2: choice index
 bip_39_word_space_3: choice index sudden
-bip_39_word_space_4: choice index sudden ribbon
-bip_39_word_space_5: choice index sudden ribbon dad
-bip_39_word_space_6: choice index sudden ribbon dad victory
-bip_39_word_space_7: choice index sudden ribbon dad victory story
-bip_39_word_space_8: choice index sudden ribbon dad victory story reward
-bip_39_word_space_9: choice index sudden ribbon dad victory story reward divorce
-bip_39_word_underscore_1: choice
-bip_39_word_underscore_10: choice_index_sudden_ribbon_dad_victory_story_reward_divorce_pink
-bip_39_word_underscore_11: choice_index_sudden_ribbon_dad_victory_story_reward_divorce_pink_peace
 bip_39_word_underscore_12: choice_index_sudden_ribbon_dad_victory_story_reward_divorce_pink_peace_antenna
 bip_39_word_underscore_2: choice_index
 bip_39_word_underscore_3: choice_index_sudden
-bip_39_word_underscore_4: choice_index_sudden_ribbon
-bip_39_word_underscore_5: choice_index_sudden_ribbon_dad
-bip_39_word_underscore_6: choice_index_sudden_ribbon_dad_victory
-bip_39_word_underscore_7: choice_index_sudden_ribbon_dad_victory_story
-bip_39_word_underscore_8: choice_index_sudden_ribbon_dad_victory_story_reward
-bip_39_word_underscore_9: choice_index_sudden_ribbon_dad_victory_story_reward_divorce
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

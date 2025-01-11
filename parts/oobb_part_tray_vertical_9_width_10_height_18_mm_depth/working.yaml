@@ -1,68 +1,9 @@
-bip_39_word_dash_1: display
-bip_39_word_dash_10: display-mother-remove-defense-foil-burger-sword-panther-soccer-often
-bip_39_word_dash_11: display-mother-remove-defense-foil-burger-sword-panther-soccer-often-scrap
 bip_39_word_dash_12: display-mother-remove-defense-foil-burger-sword-panther-soccer-often-scrap-ancient
 bip_39_word_dash_2: display-mother
 bip_39_word_dash_3: display-mother-remove
-bip_39_word_dash_4: display-mother-remove-defense
-bip_39_word_dash_5: display-mother-remove-defense-foil
-bip_39_word_dash_6: display-mother-remove-defense-foil-burger
-bip_39_word_dash_7: display-mother-remove-defense-foil-burger-sword
-bip_39_word_dash_8: display-mother-remove-defense-foil-burger-sword-panther
-bip_39_word_dash_9: display-mother-remove-defense-foil-burger-sword-panther-soccer
-bip_39_word_new_br_1: display
-bip_39_word_new_br_10: display<br>mother<br>remove<br>defense<br>foil<br>burger<br>sword<br>panther<br>soccer<br>often
-bip_39_word_new_br_11: display<br>mother<br>remove<br>defense<br>foil<br>burger<br>sword<br>panther<br>soccer<br>often<br>scrap
 bip_39_word_new_br_12: display<br>mother<br>remove<br>defense<br>foil<br>burger<br>sword<br>panther<br>soccer<br>often<br>scrap<br>ancient
 bip_39_word_new_br_2: display<br>mother
 bip_39_word_new_br_3: display<br>mother<br>remove
-bip_39_word_new_br_4: display<br>mother<br>remove<br>defense
-bip_39_word_new_br_5: display<br>mother<br>remove<br>defense<br>foil
-bip_39_word_new_br_6: display<br>mother<br>remove<br>defense<br>foil<br>burger
-bip_39_word_new_br_7: display<br>mother<br>remove<br>defense<br>foil<br>burger<br>sword
-bip_39_word_new_br_8: display<br>mother<br>remove<br>defense<br>foil<br>burger<br>sword<br>panther
-bip_39_word_new_br_9: display<br>mother<br>remove<br>defense<br>foil<br>burger<br>sword<br>panther<br>soccer
-bip_39_word_new_line_1: display
-bip_39_word_new_line_10: 'display
-
-  mother
-
-  remove
-
-  defense
-
-  foil
-
-  burger
-
-  sword
-
-  panther
-
-  soccer
-
-  often'
-bip_39_word_new_line_11: 'display
-
-  mother
-
-  remove
-
-  defense
-
-  foil
-
-  burger
-
-  sword
-
-  panther
-
-  soccer
-
-  often
-
-  scrap'
 bip_39_word_new_line_12: 'display
 
   mother
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'display
   mother
 
   remove'
-bip_39_word_new_line_4: 'display
-
-  mother
-
-  remove
-
-  defense'
-bip_39_word_new_line_5: 'display
-
-  mother
-
-  remove
-
-  defense
-
-  foil'
-bip_39_word_new_line_6: 'display
-
-  mother
-
-  remove
-
-  defense
-
-  foil
-
-  burger'
-bip_39_word_new_line_7: 'display
-
-  mother
-
-  remove
-
-  defense
-
-  foil
-
-  burger
-
-  sword'
-bip_39_word_new_line_8: 'display
-
-  mother
-
-  remove
-
-  defense
-
-  foil
-
-  burger
-
-  sword
-
-  panther'
-bip_39_word_new_line_9: 'display
-
-  mother
-
-  remove
-
-  defense
-
-  foil
-
-  burger
-
-  sword
-
-  panther
-
-  soccer'
-bip_39_word_no_space_1: display
-bip_39_word_no_space_10: displaymotherremovedefensefoilburgerswordpanthersocceroften
-bip_39_word_no_space_11: displaymotherremovedefensefoilburgerswordpanthersocceroftenscrap
 bip_39_word_no_space_12: displaymotherremovedefensefoilburgerswordpanthersocceroftenscrapancient
 bip_39_word_no_space_2: displaymother
 bip_39_word_no_space_3: displaymotherremove
-bip_39_word_no_space_4: displaymotherremovedefense
-bip_39_word_no_space_5: displaymotherremovedefensefoil
-bip_39_word_no_space_6: displaymotherremovedefensefoilburger
-bip_39_word_no_space_7: displaymotherremovedefensefoilburgersword
-bip_39_word_no_space_8: displaymotherremovedefensefoilburgerswordpanther
-bip_39_word_no_space_9: displaymotherremovedefensefoilburgerswordpanthersoccer
-bip_39_word_space_0:
-- display
-- mother
-- remove
-- defense
-- foil
-- burger
-- sword
-- panther
-- soccer
-- often
-- scrap
-- ancient
-bip_39_word_space_1: display
-bip_39_word_space_10: display mother remove defense foil burger sword panther soccer
-  often
-bip_39_word_space_11: display mother remove defense foil burger sword panther soccer
-  often scrap
 bip_39_word_space_12: display mother remove defense foil burger sword panther soccer
   often scrap ancient
 bip_39_word_space_2: display mother
 bip_39_word_space_3: display mother remove
-bip_39_word_space_4: display mother remove defense
-bip_39_word_space_5: display mother remove defense foil
-bip_39_word_space_6: display mother remove defense foil burger
-bip_39_word_space_7: display mother remove defense foil burger sword
-bip_39_word_space_8: display mother remove defense foil burger sword panther
-bip_39_word_space_9: display mother remove defense foil burger sword panther soccer
-bip_39_word_underscore_1: display
-bip_39_word_underscore_10: display_mother_remove_defense_foil_burger_sword_panther_soccer_often
-bip_39_word_underscore_11: display_mother_remove_defense_foil_burger_sword_panther_soccer_often_scrap
 bip_39_word_underscore_12: display_mother_remove_defense_foil_burger_sword_panther_soccer_often_scrap_ancient
 bip_39_word_underscore_2: display_mother
 bip_39_word_underscore_3: display_mother_remove
-bip_39_word_underscore_4: display_mother_remove_defense
-bip_39_word_underscore_5: display_mother_remove_defense_foil
-bip_39_word_underscore_6: display_mother_remove_defense_foil_burger
-bip_39_word_underscore_7: display_mother_remove_defense_foil_burger_sword
-bip_39_word_underscore_8: display_mother_remove_defense_foil_burger_sword_panther
-bip_39_word_underscore_9: display_mother_remove_defense_foil_burger_sword_panther_soccer
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: cost
-bip_39_word_dash_10: cost-happy-leaf-student-rubber-refuse-wage-custom-practice-luggage
-bip_39_word_dash_11: cost-happy-leaf-student-rubber-refuse-wage-custom-practice-luggage-jewel
 bip_39_word_dash_12: cost-happy-leaf-student-rubber-refuse-wage-custom-practice-luggage-jewel-annual
 bip_39_word_dash_2: cost-happy
 bip_39_word_dash_3: cost-happy-leaf
-bip_39_word_dash_4: cost-happy-leaf-student
-bip_39_word_dash_5: cost-happy-leaf-student-rubber
-bip_39_word_dash_6: cost-happy-leaf-student-rubber-refuse
-bip_39_word_dash_7: cost-happy-leaf-student-rubber-refuse-wage
-bip_39_word_dash_8: cost-happy-leaf-student-rubber-refuse-wage-custom
-bip_39_word_dash_9: cost-happy-leaf-student-rubber-refuse-wage-custom-practice
-bip_39_word_new_br_1: cost
-bip_39_word_new_br_10: cost<br>happy<br>leaf<br>student<br>rubber<br>refuse<br>wage<br>custom<br>practice<br>luggage
-bip_39_word_new_br_11: cost<br>happy<br>leaf<br>student<br>rubber<br>refuse<br>wage<br>custom<br>practice<br>luggage<br>jewel
 bip_39_word_new_br_12: cost<br>happy<br>leaf<br>student<br>rubber<br>refuse<br>wage<br>custom<br>practice<br>luggage<br>jewel<br>annual
 bip_39_word_new_br_2: cost<br>happy
 bip_39_word_new_br_3: cost<br>happy<br>leaf
-bip_39_word_new_br_4: cost<br>happy<br>leaf<br>student
-bip_39_word_new_br_5: cost<br>happy<br>leaf<br>student<br>rubber
-bip_39_word_new_br_6: cost<br>happy<br>leaf<br>student<br>rubber<br>refuse
-bip_39_word_new_br_7: cost<br>happy<br>leaf<br>student<br>rubber<br>refuse<br>wage
-bip_39_word_new_br_8: cost<br>happy<br>leaf<br>student<br>rubber<br>refuse<br>wage<br>custom
-bip_39_word_new_br_9: cost<br>happy<br>leaf<br>student<br>rubber<br>refuse<br>wage<br>custom<br>practice
-bip_39_word_new_line_1: cost
-bip_39_word_new_line_10: 'cost
-
-  happy
-
-  leaf
-
-  student
-
-  rubber
-
-  refuse
-
-  wage
-
-  custom
-
-  practice
-
-  luggage'
-bip_39_word_new_line_11: 'cost
-
-  happy
-
-  leaf
-
-  student
-
-  rubber
-
-  refuse
-
-  wage
-
-  custom
-
-  practice
-
-  luggage
-
-  jewel'
 bip_39_word_new_line_12: 'cost
 
   happy
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'cost
   happy
 
   leaf'
-bip_39_word_new_line_4: 'cost
-
-  happy
-
-  leaf
-
-  student'
-bip_39_word_new_line_5: 'cost
-
-  happy
-
-  leaf
-
-  student
-
-  rubber'
-bip_39_word_new_line_6: 'cost
-
-  happy
-
-  leaf
-
-  student
-
-  rubber
-
-  refuse'
-bip_39_word_new_line_7: 'cost
-
-  happy
-
-  leaf
-
-  student
-
-  rubber
-
-  refuse
-
-  wage'
-bip_39_word_new_line_8: 'cost
-
-  happy
-
-  leaf
-
-  student
-
-  rubber
-
-  refuse
-
-  wage
-
-  custom'
-bip_39_word_new_line_9: 'cost
-
-  happy
-
-  leaf
-
-  student
-
-  rubber
-
-  refuse
-
-  wage
-
-  custom
-
-  practice'
-bip_39_word_no_space_1: cost
-bip_39_word_no_space_10: costhappyleafstudentrubberrefusewagecustompracticeluggage
-bip_39_word_no_space_11: costhappyleafstudentrubberrefusewagecustompracticeluggagejewel
 bip_39_word_no_space_12: costhappyleafstudentrubberrefusewagecustompracticeluggagejewelannual
 bip_39_word_no_space_2: costhappy
 bip_39_word_no_space_3: costhappyleaf
-bip_39_word_no_space_4: costhappyleafstudent
-bip_39_word_no_space_5: costhappyleafstudentrubber
-bip_39_word_no_space_6: costhappyleafstudentrubberrefuse
-bip_39_word_no_space_7: costhappyleafstudentrubberrefusewage
-bip_39_word_no_space_8: costhappyleafstudentrubberrefusewagecustom
-bip_39_word_no_space_9: costhappyleafstudentrubberrefusewagecustompractice
-bip_39_word_space_0:
-- cost
-- happy
-- leaf
-- student
-- rubber
-- refuse
-- wage
-- custom
-- practice
-- luggage
-- jewel
-- annual
-bip_39_word_space_1: cost
-bip_39_word_space_10: cost happy leaf student rubber refuse wage custom practice luggage
-bip_39_word_space_11: cost happy leaf student rubber refuse wage custom practice luggage
-  jewel
 bip_39_word_space_12: cost happy leaf student rubber refuse wage custom practice luggage
   jewel annual
 bip_39_word_space_2: cost happy
 bip_39_word_space_3: cost happy leaf
-bip_39_word_space_4: cost happy leaf student
-bip_39_word_space_5: cost happy leaf student rubber
-bip_39_word_space_6: cost happy leaf student rubber refuse
-bip_39_word_space_7: cost happy leaf student rubber refuse wage
-bip_39_word_space_8: cost happy leaf student rubber refuse wage custom
-bip_39_word_space_9: cost happy leaf student rubber refuse wage custom practice
-bip_39_word_underscore_1: cost
-bip_39_word_underscore_10: cost_happy_leaf_student_rubber_refuse_wage_custom_practice_luggage
-bip_39_word_underscore_11: cost_happy_leaf_student_rubber_refuse_wage_custom_practice_luggage_jewel
 bip_39_word_underscore_12: cost_happy_leaf_student_rubber_refuse_wage_custom_practice_luggage_jewel_annual
 bip_39_word_underscore_2: cost_happy
 bip_39_word_underscore_3: cost_happy_leaf
-bip_39_word_underscore_4: cost_happy_leaf_student
-bip_39_word_underscore_5: cost_happy_leaf_student_rubber
-bip_39_word_underscore_6: cost_happy_leaf_student_rubber_refuse
-bip_39_word_underscore_7: cost_happy_leaf_student_rubber_refuse_wage
-bip_39_word_underscore_8: cost_happy_leaf_student_rubber_refuse_wage_custom
-bip_39_word_underscore_9: cost_happy_leaf_student_rubber_refuse_wage_custom_practice
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: strategy
-bip_39_word_dash_10: strategy-subway-symptom-cave-run-praise-pioneer-bird-winter-card
-bip_39_word_dash_11: strategy-subway-symptom-cave-run-praise-pioneer-bird-winter-card-shuffle
 bip_39_word_dash_12: strategy-subway-symptom-cave-run-praise-pioneer-bird-winter-card-shuffle-armed
 bip_39_word_dash_2: strategy-subway
 bip_39_word_dash_3: strategy-subway-symptom
-bip_39_word_dash_4: strategy-subway-symptom-cave
-bip_39_word_dash_5: strategy-subway-symptom-cave-run
-bip_39_word_dash_6: strategy-subway-symptom-cave-run-praise
-bip_39_word_dash_7: strategy-subway-symptom-cave-run-praise-pioneer
-bip_39_word_dash_8: strategy-subway-symptom-cave-run-praise-pioneer-bird
-bip_39_word_dash_9: strategy-subway-symptom-cave-run-praise-pioneer-bird-winter
-bip_39_word_new_br_1: strategy
-bip_39_word_new_br_10: strategy<br>subway<br>symptom<br>cave<br>run<br>praise<br>pioneer<br>bird<br>winter<br>card
-bip_39_word_new_br_11: strategy<br>subway<br>symptom<br>cave<br>run<br>praise<br>pioneer<br>bird<br>winter<br>card<br>shuffle
 bip_39_word_new_br_12: strategy<br>subway<br>symptom<br>cave<br>run<br>praise<br>pioneer<br>bird<br>winter<br>card<br>shuffle<br>armed
 bip_39_word_new_br_2: strategy<br>subway
 bip_39_word_new_br_3: strategy<br>subway<br>symptom
-bip_39_word_new_br_4: strategy<br>subway<br>symptom<br>cave
-bip_39_word_new_br_5: strategy<br>subway<br>symptom<br>cave<br>run
-bip_39_word_new_br_6: strategy<br>subway<br>symptom<br>cave<br>run<br>praise
-bip_39_word_new_br_7: strategy<br>subway<br>symptom<br>cave<br>run<br>praise<br>pioneer
-bip_39_word_new_br_8: strategy<br>subway<br>symptom<br>cave<br>run<br>praise<br>pioneer<br>bird
-bip_39_word_new_br_9: strategy<br>subway<br>symptom<br>cave<br>run<br>praise<br>pioneer<br>bird<br>winter
-bip_39_word_new_line_1: strategy
-bip_39_word_new_line_10: 'strategy
-
-  subway
-
-  symptom
-
-  cave
-
-  run
-
-  praise
-
-  pioneer
-
-  bird
-
-  winter
-
-  card'
-bip_39_word_new_line_11: 'strategy
-
-  subway
-
-  symptom
-
-  cave
-
-  run
-
-  praise
-
-  pioneer
-
-  bird
-
-  winter
-
-  card
-
-  shuffle'
 bip_39_word_new_line_12: 'strategy
 
   subway
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'strategy
   subway
 
   symptom'
-bip_39_word_new_line_4: 'strategy
-
-  subway
-
-  symptom
-
-  cave'
-bip_39_word_new_line_5: 'strategy
-
-  subway
-
-  symptom
-
-  cave
-
-  run'
-bip_39_word_new_line_6: 'strategy
-
-  subway
-
-  symptom
-
-  cave
-
-  run
-
-  praise'
-bip_39_word_new_line_7: 'strategy
-
-  subway
-
-  symptom
-
-  cave
-
-  run
-
-  praise
-
-  pioneer'
-bip_39_word_new_line_8: 'strategy
-
-  subway
-
-  symptom
-
-  cave
-
-  run
-
-  praise
-
-  pioneer
-
-  bird'
-bip_39_word_new_line_9: 'strategy
-
-  subway
-
-  symptom
-
-  cave
-
-  run
-
-  praise
-
-  pioneer
-
-  bird
-
-  winter'
-bip_39_word_no_space_1: strategy
-bip_39_word_no_space_10: strategysubwaysymptomcaverunpraisepioneerbirdwintercard
-bip_39_word_no_space_11: strategysubwaysymptomcaverunpraisepioneerbirdwintercardshuffle
 bip_39_word_no_space_12: strategysubwaysymptomcaverunpraisepioneerbirdwintercardshufflearmed
 bip_39_word_no_space_2: strategysubway
 bip_39_word_no_space_3: strategysubwaysymptom
-bip_39_word_no_space_4: strategysubwaysymptomcave
-bip_39_word_no_space_5: strategysubwaysymptomcaverun
-bip_39_word_no_space_6: strategysubwaysymptomcaverunpraise
-bip_39_word_no_space_7: strategysubwaysymptomcaverunpraisepioneer
-bip_39_word_no_space_8: strategysubwaysymptomcaverunpraisepioneerbird
-bip_39_word_no_space_9: strategysubwaysymptomcaverunpraisepioneerbirdwinter
-bip_39_word_space_0:
-- strategy
-- subway
-- symptom
-- cave
-- run
-- praise
-- pioneer
-- bird
-- winter
-- card
-- shuffle
-- armed
-bip_39_word_space_1: strategy
-bip_39_word_space_10: strategy subway symptom cave run praise pioneer bird winter
-  card
-bip_39_word_space_11: strategy subway symptom cave run praise pioneer bird winter
-  card shuffle
 bip_39_word_space_12: strategy subway symptom cave run praise pioneer bird winter
   card shuffle armed
 bip_39_word_space_2: strategy subway
 bip_39_word_space_3: strategy subway symptom
-bip_39_word_space_4: strategy subway symptom cave
-bip_39_word_space_5: strategy subway symptom cave run
-bip_39_word_space_6: strategy subway symptom cave run praise
-bip_39_word_space_7: strategy subway symptom cave run praise pioneer
-bip_39_word_space_8: strategy subway symptom cave run praise pioneer bird
-bip_39_word_space_9: strategy subway symptom cave run praise pioneer bird winter
-bip_39_word_underscore_1: strategy
-bip_39_word_underscore_10: strategy_subway_symptom_cave_run_praise_pioneer_bird_winter_card
-bip_39_word_underscore_11: strategy_subway_symptom_cave_run_praise_pioneer_bird_winter_card_shuffle
 bip_39_word_underscore_12: strategy_subway_symptom_cave_run_praise_pioneer_bird_winter_card_shuffle_armed
 bip_39_word_underscore_2: strategy_subway
 bip_39_word_underscore_3: strategy_subway_symptom
-bip_39_word_underscore_4: strategy_subway_symptom_cave
-bip_39_word_underscore_5: strategy_subway_symptom_cave_run
-bip_39_word_underscore_6: strategy_subway_symptom_cave_run_praise
-bip_39_word_underscore_7: strategy_subway_symptom_cave_run_praise_pioneer
-bip_39_word_underscore_8: strategy_subway_symptom_cave_run_praise_pioneer_bird
-bip_39_word_underscore_9: strategy_subway_symptom_cave_run_praise_pioneer_bird_winter
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

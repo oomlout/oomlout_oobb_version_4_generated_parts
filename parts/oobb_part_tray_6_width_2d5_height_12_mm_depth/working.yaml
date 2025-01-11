@@ -1,68 +1,9 @@
-bip_39_word_dash_1: palm
-bip_39_word_dash_10: palm-minimum-fatal-olive-home-sense-option-lend-dice-family
-bip_39_word_dash_11: palm-minimum-fatal-olive-home-sense-option-lend-dice-family-lemon
 bip_39_word_dash_12: palm-minimum-fatal-olive-home-sense-option-lend-dice-family-lemon-agent
 bip_39_word_dash_2: palm-minimum
 bip_39_word_dash_3: palm-minimum-fatal
-bip_39_word_dash_4: palm-minimum-fatal-olive
-bip_39_word_dash_5: palm-minimum-fatal-olive-home
-bip_39_word_dash_6: palm-minimum-fatal-olive-home-sense
-bip_39_word_dash_7: palm-minimum-fatal-olive-home-sense-option
-bip_39_word_dash_8: palm-minimum-fatal-olive-home-sense-option-lend
-bip_39_word_dash_9: palm-minimum-fatal-olive-home-sense-option-lend-dice
-bip_39_word_new_br_1: palm
-bip_39_word_new_br_10: palm<br>minimum<br>fatal<br>olive<br>home<br>sense<br>option<br>lend<br>dice<br>family
-bip_39_word_new_br_11: palm<br>minimum<br>fatal<br>olive<br>home<br>sense<br>option<br>lend<br>dice<br>family<br>lemon
 bip_39_word_new_br_12: palm<br>minimum<br>fatal<br>olive<br>home<br>sense<br>option<br>lend<br>dice<br>family<br>lemon<br>agent
 bip_39_word_new_br_2: palm<br>minimum
 bip_39_word_new_br_3: palm<br>minimum<br>fatal
-bip_39_word_new_br_4: palm<br>minimum<br>fatal<br>olive
-bip_39_word_new_br_5: palm<br>minimum<br>fatal<br>olive<br>home
-bip_39_word_new_br_6: palm<br>minimum<br>fatal<br>olive<br>home<br>sense
-bip_39_word_new_br_7: palm<br>minimum<br>fatal<br>olive<br>home<br>sense<br>option
-bip_39_word_new_br_8: palm<br>minimum<br>fatal<br>olive<br>home<br>sense<br>option<br>lend
-bip_39_word_new_br_9: palm<br>minimum<br>fatal<br>olive<br>home<br>sense<br>option<br>lend<br>dice
-bip_39_word_new_line_1: palm
-bip_39_word_new_line_10: 'palm
-
-  minimum
-
-  fatal
-
-  olive
-
-  home
-
-  sense
-
-  option
-
-  lend
-
-  dice
-
-  family'
-bip_39_word_new_line_11: 'palm
-
-  minimum
-
-  fatal
-
-  olive
-
-  home
-
-  sense
-
-  option
-
-  lend
-
-  dice
-
-  family
-
-  lemon'
 bip_39_word_new_line_12: 'palm
 
   minimum
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'palm
   minimum
 
   fatal'
-bip_39_word_new_line_4: 'palm
-
-  minimum
-
-  fatal
-
-  olive'
-bip_39_word_new_line_5: 'palm
-
-  minimum
-
-  fatal
-
-  olive
-
-  home'
-bip_39_word_new_line_6: 'palm
-
-  minimum
-
-  fatal
-
-  olive
-
-  home
-
-  sense'
-bip_39_word_new_line_7: 'palm
-
-  minimum
-
-  fatal
-
-  olive
-
-  home
-
-  sense
-
-  option'
-bip_39_word_new_line_8: 'palm
-
-  minimum
-
-  fatal
-
-  olive
-
-  home
-
-  sense
-
-  option
-
-  lend'
-bip_39_word_new_line_9: 'palm
-
-  minimum
-
-  fatal
-
-  olive
-
-  home
-
-  sense
-
-  option
-
-  lend
-
-  dice'
-bip_39_word_no_space_1: palm
-bip_39_word_no_space_10: palmminimumfatalolivehomesenseoptionlenddicefamily
-bip_39_word_no_space_11: palmminimumfatalolivehomesenseoptionlenddicefamilylemon
 bip_39_word_no_space_12: palmminimumfatalolivehomesenseoptionlenddicefamilylemonagent
 bip_39_word_no_space_2: palmminimum
 bip_39_word_no_space_3: palmminimumfatal
-bip_39_word_no_space_4: palmminimumfatalolive
-bip_39_word_no_space_5: palmminimumfatalolivehome
-bip_39_word_no_space_6: palmminimumfatalolivehomesense
-bip_39_word_no_space_7: palmminimumfatalolivehomesenseoption
-bip_39_word_no_space_8: palmminimumfatalolivehomesenseoptionlend
-bip_39_word_no_space_9: palmminimumfatalolivehomesenseoptionlenddice
-bip_39_word_space_0:
-- palm
-- minimum
-- fatal
-- olive
-- home
-- sense
-- option
-- lend
-- dice
-- family
-- lemon
-- agent
-bip_39_word_space_1: palm
-bip_39_word_space_10: palm minimum fatal olive home sense option lend dice family
-bip_39_word_space_11: palm minimum fatal olive home sense option lend dice family
-  lemon
 bip_39_word_space_12: palm minimum fatal olive home sense option lend dice family
   lemon agent
 bip_39_word_space_2: palm minimum
 bip_39_word_space_3: palm minimum fatal
-bip_39_word_space_4: palm minimum fatal olive
-bip_39_word_space_5: palm minimum fatal olive home
-bip_39_word_space_6: palm minimum fatal olive home sense
-bip_39_word_space_7: palm minimum fatal olive home sense option
-bip_39_word_space_8: palm minimum fatal olive home sense option lend
-bip_39_word_space_9: palm minimum fatal olive home sense option lend dice
-bip_39_word_underscore_1: palm
-bip_39_word_underscore_10: palm_minimum_fatal_olive_home_sense_option_lend_dice_family
-bip_39_word_underscore_11: palm_minimum_fatal_olive_home_sense_option_lend_dice_family_lemon
 bip_39_word_underscore_12: palm_minimum_fatal_olive_home_sense_option_lend_dice_family_lemon_agent
 bip_39_word_underscore_2: palm_minimum
 bip_39_word_underscore_3: palm_minimum_fatal
-bip_39_word_underscore_4: palm_minimum_fatal_olive
-bip_39_word_underscore_5: palm_minimum_fatal_olive_home
-bip_39_word_underscore_6: palm_minimum_fatal_olive_home_sense
-bip_39_word_underscore_7: palm_minimum_fatal_olive_home_sense_option
-bip_39_word_underscore_8: palm_minimum_fatal_olive_home_sense_option_lend
-bip_39_word_underscore_9: palm_minimum_fatal_olive_home_sense_option_lend_dice
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

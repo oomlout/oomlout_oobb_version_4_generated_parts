@@ -1,68 +1,9 @@
-bip_39_word_dash_1: purity
-bip_39_word_dash_10: purity-situate-stuff-urge-various-mad-treat-trial-issue-lunch
-bip_39_word_dash_11: purity-situate-stuff-urge-various-mad-treat-trial-issue-lunch-shoe
 bip_39_word_dash_12: purity-situate-stuff-urge-various-mad-treat-trial-issue-lunch-shoe-abuse
 bip_39_word_dash_2: purity-situate
 bip_39_word_dash_3: purity-situate-stuff
-bip_39_word_dash_4: purity-situate-stuff-urge
-bip_39_word_dash_5: purity-situate-stuff-urge-various
-bip_39_word_dash_6: purity-situate-stuff-urge-various-mad
-bip_39_word_dash_7: purity-situate-stuff-urge-various-mad-treat
-bip_39_word_dash_8: purity-situate-stuff-urge-various-mad-treat-trial
-bip_39_word_dash_9: purity-situate-stuff-urge-various-mad-treat-trial-issue
-bip_39_word_new_br_1: purity
-bip_39_word_new_br_10: purity<br>situate<br>stuff<br>urge<br>various<br>mad<br>treat<br>trial<br>issue<br>lunch
-bip_39_word_new_br_11: purity<br>situate<br>stuff<br>urge<br>various<br>mad<br>treat<br>trial<br>issue<br>lunch<br>shoe
 bip_39_word_new_br_12: purity<br>situate<br>stuff<br>urge<br>various<br>mad<br>treat<br>trial<br>issue<br>lunch<br>shoe<br>abuse
 bip_39_word_new_br_2: purity<br>situate
 bip_39_word_new_br_3: purity<br>situate<br>stuff
-bip_39_word_new_br_4: purity<br>situate<br>stuff<br>urge
-bip_39_word_new_br_5: purity<br>situate<br>stuff<br>urge<br>various
-bip_39_word_new_br_6: purity<br>situate<br>stuff<br>urge<br>various<br>mad
-bip_39_word_new_br_7: purity<br>situate<br>stuff<br>urge<br>various<br>mad<br>treat
-bip_39_word_new_br_8: purity<br>situate<br>stuff<br>urge<br>various<br>mad<br>treat<br>trial
-bip_39_word_new_br_9: purity<br>situate<br>stuff<br>urge<br>various<br>mad<br>treat<br>trial<br>issue
-bip_39_word_new_line_1: purity
-bip_39_word_new_line_10: 'purity
-
-  situate
-
-  stuff
-
-  urge
-
-  various
-
-  mad
-
-  treat
-
-  trial
-
-  issue
-
-  lunch'
-bip_39_word_new_line_11: 'purity
-
-  situate
-
-  stuff
-
-  urge
-
-  various
-
-  mad
-
-  treat
-
-  trial
-
-  issue
-
-  lunch
-
-  shoe'
 bip_39_word_new_line_12: 'purity
 
   situate
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'purity
   situate
 
   stuff'
-bip_39_word_new_line_4: 'purity
-
-  situate
-
-  stuff
-
-  urge'
-bip_39_word_new_line_5: 'purity
-
-  situate
-
-  stuff
-
-  urge
-
-  various'
-bip_39_word_new_line_6: 'purity
-
-  situate
-
-  stuff
-
-  urge
-
-  various
-
-  mad'
-bip_39_word_new_line_7: 'purity
-
-  situate
-
-  stuff
-
-  urge
-
-  various
-
-  mad
-
-  treat'
-bip_39_word_new_line_8: 'purity
-
-  situate
-
-  stuff
-
-  urge
-
-  various
-
-  mad
-
-  treat
-
-  trial'
-bip_39_word_new_line_9: 'purity
-
-  situate
-
-  stuff
-
-  urge
-
-  various
-
-  mad
-
-  treat
-
-  trial
-
-  issue'
-bip_39_word_no_space_1: purity
-bip_39_word_no_space_10: puritysituatestuffurgevariousmadtreattrialissuelunch
-bip_39_word_no_space_11: puritysituatestuffurgevariousmadtreattrialissuelunchshoe
 bip_39_word_no_space_12: puritysituatestuffurgevariousmadtreattrialissuelunchshoeabuse
 bip_39_word_no_space_2: puritysituate
 bip_39_word_no_space_3: puritysituatestuff
-bip_39_word_no_space_4: puritysituatestuffurge
-bip_39_word_no_space_5: puritysituatestuffurgevarious
-bip_39_word_no_space_6: puritysituatestuffurgevariousmad
-bip_39_word_no_space_7: puritysituatestuffurgevariousmadtreat
-bip_39_word_no_space_8: puritysituatestuffurgevariousmadtreattrial
-bip_39_word_no_space_9: puritysituatestuffurgevariousmadtreattrialissue
-bip_39_word_space_0:
-- purity
-- situate
-- stuff
-- urge
-- various
-- mad
-- treat
-- trial
-- issue
-- lunch
-- shoe
-- abuse
-bip_39_word_space_1: purity
-bip_39_word_space_10: purity situate stuff urge various mad treat trial issue lunch
-bip_39_word_space_11: purity situate stuff urge various mad treat trial issue lunch
-  shoe
 bip_39_word_space_12: purity situate stuff urge various mad treat trial issue lunch
   shoe abuse
 bip_39_word_space_2: purity situate
 bip_39_word_space_3: purity situate stuff
-bip_39_word_space_4: purity situate stuff urge
-bip_39_word_space_5: purity situate stuff urge various
-bip_39_word_space_6: purity situate stuff urge various mad
-bip_39_word_space_7: purity situate stuff urge various mad treat
-bip_39_word_space_8: purity situate stuff urge various mad treat trial
-bip_39_word_space_9: purity situate stuff urge various mad treat trial issue
-bip_39_word_underscore_1: purity
-bip_39_word_underscore_10: purity_situate_stuff_urge_various_mad_treat_trial_issue_lunch
-bip_39_word_underscore_11: purity_situate_stuff_urge_various_mad_treat_trial_issue_lunch_shoe
 bip_39_word_underscore_12: purity_situate_stuff_urge_various_mad_treat_trial_issue_lunch_shoe_abuse
 bip_39_word_underscore_2: purity_situate
 bip_39_word_underscore_3: purity_situate_stuff
-bip_39_word_underscore_4: purity_situate_stuff_urge
-bip_39_word_underscore_5: purity_situate_stuff_urge_various
-bip_39_word_underscore_6: purity_situate_stuff_urge_various_mad
-bip_39_word_underscore_7: purity_situate_stuff_urge_various_mad_treat
-bip_39_word_underscore_8: purity_situate_stuff_urge_various_mad_treat_trial
-bip_39_word_underscore_9: purity_situate_stuff_urge_various_mad_treat_trial_issue
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

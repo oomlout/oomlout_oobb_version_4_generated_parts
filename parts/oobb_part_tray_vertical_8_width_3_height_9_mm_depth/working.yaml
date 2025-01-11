@@ -1,68 +1,9 @@
-bip_39_word_dash_1: device
-bip_39_word_dash_10: device-venue-flock-remain-neck-kidney-supreme-vessel-result-rather
-bip_39_word_dash_11: device-venue-flock-remain-neck-kidney-supreme-vessel-result-rather-pelican
 bip_39_word_dash_12: device-venue-flock-remain-neck-kidney-supreme-vessel-result-rather-pelican-aunt
 bip_39_word_dash_2: device-venue
 bip_39_word_dash_3: device-venue-flock
-bip_39_word_dash_4: device-venue-flock-remain
-bip_39_word_dash_5: device-venue-flock-remain-neck
-bip_39_word_dash_6: device-venue-flock-remain-neck-kidney
-bip_39_word_dash_7: device-venue-flock-remain-neck-kidney-supreme
-bip_39_word_dash_8: device-venue-flock-remain-neck-kidney-supreme-vessel
-bip_39_word_dash_9: device-venue-flock-remain-neck-kidney-supreme-vessel-result
-bip_39_word_new_br_1: device
-bip_39_word_new_br_10: device<br>venue<br>flock<br>remain<br>neck<br>kidney<br>supreme<br>vessel<br>result<br>rather
-bip_39_word_new_br_11: device<br>venue<br>flock<br>remain<br>neck<br>kidney<br>supreme<br>vessel<br>result<br>rather<br>pelican
 bip_39_word_new_br_12: device<br>venue<br>flock<br>remain<br>neck<br>kidney<br>supreme<br>vessel<br>result<br>rather<br>pelican<br>aunt
 bip_39_word_new_br_2: device<br>venue
 bip_39_word_new_br_3: device<br>venue<br>flock
-bip_39_word_new_br_4: device<br>venue<br>flock<br>remain
-bip_39_word_new_br_5: device<br>venue<br>flock<br>remain<br>neck
-bip_39_word_new_br_6: device<br>venue<br>flock<br>remain<br>neck<br>kidney
-bip_39_word_new_br_7: device<br>venue<br>flock<br>remain<br>neck<br>kidney<br>supreme
-bip_39_word_new_br_8: device<br>venue<br>flock<br>remain<br>neck<br>kidney<br>supreme<br>vessel
-bip_39_word_new_br_9: device<br>venue<br>flock<br>remain<br>neck<br>kidney<br>supreme<br>vessel<br>result
-bip_39_word_new_line_1: device
-bip_39_word_new_line_10: 'device
-
-  venue
-
-  flock
-
-  remain
-
-  neck
-
-  kidney
-
-  supreme
-
-  vessel
-
-  result
-
-  rather'
-bip_39_word_new_line_11: 'device
-
-  venue
-
-  flock
-
-  remain
-
-  neck
-
-  kidney
-
-  supreme
-
-  vessel
-
-  result
-
-  rather
-
-  pelican'
 bip_39_word_new_line_12: 'device
 
   venue
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'device
   venue
 
   flock'
-bip_39_word_new_line_4: 'device
-
-  venue
-
-  flock
-
-  remain'
-bip_39_word_new_line_5: 'device
-
-  venue
-
-  flock
-
-  remain
-
-  neck'
-bip_39_word_new_line_6: 'device
-
-  venue
-
-  flock
-
-  remain
-
-  neck
-
-  kidney'
-bip_39_word_new_line_7: 'device
-
-  venue
-
-  flock
-
-  remain
-
-  neck
-
-  kidney
-
-  supreme'
-bip_39_word_new_line_8: 'device
-
-  venue
-
-  flock
-
-  remain
-
-  neck
-
-  kidney
-
-  supreme
-
-  vessel'
-bip_39_word_new_line_9: 'device
-
-  venue
-
-  flock
-
-  remain
-
-  neck
-
-  kidney
-
-  supreme
-
-  vessel
-
-  result'
-bip_39_word_no_space_1: device
-bip_39_word_no_space_10: devicevenueflockremainneckkidneysupremevesselresultrather
-bip_39_word_no_space_11: devicevenueflockremainneckkidneysupremevesselresultratherpelican
 bip_39_word_no_space_12: devicevenueflockremainneckkidneysupremevesselresultratherpelicanaunt
 bip_39_word_no_space_2: devicevenue
 bip_39_word_no_space_3: devicevenueflock
-bip_39_word_no_space_4: devicevenueflockremain
-bip_39_word_no_space_5: devicevenueflockremainneck
-bip_39_word_no_space_6: devicevenueflockremainneckkidney
-bip_39_word_no_space_7: devicevenueflockremainneckkidneysupreme
-bip_39_word_no_space_8: devicevenueflockremainneckkidneysupremevessel
-bip_39_word_no_space_9: devicevenueflockremainneckkidneysupremevesselresult
-bip_39_word_space_0:
-- device
-- venue
-- flock
-- remain
-- neck
-- kidney
-- supreme
-- vessel
-- result
-- rather
-- pelican
-- aunt
-bip_39_word_space_1: device
-bip_39_word_space_10: device venue flock remain neck kidney supreme vessel result
-  rather
-bip_39_word_space_11: device venue flock remain neck kidney supreme vessel result
-  rather pelican
 bip_39_word_space_12: device venue flock remain neck kidney supreme vessel result
   rather pelican aunt
 bip_39_word_space_2: device venue
 bip_39_word_space_3: device venue flock
-bip_39_word_space_4: device venue flock remain
-bip_39_word_space_5: device venue flock remain neck
-bip_39_word_space_6: device venue flock remain neck kidney
-bip_39_word_space_7: device venue flock remain neck kidney supreme
-bip_39_word_space_8: device venue flock remain neck kidney supreme vessel
-bip_39_word_space_9: device venue flock remain neck kidney supreme vessel result
-bip_39_word_underscore_1: device
-bip_39_word_underscore_10: device_venue_flock_remain_neck_kidney_supreme_vessel_result_rather
-bip_39_word_underscore_11: device_venue_flock_remain_neck_kidney_supreme_vessel_result_rather_pelican
 bip_39_word_underscore_12: device_venue_flock_remain_neck_kidney_supreme_vessel_result_rather_pelican_aunt
 bip_39_word_underscore_2: device_venue
 bip_39_word_underscore_3: device_venue_flock
-bip_39_word_underscore_4: device_venue_flock_remain
-bip_39_word_underscore_5: device_venue_flock_remain_neck
-bip_39_word_underscore_6: device_venue_flock_remain_neck_kidney
-bip_39_word_underscore_7: device_venue_flock_remain_neck_kidney_supreme
-bip_39_word_underscore_8: device_venue_flock_remain_neck_kidney_supreme_vessel
-bip_39_word_underscore_9: device_venue_flock_remain_neck_kidney_supreme_vessel_result
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

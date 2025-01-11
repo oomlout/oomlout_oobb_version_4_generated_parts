@@ -1,68 +1,9 @@
-bip_39_word_dash_1: erase
-bip_39_word_dash_10: erase-pluck-unusual-slush-bargain-orphan-velvet-wolf-prefer-denial
-bip_39_word_dash_11: erase-pluck-unusual-slush-bargain-orphan-velvet-wolf-prefer-denial-issue
 bip_39_word_dash_12: erase-pluck-unusual-slush-bargain-orphan-velvet-wolf-prefer-denial-issue-august
 bip_39_word_dash_2: erase-pluck
 bip_39_word_dash_3: erase-pluck-unusual
-bip_39_word_dash_4: erase-pluck-unusual-slush
-bip_39_word_dash_5: erase-pluck-unusual-slush-bargain
-bip_39_word_dash_6: erase-pluck-unusual-slush-bargain-orphan
-bip_39_word_dash_7: erase-pluck-unusual-slush-bargain-orphan-velvet
-bip_39_word_dash_8: erase-pluck-unusual-slush-bargain-orphan-velvet-wolf
-bip_39_word_dash_9: erase-pluck-unusual-slush-bargain-orphan-velvet-wolf-prefer
-bip_39_word_new_br_1: erase
-bip_39_word_new_br_10: erase<br>pluck<br>unusual<br>slush<br>bargain<br>orphan<br>velvet<br>wolf<br>prefer<br>denial
-bip_39_word_new_br_11: erase<br>pluck<br>unusual<br>slush<br>bargain<br>orphan<br>velvet<br>wolf<br>prefer<br>denial<br>issue
 bip_39_word_new_br_12: erase<br>pluck<br>unusual<br>slush<br>bargain<br>orphan<br>velvet<br>wolf<br>prefer<br>denial<br>issue<br>august
 bip_39_word_new_br_2: erase<br>pluck
 bip_39_word_new_br_3: erase<br>pluck<br>unusual
-bip_39_word_new_br_4: erase<br>pluck<br>unusual<br>slush
-bip_39_word_new_br_5: erase<br>pluck<br>unusual<br>slush<br>bargain
-bip_39_word_new_br_6: erase<br>pluck<br>unusual<br>slush<br>bargain<br>orphan
-bip_39_word_new_br_7: erase<br>pluck<br>unusual<br>slush<br>bargain<br>orphan<br>velvet
-bip_39_word_new_br_8: erase<br>pluck<br>unusual<br>slush<br>bargain<br>orphan<br>velvet<br>wolf
-bip_39_word_new_br_9: erase<br>pluck<br>unusual<br>slush<br>bargain<br>orphan<br>velvet<br>wolf<br>prefer
-bip_39_word_new_line_1: erase
-bip_39_word_new_line_10: 'erase
-
-  pluck
-
-  unusual
-
-  slush
-
-  bargain
-
-  orphan
-
-  velvet
-
-  wolf
-
-  prefer
-
-  denial'
-bip_39_word_new_line_11: 'erase
-
-  pluck
-
-  unusual
-
-  slush
-
-  bargain
-
-  orphan
-
-  velvet
-
-  wolf
-
-  prefer
-
-  denial
-
-  issue'
 bip_39_word_new_line_12: 'erase
 
   pluck
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'erase
   pluck
 
   unusual'
-bip_39_word_new_line_4: 'erase
-
-  pluck
-
-  unusual
-
-  slush'
-bip_39_word_new_line_5: 'erase
-
-  pluck
-
-  unusual
-
-  slush
-
-  bargain'
-bip_39_word_new_line_6: 'erase
-
-  pluck
-
-  unusual
-
-  slush
-
-  bargain
-
-  orphan'
-bip_39_word_new_line_7: 'erase
-
-  pluck
-
-  unusual
-
-  slush
-
-  bargain
-
-  orphan
-
-  velvet'
-bip_39_word_new_line_8: 'erase
-
-  pluck
-
-  unusual
-
-  slush
-
-  bargain
-
-  orphan
-
-  velvet
-
-  wolf'
-bip_39_word_new_line_9: 'erase
-
-  pluck
-
-  unusual
-
-  slush
-
-  bargain
-
-  orphan
-
-  velvet
-
-  wolf
-
-  prefer'
-bip_39_word_no_space_1: erase
-bip_39_word_no_space_10: erasepluckunusualslushbargainorphanvelvetwolfpreferdenial
-bip_39_word_no_space_11: erasepluckunusualslushbargainorphanvelvetwolfpreferdenialissue
 bip_39_word_no_space_12: erasepluckunusualslushbargainorphanvelvetwolfpreferdenialissueaugust
 bip_39_word_no_space_2: erasepluck
 bip_39_word_no_space_3: erasepluckunusual
-bip_39_word_no_space_4: erasepluckunusualslush
-bip_39_word_no_space_5: erasepluckunusualslushbargain
-bip_39_word_no_space_6: erasepluckunusualslushbargainorphan
-bip_39_word_no_space_7: erasepluckunusualslushbargainorphanvelvet
-bip_39_word_no_space_8: erasepluckunusualslushbargainorphanvelvetwolf
-bip_39_word_no_space_9: erasepluckunusualslushbargainorphanvelvetwolfprefer
-bip_39_word_space_0:
-- erase
-- pluck
-- unusual
-- slush
-- bargain
-- orphan
-- velvet
-- wolf
-- prefer
-- denial
-- issue
-- august
-bip_39_word_space_1: erase
-bip_39_word_space_10: erase pluck unusual slush bargain orphan velvet wolf prefer
-  denial
-bip_39_word_space_11: erase pluck unusual slush bargain orphan velvet wolf prefer
-  denial issue
 bip_39_word_space_12: erase pluck unusual slush bargain orphan velvet wolf prefer
   denial issue august
 bip_39_word_space_2: erase pluck
 bip_39_word_space_3: erase pluck unusual
-bip_39_word_space_4: erase pluck unusual slush
-bip_39_word_space_5: erase pluck unusual slush bargain
-bip_39_word_space_6: erase pluck unusual slush bargain orphan
-bip_39_word_space_7: erase pluck unusual slush bargain orphan velvet
-bip_39_word_space_8: erase pluck unusual slush bargain orphan velvet wolf
-bip_39_word_space_9: erase pluck unusual slush bargain orphan velvet wolf prefer
-bip_39_word_underscore_1: erase
-bip_39_word_underscore_10: erase_pluck_unusual_slush_bargain_orphan_velvet_wolf_prefer_denial
-bip_39_word_underscore_11: erase_pluck_unusual_slush_bargain_orphan_velvet_wolf_prefer_denial_issue
 bip_39_word_underscore_12: erase_pluck_unusual_slush_bargain_orphan_velvet_wolf_prefer_denial_issue_august
 bip_39_word_underscore_2: erase_pluck
 bip_39_word_underscore_3: erase_pluck_unusual
-bip_39_word_underscore_4: erase_pluck_unusual_slush
-bip_39_word_underscore_5: erase_pluck_unusual_slush_bargain
-bip_39_word_underscore_6: erase_pluck_unusual_slush_bargain_orphan
-bip_39_word_underscore_7: erase_pluck_unusual_slush_bargain_orphan_velvet
-bip_39_word_underscore_8: erase_pluck_unusual_slush_bargain_orphan_velvet_wolf
-bip_39_word_underscore_9: erase_pluck_unusual_slush_bargain_orphan_velvet_wolf_prefer
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

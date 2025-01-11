@@ -1,68 +1,9 @@
-bip_39_word_dash_1: eagle
-bip_39_word_dash_10: eagle-need-grape-giant-close-equip-spread-prosper-oven-matter
-bip_39_word_dash_11: eagle-need-grape-giant-close-equip-spread-prosper-oven-matter-fault
 bip_39_word_dash_12: eagle-need-grape-giant-close-equip-spread-prosper-oven-matter-fault-arena
 bip_39_word_dash_2: eagle-need
 bip_39_word_dash_3: eagle-need-grape
-bip_39_word_dash_4: eagle-need-grape-giant
-bip_39_word_dash_5: eagle-need-grape-giant-close
-bip_39_word_dash_6: eagle-need-grape-giant-close-equip
-bip_39_word_dash_7: eagle-need-grape-giant-close-equip-spread
-bip_39_word_dash_8: eagle-need-grape-giant-close-equip-spread-prosper
-bip_39_word_dash_9: eagle-need-grape-giant-close-equip-spread-prosper-oven
-bip_39_word_new_br_1: eagle
-bip_39_word_new_br_10: eagle<br>need<br>grape<br>giant<br>close<br>equip<br>spread<br>prosper<br>oven<br>matter
-bip_39_word_new_br_11: eagle<br>need<br>grape<br>giant<br>close<br>equip<br>spread<br>prosper<br>oven<br>matter<br>fault
 bip_39_word_new_br_12: eagle<br>need<br>grape<br>giant<br>close<br>equip<br>spread<br>prosper<br>oven<br>matter<br>fault<br>arena
 bip_39_word_new_br_2: eagle<br>need
 bip_39_word_new_br_3: eagle<br>need<br>grape
-bip_39_word_new_br_4: eagle<br>need<br>grape<br>giant
-bip_39_word_new_br_5: eagle<br>need<br>grape<br>giant<br>close
-bip_39_word_new_br_6: eagle<br>need<br>grape<br>giant<br>close<br>equip
-bip_39_word_new_br_7: eagle<br>need<br>grape<br>giant<br>close<br>equip<br>spread
-bip_39_word_new_br_8: eagle<br>need<br>grape<br>giant<br>close<br>equip<br>spread<br>prosper
-bip_39_word_new_br_9: eagle<br>need<br>grape<br>giant<br>close<br>equip<br>spread<br>prosper<br>oven
-bip_39_word_new_line_1: eagle
-bip_39_word_new_line_10: 'eagle
-
-  need
-
-  grape
-
-  giant
-
-  close
-
-  equip
-
-  spread
-
-  prosper
-
-  oven
-
-  matter'
-bip_39_word_new_line_11: 'eagle
-
-  need
-
-  grape
-
-  giant
-
-  close
-
-  equip
-
-  spread
-
-  prosper
-
-  oven
-
-  matter
-
-  fault'
 bip_39_word_new_line_12: 'eagle
 
   need
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'eagle
   need
 
   grape'
-bip_39_word_new_line_4: 'eagle
-
-  need
-
-  grape
-
-  giant'
-bip_39_word_new_line_5: 'eagle
-
-  need
-
-  grape
-
-  giant
-
-  close'
-bip_39_word_new_line_6: 'eagle
-
-  need
-
-  grape
-
-  giant
-
-  close
-
-  equip'
-bip_39_word_new_line_7: 'eagle
-
-  need
-
-  grape
-
-  giant
-
-  close
-
-  equip
-
-  spread'
-bip_39_word_new_line_8: 'eagle
-
-  need
-
-  grape
-
-  giant
-
-  close
-
-  equip
-
-  spread
-
-  prosper'
-bip_39_word_new_line_9: 'eagle
-
-  need
-
-  grape
-
-  giant
-
-  close
-
-  equip
-
-  spread
-
-  prosper
-
-  oven'
-bip_39_word_no_space_1: eagle
-bip_39_word_no_space_10: eagleneedgrapegiantcloseequipspreadprosperovenmatter
-bip_39_word_no_space_11: eagleneedgrapegiantcloseequipspreadprosperovenmatterfault
 bip_39_word_no_space_12: eagleneedgrapegiantcloseequipspreadprosperovenmatterfaultarena
 bip_39_word_no_space_2: eagleneed
 bip_39_word_no_space_3: eagleneedgrape
-bip_39_word_no_space_4: eagleneedgrapegiant
-bip_39_word_no_space_5: eagleneedgrapegiantclose
-bip_39_word_no_space_6: eagleneedgrapegiantcloseequip
-bip_39_word_no_space_7: eagleneedgrapegiantcloseequipspread
-bip_39_word_no_space_8: eagleneedgrapegiantcloseequipspreadprosper
-bip_39_word_no_space_9: eagleneedgrapegiantcloseequipspreadprosperoven
-bip_39_word_space_0:
-- eagle
-- need
-- grape
-- giant
-- close
-- equip
-- spread
-- prosper
-- oven
-- matter
-- fault
-- arena
-bip_39_word_space_1: eagle
-bip_39_word_space_10: eagle need grape giant close equip spread prosper oven matter
-bip_39_word_space_11: eagle need grape giant close equip spread prosper oven matter
-  fault
 bip_39_word_space_12: eagle need grape giant close equip spread prosper oven matter
   fault arena
 bip_39_word_space_2: eagle need
 bip_39_word_space_3: eagle need grape
-bip_39_word_space_4: eagle need grape giant
-bip_39_word_space_5: eagle need grape giant close
-bip_39_word_space_6: eagle need grape giant close equip
-bip_39_word_space_7: eagle need grape giant close equip spread
-bip_39_word_space_8: eagle need grape giant close equip spread prosper
-bip_39_word_space_9: eagle need grape giant close equip spread prosper oven
-bip_39_word_underscore_1: eagle
-bip_39_word_underscore_10: eagle_need_grape_giant_close_equip_spread_prosper_oven_matter
-bip_39_word_underscore_11: eagle_need_grape_giant_close_equip_spread_prosper_oven_matter_fault
 bip_39_word_underscore_12: eagle_need_grape_giant_close_equip_spread_prosper_oven_matter_fault_arena
 bip_39_word_underscore_2: eagle_need
 bip_39_word_underscore_3: eagle_need_grape
-bip_39_word_underscore_4: eagle_need_grape_giant
-bip_39_word_underscore_5: eagle_need_grape_giant_close
-bip_39_word_underscore_6: eagle_need_grape_giant_close_equip
-bip_39_word_underscore_7: eagle_need_grape_giant_close_equip_spread
-bip_39_word_underscore_8: eagle_need_grape_giant_close_equip_spread_prosper
-bip_39_word_underscore_9: eagle_need_grape_giant_close_equip_spread_prosper_oven
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

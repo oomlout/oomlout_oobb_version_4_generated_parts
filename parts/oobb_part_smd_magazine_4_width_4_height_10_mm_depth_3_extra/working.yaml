@@ -1,68 +1,9 @@
-bip_39_word_dash_1: amount
-bip_39_word_dash_10: amount-medal-reduce-travel-magic-auction-sheriff-vast-hammer-orbit
-bip_39_word_dash_11: amount-medal-reduce-travel-magic-auction-sheriff-vast-hammer-orbit-news
 bip_39_word_dash_12: amount-medal-reduce-travel-magic-auction-sheriff-vast-hammer-orbit-news-arrange
 bip_39_word_dash_2: amount-medal
 bip_39_word_dash_3: amount-medal-reduce
-bip_39_word_dash_4: amount-medal-reduce-travel
-bip_39_word_dash_5: amount-medal-reduce-travel-magic
-bip_39_word_dash_6: amount-medal-reduce-travel-magic-auction
-bip_39_word_dash_7: amount-medal-reduce-travel-magic-auction-sheriff
-bip_39_word_dash_8: amount-medal-reduce-travel-magic-auction-sheriff-vast
-bip_39_word_dash_9: amount-medal-reduce-travel-magic-auction-sheriff-vast-hammer
-bip_39_word_new_br_1: amount
-bip_39_word_new_br_10: amount<br>medal<br>reduce<br>travel<br>magic<br>auction<br>sheriff<br>vast<br>hammer<br>orbit
-bip_39_word_new_br_11: amount<br>medal<br>reduce<br>travel<br>magic<br>auction<br>sheriff<br>vast<br>hammer<br>orbit<br>news
 bip_39_word_new_br_12: amount<br>medal<br>reduce<br>travel<br>magic<br>auction<br>sheriff<br>vast<br>hammer<br>orbit<br>news<br>arrange
 bip_39_word_new_br_2: amount<br>medal
 bip_39_word_new_br_3: amount<br>medal<br>reduce
-bip_39_word_new_br_4: amount<br>medal<br>reduce<br>travel
-bip_39_word_new_br_5: amount<br>medal<br>reduce<br>travel<br>magic
-bip_39_word_new_br_6: amount<br>medal<br>reduce<br>travel<br>magic<br>auction
-bip_39_word_new_br_7: amount<br>medal<br>reduce<br>travel<br>magic<br>auction<br>sheriff
-bip_39_word_new_br_8: amount<br>medal<br>reduce<br>travel<br>magic<br>auction<br>sheriff<br>vast
-bip_39_word_new_br_9: amount<br>medal<br>reduce<br>travel<br>magic<br>auction<br>sheriff<br>vast<br>hammer
-bip_39_word_new_line_1: amount
-bip_39_word_new_line_10: 'amount
-
-  medal
-
-  reduce
-
-  travel
-
-  magic
-
-  auction
-
-  sheriff
-
-  vast
-
-  hammer
-
-  orbit'
-bip_39_word_new_line_11: 'amount
-
-  medal
-
-  reduce
-
-  travel
-
-  magic
-
-  auction
-
-  sheriff
-
-  vast
-
-  hammer
-
-  orbit
-
-  news'
 bip_39_word_new_line_12: 'amount
 
   medal
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'amount
   medal
 
   reduce'
-bip_39_word_new_line_4: 'amount
-
-  medal
-
-  reduce
-
-  travel'
-bip_39_word_new_line_5: 'amount
-
-  medal
-
-  reduce
-
-  travel
-
-  magic'
-bip_39_word_new_line_6: 'amount
-
-  medal
-
-  reduce
-
-  travel
-
-  magic
-
-  auction'
-bip_39_word_new_line_7: 'amount
-
-  medal
-
-  reduce
-
-  travel
-
-  magic
-
-  auction
-
-  sheriff'
-bip_39_word_new_line_8: 'amount
-
-  medal
-
-  reduce
-
-  travel
-
-  magic
-
-  auction
-
-  sheriff
-
-  vast'
-bip_39_word_new_line_9: 'amount
-
-  medal
-
-  reduce
-
-  travel
-
-  magic
-
-  auction
-
-  sheriff
-
-  vast
-
-  hammer'
-bip_39_word_no_space_1: amount
-bip_39_word_no_space_10: amountmedalreducetravelmagicauctionsheriffvasthammerorbit
-bip_39_word_no_space_11: amountmedalreducetravelmagicauctionsheriffvasthammerorbitnews
 bip_39_word_no_space_12: amountmedalreducetravelmagicauctionsheriffvasthammerorbitnewsarrange
 bip_39_word_no_space_2: amountmedal
 bip_39_word_no_space_3: amountmedalreduce
-bip_39_word_no_space_4: amountmedalreducetravel
-bip_39_word_no_space_5: amountmedalreducetravelmagic
-bip_39_word_no_space_6: amountmedalreducetravelmagicauction
-bip_39_word_no_space_7: amountmedalreducetravelmagicauctionsheriff
-bip_39_word_no_space_8: amountmedalreducetravelmagicauctionsheriffvast
-bip_39_word_no_space_9: amountmedalreducetravelmagicauctionsheriffvasthammer
-bip_39_word_space_0:
-- amount
-- medal
-- reduce
-- travel
-- magic
-- auction
-- sheriff
-- vast
-- hammer
-- orbit
-- news
-- arrange
-bip_39_word_space_1: amount
-bip_39_word_space_10: amount medal reduce travel magic auction sheriff vast hammer
-  orbit
-bip_39_word_space_11: amount medal reduce travel magic auction sheriff vast hammer
-  orbit news
 bip_39_word_space_12: amount medal reduce travel magic auction sheriff vast hammer
   orbit news arrange
 bip_39_word_space_2: amount medal
 bip_39_word_space_3: amount medal reduce
-bip_39_word_space_4: amount medal reduce travel
-bip_39_word_space_5: amount medal reduce travel magic
-bip_39_word_space_6: amount medal reduce travel magic auction
-bip_39_word_space_7: amount medal reduce travel magic auction sheriff
-bip_39_word_space_8: amount medal reduce travel magic auction sheriff vast
-bip_39_word_space_9: amount medal reduce travel magic auction sheriff vast hammer
-bip_39_word_underscore_1: amount
-bip_39_word_underscore_10: amount_medal_reduce_travel_magic_auction_sheriff_vast_hammer_orbit
-bip_39_word_underscore_11: amount_medal_reduce_travel_magic_auction_sheriff_vast_hammer_orbit_news
 bip_39_word_underscore_12: amount_medal_reduce_travel_magic_auction_sheriff_vast_hammer_orbit_news_arrange
 bip_39_word_underscore_2: amount_medal
 bip_39_word_underscore_3: amount_medal_reduce
-bip_39_word_underscore_4: amount_medal_reduce_travel
-bip_39_word_underscore_5: amount_medal_reduce_travel_magic
-bip_39_word_underscore_6: amount_medal_reduce_travel_magic_auction
-bip_39_word_underscore_7: amount_medal_reduce_travel_magic_auction_sheriff
-bip_39_word_underscore_8: amount_medal_reduce_travel_magic_auction_sheriff_vast
-bip_39_word_underscore_9: amount_medal_reduce_travel_magic_auction_sheriff_vast_hammer
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

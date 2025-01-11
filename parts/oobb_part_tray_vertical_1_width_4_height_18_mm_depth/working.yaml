@@ -1,68 +1,9 @@
-bip_39_word_dash_1: floor
-bip_39_word_dash_10: floor-small-awesome-tired-feature-isolate-skill-broken-venue-provide
-bip_39_word_dash_11: floor-small-awesome-tired-feature-isolate-skill-broken-venue-provide-hurt
 bip_39_word_dash_12: floor-small-awesome-tired-feature-isolate-skill-broken-venue-provide-hurt-atom
 bip_39_word_dash_2: floor-small
 bip_39_word_dash_3: floor-small-awesome
-bip_39_word_dash_4: floor-small-awesome-tired
-bip_39_word_dash_5: floor-small-awesome-tired-feature
-bip_39_word_dash_6: floor-small-awesome-tired-feature-isolate
-bip_39_word_dash_7: floor-small-awesome-tired-feature-isolate-skill
-bip_39_word_dash_8: floor-small-awesome-tired-feature-isolate-skill-broken
-bip_39_word_dash_9: floor-small-awesome-tired-feature-isolate-skill-broken-venue
-bip_39_word_new_br_1: floor
-bip_39_word_new_br_10: floor<br>small<br>awesome<br>tired<br>feature<br>isolate<br>skill<br>broken<br>venue<br>provide
-bip_39_word_new_br_11: floor<br>small<br>awesome<br>tired<br>feature<br>isolate<br>skill<br>broken<br>venue<br>provide<br>hurt
 bip_39_word_new_br_12: floor<br>small<br>awesome<br>tired<br>feature<br>isolate<br>skill<br>broken<br>venue<br>provide<br>hurt<br>atom
 bip_39_word_new_br_2: floor<br>small
 bip_39_word_new_br_3: floor<br>small<br>awesome
-bip_39_word_new_br_4: floor<br>small<br>awesome<br>tired
-bip_39_word_new_br_5: floor<br>small<br>awesome<br>tired<br>feature
-bip_39_word_new_br_6: floor<br>small<br>awesome<br>tired<br>feature<br>isolate
-bip_39_word_new_br_7: floor<br>small<br>awesome<br>tired<br>feature<br>isolate<br>skill
-bip_39_word_new_br_8: floor<br>small<br>awesome<br>tired<br>feature<br>isolate<br>skill<br>broken
-bip_39_word_new_br_9: floor<br>small<br>awesome<br>tired<br>feature<br>isolate<br>skill<br>broken<br>venue
-bip_39_word_new_line_1: floor
-bip_39_word_new_line_10: 'floor
-
-  small
-
-  awesome
-
-  tired
-
-  feature
-
-  isolate
-
-  skill
-
-  broken
-
-  venue
-
-  provide'
-bip_39_word_new_line_11: 'floor
-
-  small
-
-  awesome
-
-  tired
-
-  feature
-
-  isolate
-
-  skill
-
-  broken
-
-  venue
-
-  provide
-
-  hurt'
 bip_39_word_new_line_12: 'floor
 
   small
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'floor
   small
 
   awesome'
-bip_39_word_new_line_4: 'floor
-
-  small
-
-  awesome
-
-  tired'
-bip_39_word_new_line_5: 'floor
-
-  small
-
-  awesome
-
-  tired
-
-  feature'
-bip_39_word_new_line_6: 'floor
-
-  small
-
-  awesome
-
-  tired
-
-  feature
-
-  isolate'
-bip_39_word_new_line_7: 'floor
-
-  small
-
-  awesome
-
-  tired
-
-  feature
-
-  isolate
-
-  skill'
-bip_39_word_new_line_8: 'floor
-
-  small
-
-  awesome
-
-  tired
-
-  feature
-
-  isolate
-
-  skill
-
-  broken'
-bip_39_word_new_line_9: 'floor
-
-  small
-
-  awesome
-
-  tired
-
-  feature
-
-  isolate
-
-  skill
-
-  broken
-
-  venue'
-bip_39_word_no_space_1: floor
-bip_39_word_no_space_10: floorsmallawesometiredfeatureisolateskillbrokenvenueprovide
-bip_39_word_no_space_11: floorsmallawesometiredfeatureisolateskillbrokenvenueprovidehurt
 bip_39_word_no_space_12: floorsmallawesometiredfeatureisolateskillbrokenvenueprovidehurtatom
 bip_39_word_no_space_2: floorsmall
 bip_39_word_no_space_3: floorsmallawesome
-bip_39_word_no_space_4: floorsmallawesometired
-bip_39_word_no_space_5: floorsmallawesometiredfeature
-bip_39_word_no_space_6: floorsmallawesometiredfeatureisolate
-bip_39_word_no_space_7: floorsmallawesometiredfeatureisolateskill
-bip_39_word_no_space_8: floorsmallawesometiredfeatureisolateskillbroken
-bip_39_word_no_space_9: floorsmallawesometiredfeatureisolateskillbrokenvenue
-bip_39_word_space_0:
-- floor
-- small
-- awesome
-- tired
-- feature
-- isolate
-- skill
-- broken
-- venue
-- provide
-- hurt
-- atom
-bip_39_word_space_1: floor
-bip_39_word_space_10: floor small awesome tired feature isolate skill broken venue
-  provide
-bip_39_word_space_11: floor small awesome tired feature isolate skill broken venue
-  provide hurt
 bip_39_word_space_12: floor small awesome tired feature isolate skill broken venue
   provide hurt atom
 bip_39_word_space_2: floor small
 bip_39_word_space_3: floor small awesome
-bip_39_word_space_4: floor small awesome tired
-bip_39_word_space_5: floor small awesome tired feature
-bip_39_word_space_6: floor small awesome tired feature isolate
-bip_39_word_space_7: floor small awesome tired feature isolate skill
-bip_39_word_space_8: floor small awesome tired feature isolate skill broken
-bip_39_word_space_9: floor small awesome tired feature isolate skill broken venue
-bip_39_word_underscore_1: floor
-bip_39_word_underscore_10: floor_small_awesome_tired_feature_isolate_skill_broken_venue_provide
-bip_39_word_underscore_11: floor_small_awesome_tired_feature_isolate_skill_broken_venue_provide_hurt
 bip_39_word_underscore_12: floor_small_awesome_tired_feature_isolate_skill_broken_venue_provide_hurt_atom
 bip_39_word_underscore_2: floor_small
 bip_39_word_underscore_3: floor_small_awesome
-bip_39_word_underscore_4: floor_small_awesome_tired
-bip_39_word_underscore_5: floor_small_awesome_tired_feature
-bip_39_word_underscore_6: floor_small_awesome_tired_feature_isolate
-bip_39_word_underscore_7: floor_small_awesome_tired_feature_isolate_skill
-bip_39_word_underscore_8: floor_small_awesome_tired_feature_isolate_skill_broken
-bip_39_word_underscore_9: floor_small_awesome_tired_feature_isolate_skill_broken_venue
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

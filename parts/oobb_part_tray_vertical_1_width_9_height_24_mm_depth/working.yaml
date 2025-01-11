@@ -1,68 +1,9 @@
-bip_39_word_dash_1: distance
-bip_39_word_dash_10: distance-obscure-rally-lift-loud-sea-shift-border-general-diet
-bip_39_word_dash_11: distance-obscure-rally-lift-loud-sea-shift-border-general-diet-glare
 bip_39_word_dash_12: distance-obscure-rally-lift-loud-sea-shift-border-general-diet-glare-arrange
 bip_39_word_dash_2: distance-obscure
 bip_39_word_dash_3: distance-obscure-rally
-bip_39_word_dash_4: distance-obscure-rally-lift
-bip_39_word_dash_5: distance-obscure-rally-lift-loud
-bip_39_word_dash_6: distance-obscure-rally-lift-loud-sea
-bip_39_word_dash_7: distance-obscure-rally-lift-loud-sea-shift
-bip_39_word_dash_8: distance-obscure-rally-lift-loud-sea-shift-border
-bip_39_word_dash_9: distance-obscure-rally-lift-loud-sea-shift-border-general
-bip_39_word_new_br_1: distance
-bip_39_word_new_br_10: distance<br>obscure<br>rally<br>lift<br>loud<br>sea<br>shift<br>border<br>general<br>diet
-bip_39_word_new_br_11: distance<br>obscure<br>rally<br>lift<br>loud<br>sea<br>shift<br>border<br>general<br>diet<br>glare
 bip_39_word_new_br_12: distance<br>obscure<br>rally<br>lift<br>loud<br>sea<br>shift<br>border<br>general<br>diet<br>glare<br>arrange
 bip_39_word_new_br_2: distance<br>obscure
 bip_39_word_new_br_3: distance<br>obscure<br>rally
-bip_39_word_new_br_4: distance<br>obscure<br>rally<br>lift
-bip_39_word_new_br_5: distance<br>obscure<br>rally<br>lift<br>loud
-bip_39_word_new_br_6: distance<br>obscure<br>rally<br>lift<br>loud<br>sea
-bip_39_word_new_br_7: distance<br>obscure<br>rally<br>lift<br>loud<br>sea<br>shift
-bip_39_word_new_br_8: distance<br>obscure<br>rally<br>lift<br>loud<br>sea<br>shift<br>border
-bip_39_word_new_br_9: distance<br>obscure<br>rally<br>lift<br>loud<br>sea<br>shift<br>border<br>general
-bip_39_word_new_line_1: distance
-bip_39_word_new_line_10: 'distance
-
-  obscure
-
-  rally
-
-  lift
-
-  loud
-
-  sea
-
-  shift
-
-  border
-
-  general
-
-  diet'
-bip_39_word_new_line_11: 'distance
-
-  obscure
-
-  rally
-
-  lift
-
-  loud
-
-  sea
-
-  shift
-
-  border
-
-  general
-
-  diet
-
-  glare'
 bip_39_word_new_line_12: 'distance
 
   obscure
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'distance
   obscure
 
   rally'
-bip_39_word_new_line_4: 'distance
-
-  obscure
-
-  rally
-
-  lift'
-bip_39_word_new_line_5: 'distance
-
-  obscure
-
-  rally
-
-  lift
-
-  loud'
-bip_39_word_new_line_6: 'distance
-
-  obscure
-
-  rally
-
-  lift
-
-  loud
-
-  sea'
-bip_39_word_new_line_7: 'distance
-
-  obscure
-
-  rally
-
-  lift
-
-  loud
-
-  sea
-
-  shift'
-bip_39_word_new_line_8: 'distance
-
-  obscure
-
-  rally
-
-  lift
-
-  loud
-
-  sea
-
-  shift
-
-  border'
-bip_39_word_new_line_9: 'distance
-
-  obscure
-
-  rally
-
-  lift
-
-  loud
-
-  sea
-
-  shift
-
-  border
-
-  general'
-bip_39_word_no_space_1: distance
-bip_39_word_no_space_10: distanceobscurerallyliftloudseashiftbordergeneraldiet
-bip_39_word_no_space_11: distanceobscurerallyliftloudseashiftbordergeneraldietglare
 bip_39_word_no_space_12: distanceobscurerallyliftloudseashiftbordergeneraldietglarearrange
 bip_39_word_no_space_2: distanceobscure
 bip_39_word_no_space_3: distanceobscurerally
-bip_39_word_no_space_4: distanceobscurerallylift
-bip_39_word_no_space_5: distanceobscurerallyliftloud
-bip_39_word_no_space_6: distanceobscurerallyliftloudsea
-bip_39_word_no_space_7: distanceobscurerallyliftloudseashift
-bip_39_word_no_space_8: distanceobscurerallyliftloudseashiftborder
-bip_39_word_no_space_9: distanceobscurerallyliftloudseashiftbordergeneral
-bip_39_word_space_0:
-- distance
-- obscure
-- rally
-- lift
-- loud
-- sea
-- shift
-- border
-- general
-- diet
-- glare
-- arrange
-bip_39_word_space_1: distance
-bip_39_word_space_10: distance obscure rally lift loud sea shift border general diet
-bip_39_word_space_11: distance obscure rally lift loud sea shift border general diet
-  glare
 bip_39_word_space_12: distance obscure rally lift loud sea shift border general diet
   glare arrange
 bip_39_word_space_2: distance obscure
 bip_39_word_space_3: distance obscure rally
-bip_39_word_space_4: distance obscure rally lift
-bip_39_word_space_5: distance obscure rally lift loud
-bip_39_word_space_6: distance obscure rally lift loud sea
-bip_39_word_space_7: distance obscure rally lift loud sea shift
-bip_39_word_space_8: distance obscure rally lift loud sea shift border
-bip_39_word_space_9: distance obscure rally lift loud sea shift border general
-bip_39_word_underscore_1: distance
-bip_39_word_underscore_10: distance_obscure_rally_lift_loud_sea_shift_border_general_diet
-bip_39_word_underscore_11: distance_obscure_rally_lift_loud_sea_shift_border_general_diet_glare
 bip_39_word_underscore_12: distance_obscure_rally_lift_loud_sea_shift_border_general_diet_glare_arrange
 bip_39_word_underscore_2: distance_obscure
 bip_39_word_underscore_3: distance_obscure_rally
-bip_39_word_underscore_4: distance_obscure_rally_lift
-bip_39_word_underscore_5: distance_obscure_rally_lift_loud
-bip_39_word_underscore_6: distance_obscure_rally_lift_loud_sea
-bip_39_word_underscore_7: distance_obscure_rally_lift_loud_sea_shift
-bip_39_word_underscore_8: distance_obscure_rally_lift_loud_sea_shift_border
-bip_39_word_underscore_9: distance_obscure_rally_lift_loud_sea_shift_border_general
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

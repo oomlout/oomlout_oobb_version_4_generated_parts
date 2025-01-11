@@ -1,68 +1,9 @@
-bip_39_word_dash_1: potato
-bip_39_word_dash_10: potato-wish-airport-kangaroo-enact-burden-master-vacuum-hurt-jeans
-bip_39_word_dash_11: potato-wish-airport-kangaroo-enact-burden-master-vacuum-hurt-jeans-have
 bip_39_word_dash_12: potato-wish-airport-kangaroo-enact-burden-master-vacuum-hurt-jeans-have-agent
 bip_39_word_dash_2: potato-wish
 bip_39_word_dash_3: potato-wish-airport
-bip_39_word_dash_4: potato-wish-airport-kangaroo
-bip_39_word_dash_5: potato-wish-airport-kangaroo-enact
-bip_39_word_dash_6: potato-wish-airport-kangaroo-enact-burden
-bip_39_word_dash_7: potato-wish-airport-kangaroo-enact-burden-master
-bip_39_word_dash_8: potato-wish-airport-kangaroo-enact-burden-master-vacuum
-bip_39_word_dash_9: potato-wish-airport-kangaroo-enact-burden-master-vacuum-hurt
-bip_39_word_new_br_1: potato
-bip_39_word_new_br_10: potato<br>wish<br>airport<br>kangaroo<br>enact<br>burden<br>master<br>vacuum<br>hurt<br>jeans
-bip_39_word_new_br_11: potato<br>wish<br>airport<br>kangaroo<br>enact<br>burden<br>master<br>vacuum<br>hurt<br>jeans<br>have
 bip_39_word_new_br_12: potato<br>wish<br>airport<br>kangaroo<br>enact<br>burden<br>master<br>vacuum<br>hurt<br>jeans<br>have<br>agent
 bip_39_word_new_br_2: potato<br>wish
 bip_39_word_new_br_3: potato<br>wish<br>airport
-bip_39_word_new_br_4: potato<br>wish<br>airport<br>kangaroo
-bip_39_word_new_br_5: potato<br>wish<br>airport<br>kangaroo<br>enact
-bip_39_word_new_br_6: potato<br>wish<br>airport<br>kangaroo<br>enact<br>burden
-bip_39_word_new_br_7: potato<br>wish<br>airport<br>kangaroo<br>enact<br>burden<br>master
-bip_39_word_new_br_8: potato<br>wish<br>airport<br>kangaroo<br>enact<br>burden<br>master<br>vacuum
-bip_39_word_new_br_9: potato<br>wish<br>airport<br>kangaroo<br>enact<br>burden<br>master<br>vacuum<br>hurt
-bip_39_word_new_line_1: potato
-bip_39_word_new_line_10: 'potato
-
-  wish
-
-  airport
-
-  kangaroo
-
-  enact
-
-  burden
-
-  master
-
-  vacuum
-
-  hurt
-
-  jeans'
-bip_39_word_new_line_11: 'potato
-
-  wish
-
-  airport
-
-  kangaroo
-
-  enact
-
-  burden
-
-  master
-
-  vacuum
-
-  hurt
-
-  jeans
-
-  have'
 bip_39_word_new_line_12: 'potato
 
   wish
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'potato
   wish
 
   airport'
-bip_39_word_new_line_4: 'potato
-
-  wish
-
-  airport
-
-  kangaroo'
-bip_39_word_new_line_5: 'potato
-
-  wish
-
-  airport
-
-  kangaroo
-
-  enact'
-bip_39_word_new_line_6: 'potato
-
-  wish
-
-  airport
-
-  kangaroo
-
-  enact
-
-  burden'
-bip_39_word_new_line_7: 'potato
-
-  wish
-
-  airport
-
-  kangaroo
-
-  enact
-
-  burden
-
-  master'
-bip_39_word_new_line_8: 'potato
-
-  wish
-
-  airport
-
-  kangaroo
-
-  enact
-
-  burden
-
-  master
-
-  vacuum'
-bip_39_word_new_line_9: 'potato
-
-  wish
-
-  airport
-
-  kangaroo
-
-  enact
-
-  burden
-
-  master
-
-  vacuum
-
-  hurt'
-bip_39_word_no_space_1: potato
-bip_39_word_no_space_10: potatowishairportkangarooenactburdenmastervacuumhurtjeans
-bip_39_word_no_space_11: potatowishairportkangarooenactburdenmastervacuumhurtjeanshave
 bip_39_word_no_space_12: potatowishairportkangarooenactburdenmastervacuumhurtjeanshaveagent
 bip_39_word_no_space_2: potatowish
 bip_39_word_no_space_3: potatowishairport
-bip_39_word_no_space_4: potatowishairportkangaroo
-bip_39_word_no_space_5: potatowishairportkangarooenact
-bip_39_word_no_space_6: potatowishairportkangarooenactburden
-bip_39_word_no_space_7: potatowishairportkangarooenactburdenmaster
-bip_39_word_no_space_8: potatowishairportkangarooenactburdenmastervacuum
-bip_39_word_no_space_9: potatowishairportkangarooenactburdenmastervacuumhurt
-bip_39_word_space_0:
-- potato
-- wish
-- airport
-- kangaroo
-- enact
-- burden
-- master
-- vacuum
-- hurt
-- jeans
-- have
-- agent
-bip_39_word_space_1: potato
-bip_39_word_space_10: potato wish airport kangaroo enact burden master vacuum hurt
-  jeans
-bip_39_word_space_11: potato wish airport kangaroo enact burden master vacuum hurt
-  jeans have
 bip_39_word_space_12: potato wish airport kangaroo enact burden master vacuum hurt
   jeans have agent
 bip_39_word_space_2: potato wish
 bip_39_word_space_3: potato wish airport
-bip_39_word_space_4: potato wish airport kangaroo
-bip_39_word_space_5: potato wish airport kangaroo enact
-bip_39_word_space_6: potato wish airport kangaroo enact burden
-bip_39_word_space_7: potato wish airport kangaroo enact burden master
-bip_39_word_space_8: potato wish airport kangaroo enact burden master vacuum
-bip_39_word_space_9: potato wish airport kangaroo enact burden master vacuum hurt
-bip_39_word_underscore_1: potato
-bip_39_word_underscore_10: potato_wish_airport_kangaroo_enact_burden_master_vacuum_hurt_jeans
-bip_39_word_underscore_11: potato_wish_airport_kangaroo_enact_burden_master_vacuum_hurt_jeans_have
 bip_39_word_underscore_12: potato_wish_airport_kangaroo_enact_burden_master_vacuum_hurt_jeans_have_agent
 bip_39_word_underscore_2: potato_wish
 bip_39_word_underscore_3: potato_wish_airport
-bip_39_word_underscore_4: potato_wish_airport_kangaroo
-bip_39_word_underscore_5: potato_wish_airport_kangaroo_enact
-bip_39_word_underscore_6: potato_wish_airport_kangaroo_enact_burden
-bip_39_word_underscore_7: potato_wish_airport_kangaroo_enact_burden_master
-bip_39_word_underscore_8: potato_wish_airport_kangaroo_enact_burden_master_vacuum
-bip_39_word_underscore_9: potato_wish_airport_kangaroo_enact_burden_master_vacuum_hurt
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

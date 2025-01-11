@@ -1,68 +1,9 @@
-bip_39_word_dash_1: release
-bip_39_word_dash_10: release-fancy-pumpkin-slide-stamp-captain-like-replace-enrich-noise
-bip_39_word_dash_11: release-fancy-pumpkin-slide-stamp-captain-like-replace-enrich-noise-quote
 bip_39_word_dash_12: release-fancy-pumpkin-slide-stamp-captain-like-replace-enrich-noise-quote-alter
 bip_39_word_dash_2: release-fancy
 bip_39_word_dash_3: release-fancy-pumpkin
-bip_39_word_dash_4: release-fancy-pumpkin-slide
-bip_39_word_dash_5: release-fancy-pumpkin-slide-stamp
-bip_39_word_dash_6: release-fancy-pumpkin-slide-stamp-captain
-bip_39_word_dash_7: release-fancy-pumpkin-slide-stamp-captain-like
-bip_39_word_dash_8: release-fancy-pumpkin-slide-stamp-captain-like-replace
-bip_39_word_dash_9: release-fancy-pumpkin-slide-stamp-captain-like-replace-enrich
-bip_39_word_new_br_1: release
-bip_39_word_new_br_10: release<br>fancy<br>pumpkin<br>slide<br>stamp<br>captain<br>like<br>replace<br>enrich<br>noise
-bip_39_word_new_br_11: release<br>fancy<br>pumpkin<br>slide<br>stamp<br>captain<br>like<br>replace<br>enrich<br>noise<br>quote
 bip_39_word_new_br_12: release<br>fancy<br>pumpkin<br>slide<br>stamp<br>captain<br>like<br>replace<br>enrich<br>noise<br>quote<br>alter
 bip_39_word_new_br_2: release<br>fancy
 bip_39_word_new_br_3: release<br>fancy<br>pumpkin
-bip_39_word_new_br_4: release<br>fancy<br>pumpkin<br>slide
-bip_39_word_new_br_5: release<br>fancy<br>pumpkin<br>slide<br>stamp
-bip_39_word_new_br_6: release<br>fancy<br>pumpkin<br>slide<br>stamp<br>captain
-bip_39_word_new_br_7: release<br>fancy<br>pumpkin<br>slide<br>stamp<br>captain<br>like
-bip_39_word_new_br_8: release<br>fancy<br>pumpkin<br>slide<br>stamp<br>captain<br>like<br>replace
-bip_39_word_new_br_9: release<br>fancy<br>pumpkin<br>slide<br>stamp<br>captain<br>like<br>replace<br>enrich
-bip_39_word_new_line_1: release
-bip_39_word_new_line_10: 'release
-
-  fancy
-
-  pumpkin
-
-  slide
-
-  stamp
-
-  captain
-
-  like
-
-  replace
-
-  enrich
-
-  noise'
-bip_39_word_new_line_11: 'release
-
-  fancy
-
-  pumpkin
-
-  slide
-
-  stamp
-
-  captain
-
-  like
-
-  replace
-
-  enrich
-
-  noise
-
-  quote'
 bip_39_word_new_line_12: 'release
 
   fancy
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'release
   fancy
 
   pumpkin'
-bip_39_word_new_line_4: 'release
-
-  fancy
-
-  pumpkin
-
-  slide'
-bip_39_word_new_line_5: 'release
-
-  fancy
-
-  pumpkin
-
-  slide
-
-  stamp'
-bip_39_word_new_line_6: 'release
-
-  fancy
-
-  pumpkin
-
-  slide
-
-  stamp
-
-  captain'
-bip_39_word_new_line_7: 'release
-
-  fancy
-
-  pumpkin
-
-  slide
-
-  stamp
-
-  captain
-
-  like'
-bip_39_word_new_line_8: 'release
-
-  fancy
-
-  pumpkin
-
-  slide
-
-  stamp
-
-  captain
-
-  like
-
-  replace'
-bip_39_word_new_line_9: 'release
-
-  fancy
-
-  pumpkin
-
-  slide
-
-  stamp
-
-  captain
-
-  like
-
-  replace
-
-  enrich'
-bip_39_word_no_space_1: release
-bip_39_word_no_space_10: releasefancypumpkinslidestampcaptainlikereplaceenrichnoise
-bip_39_word_no_space_11: releasefancypumpkinslidestampcaptainlikereplaceenrichnoisequote
 bip_39_word_no_space_12: releasefancypumpkinslidestampcaptainlikereplaceenrichnoisequotealter
 bip_39_word_no_space_2: releasefancy
 bip_39_word_no_space_3: releasefancypumpkin
-bip_39_word_no_space_4: releasefancypumpkinslide
-bip_39_word_no_space_5: releasefancypumpkinslidestamp
-bip_39_word_no_space_6: releasefancypumpkinslidestampcaptain
-bip_39_word_no_space_7: releasefancypumpkinslidestampcaptainlike
-bip_39_word_no_space_8: releasefancypumpkinslidestampcaptainlikereplace
-bip_39_word_no_space_9: releasefancypumpkinslidestampcaptainlikereplaceenrich
-bip_39_word_space_0:
-- release
-- fancy
-- pumpkin
-- slide
-- stamp
-- captain
-- like
-- replace
-- enrich
-- noise
-- quote
-- alter
-bip_39_word_space_1: release
-bip_39_word_space_10: release fancy pumpkin slide stamp captain like replace enrich
-  noise
-bip_39_word_space_11: release fancy pumpkin slide stamp captain like replace enrich
-  noise quote
 bip_39_word_space_12: release fancy pumpkin slide stamp captain like replace enrich
   noise quote alter
 bip_39_word_space_2: release fancy
 bip_39_word_space_3: release fancy pumpkin
-bip_39_word_space_4: release fancy pumpkin slide
-bip_39_word_space_5: release fancy pumpkin slide stamp
-bip_39_word_space_6: release fancy pumpkin slide stamp captain
-bip_39_word_space_7: release fancy pumpkin slide stamp captain like
-bip_39_word_space_8: release fancy pumpkin slide stamp captain like replace
-bip_39_word_space_9: release fancy pumpkin slide stamp captain like replace enrich
-bip_39_word_underscore_1: release
-bip_39_word_underscore_10: release_fancy_pumpkin_slide_stamp_captain_like_replace_enrich_noise
-bip_39_word_underscore_11: release_fancy_pumpkin_slide_stamp_captain_like_replace_enrich_noise_quote
 bip_39_word_underscore_12: release_fancy_pumpkin_slide_stamp_captain_like_replace_enrich_noise_quote_alter
 bip_39_word_underscore_2: release_fancy
 bip_39_word_underscore_3: release_fancy_pumpkin
-bip_39_word_underscore_4: release_fancy_pumpkin_slide
-bip_39_word_underscore_5: release_fancy_pumpkin_slide_stamp
-bip_39_word_underscore_6: release_fancy_pumpkin_slide_stamp_captain
-bip_39_word_underscore_7: release_fancy_pumpkin_slide_stamp_captain_like
-bip_39_word_underscore_8: release_fancy_pumpkin_slide_stamp_captain_like_replace
-bip_39_word_underscore_9: release_fancy_pumpkin_slide_stamp_captain_like_replace_enrich
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

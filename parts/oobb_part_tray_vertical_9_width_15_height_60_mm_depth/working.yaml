@@ -1,68 +1,9 @@
-bip_39_word_dash_1: glance
-bip_39_word_dash_10: glance-energy-gasp-slight-valid-roast-learn-host-similar-castle
-bip_39_word_dash_11: glance-energy-gasp-slight-valid-roast-learn-host-similar-castle-trip
 bip_39_word_dash_12: glance-energy-gasp-slight-valid-roast-learn-host-similar-castle-trip-armed
 bip_39_word_dash_2: glance-energy
 bip_39_word_dash_3: glance-energy-gasp
-bip_39_word_dash_4: glance-energy-gasp-slight
-bip_39_word_dash_5: glance-energy-gasp-slight-valid
-bip_39_word_dash_6: glance-energy-gasp-slight-valid-roast
-bip_39_word_dash_7: glance-energy-gasp-slight-valid-roast-learn
-bip_39_word_dash_8: glance-energy-gasp-slight-valid-roast-learn-host
-bip_39_word_dash_9: glance-energy-gasp-slight-valid-roast-learn-host-similar
-bip_39_word_new_br_1: glance
-bip_39_word_new_br_10: glance<br>energy<br>gasp<br>slight<br>valid<br>roast<br>learn<br>host<br>similar<br>castle
-bip_39_word_new_br_11: glance<br>energy<br>gasp<br>slight<br>valid<br>roast<br>learn<br>host<br>similar<br>castle<br>trip
 bip_39_word_new_br_12: glance<br>energy<br>gasp<br>slight<br>valid<br>roast<br>learn<br>host<br>similar<br>castle<br>trip<br>armed
 bip_39_word_new_br_2: glance<br>energy
 bip_39_word_new_br_3: glance<br>energy<br>gasp
-bip_39_word_new_br_4: glance<br>energy<br>gasp<br>slight
-bip_39_word_new_br_5: glance<br>energy<br>gasp<br>slight<br>valid
-bip_39_word_new_br_6: glance<br>energy<br>gasp<br>slight<br>valid<br>roast
-bip_39_word_new_br_7: glance<br>energy<br>gasp<br>slight<br>valid<br>roast<br>learn
-bip_39_word_new_br_8: glance<br>energy<br>gasp<br>slight<br>valid<br>roast<br>learn<br>host
-bip_39_word_new_br_9: glance<br>energy<br>gasp<br>slight<br>valid<br>roast<br>learn<br>host<br>similar
-bip_39_word_new_line_1: glance
-bip_39_word_new_line_10: 'glance
-
-  energy
-
-  gasp
-
-  slight
-
-  valid
-
-  roast
-
-  learn
-
-  host
-
-  similar
-
-  castle'
-bip_39_word_new_line_11: 'glance
-
-  energy
-
-  gasp
-
-  slight
-
-  valid
-
-  roast
-
-  learn
-
-  host
-
-  similar
-
-  castle
-
-  trip'
 bip_39_word_new_line_12: 'glance
 
   energy
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'glance
   energy
 
   gasp'
-bip_39_word_new_line_4: 'glance
-
-  energy
-
-  gasp
-
-  slight'
-bip_39_word_new_line_5: 'glance
-
-  energy
-
-  gasp
-
-  slight
-
-  valid'
-bip_39_word_new_line_6: 'glance
-
-  energy
-
-  gasp
-
-  slight
-
-  valid
-
-  roast'
-bip_39_word_new_line_7: 'glance
-
-  energy
-
-  gasp
-
-  slight
-
-  valid
-
-  roast
-
-  learn'
-bip_39_word_new_line_8: 'glance
-
-  energy
-
-  gasp
-
-  slight
-
-  valid
-
-  roast
-
-  learn
-
-  host'
-bip_39_word_new_line_9: 'glance
-
-  energy
-
-  gasp
-
-  slight
-
-  valid
-
-  roast
-
-  learn
-
-  host
-
-  similar'
-bip_39_word_no_space_1: glance
-bip_39_word_no_space_10: glanceenergygaspslightvalidroastlearnhostsimilarcastle
-bip_39_word_no_space_11: glanceenergygaspslightvalidroastlearnhostsimilarcastletrip
 bip_39_word_no_space_12: glanceenergygaspslightvalidroastlearnhostsimilarcastletriparmed
 bip_39_word_no_space_2: glanceenergy
 bip_39_word_no_space_3: glanceenergygasp
-bip_39_word_no_space_4: glanceenergygaspslight
-bip_39_word_no_space_5: glanceenergygaspslightvalid
-bip_39_word_no_space_6: glanceenergygaspslightvalidroast
-bip_39_word_no_space_7: glanceenergygaspslightvalidroastlearn
-bip_39_word_no_space_8: glanceenergygaspslightvalidroastlearnhost
-bip_39_word_no_space_9: glanceenergygaspslightvalidroastlearnhostsimilar
-bip_39_word_space_0:
-- glance
-- energy
-- gasp
-- slight
-- valid
-- roast
-- learn
-- host
-- similar
-- castle
-- trip
-- armed
-bip_39_word_space_1: glance
-bip_39_word_space_10: glance energy gasp slight valid roast learn host similar castle
-bip_39_word_space_11: glance energy gasp slight valid roast learn host similar castle
-  trip
 bip_39_word_space_12: glance energy gasp slight valid roast learn host similar castle
   trip armed
 bip_39_word_space_2: glance energy
 bip_39_word_space_3: glance energy gasp
-bip_39_word_space_4: glance energy gasp slight
-bip_39_word_space_5: glance energy gasp slight valid
-bip_39_word_space_6: glance energy gasp slight valid roast
-bip_39_word_space_7: glance energy gasp slight valid roast learn
-bip_39_word_space_8: glance energy gasp slight valid roast learn host
-bip_39_word_space_9: glance energy gasp slight valid roast learn host similar
-bip_39_word_underscore_1: glance
-bip_39_word_underscore_10: glance_energy_gasp_slight_valid_roast_learn_host_similar_castle
-bip_39_word_underscore_11: glance_energy_gasp_slight_valid_roast_learn_host_similar_castle_trip
 bip_39_word_underscore_12: glance_energy_gasp_slight_valid_roast_learn_host_similar_castle_trip_armed
 bip_39_word_underscore_2: glance_energy
 bip_39_word_underscore_3: glance_energy_gasp
-bip_39_word_underscore_4: glance_energy_gasp_slight
-bip_39_word_underscore_5: glance_energy_gasp_slight_valid
-bip_39_word_underscore_6: glance_energy_gasp_slight_valid_roast
-bip_39_word_underscore_7: glance_energy_gasp_slight_valid_roast_learn
-bip_39_word_underscore_8: glance_energy_gasp_slight_valid_roast_learn_host
-bip_39_word_underscore_9: glance_energy_gasp_slight_valid_roast_learn_host_similar
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

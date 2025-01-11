@@ -1,68 +1,9 @@
-bip_39_word_dash_1: finger
-bip_39_word_dash_10: finger-expire-impulse-screen-cart-naive-prevent-sun-spike-document
-bip_39_word_dash_11: finger-expire-impulse-screen-cart-naive-prevent-sun-spike-document-purpose
 bip_39_word_dash_12: finger-expire-impulse-screen-cart-naive-prevent-sun-spike-document-purpose-aim
 bip_39_word_dash_2: finger-expire
 bip_39_word_dash_3: finger-expire-impulse
-bip_39_word_dash_4: finger-expire-impulse-screen
-bip_39_word_dash_5: finger-expire-impulse-screen-cart
-bip_39_word_dash_6: finger-expire-impulse-screen-cart-naive
-bip_39_word_dash_7: finger-expire-impulse-screen-cart-naive-prevent
-bip_39_word_dash_8: finger-expire-impulse-screen-cart-naive-prevent-sun
-bip_39_word_dash_9: finger-expire-impulse-screen-cart-naive-prevent-sun-spike
-bip_39_word_new_br_1: finger
-bip_39_word_new_br_10: finger<br>expire<br>impulse<br>screen<br>cart<br>naive<br>prevent<br>sun<br>spike<br>document
-bip_39_word_new_br_11: finger<br>expire<br>impulse<br>screen<br>cart<br>naive<br>prevent<br>sun<br>spike<br>document<br>purpose
 bip_39_word_new_br_12: finger<br>expire<br>impulse<br>screen<br>cart<br>naive<br>prevent<br>sun<br>spike<br>document<br>purpose<br>aim
 bip_39_word_new_br_2: finger<br>expire
 bip_39_word_new_br_3: finger<br>expire<br>impulse
-bip_39_word_new_br_4: finger<br>expire<br>impulse<br>screen
-bip_39_word_new_br_5: finger<br>expire<br>impulse<br>screen<br>cart
-bip_39_word_new_br_6: finger<br>expire<br>impulse<br>screen<br>cart<br>naive
-bip_39_word_new_br_7: finger<br>expire<br>impulse<br>screen<br>cart<br>naive<br>prevent
-bip_39_word_new_br_8: finger<br>expire<br>impulse<br>screen<br>cart<br>naive<br>prevent<br>sun
-bip_39_word_new_br_9: finger<br>expire<br>impulse<br>screen<br>cart<br>naive<br>prevent<br>sun<br>spike
-bip_39_word_new_line_1: finger
-bip_39_word_new_line_10: 'finger
-
-  expire
-
-  impulse
-
-  screen
-
-  cart
-
-  naive
-
-  prevent
-
-  sun
-
-  spike
-
-  document'
-bip_39_word_new_line_11: 'finger
-
-  expire
-
-  impulse
-
-  screen
-
-  cart
-
-  naive
-
-  prevent
-
-  sun
-
-  spike
-
-  document
-
-  purpose'
 bip_39_word_new_line_12: 'finger
 
   expire
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'finger
   expire
 
   impulse'
-bip_39_word_new_line_4: 'finger
-
-  expire
-
-  impulse
-
-  screen'
-bip_39_word_new_line_5: 'finger
-
-  expire
-
-  impulse
-
-  screen
-
-  cart'
-bip_39_word_new_line_6: 'finger
-
-  expire
-
-  impulse
-
-  screen
-
-  cart
-
-  naive'
-bip_39_word_new_line_7: 'finger
-
-  expire
-
-  impulse
-
-  screen
-
-  cart
-
-  naive
-
-  prevent'
-bip_39_word_new_line_8: 'finger
-
-  expire
-
-  impulse
-
-  screen
-
-  cart
-
-  naive
-
-  prevent
-
-  sun'
-bip_39_word_new_line_9: 'finger
-
-  expire
-
-  impulse
-
-  screen
-
-  cart
-
-  naive
-
-  prevent
-
-  sun
-
-  spike'
-bip_39_word_no_space_1: finger
-bip_39_word_no_space_10: fingerexpireimpulsescreencartnaivepreventsunspikedocument
-bip_39_word_no_space_11: fingerexpireimpulsescreencartnaivepreventsunspikedocumentpurpose
 bip_39_word_no_space_12: fingerexpireimpulsescreencartnaivepreventsunspikedocumentpurposeaim
 bip_39_word_no_space_2: fingerexpire
 bip_39_word_no_space_3: fingerexpireimpulse
-bip_39_word_no_space_4: fingerexpireimpulsescreen
-bip_39_word_no_space_5: fingerexpireimpulsescreencart
-bip_39_word_no_space_6: fingerexpireimpulsescreencartnaive
-bip_39_word_no_space_7: fingerexpireimpulsescreencartnaiveprevent
-bip_39_word_no_space_8: fingerexpireimpulsescreencartnaivepreventsun
-bip_39_word_no_space_9: fingerexpireimpulsescreencartnaivepreventsunspike
-bip_39_word_space_0:
-- finger
-- expire
-- impulse
-- screen
-- cart
-- naive
-- prevent
-- sun
-- spike
-- document
-- purpose
-- aim
-bip_39_word_space_1: finger
-bip_39_word_space_10: finger expire impulse screen cart naive prevent sun spike document
-bip_39_word_space_11: finger expire impulse screen cart naive prevent sun spike document
-  purpose
 bip_39_word_space_12: finger expire impulse screen cart naive prevent sun spike document
   purpose aim
 bip_39_word_space_2: finger expire
 bip_39_word_space_3: finger expire impulse
-bip_39_word_space_4: finger expire impulse screen
-bip_39_word_space_5: finger expire impulse screen cart
-bip_39_word_space_6: finger expire impulse screen cart naive
-bip_39_word_space_7: finger expire impulse screen cart naive prevent
-bip_39_word_space_8: finger expire impulse screen cart naive prevent sun
-bip_39_word_space_9: finger expire impulse screen cart naive prevent sun spike
-bip_39_word_underscore_1: finger
-bip_39_word_underscore_10: finger_expire_impulse_screen_cart_naive_prevent_sun_spike_document
-bip_39_word_underscore_11: finger_expire_impulse_screen_cart_naive_prevent_sun_spike_document_purpose
 bip_39_word_underscore_12: finger_expire_impulse_screen_cart_naive_prevent_sun_spike_document_purpose_aim
 bip_39_word_underscore_2: finger_expire
 bip_39_word_underscore_3: finger_expire_impulse
-bip_39_word_underscore_4: finger_expire_impulse_screen
-bip_39_word_underscore_5: finger_expire_impulse_screen_cart
-bip_39_word_underscore_6: finger_expire_impulse_screen_cart_naive
-bip_39_word_underscore_7: finger_expire_impulse_screen_cart_naive_prevent
-bip_39_word_underscore_8: finger_expire_impulse_screen_cart_naive_prevent_sun
-bip_39_word_underscore_9: finger_expire_impulse_screen_cart_naive_prevent_sun_spike
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

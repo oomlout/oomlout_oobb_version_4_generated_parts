@@ -1,68 +1,9 @@
-bip_39_word_dash_1: ritual
-bip_39_word_dash_10: ritual-stuff-corn-dress-comfort-access-action-used-disease-decade
-bip_39_word_dash_11: ritual-stuff-corn-dress-comfort-access-action-used-disease-decade-gold
 bip_39_word_dash_12: ritual-stuff-corn-dress-comfort-access-action-used-disease-decade-gold-aerobic
 bip_39_word_dash_2: ritual-stuff
 bip_39_word_dash_3: ritual-stuff-corn
-bip_39_word_dash_4: ritual-stuff-corn-dress
-bip_39_word_dash_5: ritual-stuff-corn-dress-comfort
-bip_39_word_dash_6: ritual-stuff-corn-dress-comfort-access
-bip_39_word_dash_7: ritual-stuff-corn-dress-comfort-access-action
-bip_39_word_dash_8: ritual-stuff-corn-dress-comfort-access-action-used
-bip_39_word_dash_9: ritual-stuff-corn-dress-comfort-access-action-used-disease
-bip_39_word_new_br_1: ritual
-bip_39_word_new_br_10: ritual<br>stuff<br>corn<br>dress<br>comfort<br>access<br>action<br>used<br>disease<br>decade
-bip_39_word_new_br_11: ritual<br>stuff<br>corn<br>dress<br>comfort<br>access<br>action<br>used<br>disease<br>decade<br>gold
 bip_39_word_new_br_12: ritual<br>stuff<br>corn<br>dress<br>comfort<br>access<br>action<br>used<br>disease<br>decade<br>gold<br>aerobic
 bip_39_word_new_br_2: ritual<br>stuff
 bip_39_word_new_br_3: ritual<br>stuff<br>corn
-bip_39_word_new_br_4: ritual<br>stuff<br>corn<br>dress
-bip_39_word_new_br_5: ritual<br>stuff<br>corn<br>dress<br>comfort
-bip_39_word_new_br_6: ritual<br>stuff<br>corn<br>dress<br>comfort<br>access
-bip_39_word_new_br_7: ritual<br>stuff<br>corn<br>dress<br>comfort<br>access<br>action
-bip_39_word_new_br_8: ritual<br>stuff<br>corn<br>dress<br>comfort<br>access<br>action<br>used
-bip_39_word_new_br_9: ritual<br>stuff<br>corn<br>dress<br>comfort<br>access<br>action<br>used<br>disease
-bip_39_word_new_line_1: ritual
-bip_39_word_new_line_10: 'ritual
-
-  stuff
-
-  corn
-
-  dress
-
-  comfort
-
-  access
-
-  action
-
-  used
-
-  disease
-
-  decade'
-bip_39_word_new_line_11: 'ritual
-
-  stuff
-
-  corn
-
-  dress
-
-  comfort
-
-  access
-
-  action
-
-  used
-
-  disease
-
-  decade
-
-  gold'
 bip_39_word_new_line_12: 'ritual
 
   stuff
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'ritual
   stuff
 
   corn'
-bip_39_word_new_line_4: 'ritual
-
-  stuff
-
-  corn
-
-  dress'
-bip_39_word_new_line_5: 'ritual
-
-  stuff
-
-  corn
-
-  dress
-
-  comfort'
-bip_39_word_new_line_6: 'ritual
-
-  stuff
-
-  corn
-
-  dress
-
-  comfort
-
-  access'
-bip_39_word_new_line_7: 'ritual
-
-  stuff
-
-  corn
-
-  dress
-
-  comfort
-
-  access
-
-  action'
-bip_39_word_new_line_8: 'ritual
-
-  stuff
-
-  corn
-
-  dress
-
-  comfort
-
-  access
-
-  action
-
-  used'
-bip_39_word_new_line_9: 'ritual
-
-  stuff
-
-  corn
-
-  dress
-
-  comfort
-
-  access
-
-  action
-
-  used
-
-  disease'
-bip_39_word_no_space_1: ritual
-bip_39_word_no_space_10: ritualstuffcorndresscomfortaccessactionuseddiseasedecade
-bip_39_word_no_space_11: ritualstuffcorndresscomfortaccessactionuseddiseasedecadegold
 bip_39_word_no_space_12: ritualstuffcorndresscomfortaccessactionuseddiseasedecadegoldaerobic
 bip_39_word_no_space_2: ritualstuff
 bip_39_word_no_space_3: ritualstuffcorn
-bip_39_word_no_space_4: ritualstuffcorndress
-bip_39_word_no_space_5: ritualstuffcorndresscomfort
-bip_39_word_no_space_6: ritualstuffcorndresscomfortaccess
-bip_39_word_no_space_7: ritualstuffcorndresscomfortaccessaction
-bip_39_word_no_space_8: ritualstuffcorndresscomfortaccessactionused
-bip_39_word_no_space_9: ritualstuffcorndresscomfortaccessactionuseddisease
-bip_39_word_space_0:
-- ritual
-- stuff
-- corn
-- dress
-- comfort
-- access
-- action
-- used
-- disease
-- decade
-- gold
-- aerobic
-bip_39_word_space_1: ritual
-bip_39_word_space_10: ritual stuff corn dress comfort access action used disease decade
-bip_39_word_space_11: ritual stuff corn dress comfort access action used disease decade
-  gold
 bip_39_word_space_12: ritual stuff corn dress comfort access action used disease decade
   gold aerobic
 bip_39_word_space_2: ritual stuff
 bip_39_word_space_3: ritual stuff corn
-bip_39_word_space_4: ritual stuff corn dress
-bip_39_word_space_5: ritual stuff corn dress comfort
-bip_39_word_space_6: ritual stuff corn dress comfort access
-bip_39_word_space_7: ritual stuff corn dress comfort access action
-bip_39_word_space_8: ritual stuff corn dress comfort access action used
-bip_39_word_space_9: ritual stuff corn dress comfort access action used disease
-bip_39_word_underscore_1: ritual
-bip_39_word_underscore_10: ritual_stuff_corn_dress_comfort_access_action_used_disease_decade
-bip_39_word_underscore_11: ritual_stuff_corn_dress_comfort_access_action_used_disease_decade_gold
 bip_39_word_underscore_12: ritual_stuff_corn_dress_comfort_access_action_used_disease_decade_gold_aerobic
 bip_39_word_underscore_2: ritual_stuff
 bip_39_word_underscore_3: ritual_stuff_corn
-bip_39_word_underscore_4: ritual_stuff_corn_dress
-bip_39_word_underscore_5: ritual_stuff_corn_dress_comfort
-bip_39_word_underscore_6: ritual_stuff_corn_dress_comfort_access
-bip_39_word_underscore_7: ritual_stuff_corn_dress_comfort_access_action
-bip_39_word_underscore_8: ritual_stuff_corn_dress_comfort_access_action_used
-bip_39_word_underscore_9: ritual_stuff_corn_dress_comfort_access_action_used_disease
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

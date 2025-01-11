@@ -1,68 +1,9 @@
-bip_39_word_dash_1: stage
-bip_39_word_dash_10: stage-bag-pretty-step-combine-rigid-regular-cluster-pizza-trophy
-bip_39_word_dash_11: stage-bag-pretty-step-combine-rigid-regular-cluster-pizza-trophy-fat
 bip_39_word_dash_12: stage-bag-pretty-step-combine-rigid-regular-cluster-pizza-trophy-fat-annual
 bip_39_word_dash_2: stage-bag
 bip_39_word_dash_3: stage-bag-pretty
-bip_39_word_dash_4: stage-bag-pretty-step
-bip_39_word_dash_5: stage-bag-pretty-step-combine
-bip_39_word_dash_6: stage-bag-pretty-step-combine-rigid
-bip_39_word_dash_7: stage-bag-pretty-step-combine-rigid-regular
-bip_39_word_dash_8: stage-bag-pretty-step-combine-rigid-regular-cluster
-bip_39_word_dash_9: stage-bag-pretty-step-combine-rigid-regular-cluster-pizza
-bip_39_word_new_br_1: stage
-bip_39_word_new_br_10: stage<br>bag<br>pretty<br>step<br>combine<br>rigid<br>regular<br>cluster<br>pizza<br>trophy
-bip_39_word_new_br_11: stage<br>bag<br>pretty<br>step<br>combine<br>rigid<br>regular<br>cluster<br>pizza<br>trophy<br>fat
 bip_39_word_new_br_12: stage<br>bag<br>pretty<br>step<br>combine<br>rigid<br>regular<br>cluster<br>pizza<br>trophy<br>fat<br>annual
 bip_39_word_new_br_2: stage<br>bag
 bip_39_word_new_br_3: stage<br>bag<br>pretty
-bip_39_word_new_br_4: stage<br>bag<br>pretty<br>step
-bip_39_word_new_br_5: stage<br>bag<br>pretty<br>step<br>combine
-bip_39_word_new_br_6: stage<br>bag<br>pretty<br>step<br>combine<br>rigid
-bip_39_word_new_br_7: stage<br>bag<br>pretty<br>step<br>combine<br>rigid<br>regular
-bip_39_word_new_br_8: stage<br>bag<br>pretty<br>step<br>combine<br>rigid<br>regular<br>cluster
-bip_39_word_new_br_9: stage<br>bag<br>pretty<br>step<br>combine<br>rigid<br>regular<br>cluster<br>pizza
-bip_39_word_new_line_1: stage
-bip_39_word_new_line_10: 'stage
-
-  bag
-
-  pretty
-
-  step
-
-  combine
-
-  rigid
-
-  regular
-
-  cluster
-
-  pizza
-
-  trophy'
-bip_39_word_new_line_11: 'stage
-
-  bag
-
-  pretty
-
-  step
-
-  combine
-
-  rigid
-
-  regular
-
-  cluster
-
-  pizza
-
-  trophy
-
-  fat'
 bip_39_word_new_line_12: 'stage
 
   bag
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'stage
   bag
 
   pretty'
-bip_39_word_new_line_4: 'stage
-
-  bag
-
-  pretty
-
-  step'
-bip_39_word_new_line_5: 'stage
-
-  bag
-
-  pretty
-
-  step
-
-  combine'
-bip_39_word_new_line_6: 'stage
-
-  bag
-
-  pretty
-
-  step
-
-  combine
-
-  rigid'
-bip_39_word_new_line_7: 'stage
-
-  bag
-
-  pretty
-
-  step
-
-  combine
-
-  rigid
-
-  regular'
-bip_39_word_new_line_8: 'stage
-
-  bag
-
-  pretty
-
-  step
-
-  combine
-
-  rigid
-
-  regular
-
-  cluster'
-bip_39_word_new_line_9: 'stage
-
-  bag
-
-  pretty
-
-  step
-
-  combine
-
-  rigid
-
-  regular
-
-  cluster
-
-  pizza'
-bip_39_word_no_space_1: stage
-bip_39_word_no_space_10: stagebagprettystepcombinerigidregularclusterpizzatrophy
-bip_39_word_no_space_11: stagebagprettystepcombinerigidregularclusterpizzatrophyfat
 bip_39_word_no_space_12: stagebagprettystepcombinerigidregularclusterpizzatrophyfatannual
 bip_39_word_no_space_2: stagebag
 bip_39_word_no_space_3: stagebagpretty
-bip_39_word_no_space_4: stagebagprettystep
-bip_39_word_no_space_5: stagebagprettystepcombine
-bip_39_word_no_space_6: stagebagprettystepcombinerigid
-bip_39_word_no_space_7: stagebagprettystepcombinerigidregular
-bip_39_word_no_space_8: stagebagprettystepcombinerigidregularcluster
-bip_39_word_no_space_9: stagebagprettystepcombinerigidregularclusterpizza
-bip_39_word_space_0:
-- stage
-- bag
-- pretty
-- step
-- combine
-- rigid
-- regular
-- cluster
-- pizza
-- trophy
-- fat
-- annual
-bip_39_word_space_1: stage
-bip_39_word_space_10: stage bag pretty step combine rigid regular cluster pizza trophy
-bip_39_word_space_11: stage bag pretty step combine rigid regular cluster pizza trophy
-  fat
 bip_39_word_space_12: stage bag pretty step combine rigid regular cluster pizza trophy
   fat annual
 bip_39_word_space_2: stage bag
 bip_39_word_space_3: stage bag pretty
-bip_39_word_space_4: stage bag pretty step
-bip_39_word_space_5: stage bag pretty step combine
-bip_39_word_space_6: stage bag pretty step combine rigid
-bip_39_word_space_7: stage bag pretty step combine rigid regular
-bip_39_word_space_8: stage bag pretty step combine rigid regular cluster
-bip_39_word_space_9: stage bag pretty step combine rigid regular cluster pizza
-bip_39_word_underscore_1: stage
-bip_39_word_underscore_10: stage_bag_pretty_step_combine_rigid_regular_cluster_pizza_trophy
-bip_39_word_underscore_11: stage_bag_pretty_step_combine_rigid_regular_cluster_pizza_trophy_fat
 bip_39_word_underscore_12: stage_bag_pretty_step_combine_rigid_regular_cluster_pizza_trophy_fat_annual
 bip_39_word_underscore_2: stage_bag
 bip_39_word_underscore_3: stage_bag_pretty
-bip_39_word_underscore_4: stage_bag_pretty_step
-bip_39_word_underscore_5: stage_bag_pretty_step_combine
-bip_39_word_underscore_6: stage_bag_pretty_step_combine_rigid
-bip_39_word_underscore_7: stage_bag_pretty_step_combine_rigid_regular
-bip_39_word_underscore_8: stage_bag_pretty_step_combine_rigid_regular_cluster
-bip_39_word_underscore_9: stage_bag_pretty_step_combine_rigid_regular_cluster_pizza
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

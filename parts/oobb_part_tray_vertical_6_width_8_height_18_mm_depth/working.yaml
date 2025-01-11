@@ -1,68 +1,9 @@
-bip_39_word_dash_1: season
-bip_39_word_dash_10: season-extend-nest-chat-hedgehog-bike-run-work-rib-toast
-bip_39_word_dash_11: season-extend-nest-chat-hedgehog-bike-run-work-rib-toast-solve
 bip_39_word_dash_12: season-extend-nest-chat-hedgehog-bike-run-work-rib-toast-solve-above
 bip_39_word_dash_2: season-extend
 bip_39_word_dash_3: season-extend-nest
-bip_39_word_dash_4: season-extend-nest-chat
-bip_39_word_dash_5: season-extend-nest-chat-hedgehog
-bip_39_word_dash_6: season-extend-nest-chat-hedgehog-bike
-bip_39_word_dash_7: season-extend-nest-chat-hedgehog-bike-run
-bip_39_word_dash_8: season-extend-nest-chat-hedgehog-bike-run-work
-bip_39_word_dash_9: season-extend-nest-chat-hedgehog-bike-run-work-rib
-bip_39_word_new_br_1: season
-bip_39_word_new_br_10: season<br>extend<br>nest<br>chat<br>hedgehog<br>bike<br>run<br>work<br>rib<br>toast
-bip_39_word_new_br_11: season<br>extend<br>nest<br>chat<br>hedgehog<br>bike<br>run<br>work<br>rib<br>toast<br>solve
 bip_39_word_new_br_12: season<br>extend<br>nest<br>chat<br>hedgehog<br>bike<br>run<br>work<br>rib<br>toast<br>solve<br>above
 bip_39_word_new_br_2: season<br>extend
 bip_39_word_new_br_3: season<br>extend<br>nest
-bip_39_word_new_br_4: season<br>extend<br>nest<br>chat
-bip_39_word_new_br_5: season<br>extend<br>nest<br>chat<br>hedgehog
-bip_39_word_new_br_6: season<br>extend<br>nest<br>chat<br>hedgehog<br>bike
-bip_39_word_new_br_7: season<br>extend<br>nest<br>chat<br>hedgehog<br>bike<br>run
-bip_39_word_new_br_8: season<br>extend<br>nest<br>chat<br>hedgehog<br>bike<br>run<br>work
-bip_39_word_new_br_9: season<br>extend<br>nest<br>chat<br>hedgehog<br>bike<br>run<br>work<br>rib
-bip_39_word_new_line_1: season
-bip_39_word_new_line_10: 'season
-
-  extend
-
-  nest
-
-  chat
-
-  hedgehog
-
-  bike
-
-  run
-
-  work
-
-  rib
-
-  toast'
-bip_39_word_new_line_11: 'season
-
-  extend
-
-  nest
-
-  chat
-
-  hedgehog
-
-  bike
-
-  run
-
-  work
-
-  rib
-
-  toast
-
-  solve'
 bip_39_word_new_line_12: 'season
 
   extend
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'season
   extend
 
   nest'
-bip_39_word_new_line_4: 'season
-
-  extend
-
-  nest
-
-  chat'
-bip_39_word_new_line_5: 'season
-
-  extend
-
-  nest
-
-  chat
-
-  hedgehog'
-bip_39_word_new_line_6: 'season
-
-  extend
-
-  nest
-
-  chat
-
-  hedgehog
-
-  bike'
-bip_39_word_new_line_7: 'season
-
-  extend
-
-  nest
-
-  chat
-
-  hedgehog
-
-  bike
-
-  run'
-bip_39_word_new_line_8: 'season
-
-  extend
-
-  nest
-
-  chat
-
-  hedgehog
-
-  bike
-
-  run
-
-  work'
-bip_39_word_new_line_9: 'season
-
-  extend
-
-  nest
-
-  chat
-
-  hedgehog
-
-  bike
-
-  run
-
-  work
-
-  rib'
-bip_39_word_no_space_1: season
-bip_39_word_no_space_10: seasonextendnestchathedgehogbikerunworkribtoast
-bip_39_word_no_space_11: seasonextendnestchathedgehogbikerunworkribtoastsolve
 bip_39_word_no_space_12: seasonextendnestchathedgehogbikerunworkribtoastsolveabove
 bip_39_word_no_space_2: seasonextend
 bip_39_word_no_space_3: seasonextendnest
-bip_39_word_no_space_4: seasonextendnestchat
-bip_39_word_no_space_5: seasonextendnestchathedgehog
-bip_39_word_no_space_6: seasonextendnestchathedgehogbike
-bip_39_word_no_space_7: seasonextendnestchathedgehogbikerun
-bip_39_word_no_space_8: seasonextendnestchathedgehogbikerunwork
-bip_39_word_no_space_9: seasonextendnestchathedgehogbikerunworkrib
-bip_39_word_space_0:
-- season
-- extend
-- nest
-- chat
-- hedgehog
-- bike
-- run
-- work
-- rib
-- toast
-- solve
-- above
-bip_39_word_space_1: season
-bip_39_word_space_10: season extend nest chat hedgehog bike run work rib toast
-bip_39_word_space_11: season extend nest chat hedgehog bike run work rib toast solve
 bip_39_word_space_12: season extend nest chat hedgehog bike run work rib toast solve
   above
 bip_39_word_space_2: season extend
 bip_39_word_space_3: season extend nest
-bip_39_word_space_4: season extend nest chat
-bip_39_word_space_5: season extend nest chat hedgehog
-bip_39_word_space_6: season extend nest chat hedgehog bike
-bip_39_word_space_7: season extend nest chat hedgehog bike run
-bip_39_word_space_8: season extend nest chat hedgehog bike run work
-bip_39_word_space_9: season extend nest chat hedgehog bike run work rib
-bip_39_word_underscore_1: season
-bip_39_word_underscore_10: season_extend_nest_chat_hedgehog_bike_run_work_rib_toast
-bip_39_word_underscore_11: season_extend_nest_chat_hedgehog_bike_run_work_rib_toast_solve
 bip_39_word_underscore_12: season_extend_nest_chat_hedgehog_bike_run_work_rib_toast_solve_above
 bip_39_word_underscore_2: season_extend
 bip_39_word_underscore_3: season_extend_nest
-bip_39_word_underscore_4: season_extend_nest_chat
-bip_39_word_underscore_5: season_extend_nest_chat_hedgehog
-bip_39_word_underscore_6: season_extend_nest_chat_hedgehog_bike
-bip_39_word_underscore_7: season_extend_nest_chat_hedgehog_bike_run
-bip_39_word_underscore_8: season_extend_nest_chat_hedgehog_bike_run_work
-bip_39_word_underscore_9: season_extend_nest_chat_hedgehog_bike_run_work_rib
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

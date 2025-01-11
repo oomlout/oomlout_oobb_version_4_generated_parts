@@ -1,68 +1,9 @@
-bip_39_word_dash_1: ability
-bip_39_word_dash_10: ability-exotic-addict-embark-path-embody-future-crumble-assume-company
-bip_39_word_dash_11: ability-exotic-addict-embark-path-embody-future-crumble-assume-company-hope
 bip_39_word_dash_12: ability-exotic-addict-embark-path-embody-future-crumble-assume-company-hope-answer
 bip_39_word_dash_2: ability-exotic
 bip_39_word_dash_3: ability-exotic-addict
-bip_39_word_dash_4: ability-exotic-addict-embark
-bip_39_word_dash_5: ability-exotic-addict-embark-path
-bip_39_word_dash_6: ability-exotic-addict-embark-path-embody
-bip_39_word_dash_7: ability-exotic-addict-embark-path-embody-future
-bip_39_word_dash_8: ability-exotic-addict-embark-path-embody-future-crumble
-bip_39_word_dash_9: ability-exotic-addict-embark-path-embody-future-crumble-assume
-bip_39_word_new_br_1: ability
-bip_39_word_new_br_10: ability<br>exotic<br>addict<br>embark<br>path<br>embody<br>future<br>crumble<br>assume<br>company
-bip_39_word_new_br_11: ability<br>exotic<br>addict<br>embark<br>path<br>embody<br>future<br>crumble<br>assume<br>company<br>hope
 bip_39_word_new_br_12: ability<br>exotic<br>addict<br>embark<br>path<br>embody<br>future<br>crumble<br>assume<br>company<br>hope<br>answer
 bip_39_word_new_br_2: ability<br>exotic
 bip_39_word_new_br_3: ability<br>exotic<br>addict
-bip_39_word_new_br_4: ability<br>exotic<br>addict<br>embark
-bip_39_word_new_br_5: ability<br>exotic<br>addict<br>embark<br>path
-bip_39_word_new_br_6: ability<br>exotic<br>addict<br>embark<br>path<br>embody
-bip_39_word_new_br_7: ability<br>exotic<br>addict<br>embark<br>path<br>embody<br>future
-bip_39_word_new_br_8: ability<br>exotic<br>addict<br>embark<br>path<br>embody<br>future<br>crumble
-bip_39_word_new_br_9: ability<br>exotic<br>addict<br>embark<br>path<br>embody<br>future<br>crumble<br>assume
-bip_39_word_new_line_1: ability
-bip_39_word_new_line_10: 'ability
-
-  exotic
-
-  addict
-
-  embark
-
-  path
-
-  embody
-
-  future
-
-  crumble
-
-  assume
-
-  company'
-bip_39_word_new_line_11: 'ability
-
-  exotic
-
-  addict
-
-  embark
-
-  path
-
-  embody
-
-  future
-
-  crumble
-
-  assume
-
-  company
-
-  hope'
 bip_39_word_new_line_12: 'ability
 
   exotic
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'ability
   exotic
 
   addict'
-bip_39_word_new_line_4: 'ability
-
-  exotic
-
-  addict
-
-  embark'
-bip_39_word_new_line_5: 'ability
-
-  exotic
-
-  addict
-
-  embark
-
-  path'
-bip_39_word_new_line_6: 'ability
-
-  exotic
-
-  addict
-
-  embark
-
-  path
-
-  embody'
-bip_39_word_new_line_7: 'ability
-
-  exotic
-
-  addict
-
-  embark
-
-  path
-
-  embody
-
-  future'
-bip_39_word_new_line_8: 'ability
-
-  exotic
-
-  addict
-
-  embark
-
-  path
-
-  embody
-
-  future
-
-  crumble'
-bip_39_word_new_line_9: 'ability
-
-  exotic
-
-  addict
-
-  embark
-
-  path
-
-  embody
-
-  future
-
-  crumble
-
-  assume'
-bip_39_word_no_space_1: ability
-bip_39_word_no_space_10: abilityexoticaddictembarkpathembodyfuturecrumbleassumecompany
-bip_39_word_no_space_11: abilityexoticaddictembarkpathembodyfuturecrumbleassumecompanyhope
 bip_39_word_no_space_12: abilityexoticaddictembarkpathembodyfuturecrumbleassumecompanyhopeanswer
 bip_39_word_no_space_2: abilityexotic
 bip_39_word_no_space_3: abilityexoticaddict
-bip_39_word_no_space_4: abilityexoticaddictembark
-bip_39_word_no_space_5: abilityexoticaddictembarkpath
-bip_39_word_no_space_6: abilityexoticaddictembarkpathembody
-bip_39_word_no_space_7: abilityexoticaddictembarkpathembodyfuture
-bip_39_word_no_space_8: abilityexoticaddictembarkpathembodyfuturecrumble
-bip_39_word_no_space_9: abilityexoticaddictembarkpathembodyfuturecrumbleassume
-bip_39_word_space_0:
-- ability
-- exotic
-- addict
-- embark
-- path
-- embody
-- future
-- crumble
-- assume
-- company
-- hope
-- answer
-bip_39_word_space_1: ability
-bip_39_word_space_10: ability exotic addict embark path embody future crumble assume
-  company
-bip_39_word_space_11: ability exotic addict embark path embody future crumble assume
-  company hope
 bip_39_word_space_12: ability exotic addict embark path embody future crumble assume
   company hope answer
 bip_39_word_space_2: ability exotic
 bip_39_word_space_3: ability exotic addict
-bip_39_word_space_4: ability exotic addict embark
-bip_39_word_space_5: ability exotic addict embark path
-bip_39_word_space_6: ability exotic addict embark path embody
-bip_39_word_space_7: ability exotic addict embark path embody future
-bip_39_word_space_8: ability exotic addict embark path embody future crumble
-bip_39_word_space_9: ability exotic addict embark path embody future crumble assume
-bip_39_word_underscore_1: ability
-bip_39_word_underscore_10: ability_exotic_addict_embark_path_embody_future_crumble_assume_company
-bip_39_word_underscore_11: ability_exotic_addict_embark_path_embody_future_crumble_assume_company_hope
 bip_39_word_underscore_12: ability_exotic_addict_embark_path_embody_future_crumble_assume_company_hope_answer
 bip_39_word_underscore_2: ability_exotic
 bip_39_word_underscore_3: ability_exotic_addict
-bip_39_word_underscore_4: ability_exotic_addict_embark
-bip_39_word_underscore_5: ability_exotic_addict_embark_path
-bip_39_word_underscore_6: ability_exotic_addict_embark_path_embody
-bip_39_word_underscore_7: ability_exotic_addict_embark_path_embody_future
-bip_39_word_underscore_8: ability_exotic_addict_embark_path_embody_future_crumble
-bip_39_word_underscore_9: ability_exotic_addict_embark_path_embody_future_crumble_assume
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

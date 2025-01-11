@@ -1,68 +1,9 @@
-bip_39_word_dash_1: tiger
-bip_39_word_dash_10: tiger-dumb-empower-bottom-cruel-vendor-rude-salmon-mother-outdoor
-bip_39_word_dash_11: tiger-dumb-empower-bottom-cruel-vendor-rude-salmon-mother-outdoor-appear
 bip_39_word_dash_12: tiger-dumb-empower-bottom-cruel-vendor-rude-salmon-mother-outdoor-appear-area
 bip_39_word_dash_2: tiger-dumb
 bip_39_word_dash_3: tiger-dumb-empower
-bip_39_word_dash_4: tiger-dumb-empower-bottom
-bip_39_word_dash_5: tiger-dumb-empower-bottom-cruel
-bip_39_word_dash_6: tiger-dumb-empower-bottom-cruel-vendor
-bip_39_word_dash_7: tiger-dumb-empower-bottom-cruel-vendor-rude
-bip_39_word_dash_8: tiger-dumb-empower-bottom-cruel-vendor-rude-salmon
-bip_39_word_dash_9: tiger-dumb-empower-bottom-cruel-vendor-rude-salmon-mother
-bip_39_word_new_br_1: tiger
-bip_39_word_new_br_10: tiger<br>dumb<br>empower<br>bottom<br>cruel<br>vendor<br>rude<br>salmon<br>mother<br>outdoor
-bip_39_word_new_br_11: tiger<br>dumb<br>empower<br>bottom<br>cruel<br>vendor<br>rude<br>salmon<br>mother<br>outdoor<br>appear
 bip_39_word_new_br_12: tiger<br>dumb<br>empower<br>bottom<br>cruel<br>vendor<br>rude<br>salmon<br>mother<br>outdoor<br>appear<br>area
 bip_39_word_new_br_2: tiger<br>dumb
 bip_39_word_new_br_3: tiger<br>dumb<br>empower
-bip_39_word_new_br_4: tiger<br>dumb<br>empower<br>bottom
-bip_39_word_new_br_5: tiger<br>dumb<br>empower<br>bottom<br>cruel
-bip_39_word_new_br_6: tiger<br>dumb<br>empower<br>bottom<br>cruel<br>vendor
-bip_39_word_new_br_7: tiger<br>dumb<br>empower<br>bottom<br>cruel<br>vendor<br>rude
-bip_39_word_new_br_8: tiger<br>dumb<br>empower<br>bottom<br>cruel<br>vendor<br>rude<br>salmon
-bip_39_word_new_br_9: tiger<br>dumb<br>empower<br>bottom<br>cruel<br>vendor<br>rude<br>salmon<br>mother
-bip_39_word_new_line_1: tiger
-bip_39_word_new_line_10: 'tiger
-
-  dumb
-
-  empower
-
-  bottom
-
-  cruel
-
-  vendor
-
-  rude
-
-  salmon
-
-  mother
-
-  outdoor'
-bip_39_word_new_line_11: 'tiger
-
-  dumb
-
-  empower
-
-  bottom
-
-  cruel
-
-  vendor
-
-  rude
-
-  salmon
-
-  mother
-
-  outdoor
-
-  appear'
 bip_39_word_new_line_12: 'tiger
 
   dumb
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'tiger
   dumb
 
   empower'
-bip_39_word_new_line_4: 'tiger
-
-  dumb
-
-  empower
-
-  bottom'
-bip_39_word_new_line_5: 'tiger
-
-  dumb
-
-  empower
-
-  bottom
-
-  cruel'
-bip_39_word_new_line_6: 'tiger
-
-  dumb
-
-  empower
-
-  bottom
-
-  cruel
-
-  vendor'
-bip_39_word_new_line_7: 'tiger
-
-  dumb
-
-  empower
-
-  bottom
-
-  cruel
-
-  vendor
-
-  rude'
-bip_39_word_new_line_8: 'tiger
-
-  dumb
-
-  empower
-
-  bottom
-
-  cruel
-
-  vendor
-
-  rude
-
-  salmon'
-bip_39_word_new_line_9: 'tiger
-
-  dumb
-
-  empower
-
-  bottom
-
-  cruel
-
-  vendor
-
-  rude
-
-  salmon
-
-  mother'
-bip_39_word_no_space_1: tiger
-bip_39_word_no_space_10: tigerdumbempowerbottomcruelvendorrudesalmonmotheroutdoor
-bip_39_word_no_space_11: tigerdumbempowerbottomcruelvendorrudesalmonmotheroutdoorappear
 bip_39_word_no_space_12: tigerdumbempowerbottomcruelvendorrudesalmonmotheroutdoorappeararea
 bip_39_word_no_space_2: tigerdumb
 bip_39_word_no_space_3: tigerdumbempower
-bip_39_word_no_space_4: tigerdumbempowerbottom
-bip_39_word_no_space_5: tigerdumbempowerbottomcruel
-bip_39_word_no_space_6: tigerdumbempowerbottomcruelvendor
-bip_39_word_no_space_7: tigerdumbempowerbottomcruelvendorrude
-bip_39_word_no_space_8: tigerdumbempowerbottomcruelvendorrudesalmon
-bip_39_word_no_space_9: tigerdumbempowerbottomcruelvendorrudesalmonmother
-bip_39_word_space_0:
-- tiger
-- dumb
-- empower
-- bottom
-- cruel
-- vendor
-- rude
-- salmon
-- mother
-- outdoor
-- appear
-- area
-bip_39_word_space_1: tiger
-bip_39_word_space_10: tiger dumb empower bottom cruel vendor rude salmon mother outdoor
-bip_39_word_space_11: tiger dumb empower bottom cruel vendor rude salmon mother outdoor
-  appear
 bip_39_word_space_12: tiger dumb empower bottom cruel vendor rude salmon mother outdoor
   appear area
 bip_39_word_space_2: tiger dumb
 bip_39_word_space_3: tiger dumb empower
-bip_39_word_space_4: tiger dumb empower bottom
-bip_39_word_space_5: tiger dumb empower bottom cruel
-bip_39_word_space_6: tiger dumb empower bottom cruel vendor
-bip_39_word_space_7: tiger dumb empower bottom cruel vendor rude
-bip_39_word_space_8: tiger dumb empower bottom cruel vendor rude salmon
-bip_39_word_space_9: tiger dumb empower bottom cruel vendor rude salmon mother
-bip_39_word_underscore_1: tiger
-bip_39_word_underscore_10: tiger_dumb_empower_bottom_cruel_vendor_rude_salmon_mother_outdoor
-bip_39_word_underscore_11: tiger_dumb_empower_bottom_cruel_vendor_rude_salmon_mother_outdoor_appear
 bip_39_word_underscore_12: tiger_dumb_empower_bottom_cruel_vendor_rude_salmon_mother_outdoor_appear_area
 bip_39_word_underscore_2: tiger_dumb
 bip_39_word_underscore_3: tiger_dumb_empower
-bip_39_word_underscore_4: tiger_dumb_empower_bottom
-bip_39_word_underscore_5: tiger_dumb_empower_bottom_cruel
-bip_39_word_underscore_6: tiger_dumb_empower_bottom_cruel_vendor
-bip_39_word_underscore_7: tiger_dumb_empower_bottom_cruel_vendor_rude
-bip_39_word_underscore_8: tiger_dumb_empower_bottom_cruel_vendor_rude_salmon
-bip_39_word_underscore_9: tiger_dumb_empower_bottom_cruel_vendor_rude_salmon_mother
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

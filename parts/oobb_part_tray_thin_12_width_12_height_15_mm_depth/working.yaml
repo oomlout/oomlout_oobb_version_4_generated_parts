@@ -1,68 +1,9 @@
-bip_39_word_dash_1: cement
-bip_39_word_dash_10: cement-apology-match-bulb-bitter-light-bamboo-cigar-elevator-hundred
-bip_39_word_dash_11: cement-apology-match-bulb-bitter-light-bamboo-cigar-elevator-hundred-design
 bip_39_word_dash_12: cement-apology-match-bulb-bitter-light-bamboo-cigar-elevator-hundred-design-around
 bip_39_word_dash_2: cement-apology
 bip_39_word_dash_3: cement-apology-match
-bip_39_word_dash_4: cement-apology-match-bulb
-bip_39_word_dash_5: cement-apology-match-bulb-bitter
-bip_39_word_dash_6: cement-apology-match-bulb-bitter-light
-bip_39_word_dash_7: cement-apology-match-bulb-bitter-light-bamboo
-bip_39_word_dash_8: cement-apology-match-bulb-bitter-light-bamboo-cigar
-bip_39_word_dash_9: cement-apology-match-bulb-bitter-light-bamboo-cigar-elevator
-bip_39_word_new_br_1: cement
-bip_39_word_new_br_10: cement<br>apology<br>match<br>bulb<br>bitter<br>light<br>bamboo<br>cigar<br>elevator<br>hundred
-bip_39_word_new_br_11: cement<br>apology<br>match<br>bulb<br>bitter<br>light<br>bamboo<br>cigar<br>elevator<br>hundred<br>design
 bip_39_word_new_br_12: cement<br>apology<br>match<br>bulb<br>bitter<br>light<br>bamboo<br>cigar<br>elevator<br>hundred<br>design<br>around
 bip_39_word_new_br_2: cement<br>apology
 bip_39_word_new_br_3: cement<br>apology<br>match
-bip_39_word_new_br_4: cement<br>apology<br>match<br>bulb
-bip_39_word_new_br_5: cement<br>apology<br>match<br>bulb<br>bitter
-bip_39_word_new_br_6: cement<br>apology<br>match<br>bulb<br>bitter<br>light
-bip_39_word_new_br_7: cement<br>apology<br>match<br>bulb<br>bitter<br>light<br>bamboo
-bip_39_word_new_br_8: cement<br>apology<br>match<br>bulb<br>bitter<br>light<br>bamboo<br>cigar
-bip_39_word_new_br_9: cement<br>apology<br>match<br>bulb<br>bitter<br>light<br>bamboo<br>cigar<br>elevator
-bip_39_word_new_line_1: cement
-bip_39_word_new_line_10: 'cement
-
-  apology
-
-  match
-
-  bulb
-
-  bitter
-
-  light
-
-  bamboo
-
-  cigar
-
-  elevator
-
-  hundred'
-bip_39_word_new_line_11: 'cement
-
-  apology
-
-  match
-
-  bulb
-
-  bitter
-
-  light
-
-  bamboo
-
-  cigar
-
-  elevator
-
-  hundred
-
-  design'
 bip_39_word_new_line_12: 'cement
 
   apology
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'cement
   apology
 
   match'
-bip_39_word_new_line_4: 'cement
-
-  apology
-
-  match
-
-  bulb'
-bip_39_word_new_line_5: 'cement
-
-  apology
-
-  match
-
-  bulb
-
-  bitter'
-bip_39_word_new_line_6: 'cement
-
-  apology
-
-  match
-
-  bulb
-
-  bitter
-
-  light'
-bip_39_word_new_line_7: 'cement
-
-  apology
-
-  match
-
-  bulb
-
-  bitter
-
-  light
-
-  bamboo'
-bip_39_word_new_line_8: 'cement
-
-  apology
-
-  match
-
-  bulb
-
-  bitter
-
-  light
-
-  bamboo
-
-  cigar'
-bip_39_word_new_line_9: 'cement
-
-  apology
-
-  match
-
-  bulb
-
-  bitter
-
-  light
-
-  bamboo
-
-  cigar
-
-  elevator'
-bip_39_word_no_space_1: cement
-bip_39_word_no_space_10: cementapologymatchbulbbitterlightbamboocigarelevatorhundred
-bip_39_word_no_space_11: cementapologymatchbulbbitterlightbamboocigarelevatorhundreddesign
 bip_39_word_no_space_12: cementapologymatchbulbbitterlightbamboocigarelevatorhundreddesignaround
 bip_39_word_no_space_2: cementapology
 bip_39_word_no_space_3: cementapologymatch
-bip_39_word_no_space_4: cementapologymatchbulb
-bip_39_word_no_space_5: cementapologymatchbulbbitter
-bip_39_word_no_space_6: cementapologymatchbulbbitterlight
-bip_39_word_no_space_7: cementapologymatchbulbbitterlightbamboo
-bip_39_word_no_space_8: cementapologymatchbulbbitterlightbamboocigar
-bip_39_word_no_space_9: cementapologymatchbulbbitterlightbamboocigarelevator
-bip_39_word_space_0:
-- cement
-- apology
-- match
-- bulb
-- bitter
-- light
-- bamboo
-- cigar
-- elevator
-- hundred
-- design
-- around
-bip_39_word_space_1: cement
-bip_39_word_space_10: cement apology match bulb bitter light bamboo cigar elevator
-  hundred
-bip_39_word_space_11: cement apology match bulb bitter light bamboo cigar elevator
-  hundred design
 bip_39_word_space_12: cement apology match bulb bitter light bamboo cigar elevator
   hundred design around
 bip_39_word_space_2: cement apology
 bip_39_word_space_3: cement apology match
-bip_39_word_space_4: cement apology match bulb
-bip_39_word_space_5: cement apology match bulb bitter
-bip_39_word_space_6: cement apology match bulb bitter light
-bip_39_word_space_7: cement apology match bulb bitter light bamboo
-bip_39_word_space_8: cement apology match bulb bitter light bamboo cigar
-bip_39_word_space_9: cement apology match bulb bitter light bamboo cigar elevator
-bip_39_word_underscore_1: cement
-bip_39_word_underscore_10: cement_apology_match_bulb_bitter_light_bamboo_cigar_elevator_hundred
-bip_39_word_underscore_11: cement_apology_match_bulb_bitter_light_bamboo_cigar_elevator_hundred_design
 bip_39_word_underscore_12: cement_apology_match_bulb_bitter_light_bamboo_cigar_elevator_hundred_design_around
 bip_39_word_underscore_2: cement_apology
 bip_39_word_underscore_3: cement_apology_match
-bip_39_word_underscore_4: cement_apology_match_bulb
-bip_39_word_underscore_5: cement_apology_match_bulb_bitter
-bip_39_word_underscore_6: cement_apology_match_bulb_bitter_light
-bip_39_word_underscore_7: cement_apology_match_bulb_bitter_light_bamboo
-bip_39_word_underscore_8: cement_apology_match_bulb_bitter_light_bamboo_cigar
-bip_39_word_underscore_9: cement_apology_match_bulb_bitter_light_bamboo_cigar_elevator
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

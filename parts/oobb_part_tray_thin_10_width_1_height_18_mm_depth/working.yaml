@@ -1,68 +1,9 @@
-bip_39_word_dash_1: equip
-bip_39_word_dash_10: equip-scale-seed-gather-absurd-magnet-tag-bind-rescue-force
-bip_39_word_dash_11: equip-scale-seed-gather-absurd-magnet-tag-bind-rescue-force-draw
 bip_39_word_dash_12: equip-scale-seed-gather-absurd-magnet-tag-bind-rescue-force-draw-all
 bip_39_word_dash_2: equip-scale
 bip_39_word_dash_3: equip-scale-seed
-bip_39_word_dash_4: equip-scale-seed-gather
-bip_39_word_dash_5: equip-scale-seed-gather-absurd
-bip_39_word_dash_6: equip-scale-seed-gather-absurd-magnet
-bip_39_word_dash_7: equip-scale-seed-gather-absurd-magnet-tag
-bip_39_word_dash_8: equip-scale-seed-gather-absurd-magnet-tag-bind
-bip_39_word_dash_9: equip-scale-seed-gather-absurd-magnet-tag-bind-rescue
-bip_39_word_new_br_1: equip
-bip_39_word_new_br_10: equip<br>scale<br>seed<br>gather<br>absurd<br>magnet<br>tag<br>bind<br>rescue<br>force
-bip_39_word_new_br_11: equip<br>scale<br>seed<br>gather<br>absurd<br>magnet<br>tag<br>bind<br>rescue<br>force<br>draw
 bip_39_word_new_br_12: equip<br>scale<br>seed<br>gather<br>absurd<br>magnet<br>tag<br>bind<br>rescue<br>force<br>draw<br>all
 bip_39_word_new_br_2: equip<br>scale
 bip_39_word_new_br_3: equip<br>scale<br>seed
-bip_39_word_new_br_4: equip<br>scale<br>seed<br>gather
-bip_39_word_new_br_5: equip<br>scale<br>seed<br>gather<br>absurd
-bip_39_word_new_br_6: equip<br>scale<br>seed<br>gather<br>absurd<br>magnet
-bip_39_word_new_br_7: equip<br>scale<br>seed<br>gather<br>absurd<br>magnet<br>tag
-bip_39_word_new_br_8: equip<br>scale<br>seed<br>gather<br>absurd<br>magnet<br>tag<br>bind
-bip_39_word_new_br_9: equip<br>scale<br>seed<br>gather<br>absurd<br>magnet<br>tag<br>bind<br>rescue
-bip_39_word_new_line_1: equip
-bip_39_word_new_line_10: 'equip
-
-  scale
-
-  seed
-
-  gather
-
-  absurd
-
-  magnet
-
-  tag
-
-  bind
-
-  rescue
-
-  force'
-bip_39_word_new_line_11: 'equip
-
-  scale
-
-  seed
-
-  gather
-
-  absurd
-
-  magnet
-
-  tag
-
-  bind
-
-  rescue
-
-  force
-
-  draw'
 bip_39_word_new_line_12: 'equip
 
   scale
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'equip
   scale
 
   seed'
-bip_39_word_new_line_4: 'equip
-
-  scale
-
-  seed
-
-  gather'
-bip_39_word_new_line_5: 'equip
-
-  scale
-
-  seed
-
-  gather
-
-  absurd'
-bip_39_word_new_line_6: 'equip
-
-  scale
-
-  seed
-
-  gather
-
-  absurd
-
-  magnet'
-bip_39_word_new_line_7: 'equip
-
-  scale
-
-  seed
-
-  gather
-
-  absurd
-
-  magnet
-
-  tag'
-bip_39_word_new_line_8: 'equip
-
-  scale
-
-  seed
-
-  gather
-
-  absurd
-
-  magnet
-
-  tag
-
-  bind'
-bip_39_word_new_line_9: 'equip
-
-  scale
-
-  seed
-
-  gather
-
-  absurd
-
-  magnet
-
-  tag
-
-  bind
-
-  rescue'
-bip_39_word_no_space_1: equip
-bip_39_word_no_space_10: equipscaleseedgatherabsurdmagnettagbindrescueforce
-bip_39_word_no_space_11: equipscaleseedgatherabsurdmagnettagbindrescueforcedraw
 bip_39_word_no_space_12: equipscaleseedgatherabsurdmagnettagbindrescueforcedrawall
 bip_39_word_no_space_2: equipscale
 bip_39_word_no_space_3: equipscaleseed
-bip_39_word_no_space_4: equipscaleseedgather
-bip_39_word_no_space_5: equipscaleseedgatherabsurd
-bip_39_word_no_space_6: equipscaleseedgatherabsurdmagnet
-bip_39_word_no_space_7: equipscaleseedgatherabsurdmagnettag
-bip_39_word_no_space_8: equipscaleseedgatherabsurdmagnettagbind
-bip_39_word_no_space_9: equipscaleseedgatherabsurdmagnettagbindrescue
-bip_39_word_space_0:
-- equip
-- scale
-- seed
-- gather
-- absurd
-- magnet
-- tag
-- bind
-- rescue
-- force
-- draw
-- all
-bip_39_word_space_1: equip
-bip_39_word_space_10: equip scale seed gather absurd magnet tag bind rescue force
-bip_39_word_space_11: equip scale seed gather absurd magnet tag bind rescue force
-  draw
 bip_39_word_space_12: equip scale seed gather absurd magnet tag bind rescue force
   draw all
 bip_39_word_space_2: equip scale
 bip_39_word_space_3: equip scale seed
-bip_39_word_space_4: equip scale seed gather
-bip_39_word_space_5: equip scale seed gather absurd
-bip_39_word_space_6: equip scale seed gather absurd magnet
-bip_39_word_space_7: equip scale seed gather absurd magnet tag
-bip_39_word_space_8: equip scale seed gather absurd magnet tag bind
-bip_39_word_space_9: equip scale seed gather absurd magnet tag bind rescue
-bip_39_word_underscore_1: equip
-bip_39_word_underscore_10: equip_scale_seed_gather_absurd_magnet_tag_bind_rescue_force
-bip_39_word_underscore_11: equip_scale_seed_gather_absurd_magnet_tag_bind_rescue_force_draw
 bip_39_word_underscore_12: equip_scale_seed_gather_absurd_magnet_tag_bind_rescue_force_draw_all
 bip_39_word_underscore_2: equip_scale
 bip_39_word_underscore_3: equip_scale_seed
-bip_39_word_underscore_4: equip_scale_seed_gather
-bip_39_word_underscore_5: equip_scale_seed_gather_absurd
-bip_39_word_underscore_6: equip_scale_seed_gather_absurd_magnet
-bip_39_word_underscore_7: equip_scale_seed_gather_absurd_magnet_tag
-bip_39_word_underscore_8: equip_scale_seed_gather_absurd_magnet_tag_bind
-bip_39_word_underscore_9: equip_scale_seed_gather_absurd_magnet_tag_bind_rescue
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

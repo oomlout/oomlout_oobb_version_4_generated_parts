@@ -1,68 +1,9 @@
-bip_39_word_dash_1: city
-bip_39_word_dash_10: city-hello-hurt-wedding-ivory-people-excess-ladder-remain-age
-bip_39_word_dash_11: city-hello-hurt-wedding-ivory-people-excess-ladder-remain-age-flower
 bip_39_word_dash_12: city-hello-hurt-wedding-ivory-people-excess-ladder-remain-age-flower-about
 bip_39_word_dash_2: city-hello
 bip_39_word_dash_3: city-hello-hurt
-bip_39_word_dash_4: city-hello-hurt-wedding
-bip_39_word_dash_5: city-hello-hurt-wedding-ivory
-bip_39_word_dash_6: city-hello-hurt-wedding-ivory-people
-bip_39_word_dash_7: city-hello-hurt-wedding-ivory-people-excess
-bip_39_word_dash_8: city-hello-hurt-wedding-ivory-people-excess-ladder
-bip_39_word_dash_9: city-hello-hurt-wedding-ivory-people-excess-ladder-remain
-bip_39_word_new_br_1: city
-bip_39_word_new_br_10: city<br>hello<br>hurt<br>wedding<br>ivory<br>people<br>excess<br>ladder<br>remain<br>age
-bip_39_word_new_br_11: city<br>hello<br>hurt<br>wedding<br>ivory<br>people<br>excess<br>ladder<br>remain<br>age<br>flower
 bip_39_word_new_br_12: city<br>hello<br>hurt<br>wedding<br>ivory<br>people<br>excess<br>ladder<br>remain<br>age<br>flower<br>about
 bip_39_word_new_br_2: city<br>hello
 bip_39_word_new_br_3: city<br>hello<br>hurt
-bip_39_word_new_br_4: city<br>hello<br>hurt<br>wedding
-bip_39_word_new_br_5: city<br>hello<br>hurt<br>wedding<br>ivory
-bip_39_word_new_br_6: city<br>hello<br>hurt<br>wedding<br>ivory<br>people
-bip_39_word_new_br_7: city<br>hello<br>hurt<br>wedding<br>ivory<br>people<br>excess
-bip_39_word_new_br_8: city<br>hello<br>hurt<br>wedding<br>ivory<br>people<br>excess<br>ladder
-bip_39_word_new_br_9: city<br>hello<br>hurt<br>wedding<br>ivory<br>people<br>excess<br>ladder<br>remain
-bip_39_word_new_line_1: city
-bip_39_word_new_line_10: 'city
-
-  hello
-
-  hurt
-
-  wedding
-
-  ivory
-
-  people
-
-  excess
-
-  ladder
-
-  remain
-
-  age'
-bip_39_word_new_line_11: 'city
-
-  hello
-
-  hurt
-
-  wedding
-
-  ivory
-
-  people
-
-  excess
-
-  ladder
-
-  remain
-
-  age
-
-  flower'
 bip_39_word_new_line_12: 'city
 
   hello
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'city
   hello
 
   hurt'
-bip_39_word_new_line_4: 'city
-
-  hello
-
-  hurt
-
-  wedding'
-bip_39_word_new_line_5: 'city
-
-  hello
-
-  hurt
-
-  wedding
-
-  ivory'
-bip_39_word_new_line_6: 'city
-
-  hello
-
-  hurt
-
-  wedding
-
-  ivory
-
-  people'
-bip_39_word_new_line_7: 'city
-
-  hello
-
-  hurt
-
-  wedding
-
-  ivory
-
-  people
-
-  excess'
-bip_39_word_new_line_8: 'city
-
-  hello
-
-  hurt
-
-  wedding
-
-  ivory
-
-  people
-
-  excess
-
-  ladder'
-bip_39_word_new_line_9: 'city
-
-  hello
-
-  hurt
-
-  wedding
-
-  ivory
-
-  people
-
-  excess
-
-  ladder
-
-  remain'
-bip_39_word_no_space_1: city
-bip_39_word_no_space_10: cityhellohurtweddingivorypeopleexcessladderremainage
-bip_39_word_no_space_11: cityhellohurtweddingivorypeopleexcessladderremainageflower
 bip_39_word_no_space_12: cityhellohurtweddingivorypeopleexcessladderremainageflowerabout
 bip_39_word_no_space_2: cityhello
 bip_39_word_no_space_3: cityhellohurt
-bip_39_word_no_space_4: cityhellohurtwedding
-bip_39_word_no_space_5: cityhellohurtweddingivory
-bip_39_word_no_space_6: cityhellohurtweddingivorypeople
-bip_39_word_no_space_7: cityhellohurtweddingivorypeopleexcess
-bip_39_word_no_space_8: cityhellohurtweddingivorypeopleexcessladder
-bip_39_word_no_space_9: cityhellohurtweddingivorypeopleexcessladderremain
-bip_39_word_space_0:
-- city
-- hello
-- hurt
-- wedding
-- ivory
-- people
-- excess
-- ladder
-- remain
-- age
-- flower
-- about
-bip_39_word_space_1: city
-bip_39_word_space_10: city hello hurt wedding ivory people excess ladder remain age
-bip_39_word_space_11: city hello hurt wedding ivory people excess ladder remain age
-  flower
 bip_39_word_space_12: city hello hurt wedding ivory people excess ladder remain age
   flower about
 bip_39_word_space_2: city hello
 bip_39_word_space_3: city hello hurt
-bip_39_word_space_4: city hello hurt wedding
-bip_39_word_space_5: city hello hurt wedding ivory
-bip_39_word_space_6: city hello hurt wedding ivory people
-bip_39_word_space_7: city hello hurt wedding ivory people excess
-bip_39_word_space_8: city hello hurt wedding ivory people excess ladder
-bip_39_word_space_9: city hello hurt wedding ivory people excess ladder remain
-bip_39_word_underscore_1: city
-bip_39_word_underscore_10: city_hello_hurt_wedding_ivory_people_excess_ladder_remain_age
-bip_39_word_underscore_11: city_hello_hurt_wedding_ivory_people_excess_ladder_remain_age_flower
 bip_39_word_underscore_12: city_hello_hurt_wedding_ivory_people_excess_ladder_remain_age_flower_about
 bip_39_word_underscore_2: city_hello
 bip_39_word_underscore_3: city_hello_hurt
-bip_39_word_underscore_4: city_hello_hurt_wedding
-bip_39_word_underscore_5: city_hello_hurt_wedding_ivory
-bip_39_word_underscore_6: city_hello_hurt_wedding_ivory_people
-bip_39_word_underscore_7: city_hello_hurt_wedding_ivory_people_excess
-bip_39_word_underscore_8: city_hello_hurt_wedding_ivory_people_excess_ladder
-bip_39_word_underscore_9: city_hello_hurt_wedding_ivory_people_excess_ladder_remain
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

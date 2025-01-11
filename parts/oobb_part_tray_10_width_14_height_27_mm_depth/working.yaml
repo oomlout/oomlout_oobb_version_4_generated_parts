@@ -1,68 +1,9 @@
-bip_39_word_dash_1: repair
-bip_39_word_dash_10: repair-walk-wheat-ramp-embrace-hunt-betray-noodle-plug-order
-bip_39_word_dash_11: repair-walk-wheat-ramp-embrace-hunt-betray-noodle-plug-order-slab
 bip_39_word_dash_12: repair-walk-wheat-ramp-embrace-hunt-betray-noodle-plug-order-slab-alcohol
 bip_39_word_dash_2: repair-walk
 bip_39_word_dash_3: repair-walk-wheat
-bip_39_word_dash_4: repair-walk-wheat-ramp
-bip_39_word_dash_5: repair-walk-wheat-ramp-embrace
-bip_39_word_dash_6: repair-walk-wheat-ramp-embrace-hunt
-bip_39_word_dash_7: repair-walk-wheat-ramp-embrace-hunt-betray
-bip_39_word_dash_8: repair-walk-wheat-ramp-embrace-hunt-betray-noodle
-bip_39_word_dash_9: repair-walk-wheat-ramp-embrace-hunt-betray-noodle-plug
-bip_39_word_new_br_1: repair
-bip_39_word_new_br_10: repair<br>walk<br>wheat<br>ramp<br>embrace<br>hunt<br>betray<br>noodle<br>plug<br>order
-bip_39_word_new_br_11: repair<br>walk<br>wheat<br>ramp<br>embrace<br>hunt<br>betray<br>noodle<br>plug<br>order<br>slab
 bip_39_word_new_br_12: repair<br>walk<br>wheat<br>ramp<br>embrace<br>hunt<br>betray<br>noodle<br>plug<br>order<br>slab<br>alcohol
 bip_39_word_new_br_2: repair<br>walk
 bip_39_word_new_br_3: repair<br>walk<br>wheat
-bip_39_word_new_br_4: repair<br>walk<br>wheat<br>ramp
-bip_39_word_new_br_5: repair<br>walk<br>wheat<br>ramp<br>embrace
-bip_39_word_new_br_6: repair<br>walk<br>wheat<br>ramp<br>embrace<br>hunt
-bip_39_word_new_br_7: repair<br>walk<br>wheat<br>ramp<br>embrace<br>hunt<br>betray
-bip_39_word_new_br_8: repair<br>walk<br>wheat<br>ramp<br>embrace<br>hunt<br>betray<br>noodle
-bip_39_word_new_br_9: repair<br>walk<br>wheat<br>ramp<br>embrace<br>hunt<br>betray<br>noodle<br>plug
-bip_39_word_new_line_1: repair
-bip_39_word_new_line_10: 'repair
-
-  walk
-
-  wheat
-
-  ramp
-
-  embrace
-
-  hunt
-
-  betray
-
-  noodle
-
-  plug
-
-  order'
-bip_39_word_new_line_11: 'repair
-
-  walk
-
-  wheat
-
-  ramp
-
-  embrace
-
-  hunt
-
-  betray
-
-  noodle
-
-  plug
-
-  order
-
-  slab'
 bip_39_word_new_line_12: 'repair
 
   walk
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'repair
   walk
 
   wheat'
-bip_39_word_new_line_4: 'repair
-
-  walk
-
-  wheat
-
-  ramp'
-bip_39_word_new_line_5: 'repair
-
-  walk
-
-  wheat
-
-  ramp
-
-  embrace'
-bip_39_word_new_line_6: 'repair
-
-  walk
-
-  wheat
-
-  ramp
-
-  embrace
-
-  hunt'
-bip_39_word_new_line_7: 'repair
-
-  walk
-
-  wheat
-
-  ramp
-
-  embrace
-
-  hunt
-
-  betray'
-bip_39_word_new_line_8: 'repair
-
-  walk
-
-  wheat
-
-  ramp
-
-  embrace
-
-  hunt
-
-  betray
-
-  noodle'
-bip_39_word_new_line_9: 'repair
-
-  walk
-
-  wheat
-
-  ramp
-
-  embrace
-
-  hunt
-
-  betray
-
-  noodle
-
-  plug'
-bip_39_word_no_space_1: repair
-bip_39_word_no_space_10: repairwalkwheatrampembracehuntbetraynoodleplugorder
-bip_39_word_no_space_11: repairwalkwheatrampembracehuntbetraynoodleplugorderslab
 bip_39_word_no_space_12: repairwalkwheatrampembracehuntbetraynoodleplugorderslabalcohol
 bip_39_word_no_space_2: repairwalk
 bip_39_word_no_space_3: repairwalkwheat
-bip_39_word_no_space_4: repairwalkwheatramp
-bip_39_word_no_space_5: repairwalkwheatrampembrace
-bip_39_word_no_space_6: repairwalkwheatrampembracehunt
-bip_39_word_no_space_7: repairwalkwheatrampembracehuntbetray
-bip_39_word_no_space_8: repairwalkwheatrampembracehuntbetraynoodle
-bip_39_word_no_space_9: repairwalkwheatrampembracehuntbetraynoodleplug
-bip_39_word_space_0:
-- repair
-- walk
-- wheat
-- ramp
-- embrace
-- hunt
-- betray
-- noodle
-- plug
-- order
-- slab
-- alcohol
-bip_39_word_space_1: repair
-bip_39_word_space_10: repair walk wheat ramp embrace hunt betray noodle plug order
-bip_39_word_space_11: repair walk wheat ramp embrace hunt betray noodle plug order
-  slab
 bip_39_word_space_12: repair walk wheat ramp embrace hunt betray noodle plug order
   slab alcohol
 bip_39_word_space_2: repair walk
 bip_39_word_space_3: repair walk wheat
-bip_39_word_space_4: repair walk wheat ramp
-bip_39_word_space_5: repair walk wheat ramp embrace
-bip_39_word_space_6: repair walk wheat ramp embrace hunt
-bip_39_word_space_7: repair walk wheat ramp embrace hunt betray
-bip_39_word_space_8: repair walk wheat ramp embrace hunt betray noodle
-bip_39_word_space_9: repair walk wheat ramp embrace hunt betray noodle plug
-bip_39_word_underscore_1: repair
-bip_39_word_underscore_10: repair_walk_wheat_ramp_embrace_hunt_betray_noodle_plug_order
-bip_39_word_underscore_11: repair_walk_wheat_ramp_embrace_hunt_betray_noodle_plug_order_slab
 bip_39_word_underscore_12: repair_walk_wheat_ramp_embrace_hunt_betray_noodle_plug_order_slab_alcohol
 bip_39_word_underscore_2: repair_walk
 bip_39_word_underscore_3: repair_walk_wheat
-bip_39_word_underscore_4: repair_walk_wheat_ramp
-bip_39_word_underscore_5: repair_walk_wheat_ramp_embrace
-bip_39_word_underscore_6: repair_walk_wheat_ramp_embrace_hunt
-bip_39_word_underscore_7: repair_walk_wheat_ramp_embrace_hunt_betray
-bip_39_word_underscore_8: repair_walk_wheat_ramp_embrace_hunt_betray_noodle
-bip_39_word_underscore_9: repair_walk_wheat_ramp_embrace_hunt_betray_noodle_plug
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: lucky
-bip_39_word_dash_10: lucky-brisk-return-change-force-normal-seek-seven-enjoy-rail
-bip_39_word_dash_11: lucky-brisk-return-change-force-normal-seek-seven-enjoy-rail-fox
 bip_39_word_dash_12: lucky-brisk-return-change-force-normal-seek-seven-enjoy-rail-fox-always
 bip_39_word_dash_2: lucky-brisk
 bip_39_word_dash_3: lucky-brisk-return
-bip_39_word_dash_4: lucky-brisk-return-change
-bip_39_word_dash_5: lucky-brisk-return-change-force
-bip_39_word_dash_6: lucky-brisk-return-change-force-normal
-bip_39_word_dash_7: lucky-brisk-return-change-force-normal-seek
-bip_39_word_dash_8: lucky-brisk-return-change-force-normal-seek-seven
-bip_39_word_dash_9: lucky-brisk-return-change-force-normal-seek-seven-enjoy
-bip_39_word_new_br_1: lucky
-bip_39_word_new_br_10: lucky<br>brisk<br>return<br>change<br>force<br>normal<br>seek<br>seven<br>enjoy<br>rail
-bip_39_word_new_br_11: lucky<br>brisk<br>return<br>change<br>force<br>normal<br>seek<br>seven<br>enjoy<br>rail<br>fox
 bip_39_word_new_br_12: lucky<br>brisk<br>return<br>change<br>force<br>normal<br>seek<br>seven<br>enjoy<br>rail<br>fox<br>always
 bip_39_word_new_br_2: lucky<br>brisk
 bip_39_word_new_br_3: lucky<br>brisk<br>return
-bip_39_word_new_br_4: lucky<br>brisk<br>return<br>change
-bip_39_word_new_br_5: lucky<br>brisk<br>return<br>change<br>force
-bip_39_word_new_br_6: lucky<br>brisk<br>return<br>change<br>force<br>normal
-bip_39_word_new_br_7: lucky<br>brisk<br>return<br>change<br>force<br>normal<br>seek
-bip_39_word_new_br_8: lucky<br>brisk<br>return<br>change<br>force<br>normal<br>seek<br>seven
-bip_39_word_new_br_9: lucky<br>brisk<br>return<br>change<br>force<br>normal<br>seek<br>seven<br>enjoy
-bip_39_word_new_line_1: lucky
-bip_39_word_new_line_10: 'lucky
-
-  brisk
-
-  return
-
-  change
-
-  force
-
-  normal
-
-  seek
-
-  seven
-
-  enjoy
-
-  rail'
-bip_39_word_new_line_11: 'lucky
-
-  brisk
-
-  return
-
-  change
-
-  force
-
-  normal
-
-  seek
-
-  seven
-
-  enjoy
-
-  rail
-
-  fox'
 bip_39_word_new_line_12: 'lucky
 
   brisk
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'lucky
   brisk
 
   return'
-bip_39_word_new_line_4: 'lucky
-
-  brisk
-
-  return
-
-  change'
-bip_39_word_new_line_5: 'lucky
-
-  brisk
-
-  return
-
-  change
-
-  force'
-bip_39_word_new_line_6: 'lucky
-
-  brisk
-
-  return
-
-  change
-
-  force
-
-  normal'
-bip_39_word_new_line_7: 'lucky
-
-  brisk
-
-  return
-
-  change
-
-  force
-
-  normal
-
-  seek'
-bip_39_word_new_line_8: 'lucky
-
-  brisk
-
-  return
-
-  change
-
-  force
-
-  normal
-
-  seek
-
-  seven'
-bip_39_word_new_line_9: 'lucky
-
-  brisk
-
-  return
-
-  change
-
-  force
-
-  normal
-
-  seek
-
-  seven
-
-  enjoy'
-bip_39_word_no_space_1: lucky
-bip_39_word_no_space_10: luckybriskreturnchangeforcenormalseeksevenenjoyrail
-bip_39_word_no_space_11: luckybriskreturnchangeforcenormalseeksevenenjoyrailfox
 bip_39_word_no_space_12: luckybriskreturnchangeforcenormalseeksevenenjoyrailfoxalways
 bip_39_word_no_space_2: luckybrisk
 bip_39_word_no_space_3: luckybriskreturn
-bip_39_word_no_space_4: luckybriskreturnchange
-bip_39_word_no_space_5: luckybriskreturnchangeforce
-bip_39_word_no_space_6: luckybriskreturnchangeforcenormal
-bip_39_word_no_space_7: luckybriskreturnchangeforcenormalseek
-bip_39_word_no_space_8: luckybriskreturnchangeforcenormalseekseven
-bip_39_word_no_space_9: luckybriskreturnchangeforcenormalseeksevenenjoy
-bip_39_word_space_0:
-- lucky
-- brisk
-- return
-- change
-- force
-- normal
-- seek
-- seven
-- enjoy
-- rail
-- fox
-- always
-bip_39_word_space_1: lucky
-bip_39_word_space_10: lucky brisk return change force normal seek seven enjoy rail
-bip_39_word_space_11: lucky brisk return change force normal seek seven enjoy rail
-  fox
 bip_39_word_space_12: lucky brisk return change force normal seek seven enjoy rail
   fox always
 bip_39_word_space_2: lucky brisk
 bip_39_word_space_3: lucky brisk return
-bip_39_word_space_4: lucky brisk return change
-bip_39_word_space_5: lucky brisk return change force
-bip_39_word_space_6: lucky brisk return change force normal
-bip_39_word_space_7: lucky brisk return change force normal seek
-bip_39_word_space_8: lucky brisk return change force normal seek seven
-bip_39_word_space_9: lucky brisk return change force normal seek seven enjoy
-bip_39_word_underscore_1: lucky
-bip_39_word_underscore_10: lucky_brisk_return_change_force_normal_seek_seven_enjoy_rail
-bip_39_word_underscore_11: lucky_brisk_return_change_force_normal_seek_seven_enjoy_rail_fox
 bip_39_word_underscore_12: lucky_brisk_return_change_force_normal_seek_seven_enjoy_rail_fox_always
 bip_39_word_underscore_2: lucky_brisk
 bip_39_word_underscore_3: lucky_brisk_return
-bip_39_word_underscore_4: lucky_brisk_return_change
-bip_39_word_underscore_5: lucky_brisk_return_change_force
-bip_39_word_underscore_6: lucky_brisk_return_change_force_normal
-bip_39_word_underscore_7: lucky_brisk_return_change_force_normal_seek
-bip_39_word_underscore_8: lucky_brisk_return_change_force_normal_seek_seven
-bip_39_word_underscore_9: lucky_brisk_return_change_force_normal_seek_seven_enjoy
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

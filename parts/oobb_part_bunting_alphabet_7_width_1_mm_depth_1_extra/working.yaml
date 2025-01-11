@@ -1,68 +1,9 @@
-bip_39_word_dash_1: lottery
-bip_39_word_dash_10: lottery-pudding-boost-damage-void-travel-forget-dash-shy-just
-bip_39_word_dash_11: lottery-pudding-boost-damage-void-travel-forget-dash-shy-just-afford
 bip_39_word_dash_12: lottery-pudding-boost-damage-void-travel-forget-dash-shy-just-afford-aim
 bip_39_word_dash_2: lottery-pudding
 bip_39_word_dash_3: lottery-pudding-boost
-bip_39_word_dash_4: lottery-pudding-boost-damage
-bip_39_word_dash_5: lottery-pudding-boost-damage-void
-bip_39_word_dash_6: lottery-pudding-boost-damage-void-travel
-bip_39_word_dash_7: lottery-pudding-boost-damage-void-travel-forget
-bip_39_word_dash_8: lottery-pudding-boost-damage-void-travel-forget-dash
-bip_39_word_dash_9: lottery-pudding-boost-damage-void-travel-forget-dash-shy
-bip_39_word_new_br_1: lottery
-bip_39_word_new_br_10: lottery<br>pudding<br>boost<br>damage<br>void<br>travel<br>forget<br>dash<br>shy<br>just
-bip_39_word_new_br_11: lottery<br>pudding<br>boost<br>damage<br>void<br>travel<br>forget<br>dash<br>shy<br>just<br>afford
 bip_39_word_new_br_12: lottery<br>pudding<br>boost<br>damage<br>void<br>travel<br>forget<br>dash<br>shy<br>just<br>afford<br>aim
 bip_39_word_new_br_2: lottery<br>pudding
 bip_39_word_new_br_3: lottery<br>pudding<br>boost
-bip_39_word_new_br_4: lottery<br>pudding<br>boost<br>damage
-bip_39_word_new_br_5: lottery<br>pudding<br>boost<br>damage<br>void
-bip_39_word_new_br_6: lottery<br>pudding<br>boost<br>damage<br>void<br>travel
-bip_39_word_new_br_7: lottery<br>pudding<br>boost<br>damage<br>void<br>travel<br>forget
-bip_39_word_new_br_8: lottery<br>pudding<br>boost<br>damage<br>void<br>travel<br>forget<br>dash
-bip_39_word_new_br_9: lottery<br>pudding<br>boost<br>damage<br>void<br>travel<br>forget<br>dash<br>shy
-bip_39_word_new_line_1: lottery
-bip_39_word_new_line_10: 'lottery
-
-  pudding
-
-  boost
-
-  damage
-
-  void
-
-  travel
-
-  forget
-
-  dash
-
-  shy
-
-  just'
-bip_39_word_new_line_11: 'lottery
-
-  pudding
-
-  boost
-
-  damage
-
-  void
-
-  travel
-
-  forget
-
-  dash
-
-  shy
-
-  just
-
-  afford'
 bip_39_word_new_line_12: 'lottery
 
   pudding
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'lottery
   pudding
 
   boost'
-bip_39_word_new_line_4: 'lottery
-
-  pudding
-
-  boost
-
-  damage'
-bip_39_word_new_line_5: 'lottery
-
-  pudding
-
-  boost
-
-  damage
-
-  void'
-bip_39_word_new_line_6: 'lottery
-
-  pudding
-
-  boost
-
-  damage
-
-  void
-
-  travel'
-bip_39_word_new_line_7: 'lottery
-
-  pudding
-
-  boost
-
-  damage
-
-  void
-
-  travel
-
-  forget'
-bip_39_word_new_line_8: 'lottery
-
-  pudding
-
-  boost
-
-  damage
-
-  void
-
-  travel
-
-  forget
-
-  dash'
-bip_39_word_new_line_9: 'lottery
-
-  pudding
-
-  boost
-
-  damage
-
-  void
-
-  travel
-
-  forget
-
-  dash
-
-  shy'
-bip_39_word_no_space_1: lottery
-bip_39_word_no_space_10: lotterypuddingboostdamagevoidtravelforgetdashshyjust
-bip_39_word_no_space_11: lotterypuddingboostdamagevoidtravelforgetdashshyjustafford
 bip_39_word_no_space_12: lotterypuddingboostdamagevoidtravelforgetdashshyjustaffordaim
 bip_39_word_no_space_2: lotterypudding
 bip_39_word_no_space_3: lotterypuddingboost
-bip_39_word_no_space_4: lotterypuddingboostdamage
-bip_39_word_no_space_5: lotterypuddingboostdamagevoid
-bip_39_word_no_space_6: lotterypuddingboostdamagevoidtravel
-bip_39_word_no_space_7: lotterypuddingboostdamagevoidtravelforget
-bip_39_word_no_space_8: lotterypuddingboostdamagevoidtravelforgetdash
-bip_39_word_no_space_9: lotterypuddingboostdamagevoidtravelforgetdashshy
-bip_39_word_space_0:
-- lottery
-- pudding
-- boost
-- damage
-- void
-- travel
-- forget
-- dash
-- shy
-- just
-- afford
-- aim
-bip_39_word_space_1: lottery
-bip_39_word_space_10: lottery pudding boost damage void travel forget dash shy just
-bip_39_word_space_11: lottery pudding boost damage void travel forget dash shy just
-  afford
 bip_39_word_space_12: lottery pudding boost damage void travel forget dash shy just
   afford aim
 bip_39_word_space_2: lottery pudding
 bip_39_word_space_3: lottery pudding boost
-bip_39_word_space_4: lottery pudding boost damage
-bip_39_word_space_5: lottery pudding boost damage void
-bip_39_word_space_6: lottery pudding boost damage void travel
-bip_39_word_space_7: lottery pudding boost damage void travel forget
-bip_39_word_space_8: lottery pudding boost damage void travel forget dash
-bip_39_word_space_9: lottery pudding boost damage void travel forget dash shy
-bip_39_word_underscore_1: lottery
-bip_39_word_underscore_10: lottery_pudding_boost_damage_void_travel_forget_dash_shy_just
-bip_39_word_underscore_11: lottery_pudding_boost_damage_void_travel_forget_dash_shy_just_afford
 bip_39_word_underscore_12: lottery_pudding_boost_damage_void_travel_forget_dash_shy_just_afford_aim
 bip_39_word_underscore_2: lottery_pudding
 bip_39_word_underscore_3: lottery_pudding_boost
-bip_39_word_underscore_4: lottery_pudding_boost_damage
-bip_39_word_underscore_5: lottery_pudding_boost_damage_void
-bip_39_word_underscore_6: lottery_pudding_boost_damage_void_travel
-bip_39_word_underscore_7: lottery_pudding_boost_damage_void_travel_forget
-bip_39_word_underscore_8: lottery_pudding_boost_damage_void_travel_forget_dash
-bip_39_word_underscore_9: lottery_pudding_boost_damage_void_travel_forget_dash_shy
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

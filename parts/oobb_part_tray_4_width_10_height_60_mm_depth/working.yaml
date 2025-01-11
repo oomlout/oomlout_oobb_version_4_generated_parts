@@ -1,68 +1,9 @@
-bip_39_word_dash_1: film
-bip_39_word_dash_10: film-decade-eagle-sell-beef-rack-excess-bacon-awful-twist
-bip_39_word_dash_11: film-decade-eagle-sell-beef-rack-excess-bacon-awful-twist-bacon
 bip_39_word_dash_12: film-decade-eagle-sell-beef-rack-excess-bacon-awful-twist-bacon-affair
 bip_39_word_dash_2: film-decade
 bip_39_word_dash_3: film-decade-eagle
-bip_39_word_dash_4: film-decade-eagle-sell
-bip_39_word_dash_5: film-decade-eagle-sell-beef
-bip_39_word_dash_6: film-decade-eagle-sell-beef-rack
-bip_39_word_dash_7: film-decade-eagle-sell-beef-rack-excess
-bip_39_word_dash_8: film-decade-eagle-sell-beef-rack-excess-bacon
-bip_39_word_dash_9: film-decade-eagle-sell-beef-rack-excess-bacon-awful
-bip_39_word_new_br_1: film
-bip_39_word_new_br_10: film<br>decade<br>eagle<br>sell<br>beef<br>rack<br>excess<br>bacon<br>awful<br>twist
-bip_39_word_new_br_11: film<br>decade<br>eagle<br>sell<br>beef<br>rack<br>excess<br>bacon<br>awful<br>twist<br>bacon
 bip_39_word_new_br_12: film<br>decade<br>eagle<br>sell<br>beef<br>rack<br>excess<br>bacon<br>awful<br>twist<br>bacon<br>affair
 bip_39_word_new_br_2: film<br>decade
 bip_39_word_new_br_3: film<br>decade<br>eagle
-bip_39_word_new_br_4: film<br>decade<br>eagle<br>sell
-bip_39_word_new_br_5: film<br>decade<br>eagle<br>sell<br>beef
-bip_39_word_new_br_6: film<br>decade<br>eagle<br>sell<br>beef<br>rack
-bip_39_word_new_br_7: film<br>decade<br>eagle<br>sell<br>beef<br>rack<br>excess
-bip_39_word_new_br_8: film<br>decade<br>eagle<br>sell<br>beef<br>rack<br>excess<br>bacon
-bip_39_word_new_br_9: film<br>decade<br>eagle<br>sell<br>beef<br>rack<br>excess<br>bacon<br>awful
-bip_39_word_new_line_1: film
-bip_39_word_new_line_10: 'film
-
-  decade
-
-  eagle
-
-  sell
-
-  beef
-
-  rack
-
-  excess
-
-  bacon
-
-  awful
-
-  twist'
-bip_39_word_new_line_11: 'film
-
-  decade
-
-  eagle
-
-  sell
-
-  beef
-
-  rack
-
-  excess
-
-  bacon
-
-  awful
-
-  twist
-
-  bacon'
 bip_39_word_new_line_12: 'film
 
   decade
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'film
   decade
 
   eagle'
-bip_39_word_new_line_4: 'film
-
-  decade
-
-  eagle
-
-  sell'
-bip_39_word_new_line_5: 'film
-
-  decade
-
-  eagle
-
-  sell
-
-  beef'
-bip_39_word_new_line_6: 'film
-
-  decade
-
-  eagle
-
-  sell
-
-  beef
-
-  rack'
-bip_39_word_new_line_7: 'film
-
-  decade
-
-  eagle
-
-  sell
-
-  beef
-
-  rack
-
-  excess'
-bip_39_word_new_line_8: 'film
-
-  decade
-
-  eagle
-
-  sell
-
-  beef
-
-  rack
-
-  excess
-
-  bacon'
-bip_39_word_new_line_9: 'film
-
-  decade
-
-  eagle
-
-  sell
-
-  beef
-
-  rack
-
-  excess
-
-  bacon
-
-  awful'
-bip_39_word_no_space_1: film
-bip_39_word_no_space_10: filmdecadeeaglesellbeefrackexcessbaconawfultwist
-bip_39_word_no_space_11: filmdecadeeaglesellbeefrackexcessbaconawfultwistbacon
 bip_39_word_no_space_12: filmdecadeeaglesellbeefrackexcessbaconawfultwistbaconaffair
 bip_39_word_no_space_2: filmdecade
 bip_39_word_no_space_3: filmdecadeeagle
-bip_39_word_no_space_4: filmdecadeeaglesell
-bip_39_word_no_space_5: filmdecadeeaglesellbeef
-bip_39_word_no_space_6: filmdecadeeaglesellbeefrack
-bip_39_word_no_space_7: filmdecadeeaglesellbeefrackexcess
-bip_39_word_no_space_8: filmdecadeeaglesellbeefrackexcessbacon
-bip_39_word_no_space_9: filmdecadeeaglesellbeefrackexcessbaconawful
-bip_39_word_space_0:
-- film
-- decade
-- eagle
-- sell
-- beef
-- rack
-- excess
-- bacon
-- awful
-- twist
-- bacon
-- affair
-bip_39_word_space_1: film
-bip_39_word_space_10: film decade eagle sell beef rack excess bacon awful twist
-bip_39_word_space_11: film decade eagle sell beef rack excess bacon awful twist bacon
 bip_39_word_space_12: film decade eagle sell beef rack excess bacon awful twist bacon
   affair
 bip_39_word_space_2: film decade
 bip_39_word_space_3: film decade eagle
-bip_39_word_space_4: film decade eagle sell
-bip_39_word_space_5: film decade eagle sell beef
-bip_39_word_space_6: film decade eagle sell beef rack
-bip_39_word_space_7: film decade eagle sell beef rack excess
-bip_39_word_space_8: film decade eagle sell beef rack excess bacon
-bip_39_word_space_9: film decade eagle sell beef rack excess bacon awful
-bip_39_word_underscore_1: film
-bip_39_word_underscore_10: film_decade_eagle_sell_beef_rack_excess_bacon_awful_twist
-bip_39_word_underscore_11: film_decade_eagle_sell_beef_rack_excess_bacon_awful_twist_bacon
 bip_39_word_underscore_12: film_decade_eagle_sell_beef_rack_excess_bacon_awful_twist_bacon_affair
 bip_39_word_underscore_2: film_decade
 bip_39_word_underscore_3: film_decade_eagle
-bip_39_word_underscore_4: film_decade_eagle_sell
-bip_39_word_underscore_5: film_decade_eagle_sell_beef
-bip_39_word_underscore_6: film_decade_eagle_sell_beef_rack
-bip_39_word_underscore_7: film_decade_eagle_sell_beef_rack_excess
-bip_39_word_underscore_8: film_decade_eagle_sell_beef_rack_excess_bacon
-bip_39_word_underscore_9: film_decade_eagle_sell_beef_rack_excess_bacon_awful
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

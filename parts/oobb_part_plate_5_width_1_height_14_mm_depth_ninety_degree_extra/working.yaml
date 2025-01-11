@@ -1,68 +1,9 @@
-bip_39_word_dash_1: cinnamon
-bip_39_word_dash_10: cinnamon-border-pepper-kiwi-consider-twist-kiss-stage-tower-country
-bip_39_word_dash_11: cinnamon-border-pepper-kiwi-consider-twist-kiss-stage-tower-country-pride
 bip_39_word_dash_12: cinnamon-border-pepper-kiwi-consider-twist-kiss-stage-tower-country-pride-ankle
 bip_39_word_dash_2: cinnamon-border
 bip_39_word_dash_3: cinnamon-border-pepper
-bip_39_word_dash_4: cinnamon-border-pepper-kiwi
-bip_39_word_dash_5: cinnamon-border-pepper-kiwi-consider
-bip_39_word_dash_6: cinnamon-border-pepper-kiwi-consider-twist
-bip_39_word_dash_7: cinnamon-border-pepper-kiwi-consider-twist-kiss
-bip_39_word_dash_8: cinnamon-border-pepper-kiwi-consider-twist-kiss-stage
-bip_39_word_dash_9: cinnamon-border-pepper-kiwi-consider-twist-kiss-stage-tower
-bip_39_word_new_br_1: cinnamon
-bip_39_word_new_br_10: cinnamon<br>border<br>pepper<br>kiwi<br>consider<br>twist<br>kiss<br>stage<br>tower<br>country
-bip_39_word_new_br_11: cinnamon<br>border<br>pepper<br>kiwi<br>consider<br>twist<br>kiss<br>stage<br>tower<br>country<br>pride
 bip_39_word_new_br_12: cinnamon<br>border<br>pepper<br>kiwi<br>consider<br>twist<br>kiss<br>stage<br>tower<br>country<br>pride<br>ankle
 bip_39_word_new_br_2: cinnamon<br>border
 bip_39_word_new_br_3: cinnamon<br>border<br>pepper
-bip_39_word_new_br_4: cinnamon<br>border<br>pepper<br>kiwi
-bip_39_word_new_br_5: cinnamon<br>border<br>pepper<br>kiwi<br>consider
-bip_39_word_new_br_6: cinnamon<br>border<br>pepper<br>kiwi<br>consider<br>twist
-bip_39_word_new_br_7: cinnamon<br>border<br>pepper<br>kiwi<br>consider<br>twist<br>kiss
-bip_39_word_new_br_8: cinnamon<br>border<br>pepper<br>kiwi<br>consider<br>twist<br>kiss<br>stage
-bip_39_word_new_br_9: cinnamon<br>border<br>pepper<br>kiwi<br>consider<br>twist<br>kiss<br>stage<br>tower
-bip_39_word_new_line_1: cinnamon
-bip_39_word_new_line_10: 'cinnamon
-
-  border
-
-  pepper
-
-  kiwi
-
-  consider
-
-  twist
-
-  kiss
-
-  stage
-
-  tower
-
-  country'
-bip_39_word_new_line_11: 'cinnamon
-
-  border
-
-  pepper
-
-  kiwi
-
-  consider
-
-  twist
-
-  kiss
-
-  stage
-
-  tower
-
-  country
-
-  pride'
 bip_39_word_new_line_12: 'cinnamon
 
   border
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'cinnamon
   border
 
   pepper'
-bip_39_word_new_line_4: 'cinnamon
-
-  border
-
-  pepper
-
-  kiwi'
-bip_39_word_new_line_5: 'cinnamon
-
-  border
-
-  pepper
-
-  kiwi
-
-  consider'
-bip_39_word_new_line_6: 'cinnamon
-
-  border
-
-  pepper
-
-  kiwi
-
-  consider
-
-  twist'
-bip_39_word_new_line_7: 'cinnamon
-
-  border
-
-  pepper
-
-  kiwi
-
-  consider
-
-  twist
-
-  kiss'
-bip_39_word_new_line_8: 'cinnamon
-
-  border
-
-  pepper
-
-  kiwi
-
-  consider
-
-  twist
-
-  kiss
-
-  stage'
-bip_39_word_new_line_9: 'cinnamon
-
-  border
-
-  pepper
-
-  kiwi
-
-  consider
-
-  twist
-
-  kiss
-
-  stage
-
-  tower'
-bip_39_word_no_space_1: cinnamon
-bip_39_word_no_space_10: cinnamonborderpepperkiwiconsidertwistkissstagetowercountry
-bip_39_word_no_space_11: cinnamonborderpepperkiwiconsidertwistkissstagetowercountrypride
 bip_39_word_no_space_12: cinnamonborderpepperkiwiconsidertwistkissstagetowercountryprideankle
 bip_39_word_no_space_2: cinnamonborder
 bip_39_word_no_space_3: cinnamonborderpepper
-bip_39_word_no_space_4: cinnamonborderpepperkiwi
-bip_39_word_no_space_5: cinnamonborderpepperkiwiconsider
-bip_39_word_no_space_6: cinnamonborderpepperkiwiconsidertwist
-bip_39_word_no_space_7: cinnamonborderpepperkiwiconsidertwistkiss
-bip_39_word_no_space_8: cinnamonborderpepperkiwiconsidertwistkissstage
-bip_39_word_no_space_9: cinnamonborderpepperkiwiconsidertwistkissstagetower
-bip_39_word_space_0:
-- cinnamon
-- border
-- pepper
-- kiwi
-- consider
-- twist
-- kiss
-- stage
-- tower
-- country
-- pride
-- ankle
-bip_39_word_space_1: cinnamon
-bip_39_word_space_10: cinnamon border pepper kiwi consider twist kiss stage tower
-  country
-bip_39_word_space_11: cinnamon border pepper kiwi consider twist kiss stage tower
-  country pride
 bip_39_word_space_12: cinnamon border pepper kiwi consider twist kiss stage tower
   country pride ankle
 bip_39_word_space_2: cinnamon border
 bip_39_word_space_3: cinnamon border pepper
-bip_39_word_space_4: cinnamon border pepper kiwi
-bip_39_word_space_5: cinnamon border pepper kiwi consider
-bip_39_word_space_6: cinnamon border pepper kiwi consider twist
-bip_39_word_space_7: cinnamon border pepper kiwi consider twist kiss
-bip_39_word_space_8: cinnamon border pepper kiwi consider twist kiss stage
-bip_39_word_space_9: cinnamon border pepper kiwi consider twist kiss stage tower
-bip_39_word_underscore_1: cinnamon
-bip_39_word_underscore_10: cinnamon_border_pepper_kiwi_consider_twist_kiss_stage_tower_country
-bip_39_word_underscore_11: cinnamon_border_pepper_kiwi_consider_twist_kiss_stage_tower_country_pride
 bip_39_word_underscore_12: cinnamon_border_pepper_kiwi_consider_twist_kiss_stage_tower_country_pride_ankle
 bip_39_word_underscore_2: cinnamon_border
 bip_39_word_underscore_3: cinnamon_border_pepper
-bip_39_word_underscore_4: cinnamon_border_pepper_kiwi
-bip_39_word_underscore_5: cinnamon_border_pepper_kiwi_consider
-bip_39_word_underscore_6: cinnamon_border_pepper_kiwi_consider_twist
-bip_39_word_underscore_7: cinnamon_border_pepper_kiwi_consider_twist_kiss
-bip_39_word_underscore_8: cinnamon_border_pepper_kiwi_consider_twist_kiss_stage
-bip_39_word_underscore_9: cinnamon_border_pepper_kiwi_consider_twist_kiss_stage_tower
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

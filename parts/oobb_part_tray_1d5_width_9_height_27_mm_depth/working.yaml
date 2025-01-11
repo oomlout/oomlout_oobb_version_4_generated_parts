@@ -1,68 +1,9 @@
-bip_39_word_dash_1: route
-bip_39_word_dash_10: route-sentence-obey-join-loop-clinic-left-pelican-grit-bonus
-bip_39_word_dash_11: route-sentence-obey-join-loop-clinic-left-pelican-grit-bonus-elbow
 bip_39_word_dash_12: route-sentence-obey-join-loop-clinic-left-pelican-grit-bonus-elbow-annual
 bip_39_word_dash_2: route-sentence
 bip_39_word_dash_3: route-sentence-obey
-bip_39_word_dash_4: route-sentence-obey-join
-bip_39_word_dash_5: route-sentence-obey-join-loop
-bip_39_word_dash_6: route-sentence-obey-join-loop-clinic
-bip_39_word_dash_7: route-sentence-obey-join-loop-clinic-left
-bip_39_word_dash_8: route-sentence-obey-join-loop-clinic-left-pelican
-bip_39_word_dash_9: route-sentence-obey-join-loop-clinic-left-pelican-grit
-bip_39_word_new_br_1: route
-bip_39_word_new_br_10: route<br>sentence<br>obey<br>join<br>loop<br>clinic<br>left<br>pelican<br>grit<br>bonus
-bip_39_word_new_br_11: route<br>sentence<br>obey<br>join<br>loop<br>clinic<br>left<br>pelican<br>grit<br>bonus<br>elbow
 bip_39_word_new_br_12: route<br>sentence<br>obey<br>join<br>loop<br>clinic<br>left<br>pelican<br>grit<br>bonus<br>elbow<br>annual
 bip_39_word_new_br_2: route<br>sentence
 bip_39_word_new_br_3: route<br>sentence<br>obey
-bip_39_word_new_br_4: route<br>sentence<br>obey<br>join
-bip_39_word_new_br_5: route<br>sentence<br>obey<br>join<br>loop
-bip_39_word_new_br_6: route<br>sentence<br>obey<br>join<br>loop<br>clinic
-bip_39_word_new_br_7: route<br>sentence<br>obey<br>join<br>loop<br>clinic<br>left
-bip_39_word_new_br_8: route<br>sentence<br>obey<br>join<br>loop<br>clinic<br>left<br>pelican
-bip_39_word_new_br_9: route<br>sentence<br>obey<br>join<br>loop<br>clinic<br>left<br>pelican<br>grit
-bip_39_word_new_line_1: route
-bip_39_word_new_line_10: 'route
-
-  sentence
-
-  obey
-
-  join
-
-  loop
-
-  clinic
-
-  left
-
-  pelican
-
-  grit
-
-  bonus'
-bip_39_word_new_line_11: 'route
-
-  sentence
-
-  obey
-
-  join
-
-  loop
-
-  clinic
-
-  left
-
-  pelican
-
-  grit
-
-  bonus
-
-  elbow'
 bip_39_word_new_line_12: 'route
 
   sentence
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'route
   sentence
 
   obey'
-bip_39_word_new_line_4: 'route
-
-  sentence
-
-  obey
-
-  join'
-bip_39_word_new_line_5: 'route
-
-  sentence
-
-  obey
-
-  join
-
-  loop'
-bip_39_word_new_line_6: 'route
-
-  sentence
-
-  obey
-
-  join
-
-  loop
-
-  clinic'
-bip_39_word_new_line_7: 'route
-
-  sentence
-
-  obey
-
-  join
-
-  loop
-
-  clinic
-
-  left'
-bip_39_word_new_line_8: 'route
-
-  sentence
-
-  obey
-
-  join
-
-  loop
-
-  clinic
-
-  left
-
-  pelican'
-bip_39_word_new_line_9: 'route
-
-  sentence
-
-  obey
-
-  join
-
-  loop
-
-  clinic
-
-  left
-
-  pelican
-
-  grit'
-bip_39_word_no_space_1: route
-bip_39_word_no_space_10: routesentenceobeyjoinloopclinicleftpelicangritbonus
-bip_39_word_no_space_11: routesentenceobeyjoinloopclinicleftpelicangritbonuselbow
 bip_39_word_no_space_12: routesentenceobeyjoinloopclinicleftpelicangritbonuselbowannual
 bip_39_word_no_space_2: routesentence
 bip_39_word_no_space_3: routesentenceobey
-bip_39_word_no_space_4: routesentenceobeyjoin
-bip_39_word_no_space_5: routesentenceobeyjoinloop
-bip_39_word_no_space_6: routesentenceobeyjoinloopclinic
-bip_39_word_no_space_7: routesentenceobeyjoinloopclinicleft
-bip_39_word_no_space_8: routesentenceobeyjoinloopclinicleftpelican
-bip_39_word_no_space_9: routesentenceobeyjoinloopclinicleftpelicangrit
-bip_39_word_space_0:
-- route
-- sentence
-- obey
-- join
-- loop
-- clinic
-- left
-- pelican
-- grit
-- bonus
-- elbow
-- annual
-bip_39_word_space_1: route
-bip_39_word_space_10: route sentence obey join loop clinic left pelican grit bonus
-bip_39_word_space_11: route sentence obey join loop clinic left pelican grit bonus
-  elbow
 bip_39_word_space_12: route sentence obey join loop clinic left pelican grit bonus
   elbow annual
 bip_39_word_space_2: route sentence
 bip_39_word_space_3: route sentence obey
-bip_39_word_space_4: route sentence obey join
-bip_39_word_space_5: route sentence obey join loop
-bip_39_word_space_6: route sentence obey join loop clinic
-bip_39_word_space_7: route sentence obey join loop clinic left
-bip_39_word_space_8: route sentence obey join loop clinic left pelican
-bip_39_word_space_9: route sentence obey join loop clinic left pelican grit
-bip_39_word_underscore_1: route
-bip_39_word_underscore_10: route_sentence_obey_join_loop_clinic_left_pelican_grit_bonus
-bip_39_word_underscore_11: route_sentence_obey_join_loop_clinic_left_pelican_grit_bonus_elbow
 bip_39_word_underscore_12: route_sentence_obey_join_loop_clinic_left_pelican_grit_bonus_elbow_annual
 bip_39_word_underscore_2: route_sentence
 bip_39_word_underscore_3: route_sentence_obey
-bip_39_word_underscore_4: route_sentence_obey_join
-bip_39_word_underscore_5: route_sentence_obey_join_loop
-bip_39_word_underscore_6: route_sentence_obey_join_loop_clinic
-bip_39_word_underscore_7: route_sentence_obey_join_loop_clinic_left
-bip_39_word_underscore_8: route_sentence_obey_join_loop_clinic_left_pelican
-bip_39_word_underscore_9: route_sentence_obey_join_loop_clinic_left_pelican_grit
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

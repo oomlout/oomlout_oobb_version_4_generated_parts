@@ -1,68 +1,9 @@
-bip_39_word_dash_1: tiger
-bip_39_word_dash_10: tiger-feature-cruise-scare-code-argue-wrong-divert-shove-develop
-bip_39_word_dash_11: tiger-feature-cruise-scare-code-argue-wrong-divert-shove-develop-turn
 bip_39_word_dash_12: tiger-feature-cruise-scare-code-argue-wrong-divert-shove-develop-turn-area
 bip_39_word_dash_2: tiger-feature
 bip_39_word_dash_3: tiger-feature-cruise
-bip_39_word_dash_4: tiger-feature-cruise-scare
-bip_39_word_dash_5: tiger-feature-cruise-scare-code
-bip_39_word_dash_6: tiger-feature-cruise-scare-code-argue
-bip_39_word_dash_7: tiger-feature-cruise-scare-code-argue-wrong
-bip_39_word_dash_8: tiger-feature-cruise-scare-code-argue-wrong-divert
-bip_39_word_dash_9: tiger-feature-cruise-scare-code-argue-wrong-divert-shove
-bip_39_word_new_br_1: tiger
-bip_39_word_new_br_10: tiger<br>feature<br>cruise<br>scare<br>code<br>argue<br>wrong<br>divert<br>shove<br>develop
-bip_39_word_new_br_11: tiger<br>feature<br>cruise<br>scare<br>code<br>argue<br>wrong<br>divert<br>shove<br>develop<br>turn
 bip_39_word_new_br_12: tiger<br>feature<br>cruise<br>scare<br>code<br>argue<br>wrong<br>divert<br>shove<br>develop<br>turn<br>area
 bip_39_word_new_br_2: tiger<br>feature
 bip_39_word_new_br_3: tiger<br>feature<br>cruise
-bip_39_word_new_br_4: tiger<br>feature<br>cruise<br>scare
-bip_39_word_new_br_5: tiger<br>feature<br>cruise<br>scare<br>code
-bip_39_word_new_br_6: tiger<br>feature<br>cruise<br>scare<br>code<br>argue
-bip_39_word_new_br_7: tiger<br>feature<br>cruise<br>scare<br>code<br>argue<br>wrong
-bip_39_word_new_br_8: tiger<br>feature<br>cruise<br>scare<br>code<br>argue<br>wrong<br>divert
-bip_39_word_new_br_9: tiger<br>feature<br>cruise<br>scare<br>code<br>argue<br>wrong<br>divert<br>shove
-bip_39_word_new_line_1: tiger
-bip_39_word_new_line_10: 'tiger
-
-  feature
-
-  cruise
-
-  scare
-
-  code
-
-  argue
-
-  wrong
-
-  divert
-
-  shove
-
-  develop'
-bip_39_word_new_line_11: 'tiger
-
-  feature
-
-  cruise
-
-  scare
-
-  code
-
-  argue
-
-  wrong
-
-  divert
-
-  shove
-
-  develop
-
-  turn'
 bip_39_word_new_line_12: 'tiger
 
   feature
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'tiger
   feature
 
   cruise'
-bip_39_word_new_line_4: 'tiger
-
-  feature
-
-  cruise
-
-  scare'
-bip_39_word_new_line_5: 'tiger
-
-  feature
-
-  cruise
-
-  scare
-
-  code'
-bip_39_word_new_line_6: 'tiger
-
-  feature
-
-  cruise
-
-  scare
-
-  code
-
-  argue'
-bip_39_word_new_line_7: 'tiger
-
-  feature
-
-  cruise
-
-  scare
-
-  code
-
-  argue
-
-  wrong'
-bip_39_word_new_line_8: 'tiger
-
-  feature
-
-  cruise
-
-  scare
-
-  code
-
-  argue
-
-  wrong
-
-  divert'
-bip_39_word_new_line_9: 'tiger
-
-  feature
-
-  cruise
-
-  scare
-
-  code
-
-  argue
-
-  wrong
-
-  divert
-
-  shove'
-bip_39_word_no_space_1: tiger
-bip_39_word_no_space_10: tigerfeaturecruisescarecodearguewrongdivertshovedevelop
-bip_39_word_no_space_11: tigerfeaturecruisescarecodearguewrongdivertshovedevelopturn
 bip_39_word_no_space_12: tigerfeaturecruisescarecodearguewrongdivertshovedevelopturnarea
 bip_39_word_no_space_2: tigerfeature
 bip_39_word_no_space_3: tigerfeaturecruise
-bip_39_word_no_space_4: tigerfeaturecruisescare
-bip_39_word_no_space_5: tigerfeaturecruisescarecode
-bip_39_word_no_space_6: tigerfeaturecruisescarecodeargue
-bip_39_word_no_space_7: tigerfeaturecruisescarecodearguewrong
-bip_39_word_no_space_8: tigerfeaturecruisescarecodearguewrongdivert
-bip_39_word_no_space_9: tigerfeaturecruisescarecodearguewrongdivertshove
-bip_39_word_space_0:
-- tiger
-- feature
-- cruise
-- scare
-- code
-- argue
-- wrong
-- divert
-- shove
-- develop
-- turn
-- area
-bip_39_word_space_1: tiger
-bip_39_word_space_10: tiger feature cruise scare code argue wrong divert shove develop
-bip_39_word_space_11: tiger feature cruise scare code argue wrong divert shove develop
-  turn
 bip_39_word_space_12: tiger feature cruise scare code argue wrong divert shove develop
   turn area
 bip_39_word_space_2: tiger feature
 bip_39_word_space_3: tiger feature cruise
-bip_39_word_space_4: tiger feature cruise scare
-bip_39_word_space_5: tiger feature cruise scare code
-bip_39_word_space_6: tiger feature cruise scare code argue
-bip_39_word_space_7: tiger feature cruise scare code argue wrong
-bip_39_word_space_8: tiger feature cruise scare code argue wrong divert
-bip_39_word_space_9: tiger feature cruise scare code argue wrong divert shove
-bip_39_word_underscore_1: tiger
-bip_39_word_underscore_10: tiger_feature_cruise_scare_code_argue_wrong_divert_shove_develop
-bip_39_word_underscore_11: tiger_feature_cruise_scare_code_argue_wrong_divert_shove_develop_turn
 bip_39_word_underscore_12: tiger_feature_cruise_scare_code_argue_wrong_divert_shove_develop_turn_area
 bip_39_word_underscore_2: tiger_feature
 bip_39_word_underscore_3: tiger_feature_cruise
-bip_39_word_underscore_4: tiger_feature_cruise_scare
-bip_39_word_underscore_5: tiger_feature_cruise_scare_code
-bip_39_word_underscore_6: tiger_feature_cruise_scare_code_argue
-bip_39_word_underscore_7: tiger_feature_cruise_scare_code_argue_wrong
-bip_39_word_underscore_8: tiger_feature_cruise_scare_code_argue_wrong_divert
-bip_39_word_underscore_9: tiger_feature_cruise_scare_code_argue_wrong_divert_shove
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

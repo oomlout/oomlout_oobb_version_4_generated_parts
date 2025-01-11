@@ -1,68 +1,9 @@
-bip_39_word_dash_1: follow
-bip_39_word_dash_10: follow-inherit-ridge-purity-cactus-clay-model-pioneer-layer-gravity
-bip_39_word_dash_11: follow-inherit-ridge-purity-cactus-clay-model-pioneer-layer-gravity-twist
 bip_39_word_dash_12: follow-inherit-ridge-purity-cactus-clay-model-pioneer-layer-gravity-twist-advice
 bip_39_word_dash_2: follow-inherit
 bip_39_word_dash_3: follow-inherit-ridge
-bip_39_word_dash_4: follow-inherit-ridge-purity
-bip_39_word_dash_5: follow-inherit-ridge-purity-cactus
-bip_39_word_dash_6: follow-inherit-ridge-purity-cactus-clay
-bip_39_word_dash_7: follow-inherit-ridge-purity-cactus-clay-model
-bip_39_word_dash_8: follow-inherit-ridge-purity-cactus-clay-model-pioneer
-bip_39_word_dash_9: follow-inherit-ridge-purity-cactus-clay-model-pioneer-layer
-bip_39_word_new_br_1: follow
-bip_39_word_new_br_10: follow<br>inherit<br>ridge<br>purity<br>cactus<br>clay<br>model<br>pioneer<br>layer<br>gravity
-bip_39_word_new_br_11: follow<br>inherit<br>ridge<br>purity<br>cactus<br>clay<br>model<br>pioneer<br>layer<br>gravity<br>twist
 bip_39_word_new_br_12: follow<br>inherit<br>ridge<br>purity<br>cactus<br>clay<br>model<br>pioneer<br>layer<br>gravity<br>twist<br>advice
 bip_39_word_new_br_2: follow<br>inherit
 bip_39_word_new_br_3: follow<br>inherit<br>ridge
-bip_39_word_new_br_4: follow<br>inherit<br>ridge<br>purity
-bip_39_word_new_br_5: follow<br>inherit<br>ridge<br>purity<br>cactus
-bip_39_word_new_br_6: follow<br>inherit<br>ridge<br>purity<br>cactus<br>clay
-bip_39_word_new_br_7: follow<br>inherit<br>ridge<br>purity<br>cactus<br>clay<br>model
-bip_39_word_new_br_8: follow<br>inherit<br>ridge<br>purity<br>cactus<br>clay<br>model<br>pioneer
-bip_39_word_new_br_9: follow<br>inherit<br>ridge<br>purity<br>cactus<br>clay<br>model<br>pioneer<br>layer
-bip_39_word_new_line_1: follow
-bip_39_word_new_line_10: 'follow
-
-  inherit
-
-  ridge
-
-  purity
-
-  cactus
-
-  clay
-
-  model
-
-  pioneer
-
-  layer
-
-  gravity'
-bip_39_word_new_line_11: 'follow
-
-  inherit
-
-  ridge
-
-  purity
-
-  cactus
-
-  clay
-
-  model
-
-  pioneer
-
-  layer
-
-  gravity
-
-  twist'
 bip_39_word_new_line_12: 'follow
 
   inherit
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'follow
   inherit
 
   ridge'
-bip_39_word_new_line_4: 'follow
-
-  inherit
-
-  ridge
-
-  purity'
-bip_39_word_new_line_5: 'follow
-
-  inherit
-
-  ridge
-
-  purity
-
-  cactus'
-bip_39_word_new_line_6: 'follow
-
-  inherit
-
-  ridge
-
-  purity
-
-  cactus
-
-  clay'
-bip_39_word_new_line_7: 'follow
-
-  inherit
-
-  ridge
-
-  purity
-
-  cactus
-
-  clay
-
-  model'
-bip_39_word_new_line_8: 'follow
-
-  inherit
-
-  ridge
-
-  purity
-
-  cactus
-
-  clay
-
-  model
-
-  pioneer'
-bip_39_word_new_line_9: 'follow
-
-  inherit
-
-  ridge
-
-  purity
-
-  cactus
-
-  clay
-
-  model
-
-  pioneer
-
-  layer'
-bip_39_word_no_space_1: follow
-bip_39_word_no_space_10: followinheritridgepuritycactusclaymodelpioneerlayergravity
-bip_39_word_no_space_11: followinheritridgepuritycactusclaymodelpioneerlayergravitytwist
 bip_39_word_no_space_12: followinheritridgepuritycactusclaymodelpioneerlayergravitytwistadvice
 bip_39_word_no_space_2: followinherit
 bip_39_word_no_space_3: followinheritridge
-bip_39_word_no_space_4: followinheritridgepurity
-bip_39_word_no_space_5: followinheritridgepuritycactus
-bip_39_word_no_space_6: followinheritridgepuritycactusclay
-bip_39_word_no_space_7: followinheritridgepuritycactusclaymodel
-bip_39_word_no_space_8: followinheritridgepuritycactusclaymodelpioneer
-bip_39_word_no_space_9: followinheritridgepuritycactusclaymodelpioneerlayer
-bip_39_word_space_0:
-- follow
-- inherit
-- ridge
-- purity
-- cactus
-- clay
-- model
-- pioneer
-- layer
-- gravity
-- twist
-- advice
-bip_39_word_space_1: follow
-bip_39_word_space_10: follow inherit ridge purity cactus clay model pioneer layer
-  gravity
-bip_39_word_space_11: follow inherit ridge purity cactus clay model pioneer layer
-  gravity twist
 bip_39_word_space_12: follow inherit ridge purity cactus clay model pioneer layer
   gravity twist advice
 bip_39_word_space_2: follow inherit
 bip_39_word_space_3: follow inherit ridge
-bip_39_word_space_4: follow inherit ridge purity
-bip_39_word_space_5: follow inherit ridge purity cactus
-bip_39_word_space_6: follow inherit ridge purity cactus clay
-bip_39_word_space_7: follow inherit ridge purity cactus clay model
-bip_39_word_space_8: follow inherit ridge purity cactus clay model pioneer
-bip_39_word_space_9: follow inherit ridge purity cactus clay model pioneer layer
-bip_39_word_underscore_1: follow
-bip_39_word_underscore_10: follow_inherit_ridge_purity_cactus_clay_model_pioneer_layer_gravity
-bip_39_word_underscore_11: follow_inherit_ridge_purity_cactus_clay_model_pioneer_layer_gravity_twist
 bip_39_word_underscore_12: follow_inherit_ridge_purity_cactus_clay_model_pioneer_layer_gravity_twist_advice
 bip_39_word_underscore_2: follow_inherit
 bip_39_word_underscore_3: follow_inherit_ridge
-bip_39_word_underscore_4: follow_inherit_ridge_purity
-bip_39_word_underscore_5: follow_inherit_ridge_purity_cactus
-bip_39_word_underscore_6: follow_inherit_ridge_purity_cactus_clay
-bip_39_word_underscore_7: follow_inherit_ridge_purity_cactus_clay_model
-bip_39_word_underscore_8: follow_inherit_ridge_purity_cactus_clay_model_pioneer
-bip_39_word_underscore_9: follow_inherit_ridge_purity_cactus_clay_model_pioneer_layer
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: wheel
-bip_39_word_dash_10: wheel-convince-town-dance-reject-crisp-vanish-load-depart-toast
-bip_39_word_dash_11: wheel-convince-town-dance-reject-crisp-vanish-load-depart-toast-bulk
 bip_39_word_dash_12: wheel-convince-town-dance-reject-crisp-vanish-load-depart-toast-bulk-almost
 bip_39_word_dash_2: wheel-convince
 bip_39_word_dash_3: wheel-convince-town
-bip_39_word_dash_4: wheel-convince-town-dance
-bip_39_word_dash_5: wheel-convince-town-dance-reject
-bip_39_word_dash_6: wheel-convince-town-dance-reject-crisp
-bip_39_word_dash_7: wheel-convince-town-dance-reject-crisp-vanish
-bip_39_word_dash_8: wheel-convince-town-dance-reject-crisp-vanish-load
-bip_39_word_dash_9: wheel-convince-town-dance-reject-crisp-vanish-load-depart
-bip_39_word_new_br_1: wheel
-bip_39_word_new_br_10: wheel<br>convince<br>town<br>dance<br>reject<br>crisp<br>vanish<br>load<br>depart<br>toast
-bip_39_word_new_br_11: wheel<br>convince<br>town<br>dance<br>reject<br>crisp<br>vanish<br>load<br>depart<br>toast<br>bulk
 bip_39_word_new_br_12: wheel<br>convince<br>town<br>dance<br>reject<br>crisp<br>vanish<br>load<br>depart<br>toast<br>bulk<br>almost
 bip_39_word_new_br_2: wheel<br>convince
 bip_39_word_new_br_3: wheel<br>convince<br>town
-bip_39_word_new_br_4: wheel<br>convince<br>town<br>dance
-bip_39_word_new_br_5: wheel<br>convince<br>town<br>dance<br>reject
-bip_39_word_new_br_6: wheel<br>convince<br>town<br>dance<br>reject<br>crisp
-bip_39_word_new_br_7: wheel<br>convince<br>town<br>dance<br>reject<br>crisp<br>vanish
-bip_39_word_new_br_8: wheel<br>convince<br>town<br>dance<br>reject<br>crisp<br>vanish<br>load
-bip_39_word_new_br_9: wheel<br>convince<br>town<br>dance<br>reject<br>crisp<br>vanish<br>load<br>depart
-bip_39_word_new_line_1: wheel
-bip_39_word_new_line_10: 'wheel
-
-  convince
-
-  town
-
-  dance
-
-  reject
-
-  crisp
-
-  vanish
-
-  load
-
-  depart
-
-  toast'
-bip_39_word_new_line_11: 'wheel
-
-  convince
-
-  town
-
-  dance
-
-  reject
-
-  crisp
-
-  vanish
-
-  load
-
-  depart
-
-  toast
-
-  bulk'
 bip_39_word_new_line_12: 'wheel
 
   convince
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'wheel
   convince
 
   town'
-bip_39_word_new_line_4: 'wheel
-
-  convince
-
-  town
-
-  dance'
-bip_39_word_new_line_5: 'wheel
-
-  convince
-
-  town
-
-  dance
-
-  reject'
-bip_39_word_new_line_6: 'wheel
-
-  convince
-
-  town
-
-  dance
-
-  reject
-
-  crisp'
-bip_39_word_new_line_7: 'wheel
-
-  convince
-
-  town
-
-  dance
-
-  reject
-
-  crisp
-
-  vanish'
-bip_39_word_new_line_8: 'wheel
-
-  convince
-
-  town
-
-  dance
-
-  reject
-
-  crisp
-
-  vanish
-
-  load'
-bip_39_word_new_line_9: 'wheel
-
-  convince
-
-  town
-
-  dance
-
-  reject
-
-  crisp
-
-  vanish
-
-  load
-
-  depart'
-bip_39_word_no_space_1: wheel
-bip_39_word_no_space_10: wheelconvincetowndancerejectcrispvanishloaddeparttoast
-bip_39_word_no_space_11: wheelconvincetowndancerejectcrispvanishloaddeparttoastbulk
 bip_39_word_no_space_12: wheelconvincetowndancerejectcrispvanishloaddeparttoastbulkalmost
 bip_39_word_no_space_2: wheelconvince
 bip_39_word_no_space_3: wheelconvincetown
-bip_39_word_no_space_4: wheelconvincetowndance
-bip_39_word_no_space_5: wheelconvincetowndancereject
-bip_39_word_no_space_6: wheelconvincetowndancerejectcrisp
-bip_39_word_no_space_7: wheelconvincetowndancerejectcrispvanish
-bip_39_word_no_space_8: wheelconvincetowndancerejectcrispvanishload
-bip_39_word_no_space_9: wheelconvincetowndancerejectcrispvanishloaddepart
-bip_39_word_space_0:
-- wheel
-- convince
-- town
-- dance
-- reject
-- crisp
-- vanish
-- load
-- depart
-- toast
-- bulk
-- almost
-bip_39_word_space_1: wheel
-bip_39_word_space_10: wheel convince town dance reject crisp vanish load depart toast
-bip_39_word_space_11: wheel convince town dance reject crisp vanish load depart toast
-  bulk
 bip_39_word_space_12: wheel convince town dance reject crisp vanish load depart toast
   bulk almost
 bip_39_word_space_2: wheel convince
 bip_39_word_space_3: wheel convince town
-bip_39_word_space_4: wheel convince town dance
-bip_39_word_space_5: wheel convince town dance reject
-bip_39_word_space_6: wheel convince town dance reject crisp
-bip_39_word_space_7: wheel convince town dance reject crisp vanish
-bip_39_word_space_8: wheel convince town dance reject crisp vanish load
-bip_39_word_space_9: wheel convince town dance reject crisp vanish load depart
-bip_39_word_underscore_1: wheel
-bip_39_word_underscore_10: wheel_convince_town_dance_reject_crisp_vanish_load_depart_toast
-bip_39_word_underscore_11: wheel_convince_town_dance_reject_crisp_vanish_load_depart_toast_bulk
 bip_39_word_underscore_12: wheel_convince_town_dance_reject_crisp_vanish_load_depart_toast_bulk_almost
 bip_39_word_underscore_2: wheel_convince
 bip_39_word_underscore_3: wheel_convince_town
-bip_39_word_underscore_4: wheel_convince_town_dance
-bip_39_word_underscore_5: wheel_convince_town_dance_reject
-bip_39_word_underscore_6: wheel_convince_town_dance_reject_crisp
-bip_39_word_underscore_7: wheel_convince_town_dance_reject_crisp_vanish
-bip_39_word_underscore_8: wheel_convince_town_dance_reject_crisp_vanish_load
-bip_39_word_underscore_9: wheel_convince_town_dance_reject_crisp_vanish_load_depart
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

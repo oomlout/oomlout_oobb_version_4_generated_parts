@@ -1,68 +1,9 @@
-bip_39_word_dash_1: leaf
-bip_39_word_dash_10: leaf-ugly-idea-cave-rack-dove-doctor-candy-play-critic
-bip_39_word_dash_11: leaf-ugly-idea-cave-rack-dove-doctor-candy-play-critic-alcohol
 bip_39_word_dash_12: leaf-ugly-idea-cave-rack-dove-doctor-candy-play-critic-alcohol-assume
 bip_39_word_dash_2: leaf-ugly
 bip_39_word_dash_3: leaf-ugly-idea
-bip_39_word_dash_4: leaf-ugly-idea-cave
-bip_39_word_dash_5: leaf-ugly-idea-cave-rack
-bip_39_word_dash_6: leaf-ugly-idea-cave-rack-dove
-bip_39_word_dash_7: leaf-ugly-idea-cave-rack-dove-doctor
-bip_39_word_dash_8: leaf-ugly-idea-cave-rack-dove-doctor-candy
-bip_39_word_dash_9: leaf-ugly-idea-cave-rack-dove-doctor-candy-play
-bip_39_word_new_br_1: leaf
-bip_39_word_new_br_10: leaf<br>ugly<br>idea<br>cave<br>rack<br>dove<br>doctor<br>candy<br>play<br>critic
-bip_39_word_new_br_11: leaf<br>ugly<br>idea<br>cave<br>rack<br>dove<br>doctor<br>candy<br>play<br>critic<br>alcohol
 bip_39_word_new_br_12: leaf<br>ugly<br>idea<br>cave<br>rack<br>dove<br>doctor<br>candy<br>play<br>critic<br>alcohol<br>assume
 bip_39_word_new_br_2: leaf<br>ugly
 bip_39_word_new_br_3: leaf<br>ugly<br>idea
-bip_39_word_new_br_4: leaf<br>ugly<br>idea<br>cave
-bip_39_word_new_br_5: leaf<br>ugly<br>idea<br>cave<br>rack
-bip_39_word_new_br_6: leaf<br>ugly<br>idea<br>cave<br>rack<br>dove
-bip_39_word_new_br_7: leaf<br>ugly<br>idea<br>cave<br>rack<br>dove<br>doctor
-bip_39_word_new_br_8: leaf<br>ugly<br>idea<br>cave<br>rack<br>dove<br>doctor<br>candy
-bip_39_word_new_br_9: leaf<br>ugly<br>idea<br>cave<br>rack<br>dove<br>doctor<br>candy<br>play
-bip_39_word_new_line_1: leaf
-bip_39_word_new_line_10: 'leaf
-
-  ugly
-
-  idea
-
-  cave
-
-  rack
-
-  dove
-
-  doctor
-
-  candy
-
-  play
-
-  critic'
-bip_39_word_new_line_11: 'leaf
-
-  ugly
-
-  idea
-
-  cave
-
-  rack
-
-  dove
-
-  doctor
-
-  candy
-
-  play
-
-  critic
-
-  alcohol'
 bip_39_word_new_line_12: 'leaf
 
   ugly
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'leaf
   ugly
 
   idea'
-bip_39_word_new_line_4: 'leaf
-
-  ugly
-
-  idea
-
-  cave'
-bip_39_word_new_line_5: 'leaf
-
-  ugly
-
-  idea
-
-  cave
-
-  rack'
-bip_39_word_new_line_6: 'leaf
-
-  ugly
-
-  idea
-
-  cave
-
-  rack
-
-  dove'
-bip_39_word_new_line_7: 'leaf
-
-  ugly
-
-  idea
-
-  cave
-
-  rack
-
-  dove
-
-  doctor'
-bip_39_word_new_line_8: 'leaf
-
-  ugly
-
-  idea
-
-  cave
-
-  rack
-
-  dove
-
-  doctor
-
-  candy'
-bip_39_word_new_line_9: 'leaf
-
-  ugly
-
-  idea
-
-  cave
-
-  rack
-
-  dove
-
-  doctor
-
-  candy
-
-  play'
-bip_39_word_no_space_1: leaf
-bip_39_word_no_space_10: leafuglyideacaverackdovedoctorcandyplaycritic
-bip_39_word_no_space_11: leafuglyideacaverackdovedoctorcandyplaycriticalcohol
 bip_39_word_no_space_12: leafuglyideacaverackdovedoctorcandyplaycriticalcoholassume
 bip_39_word_no_space_2: leafugly
 bip_39_word_no_space_3: leafuglyidea
-bip_39_word_no_space_4: leafuglyideacave
-bip_39_word_no_space_5: leafuglyideacaverack
-bip_39_word_no_space_6: leafuglyideacaverackdove
-bip_39_word_no_space_7: leafuglyideacaverackdovedoctor
-bip_39_word_no_space_8: leafuglyideacaverackdovedoctorcandy
-bip_39_word_no_space_9: leafuglyideacaverackdovedoctorcandyplay
-bip_39_word_space_0:
-- leaf
-- ugly
-- idea
-- cave
-- rack
-- dove
-- doctor
-- candy
-- play
-- critic
-- alcohol
-- assume
-bip_39_word_space_1: leaf
-bip_39_word_space_10: leaf ugly idea cave rack dove doctor candy play critic
-bip_39_word_space_11: leaf ugly idea cave rack dove doctor candy play critic alcohol
 bip_39_word_space_12: leaf ugly idea cave rack dove doctor candy play critic alcohol
   assume
 bip_39_word_space_2: leaf ugly
 bip_39_word_space_3: leaf ugly idea
-bip_39_word_space_4: leaf ugly idea cave
-bip_39_word_space_5: leaf ugly idea cave rack
-bip_39_word_space_6: leaf ugly idea cave rack dove
-bip_39_word_space_7: leaf ugly idea cave rack dove doctor
-bip_39_word_space_8: leaf ugly idea cave rack dove doctor candy
-bip_39_word_space_9: leaf ugly idea cave rack dove doctor candy play
-bip_39_word_underscore_1: leaf
-bip_39_word_underscore_10: leaf_ugly_idea_cave_rack_dove_doctor_candy_play_critic
-bip_39_word_underscore_11: leaf_ugly_idea_cave_rack_dove_doctor_candy_play_critic_alcohol
 bip_39_word_underscore_12: leaf_ugly_idea_cave_rack_dove_doctor_candy_play_critic_alcohol_assume
 bip_39_word_underscore_2: leaf_ugly
 bip_39_word_underscore_3: leaf_ugly_idea
-bip_39_word_underscore_4: leaf_ugly_idea_cave
-bip_39_word_underscore_5: leaf_ugly_idea_cave_rack
-bip_39_word_underscore_6: leaf_ugly_idea_cave_rack_dove
-bip_39_word_underscore_7: leaf_ugly_idea_cave_rack_dove_doctor
-bip_39_word_underscore_8: leaf_ugly_idea_cave_rack_dove_doctor_candy
-bip_39_word_underscore_9: leaf_ugly_idea_cave_rack_dove_doctor_candy_play
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

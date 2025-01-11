@@ -1,68 +1,9 @@
-bip_39_word_dash_1: own
-bip_39_word_dash_10: own-slice-camp-produce-space-pepper-shed-spot-tomato-tip
-bip_39_word_dash_11: own-slice-camp-produce-space-pepper-shed-spot-tomato-tip-dilemma
 bip_39_word_dash_12: own-slice-camp-produce-space-pepper-shed-spot-tomato-tip-dilemma-alien
 bip_39_word_dash_2: own-slice
 bip_39_word_dash_3: own-slice-camp
-bip_39_word_dash_4: own-slice-camp-produce
-bip_39_word_dash_5: own-slice-camp-produce-space
-bip_39_word_dash_6: own-slice-camp-produce-space-pepper
-bip_39_word_dash_7: own-slice-camp-produce-space-pepper-shed
-bip_39_word_dash_8: own-slice-camp-produce-space-pepper-shed-spot
-bip_39_word_dash_9: own-slice-camp-produce-space-pepper-shed-spot-tomato
-bip_39_word_new_br_1: own
-bip_39_word_new_br_10: own<br>slice<br>camp<br>produce<br>space<br>pepper<br>shed<br>spot<br>tomato<br>tip
-bip_39_word_new_br_11: own<br>slice<br>camp<br>produce<br>space<br>pepper<br>shed<br>spot<br>tomato<br>tip<br>dilemma
 bip_39_word_new_br_12: own<br>slice<br>camp<br>produce<br>space<br>pepper<br>shed<br>spot<br>tomato<br>tip<br>dilemma<br>alien
 bip_39_word_new_br_2: own<br>slice
 bip_39_word_new_br_3: own<br>slice<br>camp
-bip_39_word_new_br_4: own<br>slice<br>camp<br>produce
-bip_39_word_new_br_5: own<br>slice<br>camp<br>produce<br>space
-bip_39_word_new_br_6: own<br>slice<br>camp<br>produce<br>space<br>pepper
-bip_39_word_new_br_7: own<br>slice<br>camp<br>produce<br>space<br>pepper<br>shed
-bip_39_word_new_br_8: own<br>slice<br>camp<br>produce<br>space<br>pepper<br>shed<br>spot
-bip_39_word_new_br_9: own<br>slice<br>camp<br>produce<br>space<br>pepper<br>shed<br>spot<br>tomato
-bip_39_word_new_line_1: own
-bip_39_word_new_line_10: 'own
-
-  slice
-
-  camp
-
-  produce
-
-  space
-
-  pepper
-
-  shed
-
-  spot
-
-  tomato
-
-  tip'
-bip_39_word_new_line_11: 'own
-
-  slice
-
-  camp
-
-  produce
-
-  space
-
-  pepper
-
-  shed
-
-  spot
-
-  tomato
-
-  tip
-
-  dilemma'
 bip_39_word_new_line_12: 'own
 
   slice
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'own
   slice
 
   camp'
-bip_39_word_new_line_4: 'own
-
-  slice
-
-  camp
-
-  produce'
-bip_39_word_new_line_5: 'own
-
-  slice
-
-  camp
-
-  produce
-
-  space'
-bip_39_word_new_line_6: 'own
-
-  slice
-
-  camp
-
-  produce
-
-  space
-
-  pepper'
-bip_39_word_new_line_7: 'own
-
-  slice
-
-  camp
-
-  produce
-
-  space
-
-  pepper
-
-  shed'
-bip_39_word_new_line_8: 'own
-
-  slice
-
-  camp
-
-  produce
-
-  space
-
-  pepper
-
-  shed
-
-  spot'
-bip_39_word_new_line_9: 'own
-
-  slice
-
-  camp
-
-  produce
-
-  space
-
-  pepper
-
-  shed
-
-  spot
-
-  tomato'
-bip_39_word_no_space_1: own
-bip_39_word_no_space_10: ownslicecampproducespacepeppershedspottomatotip
-bip_39_word_no_space_11: ownslicecampproducespacepeppershedspottomatotipdilemma
 bip_39_word_no_space_12: ownslicecampproducespacepeppershedspottomatotipdilemmaalien
 bip_39_word_no_space_2: ownslice
 bip_39_word_no_space_3: ownslicecamp
-bip_39_word_no_space_4: ownslicecampproduce
-bip_39_word_no_space_5: ownslicecampproducespace
-bip_39_word_no_space_6: ownslicecampproducespacepepper
-bip_39_word_no_space_7: ownslicecampproducespacepeppershed
-bip_39_word_no_space_8: ownslicecampproducespacepeppershedspot
-bip_39_word_no_space_9: ownslicecampproducespacepeppershedspottomato
-bip_39_word_space_0:
-- own
-- slice
-- camp
-- produce
-- space
-- pepper
-- shed
-- spot
-- tomato
-- tip
-- dilemma
-- alien
-bip_39_word_space_1: own
-bip_39_word_space_10: own slice camp produce space pepper shed spot tomato tip
-bip_39_word_space_11: own slice camp produce space pepper shed spot tomato tip dilemma
 bip_39_word_space_12: own slice camp produce space pepper shed spot tomato tip dilemma
   alien
 bip_39_word_space_2: own slice
 bip_39_word_space_3: own slice camp
-bip_39_word_space_4: own slice camp produce
-bip_39_word_space_5: own slice camp produce space
-bip_39_word_space_6: own slice camp produce space pepper
-bip_39_word_space_7: own slice camp produce space pepper shed
-bip_39_word_space_8: own slice camp produce space pepper shed spot
-bip_39_word_space_9: own slice camp produce space pepper shed spot tomato
-bip_39_word_underscore_1: own
-bip_39_word_underscore_10: own_slice_camp_produce_space_pepper_shed_spot_tomato_tip
-bip_39_word_underscore_11: own_slice_camp_produce_space_pepper_shed_spot_tomato_tip_dilemma
 bip_39_word_underscore_12: own_slice_camp_produce_space_pepper_shed_spot_tomato_tip_dilemma_alien
 bip_39_word_underscore_2: own_slice
 bip_39_word_underscore_3: own_slice_camp
-bip_39_word_underscore_4: own_slice_camp_produce
-bip_39_word_underscore_5: own_slice_camp_produce_space
-bip_39_word_underscore_6: own_slice_camp_produce_space_pepper
-bip_39_word_underscore_7: own_slice_camp_produce_space_pepper_shed
-bip_39_word_underscore_8: own_slice_camp_produce_space_pepper_shed_spot
-bip_39_word_underscore_9: own_slice_camp_produce_space_pepper_shed_spot_tomato
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

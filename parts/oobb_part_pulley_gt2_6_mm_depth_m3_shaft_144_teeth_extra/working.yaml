@@ -1,68 +1,9 @@
-bip_39_word_dash_1: neglect
-bip_39_word_dash_10: neglect-merge-outside-orphan-audit-agent-merit-buzz-enforce-tuna
-bip_39_word_dash_11: neglect-merge-outside-orphan-audit-agent-merit-buzz-enforce-tuna-then
 bip_39_word_dash_12: neglect-merge-outside-orphan-audit-agent-merit-buzz-enforce-tuna-then-advance
 bip_39_word_dash_2: neglect-merge
 bip_39_word_dash_3: neglect-merge-outside
-bip_39_word_dash_4: neglect-merge-outside-orphan
-bip_39_word_dash_5: neglect-merge-outside-orphan-audit
-bip_39_word_dash_6: neglect-merge-outside-orphan-audit-agent
-bip_39_word_dash_7: neglect-merge-outside-orphan-audit-agent-merit
-bip_39_word_dash_8: neglect-merge-outside-orphan-audit-agent-merit-buzz
-bip_39_word_dash_9: neglect-merge-outside-orphan-audit-agent-merit-buzz-enforce
-bip_39_word_new_br_1: neglect
-bip_39_word_new_br_10: neglect<br>merge<br>outside<br>orphan<br>audit<br>agent<br>merit<br>buzz<br>enforce<br>tuna
-bip_39_word_new_br_11: neglect<br>merge<br>outside<br>orphan<br>audit<br>agent<br>merit<br>buzz<br>enforce<br>tuna<br>then
 bip_39_word_new_br_12: neglect<br>merge<br>outside<br>orphan<br>audit<br>agent<br>merit<br>buzz<br>enforce<br>tuna<br>then<br>advance
 bip_39_word_new_br_2: neglect<br>merge
 bip_39_word_new_br_3: neglect<br>merge<br>outside
-bip_39_word_new_br_4: neglect<br>merge<br>outside<br>orphan
-bip_39_word_new_br_5: neglect<br>merge<br>outside<br>orphan<br>audit
-bip_39_word_new_br_6: neglect<br>merge<br>outside<br>orphan<br>audit<br>agent
-bip_39_word_new_br_7: neglect<br>merge<br>outside<br>orphan<br>audit<br>agent<br>merit
-bip_39_word_new_br_8: neglect<br>merge<br>outside<br>orphan<br>audit<br>agent<br>merit<br>buzz
-bip_39_word_new_br_9: neglect<br>merge<br>outside<br>orphan<br>audit<br>agent<br>merit<br>buzz<br>enforce
-bip_39_word_new_line_1: neglect
-bip_39_word_new_line_10: 'neglect
-
-  merge
-
-  outside
-
-  orphan
-
-  audit
-
-  agent
-
-  merit
-
-  buzz
-
-  enforce
-
-  tuna'
-bip_39_word_new_line_11: 'neglect
-
-  merge
-
-  outside
-
-  orphan
-
-  audit
-
-  agent
-
-  merit
-
-  buzz
-
-  enforce
-
-  tuna
-
-  then'
 bip_39_word_new_line_12: 'neglect
 
   merge
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'neglect
   merge
 
   outside'
-bip_39_word_new_line_4: 'neglect
-
-  merge
-
-  outside
-
-  orphan'
-bip_39_word_new_line_5: 'neglect
-
-  merge
-
-  outside
-
-  orphan
-
-  audit'
-bip_39_word_new_line_6: 'neglect
-
-  merge
-
-  outside
-
-  orphan
-
-  audit
-
-  agent'
-bip_39_word_new_line_7: 'neglect
-
-  merge
-
-  outside
-
-  orphan
-
-  audit
-
-  agent
-
-  merit'
-bip_39_word_new_line_8: 'neglect
-
-  merge
-
-  outside
-
-  orphan
-
-  audit
-
-  agent
-
-  merit
-
-  buzz'
-bip_39_word_new_line_9: 'neglect
-
-  merge
-
-  outside
-
-  orphan
-
-  audit
-
-  agent
-
-  merit
-
-  buzz
-
-  enforce'
-bip_39_word_no_space_1: neglect
-bip_39_word_no_space_10: neglectmergeoutsideorphanauditagentmeritbuzzenforcetuna
-bip_39_word_no_space_11: neglectmergeoutsideorphanauditagentmeritbuzzenforcetunathen
 bip_39_word_no_space_12: neglectmergeoutsideorphanauditagentmeritbuzzenforcetunathenadvance
 bip_39_word_no_space_2: neglectmerge
 bip_39_word_no_space_3: neglectmergeoutside
-bip_39_word_no_space_4: neglectmergeoutsideorphan
-bip_39_word_no_space_5: neglectmergeoutsideorphanaudit
-bip_39_word_no_space_6: neglectmergeoutsideorphanauditagent
-bip_39_word_no_space_7: neglectmergeoutsideorphanauditagentmerit
-bip_39_word_no_space_8: neglectmergeoutsideorphanauditagentmeritbuzz
-bip_39_word_no_space_9: neglectmergeoutsideorphanauditagentmeritbuzzenforce
-bip_39_word_space_0:
-- neglect
-- merge
-- outside
-- orphan
-- audit
-- agent
-- merit
-- buzz
-- enforce
-- tuna
-- then
-- advance
-bip_39_word_space_1: neglect
-bip_39_word_space_10: neglect merge outside orphan audit agent merit buzz enforce
-  tuna
-bip_39_word_space_11: neglect merge outside orphan audit agent merit buzz enforce
-  tuna then
 bip_39_word_space_12: neglect merge outside orphan audit agent merit buzz enforce
   tuna then advance
 bip_39_word_space_2: neglect merge
 bip_39_word_space_3: neglect merge outside
-bip_39_word_space_4: neglect merge outside orphan
-bip_39_word_space_5: neglect merge outside orphan audit
-bip_39_word_space_6: neglect merge outside orphan audit agent
-bip_39_word_space_7: neglect merge outside orphan audit agent merit
-bip_39_word_space_8: neglect merge outside orphan audit agent merit buzz
-bip_39_word_space_9: neglect merge outside orphan audit agent merit buzz enforce
-bip_39_word_underscore_1: neglect
-bip_39_word_underscore_10: neglect_merge_outside_orphan_audit_agent_merit_buzz_enforce_tuna
-bip_39_word_underscore_11: neglect_merge_outside_orphan_audit_agent_merit_buzz_enforce_tuna_then
 bip_39_word_underscore_12: neglect_merge_outside_orphan_audit_agent_merit_buzz_enforce_tuna_then_advance
 bip_39_word_underscore_2: neglect_merge
 bip_39_word_underscore_3: neglect_merge_outside
-bip_39_word_underscore_4: neglect_merge_outside_orphan
-bip_39_word_underscore_5: neglect_merge_outside_orphan_audit
-bip_39_word_underscore_6: neglect_merge_outside_orphan_audit_agent
-bip_39_word_underscore_7: neglect_merge_outside_orphan_audit_agent_merit
-bip_39_word_underscore_8: neglect_merge_outside_orphan_audit_agent_merit_buzz
-bip_39_word_underscore_9: neglect_merge_outside_orphan_audit_agent_merit_buzz_enforce
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

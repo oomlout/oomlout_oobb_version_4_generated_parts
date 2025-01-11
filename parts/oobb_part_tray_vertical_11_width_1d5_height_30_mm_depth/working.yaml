@@ -1,68 +1,9 @@
-bip_39_word_dash_1: shoot
-bip_39_word_dash_10: shoot-planet-retreat-run-busy-song-smart-armed-solar-donkey
-bip_39_word_dash_11: shoot-planet-retreat-run-busy-song-smart-armed-solar-donkey-bomb
 bip_39_word_dash_12: shoot-planet-retreat-run-busy-song-smart-armed-solar-donkey-bomb-area
 bip_39_word_dash_2: shoot-planet
 bip_39_word_dash_3: shoot-planet-retreat
-bip_39_word_dash_4: shoot-planet-retreat-run
-bip_39_word_dash_5: shoot-planet-retreat-run-busy
-bip_39_word_dash_6: shoot-planet-retreat-run-busy-song
-bip_39_word_dash_7: shoot-planet-retreat-run-busy-song-smart
-bip_39_word_dash_8: shoot-planet-retreat-run-busy-song-smart-armed
-bip_39_word_dash_9: shoot-planet-retreat-run-busy-song-smart-armed-solar
-bip_39_word_new_br_1: shoot
-bip_39_word_new_br_10: shoot<br>planet<br>retreat<br>run<br>busy<br>song<br>smart<br>armed<br>solar<br>donkey
-bip_39_word_new_br_11: shoot<br>planet<br>retreat<br>run<br>busy<br>song<br>smart<br>armed<br>solar<br>donkey<br>bomb
 bip_39_word_new_br_12: shoot<br>planet<br>retreat<br>run<br>busy<br>song<br>smart<br>armed<br>solar<br>donkey<br>bomb<br>area
 bip_39_word_new_br_2: shoot<br>planet
 bip_39_word_new_br_3: shoot<br>planet<br>retreat
-bip_39_word_new_br_4: shoot<br>planet<br>retreat<br>run
-bip_39_word_new_br_5: shoot<br>planet<br>retreat<br>run<br>busy
-bip_39_word_new_br_6: shoot<br>planet<br>retreat<br>run<br>busy<br>song
-bip_39_word_new_br_7: shoot<br>planet<br>retreat<br>run<br>busy<br>song<br>smart
-bip_39_word_new_br_8: shoot<br>planet<br>retreat<br>run<br>busy<br>song<br>smart<br>armed
-bip_39_word_new_br_9: shoot<br>planet<br>retreat<br>run<br>busy<br>song<br>smart<br>armed<br>solar
-bip_39_word_new_line_1: shoot
-bip_39_word_new_line_10: 'shoot
-
-  planet
-
-  retreat
-
-  run
-
-  busy
-
-  song
-
-  smart
-
-  armed
-
-  solar
-
-  donkey'
-bip_39_word_new_line_11: 'shoot
-
-  planet
-
-  retreat
-
-  run
-
-  busy
-
-  song
-
-  smart
-
-  armed
-
-  solar
-
-  donkey
-
-  bomb'
 bip_39_word_new_line_12: 'shoot
 
   planet
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'shoot
   planet
 
   retreat'
-bip_39_word_new_line_4: 'shoot
-
-  planet
-
-  retreat
-
-  run'
-bip_39_word_new_line_5: 'shoot
-
-  planet
-
-  retreat
-
-  run
-
-  busy'
-bip_39_word_new_line_6: 'shoot
-
-  planet
-
-  retreat
-
-  run
-
-  busy
-
-  song'
-bip_39_word_new_line_7: 'shoot
-
-  planet
-
-  retreat
-
-  run
-
-  busy
-
-  song
-
-  smart'
-bip_39_word_new_line_8: 'shoot
-
-  planet
-
-  retreat
-
-  run
-
-  busy
-
-  song
-
-  smart
-
-  armed'
-bip_39_word_new_line_9: 'shoot
-
-  planet
-
-  retreat
-
-  run
-
-  busy
-
-  song
-
-  smart
-
-  armed
-
-  solar'
-bip_39_word_no_space_1: shoot
-bip_39_word_no_space_10: shootplanetretreatrunbusysongsmartarmedsolardonkey
-bip_39_word_no_space_11: shootplanetretreatrunbusysongsmartarmedsolardonkeybomb
 bip_39_word_no_space_12: shootplanetretreatrunbusysongsmartarmedsolardonkeybombarea
 bip_39_word_no_space_2: shootplanet
 bip_39_word_no_space_3: shootplanetretreat
-bip_39_word_no_space_4: shootplanetretreatrun
-bip_39_word_no_space_5: shootplanetretreatrunbusy
-bip_39_word_no_space_6: shootplanetretreatrunbusysong
-bip_39_word_no_space_7: shootplanetretreatrunbusysongsmart
-bip_39_word_no_space_8: shootplanetretreatrunbusysongsmartarmed
-bip_39_word_no_space_9: shootplanetretreatrunbusysongsmartarmedsolar
-bip_39_word_space_0:
-- shoot
-- planet
-- retreat
-- run
-- busy
-- song
-- smart
-- armed
-- solar
-- donkey
-- bomb
-- area
-bip_39_word_space_1: shoot
-bip_39_word_space_10: shoot planet retreat run busy song smart armed solar donkey
-bip_39_word_space_11: shoot planet retreat run busy song smart armed solar donkey
-  bomb
 bip_39_word_space_12: shoot planet retreat run busy song smart armed solar donkey
   bomb area
 bip_39_word_space_2: shoot planet
 bip_39_word_space_3: shoot planet retreat
-bip_39_word_space_4: shoot planet retreat run
-bip_39_word_space_5: shoot planet retreat run busy
-bip_39_word_space_6: shoot planet retreat run busy song
-bip_39_word_space_7: shoot planet retreat run busy song smart
-bip_39_word_space_8: shoot planet retreat run busy song smart armed
-bip_39_word_space_9: shoot planet retreat run busy song smart armed solar
-bip_39_word_underscore_1: shoot
-bip_39_word_underscore_10: shoot_planet_retreat_run_busy_song_smart_armed_solar_donkey
-bip_39_word_underscore_11: shoot_planet_retreat_run_busy_song_smart_armed_solar_donkey_bomb
 bip_39_word_underscore_12: shoot_planet_retreat_run_busy_song_smart_armed_solar_donkey_bomb_area
 bip_39_word_underscore_2: shoot_planet
 bip_39_word_underscore_3: shoot_planet_retreat
-bip_39_word_underscore_4: shoot_planet_retreat_run
-bip_39_word_underscore_5: shoot_planet_retreat_run_busy
-bip_39_word_underscore_6: shoot_planet_retreat_run_busy_song
-bip_39_word_underscore_7: shoot_planet_retreat_run_busy_song_smart
-bip_39_word_underscore_8: shoot_planet_retreat_run_busy_song_smart_armed
-bip_39_word_underscore_9: shoot_planet_retreat_run_busy_song_smart_armed_solar
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

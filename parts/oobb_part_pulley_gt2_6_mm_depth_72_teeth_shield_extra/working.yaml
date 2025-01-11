@@ -1,68 +1,9 @@
-bip_39_word_dash_1: crime
-bip_39_word_dash_10: crime-annual-dog-eager-cherry-jar-defy-clutch-wrong-liberty
-bip_39_word_dash_11: crime-annual-dog-eager-cherry-jar-defy-clutch-wrong-liberty-detail
 bip_39_word_dash_12: crime-annual-dog-eager-cherry-jar-defy-clutch-wrong-liberty-detail-ask
 bip_39_word_dash_2: crime-annual
 bip_39_word_dash_3: crime-annual-dog
-bip_39_word_dash_4: crime-annual-dog-eager
-bip_39_word_dash_5: crime-annual-dog-eager-cherry
-bip_39_word_dash_6: crime-annual-dog-eager-cherry-jar
-bip_39_word_dash_7: crime-annual-dog-eager-cherry-jar-defy
-bip_39_word_dash_8: crime-annual-dog-eager-cherry-jar-defy-clutch
-bip_39_word_dash_9: crime-annual-dog-eager-cherry-jar-defy-clutch-wrong
-bip_39_word_new_br_1: crime
-bip_39_word_new_br_10: crime<br>annual<br>dog<br>eager<br>cherry<br>jar<br>defy<br>clutch<br>wrong<br>liberty
-bip_39_word_new_br_11: crime<br>annual<br>dog<br>eager<br>cherry<br>jar<br>defy<br>clutch<br>wrong<br>liberty<br>detail
 bip_39_word_new_br_12: crime<br>annual<br>dog<br>eager<br>cherry<br>jar<br>defy<br>clutch<br>wrong<br>liberty<br>detail<br>ask
 bip_39_word_new_br_2: crime<br>annual
 bip_39_word_new_br_3: crime<br>annual<br>dog
-bip_39_word_new_br_4: crime<br>annual<br>dog<br>eager
-bip_39_word_new_br_5: crime<br>annual<br>dog<br>eager<br>cherry
-bip_39_word_new_br_6: crime<br>annual<br>dog<br>eager<br>cherry<br>jar
-bip_39_word_new_br_7: crime<br>annual<br>dog<br>eager<br>cherry<br>jar<br>defy
-bip_39_word_new_br_8: crime<br>annual<br>dog<br>eager<br>cherry<br>jar<br>defy<br>clutch
-bip_39_word_new_br_9: crime<br>annual<br>dog<br>eager<br>cherry<br>jar<br>defy<br>clutch<br>wrong
-bip_39_word_new_line_1: crime
-bip_39_word_new_line_10: 'crime
-
-  annual
-
-  dog
-
-  eager
-
-  cherry
-
-  jar
-
-  defy
-
-  clutch
-
-  wrong
-
-  liberty'
-bip_39_word_new_line_11: 'crime
-
-  annual
-
-  dog
-
-  eager
-
-  cherry
-
-  jar
-
-  defy
-
-  clutch
-
-  wrong
-
-  liberty
-
-  detail'
 bip_39_word_new_line_12: 'crime
 
   annual
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'crime
   annual
 
   dog'
-bip_39_word_new_line_4: 'crime
-
-  annual
-
-  dog
-
-  eager'
-bip_39_word_new_line_5: 'crime
-
-  annual
-
-  dog
-
-  eager
-
-  cherry'
-bip_39_word_new_line_6: 'crime
-
-  annual
-
-  dog
-
-  eager
-
-  cherry
-
-  jar'
-bip_39_word_new_line_7: 'crime
-
-  annual
-
-  dog
-
-  eager
-
-  cherry
-
-  jar
-
-  defy'
-bip_39_word_new_line_8: 'crime
-
-  annual
-
-  dog
-
-  eager
-
-  cherry
-
-  jar
-
-  defy
-
-  clutch'
-bip_39_word_new_line_9: 'crime
-
-  annual
-
-  dog
-
-  eager
-
-  cherry
-
-  jar
-
-  defy
-
-  clutch
-
-  wrong'
-bip_39_word_no_space_1: crime
-bip_39_word_no_space_10: crimeannualdogeagercherryjardefyclutchwrongliberty
-bip_39_word_no_space_11: crimeannualdogeagercherryjardefyclutchwronglibertydetail
 bip_39_word_no_space_12: crimeannualdogeagercherryjardefyclutchwronglibertydetailask
 bip_39_word_no_space_2: crimeannual
 bip_39_word_no_space_3: crimeannualdog
-bip_39_word_no_space_4: crimeannualdogeager
-bip_39_word_no_space_5: crimeannualdogeagercherry
-bip_39_word_no_space_6: crimeannualdogeagercherryjar
-bip_39_word_no_space_7: crimeannualdogeagercherryjardefy
-bip_39_word_no_space_8: crimeannualdogeagercherryjardefyclutch
-bip_39_word_no_space_9: crimeannualdogeagercherryjardefyclutchwrong
-bip_39_word_space_0:
-- crime
-- annual
-- dog
-- eager
-- cherry
-- jar
-- defy
-- clutch
-- wrong
-- liberty
-- detail
-- ask
-bip_39_word_space_1: crime
-bip_39_word_space_10: crime annual dog eager cherry jar defy clutch wrong liberty
-bip_39_word_space_11: crime annual dog eager cherry jar defy clutch wrong liberty
-  detail
 bip_39_word_space_12: crime annual dog eager cherry jar defy clutch wrong liberty
   detail ask
 bip_39_word_space_2: crime annual
 bip_39_word_space_3: crime annual dog
-bip_39_word_space_4: crime annual dog eager
-bip_39_word_space_5: crime annual dog eager cherry
-bip_39_word_space_6: crime annual dog eager cherry jar
-bip_39_word_space_7: crime annual dog eager cherry jar defy
-bip_39_word_space_8: crime annual dog eager cherry jar defy clutch
-bip_39_word_space_9: crime annual dog eager cherry jar defy clutch wrong
-bip_39_word_underscore_1: crime
-bip_39_word_underscore_10: crime_annual_dog_eager_cherry_jar_defy_clutch_wrong_liberty
-bip_39_word_underscore_11: crime_annual_dog_eager_cherry_jar_defy_clutch_wrong_liberty_detail
 bip_39_word_underscore_12: crime_annual_dog_eager_cherry_jar_defy_clutch_wrong_liberty_detail_ask
 bip_39_word_underscore_2: crime_annual
 bip_39_word_underscore_3: crime_annual_dog
-bip_39_word_underscore_4: crime_annual_dog_eager
-bip_39_word_underscore_5: crime_annual_dog_eager_cherry
-bip_39_word_underscore_6: crime_annual_dog_eager_cherry_jar
-bip_39_word_underscore_7: crime_annual_dog_eager_cherry_jar_defy
-bip_39_word_underscore_8: crime_annual_dog_eager_cherry_jar_defy_clutch
-bip_39_word_underscore_9: crime_annual_dog_eager_cherry_jar_defy_clutch_wrong
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

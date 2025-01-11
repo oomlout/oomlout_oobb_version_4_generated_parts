@@ -1,68 +1,9 @@
-bip_39_word_dash_1: spend
-bip_39_word_dash_10: spend-thing-broom-stereo-throw-cricket-minimum-rib-mixed-neither
-bip_39_word_dash_11: spend-thing-broom-stereo-throw-cricket-minimum-rib-mixed-neither-struggle
 bip_39_word_dash_12: spend-thing-broom-stereo-throw-cricket-minimum-rib-mixed-neither-struggle-act
 bip_39_word_dash_2: spend-thing
 bip_39_word_dash_3: spend-thing-broom
-bip_39_word_dash_4: spend-thing-broom-stereo
-bip_39_word_dash_5: spend-thing-broom-stereo-throw
-bip_39_word_dash_6: spend-thing-broom-stereo-throw-cricket
-bip_39_word_dash_7: spend-thing-broom-stereo-throw-cricket-minimum
-bip_39_word_dash_8: spend-thing-broom-stereo-throw-cricket-minimum-rib
-bip_39_word_dash_9: spend-thing-broom-stereo-throw-cricket-minimum-rib-mixed
-bip_39_word_new_br_1: spend
-bip_39_word_new_br_10: spend<br>thing<br>broom<br>stereo<br>throw<br>cricket<br>minimum<br>rib<br>mixed<br>neither
-bip_39_word_new_br_11: spend<br>thing<br>broom<br>stereo<br>throw<br>cricket<br>minimum<br>rib<br>mixed<br>neither<br>struggle
 bip_39_word_new_br_12: spend<br>thing<br>broom<br>stereo<br>throw<br>cricket<br>minimum<br>rib<br>mixed<br>neither<br>struggle<br>act
 bip_39_word_new_br_2: spend<br>thing
 bip_39_word_new_br_3: spend<br>thing<br>broom
-bip_39_word_new_br_4: spend<br>thing<br>broom<br>stereo
-bip_39_word_new_br_5: spend<br>thing<br>broom<br>stereo<br>throw
-bip_39_word_new_br_6: spend<br>thing<br>broom<br>stereo<br>throw<br>cricket
-bip_39_word_new_br_7: spend<br>thing<br>broom<br>stereo<br>throw<br>cricket<br>minimum
-bip_39_word_new_br_8: spend<br>thing<br>broom<br>stereo<br>throw<br>cricket<br>minimum<br>rib
-bip_39_word_new_br_9: spend<br>thing<br>broom<br>stereo<br>throw<br>cricket<br>minimum<br>rib<br>mixed
-bip_39_word_new_line_1: spend
-bip_39_word_new_line_10: 'spend
-
-  thing
-
-  broom
-
-  stereo
-
-  throw
-
-  cricket
-
-  minimum
-
-  rib
-
-  mixed
-
-  neither'
-bip_39_word_new_line_11: 'spend
-
-  thing
-
-  broom
-
-  stereo
-
-  throw
-
-  cricket
-
-  minimum
-
-  rib
-
-  mixed
-
-  neither
-
-  struggle'
 bip_39_word_new_line_12: 'spend
 
   thing
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'spend
   thing
 
   broom'
-bip_39_word_new_line_4: 'spend
-
-  thing
-
-  broom
-
-  stereo'
-bip_39_word_new_line_5: 'spend
-
-  thing
-
-  broom
-
-  stereo
-
-  throw'
-bip_39_word_new_line_6: 'spend
-
-  thing
-
-  broom
-
-  stereo
-
-  throw
-
-  cricket'
-bip_39_word_new_line_7: 'spend
-
-  thing
-
-  broom
-
-  stereo
-
-  throw
-
-  cricket
-
-  minimum'
-bip_39_word_new_line_8: 'spend
-
-  thing
-
-  broom
-
-  stereo
-
-  throw
-
-  cricket
-
-  minimum
-
-  rib'
-bip_39_word_new_line_9: 'spend
-
-  thing
-
-  broom
-
-  stereo
-
-  throw
-
-  cricket
-
-  minimum
-
-  rib
-
-  mixed'
-bip_39_word_no_space_1: spend
-bip_39_word_no_space_10: spendthingbroomstereothrowcricketminimumribmixedneither
-bip_39_word_no_space_11: spendthingbroomstereothrowcricketminimumribmixedneitherstruggle
 bip_39_word_no_space_12: spendthingbroomstereothrowcricketminimumribmixedneitherstruggleact
 bip_39_word_no_space_2: spendthing
 bip_39_word_no_space_3: spendthingbroom
-bip_39_word_no_space_4: spendthingbroomstereo
-bip_39_word_no_space_5: spendthingbroomstereothrow
-bip_39_word_no_space_6: spendthingbroomstereothrowcricket
-bip_39_word_no_space_7: spendthingbroomstereothrowcricketminimum
-bip_39_word_no_space_8: spendthingbroomstereothrowcricketminimumrib
-bip_39_word_no_space_9: spendthingbroomstereothrowcricketminimumribmixed
-bip_39_word_space_0:
-- spend
-- thing
-- broom
-- stereo
-- throw
-- cricket
-- minimum
-- rib
-- mixed
-- neither
-- struggle
-- act
-bip_39_word_space_1: spend
-bip_39_word_space_10: spend thing broom stereo throw cricket minimum rib mixed neither
-bip_39_word_space_11: spend thing broom stereo throw cricket minimum rib mixed neither
-  struggle
 bip_39_word_space_12: spend thing broom stereo throw cricket minimum rib mixed neither
   struggle act
 bip_39_word_space_2: spend thing
 bip_39_word_space_3: spend thing broom
-bip_39_word_space_4: spend thing broom stereo
-bip_39_word_space_5: spend thing broom stereo throw
-bip_39_word_space_6: spend thing broom stereo throw cricket
-bip_39_word_space_7: spend thing broom stereo throw cricket minimum
-bip_39_word_space_8: spend thing broom stereo throw cricket minimum rib
-bip_39_word_space_9: spend thing broom stereo throw cricket minimum rib mixed
-bip_39_word_underscore_1: spend
-bip_39_word_underscore_10: spend_thing_broom_stereo_throw_cricket_minimum_rib_mixed_neither
-bip_39_word_underscore_11: spend_thing_broom_stereo_throw_cricket_minimum_rib_mixed_neither_struggle
 bip_39_word_underscore_12: spend_thing_broom_stereo_throw_cricket_minimum_rib_mixed_neither_struggle_act
 bip_39_word_underscore_2: spend_thing
 bip_39_word_underscore_3: spend_thing_broom
-bip_39_word_underscore_4: spend_thing_broom_stereo
-bip_39_word_underscore_5: spend_thing_broom_stereo_throw
-bip_39_word_underscore_6: spend_thing_broom_stereo_throw_cricket
-bip_39_word_underscore_7: spend_thing_broom_stereo_throw_cricket_minimum
-bip_39_word_underscore_8: spend_thing_broom_stereo_throw_cricket_minimum_rib
-bip_39_word_underscore_9: spend_thing_broom_stereo_throw_cricket_minimum_rib_mixed
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

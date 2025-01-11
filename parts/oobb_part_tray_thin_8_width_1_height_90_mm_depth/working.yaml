@@ -1,68 +1,9 @@
-bip_39_word_dash_1: develop
-bip_39_word_dash_10: develop-cactus-assume-tattoo-leaf-bread-place-civil-private-hockey
-bip_39_word_dash_11: develop-cactus-assume-tattoo-leaf-bread-place-civil-private-hockey-riot
 bip_39_word_dash_12: develop-cactus-assume-tattoo-leaf-bread-place-civil-private-hockey-riot-assume
 bip_39_word_dash_2: develop-cactus
 bip_39_word_dash_3: develop-cactus-assume
-bip_39_word_dash_4: develop-cactus-assume-tattoo
-bip_39_word_dash_5: develop-cactus-assume-tattoo-leaf
-bip_39_word_dash_6: develop-cactus-assume-tattoo-leaf-bread
-bip_39_word_dash_7: develop-cactus-assume-tattoo-leaf-bread-place
-bip_39_word_dash_8: develop-cactus-assume-tattoo-leaf-bread-place-civil
-bip_39_word_dash_9: develop-cactus-assume-tattoo-leaf-bread-place-civil-private
-bip_39_word_new_br_1: develop
-bip_39_word_new_br_10: develop<br>cactus<br>assume<br>tattoo<br>leaf<br>bread<br>place<br>civil<br>private<br>hockey
-bip_39_word_new_br_11: develop<br>cactus<br>assume<br>tattoo<br>leaf<br>bread<br>place<br>civil<br>private<br>hockey<br>riot
 bip_39_word_new_br_12: develop<br>cactus<br>assume<br>tattoo<br>leaf<br>bread<br>place<br>civil<br>private<br>hockey<br>riot<br>assume
 bip_39_word_new_br_2: develop<br>cactus
 bip_39_word_new_br_3: develop<br>cactus<br>assume
-bip_39_word_new_br_4: develop<br>cactus<br>assume<br>tattoo
-bip_39_word_new_br_5: develop<br>cactus<br>assume<br>tattoo<br>leaf
-bip_39_word_new_br_6: develop<br>cactus<br>assume<br>tattoo<br>leaf<br>bread
-bip_39_word_new_br_7: develop<br>cactus<br>assume<br>tattoo<br>leaf<br>bread<br>place
-bip_39_word_new_br_8: develop<br>cactus<br>assume<br>tattoo<br>leaf<br>bread<br>place<br>civil
-bip_39_word_new_br_9: develop<br>cactus<br>assume<br>tattoo<br>leaf<br>bread<br>place<br>civil<br>private
-bip_39_word_new_line_1: develop
-bip_39_word_new_line_10: 'develop
-
-  cactus
-
-  assume
-
-  tattoo
-
-  leaf
-
-  bread
-
-  place
-
-  civil
-
-  private
-
-  hockey'
-bip_39_word_new_line_11: 'develop
-
-  cactus
-
-  assume
-
-  tattoo
-
-  leaf
-
-  bread
-
-  place
-
-  civil
-
-  private
-
-  hockey
-
-  riot'
 bip_39_word_new_line_12: 'develop
 
   cactus
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'develop
   cactus
 
   assume'
-bip_39_word_new_line_4: 'develop
-
-  cactus
-
-  assume
-
-  tattoo'
-bip_39_word_new_line_5: 'develop
-
-  cactus
-
-  assume
-
-  tattoo
-
-  leaf'
-bip_39_word_new_line_6: 'develop
-
-  cactus
-
-  assume
-
-  tattoo
-
-  leaf
-
-  bread'
-bip_39_word_new_line_7: 'develop
-
-  cactus
-
-  assume
-
-  tattoo
-
-  leaf
-
-  bread
-
-  place'
-bip_39_word_new_line_8: 'develop
-
-  cactus
-
-  assume
-
-  tattoo
-
-  leaf
-
-  bread
-
-  place
-
-  civil'
-bip_39_word_new_line_9: 'develop
-
-  cactus
-
-  assume
-
-  tattoo
-
-  leaf
-
-  bread
-
-  place
-
-  civil
-
-  private'
-bip_39_word_no_space_1: develop
-bip_39_word_no_space_10: developcactusassumetattooleafbreadplacecivilprivatehockey
-bip_39_word_no_space_11: developcactusassumetattooleafbreadplacecivilprivatehockeyriot
 bip_39_word_no_space_12: developcactusassumetattooleafbreadplacecivilprivatehockeyriotassume
 bip_39_word_no_space_2: developcactus
 bip_39_word_no_space_3: developcactusassume
-bip_39_word_no_space_4: developcactusassumetattoo
-bip_39_word_no_space_5: developcactusassumetattooleaf
-bip_39_word_no_space_6: developcactusassumetattooleafbread
-bip_39_word_no_space_7: developcactusassumetattooleafbreadplace
-bip_39_word_no_space_8: developcactusassumetattooleafbreadplacecivil
-bip_39_word_no_space_9: developcactusassumetattooleafbreadplacecivilprivate
-bip_39_word_space_0:
-- develop
-- cactus
-- assume
-- tattoo
-- leaf
-- bread
-- place
-- civil
-- private
-- hockey
-- riot
-- assume
-bip_39_word_space_1: develop
-bip_39_word_space_10: develop cactus assume tattoo leaf bread place civil private
-  hockey
-bip_39_word_space_11: develop cactus assume tattoo leaf bread place civil private
-  hockey riot
 bip_39_word_space_12: develop cactus assume tattoo leaf bread place civil private
   hockey riot assume
 bip_39_word_space_2: develop cactus
 bip_39_word_space_3: develop cactus assume
-bip_39_word_space_4: develop cactus assume tattoo
-bip_39_word_space_5: develop cactus assume tattoo leaf
-bip_39_word_space_6: develop cactus assume tattoo leaf bread
-bip_39_word_space_7: develop cactus assume tattoo leaf bread place
-bip_39_word_space_8: develop cactus assume tattoo leaf bread place civil
-bip_39_word_space_9: develop cactus assume tattoo leaf bread place civil private
-bip_39_word_underscore_1: develop
-bip_39_word_underscore_10: develop_cactus_assume_tattoo_leaf_bread_place_civil_private_hockey
-bip_39_word_underscore_11: develop_cactus_assume_tattoo_leaf_bread_place_civil_private_hockey_riot
 bip_39_word_underscore_12: develop_cactus_assume_tattoo_leaf_bread_place_civil_private_hockey_riot_assume
 bip_39_word_underscore_2: develop_cactus
 bip_39_word_underscore_3: develop_cactus_assume
-bip_39_word_underscore_4: develop_cactus_assume_tattoo
-bip_39_word_underscore_5: develop_cactus_assume_tattoo_leaf
-bip_39_word_underscore_6: develop_cactus_assume_tattoo_leaf_bread
-bip_39_word_underscore_7: develop_cactus_assume_tattoo_leaf_bread_place
-bip_39_word_underscore_8: develop_cactus_assume_tattoo_leaf_bread_place_civil
-bip_39_word_underscore_9: develop_cactus_assume_tattoo_leaf_bread_place_civil_private
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

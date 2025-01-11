@@ -1,68 +1,9 @@
-bip_39_word_dash_1: try
-bip_39_word_dash_10: try-gun-satoshi-spell-torch-chicken-solve-radio-space-hybrid
-bip_39_word_dash_11: try-gun-satoshi-spell-torch-chicken-solve-radio-space-hybrid-fatigue
 bip_39_word_dash_12: try-gun-satoshi-spell-torch-chicken-solve-radio-space-hybrid-fatigue-addict
 bip_39_word_dash_2: try-gun
 bip_39_word_dash_3: try-gun-satoshi
-bip_39_word_dash_4: try-gun-satoshi-spell
-bip_39_word_dash_5: try-gun-satoshi-spell-torch
-bip_39_word_dash_6: try-gun-satoshi-spell-torch-chicken
-bip_39_word_dash_7: try-gun-satoshi-spell-torch-chicken-solve
-bip_39_word_dash_8: try-gun-satoshi-spell-torch-chicken-solve-radio
-bip_39_word_dash_9: try-gun-satoshi-spell-torch-chicken-solve-radio-space
-bip_39_word_new_br_1: try
-bip_39_word_new_br_10: try<br>gun<br>satoshi<br>spell<br>torch<br>chicken<br>solve<br>radio<br>space<br>hybrid
-bip_39_word_new_br_11: try<br>gun<br>satoshi<br>spell<br>torch<br>chicken<br>solve<br>radio<br>space<br>hybrid<br>fatigue
 bip_39_word_new_br_12: try<br>gun<br>satoshi<br>spell<br>torch<br>chicken<br>solve<br>radio<br>space<br>hybrid<br>fatigue<br>addict
 bip_39_word_new_br_2: try<br>gun
 bip_39_word_new_br_3: try<br>gun<br>satoshi
-bip_39_word_new_br_4: try<br>gun<br>satoshi<br>spell
-bip_39_word_new_br_5: try<br>gun<br>satoshi<br>spell<br>torch
-bip_39_word_new_br_6: try<br>gun<br>satoshi<br>spell<br>torch<br>chicken
-bip_39_word_new_br_7: try<br>gun<br>satoshi<br>spell<br>torch<br>chicken<br>solve
-bip_39_word_new_br_8: try<br>gun<br>satoshi<br>spell<br>torch<br>chicken<br>solve<br>radio
-bip_39_word_new_br_9: try<br>gun<br>satoshi<br>spell<br>torch<br>chicken<br>solve<br>radio<br>space
-bip_39_word_new_line_1: try
-bip_39_word_new_line_10: 'try
-
-  gun
-
-  satoshi
-
-  spell
-
-  torch
-
-  chicken
-
-  solve
-
-  radio
-
-  space
-
-  hybrid'
-bip_39_word_new_line_11: 'try
-
-  gun
-
-  satoshi
-
-  spell
-
-  torch
-
-  chicken
-
-  solve
-
-  radio
-
-  space
-
-  hybrid
-
-  fatigue'
 bip_39_word_new_line_12: 'try
 
   gun
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'try
   gun
 
   satoshi'
-bip_39_word_new_line_4: 'try
-
-  gun
-
-  satoshi
-
-  spell'
-bip_39_word_new_line_5: 'try
-
-  gun
-
-  satoshi
-
-  spell
-
-  torch'
-bip_39_word_new_line_6: 'try
-
-  gun
-
-  satoshi
-
-  spell
-
-  torch
-
-  chicken'
-bip_39_word_new_line_7: 'try
-
-  gun
-
-  satoshi
-
-  spell
-
-  torch
-
-  chicken
-
-  solve'
-bip_39_word_new_line_8: 'try
-
-  gun
-
-  satoshi
-
-  spell
-
-  torch
-
-  chicken
-
-  solve
-
-  radio'
-bip_39_word_new_line_9: 'try
-
-  gun
-
-  satoshi
-
-  spell
-
-  torch
-
-  chicken
-
-  solve
-
-  radio
-
-  space'
-bip_39_word_no_space_1: try
-bip_39_word_no_space_10: trygunsatoshispelltorchchickensolveradiospacehybrid
-bip_39_word_no_space_11: trygunsatoshispelltorchchickensolveradiospacehybridfatigue
 bip_39_word_no_space_12: trygunsatoshispelltorchchickensolveradiospacehybridfatigueaddict
 bip_39_word_no_space_2: trygun
 bip_39_word_no_space_3: trygunsatoshi
-bip_39_word_no_space_4: trygunsatoshispell
-bip_39_word_no_space_5: trygunsatoshispelltorch
-bip_39_word_no_space_6: trygunsatoshispelltorchchicken
-bip_39_word_no_space_7: trygunsatoshispelltorchchickensolve
-bip_39_word_no_space_8: trygunsatoshispelltorchchickensolveradio
-bip_39_word_no_space_9: trygunsatoshispelltorchchickensolveradiospace
-bip_39_word_space_0:
-- try
-- gun
-- satoshi
-- spell
-- torch
-- chicken
-- solve
-- radio
-- space
-- hybrid
-- fatigue
-- addict
-bip_39_word_space_1: try
-bip_39_word_space_10: try gun satoshi spell torch chicken solve radio space hybrid
-bip_39_word_space_11: try gun satoshi spell torch chicken solve radio space hybrid
-  fatigue
 bip_39_word_space_12: try gun satoshi spell torch chicken solve radio space hybrid
   fatigue addict
 bip_39_word_space_2: try gun
 bip_39_word_space_3: try gun satoshi
-bip_39_word_space_4: try gun satoshi spell
-bip_39_word_space_5: try gun satoshi spell torch
-bip_39_word_space_6: try gun satoshi spell torch chicken
-bip_39_word_space_7: try gun satoshi spell torch chicken solve
-bip_39_word_space_8: try gun satoshi spell torch chicken solve radio
-bip_39_word_space_9: try gun satoshi spell torch chicken solve radio space
-bip_39_word_underscore_1: try
-bip_39_word_underscore_10: try_gun_satoshi_spell_torch_chicken_solve_radio_space_hybrid
-bip_39_word_underscore_11: try_gun_satoshi_spell_torch_chicken_solve_radio_space_hybrid_fatigue
 bip_39_word_underscore_12: try_gun_satoshi_spell_torch_chicken_solve_radio_space_hybrid_fatigue_addict
 bip_39_word_underscore_2: try_gun
 bip_39_word_underscore_3: try_gun_satoshi
-bip_39_word_underscore_4: try_gun_satoshi_spell
-bip_39_word_underscore_5: try_gun_satoshi_spell_torch
-bip_39_word_underscore_6: try_gun_satoshi_spell_torch_chicken
-bip_39_word_underscore_7: try_gun_satoshi_spell_torch_chicken_solve
-bip_39_word_underscore_8: try_gun_satoshi_spell_torch_chicken_solve_radio
-bip_39_word_underscore_9: try_gun_satoshi_spell_torch_chicken_solve_radio_space
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

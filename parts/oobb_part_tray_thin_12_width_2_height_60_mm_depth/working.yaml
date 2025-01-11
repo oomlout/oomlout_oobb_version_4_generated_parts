@@ -1,68 +1,9 @@
-bip_39_word_dash_1: invite
-bip_39_word_dash_10: invite-make-health-spot-slide-escape-celery-seat-slush-hazard
-bip_39_word_dash_11: invite-make-health-spot-slide-escape-celery-seat-slush-hazard-better
 bip_39_word_dash_12: invite-make-health-spot-slide-escape-celery-seat-slush-hazard-better-all
 bip_39_word_dash_2: invite-make
 bip_39_word_dash_3: invite-make-health
-bip_39_word_dash_4: invite-make-health-spot
-bip_39_word_dash_5: invite-make-health-spot-slide
-bip_39_word_dash_6: invite-make-health-spot-slide-escape
-bip_39_word_dash_7: invite-make-health-spot-slide-escape-celery
-bip_39_word_dash_8: invite-make-health-spot-slide-escape-celery-seat
-bip_39_word_dash_9: invite-make-health-spot-slide-escape-celery-seat-slush
-bip_39_word_new_br_1: invite
-bip_39_word_new_br_10: invite<br>make<br>health<br>spot<br>slide<br>escape<br>celery<br>seat<br>slush<br>hazard
-bip_39_word_new_br_11: invite<br>make<br>health<br>spot<br>slide<br>escape<br>celery<br>seat<br>slush<br>hazard<br>better
 bip_39_word_new_br_12: invite<br>make<br>health<br>spot<br>slide<br>escape<br>celery<br>seat<br>slush<br>hazard<br>better<br>all
 bip_39_word_new_br_2: invite<br>make
 bip_39_word_new_br_3: invite<br>make<br>health
-bip_39_word_new_br_4: invite<br>make<br>health<br>spot
-bip_39_word_new_br_5: invite<br>make<br>health<br>spot<br>slide
-bip_39_word_new_br_6: invite<br>make<br>health<br>spot<br>slide<br>escape
-bip_39_word_new_br_7: invite<br>make<br>health<br>spot<br>slide<br>escape<br>celery
-bip_39_word_new_br_8: invite<br>make<br>health<br>spot<br>slide<br>escape<br>celery<br>seat
-bip_39_word_new_br_9: invite<br>make<br>health<br>spot<br>slide<br>escape<br>celery<br>seat<br>slush
-bip_39_word_new_line_1: invite
-bip_39_word_new_line_10: 'invite
-
-  make
-
-  health
-
-  spot
-
-  slide
-
-  escape
-
-  celery
-
-  seat
-
-  slush
-
-  hazard'
-bip_39_word_new_line_11: 'invite
-
-  make
-
-  health
-
-  spot
-
-  slide
-
-  escape
-
-  celery
-
-  seat
-
-  slush
-
-  hazard
-
-  better'
 bip_39_word_new_line_12: 'invite
 
   make
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'invite
   make
 
   health'
-bip_39_word_new_line_4: 'invite
-
-  make
-
-  health
-
-  spot'
-bip_39_word_new_line_5: 'invite
-
-  make
-
-  health
-
-  spot
-
-  slide'
-bip_39_word_new_line_6: 'invite
-
-  make
-
-  health
-
-  spot
-
-  slide
-
-  escape'
-bip_39_word_new_line_7: 'invite
-
-  make
-
-  health
-
-  spot
-
-  slide
-
-  escape
-
-  celery'
-bip_39_word_new_line_8: 'invite
-
-  make
-
-  health
-
-  spot
-
-  slide
-
-  escape
-
-  celery
-
-  seat'
-bip_39_word_new_line_9: 'invite
-
-  make
-
-  health
-
-  spot
-
-  slide
-
-  escape
-
-  celery
-
-  seat
-
-  slush'
-bip_39_word_no_space_1: invite
-bip_39_word_no_space_10: invitemakehealthspotslideescapeceleryseatslushhazard
-bip_39_word_no_space_11: invitemakehealthspotslideescapeceleryseatslushhazardbetter
 bip_39_word_no_space_12: invitemakehealthspotslideescapeceleryseatslushhazardbetterall
 bip_39_word_no_space_2: invitemake
 bip_39_word_no_space_3: invitemakehealth
-bip_39_word_no_space_4: invitemakehealthspot
-bip_39_word_no_space_5: invitemakehealthspotslide
-bip_39_word_no_space_6: invitemakehealthspotslideescape
-bip_39_word_no_space_7: invitemakehealthspotslideescapecelery
-bip_39_word_no_space_8: invitemakehealthspotslideescapeceleryseat
-bip_39_word_no_space_9: invitemakehealthspotslideescapeceleryseatslush
-bip_39_word_space_0:
-- invite
-- make
-- health
-- spot
-- slide
-- escape
-- celery
-- seat
-- slush
-- hazard
-- better
-- all
-bip_39_word_space_1: invite
-bip_39_word_space_10: invite make health spot slide escape celery seat slush hazard
-bip_39_word_space_11: invite make health spot slide escape celery seat slush hazard
-  better
 bip_39_word_space_12: invite make health spot slide escape celery seat slush hazard
   better all
 bip_39_word_space_2: invite make
 bip_39_word_space_3: invite make health
-bip_39_word_space_4: invite make health spot
-bip_39_word_space_5: invite make health spot slide
-bip_39_word_space_6: invite make health spot slide escape
-bip_39_word_space_7: invite make health spot slide escape celery
-bip_39_word_space_8: invite make health spot slide escape celery seat
-bip_39_word_space_9: invite make health spot slide escape celery seat slush
-bip_39_word_underscore_1: invite
-bip_39_word_underscore_10: invite_make_health_spot_slide_escape_celery_seat_slush_hazard
-bip_39_word_underscore_11: invite_make_health_spot_slide_escape_celery_seat_slush_hazard_better
 bip_39_word_underscore_12: invite_make_health_spot_slide_escape_celery_seat_slush_hazard_better_all
 bip_39_word_underscore_2: invite_make
 bip_39_word_underscore_3: invite_make_health
-bip_39_word_underscore_4: invite_make_health_spot
-bip_39_word_underscore_5: invite_make_health_spot_slide
-bip_39_word_underscore_6: invite_make_health_spot_slide_escape
-bip_39_word_underscore_7: invite_make_health_spot_slide_escape_celery
-bip_39_word_underscore_8: invite_make_health_spot_slide_escape_celery_seat
-bip_39_word_underscore_9: invite_make_health_spot_slide_escape_celery_seat_slush
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

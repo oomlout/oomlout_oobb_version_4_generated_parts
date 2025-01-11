@@ -1,68 +1,9 @@
-bip_39_word_dash_1: barrel
-bip_39_word_dash_10: barrel-silk-palm-firm-limit-retire-hidden-cigar-biology-sail
-bip_39_word_dash_11: barrel-silk-palm-firm-limit-retire-hidden-cigar-biology-sail-disorder
 bip_39_word_dash_12: barrel-silk-palm-firm-limit-retire-hidden-cigar-biology-sail-disorder-air
 bip_39_word_dash_2: barrel-silk
 bip_39_word_dash_3: barrel-silk-palm
-bip_39_word_dash_4: barrel-silk-palm-firm
-bip_39_word_dash_5: barrel-silk-palm-firm-limit
-bip_39_word_dash_6: barrel-silk-palm-firm-limit-retire
-bip_39_word_dash_7: barrel-silk-palm-firm-limit-retire-hidden
-bip_39_word_dash_8: barrel-silk-palm-firm-limit-retire-hidden-cigar
-bip_39_word_dash_9: barrel-silk-palm-firm-limit-retire-hidden-cigar-biology
-bip_39_word_new_br_1: barrel
-bip_39_word_new_br_10: barrel<br>silk<br>palm<br>firm<br>limit<br>retire<br>hidden<br>cigar<br>biology<br>sail
-bip_39_word_new_br_11: barrel<br>silk<br>palm<br>firm<br>limit<br>retire<br>hidden<br>cigar<br>biology<br>sail<br>disorder
 bip_39_word_new_br_12: barrel<br>silk<br>palm<br>firm<br>limit<br>retire<br>hidden<br>cigar<br>biology<br>sail<br>disorder<br>air
 bip_39_word_new_br_2: barrel<br>silk
 bip_39_word_new_br_3: barrel<br>silk<br>palm
-bip_39_word_new_br_4: barrel<br>silk<br>palm<br>firm
-bip_39_word_new_br_5: barrel<br>silk<br>palm<br>firm<br>limit
-bip_39_word_new_br_6: barrel<br>silk<br>palm<br>firm<br>limit<br>retire
-bip_39_word_new_br_7: barrel<br>silk<br>palm<br>firm<br>limit<br>retire<br>hidden
-bip_39_word_new_br_8: barrel<br>silk<br>palm<br>firm<br>limit<br>retire<br>hidden<br>cigar
-bip_39_word_new_br_9: barrel<br>silk<br>palm<br>firm<br>limit<br>retire<br>hidden<br>cigar<br>biology
-bip_39_word_new_line_1: barrel
-bip_39_word_new_line_10: 'barrel
-
-  silk
-
-  palm
-
-  firm
-
-  limit
-
-  retire
-
-  hidden
-
-  cigar
-
-  biology
-
-  sail'
-bip_39_word_new_line_11: 'barrel
-
-  silk
-
-  palm
-
-  firm
-
-  limit
-
-  retire
-
-  hidden
-
-  cigar
-
-  biology
-
-  sail
-
-  disorder'
 bip_39_word_new_line_12: 'barrel
 
   silk
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'barrel
   silk
 
   palm'
-bip_39_word_new_line_4: 'barrel
-
-  silk
-
-  palm
-
-  firm'
-bip_39_word_new_line_5: 'barrel
-
-  silk
-
-  palm
-
-  firm
-
-  limit'
-bip_39_word_new_line_6: 'barrel
-
-  silk
-
-  palm
-
-  firm
-
-  limit
-
-  retire'
-bip_39_word_new_line_7: 'barrel
-
-  silk
-
-  palm
-
-  firm
-
-  limit
-
-  retire
-
-  hidden'
-bip_39_word_new_line_8: 'barrel
-
-  silk
-
-  palm
-
-  firm
-
-  limit
-
-  retire
-
-  hidden
-
-  cigar'
-bip_39_word_new_line_9: 'barrel
-
-  silk
-
-  palm
-
-  firm
-
-  limit
-
-  retire
-
-  hidden
-
-  cigar
-
-  biology'
-bip_39_word_no_space_1: barrel
-bip_39_word_no_space_10: barrelsilkpalmfirmlimitretirehiddencigarbiologysail
-bip_39_word_no_space_11: barrelsilkpalmfirmlimitretirehiddencigarbiologysaildisorder
 bip_39_word_no_space_12: barrelsilkpalmfirmlimitretirehiddencigarbiologysaildisorderair
 bip_39_word_no_space_2: barrelsilk
 bip_39_word_no_space_3: barrelsilkpalm
-bip_39_word_no_space_4: barrelsilkpalmfirm
-bip_39_word_no_space_5: barrelsilkpalmfirmlimit
-bip_39_word_no_space_6: barrelsilkpalmfirmlimitretire
-bip_39_word_no_space_7: barrelsilkpalmfirmlimitretirehidden
-bip_39_word_no_space_8: barrelsilkpalmfirmlimitretirehiddencigar
-bip_39_word_no_space_9: barrelsilkpalmfirmlimitretirehiddencigarbiology
-bip_39_word_space_0:
-- barrel
-- silk
-- palm
-- firm
-- limit
-- retire
-- hidden
-- cigar
-- biology
-- sail
-- disorder
-- air
-bip_39_word_space_1: barrel
-bip_39_word_space_10: barrel silk palm firm limit retire hidden cigar biology sail
-bip_39_word_space_11: barrel silk palm firm limit retire hidden cigar biology sail
-  disorder
 bip_39_word_space_12: barrel silk palm firm limit retire hidden cigar biology sail
   disorder air
 bip_39_word_space_2: barrel silk
 bip_39_word_space_3: barrel silk palm
-bip_39_word_space_4: barrel silk palm firm
-bip_39_word_space_5: barrel silk palm firm limit
-bip_39_word_space_6: barrel silk palm firm limit retire
-bip_39_word_space_7: barrel silk palm firm limit retire hidden
-bip_39_word_space_8: barrel silk palm firm limit retire hidden cigar
-bip_39_word_space_9: barrel silk palm firm limit retire hidden cigar biology
-bip_39_word_underscore_1: barrel
-bip_39_word_underscore_10: barrel_silk_palm_firm_limit_retire_hidden_cigar_biology_sail
-bip_39_word_underscore_11: barrel_silk_palm_firm_limit_retire_hidden_cigar_biology_sail_disorder
 bip_39_word_underscore_12: barrel_silk_palm_firm_limit_retire_hidden_cigar_biology_sail_disorder_air
 bip_39_word_underscore_2: barrel_silk
 bip_39_word_underscore_3: barrel_silk_palm
-bip_39_word_underscore_4: barrel_silk_palm_firm
-bip_39_word_underscore_5: barrel_silk_palm_firm_limit
-bip_39_word_underscore_6: barrel_silk_palm_firm_limit_retire
-bip_39_word_underscore_7: barrel_silk_palm_firm_limit_retire_hidden
-bip_39_word_underscore_8: barrel_silk_palm_firm_limit_retire_hidden_cigar
-bip_39_word_underscore_9: barrel_silk_palm_firm_limit_retire_hidden_cigar_biology
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

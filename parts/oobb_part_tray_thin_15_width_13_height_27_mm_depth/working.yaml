@@ -1,68 +1,9 @@
-bip_39_word_dash_1: noise
-bip_39_word_dash_10: noise-autumn-bridge-shoe-quote-belt-planet-spray-struggle-minor
-bip_39_word_dash_11: noise-autumn-bridge-shoe-quote-belt-planet-spray-struggle-minor-bottom
 bip_39_word_dash_12: noise-autumn-bridge-shoe-quote-belt-planet-spray-struggle-minor-bottom-alpha
 bip_39_word_dash_2: noise-autumn
 bip_39_word_dash_3: noise-autumn-bridge
-bip_39_word_dash_4: noise-autumn-bridge-shoe
-bip_39_word_dash_5: noise-autumn-bridge-shoe-quote
-bip_39_word_dash_6: noise-autumn-bridge-shoe-quote-belt
-bip_39_word_dash_7: noise-autumn-bridge-shoe-quote-belt-planet
-bip_39_word_dash_8: noise-autumn-bridge-shoe-quote-belt-planet-spray
-bip_39_word_dash_9: noise-autumn-bridge-shoe-quote-belt-planet-spray-struggle
-bip_39_word_new_br_1: noise
-bip_39_word_new_br_10: noise<br>autumn<br>bridge<br>shoe<br>quote<br>belt<br>planet<br>spray<br>struggle<br>minor
-bip_39_word_new_br_11: noise<br>autumn<br>bridge<br>shoe<br>quote<br>belt<br>planet<br>spray<br>struggle<br>minor<br>bottom
 bip_39_word_new_br_12: noise<br>autumn<br>bridge<br>shoe<br>quote<br>belt<br>planet<br>spray<br>struggle<br>minor<br>bottom<br>alpha
 bip_39_word_new_br_2: noise<br>autumn
 bip_39_word_new_br_3: noise<br>autumn<br>bridge
-bip_39_word_new_br_4: noise<br>autumn<br>bridge<br>shoe
-bip_39_word_new_br_5: noise<br>autumn<br>bridge<br>shoe<br>quote
-bip_39_word_new_br_6: noise<br>autumn<br>bridge<br>shoe<br>quote<br>belt
-bip_39_word_new_br_7: noise<br>autumn<br>bridge<br>shoe<br>quote<br>belt<br>planet
-bip_39_word_new_br_8: noise<br>autumn<br>bridge<br>shoe<br>quote<br>belt<br>planet<br>spray
-bip_39_word_new_br_9: noise<br>autumn<br>bridge<br>shoe<br>quote<br>belt<br>planet<br>spray<br>struggle
-bip_39_word_new_line_1: noise
-bip_39_word_new_line_10: 'noise
-
-  autumn
-
-  bridge
-
-  shoe
-
-  quote
-
-  belt
-
-  planet
-
-  spray
-
-  struggle
-
-  minor'
-bip_39_word_new_line_11: 'noise
-
-  autumn
-
-  bridge
-
-  shoe
-
-  quote
-
-  belt
-
-  planet
-
-  spray
-
-  struggle
-
-  minor
-
-  bottom'
 bip_39_word_new_line_12: 'noise
 
   autumn
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'noise
   autumn
 
   bridge'
-bip_39_word_new_line_4: 'noise
-
-  autumn
-
-  bridge
-
-  shoe'
-bip_39_word_new_line_5: 'noise
-
-  autumn
-
-  bridge
-
-  shoe
-
-  quote'
-bip_39_word_new_line_6: 'noise
-
-  autumn
-
-  bridge
-
-  shoe
-
-  quote
-
-  belt'
-bip_39_word_new_line_7: 'noise
-
-  autumn
-
-  bridge
-
-  shoe
-
-  quote
-
-  belt
-
-  planet'
-bip_39_word_new_line_8: 'noise
-
-  autumn
-
-  bridge
-
-  shoe
-
-  quote
-
-  belt
-
-  planet
-
-  spray'
-bip_39_word_new_line_9: 'noise
-
-  autumn
-
-  bridge
-
-  shoe
-
-  quote
-
-  belt
-
-  planet
-
-  spray
-
-  struggle'
-bip_39_word_no_space_1: noise
-bip_39_word_no_space_10: noiseautumnbridgeshoequotebeltplanetspraystruggleminor
-bip_39_word_no_space_11: noiseautumnbridgeshoequotebeltplanetspraystruggleminorbottom
 bip_39_word_no_space_12: noiseautumnbridgeshoequotebeltplanetspraystruggleminorbottomalpha
 bip_39_word_no_space_2: noiseautumn
 bip_39_word_no_space_3: noiseautumnbridge
-bip_39_word_no_space_4: noiseautumnbridgeshoe
-bip_39_word_no_space_5: noiseautumnbridgeshoequote
-bip_39_word_no_space_6: noiseautumnbridgeshoequotebelt
-bip_39_word_no_space_7: noiseautumnbridgeshoequotebeltplanet
-bip_39_word_no_space_8: noiseautumnbridgeshoequotebeltplanetspray
-bip_39_word_no_space_9: noiseautumnbridgeshoequotebeltplanetspraystruggle
-bip_39_word_space_0:
-- noise
-- autumn
-- bridge
-- shoe
-- quote
-- belt
-- planet
-- spray
-- struggle
-- minor
-- bottom
-- alpha
-bip_39_word_space_1: noise
-bip_39_word_space_10: noise autumn bridge shoe quote belt planet spray struggle minor
-bip_39_word_space_11: noise autumn bridge shoe quote belt planet spray struggle minor
-  bottom
 bip_39_word_space_12: noise autumn bridge shoe quote belt planet spray struggle minor
   bottom alpha
 bip_39_word_space_2: noise autumn
 bip_39_word_space_3: noise autumn bridge
-bip_39_word_space_4: noise autumn bridge shoe
-bip_39_word_space_5: noise autumn bridge shoe quote
-bip_39_word_space_6: noise autumn bridge shoe quote belt
-bip_39_word_space_7: noise autumn bridge shoe quote belt planet
-bip_39_word_space_8: noise autumn bridge shoe quote belt planet spray
-bip_39_word_space_9: noise autumn bridge shoe quote belt planet spray struggle
-bip_39_word_underscore_1: noise
-bip_39_word_underscore_10: noise_autumn_bridge_shoe_quote_belt_planet_spray_struggle_minor
-bip_39_word_underscore_11: noise_autumn_bridge_shoe_quote_belt_planet_spray_struggle_minor_bottom
 bip_39_word_underscore_12: noise_autumn_bridge_shoe_quote_belt_planet_spray_struggle_minor_bottom_alpha
 bip_39_word_underscore_2: noise_autumn
 bip_39_word_underscore_3: noise_autumn_bridge
-bip_39_word_underscore_4: noise_autumn_bridge_shoe
-bip_39_word_underscore_5: noise_autumn_bridge_shoe_quote
-bip_39_word_underscore_6: noise_autumn_bridge_shoe_quote_belt
-bip_39_word_underscore_7: noise_autumn_bridge_shoe_quote_belt_planet
-bip_39_word_underscore_8: noise_autumn_bridge_shoe_quote_belt_planet_spray
-bip_39_word_underscore_9: noise_autumn_bridge_shoe_quote_belt_planet_spray_struggle
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

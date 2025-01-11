@@ -1,68 +1,9 @@
-bip_39_word_dash_1: sell
-bip_39_word_dash_10: sell-lab-dinosaur-viable-erosion-churn-cabbage-tribe-iron-nut
-bip_39_word_dash_11: sell-lab-dinosaur-viable-erosion-churn-cabbage-tribe-iron-nut-inherit
 bip_39_word_dash_12: sell-lab-dinosaur-viable-erosion-churn-cabbage-tribe-iron-nut-inherit-author
 bip_39_word_dash_2: sell-lab
 bip_39_word_dash_3: sell-lab-dinosaur
-bip_39_word_dash_4: sell-lab-dinosaur-viable
-bip_39_word_dash_5: sell-lab-dinosaur-viable-erosion
-bip_39_word_dash_6: sell-lab-dinosaur-viable-erosion-churn
-bip_39_word_dash_7: sell-lab-dinosaur-viable-erosion-churn-cabbage
-bip_39_word_dash_8: sell-lab-dinosaur-viable-erosion-churn-cabbage-tribe
-bip_39_word_dash_9: sell-lab-dinosaur-viable-erosion-churn-cabbage-tribe-iron
-bip_39_word_new_br_1: sell
-bip_39_word_new_br_10: sell<br>lab<br>dinosaur<br>viable<br>erosion<br>churn<br>cabbage<br>tribe<br>iron<br>nut
-bip_39_word_new_br_11: sell<br>lab<br>dinosaur<br>viable<br>erosion<br>churn<br>cabbage<br>tribe<br>iron<br>nut<br>inherit
 bip_39_word_new_br_12: sell<br>lab<br>dinosaur<br>viable<br>erosion<br>churn<br>cabbage<br>tribe<br>iron<br>nut<br>inherit<br>author
 bip_39_word_new_br_2: sell<br>lab
 bip_39_word_new_br_3: sell<br>lab<br>dinosaur
-bip_39_word_new_br_4: sell<br>lab<br>dinosaur<br>viable
-bip_39_word_new_br_5: sell<br>lab<br>dinosaur<br>viable<br>erosion
-bip_39_word_new_br_6: sell<br>lab<br>dinosaur<br>viable<br>erosion<br>churn
-bip_39_word_new_br_7: sell<br>lab<br>dinosaur<br>viable<br>erosion<br>churn<br>cabbage
-bip_39_word_new_br_8: sell<br>lab<br>dinosaur<br>viable<br>erosion<br>churn<br>cabbage<br>tribe
-bip_39_word_new_br_9: sell<br>lab<br>dinosaur<br>viable<br>erosion<br>churn<br>cabbage<br>tribe<br>iron
-bip_39_word_new_line_1: sell
-bip_39_word_new_line_10: 'sell
-
-  lab
-
-  dinosaur
-
-  viable
-
-  erosion
-
-  churn
-
-  cabbage
-
-  tribe
-
-  iron
-
-  nut'
-bip_39_word_new_line_11: 'sell
-
-  lab
-
-  dinosaur
-
-  viable
-
-  erosion
-
-  churn
-
-  cabbage
-
-  tribe
-
-  iron
-
-  nut
-
-  inherit'
 bip_39_word_new_line_12: 'sell
 
   lab
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'sell
   lab
 
   dinosaur'
-bip_39_word_new_line_4: 'sell
-
-  lab
-
-  dinosaur
-
-  viable'
-bip_39_word_new_line_5: 'sell
-
-  lab
-
-  dinosaur
-
-  viable
-
-  erosion'
-bip_39_word_new_line_6: 'sell
-
-  lab
-
-  dinosaur
-
-  viable
-
-  erosion
-
-  churn'
-bip_39_word_new_line_7: 'sell
-
-  lab
-
-  dinosaur
-
-  viable
-
-  erosion
-
-  churn
-
-  cabbage'
-bip_39_word_new_line_8: 'sell
-
-  lab
-
-  dinosaur
-
-  viable
-
-  erosion
-
-  churn
-
-  cabbage
-
-  tribe'
-bip_39_word_new_line_9: 'sell
-
-  lab
-
-  dinosaur
-
-  viable
-
-  erosion
-
-  churn
-
-  cabbage
-
-  tribe
-
-  iron'
-bip_39_word_no_space_1: sell
-bip_39_word_no_space_10: selllabdinosaurviableerosionchurncabbagetribeironnut
-bip_39_word_no_space_11: selllabdinosaurviableerosionchurncabbagetribeironnutinherit
 bip_39_word_no_space_12: selllabdinosaurviableerosionchurncabbagetribeironnutinheritauthor
 bip_39_word_no_space_2: selllab
 bip_39_word_no_space_3: selllabdinosaur
-bip_39_word_no_space_4: selllabdinosaurviable
-bip_39_word_no_space_5: selllabdinosaurviableerosion
-bip_39_word_no_space_6: selllabdinosaurviableerosionchurn
-bip_39_word_no_space_7: selllabdinosaurviableerosionchurncabbage
-bip_39_word_no_space_8: selllabdinosaurviableerosionchurncabbagetribe
-bip_39_word_no_space_9: selllabdinosaurviableerosionchurncabbagetribeiron
-bip_39_word_space_0:
-- sell
-- lab
-- dinosaur
-- viable
-- erosion
-- churn
-- cabbage
-- tribe
-- iron
-- nut
-- inherit
-- author
-bip_39_word_space_1: sell
-bip_39_word_space_10: sell lab dinosaur viable erosion churn cabbage tribe iron nut
-bip_39_word_space_11: sell lab dinosaur viable erosion churn cabbage tribe iron nut
-  inherit
 bip_39_word_space_12: sell lab dinosaur viable erosion churn cabbage tribe iron nut
   inherit author
 bip_39_word_space_2: sell lab
 bip_39_word_space_3: sell lab dinosaur
-bip_39_word_space_4: sell lab dinosaur viable
-bip_39_word_space_5: sell lab dinosaur viable erosion
-bip_39_word_space_6: sell lab dinosaur viable erosion churn
-bip_39_word_space_7: sell lab dinosaur viable erosion churn cabbage
-bip_39_word_space_8: sell lab dinosaur viable erosion churn cabbage tribe
-bip_39_word_space_9: sell lab dinosaur viable erosion churn cabbage tribe iron
-bip_39_word_underscore_1: sell
-bip_39_word_underscore_10: sell_lab_dinosaur_viable_erosion_churn_cabbage_tribe_iron_nut
-bip_39_word_underscore_11: sell_lab_dinosaur_viable_erosion_churn_cabbage_tribe_iron_nut_inherit
 bip_39_word_underscore_12: sell_lab_dinosaur_viable_erosion_churn_cabbage_tribe_iron_nut_inherit_author
 bip_39_word_underscore_2: sell_lab
 bip_39_word_underscore_3: sell_lab_dinosaur
-bip_39_word_underscore_4: sell_lab_dinosaur_viable
-bip_39_word_underscore_5: sell_lab_dinosaur_viable_erosion
-bip_39_word_underscore_6: sell_lab_dinosaur_viable_erosion_churn
-bip_39_word_underscore_7: sell_lab_dinosaur_viable_erosion_churn_cabbage
-bip_39_word_underscore_8: sell_lab_dinosaur_viable_erosion_churn_cabbage_tribe
-bip_39_word_underscore_9: sell_lab_dinosaur_viable_erosion_churn_cabbage_tribe_iron
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

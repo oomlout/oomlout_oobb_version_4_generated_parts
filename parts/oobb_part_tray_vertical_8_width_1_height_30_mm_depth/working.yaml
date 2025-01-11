@@ -1,68 +1,9 @@
-bip_39_word_dash_1: fuel
-bip_39_word_dash_10: fuel-dragon-arrow-belt-govern-enact-general-visit-beauty-attend
-bip_39_word_dash_11: fuel-dragon-arrow-belt-govern-enact-general-visit-beauty-attend-ridge
 bip_39_word_dash_12: fuel-dragon-arrow-belt-govern-enact-general-visit-beauty-attend-ridge-around
 bip_39_word_dash_2: fuel-dragon
 bip_39_word_dash_3: fuel-dragon-arrow
-bip_39_word_dash_4: fuel-dragon-arrow-belt
-bip_39_word_dash_5: fuel-dragon-arrow-belt-govern
-bip_39_word_dash_6: fuel-dragon-arrow-belt-govern-enact
-bip_39_word_dash_7: fuel-dragon-arrow-belt-govern-enact-general
-bip_39_word_dash_8: fuel-dragon-arrow-belt-govern-enact-general-visit
-bip_39_word_dash_9: fuel-dragon-arrow-belt-govern-enact-general-visit-beauty
-bip_39_word_new_br_1: fuel
-bip_39_word_new_br_10: fuel<br>dragon<br>arrow<br>belt<br>govern<br>enact<br>general<br>visit<br>beauty<br>attend
-bip_39_word_new_br_11: fuel<br>dragon<br>arrow<br>belt<br>govern<br>enact<br>general<br>visit<br>beauty<br>attend<br>ridge
 bip_39_word_new_br_12: fuel<br>dragon<br>arrow<br>belt<br>govern<br>enact<br>general<br>visit<br>beauty<br>attend<br>ridge<br>around
 bip_39_word_new_br_2: fuel<br>dragon
 bip_39_word_new_br_3: fuel<br>dragon<br>arrow
-bip_39_word_new_br_4: fuel<br>dragon<br>arrow<br>belt
-bip_39_word_new_br_5: fuel<br>dragon<br>arrow<br>belt<br>govern
-bip_39_word_new_br_6: fuel<br>dragon<br>arrow<br>belt<br>govern<br>enact
-bip_39_word_new_br_7: fuel<br>dragon<br>arrow<br>belt<br>govern<br>enact<br>general
-bip_39_word_new_br_8: fuel<br>dragon<br>arrow<br>belt<br>govern<br>enact<br>general<br>visit
-bip_39_word_new_br_9: fuel<br>dragon<br>arrow<br>belt<br>govern<br>enact<br>general<br>visit<br>beauty
-bip_39_word_new_line_1: fuel
-bip_39_word_new_line_10: 'fuel
-
-  dragon
-
-  arrow
-
-  belt
-
-  govern
-
-  enact
-
-  general
-
-  visit
-
-  beauty
-
-  attend'
-bip_39_word_new_line_11: 'fuel
-
-  dragon
-
-  arrow
-
-  belt
-
-  govern
-
-  enact
-
-  general
-
-  visit
-
-  beauty
-
-  attend
-
-  ridge'
 bip_39_word_new_line_12: 'fuel
 
   dragon
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'fuel
   dragon
 
   arrow'
-bip_39_word_new_line_4: 'fuel
-
-  dragon
-
-  arrow
-
-  belt'
-bip_39_word_new_line_5: 'fuel
-
-  dragon
-
-  arrow
-
-  belt
-
-  govern'
-bip_39_word_new_line_6: 'fuel
-
-  dragon
-
-  arrow
-
-  belt
-
-  govern
-
-  enact'
-bip_39_word_new_line_7: 'fuel
-
-  dragon
-
-  arrow
-
-  belt
-
-  govern
-
-  enact
-
-  general'
-bip_39_word_new_line_8: 'fuel
-
-  dragon
-
-  arrow
-
-  belt
-
-  govern
-
-  enact
-
-  general
-
-  visit'
-bip_39_word_new_line_9: 'fuel
-
-  dragon
-
-  arrow
-
-  belt
-
-  govern
-
-  enact
-
-  general
-
-  visit
-
-  beauty'
-bip_39_word_no_space_1: fuel
-bip_39_word_no_space_10: fueldragonarrowbeltgovernenactgeneralvisitbeautyattend
-bip_39_word_no_space_11: fueldragonarrowbeltgovernenactgeneralvisitbeautyattendridge
 bip_39_word_no_space_12: fueldragonarrowbeltgovernenactgeneralvisitbeautyattendridgearound
 bip_39_word_no_space_2: fueldragon
 bip_39_word_no_space_3: fueldragonarrow
-bip_39_word_no_space_4: fueldragonarrowbelt
-bip_39_word_no_space_5: fueldragonarrowbeltgovern
-bip_39_word_no_space_6: fueldragonarrowbeltgovernenact
-bip_39_word_no_space_7: fueldragonarrowbeltgovernenactgeneral
-bip_39_word_no_space_8: fueldragonarrowbeltgovernenactgeneralvisit
-bip_39_word_no_space_9: fueldragonarrowbeltgovernenactgeneralvisitbeauty
-bip_39_word_space_0:
-- fuel
-- dragon
-- arrow
-- belt
-- govern
-- enact
-- general
-- visit
-- beauty
-- attend
-- ridge
-- around
-bip_39_word_space_1: fuel
-bip_39_word_space_10: fuel dragon arrow belt govern enact general visit beauty attend
-bip_39_word_space_11: fuel dragon arrow belt govern enact general visit beauty attend
-  ridge
 bip_39_word_space_12: fuel dragon arrow belt govern enact general visit beauty attend
   ridge around
 bip_39_word_space_2: fuel dragon
 bip_39_word_space_3: fuel dragon arrow
-bip_39_word_space_4: fuel dragon arrow belt
-bip_39_word_space_5: fuel dragon arrow belt govern
-bip_39_word_space_6: fuel dragon arrow belt govern enact
-bip_39_word_space_7: fuel dragon arrow belt govern enact general
-bip_39_word_space_8: fuel dragon arrow belt govern enact general visit
-bip_39_word_space_9: fuel dragon arrow belt govern enact general visit beauty
-bip_39_word_underscore_1: fuel
-bip_39_word_underscore_10: fuel_dragon_arrow_belt_govern_enact_general_visit_beauty_attend
-bip_39_word_underscore_11: fuel_dragon_arrow_belt_govern_enact_general_visit_beauty_attend_ridge
 bip_39_word_underscore_12: fuel_dragon_arrow_belt_govern_enact_general_visit_beauty_attend_ridge_around
 bip_39_word_underscore_2: fuel_dragon
 bip_39_word_underscore_3: fuel_dragon_arrow
-bip_39_word_underscore_4: fuel_dragon_arrow_belt
-bip_39_word_underscore_5: fuel_dragon_arrow_belt_govern
-bip_39_word_underscore_6: fuel_dragon_arrow_belt_govern_enact
-bip_39_word_underscore_7: fuel_dragon_arrow_belt_govern_enact_general
-bip_39_word_underscore_8: fuel_dragon_arrow_belt_govern_enact_general_visit
-bip_39_word_underscore_9: fuel_dragon_arrow_belt_govern_enact_general_visit_beauty
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

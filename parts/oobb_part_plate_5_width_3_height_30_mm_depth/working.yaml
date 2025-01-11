@@ -1,68 +1,9 @@
-bip_39_word_dash_1: voyage
-bip_39_word_dash_10: voyage-ten-loop-bitter-pen-fortune-fluid-indicate-submit-melody
-bip_39_word_dash_11: voyage-ten-loop-bitter-pen-fortune-fluid-indicate-submit-melody-game
 bip_39_word_dash_12: voyage-ten-loop-bitter-pen-fortune-fluid-indicate-submit-melody-game-assume
 bip_39_word_dash_2: voyage-ten
 bip_39_word_dash_3: voyage-ten-loop
-bip_39_word_dash_4: voyage-ten-loop-bitter
-bip_39_word_dash_5: voyage-ten-loop-bitter-pen
-bip_39_word_dash_6: voyage-ten-loop-bitter-pen-fortune
-bip_39_word_dash_7: voyage-ten-loop-bitter-pen-fortune-fluid
-bip_39_word_dash_8: voyage-ten-loop-bitter-pen-fortune-fluid-indicate
-bip_39_word_dash_9: voyage-ten-loop-bitter-pen-fortune-fluid-indicate-submit
-bip_39_word_new_br_1: voyage
-bip_39_word_new_br_10: voyage<br>ten<br>loop<br>bitter<br>pen<br>fortune<br>fluid<br>indicate<br>submit<br>melody
-bip_39_word_new_br_11: voyage<br>ten<br>loop<br>bitter<br>pen<br>fortune<br>fluid<br>indicate<br>submit<br>melody<br>game
 bip_39_word_new_br_12: voyage<br>ten<br>loop<br>bitter<br>pen<br>fortune<br>fluid<br>indicate<br>submit<br>melody<br>game<br>assume
 bip_39_word_new_br_2: voyage<br>ten
 bip_39_word_new_br_3: voyage<br>ten<br>loop
-bip_39_word_new_br_4: voyage<br>ten<br>loop<br>bitter
-bip_39_word_new_br_5: voyage<br>ten<br>loop<br>bitter<br>pen
-bip_39_word_new_br_6: voyage<br>ten<br>loop<br>bitter<br>pen<br>fortune
-bip_39_word_new_br_7: voyage<br>ten<br>loop<br>bitter<br>pen<br>fortune<br>fluid
-bip_39_word_new_br_8: voyage<br>ten<br>loop<br>bitter<br>pen<br>fortune<br>fluid<br>indicate
-bip_39_word_new_br_9: voyage<br>ten<br>loop<br>bitter<br>pen<br>fortune<br>fluid<br>indicate<br>submit
-bip_39_word_new_line_1: voyage
-bip_39_word_new_line_10: 'voyage
-
-  ten
-
-  loop
-
-  bitter
-
-  pen
-
-  fortune
-
-  fluid
-
-  indicate
-
-  submit
-
-  melody'
-bip_39_word_new_line_11: 'voyage
-
-  ten
-
-  loop
-
-  bitter
-
-  pen
-
-  fortune
-
-  fluid
-
-  indicate
-
-  submit
-
-  melody
-
-  game'
 bip_39_word_new_line_12: 'voyage
 
   ten
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'voyage
   ten
 
   loop'
-bip_39_word_new_line_4: 'voyage
-
-  ten
-
-  loop
-
-  bitter'
-bip_39_word_new_line_5: 'voyage
-
-  ten
-
-  loop
-
-  bitter
-
-  pen'
-bip_39_word_new_line_6: 'voyage
-
-  ten
-
-  loop
-
-  bitter
-
-  pen
-
-  fortune'
-bip_39_word_new_line_7: 'voyage
-
-  ten
-
-  loop
-
-  bitter
-
-  pen
-
-  fortune
-
-  fluid'
-bip_39_word_new_line_8: 'voyage
-
-  ten
-
-  loop
-
-  bitter
-
-  pen
-
-  fortune
-
-  fluid
-
-  indicate'
-bip_39_word_new_line_9: 'voyage
-
-  ten
-
-  loop
-
-  bitter
-
-  pen
-
-  fortune
-
-  fluid
-
-  indicate
-
-  submit'
-bip_39_word_no_space_1: voyage
-bip_39_word_no_space_10: voyagetenloopbitterpenfortunefluidindicatesubmitmelody
-bip_39_word_no_space_11: voyagetenloopbitterpenfortunefluidindicatesubmitmelodygame
 bip_39_word_no_space_12: voyagetenloopbitterpenfortunefluidindicatesubmitmelodygameassume
 bip_39_word_no_space_2: voyageten
 bip_39_word_no_space_3: voyagetenloop
-bip_39_word_no_space_4: voyagetenloopbitter
-bip_39_word_no_space_5: voyagetenloopbitterpen
-bip_39_word_no_space_6: voyagetenloopbitterpenfortune
-bip_39_word_no_space_7: voyagetenloopbitterpenfortunefluid
-bip_39_word_no_space_8: voyagetenloopbitterpenfortunefluidindicate
-bip_39_word_no_space_9: voyagetenloopbitterpenfortunefluidindicatesubmit
-bip_39_word_space_0:
-- voyage
-- ten
-- loop
-- bitter
-- pen
-- fortune
-- fluid
-- indicate
-- submit
-- melody
-- game
-- assume
-bip_39_word_space_1: voyage
-bip_39_word_space_10: voyage ten loop bitter pen fortune fluid indicate submit melody
-bip_39_word_space_11: voyage ten loop bitter pen fortune fluid indicate submit melody
-  game
 bip_39_word_space_12: voyage ten loop bitter pen fortune fluid indicate submit melody
   game assume
 bip_39_word_space_2: voyage ten
 bip_39_word_space_3: voyage ten loop
-bip_39_word_space_4: voyage ten loop bitter
-bip_39_word_space_5: voyage ten loop bitter pen
-bip_39_word_space_6: voyage ten loop bitter pen fortune
-bip_39_word_space_7: voyage ten loop bitter pen fortune fluid
-bip_39_word_space_8: voyage ten loop bitter pen fortune fluid indicate
-bip_39_word_space_9: voyage ten loop bitter pen fortune fluid indicate submit
-bip_39_word_underscore_1: voyage
-bip_39_word_underscore_10: voyage_ten_loop_bitter_pen_fortune_fluid_indicate_submit_melody
-bip_39_word_underscore_11: voyage_ten_loop_bitter_pen_fortune_fluid_indicate_submit_melody_game
 bip_39_word_underscore_12: voyage_ten_loop_bitter_pen_fortune_fluid_indicate_submit_melody_game_assume
 bip_39_word_underscore_2: voyage_ten
 bip_39_word_underscore_3: voyage_ten_loop
-bip_39_word_underscore_4: voyage_ten_loop_bitter
-bip_39_word_underscore_5: voyage_ten_loop_bitter_pen
-bip_39_word_underscore_6: voyage_ten_loop_bitter_pen_fortune
-bip_39_word_underscore_7: voyage_ten_loop_bitter_pen_fortune_fluid
-bip_39_word_underscore_8: voyage_ten_loop_bitter_pen_fortune_fluid_indicate
-bip_39_word_underscore_9: voyage_ten_loop_bitter_pen_fortune_fluid_indicate_submit
 classification: oobb
 classification_length_1: o
 classification_length_2: oo
