@@ -1,68 +1,9 @@
-bip_39_word_dash_1: extend
-bip_39_word_dash_10: extend-frog-burger-voyage-witness-spirit-inflict-cable-chunk-raccoon
-bip_39_word_dash_11: extend-frog-burger-voyage-witness-spirit-inflict-cable-chunk-raccoon-rib
 bip_39_word_dash_12: extend-frog-burger-voyage-witness-spirit-inflict-cable-chunk-raccoon-rib-ancient
 bip_39_word_dash_2: extend-frog
 bip_39_word_dash_3: extend-frog-burger
-bip_39_word_dash_4: extend-frog-burger-voyage
-bip_39_word_dash_5: extend-frog-burger-voyage-witness
-bip_39_word_dash_6: extend-frog-burger-voyage-witness-spirit
-bip_39_word_dash_7: extend-frog-burger-voyage-witness-spirit-inflict
-bip_39_word_dash_8: extend-frog-burger-voyage-witness-spirit-inflict-cable
-bip_39_word_dash_9: extend-frog-burger-voyage-witness-spirit-inflict-cable-chunk
-bip_39_word_new_br_1: extend
-bip_39_word_new_br_10: extend<br>frog<br>burger<br>voyage<br>witness<br>spirit<br>inflict<br>cable<br>chunk<br>raccoon
-bip_39_word_new_br_11: extend<br>frog<br>burger<br>voyage<br>witness<br>spirit<br>inflict<br>cable<br>chunk<br>raccoon<br>rib
 bip_39_word_new_br_12: extend<br>frog<br>burger<br>voyage<br>witness<br>spirit<br>inflict<br>cable<br>chunk<br>raccoon<br>rib<br>ancient
 bip_39_word_new_br_2: extend<br>frog
 bip_39_word_new_br_3: extend<br>frog<br>burger
-bip_39_word_new_br_4: extend<br>frog<br>burger<br>voyage
-bip_39_word_new_br_5: extend<br>frog<br>burger<br>voyage<br>witness
-bip_39_word_new_br_6: extend<br>frog<br>burger<br>voyage<br>witness<br>spirit
-bip_39_word_new_br_7: extend<br>frog<br>burger<br>voyage<br>witness<br>spirit<br>inflict
-bip_39_word_new_br_8: extend<br>frog<br>burger<br>voyage<br>witness<br>spirit<br>inflict<br>cable
-bip_39_word_new_br_9: extend<br>frog<br>burger<br>voyage<br>witness<br>spirit<br>inflict<br>cable<br>chunk
-bip_39_word_new_line_1: extend
-bip_39_word_new_line_10: 'extend
-
-  frog
-
-  burger
-
-  voyage
-
-  witness
-
-  spirit
-
-  inflict
-
-  cable
-
-  chunk
-
-  raccoon'
-bip_39_word_new_line_11: 'extend
-
-  frog
-
-  burger
-
-  voyage
-
-  witness
-
-  spirit
-
-  inflict
-
-  cable
-
-  chunk
-
-  raccoon
-
-  rib'
 bip_39_word_new_line_12: 'extend
 
   frog
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'extend
   frog
 
   burger'
-bip_39_word_new_line_4: 'extend
-
-  frog
-
-  burger
-
-  voyage'
-bip_39_word_new_line_5: 'extend
-
-  frog
-
-  burger
-
-  voyage
-
-  witness'
-bip_39_word_new_line_6: 'extend
-
-  frog
-
-  burger
-
-  voyage
-
-  witness
-
-  spirit'
-bip_39_word_new_line_7: 'extend
-
-  frog
-
-  burger
-
-  voyage
-
-  witness
-
-  spirit
-
-  inflict'
-bip_39_word_new_line_8: 'extend
-
-  frog
-
-  burger
-
-  voyage
-
-  witness
-
-  spirit
-
-  inflict
-
-  cable'
-bip_39_word_new_line_9: 'extend
-
-  frog
-
-  burger
-
-  voyage
-
-  witness
-
-  spirit
-
-  inflict
-
-  cable
-
-  chunk'
-bip_39_word_no_space_1: extend
-bip_39_word_no_space_10: extendfrogburgervoyagewitnessspiritinflictcablechunkraccoon
-bip_39_word_no_space_11: extendfrogburgervoyagewitnessspiritinflictcablechunkraccoonrib
 bip_39_word_no_space_12: extendfrogburgervoyagewitnessspiritinflictcablechunkraccoonribancient
 bip_39_word_no_space_2: extendfrog
 bip_39_word_no_space_3: extendfrogburger
-bip_39_word_no_space_4: extendfrogburgervoyage
-bip_39_word_no_space_5: extendfrogburgervoyagewitness
-bip_39_word_no_space_6: extendfrogburgervoyagewitnessspirit
-bip_39_word_no_space_7: extendfrogburgervoyagewitnessspiritinflict
-bip_39_word_no_space_8: extendfrogburgervoyagewitnessspiritinflictcable
-bip_39_word_no_space_9: extendfrogburgervoyagewitnessspiritinflictcablechunk
-bip_39_word_space_0:
-- extend
-- frog
-- burger
-- voyage
-- witness
-- spirit
-- inflict
-- cable
-- chunk
-- raccoon
-- rib
-- ancient
-bip_39_word_space_1: extend
-bip_39_word_space_10: extend frog burger voyage witness spirit inflict cable chunk
-  raccoon
-bip_39_word_space_11: extend frog burger voyage witness spirit inflict cable chunk
-  raccoon rib
 bip_39_word_space_12: extend frog burger voyage witness spirit inflict cable chunk
   raccoon rib ancient
 bip_39_word_space_2: extend frog
 bip_39_word_space_3: extend frog burger
-bip_39_word_space_4: extend frog burger voyage
-bip_39_word_space_5: extend frog burger voyage witness
-bip_39_word_space_6: extend frog burger voyage witness spirit
-bip_39_word_space_7: extend frog burger voyage witness spirit inflict
-bip_39_word_space_8: extend frog burger voyage witness spirit inflict cable
-bip_39_word_space_9: extend frog burger voyage witness spirit inflict cable chunk
-bip_39_word_underscore_1: extend
-bip_39_word_underscore_10: extend_frog_burger_voyage_witness_spirit_inflict_cable_chunk_raccoon
-bip_39_word_underscore_11: extend_frog_burger_voyage_witness_spirit_inflict_cable_chunk_raccoon_rib
 bip_39_word_underscore_12: extend_frog_burger_voyage_witness_spirit_inflict_cable_chunk_raccoon_rib_ancient
 bip_39_word_underscore_2: extend_frog
 bip_39_word_underscore_3: extend_frog_burger
-bip_39_word_underscore_4: extend_frog_burger_voyage
-bip_39_word_underscore_5: extend_frog_burger_voyage_witness
-bip_39_word_underscore_6: extend_frog_burger_voyage_witness_spirit
-bip_39_word_underscore_7: extend_frog_burger_voyage_witness_spirit_inflict
-bip_39_word_underscore_8: extend_frog_burger_voyage_witness_spirit_inflict_cable
-bip_39_word_underscore_9: extend_frog_burger_voyage_witness_spirit_inflict_cable_chunk
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

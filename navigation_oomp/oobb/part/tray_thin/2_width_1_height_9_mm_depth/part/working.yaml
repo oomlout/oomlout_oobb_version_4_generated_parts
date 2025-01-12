@@ -1,68 +1,9 @@
-bip_39_word_dash_1: company
-bip_39_word_dash_10: company-olive-spring-human-draft-stay-gun-also-rebuild-owner
-bip_39_word_dash_11: company-olive-spring-human-draft-stay-gun-also-rebuild-owner-found
 bip_39_word_dash_12: company-olive-spring-human-draft-stay-gun-also-rebuild-owner-found-agree
 bip_39_word_dash_2: company-olive
 bip_39_word_dash_3: company-olive-spring
-bip_39_word_dash_4: company-olive-spring-human
-bip_39_word_dash_5: company-olive-spring-human-draft
-bip_39_word_dash_6: company-olive-spring-human-draft-stay
-bip_39_word_dash_7: company-olive-spring-human-draft-stay-gun
-bip_39_word_dash_8: company-olive-spring-human-draft-stay-gun-also
-bip_39_word_dash_9: company-olive-spring-human-draft-stay-gun-also-rebuild
-bip_39_word_new_br_1: company
-bip_39_word_new_br_10: company<br>olive<br>spring<br>human<br>draft<br>stay<br>gun<br>also<br>rebuild<br>owner
-bip_39_word_new_br_11: company<br>olive<br>spring<br>human<br>draft<br>stay<br>gun<br>also<br>rebuild<br>owner<br>found
 bip_39_word_new_br_12: company<br>olive<br>spring<br>human<br>draft<br>stay<br>gun<br>also<br>rebuild<br>owner<br>found<br>agree
 bip_39_word_new_br_2: company<br>olive
 bip_39_word_new_br_3: company<br>olive<br>spring
-bip_39_word_new_br_4: company<br>olive<br>spring<br>human
-bip_39_word_new_br_5: company<br>olive<br>spring<br>human<br>draft
-bip_39_word_new_br_6: company<br>olive<br>spring<br>human<br>draft<br>stay
-bip_39_word_new_br_7: company<br>olive<br>spring<br>human<br>draft<br>stay<br>gun
-bip_39_word_new_br_8: company<br>olive<br>spring<br>human<br>draft<br>stay<br>gun<br>also
-bip_39_word_new_br_9: company<br>olive<br>spring<br>human<br>draft<br>stay<br>gun<br>also<br>rebuild
-bip_39_word_new_line_1: company
-bip_39_word_new_line_10: 'company
-
-  olive
-
-  spring
-
-  human
-
-  draft
-
-  stay
-
-  gun
-
-  also
-
-  rebuild
-
-  owner'
-bip_39_word_new_line_11: 'company
-
-  olive
-
-  spring
-
-  human
-
-  draft
-
-  stay
-
-  gun
-
-  also
-
-  rebuild
-
-  owner
-
-  found'
 bip_39_word_new_line_12: 'company
 
   olive
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'company
   olive
 
   spring'
-bip_39_word_new_line_4: 'company
-
-  olive
-
-  spring
-
-  human'
-bip_39_word_new_line_5: 'company
-
-  olive
-
-  spring
-
-  human
-
-  draft'
-bip_39_word_new_line_6: 'company
-
-  olive
-
-  spring
-
-  human
-
-  draft
-
-  stay'
-bip_39_word_new_line_7: 'company
-
-  olive
-
-  spring
-
-  human
-
-  draft
-
-  stay
-
-  gun'
-bip_39_word_new_line_8: 'company
-
-  olive
-
-  spring
-
-  human
-
-  draft
-
-  stay
-
-  gun
-
-  also'
-bip_39_word_new_line_9: 'company
-
-  olive
-
-  spring
-
-  human
-
-  draft
-
-  stay
-
-  gun
-
-  also
-
-  rebuild'
-bip_39_word_no_space_1: company
-bip_39_word_no_space_10: companyolivespringhumandraftstaygunalsorebuildowner
-bip_39_word_no_space_11: companyolivespringhumandraftstaygunalsorebuildownerfound
 bip_39_word_no_space_12: companyolivespringhumandraftstaygunalsorebuildownerfoundagree
 bip_39_word_no_space_2: companyolive
 bip_39_word_no_space_3: companyolivespring
-bip_39_word_no_space_4: companyolivespringhuman
-bip_39_word_no_space_5: companyolivespringhumandraft
-bip_39_word_no_space_6: companyolivespringhumandraftstay
-bip_39_word_no_space_7: companyolivespringhumandraftstaygun
-bip_39_word_no_space_8: companyolivespringhumandraftstaygunalso
-bip_39_word_no_space_9: companyolivespringhumandraftstaygunalsorebuild
-bip_39_word_space_0:
-- company
-- olive
-- spring
-- human
-- draft
-- stay
-- gun
-- also
-- rebuild
-- owner
-- found
-- agree
-bip_39_word_space_1: company
-bip_39_word_space_10: company olive spring human draft stay gun also rebuild owner
-bip_39_word_space_11: company olive spring human draft stay gun also rebuild owner
-  found
 bip_39_word_space_12: company olive spring human draft stay gun also rebuild owner
   found agree
 bip_39_word_space_2: company olive
 bip_39_word_space_3: company olive spring
-bip_39_word_space_4: company olive spring human
-bip_39_word_space_5: company olive spring human draft
-bip_39_word_space_6: company olive spring human draft stay
-bip_39_word_space_7: company olive spring human draft stay gun
-bip_39_word_space_8: company olive spring human draft stay gun also
-bip_39_word_space_9: company olive spring human draft stay gun also rebuild
-bip_39_word_underscore_1: company
-bip_39_word_underscore_10: company_olive_spring_human_draft_stay_gun_also_rebuild_owner
-bip_39_word_underscore_11: company_olive_spring_human_draft_stay_gun_also_rebuild_owner_found
 bip_39_word_underscore_12: company_olive_spring_human_draft_stay_gun_also_rebuild_owner_found_agree
 bip_39_word_underscore_2: company_olive
 bip_39_word_underscore_3: company_olive_spring
-bip_39_word_underscore_4: company_olive_spring_human
-bip_39_word_underscore_5: company_olive_spring_human_draft
-bip_39_word_underscore_6: company_olive_spring_human_draft_stay
-bip_39_word_underscore_7: company_olive_spring_human_draft_stay_gun
-bip_39_word_underscore_8: company_olive_spring_human_draft_stay_gun_also
-bip_39_word_underscore_9: company_olive_spring_human_draft_stay_gun_also_rebuild
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

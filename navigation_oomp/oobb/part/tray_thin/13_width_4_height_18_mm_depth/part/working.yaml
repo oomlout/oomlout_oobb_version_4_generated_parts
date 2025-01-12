@@ -1,68 +1,9 @@
-bip_39_word_dash_1: pen
-bip_39_word_dash_10: pen-sea-unhappy-fox-jaguar-rely-gloom-pistol-salad-still
-bip_39_word_dash_11: pen-sea-unhappy-fox-jaguar-rely-gloom-pistol-salad-still-dismiss
 bip_39_word_dash_12: pen-sea-unhappy-fox-jaguar-rely-gloom-pistol-salad-still-dismiss-answer
 bip_39_word_dash_2: pen-sea
 bip_39_word_dash_3: pen-sea-unhappy
-bip_39_word_dash_4: pen-sea-unhappy-fox
-bip_39_word_dash_5: pen-sea-unhappy-fox-jaguar
-bip_39_word_dash_6: pen-sea-unhappy-fox-jaguar-rely
-bip_39_word_dash_7: pen-sea-unhappy-fox-jaguar-rely-gloom
-bip_39_word_dash_8: pen-sea-unhappy-fox-jaguar-rely-gloom-pistol
-bip_39_word_dash_9: pen-sea-unhappy-fox-jaguar-rely-gloom-pistol-salad
-bip_39_word_new_br_1: pen
-bip_39_word_new_br_10: pen<br>sea<br>unhappy<br>fox<br>jaguar<br>rely<br>gloom<br>pistol<br>salad<br>still
-bip_39_word_new_br_11: pen<br>sea<br>unhappy<br>fox<br>jaguar<br>rely<br>gloom<br>pistol<br>salad<br>still<br>dismiss
 bip_39_word_new_br_12: pen<br>sea<br>unhappy<br>fox<br>jaguar<br>rely<br>gloom<br>pistol<br>salad<br>still<br>dismiss<br>answer
 bip_39_word_new_br_2: pen<br>sea
 bip_39_word_new_br_3: pen<br>sea<br>unhappy
-bip_39_word_new_br_4: pen<br>sea<br>unhappy<br>fox
-bip_39_word_new_br_5: pen<br>sea<br>unhappy<br>fox<br>jaguar
-bip_39_word_new_br_6: pen<br>sea<br>unhappy<br>fox<br>jaguar<br>rely
-bip_39_word_new_br_7: pen<br>sea<br>unhappy<br>fox<br>jaguar<br>rely<br>gloom
-bip_39_word_new_br_8: pen<br>sea<br>unhappy<br>fox<br>jaguar<br>rely<br>gloom<br>pistol
-bip_39_word_new_br_9: pen<br>sea<br>unhappy<br>fox<br>jaguar<br>rely<br>gloom<br>pistol<br>salad
-bip_39_word_new_line_1: pen
-bip_39_word_new_line_10: 'pen
-
-  sea
-
-  unhappy
-
-  fox
-
-  jaguar
-
-  rely
-
-  gloom
-
-  pistol
-
-  salad
-
-  still'
-bip_39_word_new_line_11: 'pen
-
-  sea
-
-  unhappy
-
-  fox
-
-  jaguar
-
-  rely
-
-  gloom
-
-  pistol
-
-  salad
-
-  still
-
-  dismiss'
 bip_39_word_new_line_12: 'pen
 
   sea
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'pen
   sea
 
   unhappy'
-bip_39_word_new_line_4: 'pen
-
-  sea
-
-  unhappy
-
-  fox'
-bip_39_word_new_line_5: 'pen
-
-  sea
-
-  unhappy
-
-  fox
-
-  jaguar'
-bip_39_word_new_line_6: 'pen
-
-  sea
-
-  unhappy
-
-  fox
-
-  jaguar
-
-  rely'
-bip_39_word_new_line_7: 'pen
-
-  sea
-
-  unhappy
-
-  fox
-
-  jaguar
-
-  rely
-
-  gloom'
-bip_39_word_new_line_8: 'pen
-
-  sea
-
-  unhappy
-
-  fox
-
-  jaguar
-
-  rely
-
-  gloom
-
-  pistol'
-bip_39_word_new_line_9: 'pen
-
-  sea
-
-  unhappy
-
-  fox
-
-  jaguar
-
-  rely
-
-  gloom
-
-  pistol
-
-  salad'
-bip_39_word_no_space_1: pen
-bip_39_word_no_space_10: penseaunhappyfoxjaguarrelygloompistolsaladstill
-bip_39_word_no_space_11: penseaunhappyfoxjaguarrelygloompistolsaladstilldismiss
 bip_39_word_no_space_12: penseaunhappyfoxjaguarrelygloompistolsaladstilldismissanswer
 bip_39_word_no_space_2: pensea
 bip_39_word_no_space_3: penseaunhappy
-bip_39_word_no_space_4: penseaunhappyfox
-bip_39_word_no_space_5: penseaunhappyfoxjaguar
-bip_39_word_no_space_6: penseaunhappyfoxjaguarrely
-bip_39_word_no_space_7: penseaunhappyfoxjaguarrelygloom
-bip_39_word_no_space_8: penseaunhappyfoxjaguarrelygloompistol
-bip_39_word_no_space_9: penseaunhappyfoxjaguarrelygloompistolsalad
-bip_39_word_space_0:
-- pen
-- sea
-- unhappy
-- fox
-- jaguar
-- rely
-- gloom
-- pistol
-- salad
-- still
-- dismiss
-- answer
-bip_39_word_space_1: pen
-bip_39_word_space_10: pen sea unhappy fox jaguar rely gloom pistol salad still
-bip_39_word_space_11: pen sea unhappy fox jaguar rely gloom pistol salad still dismiss
 bip_39_word_space_12: pen sea unhappy fox jaguar rely gloom pistol salad still dismiss
   answer
 bip_39_word_space_2: pen sea
 bip_39_word_space_3: pen sea unhappy
-bip_39_word_space_4: pen sea unhappy fox
-bip_39_word_space_5: pen sea unhappy fox jaguar
-bip_39_word_space_6: pen sea unhappy fox jaguar rely
-bip_39_word_space_7: pen sea unhappy fox jaguar rely gloom
-bip_39_word_space_8: pen sea unhappy fox jaguar rely gloom pistol
-bip_39_word_space_9: pen sea unhappy fox jaguar rely gloom pistol salad
-bip_39_word_underscore_1: pen
-bip_39_word_underscore_10: pen_sea_unhappy_fox_jaguar_rely_gloom_pistol_salad_still
-bip_39_word_underscore_11: pen_sea_unhappy_fox_jaguar_rely_gloom_pistol_salad_still_dismiss
 bip_39_word_underscore_12: pen_sea_unhappy_fox_jaguar_rely_gloom_pistol_salad_still_dismiss_answer
 bip_39_word_underscore_2: pen_sea
 bip_39_word_underscore_3: pen_sea_unhappy
-bip_39_word_underscore_4: pen_sea_unhappy_fox
-bip_39_word_underscore_5: pen_sea_unhappy_fox_jaguar
-bip_39_word_underscore_6: pen_sea_unhappy_fox_jaguar_rely
-bip_39_word_underscore_7: pen_sea_unhappy_fox_jaguar_rely_gloom
-bip_39_word_underscore_8: pen_sea_unhappy_fox_jaguar_rely_gloom_pistol
-bip_39_word_underscore_9: pen_sea_unhappy_fox_jaguar_rely_gloom_pistol_salad
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

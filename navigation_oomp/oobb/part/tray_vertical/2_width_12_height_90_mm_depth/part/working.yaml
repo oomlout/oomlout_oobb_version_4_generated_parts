@@ -1,68 +1,9 @@
-bip_39_word_dash_1: extra
-bip_39_word_dash_10: extra-soup-invite-zebra-pistol-scan-exhaust-other-debris-harbor
-bip_39_word_dash_11: extra-soup-invite-zebra-pistol-scan-exhaust-other-debris-harbor-capable
 bip_39_word_dash_12: extra-soup-invite-zebra-pistol-scan-exhaust-other-debris-harbor-capable-any
 bip_39_word_dash_2: extra-soup
 bip_39_word_dash_3: extra-soup-invite
-bip_39_word_dash_4: extra-soup-invite-zebra
-bip_39_word_dash_5: extra-soup-invite-zebra-pistol
-bip_39_word_dash_6: extra-soup-invite-zebra-pistol-scan
-bip_39_word_dash_7: extra-soup-invite-zebra-pistol-scan-exhaust
-bip_39_word_dash_8: extra-soup-invite-zebra-pistol-scan-exhaust-other
-bip_39_word_dash_9: extra-soup-invite-zebra-pistol-scan-exhaust-other-debris
-bip_39_word_new_br_1: extra
-bip_39_word_new_br_10: extra<br>soup<br>invite<br>zebra<br>pistol<br>scan<br>exhaust<br>other<br>debris<br>harbor
-bip_39_word_new_br_11: extra<br>soup<br>invite<br>zebra<br>pistol<br>scan<br>exhaust<br>other<br>debris<br>harbor<br>capable
 bip_39_word_new_br_12: extra<br>soup<br>invite<br>zebra<br>pistol<br>scan<br>exhaust<br>other<br>debris<br>harbor<br>capable<br>any
 bip_39_word_new_br_2: extra<br>soup
 bip_39_word_new_br_3: extra<br>soup<br>invite
-bip_39_word_new_br_4: extra<br>soup<br>invite<br>zebra
-bip_39_word_new_br_5: extra<br>soup<br>invite<br>zebra<br>pistol
-bip_39_word_new_br_6: extra<br>soup<br>invite<br>zebra<br>pistol<br>scan
-bip_39_word_new_br_7: extra<br>soup<br>invite<br>zebra<br>pistol<br>scan<br>exhaust
-bip_39_word_new_br_8: extra<br>soup<br>invite<br>zebra<br>pistol<br>scan<br>exhaust<br>other
-bip_39_word_new_br_9: extra<br>soup<br>invite<br>zebra<br>pistol<br>scan<br>exhaust<br>other<br>debris
-bip_39_word_new_line_1: extra
-bip_39_word_new_line_10: 'extra
-
-  soup
-
-  invite
-
-  zebra
-
-  pistol
-
-  scan
-
-  exhaust
-
-  other
-
-  debris
-
-  harbor'
-bip_39_word_new_line_11: 'extra
-
-  soup
-
-  invite
-
-  zebra
-
-  pistol
-
-  scan
-
-  exhaust
-
-  other
-
-  debris
-
-  harbor
-
-  capable'
 bip_39_word_new_line_12: 'extra
 
   soup
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'extra
   soup
 
   invite'
-bip_39_word_new_line_4: 'extra
-
-  soup
-
-  invite
-
-  zebra'
-bip_39_word_new_line_5: 'extra
-
-  soup
-
-  invite
-
-  zebra
-
-  pistol'
-bip_39_word_new_line_6: 'extra
-
-  soup
-
-  invite
-
-  zebra
-
-  pistol
-
-  scan'
-bip_39_word_new_line_7: 'extra
-
-  soup
-
-  invite
-
-  zebra
-
-  pistol
-
-  scan
-
-  exhaust'
-bip_39_word_new_line_8: 'extra
-
-  soup
-
-  invite
-
-  zebra
-
-  pistol
-
-  scan
-
-  exhaust
-
-  other'
-bip_39_word_new_line_9: 'extra
-
-  soup
-
-  invite
-
-  zebra
-
-  pistol
-
-  scan
-
-  exhaust
-
-  other
-
-  debris'
-bip_39_word_no_space_1: extra
-bip_39_word_no_space_10: extrasoupinvitezebrapistolscanexhaustotherdebrisharbor
-bip_39_word_no_space_11: extrasoupinvitezebrapistolscanexhaustotherdebrisharborcapable
 bip_39_word_no_space_12: extrasoupinvitezebrapistolscanexhaustotherdebrisharborcapableany
 bip_39_word_no_space_2: extrasoup
 bip_39_word_no_space_3: extrasoupinvite
-bip_39_word_no_space_4: extrasoupinvitezebra
-bip_39_word_no_space_5: extrasoupinvitezebrapistol
-bip_39_word_no_space_6: extrasoupinvitezebrapistolscan
-bip_39_word_no_space_7: extrasoupinvitezebrapistolscanexhaust
-bip_39_word_no_space_8: extrasoupinvitezebrapistolscanexhaustother
-bip_39_word_no_space_9: extrasoupinvitezebrapistolscanexhaustotherdebris
-bip_39_word_space_0:
-- extra
-- soup
-- invite
-- zebra
-- pistol
-- scan
-- exhaust
-- other
-- debris
-- harbor
-- capable
-- any
-bip_39_word_space_1: extra
-bip_39_word_space_10: extra soup invite zebra pistol scan exhaust other debris harbor
-bip_39_word_space_11: extra soup invite zebra pistol scan exhaust other debris harbor
-  capable
 bip_39_word_space_12: extra soup invite zebra pistol scan exhaust other debris harbor
   capable any
 bip_39_word_space_2: extra soup
 bip_39_word_space_3: extra soup invite
-bip_39_word_space_4: extra soup invite zebra
-bip_39_word_space_5: extra soup invite zebra pistol
-bip_39_word_space_6: extra soup invite zebra pistol scan
-bip_39_word_space_7: extra soup invite zebra pistol scan exhaust
-bip_39_word_space_8: extra soup invite zebra pistol scan exhaust other
-bip_39_word_space_9: extra soup invite zebra pistol scan exhaust other debris
-bip_39_word_underscore_1: extra
-bip_39_word_underscore_10: extra_soup_invite_zebra_pistol_scan_exhaust_other_debris_harbor
-bip_39_word_underscore_11: extra_soup_invite_zebra_pistol_scan_exhaust_other_debris_harbor_capable
 bip_39_word_underscore_12: extra_soup_invite_zebra_pistol_scan_exhaust_other_debris_harbor_capable_any
 bip_39_word_underscore_2: extra_soup
 bip_39_word_underscore_3: extra_soup_invite
-bip_39_word_underscore_4: extra_soup_invite_zebra
-bip_39_word_underscore_5: extra_soup_invite_zebra_pistol
-bip_39_word_underscore_6: extra_soup_invite_zebra_pistol_scan
-bip_39_word_underscore_7: extra_soup_invite_zebra_pistol_scan_exhaust
-bip_39_word_underscore_8: extra_soup_invite_zebra_pistol_scan_exhaust_other
-bip_39_word_underscore_9: extra_soup_invite_zebra_pistol_scan_exhaust_other_debris
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

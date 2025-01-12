@@ -1,45 +1,9 @@
-bip_39_word_dash_1: include
-bip_39_word_dash_10: include-plate-answer-frame-cousin-zero-afford-position-palm-brief
 bip_39_word_dash_11: include-plate-answer-frame-cousin-zero-afford-position-palm-brief-loan
 bip_39_word_dash_2: include-plate
 bip_39_word_dash_3: include-plate-answer
-bip_39_word_dash_4: include-plate-answer-frame
-bip_39_word_dash_5: include-plate-answer-frame-cousin
-bip_39_word_dash_6: include-plate-answer-frame-cousin-zero
-bip_39_word_dash_7: include-plate-answer-frame-cousin-zero-afford
-bip_39_word_dash_8: include-plate-answer-frame-cousin-zero-afford-position
-bip_39_word_dash_9: include-plate-answer-frame-cousin-zero-afford-position-palm
-bip_39_word_new_br_1: include
-bip_39_word_new_br_10: include<br>plate<br>answer<br>frame<br>cousin<br>zero<br>afford<br>position<br>palm<br>brief
 bip_39_word_new_br_11: include<br>plate<br>answer<br>frame<br>cousin<br>zero<br>afford<br>position<br>palm<br>brief<br>loan
 bip_39_word_new_br_2: include<br>plate
 bip_39_word_new_br_3: include<br>plate<br>answer
-bip_39_word_new_br_4: include<br>plate<br>answer<br>frame
-bip_39_word_new_br_5: include<br>plate<br>answer<br>frame<br>cousin
-bip_39_word_new_br_6: include<br>plate<br>answer<br>frame<br>cousin<br>zero
-bip_39_word_new_br_7: include<br>plate<br>answer<br>frame<br>cousin<br>zero<br>afford
-bip_39_word_new_br_8: include<br>plate<br>answer<br>frame<br>cousin<br>zero<br>afford<br>position
-bip_39_word_new_br_9: include<br>plate<br>answer<br>frame<br>cousin<br>zero<br>afford<br>position<br>palm
-bip_39_word_new_line_1: include
-bip_39_word_new_line_10: 'include
-
-  plate
-
-  answer
-
-  frame
-
-  cousin
-
-  zero
-
-  afford
-
-  position
-
-  palm
-
-  brief'
 bip_39_word_new_line_11: 'include
 
   plate
@@ -69,125 +33,16 @@ bip_39_word_new_line_3: 'include
   plate
 
   answer'
-bip_39_word_new_line_4: 'include
-
-  plate
-
-  answer
-
-  frame'
-bip_39_word_new_line_5: 'include
-
-  plate
-
-  answer
-
-  frame
-
-  cousin'
-bip_39_word_new_line_6: 'include
-
-  plate
-
-  answer
-
-  frame
-
-  cousin
-
-  zero'
-bip_39_word_new_line_7: 'include
-
-  plate
-
-  answer
-
-  frame
-
-  cousin
-
-  zero
-
-  afford'
-bip_39_word_new_line_8: 'include
-
-  plate
-
-  answer
-
-  frame
-
-  cousin
-
-  zero
-
-  afford
-
-  position'
-bip_39_word_new_line_9: 'include
-
-  plate
-
-  answer
-
-  frame
-
-  cousin
-
-  zero
-
-  afford
-
-  position
-
-  palm'
-bip_39_word_no_space_1: include
-bip_39_word_no_space_10: includeplateanswerframecousinzeroaffordpositionpalmbrief
 bip_39_word_no_space_11: includeplateanswerframecousinzeroaffordpositionpalmbriefloan
 bip_39_word_no_space_2: includeplate
 bip_39_word_no_space_3: includeplateanswer
-bip_39_word_no_space_4: includeplateanswerframe
-bip_39_word_no_space_5: includeplateanswerframecousin
-bip_39_word_no_space_6: includeplateanswerframecousinzero
-bip_39_word_no_space_7: includeplateanswerframecousinzeroafford
-bip_39_word_no_space_8: includeplateanswerframecousinzeroaffordposition
-bip_39_word_no_space_9: includeplateanswerframecousinzeroaffordpositionpalm
-bip_39_word_space_0:
-- include
-- plate
-- answer
-- frame
-- cousin
-- zero
-- afford
-- position
-- palm
-- brief
-- loan
-bip_39_word_space_1: include
-bip_39_word_space_10: include plate answer frame cousin zero afford position palm
-  brief
 bip_39_word_space_11: include plate answer frame cousin zero afford position palm
   brief loan
 bip_39_word_space_2: include plate
 bip_39_word_space_3: include plate answer
-bip_39_word_space_4: include plate answer frame
-bip_39_word_space_5: include plate answer frame cousin
-bip_39_word_space_6: include plate answer frame cousin zero
-bip_39_word_space_7: include plate answer frame cousin zero afford
-bip_39_word_space_8: include plate answer frame cousin zero afford position
-bip_39_word_space_9: include plate answer frame cousin zero afford position palm
-bip_39_word_underscore_1: include
-bip_39_word_underscore_10: include_plate_answer_frame_cousin_zero_afford_position_palm_brief
 bip_39_word_underscore_11: include_plate_answer_frame_cousin_zero_afford_position_palm_brief_loan
 bip_39_word_underscore_2: include_plate
 bip_39_word_underscore_3: include_plate_answer
-bip_39_word_underscore_4: include_plate_answer_frame
-bip_39_word_underscore_5: include_plate_answer_frame_cousin
-bip_39_word_underscore_6: include_plate_answer_frame_cousin_zero
-bip_39_word_underscore_7: include_plate_answer_frame_cousin_zero_afford
-bip_39_word_underscore_8: include_plate_answer_frame_cousin_zero_afford_position
-bip_39_word_underscore_9: include_plate_answer_frame_cousin_zero_afford_position_palm
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

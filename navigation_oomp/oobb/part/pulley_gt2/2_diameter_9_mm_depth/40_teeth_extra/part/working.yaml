@@ -1,68 +1,9 @@
-bip_39_word_dash_1: silk
-bip_39_word_dash_10: silk-tiger-glory-vivid-corn-orbit-echo-help-control-cash
-bip_39_word_dash_11: silk-tiger-glory-vivid-corn-orbit-echo-help-control-cash-uniform
 bip_39_word_dash_12: silk-tiger-glory-vivid-corn-orbit-echo-help-control-cash-uniform-adult
 bip_39_word_dash_2: silk-tiger
 bip_39_word_dash_3: silk-tiger-glory
-bip_39_word_dash_4: silk-tiger-glory-vivid
-bip_39_word_dash_5: silk-tiger-glory-vivid-corn
-bip_39_word_dash_6: silk-tiger-glory-vivid-corn-orbit
-bip_39_word_dash_7: silk-tiger-glory-vivid-corn-orbit-echo
-bip_39_word_dash_8: silk-tiger-glory-vivid-corn-orbit-echo-help
-bip_39_word_dash_9: silk-tiger-glory-vivid-corn-orbit-echo-help-control
-bip_39_word_new_br_1: silk
-bip_39_word_new_br_10: silk<br>tiger<br>glory<br>vivid<br>corn<br>orbit<br>echo<br>help<br>control<br>cash
-bip_39_word_new_br_11: silk<br>tiger<br>glory<br>vivid<br>corn<br>orbit<br>echo<br>help<br>control<br>cash<br>uniform
 bip_39_word_new_br_12: silk<br>tiger<br>glory<br>vivid<br>corn<br>orbit<br>echo<br>help<br>control<br>cash<br>uniform<br>adult
 bip_39_word_new_br_2: silk<br>tiger
 bip_39_word_new_br_3: silk<br>tiger<br>glory
-bip_39_word_new_br_4: silk<br>tiger<br>glory<br>vivid
-bip_39_word_new_br_5: silk<br>tiger<br>glory<br>vivid<br>corn
-bip_39_word_new_br_6: silk<br>tiger<br>glory<br>vivid<br>corn<br>orbit
-bip_39_word_new_br_7: silk<br>tiger<br>glory<br>vivid<br>corn<br>orbit<br>echo
-bip_39_word_new_br_8: silk<br>tiger<br>glory<br>vivid<br>corn<br>orbit<br>echo<br>help
-bip_39_word_new_br_9: silk<br>tiger<br>glory<br>vivid<br>corn<br>orbit<br>echo<br>help<br>control
-bip_39_word_new_line_1: silk
-bip_39_word_new_line_10: 'silk
-
-  tiger
-
-  glory
-
-  vivid
-
-  corn
-
-  orbit
-
-  echo
-
-  help
-
-  control
-
-  cash'
-bip_39_word_new_line_11: 'silk
-
-  tiger
-
-  glory
-
-  vivid
-
-  corn
-
-  orbit
-
-  echo
-
-  help
-
-  control
-
-  cash
-
-  uniform'
 bip_39_word_new_line_12: 'silk
 
   tiger
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'silk
   tiger
 
   glory'
-bip_39_word_new_line_4: 'silk
-
-  tiger
-
-  glory
-
-  vivid'
-bip_39_word_new_line_5: 'silk
-
-  tiger
-
-  glory
-
-  vivid
-
-  corn'
-bip_39_word_new_line_6: 'silk
-
-  tiger
-
-  glory
-
-  vivid
-
-  corn
-
-  orbit'
-bip_39_word_new_line_7: 'silk
-
-  tiger
-
-  glory
-
-  vivid
-
-  corn
-
-  orbit
-
-  echo'
-bip_39_word_new_line_8: 'silk
-
-  tiger
-
-  glory
-
-  vivid
-
-  corn
-
-  orbit
-
-  echo
-
-  help'
-bip_39_word_new_line_9: 'silk
-
-  tiger
-
-  glory
-
-  vivid
-
-  corn
-
-  orbit
-
-  echo
-
-  help
-
-  control'
-bip_39_word_no_space_1: silk
-bip_39_word_no_space_10: silktigergloryvividcornorbitechohelpcontrolcash
-bip_39_word_no_space_11: silktigergloryvividcornorbitechohelpcontrolcashuniform
 bip_39_word_no_space_12: silktigergloryvividcornorbitechohelpcontrolcashuniformadult
 bip_39_word_no_space_2: silktiger
 bip_39_word_no_space_3: silktigerglory
-bip_39_word_no_space_4: silktigergloryvivid
-bip_39_word_no_space_5: silktigergloryvividcorn
-bip_39_word_no_space_6: silktigergloryvividcornorbit
-bip_39_word_no_space_7: silktigergloryvividcornorbitecho
-bip_39_word_no_space_8: silktigergloryvividcornorbitechohelp
-bip_39_word_no_space_9: silktigergloryvividcornorbitechohelpcontrol
-bip_39_word_space_0:
-- silk
-- tiger
-- glory
-- vivid
-- corn
-- orbit
-- echo
-- help
-- control
-- cash
-- uniform
-- adult
-bip_39_word_space_1: silk
-bip_39_word_space_10: silk tiger glory vivid corn orbit echo help control cash
-bip_39_word_space_11: silk tiger glory vivid corn orbit echo help control cash uniform
 bip_39_word_space_12: silk tiger glory vivid corn orbit echo help control cash uniform
   adult
 bip_39_word_space_2: silk tiger
 bip_39_word_space_3: silk tiger glory
-bip_39_word_space_4: silk tiger glory vivid
-bip_39_word_space_5: silk tiger glory vivid corn
-bip_39_word_space_6: silk tiger glory vivid corn orbit
-bip_39_word_space_7: silk tiger glory vivid corn orbit echo
-bip_39_word_space_8: silk tiger glory vivid corn orbit echo help
-bip_39_word_space_9: silk tiger glory vivid corn orbit echo help control
-bip_39_word_underscore_1: silk
-bip_39_word_underscore_10: silk_tiger_glory_vivid_corn_orbit_echo_help_control_cash
-bip_39_word_underscore_11: silk_tiger_glory_vivid_corn_orbit_echo_help_control_cash_uniform
 bip_39_word_underscore_12: silk_tiger_glory_vivid_corn_orbit_echo_help_control_cash_uniform_adult
 bip_39_word_underscore_2: silk_tiger
 bip_39_word_underscore_3: silk_tiger_glory
-bip_39_word_underscore_4: silk_tiger_glory_vivid
-bip_39_word_underscore_5: silk_tiger_glory_vivid_corn
-bip_39_word_underscore_6: silk_tiger_glory_vivid_corn_orbit
-bip_39_word_underscore_7: silk_tiger_glory_vivid_corn_orbit_echo
-bip_39_word_underscore_8: silk_tiger_glory_vivid_corn_orbit_echo_help
-bip_39_word_underscore_9: silk_tiger_glory_vivid_corn_orbit_echo_help_control
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

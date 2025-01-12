@@ -1,68 +1,9 @@
-bip_39_word_dash_1: food
-bip_39_word_dash_10: food-glad-apple-noodle-fitness-economy-shiver-judge-giraffe-outdoor
-bip_39_word_dash_11: food-glad-apple-noodle-fitness-economy-shiver-judge-giraffe-outdoor-harsh
 bip_39_word_dash_12: food-glad-apple-noodle-fitness-economy-shiver-judge-giraffe-outdoor-harsh-add
 bip_39_word_dash_2: food-glad
 bip_39_word_dash_3: food-glad-apple
-bip_39_word_dash_4: food-glad-apple-noodle
-bip_39_word_dash_5: food-glad-apple-noodle-fitness
-bip_39_word_dash_6: food-glad-apple-noodle-fitness-economy
-bip_39_word_dash_7: food-glad-apple-noodle-fitness-economy-shiver
-bip_39_word_dash_8: food-glad-apple-noodle-fitness-economy-shiver-judge
-bip_39_word_dash_9: food-glad-apple-noodle-fitness-economy-shiver-judge-giraffe
-bip_39_word_new_br_1: food
-bip_39_word_new_br_10: food<br>glad<br>apple<br>noodle<br>fitness<br>economy<br>shiver<br>judge<br>giraffe<br>outdoor
-bip_39_word_new_br_11: food<br>glad<br>apple<br>noodle<br>fitness<br>economy<br>shiver<br>judge<br>giraffe<br>outdoor<br>harsh
 bip_39_word_new_br_12: food<br>glad<br>apple<br>noodle<br>fitness<br>economy<br>shiver<br>judge<br>giraffe<br>outdoor<br>harsh<br>add
 bip_39_word_new_br_2: food<br>glad
 bip_39_word_new_br_3: food<br>glad<br>apple
-bip_39_word_new_br_4: food<br>glad<br>apple<br>noodle
-bip_39_word_new_br_5: food<br>glad<br>apple<br>noodle<br>fitness
-bip_39_word_new_br_6: food<br>glad<br>apple<br>noodle<br>fitness<br>economy
-bip_39_word_new_br_7: food<br>glad<br>apple<br>noodle<br>fitness<br>economy<br>shiver
-bip_39_word_new_br_8: food<br>glad<br>apple<br>noodle<br>fitness<br>economy<br>shiver<br>judge
-bip_39_word_new_br_9: food<br>glad<br>apple<br>noodle<br>fitness<br>economy<br>shiver<br>judge<br>giraffe
-bip_39_word_new_line_1: food
-bip_39_word_new_line_10: 'food
-
-  glad
-
-  apple
-
-  noodle
-
-  fitness
-
-  economy
-
-  shiver
-
-  judge
-
-  giraffe
-
-  outdoor'
-bip_39_word_new_line_11: 'food
-
-  glad
-
-  apple
-
-  noodle
-
-  fitness
-
-  economy
-
-  shiver
-
-  judge
-
-  giraffe
-
-  outdoor
-
-  harsh'
 bip_39_word_new_line_12: 'food
 
   glad
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'food
   glad
 
   apple'
-bip_39_word_new_line_4: 'food
-
-  glad
-
-  apple
-
-  noodle'
-bip_39_word_new_line_5: 'food
-
-  glad
-
-  apple
-
-  noodle
-
-  fitness'
-bip_39_word_new_line_6: 'food
-
-  glad
-
-  apple
-
-  noodle
-
-  fitness
-
-  economy'
-bip_39_word_new_line_7: 'food
-
-  glad
-
-  apple
-
-  noodle
-
-  fitness
-
-  economy
-
-  shiver'
-bip_39_word_new_line_8: 'food
-
-  glad
-
-  apple
-
-  noodle
-
-  fitness
-
-  economy
-
-  shiver
-
-  judge'
-bip_39_word_new_line_9: 'food
-
-  glad
-
-  apple
-
-  noodle
-
-  fitness
-
-  economy
-
-  shiver
-
-  judge
-
-  giraffe'
-bip_39_word_no_space_1: food
-bip_39_word_no_space_10: foodgladapplenoodlefitnesseconomyshiverjudgegiraffeoutdoor
-bip_39_word_no_space_11: foodgladapplenoodlefitnesseconomyshiverjudgegiraffeoutdoorharsh
 bip_39_word_no_space_12: foodgladapplenoodlefitnesseconomyshiverjudgegiraffeoutdoorharshadd
 bip_39_word_no_space_2: foodglad
 bip_39_word_no_space_3: foodgladapple
-bip_39_word_no_space_4: foodgladapplenoodle
-bip_39_word_no_space_5: foodgladapplenoodlefitness
-bip_39_word_no_space_6: foodgladapplenoodlefitnesseconomy
-bip_39_word_no_space_7: foodgladapplenoodlefitnesseconomyshiver
-bip_39_word_no_space_8: foodgladapplenoodlefitnesseconomyshiverjudge
-bip_39_word_no_space_9: foodgladapplenoodlefitnesseconomyshiverjudgegiraffe
-bip_39_word_space_0:
-- food
-- glad
-- apple
-- noodle
-- fitness
-- economy
-- shiver
-- judge
-- giraffe
-- outdoor
-- harsh
-- add
-bip_39_word_space_1: food
-bip_39_word_space_10: food glad apple noodle fitness economy shiver judge giraffe
-  outdoor
-bip_39_word_space_11: food glad apple noodle fitness economy shiver judge giraffe
-  outdoor harsh
 bip_39_word_space_12: food glad apple noodle fitness economy shiver judge giraffe
   outdoor harsh add
 bip_39_word_space_2: food glad
 bip_39_word_space_3: food glad apple
-bip_39_word_space_4: food glad apple noodle
-bip_39_word_space_5: food glad apple noodle fitness
-bip_39_word_space_6: food glad apple noodle fitness economy
-bip_39_word_space_7: food glad apple noodle fitness economy shiver
-bip_39_word_space_8: food glad apple noodle fitness economy shiver judge
-bip_39_word_space_9: food glad apple noodle fitness economy shiver judge giraffe
-bip_39_word_underscore_1: food
-bip_39_word_underscore_10: food_glad_apple_noodle_fitness_economy_shiver_judge_giraffe_outdoor
-bip_39_word_underscore_11: food_glad_apple_noodle_fitness_economy_shiver_judge_giraffe_outdoor_harsh
 bip_39_word_underscore_12: food_glad_apple_noodle_fitness_economy_shiver_judge_giraffe_outdoor_harsh_add
 bip_39_word_underscore_2: food_glad
 bip_39_word_underscore_3: food_glad_apple
-bip_39_word_underscore_4: food_glad_apple_noodle
-bip_39_word_underscore_5: food_glad_apple_noodle_fitness
-bip_39_word_underscore_6: food_glad_apple_noodle_fitness_economy
-bip_39_word_underscore_7: food_glad_apple_noodle_fitness_economy_shiver
-bip_39_word_underscore_8: food_glad_apple_noodle_fitness_economy_shiver_judge
-bip_39_word_underscore_9: food_glad_apple_noodle_fitness_economy_shiver_judge_giraffe
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

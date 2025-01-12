@@ -1,68 +1,9 @@
-bip_39_word_dash_1: flat
-bip_39_word_dash_10: flat-vicious-seat-rather-steak-exact-muffin-local-address-curtain
-bip_39_word_dash_11: flat-vicious-seat-rather-steak-exact-muffin-local-address-curtain-medal
 bip_39_word_dash_12: flat-vicious-seat-rather-steak-exact-muffin-local-address-curtain-medal-aspect
 bip_39_word_dash_2: flat-vicious
 bip_39_word_dash_3: flat-vicious-seat
-bip_39_word_dash_4: flat-vicious-seat-rather
-bip_39_word_dash_5: flat-vicious-seat-rather-steak
-bip_39_word_dash_6: flat-vicious-seat-rather-steak-exact
-bip_39_word_dash_7: flat-vicious-seat-rather-steak-exact-muffin
-bip_39_word_dash_8: flat-vicious-seat-rather-steak-exact-muffin-local
-bip_39_word_dash_9: flat-vicious-seat-rather-steak-exact-muffin-local-address
-bip_39_word_new_br_1: flat
-bip_39_word_new_br_10: flat<br>vicious<br>seat<br>rather<br>steak<br>exact<br>muffin<br>local<br>address<br>curtain
-bip_39_word_new_br_11: flat<br>vicious<br>seat<br>rather<br>steak<br>exact<br>muffin<br>local<br>address<br>curtain<br>medal
 bip_39_word_new_br_12: flat<br>vicious<br>seat<br>rather<br>steak<br>exact<br>muffin<br>local<br>address<br>curtain<br>medal<br>aspect
 bip_39_word_new_br_2: flat<br>vicious
 bip_39_word_new_br_3: flat<br>vicious<br>seat
-bip_39_word_new_br_4: flat<br>vicious<br>seat<br>rather
-bip_39_word_new_br_5: flat<br>vicious<br>seat<br>rather<br>steak
-bip_39_word_new_br_6: flat<br>vicious<br>seat<br>rather<br>steak<br>exact
-bip_39_word_new_br_7: flat<br>vicious<br>seat<br>rather<br>steak<br>exact<br>muffin
-bip_39_word_new_br_8: flat<br>vicious<br>seat<br>rather<br>steak<br>exact<br>muffin<br>local
-bip_39_word_new_br_9: flat<br>vicious<br>seat<br>rather<br>steak<br>exact<br>muffin<br>local<br>address
-bip_39_word_new_line_1: flat
-bip_39_word_new_line_10: 'flat
-
-  vicious
-
-  seat
-
-  rather
-
-  steak
-
-  exact
-
-  muffin
-
-  local
-
-  address
-
-  curtain'
-bip_39_word_new_line_11: 'flat
-
-  vicious
-
-  seat
-
-  rather
-
-  steak
-
-  exact
-
-  muffin
-
-  local
-
-  address
-
-  curtain
-
-  medal'
 bip_39_word_new_line_12: 'flat
 
   vicious
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'flat
   vicious
 
   seat'
-bip_39_word_new_line_4: 'flat
-
-  vicious
-
-  seat
-
-  rather'
-bip_39_word_new_line_5: 'flat
-
-  vicious
-
-  seat
-
-  rather
-
-  steak'
-bip_39_word_new_line_6: 'flat
-
-  vicious
-
-  seat
-
-  rather
-
-  steak
-
-  exact'
-bip_39_word_new_line_7: 'flat
-
-  vicious
-
-  seat
-
-  rather
-
-  steak
-
-  exact
-
-  muffin'
-bip_39_word_new_line_8: 'flat
-
-  vicious
-
-  seat
-
-  rather
-
-  steak
-
-  exact
-
-  muffin
-
-  local'
-bip_39_word_new_line_9: 'flat
-
-  vicious
-
-  seat
-
-  rather
-
-  steak
-
-  exact
-
-  muffin
-
-  local
-
-  address'
-bip_39_word_no_space_1: flat
-bip_39_word_no_space_10: flatviciousseatrathersteakexactmuffinlocaladdresscurtain
-bip_39_word_no_space_11: flatviciousseatrathersteakexactmuffinlocaladdresscurtainmedal
 bip_39_word_no_space_12: flatviciousseatrathersteakexactmuffinlocaladdresscurtainmedalaspect
 bip_39_word_no_space_2: flatvicious
 bip_39_word_no_space_3: flatviciousseat
-bip_39_word_no_space_4: flatviciousseatrather
-bip_39_word_no_space_5: flatviciousseatrathersteak
-bip_39_word_no_space_6: flatviciousseatrathersteakexact
-bip_39_word_no_space_7: flatviciousseatrathersteakexactmuffin
-bip_39_word_no_space_8: flatviciousseatrathersteakexactmuffinlocal
-bip_39_word_no_space_9: flatviciousseatrathersteakexactmuffinlocaladdress
-bip_39_word_space_0:
-- flat
-- vicious
-- seat
-- rather
-- steak
-- exact
-- muffin
-- local
-- address
-- curtain
-- medal
-- aspect
-bip_39_word_space_1: flat
-bip_39_word_space_10: flat vicious seat rather steak exact muffin local address curtain
-bip_39_word_space_11: flat vicious seat rather steak exact muffin local address curtain
-  medal
 bip_39_word_space_12: flat vicious seat rather steak exact muffin local address curtain
   medal aspect
 bip_39_word_space_2: flat vicious
 bip_39_word_space_3: flat vicious seat
-bip_39_word_space_4: flat vicious seat rather
-bip_39_word_space_5: flat vicious seat rather steak
-bip_39_word_space_6: flat vicious seat rather steak exact
-bip_39_word_space_7: flat vicious seat rather steak exact muffin
-bip_39_word_space_8: flat vicious seat rather steak exact muffin local
-bip_39_word_space_9: flat vicious seat rather steak exact muffin local address
-bip_39_word_underscore_1: flat
-bip_39_word_underscore_10: flat_vicious_seat_rather_steak_exact_muffin_local_address_curtain
-bip_39_word_underscore_11: flat_vicious_seat_rather_steak_exact_muffin_local_address_curtain_medal
 bip_39_word_underscore_12: flat_vicious_seat_rather_steak_exact_muffin_local_address_curtain_medal_aspect
 bip_39_word_underscore_2: flat_vicious
 bip_39_word_underscore_3: flat_vicious_seat
-bip_39_word_underscore_4: flat_vicious_seat_rather
-bip_39_word_underscore_5: flat_vicious_seat_rather_steak
-bip_39_word_underscore_6: flat_vicious_seat_rather_steak_exact
-bip_39_word_underscore_7: flat_vicious_seat_rather_steak_exact_muffin
-bip_39_word_underscore_8: flat_vicious_seat_rather_steak_exact_muffin_local
-bip_39_word_underscore_9: flat_vicious_seat_rather_steak_exact_muffin_local_address
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

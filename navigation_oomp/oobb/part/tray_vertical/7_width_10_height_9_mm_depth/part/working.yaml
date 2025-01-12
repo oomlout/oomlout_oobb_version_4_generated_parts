@@ -1,68 +1,9 @@
-bip_39_word_dash_1: program
-bip_39_word_dash_10: program-accident-satoshi-place-athlete-hotel-maze-label-face-gadget
-bip_39_word_dash_11: program-accident-satoshi-place-athlete-hotel-maze-label-face-gadget-light
 bip_39_word_dash_12: program-accident-satoshi-place-athlete-hotel-maze-label-face-gadget-light-alcohol
 bip_39_word_dash_2: program-accident
 bip_39_word_dash_3: program-accident-satoshi
-bip_39_word_dash_4: program-accident-satoshi-place
-bip_39_word_dash_5: program-accident-satoshi-place-athlete
-bip_39_word_dash_6: program-accident-satoshi-place-athlete-hotel
-bip_39_word_dash_7: program-accident-satoshi-place-athlete-hotel-maze
-bip_39_word_dash_8: program-accident-satoshi-place-athlete-hotel-maze-label
-bip_39_word_dash_9: program-accident-satoshi-place-athlete-hotel-maze-label-face
-bip_39_word_new_br_1: program
-bip_39_word_new_br_10: program<br>accident<br>satoshi<br>place<br>athlete<br>hotel<br>maze<br>label<br>face<br>gadget
-bip_39_word_new_br_11: program<br>accident<br>satoshi<br>place<br>athlete<br>hotel<br>maze<br>label<br>face<br>gadget<br>light
 bip_39_word_new_br_12: program<br>accident<br>satoshi<br>place<br>athlete<br>hotel<br>maze<br>label<br>face<br>gadget<br>light<br>alcohol
 bip_39_word_new_br_2: program<br>accident
 bip_39_word_new_br_3: program<br>accident<br>satoshi
-bip_39_word_new_br_4: program<br>accident<br>satoshi<br>place
-bip_39_word_new_br_5: program<br>accident<br>satoshi<br>place<br>athlete
-bip_39_word_new_br_6: program<br>accident<br>satoshi<br>place<br>athlete<br>hotel
-bip_39_word_new_br_7: program<br>accident<br>satoshi<br>place<br>athlete<br>hotel<br>maze
-bip_39_word_new_br_8: program<br>accident<br>satoshi<br>place<br>athlete<br>hotel<br>maze<br>label
-bip_39_word_new_br_9: program<br>accident<br>satoshi<br>place<br>athlete<br>hotel<br>maze<br>label<br>face
-bip_39_word_new_line_1: program
-bip_39_word_new_line_10: 'program
-
-  accident
-
-  satoshi
-
-  place
-
-  athlete
-
-  hotel
-
-  maze
-
-  label
-
-  face
-
-  gadget'
-bip_39_word_new_line_11: 'program
-
-  accident
-
-  satoshi
-
-  place
-
-  athlete
-
-  hotel
-
-  maze
-
-  label
-
-  face
-
-  gadget
-
-  light'
 bip_39_word_new_line_12: 'program
 
   accident
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'program
   accident
 
   satoshi'
-bip_39_word_new_line_4: 'program
-
-  accident
-
-  satoshi
-
-  place'
-bip_39_word_new_line_5: 'program
-
-  accident
-
-  satoshi
-
-  place
-
-  athlete'
-bip_39_word_new_line_6: 'program
-
-  accident
-
-  satoshi
-
-  place
-
-  athlete
-
-  hotel'
-bip_39_word_new_line_7: 'program
-
-  accident
-
-  satoshi
-
-  place
-
-  athlete
-
-  hotel
-
-  maze'
-bip_39_word_new_line_8: 'program
-
-  accident
-
-  satoshi
-
-  place
-
-  athlete
-
-  hotel
-
-  maze
-
-  label'
-bip_39_word_new_line_9: 'program
-
-  accident
-
-  satoshi
-
-  place
-
-  athlete
-
-  hotel
-
-  maze
-
-  label
-
-  face'
-bip_39_word_no_space_1: program
-bip_39_word_no_space_10: programaccidentsatoshiplaceathletehotelmazelabelfacegadget
-bip_39_word_no_space_11: programaccidentsatoshiplaceathletehotelmazelabelfacegadgetlight
 bip_39_word_no_space_12: programaccidentsatoshiplaceathletehotelmazelabelfacegadgetlightalcohol
 bip_39_word_no_space_2: programaccident
 bip_39_word_no_space_3: programaccidentsatoshi
-bip_39_word_no_space_4: programaccidentsatoshiplace
-bip_39_word_no_space_5: programaccidentsatoshiplaceathlete
-bip_39_word_no_space_6: programaccidentsatoshiplaceathletehotel
-bip_39_word_no_space_7: programaccidentsatoshiplaceathletehotelmaze
-bip_39_word_no_space_8: programaccidentsatoshiplaceathletehotelmazelabel
-bip_39_word_no_space_9: programaccidentsatoshiplaceathletehotelmazelabelface
-bip_39_word_space_0:
-- program
-- accident
-- satoshi
-- place
-- athlete
-- hotel
-- maze
-- label
-- face
-- gadget
-- light
-- alcohol
-bip_39_word_space_1: program
-bip_39_word_space_10: program accident satoshi place athlete hotel maze label face
-  gadget
-bip_39_word_space_11: program accident satoshi place athlete hotel maze label face
-  gadget light
 bip_39_word_space_12: program accident satoshi place athlete hotel maze label face
   gadget light alcohol
 bip_39_word_space_2: program accident
 bip_39_word_space_3: program accident satoshi
-bip_39_word_space_4: program accident satoshi place
-bip_39_word_space_5: program accident satoshi place athlete
-bip_39_word_space_6: program accident satoshi place athlete hotel
-bip_39_word_space_7: program accident satoshi place athlete hotel maze
-bip_39_word_space_8: program accident satoshi place athlete hotel maze label
-bip_39_word_space_9: program accident satoshi place athlete hotel maze label face
-bip_39_word_underscore_1: program
-bip_39_word_underscore_10: program_accident_satoshi_place_athlete_hotel_maze_label_face_gadget
-bip_39_word_underscore_11: program_accident_satoshi_place_athlete_hotel_maze_label_face_gadget_light
 bip_39_word_underscore_12: program_accident_satoshi_place_athlete_hotel_maze_label_face_gadget_light_alcohol
 bip_39_word_underscore_2: program_accident
 bip_39_word_underscore_3: program_accident_satoshi
-bip_39_word_underscore_4: program_accident_satoshi_place
-bip_39_word_underscore_5: program_accident_satoshi_place_athlete
-bip_39_word_underscore_6: program_accident_satoshi_place_athlete_hotel
-bip_39_word_underscore_7: program_accident_satoshi_place_athlete_hotel_maze
-bip_39_word_underscore_8: program_accident_satoshi_place_athlete_hotel_maze_label
-bip_39_word_underscore_9: program_accident_satoshi_place_athlete_hotel_maze_label_face
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

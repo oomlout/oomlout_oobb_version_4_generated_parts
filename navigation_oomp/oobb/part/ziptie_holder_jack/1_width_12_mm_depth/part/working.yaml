@@ -1,68 +1,9 @@
-bip_39_word_dash_1: parent
-bip_39_word_dash_10: parent-village-smoke-weasel-achieve-laundry-cruise-buffalo-dog-fade
-bip_39_word_dash_11: parent-village-smoke-weasel-achieve-laundry-cruise-buffalo-dog-fade-giraffe
 bip_39_word_dash_12: parent-village-smoke-weasel-achieve-laundry-cruise-buffalo-dog-fade-giraffe-always
 bip_39_word_dash_2: parent-village
 bip_39_word_dash_3: parent-village-smoke
-bip_39_word_dash_4: parent-village-smoke-weasel
-bip_39_word_dash_5: parent-village-smoke-weasel-achieve
-bip_39_word_dash_6: parent-village-smoke-weasel-achieve-laundry
-bip_39_word_dash_7: parent-village-smoke-weasel-achieve-laundry-cruise
-bip_39_word_dash_8: parent-village-smoke-weasel-achieve-laundry-cruise-buffalo
-bip_39_word_dash_9: parent-village-smoke-weasel-achieve-laundry-cruise-buffalo-dog
-bip_39_word_new_br_1: parent
-bip_39_word_new_br_10: parent<br>village<br>smoke<br>weasel<br>achieve<br>laundry<br>cruise<br>buffalo<br>dog<br>fade
-bip_39_word_new_br_11: parent<br>village<br>smoke<br>weasel<br>achieve<br>laundry<br>cruise<br>buffalo<br>dog<br>fade<br>giraffe
 bip_39_word_new_br_12: parent<br>village<br>smoke<br>weasel<br>achieve<br>laundry<br>cruise<br>buffalo<br>dog<br>fade<br>giraffe<br>always
 bip_39_word_new_br_2: parent<br>village
 bip_39_word_new_br_3: parent<br>village<br>smoke
-bip_39_word_new_br_4: parent<br>village<br>smoke<br>weasel
-bip_39_word_new_br_5: parent<br>village<br>smoke<br>weasel<br>achieve
-bip_39_word_new_br_6: parent<br>village<br>smoke<br>weasel<br>achieve<br>laundry
-bip_39_word_new_br_7: parent<br>village<br>smoke<br>weasel<br>achieve<br>laundry<br>cruise
-bip_39_word_new_br_8: parent<br>village<br>smoke<br>weasel<br>achieve<br>laundry<br>cruise<br>buffalo
-bip_39_word_new_br_9: parent<br>village<br>smoke<br>weasel<br>achieve<br>laundry<br>cruise<br>buffalo<br>dog
-bip_39_word_new_line_1: parent
-bip_39_word_new_line_10: 'parent
-
-  village
-
-  smoke
-
-  weasel
-
-  achieve
-
-  laundry
-
-  cruise
-
-  buffalo
-
-  dog
-
-  fade'
-bip_39_word_new_line_11: 'parent
-
-  village
-
-  smoke
-
-  weasel
-
-  achieve
-
-  laundry
-
-  cruise
-
-  buffalo
-
-  dog
-
-  fade
-
-  giraffe'
 bip_39_word_new_line_12: 'parent
 
   village
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'parent
   village
 
   smoke'
-bip_39_word_new_line_4: 'parent
-
-  village
-
-  smoke
-
-  weasel'
-bip_39_word_new_line_5: 'parent
-
-  village
-
-  smoke
-
-  weasel
-
-  achieve'
-bip_39_word_new_line_6: 'parent
-
-  village
-
-  smoke
-
-  weasel
-
-  achieve
-
-  laundry'
-bip_39_word_new_line_7: 'parent
-
-  village
-
-  smoke
-
-  weasel
-
-  achieve
-
-  laundry
-
-  cruise'
-bip_39_word_new_line_8: 'parent
-
-  village
-
-  smoke
-
-  weasel
-
-  achieve
-
-  laundry
-
-  cruise
-
-  buffalo'
-bip_39_word_new_line_9: 'parent
-
-  village
-
-  smoke
-
-  weasel
-
-  achieve
-
-  laundry
-
-  cruise
-
-  buffalo
-
-  dog'
-bip_39_word_no_space_1: parent
-bip_39_word_no_space_10: parentvillagesmokeweaselachievelaundrycruisebuffalodogfade
-bip_39_word_no_space_11: parentvillagesmokeweaselachievelaundrycruisebuffalodogfadegiraffe
 bip_39_word_no_space_12: parentvillagesmokeweaselachievelaundrycruisebuffalodogfadegiraffealways
 bip_39_word_no_space_2: parentvillage
 bip_39_word_no_space_3: parentvillagesmoke
-bip_39_word_no_space_4: parentvillagesmokeweasel
-bip_39_word_no_space_5: parentvillagesmokeweaselachieve
-bip_39_word_no_space_6: parentvillagesmokeweaselachievelaundry
-bip_39_word_no_space_7: parentvillagesmokeweaselachievelaundrycruise
-bip_39_word_no_space_8: parentvillagesmokeweaselachievelaundrycruisebuffalo
-bip_39_word_no_space_9: parentvillagesmokeweaselachievelaundrycruisebuffalodog
-bip_39_word_space_0:
-- parent
-- village
-- smoke
-- weasel
-- achieve
-- laundry
-- cruise
-- buffalo
-- dog
-- fade
-- giraffe
-- always
-bip_39_word_space_1: parent
-bip_39_word_space_10: parent village smoke weasel achieve laundry cruise buffalo dog
-  fade
-bip_39_word_space_11: parent village smoke weasel achieve laundry cruise buffalo dog
-  fade giraffe
 bip_39_word_space_12: parent village smoke weasel achieve laundry cruise buffalo dog
   fade giraffe always
 bip_39_word_space_2: parent village
 bip_39_word_space_3: parent village smoke
-bip_39_word_space_4: parent village smoke weasel
-bip_39_word_space_5: parent village smoke weasel achieve
-bip_39_word_space_6: parent village smoke weasel achieve laundry
-bip_39_word_space_7: parent village smoke weasel achieve laundry cruise
-bip_39_word_space_8: parent village smoke weasel achieve laundry cruise buffalo
-bip_39_word_space_9: parent village smoke weasel achieve laundry cruise buffalo dog
-bip_39_word_underscore_1: parent
-bip_39_word_underscore_10: parent_village_smoke_weasel_achieve_laundry_cruise_buffalo_dog_fade
-bip_39_word_underscore_11: parent_village_smoke_weasel_achieve_laundry_cruise_buffalo_dog_fade_giraffe
 bip_39_word_underscore_12: parent_village_smoke_weasel_achieve_laundry_cruise_buffalo_dog_fade_giraffe_always
 bip_39_word_underscore_2: parent_village
 bip_39_word_underscore_3: parent_village_smoke
-bip_39_word_underscore_4: parent_village_smoke_weasel
-bip_39_word_underscore_5: parent_village_smoke_weasel_achieve
-bip_39_word_underscore_6: parent_village_smoke_weasel_achieve_laundry
-bip_39_word_underscore_7: parent_village_smoke_weasel_achieve_laundry_cruise
-bip_39_word_underscore_8: parent_village_smoke_weasel_achieve_laundry_cruise_buffalo
-bip_39_word_underscore_9: parent_village_smoke_weasel_achieve_laundry_cruise_buffalo_dog
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

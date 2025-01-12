@@ -1,68 +1,9 @@
-bip_39_word_dash_1: always
-bip_39_word_dash_10: always-garage-tackle-smoke-fire-stable-truly-assault-family-mail
-bip_39_word_dash_11: always-garage-tackle-smoke-fire-stable-truly-assault-family-mail-swift
 bip_39_word_dash_12: always-garage-tackle-smoke-fire-stable-truly-assault-family-mail-swift-aisle
 bip_39_word_dash_2: always-garage
 bip_39_word_dash_3: always-garage-tackle
-bip_39_word_dash_4: always-garage-tackle-smoke
-bip_39_word_dash_5: always-garage-tackle-smoke-fire
-bip_39_word_dash_6: always-garage-tackle-smoke-fire-stable
-bip_39_word_dash_7: always-garage-tackle-smoke-fire-stable-truly
-bip_39_word_dash_8: always-garage-tackle-smoke-fire-stable-truly-assault
-bip_39_word_dash_9: always-garage-tackle-smoke-fire-stable-truly-assault-family
-bip_39_word_new_br_1: always
-bip_39_word_new_br_10: always<br>garage<br>tackle<br>smoke<br>fire<br>stable<br>truly<br>assault<br>family<br>mail
-bip_39_word_new_br_11: always<br>garage<br>tackle<br>smoke<br>fire<br>stable<br>truly<br>assault<br>family<br>mail<br>swift
 bip_39_word_new_br_12: always<br>garage<br>tackle<br>smoke<br>fire<br>stable<br>truly<br>assault<br>family<br>mail<br>swift<br>aisle
 bip_39_word_new_br_2: always<br>garage
 bip_39_word_new_br_3: always<br>garage<br>tackle
-bip_39_word_new_br_4: always<br>garage<br>tackle<br>smoke
-bip_39_word_new_br_5: always<br>garage<br>tackle<br>smoke<br>fire
-bip_39_word_new_br_6: always<br>garage<br>tackle<br>smoke<br>fire<br>stable
-bip_39_word_new_br_7: always<br>garage<br>tackle<br>smoke<br>fire<br>stable<br>truly
-bip_39_word_new_br_8: always<br>garage<br>tackle<br>smoke<br>fire<br>stable<br>truly<br>assault
-bip_39_word_new_br_9: always<br>garage<br>tackle<br>smoke<br>fire<br>stable<br>truly<br>assault<br>family
-bip_39_word_new_line_1: always
-bip_39_word_new_line_10: 'always
-
-  garage
-
-  tackle
-
-  smoke
-
-  fire
-
-  stable
-
-  truly
-
-  assault
-
-  family
-
-  mail'
-bip_39_word_new_line_11: 'always
-
-  garage
-
-  tackle
-
-  smoke
-
-  fire
-
-  stable
-
-  truly
-
-  assault
-
-  family
-
-  mail
-
-  swift'
 bip_39_word_new_line_12: 'always
 
   garage
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'always
   garage
 
   tackle'
-bip_39_word_new_line_4: 'always
-
-  garage
-
-  tackle
-
-  smoke'
-bip_39_word_new_line_5: 'always
-
-  garage
-
-  tackle
-
-  smoke
-
-  fire'
-bip_39_word_new_line_6: 'always
-
-  garage
-
-  tackle
-
-  smoke
-
-  fire
-
-  stable'
-bip_39_word_new_line_7: 'always
-
-  garage
-
-  tackle
-
-  smoke
-
-  fire
-
-  stable
-
-  truly'
-bip_39_word_new_line_8: 'always
-
-  garage
-
-  tackle
-
-  smoke
-
-  fire
-
-  stable
-
-  truly
-
-  assault'
-bip_39_word_new_line_9: 'always
-
-  garage
-
-  tackle
-
-  smoke
-
-  fire
-
-  stable
-
-  truly
-
-  assault
-
-  family'
-bip_39_word_no_space_1: always
-bip_39_word_no_space_10: alwaysgaragetacklesmokefirestabletrulyassaultfamilymail
-bip_39_word_no_space_11: alwaysgaragetacklesmokefirestabletrulyassaultfamilymailswift
 bip_39_word_no_space_12: alwaysgaragetacklesmokefirestabletrulyassaultfamilymailswiftaisle
 bip_39_word_no_space_2: alwaysgarage
 bip_39_word_no_space_3: alwaysgaragetackle
-bip_39_word_no_space_4: alwaysgaragetacklesmoke
-bip_39_word_no_space_5: alwaysgaragetacklesmokefire
-bip_39_word_no_space_6: alwaysgaragetacklesmokefirestable
-bip_39_word_no_space_7: alwaysgaragetacklesmokefirestabletruly
-bip_39_word_no_space_8: alwaysgaragetacklesmokefirestabletrulyassault
-bip_39_word_no_space_9: alwaysgaragetacklesmokefirestabletrulyassaultfamily
-bip_39_word_space_0:
-- always
-- garage
-- tackle
-- smoke
-- fire
-- stable
-- truly
-- assault
-- family
-- mail
-- swift
-- aisle
-bip_39_word_space_1: always
-bip_39_word_space_10: always garage tackle smoke fire stable truly assault family
-  mail
-bip_39_word_space_11: always garage tackle smoke fire stable truly assault family
-  mail swift
 bip_39_word_space_12: always garage tackle smoke fire stable truly assault family
   mail swift aisle
 bip_39_word_space_2: always garage
 bip_39_word_space_3: always garage tackle
-bip_39_word_space_4: always garage tackle smoke
-bip_39_word_space_5: always garage tackle smoke fire
-bip_39_word_space_6: always garage tackle smoke fire stable
-bip_39_word_space_7: always garage tackle smoke fire stable truly
-bip_39_word_space_8: always garage tackle smoke fire stable truly assault
-bip_39_word_space_9: always garage tackle smoke fire stable truly assault family
-bip_39_word_underscore_1: always
-bip_39_word_underscore_10: always_garage_tackle_smoke_fire_stable_truly_assault_family_mail
-bip_39_word_underscore_11: always_garage_tackle_smoke_fire_stable_truly_assault_family_mail_swift
 bip_39_word_underscore_12: always_garage_tackle_smoke_fire_stable_truly_assault_family_mail_swift_aisle
 bip_39_word_underscore_2: always_garage
 bip_39_word_underscore_3: always_garage_tackle
-bip_39_word_underscore_4: always_garage_tackle_smoke
-bip_39_word_underscore_5: always_garage_tackle_smoke_fire
-bip_39_word_underscore_6: always_garage_tackle_smoke_fire_stable
-bip_39_word_underscore_7: always_garage_tackle_smoke_fire_stable_truly
-bip_39_word_underscore_8: always_garage_tackle_smoke_fire_stable_truly_assault
-bip_39_word_underscore_9: always_garage_tackle_smoke_fire_stable_truly_assault_family
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

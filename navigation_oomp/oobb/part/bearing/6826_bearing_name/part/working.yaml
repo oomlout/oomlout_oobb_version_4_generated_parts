@@ -1,69 +1,10 @@
 bearing_name: '6826'
-bip_39_word_dash_1: play
-bip_39_word_dash_10: play-fringe-sense-ripple-bundle-salt-input-cup-false-kiwi
-bip_39_word_dash_11: play-fringe-sense-ripple-bundle-salt-input-cup-false-kiwi-ginger
 bip_39_word_dash_12: play-fringe-sense-ripple-bundle-salt-input-cup-false-kiwi-ginger-ancient
 bip_39_word_dash_2: play-fringe
 bip_39_word_dash_3: play-fringe-sense
-bip_39_word_dash_4: play-fringe-sense-ripple
-bip_39_word_dash_5: play-fringe-sense-ripple-bundle
-bip_39_word_dash_6: play-fringe-sense-ripple-bundle-salt
-bip_39_word_dash_7: play-fringe-sense-ripple-bundle-salt-input
-bip_39_word_dash_8: play-fringe-sense-ripple-bundle-salt-input-cup
-bip_39_word_dash_9: play-fringe-sense-ripple-bundle-salt-input-cup-false
-bip_39_word_new_br_1: play
-bip_39_word_new_br_10: play<br>fringe<br>sense<br>ripple<br>bundle<br>salt<br>input<br>cup<br>false<br>kiwi
-bip_39_word_new_br_11: play<br>fringe<br>sense<br>ripple<br>bundle<br>salt<br>input<br>cup<br>false<br>kiwi<br>ginger
 bip_39_word_new_br_12: play<br>fringe<br>sense<br>ripple<br>bundle<br>salt<br>input<br>cup<br>false<br>kiwi<br>ginger<br>ancient
 bip_39_word_new_br_2: play<br>fringe
 bip_39_word_new_br_3: play<br>fringe<br>sense
-bip_39_word_new_br_4: play<br>fringe<br>sense<br>ripple
-bip_39_word_new_br_5: play<br>fringe<br>sense<br>ripple<br>bundle
-bip_39_word_new_br_6: play<br>fringe<br>sense<br>ripple<br>bundle<br>salt
-bip_39_word_new_br_7: play<br>fringe<br>sense<br>ripple<br>bundle<br>salt<br>input
-bip_39_word_new_br_8: play<br>fringe<br>sense<br>ripple<br>bundle<br>salt<br>input<br>cup
-bip_39_word_new_br_9: play<br>fringe<br>sense<br>ripple<br>bundle<br>salt<br>input<br>cup<br>false
-bip_39_word_new_line_1: play
-bip_39_word_new_line_10: 'play
-
-  fringe
-
-  sense
-
-  ripple
-
-  bundle
-
-  salt
-
-  input
-
-  cup
-
-  false
-
-  kiwi'
-bip_39_word_new_line_11: 'play
-
-  fringe
-
-  sense
-
-  ripple
-
-  bundle
-
-  salt
-
-  input
-
-  cup
-
-  false
-
-  kiwi
-
-  ginger'
 bip_39_word_new_line_12: 'play
 
   fringe
@@ -95,128 +36,16 @@ bip_39_word_new_line_3: 'play
   fringe
 
   sense'
-bip_39_word_new_line_4: 'play
-
-  fringe
-
-  sense
-
-  ripple'
-bip_39_word_new_line_5: 'play
-
-  fringe
-
-  sense
-
-  ripple
-
-  bundle'
-bip_39_word_new_line_6: 'play
-
-  fringe
-
-  sense
-
-  ripple
-
-  bundle
-
-  salt'
-bip_39_word_new_line_7: 'play
-
-  fringe
-
-  sense
-
-  ripple
-
-  bundle
-
-  salt
-
-  input'
-bip_39_word_new_line_8: 'play
-
-  fringe
-
-  sense
-
-  ripple
-
-  bundle
-
-  salt
-
-  input
-
-  cup'
-bip_39_word_new_line_9: 'play
-
-  fringe
-
-  sense
-
-  ripple
-
-  bundle
-
-  salt
-
-  input
-
-  cup
-
-  false'
-bip_39_word_no_space_1: play
-bip_39_word_no_space_10: playfringesenseripplebundlesaltinputcupfalsekiwi
-bip_39_word_no_space_11: playfringesenseripplebundlesaltinputcupfalsekiwiginger
 bip_39_word_no_space_12: playfringesenseripplebundlesaltinputcupfalsekiwigingerancient
 bip_39_word_no_space_2: playfringe
 bip_39_word_no_space_3: playfringesense
-bip_39_word_no_space_4: playfringesenseripple
-bip_39_word_no_space_5: playfringesenseripplebundle
-bip_39_word_no_space_6: playfringesenseripplebundlesalt
-bip_39_word_no_space_7: playfringesenseripplebundlesaltinput
-bip_39_word_no_space_8: playfringesenseripplebundlesaltinputcup
-bip_39_word_no_space_9: playfringesenseripplebundlesaltinputcupfalse
-bip_39_word_space_0:
-- play
-- fringe
-- sense
-- ripple
-- bundle
-- salt
-- input
-- cup
-- 'false'
-- kiwi
-- ginger
-- ancient
-bip_39_word_space_1: play
-bip_39_word_space_10: play fringe sense ripple bundle salt input cup false kiwi
-bip_39_word_space_11: play fringe sense ripple bundle salt input cup false kiwi ginger
 bip_39_word_space_12: play fringe sense ripple bundle salt input cup false kiwi ginger
   ancient
 bip_39_word_space_2: play fringe
 bip_39_word_space_3: play fringe sense
-bip_39_word_space_4: play fringe sense ripple
-bip_39_word_space_5: play fringe sense ripple bundle
-bip_39_word_space_6: play fringe sense ripple bundle salt
-bip_39_word_space_7: play fringe sense ripple bundle salt input
-bip_39_word_space_8: play fringe sense ripple bundle salt input cup
-bip_39_word_space_9: play fringe sense ripple bundle salt input cup false
-bip_39_word_underscore_1: play
-bip_39_word_underscore_10: play_fringe_sense_ripple_bundle_salt_input_cup_false_kiwi
-bip_39_word_underscore_11: play_fringe_sense_ripple_bundle_salt_input_cup_false_kiwi_ginger
 bip_39_word_underscore_12: play_fringe_sense_ripple_bundle_salt_input_cup_false_kiwi_ginger_ancient
 bip_39_word_underscore_2: play_fringe
 bip_39_word_underscore_3: play_fringe_sense
-bip_39_word_underscore_4: play_fringe_sense_ripple
-bip_39_word_underscore_5: play_fringe_sense_ripple_bundle
-bip_39_word_underscore_6: play_fringe_sense_ripple_bundle_salt
-bip_39_word_underscore_7: play_fringe_sense_ripple_bundle_salt_input
-bip_39_word_underscore_8: play_fringe_sense_ripple_bundle_salt_input_cup
-bip_39_word_underscore_9: play_fringe_sense_ripple_bundle_salt_input_cup_false
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

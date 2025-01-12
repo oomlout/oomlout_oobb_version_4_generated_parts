@@ -1,68 +1,9 @@
-bip_39_word_dash_1: kangaroo
-bip_39_word_dash_10: kangaroo-camp-good-duty-assist-flat-swear-random-busy-bounce
-bip_39_word_dash_11: kangaroo-camp-good-duty-assist-flat-swear-random-busy-bounce-mango
 bip_39_word_dash_12: kangaroo-camp-good-duty-assist-flat-swear-random-busy-bounce-mango-arm
 bip_39_word_dash_2: kangaroo-camp
 bip_39_word_dash_3: kangaroo-camp-good
-bip_39_word_dash_4: kangaroo-camp-good-duty
-bip_39_word_dash_5: kangaroo-camp-good-duty-assist
-bip_39_word_dash_6: kangaroo-camp-good-duty-assist-flat
-bip_39_word_dash_7: kangaroo-camp-good-duty-assist-flat-swear
-bip_39_word_dash_8: kangaroo-camp-good-duty-assist-flat-swear-random
-bip_39_word_dash_9: kangaroo-camp-good-duty-assist-flat-swear-random-busy
-bip_39_word_new_br_1: kangaroo
-bip_39_word_new_br_10: kangaroo<br>camp<br>good<br>duty<br>assist<br>flat<br>swear<br>random<br>busy<br>bounce
-bip_39_word_new_br_11: kangaroo<br>camp<br>good<br>duty<br>assist<br>flat<br>swear<br>random<br>busy<br>bounce<br>mango
 bip_39_word_new_br_12: kangaroo<br>camp<br>good<br>duty<br>assist<br>flat<br>swear<br>random<br>busy<br>bounce<br>mango<br>arm
 bip_39_word_new_br_2: kangaroo<br>camp
 bip_39_word_new_br_3: kangaroo<br>camp<br>good
-bip_39_word_new_br_4: kangaroo<br>camp<br>good<br>duty
-bip_39_word_new_br_5: kangaroo<br>camp<br>good<br>duty<br>assist
-bip_39_word_new_br_6: kangaroo<br>camp<br>good<br>duty<br>assist<br>flat
-bip_39_word_new_br_7: kangaroo<br>camp<br>good<br>duty<br>assist<br>flat<br>swear
-bip_39_word_new_br_8: kangaroo<br>camp<br>good<br>duty<br>assist<br>flat<br>swear<br>random
-bip_39_word_new_br_9: kangaroo<br>camp<br>good<br>duty<br>assist<br>flat<br>swear<br>random<br>busy
-bip_39_word_new_line_1: kangaroo
-bip_39_word_new_line_10: 'kangaroo
-
-  camp
-
-  good
-
-  duty
-
-  assist
-
-  flat
-
-  swear
-
-  random
-
-  busy
-
-  bounce'
-bip_39_word_new_line_11: 'kangaroo
-
-  camp
-
-  good
-
-  duty
-
-  assist
-
-  flat
-
-  swear
-
-  random
-
-  busy
-
-  bounce
-
-  mango'
 bip_39_word_new_line_12: 'kangaroo
 
   camp
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'kangaroo
   camp
 
   good'
-bip_39_word_new_line_4: 'kangaroo
-
-  camp
-
-  good
-
-  duty'
-bip_39_word_new_line_5: 'kangaroo
-
-  camp
-
-  good
-
-  duty
-
-  assist'
-bip_39_word_new_line_6: 'kangaroo
-
-  camp
-
-  good
-
-  duty
-
-  assist
-
-  flat'
-bip_39_word_new_line_7: 'kangaroo
-
-  camp
-
-  good
-
-  duty
-
-  assist
-
-  flat
-
-  swear'
-bip_39_word_new_line_8: 'kangaroo
-
-  camp
-
-  good
-
-  duty
-
-  assist
-
-  flat
-
-  swear
-
-  random'
-bip_39_word_new_line_9: 'kangaroo
-
-  camp
-
-  good
-
-  duty
-
-  assist
-
-  flat
-
-  swear
-
-  random
-
-  busy'
-bip_39_word_no_space_1: kangaroo
-bip_39_word_no_space_10: kangaroocampgooddutyassistflatswearrandombusybounce
-bip_39_word_no_space_11: kangaroocampgooddutyassistflatswearrandombusybouncemango
 bip_39_word_no_space_12: kangaroocampgooddutyassistflatswearrandombusybouncemangoarm
 bip_39_word_no_space_2: kangaroocamp
 bip_39_word_no_space_3: kangaroocampgood
-bip_39_word_no_space_4: kangaroocampgoodduty
-bip_39_word_no_space_5: kangaroocampgooddutyassist
-bip_39_word_no_space_6: kangaroocampgooddutyassistflat
-bip_39_word_no_space_7: kangaroocampgooddutyassistflatswear
-bip_39_word_no_space_8: kangaroocampgooddutyassistflatswearrandom
-bip_39_word_no_space_9: kangaroocampgooddutyassistflatswearrandombusy
-bip_39_word_space_0:
-- kangaroo
-- camp
-- good
-- duty
-- assist
-- flat
-- swear
-- random
-- busy
-- bounce
-- mango
-- arm
-bip_39_word_space_1: kangaroo
-bip_39_word_space_10: kangaroo camp good duty assist flat swear random busy bounce
-bip_39_word_space_11: kangaroo camp good duty assist flat swear random busy bounce
-  mango
 bip_39_word_space_12: kangaroo camp good duty assist flat swear random busy bounce
   mango arm
 bip_39_word_space_2: kangaroo camp
 bip_39_word_space_3: kangaroo camp good
-bip_39_word_space_4: kangaroo camp good duty
-bip_39_word_space_5: kangaroo camp good duty assist
-bip_39_word_space_6: kangaroo camp good duty assist flat
-bip_39_word_space_7: kangaroo camp good duty assist flat swear
-bip_39_word_space_8: kangaroo camp good duty assist flat swear random
-bip_39_word_space_9: kangaroo camp good duty assist flat swear random busy
-bip_39_word_underscore_1: kangaroo
-bip_39_word_underscore_10: kangaroo_camp_good_duty_assist_flat_swear_random_busy_bounce
-bip_39_word_underscore_11: kangaroo_camp_good_duty_assist_flat_swear_random_busy_bounce_mango
 bip_39_word_underscore_12: kangaroo_camp_good_duty_assist_flat_swear_random_busy_bounce_mango_arm
 bip_39_word_underscore_2: kangaroo_camp
 bip_39_word_underscore_3: kangaroo_camp_good
-bip_39_word_underscore_4: kangaroo_camp_good_duty
-bip_39_word_underscore_5: kangaroo_camp_good_duty_assist
-bip_39_word_underscore_6: kangaroo_camp_good_duty_assist_flat
-bip_39_word_underscore_7: kangaroo_camp_good_duty_assist_flat_swear
-bip_39_word_underscore_8: kangaroo_camp_good_duty_assist_flat_swear_random
-bip_39_word_underscore_9: kangaroo_camp_good_duty_assist_flat_swear_random_busy
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

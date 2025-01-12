@@ -1,68 +1,9 @@
-bip_39_word_dash_1: return
-bip_39_word_dash_10: return-hip-mule-faculty-involve-search-moon-erase-above-patrol
-bip_39_word_dash_11: return-hip-mule-faculty-involve-search-moon-erase-above-patrol-crush
 bip_39_word_dash_12: return-hip-mule-faculty-involve-search-moon-erase-above-patrol-crush-army
 bip_39_word_dash_2: return-hip
 bip_39_word_dash_3: return-hip-mule
-bip_39_word_dash_4: return-hip-mule-faculty
-bip_39_word_dash_5: return-hip-mule-faculty-involve
-bip_39_word_dash_6: return-hip-mule-faculty-involve-search
-bip_39_word_dash_7: return-hip-mule-faculty-involve-search-moon
-bip_39_word_dash_8: return-hip-mule-faculty-involve-search-moon-erase
-bip_39_word_dash_9: return-hip-mule-faculty-involve-search-moon-erase-above
-bip_39_word_new_br_1: return
-bip_39_word_new_br_10: return<br>hip<br>mule<br>faculty<br>involve<br>search<br>moon<br>erase<br>above<br>patrol
-bip_39_word_new_br_11: return<br>hip<br>mule<br>faculty<br>involve<br>search<br>moon<br>erase<br>above<br>patrol<br>crush
 bip_39_word_new_br_12: return<br>hip<br>mule<br>faculty<br>involve<br>search<br>moon<br>erase<br>above<br>patrol<br>crush<br>army
 bip_39_word_new_br_2: return<br>hip
 bip_39_word_new_br_3: return<br>hip<br>mule
-bip_39_word_new_br_4: return<br>hip<br>mule<br>faculty
-bip_39_word_new_br_5: return<br>hip<br>mule<br>faculty<br>involve
-bip_39_word_new_br_6: return<br>hip<br>mule<br>faculty<br>involve<br>search
-bip_39_word_new_br_7: return<br>hip<br>mule<br>faculty<br>involve<br>search<br>moon
-bip_39_word_new_br_8: return<br>hip<br>mule<br>faculty<br>involve<br>search<br>moon<br>erase
-bip_39_word_new_br_9: return<br>hip<br>mule<br>faculty<br>involve<br>search<br>moon<br>erase<br>above
-bip_39_word_new_line_1: return
-bip_39_word_new_line_10: 'return
-
-  hip
-
-  mule
-
-  faculty
-
-  involve
-
-  search
-
-  moon
-
-  erase
-
-  above
-
-  patrol'
-bip_39_word_new_line_11: 'return
-
-  hip
-
-  mule
-
-  faculty
-
-  involve
-
-  search
-
-  moon
-
-  erase
-
-  above
-
-  patrol
-
-  crush'
 bip_39_word_new_line_12: 'return
 
   hip
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'return
   hip
 
   mule'
-bip_39_word_new_line_4: 'return
-
-  hip
-
-  mule
-
-  faculty'
-bip_39_word_new_line_5: 'return
-
-  hip
-
-  mule
-
-  faculty
-
-  involve'
-bip_39_word_new_line_6: 'return
-
-  hip
-
-  mule
-
-  faculty
-
-  involve
-
-  search'
-bip_39_word_new_line_7: 'return
-
-  hip
-
-  mule
-
-  faculty
-
-  involve
-
-  search
-
-  moon'
-bip_39_word_new_line_8: 'return
-
-  hip
-
-  mule
-
-  faculty
-
-  involve
-
-  search
-
-  moon
-
-  erase'
-bip_39_word_new_line_9: 'return
-
-  hip
-
-  mule
-
-  faculty
-
-  involve
-
-  search
-
-  moon
-
-  erase
-
-  above'
-bip_39_word_no_space_1: return
-bip_39_word_no_space_10: returnhipmulefacultyinvolvesearchmooneraseabovepatrol
-bip_39_word_no_space_11: returnhipmulefacultyinvolvesearchmooneraseabovepatrolcrush
 bip_39_word_no_space_12: returnhipmulefacultyinvolvesearchmooneraseabovepatrolcrusharmy
 bip_39_word_no_space_2: returnhip
 bip_39_word_no_space_3: returnhipmule
-bip_39_word_no_space_4: returnhipmulefaculty
-bip_39_word_no_space_5: returnhipmulefacultyinvolve
-bip_39_word_no_space_6: returnhipmulefacultyinvolvesearch
-bip_39_word_no_space_7: returnhipmulefacultyinvolvesearchmoon
-bip_39_word_no_space_8: returnhipmulefacultyinvolvesearchmoonerase
-bip_39_word_no_space_9: returnhipmulefacultyinvolvesearchmooneraseabove
-bip_39_word_space_0:
-- return
-- hip
-- mule
-- faculty
-- involve
-- search
-- moon
-- erase
-- above
-- patrol
-- crush
-- army
-bip_39_word_space_1: return
-bip_39_word_space_10: return hip mule faculty involve search moon erase above patrol
-bip_39_word_space_11: return hip mule faculty involve search moon erase above patrol
-  crush
 bip_39_word_space_12: return hip mule faculty involve search moon erase above patrol
   crush army
 bip_39_word_space_2: return hip
 bip_39_word_space_3: return hip mule
-bip_39_word_space_4: return hip mule faculty
-bip_39_word_space_5: return hip mule faculty involve
-bip_39_word_space_6: return hip mule faculty involve search
-bip_39_word_space_7: return hip mule faculty involve search moon
-bip_39_word_space_8: return hip mule faculty involve search moon erase
-bip_39_word_space_9: return hip mule faculty involve search moon erase above
-bip_39_word_underscore_1: return
-bip_39_word_underscore_10: return_hip_mule_faculty_involve_search_moon_erase_above_patrol
-bip_39_word_underscore_11: return_hip_mule_faculty_involve_search_moon_erase_above_patrol_crush
 bip_39_word_underscore_12: return_hip_mule_faculty_involve_search_moon_erase_above_patrol_crush_army
 bip_39_word_underscore_2: return_hip
 bip_39_word_underscore_3: return_hip_mule
-bip_39_word_underscore_4: return_hip_mule_faculty
-bip_39_word_underscore_5: return_hip_mule_faculty_involve
-bip_39_word_underscore_6: return_hip_mule_faculty_involve_search
-bip_39_word_underscore_7: return_hip_mule_faculty_involve_search_moon
-bip_39_word_underscore_8: return_hip_mule_faculty_involve_search_moon_erase
-bip_39_word_underscore_9: return_hip_mule_faculty_involve_search_moon_erase_above
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

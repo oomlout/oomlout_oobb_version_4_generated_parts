@@ -1,68 +1,9 @@
-bip_39_word_dash_1: dynamic
-bip_39_word_dash_10: dynamic-blind-fault-ahead-buzz-lounge-catch-public-book-business
-bip_39_word_dash_11: dynamic-blind-fault-ahead-buzz-lounge-catch-public-book-business-wave
 bip_39_word_dash_12: dynamic-blind-fault-ahead-buzz-lounge-catch-public-book-business-wave-ahead
 bip_39_word_dash_2: dynamic-blind
 bip_39_word_dash_3: dynamic-blind-fault
-bip_39_word_dash_4: dynamic-blind-fault-ahead
-bip_39_word_dash_5: dynamic-blind-fault-ahead-buzz
-bip_39_word_dash_6: dynamic-blind-fault-ahead-buzz-lounge
-bip_39_word_dash_7: dynamic-blind-fault-ahead-buzz-lounge-catch
-bip_39_word_dash_8: dynamic-blind-fault-ahead-buzz-lounge-catch-public
-bip_39_word_dash_9: dynamic-blind-fault-ahead-buzz-lounge-catch-public-book
-bip_39_word_new_br_1: dynamic
-bip_39_word_new_br_10: dynamic<br>blind<br>fault<br>ahead<br>buzz<br>lounge<br>catch<br>public<br>book<br>business
-bip_39_word_new_br_11: dynamic<br>blind<br>fault<br>ahead<br>buzz<br>lounge<br>catch<br>public<br>book<br>business<br>wave
 bip_39_word_new_br_12: dynamic<br>blind<br>fault<br>ahead<br>buzz<br>lounge<br>catch<br>public<br>book<br>business<br>wave<br>ahead
 bip_39_word_new_br_2: dynamic<br>blind
 bip_39_word_new_br_3: dynamic<br>blind<br>fault
-bip_39_word_new_br_4: dynamic<br>blind<br>fault<br>ahead
-bip_39_word_new_br_5: dynamic<br>blind<br>fault<br>ahead<br>buzz
-bip_39_word_new_br_6: dynamic<br>blind<br>fault<br>ahead<br>buzz<br>lounge
-bip_39_word_new_br_7: dynamic<br>blind<br>fault<br>ahead<br>buzz<br>lounge<br>catch
-bip_39_word_new_br_8: dynamic<br>blind<br>fault<br>ahead<br>buzz<br>lounge<br>catch<br>public
-bip_39_word_new_br_9: dynamic<br>blind<br>fault<br>ahead<br>buzz<br>lounge<br>catch<br>public<br>book
-bip_39_word_new_line_1: dynamic
-bip_39_word_new_line_10: 'dynamic
-
-  blind
-
-  fault
-
-  ahead
-
-  buzz
-
-  lounge
-
-  catch
-
-  public
-
-  book
-
-  business'
-bip_39_word_new_line_11: 'dynamic
-
-  blind
-
-  fault
-
-  ahead
-
-  buzz
-
-  lounge
-
-  catch
-
-  public
-
-  book
-
-  business
-
-  wave'
 bip_39_word_new_line_12: 'dynamic
 
   blind
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'dynamic
   blind
 
   fault'
-bip_39_word_new_line_4: 'dynamic
-
-  blind
-
-  fault
-
-  ahead'
-bip_39_word_new_line_5: 'dynamic
-
-  blind
-
-  fault
-
-  ahead
-
-  buzz'
-bip_39_word_new_line_6: 'dynamic
-
-  blind
-
-  fault
-
-  ahead
-
-  buzz
-
-  lounge'
-bip_39_word_new_line_7: 'dynamic
-
-  blind
-
-  fault
-
-  ahead
-
-  buzz
-
-  lounge
-
-  catch'
-bip_39_word_new_line_8: 'dynamic
-
-  blind
-
-  fault
-
-  ahead
-
-  buzz
-
-  lounge
-
-  catch
-
-  public'
-bip_39_word_new_line_9: 'dynamic
-
-  blind
-
-  fault
-
-  ahead
-
-  buzz
-
-  lounge
-
-  catch
-
-  public
-
-  book'
-bip_39_word_no_space_1: dynamic
-bip_39_word_no_space_10: dynamicblindfaultaheadbuzzloungecatchpublicbookbusiness
-bip_39_word_no_space_11: dynamicblindfaultaheadbuzzloungecatchpublicbookbusinesswave
 bip_39_word_no_space_12: dynamicblindfaultaheadbuzzloungecatchpublicbookbusinesswaveahead
 bip_39_word_no_space_2: dynamicblind
 bip_39_word_no_space_3: dynamicblindfault
-bip_39_word_no_space_4: dynamicblindfaultahead
-bip_39_word_no_space_5: dynamicblindfaultaheadbuzz
-bip_39_word_no_space_6: dynamicblindfaultaheadbuzzlounge
-bip_39_word_no_space_7: dynamicblindfaultaheadbuzzloungecatch
-bip_39_word_no_space_8: dynamicblindfaultaheadbuzzloungecatchpublic
-bip_39_word_no_space_9: dynamicblindfaultaheadbuzzloungecatchpublicbook
-bip_39_word_space_0:
-- dynamic
-- blind
-- fault
-- ahead
-- buzz
-- lounge
-- catch
-- public
-- book
-- business
-- wave
-- ahead
-bip_39_word_space_1: dynamic
-bip_39_word_space_10: dynamic blind fault ahead buzz lounge catch public book business
-bip_39_word_space_11: dynamic blind fault ahead buzz lounge catch public book business
-  wave
 bip_39_word_space_12: dynamic blind fault ahead buzz lounge catch public book business
   wave ahead
 bip_39_word_space_2: dynamic blind
 bip_39_word_space_3: dynamic blind fault
-bip_39_word_space_4: dynamic blind fault ahead
-bip_39_word_space_5: dynamic blind fault ahead buzz
-bip_39_word_space_6: dynamic blind fault ahead buzz lounge
-bip_39_word_space_7: dynamic blind fault ahead buzz lounge catch
-bip_39_word_space_8: dynamic blind fault ahead buzz lounge catch public
-bip_39_word_space_9: dynamic blind fault ahead buzz lounge catch public book
-bip_39_word_underscore_1: dynamic
-bip_39_word_underscore_10: dynamic_blind_fault_ahead_buzz_lounge_catch_public_book_business
-bip_39_word_underscore_11: dynamic_blind_fault_ahead_buzz_lounge_catch_public_book_business_wave
 bip_39_word_underscore_12: dynamic_blind_fault_ahead_buzz_lounge_catch_public_book_business_wave_ahead
 bip_39_word_underscore_2: dynamic_blind
 bip_39_word_underscore_3: dynamic_blind_fault
-bip_39_word_underscore_4: dynamic_blind_fault_ahead
-bip_39_word_underscore_5: dynamic_blind_fault_ahead_buzz
-bip_39_word_underscore_6: dynamic_blind_fault_ahead_buzz_lounge
-bip_39_word_underscore_7: dynamic_blind_fault_ahead_buzz_lounge_catch
-bip_39_word_underscore_8: dynamic_blind_fault_ahead_buzz_lounge_catch_public
-bip_39_word_underscore_9: dynamic_blind_fault_ahead_buzz_lounge_catch_public_book
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

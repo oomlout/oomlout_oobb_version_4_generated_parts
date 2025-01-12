@@ -1,68 +1,9 @@
-bip_39_word_dash_1: put
-bip_39_word_dash_10: put-alert-clown-mass-pudding-green-tired-hat-captain-buffalo
-bip_39_word_dash_11: put-alert-clown-mass-pudding-green-tired-hat-captain-buffalo-violin
 bip_39_word_dash_12: put-alert-clown-mass-pudding-green-tired-hat-captain-buffalo-violin-alarm
 bip_39_word_dash_2: put-alert
 bip_39_word_dash_3: put-alert-clown
-bip_39_word_dash_4: put-alert-clown-mass
-bip_39_word_dash_5: put-alert-clown-mass-pudding
-bip_39_word_dash_6: put-alert-clown-mass-pudding-green
-bip_39_word_dash_7: put-alert-clown-mass-pudding-green-tired
-bip_39_word_dash_8: put-alert-clown-mass-pudding-green-tired-hat
-bip_39_word_dash_9: put-alert-clown-mass-pudding-green-tired-hat-captain
-bip_39_word_new_br_1: put
-bip_39_word_new_br_10: put<br>alert<br>clown<br>mass<br>pudding<br>green<br>tired<br>hat<br>captain<br>buffalo
-bip_39_word_new_br_11: put<br>alert<br>clown<br>mass<br>pudding<br>green<br>tired<br>hat<br>captain<br>buffalo<br>violin
 bip_39_word_new_br_12: put<br>alert<br>clown<br>mass<br>pudding<br>green<br>tired<br>hat<br>captain<br>buffalo<br>violin<br>alarm
 bip_39_word_new_br_2: put<br>alert
 bip_39_word_new_br_3: put<br>alert<br>clown
-bip_39_word_new_br_4: put<br>alert<br>clown<br>mass
-bip_39_word_new_br_5: put<br>alert<br>clown<br>mass<br>pudding
-bip_39_word_new_br_6: put<br>alert<br>clown<br>mass<br>pudding<br>green
-bip_39_word_new_br_7: put<br>alert<br>clown<br>mass<br>pudding<br>green<br>tired
-bip_39_word_new_br_8: put<br>alert<br>clown<br>mass<br>pudding<br>green<br>tired<br>hat
-bip_39_word_new_br_9: put<br>alert<br>clown<br>mass<br>pudding<br>green<br>tired<br>hat<br>captain
-bip_39_word_new_line_1: put
-bip_39_word_new_line_10: 'put
-
-  alert
-
-  clown
-
-  mass
-
-  pudding
-
-  green
-
-  tired
-
-  hat
-
-  captain
-
-  buffalo'
-bip_39_word_new_line_11: 'put
-
-  alert
-
-  clown
-
-  mass
-
-  pudding
-
-  green
-
-  tired
-
-  hat
-
-  captain
-
-  buffalo
-
-  violin'
 bip_39_word_new_line_12: 'put
 
   alert
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'put
   alert
 
   clown'
-bip_39_word_new_line_4: 'put
-
-  alert
-
-  clown
-
-  mass'
-bip_39_word_new_line_5: 'put
-
-  alert
-
-  clown
-
-  mass
-
-  pudding'
-bip_39_word_new_line_6: 'put
-
-  alert
-
-  clown
-
-  mass
-
-  pudding
-
-  green'
-bip_39_word_new_line_7: 'put
-
-  alert
-
-  clown
-
-  mass
-
-  pudding
-
-  green
-
-  tired'
-bip_39_word_new_line_8: 'put
-
-  alert
-
-  clown
-
-  mass
-
-  pudding
-
-  green
-
-  tired
-
-  hat'
-bip_39_word_new_line_9: 'put
-
-  alert
-
-  clown
-
-  mass
-
-  pudding
-
-  green
-
-  tired
-
-  hat
-
-  captain'
-bip_39_word_no_space_1: put
-bip_39_word_no_space_10: putalertclownmasspuddinggreentiredhatcaptainbuffalo
-bip_39_word_no_space_11: putalertclownmasspuddinggreentiredhatcaptainbuffaloviolin
 bip_39_word_no_space_12: putalertclownmasspuddinggreentiredhatcaptainbuffaloviolinalarm
 bip_39_word_no_space_2: putalert
 bip_39_word_no_space_3: putalertclown
-bip_39_word_no_space_4: putalertclownmass
-bip_39_word_no_space_5: putalertclownmasspudding
-bip_39_word_no_space_6: putalertclownmasspuddinggreen
-bip_39_word_no_space_7: putalertclownmasspuddinggreentired
-bip_39_word_no_space_8: putalertclownmasspuddinggreentiredhat
-bip_39_word_no_space_9: putalertclownmasspuddinggreentiredhatcaptain
-bip_39_word_space_0:
-- put
-- alert
-- clown
-- mass
-- pudding
-- green
-- tired
-- hat
-- captain
-- buffalo
-- violin
-- alarm
-bip_39_word_space_1: put
-bip_39_word_space_10: put alert clown mass pudding green tired hat captain buffalo
-bip_39_word_space_11: put alert clown mass pudding green tired hat captain buffalo
-  violin
 bip_39_word_space_12: put alert clown mass pudding green tired hat captain buffalo
   violin alarm
 bip_39_word_space_2: put alert
 bip_39_word_space_3: put alert clown
-bip_39_word_space_4: put alert clown mass
-bip_39_word_space_5: put alert clown mass pudding
-bip_39_word_space_6: put alert clown mass pudding green
-bip_39_word_space_7: put alert clown mass pudding green tired
-bip_39_word_space_8: put alert clown mass pudding green tired hat
-bip_39_word_space_9: put alert clown mass pudding green tired hat captain
-bip_39_word_underscore_1: put
-bip_39_word_underscore_10: put_alert_clown_mass_pudding_green_tired_hat_captain_buffalo
-bip_39_word_underscore_11: put_alert_clown_mass_pudding_green_tired_hat_captain_buffalo_violin
 bip_39_word_underscore_12: put_alert_clown_mass_pudding_green_tired_hat_captain_buffalo_violin_alarm
 bip_39_word_underscore_2: put_alert
 bip_39_word_underscore_3: put_alert_clown
-bip_39_word_underscore_4: put_alert_clown_mass
-bip_39_word_underscore_5: put_alert_clown_mass_pudding
-bip_39_word_underscore_6: put_alert_clown_mass_pudding_green
-bip_39_word_underscore_7: put_alert_clown_mass_pudding_green_tired
-bip_39_word_underscore_8: put_alert_clown_mass_pudding_green_tired_hat
-bip_39_word_underscore_9: put_alert_clown_mass_pudding_green_tired_hat_captain
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: couch
-bip_39_word_dash_10: couch-long-glide-hood-voyage-control-gospel-sail-way-peasant
-bip_39_word_dash_11: couch-long-glide-hood-voyage-control-gospel-sail-way-peasant-hood
 bip_39_word_dash_12: couch-long-glide-hood-voyage-control-gospel-sail-way-peasant-hood-almost
 bip_39_word_dash_2: couch-long
 bip_39_word_dash_3: couch-long-glide
-bip_39_word_dash_4: couch-long-glide-hood
-bip_39_word_dash_5: couch-long-glide-hood-voyage
-bip_39_word_dash_6: couch-long-glide-hood-voyage-control
-bip_39_word_dash_7: couch-long-glide-hood-voyage-control-gospel
-bip_39_word_dash_8: couch-long-glide-hood-voyage-control-gospel-sail
-bip_39_word_dash_9: couch-long-glide-hood-voyage-control-gospel-sail-way
-bip_39_word_new_br_1: couch
-bip_39_word_new_br_10: couch<br>long<br>glide<br>hood<br>voyage<br>control<br>gospel<br>sail<br>way<br>peasant
-bip_39_word_new_br_11: couch<br>long<br>glide<br>hood<br>voyage<br>control<br>gospel<br>sail<br>way<br>peasant<br>hood
 bip_39_word_new_br_12: couch<br>long<br>glide<br>hood<br>voyage<br>control<br>gospel<br>sail<br>way<br>peasant<br>hood<br>almost
 bip_39_word_new_br_2: couch<br>long
 bip_39_word_new_br_3: couch<br>long<br>glide
-bip_39_word_new_br_4: couch<br>long<br>glide<br>hood
-bip_39_word_new_br_5: couch<br>long<br>glide<br>hood<br>voyage
-bip_39_word_new_br_6: couch<br>long<br>glide<br>hood<br>voyage<br>control
-bip_39_word_new_br_7: couch<br>long<br>glide<br>hood<br>voyage<br>control<br>gospel
-bip_39_word_new_br_8: couch<br>long<br>glide<br>hood<br>voyage<br>control<br>gospel<br>sail
-bip_39_word_new_br_9: couch<br>long<br>glide<br>hood<br>voyage<br>control<br>gospel<br>sail<br>way
-bip_39_word_new_line_1: couch
-bip_39_word_new_line_10: 'couch
-
-  long
-
-  glide
-
-  hood
-
-  voyage
-
-  control
-
-  gospel
-
-  sail
-
-  way
-
-  peasant'
-bip_39_word_new_line_11: 'couch
-
-  long
-
-  glide
-
-  hood
-
-  voyage
-
-  control
-
-  gospel
-
-  sail
-
-  way
-
-  peasant
-
-  hood'
 bip_39_word_new_line_12: 'couch
 
   long
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'couch
   long
 
   glide'
-bip_39_word_new_line_4: 'couch
-
-  long
-
-  glide
-
-  hood'
-bip_39_word_new_line_5: 'couch
-
-  long
-
-  glide
-
-  hood
-
-  voyage'
-bip_39_word_new_line_6: 'couch
-
-  long
-
-  glide
-
-  hood
-
-  voyage
-
-  control'
-bip_39_word_new_line_7: 'couch
-
-  long
-
-  glide
-
-  hood
-
-  voyage
-
-  control
-
-  gospel'
-bip_39_word_new_line_8: 'couch
-
-  long
-
-  glide
-
-  hood
-
-  voyage
-
-  control
-
-  gospel
-
-  sail'
-bip_39_word_new_line_9: 'couch
-
-  long
-
-  glide
-
-  hood
-
-  voyage
-
-  control
-
-  gospel
-
-  sail
-
-  way'
-bip_39_word_no_space_1: couch
-bip_39_word_no_space_10: couchlongglidehoodvoyagecontrolgospelsailwaypeasant
-bip_39_word_no_space_11: couchlongglidehoodvoyagecontrolgospelsailwaypeasanthood
 bip_39_word_no_space_12: couchlongglidehoodvoyagecontrolgospelsailwaypeasanthoodalmost
 bip_39_word_no_space_2: couchlong
 bip_39_word_no_space_3: couchlongglide
-bip_39_word_no_space_4: couchlongglidehood
-bip_39_word_no_space_5: couchlongglidehoodvoyage
-bip_39_word_no_space_6: couchlongglidehoodvoyagecontrol
-bip_39_word_no_space_7: couchlongglidehoodvoyagecontrolgospel
-bip_39_word_no_space_8: couchlongglidehoodvoyagecontrolgospelsail
-bip_39_word_no_space_9: couchlongglidehoodvoyagecontrolgospelsailway
-bip_39_word_space_0:
-- couch
-- long
-- glide
-- hood
-- voyage
-- control
-- gospel
-- sail
-- way
-- peasant
-- hood
-- almost
-bip_39_word_space_1: couch
-bip_39_word_space_10: couch long glide hood voyage control gospel sail way peasant
-bip_39_word_space_11: couch long glide hood voyage control gospel sail way peasant
-  hood
 bip_39_word_space_12: couch long glide hood voyage control gospel sail way peasant
   hood almost
 bip_39_word_space_2: couch long
 bip_39_word_space_3: couch long glide
-bip_39_word_space_4: couch long glide hood
-bip_39_word_space_5: couch long glide hood voyage
-bip_39_word_space_6: couch long glide hood voyage control
-bip_39_word_space_7: couch long glide hood voyage control gospel
-bip_39_word_space_8: couch long glide hood voyage control gospel sail
-bip_39_word_space_9: couch long glide hood voyage control gospel sail way
-bip_39_word_underscore_1: couch
-bip_39_word_underscore_10: couch_long_glide_hood_voyage_control_gospel_sail_way_peasant
-bip_39_word_underscore_11: couch_long_glide_hood_voyage_control_gospel_sail_way_peasant_hood
 bip_39_word_underscore_12: couch_long_glide_hood_voyage_control_gospel_sail_way_peasant_hood_almost
 bip_39_word_underscore_2: couch_long
 bip_39_word_underscore_3: couch_long_glide
-bip_39_word_underscore_4: couch_long_glide_hood
-bip_39_word_underscore_5: couch_long_glide_hood_voyage
-bip_39_word_underscore_6: couch_long_glide_hood_voyage_control
-bip_39_word_underscore_7: couch_long_glide_hood_voyage_control_gospel
-bip_39_word_underscore_8: couch_long_glide_hood_voyage_control_gospel_sail
-bip_39_word_underscore_9: couch_long_glide_hood_voyage_control_gospel_sail_way
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

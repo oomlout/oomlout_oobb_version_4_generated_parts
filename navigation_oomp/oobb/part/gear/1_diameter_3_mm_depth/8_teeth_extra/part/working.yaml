@@ -1,68 +1,9 @@
-bip_39_word_dash_1: grit
-bip_39_word_dash_10: grit-sight-celery-tumble-draft-stereo-decade-follow-mercy-monitor
-bip_39_word_dash_11: grit-sight-celery-tumble-draft-stereo-decade-follow-mercy-monitor-bird
 bip_39_word_dash_12: grit-sight-celery-tumble-draft-stereo-decade-follow-mercy-monitor-bird-amazing
 bip_39_word_dash_2: grit-sight
 bip_39_word_dash_3: grit-sight-celery
-bip_39_word_dash_4: grit-sight-celery-tumble
-bip_39_word_dash_5: grit-sight-celery-tumble-draft
-bip_39_word_dash_6: grit-sight-celery-tumble-draft-stereo
-bip_39_word_dash_7: grit-sight-celery-tumble-draft-stereo-decade
-bip_39_word_dash_8: grit-sight-celery-tumble-draft-stereo-decade-follow
-bip_39_word_dash_9: grit-sight-celery-tumble-draft-stereo-decade-follow-mercy
-bip_39_word_new_br_1: grit
-bip_39_word_new_br_10: grit<br>sight<br>celery<br>tumble<br>draft<br>stereo<br>decade<br>follow<br>mercy<br>monitor
-bip_39_word_new_br_11: grit<br>sight<br>celery<br>tumble<br>draft<br>stereo<br>decade<br>follow<br>mercy<br>monitor<br>bird
 bip_39_word_new_br_12: grit<br>sight<br>celery<br>tumble<br>draft<br>stereo<br>decade<br>follow<br>mercy<br>monitor<br>bird<br>amazing
 bip_39_word_new_br_2: grit<br>sight
 bip_39_word_new_br_3: grit<br>sight<br>celery
-bip_39_word_new_br_4: grit<br>sight<br>celery<br>tumble
-bip_39_word_new_br_5: grit<br>sight<br>celery<br>tumble<br>draft
-bip_39_word_new_br_6: grit<br>sight<br>celery<br>tumble<br>draft<br>stereo
-bip_39_word_new_br_7: grit<br>sight<br>celery<br>tumble<br>draft<br>stereo<br>decade
-bip_39_word_new_br_8: grit<br>sight<br>celery<br>tumble<br>draft<br>stereo<br>decade<br>follow
-bip_39_word_new_br_9: grit<br>sight<br>celery<br>tumble<br>draft<br>stereo<br>decade<br>follow<br>mercy
-bip_39_word_new_line_1: grit
-bip_39_word_new_line_10: 'grit
-
-  sight
-
-  celery
-
-  tumble
-
-  draft
-
-  stereo
-
-  decade
-
-  follow
-
-  mercy
-
-  monitor'
-bip_39_word_new_line_11: 'grit
-
-  sight
-
-  celery
-
-  tumble
-
-  draft
-
-  stereo
-
-  decade
-
-  follow
-
-  mercy
-
-  monitor
-
-  bird'
 bip_39_word_new_line_12: 'grit
 
   sight
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'grit
   sight
 
   celery'
-bip_39_word_new_line_4: 'grit
-
-  sight
-
-  celery
-
-  tumble'
-bip_39_word_new_line_5: 'grit
-
-  sight
-
-  celery
-
-  tumble
-
-  draft'
-bip_39_word_new_line_6: 'grit
-
-  sight
-
-  celery
-
-  tumble
-
-  draft
-
-  stereo'
-bip_39_word_new_line_7: 'grit
-
-  sight
-
-  celery
-
-  tumble
-
-  draft
-
-  stereo
-
-  decade'
-bip_39_word_new_line_8: 'grit
-
-  sight
-
-  celery
-
-  tumble
-
-  draft
-
-  stereo
-
-  decade
-
-  follow'
-bip_39_word_new_line_9: 'grit
-
-  sight
-
-  celery
-
-  tumble
-
-  draft
-
-  stereo
-
-  decade
-
-  follow
-
-  mercy'
-bip_39_word_no_space_1: grit
-bip_39_word_no_space_10: gritsightcelerytumbledraftstereodecadefollowmercymonitor
-bip_39_word_no_space_11: gritsightcelerytumbledraftstereodecadefollowmercymonitorbird
 bip_39_word_no_space_12: gritsightcelerytumbledraftstereodecadefollowmercymonitorbirdamazing
 bip_39_word_no_space_2: gritsight
 bip_39_word_no_space_3: gritsightcelery
-bip_39_word_no_space_4: gritsightcelerytumble
-bip_39_word_no_space_5: gritsightcelerytumbledraft
-bip_39_word_no_space_6: gritsightcelerytumbledraftstereo
-bip_39_word_no_space_7: gritsightcelerytumbledraftstereodecade
-bip_39_word_no_space_8: gritsightcelerytumbledraftstereodecadefollow
-bip_39_word_no_space_9: gritsightcelerytumbledraftstereodecadefollowmercy
-bip_39_word_space_0:
-- grit
-- sight
-- celery
-- tumble
-- draft
-- stereo
-- decade
-- follow
-- mercy
-- monitor
-- bird
-- amazing
-bip_39_word_space_1: grit
-bip_39_word_space_10: grit sight celery tumble draft stereo decade follow mercy monitor
-bip_39_word_space_11: grit sight celery tumble draft stereo decade follow mercy monitor
-  bird
 bip_39_word_space_12: grit sight celery tumble draft stereo decade follow mercy monitor
   bird amazing
 bip_39_word_space_2: grit sight
 bip_39_word_space_3: grit sight celery
-bip_39_word_space_4: grit sight celery tumble
-bip_39_word_space_5: grit sight celery tumble draft
-bip_39_word_space_6: grit sight celery tumble draft stereo
-bip_39_word_space_7: grit sight celery tumble draft stereo decade
-bip_39_word_space_8: grit sight celery tumble draft stereo decade follow
-bip_39_word_space_9: grit sight celery tumble draft stereo decade follow mercy
-bip_39_word_underscore_1: grit
-bip_39_word_underscore_10: grit_sight_celery_tumble_draft_stereo_decade_follow_mercy_monitor
-bip_39_word_underscore_11: grit_sight_celery_tumble_draft_stereo_decade_follow_mercy_monitor_bird
 bip_39_word_underscore_12: grit_sight_celery_tumble_draft_stereo_decade_follow_mercy_monitor_bird_amazing
 bip_39_word_underscore_2: grit_sight
 bip_39_word_underscore_3: grit_sight_celery
-bip_39_word_underscore_4: grit_sight_celery_tumble
-bip_39_word_underscore_5: grit_sight_celery_tumble_draft
-bip_39_word_underscore_6: grit_sight_celery_tumble_draft_stereo
-bip_39_word_underscore_7: grit_sight_celery_tumble_draft_stereo_decade
-bip_39_word_underscore_8: grit_sight_celery_tumble_draft_stereo_decade_follow
-bip_39_word_underscore_9: grit_sight_celery_tumble_draft_stereo_decade_follow_mercy
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

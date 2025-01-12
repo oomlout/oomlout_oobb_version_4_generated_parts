@@ -1,68 +1,9 @@
-bip_39_word_dash_1: cloud
-bip_39_word_dash_10: cloud-garage-oven-world-sick-since-mirror-glove-caution-ramp
-bip_39_word_dash_11: cloud-garage-oven-world-sick-since-mirror-glove-caution-ramp-video
 bip_39_word_dash_12: cloud-garage-oven-world-sick-since-mirror-glove-caution-ramp-video-art
 bip_39_word_dash_2: cloud-garage
 bip_39_word_dash_3: cloud-garage-oven
-bip_39_word_dash_4: cloud-garage-oven-world
-bip_39_word_dash_5: cloud-garage-oven-world-sick
-bip_39_word_dash_6: cloud-garage-oven-world-sick-since
-bip_39_word_dash_7: cloud-garage-oven-world-sick-since-mirror
-bip_39_word_dash_8: cloud-garage-oven-world-sick-since-mirror-glove
-bip_39_word_dash_9: cloud-garage-oven-world-sick-since-mirror-glove-caution
-bip_39_word_new_br_1: cloud
-bip_39_word_new_br_10: cloud<br>garage<br>oven<br>world<br>sick<br>since<br>mirror<br>glove<br>caution<br>ramp
-bip_39_word_new_br_11: cloud<br>garage<br>oven<br>world<br>sick<br>since<br>mirror<br>glove<br>caution<br>ramp<br>video
 bip_39_word_new_br_12: cloud<br>garage<br>oven<br>world<br>sick<br>since<br>mirror<br>glove<br>caution<br>ramp<br>video<br>art
 bip_39_word_new_br_2: cloud<br>garage
 bip_39_word_new_br_3: cloud<br>garage<br>oven
-bip_39_word_new_br_4: cloud<br>garage<br>oven<br>world
-bip_39_word_new_br_5: cloud<br>garage<br>oven<br>world<br>sick
-bip_39_word_new_br_6: cloud<br>garage<br>oven<br>world<br>sick<br>since
-bip_39_word_new_br_7: cloud<br>garage<br>oven<br>world<br>sick<br>since<br>mirror
-bip_39_word_new_br_8: cloud<br>garage<br>oven<br>world<br>sick<br>since<br>mirror<br>glove
-bip_39_word_new_br_9: cloud<br>garage<br>oven<br>world<br>sick<br>since<br>mirror<br>glove<br>caution
-bip_39_word_new_line_1: cloud
-bip_39_word_new_line_10: 'cloud
-
-  garage
-
-  oven
-
-  world
-
-  sick
-
-  since
-
-  mirror
-
-  glove
-
-  caution
-
-  ramp'
-bip_39_word_new_line_11: 'cloud
-
-  garage
-
-  oven
-
-  world
-
-  sick
-
-  since
-
-  mirror
-
-  glove
-
-  caution
-
-  ramp
-
-  video'
 bip_39_word_new_line_12: 'cloud
 
   garage
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'cloud
   garage
 
   oven'
-bip_39_word_new_line_4: 'cloud
-
-  garage
-
-  oven
-
-  world'
-bip_39_word_new_line_5: 'cloud
-
-  garage
-
-  oven
-
-  world
-
-  sick'
-bip_39_word_new_line_6: 'cloud
-
-  garage
-
-  oven
-
-  world
-
-  sick
-
-  since'
-bip_39_word_new_line_7: 'cloud
-
-  garage
-
-  oven
-
-  world
-
-  sick
-
-  since
-
-  mirror'
-bip_39_word_new_line_8: 'cloud
-
-  garage
-
-  oven
-
-  world
-
-  sick
-
-  since
-
-  mirror
-
-  glove'
-bip_39_word_new_line_9: 'cloud
-
-  garage
-
-  oven
-
-  world
-
-  sick
-
-  since
-
-  mirror
-
-  glove
-
-  caution'
-bip_39_word_no_space_1: cloud
-bip_39_word_no_space_10: cloudgarageovenworldsicksincemirrorglovecautionramp
-bip_39_word_no_space_11: cloudgarageovenworldsicksincemirrorglovecautionrampvideo
 bip_39_word_no_space_12: cloudgarageovenworldsicksincemirrorglovecautionrampvideoart
 bip_39_word_no_space_2: cloudgarage
 bip_39_word_no_space_3: cloudgarageoven
-bip_39_word_no_space_4: cloudgarageovenworld
-bip_39_word_no_space_5: cloudgarageovenworldsick
-bip_39_word_no_space_6: cloudgarageovenworldsicksince
-bip_39_word_no_space_7: cloudgarageovenworldsicksincemirror
-bip_39_word_no_space_8: cloudgarageovenworldsicksincemirrorglove
-bip_39_word_no_space_9: cloudgarageovenworldsicksincemirrorglovecaution
-bip_39_word_space_0:
-- cloud
-- garage
-- oven
-- world
-- sick
-- since
-- mirror
-- glove
-- caution
-- ramp
-- video
-- art
-bip_39_word_space_1: cloud
-bip_39_word_space_10: cloud garage oven world sick since mirror glove caution ramp
-bip_39_word_space_11: cloud garage oven world sick since mirror glove caution ramp
-  video
 bip_39_word_space_12: cloud garage oven world sick since mirror glove caution ramp
   video art
 bip_39_word_space_2: cloud garage
 bip_39_word_space_3: cloud garage oven
-bip_39_word_space_4: cloud garage oven world
-bip_39_word_space_5: cloud garage oven world sick
-bip_39_word_space_6: cloud garage oven world sick since
-bip_39_word_space_7: cloud garage oven world sick since mirror
-bip_39_word_space_8: cloud garage oven world sick since mirror glove
-bip_39_word_space_9: cloud garage oven world sick since mirror glove caution
-bip_39_word_underscore_1: cloud
-bip_39_word_underscore_10: cloud_garage_oven_world_sick_since_mirror_glove_caution_ramp
-bip_39_word_underscore_11: cloud_garage_oven_world_sick_since_mirror_glove_caution_ramp_video
 bip_39_word_underscore_12: cloud_garage_oven_world_sick_since_mirror_glove_caution_ramp_video_art
 bip_39_word_underscore_2: cloud_garage
 bip_39_word_underscore_3: cloud_garage_oven
-bip_39_word_underscore_4: cloud_garage_oven_world
-bip_39_word_underscore_5: cloud_garage_oven_world_sick
-bip_39_word_underscore_6: cloud_garage_oven_world_sick_since
-bip_39_word_underscore_7: cloud_garage_oven_world_sick_since_mirror
-bip_39_word_underscore_8: cloud_garage_oven_world_sick_since_mirror_glove
-bip_39_word_underscore_9: cloud_garage_oven_world_sick_since_mirror_glove_caution
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

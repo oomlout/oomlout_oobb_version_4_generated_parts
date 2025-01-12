@@ -1,68 +1,9 @@
-bip_39_word_dash_1: dog
-bip_39_word_dash_10: dog-brick-sphere-dove-era-party-debate-green-skin-apology
-bip_39_word_dash_11: dog-brick-sphere-dove-era-party-debate-green-skin-apology-faith
 bip_39_word_dash_12: dog-brick-sphere-dove-era-party-debate-green-skin-apology-faith-afraid
 bip_39_word_dash_2: dog-brick
 bip_39_word_dash_3: dog-brick-sphere
-bip_39_word_dash_4: dog-brick-sphere-dove
-bip_39_word_dash_5: dog-brick-sphere-dove-era
-bip_39_word_dash_6: dog-brick-sphere-dove-era-party
-bip_39_word_dash_7: dog-brick-sphere-dove-era-party-debate
-bip_39_word_dash_8: dog-brick-sphere-dove-era-party-debate-green
-bip_39_word_dash_9: dog-brick-sphere-dove-era-party-debate-green-skin
-bip_39_word_new_br_1: dog
-bip_39_word_new_br_10: dog<br>brick<br>sphere<br>dove<br>era<br>party<br>debate<br>green<br>skin<br>apology
-bip_39_word_new_br_11: dog<br>brick<br>sphere<br>dove<br>era<br>party<br>debate<br>green<br>skin<br>apology<br>faith
 bip_39_word_new_br_12: dog<br>brick<br>sphere<br>dove<br>era<br>party<br>debate<br>green<br>skin<br>apology<br>faith<br>afraid
 bip_39_word_new_br_2: dog<br>brick
 bip_39_word_new_br_3: dog<br>brick<br>sphere
-bip_39_word_new_br_4: dog<br>brick<br>sphere<br>dove
-bip_39_word_new_br_5: dog<br>brick<br>sphere<br>dove<br>era
-bip_39_word_new_br_6: dog<br>brick<br>sphere<br>dove<br>era<br>party
-bip_39_word_new_br_7: dog<br>brick<br>sphere<br>dove<br>era<br>party<br>debate
-bip_39_word_new_br_8: dog<br>brick<br>sphere<br>dove<br>era<br>party<br>debate<br>green
-bip_39_word_new_br_9: dog<br>brick<br>sphere<br>dove<br>era<br>party<br>debate<br>green<br>skin
-bip_39_word_new_line_1: dog
-bip_39_word_new_line_10: 'dog
-
-  brick
-
-  sphere
-
-  dove
-
-  era
-
-  party
-
-  debate
-
-  green
-
-  skin
-
-  apology'
-bip_39_word_new_line_11: 'dog
-
-  brick
-
-  sphere
-
-  dove
-
-  era
-
-  party
-
-  debate
-
-  green
-
-  skin
-
-  apology
-
-  faith'
 bip_39_word_new_line_12: 'dog
 
   brick
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'dog
   brick
 
   sphere'
-bip_39_word_new_line_4: 'dog
-
-  brick
-
-  sphere
-
-  dove'
-bip_39_word_new_line_5: 'dog
-
-  brick
-
-  sphere
-
-  dove
-
-  era'
-bip_39_word_new_line_6: 'dog
-
-  brick
-
-  sphere
-
-  dove
-
-  era
-
-  party'
-bip_39_word_new_line_7: 'dog
-
-  brick
-
-  sphere
-
-  dove
-
-  era
-
-  party
-
-  debate'
-bip_39_word_new_line_8: 'dog
-
-  brick
-
-  sphere
-
-  dove
-
-  era
-
-  party
-
-  debate
-
-  green'
-bip_39_word_new_line_9: 'dog
-
-  brick
-
-  sphere
-
-  dove
-
-  era
-
-  party
-
-  debate
-
-  green
-
-  skin'
-bip_39_word_no_space_1: dog
-bip_39_word_no_space_10: dogbrickspheredoveerapartydebategreenskinapology
-bip_39_word_no_space_11: dogbrickspheredoveerapartydebategreenskinapologyfaith
 bip_39_word_no_space_12: dogbrickspheredoveerapartydebategreenskinapologyfaithafraid
 bip_39_word_no_space_2: dogbrick
 bip_39_word_no_space_3: dogbricksphere
-bip_39_word_no_space_4: dogbrickspheredove
-bip_39_word_no_space_5: dogbrickspheredoveera
-bip_39_word_no_space_6: dogbrickspheredoveeraparty
-bip_39_word_no_space_7: dogbrickspheredoveerapartydebate
-bip_39_word_no_space_8: dogbrickspheredoveerapartydebategreen
-bip_39_word_no_space_9: dogbrickspheredoveerapartydebategreenskin
-bip_39_word_space_0:
-- dog
-- brick
-- sphere
-- dove
-- era
-- party
-- debate
-- green
-- skin
-- apology
-- faith
-- afraid
-bip_39_word_space_1: dog
-bip_39_word_space_10: dog brick sphere dove era party debate green skin apology
-bip_39_word_space_11: dog brick sphere dove era party debate green skin apology faith
 bip_39_word_space_12: dog brick sphere dove era party debate green skin apology faith
   afraid
 bip_39_word_space_2: dog brick
 bip_39_word_space_3: dog brick sphere
-bip_39_word_space_4: dog brick sphere dove
-bip_39_word_space_5: dog brick sphere dove era
-bip_39_word_space_6: dog brick sphere dove era party
-bip_39_word_space_7: dog brick sphere dove era party debate
-bip_39_word_space_8: dog brick sphere dove era party debate green
-bip_39_word_space_9: dog brick sphere dove era party debate green skin
-bip_39_word_underscore_1: dog
-bip_39_word_underscore_10: dog_brick_sphere_dove_era_party_debate_green_skin_apology
-bip_39_word_underscore_11: dog_brick_sphere_dove_era_party_debate_green_skin_apology_faith
 bip_39_word_underscore_12: dog_brick_sphere_dove_era_party_debate_green_skin_apology_faith_afraid
 bip_39_word_underscore_2: dog_brick
 bip_39_word_underscore_3: dog_brick_sphere
-bip_39_word_underscore_4: dog_brick_sphere_dove
-bip_39_word_underscore_5: dog_brick_sphere_dove_era
-bip_39_word_underscore_6: dog_brick_sphere_dove_era_party
-bip_39_word_underscore_7: dog_brick_sphere_dove_era_party_debate
-bip_39_word_underscore_8: dog_brick_sphere_dove_era_party_debate_green
-bip_39_word_underscore_9: dog_brick_sphere_dove_era_party_debate_green_skin
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

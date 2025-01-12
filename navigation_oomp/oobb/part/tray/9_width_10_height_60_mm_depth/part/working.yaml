@@ -1,68 +1,9 @@
-bip_39_word_dash_1: paper
-bip_39_word_dash_10: paper-north-foil-upper-capital-slush-quote-drill-pony-runway
-bip_39_word_dash_11: paper-north-foil-upper-capital-slush-quote-drill-pony-runway-lunar
 bip_39_word_dash_12: paper-north-foil-upper-capital-slush-quote-drill-pony-runway-lunar-alert
 bip_39_word_dash_2: paper-north
 bip_39_word_dash_3: paper-north-foil
-bip_39_word_dash_4: paper-north-foil-upper
-bip_39_word_dash_5: paper-north-foil-upper-capital
-bip_39_word_dash_6: paper-north-foil-upper-capital-slush
-bip_39_word_dash_7: paper-north-foil-upper-capital-slush-quote
-bip_39_word_dash_8: paper-north-foil-upper-capital-slush-quote-drill
-bip_39_word_dash_9: paper-north-foil-upper-capital-slush-quote-drill-pony
-bip_39_word_new_br_1: paper
-bip_39_word_new_br_10: paper<br>north<br>foil<br>upper<br>capital<br>slush<br>quote<br>drill<br>pony<br>runway
-bip_39_word_new_br_11: paper<br>north<br>foil<br>upper<br>capital<br>slush<br>quote<br>drill<br>pony<br>runway<br>lunar
 bip_39_word_new_br_12: paper<br>north<br>foil<br>upper<br>capital<br>slush<br>quote<br>drill<br>pony<br>runway<br>lunar<br>alert
 bip_39_word_new_br_2: paper<br>north
 bip_39_word_new_br_3: paper<br>north<br>foil
-bip_39_word_new_br_4: paper<br>north<br>foil<br>upper
-bip_39_word_new_br_5: paper<br>north<br>foil<br>upper<br>capital
-bip_39_word_new_br_6: paper<br>north<br>foil<br>upper<br>capital<br>slush
-bip_39_word_new_br_7: paper<br>north<br>foil<br>upper<br>capital<br>slush<br>quote
-bip_39_word_new_br_8: paper<br>north<br>foil<br>upper<br>capital<br>slush<br>quote<br>drill
-bip_39_word_new_br_9: paper<br>north<br>foil<br>upper<br>capital<br>slush<br>quote<br>drill<br>pony
-bip_39_word_new_line_1: paper
-bip_39_word_new_line_10: 'paper
-
-  north
-
-  foil
-
-  upper
-
-  capital
-
-  slush
-
-  quote
-
-  drill
-
-  pony
-
-  runway'
-bip_39_word_new_line_11: 'paper
-
-  north
-
-  foil
-
-  upper
-
-  capital
-
-  slush
-
-  quote
-
-  drill
-
-  pony
-
-  runway
-
-  lunar'
 bip_39_word_new_line_12: 'paper
 
   north
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'paper
   north
 
   foil'
-bip_39_word_new_line_4: 'paper
-
-  north
-
-  foil
-
-  upper'
-bip_39_word_new_line_5: 'paper
-
-  north
-
-  foil
-
-  upper
-
-  capital'
-bip_39_word_new_line_6: 'paper
-
-  north
-
-  foil
-
-  upper
-
-  capital
-
-  slush'
-bip_39_word_new_line_7: 'paper
-
-  north
-
-  foil
-
-  upper
-
-  capital
-
-  slush
-
-  quote'
-bip_39_word_new_line_8: 'paper
-
-  north
-
-  foil
-
-  upper
-
-  capital
-
-  slush
-
-  quote
-
-  drill'
-bip_39_word_new_line_9: 'paper
-
-  north
-
-  foil
-
-  upper
-
-  capital
-
-  slush
-
-  quote
-
-  drill
-
-  pony'
-bip_39_word_no_space_1: paper
-bip_39_word_no_space_10: papernorthfoiluppercapitalslushquotedrillponyrunway
-bip_39_word_no_space_11: papernorthfoiluppercapitalslushquotedrillponyrunwaylunar
 bip_39_word_no_space_12: papernorthfoiluppercapitalslushquotedrillponyrunwaylunaralert
 bip_39_word_no_space_2: papernorth
 bip_39_word_no_space_3: papernorthfoil
-bip_39_word_no_space_4: papernorthfoilupper
-bip_39_word_no_space_5: papernorthfoiluppercapital
-bip_39_word_no_space_6: papernorthfoiluppercapitalslush
-bip_39_word_no_space_7: papernorthfoiluppercapitalslushquote
-bip_39_word_no_space_8: papernorthfoiluppercapitalslushquotedrill
-bip_39_word_no_space_9: papernorthfoiluppercapitalslushquotedrillpony
-bip_39_word_space_0:
-- paper
-- north
-- foil
-- upper
-- capital
-- slush
-- quote
-- drill
-- pony
-- runway
-- lunar
-- alert
-bip_39_word_space_1: paper
-bip_39_word_space_10: paper north foil upper capital slush quote drill pony runway
-bip_39_word_space_11: paper north foil upper capital slush quote drill pony runway
-  lunar
 bip_39_word_space_12: paper north foil upper capital slush quote drill pony runway
   lunar alert
 bip_39_word_space_2: paper north
 bip_39_word_space_3: paper north foil
-bip_39_word_space_4: paper north foil upper
-bip_39_word_space_5: paper north foil upper capital
-bip_39_word_space_6: paper north foil upper capital slush
-bip_39_word_space_7: paper north foil upper capital slush quote
-bip_39_word_space_8: paper north foil upper capital slush quote drill
-bip_39_word_space_9: paper north foil upper capital slush quote drill pony
-bip_39_word_underscore_1: paper
-bip_39_word_underscore_10: paper_north_foil_upper_capital_slush_quote_drill_pony_runway
-bip_39_word_underscore_11: paper_north_foil_upper_capital_slush_quote_drill_pony_runway_lunar
 bip_39_word_underscore_12: paper_north_foil_upper_capital_slush_quote_drill_pony_runway_lunar_alert
 bip_39_word_underscore_2: paper_north
 bip_39_word_underscore_3: paper_north_foil
-bip_39_word_underscore_4: paper_north_foil_upper
-bip_39_word_underscore_5: paper_north_foil_upper_capital
-bip_39_word_underscore_6: paper_north_foil_upper_capital_slush
-bip_39_word_underscore_7: paper_north_foil_upper_capital_slush_quote
-bip_39_word_underscore_8: paper_north_foil_upper_capital_slush_quote_drill
-bip_39_word_underscore_9: paper_north_foil_upper_capital_slush_quote_drill_pony
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

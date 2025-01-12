@@ -1,68 +1,9 @@
-bip_39_word_dash_1: fresh
-bip_39_word_dash_10: fresh-behind-spike-door-hat-arrange-calm-cat-snow-eager
-bip_39_word_dash_11: fresh-behind-spike-door-hat-arrange-calm-cat-snow-eager-scan
 bip_39_word_dash_12: fresh-behind-spike-door-hat-arrange-calm-cat-snow-eager-scan-avocado
 bip_39_word_dash_2: fresh-behind
 bip_39_word_dash_3: fresh-behind-spike
-bip_39_word_dash_4: fresh-behind-spike-door
-bip_39_word_dash_5: fresh-behind-spike-door-hat
-bip_39_word_dash_6: fresh-behind-spike-door-hat-arrange
-bip_39_word_dash_7: fresh-behind-spike-door-hat-arrange-calm
-bip_39_word_dash_8: fresh-behind-spike-door-hat-arrange-calm-cat
-bip_39_word_dash_9: fresh-behind-spike-door-hat-arrange-calm-cat-snow
-bip_39_word_new_br_1: fresh
-bip_39_word_new_br_10: fresh<br>behind<br>spike<br>door<br>hat<br>arrange<br>calm<br>cat<br>snow<br>eager
-bip_39_word_new_br_11: fresh<br>behind<br>spike<br>door<br>hat<br>arrange<br>calm<br>cat<br>snow<br>eager<br>scan
 bip_39_word_new_br_12: fresh<br>behind<br>spike<br>door<br>hat<br>arrange<br>calm<br>cat<br>snow<br>eager<br>scan<br>avocado
 bip_39_word_new_br_2: fresh<br>behind
 bip_39_word_new_br_3: fresh<br>behind<br>spike
-bip_39_word_new_br_4: fresh<br>behind<br>spike<br>door
-bip_39_word_new_br_5: fresh<br>behind<br>spike<br>door<br>hat
-bip_39_word_new_br_6: fresh<br>behind<br>spike<br>door<br>hat<br>arrange
-bip_39_word_new_br_7: fresh<br>behind<br>spike<br>door<br>hat<br>arrange<br>calm
-bip_39_word_new_br_8: fresh<br>behind<br>spike<br>door<br>hat<br>arrange<br>calm<br>cat
-bip_39_word_new_br_9: fresh<br>behind<br>spike<br>door<br>hat<br>arrange<br>calm<br>cat<br>snow
-bip_39_word_new_line_1: fresh
-bip_39_word_new_line_10: 'fresh
-
-  behind
-
-  spike
-
-  door
-
-  hat
-
-  arrange
-
-  calm
-
-  cat
-
-  snow
-
-  eager'
-bip_39_word_new_line_11: 'fresh
-
-  behind
-
-  spike
-
-  door
-
-  hat
-
-  arrange
-
-  calm
-
-  cat
-
-  snow
-
-  eager
-
-  scan'
 bip_39_word_new_line_12: 'fresh
 
   behind
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'fresh
   behind
 
   spike'
-bip_39_word_new_line_4: 'fresh
-
-  behind
-
-  spike
-
-  door'
-bip_39_word_new_line_5: 'fresh
-
-  behind
-
-  spike
-
-  door
-
-  hat'
-bip_39_word_new_line_6: 'fresh
-
-  behind
-
-  spike
-
-  door
-
-  hat
-
-  arrange'
-bip_39_word_new_line_7: 'fresh
-
-  behind
-
-  spike
-
-  door
-
-  hat
-
-  arrange
-
-  calm'
-bip_39_word_new_line_8: 'fresh
-
-  behind
-
-  spike
-
-  door
-
-  hat
-
-  arrange
-
-  calm
-
-  cat'
-bip_39_word_new_line_9: 'fresh
-
-  behind
-
-  spike
-
-  door
-
-  hat
-
-  arrange
-
-  calm
-
-  cat
-
-  snow'
-bip_39_word_no_space_1: fresh
-bip_39_word_no_space_10: freshbehindspikedoorhatarrangecalmcatsnoweager
-bip_39_word_no_space_11: freshbehindspikedoorhatarrangecalmcatsnoweagerscan
 bip_39_word_no_space_12: freshbehindspikedoorhatarrangecalmcatsnoweagerscanavocado
 bip_39_word_no_space_2: freshbehind
 bip_39_word_no_space_3: freshbehindspike
-bip_39_word_no_space_4: freshbehindspikedoor
-bip_39_word_no_space_5: freshbehindspikedoorhat
-bip_39_word_no_space_6: freshbehindspikedoorhatarrange
-bip_39_word_no_space_7: freshbehindspikedoorhatarrangecalm
-bip_39_word_no_space_8: freshbehindspikedoorhatarrangecalmcat
-bip_39_word_no_space_9: freshbehindspikedoorhatarrangecalmcatsnow
-bip_39_word_space_0:
-- fresh
-- behind
-- spike
-- door
-- hat
-- arrange
-- calm
-- cat
-- snow
-- eager
-- scan
-- avocado
-bip_39_word_space_1: fresh
-bip_39_word_space_10: fresh behind spike door hat arrange calm cat snow eager
-bip_39_word_space_11: fresh behind spike door hat arrange calm cat snow eager scan
 bip_39_word_space_12: fresh behind spike door hat arrange calm cat snow eager scan
   avocado
 bip_39_word_space_2: fresh behind
 bip_39_word_space_3: fresh behind spike
-bip_39_word_space_4: fresh behind spike door
-bip_39_word_space_5: fresh behind spike door hat
-bip_39_word_space_6: fresh behind spike door hat arrange
-bip_39_word_space_7: fresh behind spike door hat arrange calm
-bip_39_word_space_8: fresh behind spike door hat arrange calm cat
-bip_39_word_space_9: fresh behind spike door hat arrange calm cat snow
-bip_39_word_underscore_1: fresh
-bip_39_word_underscore_10: fresh_behind_spike_door_hat_arrange_calm_cat_snow_eager
-bip_39_word_underscore_11: fresh_behind_spike_door_hat_arrange_calm_cat_snow_eager_scan
 bip_39_word_underscore_12: fresh_behind_spike_door_hat_arrange_calm_cat_snow_eager_scan_avocado
 bip_39_word_underscore_2: fresh_behind
 bip_39_word_underscore_3: fresh_behind_spike
-bip_39_word_underscore_4: fresh_behind_spike_door
-bip_39_word_underscore_5: fresh_behind_spike_door_hat
-bip_39_word_underscore_6: fresh_behind_spike_door_hat_arrange
-bip_39_word_underscore_7: fresh_behind_spike_door_hat_arrange_calm
-bip_39_word_underscore_8: fresh_behind_spike_door_hat_arrange_calm_cat
-bip_39_word_underscore_9: fresh_behind_spike_door_hat_arrange_calm_cat_snow
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

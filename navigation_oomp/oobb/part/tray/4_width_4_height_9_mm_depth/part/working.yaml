@@ -1,68 +1,9 @@
-bip_39_word_dash_1: rural
-bip_39_word_dash_10: rural-train-join-prefer-youth-lion-off-night-practice-start
-bip_39_word_dash_11: rural-train-join-prefer-youth-lion-off-night-practice-start-priority
 bip_39_word_dash_12: rural-train-join-prefer-youth-lion-off-night-practice-start-priority-avocado
 bip_39_word_dash_2: rural-train
 bip_39_word_dash_3: rural-train-join
-bip_39_word_dash_4: rural-train-join-prefer
-bip_39_word_dash_5: rural-train-join-prefer-youth
-bip_39_word_dash_6: rural-train-join-prefer-youth-lion
-bip_39_word_dash_7: rural-train-join-prefer-youth-lion-off
-bip_39_word_dash_8: rural-train-join-prefer-youth-lion-off-night
-bip_39_word_dash_9: rural-train-join-prefer-youth-lion-off-night-practice
-bip_39_word_new_br_1: rural
-bip_39_word_new_br_10: rural<br>train<br>join<br>prefer<br>youth<br>lion<br>off<br>night<br>practice<br>start
-bip_39_word_new_br_11: rural<br>train<br>join<br>prefer<br>youth<br>lion<br>off<br>night<br>practice<br>start<br>priority
 bip_39_word_new_br_12: rural<br>train<br>join<br>prefer<br>youth<br>lion<br>off<br>night<br>practice<br>start<br>priority<br>avocado
 bip_39_word_new_br_2: rural<br>train
 bip_39_word_new_br_3: rural<br>train<br>join
-bip_39_word_new_br_4: rural<br>train<br>join<br>prefer
-bip_39_word_new_br_5: rural<br>train<br>join<br>prefer<br>youth
-bip_39_word_new_br_6: rural<br>train<br>join<br>prefer<br>youth<br>lion
-bip_39_word_new_br_7: rural<br>train<br>join<br>prefer<br>youth<br>lion<br>off
-bip_39_word_new_br_8: rural<br>train<br>join<br>prefer<br>youth<br>lion<br>off<br>night
-bip_39_word_new_br_9: rural<br>train<br>join<br>prefer<br>youth<br>lion<br>off<br>night<br>practice
-bip_39_word_new_line_1: rural
-bip_39_word_new_line_10: 'rural
-
-  train
-
-  join
-
-  prefer
-
-  youth
-
-  lion
-
-  off
-
-  night
-
-  practice
-
-  start'
-bip_39_word_new_line_11: 'rural
-
-  train
-
-  join
-
-  prefer
-
-  youth
-
-  lion
-
-  off
-
-  night
-
-  practice
-
-  start
-
-  priority'
 bip_39_word_new_line_12: 'rural
 
   train
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'rural
   train
 
   join'
-bip_39_word_new_line_4: 'rural
-
-  train
-
-  join
-
-  prefer'
-bip_39_word_new_line_5: 'rural
-
-  train
-
-  join
-
-  prefer
-
-  youth'
-bip_39_word_new_line_6: 'rural
-
-  train
-
-  join
-
-  prefer
-
-  youth
-
-  lion'
-bip_39_word_new_line_7: 'rural
-
-  train
-
-  join
-
-  prefer
-
-  youth
-
-  lion
-
-  off'
-bip_39_word_new_line_8: 'rural
-
-  train
-
-  join
-
-  prefer
-
-  youth
-
-  lion
-
-  off
-
-  night'
-bip_39_word_new_line_9: 'rural
-
-  train
-
-  join
-
-  prefer
-
-  youth
-
-  lion
-
-  off
-
-  night
-
-  practice'
-bip_39_word_no_space_1: rural
-bip_39_word_no_space_10: ruraltrainjoinpreferyouthlionoffnightpracticestart
-bip_39_word_no_space_11: ruraltrainjoinpreferyouthlionoffnightpracticestartpriority
 bip_39_word_no_space_12: ruraltrainjoinpreferyouthlionoffnightpracticestartpriorityavocado
 bip_39_word_no_space_2: ruraltrain
 bip_39_word_no_space_3: ruraltrainjoin
-bip_39_word_no_space_4: ruraltrainjoinprefer
-bip_39_word_no_space_5: ruraltrainjoinpreferyouth
-bip_39_word_no_space_6: ruraltrainjoinpreferyouthlion
-bip_39_word_no_space_7: ruraltrainjoinpreferyouthlionoff
-bip_39_word_no_space_8: ruraltrainjoinpreferyouthlionoffnight
-bip_39_word_no_space_9: ruraltrainjoinpreferyouthlionoffnightpractice
-bip_39_word_space_0:
-- rural
-- train
-- join
-- prefer
-- youth
-- lion
-- 'off'
-- night
-- practice
-- start
-- priority
-- avocado
-bip_39_word_space_1: rural
-bip_39_word_space_10: rural train join prefer youth lion off night practice start
-bip_39_word_space_11: rural train join prefer youth lion off night practice start
-  priority
 bip_39_word_space_12: rural train join prefer youth lion off night practice start
   priority avocado
 bip_39_word_space_2: rural train
 bip_39_word_space_3: rural train join
-bip_39_word_space_4: rural train join prefer
-bip_39_word_space_5: rural train join prefer youth
-bip_39_word_space_6: rural train join prefer youth lion
-bip_39_word_space_7: rural train join prefer youth lion off
-bip_39_word_space_8: rural train join prefer youth lion off night
-bip_39_word_space_9: rural train join prefer youth lion off night practice
-bip_39_word_underscore_1: rural
-bip_39_word_underscore_10: rural_train_join_prefer_youth_lion_off_night_practice_start
-bip_39_word_underscore_11: rural_train_join_prefer_youth_lion_off_night_practice_start_priority
 bip_39_word_underscore_12: rural_train_join_prefer_youth_lion_off_night_practice_start_priority_avocado
 bip_39_word_underscore_2: rural_train
 bip_39_word_underscore_3: rural_train_join
-bip_39_word_underscore_4: rural_train_join_prefer
-bip_39_word_underscore_5: rural_train_join_prefer_youth
-bip_39_word_underscore_6: rural_train_join_prefer_youth_lion
-bip_39_word_underscore_7: rural_train_join_prefer_youth_lion_off
-bip_39_word_underscore_8: rural_train_join_prefer_youth_lion_off_night
-bip_39_word_underscore_9: rural_train_join_prefer_youth_lion_off_night_practice
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

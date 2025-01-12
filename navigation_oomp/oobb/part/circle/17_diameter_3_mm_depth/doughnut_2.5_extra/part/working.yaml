@@ -1,68 +1,9 @@
-bip_39_word_dash_1: write
-bip_39_word_dash_10: write-update-rose-athlete-pizza-frost-decline-slab-ladder-maid
-bip_39_word_dash_11: write-update-rose-athlete-pizza-frost-decline-slab-ladder-maid-unhappy
 bip_39_word_dash_12: write-update-rose-athlete-pizza-frost-decline-slab-ladder-maid-unhappy-aisle
 bip_39_word_dash_2: write-update
 bip_39_word_dash_3: write-update-rose
-bip_39_word_dash_4: write-update-rose-athlete
-bip_39_word_dash_5: write-update-rose-athlete-pizza
-bip_39_word_dash_6: write-update-rose-athlete-pizza-frost
-bip_39_word_dash_7: write-update-rose-athlete-pizza-frost-decline
-bip_39_word_dash_8: write-update-rose-athlete-pizza-frost-decline-slab
-bip_39_word_dash_9: write-update-rose-athlete-pizza-frost-decline-slab-ladder
-bip_39_word_new_br_1: write
-bip_39_word_new_br_10: write<br>update<br>rose<br>athlete<br>pizza<br>frost<br>decline<br>slab<br>ladder<br>maid
-bip_39_word_new_br_11: write<br>update<br>rose<br>athlete<br>pizza<br>frost<br>decline<br>slab<br>ladder<br>maid<br>unhappy
 bip_39_word_new_br_12: write<br>update<br>rose<br>athlete<br>pizza<br>frost<br>decline<br>slab<br>ladder<br>maid<br>unhappy<br>aisle
 bip_39_word_new_br_2: write<br>update
 bip_39_word_new_br_3: write<br>update<br>rose
-bip_39_word_new_br_4: write<br>update<br>rose<br>athlete
-bip_39_word_new_br_5: write<br>update<br>rose<br>athlete<br>pizza
-bip_39_word_new_br_6: write<br>update<br>rose<br>athlete<br>pizza<br>frost
-bip_39_word_new_br_7: write<br>update<br>rose<br>athlete<br>pizza<br>frost<br>decline
-bip_39_word_new_br_8: write<br>update<br>rose<br>athlete<br>pizza<br>frost<br>decline<br>slab
-bip_39_word_new_br_9: write<br>update<br>rose<br>athlete<br>pizza<br>frost<br>decline<br>slab<br>ladder
-bip_39_word_new_line_1: write
-bip_39_word_new_line_10: 'write
-
-  update
-
-  rose
-
-  athlete
-
-  pizza
-
-  frost
-
-  decline
-
-  slab
-
-  ladder
-
-  maid'
-bip_39_word_new_line_11: 'write
-
-  update
-
-  rose
-
-  athlete
-
-  pizza
-
-  frost
-
-  decline
-
-  slab
-
-  ladder
-
-  maid
-
-  unhappy'
 bip_39_word_new_line_12: 'write
 
   update
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'write
   update
 
   rose'
-bip_39_word_new_line_4: 'write
-
-  update
-
-  rose
-
-  athlete'
-bip_39_word_new_line_5: 'write
-
-  update
-
-  rose
-
-  athlete
-
-  pizza'
-bip_39_word_new_line_6: 'write
-
-  update
-
-  rose
-
-  athlete
-
-  pizza
-
-  frost'
-bip_39_word_new_line_7: 'write
-
-  update
-
-  rose
-
-  athlete
-
-  pizza
-
-  frost
-
-  decline'
-bip_39_word_new_line_8: 'write
-
-  update
-
-  rose
-
-  athlete
-
-  pizza
-
-  frost
-
-  decline
-
-  slab'
-bip_39_word_new_line_9: 'write
-
-  update
-
-  rose
-
-  athlete
-
-  pizza
-
-  frost
-
-  decline
-
-  slab
-
-  ladder'
-bip_39_word_no_space_1: write
-bip_39_word_no_space_10: writeupdateroseathletepizzafrostdeclineslabladdermaid
-bip_39_word_no_space_11: writeupdateroseathletepizzafrostdeclineslabladdermaidunhappy
 bip_39_word_no_space_12: writeupdateroseathletepizzafrostdeclineslabladdermaidunhappyaisle
 bip_39_word_no_space_2: writeupdate
 bip_39_word_no_space_3: writeupdaterose
-bip_39_word_no_space_4: writeupdateroseathlete
-bip_39_word_no_space_5: writeupdateroseathletepizza
-bip_39_word_no_space_6: writeupdateroseathletepizzafrost
-bip_39_word_no_space_7: writeupdateroseathletepizzafrostdecline
-bip_39_word_no_space_8: writeupdateroseathletepizzafrostdeclineslab
-bip_39_word_no_space_9: writeupdateroseathletepizzafrostdeclineslabladder
-bip_39_word_space_0:
-- write
-- update
-- rose
-- athlete
-- pizza
-- frost
-- decline
-- slab
-- ladder
-- maid
-- unhappy
-- aisle
-bip_39_word_space_1: write
-bip_39_word_space_10: write update rose athlete pizza frost decline slab ladder maid
-bip_39_word_space_11: write update rose athlete pizza frost decline slab ladder maid
-  unhappy
 bip_39_word_space_12: write update rose athlete pizza frost decline slab ladder maid
   unhappy aisle
 bip_39_word_space_2: write update
 bip_39_word_space_3: write update rose
-bip_39_word_space_4: write update rose athlete
-bip_39_word_space_5: write update rose athlete pizza
-bip_39_word_space_6: write update rose athlete pizza frost
-bip_39_word_space_7: write update rose athlete pizza frost decline
-bip_39_word_space_8: write update rose athlete pizza frost decline slab
-bip_39_word_space_9: write update rose athlete pizza frost decline slab ladder
-bip_39_word_underscore_1: write
-bip_39_word_underscore_10: write_update_rose_athlete_pizza_frost_decline_slab_ladder_maid
-bip_39_word_underscore_11: write_update_rose_athlete_pizza_frost_decline_slab_ladder_maid_unhappy
 bip_39_word_underscore_12: write_update_rose_athlete_pizza_frost_decline_slab_ladder_maid_unhappy_aisle
 bip_39_word_underscore_2: write_update
 bip_39_word_underscore_3: write_update_rose
-bip_39_word_underscore_4: write_update_rose_athlete
-bip_39_word_underscore_5: write_update_rose_athlete_pizza
-bip_39_word_underscore_6: write_update_rose_athlete_pizza_frost
-bip_39_word_underscore_7: write_update_rose_athlete_pizza_frost_decline
-bip_39_word_underscore_8: write_update_rose_athlete_pizza_frost_decline_slab
-bip_39_word_underscore_9: write_update_rose_athlete_pizza_frost_decline_slab_ladder
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

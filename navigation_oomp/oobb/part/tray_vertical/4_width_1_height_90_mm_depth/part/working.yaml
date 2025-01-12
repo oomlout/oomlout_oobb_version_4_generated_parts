@@ -1,68 +1,9 @@
-bip_39_word_dash_1: penalty
-bip_39_word_dash_10: penalty-innocent-sting-reform-mass-bomb-symbol-process-tail-injury
-bip_39_word_dash_11: penalty-innocent-sting-reform-mass-bomb-symbol-process-tail-injury-sadness
 bip_39_word_dash_12: penalty-innocent-sting-reform-mass-bomb-symbol-process-tail-injury-sadness-admit
 bip_39_word_dash_2: penalty-innocent
 bip_39_word_dash_3: penalty-innocent-sting
-bip_39_word_dash_4: penalty-innocent-sting-reform
-bip_39_word_dash_5: penalty-innocent-sting-reform-mass
-bip_39_word_dash_6: penalty-innocent-sting-reform-mass-bomb
-bip_39_word_dash_7: penalty-innocent-sting-reform-mass-bomb-symbol
-bip_39_word_dash_8: penalty-innocent-sting-reform-mass-bomb-symbol-process
-bip_39_word_dash_9: penalty-innocent-sting-reform-mass-bomb-symbol-process-tail
-bip_39_word_new_br_1: penalty
-bip_39_word_new_br_10: penalty<br>innocent<br>sting<br>reform<br>mass<br>bomb<br>symbol<br>process<br>tail<br>injury
-bip_39_word_new_br_11: penalty<br>innocent<br>sting<br>reform<br>mass<br>bomb<br>symbol<br>process<br>tail<br>injury<br>sadness
 bip_39_word_new_br_12: penalty<br>innocent<br>sting<br>reform<br>mass<br>bomb<br>symbol<br>process<br>tail<br>injury<br>sadness<br>admit
 bip_39_word_new_br_2: penalty<br>innocent
 bip_39_word_new_br_3: penalty<br>innocent<br>sting
-bip_39_word_new_br_4: penalty<br>innocent<br>sting<br>reform
-bip_39_word_new_br_5: penalty<br>innocent<br>sting<br>reform<br>mass
-bip_39_word_new_br_6: penalty<br>innocent<br>sting<br>reform<br>mass<br>bomb
-bip_39_word_new_br_7: penalty<br>innocent<br>sting<br>reform<br>mass<br>bomb<br>symbol
-bip_39_word_new_br_8: penalty<br>innocent<br>sting<br>reform<br>mass<br>bomb<br>symbol<br>process
-bip_39_word_new_br_9: penalty<br>innocent<br>sting<br>reform<br>mass<br>bomb<br>symbol<br>process<br>tail
-bip_39_word_new_line_1: penalty
-bip_39_word_new_line_10: 'penalty
-
-  innocent
-
-  sting
-
-  reform
-
-  mass
-
-  bomb
-
-  symbol
-
-  process
-
-  tail
-
-  injury'
-bip_39_word_new_line_11: 'penalty
-
-  innocent
-
-  sting
-
-  reform
-
-  mass
-
-  bomb
-
-  symbol
-
-  process
-
-  tail
-
-  injury
-
-  sadness'
 bip_39_word_new_line_12: 'penalty
 
   innocent
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'penalty
   innocent
 
   sting'
-bip_39_word_new_line_4: 'penalty
-
-  innocent
-
-  sting
-
-  reform'
-bip_39_word_new_line_5: 'penalty
-
-  innocent
-
-  sting
-
-  reform
-
-  mass'
-bip_39_word_new_line_6: 'penalty
-
-  innocent
-
-  sting
-
-  reform
-
-  mass
-
-  bomb'
-bip_39_word_new_line_7: 'penalty
-
-  innocent
-
-  sting
-
-  reform
-
-  mass
-
-  bomb
-
-  symbol'
-bip_39_word_new_line_8: 'penalty
-
-  innocent
-
-  sting
-
-  reform
-
-  mass
-
-  bomb
-
-  symbol
-
-  process'
-bip_39_word_new_line_9: 'penalty
-
-  innocent
-
-  sting
-
-  reform
-
-  mass
-
-  bomb
-
-  symbol
-
-  process
-
-  tail'
-bip_39_word_no_space_1: penalty
-bip_39_word_no_space_10: penaltyinnocentstingreformmassbombsymbolprocesstailinjury
-bip_39_word_no_space_11: penaltyinnocentstingreformmassbombsymbolprocesstailinjurysadness
 bip_39_word_no_space_12: penaltyinnocentstingreformmassbombsymbolprocesstailinjurysadnessadmit
 bip_39_word_no_space_2: penaltyinnocent
 bip_39_word_no_space_3: penaltyinnocentsting
-bip_39_word_no_space_4: penaltyinnocentstingreform
-bip_39_word_no_space_5: penaltyinnocentstingreformmass
-bip_39_word_no_space_6: penaltyinnocentstingreformmassbomb
-bip_39_word_no_space_7: penaltyinnocentstingreformmassbombsymbol
-bip_39_word_no_space_8: penaltyinnocentstingreformmassbombsymbolprocess
-bip_39_word_no_space_9: penaltyinnocentstingreformmassbombsymbolprocesstail
-bip_39_word_space_0:
-- penalty
-- innocent
-- sting
-- reform
-- mass
-- bomb
-- symbol
-- process
-- tail
-- injury
-- sadness
-- admit
-bip_39_word_space_1: penalty
-bip_39_word_space_10: penalty innocent sting reform mass bomb symbol process tail
-  injury
-bip_39_word_space_11: penalty innocent sting reform mass bomb symbol process tail
-  injury sadness
 bip_39_word_space_12: penalty innocent sting reform mass bomb symbol process tail
   injury sadness admit
 bip_39_word_space_2: penalty innocent
 bip_39_word_space_3: penalty innocent sting
-bip_39_word_space_4: penalty innocent sting reform
-bip_39_word_space_5: penalty innocent sting reform mass
-bip_39_word_space_6: penalty innocent sting reform mass bomb
-bip_39_word_space_7: penalty innocent sting reform mass bomb symbol
-bip_39_word_space_8: penalty innocent sting reform mass bomb symbol process
-bip_39_word_space_9: penalty innocent sting reform mass bomb symbol process tail
-bip_39_word_underscore_1: penalty
-bip_39_word_underscore_10: penalty_innocent_sting_reform_mass_bomb_symbol_process_tail_injury
-bip_39_word_underscore_11: penalty_innocent_sting_reform_mass_bomb_symbol_process_tail_injury_sadness
 bip_39_word_underscore_12: penalty_innocent_sting_reform_mass_bomb_symbol_process_tail_injury_sadness_admit
 bip_39_word_underscore_2: penalty_innocent
 bip_39_word_underscore_3: penalty_innocent_sting
-bip_39_word_underscore_4: penalty_innocent_sting_reform
-bip_39_word_underscore_5: penalty_innocent_sting_reform_mass
-bip_39_word_underscore_6: penalty_innocent_sting_reform_mass_bomb
-bip_39_word_underscore_7: penalty_innocent_sting_reform_mass_bomb_symbol
-bip_39_word_underscore_8: penalty_innocent_sting_reform_mass_bomb_symbol_process
-bip_39_word_underscore_9: penalty_innocent_sting_reform_mass_bomb_symbol_process_tail
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

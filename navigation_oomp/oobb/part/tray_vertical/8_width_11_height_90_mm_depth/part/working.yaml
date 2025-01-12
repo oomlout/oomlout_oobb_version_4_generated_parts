@@ -1,68 +1,9 @@
-bip_39_word_dash_1: grocery
-bip_39_word_dash_10: grocery-penalty-infant-course-giraffe-recall-crawl-festival-sort-mechanic
-bip_39_word_dash_11: grocery-penalty-infant-course-giraffe-recall-crawl-festival-sort-mechanic-there
 bip_39_word_dash_12: grocery-penalty-infant-course-giraffe-recall-crawl-festival-sort-mechanic-there-alcohol
 bip_39_word_dash_2: grocery-penalty
 bip_39_word_dash_3: grocery-penalty-infant
-bip_39_word_dash_4: grocery-penalty-infant-course
-bip_39_word_dash_5: grocery-penalty-infant-course-giraffe
-bip_39_word_dash_6: grocery-penalty-infant-course-giraffe-recall
-bip_39_word_dash_7: grocery-penalty-infant-course-giraffe-recall-crawl
-bip_39_word_dash_8: grocery-penalty-infant-course-giraffe-recall-crawl-festival
-bip_39_word_dash_9: grocery-penalty-infant-course-giraffe-recall-crawl-festival-sort
-bip_39_word_new_br_1: grocery
-bip_39_word_new_br_10: grocery<br>penalty<br>infant<br>course<br>giraffe<br>recall<br>crawl<br>festival<br>sort<br>mechanic
-bip_39_word_new_br_11: grocery<br>penalty<br>infant<br>course<br>giraffe<br>recall<br>crawl<br>festival<br>sort<br>mechanic<br>there
 bip_39_word_new_br_12: grocery<br>penalty<br>infant<br>course<br>giraffe<br>recall<br>crawl<br>festival<br>sort<br>mechanic<br>there<br>alcohol
 bip_39_word_new_br_2: grocery<br>penalty
 bip_39_word_new_br_3: grocery<br>penalty<br>infant
-bip_39_word_new_br_4: grocery<br>penalty<br>infant<br>course
-bip_39_word_new_br_5: grocery<br>penalty<br>infant<br>course<br>giraffe
-bip_39_word_new_br_6: grocery<br>penalty<br>infant<br>course<br>giraffe<br>recall
-bip_39_word_new_br_7: grocery<br>penalty<br>infant<br>course<br>giraffe<br>recall<br>crawl
-bip_39_word_new_br_8: grocery<br>penalty<br>infant<br>course<br>giraffe<br>recall<br>crawl<br>festival
-bip_39_word_new_br_9: grocery<br>penalty<br>infant<br>course<br>giraffe<br>recall<br>crawl<br>festival<br>sort
-bip_39_word_new_line_1: grocery
-bip_39_word_new_line_10: 'grocery
-
-  penalty
-
-  infant
-
-  course
-
-  giraffe
-
-  recall
-
-  crawl
-
-  festival
-
-  sort
-
-  mechanic'
-bip_39_word_new_line_11: 'grocery
-
-  penalty
-
-  infant
-
-  course
-
-  giraffe
-
-  recall
-
-  crawl
-
-  festival
-
-  sort
-
-  mechanic
-
-  there'
 bip_39_word_new_line_12: 'grocery
 
   penalty
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'grocery
   penalty
 
   infant'
-bip_39_word_new_line_4: 'grocery
-
-  penalty
-
-  infant
-
-  course'
-bip_39_word_new_line_5: 'grocery
-
-  penalty
-
-  infant
-
-  course
-
-  giraffe'
-bip_39_word_new_line_6: 'grocery
-
-  penalty
-
-  infant
-
-  course
-
-  giraffe
-
-  recall'
-bip_39_word_new_line_7: 'grocery
-
-  penalty
-
-  infant
-
-  course
-
-  giraffe
-
-  recall
-
-  crawl'
-bip_39_word_new_line_8: 'grocery
-
-  penalty
-
-  infant
-
-  course
-
-  giraffe
-
-  recall
-
-  crawl
-
-  festival'
-bip_39_word_new_line_9: 'grocery
-
-  penalty
-
-  infant
-
-  course
-
-  giraffe
-
-  recall
-
-  crawl
-
-  festival
-
-  sort'
-bip_39_word_no_space_1: grocery
-bip_39_word_no_space_10: grocerypenaltyinfantcoursegirafferecallcrawlfestivalsortmechanic
-bip_39_word_no_space_11: grocerypenaltyinfantcoursegirafferecallcrawlfestivalsortmechanicthere
 bip_39_word_no_space_12: grocerypenaltyinfantcoursegirafferecallcrawlfestivalsortmechanictherealcohol
 bip_39_word_no_space_2: grocerypenalty
 bip_39_word_no_space_3: grocerypenaltyinfant
-bip_39_word_no_space_4: grocerypenaltyinfantcourse
-bip_39_word_no_space_5: grocerypenaltyinfantcoursegiraffe
-bip_39_word_no_space_6: grocerypenaltyinfantcoursegirafferecall
-bip_39_word_no_space_7: grocerypenaltyinfantcoursegirafferecallcrawl
-bip_39_word_no_space_8: grocerypenaltyinfantcoursegirafferecallcrawlfestival
-bip_39_word_no_space_9: grocerypenaltyinfantcoursegirafferecallcrawlfestivalsort
-bip_39_word_space_0:
-- grocery
-- penalty
-- infant
-- course
-- giraffe
-- recall
-- crawl
-- festival
-- sort
-- mechanic
-- there
-- alcohol
-bip_39_word_space_1: grocery
-bip_39_word_space_10: grocery penalty infant course giraffe recall crawl festival
-  sort mechanic
-bip_39_word_space_11: grocery penalty infant course giraffe recall crawl festival
-  sort mechanic there
 bip_39_word_space_12: grocery penalty infant course giraffe recall crawl festival
   sort mechanic there alcohol
 bip_39_word_space_2: grocery penalty
 bip_39_word_space_3: grocery penalty infant
-bip_39_word_space_4: grocery penalty infant course
-bip_39_word_space_5: grocery penalty infant course giraffe
-bip_39_word_space_6: grocery penalty infant course giraffe recall
-bip_39_word_space_7: grocery penalty infant course giraffe recall crawl
-bip_39_word_space_8: grocery penalty infant course giraffe recall crawl festival
-bip_39_word_space_9: grocery penalty infant course giraffe recall crawl festival sort
-bip_39_word_underscore_1: grocery
-bip_39_word_underscore_10: grocery_penalty_infant_course_giraffe_recall_crawl_festival_sort_mechanic
-bip_39_word_underscore_11: grocery_penalty_infant_course_giraffe_recall_crawl_festival_sort_mechanic_there
 bip_39_word_underscore_12: grocery_penalty_infant_course_giraffe_recall_crawl_festival_sort_mechanic_there_alcohol
 bip_39_word_underscore_2: grocery_penalty
 bip_39_word_underscore_3: grocery_penalty_infant
-bip_39_word_underscore_4: grocery_penalty_infant_course
-bip_39_word_underscore_5: grocery_penalty_infant_course_giraffe
-bip_39_word_underscore_6: grocery_penalty_infant_course_giraffe_recall
-bip_39_word_underscore_7: grocery_penalty_infant_course_giraffe_recall_crawl
-bip_39_word_underscore_8: grocery_penalty_infant_course_giraffe_recall_crawl_festival
-bip_39_word_underscore_9: grocery_penalty_infant_course_giraffe_recall_crawl_festival_sort
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

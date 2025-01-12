@@ -1,68 +1,9 @@
-bip_39_word_dash_1: squirrel
-bip_39_word_dash_10: squirrel-cable-vibrant-brand-require-move-holiday-economy-couch-tired
-bip_39_word_dash_11: squirrel-cable-vibrant-brand-require-move-holiday-economy-couch-tired-tell
 bip_39_word_dash_12: squirrel-cable-vibrant-brand-require-move-holiday-economy-couch-tired-tell-ahead
 bip_39_word_dash_2: squirrel-cable
 bip_39_word_dash_3: squirrel-cable-vibrant
-bip_39_word_dash_4: squirrel-cable-vibrant-brand
-bip_39_word_dash_5: squirrel-cable-vibrant-brand-require
-bip_39_word_dash_6: squirrel-cable-vibrant-brand-require-move
-bip_39_word_dash_7: squirrel-cable-vibrant-brand-require-move-holiday
-bip_39_word_dash_8: squirrel-cable-vibrant-brand-require-move-holiday-economy
-bip_39_word_dash_9: squirrel-cable-vibrant-brand-require-move-holiday-economy-couch
-bip_39_word_new_br_1: squirrel
-bip_39_word_new_br_10: squirrel<br>cable<br>vibrant<br>brand<br>require<br>move<br>holiday<br>economy<br>couch<br>tired
-bip_39_word_new_br_11: squirrel<br>cable<br>vibrant<br>brand<br>require<br>move<br>holiday<br>economy<br>couch<br>tired<br>tell
 bip_39_word_new_br_12: squirrel<br>cable<br>vibrant<br>brand<br>require<br>move<br>holiday<br>economy<br>couch<br>tired<br>tell<br>ahead
 bip_39_word_new_br_2: squirrel<br>cable
 bip_39_word_new_br_3: squirrel<br>cable<br>vibrant
-bip_39_word_new_br_4: squirrel<br>cable<br>vibrant<br>brand
-bip_39_word_new_br_5: squirrel<br>cable<br>vibrant<br>brand<br>require
-bip_39_word_new_br_6: squirrel<br>cable<br>vibrant<br>brand<br>require<br>move
-bip_39_word_new_br_7: squirrel<br>cable<br>vibrant<br>brand<br>require<br>move<br>holiday
-bip_39_word_new_br_8: squirrel<br>cable<br>vibrant<br>brand<br>require<br>move<br>holiday<br>economy
-bip_39_word_new_br_9: squirrel<br>cable<br>vibrant<br>brand<br>require<br>move<br>holiday<br>economy<br>couch
-bip_39_word_new_line_1: squirrel
-bip_39_word_new_line_10: 'squirrel
-
-  cable
-
-  vibrant
-
-  brand
-
-  require
-
-  move
-
-  holiday
-
-  economy
-
-  couch
-
-  tired'
-bip_39_word_new_line_11: 'squirrel
-
-  cable
-
-  vibrant
-
-  brand
-
-  require
-
-  move
-
-  holiday
-
-  economy
-
-  couch
-
-  tired
-
-  tell'
 bip_39_word_new_line_12: 'squirrel
 
   cable
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'squirrel
   cable
 
   vibrant'
-bip_39_word_new_line_4: 'squirrel
-
-  cable
-
-  vibrant
-
-  brand'
-bip_39_word_new_line_5: 'squirrel
-
-  cable
-
-  vibrant
-
-  brand
-
-  require'
-bip_39_word_new_line_6: 'squirrel
-
-  cable
-
-  vibrant
-
-  brand
-
-  require
-
-  move'
-bip_39_word_new_line_7: 'squirrel
-
-  cable
-
-  vibrant
-
-  brand
-
-  require
-
-  move
-
-  holiday'
-bip_39_word_new_line_8: 'squirrel
-
-  cable
-
-  vibrant
-
-  brand
-
-  require
-
-  move
-
-  holiday
-
-  economy'
-bip_39_word_new_line_9: 'squirrel
-
-  cable
-
-  vibrant
-
-  brand
-
-  require
-
-  move
-
-  holiday
-
-  economy
-
-  couch'
-bip_39_word_no_space_1: squirrel
-bip_39_word_no_space_10: squirrelcablevibrantbrandrequiremoveholidayeconomycouchtired
-bip_39_word_no_space_11: squirrelcablevibrantbrandrequiremoveholidayeconomycouchtiredtell
 bip_39_word_no_space_12: squirrelcablevibrantbrandrequiremoveholidayeconomycouchtiredtellahead
 bip_39_word_no_space_2: squirrelcable
 bip_39_word_no_space_3: squirrelcablevibrant
-bip_39_word_no_space_4: squirrelcablevibrantbrand
-bip_39_word_no_space_5: squirrelcablevibrantbrandrequire
-bip_39_word_no_space_6: squirrelcablevibrantbrandrequiremove
-bip_39_word_no_space_7: squirrelcablevibrantbrandrequiremoveholiday
-bip_39_word_no_space_8: squirrelcablevibrantbrandrequiremoveholidayeconomy
-bip_39_word_no_space_9: squirrelcablevibrantbrandrequiremoveholidayeconomycouch
-bip_39_word_space_0:
-- squirrel
-- cable
-- vibrant
-- brand
-- require
-- move
-- holiday
-- economy
-- couch
-- tired
-- tell
-- ahead
-bip_39_word_space_1: squirrel
-bip_39_word_space_10: squirrel cable vibrant brand require move holiday economy couch
-  tired
-bip_39_word_space_11: squirrel cable vibrant brand require move holiday economy couch
-  tired tell
 bip_39_word_space_12: squirrel cable vibrant brand require move holiday economy couch
   tired tell ahead
 bip_39_word_space_2: squirrel cable
 bip_39_word_space_3: squirrel cable vibrant
-bip_39_word_space_4: squirrel cable vibrant brand
-bip_39_word_space_5: squirrel cable vibrant brand require
-bip_39_word_space_6: squirrel cable vibrant brand require move
-bip_39_word_space_7: squirrel cable vibrant brand require move holiday
-bip_39_word_space_8: squirrel cable vibrant brand require move holiday economy
-bip_39_word_space_9: squirrel cable vibrant brand require move holiday economy couch
-bip_39_word_underscore_1: squirrel
-bip_39_word_underscore_10: squirrel_cable_vibrant_brand_require_move_holiday_economy_couch_tired
-bip_39_word_underscore_11: squirrel_cable_vibrant_brand_require_move_holiday_economy_couch_tired_tell
 bip_39_word_underscore_12: squirrel_cable_vibrant_brand_require_move_holiday_economy_couch_tired_tell_ahead
 bip_39_word_underscore_2: squirrel_cable
 bip_39_word_underscore_3: squirrel_cable_vibrant
-bip_39_word_underscore_4: squirrel_cable_vibrant_brand
-bip_39_word_underscore_5: squirrel_cable_vibrant_brand_require
-bip_39_word_underscore_6: squirrel_cable_vibrant_brand_require_move
-bip_39_word_underscore_7: squirrel_cable_vibrant_brand_require_move_holiday
-bip_39_word_underscore_8: squirrel_cable_vibrant_brand_require_move_holiday_economy
-bip_39_word_underscore_9: squirrel_cable_vibrant_brand_require_move_holiday_economy_couch
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

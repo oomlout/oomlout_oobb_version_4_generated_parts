@@ -1,68 +1,9 @@
-bip_39_word_dash_1: brain
-bip_39_word_dash_10: brain-input-matrix-world-guess-ocean-below-slice-become-burden
-bip_39_word_dash_11: brain-input-matrix-world-guess-ocean-below-slice-become-burden-city
 bip_39_word_dash_12: brain-input-matrix-world-guess-ocean-below-slice-become-burden-city-ankle
 bip_39_word_dash_2: brain-input
 bip_39_word_dash_3: brain-input-matrix
-bip_39_word_dash_4: brain-input-matrix-world
-bip_39_word_dash_5: brain-input-matrix-world-guess
-bip_39_word_dash_6: brain-input-matrix-world-guess-ocean
-bip_39_word_dash_7: brain-input-matrix-world-guess-ocean-below
-bip_39_word_dash_8: brain-input-matrix-world-guess-ocean-below-slice
-bip_39_word_dash_9: brain-input-matrix-world-guess-ocean-below-slice-become
-bip_39_word_new_br_1: brain
-bip_39_word_new_br_10: brain<br>input<br>matrix<br>world<br>guess<br>ocean<br>below<br>slice<br>become<br>burden
-bip_39_word_new_br_11: brain<br>input<br>matrix<br>world<br>guess<br>ocean<br>below<br>slice<br>become<br>burden<br>city
 bip_39_word_new_br_12: brain<br>input<br>matrix<br>world<br>guess<br>ocean<br>below<br>slice<br>become<br>burden<br>city<br>ankle
 bip_39_word_new_br_2: brain<br>input
 bip_39_word_new_br_3: brain<br>input<br>matrix
-bip_39_word_new_br_4: brain<br>input<br>matrix<br>world
-bip_39_word_new_br_5: brain<br>input<br>matrix<br>world<br>guess
-bip_39_word_new_br_6: brain<br>input<br>matrix<br>world<br>guess<br>ocean
-bip_39_word_new_br_7: brain<br>input<br>matrix<br>world<br>guess<br>ocean<br>below
-bip_39_word_new_br_8: brain<br>input<br>matrix<br>world<br>guess<br>ocean<br>below<br>slice
-bip_39_word_new_br_9: brain<br>input<br>matrix<br>world<br>guess<br>ocean<br>below<br>slice<br>become
-bip_39_word_new_line_1: brain
-bip_39_word_new_line_10: 'brain
-
-  input
-
-  matrix
-
-  world
-
-  guess
-
-  ocean
-
-  below
-
-  slice
-
-  become
-
-  burden'
-bip_39_word_new_line_11: 'brain
-
-  input
-
-  matrix
-
-  world
-
-  guess
-
-  ocean
-
-  below
-
-  slice
-
-  become
-
-  burden
-
-  city'
 bip_39_word_new_line_12: 'brain
 
   input
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'brain
   input
 
   matrix'
-bip_39_word_new_line_4: 'brain
-
-  input
-
-  matrix
-
-  world'
-bip_39_word_new_line_5: 'brain
-
-  input
-
-  matrix
-
-  world
-
-  guess'
-bip_39_word_new_line_6: 'brain
-
-  input
-
-  matrix
-
-  world
-
-  guess
-
-  ocean'
-bip_39_word_new_line_7: 'brain
-
-  input
-
-  matrix
-
-  world
-
-  guess
-
-  ocean
-
-  below'
-bip_39_word_new_line_8: 'brain
-
-  input
-
-  matrix
-
-  world
-
-  guess
-
-  ocean
-
-  below
-
-  slice'
-bip_39_word_new_line_9: 'brain
-
-  input
-
-  matrix
-
-  world
-
-  guess
-
-  ocean
-
-  below
-
-  slice
-
-  become'
-bip_39_word_no_space_1: brain
-bip_39_word_no_space_10: braininputmatrixworldguessoceanbelowslicebecomeburden
-bip_39_word_no_space_11: braininputmatrixworldguessoceanbelowslicebecomeburdencity
 bip_39_word_no_space_12: braininputmatrixworldguessoceanbelowslicebecomeburdencityankle
 bip_39_word_no_space_2: braininput
 bip_39_word_no_space_3: braininputmatrix
-bip_39_word_no_space_4: braininputmatrixworld
-bip_39_word_no_space_5: braininputmatrixworldguess
-bip_39_word_no_space_6: braininputmatrixworldguessocean
-bip_39_word_no_space_7: braininputmatrixworldguessoceanbelow
-bip_39_word_no_space_8: braininputmatrixworldguessoceanbelowslice
-bip_39_word_no_space_9: braininputmatrixworldguessoceanbelowslicebecome
-bip_39_word_space_0:
-- brain
-- input
-- matrix
-- world
-- guess
-- ocean
-- below
-- slice
-- become
-- burden
-- city
-- ankle
-bip_39_word_space_1: brain
-bip_39_word_space_10: brain input matrix world guess ocean below slice become burden
-bip_39_word_space_11: brain input matrix world guess ocean below slice become burden
-  city
 bip_39_word_space_12: brain input matrix world guess ocean below slice become burden
   city ankle
 bip_39_word_space_2: brain input
 bip_39_word_space_3: brain input matrix
-bip_39_word_space_4: brain input matrix world
-bip_39_word_space_5: brain input matrix world guess
-bip_39_word_space_6: brain input matrix world guess ocean
-bip_39_word_space_7: brain input matrix world guess ocean below
-bip_39_word_space_8: brain input matrix world guess ocean below slice
-bip_39_word_space_9: brain input matrix world guess ocean below slice become
-bip_39_word_underscore_1: brain
-bip_39_word_underscore_10: brain_input_matrix_world_guess_ocean_below_slice_become_burden
-bip_39_word_underscore_11: brain_input_matrix_world_guess_ocean_below_slice_become_burden_city
 bip_39_word_underscore_12: brain_input_matrix_world_guess_ocean_below_slice_become_burden_city_ankle
 bip_39_word_underscore_2: brain_input
 bip_39_word_underscore_3: brain_input_matrix
-bip_39_word_underscore_4: brain_input_matrix_world
-bip_39_word_underscore_5: brain_input_matrix_world_guess
-bip_39_word_underscore_6: brain_input_matrix_world_guess_ocean
-bip_39_word_underscore_7: brain_input_matrix_world_guess_ocean_below
-bip_39_word_underscore_8: brain_input_matrix_world_guess_ocean_below_slice
-bip_39_word_underscore_9: brain_input_matrix_world_guess_ocean_below_slice_become
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

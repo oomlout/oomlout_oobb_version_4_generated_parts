@@ -1,68 +1,9 @@
-bip_39_word_dash_1: silent
-bip_39_word_dash_10: silent-example-soda-pitch-question-tunnel-grunt-vacuum-hope-edge
-bip_39_word_dash_11: silent-example-soda-pitch-question-tunnel-grunt-vacuum-hope-edge-exercise
 bip_39_word_dash_12: silent-example-soda-pitch-question-tunnel-grunt-vacuum-hope-edge-exercise-angry
 bip_39_word_dash_2: silent-example
 bip_39_word_dash_3: silent-example-soda
-bip_39_word_dash_4: silent-example-soda-pitch
-bip_39_word_dash_5: silent-example-soda-pitch-question
-bip_39_word_dash_6: silent-example-soda-pitch-question-tunnel
-bip_39_word_dash_7: silent-example-soda-pitch-question-tunnel-grunt
-bip_39_word_dash_8: silent-example-soda-pitch-question-tunnel-grunt-vacuum
-bip_39_word_dash_9: silent-example-soda-pitch-question-tunnel-grunt-vacuum-hope
-bip_39_word_new_br_1: silent
-bip_39_word_new_br_10: silent<br>example<br>soda<br>pitch<br>question<br>tunnel<br>grunt<br>vacuum<br>hope<br>edge
-bip_39_word_new_br_11: silent<br>example<br>soda<br>pitch<br>question<br>tunnel<br>grunt<br>vacuum<br>hope<br>edge<br>exercise
 bip_39_word_new_br_12: silent<br>example<br>soda<br>pitch<br>question<br>tunnel<br>grunt<br>vacuum<br>hope<br>edge<br>exercise<br>angry
 bip_39_word_new_br_2: silent<br>example
 bip_39_word_new_br_3: silent<br>example<br>soda
-bip_39_word_new_br_4: silent<br>example<br>soda<br>pitch
-bip_39_word_new_br_5: silent<br>example<br>soda<br>pitch<br>question
-bip_39_word_new_br_6: silent<br>example<br>soda<br>pitch<br>question<br>tunnel
-bip_39_word_new_br_7: silent<br>example<br>soda<br>pitch<br>question<br>tunnel<br>grunt
-bip_39_word_new_br_8: silent<br>example<br>soda<br>pitch<br>question<br>tunnel<br>grunt<br>vacuum
-bip_39_word_new_br_9: silent<br>example<br>soda<br>pitch<br>question<br>tunnel<br>grunt<br>vacuum<br>hope
-bip_39_word_new_line_1: silent
-bip_39_word_new_line_10: 'silent
-
-  example
-
-  soda
-
-  pitch
-
-  question
-
-  tunnel
-
-  grunt
-
-  vacuum
-
-  hope
-
-  edge'
-bip_39_word_new_line_11: 'silent
-
-  example
-
-  soda
-
-  pitch
-
-  question
-
-  tunnel
-
-  grunt
-
-  vacuum
-
-  hope
-
-  edge
-
-  exercise'
 bip_39_word_new_line_12: 'silent
 
   example
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'silent
   example
 
   soda'
-bip_39_word_new_line_4: 'silent
-
-  example
-
-  soda
-
-  pitch'
-bip_39_word_new_line_5: 'silent
-
-  example
-
-  soda
-
-  pitch
-
-  question'
-bip_39_word_new_line_6: 'silent
-
-  example
-
-  soda
-
-  pitch
-
-  question
-
-  tunnel'
-bip_39_word_new_line_7: 'silent
-
-  example
-
-  soda
-
-  pitch
-
-  question
-
-  tunnel
-
-  grunt'
-bip_39_word_new_line_8: 'silent
-
-  example
-
-  soda
-
-  pitch
-
-  question
-
-  tunnel
-
-  grunt
-
-  vacuum'
-bip_39_word_new_line_9: 'silent
-
-  example
-
-  soda
-
-  pitch
-
-  question
-
-  tunnel
-
-  grunt
-
-  vacuum
-
-  hope'
-bip_39_word_no_space_1: silent
-bip_39_word_no_space_10: silentexamplesodapitchquestiontunnelgruntvacuumhopeedge
-bip_39_word_no_space_11: silentexamplesodapitchquestiontunnelgruntvacuumhopeedgeexercise
 bip_39_word_no_space_12: silentexamplesodapitchquestiontunnelgruntvacuumhopeedgeexerciseangry
 bip_39_word_no_space_2: silentexample
 bip_39_word_no_space_3: silentexamplesoda
-bip_39_word_no_space_4: silentexamplesodapitch
-bip_39_word_no_space_5: silentexamplesodapitchquestion
-bip_39_word_no_space_6: silentexamplesodapitchquestiontunnel
-bip_39_word_no_space_7: silentexamplesodapitchquestiontunnelgrunt
-bip_39_word_no_space_8: silentexamplesodapitchquestiontunnelgruntvacuum
-bip_39_word_no_space_9: silentexamplesodapitchquestiontunnelgruntvacuumhope
-bip_39_word_space_0:
-- silent
-- example
-- soda
-- pitch
-- question
-- tunnel
-- grunt
-- vacuum
-- hope
-- edge
-- exercise
-- angry
-bip_39_word_space_1: silent
-bip_39_word_space_10: silent example soda pitch question tunnel grunt vacuum hope
-  edge
-bip_39_word_space_11: silent example soda pitch question tunnel grunt vacuum hope
-  edge exercise
 bip_39_word_space_12: silent example soda pitch question tunnel grunt vacuum hope
   edge exercise angry
 bip_39_word_space_2: silent example
 bip_39_word_space_3: silent example soda
-bip_39_word_space_4: silent example soda pitch
-bip_39_word_space_5: silent example soda pitch question
-bip_39_word_space_6: silent example soda pitch question tunnel
-bip_39_word_space_7: silent example soda pitch question tunnel grunt
-bip_39_word_space_8: silent example soda pitch question tunnel grunt vacuum
-bip_39_word_space_9: silent example soda pitch question tunnel grunt vacuum hope
-bip_39_word_underscore_1: silent
-bip_39_word_underscore_10: silent_example_soda_pitch_question_tunnel_grunt_vacuum_hope_edge
-bip_39_word_underscore_11: silent_example_soda_pitch_question_tunnel_grunt_vacuum_hope_edge_exercise
 bip_39_word_underscore_12: silent_example_soda_pitch_question_tunnel_grunt_vacuum_hope_edge_exercise_angry
 bip_39_word_underscore_2: silent_example
 bip_39_word_underscore_3: silent_example_soda
-bip_39_word_underscore_4: silent_example_soda_pitch
-bip_39_word_underscore_5: silent_example_soda_pitch_question
-bip_39_word_underscore_6: silent_example_soda_pitch_question_tunnel
-bip_39_word_underscore_7: silent_example_soda_pitch_question_tunnel_grunt
-bip_39_word_underscore_8: silent_example_soda_pitch_question_tunnel_grunt_vacuum
-bip_39_word_underscore_9: silent_example_soda_pitch_question_tunnel_grunt_vacuum_hope
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

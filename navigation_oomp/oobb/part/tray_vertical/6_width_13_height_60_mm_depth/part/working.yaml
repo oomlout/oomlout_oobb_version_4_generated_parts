@@ -1,68 +1,9 @@
-bip_39_word_dash_1: immune
-bip_39_word_dash_10: immune-umbrella-monster-peanut-cluster-salute-retire-network-exit-boil
-bip_39_word_dash_11: immune-umbrella-monster-peanut-cluster-salute-retire-network-exit-boil-patient
 bip_39_word_dash_12: immune-umbrella-monster-peanut-cluster-salute-retire-network-exit-boil-patient-album
 bip_39_word_dash_2: immune-umbrella
 bip_39_word_dash_3: immune-umbrella-monster
-bip_39_word_dash_4: immune-umbrella-monster-peanut
-bip_39_word_dash_5: immune-umbrella-monster-peanut-cluster
-bip_39_word_dash_6: immune-umbrella-monster-peanut-cluster-salute
-bip_39_word_dash_7: immune-umbrella-monster-peanut-cluster-salute-retire
-bip_39_word_dash_8: immune-umbrella-monster-peanut-cluster-salute-retire-network
-bip_39_word_dash_9: immune-umbrella-monster-peanut-cluster-salute-retire-network-exit
-bip_39_word_new_br_1: immune
-bip_39_word_new_br_10: immune<br>umbrella<br>monster<br>peanut<br>cluster<br>salute<br>retire<br>network<br>exit<br>boil
-bip_39_word_new_br_11: immune<br>umbrella<br>monster<br>peanut<br>cluster<br>salute<br>retire<br>network<br>exit<br>boil<br>patient
 bip_39_word_new_br_12: immune<br>umbrella<br>monster<br>peanut<br>cluster<br>salute<br>retire<br>network<br>exit<br>boil<br>patient<br>album
 bip_39_word_new_br_2: immune<br>umbrella
 bip_39_word_new_br_3: immune<br>umbrella<br>monster
-bip_39_word_new_br_4: immune<br>umbrella<br>monster<br>peanut
-bip_39_word_new_br_5: immune<br>umbrella<br>monster<br>peanut<br>cluster
-bip_39_word_new_br_6: immune<br>umbrella<br>monster<br>peanut<br>cluster<br>salute
-bip_39_word_new_br_7: immune<br>umbrella<br>monster<br>peanut<br>cluster<br>salute<br>retire
-bip_39_word_new_br_8: immune<br>umbrella<br>monster<br>peanut<br>cluster<br>salute<br>retire<br>network
-bip_39_word_new_br_9: immune<br>umbrella<br>monster<br>peanut<br>cluster<br>salute<br>retire<br>network<br>exit
-bip_39_word_new_line_1: immune
-bip_39_word_new_line_10: 'immune
-
-  umbrella
-
-  monster
-
-  peanut
-
-  cluster
-
-  salute
-
-  retire
-
-  network
-
-  exit
-
-  boil'
-bip_39_word_new_line_11: 'immune
-
-  umbrella
-
-  monster
-
-  peanut
-
-  cluster
-
-  salute
-
-  retire
-
-  network
-
-  exit
-
-  boil
-
-  patient'
 bip_39_word_new_line_12: 'immune
 
   umbrella
@@ -94,131 +35,16 @@ bip_39_word_new_line_3: 'immune
   umbrella
 
   monster'
-bip_39_word_new_line_4: 'immune
-
-  umbrella
-
-  monster
-
-  peanut'
-bip_39_word_new_line_5: 'immune
-
-  umbrella
-
-  monster
-
-  peanut
-
-  cluster'
-bip_39_word_new_line_6: 'immune
-
-  umbrella
-
-  monster
-
-  peanut
-
-  cluster
-
-  salute'
-bip_39_word_new_line_7: 'immune
-
-  umbrella
-
-  monster
-
-  peanut
-
-  cluster
-
-  salute
-
-  retire'
-bip_39_word_new_line_8: 'immune
-
-  umbrella
-
-  monster
-
-  peanut
-
-  cluster
-
-  salute
-
-  retire
-
-  network'
-bip_39_word_new_line_9: 'immune
-
-  umbrella
-
-  monster
-
-  peanut
-
-  cluster
-
-  salute
-
-  retire
-
-  network
-
-  exit'
-bip_39_word_no_space_1: immune
-bip_39_word_no_space_10: immuneumbrellamonsterpeanutclustersaluteretirenetworkexitboil
-bip_39_word_no_space_11: immuneumbrellamonsterpeanutclustersaluteretirenetworkexitboilpatient
 bip_39_word_no_space_12: immuneumbrellamonsterpeanutclustersaluteretirenetworkexitboilpatientalbum
 bip_39_word_no_space_2: immuneumbrella
 bip_39_word_no_space_3: immuneumbrellamonster
-bip_39_word_no_space_4: immuneumbrellamonsterpeanut
-bip_39_word_no_space_5: immuneumbrellamonsterpeanutcluster
-bip_39_word_no_space_6: immuneumbrellamonsterpeanutclustersalute
-bip_39_word_no_space_7: immuneumbrellamonsterpeanutclustersaluteretire
-bip_39_word_no_space_8: immuneumbrellamonsterpeanutclustersaluteretirenetwork
-bip_39_word_no_space_9: immuneumbrellamonsterpeanutclustersaluteretirenetworkexit
-bip_39_word_space_0:
-- immune
-- umbrella
-- monster
-- peanut
-- cluster
-- salute
-- retire
-- network
-- exit
-- boil
-- patient
-- album
-bip_39_word_space_1: immune
-bip_39_word_space_10: immune umbrella monster peanut cluster salute retire network
-  exit boil
-bip_39_word_space_11: immune umbrella monster peanut cluster salute retire network
-  exit boil patient
 bip_39_word_space_12: immune umbrella monster peanut cluster salute retire network
   exit boil patient album
 bip_39_word_space_2: immune umbrella
 bip_39_word_space_3: immune umbrella monster
-bip_39_word_space_4: immune umbrella monster peanut
-bip_39_word_space_5: immune umbrella monster peanut cluster
-bip_39_word_space_6: immune umbrella monster peanut cluster salute
-bip_39_word_space_7: immune umbrella monster peanut cluster salute retire
-bip_39_word_space_8: immune umbrella monster peanut cluster salute retire network
-bip_39_word_space_9: immune umbrella monster peanut cluster salute retire network
-  exit
-bip_39_word_underscore_1: immune
-bip_39_word_underscore_10: immune_umbrella_monster_peanut_cluster_salute_retire_network_exit_boil
-bip_39_word_underscore_11: immune_umbrella_monster_peanut_cluster_salute_retire_network_exit_boil_patient
 bip_39_word_underscore_12: immune_umbrella_monster_peanut_cluster_salute_retire_network_exit_boil_patient_album
 bip_39_word_underscore_2: immune_umbrella
 bip_39_word_underscore_3: immune_umbrella_monster
-bip_39_word_underscore_4: immune_umbrella_monster_peanut
-bip_39_word_underscore_5: immune_umbrella_monster_peanut_cluster
-bip_39_word_underscore_6: immune_umbrella_monster_peanut_cluster_salute
-bip_39_word_underscore_7: immune_umbrella_monster_peanut_cluster_salute_retire
-bip_39_word_underscore_8: immune_umbrella_monster_peanut_cluster_salute_retire_network
-bip_39_word_underscore_9: immune_umbrella_monster_peanut_cluster_salute_retire_network_exit
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: enemy
-bip_39_word_dash_10: enemy-one-venture-script-panther-occur-cabin-mass-skull-correct
-bip_39_word_dash_11: enemy-one-venture-script-panther-occur-cabin-mass-skull-correct-silly
 bip_39_word_dash_12: enemy-one-venture-script-panther-occur-cabin-mass-skull-correct-silly-artefact
 bip_39_word_dash_2: enemy-one
 bip_39_word_dash_3: enemy-one-venture
-bip_39_word_dash_4: enemy-one-venture-script
-bip_39_word_dash_5: enemy-one-venture-script-panther
-bip_39_word_dash_6: enemy-one-venture-script-panther-occur
-bip_39_word_dash_7: enemy-one-venture-script-panther-occur-cabin
-bip_39_word_dash_8: enemy-one-venture-script-panther-occur-cabin-mass
-bip_39_word_dash_9: enemy-one-venture-script-panther-occur-cabin-mass-skull
-bip_39_word_new_br_1: enemy
-bip_39_word_new_br_10: enemy<br>one<br>venture<br>script<br>panther<br>occur<br>cabin<br>mass<br>skull<br>correct
-bip_39_word_new_br_11: enemy<br>one<br>venture<br>script<br>panther<br>occur<br>cabin<br>mass<br>skull<br>correct<br>silly
 bip_39_word_new_br_12: enemy<br>one<br>venture<br>script<br>panther<br>occur<br>cabin<br>mass<br>skull<br>correct<br>silly<br>artefact
 bip_39_word_new_br_2: enemy<br>one
 bip_39_word_new_br_3: enemy<br>one<br>venture
-bip_39_word_new_br_4: enemy<br>one<br>venture<br>script
-bip_39_word_new_br_5: enemy<br>one<br>venture<br>script<br>panther
-bip_39_word_new_br_6: enemy<br>one<br>venture<br>script<br>panther<br>occur
-bip_39_word_new_br_7: enemy<br>one<br>venture<br>script<br>panther<br>occur<br>cabin
-bip_39_word_new_br_8: enemy<br>one<br>venture<br>script<br>panther<br>occur<br>cabin<br>mass
-bip_39_word_new_br_9: enemy<br>one<br>venture<br>script<br>panther<br>occur<br>cabin<br>mass<br>skull
-bip_39_word_new_line_1: enemy
-bip_39_word_new_line_10: 'enemy
-
-  one
-
-  venture
-
-  script
-
-  panther
-
-  occur
-
-  cabin
-
-  mass
-
-  skull
-
-  correct'
-bip_39_word_new_line_11: 'enemy
-
-  one
-
-  venture
-
-  script
-
-  panther
-
-  occur
-
-  cabin
-
-  mass
-
-  skull
-
-  correct
-
-  silly'
 bip_39_word_new_line_12: 'enemy
 
   one
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'enemy
   one
 
   venture'
-bip_39_word_new_line_4: 'enemy
-
-  one
-
-  venture
-
-  script'
-bip_39_word_new_line_5: 'enemy
-
-  one
-
-  venture
-
-  script
-
-  panther'
-bip_39_word_new_line_6: 'enemy
-
-  one
-
-  venture
-
-  script
-
-  panther
-
-  occur'
-bip_39_word_new_line_7: 'enemy
-
-  one
-
-  venture
-
-  script
-
-  panther
-
-  occur
-
-  cabin'
-bip_39_word_new_line_8: 'enemy
-
-  one
-
-  venture
-
-  script
-
-  panther
-
-  occur
-
-  cabin
-
-  mass'
-bip_39_word_new_line_9: 'enemy
-
-  one
-
-  venture
-
-  script
-
-  panther
-
-  occur
-
-  cabin
-
-  mass
-
-  skull'
-bip_39_word_no_space_1: enemy
-bip_39_word_no_space_10: enemyoneventurescriptpantheroccurcabinmassskullcorrect
-bip_39_word_no_space_11: enemyoneventurescriptpantheroccurcabinmassskullcorrectsilly
 bip_39_word_no_space_12: enemyoneventurescriptpantheroccurcabinmassskullcorrectsillyartefact
 bip_39_word_no_space_2: enemyone
 bip_39_word_no_space_3: enemyoneventure
-bip_39_word_no_space_4: enemyoneventurescript
-bip_39_word_no_space_5: enemyoneventurescriptpanther
-bip_39_word_no_space_6: enemyoneventurescriptpantheroccur
-bip_39_word_no_space_7: enemyoneventurescriptpantheroccurcabin
-bip_39_word_no_space_8: enemyoneventurescriptpantheroccurcabinmass
-bip_39_word_no_space_9: enemyoneventurescriptpantheroccurcabinmassskull
-bip_39_word_space_0:
-- enemy
-- one
-- venture
-- script
-- panther
-- occur
-- cabin
-- mass
-- skull
-- correct
-- silly
-- artefact
-bip_39_word_space_1: enemy
-bip_39_word_space_10: enemy one venture script panther occur cabin mass skull correct
-bip_39_word_space_11: enemy one venture script panther occur cabin mass skull correct
-  silly
 bip_39_word_space_12: enemy one venture script panther occur cabin mass skull correct
   silly artefact
 bip_39_word_space_2: enemy one
 bip_39_word_space_3: enemy one venture
-bip_39_word_space_4: enemy one venture script
-bip_39_word_space_5: enemy one venture script panther
-bip_39_word_space_6: enemy one venture script panther occur
-bip_39_word_space_7: enemy one venture script panther occur cabin
-bip_39_word_space_8: enemy one venture script panther occur cabin mass
-bip_39_word_space_9: enemy one venture script panther occur cabin mass skull
-bip_39_word_underscore_1: enemy
-bip_39_word_underscore_10: enemy_one_venture_script_panther_occur_cabin_mass_skull_correct
-bip_39_word_underscore_11: enemy_one_venture_script_panther_occur_cabin_mass_skull_correct_silly
 bip_39_word_underscore_12: enemy_one_venture_script_panther_occur_cabin_mass_skull_correct_silly_artefact
 bip_39_word_underscore_2: enemy_one
 bip_39_word_underscore_3: enemy_one_venture
-bip_39_word_underscore_4: enemy_one_venture_script
-bip_39_word_underscore_5: enemy_one_venture_script_panther
-bip_39_word_underscore_6: enemy_one_venture_script_panther_occur
-bip_39_word_underscore_7: enemy_one_venture_script_panther_occur_cabin
-bip_39_word_underscore_8: enemy_one_venture_script_panther_occur_cabin_mass
-bip_39_word_underscore_9: enemy_one_venture_script_panther_occur_cabin_mass_skull
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

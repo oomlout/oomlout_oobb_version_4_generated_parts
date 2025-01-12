@@ -1,68 +1,9 @@
-bip_39_word_dash_1: chest
-bip_39_word_dash_10: chest-certain-lamp-lava-alert-beach-convince-doll-budget-ordinary
-bip_39_word_dash_11: chest-certain-lamp-lava-alert-beach-convince-doll-budget-ordinary-fork
 bip_39_word_dash_12: chest-certain-lamp-lava-alert-beach-convince-doll-budget-ordinary-fork-apple
 bip_39_word_dash_2: chest-certain
 bip_39_word_dash_3: chest-certain-lamp
-bip_39_word_dash_4: chest-certain-lamp-lava
-bip_39_word_dash_5: chest-certain-lamp-lava-alert
-bip_39_word_dash_6: chest-certain-lamp-lava-alert-beach
-bip_39_word_dash_7: chest-certain-lamp-lava-alert-beach-convince
-bip_39_word_dash_8: chest-certain-lamp-lava-alert-beach-convince-doll
-bip_39_word_dash_9: chest-certain-lamp-lava-alert-beach-convince-doll-budget
-bip_39_word_new_br_1: chest
-bip_39_word_new_br_10: chest<br>certain<br>lamp<br>lava<br>alert<br>beach<br>convince<br>doll<br>budget<br>ordinary
-bip_39_word_new_br_11: chest<br>certain<br>lamp<br>lava<br>alert<br>beach<br>convince<br>doll<br>budget<br>ordinary<br>fork
 bip_39_word_new_br_12: chest<br>certain<br>lamp<br>lava<br>alert<br>beach<br>convince<br>doll<br>budget<br>ordinary<br>fork<br>apple
 bip_39_word_new_br_2: chest<br>certain
 bip_39_word_new_br_3: chest<br>certain<br>lamp
-bip_39_word_new_br_4: chest<br>certain<br>lamp<br>lava
-bip_39_word_new_br_5: chest<br>certain<br>lamp<br>lava<br>alert
-bip_39_word_new_br_6: chest<br>certain<br>lamp<br>lava<br>alert<br>beach
-bip_39_word_new_br_7: chest<br>certain<br>lamp<br>lava<br>alert<br>beach<br>convince
-bip_39_word_new_br_8: chest<br>certain<br>lamp<br>lava<br>alert<br>beach<br>convince<br>doll
-bip_39_word_new_br_9: chest<br>certain<br>lamp<br>lava<br>alert<br>beach<br>convince<br>doll<br>budget
-bip_39_word_new_line_1: chest
-bip_39_word_new_line_10: 'chest
-
-  certain
-
-  lamp
-
-  lava
-
-  alert
-
-  beach
-
-  convince
-
-  doll
-
-  budget
-
-  ordinary'
-bip_39_word_new_line_11: 'chest
-
-  certain
-
-  lamp
-
-  lava
-
-  alert
-
-  beach
-
-  convince
-
-  doll
-
-  budget
-
-  ordinary
-
-  fork'
 bip_39_word_new_line_12: 'chest
 
   certain
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'chest
   certain
 
   lamp'
-bip_39_word_new_line_4: 'chest
-
-  certain
-
-  lamp
-
-  lava'
-bip_39_word_new_line_5: 'chest
-
-  certain
-
-  lamp
-
-  lava
-
-  alert'
-bip_39_word_new_line_6: 'chest
-
-  certain
-
-  lamp
-
-  lava
-
-  alert
-
-  beach'
-bip_39_word_new_line_7: 'chest
-
-  certain
-
-  lamp
-
-  lava
-
-  alert
-
-  beach
-
-  convince'
-bip_39_word_new_line_8: 'chest
-
-  certain
-
-  lamp
-
-  lava
-
-  alert
-
-  beach
-
-  convince
-
-  doll'
-bip_39_word_new_line_9: 'chest
-
-  certain
-
-  lamp
-
-  lava
-
-  alert
-
-  beach
-
-  convince
-
-  doll
-
-  budget'
-bip_39_word_no_space_1: chest
-bip_39_word_no_space_10: chestcertainlamplavaalertbeachconvincedollbudgetordinary
-bip_39_word_no_space_11: chestcertainlamplavaalertbeachconvincedollbudgetordinaryfork
 bip_39_word_no_space_12: chestcertainlamplavaalertbeachconvincedollbudgetordinaryforkapple
 bip_39_word_no_space_2: chestcertain
 bip_39_word_no_space_3: chestcertainlamp
-bip_39_word_no_space_4: chestcertainlamplava
-bip_39_word_no_space_5: chestcertainlamplavaalert
-bip_39_word_no_space_6: chestcertainlamplavaalertbeach
-bip_39_word_no_space_7: chestcertainlamplavaalertbeachconvince
-bip_39_word_no_space_8: chestcertainlamplavaalertbeachconvincedoll
-bip_39_word_no_space_9: chestcertainlamplavaalertbeachconvincedollbudget
-bip_39_word_space_0:
-- chest
-- certain
-- lamp
-- lava
-- alert
-- beach
-- convince
-- doll
-- budget
-- ordinary
-- fork
-- apple
-bip_39_word_space_1: chest
-bip_39_word_space_10: chest certain lamp lava alert beach convince doll budget ordinary
-bip_39_word_space_11: chest certain lamp lava alert beach convince doll budget ordinary
-  fork
 bip_39_word_space_12: chest certain lamp lava alert beach convince doll budget ordinary
   fork apple
 bip_39_word_space_2: chest certain
 bip_39_word_space_3: chest certain lamp
-bip_39_word_space_4: chest certain lamp lava
-bip_39_word_space_5: chest certain lamp lava alert
-bip_39_word_space_6: chest certain lamp lava alert beach
-bip_39_word_space_7: chest certain lamp lava alert beach convince
-bip_39_word_space_8: chest certain lamp lava alert beach convince doll
-bip_39_word_space_9: chest certain lamp lava alert beach convince doll budget
-bip_39_word_underscore_1: chest
-bip_39_word_underscore_10: chest_certain_lamp_lava_alert_beach_convince_doll_budget_ordinary
-bip_39_word_underscore_11: chest_certain_lamp_lava_alert_beach_convince_doll_budget_ordinary_fork
 bip_39_word_underscore_12: chest_certain_lamp_lava_alert_beach_convince_doll_budget_ordinary_fork_apple
 bip_39_word_underscore_2: chest_certain
 bip_39_word_underscore_3: chest_certain_lamp
-bip_39_word_underscore_4: chest_certain_lamp_lava
-bip_39_word_underscore_5: chest_certain_lamp_lava_alert
-bip_39_word_underscore_6: chest_certain_lamp_lava_alert_beach
-bip_39_word_underscore_7: chest_certain_lamp_lava_alert_beach_convince
-bip_39_word_underscore_8: chest_certain_lamp_lava_alert_beach_convince_doll
-bip_39_word_underscore_9: chest_certain_lamp_lava_alert_beach_convince_doll_budget
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

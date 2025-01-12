@@ -1,68 +1,9 @@
-bip_39_word_dash_1: pluck
-bip_39_word_dash_10: pluck-venue-speak-guilt-bullet-donkey-ice-turtle-abandon-end
-bip_39_word_dash_11: pluck-venue-speak-guilt-bullet-donkey-ice-turtle-abandon-end-inject
 bip_39_word_dash_12: pluck-venue-speak-guilt-bullet-donkey-ice-turtle-abandon-end-inject-assault
 bip_39_word_dash_2: pluck-venue
 bip_39_word_dash_3: pluck-venue-speak
-bip_39_word_dash_4: pluck-venue-speak-guilt
-bip_39_word_dash_5: pluck-venue-speak-guilt-bullet
-bip_39_word_dash_6: pluck-venue-speak-guilt-bullet-donkey
-bip_39_word_dash_7: pluck-venue-speak-guilt-bullet-donkey-ice
-bip_39_word_dash_8: pluck-venue-speak-guilt-bullet-donkey-ice-turtle
-bip_39_word_dash_9: pluck-venue-speak-guilt-bullet-donkey-ice-turtle-abandon
-bip_39_word_new_br_1: pluck
-bip_39_word_new_br_10: pluck<br>venue<br>speak<br>guilt<br>bullet<br>donkey<br>ice<br>turtle<br>abandon<br>end
-bip_39_word_new_br_11: pluck<br>venue<br>speak<br>guilt<br>bullet<br>donkey<br>ice<br>turtle<br>abandon<br>end<br>inject
 bip_39_word_new_br_12: pluck<br>venue<br>speak<br>guilt<br>bullet<br>donkey<br>ice<br>turtle<br>abandon<br>end<br>inject<br>assault
 bip_39_word_new_br_2: pluck<br>venue
 bip_39_word_new_br_3: pluck<br>venue<br>speak
-bip_39_word_new_br_4: pluck<br>venue<br>speak<br>guilt
-bip_39_word_new_br_5: pluck<br>venue<br>speak<br>guilt<br>bullet
-bip_39_word_new_br_6: pluck<br>venue<br>speak<br>guilt<br>bullet<br>donkey
-bip_39_word_new_br_7: pluck<br>venue<br>speak<br>guilt<br>bullet<br>donkey<br>ice
-bip_39_word_new_br_8: pluck<br>venue<br>speak<br>guilt<br>bullet<br>donkey<br>ice<br>turtle
-bip_39_word_new_br_9: pluck<br>venue<br>speak<br>guilt<br>bullet<br>donkey<br>ice<br>turtle<br>abandon
-bip_39_word_new_line_1: pluck
-bip_39_word_new_line_10: 'pluck
-
-  venue
-
-  speak
-
-  guilt
-
-  bullet
-
-  donkey
-
-  ice
-
-  turtle
-
-  abandon
-
-  end'
-bip_39_word_new_line_11: 'pluck
-
-  venue
-
-  speak
-
-  guilt
-
-  bullet
-
-  donkey
-
-  ice
-
-  turtle
-
-  abandon
-
-  end
-
-  inject'
 bip_39_word_new_line_12: 'pluck
 
   venue
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'pluck
   venue
 
   speak'
-bip_39_word_new_line_4: 'pluck
-
-  venue
-
-  speak
-
-  guilt'
-bip_39_word_new_line_5: 'pluck
-
-  venue
-
-  speak
-
-  guilt
-
-  bullet'
-bip_39_word_new_line_6: 'pluck
-
-  venue
-
-  speak
-
-  guilt
-
-  bullet
-
-  donkey'
-bip_39_word_new_line_7: 'pluck
-
-  venue
-
-  speak
-
-  guilt
-
-  bullet
-
-  donkey
-
-  ice'
-bip_39_word_new_line_8: 'pluck
-
-  venue
-
-  speak
-
-  guilt
-
-  bullet
-
-  donkey
-
-  ice
-
-  turtle'
-bip_39_word_new_line_9: 'pluck
-
-  venue
-
-  speak
-
-  guilt
-
-  bullet
-
-  donkey
-
-  ice
-
-  turtle
-
-  abandon'
-bip_39_word_no_space_1: pluck
-bip_39_word_no_space_10: pluckvenuespeakguiltbulletdonkeyiceturtleabandonend
-bip_39_word_no_space_11: pluckvenuespeakguiltbulletdonkeyiceturtleabandonendinject
 bip_39_word_no_space_12: pluckvenuespeakguiltbulletdonkeyiceturtleabandonendinjectassault
 bip_39_word_no_space_2: pluckvenue
 bip_39_word_no_space_3: pluckvenuespeak
-bip_39_word_no_space_4: pluckvenuespeakguilt
-bip_39_word_no_space_5: pluckvenuespeakguiltbullet
-bip_39_word_no_space_6: pluckvenuespeakguiltbulletdonkey
-bip_39_word_no_space_7: pluckvenuespeakguiltbulletdonkeyice
-bip_39_word_no_space_8: pluckvenuespeakguiltbulletdonkeyiceturtle
-bip_39_word_no_space_9: pluckvenuespeakguiltbulletdonkeyiceturtleabandon
-bip_39_word_space_0:
-- pluck
-- venue
-- speak
-- guilt
-- bullet
-- donkey
-- ice
-- turtle
-- abandon
-- end
-- inject
-- assault
-bip_39_word_space_1: pluck
-bip_39_word_space_10: pluck venue speak guilt bullet donkey ice turtle abandon end
-bip_39_word_space_11: pluck venue speak guilt bullet donkey ice turtle abandon end
-  inject
 bip_39_word_space_12: pluck venue speak guilt bullet donkey ice turtle abandon end
   inject assault
 bip_39_word_space_2: pluck venue
 bip_39_word_space_3: pluck venue speak
-bip_39_word_space_4: pluck venue speak guilt
-bip_39_word_space_5: pluck venue speak guilt bullet
-bip_39_word_space_6: pluck venue speak guilt bullet donkey
-bip_39_word_space_7: pluck venue speak guilt bullet donkey ice
-bip_39_word_space_8: pluck venue speak guilt bullet donkey ice turtle
-bip_39_word_space_9: pluck venue speak guilt bullet donkey ice turtle abandon
-bip_39_word_underscore_1: pluck
-bip_39_word_underscore_10: pluck_venue_speak_guilt_bullet_donkey_ice_turtle_abandon_end
-bip_39_word_underscore_11: pluck_venue_speak_guilt_bullet_donkey_ice_turtle_abandon_end_inject
 bip_39_word_underscore_12: pluck_venue_speak_guilt_bullet_donkey_ice_turtle_abandon_end_inject_assault
 bip_39_word_underscore_2: pluck_venue
 bip_39_word_underscore_3: pluck_venue_speak
-bip_39_word_underscore_4: pluck_venue_speak_guilt
-bip_39_word_underscore_5: pluck_venue_speak_guilt_bullet
-bip_39_word_underscore_6: pluck_venue_speak_guilt_bullet_donkey
-bip_39_word_underscore_7: pluck_venue_speak_guilt_bullet_donkey_ice
-bip_39_word_underscore_8: pluck_venue_speak_guilt_bullet_donkey_ice_turtle
-bip_39_word_underscore_9: pluck_venue_speak_guilt_bullet_donkey_ice_turtle_abandon
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

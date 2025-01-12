@@ -1,68 +1,9 @@
-bip_39_word_dash_1: carry
-bip_39_word_dash_10: carry-consider-athlete-check-devote-pilot-produce-deny-able-decade
-bip_39_word_dash_11: carry-consider-athlete-check-devote-pilot-produce-deny-able-decade-someone
 bip_39_word_dash_12: carry-consider-athlete-check-devote-pilot-produce-deny-able-decade-someone-arch
 bip_39_word_dash_2: carry-consider
 bip_39_word_dash_3: carry-consider-athlete
-bip_39_word_dash_4: carry-consider-athlete-check
-bip_39_word_dash_5: carry-consider-athlete-check-devote
-bip_39_word_dash_6: carry-consider-athlete-check-devote-pilot
-bip_39_word_dash_7: carry-consider-athlete-check-devote-pilot-produce
-bip_39_word_dash_8: carry-consider-athlete-check-devote-pilot-produce-deny
-bip_39_word_dash_9: carry-consider-athlete-check-devote-pilot-produce-deny-able
-bip_39_word_new_br_1: carry
-bip_39_word_new_br_10: carry<br>consider<br>athlete<br>check<br>devote<br>pilot<br>produce<br>deny<br>able<br>decade
-bip_39_word_new_br_11: carry<br>consider<br>athlete<br>check<br>devote<br>pilot<br>produce<br>deny<br>able<br>decade<br>someone
 bip_39_word_new_br_12: carry<br>consider<br>athlete<br>check<br>devote<br>pilot<br>produce<br>deny<br>able<br>decade<br>someone<br>arch
 bip_39_word_new_br_2: carry<br>consider
 bip_39_word_new_br_3: carry<br>consider<br>athlete
-bip_39_word_new_br_4: carry<br>consider<br>athlete<br>check
-bip_39_word_new_br_5: carry<br>consider<br>athlete<br>check<br>devote
-bip_39_word_new_br_6: carry<br>consider<br>athlete<br>check<br>devote<br>pilot
-bip_39_word_new_br_7: carry<br>consider<br>athlete<br>check<br>devote<br>pilot<br>produce
-bip_39_word_new_br_8: carry<br>consider<br>athlete<br>check<br>devote<br>pilot<br>produce<br>deny
-bip_39_word_new_br_9: carry<br>consider<br>athlete<br>check<br>devote<br>pilot<br>produce<br>deny<br>able
-bip_39_word_new_line_1: carry
-bip_39_word_new_line_10: 'carry
-
-  consider
-
-  athlete
-
-  check
-
-  devote
-
-  pilot
-
-  produce
-
-  deny
-
-  able
-
-  decade'
-bip_39_word_new_line_11: 'carry
-
-  consider
-
-  athlete
-
-  check
-
-  devote
-
-  pilot
-
-  produce
-
-  deny
-
-  able
-
-  decade
-
-  someone'
 bip_39_word_new_line_12: 'carry
 
   consider
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'carry
   consider
 
   athlete'
-bip_39_word_new_line_4: 'carry
-
-  consider
-
-  athlete
-
-  check'
-bip_39_word_new_line_5: 'carry
-
-  consider
-
-  athlete
-
-  check
-
-  devote'
-bip_39_word_new_line_6: 'carry
-
-  consider
-
-  athlete
-
-  check
-
-  devote
-
-  pilot'
-bip_39_word_new_line_7: 'carry
-
-  consider
-
-  athlete
-
-  check
-
-  devote
-
-  pilot
-
-  produce'
-bip_39_word_new_line_8: 'carry
-
-  consider
-
-  athlete
-
-  check
-
-  devote
-
-  pilot
-
-  produce
-
-  deny'
-bip_39_word_new_line_9: 'carry
-
-  consider
-
-  athlete
-
-  check
-
-  devote
-
-  pilot
-
-  produce
-
-  deny
-
-  able'
-bip_39_word_no_space_1: carry
-bip_39_word_no_space_10: carryconsiderathletecheckdevotepilotproducedenyabledecade
-bip_39_word_no_space_11: carryconsiderathletecheckdevotepilotproducedenyabledecadesomeone
 bip_39_word_no_space_12: carryconsiderathletecheckdevotepilotproducedenyabledecadesomeonearch
 bip_39_word_no_space_2: carryconsider
 bip_39_word_no_space_3: carryconsiderathlete
-bip_39_word_no_space_4: carryconsiderathletecheck
-bip_39_word_no_space_5: carryconsiderathletecheckdevote
-bip_39_word_no_space_6: carryconsiderathletecheckdevotepilot
-bip_39_word_no_space_7: carryconsiderathletecheckdevotepilotproduce
-bip_39_word_no_space_8: carryconsiderathletecheckdevotepilotproducedeny
-bip_39_word_no_space_9: carryconsiderathletecheckdevotepilotproducedenyable
-bip_39_word_space_0:
-- carry
-- consider
-- athlete
-- check
-- devote
-- pilot
-- produce
-- deny
-- able
-- decade
-- someone
-- arch
-bip_39_word_space_1: carry
-bip_39_word_space_10: carry consider athlete check devote pilot produce deny able
-  decade
-bip_39_word_space_11: carry consider athlete check devote pilot produce deny able
-  decade someone
 bip_39_word_space_12: carry consider athlete check devote pilot produce deny able
   decade someone arch
 bip_39_word_space_2: carry consider
 bip_39_word_space_3: carry consider athlete
-bip_39_word_space_4: carry consider athlete check
-bip_39_word_space_5: carry consider athlete check devote
-bip_39_word_space_6: carry consider athlete check devote pilot
-bip_39_word_space_7: carry consider athlete check devote pilot produce
-bip_39_word_space_8: carry consider athlete check devote pilot produce deny
-bip_39_word_space_9: carry consider athlete check devote pilot produce deny able
-bip_39_word_underscore_1: carry
-bip_39_word_underscore_10: carry_consider_athlete_check_devote_pilot_produce_deny_able_decade
-bip_39_word_underscore_11: carry_consider_athlete_check_devote_pilot_produce_deny_able_decade_someone
 bip_39_word_underscore_12: carry_consider_athlete_check_devote_pilot_produce_deny_able_decade_someone_arch
 bip_39_word_underscore_2: carry_consider
 bip_39_word_underscore_3: carry_consider_athlete
-bip_39_word_underscore_4: carry_consider_athlete_check
-bip_39_word_underscore_5: carry_consider_athlete_check_devote
-bip_39_word_underscore_6: carry_consider_athlete_check_devote_pilot
-bip_39_word_underscore_7: carry_consider_athlete_check_devote_pilot_produce
-bip_39_word_underscore_8: carry_consider_athlete_check_devote_pilot_produce_deny
-bip_39_word_underscore_9: carry_consider_athlete_check_devote_pilot_produce_deny_able
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

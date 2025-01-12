@@ -1,68 +1,9 @@
-bip_39_word_dash_1: erosion
-bip_39_word_dash_10: erosion-armor-arch-town-warm-ketchup-lemon-athlete-weird-reward
-bip_39_word_dash_11: erosion-armor-arch-town-warm-ketchup-lemon-athlete-weird-reward-crunch
 bip_39_word_dash_12: erosion-armor-arch-town-warm-ketchup-lemon-athlete-weird-reward-crunch-approve
 bip_39_word_dash_2: erosion-armor
 bip_39_word_dash_3: erosion-armor-arch
-bip_39_word_dash_4: erosion-armor-arch-town
-bip_39_word_dash_5: erosion-armor-arch-town-warm
-bip_39_word_dash_6: erosion-armor-arch-town-warm-ketchup
-bip_39_word_dash_7: erosion-armor-arch-town-warm-ketchup-lemon
-bip_39_word_dash_8: erosion-armor-arch-town-warm-ketchup-lemon-athlete
-bip_39_word_dash_9: erosion-armor-arch-town-warm-ketchup-lemon-athlete-weird
-bip_39_word_new_br_1: erosion
-bip_39_word_new_br_10: erosion<br>armor<br>arch<br>town<br>warm<br>ketchup<br>lemon<br>athlete<br>weird<br>reward
-bip_39_word_new_br_11: erosion<br>armor<br>arch<br>town<br>warm<br>ketchup<br>lemon<br>athlete<br>weird<br>reward<br>crunch
 bip_39_word_new_br_12: erosion<br>armor<br>arch<br>town<br>warm<br>ketchup<br>lemon<br>athlete<br>weird<br>reward<br>crunch<br>approve
 bip_39_word_new_br_2: erosion<br>armor
 bip_39_word_new_br_3: erosion<br>armor<br>arch
-bip_39_word_new_br_4: erosion<br>armor<br>arch<br>town
-bip_39_word_new_br_5: erosion<br>armor<br>arch<br>town<br>warm
-bip_39_word_new_br_6: erosion<br>armor<br>arch<br>town<br>warm<br>ketchup
-bip_39_word_new_br_7: erosion<br>armor<br>arch<br>town<br>warm<br>ketchup<br>lemon
-bip_39_word_new_br_8: erosion<br>armor<br>arch<br>town<br>warm<br>ketchup<br>lemon<br>athlete
-bip_39_word_new_br_9: erosion<br>armor<br>arch<br>town<br>warm<br>ketchup<br>lemon<br>athlete<br>weird
-bip_39_word_new_line_1: erosion
-bip_39_word_new_line_10: 'erosion
-
-  armor
-
-  arch
-
-  town
-
-  warm
-
-  ketchup
-
-  lemon
-
-  athlete
-
-  weird
-
-  reward'
-bip_39_word_new_line_11: 'erosion
-
-  armor
-
-  arch
-
-  town
-
-  warm
-
-  ketchup
-
-  lemon
-
-  athlete
-
-  weird
-
-  reward
-
-  crunch'
 bip_39_word_new_line_12: 'erosion
 
   armor
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'erosion
   armor
 
   arch'
-bip_39_word_new_line_4: 'erosion
-
-  armor
-
-  arch
-
-  town'
-bip_39_word_new_line_5: 'erosion
-
-  armor
-
-  arch
-
-  town
-
-  warm'
-bip_39_word_new_line_6: 'erosion
-
-  armor
-
-  arch
-
-  town
-
-  warm
-
-  ketchup'
-bip_39_word_new_line_7: 'erosion
-
-  armor
-
-  arch
-
-  town
-
-  warm
-
-  ketchup
-
-  lemon'
-bip_39_word_new_line_8: 'erosion
-
-  armor
-
-  arch
-
-  town
-
-  warm
-
-  ketchup
-
-  lemon
-
-  athlete'
-bip_39_word_new_line_9: 'erosion
-
-  armor
-
-  arch
-
-  town
-
-  warm
-
-  ketchup
-
-  lemon
-
-  athlete
-
-  weird'
-bip_39_word_no_space_1: erosion
-bip_39_word_no_space_10: erosionarmorarchtownwarmketchuplemonathleteweirdreward
-bip_39_word_no_space_11: erosionarmorarchtownwarmketchuplemonathleteweirdrewardcrunch
 bip_39_word_no_space_12: erosionarmorarchtownwarmketchuplemonathleteweirdrewardcrunchapprove
 bip_39_word_no_space_2: erosionarmor
 bip_39_word_no_space_3: erosionarmorarch
-bip_39_word_no_space_4: erosionarmorarchtown
-bip_39_word_no_space_5: erosionarmorarchtownwarm
-bip_39_word_no_space_6: erosionarmorarchtownwarmketchup
-bip_39_word_no_space_7: erosionarmorarchtownwarmketchuplemon
-bip_39_word_no_space_8: erosionarmorarchtownwarmketchuplemonathlete
-bip_39_word_no_space_9: erosionarmorarchtownwarmketchuplemonathleteweird
-bip_39_word_space_0:
-- erosion
-- armor
-- arch
-- town
-- warm
-- ketchup
-- lemon
-- athlete
-- weird
-- reward
-- crunch
-- approve
-bip_39_word_space_1: erosion
-bip_39_word_space_10: erosion armor arch town warm ketchup lemon athlete weird reward
-bip_39_word_space_11: erosion armor arch town warm ketchup lemon athlete weird reward
-  crunch
 bip_39_word_space_12: erosion armor arch town warm ketchup lemon athlete weird reward
   crunch approve
 bip_39_word_space_2: erosion armor
 bip_39_word_space_3: erosion armor arch
-bip_39_word_space_4: erosion armor arch town
-bip_39_word_space_5: erosion armor arch town warm
-bip_39_word_space_6: erosion armor arch town warm ketchup
-bip_39_word_space_7: erosion armor arch town warm ketchup lemon
-bip_39_word_space_8: erosion armor arch town warm ketchup lemon athlete
-bip_39_word_space_9: erosion armor arch town warm ketchup lemon athlete weird
-bip_39_word_underscore_1: erosion
-bip_39_word_underscore_10: erosion_armor_arch_town_warm_ketchup_lemon_athlete_weird_reward
-bip_39_word_underscore_11: erosion_armor_arch_town_warm_ketchup_lemon_athlete_weird_reward_crunch
 bip_39_word_underscore_12: erosion_armor_arch_town_warm_ketchup_lemon_athlete_weird_reward_crunch_approve
 bip_39_word_underscore_2: erosion_armor
 bip_39_word_underscore_3: erosion_armor_arch
-bip_39_word_underscore_4: erosion_armor_arch_town
-bip_39_word_underscore_5: erosion_armor_arch_town_warm
-bip_39_word_underscore_6: erosion_armor_arch_town_warm_ketchup
-bip_39_word_underscore_7: erosion_armor_arch_town_warm_ketchup_lemon
-bip_39_word_underscore_8: erosion_armor_arch_town_warm_ketchup_lemon_athlete
-bip_39_word_underscore_9: erosion_armor_arch_town_warm_ketchup_lemon_athlete_weird
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

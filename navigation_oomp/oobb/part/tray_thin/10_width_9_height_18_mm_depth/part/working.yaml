@@ -1,68 +1,9 @@
-bip_39_word_dash_1: gorilla
-bip_39_word_dash_10: gorilla-way-empty-current-limb-zoo-walk-awkward-enough-emerge
-bip_39_word_dash_11: gorilla-way-empty-current-limb-zoo-walk-awkward-enough-emerge-castle
 bip_39_word_dash_12: gorilla-way-empty-current-limb-zoo-walk-awkward-enough-emerge-castle-abuse
 bip_39_word_dash_2: gorilla-way
 bip_39_word_dash_3: gorilla-way-empty
-bip_39_word_dash_4: gorilla-way-empty-current
-bip_39_word_dash_5: gorilla-way-empty-current-limb
-bip_39_word_dash_6: gorilla-way-empty-current-limb-zoo
-bip_39_word_dash_7: gorilla-way-empty-current-limb-zoo-walk
-bip_39_word_dash_8: gorilla-way-empty-current-limb-zoo-walk-awkward
-bip_39_word_dash_9: gorilla-way-empty-current-limb-zoo-walk-awkward-enough
-bip_39_word_new_br_1: gorilla
-bip_39_word_new_br_10: gorilla<br>way<br>empty<br>current<br>limb<br>zoo<br>walk<br>awkward<br>enough<br>emerge
-bip_39_word_new_br_11: gorilla<br>way<br>empty<br>current<br>limb<br>zoo<br>walk<br>awkward<br>enough<br>emerge<br>castle
 bip_39_word_new_br_12: gorilla<br>way<br>empty<br>current<br>limb<br>zoo<br>walk<br>awkward<br>enough<br>emerge<br>castle<br>abuse
 bip_39_word_new_br_2: gorilla<br>way
 bip_39_word_new_br_3: gorilla<br>way<br>empty
-bip_39_word_new_br_4: gorilla<br>way<br>empty<br>current
-bip_39_word_new_br_5: gorilla<br>way<br>empty<br>current<br>limb
-bip_39_word_new_br_6: gorilla<br>way<br>empty<br>current<br>limb<br>zoo
-bip_39_word_new_br_7: gorilla<br>way<br>empty<br>current<br>limb<br>zoo<br>walk
-bip_39_word_new_br_8: gorilla<br>way<br>empty<br>current<br>limb<br>zoo<br>walk<br>awkward
-bip_39_word_new_br_9: gorilla<br>way<br>empty<br>current<br>limb<br>zoo<br>walk<br>awkward<br>enough
-bip_39_word_new_line_1: gorilla
-bip_39_word_new_line_10: 'gorilla
-
-  way
-
-  empty
-
-  current
-
-  limb
-
-  zoo
-
-  walk
-
-  awkward
-
-  enough
-
-  emerge'
-bip_39_word_new_line_11: 'gorilla
-
-  way
-
-  empty
-
-  current
-
-  limb
-
-  zoo
-
-  walk
-
-  awkward
-
-  enough
-
-  emerge
-
-  castle'
 bip_39_word_new_line_12: 'gorilla
 
   way
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'gorilla
   way
 
   empty'
-bip_39_word_new_line_4: 'gorilla
-
-  way
-
-  empty
-
-  current'
-bip_39_word_new_line_5: 'gorilla
-
-  way
-
-  empty
-
-  current
-
-  limb'
-bip_39_word_new_line_6: 'gorilla
-
-  way
-
-  empty
-
-  current
-
-  limb
-
-  zoo'
-bip_39_word_new_line_7: 'gorilla
-
-  way
-
-  empty
-
-  current
-
-  limb
-
-  zoo
-
-  walk'
-bip_39_word_new_line_8: 'gorilla
-
-  way
-
-  empty
-
-  current
-
-  limb
-
-  zoo
-
-  walk
-
-  awkward'
-bip_39_word_new_line_9: 'gorilla
-
-  way
-
-  empty
-
-  current
-
-  limb
-
-  zoo
-
-  walk
-
-  awkward
-
-  enough'
-bip_39_word_no_space_1: gorilla
-bip_39_word_no_space_10: gorillawayemptycurrentlimbzoowalkawkwardenoughemerge
-bip_39_word_no_space_11: gorillawayemptycurrentlimbzoowalkawkwardenoughemergecastle
 bip_39_word_no_space_12: gorillawayemptycurrentlimbzoowalkawkwardenoughemergecastleabuse
 bip_39_word_no_space_2: gorillaway
 bip_39_word_no_space_3: gorillawayempty
-bip_39_word_no_space_4: gorillawayemptycurrent
-bip_39_word_no_space_5: gorillawayemptycurrentlimb
-bip_39_word_no_space_6: gorillawayemptycurrentlimbzoo
-bip_39_word_no_space_7: gorillawayemptycurrentlimbzoowalk
-bip_39_word_no_space_8: gorillawayemptycurrentlimbzoowalkawkward
-bip_39_word_no_space_9: gorillawayemptycurrentlimbzoowalkawkwardenough
-bip_39_word_space_0:
-- gorilla
-- way
-- empty
-- current
-- limb
-- zoo
-- walk
-- awkward
-- enough
-- emerge
-- castle
-- abuse
-bip_39_word_space_1: gorilla
-bip_39_word_space_10: gorilla way empty current limb zoo walk awkward enough emerge
-bip_39_word_space_11: gorilla way empty current limb zoo walk awkward enough emerge
-  castle
 bip_39_word_space_12: gorilla way empty current limb zoo walk awkward enough emerge
   castle abuse
 bip_39_word_space_2: gorilla way
 bip_39_word_space_3: gorilla way empty
-bip_39_word_space_4: gorilla way empty current
-bip_39_word_space_5: gorilla way empty current limb
-bip_39_word_space_6: gorilla way empty current limb zoo
-bip_39_word_space_7: gorilla way empty current limb zoo walk
-bip_39_word_space_8: gorilla way empty current limb zoo walk awkward
-bip_39_word_space_9: gorilla way empty current limb zoo walk awkward enough
-bip_39_word_underscore_1: gorilla
-bip_39_word_underscore_10: gorilla_way_empty_current_limb_zoo_walk_awkward_enough_emerge
-bip_39_word_underscore_11: gorilla_way_empty_current_limb_zoo_walk_awkward_enough_emerge_castle
 bip_39_word_underscore_12: gorilla_way_empty_current_limb_zoo_walk_awkward_enough_emerge_castle_abuse
 bip_39_word_underscore_2: gorilla_way
 bip_39_word_underscore_3: gorilla_way_empty
-bip_39_word_underscore_4: gorilla_way_empty_current
-bip_39_word_underscore_5: gorilla_way_empty_current_limb
-bip_39_word_underscore_6: gorilla_way_empty_current_limb_zoo
-bip_39_word_underscore_7: gorilla_way_empty_current_limb_zoo_walk
-bip_39_word_underscore_8: gorilla_way_empty_current_limb_zoo_walk_awkward
-bip_39_word_underscore_9: gorilla_way_empty_current_limb_zoo_walk_awkward_enough
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

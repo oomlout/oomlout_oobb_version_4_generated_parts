@@ -1,68 +1,9 @@
-bip_39_word_dash_1: duck
-bip_39_word_dash_10: duck-clean-liberty-feed-middle-boss-smoke-hungry-chaos-spring
-bip_39_word_dash_11: duck-clean-liberty-feed-middle-boss-smoke-hungry-chaos-spring-start
 bip_39_word_dash_12: duck-clean-liberty-feed-middle-boss-smoke-hungry-chaos-spring-start-apart
 bip_39_word_dash_2: duck-clean
 bip_39_word_dash_3: duck-clean-liberty
-bip_39_word_dash_4: duck-clean-liberty-feed
-bip_39_word_dash_5: duck-clean-liberty-feed-middle
-bip_39_word_dash_6: duck-clean-liberty-feed-middle-boss
-bip_39_word_dash_7: duck-clean-liberty-feed-middle-boss-smoke
-bip_39_word_dash_8: duck-clean-liberty-feed-middle-boss-smoke-hungry
-bip_39_word_dash_9: duck-clean-liberty-feed-middle-boss-smoke-hungry-chaos
-bip_39_word_new_br_1: duck
-bip_39_word_new_br_10: duck<br>clean<br>liberty<br>feed<br>middle<br>boss<br>smoke<br>hungry<br>chaos<br>spring
-bip_39_word_new_br_11: duck<br>clean<br>liberty<br>feed<br>middle<br>boss<br>smoke<br>hungry<br>chaos<br>spring<br>start
 bip_39_word_new_br_12: duck<br>clean<br>liberty<br>feed<br>middle<br>boss<br>smoke<br>hungry<br>chaos<br>spring<br>start<br>apart
 bip_39_word_new_br_2: duck<br>clean
 bip_39_word_new_br_3: duck<br>clean<br>liberty
-bip_39_word_new_br_4: duck<br>clean<br>liberty<br>feed
-bip_39_word_new_br_5: duck<br>clean<br>liberty<br>feed<br>middle
-bip_39_word_new_br_6: duck<br>clean<br>liberty<br>feed<br>middle<br>boss
-bip_39_word_new_br_7: duck<br>clean<br>liberty<br>feed<br>middle<br>boss<br>smoke
-bip_39_word_new_br_8: duck<br>clean<br>liberty<br>feed<br>middle<br>boss<br>smoke<br>hungry
-bip_39_word_new_br_9: duck<br>clean<br>liberty<br>feed<br>middle<br>boss<br>smoke<br>hungry<br>chaos
-bip_39_word_new_line_1: duck
-bip_39_word_new_line_10: 'duck
-
-  clean
-
-  liberty
-
-  feed
-
-  middle
-
-  boss
-
-  smoke
-
-  hungry
-
-  chaos
-
-  spring'
-bip_39_word_new_line_11: 'duck
-
-  clean
-
-  liberty
-
-  feed
-
-  middle
-
-  boss
-
-  smoke
-
-  hungry
-
-  chaos
-
-  spring
-
-  start'
 bip_39_word_new_line_12: 'duck
 
   clean
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'duck
   clean
 
   liberty'
-bip_39_word_new_line_4: 'duck
-
-  clean
-
-  liberty
-
-  feed'
-bip_39_word_new_line_5: 'duck
-
-  clean
-
-  liberty
-
-  feed
-
-  middle'
-bip_39_word_new_line_6: 'duck
-
-  clean
-
-  liberty
-
-  feed
-
-  middle
-
-  boss'
-bip_39_word_new_line_7: 'duck
-
-  clean
-
-  liberty
-
-  feed
-
-  middle
-
-  boss
-
-  smoke'
-bip_39_word_new_line_8: 'duck
-
-  clean
-
-  liberty
-
-  feed
-
-  middle
-
-  boss
-
-  smoke
-
-  hungry'
-bip_39_word_new_line_9: 'duck
-
-  clean
-
-  liberty
-
-  feed
-
-  middle
-
-  boss
-
-  smoke
-
-  hungry
-
-  chaos'
-bip_39_word_no_space_1: duck
-bip_39_word_no_space_10: duckcleanlibertyfeedmiddlebosssmokehungrychaosspring
-bip_39_word_no_space_11: duckcleanlibertyfeedmiddlebosssmokehungrychaosspringstart
 bip_39_word_no_space_12: duckcleanlibertyfeedmiddlebosssmokehungrychaosspringstartapart
 bip_39_word_no_space_2: duckclean
 bip_39_word_no_space_3: duckcleanliberty
-bip_39_word_no_space_4: duckcleanlibertyfeed
-bip_39_word_no_space_5: duckcleanlibertyfeedmiddle
-bip_39_word_no_space_6: duckcleanlibertyfeedmiddleboss
-bip_39_word_no_space_7: duckcleanlibertyfeedmiddlebosssmoke
-bip_39_word_no_space_8: duckcleanlibertyfeedmiddlebosssmokehungry
-bip_39_word_no_space_9: duckcleanlibertyfeedmiddlebosssmokehungrychaos
-bip_39_word_space_0:
-- duck
-- clean
-- liberty
-- feed
-- middle
-- boss
-- smoke
-- hungry
-- chaos
-- spring
-- start
-- apart
-bip_39_word_space_1: duck
-bip_39_word_space_10: duck clean liberty feed middle boss smoke hungry chaos spring
-bip_39_word_space_11: duck clean liberty feed middle boss smoke hungry chaos spring
-  start
 bip_39_word_space_12: duck clean liberty feed middle boss smoke hungry chaos spring
   start apart
 bip_39_word_space_2: duck clean
 bip_39_word_space_3: duck clean liberty
-bip_39_word_space_4: duck clean liberty feed
-bip_39_word_space_5: duck clean liberty feed middle
-bip_39_word_space_6: duck clean liberty feed middle boss
-bip_39_word_space_7: duck clean liberty feed middle boss smoke
-bip_39_word_space_8: duck clean liberty feed middle boss smoke hungry
-bip_39_word_space_9: duck clean liberty feed middle boss smoke hungry chaos
-bip_39_word_underscore_1: duck
-bip_39_word_underscore_10: duck_clean_liberty_feed_middle_boss_smoke_hungry_chaos_spring
-bip_39_word_underscore_11: duck_clean_liberty_feed_middle_boss_smoke_hungry_chaos_spring_start
 bip_39_word_underscore_12: duck_clean_liberty_feed_middle_boss_smoke_hungry_chaos_spring_start_apart
 bip_39_word_underscore_2: duck_clean
 bip_39_word_underscore_3: duck_clean_liberty
-bip_39_word_underscore_4: duck_clean_liberty_feed
-bip_39_word_underscore_5: duck_clean_liberty_feed_middle
-bip_39_word_underscore_6: duck_clean_liberty_feed_middle_boss
-bip_39_word_underscore_7: duck_clean_liberty_feed_middle_boss_smoke
-bip_39_word_underscore_8: duck_clean_liberty_feed_middle_boss_smoke_hungry
-bip_39_word_underscore_9: duck_clean_liberty_feed_middle_boss_smoke_hungry_chaos
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

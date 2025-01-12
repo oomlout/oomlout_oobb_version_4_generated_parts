@@ -1,68 +1,9 @@
-bip_39_word_dash_1: seed
-bip_39_word_dash_10: seed-label-sister-assist-print-useless-recall-fame-inch-boring
-bip_39_word_dash_11: seed-label-sister-assist-print-useless-recall-fame-inch-boring-inherit
 bip_39_word_dash_12: seed-label-sister-assist-print-useless-recall-fame-inch-boring-inherit-actual
 bip_39_word_dash_2: seed-label
 bip_39_word_dash_3: seed-label-sister
-bip_39_word_dash_4: seed-label-sister-assist
-bip_39_word_dash_5: seed-label-sister-assist-print
-bip_39_word_dash_6: seed-label-sister-assist-print-useless
-bip_39_word_dash_7: seed-label-sister-assist-print-useless-recall
-bip_39_word_dash_8: seed-label-sister-assist-print-useless-recall-fame
-bip_39_word_dash_9: seed-label-sister-assist-print-useless-recall-fame-inch
-bip_39_word_new_br_1: seed
-bip_39_word_new_br_10: seed<br>label<br>sister<br>assist<br>print<br>useless<br>recall<br>fame<br>inch<br>boring
-bip_39_word_new_br_11: seed<br>label<br>sister<br>assist<br>print<br>useless<br>recall<br>fame<br>inch<br>boring<br>inherit
 bip_39_word_new_br_12: seed<br>label<br>sister<br>assist<br>print<br>useless<br>recall<br>fame<br>inch<br>boring<br>inherit<br>actual
 bip_39_word_new_br_2: seed<br>label
 bip_39_word_new_br_3: seed<br>label<br>sister
-bip_39_word_new_br_4: seed<br>label<br>sister<br>assist
-bip_39_word_new_br_5: seed<br>label<br>sister<br>assist<br>print
-bip_39_word_new_br_6: seed<br>label<br>sister<br>assist<br>print<br>useless
-bip_39_word_new_br_7: seed<br>label<br>sister<br>assist<br>print<br>useless<br>recall
-bip_39_word_new_br_8: seed<br>label<br>sister<br>assist<br>print<br>useless<br>recall<br>fame
-bip_39_word_new_br_9: seed<br>label<br>sister<br>assist<br>print<br>useless<br>recall<br>fame<br>inch
-bip_39_word_new_line_1: seed
-bip_39_word_new_line_10: 'seed
-
-  label
-
-  sister
-
-  assist
-
-  print
-
-  useless
-
-  recall
-
-  fame
-
-  inch
-
-  boring'
-bip_39_word_new_line_11: 'seed
-
-  label
-
-  sister
-
-  assist
-
-  print
-
-  useless
-
-  recall
-
-  fame
-
-  inch
-
-  boring
-
-  inherit'
 bip_39_word_new_line_12: 'seed
 
   label
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'seed
   label
 
   sister'
-bip_39_word_new_line_4: 'seed
-
-  label
-
-  sister
-
-  assist'
-bip_39_word_new_line_5: 'seed
-
-  label
-
-  sister
-
-  assist
-
-  print'
-bip_39_word_new_line_6: 'seed
-
-  label
-
-  sister
-
-  assist
-
-  print
-
-  useless'
-bip_39_word_new_line_7: 'seed
-
-  label
-
-  sister
-
-  assist
-
-  print
-
-  useless
-
-  recall'
-bip_39_word_new_line_8: 'seed
-
-  label
-
-  sister
-
-  assist
-
-  print
-
-  useless
-
-  recall
-
-  fame'
-bip_39_word_new_line_9: 'seed
-
-  label
-
-  sister
-
-  assist
-
-  print
-
-  useless
-
-  recall
-
-  fame
-
-  inch'
-bip_39_word_no_space_1: seed
-bip_39_word_no_space_10: seedlabelsisterassistprintuselessrecallfameinchboring
-bip_39_word_no_space_11: seedlabelsisterassistprintuselessrecallfameinchboringinherit
 bip_39_word_no_space_12: seedlabelsisterassistprintuselessrecallfameinchboringinheritactual
 bip_39_word_no_space_2: seedlabel
 bip_39_word_no_space_3: seedlabelsister
-bip_39_word_no_space_4: seedlabelsisterassist
-bip_39_word_no_space_5: seedlabelsisterassistprint
-bip_39_word_no_space_6: seedlabelsisterassistprintuseless
-bip_39_word_no_space_7: seedlabelsisterassistprintuselessrecall
-bip_39_word_no_space_8: seedlabelsisterassistprintuselessrecallfame
-bip_39_word_no_space_9: seedlabelsisterassistprintuselessrecallfameinch
-bip_39_word_space_0:
-- seed
-- label
-- sister
-- assist
-- print
-- useless
-- recall
-- fame
-- inch
-- boring
-- inherit
-- actual
-bip_39_word_space_1: seed
-bip_39_word_space_10: seed label sister assist print useless recall fame inch boring
-bip_39_word_space_11: seed label sister assist print useless recall fame inch boring
-  inherit
 bip_39_word_space_12: seed label sister assist print useless recall fame inch boring
   inherit actual
 bip_39_word_space_2: seed label
 bip_39_word_space_3: seed label sister
-bip_39_word_space_4: seed label sister assist
-bip_39_word_space_5: seed label sister assist print
-bip_39_word_space_6: seed label sister assist print useless
-bip_39_word_space_7: seed label sister assist print useless recall
-bip_39_word_space_8: seed label sister assist print useless recall fame
-bip_39_word_space_9: seed label sister assist print useless recall fame inch
-bip_39_word_underscore_1: seed
-bip_39_word_underscore_10: seed_label_sister_assist_print_useless_recall_fame_inch_boring
-bip_39_word_underscore_11: seed_label_sister_assist_print_useless_recall_fame_inch_boring_inherit
 bip_39_word_underscore_12: seed_label_sister_assist_print_useless_recall_fame_inch_boring_inherit_actual
 bip_39_word_underscore_2: seed_label
 bip_39_word_underscore_3: seed_label_sister
-bip_39_word_underscore_4: seed_label_sister_assist
-bip_39_word_underscore_5: seed_label_sister_assist_print
-bip_39_word_underscore_6: seed_label_sister_assist_print_useless
-bip_39_word_underscore_7: seed_label_sister_assist_print_useless_recall
-bip_39_word_underscore_8: seed_label_sister_assist_print_useless_recall_fame
-bip_39_word_underscore_9: seed_label_sister_assist_print_useless_recall_fame_inch
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

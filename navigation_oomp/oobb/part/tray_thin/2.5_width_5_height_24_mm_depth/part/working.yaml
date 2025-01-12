@@ -1,68 +1,9 @@
-bip_39_word_dash_1: special
-bip_39_word_dash_10: special-iron-proud-parrot-loyal-gaze-stadium-antenna-fitness-hazard
-bip_39_word_dash_11: special-iron-proud-parrot-loyal-gaze-stadium-antenna-fitness-hazard-random
 bip_39_word_dash_12: special-iron-proud-parrot-loyal-gaze-stadium-antenna-fitness-hazard-random-attack
 bip_39_word_dash_2: special-iron
 bip_39_word_dash_3: special-iron-proud
-bip_39_word_dash_4: special-iron-proud-parrot
-bip_39_word_dash_5: special-iron-proud-parrot-loyal
-bip_39_word_dash_6: special-iron-proud-parrot-loyal-gaze
-bip_39_word_dash_7: special-iron-proud-parrot-loyal-gaze-stadium
-bip_39_word_dash_8: special-iron-proud-parrot-loyal-gaze-stadium-antenna
-bip_39_word_dash_9: special-iron-proud-parrot-loyal-gaze-stadium-antenna-fitness
-bip_39_word_new_br_1: special
-bip_39_word_new_br_10: special<br>iron<br>proud<br>parrot<br>loyal<br>gaze<br>stadium<br>antenna<br>fitness<br>hazard
-bip_39_word_new_br_11: special<br>iron<br>proud<br>parrot<br>loyal<br>gaze<br>stadium<br>antenna<br>fitness<br>hazard<br>random
 bip_39_word_new_br_12: special<br>iron<br>proud<br>parrot<br>loyal<br>gaze<br>stadium<br>antenna<br>fitness<br>hazard<br>random<br>attack
 bip_39_word_new_br_2: special<br>iron
 bip_39_word_new_br_3: special<br>iron<br>proud
-bip_39_word_new_br_4: special<br>iron<br>proud<br>parrot
-bip_39_word_new_br_5: special<br>iron<br>proud<br>parrot<br>loyal
-bip_39_word_new_br_6: special<br>iron<br>proud<br>parrot<br>loyal<br>gaze
-bip_39_word_new_br_7: special<br>iron<br>proud<br>parrot<br>loyal<br>gaze<br>stadium
-bip_39_word_new_br_8: special<br>iron<br>proud<br>parrot<br>loyal<br>gaze<br>stadium<br>antenna
-bip_39_word_new_br_9: special<br>iron<br>proud<br>parrot<br>loyal<br>gaze<br>stadium<br>antenna<br>fitness
-bip_39_word_new_line_1: special
-bip_39_word_new_line_10: 'special
-
-  iron
-
-  proud
-
-  parrot
-
-  loyal
-
-  gaze
-
-  stadium
-
-  antenna
-
-  fitness
-
-  hazard'
-bip_39_word_new_line_11: 'special
-
-  iron
-
-  proud
-
-  parrot
-
-  loyal
-
-  gaze
-
-  stadium
-
-  antenna
-
-  fitness
-
-  hazard
-
-  random'
 bip_39_word_new_line_12: 'special
 
   iron
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'special
   iron
 
   proud'
-bip_39_word_new_line_4: 'special
-
-  iron
-
-  proud
-
-  parrot'
-bip_39_word_new_line_5: 'special
-
-  iron
-
-  proud
-
-  parrot
-
-  loyal'
-bip_39_word_new_line_6: 'special
-
-  iron
-
-  proud
-
-  parrot
-
-  loyal
-
-  gaze'
-bip_39_word_new_line_7: 'special
-
-  iron
-
-  proud
-
-  parrot
-
-  loyal
-
-  gaze
-
-  stadium'
-bip_39_word_new_line_8: 'special
-
-  iron
-
-  proud
-
-  parrot
-
-  loyal
-
-  gaze
-
-  stadium
-
-  antenna'
-bip_39_word_new_line_9: 'special
-
-  iron
-
-  proud
-
-  parrot
-
-  loyal
-
-  gaze
-
-  stadium
-
-  antenna
-
-  fitness'
-bip_39_word_no_space_1: special
-bip_39_word_no_space_10: specialironproudparrotloyalgazestadiumantennafitnesshazard
-bip_39_word_no_space_11: specialironproudparrotloyalgazestadiumantennafitnesshazardrandom
 bip_39_word_no_space_12: specialironproudparrotloyalgazestadiumantennafitnesshazardrandomattack
 bip_39_word_no_space_2: specialiron
 bip_39_word_no_space_3: specialironproud
-bip_39_word_no_space_4: specialironproudparrot
-bip_39_word_no_space_5: specialironproudparrotloyal
-bip_39_word_no_space_6: specialironproudparrotloyalgaze
-bip_39_word_no_space_7: specialironproudparrotloyalgazestadium
-bip_39_word_no_space_8: specialironproudparrotloyalgazestadiumantenna
-bip_39_word_no_space_9: specialironproudparrotloyalgazestadiumantennafitness
-bip_39_word_space_0:
-- special
-- iron
-- proud
-- parrot
-- loyal
-- gaze
-- stadium
-- antenna
-- fitness
-- hazard
-- random
-- attack
-bip_39_word_space_1: special
-bip_39_word_space_10: special iron proud parrot loyal gaze stadium antenna fitness
-  hazard
-bip_39_word_space_11: special iron proud parrot loyal gaze stadium antenna fitness
-  hazard random
 bip_39_word_space_12: special iron proud parrot loyal gaze stadium antenna fitness
   hazard random attack
 bip_39_word_space_2: special iron
 bip_39_word_space_3: special iron proud
-bip_39_word_space_4: special iron proud parrot
-bip_39_word_space_5: special iron proud parrot loyal
-bip_39_word_space_6: special iron proud parrot loyal gaze
-bip_39_word_space_7: special iron proud parrot loyal gaze stadium
-bip_39_word_space_8: special iron proud parrot loyal gaze stadium antenna
-bip_39_word_space_9: special iron proud parrot loyal gaze stadium antenna fitness
-bip_39_word_underscore_1: special
-bip_39_word_underscore_10: special_iron_proud_parrot_loyal_gaze_stadium_antenna_fitness_hazard
-bip_39_word_underscore_11: special_iron_proud_parrot_loyal_gaze_stadium_antenna_fitness_hazard_random
 bip_39_word_underscore_12: special_iron_proud_parrot_loyal_gaze_stadium_antenna_fitness_hazard_random_attack
 bip_39_word_underscore_2: special_iron
 bip_39_word_underscore_3: special_iron_proud
-bip_39_word_underscore_4: special_iron_proud_parrot
-bip_39_word_underscore_5: special_iron_proud_parrot_loyal
-bip_39_word_underscore_6: special_iron_proud_parrot_loyal_gaze
-bip_39_word_underscore_7: special_iron_proud_parrot_loyal_gaze_stadium
-bip_39_word_underscore_8: special_iron_proud_parrot_loyal_gaze_stadium_antenna
-bip_39_word_underscore_9: special_iron_proud_parrot_loyal_gaze_stadium_antenna_fitness
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

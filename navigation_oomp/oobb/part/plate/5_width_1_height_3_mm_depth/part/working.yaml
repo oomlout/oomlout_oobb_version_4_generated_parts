@@ -1,68 +1,9 @@
-bip_39_word_dash_1: venue
-bip_39_word_dash_10: venue-course-skate-crunch-canvas-robust-wool-bone-dash-sun
-bip_39_word_dash_11: venue-course-skate-crunch-canvas-robust-wool-bone-dash-sun-hammer
 bip_39_word_dash_12: venue-course-skate-crunch-canvas-robust-wool-bone-dash-sun-hammer-assault
 bip_39_word_dash_2: venue-course
 bip_39_word_dash_3: venue-course-skate
-bip_39_word_dash_4: venue-course-skate-crunch
-bip_39_word_dash_5: venue-course-skate-crunch-canvas
-bip_39_word_dash_6: venue-course-skate-crunch-canvas-robust
-bip_39_word_dash_7: venue-course-skate-crunch-canvas-robust-wool
-bip_39_word_dash_8: venue-course-skate-crunch-canvas-robust-wool-bone
-bip_39_word_dash_9: venue-course-skate-crunch-canvas-robust-wool-bone-dash
-bip_39_word_new_br_1: venue
-bip_39_word_new_br_10: venue<br>course<br>skate<br>crunch<br>canvas<br>robust<br>wool<br>bone<br>dash<br>sun
-bip_39_word_new_br_11: venue<br>course<br>skate<br>crunch<br>canvas<br>robust<br>wool<br>bone<br>dash<br>sun<br>hammer
 bip_39_word_new_br_12: venue<br>course<br>skate<br>crunch<br>canvas<br>robust<br>wool<br>bone<br>dash<br>sun<br>hammer<br>assault
 bip_39_word_new_br_2: venue<br>course
 bip_39_word_new_br_3: venue<br>course<br>skate
-bip_39_word_new_br_4: venue<br>course<br>skate<br>crunch
-bip_39_word_new_br_5: venue<br>course<br>skate<br>crunch<br>canvas
-bip_39_word_new_br_6: venue<br>course<br>skate<br>crunch<br>canvas<br>robust
-bip_39_word_new_br_7: venue<br>course<br>skate<br>crunch<br>canvas<br>robust<br>wool
-bip_39_word_new_br_8: venue<br>course<br>skate<br>crunch<br>canvas<br>robust<br>wool<br>bone
-bip_39_word_new_br_9: venue<br>course<br>skate<br>crunch<br>canvas<br>robust<br>wool<br>bone<br>dash
-bip_39_word_new_line_1: venue
-bip_39_word_new_line_10: 'venue
-
-  course
-
-  skate
-
-  crunch
-
-  canvas
-
-  robust
-
-  wool
-
-  bone
-
-  dash
-
-  sun'
-bip_39_word_new_line_11: 'venue
-
-  course
-
-  skate
-
-  crunch
-
-  canvas
-
-  robust
-
-  wool
-
-  bone
-
-  dash
-
-  sun
-
-  hammer'
 bip_39_word_new_line_12: 'venue
 
   course
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'venue
   course
 
   skate'
-bip_39_word_new_line_4: 'venue
-
-  course
-
-  skate
-
-  crunch'
-bip_39_word_new_line_5: 'venue
-
-  course
-
-  skate
-
-  crunch
-
-  canvas'
-bip_39_word_new_line_6: 'venue
-
-  course
-
-  skate
-
-  crunch
-
-  canvas
-
-  robust'
-bip_39_word_new_line_7: 'venue
-
-  course
-
-  skate
-
-  crunch
-
-  canvas
-
-  robust
-
-  wool'
-bip_39_word_new_line_8: 'venue
-
-  course
-
-  skate
-
-  crunch
-
-  canvas
-
-  robust
-
-  wool
-
-  bone'
-bip_39_word_new_line_9: 'venue
-
-  course
-
-  skate
-
-  crunch
-
-  canvas
-
-  robust
-
-  wool
-
-  bone
-
-  dash'
-bip_39_word_no_space_1: venue
-bip_39_word_no_space_10: venuecourseskatecrunchcanvasrobustwoolbonedashsun
-bip_39_word_no_space_11: venuecourseskatecrunchcanvasrobustwoolbonedashsunhammer
 bip_39_word_no_space_12: venuecourseskatecrunchcanvasrobustwoolbonedashsunhammerassault
 bip_39_word_no_space_2: venuecourse
 bip_39_word_no_space_3: venuecourseskate
-bip_39_word_no_space_4: venuecourseskatecrunch
-bip_39_word_no_space_5: venuecourseskatecrunchcanvas
-bip_39_word_no_space_6: venuecourseskatecrunchcanvasrobust
-bip_39_word_no_space_7: venuecourseskatecrunchcanvasrobustwool
-bip_39_word_no_space_8: venuecourseskatecrunchcanvasrobustwoolbone
-bip_39_word_no_space_9: venuecourseskatecrunchcanvasrobustwoolbonedash
-bip_39_word_space_0:
-- venue
-- course
-- skate
-- crunch
-- canvas
-- robust
-- wool
-- bone
-- dash
-- sun
-- hammer
-- assault
-bip_39_word_space_1: venue
-bip_39_word_space_10: venue course skate crunch canvas robust wool bone dash sun
-bip_39_word_space_11: venue course skate crunch canvas robust wool bone dash sun hammer
 bip_39_word_space_12: venue course skate crunch canvas robust wool bone dash sun hammer
   assault
 bip_39_word_space_2: venue course
 bip_39_word_space_3: venue course skate
-bip_39_word_space_4: venue course skate crunch
-bip_39_word_space_5: venue course skate crunch canvas
-bip_39_word_space_6: venue course skate crunch canvas robust
-bip_39_word_space_7: venue course skate crunch canvas robust wool
-bip_39_word_space_8: venue course skate crunch canvas robust wool bone
-bip_39_word_space_9: venue course skate crunch canvas robust wool bone dash
-bip_39_word_underscore_1: venue
-bip_39_word_underscore_10: venue_course_skate_crunch_canvas_robust_wool_bone_dash_sun
-bip_39_word_underscore_11: venue_course_skate_crunch_canvas_robust_wool_bone_dash_sun_hammer
 bip_39_word_underscore_12: venue_course_skate_crunch_canvas_robust_wool_bone_dash_sun_hammer_assault
 bip_39_word_underscore_2: venue_course
 bip_39_word_underscore_3: venue_course_skate
-bip_39_word_underscore_4: venue_course_skate_crunch
-bip_39_word_underscore_5: venue_course_skate_crunch_canvas
-bip_39_word_underscore_6: venue_course_skate_crunch_canvas_robust
-bip_39_word_underscore_7: venue_course_skate_crunch_canvas_robust_wool
-bip_39_word_underscore_8: venue_course_skate_crunch_canvas_robust_wool_bone
-bip_39_word_underscore_9: venue_course_skate_crunch_canvas_robust_wool_bone_dash
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: feature
-bip_39_word_dash_10: feature-cabbage-antenna-melody-chef-example-pudding-gaze-pass-rocket
-bip_39_word_dash_11: feature-cabbage-antenna-melody-chef-example-pudding-gaze-pass-rocket-finish
 bip_39_word_dash_12: feature-cabbage-antenna-melody-chef-example-pudding-gaze-pass-rocket-finish-abstract
 bip_39_word_dash_2: feature-cabbage
 bip_39_word_dash_3: feature-cabbage-antenna
-bip_39_word_dash_4: feature-cabbage-antenna-melody
-bip_39_word_dash_5: feature-cabbage-antenna-melody-chef
-bip_39_word_dash_6: feature-cabbage-antenna-melody-chef-example
-bip_39_word_dash_7: feature-cabbage-antenna-melody-chef-example-pudding
-bip_39_word_dash_8: feature-cabbage-antenna-melody-chef-example-pudding-gaze
-bip_39_word_dash_9: feature-cabbage-antenna-melody-chef-example-pudding-gaze-pass
-bip_39_word_new_br_1: feature
-bip_39_word_new_br_10: feature<br>cabbage<br>antenna<br>melody<br>chef<br>example<br>pudding<br>gaze<br>pass<br>rocket
-bip_39_word_new_br_11: feature<br>cabbage<br>antenna<br>melody<br>chef<br>example<br>pudding<br>gaze<br>pass<br>rocket<br>finish
 bip_39_word_new_br_12: feature<br>cabbage<br>antenna<br>melody<br>chef<br>example<br>pudding<br>gaze<br>pass<br>rocket<br>finish<br>abstract
 bip_39_word_new_br_2: feature<br>cabbage
 bip_39_word_new_br_3: feature<br>cabbage<br>antenna
-bip_39_word_new_br_4: feature<br>cabbage<br>antenna<br>melody
-bip_39_word_new_br_5: feature<br>cabbage<br>antenna<br>melody<br>chef
-bip_39_word_new_br_6: feature<br>cabbage<br>antenna<br>melody<br>chef<br>example
-bip_39_word_new_br_7: feature<br>cabbage<br>antenna<br>melody<br>chef<br>example<br>pudding
-bip_39_word_new_br_8: feature<br>cabbage<br>antenna<br>melody<br>chef<br>example<br>pudding<br>gaze
-bip_39_word_new_br_9: feature<br>cabbage<br>antenna<br>melody<br>chef<br>example<br>pudding<br>gaze<br>pass
-bip_39_word_new_line_1: feature
-bip_39_word_new_line_10: 'feature
-
-  cabbage
-
-  antenna
-
-  melody
-
-  chef
-
-  example
-
-  pudding
-
-  gaze
-
-  pass
-
-  rocket'
-bip_39_word_new_line_11: 'feature
-
-  cabbage
-
-  antenna
-
-  melody
-
-  chef
-
-  example
-
-  pudding
-
-  gaze
-
-  pass
-
-  rocket
-
-  finish'
 bip_39_word_new_line_12: 'feature
 
   cabbage
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'feature
   cabbage
 
   antenna'
-bip_39_word_new_line_4: 'feature
-
-  cabbage
-
-  antenna
-
-  melody'
-bip_39_word_new_line_5: 'feature
-
-  cabbage
-
-  antenna
-
-  melody
-
-  chef'
-bip_39_word_new_line_6: 'feature
-
-  cabbage
-
-  antenna
-
-  melody
-
-  chef
-
-  example'
-bip_39_word_new_line_7: 'feature
-
-  cabbage
-
-  antenna
-
-  melody
-
-  chef
-
-  example
-
-  pudding'
-bip_39_word_new_line_8: 'feature
-
-  cabbage
-
-  antenna
-
-  melody
-
-  chef
-
-  example
-
-  pudding
-
-  gaze'
-bip_39_word_new_line_9: 'feature
-
-  cabbage
-
-  antenna
-
-  melody
-
-  chef
-
-  example
-
-  pudding
-
-  gaze
-
-  pass'
-bip_39_word_no_space_1: feature
-bip_39_word_no_space_10: featurecabbageantennamelodychefexamplepuddinggazepassrocket
-bip_39_word_no_space_11: featurecabbageantennamelodychefexamplepuddinggazepassrocketfinish
 bip_39_word_no_space_12: featurecabbageantennamelodychefexamplepuddinggazepassrocketfinishabstract
 bip_39_word_no_space_2: featurecabbage
 bip_39_word_no_space_3: featurecabbageantenna
-bip_39_word_no_space_4: featurecabbageantennamelody
-bip_39_word_no_space_5: featurecabbageantennamelodychef
-bip_39_word_no_space_6: featurecabbageantennamelodychefexample
-bip_39_word_no_space_7: featurecabbageantennamelodychefexamplepudding
-bip_39_word_no_space_8: featurecabbageantennamelodychefexamplepuddinggaze
-bip_39_word_no_space_9: featurecabbageantennamelodychefexamplepuddinggazepass
-bip_39_word_space_0:
-- feature
-- cabbage
-- antenna
-- melody
-- chef
-- example
-- pudding
-- gaze
-- pass
-- rocket
-- finish
-- abstract
-bip_39_word_space_1: feature
-bip_39_word_space_10: feature cabbage antenna melody chef example pudding gaze pass
-  rocket
-bip_39_word_space_11: feature cabbage antenna melody chef example pudding gaze pass
-  rocket finish
 bip_39_word_space_12: feature cabbage antenna melody chef example pudding gaze pass
   rocket finish abstract
 bip_39_word_space_2: feature cabbage
 bip_39_word_space_3: feature cabbage antenna
-bip_39_word_space_4: feature cabbage antenna melody
-bip_39_word_space_5: feature cabbage antenna melody chef
-bip_39_word_space_6: feature cabbage antenna melody chef example
-bip_39_word_space_7: feature cabbage antenna melody chef example pudding
-bip_39_word_space_8: feature cabbage antenna melody chef example pudding gaze
-bip_39_word_space_9: feature cabbage antenna melody chef example pudding gaze pass
-bip_39_word_underscore_1: feature
-bip_39_word_underscore_10: feature_cabbage_antenna_melody_chef_example_pudding_gaze_pass_rocket
-bip_39_word_underscore_11: feature_cabbage_antenna_melody_chef_example_pudding_gaze_pass_rocket_finish
 bip_39_word_underscore_12: feature_cabbage_antenna_melody_chef_example_pudding_gaze_pass_rocket_finish_abstract
 bip_39_word_underscore_2: feature_cabbage
 bip_39_word_underscore_3: feature_cabbage_antenna
-bip_39_word_underscore_4: feature_cabbage_antenna_melody
-bip_39_word_underscore_5: feature_cabbage_antenna_melody_chef
-bip_39_word_underscore_6: feature_cabbage_antenna_melody_chef_example
-bip_39_word_underscore_7: feature_cabbage_antenna_melody_chef_example_pudding
-bip_39_word_underscore_8: feature_cabbage_antenna_melody_chef_example_pudding_gaze
-bip_39_word_underscore_9: feature_cabbage_antenna_melody_chef_example_pudding_gaze_pass
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

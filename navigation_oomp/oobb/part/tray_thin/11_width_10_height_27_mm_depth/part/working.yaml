@@ -1,68 +1,9 @@
-bip_39_word_dash_1: box
-bip_39_word_dash_10: box-help-neck-taste-misery-beauty-hurt-thumb-direct-range
-bip_39_word_dash_11: box-help-neck-taste-misery-beauty-hurt-thumb-direct-range-sense
 bip_39_word_dash_12: box-help-neck-taste-misery-beauty-hurt-thumb-direct-range-sense-accident
 bip_39_word_dash_2: box-help
 bip_39_word_dash_3: box-help-neck
-bip_39_word_dash_4: box-help-neck-taste
-bip_39_word_dash_5: box-help-neck-taste-misery
-bip_39_word_dash_6: box-help-neck-taste-misery-beauty
-bip_39_word_dash_7: box-help-neck-taste-misery-beauty-hurt
-bip_39_word_dash_8: box-help-neck-taste-misery-beauty-hurt-thumb
-bip_39_word_dash_9: box-help-neck-taste-misery-beauty-hurt-thumb-direct
-bip_39_word_new_br_1: box
-bip_39_word_new_br_10: box<br>help<br>neck<br>taste<br>misery<br>beauty<br>hurt<br>thumb<br>direct<br>range
-bip_39_word_new_br_11: box<br>help<br>neck<br>taste<br>misery<br>beauty<br>hurt<br>thumb<br>direct<br>range<br>sense
 bip_39_word_new_br_12: box<br>help<br>neck<br>taste<br>misery<br>beauty<br>hurt<br>thumb<br>direct<br>range<br>sense<br>accident
 bip_39_word_new_br_2: box<br>help
 bip_39_word_new_br_3: box<br>help<br>neck
-bip_39_word_new_br_4: box<br>help<br>neck<br>taste
-bip_39_word_new_br_5: box<br>help<br>neck<br>taste<br>misery
-bip_39_word_new_br_6: box<br>help<br>neck<br>taste<br>misery<br>beauty
-bip_39_word_new_br_7: box<br>help<br>neck<br>taste<br>misery<br>beauty<br>hurt
-bip_39_word_new_br_8: box<br>help<br>neck<br>taste<br>misery<br>beauty<br>hurt<br>thumb
-bip_39_word_new_br_9: box<br>help<br>neck<br>taste<br>misery<br>beauty<br>hurt<br>thumb<br>direct
-bip_39_word_new_line_1: box
-bip_39_word_new_line_10: 'box
-
-  help
-
-  neck
-
-  taste
-
-  misery
-
-  beauty
-
-  hurt
-
-  thumb
-
-  direct
-
-  range'
-bip_39_word_new_line_11: 'box
-
-  help
-
-  neck
-
-  taste
-
-  misery
-
-  beauty
-
-  hurt
-
-  thumb
-
-  direct
-
-  range
-
-  sense'
 bip_39_word_new_line_12: 'box
 
   help
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'box
   help
 
   neck'
-bip_39_word_new_line_4: 'box
-
-  help
-
-  neck
-
-  taste'
-bip_39_word_new_line_5: 'box
-
-  help
-
-  neck
-
-  taste
-
-  misery'
-bip_39_word_new_line_6: 'box
-
-  help
-
-  neck
-
-  taste
-
-  misery
-
-  beauty'
-bip_39_word_new_line_7: 'box
-
-  help
-
-  neck
-
-  taste
-
-  misery
-
-  beauty
-
-  hurt'
-bip_39_word_new_line_8: 'box
-
-  help
-
-  neck
-
-  taste
-
-  misery
-
-  beauty
-
-  hurt
-
-  thumb'
-bip_39_word_new_line_9: 'box
-
-  help
-
-  neck
-
-  taste
-
-  misery
-
-  beauty
-
-  hurt
-
-  thumb
-
-  direct'
-bip_39_word_no_space_1: box
-bip_39_word_no_space_10: boxhelpnecktastemiserybeautyhurtthumbdirectrange
-bip_39_word_no_space_11: boxhelpnecktastemiserybeautyhurtthumbdirectrangesense
 bip_39_word_no_space_12: boxhelpnecktastemiserybeautyhurtthumbdirectrangesenseaccident
 bip_39_word_no_space_2: boxhelp
 bip_39_word_no_space_3: boxhelpneck
-bip_39_word_no_space_4: boxhelpnecktaste
-bip_39_word_no_space_5: boxhelpnecktastemisery
-bip_39_word_no_space_6: boxhelpnecktastemiserybeauty
-bip_39_word_no_space_7: boxhelpnecktastemiserybeautyhurt
-bip_39_word_no_space_8: boxhelpnecktastemiserybeautyhurtthumb
-bip_39_word_no_space_9: boxhelpnecktastemiserybeautyhurtthumbdirect
-bip_39_word_space_0:
-- box
-- help
-- neck
-- taste
-- misery
-- beauty
-- hurt
-- thumb
-- direct
-- range
-- sense
-- accident
-bip_39_word_space_1: box
-bip_39_word_space_10: box help neck taste misery beauty hurt thumb direct range
-bip_39_word_space_11: box help neck taste misery beauty hurt thumb direct range sense
 bip_39_word_space_12: box help neck taste misery beauty hurt thumb direct range sense
   accident
 bip_39_word_space_2: box help
 bip_39_word_space_3: box help neck
-bip_39_word_space_4: box help neck taste
-bip_39_word_space_5: box help neck taste misery
-bip_39_word_space_6: box help neck taste misery beauty
-bip_39_word_space_7: box help neck taste misery beauty hurt
-bip_39_word_space_8: box help neck taste misery beauty hurt thumb
-bip_39_word_space_9: box help neck taste misery beauty hurt thumb direct
-bip_39_word_underscore_1: box
-bip_39_word_underscore_10: box_help_neck_taste_misery_beauty_hurt_thumb_direct_range
-bip_39_word_underscore_11: box_help_neck_taste_misery_beauty_hurt_thumb_direct_range_sense
 bip_39_word_underscore_12: box_help_neck_taste_misery_beauty_hurt_thumb_direct_range_sense_accident
 bip_39_word_underscore_2: box_help
 bip_39_word_underscore_3: box_help_neck
-bip_39_word_underscore_4: box_help_neck_taste
-bip_39_word_underscore_5: box_help_neck_taste_misery
-bip_39_word_underscore_6: box_help_neck_taste_misery_beauty
-bip_39_word_underscore_7: box_help_neck_taste_misery_beauty_hurt
-bip_39_word_underscore_8: box_help_neck_taste_misery_beauty_hurt_thumb
-bip_39_word_underscore_9: box_help_neck_taste_misery_beauty_hurt_thumb_direct
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

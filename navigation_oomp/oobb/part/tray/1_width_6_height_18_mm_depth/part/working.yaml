@@ -1,68 +1,9 @@
-bip_39_word_dash_1: limit
-bip_39_word_dash_10: limit-meadow-awkward-shadow-nest-embark-october-enable-spoon-exclude
-bip_39_word_dash_11: limit-meadow-awkward-shadow-nest-embark-october-enable-spoon-exclude-pause
 bip_39_word_dash_12: limit-meadow-awkward-shadow-nest-embark-october-enable-spoon-exclude-pause-always
 bip_39_word_dash_2: limit-meadow
 bip_39_word_dash_3: limit-meadow-awkward
-bip_39_word_dash_4: limit-meadow-awkward-shadow
-bip_39_word_dash_5: limit-meadow-awkward-shadow-nest
-bip_39_word_dash_6: limit-meadow-awkward-shadow-nest-embark
-bip_39_word_dash_7: limit-meadow-awkward-shadow-nest-embark-october
-bip_39_word_dash_8: limit-meadow-awkward-shadow-nest-embark-october-enable
-bip_39_word_dash_9: limit-meadow-awkward-shadow-nest-embark-october-enable-spoon
-bip_39_word_new_br_1: limit
-bip_39_word_new_br_10: limit<br>meadow<br>awkward<br>shadow<br>nest<br>embark<br>october<br>enable<br>spoon<br>exclude
-bip_39_word_new_br_11: limit<br>meadow<br>awkward<br>shadow<br>nest<br>embark<br>october<br>enable<br>spoon<br>exclude<br>pause
 bip_39_word_new_br_12: limit<br>meadow<br>awkward<br>shadow<br>nest<br>embark<br>october<br>enable<br>spoon<br>exclude<br>pause<br>always
 bip_39_word_new_br_2: limit<br>meadow
 bip_39_word_new_br_3: limit<br>meadow<br>awkward
-bip_39_word_new_br_4: limit<br>meadow<br>awkward<br>shadow
-bip_39_word_new_br_5: limit<br>meadow<br>awkward<br>shadow<br>nest
-bip_39_word_new_br_6: limit<br>meadow<br>awkward<br>shadow<br>nest<br>embark
-bip_39_word_new_br_7: limit<br>meadow<br>awkward<br>shadow<br>nest<br>embark<br>october
-bip_39_word_new_br_8: limit<br>meadow<br>awkward<br>shadow<br>nest<br>embark<br>october<br>enable
-bip_39_word_new_br_9: limit<br>meadow<br>awkward<br>shadow<br>nest<br>embark<br>october<br>enable<br>spoon
-bip_39_word_new_line_1: limit
-bip_39_word_new_line_10: 'limit
-
-  meadow
-
-  awkward
-
-  shadow
-
-  nest
-
-  embark
-
-  october
-
-  enable
-
-  spoon
-
-  exclude'
-bip_39_word_new_line_11: 'limit
-
-  meadow
-
-  awkward
-
-  shadow
-
-  nest
-
-  embark
-
-  october
-
-  enable
-
-  spoon
-
-  exclude
-
-  pause'
 bip_39_word_new_line_12: 'limit
 
   meadow
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'limit
   meadow
 
   awkward'
-bip_39_word_new_line_4: 'limit
-
-  meadow
-
-  awkward
-
-  shadow'
-bip_39_word_new_line_5: 'limit
-
-  meadow
-
-  awkward
-
-  shadow
-
-  nest'
-bip_39_word_new_line_6: 'limit
-
-  meadow
-
-  awkward
-
-  shadow
-
-  nest
-
-  embark'
-bip_39_word_new_line_7: 'limit
-
-  meadow
-
-  awkward
-
-  shadow
-
-  nest
-
-  embark
-
-  october'
-bip_39_word_new_line_8: 'limit
-
-  meadow
-
-  awkward
-
-  shadow
-
-  nest
-
-  embark
-
-  october
-
-  enable'
-bip_39_word_new_line_9: 'limit
-
-  meadow
-
-  awkward
-
-  shadow
-
-  nest
-
-  embark
-
-  october
-
-  enable
-
-  spoon'
-bip_39_word_no_space_1: limit
-bip_39_word_no_space_10: limitmeadowawkwardshadownestembarkoctoberenablespoonexclude
-bip_39_word_no_space_11: limitmeadowawkwardshadownestembarkoctoberenablespoonexcludepause
 bip_39_word_no_space_12: limitmeadowawkwardshadownestembarkoctoberenablespoonexcludepausealways
 bip_39_word_no_space_2: limitmeadow
 bip_39_word_no_space_3: limitmeadowawkward
-bip_39_word_no_space_4: limitmeadowawkwardshadow
-bip_39_word_no_space_5: limitmeadowawkwardshadownest
-bip_39_word_no_space_6: limitmeadowawkwardshadownestembark
-bip_39_word_no_space_7: limitmeadowawkwardshadownestembarkoctober
-bip_39_word_no_space_8: limitmeadowawkwardshadownestembarkoctoberenable
-bip_39_word_no_space_9: limitmeadowawkwardshadownestembarkoctoberenablespoon
-bip_39_word_space_0:
-- limit
-- meadow
-- awkward
-- shadow
-- nest
-- embark
-- october
-- enable
-- spoon
-- exclude
-- pause
-- always
-bip_39_word_space_1: limit
-bip_39_word_space_10: limit meadow awkward shadow nest embark october enable spoon
-  exclude
-bip_39_word_space_11: limit meadow awkward shadow nest embark october enable spoon
-  exclude pause
 bip_39_word_space_12: limit meadow awkward shadow nest embark october enable spoon
   exclude pause always
 bip_39_word_space_2: limit meadow
 bip_39_word_space_3: limit meadow awkward
-bip_39_word_space_4: limit meadow awkward shadow
-bip_39_word_space_5: limit meadow awkward shadow nest
-bip_39_word_space_6: limit meadow awkward shadow nest embark
-bip_39_word_space_7: limit meadow awkward shadow nest embark october
-bip_39_word_space_8: limit meadow awkward shadow nest embark october enable
-bip_39_word_space_9: limit meadow awkward shadow nest embark october enable spoon
-bip_39_word_underscore_1: limit
-bip_39_word_underscore_10: limit_meadow_awkward_shadow_nest_embark_october_enable_spoon_exclude
-bip_39_word_underscore_11: limit_meadow_awkward_shadow_nest_embark_october_enable_spoon_exclude_pause
 bip_39_word_underscore_12: limit_meadow_awkward_shadow_nest_embark_october_enable_spoon_exclude_pause_always
 bip_39_word_underscore_2: limit_meadow
 bip_39_word_underscore_3: limit_meadow_awkward
-bip_39_word_underscore_4: limit_meadow_awkward_shadow
-bip_39_word_underscore_5: limit_meadow_awkward_shadow_nest
-bip_39_word_underscore_6: limit_meadow_awkward_shadow_nest_embark
-bip_39_word_underscore_7: limit_meadow_awkward_shadow_nest_embark_october
-bip_39_word_underscore_8: limit_meadow_awkward_shadow_nest_embark_october_enable
-bip_39_word_underscore_9: limit_meadow_awkward_shadow_nest_embark_october_enable_spoon
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

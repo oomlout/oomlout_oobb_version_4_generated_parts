@@ -1,68 +1,9 @@
-bip_39_word_dash_1: shuffle
-bip_39_word_dash_10: shuffle-mean-blast-gravity-bar-shoe-gown-kit-want-final
-bip_39_word_dash_11: shuffle-mean-blast-gravity-bar-shoe-gown-kit-want-final-blood
 bip_39_word_dash_12: shuffle-mean-blast-gravity-bar-shoe-gown-kit-want-final-blood-analyst
 bip_39_word_dash_2: shuffle-mean
 bip_39_word_dash_3: shuffle-mean-blast
-bip_39_word_dash_4: shuffle-mean-blast-gravity
-bip_39_word_dash_5: shuffle-mean-blast-gravity-bar
-bip_39_word_dash_6: shuffle-mean-blast-gravity-bar-shoe
-bip_39_word_dash_7: shuffle-mean-blast-gravity-bar-shoe-gown
-bip_39_word_dash_8: shuffle-mean-blast-gravity-bar-shoe-gown-kit
-bip_39_word_dash_9: shuffle-mean-blast-gravity-bar-shoe-gown-kit-want
-bip_39_word_new_br_1: shuffle
-bip_39_word_new_br_10: shuffle<br>mean<br>blast<br>gravity<br>bar<br>shoe<br>gown<br>kit<br>want<br>final
-bip_39_word_new_br_11: shuffle<br>mean<br>blast<br>gravity<br>bar<br>shoe<br>gown<br>kit<br>want<br>final<br>blood
 bip_39_word_new_br_12: shuffle<br>mean<br>blast<br>gravity<br>bar<br>shoe<br>gown<br>kit<br>want<br>final<br>blood<br>analyst
 bip_39_word_new_br_2: shuffle<br>mean
 bip_39_word_new_br_3: shuffle<br>mean<br>blast
-bip_39_word_new_br_4: shuffle<br>mean<br>blast<br>gravity
-bip_39_word_new_br_5: shuffle<br>mean<br>blast<br>gravity<br>bar
-bip_39_word_new_br_6: shuffle<br>mean<br>blast<br>gravity<br>bar<br>shoe
-bip_39_word_new_br_7: shuffle<br>mean<br>blast<br>gravity<br>bar<br>shoe<br>gown
-bip_39_word_new_br_8: shuffle<br>mean<br>blast<br>gravity<br>bar<br>shoe<br>gown<br>kit
-bip_39_word_new_br_9: shuffle<br>mean<br>blast<br>gravity<br>bar<br>shoe<br>gown<br>kit<br>want
-bip_39_word_new_line_1: shuffle
-bip_39_word_new_line_10: 'shuffle
-
-  mean
-
-  blast
-
-  gravity
-
-  bar
-
-  shoe
-
-  gown
-
-  kit
-
-  want
-
-  final'
-bip_39_word_new_line_11: 'shuffle
-
-  mean
-
-  blast
-
-  gravity
-
-  bar
-
-  shoe
-
-  gown
-
-  kit
-
-  want
-
-  final
-
-  blood'
 bip_39_word_new_line_12: 'shuffle
 
   mean
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'shuffle
   mean
 
   blast'
-bip_39_word_new_line_4: 'shuffle
-
-  mean
-
-  blast
-
-  gravity'
-bip_39_word_new_line_5: 'shuffle
-
-  mean
-
-  blast
-
-  gravity
-
-  bar'
-bip_39_word_new_line_6: 'shuffle
-
-  mean
-
-  blast
-
-  gravity
-
-  bar
-
-  shoe'
-bip_39_word_new_line_7: 'shuffle
-
-  mean
-
-  blast
-
-  gravity
-
-  bar
-
-  shoe
-
-  gown'
-bip_39_word_new_line_8: 'shuffle
-
-  mean
-
-  blast
-
-  gravity
-
-  bar
-
-  shoe
-
-  gown
-
-  kit'
-bip_39_word_new_line_9: 'shuffle
-
-  mean
-
-  blast
-
-  gravity
-
-  bar
-
-  shoe
-
-  gown
-
-  kit
-
-  want'
-bip_39_word_no_space_1: shuffle
-bip_39_word_no_space_10: shufflemeanblastgravitybarshoegownkitwantfinal
-bip_39_word_no_space_11: shufflemeanblastgravitybarshoegownkitwantfinalblood
 bip_39_word_no_space_12: shufflemeanblastgravitybarshoegownkitwantfinalbloodanalyst
 bip_39_word_no_space_2: shufflemean
 bip_39_word_no_space_3: shufflemeanblast
-bip_39_word_no_space_4: shufflemeanblastgravity
-bip_39_word_no_space_5: shufflemeanblastgravitybar
-bip_39_word_no_space_6: shufflemeanblastgravitybarshoe
-bip_39_word_no_space_7: shufflemeanblastgravitybarshoegown
-bip_39_word_no_space_8: shufflemeanblastgravitybarshoegownkit
-bip_39_word_no_space_9: shufflemeanblastgravitybarshoegownkitwant
-bip_39_word_space_0:
-- shuffle
-- mean
-- blast
-- gravity
-- bar
-- shoe
-- gown
-- kit
-- want
-- final
-- blood
-- analyst
-bip_39_word_space_1: shuffle
-bip_39_word_space_10: shuffle mean blast gravity bar shoe gown kit want final
-bip_39_word_space_11: shuffle mean blast gravity bar shoe gown kit want final blood
 bip_39_word_space_12: shuffle mean blast gravity bar shoe gown kit want final blood
   analyst
 bip_39_word_space_2: shuffle mean
 bip_39_word_space_3: shuffle mean blast
-bip_39_word_space_4: shuffle mean blast gravity
-bip_39_word_space_5: shuffle mean blast gravity bar
-bip_39_word_space_6: shuffle mean blast gravity bar shoe
-bip_39_word_space_7: shuffle mean blast gravity bar shoe gown
-bip_39_word_space_8: shuffle mean blast gravity bar shoe gown kit
-bip_39_word_space_9: shuffle mean blast gravity bar shoe gown kit want
-bip_39_word_underscore_1: shuffle
-bip_39_word_underscore_10: shuffle_mean_blast_gravity_bar_shoe_gown_kit_want_final
-bip_39_word_underscore_11: shuffle_mean_blast_gravity_bar_shoe_gown_kit_want_final_blood
 bip_39_word_underscore_12: shuffle_mean_blast_gravity_bar_shoe_gown_kit_want_final_blood_analyst
 bip_39_word_underscore_2: shuffle_mean
 bip_39_word_underscore_3: shuffle_mean_blast
-bip_39_word_underscore_4: shuffle_mean_blast_gravity
-bip_39_word_underscore_5: shuffle_mean_blast_gravity_bar
-bip_39_word_underscore_6: shuffle_mean_blast_gravity_bar_shoe
-bip_39_word_underscore_7: shuffle_mean_blast_gravity_bar_shoe_gown
-bip_39_word_underscore_8: shuffle_mean_blast_gravity_bar_shoe_gown_kit
-bip_39_word_underscore_9: shuffle_mean_blast_gravity_bar_shoe_gown_kit_want
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

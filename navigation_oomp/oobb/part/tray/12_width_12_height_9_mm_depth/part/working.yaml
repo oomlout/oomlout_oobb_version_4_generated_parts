@@ -1,68 +1,9 @@
-bip_39_word_dash_1: topic
-bip_39_word_dash_10: topic-man-peasant-mistake-seven-slow-hamster-empty-exhaust-huge
-bip_39_word_dash_11: topic-man-peasant-mistake-seven-slow-hamster-empty-exhaust-huge-broom
 bip_39_word_dash_12: topic-man-peasant-mistake-seven-slow-hamster-empty-exhaust-huge-broom-alone
 bip_39_word_dash_2: topic-man
 bip_39_word_dash_3: topic-man-peasant
-bip_39_word_dash_4: topic-man-peasant-mistake
-bip_39_word_dash_5: topic-man-peasant-mistake-seven
-bip_39_word_dash_6: topic-man-peasant-mistake-seven-slow
-bip_39_word_dash_7: topic-man-peasant-mistake-seven-slow-hamster
-bip_39_word_dash_8: topic-man-peasant-mistake-seven-slow-hamster-empty
-bip_39_word_dash_9: topic-man-peasant-mistake-seven-slow-hamster-empty-exhaust
-bip_39_word_new_br_1: topic
-bip_39_word_new_br_10: topic<br>man<br>peasant<br>mistake<br>seven<br>slow<br>hamster<br>empty<br>exhaust<br>huge
-bip_39_word_new_br_11: topic<br>man<br>peasant<br>mistake<br>seven<br>slow<br>hamster<br>empty<br>exhaust<br>huge<br>broom
 bip_39_word_new_br_12: topic<br>man<br>peasant<br>mistake<br>seven<br>slow<br>hamster<br>empty<br>exhaust<br>huge<br>broom<br>alone
 bip_39_word_new_br_2: topic<br>man
 bip_39_word_new_br_3: topic<br>man<br>peasant
-bip_39_word_new_br_4: topic<br>man<br>peasant<br>mistake
-bip_39_word_new_br_5: topic<br>man<br>peasant<br>mistake<br>seven
-bip_39_word_new_br_6: topic<br>man<br>peasant<br>mistake<br>seven<br>slow
-bip_39_word_new_br_7: topic<br>man<br>peasant<br>mistake<br>seven<br>slow<br>hamster
-bip_39_word_new_br_8: topic<br>man<br>peasant<br>mistake<br>seven<br>slow<br>hamster<br>empty
-bip_39_word_new_br_9: topic<br>man<br>peasant<br>mistake<br>seven<br>slow<br>hamster<br>empty<br>exhaust
-bip_39_word_new_line_1: topic
-bip_39_word_new_line_10: 'topic
-
-  man
-
-  peasant
-
-  mistake
-
-  seven
-
-  slow
-
-  hamster
-
-  empty
-
-  exhaust
-
-  huge'
-bip_39_word_new_line_11: 'topic
-
-  man
-
-  peasant
-
-  mistake
-
-  seven
-
-  slow
-
-  hamster
-
-  empty
-
-  exhaust
-
-  huge
-
-  broom'
 bip_39_word_new_line_12: 'topic
 
   man
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'topic
   man
 
   peasant'
-bip_39_word_new_line_4: 'topic
-
-  man
-
-  peasant
-
-  mistake'
-bip_39_word_new_line_5: 'topic
-
-  man
-
-  peasant
-
-  mistake
-
-  seven'
-bip_39_word_new_line_6: 'topic
-
-  man
-
-  peasant
-
-  mistake
-
-  seven
-
-  slow'
-bip_39_word_new_line_7: 'topic
-
-  man
-
-  peasant
-
-  mistake
-
-  seven
-
-  slow
-
-  hamster'
-bip_39_word_new_line_8: 'topic
-
-  man
-
-  peasant
-
-  mistake
-
-  seven
-
-  slow
-
-  hamster
-
-  empty'
-bip_39_word_new_line_9: 'topic
-
-  man
-
-  peasant
-
-  mistake
-
-  seven
-
-  slow
-
-  hamster
-
-  empty
-
-  exhaust'
-bip_39_word_no_space_1: topic
-bip_39_word_no_space_10: topicmanpeasantmistakesevenslowhamsteremptyexhausthuge
-bip_39_word_no_space_11: topicmanpeasantmistakesevenslowhamsteremptyexhausthugebroom
 bip_39_word_no_space_12: topicmanpeasantmistakesevenslowhamsteremptyexhausthugebroomalone
 bip_39_word_no_space_2: topicman
 bip_39_word_no_space_3: topicmanpeasant
-bip_39_word_no_space_4: topicmanpeasantmistake
-bip_39_word_no_space_5: topicmanpeasantmistakeseven
-bip_39_word_no_space_6: topicmanpeasantmistakesevenslow
-bip_39_word_no_space_7: topicmanpeasantmistakesevenslowhamster
-bip_39_word_no_space_8: topicmanpeasantmistakesevenslowhamsterempty
-bip_39_word_no_space_9: topicmanpeasantmistakesevenslowhamsteremptyexhaust
-bip_39_word_space_0:
-- topic
-- man
-- peasant
-- mistake
-- seven
-- slow
-- hamster
-- empty
-- exhaust
-- huge
-- broom
-- alone
-bip_39_word_space_1: topic
-bip_39_word_space_10: topic man peasant mistake seven slow hamster empty exhaust huge
-bip_39_word_space_11: topic man peasant mistake seven slow hamster empty exhaust huge
-  broom
 bip_39_word_space_12: topic man peasant mistake seven slow hamster empty exhaust huge
   broom alone
 bip_39_word_space_2: topic man
 bip_39_word_space_3: topic man peasant
-bip_39_word_space_4: topic man peasant mistake
-bip_39_word_space_5: topic man peasant mistake seven
-bip_39_word_space_6: topic man peasant mistake seven slow
-bip_39_word_space_7: topic man peasant mistake seven slow hamster
-bip_39_word_space_8: topic man peasant mistake seven slow hamster empty
-bip_39_word_space_9: topic man peasant mistake seven slow hamster empty exhaust
-bip_39_word_underscore_1: topic
-bip_39_word_underscore_10: topic_man_peasant_mistake_seven_slow_hamster_empty_exhaust_huge
-bip_39_word_underscore_11: topic_man_peasant_mistake_seven_slow_hamster_empty_exhaust_huge_broom
 bip_39_word_underscore_12: topic_man_peasant_mistake_seven_slow_hamster_empty_exhaust_huge_broom_alone
 bip_39_word_underscore_2: topic_man
 bip_39_word_underscore_3: topic_man_peasant
-bip_39_word_underscore_4: topic_man_peasant_mistake
-bip_39_word_underscore_5: topic_man_peasant_mistake_seven
-bip_39_word_underscore_6: topic_man_peasant_mistake_seven_slow
-bip_39_word_underscore_7: topic_man_peasant_mistake_seven_slow_hamster
-bip_39_word_underscore_8: topic_man_peasant_mistake_seven_slow_hamster_empty
-bip_39_word_underscore_9: topic_man_peasant_mistake_seven_slow_hamster_empty_exhaust
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: home
-bip_39_word_dash_10: home-cupboard-umbrella-riot-sun-bulb-click-bulk-work-tumble
-bip_39_word_dash_11: home-cupboard-umbrella-riot-sun-bulb-click-bulk-work-tumble-now
 bip_39_word_dash_12: home-cupboard-umbrella-riot-sun-bulb-click-bulk-work-tumble-now-angry
 bip_39_word_dash_2: home-cupboard
 bip_39_word_dash_3: home-cupboard-umbrella
-bip_39_word_dash_4: home-cupboard-umbrella-riot
-bip_39_word_dash_5: home-cupboard-umbrella-riot-sun
-bip_39_word_dash_6: home-cupboard-umbrella-riot-sun-bulb
-bip_39_word_dash_7: home-cupboard-umbrella-riot-sun-bulb-click
-bip_39_word_dash_8: home-cupboard-umbrella-riot-sun-bulb-click-bulk
-bip_39_word_dash_9: home-cupboard-umbrella-riot-sun-bulb-click-bulk-work
-bip_39_word_new_br_1: home
-bip_39_word_new_br_10: home<br>cupboard<br>umbrella<br>riot<br>sun<br>bulb<br>click<br>bulk<br>work<br>tumble
-bip_39_word_new_br_11: home<br>cupboard<br>umbrella<br>riot<br>sun<br>bulb<br>click<br>bulk<br>work<br>tumble<br>now
 bip_39_word_new_br_12: home<br>cupboard<br>umbrella<br>riot<br>sun<br>bulb<br>click<br>bulk<br>work<br>tumble<br>now<br>angry
 bip_39_word_new_br_2: home<br>cupboard
 bip_39_word_new_br_3: home<br>cupboard<br>umbrella
-bip_39_word_new_br_4: home<br>cupboard<br>umbrella<br>riot
-bip_39_word_new_br_5: home<br>cupboard<br>umbrella<br>riot<br>sun
-bip_39_word_new_br_6: home<br>cupboard<br>umbrella<br>riot<br>sun<br>bulb
-bip_39_word_new_br_7: home<br>cupboard<br>umbrella<br>riot<br>sun<br>bulb<br>click
-bip_39_word_new_br_8: home<br>cupboard<br>umbrella<br>riot<br>sun<br>bulb<br>click<br>bulk
-bip_39_word_new_br_9: home<br>cupboard<br>umbrella<br>riot<br>sun<br>bulb<br>click<br>bulk<br>work
-bip_39_word_new_line_1: home
-bip_39_word_new_line_10: 'home
-
-  cupboard
-
-  umbrella
-
-  riot
-
-  sun
-
-  bulb
-
-  click
-
-  bulk
-
-  work
-
-  tumble'
-bip_39_word_new_line_11: 'home
-
-  cupboard
-
-  umbrella
-
-  riot
-
-  sun
-
-  bulb
-
-  click
-
-  bulk
-
-  work
-
-  tumble
-
-  now'
 bip_39_word_new_line_12: 'home
 
   cupboard
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'home
   cupboard
 
   umbrella'
-bip_39_word_new_line_4: 'home
-
-  cupboard
-
-  umbrella
-
-  riot'
-bip_39_word_new_line_5: 'home
-
-  cupboard
-
-  umbrella
-
-  riot
-
-  sun'
-bip_39_word_new_line_6: 'home
-
-  cupboard
-
-  umbrella
-
-  riot
-
-  sun
-
-  bulb'
-bip_39_word_new_line_7: 'home
-
-  cupboard
-
-  umbrella
-
-  riot
-
-  sun
-
-  bulb
-
-  click'
-bip_39_word_new_line_8: 'home
-
-  cupboard
-
-  umbrella
-
-  riot
-
-  sun
-
-  bulb
-
-  click
-
-  bulk'
-bip_39_word_new_line_9: 'home
-
-  cupboard
-
-  umbrella
-
-  riot
-
-  sun
-
-  bulb
-
-  click
-
-  bulk
-
-  work'
-bip_39_word_no_space_1: home
-bip_39_word_no_space_10: homecupboardumbrellariotsunbulbclickbulkworktumble
-bip_39_word_no_space_11: homecupboardumbrellariotsunbulbclickbulkworktumblenow
 bip_39_word_no_space_12: homecupboardumbrellariotsunbulbclickbulkworktumblenowangry
 bip_39_word_no_space_2: homecupboard
 bip_39_word_no_space_3: homecupboardumbrella
-bip_39_word_no_space_4: homecupboardumbrellariot
-bip_39_word_no_space_5: homecupboardumbrellariotsun
-bip_39_word_no_space_6: homecupboardumbrellariotsunbulb
-bip_39_word_no_space_7: homecupboardumbrellariotsunbulbclick
-bip_39_word_no_space_8: homecupboardumbrellariotsunbulbclickbulk
-bip_39_word_no_space_9: homecupboardumbrellariotsunbulbclickbulkwork
-bip_39_word_space_0:
-- home
-- cupboard
-- umbrella
-- riot
-- sun
-- bulb
-- click
-- bulk
-- work
-- tumble
-- now
-- angry
-bip_39_word_space_1: home
-bip_39_word_space_10: home cupboard umbrella riot sun bulb click bulk work tumble
-bip_39_word_space_11: home cupboard umbrella riot sun bulb click bulk work tumble
-  now
 bip_39_word_space_12: home cupboard umbrella riot sun bulb click bulk work tumble
   now angry
 bip_39_word_space_2: home cupboard
 bip_39_word_space_3: home cupboard umbrella
-bip_39_word_space_4: home cupboard umbrella riot
-bip_39_word_space_5: home cupboard umbrella riot sun
-bip_39_word_space_6: home cupboard umbrella riot sun bulb
-bip_39_word_space_7: home cupboard umbrella riot sun bulb click
-bip_39_word_space_8: home cupboard umbrella riot sun bulb click bulk
-bip_39_word_space_9: home cupboard umbrella riot sun bulb click bulk work
-bip_39_word_underscore_1: home
-bip_39_word_underscore_10: home_cupboard_umbrella_riot_sun_bulb_click_bulk_work_tumble
-bip_39_word_underscore_11: home_cupboard_umbrella_riot_sun_bulb_click_bulk_work_tumble_now
 bip_39_word_underscore_12: home_cupboard_umbrella_riot_sun_bulb_click_bulk_work_tumble_now_angry
 bip_39_word_underscore_2: home_cupboard
 bip_39_word_underscore_3: home_cupboard_umbrella
-bip_39_word_underscore_4: home_cupboard_umbrella_riot
-bip_39_word_underscore_5: home_cupboard_umbrella_riot_sun
-bip_39_word_underscore_6: home_cupboard_umbrella_riot_sun_bulb
-bip_39_word_underscore_7: home_cupboard_umbrella_riot_sun_bulb_click
-bip_39_word_underscore_8: home_cupboard_umbrella_riot_sun_bulb_click_bulk
-bip_39_word_underscore_9: home_cupboard_umbrella_riot_sun_bulb_click_bulk_work
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: chef
-bip_39_word_dash_10: chef-habit-skirt-order-flee-silly-fatal-muffin-ancient-flower
-bip_39_word_dash_11: chef-habit-skirt-order-flee-silly-fatal-muffin-ancient-flower-pipe
 bip_39_word_dash_12: chef-habit-skirt-order-flee-silly-fatal-muffin-ancient-flower-pipe-adult
 bip_39_word_dash_2: chef-habit
 bip_39_word_dash_3: chef-habit-skirt
-bip_39_word_dash_4: chef-habit-skirt-order
-bip_39_word_dash_5: chef-habit-skirt-order-flee
-bip_39_word_dash_6: chef-habit-skirt-order-flee-silly
-bip_39_word_dash_7: chef-habit-skirt-order-flee-silly-fatal
-bip_39_word_dash_8: chef-habit-skirt-order-flee-silly-fatal-muffin
-bip_39_word_dash_9: chef-habit-skirt-order-flee-silly-fatal-muffin-ancient
-bip_39_word_new_br_1: chef
-bip_39_word_new_br_10: chef<br>habit<br>skirt<br>order<br>flee<br>silly<br>fatal<br>muffin<br>ancient<br>flower
-bip_39_word_new_br_11: chef<br>habit<br>skirt<br>order<br>flee<br>silly<br>fatal<br>muffin<br>ancient<br>flower<br>pipe
 bip_39_word_new_br_12: chef<br>habit<br>skirt<br>order<br>flee<br>silly<br>fatal<br>muffin<br>ancient<br>flower<br>pipe<br>adult
 bip_39_word_new_br_2: chef<br>habit
 bip_39_word_new_br_3: chef<br>habit<br>skirt
-bip_39_word_new_br_4: chef<br>habit<br>skirt<br>order
-bip_39_word_new_br_5: chef<br>habit<br>skirt<br>order<br>flee
-bip_39_word_new_br_6: chef<br>habit<br>skirt<br>order<br>flee<br>silly
-bip_39_word_new_br_7: chef<br>habit<br>skirt<br>order<br>flee<br>silly<br>fatal
-bip_39_word_new_br_8: chef<br>habit<br>skirt<br>order<br>flee<br>silly<br>fatal<br>muffin
-bip_39_word_new_br_9: chef<br>habit<br>skirt<br>order<br>flee<br>silly<br>fatal<br>muffin<br>ancient
-bip_39_word_new_line_1: chef
-bip_39_word_new_line_10: 'chef
-
-  habit
-
-  skirt
-
-  order
-
-  flee
-
-  silly
-
-  fatal
-
-  muffin
-
-  ancient
-
-  flower'
-bip_39_word_new_line_11: 'chef
-
-  habit
-
-  skirt
-
-  order
-
-  flee
-
-  silly
-
-  fatal
-
-  muffin
-
-  ancient
-
-  flower
-
-  pipe'
 bip_39_word_new_line_12: 'chef
 
   habit
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'chef
   habit
 
   skirt'
-bip_39_word_new_line_4: 'chef
-
-  habit
-
-  skirt
-
-  order'
-bip_39_word_new_line_5: 'chef
-
-  habit
-
-  skirt
-
-  order
-
-  flee'
-bip_39_word_new_line_6: 'chef
-
-  habit
-
-  skirt
-
-  order
-
-  flee
-
-  silly'
-bip_39_word_new_line_7: 'chef
-
-  habit
-
-  skirt
-
-  order
-
-  flee
-
-  silly
-
-  fatal'
-bip_39_word_new_line_8: 'chef
-
-  habit
-
-  skirt
-
-  order
-
-  flee
-
-  silly
-
-  fatal
-
-  muffin'
-bip_39_word_new_line_9: 'chef
-
-  habit
-
-  skirt
-
-  order
-
-  flee
-
-  silly
-
-  fatal
-
-  muffin
-
-  ancient'
-bip_39_word_no_space_1: chef
-bip_39_word_no_space_10: chefhabitskirtorderfleesillyfatalmuffinancientflower
-bip_39_word_no_space_11: chefhabitskirtorderfleesillyfatalmuffinancientflowerpipe
 bip_39_word_no_space_12: chefhabitskirtorderfleesillyfatalmuffinancientflowerpipeadult
 bip_39_word_no_space_2: chefhabit
 bip_39_word_no_space_3: chefhabitskirt
-bip_39_word_no_space_4: chefhabitskirtorder
-bip_39_word_no_space_5: chefhabitskirtorderflee
-bip_39_word_no_space_6: chefhabitskirtorderfleesilly
-bip_39_word_no_space_7: chefhabitskirtorderfleesillyfatal
-bip_39_word_no_space_8: chefhabitskirtorderfleesillyfatalmuffin
-bip_39_word_no_space_9: chefhabitskirtorderfleesillyfatalmuffinancient
-bip_39_word_space_0:
-- chef
-- habit
-- skirt
-- order
-- flee
-- silly
-- fatal
-- muffin
-- ancient
-- flower
-- pipe
-- adult
-bip_39_word_space_1: chef
-bip_39_word_space_10: chef habit skirt order flee silly fatal muffin ancient flower
-bip_39_word_space_11: chef habit skirt order flee silly fatal muffin ancient flower
-  pipe
 bip_39_word_space_12: chef habit skirt order flee silly fatal muffin ancient flower
   pipe adult
 bip_39_word_space_2: chef habit
 bip_39_word_space_3: chef habit skirt
-bip_39_word_space_4: chef habit skirt order
-bip_39_word_space_5: chef habit skirt order flee
-bip_39_word_space_6: chef habit skirt order flee silly
-bip_39_word_space_7: chef habit skirt order flee silly fatal
-bip_39_word_space_8: chef habit skirt order flee silly fatal muffin
-bip_39_word_space_9: chef habit skirt order flee silly fatal muffin ancient
-bip_39_word_underscore_1: chef
-bip_39_word_underscore_10: chef_habit_skirt_order_flee_silly_fatal_muffin_ancient_flower
-bip_39_word_underscore_11: chef_habit_skirt_order_flee_silly_fatal_muffin_ancient_flower_pipe
 bip_39_word_underscore_12: chef_habit_skirt_order_flee_silly_fatal_muffin_ancient_flower_pipe_adult
 bip_39_word_underscore_2: chef_habit
 bip_39_word_underscore_3: chef_habit_skirt
-bip_39_word_underscore_4: chef_habit_skirt_order
-bip_39_word_underscore_5: chef_habit_skirt_order_flee
-bip_39_word_underscore_6: chef_habit_skirt_order_flee_silly
-bip_39_word_underscore_7: chef_habit_skirt_order_flee_silly_fatal
-bip_39_word_underscore_8: chef_habit_skirt_order_flee_silly_fatal_muffin
-bip_39_word_underscore_9: chef_habit_skirt_order_flee_silly_fatal_muffin_ancient
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

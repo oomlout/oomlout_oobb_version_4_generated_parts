@@ -1,68 +1,9 @@
-bip_39_word_dash_1: cigar
-bip_39_word_dash_10: cigar-oven-nurse-uphold-gentle-obscure-honey-rescue-spin-game
-bip_39_word_dash_11: cigar-oven-nurse-uphold-gentle-obscure-honey-rescue-spin-game-purse
 bip_39_word_dash_12: cigar-oven-nurse-uphold-gentle-obscure-honey-rescue-spin-game-purse-actor
 bip_39_word_dash_2: cigar-oven
 bip_39_word_dash_3: cigar-oven-nurse
-bip_39_word_dash_4: cigar-oven-nurse-uphold
-bip_39_word_dash_5: cigar-oven-nurse-uphold-gentle
-bip_39_word_dash_6: cigar-oven-nurse-uphold-gentle-obscure
-bip_39_word_dash_7: cigar-oven-nurse-uphold-gentle-obscure-honey
-bip_39_word_dash_8: cigar-oven-nurse-uphold-gentle-obscure-honey-rescue
-bip_39_word_dash_9: cigar-oven-nurse-uphold-gentle-obscure-honey-rescue-spin
-bip_39_word_new_br_1: cigar
-bip_39_word_new_br_10: cigar<br>oven<br>nurse<br>uphold<br>gentle<br>obscure<br>honey<br>rescue<br>spin<br>game
-bip_39_word_new_br_11: cigar<br>oven<br>nurse<br>uphold<br>gentle<br>obscure<br>honey<br>rescue<br>spin<br>game<br>purse
 bip_39_word_new_br_12: cigar<br>oven<br>nurse<br>uphold<br>gentle<br>obscure<br>honey<br>rescue<br>spin<br>game<br>purse<br>actor
 bip_39_word_new_br_2: cigar<br>oven
 bip_39_word_new_br_3: cigar<br>oven<br>nurse
-bip_39_word_new_br_4: cigar<br>oven<br>nurse<br>uphold
-bip_39_word_new_br_5: cigar<br>oven<br>nurse<br>uphold<br>gentle
-bip_39_word_new_br_6: cigar<br>oven<br>nurse<br>uphold<br>gentle<br>obscure
-bip_39_word_new_br_7: cigar<br>oven<br>nurse<br>uphold<br>gentle<br>obscure<br>honey
-bip_39_word_new_br_8: cigar<br>oven<br>nurse<br>uphold<br>gentle<br>obscure<br>honey<br>rescue
-bip_39_word_new_br_9: cigar<br>oven<br>nurse<br>uphold<br>gentle<br>obscure<br>honey<br>rescue<br>spin
-bip_39_word_new_line_1: cigar
-bip_39_word_new_line_10: 'cigar
-
-  oven
-
-  nurse
-
-  uphold
-
-  gentle
-
-  obscure
-
-  honey
-
-  rescue
-
-  spin
-
-  game'
-bip_39_word_new_line_11: 'cigar
-
-  oven
-
-  nurse
-
-  uphold
-
-  gentle
-
-  obscure
-
-  honey
-
-  rescue
-
-  spin
-
-  game
-
-  purse'
 bip_39_word_new_line_12: 'cigar
 
   oven
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'cigar
   oven
 
   nurse'
-bip_39_word_new_line_4: 'cigar
-
-  oven
-
-  nurse
-
-  uphold'
-bip_39_word_new_line_5: 'cigar
-
-  oven
-
-  nurse
-
-  uphold
-
-  gentle'
-bip_39_word_new_line_6: 'cigar
-
-  oven
-
-  nurse
-
-  uphold
-
-  gentle
-
-  obscure'
-bip_39_word_new_line_7: 'cigar
-
-  oven
-
-  nurse
-
-  uphold
-
-  gentle
-
-  obscure
-
-  honey'
-bip_39_word_new_line_8: 'cigar
-
-  oven
-
-  nurse
-
-  uphold
-
-  gentle
-
-  obscure
-
-  honey
-
-  rescue'
-bip_39_word_new_line_9: 'cigar
-
-  oven
-
-  nurse
-
-  uphold
-
-  gentle
-
-  obscure
-
-  honey
-
-  rescue
-
-  spin'
-bip_39_word_no_space_1: cigar
-bip_39_word_no_space_10: cigarovennurseupholdgentleobscurehoneyrescuespingame
-bip_39_word_no_space_11: cigarovennurseupholdgentleobscurehoneyrescuespingamepurse
 bip_39_word_no_space_12: cigarovennurseupholdgentleobscurehoneyrescuespingamepurseactor
 bip_39_word_no_space_2: cigaroven
 bip_39_word_no_space_3: cigarovennurse
-bip_39_word_no_space_4: cigarovennurseuphold
-bip_39_word_no_space_5: cigarovennurseupholdgentle
-bip_39_word_no_space_6: cigarovennurseupholdgentleobscure
-bip_39_word_no_space_7: cigarovennurseupholdgentleobscurehoney
-bip_39_word_no_space_8: cigarovennurseupholdgentleobscurehoneyrescue
-bip_39_word_no_space_9: cigarovennurseupholdgentleobscurehoneyrescuespin
-bip_39_word_space_0:
-- cigar
-- oven
-- nurse
-- uphold
-- gentle
-- obscure
-- honey
-- rescue
-- spin
-- game
-- purse
-- actor
-bip_39_word_space_1: cigar
-bip_39_word_space_10: cigar oven nurse uphold gentle obscure honey rescue spin game
-bip_39_word_space_11: cigar oven nurse uphold gentle obscure honey rescue spin game
-  purse
 bip_39_word_space_12: cigar oven nurse uphold gentle obscure honey rescue spin game
   purse actor
 bip_39_word_space_2: cigar oven
 bip_39_word_space_3: cigar oven nurse
-bip_39_word_space_4: cigar oven nurse uphold
-bip_39_word_space_5: cigar oven nurse uphold gentle
-bip_39_word_space_6: cigar oven nurse uphold gentle obscure
-bip_39_word_space_7: cigar oven nurse uphold gentle obscure honey
-bip_39_word_space_8: cigar oven nurse uphold gentle obscure honey rescue
-bip_39_word_space_9: cigar oven nurse uphold gentle obscure honey rescue spin
-bip_39_word_underscore_1: cigar
-bip_39_word_underscore_10: cigar_oven_nurse_uphold_gentle_obscure_honey_rescue_spin_game
-bip_39_word_underscore_11: cigar_oven_nurse_uphold_gentle_obscure_honey_rescue_spin_game_purse
 bip_39_word_underscore_12: cigar_oven_nurse_uphold_gentle_obscure_honey_rescue_spin_game_purse_actor
 bip_39_word_underscore_2: cigar_oven
 bip_39_word_underscore_3: cigar_oven_nurse
-bip_39_word_underscore_4: cigar_oven_nurse_uphold
-bip_39_word_underscore_5: cigar_oven_nurse_uphold_gentle
-bip_39_word_underscore_6: cigar_oven_nurse_uphold_gentle_obscure
-bip_39_word_underscore_7: cigar_oven_nurse_uphold_gentle_obscure_honey
-bip_39_word_underscore_8: cigar_oven_nurse_uphold_gentle_obscure_honey_rescue
-bip_39_word_underscore_9: cigar_oven_nurse_uphold_gentle_obscure_honey_rescue_spin
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

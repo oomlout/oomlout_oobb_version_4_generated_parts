@@ -1,69 +1,10 @@
 bearing_name: '6704'
-bip_39_word_dash_1: disease
-bip_39_word_dash_10: disease-leaf-height-grunt-ready-hawk-become-tower-wire-velvet
-bip_39_word_dash_11: disease-leaf-height-grunt-ready-hawk-become-tower-wire-velvet-decorate
 bip_39_word_dash_12: disease-leaf-height-grunt-ready-hawk-become-tower-wire-velvet-decorate-alcohol
 bip_39_word_dash_2: disease-leaf
 bip_39_word_dash_3: disease-leaf-height
-bip_39_word_dash_4: disease-leaf-height-grunt
-bip_39_word_dash_5: disease-leaf-height-grunt-ready
-bip_39_word_dash_6: disease-leaf-height-grunt-ready-hawk
-bip_39_word_dash_7: disease-leaf-height-grunt-ready-hawk-become
-bip_39_word_dash_8: disease-leaf-height-grunt-ready-hawk-become-tower
-bip_39_word_dash_9: disease-leaf-height-grunt-ready-hawk-become-tower-wire
-bip_39_word_new_br_1: disease
-bip_39_word_new_br_10: disease<br>leaf<br>height<br>grunt<br>ready<br>hawk<br>become<br>tower<br>wire<br>velvet
-bip_39_word_new_br_11: disease<br>leaf<br>height<br>grunt<br>ready<br>hawk<br>become<br>tower<br>wire<br>velvet<br>decorate
 bip_39_word_new_br_12: disease<br>leaf<br>height<br>grunt<br>ready<br>hawk<br>become<br>tower<br>wire<br>velvet<br>decorate<br>alcohol
 bip_39_word_new_br_2: disease<br>leaf
 bip_39_word_new_br_3: disease<br>leaf<br>height
-bip_39_word_new_br_4: disease<br>leaf<br>height<br>grunt
-bip_39_word_new_br_5: disease<br>leaf<br>height<br>grunt<br>ready
-bip_39_word_new_br_6: disease<br>leaf<br>height<br>grunt<br>ready<br>hawk
-bip_39_word_new_br_7: disease<br>leaf<br>height<br>grunt<br>ready<br>hawk<br>become
-bip_39_word_new_br_8: disease<br>leaf<br>height<br>grunt<br>ready<br>hawk<br>become<br>tower
-bip_39_word_new_br_9: disease<br>leaf<br>height<br>grunt<br>ready<br>hawk<br>become<br>tower<br>wire
-bip_39_word_new_line_1: disease
-bip_39_word_new_line_10: 'disease
-
-  leaf
-
-  height
-
-  grunt
-
-  ready
-
-  hawk
-
-  become
-
-  tower
-
-  wire
-
-  velvet'
-bip_39_word_new_line_11: 'disease
-
-  leaf
-
-  height
-
-  grunt
-
-  ready
-
-  hawk
-
-  become
-
-  tower
-
-  wire
-
-  velvet
-
-  decorate'
 bip_39_word_new_line_12: 'disease
 
   leaf
@@ -95,129 +36,16 @@ bip_39_word_new_line_3: 'disease
   leaf
 
   height'
-bip_39_word_new_line_4: 'disease
-
-  leaf
-
-  height
-
-  grunt'
-bip_39_word_new_line_5: 'disease
-
-  leaf
-
-  height
-
-  grunt
-
-  ready'
-bip_39_word_new_line_6: 'disease
-
-  leaf
-
-  height
-
-  grunt
-
-  ready
-
-  hawk'
-bip_39_word_new_line_7: 'disease
-
-  leaf
-
-  height
-
-  grunt
-
-  ready
-
-  hawk
-
-  become'
-bip_39_word_new_line_8: 'disease
-
-  leaf
-
-  height
-
-  grunt
-
-  ready
-
-  hawk
-
-  become
-
-  tower'
-bip_39_word_new_line_9: 'disease
-
-  leaf
-
-  height
-
-  grunt
-
-  ready
-
-  hawk
-
-  become
-
-  tower
-
-  wire'
-bip_39_word_no_space_1: disease
-bip_39_word_no_space_10: diseaseleafheightgruntreadyhawkbecometowerwirevelvet
-bip_39_word_no_space_11: diseaseleafheightgruntreadyhawkbecometowerwirevelvetdecorate
 bip_39_word_no_space_12: diseaseleafheightgruntreadyhawkbecometowerwirevelvetdecoratealcohol
 bip_39_word_no_space_2: diseaseleaf
 bip_39_word_no_space_3: diseaseleafheight
-bip_39_word_no_space_4: diseaseleafheightgrunt
-bip_39_word_no_space_5: diseaseleafheightgruntready
-bip_39_word_no_space_6: diseaseleafheightgruntreadyhawk
-bip_39_word_no_space_7: diseaseleafheightgruntreadyhawkbecome
-bip_39_word_no_space_8: diseaseleafheightgruntreadyhawkbecometower
-bip_39_word_no_space_9: diseaseleafheightgruntreadyhawkbecometowerwire
-bip_39_word_space_0:
-- disease
-- leaf
-- height
-- grunt
-- ready
-- hawk
-- become
-- tower
-- wire
-- velvet
-- decorate
-- alcohol
-bip_39_word_space_1: disease
-bip_39_word_space_10: disease leaf height grunt ready hawk become tower wire velvet
-bip_39_word_space_11: disease leaf height grunt ready hawk become tower wire velvet
-  decorate
 bip_39_word_space_12: disease leaf height grunt ready hawk become tower wire velvet
   decorate alcohol
 bip_39_word_space_2: disease leaf
 bip_39_word_space_3: disease leaf height
-bip_39_word_space_4: disease leaf height grunt
-bip_39_word_space_5: disease leaf height grunt ready
-bip_39_word_space_6: disease leaf height grunt ready hawk
-bip_39_word_space_7: disease leaf height grunt ready hawk become
-bip_39_word_space_8: disease leaf height grunt ready hawk become tower
-bip_39_word_space_9: disease leaf height grunt ready hawk become tower wire
-bip_39_word_underscore_1: disease
-bip_39_word_underscore_10: disease_leaf_height_grunt_ready_hawk_become_tower_wire_velvet
-bip_39_word_underscore_11: disease_leaf_height_grunt_ready_hawk_become_tower_wire_velvet_decorate
 bip_39_word_underscore_12: disease_leaf_height_grunt_ready_hawk_become_tower_wire_velvet_decorate_alcohol
 bip_39_word_underscore_2: disease_leaf
 bip_39_word_underscore_3: disease_leaf_height
-bip_39_word_underscore_4: disease_leaf_height_grunt
-bip_39_word_underscore_5: disease_leaf_height_grunt_ready
-bip_39_word_underscore_6: disease_leaf_height_grunt_ready_hawk
-bip_39_word_underscore_7: disease_leaf_height_grunt_ready_hawk_become
-bip_39_word_underscore_8: disease_leaf_height_grunt_ready_hawk_become_tower
-bip_39_word_underscore_9: disease_leaf_height_grunt_ready_hawk_become_tower_wire
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

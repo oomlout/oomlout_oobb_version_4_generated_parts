@@ -1,68 +1,9 @@
-bip_39_word_dash_1: assume
-bip_39_word_dash_10: assume-magnet-leopard-jelly-famous-story-bus-follow-kind-adapt
-bip_39_word_dash_11: assume-magnet-leopard-jelly-famous-story-bus-follow-kind-adapt-ahead
 bip_39_word_dash_12: assume-magnet-leopard-jelly-famous-story-bus-follow-kind-adapt-ahead-arena
 bip_39_word_dash_2: assume-magnet
 bip_39_word_dash_3: assume-magnet-leopard
-bip_39_word_dash_4: assume-magnet-leopard-jelly
-bip_39_word_dash_5: assume-magnet-leopard-jelly-famous
-bip_39_word_dash_6: assume-magnet-leopard-jelly-famous-story
-bip_39_word_dash_7: assume-magnet-leopard-jelly-famous-story-bus
-bip_39_word_dash_8: assume-magnet-leopard-jelly-famous-story-bus-follow
-bip_39_word_dash_9: assume-magnet-leopard-jelly-famous-story-bus-follow-kind
-bip_39_word_new_br_1: assume
-bip_39_word_new_br_10: assume<br>magnet<br>leopard<br>jelly<br>famous<br>story<br>bus<br>follow<br>kind<br>adapt
-bip_39_word_new_br_11: assume<br>magnet<br>leopard<br>jelly<br>famous<br>story<br>bus<br>follow<br>kind<br>adapt<br>ahead
 bip_39_word_new_br_12: assume<br>magnet<br>leopard<br>jelly<br>famous<br>story<br>bus<br>follow<br>kind<br>adapt<br>ahead<br>arena
 bip_39_word_new_br_2: assume<br>magnet
 bip_39_word_new_br_3: assume<br>magnet<br>leopard
-bip_39_word_new_br_4: assume<br>magnet<br>leopard<br>jelly
-bip_39_word_new_br_5: assume<br>magnet<br>leopard<br>jelly<br>famous
-bip_39_word_new_br_6: assume<br>magnet<br>leopard<br>jelly<br>famous<br>story
-bip_39_word_new_br_7: assume<br>magnet<br>leopard<br>jelly<br>famous<br>story<br>bus
-bip_39_word_new_br_8: assume<br>magnet<br>leopard<br>jelly<br>famous<br>story<br>bus<br>follow
-bip_39_word_new_br_9: assume<br>magnet<br>leopard<br>jelly<br>famous<br>story<br>bus<br>follow<br>kind
-bip_39_word_new_line_1: assume
-bip_39_word_new_line_10: 'assume
-
-  magnet
-
-  leopard
-
-  jelly
-
-  famous
-
-  story
-
-  bus
-
-  follow
-
-  kind
-
-  adapt'
-bip_39_word_new_line_11: 'assume
-
-  magnet
-
-  leopard
-
-  jelly
-
-  famous
-
-  story
-
-  bus
-
-  follow
-
-  kind
-
-  adapt
-
-  ahead'
 bip_39_word_new_line_12: 'assume
 
   magnet
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'assume
   magnet
 
   leopard'
-bip_39_word_new_line_4: 'assume
-
-  magnet
-
-  leopard
-
-  jelly'
-bip_39_word_new_line_5: 'assume
-
-  magnet
-
-  leopard
-
-  jelly
-
-  famous'
-bip_39_word_new_line_6: 'assume
-
-  magnet
-
-  leopard
-
-  jelly
-
-  famous
-
-  story'
-bip_39_word_new_line_7: 'assume
-
-  magnet
-
-  leopard
-
-  jelly
-
-  famous
-
-  story
-
-  bus'
-bip_39_word_new_line_8: 'assume
-
-  magnet
-
-  leopard
-
-  jelly
-
-  famous
-
-  story
-
-  bus
-
-  follow'
-bip_39_word_new_line_9: 'assume
-
-  magnet
-
-  leopard
-
-  jelly
-
-  famous
-
-  story
-
-  bus
-
-  follow
-
-  kind'
-bip_39_word_no_space_1: assume
-bip_39_word_no_space_10: assumemagnetleopardjellyfamousstorybusfollowkindadapt
-bip_39_word_no_space_11: assumemagnetleopardjellyfamousstorybusfollowkindadaptahead
 bip_39_word_no_space_12: assumemagnetleopardjellyfamousstorybusfollowkindadaptaheadarena
 bip_39_word_no_space_2: assumemagnet
 bip_39_word_no_space_3: assumemagnetleopard
-bip_39_word_no_space_4: assumemagnetleopardjelly
-bip_39_word_no_space_5: assumemagnetleopardjellyfamous
-bip_39_word_no_space_6: assumemagnetleopardjellyfamousstory
-bip_39_word_no_space_7: assumemagnetleopardjellyfamousstorybus
-bip_39_word_no_space_8: assumemagnetleopardjellyfamousstorybusfollow
-bip_39_word_no_space_9: assumemagnetleopardjellyfamousstorybusfollowkind
-bip_39_word_space_0:
-- assume
-- magnet
-- leopard
-- jelly
-- famous
-- story
-- bus
-- follow
-- kind
-- adapt
-- ahead
-- arena
-bip_39_word_space_1: assume
-bip_39_word_space_10: assume magnet leopard jelly famous story bus follow kind adapt
-bip_39_word_space_11: assume magnet leopard jelly famous story bus follow kind adapt
-  ahead
 bip_39_word_space_12: assume magnet leopard jelly famous story bus follow kind adapt
   ahead arena
 bip_39_word_space_2: assume magnet
 bip_39_word_space_3: assume magnet leopard
-bip_39_word_space_4: assume magnet leopard jelly
-bip_39_word_space_5: assume magnet leopard jelly famous
-bip_39_word_space_6: assume magnet leopard jelly famous story
-bip_39_word_space_7: assume magnet leopard jelly famous story bus
-bip_39_word_space_8: assume magnet leopard jelly famous story bus follow
-bip_39_word_space_9: assume magnet leopard jelly famous story bus follow kind
-bip_39_word_underscore_1: assume
-bip_39_word_underscore_10: assume_magnet_leopard_jelly_famous_story_bus_follow_kind_adapt
-bip_39_word_underscore_11: assume_magnet_leopard_jelly_famous_story_bus_follow_kind_adapt_ahead
 bip_39_word_underscore_12: assume_magnet_leopard_jelly_famous_story_bus_follow_kind_adapt_ahead_arena
 bip_39_word_underscore_2: assume_magnet
 bip_39_word_underscore_3: assume_magnet_leopard
-bip_39_word_underscore_4: assume_magnet_leopard_jelly
-bip_39_word_underscore_5: assume_magnet_leopard_jelly_famous
-bip_39_word_underscore_6: assume_magnet_leopard_jelly_famous_story
-bip_39_word_underscore_7: assume_magnet_leopard_jelly_famous_story_bus
-bip_39_word_underscore_8: assume_magnet_leopard_jelly_famous_story_bus_follow
-bip_39_word_underscore_9: assume_magnet_leopard_jelly_famous_story_bus_follow_kind
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

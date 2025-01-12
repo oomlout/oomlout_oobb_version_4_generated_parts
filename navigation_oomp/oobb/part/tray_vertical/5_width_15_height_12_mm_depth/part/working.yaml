@@ -1,68 +1,9 @@
-bip_39_word_dash_1: life
-bip_39_word_dash_10: life-panic-palm-index-load-move-that-female-hungry-monkey
-bip_39_word_dash_11: life-panic-palm-index-load-move-that-female-hungry-monkey-focus
 bip_39_word_dash_12: life-panic-palm-index-load-move-that-female-hungry-monkey-focus-ahead
 bip_39_word_dash_2: life-panic
 bip_39_word_dash_3: life-panic-palm
-bip_39_word_dash_4: life-panic-palm-index
-bip_39_word_dash_5: life-panic-palm-index-load
-bip_39_word_dash_6: life-panic-palm-index-load-move
-bip_39_word_dash_7: life-panic-palm-index-load-move-that
-bip_39_word_dash_8: life-panic-palm-index-load-move-that-female
-bip_39_word_dash_9: life-panic-palm-index-load-move-that-female-hungry
-bip_39_word_new_br_1: life
-bip_39_word_new_br_10: life<br>panic<br>palm<br>index<br>load<br>move<br>that<br>female<br>hungry<br>monkey
-bip_39_word_new_br_11: life<br>panic<br>palm<br>index<br>load<br>move<br>that<br>female<br>hungry<br>monkey<br>focus
 bip_39_word_new_br_12: life<br>panic<br>palm<br>index<br>load<br>move<br>that<br>female<br>hungry<br>monkey<br>focus<br>ahead
 bip_39_word_new_br_2: life<br>panic
 bip_39_word_new_br_3: life<br>panic<br>palm
-bip_39_word_new_br_4: life<br>panic<br>palm<br>index
-bip_39_word_new_br_5: life<br>panic<br>palm<br>index<br>load
-bip_39_word_new_br_6: life<br>panic<br>palm<br>index<br>load<br>move
-bip_39_word_new_br_7: life<br>panic<br>palm<br>index<br>load<br>move<br>that
-bip_39_word_new_br_8: life<br>panic<br>palm<br>index<br>load<br>move<br>that<br>female
-bip_39_word_new_br_9: life<br>panic<br>palm<br>index<br>load<br>move<br>that<br>female<br>hungry
-bip_39_word_new_line_1: life
-bip_39_word_new_line_10: 'life
-
-  panic
-
-  palm
-
-  index
-
-  load
-
-  move
-
-  that
-
-  female
-
-  hungry
-
-  monkey'
-bip_39_word_new_line_11: 'life
-
-  panic
-
-  palm
-
-  index
-
-  load
-
-  move
-
-  that
-
-  female
-
-  hungry
-
-  monkey
-
-  focus'
 bip_39_word_new_line_12: 'life
 
   panic
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'life
   panic
 
   palm'
-bip_39_word_new_line_4: 'life
-
-  panic
-
-  palm
-
-  index'
-bip_39_word_new_line_5: 'life
-
-  panic
-
-  palm
-
-  index
-
-  load'
-bip_39_word_new_line_6: 'life
-
-  panic
-
-  palm
-
-  index
-
-  load
-
-  move'
-bip_39_word_new_line_7: 'life
-
-  panic
-
-  palm
-
-  index
-
-  load
-
-  move
-
-  that'
-bip_39_word_new_line_8: 'life
-
-  panic
-
-  palm
-
-  index
-
-  load
-
-  move
-
-  that
-
-  female'
-bip_39_word_new_line_9: 'life
-
-  panic
-
-  palm
-
-  index
-
-  load
-
-  move
-
-  that
-
-  female
-
-  hungry'
-bip_39_word_no_space_1: life
-bip_39_word_no_space_10: lifepanicpalmindexloadmovethatfemalehungrymonkey
-bip_39_word_no_space_11: lifepanicpalmindexloadmovethatfemalehungrymonkeyfocus
 bip_39_word_no_space_12: lifepanicpalmindexloadmovethatfemalehungrymonkeyfocusahead
 bip_39_word_no_space_2: lifepanic
 bip_39_word_no_space_3: lifepanicpalm
-bip_39_word_no_space_4: lifepanicpalmindex
-bip_39_word_no_space_5: lifepanicpalmindexload
-bip_39_word_no_space_6: lifepanicpalmindexloadmove
-bip_39_word_no_space_7: lifepanicpalmindexloadmovethat
-bip_39_word_no_space_8: lifepanicpalmindexloadmovethatfemale
-bip_39_word_no_space_9: lifepanicpalmindexloadmovethatfemalehungry
-bip_39_word_space_0:
-- life
-- panic
-- palm
-- index
-- load
-- move
-- that
-- female
-- hungry
-- monkey
-- focus
-- ahead
-bip_39_word_space_1: life
-bip_39_word_space_10: life panic palm index load move that female hungry monkey
-bip_39_word_space_11: life panic palm index load move that female hungry monkey focus
 bip_39_word_space_12: life panic palm index load move that female hungry monkey focus
   ahead
 bip_39_word_space_2: life panic
 bip_39_word_space_3: life panic palm
-bip_39_word_space_4: life panic palm index
-bip_39_word_space_5: life panic palm index load
-bip_39_word_space_6: life panic palm index load move
-bip_39_word_space_7: life panic palm index load move that
-bip_39_word_space_8: life panic palm index load move that female
-bip_39_word_space_9: life panic palm index load move that female hungry
-bip_39_word_underscore_1: life
-bip_39_word_underscore_10: life_panic_palm_index_load_move_that_female_hungry_monkey
-bip_39_word_underscore_11: life_panic_palm_index_load_move_that_female_hungry_monkey_focus
 bip_39_word_underscore_12: life_panic_palm_index_load_move_that_female_hungry_monkey_focus_ahead
 bip_39_word_underscore_2: life_panic
 bip_39_word_underscore_3: life_panic_palm
-bip_39_word_underscore_4: life_panic_palm_index
-bip_39_word_underscore_5: life_panic_palm_index_load
-bip_39_word_underscore_6: life_panic_palm_index_load_move
-bip_39_word_underscore_7: life_panic_palm_index_load_move_that
-bip_39_word_underscore_8: life_panic_palm_index_load_move_that_female
-bip_39_word_underscore_9: life_panic_palm_index_load_move_that_female_hungry
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

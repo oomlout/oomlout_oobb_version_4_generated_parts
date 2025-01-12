@@ -1,68 +1,9 @@
-bip_39_word_dash_1: session
-bip_39_word_dash_10: session-custom-busy-donor-betray-blanket-kid-state-peace-riot
-bip_39_word_dash_11: session-custom-busy-donor-betray-blanket-kid-state-peace-riot-suffer
 bip_39_word_dash_12: session-custom-busy-donor-betray-blanket-kid-state-peace-riot-suffer-avocado
 bip_39_word_dash_2: session-custom
 bip_39_word_dash_3: session-custom-busy
-bip_39_word_dash_4: session-custom-busy-donor
-bip_39_word_dash_5: session-custom-busy-donor-betray
-bip_39_word_dash_6: session-custom-busy-donor-betray-blanket
-bip_39_word_dash_7: session-custom-busy-donor-betray-blanket-kid
-bip_39_word_dash_8: session-custom-busy-donor-betray-blanket-kid-state
-bip_39_word_dash_9: session-custom-busy-donor-betray-blanket-kid-state-peace
-bip_39_word_new_br_1: session
-bip_39_word_new_br_10: session<br>custom<br>busy<br>donor<br>betray<br>blanket<br>kid<br>state<br>peace<br>riot
-bip_39_word_new_br_11: session<br>custom<br>busy<br>donor<br>betray<br>blanket<br>kid<br>state<br>peace<br>riot<br>suffer
 bip_39_word_new_br_12: session<br>custom<br>busy<br>donor<br>betray<br>blanket<br>kid<br>state<br>peace<br>riot<br>suffer<br>avocado
 bip_39_word_new_br_2: session<br>custom
 bip_39_word_new_br_3: session<br>custom<br>busy
-bip_39_word_new_br_4: session<br>custom<br>busy<br>donor
-bip_39_word_new_br_5: session<br>custom<br>busy<br>donor<br>betray
-bip_39_word_new_br_6: session<br>custom<br>busy<br>donor<br>betray<br>blanket
-bip_39_word_new_br_7: session<br>custom<br>busy<br>donor<br>betray<br>blanket<br>kid
-bip_39_word_new_br_8: session<br>custom<br>busy<br>donor<br>betray<br>blanket<br>kid<br>state
-bip_39_word_new_br_9: session<br>custom<br>busy<br>donor<br>betray<br>blanket<br>kid<br>state<br>peace
-bip_39_word_new_line_1: session
-bip_39_word_new_line_10: 'session
-
-  custom
-
-  busy
-
-  donor
-
-  betray
-
-  blanket
-
-  kid
-
-  state
-
-  peace
-
-  riot'
-bip_39_word_new_line_11: 'session
-
-  custom
-
-  busy
-
-  donor
-
-  betray
-
-  blanket
-
-  kid
-
-  state
-
-  peace
-
-  riot
-
-  suffer'
 bip_39_word_new_line_12: 'session
 
   custom
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'session
   custom
 
   busy'
-bip_39_word_new_line_4: 'session
-
-  custom
-
-  busy
-
-  donor'
-bip_39_word_new_line_5: 'session
-
-  custom
-
-  busy
-
-  donor
-
-  betray'
-bip_39_word_new_line_6: 'session
-
-  custom
-
-  busy
-
-  donor
-
-  betray
-
-  blanket'
-bip_39_word_new_line_7: 'session
-
-  custom
-
-  busy
-
-  donor
-
-  betray
-
-  blanket
-
-  kid'
-bip_39_word_new_line_8: 'session
-
-  custom
-
-  busy
-
-  donor
-
-  betray
-
-  blanket
-
-  kid
-
-  state'
-bip_39_word_new_line_9: 'session
-
-  custom
-
-  busy
-
-  donor
-
-  betray
-
-  blanket
-
-  kid
-
-  state
-
-  peace'
-bip_39_word_no_space_1: session
-bip_39_word_no_space_10: sessioncustombusydonorbetrayblanketkidstatepeaceriot
-bip_39_word_no_space_11: sessioncustombusydonorbetrayblanketkidstatepeaceriotsuffer
 bip_39_word_no_space_12: sessioncustombusydonorbetrayblanketkidstatepeaceriotsufferavocado
 bip_39_word_no_space_2: sessioncustom
 bip_39_word_no_space_3: sessioncustombusy
-bip_39_word_no_space_4: sessioncustombusydonor
-bip_39_word_no_space_5: sessioncustombusydonorbetray
-bip_39_word_no_space_6: sessioncustombusydonorbetrayblanket
-bip_39_word_no_space_7: sessioncustombusydonorbetrayblanketkid
-bip_39_word_no_space_8: sessioncustombusydonorbetrayblanketkidstate
-bip_39_word_no_space_9: sessioncustombusydonorbetrayblanketkidstatepeace
-bip_39_word_space_0:
-- session
-- custom
-- busy
-- donor
-- betray
-- blanket
-- kid
-- state
-- peace
-- riot
-- suffer
-- avocado
-bip_39_word_space_1: session
-bip_39_word_space_10: session custom busy donor betray blanket kid state peace riot
-bip_39_word_space_11: session custom busy donor betray blanket kid state peace riot
-  suffer
 bip_39_word_space_12: session custom busy donor betray blanket kid state peace riot
   suffer avocado
 bip_39_word_space_2: session custom
 bip_39_word_space_3: session custom busy
-bip_39_word_space_4: session custom busy donor
-bip_39_word_space_5: session custom busy donor betray
-bip_39_word_space_6: session custom busy donor betray blanket
-bip_39_word_space_7: session custom busy donor betray blanket kid
-bip_39_word_space_8: session custom busy donor betray blanket kid state
-bip_39_word_space_9: session custom busy donor betray blanket kid state peace
-bip_39_word_underscore_1: session
-bip_39_word_underscore_10: session_custom_busy_donor_betray_blanket_kid_state_peace_riot
-bip_39_word_underscore_11: session_custom_busy_donor_betray_blanket_kid_state_peace_riot_suffer
 bip_39_word_underscore_12: session_custom_busy_donor_betray_blanket_kid_state_peace_riot_suffer_avocado
 bip_39_word_underscore_2: session_custom
 bip_39_word_underscore_3: session_custom_busy
-bip_39_word_underscore_4: session_custom_busy_donor
-bip_39_word_underscore_5: session_custom_busy_donor_betray
-bip_39_word_underscore_6: session_custom_busy_donor_betray_blanket
-bip_39_word_underscore_7: session_custom_busy_donor_betray_blanket_kid
-bip_39_word_underscore_8: session_custom_busy_donor_betray_blanket_kid_state
-bip_39_word_underscore_9: session_custom_busy_donor_betray_blanket_kid_state_peace
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

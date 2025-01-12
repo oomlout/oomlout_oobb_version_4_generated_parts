@@ -1,68 +1,9 @@
-bip_39_word_dash_1: logic
-bip_39_word_dash_10: logic-dizzy-rough-hawk-vital-grocery-zoo-welcome-grass-surface
-bip_39_word_dash_11: logic-dizzy-rough-hawk-vital-grocery-zoo-welcome-grass-surface-random
 bip_39_word_dash_12: logic-dizzy-rough-hawk-vital-grocery-zoo-welcome-grass-surface-random-affair
 bip_39_word_dash_2: logic-dizzy
 bip_39_word_dash_3: logic-dizzy-rough
-bip_39_word_dash_4: logic-dizzy-rough-hawk
-bip_39_word_dash_5: logic-dizzy-rough-hawk-vital
-bip_39_word_dash_6: logic-dizzy-rough-hawk-vital-grocery
-bip_39_word_dash_7: logic-dizzy-rough-hawk-vital-grocery-zoo
-bip_39_word_dash_8: logic-dizzy-rough-hawk-vital-grocery-zoo-welcome
-bip_39_word_dash_9: logic-dizzy-rough-hawk-vital-grocery-zoo-welcome-grass
-bip_39_word_new_br_1: logic
-bip_39_word_new_br_10: logic<br>dizzy<br>rough<br>hawk<br>vital<br>grocery<br>zoo<br>welcome<br>grass<br>surface
-bip_39_word_new_br_11: logic<br>dizzy<br>rough<br>hawk<br>vital<br>grocery<br>zoo<br>welcome<br>grass<br>surface<br>random
 bip_39_word_new_br_12: logic<br>dizzy<br>rough<br>hawk<br>vital<br>grocery<br>zoo<br>welcome<br>grass<br>surface<br>random<br>affair
 bip_39_word_new_br_2: logic<br>dizzy
 bip_39_word_new_br_3: logic<br>dizzy<br>rough
-bip_39_word_new_br_4: logic<br>dizzy<br>rough<br>hawk
-bip_39_word_new_br_5: logic<br>dizzy<br>rough<br>hawk<br>vital
-bip_39_word_new_br_6: logic<br>dizzy<br>rough<br>hawk<br>vital<br>grocery
-bip_39_word_new_br_7: logic<br>dizzy<br>rough<br>hawk<br>vital<br>grocery<br>zoo
-bip_39_word_new_br_8: logic<br>dizzy<br>rough<br>hawk<br>vital<br>grocery<br>zoo<br>welcome
-bip_39_word_new_br_9: logic<br>dizzy<br>rough<br>hawk<br>vital<br>grocery<br>zoo<br>welcome<br>grass
-bip_39_word_new_line_1: logic
-bip_39_word_new_line_10: 'logic
-
-  dizzy
-
-  rough
-
-  hawk
-
-  vital
-
-  grocery
-
-  zoo
-
-  welcome
-
-  grass
-
-  surface'
-bip_39_word_new_line_11: 'logic
-
-  dizzy
-
-  rough
-
-  hawk
-
-  vital
-
-  grocery
-
-  zoo
-
-  welcome
-
-  grass
-
-  surface
-
-  random'
 bip_39_word_new_line_12: 'logic
 
   dizzy
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'logic
   dizzy
 
   rough'
-bip_39_word_new_line_4: 'logic
-
-  dizzy
-
-  rough
-
-  hawk'
-bip_39_word_new_line_5: 'logic
-
-  dizzy
-
-  rough
-
-  hawk
-
-  vital'
-bip_39_word_new_line_6: 'logic
-
-  dizzy
-
-  rough
-
-  hawk
-
-  vital
-
-  grocery'
-bip_39_word_new_line_7: 'logic
-
-  dizzy
-
-  rough
-
-  hawk
-
-  vital
-
-  grocery
-
-  zoo'
-bip_39_word_new_line_8: 'logic
-
-  dizzy
-
-  rough
-
-  hawk
-
-  vital
-
-  grocery
-
-  zoo
-
-  welcome'
-bip_39_word_new_line_9: 'logic
-
-  dizzy
-
-  rough
-
-  hawk
-
-  vital
-
-  grocery
-
-  zoo
-
-  welcome
-
-  grass'
-bip_39_word_no_space_1: logic
-bip_39_word_no_space_10: logicdizzyroughhawkvitalgroceryzoowelcomegrasssurface
-bip_39_word_no_space_11: logicdizzyroughhawkvitalgroceryzoowelcomegrasssurfacerandom
 bip_39_word_no_space_12: logicdizzyroughhawkvitalgroceryzoowelcomegrasssurfacerandomaffair
 bip_39_word_no_space_2: logicdizzy
 bip_39_word_no_space_3: logicdizzyrough
-bip_39_word_no_space_4: logicdizzyroughhawk
-bip_39_word_no_space_5: logicdizzyroughhawkvital
-bip_39_word_no_space_6: logicdizzyroughhawkvitalgrocery
-bip_39_word_no_space_7: logicdizzyroughhawkvitalgroceryzoo
-bip_39_word_no_space_8: logicdizzyroughhawkvitalgroceryzoowelcome
-bip_39_word_no_space_9: logicdizzyroughhawkvitalgroceryzoowelcomegrass
-bip_39_word_space_0:
-- logic
-- dizzy
-- rough
-- hawk
-- vital
-- grocery
-- zoo
-- welcome
-- grass
-- surface
-- random
-- affair
-bip_39_word_space_1: logic
-bip_39_word_space_10: logic dizzy rough hawk vital grocery zoo welcome grass surface
-bip_39_word_space_11: logic dizzy rough hawk vital grocery zoo welcome grass surface
-  random
 bip_39_word_space_12: logic dizzy rough hawk vital grocery zoo welcome grass surface
   random affair
 bip_39_word_space_2: logic dizzy
 bip_39_word_space_3: logic dizzy rough
-bip_39_word_space_4: logic dizzy rough hawk
-bip_39_word_space_5: logic dizzy rough hawk vital
-bip_39_word_space_6: logic dizzy rough hawk vital grocery
-bip_39_word_space_7: logic dizzy rough hawk vital grocery zoo
-bip_39_word_space_8: logic dizzy rough hawk vital grocery zoo welcome
-bip_39_word_space_9: logic dizzy rough hawk vital grocery zoo welcome grass
-bip_39_word_underscore_1: logic
-bip_39_word_underscore_10: logic_dizzy_rough_hawk_vital_grocery_zoo_welcome_grass_surface
-bip_39_word_underscore_11: logic_dizzy_rough_hawk_vital_grocery_zoo_welcome_grass_surface_random
 bip_39_word_underscore_12: logic_dizzy_rough_hawk_vital_grocery_zoo_welcome_grass_surface_random_affair
 bip_39_word_underscore_2: logic_dizzy
 bip_39_word_underscore_3: logic_dizzy_rough
-bip_39_word_underscore_4: logic_dizzy_rough_hawk
-bip_39_word_underscore_5: logic_dizzy_rough_hawk_vital
-bip_39_word_underscore_6: logic_dizzy_rough_hawk_vital_grocery
-bip_39_word_underscore_7: logic_dizzy_rough_hawk_vital_grocery_zoo
-bip_39_word_underscore_8: logic_dizzy_rough_hawk_vital_grocery_zoo_welcome
-bip_39_word_underscore_9: logic_dizzy_rough_hawk_vital_grocery_zoo_welcome_grass
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

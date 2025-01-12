@@ -1,68 +1,9 @@
-bip_39_word_dash_1: delay
-bip_39_word_dash_10: delay-cruise-wink-arrive-wheel-parrot-notable-skull-bomb-fragile
-bip_39_word_dash_11: delay-cruise-wink-arrive-wheel-parrot-notable-skull-bomb-fragile-vote
 bip_39_word_dash_12: delay-cruise-wink-arrive-wheel-parrot-notable-skull-bomb-fragile-vote-arrest
 bip_39_word_dash_2: delay-cruise
 bip_39_word_dash_3: delay-cruise-wink
-bip_39_word_dash_4: delay-cruise-wink-arrive
-bip_39_word_dash_5: delay-cruise-wink-arrive-wheel
-bip_39_word_dash_6: delay-cruise-wink-arrive-wheel-parrot
-bip_39_word_dash_7: delay-cruise-wink-arrive-wheel-parrot-notable
-bip_39_word_dash_8: delay-cruise-wink-arrive-wheel-parrot-notable-skull
-bip_39_word_dash_9: delay-cruise-wink-arrive-wheel-parrot-notable-skull-bomb
-bip_39_word_new_br_1: delay
-bip_39_word_new_br_10: delay<br>cruise<br>wink<br>arrive<br>wheel<br>parrot<br>notable<br>skull<br>bomb<br>fragile
-bip_39_word_new_br_11: delay<br>cruise<br>wink<br>arrive<br>wheel<br>parrot<br>notable<br>skull<br>bomb<br>fragile<br>vote
 bip_39_word_new_br_12: delay<br>cruise<br>wink<br>arrive<br>wheel<br>parrot<br>notable<br>skull<br>bomb<br>fragile<br>vote<br>arrest
 bip_39_word_new_br_2: delay<br>cruise
 bip_39_word_new_br_3: delay<br>cruise<br>wink
-bip_39_word_new_br_4: delay<br>cruise<br>wink<br>arrive
-bip_39_word_new_br_5: delay<br>cruise<br>wink<br>arrive<br>wheel
-bip_39_word_new_br_6: delay<br>cruise<br>wink<br>arrive<br>wheel<br>parrot
-bip_39_word_new_br_7: delay<br>cruise<br>wink<br>arrive<br>wheel<br>parrot<br>notable
-bip_39_word_new_br_8: delay<br>cruise<br>wink<br>arrive<br>wheel<br>parrot<br>notable<br>skull
-bip_39_word_new_br_9: delay<br>cruise<br>wink<br>arrive<br>wheel<br>parrot<br>notable<br>skull<br>bomb
-bip_39_word_new_line_1: delay
-bip_39_word_new_line_10: 'delay
-
-  cruise
-
-  wink
-
-  arrive
-
-  wheel
-
-  parrot
-
-  notable
-
-  skull
-
-  bomb
-
-  fragile'
-bip_39_word_new_line_11: 'delay
-
-  cruise
-
-  wink
-
-  arrive
-
-  wheel
-
-  parrot
-
-  notable
-
-  skull
-
-  bomb
-
-  fragile
-
-  vote'
 bip_39_word_new_line_12: 'delay
 
   cruise
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'delay
   cruise
 
   wink'
-bip_39_word_new_line_4: 'delay
-
-  cruise
-
-  wink
-
-  arrive'
-bip_39_word_new_line_5: 'delay
-
-  cruise
-
-  wink
-
-  arrive
-
-  wheel'
-bip_39_word_new_line_6: 'delay
-
-  cruise
-
-  wink
-
-  arrive
-
-  wheel
-
-  parrot'
-bip_39_word_new_line_7: 'delay
-
-  cruise
-
-  wink
-
-  arrive
-
-  wheel
-
-  parrot
-
-  notable'
-bip_39_word_new_line_8: 'delay
-
-  cruise
-
-  wink
-
-  arrive
-
-  wheel
-
-  parrot
-
-  notable
-
-  skull'
-bip_39_word_new_line_9: 'delay
-
-  cruise
-
-  wink
-
-  arrive
-
-  wheel
-
-  parrot
-
-  notable
-
-  skull
-
-  bomb'
-bip_39_word_no_space_1: delay
-bip_39_word_no_space_10: delaycruisewinkarrivewheelparrotnotableskullbombfragile
-bip_39_word_no_space_11: delaycruisewinkarrivewheelparrotnotableskullbombfragilevote
 bip_39_word_no_space_12: delaycruisewinkarrivewheelparrotnotableskullbombfragilevotearrest
 bip_39_word_no_space_2: delaycruise
 bip_39_word_no_space_3: delaycruisewink
-bip_39_word_no_space_4: delaycruisewinkarrive
-bip_39_word_no_space_5: delaycruisewinkarrivewheel
-bip_39_word_no_space_6: delaycruisewinkarrivewheelparrot
-bip_39_word_no_space_7: delaycruisewinkarrivewheelparrotnotable
-bip_39_word_no_space_8: delaycruisewinkarrivewheelparrotnotableskull
-bip_39_word_no_space_9: delaycruisewinkarrivewheelparrotnotableskullbomb
-bip_39_word_space_0:
-- delay
-- cruise
-- wink
-- arrive
-- wheel
-- parrot
-- notable
-- skull
-- bomb
-- fragile
-- vote
-- arrest
-bip_39_word_space_1: delay
-bip_39_word_space_10: delay cruise wink arrive wheel parrot notable skull bomb fragile
-bip_39_word_space_11: delay cruise wink arrive wheel parrot notable skull bomb fragile
-  vote
 bip_39_word_space_12: delay cruise wink arrive wheel parrot notable skull bomb fragile
   vote arrest
 bip_39_word_space_2: delay cruise
 bip_39_word_space_3: delay cruise wink
-bip_39_word_space_4: delay cruise wink arrive
-bip_39_word_space_5: delay cruise wink arrive wheel
-bip_39_word_space_6: delay cruise wink arrive wheel parrot
-bip_39_word_space_7: delay cruise wink arrive wheel parrot notable
-bip_39_word_space_8: delay cruise wink arrive wheel parrot notable skull
-bip_39_word_space_9: delay cruise wink arrive wheel parrot notable skull bomb
-bip_39_word_underscore_1: delay
-bip_39_word_underscore_10: delay_cruise_wink_arrive_wheel_parrot_notable_skull_bomb_fragile
-bip_39_word_underscore_11: delay_cruise_wink_arrive_wheel_parrot_notable_skull_bomb_fragile_vote
 bip_39_word_underscore_12: delay_cruise_wink_arrive_wheel_parrot_notable_skull_bomb_fragile_vote_arrest
 bip_39_word_underscore_2: delay_cruise
 bip_39_word_underscore_3: delay_cruise_wink
-bip_39_word_underscore_4: delay_cruise_wink_arrive
-bip_39_word_underscore_5: delay_cruise_wink_arrive_wheel
-bip_39_word_underscore_6: delay_cruise_wink_arrive_wheel_parrot
-bip_39_word_underscore_7: delay_cruise_wink_arrive_wheel_parrot_notable
-bip_39_word_underscore_8: delay_cruise_wink_arrive_wheel_parrot_notable_skull
-bip_39_word_underscore_9: delay_cruise_wink_arrive_wheel_parrot_notable_skull_bomb
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

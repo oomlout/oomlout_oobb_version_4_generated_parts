@@ -1,68 +1,9 @@
-bip_39_word_dash_1: kitten
-bip_39_word_dash_10: kitten-rail-water-pluck-siren-floor-plug-goat-oxygen-display
-bip_39_word_dash_11: kitten-rail-water-pluck-siren-floor-plug-goat-oxygen-display-twenty
 bip_39_word_dash_12: kitten-rail-water-pluck-siren-floor-plug-goat-oxygen-display-twenty-about
 bip_39_word_dash_2: kitten-rail
 bip_39_word_dash_3: kitten-rail-water
-bip_39_word_dash_4: kitten-rail-water-pluck
-bip_39_word_dash_5: kitten-rail-water-pluck-siren
-bip_39_word_dash_6: kitten-rail-water-pluck-siren-floor
-bip_39_word_dash_7: kitten-rail-water-pluck-siren-floor-plug
-bip_39_word_dash_8: kitten-rail-water-pluck-siren-floor-plug-goat
-bip_39_word_dash_9: kitten-rail-water-pluck-siren-floor-plug-goat-oxygen
-bip_39_word_new_br_1: kitten
-bip_39_word_new_br_10: kitten<br>rail<br>water<br>pluck<br>siren<br>floor<br>plug<br>goat<br>oxygen<br>display
-bip_39_word_new_br_11: kitten<br>rail<br>water<br>pluck<br>siren<br>floor<br>plug<br>goat<br>oxygen<br>display<br>twenty
 bip_39_word_new_br_12: kitten<br>rail<br>water<br>pluck<br>siren<br>floor<br>plug<br>goat<br>oxygen<br>display<br>twenty<br>about
 bip_39_word_new_br_2: kitten<br>rail
 bip_39_word_new_br_3: kitten<br>rail<br>water
-bip_39_word_new_br_4: kitten<br>rail<br>water<br>pluck
-bip_39_word_new_br_5: kitten<br>rail<br>water<br>pluck<br>siren
-bip_39_word_new_br_6: kitten<br>rail<br>water<br>pluck<br>siren<br>floor
-bip_39_word_new_br_7: kitten<br>rail<br>water<br>pluck<br>siren<br>floor<br>plug
-bip_39_word_new_br_8: kitten<br>rail<br>water<br>pluck<br>siren<br>floor<br>plug<br>goat
-bip_39_word_new_br_9: kitten<br>rail<br>water<br>pluck<br>siren<br>floor<br>plug<br>goat<br>oxygen
-bip_39_word_new_line_1: kitten
-bip_39_word_new_line_10: 'kitten
-
-  rail
-
-  water
-
-  pluck
-
-  siren
-
-  floor
-
-  plug
-
-  goat
-
-  oxygen
-
-  display'
-bip_39_word_new_line_11: 'kitten
-
-  rail
-
-  water
-
-  pluck
-
-  siren
-
-  floor
-
-  plug
-
-  goat
-
-  oxygen
-
-  display
-
-  twenty'
 bip_39_word_new_line_12: 'kitten
 
   rail
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'kitten
   rail
 
   water'
-bip_39_word_new_line_4: 'kitten
-
-  rail
-
-  water
-
-  pluck'
-bip_39_word_new_line_5: 'kitten
-
-  rail
-
-  water
-
-  pluck
-
-  siren'
-bip_39_word_new_line_6: 'kitten
-
-  rail
-
-  water
-
-  pluck
-
-  siren
-
-  floor'
-bip_39_word_new_line_7: 'kitten
-
-  rail
-
-  water
-
-  pluck
-
-  siren
-
-  floor
-
-  plug'
-bip_39_word_new_line_8: 'kitten
-
-  rail
-
-  water
-
-  pluck
-
-  siren
-
-  floor
-
-  plug
-
-  goat'
-bip_39_word_new_line_9: 'kitten
-
-  rail
-
-  water
-
-  pluck
-
-  siren
-
-  floor
-
-  plug
-
-  goat
-
-  oxygen'
-bip_39_word_no_space_1: kitten
-bip_39_word_no_space_10: kittenrailwaterplucksirenfloorpluggoatoxygendisplay
-bip_39_word_no_space_11: kittenrailwaterplucksirenfloorpluggoatoxygendisplaytwenty
 bip_39_word_no_space_12: kittenrailwaterplucksirenfloorpluggoatoxygendisplaytwentyabout
 bip_39_word_no_space_2: kittenrail
 bip_39_word_no_space_3: kittenrailwater
-bip_39_word_no_space_4: kittenrailwaterpluck
-bip_39_word_no_space_5: kittenrailwaterplucksiren
-bip_39_word_no_space_6: kittenrailwaterplucksirenfloor
-bip_39_word_no_space_7: kittenrailwaterplucksirenfloorplug
-bip_39_word_no_space_8: kittenrailwaterplucksirenfloorpluggoat
-bip_39_word_no_space_9: kittenrailwaterplucksirenfloorpluggoatoxygen
-bip_39_word_space_0:
-- kitten
-- rail
-- water
-- pluck
-- siren
-- floor
-- plug
-- goat
-- oxygen
-- display
-- twenty
-- about
-bip_39_word_space_1: kitten
-bip_39_word_space_10: kitten rail water pluck siren floor plug goat oxygen display
-bip_39_word_space_11: kitten rail water pluck siren floor plug goat oxygen display
-  twenty
 bip_39_word_space_12: kitten rail water pluck siren floor plug goat oxygen display
   twenty about
 bip_39_word_space_2: kitten rail
 bip_39_word_space_3: kitten rail water
-bip_39_word_space_4: kitten rail water pluck
-bip_39_word_space_5: kitten rail water pluck siren
-bip_39_word_space_6: kitten rail water pluck siren floor
-bip_39_word_space_7: kitten rail water pluck siren floor plug
-bip_39_word_space_8: kitten rail water pluck siren floor plug goat
-bip_39_word_space_9: kitten rail water pluck siren floor plug goat oxygen
-bip_39_word_underscore_1: kitten
-bip_39_word_underscore_10: kitten_rail_water_pluck_siren_floor_plug_goat_oxygen_display
-bip_39_word_underscore_11: kitten_rail_water_pluck_siren_floor_plug_goat_oxygen_display_twenty
 bip_39_word_underscore_12: kitten_rail_water_pluck_siren_floor_plug_goat_oxygen_display_twenty_about
 bip_39_word_underscore_2: kitten_rail
 bip_39_word_underscore_3: kitten_rail_water
-bip_39_word_underscore_4: kitten_rail_water_pluck
-bip_39_word_underscore_5: kitten_rail_water_pluck_siren
-bip_39_word_underscore_6: kitten_rail_water_pluck_siren_floor
-bip_39_word_underscore_7: kitten_rail_water_pluck_siren_floor_plug
-bip_39_word_underscore_8: kitten_rail_water_pluck_siren_floor_plug_goat
-bip_39_word_underscore_9: kitten_rail_water_pluck_siren_floor_plug_goat_oxygen
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

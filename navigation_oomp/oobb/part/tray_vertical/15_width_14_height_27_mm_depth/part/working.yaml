@@ -1,68 +1,9 @@
-bip_39_word_dash_1: kingdom
-bip_39_word_dash_10: kingdom-memory-peace-trend-general-degree-busy-raise-blame-memory
-bip_39_word_dash_11: kingdom-memory-peace-trend-general-degree-busy-raise-blame-memory-allow
 bip_39_word_dash_12: kingdom-memory-peace-trend-general-degree-busy-raise-blame-memory-allow-allow
 bip_39_word_dash_2: kingdom-memory
 bip_39_word_dash_3: kingdom-memory-peace
-bip_39_word_dash_4: kingdom-memory-peace-trend
-bip_39_word_dash_5: kingdom-memory-peace-trend-general
-bip_39_word_dash_6: kingdom-memory-peace-trend-general-degree
-bip_39_word_dash_7: kingdom-memory-peace-trend-general-degree-busy
-bip_39_word_dash_8: kingdom-memory-peace-trend-general-degree-busy-raise
-bip_39_word_dash_9: kingdom-memory-peace-trend-general-degree-busy-raise-blame
-bip_39_word_new_br_1: kingdom
-bip_39_word_new_br_10: kingdom<br>memory<br>peace<br>trend<br>general<br>degree<br>busy<br>raise<br>blame<br>memory
-bip_39_word_new_br_11: kingdom<br>memory<br>peace<br>trend<br>general<br>degree<br>busy<br>raise<br>blame<br>memory<br>allow
 bip_39_word_new_br_12: kingdom<br>memory<br>peace<br>trend<br>general<br>degree<br>busy<br>raise<br>blame<br>memory<br>allow<br>allow
 bip_39_word_new_br_2: kingdom<br>memory
 bip_39_word_new_br_3: kingdom<br>memory<br>peace
-bip_39_word_new_br_4: kingdom<br>memory<br>peace<br>trend
-bip_39_word_new_br_5: kingdom<br>memory<br>peace<br>trend<br>general
-bip_39_word_new_br_6: kingdom<br>memory<br>peace<br>trend<br>general<br>degree
-bip_39_word_new_br_7: kingdom<br>memory<br>peace<br>trend<br>general<br>degree<br>busy
-bip_39_word_new_br_8: kingdom<br>memory<br>peace<br>trend<br>general<br>degree<br>busy<br>raise
-bip_39_word_new_br_9: kingdom<br>memory<br>peace<br>trend<br>general<br>degree<br>busy<br>raise<br>blame
-bip_39_word_new_line_1: kingdom
-bip_39_word_new_line_10: 'kingdom
-
-  memory
-
-  peace
-
-  trend
-
-  general
-
-  degree
-
-  busy
-
-  raise
-
-  blame
-
-  memory'
-bip_39_word_new_line_11: 'kingdom
-
-  memory
-
-  peace
-
-  trend
-
-  general
-
-  degree
-
-  busy
-
-  raise
-
-  blame
-
-  memory
-
-  allow'
 bip_39_word_new_line_12: 'kingdom
 
   memory
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'kingdom
   memory
 
   peace'
-bip_39_word_new_line_4: 'kingdom
-
-  memory
-
-  peace
-
-  trend'
-bip_39_word_new_line_5: 'kingdom
-
-  memory
-
-  peace
-
-  trend
-
-  general'
-bip_39_word_new_line_6: 'kingdom
-
-  memory
-
-  peace
-
-  trend
-
-  general
-
-  degree'
-bip_39_word_new_line_7: 'kingdom
-
-  memory
-
-  peace
-
-  trend
-
-  general
-
-  degree
-
-  busy'
-bip_39_word_new_line_8: 'kingdom
-
-  memory
-
-  peace
-
-  trend
-
-  general
-
-  degree
-
-  busy
-
-  raise'
-bip_39_word_new_line_9: 'kingdom
-
-  memory
-
-  peace
-
-  trend
-
-  general
-
-  degree
-
-  busy
-
-  raise
-
-  blame'
-bip_39_word_no_space_1: kingdom
-bip_39_word_no_space_10: kingdommemorypeacetrendgeneraldegreebusyraiseblamememory
-bip_39_word_no_space_11: kingdommemorypeacetrendgeneraldegreebusyraiseblamememoryallow
 bip_39_word_no_space_12: kingdommemorypeacetrendgeneraldegreebusyraiseblamememoryallowallow
 bip_39_word_no_space_2: kingdommemory
 bip_39_word_no_space_3: kingdommemorypeace
-bip_39_word_no_space_4: kingdommemorypeacetrend
-bip_39_word_no_space_5: kingdommemorypeacetrendgeneral
-bip_39_word_no_space_6: kingdommemorypeacetrendgeneraldegree
-bip_39_word_no_space_7: kingdommemorypeacetrendgeneraldegreebusy
-bip_39_word_no_space_8: kingdommemorypeacetrendgeneraldegreebusyraise
-bip_39_word_no_space_9: kingdommemorypeacetrendgeneraldegreebusyraiseblame
-bip_39_word_space_0:
-- kingdom
-- memory
-- peace
-- trend
-- general
-- degree
-- busy
-- raise
-- blame
-- memory
-- allow
-- allow
-bip_39_word_space_1: kingdom
-bip_39_word_space_10: kingdom memory peace trend general degree busy raise blame memory
-bip_39_word_space_11: kingdom memory peace trend general degree busy raise blame memory
-  allow
 bip_39_word_space_12: kingdom memory peace trend general degree busy raise blame memory
   allow allow
 bip_39_word_space_2: kingdom memory
 bip_39_word_space_3: kingdom memory peace
-bip_39_word_space_4: kingdom memory peace trend
-bip_39_word_space_5: kingdom memory peace trend general
-bip_39_word_space_6: kingdom memory peace trend general degree
-bip_39_word_space_7: kingdom memory peace trend general degree busy
-bip_39_word_space_8: kingdom memory peace trend general degree busy raise
-bip_39_word_space_9: kingdom memory peace trend general degree busy raise blame
-bip_39_word_underscore_1: kingdom
-bip_39_word_underscore_10: kingdom_memory_peace_trend_general_degree_busy_raise_blame_memory
-bip_39_word_underscore_11: kingdom_memory_peace_trend_general_degree_busy_raise_blame_memory_allow
 bip_39_word_underscore_12: kingdom_memory_peace_trend_general_degree_busy_raise_blame_memory_allow_allow
 bip_39_word_underscore_2: kingdom_memory
 bip_39_word_underscore_3: kingdom_memory_peace
-bip_39_word_underscore_4: kingdom_memory_peace_trend
-bip_39_word_underscore_5: kingdom_memory_peace_trend_general
-bip_39_word_underscore_6: kingdom_memory_peace_trend_general_degree
-bip_39_word_underscore_7: kingdom_memory_peace_trend_general_degree_busy
-bip_39_word_underscore_8: kingdom_memory_peace_trend_general_degree_busy_raise
-bip_39_word_underscore_9: kingdom_memory_peace_trend_general_degree_busy_raise_blame
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

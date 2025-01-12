@@ -1,68 +1,9 @@
-bip_39_word_dash_1: strategy
-bip_39_word_dash_10: strategy-depart-reveal-turtle-artist-host-garbage-analyst-vendor-payment
-bip_39_word_dash_11: strategy-depart-reveal-turtle-artist-host-garbage-analyst-vendor-payment-coffee
 bip_39_word_dash_12: strategy-depart-reveal-turtle-artist-host-garbage-analyst-vendor-payment-coffee-acquire
 bip_39_word_dash_2: strategy-depart
 bip_39_word_dash_3: strategy-depart-reveal
-bip_39_word_dash_4: strategy-depart-reveal-turtle
-bip_39_word_dash_5: strategy-depart-reveal-turtle-artist
-bip_39_word_dash_6: strategy-depart-reveal-turtle-artist-host
-bip_39_word_dash_7: strategy-depart-reveal-turtle-artist-host-garbage
-bip_39_word_dash_8: strategy-depart-reveal-turtle-artist-host-garbage-analyst
-bip_39_word_dash_9: strategy-depart-reveal-turtle-artist-host-garbage-analyst-vendor
-bip_39_word_new_br_1: strategy
-bip_39_word_new_br_10: strategy<br>depart<br>reveal<br>turtle<br>artist<br>host<br>garbage<br>analyst<br>vendor<br>payment
-bip_39_word_new_br_11: strategy<br>depart<br>reveal<br>turtle<br>artist<br>host<br>garbage<br>analyst<br>vendor<br>payment<br>coffee
 bip_39_word_new_br_12: strategy<br>depart<br>reveal<br>turtle<br>artist<br>host<br>garbage<br>analyst<br>vendor<br>payment<br>coffee<br>acquire
 bip_39_word_new_br_2: strategy<br>depart
 bip_39_word_new_br_3: strategy<br>depart<br>reveal
-bip_39_word_new_br_4: strategy<br>depart<br>reveal<br>turtle
-bip_39_word_new_br_5: strategy<br>depart<br>reveal<br>turtle<br>artist
-bip_39_word_new_br_6: strategy<br>depart<br>reveal<br>turtle<br>artist<br>host
-bip_39_word_new_br_7: strategy<br>depart<br>reveal<br>turtle<br>artist<br>host<br>garbage
-bip_39_word_new_br_8: strategy<br>depart<br>reveal<br>turtle<br>artist<br>host<br>garbage<br>analyst
-bip_39_word_new_br_9: strategy<br>depart<br>reveal<br>turtle<br>artist<br>host<br>garbage<br>analyst<br>vendor
-bip_39_word_new_line_1: strategy
-bip_39_word_new_line_10: 'strategy
-
-  depart
-
-  reveal
-
-  turtle
-
-  artist
-
-  host
-
-  garbage
-
-  analyst
-
-  vendor
-
-  payment'
-bip_39_word_new_line_11: 'strategy
-
-  depart
-
-  reveal
-
-  turtle
-
-  artist
-
-  host
-
-  garbage
-
-  analyst
-
-  vendor
-
-  payment
-
-  coffee'
 bip_39_word_new_line_12: 'strategy
 
   depart
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'strategy
   depart
 
   reveal'
-bip_39_word_new_line_4: 'strategy
-
-  depart
-
-  reveal
-
-  turtle'
-bip_39_word_new_line_5: 'strategy
-
-  depart
-
-  reveal
-
-  turtle
-
-  artist'
-bip_39_word_new_line_6: 'strategy
-
-  depart
-
-  reveal
-
-  turtle
-
-  artist
-
-  host'
-bip_39_word_new_line_7: 'strategy
-
-  depart
-
-  reveal
-
-  turtle
-
-  artist
-
-  host
-
-  garbage'
-bip_39_word_new_line_8: 'strategy
-
-  depart
-
-  reveal
-
-  turtle
-
-  artist
-
-  host
-
-  garbage
-
-  analyst'
-bip_39_word_new_line_9: 'strategy
-
-  depart
-
-  reveal
-
-  turtle
-
-  artist
-
-  host
-
-  garbage
-
-  analyst
-
-  vendor'
-bip_39_word_no_space_1: strategy
-bip_39_word_no_space_10: strategydepartrevealturtleartisthostgarbageanalystvendorpayment
-bip_39_word_no_space_11: strategydepartrevealturtleartisthostgarbageanalystvendorpaymentcoffee
 bip_39_word_no_space_12: strategydepartrevealturtleartisthostgarbageanalystvendorpaymentcoffeeacquire
 bip_39_word_no_space_2: strategydepart
 bip_39_word_no_space_3: strategydepartreveal
-bip_39_word_no_space_4: strategydepartrevealturtle
-bip_39_word_no_space_5: strategydepartrevealturtleartist
-bip_39_word_no_space_6: strategydepartrevealturtleartisthost
-bip_39_word_no_space_7: strategydepartrevealturtleartisthostgarbage
-bip_39_word_no_space_8: strategydepartrevealturtleartisthostgarbageanalyst
-bip_39_word_no_space_9: strategydepartrevealturtleartisthostgarbageanalystvendor
-bip_39_word_space_0:
-- strategy
-- depart
-- reveal
-- turtle
-- artist
-- host
-- garbage
-- analyst
-- vendor
-- payment
-- coffee
-- acquire
-bip_39_word_space_1: strategy
-bip_39_word_space_10: strategy depart reveal turtle artist host garbage analyst vendor
-  payment
-bip_39_word_space_11: strategy depart reveal turtle artist host garbage analyst vendor
-  payment coffee
 bip_39_word_space_12: strategy depart reveal turtle artist host garbage analyst vendor
   payment coffee acquire
 bip_39_word_space_2: strategy depart
 bip_39_word_space_3: strategy depart reveal
-bip_39_word_space_4: strategy depart reveal turtle
-bip_39_word_space_5: strategy depart reveal turtle artist
-bip_39_word_space_6: strategy depart reveal turtle artist host
-bip_39_word_space_7: strategy depart reveal turtle artist host garbage
-bip_39_word_space_8: strategy depart reveal turtle artist host garbage analyst
-bip_39_word_space_9: strategy depart reveal turtle artist host garbage analyst vendor
-bip_39_word_underscore_1: strategy
-bip_39_word_underscore_10: strategy_depart_reveal_turtle_artist_host_garbage_analyst_vendor_payment
-bip_39_word_underscore_11: strategy_depart_reveal_turtle_artist_host_garbage_analyst_vendor_payment_coffee
 bip_39_word_underscore_12: strategy_depart_reveal_turtle_artist_host_garbage_analyst_vendor_payment_coffee_acquire
 bip_39_word_underscore_2: strategy_depart
 bip_39_word_underscore_3: strategy_depart_reveal
-bip_39_word_underscore_4: strategy_depart_reveal_turtle
-bip_39_word_underscore_5: strategy_depart_reveal_turtle_artist
-bip_39_word_underscore_6: strategy_depart_reveal_turtle_artist_host
-bip_39_word_underscore_7: strategy_depart_reveal_turtle_artist_host_garbage
-bip_39_word_underscore_8: strategy_depart_reveal_turtle_artist_host_garbage_analyst
-bip_39_word_underscore_9: strategy_depart_reveal_turtle_artist_host_garbage_analyst_vendor
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

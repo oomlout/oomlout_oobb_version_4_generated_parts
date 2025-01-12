@@ -1,68 +1,9 @@
-bip_39_word_dash_1: depart
-bip_39_word_dash_10: depart-weather-fat-million-addict-pitch-aisle-target-garage-uniform
-bip_39_word_dash_11: depart-weather-fat-million-addict-pitch-aisle-target-garage-uniform-salt
 bip_39_word_dash_12: depart-weather-fat-million-addict-pitch-aisle-target-garage-uniform-salt-amazing
 bip_39_word_dash_2: depart-weather
 bip_39_word_dash_3: depart-weather-fat
-bip_39_word_dash_4: depart-weather-fat-million
-bip_39_word_dash_5: depart-weather-fat-million-addict
-bip_39_word_dash_6: depart-weather-fat-million-addict-pitch
-bip_39_word_dash_7: depart-weather-fat-million-addict-pitch-aisle
-bip_39_word_dash_8: depart-weather-fat-million-addict-pitch-aisle-target
-bip_39_word_dash_9: depart-weather-fat-million-addict-pitch-aisle-target-garage
-bip_39_word_new_br_1: depart
-bip_39_word_new_br_10: depart<br>weather<br>fat<br>million<br>addict<br>pitch<br>aisle<br>target<br>garage<br>uniform
-bip_39_word_new_br_11: depart<br>weather<br>fat<br>million<br>addict<br>pitch<br>aisle<br>target<br>garage<br>uniform<br>salt
 bip_39_word_new_br_12: depart<br>weather<br>fat<br>million<br>addict<br>pitch<br>aisle<br>target<br>garage<br>uniform<br>salt<br>amazing
 bip_39_word_new_br_2: depart<br>weather
 bip_39_word_new_br_3: depart<br>weather<br>fat
-bip_39_word_new_br_4: depart<br>weather<br>fat<br>million
-bip_39_word_new_br_5: depart<br>weather<br>fat<br>million<br>addict
-bip_39_word_new_br_6: depart<br>weather<br>fat<br>million<br>addict<br>pitch
-bip_39_word_new_br_7: depart<br>weather<br>fat<br>million<br>addict<br>pitch<br>aisle
-bip_39_word_new_br_8: depart<br>weather<br>fat<br>million<br>addict<br>pitch<br>aisle<br>target
-bip_39_word_new_br_9: depart<br>weather<br>fat<br>million<br>addict<br>pitch<br>aisle<br>target<br>garage
-bip_39_word_new_line_1: depart
-bip_39_word_new_line_10: 'depart
-
-  weather
-
-  fat
-
-  million
-
-  addict
-
-  pitch
-
-  aisle
-
-  target
-
-  garage
-
-  uniform'
-bip_39_word_new_line_11: 'depart
-
-  weather
-
-  fat
-
-  million
-
-  addict
-
-  pitch
-
-  aisle
-
-  target
-
-  garage
-
-  uniform
-
-  salt'
 bip_39_word_new_line_12: 'depart
 
   weather
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'depart
   weather
 
   fat'
-bip_39_word_new_line_4: 'depart
-
-  weather
-
-  fat
-
-  million'
-bip_39_word_new_line_5: 'depart
-
-  weather
-
-  fat
-
-  million
-
-  addict'
-bip_39_word_new_line_6: 'depart
-
-  weather
-
-  fat
-
-  million
-
-  addict
-
-  pitch'
-bip_39_word_new_line_7: 'depart
-
-  weather
-
-  fat
-
-  million
-
-  addict
-
-  pitch
-
-  aisle'
-bip_39_word_new_line_8: 'depart
-
-  weather
-
-  fat
-
-  million
-
-  addict
-
-  pitch
-
-  aisle
-
-  target'
-bip_39_word_new_line_9: 'depart
-
-  weather
-
-  fat
-
-  million
-
-  addict
-
-  pitch
-
-  aisle
-
-  target
-
-  garage'
-bip_39_word_no_space_1: depart
-bip_39_word_no_space_10: departweatherfatmillionaddictpitchaisletargetgarageuniform
-bip_39_word_no_space_11: departweatherfatmillionaddictpitchaisletargetgarageuniformsalt
 bip_39_word_no_space_12: departweatherfatmillionaddictpitchaisletargetgarageuniformsaltamazing
 bip_39_word_no_space_2: departweather
 bip_39_word_no_space_3: departweatherfat
-bip_39_word_no_space_4: departweatherfatmillion
-bip_39_word_no_space_5: departweatherfatmillionaddict
-bip_39_word_no_space_6: departweatherfatmillionaddictpitch
-bip_39_word_no_space_7: departweatherfatmillionaddictpitchaisle
-bip_39_word_no_space_8: departweatherfatmillionaddictpitchaisletarget
-bip_39_word_no_space_9: departweatherfatmillionaddictpitchaisletargetgarage
-bip_39_word_space_0:
-- depart
-- weather
-- fat
-- million
-- addict
-- pitch
-- aisle
-- target
-- garage
-- uniform
-- salt
-- amazing
-bip_39_word_space_1: depart
-bip_39_word_space_10: depart weather fat million addict pitch aisle target garage
-  uniform
-bip_39_word_space_11: depart weather fat million addict pitch aisle target garage
-  uniform salt
 bip_39_word_space_12: depart weather fat million addict pitch aisle target garage
   uniform salt amazing
 bip_39_word_space_2: depart weather
 bip_39_word_space_3: depart weather fat
-bip_39_word_space_4: depart weather fat million
-bip_39_word_space_5: depart weather fat million addict
-bip_39_word_space_6: depart weather fat million addict pitch
-bip_39_word_space_7: depart weather fat million addict pitch aisle
-bip_39_word_space_8: depart weather fat million addict pitch aisle target
-bip_39_word_space_9: depart weather fat million addict pitch aisle target garage
-bip_39_word_underscore_1: depart
-bip_39_word_underscore_10: depart_weather_fat_million_addict_pitch_aisle_target_garage_uniform
-bip_39_word_underscore_11: depart_weather_fat_million_addict_pitch_aisle_target_garage_uniform_salt
 bip_39_word_underscore_12: depart_weather_fat_million_addict_pitch_aisle_target_garage_uniform_salt_amazing
 bip_39_word_underscore_2: depart_weather
 bip_39_word_underscore_3: depart_weather_fat
-bip_39_word_underscore_4: depart_weather_fat_million
-bip_39_word_underscore_5: depart_weather_fat_million_addict
-bip_39_word_underscore_6: depart_weather_fat_million_addict_pitch
-bip_39_word_underscore_7: depart_weather_fat_million_addict_pitch_aisle
-bip_39_word_underscore_8: depart_weather_fat_million_addict_pitch_aisle_target
-bip_39_word_underscore_9: depart_weather_fat_million_addict_pitch_aisle_target_garage
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

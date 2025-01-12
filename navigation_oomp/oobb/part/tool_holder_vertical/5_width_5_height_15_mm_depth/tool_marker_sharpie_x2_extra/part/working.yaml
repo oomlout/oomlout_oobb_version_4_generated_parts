@@ -1,68 +1,9 @@
-bip_39_word_dash_1: hungry
-bip_39_word_dash_10: hungry-omit-match-arrive-suit-feed-rich-park-penalty-similar
-bip_39_word_dash_11: hungry-omit-match-arrive-suit-feed-rich-park-penalty-similar-deliver
 bip_39_word_dash_12: hungry-omit-match-arrive-suit-feed-rich-park-penalty-similar-deliver-accuse
 bip_39_word_dash_2: hungry-omit
 bip_39_word_dash_3: hungry-omit-match
-bip_39_word_dash_4: hungry-omit-match-arrive
-bip_39_word_dash_5: hungry-omit-match-arrive-suit
-bip_39_word_dash_6: hungry-omit-match-arrive-suit-feed
-bip_39_word_dash_7: hungry-omit-match-arrive-suit-feed-rich
-bip_39_word_dash_8: hungry-omit-match-arrive-suit-feed-rich-park
-bip_39_word_dash_9: hungry-omit-match-arrive-suit-feed-rich-park-penalty
-bip_39_word_new_br_1: hungry
-bip_39_word_new_br_10: hungry<br>omit<br>match<br>arrive<br>suit<br>feed<br>rich<br>park<br>penalty<br>similar
-bip_39_word_new_br_11: hungry<br>omit<br>match<br>arrive<br>suit<br>feed<br>rich<br>park<br>penalty<br>similar<br>deliver
 bip_39_word_new_br_12: hungry<br>omit<br>match<br>arrive<br>suit<br>feed<br>rich<br>park<br>penalty<br>similar<br>deliver<br>accuse
 bip_39_word_new_br_2: hungry<br>omit
 bip_39_word_new_br_3: hungry<br>omit<br>match
-bip_39_word_new_br_4: hungry<br>omit<br>match<br>arrive
-bip_39_word_new_br_5: hungry<br>omit<br>match<br>arrive<br>suit
-bip_39_word_new_br_6: hungry<br>omit<br>match<br>arrive<br>suit<br>feed
-bip_39_word_new_br_7: hungry<br>omit<br>match<br>arrive<br>suit<br>feed<br>rich
-bip_39_word_new_br_8: hungry<br>omit<br>match<br>arrive<br>suit<br>feed<br>rich<br>park
-bip_39_word_new_br_9: hungry<br>omit<br>match<br>arrive<br>suit<br>feed<br>rich<br>park<br>penalty
-bip_39_word_new_line_1: hungry
-bip_39_word_new_line_10: 'hungry
-
-  omit
-
-  match
-
-  arrive
-
-  suit
-
-  feed
-
-  rich
-
-  park
-
-  penalty
-
-  similar'
-bip_39_word_new_line_11: 'hungry
-
-  omit
-
-  match
-
-  arrive
-
-  suit
-
-  feed
-
-  rich
-
-  park
-
-  penalty
-
-  similar
-
-  deliver'
 bip_39_word_new_line_12: 'hungry
 
   omit
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'hungry
   omit
 
   match'
-bip_39_word_new_line_4: 'hungry
-
-  omit
-
-  match
-
-  arrive'
-bip_39_word_new_line_5: 'hungry
-
-  omit
-
-  match
-
-  arrive
-
-  suit'
-bip_39_word_new_line_6: 'hungry
-
-  omit
-
-  match
-
-  arrive
-
-  suit
-
-  feed'
-bip_39_word_new_line_7: 'hungry
-
-  omit
-
-  match
-
-  arrive
-
-  suit
-
-  feed
-
-  rich'
-bip_39_word_new_line_8: 'hungry
-
-  omit
-
-  match
-
-  arrive
-
-  suit
-
-  feed
-
-  rich
-
-  park'
-bip_39_word_new_line_9: 'hungry
-
-  omit
-
-  match
-
-  arrive
-
-  suit
-
-  feed
-
-  rich
-
-  park
-
-  penalty'
-bip_39_word_no_space_1: hungry
-bip_39_word_no_space_10: hungryomitmatcharrivesuitfeedrichparkpenaltysimilar
-bip_39_word_no_space_11: hungryomitmatcharrivesuitfeedrichparkpenaltysimilardeliver
 bip_39_word_no_space_12: hungryomitmatcharrivesuitfeedrichparkpenaltysimilardeliveraccuse
 bip_39_word_no_space_2: hungryomit
 bip_39_word_no_space_3: hungryomitmatch
-bip_39_word_no_space_4: hungryomitmatcharrive
-bip_39_word_no_space_5: hungryomitmatcharrivesuit
-bip_39_word_no_space_6: hungryomitmatcharrivesuitfeed
-bip_39_word_no_space_7: hungryomitmatcharrivesuitfeedrich
-bip_39_word_no_space_8: hungryomitmatcharrivesuitfeedrichpark
-bip_39_word_no_space_9: hungryomitmatcharrivesuitfeedrichparkpenalty
-bip_39_word_space_0:
-- hungry
-- omit
-- match
-- arrive
-- suit
-- feed
-- rich
-- park
-- penalty
-- similar
-- deliver
-- accuse
-bip_39_word_space_1: hungry
-bip_39_word_space_10: hungry omit match arrive suit feed rich park penalty similar
-bip_39_word_space_11: hungry omit match arrive suit feed rich park penalty similar
-  deliver
 bip_39_word_space_12: hungry omit match arrive suit feed rich park penalty similar
   deliver accuse
 bip_39_word_space_2: hungry omit
 bip_39_word_space_3: hungry omit match
-bip_39_word_space_4: hungry omit match arrive
-bip_39_word_space_5: hungry omit match arrive suit
-bip_39_word_space_6: hungry omit match arrive suit feed
-bip_39_word_space_7: hungry omit match arrive suit feed rich
-bip_39_word_space_8: hungry omit match arrive suit feed rich park
-bip_39_word_space_9: hungry omit match arrive suit feed rich park penalty
-bip_39_word_underscore_1: hungry
-bip_39_word_underscore_10: hungry_omit_match_arrive_suit_feed_rich_park_penalty_similar
-bip_39_word_underscore_11: hungry_omit_match_arrive_suit_feed_rich_park_penalty_similar_deliver
 bip_39_word_underscore_12: hungry_omit_match_arrive_suit_feed_rich_park_penalty_similar_deliver_accuse
 bip_39_word_underscore_2: hungry_omit
 bip_39_word_underscore_3: hungry_omit_match
-bip_39_word_underscore_4: hungry_omit_match_arrive
-bip_39_word_underscore_5: hungry_omit_match_arrive_suit
-bip_39_word_underscore_6: hungry_omit_match_arrive_suit_feed
-bip_39_word_underscore_7: hungry_omit_match_arrive_suit_feed_rich
-bip_39_word_underscore_8: hungry_omit_match_arrive_suit_feed_rich_park
-bip_39_word_underscore_9: hungry_omit_match_arrive_suit_feed_rich_park_penalty
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

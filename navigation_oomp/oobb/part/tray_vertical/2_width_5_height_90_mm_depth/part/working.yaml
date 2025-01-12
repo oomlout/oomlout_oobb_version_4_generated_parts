@@ -1,68 +1,9 @@
-bip_39_word_dash_1: segment
-bip_39_word_dash_10: segment-poet-finger-resemble-inform-noodle-narrow-outer-goose-eye
-bip_39_word_dash_11: segment-poet-finger-resemble-inform-noodle-narrow-outer-goose-eye-gift
 bip_39_word_dash_12: segment-poet-finger-resemble-inform-noodle-narrow-outer-goose-eye-gift-ahead
 bip_39_word_dash_2: segment-poet
 bip_39_word_dash_3: segment-poet-finger
-bip_39_word_dash_4: segment-poet-finger-resemble
-bip_39_word_dash_5: segment-poet-finger-resemble-inform
-bip_39_word_dash_6: segment-poet-finger-resemble-inform-noodle
-bip_39_word_dash_7: segment-poet-finger-resemble-inform-noodle-narrow
-bip_39_word_dash_8: segment-poet-finger-resemble-inform-noodle-narrow-outer
-bip_39_word_dash_9: segment-poet-finger-resemble-inform-noodle-narrow-outer-goose
-bip_39_word_new_br_1: segment
-bip_39_word_new_br_10: segment<br>poet<br>finger<br>resemble<br>inform<br>noodle<br>narrow<br>outer<br>goose<br>eye
-bip_39_word_new_br_11: segment<br>poet<br>finger<br>resemble<br>inform<br>noodle<br>narrow<br>outer<br>goose<br>eye<br>gift
 bip_39_word_new_br_12: segment<br>poet<br>finger<br>resemble<br>inform<br>noodle<br>narrow<br>outer<br>goose<br>eye<br>gift<br>ahead
 bip_39_word_new_br_2: segment<br>poet
 bip_39_word_new_br_3: segment<br>poet<br>finger
-bip_39_word_new_br_4: segment<br>poet<br>finger<br>resemble
-bip_39_word_new_br_5: segment<br>poet<br>finger<br>resemble<br>inform
-bip_39_word_new_br_6: segment<br>poet<br>finger<br>resemble<br>inform<br>noodle
-bip_39_word_new_br_7: segment<br>poet<br>finger<br>resemble<br>inform<br>noodle<br>narrow
-bip_39_word_new_br_8: segment<br>poet<br>finger<br>resemble<br>inform<br>noodle<br>narrow<br>outer
-bip_39_word_new_br_9: segment<br>poet<br>finger<br>resemble<br>inform<br>noodle<br>narrow<br>outer<br>goose
-bip_39_word_new_line_1: segment
-bip_39_word_new_line_10: 'segment
-
-  poet
-
-  finger
-
-  resemble
-
-  inform
-
-  noodle
-
-  narrow
-
-  outer
-
-  goose
-
-  eye'
-bip_39_word_new_line_11: 'segment
-
-  poet
-
-  finger
-
-  resemble
-
-  inform
-
-  noodle
-
-  narrow
-
-  outer
-
-  goose
-
-  eye
-
-  gift'
 bip_39_word_new_line_12: 'segment
 
   poet
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'segment
   poet
 
   finger'
-bip_39_word_new_line_4: 'segment
-
-  poet
-
-  finger
-
-  resemble'
-bip_39_word_new_line_5: 'segment
-
-  poet
-
-  finger
-
-  resemble
-
-  inform'
-bip_39_word_new_line_6: 'segment
-
-  poet
-
-  finger
-
-  resemble
-
-  inform
-
-  noodle'
-bip_39_word_new_line_7: 'segment
-
-  poet
-
-  finger
-
-  resemble
-
-  inform
-
-  noodle
-
-  narrow'
-bip_39_word_new_line_8: 'segment
-
-  poet
-
-  finger
-
-  resemble
-
-  inform
-
-  noodle
-
-  narrow
-
-  outer'
-bip_39_word_new_line_9: 'segment
-
-  poet
-
-  finger
-
-  resemble
-
-  inform
-
-  noodle
-
-  narrow
-
-  outer
-
-  goose'
-bip_39_word_no_space_1: segment
-bip_39_word_no_space_10: segmentpoetfingerresembleinformnoodlenarrowoutergooseeye
-bip_39_word_no_space_11: segmentpoetfingerresembleinformnoodlenarrowoutergooseeyegift
 bip_39_word_no_space_12: segmentpoetfingerresembleinformnoodlenarrowoutergooseeyegiftahead
 bip_39_word_no_space_2: segmentpoet
 bip_39_word_no_space_3: segmentpoetfinger
-bip_39_word_no_space_4: segmentpoetfingerresemble
-bip_39_word_no_space_5: segmentpoetfingerresembleinform
-bip_39_word_no_space_6: segmentpoetfingerresembleinformnoodle
-bip_39_word_no_space_7: segmentpoetfingerresembleinformnoodlenarrow
-bip_39_word_no_space_8: segmentpoetfingerresembleinformnoodlenarrowouter
-bip_39_word_no_space_9: segmentpoetfingerresembleinformnoodlenarrowoutergoose
-bip_39_word_space_0:
-- segment
-- poet
-- finger
-- resemble
-- inform
-- noodle
-- narrow
-- outer
-- goose
-- eye
-- gift
-- ahead
-bip_39_word_space_1: segment
-bip_39_word_space_10: segment poet finger resemble inform noodle narrow outer goose
-  eye
-bip_39_word_space_11: segment poet finger resemble inform noodle narrow outer goose
-  eye gift
 bip_39_word_space_12: segment poet finger resemble inform noodle narrow outer goose
   eye gift ahead
 bip_39_word_space_2: segment poet
 bip_39_word_space_3: segment poet finger
-bip_39_word_space_4: segment poet finger resemble
-bip_39_word_space_5: segment poet finger resemble inform
-bip_39_word_space_6: segment poet finger resemble inform noodle
-bip_39_word_space_7: segment poet finger resemble inform noodle narrow
-bip_39_word_space_8: segment poet finger resemble inform noodle narrow outer
-bip_39_word_space_9: segment poet finger resemble inform noodle narrow outer goose
-bip_39_word_underscore_1: segment
-bip_39_word_underscore_10: segment_poet_finger_resemble_inform_noodle_narrow_outer_goose_eye
-bip_39_word_underscore_11: segment_poet_finger_resemble_inform_noodle_narrow_outer_goose_eye_gift
 bip_39_word_underscore_12: segment_poet_finger_resemble_inform_noodle_narrow_outer_goose_eye_gift_ahead
 bip_39_word_underscore_2: segment_poet
 bip_39_word_underscore_3: segment_poet_finger
-bip_39_word_underscore_4: segment_poet_finger_resemble
-bip_39_word_underscore_5: segment_poet_finger_resemble_inform
-bip_39_word_underscore_6: segment_poet_finger_resemble_inform_noodle
-bip_39_word_underscore_7: segment_poet_finger_resemble_inform_noodle_narrow
-bip_39_word_underscore_8: segment_poet_finger_resemble_inform_noodle_narrow_outer
-bip_39_word_underscore_9: segment_poet_finger_resemble_inform_noodle_narrow_outer_goose
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

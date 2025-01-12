@@ -1,68 +1,9 @@
-bip_39_word_dash_1: pistol
-bip_39_word_dash_10: pistol-mother-autumn-kitten-leopard-wash-dismiss-crawl-also-salmon
-bip_39_word_dash_11: pistol-mother-autumn-kitten-leopard-wash-dismiss-crawl-also-salmon-spare
 bip_39_word_dash_12: pistol-mother-autumn-kitten-leopard-wash-dismiss-crawl-also-salmon-spare-above
 bip_39_word_dash_2: pistol-mother
 bip_39_word_dash_3: pistol-mother-autumn
-bip_39_word_dash_4: pistol-mother-autumn-kitten
-bip_39_word_dash_5: pistol-mother-autumn-kitten-leopard
-bip_39_word_dash_6: pistol-mother-autumn-kitten-leopard-wash
-bip_39_word_dash_7: pistol-mother-autumn-kitten-leopard-wash-dismiss
-bip_39_word_dash_8: pistol-mother-autumn-kitten-leopard-wash-dismiss-crawl
-bip_39_word_dash_9: pistol-mother-autumn-kitten-leopard-wash-dismiss-crawl-also
-bip_39_word_new_br_1: pistol
-bip_39_word_new_br_10: pistol<br>mother<br>autumn<br>kitten<br>leopard<br>wash<br>dismiss<br>crawl<br>also<br>salmon
-bip_39_word_new_br_11: pistol<br>mother<br>autumn<br>kitten<br>leopard<br>wash<br>dismiss<br>crawl<br>also<br>salmon<br>spare
 bip_39_word_new_br_12: pistol<br>mother<br>autumn<br>kitten<br>leopard<br>wash<br>dismiss<br>crawl<br>also<br>salmon<br>spare<br>above
 bip_39_word_new_br_2: pistol<br>mother
 bip_39_word_new_br_3: pistol<br>mother<br>autumn
-bip_39_word_new_br_4: pistol<br>mother<br>autumn<br>kitten
-bip_39_word_new_br_5: pistol<br>mother<br>autumn<br>kitten<br>leopard
-bip_39_word_new_br_6: pistol<br>mother<br>autumn<br>kitten<br>leopard<br>wash
-bip_39_word_new_br_7: pistol<br>mother<br>autumn<br>kitten<br>leopard<br>wash<br>dismiss
-bip_39_word_new_br_8: pistol<br>mother<br>autumn<br>kitten<br>leopard<br>wash<br>dismiss<br>crawl
-bip_39_word_new_br_9: pistol<br>mother<br>autumn<br>kitten<br>leopard<br>wash<br>dismiss<br>crawl<br>also
-bip_39_word_new_line_1: pistol
-bip_39_word_new_line_10: 'pistol
-
-  mother
-
-  autumn
-
-  kitten
-
-  leopard
-
-  wash
-
-  dismiss
-
-  crawl
-
-  also
-
-  salmon'
-bip_39_word_new_line_11: 'pistol
-
-  mother
-
-  autumn
-
-  kitten
-
-  leopard
-
-  wash
-
-  dismiss
-
-  crawl
-
-  also
-
-  salmon
-
-  spare'
 bip_39_word_new_line_12: 'pistol
 
   mother
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'pistol
   mother
 
   autumn'
-bip_39_word_new_line_4: 'pistol
-
-  mother
-
-  autumn
-
-  kitten'
-bip_39_word_new_line_5: 'pistol
-
-  mother
-
-  autumn
-
-  kitten
-
-  leopard'
-bip_39_word_new_line_6: 'pistol
-
-  mother
-
-  autumn
-
-  kitten
-
-  leopard
-
-  wash'
-bip_39_word_new_line_7: 'pistol
-
-  mother
-
-  autumn
-
-  kitten
-
-  leopard
-
-  wash
-
-  dismiss'
-bip_39_word_new_line_8: 'pistol
-
-  mother
-
-  autumn
-
-  kitten
-
-  leopard
-
-  wash
-
-  dismiss
-
-  crawl'
-bip_39_word_new_line_9: 'pistol
-
-  mother
-
-  autumn
-
-  kitten
-
-  leopard
-
-  wash
-
-  dismiss
-
-  crawl
-
-  also'
-bip_39_word_no_space_1: pistol
-bip_39_word_no_space_10: pistolmotherautumnkittenleopardwashdismisscrawlalsosalmon
-bip_39_word_no_space_11: pistolmotherautumnkittenleopardwashdismisscrawlalsosalmonspare
 bip_39_word_no_space_12: pistolmotherautumnkittenleopardwashdismisscrawlalsosalmonspareabove
 bip_39_word_no_space_2: pistolmother
 bip_39_word_no_space_3: pistolmotherautumn
-bip_39_word_no_space_4: pistolmotherautumnkitten
-bip_39_word_no_space_5: pistolmotherautumnkittenleopard
-bip_39_word_no_space_6: pistolmotherautumnkittenleopardwash
-bip_39_word_no_space_7: pistolmotherautumnkittenleopardwashdismiss
-bip_39_word_no_space_8: pistolmotherautumnkittenleopardwashdismisscrawl
-bip_39_word_no_space_9: pistolmotherautumnkittenleopardwashdismisscrawlalso
-bip_39_word_space_0:
-- pistol
-- mother
-- autumn
-- kitten
-- leopard
-- wash
-- dismiss
-- crawl
-- also
-- salmon
-- spare
-- above
-bip_39_word_space_1: pistol
-bip_39_word_space_10: pistol mother autumn kitten leopard wash dismiss crawl also
-  salmon
-bip_39_word_space_11: pistol mother autumn kitten leopard wash dismiss crawl also
-  salmon spare
 bip_39_word_space_12: pistol mother autumn kitten leopard wash dismiss crawl also
   salmon spare above
 bip_39_word_space_2: pistol mother
 bip_39_word_space_3: pistol mother autumn
-bip_39_word_space_4: pistol mother autumn kitten
-bip_39_word_space_5: pistol mother autumn kitten leopard
-bip_39_word_space_6: pistol mother autumn kitten leopard wash
-bip_39_word_space_7: pistol mother autumn kitten leopard wash dismiss
-bip_39_word_space_8: pistol mother autumn kitten leopard wash dismiss crawl
-bip_39_word_space_9: pistol mother autumn kitten leopard wash dismiss crawl also
-bip_39_word_underscore_1: pistol
-bip_39_word_underscore_10: pistol_mother_autumn_kitten_leopard_wash_dismiss_crawl_also_salmon
-bip_39_word_underscore_11: pistol_mother_autumn_kitten_leopard_wash_dismiss_crawl_also_salmon_spare
 bip_39_word_underscore_12: pistol_mother_autumn_kitten_leopard_wash_dismiss_crawl_also_salmon_spare_above
 bip_39_word_underscore_2: pistol_mother
 bip_39_word_underscore_3: pistol_mother_autumn
-bip_39_word_underscore_4: pistol_mother_autumn_kitten
-bip_39_word_underscore_5: pistol_mother_autumn_kitten_leopard
-bip_39_word_underscore_6: pistol_mother_autumn_kitten_leopard_wash
-bip_39_word_underscore_7: pistol_mother_autumn_kitten_leopard_wash_dismiss
-bip_39_word_underscore_8: pistol_mother_autumn_kitten_leopard_wash_dismiss_crawl
-bip_39_word_underscore_9: pistol_mother_autumn_kitten_leopard_wash_dismiss_crawl_also
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

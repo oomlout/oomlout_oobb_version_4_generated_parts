@@ -1,68 +1,9 @@
-bip_39_word_dash_1: list
-bip_39_word_dash_10: list-charge-umbrella-dinosaur-possible-jazz-category-ball-dog-cereal
-bip_39_word_dash_11: list-charge-umbrella-dinosaur-possible-jazz-category-ball-dog-cereal-come
 bip_39_word_dash_12: list-charge-umbrella-dinosaur-possible-jazz-category-ball-dog-cereal-come-arrange
 bip_39_word_dash_2: list-charge
 bip_39_word_dash_3: list-charge-umbrella
-bip_39_word_dash_4: list-charge-umbrella-dinosaur
-bip_39_word_dash_5: list-charge-umbrella-dinosaur-possible
-bip_39_word_dash_6: list-charge-umbrella-dinosaur-possible-jazz
-bip_39_word_dash_7: list-charge-umbrella-dinosaur-possible-jazz-category
-bip_39_word_dash_8: list-charge-umbrella-dinosaur-possible-jazz-category-ball
-bip_39_word_dash_9: list-charge-umbrella-dinosaur-possible-jazz-category-ball-dog
-bip_39_word_new_br_1: list
-bip_39_word_new_br_10: list<br>charge<br>umbrella<br>dinosaur<br>possible<br>jazz<br>category<br>ball<br>dog<br>cereal
-bip_39_word_new_br_11: list<br>charge<br>umbrella<br>dinosaur<br>possible<br>jazz<br>category<br>ball<br>dog<br>cereal<br>come
 bip_39_word_new_br_12: list<br>charge<br>umbrella<br>dinosaur<br>possible<br>jazz<br>category<br>ball<br>dog<br>cereal<br>come<br>arrange
 bip_39_word_new_br_2: list<br>charge
 bip_39_word_new_br_3: list<br>charge<br>umbrella
-bip_39_word_new_br_4: list<br>charge<br>umbrella<br>dinosaur
-bip_39_word_new_br_5: list<br>charge<br>umbrella<br>dinosaur<br>possible
-bip_39_word_new_br_6: list<br>charge<br>umbrella<br>dinosaur<br>possible<br>jazz
-bip_39_word_new_br_7: list<br>charge<br>umbrella<br>dinosaur<br>possible<br>jazz<br>category
-bip_39_word_new_br_8: list<br>charge<br>umbrella<br>dinosaur<br>possible<br>jazz<br>category<br>ball
-bip_39_word_new_br_9: list<br>charge<br>umbrella<br>dinosaur<br>possible<br>jazz<br>category<br>ball<br>dog
-bip_39_word_new_line_1: list
-bip_39_word_new_line_10: 'list
-
-  charge
-
-  umbrella
-
-  dinosaur
-
-  possible
-
-  jazz
-
-  category
-
-  ball
-
-  dog
-
-  cereal'
-bip_39_word_new_line_11: 'list
-
-  charge
-
-  umbrella
-
-  dinosaur
-
-  possible
-
-  jazz
-
-  category
-
-  ball
-
-  dog
-
-  cereal
-
-  come'
 bip_39_word_new_line_12: 'list
 
   charge
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'list
   charge
 
   umbrella'
-bip_39_word_new_line_4: 'list
-
-  charge
-
-  umbrella
-
-  dinosaur'
-bip_39_word_new_line_5: 'list
-
-  charge
-
-  umbrella
-
-  dinosaur
-
-  possible'
-bip_39_word_new_line_6: 'list
-
-  charge
-
-  umbrella
-
-  dinosaur
-
-  possible
-
-  jazz'
-bip_39_word_new_line_7: 'list
-
-  charge
-
-  umbrella
-
-  dinosaur
-
-  possible
-
-  jazz
-
-  category'
-bip_39_word_new_line_8: 'list
-
-  charge
-
-  umbrella
-
-  dinosaur
-
-  possible
-
-  jazz
-
-  category
-
-  ball'
-bip_39_word_new_line_9: 'list
-
-  charge
-
-  umbrella
-
-  dinosaur
-
-  possible
-
-  jazz
-
-  category
-
-  ball
-
-  dog'
-bip_39_word_no_space_1: list
-bip_39_word_no_space_10: listchargeumbrelladinosaurpossiblejazzcategoryballdogcereal
-bip_39_word_no_space_11: listchargeumbrelladinosaurpossiblejazzcategoryballdogcerealcome
 bip_39_word_no_space_12: listchargeumbrelladinosaurpossiblejazzcategoryballdogcerealcomearrange
 bip_39_word_no_space_2: listcharge
 bip_39_word_no_space_3: listchargeumbrella
-bip_39_word_no_space_4: listchargeumbrelladinosaur
-bip_39_word_no_space_5: listchargeumbrelladinosaurpossible
-bip_39_word_no_space_6: listchargeumbrelladinosaurpossiblejazz
-bip_39_word_no_space_7: listchargeumbrelladinosaurpossiblejazzcategory
-bip_39_word_no_space_8: listchargeumbrelladinosaurpossiblejazzcategoryball
-bip_39_word_no_space_9: listchargeumbrelladinosaurpossiblejazzcategoryballdog
-bip_39_word_space_0:
-- list
-- charge
-- umbrella
-- dinosaur
-- possible
-- jazz
-- category
-- ball
-- dog
-- cereal
-- come
-- arrange
-bip_39_word_space_1: list
-bip_39_word_space_10: list charge umbrella dinosaur possible jazz category ball dog
-  cereal
-bip_39_word_space_11: list charge umbrella dinosaur possible jazz category ball dog
-  cereal come
 bip_39_word_space_12: list charge umbrella dinosaur possible jazz category ball dog
   cereal come arrange
 bip_39_word_space_2: list charge
 bip_39_word_space_3: list charge umbrella
-bip_39_word_space_4: list charge umbrella dinosaur
-bip_39_word_space_5: list charge umbrella dinosaur possible
-bip_39_word_space_6: list charge umbrella dinosaur possible jazz
-bip_39_word_space_7: list charge umbrella dinosaur possible jazz category
-bip_39_word_space_8: list charge umbrella dinosaur possible jazz category ball
-bip_39_word_space_9: list charge umbrella dinosaur possible jazz category ball dog
-bip_39_word_underscore_1: list
-bip_39_word_underscore_10: list_charge_umbrella_dinosaur_possible_jazz_category_ball_dog_cereal
-bip_39_word_underscore_11: list_charge_umbrella_dinosaur_possible_jazz_category_ball_dog_cereal_come
 bip_39_word_underscore_12: list_charge_umbrella_dinosaur_possible_jazz_category_ball_dog_cereal_come_arrange
 bip_39_word_underscore_2: list_charge
 bip_39_word_underscore_3: list_charge_umbrella
-bip_39_word_underscore_4: list_charge_umbrella_dinosaur
-bip_39_word_underscore_5: list_charge_umbrella_dinosaur_possible
-bip_39_word_underscore_6: list_charge_umbrella_dinosaur_possible_jazz
-bip_39_word_underscore_7: list_charge_umbrella_dinosaur_possible_jazz_category
-bip_39_word_underscore_8: list_charge_umbrella_dinosaur_possible_jazz_category_ball
-bip_39_word_underscore_9: list_charge_umbrella_dinosaur_possible_jazz_category_ball_dog
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

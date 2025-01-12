@@ -1,68 +1,9 @@
-bip_39_word_dash_1: park
-bip_39_word_dash_10: park-horse-spare-novel-brass-slush-toast-valve-urge-skull
-bip_39_word_dash_11: park-horse-spare-novel-brass-slush-toast-valve-urge-skull-talk
 bip_39_word_dash_12: park-horse-spare-novel-brass-slush-toast-valve-urge-skull-talk-apology
 bip_39_word_dash_2: park-horse
 bip_39_word_dash_3: park-horse-spare
-bip_39_word_dash_4: park-horse-spare-novel
-bip_39_word_dash_5: park-horse-spare-novel-brass
-bip_39_word_dash_6: park-horse-spare-novel-brass-slush
-bip_39_word_dash_7: park-horse-spare-novel-brass-slush-toast
-bip_39_word_dash_8: park-horse-spare-novel-brass-slush-toast-valve
-bip_39_word_dash_9: park-horse-spare-novel-brass-slush-toast-valve-urge
-bip_39_word_new_br_1: park
-bip_39_word_new_br_10: park<br>horse<br>spare<br>novel<br>brass<br>slush<br>toast<br>valve<br>urge<br>skull
-bip_39_word_new_br_11: park<br>horse<br>spare<br>novel<br>brass<br>slush<br>toast<br>valve<br>urge<br>skull<br>talk
 bip_39_word_new_br_12: park<br>horse<br>spare<br>novel<br>brass<br>slush<br>toast<br>valve<br>urge<br>skull<br>talk<br>apology
 bip_39_word_new_br_2: park<br>horse
 bip_39_word_new_br_3: park<br>horse<br>spare
-bip_39_word_new_br_4: park<br>horse<br>spare<br>novel
-bip_39_word_new_br_5: park<br>horse<br>spare<br>novel<br>brass
-bip_39_word_new_br_6: park<br>horse<br>spare<br>novel<br>brass<br>slush
-bip_39_word_new_br_7: park<br>horse<br>spare<br>novel<br>brass<br>slush<br>toast
-bip_39_word_new_br_8: park<br>horse<br>spare<br>novel<br>brass<br>slush<br>toast<br>valve
-bip_39_word_new_br_9: park<br>horse<br>spare<br>novel<br>brass<br>slush<br>toast<br>valve<br>urge
-bip_39_word_new_line_1: park
-bip_39_word_new_line_10: 'park
-
-  horse
-
-  spare
-
-  novel
-
-  brass
-
-  slush
-
-  toast
-
-  valve
-
-  urge
-
-  skull'
-bip_39_word_new_line_11: 'park
-
-  horse
-
-  spare
-
-  novel
-
-  brass
-
-  slush
-
-  toast
-
-  valve
-
-  urge
-
-  skull
-
-  talk'
 bip_39_word_new_line_12: 'park
 
   horse
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'park
   horse
 
   spare'
-bip_39_word_new_line_4: 'park
-
-  horse
-
-  spare
-
-  novel'
-bip_39_word_new_line_5: 'park
-
-  horse
-
-  spare
-
-  novel
-
-  brass'
-bip_39_word_new_line_6: 'park
-
-  horse
-
-  spare
-
-  novel
-
-  brass
-
-  slush'
-bip_39_word_new_line_7: 'park
-
-  horse
-
-  spare
-
-  novel
-
-  brass
-
-  slush
-
-  toast'
-bip_39_word_new_line_8: 'park
-
-  horse
-
-  spare
-
-  novel
-
-  brass
-
-  slush
-
-  toast
-
-  valve'
-bip_39_word_new_line_9: 'park
-
-  horse
-
-  spare
-
-  novel
-
-  brass
-
-  slush
-
-  toast
-
-  valve
-
-  urge'
-bip_39_word_no_space_1: park
-bip_39_word_no_space_10: parkhorsesparenovelbrassslushtoastvalveurgeskull
-bip_39_word_no_space_11: parkhorsesparenovelbrassslushtoastvalveurgeskulltalk
 bip_39_word_no_space_12: parkhorsesparenovelbrassslushtoastvalveurgeskulltalkapology
 bip_39_word_no_space_2: parkhorse
 bip_39_word_no_space_3: parkhorsespare
-bip_39_word_no_space_4: parkhorsesparenovel
-bip_39_word_no_space_5: parkhorsesparenovelbrass
-bip_39_word_no_space_6: parkhorsesparenovelbrassslush
-bip_39_word_no_space_7: parkhorsesparenovelbrassslushtoast
-bip_39_word_no_space_8: parkhorsesparenovelbrassslushtoastvalve
-bip_39_word_no_space_9: parkhorsesparenovelbrassslushtoastvalveurge
-bip_39_word_space_0:
-- park
-- horse
-- spare
-- novel
-- brass
-- slush
-- toast
-- valve
-- urge
-- skull
-- talk
-- apology
-bip_39_word_space_1: park
-bip_39_word_space_10: park horse spare novel brass slush toast valve urge skull
-bip_39_word_space_11: park horse spare novel brass slush toast valve urge skull talk
 bip_39_word_space_12: park horse spare novel brass slush toast valve urge skull talk
   apology
 bip_39_word_space_2: park horse
 bip_39_word_space_3: park horse spare
-bip_39_word_space_4: park horse spare novel
-bip_39_word_space_5: park horse spare novel brass
-bip_39_word_space_6: park horse spare novel brass slush
-bip_39_word_space_7: park horse spare novel brass slush toast
-bip_39_word_space_8: park horse spare novel brass slush toast valve
-bip_39_word_space_9: park horse spare novel brass slush toast valve urge
-bip_39_word_underscore_1: park
-bip_39_word_underscore_10: park_horse_spare_novel_brass_slush_toast_valve_urge_skull
-bip_39_word_underscore_11: park_horse_spare_novel_brass_slush_toast_valve_urge_skull_talk
 bip_39_word_underscore_12: park_horse_spare_novel_brass_slush_toast_valve_urge_skull_talk_apology
 bip_39_word_underscore_2: park_horse
 bip_39_word_underscore_3: park_horse_spare
-bip_39_word_underscore_4: park_horse_spare_novel
-bip_39_word_underscore_5: park_horse_spare_novel_brass
-bip_39_word_underscore_6: park_horse_spare_novel_brass_slush
-bip_39_word_underscore_7: park_horse_spare_novel_brass_slush_toast
-bip_39_word_underscore_8: park_horse_spare_novel_brass_slush_toast_valve
-bip_39_word_underscore_9: park_horse_spare_novel_brass_slush_toast_valve_urge
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

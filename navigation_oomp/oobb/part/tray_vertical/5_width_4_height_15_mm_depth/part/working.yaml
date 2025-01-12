@@ -1,68 +1,9 @@
-bip_39_word_dash_1: state
-bip_39_word_dash_10: state-dentist-boring-kitten-voyage-mixture-exhaust-link-turn-entry
-bip_39_word_dash_11: state-dentist-boring-kitten-voyage-mixture-exhaust-link-turn-entry-town
 bip_39_word_dash_12: state-dentist-boring-kitten-voyage-mixture-exhaust-link-turn-entry-town-alpha
 bip_39_word_dash_2: state-dentist
 bip_39_word_dash_3: state-dentist-boring
-bip_39_word_dash_4: state-dentist-boring-kitten
-bip_39_word_dash_5: state-dentist-boring-kitten-voyage
-bip_39_word_dash_6: state-dentist-boring-kitten-voyage-mixture
-bip_39_word_dash_7: state-dentist-boring-kitten-voyage-mixture-exhaust
-bip_39_word_dash_8: state-dentist-boring-kitten-voyage-mixture-exhaust-link
-bip_39_word_dash_9: state-dentist-boring-kitten-voyage-mixture-exhaust-link-turn
-bip_39_word_new_br_1: state
-bip_39_word_new_br_10: state<br>dentist<br>boring<br>kitten<br>voyage<br>mixture<br>exhaust<br>link<br>turn<br>entry
-bip_39_word_new_br_11: state<br>dentist<br>boring<br>kitten<br>voyage<br>mixture<br>exhaust<br>link<br>turn<br>entry<br>town
 bip_39_word_new_br_12: state<br>dentist<br>boring<br>kitten<br>voyage<br>mixture<br>exhaust<br>link<br>turn<br>entry<br>town<br>alpha
 bip_39_word_new_br_2: state<br>dentist
 bip_39_word_new_br_3: state<br>dentist<br>boring
-bip_39_word_new_br_4: state<br>dentist<br>boring<br>kitten
-bip_39_word_new_br_5: state<br>dentist<br>boring<br>kitten<br>voyage
-bip_39_word_new_br_6: state<br>dentist<br>boring<br>kitten<br>voyage<br>mixture
-bip_39_word_new_br_7: state<br>dentist<br>boring<br>kitten<br>voyage<br>mixture<br>exhaust
-bip_39_word_new_br_8: state<br>dentist<br>boring<br>kitten<br>voyage<br>mixture<br>exhaust<br>link
-bip_39_word_new_br_9: state<br>dentist<br>boring<br>kitten<br>voyage<br>mixture<br>exhaust<br>link<br>turn
-bip_39_word_new_line_1: state
-bip_39_word_new_line_10: 'state
-
-  dentist
-
-  boring
-
-  kitten
-
-  voyage
-
-  mixture
-
-  exhaust
-
-  link
-
-  turn
-
-  entry'
-bip_39_word_new_line_11: 'state
-
-  dentist
-
-  boring
-
-  kitten
-
-  voyage
-
-  mixture
-
-  exhaust
-
-  link
-
-  turn
-
-  entry
-
-  town'
 bip_39_word_new_line_12: 'state
 
   dentist
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'state
   dentist
 
   boring'
-bip_39_word_new_line_4: 'state
-
-  dentist
-
-  boring
-
-  kitten'
-bip_39_word_new_line_5: 'state
-
-  dentist
-
-  boring
-
-  kitten
-
-  voyage'
-bip_39_word_new_line_6: 'state
-
-  dentist
-
-  boring
-
-  kitten
-
-  voyage
-
-  mixture'
-bip_39_word_new_line_7: 'state
-
-  dentist
-
-  boring
-
-  kitten
-
-  voyage
-
-  mixture
-
-  exhaust'
-bip_39_word_new_line_8: 'state
-
-  dentist
-
-  boring
-
-  kitten
-
-  voyage
-
-  mixture
-
-  exhaust
-
-  link'
-bip_39_word_new_line_9: 'state
-
-  dentist
-
-  boring
-
-  kitten
-
-  voyage
-
-  mixture
-
-  exhaust
-
-  link
-
-  turn'
-bip_39_word_no_space_1: state
-bip_39_word_no_space_10: statedentistboringkittenvoyagemixtureexhaustlinkturnentry
-bip_39_word_no_space_11: statedentistboringkittenvoyagemixtureexhaustlinkturnentrytown
 bip_39_word_no_space_12: statedentistboringkittenvoyagemixtureexhaustlinkturnentrytownalpha
 bip_39_word_no_space_2: statedentist
 bip_39_word_no_space_3: statedentistboring
-bip_39_word_no_space_4: statedentistboringkitten
-bip_39_word_no_space_5: statedentistboringkittenvoyage
-bip_39_word_no_space_6: statedentistboringkittenvoyagemixture
-bip_39_word_no_space_7: statedentistboringkittenvoyagemixtureexhaust
-bip_39_word_no_space_8: statedentistboringkittenvoyagemixtureexhaustlink
-bip_39_word_no_space_9: statedentistboringkittenvoyagemixtureexhaustlinkturn
-bip_39_word_space_0:
-- state
-- dentist
-- boring
-- kitten
-- voyage
-- mixture
-- exhaust
-- link
-- turn
-- entry
-- town
-- alpha
-bip_39_word_space_1: state
-bip_39_word_space_10: state dentist boring kitten voyage mixture exhaust link turn
-  entry
-bip_39_word_space_11: state dentist boring kitten voyage mixture exhaust link turn
-  entry town
 bip_39_word_space_12: state dentist boring kitten voyage mixture exhaust link turn
   entry town alpha
 bip_39_word_space_2: state dentist
 bip_39_word_space_3: state dentist boring
-bip_39_word_space_4: state dentist boring kitten
-bip_39_word_space_5: state dentist boring kitten voyage
-bip_39_word_space_6: state dentist boring kitten voyage mixture
-bip_39_word_space_7: state dentist boring kitten voyage mixture exhaust
-bip_39_word_space_8: state dentist boring kitten voyage mixture exhaust link
-bip_39_word_space_9: state dentist boring kitten voyage mixture exhaust link turn
-bip_39_word_underscore_1: state
-bip_39_word_underscore_10: state_dentist_boring_kitten_voyage_mixture_exhaust_link_turn_entry
-bip_39_word_underscore_11: state_dentist_boring_kitten_voyage_mixture_exhaust_link_turn_entry_town
 bip_39_word_underscore_12: state_dentist_boring_kitten_voyage_mixture_exhaust_link_turn_entry_town_alpha
 bip_39_word_underscore_2: state_dentist
 bip_39_word_underscore_3: state_dentist_boring
-bip_39_word_underscore_4: state_dentist_boring_kitten
-bip_39_word_underscore_5: state_dentist_boring_kitten_voyage
-bip_39_word_underscore_6: state_dentist_boring_kitten_voyage_mixture
-bip_39_word_underscore_7: state_dentist_boring_kitten_voyage_mixture_exhaust
-bip_39_word_underscore_8: state_dentist_boring_kitten_voyage_mixture_exhaust_link
-bip_39_word_underscore_9: state_dentist_boring_kitten_voyage_mixture_exhaust_link_turn
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

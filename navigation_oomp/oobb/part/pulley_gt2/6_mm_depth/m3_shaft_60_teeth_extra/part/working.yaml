@@ -1,68 +1,9 @@
-bip_39_word_dash_1: inmate
-bip_39_word_dash_10: inmate-absorb-silk-sad-common-away-fuel-charge-follow-bounce
-bip_39_word_dash_11: inmate-absorb-silk-sad-common-away-fuel-charge-follow-bounce-gravity
 bip_39_word_dash_12: inmate-absorb-silk-sad-common-away-fuel-charge-follow-bounce-gravity-advice
 bip_39_word_dash_2: inmate-absorb
 bip_39_word_dash_3: inmate-absorb-silk
-bip_39_word_dash_4: inmate-absorb-silk-sad
-bip_39_word_dash_5: inmate-absorb-silk-sad-common
-bip_39_word_dash_6: inmate-absorb-silk-sad-common-away
-bip_39_word_dash_7: inmate-absorb-silk-sad-common-away-fuel
-bip_39_word_dash_8: inmate-absorb-silk-sad-common-away-fuel-charge
-bip_39_word_dash_9: inmate-absorb-silk-sad-common-away-fuel-charge-follow
-bip_39_word_new_br_1: inmate
-bip_39_word_new_br_10: inmate<br>absorb<br>silk<br>sad<br>common<br>away<br>fuel<br>charge<br>follow<br>bounce
-bip_39_word_new_br_11: inmate<br>absorb<br>silk<br>sad<br>common<br>away<br>fuel<br>charge<br>follow<br>bounce<br>gravity
 bip_39_word_new_br_12: inmate<br>absorb<br>silk<br>sad<br>common<br>away<br>fuel<br>charge<br>follow<br>bounce<br>gravity<br>advice
 bip_39_word_new_br_2: inmate<br>absorb
 bip_39_word_new_br_3: inmate<br>absorb<br>silk
-bip_39_word_new_br_4: inmate<br>absorb<br>silk<br>sad
-bip_39_word_new_br_5: inmate<br>absorb<br>silk<br>sad<br>common
-bip_39_word_new_br_6: inmate<br>absorb<br>silk<br>sad<br>common<br>away
-bip_39_word_new_br_7: inmate<br>absorb<br>silk<br>sad<br>common<br>away<br>fuel
-bip_39_word_new_br_8: inmate<br>absorb<br>silk<br>sad<br>common<br>away<br>fuel<br>charge
-bip_39_word_new_br_9: inmate<br>absorb<br>silk<br>sad<br>common<br>away<br>fuel<br>charge<br>follow
-bip_39_word_new_line_1: inmate
-bip_39_word_new_line_10: 'inmate
-
-  absorb
-
-  silk
-
-  sad
-
-  common
-
-  away
-
-  fuel
-
-  charge
-
-  follow
-
-  bounce'
-bip_39_word_new_line_11: 'inmate
-
-  absorb
-
-  silk
-
-  sad
-
-  common
-
-  away
-
-  fuel
-
-  charge
-
-  follow
-
-  bounce
-
-  gravity'
 bip_39_word_new_line_12: 'inmate
 
   absorb
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'inmate
   absorb
 
   silk'
-bip_39_word_new_line_4: 'inmate
-
-  absorb
-
-  silk
-
-  sad'
-bip_39_word_new_line_5: 'inmate
-
-  absorb
-
-  silk
-
-  sad
-
-  common'
-bip_39_word_new_line_6: 'inmate
-
-  absorb
-
-  silk
-
-  sad
-
-  common
-
-  away'
-bip_39_word_new_line_7: 'inmate
-
-  absorb
-
-  silk
-
-  sad
-
-  common
-
-  away
-
-  fuel'
-bip_39_word_new_line_8: 'inmate
-
-  absorb
-
-  silk
-
-  sad
-
-  common
-
-  away
-
-  fuel
-
-  charge'
-bip_39_word_new_line_9: 'inmate
-
-  absorb
-
-  silk
-
-  sad
-
-  common
-
-  away
-
-  fuel
-
-  charge
-
-  follow'
-bip_39_word_no_space_1: inmate
-bip_39_word_no_space_10: inmateabsorbsilksadcommonawayfuelchargefollowbounce
-bip_39_word_no_space_11: inmateabsorbsilksadcommonawayfuelchargefollowbouncegravity
 bip_39_word_no_space_12: inmateabsorbsilksadcommonawayfuelchargefollowbouncegravityadvice
 bip_39_word_no_space_2: inmateabsorb
 bip_39_word_no_space_3: inmateabsorbsilk
-bip_39_word_no_space_4: inmateabsorbsilksad
-bip_39_word_no_space_5: inmateabsorbsilksadcommon
-bip_39_word_no_space_6: inmateabsorbsilksadcommonaway
-bip_39_word_no_space_7: inmateabsorbsilksadcommonawayfuel
-bip_39_word_no_space_8: inmateabsorbsilksadcommonawayfuelcharge
-bip_39_word_no_space_9: inmateabsorbsilksadcommonawayfuelchargefollow
-bip_39_word_space_0:
-- inmate
-- absorb
-- silk
-- sad
-- common
-- away
-- fuel
-- charge
-- follow
-- bounce
-- gravity
-- advice
-bip_39_word_space_1: inmate
-bip_39_word_space_10: inmate absorb silk sad common away fuel charge follow bounce
-bip_39_word_space_11: inmate absorb silk sad common away fuel charge follow bounce
-  gravity
 bip_39_word_space_12: inmate absorb silk sad common away fuel charge follow bounce
   gravity advice
 bip_39_word_space_2: inmate absorb
 bip_39_word_space_3: inmate absorb silk
-bip_39_word_space_4: inmate absorb silk sad
-bip_39_word_space_5: inmate absorb silk sad common
-bip_39_word_space_6: inmate absorb silk sad common away
-bip_39_word_space_7: inmate absorb silk sad common away fuel
-bip_39_word_space_8: inmate absorb silk sad common away fuel charge
-bip_39_word_space_9: inmate absorb silk sad common away fuel charge follow
-bip_39_word_underscore_1: inmate
-bip_39_word_underscore_10: inmate_absorb_silk_sad_common_away_fuel_charge_follow_bounce
-bip_39_word_underscore_11: inmate_absorb_silk_sad_common_away_fuel_charge_follow_bounce_gravity
 bip_39_word_underscore_12: inmate_absorb_silk_sad_common_away_fuel_charge_follow_bounce_gravity_advice
 bip_39_word_underscore_2: inmate_absorb
 bip_39_word_underscore_3: inmate_absorb_silk
-bip_39_word_underscore_4: inmate_absorb_silk_sad
-bip_39_word_underscore_5: inmate_absorb_silk_sad_common
-bip_39_word_underscore_6: inmate_absorb_silk_sad_common_away
-bip_39_word_underscore_7: inmate_absorb_silk_sad_common_away_fuel
-bip_39_word_underscore_8: inmate_absorb_silk_sad_common_away_fuel_charge
-bip_39_word_underscore_9: inmate_absorb_silk_sad_common_away_fuel_charge_follow
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

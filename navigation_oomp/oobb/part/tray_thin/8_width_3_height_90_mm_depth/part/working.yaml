@@ -1,68 +1,9 @@
-bip_39_word_dash_1: business
-bip_39_word_dash_10: business-plug-omit-summer-dream-tower-maid-struggle-safe-repair
-bip_39_word_dash_11: business-plug-omit-summer-dream-tower-maid-struggle-safe-repair-alpha
 bip_39_word_dash_12: business-plug-omit-summer-dream-tower-maid-struggle-safe-repair-alpha-alpha
 bip_39_word_dash_2: business-plug
 bip_39_word_dash_3: business-plug-omit
-bip_39_word_dash_4: business-plug-omit-summer
-bip_39_word_dash_5: business-plug-omit-summer-dream
-bip_39_word_dash_6: business-plug-omit-summer-dream-tower
-bip_39_word_dash_7: business-plug-omit-summer-dream-tower-maid
-bip_39_word_dash_8: business-plug-omit-summer-dream-tower-maid-struggle
-bip_39_word_dash_9: business-plug-omit-summer-dream-tower-maid-struggle-safe
-bip_39_word_new_br_1: business
-bip_39_word_new_br_10: business<br>plug<br>omit<br>summer<br>dream<br>tower<br>maid<br>struggle<br>safe<br>repair
-bip_39_word_new_br_11: business<br>plug<br>omit<br>summer<br>dream<br>tower<br>maid<br>struggle<br>safe<br>repair<br>alpha
 bip_39_word_new_br_12: business<br>plug<br>omit<br>summer<br>dream<br>tower<br>maid<br>struggle<br>safe<br>repair<br>alpha<br>alpha
 bip_39_word_new_br_2: business<br>plug
 bip_39_word_new_br_3: business<br>plug<br>omit
-bip_39_word_new_br_4: business<br>plug<br>omit<br>summer
-bip_39_word_new_br_5: business<br>plug<br>omit<br>summer<br>dream
-bip_39_word_new_br_6: business<br>plug<br>omit<br>summer<br>dream<br>tower
-bip_39_word_new_br_7: business<br>plug<br>omit<br>summer<br>dream<br>tower<br>maid
-bip_39_word_new_br_8: business<br>plug<br>omit<br>summer<br>dream<br>tower<br>maid<br>struggle
-bip_39_word_new_br_9: business<br>plug<br>omit<br>summer<br>dream<br>tower<br>maid<br>struggle<br>safe
-bip_39_word_new_line_1: business
-bip_39_word_new_line_10: 'business
-
-  plug
-
-  omit
-
-  summer
-
-  dream
-
-  tower
-
-  maid
-
-  struggle
-
-  safe
-
-  repair'
-bip_39_word_new_line_11: 'business
-
-  plug
-
-  omit
-
-  summer
-
-  dream
-
-  tower
-
-  maid
-
-  struggle
-
-  safe
-
-  repair
-
-  alpha'
 bip_39_word_new_line_12: 'business
 
   plug
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'business
   plug
 
   omit'
-bip_39_word_new_line_4: 'business
-
-  plug
-
-  omit
-
-  summer'
-bip_39_word_new_line_5: 'business
-
-  plug
-
-  omit
-
-  summer
-
-  dream'
-bip_39_word_new_line_6: 'business
-
-  plug
-
-  omit
-
-  summer
-
-  dream
-
-  tower'
-bip_39_word_new_line_7: 'business
-
-  plug
-
-  omit
-
-  summer
-
-  dream
-
-  tower
-
-  maid'
-bip_39_word_new_line_8: 'business
-
-  plug
-
-  omit
-
-  summer
-
-  dream
-
-  tower
-
-  maid
-
-  struggle'
-bip_39_word_new_line_9: 'business
-
-  plug
-
-  omit
-
-  summer
-
-  dream
-
-  tower
-
-  maid
-
-  struggle
-
-  safe'
-bip_39_word_no_space_1: business
-bip_39_word_no_space_10: businessplugomitsummerdreamtowermaidstrugglesaferepair
-bip_39_word_no_space_11: businessplugomitsummerdreamtowermaidstrugglesaferepairalpha
 bip_39_word_no_space_12: businessplugomitsummerdreamtowermaidstrugglesaferepairalphaalpha
 bip_39_word_no_space_2: businessplug
 bip_39_word_no_space_3: businessplugomit
-bip_39_word_no_space_4: businessplugomitsummer
-bip_39_word_no_space_5: businessplugomitsummerdream
-bip_39_word_no_space_6: businessplugomitsummerdreamtower
-bip_39_word_no_space_7: businessplugomitsummerdreamtowermaid
-bip_39_word_no_space_8: businessplugomitsummerdreamtowermaidstruggle
-bip_39_word_no_space_9: businessplugomitsummerdreamtowermaidstrugglesafe
-bip_39_word_space_0:
-- business
-- plug
-- omit
-- summer
-- dream
-- tower
-- maid
-- struggle
-- safe
-- repair
-- alpha
-- alpha
-bip_39_word_space_1: business
-bip_39_word_space_10: business plug omit summer dream tower maid struggle safe repair
-bip_39_word_space_11: business plug omit summer dream tower maid struggle safe repair
-  alpha
 bip_39_word_space_12: business plug omit summer dream tower maid struggle safe repair
   alpha alpha
 bip_39_word_space_2: business plug
 bip_39_word_space_3: business plug omit
-bip_39_word_space_4: business plug omit summer
-bip_39_word_space_5: business plug omit summer dream
-bip_39_word_space_6: business plug omit summer dream tower
-bip_39_word_space_7: business plug omit summer dream tower maid
-bip_39_word_space_8: business plug omit summer dream tower maid struggle
-bip_39_word_space_9: business plug omit summer dream tower maid struggle safe
-bip_39_word_underscore_1: business
-bip_39_word_underscore_10: business_plug_omit_summer_dream_tower_maid_struggle_safe_repair
-bip_39_word_underscore_11: business_plug_omit_summer_dream_tower_maid_struggle_safe_repair_alpha
 bip_39_word_underscore_12: business_plug_omit_summer_dream_tower_maid_struggle_safe_repair_alpha_alpha
 bip_39_word_underscore_2: business_plug
 bip_39_word_underscore_3: business_plug_omit
-bip_39_word_underscore_4: business_plug_omit_summer
-bip_39_word_underscore_5: business_plug_omit_summer_dream
-bip_39_word_underscore_6: business_plug_omit_summer_dream_tower
-bip_39_word_underscore_7: business_plug_omit_summer_dream_tower_maid
-bip_39_word_underscore_8: business_plug_omit_summer_dream_tower_maid_struggle
-bip_39_word_underscore_9: business_plug_omit_summer_dream_tower_maid_struggle_safe
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

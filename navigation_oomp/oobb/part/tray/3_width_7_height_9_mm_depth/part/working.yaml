@@ -1,68 +1,9 @@
-bip_39_word_dash_1: solid
-bip_39_word_dash_10: solid-fortune-patch-favorite-once-recall-whale-office-coffee-assist
-bip_39_word_dash_11: solid-fortune-patch-favorite-once-recall-whale-office-coffee-assist-mistake
 bip_39_word_dash_12: solid-fortune-patch-favorite-once-recall-whale-office-coffee-assist-mistake-affair
 bip_39_word_dash_2: solid-fortune
 bip_39_word_dash_3: solid-fortune-patch
-bip_39_word_dash_4: solid-fortune-patch-favorite
-bip_39_word_dash_5: solid-fortune-patch-favorite-once
-bip_39_word_dash_6: solid-fortune-patch-favorite-once-recall
-bip_39_word_dash_7: solid-fortune-patch-favorite-once-recall-whale
-bip_39_word_dash_8: solid-fortune-patch-favorite-once-recall-whale-office
-bip_39_word_dash_9: solid-fortune-patch-favorite-once-recall-whale-office-coffee
-bip_39_word_new_br_1: solid
-bip_39_word_new_br_10: solid<br>fortune<br>patch<br>favorite<br>once<br>recall<br>whale<br>office<br>coffee<br>assist
-bip_39_word_new_br_11: solid<br>fortune<br>patch<br>favorite<br>once<br>recall<br>whale<br>office<br>coffee<br>assist<br>mistake
 bip_39_word_new_br_12: solid<br>fortune<br>patch<br>favorite<br>once<br>recall<br>whale<br>office<br>coffee<br>assist<br>mistake<br>affair
 bip_39_word_new_br_2: solid<br>fortune
 bip_39_word_new_br_3: solid<br>fortune<br>patch
-bip_39_word_new_br_4: solid<br>fortune<br>patch<br>favorite
-bip_39_word_new_br_5: solid<br>fortune<br>patch<br>favorite<br>once
-bip_39_word_new_br_6: solid<br>fortune<br>patch<br>favorite<br>once<br>recall
-bip_39_word_new_br_7: solid<br>fortune<br>patch<br>favorite<br>once<br>recall<br>whale
-bip_39_word_new_br_8: solid<br>fortune<br>patch<br>favorite<br>once<br>recall<br>whale<br>office
-bip_39_word_new_br_9: solid<br>fortune<br>patch<br>favorite<br>once<br>recall<br>whale<br>office<br>coffee
-bip_39_word_new_line_1: solid
-bip_39_word_new_line_10: 'solid
-
-  fortune
-
-  patch
-
-  favorite
-
-  once
-
-  recall
-
-  whale
-
-  office
-
-  coffee
-
-  assist'
-bip_39_word_new_line_11: 'solid
-
-  fortune
-
-  patch
-
-  favorite
-
-  once
-
-  recall
-
-  whale
-
-  office
-
-  coffee
-
-  assist
-
-  mistake'
 bip_39_word_new_line_12: 'solid
 
   fortune
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'solid
   fortune
 
   patch'
-bip_39_word_new_line_4: 'solid
-
-  fortune
-
-  patch
-
-  favorite'
-bip_39_word_new_line_5: 'solid
-
-  fortune
-
-  patch
-
-  favorite
-
-  once'
-bip_39_word_new_line_6: 'solid
-
-  fortune
-
-  patch
-
-  favorite
-
-  once
-
-  recall'
-bip_39_word_new_line_7: 'solid
-
-  fortune
-
-  patch
-
-  favorite
-
-  once
-
-  recall
-
-  whale'
-bip_39_word_new_line_8: 'solid
-
-  fortune
-
-  patch
-
-  favorite
-
-  once
-
-  recall
-
-  whale
-
-  office'
-bip_39_word_new_line_9: 'solid
-
-  fortune
-
-  patch
-
-  favorite
-
-  once
-
-  recall
-
-  whale
-
-  office
-
-  coffee'
-bip_39_word_no_space_1: solid
-bip_39_word_no_space_10: solidfortunepatchfavoriteoncerecallwhaleofficecoffeeassist
-bip_39_word_no_space_11: solidfortunepatchfavoriteoncerecallwhaleofficecoffeeassistmistake
 bip_39_word_no_space_12: solidfortunepatchfavoriteoncerecallwhaleofficecoffeeassistmistakeaffair
 bip_39_word_no_space_2: solidfortune
 bip_39_word_no_space_3: solidfortunepatch
-bip_39_word_no_space_4: solidfortunepatchfavorite
-bip_39_word_no_space_5: solidfortunepatchfavoriteonce
-bip_39_word_no_space_6: solidfortunepatchfavoriteoncerecall
-bip_39_word_no_space_7: solidfortunepatchfavoriteoncerecallwhale
-bip_39_word_no_space_8: solidfortunepatchfavoriteoncerecallwhaleoffice
-bip_39_word_no_space_9: solidfortunepatchfavoriteoncerecallwhaleofficecoffee
-bip_39_word_space_0:
-- solid
-- fortune
-- patch
-- favorite
-- once
-- recall
-- whale
-- office
-- coffee
-- assist
-- mistake
-- affair
-bip_39_word_space_1: solid
-bip_39_word_space_10: solid fortune patch favorite once recall whale office coffee
-  assist
-bip_39_word_space_11: solid fortune patch favorite once recall whale office coffee
-  assist mistake
 bip_39_word_space_12: solid fortune patch favorite once recall whale office coffee
   assist mistake affair
 bip_39_word_space_2: solid fortune
 bip_39_word_space_3: solid fortune patch
-bip_39_word_space_4: solid fortune patch favorite
-bip_39_word_space_5: solid fortune patch favorite once
-bip_39_word_space_6: solid fortune patch favorite once recall
-bip_39_word_space_7: solid fortune patch favorite once recall whale
-bip_39_word_space_8: solid fortune patch favorite once recall whale office
-bip_39_word_space_9: solid fortune patch favorite once recall whale office coffee
-bip_39_word_underscore_1: solid
-bip_39_word_underscore_10: solid_fortune_patch_favorite_once_recall_whale_office_coffee_assist
-bip_39_word_underscore_11: solid_fortune_patch_favorite_once_recall_whale_office_coffee_assist_mistake
 bip_39_word_underscore_12: solid_fortune_patch_favorite_once_recall_whale_office_coffee_assist_mistake_affair
 bip_39_word_underscore_2: solid_fortune
 bip_39_word_underscore_3: solid_fortune_patch
-bip_39_word_underscore_4: solid_fortune_patch_favorite
-bip_39_word_underscore_5: solid_fortune_patch_favorite_once
-bip_39_word_underscore_6: solid_fortune_patch_favorite_once_recall
-bip_39_word_underscore_7: solid_fortune_patch_favorite_once_recall_whale
-bip_39_word_underscore_8: solid_fortune_patch_favorite_once_recall_whale_office
-bip_39_word_underscore_9: solid_fortune_patch_favorite_once_recall_whale_office_coffee
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

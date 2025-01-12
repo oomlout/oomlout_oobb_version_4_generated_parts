@@ -1,68 +1,9 @@
-bip_39_word_dash_1: grass
-bip_39_word_dash_10: grass-flock-fatigue-orbit-shuffle-final-crack-opinion-divorce-proof
-bip_39_word_dash_11: grass-flock-fatigue-orbit-shuffle-final-crack-opinion-divorce-proof-near
 bip_39_word_dash_12: grass-flock-fatigue-orbit-shuffle-final-crack-opinion-divorce-proof-near-any
 bip_39_word_dash_2: grass-flock
 bip_39_word_dash_3: grass-flock-fatigue
-bip_39_word_dash_4: grass-flock-fatigue-orbit
-bip_39_word_dash_5: grass-flock-fatigue-orbit-shuffle
-bip_39_word_dash_6: grass-flock-fatigue-orbit-shuffle-final
-bip_39_word_dash_7: grass-flock-fatigue-orbit-shuffle-final-crack
-bip_39_word_dash_8: grass-flock-fatigue-orbit-shuffle-final-crack-opinion
-bip_39_word_dash_9: grass-flock-fatigue-orbit-shuffle-final-crack-opinion-divorce
-bip_39_word_new_br_1: grass
-bip_39_word_new_br_10: grass<br>flock<br>fatigue<br>orbit<br>shuffle<br>final<br>crack<br>opinion<br>divorce<br>proof
-bip_39_word_new_br_11: grass<br>flock<br>fatigue<br>orbit<br>shuffle<br>final<br>crack<br>opinion<br>divorce<br>proof<br>near
 bip_39_word_new_br_12: grass<br>flock<br>fatigue<br>orbit<br>shuffle<br>final<br>crack<br>opinion<br>divorce<br>proof<br>near<br>any
 bip_39_word_new_br_2: grass<br>flock
 bip_39_word_new_br_3: grass<br>flock<br>fatigue
-bip_39_word_new_br_4: grass<br>flock<br>fatigue<br>orbit
-bip_39_word_new_br_5: grass<br>flock<br>fatigue<br>orbit<br>shuffle
-bip_39_word_new_br_6: grass<br>flock<br>fatigue<br>orbit<br>shuffle<br>final
-bip_39_word_new_br_7: grass<br>flock<br>fatigue<br>orbit<br>shuffle<br>final<br>crack
-bip_39_word_new_br_8: grass<br>flock<br>fatigue<br>orbit<br>shuffle<br>final<br>crack<br>opinion
-bip_39_word_new_br_9: grass<br>flock<br>fatigue<br>orbit<br>shuffle<br>final<br>crack<br>opinion<br>divorce
-bip_39_word_new_line_1: grass
-bip_39_word_new_line_10: 'grass
-
-  flock
-
-  fatigue
-
-  orbit
-
-  shuffle
-
-  final
-
-  crack
-
-  opinion
-
-  divorce
-
-  proof'
-bip_39_word_new_line_11: 'grass
-
-  flock
-
-  fatigue
-
-  orbit
-
-  shuffle
-
-  final
-
-  crack
-
-  opinion
-
-  divorce
-
-  proof
-
-  near'
 bip_39_word_new_line_12: 'grass
 
   flock
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'grass
   flock
 
   fatigue'
-bip_39_word_new_line_4: 'grass
-
-  flock
-
-  fatigue
-
-  orbit'
-bip_39_word_new_line_5: 'grass
-
-  flock
-
-  fatigue
-
-  orbit
-
-  shuffle'
-bip_39_word_new_line_6: 'grass
-
-  flock
-
-  fatigue
-
-  orbit
-
-  shuffle
-
-  final'
-bip_39_word_new_line_7: 'grass
-
-  flock
-
-  fatigue
-
-  orbit
-
-  shuffle
-
-  final
-
-  crack'
-bip_39_word_new_line_8: 'grass
-
-  flock
-
-  fatigue
-
-  orbit
-
-  shuffle
-
-  final
-
-  crack
-
-  opinion'
-bip_39_word_new_line_9: 'grass
-
-  flock
-
-  fatigue
-
-  orbit
-
-  shuffle
-
-  final
-
-  crack
-
-  opinion
-
-  divorce'
-bip_39_word_no_space_1: grass
-bip_39_word_no_space_10: grassflockfatigueorbitshufflefinalcrackopiniondivorceproof
-bip_39_word_no_space_11: grassflockfatigueorbitshufflefinalcrackopiniondivorceproofnear
 bip_39_word_no_space_12: grassflockfatigueorbitshufflefinalcrackopiniondivorceproofnearany
 bip_39_word_no_space_2: grassflock
 bip_39_word_no_space_3: grassflockfatigue
-bip_39_word_no_space_4: grassflockfatigueorbit
-bip_39_word_no_space_5: grassflockfatigueorbitshuffle
-bip_39_word_no_space_6: grassflockfatigueorbitshufflefinal
-bip_39_word_no_space_7: grassflockfatigueorbitshufflefinalcrack
-bip_39_word_no_space_8: grassflockfatigueorbitshufflefinalcrackopinion
-bip_39_word_no_space_9: grassflockfatigueorbitshufflefinalcrackopiniondivorce
-bip_39_word_space_0:
-- grass
-- flock
-- fatigue
-- orbit
-- shuffle
-- final
-- crack
-- opinion
-- divorce
-- proof
-- near
-- any
-bip_39_word_space_1: grass
-bip_39_word_space_10: grass flock fatigue orbit shuffle final crack opinion divorce
-  proof
-bip_39_word_space_11: grass flock fatigue orbit shuffle final crack opinion divorce
-  proof near
 bip_39_word_space_12: grass flock fatigue orbit shuffle final crack opinion divorce
   proof near any
 bip_39_word_space_2: grass flock
 bip_39_word_space_3: grass flock fatigue
-bip_39_word_space_4: grass flock fatigue orbit
-bip_39_word_space_5: grass flock fatigue orbit shuffle
-bip_39_word_space_6: grass flock fatigue orbit shuffle final
-bip_39_word_space_7: grass flock fatigue orbit shuffle final crack
-bip_39_word_space_8: grass flock fatigue orbit shuffle final crack opinion
-bip_39_word_space_9: grass flock fatigue orbit shuffle final crack opinion divorce
-bip_39_word_underscore_1: grass
-bip_39_word_underscore_10: grass_flock_fatigue_orbit_shuffle_final_crack_opinion_divorce_proof
-bip_39_word_underscore_11: grass_flock_fatigue_orbit_shuffle_final_crack_opinion_divorce_proof_near
 bip_39_word_underscore_12: grass_flock_fatigue_orbit_shuffle_final_crack_opinion_divorce_proof_near_any
 bip_39_word_underscore_2: grass_flock
 bip_39_word_underscore_3: grass_flock_fatigue
-bip_39_word_underscore_4: grass_flock_fatigue_orbit
-bip_39_word_underscore_5: grass_flock_fatigue_orbit_shuffle
-bip_39_word_underscore_6: grass_flock_fatigue_orbit_shuffle_final
-bip_39_word_underscore_7: grass_flock_fatigue_orbit_shuffle_final_crack
-bip_39_word_underscore_8: grass_flock_fatigue_orbit_shuffle_final_crack_opinion
-bip_39_word_underscore_9: grass_flock_fatigue_orbit_shuffle_final_crack_opinion_divorce
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

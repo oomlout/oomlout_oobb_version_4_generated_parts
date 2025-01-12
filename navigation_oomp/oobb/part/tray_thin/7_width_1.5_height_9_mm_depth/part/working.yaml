@@ -1,68 +1,9 @@
-bip_39_word_dash_1: pattern
-bip_39_word_dash_10: pattern-lemon-cannon-secret-earth-book-dentist-quarter-judge-large
-bip_39_word_dash_11: pattern-lemon-cannon-secret-earth-book-dentist-quarter-judge-large-horse
 bip_39_word_dash_12: pattern-lemon-cannon-secret-earth-book-dentist-quarter-judge-large-horse-area
 bip_39_word_dash_2: pattern-lemon
 bip_39_word_dash_3: pattern-lemon-cannon
-bip_39_word_dash_4: pattern-lemon-cannon-secret
-bip_39_word_dash_5: pattern-lemon-cannon-secret-earth
-bip_39_word_dash_6: pattern-lemon-cannon-secret-earth-book
-bip_39_word_dash_7: pattern-lemon-cannon-secret-earth-book-dentist
-bip_39_word_dash_8: pattern-lemon-cannon-secret-earth-book-dentist-quarter
-bip_39_word_dash_9: pattern-lemon-cannon-secret-earth-book-dentist-quarter-judge
-bip_39_word_new_br_1: pattern
-bip_39_word_new_br_10: pattern<br>lemon<br>cannon<br>secret<br>earth<br>book<br>dentist<br>quarter<br>judge<br>large
-bip_39_word_new_br_11: pattern<br>lemon<br>cannon<br>secret<br>earth<br>book<br>dentist<br>quarter<br>judge<br>large<br>horse
 bip_39_word_new_br_12: pattern<br>lemon<br>cannon<br>secret<br>earth<br>book<br>dentist<br>quarter<br>judge<br>large<br>horse<br>area
 bip_39_word_new_br_2: pattern<br>lemon
 bip_39_word_new_br_3: pattern<br>lemon<br>cannon
-bip_39_word_new_br_4: pattern<br>lemon<br>cannon<br>secret
-bip_39_word_new_br_5: pattern<br>lemon<br>cannon<br>secret<br>earth
-bip_39_word_new_br_6: pattern<br>lemon<br>cannon<br>secret<br>earth<br>book
-bip_39_word_new_br_7: pattern<br>lemon<br>cannon<br>secret<br>earth<br>book<br>dentist
-bip_39_word_new_br_8: pattern<br>lemon<br>cannon<br>secret<br>earth<br>book<br>dentist<br>quarter
-bip_39_word_new_br_9: pattern<br>lemon<br>cannon<br>secret<br>earth<br>book<br>dentist<br>quarter<br>judge
-bip_39_word_new_line_1: pattern
-bip_39_word_new_line_10: 'pattern
-
-  lemon
-
-  cannon
-
-  secret
-
-  earth
-
-  book
-
-  dentist
-
-  quarter
-
-  judge
-
-  large'
-bip_39_word_new_line_11: 'pattern
-
-  lemon
-
-  cannon
-
-  secret
-
-  earth
-
-  book
-
-  dentist
-
-  quarter
-
-  judge
-
-  large
-
-  horse'
 bip_39_word_new_line_12: 'pattern
 
   lemon
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'pattern
   lemon
 
   cannon'
-bip_39_word_new_line_4: 'pattern
-
-  lemon
-
-  cannon
-
-  secret'
-bip_39_word_new_line_5: 'pattern
-
-  lemon
-
-  cannon
-
-  secret
-
-  earth'
-bip_39_word_new_line_6: 'pattern
-
-  lemon
-
-  cannon
-
-  secret
-
-  earth
-
-  book'
-bip_39_word_new_line_7: 'pattern
-
-  lemon
-
-  cannon
-
-  secret
-
-  earth
-
-  book
-
-  dentist'
-bip_39_word_new_line_8: 'pattern
-
-  lemon
-
-  cannon
-
-  secret
-
-  earth
-
-  book
-
-  dentist
-
-  quarter'
-bip_39_word_new_line_9: 'pattern
-
-  lemon
-
-  cannon
-
-  secret
-
-  earth
-
-  book
-
-  dentist
-
-  quarter
-
-  judge'
-bip_39_word_no_space_1: pattern
-bip_39_word_no_space_10: patternlemoncannonsecretearthbookdentistquarterjudgelarge
-bip_39_word_no_space_11: patternlemoncannonsecretearthbookdentistquarterjudgelargehorse
 bip_39_word_no_space_12: patternlemoncannonsecretearthbookdentistquarterjudgelargehorsearea
 bip_39_word_no_space_2: patternlemon
 bip_39_word_no_space_3: patternlemoncannon
-bip_39_word_no_space_4: patternlemoncannonsecret
-bip_39_word_no_space_5: patternlemoncannonsecretearth
-bip_39_word_no_space_6: patternlemoncannonsecretearthbook
-bip_39_word_no_space_7: patternlemoncannonsecretearthbookdentist
-bip_39_word_no_space_8: patternlemoncannonsecretearthbookdentistquarter
-bip_39_word_no_space_9: patternlemoncannonsecretearthbookdentistquarterjudge
-bip_39_word_space_0:
-- pattern
-- lemon
-- cannon
-- secret
-- earth
-- book
-- dentist
-- quarter
-- judge
-- large
-- horse
-- area
-bip_39_word_space_1: pattern
-bip_39_word_space_10: pattern lemon cannon secret earth book dentist quarter judge
-  large
-bip_39_word_space_11: pattern lemon cannon secret earth book dentist quarter judge
-  large horse
 bip_39_word_space_12: pattern lemon cannon secret earth book dentist quarter judge
   large horse area
 bip_39_word_space_2: pattern lemon
 bip_39_word_space_3: pattern lemon cannon
-bip_39_word_space_4: pattern lemon cannon secret
-bip_39_word_space_5: pattern lemon cannon secret earth
-bip_39_word_space_6: pattern lemon cannon secret earth book
-bip_39_word_space_7: pattern lemon cannon secret earth book dentist
-bip_39_word_space_8: pattern lemon cannon secret earth book dentist quarter
-bip_39_word_space_9: pattern lemon cannon secret earth book dentist quarter judge
-bip_39_word_underscore_1: pattern
-bip_39_word_underscore_10: pattern_lemon_cannon_secret_earth_book_dentist_quarter_judge_large
-bip_39_word_underscore_11: pattern_lemon_cannon_secret_earth_book_dentist_quarter_judge_large_horse
 bip_39_word_underscore_12: pattern_lemon_cannon_secret_earth_book_dentist_quarter_judge_large_horse_area
 bip_39_word_underscore_2: pattern_lemon
 bip_39_word_underscore_3: pattern_lemon_cannon
-bip_39_word_underscore_4: pattern_lemon_cannon_secret
-bip_39_word_underscore_5: pattern_lemon_cannon_secret_earth
-bip_39_word_underscore_6: pattern_lemon_cannon_secret_earth_book
-bip_39_word_underscore_7: pattern_lemon_cannon_secret_earth_book_dentist
-bip_39_word_underscore_8: pattern_lemon_cannon_secret_earth_book_dentist_quarter
-bip_39_word_underscore_9: pattern_lemon_cannon_secret_earth_book_dentist_quarter_judge
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

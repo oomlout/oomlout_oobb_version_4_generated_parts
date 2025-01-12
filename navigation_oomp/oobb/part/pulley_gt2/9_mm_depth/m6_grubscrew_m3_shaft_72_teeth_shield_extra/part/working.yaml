@@ -1,68 +1,9 @@
-bip_39_word_dash_1: meat
-bip_39_word_dash_10: meat-cross-patch-regret-indoor-tower-liar-stay-gate-budget
-bip_39_word_dash_11: meat-cross-patch-regret-indoor-tower-liar-stay-gate-budget-pigeon
 bip_39_word_dash_12: meat-cross-patch-regret-indoor-tower-liar-stay-gate-budget-pigeon-anchor
 bip_39_word_dash_2: meat-cross
 bip_39_word_dash_3: meat-cross-patch
-bip_39_word_dash_4: meat-cross-patch-regret
-bip_39_word_dash_5: meat-cross-patch-regret-indoor
-bip_39_word_dash_6: meat-cross-patch-regret-indoor-tower
-bip_39_word_dash_7: meat-cross-patch-regret-indoor-tower-liar
-bip_39_word_dash_8: meat-cross-patch-regret-indoor-tower-liar-stay
-bip_39_word_dash_9: meat-cross-patch-regret-indoor-tower-liar-stay-gate
-bip_39_word_new_br_1: meat
-bip_39_word_new_br_10: meat<br>cross<br>patch<br>regret<br>indoor<br>tower<br>liar<br>stay<br>gate<br>budget
-bip_39_word_new_br_11: meat<br>cross<br>patch<br>regret<br>indoor<br>tower<br>liar<br>stay<br>gate<br>budget<br>pigeon
 bip_39_word_new_br_12: meat<br>cross<br>patch<br>regret<br>indoor<br>tower<br>liar<br>stay<br>gate<br>budget<br>pigeon<br>anchor
 bip_39_word_new_br_2: meat<br>cross
 bip_39_word_new_br_3: meat<br>cross<br>patch
-bip_39_word_new_br_4: meat<br>cross<br>patch<br>regret
-bip_39_word_new_br_5: meat<br>cross<br>patch<br>regret<br>indoor
-bip_39_word_new_br_6: meat<br>cross<br>patch<br>regret<br>indoor<br>tower
-bip_39_word_new_br_7: meat<br>cross<br>patch<br>regret<br>indoor<br>tower<br>liar
-bip_39_word_new_br_8: meat<br>cross<br>patch<br>regret<br>indoor<br>tower<br>liar<br>stay
-bip_39_word_new_br_9: meat<br>cross<br>patch<br>regret<br>indoor<br>tower<br>liar<br>stay<br>gate
-bip_39_word_new_line_1: meat
-bip_39_word_new_line_10: 'meat
-
-  cross
-
-  patch
-
-  regret
-
-  indoor
-
-  tower
-
-  liar
-
-  stay
-
-  gate
-
-  budget'
-bip_39_word_new_line_11: 'meat
-
-  cross
-
-  patch
-
-  regret
-
-  indoor
-
-  tower
-
-  liar
-
-  stay
-
-  gate
-
-  budget
-
-  pigeon'
 bip_39_word_new_line_12: 'meat
 
   cross
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'meat
   cross
 
   patch'
-bip_39_word_new_line_4: 'meat
-
-  cross
-
-  patch
-
-  regret'
-bip_39_word_new_line_5: 'meat
-
-  cross
-
-  patch
-
-  regret
-
-  indoor'
-bip_39_word_new_line_6: 'meat
-
-  cross
-
-  patch
-
-  regret
-
-  indoor
-
-  tower'
-bip_39_word_new_line_7: 'meat
-
-  cross
-
-  patch
-
-  regret
-
-  indoor
-
-  tower
-
-  liar'
-bip_39_word_new_line_8: 'meat
-
-  cross
-
-  patch
-
-  regret
-
-  indoor
-
-  tower
-
-  liar
-
-  stay'
-bip_39_word_new_line_9: 'meat
-
-  cross
-
-  patch
-
-  regret
-
-  indoor
-
-  tower
-
-  liar
-
-  stay
-
-  gate'
-bip_39_word_no_space_1: meat
-bip_39_word_no_space_10: meatcrosspatchregretindoortowerliarstaygatebudget
-bip_39_word_no_space_11: meatcrosspatchregretindoortowerliarstaygatebudgetpigeon
 bip_39_word_no_space_12: meatcrosspatchregretindoortowerliarstaygatebudgetpigeonanchor
 bip_39_word_no_space_2: meatcross
 bip_39_word_no_space_3: meatcrosspatch
-bip_39_word_no_space_4: meatcrosspatchregret
-bip_39_word_no_space_5: meatcrosspatchregretindoor
-bip_39_word_no_space_6: meatcrosspatchregretindoortower
-bip_39_word_no_space_7: meatcrosspatchregretindoortowerliar
-bip_39_word_no_space_8: meatcrosspatchregretindoortowerliarstay
-bip_39_word_no_space_9: meatcrosspatchregretindoortowerliarstaygate
-bip_39_word_space_0:
-- meat
-- cross
-- patch
-- regret
-- indoor
-- tower
-- liar
-- stay
-- gate
-- budget
-- pigeon
-- anchor
-bip_39_word_space_1: meat
-bip_39_word_space_10: meat cross patch regret indoor tower liar stay gate budget
-bip_39_word_space_11: meat cross patch regret indoor tower liar stay gate budget pigeon
 bip_39_word_space_12: meat cross patch regret indoor tower liar stay gate budget pigeon
   anchor
 bip_39_word_space_2: meat cross
 bip_39_word_space_3: meat cross patch
-bip_39_word_space_4: meat cross patch regret
-bip_39_word_space_5: meat cross patch regret indoor
-bip_39_word_space_6: meat cross patch regret indoor tower
-bip_39_word_space_7: meat cross patch regret indoor tower liar
-bip_39_word_space_8: meat cross patch regret indoor tower liar stay
-bip_39_word_space_9: meat cross patch regret indoor tower liar stay gate
-bip_39_word_underscore_1: meat
-bip_39_word_underscore_10: meat_cross_patch_regret_indoor_tower_liar_stay_gate_budget
-bip_39_word_underscore_11: meat_cross_patch_regret_indoor_tower_liar_stay_gate_budget_pigeon
 bip_39_word_underscore_12: meat_cross_patch_regret_indoor_tower_liar_stay_gate_budget_pigeon_anchor
 bip_39_word_underscore_2: meat_cross
 bip_39_word_underscore_3: meat_cross_patch
-bip_39_word_underscore_4: meat_cross_patch_regret
-bip_39_word_underscore_5: meat_cross_patch_regret_indoor
-bip_39_word_underscore_6: meat_cross_patch_regret_indoor_tower
-bip_39_word_underscore_7: meat_cross_patch_regret_indoor_tower_liar
-bip_39_word_underscore_8: meat_cross_patch_regret_indoor_tower_liar_stay
-bip_39_word_underscore_9: meat_cross_patch_regret_indoor_tower_liar_stay_gate
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

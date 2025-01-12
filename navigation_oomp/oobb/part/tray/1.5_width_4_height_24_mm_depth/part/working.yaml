@@ -1,68 +1,9 @@
-bip_39_word_dash_1: gravity
-bip_39_word_dash_10: gravity-sand-pioneer-situate-they-frozen-carry-vital-success-axis
-bip_39_word_dash_11: gravity-sand-pioneer-situate-they-frozen-carry-vital-success-axis-banana
 bip_39_word_dash_12: gravity-sand-pioneer-situate-they-frozen-carry-vital-success-axis-banana-antique
 bip_39_word_dash_2: gravity-sand
 bip_39_word_dash_3: gravity-sand-pioneer
-bip_39_word_dash_4: gravity-sand-pioneer-situate
-bip_39_word_dash_5: gravity-sand-pioneer-situate-they
-bip_39_word_dash_6: gravity-sand-pioneer-situate-they-frozen
-bip_39_word_dash_7: gravity-sand-pioneer-situate-they-frozen-carry
-bip_39_word_dash_8: gravity-sand-pioneer-situate-they-frozen-carry-vital
-bip_39_word_dash_9: gravity-sand-pioneer-situate-they-frozen-carry-vital-success
-bip_39_word_new_br_1: gravity
-bip_39_word_new_br_10: gravity<br>sand<br>pioneer<br>situate<br>they<br>frozen<br>carry<br>vital<br>success<br>axis
-bip_39_word_new_br_11: gravity<br>sand<br>pioneer<br>situate<br>they<br>frozen<br>carry<br>vital<br>success<br>axis<br>banana
 bip_39_word_new_br_12: gravity<br>sand<br>pioneer<br>situate<br>they<br>frozen<br>carry<br>vital<br>success<br>axis<br>banana<br>antique
 bip_39_word_new_br_2: gravity<br>sand
 bip_39_word_new_br_3: gravity<br>sand<br>pioneer
-bip_39_word_new_br_4: gravity<br>sand<br>pioneer<br>situate
-bip_39_word_new_br_5: gravity<br>sand<br>pioneer<br>situate<br>they
-bip_39_word_new_br_6: gravity<br>sand<br>pioneer<br>situate<br>they<br>frozen
-bip_39_word_new_br_7: gravity<br>sand<br>pioneer<br>situate<br>they<br>frozen<br>carry
-bip_39_word_new_br_8: gravity<br>sand<br>pioneer<br>situate<br>they<br>frozen<br>carry<br>vital
-bip_39_word_new_br_9: gravity<br>sand<br>pioneer<br>situate<br>they<br>frozen<br>carry<br>vital<br>success
-bip_39_word_new_line_1: gravity
-bip_39_word_new_line_10: 'gravity
-
-  sand
-
-  pioneer
-
-  situate
-
-  they
-
-  frozen
-
-  carry
-
-  vital
-
-  success
-
-  axis'
-bip_39_word_new_line_11: 'gravity
-
-  sand
-
-  pioneer
-
-  situate
-
-  they
-
-  frozen
-
-  carry
-
-  vital
-
-  success
-
-  axis
-
-  banana'
 bip_39_word_new_line_12: 'gravity
 
   sand
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'gravity
   sand
 
   pioneer'
-bip_39_word_new_line_4: 'gravity
-
-  sand
-
-  pioneer
-
-  situate'
-bip_39_word_new_line_5: 'gravity
-
-  sand
-
-  pioneer
-
-  situate
-
-  they'
-bip_39_word_new_line_6: 'gravity
-
-  sand
-
-  pioneer
-
-  situate
-
-  they
-
-  frozen'
-bip_39_word_new_line_7: 'gravity
-
-  sand
-
-  pioneer
-
-  situate
-
-  they
-
-  frozen
-
-  carry'
-bip_39_word_new_line_8: 'gravity
-
-  sand
-
-  pioneer
-
-  situate
-
-  they
-
-  frozen
-
-  carry
-
-  vital'
-bip_39_word_new_line_9: 'gravity
-
-  sand
-
-  pioneer
-
-  situate
-
-  they
-
-  frozen
-
-  carry
-
-  vital
-
-  success'
-bip_39_word_no_space_1: gravity
-bip_39_word_no_space_10: gravitysandpioneersituatetheyfrozencarryvitalsuccessaxis
-bip_39_word_no_space_11: gravitysandpioneersituatetheyfrozencarryvitalsuccessaxisbanana
 bip_39_word_no_space_12: gravitysandpioneersituatetheyfrozencarryvitalsuccessaxisbananaantique
 bip_39_word_no_space_2: gravitysand
 bip_39_word_no_space_3: gravitysandpioneer
-bip_39_word_no_space_4: gravitysandpioneersituate
-bip_39_word_no_space_5: gravitysandpioneersituatethey
-bip_39_word_no_space_6: gravitysandpioneersituatetheyfrozen
-bip_39_word_no_space_7: gravitysandpioneersituatetheyfrozencarry
-bip_39_word_no_space_8: gravitysandpioneersituatetheyfrozencarryvital
-bip_39_word_no_space_9: gravitysandpioneersituatetheyfrozencarryvitalsuccess
-bip_39_word_space_0:
-- gravity
-- sand
-- pioneer
-- situate
-- they
-- frozen
-- carry
-- vital
-- success
-- axis
-- banana
-- antique
-bip_39_word_space_1: gravity
-bip_39_word_space_10: gravity sand pioneer situate they frozen carry vital success
-  axis
-bip_39_word_space_11: gravity sand pioneer situate they frozen carry vital success
-  axis banana
 bip_39_word_space_12: gravity sand pioneer situate they frozen carry vital success
   axis banana antique
 bip_39_word_space_2: gravity sand
 bip_39_word_space_3: gravity sand pioneer
-bip_39_word_space_4: gravity sand pioneer situate
-bip_39_word_space_5: gravity sand pioneer situate they
-bip_39_word_space_6: gravity sand pioneer situate they frozen
-bip_39_word_space_7: gravity sand pioneer situate they frozen carry
-bip_39_word_space_8: gravity sand pioneer situate they frozen carry vital
-bip_39_word_space_9: gravity sand pioneer situate they frozen carry vital success
-bip_39_word_underscore_1: gravity
-bip_39_word_underscore_10: gravity_sand_pioneer_situate_they_frozen_carry_vital_success_axis
-bip_39_word_underscore_11: gravity_sand_pioneer_situate_they_frozen_carry_vital_success_axis_banana
 bip_39_word_underscore_12: gravity_sand_pioneer_situate_they_frozen_carry_vital_success_axis_banana_antique
 bip_39_word_underscore_2: gravity_sand
 bip_39_word_underscore_3: gravity_sand_pioneer
-bip_39_word_underscore_4: gravity_sand_pioneer_situate
-bip_39_word_underscore_5: gravity_sand_pioneer_situate_they
-bip_39_word_underscore_6: gravity_sand_pioneer_situate_they_frozen
-bip_39_word_underscore_7: gravity_sand_pioneer_situate_they_frozen_carry
-bip_39_word_underscore_8: gravity_sand_pioneer_situate_they_frozen_carry_vital
-bip_39_word_underscore_9: gravity_sand_pioneer_situate_they_frozen_carry_vital_success
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

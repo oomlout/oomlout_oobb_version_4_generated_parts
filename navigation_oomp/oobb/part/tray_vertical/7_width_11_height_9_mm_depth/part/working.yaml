@@ -1,68 +1,9 @@
-bip_39_word_dash_1: when
-bip_39_word_dash_10: when-arrow-spot-cargo-pudding-assault-empower-special-despair-quality
-bip_39_word_dash_11: when-arrow-spot-cargo-pudding-assault-empower-special-despair-quality-volcano
 bip_39_word_dash_12: when-arrow-spot-cargo-pudding-assault-empower-special-despair-quality-volcano-attract
 bip_39_word_dash_2: when-arrow
 bip_39_word_dash_3: when-arrow-spot
-bip_39_word_dash_4: when-arrow-spot-cargo
-bip_39_word_dash_5: when-arrow-spot-cargo-pudding
-bip_39_word_dash_6: when-arrow-spot-cargo-pudding-assault
-bip_39_word_dash_7: when-arrow-spot-cargo-pudding-assault-empower
-bip_39_word_dash_8: when-arrow-spot-cargo-pudding-assault-empower-special
-bip_39_word_dash_9: when-arrow-spot-cargo-pudding-assault-empower-special-despair
-bip_39_word_new_br_1: when
-bip_39_word_new_br_10: when<br>arrow<br>spot<br>cargo<br>pudding<br>assault<br>empower<br>special<br>despair<br>quality
-bip_39_word_new_br_11: when<br>arrow<br>spot<br>cargo<br>pudding<br>assault<br>empower<br>special<br>despair<br>quality<br>volcano
 bip_39_word_new_br_12: when<br>arrow<br>spot<br>cargo<br>pudding<br>assault<br>empower<br>special<br>despair<br>quality<br>volcano<br>attract
 bip_39_word_new_br_2: when<br>arrow
 bip_39_word_new_br_3: when<br>arrow<br>spot
-bip_39_word_new_br_4: when<br>arrow<br>spot<br>cargo
-bip_39_word_new_br_5: when<br>arrow<br>spot<br>cargo<br>pudding
-bip_39_word_new_br_6: when<br>arrow<br>spot<br>cargo<br>pudding<br>assault
-bip_39_word_new_br_7: when<br>arrow<br>spot<br>cargo<br>pudding<br>assault<br>empower
-bip_39_word_new_br_8: when<br>arrow<br>spot<br>cargo<br>pudding<br>assault<br>empower<br>special
-bip_39_word_new_br_9: when<br>arrow<br>spot<br>cargo<br>pudding<br>assault<br>empower<br>special<br>despair
-bip_39_word_new_line_1: when
-bip_39_word_new_line_10: 'when
-
-  arrow
-
-  spot
-
-  cargo
-
-  pudding
-
-  assault
-
-  empower
-
-  special
-
-  despair
-
-  quality'
-bip_39_word_new_line_11: 'when
-
-  arrow
-
-  spot
-
-  cargo
-
-  pudding
-
-  assault
-
-  empower
-
-  special
-
-  despair
-
-  quality
-
-  volcano'
 bip_39_word_new_line_12: 'when
 
   arrow
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'when
   arrow
 
   spot'
-bip_39_word_new_line_4: 'when
-
-  arrow
-
-  spot
-
-  cargo'
-bip_39_word_new_line_5: 'when
-
-  arrow
-
-  spot
-
-  cargo
-
-  pudding'
-bip_39_word_new_line_6: 'when
-
-  arrow
-
-  spot
-
-  cargo
-
-  pudding
-
-  assault'
-bip_39_word_new_line_7: 'when
-
-  arrow
-
-  spot
-
-  cargo
-
-  pudding
-
-  assault
-
-  empower'
-bip_39_word_new_line_8: 'when
-
-  arrow
-
-  spot
-
-  cargo
-
-  pudding
-
-  assault
-
-  empower
-
-  special'
-bip_39_word_new_line_9: 'when
-
-  arrow
-
-  spot
-
-  cargo
-
-  pudding
-
-  assault
-
-  empower
-
-  special
-
-  despair'
-bip_39_word_no_space_1: when
-bip_39_word_no_space_10: whenarrowspotcargopuddingassaultempowerspecialdespairquality
-bip_39_word_no_space_11: whenarrowspotcargopuddingassaultempowerspecialdespairqualityvolcano
 bip_39_word_no_space_12: whenarrowspotcargopuddingassaultempowerspecialdespairqualityvolcanoattract
 bip_39_word_no_space_2: whenarrow
 bip_39_word_no_space_3: whenarrowspot
-bip_39_word_no_space_4: whenarrowspotcargo
-bip_39_word_no_space_5: whenarrowspotcargopudding
-bip_39_word_no_space_6: whenarrowspotcargopuddingassault
-bip_39_word_no_space_7: whenarrowspotcargopuddingassaultempower
-bip_39_word_no_space_8: whenarrowspotcargopuddingassaultempowerspecial
-bip_39_word_no_space_9: whenarrowspotcargopuddingassaultempowerspecialdespair
-bip_39_word_space_0:
-- when
-- arrow
-- spot
-- cargo
-- pudding
-- assault
-- empower
-- special
-- despair
-- quality
-- volcano
-- attract
-bip_39_word_space_1: when
-bip_39_word_space_10: when arrow spot cargo pudding assault empower special despair
-  quality
-bip_39_word_space_11: when arrow spot cargo pudding assault empower special despair
-  quality volcano
 bip_39_word_space_12: when arrow spot cargo pudding assault empower special despair
   quality volcano attract
 bip_39_word_space_2: when arrow
 bip_39_word_space_3: when arrow spot
-bip_39_word_space_4: when arrow spot cargo
-bip_39_word_space_5: when arrow spot cargo pudding
-bip_39_word_space_6: when arrow spot cargo pudding assault
-bip_39_word_space_7: when arrow spot cargo pudding assault empower
-bip_39_word_space_8: when arrow spot cargo pudding assault empower special
-bip_39_word_space_9: when arrow spot cargo pudding assault empower special despair
-bip_39_word_underscore_1: when
-bip_39_word_underscore_10: when_arrow_spot_cargo_pudding_assault_empower_special_despair_quality
-bip_39_word_underscore_11: when_arrow_spot_cargo_pudding_assault_empower_special_despair_quality_volcano
 bip_39_word_underscore_12: when_arrow_spot_cargo_pudding_assault_empower_special_despair_quality_volcano_attract
 bip_39_word_underscore_2: when_arrow
 bip_39_word_underscore_3: when_arrow_spot
-bip_39_word_underscore_4: when_arrow_spot_cargo
-bip_39_word_underscore_5: when_arrow_spot_cargo_pudding
-bip_39_word_underscore_6: when_arrow_spot_cargo_pudding_assault
-bip_39_word_underscore_7: when_arrow_spot_cargo_pudding_assault_empower
-bip_39_word_underscore_8: when_arrow_spot_cargo_pudding_assault_empower_special
-bip_39_word_underscore_9: when_arrow_spot_cargo_pudding_assault_empower_special_despair
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

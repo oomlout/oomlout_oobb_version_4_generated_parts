@@ -1,68 +1,9 @@
-bip_39_word_dash_1: economy
-bip_39_word_dash_10: economy-grid-fox-fruit-consider-train-summer-develop-capable-avoid
-bip_39_word_dash_11: economy-grid-fox-fruit-consider-train-summer-develop-capable-avoid-sense
 bip_39_word_dash_12: economy-grid-fox-fruit-consider-train-summer-develop-capable-avoid-sense-alley
 bip_39_word_dash_2: economy-grid
 bip_39_word_dash_3: economy-grid-fox
-bip_39_word_dash_4: economy-grid-fox-fruit
-bip_39_word_dash_5: economy-grid-fox-fruit-consider
-bip_39_word_dash_6: economy-grid-fox-fruit-consider-train
-bip_39_word_dash_7: economy-grid-fox-fruit-consider-train-summer
-bip_39_word_dash_8: economy-grid-fox-fruit-consider-train-summer-develop
-bip_39_word_dash_9: economy-grid-fox-fruit-consider-train-summer-develop-capable
-bip_39_word_new_br_1: economy
-bip_39_word_new_br_10: economy<br>grid<br>fox<br>fruit<br>consider<br>train<br>summer<br>develop<br>capable<br>avoid
-bip_39_word_new_br_11: economy<br>grid<br>fox<br>fruit<br>consider<br>train<br>summer<br>develop<br>capable<br>avoid<br>sense
 bip_39_word_new_br_12: economy<br>grid<br>fox<br>fruit<br>consider<br>train<br>summer<br>develop<br>capable<br>avoid<br>sense<br>alley
 bip_39_word_new_br_2: economy<br>grid
 bip_39_word_new_br_3: economy<br>grid<br>fox
-bip_39_word_new_br_4: economy<br>grid<br>fox<br>fruit
-bip_39_word_new_br_5: economy<br>grid<br>fox<br>fruit<br>consider
-bip_39_word_new_br_6: economy<br>grid<br>fox<br>fruit<br>consider<br>train
-bip_39_word_new_br_7: economy<br>grid<br>fox<br>fruit<br>consider<br>train<br>summer
-bip_39_word_new_br_8: economy<br>grid<br>fox<br>fruit<br>consider<br>train<br>summer<br>develop
-bip_39_word_new_br_9: economy<br>grid<br>fox<br>fruit<br>consider<br>train<br>summer<br>develop<br>capable
-bip_39_word_new_line_1: economy
-bip_39_word_new_line_10: 'economy
-
-  grid
-
-  fox
-
-  fruit
-
-  consider
-
-  train
-
-  summer
-
-  develop
-
-  capable
-
-  avoid'
-bip_39_word_new_line_11: 'economy
-
-  grid
-
-  fox
-
-  fruit
-
-  consider
-
-  train
-
-  summer
-
-  develop
-
-  capable
-
-  avoid
-
-  sense'
 bip_39_word_new_line_12: 'economy
 
   grid
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'economy
   grid
 
   fox'
-bip_39_word_new_line_4: 'economy
-
-  grid
-
-  fox
-
-  fruit'
-bip_39_word_new_line_5: 'economy
-
-  grid
-
-  fox
-
-  fruit
-
-  consider'
-bip_39_word_new_line_6: 'economy
-
-  grid
-
-  fox
-
-  fruit
-
-  consider
-
-  train'
-bip_39_word_new_line_7: 'economy
-
-  grid
-
-  fox
-
-  fruit
-
-  consider
-
-  train
-
-  summer'
-bip_39_word_new_line_8: 'economy
-
-  grid
-
-  fox
-
-  fruit
-
-  consider
-
-  train
-
-  summer
-
-  develop'
-bip_39_word_new_line_9: 'economy
-
-  grid
-
-  fox
-
-  fruit
-
-  consider
-
-  train
-
-  summer
-
-  develop
-
-  capable'
-bip_39_word_no_space_1: economy
-bip_39_word_no_space_10: economygridfoxfruitconsidertrainsummerdevelopcapableavoid
-bip_39_word_no_space_11: economygridfoxfruitconsidertrainsummerdevelopcapableavoidsense
 bip_39_word_no_space_12: economygridfoxfruitconsidertrainsummerdevelopcapableavoidsensealley
 bip_39_word_no_space_2: economygrid
 bip_39_word_no_space_3: economygridfox
-bip_39_word_no_space_4: economygridfoxfruit
-bip_39_word_no_space_5: economygridfoxfruitconsider
-bip_39_word_no_space_6: economygridfoxfruitconsidertrain
-bip_39_word_no_space_7: economygridfoxfruitconsidertrainsummer
-bip_39_word_no_space_8: economygridfoxfruitconsidertrainsummerdevelop
-bip_39_word_no_space_9: economygridfoxfruitconsidertrainsummerdevelopcapable
-bip_39_word_space_0:
-- economy
-- grid
-- fox
-- fruit
-- consider
-- train
-- summer
-- develop
-- capable
-- avoid
-- sense
-- alley
-bip_39_word_space_1: economy
-bip_39_word_space_10: economy grid fox fruit consider train summer develop capable
-  avoid
-bip_39_word_space_11: economy grid fox fruit consider train summer develop capable
-  avoid sense
 bip_39_word_space_12: economy grid fox fruit consider train summer develop capable
   avoid sense alley
 bip_39_word_space_2: economy grid
 bip_39_word_space_3: economy grid fox
-bip_39_word_space_4: economy grid fox fruit
-bip_39_word_space_5: economy grid fox fruit consider
-bip_39_word_space_6: economy grid fox fruit consider train
-bip_39_word_space_7: economy grid fox fruit consider train summer
-bip_39_word_space_8: economy grid fox fruit consider train summer develop
-bip_39_word_space_9: economy grid fox fruit consider train summer develop capable
-bip_39_word_underscore_1: economy
-bip_39_word_underscore_10: economy_grid_fox_fruit_consider_train_summer_develop_capable_avoid
-bip_39_word_underscore_11: economy_grid_fox_fruit_consider_train_summer_develop_capable_avoid_sense
 bip_39_word_underscore_12: economy_grid_fox_fruit_consider_train_summer_develop_capable_avoid_sense_alley
 bip_39_word_underscore_2: economy_grid
 bip_39_word_underscore_3: economy_grid_fox
-bip_39_word_underscore_4: economy_grid_fox_fruit
-bip_39_word_underscore_5: economy_grid_fox_fruit_consider
-bip_39_word_underscore_6: economy_grid_fox_fruit_consider_train
-bip_39_word_underscore_7: economy_grid_fox_fruit_consider_train_summer
-bip_39_word_underscore_8: economy_grid_fox_fruit_consider_train_summer_develop
-bip_39_word_underscore_9: economy_grid_fox_fruit_consider_train_summer_develop_capable
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: sea
-bip_39_word_dash_10: sea-payment-party-cook-spy-park-fancy-puzzle-gap-know
-bip_39_word_dash_11: sea-payment-party-cook-spy-park-fancy-puzzle-gap-know-blame
 bip_39_word_dash_12: sea-payment-party-cook-spy-park-fancy-puzzle-gap-know-blame-auto
 bip_39_word_dash_2: sea-payment
 bip_39_word_dash_3: sea-payment-party
-bip_39_word_dash_4: sea-payment-party-cook
-bip_39_word_dash_5: sea-payment-party-cook-spy
-bip_39_word_dash_6: sea-payment-party-cook-spy-park
-bip_39_word_dash_7: sea-payment-party-cook-spy-park-fancy
-bip_39_word_dash_8: sea-payment-party-cook-spy-park-fancy-puzzle
-bip_39_word_dash_9: sea-payment-party-cook-spy-park-fancy-puzzle-gap
-bip_39_word_new_br_1: sea
-bip_39_word_new_br_10: sea<br>payment<br>party<br>cook<br>spy<br>park<br>fancy<br>puzzle<br>gap<br>know
-bip_39_word_new_br_11: sea<br>payment<br>party<br>cook<br>spy<br>park<br>fancy<br>puzzle<br>gap<br>know<br>blame
 bip_39_word_new_br_12: sea<br>payment<br>party<br>cook<br>spy<br>park<br>fancy<br>puzzle<br>gap<br>know<br>blame<br>auto
 bip_39_word_new_br_2: sea<br>payment
 bip_39_word_new_br_3: sea<br>payment<br>party
-bip_39_word_new_br_4: sea<br>payment<br>party<br>cook
-bip_39_word_new_br_5: sea<br>payment<br>party<br>cook<br>spy
-bip_39_word_new_br_6: sea<br>payment<br>party<br>cook<br>spy<br>park
-bip_39_word_new_br_7: sea<br>payment<br>party<br>cook<br>spy<br>park<br>fancy
-bip_39_word_new_br_8: sea<br>payment<br>party<br>cook<br>spy<br>park<br>fancy<br>puzzle
-bip_39_word_new_br_9: sea<br>payment<br>party<br>cook<br>spy<br>park<br>fancy<br>puzzle<br>gap
-bip_39_word_new_line_1: sea
-bip_39_word_new_line_10: 'sea
-
-  payment
-
-  party
-
-  cook
-
-  spy
-
-  park
-
-  fancy
-
-  puzzle
-
-  gap
-
-  know'
-bip_39_word_new_line_11: 'sea
-
-  payment
-
-  party
-
-  cook
-
-  spy
-
-  park
-
-  fancy
-
-  puzzle
-
-  gap
-
-  know
-
-  blame'
 bip_39_word_new_line_12: 'sea
 
   payment
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'sea
   payment
 
   party'
-bip_39_word_new_line_4: 'sea
-
-  payment
-
-  party
-
-  cook'
-bip_39_word_new_line_5: 'sea
-
-  payment
-
-  party
-
-  cook
-
-  spy'
-bip_39_word_new_line_6: 'sea
-
-  payment
-
-  party
-
-  cook
-
-  spy
-
-  park'
-bip_39_word_new_line_7: 'sea
-
-  payment
-
-  party
-
-  cook
-
-  spy
-
-  park
-
-  fancy'
-bip_39_word_new_line_8: 'sea
-
-  payment
-
-  party
-
-  cook
-
-  spy
-
-  park
-
-  fancy
-
-  puzzle'
-bip_39_word_new_line_9: 'sea
-
-  payment
-
-  party
-
-  cook
-
-  spy
-
-  park
-
-  fancy
-
-  puzzle
-
-  gap'
-bip_39_word_no_space_1: sea
-bip_39_word_no_space_10: seapaymentpartycookspyparkfancypuzzlegapknow
-bip_39_word_no_space_11: seapaymentpartycookspyparkfancypuzzlegapknowblame
 bip_39_word_no_space_12: seapaymentpartycookspyparkfancypuzzlegapknowblameauto
 bip_39_word_no_space_2: seapayment
 bip_39_word_no_space_3: seapaymentparty
-bip_39_word_no_space_4: seapaymentpartycook
-bip_39_word_no_space_5: seapaymentpartycookspy
-bip_39_word_no_space_6: seapaymentpartycookspypark
-bip_39_word_no_space_7: seapaymentpartycookspyparkfancy
-bip_39_word_no_space_8: seapaymentpartycookspyparkfancypuzzle
-bip_39_word_no_space_9: seapaymentpartycookspyparkfancypuzzlegap
-bip_39_word_space_0:
-- sea
-- payment
-- party
-- cook
-- spy
-- park
-- fancy
-- puzzle
-- gap
-- know
-- blame
-- auto
-bip_39_word_space_1: sea
-bip_39_word_space_10: sea payment party cook spy park fancy puzzle gap know
-bip_39_word_space_11: sea payment party cook spy park fancy puzzle gap know blame
 bip_39_word_space_12: sea payment party cook spy park fancy puzzle gap know blame
   auto
 bip_39_word_space_2: sea payment
 bip_39_word_space_3: sea payment party
-bip_39_word_space_4: sea payment party cook
-bip_39_word_space_5: sea payment party cook spy
-bip_39_word_space_6: sea payment party cook spy park
-bip_39_word_space_7: sea payment party cook spy park fancy
-bip_39_word_space_8: sea payment party cook spy park fancy puzzle
-bip_39_word_space_9: sea payment party cook spy park fancy puzzle gap
-bip_39_word_underscore_1: sea
-bip_39_word_underscore_10: sea_payment_party_cook_spy_park_fancy_puzzle_gap_know
-bip_39_word_underscore_11: sea_payment_party_cook_spy_park_fancy_puzzle_gap_know_blame
 bip_39_word_underscore_12: sea_payment_party_cook_spy_park_fancy_puzzle_gap_know_blame_auto
 bip_39_word_underscore_2: sea_payment
 bip_39_word_underscore_3: sea_payment_party
-bip_39_word_underscore_4: sea_payment_party_cook
-bip_39_word_underscore_5: sea_payment_party_cook_spy
-bip_39_word_underscore_6: sea_payment_party_cook_spy_park
-bip_39_word_underscore_7: sea_payment_party_cook_spy_park_fancy
-bip_39_word_underscore_8: sea_payment_party_cook_spy_park_fancy_puzzle
-bip_39_word_underscore_9: sea_payment_party_cook_spy_park_fancy_puzzle_gap
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

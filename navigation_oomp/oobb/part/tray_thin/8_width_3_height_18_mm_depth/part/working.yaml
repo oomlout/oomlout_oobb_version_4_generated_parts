@@ -1,68 +1,9 @@
-bip_39_word_dash_1: bind
-bip_39_word_dash_10: bind-bullet-avoid-load-mouse-slice-vapor-palace-subway-pause
-bip_39_word_dash_11: bind-bullet-avoid-load-mouse-slice-vapor-palace-subway-pause-cloth
 bip_39_word_dash_12: bind-bullet-avoid-load-mouse-slice-vapor-palace-subway-pause-cloth-afford
 bip_39_word_dash_2: bind-bullet
 bip_39_word_dash_3: bind-bullet-avoid
-bip_39_word_dash_4: bind-bullet-avoid-load
-bip_39_word_dash_5: bind-bullet-avoid-load-mouse
-bip_39_word_dash_6: bind-bullet-avoid-load-mouse-slice
-bip_39_word_dash_7: bind-bullet-avoid-load-mouse-slice-vapor
-bip_39_word_dash_8: bind-bullet-avoid-load-mouse-slice-vapor-palace
-bip_39_word_dash_9: bind-bullet-avoid-load-mouse-slice-vapor-palace-subway
-bip_39_word_new_br_1: bind
-bip_39_word_new_br_10: bind<br>bullet<br>avoid<br>load<br>mouse<br>slice<br>vapor<br>palace<br>subway<br>pause
-bip_39_word_new_br_11: bind<br>bullet<br>avoid<br>load<br>mouse<br>slice<br>vapor<br>palace<br>subway<br>pause<br>cloth
 bip_39_word_new_br_12: bind<br>bullet<br>avoid<br>load<br>mouse<br>slice<br>vapor<br>palace<br>subway<br>pause<br>cloth<br>afford
 bip_39_word_new_br_2: bind<br>bullet
 bip_39_word_new_br_3: bind<br>bullet<br>avoid
-bip_39_word_new_br_4: bind<br>bullet<br>avoid<br>load
-bip_39_word_new_br_5: bind<br>bullet<br>avoid<br>load<br>mouse
-bip_39_word_new_br_6: bind<br>bullet<br>avoid<br>load<br>mouse<br>slice
-bip_39_word_new_br_7: bind<br>bullet<br>avoid<br>load<br>mouse<br>slice<br>vapor
-bip_39_word_new_br_8: bind<br>bullet<br>avoid<br>load<br>mouse<br>slice<br>vapor<br>palace
-bip_39_word_new_br_9: bind<br>bullet<br>avoid<br>load<br>mouse<br>slice<br>vapor<br>palace<br>subway
-bip_39_word_new_line_1: bind
-bip_39_word_new_line_10: 'bind
-
-  bullet
-
-  avoid
-
-  load
-
-  mouse
-
-  slice
-
-  vapor
-
-  palace
-
-  subway
-
-  pause'
-bip_39_word_new_line_11: 'bind
-
-  bullet
-
-  avoid
-
-  load
-
-  mouse
-
-  slice
-
-  vapor
-
-  palace
-
-  subway
-
-  pause
-
-  cloth'
 bip_39_word_new_line_12: 'bind
 
   bullet
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'bind
   bullet
 
   avoid'
-bip_39_word_new_line_4: 'bind
-
-  bullet
-
-  avoid
-
-  load'
-bip_39_word_new_line_5: 'bind
-
-  bullet
-
-  avoid
-
-  load
-
-  mouse'
-bip_39_word_new_line_6: 'bind
-
-  bullet
-
-  avoid
-
-  load
-
-  mouse
-
-  slice'
-bip_39_word_new_line_7: 'bind
-
-  bullet
-
-  avoid
-
-  load
-
-  mouse
-
-  slice
-
-  vapor'
-bip_39_word_new_line_8: 'bind
-
-  bullet
-
-  avoid
-
-  load
-
-  mouse
-
-  slice
-
-  vapor
-
-  palace'
-bip_39_word_new_line_9: 'bind
-
-  bullet
-
-  avoid
-
-  load
-
-  mouse
-
-  slice
-
-  vapor
-
-  palace
-
-  subway'
-bip_39_word_no_space_1: bind
-bip_39_word_no_space_10: bindbulletavoidloadmouseslicevaporpalacesubwaypause
-bip_39_word_no_space_11: bindbulletavoidloadmouseslicevaporpalacesubwaypausecloth
 bip_39_word_no_space_12: bindbulletavoidloadmouseslicevaporpalacesubwaypauseclothafford
 bip_39_word_no_space_2: bindbullet
 bip_39_word_no_space_3: bindbulletavoid
-bip_39_word_no_space_4: bindbulletavoidload
-bip_39_word_no_space_5: bindbulletavoidloadmouse
-bip_39_word_no_space_6: bindbulletavoidloadmouseslice
-bip_39_word_no_space_7: bindbulletavoidloadmouseslicevapor
-bip_39_word_no_space_8: bindbulletavoidloadmouseslicevaporpalace
-bip_39_word_no_space_9: bindbulletavoidloadmouseslicevaporpalacesubway
-bip_39_word_space_0:
-- bind
-- bullet
-- avoid
-- load
-- mouse
-- slice
-- vapor
-- palace
-- subway
-- pause
-- cloth
-- afford
-bip_39_word_space_1: bind
-bip_39_word_space_10: bind bullet avoid load mouse slice vapor palace subway pause
-bip_39_word_space_11: bind bullet avoid load mouse slice vapor palace subway pause
-  cloth
 bip_39_word_space_12: bind bullet avoid load mouse slice vapor palace subway pause
   cloth afford
 bip_39_word_space_2: bind bullet
 bip_39_word_space_3: bind bullet avoid
-bip_39_word_space_4: bind bullet avoid load
-bip_39_word_space_5: bind bullet avoid load mouse
-bip_39_word_space_6: bind bullet avoid load mouse slice
-bip_39_word_space_7: bind bullet avoid load mouse slice vapor
-bip_39_word_space_8: bind bullet avoid load mouse slice vapor palace
-bip_39_word_space_9: bind bullet avoid load mouse slice vapor palace subway
-bip_39_word_underscore_1: bind
-bip_39_word_underscore_10: bind_bullet_avoid_load_mouse_slice_vapor_palace_subway_pause
-bip_39_word_underscore_11: bind_bullet_avoid_load_mouse_slice_vapor_palace_subway_pause_cloth
 bip_39_word_underscore_12: bind_bullet_avoid_load_mouse_slice_vapor_palace_subway_pause_cloth_afford
 bip_39_word_underscore_2: bind_bullet
 bip_39_word_underscore_3: bind_bullet_avoid
-bip_39_word_underscore_4: bind_bullet_avoid_load
-bip_39_word_underscore_5: bind_bullet_avoid_load_mouse
-bip_39_word_underscore_6: bind_bullet_avoid_load_mouse_slice
-bip_39_word_underscore_7: bind_bullet_avoid_load_mouse_slice_vapor
-bip_39_word_underscore_8: bind_bullet_avoid_load_mouse_slice_vapor_palace
-bip_39_word_underscore_9: bind_bullet_avoid_load_mouse_slice_vapor_palace_subway
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

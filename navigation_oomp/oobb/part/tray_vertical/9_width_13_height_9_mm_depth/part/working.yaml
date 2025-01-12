@@ -1,68 +1,9 @@
-bip_39_word_dash_1: staff
-bip_39_word_dash_10: staff-nut-junk-twice-lounge-marriage-medal-undo-allow-proof
-bip_39_word_dash_11: staff-nut-junk-twice-lounge-marriage-medal-undo-allow-proof-produce
 bip_39_word_dash_12: staff-nut-junk-twice-lounge-marriage-medal-undo-allow-proof-produce-across
 bip_39_word_dash_2: staff-nut
 bip_39_word_dash_3: staff-nut-junk
-bip_39_word_dash_4: staff-nut-junk-twice
-bip_39_word_dash_5: staff-nut-junk-twice-lounge
-bip_39_word_dash_6: staff-nut-junk-twice-lounge-marriage
-bip_39_word_dash_7: staff-nut-junk-twice-lounge-marriage-medal
-bip_39_word_dash_8: staff-nut-junk-twice-lounge-marriage-medal-undo
-bip_39_word_dash_9: staff-nut-junk-twice-lounge-marriage-medal-undo-allow
-bip_39_word_new_br_1: staff
-bip_39_word_new_br_10: staff<br>nut<br>junk<br>twice<br>lounge<br>marriage<br>medal<br>undo<br>allow<br>proof
-bip_39_word_new_br_11: staff<br>nut<br>junk<br>twice<br>lounge<br>marriage<br>medal<br>undo<br>allow<br>proof<br>produce
 bip_39_word_new_br_12: staff<br>nut<br>junk<br>twice<br>lounge<br>marriage<br>medal<br>undo<br>allow<br>proof<br>produce<br>across
 bip_39_word_new_br_2: staff<br>nut
 bip_39_word_new_br_3: staff<br>nut<br>junk
-bip_39_word_new_br_4: staff<br>nut<br>junk<br>twice
-bip_39_word_new_br_5: staff<br>nut<br>junk<br>twice<br>lounge
-bip_39_word_new_br_6: staff<br>nut<br>junk<br>twice<br>lounge<br>marriage
-bip_39_word_new_br_7: staff<br>nut<br>junk<br>twice<br>lounge<br>marriage<br>medal
-bip_39_word_new_br_8: staff<br>nut<br>junk<br>twice<br>lounge<br>marriage<br>medal<br>undo
-bip_39_word_new_br_9: staff<br>nut<br>junk<br>twice<br>lounge<br>marriage<br>medal<br>undo<br>allow
-bip_39_word_new_line_1: staff
-bip_39_word_new_line_10: 'staff
-
-  nut
-
-  junk
-
-  twice
-
-  lounge
-
-  marriage
-
-  medal
-
-  undo
-
-  allow
-
-  proof'
-bip_39_word_new_line_11: 'staff
-
-  nut
-
-  junk
-
-  twice
-
-  lounge
-
-  marriage
-
-  medal
-
-  undo
-
-  allow
-
-  proof
-
-  produce'
 bip_39_word_new_line_12: 'staff
 
   nut
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'staff
   nut
 
   junk'
-bip_39_word_new_line_4: 'staff
-
-  nut
-
-  junk
-
-  twice'
-bip_39_word_new_line_5: 'staff
-
-  nut
-
-  junk
-
-  twice
-
-  lounge'
-bip_39_word_new_line_6: 'staff
-
-  nut
-
-  junk
-
-  twice
-
-  lounge
-
-  marriage'
-bip_39_word_new_line_7: 'staff
-
-  nut
-
-  junk
-
-  twice
-
-  lounge
-
-  marriage
-
-  medal'
-bip_39_word_new_line_8: 'staff
-
-  nut
-
-  junk
-
-  twice
-
-  lounge
-
-  marriage
-
-  medal
-
-  undo'
-bip_39_word_new_line_9: 'staff
-
-  nut
-
-  junk
-
-  twice
-
-  lounge
-
-  marriage
-
-  medal
-
-  undo
-
-  allow'
-bip_39_word_no_space_1: staff
-bip_39_word_no_space_10: staffnutjunktwiceloungemarriagemedalundoallowproof
-bip_39_word_no_space_11: staffnutjunktwiceloungemarriagemedalundoallowproofproduce
 bip_39_word_no_space_12: staffnutjunktwiceloungemarriagemedalundoallowproofproduceacross
 bip_39_word_no_space_2: staffnut
 bip_39_word_no_space_3: staffnutjunk
-bip_39_word_no_space_4: staffnutjunktwice
-bip_39_word_no_space_5: staffnutjunktwicelounge
-bip_39_word_no_space_6: staffnutjunktwiceloungemarriage
-bip_39_word_no_space_7: staffnutjunktwiceloungemarriagemedal
-bip_39_word_no_space_8: staffnutjunktwiceloungemarriagemedalundo
-bip_39_word_no_space_9: staffnutjunktwiceloungemarriagemedalundoallow
-bip_39_word_space_0:
-- staff
-- nut
-- junk
-- twice
-- lounge
-- marriage
-- medal
-- undo
-- allow
-- proof
-- produce
-- across
-bip_39_word_space_1: staff
-bip_39_word_space_10: staff nut junk twice lounge marriage medal undo allow proof
-bip_39_word_space_11: staff nut junk twice lounge marriage medal undo allow proof
-  produce
 bip_39_word_space_12: staff nut junk twice lounge marriage medal undo allow proof
   produce across
 bip_39_word_space_2: staff nut
 bip_39_word_space_3: staff nut junk
-bip_39_word_space_4: staff nut junk twice
-bip_39_word_space_5: staff nut junk twice lounge
-bip_39_word_space_6: staff nut junk twice lounge marriage
-bip_39_word_space_7: staff nut junk twice lounge marriage medal
-bip_39_word_space_8: staff nut junk twice lounge marriage medal undo
-bip_39_word_space_9: staff nut junk twice lounge marriage medal undo allow
-bip_39_word_underscore_1: staff
-bip_39_word_underscore_10: staff_nut_junk_twice_lounge_marriage_medal_undo_allow_proof
-bip_39_word_underscore_11: staff_nut_junk_twice_lounge_marriage_medal_undo_allow_proof_produce
 bip_39_word_underscore_12: staff_nut_junk_twice_lounge_marriage_medal_undo_allow_proof_produce_across
 bip_39_word_underscore_2: staff_nut
 bip_39_word_underscore_3: staff_nut_junk
-bip_39_word_underscore_4: staff_nut_junk_twice
-bip_39_word_underscore_5: staff_nut_junk_twice_lounge
-bip_39_word_underscore_6: staff_nut_junk_twice_lounge_marriage
-bip_39_word_underscore_7: staff_nut_junk_twice_lounge_marriage_medal
-bip_39_word_underscore_8: staff_nut_junk_twice_lounge_marriage_medal_undo
-bip_39_word_underscore_9: staff_nut_junk_twice_lounge_marriage_medal_undo_allow
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

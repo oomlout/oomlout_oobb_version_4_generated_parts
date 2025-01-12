@@ -1,68 +1,9 @@
-bip_39_word_dash_1: secret
-bip_39_word_dash_10: secret-wasp-decade-film-one-sleep-client-income-puppy-help
-bip_39_word_dash_11: secret-wasp-decade-film-one-sleep-client-income-puppy-help-breeze
 bip_39_word_dash_12: secret-wasp-decade-film-one-sleep-client-income-puppy-help-breeze-arm
 bip_39_word_dash_2: secret-wasp
 bip_39_word_dash_3: secret-wasp-decade
-bip_39_word_dash_4: secret-wasp-decade-film
-bip_39_word_dash_5: secret-wasp-decade-film-one
-bip_39_word_dash_6: secret-wasp-decade-film-one-sleep
-bip_39_word_dash_7: secret-wasp-decade-film-one-sleep-client
-bip_39_word_dash_8: secret-wasp-decade-film-one-sleep-client-income
-bip_39_word_dash_9: secret-wasp-decade-film-one-sleep-client-income-puppy
-bip_39_word_new_br_1: secret
-bip_39_word_new_br_10: secret<br>wasp<br>decade<br>film<br>one<br>sleep<br>client<br>income<br>puppy<br>help
-bip_39_word_new_br_11: secret<br>wasp<br>decade<br>film<br>one<br>sleep<br>client<br>income<br>puppy<br>help<br>breeze
 bip_39_word_new_br_12: secret<br>wasp<br>decade<br>film<br>one<br>sleep<br>client<br>income<br>puppy<br>help<br>breeze<br>arm
 bip_39_word_new_br_2: secret<br>wasp
 bip_39_word_new_br_3: secret<br>wasp<br>decade
-bip_39_word_new_br_4: secret<br>wasp<br>decade<br>film
-bip_39_word_new_br_5: secret<br>wasp<br>decade<br>film<br>one
-bip_39_word_new_br_6: secret<br>wasp<br>decade<br>film<br>one<br>sleep
-bip_39_word_new_br_7: secret<br>wasp<br>decade<br>film<br>one<br>sleep<br>client
-bip_39_word_new_br_8: secret<br>wasp<br>decade<br>film<br>one<br>sleep<br>client<br>income
-bip_39_word_new_br_9: secret<br>wasp<br>decade<br>film<br>one<br>sleep<br>client<br>income<br>puppy
-bip_39_word_new_line_1: secret
-bip_39_word_new_line_10: 'secret
-
-  wasp
-
-  decade
-
-  film
-
-  one
-
-  sleep
-
-  client
-
-  income
-
-  puppy
-
-  help'
-bip_39_word_new_line_11: 'secret
-
-  wasp
-
-  decade
-
-  film
-
-  one
-
-  sleep
-
-  client
-
-  income
-
-  puppy
-
-  help
-
-  breeze'
 bip_39_word_new_line_12: 'secret
 
   wasp
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'secret
   wasp
 
   decade'
-bip_39_word_new_line_4: 'secret
-
-  wasp
-
-  decade
-
-  film'
-bip_39_word_new_line_5: 'secret
-
-  wasp
-
-  decade
-
-  film
-
-  one'
-bip_39_word_new_line_6: 'secret
-
-  wasp
-
-  decade
-
-  film
-
-  one
-
-  sleep'
-bip_39_word_new_line_7: 'secret
-
-  wasp
-
-  decade
-
-  film
-
-  one
-
-  sleep
-
-  client'
-bip_39_word_new_line_8: 'secret
-
-  wasp
-
-  decade
-
-  film
-
-  one
-
-  sleep
-
-  client
-
-  income'
-bip_39_word_new_line_9: 'secret
-
-  wasp
-
-  decade
-
-  film
-
-  one
-
-  sleep
-
-  client
-
-  income
-
-  puppy'
-bip_39_word_no_space_1: secret
-bip_39_word_no_space_10: secretwaspdecadefilmonesleepclientincomepuppyhelp
-bip_39_word_no_space_11: secretwaspdecadefilmonesleepclientincomepuppyhelpbreeze
 bip_39_word_no_space_12: secretwaspdecadefilmonesleepclientincomepuppyhelpbreezearm
 bip_39_word_no_space_2: secretwasp
 bip_39_word_no_space_3: secretwaspdecade
-bip_39_word_no_space_4: secretwaspdecadefilm
-bip_39_word_no_space_5: secretwaspdecadefilmone
-bip_39_word_no_space_6: secretwaspdecadefilmonesleep
-bip_39_word_no_space_7: secretwaspdecadefilmonesleepclient
-bip_39_word_no_space_8: secretwaspdecadefilmonesleepclientincome
-bip_39_word_no_space_9: secretwaspdecadefilmonesleepclientincomepuppy
-bip_39_word_space_0:
-- secret
-- wasp
-- decade
-- film
-- one
-- sleep
-- client
-- income
-- puppy
-- help
-- breeze
-- arm
-bip_39_word_space_1: secret
-bip_39_word_space_10: secret wasp decade film one sleep client income puppy help
-bip_39_word_space_11: secret wasp decade film one sleep client income puppy help breeze
 bip_39_word_space_12: secret wasp decade film one sleep client income puppy help breeze
   arm
 bip_39_word_space_2: secret wasp
 bip_39_word_space_3: secret wasp decade
-bip_39_word_space_4: secret wasp decade film
-bip_39_word_space_5: secret wasp decade film one
-bip_39_word_space_6: secret wasp decade film one sleep
-bip_39_word_space_7: secret wasp decade film one sleep client
-bip_39_word_space_8: secret wasp decade film one sleep client income
-bip_39_word_space_9: secret wasp decade film one sleep client income puppy
-bip_39_word_underscore_1: secret
-bip_39_word_underscore_10: secret_wasp_decade_film_one_sleep_client_income_puppy_help
-bip_39_word_underscore_11: secret_wasp_decade_film_one_sleep_client_income_puppy_help_breeze
 bip_39_word_underscore_12: secret_wasp_decade_film_one_sleep_client_income_puppy_help_breeze_arm
 bip_39_word_underscore_2: secret_wasp
 bip_39_word_underscore_3: secret_wasp_decade
-bip_39_word_underscore_4: secret_wasp_decade_film
-bip_39_word_underscore_5: secret_wasp_decade_film_one
-bip_39_word_underscore_6: secret_wasp_decade_film_one_sleep
-bip_39_word_underscore_7: secret_wasp_decade_film_one_sleep_client
-bip_39_word_underscore_8: secret_wasp_decade_film_one_sleep_client_income
-bip_39_word_underscore_9: secret_wasp_decade_film_one_sleep_client_income_puppy
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

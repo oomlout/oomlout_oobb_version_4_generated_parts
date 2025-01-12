@@ -1,68 +1,9 @@
-bip_39_word_dash_1: sugar
-bip_39_word_dash_10: sugar-busy-shoe-song-leader-excess-lift-initial-scrap-clock
-bip_39_word_dash_11: sugar-busy-shoe-song-leader-excess-lift-initial-scrap-clock-stable
 bip_39_word_dash_12: sugar-busy-shoe-song-leader-excess-lift-initial-scrap-clock-stable-abstract
 bip_39_word_dash_2: sugar-busy
 bip_39_word_dash_3: sugar-busy-shoe
-bip_39_word_dash_4: sugar-busy-shoe-song
-bip_39_word_dash_5: sugar-busy-shoe-song-leader
-bip_39_word_dash_6: sugar-busy-shoe-song-leader-excess
-bip_39_word_dash_7: sugar-busy-shoe-song-leader-excess-lift
-bip_39_word_dash_8: sugar-busy-shoe-song-leader-excess-lift-initial
-bip_39_word_dash_9: sugar-busy-shoe-song-leader-excess-lift-initial-scrap
-bip_39_word_new_br_1: sugar
-bip_39_word_new_br_10: sugar<br>busy<br>shoe<br>song<br>leader<br>excess<br>lift<br>initial<br>scrap<br>clock
-bip_39_word_new_br_11: sugar<br>busy<br>shoe<br>song<br>leader<br>excess<br>lift<br>initial<br>scrap<br>clock<br>stable
 bip_39_word_new_br_12: sugar<br>busy<br>shoe<br>song<br>leader<br>excess<br>lift<br>initial<br>scrap<br>clock<br>stable<br>abstract
 bip_39_word_new_br_2: sugar<br>busy
 bip_39_word_new_br_3: sugar<br>busy<br>shoe
-bip_39_word_new_br_4: sugar<br>busy<br>shoe<br>song
-bip_39_word_new_br_5: sugar<br>busy<br>shoe<br>song<br>leader
-bip_39_word_new_br_6: sugar<br>busy<br>shoe<br>song<br>leader<br>excess
-bip_39_word_new_br_7: sugar<br>busy<br>shoe<br>song<br>leader<br>excess<br>lift
-bip_39_word_new_br_8: sugar<br>busy<br>shoe<br>song<br>leader<br>excess<br>lift<br>initial
-bip_39_word_new_br_9: sugar<br>busy<br>shoe<br>song<br>leader<br>excess<br>lift<br>initial<br>scrap
-bip_39_word_new_line_1: sugar
-bip_39_word_new_line_10: 'sugar
-
-  busy
-
-  shoe
-
-  song
-
-  leader
-
-  excess
-
-  lift
-
-  initial
-
-  scrap
-
-  clock'
-bip_39_word_new_line_11: 'sugar
-
-  busy
-
-  shoe
-
-  song
-
-  leader
-
-  excess
-
-  lift
-
-  initial
-
-  scrap
-
-  clock
-
-  stable'
 bip_39_word_new_line_12: 'sugar
 
   busy
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'sugar
   busy
 
   shoe'
-bip_39_word_new_line_4: 'sugar
-
-  busy
-
-  shoe
-
-  song'
-bip_39_word_new_line_5: 'sugar
-
-  busy
-
-  shoe
-
-  song
-
-  leader'
-bip_39_word_new_line_6: 'sugar
-
-  busy
-
-  shoe
-
-  song
-
-  leader
-
-  excess'
-bip_39_word_new_line_7: 'sugar
-
-  busy
-
-  shoe
-
-  song
-
-  leader
-
-  excess
-
-  lift'
-bip_39_word_new_line_8: 'sugar
-
-  busy
-
-  shoe
-
-  song
-
-  leader
-
-  excess
-
-  lift
-
-  initial'
-bip_39_word_new_line_9: 'sugar
-
-  busy
-
-  shoe
-
-  song
-
-  leader
-
-  excess
-
-  lift
-
-  initial
-
-  scrap'
-bip_39_word_no_space_1: sugar
-bip_39_word_no_space_10: sugarbusyshoesongleaderexcessliftinitialscrapclock
-bip_39_word_no_space_11: sugarbusyshoesongleaderexcessliftinitialscrapclockstable
 bip_39_word_no_space_12: sugarbusyshoesongleaderexcessliftinitialscrapclockstableabstract
 bip_39_word_no_space_2: sugarbusy
 bip_39_word_no_space_3: sugarbusyshoe
-bip_39_word_no_space_4: sugarbusyshoesong
-bip_39_word_no_space_5: sugarbusyshoesongleader
-bip_39_word_no_space_6: sugarbusyshoesongleaderexcess
-bip_39_word_no_space_7: sugarbusyshoesongleaderexcesslift
-bip_39_word_no_space_8: sugarbusyshoesongleaderexcessliftinitial
-bip_39_word_no_space_9: sugarbusyshoesongleaderexcessliftinitialscrap
-bip_39_word_space_0:
-- sugar
-- busy
-- shoe
-- song
-- leader
-- excess
-- lift
-- initial
-- scrap
-- clock
-- stable
-- abstract
-bip_39_word_space_1: sugar
-bip_39_word_space_10: sugar busy shoe song leader excess lift initial scrap clock
-bip_39_word_space_11: sugar busy shoe song leader excess lift initial scrap clock
-  stable
 bip_39_word_space_12: sugar busy shoe song leader excess lift initial scrap clock
   stable abstract
 bip_39_word_space_2: sugar busy
 bip_39_word_space_3: sugar busy shoe
-bip_39_word_space_4: sugar busy shoe song
-bip_39_word_space_5: sugar busy shoe song leader
-bip_39_word_space_6: sugar busy shoe song leader excess
-bip_39_word_space_7: sugar busy shoe song leader excess lift
-bip_39_word_space_8: sugar busy shoe song leader excess lift initial
-bip_39_word_space_9: sugar busy shoe song leader excess lift initial scrap
-bip_39_word_underscore_1: sugar
-bip_39_word_underscore_10: sugar_busy_shoe_song_leader_excess_lift_initial_scrap_clock
-bip_39_word_underscore_11: sugar_busy_shoe_song_leader_excess_lift_initial_scrap_clock_stable
 bip_39_word_underscore_12: sugar_busy_shoe_song_leader_excess_lift_initial_scrap_clock_stable_abstract
 bip_39_word_underscore_2: sugar_busy
 bip_39_word_underscore_3: sugar_busy_shoe
-bip_39_word_underscore_4: sugar_busy_shoe_song
-bip_39_word_underscore_5: sugar_busy_shoe_song_leader
-bip_39_word_underscore_6: sugar_busy_shoe_song_leader_excess
-bip_39_word_underscore_7: sugar_busy_shoe_song_leader_excess_lift
-bip_39_word_underscore_8: sugar_busy_shoe_song_leader_excess_lift_initial
-bip_39_word_underscore_9: sugar_busy_shoe_song_leader_excess_lift_initial_scrap
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

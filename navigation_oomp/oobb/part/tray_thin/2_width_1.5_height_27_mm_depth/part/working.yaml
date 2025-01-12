@@ -1,68 +1,9 @@
-bip_39_word_dash_1: mimic
-bip_39_word_dash_10: mimic-steak-feed-addict-gather-purchase-spider-they-amateur-abstract
-bip_39_word_dash_11: mimic-steak-feed-addict-gather-purchase-spider-they-amateur-abstract-elder
 bip_39_word_dash_12: mimic-steak-feed-addict-gather-purchase-spider-they-amateur-abstract-elder-animal
 bip_39_word_dash_2: mimic-steak
 bip_39_word_dash_3: mimic-steak-feed
-bip_39_word_dash_4: mimic-steak-feed-addict
-bip_39_word_dash_5: mimic-steak-feed-addict-gather
-bip_39_word_dash_6: mimic-steak-feed-addict-gather-purchase
-bip_39_word_dash_7: mimic-steak-feed-addict-gather-purchase-spider
-bip_39_word_dash_8: mimic-steak-feed-addict-gather-purchase-spider-they
-bip_39_word_dash_9: mimic-steak-feed-addict-gather-purchase-spider-they-amateur
-bip_39_word_new_br_1: mimic
-bip_39_word_new_br_10: mimic<br>steak<br>feed<br>addict<br>gather<br>purchase<br>spider<br>they<br>amateur<br>abstract
-bip_39_word_new_br_11: mimic<br>steak<br>feed<br>addict<br>gather<br>purchase<br>spider<br>they<br>amateur<br>abstract<br>elder
 bip_39_word_new_br_12: mimic<br>steak<br>feed<br>addict<br>gather<br>purchase<br>spider<br>they<br>amateur<br>abstract<br>elder<br>animal
 bip_39_word_new_br_2: mimic<br>steak
 bip_39_word_new_br_3: mimic<br>steak<br>feed
-bip_39_word_new_br_4: mimic<br>steak<br>feed<br>addict
-bip_39_word_new_br_5: mimic<br>steak<br>feed<br>addict<br>gather
-bip_39_word_new_br_6: mimic<br>steak<br>feed<br>addict<br>gather<br>purchase
-bip_39_word_new_br_7: mimic<br>steak<br>feed<br>addict<br>gather<br>purchase<br>spider
-bip_39_word_new_br_8: mimic<br>steak<br>feed<br>addict<br>gather<br>purchase<br>spider<br>they
-bip_39_word_new_br_9: mimic<br>steak<br>feed<br>addict<br>gather<br>purchase<br>spider<br>they<br>amateur
-bip_39_word_new_line_1: mimic
-bip_39_word_new_line_10: 'mimic
-
-  steak
-
-  feed
-
-  addict
-
-  gather
-
-  purchase
-
-  spider
-
-  they
-
-  amateur
-
-  abstract'
-bip_39_word_new_line_11: 'mimic
-
-  steak
-
-  feed
-
-  addict
-
-  gather
-
-  purchase
-
-  spider
-
-  they
-
-  amateur
-
-  abstract
-
-  elder'
 bip_39_word_new_line_12: 'mimic
 
   steak
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'mimic
   steak
 
   feed'
-bip_39_word_new_line_4: 'mimic
-
-  steak
-
-  feed
-
-  addict'
-bip_39_word_new_line_5: 'mimic
-
-  steak
-
-  feed
-
-  addict
-
-  gather'
-bip_39_word_new_line_6: 'mimic
-
-  steak
-
-  feed
-
-  addict
-
-  gather
-
-  purchase'
-bip_39_word_new_line_7: 'mimic
-
-  steak
-
-  feed
-
-  addict
-
-  gather
-
-  purchase
-
-  spider'
-bip_39_word_new_line_8: 'mimic
-
-  steak
-
-  feed
-
-  addict
-
-  gather
-
-  purchase
-
-  spider
-
-  they'
-bip_39_word_new_line_9: 'mimic
-
-  steak
-
-  feed
-
-  addict
-
-  gather
-
-  purchase
-
-  spider
-
-  they
-
-  amateur'
-bip_39_word_no_space_1: mimic
-bip_39_word_no_space_10: mimicsteakfeedaddictgatherpurchasespidertheyamateurabstract
-bip_39_word_no_space_11: mimicsteakfeedaddictgatherpurchasespidertheyamateurabstractelder
 bip_39_word_no_space_12: mimicsteakfeedaddictgatherpurchasespidertheyamateurabstractelderanimal
 bip_39_word_no_space_2: mimicsteak
 bip_39_word_no_space_3: mimicsteakfeed
-bip_39_word_no_space_4: mimicsteakfeedaddict
-bip_39_word_no_space_5: mimicsteakfeedaddictgather
-bip_39_word_no_space_6: mimicsteakfeedaddictgatherpurchase
-bip_39_word_no_space_7: mimicsteakfeedaddictgatherpurchasespider
-bip_39_word_no_space_8: mimicsteakfeedaddictgatherpurchasespiderthey
-bip_39_word_no_space_9: mimicsteakfeedaddictgatherpurchasespidertheyamateur
-bip_39_word_space_0:
-- mimic
-- steak
-- feed
-- addict
-- gather
-- purchase
-- spider
-- they
-- amateur
-- abstract
-- elder
-- animal
-bip_39_word_space_1: mimic
-bip_39_word_space_10: mimic steak feed addict gather purchase spider they amateur
-  abstract
-bip_39_word_space_11: mimic steak feed addict gather purchase spider they amateur
-  abstract elder
 bip_39_word_space_12: mimic steak feed addict gather purchase spider they amateur
   abstract elder animal
 bip_39_word_space_2: mimic steak
 bip_39_word_space_3: mimic steak feed
-bip_39_word_space_4: mimic steak feed addict
-bip_39_word_space_5: mimic steak feed addict gather
-bip_39_word_space_6: mimic steak feed addict gather purchase
-bip_39_word_space_7: mimic steak feed addict gather purchase spider
-bip_39_word_space_8: mimic steak feed addict gather purchase spider they
-bip_39_word_space_9: mimic steak feed addict gather purchase spider they amateur
-bip_39_word_underscore_1: mimic
-bip_39_word_underscore_10: mimic_steak_feed_addict_gather_purchase_spider_they_amateur_abstract
-bip_39_word_underscore_11: mimic_steak_feed_addict_gather_purchase_spider_they_amateur_abstract_elder
 bip_39_word_underscore_12: mimic_steak_feed_addict_gather_purchase_spider_they_amateur_abstract_elder_animal
 bip_39_word_underscore_2: mimic_steak
 bip_39_word_underscore_3: mimic_steak_feed
-bip_39_word_underscore_4: mimic_steak_feed_addict
-bip_39_word_underscore_5: mimic_steak_feed_addict_gather
-bip_39_word_underscore_6: mimic_steak_feed_addict_gather_purchase
-bip_39_word_underscore_7: mimic_steak_feed_addict_gather_purchase_spider
-bip_39_word_underscore_8: mimic_steak_feed_addict_gather_purchase_spider_they
-bip_39_word_underscore_9: mimic_steak_feed_addict_gather_purchase_spider_they_amateur
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

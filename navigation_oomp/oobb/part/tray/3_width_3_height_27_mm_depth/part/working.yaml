@@ -1,68 +1,9 @@
-bip_39_word_dash_1: robot
-bip_39_word_dash_10: robot-credit-neutral-service-gas-fox-south-razor-property-below
-bip_39_word_dash_11: robot-credit-neutral-service-gas-fox-south-razor-property-below-science
 bip_39_word_dash_12: robot-credit-neutral-service-gas-fox-south-razor-property-below-science-amount
 bip_39_word_dash_2: robot-credit
 bip_39_word_dash_3: robot-credit-neutral
-bip_39_word_dash_4: robot-credit-neutral-service
-bip_39_word_dash_5: robot-credit-neutral-service-gas
-bip_39_word_dash_6: robot-credit-neutral-service-gas-fox
-bip_39_word_dash_7: robot-credit-neutral-service-gas-fox-south
-bip_39_word_dash_8: robot-credit-neutral-service-gas-fox-south-razor
-bip_39_word_dash_9: robot-credit-neutral-service-gas-fox-south-razor-property
-bip_39_word_new_br_1: robot
-bip_39_word_new_br_10: robot<br>credit<br>neutral<br>service<br>gas<br>fox<br>south<br>razor<br>property<br>below
-bip_39_word_new_br_11: robot<br>credit<br>neutral<br>service<br>gas<br>fox<br>south<br>razor<br>property<br>below<br>science
 bip_39_word_new_br_12: robot<br>credit<br>neutral<br>service<br>gas<br>fox<br>south<br>razor<br>property<br>below<br>science<br>amount
 bip_39_word_new_br_2: robot<br>credit
 bip_39_word_new_br_3: robot<br>credit<br>neutral
-bip_39_word_new_br_4: robot<br>credit<br>neutral<br>service
-bip_39_word_new_br_5: robot<br>credit<br>neutral<br>service<br>gas
-bip_39_word_new_br_6: robot<br>credit<br>neutral<br>service<br>gas<br>fox
-bip_39_word_new_br_7: robot<br>credit<br>neutral<br>service<br>gas<br>fox<br>south
-bip_39_word_new_br_8: robot<br>credit<br>neutral<br>service<br>gas<br>fox<br>south<br>razor
-bip_39_word_new_br_9: robot<br>credit<br>neutral<br>service<br>gas<br>fox<br>south<br>razor<br>property
-bip_39_word_new_line_1: robot
-bip_39_word_new_line_10: 'robot
-
-  credit
-
-  neutral
-
-  service
-
-  gas
-
-  fox
-
-  south
-
-  razor
-
-  property
-
-  below'
-bip_39_word_new_line_11: 'robot
-
-  credit
-
-  neutral
-
-  service
-
-  gas
-
-  fox
-
-  south
-
-  razor
-
-  property
-
-  below
-
-  science'
 bip_39_word_new_line_12: 'robot
 
   credit
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'robot
   credit
 
   neutral'
-bip_39_word_new_line_4: 'robot
-
-  credit
-
-  neutral
-
-  service'
-bip_39_word_new_line_5: 'robot
-
-  credit
-
-  neutral
-
-  service
-
-  gas'
-bip_39_word_new_line_6: 'robot
-
-  credit
-
-  neutral
-
-  service
-
-  gas
-
-  fox'
-bip_39_word_new_line_7: 'robot
-
-  credit
-
-  neutral
-
-  service
-
-  gas
-
-  fox
-
-  south'
-bip_39_word_new_line_8: 'robot
-
-  credit
-
-  neutral
-
-  service
-
-  gas
-
-  fox
-
-  south
-
-  razor'
-bip_39_word_new_line_9: 'robot
-
-  credit
-
-  neutral
-
-  service
-
-  gas
-
-  fox
-
-  south
-
-  razor
-
-  property'
-bip_39_word_no_space_1: robot
-bip_39_word_no_space_10: robotcreditneutralservicegasfoxsouthrazorpropertybelow
-bip_39_word_no_space_11: robotcreditneutralservicegasfoxsouthrazorpropertybelowscience
 bip_39_word_no_space_12: robotcreditneutralservicegasfoxsouthrazorpropertybelowscienceamount
 bip_39_word_no_space_2: robotcredit
 bip_39_word_no_space_3: robotcreditneutral
-bip_39_word_no_space_4: robotcreditneutralservice
-bip_39_word_no_space_5: robotcreditneutralservicegas
-bip_39_word_no_space_6: robotcreditneutralservicegasfox
-bip_39_word_no_space_7: robotcreditneutralservicegasfoxsouth
-bip_39_word_no_space_8: robotcreditneutralservicegasfoxsouthrazor
-bip_39_word_no_space_9: robotcreditneutralservicegasfoxsouthrazorproperty
-bip_39_word_space_0:
-- robot
-- credit
-- neutral
-- service
-- gas
-- fox
-- south
-- razor
-- property
-- below
-- science
-- amount
-bip_39_word_space_1: robot
-bip_39_word_space_10: robot credit neutral service gas fox south razor property below
-bip_39_word_space_11: robot credit neutral service gas fox south razor property below
-  science
 bip_39_word_space_12: robot credit neutral service gas fox south razor property below
   science amount
 bip_39_word_space_2: robot credit
 bip_39_word_space_3: robot credit neutral
-bip_39_word_space_4: robot credit neutral service
-bip_39_word_space_5: robot credit neutral service gas
-bip_39_word_space_6: robot credit neutral service gas fox
-bip_39_word_space_7: robot credit neutral service gas fox south
-bip_39_word_space_8: robot credit neutral service gas fox south razor
-bip_39_word_space_9: robot credit neutral service gas fox south razor property
-bip_39_word_underscore_1: robot
-bip_39_word_underscore_10: robot_credit_neutral_service_gas_fox_south_razor_property_below
-bip_39_word_underscore_11: robot_credit_neutral_service_gas_fox_south_razor_property_below_science
 bip_39_word_underscore_12: robot_credit_neutral_service_gas_fox_south_razor_property_below_science_amount
 bip_39_word_underscore_2: robot_credit
 bip_39_word_underscore_3: robot_credit_neutral
-bip_39_word_underscore_4: robot_credit_neutral_service
-bip_39_word_underscore_5: robot_credit_neutral_service_gas
-bip_39_word_underscore_6: robot_credit_neutral_service_gas_fox
-bip_39_word_underscore_7: robot_credit_neutral_service_gas_fox_south
-bip_39_word_underscore_8: robot_credit_neutral_service_gas_fox_south_razor
-bip_39_word_underscore_9: robot_credit_neutral_service_gas_fox_south_razor_property
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

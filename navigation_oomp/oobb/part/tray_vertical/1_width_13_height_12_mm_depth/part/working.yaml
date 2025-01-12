@@ -1,68 +1,9 @@
-bip_39_word_dash_1: bounce
-bip_39_word_dash_10: bounce-neutral-panda-tuition-all-office-relief-amused-make-defy
-bip_39_word_dash_11: bounce-neutral-panda-tuition-all-office-relief-amused-make-defy-basic
 bip_39_word_dash_12: bounce-neutral-panda-tuition-all-office-relief-amused-make-defy-basic-anger
 bip_39_word_dash_2: bounce-neutral
 bip_39_word_dash_3: bounce-neutral-panda
-bip_39_word_dash_4: bounce-neutral-panda-tuition
-bip_39_word_dash_5: bounce-neutral-panda-tuition-all
-bip_39_word_dash_6: bounce-neutral-panda-tuition-all-office
-bip_39_word_dash_7: bounce-neutral-panda-tuition-all-office-relief
-bip_39_word_dash_8: bounce-neutral-panda-tuition-all-office-relief-amused
-bip_39_word_dash_9: bounce-neutral-panda-tuition-all-office-relief-amused-make
-bip_39_word_new_br_1: bounce
-bip_39_word_new_br_10: bounce<br>neutral<br>panda<br>tuition<br>all<br>office<br>relief<br>amused<br>make<br>defy
-bip_39_word_new_br_11: bounce<br>neutral<br>panda<br>tuition<br>all<br>office<br>relief<br>amused<br>make<br>defy<br>basic
 bip_39_word_new_br_12: bounce<br>neutral<br>panda<br>tuition<br>all<br>office<br>relief<br>amused<br>make<br>defy<br>basic<br>anger
 bip_39_word_new_br_2: bounce<br>neutral
 bip_39_word_new_br_3: bounce<br>neutral<br>panda
-bip_39_word_new_br_4: bounce<br>neutral<br>panda<br>tuition
-bip_39_word_new_br_5: bounce<br>neutral<br>panda<br>tuition<br>all
-bip_39_word_new_br_6: bounce<br>neutral<br>panda<br>tuition<br>all<br>office
-bip_39_word_new_br_7: bounce<br>neutral<br>panda<br>tuition<br>all<br>office<br>relief
-bip_39_word_new_br_8: bounce<br>neutral<br>panda<br>tuition<br>all<br>office<br>relief<br>amused
-bip_39_word_new_br_9: bounce<br>neutral<br>panda<br>tuition<br>all<br>office<br>relief<br>amused<br>make
-bip_39_word_new_line_1: bounce
-bip_39_word_new_line_10: 'bounce
-
-  neutral
-
-  panda
-
-  tuition
-
-  all
-
-  office
-
-  relief
-
-  amused
-
-  make
-
-  defy'
-bip_39_word_new_line_11: 'bounce
-
-  neutral
-
-  panda
-
-  tuition
-
-  all
-
-  office
-
-  relief
-
-  amused
-
-  make
-
-  defy
-
-  basic'
 bip_39_word_new_line_12: 'bounce
 
   neutral
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'bounce
   neutral
 
   panda'
-bip_39_word_new_line_4: 'bounce
-
-  neutral
-
-  panda
-
-  tuition'
-bip_39_word_new_line_5: 'bounce
-
-  neutral
-
-  panda
-
-  tuition
-
-  all'
-bip_39_word_new_line_6: 'bounce
-
-  neutral
-
-  panda
-
-  tuition
-
-  all
-
-  office'
-bip_39_word_new_line_7: 'bounce
-
-  neutral
-
-  panda
-
-  tuition
-
-  all
-
-  office
-
-  relief'
-bip_39_word_new_line_8: 'bounce
-
-  neutral
-
-  panda
-
-  tuition
-
-  all
-
-  office
-
-  relief
-
-  amused'
-bip_39_word_new_line_9: 'bounce
-
-  neutral
-
-  panda
-
-  tuition
-
-  all
-
-  office
-
-  relief
-
-  amused
-
-  make'
-bip_39_word_no_space_1: bounce
-bip_39_word_no_space_10: bounceneutralpandatuitionallofficereliefamusedmakedefy
-bip_39_word_no_space_11: bounceneutralpandatuitionallofficereliefamusedmakedefybasic
 bip_39_word_no_space_12: bounceneutralpandatuitionallofficereliefamusedmakedefybasicanger
 bip_39_word_no_space_2: bounceneutral
 bip_39_word_no_space_3: bounceneutralpanda
-bip_39_word_no_space_4: bounceneutralpandatuition
-bip_39_word_no_space_5: bounceneutralpandatuitionall
-bip_39_word_no_space_6: bounceneutralpandatuitionalloffice
-bip_39_word_no_space_7: bounceneutralpandatuitionallofficerelief
-bip_39_word_no_space_8: bounceneutralpandatuitionallofficereliefamused
-bip_39_word_no_space_9: bounceneutralpandatuitionallofficereliefamusedmake
-bip_39_word_space_0:
-- bounce
-- neutral
-- panda
-- tuition
-- all
-- office
-- relief
-- amused
-- make
-- defy
-- basic
-- anger
-bip_39_word_space_1: bounce
-bip_39_word_space_10: bounce neutral panda tuition all office relief amused make defy
-bip_39_word_space_11: bounce neutral panda tuition all office relief amused make defy
-  basic
 bip_39_word_space_12: bounce neutral panda tuition all office relief amused make defy
   basic anger
 bip_39_word_space_2: bounce neutral
 bip_39_word_space_3: bounce neutral panda
-bip_39_word_space_4: bounce neutral panda tuition
-bip_39_word_space_5: bounce neutral panda tuition all
-bip_39_word_space_6: bounce neutral panda tuition all office
-bip_39_word_space_7: bounce neutral panda tuition all office relief
-bip_39_word_space_8: bounce neutral panda tuition all office relief amused
-bip_39_word_space_9: bounce neutral panda tuition all office relief amused make
-bip_39_word_underscore_1: bounce
-bip_39_word_underscore_10: bounce_neutral_panda_tuition_all_office_relief_amused_make_defy
-bip_39_word_underscore_11: bounce_neutral_panda_tuition_all_office_relief_amused_make_defy_basic
 bip_39_word_underscore_12: bounce_neutral_panda_tuition_all_office_relief_amused_make_defy_basic_anger
 bip_39_word_underscore_2: bounce_neutral
 bip_39_word_underscore_3: bounce_neutral_panda
-bip_39_word_underscore_4: bounce_neutral_panda_tuition
-bip_39_word_underscore_5: bounce_neutral_panda_tuition_all
-bip_39_word_underscore_6: bounce_neutral_panda_tuition_all_office
-bip_39_word_underscore_7: bounce_neutral_panda_tuition_all_office_relief
-bip_39_word_underscore_8: bounce_neutral_panda_tuition_all_office_relief_amused
-bip_39_word_underscore_9: bounce_neutral_panda_tuition_all_office_relief_amused_make
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

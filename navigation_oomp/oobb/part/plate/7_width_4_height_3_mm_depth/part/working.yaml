@@ -1,68 +1,9 @@
-bip_39_word_dash_1: hint
-bip_39_word_dash_10: hint-select-question-intact-verb-all-inner-valley-review-announce
-bip_39_word_dash_11: hint-select-question-intact-verb-all-inner-valley-review-announce-soft
 bip_39_word_dash_12: hint-select-question-intact-verb-all-inner-valley-review-announce-soft-alter
 bip_39_word_dash_2: hint-select
 bip_39_word_dash_3: hint-select-question
-bip_39_word_dash_4: hint-select-question-intact
-bip_39_word_dash_5: hint-select-question-intact-verb
-bip_39_word_dash_6: hint-select-question-intact-verb-all
-bip_39_word_dash_7: hint-select-question-intact-verb-all-inner
-bip_39_word_dash_8: hint-select-question-intact-verb-all-inner-valley
-bip_39_word_dash_9: hint-select-question-intact-verb-all-inner-valley-review
-bip_39_word_new_br_1: hint
-bip_39_word_new_br_10: hint<br>select<br>question<br>intact<br>verb<br>all<br>inner<br>valley<br>review<br>announce
-bip_39_word_new_br_11: hint<br>select<br>question<br>intact<br>verb<br>all<br>inner<br>valley<br>review<br>announce<br>soft
 bip_39_word_new_br_12: hint<br>select<br>question<br>intact<br>verb<br>all<br>inner<br>valley<br>review<br>announce<br>soft<br>alter
 bip_39_word_new_br_2: hint<br>select
 bip_39_word_new_br_3: hint<br>select<br>question
-bip_39_word_new_br_4: hint<br>select<br>question<br>intact
-bip_39_word_new_br_5: hint<br>select<br>question<br>intact<br>verb
-bip_39_word_new_br_6: hint<br>select<br>question<br>intact<br>verb<br>all
-bip_39_word_new_br_7: hint<br>select<br>question<br>intact<br>verb<br>all<br>inner
-bip_39_word_new_br_8: hint<br>select<br>question<br>intact<br>verb<br>all<br>inner<br>valley
-bip_39_word_new_br_9: hint<br>select<br>question<br>intact<br>verb<br>all<br>inner<br>valley<br>review
-bip_39_word_new_line_1: hint
-bip_39_word_new_line_10: 'hint
-
-  select
-
-  question
-
-  intact
-
-  verb
-
-  all
-
-  inner
-
-  valley
-
-  review
-
-  announce'
-bip_39_word_new_line_11: 'hint
-
-  select
-
-  question
-
-  intact
-
-  verb
-
-  all
-
-  inner
-
-  valley
-
-  review
-
-  announce
-
-  soft'
 bip_39_word_new_line_12: 'hint
 
   select
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'hint
   select
 
   question'
-bip_39_word_new_line_4: 'hint
-
-  select
-
-  question
-
-  intact'
-bip_39_word_new_line_5: 'hint
-
-  select
-
-  question
-
-  intact
-
-  verb'
-bip_39_word_new_line_6: 'hint
-
-  select
-
-  question
-
-  intact
-
-  verb
-
-  all'
-bip_39_word_new_line_7: 'hint
-
-  select
-
-  question
-
-  intact
-
-  verb
-
-  all
-
-  inner'
-bip_39_word_new_line_8: 'hint
-
-  select
-
-  question
-
-  intact
-
-  verb
-
-  all
-
-  inner
-
-  valley'
-bip_39_word_new_line_9: 'hint
-
-  select
-
-  question
-
-  intact
-
-  verb
-
-  all
-
-  inner
-
-  valley
-
-  review'
-bip_39_word_no_space_1: hint
-bip_39_word_no_space_10: hintselectquestionintactverballinnervalleyreviewannounce
-bip_39_word_no_space_11: hintselectquestionintactverballinnervalleyreviewannouncesoft
 bip_39_word_no_space_12: hintselectquestionintactverballinnervalleyreviewannouncesoftalter
 bip_39_word_no_space_2: hintselect
 bip_39_word_no_space_3: hintselectquestion
-bip_39_word_no_space_4: hintselectquestionintact
-bip_39_word_no_space_5: hintselectquestionintactverb
-bip_39_word_no_space_6: hintselectquestionintactverball
-bip_39_word_no_space_7: hintselectquestionintactverballinner
-bip_39_word_no_space_8: hintselectquestionintactverballinnervalley
-bip_39_word_no_space_9: hintselectquestionintactverballinnervalleyreview
-bip_39_word_space_0:
-- hint
-- select
-- question
-- intact
-- verb
-- all
-- inner
-- valley
-- review
-- announce
-- soft
-- alter
-bip_39_word_space_1: hint
-bip_39_word_space_10: hint select question intact verb all inner valley review announce
-bip_39_word_space_11: hint select question intact verb all inner valley review announce
-  soft
 bip_39_word_space_12: hint select question intact verb all inner valley review announce
   soft alter
 bip_39_word_space_2: hint select
 bip_39_word_space_3: hint select question
-bip_39_word_space_4: hint select question intact
-bip_39_word_space_5: hint select question intact verb
-bip_39_word_space_6: hint select question intact verb all
-bip_39_word_space_7: hint select question intact verb all inner
-bip_39_word_space_8: hint select question intact verb all inner valley
-bip_39_word_space_9: hint select question intact verb all inner valley review
-bip_39_word_underscore_1: hint
-bip_39_word_underscore_10: hint_select_question_intact_verb_all_inner_valley_review_announce
-bip_39_word_underscore_11: hint_select_question_intact_verb_all_inner_valley_review_announce_soft
 bip_39_word_underscore_12: hint_select_question_intact_verb_all_inner_valley_review_announce_soft_alter
 bip_39_word_underscore_2: hint_select
 bip_39_word_underscore_3: hint_select_question
-bip_39_word_underscore_4: hint_select_question_intact
-bip_39_word_underscore_5: hint_select_question_intact_verb
-bip_39_word_underscore_6: hint_select_question_intact_verb_all
-bip_39_word_underscore_7: hint_select_question_intact_verb_all_inner
-bip_39_word_underscore_8: hint_select_question_intact_verb_all_inner_valley
-bip_39_word_underscore_9: hint_select_question_intact_verb_all_inner_valley_review
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

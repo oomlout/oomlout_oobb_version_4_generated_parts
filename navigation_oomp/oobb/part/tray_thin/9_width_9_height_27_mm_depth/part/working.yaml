@@ -1,68 +1,9 @@
-bip_39_word_dash_1: craft
-bip_39_word_dash_10: craft-genre-wire-calm-family-slice-real-alone-rabbit-sibling
-bip_39_word_dash_11: craft-genre-wire-calm-family-slice-real-alone-rabbit-sibling-squeeze
 bip_39_word_dash_12: craft-genre-wire-calm-family-slice-real-alone-rabbit-sibling-squeeze-average
 bip_39_word_dash_2: craft-genre
 bip_39_word_dash_3: craft-genre-wire
-bip_39_word_dash_4: craft-genre-wire-calm
-bip_39_word_dash_5: craft-genre-wire-calm-family
-bip_39_word_dash_6: craft-genre-wire-calm-family-slice
-bip_39_word_dash_7: craft-genre-wire-calm-family-slice-real
-bip_39_word_dash_8: craft-genre-wire-calm-family-slice-real-alone
-bip_39_word_dash_9: craft-genre-wire-calm-family-slice-real-alone-rabbit
-bip_39_word_new_br_1: craft
-bip_39_word_new_br_10: craft<br>genre<br>wire<br>calm<br>family<br>slice<br>real<br>alone<br>rabbit<br>sibling
-bip_39_word_new_br_11: craft<br>genre<br>wire<br>calm<br>family<br>slice<br>real<br>alone<br>rabbit<br>sibling<br>squeeze
 bip_39_word_new_br_12: craft<br>genre<br>wire<br>calm<br>family<br>slice<br>real<br>alone<br>rabbit<br>sibling<br>squeeze<br>average
 bip_39_word_new_br_2: craft<br>genre
 bip_39_word_new_br_3: craft<br>genre<br>wire
-bip_39_word_new_br_4: craft<br>genre<br>wire<br>calm
-bip_39_word_new_br_5: craft<br>genre<br>wire<br>calm<br>family
-bip_39_word_new_br_6: craft<br>genre<br>wire<br>calm<br>family<br>slice
-bip_39_word_new_br_7: craft<br>genre<br>wire<br>calm<br>family<br>slice<br>real
-bip_39_word_new_br_8: craft<br>genre<br>wire<br>calm<br>family<br>slice<br>real<br>alone
-bip_39_word_new_br_9: craft<br>genre<br>wire<br>calm<br>family<br>slice<br>real<br>alone<br>rabbit
-bip_39_word_new_line_1: craft
-bip_39_word_new_line_10: 'craft
-
-  genre
-
-  wire
-
-  calm
-
-  family
-
-  slice
-
-  real
-
-  alone
-
-  rabbit
-
-  sibling'
-bip_39_word_new_line_11: 'craft
-
-  genre
-
-  wire
-
-  calm
-
-  family
-
-  slice
-
-  real
-
-  alone
-
-  rabbit
-
-  sibling
-
-  squeeze'
 bip_39_word_new_line_12: 'craft
 
   genre
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'craft
   genre
 
   wire'
-bip_39_word_new_line_4: 'craft
-
-  genre
-
-  wire
-
-  calm'
-bip_39_word_new_line_5: 'craft
-
-  genre
-
-  wire
-
-  calm
-
-  family'
-bip_39_word_new_line_6: 'craft
-
-  genre
-
-  wire
-
-  calm
-
-  family
-
-  slice'
-bip_39_word_new_line_7: 'craft
-
-  genre
-
-  wire
-
-  calm
-
-  family
-
-  slice
-
-  real'
-bip_39_word_new_line_8: 'craft
-
-  genre
-
-  wire
-
-  calm
-
-  family
-
-  slice
-
-  real
-
-  alone'
-bip_39_word_new_line_9: 'craft
-
-  genre
-
-  wire
-
-  calm
-
-  family
-
-  slice
-
-  real
-
-  alone
-
-  rabbit'
-bip_39_word_no_space_1: craft
-bip_39_word_no_space_10: craftgenrewirecalmfamilyslicerealalonerabbitsibling
-bip_39_word_no_space_11: craftgenrewirecalmfamilyslicerealalonerabbitsiblingsqueeze
 bip_39_word_no_space_12: craftgenrewirecalmfamilyslicerealalonerabbitsiblingsqueezeaverage
 bip_39_word_no_space_2: craftgenre
 bip_39_word_no_space_3: craftgenrewire
-bip_39_word_no_space_4: craftgenrewirecalm
-bip_39_word_no_space_5: craftgenrewirecalmfamily
-bip_39_word_no_space_6: craftgenrewirecalmfamilyslice
-bip_39_word_no_space_7: craftgenrewirecalmfamilyslicereal
-bip_39_word_no_space_8: craftgenrewirecalmfamilyslicerealalone
-bip_39_word_no_space_9: craftgenrewirecalmfamilyslicerealalonerabbit
-bip_39_word_space_0:
-- craft
-- genre
-- wire
-- calm
-- family
-- slice
-- real
-- alone
-- rabbit
-- sibling
-- squeeze
-- average
-bip_39_word_space_1: craft
-bip_39_word_space_10: craft genre wire calm family slice real alone rabbit sibling
-bip_39_word_space_11: craft genre wire calm family slice real alone rabbit sibling
-  squeeze
 bip_39_word_space_12: craft genre wire calm family slice real alone rabbit sibling
   squeeze average
 bip_39_word_space_2: craft genre
 bip_39_word_space_3: craft genre wire
-bip_39_word_space_4: craft genre wire calm
-bip_39_word_space_5: craft genre wire calm family
-bip_39_word_space_6: craft genre wire calm family slice
-bip_39_word_space_7: craft genre wire calm family slice real
-bip_39_word_space_8: craft genre wire calm family slice real alone
-bip_39_word_space_9: craft genre wire calm family slice real alone rabbit
-bip_39_word_underscore_1: craft
-bip_39_word_underscore_10: craft_genre_wire_calm_family_slice_real_alone_rabbit_sibling
-bip_39_word_underscore_11: craft_genre_wire_calm_family_slice_real_alone_rabbit_sibling_squeeze
 bip_39_word_underscore_12: craft_genre_wire_calm_family_slice_real_alone_rabbit_sibling_squeeze_average
 bip_39_word_underscore_2: craft_genre
 bip_39_word_underscore_3: craft_genre_wire
-bip_39_word_underscore_4: craft_genre_wire_calm
-bip_39_word_underscore_5: craft_genre_wire_calm_family
-bip_39_word_underscore_6: craft_genre_wire_calm_family_slice
-bip_39_word_underscore_7: craft_genre_wire_calm_family_slice_real
-bip_39_word_underscore_8: craft_genre_wire_calm_family_slice_real_alone
-bip_39_word_underscore_9: craft_genre_wire_calm_family_slice_real_alone_rabbit
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

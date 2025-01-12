@@ -1,68 +1,9 @@
-bip_39_word_dash_1: bench
-bip_39_word_dash_10: bench-powder-reason-combine-execute-interest-bottom-vanish-gate-unlock
-bip_39_word_dash_11: bench-powder-reason-combine-execute-interest-bottom-vanish-gate-unlock-oppose
 bip_39_word_dash_12: bench-powder-reason-combine-execute-interest-bottom-vanish-gate-unlock-oppose-another
 bip_39_word_dash_2: bench-powder
 bip_39_word_dash_3: bench-powder-reason
-bip_39_word_dash_4: bench-powder-reason-combine
-bip_39_word_dash_5: bench-powder-reason-combine-execute
-bip_39_word_dash_6: bench-powder-reason-combine-execute-interest
-bip_39_word_dash_7: bench-powder-reason-combine-execute-interest-bottom
-bip_39_word_dash_8: bench-powder-reason-combine-execute-interest-bottom-vanish
-bip_39_word_dash_9: bench-powder-reason-combine-execute-interest-bottom-vanish-gate
-bip_39_word_new_br_1: bench
-bip_39_word_new_br_10: bench<br>powder<br>reason<br>combine<br>execute<br>interest<br>bottom<br>vanish<br>gate<br>unlock
-bip_39_word_new_br_11: bench<br>powder<br>reason<br>combine<br>execute<br>interest<br>bottom<br>vanish<br>gate<br>unlock<br>oppose
 bip_39_word_new_br_12: bench<br>powder<br>reason<br>combine<br>execute<br>interest<br>bottom<br>vanish<br>gate<br>unlock<br>oppose<br>another
 bip_39_word_new_br_2: bench<br>powder
 bip_39_word_new_br_3: bench<br>powder<br>reason
-bip_39_word_new_br_4: bench<br>powder<br>reason<br>combine
-bip_39_word_new_br_5: bench<br>powder<br>reason<br>combine<br>execute
-bip_39_word_new_br_6: bench<br>powder<br>reason<br>combine<br>execute<br>interest
-bip_39_word_new_br_7: bench<br>powder<br>reason<br>combine<br>execute<br>interest<br>bottom
-bip_39_word_new_br_8: bench<br>powder<br>reason<br>combine<br>execute<br>interest<br>bottom<br>vanish
-bip_39_word_new_br_9: bench<br>powder<br>reason<br>combine<br>execute<br>interest<br>bottom<br>vanish<br>gate
-bip_39_word_new_line_1: bench
-bip_39_word_new_line_10: 'bench
-
-  powder
-
-  reason
-
-  combine
-
-  execute
-
-  interest
-
-  bottom
-
-  vanish
-
-  gate
-
-  unlock'
-bip_39_word_new_line_11: 'bench
-
-  powder
-
-  reason
-
-  combine
-
-  execute
-
-  interest
-
-  bottom
-
-  vanish
-
-  gate
-
-  unlock
-
-  oppose'
 bip_39_word_new_line_12: 'bench
 
   powder
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'bench
   powder
 
   reason'
-bip_39_word_new_line_4: 'bench
-
-  powder
-
-  reason
-
-  combine'
-bip_39_word_new_line_5: 'bench
-
-  powder
-
-  reason
-
-  combine
-
-  execute'
-bip_39_word_new_line_6: 'bench
-
-  powder
-
-  reason
-
-  combine
-
-  execute
-
-  interest'
-bip_39_word_new_line_7: 'bench
-
-  powder
-
-  reason
-
-  combine
-
-  execute
-
-  interest
-
-  bottom'
-bip_39_word_new_line_8: 'bench
-
-  powder
-
-  reason
-
-  combine
-
-  execute
-
-  interest
-
-  bottom
-
-  vanish'
-bip_39_word_new_line_9: 'bench
-
-  powder
-
-  reason
-
-  combine
-
-  execute
-
-  interest
-
-  bottom
-
-  vanish
-
-  gate'
-bip_39_word_no_space_1: bench
-bip_39_word_no_space_10: benchpowderreasoncombineexecuteinterestbottomvanishgateunlock
-bip_39_word_no_space_11: benchpowderreasoncombineexecuteinterestbottomvanishgateunlockoppose
 bip_39_word_no_space_12: benchpowderreasoncombineexecuteinterestbottomvanishgateunlockopposeanother
 bip_39_word_no_space_2: benchpowder
 bip_39_word_no_space_3: benchpowderreason
-bip_39_word_no_space_4: benchpowderreasoncombine
-bip_39_word_no_space_5: benchpowderreasoncombineexecute
-bip_39_word_no_space_6: benchpowderreasoncombineexecuteinterest
-bip_39_word_no_space_7: benchpowderreasoncombineexecuteinterestbottom
-bip_39_word_no_space_8: benchpowderreasoncombineexecuteinterestbottomvanish
-bip_39_word_no_space_9: benchpowderreasoncombineexecuteinterestbottomvanishgate
-bip_39_word_space_0:
-- bench
-- powder
-- reason
-- combine
-- execute
-- interest
-- bottom
-- vanish
-- gate
-- unlock
-- oppose
-- another
-bip_39_word_space_1: bench
-bip_39_word_space_10: bench powder reason combine execute interest bottom vanish gate
-  unlock
-bip_39_word_space_11: bench powder reason combine execute interest bottom vanish gate
-  unlock oppose
 bip_39_word_space_12: bench powder reason combine execute interest bottom vanish gate
   unlock oppose another
 bip_39_word_space_2: bench powder
 bip_39_word_space_3: bench powder reason
-bip_39_word_space_4: bench powder reason combine
-bip_39_word_space_5: bench powder reason combine execute
-bip_39_word_space_6: bench powder reason combine execute interest
-bip_39_word_space_7: bench powder reason combine execute interest bottom
-bip_39_word_space_8: bench powder reason combine execute interest bottom vanish
-bip_39_word_space_9: bench powder reason combine execute interest bottom vanish gate
-bip_39_word_underscore_1: bench
-bip_39_word_underscore_10: bench_powder_reason_combine_execute_interest_bottom_vanish_gate_unlock
-bip_39_word_underscore_11: bench_powder_reason_combine_execute_interest_bottom_vanish_gate_unlock_oppose
 bip_39_word_underscore_12: bench_powder_reason_combine_execute_interest_bottom_vanish_gate_unlock_oppose_another
 bip_39_word_underscore_2: bench_powder
 bip_39_word_underscore_3: bench_powder_reason
-bip_39_word_underscore_4: bench_powder_reason_combine
-bip_39_word_underscore_5: bench_powder_reason_combine_execute
-bip_39_word_underscore_6: bench_powder_reason_combine_execute_interest
-bip_39_word_underscore_7: bench_powder_reason_combine_execute_interest_bottom
-bip_39_word_underscore_8: bench_powder_reason_combine_execute_interest_bottom_vanish
-bip_39_word_underscore_9: bench_powder_reason_combine_execute_interest_bottom_vanish_gate
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: bench
-bip_39_word_dash_10: bench-you-cabbage-grid-safe-february-depth-blouse-now-cabin
-bip_39_word_dash_11: bench-you-cabbage-grid-safe-february-depth-blouse-now-cabin-all
 bip_39_word_dash_12: bench-you-cabbage-grid-safe-february-depth-blouse-now-cabin-all-assist
 bip_39_word_dash_2: bench-you
 bip_39_word_dash_3: bench-you-cabbage
-bip_39_word_dash_4: bench-you-cabbage-grid
-bip_39_word_dash_5: bench-you-cabbage-grid-safe
-bip_39_word_dash_6: bench-you-cabbage-grid-safe-february
-bip_39_word_dash_7: bench-you-cabbage-grid-safe-february-depth
-bip_39_word_dash_8: bench-you-cabbage-grid-safe-february-depth-blouse
-bip_39_word_dash_9: bench-you-cabbage-grid-safe-february-depth-blouse-now
-bip_39_word_new_br_1: bench
-bip_39_word_new_br_10: bench<br>you<br>cabbage<br>grid<br>safe<br>february<br>depth<br>blouse<br>now<br>cabin
-bip_39_word_new_br_11: bench<br>you<br>cabbage<br>grid<br>safe<br>february<br>depth<br>blouse<br>now<br>cabin<br>all
 bip_39_word_new_br_12: bench<br>you<br>cabbage<br>grid<br>safe<br>february<br>depth<br>blouse<br>now<br>cabin<br>all<br>assist
 bip_39_word_new_br_2: bench<br>you
 bip_39_word_new_br_3: bench<br>you<br>cabbage
-bip_39_word_new_br_4: bench<br>you<br>cabbage<br>grid
-bip_39_word_new_br_5: bench<br>you<br>cabbage<br>grid<br>safe
-bip_39_word_new_br_6: bench<br>you<br>cabbage<br>grid<br>safe<br>february
-bip_39_word_new_br_7: bench<br>you<br>cabbage<br>grid<br>safe<br>february<br>depth
-bip_39_word_new_br_8: bench<br>you<br>cabbage<br>grid<br>safe<br>february<br>depth<br>blouse
-bip_39_word_new_br_9: bench<br>you<br>cabbage<br>grid<br>safe<br>february<br>depth<br>blouse<br>now
-bip_39_word_new_line_1: bench
-bip_39_word_new_line_10: 'bench
-
-  you
-
-  cabbage
-
-  grid
-
-  safe
-
-  february
-
-  depth
-
-  blouse
-
-  now
-
-  cabin'
-bip_39_word_new_line_11: 'bench
-
-  you
-
-  cabbage
-
-  grid
-
-  safe
-
-  february
-
-  depth
-
-  blouse
-
-  now
-
-  cabin
-
-  all'
 bip_39_word_new_line_12: 'bench
 
   you
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'bench
   you
 
   cabbage'
-bip_39_word_new_line_4: 'bench
-
-  you
-
-  cabbage
-
-  grid'
-bip_39_word_new_line_5: 'bench
-
-  you
-
-  cabbage
-
-  grid
-
-  safe'
-bip_39_word_new_line_6: 'bench
-
-  you
-
-  cabbage
-
-  grid
-
-  safe
-
-  february'
-bip_39_word_new_line_7: 'bench
-
-  you
-
-  cabbage
-
-  grid
-
-  safe
-
-  february
-
-  depth'
-bip_39_word_new_line_8: 'bench
-
-  you
-
-  cabbage
-
-  grid
-
-  safe
-
-  february
-
-  depth
-
-  blouse'
-bip_39_word_new_line_9: 'bench
-
-  you
-
-  cabbage
-
-  grid
-
-  safe
-
-  february
-
-  depth
-
-  blouse
-
-  now'
-bip_39_word_no_space_1: bench
-bip_39_word_no_space_10: benchyoucabbagegridsafefebruarydepthblousenowcabin
-bip_39_word_no_space_11: benchyoucabbagegridsafefebruarydepthblousenowcabinall
 bip_39_word_no_space_12: benchyoucabbagegridsafefebruarydepthblousenowcabinallassist
 bip_39_word_no_space_2: benchyou
 bip_39_word_no_space_3: benchyoucabbage
-bip_39_word_no_space_4: benchyoucabbagegrid
-bip_39_word_no_space_5: benchyoucabbagegridsafe
-bip_39_word_no_space_6: benchyoucabbagegridsafefebruary
-bip_39_word_no_space_7: benchyoucabbagegridsafefebruarydepth
-bip_39_word_no_space_8: benchyoucabbagegridsafefebruarydepthblouse
-bip_39_word_no_space_9: benchyoucabbagegridsafefebruarydepthblousenow
-bip_39_word_space_0:
-- bench
-- you
-- cabbage
-- grid
-- safe
-- february
-- depth
-- blouse
-- now
-- cabin
-- all
-- assist
-bip_39_word_space_1: bench
-bip_39_word_space_10: bench you cabbage grid safe february depth blouse now cabin
-bip_39_word_space_11: bench you cabbage grid safe february depth blouse now cabin
-  all
 bip_39_word_space_12: bench you cabbage grid safe february depth blouse now cabin
   all assist
 bip_39_word_space_2: bench you
 bip_39_word_space_3: bench you cabbage
-bip_39_word_space_4: bench you cabbage grid
-bip_39_word_space_5: bench you cabbage grid safe
-bip_39_word_space_6: bench you cabbage grid safe february
-bip_39_word_space_7: bench you cabbage grid safe february depth
-bip_39_word_space_8: bench you cabbage grid safe february depth blouse
-bip_39_word_space_9: bench you cabbage grid safe february depth blouse now
-bip_39_word_underscore_1: bench
-bip_39_word_underscore_10: bench_you_cabbage_grid_safe_february_depth_blouse_now_cabin
-bip_39_word_underscore_11: bench_you_cabbage_grid_safe_february_depth_blouse_now_cabin_all
 bip_39_word_underscore_12: bench_you_cabbage_grid_safe_february_depth_blouse_now_cabin_all_assist
 bip_39_word_underscore_2: bench_you
 bip_39_word_underscore_3: bench_you_cabbage
-bip_39_word_underscore_4: bench_you_cabbage_grid
-bip_39_word_underscore_5: bench_you_cabbage_grid_safe
-bip_39_word_underscore_6: bench_you_cabbage_grid_safe_february
-bip_39_word_underscore_7: bench_you_cabbage_grid_safe_february_depth
-bip_39_word_underscore_8: bench_you_cabbage_grid_safe_february_depth_blouse
-bip_39_word_underscore_9: bench_you_cabbage_grid_safe_february_depth_blouse_now
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

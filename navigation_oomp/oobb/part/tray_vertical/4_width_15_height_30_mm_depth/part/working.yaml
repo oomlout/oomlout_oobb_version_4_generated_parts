@@ -1,68 +1,9 @@
-bip_39_word_dash_1: phrase
-bip_39_word_dash_10: phrase-ignore-enforce-donkey-muffin-seven-absent-drama-cover-kid
-bip_39_word_dash_11: phrase-ignore-enforce-donkey-muffin-seven-absent-drama-cover-kid-tent
 bip_39_word_dash_12: phrase-ignore-enforce-donkey-muffin-seven-absent-drama-cover-kid-tent-afraid
 bip_39_word_dash_2: phrase-ignore
 bip_39_word_dash_3: phrase-ignore-enforce
-bip_39_word_dash_4: phrase-ignore-enforce-donkey
-bip_39_word_dash_5: phrase-ignore-enforce-donkey-muffin
-bip_39_word_dash_6: phrase-ignore-enforce-donkey-muffin-seven
-bip_39_word_dash_7: phrase-ignore-enforce-donkey-muffin-seven-absent
-bip_39_word_dash_8: phrase-ignore-enforce-donkey-muffin-seven-absent-drama
-bip_39_word_dash_9: phrase-ignore-enforce-donkey-muffin-seven-absent-drama-cover
-bip_39_word_new_br_1: phrase
-bip_39_word_new_br_10: phrase<br>ignore<br>enforce<br>donkey<br>muffin<br>seven<br>absent<br>drama<br>cover<br>kid
-bip_39_word_new_br_11: phrase<br>ignore<br>enforce<br>donkey<br>muffin<br>seven<br>absent<br>drama<br>cover<br>kid<br>tent
 bip_39_word_new_br_12: phrase<br>ignore<br>enforce<br>donkey<br>muffin<br>seven<br>absent<br>drama<br>cover<br>kid<br>tent<br>afraid
 bip_39_word_new_br_2: phrase<br>ignore
 bip_39_word_new_br_3: phrase<br>ignore<br>enforce
-bip_39_word_new_br_4: phrase<br>ignore<br>enforce<br>donkey
-bip_39_word_new_br_5: phrase<br>ignore<br>enforce<br>donkey<br>muffin
-bip_39_word_new_br_6: phrase<br>ignore<br>enforce<br>donkey<br>muffin<br>seven
-bip_39_word_new_br_7: phrase<br>ignore<br>enforce<br>donkey<br>muffin<br>seven<br>absent
-bip_39_word_new_br_8: phrase<br>ignore<br>enforce<br>donkey<br>muffin<br>seven<br>absent<br>drama
-bip_39_word_new_br_9: phrase<br>ignore<br>enforce<br>donkey<br>muffin<br>seven<br>absent<br>drama<br>cover
-bip_39_word_new_line_1: phrase
-bip_39_word_new_line_10: 'phrase
-
-  ignore
-
-  enforce
-
-  donkey
-
-  muffin
-
-  seven
-
-  absent
-
-  drama
-
-  cover
-
-  kid'
-bip_39_word_new_line_11: 'phrase
-
-  ignore
-
-  enforce
-
-  donkey
-
-  muffin
-
-  seven
-
-  absent
-
-  drama
-
-  cover
-
-  kid
-
-  tent'
 bip_39_word_new_line_12: 'phrase
 
   ignore
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'phrase
   ignore
 
   enforce'
-bip_39_word_new_line_4: 'phrase
-
-  ignore
-
-  enforce
-
-  donkey'
-bip_39_word_new_line_5: 'phrase
-
-  ignore
-
-  enforce
-
-  donkey
-
-  muffin'
-bip_39_word_new_line_6: 'phrase
-
-  ignore
-
-  enforce
-
-  donkey
-
-  muffin
-
-  seven'
-bip_39_word_new_line_7: 'phrase
-
-  ignore
-
-  enforce
-
-  donkey
-
-  muffin
-
-  seven
-
-  absent'
-bip_39_word_new_line_8: 'phrase
-
-  ignore
-
-  enforce
-
-  donkey
-
-  muffin
-
-  seven
-
-  absent
-
-  drama'
-bip_39_word_new_line_9: 'phrase
-
-  ignore
-
-  enforce
-
-  donkey
-
-  muffin
-
-  seven
-
-  absent
-
-  drama
-
-  cover'
-bip_39_word_no_space_1: phrase
-bip_39_word_no_space_10: phraseignoreenforcedonkeymuffinsevenabsentdramacoverkid
-bip_39_word_no_space_11: phraseignoreenforcedonkeymuffinsevenabsentdramacoverkidtent
 bip_39_word_no_space_12: phraseignoreenforcedonkeymuffinsevenabsentdramacoverkidtentafraid
 bip_39_word_no_space_2: phraseignore
 bip_39_word_no_space_3: phraseignoreenforce
-bip_39_word_no_space_4: phraseignoreenforcedonkey
-bip_39_word_no_space_5: phraseignoreenforcedonkeymuffin
-bip_39_word_no_space_6: phraseignoreenforcedonkeymuffinseven
-bip_39_word_no_space_7: phraseignoreenforcedonkeymuffinsevenabsent
-bip_39_word_no_space_8: phraseignoreenforcedonkeymuffinsevenabsentdrama
-bip_39_word_no_space_9: phraseignoreenforcedonkeymuffinsevenabsentdramacover
-bip_39_word_space_0:
-- phrase
-- ignore
-- enforce
-- donkey
-- muffin
-- seven
-- absent
-- drama
-- cover
-- kid
-- tent
-- afraid
-bip_39_word_space_1: phrase
-bip_39_word_space_10: phrase ignore enforce donkey muffin seven absent drama cover
-  kid
-bip_39_word_space_11: phrase ignore enforce donkey muffin seven absent drama cover
-  kid tent
 bip_39_word_space_12: phrase ignore enforce donkey muffin seven absent drama cover
   kid tent afraid
 bip_39_word_space_2: phrase ignore
 bip_39_word_space_3: phrase ignore enforce
-bip_39_word_space_4: phrase ignore enforce donkey
-bip_39_word_space_5: phrase ignore enforce donkey muffin
-bip_39_word_space_6: phrase ignore enforce donkey muffin seven
-bip_39_word_space_7: phrase ignore enforce donkey muffin seven absent
-bip_39_word_space_8: phrase ignore enforce donkey muffin seven absent drama
-bip_39_word_space_9: phrase ignore enforce donkey muffin seven absent drama cover
-bip_39_word_underscore_1: phrase
-bip_39_word_underscore_10: phrase_ignore_enforce_donkey_muffin_seven_absent_drama_cover_kid
-bip_39_word_underscore_11: phrase_ignore_enforce_donkey_muffin_seven_absent_drama_cover_kid_tent
 bip_39_word_underscore_12: phrase_ignore_enforce_donkey_muffin_seven_absent_drama_cover_kid_tent_afraid
 bip_39_word_underscore_2: phrase_ignore
 bip_39_word_underscore_3: phrase_ignore_enforce
-bip_39_word_underscore_4: phrase_ignore_enforce_donkey
-bip_39_word_underscore_5: phrase_ignore_enforce_donkey_muffin
-bip_39_word_underscore_6: phrase_ignore_enforce_donkey_muffin_seven
-bip_39_word_underscore_7: phrase_ignore_enforce_donkey_muffin_seven_absent
-bip_39_word_underscore_8: phrase_ignore_enforce_donkey_muffin_seven_absent_drama
-bip_39_word_underscore_9: phrase_ignore_enforce_donkey_muffin_seven_absent_drama_cover
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

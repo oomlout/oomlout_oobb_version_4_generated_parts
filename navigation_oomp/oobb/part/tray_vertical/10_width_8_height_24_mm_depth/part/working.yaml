@@ -1,68 +1,9 @@
-bip_39_word_dash_1: lobster
-bip_39_word_dash_10: lobster-front-initial-ostrich-gown-smoke-pave-eye-fetch-fork
-bip_39_word_dash_11: lobster-front-initial-ostrich-gown-smoke-pave-eye-fetch-fork-prize
 bip_39_word_dash_12: lobster-front-initial-ostrich-gown-smoke-pave-eye-fetch-fork-prize-arena
 bip_39_word_dash_2: lobster-front
 bip_39_word_dash_3: lobster-front-initial
-bip_39_word_dash_4: lobster-front-initial-ostrich
-bip_39_word_dash_5: lobster-front-initial-ostrich-gown
-bip_39_word_dash_6: lobster-front-initial-ostrich-gown-smoke
-bip_39_word_dash_7: lobster-front-initial-ostrich-gown-smoke-pave
-bip_39_word_dash_8: lobster-front-initial-ostrich-gown-smoke-pave-eye
-bip_39_word_dash_9: lobster-front-initial-ostrich-gown-smoke-pave-eye-fetch
-bip_39_word_new_br_1: lobster
-bip_39_word_new_br_10: lobster<br>front<br>initial<br>ostrich<br>gown<br>smoke<br>pave<br>eye<br>fetch<br>fork
-bip_39_word_new_br_11: lobster<br>front<br>initial<br>ostrich<br>gown<br>smoke<br>pave<br>eye<br>fetch<br>fork<br>prize
 bip_39_word_new_br_12: lobster<br>front<br>initial<br>ostrich<br>gown<br>smoke<br>pave<br>eye<br>fetch<br>fork<br>prize<br>arena
 bip_39_word_new_br_2: lobster<br>front
 bip_39_word_new_br_3: lobster<br>front<br>initial
-bip_39_word_new_br_4: lobster<br>front<br>initial<br>ostrich
-bip_39_word_new_br_5: lobster<br>front<br>initial<br>ostrich<br>gown
-bip_39_word_new_br_6: lobster<br>front<br>initial<br>ostrich<br>gown<br>smoke
-bip_39_word_new_br_7: lobster<br>front<br>initial<br>ostrich<br>gown<br>smoke<br>pave
-bip_39_word_new_br_8: lobster<br>front<br>initial<br>ostrich<br>gown<br>smoke<br>pave<br>eye
-bip_39_word_new_br_9: lobster<br>front<br>initial<br>ostrich<br>gown<br>smoke<br>pave<br>eye<br>fetch
-bip_39_word_new_line_1: lobster
-bip_39_word_new_line_10: 'lobster
-
-  front
-
-  initial
-
-  ostrich
-
-  gown
-
-  smoke
-
-  pave
-
-  eye
-
-  fetch
-
-  fork'
-bip_39_word_new_line_11: 'lobster
-
-  front
-
-  initial
-
-  ostrich
-
-  gown
-
-  smoke
-
-  pave
-
-  eye
-
-  fetch
-
-  fork
-
-  prize'
 bip_39_word_new_line_12: 'lobster
 
   front
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'lobster
   front
 
   initial'
-bip_39_word_new_line_4: 'lobster
-
-  front
-
-  initial
-
-  ostrich'
-bip_39_word_new_line_5: 'lobster
-
-  front
-
-  initial
-
-  ostrich
-
-  gown'
-bip_39_word_new_line_6: 'lobster
-
-  front
-
-  initial
-
-  ostrich
-
-  gown
-
-  smoke'
-bip_39_word_new_line_7: 'lobster
-
-  front
-
-  initial
-
-  ostrich
-
-  gown
-
-  smoke
-
-  pave'
-bip_39_word_new_line_8: 'lobster
-
-  front
-
-  initial
-
-  ostrich
-
-  gown
-
-  smoke
-
-  pave
-
-  eye'
-bip_39_word_new_line_9: 'lobster
-
-  front
-
-  initial
-
-  ostrich
-
-  gown
-
-  smoke
-
-  pave
-
-  eye
-
-  fetch'
-bip_39_word_no_space_1: lobster
-bip_39_word_no_space_10: lobsterfrontinitialostrichgownsmokepaveeyefetchfork
-bip_39_word_no_space_11: lobsterfrontinitialostrichgownsmokepaveeyefetchforkprize
 bip_39_word_no_space_12: lobsterfrontinitialostrichgownsmokepaveeyefetchforkprizearena
 bip_39_word_no_space_2: lobsterfront
 bip_39_word_no_space_3: lobsterfrontinitial
-bip_39_word_no_space_4: lobsterfrontinitialostrich
-bip_39_word_no_space_5: lobsterfrontinitialostrichgown
-bip_39_word_no_space_6: lobsterfrontinitialostrichgownsmoke
-bip_39_word_no_space_7: lobsterfrontinitialostrichgownsmokepave
-bip_39_word_no_space_8: lobsterfrontinitialostrichgownsmokepaveeye
-bip_39_word_no_space_9: lobsterfrontinitialostrichgownsmokepaveeyefetch
-bip_39_word_space_0:
-- lobster
-- front
-- initial
-- ostrich
-- gown
-- smoke
-- pave
-- eye
-- fetch
-- fork
-- prize
-- arena
-bip_39_word_space_1: lobster
-bip_39_word_space_10: lobster front initial ostrich gown smoke pave eye fetch fork
-bip_39_word_space_11: lobster front initial ostrich gown smoke pave eye fetch fork
-  prize
 bip_39_word_space_12: lobster front initial ostrich gown smoke pave eye fetch fork
   prize arena
 bip_39_word_space_2: lobster front
 bip_39_word_space_3: lobster front initial
-bip_39_word_space_4: lobster front initial ostrich
-bip_39_word_space_5: lobster front initial ostrich gown
-bip_39_word_space_6: lobster front initial ostrich gown smoke
-bip_39_word_space_7: lobster front initial ostrich gown smoke pave
-bip_39_word_space_8: lobster front initial ostrich gown smoke pave eye
-bip_39_word_space_9: lobster front initial ostrich gown smoke pave eye fetch
-bip_39_word_underscore_1: lobster
-bip_39_word_underscore_10: lobster_front_initial_ostrich_gown_smoke_pave_eye_fetch_fork
-bip_39_word_underscore_11: lobster_front_initial_ostrich_gown_smoke_pave_eye_fetch_fork_prize
 bip_39_word_underscore_12: lobster_front_initial_ostrich_gown_smoke_pave_eye_fetch_fork_prize_arena
 bip_39_word_underscore_2: lobster_front
 bip_39_word_underscore_3: lobster_front_initial
-bip_39_word_underscore_4: lobster_front_initial_ostrich
-bip_39_word_underscore_5: lobster_front_initial_ostrich_gown
-bip_39_word_underscore_6: lobster_front_initial_ostrich_gown_smoke
-bip_39_word_underscore_7: lobster_front_initial_ostrich_gown_smoke_pave
-bip_39_word_underscore_8: lobster_front_initial_ostrich_gown_smoke_pave_eye
-bip_39_word_underscore_9: lobster_front_initial_ostrich_gown_smoke_pave_eye_fetch
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

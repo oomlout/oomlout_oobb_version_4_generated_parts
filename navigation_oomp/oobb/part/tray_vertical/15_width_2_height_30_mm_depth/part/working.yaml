@@ -1,68 +1,9 @@
-bip_39_word_dash_1: flee
-bip_39_word_dash_10: flee-position-giraffe-swamp-jelly-figure-shallow-shine-behind-task
-bip_39_word_dash_11: flee-position-giraffe-swamp-jelly-figure-shallow-shine-behind-task-exchange
 bip_39_word_dash_12: flee-position-giraffe-swamp-jelly-figure-shallow-shine-behind-task-exchange-ancient
 bip_39_word_dash_2: flee-position
 bip_39_word_dash_3: flee-position-giraffe
-bip_39_word_dash_4: flee-position-giraffe-swamp
-bip_39_word_dash_5: flee-position-giraffe-swamp-jelly
-bip_39_word_dash_6: flee-position-giraffe-swamp-jelly-figure
-bip_39_word_dash_7: flee-position-giraffe-swamp-jelly-figure-shallow
-bip_39_word_dash_8: flee-position-giraffe-swamp-jelly-figure-shallow-shine
-bip_39_word_dash_9: flee-position-giraffe-swamp-jelly-figure-shallow-shine-behind
-bip_39_word_new_br_1: flee
-bip_39_word_new_br_10: flee<br>position<br>giraffe<br>swamp<br>jelly<br>figure<br>shallow<br>shine<br>behind<br>task
-bip_39_word_new_br_11: flee<br>position<br>giraffe<br>swamp<br>jelly<br>figure<br>shallow<br>shine<br>behind<br>task<br>exchange
 bip_39_word_new_br_12: flee<br>position<br>giraffe<br>swamp<br>jelly<br>figure<br>shallow<br>shine<br>behind<br>task<br>exchange<br>ancient
 bip_39_word_new_br_2: flee<br>position
 bip_39_word_new_br_3: flee<br>position<br>giraffe
-bip_39_word_new_br_4: flee<br>position<br>giraffe<br>swamp
-bip_39_word_new_br_5: flee<br>position<br>giraffe<br>swamp<br>jelly
-bip_39_word_new_br_6: flee<br>position<br>giraffe<br>swamp<br>jelly<br>figure
-bip_39_word_new_br_7: flee<br>position<br>giraffe<br>swamp<br>jelly<br>figure<br>shallow
-bip_39_word_new_br_8: flee<br>position<br>giraffe<br>swamp<br>jelly<br>figure<br>shallow<br>shine
-bip_39_word_new_br_9: flee<br>position<br>giraffe<br>swamp<br>jelly<br>figure<br>shallow<br>shine<br>behind
-bip_39_word_new_line_1: flee
-bip_39_word_new_line_10: 'flee
-
-  position
-
-  giraffe
-
-  swamp
-
-  jelly
-
-  figure
-
-  shallow
-
-  shine
-
-  behind
-
-  task'
-bip_39_word_new_line_11: 'flee
-
-  position
-
-  giraffe
-
-  swamp
-
-  jelly
-
-  figure
-
-  shallow
-
-  shine
-
-  behind
-
-  task
-
-  exchange'
 bip_39_word_new_line_12: 'flee
 
   position
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'flee
   position
 
   giraffe'
-bip_39_word_new_line_4: 'flee
-
-  position
-
-  giraffe
-
-  swamp'
-bip_39_word_new_line_5: 'flee
-
-  position
-
-  giraffe
-
-  swamp
-
-  jelly'
-bip_39_word_new_line_6: 'flee
-
-  position
-
-  giraffe
-
-  swamp
-
-  jelly
-
-  figure'
-bip_39_word_new_line_7: 'flee
-
-  position
-
-  giraffe
-
-  swamp
-
-  jelly
-
-  figure
-
-  shallow'
-bip_39_word_new_line_8: 'flee
-
-  position
-
-  giraffe
-
-  swamp
-
-  jelly
-
-  figure
-
-  shallow
-
-  shine'
-bip_39_word_new_line_9: 'flee
-
-  position
-
-  giraffe
-
-  swamp
-
-  jelly
-
-  figure
-
-  shallow
-
-  shine
-
-  behind'
-bip_39_word_no_space_1: flee
-bip_39_word_no_space_10: fleepositiongiraffeswampjellyfigureshallowshinebehindtask
-bip_39_word_no_space_11: fleepositiongiraffeswampjellyfigureshallowshinebehindtaskexchange
 bip_39_word_no_space_12: fleepositiongiraffeswampjellyfigureshallowshinebehindtaskexchangeancient
 bip_39_word_no_space_2: fleeposition
 bip_39_word_no_space_3: fleepositiongiraffe
-bip_39_word_no_space_4: fleepositiongiraffeswamp
-bip_39_word_no_space_5: fleepositiongiraffeswampjelly
-bip_39_word_no_space_6: fleepositiongiraffeswampjellyfigure
-bip_39_word_no_space_7: fleepositiongiraffeswampjellyfigureshallow
-bip_39_word_no_space_8: fleepositiongiraffeswampjellyfigureshallowshine
-bip_39_word_no_space_9: fleepositiongiraffeswampjellyfigureshallowshinebehind
-bip_39_word_space_0:
-- flee
-- position
-- giraffe
-- swamp
-- jelly
-- figure
-- shallow
-- shine
-- behind
-- task
-- exchange
-- ancient
-bip_39_word_space_1: flee
-bip_39_word_space_10: flee position giraffe swamp jelly figure shallow shine behind
-  task
-bip_39_word_space_11: flee position giraffe swamp jelly figure shallow shine behind
-  task exchange
 bip_39_word_space_12: flee position giraffe swamp jelly figure shallow shine behind
   task exchange ancient
 bip_39_word_space_2: flee position
 bip_39_word_space_3: flee position giraffe
-bip_39_word_space_4: flee position giraffe swamp
-bip_39_word_space_5: flee position giraffe swamp jelly
-bip_39_word_space_6: flee position giraffe swamp jelly figure
-bip_39_word_space_7: flee position giraffe swamp jelly figure shallow
-bip_39_word_space_8: flee position giraffe swamp jelly figure shallow shine
-bip_39_word_space_9: flee position giraffe swamp jelly figure shallow shine behind
-bip_39_word_underscore_1: flee
-bip_39_word_underscore_10: flee_position_giraffe_swamp_jelly_figure_shallow_shine_behind_task
-bip_39_word_underscore_11: flee_position_giraffe_swamp_jelly_figure_shallow_shine_behind_task_exchange
 bip_39_word_underscore_12: flee_position_giraffe_swamp_jelly_figure_shallow_shine_behind_task_exchange_ancient
 bip_39_word_underscore_2: flee_position
 bip_39_word_underscore_3: flee_position_giraffe
-bip_39_word_underscore_4: flee_position_giraffe_swamp
-bip_39_word_underscore_5: flee_position_giraffe_swamp_jelly
-bip_39_word_underscore_6: flee_position_giraffe_swamp_jelly_figure
-bip_39_word_underscore_7: flee_position_giraffe_swamp_jelly_figure_shallow
-bip_39_word_underscore_8: flee_position_giraffe_swamp_jelly_figure_shallow_shine
-bip_39_word_underscore_9: flee_position_giraffe_swamp_jelly_figure_shallow_shine_behind
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

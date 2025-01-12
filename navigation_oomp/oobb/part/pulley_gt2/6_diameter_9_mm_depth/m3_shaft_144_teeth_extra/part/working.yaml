@@ -1,68 +1,9 @@
-bip_39_word_dash_1: arrive
-bip_39_word_dash_10: arrive-depth-hockey-scorpion-glory-pass-unhappy-split-million-obscure
-bip_39_word_dash_11: arrive-depth-hockey-scorpion-glory-pass-unhappy-split-million-obscure-alien
 bip_39_word_dash_12: arrive-depth-hockey-scorpion-glory-pass-unhappy-split-million-obscure-alien-airport
 bip_39_word_dash_2: arrive-depth
 bip_39_word_dash_3: arrive-depth-hockey
-bip_39_word_dash_4: arrive-depth-hockey-scorpion
-bip_39_word_dash_5: arrive-depth-hockey-scorpion-glory
-bip_39_word_dash_6: arrive-depth-hockey-scorpion-glory-pass
-bip_39_word_dash_7: arrive-depth-hockey-scorpion-glory-pass-unhappy
-bip_39_word_dash_8: arrive-depth-hockey-scorpion-glory-pass-unhappy-split
-bip_39_word_dash_9: arrive-depth-hockey-scorpion-glory-pass-unhappy-split-million
-bip_39_word_new_br_1: arrive
-bip_39_word_new_br_10: arrive<br>depth<br>hockey<br>scorpion<br>glory<br>pass<br>unhappy<br>split<br>million<br>obscure
-bip_39_word_new_br_11: arrive<br>depth<br>hockey<br>scorpion<br>glory<br>pass<br>unhappy<br>split<br>million<br>obscure<br>alien
 bip_39_word_new_br_12: arrive<br>depth<br>hockey<br>scorpion<br>glory<br>pass<br>unhappy<br>split<br>million<br>obscure<br>alien<br>airport
 bip_39_word_new_br_2: arrive<br>depth
 bip_39_word_new_br_3: arrive<br>depth<br>hockey
-bip_39_word_new_br_4: arrive<br>depth<br>hockey<br>scorpion
-bip_39_word_new_br_5: arrive<br>depth<br>hockey<br>scorpion<br>glory
-bip_39_word_new_br_6: arrive<br>depth<br>hockey<br>scorpion<br>glory<br>pass
-bip_39_word_new_br_7: arrive<br>depth<br>hockey<br>scorpion<br>glory<br>pass<br>unhappy
-bip_39_word_new_br_8: arrive<br>depth<br>hockey<br>scorpion<br>glory<br>pass<br>unhappy<br>split
-bip_39_word_new_br_9: arrive<br>depth<br>hockey<br>scorpion<br>glory<br>pass<br>unhappy<br>split<br>million
-bip_39_word_new_line_1: arrive
-bip_39_word_new_line_10: 'arrive
-
-  depth
-
-  hockey
-
-  scorpion
-
-  glory
-
-  pass
-
-  unhappy
-
-  split
-
-  million
-
-  obscure'
-bip_39_word_new_line_11: 'arrive
-
-  depth
-
-  hockey
-
-  scorpion
-
-  glory
-
-  pass
-
-  unhappy
-
-  split
-
-  million
-
-  obscure
-
-  alien'
 bip_39_word_new_line_12: 'arrive
 
   depth
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'arrive
   depth
 
   hockey'
-bip_39_word_new_line_4: 'arrive
-
-  depth
-
-  hockey
-
-  scorpion'
-bip_39_word_new_line_5: 'arrive
-
-  depth
-
-  hockey
-
-  scorpion
-
-  glory'
-bip_39_word_new_line_6: 'arrive
-
-  depth
-
-  hockey
-
-  scorpion
-
-  glory
-
-  pass'
-bip_39_word_new_line_7: 'arrive
-
-  depth
-
-  hockey
-
-  scorpion
-
-  glory
-
-  pass
-
-  unhappy'
-bip_39_word_new_line_8: 'arrive
-
-  depth
-
-  hockey
-
-  scorpion
-
-  glory
-
-  pass
-
-  unhappy
-
-  split'
-bip_39_word_new_line_9: 'arrive
-
-  depth
-
-  hockey
-
-  scorpion
-
-  glory
-
-  pass
-
-  unhappy
-
-  split
-
-  million'
-bip_39_word_no_space_1: arrive
-bip_39_word_no_space_10: arrivedepthhockeyscorpionglorypassunhappysplitmillionobscure
-bip_39_word_no_space_11: arrivedepthhockeyscorpionglorypassunhappysplitmillionobscurealien
 bip_39_word_no_space_12: arrivedepthhockeyscorpionglorypassunhappysplitmillionobscurealienairport
 bip_39_word_no_space_2: arrivedepth
 bip_39_word_no_space_3: arrivedepthhockey
-bip_39_word_no_space_4: arrivedepthhockeyscorpion
-bip_39_word_no_space_5: arrivedepthhockeyscorpionglory
-bip_39_word_no_space_6: arrivedepthhockeyscorpionglorypass
-bip_39_word_no_space_7: arrivedepthhockeyscorpionglorypassunhappy
-bip_39_word_no_space_8: arrivedepthhockeyscorpionglorypassunhappysplit
-bip_39_word_no_space_9: arrivedepthhockeyscorpionglorypassunhappysplitmillion
-bip_39_word_space_0:
-- arrive
-- depth
-- hockey
-- scorpion
-- glory
-- pass
-- unhappy
-- split
-- million
-- obscure
-- alien
-- airport
-bip_39_word_space_1: arrive
-bip_39_word_space_10: arrive depth hockey scorpion glory pass unhappy split million
-  obscure
-bip_39_word_space_11: arrive depth hockey scorpion glory pass unhappy split million
-  obscure alien
 bip_39_word_space_12: arrive depth hockey scorpion glory pass unhappy split million
   obscure alien airport
 bip_39_word_space_2: arrive depth
 bip_39_word_space_3: arrive depth hockey
-bip_39_word_space_4: arrive depth hockey scorpion
-bip_39_word_space_5: arrive depth hockey scorpion glory
-bip_39_word_space_6: arrive depth hockey scorpion glory pass
-bip_39_word_space_7: arrive depth hockey scorpion glory pass unhappy
-bip_39_word_space_8: arrive depth hockey scorpion glory pass unhappy split
-bip_39_word_space_9: arrive depth hockey scorpion glory pass unhappy split million
-bip_39_word_underscore_1: arrive
-bip_39_word_underscore_10: arrive_depth_hockey_scorpion_glory_pass_unhappy_split_million_obscure
-bip_39_word_underscore_11: arrive_depth_hockey_scorpion_glory_pass_unhappy_split_million_obscure_alien
 bip_39_word_underscore_12: arrive_depth_hockey_scorpion_glory_pass_unhappy_split_million_obscure_alien_airport
 bip_39_word_underscore_2: arrive_depth
 bip_39_word_underscore_3: arrive_depth_hockey
-bip_39_word_underscore_4: arrive_depth_hockey_scorpion
-bip_39_word_underscore_5: arrive_depth_hockey_scorpion_glory
-bip_39_word_underscore_6: arrive_depth_hockey_scorpion_glory_pass
-bip_39_word_underscore_7: arrive_depth_hockey_scorpion_glory_pass_unhappy
-bip_39_word_underscore_8: arrive_depth_hockey_scorpion_glory_pass_unhappy_split
-bip_39_word_underscore_9: arrive_depth_hockey_scorpion_glory_pass_unhappy_split_million
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

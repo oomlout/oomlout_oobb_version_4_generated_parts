@@ -1,69 +1,10 @@
 bearing: '6705'
-bip_39_word_dash_1: demand
-bip_39_word_dash_10: demand-satisfy-atom-awesome-rally-near-coffee-regret-ignore-help
-bip_39_word_dash_11: demand-satisfy-atom-awesome-rally-near-coffee-regret-ignore-help-flock
 bip_39_word_dash_12: demand-satisfy-atom-awesome-rally-near-coffee-regret-ignore-help-flock-antique
 bip_39_word_dash_2: demand-satisfy
 bip_39_word_dash_3: demand-satisfy-atom
-bip_39_word_dash_4: demand-satisfy-atom-awesome
-bip_39_word_dash_5: demand-satisfy-atom-awesome-rally
-bip_39_word_dash_6: demand-satisfy-atom-awesome-rally-near
-bip_39_word_dash_7: demand-satisfy-atom-awesome-rally-near-coffee
-bip_39_word_dash_8: demand-satisfy-atom-awesome-rally-near-coffee-regret
-bip_39_word_dash_9: demand-satisfy-atom-awesome-rally-near-coffee-regret-ignore
-bip_39_word_new_br_1: demand
-bip_39_word_new_br_10: demand<br>satisfy<br>atom<br>awesome<br>rally<br>near<br>coffee<br>regret<br>ignore<br>help
-bip_39_word_new_br_11: demand<br>satisfy<br>atom<br>awesome<br>rally<br>near<br>coffee<br>regret<br>ignore<br>help<br>flock
 bip_39_word_new_br_12: demand<br>satisfy<br>atom<br>awesome<br>rally<br>near<br>coffee<br>regret<br>ignore<br>help<br>flock<br>antique
 bip_39_word_new_br_2: demand<br>satisfy
 bip_39_word_new_br_3: demand<br>satisfy<br>atom
-bip_39_word_new_br_4: demand<br>satisfy<br>atom<br>awesome
-bip_39_word_new_br_5: demand<br>satisfy<br>atom<br>awesome<br>rally
-bip_39_word_new_br_6: demand<br>satisfy<br>atom<br>awesome<br>rally<br>near
-bip_39_word_new_br_7: demand<br>satisfy<br>atom<br>awesome<br>rally<br>near<br>coffee
-bip_39_word_new_br_8: demand<br>satisfy<br>atom<br>awesome<br>rally<br>near<br>coffee<br>regret
-bip_39_word_new_br_9: demand<br>satisfy<br>atom<br>awesome<br>rally<br>near<br>coffee<br>regret<br>ignore
-bip_39_word_new_line_1: demand
-bip_39_word_new_line_10: 'demand
-
-  satisfy
-
-  atom
-
-  awesome
-
-  rally
-
-  near
-
-  coffee
-
-  regret
-
-  ignore
-
-  help'
-bip_39_word_new_line_11: 'demand
-
-  satisfy
-
-  atom
-
-  awesome
-
-  rally
-
-  near
-
-  coffee
-
-  regret
-
-  ignore
-
-  help
-
-  flock'
 bip_39_word_new_line_12: 'demand
 
   satisfy
@@ -95,130 +36,16 @@ bip_39_word_new_line_3: 'demand
   satisfy
 
   atom'
-bip_39_word_new_line_4: 'demand
-
-  satisfy
-
-  atom
-
-  awesome'
-bip_39_word_new_line_5: 'demand
-
-  satisfy
-
-  atom
-
-  awesome
-
-  rally'
-bip_39_word_new_line_6: 'demand
-
-  satisfy
-
-  atom
-
-  awesome
-
-  rally
-
-  near'
-bip_39_word_new_line_7: 'demand
-
-  satisfy
-
-  atom
-
-  awesome
-
-  rally
-
-  near
-
-  coffee'
-bip_39_word_new_line_8: 'demand
-
-  satisfy
-
-  atom
-
-  awesome
-
-  rally
-
-  near
-
-  coffee
-
-  regret'
-bip_39_word_new_line_9: 'demand
-
-  satisfy
-
-  atom
-
-  awesome
-
-  rally
-
-  near
-
-  coffee
-
-  regret
-
-  ignore'
-bip_39_word_no_space_1: demand
-bip_39_word_no_space_10: demandsatisfyatomawesomerallynearcoffeeregretignorehelp
-bip_39_word_no_space_11: demandsatisfyatomawesomerallynearcoffeeregretignorehelpflock
 bip_39_word_no_space_12: demandsatisfyatomawesomerallynearcoffeeregretignorehelpflockantique
 bip_39_word_no_space_2: demandsatisfy
 bip_39_word_no_space_3: demandsatisfyatom
-bip_39_word_no_space_4: demandsatisfyatomawesome
-bip_39_word_no_space_5: demandsatisfyatomawesomerally
-bip_39_word_no_space_6: demandsatisfyatomawesomerallynear
-bip_39_word_no_space_7: demandsatisfyatomawesomerallynearcoffee
-bip_39_word_no_space_8: demandsatisfyatomawesomerallynearcoffeeregret
-bip_39_word_no_space_9: demandsatisfyatomawesomerallynearcoffeeregretignore
-bip_39_word_space_0:
-- demand
-- satisfy
-- atom
-- awesome
-- rally
-- near
-- coffee
-- regret
-- ignore
-- help
-- flock
-- antique
-bip_39_word_space_1: demand
-bip_39_word_space_10: demand satisfy atom awesome rally near coffee regret ignore
-  help
-bip_39_word_space_11: demand satisfy atom awesome rally near coffee regret ignore
-  help flock
 bip_39_word_space_12: demand satisfy atom awesome rally near coffee regret ignore
   help flock antique
 bip_39_word_space_2: demand satisfy
 bip_39_word_space_3: demand satisfy atom
-bip_39_word_space_4: demand satisfy atom awesome
-bip_39_word_space_5: demand satisfy atom awesome rally
-bip_39_word_space_6: demand satisfy atom awesome rally near
-bip_39_word_space_7: demand satisfy atom awesome rally near coffee
-bip_39_word_space_8: demand satisfy atom awesome rally near coffee regret
-bip_39_word_space_9: demand satisfy atom awesome rally near coffee regret ignore
-bip_39_word_underscore_1: demand
-bip_39_word_underscore_10: demand_satisfy_atom_awesome_rally_near_coffee_regret_ignore_help
-bip_39_word_underscore_11: demand_satisfy_atom_awesome_rally_near_coffee_regret_ignore_help_flock
 bip_39_word_underscore_12: demand_satisfy_atom_awesome_rally_near_coffee_regret_ignore_help_flock_antique
 bip_39_word_underscore_2: demand_satisfy
 bip_39_word_underscore_3: demand_satisfy_atom
-bip_39_word_underscore_4: demand_satisfy_atom_awesome
-bip_39_word_underscore_5: demand_satisfy_atom_awesome_rally
-bip_39_word_underscore_6: demand_satisfy_atom_awesome_rally_near
-bip_39_word_underscore_7: demand_satisfy_atom_awesome_rally_near_coffee
-bip_39_word_underscore_8: demand_satisfy_atom_awesome_rally_near_coffee_regret
-bip_39_word_underscore_9: demand_satisfy_atom_awesome_rally_near_coffee_regret_ignore
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

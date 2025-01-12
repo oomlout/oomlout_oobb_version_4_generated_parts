@@ -1,68 +1,9 @@
-bip_39_word_dash_1: rule
-bip_39_word_dash_10: rule-error-scrub-speed-senior-material-item-wisdom-frozen-suffer
-bip_39_word_dash_11: rule-error-scrub-speed-senior-material-item-wisdom-frozen-suffer-miss
 bip_39_word_dash_12: rule-error-scrub-speed-senior-material-item-wisdom-frozen-suffer-miss-around
 bip_39_word_dash_2: rule-error
 bip_39_word_dash_3: rule-error-scrub
-bip_39_word_dash_4: rule-error-scrub-speed
-bip_39_word_dash_5: rule-error-scrub-speed-senior
-bip_39_word_dash_6: rule-error-scrub-speed-senior-material
-bip_39_word_dash_7: rule-error-scrub-speed-senior-material-item
-bip_39_word_dash_8: rule-error-scrub-speed-senior-material-item-wisdom
-bip_39_word_dash_9: rule-error-scrub-speed-senior-material-item-wisdom-frozen
-bip_39_word_new_br_1: rule
-bip_39_word_new_br_10: rule<br>error<br>scrub<br>speed<br>senior<br>material<br>item<br>wisdom<br>frozen<br>suffer
-bip_39_word_new_br_11: rule<br>error<br>scrub<br>speed<br>senior<br>material<br>item<br>wisdom<br>frozen<br>suffer<br>miss
 bip_39_word_new_br_12: rule<br>error<br>scrub<br>speed<br>senior<br>material<br>item<br>wisdom<br>frozen<br>suffer<br>miss<br>around
 bip_39_word_new_br_2: rule<br>error
 bip_39_word_new_br_3: rule<br>error<br>scrub
-bip_39_word_new_br_4: rule<br>error<br>scrub<br>speed
-bip_39_word_new_br_5: rule<br>error<br>scrub<br>speed<br>senior
-bip_39_word_new_br_6: rule<br>error<br>scrub<br>speed<br>senior<br>material
-bip_39_word_new_br_7: rule<br>error<br>scrub<br>speed<br>senior<br>material<br>item
-bip_39_word_new_br_8: rule<br>error<br>scrub<br>speed<br>senior<br>material<br>item<br>wisdom
-bip_39_word_new_br_9: rule<br>error<br>scrub<br>speed<br>senior<br>material<br>item<br>wisdom<br>frozen
-bip_39_word_new_line_1: rule
-bip_39_word_new_line_10: 'rule
-
-  error
-
-  scrub
-
-  speed
-
-  senior
-
-  material
-
-  item
-
-  wisdom
-
-  frozen
-
-  suffer'
-bip_39_word_new_line_11: 'rule
-
-  error
-
-  scrub
-
-  speed
-
-  senior
-
-  material
-
-  item
-
-  wisdom
-
-  frozen
-
-  suffer
-
-  miss'
 bip_39_word_new_line_12: 'rule
 
   error
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'rule
   error
 
   scrub'
-bip_39_word_new_line_4: 'rule
-
-  error
-
-  scrub
-
-  speed'
-bip_39_word_new_line_5: 'rule
-
-  error
-
-  scrub
-
-  speed
-
-  senior'
-bip_39_word_new_line_6: 'rule
-
-  error
-
-  scrub
-
-  speed
-
-  senior
-
-  material'
-bip_39_word_new_line_7: 'rule
-
-  error
-
-  scrub
-
-  speed
-
-  senior
-
-  material
-
-  item'
-bip_39_word_new_line_8: 'rule
-
-  error
-
-  scrub
-
-  speed
-
-  senior
-
-  material
-
-  item
-
-  wisdom'
-bip_39_word_new_line_9: 'rule
-
-  error
-
-  scrub
-
-  speed
-
-  senior
-
-  material
-
-  item
-
-  wisdom
-
-  frozen'
-bip_39_word_no_space_1: rule
-bip_39_word_no_space_10: ruleerrorscrubspeedseniormaterialitemwisdomfrozensuffer
-bip_39_word_no_space_11: ruleerrorscrubspeedseniormaterialitemwisdomfrozensuffermiss
 bip_39_word_no_space_12: ruleerrorscrubspeedseniormaterialitemwisdomfrozensuffermissaround
 bip_39_word_no_space_2: ruleerror
 bip_39_word_no_space_3: ruleerrorscrub
-bip_39_word_no_space_4: ruleerrorscrubspeed
-bip_39_word_no_space_5: ruleerrorscrubspeedsenior
-bip_39_word_no_space_6: ruleerrorscrubspeedseniormaterial
-bip_39_word_no_space_7: ruleerrorscrubspeedseniormaterialitem
-bip_39_word_no_space_8: ruleerrorscrubspeedseniormaterialitemwisdom
-bip_39_word_no_space_9: ruleerrorscrubspeedseniormaterialitemwisdomfrozen
-bip_39_word_space_0:
-- rule
-- error
-- scrub
-- speed
-- senior
-- material
-- item
-- wisdom
-- frozen
-- suffer
-- miss
-- around
-bip_39_word_space_1: rule
-bip_39_word_space_10: rule error scrub speed senior material item wisdom frozen suffer
-bip_39_word_space_11: rule error scrub speed senior material item wisdom frozen suffer
-  miss
 bip_39_word_space_12: rule error scrub speed senior material item wisdom frozen suffer
   miss around
 bip_39_word_space_2: rule error
 bip_39_word_space_3: rule error scrub
-bip_39_word_space_4: rule error scrub speed
-bip_39_word_space_5: rule error scrub speed senior
-bip_39_word_space_6: rule error scrub speed senior material
-bip_39_word_space_7: rule error scrub speed senior material item
-bip_39_word_space_8: rule error scrub speed senior material item wisdom
-bip_39_word_space_9: rule error scrub speed senior material item wisdom frozen
-bip_39_word_underscore_1: rule
-bip_39_word_underscore_10: rule_error_scrub_speed_senior_material_item_wisdom_frozen_suffer
-bip_39_word_underscore_11: rule_error_scrub_speed_senior_material_item_wisdom_frozen_suffer_miss
 bip_39_word_underscore_12: rule_error_scrub_speed_senior_material_item_wisdom_frozen_suffer_miss_around
 bip_39_word_underscore_2: rule_error
 bip_39_word_underscore_3: rule_error_scrub
-bip_39_word_underscore_4: rule_error_scrub_speed
-bip_39_word_underscore_5: rule_error_scrub_speed_senior
-bip_39_word_underscore_6: rule_error_scrub_speed_senior_material
-bip_39_word_underscore_7: rule_error_scrub_speed_senior_material_item
-bip_39_word_underscore_8: rule_error_scrub_speed_senior_material_item_wisdom
-bip_39_word_underscore_9: rule_error_scrub_speed_senior_material_item_wisdom_frozen
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

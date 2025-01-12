@@ -1,68 +1,9 @@
-bip_39_word_dash_1: cost
-bip_39_word_dash_10: cost-lava-extra-fine-antenna-human-supreme-dry-develop-drive
-bip_39_word_dash_11: cost-lava-extra-fine-antenna-human-supreme-dry-develop-drive-flight
 bip_39_word_dash_12: cost-lava-extra-fine-antenna-human-supreme-dry-develop-drive-flight-action
 bip_39_word_dash_2: cost-lava
 bip_39_word_dash_3: cost-lava-extra
-bip_39_word_dash_4: cost-lava-extra-fine
-bip_39_word_dash_5: cost-lava-extra-fine-antenna
-bip_39_word_dash_6: cost-lava-extra-fine-antenna-human
-bip_39_word_dash_7: cost-lava-extra-fine-antenna-human-supreme
-bip_39_word_dash_8: cost-lava-extra-fine-antenna-human-supreme-dry
-bip_39_word_dash_9: cost-lava-extra-fine-antenna-human-supreme-dry-develop
-bip_39_word_new_br_1: cost
-bip_39_word_new_br_10: cost<br>lava<br>extra<br>fine<br>antenna<br>human<br>supreme<br>dry<br>develop<br>drive
-bip_39_word_new_br_11: cost<br>lava<br>extra<br>fine<br>antenna<br>human<br>supreme<br>dry<br>develop<br>drive<br>flight
 bip_39_word_new_br_12: cost<br>lava<br>extra<br>fine<br>antenna<br>human<br>supreme<br>dry<br>develop<br>drive<br>flight<br>action
 bip_39_word_new_br_2: cost<br>lava
 bip_39_word_new_br_3: cost<br>lava<br>extra
-bip_39_word_new_br_4: cost<br>lava<br>extra<br>fine
-bip_39_word_new_br_5: cost<br>lava<br>extra<br>fine<br>antenna
-bip_39_word_new_br_6: cost<br>lava<br>extra<br>fine<br>antenna<br>human
-bip_39_word_new_br_7: cost<br>lava<br>extra<br>fine<br>antenna<br>human<br>supreme
-bip_39_word_new_br_8: cost<br>lava<br>extra<br>fine<br>antenna<br>human<br>supreme<br>dry
-bip_39_word_new_br_9: cost<br>lava<br>extra<br>fine<br>antenna<br>human<br>supreme<br>dry<br>develop
-bip_39_word_new_line_1: cost
-bip_39_word_new_line_10: 'cost
-
-  lava
-
-  extra
-
-  fine
-
-  antenna
-
-  human
-
-  supreme
-
-  dry
-
-  develop
-
-  drive'
-bip_39_word_new_line_11: 'cost
-
-  lava
-
-  extra
-
-  fine
-
-  antenna
-
-  human
-
-  supreme
-
-  dry
-
-  develop
-
-  drive
-
-  flight'
 bip_39_word_new_line_12: 'cost
 
   lava
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'cost
   lava
 
   extra'
-bip_39_word_new_line_4: 'cost
-
-  lava
-
-  extra
-
-  fine'
-bip_39_word_new_line_5: 'cost
-
-  lava
-
-  extra
-
-  fine
-
-  antenna'
-bip_39_word_new_line_6: 'cost
-
-  lava
-
-  extra
-
-  fine
-
-  antenna
-
-  human'
-bip_39_word_new_line_7: 'cost
-
-  lava
-
-  extra
-
-  fine
-
-  antenna
-
-  human
-
-  supreme'
-bip_39_word_new_line_8: 'cost
-
-  lava
-
-  extra
-
-  fine
-
-  antenna
-
-  human
-
-  supreme
-
-  dry'
-bip_39_word_new_line_9: 'cost
-
-  lava
-
-  extra
-
-  fine
-
-  antenna
-
-  human
-
-  supreme
-
-  dry
-
-  develop'
-bip_39_word_no_space_1: cost
-bip_39_word_no_space_10: costlavaextrafineantennahumansupremedrydevelopdrive
-bip_39_word_no_space_11: costlavaextrafineantennahumansupremedrydevelopdriveflight
 bip_39_word_no_space_12: costlavaextrafineantennahumansupremedrydevelopdriveflightaction
 bip_39_word_no_space_2: costlava
 bip_39_word_no_space_3: costlavaextra
-bip_39_word_no_space_4: costlavaextrafine
-bip_39_word_no_space_5: costlavaextrafineantenna
-bip_39_word_no_space_6: costlavaextrafineantennahuman
-bip_39_word_no_space_7: costlavaextrafineantennahumansupreme
-bip_39_word_no_space_8: costlavaextrafineantennahumansupremedry
-bip_39_word_no_space_9: costlavaextrafineantennahumansupremedrydevelop
-bip_39_word_space_0:
-- cost
-- lava
-- extra
-- fine
-- antenna
-- human
-- supreme
-- dry
-- develop
-- drive
-- flight
-- action
-bip_39_word_space_1: cost
-bip_39_word_space_10: cost lava extra fine antenna human supreme dry develop drive
-bip_39_word_space_11: cost lava extra fine antenna human supreme dry develop drive
-  flight
 bip_39_word_space_12: cost lava extra fine antenna human supreme dry develop drive
   flight action
 bip_39_word_space_2: cost lava
 bip_39_word_space_3: cost lava extra
-bip_39_word_space_4: cost lava extra fine
-bip_39_word_space_5: cost lava extra fine antenna
-bip_39_word_space_6: cost lava extra fine antenna human
-bip_39_word_space_7: cost lava extra fine antenna human supreme
-bip_39_word_space_8: cost lava extra fine antenna human supreme dry
-bip_39_word_space_9: cost lava extra fine antenna human supreme dry develop
-bip_39_word_underscore_1: cost
-bip_39_word_underscore_10: cost_lava_extra_fine_antenna_human_supreme_dry_develop_drive
-bip_39_word_underscore_11: cost_lava_extra_fine_antenna_human_supreme_dry_develop_drive_flight
 bip_39_word_underscore_12: cost_lava_extra_fine_antenna_human_supreme_dry_develop_drive_flight_action
 bip_39_word_underscore_2: cost_lava
 bip_39_word_underscore_3: cost_lava_extra
-bip_39_word_underscore_4: cost_lava_extra_fine
-bip_39_word_underscore_5: cost_lava_extra_fine_antenna
-bip_39_word_underscore_6: cost_lava_extra_fine_antenna_human
-bip_39_word_underscore_7: cost_lava_extra_fine_antenna_human_supreme
-bip_39_word_underscore_8: cost_lava_extra_fine_antenna_human_supreme_dry
-bip_39_word_underscore_9: cost_lava_extra_fine_antenna_human_supreme_dry_develop
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

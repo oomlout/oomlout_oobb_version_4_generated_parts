@@ -1,68 +1,9 @@
-bip_39_word_dash_1: record
-bip_39_word_dash_10: record-web-print-yard-shield-purse-finger-fan-hockey-strike
-bip_39_word_dash_11: record-web-print-yard-shield-purse-finger-fan-hockey-strike-smart
 bip_39_word_dash_12: record-web-print-yard-shield-purse-finger-fan-hockey-strike-smart-arrange
 bip_39_word_dash_2: record-web
 bip_39_word_dash_3: record-web-print
-bip_39_word_dash_4: record-web-print-yard
-bip_39_word_dash_5: record-web-print-yard-shield
-bip_39_word_dash_6: record-web-print-yard-shield-purse
-bip_39_word_dash_7: record-web-print-yard-shield-purse-finger
-bip_39_word_dash_8: record-web-print-yard-shield-purse-finger-fan
-bip_39_word_dash_9: record-web-print-yard-shield-purse-finger-fan-hockey
-bip_39_word_new_br_1: record
-bip_39_word_new_br_10: record<br>web<br>print<br>yard<br>shield<br>purse<br>finger<br>fan<br>hockey<br>strike
-bip_39_word_new_br_11: record<br>web<br>print<br>yard<br>shield<br>purse<br>finger<br>fan<br>hockey<br>strike<br>smart
 bip_39_word_new_br_12: record<br>web<br>print<br>yard<br>shield<br>purse<br>finger<br>fan<br>hockey<br>strike<br>smart<br>arrange
 bip_39_word_new_br_2: record<br>web
 bip_39_word_new_br_3: record<br>web<br>print
-bip_39_word_new_br_4: record<br>web<br>print<br>yard
-bip_39_word_new_br_5: record<br>web<br>print<br>yard<br>shield
-bip_39_word_new_br_6: record<br>web<br>print<br>yard<br>shield<br>purse
-bip_39_word_new_br_7: record<br>web<br>print<br>yard<br>shield<br>purse<br>finger
-bip_39_word_new_br_8: record<br>web<br>print<br>yard<br>shield<br>purse<br>finger<br>fan
-bip_39_word_new_br_9: record<br>web<br>print<br>yard<br>shield<br>purse<br>finger<br>fan<br>hockey
-bip_39_word_new_line_1: record
-bip_39_word_new_line_10: 'record
-
-  web
-
-  print
-
-  yard
-
-  shield
-
-  purse
-
-  finger
-
-  fan
-
-  hockey
-
-  strike'
-bip_39_word_new_line_11: 'record
-
-  web
-
-  print
-
-  yard
-
-  shield
-
-  purse
-
-  finger
-
-  fan
-
-  hockey
-
-  strike
-
-  smart'
 bip_39_word_new_line_12: 'record
 
   web
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'record
   web
 
   print'
-bip_39_word_new_line_4: 'record
-
-  web
-
-  print
-
-  yard'
-bip_39_word_new_line_5: 'record
-
-  web
-
-  print
-
-  yard
-
-  shield'
-bip_39_word_new_line_6: 'record
-
-  web
-
-  print
-
-  yard
-
-  shield
-
-  purse'
-bip_39_word_new_line_7: 'record
-
-  web
-
-  print
-
-  yard
-
-  shield
-
-  purse
-
-  finger'
-bip_39_word_new_line_8: 'record
-
-  web
-
-  print
-
-  yard
-
-  shield
-
-  purse
-
-  finger
-
-  fan'
-bip_39_word_new_line_9: 'record
-
-  web
-
-  print
-
-  yard
-
-  shield
-
-  purse
-
-  finger
-
-  fan
-
-  hockey'
-bip_39_word_no_space_1: record
-bip_39_word_no_space_10: recordwebprintyardshieldpursefingerfanhockeystrike
-bip_39_word_no_space_11: recordwebprintyardshieldpursefingerfanhockeystrikesmart
 bip_39_word_no_space_12: recordwebprintyardshieldpursefingerfanhockeystrikesmartarrange
 bip_39_word_no_space_2: recordweb
 bip_39_word_no_space_3: recordwebprint
-bip_39_word_no_space_4: recordwebprintyard
-bip_39_word_no_space_5: recordwebprintyardshield
-bip_39_word_no_space_6: recordwebprintyardshieldpurse
-bip_39_word_no_space_7: recordwebprintyardshieldpursefinger
-bip_39_word_no_space_8: recordwebprintyardshieldpursefingerfan
-bip_39_word_no_space_9: recordwebprintyardshieldpursefingerfanhockey
-bip_39_word_space_0:
-- record
-- web
-- print
-- yard
-- shield
-- purse
-- finger
-- fan
-- hockey
-- strike
-- smart
-- arrange
-bip_39_word_space_1: record
-bip_39_word_space_10: record web print yard shield purse finger fan hockey strike
-bip_39_word_space_11: record web print yard shield purse finger fan hockey strike
-  smart
 bip_39_word_space_12: record web print yard shield purse finger fan hockey strike
   smart arrange
 bip_39_word_space_2: record web
 bip_39_word_space_3: record web print
-bip_39_word_space_4: record web print yard
-bip_39_word_space_5: record web print yard shield
-bip_39_word_space_6: record web print yard shield purse
-bip_39_word_space_7: record web print yard shield purse finger
-bip_39_word_space_8: record web print yard shield purse finger fan
-bip_39_word_space_9: record web print yard shield purse finger fan hockey
-bip_39_word_underscore_1: record
-bip_39_word_underscore_10: record_web_print_yard_shield_purse_finger_fan_hockey_strike
-bip_39_word_underscore_11: record_web_print_yard_shield_purse_finger_fan_hockey_strike_smart
 bip_39_word_underscore_12: record_web_print_yard_shield_purse_finger_fan_hockey_strike_smart_arrange
 bip_39_word_underscore_2: record_web
 bip_39_word_underscore_3: record_web_print
-bip_39_word_underscore_4: record_web_print_yard
-bip_39_word_underscore_5: record_web_print_yard_shield
-bip_39_word_underscore_6: record_web_print_yard_shield_purse
-bip_39_word_underscore_7: record_web_print_yard_shield_purse_finger
-bip_39_word_underscore_8: record_web_print_yard_shield_purse_finger_fan
-bip_39_word_underscore_9: record_web_print_yard_shield_purse_finger_fan_hockey
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: match
-bip_39_word_dash_10: match-address-tell-biology-rookie-rival-bitter-this-horn-chaos
-bip_39_word_dash_11: match-address-tell-biology-rookie-rival-bitter-this-horn-chaos-convince
 bip_39_word_dash_12: match-address-tell-biology-rookie-rival-bitter-this-horn-chaos-convince-arctic
 bip_39_word_dash_2: match-address
 bip_39_word_dash_3: match-address-tell
-bip_39_word_dash_4: match-address-tell-biology
-bip_39_word_dash_5: match-address-tell-biology-rookie
-bip_39_word_dash_6: match-address-tell-biology-rookie-rival
-bip_39_word_dash_7: match-address-tell-biology-rookie-rival-bitter
-bip_39_word_dash_8: match-address-tell-biology-rookie-rival-bitter-this
-bip_39_word_dash_9: match-address-tell-biology-rookie-rival-bitter-this-horn
-bip_39_word_new_br_1: match
-bip_39_word_new_br_10: match<br>address<br>tell<br>biology<br>rookie<br>rival<br>bitter<br>this<br>horn<br>chaos
-bip_39_word_new_br_11: match<br>address<br>tell<br>biology<br>rookie<br>rival<br>bitter<br>this<br>horn<br>chaos<br>convince
 bip_39_word_new_br_12: match<br>address<br>tell<br>biology<br>rookie<br>rival<br>bitter<br>this<br>horn<br>chaos<br>convince<br>arctic
 bip_39_word_new_br_2: match<br>address
 bip_39_word_new_br_3: match<br>address<br>tell
-bip_39_word_new_br_4: match<br>address<br>tell<br>biology
-bip_39_word_new_br_5: match<br>address<br>tell<br>biology<br>rookie
-bip_39_word_new_br_6: match<br>address<br>tell<br>biology<br>rookie<br>rival
-bip_39_word_new_br_7: match<br>address<br>tell<br>biology<br>rookie<br>rival<br>bitter
-bip_39_word_new_br_8: match<br>address<br>tell<br>biology<br>rookie<br>rival<br>bitter<br>this
-bip_39_word_new_br_9: match<br>address<br>tell<br>biology<br>rookie<br>rival<br>bitter<br>this<br>horn
-bip_39_word_new_line_1: match
-bip_39_word_new_line_10: 'match
-
-  address
-
-  tell
-
-  biology
-
-  rookie
-
-  rival
-
-  bitter
-
-  this
-
-  horn
-
-  chaos'
-bip_39_word_new_line_11: 'match
-
-  address
-
-  tell
-
-  biology
-
-  rookie
-
-  rival
-
-  bitter
-
-  this
-
-  horn
-
-  chaos
-
-  convince'
 bip_39_word_new_line_12: 'match
 
   address
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'match
   address
 
   tell'
-bip_39_word_new_line_4: 'match
-
-  address
-
-  tell
-
-  biology'
-bip_39_word_new_line_5: 'match
-
-  address
-
-  tell
-
-  biology
-
-  rookie'
-bip_39_word_new_line_6: 'match
-
-  address
-
-  tell
-
-  biology
-
-  rookie
-
-  rival'
-bip_39_word_new_line_7: 'match
-
-  address
-
-  tell
-
-  biology
-
-  rookie
-
-  rival
-
-  bitter'
-bip_39_word_new_line_8: 'match
-
-  address
-
-  tell
-
-  biology
-
-  rookie
-
-  rival
-
-  bitter
-
-  this'
-bip_39_word_new_line_9: 'match
-
-  address
-
-  tell
-
-  biology
-
-  rookie
-
-  rival
-
-  bitter
-
-  this
-
-  horn'
-bip_39_word_no_space_1: match
-bip_39_word_no_space_10: matchaddresstellbiologyrookierivalbitterthishornchaos
-bip_39_word_no_space_11: matchaddresstellbiologyrookierivalbitterthishornchaosconvince
 bip_39_word_no_space_12: matchaddresstellbiologyrookierivalbitterthishornchaosconvincearctic
 bip_39_word_no_space_2: matchaddress
 bip_39_word_no_space_3: matchaddresstell
-bip_39_word_no_space_4: matchaddresstellbiology
-bip_39_word_no_space_5: matchaddresstellbiologyrookie
-bip_39_word_no_space_6: matchaddresstellbiologyrookierival
-bip_39_word_no_space_7: matchaddresstellbiologyrookierivalbitter
-bip_39_word_no_space_8: matchaddresstellbiologyrookierivalbitterthis
-bip_39_word_no_space_9: matchaddresstellbiologyrookierivalbitterthishorn
-bip_39_word_space_0:
-- match
-- address
-- tell
-- biology
-- rookie
-- rival
-- bitter
-- this
-- horn
-- chaos
-- convince
-- arctic
-bip_39_word_space_1: match
-bip_39_word_space_10: match address tell biology rookie rival bitter this horn chaos
-bip_39_word_space_11: match address tell biology rookie rival bitter this horn chaos
-  convince
 bip_39_word_space_12: match address tell biology rookie rival bitter this horn chaos
   convince arctic
 bip_39_word_space_2: match address
 bip_39_word_space_3: match address tell
-bip_39_word_space_4: match address tell biology
-bip_39_word_space_5: match address tell biology rookie
-bip_39_word_space_6: match address tell biology rookie rival
-bip_39_word_space_7: match address tell biology rookie rival bitter
-bip_39_word_space_8: match address tell biology rookie rival bitter this
-bip_39_word_space_9: match address tell biology rookie rival bitter this horn
-bip_39_word_underscore_1: match
-bip_39_word_underscore_10: match_address_tell_biology_rookie_rival_bitter_this_horn_chaos
-bip_39_word_underscore_11: match_address_tell_biology_rookie_rival_bitter_this_horn_chaos_convince
 bip_39_word_underscore_12: match_address_tell_biology_rookie_rival_bitter_this_horn_chaos_convince_arctic
 bip_39_word_underscore_2: match_address
 bip_39_word_underscore_3: match_address_tell
-bip_39_word_underscore_4: match_address_tell_biology
-bip_39_word_underscore_5: match_address_tell_biology_rookie
-bip_39_word_underscore_6: match_address_tell_biology_rookie_rival
-bip_39_word_underscore_7: match_address_tell_biology_rookie_rival_bitter
-bip_39_word_underscore_8: match_address_tell_biology_rookie_rival_bitter_this
-bip_39_word_underscore_9: match_address_tell_biology_rookie_rival_bitter_this_horn
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

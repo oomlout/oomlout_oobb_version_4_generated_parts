@@ -1,68 +1,9 @@
-bip_39_word_dash_1: genre
-bip_39_word_dash_10: genre-person-impact-elegant-liquid-river-live-small-hazard-smoke
-bip_39_word_dash_11: genre-person-impact-elegant-liquid-river-live-small-hazard-smoke-chalk
 bip_39_word_dash_12: genre-person-impact-elegant-liquid-river-live-small-hazard-smoke-chalk-among
 bip_39_word_dash_2: genre-person
 bip_39_word_dash_3: genre-person-impact
-bip_39_word_dash_4: genre-person-impact-elegant
-bip_39_word_dash_5: genre-person-impact-elegant-liquid
-bip_39_word_dash_6: genre-person-impact-elegant-liquid-river
-bip_39_word_dash_7: genre-person-impact-elegant-liquid-river-live
-bip_39_word_dash_8: genre-person-impact-elegant-liquid-river-live-small
-bip_39_word_dash_9: genre-person-impact-elegant-liquid-river-live-small-hazard
-bip_39_word_new_br_1: genre
-bip_39_word_new_br_10: genre<br>person<br>impact<br>elegant<br>liquid<br>river<br>live<br>small<br>hazard<br>smoke
-bip_39_word_new_br_11: genre<br>person<br>impact<br>elegant<br>liquid<br>river<br>live<br>small<br>hazard<br>smoke<br>chalk
 bip_39_word_new_br_12: genre<br>person<br>impact<br>elegant<br>liquid<br>river<br>live<br>small<br>hazard<br>smoke<br>chalk<br>among
 bip_39_word_new_br_2: genre<br>person
 bip_39_word_new_br_3: genre<br>person<br>impact
-bip_39_word_new_br_4: genre<br>person<br>impact<br>elegant
-bip_39_word_new_br_5: genre<br>person<br>impact<br>elegant<br>liquid
-bip_39_word_new_br_6: genre<br>person<br>impact<br>elegant<br>liquid<br>river
-bip_39_word_new_br_7: genre<br>person<br>impact<br>elegant<br>liquid<br>river<br>live
-bip_39_word_new_br_8: genre<br>person<br>impact<br>elegant<br>liquid<br>river<br>live<br>small
-bip_39_word_new_br_9: genre<br>person<br>impact<br>elegant<br>liquid<br>river<br>live<br>small<br>hazard
-bip_39_word_new_line_1: genre
-bip_39_word_new_line_10: 'genre
-
-  person
-
-  impact
-
-  elegant
-
-  liquid
-
-  river
-
-  live
-
-  small
-
-  hazard
-
-  smoke'
-bip_39_word_new_line_11: 'genre
-
-  person
-
-  impact
-
-  elegant
-
-  liquid
-
-  river
-
-  live
-
-  small
-
-  hazard
-
-  smoke
-
-  chalk'
 bip_39_word_new_line_12: 'genre
 
   person
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'genre
   person
 
   impact'
-bip_39_word_new_line_4: 'genre
-
-  person
-
-  impact
-
-  elegant'
-bip_39_word_new_line_5: 'genre
-
-  person
-
-  impact
-
-  elegant
-
-  liquid'
-bip_39_word_new_line_6: 'genre
-
-  person
-
-  impact
-
-  elegant
-
-  liquid
-
-  river'
-bip_39_word_new_line_7: 'genre
-
-  person
-
-  impact
-
-  elegant
-
-  liquid
-
-  river
-
-  live'
-bip_39_word_new_line_8: 'genre
-
-  person
-
-  impact
-
-  elegant
-
-  liquid
-
-  river
-
-  live
-
-  small'
-bip_39_word_new_line_9: 'genre
-
-  person
-
-  impact
-
-  elegant
-
-  liquid
-
-  river
-
-  live
-
-  small
-
-  hazard'
-bip_39_word_no_space_1: genre
-bip_39_word_no_space_10: genrepersonimpactelegantliquidriverlivesmallhazardsmoke
-bip_39_word_no_space_11: genrepersonimpactelegantliquidriverlivesmallhazardsmokechalk
 bip_39_word_no_space_12: genrepersonimpactelegantliquidriverlivesmallhazardsmokechalkamong
 bip_39_word_no_space_2: genreperson
 bip_39_word_no_space_3: genrepersonimpact
-bip_39_word_no_space_4: genrepersonimpactelegant
-bip_39_word_no_space_5: genrepersonimpactelegantliquid
-bip_39_word_no_space_6: genrepersonimpactelegantliquidriver
-bip_39_word_no_space_7: genrepersonimpactelegantliquidriverlive
-bip_39_word_no_space_8: genrepersonimpactelegantliquidriverlivesmall
-bip_39_word_no_space_9: genrepersonimpactelegantliquidriverlivesmallhazard
-bip_39_word_space_0:
-- genre
-- person
-- impact
-- elegant
-- liquid
-- river
-- live
-- small
-- hazard
-- smoke
-- chalk
-- among
-bip_39_word_space_1: genre
-bip_39_word_space_10: genre person impact elegant liquid river live small hazard smoke
-bip_39_word_space_11: genre person impact elegant liquid river live small hazard smoke
-  chalk
 bip_39_word_space_12: genre person impact elegant liquid river live small hazard smoke
   chalk among
 bip_39_word_space_2: genre person
 bip_39_word_space_3: genre person impact
-bip_39_word_space_4: genre person impact elegant
-bip_39_word_space_5: genre person impact elegant liquid
-bip_39_word_space_6: genre person impact elegant liquid river
-bip_39_word_space_7: genre person impact elegant liquid river live
-bip_39_word_space_8: genre person impact elegant liquid river live small
-bip_39_word_space_9: genre person impact elegant liquid river live small hazard
-bip_39_word_underscore_1: genre
-bip_39_word_underscore_10: genre_person_impact_elegant_liquid_river_live_small_hazard_smoke
-bip_39_word_underscore_11: genre_person_impact_elegant_liquid_river_live_small_hazard_smoke_chalk
 bip_39_word_underscore_12: genre_person_impact_elegant_liquid_river_live_small_hazard_smoke_chalk_among
 bip_39_word_underscore_2: genre_person
 bip_39_word_underscore_3: genre_person_impact
-bip_39_word_underscore_4: genre_person_impact_elegant
-bip_39_word_underscore_5: genre_person_impact_elegant_liquid
-bip_39_word_underscore_6: genre_person_impact_elegant_liquid_river
-bip_39_word_underscore_7: genre_person_impact_elegant_liquid_river_live
-bip_39_word_underscore_8: genre_person_impact_elegant_liquid_river_live_small
-bip_39_word_underscore_9: genre_person_impact_elegant_liquid_river_live_small_hazard
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

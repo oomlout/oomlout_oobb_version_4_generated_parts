@@ -1,68 +1,9 @@
-bip_39_word_dash_1: never
-bip_39_word_dash_10: never-circle-awake-matrix-walk-follow-grid-artwork-saddle-tourist
-bip_39_word_dash_11: never-circle-awake-matrix-walk-follow-grid-artwork-saddle-tourist-exhaust
 bip_39_word_dash_12: never-circle-awake-matrix-walk-follow-grid-artwork-saddle-tourist-exhaust-artist
 bip_39_word_dash_2: never-circle
 bip_39_word_dash_3: never-circle-awake
-bip_39_word_dash_4: never-circle-awake-matrix
-bip_39_word_dash_5: never-circle-awake-matrix-walk
-bip_39_word_dash_6: never-circle-awake-matrix-walk-follow
-bip_39_word_dash_7: never-circle-awake-matrix-walk-follow-grid
-bip_39_word_dash_8: never-circle-awake-matrix-walk-follow-grid-artwork
-bip_39_word_dash_9: never-circle-awake-matrix-walk-follow-grid-artwork-saddle
-bip_39_word_new_br_1: never
-bip_39_word_new_br_10: never<br>circle<br>awake<br>matrix<br>walk<br>follow<br>grid<br>artwork<br>saddle<br>tourist
-bip_39_word_new_br_11: never<br>circle<br>awake<br>matrix<br>walk<br>follow<br>grid<br>artwork<br>saddle<br>tourist<br>exhaust
 bip_39_word_new_br_12: never<br>circle<br>awake<br>matrix<br>walk<br>follow<br>grid<br>artwork<br>saddle<br>tourist<br>exhaust<br>artist
 bip_39_word_new_br_2: never<br>circle
 bip_39_word_new_br_3: never<br>circle<br>awake
-bip_39_word_new_br_4: never<br>circle<br>awake<br>matrix
-bip_39_word_new_br_5: never<br>circle<br>awake<br>matrix<br>walk
-bip_39_word_new_br_6: never<br>circle<br>awake<br>matrix<br>walk<br>follow
-bip_39_word_new_br_7: never<br>circle<br>awake<br>matrix<br>walk<br>follow<br>grid
-bip_39_word_new_br_8: never<br>circle<br>awake<br>matrix<br>walk<br>follow<br>grid<br>artwork
-bip_39_word_new_br_9: never<br>circle<br>awake<br>matrix<br>walk<br>follow<br>grid<br>artwork<br>saddle
-bip_39_word_new_line_1: never
-bip_39_word_new_line_10: 'never
-
-  circle
-
-  awake
-
-  matrix
-
-  walk
-
-  follow
-
-  grid
-
-  artwork
-
-  saddle
-
-  tourist'
-bip_39_word_new_line_11: 'never
-
-  circle
-
-  awake
-
-  matrix
-
-  walk
-
-  follow
-
-  grid
-
-  artwork
-
-  saddle
-
-  tourist
-
-  exhaust'
 bip_39_word_new_line_12: 'never
 
   circle
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'never
   circle
 
   awake'
-bip_39_word_new_line_4: 'never
-
-  circle
-
-  awake
-
-  matrix'
-bip_39_word_new_line_5: 'never
-
-  circle
-
-  awake
-
-  matrix
-
-  walk'
-bip_39_word_new_line_6: 'never
-
-  circle
-
-  awake
-
-  matrix
-
-  walk
-
-  follow'
-bip_39_word_new_line_7: 'never
-
-  circle
-
-  awake
-
-  matrix
-
-  walk
-
-  follow
-
-  grid'
-bip_39_word_new_line_8: 'never
-
-  circle
-
-  awake
-
-  matrix
-
-  walk
-
-  follow
-
-  grid
-
-  artwork'
-bip_39_word_new_line_9: 'never
-
-  circle
-
-  awake
-
-  matrix
-
-  walk
-
-  follow
-
-  grid
-
-  artwork
-
-  saddle'
-bip_39_word_no_space_1: never
-bip_39_word_no_space_10: nevercircleawakematrixwalkfollowgridartworksaddletourist
-bip_39_word_no_space_11: nevercircleawakematrixwalkfollowgridartworksaddletouristexhaust
 bip_39_word_no_space_12: nevercircleawakematrixwalkfollowgridartworksaddletouristexhaustartist
 bip_39_word_no_space_2: nevercircle
 bip_39_word_no_space_3: nevercircleawake
-bip_39_word_no_space_4: nevercircleawakematrix
-bip_39_word_no_space_5: nevercircleawakematrixwalk
-bip_39_word_no_space_6: nevercircleawakematrixwalkfollow
-bip_39_word_no_space_7: nevercircleawakematrixwalkfollowgrid
-bip_39_word_no_space_8: nevercircleawakematrixwalkfollowgridartwork
-bip_39_word_no_space_9: nevercircleawakematrixwalkfollowgridartworksaddle
-bip_39_word_space_0:
-- never
-- circle
-- awake
-- matrix
-- walk
-- follow
-- grid
-- artwork
-- saddle
-- tourist
-- exhaust
-- artist
-bip_39_word_space_1: never
-bip_39_word_space_10: never circle awake matrix walk follow grid artwork saddle tourist
-bip_39_word_space_11: never circle awake matrix walk follow grid artwork saddle tourist
-  exhaust
 bip_39_word_space_12: never circle awake matrix walk follow grid artwork saddle tourist
   exhaust artist
 bip_39_word_space_2: never circle
 bip_39_word_space_3: never circle awake
-bip_39_word_space_4: never circle awake matrix
-bip_39_word_space_5: never circle awake matrix walk
-bip_39_word_space_6: never circle awake matrix walk follow
-bip_39_word_space_7: never circle awake matrix walk follow grid
-bip_39_word_space_8: never circle awake matrix walk follow grid artwork
-bip_39_word_space_9: never circle awake matrix walk follow grid artwork saddle
-bip_39_word_underscore_1: never
-bip_39_word_underscore_10: never_circle_awake_matrix_walk_follow_grid_artwork_saddle_tourist
-bip_39_word_underscore_11: never_circle_awake_matrix_walk_follow_grid_artwork_saddle_tourist_exhaust
 bip_39_word_underscore_12: never_circle_awake_matrix_walk_follow_grid_artwork_saddle_tourist_exhaust_artist
 bip_39_word_underscore_2: never_circle
 bip_39_word_underscore_3: never_circle_awake
-bip_39_word_underscore_4: never_circle_awake_matrix
-bip_39_word_underscore_5: never_circle_awake_matrix_walk
-bip_39_word_underscore_6: never_circle_awake_matrix_walk_follow
-bip_39_word_underscore_7: never_circle_awake_matrix_walk_follow_grid
-bip_39_word_underscore_8: never_circle_awake_matrix_walk_follow_grid_artwork
-bip_39_word_underscore_9: never_circle_awake_matrix_walk_follow_grid_artwork_saddle
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

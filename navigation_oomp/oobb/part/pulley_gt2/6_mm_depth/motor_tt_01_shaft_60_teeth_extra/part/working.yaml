@@ -1,68 +1,9 @@
-bip_39_word_dash_1: luggage
-bip_39_word_dash_10: luggage-knife-admit-peanut-medal-daring-ten-system-romance-flee
-bip_39_word_dash_11: luggage-knife-admit-peanut-medal-daring-ten-system-romance-flee-basket
 bip_39_word_dash_12: luggage-knife-admit-peanut-medal-daring-ten-system-romance-flee-basket-anger
 bip_39_word_dash_2: luggage-knife
 bip_39_word_dash_3: luggage-knife-admit
-bip_39_word_dash_4: luggage-knife-admit-peanut
-bip_39_word_dash_5: luggage-knife-admit-peanut-medal
-bip_39_word_dash_6: luggage-knife-admit-peanut-medal-daring
-bip_39_word_dash_7: luggage-knife-admit-peanut-medal-daring-ten
-bip_39_word_dash_8: luggage-knife-admit-peanut-medal-daring-ten-system
-bip_39_word_dash_9: luggage-knife-admit-peanut-medal-daring-ten-system-romance
-bip_39_word_new_br_1: luggage
-bip_39_word_new_br_10: luggage<br>knife<br>admit<br>peanut<br>medal<br>daring<br>ten<br>system<br>romance<br>flee
-bip_39_word_new_br_11: luggage<br>knife<br>admit<br>peanut<br>medal<br>daring<br>ten<br>system<br>romance<br>flee<br>basket
 bip_39_word_new_br_12: luggage<br>knife<br>admit<br>peanut<br>medal<br>daring<br>ten<br>system<br>romance<br>flee<br>basket<br>anger
 bip_39_word_new_br_2: luggage<br>knife
 bip_39_word_new_br_3: luggage<br>knife<br>admit
-bip_39_word_new_br_4: luggage<br>knife<br>admit<br>peanut
-bip_39_word_new_br_5: luggage<br>knife<br>admit<br>peanut<br>medal
-bip_39_word_new_br_6: luggage<br>knife<br>admit<br>peanut<br>medal<br>daring
-bip_39_word_new_br_7: luggage<br>knife<br>admit<br>peanut<br>medal<br>daring<br>ten
-bip_39_word_new_br_8: luggage<br>knife<br>admit<br>peanut<br>medal<br>daring<br>ten<br>system
-bip_39_word_new_br_9: luggage<br>knife<br>admit<br>peanut<br>medal<br>daring<br>ten<br>system<br>romance
-bip_39_word_new_line_1: luggage
-bip_39_word_new_line_10: 'luggage
-
-  knife
-
-  admit
-
-  peanut
-
-  medal
-
-  daring
-
-  ten
-
-  system
-
-  romance
-
-  flee'
-bip_39_word_new_line_11: 'luggage
-
-  knife
-
-  admit
-
-  peanut
-
-  medal
-
-  daring
-
-  ten
-
-  system
-
-  romance
-
-  flee
-
-  basket'
 bip_39_word_new_line_12: 'luggage
 
   knife
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'luggage
   knife
 
   admit'
-bip_39_word_new_line_4: 'luggage
-
-  knife
-
-  admit
-
-  peanut'
-bip_39_word_new_line_5: 'luggage
-
-  knife
-
-  admit
-
-  peanut
-
-  medal'
-bip_39_word_new_line_6: 'luggage
-
-  knife
-
-  admit
-
-  peanut
-
-  medal
-
-  daring'
-bip_39_word_new_line_7: 'luggage
-
-  knife
-
-  admit
-
-  peanut
-
-  medal
-
-  daring
-
-  ten'
-bip_39_word_new_line_8: 'luggage
-
-  knife
-
-  admit
-
-  peanut
-
-  medal
-
-  daring
-
-  ten
-
-  system'
-bip_39_word_new_line_9: 'luggage
-
-  knife
-
-  admit
-
-  peanut
-
-  medal
-
-  daring
-
-  ten
-
-  system
-
-  romance'
-bip_39_word_no_space_1: luggage
-bip_39_word_no_space_10: luggageknifeadmitpeanutmedaldaringtensystemromanceflee
-bip_39_word_no_space_11: luggageknifeadmitpeanutmedaldaringtensystemromancefleebasket
 bip_39_word_no_space_12: luggageknifeadmitpeanutmedaldaringtensystemromancefleebasketanger
 bip_39_word_no_space_2: luggageknife
 bip_39_word_no_space_3: luggageknifeadmit
-bip_39_word_no_space_4: luggageknifeadmitpeanut
-bip_39_word_no_space_5: luggageknifeadmitpeanutmedal
-bip_39_word_no_space_6: luggageknifeadmitpeanutmedaldaring
-bip_39_word_no_space_7: luggageknifeadmitpeanutmedaldaringten
-bip_39_word_no_space_8: luggageknifeadmitpeanutmedaldaringtensystem
-bip_39_word_no_space_9: luggageknifeadmitpeanutmedaldaringtensystemromance
-bip_39_word_space_0:
-- luggage
-- knife
-- admit
-- peanut
-- medal
-- daring
-- ten
-- system
-- romance
-- flee
-- basket
-- anger
-bip_39_word_space_1: luggage
-bip_39_word_space_10: luggage knife admit peanut medal daring ten system romance flee
-bip_39_word_space_11: luggage knife admit peanut medal daring ten system romance flee
-  basket
 bip_39_word_space_12: luggage knife admit peanut medal daring ten system romance flee
   basket anger
 bip_39_word_space_2: luggage knife
 bip_39_word_space_3: luggage knife admit
-bip_39_word_space_4: luggage knife admit peanut
-bip_39_word_space_5: luggage knife admit peanut medal
-bip_39_word_space_6: luggage knife admit peanut medal daring
-bip_39_word_space_7: luggage knife admit peanut medal daring ten
-bip_39_word_space_8: luggage knife admit peanut medal daring ten system
-bip_39_word_space_9: luggage knife admit peanut medal daring ten system romance
-bip_39_word_underscore_1: luggage
-bip_39_word_underscore_10: luggage_knife_admit_peanut_medal_daring_ten_system_romance_flee
-bip_39_word_underscore_11: luggage_knife_admit_peanut_medal_daring_ten_system_romance_flee_basket
 bip_39_word_underscore_12: luggage_knife_admit_peanut_medal_daring_ten_system_romance_flee_basket_anger
 bip_39_word_underscore_2: luggage_knife
 bip_39_word_underscore_3: luggage_knife_admit
-bip_39_word_underscore_4: luggage_knife_admit_peanut
-bip_39_word_underscore_5: luggage_knife_admit_peanut_medal
-bip_39_word_underscore_6: luggage_knife_admit_peanut_medal_daring
-bip_39_word_underscore_7: luggage_knife_admit_peanut_medal_daring_ten
-bip_39_word_underscore_8: luggage_knife_admit_peanut_medal_daring_ten_system
-bip_39_word_underscore_9: luggage_knife_admit_peanut_medal_daring_ten_system_romance
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

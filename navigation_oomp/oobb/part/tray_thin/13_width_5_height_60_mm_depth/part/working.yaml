@@ -1,68 +1,9 @@
-bip_39_word_dash_1: crew
-bip_39_word_dash_10: crew-version-bachelor-traffic-forward-base-century-mule-draft-mechanic
-bip_39_word_dash_11: crew-version-bachelor-traffic-forward-base-century-mule-draft-mechanic-owner
 bip_39_word_dash_12: crew-version-bachelor-traffic-forward-base-century-mule-draft-mechanic-owner-arrange
 bip_39_word_dash_2: crew-version
 bip_39_word_dash_3: crew-version-bachelor
-bip_39_word_dash_4: crew-version-bachelor-traffic
-bip_39_word_dash_5: crew-version-bachelor-traffic-forward
-bip_39_word_dash_6: crew-version-bachelor-traffic-forward-base
-bip_39_word_dash_7: crew-version-bachelor-traffic-forward-base-century
-bip_39_word_dash_8: crew-version-bachelor-traffic-forward-base-century-mule
-bip_39_word_dash_9: crew-version-bachelor-traffic-forward-base-century-mule-draft
-bip_39_word_new_br_1: crew
-bip_39_word_new_br_10: crew<br>version<br>bachelor<br>traffic<br>forward<br>base<br>century<br>mule<br>draft<br>mechanic
-bip_39_word_new_br_11: crew<br>version<br>bachelor<br>traffic<br>forward<br>base<br>century<br>mule<br>draft<br>mechanic<br>owner
 bip_39_word_new_br_12: crew<br>version<br>bachelor<br>traffic<br>forward<br>base<br>century<br>mule<br>draft<br>mechanic<br>owner<br>arrange
 bip_39_word_new_br_2: crew<br>version
 bip_39_word_new_br_3: crew<br>version<br>bachelor
-bip_39_word_new_br_4: crew<br>version<br>bachelor<br>traffic
-bip_39_word_new_br_5: crew<br>version<br>bachelor<br>traffic<br>forward
-bip_39_word_new_br_6: crew<br>version<br>bachelor<br>traffic<br>forward<br>base
-bip_39_word_new_br_7: crew<br>version<br>bachelor<br>traffic<br>forward<br>base<br>century
-bip_39_word_new_br_8: crew<br>version<br>bachelor<br>traffic<br>forward<br>base<br>century<br>mule
-bip_39_word_new_br_9: crew<br>version<br>bachelor<br>traffic<br>forward<br>base<br>century<br>mule<br>draft
-bip_39_word_new_line_1: crew
-bip_39_word_new_line_10: 'crew
-
-  version
-
-  bachelor
-
-  traffic
-
-  forward
-
-  base
-
-  century
-
-  mule
-
-  draft
-
-  mechanic'
-bip_39_word_new_line_11: 'crew
-
-  version
-
-  bachelor
-
-  traffic
-
-  forward
-
-  base
-
-  century
-
-  mule
-
-  draft
-
-  mechanic
-
-  owner'
 bip_39_word_new_line_12: 'crew
 
   version
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'crew
   version
 
   bachelor'
-bip_39_word_new_line_4: 'crew
-
-  version
-
-  bachelor
-
-  traffic'
-bip_39_word_new_line_5: 'crew
-
-  version
-
-  bachelor
-
-  traffic
-
-  forward'
-bip_39_word_new_line_6: 'crew
-
-  version
-
-  bachelor
-
-  traffic
-
-  forward
-
-  base'
-bip_39_word_new_line_7: 'crew
-
-  version
-
-  bachelor
-
-  traffic
-
-  forward
-
-  base
-
-  century'
-bip_39_word_new_line_8: 'crew
-
-  version
-
-  bachelor
-
-  traffic
-
-  forward
-
-  base
-
-  century
-
-  mule'
-bip_39_word_new_line_9: 'crew
-
-  version
-
-  bachelor
-
-  traffic
-
-  forward
-
-  base
-
-  century
-
-  mule
-
-  draft'
-bip_39_word_no_space_1: crew
-bip_39_word_no_space_10: crewversionbachelortrafficforwardbasecenturymuledraftmechanic
-bip_39_word_no_space_11: crewversionbachelortrafficforwardbasecenturymuledraftmechanicowner
 bip_39_word_no_space_12: crewversionbachelortrafficforwardbasecenturymuledraftmechanicownerarrange
 bip_39_word_no_space_2: crewversion
 bip_39_word_no_space_3: crewversionbachelor
-bip_39_word_no_space_4: crewversionbachelortraffic
-bip_39_word_no_space_5: crewversionbachelortrafficforward
-bip_39_word_no_space_6: crewversionbachelortrafficforwardbase
-bip_39_word_no_space_7: crewversionbachelortrafficforwardbasecentury
-bip_39_word_no_space_8: crewversionbachelortrafficforwardbasecenturymule
-bip_39_word_no_space_9: crewversionbachelortrafficforwardbasecenturymuledraft
-bip_39_word_space_0:
-- crew
-- version
-- bachelor
-- traffic
-- forward
-- base
-- century
-- mule
-- draft
-- mechanic
-- owner
-- arrange
-bip_39_word_space_1: crew
-bip_39_word_space_10: crew version bachelor traffic forward base century mule draft
-  mechanic
-bip_39_word_space_11: crew version bachelor traffic forward base century mule draft
-  mechanic owner
 bip_39_word_space_12: crew version bachelor traffic forward base century mule draft
   mechanic owner arrange
 bip_39_word_space_2: crew version
 bip_39_word_space_3: crew version bachelor
-bip_39_word_space_4: crew version bachelor traffic
-bip_39_word_space_5: crew version bachelor traffic forward
-bip_39_word_space_6: crew version bachelor traffic forward base
-bip_39_word_space_7: crew version bachelor traffic forward base century
-bip_39_word_space_8: crew version bachelor traffic forward base century mule
-bip_39_word_space_9: crew version bachelor traffic forward base century mule draft
-bip_39_word_underscore_1: crew
-bip_39_word_underscore_10: crew_version_bachelor_traffic_forward_base_century_mule_draft_mechanic
-bip_39_word_underscore_11: crew_version_bachelor_traffic_forward_base_century_mule_draft_mechanic_owner
 bip_39_word_underscore_12: crew_version_bachelor_traffic_forward_base_century_mule_draft_mechanic_owner_arrange
 bip_39_word_underscore_2: crew_version
 bip_39_word_underscore_3: crew_version_bachelor
-bip_39_word_underscore_4: crew_version_bachelor_traffic
-bip_39_word_underscore_5: crew_version_bachelor_traffic_forward
-bip_39_word_underscore_6: crew_version_bachelor_traffic_forward_base
-bip_39_word_underscore_7: crew_version_bachelor_traffic_forward_base_century
-bip_39_word_underscore_8: crew_version_bachelor_traffic_forward_base_century_mule
-bip_39_word_underscore_9: crew_version_bachelor_traffic_forward_base_century_mule_draft
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

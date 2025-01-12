@@ -1,68 +1,9 @@
-bip_39_word_dash_1: width
-bip_39_word_dash_10: width-vessel-demand-bench-mean-elbow-window-start-tumble-earth
-bip_39_word_dash_11: width-vessel-demand-bench-mean-elbow-window-start-tumble-earth-clean
 bip_39_word_dash_12: width-vessel-demand-bench-mean-elbow-window-start-tumble-earth-clean-auction
 bip_39_word_dash_2: width-vessel
 bip_39_word_dash_3: width-vessel-demand
-bip_39_word_dash_4: width-vessel-demand-bench
-bip_39_word_dash_5: width-vessel-demand-bench-mean
-bip_39_word_dash_6: width-vessel-demand-bench-mean-elbow
-bip_39_word_dash_7: width-vessel-demand-bench-mean-elbow-window
-bip_39_word_dash_8: width-vessel-demand-bench-mean-elbow-window-start
-bip_39_word_dash_9: width-vessel-demand-bench-mean-elbow-window-start-tumble
-bip_39_word_new_br_1: width
-bip_39_word_new_br_10: width<br>vessel<br>demand<br>bench<br>mean<br>elbow<br>window<br>start<br>tumble<br>earth
-bip_39_word_new_br_11: width<br>vessel<br>demand<br>bench<br>mean<br>elbow<br>window<br>start<br>tumble<br>earth<br>clean
 bip_39_word_new_br_12: width<br>vessel<br>demand<br>bench<br>mean<br>elbow<br>window<br>start<br>tumble<br>earth<br>clean<br>auction
 bip_39_word_new_br_2: width<br>vessel
 bip_39_word_new_br_3: width<br>vessel<br>demand
-bip_39_word_new_br_4: width<br>vessel<br>demand<br>bench
-bip_39_word_new_br_5: width<br>vessel<br>demand<br>bench<br>mean
-bip_39_word_new_br_6: width<br>vessel<br>demand<br>bench<br>mean<br>elbow
-bip_39_word_new_br_7: width<br>vessel<br>demand<br>bench<br>mean<br>elbow<br>window
-bip_39_word_new_br_8: width<br>vessel<br>demand<br>bench<br>mean<br>elbow<br>window<br>start
-bip_39_word_new_br_9: width<br>vessel<br>demand<br>bench<br>mean<br>elbow<br>window<br>start<br>tumble
-bip_39_word_new_line_1: width
-bip_39_word_new_line_10: 'width
-
-  vessel
-
-  demand
-
-  bench
-
-  mean
-
-  elbow
-
-  window
-
-  start
-
-  tumble
-
-  earth'
-bip_39_word_new_line_11: 'width
-
-  vessel
-
-  demand
-
-  bench
-
-  mean
-
-  elbow
-
-  window
-
-  start
-
-  tumble
-
-  earth
-
-  clean'
 bip_39_word_new_line_12: 'width
 
   vessel
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'width
   vessel
 
   demand'
-bip_39_word_new_line_4: 'width
-
-  vessel
-
-  demand
-
-  bench'
-bip_39_word_new_line_5: 'width
-
-  vessel
-
-  demand
-
-  bench
-
-  mean'
-bip_39_word_new_line_6: 'width
-
-  vessel
-
-  demand
-
-  bench
-
-  mean
-
-  elbow'
-bip_39_word_new_line_7: 'width
-
-  vessel
-
-  demand
-
-  bench
-
-  mean
-
-  elbow
-
-  window'
-bip_39_word_new_line_8: 'width
-
-  vessel
-
-  demand
-
-  bench
-
-  mean
-
-  elbow
-
-  window
-
-  start'
-bip_39_word_new_line_9: 'width
-
-  vessel
-
-  demand
-
-  bench
-
-  mean
-
-  elbow
-
-  window
-
-  start
-
-  tumble'
-bip_39_word_no_space_1: width
-bip_39_word_no_space_10: widthvesseldemandbenchmeanelbowwindowstarttumbleearth
-bip_39_word_no_space_11: widthvesseldemandbenchmeanelbowwindowstarttumbleearthclean
 bip_39_word_no_space_12: widthvesseldemandbenchmeanelbowwindowstarttumbleearthcleanauction
 bip_39_word_no_space_2: widthvessel
 bip_39_word_no_space_3: widthvesseldemand
-bip_39_word_no_space_4: widthvesseldemandbench
-bip_39_word_no_space_5: widthvesseldemandbenchmean
-bip_39_word_no_space_6: widthvesseldemandbenchmeanelbow
-bip_39_word_no_space_7: widthvesseldemandbenchmeanelbowwindow
-bip_39_word_no_space_8: widthvesseldemandbenchmeanelbowwindowstart
-bip_39_word_no_space_9: widthvesseldemandbenchmeanelbowwindowstarttumble
-bip_39_word_space_0:
-- width
-- vessel
-- demand
-- bench
-- mean
-- elbow
-- window
-- start
-- tumble
-- earth
-- clean
-- auction
-bip_39_word_space_1: width
-bip_39_word_space_10: width vessel demand bench mean elbow window start tumble earth
-bip_39_word_space_11: width vessel demand bench mean elbow window start tumble earth
-  clean
 bip_39_word_space_12: width vessel demand bench mean elbow window start tumble earth
   clean auction
 bip_39_word_space_2: width vessel
 bip_39_word_space_3: width vessel demand
-bip_39_word_space_4: width vessel demand bench
-bip_39_word_space_5: width vessel demand bench mean
-bip_39_word_space_6: width vessel demand bench mean elbow
-bip_39_word_space_7: width vessel demand bench mean elbow window
-bip_39_word_space_8: width vessel demand bench mean elbow window start
-bip_39_word_space_9: width vessel demand bench mean elbow window start tumble
-bip_39_word_underscore_1: width
-bip_39_word_underscore_10: width_vessel_demand_bench_mean_elbow_window_start_tumble_earth
-bip_39_word_underscore_11: width_vessel_demand_bench_mean_elbow_window_start_tumble_earth_clean
 bip_39_word_underscore_12: width_vessel_demand_bench_mean_elbow_window_start_tumble_earth_clean_auction
 bip_39_word_underscore_2: width_vessel
 bip_39_word_underscore_3: width_vessel_demand
-bip_39_word_underscore_4: width_vessel_demand_bench
-bip_39_word_underscore_5: width_vessel_demand_bench_mean
-bip_39_word_underscore_6: width_vessel_demand_bench_mean_elbow
-bip_39_word_underscore_7: width_vessel_demand_bench_mean_elbow_window
-bip_39_word_underscore_8: width_vessel_demand_bench_mean_elbow_window_start
-bip_39_word_underscore_9: width_vessel_demand_bench_mean_elbow_window_start_tumble
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

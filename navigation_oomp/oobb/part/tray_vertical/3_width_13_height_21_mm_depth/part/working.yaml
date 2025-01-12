@@ -1,68 +1,9 @@
-bip_39_word_dash_1: salt
-bip_39_word_dash_10: salt-stand-inmate-delay-typical-bicycle-tongue-able-oval-kingdom
-bip_39_word_dash_11: salt-stand-inmate-delay-typical-bicycle-tongue-able-oval-kingdom-surround
 bip_39_word_dash_12: salt-stand-inmate-delay-typical-bicycle-tongue-able-oval-kingdom-surround-abstract
 bip_39_word_dash_2: salt-stand
 bip_39_word_dash_3: salt-stand-inmate
-bip_39_word_dash_4: salt-stand-inmate-delay
-bip_39_word_dash_5: salt-stand-inmate-delay-typical
-bip_39_word_dash_6: salt-stand-inmate-delay-typical-bicycle
-bip_39_word_dash_7: salt-stand-inmate-delay-typical-bicycle-tongue
-bip_39_word_dash_8: salt-stand-inmate-delay-typical-bicycle-tongue-able
-bip_39_word_dash_9: salt-stand-inmate-delay-typical-bicycle-tongue-able-oval
-bip_39_word_new_br_1: salt
-bip_39_word_new_br_10: salt<br>stand<br>inmate<br>delay<br>typical<br>bicycle<br>tongue<br>able<br>oval<br>kingdom
-bip_39_word_new_br_11: salt<br>stand<br>inmate<br>delay<br>typical<br>bicycle<br>tongue<br>able<br>oval<br>kingdom<br>surround
 bip_39_word_new_br_12: salt<br>stand<br>inmate<br>delay<br>typical<br>bicycle<br>tongue<br>able<br>oval<br>kingdom<br>surround<br>abstract
 bip_39_word_new_br_2: salt<br>stand
 bip_39_word_new_br_3: salt<br>stand<br>inmate
-bip_39_word_new_br_4: salt<br>stand<br>inmate<br>delay
-bip_39_word_new_br_5: salt<br>stand<br>inmate<br>delay<br>typical
-bip_39_word_new_br_6: salt<br>stand<br>inmate<br>delay<br>typical<br>bicycle
-bip_39_word_new_br_7: salt<br>stand<br>inmate<br>delay<br>typical<br>bicycle<br>tongue
-bip_39_word_new_br_8: salt<br>stand<br>inmate<br>delay<br>typical<br>bicycle<br>tongue<br>able
-bip_39_word_new_br_9: salt<br>stand<br>inmate<br>delay<br>typical<br>bicycle<br>tongue<br>able<br>oval
-bip_39_word_new_line_1: salt
-bip_39_word_new_line_10: 'salt
-
-  stand
-
-  inmate
-
-  delay
-
-  typical
-
-  bicycle
-
-  tongue
-
-  able
-
-  oval
-
-  kingdom'
-bip_39_word_new_line_11: 'salt
-
-  stand
-
-  inmate
-
-  delay
-
-  typical
-
-  bicycle
-
-  tongue
-
-  able
-
-  oval
-
-  kingdom
-
-  surround'
 bip_39_word_new_line_12: 'salt
 
   stand
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'salt
   stand
 
   inmate'
-bip_39_word_new_line_4: 'salt
-
-  stand
-
-  inmate
-
-  delay'
-bip_39_word_new_line_5: 'salt
-
-  stand
-
-  inmate
-
-  delay
-
-  typical'
-bip_39_word_new_line_6: 'salt
-
-  stand
-
-  inmate
-
-  delay
-
-  typical
-
-  bicycle'
-bip_39_word_new_line_7: 'salt
-
-  stand
-
-  inmate
-
-  delay
-
-  typical
-
-  bicycle
-
-  tongue'
-bip_39_word_new_line_8: 'salt
-
-  stand
-
-  inmate
-
-  delay
-
-  typical
-
-  bicycle
-
-  tongue
-
-  able'
-bip_39_word_new_line_9: 'salt
-
-  stand
-
-  inmate
-
-  delay
-
-  typical
-
-  bicycle
-
-  tongue
-
-  able
-
-  oval'
-bip_39_word_no_space_1: salt
-bip_39_word_no_space_10: saltstandinmatedelaytypicalbicycletongueableovalkingdom
-bip_39_word_no_space_11: saltstandinmatedelaytypicalbicycletongueableovalkingdomsurround
 bip_39_word_no_space_12: saltstandinmatedelaytypicalbicycletongueableovalkingdomsurroundabstract
 bip_39_word_no_space_2: saltstand
 bip_39_word_no_space_3: saltstandinmate
-bip_39_word_no_space_4: saltstandinmatedelay
-bip_39_word_no_space_5: saltstandinmatedelaytypical
-bip_39_word_no_space_6: saltstandinmatedelaytypicalbicycle
-bip_39_word_no_space_7: saltstandinmatedelaytypicalbicycletongue
-bip_39_word_no_space_8: saltstandinmatedelaytypicalbicycletongueable
-bip_39_word_no_space_9: saltstandinmatedelaytypicalbicycletongueableoval
-bip_39_word_space_0:
-- salt
-- stand
-- inmate
-- delay
-- typical
-- bicycle
-- tongue
-- able
-- oval
-- kingdom
-- surround
-- abstract
-bip_39_word_space_1: salt
-bip_39_word_space_10: salt stand inmate delay typical bicycle tongue able oval kingdom
-bip_39_word_space_11: salt stand inmate delay typical bicycle tongue able oval kingdom
-  surround
 bip_39_word_space_12: salt stand inmate delay typical bicycle tongue able oval kingdom
   surround abstract
 bip_39_word_space_2: salt stand
 bip_39_word_space_3: salt stand inmate
-bip_39_word_space_4: salt stand inmate delay
-bip_39_word_space_5: salt stand inmate delay typical
-bip_39_word_space_6: salt stand inmate delay typical bicycle
-bip_39_word_space_7: salt stand inmate delay typical bicycle tongue
-bip_39_word_space_8: salt stand inmate delay typical bicycle tongue able
-bip_39_word_space_9: salt stand inmate delay typical bicycle tongue able oval
-bip_39_word_underscore_1: salt
-bip_39_word_underscore_10: salt_stand_inmate_delay_typical_bicycle_tongue_able_oval_kingdom
-bip_39_word_underscore_11: salt_stand_inmate_delay_typical_bicycle_tongue_able_oval_kingdom_surround
 bip_39_word_underscore_12: salt_stand_inmate_delay_typical_bicycle_tongue_able_oval_kingdom_surround_abstract
 bip_39_word_underscore_2: salt_stand
 bip_39_word_underscore_3: salt_stand_inmate
-bip_39_word_underscore_4: salt_stand_inmate_delay
-bip_39_word_underscore_5: salt_stand_inmate_delay_typical
-bip_39_word_underscore_6: salt_stand_inmate_delay_typical_bicycle
-bip_39_word_underscore_7: salt_stand_inmate_delay_typical_bicycle_tongue
-bip_39_word_underscore_8: salt_stand_inmate_delay_typical_bicycle_tongue_able
-bip_39_word_underscore_9: salt_stand_inmate_delay_typical_bicycle_tongue_able_oval
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

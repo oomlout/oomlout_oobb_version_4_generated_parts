@@ -1,68 +1,9 @@
-bip_39_word_dash_1: logic
-bip_39_word_dash_10: logic-stuff-cruel-poem-goose-finish-account-clap-sister-glimpse
-bip_39_word_dash_11: logic-stuff-cruel-poem-goose-finish-account-clap-sister-glimpse-ecology
 bip_39_word_dash_12: logic-stuff-cruel-poem-goose-finish-account-clap-sister-glimpse-ecology-artist
 bip_39_word_dash_2: logic-stuff
 bip_39_word_dash_3: logic-stuff-cruel
-bip_39_word_dash_4: logic-stuff-cruel-poem
-bip_39_word_dash_5: logic-stuff-cruel-poem-goose
-bip_39_word_dash_6: logic-stuff-cruel-poem-goose-finish
-bip_39_word_dash_7: logic-stuff-cruel-poem-goose-finish-account
-bip_39_word_dash_8: logic-stuff-cruel-poem-goose-finish-account-clap
-bip_39_word_dash_9: logic-stuff-cruel-poem-goose-finish-account-clap-sister
-bip_39_word_new_br_1: logic
-bip_39_word_new_br_10: logic<br>stuff<br>cruel<br>poem<br>goose<br>finish<br>account<br>clap<br>sister<br>glimpse
-bip_39_word_new_br_11: logic<br>stuff<br>cruel<br>poem<br>goose<br>finish<br>account<br>clap<br>sister<br>glimpse<br>ecology
 bip_39_word_new_br_12: logic<br>stuff<br>cruel<br>poem<br>goose<br>finish<br>account<br>clap<br>sister<br>glimpse<br>ecology<br>artist
 bip_39_word_new_br_2: logic<br>stuff
 bip_39_word_new_br_3: logic<br>stuff<br>cruel
-bip_39_word_new_br_4: logic<br>stuff<br>cruel<br>poem
-bip_39_word_new_br_5: logic<br>stuff<br>cruel<br>poem<br>goose
-bip_39_word_new_br_6: logic<br>stuff<br>cruel<br>poem<br>goose<br>finish
-bip_39_word_new_br_7: logic<br>stuff<br>cruel<br>poem<br>goose<br>finish<br>account
-bip_39_word_new_br_8: logic<br>stuff<br>cruel<br>poem<br>goose<br>finish<br>account<br>clap
-bip_39_word_new_br_9: logic<br>stuff<br>cruel<br>poem<br>goose<br>finish<br>account<br>clap<br>sister
-bip_39_word_new_line_1: logic
-bip_39_word_new_line_10: 'logic
-
-  stuff
-
-  cruel
-
-  poem
-
-  goose
-
-  finish
-
-  account
-
-  clap
-
-  sister
-
-  glimpse'
-bip_39_word_new_line_11: 'logic
-
-  stuff
-
-  cruel
-
-  poem
-
-  goose
-
-  finish
-
-  account
-
-  clap
-
-  sister
-
-  glimpse
-
-  ecology'
 bip_39_word_new_line_12: 'logic
 
   stuff
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'logic
   stuff
 
   cruel'
-bip_39_word_new_line_4: 'logic
-
-  stuff
-
-  cruel
-
-  poem'
-bip_39_word_new_line_5: 'logic
-
-  stuff
-
-  cruel
-
-  poem
-
-  goose'
-bip_39_word_new_line_6: 'logic
-
-  stuff
-
-  cruel
-
-  poem
-
-  goose
-
-  finish'
-bip_39_word_new_line_7: 'logic
-
-  stuff
-
-  cruel
-
-  poem
-
-  goose
-
-  finish
-
-  account'
-bip_39_word_new_line_8: 'logic
-
-  stuff
-
-  cruel
-
-  poem
-
-  goose
-
-  finish
-
-  account
-
-  clap'
-bip_39_word_new_line_9: 'logic
-
-  stuff
-
-  cruel
-
-  poem
-
-  goose
-
-  finish
-
-  account
-
-  clap
-
-  sister'
-bip_39_word_no_space_1: logic
-bip_39_word_no_space_10: logicstuffcruelpoemgoosefinishaccountclapsisterglimpse
-bip_39_word_no_space_11: logicstuffcruelpoemgoosefinishaccountclapsisterglimpseecology
 bip_39_word_no_space_12: logicstuffcruelpoemgoosefinishaccountclapsisterglimpseecologyartist
 bip_39_word_no_space_2: logicstuff
 bip_39_word_no_space_3: logicstuffcruel
-bip_39_word_no_space_4: logicstuffcruelpoem
-bip_39_word_no_space_5: logicstuffcruelpoemgoose
-bip_39_word_no_space_6: logicstuffcruelpoemgoosefinish
-bip_39_word_no_space_7: logicstuffcruelpoemgoosefinishaccount
-bip_39_word_no_space_8: logicstuffcruelpoemgoosefinishaccountclap
-bip_39_word_no_space_9: logicstuffcruelpoemgoosefinishaccountclapsister
-bip_39_word_space_0:
-- logic
-- stuff
-- cruel
-- poem
-- goose
-- finish
-- account
-- clap
-- sister
-- glimpse
-- ecology
-- artist
-bip_39_word_space_1: logic
-bip_39_word_space_10: logic stuff cruel poem goose finish account clap sister glimpse
-bip_39_word_space_11: logic stuff cruel poem goose finish account clap sister glimpse
-  ecology
 bip_39_word_space_12: logic stuff cruel poem goose finish account clap sister glimpse
   ecology artist
 bip_39_word_space_2: logic stuff
 bip_39_word_space_3: logic stuff cruel
-bip_39_word_space_4: logic stuff cruel poem
-bip_39_word_space_5: logic stuff cruel poem goose
-bip_39_word_space_6: logic stuff cruel poem goose finish
-bip_39_word_space_7: logic stuff cruel poem goose finish account
-bip_39_word_space_8: logic stuff cruel poem goose finish account clap
-bip_39_word_space_9: logic stuff cruel poem goose finish account clap sister
-bip_39_word_underscore_1: logic
-bip_39_word_underscore_10: logic_stuff_cruel_poem_goose_finish_account_clap_sister_glimpse
-bip_39_word_underscore_11: logic_stuff_cruel_poem_goose_finish_account_clap_sister_glimpse_ecology
 bip_39_word_underscore_12: logic_stuff_cruel_poem_goose_finish_account_clap_sister_glimpse_ecology_artist
 bip_39_word_underscore_2: logic_stuff
 bip_39_word_underscore_3: logic_stuff_cruel
-bip_39_word_underscore_4: logic_stuff_cruel_poem
-bip_39_word_underscore_5: logic_stuff_cruel_poem_goose
-bip_39_word_underscore_6: logic_stuff_cruel_poem_goose_finish
-bip_39_word_underscore_7: logic_stuff_cruel_poem_goose_finish_account
-bip_39_word_underscore_8: logic_stuff_cruel_poem_goose_finish_account_clap
-bip_39_word_underscore_9: logic_stuff_cruel_poem_goose_finish_account_clap_sister
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

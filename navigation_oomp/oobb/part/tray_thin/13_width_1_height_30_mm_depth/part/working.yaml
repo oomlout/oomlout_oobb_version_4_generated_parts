@@ -1,68 +1,9 @@
-bip_39_word_dash_1: real
-bip_39_word_dash_10: real-drop-capable-omit-taste-accuse-mammal-initial-essence-sausage
-bip_39_word_dash_11: real-drop-capable-omit-taste-accuse-mammal-initial-essence-sausage-fiber
 bip_39_word_dash_12: real-drop-capable-omit-taste-accuse-mammal-initial-essence-sausage-fiber-analyst
 bip_39_word_dash_2: real-drop
 bip_39_word_dash_3: real-drop-capable
-bip_39_word_dash_4: real-drop-capable-omit
-bip_39_word_dash_5: real-drop-capable-omit-taste
-bip_39_word_dash_6: real-drop-capable-omit-taste-accuse
-bip_39_word_dash_7: real-drop-capable-omit-taste-accuse-mammal
-bip_39_word_dash_8: real-drop-capable-omit-taste-accuse-mammal-initial
-bip_39_word_dash_9: real-drop-capable-omit-taste-accuse-mammal-initial-essence
-bip_39_word_new_br_1: real
-bip_39_word_new_br_10: real<br>drop<br>capable<br>omit<br>taste<br>accuse<br>mammal<br>initial<br>essence<br>sausage
-bip_39_word_new_br_11: real<br>drop<br>capable<br>omit<br>taste<br>accuse<br>mammal<br>initial<br>essence<br>sausage<br>fiber
 bip_39_word_new_br_12: real<br>drop<br>capable<br>omit<br>taste<br>accuse<br>mammal<br>initial<br>essence<br>sausage<br>fiber<br>analyst
 bip_39_word_new_br_2: real<br>drop
 bip_39_word_new_br_3: real<br>drop<br>capable
-bip_39_word_new_br_4: real<br>drop<br>capable<br>omit
-bip_39_word_new_br_5: real<br>drop<br>capable<br>omit<br>taste
-bip_39_word_new_br_6: real<br>drop<br>capable<br>omit<br>taste<br>accuse
-bip_39_word_new_br_7: real<br>drop<br>capable<br>omit<br>taste<br>accuse<br>mammal
-bip_39_word_new_br_8: real<br>drop<br>capable<br>omit<br>taste<br>accuse<br>mammal<br>initial
-bip_39_word_new_br_9: real<br>drop<br>capable<br>omit<br>taste<br>accuse<br>mammal<br>initial<br>essence
-bip_39_word_new_line_1: real
-bip_39_word_new_line_10: 'real
-
-  drop
-
-  capable
-
-  omit
-
-  taste
-
-  accuse
-
-  mammal
-
-  initial
-
-  essence
-
-  sausage'
-bip_39_word_new_line_11: 'real
-
-  drop
-
-  capable
-
-  omit
-
-  taste
-
-  accuse
-
-  mammal
-
-  initial
-
-  essence
-
-  sausage
-
-  fiber'
 bip_39_word_new_line_12: 'real
 
   drop
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'real
   drop
 
   capable'
-bip_39_word_new_line_4: 'real
-
-  drop
-
-  capable
-
-  omit'
-bip_39_word_new_line_5: 'real
-
-  drop
-
-  capable
-
-  omit
-
-  taste'
-bip_39_word_new_line_6: 'real
-
-  drop
-
-  capable
-
-  omit
-
-  taste
-
-  accuse'
-bip_39_word_new_line_7: 'real
-
-  drop
-
-  capable
-
-  omit
-
-  taste
-
-  accuse
-
-  mammal'
-bip_39_word_new_line_8: 'real
-
-  drop
-
-  capable
-
-  omit
-
-  taste
-
-  accuse
-
-  mammal
-
-  initial'
-bip_39_word_new_line_9: 'real
-
-  drop
-
-  capable
-
-  omit
-
-  taste
-
-  accuse
-
-  mammal
-
-  initial
-
-  essence'
-bip_39_word_no_space_1: real
-bip_39_word_no_space_10: realdropcapableomittasteaccusemammalinitialessencesausage
-bip_39_word_no_space_11: realdropcapableomittasteaccusemammalinitialessencesausagefiber
 bip_39_word_no_space_12: realdropcapableomittasteaccusemammalinitialessencesausagefiberanalyst
 bip_39_word_no_space_2: realdrop
 bip_39_word_no_space_3: realdropcapable
-bip_39_word_no_space_4: realdropcapableomit
-bip_39_word_no_space_5: realdropcapableomittaste
-bip_39_word_no_space_6: realdropcapableomittasteaccuse
-bip_39_word_no_space_7: realdropcapableomittasteaccusemammal
-bip_39_word_no_space_8: realdropcapableomittasteaccusemammalinitial
-bip_39_word_no_space_9: realdropcapableomittasteaccusemammalinitialessence
-bip_39_word_space_0:
-- real
-- drop
-- capable
-- omit
-- taste
-- accuse
-- mammal
-- initial
-- essence
-- sausage
-- fiber
-- analyst
-bip_39_word_space_1: real
-bip_39_word_space_10: real drop capable omit taste accuse mammal initial essence sausage
-bip_39_word_space_11: real drop capable omit taste accuse mammal initial essence sausage
-  fiber
 bip_39_word_space_12: real drop capable omit taste accuse mammal initial essence sausage
   fiber analyst
 bip_39_word_space_2: real drop
 bip_39_word_space_3: real drop capable
-bip_39_word_space_4: real drop capable omit
-bip_39_word_space_5: real drop capable omit taste
-bip_39_word_space_6: real drop capable omit taste accuse
-bip_39_word_space_7: real drop capable omit taste accuse mammal
-bip_39_word_space_8: real drop capable omit taste accuse mammal initial
-bip_39_word_space_9: real drop capable omit taste accuse mammal initial essence
-bip_39_word_underscore_1: real
-bip_39_word_underscore_10: real_drop_capable_omit_taste_accuse_mammal_initial_essence_sausage
-bip_39_word_underscore_11: real_drop_capable_omit_taste_accuse_mammal_initial_essence_sausage_fiber
 bip_39_word_underscore_12: real_drop_capable_omit_taste_accuse_mammal_initial_essence_sausage_fiber_analyst
 bip_39_word_underscore_2: real_drop
 bip_39_word_underscore_3: real_drop_capable
-bip_39_word_underscore_4: real_drop_capable_omit
-bip_39_word_underscore_5: real_drop_capable_omit_taste
-bip_39_word_underscore_6: real_drop_capable_omit_taste_accuse
-bip_39_word_underscore_7: real_drop_capable_omit_taste_accuse_mammal
-bip_39_word_underscore_8: real_drop_capable_omit_taste_accuse_mammal_initial
-bip_39_word_underscore_9: real_drop_capable_omit_taste_accuse_mammal_initial_essence
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

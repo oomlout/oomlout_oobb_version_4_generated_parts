@@ -1,69 +1,10 @@
 bearing: '6704'
-bip_39_word_dash_1: hazard
-bip_39_word_dash_10: hazard-solar-husband-cause-stage-broom-disorder-stuff-nose-sun
-bip_39_word_dash_11: hazard-solar-husband-cause-stage-broom-disorder-stuff-nose-sun-paper
 bip_39_word_dash_12: hazard-solar-husband-cause-stage-broom-disorder-stuff-nose-sun-paper-appear
 bip_39_word_dash_2: hazard-solar
 bip_39_word_dash_3: hazard-solar-husband
-bip_39_word_dash_4: hazard-solar-husband-cause
-bip_39_word_dash_5: hazard-solar-husband-cause-stage
-bip_39_word_dash_6: hazard-solar-husband-cause-stage-broom
-bip_39_word_dash_7: hazard-solar-husband-cause-stage-broom-disorder
-bip_39_word_dash_8: hazard-solar-husband-cause-stage-broom-disorder-stuff
-bip_39_word_dash_9: hazard-solar-husband-cause-stage-broom-disorder-stuff-nose
-bip_39_word_new_br_1: hazard
-bip_39_word_new_br_10: hazard<br>solar<br>husband<br>cause<br>stage<br>broom<br>disorder<br>stuff<br>nose<br>sun
-bip_39_word_new_br_11: hazard<br>solar<br>husband<br>cause<br>stage<br>broom<br>disorder<br>stuff<br>nose<br>sun<br>paper
 bip_39_word_new_br_12: hazard<br>solar<br>husband<br>cause<br>stage<br>broom<br>disorder<br>stuff<br>nose<br>sun<br>paper<br>appear
 bip_39_word_new_br_2: hazard<br>solar
 bip_39_word_new_br_3: hazard<br>solar<br>husband
-bip_39_word_new_br_4: hazard<br>solar<br>husband<br>cause
-bip_39_word_new_br_5: hazard<br>solar<br>husband<br>cause<br>stage
-bip_39_word_new_br_6: hazard<br>solar<br>husband<br>cause<br>stage<br>broom
-bip_39_word_new_br_7: hazard<br>solar<br>husband<br>cause<br>stage<br>broom<br>disorder
-bip_39_word_new_br_8: hazard<br>solar<br>husband<br>cause<br>stage<br>broom<br>disorder<br>stuff
-bip_39_word_new_br_9: hazard<br>solar<br>husband<br>cause<br>stage<br>broom<br>disorder<br>stuff<br>nose
-bip_39_word_new_line_1: hazard
-bip_39_word_new_line_10: 'hazard
-
-  solar
-
-  husband
-
-  cause
-
-  stage
-
-  broom
-
-  disorder
-
-  stuff
-
-  nose
-
-  sun'
-bip_39_word_new_line_11: 'hazard
-
-  solar
-
-  husband
-
-  cause
-
-  stage
-
-  broom
-
-  disorder
-
-  stuff
-
-  nose
-
-  sun
-
-  paper'
 bip_39_word_new_line_12: 'hazard
 
   solar
@@ -95,129 +36,16 @@ bip_39_word_new_line_3: 'hazard
   solar
 
   husband'
-bip_39_word_new_line_4: 'hazard
-
-  solar
-
-  husband
-
-  cause'
-bip_39_word_new_line_5: 'hazard
-
-  solar
-
-  husband
-
-  cause
-
-  stage'
-bip_39_word_new_line_6: 'hazard
-
-  solar
-
-  husband
-
-  cause
-
-  stage
-
-  broom'
-bip_39_word_new_line_7: 'hazard
-
-  solar
-
-  husband
-
-  cause
-
-  stage
-
-  broom
-
-  disorder'
-bip_39_word_new_line_8: 'hazard
-
-  solar
-
-  husband
-
-  cause
-
-  stage
-
-  broom
-
-  disorder
-
-  stuff'
-bip_39_word_new_line_9: 'hazard
-
-  solar
-
-  husband
-
-  cause
-
-  stage
-
-  broom
-
-  disorder
-
-  stuff
-
-  nose'
-bip_39_word_no_space_1: hazard
-bip_39_word_no_space_10: hazardsolarhusbandcausestagebroomdisorderstuffnosesun
-bip_39_word_no_space_11: hazardsolarhusbandcausestagebroomdisorderstuffnosesunpaper
 bip_39_word_no_space_12: hazardsolarhusbandcausestagebroomdisorderstuffnosesunpaperappear
 bip_39_word_no_space_2: hazardsolar
 bip_39_word_no_space_3: hazardsolarhusband
-bip_39_word_no_space_4: hazardsolarhusbandcause
-bip_39_word_no_space_5: hazardsolarhusbandcausestage
-bip_39_word_no_space_6: hazardsolarhusbandcausestagebroom
-bip_39_word_no_space_7: hazardsolarhusbandcausestagebroomdisorder
-bip_39_word_no_space_8: hazardsolarhusbandcausestagebroomdisorderstuff
-bip_39_word_no_space_9: hazardsolarhusbandcausestagebroomdisorderstuffnose
-bip_39_word_space_0:
-- hazard
-- solar
-- husband
-- cause
-- stage
-- broom
-- disorder
-- stuff
-- nose
-- sun
-- paper
-- appear
-bip_39_word_space_1: hazard
-bip_39_word_space_10: hazard solar husband cause stage broom disorder stuff nose sun
-bip_39_word_space_11: hazard solar husband cause stage broom disorder stuff nose sun
-  paper
 bip_39_word_space_12: hazard solar husband cause stage broom disorder stuff nose sun
   paper appear
 bip_39_word_space_2: hazard solar
 bip_39_word_space_3: hazard solar husband
-bip_39_word_space_4: hazard solar husband cause
-bip_39_word_space_5: hazard solar husband cause stage
-bip_39_word_space_6: hazard solar husband cause stage broom
-bip_39_word_space_7: hazard solar husband cause stage broom disorder
-bip_39_word_space_8: hazard solar husband cause stage broom disorder stuff
-bip_39_word_space_9: hazard solar husband cause stage broom disorder stuff nose
-bip_39_word_underscore_1: hazard
-bip_39_word_underscore_10: hazard_solar_husband_cause_stage_broom_disorder_stuff_nose_sun
-bip_39_word_underscore_11: hazard_solar_husband_cause_stage_broom_disorder_stuff_nose_sun_paper
 bip_39_word_underscore_12: hazard_solar_husband_cause_stage_broom_disorder_stuff_nose_sun_paper_appear
 bip_39_word_underscore_2: hazard_solar
 bip_39_word_underscore_3: hazard_solar_husband
-bip_39_word_underscore_4: hazard_solar_husband_cause
-bip_39_word_underscore_5: hazard_solar_husband_cause_stage
-bip_39_word_underscore_6: hazard_solar_husband_cause_stage_broom
-bip_39_word_underscore_7: hazard_solar_husband_cause_stage_broom_disorder
-bip_39_word_underscore_8: hazard_solar_husband_cause_stage_broom_disorder_stuff
-bip_39_word_underscore_9: hazard_solar_husband_cause_stage_broom_disorder_stuff_nose
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

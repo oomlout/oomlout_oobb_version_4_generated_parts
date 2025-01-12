@@ -1,68 +1,9 @@
-bip_39_word_dash_1: spell
-bip_39_word_dash_10: spell-strong-behave-volume-culture-hamster-price-weather-oak-loud
-bip_39_word_dash_11: spell-strong-behave-volume-culture-hamster-price-weather-oak-loud-modify
 bip_39_word_dash_12: spell-strong-behave-volume-culture-hamster-price-weather-oak-loud-modify-always
 bip_39_word_dash_2: spell-strong
 bip_39_word_dash_3: spell-strong-behave
-bip_39_word_dash_4: spell-strong-behave-volume
-bip_39_word_dash_5: spell-strong-behave-volume-culture
-bip_39_word_dash_6: spell-strong-behave-volume-culture-hamster
-bip_39_word_dash_7: spell-strong-behave-volume-culture-hamster-price
-bip_39_word_dash_8: spell-strong-behave-volume-culture-hamster-price-weather
-bip_39_word_dash_9: spell-strong-behave-volume-culture-hamster-price-weather-oak
-bip_39_word_new_br_1: spell
-bip_39_word_new_br_10: spell<br>strong<br>behave<br>volume<br>culture<br>hamster<br>price<br>weather<br>oak<br>loud
-bip_39_word_new_br_11: spell<br>strong<br>behave<br>volume<br>culture<br>hamster<br>price<br>weather<br>oak<br>loud<br>modify
 bip_39_word_new_br_12: spell<br>strong<br>behave<br>volume<br>culture<br>hamster<br>price<br>weather<br>oak<br>loud<br>modify<br>always
 bip_39_word_new_br_2: spell<br>strong
 bip_39_word_new_br_3: spell<br>strong<br>behave
-bip_39_word_new_br_4: spell<br>strong<br>behave<br>volume
-bip_39_word_new_br_5: spell<br>strong<br>behave<br>volume<br>culture
-bip_39_word_new_br_6: spell<br>strong<br>behave<br>volume<br>culture<br>hamster
-bip_39_word_new_br_7: spell<br>strong<br>behave<br>volume<br>culture<br>hamster<br>price
-bip_39_word_new_br_8: spell<br>strong<br>behave<br>volume<br>culture<br>hamster<br>price<br>weather
-bip_39_word_new_br_9: spell<br>strong<br>behave<br>volume<br>culture<br>hamster<br>price<br>weather<br>oak
-bip_39_word_new_line_1: spell
-bip_39_word_new_line_10: 'spell
-
-  strong
-
-  behave
-
-  volume
-
-  culture
-
-  hamster
-
-  price
-
-  weather
-
-  oak
-
-  loud'
-bip_39_word_new_line_11: 'spell
-
-  strong
-
-  behave
-
-  volume
-
-  culture
-
-  hamster
-
-  price
-
-  weather
-
-  oak
-
-  loud
-
-  modify'
 bip_39_word_new_line_12: 'spell
 
   strong
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'spell
   strong
 
   behave'
-bip_39_word_new_line_4: 'spell
-
-  strong
-
-  behave
-
-  volume'
-bip_39_word_new_line_5: 'spell
-
-  strong
-
-  behave
-
-  volume
-
-  culture'
-bip_39_word_new_line_6: 'spell
-
-  strong
-
-  behave
-
-  volume
-
-  culture
-
-  hamster'
-bip_39_word_new_line_7: 'spell
-
-  strong
-
-  behave
-
-  volume
-
-  culture
-
-  hamster
-
-  price'
-bip_39_word_new_line_8: 'spell
-
-  strong
-
-  behave
-
-  volume
-
-  culture
-
-  hamster
-
-  price
-
-  weather'
-bip_39_word_new_line_9: 'spell
-
-  strong
-
-  behave
-
-  volume
-
-  culture
-
-  hamster
-
-  price
-
-  weather
-
-  oak'
-bip_39_word_no_space_1: spell
-bip_39_word_no_space_10: spellstrongbehavevolumeculturehamsterpriceweatheroakloud
-bip_39_word_no_space_11: spellstrongbehavevolumeculturehamsterpriceweatheroakloudmodify
 bip_39_word_no_space_12: spellstrongbehavevolumeculturehamsterpriceweatheroakloudmodifyalways
 bip_39_word_no_space_2: spellstrong
 bip_39_word_no_space_3: spellstrongbehave
-bip_39_word_no_space_4: spellstrongbehavevolume
-bip_39_word_no_space_5: spellstrongbehavevolumeculture
-bip_39_word_no_space_6: spellstrongbehavevolumeculturehamster
-bip_39_word_no_space_7: spellstrongbehavevolumeculturehamsterprice
-bip_39_word_no_space_8: spellstrongbehavevolumeculturehamsterpriceweather
-bip_39_word_no_space_9: spellstrongbehavevolumeculturehamsterpriceweatheroak
-bip_39_word_space_0:
-- spell
-- strong
-- behave
-- volume
-- culture
-- hamster
-- price
-- weather
-- oak
-- loud
-- modify
-- always
-bip_39_word_space_1: spell
-bip_39_word_space_10: spell strong behave volume culture hamster price weather oak
-  loud
-bip_39_word_space_11: spell strong behave volume culture hamster price weather oak
-  loud modify
 bip_39_word_space_12: spell strong behave volume culture hamster price weather oak
   loud modify always
 bip_39_word_space_2: spell strong
 bip_39_word_space_3: spell strong behave
-bip_39_word_space_4: spell strong behave volume
-bip_39_word_space_5: spell strong behave volume culture
-bip_39_word_space_6: spell strong behave volume culture hamster
-bip_39_word_space_7: spell strong behave volume culture hamster price
-bip_39_word_space_8: spell strong behave volume culture hamster price weather
-bip_39_word_space_9: spell strong behave volume culture hamster price weather oak
-bip_39_word_underscore_1: spell
-bip_39_word_underscore_10: spell_strong_behave_volume_culture_hamster_price_weather_oak_loud
-bip_39_word_underscore_11: spell_strong_behave_volume_culture_hamster_price_weather_oak_loud_modify
 bip_39_word_underscore_12: spell_strong_behave_volume_culture_hamster_price_weather_oak_loud_modify_always
 bip_39_word_underscore_2: spell_strong
 bip_39_word_underscore_3: spell_strong_behave
-bip_39_word_underscore_4: spell_strong_behave_volume
-bip_39_word_underscore_5: spell_strong_behave_volume_culture
-bip_39_word_underscore_6: spell_strong_behave_volume_culture_hamster
-bip_39_word_underscore_7: spell_strong_behave_volume_culture_hamster_price
-bip_39_word_underscore_8: spell_strong_behave_volume_culture_hamster_price_weather
-bip_39_word_underscore_9: spell_strong_behave_volume_culture_hamster_price_weather_oak
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

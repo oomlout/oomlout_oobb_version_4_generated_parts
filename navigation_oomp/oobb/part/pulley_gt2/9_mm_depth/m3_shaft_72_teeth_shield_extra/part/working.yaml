@@ -1,68 +1,9 @@
-bip_39_word_dash_1: crouch
-bip_39_word_dash_10: crouch-canoe-reveal-letter-become-elegant-symptom-garbage-toy-elder
-bip_39_word_dash_11: crouch-canoe-reveal-letter-become-elegant-symptom-garbage-toy-elder-spawn
 bip_39_word_dash_12: crouch-canoe-reveal-letter-become-elegant-symptom-garbage-toy-elder-spawn-air
 bip_39_word_dash_2: crouch-canoe
 bip_39_word_dash_3: crouch-canoe-reveal
-bip_39_word_dash_4: crouch-canoe-reveal-letter
-bip_39_word_dash_5: crouch-canoe-reveal-letter-become
-bip_39_word_dash_6: crouch-canoe-reveal-letter-become-elegant
-bip_39_word_dash_7: crouch-canoe-reveal-letter-become-elegant-symptom
-bip_39_word_dash_8: crouch-canoe-reveal-letter-become-elegant-symptom-garbage
-bip_39_word_dash_9: crouch-canoe-reveal-letter-become-elegant-symptom-garbage-toy
-bip_39_word_new_br_1: crouch
-bip_39_word_new_br_10: crouch<br>canoe<br>reveal<br>letter<br>become<br>elegant<br>symptom<br>garbage<br>toy<br>elder
-bip_39_word_new_br_11: crouch<br>canoe<br>reveal<br>letter<br>become<br>elegant<br>symptom<br>garbage<br>toy<br>elder<br>spawn
 bip_39_word_new_br_12: crouch<br>canoe<br>reveal<br>letter<br>become<br>elegant<br>symptom<br>garbage<br>toy<br>elder<br>spawn<br>air
 bip_39_word_new_br_2: crouch<br>canoe
 bip_39_word_new_br_3: crouch<br>canoe<br>reveal
-bip_39_word_new_br_4: crouch<br>canoe<br>reveal<br>letter
-bip_39_word_new_br_5: crouch<br>canoe<br>reveal<br>letter<br>become
-bip_39_word_new_br_6: crouch<br>canoe<br>reveal<br>letter<br>become<br>elegant
-bip_39_word_new_br_7: crouch<br>canoe<br>reveal<br>letter<br>become<br>elegant<br>symptom
-bip_39_word_new_br_8: crouch<br>canoe<br>reveal<br>letter<br>become<br>elegant<br>symptom<br>garbage
-bip_39_word_new_br_9: crouch<br>canoe<br>reveal<br>letter<br>become<br>elegant<br>symptom<br>garbage<br>toy
-bip_39_word_new_line_1: crouch
-bip_39_word_new_line_10: 'crouch
-
-  canoe
-
-  reveal
-
-  letter
-
-  become
-
-  elegant
-
-  symptom
-
-  garbage
-
-  toy
-
-  elder'
-bip_39_word_new_line_11: 'crouch
-
-  canoe
-
-  reveal
-
-  letter
-
-  become
-
-  elegant
-
-  symptom
-
-  garbage
-
-  toy
-
-  elder
-
-  spawn'
 bip_39_word_new_line_12: 'crouch
 
   canoe
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'crouch
   canoe
 
   reveal'
-bip_39_word_new_line_4: 'crouch
-
-  canoe
-
-  reveal
-
-  letter'
-bip_39_word_new_line_5: 'crouch
-
-  canoe
-
-  reveal
-
-  letter
-
-  become'
-bip_39_word_new_line_6: 'crouch
-
-  canoe
-
-  reveal
-
-  letter
-
-  become
-
-  elegant'
-bip_39_word_new_line_7: 'crouch
-
-  canoe
-
-  reveal
-
-  letter
-
-  become
-
-  elegant
-
-  symptom'
-bip_39_word_new_line_8: 'crouch
-
-  canoe
-
-  reveal
-
-  letter
-
-  become
-
-  elegant
-
-  symptom
-
-  garbage'
-bip_39_word_new_line_9: 'crouch
-
-  canoe
-
-  reveal
-
-  letter
-
-  become
-
-  elegant
-
-  symptom
-
-  garbage
-
-  toy'
-bip_39_word_no_space_1: crouch
-bip_39_word_no_space_10: crouchcanoerevealletterbecomeelegantsymptomgarbagetoyelder
-bip_39_word_no_space_11: crouchcanoerevealletterbecomeelegantsymptomgarbagetoyelderspawn
 bip_39_word_no_space_12: crouchcanoerevealletterbecomeelegantsymptomgarbagetoyelderspawnair
 bip_39_word_no_space_2: crouchcanoe
 bip_39_word_no_space_3: crouchcanoereveal
-bip_39_word_no_space_4: crouchcanoerevealletter
-bip_39_word_no_space_5: crouchcanoerevealletterbecome
-bip_39_word_no_space_6: crouchcanoerevealletterbecomeelegant
-bip_39_word_no_space_7: crouchcanoerevealletterbecomeelegantsymptom
-bip_39_word_no_space_8: crouchcanoerevealletterbecomeelegantsymptomgarbage
-bip_39_word_no_space_9: crouchcanoerevealletterbecomeelegantsymptomgarbagetoy
-bip_39_word_space_0:
-- crouch
-- canoe
-- reveal
-- letter
-- become
-- elegant
-- symptom
-- garbage
-- toy
-- elder
-- spawn
-- air
-bip_39_word_space_1: crouch
-bip_39_word_space_10: crouch canoe reveal letter become elegant symptom garbage toy
-  elder
-bip_39_word_space_11: crouch canoe reveal letter become elegant symptom garbage toy
-  elder spawn
 bip_39_word_space_12: crouch canoe reveal letter become elegant symptom garbage toy
   elder spawn air
 bip_39_word_space_2: crouch canoe
 bip_39_word_space_3: crouch canoe reveal
-bip_39_word_space_4: crouch canoe reveal letter
-bip_39_word_space_5: crouch canoe reveal letter become
-bip_39_word_space_6: crouch canoe reveal letter become elegant
-bip_39_word_space_7: crouch canoe reveal letter become elegant symptom
-bip_39_word_space_8: crouch canoe reveal letter become elegant symptom garbage
-bip_39_word_space_9: crouch canoe reveal letter become elegant symptom garbage toy
-bip_39_word_underscore_1: crouch
-bip_39_word_underscore_10: crouch_canoe_reveal_letter_become_elegant_symptom_garbage_toy_elder
-bip_39_word_underscore_11: crouch_canoe_reveal_letter_become_elegant_symptom_garbage_toy_elder_spawn
 bip_39_word_underscore_12: crouch_canoe_reveal_letter_become_elegant_symptom_garbage_toy_elder_spawn_air
 bip_39_word_underscore_2: crouch_canoe
 bip_39_word_underscore_3: crouch_canoe_reveal
-bip_39_word_underscore_4: crouch_canoe_reveal_letter
-bip_39_word_underscore_5: crouch_canoe_reveal_letter_become
-bip_39_word_underscore_6: crouch_canoe_reveal_letter_become_elegant
-bip_39_word_underscore_7: crouch_canoe_reveal_letter_become_elegant_symptom
-bip_39_word_underscore_8: crouch_canoe_reveal_letter_become_elegant_symptom_garbage
-bip_39_word_underscore_9: crouch_canoe_reveal_letter_become_elegant_symptom_garbage_toy
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

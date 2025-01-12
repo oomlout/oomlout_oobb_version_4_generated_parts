@@ -1,68 +1,9 @@
-bip_39_word_dash_1: library
-bip_39_word_dash_10: library-suspect-gesture-donkey-valid-purchase-pet-novel-congress-eyebrow
-bip_39_word_dash_11: library-suspect-gesture-donkey-valid-purchase-pet-novel-congress-eyebrow-panda
 bip_39_word_dash_12: library-suspect-gesture-donkey-valid-purchase-pet-novel-congress-eyebrow-panda-ancient
 bip_39_word_dash_2: library-suspect
 bip_39_word_dash_3: library-suspect-gesture
-bip_39_word_dash_4: library-suspect-gesture-donkey
-bip_39_word_dash_5: library-suspect-gesture-donkey-valid
-bip_39_word_dash_6: library-suspect-gesture-donkey-valid-purchase
-bip_39_word_dash_7: library-suspect-gesture-donkey-valid-purchase-pet
-bip_39_word_dash_8: library-suspect-gesture-donkey-valid-purchase-pet-novel
-bip_39_word_dash_9: library-suspect-gesture-donkey-valid-purchase-pet-novel-congress
-bip_39_word_new_br_1: library
-bip_39_word_new_br_10: library<br>suspect<br>gesture<br>donkey<br>valid<br>purchase<br>pet<br>novel<br>congress<br>eyebrow
-bip_39_word_new_br_11: library<br>suspect<br>gesture<br>donkey<br>valid<br>purchase<br>pet<br>novel<br>congress<br>eyebrow<br>panda
 bip_39_word_new_br_12: library<br>suspect<br>gesture<br>donkey<br>valid<br>purchase<br>pet<br>novel<br>congress<br>eyebrow<br>panda<br>ancient
 bip_39_word_new_br_2: library<br>suspect
 bip_39_word_new_br_3: library<br>suspect<br>gesture
-bip_39_word_new_br_4: library<br>suspect<br>gesture<br>donkey
-bip_39_word_new_br_5: library<br>suspect<br>gesture<br>donkey<br>valid
-bip_39_word_new_br_6: library<br>suspect<br>gesture<br>donkey<br>valid<br>purchase
-bip_39_word_new_br_7: library<br>suspect<br>gesture<br>donkey<br>valid<br>purchase<br>pet
-bip_39_word_new_br_8: library<br>suspect<br>gesture<br>donkey<br>valid<br>purchase<br>pet<br>novel
-bip_39_word_new_br_9: library<br>suspect<br>gesture<br>donkey<br>valid<br>purchase<br>pet<br>novel<br>congress
-bip_39_word_new_line_1: library
-bip_39_word_new_line_10: 'library
-
-  suspect
-
-  gesture
-
-  donkey
-
-  valid
-
-  purchase
-
-  pet
-
-  novel
-
-  congress
-
-  eyebrow'
-bip_39_word_new_line_11: 'library
-
-  suspect
-
-  gesture
-
-  donkey
-
-  valid
-
-  purchase
-
-  pet
-
-  novel
-
-  congress
-
-  eyebrow
-
-  panda'
 bip_39_word_new_line_12: 'library
 
   suspect
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'library
   suspect
 
   gesture'
-bip_39_word_new_line_4: 'library
-
-  suspect
-
-  gesture
-
-  donkey'
-bip_39_word_new_line_5: 'library
-
-  suspect
-
-  gesture
-
-  donkey
-
-  valid'
-bip_39_word_new_line_6: 'library
-
-  suspect
-
-  gesture
-
-  donkey
-
-  valid
-
-  purchase'
-bip_39_word_new_line_7: 'library
-
-  suspect
-
-  gesture
-
-  donkey
-
-  valid
-
-  purchase
-
-  pet'
-bip_39_word_new_line_8: 'library
-
-  suspect
-
-  gesture
-
-  donkey
-
-  valid
-
-  purchase
-
-  pet
-
-  novel'
-bip_39_word_new_line_9: 'library
-
-  suspect
-
-  gesture
-
-  donkey
-
-  valid
-
-  purchase
-
-  pet
-
-  novel
-
-  congress'
-bip_39_word_no_space_1: library
-bip_39_word_no_space_10: librarysuspectgesturedonkeyvalidpurchasepetnovelcongresseyebrow
-bip_39_word_no_space_11: librarysuspectgesturedonkeyvalidpurchasepetnovelcongresseyebrowpanda
 bip_39_word_no_space_12: librarysuspectgesturedonkeyvalidpurchasepetnovelcongresseyebrowpandaancient
 bip_39_word_no_space_2: librarysuspect
 bip_39_word_no_space_3: librarysuspectgesture
-bip_39_word_no_space_4: librarysuspectgesturedonkey
-bip_39_word_no_space_5: librarysuspectgesturedonkeyvalid
-bip_39_word_no_space_6: librarysuspectgesturedonkeyvalidpurchase
-bip_39_word_no_space_7: librarysuspectgesturedonkeyvalidpurchasepet
-bip_39_word_no_space_8: librarysuspectgesturedonkeyvalidpurchasepetnovel
-bip_39_word_no_space_9: librarysuspectgesturedonkeyvalidpurchasepetnovelcongress
-bip_39_word_space_0:
-- library
-- suspect
-- gesture
-- donkey
-- valid
-- purchase
-- pet
-- novel
-- congress
-- eyebrow
-- panda
-- ancient
-bip_39_word_space_1: library
-bip_39_word_space_10: library suspect gesture donkey valid purchase pet novel congress
-  eyebrow
-bip_39_word_space_11: library suspect gesture donkey valid purchase pet novel congress
-  eyebrow panda
 bip_39_word_space_12: library suspect gesture donkey valid purchase pet novel congress
   eyebrow panda ancient
 bip_39_word_space_2: library suspect
 bip_39_word_space_3: library suspect gesture
-bip_39_word_space_4: library suspect gesture donkey
-bip_39_word_space_5: library suspect gesture donkey valid
-bip_39_word_space_6: library suspect gesture donkey valid purchase
-bip_39_word_space_7: library suspect gesture donkey valid purchase pet
-bip_39_word_space_8: library suspect gesture donkey valid purchase pet novel
-bip_39_word_space_9: library suspect gesture donkey valid purchase pet novel congress
-bip_39_word_underscore_1: library
-bip_39_word_underscore_10: library_suspect_gesture_donkey_valid_purchase_pet_novel_congress_eyebrow
-bip_39_word_underscore_11: library_suspect_gesture_donkey_valid_purchase_pet_novel_congress_eyebrow_panda
 bip_39_word_underscore_12: library_suspect_gesture_donkey_valid_purchase_pet_novel_congress_eyebrow_panda_ancient
 bip_39_word_underscore_2: library_suspect
 bip_39_word_underscore_3: library_suspect_gesture
-bip_39_word_underscore_4: library_suspect_gesture_donkey
-bip_39_word_underscore_5: library_suspect_gesture_donkey_valid
-bip_39_word_underscore_6: library_suspect_gesture_donkey_valid_purchase
-bip_39_word_underscore_7: library_suspect_gesture_donkey_valid_purchase_pet
-bip_39_word_underscore_8: library_suspect_gesture_donkey_valid_purchase_pet_novel
-bip_39_word_underscore_9: library_suspect_gesture_donkey_valid_purchase_pet_novel_congress
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

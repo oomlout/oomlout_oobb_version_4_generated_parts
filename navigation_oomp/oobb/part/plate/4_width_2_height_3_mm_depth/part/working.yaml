@@ -1,68 +1,9 @@
-bip_39_word_dash_1: robot
-bip_39_word_dash_10: robot-describe-goose-staff-brief-possible-asthma-local-saddle-suit
-bip_39_word_dash_11: robot-describe-goose-staff-brief-possible-asthma-local-saddle-suit-sport
 bip_39_word_dash_12: robot-describe-goose-staff-brief-possible-asthma-local-saddle-suit-sport-around
 bip_39_word_dash_2: robot-describe
 bip_39_word_dash_3: robot-describe-goose
-bip_39_word_dash_4: robot-describe-goose-staff
-bip_39_word_dash_5: robot-describe-goose-staff-brief
-bip_39_word_dash_6: robot-describe-goose-staff-brief-possible
-bip_39_word_dash_7: robot-describe-goose-staff-brief-possible-asthma
-bip_39_word_dash_8: robot-describe-goose-staff-brief-possible-asthma-local
-bip_39_word_dash_9: robot-describe-goose-staff-brief-possible-asthma-local-saddle
-bip_39_word_new_br_1: robot
-bip_39_word_new_br_10: robot<br>describe<br>goose<br>staff<br>brief<br>possible<br>asthma<br>local<br>saddle<br>suit
-bip_39_word_new_br_11: robot<br>describe<br>goose<br>staff<br>brief<br>possible<br>asthma<br>local<br>saddle<br>suit<br>sport
 bip_39_word_new_br_12: robot<br>describe<br>goose<br>staff<br>brief<br>possible<br>asthma<br>local<br>saddle<br>suit<br>sport<br>around
 bip_39_word_new_br_2: robot<br>describe
 bip_39_word_new_br_3: robot<br>describe<br>goose
-bip_39_word_new_br_4: robot<br>describe<br>goose<br>staff
-bip_39_word_new_br_5: robot<br>describe<br>goose<br>staff<br>brief
-bip_39_word_new_br_6: robot<br>describe<br>goose<br>staff<br>brief<br>possible
-bip_39_word_new_br_7: robot<br>describe<br>goose<br>staff<br>brief<br>possible<br>asthma
-bip_39_word_new_br_8: robot<br>describe<br>goose<br>staff<br>brief<br>possible<br>asthma<br>local
-bip_39_word_new_br_9: robot<br>describe<br>goose<br>staff<br>brief<br>possible<br>asthma<br>local<br>saddle
-bip_39_word_new_line_1: robot
-bip_39_word_new_line_10: 'robot
-
-  describe
-
-  goose
-
-  staff
-
-  brief
-
-  possible
-
-  asthma
-
-  local
-
-  saddle
-
-  suit'
-bip_39_word_new_line_11: 'robot
-
-  describe
-
-  goose
-
-  staff
-
-  brief
-
-  possible
-
-  asthma
-
-  local
-
-  saddle
-
-  suit
-
-  sport'
 bip_39_word_new_line_12: 'robot
 
   describe
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'robot
   describe
 
   goose'
-bip_39_word_new_line_4: 'robot
-
-  describe
-
-  goose
-
-  staff'
-bip_39_word_new_line_5: 'robot
-
-  describe
-
-  goose
-
-  staff
-
-  brief'
-bip_39_word_new_line_6: 'robot
-
-  describe
-
-  goose
-
-  staff
-
-  brief
-
-  possible'
-bip_39_word_new_line_7: 'robot
-
-  describe
-
-  goose
-
-  staff
-
-  brief
-
-  possible
-
-  asthma'
-bip_39_word_new_line_8: 'robot
-
-  describe
-
-  goose
-
-  staff
-
-  brief
-
-  possible
-
-  asthma
-
-  local'
-bip_39_word_new_line_9: 'robot
-
-  describe
-
-  goose
-
-  staff
-
-  brief
-
-  possible
-
-  asthma
-
-  local
-
-  saddle'
-bip_39_word_no_space_1: robot
-bip_39_word_no_space_10: robotdescribegoosestaffbriefpossibleasthmalocalsaddlesuit
-bip_39_word_no_space_11: robotdescribegoosestaffbriefpossibleasthmalocalsaddlesuitsport
 bip_39_word_no_space_12: robotdescribegoosestaffbriefpossibleasthmalocalsaddlesuitsportaround
 bip_39_word_no_space_2: robotdescribe
 bip_39_word_no_space_3: robotdescribegoose
-bip_39_word_no_space_4: robotdescribegoosestaff
-bip_39_word_no_space_5: robotdescribegoosestaffbrief
-bip_39_word_no_space_6: robotdescribegoosestaffbriefpossible
-bip_39_word_no_space_7: robotdescribegoosestaffbriefpossibleasthma
-bip_39_word_no_space_8: robotdescribegoosestaffbriefpossibleasthmalocal
-bip_39_word_no_space_9: robotdescribegoosestaffbriefpossibleasthmalocalsaddle
-bip_39_word_space_0:
-- robot
-- describe
-- goose
-- staff
-- brief
-- possible
-- asthma
-- local
-- saddle
-- suit
-- sport
-- around
-bip_39_word_space_1: robot
-bip_39_word_space_10: robot describe goose staff brief possible asthma local saddle
-  suit
-bip_39_word_space_11: robot describe goose staff brief possible asthma local saddle
-  suit sport
 bip_39_word_space_12: robot describe goose staff brief possible asthma local saddle
   suit sport around
 bip_39_word_space_2: robot describe
 bip_39_word_space_3: robot describe goose
-bip_39_word_space_4: robot describe goose staff
-bip_39_word_space_5: robot describe goose staff brief
-bip_39_word_space_6: robot describe goose staff brief possible
-bip_39_word_space_7: robot describe goose staff brief possible asthma
-bip_39_word_space_8: robot describe goose staff brief possible asthma local
-bip_39_word_space_9: robot describe goose staff brief possible asthma local saddle
-bip_39_word_underscore_1: robot
-bip_39_word_underscore_10: robot_describe_goose_staff_brief_possible_asthma_local_saddle_suit
-bip_39_word_underscore_11: robot_describe_goose_staff_brief_possible_asthma_local_saddle_suit_sport
 bip_39_word_underscore_12: robot_describe_goose_staff_brief_possible_asthma_local_saddle_suit_sport_around
 bip_39_word_underscore_2: robot_describe
 bip_39_word_underscore_3: robot_describe_goose
-bip_39_word_underscore_4: robot_describe_goose_staff
-bip_39_word_underscore_5: robot_describe_goose_staff_brief
-bip_39_word_underscore_6: robot_describe_goose_staff_brief_possible
-bip_39_word_underscore_7: robot_describe_goose_staff_brief_possible_asthma
-bip_39_word_underscore_8: robot_describe_goose_staff_brief_possible_asthma_local
-bip_39_word_underscore_9: robot_describe_goose_staff_brief_possible_asthma_local_saddle
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: magic
-bip_39_word_dash_10: magic-over-cloud-cable-advance-room-hospital-seed-bright-virus
-bip_39_word_dash_11: magic-over-cloud-cable-advance-room-hospital-seed-bright-virus-will
 bip_39_word_dash_12: magic-over-cloud-cable-advance-room-hospital-seed-bright-virus-will-almost
 bip_39_word_dash_2: magic-over
 bip_39_word_dash_3: magic-over-cloud
-bip_39_word_dash_4: magic-over-cloud-cable
-bip_39_word_dash_5: magic-over-cloud-cable-advance
-bip_39_word_dash_6: magic-over-cloud-cable-advance-room
-bip_39_word_dash_7: magic-over-cloud-cable-advance-room-hospital
-bip_39_word_dash_8: magic-over-cloud-cable-advance-room-hospital-seed
-bip_39_word_dash_9: magic-over-cloud-cable-advance-room-hospital-seed-bright
-bip_39_word_new_br_1: magic
-bip_39_word_new_br_10: magic<br>over<br>cloud<br>cable<br>advance<br>room<br>hospital<br>seed<br>bright<br>virus
-bip_39_word_new_br_11: magic<br>over<br>cloud<br>cable<br>advance<br>room<br>hospital<br>seed<br>bright<br>virus<br>will
 bip_39_word_new_br_12: magic<br>over<br>cloud<br>cable<br>advance<br>room<br>hospital<br>seed<br>bright<br>virus<br>will<br>almost
 bip_39_word_new_br_2: magic<br>over
 bip_39_word_new_br_3: magic<br>over<br>cloud
-bip_39_word_new_br_4: magic<br>over<br>cloud<br>cable
-bip_39_word_new_br_5: magic<br>over<br>cloud<br>cable<br>advance
-bip_39_word_new_br_6: magic<br>over<br>cloud<br>cable<br>advance<br>room
-bip_39_word_new_br_7: magic<br>over<br>cloud<br>cable<br>advance<br>room<br>hospital
-bip_39_word_new_br_8: magic<br>over<br>cloud<br>cable<br>advance<br>room<br>hospital<br>seed
-bip_39_word_new_br_9: magic<br>over<br>cloud<br>cable<br>advance<br>room<br>hospital<br>seed<br>bright
-bip_39_word_new_line_1: magic
-bip_39_word_new_line_10: 'magic
-
-  over
-
-  cloud
-
-  cable
-
-  advance
-
-  room
-
-  hospital
-
-  seed
-
-  bright
-
-  virus'
-bip_39_word_new_line_11: 'magic
-
-  over
-
-  cloud
-
-  cable
-
-  advance
-
-  room
-
-  hospital
-
-  seed
-
-  bright
-
-  virus
-
-  will'
 bip_39_word_new_line_12: 'magic
 
   over
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'magic
   over
 
   cloud'
-bip_39_word_new_line_4: 'magic
-
-  over
-
-  cloud
-
-  cable'
-bip_39_word_new_line_5: 'magic
-
-  over
-
-  cloud
-
-  cable
-
-  advance'
-bip_39_word_new_line_6: 'magic
-
-  over
-
-  cloud
-
-  cable
-
-  advance
-
-  room'
-bip_39_word_new_line_7: 'magic
-
-  over
-
-  cloud
-
-  cable
-
-  advance
-
-  room
-
-  hospital'
-bip_39_word_new_line_8: 'magic
-
-  over
-
-  cloud
-
-  cable
-
-  advance
-
-  room
-
-  hospital
-
-  seed'
-bip_39_word_new_line_9: 'magic
-
-  over
-
-  cloud
-
-  cable
-
-  advance
-
-  room
-
-  hospital
-
-  seed
-
-  bright'
-bip_39_word_no_space_1: magic
-bip_39_word_no_space_10: magicovercloudcableadvanceroomhospitalseedbrightvirus
-bip_39_word_no_space_11: magicovercloudcableadvanceroomhospitalseedbrightviruswill
 bip_39_word_no_space_12: magicovercloudcableadvanceroomhospitalseedbrightviruswillalmost
 bip_39_word_no_space_2: magicover
 bip_39_word_no_space_3: magicovercloud
-bip_39_word_no_space_4: magicovercloudcable
-bip_39_word_no_space_5: magicovercloudcableadvance
-bip_39_word_no_space_6: magicovercloudcableadvanceroom
-bip_39_word_no_space_7: magicovercloudcableadvanceroomhospital
-bip_39_word_no_space_8: magicovercloudcableadvanceroomhospitalseed
-bip_39_word_no_space_9: magicovercloudcableadvanceroomhospitalseedbright
-bip_39_word_space_0:
-- magic
-- over
-- cloud
-- cable
-- advance
-- room
-- hospital
-- seed
-- bright
-- virus
-- will
-- almost
-bip_39_word_space_1: magic
-bip_39_word_space_10: magic over cloud cable advance room hospital seed bright virus
-bip_39_word_space_11: magic over cloud cable advance room hospital seed bright virus
-  will
 bip_39_word_space_12: magic over cloud cable advance room hospital seed bright virus
   will almost
 bip_39_word_space_2: magic over
 bip_39_word_space_3: magic over cloud
-bip_39_word_space_4: magic over cloud cable
-bip_39_word_space_5: magic over cloud cable advance
-bip_39_word_space_6: magic over cloud cable advance room
-bip_39_word_space_7: magic over cloud cable advance room hospital
-bip_39_word_space_8: magic over cloud cable advance room hospital seed
-bip_39_word_space_9: magic over cloud cable advance room hospital seed bright
-bip_39_word_underscore_1: magic
-bip_39_word_underscore_10: magic_over_cloud_cable_advance_room_hospital_seed_bright_virus
-bip_39_word_underscore_11: magic_over_cloud_cable_advance_room_hospital_seed_bright_virus_will
 bip_39_word_underscore_12: magic_over_cloud_cable_advance_room_hospital_seed_bright_virus_will_almost
 bip_39_word_underscore_2: magic_over
 bip_39_word_underscore_3: magic_over_cloud
-bip_39_word_underscore_4: magic_over_cloud_cable
-bip_39_word_underscore_5: magic_over_cloud_cable_advance
-bip_39_word_underscore_6: magic_over_cloud_cable_advance_room
-bip_39_word_underscore_7: magic_over_cloud_cable_advance_room_hospital
-bip_39_word_underscore_8: magic_over_cloud_cable_advance_room_hospital_seed
-bip_39_word_underscore_9: magic_over_cloud_cable_advance_room_hospital_seed_bright
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

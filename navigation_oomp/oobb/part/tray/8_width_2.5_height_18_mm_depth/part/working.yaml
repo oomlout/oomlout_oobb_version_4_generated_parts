@@ -1,68 +1,9 @@
-bip_39_word_dash_1: hospital
-bip_39_word_dash_10: hospital-sausage-prosper-welcome-mean-mimic-blush-addict-phrase-crazy
-bip_39_word_dash_11: hospital-sausage-prosper-welcome-mean-mimic-blush-addict-phrase-crazy-afraid
 bip_39_word_dash_12: hospital-sausage-prosper-welcome-mean-mimic-blush-addict-phrase-crazy-afraid-amount
 bip_39_word_dash_2: hospital-sausage
 bip_39_word_dash_3: hospital-sausage-prosper
-bip_39_word_dash_4: hospital-sausage-prosper-welcome
-bip_39_word_dash_5: hospital-sausage-prosper-welcome-mean
-bip_39_word_dash_6: hospital-sausage-prosper-welcome-mean-mimic
-bip_39_word_dash_7: hospital-sausage-prosper-welcome-mean-mimic-blush
-bip_39_word_dash_8: hospital-sausage-prosper-welcome-mean-mimic-blush-addict
-bip_39_word_dash_9: hospital-sausage-prosper-welcome-mean-mimic-blush-addict-phrase
-bip_39_word_new_br_1: hospital
-bip_39_word_new_br_10: hospital<br>sausage<br>prosper<br>welcome<br>mean<br>mimic<br>blush<br>addict<br>phrase<br>crazy
-bip_39_word_new_br_11: hospital<br>sausage<br>prosper<br>welcome<br>mean<br>mimic<br>blush<br>addict<br>phrase<br>crazy<br>afraid
 bip_39_word_new_br_12: hospital<br>sausage<br>prosper<br>welcome<br>mean<br>mimic<br>blush<br>addict<br>phrase<br>crazy<br>afraid<br>amount
 bip_39_word_new_br_2: hospital<br>sausage
 bip_39_word_new_br_3: hospital<br>sausage<br>prosper
-bip_39_word_new_br_4: hospital<br>sausage<br>prosper<br>welcome
-bip_39_word_new_br_5: hospital<br>sausage<br>prosper<br>welcome<br>mean
-bip_39_word_new_br_6: hospital<br>sausage<br>prosper<br>welcome<br>mean<br>mimic
-bip_39_word_new_br_7: hospital<br>sausage<br>prosper<br>welcome<br>mean<br>mimic<br>blush
-bip_39_word_new_br_8: hospital<br>sausage<br>prosper<br>welcome<br>mean<br>mimic<br>blush<br>addict
-bip_39_word_new_br_9: hospital<br>sausage<br>prosper<br>welcome<br>mean<br>mimic<br>blush<br>addict<br>phrase
-bip_39_word_new_line_1: hospital
-bip_39_word_new_line_10: 'hospital
-
-  sausage
-
-  prosper
-
-  welcome
-
-  mean
-
-  mimic
-
-  blush
-
-  addict
-
-  phrase
-
-  crazy'
-bip_39_word_new_line_11: 'hospital
-
-  sausage
-
-  prosper
-
-  welcome
-
-  mean
-
-  mimic
-
-  blush
-
-  addict
-
-  phrase
-
-  crazy
-
-  afraid'
 bip_39_word_new_line_12: 'hospital
 
   sausage
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'hospital
   sausage
 
   prosper'
-bip_39_word_new_line_4: 'hospital
-
-  sausage
-
-  prosper
-
-  welcome'
-bip_39_word_new_line_5: 'hospital
-
-  sausage
-
-  prosper
-
-  welcome
-
-  mean'
-bip_39_word_new_line_6: 'hospital
-
-  sausage
-
-  prosper
-
-  welcome
-
-  mean
-
-  mimic'
-bip_39_word_new_line_7: 'hospital
-
-  sausage
-
-  prosper
-
-  welcome
-
-  mean
-
-  mimic
-
-  blush'
-bip_39_word_new_line_8: 'hospital
-
-  sausage
-
-  prosper
-
-  welcome
-
-  mean
-
-  mimic
-
-  blush
-
-  addict'
-bip_39_word_new_line_9: 'hospital
-
-  sausage
-
-  prosper
-
-  welcome
-
-  mean
-
-  mimic
-
-  blush
-
-  addict
-
-  phrase'
-bip_39_word_no_space_1: hospital
-bip_39_word_no_space_10: hospitalsausageprosperwelcomemeanmimicblushaddictphrasecrazy
-bip_39_word_no_space_11: hospitalsausageprosperwelcomemeanmimicblushaddictphrasecrazyafraid
 bip_39_word_no_space_12: hospitalsausageprosperwelcomemeanmimicblushaddictphrasecrazyafraidamount
 bip_39_word_no_space_2: hospitalsausage
 bip_39_word_no_space_3: hospitalsausageprosper
-bip_39_word_no_space_4: hospitalsausageprosperwelcome
-bip_39_word_no_space_5: hospitalsausageprosperwelcomemean
-bip_39_word_no_space_6: hospitalsausageprosperwelcomemeanmimic
-bip_39_word_no_space_7: hospitalsausageprosperwelcomemeanmimicblush
-bip_39_word_no_space_8: hospitalsausageprosperwelcomemeanmimicblushaddict
-bip_39_word_no_space_9: hospitalsausageprosperwelcomemeanmimicblushaddictphrase
-bip_39_word_space_0:
-- hospital
-- sausage
-- prosper
-- welcome
-- mean
-- mimic
-- blush
-- addict
-- phrase
-- crazy
-- afraid
-- amount
-bip_39_word_space_1: hospital
-bip_39_word_space_10: hospital sausage prosper welcome mean mimic blush addict phrase
-  crazy
-bip_39_word_space_11: hospital sausage prosper welcome mean mimic blush addict phrase
-  crazy afraid
 bip_39_word_space_12: hospital sausage prosper welcome mean mimic blush addict phrase
   crazy afraid amount
 bip_39_word_space_2: hospital sausage
 bip_39_word_space_3: hospital sausage prosper
-bip_39_word_space_4: hospital sausage prosper welcome
-bip_39_word_space_5: hospital sausage prosper welcome mean
-bip_39_word_space_6: hospital sausage prosper welcome mean mimic
-bip_39_word_space_7: hospital sausage prosper welcome mean mimic blush
-bip_39_word_space_8: hospital sausage prosper welcome mean mimic blush addict
-bip_39_word_space_9: hospital sausage prosper welcome mean mimic blush addict phrase
-bip_39_word_underscore_1: hospital
-bip_39_word_underscore_10: hospital_sausage_prosper_welcome_mean_mimic_blush_addict_phrase_crazy
-bip_39_word_underscore_11: hospital_sausage_prosper_welcome_mean_mimic_blush_addict_phrase_crazy_afraid
 bip_39_word_underscore_12: hospital_sausage_prosper_welcome_mean_mimic_blush_addict_phrase_crazy_afraid_amount
 bip_39_word_underscore_2: hospital_sausage
 bip_39_word_underscore_3: hospital_sausage_prosper
-bip_39_word_underscore_4: hospital_sausage_prosper_welcome
-bip_39_word_underscore_5: hospital_sausage_prosper_welcome_mean
-bip_39_word_underscore_6: hospital_sausage_prosper_welcome_mean_mimic
-bip_39_word_underscore_7: hospital_sausage_prosper_welcome_mean_mimic_blush
-bip_39_word_underscore_8: hospital_sausage_prosper_welcome_mean_mimic_blush_addict
-bip_39_word_underscore_9: hospital_sausage_prosper_welcome_mean_mimic_blush_addict_phrase
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

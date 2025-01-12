@@ -1,68 +1,9 @@
-bip_39_word_dash_1: chair
-bip_39_word_dash_10: chair-idle-enemy-valley-artist-emotion-neck-cabin-saddle-pink
-bip_39_word_dash_11: chair-idle-enemy-valley-artist-emotion-neck-cabin-saddle-pink-front
 bip_39_word_dash_12: chair-idle-enemy-valley-artist-emotion-neck-cabin-saddle-pink-front-adult
 bip_39_word_dash_2: chair-idle
 bip_39_word_dash_3: chair-idle-enemy
-bip_39_word_dash_4: chair-idle-enemy-valley
-bip_39_word_dash_5: chair-idle-enemy-valley-artist
-bip_39_word_dash_6: chair-idle-enemy-valley-artist-emotion
-bip_39_word_dash_7: chair-idle-enemy-valley-artist-emotion-neck
-bip_39_word_dash_8: chair-idle-enemy-valley-artist-emotion-neck-cabin
-bip_39_word_dash_9: chair-idle-enemy-valley-artist-emotion-neck-cabin-saddle
-bip_39_word_new_br_1: chair
-bip_39_word_new_br_10: chair<br>idle<br>enemy<br>valley<br>artist<br>emotion<br>neck<br>cabin<br>saddle<br>pink
-bip_39_word_new_br_11: chair<br>idle<br>enemy<br>valley<br>artist<br>emotion<br>neck<br>cabin<br>saddle<br>pink<br>front
 bip_39_word_new_br_12: chair<br>idle<br>enemy<br>valley<br>artist<br>emotion<br>neck<br>cabin<br>saddle<br>pink<br>front<br>adult
 bip_39_word_new_br_2: chair<br>idle
 bip_39_word_new_br_3: chair<br>idle<br>enemy
-bip_39_word_new_br_4: chair<br>idle<br>enemy<br>valley
-bip_39_word_new_br_5: chair<br>idle<br>enemy<br>valley<br>artist
-bip_39_word_new_br_6: chair<br>idle<br>enemy<br>valley<br>artist<br>emotion
-bip_39_word_new_br_7: chair<br>idle<br>enemy<br>valley<br>artist<br>emotion<br>neck
-bip_39_word_new_br_8: chair<br>idle<br>enemy<br>valley<br>artist<br>emotion<br>neck<br>cabin
-bip_39_word_new_br_9: chair<br>idle<br>enemy<br>valley<br>artist<br>emotion<br>neck<br>cabin<br>saddle
-bip_39_word_new_line_1: chair
-bip_39_word_new_line_10: 'chair
-
-  idle
-
-  enemy
-
-  valley
-
-  artist
-
-  emotion
-
-  neck
-
-  cabin
-
-  saddle
-
-  pink'
-bip_39_word_new_line_11: 'chair
-
-  idle
-
-  enemy
-
-  valley
-
-  artist
-
-  emotion
-
-  neck
-
-  cabin
-
-  saddle
-
-  pink
-
-  front'
 bip_39_word_new_line_12: 'chair
 
   idle
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'chair
   idle
 
   enemy'
-bip_39_word_new_line_4: 'chair
-
-  idle
-
-  enemy
-
-  valley'
-bip_39_word_new_line_5: 'chair
-
-  idle
-
-  enemy
-
-  valley
-
-  artist'
-bip_39_word_new_line_6: 'chair
-
-  idle
-
-  enemy
-
-  valley
-
-  artist
-
-  emotion'
-bip_39_word_new_line_7: 'chair
-
-  idle
-
-  enemy
-
-  valley
-
-  artist
-
-  emotion
-
-  neck'
-bip_39_word_new_line_8: 'chair
-
-  idle
-
-  enemy
-
-  valley
-
-  artist
-
-  emotion
-
-  neck
-
-  cabin'
-bip_39_word_new_line_9: 'chair
-
-  idle
-
-  enemy
-
-  valley
-
-  artist
-
-  emotion
-
-  neck
-
-  cabin
-
-  saddle'
-bip_39_word_no_space_1: chair
-bip_39_word_no_space_10: chairidleenemyvalleyartistemotionneckcabinsaddlepink
-bip_39_word_no_space_11: chairidleenemyvalleyartistemotionneckcabinsaddlepinkfront
 bip_39_word_no_space_12: chairidleenemyvalleyartistemotionneckcabinsaddlepinkfrontadult
 bip_39_word_no_space_2: chairidle
 bip_39_word_no_space_3: chairidleenemy
-bip_39_word_no_space_4: chairidleenemyvalley
-bip_39_word_no_space_5: chairidleenemyvalleyartist
-bip_39_word_no_space_6: chairidleenemyvalleyartistemotion
-bip_39_word_no_space_7: chairidleenemyvalleyartistemotionneck
-bip_39_word_no_space_8: chairidleenemyvalleyartistemotionneckcabin
-bip_39_word_no_space_9: chairidleenemyvalleyartistemotionneckcabinsaddle
-bip_39_word_space_0:
-- chair
-- idle
-- enemy
-- valley
-- artist
-- emotion
-- neck
-- cabin
-- saddle
-- pink
-- front
-- adult
-bip_39_word_space_1: chair
-bip_39_word_space_10: chair idle enemy valley artist emotion neck cabin saddle pink
-bip_39_word_space_11: chair idle enemy valley artist emotion neck cabin saddle pink
-  front
 bip_39_word_space_12: chair idle enemy valley artist emotion neck cabin saddle pink
   front adult
 bip_39_word_space_2: chair idle
 bip_39_word_space_3: chair idle enemy
-bip_39_word_space_4: chair idle enemy valley
-bip_39_word_space_5: chair idle enemy valley artist
-bip_39_word_space_6: chair idle enemy valley artist emotion
-bip_39_word_space_7: chair idle enemy valley artist emotion neck
-bip_39_word_space_8: chair idle enemy valley artist emotion neck cabin
-bip_39_word_space_9: chair idle enemy valley artist emotion neck cabin saddle
-bip_39_word_underscore_1: chair
-bip_39_word_underscore_10: chair_idle_enemy_valley_artist_emotion_neck_cabin_saddle_pink
-bip_39_word_underscore_11: chair_idle_enemy_valley_artist_emotion_neck_cabin_saddle_pink_front
 bip_39_word_underscore_12: chair_idle_enemy_valley_artist_emotion_neck_cabin_saddle_pink_front_adult
 bip_39_word_underscore_2: chair_idle
 bip_39_word_underscore_3: chair_idle_enemy
-bip_39_word_underscore_4: chair_idle_enemy_valley
-bip_39_word_underscore_5: chair_idle_enemy_valley_artist
-bip_39_word_underscore_6: chair_idle_enemy_valley_artist_emotion
-bip_39_word_underscore_7: chair_idle_enemy_valley_artist_emotion_neck
-bip_39_word_underscore_8: chair_idle_enemy_valley_artist_emotion_neck_cabin
-bip_39_word_underscore_9: chair_idle_enemy_valley_artist_emotion_neck_cabin_saddle
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

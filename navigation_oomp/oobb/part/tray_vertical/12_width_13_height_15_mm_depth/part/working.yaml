@@ -1,68 +1,9 @@
-bip_39_word_dash_1: brisk
-bip_39_word_dash_10: brisk-auction-usage-fog-author-state-nothing-provide-student-youth
-bip_39_word_dash_11: brisk-auction-usage-fog-author-state-nothing-provide-student-youth-east
 bip_39_word_dash_12: brisk-auction-usage-fog-author-state-nothing-provide-student-youth-east-assist
 bip_39_word_dash_2: brisk-auction
 bip_39_word_dash_3: brisk-auction-usage
-bip_39_word_dash_4: brisk-auction-usage-fog
-bip_39_word_dash_5: brisk-auction-usage-fog-author
-bip_39_word_dash_6: brisk-auction-usage-fog-author-state
-bip_39_word_dash_7: brisk-auction-usage-fog-author-state-nothing
-bip_39_word_dash_8: brisk-auction-usage-fog-author-state-nothing-provide
-bip_39_word_dash_9: brisk-auction-usage-fog-author-state-nothing-provide-student
-bip_39_word_new_br_1: brisk
-bip_39_word_new_br_10: brisk<br>auction<br>usage<br>fog<br>author<br>state<br>nothing<br>provide<br>student<br>youth
-bip_39_word_new_br_11: brisk<br>auction<br>usage<br>fog<br>author<br>state<br>nothing<br>provide<br>student<br>youth<br>east
 bip_39_word_new_br_12: brisk<br>auction<br>usage<br>fog<br>author<br>state<br>nothing<br>provide<br>student<br>youth<br>east<br>assist
 bip_39_word_new_br_2: brisk<br>auction
 bip_39_word_new_br_3: brisk<br>auction<br>usage
-bip_39_word_new_br_4: brisk<br>auction<br>usage<br>fog
-bip_39_word_new_br_5: brisk<br>auction<br>usage<br>fog<br>author
-bip_39_word_new_br_6: brisk<br>auction<br>usage<br>fog<br>author<br>state
-bip_39_word_new_br_7: brisk<br>auction<br>usage<br>fog<br>author<br>state<br>nothing
-bip_39_word_new_br_8: brisk<br>auction<br>usage<br>fog<br>author<br>state<br>nothing<br>provide
-bip_39_word_new_br_9: brisk<br>auction<br>usage<br>fog<br>author<br>state<br>nothing<br>provide<br>student
-bip_39_word_new_line_1: brisk
-bip_39_word_new_line_10: 'brisk
-
-  auction
-
-  usage
-
-  fog
-
-  author
-
-  state
-
-  nothing
-
-  provide
-
-  student
-
-  youth'
-bip_39_word_new_line_11: 'brisk
-
-  auction
-
-  usage
-
-  fog
-
-  author
-
-  state
-
-  nothing
-
-  provide
-
-  student
-
-  youth
-
-  east'
 bip_39_word_new_line_12: 'brisk
 
   auction
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'brisk
   auction
 
   usage'
-bip_39_word_new_line_4: 'brisk
-
-  auction
-
-  usage
-
-  fog'
-bip_39_word_new_line_5: 'brisk
-
-  auction
-
-  usage
-
-  fog
-
-  author'
-bip_39_word_new_line_6: 'brisk
-
-  auction
-
-  usage
-
-  fog
-
-  author
-
-  state'
-bip_39_word_new_line_7: 'brisk
-
-  auction
-
-  usage
-
-  fog
-
-  author
-
-  state
-
-  nothing'
-bip_39_word_new_line_8: 'brisk
-
-  auction
-
-  usage
-
-  fog
-
-  author
-
-  state
-
-  nothing
-
-  provide'
-bip_39_word_new_line_9: 'brisk
-
-  auction
-
-  usage
-
-  fog
-
-  author
-
-  state
-
-  nothing
-
-  provide
-
-  student'
-bip_39_word_no_space_1: brisk
-bip_39_word_no_space_10: briskauctionusagefogauthorstatenothingprovidestudentyouth
-bip_39_word_no_space_11: briskauctionusagefogauthorstatenothingprovidestudentyoutheast
 bip_39_word_no_space_12: briskauctionusagefogauthorstatenothingprovidestudentyoutheastassist
 bip_39_word_no_space_2: briskauction
 bip_39_word_no_space_3: briskauctionusage
-bip_39_word_no_space_4: briskauctionusagefog
-bip_39_word_no_space_5: briskauctionusagefogauthor
-bip_39_word_no_space_6: briskauctionusagefogauthorstate
-bip_39_word_no_space_7: briskauctionusagefogauthorstatenothing
-bip_39_word_no_space_8: briskauctionusagefogauthorstatenothingprovide
-bip_39_word_no_space_9: briskauctionusagefogauthorstatenothingprovidestudent
-bip_39_word_space_0:
-- brisk
-- auction
-- usage
-- fog
-- author
-- state
-- nothing
-- provide
-- student
-- youth
-- east
-- assist
-bip_39_word_space_1: brisk
-bip_39_word_space_10: brisk auction usage fog author state nothing provide student
-  youth
-bip_39_word_space_11: brisk auction usage fog author state nothing provide student
-  youth east
 bip_39_word_space_12: brisk auction usage fog author state nothing provide student
   youth east assist
 bip_39_word_space_2: brisk auction
 bip_39_word_space_3: brisk auction usage
-bip_39_word_space_4: brisk auction usage fog
-bip_39_word_space_5: brisk auction usage fog author
-bip_39_word_space_6: brisk auction usage fog author state
-bip_39_word_space_7: brisk auction usage fog author state nothing
-bip_39_word_space_8: brisk auction usage fog author state nothing provide
-bip_39_word_space_9: brisk auction usage fog author state nothing provide student
-bip_39_word_underscore_1: brisk
-bip_39_word_underscore_10: brisk_auction_usage_fog_author_state_nothing_provide_student_youth
-bip_39_word_underscore_11: brisk_auction_usage_fog_author_state_nothing_provide_student_youth_east
 bip_39_word_underscore_12: brisk_auction_usage_fog_author_state_nothing_provide_student_youth_east_assist
 bip_39_word_underscore_2: brisk_auction
 bip_39_word_underscore_3: brisk_auction_usage
-bip_39_word_underscore_4: brisk_auction_usage_fog
-bip_39_word_underscore_5: brisk_auction_usage_fog_author
-bip_39_word_underscore_6: brisk_auction_usage_fog_author_state
-bip_39_word_underscore_7: brisk_auction_usage_fog_author_state_nothing
-bip_39_word_underscore_8: brisk_auction_usage_fog_author_state_nothing_provide
-bip_39_word_underscore_9: brisk_auction_usage_fog_author_state_nothing_provide_student
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

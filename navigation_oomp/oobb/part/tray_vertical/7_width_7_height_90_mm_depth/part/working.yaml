@@ -1,68 +1,9 @@
-bip_39_word_dash_1: frozen
-bip_39_word_dash_10: frozen-region-furnace-razor-churn-ivory-mutual-jealous-monster-endless
-bip_39_word_dash_11: frozen-region-furnace-razor-churn-ivory-mutual-jealous-monster-endless-sausage
 bip_39_word_dash_12: frozen-region-furnace-razor-churn-ivory-mutual-jealous-monster-endless-sausage-analyst
 bip_39_word_dash_2: frozen-region
 bip_39_word_dash_3: frozen-region-furnace
-bip_39_word_dash_4: frozen-region-furnace-razor
-bip_39_word_dash_5: frozen-region-furnace-razor-churn
-bip_39_word_dash_6: frozen-region-furnace-razor-churn-ivory
-bip_39_word_dash_7: frozen-region-furnace-razor-churn-ivory-mutual
-bip_39_word_dash_8: frozen-region-furnace-razor-churn-ivory-mutual-jealous
-bip_39_word_dash_9: frozen-region-furnace-razor-churn-ivory-mutual-jealous-monster
-bip_39_word_new_br_1: frozen
-bip_39_word_new_br_10: frozen<br>region<br>furnace<br>razor<br>churn<br>ivory<br>mutual<br>jealous<br>monster<br>endless
-bip_39_word_new_br_11: frozen<br>region<br>furnace<br>razor<br>churn<br>ivory<br>mutual<br>jealous<br>monster<br>endless<br>sausage
 bip_39_word_new_br_12: frozen<br>region<br>furnace<br>razor<br>churn<br>ivory<br>mutual<br>jealous<br>monster<br>endless<br>sausage<br>analyst
 bip_39_word_new_br_2: frozen<br>region
 bip_39_word_new_br_3: frozen<br>region<br>furnace
-bip_39_word_new_br_4: frozen<br>region<br>furnace<br>razor
-bip_39_word_new_br_5: frozen<br>region<br>furnace<br>razor<br>churn
-bip_39_word_new_br_6: frozen<br>region<br>furnace<br>razor<br>churn<br>ivory
-bip_39_word_new_br_7: frozen<br>region<br>furnace<br>razor<br>churn<br>ivory<br>mutual
-bip_39_word_new_br_8: frozen<br>region<br>furnace<br>razor<br>churn<br>ivory<br>mutual<br>jealous
-bip_39_word_new_br_9: frozen<br>region<br>furnace<br>razor<br>churn<br>ivory<br>mutual<br>jealous<br>monster
-bip_39_word_new_line_1: frozen
-bip_39_word_new_line_10: 'frozen
-
-  region
-
-  furnace
-
-  razor
-
-  churn
-
-  ivory
-
-  mutual
-
-  jealous
-
-  monster
-
-  endless'
-bip_39_word_new_line_11: 'frozen
-
-  region
-
-  furnace
-
-  razor
-
-  churn
-
-  ivory
-
-  mutual
-
-  jealous
-
-  monster
-
-  endless
-
-  sausage'
 bip_39_word_new_line_12: 'frozen
 
   region
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'frozen
   region
 
   furnace'
-bip_39_word_new_line_4: 'frozen
-
-  region
-
-  furnace
-
-  razor'
-bip_39_word_new_line_5: 'frozen
-
-  region
-
-  furnace
-
-  razor
-
-  churn'
-bip_39_word_new_line_6: 'frozen
-
-  region
-
-  furnace
-
-  razor
-
-  churn
-
-  ivory'
-bip_39_word_new_line_7: 'frozen
-
-  region
-
-  furnace
-
-  razor
-
-  churn
-
-  ivory
-
-  mutual'
-bip_39_word_new_line_8: 'frozen
-
-  region
-
-  furnace
-
-  razor
-
-  churn
-
-  ivory
-
-  mutual
-
-  jealous'
-bip_39_word_new_line_9: 'frozen
-
-  region
-
-  furnace
-
-  razor
-
-  churn
-
-  ivory
-
-  mutual
-
-  jealous
-
-  monster'
-bip_39_word_no_space_1: frozen
-bip_39_word_no_space_10: frozenregionfurnacerazorchurnivorymutualjealousmonsterendless
-bip_39_word_no_space_11: frozenregionfurnacerazorchurnivorymutualjealousmonsterendlesssausage
 bip_39_word_no_space_12: frozenregionfurnacerazorchurnivorymutualjealousmonsterendlesssausageanalyst
 bip_39_word_no_space_2: frozenregion
 bip_39_word_no_space_3: frozenregionfurnace
-bip_39_word_no_space_4: frozenregionfurnacerazor
-bip_39_word_no_space_5: frozenregionfurnacerazorchurn
-bip_39_word_no_space_6: frozenregionfurnacerazorchurnivory
-bip_39_word_no_space_7: frozenregionfurnacerazorchurnivorymutual
-bip_39_word_no_space_8: frozenregionfurnacerazorchurnivorymutualjealous
-bip_39_word_no_space_9: frozenregionfurnacerazorchurnivorymutualjealousmonster
-bip_39_word_space_0:
-- frozen
-- region
-- furnace
-- razor
-- churn
-- ivory
-- mutual
-- jealous
-- monster
-- endless
-- sausage
-- analyst
-bip_39_word_space_1: frozen
-bip_39_word_space_10: frozen region furnace razor churn ivory mutual jealous monster
-  endless
-bip_39_word_space_11: frozen region furnace razor churn ivory mutual jealous monster
-  endless sausage
 bip_39_word_space_12: frozen region furnace razor churn ivory mutual jealous monster
   endless sausage analyst
 bip_39_word_space_2: frozen region
 bip_39_word_space_3: frozen region furnace
-bip_39_word_space_4: frozen region furnace razor
-bip_39_word_space_5: frozen region furnace razor churn
-bip_39_word_space_6: frozen region furnace razor churn ivory
-bip_39_word_space_7: frozen region furnace razor churn ivory mutual
-bip_39_word_space_8: frozen region furnace razor churn ivory mutual jealous
-bip_39_word_space_9: frozen region furnace razor churn ivory mutual jealous monster
-bip_39_word_underscore_1: frozen
-bip_39_word_underscore_10: frozen_region_furnace_razor_churn_ivory_mutual_jealous_monster_endless
-bip_39_word_underscore_11: frozen_region_furnace_razor_churn_ivory_mutual_jealous_monster_endless_sausage
 bip_39_word_underscore_12: frozen_region_furnace_razor_churn_ivory_mutual_jealous_monster_endless_sausage_analyst
 bip_39_word_underscore_2: frozen_region
 bip_39_word_underscore_3: frozen_region_furnace
-bip_39_word_underscore_4: frozen_region_furnace_razor
-bip_39_word_underscore_5: frozen_region_furnace_razor_churn
-bip_39_word_underscore_6: frozen_region_furnace_razor_churn_ivory
-bip_39_word_underscore_7: frozen_region_furnace_razor_churn_ivory_mutual
-bip_39_word_underscore_8: frozen_region_furnace_razor_churn_ivory_mutual_jealous
-bip_39_word_underscore_9: frozen_region_furnace_razor_churn_ivory_mutual_jealous_monster
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

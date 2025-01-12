@@ -1,69 +1,10 @@
 bearing: '6704'
-bip_39_word_dash_1: fog
-bip_39_word_dash_10: fog-seed-plate-trouble-catch-warrior-nephew-abuse-verb-humor
-bip_39_word_dash_11: fog-seed-plate-trouble-catch-warrior-nephew-abuse-verb-humor-recall
 bip_39_word_dash_12: fog-seed-plate-trouble-catch-warrior-nephew-abuse-verb-humor-recall-absorb
 bip_39_word_dash_2: fog-seed
 bip_39_word_dash_3: fog-seed-plate
-bip_39_word_dash_4: fog-seed-plate-trouble
-bip_39_word_dash_5: fog-seed-plate-trouble-catch
-bip_39_word_dash_6: fog-seed-plate-trouble-catch-warrior
-bip_39_word_dash_7: fog-seed-plate-trouble-catch-warrior-nephew
-bip_39_word_dash_8: fog-seed-plate-trouble-catch-warrior-nephew-abuse
-bip_39_word_dash_9: fog-seed-plate-trouble-catch-warrior-nephew-abuse-verb
-bip_39_word_new_br_1: fog
-bip_39_word_new_br_10: fog<br>seed<br>plate<br>trouble<br>catch<br>warrior<br>nephew<br>abuse<br>verb<br>humor
-bip_39_word_new_br_11: fog<br>seed<br>plate<br>trouble<br>catch<br>warrior<br>nephew<br>abuse<br>verb<br>humor<br>recall
 bip_39_word_new_br_12: fog<br>seed<br>plate<br>trouble<br>catch<br>warrior<br>nephew<br>abuse<br>verb<br>humor<br>recall<br>absorb
 bip_39_word_new_br_2: fog<br>seed
 bip_39_word_new_br_3: fog<br>seed<br>plate
-bip_39_word_new_br_4: fog<br>seed<br>plate<br>trouble
-bip_39_word_new_br_5: fog<br>seed<br>plate<br>trouble<br>catch
-bip_39_word_new_br_6: fog<br>seed<br>plate<br>trouble<br>catch<br>warrior
-bip_39_word_new_br_7: fog<br>seed<br>plate<br>trouble<br>catch<br>warrior<br>nephew
-bip_39_word_new_br_8: fog<br>seed<br>plate<br>trouble<br>catch<br>warrior<br>nephew<br>abuse
-bip_39_word_new_br_9: fog<br>seed<br>plate<br>trouble<br>catch<br>warrior<br>nephew<br>abuse<br>verb
-bip_39_word_new_line_1: fog
-bip_39_word_new_line_10: 'fog
-
-  seed
-
-  plate
-
-  trouble
-
-  catch
-
-  warrior
-
-  nephew
-
-  abuse
-
-  verb
-
-  humor'
-bip_39_word_new_line_11: 'fog
-
-  seed
-
-  plate
-
-  trouble
-
-  catch
-
-  warrior
-
-  nephew
-
-  abuse
-
-  verb
-
-  humor
-
-  recall'
 bip_39_word_new_line_12: 'fog
 
   seed
@@ -95,129 +36,16 @@ bip_39_word_new_line_3: 'fog
   seed
 
   plate'
-bip_39_word_new_line_4: 'fog
-
-  seed
-
-  plate
-
-  trouble'
-bip_39_word_new_line_5: 'fog
-
-  seed
-
-  plate
-
-  trouble
-
-  catch'
-bip_39_word_new_line_6: 'fog
-
-  seed
-
-  plate
-
-  trouble
-
-  catch
-
-  warrior'
-bip_39_word_new_line_7: 'fog
-
-  seed
-
-  plate
-
-  trouble
-
-  catch
-
-  warrior
-
-  nephew'
-bip_39_word_new_line_8: 'fog
-
-  seed
-
-  plate
-
-  trouble
-
-  catch
-
-  warrior
-
-  nephew
-
-  abuse'
-bip_39_word_new_line_9: 'fog
-
-  seed
-
-  plate
-
-  trouble
-
-  catch
-
-  warrior
-
-  nephew
-
-  abuse
-
-  verb'
-bip_39_word_no_space_1: fog
-bip_39_word_no_space_10: fogseedplatetroublecatchwarriornephewabuseverbhumor
-bip_39_word_no_space_11: fogseedplatetroublecatchwarriornephewabuseverbhumorrecall
 bip_39_word_no_space_12: fogseedplatetroublecatchwarriornephewabuseverbhumorrecallabsorb
 bip_39_word_no_space_2: fogseed
 bip_39_word_no_space_3: fogseedplate
-bip_39_word_no_space_4: fogseedplatetrouble
-bip_39_word_no_space_5: fogseedplatetroublecatch
-bip_39_word_no_space_6: fogseedplatetroublecatchwarrior
-bip_39_word_no_space_7: fogseedplatetroublecatchwarriornephew
-bip_39_word_no_space_8: fogseedplatetroublecatchwarriornephewabuse
-bip_39_word_no_space_9: fogseedplatetroublecatchwarriornephewabuseverb
-bip_39_word_space_0:
-- fog
-- seed
-- plate
-- trouble
-- catch
-- warrior
-- nephew
-- abuse
-- verb
-- humor
-- recall
-- absorb
-bip_39_word_space_1: fog
-bip_39_word_space_10: fog seed plate trouble catch warrior nephew abuse verb humor
-bip_39_word_space_11: fog seed plate trouble catch warrior nephew abuse verb humor
-  recall
 bip_39_word_space_12: fog seed plate trouble catch warrior nephew abuse verb humor
   recall absorb
 bip_39_word_space_2: fog seed
 bip_39_word_space_3: fog seed plate
-bip_39_word_space_4: fog seed plate trouble
-bip_39_word_space_5: fog seed plate trouble catch
-bip_39_word_space_6: fog seed plate trouble catch warrior
-bip_39_word_space_7: fog seed plate trouble catch warrior nephew
-bip_39_word_space_8: fog seed plate trouble catch warrior nephew abuse
-bip_39_word_space_9: fog seed plate trouble catch warrior nephew abuse verb
-bip_39_word_underscore_1: fog
-bip_39_word_underscore_10: fog_seed_plate_trouble_catch_warrior_nephew_abuse_verb_humor
-bip_39_word_underscore_11: fog_seed_plate_trouble_catch_warrior_nephew_abuse_verb_humor_recall
 bip_39_word_underscore_12: fog_seed_plate_trouble_catch_warrior_nephew_abuse_verb_humor_recall_absorb
 bip_39_word_underscore_2: fog_seed
 bip_39_word_underscore_3: fog_seed_plate
-bip_39_word_underscore_4: fog_seed_plate_trouble
-bip_39_word_underscore_5: fog_seed_plate_trouble_catch
-bip_39_word_underscore_6: fog_seed_plate_trouble_catch_warrior
-bip_39_word_underscore_7: fog_seed_plate_trouble_catch_warrior_nephew
-bip_39_word_underscore_8: fog_seed_plate_trouble_catch_warrior_nephew_abuse
-bip_39_word_underscore_9: fog_seed_plate_trouble_catch_warrior_nephew_abuse_verb
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

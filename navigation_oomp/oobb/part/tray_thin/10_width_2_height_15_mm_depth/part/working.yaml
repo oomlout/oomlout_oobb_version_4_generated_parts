@@ -1,68 +1,9 @@
-bip_39_word_dash_1: dance
-bip_39_word_dash_10: dance-sing-auto-trim-inject-festival-guess-art-test-wet
-bip_39_word_dash_11: dance-sing-auto-trim-inject-festival-guess-art-test-wet-what
 bip_39_word_dash_12: dance-sing-auto-trim-inject-festival-guess-art-test-wet-what-abstract
 bip_39_word_dash_2: dance-sing
 bip_39_word_dash_3: dance-sing-auto
-bip_39_word_dash_4: dance-sing-auto-trim
-bip_39_word_dash_5: dance-sing-auto-trim-inject
-bip_39_word_dash_6: dance-sing-auto-trim-inject-festival
-bip_39_word_dash_7: dance-sing-auto-trim-inject-festival-guess
-bip_39_word_dash_8: dance-sing-auto-trim-inject-festival-guess-art
-bip_39_word_dash_9: dance-sing-auto-trim-inject-festival-guess-art-test
-bip_39_word_new_br_1: dance
-bip_39_word_new_br_10: dance<br>sing<br>auto<br>trim<br>inject<br>festival<br>guess<br>art<br>test<br>wet
-bip_39_word_new_br_11: dance<br>sing<br>auto<br>trim<br>inject<br>festival<br>guess<br>art<br>test<br>wet<br>what
 bip_39_word_new_br_12: dance<br>sing<br>auto<br>trim<br>inject<br>festival<br>guess<br>art<br>test<br>wet<br>what<br>abstract
 bip_39_word_new_br_2: dance<br>sing
 bip_39_word_new_br_3: dance<br>sing<br>auto
-bip_39_word_new_br_4: dance<br>sing<br>auto<br>trim
-bip_39_word_new_br_5: dance<br>sing<br>auto<br>trim<br>inject
-bip_39_word_new_br_6: dance<br>sing<br>auto<br>trim<br>inject<br>festival
-bip_39_word_new_br_7: dance<br>sing<br>auto<br>trim<br>inject<br>festival<br>guess
-bip_39_word_new_br_8: dance<br>sing<br>auto<br>trim<br>inject<br>festival<br>guess<br>art
-bip_39_word_new_br_9: dance<br>sing<br>auto<br>trim<br>inject<br>festival<br>guess<br>art<br>test
-bip_39_word_new_line_1: dance
-bip_39_word_new_line_10: 'dance
-
-  sing
-
-  auto
-
-  trim
-
-  inject
-
-  festival
-
-  guess
-
-  art
-
-  test
-
-  wet'
-bip_39_word_new_line_11: 'dance
-
-  sing
-
-  auto
-
-  trim
-
-  inject
-
-  festival
-
-  guess
-
-  art
-
-  test
-
-  wet
-
-  what'
 bip_39_word_new_line_12: 'dance
 
   sing
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'dance
   sing
 
   auto'
-bip_39_word_new_line_4: 'dance
-
-  sing
-
-  auto
-
-  trim'
-bip_39_word_new_line_5: 'dance
-
-  sing
-
-  auto
-
-  trim
-
-  inject'
-bip_39_word_new_line_6: 'dance
-
-  sing
-
-  auto
-
-  trim
-
-  inject
-
-  festival'
-bip_39_word_new_line_7: 'dance
-
-  sing
-
-  auto
-
-  trim
-
-  inject
-
-  festival
-
-  guess'
-bip_39_word_new_line_8: 'dance
-
-  sing
-
-  auto
-
-  trim
-
-  inject
-
-  festival
-
-  guess
-
-  art'
-bip_39_word_new_line_9: 'dance
-
-  sing
-
-  auto
-
-  trim
-
-  inject
-
-  festival
-
-  guess
-
-  art
-
-  test'
-bip_39_word_no_space_1: dance
-bip_39_word_no_space_10: dancesingautotriminjectfestivalguessarttestwet
-bip_39_word_no_space_11: dancesingautotriminjectfestivalguessarttestwetwhat
 bip_39_word_no_space_12: dancesingautotriminjectfestivalguessarttestwetwhatabstract
 bip_39_word_no_space_2: dancesing
 bip_39_word_no_space_3: dancesingauto
-bip_39_word_no_space_4: dancesingautotrim
-bip_39_word_no_space_5: dancesingautotriminject
-bip_39_word_no_space_6: dancesingautotriminjectfestival
-bip_39_word_no_space_7: dancesingautotriminjectfestivalguess
-bip_39_word_no_space_8: dancesingautotriminjectfestivalguessart
-bip_39_word_no_space_9: dancesingautotriminjectfestivalguessarttest
-bip_39_word_space_0:
-- dance
-- sing
-- auto
-- trim
-- inject
-- festival
-- guess
-- art
-- test
-- wet
-- what
-- abstract
-bip_39_word_space_1: dance
-bip_39_word_space_10: dance sing auto trim inject festival guess art test wet
-bip_39_word_space_11: dance sing auto trim inject festival guess art test wet what
 bip_39_word_space_12: dance sing auto trim inject festival guess art test wet what
   abstract
 bip_39_word_space_2: dance sing
 bip_39_word_space_3: dance sing auto
-bip_39_word_space_4: dance sing auto trim
-bip_39_word_space_5: dance sing auto trim inject
-bip_39_word_space_6: dance sing auto trim inject festival
-bip_39_word_space_7: dance sing auto trim inject festival guess
-bip_39_word_space_8: dance sing auto trim inject festival guess art
-bip_39_word_space_9: dance sing auto trim inject festival guess art test
-bip_39_word_underscore_1: dance
-bip_39_word_underscore_10: dance_sing_auto_trim_inject_festival_guess_art_test_wet
-bip_39_word_underscore_11: dance_sing_auto_trim_inject_festival_guess_art_test_wet_what
 bip_39_word_underscore_12: dance_sing_auto_trim_inject_festival_guess_art_test_wet_what_abstract
 bip_39_word_underscore_2: dance_sing
 bip_39_word_underscore_3: dance_sing_auto
-bip_39_word_underscore_4: dance_sing_auto_trim
-bip_39_word_underscore_5: dance_sing_auto_trim_inject
-bip_39_word_underscore_6: dance_sing_auto_trim_inject_festival
-bip_39_word_underscore_7: dance_sing_auto_trim_inject_festival_guess
-bip_39_word_underscore_8: dance_sing_auto_trim_inject_festival_guess_art
-bip_39_word_underscore_9: dance_sing_auto_trim_inject_festival_guess_art_test
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: child
-bip_39_word_dash_10: child-table-shallow-stone-swing-sadness-silent-wrestle-rebuild-recall
-bip_39_word_dash_11: child-table-shallow-stone-swing-sadness-silent-wrestle-rebuild-recall-lens
 bip_39_word_dash_12: child-table-shallow-stone-swing-sadness-silent-wrestle-rebuild-recall-lens-acid
 bip_39_word_dash_2: child-table
 bip_39_word_dash_3: child-table-shallow
-bip_39_word_dash_4: child-table-shallow-stone
-bip_39_word_dash_5: child-table-shallow-stone-swing
-bip_39_word_dash_6: child-table-shallow-stone-swing-sadness
-bip_39_word_dash_7: child-table-shallow-stone-swing-sadness-silent
-bip_39_word_dash_8: child-table-shallow-stone-swing-sadness-silent-wrestle
-bip_39_word_dash_9: child-table-shallow-stone-swing-sadness-silent-wrestle-rebuild
-bip_39_word_new_br_1: child
-bip_39_word_new_br_10: child<br>table<br>shallow<br>stone<br>swing<br>sadness<br>silent<br>wrestle<br>rebuild<br>recall
-bip_39_word_new_br_11: child<br>table<br>shallow<br>stone<br>swing<br>sadness<br>silent<br>wrestle<br>rebuild<br>recall<br>lens
 bip_39_word_new_br_12: child<br>table<br>shallow<br>stone<br>swing<br>sadness<br>silent<br>wrestle<br>rebuild<br>recall<br>lens<br>acid
 bip_39_word_new_br_2: child<br>table
 bip_39_word_new_br_3: child<br>table<br>shallow
-bip_39_word_new_br_4: child<br>table<br>shallow<br>stone
-bip_39_word_new_br_5: child<br>table<br>shallow<br>stone<br>swing
-bip_39_word_new_br_6: child<br>table<br>shallow<br>stone<br>swing<br>sadness
-bip_39_word_new_br_7: child<br>table<br>shallow<br>stone<br>swing<br>sadness<br>silent
-bip_39_word_new_br_8: child<br>table<br>shallow<br>stone<br>swing<br>sadness<br>silent<br>wrestle
-bip_39_word_new_br_9: child<br>table<br>shallow<br>stone<br>swing<br>sadness<br>silent<br>wrestle<br>rebuild
-bip_39_word_new_line_1: child
-bip_39_word_new_line_10: 'child
-
-  table
-
-  shallow
-
-  stone
-
-  swing
-
-  sadness
-
-  silent
-
-  wrestle
-
-  rebuild
-
-  recall'
-bip_39_word_new_line_11: 'child
-
-  table
-
-  shallow
-
-  stone
-
-  swing
-
-  sadness
-
-  silent
-
-  wrestle
-
-  rebuild
-
-  recall
-
-  lens'
 bip_39_word_new_line_12: 'child
 
   table
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'child
   table
 
   shallow'
-bip_39_word_new_line_4: 'child
-
-  table
-
-  shallow
-
-  stone'
-bip_39_word_new_line_5: 'child
-
-  table
-
-  shallow
-
-  stone
-
-  swing'
-bip_39_word_new_line_6: 'child
-
-  table
-
-  shallow
-
-  stone
-
-  swing
-
-  sadness'
-bip_39_word_new_line_7: 'child
-
-  table
-
-  shallow
-
-  stone
-
-  swing
-
-  sadness
-
-  silent'
-bip_39_word_new_line_8: 'child
-
-  table
-
-  shallow
-
-  stone
-
-  swing
-
-  sadness
-
-  silent
-
-  wrestle'
-bip_39_word_new_line_9: 'child
-
-  table
-
-  shallow
-
-  stone
-
-  swing
-
-  sadness
-
-  silent
-
-  wrestle
-
-  rebuild'
-bip_39_word_no_space_1: child
-bip_39_word_no_space_10: childtableshallowstoneswingsadnesssilentwrestlerebuildrecall
-bip_39_word_no_space_11: childtableshallowstoneswingsadnesssilentwrestlerebuildrecalllens
 bip_39_word_no_space_12: childtableshallowstoneswingsadnesssilentwrestlerebuildrecalllensacid
 bip_39_word_no_space_2: childtable
 bip_39_word_no_space_3: childtableshallow
-bip_39_word_no_space_4: childtableshallowstone
-bip_39_word_no_space_5: childtableshallowstoneswing
-bip_39_word_no_space_6: childtableshallowstoneswingsadness
-bip_39_word_no_space_7: childtableshallowstoneswingsadnesssilent
-bip_39_word_no_space_8: childtableshallowstoneswingsadnesssilentwrestle
-bip_39_word_no_space_9: childtableshallowstoneswingsadnesssilentwrestlerebuild
-bip_39_word_space_0:
-- child
-- table
-- shallow
-- stone
-- swing
-- sadness
-- silent
-- wrestle
-- rebuild
-- recall
-- lens
-- acid
-bip_39_word_space_1: child
-bip_39_word_space_10: child table shallow stone swing sadness silent wrestle rebuild
-  recall
-bip_39_word_space_11: child table shallow stone swing sadness silent wrestle rebuild
-  recall lens
 bip_39_word_space_12: child table shallow stone swing sadness silent wrestle rebuild
   recall lens acid
 bip_39_word_space_2: child table
 bip_39_word_space_3: child table shallow
-bip_39_word_space_4: child table shallow stone
-bip_39_word_space_5: child table shallow stone swing
-bip_39_word_space_6: child table shallow stone swing sadness
-bip_39_word_space_7: child table shallow stone swing sadness silent
-bip_39_word_space_8: child table shallow stone swing sadness silent wrestle
-bip_39_word_space_9: child table shallow stone swing sadness silent wrestle rebuild
-bip_39_word_underscore_1: child
-bip_39_word_underscore_10: child_table_shallow_stone_swing_sadness_silent_wrestle_rebuild_recall
-bip_39_word_underscore_11: child_table_shallow_stone_swing_sadness_silent_wrestle_rebuild_recall_lens
 bip_39_word_underscore_12: child_table_shallow_stone_swing_sadness_silent_wrestle_rebuild_recall_lens_acid
 bip_39_word_underscore_2: child_table
 bip_39_word_underscore_3: child_table_shallow
-bip_39_word_underscore_4: child_table_shallow_stone
-bip_39_word_underscore_5: child_table_shallow_stone_swing
-bip_39_word_underscore_6: child_table_shallow_stone_swing_sadness
-bip_39_word_underscore_7: child_table_shallow_stone_swing_sadness_silent
-bip_39_word_underscore_8: child_table_shallow_stone_swing_sadness_silent_wrestle
-bip_39_word_underscore_9: child_table_shallow_stone_swing_sadness_silent_wrestle_rebuild
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

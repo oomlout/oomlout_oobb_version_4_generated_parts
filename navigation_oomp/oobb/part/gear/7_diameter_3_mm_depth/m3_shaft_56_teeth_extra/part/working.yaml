@@ -1,68 +1,9 @@
-bip_39_word_dash_1: custom
-bip_39_word_dash_10: custom-omit-notable-action-rubber-soon-defy-camp-invest-obscure
-bip_39_word_dash_11: custom-omit-notable-action-rubber-soon-defy-camp-invest-obscure-leg
 bip_39_word_dash_12: custom-omit-notable-action-rubber-soon-defy-camp-invest-obscure-leg-announce
 bip_39_word_dash_2: custom-omit
 bip_39_word_dash_3: custom-omit-notable
-bip_39_word_dash_4: custom-omit-notable-action
-bip_39_word_dash_5: custom-omit-notable-action-rubber
-bip_39_word_dash_6: custom-omit-notable-action-rubber-soon
-bip_39_word_dash_7: custom-omit-notable-action-rubber-soon-defy
-bip_39_word_dash_8: custom-omit-notable-action-rubber-soon-defy-camp
-bip_39_word_dash_9: custom-omit-notable-action-rubber-soon-defy-camp-invest
-bip_39_word_new_br_1: custom
-bip_39_word_new_br_10: custom<br>omit<br>notable<br>action<br>rubber<br>soon<br>defy<br>camp<br>invest<br>obscure
-bip_39_word_new_br_11: custom<br>omit<br>notable<br>action<br>rubber<br>soon<br>defy<br>camp<br>invest<br>obscure<br>leg
 bip_39_word_new_br_12: custom<br>omit<br>notable<br>action<br>rubber<br>soon<br>defy<br>camp<br>invest<br>obscure<br>leg<br>announce
 bip_39_word_new_br_2: custom<br>omit
 bip_39_word_new_br_3: custom<br>omit<br>notable
-bip_39_word_new_br_4: custom<br>omit<br>notable<br>action
-bip_39_word_new_br_5: custom<br>omit<br>notable<br>action<br>rubber
-bip_39_word_new_br_6: custom<br>omit<br>notable<br>action<br>rubber<br>soon
-bip_39_word_new_br_7: custom<br>omit<br>notable<br>action<br>rubber<br>soon<br>defy
-bip_39_word_new_br_8: custom<br>omit<br>notable<br>action<br>rubber<br>soon<br>defy<br>camp
-bip_39_word_new_br_9: custom<br>omit<br>notable<br>action<br>rubber<br>soon<br>defy<br>camp<br>invest
-bip_39_word_new_line_1: custom
-bip_39_word_new_line_10: 'custom
-
-  omit
-
-  notable
-
-  action
-
-  rubber
-
-  soon
-
-  defy
-
-  camp
-
-  invest
-
-  obscure'
-bip_39_word_new_line_11: 'custom
-
-  omit
-
-  notable
-
-  action
-
-  rubber
-
-  soon
-
-  defy
-
-  camp
-
-  invest
-
-  obscure
-
-  leg'
 bip_39_word_new_line_12: 'custom
 
   omit
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'custom
   omit
 
   notable'
-bip_39_word_new_line_4: 'custom
-
-  omit
-
-  notable
-
-  action'
-bip_39_word_new_line_5: 'custom
-
-  omit
-
-  notable
-
-  action
-
-  rubber'
-bip_39_word_new_line_6: 'custom
-
-  omit
-
-  notable
-
-  action
-
-  rubber
-
-  soon'
-bip_39_word_new_line_7: 'custom
-
-  omit
-
-  notable
-
-  action
-
-  rubber
-
-  soon
-
-  defy'
-bip_39_word_new_line_8: 'custom
-
-  omit
-
-  notable
-
-  action
-
-  rubber
-
-  soon
-
-  defy
-
-  camp'
-bip_39_word_new_line_9: 'custom
-
-  omit
-
-  notable
-
-  action
-
-  rubber
-
-  soon
-
-  defy
-
-  camp
-
-  invest'
-bip_39_word_no_space_1: custom
-bip_39_word_no_space_10: customomitnotableactionrubbersoondefycampinvestobscure
-bip_39_word_no_space_11: customomitnotableactionrubbersoondefycampinvestobscureleg
 bip_39_word_no_space_12: customomitnotableactionrubbersoondefycampinvestobscurelegannounce
 bip_39_word_no_space_2: customomit
 bip_39_word_no_space_3: customomitnotable
-bip_39_word_no_space_4: customomitnotableaction
-bip_39_word_no_space_5: customomitnotableactionrubber
-bip_39_word_no_space_6: customomitnotableactionrubbersoon
-bip_39_word_no_space_7: customomitnotableactionrubbersoondefy
-bip_39_word_no_space_8: customomitnotableactionrubbersoondefycamp
-bip_39_word_no_space_9: customomitnotableactionrubbersoondefycampinvest
-bip_39_word_space_0:
-- custom
-- omit
-- notable
-- action
-- rubber
-- soon
-- defy
-- camp
-- invest
-- obscure
-- leg
-- announce
-bip_39_word_space_1: custom
-bip_39_word_space_10: custom omit notable action rubber soon defy camp invest obscure
-bip_39_word_space_11: custom omit notable action rubber soon defy camp invest obscure
-  leg
 bip_39_word_space_12: custom omit notable action rubber soon defy camp invest obscure
   leg announce
 bip_39_word_space_2: custom omit
 bip_39_word_space_3: custom omit notable
-bip_39_word_space_4: custom omit notable action
-bip_39_word_space_5: custom omit notable action rubber
-bip_39_word_space_6: custom omit notable action rubber soon
-bip_39_word_space_7: custom omit notable action rubber soon defy
-bip_39_word_space_8: custom omit notable action rubber soon defy camp
-bip_39_word_space_9: custom omit notable action rubber soon defy camp invest
-bip_39_word_underscore_1: custom
-bip_39_word_underscore_10: custom_omit_notable_action_rubber_soon_defy_camp_invest_obscure
-bip_39_word_underscore_11: custom_omit_notable_action_rubber_soon_defy_camp_invest_obscure_leg
 bip_39_word_underscore_12: custom_omit_notable_action_rubber_soon_defy_camp_invest_obscure_leg_announce
 bip_39_word_underscore_2: custom_omit
 bip_39_word_underscore_3: custom_omit_notable
-bip_39_word_underscore_4: custom_omit_notable_action
-bip_39_word_underscore_5: custom_omit_notable_action_rubber
-bip_39_word_underscore_6: custom_omit_notable_action_rubber_soon
-bip_39_word_underscore_7: custom_omit_notable_action_rubber_soon_defy
-bip_39_word_underscore_8: custom_omit_notable_action_rubber_soon_defy_camp
-bip_39_word_underscore_9: custom_omit_notable_action_rubber_soon_defy_camp_invest
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

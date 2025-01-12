@@ -1,68 +1,9 @@
-bip_39_word_dash_1: day
-bip_39_word_dash_10: day-apple-gravity-rebel-tilt-young-code-mad-rigid-local
-bip_39_word_dash_11: day-apple-gravity-rebel-tilt-young-code-mad-rigid-local-violin
 bip_39_word_dash_12: day-apple-gravity-rebel-tilt-young-code-mad-rigid-local-violin-artefact
 bip_39_word_dash_2: day-apple
 bip_39_word_dash_3: day-apple-gravity
-bip_39_word_dash_4: day-apple-gravity-rebel
-bip_39_word_dash_5: day-apple-gravity-rebel-tilt
-bip_39_word_dash_6: day-apple-gravity-rebel-tilt-young
-bip_39_word_dash_7: day-apple-gravity-rebel-tilt-young-code
-bip_39_word_dash_8: day-apple-gravity-rebel-tilt-young-code-mad
-bip_39_word_dash_9: day-apple-gravity-rebel-tilt-young-code-mad-rigid
-bip_39_word_new_br_1: day
-bip_39_word_new_br_10: day<br>apple<br>gravity<br>rebel<br>tilt<br>young<br>code<br>mad<br>rigid<br>local
-bip_39_word_new_br_11: day<br>apple<br>gravity<br>rebel<br>tilt<br>young<br>code<br>mad<br>rigid<br>local<br>violin
 bip_39_word_new_br_12: day<br>apple<br>gravity<br>rebel<br>tilt<br>young<br>code<br>mad<br>rigid<br>local<br>violin<br>artefact
 bip_39_word_new_br_2: day<br>apple
 bip_39_word_new_br_3: day<br>apple<br>gravity
-bip_39_word_new_br_4: day<br>apple<br>gravity<br>rebel
-bip_39_word_new_br_5: day<br>apple<br>gravity<br>rebel<br>tilt
-bip_39_word_new_br_6: day<br>apple<br>gravity<br>rebel<br>tilt<br>young
-bip_39_word_new_br_7: day<br>apple<br>gravity<br>rebel<br>tilt<br>young<br>code
-bip_39_word_new_br_8: day<br>apple<br>gravity<br>rebel<br>tilt<br>young<br>code<br>mad
-bip_39_word_new_br_9: day<br>apple<br>gravity<br>rebel<br>tilt<br>young<br>code<br>mad<br>rigid
-bip_39_word_new_line_1: day
-bip_39_word_new_line_10: 'day
-
-  apple
-
-  gravity
-
-  rebel
-
-  tilt
-
-  young
-
-  code
-
-  mad
-
-  rigid
-
-  local'
-bip_39_word_new_line_11: 'day
-
-  apple
-
-  gravity
-
-  rebel
-
-  tilt
-
-  young
-
-  code
-
-  mad
-
-  rigid
-
-  local
-
-  violin'
 bip_39_word_new_line_12: 'day
 
   apple
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'day
   apple
 
   gravity'
-bip_39_word_new_line_4: 'day
-
-  apple
-
-  gravity
-
-  rebel'
-bip_39_word_new_line_5: 'day
-
-  apple
-
-  gravity
-
-  rebel
-
-  tilt'
-bip_39_word_new_line_6: 'day
-
-  apple
-
-  gravity
-
-  rebel
-
-  tilt
-
-  young'
-bip_39_word_new_line_7: 'day
-
-  apple
-
-  gravity
-
-  rebel
-
-  tilt
-
-  young
-
-  code'
-bip_39_word_new_line_8: 'day
-
-  apple
-
-  gravity
-
-  rebel
-
-  tilt
-
-  young
-
-  code
-
-  mad'
-bip_39_word_new_line_9: 'day
-
-  apple
-
-  gravity
-
-  rebel
-
-  tilt
-
-  young
-
-  code
-
-  mad
-
-  rigid'
-bip_39_word_no_space_1: day
-bip_39_word_no_space_10: dayapplegravityrebeltiltyoungcodemadrigidlocal
-bip_39_word_no_space_11: dayapplegravityrebeltiltyoungcodemadrigidlocalviolin
 bip_39_word_no_space_12: dayapplegravityrebeltiltyoungcodemadrigidlocalviolinartefact
 bip_39_word_no_space_2: dayapple
 bip_39_word_no_space_3: dayapplegravity
-bip_39_word_no_space_4: dayapplegravityrebel
-bip_39_word_no_space_5: dayapplegravityrebeltilt
-bip_39_word_no_space_6: dayapplegravityrebeltiltyoung
-bip_39_word_no_space_7: dayapplegravityrebeltiltyoungcode
-bip_39_word_no_space_8: dayapplegravityrebeltiltyoungcodemad
-bip_39_word_no_space_9: dayapplegravityrebeltiltyoungcodemadrigid
-bip_39_word_space_0:
-- day
-- apple
-- gravity
-- rebel
-- tilt
-- young
-- code
-- mad
-- rigid
-- local
-- violin
-- artefact
-bip_39_word_space_1: day
-bip_39_word_space_10: day apple gravity rebel tilt young code mad rigid local
-bip_39_word_space_11: day apple gravity rebel tilt young code mad rigid local violin
 bip_39_word_space_12: day apple gravity rebel tilt young code mad rigid local violin
   artefact
 bip_39_word_space_2: day apple
 bip_39_word_space_3: day apple gravity
-bip_39_word_space_4: day apple gravity rebel
-bip_39_word_space_5: day apple gravity rebel tilt
-bip_39_word_space_6: day apple gravity rebel tilt young
-bip_39_word_space_7: day apple gravity rebel tilt young code
-bip_39_word_space_8: day apple gravity rebel tilt young code mad
-bip_39_word_space_9: day apple gravity rebel tilt young code mad rigid
-bip_39_word_underscore_1: day
-bip_39_word_underscore_10: day_apple_gravity_rebel_tilt_young_code_mad_rigid_local
-bip_39_word_underscore_11: day_apple_gravity_rebel_tilt_young_code_mad_rigid_local_violin
 bip_39_word_underscore_12: day_apple_gravity_rebel_tilt_young_code_mad_rigid_local_violin_artefact
 bip_39_word_underscore_2: day_apple
 bip_39_word_underscore_3: day_apple_gravity
-bip_39_word_underscore_4: day_apple_gravity_rebel
-bip_39_word_underscore_5: day_apple_gravity_rebel_tilt
-bip_39_word_underscore_6: day_apple_gravity_rebel_tilt_young
-bip_39_word_underscore_7: day_apple_gravity_rebel_tilt_young_code
-bip_39_word_underscore_8: day_apple_gravity_rebel_tilt_young_code_mad
-bip_39_word_underscore_9: day_apple_gravity_rebel_tilt_young_code_mad_rigid
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

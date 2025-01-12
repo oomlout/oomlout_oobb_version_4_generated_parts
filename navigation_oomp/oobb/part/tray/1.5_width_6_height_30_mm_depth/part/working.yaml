@@ -1,68 +1,9 @@
-bip_39_word_dash_1: rich
-bip_39_word_dash_10: rich-world-green-coral-gossip-salute-blush-keen-beef-eye
-bip_39_word_dash_11: rich-world-green-coral-gossip-salute-blush-keen-beef-eye-canal
 bip_39_word_dash_12: rich-world-green-coral-gossip-salute-blush-keen-beef-eye-canal-asset
 bip_39_word_dash_2: rich-world
 bip_39_word_dash_3: rich-world-green
-bip_39_word_dash_4: rich-world-green-coral
-bip_39_word_dash_5: rich-world-green-coral-gossip
-bip_39_word_dash_6: rich-world-green-coral-gossip-salute
-bip_39_word_dash_7: rich-world-green-coral-gossip-salute-blush
-bip_39_word_dash_8: rich-world-green-coral-gossip-salute-blush-keen
-bip_39_word_dash_9: rich-world-green-coral-gossip-salute-blush-keen-beef
-bip_39_word_new_br_1: rich
-bip_39_word_new_br_10: rich<br>world<br>green<br>coral<br>gossip<br>salute<br>blush<br>keen<br>beef<br>eye
-bip_39_word_new_br_11: rich<br>world<br>green<br>coral<br>gossip<br>salute<br>blush<br>keen<br>beef<br>eye<br>canal
 bip_39_word_new_br_12: rich<br>world<br>green<br>coral<br>gossip<br>salute<br>blush<br>keen<br>beef<br>eye<br>canal<br>asset
 bip_39_word_new_br_2: rich<br>world
 bip_39_word_new_br_3: rich<br>world<br>green
-bip_39_word_new_br_4: rich<br>world<br>green<br>coral
-bip_39_word_new_br_5: rich<br>world<br>green<br>coral<br>gossip
-bip_39_word_new_br_6: rich<br>world<br>green<br>coral<br>gossip<br>salute
-bip_39_word_new_br_7: rich<br>world<br>green<br>coral<br>gossip<br>salute<br>blush
-bip_39_word_new_br_8: rich<br>world<br>green<br>coral<br>gossip<br>salute<br>blush<br>keen
-bip_39_word_new_br_9: rich<br>world<br>green<br>coral<br>gossip<br>salute<br>blush<br>keen<br>beef
-bip_39_word_new_line_1: rich
-bip_39_word_new_line_10: 'rich
-
-  world
-
-  green
-
-  coral
-
-  gossip
-
-  salute
-
-  blush
-
-  keen
-
-  beef
-
-  eye'
-bip_39_word_new_line_11: 'rich
-
-  world
-
-  green
-
-  coral
-
-  gossip
-
-  salute
-
-  blush
-
-  keen
-
-  beef
-
-  eye
-
-  canal'
 bip_39_word_new_line_12: 'rich
 
   world
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'rich
   world
 
   green'
-bip_39_word_new_line_4: 'rich
-
-  world
-
-  green
-
-  coral'
-bip_39_word_new_line_5: 'rich
-
-  world
-
-  green
-
-  coral
-
-  gossip'
-bip_39_word_new_line_6: 'rich
-
-  world
-
-  green
-
-  coral
-
-  gossip
-
-  salute'
-bip_39_word_new_line_7: 'rich
-
-  world
-
-  green
-
-  coral
-
-  gossip
-
-  salute
-
-  blush'
-bip_39_word_new_line_8: 'rich
-
-  world
-
-  green
-
-  coral
-
-  gossip
-
-  salute
-
-  blush
-
-  keen'
-bip_39_word_new_line_9: 'rich
-
-  world
-
-  green
-
-  coral
-
-  gossip
-
-  salute
-
-  blush
-
-  keen
-
-  beef'
-bip_39_word_no_space_1: rich
-bip_39_word_no_space_10: richworldgreencoralgossipsaluteblushkeenbeefeye
-bip_39_word_no_space_11: richworldgreencoralgossipsaluteblushkeenbeefeyecanal
 bip_39_word_no_space_12: richworldgreencoralgossipsaluteblushkeenbeefeyecanalasset
 bip_39_word_no_space_2: richworld
 bip_39_word_no_space_3: richworldgreen
-bip_39_word_no_space_4: richworldgreencoral
-bip_39_word_no_space_5: richworldgreencoralgossip
-bip_39_word_no_space_6: richworldgreencoralgossipsalute
-bip_39_word_no_space_7: richworldgreencoralgossipsaluteblush
-bip_39_word_no_space_8: richworldgreencoralgossipsaluteblushkeen
-bip_39_word_no_space_9: richworldgreencoralgossipsaluteblushkeenbeef
-bip_39_word_space_0:
-- rich
-- world
-- green
-- coral
-- gossip
-- salute
-- blush
-- keen
-- beef
-- eye
-- canal
-- asset
-bip_39_word_space_1: rich
-bip_39_word_space_10: rich world green coral gossip salute blush keen beef eye
-bip_39_word_space_11: rich world green coral gossip salute blush keen beef eye canal
 bip_39_word_space_12: rich world green coral gossip salute blush keen beef eye canal
   asset
 bip_39_word_space_2: rich world
 bip_39_word_space_3: rich world green
-bip_39_word_space_4: rich world green coral
-bip_39_word_space_5: rich world green coral gossip
-bip_39_word_space_6: rich world green coral gossip salute
-bip_39_word_space_7: rich world green coral gossip salute blush
-bip_39_word_space_8: rich world green coral gossip salute blush keen
-bip_39_word_space_9: rich world green coral gossip salute blush keen beef
-bip_39_word_underscore_1: rich
-bip_39_word_underscore_10: rich_world_green_coral_gossip_salute_blush_keen_beef_eye
-bip_39_word_underscore_11: rich_world_green_coral_gossip_salute_blush_keen_beef_eye_canal
 bip_39_word_underscore_12: rich_world_green_coral_gossip_salute_blush_keen_beef_eye_canal_asset
 bip_39_word_underscore_2: rich_world
 bip_39_word_underscore_3: rich_world_green
-bip_39_word_underscore_4: rich_world_green_coral
-bip_39_word_underscore_5: rich_world_green_coral_gossip
-bip_39_word_underscore_6: rich_world_green_coral_gossip_salute
-bip_39_word_underscore_7: rich_world_green_coral_gossip_salute_blush
-bip_39_word_underscore_8: rich_world_green_coral_gossip_salute_blush_keen
-bip_39_word_underscore_9: rich_world_green_coral_gossip_salute_blush_keen_beef
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

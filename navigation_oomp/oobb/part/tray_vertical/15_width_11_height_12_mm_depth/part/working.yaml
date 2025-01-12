@@ -1,68 +1,9 @@
-bip_39_word_dash_1: usage
-bip_39_word_dash_10: usage-valid-magic-present-donate-damage-opera-bind-kitten-solution
-bip_39_word_dash_11: usage-valid-magic-present-donate-damage-opera-bind-kitten-solution-burst
 bip_39_word_dash_12: usage-valid-magic-present-donate-damage-opera-bind-kitten-solution-burst-acid
 bip_39_word_dash_2: usage-valid
 bip_39_word_dash_3: usage-valid-magic
-bip_39_word_dash_4: usage-valid-magic-present
-bip_39_word_dash_5: usage-valid-magic-present-donate
-bip_39_word_dash_6: usage-valid-magic-present-donate-damage
-bip_39_word_dash_7: usage-valid-magic-present-donate-damage-opera
-bip_39_word_dash_8: usage-valid-magic-present-donate-damage-opera-bind
-bip_39_word_dash_9: usage-valid-magic-present-donate-damage-opera-bind-kitten
-bip_39_word_new_br_1: usage
-bip_39_word_new_br_10: usage<br>valid<br>magic<br>present<br>donate<br>damage<br>opera<br>bind<br>kitten<br>solution
-bip_39_word_new_br_11: usage<br>valid<br>magic<br>present<br>donate<br>damage<br>opera<br>bind<br>kitten<br>solution<br>burst
 bip_39_word_new_br_12: usage<br>valid<br>magic<br>present<br>donate<br>damage<br>opera<br>bind<br>kitten<br>solution<br>burst<br>acid
 bip_39_word_new_br_2: usage<br>valid
 bip_39_word_new_br_3: usage<br>valid<br>magic
-bip_39_word_new_br_4: usage<br>valid<br>magic<br>present
-bip_39_word_new_br_5: usage<br>valid<br>magic<br>present<br>donate
-bip_39_word_new_br_6: usage<br>valid<br>magic<br>present<br>donate<br>damage
-bip_39_word_new_br_7: usage<br>valid<br>magic<br>present<br>donate<br>damage<br>opera
-bip_39_word_new_br_8: usage<br>valid<br>magic<br>present<br>donate<br>damage<br>opera<br>bind
-bip_39_word_new_br_9: usage<br>valid<br>magic<br>present<br>donate<br>damage<br>opera<br>bind<br>kitten
-bip_39_word_new_line_1: usage
-bip_39_word_new_line_10: 'usage
-
-  valid
-
-  magic
-
-  present
-
-  donate
-
-  damage
-
-  opera
-
-  bind
-
-  kitten
-
-  solution'
-bip_39_word_new_line_11: 'usage
-
-  valid
-
-  magic
-
-  present
-
-  donate
-
-  damage
-
-  opera
-
-  bind
-
-  kitten
-
-  solution
-
-  burst'
 bip_39_word_new_line_12: 'usage
 
   valid
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'usage
   valid
 
   magic'
-bip_39_word_new_line_4: 'usage
-
-  valid
-
-  magic
-
-  present'
-bip_39_word_new_line_5: 'usage
-
-  valid
-
-  magic
-
-  present
-
-  donate'
-bip_39_word_new_line_6: 'usage
-
-  valid
-
-  magic
-
-  present
-
-  donate
-
-  damage'
-bip_39_word_new_line_7: 'usage
-
-  valid
-
-  magic
-
-  present
-
-  donate
-
-  damage
-
-  opera'
-bip_39_word_new_line_8: 'usage
-
-  valid
-
-  magic
-
-  present
-
-  donate
-
-  damage
-
-  opera
-
-  bind'
-bip_39_word_new_line_9: 'usage
-
-  valid
-
-  magic
-
-  present
-
-  donate
-
-  damage
-
-  opera
-
-  bind
-
-  kitten'
-bip_39_word_no_space_1: usage
-bip_39_word_no_space_10: usagevalidmagicpresentdonatedamageoperabindkittensolution
-bip_39_word_no_space_11: usagevalidmagicpresentdonatedamageoperabindkittensolutionburst
 bip_39_word_no_space_12: usagevalidmagicpresentdonatedamageoperabindkittensolutionburstacid
 bip_39_word_no_space_2: usagevalid
 bip_39_word_no_space_3: usagevalidmagic
-bip_39_word_no_space_4: usagevalidmagicpresent
-bip_39_word_no_space_5: usagevalidmagicpresentdonate
-bip_39_word_no_space_6: usagevalidmagicpresentdonatedamage
-bip_39_word_no_space_7: usagevalidmagicpresentdonatedamageopera
-bip_39_word_no_space_8: usagevalidmagicpresentdonatedamageoperabind
-bip_39_word_no_space_9: usagevalidmagicpresentdonatedamageoperabindkitten
-bip_39_word_space_0:
-- usage
-- valid
-- magic
-- present
-- donate
-- damage
-- opera
-- bind
-- kitten
-- solution
-- burst
-- acid
-bip_39_word_space_1: usage
-bip_39_word_space_10: usage valid magic present donate damage opera bind kitten solution
-bip_39_word_space_11: usage valid magic present donate damage opera bind kitten solution
-  burst
 bip_39_word_space_12: usage valid magic present donate damage opera bind kitten solution
   burst acid
 bip_39_word_space_2: usage valid
 bip_39_word_space_3: usage valid magic
-bip_39_word_space_4: usage valid magic present
-bip_39_word_space_5: usage valid magic present donate
-bip_39_word_space_6: usage valid magic present donate damage
-bip_39_word_space_7: usage valid magic present donate damage opera
-bip_39_word_space_8: usage valid magic present donate damage opera bind
-bip_39_word_space_9: usage valid magic present donate damage opera bind kitten
-bip_39_word_underscore_1: usage
-bip_39_word_underscore_10: usage_valid_magic_present_donate_damage_opera_bind_kitten_solution
-bip_39_word_underscore_11: usage_valid_magic_present_donate_damage_opera_bind_kitten_solution_burst
 bip_39_word_underscore_12: usage_valid_magic_present_donate_damage_opera_bind_kitten_solution_burst_acid
 bip_39_word_underscore_2: usage_valid
 bip_39_word_underscore_3: usage_valid_magic
-bip_39_word_underscore_4: usage_valid_magic_present
-bip_39_word_underscore_5: usage_valid_magic_present_donate
-bip_39_word_underscore_6: usage_valid_magic_present_donate_damage
-bip_39_word_underscore_7: usage_valid_magic_present_donate_damage_opera
-bip_39_word_underscore_8: usage_valid_magic_present_donate_damage_opera_bind
-bip_39_word_underscore_9: usage_valid_magic_present_donate_damage_opera_bind_kitten
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

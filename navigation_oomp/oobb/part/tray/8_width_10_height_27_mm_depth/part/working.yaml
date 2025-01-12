@@ -1,68 +1,9 @@
-bip_39_word_dash_1: render
-bip_39_word_dash_10: render-advice-usage-found-cube-equip-taxi-fabric-abstract-pelican
-bip_39_word_dash_11: render-advice-usage-found-cube-equip-taxi-fabric-abstract-pelican-recall
 bip_39_word_dash_12: render-advice-usage-found-cube-equip-taxi-fabric-abstract-pelican-recall-asset
 bip_39_word_dash_2: render-advice
 bip_39_word_dash_3: render-advice-usage
-bip_39_word_dash_4: render-advice-usage-found
-bip_39_word_dash_5: render-advice-usage-found-cube
-bip_39_word_dash_6: render-advice-usage-found-cube-equip
-bip_39_word_dash_7: render-advice-usage-found-cube-equip-taxi
-bip_39_word_dash_8: render-advice-usage-found-cube-equip-taxi-fabric
-bip_39_word_dash_9: render-advice-usage-found-cube-equip-taxi-fabric-abstract
-bip_39_word_new_br_1: render
-bip_39_word_new_br_10: render<br>advice<br>usage<br>found<br>cube<br>equip<br>taxi<br>fabric<br>abstract<br>pelican
-bip_39_word_new_br_11: render<br>advice<br>usage<br>found<br>cube<br>equip<br>taxi<br>fabric<br>abstract<br>pelican<br>recall
 bip_39_word_new_br_12: render<br>advice<br>usage<br>found<br>cube<br>equip<br>taxi<br>fabric<br>abstract<br>pelican<br>recall<br>asset
 bip_39_word_new_br_2: render<br>advice
 bip_39_word_new_br_3: render<br>advice<br>usage
-bip_39_word_new_br_4: render<br>advice<br>usage<br>found
-bip_39_word_new_br_5: render<br>advice<br>usage<br>found<br>cube
-bip_39_word_new_br_6: render<br>advice<br>usage<br>found<br>cube<br>equip
-bip_39_word_new_br_7: render<br>advice<br>usage<br>found<br>cube<br>equip<br>taxi
-bip_39_word_new_br_8: render<br>advice<br>usage<br>found<br>cube<br>equip<br>taxi<br>fabric
-bip_39_word_new_br_9: render<br>advice<br>usage<br>found<br>cube<br>equip<br>taxi<br>fabric<br>abstract
-bip_39_word_new_line_1: render
-bip_39_word_new_line_10: 'render
-
-  advice
-
-  usage
-
-  found
-
-  cube
-
-  equip
-
-  taxi
-
-  fabric
-
-  abstract
-
-  pelican'
-bip_39_word_new_line_11: 'render
-
-  advice
-
-  usage
-
-  found
-
-  cube
-
-  equip
-
-  taxi
-
-  fabric
-
-  abstract
-
-  pelican
-
-  recall'
 bip_39_word_new_line_12: 'render
 
   advice
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'render
   advice
 
   usage'
-bip_39_word_new_line_4: 'render
-
-  advice
-
-  usage
-
-  found'
-bip_39_word_new_line_5: 'render
-
-  advice
-
-  usage
-
-  found
-
-  cube'
-bip_39_word_new_line_6: 'render
-
-  advice
-
-  usage
-
-  found
-
-  cube
-
-  equip'
-bip_39_word_new_line_7: 'render
-
-  advice
-
-  usage
-
-  found
-
-  cube
-
-  equip
-
-  taxi'
-bip_39_word_new_line_8: 'render
-
-  advice
-
-  usage
-
-  found
-
-  cube
-
-  equip
-
-  taxi
-
-  fabric'
-bip_39_word_new_line_9: 'render
-
-  advice
-
-  usage
-
-  found
-
-  cube
-
-  equip
-
-  taxi
-
-  fabric
-
-  abstract'
-bip_39_word_no_space_1: render
-bip_39_word_no_space_10: renderadviceusagefoundcubeequiptaxifabricabstractpelican
-bip_39_word_no_space_11: renderadviceusagefoundcubeequiptaxifabricabstractpelicanrecall
 bip_39_word_no_space_12: renderadviceusagefoundcubeequiptaxifabricabstractpelicanrecallasset
 bip_39_word_no_space_2: renderadvice
 bip_39_word_no_space_3: renderadviceusage
-bip_39_word_no_space_4: renderadviceusagefound
-bip_39_word_no_space_5: renderadviceusagefoundcube
-bip_39_word_no_space_6: renderadviceusagefoundcubeequip
-bip_39_word_no_space_7: renderadviceusagefoundcubeequiptaxi
-bip_39_word_no_space_8: renderadviceusagefoundcubeequiptaxifabric
-bip_39_word_no_space_9: renderadviceusagefoundcubeequiptaxifabricabstract
-bip_39_word_space_0:
-- render
-- advice
-- usage
-- found
-- cube
-- equip
-- taxi
-- fabric
-- abstract
-- pelican
-- recall
-- asset
-bip_39_word_space_1: render
-bip_39_word_space_10: render advice usage found cube equip taxi fabric abstract pelican
-bip_39_word_space_11: render advice usage found cube equip taxi fabric abstract pelican
-  recall
 bip_39_word_space_12: render advice usage found cube equip taxi fabric abstract pelican
   recall asset
 bip_39_word_space_2: render advice
 bip_39_word_space_3: render advice usage
-bip_39_word_space_4: render advice usage found
-bip_39_word_space_5: render advice usage found cube
-bip_39_word_space_6: render advice usage found cube equip
-bip_39_word_space_7: render advice usage found cube equip taxi
-bip_39_word_space_8: render advice usage found cube equip taxi fabric
-bip_39_word_space_9: render advice usage found cube equip taxi fabric abstract
-bip_39_word_underscore_1: render
-bip_39_word_underscore_10: render_advice_usage_found_cube_equip_taxi_fabric_abstract_pelican
-bip_39_word_underscore_11: render_advice_usage_found_cube_equip_taxi_fabric_abstract_pelican_recall
 bip_39_word_underscore_12: render_advice_usage_found_cube_equip_taxi_fabric_abstract_pelican_recall_asset
 bip_39_word_underscore_2: render_advice
 bip_39_word_underscore_3: render_advice_usage
-bip_39_word_underscore_4: render_advice_usage_found
-bip_39_word_underscore_5: render_advice_usage_found_cube
-bip_39_word_underscore_6: render_advice_usage_found_cube_equip
-bip_39_word_underscore_7: render_advice_usage_found_cube_equip_taxi
-bip_39_word_underscore_8: render_advice_usage_found_cube_equip_taxi_fabric
-bip_39_word_underscore_9: render_advice_usage_found_cube_equip_taxi_fabric_abstract
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

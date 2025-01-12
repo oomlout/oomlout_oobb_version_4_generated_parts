@@ -1,68 +1,9 @@
-bip_39_word_dash_1: buyer
-bip_39_word_dash_10: buyer-couch-depend-scan-popular-mimic-play-ranch-fuel-clown
-bip_39_word_dash_11: buyer-couch-depend-scan-popular-mimic-play-ranch-fuel-clown-exit
 bip_39_word_dash_12: buyer-couch-depend-scan-popular-mimic-play-ranch-fuel-clown-exit-action
 bip_39_word_dash_2: buyer-couch
 bip_39_word_dash_3: buyer-couch-depend
-bip_39_word_dash_4: buyer-couch-depend-scan
-bip_39_word_dash_5: buyer-couch-depend-scan-popular
-bip_39_word_dash_6: buyer-couch-depend-scan-popular-mimic
-bip_39_word_dash_7: buyer-couch-depend-scan-popular-mimic-play
-bip_39_word_dash_8: buyer-couch-depend-scan-popular-mimic-play-ranch
-bip_39_word_dash_9: buyer-couch-depend-scan-popular-mimic-play-ranch-fuel
-bip_39_word_new_br_1: buyer
-bip_39_word_new_br_10: buyer<br>couch<br>depend<br>scan<br>popular<br>mimic<br>play<br>ranch<br>fuel<br>clown
-bip_39_word_new_br_11: buyer<br>couch<br>depend<br>scan<br>popular<br>mimic<br>play<br>ranch<br>fuel<br>clown<br>exit
 bip_39_word_new_br_12: buyer<br>couch<br>depend<br>scan<br>popular<br>mimic<br>play<br>ranch<br>fuel<br>clown<br>exit<br>action
 bip_39_word_new_br_2: buyer<br>couch
 bip_39_word_new_br_3: buyer<br>couch<br>depend
-bip_39_word_new_br_4: buyer<br>couch<br>depend<br>scan
-bip_39_word_new_br_5: buyer<br>couch<br>depend<br>scan<br>popular
-bip_39_word_new_br_6: buyer<br>couch<br>depend<br>scan<br>popular<br>mimic
-bip_39_word_new_br_7: buyer<br>couch<br>depend<br>scan<br>popular<br>mimic<br>play
-bip_39_word_new_br_8: buyer<br>couch<br>depend<br>scan<br>popular<br>mimic<br>play<br>ranch
-bip_39_word_new_br_9: buyer<br>couch<br>depend<br>scan<br>popular<br>mimic<br>play<br>ranch<br>fuel
-bip_39_word_new_line_1: buyer
-bip_39_word_new_line_10: 'buyer
-
-  couch
-
-  depend
-
-  scan
-
-  popular
-
-  mimic
-
-  play
-
-  ranch
-
-  fuel
-
-  clown'
-bip_39_word_new_line_11: 'buyer
-
-  couch
-
-  depend
-
-  scan
-
-  popular
-
-  mimic
-
-  play
-
-  ranch
-
-  fuel
-
-  clown
-
-  exit'
 bip_39_word_new_line_12: 'buyer
 
   couch
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'buyer
   couch
 
   depend'
-bip_39_word_new_line_4: 'buyer
-
-  couch
-
-  depend
-
-  scan'
-bip_39_word_new_line_5: 'buyer
-
-  couch
-
-  depend
-
-  scan
-
-  popular'
-bip_39_word_new_line_6: 'buyer
-
-  couch
-
-  depend
-
-  scan
-
-  popular
-
-  mimic'
-bip_39_word_new_line_7: 'buyer
-
-  couch
-
-  depend
-
-  scan
-
-  popular
-
-  mimic
-
-  play'
-bip_39_word_new_line_8: 'buyer
-
-  couch
-
-  depend
-
-  scan
-
-  popular
-
-  mimic
-
-  play
-
-  ranch'
-bip_39_word_new_line_9: 'buyer
-
-  couch
-
-  depend
-
-  scan
-
-  popular
-
-  mimic
-
-  play
-
-  ranch
-
-  fuel'
-bip_39_word_no_space_1: buyer
-bip_39_word_no_space_10: buyercouchdependscanpopularmimicplayranchfuelclown
-bip_39_word_no_space_11: buyercouchdependscanpopularmimicplayranchfuelclownexit
 bip_39_word_no_space_12: buyercouchdependscanpopularmimicplayranchfuelclownexitaction
 bip_39_word_no_space_2: buyercouch
 bip_39_word_no_space_3: buyercouchdepend
-bip_39_word_no_space_4: buyercouchdependscan
-bip_39_word_no_space_5: buyercouchdependscanpopular
-bip_39_word_no_space_6: buyercouchdependscanpopularmimic
-bip_39_word_no_space_7: buyercouchdependscanpopularmimicplay
-bip_39_word_no_space_8: buyercouchdependscanpopularmimicplayranch
-bip_39_word_no_space_9: buyercouchdependscanpopularmimicplayranchfuel
-bip_39_word_space_0:
-- buyer
-- couch
-- depend
-- scan
-- popular
-- mimic
-- play
-- ranch
-- fuel
-- clown
-- exit
-- action
-bip_39_word_space_1: buyer
-bip_39_word_space_10: buyer couch depend scan popular mimic play ranch fuel clown
-bip_39_word_space_11: buyer couch depend scan popular mimic play ranch fuel clown
-  exit
 bip_39_word_space_12: buyer couch depend scan popular mimic play ranch fuel clown
   exit action
 bip_39_word_space_2: buyer couch
 bip_39_word_space_3: buyer couch depend
-bip_39_word_space_4: buyer couch depend scan
-bip_39_word_space_5: buyer couch depend scan popular
-bip_39_word_space_6: buyer couch depend scan popular mimic
-bip_39_word_space_7: buyer couch depend scan popular mimic play
-bip_39_word_space_8: buyer couch depend scan popular mimic play ranch
-bip_39_word_space_9: buyer couch depend scan popular mimic play ranch fuel
-bip_39_word_underscore_1: buyer
-bip_39_word_underscore_10: buyer_couch_depend_scan_popular_mimic_play_ranch_fuel_clown
-bip_39_word_underscore_11: buyer_couch_depend_scan_popular_mimic_play_ranch_fuel_clown_exit
 bip_39_word_underscore_12: buyer_couch_depend_scan_popular_mimic_play_ranch_fuel_clown_exit_action
 bip_39_word_underscore_2: buyer_couch
 bip_39_word_underscore_3: buyer_couch_depend
-bip_39_word_underscore_4: buyer_couch_depend_scan
-bip_39_word_underscore_5: buyer_couch_depend_scan_popular
-bip_39_word_underscore_6: buyer_couch_depend_scan_popular_mimic
-bip_39_word_underscore_7: buyer_couch_depend_scan_popular_mimic_play
-bip_39_word_underscore_8: buyer_couch_depend_scan_popular_mimic_play_ranch
-bip_39_word_underscore_9: buyer_couch_depend_scan_popular_mimic_play_ranch_fuel
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

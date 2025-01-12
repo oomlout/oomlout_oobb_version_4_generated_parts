@@ -1,68 +1,9 @@
-bip_39_word_dash_1: grunt
-bip_39_word_dash_10: grunt-lemon-chaos-inhale-pepper-survey-antique-appear-favorite-yellow
-bip_39_word_dash_11: grunt-lemon-chaos-inhale-pepper-survey-antique-appear-favorite-yellow-syrup
 bip_39_word_dash_12: grunt-lemon-chaos-inhale-pepper-survey-antique-appear-favorite-yellow-syrup-art
 bip_39_word_dash_2: grunt-lemon
 bip_39_word_dash_3: grunt-lemon-chaos
-bip_39_word_dash_4: grunt-lemon-chaos-inhale
-bip_39_word_dash_5: grunt-lemon-chaos-inhale-pepper
-bip_39_word_dash_6: grunt-lemon-chaos-inhale-pepper-survey
-bip_39_word_dash_7: grunt-lemon-chaos-inhale-pepper-survey-antique
-bip_39_word_dash_8: grunt-lemon-chaos-inhale-pepper-survey-antique-appear
-bip_39_word_dash_9: grunt-lemon-chaos-inhale-pepper-survey-antique-appear-favorite
-bip_39_word_new_br_1: grunt
-bip_39_word_new_br_10: grunt<br>lemon<br>chaos<br>inhale<br>pepper<br>survey<br>antique<br>appear<br>favorite<br>yellow
-bip_39_word_new_br_11: grunt<br>lemon<br>chaos<br>inhale<br>pepper<br>survey<br>antique<br>appear<br>favorite<br>yellow<br>syrup
 bip_39_word_new_br_12: grunt<br>lemon<br>chaos<br>inhale<br>pepper<br>survey<br>antique<br>appear<br>favorite<br>yellow<br>syrup<br>art
 bip_39_word_new_br_2: grunt<br>lemon
 bip_39_word_new_br_3: grunt<br>lemon<br>chaos
-bip_39_word_new_br_4: grunt<br>lemon<br>chaos<br>inhale
-bip_39_word_new_br_5: grunt<br>lemon<br>chaos<br>inhale<br>pepper
-bip_39_word_new_br_6: grunt<br>lemon<br>chaos<br>inhale<br>pepper<br>survey
-bip_39_word_new_br_7: grunt<br>lemon<br>chaos<br>inhale<br>pepper<br>survey<br>antique
-bip_39_word_new_br_8: grunt<br>lemon<br>chaos<br>inhale<br>pepper<br>survey<br>antique<br>appear
-bip_39_word_new_br_9: grunt<br>lemon<br>chaos<br>inhale<br>pepper<br>survey<br>antique<br>appear<br>favorite
-bip_39_word_new_line_1: grunt
-bip_39_word_new_line_10: 'grunt
-
-  lemon
-
-  chaos
-
-  inhale
-
-  pepper
-
-  survey
-
-  antique
-
-  appear
-
-  favorite
-
-  yellow'
-bip_39_word_new_line_11: 'grunt
-
-  lemon
-
-  chaos
-
-  inhale
-
-  pepper
-
-  survey
-
-  antique
-
-  appear
-
-  favorite
-
-  yellow
-
-  syrup'
 bip_39_word_new_line_12: 'grunt
 
   lemon
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'grunt
   lemon
 
   chaos'
-bip_39_word_new_line_4: 'grunt
-
-  lemon
-
-  chaos
-
-  inhale'
-bip_39_word_new_line_5: 'grunt
-
-  lemon
-
-  chaos
-
-  inhale
-
-  pepper'
-bip_39_word_new_line_6: 'grunt
-
-  lemon
-
-  chaos
-
-  inhale
-
-  pepper
-
-  survey'
-bip_39_word_new_line_7: 'grunt
-
-  lemon
-
-  chaos
-
-  inhale
-
-  pepper
-
-  survey
-
-  antique'
-bip_39_word_new_line_8: 'grunt
-
-  lemon
-
-  chaos
-
-  inhale
-
-  pepper
-
-  survey
-
-  antique
-
-  appear'
-bip_39_word_new_line_9: 'grunt
-
-  lemon
-
-  chaos
-
-  inhale
-
-  pepper
-
-  survey
-
-  antique
-
-  appear
-
-  favorite'
-bip_39_word_no_space_1: grunt
-bip_39_word_no_space_10: gruntlemonchaosinhalepeppersurveyantiqueappearfavoriteyellow
-bip_39_word_no_space_11: gruntlemonchaosinhalepeppersurveyantiqueappearfavoriteyellowsyrup
 bip_39_word_no_space_12: gruntlemonchaosinhalepeppersurveyantiqueappearfavoriteyellowsyrupart
 bip_39_word_no_space_2: gruntlemon
 bip_39_word_no_space_3: gruntlemonchaos
-bip_39_word_no_space_4: gruntlemonchaosinhale
-bip_39_word_no_space_5: gruntlemonchaosinhalepepper
-bip_39_word_no_space_6: gruntlemonchaosinhalepeppersurvey
-bip_39_word_no_space_7: gruntlemonchaosinhalepeppersurveyantique
-bip_39_word_no_space_8: gruntlemonchaosinhalepeppersurveyantiqueappear
-bip_39_word_no_space_9: gruntlemonchaosinhalepeppersurveyantiqueappearfavorite
-bip_39_word_space_0:
-- grunt
-- lemon
-- chaos
-- inhale
-- pepper
-- survey
-- antique
-- appear
-- favorite
-- yellow
-- syrup
-- art
-bip_39_word_space_1: grunt
-bip_39_word_space_10: grunt lemon chaos inhale pepper survey antique appear favorite
-  yellow
-bip_39_word_space_11: grunt lemon chaos inhale pepper survey antique appear favorite
-  yellow syrup
 bip_39_word_space_12: grunt lemon chaos inhale pepper survey antique appear favorite
   yellow syrup art
 bip_39_word_space_2: grunt lemon
 bip_39_word_space_3: grunt lemon chaos
-bip_39_word_space_4: grunt lemon chaos inhale
-bip_39_word_space_5: grunt lemon chaos inhale pepper
-bip_39_word_space_6: grunt lemon chaos inhale pepper survey
-bip_39_word_space_7: grunt lemon chaos inhale pepper survey antique
-bip_39_word_space_8: grunt lemon chaos inhale pepper survey antique appear
-bip_39_word_space_9: grunt lemon chaos inhale pepper survey antique appear favorite
-bip_39_word_underscore_1: grunt
-bip_39_word_underscore_10: grunt_lemon_chaos_inhale_pepper_survey_antique_appear_favorite_yellow
-bip_39_word_underscore_11: grunt_lemon_chaos_inhale_pepper_survey_antique_appear_favorite_yellow_syrup
 bip_39_word_underscore_12: grunt_lemon_chaos_inhale_pepper_survey_antique_appear_favorite_yellow_syrup_art
 bip_39_word_underscore_2: grunt_lemon
 bip_39_word_underscore_3: grunt_lemon_chaos
-bip_39_word_underscore_4: grunt_lemon_chaos_inhale
-bip_39_word_underscore_5: grunt_lemon_chaos_inhale_pepper
-bip_39_word_underscore_6: grunt_lemon_chaos_inhale_pepper_survey
-bip_39_word_underscore_7: grunt_lemon_chaos_inhale_pepper_survey_antique
-bip_39_word_underscore_8: grunt_lemon_chaos_inhale_pepper_survey_antique_appear
-bip_39_word_underscore_9: grunt_lemon_chaos_inhale_pepper_survey_antique_appear_favorite
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

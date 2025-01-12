@@ -1,68 +1,9 @@
-bip_39_word_dash_1: pitch
-bip_39_word_dash_10: pitch-hamster-stadium-napkin-orchard-novel-phone-future-humor-ball
-bip_39_word_dash_11: pitch-hamster-stadium-napkin-orchard-novel-phone-future-humor-ball-auto
 bip_39_word_dash_12: pitch-hamster-stadium-napkin-orchard-novel-phone-future-humor-ball-auto-audit
 bip_39_word_dash_2: pitch-hamster
 bip_39_word_dash_3: pitch-hamster-stadium
-bip_39_word_dash_4: pitch-hamster-stadium-napkin
-bip_39_word_dash_5: pitch-hamster-stadium-napkin-orchard
-bip_39_word_dash_6: pitch-hamster-stadium-napkin-orchard-novel
-bip_39_word_dash_7: pitch-hamster-stadium-napkin-orchard-novel-phone
-bip_39_word_dash_8: pitch-hamster-stadium-napkin-orchard-novel-phone-future
-bip_39_word_dash_9: pitch-hamster-stadium-napkin-orchard-novel-phone-future-humor
-bip_39_word_new_br_1: pitch
-bip_39_word_new_br_10: pitch<br>hamster<br>stadium<br>napkin<br>orchard<br>novel<br>phone<br>future<br>humor<br>ball
-bip_39_word_new_br_11: pitch<br>hamster<br>stadium<br>napkin<br>orchard<br>novel<br>phone<br>future<br>humor<br>ball<br>auto
 bip_39_word_new_br_12: pitch<br>hamster<br>stadium<br>napkin<br>orchard<br>novel<br>phone<br>future<br>humor<br>ball<br>auto<br>audit
 bip_39_word_new_br_2: pitch<br>hamster
 bip_39_word_new_br_3: pitch<br>hamster<br>stadium
-bip_39_word_new_br_4: pitch<br>hamster<br>stadium<br>napkin
-bip_39_word_new_br_5: pitch<br>hamster<br>stadium<br>napkin<br>orchard
-bip_39_word_new_br_6: pitch<br>hamster<br>stadium<br>napkin<br>orchard<br>novel
-bip_39_word_new_br_7: pitch<br>hamster<br>stadium<br>napkin<br>orchard<br>novel<br>phone
-bip_39_word_new_br_8: pitch<br>hamster<br>stadium<br>napkin<br>orchard<br>novel<br>phone<br>future
-bip_39_word_new_br_9: pitch<br>hamster<br>stadium<br>napkin<br>orchard<br>novel<br>phone<br>future<br>humor
-bip_39_word_new_line_1: pitch
-bip_39_word_new_line_10: 'pitch
-
-  hamster
-
-  stadium
-
-  napkin
-
-  orchard
-
-  novel
-
-  phone
-
-  future
-
-  humor
-
-  ball'
-bip_39_word_new_line_11: 'pitch
-
-  hamster
-
-  stadium
-
-  napkin
-
-  orchard
-
-  novel
-
-  phone
-
-  future
-
-  humor
-
-  ball
-
-  auto'
 bip_39_word_new_line_12: 'pitch
 
   hamster
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'pitch
   hamster
 
   stadium'
-bip_39_word_new_line_4: 'pitch
-
-  hamster
-
-  stadium
-
-  napkin'
-bip_39_word_new_line_5: 'pitch
-
-  hamster
-
-  stadium
-
-  napkin
-
-  orchard'
-bip_39_word_new_line_6: 'pitch
-
-  hamster
-
-  stadium
-
-  napkin
-
-  orchard
-
-  novel'
-bip_39_word_new_line_7: 'pitch
-
-  hamster
-
-  stadium
-
-  napkin
-
-  orchard
-
-  novel
-
-  phone'
-bip_39_word_new_line_8: 'pitch
-
-  hamster
-
-  stadium
-
-  napkin
-
-  orchard
-
-  novel
-
-  phone
-
-  future'
-bip_39_word_new_line_9: 'pitch
-
-  hamster
-
-  stadium
-
-  napkin
-
-  orchard
-
-  novel
-
-  phone
-
-  future
-
-  humor'
-bip_39_word_no_space_1: pitch
-bip_39_word_no_space_10: pitchhamsterstadiumnapkinorchardnovelphonefuturehumorball
-bip_39_word_no_space_11: pitchhamsterstadiumnapkinorchardnovelphonefuturehumorballauto
 bip_39_word_no_space_12: pitchhamsterstadiumnapkinorchardnovelphonefuturehumorballautoaudit
 bip_39_word_no_space_2: pitchhamster
 bip_39_word_no_space_3: pitchhamsterstadium
-bip_39_word_no_space_4: pitchhamsterstadiumnapkin
-bip_39_word_no_space_5: pitchhamsterstadiumnapkinorchard
-bip_39_word_no_space_6: pitchhamsterstadiumnapkinorchardnovel
-bip_39_word_no_space_7: pitchhamsterstadiumnapkinorchardnovelphone
-bip_39_word_no_space_8: pitchhamsterstadiumnapkinorchardnovelphonefuture
-bip_39_word_no_space_9: pitchhamsterstadiumnapkinorchardnovelphonefuturehumor
-bip_39_word_space_0:
-- pitch
-- hamster
-- stadium
-- napkin
-- orchard
-- novel
-- phone
-- future
-- humor
-- ball
-- auto
-- audit
-bip_39_word_space_1: pitch
-bip_39_word_space_10: pitch hamster stadium napkin orchard novel phone future humor
-  ball
-bip_39_word_space_11: pitch hamster stadium napkin orchard novel phone future humor
-  ball auto
 bip_39_word_space_12: pitch hamster stadium napkin orchard novel phone future humor
   ball auto audit
 bip_39_word_space_2: pitch hamster
 bip_39_word_space_3: pitch hamster stadium
-bip_39_word_space_4: pitch hamster stadium napkin
-bip_39_word_space_5: pitch hamster stadium napkin orchard
-bip_39_word_space_6: pitch hamster stadium napkin orchard novel
-bip_39_word_space_7: pitch hamster stadium napkin orchard novel phone
-bip_39_word_space_8: pitch hamster stadium napkin orchard novel phone future
-bip_39_word_space_9: pitch hamster stadium napkin orchard novel phone future humor
-bip_39_word_underscore_1: pitch
-bip_39_word_underscore_10: pitch_hamster_stadium_napkin_orchard_novel_phone_future_humor_ball
-bip_39_word_underscore_11: pitch_hamster_stadium_napkin_orchard_novel_phone_future_humor_ball_auto
 bip_39_word_underscore_12: pitch_hamster_stadium_napkin_orchard_novel_phone_future_humor_ball_auto_audit
 bip_39_word_underscore_2: pitch_hamster
 bip_39_word_underscore_3: pitch_hamster_stadium
-bip_39_word_underscore_4: pitch_hamster_stadium_napkin
-bip_39_word_underscore_5: pitch_hamster_stadium_napkin_orchard
-bip_39_word_underscore_6: pitch_hamster_stadium_napkin_orchard_novel
-bip_39_word_underscore_7: pitch_hamster_stadium_napkin_orchard_novel_phone
-bip_39_word_underscore_8: pitch_hamster_stadium_napkin_orchard_novel_phone_future
-bip_39_word_underscore_9: pitch_hamster_stadium_napkin_orchard_novel_phone_future_humor
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: juice
-bip_39_word_dash_10: juice-hover-manual-goose-fog-exit-same-empty-cargo-loop
-bip_39_word_dash_11: juice-hover-manual-goose-fog-exit-same-empty-cargo-loop-planet
 bip_39_word_dash_12: juice-hover-manual-goose-fog-exit-same-empty-cargo-loop-planet-ancient
 bip_39_word_dash_2: juice-hover
 bip_39_word_dash_3: juice-hover-manual
-bip_39_word_dash_4: juice-hover-manual-goose
-bip_39_word_dash_5: juice-hover-manual-goose-fog
-bip_39_word_dash_6: juice-hover-manual-goose-fog-exit
-bip_39_word_dash_7: juice-hover-manual-goose-fog-exit-same
-bip_39_word_dash_8: juice-hover-manual-goose-fog-exit-same-empty
-bip_39_word_dash_9: juice-hover-manual-goose-fog-exit-same-empty-cargo
-bip_39_word_new_br_1: juice
-bip_39_word_new_br_10: juice<br>hover<br>manual<br>goose<br>fog<br>exit<br>same<br>empty<br>cargo<br>loop
-bip_39_word_new_br_11: juice<br>hover<br>manual<br>goose<br>fog<br>exit<br>same<br>empty<br>cargo<br>loop<br>planet
 bip_39_word_new_br_12: juice<br>hover<br>manual<br>goose<br>fog<br>exit<br>same<br>empty<br>cargo<br>loop<br>planet<br>ancient
 bip_39_word_new_br_2: juice<br>hover
 bip_39_word_new_br_3: juice<br>hover<br>manual
-bip_39_word_new_br_4: juice<br>hover<br>manual<br>goose
-bip_39_word_new_br_5: juice<br>hover<br>manual<br>goose<br>fog
-bip_39_word_new_br_6: juice<br>hover<br>manual<br>goose<br>fog<br>exit
-bip_39_word_new_br_7: juice<br>hover<br>manual<br>goose<br>fog<br>exit<br>same
-bip_39_word_new_br_8: juice<br>hover<br>manual<br>goose<br>fog<br>exit<br>same<br>empty
-bip_39_word_new_br_9: juice<br>hover<br>manual<br>goose<br>fog<br>exit<br>same<br>empty<br>cargo
-bip_39_word_new_line_1: juice
-bip_39_word_new_line_10: 'juice
-
-  hover
-
-  manual
-
-  goose
-
-  fog
-
-  exit
-
-  same
-
-  empty
-
-  cargo
-
-  loop'
-bip_39_word_new_line_11: 'juice
-
-  hover
-
-  manual
-
-  goose
-
-  fog
-
-  exit
-
-  same
-
-  empty
-
-  cargo
-
-  loop
-
-  planet'
 bip_39_word_new_line_12: 'juice
 
   hover
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'juice
   hover
 
   manual'
-bip_39_word_new_line_4: 'juice
-
-  hover
-
-  manual
-
-  goose'
-bip_39_word_new_line_5: 'juice
-
-  hover
-
-  manual
-
-  goose
-
-  fog'
-bip_39_word_new_line_6: 'juice
-
-  hover
-
-  manual
-
-  goose
-
-  fog
-
-  exit'
-bip_39_word_new_line_7: 'juice
-
-  hover
-
-  manual
-
-  goose
-
-  fog
-
-  exit
-
-  same'
-bip_39_word_new_line_8: 'juice
-
-  hover
-
-  manual
-
-  goose
-
-  fog
-
-  exit
-
-  same
-
-  empty'
-bip_39_word_new_line_9: 'juice
-
-  hover
-
-  manual
-
-  goose
-
-  fog
-
-  exit
-
-  same
-
-  empty
-
-  cargo'
-bip_39_word_no_space_1: juice
-bip_39_word_no_space_10: juicehovermanualgoosefogexitsameemptycargoloop
-bip_39_word_no_space_11: juicehovermanualgoosefogexitsameemptycargoloopplanet
 bip_39_word_no_space_12: juicehovermanualgoosefogexitsameemptycargoloopplanetancient
 bip_39_word_no_space_2: juicehover
 bip_39_word_no_space_3: juicehovermanual
-bip_39_word_no_space_4: juicehovermanualgoose
-bip_39_word_no_space_5: juicehovermanualgoosefog
-bip_39_word_no_space_6: juicehovermanualgoosefogexit
-bip_39_word_no_space_7: juicehovermanualgoosefogexitsame
-bip_39_word_no_space_8: juicehovermanualgoosefogexitsameempty
-bip_39_word_no_space_9: juicehovermanualgoosefogexitsameemptycargo
-bip_39_word_space_0:
-- juice
-- hover
-- manual
-- goose
-- fog
-- exit
-- same
-- empty
-- cargo
-- loop
-- planet
-- ancient
-bip_39_word_space_1: juice
-bip_39_word_space_10: juice hover manual goose fog exit same empty cargo loop
-bip_39_word_space_11: juice hover manual goose fog exit same empty cargo loop planet
 bip_39_word_space_12: juice hover manual goose fog exit same empty cargo loop planet
   ancient
 bip_39_word_space_2: juice hover
 bip_39_word_space_3: juice hover manual
-bip_39_word_space_4: juice hover manual goose
-bip_39_word_space_5: juice hover manual goose fog
-bip_39_word_space_6: juice hover manual goose fog exit
-bip_39_word_space_7: juice hover manual goose fog exit same
-bip_39_word_space_8: juice hover manual goose fog exit same empty
-bip_39_word_space_9: juice hover manual goose fog exit same empty cargo
-bip_39_word_underscore_1: juice
-bip_39_word_underscore_10: juice_hover_manual_goose_fog_exit_same_empty_cargo_loop
-bip_39_word_underscore_11: juice_hover_manual_goose_fog_exit_same_empty_cargo_loop_planet
 bip_39_word_underscore_12: juice_hover_manual_goose_fog_exit_same_empty_cargo_loop_planet_ancient
 bip_39_word_underscore_2: juice_hover
 bip_39_word_underscore_3: juice_hover_manual
-bip_39_word_underscore_4: juice_hover_manual_goose
-bip_39_word_underscore_5: juice_hover_manual_goose_fog
-bip_39_word_underscore_6: juice_hover_manual_goose_fog_exit
-bip_39_word_underscore_7: juice_hover_manual_goose_fog_exit_same
-bip_39_word_underscore_8: juice_hover_manual_goose_fog_exit_same_empty
-bip_39_word_underscore_9: juice_hover_manual_goose_fog_exit_same_empty_cargo
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

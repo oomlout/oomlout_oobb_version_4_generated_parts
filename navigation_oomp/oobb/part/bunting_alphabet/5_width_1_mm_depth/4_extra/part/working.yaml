@@ -1,68 +1,9 @@
-bip_39_word_dash_1: lava
-bip_39_word_dash_10: lava-assault-clock-palm-deliver-tragic-cool-clump-suffer-volume
-bip_39_word_dash_11: lava-assault-clock-palm-deliver-tragic-cool-clump-suffer-volume-rate
 bip_39_word_dash_12: lava-assault-clock-palm-deliver-tragic-cool-clump-suffer-volume-rate-annual
 bip_39_word_dash_2: lava-assault
 bip_39_word_dash_3: lava-assault-clock
-bip_39_word_dash_4: lava-assault-clock-palm
-bip_39_word_dash_5: lava-assault-clock-palm-deliver
-bip_39_word_dash_6: lava-assault-clock-palm-deliver-tragic
-bip_39_word_dash_7: lava-assault-clock-palm-deliver-tragic-cool
-bip_39_word_dash_8: lava-assault-clock-palm-deliver-tragic-cool-clump
-bip_39_word_dash_9: lava-assault-clock-palm-deliver-tragic-cool-clump-suffer
-bip_39_word_new_br_1: lava
-bip_39_word_new_br_10: lava<br>assault<br>clock<br>palm<br>deliver<br>tragic<br>cool<br>clump<br>suffer<br>volume
-bip_39_word_new_br_11: lava<br>assault<br>clock<br>palm<br>deliver<br>tragic<br>cool<br>clump<br>suffer<br>volume<br>rate
 bip_39_word_new_br_12: lava<br>assault<br>clock<br>palm<br>deliver<br>tragic<br>cool<br>clump<br>suffer<br>volume<br>rate<br>annual
 bip_39_word_new_br_2: lava<br>assault
 bip_39_word_new_br_3: lava<br>assault<br>clock
-bip_39_word_new_br_4: lava<br>assault<br>clock<br>palm
-bip_39_word_new_br_5: lava<br>assault<br>clock<br>palm<br>deliver
-bip_39_word_new_br_6: lava<br>assault<br>clock<br>palm<br>deliver<br>tragic
-bip_39_word_new_br_7: lava<br>assault<br>clock<br>palm<br>deliver<br>tragic<br>cool
-bip_39_word_new_br_8: lava<br>assault<br>clock<br>palm<br>deliver<br>tragic<br>cool<br>clump
-bip_39_word_new_br_9: lava<br>assault<br>clock<br>palm<br>deliver<br>tragic<br>cool<br>clump<br>suffer
-bip_39_word_new_line_1: lava
-bip_39_word_new_line_10: 'lava
-
-  assault
-
-  clock
-
-  palm
-
-  deliver
-
-  tragic
-
-  cool
-
-  clump
-
-  suffer
-
-  volume'
-bip_39_word_new_line_11: 'lava
-
-  assault
-
-  clock
-
-  palm
-
-  deliver
-
-  tragic
-
-  cool
-
-  clump
-
-  suffer
-
-  volume
-
-  rate'
 bip_39_word_new_line_12: 'lava
 
   assault
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'lava
   assault
 
   clock'
-bip_39_word_new_line_4: 'lava
-
-  assault
-
-  clock
-
-  palm'
-bip_39_word_new_line_5: 'lava
-
-  assault
-
-  clock
-
-  palm
-
-  deliver'
-bip_39_word_new_line_6: 'lava
-
-  assault
-
-  clock
-
-  palm
-
-  deliver
-
-  tragic'
-bip_39_word_new_line_7: 'lava
-
-  assault
-
-  clock
-
-  palm
-
-  deliver
-
-  tragic
-
-  cool'
-bip_39_word_new_line_8: 'lava
-
-  assault
-
-  clock
-
-  palm
-
-  deliver
-
-  tragic
-
-  cool
-
-  clump'
-bip_39_word_new_line_9: 'lava
-
-  assault
-
-  clock
-
-  palm
-
-  deliver
-
-  tragic
-
-  cool
-
-  clump
-
-  suffer'
-bip_39_word_no_space_1: lava
-bip_39_word_no_space_10: lavaassaultclockpalmdelivertragiccoolclumpsuffervolume
-bip_39_word_no_space_11: lavaassaultclockpalmdelivertragiccoolclumpsuffervolumerate
 bip_39_word_no_space_12: lavaassaultclockpalmdelivertragiccoolclumpsuffervolumerateannual
 bip_39_word_no_space_2: lavaassault
 bip_39_word_no_space_3: lavaassaultclock
-bip_39_word_no_space_4: lavaassaultclockpalm
-bip_39_word_no_space_5: lavaassaultclockpalmdeliver
-bip_39_word_no_space_6: lavaassaultclockpalmdelivertragic
-bip_39_word_no_space_7: lavaassaultclockpalmdelivertragiccool
-bip_39_word_no_space_8: lavaassaultclockpalmdelivertragiccoolclump
-bip_39_word_no_space_9: lavaassaultclockpalmdelivertragiccoolclumpsuffer
-bip_39_word_space_0:
-- lava
-- assault
-- clock
-- palm
-- deliver
-- tragic
-- cool
-- clump
-- suffer
-- volume
-- rate
-- annual
-bip_39_word_space_1: lava
-bip_39_word_space_10: lava assault clock palm deliver tragic cool clump suffer volume
-bip_39_word_space_11: lava assault clock palm deliver tragic cool clump suffer volume
-  rate
 bip_39_word_space_12: lava assault clock palm deliver tragic cool clump suffer volume
   rate annual
 bip_39_word_space_2: lava assault
 bip_39_word_space_3: lava assault clock
-bip_39_word_space_4: lava assault clock palm
-bip_39_word_space_5: lava assault clock palm deliver
-bip_39_word_space_6: lava assault clock palm deliver tragic
-bip_39_word_space_7: lava assault clock palm deliver tragic cool
-bip_39_word_space_8: lava assault clock palm deliver tragic cool clump
-bip_39_word_space_9: lava assault clock palm deliver tragic cool clump suffer
-bip_39_word_underscore_1: lava
-bip_39_word_underscore_10: lava_assault_clock_palm_deliver_tragic_cool_clump_suffer_volume
-bip_39_word_underscore_11: lava_assault_clock_palm_deliver_tragic_cool_clump_suffer_volume_rate
 bip_39_word_underscore_12: lava_assault_clock_palm_deliver_tragic_cool_clump_suffer_volume_rate_annual
 bip_39_word_underscore_2: lava_assault
 bip_39_word_underscore_3: lava_assault_clock
-bip_39_word_underscore_4: lava_assault_clock_palm
-bip_39_word_underscore_5: lava_assault_clock_palm_deliver
-bip_39_word_underscore_6: lava_assault_clock_palm_deliver_tragic
-bip_39_word_underscore_7: lava_assault_clock_palm_deliver_tragic_cool
-bip_39_word_underscore_8: lava_assault_clock_palm_deliver_tragic_cool_clump
-bip_39_word_underscore_9: lava_assault_clock_palm_deliver_tragic_cool_clump_suffer
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

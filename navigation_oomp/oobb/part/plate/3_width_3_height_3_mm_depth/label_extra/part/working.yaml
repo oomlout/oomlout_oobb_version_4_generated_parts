@@ -1,68 +1,9 @@
-bip_39_word_dash_1: relax
-bip_39_word_dash_10: relax-include-fever-remember-fish-shrug-morning-garden-loyal-scissors
-bip_39_word_dash_11: relax-include-fever-remember-fish-shrug-morning-garden-loyal-scissors-skirt
 bip_39_word_dash_12: relax-include-fever-remember-fish-shrug-morning-garden-loyal-scissors-skirt-alert
 bip_39_word_dash_2: relax-include
 bip_39_word_dash_3: relax-include-fever
-bip_39_word_dash_4: relax-include-fever-remember
-bip_39_word_dash_5: relax-include-fever-remember-fish
-bip_39_word_dash_6: relax-include-fever-remember-fish-shrug
-bip_39_word_dash_7: relax-include-fever-remember-fish-shrug-morning
-bip_39_word_dash_8: relax-include-fever-remember-fish-shrug-morning-garden
-bip_39_word_dash_9: relax-include-fever-remember-fish-shrug-morning-garden-loyal
-bip_39_word_new_br_1: relax
-bip_39_word_new_br_10: relax<br>include<br>fever<br>remember<br>fish<br>shrug<br>morning<br>garden<br>loyal<br>scissors
-bip_39_word_new_br_11: relax<br>include<br>fever<br>remember<br>fish<br>shrug<br>morning<br>garden<br>loyal<br>scissors<br>skirt
 bip_39_word_new_br_12: relax<br>include<br>fever<br>remember<br>fish<br>shrug<br>morning<br>garden<br>loyal<br>scissors<br>skirt<br>alert
 bip_39_word_new_br_2: relax<br>include
 bip_39_word_new_br_3: relax<br>include<br>fever
-bip_39_word_new_br_4: relax<br>include<br>fever<br>remember
-bip_39_word_new_br_5: relax<br>include<br>fever<br>remember<br>fish
-bip_39_word_new_br_6: relax<br>include<br>fever<br>remember<br>fish<br>shrug
-bip_39_word_new_br_7: relax<br>include<br>fever<br>remember<br>fish<br>shrug<br>morning
-bip_39_word_new_br_8: relax<br>include<br>fever<br>remember<br>fish<br>shrug<br>morning<br>garden
-bip_39_word_new_br_9: relax<br>include<br>fever<br>remember<br>fish<br>shrug<br>morning<br>garden<br>loyal
-bip_39_word_new_line_1: relax
-bip_39_word_new_line_10: 'relax
-
-  include
-
-  fever
-
-  remember
-
-  fish
-
-  shrug
-
-  morning
-
-  garden
-
-  loyal
-
-  scissors'
-bip_39_word_new_line_11: 'relax
-
-  include
-
-  fever
-
-  remember
-
-  fish
-
-  shrug
-
-  morning
-
-  garden
-
-  loyal
-
-  scissors
-
-  skirt'
 bip_39_word_new_line_12: 'relax
 
   include
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'relax
   include
 
   fever'
-bip_39_word_new_line_4: 'relax
-
-  include
-
-  fever
-
-  remember'
-bip_39_word_new_line_5: 'relax
-
-  include
-
-  fever
-
-  remember
-
-  fish'
-bip_39_word_new_line_6: 'relax
-
-  include
-
-  fever
-
-  remember
-
-  fish
-
-  shrug'
-bip_39_word_new_line_7: 'relax
-
-  include
-
-  fever
-
-  remember
-
-  fish
-
-  shrug
-
-  morning'
-bip_39_word_new_line_8: 'relax
-
-  include
-
-  fever
-
-  remember
-
-  fish
-
-  shrug
-
-  morning
-
-  garden'
-bip_39_word_new_line_9: 'relax
-
-  include
-
-  fever
-
-  remember
-
-  fish
-
-  shrug
-
-  morning
-
-  garden
-
-  loyal'
-bip_39_word_no_space_1: relax
-bip_39_word_no_space_10: relaxincludefeverrememberfishshrugmorninggardenloyalscissors
-bip_39_word_no_space_11: relaxincludefeverrememberfishshrugmorninggardenloyalscissorsskirt
 bip_39_word_no_space_12: relaxincludefeverrememberfishshrugmorninggardenloyalscissorsskirtalert
 bip_39_word_no_space_2: relaxinclude
 bip_39_word_no_space_3: relaxincludefever
-bip_39_word_no_space_4: relaxincludefeverremember
-bip_39_word_no_space_5: relaxincludefeverrememberfish
-bip_39_word_no_space_6: relaxincludefeverrememberfishshrug
-bip_39_word_no_space_7: relaxincludefeverrememberfishshrugmorning
-bip_39_word_no_space_8: relaxincludefeverrememberfishshrugmorninggarden
-bip_39_word_no_space_9: relaxincludefeverrememberfishshrugmorninggardenloyal
-bip_39_word_space_0:
-- relax
-- include
-- fever
-- remember
-- fish
-- shrug
-- morning
-- garden
-- loyal
-- scissors
-- skirt
-- alert
-bip_39_word_space_1: relax
-bip_39_word_space_10: relax include fever remember fish shrug morning garden loyal
-  scissors
-bip_39_word_space_11: relax include fever remember fish shrug morning garden loyal
-  scissors skirt
 bip_39_word_space_12: relax include fever remember fish shrug morning garden loyal
   scissors skirt alert
 bip_39_word_space_2: relax include
 bip_39_word_space_3: relax include fever
-bip_39_word_space_4: relax include fever remember
-bip_39_word_space_5: relax include fever remember fish
-bip_39_word_space_6: relax include fever remember fish shrug
-bip_39_word_space_7: relax include fever remember fish shrug morning
-bip_39_word_space_8: relax include fever remember fish shrug morning garden
-bip_39_word_space_9: relax include fever remember fish shrug morning garden loyal
-bip_39_word_underscore_1: relax
-bip_39_word_underscore_10: relax_include_fever_remember_fish_shrug_morning_garden_loyal_scissors
-bip_39_word_underscore_11: relax_include_fever_remember_fish_shrug_morning_garden_loyal_scissors_skirt
 bip_39_word_underscore_12: relax_include_fever_remember_fish_shrug_morning_garden_loyal_scissors_skirt_alert
 bip_39_word_underscore_2: relax_include
 bip_39_word_underscore_3: relax_include_fever
-bip_39_word_underscore_4: relax_include_fever_remember
-bip_39_word_underscore_5: relax_include_fever_remember_fish
-bip_39_word_underscore_6: relax_include_fever_remember_fish_shrug
-bip_39_word_underscore_7: relax_include_fever_remember_fish_shrug_morning
-bip_39_word_underscore_8: relax_include_fever_remember_fish_shrug_morning_garden
-bip_39_word_underscore_9: relax_include_fever_remember_fish_shrug_morning_garden_loyal
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

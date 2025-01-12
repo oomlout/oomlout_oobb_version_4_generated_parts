@@ -1,68 +1,9 @@
-bip_39_word_dash_1: expect
-bip_39_word_dash_10: expect-photo-bless-beach-follow-sport-gather-alert-exclude-timber
-bip_39_word_dash_11: expect-photo-bless-beach-follow-sport-gather-alert-exclude-timber-space
 bip_39_word_dash_12: expect-photo-bless-beach-follow-sport-gather-alert-exclude-timber-space-adult
 bip_39_word_dash_2: expect-photo
 bip_39_word_dash_3: expect-photo-bless
-bip_39_word_dash_4: expect-photo-bless-beach
-bip_39_word_dash_5: expect-photo-bless-beach-follow
-bip_39_word_dash_6: expect-photo-bless-beach-follow-sport
-bip_39_word_dash_7: expect-photo-bless-beach-follow-sport-gather
-bip_39_word_dash_8: expect-photo-bless-beach-follow-sport-gather-alert
-bip_39_word_dash_9: expect-photo-bless-beach-follow-sport-gather-alert-exclude
-bip_39_word_new_br_1: expect
-bip_39_word_new_br_10: expect<br>photo<br>bless<br>beach<br>follow<br>sport<br>gather<br>alert<br>exclude<br>timber
-bip_39_word_new_br_11: expect<br>photo<br>bless<br>beach<br>follow<br>sport<br>gather<br>alert<br>exclude<br>timber<br>space
 bip_39_word_new_br_12: expect<br>photo<br>bless<br>beach<br>follow<br>sport<br>gather<br>alert<br>exclude<br>timber<br>space<br>adult
 bip_39_word_new_br_2: expect<br>photo
 bip_39_word_new_br_3: expect<br>photo<br>bless
-bip_39_word_new_br_4: expect<br>photo<br>bless<br>beach
-bip_39_word_new_br_5: expect<br>photo<br>bless<br>beach<br>follow
-bip_39_word_new_br_6: expect<br>photo<br>bless<br>beach<br>follow<br>sport
-bip_39_word_new_br_7: expect<br>photo<br>bless<br>beach<br>follow<br>sport<br>gather
-bip_39_word_new_br_8: expect<br>photo<br>bless<br>beach<br>follow<br>sport<br>gather<br>alert
-bip_39_word_new_br_9: expect<br>photo<br>bless<br>beach<br>follow<br>sport<br>gather<br>alert<br>exclude
-bip_39_word_new_line_1: expect
-bip_39_word_new_line_10: 'expect
-
-  photo
-
-  bless
-
-  beach
-
-  follow
-
-  sport
-
-  gather
-
-  alert
-
-  exclude
-
-  timber'
-bip_39_word_new_line_11: 'expect
-
-  photo
-
-  bless
-
-  beach
-
-  follow
-
-  sport
-
-  gather
-
-  alert
-
-  exclude
-
-  timber
-
-  space'
 bip_39_word_new_line_12: 'expect
 
   photo
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'expect
   photo
 
   bless'
-bip_39_word_new_line_4: 'expect
-
-  photo
-
-  bless
-
-  beach'
-bip_39_word_new_line_5: 'expect
-
-  photo
-
-  bless
-
-  beach
-
-  follow'
-bip_39_word_new_line_6: 'expect
-
-  photo
-
-  bless
-
-  beach
-
-  follow
-
-  sport'
-bip_39_word_new_line_7: 'expect
-
-  photo
-
-  bless
-
-  beach
-
-  follow
-
-  sport
-
-  gather'
-bip_39_word_new_line_8: 'expect
-
-  photo
-
-  bless
-
-  beach
-
-  follow
-
-  sport
-
-  gather
-
-  alert'
-bip_39_word_new_line_9: 'expect
-
-  photo
-
-  bless
-
-  beach
-
-  follow
-
-  sport
-
-  gather
-
-  alert
-
-  exclude'
-bip_39_word_no_space_1: expect
-bip_39_word_no_space_10: expectphotoblessbeachfollowsportgatheralertexcludetimber
-bip_39_word_no_space_11: expectphotoblessbeachfollowsportgatheralertexcludetimberspace
 bip_39_word_no_space_12: expectphotoblessbeachfollowsportgatheralertexcludetimberspaceadult
 bip_39_word_no_space_2: expectphoto
 bip_39_word_no_space_3: expectphotobless
-bip_39_word_no_space_4: expectphotoblessbeach
-bip_39_word_no_space_5: expectphotoblessbeachfollow
-bip_39_word_no_space_6: expectphotoblessbeachfollowsport
-bip_39_word_no_space_7: expectphotoblessbeachfollowsportgather
-bip_39_word_no_space_8: expectphotoblessbeachfollowsportgatheralert
-bip_39_word_no_space_9: expectphotoblessbeachfollowsportgatheralertexclude
-bip_39_word_space_0:
-- expect
-- photo
-- bless
-- beach
-- follow
-- sport
-- gather
-- alert
-- exclude
-- timber
-- space
-- adult
-bip_39_word_space_1: expect
-bip_39_word_space_10: expect photo bless beach follow sport gather alert exclude timber
-bip_39_word_space_11: expect photo bless beach follow sport gather alert exclude timber
-  space
 bip_39_word_space_12: expect photo bless beach follow sport gather alert exclude timber
   space adult
 bip_39_word_space_2: expect photo
 bip_39_word_space_3: expect photo bless
-bip_39_word_space_4: expect photo bless beach
-bip_39_word_space_5: expect photo bless beach follow
-bip_39_word_space_6: expect photo bless beach follow sport
-bip_39_word_space_7: expect photo bless beach follow sport gather
-bip_39_word_space_8: expect photo bless beach follow sport gather alert
-bip_39_word_space_9: expect photo bless beach follow sport gather alert exclude
-bip_39_word_underscore_1: expect
-bip_39_word_underscore_10: expect_photo_bless_beach_follow_sport_gather_alert_exclude_timber
-bip_39_word_underscore_11: expect_photo_bless_beach_follow_sport_gather_alert_exclude_timber_space
 bip_39_word_underscore_12: expect_photo_bless_beach_follow_sport_gather_alert_exclude_timber_space_adult
 bip_39_word_underscore_2: expect_photo
 bip_39_word_underscore_3: expect_photo_bless
-bip_39_word_underscore_4: expect_photo_bless_beach
-bip_39_word_underscore_5: expect_photo_bless_beach_follow
-bip_39_word_underscore_6: expect_photo_bless_beach_follow_sport
-bip_39_word_underscore_7: expect_photo_bless_beach_follow_sport_gather
-bip_39_word_underscore_8: expect_photo_bless_beach_follow_sport_gather_alert
-bip_39_word_underscore_9: expect_photo_bless_beach_follow_sport_gather_alert_exclude
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

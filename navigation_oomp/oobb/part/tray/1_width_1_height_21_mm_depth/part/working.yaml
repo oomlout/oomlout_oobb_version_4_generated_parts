@@ -1,68 +1,9 @@
-bip_39_word_dash_1: congress
-bip_39_word_dash_10: congress-report-danger-slot-display-replace-account-sell-extend-crunch
-bip_39_word_dash_11: congress-report-danger-slot-display-replace-account-sell-extend-crunch-fault
 bip_39_word_dash_12: congress-report-danger-slot-display-replace-account-sell-extend-crunch-fault-acoustic
 bip_39_word_dash_2: congress-report
 bip_39_word_dash_3: congress-report-danger
-bip_39_word_dash_4: congress-report-danger-slot
-bip_39_word_dash_5: congress-report-danger-slot-display
-bip_39_word_dash_6: congress-report-danger-slot-display-replace
-bip_39_word_dash_7: congress-report-danger-slot-display-replace-account
-bip_39_word_dash_8: congress-report-danger-slot-display-replace-account-sell
-bip_39_word_dash_9: congress-report-danger-slot-display-replace-account-sell-extend
-bip_39_word_new_br_1: congress
-bip_39_word_new_br_10: congress<br>report<br>danger<br>slot<br>display<br>replace<br>account<br>sell<br>extend<br>crunch
-bip_39_word_new_br_11: congress<br>report<br>danger<br>slot<br>display<br>replace<br>account<br>sell<br>extend<br>crunch<br>fault
 bip_39_word_new_br_12: congress<br>report<br>danger<br>slot<br>display<br>replace<br>account<br>sell<br>extend<br>crunch<br>fault<br>acoustic
 bip_39_word_new_br_2: congress<br>report
 bip_39_word_new_br_3: congress<br>report<br>danger
-bip_39_word_new_br_4: congress<br>report<br>danger<br>slot
-bip_39_word_new_br_5: congress<br>report<br>danger<br>slot<br>display
-bip_39_word_new_br_6: congress<br>report<br>danger<br>slot<br>display<br>replace
-bip_39_word_new_br_7: congress<br>report<br>danger<br>slot<br>display<br>replace<br>account
-bip_39_word_new_br_8: congress<br>report<br>danger<br>slot<br>display<br>replace<br>account<br>sell
-bip_39_word_new_br_9: congress<br>report<br>danger<br>slot<br>display<br>replace<br>account<br>sell<br>extend
-bip_39_word_new_line_1: congress
-bip_39_word_new_line_10: 'congress
-
-  report
-
-  danger
-
-  slot
-
-  display
-
-  replace
-
-  account
-
-  sell
-
-  extend
-
-  crunch'
-bip_39_word_new_line_11: 'congress
-
-  report
-
-  danger
-
-  slot
-
-  display
-
-  replace
-
-  account
-
-  sell
-
-  extend
-
-  crunch
-
-  fault'
 bip_39_word_new_line_12: 'congress
 
   report
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'congress
   report
 
   danger'
-bip_39_word_new_line_4: 'congress
-
-  report
-
-  danger
-
-  slot'
-bip_39_word_new_line_5: 'congress
-
-  report
-
-  danger
-
-  slot
-
-  display'
-bip_39_word_new_line_6: 'congress
-
-  report
-
-  danger
-
-  slot
-
-  display
-
-  replace'
-bip_39_word_new_line_7: 'congress
-
-  report
-
-  danger
-
-  slot
-
-  display
-
-  replace
-
-  account'
-bip_39_word_new_line_8: 'congress
-
-  report
-
-  danger
-
-  slot
-
-  display
-
-  replace
-
-  account
-
-  sell'
-bip_39_word_new_line_9: 'congress
-
-  report
-
-  danger
-
-  slot
-
-  display
-
-  replace
-
-  account
-
-  sell
-
-  extend'
-bip_39_word_no_space_1: congress
-bip_39_word_no_space_10: congressreportdangerslotdisplayreplaceaccountsellextendcrunch
-bip_39_word_no_space_11: congressreportdangerslotdisplayreplaceaccountsellextendcrunchfault
 bip_39_word_no_space_12: congressreportdangerslotdisplayreplaceaccountsellextendcrunchfaultacoustic
 bip_39_word_no_space_2: congressreport
 bip_39_word_no_space_3: congressreportdanger
-bip_39_word_no_space_4: congressreportdangerslot
-bip_39_word_no_space_5: congressreportdangerslotdisplay
-bip_39_word_no_space_6: congressreportdangerslotdisplayreplace
-bip_39_word_no_space_7: congressreportdangerslotdisplayreplaceaccount
-bip_39_word_no_space_8: congressreportdangerslotdisplayreplaceaccountsell
-bip_39_word_no_space_9: congressreportdangerslotdisplayreplaceaccountsellextend
-bip_39_word_space_0:
-- congress
-- report
-- danger
-- slot
-- display
-- replace
-- account
-- sell
-- extend
-- crunch
-- fault
-- acoustic
-bip_39_word_space_1: congress
-bip_39_word_space_10: congress report danger slot display replace account sell extend
-  crunch
-bip_39_word_space_11: congress report danger slot display replace account sell extend
-  crunch fault
 bip_39_word_space_12: congress report danger slot display replace account sell extend
   crunch fault acoustic
 bip_39_word_space_2: congress report
 bip_39_word_space_3: congress report danger
-bip_39_word_space_4: congress report danger slot
-bip_39_word_space_5: congress report danger slot display
-bip_39_word_space_6: congress report danger slot display replace
-bip_39_word_space_7: congress report danger slot display replace account
-bip_39_word_space_8: congress report danger slot display replace account sell
-bip_39_word_space_9: congress report danger slot display replace account sell extend
-bip_39_word_underscore_1: congress
-bip_39_word_underscore_10: congress_report_danger_slot_display_replace_account_sell_extend_crunch
-bip_39_word_underscore_11: congress_report_danger_slot_display_replace_account_sell_extend_crunch_fault
 bip_39_word_underscore_12: congress_report_danger_slot_display_replace_account_sell_extend_crunch_fault_acoustic
 bip_39_word_underscore_2: congress_report
 bip_39_word_underscore_3: congress_report_danger
-bip_39_word_underscore_4: congress_report_danger_slot
-bip_39_word_underscore_5: congress_report_danger_slot_display
-bip_39_word_underscore_6: congress_report_danger_slot_display_replace
-bip_39_word_underscore_7: congress_report_danger_slot_display_replace_account
-bip_39_word_underscore_8: congress_report_danger_slot_display_replace_account_sell
-bip_39_word_underscore_9: congress_report_danger_slot_display_replace_account_sell_extend
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: source
-bip_39_word_dash_10: source-canal-palace-drift-curious-spend-club-inhale-glad-smoke
-bip_39_word_dash_11: source-canal-palace-drift-curious-spend-club-inhale-glad-smoke-split
 bip_39_word_dash_12: source-canal-palace-drift-curious-spend-club-inhale-glad-smoke-split-arrest
 bip_39_word_dash_2: source-canal
 bip_39_word_dash_3: source-canal-palace
-bip_39_word_dash_4: source-canal-palace-drift
-bip_39_word_dash_5: source-canal-palace-drift-curious
-bip_39_word_dash_6: source-canal-palace-drift-curious-spend
-bip_39_word_dash_7: source-canal-palace-drift-curious-spend-club
-bip_39_word_dash_8: source-canal-palace-drift-curious-spend-club-inhale
-bip_39_word_dash_9: source-canal-palace-drift-curious-spend-club-inhale-glad
-bip_39_word_new_br_1: source
-bip_39_word_new_br_10: source<br>canal<br>palace<br>drift<br>curious<br>spend<br>club<br>inhale<br>glad<br>smoke
-bip_39_word_new_br_11: source<br>canal<br>palace<br>drift<br>curious<br>spend<br>club<br>inhale<br>glad<br>smoke<br>split
 bip_39_word_new_br_12: source<br>canal<br>palace<br>drift<br>curious<br>spend<br>club<br>inhale<br>glad<br>smoke<br>split<br>arrest
 bip_39_word_new_br_2: source<br>canal
 bip_39_word_new_br_3: source<br>canal<br>palace
-bip_39_word_new_br_4: source<br>canal<br>palace<br>drift
-bip_39_word_new_br_5: source<br>canal<br>palace<br>drift<br>curious
-bip_39_word_new_br_6: source<br>canal<br>palace<br>drift<br>curious<br>spend
-bip_39_word_new_br_7: source<br>canal<br>palace<br>drift<br>curious<br>spend<br>club
-bip_39_word_new_br_8: source<br>canal<br>palace<br>drift<br>curious<br>spend<br>club<br>inhale
-bip_39_word_new_br_9: source<br>canal<br>palace<br>drift<br>curious<br>spend<br>club<br>inhale<br>glad
-bip_39_word_new_line_1: source
-bip_39_word_new_line_10: 'source
-
-  canal
-
-  palace
-
-  drift
-
-  curious
-
-  spend
-
-  club
-
-  inhale
-
-  glad
-
-  smoke'
-bip_39_word_new_line_11: 'source
-
-  canal
-
-  palace
-
-  drift
-
-  curious
-
-  spend
-
-  club
-
-  inhale
-
-  glad
-
-  smoke
-
-  split'
 bip_39_word_new_line_12: 'source
 
   canal
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'source
   canal
 
   palace'
-bip_39_word_new_line_4: 'source
-
-  canal
-
-  palace
-
-  drift'
-bip_39_word_new_line_5: 'source
-
-  canal
-
-  palace
-
-  drift
-
-  curious'
-bip_39_word_new_line_6: 'source
-
-  canal
-
-  palace
-
-  drift
-
-  curious
-
-  spend'
-bip_39_word_new_line_7: 'source
-
-  canal
-
-  palace
-
-  drift
-
-  curious
-
-  spend
-
-  club'
-bip_39_word_new_line_8: 'source
-
-  canal
-
-  palace
-
-  drift
-
-  curious
-
-  spend
-
-  club
-
-  inhale'
-bip_39_word_new_line_9: 'source
-
-  canal
-
-  palace
-
-  drift
-
-  curious
-
-  spend
-
-  club
-
-  inhale
-
-  glad'
-bip_39_word_no_space_1: source
-bip_39_word_no_space_10: sourcecanalpalacedriftcuriousspendclubinhalegladsmoke
-bip_39_word_no_space_11: sourcecanalpalacedriftcuriousspendclubinhalegladsmokesplit
 bip_39_word_no_space_12: sourcecanalpalacedriftcuriousspendclubinhalegladsmokesplitarrest
 bip_39_word_no_space_2: sourcecanal
 bip_39_word_no_space_3: sourcecanalpalace
-bip_39_word_no_space_4: sourcecanalpalacedrift
-bip_39_word_no_space_5: sourcecanalpalacedriftcurious
-bip_39_word_no_space_6: sourcecanalpalacedriftcuriousspend
-bip_39_word_no_space_7: sourcecanalpalacedriftcuriousspendclub
-bip_39_word_no_space_8: sourcecanalpalacedriftcuriousspendclubinhale
-bip_39_word_no_space_9: sourcecanalpalacedriftcuriousspendclubinhaleglad
-bip_39_word_space_0:
-- source
-- canal
-- palace
-- drift
-- curious
-- spend
-- club
-- inhale
-- glad
-- smoke
-- split
-- arrest
-bip_39_word_space_1: source
-bip_39_word_space_10: source canal palace drift curious spend club inhale glad smoke
-bip_39_word_space_11: source canal palace drift curious spend club inhale glad smoke
-  split
 bip_39_word_space_12: source canal palace drift curious spend club inhale glad smoke
   split arrest
 bip_39_word_space_2: source canal
 bip_39_word_space_3: source canal palace
-bip_39_word_space_4: source canal palace drift
-bip_39_word_space_5: source canal palace drift curious
-bip_39_word_space_6: source canal palace drift curious spend
-bip_39_word_space_7: source canal palace drift curious spend club
-bip_39_word_space_8: source canal palace drift curious spend club inhale
-bip_39_word_space_9: source canal palace drift curious spend club inhale glad
-bip_39_word_underscore_1: source
-bip_39_word_underscore_10: source_canal_palace_drift_curious_spend_club_inhale_glad_smoke
-bip_39_word_underscore_11: source_canal_palace_drift_curious_spend_club_inhale_glad_smoke_split
 bip_39_word_underscore_12: source_canal_palace_drift_curious_spend_club_inhale_glad_smoke_split_arrest
 bip_39_word_underscore_2: source_canal
 bip_39_word_underscore_3: source_canal_palace
-bip_39_word_underscore_4: source_canal_palace_drift
-bip_39_word_underscore_5: source_canal_palace_drift_curious
-bip_39_word_underscore_6: source_canal_palace_drift_curious_spend
-bip_39_word_underscore_7: source_canal_palace_drift_curious_spend_club
-bip_39_word_underscore_8: source_canal_palace_drift_curious_spend_club_inhale
-bip_39_word_underscore_9: source_canal_palace_drift_curious_spend_club_inhale_glad
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

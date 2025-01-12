@@ -1,68 +1,9 @@
-bip_39_word_dash_1: balcony
-bip_39_word_dash_10: balcony-gospel-fly-speed-poverty-iron-artist-gorilla-patient-drastic
-bip_39_word_dash_11: balcony-gospel-fly-speed-poverty-iron-artist-gorilla-patient-drastic-doctor
 bip_39_word_dash_12: balcony-gospel-fly-speed-poverty-iron-artist-gorilla-patient-drastic-doctor-antique
 bip_39_word_dash_2: balcony-gospel
 bip_39_word_dash_3: balcony-gospel-fly
-bip_39_word_dash_4: balcony-gospel-fly-speed
-bip_39_word_dash_5: balcony-gospel-fly-speed-poverty
-bip_39_word_dash_6: balcony-gospel-fly-speed-poverty-iron
-bip_39_word_dash_7: balcony-gospel-fly-speed-poverty-iron-artist
-bip_39_word_dash_8: balcony-gospel-fly-speed-poverty-iron-artist-gorilla
-bip_39_word_dash_9: balcony-gospel-fly-speed-poverty-iron-artist-gorilla-patient
-bip_39_word_new_br_1: balcony
-bip_39_word_new_br_10: balcony<br>gospel<br>fly<br>speed<br>poverty<br>iron<br>artist<br>gorilla<br>patient<br>drastic
-bip_39_word_new_br_11: balcony<br>gospel<br>fly<br>speed<br>poverty<br>iron<br>artist<br>gorilla<br>patient<br>drastic<br>doctor
 bip_39_word_new_br_12: balcony<br>gospel<br>fly<br>speed<br>poverty<br>iron<br>artist<br>gorilla<br>patient<br>drastic<br>doctor<br>antique
 bip_39_word_new_br_2: balcony<br>gospel
 bip_39_word_new_br_3: balcony<br>gospel<br>fly
-bip_39_word_new_br_4: balcony<br>gospel<br>fly<br>speed
-bip_39_word_new_br_5: balcony<br>gospel<br>fly<br>speed<br>poverty
-bip_39_word_new_br_6: balcony<br>gospel<br>fly<br>speed<br>poverty<br>iron
-bip_39_word_new_br_7: balcony<br>gospel<br>fly<br>speed<br>poverty<br>iron<br>artist
-bip_39_word_new_br_8: balcony<br>gospel<br>fly<br>speed<br>poverty<br>iron<br>artist<br>gorilla
-bip_39_word_new_br_9: balcony<br>gospel<br>fly<br>speed<br>poverty<br>iron<br>artist<br>gorilla<br>patient
-bip_39_word_new_line_1: balcony
-bip_39_word_new_line_10: 'balcony
-
-  gospel
-
-  fly
-
-  speed
-
-  poverty
-
-  iron
-
-  artist
-
-  gorilla
-
-  patient
-
-  drastic'
-bip_39_word_new_line_11: 'balcony
-
-  gospel
-
-  fly
-
-  speed
-
-  poverty
-
-  iron
-
-  artist
-
-  gorilla
-
-  patient
-
-  drastic
-
-  doctor'
 bip_39_word_new_line_12: 'balcony
 
   gospel
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'balcony
   gospel
 
   fly'
-bip_39_word_new_line_4: 'balcony
-
-  gospel
-
-  fly
-
-  speed'
-bip_39_word_new_line_5: 'balcony
-
-  gospel
-
-  fly
-
-  speed
-
-  poverty'
-bip_39_word_new_line_6: 'balcony
-
-  gospel
-
-  fly
-
-  speed
-
-  poverty
-
-  iron'
-bip_39_word_new_line_7: 'balcony
-
-  gospel
-
-  fly
-
-  speed
-
-  poverty
-
-  iron
-
-  artist'
-bip_39_word_new_line_8: 'balcony
-
-  gospel
-
-  fly
-
-  speed
-
-  poverty
-
-  iron
-
-  artist
-
-  gorilla'
-bip_39_word_new_line_9: 'balcony
-
-  gospel
-
-  fly
-
-  speed
-
-  poverty
-
-  iron
-
-  artist
-
-  gorilla
-
-  patient'
-bip_39_word_no_space_1: balcony
-bip_39_word_no_space_10: balconygospelflyspeedpovertyironartistgorillapatientdrastic
-bip_39_word_no_space_11: balconygospelflyspeedpovertyironartistgorillapatientdrasticdoctor
 bip_39_word_no_space_12: balconygospelflyspeedpovertyironartistgorillapatientdrasticdoctorantique
 bip_39_word_no_space_2: balconygospel
 bip_39_word_no_space_3: balconygospelfly
-bip_39_word_no_space_4: balconygospelflyspeed
-bip_39_word_no_space_5: balconygospelflyspeedpoverty
-bip_39_word_no_space_6: balconygospelflyspeedpovertyiron
-bip_39_word_no_space_7: balconygospelflyspeedpovertyironartist
-bip_39_word_no_space_8: balconygospelflyspeedpovertyironartistgorilla
-bip_39_word_no_space_9: balconygospelflyspeedpovertyironartistgorillapatient
-bip_39_word_space_0:
-- balcony
-- gospel
-- fly
-- speed
-- poverty
-- iron
-- artist
-- gorilla
-- patient
-- drastic
-- doctor
-- antique
-bip_39_word_space_1: balcony
-bip_39_word_space_10: balcony gospel fly speed poverty iron artist gorilla patient
-  drastic
-bip_39_word_space_11: balcony gospel fly speed poverty iron artist gorilla patient
-  drastic doctor
 bip_39_word_space_12: balcony gospel fly speed poverty iron artist gorilla patient
   drastic doctor antique
 bip_39_word_space_2: balcony gospel
 bip_39_word_space_3: balcony gospel fly
-bip_39_word_space_4: balcony gospel fly speed
-bip_39_word_space_5: balcony gospel fly speed poverty
-bip_39_word_space_6: balcony gospel fly speed poverty iron
-bip_39_word_space_7: balcony gospel fly speed poverty iron artist
-bip_39_word_space_8: balcony gospel fly speed poverty iron artist gorilla
-bip_39_word_space_9: balcony gospel fly speed poverty iron artist gorilla patient
-bip_39_word_underscore_1: balcony
-bip_39_word_underscore_10: balcony_gospel_fly_speed_poverty_iron_artist_gorilla_patient_drastic
-bip_39_word_underscore_11: balcony_gospel_fly_speed_poverty_iron_artist_gorilla_patient_drastic_doctor
 bip_39_word_underscore_12: balcony_gospel_fly_speed_poverty_iron_artist_gorilla_patient_drastic_doctor_antique
 bip_39_word_underscore_2: balcony_gospel
 bip_39_word_underscore_3: balcony_gospel_fly
-bip_39_word_underscore_4: balcony_gospel_fly_speed
-bip_39_word_underscore_5: balcony_gospel_fly_speed_poverty
-bip_39_word_underscore_6: balcony_gospel_fly_speed_poverty_iron
-bip_39_word_underscore_7: balcony_gospel_fly_speed_poverty_iron_artist
-bip_39_word_underscore_8: balcony_gospel_fly_speed_poverty_iron_artist_gorilla
-bip_39_word_underscore_9: balcony_gospel_fly_speed_poverty_iron_artist_gorilla_patient
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

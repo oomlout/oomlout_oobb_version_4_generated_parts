@@ -1,68 +1,9 @@
-bip_39_word_dash_1: abandon
-bip_39_word_dash_10: abandon-gun-claw-judge-humble-police-gaze-salmon-trade-plunge
-bip_39_word_dash_11: abandon-gun-claw-judge-humble-police-gaze-salmon-trade-plunge-arctic
 bip_39_word_dash_12: abandon-gun-claw-judge-humble-police-gaze-salmon-trade-plunge-arctic-arm
 bip_39_word_dash_2: abandon-gun
 bip_39_word_dash_3: abandon-gun-claw
-bip_39_word_dash_4: abandon-gun-claw-judge
-bip_39_word_dash_5: abandon-gun-claw-judge-humble
-bip_39_word_dash_6: abandon-gun-claw-judge-humble-police
-bip_39_word_dash_7: abandon-gun-claw-judge-humble-police-gaze
-bip_39_word_dash_8: abandon-gun-claw-judge-humble-police-gaze-salmon
-bip_39_word_dash_9: abandon-gun-claw-judge-humble-police-gaze-salmon-trade
-bip_39_word_new_br_1: abandon
-bip_39_word_new_br_10: abandon<br>gun<br>claw<br>judge<br>humble<br>police<br>gaze<br>salmon<br>trade<br>plunge
-bip_39_word_new_br_11: abandon<br>gun<br>claw<br>judge<br>humble<br>police<br>gaze<br>salmon<br>trade<br>plunge<br>arctic
 bip_39_word_new_br_12: abandon<br>gun<br>claw<br>judge<br>humble<br>police<br>gaze<br>salmon<br>trade<br>plunge<br>arctic<br>arm
 bip_39_word_new_br_2: abandon<br>gun
 bip_39_word_new_br_3: abandon<br>gun<br>claw
-bip_39_word_new_br_4: abandon<br>gun<br>claw<br>judge
-bip_39_word_new_br_5: abandon<br>gun<br>claw<br>judge<br>humble
-bip_39_word_new_br_6: abandon<br>gun<br>claw<br>judge<br>humble<br>police
-bip_39_word_new_br_7: abandon<br>gun<br>claw<br>judge<br>humble<br>police<br>gaze
-bip_39_word_new_br_8: abandon<br>gun<br>claw<br>judge<br>humble<br>police<br>gaze<br>salmon
-bip_39_word_new_br_9: abandon<br>gun<br>claw<br>judge<br>humble<br>police<br>gaze<br>salmon<br>trade
-bip_39_word_new_line_1: abandon
-bip_39_word_new_line_10: 'abandon
-
-  gun
-
-  claw
-
-  judge
-
-  humble
-
-  police
-
-  gaze
-
-  salmon
-
-  trade
-
-  plunge'
-bip_39_word_new_line_11: 'abandon
-
-  gun
-
-  claw
-
-  judge
-
-  humble
-
-  police
-
-  gaze
-
-  salmon
-
-  trade
-
-  plunge
-
-  arctic'
 bip_39_word_new_line_12: 'abandon
 
   gun
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'abandon
   gun
 
   claw'
-bip_39_word_new_line_4: 'abandon
-
-  gun
-
-  claw
-
-  judge'
-bip_39_word_new_line_5: 'abandon
-
-  gun
-
-  claw
-
-  judge
-
-  humble'
-bip_39_word_new_line_6: 'abandon
-
-  gun
-
-  claw
-
-  judge
-
-  humble
-
-  police'
-bip_39_word_new_line_7: 'abandon
-
-  gun
-
-  claw
-
-  judge
-
-  humble
-
-  police
-
-  gaze'
-bip_39_word_new_line_8: 'abandon
-
-  gun
-
-  claw
-
-  judge
-
-  humble
-
-  police
-
-  gaze
-
-  salmon'
-bip_39_word_new_line_9: 'abandon
-
-  gun
-
-  claw
-
-  judge
-
-  humble
-
-  police
-
-  gaze
-
-  salmon
-
-  trade'
-bip_39_word_no_space_1: abandon
-bip_39_word_no_space_10: abandongunclawjudgehumblepolicegazesalmontradeplunge
-bip_39_word_no_space_11: abandongunclawjudgehumblepolicegazesalmontradeplungearctic
 bip_39_word_no_space_12: abandongunclawjudgehumblepolicegazesalmontradeplungearcticarm
 bip_39_word_no_space_2: abandongun
 bip_39_word_no_space_3: abandongunclaw
-bip_39_word_no_space_4: abandongunclawjudge
-bip_39_word_no_space_5: abandongunclawjudgehumble
-bip_39_word_no_space_6: abandongunclawjudgehumblepolice
-bip_39_word_no_space_7: abandongunclawjudgehumblepolicegaze
-bip_39_word_no_space_8: abandongunclawjudgehumblepolicegazesalmon
-bip_39_word_no_space_9: abandongunclawjudgehumblepolicegazesalmontrade
-bip_39_word_space_0:
-- abandon
-- gun
-- claw
-- judge
-- humble
-- police
-- gaze
-- salmon
-- trade
-- plunge
-- arctic
-- arm
-bip_39_word_space_1: abandon
-bip_39_word_space_10: abandon gun claw judge humble police gaze salmon trade plunge
-bip_39_word_space_11: abandon gun claw judge humble police gaze salmon trade plunge
-  arctic
 bip_39_word_space_12: abandon gun claw judge humble police gaze salmon trade plunge
   arctic arm
 bip_39_word_space_2: abandon gun
 bip_39_word_space_3: abandon gun claw
-bip_39_word_space_4: abandon gun claw judge
-bip_39_word_space_5: abandon gun claw judge humble
-bip_39_word_space_6: abandon gun claw judge humble police
-bip_39_word_space_7: abandon gun claw judge humble police gaze
-bip_39_word_space_8: abandon gun claw judge humble police gaze salmon
-bip_39_word_space_9: abandon gun claw judge humble police gaze salmon trade
-bip_39_word_underscore_1: abandon
-bip_39_word_underscore_10: abandon_gun_claw_judge_humble_police_gaze_salmon_trade_plunge
-bip_39_word_underscore_11: abandon_gun_claw_judge_humble_police_gaze_salmon_trade_plunge_arctic
 bip_39_word_underscore_12: abandon_gun_claw_judge_humble_police_gaze_salmon_trade_plunge_arctic_arm
 bip_39_word_underscore_2: abandon_gun
 bip_39_word_underscore_3: abandon_gun_claw
-bip_39_word_underscore_4: abandon_gun_claw_judge
-bip_39_word_underscore_5: abandon_gun_claw_judge_humble
-bip_39_word_underscore_6: abandon_gun_claw_judge_humble_police
-bip_39_word_underscore_7: abandon_gun_claw_judge_humble_police_gaze
-bip_39_word_underscore_8: abandon_gun_claw_judge_humble_police_gaze_salmon
-bip_39_word_underscore_9: abandon_gun_claw_judge_humble_police_gaze_salmon_trade
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

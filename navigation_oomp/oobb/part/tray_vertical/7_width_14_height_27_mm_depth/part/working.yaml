@@ -1,68 +1,9 @@
-bip_39_word_dash_1: garlic
-bip_39_word_dash_10: garlic-crouch-equip-pink-author-defense-slight-illness-vivid-atom
-bip_39_word_dash_11: garlic-crouch-equip-pink-author-defense-slight-illness-vivid-atom-pluck
 bip_39_word_dash_12: garlic-crouch-equip-pink-author-defense-slight-illness-vivid-atom-pluck-annual
 bip_39_word_dash_2: garlic-crouch
 bip_39_word_dash_3: garlic-crouch-equip
-bip_39_word_dash_4: garlic-crouch-equip-pink
-bip_39_word_dash_5: garlic-crouch-equip-pink-author
-bip_39_word_dash_6: garlic-crouch-equip-pink-author-defense
-bip_39_word_dash_7: garlic-crouch-equip-pink-author-defense-slight
-bip_39_word_dash_8: garlic-crouch-equip-pink-author-defense-slight-illness
-bip_39_word_dash_9: garlic-crouch-equip-pink-author-defense-slight-illness-vivid
-bip_39_word_new_br_1: garlic
-bip_39_word_new_br_10: garlic<br>crouch<br>equip<br>pink<br>author<br>defense<br>slight<br>illness<br>vivid<br>atom
-bip_39_word_new_br_11: garlic<br>crouch<br>equip<br>pink<br>author<br>defense<br>slight<br>illness<br>vivid<br>atom<br>pluck
 bip_39_word_new_br_12: garlic<br>crouch<br>equip<br>pink<br>author<br>defense<br>slight<br>illness<br>vivid<br>atom<br>pluck<br>annual
 bip_39_word_new_br_2: garlic<br>crouch
 bip_39_word_new_br_3: garlic<br>crouch<br>equip
-bip_39_word_new_br_4: garlic<br>crouch<br>equip<br>pink
-bip_39_word_new_br_5: garlic<br>crouch<br>equip<br>pink<br>author
-bip_39_word_new_br_6: garlic<br>crouch<br>equip<br>pink<br>author<br>defense
-bip_39_word_new_br_7: garlic<br>crouch<br>equip<br>pink<br>author<br>defense<br>slight
-bip_39_word_new_br_8: garlic<br>crouch<br>equip<br>pink<br>author<br>defense<br>slight<br>illness
-bip_39_word_new_br_9: garlic<br>crouch<br>equip<br>pink<br>author<br>defense<br>slight<br>illness<br>vivid
-bip_39_word_new_line_1: garlic
-bip_39_word_new_line_10: 'garlic
-
-  crouch
-
-  equip
-
-  pink
-
-  author
-
-  defense
-
-  slight
-
-  illness
-
-  vivid
-
-  atom'
-bip_39_word_new_line_11: 'garlic
-
-  crouch
-
-  equip
-
-  pink
-
-  author
-
-  defense
-
-  slight
-
-  illness
-
-  vivid
-
-  atom
-
-  pluck'
 bip_39_word_new_line_12: 'garlic
 
   crouch
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'garlic
   crouch
 
   equip'
-bip_39_word_new_line_4: 'garlic
-
-  crouch
-
-  equip
-
-  pink'
-bip_39_word_new_line_5: 'garlic
-
-  crouch
-
-  equip
-
-  pink
-
-  author'
-bip_39_word_new_line_6: 'garlic
-
-  crouch
-
-  equip
-
-  pink
-
-  author
-
-  defense'
-bip_39_word_new_line_7: 'garlic
-
-  crouch
-
-  equip
-
-  pink
-
-  author
-
-  defense
-
-  slight'
-bip_39_word_new_line_8: 'garlic
-
-  crouch
-
-  equip
-
-  pink
-
-  author
-
-  defense
-
-  slight
-
-  illness'
-bip_39_word_new_line_9: 'garlic
-
-  crouch
-
-  equip
-
-  pink
-
-  author
-
-  defense
-
-  slight
-
-  illness
-
-  vivid'
-bip_39_word_no_space_1: garlic
-bip_39_word_no_space_10: garliccrouchequippinkauthordefenseslightillnessvividatom
-bip_39_word_no_space_11: garliccrouchequippinkauthordefenseslightillnessvividatompluck
 bip_39_word_no_space_12: garliccrouchequippinkauthordefenseslightillnessvividatompluckannual
 bip_39_word_no_space_2: garliccrouch
 bip_39_word_no_space_3: garliccrouchequip
-bip_39_word_no_space_4: garliccrouchequippink
-bip_39_word_no_space_5: garliccrouchequippinkauthor
-bip_39_word_no_space_6: garliccrouchequippinkauthordefense
-bip_39_word_no_space_7: garliccrouchequippinkauthordefenseslight
-bip_39_word_no_space_8: garliccrouchequippinkauthordefenseslightillness
-bip_39_word_no_space_9: garliccrouchequippinkauthordefenseslightillnessvivid
-bip_39_word_space_0:
-- garlic
-- crouch
-- equip
-- pink
-- author
-- defense
-- slight
-- illness
-- vivid
-- atom
-- pluck
-- annual
-bip_39_word_space_1: garlic
-bip_39_word_space_10: garlic crouch equip pink author defense slight illness vivid
-  atom
-bip_39_word_space_11: garlic crouch equip pink author defense slight illness vivid
-  atom pluck
 bip_39_word_space_12: garlic crouch equip pink author defense slight illness vivid
   atom pluck annual
 bip_39_word_space_2: garlic crouch
 bip_39_word_space_3: garlic crouch equip
-bip_39_word_space_4: garlic crouch equip pink
-bip_39_word_space_5: garlic crouch equip pink author
-bip_39_word_space_6: garlic crouch equip pink author defense
-bip_39_word_space_7: garlic crouch equip pink author defense slight
-bip_39_word_space_8: garlic crouch equip pink author defense slight illness
-bip_39_word_space_9: garlic crouch equip pink author defense slight illness vivid
-bip_39_word_underscore_1: garlic
-bip_39_word_underscore_10: garlic_crouch_equip_pink_author_defense_slight_illness_vivid_atom
-bip_39_word_underscore_11: garlic_crouch_equip_pink_author_defense_slight_illness_vivid_atom_pluck
 bip_39_word_underscore_12: garlic_crouch_equip_pink_author_defense_slight_illness_vivid_atom_pluck_annual
 bip_39_word_underscore_2: garlic_crouch
 bip_39_word_underscore_3: garlic_crouch_equip
-bip_39_word_underscore_4: garlic_crouch_equip_pink
-bip_39_word_underscore_5: garlic_crouch_equip_pink_author
-bip_39_word_underscore_6: garlic_crouch_equip_pink_author_defense
-bip_39_word_underscore_7: garlic_crouch_equip_pink_author_defense_slight
-bip_39_word_underscore_8: garlic_crouch_equip_pink_author_defense_slight_illness
-bip_39_word_underscore_9: garlic_crouch_equip_pink_author_defense_slight_illness_vivid
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

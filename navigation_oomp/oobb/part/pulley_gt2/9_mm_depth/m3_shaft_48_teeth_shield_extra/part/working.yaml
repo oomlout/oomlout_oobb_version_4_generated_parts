@@ -1,68 +1,9 @@
-bip_39_word_dash_1: color
-bip_39_word_dash_10: color-river-motion-ancient-club-address-illegal-original-honey-vocal
-bip_39_word_dash_11: color-river-motion-ancient-club-address-illegal-original-honey-vocal-aware
 bip_39_word_dash_12: color-river-motion-ancient-club-address-illegal-original-honey-vocal-aware-apple
 bip_39_word_dash_2: color-river
 bip_39_word_dash_3: color-river-motion
-bip_39_word_dash_4: color-river-motion-ancient
-bip_39_word_dash_5: color-river-motion-ancient-club
-bip_39_word_dash_6: color-river-motion-ancient-club-address
-bip_39_word_dash_7: color-river-motion-ancient-club-address-illegal
-bip_39_word_dash_8: color-river-motion-ancient-club-address-illegal-original
-bip_39_word_dash_9: color-river-motion-ancient-club-address-illegal-original-honey
-bip_39_word_new_br_1: color
-bip_39_word_new_br_10: color<br>river<br>motion<br>ancient<br>club<br>address<br>illegal<br>original<br>honey<br>vocal
-bip_39_word_new_br_11: color<br>river<br>motion<br>ancient<br>club<br>address<br>illegal<br>original<br>honey<br>vocal<br>aware
 bip_39_word_new_br_12: color<br>river<br>motion<br>ancient<br>club<br>address<br>illegal<br>original<br>honey<br>vocal<br>aware<br>apple
 bip_39_word_new_br_2: color<br>river
 bip_39_word_new_br_3: color<br>river<br>motion
-bip_39_word_new_br_4: color<br>river<br>motion<br>ancient
-bip_39_word_new_br_5: color<br>river<br>motion<br>ancient<br>club
-bip_39_word_new_br_6: color<br>river<br>motion<br>ancient<br>club<br>address
-bip_39_word_new_br_7: color<br>river<br>motion<br>ancient<br>club<br>address<br>illegal
-bip_39_word_new_br_8: color<br>river<br>motion<br>ancient<br>club<br>address<br>illegal<br>original
-bip_39_word_new_br_9: color<br>river<br>motion<br>ancient<br>club<br>address<br>illegal<br>original<br>honey
-bip_39_word_new_line_1: color
-bip_39_word_new_line_10: 'color
-
-  river
-
-  motion
-
-  ancient
-
-  club
-
-  address
-
-  illegal
-
-  original
-
-  honey
-
-  vocal'
-bip_39_word_new_line_11: 'color
-
-  river
-
-  motion
-
-  ancient
-
-  club
-
-  address
-
-  illegal
-
-  original
-
-  honey
-
-  vocal
-
-  aware'
 bip_39_word_new_line_12: 'color
 
   river
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'color
   river
 
   motion'
-bip_39_word_new_line_4: 'color
-
-  river
-
-  motion
-
-  ancient'
-bip_39_word_new_line_5: 'color
-
-  river
-
-  motion
-
-  ancient
-
-  club'
-bip_39_word_new_line_6: 'color
-
-  river
-
-  motion
-
-  ancient
-
-  club
-
-  address'
-bip_39_word_new_line_7: 'color
-
-  river
-
-  motion
-
-  ancient
-
-  club
-
-  address
-
-  illegal'
-bip_39_word_new_line_8: 'color
-
-  river
-
-  motion
-
-  ancient
-
-  club
-
-  address
-
-  illegal
-
-  original'
-bip_39_word_new_line_9: 'color
-
-  river
-
-  motion
-
-  ancient
-
-  club
-
-  address
-
-  illegal
-
-  original
-
-  honey'
-bip_39_word_no_space_1: color
-bip_39_word_no_space_10: colorrivermotionancientclubaddressillegaloriginalhoneyvocal
-bip_39_word_no_space_11: colorrivermotionancientclubaddressillegaloriginalhoneyvocalaware
 bip_39_word_no_space_12: colorrivermotionancientclubaddressillegaloriginalhoneyvocalawareapple
 bip_39_word_no_space_2: colorriver
 bip_39_word_no_space_3: colorrivermotion
-bip_39_word_no_space_4: colorrivermotionancient
-bip_39_word_no_space_5: colorrivermotionancientclub
-bip_39_word_no_space_6: colorrivermotionancientclubaddress
-bip_39_word_no_space_7: colorrivermotionancientclubaddressillegal
-bip_39_word_no_space_8: colorrivermotionancientclubaddressillegaloriginal
-bip_39_word_no_space_9: colorrivermotionancientclubaddressillegaloriginalhoney
-bip_39_word_space_0:
-- color
-- river
-- motion
-- ancient
-- club
-- address
-- illegal
-- original
-- honey
-- vocal
-- aware
-- apple
-bip_39_word_space_1: color
-bip_39_word_space_10: color river motion ancient club address illegal original honey
-  vocal
-bip_39_word_space_11: color river motion ancient club address illegal original honey
-  vocal aware
 bip_39_word_space_12: color river motion ancient club address illegal original honey
   vocal aware apple
 bip_39_word_space_2: color river
 bip_39_word_space_3: color river motion
-bip_39_word_space_4: color river motion ancient
-bip_39_word_space_5: color river motion ancient club
-bip_39_word_space_6: color river motion ancient club address
-bip_39_word_space_7: color river motion ancient club address illegal
-bip_39_word_space_8: color river motion ancient club address illegal original
-bip_39_word_space_9: color river motion ancient club address illegal original honey
-bip_39_word_underscore_1: color
-bip_39_word_underscore_10: color_river_motion_ancient_club_address_illegal_original_honey_vocal
-bip_39_word_underscore_11: color_river_motion_ancient_club_address_illegal_original_honey_vocal_aware
 bip_39_word_underscore_12: color_river_motion_ancient_club_address_illegal_original_honey_vocal_aware_apple
 bip_39_word_underscore_2: color_river
 bip_39_word_underscore_3: color_river_motion
-bip_39_word_underscore_4: color_river_motion_ancient
-bip_39_word_underscore_5: color_river_motion_ancient_club
-bip_39_word_underscore_6: color_river_motion_ancient_club_address
-bip_39_word_underscore_7: color_river_motion_ancient_club_address_illegal
-bip_39_word_underscore_8: color_river_motion_ancient_club_address_illegal_original
-bip_39_word_underscore_9: color_river_motion_ancient_club_address_illegal_original_honey
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

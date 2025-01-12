@@ -1,68 +1,9 @@
-bip_39_word_dash_1: gauge
-bip_39_word_dash_10: gauge-shove-pepper-smart-spawn-defense-rack-census-note-cushion
-bip_39_word_dash_11: gauge-shove-pepper-smart-spawn-defense-rack-census-note-cushion-winter
 bip_39_word_dash_12: gauge-shove-pepper-smart-spawn-defense-rack-census-note-cushion-winter-alarm
 bip_39_word_dash_2: gauge-shove
 bip_39_word_dash_3: gauge-shove-pepper
-bip_39_word_dash_4: gauge-shove-pepper-smart
-bip_39_word_dash_5: gauge-shove-pepper-smart-spawn
-bip_39_word_dash_6: gauge-shove-pepper-smart-spawn-defense
-bip_39_word_dash_7: gauge-shove-pepper-smart-spawn-defense-rack
-bip_39_word_dash_8: gauge-shove-pepper-smart-spawn-defense-rack-census
-bip_39_word_dash_9: gauge-shove-pepper-smart-spawn-defense-rack-census-note
-bip_39_word_new_br_1: gauge
-bip_39_word_new_br_10: gauge<br>shove<br>pepper<br>smart<br>spawn<br>defense<br>rack<br>census<br>note<br>cushion
-bip_39_word_new_br_11: gauge<br>shove<br>pepper<br>smart<br>spawn<br>defense<br>rack<br>census<br>note<br>cushion<br>winter
 bip_39_word_new_br_12: gauge<br>shove<br>pepper<br>smart<br>spawn<br>defense<br>rack<br>census<br>note<br>cushion<br>winter<br>alarm
 bip_39_word_new_br_2: gauge<br>shove
 bip_39_word_new_br_3: gauge<br>shove<br>pepper
-bip_39_word_new_br_4: gauge<br>shove<br>pepper<br>smart
-bip_39_word_new_br_5: gauge<br>shove<br>pepper<br>smart<br>spawn
-bip_39_word_new_br_6: gauge<br>shove<br>pepper<br>smart<br>spawn<br>defense
-bip_39_word_new_br_7: gauge<br>shove<br>pepper<br>smart<br>spawn<br>defense<br>rack
-bip_39_word_new_br_8: gauge<br>shove<br>pepper<br>smart<br>spawn<br>defense<br>rack<br>census
-bip_39_word_new_br_9: gauge<br>shove<br>pepper<br>smart<br>spawn<br>defense<br>rack<br>census<br>note
-bip_39_word_new_line_1: gauge
-bip_39_word_new_line_10: 'gauge
-
-  shove
-
-  pepper
-
-  smart
-
-  spawn
-
-  defense
-
-  rack
-
-  census
-
-  note
-
-  cushion'
-bip_39_word_new_line_11: 'gauge
-
-  shove
-
-  pepper
-
-  smart
-
-  spawn
-
-  defense
-
-  rack
-
-  census
-
-  note
-
-  cushion
-
-  winter'
 bip_39_word_new_line_12: 'gauge
 
   shove
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'gauge
   shove
 
   pepper'
-bip_39_word_new_line_4: 'gauge
-
-  shove
-
-  pepper
-
-  smart'
-bip_39_word_new_line_5: 'gauge
-
-  shove
-
-  pepper
-
-  smart
-
-  spawn'
-bip_39_word_new_line_6: 'gauge
-
-  shove
-
-  pepper
-
-  smart
-
-  spawn
-
-  defense'
-bip_39_word_new_line_7: 'gauge
-
-  shove
-
-  pepper
-
-  smart
-
-  spawn
-
-  defense
-
-  rack'
-bip_39_word_new_line_8: 'gauge
-
-  shove
-
-  pepper
-
-  smart
-
-  spawn
-
-  defense
-
-  rack
-
-  census'
-bip_39_word_new_line_9: 'gauge
-
-  shove
-
-  pepper
-
-  smart
-
-  spawn
-
-  defense
-
-  rack
-
-  census
-
-  note'
-bip_39_word_no_space_1: gauge
-bip_39_word_no_space_10: gaugeshovepeppersmartspawndefenserackcensusnotecushion
-bip_39_word_no_space_11: gaugeshovepeppersmartspawndefenserackcensusnotecushionwinter
 bip_39_word_no_space_12: gaugeshovepeppersmartspawndefenserackcensusnotecushionwinteralarm
 bip_39_word_no_space_2: gaugeshove
 bip_39_word_no_space_3: gaugeshovepepper
-bip_39_word_no_space_4: gaugeshovepeppersmart
-bip_39_word_no_space_5: gaugeshovepeppersmartspawn
-bip_39_word_no_space_6: gaugeshovepeppersmartspawndefense
-bip_39_word_no_space_7: gaugeshovepeppersmartspawndefenserack
-bip_39_word_no_space_8: gaugeshovepeppersmartspawndefenserackcensus
-bip_39_word_no_space_9: gaugeshovepeppersmartspawndefenserackcensusnote
-bip_39_word_space_0:
-- gauge
-- shove
-- pepper
-- smart
-- spawn
-- defense
-- rack
-- census
-- note
-- cushion
-- winter
-- alarm
-bip_39_word_space_1: gauge
-bip_39_word_space_10: gauge shove pepper smart spawn defense rack census note cushion
-bip_39_word_space_11: gauge shove pepper smart spawn defense rack census note cushion
-  winter
 bip_39_word_space_12: gauge shove pepper smart spawn defense rack census note cushion
   winter alarm
 bip_39_word_space_2: gauge shove
 bip_39_word_space_3: gauge shove pepper
-bip_39_word_space_4: gauge shove pepper smart
-bip_39_word_space_5: gauge shove pepper smart spawn
-bip_39_word_space_6: gauge shove pepper smart spawn defense
-bip_39_word_space_7: gauge shove pepper smart spawn defense rack
-bip_39_word_space_8: gauge shove pepper smart spawn defense rack census
-bip_39_word_space_9: gauge shove pepper smart spawn defense rack census note
-bip_39_word_underscore_1: gauge
-bip_39_word_underscore_10: gauge_shove_pepper_smart_spawn_defense_rack_census_note_cushion
-bip_39_word_underscore_11: gauge_shove_pepper_smart_spawn_defense_rack_census_note_cushion_winter
 bip_39_word_underscore_12: gauge_shove_pepper_smart_spawn_defense_rack_census_note_cushion_winter_alarm
 bip_39_word_underscore_2: gauge_shove
 bip_39_word_underscore_3: gauge_shove_pepper
-bip_39_word_underscore_4: gauge_shove_pepper_smart
-bip_39_word_underscore_5: gauge_shove_pepper_smart_spawn
-bip_39_word_underscore_6: gauge_shove_pepper_smart_spawn_defense
-bip_39_word_underscore_7: gauge_shove_pepper_smart_spawn_defense_rack
-bip_39_word_underscore_8: gauge_shove_pepper_smart_spawn_defense_rack_census
-bip_39_word_underscore_9: gauge_shove_pepper_smart_spawn_defense_rack_census_note
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

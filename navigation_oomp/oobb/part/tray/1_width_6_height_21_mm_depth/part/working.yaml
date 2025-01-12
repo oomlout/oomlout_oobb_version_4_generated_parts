@@ -1,68 +1,9 @@
-bip_39_word_dash_1: census
-bip_39_word_dash_10: census-review-govern-such-clarify-enough-left-demise-intact-address
-bip_39_word_dash_11: census-review-govern-such-clarify-enough-left-demise-intact-address-choice
 bip_39_word_dash_12: census-review-govern-such-clarify-enough-left-demise-intact-address-choice-amount
 bip_39_word_dash_2: census-review
 bip_39_word_dash_3: census-review-govern
-bip_39_word_dash_4: census-review-govern-such
-bip_39_word_dash_5: census-review-govern-such-clarify
-bip_39_word_dash_6: census-review-govern-such-clarify-enough
-bip_39_word_dash_7: census-review-govern-such-clarify-enough-left
-bip_39_word_dash_8: census-review-govern-such-clarify-enough-left-demise
-bip_39_word_dash_9: census-review-govern-such-clarify-enough-left-demise-intact
-bip_39_word_new_br_1: census
-bip_39_word_new_br_10: census<br>review<br>govern<br>such<br>clarify<br>enough<br>left<br>demise<br>intact<br>address
-bip_39_word_new_br_11: census<br>review<br>govern<br>such<br>clarify<br>enough<br>left<br>demise<br>intact<br>address<br>choice
 bip_39_word_new_br_12: census<br>review<br>govern<br>such<br>clarify<br>enough<br>left<br>demise<br>intact<br>address<br>choice<br>amount
 bip_39_word_new_br_2: census<br>review
 bip_39_word_new_br_3: census<br>review<br>govern
-bip_39_word_new_br_4: census<br>review<br>govern<br>such
-bip_39_word_new_br_5: census<br>review<br>govern<br>such<br>clarify
-bip_39_word_new_br_6: census<br>review<br>govern<br>such<br>clarify<br>enough
-bip_39_word_new_br_7: census<br>review<br>govern<br>such<br>clarify<br>enough<br>left
-bip_39_word_new_br_8: census<br>review<br>govern<br>such<br>clarify<br>enough<br>left<br>demise
-bip_39_word_new_br_9: census<br>review<br>govern<br>such<br>clarify<br>enough<br>left<br>demise<br>intact
-bip_39_word_new_line_1: census
-bip_39_word_new_line_10: 'census
-
-  review
-
-  govern
-
-  such
-
-  clarify
-
-  enough
-
-  left
-
-  demise
-
-  intact
-
-  address'
-bip_39_word_new_line_11: 'census
-
-  review
-
-  govern
-
-  such
-
-  clarify
-
-  enough
-
-  left
-
-  demise
-
-  intact
-
-  address
-
-  choice'
 bip_39_word_new_line_12: 'census
 
   review
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'census
   review
 
   govern'
-bip_39_word_new_line_4: 'census
-
-  review
-
-  govern
-
-  such'
-bip_39_word_new_line_5: 'census
-
-  review
-
-  govern
-
-  such
-
-  clarify'
-bip_39_word_new_line_6: 'census
-
-  review
-
-  govern
-
-  such
-
-  clarify
-
-  enough'
-bip_39_word_new_line_7: 'census
-
-  review
-
-  govern
-
-  such
-
-  clarify
-
-  enough
-
-  left'
-bip_39_word_new_line_8: 'census
-
-  review
-
-  govern
-
-  such
-
-  clarify
-
-  enough
-
-  left
-
-  demise'
-bip_39_word_new_line_9: 'census
-
-  review
-
-  govern
-
-  such
-
-  clarify
-
-  enough
-
-  left
-
-  demise
-
-  intact'
-bip_39_word_no_space_1: census
-bip_39_word_no_space_10: censusreviewgovernsuchclarifyenoughleftdemiseintactaddress
-bip_39_word_no_space_11: censusreviewgovernsuchclarifyenoughleftdemiseintactaddresschoice
 bip_39_word_no_space_12: censusreviewgovernsuchclarifyenoughleftdemiseintactaddresschoiceamount
 bip_39_word_no_space_2: censusreview
 bip_39_word_no_space_3: censusreviewgovern
-bip_39_word_no_space_4: censusreviewgovernsuch
-bip_39_word_no_space_5: censusreviewgovernsuchclarify
-bip_39_word_no_space_6: censusreviewgovernsuchclarifyenough
-bip_39_word_no_space_7: censusreviewgovernsuchclarifyenoughleft
-bip_39_word_no_space_8: censusreviewgovernsuchclarifyenoughleftdemise
-bip_39_word_no_space_9: censusreviewgovernsuchclarifyenoughleftdemiseintact
-bip_39_word_space_0:
-- census
-- review
-- govern
-- such
-- clarify
-- enough
-- left
-- demise
-- intact
-- address
-- choice
-- amount
-bip_39_word_space_1: census
-bip_39_word_space_10: census review govern such clarify enough left demise intact
-  address
-bip_39_word_space_11: census review govern such clarify enough left demise intact
-  address choice
 bip_39_word_space_12: census review govern such clarify enough left demise intact
   address choice amount
 bip_39_word_space_2: census review
 bip_39_word_space_3: census review govern
-bip_39_word_space_4: census review govern such
-bip_39_word_space_5: census review govern such clarify
-bip_39_word_space_6: census review govern such clarify enough
-bip_39_word_space_7: census review govern such clarify enough left
-bip_39_word_space_8: census review govern such clarify enough left demise
-bip_39_word_space_9: census review govern such clarify enough left demise intact
-bip_39_word_underscore_1: census
-bip_39_word_underscore_10: census_review_govern_such_clarify_enough_left_demise_intact_address
-bip_39_word_underscore_11: census_review_govern_such_clarify_enough_left_demise_intact_address_choice
 bip_39_word_underscore_12: census_review_govern_such_clarify_enough_left_demise_intact_address_choice_amount
 bip_39_word_underscore_2: census_review
 bip_39_word_underscore_3: census_review_govern
-bip_39_word_underscore_4: census_review_govern_such
-bip_39_word_underscore_5: census_review_govern_such_clarify
-bip_39_word_underscore_6: census_review_govern_such_clarify_enough
-bip_39_word_underscore_7: census_review_govern_such_clarify_enough_left
-bip_39_word_underscore_8: census_review_govern_such_clarify_enough_left_demise
-bip_39_word_underscore_9: census_review_govern_such_clarify_enough_left_demise_intact
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

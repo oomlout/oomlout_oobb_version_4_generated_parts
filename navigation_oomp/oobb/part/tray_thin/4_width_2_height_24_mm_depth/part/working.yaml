@@ -1,68 +1,9 @@
-bip_39_word_dash_1: grace
-bip_39_word_dash_10: grace-syrup-giggle-lion-decide-genius-thought-mule-winter-mistake
-bip_39_word_dash_11: grace-syrup-giggle-lion-decide-genius-thought-mule-winter-mistake-unfair
 bip_39_word_dash_12: grace-syrup-giggle-lion-decide-genius-thought-mule-winter-mistake-unfair-autumn
 bip_39_word_dash_2: grace-syrup
 bip_39_word_dash_3: grace-syrup-giggle
-bip_39_word_dash_4: grace-syrup-giggle-lion
-bip_39_word_dash_5: grace-syrup-giggle-lion-decide
-bip_39_word_dash_6: grace-syrup-giggle-lion-decide-genius
-bip_39_word_dash_7: grace-syrup-giggle-lion-decide-genius-thought
-bip_39_word_dash_8: grace-syrup-giggle-lion-decide-genius-thought-mule
-bip_39_word_dash_9: grace-syrup-giggle-lion-decide-genius-thought-mule-winter
-bip_39_word_new_br_1: grace
-bip_39_word_new_br_10: grace<br>syrup<br>giggle<br>lion<br>decide<br>genius<br>thought<br>mule<br>winter<br>mistake
-bip_39_word_new_br_11: grace<br>syrup<br>giggle<br>lion<br>decide<br>genius<br>thought<br>mule<br>winter<br>mistake<br>unfair
 bip_39_word_new_br_12: grace<br>syrup<br>giggle<br>lion<br>decide<br>genius<br>thought<br>mule<br>winter<br>mistake<br>unfair<br>autumn
 bip_39_word_new_br_2: grace<br>syrup
 bip_39_word_new_br_3: grace<br>syrup<br>giggle
-bip_39_word_new_br_4: grace<br>syrup<br>giggle<br>lion
-bip_39_word_new_br_5: grace<br>syrup<br>giggle<br>lion<br>decide
-bip_39_word_new_br_6: grace<br>syrup<br>giggle<br>lion<br>decide<br>genius
-bip_39_word_new_br_7: grace<br>syrup<br>giggle<br>lion<br>decide<br>genius<br>thought
-bip_39_word_new_br_8: grace<br>syrup<br>giggle<br>lion<br>decide<br>genius<br>thought<br>mule
-bip_39_word_new_br_9: grace<br>syrup<br>giggle<br>lion<br>decide<br>genius<br>thought<br>mule<br>winter
-bip_39_word_new_line_1: grace
-bip_39_word_new_line_10: 'grace
-
-  syrup
-
-  giggle
-
-  lion
-
-  decide
-
-  genius
-
-  thought
-
-  mule
-
-  winter
-
-  mistake'
-bip_39_word_new_line_11: 'grace
-
-  syrup
-
-  giggle
-
-  lion
-
-  decide
-
-  genius
-
-  thought
-
-  mule
-
-  winter
-
-  mistake
-
-  unfair'
 bip_39_word_new_line_12: 'grace
 
   syrup
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'grace
   syrup
 
   giggle'
-bip_39_word_new_line_4: 'grace
-
-  syrup
-
-  giggle
-
-  lion'
-bip_39_word_new_line_5: 'grace
-
-  syrup
-
-  giggle
-
-  lion
-
-  decide'
-bip_39_word_new_line_6: 'grace
-
-  syrup
-
-  giggle
-
-  lion
-
-  decide
-
-  genius'
-bip_39_word_new_line_7: 'grace
-
-  syrup
-
-  giggle
-
-  lion
-
-  decide
-
-  genius
-
-  thought'
-bip_39_word_new_line_8: 'grace
-
-  syrup
-
-  giggle
-
-  lion
-
-  decide
-
-  genius
-
-  thought
-
-  mule'
-bip_39_word_new_line_9: 'grace
-
-  syrup
-
-  giggle
-
-  lion
-
-  decide
-
-  genius
-
-  thought
-
-  mule
-
-  winter'
-bip_39_word_no_space_1: grace
-bip_39_word_no_space_10: gracesyrupgiggleliondecidegeniusthoughtmulewintermistake
-bip_39_word_no_space_11: gracesyrupgiggleliondecidegeniusthoughtmulewintermistakeunfair
 bip_39_word_no_space_12: gracesyrupgiggleliondecidegeniusthoughtmulewintermistakeunfairautumn
 bip_39_word_no_space_2: gracesyrup
 bip_39_word_no_space_3: gracesyrupgiggle
-bip_39_word_no_space_4: gracesyrupgigglelion
-bip_39_word_no_space_5: gracesyrupgiggleliondecide
-bip_39_word_no_space_6: gracesyrupgiggleliondecidegenius
-bip_39_word_no_space_7: gracesyrupgiggleliondecidegeniusthought
-bip_39_word_no_space_8: gracesyrupgiggleliondecidegeniusthoughtmule
-bip_39_word_no_space_9: gracesyrupgiggleliondecidegeniusthoughtmulewinter
-bip_39_word_space_0:
-- grace
-- syrup
-- giggle
-- lion
-- decide
-- genius
-- thought
-- mule
-- winter
-- mistake
-- unfair
-- autumn
-bip_39_word_space_1: grace
-bip_39_word_space_10: grace syrup giggle lion decide genius thought mule winter mistake
-bip_39_word_space_11: grace syrup giggle lion decide genius thought mule winter mistake
-  unfair
 bip_39_word_space_12: grace syrup giggle lion decide genius thought mule winter mistake
   unfair autumn
 bip_39_word_space_2: grace syrup
 bip_39_word_space_3: grace syrup giggle
-bip_39_word_space_4: grace syrup giggle lion
-bip_39_word_space_5: grace syrup giggle lion decide
-bip_39_word_space_6: grace syrup giggle lion decide genius
-bip_39_word_space_7: grace syrup giggle lion decide genius thought
-bip_39_word_space_8: grace syrup giggle lion decide genius thought mule
-bip_39_word_space_9: grace syrup giggle lion decide genius thought mule winter
-bip_39_word_underscore_1: grace
-bip_39_word_underscore_10: grace_syrup_giggle_lion_decide_genius_thought_mule_winter_mistake
-bip_39_word_underscore_11: grace_syrup_giggle_lion_decide_genius_thought_mule_winter_mistake_unfair
 bip_39_word_underscore_12: grace_syrup_giggle_lion_decide_genius_thought_mule_winter_mistake_unfair_autumn
 bip_39_word_underscore_2: grace_syrup
 bip_39_word_underscore_3: grace_syrup_giggle
-bip_39_word_underscore_4: grace_syrup_giggle_lion
-bip_39_word_underscore_5: grace_syrup_giggle_lion_decide
-bip_39_word_underscore_6: grace_syrup_giggle_lion_decide_genius
-bip_39_word_underscore_7: grace_syrup_giggle_lion_decide_genius_thought
-bip_39_word_underscore_8: grace_syrup_giggle_lion_decide_genius_thought_mule
-bip_39_word_underscore_9: grace_syrup_giggle_lion_decide_genius_thought_mule_winter
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: when
-bip_39_word_dash_10: when-spend-inherit-cherry-sure-game-next-local-around-afraid
-bip_39_word_dash_11: when-spend-inherit-cherry-sure-game-next-local-around-afraid-ridge
 bip_39_word_dash_12: when-spend-inherit-cherry-sure-game-next-local-around-afraid-ridge-agent
 bip_39_word_dash_2: when-spend
 bip_39_word_dash_3: when-spend-inherit
-bip_39_word_dash_4: when-spend-inherit-cherry
-bip_39_word_dash_5: when-spend-inherit-cherry-sure
-bip_39_word_dash_6: when-spend-inherit-cherry-sure-game
-bip_39_word_dash_7: when-spend-inherit-cherry-sure-game-next
-bip_39_word_dash_8: when-spend-inherit-cherry-sure-game-next-local
-bip_39_word_dash_9: when-spend-inherit-cherry-sure-game-next-local-around
-bip_39_word_new_br_1: when
-bip_39_word_new_br_10: when<br>spend<br>inherit<br>cherry<br>sure<br>game<br>next<br>local<br>around<br>afraid
-bip_39_word_new_br_11: when<br>spend<br>inherit<br>cherry<br>sure<br>game<br>next<br>local<br>around<br>afraid<br>ridge
 bip_39_word_new_br_12: when<br>spend<br>inherit<br>cherry<br>sure<br>game<br>next<br>local<br>around<br>afraid<br>ridge<br>agent
 bip_39_word_new_br_2: when<br>spend
 bip_39_word_new_br_3: when<br>spend<br>inherit
-bip_39_word_new_br_4: when<br>spend<br>inherit<br>cherry
-bip_39_word_new_br_5: when<br>spend<br>inherit<br>cherry<br>sure
-bip_39_word_new_br_6: when<br>spend<br>inherit<br>cherry<br>sure<br>game
-bip_39_word_new_br_7: when<br>spend<br>inherit<br>cherry<br>sure<br>game<br>next
-bip_39_word_new_br_8: when<br>spend<br>inherit<br>cherry<br>sure<br>game<br>next<br>local
-bip_39_word_new_br_9: when<br>spend<br>inherit<br>cherry<br>sure<br>game<br>next<br>local<br>around
-bip_39_word_new_line_1: when
-bip_39_word_new_line_10: 'when
-
-  spend
-
-  inherit
-
-  cherry
-
-  sure
-
-  game
-
-  next
-
-  local
-
-  around
-
-  afraid'
-bip_39_word_new_line_11: 'when
-
-  spend
-
-  inherit
-
-  cherry
-
-  sure
-
-  game
-
-  next
-
-  local
-
-  around
-
-  afraid
-
-  ridge'
 bip_39_word_new_line_12: 'when
 
   spend
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'when
   spend
 
   inherit'
-bip_39_word_new_line_4: 'when
-
-  spend
-
-  inherit
-
-  cherry'
-bip_39_word_new_line_5: 'when
-
-  spend
-
-  inherit
-
-  cherry
-
-  sure'
-bip_39_word_new_line_6: 'when
-
-  spend
-
-  inherit
-
-  cherry
-
-  sure
-
-  game'
-bip_39_word_new_line_7: 'when
-
-  spend
-
-  inherit
-
-  cherry
-
-  sure
-
-  game
-
-  next'
-bip_39_word_new_line_8: 'when
-
-  spend
-
-  inherit
-
-  cherry
-
-  sure
-
-  game
-
-  next
-
-  local'
-bip_39_word_new_line_9: 'when
-
-  spend
-
-  inherit
-
-  cherry
-
-  sure
-
-  game
-
-  next
-
-  local
-
-  around'
-bip_39_word_no_space_1: when
-bip_39_word_no_space_10: whenspendinheritcherrysuregamenextlocalaroundafraid
-bip_39_word_no_space_11: whenspendinheritcherrysuregamenextlocalaroundafraidridge
 bip_39_word_no_space_12: whenspendinheritcherrysuregamenextlocalaroundafraidridgeagent
 bip_39_word_no_space_2: whenspend
 bip_39_word_no_space_3: whenspendinherit
-bip_39_word_no_space_4: whenspendinheritcherry
-bip_39_word_no_space_5: whenspendinheritcherrysure
-bip_39_word_no_space_6: whenspendinheritcherrysuregame
-bip_39_word_no_space_7: whenspendinheritcherrysuregamenext
-bip_39_word_no_space_8: whenspendinheritcherrysuregamenextlocal
-bip_39_word_no_space_9: whenspendinheritcherrysuregamenextlocalaround
-bip_39_word_space_0:
-- when
-- spend
-- inherit
-- cherry
-- sure
-- game
-- next
-- local
-- around
-- afraid
-- ridge
-- agent
-bip_39_word_space_1: when
-bip_39_word_space_10: when spend inherit cherry sure game next local around afraid
-bip_39_word_space_11: when spend inherit cherry sure game next local around afraid
-  ridge
 bip_39_word_space_12: when spend inherit cherry sure game next local around afraid
   ridge agent
 bip_39_word_space_2: when spend
 bip_39_word_space_3: when spend inherit
-bip_39_word_space_4: when spend inherit cherry
-bip_39_word_space_5: when spend inherit cherry sure
-bip_39_word_space_6: when spend inherit cherry sure game
-bip_39_word_space_7: when spend inherit cherry sure game next
-bip_39_word_space_8: when spend inherit cherry sure game next local
-bip_39_word_space_9: when spend inherit cherry sure game next local around
-bip_39_word_underscore_1: when
-bip_39_word_underscore_10: when_spend_inherit_cherry_sure_game_next_local_around_afraid
-bip_39_word_underscore_11: when_spend_inherit_cherry_sure_game_next_local_around_afraid_ridge
 bip_39_word_underscore_12: when_spend_inherit_cherry_sure_game_next_local_around_afraid_ridge_agent
 bip_39_word_underscore_2: when_spend
 bip_39_word_underscore_3: when_spend_inherit
-bip_39_word_underscore_4: when_spend_inherit_cherry
-bip_39_word_underscore_5: when_spend_inherit_cherry_sure
-bip_39_word_underscore_6: when_spend_inherit_cherry_sure_game
-bip_39_word_underscore_7: when_spend_inherit_cherry_sure_game_next
-bip_39_word_underscore_8: when_spend_inherit_cherry_sure_game_next_local
-bip_39_word_underscore_9: when_spend_inherit_cherry_sure_game_next_local_around
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

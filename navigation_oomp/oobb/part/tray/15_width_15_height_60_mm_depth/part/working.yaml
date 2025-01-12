@@ -1,68 +1,9 @@
-bip_39_word_dash_1: outdoor
-bip_39_word_dash_10: outdoor-advice-fluid-nasty-unhappy-chunk-clerk-hospital-mechanic-jar
-bip_39_word_dash_11: outdoor-advice-fluid-nasty-unhappy-chunk-clerk-hospital-mechanic-jar-spike
 bip_39_word_dash_12: outdoor-advice-fluid-nasty-unhappy-chunk-clerk-hospital-mechanic-jar-spike-absorb
 bip_39_word_dash_2: outdoor-advice
 bip_39_word_dash_3: outdoor-advice-fluid
-bip_39_word_dash_4: outdoor-advice-fluid-nasty
-bip_39_word_dash_5: outdoor-advice-fluid-nasty-unhappy
-bip_39_word_dash_6: outdoor-advice-fluid-nasty-unhappy-chunk
-bip_39_word_dash_7: outdoor-advice-fluid-nasty-unhappy-chunk-clerk
-bip_39_word_dash_8: outdoor-advice-fluid-nasty-unhappy-chunk-clerk-hospital
-bip_39_word_dash_9: outdoor-advice-fluid-nasty-unhappy-chunk-clerk-hospital-mechanic
-bip_39_word_new_br_1: outdoor
-bip_39_word_new_br_10: outdoor<br>advice<br>fluid<br>nasty<br>unhappy<br>chunk<br>clerk<br>hospital<br>mechanic<br>jar
-bip_39_word_new_br_11: outdoor<br>advice<br>fluid<br>nasty<br>unhappy<br>chunk<br>clerk<br>hospital<br>mechanic<br>jar<br>spike
 bip_39_word_new_br_12: outdoor<br>advice<br>fluid<br>nasty<br>unhappy<br>chunk<br>clerk<br>hospital<br>mechanic<br>jar<br>spike<br>absorb
 bip_39_word_new_br_2: outdoor<br>advice
 bip_39_word_new_br_3: outdoor<br>advice<br>fluid
-bip_39_word_new_br_4: outdoor<br>advice<br>fluid<br>nasty
-bip_39_word_new_br_5: outdoor<br>advice<br>fluid<br>nasty<br>unhappy
-bip_39_word_new_br_6: outdoor<br>advice<br>fluid<br>nasty<br>unhappy<br>chunk
-bip_39_word_new_br_7: outdoor<br>advice<br>fluid<br>nasty<br>unhappy<br>chunk<br>clerk
-bip_39_word_new_br_8: outdoor<br>advice<br>fluid<br>nasty<br>unhappy<br>chunk<br>clerk<br>hospital
-bip_39_word_new_br_9: outdoor<br>advice<br>fluid<br>nasty<br>unhappy<br>chunk<br>clerk<br>hospital<br>mechanic
-bip_39_word_new_line_1: outdoor
-bip_39_word_new_line_10: 'outdoor
-
-  advice
-
-  fluid
-
-  nasty
-
-  unhappy
-
-  chunk
-
-  clerk
-
-  hospital
-
-  mechanic
-
-  jar'
-bip_39_word_new_line_11: 'outdoor
-
-  advice
-
-  fluid
-
-  nasty
-
-  unhappy
-
-  chunk
-
-  clerk
-
-  hospital
-
-  mechanic
-
-  jar
-
-  spike'
 bip_39_word_new_line_12: 'outdoor
 
   advice
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'outdoor
   advice
 
   fluid'
-bip_39_word_new_line_4: 'outdoor
-
-  advice
-
-  fluid
-
-  nasty'
-bip_39_word_new_line_5: 'outdoor
-
-  advice
-
-  fluid
-
-  nasty
-
-  unhappy'
-bip_39_word_new_line_6: 'outdoor
-
-  advice
-
-  fluid
-
-  nasty
-
-  unhappy
-
-  chunk'
-bip_39_word_new_line_7: 'outdoor
-
-  advice
-
-  fluid
-
-  nasty
-
-  unhappy
-
-  chunk
-
-  clerk'
-bip_39_word_new_line_8: 'outdoor
-
-  advice
-
-  fluid
-
-  nasty
-
-  unhappy
-
-  chunk
-
-  clerk
-
-  hospital'
-bip_39_word_new_line_9: 'outdoor
-
-  advice
-
-  fluid
-
-  nasty
-
-  unhappy
-
-  chunk
-
-  clerk
-
-  hospital
-
-  mechanic'
-bip_39_word_no_space_1: outdoor
-bip_39_word_no_space_10: outdooradvicefluidnastyunhappychunkclerkhospitalmechanicjar
-bip_39_word_no_space_11: outdooradvicefluidnastyunhappychunkclerkhospitalmechanicjarspike
 bip_39_word_no_space_12: outdooradvicefluidnastyunhappychunkclerkhospitalmechanicjarspikeabsorb
 bip_39_word_no_space_2: outdooradvice
 bip_39_word_no_space_3: outdooradvicefluid
-bip_39_word_no_space_4: outdooradvicefluidnasty
-bip_39_word_no_space_5: outdooradvicefluidnastyunhappy
-bip_39_word_no_space_6: outdooradvicefluidnastyunhappychunk
-bip_39_word_no_space_7: outdooradvicefluidnastyunhappychunkclerk
-bip_39_word_no_space_8: outdooradvicefluidnastyunhappychunkclerkhospital
-bip_39_word_no_space_9: outdooradvicefluidnastyunhappychunkclerkhospitalmechanic
-bip_39_word_space_0:
-- outdoor
-- advice
-- fluid
-- nasty
-- unhappy
-- chunk
-- clerk
-- hospital
-- mechanic
-- jar
-- spike
-- absorb
-bip_39_word_space_1: outdoor
-bip_39_word_space_10: outdoor advice fluid nasty unhappy chunk clerk hospital mechanic
-  jar
-bip_39_word_space_11: outdoor advice fluid nasty unhappy chunk clerk hospital mechanic
-  jar spike
 bip_39_word_space_12: outdoor advice fluid nasty unhappy chunk clerk hospital mechanic
   jar spike absorb
 bip_39_word_space_2: outdoor advice
 bip_39_word_space_3: outdoor advice fluid
-bip_39_word_space_4: outdoor advice fluid nasty
-bip_39_word_space_5: outdoor advice fluid nasty unhappy
-bip_39_word_space_6: outdoor advice fluid nasty unhappy chunk
-bip_39_word_space_7: outdoor advice fluid nasty unhappy chunk clerk
-bip_39_word_space_8: outdoor advice fluid nasty unhappy chunk clerk hospital
-bip_39_word_space_9: outdoor advice fluid nasty unhappy chunk clerk hospital mechanic
-bip_39_word_underscore_1: outdoor
-bip_39_word_underscore_10: outdoor_advice_fluid_nasty_unhappy_chunk_clerk_hospital_mechanic_jar
-bip_39_word_underscore_11: outdoor_advice_fluid_nasty_unhappy_chunk_clerk_hospital_mechanic_jar_spike
 bip_39_word_underscore_12: outdoor_advice_fluid_nasty_unhappy_chunk_clerk_hospital_mechanic_jar_spike_absorb
 bip_39_word_underscore_2: outdoor_advice
 bip_39_word_underscore_3: outdoor_advice_fluid
-bip_39_word_underscore_4: outdoor_advice_fluid_nasty
-bip_39_word_underscore_5: outdoor_advice_fluid_nasty_unhappy
-bip_39_word_underscore_6: outdoor_advice_fluid_nasty_unhappy_chunk
-bip_39_word_underscore_7: outdoor_advice_fluid_nasty_unhappy_chunk_clerk
-bip_39_word_underscore_8: outdoor_advice_fluid_nasty_unhappy_chunk_clerk_hospital
-bip_39_word_underscore_9: outdoor_advice_fluid_nasty_unhappy_chunk_clerk_hospital_mechanic
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

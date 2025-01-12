@@ -1,68 +1,9 @@
-bip_39_word_dash_1: pelican
-bip_39_word_dash_10: pelican-busy-antique-face-coyote-garlic-require-giraffe-owner-steel
-bip_39_word_dash_11: pelican-busy-antique-face-coyote-garlic-require-giraffe-owner-steel-cabbage
 bip_39_word_dash_12: pelican-busy-antique-face-coyote-garlic-require-giraffe-owner-steel-cabbage-able
 bip_39_word_dash_2: pelican-busy
 bip_39_word_dash_3: pelican-busy-antique
-bip_39_word_dash_4: pelican-busy-antique-face
-bip_39_word_dash_5: pelican-busy-antique-face-coyote
-bip_39_word_dash_6: pelican-busy-antique-face-coyote-garlic
-bip_39_word_dash_7: pelican-busy-antique-face-coyote-garlic-require
-bip_39_word_dash_8: pelican-busy-antique-face-coyote-garlic-require-giraffe
-bip_39_word_dash_9: pelican-busy-antique-face-coyote-garlic-require-giraffe-owner
-bip_39_word_new_br_1: pelican
-bip_39_word_new_br_10: pelican<br>busy<br>antique<br>face<br>coyote<br>garlic<br>require<br>giraffe<br>owner<br>steel
-bip_39_word_new_br_11: pelican<br>busy<br>antique<br>face<br>coyote<br>garlic<br>require<br>giraffe<br>owner<br>steel<br>cabbage
 bip_39_word_new_br_12: pelican<br>busy<br>antique<br>face<br>coyote<br>garlic<br>require<br>giraffe<br>owner<br>steel<br>cabbage<br>able
 bip_39_word_new_br_2: pelican<br>busy
 bip_39_word_new_br_3: pelican<br>busy<br>antique
-bip_39_word_new_br_4: pelican<br>busy<br>antique<br>face
-bip_39_word_new_br_5: pelican<br>busy<br>antique<br>face<br>coyote
-bip_39_word_new_br_6: pelican<br>busy<br>antique<br>face<br>coyote<br>garlic
-bip_39_word_new_br_7: pelican<br>busy<br>antique<br>face<br>coyote<br>garlic<br>require
-bip_39_word_new_br_8: pelican<br>busy<br>antique<br>face<br>coyote<br>garlic<br>require<br>giraffe
-bip_39_word_new_br_9: pelican<br>busy<br>antique<br>face<br>coyote<br>garlic<br>require<br>giraffe<br>owner
-bip_39_word_new_line_1: pelican
-bip_39_word_new_line_10: 'pelican
-
-  busy
-
-  antique
-
-  face
-
-  coyote
-
-  garlic
-
-  require
-
-  giraffe
-
-  owner
-
-  steel'
-bip_39_word_new_line_11: 'pelican
-
-  busy
-
-  antique
-
-  face
-
-  coyote
-
-  garlic
-
-  require
-
-  giraffe
-
-  owner
-
-  steel
-
-  cabbage'
 bip_39_word_new_line_12: 'pelican
 
   busy
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'pelican
   busy
 
   antique'
-bip_39_word_new_line_4: 'pelican
-
-  busy
-
-  antique
-
-  face'
-bip_39_word_new_line_5: 'pelican
-
-  busy
-
-  antique
-
-  face
-
-  coyote'
-bip_39_word_new_line_6: 'pelican
-
-  busy
-
-  antique
-
-  face
-
-  coyote
-
-  garlic'
-bip_39_word_new_line_7: 'pelican
-
-  busy
-
-  antique
-
-  face
-
-  coyote
-
-  garlic
-
-  require'
-bip_39_word_new_line_8: 'pelican
-
-  busy
-
-  antique
-
-  face
-
-  coyote
-
-  garlic
-
-  require
-
-  giraffe'
-bip_39_word_new_line_9: 'pelican
-
-  busy
-
-  antique
-
-  face
-
-  coyote
-
-  garlic
-
-  require
-
-  giraffe
-
-  owner'
-bip_39_word_no_space_1: pelican
-bip_39_word_no_space_10: pelicanbusyantiquefacecoyotegarlicrequiregiraffeownersteel
-bip_39_word_no_space_11: pelicanbusyantiquefacecoyotegarlicrequiregiraffeownersteelcabbage
 bip_39_word_no_space_12: pelicanbusyantiquefacecoyotegarlicrequiregiraffeownersteelcabbageable
 bip_39_word_no_space_2: pelicanbusy
 bip_39_word_no_space_3: pelicanbusyantique
-bip_39_word_no_space_4: pelicanbusyantiqueface
-bip_39_word_no_space_5: pelicanbusyantiquefacecoyote
-bip_39_word_no_space_6: pelicanbusyantiquefacecoyotegarlic
-bip_39_word_no_space_7: pelicanbusyantiquefacecoyotegarlicrequire
-bip_39_word_no_space_8: pelicanbusyantiquefacecoyotegarlicrequiregiraffe
-bip_39_word_no_space_9: pelicanbusyantiquefacecoyotegarlicrequiregiraffeowner
-bip_39_word_space_0:
-- pelican
-- busy
-- antique
-- face
-- coyote
-- garlic
-- require
-- giraffe
-- owner
-- steel
-- cabbage
-- able
-bip_39_word_space_1: pelican
-bip_39_word_space_10: pelican busy antique face coyote garlic require giraffe owner
-  steel
-bip_39_word_space_11: pelican busy antique face coyote garlic require giraffe owner
-  steel cabbage
 bip_39_word_space_12: pelican busy antique face coyote garlic require giraffe owner
   steel cabbage able
 bip_39_word_space_2: pelican busy
 bip_39_word_space_3: pelican busy antique
-bip_39_word_space_4: pelican busy antique face
-bip_39_word_space_5: pelican busy antique face coyote
-bip_39_word_space_6: pelican busy antique face coyote garlic
-bip_39_word_space_7: pelican busy antique face coyote garlic require
-bip_39_word_space_8: pelican busy antique face coyote garlic require giraffe
-bip_39_word_space_9: pelican busy antique face coyote garlic require giraffe owner
-bip_39_word_underscore_1: pelican
-bip_39_word_underscore_10: pelican_busy_antique_face_coyote_garlic_require_giraffe_owner_steel
-bip_39_word_underscore_11: pelican_busy_antique_face_coyote_garlic_require_giraffe_owner_steel_cabbage
 bip_39_word_underscore_12: pelican_busy_antique_face_coyote_garlic_require_giraffe_owner_steel_cabbage_able
 bip_39_word_underscore_2: pelican_busy
 bip_39_word_underscore_3: pelican_busy_antique
-bip_39_word_underscore_4: pelican_busy_antique_face
-bip_39_word_underscore_5: pelican_busy_antique_face_coyote
-bip_39_word_underscore_6: pelican_busy_antique_face_coyote_garlic
-bip_39_word_underscore_7: pelican_busy_antique_face_coyote_garlic_require
-bip_39_word_underscore_8: pelican_busy_antique_face_coyote_garlic_require_giraffe
-bip_39_word_underscore_9: pelican_busy_antique_face_coyote_garlic_require_giraffe_owner
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

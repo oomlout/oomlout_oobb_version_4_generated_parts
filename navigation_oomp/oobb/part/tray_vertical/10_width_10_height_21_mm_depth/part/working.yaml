@@ -1,68 +1,9 @@
-bip_39_word_dash_1: tag
-bip_39_word_dash_10: tag-gentle-tourist-check-blade-retire-grace-clutch-fetch-blouse
-bip_39_word_dash_11: tag-gentle-tourist-check-blade-retire-grace-clutch-fetch-blouse-coin
 bip_39_word_dash_12: tag-gentle-tourist-check-blade-retire-grace-clutch-fetch-blouse-coin-alarm
 bip_39_word_dash_2: tag-gentle
 bip_39_word_dash_3: tag-gentle-tourist
-bip_39_word_dash_4: tag-gentle-tourist-check
-bip_39_word_dash_5: tag-gentle-tourist-check-blade
-bip_39_word_dash_6: tag-gentle-tourist-check-blade-retire
-bip_39_word_dash_7: tag-gentle-tourist-check-blade-retire-grace
-bip_39_word_dash_8: tag-gentle-tourist-check-blade-retire-grace-clutch
-bip_39_word_dash_9: tag-gentle-tourist-check-blade-retire-grace-clutch-fetch
-bip_39_word_new_br_1: tag
-bip_39_word_new_br_10: tag<br>gentle<br>tourist<br>check<br>blade<br>retire<br>grace<br>clutch<br>fetch<br>blouse
-bip_39_word_new_br_11: tag<br>gentle<br>tourist<br>check<br>blade<br>retire<br>grace<br>clutch<br>fetch<br>blouse<br>coin
 bip_39_word_new_br_12: tag<br>gentle<br>tourist<br>check<br>blade<br>retire<br>grace<br>clutch<br>fetch<br>blouse<br>coin<br>alarm
 bip_39_word_new_br_2: tag<br>gentle
 bip_39_word_new_br_3: tag<br>gentle<br>tourist
-bip_39_word_new_br_4: tag<br>gentle<br>tourist<br>check
-bip_39_word_new_br_5: tag<br>gentle<br>tourist<br>check<br>blade
-bip_39_word_new_br_6: tag<br>gentle<br>tourist<br>check<br>blade<br>retire
-bip_39_word_new_br_7: tag<br>gentle<br>tourist<br>check<br>blade<br>retire<br>grace
-bip_39_word_new_br_8: tag<br>gentle<br>tourist<br>check<br>blade<br>retire<br>grace<br>clutch
-bip_39_word_new_br_9: tag<br>gentle<br>tourist<br>check<br>blade<br>retire<br>grace<br>clutch<br>fetch
-bip_39_word_new_line_1: tag
-bip_39_word_new_line_10: 'tag
-
-  gentle
-
-  tourist
-
-  check
-
-  blade
-
-  retire
-
-  grace
-
-  clutch
-
-  fetch
-
-  blouse'
-bip_39_word_new_line_11: 'tag
-
-  gentle
-
-  tourist
-
-  check
-
-  blade
-
-  retire
-
-  grace
-
-  clutch
-
-  fetch
-
-  blouse
-
-  coin'
 bip_39_word_new_line_12: 'tag
 
   gentle
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'tag
   gentle
 
   tourist'
-bip_39_word_new_line_4: 'tag
-
-  gentle
-
-  tourist
-
-  check'
-bip_39_word_new_line_5: 'tag
-
-  gentle
-
-  tourist
-
-  check
-
-  blade'
-bip_39_word_new_line_6: 'tag
-
-  gentle
-
-  tourist
-
-  check
-
-  blade
-
-  retire'
-bip_39_word_new_line_7: 'tag
-
-  gentle
-
-  tourist
-
-  check
-
-  blade
-
-  retire
-
-  grace'
-bip_39_word_new_line_8: 'tag
-
-  gentle
-
-  tourist
-
-  check
-
-  blade
-
-  retire
-
-  grace
-
-  clutch'
-bip_39_word_new_line_9: 'tag
-
-  gentle
-
-  tourist
-
-  check
-
-  blade
-
-  retire
-
-  grace
-
-  clutch
-
-  fetch'
-bip_39_word_no_space_1: tag
-bip_39_word_no_space_10: taggentletouristcheckbladeretiregraceclutchfetchblouse
-bip_39_word_no_space_11: taggentletouristcheckbladeretiregraceclutchfetchblousecoin
 bip_39_word_no_space_12: taggentletouristcheckbladeretiregraceclutchfetchblousecoinalarm
 bip_39_word_no_space_2: taggentle
 bip_39_word_no_space_3: taggentletourist
-bip_39_word_no_space_4: taggentletouristcheck
-bip_39_word_no_space_5: taggentletouristcheckblade
-bip_39_word_no_space_6: taggentletouristcheckbladeretire
-bip_39_word_no_space_7: taggentletouristcheckbladeretiregrace
-bip_39_word_no_space_8: taggentletouristcheckbladeretiregraceclutch
-bip_39_word_no_space_9: taggentletouristcheckbladeretiregraceclutchfetch
-bip_39_word_space_0:
-- tag
-- gentle
-- tourist
-- check
-- blade
-- retire
-- grace
-- clutch
-- fetch
-- blouse
-- coin
-- alarm
-bip_39_word_space_1: tag
-bip_39_word_space_10: tag gentle tourist check blade retire grace clutch fetch blouse
-bip_39_word_space_11: tag gentle tourist check blade retire grace clutch fetch blouse
-  coin
 bip_39_word_space_12: tag gentle tourist check blade retire grace clutch fetch blouse
   coin alarm
 bip_39_word_space_2: tag gentle
 bip_39_word_space_3: tag gentle tourist
-bip_39_word_space_4: tag gentle tourist check
-bip_39_word_space_5: tag gentle tourist check blade
-bip_39_word_space_6: tag gentle tourist check blade retire
-bip_39_word_space_7: tag gentle tourist check blade retire grace
-bip_39_word_space_8: tag gentle tourist check blade retire grace clutch
-bip_39_word_space_9: tag gentle tourist check blade retire grace clutch fetch
-bip_39_word_underscore_1: tag
-bip_39_word_underscore_10: tag_gentle_tourist_check_blade_retire_grace_clutch_fetch_blouse
-bip_39_word_underscore_11: tag_gentle_tourist_check_blade_retire_grace_clutch_fetch_blouse_coin
 bip_39_word_underscore_12: tag_gentle_tourist_check_blade_retire_grace_clutch_fetch_blouse_coin_alarm
 bip_39_word_underscore_2: tag_gentle
 bip_39_word_underscore_3: tag_gentle_tourist
-bip_39_word_underscore_4: tag_gentle_tourist_check
-bip_39_word_underscore_5: tag_gentle_tourist_check_blade
-bip_39_word_underscore_6: tag_gentle_tourist_check_blade_retire
-bip_39_word_underscore_7: tag_gentle_tourist_check_blade_retire_grace
-bip_39_word_underscore_8: tag_gentle_tourist_check_blade_retire_grace_clutch
-bip_39_word_underscore_9: tag_gentle_tourist_check_blade_retire_grace_clutch_fetch
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: domain
-bip_39_word_dash_10: domain-employ-loan-derive-card-age-stand-weapon-torch-gadget
-bip_39_word_dash_11: domain-employ-loan-derive-card-age-stand-weapon-torch-gadget-tomato
 bip_39_word_dash_12: domain-employ-loan-derive-card-age-stand-weapon-torch-gadget-tomato-above
 bip_39_word_dash_2: domain-employ
 bip_39_word_dash_3: domain-employ-loan
-bip_39_word_dash_4: domain-employ-loan-derive
-bip_39_word_dash_5: domain-employ-loan-derive-card
-bip_39_word_dash_6: domain-employ-loan-derive-card-age
-bip_39_word_dash_7: domain-employ-loan-derive-card-age-stand
-bip_39_word_dash_8: domain-employ-loan-derive-card-age-stand-weapon
-bip_39_word_dash_9: domain-employ-loan-derive-card-age-stand-weapon-torch
-bip_39_word_new_br_1: domain
-bip_39_word_new_br_10: domain<br>employ<br>loan<br>derive<br>card<br>age<br>stand<br>weapon<br>torch<br>gadget
-bip_39_word_new_br_11: domain<br>employ<br>loan<br>derive<br>card<br>age<br>stand<br>weapon<br>torch<br>gadget<br>tomato
 bip_39_word_new_br_12: domain<br>employ<br>loan<br>derive<br>card<br>age<br>stand<br>weapon<br>torch<br>gadget<br>tomato<br>above
 bip_39_word_new_br_2: domain<br>employ
 bip_39_word_new_br_3: domain<br>employ<br>loan
-bip_39_word_new_br_4: domain<br>employ<br>loan<br>derive
-bip_39_word_new_br_5: domain<br>employ<br>loan<br>derive<br>card
-bip_39_word_new_br_6: domain<br>employ<br>loan<br>derive<br>card<br>age
-bip_39_word_new_br_7: domain<br>employ<br>loan<br>derive<br>card<br>age<br>stand
-bip_39_word_new_br_8: domain<br>employ<br>loan<br>derive<br>card<br>age<br>stand<br>weapon
-bip_39_word_new_br_9: domain<br>employ<br>loan<br>derive<br>card<br>age<br>stand<br>weapon<br>torch
-bip_39_word_new_line_1: domain
-bip_39_word_new_line_10: 'domain
-
-  employ
-
-  loan
-
-  derive
-
-  card
-
-  age
-
-  stand
-
-  weapon
-
-  torch
-
-  gadget'
-bip_39_word_new_line_11: 'domain
-
-  employ
-
-  loan
-
-  derive
-
-  card
-
-  age
-
-  stand
-
-  weapon
-
-  torch
-
-  gadget
-
-  tomato'
 bip_39_word_new_line_12: 'domain
 
   employ
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'domain
   employ
 
   loan'
-bip_39_word_new_line_4: 'domain
-
-  employ
-
-  loan
-
-  derive'
-bip_39_word_new_line_5: 'domain
-
-  employ
-
-  loan
-
-  derive
-
-  card'
-bip_39_word_new_line_6: 'domain
-
-  employ
-
-  loan
-
-  derive
-
-  card
-
-  age'
-bip_39_word_new_line_7: 'domain
-
-  employ
-
-  loan
-
-  derive
-
-  card
-
-  age
-
-  stand'
-bip_39_word_new_line_8: 'domain
-
-  employ
-
-  loan
-
-  derive
-
-  card
-
-  age
-
-  stand
-
-  weapon'
-bip_39_word_new_line_9: 'domain
-
-  employ
-
-  loan
-
-  derive
-
-  card
-
-  age
-
-  stand
-
-  weapon
-
-  torch'
-bip_39_word_no_space_1: domain
-bip_39_word_no_space_10: domainemployloanderivecardagestandweapontorchgadget
-bip_39_word_no_space_11: domainemployloanderivecardagestandweapontorchgadgettomato
 bip_39_word_no_space_12: domainemployloanderivecardagestandweapontorchgadgettomatoabove
 bip_39_word_no_space_2: domainemploy
 bip_39_word_no_space_3: domainemployloan
-bip_39_word_no_space_4: domainemployloanderive
-bip_39_word_no_space_5: domainemployloanderivecard
-bip_39_word_no_space_6: domainemployloanderivecardage
-bip_39_word_no_space_7: domainemployloanderivecardagestand
-bip_39_word_no_space_8: domainemployloanderivecardagestandweapon
-bip_39_word_no_space_9: domainemployloanderivecardagestandweapontorch
-bip_39_word_space_0:
-- domain
-- employ
-- loan
-- derive
-- card
-- age
-- stand
-- weapon
-- torch
-- gadget
-- tomato
-- above
-bip_39_word_space_1: domain
-bip_39_word_space_10: domain employ loan derive card age stand weapon torch gadget
-bip_39_word_space_11: domain employ loan derive card age stand weapon torch gadget
-  tomato
 bip_39_word_space_12: domain employ loan derive card age stand weapon torch gadget
   tomato above
 bip_39_word_space_2: domain employ
 bip_39_word_space_3: domain employ loan
-bip_39_word_space_4: domain employ loan derive
-bip_39_word_space_5: domain employ loan derive card
-bip_39_word_space_6: domain employ loan derive card age
-bip_39_word_space_7: domain employ loan derive card age stand
-bip_39_word_space_8: domain employ loan derive card age stand weapon
-bip_39_word_space_9: domain employ loan derive card age stand weapon torch
-bip_39_word_underscore_1: domain
-bip_39_word_underscore_10: domain_employ_loan_derive_card_age_stand_weapon_torch_gadget
-bip_39_word_underscore_11: domain_employ_loan_derive_card_age_stand_weapon_torch_gadget_tomato
 bip_39_word_underscore_12: domain_employ_loan_derive_card_age_stand_weapon_torch_gadget_tomato_above
 bip_39_word_underscore_2: domain_employ
 bip_39_word_underscore_3: domain_employ_loan
-bip_39_word_underscore_4: domain_employ_loan_derive
-bip_39_word_underscore_5: domain_employ_loan_derive_card
-bip_39_word_underscore_6: domain_employ_loan_derive_card_age
-bip_39_word_underscore_7: domain_employ_loan_derive_card_age_stand
-bip_39_word_underscore_8: domain_employ_loan_derive_card_age_stand_weapon
-bip_39_word_underscore_9: domain_employ_loan_derive_card_age_stand_weapon_torch
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: pulse
-bip_39_word_dash_10: pulse-walnut-muscle-shrimp-nuclear-viable-charge-display-source-position
-bip_39_word_dash_11: pulse-walnut-muscle-shrimp-nuclear-viable-charge-display-source-position-surface
 bip_39_word_dash_12: pulse-walnut-muscle-shrimp-nuclear-viable-charge-display-source-position-surface-absorb
 bip_39_word_dash_2: pulse-walnut
 bip_39_word_dash_3: pulse-walnut-muscle
-bip_39_word_dash_4: pulse-walnut-muscle-shrimp
-bip_39_word_dash_5: pulse-walnut-muscle-shrimp-nuclear
-bip_39_word_dash_6: pulse-walnut-muscle-shrimp-nuclear-viable
-bip_39_word_dash_7: pulse-walnut-muscle-shrimp-nuclear-viable-charge
-bip_39_word_dash_8: pulse-walnut-muscle-shrimp-nuclear-viable-charge-display
-bip_39_word_dash_9: pulse-walnut-muscle-shrimp-nuclear-viable-charge-display-source
-bip_39_word_new_br_1: pulse
-bip_39_word_new_br_10: pulse<br>walnut<br>muscle<br>shrimp<br>nuclear<br>viable<br>charge<br>display<br>source<br>position
-bip_39_word_new_br_11: pulse<br>walnut<br>muscle<br>shrimp<br>nuclear<br>viable<br>charge<br>display<br>source<br>position<br>surface
 bip_39_word_new_br_12: pulse<br>walnut<br>muscle<br>shrimp<br>nuclear<br>viable<br>charge<br>display<br>source<br>position<br>surface<br>absorb
 bip_39_word_new_br_2: pulse<br>walnut
 bip_39_word_new_br_3: pulse<br>walnut<br>muscle
-bip_39_word_new_br_4: pulse<br>walnut<br>muscle<br>shrimp
-bip_39_word_new_br_5: pulse<br>walnut<br>muscle<br>shrimp<br>nuclear
-bip_39_word_new_br_6: pulse<br>walnut<br>muscle<br>shrimp<br>nuclear<br>viable
-bip_39_word_new_br_7: pulse<br>walnut<br>muscle<br>shrimp<br>nuclear<br>viable<br>charge
-bip_39_word_new_br_8: pulse<br>walnut<br>muscle<br>shrimp<br>nuclear<br>viable<br>charge<br>display
-bip_39_word_new_br_9: pulse<br>walnut<br>muscle<br>shrimp<br>nuclear<br>viable<br>charge<br>display<br>source
-bip_39_word_new_line_1: pulse
-bip_39_word_new_line_10: 'pulse
-
-  walnut
-
-  muscle
-
-  shrimp
-
-  nuclear
-
-  viable
-
-  charge
-
-  display
-
-  source
-
-  position'
-bip_39_word_new_line_11: 'pulse
-
-  walnut
-
-  muscle
-
-  shrimp
-
-  nuclear
-
-  viable
-
-  charge
-
-  display
-
-  source
-
-  position
-
-  surface'
 bip_39_word_new_line_12: 'pulse
 
   walnut
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'pulse
   walnut
 
   muscle'
-bip_39_word_new_line_4: 'pulse
-
-  walnut
-
-  muscle
-
-  shrimp'
-bip_39_word_new_line_5: 'pulse
-
-  walnut
-
-  muscle
-
-  shrimp
-
-  nuclear'
-bip_39_word_new_line_6: 'pulse
-
-  walnut
-
-  muscle
-
-  shrimp
-
-  nuclear
-
-  viable'
-bip_39_word_new_line_7: 'pulse
-
-  walnut
-
-  muscle
-
-  shrimp
-
-  nuclear
-
-  viable
-
-  charge'
-bip_39_word_new_line_8: 'pulse
-
-  walnut
-
-  muscle
-
-  shrimp
-
-  nuclear
-
-  viable
-
-  charge
-
-  display'
-bip_39_word_new_line_9: 'pulse
-
-  walnut
-
-  muscle
-
-  shrimp
-
-  nuclear
-
-  viable
-
-  charge
-
-  display
-
-  source'
-bip_39_word_no_space_1: pulse
-bip_39_word_no_space_10: pulsewalnutmuscleshrimpnuclearviablechargedisplaysourceposition
-bip_39_word_no_space_11: pulsewalnutmuscleshrimpnuclearviablechargedisplaysourcepositionsurface
 bip_39_word_no_space_12: pulsewalnutmuscleshrimpnuclearviablechargedisplaysourcepositionsurfaceabsorb
 bip_39_word_no_space_2: pulsewalnut
 bip_39_word_no_space_3: pulsewalnutmuscle
-bip_39_word_no_space_4: pulsewalnutmuscleshrimp
-bip_39_word_no_space_5: pulsewalnutmuscleshrimpnuclear
-bip_39_word_no_space_6: pulsewalnutmuscleshrimpnuclearviable
-bip_39_word_no_space_7: pulsewalnutmuscleshrimpnuclearviablecharge
-bip_39_word_no_space_8: pulsewalnutmuscleshrimpnuclearviablechargedisplay
-bip_39_word_no_space_9: pulsewalnutmuscleshrimpnuclearviablechargedisplaysource
-bip_39_word_space_0:
-- pulse
-- walnut
-- muscle
-- shrimp
-- nuclear
-- viable
-- charge
-- display
-- source
-- position
-- surface
-- absorb
-bip_39_word_space_1: pulse
-bip_39_word_space_10: pulse walnut muscle shrimp nuclear viable charge display source
-  position
-bip_39_word_space_11: pulse walnut muscle shrimp nuclear viable charge display source
-  position surface
 bip_39_word_space_12: pulse walnut muscle shrimp nuclear viable charge display source
   position surface absorb
 bip_39_word_space_2: pulse walnut
 bip_39_word_space_3: pulse walnut muscle
-bip_39_word_space_4: pulse walnut muscle shrimp
-bip_39_word_space_5: pulse walnut muscle shrimp nuclear
-bip_39_word_space_6: pulse walnut muscle shrimp nuclear viable
-bip_39_word_space_7: pulse walnut muscle shrimp nuclear viable charge
-bip_39_word_space_8: pulse walnut muscle shrimp nuclear viable charge display
-bip_39_word_space_9: pulse walnut muscle shrimp nuclear viable charge display source
-bip_39_word_underscore_1: pulse
-bip_39_word_underscore_10: pulse_walnut_muscle_shrimp_nuclear_viable_charge_display_source_position
-bip_39_word_underscore_11: pulse_walnut_muscle_shrimp_nuclear_viable_charge_display_source_position_surface
 bip_39_word_underscore_12: pulse_walnut_muscle_shrimp_nuclear_viable_charge_display_source_position_surface_absorb
 bip_39_word_underscore_2: pulse_walnut
 bip_39_word_underscore_3: pulse_walnut_muscle
-bip_39_word_underscore_4: pulse_walnut_muscle_shrimp
-bip_39_word_underscore_5: pulse_walnut_muscle_shrimp_nuclear
-bip_39_word_underscore_6: pulse_walnut_muscle_shrimp_nuclear_viable
-bip_39_word_underscore_7: pulse_walnut_muscle_shrimp_nuclear_viable_charge
-bip_39_word_underscore_8: pulse_walnut_muscle_shrimp_nuclear_viable_charge_display
-bip_39_word_underscore_9: pulse_walnut_muscle_shrimp_nuclear_viable_charge_display_source
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

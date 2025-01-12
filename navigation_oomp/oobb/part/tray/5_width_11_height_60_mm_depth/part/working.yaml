@@ -1,68 +1,9 @@
-bip_39_word_dash_1: seed
-bip_39_word_dash_10: seed-autumn-heart-language-together-thumb-laugh-true-bridge-wrestle
-bip_39_word_dash_11: seed-autumn-heart-language-together-thumb-laugh-true-bridge-wrestle-gesture
 bip_39_word_dash_12: seed-autumn-heart-language-together-thumb-laugh-true-bridge-wrestle-gesture-anger
 bip_39_word_dash_2: seed-autumn
 bip_39_word_dash_3: seed-autumn-heart
-bip_39_word_dash_4: seed-autumn-heart-language
-bip_39_word_dash_5: seed-autumn-heart-language-together
-bip_39_word_dash_6: seed-autumn-heart-language-together-thumb
-bip_39_word_dash_7: seed-autumn-heart-language-together-thumb-laugh
-bip_39_word_dash_8: seed-autumn-heart-language-together-thumb-laugh-true
-bip_39_word_dash_9: seed-autumn-heart-language-together-thumb-laugh-true-bridge
-bip_39_word_new_br_1: seed
-bip_39_word_new_br_10: seed<br>autumn<br>heart<br>language<br>together<br>thumb<br>laugh<br>true<br>bridge<br>wrestle
-bip_39_word_new_br_11: seed<br>autumn<br>heart<br>language<br>together<br>thumb<br>laugh<br>true<br>bridge<br>wrestle<br>gesture
 bip_39_word_new_br_12: seed<br>autumn<br>heart<br>language<br>together<br>thumb<br>laugh<br>true<br>bridge<br>wrestle<br>gesture<br>anger
 bip_39_word_new_br_2: seed<br>autumn
 bip_39_word_new_br_3: seed<br>autumn<br>heart
-bip_39_word_new_br_4: seed<br>autumn<br>heart<br>language
-bip_39_word_new_br_5: seed<br>autumn<br>heart<br>language<br>together
-bip_39_word_new_br_6: seed<br>autumn<br>heart<br>language<br>together<br>thumb
-bip_39_word_new_br_7: seed<br>autumn<br>heart<br>language<br>together<br>thumb<br>laugh
-bip_39_word_new_br_8: seed<br>autumn<br>heart<br>language<br>together<br>thumb<br>laugh<br>true
-bip_39_word_new_br_9: seed<br>autumn<br>heart<br>language<br>together<br>thumb<br>laugh<br>true<br>bridge
-bip_39_word_new_line_1: seed
-bip_39_word_new_line_10: 'seed
-
-  autumn
-
-  heart
-
-  language
-
-  together
-
-  thumb
-
-  laugh
-
-  true
-
-  bridge
-
-  wrestle'
-bip_39_word_new_line_11: 'seed
-
-  autumn
-
-  heart
-
-  language
-
-  together
-
-  thumb
-
-  laugh
-
-  true
-
-  bridge
-
-  wrestle
-
-  gesture'
 bip_39_word_new_line_12: 'seed
 
   autumn
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'seed
   autumn
 
   heart'
-bip_39_word_new_line_4: 'seed
-
-  autumn
-
-  heart
-
-  language'
-bip_39_word_new_line_5: 'seed
-
-  autumn
-
-  heart
-
-  language
-
-  together'
-bip_39_word_new_line_6: 'seed
-
-  autumn
-
-  heart
-
-  language
-
-  together
-
-  thumb'
-bip_39_word_new_line_7: 'seed
-
-  autumn
-
-  heart
-
-  language
-
-  together
-
-  thumb
-
-  laugh'
-bip_39_word_new_line_8: 'seed
-
-  autumn
-
-  heart
-
-  language
-
-  together
-
-  thumb
-
-  laugh
-
-  true'
-bip_39_word_new_line_9: 'seed
-
-  autumn
-
-  heart
-
-  language
-
-  together
-
-  thumb
-
-  laugh
-
-  true
-
-  bridge'
-bip_39_word_no_space_1: seed
-bip_39_word_no_space_10: seedautumnheartlanguagetogetherthumblaughtruebridgewrestle
-bip_39_word_no_space_11: seedautumnheartlanguagetogetherthumblaughtruebridgewrestlegesture
 bip_39_word_no_space_12: seedautumnheartlanguagetogetherthumblaughtruebridgewrestlegestureanger
 bip_39_word_no_space_2: seedautumn
 bip_39_word_no_space_3: seedautumnheart
-bip_39_word_no_space_4: seedautumnheartlanguage
-bip_39_word_no_space_5: seedautumnheartlanguagetogether
-bip_39_word_no_space_6: seedautumnheartlanguagetogetherthumb
-bip_39_word_no_space_7: seedautumnheartlanguagetogetherthumblaugh
-bip_39_word_no_space_8: seedautumnheartlanguagetogetherthumblaughtrue
-bip_39_word_no_space_9: seedautumnheartlanguagetogetherthumblaughtruebridge
-bip_39_word_space_0:
-- seed
-- autumn
-- heart
-- language
-- together
-- thumb
-- laugh
-- 'true'
-- bridge
-- wrestle
-- gesture
-- anger
-bip_39_word_space_1: seed
-bip_39_word_space_10: seed autumn heart language together thumb laugh true bridge
-  wrestle
-bip_39_word_space_11: seed autumn heart language together thumb laugh true bridge
-  wrestle gesture
 bip_39_word_space_12: seed autumn heart language together thumb laugh true bridge
   wrestle gesture anger
 bip_39_word_space_2: seed autumn
 bip_39_word_space_3: seed autumn heart
-bip_39_word_space_4: seed autumn heart language
-bip_39_word_space_5: seed autumn heart language together
-bip_39_word_space_6: seed autumn heart language together thumb
-bip_39_word_space_7: seed autumn heart language together thumb laugh
-bip_39_word_space_8: seed autumn heart language together thumb laugh true
-bip_39_word_space_9: seed autumn heart language together thumb laugh true bridge
-bip_39_word_underscore_1: seed
-bip_39_word_underscore_10: seed_autumn_heart_language_together_thumb_laugh_true_bridge_wrestle
-bip_39_word_underscore_11: seed_autumn_heart_language_together_thumb_laugh_true_bridge_wrestle_gesture
 bip_39_word_underscore_12: seed_autumn_heart_language_together_thumb_laugh_true_bridge_wrestle_gesture_anger
 bip_39_word_underscore_2: seed_autumn
 bip_39_word_underscore_3: seed_autumn_heart
-bip_39_word_underscore_4: seed_autumn_heart_language
-bip_39_word_underscore_5: seed_autumn_heart_language_together
-bip_39_word_underscore_6: seed_autumn_heart_language_together_thumb
-bip_39_word_underscore_7: seed_autumn_heart_language_together_thumb_laugh
-bip_39_word_underscore_8: seed_autumn_heart_language_together_thumb_laugh_true
-bip_39_word_underscore_9: seed_autumn_heart_language_together_thumb_laugh_true_bridge
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

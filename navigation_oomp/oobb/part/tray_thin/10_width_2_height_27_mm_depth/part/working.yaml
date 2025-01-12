@@ -1,68 +1,9 @@
-bip_39_word_dash_1: album
-bip_39_word_dash_10: album-person-leave-inspire-able-retire-drink-icon-ticket-across
-bip_39_word_dash_11: album-person-leave-inspire-able-retire-drink-icon-ticket-across-subject
 bip_39_word_dash_12: album-person-leave-inspire-able-retire-drink-icon-ticket-across-subject-access
 bip_39_word_dash_2: album-person
 bip_39_word_dash_3: album-person-leave
-bip_39_word_dash_4: album-person-leave-inspire
-bip_39_word_dash_5: album-person-leave-inspire-able
-bip_39_word_dash_6: album-person-leave-inspire-able-retire
-bip_39_word_dash_7: album-person-leave-inspire-able-retire-drink
-bip_39_word_dash_8: album-person-leave-inspire-able-retire-drink-icon
-bip_39_word_dash_9: album-person-leave-inspire-able-retire-drink-icon-ticket
-bip_39_word_new_br_1: album
-bip_39_word_new_br_10: album<br>person<br>leave<br>inspire<br>able<br>retire<br>drink<br>icon<br>ticket<br>across
-bip_39_word_new_br_11: album<br>person<br>leave<br>inspire<br>able<br>retire<br>drink<br>icon<br>ticket<br>across<br>subject
 bip_39_word_new_br_12: album<br>person<br>leave<br>inspire<br>able<br>retire<br>drink<br>icon<br>ticket<br>across<br>subject<br>access
 bip_39_word_new_br_2: album<br>person
 bip_39_word_new_br_3: album<br>person<br>leave
-bip_39_word_new_br_4: album<br>person<br>leave<br>inspire
-bip_39_word_new_br_5: album<br>person<br>leave<br>inspire<br>able
-bip_39_word_new_br_6: album<br>person<br>leave<br>inspire<br>able<br>retire
-bip_39_word_new_br_7: album<br>person<br>leave<br>inspire<br>able<br>retire<br>drink
-bip_39_word_new_br_8: album<br>person<br>leave<br>inspire<br>able<br>retire<br>drink<br>icon
-bip_39_word_new_br_9: album<br>person<br>leave<br>inspire<br>able<br>retire<br>drink<br>icon<br>ticket
-bip_39_word_new_line_1: album
-bip_39_word_new_line_10: 'album
-
-  person
-
-  leave
-
-  inspire
-
-  able
-
-  retire
-
-  drink
-
-  icon
-
-  ticket
-
-  across'
-bip_39_word_new_line_11: 'album
-
-  person
-
-  leave
-
-  inspire
-
-  able
-
-  retire
-
-  drink
-
-  icon
-
-  ticket
-
-  across
-
-  subject'
 bip_39_word_new_line_12: 'album
 
   person
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'album
   person
 
   leave'
-bip_39_word_new_line_4: 'album
-
-  person
-
-  leave
-
-  inspire'
-bip_39_word_new_line_5: 'album
-
-  person
-
-  leave
-
-  inspire
-
-  able'
-bip_39_word_new_line_6: 'album
-
-  person
-
-  leave
-
-  inspire
-
-  able
-
-  retire'
-bip_39_word_new_line_7: 'album
-
-  person
-
-  leave
-
-  inspire
-
-  able
-
-  retire
-
-  drink'
-bip_39_word_new_line_8: 'album
-
-  person
-
-  leave
-
-  inspire
-
-  able
-
-  retire
-
-  drink
-
-  icon'
-bip_39_word_new_line_9: 'album
-
-  person
-
-  leave
-
-  inspire
-
-  able
-
-  retire
-
-  drink
-
-  icon
-
-  ticket'
-bip_39_word_no_space_1: album
-bip_39_word_no_space_10: albumpersonleaveinspireableretiredrinkiconticketacross
-bip_39_word_no_space_11: albumpersonleaveinspireableretiredrinkiconticketacrosssubject
 bip_39_word_no_space_12: albumpersonleaveinspireableretiredrinkiconticketacrosssubjectaccess
 bip_39_word_no_space_2: albumperson
 bip_39_word_no_space_3: albumpersonleave
-bip_39_word_no_space_4: albumpersonleaveinspire
-bip_39_word_no_space_5: albumpersonleaveinspireable
-bip_39_word_no_space_6: albumpersonleaveinspireableretire
-bip_39_word_no_space_7: albumpersonleaveinspireableretiredrink
-bip_39_word_no_space_8: albumpersonleaveinspireableretiredrinkicon
-bip_39_word_no_space_9: albumpersonleaveinspireableretiredrinkiconticket
-bip_39_word_space_0:
-- album
-- person
-- leave
-- inspire
-- able
-- retire
-- drink
-- icon
-- ticket
-- across
-- subject
-- access
-bip_39_word_space_1: album
-bip_39_word_space_10: album person leave inspire able retire drink icon ticket across
-bip_39_word_space_11: album person leave inspire able retire drink icon ticket across
-  subject
 bip_39_word_space_12: album person leave inspire able retire drink icon ticket across
   subject access
 bip_39_word_space_2: album person
 bip_39_word_space_3: album person leave
-bip_39_word_space_4: album person leave inspire
-bip_39_word_space_5: album person leave inspire able
-bip_39_word_space_6: album person leave inspire able retire
-bip_39_word_space_7: album person leave inspire able retire drink
-bip_39_word_space_8: album person leave inspire able retire drink icon
-bip_39_word_space_9: album person leave inspire able retire drink icon ticket
-bip_39_word_underscore_1: album
-bip_39_word_underscore_10: album_person_leave_inspire_able_retire_drink_icon_ticket_across
-bip_39_word_underscore_11: album_person_leave_inspire_able_retire_drink_icon_ticket_across_subject
 bip_39_word_underscore_12: album_person_leave_inspire_able_retire_drink_icon_ticket_across_subject_access
 bip_39_word_underscore_2: album_person
 bip_39_word_underscore_3: album_person_leave
-bip_39_word_underscore_4: album_person_leave_inspire
-bip_39_word_underscore_5: album_person_leave_inspire_able
-bip_39_word_underscore_6: album_person_leave_inspire_able_retire
-bip_39_word_underscore_7: album_person_leave_inspire_able_retire_drink
-bip_39_word_underscore_8: album_person_leave_inspire_able_retire_drink_icon
-bip_39_word_underscore_9: album_person_leave_inspire_able_retire_drink_icon_ticket
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

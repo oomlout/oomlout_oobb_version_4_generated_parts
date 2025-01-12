@@ -1,68 +1,9 @@
-bip_39_word_dash_1: voice
-bip_39_word_dash_10: voice-copper-almost-vocal-sheriff-multiply-hold-hunt-occur-spice
-bip_39_word_dash_11: voice-copper-almost-vocal-sheriff-multiply-hold-hunt-occur-spice-increase
 bip_39_word_dash_12: voice-copper-almost-vocal-sheriff-multiply-hold-hunt-occur-spice-increase-attend
 bip_39_word_dash_2: voice-copper
 bip_39_word_dash_3: voice-copper-almost
-bip_39_word_dash_4: voice-copper-almost-vocal
-bip_39_word_dash_5: voice-copper-almost-vocal-sheriff
-bip_39_word_dash_6: voice-copper-almost-vocal-sheriff-multiply
-bip_39_word_dash_7: voice-copper-almost-vocal-sheriff-multiply-hold
-bip_39_word_dash_8: voice-copper-almost-vocal-sheriff-multiply-hold-hunt
-bip_39_word_dash_9: voice-copper-almost-vocal-sheriff-multiply-hold-hunt-occur
-bip_39_word_new_br_1: voice
-bip_39_word_new_br_10: voice<br>copper<br>almost<br>vocal<br>sheriff<br>multiply<br>hold<br>hunt<br>occur<br>spice
-bip_39_word_new_br_11: voice<br>copper<br>almost<br>vocal<br>sheriff<br>multiply<br>hold<br>hunt<br>occur<br>spice<br>increase
 bip_39_word_new_br_12: voice<br>copper<br>almost<br>vocal<br>sheriff<br>multiply<br>hold<br>hunt<br>occur<br>spice<br>increase<br>attend
 bip_39_word_new_br_2: voice<br>copper
 bip_39_word_new_br_3: voice<br>copper<br>almost
-bip_39_word_new_br_4: voice<br>copper<br>almost<br>vocal
-bip_39_word_new_br_5: voice<br>copper<br>almost<br>vocal<br>sheriff
-bip_39_word_new_br_6: voice<br>copper<br>almost<br>vocal<br>sheriff<br>multiply
-bip_39_word_new_br_7: voice<br>copper<br>almost<br>vocal<br>sheriff<br>multiply<br>hold
-bip_39_word_new_br_8: voice<br>copper<br>almost<br>vocal<br>sheriff<br>multiply<br>hold<br>hunt
-bip_39_word_new_br_9: voice<br>copper<br>almost<br>vocal<br>sheriff<br>multiply<br>hold<br>hunt<br>occur
-bip_39_word_new_line_1: voice
-bip_39_word_new_line_10: 'voice
-
-  copper
-
-  almost
-
-  vocal
-
-  sheriff
-
-  multiply
-
-  hold
-
-  hunt
-
-  occur
-
-  spice'
-bip_39_word_new_line_11: 'voice
-
-  copper
-
-  almost
-
-  vocal
-
-  sheriff
-
-  multiply
-
-  hold
-
-  hunt
-
-  occur
-
-  spice
-
-  increase'
 bip_39_word_new_line_12: 'voice
 
   copper
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'voice
   copper
 
   almost'
-bip_39_word_new_line_4: 'voice
-
-  copper
-
-  almost
-
-  vocal'
-bip_39_word_new_line_5: 'voice
-
-  copper
-
-  almost
-
-  vocal
-
-  sheriff'
-bip_39_word_new_line_6: 'voice
-
-  copper
-
-  almost
-
-  vocal
-
-  sheriff
-
-  multiply'
-bip_39_word_new_line_7: 'voice
-
-  copper
-
-  almost
-
-  vocal
-
-  sheriff
-
-  multiply
-
-  hold'
-bip_39_word_new_line_8: 'voice
-
-  copper
-
-  almost
-
-  vocal
-
-  sheriff
-
-  multiply
-
-  hold
-
-  hunt'
-bip_39_word_new_line_9: 'voice
-
-  copper
-
-  almost
-
-  vocal
-
-  sheriff
-
-  multiply
-
-  hold
-
-  hunt
-
-  occur'
-bip_39_word_no_space_1: voice
-bip_39_word_no_space_10: voicecopperalmostvocalsheriffmultiplyholdhuntoccurspice
-bip_39_word_no_space_11: voicecopperalmostvocalsheriffmultiplyholdhuntoccurspiceincrease
 bip_39_word_no_space_12: voicecopperalmostvocalsheriffmultiplyholdhuntoccurspiceincreaseattend
 bip_39_word_no_space_2: voicecopper
 bip_39_word_no_space_3: voicecopperalmost
-bip_39_word_no_space_4: voicecopperalmostvocal
-bip_39_word_no_space_5: voicecopperalmostvocalsheriff
-bip_39_word_no_space_6: voicecopperalmostvocalsheriffmultiply
-bip_39_word_no_space_7: voicecopperalmostvocalsheriffmultiplyhold
-bip_39_word_no_space_8: voicecopperalmostvocalsheriffmultiplyholdhunt
-bip_39_word_no_space_9: voicecopperalmostvocalsheriffmultiplyholdhuntoccur
-bip_39_word_space_0:
-- voice
-- copper
-- almost
-- vocal
-- sheriff
-- multiply
-- hold
-- hunt
-- occur
-- spice
-- increase
-- attend
-bip_39_word_space_1: voice
-bip_39_word_space_10: voice copper almost vocal sheriff multiply hold hunt occur spice
-bip_39_word_space_11: voice copper almost vocal sheriff multiply hold hunt occur spice
-  increase
 bip_39_word_space_12: voice copper almost vocal sheriff multiply hold hunt occur spice
   increase attend
 bip_39_word_space_2: voice copper
 bip_39_word_space_3: voice copper almost
-bip_39_word_space_4: voice copper almost vocal
-bip_39_word_space_5: voice copper almost vocal sheriff
-bip_39_word_space_6: voice copper almost vocal sheriff multiply
-bip_39_word_space_7: voice copper almost vocal sheriff multiply hold
-bip_39_word_space_8: voice copper almost vocal sheriff multiply hold hunt
-bip_39_word_space_9: voice copper almost vocal sheriff multiply hold hunt occur
-bip_39_word_underscore_1: voice
-bip_39_word_underscore_10: voice_copper_almost_vocal_sheriff_multiply_hold_hunt_occur_spice
-bip_39_word_underscore_11: voice_copper_almost_vocal_sheriff_multiply_hold_hunt_occur_spice_increase
 bip_39_word_underscore_12: voice_copper_almost_vocal_sheriff_multiply_hold_hunt_occur_spice_increase_attend
 bip_39_word_underscore_2: voice_copper
 bip_39_word_underscore_3: voice_copper_almost
-bip_39_word_underscore_4: voice_copper_almost_vocal
-bip_39_word_underscore_5: voice_copper_almost_vocal_sheriff
-bip_39_word_underscore_6: voice_copper_almost_vocal_sheriff_multiply
-bip_39_word_underscore_7: voice_copper_almost_vocal_sheriff_multiply_hold
-bip_39_word_underscore_8: voice_copper_almost_vocal_sheriff_multiply_hold_hunt
-bip_39_word_underscore_9: voice_copper_almost_vocal_sheriff_multiply_hold_hunt_occur
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

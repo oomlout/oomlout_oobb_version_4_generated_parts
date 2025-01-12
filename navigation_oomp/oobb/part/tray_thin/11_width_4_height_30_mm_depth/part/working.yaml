@@ -1,68 +1,9 @@
-bip_39_word_dash_1: derive
-bip_39_word_dash_10: derive-family-seek-day-roast-nothing-unit-tenant-embrace-chest
-bip_39_word_dash_11: derive-family-seek-day-roast-nothing-unit-tenant-embrace-chest-reopen
 bip_39_word_dash_12: derive-family-seek-day-roast-nothing-unit-tenant-embrace-chest-reopen-attract
 bip_39_word_dash_2: derive-family
 bip_39_word_dash_3: derive-family-seek
-bip_39_word_dash_4: derive-family-seek-day
-bip_39_word_dash_5: derive-family-seek-day-roast
-bip_39_word_dash_6: derive-family-seek-day-roast-nothing
-bip_39_word_dash_7: derive-family-seek-day-roast-nothing-unit
-bip_39_word_dash_8: derive-family-seek-day-roast-nothing-unit-tenant
-bip_39_word_dash_9: derive-family-seek-day-roast-nothing-unit-tenant-embrace
-bip_39_word_new_br_1: derive
-bip_39_word_new_br_10: derive<br>family<br>seek<br>day<br>roast<br>nothing<br>unit<br>tenant<br>embrace<br>chest
-bip_39_word_new_br_11: derive<br>family<br>seek<br>day<br>roast<br>nothing<br>unit<br>tenant<br>embrace<br>chest<br>reopen
 bip_39_word_new_br_12: derive<br>family<br>seek<br>day<br>roast<br>nothing<br>unit<br>tenant<br>embrace<br>chest<br>reopen<br>attract
 bip_39_word_new_br_2: derive<br>family
 bip_39_word_new_br_3: derive<br>family<br>seek
-bip_39_word_new_br_4: derive<br>family<br>seek<br>day
-bip_39_word_new_br_5: derive<br>family<br>seek<br>day<br>roast
-bip_39_word_new_br_6: derive<br>family<br>seek<br>day<br>roast<br>nothing
-bip_39_word_new_br_7: derive<br>family<br>seek<br>day<br>roast<br>nothing<br>unit
-bip_39_word_new_br_8: derive<br>family<br>seek<br>day<br>roast<br>nothing<br>unit<br>tenant
-bip_39_word_new_br_9: derive<br>family<br>seek<br>day<br>roast<br>nothing<br>unit<br>tenant<br>embrace
-bip_39_word_new_line_1: derive
-bip_39_word_new_line_10: 'derive
-
-  family
-
-  seek
-
-  day
-
-  roast
-
-  nothing
-
-  unit
-
-  tenant
-
-  embrace
-
-  chest'
-bip_39_word_new_line_11: 'derive
-
-  family
-
-  seek
-
-  day
-
-  roast
-
-  nothing
-
-  unit
-
-  tenant
-
-  embrace
-
-  chest
-
-  reopen'
 bip_39_word_new_line_12: 'derive
 
   family
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'derive
   family
 
   seek'
-bip_39_word_new_line_4: 'derive
-
-  family
-
-  seek
-
-  day'
-bip_39_word_new_line_5: 'derive
-
-  family
-
-  seek
-
-  day
-
-  roast'
-bip_39_word_new_line_6: 'derive
-
-  family
-
-  seek
-
-  day
-
-  roast
-
-  nothing'
-bip_39_word_new_line_7: 'derive
-
-  family
-
-  seek
-
-  day
-
-  roast
-
-  nothing
-
-  unit'
-bip_39_word_new_line_8: 'derive
-
-  family
-
-  seek
-
-  day
-
-  roast
-
-  nothing
-
-  unit
-
-  tenant'
-bip_39_word_new_line_9: 'derive
-
-  family
-
-  seek
-
-  day
-
-  roast
-
-  nothing
-
-  unit
-
-  tenant
-
-  embrace'
-bip_39_word_no_space_1: derive
-bip_39_word_no_space_10: derivefamilyseekdayroastnothingunittenantembracechest
-bip_39_word_no_space_11: derivefamilyseekdayroastnothingunittenantembracechestreopen
 bip_39_word_no_space_12: derivefamilyseekdayroastnothingunittenantembracechestreopenattract
 bip_39_word_no_space_2: derivefamily
 bip_39_word_no_space_3: derivefamilyseek
-bip_39_word_no_space_4: derivefamilyseekday
-bip_39_word_no_space_5: derivefamilyseekdayroast
-bip_39_word_no_space_6: derivefamilyseekdayroastnothing
-bip_39_word_no_space_7: derivefamilyseekdayroastnothingunit
-bip_39_word_no_space_8: derivefamilyseekdayroastnothingunittenant
-bip_39_word_no_space_9: derivefamilyseekdayroastnothingunittenantembrace
-bip_39_word_space_0:
-- derive
-- family
-- seek
-- day
-- roast
-- nothing
-- unit
-- tenant
-- embrace
-- chest
-- reopen
-- attract
-bip_39_word_space_1: derive
-bip_39_word_space_10: derive family seek day roast nothing unit tenant embrace chest
-bip_39_word_space_11: derive family seek day roast nothing unit tenant embrace chest
-  reopen
 bip_39_word_space_12: derive family seek day roast nothing unit tenant embrace chest
   reopen attract
 bip_39_word_space_2: derive family
 bip_39_word_space_3: derive family seek
-bip_39_word_space_4: derive family seek day
-bip_39_word_space_5: derive family seek day roast
-bip_39_word_space_6: derive family seek day roast nothing
-bip_39_word_space_7: derive family seek day roast nothing unit
-bip_39_word_space_8: derive family seek day roast nothing unit tenant
-bip_39_word_space_9: derive family seek day roast nothing unit tenant embrace
-bip_39_word_underscore_1: derive
-bip_39_word_underscore_10: derive_family_seek_day_roast_nothing_unit_tenant_embrace_chest
-bip_39_word_underscore_11: derive_family_seek_day_roast_nothing_unit_tenant_embrace_chest_reopen
 bip_39_word_underscore_12: derive_family_seek_day_roast_nothing_unit_tenant_embrace_chest_reopen_attract
 bip_39_word_underscore_2: derive_family
 bip_39_word_underscore_3: derive_family_seek
-bip_39_word_underscore_4: derive_family_seek_day
-bip_39_word_underscore_5: derive_family_seek_day_roast
-bip_39_word_underscore_6: derive_family_seek_day_roast_nothing
-bip_39_word_underscore_7: derive_family_seek_day_roast_nothing_unit
-bip_39_word_underscore_8: derive_family_seek_day_roast_nothing_unit_tenant
-bip_39_word_underscore_9: derive_family_seek_day_roast_nothing_unit_tenant_embrace
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

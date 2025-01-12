@@ -1,68 +1,9 @@
-bip_39_word_dash_1: curtain
-bip_39_word_dash_10: curtain-word-sudden-pelican-cigar-govern-release-faculty-spot-swift
-bip_39_word_dash_11: curtain-word-sudden-pelican-cigar-govern-release-faculty-spot-swift-primary
 bip_39_word_dash_12: curtain-word-sudden-pelican-cigar-govern-release-faculty-spot-swift-primary-ancient
 bip_39_word_dash_2: curtain-word
 bip_39_word_dash_3: curtain-word-sudden
-bip_39_word_dash_4: curtain-word-sudden-pelican
-bip_39_word_dash_5: curtain-word-sudden-pelican-cigar
-bip_39_word_dash_6: curtain-word-sudden-pelican-cigar-govern
-bip_39_word_dash_7: curtain-word-sudden-pelican-cigar-govern-release
-bip_39_word_dash_8: curtain-word-sudden-pelican-cigar-govern-release-faculty
-bip_39_word_dash_9: curtain-word-sudden-pelican-cigar-govern-release-faculty-spot
-bip_39_word_new_br_1: curtain
-bip_39_word_new_br_10: curtain<br>word<br>sudden<br>pelican<br>cigar<br>govern<br>release<br>faculty<br>spot<br>swift
-bip_39_word_new_br_11: curtain<br>word<br>sudden<br>pelican<br>cigar<br>govern<br>release<br>faculty<br>spot<br>swift<br>primary
 bip_39_word_new_br_12: curtain<br>word<br>sudden<br>pelican<br>cigar<br>govern<br>release<br>faculty<br>spot<br>swift<br>primary<br>ancient
 bip_39_word_new_br_2: curtain<br>word
 bip_39_word_new_br_3: curtain<br>word<br>sudden
-bip_39_word_new_br_4: curtain<br>word<br>sudden<br>pelican
-bip_39_word_new_br_5: curtain<br>word<br>sudden<br>pelican<br>cigar
-bip_39_word_new_br_6: curtain<br>word<br>sudden<br>pelican<br>cigar<br>govern
-bip_39_word_new_br_7: curtain<br>word<br>sudden<br>pelican<br>cigar<br>govern<br>release
-bip_39_word_new_br_8: curtain<br>word<br>sudden<br>pelican<br>cigar<br>govern<br>release<br>faculty
-bip_39_word_new_br_9: curtain<br>word<br>sudden<br>pelican<br>cigar<br>govern<br>release<br>faculty<br>spot
-bip_39_word_new_line_1: curtain
-bip_39_word_new_line_10: 'curtain
-
-  word
-
-  sudden
-
-  pelican
-
-  cigar
-
-  govern
-
-  release
-
-  faculty
-
-  spot
-
-  swift'
-bip_39_word_new_line_11: 'curtain
-
-  word
-
-  sudden
-
-  pelican
-
-  cigar
-
-  govern
-
-  release
-
-  faculty
-
-  spot
-
-  swift
-
-  primary'
 bip_39_word_new_line_12: 'curtain
 
   word
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'curtain
   word
 
   sudden'
-bip_39_word_new_line_4: 'curtain
-
-  word
-
-  sudden
-
-  pelican'
-bip_39_word_new_line_5: 'curtain
-
-  word
-
-  sudden
-
-  pelican
-
-  cigar'
-bip_39_word_new_line_6: 'curtain
-
-  word
-
-  sudden
-
-  pelican
-
-  cigar
-
-  govern'
-bip_39_word_new_line_7: 'curtain
-
-  word
-
-  sudden
-
-  pelican
-
-  cigar
-
-  govern
-
-  release'
-bip_39_word_new_line_8: 'curtain
-
-  word
-
-  sudden
-
-  pelican
-
-  cigar
-
-  govern
-
-  release
-
-  faculty'
-bip_39_word_new_line_9: 'curtain
-
-  word
-
-  sudden
-
-  pelican
-
-  cigar
-
-  govern
-
-  release
-
-  faculty
-
-  spot'
-bip_39_word_no_space_1: curtain
-bip_39_word_no_space_10: curtainwordsuddenpelicancigargovernreleasefacultyspotswift
-bip_39_word_no_space_11: curtainwordsuddenpelicancigargovernreleasefacultyspotswiftprimary
 bip_39_word_no_space_12: curtainwordsuddenpelicancigargovernreleasefacultyspotswiftprimaryancient
 bip_39_word_no_space_2: curtainword
 bip_39_word_no_space_3: curtainwordsudden
-bip_39_word_no_space_4: curtainwordsuddenpelican
-bip_39_word_no_space_5: curtainwordsuddenpelicancigar
-bip_39_word_no_space_6: curtainwordsuddenpelicancigargovern
-bip_39_word_no_space_7: curtainwordsuddenpelicancigargovernrelease
-bip_39_word_no_space_8: curtainwordsuddenpelicancigargovernreleasefaculty
-bip_39_word_no_space_9: curtainwordsuddenpelicancigargovernreleasefacultyspot
-bip_39_word_space_0:
-- curtain
-- word
-- sudden
-- pelican
-- cigar
-- govern
-- release
-- faculty
-- spot
-- swift
-- primary
-- ancient
-bip_39_word_space_1: curtain
-bip_39_word_space_10: curtain word sudden pelican cigar govern release faculty spot
-  swift
-bip_39_word_space_11: curtain word sudden pelican cigar govern release faculty spot
-  swift primary
 bip_39_word_space_12: curtain word sudden pelican cigar govern release faculty spot
   swift primary ancient
 bip_39_word_space_2: curtain word
 bip_39_word_space_3: curtain word sudden
-bip_39_word_space_4: curtain word sudden pelican
-bip_39_word_space_5: curtain word sudden pelican cigar
-bip_39_word_space_6: curtain word sudden pelican cigar govern
-bip_39_word_space_7: curtain word sudden pelican cigar govern release
-bip_39_word_space_8: curtain word sudden pelican cigar govern release faculty
-bip_39_word_space_9: curtain word sudden pelican cigar govern release faculty spot
-bip_39_word_underscore_1: curtain
-bip_39_word_underscore_10: curtain_word_sudden_pelican_cigar_govern_release_faculty_spot_swift
-bip_39_word_underscore_11: curtain_word_sudden_pelican_cigar_govern_release_faculty_spot_swift_primary
 bip_39_word_underscore_12: curtain_word_sudden_pelican_cigar_govern_release_faculty_spot_swift_primary_ancient
 bip_39_word_underscore_2: curtain_word
 bip_39_word_underscore_3: curtain_word_sudden
-bip_39_word_underscore_4: curtain_word_sudden_pelican
-bip_39_word_underscore_5: curtain_word_sudden_pelican_cigar
-bip_39_word_underscore_6: curtain_word_sudden_pelican_cigar_govern
-bip_39_word_underscore_7: curtain_word_sudden_pelican_cigar_govern_release
-bip_39_word_underscore_8: curtain_word_sudden_pelican_cigar_govern_release_faculty
-bip_39_word_underscore_9: curtain_word_sudden_pelican_cigar_govern_release_faculty_spot
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

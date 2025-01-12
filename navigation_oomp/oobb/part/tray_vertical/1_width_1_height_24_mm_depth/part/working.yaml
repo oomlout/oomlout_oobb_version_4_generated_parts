@@ -1,68 +1,9 @@
-bip_39_word_dash_1: address
-bip_39_word_dash_10: address-bench-robust-fence-rate-useful-merry-farm-sphere-orange
-bip_39_word_dash_11: address-bench-robust-fence-rate-useful-merry-farm-sphere-orange-decorate
 bip_39_word_dash_12: address-bench-robust-fence-rate-useful-merry-farm-sphere-orange-decorate-animal
 bip_39_word_dash_2: address-bench
 bip_39_word_dash_3: address-bench-robust
-bip_39_word_dash_4: address-bench-robust-fence
-bip_39_word_dash_5: address-bench-robust-fence-rate
-bip_39_word_dash_6: address-bench-robust-fence-rate-useful
-bip_39_word_dash_7: address-bench-robust-fence-rate-useful-merry
-bip_39_word_dash_8: address-bench-robust-fence-rate-useful-merry-farm
-bip_39_word_dash_9: address-bench-robust-fence-rate-useful-merry-farm-sphere
-bip_39_word_new_br_1: address
-bip_39_word_new_br_10: address<br>bench<br>robust<br>fence<br>rate<br>useful<br>merry<br>farm<br>sphere<br>orange
-bip_39_word_new_br_11: address<br>bench<br>robust<br>fence<br>rate<br>useful<br>merry<br>farm<br>sphere<br>orange<br>decorate
 bip_39_word_new_br_12: address<br>bench<br>robust<br>fence<br>rate<br>useful<br>merry<br>farm<br>sphere<br>orange<br>decorate<br>animal
 bip_39_word_new_br_2: address<br>bench
 bip_39_word_new_br_3: address<br>bench<br>robust
-bip_39_word_new_br_4: address<br>bench<br>robust<br>fence
-bip_39_word_new_br_5: address<br>bench<br>robust<br>fence<br>rate
-bip_39_word_new_br_6: address<br>bench<br>robust<br>fence<br>rate<br>useful
-bip_39_word_new_br_7: address<br>bench<br>robust<br>fence<br>rate<br>useful<br>merry
-bip_39_word_new_br_8: address<br>bench<br>robust<br>fence<br>rate<br>useful<br>merry<br>farm
-bip_39_word_new_br_9: address<br>bench<br>robust<br>fence<br>rate<br>useful<br>merry<br>farm<br>sphere
-bip_39_word_new_line_1: address
-bip_39_word_new_line_10: 'address
-
-  bench
-
-  robust
-
-  fence
-
-  rate
-
-  useful
-
-  merry
-
-  farm
-
-  sphere
-
-  orange'
-bip_39_word_new_line_11: 'address
-
-  bench
-
-  robust
-
-  fence
-
-  rate
-
-  useful
-
-  merry
-
-  farm
-
-  sphere
-
-  orange
-
-  decorate'
 bip_39_word_new_line_12: 'address
 
   bench
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'address
   bench
 
   robust'
-bip_39_word_new_line_4: 'address
-
-  bench
-
-  robust
-
-  fence'
-bip_39_word_new_line_5: 'address
-
-  bench
-
-  robust
-
-  fence
-
-  rate'
-bip_39_word_new_line_6: 'address
-
-  bench
-
-  robust
-
-  fence
-
-  rate
-
-  useful'
-bip_39_word_new_line_7: 'address
-
-  bench
-
-  robust
-
-  fence
-
-  rate
-
-  useful
-
-  merry'
-bip_39_word_new_line_8: 'address
-
-  bench
-
-  robust
-
-  fence
-
-  rate
-
-  useful
-
-  merry
-
-  farm'
-bip_39_word_new_line_9: 'address
-
-  bench
-
-  robust
-
-  fence
-
-  rate
-
-  useful
-
-  merry
-
-  farm
-
-  sphere'
-bip_39_word_no_space_1: address
-bip_39_word_no_space_10: addressbenchrobustfencerateusefulmerryfarmsphereorange
-bip_39_word_no_space_11: addressbenchrobustfencerateusefulmerryfarmsphereorangedecorate
 bip_39_word_no_space_12: addressbenchrobustfencerateusefulmerryfarmsphereorangedecorateanimal
 bip_39_word_no_space_2: addressbench
 bip_39_word_no_space_3: addressbenchrobust
-bip_39_word_no_space_4: addressbenchrobustfence
-bip_39_word_no_space_5: addressbenchrobustfencerate
-bip_39_word_no_space_6: addressbenchrobustfencerateuseful
-bip_39_word_no_space_7: addressbenchrobustfencerateusefulmerry
-bip_39_word_no_space_8: addressbenchrobustfencerateusefulmerryfarm
-bip_39_word_no_space_9: addressbenchrobustfencerateusefulmerryfarmsphere
-bip_39_word_space_0:
-- address
-- bench
-- robust
-- fence
-- rate
-- useful
-- merry
-- farm
-- sphere
-- orange
-- decorate
-- animal
-bip_39_word_space_1: address
-bip_39_word_space_10: address bench robust fence rate useful merry farm sphere orange
-bip_39_word_space_11: address bench robust fence rate useful merry farm sphere orange
-  decorate
 bip_39_word_space_12: address bench robust fence rate useful merry farm sphere orange
   decorate animal
 bip_39_word_space_2: address bench
 bip_39_word_space_3: address bench robust
-bip_39_word_space_4: address bench robust fence
-bip_39_word_space_5: address bench robust fence rate
-bip_39_word_space_6: address bench robust fence rate useful
-bip_39_word_space_7: address bench robust fence rate useful merry
-bip_39_word_space_8: address bench robust fence rate useful merry farm
-bip_39_word_space_9: address bench robust fence rate useful merry farm sphere
-bip_39_word_underscore_1: address
-bip_39_word_underscore_10: address_bench_robust_fence_rate_useful_merry_farm_sphere_orange
-bip_39_word_underscore_11: address_bench_robust_fence_rate_useful_merry_farm_sphere_orange_decorate
 bip_39_word_underscore_12: address_bench_robust_fence_rate_useful_merry_farm_sphere_orange_decorate_animal
 bip_39_word_underscore_2: address_bench
 bip_39_word_underscore_3: address_bench_robust
-bip_39_word_underscore_4: address_bench_robust_fence
-bip_39_word_underscore_5: address_bench_robust_fence_rate
-bip_39_word_underscore_6: address_bench_robust_fence_rate_useful
-bip_39_word_underscore_7: address_bench_robust_fence_rate_useful_merry
-bip_39_word_underscore_8: address_bench_robust_fence_rate_useful_merry_farm
-bip_39_word_underscore_9: address_bench_robust_fence_rate_useful_merry_farm_sphere
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

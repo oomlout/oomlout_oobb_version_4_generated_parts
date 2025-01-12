@@ -1,68 +1,9 @@
-bip_39_word_dash_1: napkin
-bip_39_word_dash_10: napkin-radar-spoon-nut-leopard-kingdom-come-write-today-rapid
-bip_39_word_dash_11: napkin-radar-spoon-nut-leopard-kingdom-come-write-today-rapid-change
 bip_39_word_dash_12: napkin-radar-spoon-nut-leopard-kingdom-come-write-today-rapid-change-advance
 bip_39_word_dash_2: napkin-radar
 bip_39_word_dash_3: napkin-radar-spoon
-bip_39_word_dash_4: napkin-radar-spoon-nut
-bip_39_word_dash_5: napkin-radar-spoon-nut-leopard
-bip_39_word_dash_6: napkin-radar-spoon-nut-leopard-kingdom
-bip_39_word_dash_7: napkin-radar-spoon-nut-leopard-kingdom-come
-bip_39_word_dash_8: napkin-radar-spoon-nut-leopard-kingdom-come-write
-bip_39_word_dash_9: napkin-radar-spoon-nut-leopard-kingdom-come-write-today
-bip_39_word_new_br_1: napkin
-bip_39_word_new_br_10: napkin<br>radar<br>spoon<br>nut<br>leopard<br>kingdom<br>come<br>write<br>today<br>rapid
-bip_39_word_new_br_11: napkin<br>radar<br>spoon<br>nut<br>leopard<br>kingdom<br>come<br>write<br>today<br>rapid<br>change
 bip_39_word_new_br_12: napkin<br>radar<br>spoon<br>nut<br>leopard<br>kingdom<br>come<br>write<br>today<br>rapid<br>change<br>advance
 bip_39_word_new_br_2: napkin<br>radar
 bip_39_word_new_br_3: napkin<br>radar<br>spoon
-bip_39_word_new_br_4: napkin<br>radar<br>spoon<br>nut
-bip_39_word_new_br_5: napkin<br>radar<br>spoon<br>nut<br>leopard
-bip_39_word_new_br_6: napkin<br>radar<br>spoon<br>nut<br>leopard<br>kingdom
-bip_39_word_new_br_7: napkin<br>radar<br>spoon<br>nut<br>leopard<br>kingdom<br>come
-bip_39_word_new_br_8: napkin<br>radar<br>spoon<br>nut<br>leopard<br>kingdom<br>come<br>write
-bip_39_word_new_br_9: napkin<br>radar<br>spoon<br>nut<br>leopard<br>kingdom<br>come<br>write<br>today
-bip_39_word_new_line_1: napkin
-bip_39_word_new_line_10: 'napkin
-
-  radar
-
-  spoon
-
-  nut
-
-  leopard
-
-  kingdom
-
-  come
-
-  write
-
-  today
-
-  rapid'
-bip_39_word_new_line_11: 'napkin
-
-  radar
-
-  spoon
-
-  nut
-
-  leopard
-
-  kingdom
-
-  come
-
-  write
-
-  today
-
-  rapid
-
-  change'
 bip_39_word_new_line_12: 'napkin
 
   radar
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'napkin
   radar
 
   spoon'
-bip_39_word_new_line_4: 'napkin
-
-  radar
-
-  spoon
-
-  nut'
-bip_39_word_new_line_5: 'napkin
-
-  radar
-
-  spoon
-
-  nut
-
-  leopard'
-bip_39_word_new_line_6: 'napkin
-
-  radar
-
-  spoon
-
-  nut
-
-  leopard
-
-  kingdom'
-bip_39_word_new_line_7: 'napkin
-
-  radar
-
-  spoon
-
-  nut
-
-  leopard
-
-  kingdom
-
-  come'
-bip_39_word_new_line_8: 'napkin
-
-  radar
-
-  spoon
-
-  nut
-
-  leopard
-
-  kingdom
-
-  come
-
-  write'
-bip_39_word_new_line_9: 'napkin
-
-  radar
-
-  spoon
-
-  nut
-
-  leopard
-
-  kingdom
-
-  come
-
-  write
-
-  today'
-bip_39_word_no_space_1: napkin
-bip_39_word_no_space_10: napkinradarspoonnutleopardkingdomcomewritetodayrapid
-bip_39_word_no_space_11: napkinradarspoonnutleopardkingdomcomewritetodayrapidchange
 bip_39_word_no_space_12: napkinradarspoonnutleopardkingdomcomewritetodayrapidchangeadvance
 bip_39_word_no_space_2: napkinradar
 bip_39_word_no_space_3: napkinradarspoon
-bip_39_word_no_space_4: napkinradarspoonnut
-bip_39_word_no_space_5: napkinradarspoonnutleopard
-bip_39_word_no_space_6: napkinradarspoonnutleopardkingdom
-bip_39_word_no_space_7: napkinradarspoonnutleopardkingdomcome
-bip_39_word_no_space_8: napkinradarspoonnutleopardkingdomcomewrite
-bip_39_word_no_space_9: napkinradarspoonnutleopardkingdomcomewritetoday
-bip_39_word_space_0:
-- napkin
-- radar
-- spoon
-- nut
-- leopard
-- kingdom
-- come
-- write
-- today
-- rapid
-- change
-- advance
-bip_39_word_space_1: napkin
-bip_39_word_space_10: napkin radar spoon nut leopard kingdom come write today rapid
-bip_39_word_space_11: napkin radar spoon nut leopard kingdom come write today rapid
-  change
 bip_39_word_space_12: napkin radar spoon nut leopard kingdom come write today rapid
   change advance
 bip_39_word_space_2: napkin radar
 bip_39_word_space_3: napkin radar spoon
-bip_39_word_space_4: napkin radar spoon nut
-bip_39_word_space_5: napkin radar spoon nut leopard
-bip_39_word_space_6: napkin radar spoon nut leopard kingdom
-bip_39_word_space_7: napkin radar spoon nut leopard kingdom come
-bip_39_word_space_8: napkin radar spoon nut leopard kingdom come write
-bip_39_word_space_9: napkin radar spoon nut leopard kingdom come write today
-bip_39_word_underscore_1: napkin
-bip_39_word_underscore_10: napkin_radar_spoon_nut_leopard_kingdom_come_write_today_rapid
-bip_39_word_underscore_11: napkin_radar_spoon_nut_leopard_kingdom_come_write_today_rapid_change
 bip_39_word_underscore_12: napkin_radar_spoon_nut_leopard_kingdom_come_write_today_rapid_change_advance
 bip_39_word_underscore_2: napkin_radar
 bip_39_word_underscore_3: napkin_radar_spoon
-bip_39_word_underscore_4: napkin_radar_spoon_nut
-bip_39_word_underscore_5: napkin_radar_spoon_nut_leopard
-bip_39_word_underscore_6: napkin_radar_spoon_nut_leopard_kingdom
-bip_39_word_underscore_7: napkin_radar_spoon_nut_leopard_kingdom_come
-bip_39_word_underscore_8: napkin_radar_spoon_nut_leopard_kingdom_come_write
-bip_39_word_underscore_9: napkin_radar_spoon_nut_leopard_kingdom_come_write_today
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

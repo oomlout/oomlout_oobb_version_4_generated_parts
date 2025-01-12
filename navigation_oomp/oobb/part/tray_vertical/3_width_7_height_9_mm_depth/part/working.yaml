@@ -1,68 +1,9 @@
-bip_39_word_dash_1: first
-bip_39_word_dash_10: first-cup-spend-trend-hello-young-panda-oyster-prison-brown
-bip_39_word_dash_11: first-cup-spend-trend-hello-young-panda-oyster-prison-brown-mass
 bip_39_word_dash_12: first-cup-spend-trend-hello-young-panda-oyster-prison-brown-mass-across
 bip_39_word_dash_2: first-cup
 bip_39_word_dash_3: first-cup-spend
-bip_39_word_dash_4: first-cup-spend-trend
-bip_39_word_dash_5: first-cup-spend-trend-hello
-bip_39_word_dash_6: first-cup-spend-trend-hello-young
-bip_39_word_dash_7: first-cup-spend-trend-hello-young-panda
-bip_39_word_dash_8: first-cup-spend-trend-hello-young-panda-oyster
-bip_39_word_dash_9: first-cup-spend-trend-hello-young-panda-oyster-prison
-bip_39_word_new_br_1: first
-bip_39_word_new_br_10: first<br>cup<br>spend<br>trend<br>hello<br>young<br>panda<br>oyster<br>prison<br>brown
-bip_39_word_new_br_11: first<br>cup<br>spend<br>trend<br>hello<br>young<br>panda<br>oyster<br>prison<br>brown<br>mass
 bip_39_word_new_br_12: first<br>cup<br>spend<br>trend<br>hello<br>young<br>panda<br>oyster<br>prison<br>brown<br>mass<br>across
 bip_39_word_new_br_2: first<br>cup
 bip_39_word_new_br_3: first<br>cup<br>spend
-bip_39_word_new_br_4: first<br>cup<br>spend<br>trend
-bip_39_word_new_br_5: first<br>cup<br>spend<br>trend<br>hello
-bip_39_word_new_br_6: first<br>cup<br>spend<br>trend<br>hello<br>young
-bip_39_word_new_br_7: first<br>cup<br>spend<br>trend<br>hello<br>young<br>panda
-bip_39_word_new_br_8: first<br>cup<br>spend<br>trend<br>hello<br>young<br>panda<br>oyster
-bip_39_word_new_br_9: first<br>cup<br>spend<br>trend<br>hello<br>young<br>panda<br>oyster<br>prison
-bip_39_word_new_line_1: first
-bip_39_word_new_line_10: 'first
-
-  cup
-
-  spend
-
-  trend
-
-  hello
-
-  young
-
-  panda
-
-  oyster
-
-  prison
-
-  brown'
-bip_39_word_new_line_11: 'first
-
-  cup
-
-  spend
-
-  trend
-
-  hello
-
-  young
-
-  panda
-
-  oyster
-
-  prison
-
-  brown
-
-  mass'
 bip_39_word_new_line_12: 'first
 
   cup
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'first
   cup
 
   spend'
-bip_39_word_new_line_4: 'first
-
-  cup
-
-  spend
-
-  trend'
-bip_39_word_new_line_5: 'first
-
-  cup
-
-  spend
-
-  trend
-
-  hello'
-bip_39_word_new_line_6: 'first
-
-  cup
-
-  spend
-
-  trend
-
-  hello
-
-  young'
-bip_39_word_new_line_7: 'first
-
-  cup
-
-  spend
-
-  trend
-
-  hello
-
-  young
-
-  panda'
-bip_39_word_new_line_8: 'first
-
-  cup
-
-  spend
-
-  trend
-
-  hello
-
-  young
-
-  panda
-
-  oyster'
-bip_39_word_new_line_9: 'first
-
-  cup
-
-  spend
-
-  trend
-
-  hello
-
-  young
-
-  panda
-
-  oyster
-
-  prison'
-bip_39_word_no_space_1: first
-bip_39_word_no_space_10: firstcupspendtrendhelloyoungpandaoysterprisonbrown
-bip_39_word_no_space_11: firstcupspendtrendhelloyoungpandaoysterprisonbrownmass
 bip_39_word_no_space_12: firstcupspendtrendhelloyoungpandaoysterprisonbrownmassacross
 bip_39_word_no_space_2: firstcup
 bip_39_word_no_space_3: firstcupspend
-bip_39_word_no_space_4: firstcupspendtrend
-bip_39_word_no_space_5: firstcupspendtrendhello
-bip_39_word_no_space_6: firstcupspendtrendhelloyoung
-bip_39_word_no_space_7: firstcupspendtrendhelloyoungpanda
-bip_39_word_no_space_8: firstcupspendtrendhelloyoungpandaoyster
-bip_39_word_no_space_9: firstcupspendtrendhelloyoungpandaoysterprison
-bip_39_word_space_0:
-- first
-- cup
-- spend
-- trend
-- hello
-- young
-- panda
-- oyster
-- prison
-- brown
-- mass
-- across
-bip_39_word_space_1: first
-bip_39_word_space_10: first cup spend trend hello young panda oyster prison brown
-bip_39_word_space_11: first cup spend trend hello young panda oyster prison brown
-  mass
 bip_39_word_space_12: first cup spend trend hello young panda oyster prison brown
   mass across
 bip_39_word_space_2: first cup
 bip_39_word_space_3: first cup spend
-bip_39_word_space_4: first cup spend trend
-bip_39_word_space_5: first cup spend trend hello
-bip_39_word_space_6: first cup spend trend hello young
-bip_39_word_space_7: first cup spend trend hello young panda
-bip_39_word_space_8: first cup spend trend hello young panda oyster
-bip_39_word_space_9: first cup spend trend hello young panda oyster prison
-bip_39_word_underscore_1: first
-bip_39_word_underscore_10: first_cup_spend_trend_hello_young_panda_oyster_prison_brown
-bip_39_word_underscore_11: first_cup_spend_trend_hello_young_panda_oyster_prison_brown_mass
 bip_39_word_underscore_12: first_cup_spend_trend_hello_young_panda_oyster_prison_brown_mass_across
 bip_39_word_underscore_2: first_cup
 bip_39_word_underscore_3: first_cup_spend
-bip_39_word_underscore_4: first_cup_spend_trend
-bip_39_word_underscore_5: first_cup_spend_trend_hello
-bip_39_word_underscore_6: first_cup_spend_trend_hello_young
-bip_39_word_underscore_7: first_cup_spend_trend_hello_young_panda
-bip_39_word_underscore_8: first_cup_spend_trend_hello_young_panda_oyster
-bip_39_word_underscore_9: first_cup_spend_trend_hello_young_panda_oyster_prison
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

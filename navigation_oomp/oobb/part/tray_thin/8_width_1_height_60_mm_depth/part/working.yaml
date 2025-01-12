@@ -1,68 +1,9 @@
-bip_39_word_dash_1: sleep
-bip_39_word_dash_10: sleep-accident-family-put-frog-fish-family-fence-sort-cushion
-bip_39_word_dash_11: sleep-accident-family-put-frog-fish-family-fence-sort-cushion-guess
 bip_39_word_dash_12: sleep-accident-family-put-frog-fish-family-fence-sort-cushion-guess-actual
 bip_39_word_dash_2: sleep-accident
 bip_39_word_dash_3: sleep-accident-family
-bip_39_word_dash_4: sleep-accident-family-put
-bip_39_word_dash_5: sleep-accident-family-put-frog
-bip_39_word_dash_6: sleep-accident-family-put-frog-fish
-bip_39_word_dash_7: sleep-accident-family-put-frog-fish-family
-bip_39_word_dash_8: sleep-accident-family-put-frog-fish-family-fence
-bip_39_word_dash_9: sleep-accident-family-put-frog-fish-family-fence-sort
-bip_39_word_new_br_1: sleep
-bip_39_word_new_br_10: sleep<br>accident<br>family<br>put<br>frog<br>fish<br>family<br>fence<br>sort<br>cushion
-bip_39_word_new_br_11: sleep<br>accident<br>family<br>put<br>frog<br>fish<br>family<br>fence<br>sort<br>cushion<br>guess
 bip_39_word_new_br_12: sleep<br>accident<br>family<br>put<br>frog<br>fish<br>family<br>fence<br>sort<br>cushion<br>guess<br>actual
 bip_39_word_new_br_2: sleep<br>accident
 bip_39_word_new_br_3: sleep<br>accident<br>family
-bip_39_word_new_br_4: sleep<br>accident<br>family<br>put
-bip_39_word_new_br_5: sleep<br>accident<br>family<br>put<br>frog
-bip_39_word_new_br_6: sleep<br>accident<br>family<br>put<br>frog<br>fish
-bip_39_word_new_br_7: sleep<br>accident<br>family<br>put<br>frog<br>fish<br>family
-bip_39_word_new_br_8: sleep<br>accident<br>family<br>put<br>frog<br>fish<br>family<br>fence
-bip_39_word_new_br_9: sleep<br>accident<br>family<br>put<br>frog<br>fish<br>family<br>fence<br>sort
-bip_39_word_new_line_1: sleep
-bip_39_word_new_line_10: 'sleep
-
-  accident
-
-  family
-
-  put
-
-  frog
-
-  fish
-
-  family
-
-  fence
-
-  sort
-
-  cushion'
-bip_39_word_new_line_11: 'sleep
-
-  accident
-
-  family
-
-  put
-
-  frog
-
-  fish
-
-  family
-
-  fence
-
-  sort
-
-  cushion
-
-  guess'
 bip_39_word_new_line_12: 'sleep
 
   accident
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'sleep
   accident
 
   family'
-bip_39_word_new_line_4: 'sleep
-
-  accident
-
-  family
-
-  put'
-bip_39_word_new_line_5: 'sleep
-
-  accident
-
-  family
-
-  put
-
-  frog'
-bip_39_word_new_line_6: 'sleep
-
-  accident
-
-  family
-
-  put
-
-  frog
-
-  fish'
-bip_39_word_new_line_7: 'sleep
-
-  accident
-
-  family
-
-  put
-
-  frog
-
-  fish
-
-  family'
-bip_39_word_new_line_8: 'sleep
-
-  accident
-
-  family
-
-  put
-
-  frog
-
-  fish
-
-  family
-
-  fence'
-bip_39_word_new_line_9: 'sleep
-
-  accident
-
-  family
-
-  put
-
-  frog
-
-  fish
-
-  family
-
-  fence
-
-  sort'
-bip_39_word_no_space_1: sleep
-bip_39_word_no_space_10: sleepaccidentfamilyputfrogfishfamilyfencesortcushion
-bip_39_word_no_space_11: sleepaccidentfamilyputfrogfishfamilyfencesortcushionguess
 bip_39_word_no_space_12: sleepaccidentfamilyputfrogfishfamilyfencesortcushionguessactual
 bip_39_word_no_space_2: sleepaccident
 bip_39_word_no_space_3: sleepaccidentfamily
-bip_39_word_no_space_4: sleepaccidentfamilyput
-bip_39_word_no_space_5: sleepaccidentfamilyputfrog
-bip_39_word_no_space_6: sleepaccidentfamilyputfrogfish
-bip_39_word_no_space_7: sleepaccidentfamilyputfrogfishfamily
-bip_39_word_no_space_8: sleepaccidentfamilyputfrogfishfamilyfence
-bip_39_word_no_space_9: sleepaccidentfamilyputfrogfishfamilyfencesort
-bip_39_word_space_0:
-- sleep
-- accident
-- family
-- put
-- frog
-- fish
-- family
-- fence
-- sort
-- cushion
-- guess
-- actual
-bip_39_word_space_1: sleep
-bip_39_word_space_10: sleep accident family put frog fish family fence sort cushion
-bip_39_word_space_11: sleep accident family put frog fish family fence sort cushion
-  guess
 bip_39_word_space_12: sleep accident family put frog fish family fence sort cushion
   guess actual
 bip_39_word_space_2: sleep accident
 bip_39_word_space_3: sleep accident family
-bip_39_word_space_4: sleep accident family put
-bip_39_word_space_5: sleep accident family put frog
-bip_39_word_space_6: sleep accident family put frog fish
-bip_39_word_space_7: sleep accident family put frog fish family
-bip_39_word_space_8: sleep accident family put frog fish family fence
-bip_39_word_space_9: sleep accident family put frog fish family fence sort
-bip_39_word_underscore_1: sleep
-bip_39_word_underscore_10: sleep_accident_family_put_frog_fish_family_fence_sort_cushion
-bip_39_word_underscore_11: sleep_accident_family_put_frog_fish_family_fence_sort_cushion_guess
 bip_39_word_underscore_12: sleep_accident_family_put_frog_fish_family_fence_sort_cushion_guess_actual
 bip_39_word_underscore_2: sleep_accident
 bip_39_word_underscore_3: sleep_accident_family
-bip_39_word_underscore_4: sleep_accident_family_put
-bip_39_word_underscore_5: sleep_accident_family_put_frog
-bip_39_word_underscore_6: sleep_accident_family_put_frog_fish
-bip_39_word_underscore_7: sleep_accident_family_put_frog_fish_family
-bip_39_word_underscore_8: sleep_accident_family_put_frog_fish_family_fence
-bip_39_word_underscore_9: sleep_accident_family_put_frog_fish_family_fence_sort
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

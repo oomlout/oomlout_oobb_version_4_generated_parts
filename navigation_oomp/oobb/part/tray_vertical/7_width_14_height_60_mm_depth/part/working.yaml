@@ -1,68 +1,9 @@
-bip_39_word_dash_1: menu
-bip_39_word_dash_10: menu-actor-puzzle-silk-bus-retire-spoon-air-thumb-excite
-bip_39_word_dash_11: menu-actor-puzzle-silk-bus-retire-spoon-air-thumb-excite-abstract
 bip_39_word_dash_12: menu-actor-puzzle-silk-bus-retire-spoon-air-thumb-excite-abstract-arm
 bip_39_word_dash_2: menu-actor
 bip_39_word_dash_3: menu-actor-puzzle
-bip_39_word_dash_4: menu-actor-puzzle-silk
-bip_39_word_dash_5: menu-actor-puzzle-silk-bus
-bip_39_word_dash_6: menu-actor-puzzle-silk-bus-retire
-bip_39_word_dash_7: menu-actor-puzzle-silk-bus-retire-spoon
-bip_39_word_dash_8: menu-actor-puzzle-silk-bus-retire-spoon-air
-bip_39_word_dash_9: menu-actor-puzzle-silk-bus-retire-spoon-air-thumb
-bip_39_word_new_br_1: menu
-bip_39_word_new_br_10: menu<br>actor<br>puzzle<br>silk<br>bus<br>retire<br>spoon<br>air<br>thumb<br>excite
-bip_39_word_new_br_11: menu<br>actor<br>puzzle<br>silk<br>bus<br>retire<br>spoon<br>air<br>thumb<br>excite<br>abstract
 bip_39_word_new_br_12: menu<br>actor<br>puzzle<br>silk<br>bus<br>retire<br>spoon<br>air<br>thumb<br>excite<br>abstract<br>arm
 bip_39_word_new_br_2: menu<br>actor
 bip_39_word_new_br_3: menu<br>actor<br>puzzle
-bip_39_word_new_br_4: menu<br>actor<br>puzzle<br>silk
-bip_39_word_new_br_5: menu<br>actor<br>puzzle<br>silk<br>bus
-bip_39_word_new_br_6: menu<br>actor<br>puzzle<br>silk<br>bus<br>retire
-bip_39_word_new_br_7: menu<br>actor<br>puzzle<br>silk<br>bus<br>retire<br>spoon
-bip_39_word_new_br_8: menu<br>actor<br>puzzle<br>silk<br>bus<br>retire<br>spoon<br>air
-bip_39_word_new_br_9: menu<br>actor<br>puzzle<br>silk<br>bus<br>retire<br>spoon<br>air<br>thumb
-bip_39_word_new_line_1: menu
-bip_39_word_new_line_10: 'menu
-
-  actor
-
-  puzzle
-
-  silk
-
-  bus
-
-  retire
-
-  spoon
-
-  air
-
-  thumb
-
-  excite'
-bip_39_word_new_line_11: 'menu
-
-  actor
-
-  puzzle
-
-  silk
-
-  bus
-
-  retire
-
-  spoon
-
-  air
-
-  thumb
-
-  excite
-
-  abstract'
 bip_39_word_new_line_12: 'menu
 
   actor
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'menu
   actor
 
   puzzle'
-bip_39_word_new_line_4: 'menu
-
-  actor
-
-  puzzle
-
-  silk'
-bip_39_word_new_line_5: 'menu
-
-  actor
-
-  puzzle
-
-  silk
-
-  bus'
-bip_39_word_new_line_6: 'menu
-
-  actor
-
-  puzzle
-
-  silk
-
-  bus
-
-  retire'
-bip_39_word_new_line_7: 'menu
-
-  actor
-
-  puzzle
-
-  silk
-
-  bus
-
-  retire
-
-  spoon'
-bip_39_word_new_line_8: 'menu
-
-  actor
-
-  puzzle
-
-  silk
-
-  bus
-
-  retire
-
-  spoon
-
-  air'
-bip_39_word_new_line_9: 'menu
-
-  actor
-
-  puzzle
-
-  silk
-
-  bus
-
-  retire
-
-  spoon
-
-  air
-
-  thumb'
-bip_39_word_no_space_1: menu
-bip_39_word_no_space_10: menuactorpuzzlesilkbusretirespoonairthumbexcite
-bip_39_word_no_space_11: menuactorpuzzlesilkbusretirespoonairthumbexciteabstract
 bip_39_word_no_space_12: menuactorpuzzlesilkbusretirespoonairthumbexciteabstractarm
 bip_39_word_no_space_2: menuactor
 bip_39_word_no_space_3: menuactorpuzzle
-bip_39_word_no_space_4: menuactorpuzzlesilk
-bip_39_word_no_space_5: menuactorpuzzlesilkbus
-bip_39_word_no_space_6: menuactorpuzzlesilkbusretire
-bip_39_word_no_space_7: menuactorpuzzlesilkbusretirespoon
-bip_39_word_no_space_8: menuactorpuzzlesilkbusretirespoonair
-bip_39_word_no_space_9: menuactorpuzzlesilkbusretirespoonairthumb
-bip_39_word_space_0:
-- menu
-- actor
-- puzzle
-- silk
-- bus
-- retire
-- spoon
-- air
-- thumb
-- excite
-- abstract
-- arm
-bip_39_word_space_1: menu
-bip_39_word_space_10: menu actor puzzle silk bus retire spoon air thumb excite
-bip_39_word_space_11: menu actor puzzle silk bus retire spoon air thumb excite abstract
 bip_39_word_space_12: menu actor puzzle silk bus retire spoon air thumb excite abstract
   arm
 bip_39_word_space_2: menu actor
 bip_39_word_space_3: menu actor puzzle
-bip_39_word_space_4: menu actor puzzle silk
-bip_39_word_space_5: menu actor puzzle silk bus
-bip_39_word_space_6: menu actor puzzle silk bus retire
-bip_39_word_space_7: menu actor puzzle silk bus retire spoon
-bip_39_word_space_8: menu actor puzzle silk bus retire spoon air
-bip_39_word_space_9: menu actor puzzle silk bus retire spoon air thumb
-bip_39_word_underscore_1: menu
-bip_39_word_underscore_10: menu_actor_puzzle_silk_bus_retire_spoon_air_thumb_excite
-bip_39_word_underscore_11: menu_actor_puzzle_silk_bus_retire_spoon_air_thumb_excite_abstract
 bip_39_word_underscore_12: menu_actor_puzzle_silk_bus_retire_spoon_air_thumb_excite_abstract_arm
 bip_39_word_underscore_2: menu_actor
 bip_39_word_underscore_3: menu_actor_puzzle
-bip_39_word_underscore_4: menu_actor_puzzle_silk
-bip_39_word_underscore_5: menu_actor_puzzle_silk_bus
-bip_39_word_underscore_6: menu_actor_puzzle_silk_bus_retire
-bip_39_word_underscore_7: menu_actor_puzzle_silk_bus_retire_spoon
-bip_39_word_underscore_8: menu_actor_puzzle_silk_bus_retire_spoon_air
-bip_39_word_underscore_9: menu_actor_puzzle_silk_bus_retire_spoon_air_thumb
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

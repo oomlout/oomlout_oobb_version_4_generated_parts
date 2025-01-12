@@ -1,68 +1,9 @@
-bip_39_word_dash_1: ordinary
-bip_39_word_dash_10: ordinary-accident-pear-lend-fat-stomach-stomach-return-fame-boring
-bip_39_word_dash_11: ordinary-accident-pear-lend-fat-stomach-stomach-return-fame-boring-unique
 bip_39_word_dash_12: ordinary-accident-pear-lend-fat-stomach-stomach-return-fame-boring-unique-always
 bip_39_word_dash_2: ordinary-accident
 bip_39_word_dash_3: ordinary-accident-pear
-bip_39_word_dash_4: ordinary-accident-pear-lend
-bip_39_word_dash_5: ordinary-accident-pear-lend-fat
-bip_39_word_dash_6: ordinary-accident-pear-lend-fat-stomach
-bip_39_word_dash_7: ordinary-accident-pear-lend-fat-stomach-stomach
-bip_39_word_dash_8: ordinary-accident-pear-lend-fat-stomach-stomach-return
-bip_39_word_dash_9: ordinary-accident-pear-lend-fat-stomach-stomach-return-fame
-bip_39_word_new_br_1: ordinary
-bip_39_word_new_br_10: ordinary<br>accident<br>pear<br>lend<br>fat<br>stomach<br>stomach<br>return<br>fame<br>boring
-bip_39_word_new_br_11: ordinary<br>accident<br>pear<br>lend<br>fat<br>stomach<br>stomach<br>return<br>fame<br>boring<br>unique
 bip_39_word_new_br_12: ordinary<br>accident<br>pear<br>lend<br>fat<br>stomach<br>stomach<br>return<br>fame<br>boring<br>unique<br>always
 bip_39_word_new_br_2: ordinary<br>accident
 bip_39_word_new_br_3: ordinary<br>accident<br>pear
-bip_39_word_new_br_4: ordinary<br>accident<br>pear<br>lend
-bip_39_word_new_br_5: ordinary<br>accident<br>pear<br>lend<br>fat
-bip_39_word_new_br_6: ordinary<br>accident<br>pear<br>lend<br>fat<br>stomach
-bip_39_word_new_br_7: ordinary<br>accident<br>pear<br>lend<br>fat<br>stomach<br>stomach
-bip_39_word_new_br_8: ordinary<br>accident<br>pear<br>lend<br>fat<br>stomach<br>stomach<br>return
-bip_39_word_new_br_9: ordinary<br>accident<br>pear<br>lend<br>fat<br>stomach<br>stomach<br>return<br>fame
-bip_39_word_new_line_1: ordinary
-bip_39_word_new_line_10: 'ordinary
-
-  accident
-
-  pear
-
-  lend
-
-  fat
-
-  stomach
-
-  stomach
-
-  return
-
-  fame
-
-  boring'
-bip_39_word_new_line_11: 'ordinary
-
-  accident
-
-  pear
-
-  lend
-
-  fat
-
-  stomach
-
-  stomach
-
-  return
-
-  fame
-
-  boring
-
-  unique'
 bip_39_word_new_line_12: 'ordinary
 
   accident
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'ordinary
   accident
 
   pear'
-bip_39_word_new_line_4: 'ordinary
-
-  accident
-
-  pear
-
-  lend'
-bip_39_word_new_line_5: 'ordinary
-
-  accident
-
-  pear
-
-  lend
-
-  fat'
-bip_39_word_new_line_6: 'ordinary
-
-  accident
-
-  pear
-
-  lend
-
-  fat
-
-  stomach'
-bip_39_word_new_line_7: 'ordinary
-
-  accident
-
-  pear
-
-  lend
-
-  fat
-
-  stomach
-
-  stomach'
-bip_39_word_new_line_8: 'ordinary
-
-  accident
-
-  pear
-
-  lend
-
-  fat
-
-  stomach
-
-  stomach
-
-  return'
-bip_39_word_new_line_9: 'ordinary
-
-  accident
-
-  pear
-
-  lend
-
-  fat
-
-  stomach
-
-  stomach
-
-  return
-
-  fame'
-bip_39_word_no_space_1: ordinary
-bip_39_word_no_space_10: ordinaryaccidentpearlendfatstomachstomachreturnfameboring
-bip_39_word_no_space_11: ordinaryaccidentpearlendfatstomachstomachreturnfameboringunique
 bip_39_word_no_space_12: ordinaryaccidentpearlendfatstomachstomachreturnfameboringuniquealways
 bip_39_word_no_space_2: ordinaryaccident
 bip_39_word_no_space_3: ordinaryaccidentpear
-bip_39_word_no_space_4: ordinaryaccidentpearlend
-bip_39_word_no_space_5: ordinaryaccidentpearlendfat
-bip_39_word_no_space_6: ordinaryaccidentpearlendfatstomach
-bip_39_word_no_space_7: ordinaryaccidentpearlendfatstomachstomach
-bip_39_word_no_space_8: ordinaryaccidentpearlendfatstomachstomachreturn
-bip_39_word_no_space_9: ordinaryaccidentpearlendfatstomachstomachreturnfame
-bip_39_word_space_0:
-- ordinary
-- accident
-- pear
-- lend
-- fat
-- stomach
-- stomach
-- return
-- fame
-- boring
-- unique
-- always
-bip_39_word_space_1: ordinary
-bip_39_word_space_10: ordinary accident pear lend fat stomach stomach return fame
-  boring
-bip_39_word_space_11: ordinary accident pear lend fat stomach stomach return fame
-  boring unique
 bip_39_word_space_12: ordinary accident pear lend fat stomach stomach return fame
   boring unique always
 bip_39_word_space_2: ordinary accident
 bip_39_word_space_3: ordinary accident pear
-bip_39_word_space_4: ordinary accident pear lend
-bip_39_word_space_5: ordinary accident pear lend fat
-bip_39_word_space_6: ordinary accident pear lend fat stomach
-bip_39_word_space_7: ordinary accident pear lend fat stomach stomach
-bip_39_word_space_8: ordinary accident pear lend fat stomach stomach return
-bip_39_word_space_9: ordinary accident pear lend fat stomach stomach return fame
-bip_39_word_underscore_1: ordinary
-bip_39_word_underscore_10: ordinary_accident_pear_lend_fat_stomach_stomach_return_fame_boring
-bip_39_word_underscore_11: ordinary_accident_pear_lend_fat_stomach_stomach_return_fame_boring_unique
 bip_39_word_underscore_12: ordinary_accident_pear_lend_fat_stomach_stomach_return_fame_boring_unique_always
 bip_39_word_underscore_2: ordinary_accident
 bip_39_word_underscore_3: ordinary_accident_pear
-bip_39_word_underscore_4: ordinary_accident_pear_lend
-bip_39_word_underscore_5: ordinary_accident_pear_lend_fat
-bip_39_word_underscore_6: ordinary_accident_pear_lend_fat_stomach
-bip_39_word_underscore_7: ordinary_accident_pear_lend_fat_stomach_stomach
-bip_39_word_underscore_8: ordinary_accident_pear_lend_fat_stomach_stomach_return
-bip_39_word_underscore_9: ordinary_accident_pear_lend_fat_stomach_stomach_return_fame
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

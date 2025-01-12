@@ -1,68 +1,9 @@
-bip_39_word_dash_1: nose
-bip_39_word_dash_10: nose-right-swap-charge-hollow-west-stomach-message-latin-nice
-bip_39_word_dash_11: nose-right-swap-charge-hollow-west-stomach-message-latin-nice-across
 bip_39_word_dash_12: nose-right-swap-charge-hollow-west-stomach-message-latin-nice-across-advice
 bip_39_word_dash_2: nose-right
 bip_39_word_dash_3: nose-right-swap
-bip_39_word_dash_4: nose-right-swap-charge
-bip_39_word_dash_5: nose-right-swap-charge-hollow
-bip_39_word_dash_6: nose-right-swap-charge-hollow-west
-bip_39_word_dash_7: nose-right-swap-charge-hollow-west-stomach
-bip_39_word_dash_8: nose-right-swap-charge-hollow-west-stomach-message
-bip_39_word_dash_9: nose-right-swap-charge-hollow-west-stomach-message-latin
-bip_39_word_new_br_1: nose
-bip_39_word_new_br_10: nose<br>right<br>swap<br>charge<br>hollow<br>west<br>stomach<br>message<br>latin<br>nice
-bip_39_word_new_br_11: nose<br>right<br>swap<br>charge<br>hollow<br>west<br>stomach<br>message<br>latin<br>nice<br>across
 bip_39_word_new_br_12: nose<br>right<br>swap<br>charge<br>hollow<br>west<br>stomach<br>message<br>latin<br>nice<br>across<br>advice
 bip_39_word_new_br_2: nose<br>right
 bip_39_word_new_br_3: nose<br>right<br>swap
-bip_39_word_new_br_4: nose<br>right<br>swap<br>charge
-bip_39_word_new_br_5: nose<br>right<br>swap<br>charge<br>hollow
-bip_39_word_new_br_6: nose<br>right<br>swap<br>charge<br>hollow<br>west
-bip_39_word_new_br_7: nose<br>right<br>swap<br>charge<br>hollow<br>west<br>stomach
-bip_39_word_new_br_8: nose<br>right<br>swap<br>charge<br>hollow<br>west<br>stomach<br>message
-bip_39_word_new_br_9: nose<br>right<br>swap<br>charge<br>hollow<br>west<br>stomach<br>message<br>latin
-bip_39_word_new_line_1: nose
-bip_39_word_new_line_10: 'nose
-
-  right
-
-  swap
-
-  charge
-
-  hollow
-
-  west
-
-  stomach
-
-  message
-
-  latin
-
-  nice'
-bip_39_word_new_line_11: 'nose
-
-  right
-
-  swap
-
-  charge
-
-  hollow
-
-  west
-
-  stomach
-
-  message
-
-  latin
-
-  nice
-
-  across'
 bip_39_word_new_line_12: 'nose
 
   right
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'nose
   right
 
   swap'
-bip_39_word_new_line_4: 'nose
-
-  right
-
-  swap
-
-  charge'
-bip_39_word_new_line_5: 'nose
-
-  right
-
-  swap
-
-  charge
-
-  hollow'
-bip_39_word_new_line_6: 'nose
-
-  right
-
-  swap
-
-  charge
-
-  hollow
-
-  west'
-bip_39_word_new_line_7: 'nose
-
-  right
-
-  swap
-
-  charge
-
-  hollow
-
-  west
-
-  stomach'
-bip_39_word_new_line_8: 'nose
-
-  right
-
-  swap
-
-  charge
-
-  hollow
-
-  west
-
-  stomach
-
-  message'
-bip_39_word_new_line_9: 'nose
-
-  right
-
-  swap
-
-  charge
-
-  hollow
-
-  west
-
-  stomach
-
-  message
-
-  latin'
-bip_39_word_no_space_1: nose
-bip_39_word_no_space_10: noserightswapchargehollowweststomachmessagelatinnice
-bip_39_word_no_space_11: noserightswapchargehollowweststomachmessagelatinniceacross
 bip_39_word_no_space_12: noserightswapchargehollowweststomachmessagelatinniceacrossadvice
 bip_39_word_no_space_2: noseright
 bip_39_word_no_space_3: noserightswap
-bip_39_word_no_space_4: noserightswapcharge
-bip_39_word_no_space_5: noserightswapchargehollow
-bip_39_word_no_space_6: noserightswapchargehollowwest
-bip_39_word_no_space_7: noserightswapchargehollowweststomach
-bip_39_word_no_space_8: noserightswapchargehollowweststomachmessage
-bip_39_word_no_space_9: noserightswapchargehollowweststomachmessagelatin
-bip_39_word_space_0:
-- nose
-- right
-- swap
-- charge
-- hollow
-- west
-- stomach
-- message
-- latin
-- nice
-- across
-- advice
-bip_39_word_space_1: nose
-bip_39_word_space_10: nose right swap charge hollow west stomach message latin nice
-bip_39_word_space_11: nose right swap charge hollow west stomach message latin nice
-  across
 bip_39_word_space_12: nose right swap charge hollow west stomach message latin nice
   across advice
 bip_39_word_space_2: nose right
 bip_39_word_space_3: nose right swap
-bip_39_word_space_4: nose right swap charge
-bip_39_word_space_5: nose right swap charge hollow
-bip_39_word_space_6: nose right swap charge hollow west
-bip_39_word_space_7: nose right swap charge hollow west stomach
-bip_39_word_space_8: nose right swap charge hollow west stomach message
-bip_39_word_space_9: nose right swap charge hollow west stomach message latin
-bip_39_word_underscore_1: nose
-bip_39_word_underscore_10: nose_right_swap_charge_hollow_west_stomach_message_latin_nice
-bip_39_word_underscore_11: nose_right_swap_charge_hollow_west_stomach_message_latin_nice_across
 bip_39_word_underscore_12: nose_right_swap_charge_hollow_west_stomach_message_latin_nice_across_advice
 bip_39_word_underscore_2: nose_right
 bip_39_word_underscore_3: nose_right_swap
-bip_39_word_underscore_4: nose_right_swap_charge
-bip_39_word_underscore_5: nose_right_swap_charge_hollow
-bip_39_word_underscore_6: nose_right_swap_charge_hollow_west
-bip_39_word_underscore_7: nose_right_swap_charge_hollow_west_stomach
-bip_39_word_underscore_8: nose_right_swap_charge_hollow_west_stomach_message
-bip_39_word_underscore_9: nose_right_swap_charge_hollow_west_stomach_message_latin
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

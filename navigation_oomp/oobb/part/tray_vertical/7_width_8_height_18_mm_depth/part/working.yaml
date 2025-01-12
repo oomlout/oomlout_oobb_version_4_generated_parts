@@ -1,68 +1,9 @@
-bip_39_word_dash_1: skate
-bip_39_word_dash_10: skate-boss-girl-verify-unveil-misery-brief-salad-fox-return
-bip_39_word_dash_11: skate-boss-girl-verify-unveil-misery-brief-salad-fox-return-oxygen
 bip_39_word_dash_12: skate-boss-girl-verify-unveil-misery-brief-salad-fox-return-oxygen-army
 bip_39_word_dash_2: skate-boss
 bip_39_word_dash_3: skate-boss-girl
-bip_39_word_dash_4: skate-boss-girl-verify
-bip_39_word_dash_5: skate-boss-girl-verify-unveil
-bip_39_word_dash_6: skate-boss-girl-verify-unveil-misery
-bip_39_word_dash_7: skate-boss-girl-verify-unveil-misery-brief
-bip_39_word_dash_8: skate-boss-girl-verify-unveil-misery-brief-salad
-bip_39_word_dash_9: skate-boss-girl-verify-unveil-misery-brief-salad-fox
-bip_39_word_new_br_1: skate
-bip_39_word_new_br_10: skate<br>boss<br>girl<br>verify<br>unveil<br>misery<br>brief<br>salad<br>fox<br>return
-bip_39_word_new_br_11: skate<br>boss<br>girl<br>verify<br>unveil<br>misery<br>brief<br>salad<br>fox<br>return<br>oxygen
 bip_39_word_new_br_12: skate<br>boss<br>girl<br>verify<br>unveil<br>misery<br>brief<br>salad<br>fox<br>return<br>oxygen<br>army
 bip_39_word_new_br_2: skate<br>boss
 bip_39_word_new_br_3: skate<br>boss<br>girl
-bip_39_word_new_br_4: skate<br>boss<br>girl<br>verify
-bip_39_word_new_br_5: skate<br>boss<br>girl<br>verify<br>unveil
-bip_39_word_new_br_6: skate<br>boss<br>girl<br>verify<br>unveil<br>misery
-bip_39_word_new_br_7: skate<br>boss<br>girl<br>verify<br>unveil<br>misery<br>brief
-bip_39_word_new_br_8: skate<br>boss<br>girl<br>verify<br>unveil<br>misery<br>brief<br>salad
-bip_39_word_new_br_9: skate<br>boss<br>girl<br>verify<br>unveil<br>misery<br>brief<br>salad<br>fox
-bip_39_word_new_line_1: skate
-bip_39_word_new_line_10: 'skate
-
-  boss
-
-  girl
-
-  verify
-
-  unveil
-
-  misery
-
-  brief
-
-  salad
-
-  fox
-
-  return'
-bip_39_word_new_line_11: 'skate
-
-  boss
-
-  girl
-
-  verify
-
-  unveil
-
-  misery
-
-  brief
-
-  salad
-
-  fox
-
-  return
-
-  oxygen'
 bip_39_word_new_line_12: 'skate
 
   boss
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'skate
   boss
 
   girl'
-bip_39_word_new_line_4: 'skate
-
-  boss
-
-  girl
-
-  verify'
-bip_39_word_new_line_5: 'skate
-
-  boss
-
-  girl
-
-  verify
-
-  unveil'
-bip_39_word_new_line_6: 'skate
-
-  boss
-
-  girl
-
-  verify
-
-  unveil
-
-  misery'
-bip_39_word_new_line_7: 'skate
-
-  boss
-
-  girl
-
-  verify
-
-  unveil
-
-  misery
-
-  brief'
-bip_39_word_new_line_8: 'skate
-
-  boss
-
-  girl
-
-  verify
-
-  unveil
-
-  misery
-
-  brief
-
-  salad'
-bip_39_word_new_line_9: 'skate
-
-  boss
-
-  girl
-
-  verify
-
-  unveil
-
-  misery
-
-  brief
-
-  salad
-
-  fox'
-bip_39_word_no_space_1: skate
-bip_39_word_no_space_10: skatebossgirlverifyunveilmiserybriefsaladfoxreturn
-bip_39_word_no_space_11: skatebossgirlverifyunveilmiserybriefsaladfoxreturnoxygen
 bip_39_word_no_space_12: skatebossgirlverifyunveilmiserybriefsaladfoxreturnoxygenarmy
 bip_39_word_no_space_2: skateboss
 bip_39_word_no_space_3: skatebossgirl
-bip_39_word_no_space_4: skatebossgirlverify
-bip_39_word_no_space_5: skatebossgirlverifyunveil
-bip_39_word_no_space_6: skatebossgirlverifyunveilmisery
-bip_39_word_no_space_7: skatebossgirlverifyunveilmiserybrief
-bip_39_word_no_space_8: skatebossgirlverifyunveilmiserybriefsalad
-bip_39_word_no_space_9: skatebossgirlverifyunveilmiserybriefsaladfox
-bip_39_word_space_0:
-- skate
-- boss
-- girl
-- verify
-- unveil
-- misery
-- brief
-- salad
-- fox
-- return
-- oxygen
-- army
-bip_39_word_space_1: skate
-bip_39_word_space_10: skate boss girl verify unveil misery brief salad fox return
-bip_39_word_space_11: skate boss girl verify unveil misery brief salad fox return
-  oxygen
 bip_39_word_space_12: skate boss girl verify unveil misery brief salad fox return
   oxygen army
 bip_39_word_space_2: skate boss
 bip_39_word_space_3: skate boss girl
-bip_39_word_space_4: skate boss girl verify
-bip_39_word_space_5: skate boss girl verify unveil
-bip_39_word_space_6: skate boss girl verify unveil misery
-bip_39_word_space_7: skate boss girl verify unveil misery brief
-bip_39_word_space_8: skate boss girl verify unveil misery brief salad
-bip_39_word_space_9: skate boss girl verify unveil misery brief salad fox
-bip_39_word_underscore_1: skate
-bip_39_word_underscore_10: skate_boss_girl_verify_unveil_misery_brief_salad_fox_return
-bip_39_word_underscore_11: skate_boss_girl_verify_unveil_misery_brief_salad_fox_return_oxygen
 bip_39_word_underscore_12: skate_boss_girl_verify_unveil_misery_brief_salad_fox_return_oxygen_army
 bip_39_word_underscore_2: skate_boss
 bip_39_word_underscore_3: skate_boss_girl
-bip_39_word_underscore_4: skate_boss_girl_verify
-bip_39_word_underscore_5: skate_boss_girl_verify_unveil
-bip_39_word_underscore_6: skate_boss_girl_verify_unveil_misery
-bip_39_word_underscore_7: skate_boss_girl_verify_unveil_misery_brief
-bip_39_word_underscore_8: skate_boss_girl_verify_unveil_misery_brief_salad
-bip_39_word_underscore_9: skate_boss_girl_verify_unveil_misery_brief_salad_fox
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

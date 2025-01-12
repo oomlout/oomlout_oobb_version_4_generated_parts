@@ -1,68 +1,9 @@
-bip_39_word_dash_1: afford
-bip_39_word_dash_10: afford-donate-find-collect-rabbit-nose-balcony-gloom-ketchup-ordinary
-bip_39_word_dash_11: afford-donate-find-collect-rabbit-nose-balcony-gloom-ketchup-ordinary-car
 bip_39_word_dash_12: afford-donate-find-collect-rabbit-nose-balcony-gloom-ketchup-ordinary-car-allow
 bip_39_word_dash_2: afford-donate
 bip_39_word_dash_3: afford-donate-find
-bip_39_word_dash_4: afford-donate-find-collect
-bip_39_word_dash_5: afford-donate-find-collect-rabbit
-bip_39_word_dash_6: afford-donate-find-collect-rabbit-nose
-bip_39_word_dash_7: afford-donate-find-collect-rabbit-nose-balcony
-bip_39_word_dash_8: afford-donate-find-collect-rabbit-nose-balcony-gloom
-bip_39_word_dash_9: afford-donate-find-collect-rabbit-nose-balcony-gloom-ketchup
-bip_39_word_new_br_1: afford
-bip_39_word_new_br_10: afford<br>donate<br>find<br>collect<br>rabbit<br>nose<br>balcony<br>gloom<br>ketchup<br>ordinary
-bip_39_word_new_br_11: afford<br>donate<br>find<br>collect<br>rabbit<br>nose<br>balcony<br>gloom<br>ketchup<br>ordinary<br>car
 bip_39_word_new_br_12: afford<br>donate<br>find<br>collect<br>rabbit<br>nose<br>balcony<br>gloom<br>ketchup<br>ordinary<br>car<br>allow
 bip_39_word_new_br_2: afford<br>donate
 bip_39_word_new_br_3: afford<br>donate<br>find
-bip_39_word_new_br_4: afford<br>donate<br>find<br>collect
-bip_39_word_new_br_5: afford<br>donate<br>find<br>collect<br>rabbit
-bip_39_word_new_br_6: afford<br>donate<br>find<br>collect<br>rabbit<br>nose
-bip_39_word_new_br_7: afford<br>donate<br>find<br>collect<br>rabbit<br>nose<br>balcony
-bip_39_word_new_br_8: afford<br>donate<br>find<br>collect<br>rabbit<br>nose<br>balcony<br>gloom
-bip_39_word_new_br_9: afford<br>donate<br>find<br>collect<br>rabbit<br>nose<br>balcony<br>gloom<br>ketchup
-bip_39_word_new_line_1: afford
-bip_39_word_new_line_10: 'afford
-
-  donate
-
-  find
-
-  collect
-
-  rabbit
-
-  nose
-
-  balcony
-
-  gloom
-
-  ketchup
-
-  ordinary'
-bip_39_word_new_line_11: 'afford
-
-  donate
-
-  find
-
-  collect
-
-  rabbit
-
-  nose
-
-  balcony
-
-  gloom
-
-  ketchup
-
-  ordinary
-
-  car'
 bip_39_word_new_line_12: 'afford
 
   donate
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'afford
   donate
 
   find'
-bip_39_word_new_line_4: 'afford
-
-  donate
-
-  find
-
-  collect'
-bip_39_word_new_line_5: 'afford
-
-  donate
-
-  find
-
-  collect
-
-  rabbit'
-bip_39_word_new_line_6: 'afford
-
-  donate
-
-  find
-
-  collect
-
-  rabbit
-
-  nose'
-bip_39_word_new_line_7: 'afford
-
-  donate
-
-  find
-
-  collect
-
-  rabbit
-
-  nose
-
-  balcony'
-bip_39_word_new_line_8: 'afford
-
-  donate
-
-  find
-
-  collect
-
-  rabbit
-
-  nose
-
-  balcony
-
-  gloom'
-bip_39_word_new_line_9: 'afford
-
-  donate
-
-  find
-
-  collect
-
-  rabbit
-
-  nose
-
-  balcony
-
-  gloom
-
-  ketchup'
-bip_39_word_no_space_1: afford
-bip_39_word_no_space_10: afforddonatefindcollectrabbitnosebalconygloomketchupordinary
-bip_39_word_no_space_11: afforddonatefindcollectrabbitnosebalconygloomketchupordinarycar
 bip_39_word_no_space_12: afforddonatefindcollectrabbitnosebalconygloomketchupordinarycarallow
 bip_39_word_no_space_2: afforddonate
 bip_39_word_no_space_3: afforddonatefind
-bip_39_word_no_space_4: afforddonatefindcollect
-bip_39_word_no_space_5: afforddonatefindcollectrabbit
-bip_39_word_no_space_6: afforddonatefindcollectrabbitnose
-bip_39_word_no_space_7: afforddonatefindcollectrabbitnosebalcony
-bip_39_word_no_space_8: afforddonatefindcollectrabbitnosebalconygloom
-bip_39_word_no_space_9: afforddonatefindcollectrabbitnosebalconygloomketchup
-bip_39_word_space_0:
-- afford
-- donate
-- find
-- collect
-- rabbit
-- nose
-- balcony
-- gloom
-- ketchup
-- ordinary
-- car
-- allow
-bip_39_word_space_1: afford
-bip_39_word_space_10: afford donate find collect rabbit nose balcony gloom ketchup
-  ordinary
-bip_39_word_space_11: afford donate find collect rabbit nose balcony gloom ketchup
-  ordinary car
 bip_39_word_space_12: afford donate find collect rabbit nose balcony gloom ketchup
   ordinary car allow
 bip_39_word_space_2: afford donate
 bip_39_word_space_3: afford donate find
-bip_39_word_space_4: afford donate find collect
-bip_39_word_space_5: afford donate find collect rabbit
-bip_39_word_space_6: afford donate find collect rabbit nose
-bip_39_word_space_7: afford donate find collect rabbit nose balcony
-bip_39_word_space_8: afford donate find collect rabbit nose balcony gloom
-bip_39_word_space_9: afford donate find collect rabbit nose balcony gloom ketchup
-bip_39_word_underscore_1: afford
-bip_39_word_underscore_10: afford_donate_find_collect_rabbit_nose_balcony_gloom_ketchup_ordinary
-bip_39_word_underscore_11: afford_donate_find_collect_rabbit_nose_balcony_gloom_ketchup_ordinary_car
 bip_39_word_underscore_12: afford_donate_find_collect_rabbit_nose_balcony_gloom_ketchup_ordinary_car_allow
 bip_39_word_underscore_2: afford_donate
 bip_39_word_underscore_3: afford_donate_find
-bip_39_word_underscore_4: afford_donate_find_collect
-bip_39_word_underscore_5: afford_donate_find_collect_rabbit
-bip_39_word_underscore_6: afford_donate_find_collect_rabbit_nose
-bip_39_word_underscore_7: afford_donate_find_collect_rabbit_nose_balcony
-bip_39_word_underscore_8: afford_donate_find_collect_rabbit_nose_balcony_gloom
-bip_39_word_underscore_9: afford_donate_find_collect_rabbit_nose_balcony_gloom_ketchup
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

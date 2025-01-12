@@ -1,68 +1,9 @@
-bip_39_word_dash_1: fuel
-bip_39_word_dash_10: fuel-enemy-chat-bread-squirrel-occur-age-leave-burger-during
-bip_39_word_dash_11: fuel-enemy-chat-bread-squirrel-occur-age-leave-burger-during-police
 bip_39_word_dash_12: fuel-enemy-chat-bread-squirrel-occur-age-leave-burger-during-police-absorb
 bip_39_word_dash_2: fuel-enemy
 bip_39_word_dash_3: fuel-enemy-chat
-bip_39_word_dash_4: fuel-enemy-chat-bread
-bip_39_word_dash_5: fuel-enemy-chat-bread-squirrel
-bip_39_word_dash_6: fuel-enemy-chat-bread-squirrel-occur
-bip_39_word_dash_7: fuel-enemy-chat-bread-squirrel-occur-age
-bip_39_word_dash_8: fuel-enemy-chat-bread-squirrel-occur-age-leave
-bip_39_word_dash_9: fuel-enemy-chat-bread-squirrel-occur-age-leave-burger
-bip_39_word_new_br_1: fuel
-bip_39_word_new_br_10: fuel<br>enemy<br>chat<br>bread<br>squirrel<br>occur<br>age<br>leave<br>burger<br>during
-bip_39_word_new_br_11: fuel<br>enemy<br>chat<br>bread<br>squirrel<br>occur<br>age<br>leave<br>burger<br>during<br>police
 bip_39_word_new_br_12: fuel<br>enemy<br>chat<br>bread<br>squirrel<br>occur<br>age<br>leave<br>burger<br>during<br>police<br>absorb
 bip_39_word_new_br_2: fuel<br>enemy
 bip_39_word_new_br_3: fuel<br>enemy<br>chat
-bip_39_word_new_br_4: fuel<br>enemy<br>chat<br>bread
-bip_39_word_new_br_5: fuel<br>enemy<br>chat<br>bread<br>squirrel
-bip_39_word_new_br_6: fuel<br>enemy<br>chat<br>bread<br>squirrel<br>occur
-bip_39_word_new_br_7: fuel<br>enemy<br>chat<br>bread<br>squirrel<br>occur<br>age
-bip_39_word_new_br_8: fuel<br>enemy<br>chat<br>bread<br>squirrel<br>occur<br>age<br>leave
-bip_39_word_new_br_9: fuel<br>enemy<br>chat<br>bread<br>squirrel<br>occur<br>age<br>leave<br>burger
-bip_39_word_new_line_1: fuel
-bip_39_word_new_line_10: 'fuel
-
-  enemy
-
-  chat
-
-  bread
-
-  squirrel
-
-  occur
-
-  age
-
-  leave
-
-  burger
-
-  during'
-bip_39_word_new_line_11: 'fuel
-
-  enemy
-
-  chat
-
-  bread
-
-  squirrel
-
-  occur
-
-  age
-
-  leave
-
-  burger
-
-  during
-
-  police'
 bip_39_word_new_line_12: 'fuel
 
   enemy
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'fuel
   enemy
 
   chat'
-bip_39_word_new_line_4: 'fuel
-
-  enemy
-
-  chat
-
-  bread'
-bip_39_word_new_line_5: 'fuel
-
-  enemy
-
-  chat
-
-  bread
-
-  squirrel'
-bip_39_word_new_line_6: 'fuel
-
-  enemy
-
-  chat
-
-  bread
-
-  squirrel
-
-  occur'
-bip_39_word_new_line_7: 'fuel
-
-  enemy
-
-  chat
-
-  bread
-
-  squirrel
-
-  occur
-
-  age'
-bip_39_word_new_line_8: 'fuel
-
-  enemy
-
-  chat
-
-  bread
-
-  squirrel
-
-  occur
-
-  age
-
-  leave'
-bip_39_word_new_line_9: 'fuel
-
-  enemy
-
-  chat
-
-  bread
-
-  squirrel
-
-  occur
-
-  age
-
-  leave
-
-  burger'
-bip_39_word_no_space_1: fuel
-bip_39_word_no_space_10: fuelenemychatbreadsquirreloccurageleaveburgerduring
-bip_39_word_no_space_11: fuelenemychatbreadsquirreloccurageleaveburgerduringpolice
 bip_39_word_no_space_12: fuelenemychatbreadsquirreloccurageleaveburgerduringpoliceabsorb
 bip_39_word_no_space_2: fuelenemy
 bip_39_word_no_space_3: fuelenemychat
-bip_39_word_no_space_4: fuelenemychatbread
-bip_39_word_no_space_5: fuelenemychatbreadsquirrel
-bip_39_word_no_space_6: fuelenemychatbreadsquirreloccur
-bip_39_word_no_space_7: fuelenemychatbreadsquirreloccurage
-bip_39_word_no_space_8: fuelenemychatbreadsquirreloccurageleave
-bip_39_word_no_space_9: fuelenemychatbreadsquirreloccurageleaveburger
-bip_39_word_space_0:
-- fuel
-- enemy
-- chat
-- bread
-- squirrel
-- occur
-- age
-- leave
-- burger
-- during
-- police
-- absorb
-bip_39_word_space_1: fuel
-bip_39_word_space_10: fuel enemy chat bread squirrel occur age leave burger during
-bip_39_word_space_11: fuel enemy chat bread squirrel occur age leave burger during
-  police
 bip_39_word_space_12: fuel enemy chat bread squirrel occur age leave burger during
   police absorb
 bip_39_word_space_2: fuel enemy
 bip_39_word_space_3: fuel enemy chat
-bip_39_word_space_4: fuel enemy chat bread
-bip_39_word_space_5: fuel enemy chat bread squirrel
-bip_39_word_space_6: fuel enemy chat bread squirrel occur
-bip_39_word_space_7: fuel enemy chat bread squirrel occur age
-bip_39_word_space_8: fuel enemy chat bread squirrel occur age leave
-bip_39_word_space_9: fuel enemy chat bread squirrel occur age leave burger
-bip_39_word_underscore_1: fuel
-bip_39_word_underscore_10: fuel_enemy_chat_bread_squirrel_occur_age_leave_burger_during
-bip_39_word_underscore_11: fuel_enemy_chat_bread_squirrel_occur_age_leave_burger_during_police
 bip_39_word_underscore_12: fuel_enemy_chat_bread_squirrel_occur_age_leave_burger_during_police_absorb
 bip_39_word_underscore_2: fuel_enemy
 bip_39_word_underscore_3: fuel_enemy_chat
-bip_39_word_underscore_4: fuel_enemy_chat_bread
-bip_39_word_underscore_5: fuel_enemy_chat_bread_squirrel
-bip_39_word_underscore_6: fuel_enemy_chat_bread_squirrel_occur
-bip_39_word_underscore_7: fuel_enemy_chat_bread_squirrel_occur_age
-bip_39_word_underscore_8: fuel_enemy_chat_bread_squirrel_occur_age_leave
-bip_39_word_underscore_9: fuel_enemy_chat_bread_squirrel_occur_age_leave_burger
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

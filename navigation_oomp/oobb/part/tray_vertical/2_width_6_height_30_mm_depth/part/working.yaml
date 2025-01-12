@@ -1,68 +1,9 @@
-bip_39_word_dash_1: isolate
-bip_39_word_dash_10: isolate-child-medal-buyer-twist-pink-panic-return-loop-truck
-bip_39_word_dash_11: isolate-child-medal-buyer-twist-pink-panic-return-loop-truck-oblige
 bip_39_word_dash_12: isolate-child-medal-buyer-twist-pink-panic-return-loop-truck-oblige-action
 bip_39_word_dash_2: isolate-child
 bip_39_word_dash_3: isolate-child-medal
-bip_39_word_dash_4: isolate-child-medal-buyer
-bip_39_word_dash_5: isolate-child-medal-buyer-twist
-bip_39_word_dash_6: isolate-child-medal-buyer-twist-pink
-bip_39_word_dash_7: isolate-child-medal-buyer-twist-pink-panic
-bip_39_word_dash_8: isolate-child-medal-buyer-twist-pink-panic-return
-bip_39_word_dash_9: isolate-child-medal-buyer-twist-pink-panic-return-loop
-bip_39_word_new_br_1: isolate
-bip_39_word_new_br_10: isolate<br>child<br>medal<br>buyer<br>twist<br>pink<br>panic<br>return<br>loop<br>truck
-bip_39_word_new_br_11: isolate<br>child<br>medal<br>buyer<br>twist<br>pink<br>panic<br>return<br>loop<br>truck<br>oblige
 bip_39_word_new_br_12: isolate<br>child<br>medal<br>buyer<br>twist<br>pink<br>panic<br>return<br>loop<br>truck<br>oblige<br>action
 bip_39_word_new_br_2: isolate<br>child
 bip_39_word_new_br_3: isolate<br>child<br>medal
-bip_39_word_new_br_4: isolate<br>child<br>medal<br>buyer
-bip_39_word_new_br_5: isolate<br>child<br>medal<br>buyer<br>twist
-bip_39_word_new_br_6: isolate<br>child<br>medal<br>buyer<br>twist<br>pink
-bip_39_word_new_br_7: isolate<br>child<br>medal<br>buyer<br>twist<br>pink<br>panic
-bip_39_word_new_br_8: isolate<br>child<br>medal<br>buyer<br>twist<br>pink<br>panic<br>return
-bip_39_word_new_br_9: isolate<br>child<br>medal<br>buyer<br>twist<br>pink<br>panic<br>return<br>loop
-bip_39_word_new_line_1: isolate
-bip_39_word_new_line_10: 'isolate
-
-  child
-
-  medal
-
-  buyer
-
-  twist
-
-  pink
-
-  panic
-
-  return
-
-  loop
-
-  truck'
-bip_39_word_new_line_11: 'isolate
-
-  child
-
-  medal
-
-  buyer
-
-  twist
-
-  pink
-
-  panic
-
-  return
-
-  loop
-
-  truck
-
-  oblige'
 bip_39_word_new_line_12: 'isolate
 
   child
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'isolate
   child
 
   medal'
-bip_39_word_new_line_4: 'isolate
-
-  child
-
-  medal
-
-  buyer'
-bip_39_word_new_line_5: 'isolate
-
-  child
-
-  medal
-
-  buyer
-
-  twist'
-bip_39_word_new_line_6: 'isolate
-
-  child
-
-  medal
-
-  buyer
-
-  twist
-
-  pink'
-bip_39_word_new_line_7: 'isolate
-
-  child
-
-  medal
-
-  buyer
-
-  twist
-
-  pink
-
-  panic'
-bip_39_word_new_line_8: 'isolate
-
-  child
-
-  medal
-
-  buyer
-
-  twist
-
-  pink
-
-  panic
-
-  return'
-bip_39_word_new_line_9: 'isolate
-
-  child
-
-  medal
-
-  buyer
-
-  twist
-
-  pink
-
-  panic
-
-  return
-
-  loop'
-bip_39_word_no_space_1: isolate
-bip_39_word_no_space_10: isolatechildmedalbuyertwistpinkpanicreturnlooptruck
-bip_39_word_no_space_11: isolatechildmedalbuyertwistpinkpanicreturnlooptruckoblige
 bip_39_word_no_space_12: isolatechildmedalbuyertwistpinkpanicreturnlooptruckobligeaction
 bip_39_word_no_space_2: isolatechild
 bip_39_word_no_space_3: isolatechildmedal
-bip_39_word_no_space_4: isolatechildmedalbuyer
-bip_39_word_no_space_5: isolatechildmedalbuyertwist
-bip_39_word_no_space_6: isolatechildmedalbuyertwistpink
-bip_39_word_no_space_7: isolatechildmedalbuyertwistpinkpanic
-bip_39_word_no_space_8: isolatechildmedalbuyertwistpinkpanicreturn
-bip_39_word_no_space_9: isolatechildmedalbuyertwistpinkpanicreturnloop
-bip_39_word_space_0:
-- isolate
-- child
-- medal
-- buyer
-- twist
-- pink
-- panic
-- return
-- loop
-- truck
-- oblige
-- action
-bip_39_word_space_1: isolate
-bip_39_word_space_10: isolate child medal buyer twist pink panic return loop truck
-bip_39_word_space_11: isolate child medal buyer twist pink panic return loop truck
-  oblige
 bip_39_word_space_12: isolate child medal buyer twist pink panic return loop truck
   oblige action
 bip_39_word_space_2: isolate child
 bip_39_word_space_3: isolate child medal
-bip_39_word_space_4: isolate child medal buyer
-bip_39_word_space_5: isolate child medal buyer twist
-bip_39_word_space_6: isolate child medal buyer twist pink
-bip_39_word_space_7: isolate child medal buyer twist pink panic
-bip_39_word_space_8: isolate child medal buyer twist pink panic return
-bip_39_word_space_9: isolate child medal buyer twist pink panic return loop
-bip_39_word_underscore_1: isolate
-bip_39_word_underscore_10: isolate_child_medal_buyer_twist_pink_panic_return_loop_truck
-bip_39_word_underscore_11: isolate_child_medal_buyer_twist_pink_panic_return_loop_truck_oblige
 bip_39_word_underscore_12: isolate_child_medal_buyer_twist_pink_panic_return_loop_truck_oblige_action
 bip_39_word_underscore_2: isolate_child
 bip_39_word_underscore_3: isolate_child_medal
-bip_39_word_underscore_4: isolate_child_medal_buyer
-bip_39_word_underscore_5: isolate_child_medal_buyer_twist
-bip_39_word_underscore_6: isolate_child_medal_buyer_twist_pink
-bip_39_word_underscore_7: isolate_child_medal_buyer_twist_pink_panic
-bip_39_word_underscore_8: isolate_child_medal_buyer_twist_pink_panic_return
-bip_39_word_underscore_9: isolate_child_medal_buyer_twist_pink_panic_return_loop
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

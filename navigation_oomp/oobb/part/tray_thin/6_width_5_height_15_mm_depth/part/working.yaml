@@ -1,68 +1,9 @@
-bip_39_word_dash_1: auto
-bip_39_word_dash_10: auto-giraffe-immense-answer-walnut-vintage-cupboard-harbor-seed-alarm
-bip_39_word_dash_11: auto-giraffe-immense-answer-walnut-vintage-cupboard-harbor-seed-alarm-person
 bip_39_word_dash_12: auto-giraffe-immense-answer-walnut-vintage-cupboard-harbor-seed-alarm-person-aunt
 bip_39_word_dash_2: auto-giraffe
 bip_39_word_dash_3: auto-giraffe-immense
-bip_39_word_dash_4: auto-giraffe-immense-answer
-bip_39_word_dash_5: auto-giraffe-immense-answer-walnut
-bip_39_word_dash_6: auto-giraffe-immense-answer-walnut-vintage
-bip_39_word_dash_7: auto-giraffe-immense-answer-walnut-vintage-cupboard
-bip_39_word_dash_8: auto-giraffe-immense-answer-walnut-vintage-cupboard-harbor
-bip_39_word_dash_9: auto-giraffe-immense-answer-walnut-vintage-cupboard-harbor-seed
-bip_39_word_new_br_1: auto
-bip_39_word_new_br_10: auto<br>giraffe<br>immense<br>answer<br>walnut<br>vintage<br>cupboard<br>harbor<br>seed<br>alarm
-bip_39_word_new_br_11: auto<br>giraffe<br>immense<br>answer<br>walnut<br>vintage<br>cupboard<br>harbor<br>seed<br>alarm<br>person
 bip_39_word_new_br_12: auto<br>giraffe<br>immense<br>answer<br>walnut<br>vintage<br>cupboard<br>harbor<br>seed<br>alarm<br>person<br>aunt
 bip_39_word_new_br_2: auto<br>giraffe
 bip_39_word_new_br_3: auto<br>giraffe<br>immense
-bip_39_word_new_br_4: auto<br>giraffe<br>immense<br>answer
-bip_39_word_new_br_5: auto<br>giraffe<br>immense<br>answer<br>walnut
-bip_39_word_new_br_6: auto<br>giraffe<br>immense<br>answer<br>walnut<br>vintage
-bip_39_word_new_br_7: auto<br>giraffe<br>immense<br>answer<br>walnut<br>vintage<br>cupboard
-bip_39_word_new_br_8: auto<br>giraffe<br>immense<br>answer<br>walnut<br>vintage<br>cupboard<br>harbor
-bip_39_word_new_br_9: auto<br>giraffe<br>immense<br>answer<br>walnut<br>vintage<br>cupboard<br>harbor<br>seed
-bip_39_word_new_line_1: auto
-bip_39_word_new_line_10: 'auto
-
-  giraffe
-
-  immense
-
-  answer
-
-  walnut
-
-  vintage
-
-  cupboard
-
-  harbor
-
-  seed
-
-  alarm'
-bip_39_word_new_line_11: 'auto
-
-  giraffe
-
-  immense
-
-  answer
-
-  walnut
-
-  vintage
-
-  cupboard
-
-  harbor
-
-  seed
-
-  alarm
-
-  person'
 bip_39_word_new_line_12: 'auto
 
   giraffe
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'auto
   giraffe
 
   immense'
-bip_39_word_new_line_4: 'auto
-
-  giraffe
-
-  immense
-
-  answer'
-bip_39_word_new_line_5: 'auto
-
-  giraffe
-
-  immense
-
-  answer
-
-  walnut'
-bip_39_word_new_line_6: 'auto
-
-  giraffe
-
-  immense
-
-  answer
-
-  walnut
-
-  vintage'
-bip_39_word_new_line_7: 'auto
-
-  giraffe
-
-  immense
-
-  answer
-
-  walnut
-
-  vintage
-
-  cupboard'
-bip_39_word_new_line_8: 'auto
-
-  giraffe
-
-  immense
-
-  answer
-
-  walnut
-
-  vintage
-
-  cupboard
-
-  harbor'
-bip_39_word_new_line_9: 'auto
-
-  giraffe
-
-  immense
-
-  answer
-
-  walnut
-
-  vintage
-
-  cupboard
-
-  harbor
-
-  seed'
-bip_39_word_no_space_1: auto
-bip_39_word_no_space_10: autogiraffeimmenseanswerwalnutvintagecupboardharborseedalarm
-bip_39_word_no_space_11: autogiraffeimmenseanswerwalnutvintagecupboardharborseedalarmperson
 bip_39_word_no_space_12: autogiraffeimmenseanswerwalnutvintagecupboardharborseedalarmpersonaunt
 bip_39_word_no_space_2: autogiraffe
 bip_39_word_no_space_3: autogiraffeimmense
-bip_39_word_no_space_4: autogiraffeimmenseanswer
-bip_39_word_no_space_5: autogiraffeimmenseanswerwalnut
-bip_39_word_no_space_6: autogiraffeimmenseanswerwalnutvintage
-bip_39_word_no_space_7: autogiraffeimmenseanswerwalnutvintagecupboard
-bip_39_word_no_space_8: autogiraffeimmenseanswerwalnutvintagecupboardharbor
-bip_39_word_no_space_9: autogiraffeimmenseanswerwalnutvintagecupboardharborseed
-bip_39_word_space_0:
-- auto
-- giraffe
-- immense
-- answer
-- walnut
-- vintage
-- cupboard
-- harbor
-- seed
-- alarm
-- person
-- aunt
-bip_39_word_space_1: auto
-bip_39_word_space_10: auto giraffe immense answer walnut vintage cupboard harbor seed
-  alarm
-bip_39_word_space_11: auto giraffe immense answer walnut vintage cupboard harbor seed
-  alarm person
 bip_39_word_space_12: auto giraffe immense answer walnut vintage cupboard harbor seed
   alarm person aunt
 bip_39_word_space_2: auto giraffe
 bip_39_word_space_3: auto giraffe immense
-bip_39_word_space_4: auto giraffe immense answer
-bip_39_word_space_5: auto giraffe immense answer walnut
-bip_39_word_space_6: auto giraffe immense answer walnut vintage
-bip_39_word_space_7: auto giraffe immense answer walnut vintage cupboard
-bip_39_word_space_8: auto giraffe immense answer walnut vintage cupboard harbor
-bip_39_word_space_9: auto giraffe immense answer walnut vintage cupboard harbor seed
-bip_39_word_underscore_1: auto
-bip_39_word_underscore_10: auto_giraffe_immense_answer_walnut_vintage_cupboard_harbor_seed_alarm
-bip_39_word_underscore_11: auto_giraffe_immense_answer_walnut_vintage_cupboard_harbor_seed_alarm_person
 bip_39_word_underscore_12: auto_giraffe_immense_answer_walnut_vintage_cupboard_harbor_seed_alarm_person_aunt
 bip_39_word_underscore_2: auto_giraffe
 bip_39_word_underscore_3: auto_giraffe_immense
-bip_39_word_underscore_4: auto_giraffe_immense_answer
-bip_39_word_underscore_5: auto_giraffe_immense_answer_walnut
-bip_39_word_underscore_6: auto_giraffe_immense_answer_walnut_vintage
-bip_39_word_underscore_7: auto_giraffe_immense_answer_walnut_vintage_cupboard
-bip_39_word_underscore_8: auto_giraffe_immense_answer_walnut_vintage_cupboard_harbor
-bip_39_word_underscore_9: auto_giraffe_immense_answer_walnut_vintage_cupboard_harbor_seed
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

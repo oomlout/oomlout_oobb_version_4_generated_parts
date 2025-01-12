@@ -1,68 +1,9 @@
-bip_39_word_dash_1: ceiling
-bip_39_word_dash_10: ceiling-damage-craft-damp-soul-destroy-circle-canyon-material-force
-bip_39_word_dash_11: ceiling-damage-craft-damp-soul-destroy-circle-canyon-material-force-result
 bip_39_word_dash_12: ceiling-damage-craft-damp-soul-destroy-circle-canyon-material-force-result-arm
 bip_39_word_dash_2: ceiling-damage
 bip_39_word_dash_3: ceiling-damage-craft
-bip_39_word_dash_4: ceiling-damage-craft-damp
-bip_39_word_dash_5: ceiling-damage-craft-damp-soul
-bip_39_word_dash_6: ceiling-damage-craft-damp-soul-destroy
-bip_39_word_dash_7: ceiling-damage-craft-damp-soul-destroy-circle
-bip_39_word_dash_8: ceiling-damage-craft-damp-soul-destroy-circle-canyon
-bip_39_word_dash_9: ceiling-damage-craft-damp-soul-destroy-circle-canyon-material
-bip_39_word_new_br_1: ceiling
-bip_39_word_new_br_10: ceiling<br>damage<br>craft<br>damp<br>soul<br>destroy<br>circle<br>canyon<br>material<br>force
-bip_39_word_new_br_11: ceiling<br>damage<br>craft<br>damp<br>soul<br>destroy<br>circle<br>canyon<br>material<br>force<br>result
 bip_39_word_new_br_12: ceiling<br>damage<br>craft<br>damp<br>soul<br>destroy<br>circle<br>canyon<br>material<br>force<br>result<br>arm
 bip_39_word_new_br_2: ceiling<br>damage
 bip_39_word_new_br_3: ceiling<br>damage<br>craft
-bip_39_word_new_br_4: ceiling<br>damage<br>craft<br>damp
-bip_39_word_new_br_5: ceiling<br>damage<br>craft<br>damp<br>soul
-bip_39_word_new_br_6: ceiling<br>damage<br>craft<br>damp<br>soul<br>destroy
-bip_39_word_new_br_7: ceiling<br>damage<br>craft<br>damp<br>soul<br>destroy<br>circle
-bip_39_word_new_br_8: ceiling<br>damage<br>craft<br>damp<br>soul<br>destroy<br>circle<br>canyon
-bip_39_word_new_br_9: ceiling<br>damage<br>craft<br>damp<br>soul<br>destroy<br>circle<br>canyon<br>material
-bip_39_word_new_line_1: ceiling
-bip_39_word_new_line_10: 'ceiling
-
-  damage
-
-  craft
-
-  damp
-
-  soul
-
-  destroy
-
-  circle
-
-  canyon
-
-  material
-
-  force'
-bip_39_word_new_line_11: 'ceiling
-
-  damage
-
-  craft
-
-  damp
-
-  soul
-
-  destroy
-
-  circle
-
-  canyon
-
-  material
-
-  force
-
-  result'
 bip_39_word_new_line_12: 'ceiling
 
   damage
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'ceiling
   damage
 
   craft'
-bip_39_word_new_line_4: 'ceiling
-
-  damage
-
-  craft
-
-  damp'
-bip_39_word_new_line_5: 'ceiling
-
-  damage
-
-  craft
-
-  damp
-
-  soul'
-bip_39_word_new_line_6: 'ceiling
-
-  damage
-
-  craft
-
-  damp
-
-  soul
-
-  destroy'
-bip_39_word_new_line_7: 'ceiling
-
-  damage
-
-  craft
-
-  damp
-
-  soul
-
-  destroy
-
-  circle'
-bip_39_word_new_line_8: 'ceiling
-
-  damage
-
-  craft
-
-  damp
-
-  soul
-
-  destroy
-
-  circle
-
-  canyon'
-bip_39_word_new_line_9: 'ceiling
-
-  damage
-
-  craft
-
-  damp
-
-  soul
-
-  destroy
-
-  circle
-
-  canyon
-
-  material'
-bip_39_word_no_space_1: ceiling
-bip_39_word_no_space_10: ceilingdamagecraftdampsouldestroycirclecanyonmaterialforce
-bip_39_word_no_space_11: ceilingdamagecraftdampsouldestroycirclecanyonmaterialforceresult
 bip_39_word_no_space_12: ceilingdamagecraftdampsouldestroycirclecanyonmaterialforceresultarm
 bip_39_word_no_space_2: ceilingdamage
 bip_39_word_no_space_3: ceilingdamagecraft
-bip_39_word_no_space_4: ceilingdamagecraftdamp
-bip_39_word_no_space_5: ceilingdamagecraftdampsoul
-bip_39_word_no_space_6: ceilingdamagecraftdampsouldestroy
-bip_39_word_no_space_7: ceilingdamagecraftdampsouldestroycircle
-bip_39_word_no_space_8: ceilingdamagecraftdampsouldestroycirclecanyon
-bip_39_word_no_space_9: ceilingdamagecraftdampsouldestroycirclecanyonmaterial
-bip_39_word_space_0:
-- ceiling
-- damage
-- craft
-- damp
-- soul
-- destroy
-- circle
-- canyon
-- material
-- force
-- result
-- arm
-bip_39_word_space_1: ceiling
-bip_39_word_space_10: ceiling damage craft damp soul destroy circle canyon material
-  force
-bip_39_word_space_11: ceiling damage craft damp soul destroy circle canyon material
-  force result
 bip_39_word_space_12: ceiling damage craft damp soul destroy circle canyon material
   force result arm
 bip_39_word_space_2: ceiling damage
 bip_39_word_space_3: ceiling damage craft
-bip_39_word_space_4: ceiling damage craft damp
-bip_39_word_space_5: ceiling damage craft damp soul
-bip_39_word_space_6: ceiling damage craft damp soul destroy
-bip_39_word_space_7: ceiling damage craft damp soul destroy circle
-bip_39_word_space_8: ceiling damage craft damp soul destroy circle canyon
-bip_39_word_space_9: ceiling damage craft damp soul destroy circle canyon material
-bip_39_word_underscore_1: ceiling
-bip_39_word_underscore_10: ceiling_damage_craft_damp_soul_destroy_circle_canyon_material_force
-bip_39_word_underscore_11: ceiling_damage_craft_damp_soul_destroy_circle_canyon_material_force_result
 bip_39_word_underscore_12: ceiling_damage_craft_damp_soul_destroy_circle_canyon_material_force_result_arm
 bip_39_word_underscore_2: ceiling_damage
 bip_39_word_underscore_3: ceiling_damage_craft
-bip_39_word_underscore_4: ceiling_damage_craft_damp
-bip_39_word_underscore_5: ceiling_damage_craft_damp_soul
-bip_39_word_underscore_6: ceiling_damage_craft_damp_soul_destroy
-bip_39_word_underscore_7: ceiling_damage_craft_damp_soul_destroy_circle
-bip_39_word_underscore_8: ceiling_damage_craft_damp_soul_destroy_circle_canyon
-bip_39_word_underscore_9: ceiling_damage_craft_damp_soul_destroy_circle_canyon_material
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

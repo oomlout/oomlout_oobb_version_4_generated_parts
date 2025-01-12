@@ -1,68 +1,9 @@
-bip_39_word_dash_1: envelope
-bip_39_word_dash_10: envelope-load-head-guitar-gap-puppy-hungry-cube-powder-worry
-bip_39_word_dash_11: envelope-load-head-guitar-gap-puppy-hungry-cube-powder-worry-broken
 bip_39_word_dash_12: envelope-load-head-guitar-gap-puppy-hungry-cube-powder-worry-broken-apart
 bip_39_word_dash_2: envelope-load
 bip_39_word_dash_3: envelope-load-head
-bip_39_word_dash_4: envelope-load-head-guitar
-bip_39_word_dash_5: envelope-load-head-guitar-gap
-bip_39_word_dash_6: envelope-load-head-guitar-gap-puppy
-bip_39_word_dash_7: envelope-load-head-guitar-gap-puppy-hungry
-bip_39_word_dash_8: envelope-load-head-guitar-gap-puppy-hungry-cube
-bip_39_word_dash_9: envelope-load-head-guitar-gap-puppy-hungry-cube-powder
-bip_39_word_new_br_1: envelope
-bip_39_word_new_br_10: envelope<br>load<br>head<br>guitar<br>gap<br>puppy<br>hungry<br>cube<br>powder<br>worry
-bip_39_word_new_br_11: envelope<br>load<br>head<br>guitar<br>gap<br>puppy<br>hungry<br>cube<br>powder<br>worry<br>broken
 bip_39_word_new_br_12: envelope<br>load<br>head<br>guitar<br>gap<br>puppy<br>hungry<br>cube<br>powder<br>worry<br>broken<br>apart
 bip_39_word_new_br_2: envelope<br>load
 bip_39_word_new_br_3: envelope<br>load<br>head
-bip_39_word_new_br_4: envelope<br>load<br>head<br>guitar
-bip_39_word_new_br_5: envelope<br>load<br>head<br>guitar<br>gap
-bip_39_word_new_br_6: envelope<br>load<br>head<br>guitar<br>gap<br>puppy
-bip_39_word_new_br_7: envelope<br>load<br>head<br>guitar<br>gap<br>puppy<br>hungry
-bip_39_word_new_br_8: envelope<br>load<br>head<br>guitar<br>gap<br>puppy<br>hungry<br>cube
-bip_39_word_new_br_9: envelope<br>load<br>head<br>guitar<br>gap<br>puppy<br>hungry<br>cube<br>powder
-bip_39_word_new_line_1: envelope
-bip_39_word_new_line_10: 'envelope
-
-  load
-
-  head
-
-  guitar
-
-  gap
-
-  puppy
-
-  hungry
-
-  cube
-
-  powder
-
-  worry'
-bip_39_word_new_line_11: 'envelope
-
-  load
-
-  head
-
-  guitar
-
-  gap
-
-  puppy
-
-  hungry
-
-  cube
-
-  powder
-
-  worry
-
-  broken'
 bip_39_word_new_line_12: 'envelope
 
   load
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'envelope
   load
 
   head'
-bip_39_word_new_line_4: 'envelope
-
-  load
-
-  head
-
-  guitar'
-bip_39_word_new_line_5: 'envelope
-
-  load
-
-  head
-
-  guitar
-
-  gap'
-bip_39_word_new_line_6: 'envelope
-
-  load
-
-  head
-
-  guitar
-
-  gap
-
-  puppy'
-bip_39_word_new_line_7: 'envelope
-
-  load
-
-  head
-
-  guitar
-
-  gap
-
-  puppy
-
-  hungry'
-bip_39_word_new_line_8: 'envelope
-
-  load
-
-  head
-
-  guitar
-
-  gap
-
-  puppy
-
-  hungry
-
-  cube'
-bip_39_word_new_line_9: 'envelope
-
-  load
-
-  head
-
-  guitar
-
-  gap
-
-  puppy
-
-  hungry
-
-  cube
-
-  powder'
-bip_39_word_no_space_1: envelope
-bip_39_word_no_space_10: envelopeloadheadguitargappuppyhungrycubepowderworry
-bip_39_word_no_space_11: envelopeloadheadguitargappuppyhungrycubepowderworrybroken
 bip_39_word_no_space_12: envelopeloadheadguitargappuppyhungrycubepowderworrybrokenapart
 bip_39_word_no_space_2: envelopeload
 bip_39_word_no_space_3: envelopeloadhead
-bip_39_word_no_space_4: envelopeloadheadguitar
-bip_39_word_no_space_5: envelopeloadheadguitargap
-bip_39_word_no_space_6: envelopeloadheadguitargappuppy
-bip_39_word_no_space_7: envelopeloadheadguitargappuppyhungry
-bip_39_word_no_space_8: envelopeloadheadguitargappuppyhungrycube
-bip_39_word_no_space_9: envelopeloadheadguitargappuppyhungrycubepowder
-bip_39_word_space_0:
-- envelope
-- load
-- head
-- guitar
-- gap
-- puppy
-- hungry
-- cube
-- powder
-- worry
-- broken
-- apart
-bip_39_word_space_1: envelope
-bip_39_word_space_10: envelope load head guitar gap puppy hungry cube powder worry
-bip_39_word_space_11: envelope load head guitar gap puppy hungry cube powder worry
-  broken
 bip_39_word_space_12: envelope load head guitar gap puppy hungry cube powder worry
   broken apart
 bip_39_word_space_2: envelope load
 bip_39_word_space_3: envelope load head
-bip_39_word_space_4: envelope load head guitar
-bip_39_word_space_5: envelope load head guitar gap
-bip_39_word_space_6: envelope load head guitar gap puppy
-bip_39_word_space_7: envelope load head guitar gap puppy hungry
-bip_39_word_space_8: envelope load head guitar gap puppy hungry cube
-bip_39_word_space_9: envelope load head guitar gap puppy hungry cube powder
-bip_39_word_underscore_1: envelope
-bip_39_word_underscore_10: envelope_load_head_guitar_gap_puppy_hungry_cube_powder_worry
-bip_39_word_underscore_11: envelope_load_head_guitar_gap_puppy_hungry_cube_powder_worry_broken
 bip_39_word_underscore_12: envelope_load_head_guitar_gap_puppy_hungry_cube_powder_worry_broken_apart
 bip_39_word_underscore_2: envelope_load
 bip_39_word_underscore_3: envelope_load_head
-bip_39_word_underscore_4: envelope_load_head_guitar
-bip_39_word_underscore_5: envelope_load_head_guitar_gap
-bip_39_word_underscore_6: envelope_load_head_guitar_gap_puppy
-bip_39_word_underscore_7: envelope_load_head_guitar_gap_puppy_hungry
-bip_39_word_underscore_8: envelope_load_head_guitar_gap_puppy_hungry_cube
-bip_39_word_underscore_9: envelope_load_head_guitar_gap_puppy_hungry_cube_powder
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

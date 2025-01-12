@@ -1,68 +1,9 @@
-bip_39_word_dash_1: amateur
-bip_39_word_dash_10: amateur-frown-tongue-cigar-portion-fancy-chimney-small-public-leaf
-bip_39_word_dash_11: amateur-frown-tongue-cigar-portion-fancy-chimney-small-public-leaf-connect
 bip_39_word_dash_12: amateur-frown-tongue-cigar-portion-fancy-chimney-small-public-leaf-connect-aisle
 bip_39_word_dash_2: amateur-frown
 bip_39_word_dash_3: amateur-frown-tongue
-bip_39_word_dash_4: amateur-frown-tongue-cigar
-bip_39_word_dash_5: amateur-frown-tongue-cigar-portion
-bip_39_word_dash_6: amateur-frown-tongue-cigar-portion-fancy
-bip_39_word_dash_7: amateur-frown-tongue-cigar-portion-fancy-chimney
-bip_39_word_dash_8: amateur-frown-tongue-cigar-portion-fancy-chimney-small
-bip_39_word_dash_9: amateur-frown-tongue-cigar-portion-fancy-chimney-small-public
-bip_39_word_new_br_1: amateur
-bip_39_word_new_br_10: amateur<br>frown<br>tongue<br>cigar<br>portion<br>fancy<br>chimney<br>small<br>public<br>leaf
-bip_39_word_new_br_11: amateur<br>frown<br>tongue<br>cigar<br>portion<br>fancy<br>chimney<br>small<br>public<br>leaf<br>connect
 bip_39_word_new_br_12: amateur<br>frown<br>tongue<br>cigar<br>portion<br>fancy<br>chimney<br>small<br>public<br>leaf<br>connect<br>aisle
 bip_39_word_new_br_2: amateur<br>frown
 bip_39_word_new_br_3: amateur<br>frown<br>tongue
-bip_39_word_new_br_4: amateur<br>frown<br>tongue<br>cigar
-bip_39_word_new_br_5: amateur<br>frown<br>tongue<br>cigar<br>portion
-bip_39_word_new_br_6: amateur<br>frown<br>tongue<br>cigar<br>portion<br>fancy
-bip_39_word_new_br_7: amateur<br>frown<br>tongue<br>cigar<br>portion<br>fancy<br>chimney
-bip_39_word_new_br_8: amateur<br>frown<br>tongue<br>cigar<br>portion<br>fancy<br>chimney<br>small
-bip_39_word_new_br_9: amateur<br>frown<br>tongue<br>cigar<br>portion<br>fancy<br>chimney<br>small<br>public
-bip_39_word_new_line_1: amateur
-bip_39_word_new_line_10: 'amateur
-
-  frown
-
-  tongue
-
-  cigar
-
-  portion
-
-  fancy
-
-  chimney
-
-  small
-
-  public
-
-  leaf'
-bip_39_word_new_line_11: 'amateur
-
-  frown
-
-  tongue
-
-  cigar
-
-  portion
-
-  fancy
-
-  chimney
-
-  small
-
-  public
-
-  leaf
-
-  connect'
 bip_39_word_new_line_12: 'amateur
 
   frown
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'amateur
   frown
 
   tongue'
-bip_39_word_new_line_4: 'amateur
-
-  frown
-
-  tongue
-
-  cigar'
-bip_39_word_new_line_5: 'amateur
-
-  frown
-
-  tongue
-
-  cigar
-
-  portion'
-bip_39_word_new_line_6: 'amateur
-
-  frown
-
-  tongue
-
-  cigar
-
-  portion
-
-  fancy'
-bip_39_word_new_line_7: 'amateur
-
-  frown
-
-  tongue
-
-  cigar
-
-  portion
-
-  fancy
-
-  chimney'
-bip_39_word_new_line_8: 'amateur
-
-  frown
-
-  tongue
-
-  cigar
-
-  portion
-
-  fancy
-
-  chimney
-
-  small'
-bip_39_word_new_line_9: 'amateur
-
-  frown
-
-  tongue
-
-  cigar
-
-  portion
-
-  fancy
-
-  chimney
-
-  small
-
-  public'
-bip_39_word_no_space_1: amateur
-bip_39_word_no_space_10: amateurfrowntonguecigarportionfancychimneysmallpublicleaf
-bip_39_word_no_space_11: amateurfrowntonguecigarportionfancychimneysmallpublicleafconnect
 bip_39_word_no_space_12: amateurfrowntonguecigarportionfancychimneysmallpublicleafconnectaisle
 bip_39_word_no_space_2: amateurfrown
 bip_39_word_no_space_3: amateurfrowntongue
-bip_39_word_no_space_4: amateurfrowntonguecigar
-bip_39_word_no_space_5: amateurfrowntonguecigarportion
-bip_39_word_no_space_6: amateurfrowntonguecigarportionfancy
-bip_39_word_no_space_7: amateurfrowntonguecigarportionfancychimney
-bip_39_word_no_space_8: amateurfrowntonguecigarportionfancychimneysmall
-bip_39_word_no_space_9: amateurfrowntonguecigarportionfancychimneysmallpublic
-bip_39_word_space_0:
-- amateur
-- frown
-- tongue
-- cigar
-- portion
-- fancy
-- chimney
-- small
-- public
-- leaf
-- connect
-- aisle
-bip_39_word_space_1: amateur
-bip_39_word_space_10: amateur frown tongue cigar portion fancy chimney small public
-  leaf
-bip_39_word_space_11: amateur frown tongue cigar portion fancy chimney small public
-  leaf connect
 bip_39_word_space_12: amateur frown tongue cigar portion fancy chimney small public
   leaf connect aisle
 bip_39_word_space_2: amateur frown
 bip_39_word_space_3: amateur frown tongue
-bip_39_word_space_4: amateur frown tongue cigar
-bip_39_word_space_5: amateur frown tongue cigar portion
-bip_39_word_space_6: amateur frown tongue cigar portion fancy
-bip_39_word_space_7: amateur frown tongue cigar portion fancy chimney
-bip_39_word_space_8: amateur frown tongue cigar portion fancy chimney small
-bip_39_word_space_9: amateur frown tongue cigar portion fancy chimney small public
-bip_39_word_underscore_1: amateur
-bip_39_word_underscore_10: amateur_frown_tongue_cigar_portion_fancy_chimney_small_public_leaf
-bip_39_word_underscore_11: amateur_frown_tongue_cigar_portion_fancy_chimney_small_public_leaf_connect
 bip_39_word_underscore_12: amateur_frown_tongue_cigar_portion_fancy_chimney_small_public_leaf_connect_aisle
 bip_39_word_underscore_2: amateur_frown
 bip_39_word_underscore_3: amateur_frown_tongue
-bip_39_word_underscore_4: amateur_frown_tongue_cigar
-bip_39_word_underscore_5: amateur_frown_tongue_cigar_portion
-bip_39_word_underscore_6: amateur_frown_tongue_cigar_portion_fancy
-bip_39_word_underscore_7: amateur_frown_tongue_cigar_portion_fancy_chimney
-bip_39_word_underscore_8: amateur_frown_tongue_cigar_portion_fancy_chimney_small
-bip_39_word_underscore_9: amateur_frown_tongue_cigar_portion_fancy_chimney_small_public
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

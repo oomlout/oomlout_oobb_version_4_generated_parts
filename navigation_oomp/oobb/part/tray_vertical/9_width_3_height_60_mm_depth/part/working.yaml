@@ -1,68 +1,9 @@
-bip_39_word_dash_1: prepare
-bip_39_word_dash_10: prepare-half-already-scan-distance-kick-rigid-end-mutual-express
-bip_39_word_dash_11: prepare-half-already-scan-distance-kick-rigid-end-mutual-express-inhale
 bip_39_word_dash_12: prepare-half-already-scan-distance-kick-rigid-end-mutual-express-inhale-acquire
 bip_39_word_dash_2: prepare-half
 bip_39_word_dash_3: prepare-half-already
-bip_39_word_dash_4: prepare-half-already-scan
-bip_39_word_dash_5: prepare-half-already-scan-distance
-bip_39_word_dash_6: prepare-half-already-scan-distance-kick
-bip_39_word_dash_7: prepare-half-already-scan-distance-kick-rigid
-bip_39_word_dash_8: prepare-half-already-scan-distance-kick-rigid-end
-bip_39_word_dash_9: prepare-half-already-scan-distance-kick-rigid-end-mutual
-bip_39_word_new_br_1: prepare
-bip_39_word_new_br_10: prepare<br>half<br>already<br>scan<br>distance<br>kick<br>rigid<br>end<br>mutual<br>express
-bip_39_word_new_br_11: prepare<br>half<br>already<br>scan<br>distance<br>kick<br>rigid<br>end<br>mutual<br>express<br>inhale
 bip_39_word_new_br_12: prepare<br>half<br>already<br>scan<br>distance<br>kick<br>rigid<br>end<br>mutual<br>express<br>inhale<br>acquire
 bip_39_word_new_br_2: prepare<br>half
 bip_39_word_new_br_3: prepare<br>half<br>already
-bip_39_word_new_br_4: prepare<br>half<br>already<br>scan
-bip_39_word_new_br_5: prepare<br>half<br>already<br>scan<br>distance
-bip_39_word_new_br_6: prepare<br>half<br>already<br>scan<br>distance<br>kick
-bip_39_word_new_br_7: prepare<br>half<br>already<br>scan<br>distance<br>kick<br>rigid
-bip_39_word_new_br_8: prepare<br>half<br>already<br>scan<br>distance<br>kick<br>rigid<br>end
-bip_39_word_new_br_9: prepare<br>half<br>already<br>scan<br>distance<br>kick<br>rigid<br>end<br>mutual
-bip_39_word_new_line_1: prepare
-bip_39_word_new_line_10: 'prepare
-
-  half
-
-  already
-
-  scan
-
-  distance
-
-  kick
-
-  rigid
-
-  end
-
-  mutual
-
-  express'
-bip_39_word_new_line_11: 'prepare
-
-  half
-
-  already
-
-  scan
-
-  distance
-
-  kick
-
-  rigid
-
-  end
-
-  mutual
-
-  express
-
-  inhale'
 bip_39_word_new_line_12: 'prepare
 
   half
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'prepare
   half
 
   already'
-bip_39_word_new_line_4: 'prepare
-
-  half
-
-  already
-
-  scan'
-bip_39_word_new_line_5: 'prepare
-
-  half
-
-  already
-
-  scan
-
-  distance'
-bip_39_word_new_line_6: 'prepare
-
-  half
-
-  already
-
-  scan
-
-  distance
-
-  kick'
-bip_39_word_new_line_7: 'prepare
-
-  half
-
-  already
-
-  scan
-
-  distance
-
-  kick
-
-  rigid'
-bip_39_word_new_line_8: 'prepare
-
-  half
-
-  already
-
-  scan
-
-  distance
-
-  kick
-
-  rigid
-
-  end'
-bip_39_word_new_line_9: 'prepare
-
-  half
-
-  already
-
-  scan
-
-  distance
-
-  kick
-
-  rigid
-
-  end
-
-  mutual'
-bip_39_word_no_space_1: prepare
-bip_39_word_no_space_10: preparehalfalreadyscandistancekickrigidendmutualexpress
-bip_39_word_no_space_11: preparehalfalreadyscandistancekickrigidendmutualexpressinhale
 bip_39_word_no_space_12: preparehalfalreadyscandistancekickrigidendmutualexpressinhaleacquire
 bip_39_word_no_space_2: preparehalf
 bip_39_word_no_space_3: preparehalfalready
-bip_39_word_no_space_4: preparehalfalreadyscan
-bip_39_word_no_space_5: preparehalfalreadyscandistance
-bip_39_word_no_space_6: preparehalfalreadyscandistancekick
-bip_39_word_no_space_7: preparehalfalreadyscandistancekickrigid
-bip_39_word_no_space_8: preparehalfalreadyscandistancekickrigidend
-bip_39_word_no_space_9: preparehalfalreadyscandistancekickrigidendmutual
-bip_39_word_space_0:
-- prepare
-- half
-- already
-- scan
-- distance
-- kick
-- rigid
-- end
-- mutual
-- express
-- inhale
-- acquire
-bip_39_word_space_1: prepare
-bip_39_word_space_10: prepare half already scan distance kick rigid end mutual express
-bip_39_word_space_11: prepare half already scan distance kick rigid end mutual express
-  inhale
 bip_39_word_space_12: prepare half already scan distance kick rigid end mutual express
   inhale acquire
 bip_39_word_space_2: prepare half
 bip_39_word_space_3: prepare half already
-bip_39_word_space_4: prepare half already scan
-bip_39_word_space_5: prepare half already scan distance
-bip_39_word_space_6: prepare half already scan distance kick
-bip_39_word_space_7: prepare half already scan distance kick rigid
-bip_39_word_space_8: prepare half already scan distance kick rigid end
-bip_39_word_space_9: prepare half already scan distance kick rigid end mutual
-bip_39_word_underscore_1: prepare
-bip_39_word_underscore_10: prepare_half_already_scan_distance_kick_rigid_end_mutual_express
-bip_39_word_underscore_11: prepare_half_already_scan_distance_kick_rigid_end_mutual_express_inhale
 bip_39_word_underscore_12: prepare_half_already_scan_distance_kick_rigid_end_mutual_express_inhale_acquire
 bip_39_word_underscore_2: prepare_half
 bip_39_word_underscore_3: prepare_half_already
-bip_39_word_underscore_4: prepare_half_already_scan
-bip_39_word_underscore_5: prepare_half_already_scan_distance
-bip_39_word_underscore_6: prepare_half_already_scan_distance_kick
-bip_39_word_underscore_7: prepare_half_already_scan_distance_kick_rigid
-bip_39_word_underscore_8: prepare_half_already_scan_distance_kick_rigid_end
-bip_39_word_underscore_9: prepare_half_already_scan_distance_kick_rigid_end_mutual
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

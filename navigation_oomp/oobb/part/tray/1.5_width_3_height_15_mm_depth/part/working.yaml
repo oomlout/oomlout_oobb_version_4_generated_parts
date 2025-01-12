@@ -1,68 +1,9 @@
-bip_39_word_dash_1: ribbon
-bip_39_word_dash_10: ribbon-panic-mom-syrup-diary-thunder-theory-armor-neither-concert
-bip_39_word_dash_11: ribbon-panic-mom-syrup-diary-thunder-theory-armor-neither-concert-puzzle
 bip_39_word_dash_12: ribbon-panic-mom-syrup-diary-thunder-theory-armor-neither-concert-puzzle-argue
 bip_39_word_dash_2: ribbon-panic
 bip_39_word_dash_3: ribbon-panic-mom
-bip_39_word_dash_4: ribbon-panic-mom-syrup
-bip_39_word_dash_5: ribbon-panic-mom-syrup-diary
-bip_39_word_dash_6: ribbon-panic-mom-syrup-diary-thunder
-bip_39_word_dash_7: ribbon-panic-mom-syrup-diary-thunder-theory
-bip_39_word_dash_8: ribbon-panic-mom-syrup-diary-thunder-theory-armor
-bip_39_word_dash_9: ribbon-panic-mom-syrup-diary-thunder-theory-armor-neither
-bip_39_word_new_br_1: ribbon
-bip_39_word_new_br_10: ribbon<br>panic<br>mom<br>syrup<br>diary<br>thunder<br>theory<br>armor<br>neither<br>concert
-bip_39_word_new_br_11: ribbon<br>panic<br>mom<br>syrup<br>diary<br>thunder<br>theory<br>armor<br>neither<br>concert<br>puzzle
 bip_39_word_new_br_12: ribbon<br>panic<br>mom<br>syrup<br>diary<br>thunder<br>theory<br>armor<br>neither<br>concert<br>puzzle<br>argue
 bip_39_word_new_br_2: ribbon<br>panic
 bip_39_word_new_br_3: ribbon<br>panic<br>mom
-bip_39_word_new_br_4: ribbon<br>panic<br>mom<br>syrup
-bip_39_word_new_br_5: ribbon<br>panic<br>mom<br>syrup<br>diary
-bip_39_word_new_br_6: ribbon<br>panic<br>mom<br>syrup<br>diary<br>thunder
-bip_39_word_new_br_7: ribbon<br>panic<br>mom<br>syrup<br>diary<br>thunder<br>theory
-bip_39_word_new_br_8: ribbon<br>panic<br>mom<br>syrup<br>diary<br>thunder<br>theory<br>armor
-bip_39_word_new_br_9: ribbon<br>panic<br>mom<br>syrup<br>diary<br>thunder<br>theory<br>armor<br>neither
-bip_39_word_new_line_1: ribbon
-bip_39_word_new_line_10: 'ribbon
-
-  panic
-
-  mom
-
-  syrup
-
-  diary
-
-  thunder
-
-  theory
-
-  armor
-
-  neither
-
-  concert'
-bip_39_word_new_line_11: 'ribbon
-
-  panic
-
-  mom
-
-  syrup
-
-  diary
-
-  thunder
-
-  theory
-
-  armor
-
-  neither
-
-  concert
-
-  puzzle'
 bip_39_word_new_line_12: 'ribbon
 
   panic
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'ribbon
   panic
 
   mom'
-bip_39_word_new_line_4: 'ribbon
-
-  panic
-
-  mom
-
-  syrup'
-bip_39_word_new_line_5: 'ribbon
-
-  panic
-
-  mom
-
-  syrup
-
-  diary'
-bip_39_word_new_line_6: 'ribbon
-
-  panic
-
-  mom
-
-  syrup
-
-  diary
-
-  thunder'
-bip_39_word_new_line_7: 'ribbon
-
-  panic
-
-  mom
-
-  syrup
-
-  diary
-
-  thunder
-
-  theory'
-bip_39_word_new_line_8: 'ribbon
-
-  panic
-
-  mom
-
-  syrup
-
-  diary
-
-  thunder
-
-  theory
-
-  armor'
-bip_39_word_new_line_9: 'ribbon
-
-  panic
-
-  mom
-
-  syrup
-
-  diary
-
-  thunder
-
-  theory
-
-  armor
-
-  neither'
-bip_39_word_no_space_1: ribbon
-bip_39_word_no_space_10: ribbonpanicmomsyrupdiarythundertheoryarmorneitherconcert
-bip_39_word_no_space_11: ribbonpanicmomsyrupdiarythundertheoryarmorneitherconcertpuzzle
 bip_39_word_no_space_12: ribbonpanicmomsyrupdiarythundertheoryarmorneitherconcertpuzzleargue
 bip_39_word_no_space_2: ribbonpanic
 bip_39_word_no_space_3: ribbonpanicmom
-bip_39_word_no_space_4: ribbonpanicmomsyrup
-bip_39_word_no_space_5: ribbonpanicmomsyrupdiary
-bip_39_word_no_space_6: ribbonpanicmomsyrupdiarythunder
-bip_39_word_no_space_7: ribbonpanicmomsyrupdiarythundertheory
-bip_39_word_no_space_8: ribbonpanicmomsyrupdiarythundertheoryarmor
-bip_39_word_no_space_9: ribbonpanicmomsyrupdiarythundertheoryarmorneither
-bip_39_word_space_0:
-- ribbon
-- panic
-- mom
-- syrup
-- diary
-- thunder
-- theory
-- armor
-- neither
-- concert
-- puzzle
-- argue
-bip_39_word_space_1: ribbon
-bip_39_word_space_10: ribbon panic mom syrup diary thunder theory armor neither concert
-bip_39_word_space_11: ribbon panic mom syrup diary thunder theory armor neither concert
-  puzzle
 bip_39_word_space_12: ribbon panic mom syrup diary thunder theory armor neither concert
   puzzle argue
 bip_39_word_space_2: ribbon panic
 bip_39_word_space_3: ribbon panic mom
-bip_39_word_space_4: ribbon panic mom syrup
-bip_39_word_space_5: ribbon panic mom syrup diary
-bip_39_word_space_6: ribbon panic mom syrup diary thunder
-bip_39_word_space_7: ribbon panic mom syrup diary thunder theory
-bip_39_word_space_8: ribbon panic mom syrup diary thunder theory armor
-bip_39_word_space_9: ribbon panic mom syrup diary thunder theory armor neither
-bip_39_word_underscore_1: ribbon
-bip_39_word_underscore_10: ribbon_panic_mom_syrup_diary_thunder_theory_armor_neither_concert
-bip_39_word_underscore_11: ribbon_panic_mom_syrup_diary_thunder_theory_armor_neither_concert_puzzle
 bip_39_word_underscore_12: ribbon_panic_mom_syrup_diary_thunder_theory_armor_neither_concert_puzzle_argue
 bip_39_word_underscore_2: ribbon_panic
 bip_39_word_underscore_3: ribbon_panic_mom
-bip_39_word_underscore_4: ribbon_panic_mom_syrup
-bip_39_word_underscore_5: ribbon_panic_mom_syrup_diary
-bip_39_word_underscore_6: ribbon_panic_mom_syrup_diary_thunder
-bip_39_word_underscore_7: ribbon_panic_mom_syrup_diary_thunder_theory
-bip_39_word_underscore_8: ribbon_panic_mom_syrup_diary_thunder_theory_armor
-bip_39_word_underscore_9: ribbon_panic_mom_syrup_diary_thunder_theory_armor_neither
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

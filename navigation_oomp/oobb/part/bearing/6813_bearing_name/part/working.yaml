@@ -1,69 +1,10 @@
 bearing_name: '6813'
-bip_39_word_dash_1: midnight
-bip_39_word_dash_10: midnight-say-search-million-verify-pitch-near-object-autumn-soldier
-bip_39_word_dash_11: midnight-say-search-million-verify-pitch-near-object-autumn-soldier-excess
 bip_39_word_dash_12: midnight-say-search-million-verify-pitch-near-object-autumn-soldier-excess-antique
 bip_39_word_dash_2: midnight-say
 bip_39_word_dash_3: midnight-say-search
-bip_39_word_dash_4: midnight-say-search-million
-bip_39_word_dash_5: midnight-say-search-million-verify
-bip_39_word_dash_6: midnight-say-search-million-verify-pitch
-bip_39_word_dash_7: midnight-say-search-million-verify-pitch-near
-bip_39_word_dash_8: midnight-say-search-million-verify-pitch-near-object
-bip_39_word_dash_9: midnight-say-search-million-verify-pitch-near-object-autumn
-bip_39_word_new_br_1: midnight
-bip_39_word_new_br_10: midnight<br>say<br>search<br>million<br>verify<br>pitch<br>near<br>object<br>autumn<br>soldier
-bip_39_word_new_br_11: midnight<br>say<br>search<br>million<br>verify<br>pitch<br>near<br>object<br>autumn<br>soldier<br>excess
 bip_39_word_new_br_12: midnight<br>say<br>search<br>million<br>verify<br>pitch<br>near<br>object<br>autumn<br>soldier<br>excess<br>antique
 bip_39_word_new_br_2: midnight<br>say
 bip_39_word_new_br_3: midnight<br>say<br>search
-bip_39_word_new_br_4: midnight<br>say<br>search<br>million
-bip_39_word_new_br_5: midnight<br>say<br>search<br>million<br>verify
-bip_39_word_new_br_6: midnight<br>say<br>search<br>million<br>verify<br>pitch
-bip_39_word_new_br_7: midnight<br>say<br>search<br>million<br>verify<br>pitch<br>near
-bip_39_word_new_br_8: midnight<br>say<br>search<br>million<br>verify<br>pitch<br>near<br>object
-bip_39_word_new_br_9: midnight<br>say<br>search<br>million<br>verify<br>pitch<br>near<br>object<br>autumn
-bip_39_word_new_line_1: midnight
-bip_39_word_new_line_10: 'midnight
-
-  say
-
-  search
-
-  million
-
-  verify
-
-  pitch
-
-  near
-
-  object
-
-  autumn
-
-  soldier'
-bip_39_word_new_line_11: 'midnight
-
-  say
-
-  search
-
-  million
-
-  verify
-
-  pitch
-
-  near
-
-  object
-
-  autumn
-
-  soldier
-
-  excess'
 bip_39_word_new_line_12: 'midnight
 
   say
@@ -95,130 +36,16 @@ bip_39_word_new_line_3: 'midnight
   say
 
   search'
-bip_39_word_new_line_4: 'midnight
-
-  say
-
-  search
-
-  million'
-bip_39_word_new_line_5: 'midnight
-
-  say
-
-  search
-
-  million
-
-  verify'
-bip_39_word_new_line_6: 'midnight
-
-  say
-
-  search
-
-  million
-
-  verify
-
-  pitch'
-bip_39_word_new_line_7: 'midnight
-
-  say
-
-  search
-
-  million
-
-  verify
-
-  pitch
-
-  near'
-bip_39_word_new_line_8: 'midnight
-
-  say
-
-  search
-
-  million
-
-  verify
-
-  pitch
-
-  near
-
-  object'
-bip_39_word_new_line_9: 'midnight
-
-  say
-
-  search
-
-  million
-
-  verify
-
-  pitch
-
-  near
-
-  object
-
-  autumn'
-bip_39_word_no_space_1: midnight
-bip_39_word_no_space_10: midnightsaysearchmillionverifypitchnearobjectautumnsoldier
-bip_39_word_no_space_11: midnightsaysearchmillionverifypitchnearobjectautumnsoldierexcess
 bip_39_word_no_space_12: midnightsaysearchmillionverifypitchnearobjectautumnsoldierexcessantique
 bip_39_word_no_space_2: midnightsay
 bip_39_word_no_space_3: midnightsaysearch
-bip_39_word_no_space_4: midnightsaysearchmillion
-bip_39_word_no_space_5: midnightsaysearchmillionverify
-bip_39_word_no_space_6: midnightsaysearchmillionverifypitch
-bip_39_word_no_space_7: midnightsaysearchmillionverifypitchnear
-bip_39_word_no_space_8: midnightsaysearchmillionverifypitchnearobject
-bip_39_word_no_space_9: midnightsaysearchmillionverifypitchnearobjectautumn
-bip_39_word_space_0:
-- midnight
-- say
-- search
-- million
-- verify
-- pitch
-- near
-- object
-- autumn
-- soldier
-- excess
-- antique
-bip_39_word_space_1: midnight
-bip_39_word_space_10: midnight say search million verify pitch near object autumn
-  soldier
-bip_39_word_space_11: midnight say search million verify pitch near object autumn
-  soldier excess
 bip_39_word_space_12: midnight say search million verify pitch near object autumn
   soldier excess antique
 bip_39_word_space_2: midnight say
 bip_39_word_space_3: midnight say search
-bip_39_word_space_4: midnight say search million
-bip_39_word_space_5: midnight say search million verify
-bip_39_word_space_6: midnight say search million verify pitch
-bip_39_word_space_7: midnight say search million verify pitch near
-bip_39_word_space_8: midnight say search million verify pitch near object
-bip_39_word_space_9: midnight say search million verify pitch near object autumn
-bip_39_word_underscore_1: midnight
-bip_39_word_underscore_10: midnight_say_search_million_verify_pitch_near_object_autumn_soldier
-bip_39_word_underscore_11: midnight_say_search_million_verify_pitch_near_object_autumn_soldier_excess
 bip_39_word_underscore_12: midnight_say_search_million_verify_pitch_near_object_autumn_soldier_excess_antique
 bip_39_word_underscore_2: midnight_say
 bip_39_word_underscore_3: midnight_say_search
-bip_39_word_underscore_4: midnight_say_search_million
-bip_39_word_underscore_5: midnight_say_search_million_verify
-bip_39_word_underscore_6: midnight_say_search_million_verify_pitch
-bip_39_word_underscore_7: midnight_say_search_million_verify_pitch_near
-bip_39_word_underscore_8: midnight_say_search_million_verify_pitch_near_object
-bip_39_word_underscore_9: midnight_say_search_million_verify_pitch_near_object_autumn
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

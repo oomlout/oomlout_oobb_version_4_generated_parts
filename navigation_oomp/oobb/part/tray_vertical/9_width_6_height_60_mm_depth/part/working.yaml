@@ -1,68 +1,9 @@
-bip_39_word_dash_1: sister
-bip_39_word_dash_10: sister-deputy-business-protect-expire-vote-airport-burden-buzz-victory
-bip_39_word_dash_11: sister-deputy-business-protect-expire-vote-airport-burden-buzz-victory-vendor
 bip_39_word_dash_12: sister-deputy-business-protect-expire-vote-airport-burden-buzz-victory-vendor-audit
 bip_39_word_dash_2: sister-deputy
 bip_39_word_dash_3: sister-deputy-business
-bip_39_word_dash_4: sister-deputy-business-protect
-bip_39_word_dash_5: sister-deputy-business-protect-expire
-bip_39_word_dash_6: sister-deputy-business-protect-expire-vote
-bip_39_word_dash_7: sister-deputy-business-protect-expire-vote-airport
-bip_39_word_dash_8: sister-deputy-business-protect-expire-vote-airport-burden
-bip_39_word_dash_9: sister-deputy-business-protect-expire-vote-airport-burden-buzz
-bip_39_word_new_br_1: sister
-bip_39_word_new_br_10: sister<br>deputy<br>business<br>protect<br>expire<br>vote<br>airport<br>burden<br>buzz<br>victory
-bip_39_word_new_br_11: sister<br>deputy<br>business<br>protect<br>expire<br>vote<br>airport<br>burden<br>buzz<br>victory<br>vendor
 bip_39_word_new_br_12: sister<br>deputy<br>business<br>protect<br>expire<br>vote<br>airport<br>burden<br>buzz<br>victory<br>vendor<br>audit
 bip_39_word_new_br_2: sister<br>deputy
 bip_39_word_new_br_3: sister<br>deputy<br>business
-bip_39_word_new_br_4: sister<br>deputy<br>business<br>protect
-bip_39_word_new_br_5: sister<br>deputy<br>business<br>protect<br>expire
-bip_39_word_new_br_6: sister<br>deputy<br>business<br>protect<br>expire<br>vote
-bip_39_word_new_br_7: sister<br>deputy<br>business<br>protect<br>expire<br>vote<br>airport
-bip_39_word_new_br_8: sister<br>deputy<br>business<br>protect<br>expire<br>vote<br>airport<br>burden
-bip_39_word_new_br_9: sister<br>deputy<br>business<br>protect<br>expire<br>vote<br>airport<br>burden<br>buzz
-bip_39_word_new_line_1: sister
-bip_39_word_new_line_10: 'sister
-
-  deputy
-
-  business
-
-  protect
-
-  expire
-
-  vote
-
-  airport
-
-  burden
-
-  buzz
-
-  victory'
-bip_39_word_new_line_11: 'sister
-
-  deputy
-
-  business
-
-  protect
-
-  expire
-
-  vote
-
-  airport
-
-  burden
-
-  buzz
-
-  victory
-
-  vendor'
 bip_39_word_new_line_12: 'sister
 
   deputy
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'sister
   deputy
 
   business'
-bip_39_word_new_line_4: 'sister
-
-  deputy
-
-  business
-
-  protect'
-bip_39_word_new_line_5: 'sister
-
-  deputy
-
-  business
-
-  protect
-
-  expire'
-bip_39_word_new_line_6: 'sister
-
-  deputy
-
-  business
-
-  protect
-
-  expire
-
-  vote'
-bip_39_word_new_line_7: 'sister
-
-  deputy
-
-  business
-
-  protect
-
-  expire
-
-  vote
-
-  airport'
-bip_39_word_new_line_8: 'sister
-
-  deputy
-
-  business
-
-  protect
-
-  expire
-
-  vote
-
-  airport
-
-  burden'
-bip_39_word_new_line_9: 'sister
-
-  deputy
-
-  business
-
-  protect
-
-  expire
-
-  vote
-
-  airport
-
-  burden
-
-  buzz'
-bip_39_word_no_space_1: sister
-bip_39_word_no_space_10: sisterdeputybusinessprotectexpirevoteairportburdenbuzzvictory
-bip_39_word_no_space_11: sisterdeputybusinessprotectexpirevoteairportburdenbuzzvictoryvendor
 bip_39_word_no_space_12: sisterdeputybusinessprotectexpirevoteairportburdenbuzzvictoryvendoraudit
 bip_39_word_no_space_2: sisterdeputy
 bip_39_word_no_space_3: sisterdeputybusiness
-bip_39_word_no_space_4: sisterdeputybusinessprotect
-bip_39_word_no_space_5: sisterdeputybusinessprotectexpire
-bip_39_word_no_space_6: sisterdeputybusinessprotectexpirevote
-bip_39_word_no_space_7: sisterdeputybusinessprotectexpirevoteairport
-bip_39_word_no_space_8: sisterdeputybusinessprotectexpirevoteairportburden
-bip_39_word_no_space_9: sisterdeputybusinessprotectexpirevoteairportburdenbuzz
-bip_39_word_space_0:
-- sister
-- deputy
-- business
-- protect
-- expire
-- vote
-- airport
-- burden
-- buzz
-- victory
-- vendor
-- audit
-bip_39_word_space_1: sister
-bip_39_word_space_10: sister deputy business protect expire vote airport burden buzz
-  victory
-bip_39_word_space_11: sister deputy business protect expire vote airport burden buzz
-  victory vendor
 bip_39_word_space_12: sister deputy business protect expire vote airport burden buzz
   victory vendor audit
 bip_39_word_space_2: sister deputy
 bip_39_word_space_3: sister deputy business
-bip_39_word_space_4: sister deputy business protect
-bip_39_word_space_5: sister deputy business protect expire
-bip_39_word_space_6: sister deputy business protect expire vote
-bip_39_word_space_7: sister deputy business protect expire vote airport
-bip_39_word_space_8: sister deputy business protect expire vote airport burden
-bip_39_word_space_9: sister deputy business protect expire vote airport burden buzz
-bip_39_word_underscore_1: sister
-bip_39_word_underscore_10: sister_deputy_business_protect_expire_vote_airport_burden_buzz_victory
-bip_39_word_underscore_11: sister_deputy_business_protect_expire_vote_airport_burden_buzz_victory_vendor
 bip_39_word_underscore_12: sister_deputy_business_protect_expire_vote_airport_burden_buzz_victory_vendor_audit
 bip_39_word_underscore_2: sister_deputy
 bip_39_word_underscore_3: sister_deputy_business
-bip_39_word_underscore_4: sister_deputy_business_protect
-bip_39_word_underscore_5: sister_deputy_business_protect_expire
-bip_39_word_underscore_6: sister_deputy_business_protect_expire_vote
-bip_39_word_underscore_7: sister_deputy_business_protect_expire_vote_airport
-bip_39_word_underscore_8: sister_deputy_business_protect_expire_vote_airport_burden
-bip_39_word_underscore_9: sister_deputy_business_protect_expire_vote_airport_burden_buzz
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

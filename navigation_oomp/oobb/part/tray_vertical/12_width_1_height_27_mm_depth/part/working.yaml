@@ -1,68 +1,9 @@
-bip_39_word_dash_1: nose
-bip_39_word_dash_10: nose-meat-dawn-glory-mixed-siege-rebuild-empty-priority-spring
-bip_39_word_dash_11: nose-meat-dawn-glory-mixed-siege-rebuild-empty-priority-spring-lawsuit
 bip_39_word_dash_12: nose-meat-dawn-glory-mixed-siege-rebuild-empty-priority-spring-lawsuit-artwork
 bip_39_word_dash_2: nose-meat
 bip_39_word_dash_3: nose-meat-dawn
-bip_39_word_dash_4: nose-meat-dawn-glory
-bip_39_word_dash_5: nose-meat-dawn-glory-mixed
-bip_39_word_dash_6: nose-meat-dawn-glory-mixed-siege
-bip_39_word_dash_7: nose-meat-dawn-glory-mixed-siege-rebuild
-bip_39_word_dash_8: nose-meat-dawn-glory-mixed-siege-rebuild-empty
-bip_39_word_dash_9: nose-meat-dawn-glory-mixed-siege-rebuild-empty-priority
-bip_39_word_new_br_1: nose
-bip_39_word_new_br_10: nose<br>meat<br>dawn<br>glory<br>mixed<br>siege<br>rebuild<br>empty<br>priority<br>spring
-bip_39_word_new_br_11: nose<br>meat<br>dawn<br>glory<br>mixed<br>siege<br>rebuild<br>empty<br>priority<br>spring<br>lawsuit
 bip_39_word_new_br_12: nose<br>meat<br>dawn<br>glory<br>mixed<br>siege<br>rebuild<br>empty<br>priority<br>spring<br>lawsuit<br>artwork
 bip_39_word_new_br_2: nose<br>meat
 bip_39_word_new_br_3: nose<br>meat<br>dawn
-bip_39_word_new_br_4: nose<br>meat<br>dawn<br>glory
-bip_39_word_new_br_5: nose<br>meat<br>dawn<br>glory<br>mixed
-bip_39_word_new_br_6: nose<br>meat<br>dawn<br>glory<br>mixed<br>siege
-bip_39_word_new_br_7: nose<br>meat<br>dawn<br>glory<br>mixed<br>siege<br>rebuild
-bip_39_word_new_br_8: nose<br>meat<br>dawn<br>glory<br>mixed<br>siege<br>rebuild<br>empty
-bip_39_word_new_br_9: nose<br>meat<br>dawn<br>glory<br>mixed<br>siege<br>rebuild<br>empty<br>priority
-bip_39_word_new_line_1: nose
-bip_39_word_new_line_10: 'nose
-
-  meat
-
-  dawn
-
-  glory
-
-  mixed
-
-  siege
-
-  rebuild
-
-  empty
-
-  priority
-
-  spring'
-bip_39_word_new_line_11: 'nose
-
-  meat
-
-  dawn
-
-  glory
-
-  mixed
-
-  siege
-
-  rebuild
-
-  empty
-
-  priority
-
-  spring
-
-  lawsuit'
 bip_39_word_new_line_12: 'nose
 
   meat
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'nose
   meat
 
   dawn'
-bip_39_word_new_line_4: 'nose
-
-  meat
-
-  dawn
-
-  glory'
-bip_39_word_new_line_5: 'nose
-
-  meat
-
-  dawn
-
-  glory
-
-  mixed'
-bip_39_word_new_line_6: 'nose
-
-  meat
-
-  dawn
-
-  glory
-
-  mixed
-
-  siege'
-bip_39_word_new_line_7: 'nose
-
-  meat
-
-  dawn
-
-  glory
-
-  mixed
-
-  siege
-
-  rebuild'
-bip_39_word_new_line_8: 'nose
-
-  meat
-
-  dawn
-
-  glory
-
-  mixed
-
-  siege
-
-  rebuild
-
-  empty'
-bip_39_word_new_line_9: 'nose
-
-  meat
-
-  dawn
-
-  glory
-
-  mixed
-
-  siege
-
-  rebuild
-
-  empty
-
-  priority'
-bip_39_word_no_space_1: nose
-bip_39_word_no_space_10: nosemeatdawnglorymixedsiegerebuildemptypriorityspring
-bip_39_word_no_space_11: nosemeatdawnglorymixedsiegerebuildemptypriorityspringlawsuit
 bip_39_word_no_space_12: nosemeatdawnglorymixedsiegerebuildemptypriorityspringlawsuitartwork
 bip_39_word_no_space_2: nosemeat
 bip_39_word_no_space_3: nosemeatdawn
-bip_39_word_no_space_4: nosemeatdawnglory
-bip_39_word_no_space_5: nosemeatdawnglorymixed
-bip_39_word_no_space_6: nosemeatdawnglorymixedsiege
-bip_39_word_no_space_7: nosemeatdawnglorymixedsiegerebuild
-bip_39_word_no_space_8: nosemeatdawnglorymixedsiegerebuildempty
-bip_39_word_no_space_9: nosemeatdawnglorymixedsiegerebuildemptypriority
-bip_39_word_space_0:
-- nose
-- meat
-- dawn
-- glory
-- mixed
-- siege
-- rebuild
-- empty
-- priority
-- spring
-- lawsuit
-- artwork
-bip_39_word_space_1: nose
-bip_39_word_space_10: nose meat dawn glory mixed siege rebuild empty priority spring
-bip_39_word_space_11: nose meat dawn glory mixed siege rebuild empty priority spring
-  lawsuit
 bip_39_word_space_12: nose meat dawn glory mixed siege rebuild empty priority spring
   lawsuit artwork
 bip_39_word_space_2: nose meat
 bip_39_word_space_3: nose meat dawn
-bip_39_word_space_4: nose meat dawn glory
-bip_39_word_space_5: nose meat dawn glory mixed
-bip_39_word_space_6: nose meat dawn glory mixed siege
-bip_39_word_space_7: nose meat dawn glory mixed siege rebuild
-bip_39_word_space_8: nose meat dawn glory mixed siege rebuild empty
-bip_39_word_space_9: nose meat dawn glory mixed siege rebuild empty priority
-bip_39_word_underscore_1: nose
-bip_39_word_underscore_10: nose_meat_dawn_glory_mixed_siege_rebuild_empty_priority_spring
-bip_39_word_underscore_11: nose_meat_dawn_glory_mixed_siege_rebuild_empty_priority_spring_lawsuit
 bip_39_word_underscore_12: nose_meat_dawn_glory_mixed_siege_rebuild_empty_priority_spring_lawsuit_artwork
 bip_39_word_underscore_2: nose_meat
 bip_39_word_underscore_3: nose_meat_dawn
-bip_39_word_underscore_4: nose_meat_dawn_glory
-bip_39_word_underscore_5: nose_meat_dawn_glory_mixed
-bip_39_word_underscore_6: nose_meat_dawn_glory_mixed_siege
-bip_39_word_underscore_7: nose_meat_dawn_glory_mixed_siege_rebuild
-bip_39_word_underscore_8: nose_meat_dawn_glory_mixed_siege_rebuild_empty
-bip_39_word_underscore_9: nose_meat_dawn_glory_mixed_siege_rebuild_empty_priority
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

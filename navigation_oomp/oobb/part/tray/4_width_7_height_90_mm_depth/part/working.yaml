@@ -1,68 +1,9 @@
-bip_39_word_dash_1: chicken
-bip_39_word_dash_10: chicken-venture-duck-plug-office-liberty-staff-note-shoot-benefit
-bip_39_word_dash_11: chicken-venture-duck-plug-office-liberty-staff-note-shoot-benefit-claim
 bip_39_word_dash_12: chicken-venture-duck-plug-office-liberty-staff-note-shoot-benefit-claim-alpha
 bip_39_word_dash_2: chicken-venture
 bip_39_word_dash_3: chicken-venture-duck
-bip_39_word_dash_4: chicken-venture-duck-plug
-bip_39_word_dash_5: chicken-venture-duck-plug-office
-bip_39_word_dash_6: chicken-venture-duck-plug-office-liberty
-bip_39_word_dash_7: chicken-venture-duck-plug-office-liberty-staff
-bip_39_word_dash_8: chicken-venture-duck-plug-office-liberty-staff-note
-bip_39_word_dash_9: chicken-venture-duck-plug-office-liberty-staff-note-shoot
-bip_39_word_new_br_1: chicken
-bip_39_word_new_br_10: chicken<br>venture<br>duck<br>plug<br>office<br>liberty<br>staff<br>note<br>shoot<br>benefit
-bip_39_word_new_br_11: chicken<br>venture<br>duck<br>plug<br>office<br>liberty<br>staff<br>note<br>shoot<br>benefit<br>claim
 bip_39_word_new_br_12: chicken<br>venture<br>duck<br>plug<br>office<br>liberty<br>staff<br>note<br>shoot<br>benefit<br>claim<br>alpha
 bip_39_word_new_br_2: chicken<br>venture
 bip_39_word_new_br_3: chicken<br>venture<br>duck
-bip_39_word_new_br_4: chicken<br>venture<br>duck<br>plug
-bip_39_word_new_br_5: chicken<br>venture<br>duck<br>plug<br>office
-bip_39_word_new_br_6: chicken<br>venture<br>duck<br>plug<br>office<br>liberty
-bip_39_word_new_br_7: chicken<br>venture<br>duck<br>plug<br>office<br>liberty<br>staff
-bip_39_word_new_br_8: chicken<br>venture<br>duck<br>plug<br>office<br>liberty<br>staff<br>note
-bip_39_word_new_br_9: chicken<br>venture<br>duck<br>plug<br>office<br>liberty<br>staff<br>note<br>shoot
-bip_39_word_new_line_1: chicken
-bip_39_word_new_line_10: 'chicken
-
-  venture
-
-  duck
-
-  plug
-
-  office
-
-  liberty
-
-  staff
-
-  note
-
-  shoot
-
-  benefit'
-bip_39_word_new_line_11: 'chicken
-
-  venture
-
-  duck
-
-  plug
-
-  office
-
-  liberty
-
-  staff
-
-  note
-
-  shoot
-
-  benefit
-
-  claim'
 bip_39_word_new_line_12: 'chicken
 
   venture
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'chicken
   venture
 
   duck'
-bip_39_word_new_line_4: 'chicken
-
-  venture
-
-  duck
-
-  plug'
-bip_39_word_new_line_5: 'chicken
-
-  venture
-
-  duck
-
-  plug
-
-  office'
-bip_39_word_new_line_6: 'chicken
-
-  venture
-
-  duck
-
-  plug
-
-  office
-
-  liberty'
-bip_39_word_new_line_7: 'chicken
-
-  venture
-
-  duck
-
-  plug
-
-  office
-
-  liberty
-
-  staff'
-bip_39_word_new_line_8: 'chicken
-
-  venture
-
-  duck
-
-  plug
-
-  office
-
-  liberty
-
-  staff
-
-  note'
-bip_39_word_new_line_9: 'chicken
-
-  venture
-
-  duck
-
-  plug
-
-  office
-
-  liberty
-
-  staff
-
-  note
-
-  shoot'
-bip_39_word_no_space_1: chicken
-bip_39_word_no_space_10: chickenventureduckplugofficelibertystaffnoteshootbenefit
-bip_39_word_no_space_11: chickenventureduckplugofficelibertystaffnoteshootbenefitclaim
 bip_39_word_no_space_12: chickenventureduckplugofficelibertystaffnoteshootbenefitclaimalpha
 bip_39_word_no_space_2: chickenventure
 bip_39_word_no_space_3: chickenventureduck
-bip_39_word_no_space_4: chickenventureduckplug
-bip_39_word_no_space_5: chickenventureduckplugoffice
-bip_39_word_no_space_6: chickenventureduckplugofficeliberty
-bip_39_word_no_space_7: chickenventureduckplugofficelibertystaff
-bip_39_word_no_space_8: chickenventureduckplugofficelibertystaffnote
-bip_39_word_no_space_9: chickenventureduckplugofficelibertystaffnoteshoot
-bip_39_word_space_0:
-- chicken
-- venture
-- duck
-- plug
-- office
-- liberty
-- staff
-- note
-- shoot
-- benefit
-- claim
-- alpha
-bip_39_word_space_1: chicken
-bip_39_word_space_10: chicken venture duck plug office liberty staff note shoot benefit
-bip_39_word_space_11: chicken venture duck plug office liberty staff note shoot benefit
-  claim
 bip_39_word_space_12: chicken venture duck plug office liberty staff note shoot benefit
   claim alpha
 bip_39_word_space_2: chicken venture
 bip_39_word_space_3: chicken venture duck
-bip_39_word_space_4: chicken venture duck plug
-bip_39_word_space_5: chicken venture duck plug office
-bip_39_word_space_6: chicken venture duck plug office liberty
-bip_39_word_space_7: chicken venture duck plug office liberty staff
-bip_39_word_space_8: chicken venture duck plug office liberty staff note
-bip_39_word_space_9: chicken venture duck plug office liberty staff note shoot
-bip_39_word_underscore_1: chicken
-bip_39_word_underscore_10: chicken_venture_duck_plug_office_liberty_staff_note_shoot_benefit
-bip_39_word_underscore_11: chicken_venture_duck_plug_office_liberty_staff_note_shoot_benefit_claim
 bip_39_word_underscore_12: chicken_venture_duck_plug_office_liberty_staff_note_shoot_benefit_claim_alpha
 bip_39_word_underscore_2: chicken_venture
 bip_39_word_underscore_3: chicken_venture_duck
-bip_39_word_underscore_4: chicken_venture_duck_plug
-bip_39_word_underscore_5: chicken_venture_duck_plug_office
-bip_39_word_underscore_6: chicken_venture_duck_plug_office_liberty
-bip_39_word_underscore_7: chicken_venture_duck_plug_office_liberty_staff
-bip_39_word_underscore_8: chicken_venture_duck_plug_office_liberty_staff_note
-bip_39_word_underscore_9: chicken_venture_duck_plug_office_liberty_staff_note_shoot
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

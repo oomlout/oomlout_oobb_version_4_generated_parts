@@ -1,68 +1,9 @@
-bip_39_word_dash_1: picnic
-bip_39_word_dash_10: picnic-key-giggle-regret-oblige-skate-grid-wolf-decide-worth
-bip_39_word_dash_11: picnic-key-giggle-regret-oblige-skate-grid-wolf-decide-worth-float
 bip_39_word_dash_12: picnic-key-giggle-regret-oblige-skate-grid-wolf-decide-worth-float-admit
 bip_39_word_dash_2: picnic-key
 bip_39_word_dash_3: picnic-key-giggle
-bip_39_word_dash_4: picnic-key-giggle-regret
-bip_39_word_dash_5: picnic-key-giggle-regret-oblige
-bip_39_word_dash_6: picnic-key-giggle-regret-oblige-skate
-bip_39_word_dash_7: picnic-key-giggle-regret-oblige-skate-grid
-bip_39_word_dash_8: picnic-key-giggle-regret-oblige-skate-grid-wolf
-bip_39_word_dash_9: picnic-key-giggle-regret-oblige-skate-grid-wolf-decide
-bip_39_word_new_br_1: picnic
-bip_39_word_new_br_10: picnic<br>key<br>giggle<br>regret<br>oblige<br>skate<br>grid<br>wolf<br>decide<br>worth
-bip_39_word_new_br_11: picnic<br>key<br>giggle<br>regret<br>oblige<br>skate<br>grid<br>wolf<br>decide<br>worth<br>float
 bip_39_word_new_br_12: picnic<br>key<br>giggle<br>regret<br>oblige<br>skate<br>grid<br>wolf<br>decide<br>worth<br>float<br>admit
 bip_39_word_new_br_2: picnic<br>key
 bip_39_word_new_br_3: picnic<br>key<br>giggle
-bip_39_word_new_br_4: picnic<br>key<br>giggle<br>regret
-bip_39_word_new_br_5: picnic<br>key<br>giggle<br>regret<br>oblige
-bip_39_word_new_br_6: picnic<br>key<br>giggle<br>regret<br>oblige<br>skate
-bip_39_word_new_br_7: picnic<br>key<br>giggle<br>regret<br>oblige<br>skate<br>grid
-bip_39_word_new_br_8: picnic<br>key<br>giggle<br>regret<br>oblige<br>skate<br>grid<br>wolf
-bip_39_word_new_br_9: picnic<br>key<br>giggle<br>regret<br>oblige<br>skate<br>grid<br>wolf<br>decide
-bip_39_word_new_line_1: picnic
-bip_39_word_new_line_10: 'picnic
-
-  key
-
-  giggle
-
-  regret
-
-  oblige
-
-  skate
-
-  grid
-
-  wolf
-
-  decide
-
-  worth'
-bip_39_word_new_line_11: 'picnic
-
-  key
-
-  giggle
-
-  regret
-
-  oblige
-
-  skate
-
-  grid
-
-  wolf
-
-  decide
-
-  worth
-
-  float'
 bip_39_word_new_line_12: 'picnic
 
   key
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'picnic
   key
 
   giggle'
-bip_39_word_new_line_4: 'picnic
-
-  key
-
-  giggle
-
-  regret'
-bip_39_word_new_line_5: 'picnic
-
-  key
-
-  giggle
-
-  regret
-
-  oblige'
-bip_39_word_new_line_6: 'picnic
-
-  key
-
-  giggle
-
-  regret
-
-  oblige
-
-  skate'
-bip_39_word_new_line_7: 'picnic
-
-  key
-
-  giggle
-
-  regret
-
-  oblige
-
-  skate
-
-  grid'
-bip_39_word_new_line_8: 'picnic
-
-  key
-
-  giggle
-
-  regret
-
-  oblige
-
-  skate
-
-  grid
-
-  wolf'
-bip_39_word_new_line_9: 'picnic
-
-  key
-
-  giggle
-
-  regret
-
-  oblige
-
-  skate
-
-  grid
-
-  wolf
-
-  decide'
-bip_39_word_no_space_1: picnic
-bip_39_word_no_space_10: picnickeygiggleregretobligeskategridwolfdecideworth
-bip_39_word_no_space_11: picnickeygiggleregretobligeskategridwolfdecideworthfloat
 bip_39_word_no_space_12: picnickeygiggleregretobligeskategridwolfdecideworthfloatadmit
 bip_39_word_no_space_2: picnickey
 bip_39_word_no_space_3: picnickeygiggle
-bip_39_word_no_space_4: picnickeygiggleregret
-bip_39_word_no_space_5: picnickeygiggleregretoblige
-bip_39_word_no_space_6: picnickeygiggleregretobligeskate
-bip_39_word_no_space_7: picnickeygiggleregretobligeskategrid
-bip_39_word_no_space_8: picnickeygiggleregretobligeskategridwolf
-bip_39_word_no_space_9: picnickeygiggleregretobligeskategridwolfdecide
-bip_39_word_space_0:
-- picnic
-- key
-- giggle
-- regret
-- oblige
-- skate
-- grid
-- wolf
-- decide
-- worth
-- float
-- admit
-bip_39_word_space_1: picnic
-bip_39_word_space_10: picnic key giggle regret oblige skate grid wolf decide worth
-bip_39_word_space_11: picnic key giggle regret oblige skate grid wolf decide worth
-  float
 bip_39_word_space_12: picnic key giggle regret oblige skate grid wolf decide worth
   float admit
 bip_39_word_space_2: picnic key
 bip_39_word_space_3: picnic key giggle
-bip_39_word_space_4: picnic key giggle regret
-bip_39_word_space_5: picnic key giggle regret oblige
-bip_39_word_space_6: picnic key giggle regret oblige skate
-bip_39_word_space_7: picnic key giggle regret oblige skate grid
-bip_39_word_space_8: picnic key giggle regret oblige skate grid wolf
-bip_39_word_space_9: picnic key giggle regret oblige skate grid wolf decide
-bip_39_word_underscore_1: picnic
-bip_39_word_underscore_10: picnic_key_giggle_regret_oblige_skate_grid_wolf_decide_worth
-bip_39_word_underscore_11: picnic_key_giggle_regret_oblige_skate_grid_wolf_decide_worth_float
 bip_39_word_underscore_12: picnic_key_giggle_regret_oblige_skate_grid_wolf_decide_worth_float_admit
 bip_39_word_underscore_2: picnic_key
 bip_39_word_underscore_3: picnic_key_giggle
-bip_39_word_underscore_4: picnic_key_giggle_regret
-bip_39_word_underscore_5: picnic_key_giggle_regret_oblige
-bip_39_word_underscore_6: picnic_key_giggle_regret_oblige_skate
-bip_39_word_underscore_7: picnic_key_giggle_regret_oblige_skate_grid
-bip_39_word_underscore_8: picnic_key_giggle_regret_oblige_skate_grid_wolf
-bip_39_word_underscore_9: picnic_key_giggle_regret_oblige_skate_grid_wolf_decide
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: west
-bip_39_word_dash_10: west-science-hood-orient-security-panic-corn-forget-reject-upper
-bip_39_word_dash_11: west-science-hood-orient-security-panic-corn-forget-reject-upper-hazard
 bip_39_word_dash_12: west-science-hood-orient-security-panic-corn-forget-reject-upper-hazard-air
 bip_39_word_dash_2: west-science
 bip_39_word_dash_3: west-science-hood
-bip_39_word_dash_4: west-science-hood-orient
-bip_39_word_dash_5: west-science-hood-orient-security
-bip_39_word_dash_6: west-science-hood-orient-security-panic
-bip_39_word_dash_7: west-science-hood-orient-security-panic-corn
-bip_39_word_dash_8: west-science-hood-orient-security-panic-corn-forget
-bip_39_word_dash_9: west-science-hood-orient-security-panic-corn-forget-reject
-bip_39_word_new_br_1: west
-bip_39_word_new_br_10: west<br>science<br>hood<br>orient<br>security<br>panic<br>corn<br>forget<br>reject<br>upper
-bip_39_word_new_br_11: west<br>science<br>hood<br>orient<br>security<br>panic<br>corn<br>forget<br>reject<br>upper<br>hazard
 bip_39_word_new_br_12: west<br>science<br>hood<br>orient<br>security<br>panic<br>corn<br>forget<br>reject<br>upper<br>hazard<br>air
 bip_39_word_new_br_2: west<br>science
 bip_39_word_new_br_3: west<br>science<br>hood
-bip_39_word_new_br_4: west<br>science<br>hood<br>orient
-bip_39_word_new_br_5: west<br>science<br>hood<br>orient<br>security
-bip_39_word_new_br_6: west<br>science<br>hood<br>orient<br>security<br>panic
-bip_39_word_new_br_7: west<br>science<br>hood<br>orient<br>security<br>panic<br>corn
-bip_39_word_new_br_8: west<br>science<br>hood<br>orient<br>security<br>panic<br>corn<br>forget
-bip_39_word_new_br_9: west<br>science<br>hood<br>orient<br>security<br>panic<br>corn<br>forget<br>reject
-bip_39_word_new_line_1: west
-bip_39_word_new_line_10: 'west
-
-  science
-
-  hood
-
-  orient
-
-  security
-
-  panic
-
-  corn
-
-  forget
-
-  reject
-
-  upper'
-bip_39_word_new_line_11: 'west
-
-  science
-
-  hood
-
-  orient
-
-  security
-
-  panic
-
-  corn
-
-  forget
-
-  reject
-
-  upper
-
-  hazard'
 bip_39_word_new_line_12: 'west
 
   science
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'west
   science
 
   hood'
-bip_39_word_new_line_4: 'west
-
-  science
-
-  hood
-
-  orient'
-bip_39_word_new_line_5: 'west
-
-  science
-
-  hood
-
-  orient
-
-  security'
-bip_39_word_new_line_6: 'west
-
-  science
-
-  hood
-
-  orient
-
-  security
-
-  panic'
-bip_39_word_new_line_7: 'west
-
-  science
-
-  hood
-
-  orient
-
-  security
-
-  panic
-
-  corn'
-bip_39_word_new_line_8: 'west
-
-  science
-
-  hood
-
-  orient
-
-  security
-
-  panic
-
-  corn
-
-  forget'
-bip_39_word_new_line_9: 'west
-
-  science
-
-  hood
-
-  orient
-
-  security
-
-  panic
-
-  corn
-
-  forget
-
-  reject'
-bip_39_word_no_space_1: west
-bip_39_word_no_space_10: westsciencehoodorientsecuritypaniccornforgetrejectupper
-bip_39_word_no_space_11: westsciencehoodorientsecuritypaniccornforgetrejectupperhazard
 bip_39_word_no_space_12: westsciencehoodorientsecuritypaniccornforgetrejectupperhazardair
 bip_39_word_no_space_2: westscience
 bip_39_word_no_space_3: westsciencehood
-bip_39_word_no_space_4: westsciencehoodorient
-bip_39_word_no_space_5: westsciencehoodorientsecurity
-bip_39_word_no_space_6: westsciencehoodorientsecuritypanic
-bip_39_word_no_space_7: westsciencehoodorientsecuritypaniccorn
-bip_39_word_no_space_8: westsciencehoodorientsecuritypaniccornforget
-bip_39_word_no_space_9: westsciencehoodorientsecuritypaniccornforgetreject
-bip_39_word_space_0:
-- west
-- science
-- hood
-- orient
-- security
-- panic
-- corn
-- forget
-- reject
-- upper
-- hazard
-- air
-bip_39_word_space_1: west
-bip_39_word_space_10: west science hood orient security panic corn forget reject upper
-bip_39_word_space_11: west science hood orient security panic corn forget reject upper
-  hazard
 bip_39_word_space_12: west science hood orient security panic corn forget reject upper
   hazard air
 bip_39_word_space_2: west science
 bip_39_word_space_3: west science hood
-bip_39_word_space_4: west science hood orient
-bip_39_word_space_5: west science hood orient security
-bip_39_word_space_6: west science hood orient security panic
-bip_39_word_space_7: west science hood orient security panic corn
-bip_39_word_space_8: west science hood orient security panic corn forget
-bip_39_word_space_9: west science hood orient security panic corn forget reject
-bip_39_word_underscore_1: west
-bip_39_word_underscore_10: west_science_hood_orient_security_panic_corn_forget_reject_upper
-bip_39_word_underscore_11: west_science_hood_orient_security_panic_corn_forget_reject_upper_hazard
 bip_39_word_underscore_12: west_science_hood_orient_security_panic_corn_forget_reject_upper_hazard_air
 bip_39_word_underscore_2: west_science
 bip_39_word_underscore_3: west_science_hood
-bip_39_word_underscore_4: west_science_hood_orient
-bip_39_word_underscore_5: west_science_hood_orient_security
-bip_39_word_underscore_6: west_science_hood_orient_security_panic
-bip_39_word_underscore_7: west_science_hood_orient_security_panic_corn
-bip_39_word_underscore_8: west_science_hood_orient_security_panic_corn_forget
-bip_39_word_underscore_9: west_science_hood_orient_security_panic_corn_forget_reject
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

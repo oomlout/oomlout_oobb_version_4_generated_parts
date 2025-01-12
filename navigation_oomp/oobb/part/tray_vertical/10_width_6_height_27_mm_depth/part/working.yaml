@@ -1,68 +1,9 @@
-bip_39_word_dash_1: mansion
-bip_39_word_dash_10: mansion-bind-merit-rabbit-drill-onion-able-want-load-cook
-bip_39_word_dash_11: mansion-bind-merit-rabbit-drill-onion-able-want-load-cook-advance
 bip_39_word_dash_12: mansion-bind-merit-rabbit-drill-onion-able-want-load-cook-advance-around
 bip_39_word_dash_2: mansion-bind
 bip_39_word_dash_3: mansion-bind-merit
-bip_39_word_dash_4: mansion-bind-merit-rabbit
-bip_39_word_dash_5: mansion-bind-merit-rabbit-drill
-bip_39_word_dash_6: mansion-bind-merit-rabbit-drill-onion
-bip_39_word_dash_7: mansion-bind-merit-rabbit-drill-onion-able
-bip_39_word_dash_8: mansion-bind-merit-rabbit-drill-onion-able-want
-bip_39_word_dash_9: mansion-bind-merit-rabbit-drill-onion-able-want-load
-bip_39_word_new_br_1: mansion
-bip_39_word_new_br_10: mansion<br>bind<br>merit<br>rabbit<br>drill<br>onion<br>able<br>want<br>load<br>cook
-bip_39_word_new_br_11: mansion<br>bind<br>merit<br>rabbit<br>drill<br>onion<br>able<br>want<br>load<br>cook<br>advance
 bip_39_word_new_br_12: mansion<br>bind<br>merit<br>rabbit<br>drill<br>onion<br>able<br>want<br>load<br>cook<br>advance<br>around
 bip_39_word_new_br_2: mansion<br>bind
 bip_39_word_new_br_3: mansion<br>bind<br>merit
-bip_39_word_new_br_4: mansion<br>bind<br>merit<br>rabbit
-bip_39_word_new_br_5: mansion<br>bind<br>merit<br>rabbit<br>drill
-bip_39_word_new_br_6: mansion<br>bind<br>merit<br>rabbit<br>drill<br>onion
-bip_39_word_new_br_7: mansion<br>bind<br>merit<br>rabbit<br>drill<br>onion<br>able
-bip_39_word_new_br_8: mansion<br>bind<br>merit<br>rabbit<br>drill<br>onion<br>able<br>want
-bip_39_word_new_br_9: mansion<br>bind<br>merit<br>rabbit<br>drill<br>onion<br>able<br>want<br>load
-bip_39_word_new_line_1: mansion
-bip_39_word_new_line_10: 'mansion
-
-  bind
-
-  merit
-
-  rabbit
-
-  drill
-
-  onion
-
-  able
-
-  want
-
-  load
-
-  cook'
-bip_39_word_new_line_11: 'mansion
-
-  bind
-
-  merit
-
-  rabbit
-
-  drill
-
-  onion
-
-  able
-
-  want
-
-  load
-
-  cook
-
-  advance'
 bip_39_word_new_line_12: 'mansion
 
   bind
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'mansion
   bind
 
   merit'
-bip_39_word_new_line_4: 'mansion
-
-  bind
-
-  merit
-
-  rabbit'
-bip_39_word_new_line_5: 'mansion
-
-  bind
-
-  merit
-
-  rabbit
-
-  drill'
-bip_39_word_new_line_6: 'mansion
-
-  bind
-
-  merit
-
-  rabbit
-
-  drill
-
-  onion'
-bip_39_word_new_line_7: 'mansion
-
-  bind
-
-  merit
-
-  rabbit
-
-  drill
-
-  onion
-
-  able'
-bip_39_word_new_line_8: 'mansion
-
-  bind
-
-  merit
-
-  rabbit
-
-  drill
-
-  onion
-
-  able
-
-  want'
-bip_39_word_new_line_9: 'mansion
-
-  bind
-
-  merit
-
-  rabbit
-
-  drill
-
-  onion
-
-  able
-
-  want
-
-  load'
-bip_39_word_no_space_1: mansion
-bip_39_word_no_space_10: mansionbindmeritrabbitdrillonionablewantloadcook
-bip_39_word_no_space_11: mansionbindmeritrabbitdrillonionablewantloadcookadvance
 bip_39_word_no_space_12: mansionbindmeritrabbitdrillonionablewantloadcookadvancearound
 bip_39_word_no_space_2: mansionbind
 bip_39_word_no_space_3: mansionbindmerit
-bip_39_word_no_space_4: mansionbindmeritrabbit
-bip_39_word_no_space_5: mansionbindmeritrabbitdrill
-bip_39_word_no_space_6: mansionbindmeritrabbitdrillonion
-bip_39_word_no_space_7: mansionbindmeritrabbitdrillonionable
-bip_39_word_no_space_8: mansionbindmeritrabbitdrillonionablewant
-bip_39_word_no_space_9: mansionbindmeritrabbitdrillonionablewantload
-bip_39_word_space_0:
-- mansion
-- bind
-- merit
-- rabbit
-- drill
-- onion
-- able
-- want
-- load
-- cook
-- advance
-- around
-bip_39_word_space_1: mansion
-bip_39_word_space_10: mansion bind merit rabbit drill onion able want load cook
-bip_39_word_space_11: mansion bind merit rabbit drill onion able want load cook advance
 bip_39_word_space_12: mansion bind merit rabbit drill onion able want load cook advance
   around
 bip_39_word_space_2: mansion bind
 bip_39_word_space_3: mansion bind merit
-bip_39_word_space_4: mansion bind merit rabbit
-bip_39_word_space_5: mansion bind merit rabbit drill
-bip_39_word_space_6: mansion bind merit rabbit drill onion
-bip_39_word_space_7: mansion bind merit rabbit drill onion able
-bip_39_word_space_8: mansion bind merit rabbit drill onion able want
-bip_39_word_space_9: mansion bind merit rabbit drill onion able want load
-bip_39_word_underscore_1: mansion
-bip_39_word_underscore_10: mansion_bind_merit_rabbit_drill_onion_able_want_load_cook
-bip_39_word_underscore_11: mansion_bind_merit_rabbit_drill_onion_able_want_load_cook_advance
 bip_39_word_underscore_12: mansion_bind_merit_rabbit_drill_onion_able_want_load_cook_advance_around
 bip_39_word_underscore_2: mansion_bind
 bip_39_word_underscore_3: mansion_bind_merit
-bip_39_word_underscore_4: mansion_bind_merit_rabbit
-bip_39_word_underscore_5: mansion_bind_merit_rabbit_drill
-bip_39_word_underscore_6: mansion_bind_merit_rabbit_drill_onion
-bip_39_word_underscore_7: mansion_bind_merit_rabbit_drill_onion_able
-bip_39_word_underscore_8: mansion_bind_merit_rabbit_drill_onion_able_want
-bip_39_word_underscore_9: mansion_bind_merit_rabbit_drill_onion_able_want_load
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

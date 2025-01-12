@@ -1,68 +1,9 @@
-bip_39_word_dash_1: subject
-bip_39_word_dash_10: subject-horn-long-organ-grocery-symptom-donor-shaft-soon-wash
-bip_39_word_dash_11: subject-horn-long-organ-grocery-symptom-donor-shaft-soon-wash-abandon
 bip_39_word_dash_12: subject-horn-long-organ-grocery-symptom-donor-shaft-soon-wash-abandon-apology
 bip_39_word_dash_2: subject-horn
 bip_39_word_dash_3: subject-horn-long
-bip_39_word_dash_4: subject-horn-long-organ
-bip_39_word_dash_5: subject-horn-long-organ-grocery
-bip_39_word_dash_6: subject-horn-long-organ-grocery-symptom
-bip_39_word_dash_7: subject-horn-long-organ-grocery-symptom-donor
-bip_39_word_dash_8: subject-horn-long-organ-grocery-symptom-donor-shaft
-bip_39_word_dash_9: subject-horn-long-organ-grocery-symptom-donor-shaft-soon
-bip_39_word_new_br_1: subject
-bip_39_word_new_br_10: subject<br>horn<br>long<br>organ<br>grocery<br>symptom<br>donor<br>shaft<br>soon<br>wash
-bip_39_word_new_br_11: subject<br>horn<br>long<br>organ<br>grocery<br>symptom<br>donor<br>shaft<br>soon<br>wash<br>abandon
 bip_39_word_new_br_12: subject<br>horn<br>long<br>organ<br>grocery<br>symptom<br>donor<br>shaft<br>soon<br>wash<br>abandon<br>apology
 bip_39_word_new_br_2: subject<br>horn
 bip_39_word_new_br_3: subject<br>horn<br>long
-bip_39_word_new_br_4: subject<br>horn<br>long<br>organ
-bip_39_word_new_br_5: subject<br>horn<br>long<br>organ<br>grocery
-bip_39_word_new_br_6: subject<br>horn<br>long<br>organ<br>grocery<br>symptom
-bip_39_word_new_br_7: subject<br>horn<br>long<br>organ<br>grocery<br>symptom<br>donor
-bip_39_word_new_br_8: subject<br>horn<br>long<br>organ<br>grocery<br>symptom<br>donor<br>shaft
-bip_39_word_new_br_9: subject<br>horn<br>long<br>organ<br>grocery<br>symptom<br>donor<br>shaft<br>soon
-bip_39_word_new_line_1: subject
-bip_39_word_new_line_10: 'subject
-
-  horn
-
-  long
-
-  organ
-
-  grocery
-
-  symptom
-
-  donor
-
-  shaft
-
-  soon
-
-  wash'
-bip_39_word_new_line_11: 'subject
-
-  horn
-
-  long
-
-  organ
-
-  grocery
-
-  symptom
-
-  donor
-
-  shaft
-
-  soon
-
-  wash
-
-  abandon'
 bip_39_word_new_line_12: 'subject
 
   horn
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'subject
   horn
 
   long'
-bip_39_word_new_line_4: 'subject
-
-  horn
-
-  long
-
-  organ'
-bip_39_word_new_line_5: 'subject
-
-  horn
-
-  long
-
-  organ
-
-  grocery'
-bip_39_word_new_line_6: 'subject
-
-  horn
-
-  long
-
-  organ
-
-  grocery
-
-  symptom'
-bip_39_word_new_line_7: 'subject
-
-  horn
-
-  long
-
-  organ
-
-  grocery
-
-  symptom
-
-  donor'
-bip_39_word_new_line_8: 'subject
-
-  horn
-
-  long
-
-  organ
-
-  grocery
-
-  symptom
-
-  donor
-
-  shaft'
-bip_39_word_new_line_9: 'subject
-
-  horn
-
-  long
-
-  organ
-
-  grocery
-
-  symptom
-
-  donor
-
-  shaft
-
-  soon'
-bip_39_word_no_space_1: subject
-bip_39_word_no_space_10: subjecthornlongorgangrocerysymptomdonorshaftsoonwash
-bip_39_word_no_space_11: subjecthornlongorgangrocerysymptomdonorshaftsoonwashabandon
 bip_39_word_no_space_12: subjecthornlongorgangrocerysymptomdonorshaftsoonwashabandonapology
 bip_39_word_no_space_2: subjecthorn
 bip_39_word_no_space_3: subjecthornlong
-bip_39_word_no_space_4: subjecthornlongorgan
-bip_39_word_no_space_5: subjecthornlongorgangrocery
-bip_39_word_no_space_6: subjecthornlongorgangrocerysymptom
-bip_39_word_no_space_7: subjecthornlongorgangrocerysymptomdonor
-bip_39_word_no_space_8: subjecthornlongorgangrocerysymptomdonorshaft
-bip_39_word_no_space_9: subjecthornlongorgangrocerysymptomdonorshaftsoon
-bip_39_word_space_0:
-- subject
-- horn
-- long
-- organ
-- grocery
-- symptom
-- donor
-- shaft
-- soon
-- wash
-- abandon
-- apology
-bip_39_word_space_1: subject
-bip_39_word_space_10: subject horn long organ grocery symptom donor shaft soon wash
-bip_39_word_space_11: subject horn long organ grocery symptom donor shaft soon wash
-  abandon
 bip_39_word_space_12: subject horn long organ grocery symptom donor shaft soon wash
   abandon apology
 bip_39_word_space_2: subject horn
 bip_39_word_space_3: subject horn long
-bip_39_word_space_4: subject horn long organ
-bip_39_word_space_5: subject horn long organ grocery
-bip_39_word_space_6: subject horn long organ grocery symptom
-bip_39_word_space_7: subject horn long organ grocery symptom donor
-bip_39_word_space_8: subject horn long organ grocery symptom donor shaft
-bip_39_word_space_9: subject horn long organ grocery symptom donor shaft soon
-bip_39_word_underscore_1: subject
-bip_39_word_underscore_10: subject_horn_long_organ_grocery_symptom_donor_shaft_soon_wash
-bip_39_word_underscore_11: subject_horn_long_organ_grocery_symptom_donor_shaft_soon_wash_abandon
 bip_39_word_underscore_12: subject_horn_long_organ_grocery_symptom_donor_shaft_soon_wash_abandon_apology
 bip_39_word_underscore_2: subject_horn
 bip_39_word_underscore_3: subject_horn_long
-bip_39_word_underscore_4: subject_horn_long_organ
-bip_39_word_underscore_5: subject_horn_long_organ_grocery
-bip_39_word_underscore_6: subject_horn_long_organ_grocery_symptom
-bip_39_word_underscore_7: subject_horn_long_organ_grocery_symptom_donor
-bip_39_word_underscore_8: subject_horn_long_organ_grocery_symptom_donor_shaft
-bip_39_word_underscore_9: subject_horn_long_organ_grocery_symptom_donor_shaft_soon
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

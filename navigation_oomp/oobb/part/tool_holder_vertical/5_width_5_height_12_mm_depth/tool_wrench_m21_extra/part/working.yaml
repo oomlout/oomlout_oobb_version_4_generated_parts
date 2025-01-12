@@ -1,68 +1,9 @@
-bip_39_word_dash_1: power
-bip_39_word_dash_10: power-come-kitten-climb-weekend-rely-local-obvious-student-harvest
-bip_39_word_dash_11: power-come-kitten-climb-weekend-rely-local-obvious-student-harvest-innocent
 bip_39_word_dash_12: power-come-kitten-climb-weekend-rely-local-obvious-student-harvest-innocent-another
 bip_39_word_dash_2: power-come
 bip_39_word_dash_3: power-come-kitten
-bip_39_word_dash_4: power-come-kitten-climb
-bip_39_word_dash_5: power-come-kitten-climb-weekend
-bip_39_word_dash_6: power-come-kitten-climb-weekend-rely
-bip_39_word_dash_7: power-come-kitten-climb-weekend-rely-local
-bip_39_word_dash_8: power-come-kitten-climb-weekend-rely-local-obvious
-bip_39_word_dash_9: power-come-kitten-climb-weekend-rely-local-obvious-student
-bip_39_word_new_br_1: power
-bip_39_word_new_br_10: power<br>come<br>kitten<br>climb<br>weekend<br>rely<br>local<br>obvious<br>student<br>harvest
-bip_39_word_new_br_11: power<br>come<br>kitten<br>climb<br>weekend<br>rely<br>local<br>obvious<br>student<br>harvest<br>innocent
 bip_39_word_new_br_12: power<br>come<br>kitten<br>climb<br>weekend<br>rely<br>local<br>obvious<br>student<br>harvest<br>innocent<br>another
 bip_39_word_new_br_2: power<br>come
 bip_39_word_new_br_3: power<br>come<br>kitten
-bip_39_word_new_br_4: power<br>come<br>kitten<br>climb
-bip_39_word_new_br_5: power<br>come<br>kitten<br>climb<br>weekend
-bip_39_word_new_br_6: power<br>come<br>kitten<br>climb<br>weekend<br>rely
-bip_39_word_new_br_7: power<br>come<br>kitten<br>climb<br>weekend<br>rely<br>local
-bip_39_word_new_br_8: power<br>come<br>kitten<br>climb<br>weekend<br>rely<br>local<br>obvious
-bip_39_word_new_br_9: power<br>come<br>kitten<br>climb<br>weekend<br>rely<br>local<br>obvious<br>student
-bip_39_word_new_line_1: power
-bip_39_word_new_line_10: 'power
-
-  come
-
-  kitten
-
-  climb
-
-  weekend
-
-  rely
-
-  local
-
-  obvious
-
-  student
-
-  harvest'
-bip_39_word_new_line_11: 'power
-
-  come
-
-  kitten
-
-  climb
-
-  weekend
-
-  rely
-
-  local
-
-  obvious
-
-  student
-
-  harvest
-
-  innocent'
 bip_39_word_new_line_12: 'power
 
   come
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'power
   come
 
   kitten'
-bip_39_word_new_line_4: 'power
-
-  come
-
-  kitten
-
-  climb'
-bip_39_word_new_line_5: 'power
-
-  come
-
-  kitten
-
-  climb
-
-  weekend'
-bip_39_word_new_line_6: 'power
-
-  come
-
-  kitten
-
-  climb
-
-  weekend
-
-  rely'
-bip_39_word_new_line_7: 'power
-
-  come
-
-  kitten
-
-  climb
-
-  weekend
-
-  rely
-
-  local'
-bip_39_word_new_line_8: 'power
-
-  come
-
-  kitten
-
-  climb
-
-  weekend
-
-  rely
-
-  local
-
-  obvious'
-bip_39_word_new_line_9: 'power
-
-  come
-
-  kitten
-
-  climb
-
-  weekend
-
-  rely
-
-  local
-
-  obvious
-
-  student'
-bip_39_word_no_space_1: power
-bip_39_word_no_space_10: powercomekittenclimbweekendrelylocalobviousstudentharvest
-bip_39_word_no_space_11: powercomekittenclimbweekendrelylocalobviousstudentharvestinnocent
 bip_39_word_no_space_12: powercomekittenclimbweekendrelylocalobviousstudentharvestinnocentanother
 bip_39_word_no_space_2: powercome
 bip_39_word_no_space_3: powercomekitten
-bip_39_word_no_space_4: powercomekittenclimb
-bip_39_word_no_space_5: powercomekittenclimbweekend
-bip_39_word_no_space_6: powercomekittenclimbweekendrely
-bip_39_word_no_space_7: powercomekittenclimbweekendrelylocal
-bip_39_word_no_space_8: powercomekittenclimbweekendrelylocalobvious
-bip_39_word_no_space_9: powercomekittenclimbweekendrelylocalobviousstudent
-bip_39_word_space_0:
-- power
-- come
-- kitten
-- climb
-- weekend
-- rely
-- local
-- obvious
-- student
-- harvest
-- innocent
-- another
-bip_39_word_space_1: power
-bip_39_word_space_10: power come kitten climb weekend rely local obvious student harvest
-bip_39_word_space_11: power come kitten climb weekend rely local obvious student harvest
-  innocent
 bip_39_word_space_12: power come kitten climb weekend rely local obvious student harvest
   innocent another
 bip_39_word_space_2: power come
 bip_39_word_space_3: power come kitten
-bip_39_word_space_4: power come kitten climb
-bip_39_word_space_5: power come kitten climb weekend
-bip_39_word_space_6: power come kitten climb weekend rely
-bip_39_word_space_7: power come kitten climb weekend rely local
-bip_39_word_space_8: power come kitten climb weekend rely local obvious
-bip_39_word_space_9: power come kitten climb weekend rely local obvious student
-bip_39_word_underscore_1: power
-bip_39_word_underscore_10: power_come_kitten_climb_weekend_rely_local_obvious_student_harvest
-bip_39_word_underscore_11: power_come_kitten_climb_weekend_rely_local_obvious_student_harvest_innocent
 bip_39_word_underscore_12: power_come_kitten_climb_weekend_rely_local_obvious_student_harvest_innocent_another
 bip_39_word_underscore_2: power_come
 bip_39_word_underscore_3: power_come_kitten
-bip_39_word_underscore_4: power_come_kitten_climb
-bip_39_word_underscore_5: power_come_kitten_climb_weekend
-bip_39_word_underscore_6: power_come_kitten_climb_weekend_rely
-bip_39_word_underscore_7: power_come_kitten_climb_weekend_rely_local
-bip_39_word_underscore_8: power_come_kitten_climb_weekend_rely_local_obvious
-bip_39_word_underscore_9: power_come_kitten_climb_weekend_rely_local_obvious_student
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

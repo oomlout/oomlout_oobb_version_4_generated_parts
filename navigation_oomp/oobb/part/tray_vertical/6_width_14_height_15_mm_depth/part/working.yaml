@@ -1,68 +1,9 @@
-bip_39_word_dash_1: indoor
-bip_39_word_dash_10: indoor-banana-shy-oak-peasant-clerk-chef-car-opinion-access
-bip_39_word_dash_11: indoor-banana-shy-oak-peasant-clerk-chef-car-opinion-access-ball
 bip_39_word_dash_12: indoor-banana-shy-oak-peasant-clerk-chef-car-opinion-access-ball-amount
 bip_39_word_dash_2: indoor-banana
 bip_39_word_dash_3: indoor-banana-shy
-bip_39_word_dash_4: indoor-banana-shy-oak
-bip_39_word_dash_5: indoor-banana-shy-oak-peasant
-bip_39_word_dash_6: indoor-banana-shy-oak-peasant-clerk
-bip_39_word_dash_7: indoor-banana-shy-oak-peasant-clerk-chef
-bip_39_word_dash_8: indoor-banana-shy-oak-peasant-clerk-chef-car
-bip_39_word_dash_9: indoor-banana-shy-oak-peasant-clerk-chef-car-opinion
-bip_39_word_new_br_1: indoor
-bip_39_word_new_br_10: indoor<br>banana<br>shy<br>oak<br>peasant<br>clerk<br>chef<br>car<br>opinion<br>access
-bip_39_word_new_br_11: indoor<br>banana<br>shy<br>oak<br>peasant<br>clerk<br>chef<br>car<br>opinion<br>access<br>ball
 bip_39_word_new_br_12: indoor<br>banana<br>shy<br>oak<br>peasant<br>clerk<br>chef<br>car<br>opinion<br>access<br>ball<br>amount
 bip_39_word_new_br_2: indoor<br>banana
 bip_39_word_new_br_3: indoor<br>banana<br>shy
-bip_39_word_new_br_4: indoor<br>banana<br>shy<br>oak
-bip_39_word_new_br_5: indoor<br>banana<br>shy<br>oak<br>peasant
-bip_39_word_new_br_6: indoor<br>banana<br>shy<br>oak<br>peasant<br>clerk
-bip_39_word_new_br_7: indoor<br>banana<br>shy<br>oak<br>peasant<br>clerk<br>chef
-bip_39_word_new_br_8: indoor<br>banana<br>shy<br>oak<br>peasant<br>clerk<br>chef<br>car
-bip_39_word_new_br_9: indoor<br>banana<br>shy<br>oak<br>peasant<br>clerk<br>chef<br>car<br>opinion
-bip_39_word_new_line_1: indoor
-bip_39_word_new_line_10: 'indoor
-
-  banana
-
-  shy
-
-  oak
-
-  peasant
-
-  clerk
-
-  chef
-
-  car
-
-  opinion
-
-  access'
-bip_39_word_new_line_11: 'indoor
-
-  banana
-
-  shy
-
-  oak
-
-  peasant
-
-  clerk
-
-  chef
-
-  car
-
-  opinion
-
-  access
-
-  ball'
 bip_39_word_new_line_12: 'indoor
 
   banana
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'indoor
   banana
 
   shy'
-bip_39_word_new_line_4: 'indoor
-
-  banana
-
-  shy
-
-  oak'
-bip_39_word_new_line_5: 'indoor
-
-  banana
-
-  shy
-
-  oak
-
-  peasant'
-bip_39_word_new_line_6: 'indoor
-
-  banana
-
-  shy
-
-  oak
-
-  peasant
-
-  clerk'
-bip_39_word_new_line_7: 'indoor
-
-  banana
-
-  shy
-
-  oak
-
-  peasant
-
-  clerk
-
-  chef'
-bip_39_word_new_line_8: 'indoor
-
-  banana
-
-  shy
-
-  oak
-
-  peasant
-
-  clerk
-
-  chef
-
-  car'
-bip_39_word_new_line_9: 'indoor
-
-  banana
-
-  shy
-
-  oak
-
-  peasant
-
-  clerk
-
-  chef
-
-  car
-
-  opinion'
-bip_39_word_no_space_1: indoor
-bip_39_word_no_space_10: indoorbananashyoakpeasantclerkchefcaropinionaccess
-bip_39_word_no_space_11: indoorbananashyoakpeasantclerkchefcaropinionaccessball
 bip_39_word_no_space_12: indoorbananashyoakpeasantclerkchefcaropinionaccessballamount
 bip_39_word_no_space_2: indoorbanana
 bip_39_word_no_space_3: indoorbananashy
-bip_39_word_no_space_4: indoorbananashyoak
-bip_39_word_no_space_5: indoorbananashyoakpeasant
-bip_39_word_no_space_6: indoorbananashyoakpeasantclerk
-bip_39_word_no_space_7: indoorbananashyoakpeasantclerkchef
-bip_39_word_no_space_8: indoorbananashyoakpeasantclerkchefcar
-bip_39_word_no_space_9: indoorbananashyoakpeasantclerkchefcaropinion
-bip_39_word_space_0:
-- indoor
-- banana
-- shy
-- oak
-- peasant
-- clerk
-- chef
-- car
-- opinion
-- access
-- ball
-- amount
-bip_39_word_space_1: indoor
-bip_39_word_space_10: indoor banana shy oak peasant clerk chef car opinion access
-bip_39_word_space_11: indoor banana shy oak peasant clerk chef car opinion access
-  ball
 bip_39_word_space_12: indoor banana shy oak peasant clerk chef car opinion access
   ball amount
 bip_39_word_space_2: indoor banana
 bip_39_word_space_3: indoor banana shy
-bip_39_word_space_4: indoor banana shy oak
-bip_39_word_space_5: indoor banana shy oak peasant
-bip_39_word_space_6: indoor banana shy oak peasant clerk
-bip_39_word_space_7: indoor banana shy oak peasant clerk chef
-bip_39_word_space_8: indoor banana shy oak peasant clerk chef car
-bip_39_word_space_9: indoor banana shy oak peasant clerk chef car opinion
-bip_39_word_underscore_1: indoor
-bip_39_word_underscore_10: indoor_banana_shy_oak_peasant_clerk_chef_car_opinion_access
-bip_39_word_underscore_11: indoor_banana_shy_oak_peasant_clerk_chef_car_opinion_access_ball
 bip_39_word_underscore_12: indoor_banana_shy_oak_peasant_clerk_chef_car_opinion_access_ball_amount
 bip_39_word_underscore_2: indoor_banana
 bip_39_word_underscore_3: indoor_banana_shy
-bip_39_word_underscore_4: indoor_banana_shy_oak
-bip_39_word_underscore_5: indoor_banana_shy_oak_peasant
-bip_39_word_underscore_6: indoor_banana_shy_oak_peasant_clerk
-bip_39_word_underscore_7: indoor_banana_shy_oak_peasant_clerk_chef
-bip_39_word_underscore_8: indoor_banana_shy_oak_peasant_clerk_chef_car
-bip_39_word_underscore_9: indoor_banana_shy_oak_peasant_clerk_chef_car_opinion
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

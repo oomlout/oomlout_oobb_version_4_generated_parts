@@ -1,68 +1,9 @@
-bip_39_word_dash_1: canvas
-bip_39_word_dash_10: canvas-decline-olympic-beef-reopen-meadow-hard-assault-slab-equal
-bip_39_word_dash_11: canvas-decline-olympic-beef-reopen-meadow-hard-assault-slab-equal-hurt
 bip_39_word_dash_12: canvas-decline-olympic-beef-reopen-meadow-hard-assault-slab-equal-hurt-armed
 bip_39_word_dash_2: canvas-decline
 bip_39_word_dash_3: canvas-decline-olympic
-bip_39_word_dash_4: canvas-decline-olympic-beef
-bip_39_word_dash_5: canvas-decline-olympic-beef-reopen
-bip_39_word_dash_6: canvas-decline-olympic-beef-reopen-meadow
-bip_39_word_dash_7: canvas-decline-olympic-beef-reopen-meadow-hard
-bip_39_word_dash_8: canvas-decline-olympic-beef-reopen-meadow-hard-assault
-bip_39_word_dash_9: canvas-decline-olympic-beef-reopen-meadow-hard-assault-slab
-bip_39_word_new_br_1: canvas
-bip_39_word_new_br_10: canvas<br>decline<br>olympic<br>beef<br>reopen<br>meadow<br>hard<br>assault<br>slab<br>equal
-bip_39_word_new_br_11: canvas<br>decline<br>olympic<br>beef<br>reopen<br>meadow<br>hard<br>assault<br>slab<br>equal<br>hurt
 bip_39_word_new_br_12: canvas<br>decline<br>olympic<br>beef<br>reopen<br>meadow<br>hard<br>assault<br>slab<br>equal<br>hurt<br>armed
 bip_39_word_new_br_2: canvas<br>decline
 bip_39_word_new_br_3: canvas<br>decline<br>olympic
-bip_39_word_new_br_4: canvas<br>decline<br>olympic<br>beef
-bip_39_word_new_br_5: canvas<br>decline<br>olympic<br>beef<br>reopen
-bip_39_word_new_br_6: canvas<br>decline<br>olympic<br>beef<br>reopen<br>meadow
-bip_39_word_new_br_7: canvas<br>decline<br>olympic<br>beef<br>reopen<br>meadow<br>hard
-bip_39_word_new_br_8: canvas<br>decline<br>olympic<br>beef<br>reopen<br>meadow<br>hard<br>assault
-bip_39_word_new_br_9: canvas<br>decline<br>olympic<br>beef<br>reopen<br>meadow<br>hard<br>assault<br>slab
-bip_39_word_new_line_1: canvas
-bip_39_word_new_line_10: 'canvas
-
-  decline
-
-  olympic
-
-  beef
-
-  reopen
-
-  meadow
-
-  hard
-
-  assault
-
-  slab
-
-  equal'
-bip_39_word_new_line_11: 'canvas
-
-  decline
-
-  olympic
-
-  beef
-
-  reopen
-
-  meadow
-
-  hard
-
-  assault
-
-  slab
-
-  equal
-
-  hurt'
 bip_39_word_new_line_12: 'canvas
 
   decline
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'canvas
   decline
 
   olympic'
-bip_39_word_new_line_4: 'canvas
-
-  decline
-
-  olympic
-
-  beef'
-bip_39_word_new_line_5: 'canvas
-
-  decline
-
-  olympic
-
-  beef
-
-  reopen'
-bip_39_word_new_line_6: 'canvas
-
-  decline
-
-  olympic
-
-  beef
-
-  reopen
-
-  meadow'
-bip_39_word_new_line_7: 'canvas
-
-  decline
-
-  olympic
-
-  beef
-
-  reopen
-
-  meadow
-
-  hard'
-bip_39_word_new_line_8: 'canvas
-
-  decline
-
-  olympic
-
-  beef
-
-  reopen
-
-  meadow
-
-  hard
-
-  assault'
-bip_39_word_new_line_9: 'canvas
-
-  decline
-
-  olympic
-
-  beef
-
-  reopen
-
-  meadow
-
-  hard
-
-  assault
-
-  slab'
-bip_39_word_no_space_1: canvas
-bip_39_word_no_space_10: canvasdeclineolympicbeefreopenmeadowhardassaultslabequal
-bip_39_word_no_space_11: canvasdeclineolympicbeefreopenmeadowhardassaultslabequalhurt
 bip_39_word_no_space_12: canvasdeclineolympicbeefreopenmeadowhardassaultslabequalhurtarmed
 bip_39_word_no_space_2: canvasdecline
 bip_39_word_no_space_3: canvasdeclineolympic
-bip_39_word_no_space_4: canvasdeclineolympicbeef
-bip_39_word_no_space_5: canvasdeclineolympicbeefreopen
-bip_39_word_no_space_6: canvasdeclineolympicbeefreopenmeadow
-bip_39_word_no_space_7: canvasdeclineolympicbeefreopenmeadowhard
-bip_39_word_no_space_8: canvasdeclineolympicbeefreopenmeadowhardassault
-bip_39_word_no_space_9: canvasdeclineolympicbeefreopenmeadowhardassaultslab
-bip_39_word_space_0:
-- canvas
-- decline
-- olympic
-- beef
-- reopen
-- meadow
-- hard
-- assault
-- slab
-- equal
-- hurt
-- armed
-bip_39_word_space_1: canvas
-bip_39_word_space_10: canvas decline olympic beef reopen meadow hard assault slab
-  equal
-bip_39_word_space_11: canvas decline olympic beef reopen meadow hard assault slab
-  equal hurt
 bip_39_word_space_12: canvas decline olympic beef reopen meadow hard assault slab
   equal hurt armed
 bip_39_word_space_2: canvas decline
 bip_39_word_space_3: canvas decline olympic
-bip_39_word_space_4: canvas decline olympic beef
-bip_39_word_space_5: canvas decline olympic beef reopen
-bip_39_word_space_6: canvas decline olympic beef reopen meadow
-bip_39_word_space_7: canvas decline olympic beef reopen meadow hard
-bip_39_word_space_8: canvas decline olympic beef reopen meadow hard assault
-bip_39_word_space_9: canvas decline olympic beef reopen meadow hard assault slab
-bip_39_word_underscore_1: canvas
-bip_39_word_underscore_10: canvas_decline_olympic_beef_reopen_meadow_hard_assault_slab_equal
-bip_39_word_underscore_11: canvas_decline_olympic_beef_reopen_meadow_hard_assault_slab_equal_hurt
 bip_39_word_underscore_12: canvas_decline_olympic_beef_reopen_meadow_hard_assault_slab_equal_hurt_armed
 bip_39_word_underscore_2: canvas_decline
 bip_39_word_underscore_3: canvas_decline_olympic
-bip_39_word_underscore_4: canvas_decline_olympic_beef
-bip_39_word_underscore_5: canvas_decline_olympic_beef_reopen
-bip_39_word_underscore_6: canvas_decline_olympic_beef_reopen_meadow
-bip_39_word_underscore_7: canvas_decline_olympic_beef_reopen_meadow_hard
-bip_39_word_underscore_8: canvas_decline_olympic_beef_reopen_meadow_hard_assault
-bip_39_word_underscore_9: canvas_decline_olympic_beef_reopen_meadow_hard_assault_slab
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

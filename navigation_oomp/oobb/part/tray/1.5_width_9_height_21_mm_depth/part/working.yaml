@@ -1,68 +1,9 @@
-bip_39_word_dash_1: upgrade
-bip_39_word_dash_10: upgrade-order-glue-public-tilt-wool-bean-aerobic-broken-spoil
-bip_39_word_dash_11: upgrade-order-glue-public-tilt-wool-bean-aerobic-broken-spoil-sight
 bip_39_word_dash_12: upgrade-order-glue-public-tilt-wool-bean-aerobic-broken-spoil-sight-alley
 bip_39_word_dash_2: upgrade-order
 bip_39_word_dash_3: upgrade-order-glue
-bip_39_word_dash_4: upgrade-order-glue-public
-bip_39_word_dash_5: upgrade-order-glue-public-tilt
-bip_39_word_dash_6: upgrade-order-glue-public-tilt-wool
-bip_39_word_dash_7: upgrade-order-glue-public-tilt-wool-bean
-bip_39_word_dash_8: upgrade-order-glue-public-tilt-wool-bean-aerobic
-bip_39_word_dash_9: upgrade-order-glue-public-tilt-wool-bean-aerobic-broken
-bip_39_word_new_br_1: upgrade
-bip_39_word_new_br_10: upgrade<br>order<br>glue<br>public<br>tilt<br>wool<br>bean<br>aerobic<br>broken<br>spoil
-bip_39_word_new_br_11: upgrade<br>order<br>glue<br>public<br>tilt<br>wool<br>bean<br>aerobic<br>broken<br>spoil<br>sight
 bip_39_word_new_br_12: upgrade<br>order<br>glue<br>public<br>tilt<br>wool<br>bean<br>aerobic<br>broken<br>spoil<br>sight<br>alley
 bip_39_word_new_br_2: upgrade<br>order
 bip_39_word_new_br_3: upgrade<br>order<br>glue
-bip_39_word_new_br_4: upgrade<br>order<br>glue<br>public
-bip_39_word_new_br_5: upgrade<br>order<br>glue<br>public<br>tilt
-bip_39_word_new_br_6: upgrade<br>order<br>glue<br>public<br>tilt<br>wool
-bip_39_word_new_br_7: upgrade<br>order<br>glue<br>public<br>tilt<br>wool<br>bean
-bip_39_word_new_br_8: upgrade<br>order<br>glue<br>public<br>tilt<br>wool<br>bean<br>aerobic
-bip_39_word_new_br_9: upgrade<br>order<br>glue<br>public<br>tilt<br>wool<br>bean<br>aerobic<br>broken
-bip_39_word_new_line_1: upgrade
-bip_39_word_new_line_10: 'upgrade
-
-  order
-
-  glue
-
-  public
-
-  tilt
-
-  wool
-
-  bean
-
-  aerobic
-
-  broken
-
-  spoil'
-bip_39_word_new_line_11: 'upgrade
-
-  order
-
-  glue
-
-  public
-
-  tilt
-
-  wool
-
-  bean
-
-  aerobic
-
-  broken
-
-  spoil
-
-  sight'
 bip_39_word_new_line_12: 'upgrade
 
   order
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'upgrade
   order
 
   glue'
-bip_39_word_new_line_4: 'upgrade
-
-  order
-
-  glue
-
-  public'
-bip_39_word_new_line_5: 'upgrade
-
-  order
-
-  glue
-
-  public
-
-  tilt'
-bip_39_word_new_line_6: 'upgrade
-
-  order
-
-  glue
-
-  public
-
-  tilt
-
-  wool'
-bip_39_word_new_line_7: 'upgrade
-
-  order
-
-  glue
-
-  public
-
-  tilt
-
-  wool
-
-  bean'
-bip_39_word_new_line_8: 'upgrade
-
-  order
-
-  glue
-
-  public
-
-  tilt
-
-  wool
-
-  bean
-
-  aerobic'
-bip_39_word_new_line_9: 'upgrade
-
-  order
-
-  glue
-
-  public
-
-  tilt
-
-  wool
-
-  bean
-
-  aerobic
-
-  broken'
-bip_39_word_no_space_1: upgrade
-bip_39_word_no_space_10: upgradeordergluepublictiltwoolbeanaerobicbrokenspoil
-bip_39_word_no_space_11: upgradeordergluepublictiltwoolbeanaerobicbrokenspoilsight
 bip_39_word_no_space_12: upgradeordergluepublictiltwoolbeanaerobicbrokenspoilsightalley
 bip_39_word_no_space_2: upgradeorder
 bip_39_word_no_space_3: upgradeorderglue
-bip_39_word_no_space_4: upgradeordergluepublic
-bip_39_word_no_space_5: upgradeordergluepublictilt
-bip_39_word_no_space_6: upgradeordergluepublictiltwool
-bip_39_word_no_space_7: upgradeordergluepublictiltwoolbean
-bip_39_word_no_space_8: upgradeordergluepublictiltwoolbeanaerobic
-bip_39_word_no_space_9: upgradeordergluepublictiltwoolbeanaerobicbroken
-bip_39_word_space_0:
-- upgrade
-- order
-- glue
-- public
-- tilt
-- wool
-- bean
-- aerobic
-- broken
-- spoil
-- sight
-- alley
-bip_39_word_space_1: upgrade
-bip_39_word_space_10: upgrade order glue public tilt wool bean aerobic broken spoil
-bip_39_word_space_11: upgrade order glue public tilt wool bean aerobic broken spoil
-  sight
 bip_39_word_space_12: upgrade order glue public tilt wool bean aerobic broken spoil
   sight alley
 bip_39_word_space_2: upgrade order
 bip_39_word_space_3: upgrade order glue
-bip_39_word_space_4: upgrade order glue public
-bip_39_word_space_5: upgrade order glue public tilt
-bip_39_word_space_6: upgrade order glue public tilt wool
-bip_39_word_space_7: upgrade order glue public tilt wool bean
-bip_39_word_space_8: upgrade order glue public tilt wool bean aerobic
-bip_39_word_space_9: upgrade order glue public tilt wool bean aerobic broken
-bip_39_word_underscore_1: upgrade
-bip_39_word_underscore_10: upgrade_order_glue_public_tilt_wool_bean_aerobic_broken_spoil
-bip_39_word_underscore_11: upgrade_order_glue_public_tilt_wool_bean_aerobic_broken_spoil_sight
 bip_39_word_underscore_12: upgrade_order_glue_public_tilt_wool_bean_aerobic_broken_spoil_sight_alley
 bip_39_word_underscore_2: upgrade_order
 bip_39_word_underscore_3: upgrade_order_glue
-bip_39_word_underscore_4: upgrade_order_glue_public
-bip_39_word_underscore_5: upgrade_order_glue_public_tilt
-bip_39_word_underscore_6: upgrade_order_glue_public_tilt_wool
-bip_39_word_underscore_7: upgrade_order_glue_public_tilt_wool_bean
-bip_39_word_underscore_8: upgrade_order_glue_public_tilt_wool_bean_aerobic
-bip_39_word_underscore_9: upgrade_order_glue_public_tilt_wool_bean_aerobic_broken
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

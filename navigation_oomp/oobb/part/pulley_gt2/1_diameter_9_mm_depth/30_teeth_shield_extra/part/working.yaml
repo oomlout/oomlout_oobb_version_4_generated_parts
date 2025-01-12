@@ -1,68 +1,9 @@
-bip_39_word_dash_1: illegal
-bip_39_word_dash_10: illegal-sail-sad-garlic-panic-crucial-word-increase-spray-museum
-bip_39_word_dash_11: illegal-sail-sad-garlic-panic-crucial-word-increase-spray-museum-purchase
 bip_39_word_dash_12: illegal-sail-sad-garlic-panic-crucial-word-increase-spray-museum-purchase-audit
 bip_39_word_dash_2: illegal-sail
 bip_39_word_dash_3: illegal-sail-sad
-bip_39_word_dash_4: illegal-sail-sad-garlic
-bip_39_word_dash_5: illegal-sail-sad-garlic-panic
-bip_39_word_dash_6: illegal-sail-sad-garlic-panic-crucial
-bip_39_word_dash_7: illegal-sail-sad-garlic-panic-crucial-word
-bip_39_word_dash_8: illegal-sail-sad-garlic-panic-crucial-word-increase
-bip_39_word_dash_9: illegal-sail-sad-garlic-panic-crucial-word-increase-spray
-bip_39_word_new_br_1: illegal
-bip_39_word_new_br_10: illegal<br>sail<br>sad<br>garlic<br>panic<br>crucial<br>word<br>increase<br>spray<br>museum
-bip_39_word_new_br_11: illegal<br>sail<br>sad<br>garlic<br>panic<br>crucial<br>word<br>increase<br>spray<br>museum<br>purchase
 bip_39_word_new_br_12: illegal<br>sail<br>sad<br>garlic<br>panic<br>crucial<br>word<br>increase<br>spray<br>museum<br>purchase<br>audit
 bip_39_word_new_br_2: illegal<br>sail
 bip_39_word_new_br_3: illegal<br>sail<br>sad
-bip_39_word_new_br_4: illegal<br>sail<br>sad<br>garlic
-bip_39_word_new_br_5: illegal<br>sail<br>sad<br>garlic<br>panic
-bip_39_word_new_br_6: illegal<br>sail<br>sad<br>garlic<br>panic<br>crucial
-bip_39_word_new_br_7: illegal<br>sail<br>sad<br>garlic<br>panic<br>crucial<br>word
-bip_39_word_new_br_8: illegal<br>sail<br>sad<br>garlic<br>panic<br>crucial<br>word<br>increase
-bip_39_word_new_br_9: illegal<br>sail<br>sad<br>garlic<br>panic<br>crucial<br>word<br>increase<br>spray
-bip_39_word_new_line_1: illegal
-bip_39_word_new_line_10: 'illegal
-
-  sail
-
-  sad
-
-  garlic
-
-  panic
-
-  crucial
-
-  word
-
-  increase
-
-  spray
-
-  museum'
-bip_39_word_new_line_11: 'illegal
-
-  sail
-
-  sad
-
-  garlic
-
-  panic
-
-  crucial
-
-  word
-
-  increase
-
-  spray
-
-  museum
-
-  purchase'
 bip_39_word_new_line_12: 'illegal
 
   sail
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'illegal
   sail
 
   sad'
-bip_39_word_new_line_4: 'illegal
-
-  sail
-
-  sad
-
-  garlic'
-bip_39_word_new_line_5: 'illegal
-
-  sail
-
-  sad
-
-  garlic
-
-  panic'
-bip_39_word_new_line_6: 'illegal
-
-  sail
-
-  sad
-
-  garlic
-
-  panic
-
-  crucial'
-bip_39_word_new_line_7: 'illegal
-
-  sail
-
-  sad
-
-  garlic
-
-  panic
-
-  crucial
-
-  word'
-bip_39_word_new_line_8: 'illegal
-
-  sail
-
-  sad
-
-  garlic
-
-  panic
-
-  crucial
-
-  word
-
-  increase'
-bip_39_word_new_line_9: 'illegal
-
-  sail
-
-  sad
-
-  garlic
-
-  panic
-
-  crucial
-
-  word
-
-  increase
-
-  spray'
-bip_39_word_no_space_1: illegal
-bip_39_word_no_space_10: illegalsailsadgarlicpaniccrucialwordincreasespraymuseum
-bip_39_word_no_space_11: illegalsailsadgarlicpaniccrucialwordincreasespraymuseumpurchase
 bip_39_word_no_space_12: illegalsailsadgarlicpaniccrucialwordincreasespraymuseumpurchaseaudit
 bip_39_word_no_space_2: illegalsail
 bip_39_word_no_space_3: illegalsailsad
-bip_39_word_no_space_4: illegalsailsadgarlic
-bip_39_word_no_space_5: illegalsailsadgarlicpanic
-bip_39_word_no_space_6: illegalsailsadgarlicpaniccrucial
-bip_39_word_no_space_7: illegalsailsadgarlicpaniccrucialword
-bip_39_word_no_space_8: illegalsailsadgarlicpaniccrucialwordincrease
-bip_39_word_no_space_9: illegalsailsadgarlicpaniccrucialwordincreasespray
-bip_39_word_space_0:
-- illegal
-- sail
-- sad
-- garlic
-- panic
-- crucial
-- word
-- increase
-- spray
-- museum
-- purchase
-- audit
-bip_39_word_space_1: illegal
-bip_39_word_space_10: illegal sail sad garlic panic crucial word increase spray museum
-bip_39_word_space_11: illegal sail sad garlic panic crucial word increase spray museum
-  purchase
 bip_39_word_space_12: illegal sail sad garlic panic crucial word increase spray museum
   purchase audit
 bip_39_word_space_2: illegal sail
 bip_39_word_space_3: illegal sail sad
-bip_39_word_space_4: illegal sail sad garlic
-bip_39_word_space_5: illegal sail sad garlic panic
-bip_39_word_space_6: illegal sail sad garlic panic crucial
-bip_39_word_space_7: illegal sail sad garlic panic crucial word
-bip_39_word_space_8: illegal sail sad garlic panic crucial word increase
-bip_39_word_space_9: illegal sail sad garlic panic crucial word increase spray
-bip_39_word_underscore_1: illegal
-bip_39_word_underscore_10: illegal_sail_sad_garlic_panic_crucial_word_increase_spray_museum
-bip_39_word_underscore_11: illegal_sail_sad_garlic_panic_crucial_word_increase_spray_museum_purchase
 bip_39_word_underscore_12: illegal_sail_sad_garlic_panic_crucial_word_increase_spray_museum_purchase_audit
 bip_39_word_underscore_2: illegal_sail
 bip_39_word_underscore_3: illegal_sail_sad
-bip_39_word_underscore_4: illegal_sail_sad_garlic
-bip_39_word_underscore_5: illegal_sail_sad_garlic_panic
-bip_39_word_underscore_6: illegal_sail_sad_garlic_panic_crucial
-bip_39_word_underscore_7: illegal_sail_sad_garlic_panic_crucial_word
-bip_39_word_underscore_8: illegal_sail_sad_garlic_panic_crucial_word_increase
-bip_39_word_underscore_9: illegal_sail_sad_garlic_panic_crucial_word_increase_spray
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

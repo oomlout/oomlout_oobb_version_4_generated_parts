@@ -1,68 +1,9 @@
-bip_39_word_dash_1: sun
-bip_39_word_dash_10: sun-index-problem-brown-heart-sister-bean-other-genre-industry
-bip_39_word_dash_11: sun-index-problem-brown-heart-sister-bean-other-genre-industry-vault
 bip_39_word_dash_12: sun-index-problem-brown-heart-sister-bean-other-genre-industry-vault-achieve
 bip_39_word_dash_2: sun-index
 bip_39_word_dash_3: sun-index-problem
-bip_39_word_dash_4: sun-index-problem-brown
-bip_39_word_dash_5: sun-index-problem-brown-heart
-bip_39_word_dash_6: sun-index-problem-brown-heart-sister
-bip_39_word_dash_7: sun-index-problem-brown-heart-sister-bean
-bip_39_word_dash_8: sun-index-problem-brown-heart-sister-bean-other
-bip_39_word_dash_9: sun-index-problem-brown-heart-sister-bean-other-genre
-bip_39_word_new_br_1: sun
-bip_39_word_new_br_10: sun<br>index<br>problem<br>brown<br>heart<br>sister<br>bean<br>other<br>genre<br>industry
-bip_39_word_new_br_11: sun<br>index<br>problem<br>brown<br>heart<br>sister<br>bean<br>other<br>genre<br>industry<br>vault
 bip_39_word_new_br_12: sun<br>index<br>problem<br>brown<br>heart<br>sister<br>bean<br>other<br>genre<br>industry<br>vault<br>achieve
 bip_39_word_new_br_2: sun<br>index
 bip_39_word_new_br_3: sun<br>index<br>problem
-bip_39_word_new_br_4: sun<br>index<br>problem<br>brown
-bip_39_word_new_br_5: sun<br>index<br>problem<br>brown<br>heart
-bip_39_word_new_br_6: sun<br>index<br>problem<br>brown<br>heart<br>sister
-bip_39_word_new_br_7: sun<br>index<br>problem<br>brown<br>heart<br>sister<br>bean
-bip_39_word_new_br_8: sun<br>index<br>problem<br>brown<br>heart<br>sister<br>bean<br>other
-bip_39_word_new_br_9: sun<br>index<br>problem<br>brown<br>heart<br>sister<br>bean<br>other<br>genre
-bip_39_word_new_line_1: sun
-bip_39_word_new_line_10: 'sun
-
-  index
-
-  problem
-
-  brown
-
-  heart
-
-  sister
-
-  bean
-
-  other
-
-  genre
-
-  industry'
-bip_39_word_new_line_11: 'sun
-
-  index
-
-  problem
-
-  brown
-
-  heart
-
-  sister
-
-  bean
-
-  other
-
-  genre
-
-  industry
-
-  vault'
 bip_39_word_new_line_12: 'sun
 
   index
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'sun
   index
 
   problem'
-bip_39_word_new_line_4: 'sun
-
-  index
-
-  problem
-
-  brown'
-bip_39_word_new_line_5: 'sun
-
-  index
-
-  problem
-
-  brown
-
-  heart'
-bip_39_word_new_line_6: 'sun
-
-  index
-
-  problem
-
-  brown
-
-  heart
-
-  sister'
-bip_39_word_new_line_7: 'sun
-
-  index
-
-  problem
-
-  brown
-
-  heart
-
-  sister
-
-  bean'
-bip_39_word_new_line_8: 'sun
-
-  index
-
-  problem
-
-  brown
-
-  heart
-
-  sister
-
-  bean
-
-  other'
-bip_39_word_new_line_9: 'sun
-
-  index
-
-  problem
-
-  brown
-
-  heart
-
-  sister
-
-  bean
-
-  other
-
-  genre'
-bip_39_word_no_space_1: sun
-bip_39_word_no_space_10: sunindexproblembrownheartsisterbeanothergenreindustry
-bip_39_word_no_space_11: sunindexproblembrownheartsisterbeanothergenreindustryvault
 bip_39_word_no_space_12: sunindexproblembrownheartsisterbeanothergenreindustryvaultachieve
 bip_39_word_no_space_2: sunindex
 bip_39_word_no_space_3: sunindexproblem
-bip_39_word_no_space_4: sunindexproblembrown
-bip_39_word_no_space_5: sunindexproblembrownheart
-bip_39_word_no_space_6: sunindexproblembrownheartsister
-bip_39_word_no_space_7: sunindexproblembrownheartsisterbean
-bip_39_word_no_space_8: sunindexproblembrownheartsisterbeanother
-bip_39_word_no_space_9: sunindexproblembrownheartsisterbeanothergenre
-bip_39_word_space_0:
-- sun
-- index
-- problem
-- brown
-- heart
-- sister
-- bean
-- other
-- genre
-- industry
-- vault
-- achieve
-bip_39_word_space_1: sun
-bip_39_word_space_10: sun index problem brown heart sister bean other genre industry
-bip_39_word_space_11: sun index problem brown heart sister bean other genre industry
-  vault
 bip_39_word_space_12: sun index problem brown heart sister bean other genre industry
   vault achieve
 bip_39_word_space_2: sun index
 bip_39_word_space_3: sun index problem
-bip_39_word_space_4: sun index problem brown
-bip_39_word_space_5: sun index problem brown heart
-bip_39_word_space_6: sun index problem brown heart sister
-bip_39_word_space_7: sun index problem brown heart sister bean
-bip_39_word_space_8: sun index problem brown heart sister bean other
-bip_39_word_space_9: sun index problem brown heart sister bean other genre
-bip_39_word_underscore_1: sun
-bip_39_word_underscore_10: sun_index_problem_brown_heart_sister_bean_other_genre_industry
-bip_39_word_underscore_11: sun_index_problem_brown_heart_sister_bean_other_genre_industry_vault
 bip_39_word_underscore_12: sun_index_problem_brown_heart_sister_bean_other_genre_industry_vault_achieve
 bip_39_word_underscore_2: sun_index
 bip_39_word_underscore_3: sun_index_problem
-bip_39_word_underscore_4: sun_index_problem_brown
-bip_39_word_underscore_5: sun_index_problem_brown_heart
-bip_39_word_underscore_6: sun_index_problem_brown_heart_sister
-bip_39_word_underscore_7: sun_index_problem_brown_heart_sister_bean
-bip_39_word_underscore_8: sun_index_problem_brown_heart_sister_bean_other
-bip_39_word_underscore_9: sun_index_problem_brown_heart_sister_bean_other_genre
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: element
-bip_39_word_dash_10: element-hip-regular-thing-later-balance-ship-edge-stage-cattle
-bip_39_word_dash_11: element-hip-regular-thing-later-balance-ship-edge-stage-cattle-glance
 bip_39_word_dash_12: element-hip-regular-thing-later-balance-ship-edge-stage-cattle-glance-any
 bip_39_word_dash_2: element-hip
 bip_39_word_dash_3: element-hip-regular
-bip_39_word_dash_4: element-hip-regular-thing
-bip_39_word_dash_5: element-hip-regular-thing-later
-bip_39_word_dash_6: element-hip-regular-thing-later-balance
-bip_39_word_dash_7: element-hip-regular-thing-later-balance-ship
-bip_39_word_dash_8: element-hip-regular-thing-later-balance-ship-edge
-bip_39_word_dash_9: element-hip-regular-thing-later-balance-ship-edge-stage
-bip_39_word_new_br_1: element
-bip_39_word_new_br_10: element<br>hip<br>regular<br>thing<br>later<br>balance<br>ship<br>edge<br>stage<br>cattle
-bip_39_word_new_br_11: element<br>hip<br>regular<br>thing<br>later<br>balance<br>ship<br>edge<br>stage<br>cattle<br>glance
 bip_39_word_new_br_12: element<br>hip<br>regular<br>thing<br>later<br>balance<br>ship<br>edge<br>stage<br>cattle<br>glance<br>any
 bip_39_word_new_br_2: element<br>hip
 bip_39_word_new_br_3: element<br>hip<br>regular
-bip_39_word_new_br_4: element<br>hip<br>regular<br>thing
-bip_39_word_new_br_5: element<br>hip<br>regular<br>thing<br>later
-bip_39_word_new_br_6: element<br>hip<br>regular<br>thing<br>later<br>balance
-bip_39_word_new_br_7: element<br>hip<br>regular<br>thing<br>later<br>balance<br>ship
-bip_39_word_new_br_8: element<br>hip<br>regular<br>thing<br>later<br>balance<br>ship<br>edge
-bip_39_word_new_br_9: element<br>hip<br>regular<br>thing<br>later<br>balance<br>ship<br>edge<br>stage
-bip_39_word_new_line_1: element
-bip_39_word_new_line_10: 'element
-
-  hip
-
-  regular
-
-  thing
-
-  later
-
-  balance
-
-  ship
-
-  edge
-
-  stage
-
-  cattle'
-bip_39_word_new_line_11: 'element
-
-  hip
-
-  regular
-
-  thing
-
-  later
-
-  balance
-
-  ship
-
-  edge
-
-  stage
-
-  cattle
-
-  glance'
 bip_39_word_new_line_12: 'element
 
   hip
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'element
   hip
 
   regular'
-bip_39_word_new_line_4: 'element
-
-  hip
-
-  regular
-
-  thing'
-bip_39_word_new_line_5: 'element
-
-  hip
-
-  regular
-
-  thing
-
-  later'
-bip_39_word_new_line_6: 'element
-
-  hip
-
-  regular
-
-  thing
-
-  later
-
-  balance'
-bip_39_word_new_line_7: 'element
-
-  hip
-
-  regular
-
-  thing
-
-  later
-
-  balance
-
-  ship'
-bip_39_word_new_line_8: 'element
-
-  hip
-
-  regular
-
-  thing
-
-  later
-
-  balance
-
-  ship
-
-  edge'
-bip_39_word_new_line_9: 'element
-
-  hip
-
-  regular
-
-  thing
-
-  later
-
-  balance
-
-  ship
-
-  edge
-
-  stage'
-bip_39_word_no_space_1: element
-bip_39_word_no_space_10: elementhipregularthinglaterbalanceshipedgestagecattle
-bip_39_word_no_space_11: elementhipregularthinglaterbalanceshipedgestagecattleglance
 bip_39_word_no_space_12: elementhipregularthinglaterbalanceshipedgestagecattleglanceany
 bip_39_word_no_space_2: elementhip
 bip_39_word_no_space_3: elementhipregular
-bip_39_word_no_space_4: elementhipregularthing
-bip_39_word_no_space_5: elementhipregularthinglater
-bip_39_word_no_space_6: elementhipregularthinglaterbalance
-bip_39_word_no_space_7: elementhipregularthinglaterbalanceship
-bip_39_word_no_space_8: elementhipregularthinglaterbalanceshipedge
-bip_39_word_no_space_9: elementhipregularthinglaterbalanceshipedgestage
-bip_39_word_space_0:
-- element
-- hip
-- regular
-- thing
-- later
-- balance
-- ship
-- edge
-- stage
-- cattle
-- glance
-- any
-bip_39_word_space_1: element
-bip_39_word_space_10: element hip regular thing later balance ship edge stage cattle
-bip_39_word_space_11: element hip regular thing later balance ship edge stage cattle
-  glance
 bip_39_word_space_12: element hip regular thing later balance ship edge stage cattle
   glance any
 bip_39_word_space_2: element hip
 bip_39_word_space_3: element hip regular
-bip_39_word_space_4: element hip regular thing
-bip_39_word_space_5: element hip regular thing later
-bip_39_word_space_6: element hip regular thing later balance
-bip_39_word_space_7: element hip regular thing later balance ship
-bip_39_word_space_8: element hip regular thing later balance ship edge
-bip_39_word_space_9: element hip regular thing later balance ship edge stage
-bip_39_word_underscore_1: element
-bip_39_word_underscore_10: element_hip_regular_thing_later_balance_ship_edge_stage_cattle
-bip_39_word_underscore_11: element_hip_regular_thing_later_balance_ship_edge_stage_cattle_glance
 bip_39_word_underscore_12: element_hip_regular_thing_later_balance_ship_edge_stage_cattle_glance_any
 bip_39_word_underscore_2: element_hip
 bip_39_word_underscore_3: element_hip_regular
-bip_39_word_underscore_4: element_hip_regular_thing
-bip_39_word_underscore_5: element_hip_regular_thing_later
-bip_39_word_underscore_6: element_hip_regular_thing_later_balance
-bip_39_word_underscore_7: element_hip_regular_thing_later_balance_ship
-bip_39_word_underscore_8: element_hip_regular_thing_later_balance_ship_edge
-bip_39_word_underscore_9: element_hip_regular_thing_later_balance_ship_edge_stage
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: heart
-bip_39_word_dash_10: heart-tissue-aim-vault-network-resource-story-column-expose-away
-bip_39_word_dash_11: heart-tissue-aim-vault-network-resource-story-column-expose-away-jelly
 bip_39_word_dash_12: heart-tissue-aim-vault-network-resource-story-column-expose-away-jelly-above
 bip_39_word_dash_2: heart-tissue
 bip_39_word_dash_3: heart-tissue-aim
-bip_39_word_dash_4: heart-tissue-aim-vault
-bip_39_word_dash_5: heart-tissue-aim-vault-network
-bip_39_word_dash_6: heart-tissue-aim-vault-network-resource
-bip_39_word_dash_7: heart-tissue-aim-vault-network-resource-story
-bip_39_word_dash_8: heart-tissue-aim-vault-network-resource-story-column
-bip_39_word_dash_9: heart-tissue-aim-vault-network-resource-story-column-expose
-bip_39_word_new_br_1: heart
-bip_39_word_new_br_10: heart<br>tissue<br>aim<br>vault<br>network<br>resource<br>story<br>column<br>expose<br>away
-bip_39_word_new_br_11: heart<br>tissue<br>aim<br>vault<br>network<br>resource<br>story<br>column<br>expose<br>away<br>jelly
 bip_39_word_new_br_12: heart<br>tissue<br>aim<br>vault<br>network<br>resource<br>story<br>column<br>expose<br>away<br>jelly<br>above
 bip_39_word_new_br_2: heart<br>tissue
 bip_39_word_new_br_3: heart<br>tissue<br>aim
-bip_39_word_new_br_4: heart<br>tissue<br>aim<br>vault
-bip_39_word_new_br_5: heart<br>tissue<br>aim<br>vault<br>network
-bip_39_word_new_br_6: heart<br>tissue<br>aim<br>vault<br>network<br>resource
-bip_39_word_new_br_7: heart<br>tissue<br>aim<br>vault<br>network<br>resource<br>story
-bip_39_word_new_br_8: heart<br>tissue<br>aim<br>vault<br>network<br>resource<br>story<br>column
-bip_39_word_new_br_9: heart<br>tissue<br>aim<br>vault<br>network<br>resource<br>story<br>column<br>expose
-bip_39_word_new_line_1: heart
-bip_39_word_new_line_10: 'heart
-
-  tissue
-
-  aim
-
-  vault
-
-  network
-
-  resource
-
-  story
-
-  column
-
-  expose
-
-  away'
-bip_39_word_new_line_11: 'heart
-
-  tissue
-
-  aim
-
-  vault
-
-  network
-
-  resource
-
-  story
-
-  column
-
-  expose
-
-  away
-
-  jelly'
 bip_39_word_new_line_12: 'heart
 
   tissue
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'heart
   tissue
 
   aim'
-bip_39_word_new_line_4: 'heart
-
-  tissue
-
-  aim
-
-  vault'
-bip_39_word_new_line_5: 'heart
-
-  tissue
-
-  aim
-
-  vault
-
-  network'
-bip_39_word_new_line_6: 'heart
-
-  tissue
-
-  aim
-
-  vault
-
-  network
-
-  resource'
-bip_39_word_new_line_7: 'heart
-
-  tissue
-
-  aim
-
-  vault
-
-  network
-
-  resource
-
-  story'
-bip_39_word_new_line_8: 'heart
-
-  tissue
-
-  aim
-
-  vault
-
-  network
-
-  resource
-
-  story
-
-  column'
-bip_39_word_new_line_9: 'heart
-
-  tissue
-
-  aim
-
-  vault
-
-  network
-
-  resource
-
-  story
-
-  column
-
-  expose'
-bip_39_word_no_space_1: heart
-bip_39_word_no_space_10: hearttissueaimvaultnetworkresourcestorycolumnexposeaway
-bip_39_word_no_space_11: hearttissueaimvaultnetworkresourcestorycolumnexposeawayjelly
 bip_39_word_no_space_12: hearttissueaimvaultnetworkresourcestorycolumnexposeawayjellyabove
 bip_39_word_no_space_2: hearttissue
 bip_39_word_no_space_3: hearttissueaim
-bip_39_word_no_space_4: hearttissueaimvault
-bip_39_word_no_space_5: hearttissueaimvaultnetwork
-bip_39_word_no_space_6: hearttissueaimvaultnetworkresource
-bip_39_word_no_space_7: hearttissueaimvaultnetworkresourcestory
-bip_39_word_no_space_8: hearttissueaimvaultnetworkresourcestorycolumn
-bip_39_word_no_space_9: hearttissueaimvaultnetworkresourcestorycolumnexpose
-bip_39_word_space_0:
-- heart
-- tissue
-- aim
-- vault
-- network
-- resource
-- story
-- column
-- expose
-- away
-- jelly
-- above
-bip_39_word_space_1: heart
-bip_39_word_space_10: heart tissue aim vault network resource story column expose
-  away
-bip_39_word_space_11: heart tissue aim vault network resource story column expose
-  away jelly
 bip_39_word_space_12: heart tissue aim vault network resource story column expose
   away jelly above
 bip_39_word_space_2: heart tissue
 bip_39_word_space_3: heart tissue aim
-bip_39_word_space_4: heart tissue aim vault
-bip_39_word_space_5: heart tissue aim vault network
-bip_39_word_space_6: heart tissue aim vault network resource
-bip_39_word_space_7: heart tissue aim vault network resource story
-bip_39_word_space_8: heart tissue aim vault network resource story column
-bip_39_word_space_9: heart tissue aim vault network resource story column expose
-bip_39_word_underscore_1: heart
-bip_39_word_underscore_10: heart_tissue_aim_vault_network_resource_story_column_expose_away
-bip_39_word_underscore_11: heart_tissue_aim_vault_network_resource_story_column_expose_away_jelly
 bip_39_word_underscore_12: heart_tissue_aim_vault_network_resource_story_column_expose_away_jelly_above
 bip_39_word_underscore_2: heart_tissue
 bip_39_word_underscore_3: heart_tissue_aim
-bip_39_word_underscore_4: heart_tissue_aim_vault
-bip_39_word_underscore_5: heart_tissue_aim_vault_network
-bip_39_word_underscore_6: heart_tissue_aim_vault_network_resource
-bip_39_word_underscore_7: heart_tissue_aim_vault_network_resource_story
-bip_39_word_underscore_8: heart_tissue_aim_vault_network_resource_story_column
-bip_39_word_underscore_9: heart_tissue_aim_vault_network_resource_story_column_expose
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

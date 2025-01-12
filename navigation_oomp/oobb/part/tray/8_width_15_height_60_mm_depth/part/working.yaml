@@ -1,68 +1,9 @@
-bip_39_word_dash_1: patient
-bip_39_word_dash_10: patient-mimic-story-bicycle-ice-fan-valve-shoe-short-fame
-bip_39_word_dash_11: patient-mimic-story-bicycle-ice-fan-valve-shoe-short-fame-actress
 bip_39_word_dash_12: patient-mimic-story-bicycle-ice-fan-valve-shoe-short-fame-actress-accuse
 bip_39_word_dash_2: patient-mimic
 bip_39_word_dash_3: patient-mimic-story
-bip_39_word_dash_4: patient-mimic-story-bicycle
-bip_39_word_dash_5: patient-mimic-story-bicycle-ice
-bip_39_word_dash_6: patient-mimic-story-bicycle-ice-fan
-bip_39_word_dash_7: patient-mimic-story-bicycle-ice-fan-valve
-bip_39_word_dash_8: patient-mimic-story-bicycle-ice-fan-valve-shoe
-bip_39_word_dash_9: patient-mimic-story-bicycle-ice-fan-valve-shoe-short
-bip_39_word_new_br_1: patient
-bip_39_word_new_br_10: patient<br>mimic<br>story<br>bicycle<br>ice<br>fan<br>valve<br>shoe<br>short<br>fame
-bip_39_word_new_br_11: patient<br>mimic<br>story<br>bicycle<br>ice<br>fan<br>valve<br>shoe<br>short<br>fame<br>actress
 bip_39_word_new_br_12: patient<br>mimic<br>story<br>bicycle<br>ice<br>fan<br>valve<br>shoe<br>short<br>fame<br>actress<br>accuse
 bip_39_word_new_br_2: patient<br>mimic
 bip_39_word_new_br_3: patient<br>mimic<br>story
-bip_39_word_new_br_4: patient<br>mimic<br>story<br>bicycle
-bip_39_word_new_br_5: patient<br>mimic<br>story<br>bicycle<br>ice
-bip_39_word_new_br_6: patient<br>mimic<br>story<br>bicycle<br>ice<br>fan
-bip_39_word_new_br_7: patient<br>mimic<br>story<br>bicycle<br>ice<br>fan<br>valve
-bip_39_word_new_br_8: patient<br>mimic<br>story<br>bicycle<br>ice<br>fan<br>valve<br>shoe
-bip_39_word_new_br_9: patient<br>mimic<br>story<br>bicycle<br>ice<br>fan<br>valve<br>shoe<br>short
-bip_39_word_new_line_1: patient
-bip_39_word_new_line_10: 'patient
-
-  mimic
-
-  story
-
-  bicycle
-
-  ice
-
-  fan
-
-  valve
-
-  shoe
-
-  short
-
-  fame'
-bip_39_word_new_line_11: 'patient
-
-  mimic
-
-  story
-
-  bicycle
-
-  ice
-
-  fan
-
-  valve
-
-  shoe
-
-  short
-
-  fame
-
-  actress'
 bip_39_word_new_line_12: 'patient
 
   mimic
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'patient
   mimic
 
   story'
-bip_39_word_new_line_4: 'patient
-
-  mimic
-
-  story
-
-  bicycle'
-bip_39_word_new_line_5: 'patient
-
-  mimic
-
-  story
-
-  bicycle
-
-  ice'
-bip_39_word_new_line_6: 'patient
-
-  mimic
-
-  story
-
-  bicycle
-
-  ice
-
-  fan'
-bip_39_word_new_line_7: 'patient
-
-  mimic
-
-  story
-
-  bicycle
-
-  ice
-
-  fan
-
-  valve'
-bip_39_word_new_line_8: 'patient
-
-  mimic
-
-  story
-
-  bicycle
-
-  ice
-
-  fan
-
-  valve
-
-  shoe'
-bip_39_word_new_line_9: 'patient
-
-  mimic
-
-  story
-
-  bicycle
-
-  ice
-
-  fan
-
-  valve
-
-  shoe
-
-  short'
-bip_39_word_no_space_1: patient
-bip_39_word_no_space_10: patientmimicstorybicycleicefanvalveshoeshortfame
-bip_39_word_no_space_11: patientmimicstorybicycleicefanvalveshoeshortfameactress
 bip_39_word_no_space_12: patientmimicstorybicycleicefanvalveshoeshortfameactressaccuse
 bip_39_word_no_space_2: patientmimic
 bip_39_word_no_space_3: patientmimicstory
-bip_39_word_no_space_4: patientmimicstorybicycle
-bip_39_word_no_space_5: patientmimicstorybicycleice
-bip_39_word_no_space_6: patientmimicstorybicycleicefan
-bip_39_word_no_space_7: patientmimicstorybicycleicefanvalve
-bip_39_word_no_space_8: patientmimicstorybicycleicefanvalveshoe
-bip_39_word_no_space_9: patientmimicstorybicycleicefanvalveshoeshort
-bip_39_word_space_0:
-- patient
-- mimic
-- story
-- bicycle
-- ice
-- fan
-- valve
-- shoe
-- short
-- fame
-- actress
-- accuse
-bip_39_word_space_1: patient
-bip_39_word_space_10: patient mimic story bicycle ice fan valve shoe short fame
-bip_39_word_space_11: patient mimic story bicycle ice fan valve shoe short fame actress
 bip_39_word_space_12: patient mimic story bicycle ice fan valve shoe short fame actress
   accuse
 bip_39_word_space_2: patient mimic
 bip_39_word_space_3: patient mimic story
-bip_39_word_space_4: patient mimic story bicycle
-bip_39_word_space_5: patient mimic story bicycle ice
-bip_39_word_space_6: patient mimic story bicycle ice fan
-bip_39_word_space_7: patient mimic story bicycle ice fan valve
-bip_39_word_space_8: patient mimic story bicycle ice fan valve shoe
-bip_39_word_space_9: patient mimic story bicycle ice fan valve shoe short
-bip_39_word_underscore_1: patient
-bip_39_word_underscore_10: patient_mimic_story_bicycle_ice_fan_valve_shoe_short_fame
-bip_39_word_underscore_11: patient_mimic_story_bicycle_ice_fan_valve_shoe_short_fame_actress
 bip_39_word_underscore_12: patient_mimic_story_bicycle_ice_fan_valve_shoe_short_fame_actress_accuse
 bip_39_word_underscore_2: patient_mimic
 bip_39_word_underscore_3: patient_mimic_story
-bip_39_word_underscore_4: patient_mimic_story_bicycle
-bip_39_word_underscore_5: patient_mimic_story_bicycle_ice
-bip_39_word_underscore_6: patient_mimic_story_bicycle_ice_fan
-bip_39_word_underscore_7: patient_mimic_story_bicycle_ice_fan_valve
-bip_39_word_underscore_8: patient_mimic_story_bicycle_ice_fan_valve_shoe
-bip_39_word_underscore_9: patient_mimic_story_bicycle_ice_fan_valve_shoe_short
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

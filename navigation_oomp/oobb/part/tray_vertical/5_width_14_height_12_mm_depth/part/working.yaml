@@ -1,68 +1,9 @@
-bip_39_word_dash_1: silk
-bip_39_word_dash_10: silk-carry-return-silly-foil-subway-isolate-cross-step-print
-bip_39_word_dash_11: silk-carry-return-silly-foil-subway-isolate-cross-step-print-canvas
 bip_39_word_dash_12: silk-carry-return-silly-foil-subway-isolate-cross-step-print-canvas-artist
 bip_39_word_dash_2: silk-carry
 bip_39_word_dash_3: silk-carry-return
-bip_39_word_dash_4: silk-carry-return-silly
-bip_39_word_dash_5: silk-carry-return-silly-foil
-bip_39_word_dash_6: silk-carry-return-silly-foil-subway
-bip_39_word_dash_7: silk-carry-return-silly-foil-subway-isolate
-bip_39_word_dash_8: silk-carry-return-silly-foil-subway-isolate-cross
-bip_39_word_dash_9: silk-carry-return-silly-foil-subway-isolate-cross-step
-bip_39_word_new_br_1: silk
-bip_39_word_new_br_10: silk<br>carry<br>return<br>silly<br>foil<br>subway<br>isolate<br>cross<br>step<br>print
-bip_39_word_new_br_11: silk<br>carry<br>return<br>silly<br>foil<br>subway<br>isolate<br>cross<br>step<br>print<br>canvas
 bip_39_word_new_br_12: silk<br>carry<br>return<br>silly<br>foil<br>subway<br>isolate<br>cross<br>step<br>print<br>canvas<br>artist
 bip_39_word_new_br_2: silk<br>carry
 bip_39_word_new_br_3: silk<br>carry<br>return
-bip_39_word_new_br_4: silk<br>carry<br>return<br>silly
-bip_39_word_new_br_5: silk<br>carry<br>return<br>silly<br>foil
-bip_39_word_new_br_6: silk<br>carry<br>return<br>silly<br>foil<br>subway
-bip_39_word_new_br_7: silk<br>carry<br>return<br>silly<br>foil<br>subway<br>isolate
-bip_39_word_new_br_8: silk<br>carry<br>return<br>silly<br>foil<br>subway<br>isolate<br>cross
-bip_39_word_new_br_9: silk<br>carry<br>return<br>silly<br>foil<br>subway<br>isolate<br>cross<br>step
-bip_39_word_new_line_1: silk
-bip_39_word_new_line_10: 'silk
-
-  carry
-
-  return
-
-  silly
-
-  foil
-
-  subway
-
-  isolate
-
-  cross
-
-  step
-
-  print'
-bip_39_word_new_line_11: 'silk
-
-  carry
-
-  return
-
-  silly
-
-  foil
-
-  subway
-
-  isolate
-
-  cross
-
-  step
-
-  print
-
-  canvas'
 bip_39_word_new_line_12: 'silk
 
   carry
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'silk
   carry
 
   return'
-bip_39_word_new_line_4: 'silk
-
-  carry
-
-  return
-
-  silly'
-bip_39_word_new_line_5: 'silk
-
-  carry
-
-  return
-
-  silly
-
-  foil'
-bip_39_word_new_line_6: 'silk
-
-  carry
-
-  return
-
-  silly
-
-  foil
-
-  subway'
-bip_39_word_new_line_7: 'silk
-
-  carry
-
-  return
-
-  silly
-
-  foil
-
-  subway
-
-  isolate'
-bip_39_word_new_line_8: 'silk
-
-  carry
-
-  return
-
-  silly
-
-  foil
-
-  subway
-
-  isolate
-
-  cross'
-bip_39_word_new_line_9: 'silk
-
-  carry
-
-  return
-
-  silly
-
-  foil
-
-  subway
-
-  isolate
-
-  cross
-
-  step'
-bip_39_word_no_space_1: silk
-bip_39_word_no_space_10: silkcarryreturnsillyfoilsubwayisolatecrossstepprint
-bip_39_word_no_space_11: silkcarryreturnsillyfoilsubwayisolatecrossstepprintcanvas
 bip_39_word_no_space_12: silkcarryreturnsillyfoilsubwayisolatecrossstepprintcanvasartist
 bip_39_word_no_space_2: silkcarry
 bip_39_word_no_space_3: silkcarryreturn
-bip_39_word_no_space_4: silkcarryreturnsilly
-bip_39_word_no_space_5: silkcarryreturnsillyfoil
-bip_39_word_no_space_6: silkcarryreturnsillyfoilsubway
-bip_39_word_no_space_7: silkcarryreturnsillyfoilsubwayisolate
-bip_39_word_no_space_8: silkcarryreturnsillyfoilsubwayisolatecross
-bip_39_word_no_space_9: silkcarryreturnsillyfoilsubwayisolatecrossstep
-bip_39_word_space_0:
-- silk
-- carry
-- return
-- silly
-- foil
-- subway
-- isolate
-- cross
-- step
-- print
-- canvas
-- artist
-bip_39_word_space_1: silk
-bip_39_word_space_10: silk carry return silly foil subway isolate cross step print
-bip_39_word_space_11: silk carry return silly foil subway isolate cross step print
-  canvas
 bip_39_word_space_12: silk carry return silly foil subway isolate cross step print
   canvas artist
 bip_39_word_space_2: silk carry
 bip_39_word_space_3: silk carry return
-bip_39_word_space_4: silk carry return silly
-bip_39_word_space_5: silk carry return silly foil
-bip_39_word_space_6: silk carry return silly foil subway
-bip_39_word_space_7: silk carry return silly foil subway isolate
-bip_39_word_space_8: silk carry return silly foil subway isolate cross
-bip_39_word_space_9: silk carry return silly foil subway isolate cross step
-bip_39_word_underscore_1: silk
-bip_39_word_underscore_10: silk_carry_return_silly_foil_subway_isolate_cross_step_print
-bip_39_word_underscore_11: silk_carry_return_silly_foil_subway_isolate_cross_step_print_canvas
 bip_39_word_underscore_12: silk_carry_return_silly_foil_subway_isolate_cross_step_print_canvas_artist
 bip_39_word_underscore_2: silk_carry
 bip_39_word_underscore_3: silk_carry_return
-bip_39_word_underscore_4: silk_carry_return_silly
-bip_39_word_underscore_5: silk_carry_return_silly_foil
-bip_39_word_underscore_6: silk_carry_return_silly_foil_subway
-bip_39_word_underscore_7: silk_carry_return_silly_foil_subway_isolate
-bip_39_word_underscore_8: silk_carry_return_silly_foil_subway_isolate_cross
-bip_39_word_underscore_9: silk_carry_return_silly_foil_subway_isolate_cross_step
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

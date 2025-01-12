@@ -1,68 +1,9 @@
-bip_39_word_dash_1: slice
-bip_39_word_dash_10: slice-mad-ketchup-immense-exhibit-nose-quarter-plate-pipe-enlist
-bip_39_word_dash_11: slice-mad-ketchup-immense-exhibit-nose-quarter-plate-pipe-enlist-smooth
 bip_39_word_dash_12: slice-mad-ketchup-immense-exhibit-nose-quarter-plate-pipe-enlist-smooth-always
 bip_39_word_dash_2: slice-mad
 bip_39_word_dash_3: slice-mad-ketchup
-bip_39_word_dash_4: slice-mad-ketchup-immense
-bip_39_word_dash_5: slice-mad-ketchup-immense-exhibit
-bip_39_word_dash_6: slice-mad-ketchup-immense-exhibit-nose
-bip_39_word_dash_7: slice-mad-ketchup-immense-exhibit-nose-quarter
-bip_39_word_dash_8: slice-mad-ketchup-immense-exhibit-nose-quarter-plate
-bip_39_word_dash_9: slice-mad-ketchup-immense-exhibit-nose-quarter-plate-pipe
-bip_39_word_new_br_1: slice
-bip_39_word_new_br_10: slice<br>mad<br>ketchup<br>immense<br>exhibit<br>nose<br>quarter<br>plate<br>pipe<br>enlist
-bip_39_word_new_br_11: slice<br>mad<br>ketchup<br>immense<br>exhibit<br>nose<br>quarter<br>plate<br>pipe<br>enlist<br>smooth
 bip_39_word_new_br_12: slice<br>mad<br>ketchup<br>immense<br>exhibit<br>nose<br>quarter<br>plate<br>pipe<br>enlist<br>smooth<br>always
 bip_39_word_new_br_2: slice<br>mad
 bip_39_word_new_br_3: slice<br>mad<br>ketchup
-bip_39_word_new_br_4: slice<br>mad<br>ketchup<br>immense
-bip_39_word_new_br_5: slice<br>mad<br>ketchup<br>immense<br>exhibit
-bip_39_word_new_br_6: slice<br>mad<br>ketchup<br>immense<br>exhibit<br>nose
-bip_39_word_new_br_7: slice<br>mad<br>ketchup<br>immense<br>exhibit<br>nose<br>quarter
-bip_39_word_new_br_8: slice<br>mad<br>ketchup<br>immense<br>exhibit<br>nose<br>quarter<br>plate
-bip_39_word_new_br_9: slice<br>mad<br>ketchup<br>immense<br>exhibit<br>nose<br>quarter<br>plate<br>pipe
-bip_39_word_new_line_1: slice
-bip_39_word_new_line_10: 'slice
-
-  mad
-
-  ketchup
-
-  immense
-
-  exhibit
-
-  nose
-
-  quarter
-
-  plate
-
-  pipe
-
-  enlist'
-bip_39_word_new_line_11: 'slice
-
-  mad
-
-  ketchup
-
-  immense
-
-  exhibit
-
-  nose
-
-  quarter
-
-  plate
-
-  pipe
-
-  enlist
-
-  smooth'
 bip_39_word_new_line_12: 'slice
 
   mad
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'slice
   mad
 
   ketchup'
-bip_39_word_new_line_4: 'slice
-
-  mad
-
-  ketchup
-
-  immense'
-bip_39_word_new_line_5: 'slice
-
-  mad
-
-  ketchup
-
-  immense
-
-  exhibit'
-bip_39_word_new_line_6: 'slice
-
-  mad
-
-  ketchup
-
-  immense
-
-  exhibit
-
-  nose'
-bip_39_word_new_line_7: 'slice
-
-  mad
-
-  ketchup
-
-  immense
-
-  exhibit
-
-  nose
-
-  quarter'
-bip_39_word_new_line_8: 'slice
-
-  mad
-
-  ketchup
-
-  immense
-
-  exhibit
-
-  nose
-
-  quarter
-
-  plate'
-bip_39_word_new_line_9: 'slice
-
-  mad
-
-  ketchup
-
-  immense
-
-  exhibit
-
-  nose
-
-  quarter
-
-  plate
-
-  pipe'
-bip_39_word_no_space_1: slice
-bip_39_word_no_space_10: slicemadketchupimmenseexhibitnosequarterplatepipeenlist
-bip_39_word_no_space_11: slicemadketchupimmenseexhibitnosequarterplatepipeenlistsmooth
 bip_39_word_no_space_12: slicemadketchupimmenseexhibitnosequarterplatepipeenlistsmoothalways
 bip_39_word_no_space_2: slicemad
 bip_39_word_no_space_3: slicemadketchup
-bip_39_word_no_space_4: slicemadketchupimmense
-bip_39_word_no_space_5: slicemadketchupimmenseexhibit
-bip_39_word_no_space_6: slicemadketchupimmenseexhibitnose
-bip_39_word_no_space_7: slicemadketchupimmenseexhibitnosequarter
-bip_39_word_no_space_8: slicemadketchupimmenseexhibitnosequarterplate
-bip_39_word_no_space_9: slicemadketchupimmenseexhibitnosequarterplatepipe
-bip_39_word_space_0:
-- slice
-- mad
-- ketchup
-- immense
-- exhibit
-- nose
-- quarter
-- plate
-- pipe
-- enlist
-- smooth
-- always
-bip_39_word_space_1: slice
-bip_39_word_space_10: slice mad ketchup immense exhibit nose quarter plate pipe enlist
-bip_39_word_space_11: slice mad ketchup immense exhibit nose quarter plate pipe enlist
-  smooth
 bip_39_word_space_12: slice mad ketchup immense exhibit nose quarter plate pipe enlist
   smooth always
 bip_39_word_space_2: slice mad
 bip_39_word_space_3: slice mad ketchup
-bip_39_word_space_4: slice mad ketchup immense
-bip_39_word_space_5: slice mad ketchup immense exhibit
-bip_39_word_space_6: slice mad ketchup immense exhibit nose
-bip_39_word_space_7: slice mad ketchup immense exhibit nose quarter
-bip_39_word_space_8: slice mad ketchup immense exhibit nose quarter plate
-bip_39_word_space_9: slice mad ketchup immense exhibit nose quarter plate pipe
-bip_39_word_underscore_1: slice
-bip_39_word_underscore_10: slice_mad_ketchup_immense_exhibit_nose_quarter_plate_pipe_enlist
-bip_39_word_underscore_11: slice_mad_ketchup_immense_exhibit_nose_quarter_plate_pipe_enlist_smooth
 bip_39_word_underscore_12: slice_mad_ketchup_immense_exhibit_nose_quarter_plate_pipe_enlist_smooth_always
 bip_39_word_underscore_2: slice_mad
 bip_39_word_underscore_3: slice_mad_ketchup
-bip_39_word_underscore_4: slice_mad_ketchup_immense
-bip_39_word_underscore_5: slice_mad_ketchup_immense_exhibit
-bip_39_word_underscore_6: slice_mad_ketchup_immense_exhibit_nose
-bip_39_word_underscore_7: slice_mad_ketchup_immense_exhibit_nose_quarter
-bip_39_word_underscore_8: slice_mad_ketchup_immense_exhibit_nose_quarter_plate
-bip_39_word_underscore_9: slice_mad_ketchup_immense_exhibit_nose_quarter_plate_pipe
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

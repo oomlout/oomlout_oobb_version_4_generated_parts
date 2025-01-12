@@ -1,68 +1,9 @@
-bip_39_word_dash_1: cook
-bip_39_word_dash_10: cook-stumble-echo-insect-verify-patch-trash-vast-source-cousin
-bip_39_word_dash_11: cook-stumble-echo-insect-verify-patch-trash-vast-source-cousin-ordinary
 bip_39_word_dash_12: cook-stumble-echo-insect-verify-patch-trash-vast-source-cousin-ordinary-animal
 bip_39_word_dash_2: cook-stumble
 bip_39_word_dash_3: cook-stumble-echo
-bip_39_word_dash_4: cook-stumble-echo-insect
-bip_39_word_dash_5: cook-stumble-echo-insect-verify
-bip_39_word_dash_6: cook-stumble-echo-insect-verify-patch
-bip_39_word_dash_7: cook-stumble-echo-insect-verify-patch-trash
-bip_39_word_dash_8: cook-stumble-echo-insect-verify-patch-trash-vast
-bip_39_word_dash_9: cook-stumble-echo-insect-verify-patch-trash-vast-source
-bip_39_word_new_br_1: cook
-bip_39_word_new_br_10: cook<br>stumble<br>echo<br>insect<br>verify<br>patch<br>trash<br>vast<br>source<br>cousin
-bip_39_word_new_br_11: cook<br>stumble<br>echo<br>insect<br>verify<br>patch<br>trash<br>vast<br>source<br>cousin<br>ordinary
 bip_39_word_new_br_12: cook<br>stumble<br>echo<br>insect<br>verify<br>patch<br>trash<br>vast<br>source<br>cousin<br>ordinary<br>animal
 bip_39_word_new_br_2: cook<br>stumble
 bip_39_word_new_br_3: cook<br>stumble<br>echo
-bip_39_word_new_br_4: cook<br>stumble<br>echo<br>insect
-bip_39_word_new_br_5: cook<br>stumble<br>echo<br>insect<br>verify
-bip_39_word_new_br_6: cook<br>stumble<br>echo<br>insect<br>verify<br>patch
-bip_39_word_new_br_7: cook<br>stumble<br>echo<br>insect<br>verify<br>patch<br>trash
-bip_39_word_new_br_8: cook<br>stumble<br>echo<br>insect<br>verify<br>patch<br>trash<br>vast
-bip_39_word_new_br_9: cook<br>stumble<br>echo<br>insect<br>verify<br>patch<br>trash<br>vast<br>source
-bip_39_word_new_line_1: cook
-bip_39_word_new_line_10: 'cook
-
-  stumble
-
-  echo
-
-  insect
-
-  verify
-
-  patch
-
-  trash
-
-  vast
-
-  source
-
-  cousin'
-bip_39_word_new_line_11: 'cook
-
-  stumble
-
-  echo
-
-  insect
-
-  verify
-
-  patch
-
-  trash
-
-  vast
-
-  source
-
-  cousin
-
-  ordinary'
 bip_39_word_new_line_12: 'cook
 
   stumble
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'cook
   stumble
 
   echo'
-bip_39_word_new_line_4: 'cook
-
-  stumble
-
-  echo
-
-  insect'
-bip_39_word_new_line_5: 'cook
-
-  stumble
-
-  echo
-
-  insect
-
-  verify'
-bip_39_word_new_line_6: 'cook
-
-  stumble
-
-  echo
-
-  insect
-
-  verify
-
-  patch'
-bip_39_word_new_line_7: 'cook
-
-  stumble
-
-  echo
-
-  insect
-
-  verify
-
-  patch
-
-  trash'
-bip_39_word_new_line_8: 'cook
-
-  stumble
-
-  echo
-
-  insect
-
-  verify
-
-  patch
-
-  trash
-
-  vast'
-bip_39_word_new_line_9: 'cook
-
-  stumble
-
-  echo
-
-  insect
-
-  verify
-
-  patch
-
-  trash
-
-  vast
-
-  source'
-bip_39_word_no_space_1: cook
-bip_39_word_no_space_10: cookstumbleechoinsectverifypatchtrashvastsourcecousin
-bip_39_word_no_space_11: cookstumbleechoinsectverifypatchtrashvastsourcecousinordinary
 bip_39_word_no_space_12: cookstumbleechoinsectverifypatchtrashvastsourcecousinordinaryanimal
 bip_39_word_no_space_2: cookstumble
 bip_39_word_no_space_3: cookstumbleecho
-bip_39_word_no_space_4: cookstumbleechoinsect
-bip_39_word_no_space_5: cookstumbleechoinsectverify
-bip_39_word_no_space_6: cookstumbleechoinsectverifypatch
-bip_39_word_no_space_7: cookstumbleechoinsectverifypatchtrash
-bip_39_word_no_space_8: cookstumbleechoinsectverifypatchtrashvast
-bip_39_word_no_space_9: cookstumbleechoinsectverifypatchtrashvastsource
-bip_39_word_space_0:
-- cook
-- stumble
-- echo
-- insect
-- verify
-- patch
-- trash
-- vast
-- source
-- cousin
-- ordinary
-- animal
-bip_39_word_space_1: cook
-bip_39_word_space_10: cook stumble echo insect verify patch trash vast source cousin
-bip_39_word_space_11: cook stumble echo insect verify patch trash vast source cousin
-  ordinary
 bip_39_word_space_12: cook stumble echo insect verify patch trash vast source cousin
   ordinary animal
 bip_39_word_space_2: cook stumble
 bip_39_word_space_3: cook stumble echo
-bip_39_word_space_4: cook stumble echo insect
-bip_39_word_space_5: cook stumble echo insect verify
-bip_39_word_space_6: cook stumble echo insect verify patch
-bip_39_word_space_7: cook stumble echo insect verify patch trash
-bip_39_word_space_8: cook stumble echo insect verify patch trash vast
-bip_39_word_space_9: cook stumble echo insect verify patch trash vast source
-bip_39_word_underscore_1: cook
-bip_39_word_underscore_10: cook_stumble_echo_insect_verify_patch_trash_vast_source_cousin
-bip_39_word_underscore_11: cook_stumble_echo_insect_verify_patch_trash_vast_source_cousin_ordinary
 bip_39_word_underscore_12: cook_stumble_echo_insect_verify_patch_trash_vast_source_cousin_ordinary_animal
 bip_39_word_underscore_2: cook_stumble
 bip_39_word_underscore_3: cook_stumble_echo
-bip_39_word_underscore_4: cook_stumble_echo_insect
-bip_39_word_underscore_5: cook_stumble_echo_insect_verify
-bip_39_word_underscore_6: cook_stumble_echo_insect_verify_patch
-bip_39_word_underscore_7: cook_stumble_echo_insect_verify_patch_trash
-bip_39_word_underscore_8: cook_stumble_echo_insect_verify_patch_trash_vast
-bip_39_word_underscore_9: cook_stumble_echo_insect_verify_patch_trash_vast_source
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: suit
-bip_39_word_dash_10: suit-time-stool-slender-game-drill-sustain-derive-struggle-fitness
-bip_39_word_dash_11: suit-time-stool-slender-game-drill-sustain-derive-struggle-fitness-milk
 bip_39_word_dash_12: suit-time-stool-slender-game-drill-sustain-derive-struggle-fitness-milk-again
 bip_39_word_dash_2: suit-time
 bip_39_word_dash_3: suit-time-stool
-bip_39_word_dash_4: suit-time-stool-slender
-bip_39_word_dash_5: suit-time-stool-slender-game
-bip_39_word_dash_6: suit-time-stool-slender-game-drill
-bip_39_word_dash_7: suit-time-stool-slender-game-drill-sustain
-bip_39_word_dash_8: suit-time-stool-slender-game-drill-sustain-derive
-bip_39_word_dash_9: suit-time-stool-slender-game-drill-sustain-derive-struggle
-bip_39_word_new_br_1: suit
-bip_39_word_new_br_10: suit<br>time<br>stool<br>slender<br>game<br>drill<br>sustain<br>derive<br>struggle<br>fitness
-bip_39_word_new_br_11: suit<br>time<br>stool<br>slender<br>game<br>drill<br>sustain<br>derive<br>struggle<br>fitness<br>milk
 bip_39_word_new_br_12: suit<br>time<br>stool<br>slender<br>game<br>drill<br>sustain<br>derive<br>struggle<br>fitness<br>milk<br>again
 bip_39_word_new_br_2: suit<br>time
 bip_39_word_new_br_3: suit<br>time<br>stool
-bip_39_word_new_br_4: suit<br>time<br>stool<br>slender
-bip_39_word_new_br_5: suit<br>time<br>stool<br>slender<br>game
-bip_39_word_new_br_6: suit<br>time<br>stool<br>slender<br>game<br>drill
-bip_39_word_new_br_7: suit<br>time<br>stool<br>slender<br>game<br>drill<br>sustain
-bip_39_word_new_br_8: suit<br>time<br>stool<br>slender<br>game<br>drill<br>sustain<br>derive
-bip_39_word_new_br_9: suit<br>time<br>stool<br>slender<br>game<br>drill<br>sustain<br>derive<br>struggle
-bip_39_word_new_line_1: suit
-bip_39_word_new_line_10: 'suit
-
-  time
-
-  stool
-
-  slender
-
-  game
-
-  drill
-
-  sustain
-
-  derive
-
-  struggle
-
-  fitness'
-bip_39_word_new_line_11: 'suit
-
-  time
-
-  stool
-
-  slender
-
-  game
-
-  drill
-
-  sustain
-
-  derive
-
-  struggle
-
-  fitness
-
-  milk'
 bip_39_word_new_line_12: 'suit
 
   time
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'suit
   time
 
   stool'
-bip_39_word_new_line_4: 'suit
-
-  time
-
-  stool
-
-  slender'
-bip_39_word_new_line_5: 'suit
-
-  time
-
-  stool
-
-  slender
-
-  game'
-bip_39_word_new_line_6: 'suit
-
-  time
-
-  stool
-
-  slender
-
-  game
-
-  drill'
-bip_39_word_new_line_7: 'suit
-
-  time
-
-  stool
-
-  slender
-
-  game
-
-  drill
-
-  sustain'
-bip_39_word_new_line_8: 'suit
-
-  time
-
-  stool
-
-  slender
-
-  game
-
-  drill
-
-  sustain
-
-  derive'
-bip_39_word_new_line_9: 'suit
-
-  time
-
-  stool
-
-  slender
-
-  game
-
-  drill
-
-  sustain
-
-  derive
-
-  struggle'
-bip_39_word_no_space_1: suit
-bip_39_word_no_space_10: suittimestoolslendergamedrillsustainderivestrugglefitness
-bip_39_word_no_space_11: suittimestoolslendergamedrillsustainderivestrugglefitnessmilk
 bip_39_word_no_space_12: suittimestoolslendergamedrillsustainderivestrugglefitnessmilkagain
 bip_39_word_no_space_2: suittime
 bip_39_word_no_space_3: suittimestool
-bip_39_word_no_space_4: suittimestoolslender
-bip_39_word_no_space_5: suittimestoolslendergame
-bip_39_word_no_space_6: suittimestoolslendergamedrill
-bip_39_word_no_space_7: suittimestoolslendergamedrillsustain
-bip_39_word_no_space_8: suittimestoolslendergamedrillsustainderive
-bip_39_word_no_space_9: suittimestoolslendergamedrillsustainderivestruggle
-bip_39_word_space_0:
-- suit
-- time
-- stool
-- slender
-- game
-- drill
-- sustain
-- derive
-- struggle
-- fitness
-- milk
-- again
-bip_39_word_space_1: suit
-bip_39_word_space_10: suit time stool slender game drill sustain derive struggle fitness
-bip_39_word_space_11: suit time stool slender game drill sustain derive struggle fitness
-  milk
 bip_39_word_space_12: suit time stool slender game drill sustain derive struggle fitness
   milk again
 bip_39_word_space_2: suit time
 bip_39_word_space_3: suit time stool
-bip_39_word_space_4: suit time stool slender
-bip_39_word_space_5: suit time stool slender game
-bip_39_word_space_6: suit time stool slender game drill
-bip_39_word_space_7: suit time stool slender game drill sustain
-bip_39_word_space_8: suit time stool slender game drill sustain derive
-bip_39_word_space_9: suit time stool slender game drill sustain derive struggle
-bip_39_word_underscore_1: suit
-bip_39_word_underscore_10: suit_time_stool_slender_game_drill_sustain_derive_struggle_fitness
-bip_39_word_underscore_11: suit_time_stool_slender_game_drill_sustain_derive_struggle_fitness_milk
 bip_39_word_underscore_12: suit_time_stool_slender_game_drill_sustain_derive_struggle_fitness_milk_again
 bip_39_word_underscore_2: suit_time
 bip_39_word_underscore_3: suit_time_stool
-bip_39_word_underscore_4: suit_time_stool_slender
-bip_39_word_underscore_5: suit_time_stool_slender_game
-bip_39_word_underscore_6: suit_time_stool_slender_game_drill
-bip_39_word_underscore_7: suit_time_stool_slender_game_drill_sustain
-bip_39_word_underscore_8: suit_time_stool_slender_game_drill_sustain_derive
-bip_39_word_underscore_9: suit_time_stool_slender_game_drill_sustain_derive_struggle
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

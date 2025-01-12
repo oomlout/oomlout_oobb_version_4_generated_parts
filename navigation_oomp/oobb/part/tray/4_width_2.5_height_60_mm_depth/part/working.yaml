@@ -1,68 +1,9 @@
-bip_39_word_dash_1: point
-bip_39_word_dash_10: point-grace-accuse-decorate-bachelor-dwarf-across-maple-various-water
-bip_39_word_dash_11: point-grace-accuse-decorate-bachelor-dwarf-across-maple-various-water-have
 bip_39_word_dash_12: point-grace-accuse-decorate-bachelor-dwarf-across-maple-various-water-have-accident
 bip_39_word_dash_2: point-grace
 bip_39_word_dash_3: point-grace-accuse
-bip_39_word_dash_4: point-grace-accuse-decorate
-bip_39_word_dash_5: point-grace-accuse-decorate-bachelor
-bip_39_word_dash_6: point-grace-accuse-decorate-bachelor-dwarf
-bip_39_word_dash_7: point-grace-accuse-decorate-bachelor-dwarf-across
-bip_39_word_dash_8: point-grace-accuse-decorate-bachelor-dwarf-across-maple
-bip_39_word_dash_9: point-grace-accuse-decorate-bachelor-dwarf-across-maple-various
-bip_39_word_new_br_1: point
-bip_39_word_new_br_10: point<br>grace<br>accuse<br>decorate<br>bachelor<br>dwarf<br>across<br>maple<br>various<br>water
-bip_39_word_new_br_11: point<br>grace<br>accuse<br>decorate<br>bachelor<br>dwarf<br>across<br>maple<br>various<br>water<br>have
 bip_39_word_new_br_12: point<br>grace<br>accuse<br>decorate<br>bachelor<br>dwarf<br>across<br>maple<br>various<br>water<br>have<br>accident
 bip_39_word_new_br_2: point<br>grace
 bip_39_word_new_br_3: point<br>grace<br>accuse
-bip_39_word_new_br_4: point<br>grace<br>accuse<br>decorate
-bip_39_word_new_br_5: point<br>grace<br>accuse<br>decorate<br>bachelor
-bip_39_word_new_br_6: point<br>grace<br>accuse<br>decorate<br>bachelor<br>dwarf
-bip_39_word_new_br_7: point<br>grace<br>accuse<br>decorate<br>bachelor<br>dwarf<br>across
-bip_39_word_new_br_8: point<br>grace<br>accuse<br>decorate<br>bachelor<br>dwarf<br>across<br>maple
-bip_39_word_new_br_9: point<br>grace<br>accuse<br>decorate<br>bachelor<br>dwarf<br>across<br>maple<br>various
-bip_39_word_new_line_1: point
-bip_39_word_new_line_10: 'point
-
-  grace
-
-  accuse
-
-  decorate
-
-  bachelor
-
-  dwarf
-
-  across
-
-  maple
-
-  various
-
-  water'
-bip_39_word_new_line_11: 'point
-
-  grace
-
-  accuse
-
-  decorate
-
-  bachelor
-
-  dwarf
-
-  across
-
-  maple
-
-  various
-
-  water
-
-  have'
 bip_39_word_new_line_12: 'point
 
   grace
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'point
   grace
 
   accuse'
-bip_39_word_new_line_4: 'point
-
-  grace
-
-  accuse
-
-  decorate'
-bip_39_word_new_line_5: 'point
-
-  grace
-
-  accuse
-
-  decorate
-
-  bachelor'
-bip_39_word_new_line_6: 'point
-
-  grace
-
-  accuse
-
-  decorate
-
-  bachelor
-
-  dwarf'
-bip_39_word_new_line_7: 'point
-
-  grace
-
-  accuse
-
-  decorate
-
-  bachelor
-
-  dwarf
-
-  across'
-bip_39_word_new_line_8: 'point
-
-  grace
-
-  accuse
-
-  decorate
-
-  bachelor
-
-  dwarf
-
-  across
-
-  maple'
-bip_39_word_new_line_9: 'point
-
-  grace
-
-  accuse
-
-  decorate
-
-  bachelor
-
-  dwarf
-
-  across
-
-  maple
-
-  various'
-bip_39_word_no_space_1: point
-bip_39_word_no_space_10: pointgraceaccusedecoratebachelordwarfacrossmaplevariouswater
-bip_39_word_no_space_11: pointgraceaccusedecoratebachelordwarfacrossmaplevariouswaterhave
 bip_39_word_no_space_12: pointgraceaccusedecoratebachelordwarfacrossmaplevariouswaterhaveaccident
 bip_39_word_no_space_2: pointgrace
 bip_39_word_no_space_3: pointgraceaccuse
-bip_39_word_no_space_4: pointgraceaccusedecorate
-bip_39_word_no_space_5: pointgraceaccusedecoratebachelor
-bip_39_word_no_space_6: pointgraceaccusedecoratebachelordwarf
-bip_39_word_no_space_7: pointgraceaccusedecoratebachelordwarfacross
-bip_39_word_no_space_8: pointgraceaccusedecoratebachelordwarfacrossmaple
-bip_39_word_no_space_9: pointgraceaccusedecoratebachelordwarfacrossmaplevarious
-bip_39_word_space_0:
-- point
-- grace
-- accuse
-- decorate
-- bachelor
-- dwarf
-- across
-- maple
-- various
-- water
-- have
-- accident
-bip_39_word_space_1: point
-bip_39_word_space_10: point grace accuse decorate bachelor dwarf across maple various
-  water
-bip_39_word_space_11: point grace accuse decorate bachelor dwarf across maple various
-  water have
 bip_39_word_space_12: point grace accuse decorate bachelor dwarf across maple various
   water have accident
 bip_39_word_space_2: point grace
 bip_39_word_space_3: point grace accuse
-bip_39_word_space_4: point grace accuse decorate
-bip_39_word_space_5: point grace accuse decorate bachelor
-bip_39_word_space_6: point grace accuse decorate bachelor dwarf
-bip_39_word_space_7: point grace accuse decorate bachelor dwarf across
-bip_39_word_space_8: point grace accuse decorate bachelor dwarf across maple
-bip_39_word_space_9: point grace accuse decorate bachelor dwarf across maple various
-bip_39_word_underscore_1: point
-bip_39_word_underscore_10: point_grace_accuse_decorate_bachelor_dwarf_across_maple_various_water
-bip_39_word_underscore_11: point_grace_accuse_decorate_bachelor_dwarf_across_maple_various_water_have
 bip_39_word_underscore_12: point_grace_accuse_decorate_bachelor_dwarf_across_maple_various_water_have_accident
 bip_39_word_underscore_2: point_grace
 bip_39_word_underscore_3: point_grace_accuse
-bip_39_word_underscore_4: point_grace_accuse_decorate
-bip_39_word_underscore_5: point_grace_accuse_decorate_bachelor
-bip_39_word_underscore_6: point_grace_accuse_decorate_bachelor_dwarf
-bip_39_word_underscore_7: point_grace_accuse_decorate_bachelor_dwarf_across
-bip_39_word_underscore_8: point_grace_accuse_decorate_bachelor_dwarf_across_maple
-bip_39_word_underscore_9: point_grace_accuse_decorate_bachelor_dwarf_across_maple_various
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

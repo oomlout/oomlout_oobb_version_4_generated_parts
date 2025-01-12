@@ -1,68 +1,9 @@
-bip_39_word_dash_1: embark
-bip_39_word_dash_10: embark-giraffe-dentist-man-skirt-supply-trigger-oyster-mirror-aim
-bip_39_word_dash_11: embark-giraffe-dentist-man-skirt-supply-trigger-oyster-mirror-aim-return
 bip_39_word_dash_12: embark-giraffe-dentist-man-skirt-supply-trigger-oyster-mirror-aim-return-alone
 bip_39_word_dash_2: embark-giraffe
 bip_39_word_dash_3: embark-giraffe-dentist
-bip_39_word_dash_4: embark-giraffe-dentist-man
-bip_39_word_dash_5: embark-giraffe-dentist-man-skirt
-bip_39_word_dash_6: embark-giraffe-dentist-man-skirt-supply
-bip_39_word_dash_7: embark-giraffe-dentist-man-skirt-supply-trigger
-bip_39_word_dash_8: embark-giraffe-dentist-man-skirt-supply-trigger-oyster
-bip_39_word_dash_9: embark-giraffe-dentist-man-skirt-supply-trigger-oyster-mirror
-bip_39_word_new_br_1: embark
-bip_39_word_new_br_10: embark<br>giraffe<br>dentist<br>man<br>skirt<br>supply<br>trigger<br>oyster<br>mirror<br>aim
-bip_39_word_new_br_11: embark<br>giraffe<br>dentist<br>man<br>skirt<br>supply<br>trigger<br>oyster<br>mirror<br>aim<br>return
 bip_39_word_new_br_12: embark<br>giraffe<br>dentist<br>man<br>skirt<br>supply<br>trigger<br>oyster<br>mirror<br>aim<br>return<br>alone
 bip_39_word_new_br_2: embark<br>giraffe
 bip_39_word_new_br_3: embark<br>giraffe<br>dentist
-bip_39_word_new_br_4: embark<br>giraffe<br>dentist<br>man
-bip_39_word_new_br_5: embark<br>giraffe<br>dentist<br>man<br>skirt
-bip_39_word_new_br_6: embark<br>giraffe<br>dentist<br>man<br>skirt<br>supply
-bip_39_word_new_br_7: embark<br>giraffe<br>dentist<br>man<br>skirt<br>supply<br>trigger
-bip_39_word_new_br_8: embark<br>giraffe<br>dentist<br>man<br>skirt<br>supply<br>trigger<br>oyster
-bip_39_word_new_br_9: embark<br>giraffe<br>dentist<br>man<br>skirt<br>supply<br>trigger<br>oyster<br>mirror
-bip_39_word_new_line_1: embark
-bip_39_word_new_line_10: 'embark
-
-  giraffe
-
-  dentist
-
-  man
-
-  skirt
-
-  supply
-
-  trigger
-
-  oyster
-
-  mirror
-
-  aim'
-bip_39_word_new_line_11: 'embark
-
-  giraffe
-
-  dentist
-
-  man
-
-  skirt
-
-  supply
-
-  trigger
-
-  oyster
-
-  mirror
-
-  aim
-
-  return'
 bip_39_word_new_line_12: 'embark
 
   giraffe
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'embark
   giraffe
 
   dentist'
-bip_39_word_new_line_4: 'embark
-
-  giraffe
-
-  dentist
-
-  man'
-bip_39_word_new_line_5: 'embark
-
-  giraffe
-
-  dentist
-
-  man
-
-  skirt'
-bip_39_word_new_line_6: 'embark
-
-  giraffe
-
-  dentist
-
-  man
-
-  skirt
-
-  supply'
-bip_39_word_new_line_7: 'embark
-
-  giraffe
-
-  dentist
-
-  man
-
-  skirt
-
-  supply
-
-  trigger'
-bip_39_word_new_line_8: 'embark
-
-  giraffe
-
-  dentist
-
-  man
-
-  skirt
-
-  supply
-
-  trigger
-
-  oyster'
-bip_39_word_new_line_9: 'embark
-
-  giraffe
-
-  dentist
-
-  man
-
-  skirt
-
-  supply
-
-  trigger
-
-  oyster
-
-  mirror'
-bip_39_word_no_space_1: embark
-bip_39_word_no_space_10: embarkgiraffedentistmanskirtsupplytriggeroystermirroraim
-bip_39_word_no_space_11: embarkgiraffedentistmanskirtsupplytriggeroystermirroraimreturn
 bip_39_word_no_space_12: embarkgiraffedentistmanskirtsupplytriggeroystermirroraimreturnalone
 bip_39_word_no_space_2: embarkgiraffe
 bip_39_word_no_space_3: embarkgiraffedentist
-bip_39_word_no_space_4: embarkgiraffedentistman
-bip_39_word_no_space_5: embarkgiraffedentistmanskirt
-bip_39_word_no_space_6: embarkgiraffedentistmanskirtsupply
-bip_39_word_no_space_7: embarkgiraffedentistmanskirtsupplytrigger
-bip_39_word_no_space_8: embarkgiraffedentistmanskirtsupplytriggeroyster
-bip_39_word_no_space_9: embarkgiraffedentistmanskirtsupplytriggeroystermirror
-bip_39_word_space_0:
-- embark
-- giraffe
-- dentist
-- man
-- skirt
-- supply
-- trigger
-- oyster
-- mirror
-- aim
-- return
-- alone
-bip_39_word_space_1: embark
-bip_39_word_space_10: embark giraffe dentist man skirt supply trigger oyster mirror
-  aim
-bip_39_word_space_11: embark giraffe dentist man skirt supply trigger oyster mirror
-  aim return
 bip_39_word_space_12: embark giraffe dentist man skirt supply trigger oyster mirror
   aim return alone
 bip_39_word_space_2: embark giraffe
 bip_39_word_space_3: embark giraffe dentist
-bip_39_word_space_4: embark giraffe dentist man
-bip_39_word_space_5: embark giraffe dentist man skirt
-bip_39_word_space_6: embark giraffe dentist man skirt supply
-bip_39_word_space_7: embark giraffe dentist man skirt supply trigger
-bip_39_word_space_8: embark giraffe dentist man skirt supply trigger oyster
-bip_39_word_space_9: embark giraffe dentist man skirt supply trigger oyster mirror
-bip_39_word_underscore_1: embark
-bip_39_word_underscore_10: embark_giraffe_dentist_man_skirt_supply_trigger_oyster_mirror_aim
-bip_39_word_underscore_11: embark_giraffe_dentist_man_skirt_supply_trigger_oyster_mirror_aim_return
 bip_39_word_underscore_12: embark_giraffe_dentist_man_skirt_supply_trigger_oyster_mirror_aim_return_alone
 bip_39_word_underscore_2: embark_giraffe
 bip_39_word_underscore_3: embark_giraffe_dentist
-bip_39_word_underscore_4: embark_giraffe_dentist_man
-bip_39_word_underscore_5: embark_giraffe_dentist_man_skirt
-bip_39_word_underscore_6: embark_giraffe_dentist_man_skirt_supply
-bip_39_word_underscore_7: embark_giraffe_dentist_man_skirt_supply_trigger
-bip_39_word_underscore_8: embark_giraffe_dentist_man_skirt_supply_trigger_oyster
-bip_39_word_underscore_9: embark_giraffe_dentist_man_skirt_supply_trigger_oyster_mirror
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

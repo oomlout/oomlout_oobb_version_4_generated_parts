@@ -1,68 +1,9 @@
-bip_39_word_dash_1: manual
-bip_39_word_dash_10: manual-enforce-slot-blanket-deny-example-parade-vendor-peanut-muffin
-bip_39_word_dash_11: manual-enforce-slot-blanket-deny-example-parade-vendor-peanut-muffin-invest
 bip_39_word_dash_12: manual-enforce-slot-blanket-deny-example-parade-vendor-peanut-muffin-invest-another
 bip_39_word_dash_2: manual-enforce
 bip_39_word_dash_3: manual-enforce-slot
-bip_39_word_dash_4: manual-enforce-slot-blanket
-bip_39_word_dash_5: manual-enforce-slot-blanket-deny
-bip_39_word_dash_6: manual-enforce-slot-blanket-deny-example
-bip_39_word_dash_7: manual-enforce-slot-blanket-deny-example-parade
-bip_39_word_dash_8: manual-enforce-slot-blanket-deny-example-parade-vendor
-bip_39_word_dash_9: manual-enforce-slot-blanket-deny-example-parade-vendor-peanut
-bip_39_word_new_br_1: manual
-bip_39_word_new_br_10: manual<br>enforce<br>slot<br>blanket<br>deny<br>example<br>parade<br>vendor<br>peanut<br>muffin
-bip_39_word_new_br_11: manual<br>enforce<br>slot<br>blanket<br>deny<br>example<br>parade<br>vendor<br>peanut<br>muffin<br>invest
 bip_39_word_new_br_12: manual<br>enforce<br>slot<br>blanket<br>deny<br>example<br>parade<br>vendor<br>peanut<br>muffin<br>invest<br>another
 bip_39_word_new_br_2: manual<br>enforce
 bip_39_word_new_br_3: manual<br>enforce<br>slot
-bip_39_word_new_br_4: manual<br>enforce<br>slot<br>blanket
-bip_39_word_new_br_5: manual<br>enforce<br>slot<br>blanket<br>deny
-bip_39_word_new_br_6: manual<br>enforce<br>slot<br>blanket<br>deny<br>example
-bip_39_word_new_br_7: manual<br>enforce<br>slot<br>blanket<br>deny<br>example<br>parade
-bip_39_word_new_br_8: manual<br>enforce<br>slot<br>blanket<br>deny<br>example<br>parade<br>vendor
-bip_39_word_new_br_9: manual<br>enforce<br>slot<br>blanket<br>deny<br>example<br>parade<br>vendor<br>peanut
-bip_39_word_new_line_1: manual
-bip_39_word_new_line_10: 'manual
-
-  enforce
-
-  slot
-
-  blanket
-
-  deny
-
-  example
-
-  parade
-
-  vendor
-
-  peanut
-
-  muffin'
-bip_39_word_new_line_11: 'manual
-
-  enforce
-
-  slot
-
-  blanket
-
-  deny
-
-  example
-
-  parade
-
-  vendor
-
-  peanut
-
-  muffin
-
-  invest'
 bip_39_word_new_line_12: 'manual
 
   enforce
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'manual
   enforce
 
   slot'
-bip_39_word_new_line_4: 'manual
-
-  enforce
-
-  slot
-
-  blanket'
-bip_39_word_new_line_5: 'manual
-
-  enforce
-
-  slot
-
-  blanket
-
-  deny'
-bip_39_word_new_line_6: 'manual
-
-  enforce
-
-  slot
-
-  blanket
-
-  deny
-
-  example'
-bip_39_word_new_line_7: 'manual
-
-  enforce
-
-  slot
-
-  blanket
-
-  deny
-
-  example
-
-  parade'
-bip_39_word_new_line_8: 'manual
-
-  enforce
-
-  slot
-
-  blanket
-
-  deny
-
-  example
-
-  parade
-
-  vendor'
-bip_39_word_new_line_9: 'manual
-
-  enforce
-
-  slot
-
-  blanket
-
-  deny
-
-  example
-
-  parade
-
-  vendor
-
-  peanut'
-bip_39_word_no_space_1: manual
-bip_39_word_no_space_10: manualenforceslotblanketdenyexampleparadevendorpeanutmuffin
-bip_39_word_no_space_11: manualenforceslotblanketdenyexampleparadevendorpeanutmuffininvest
 bip_39_word_no_space_12: manualenforceslotblanketdenyexampleparadevendorpeanutmuffininvestanother
 bip_39_word_no_space_2: manualenforce
 bip_39_word_no_space_3: manualenforceslot
-bip_39_word_no_space_4: manualenforceslotblanket
-bip_39_word_no_space_5: manualenforceslotblanketdeny
-bip_39_word_no_space_6: manualenforceslotblanketdenyexample
-bip_39_word_no_space_7: manualenforceslotblanketdenyexampleparade
-bip_39_word_no_space_8: manualenforceslotblanketdenyexampleparadevendor
-bip_39_word_no_space_9: manualenforceslotblanketdenyexampleparadevendorpeanut
-bip_39_word_space_0:
-- manual
-- enforce
-- slot
-- blanket
-- deny
-- example
-- parade
-- vendor
-- peanut
-- muffin
-- invest
-- another
-bip_39_word_space_1: manual
-bip_39_word_space_10: manual enforce slot blanket deny example parade vendor peanut
-  muffin
-bip_39_word_space_11: manual enforce slot blanket deny example parade vendor peanut
-  muffin invest
 bip_39_word_space_12: manual enforce slot blanket deny example parade vendor peanut
   muffin invest another
 bip_39_word_space_2: manual enforce
 bip_39_word_space_3: manual enforce slot
-bip_39_word_space_4: manual enforce slot blanket
-bip_39_word_space_5: manual enforce slot blanket deny
-bip_39_word_space_6: manual enforce slot blanket deny example
-bip_39_word_space_7: manual enforce slot blanket deny example parade
-bip_39_word_space_8: manual enforce slot blanket deny example parade vendor
-bip_39_word_space_9: manual enforce slot blanket deny example parade vendor peanut
-bip_39_word_underscore_1: manual
-bip_39_word_underscore_10: manual_enforce_slot_blanket_deny_example_parade_vendor_peanut_muffin
-bip_39_word_underscore_11: manual_enforce_slot_blanket_deny_example_parade_vendor_peanut_muffin_invest
 bip_39_word_underscore_12: manual_enforce_slot_blanket_deny_example_parade_vendor_peanut_muffin_invest_another
 bip_39_word_underscore_2: manual_enforce
 bip_39_word_underscore_3: manual_enforce_slot
-bip_39_word_underscore_4: manual_enforce_slot_blanket
-bip_39_word_underscore_5: manual_enforce_slot_blanket_deny
-bip_39_word_underscore_6: manual_enforce_slot_blanket_deny_example
-bip_39_word_underscore_7: manual_enforce_slot_blanket_deny_example_parade
-bip_39_word_underscore_8: manual_enforce_slot_blanket_deny_example_parade_vendor
-bip_39_word_underscore_9: manual_enforce_slot_blanket_deny_example_parade_vendor_peanut
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: misery
-bip_39_word_dash_10: misery-banana-dust-throw-token-life-negative-agent-world-puppy
-bip_39_word_dash_11: misery-banana-dust-throw-token-life-negative-agent-world-puppy-book
 bip_39_word_dash_12: misery-banana-dust-throw-token-life-negative-agent-world-puppy-book-absorb
 bip_39_word_dash_2: misery-banana
 bip_39_word_dash_3: misery-banana-dust
-bip_39_word_dash_4: misery-banana-dust-throw
-bip_39_word_dash_5: misery-banana-dust-throw-token
-bip_39_word_dash_6: misery-banana-dust-throw-token-life
-bip_39_word_dash_7: misery-banana-dust-throw-token-life-negative
-bip_39_word_dash_8: misery-banana-dust-throw-token-life-negative-agent
-bip_39_word_dash_9: misery-banana-dust-throw-token-life-negative-agent-world
-bip_39_word_new_br_1: misery
-bip_39_word_new_br_10: misery<br>banana<br>dust<br>throw<br>token<br>life<br>negative<br>agent<br>world<br>puppy
-bip_39_word_new_br_11: misery<br>banana<br>dust<br>throw<br>token<br>life<br>negative<br>agent<br>world<br>puppy<br>book
 bip_39_word_new_br_12: misery<br>banana<br>dust<br>throw<br>token<br>life<br>negative<br>agent<br>world<br>puppy<br>book<br>absorb
 bip_39_word_new_br_2: misery<br>banana
 bip_39_word_new_br_3: misery<br>banana<br>dust
-bip_39_word_new_br_4: misery<br>banana<br>dust<br>throw
-bip_39_word_new_br_5: misery<br>banana<br>dust<br>throw<br>token
-bip_39_word_new_br_6: misery<br>banana<br>dust<br>throw<br>token<br>life
-bip_39_word_new_br_7: misery<br>banana<br>dust<br>throw<br>token<br>life<br>negative
-bip_39_word_new_br_8: misery<br>banana<br>dust<br>throw<br>token<br>life<br>negative<br>agent
-bip_39_word_new_br_9: misery<br>banana<br>dust<br>throw<br>token<br>life<br>negative<br>agent<br>world
-bip_39_word_new_line_1: misery
-bip_39_word_new_line_10: 'misery
-
-  banana
-
-  dust
-
-  throw
-
-  token
-
-  life
-
-  negative
-
-  agent
-
-  world
-
-  puppy'
-bip_39_word_new_line_11: 'misery
-
-  banana
-
-  dust
-
-  throw
-
-  token
-
-  life
-
-  negative
-
-  agent
-
-  world
-
-  puppy
-
-  book'
 bip_39_word_new_line_12: 'misery
 
   banana
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'misery
   banana
 
   dust'
-bip_39_word_new_line_4: 'misery
-
-  banana
-
-  dust
-
-  throw'
-bip_39_word_new_line_5: 'misery
-
-  banana
-
-  dust
-
-  throw
-
-  token'
-bip_39_word_new_line_6: 'misery
-
-  banana
-
-  dust
-
-  throw
-
-  token
-
-  life'
-bip_39_word_new_line_7: 'misery
-
-  banana
-
-  dust
-
-  throw
-
-  token
-
-  life
-
-  negative'
-bip_39_word_new_line_8: 'misery
-
-  banana
-
-  dust
-
-  throw
-
-  token
-
-  life
-
-  negative
-
-  agent'
-bip_39_word_new_line_9: 'misery
-
-  banana
-
-  dust
-
-  throw
-
-  token
-
-  life
-
-  negative
-
-  agent
-
-  world'
-bip_39_word_no_space_1: misery
-bip_39_word_no_space_10: miserybananadustthrowtokenlifenegativeagentworldpuppy
-bip_39_word_no_space_11: miserybananadustthrowtokenlifenegativeagentworldpuppybook
 bip_39_word_no_space_12: miserybananadustthrowtokenlifenegativeagentworldpuppybookabsorb
 bip_39_word_no_space_2: miserybanana
 bip_39_word_no_space_3: miserybananadust
-bip_39_word_no_space_4: miserybananadustthrow
-bip_39_word_no_space_5: miserybananadustthrowtoken
-bip_39_word_no_space_6: miserybananadustthrowtokenlife
-bip_39_word_no_space_7: miserybananadustthrowtokenlifenegative
-bip_39_word_no_space_8: miserybananadustthrowtokenlifenegativeagent
-bip_39_word_no_space_9: miserybananadustthrowtokenlifenegativeagentworld
-bip_39_word_space_0:
-- misery
-- banana
-- dust
-- throw
-- token
-- life
-- negative
-- agent
-- world
-- puppy
-- book
-- absorb
-bip_39_word_space_1: misery
-bip_39_word_space_10: misery banana dust throw token life negative agent world puppy
-bip_39_word_space_11: misery banana dust throw token life negative agent world puppy
-  book
 bip_39_word_space_12: misery banana dust throw token life negative agent world puppy
   book absorb
 bip_39_word_space_2: misery banana
 bip_39_word_space_3: misery banana dust
-bip_39_word_space_4: misery banana dust throw
-bip_39_word_space_5: misery banana dust throw token
-bip_39_word_space_6: misery banana dust throw token life
-bip_39_word_space_7: misery banana dust throw token life negative
-bip_39_word_space_8: misery banana dust throw token life negative agent
-bip_39_word_space_9: misery banana dust throw token life negative agent world
-bip_39_word_underscore_1: misery
-bip_39_word_underscore_10: misery_banana_dust_throw_token_life_negative_agent_world_puppy
-bip_39_word_underscore_11: misery_banana_dust_throw_token_life_negative_agent_world_puppy_book
 bip_39_word_underscore_12: misery_banana_dust_throw_token_life_negative_agent_world_puppy_book_absorb
 bip_39_word_underscore_2: misery_banana
 bip_39_word_underscore_3: misery_banana_dust
-bip_39_word_underscore_4: misery_banana_dust_throw
-bip_39_word_underscore_5: misery_banana_dust_throw_token
-bip_39_word_underscore_6: misery_banana_dust_throw_token_life
-bip_39_word_underscore_7: misery_banana_dust_throw_token_life_negative
-bip_39_word_underscore_8: misery_banana_dust_throw_token_life_negative_agent
-bip_39_word_underscore_9: misery_banana_dust_throw_token_life_negative_agent_world
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

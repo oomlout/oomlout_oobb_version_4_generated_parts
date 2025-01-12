@@ -1,68 +1,9 @@
-bip_39_word_dash_1: armor
-bip_39_word_dash_10: armor-cat-clap-mail-obvious-push-excuse-picnic-divorce-endless
-bip_39_word_dash_11: armor-cat-clap-mail-obvious-push-excuse-picnic-divorce-endless-merit
 bip_39_word_dash_12: armor-cat-clap-mail-obvious-push-excuse-picnic-divorce-endless-merit-aspect
 bip_39_word_dash_2: armor-cat
 bip_39_word_dash_3: armor-cat-clap
-bip_39_word_dash_4: armor-cat-clap-mail
-bip_39_word_dash_5: armor-cat-clap-mail-obvious
-bip_39_word_dash_6: armor-cat-clap-mail-obvious-push
-bip_39_word_dash_7: armor-cat-clap-mail-obvious-push-excuse
-bip_39_word_dash_8: armor-cat-clap-mail-obvious-push-excuse-picnic
-bip_39_word_dash_9: armor-cat-clap-mail-obvious-push-excuse-picnic-divorce
-bip_39_word_new_br_1: armor
-bip_39_word_new_br_10: armor<br>cat<br>clap<br>mail<br>obvious<br>push<br>excuse<br>picnic<br>divorce<br>endless
-bip_39_word_new_br_11: armor<br>cat<br>clap<br>mail<br>obvious<br>push<br>excuse<br>picnic<br>divorce<br>endless<br>merit
 bip_39_word_new_br_12: armor<br>cat<br>clap<br>mail<br>obvious<br>push<br>excuse<br>picnic<br>divorce<br>endless<br>merit<br>aspect
 bip_39_word_new_br_2: armor<br>cat
 bip_39_word_new_br_3: armor<br>cat<br>clap
-bip_39_word_new_br_4: armor<br>cat<br>clap<br>mail
-bip_39_word_new_br_5: armor<br>cat<br>clap<br>mail<br>obvious
-bip_39_word_new_br_6: armor<br>cat<br>clap<br>mail<br>obvious<br>push
-bip_39_word_new_br_7: armor<br>cat<br>clap<br>mail<br>obvious<br>push<br>excuse
-bip_39_word_new_br_8: armor<br>cat<br>clap<br>mail<br>obvious<br>push<br>excuse<br>picnic
-bip_39_word_new_br_9: armor<br>cat<br>clap<br>mail<br>obvious<br>push<br>excuse<br>picnic<br>divorce
-bip_39_word_new_line_1: armor
-bip_39_word_new_line_10: 'armor
-
-  cat
-
-  clap
-
-  mail
-
-  obvious
-
-  push
-
-  excuse
-
-  picnic
-
-  divorce
-
-  endless'
-bip_39_word_new_line_11: 'armor
-
-  cat
-
-  clap
-
-  mail
-
-  obvious
-
-  push
-
-  excuse
-
-  picnic
-
-  divorce
-
-  endless
-
-  merit'
 bip_39_word_new_line_12: 'armor
 
   cat
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'armor
   cat
 
   clap'
-bip_39_word_new_line_4: 'armor
-
-  cat
-
-  clap
-
-  mail'
-bip_39_word_new_line_5: 'armor
-
-  cat
-
-  clap
-
-  mail
-
-  obvious'
-bip_39_word_new_line_6: 'armor
-
-  cat
-
-  clap
-
-  mail
-
-  obvious
-
-  push'
-bip_39_word_new_line_7: 'armor
-
-  cat
-
-  clap
-
-  mail
-
-  obvious
-
-  push
-
-  excuse'
-bip_39_word_new_line_8: 'armor
-
-  cat
-
-  clap
-
-  mail
-
-  obvious
-
-  push
-
-  excuse
-
-  picnic'
-bip_39_word_new_line_9: 'armor
-
-  cat
-
-  clap
-
-  mail
-
-  obvious
-
-  push
-
-  excuse
-
-  picnic
-
-  divorce'
-bip_39_word_no_space_1: armor
-bip_39_word_no_space_10: armorcatclapmailobviouspushexcusepicnicdivorceendless
-bip_39_word_no_space_11: armorcatclapmailobviouspushexcusepicnicdivorceendlessmerit
 bip_39_word_no_space_12: armorcatclapmailobviouspushexcusepicnicdivorceendlessmeritaspect
 bip_39_word_no_space_2: armorcat
 bip_39_word_no_space_3: armorcatclap
-bip_39_word_no_space_4: armorcatclapmail
-bip_39_word_no_space_5: armorcatclapmailobvious
-bip_39_word_no_space_6: armorcatclapmailobviouspush
-bip_39_word_no_space_7: armorcatclapmailobviouspushexcuse
-bip_39_word_no_space_8: armorcatclapmailobviouspushexcusepicnic
-bip_39_word_no_space_9: armorcatclapmailobviouspushexcusepicnicdivorce
-bip_39_word_space_0:
-- armor
-- cat
-- clap
-- mail
-- obvious
-- push
-- excuse
-- picnic
-- divorce
-- endless
-- merit
-- aspect
-bip_39_word_space_1: armor
-bip_39_word_space_10: armor cat clap mail obvious push excuse picnic divorce endless
-bip_39_word_space_11: armor cat clap mail obvious push excuse picnic divorce endless
-  merit
 bip_39_word_space_12: armor cat clap mail obvious push excuse picnic divorce endless
   merit aspect
 bip_39_word_space_2: armor cat
 bip_39_word_space_3: armor cat clap
-bip_39_word_space_4: armor cat clap mail
-bip_39_word_space_5: armor cat clap mail obvious
-bip_39_word_space_6: armor cat clap mail obvious push
-bip_39_word_space_7: armor cat clap mail obvious push excuse
-bip_39_word_space_8: armor cat clap mail obvious push excuse picnic
-bip_39_word_space_9: armor cat clap mail obvious push excuse picnic divorce
-bip_39_word_underscore_1: armor
-bip_39_word_underscore_10: armor_cat_clap_mail_obvious_push_excuse_picnic_divorce_endless
-bip_39_word_underscore_11: armor_cat_clap_mail_obvious_push_excuse_picnic_divorce_endless_merit
 bip_39_word_underscore_12: armor_cat_clap_mail_obvious_push_excuse_picnic_divorce_endless_merit_aspect
 bip_39_word_underscore_2: armor_cat
 bip_39_word_underscore_3: armor_cat_clap
-bip_39_word_underscore_4: armor_cat_clap_mail
-bip_39_word_underscore_5: armor_cat_clap_mail_obvious
-bip_39_word_underscore_6: armor_cat_clap_mail_obvious_push
-bip_39_word_underscore_7: armor_cat_clap_mail_obvious_push_excuse
-bip_39_word_underscore_8: armor_cat_clap_mail_obvious_push_excuse_picnic
-bip_39_word_underscore_9: armor_cat_clap_mail_obvious_push_excuse_picnic_divorce
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

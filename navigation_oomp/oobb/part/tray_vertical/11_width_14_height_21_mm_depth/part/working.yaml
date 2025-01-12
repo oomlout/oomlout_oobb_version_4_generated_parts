@@ -1,68 +1,9 @@
-bip_39_word_dash_1: choice
-bip_39_word_dash_10: choice-surprise-arch-mercy-ritual-cook-acquire-throw-trend-prepare
-bip_39_word_dash_11: choice-surprise-arch-mercy-ritual-cook-acquire-throw-trend-prepare-prepare
 bip_39_word_dash_12: choice-surprise-arch-mercy-ritual-cook-acquire-throw-trend-prepare-prepare-advance
 bip_39_word_dash_2: choice-surprise
 bip_39_word_dash_3: choice-surprise-arch
-bip_39_word_dash_4: choice-surprise-arch-mercy
-bip_39_word_dash_5: choice-surprise-arch-mercy-ritual
-bip_39_word_dash_6: choice-surprise-arch-mercy-ritual-cook
-bip_39_word_dash_7: choice-surprise-arch-mercy-ritual-cook-acquire
-bip_39_word_dash_8: choice-surprise-arch-mercy-ritual-cook-acquire-throw
-bip_39_word_dash_9: choice-surprise-arch-mercy-ritual-cook-acquire-throw-trend
-bip_39_word_new_br_1: choice
-bip_39_word_new_br_10: choice<br>surprise<br>arch<br>mercy<br>ritual<br>cook<br>acquire<br>throw<br>trend<br>prepare
-bip_39_word_new_br_11: choice<br>surprise<br>arch<br>mercy<br>ritual<br>cook<br>acquire<br>throw<br>trend<br>prepare<br>prepare
 bip_39_word_new_br_12: choice<br>surprise<br>arch<br>mercy<br>ritual<br>cook<br>acquire<br>throw<br>trend<br>prepare<br>prepare<br>advance
 bip_39_word_new_br_2: choice<br>surprise
 bip_39_word_new_br_3: choice<br>surprise<br>arch
-bip_39_word_new_br_4: choice<br>surprise<br>arch<br>mercy
-bip_39_word_new_br_5: choice<br>surprise<br>arch<br>mercy<br>ritual
-bip_39_word_new_br_6: choice<br>surprise<br>arch<br>mercy<br>ritual<br>cook
-bip_39_word_new_br_7: choice<br>surprise<br>arch<br>mercy<br>ritual<br>cook<br>acquire
-bip_39_word_new_br_8: choice<br>surprise<br>arch<br>mercy<br>ritual<br>cook<br>acquire<br>throw
-bip_39_word_new_br_9: choice<br>surprise<br>arch<br>mercy<br>ritual<br>cook<br>acquire<br>throw<br>trend
-bip_39_word_new_line_1: choice
-bip_39_word_new_line_10: 'choice
-
-  surprise
-
-  arch
-
-  mercy
-
-  ritual
-
-  cook
-
-  acquire
-
-  throw
-
-  trend
-
-  prepare'
-bip_39_word_new_line_11: 'choice
-
-  surprise
-
-  arch
-
-  mercy
-
-  ritual
-
-  cook
-
-  acquire
-
-  throw
-
-  trend
-
-  prepare
-
-  prepare'
 bip_39_word_new_line_12: 'choice
 
   surprise
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'choice
   surprise
 
   arch'
-bip_39_word_new_line_4: 'choice
-
-  surprise
-
-  arch
-
-  mercy'
-bip_39_word_new_line_5: 'choice
-
-  surprise
-
-  arch
-
-  mercy
-
-  ritual'
-bip_39_word_new_line_6: 'choice
-
-  surprise
-
-  arch
-
-  mercy
-
-  ritual
-
-  cook'
-bip_39_word_new_line_7: 'choice
-
-  surprise
-
-  arch
-
-  mercy
-
-  ritual
-
-  cook
-
-  acquire'
-bip_39_word_new_line_8: 'choice
-
-  surprise
-
-  arch
-
-  mercy
-
-  ritual
-
-  cook
-
-  acquire
-
-  throw'
-bip_39_word_new_line_9: 'choice
-
-  surprise
-
-  arch
-
-  mercy
-
-  ritual
-
-  cook
-
-  acquire
-
-  throw
-
-  trend'
-bip_39_word_no_space_1: choice
-bip_39_word_no_space_10: choicesurprisearchmercyritualcookacquirethrowtrendprepare
-bip_39_word_no_space_11: choicesurprisearchmercyritualcookacquirethrowtrendprepareprepare
 bip_39_word_no_space_12: choicesurprisearchmercyritualcookacquirethrowtrendprepareprepareadvance
 bip_39_word_no_space_2: choicesurprise
 bip_39_word_no_space_3: choicesurprisearch
-bip_39_word_no_space_4: choicesurprisearchmercy
-bip_39_word_no_space_5: choicesurprisearchmercyritual
-bip_39_word_no_space_6: choicesurprisearchmercyritualcook
-bip_39_word_no_space_7: choicesurprisearchmercyritualcookacquire
-bip_39_word_no_space_8: choicesurprisearchmercyritualcookacquirethrow
-bip_39_word_no_space_9: choicesurprisearchmercyritualcookacquirethrowtrend
-bip_39_word_space_0:
-- choice
-- surprise
-- arch
-- mercy
-- ritual
-- cook
-- acquire
-- throw
-- trend
-- prepare
-- prepare
-- advance
-bip_39_word_space_1: choice
-bip_39_word_space_10: choice surprise arch mercy ritual cook acquire throw trend prepare
-bip_39_word_space_11: choice surprise arch mercy ritual cook acquire throw trend prepare
-  prepare
 bip_39_word_space_12: choice surprise arch mercy ritual cook acquire throw trend prepare
   prepare advance
 bip_39_word_space_2: choice surprise
 bip_39_word_space_3: choice surprise arch
-bip_39_word_space_4: choice surprise arch mercy
-bip_39_word_space_5: choice surprise arch mercy ritual
-bip_39_word_space_6: choice surprise arch mercy ritual cook
-bip_39_word_space_7: choice surprise arch mercy ritual cook acquire
-bip_39_word_space_8: choice surprise arch mercy ritual cook acquire throw
-bip_39_word_space_9: choice surprise arch mercy ritual cook acquire throw trend
-bip_39_word_underscore_1: choice
-bip_39_word_underscore_10: choice_surprise_arch_mercy_ritual_cook_acquire_throw_trend_prepare
-bip_39_word_underscore_11: choice_surprise_arch_mercy_ritual_cook_acquire_throw_trend_prepare_prepare
 bip_39_word_underscore_12: choice_surprise_arch_mercy_ritual_cook_acquire_throw_trend_prepare_prepare_advance
 bip_39_word_underscore_2: choice_surprise
 bip_39_word_underscore_3: choice_surprise_arch
-bip_39_word_underscore_4: choice_surprise_arch_mercy
-bip_39_word_underscore_5: choice_surprise_arch_mercy_ritual
-bip_39_word_underscore_6: choice_surprise_arch_mercy_ritual_cook
-bip_39_word_underscore_7: choice_surprise_arch_mercy_ritual_cook_acquire
-bip_39_word_underscore_8: choice_surprise_arch_mercy_ritual_cook_acquire_throw
-bip_39_word_underscore_9: choice_surprise_arch_mercy_ritual_cook_acquire_throw_trend
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

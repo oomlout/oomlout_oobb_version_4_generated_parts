@@ -1,68 +1,9 @@
-bip_39_word_dash_1: smoke
-bip_39_word_dash_10: smoke-cream-sting-govern-client-someone-call-leader-load-undo
-bip_39_word_dash_11: smoke-cream-sting-govern-client-someone-call-leader-load-undo-hat
 bip_39_word_dash_12: smoke-cream-sting-govern-client-someone-call-leader-load-undo-hat-around
 bip_39_word_dash_2: smoke-cream
 bip_39_word_dash_3: smoke-cream-sting
-bip_39_word_dash_4: smoke-cream-sting-govern
-bip_39_word_dash_5: smoke-cream-sting-govern-client
-bip_39_word_dash_6: smoke-cream-sting-govern-client-someone
-bip_39_word_dash_7: smoke-cream-sting-govern-client-someone-call
-bip_39_word_dash_8: smoke-cream-sting-govern-client-someone-call-leader
-bip_39_word_dash_9: smoke-cream-sting-govern-client-someone-call-leader-load
-bip_39_word_new_br_1: smoke
-bip_39_word_new_br_10: smoke<br>cream<br>sting<br>govern<br>client<br>someone<br>call<br>leader<br>load<br>undo
-bip_39_word_new_br_11: smoke<br>cream<br>sting<br>govern<br>client<br>someone<br>call<br>leader<br>load<br>undo<br>hat
 bip_39_word_new_br_12: smoke<br>cream<br>sting<br>govern<br>client<br>someone<br>call<br>leader<br>load<br>undo<br>hat<br>around
 bip_39_word_new_br_2: smoke<br>cream
 bip_39_word_new_br_3: smoke<br>cream<br>sting
-bip_39_word_new_br_4: smoke<br>cream<br>sting<br>govern
-bip_39_word_new_br_5: smoke<br>cream<br>sting<br>govern<br>client
-bip_39_word_new_br_6: smoke<br>cream<br>sting<br>govern<br>client<br>someone
-bip_39_word_new_br_7: smoke<br>cream<br>sting<br>govern<br>client<br>someone<br>call
-bip_39_word_new_br_8: smoke<br>cream<br>sting<br>govern<br>client<br>someone<br>call<br>leader
-bip_39_word_new_br_9: smoke<br>cream<br>sting<br>govern<br>client<br>someone<br>call<br>leader<br>load
-bip_39_word_new_line_1: smoke
-bip_39_word_new_line_10: 'smoke
-
-  cream
-
-  sting
-
-  govern
-
-  client
-
-  someone
-
-  call
-
-  leader
-
-  load
-
-  undo'
-bip_39_word_new_line_11: 'smoke
-
-  cream
-
-  sting
-
-  govern
-
-  client
-
-  someone
-
-  call
-
-  leader
-
-  load
-
-  undo
-
-  hat'
 bip_39_word_new_line_12: 'smoke
 
   cream
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'smoke
   cream
 
   sting'
-bip_39_word_new_line_4: 'smoke
-
-  cream
-
-  sting
-
-  govern'
-bip_39_word_new_line_5: 'smoke
-
-  cream
-
-  sting
-
-  govern
-
-  client'
-bip_39_word_new_line_6: 'smoke
-
-  cream
-
-  sting
-
-  govern
-
-  client
-
-  someone'
-bip_39_word_new_line_7: 'smoke
-
-  cream
-
-  sting
-
-  govern
-
-  client
-
-  someone
-
-  call'
-bip_39_word_new_line_8: 'smoke
-
-  cream
-
-  sting
-
-  govern
-
-  client
-
-  someone
-
-  call
-
-  leader'
-bip_39_word_new_line_9: 'smoke
-
-  cream
-
-  sting
-
-  govern
-
-  client
-
-  someone
-
-  call
-
-  leader
-
-  load'
-bip_39_word_no_space_1: smoke
-bip_39_word_no_space_10: smokecreamstinggovernclientsomeonecallleaderloadundo
-bip_39_word_no_space_11: smokecreamstinggovernclientsomeonecallleaderloadundohat
 bip_39_word_no_space_12: smokecreamstinggovernclientsomeonecallleaderloadundohataround
 bip_39_word_no_space_2: smokecream
 bip_39_word_no_space_3: smokecreamsting
-bip_39_word_no_space_4: smokecreamstinggovern
-bip_39_word_no_space_5: smokecreamstinggovernclient
-bip_39_word_no_space_6: smokecreamstinggovernclientsomeone
-bip_39_word_no_space_7: smokecreamstinggovernclientsomeonecall
-bip_39_word_no_space_8: smokecreamstinggovernclientsomeonecallleader
-bip_39_word_no_space_9: smokecreamstinggovernclientsomeonecallleaderload
-bip_39_word_space_0:
-- smoke
-- cream
-- sting
-- govern
-- client
-- someone
-- call
-- leader
-- load
-- undo
-- hat
-- around
-bip_39_word_space_1: smoke
-bip_39_word_space_10: smoke cream sting govern client someone call leader load undo
-bip_39_word_space_11: smoke cream sting govern client someone call leader load undo
-  hat
 bip_39_word_space_12: smoke cream sting govern client someone call leader load undo
   hat around
 bip_39_word_space_2: smoke cream
 bip_39_word_space_3: smoke cream sting
-bip_39_word_space_4: smoke cream sting govern
-bip_39_word_space_5: smoke cream sting govern client
-bip_39_word_space_6: smoke cream sting govern client someone
-bip_39_word_space_7: smoke cream sting govern client someone call
-bip_39_word_space_8: smoke cream sting govern client someone call leader
-bip_39_word_space_9: smoke cream sting govern client someone call leader load
-bip_39_word_underscore_1: smoke
-bip_39_word_underscore_10: smoke_cream_sting_govern_client_someone_call_leader_load_undo
-bip_39_word_underscore_11: smoke_cream_sting_govern_client_someone_call_leader_load_undo_hat
 bip_39_word_underscore_12: smoke_cream_sting_govern_client_someone_call_leader_load_undo_hat_around
 bip_39_word_underscore_2: smoke_cream
 bip_39_word_underscore_3: smoke_cream_sting
-bip_39_word_underscore_4: smoke_cream_sting_govern
-bip_39_word_underscore_5: smoke_cream_sting_govern_client
-bip_39_word_underscore_6: smoke_cream_sting_govern_client_someone
-bip_39_word_underscore_7: smoke_cream_sting_govern_client_someone_call
-bip_39_word_underscore_8: smoke_cream_sting_govern_client_someone_call_leader
-bip_39_word_underscore_9: smoke_cream_sting_govern_client_someone_call_leader_load
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: vessel
-bip_39_word_dash_10: vessel-flock-toy-genre-spike-industry-vault-shoulder-hedgehog-ritual
-bip_39_word_dash_11: vessel-flock-toy-genre-spike-industry-vault-shoulder-hedgehog-ritual-always
 bip_39_word_dash_12: vessel-flock-toy-genre-spike-industry-vault-shoulder-hedgehog-ritual-always-arctic
 bip_39_word_dash_2: vessel-flock
 bip_39_word_dash_3: vessel-flock-toy
-bip_39_word_dash_4: vessel-flock-toy-genre
-bip_39_word_dash_5: vessel-flock-toy-genre-spike
-bip_39_word_dash_6: vessel-flock-toy-genre-spike-industry
-bip_39_word_dash_7: vessel-flock-toy-genre-spike-industry-vault
-bip_39_word_dash_8: vessel-flock-toy-genre-spike-industry-vault-shoulder
-bip_39_word_dash_9: vessel-flock-toy-genre-spike-industry-vault-shoulder-hedgehog
-bip_39_word_new_br_1: vessel
-bip_39_word_new_br_10: vessel<br>flock<br>toy<br>genre<br>spike<br>industry<br>vault<br>shoulder<br>hedgehog<br>ritual
-bip_39_word_new_br_11: vessel<br>flock<br>toy<br>genre<br>spike<br>industry<br>vault<br>shoulder<br>hedgehog<br>ritual<br>always
 bip_39_word_new_br_12: vessel<br>flock<br>toy<br>genre<br>spike<br>industry<br>vault<br>shoulder<br>hedgehog<br>ritual<br>always<br>arctic
 bip_39_word_new_br_2: vessel<br>flock
 bip_39_word_new_br_3: vessel<br>flock<br>toy
-bip_39_word_new_br_4: vessel<br>flock<br>toy<br>genre
-bip_39_word_new_br_5: vessel<br>flock<br>toy<br>genre<br>spike
-bip_39_word_new_br_6: vessel<br>flock<br>toy<br>genre<br>spike<br>industry
-bip_39_word_new_br_7: vessel<br>flock<br>toy<br>genre<br>spike<br>industry<br>vault
-bip_39_word_new_br_8: vessel<br>flock<br>toy<br>genre<br>spike<br>industry<br>vault<br>shoulder
-bip_39_word_new_br_9: vessel<br>flock<br>toy<br>genre<br>spike<br>industry<br>vault<br>shoulder<br>hedgehog
-bip_39_word_new_line_1: vessel
-bip_39_word_new_line_10: 'vessel
-
-  flock
-
-  toy
-
-  genre
-
-  spike
-
-  industry
-
-  vault
-
-  shoulder
-
-  hedgehog
-
-  ritual'
-bip_39_word_new_line_11: 'vessel
-
-  flock
-
-  toy
-
-  genre
-
-  spike
-
-  industry
-
-  vault
-
-  shoulder
-
-  hedgehog
-
-  ritual
-
-  always'
 bip_39_word_new_line_12: 'vessel
 
   flock
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'vessel
   flock
 
   toy'
-bip_39_word_new_line_4: 'vessel
-
-  flock
-
-  toy
-
-  genre'
-bip_39_word_new_line_5: 'vessel
-
-  flock
-
-  toy
-
-  genre
-
-  spike'
-bip_39_word_new_line_6: 'vessel
-
-  flock
-
-  toy
-
-  genre
-
-  spike
-
-  industry'
-bip_39_word_new_line_7: 'vessel
-
-  flock
-
-  toy
-
-  genre
-
-  spike
-
-  industry
-
-  vault'
-bip_39_word_new_line_8: 'vessel
-
-  flock
-
-  toy
-
-  genre
-
-  spike
-
-  industry
-
-  vault
-
-  shoulder'
-bip_39_word_new_line_9: 'vessel
-
-  flock
-
-  toy
-
-  genre
-
-  spike
-
-  industry
-
-  vault
-
-  shoulder
-
-  hedgehog'
-bip_39_word_no_space_1: vessel
-bip_39_word_no_space_10: vesselflocktoygenrespikeindustryvaultshoulderhedgehogritual
-bip_39_word_no_space_11: vesselflocktoygenrespikeindustryvaultshoulderhedgehogritualalways
 bip_39_word_no_space_12: vesselflocktoygenrespikeindustryvaultshoulderhedgehogritualalwaysarctic
 bip_39_word_no_space_2: vesselflock
 bip_39_word_no_space_3: vesselflocktoy
-bip_39_word_no_space_4: vesselflocktoygenre
-bip_39_word_no_space_5: vesselflocktoygenrespike
-bip_39_word_no_space_6: vesselflocktoygenrespikeindustry
-bip_39_word_no_space_7: vesselflocktoygenrespikeindustryvault
-bip_39_word_no_space_8: vesselflocktoygenrespikeindustryvaultshoulder
-bip_39_word_no_space_9: vesselflocktoygenrespikeindustryvaultshoulderhedgehog
-bip_39_word_space_0:
-- vessel
-- flock
-- toy
-- genre
-- spike
-- industry
-- vault
-- shoulder
-- hedgehog
-- ritual
-- always
-- arctic
-bip_39_word_space_1: vessel
-bip_39_word_space_10: vessel flock toy genre spike industry vault shoulder hedgehog
-  ritual
-bip_39_word_space_11: vessel flock toy genre spike industry vault shoulder hedgehog
-  ritual always
 bip_39_word_space_12: vessel flock toy genre spike industry vault shoulder hedgehog
   ritual always arctic
 bip_39_word_space_2: vessel flock
 bip_39_word_space_3: vessel flock toy
-bip_39_word_space_4: vessel flock toy genre
-bip_39_word_space_5: vessel flock toy genre spike
-bip_39_word_space_6: vessel flock toy genre spike industry
-bip_39_word_space_7: vessel flock toy genre spike industry vault
-bip_39_word_space_8: vessel flock toy genre spike industry vault shoulder
-bip_39_word_space_9: vessel flock toy genre spike industry vault shoulder hedgehog
-bip_39_word_underscore_1: vessel
-bip_39_word_underscore_10: vessel_flock_toy_genre_spike_industry_vault_shoulder_hedgehog_ritual
-bip_39_word_underscore_11: vessel_flock_toy_genre_spike_industry_vault_shoulder_hedgehog_ritual_always
 bip_39_word_underscore_12: vessel_flock_toy_genre_spike_industry_vault_shoulder_hedgehog_ritual_always_arctic
 bip_39_word_underscore_2: vessel_flock
 bip_39_word_underscore_3: vessel_flock_toy
-bip_39_word_underscore_4: vessel_flock_toy_genre
-bip_39_word_underscore_5: vessel_flock_toy_genre_spike
-bip_39_word_underscore_6: vessel_flock_toy_genre_spike_industry
-bip_39_word_underscore_7: vessel_flock_toy_genre_spike_industry_vault
-bip_39_word_underscore_8: vessel_flock_toy_genre_spike_industry_vault_shoulder
-bip_39_word_underscore_9: vessel_flock_toy_genre_spike_industry_vault_shoulder_hedgehog
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

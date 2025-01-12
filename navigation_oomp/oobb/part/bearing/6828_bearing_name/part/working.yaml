@@ -1,69 +1,10 @@
 bearing_name: '6828'
-bip_39_word_dash_1: shoot
-bip_39_word_dash_10: shoot-taxi-grocery-stool-orbit-slim-aware-hedgehog-drum-keen
-bip_39_word_dash_11: shoot-taxi-grocery-stool-orbit-slim-aware-hedgehog-drum-keen-coast
 bip_39_word_dash_12: shoot-taxi-grocery-stool-orbit-slim-aware-hedgehog-drum-keen-coast-amount
 bip_39_word_dash_2: shoot-taxi
 bip_39_word_dash_3: shoot-taxi-grocery
-bip_39_word_dash_4: shoot-taxi-grocery-stool
-bip_39_word_dash_5: shoot-taxi-grocery-stool-orbit
-bip_39_word_dash_6: shoot-taxi-grocery-stool-orbit-slim
-bip_39_word_dash_7: shoot-taxi-grocery-stool-orbit-slim-aware
-bip_39_word_dash_8: shoot-taxi-grocery-stool-orbit-slim-aware-hedgehog
-bip_39_word_dash_9: shoot-taxi-grocery-stool-orbit-slim-aware-hedgehog-drum
-bip_39_word_new_br_1: shoot
-bip_39_word_new_br_10: shoot<br>taxi<br>grocery<br>stool<br>orbit<br>slim<br>aware<br>hedgehog<br>drum<br>keen
-bip_39_word_new_br_11: shoot<br>taxi<br>grocery<br>stool<br>orbit<br>slim<br>aware<br>hedgehog<br>drum<br>keen<br>coast
 bip_39_word_new_br_12: shoot<br>taxi<br>grocery<br>stool<br>orbit<br>slim<br>aware<br>hedgehog<br>drum<br>keen<br>coast<br>amount
 bip_39_word_new_br_2: shoot<br>taxi
 bip_39_word_new_br_3: shoot<br>taxi<br>grocery
-bip_39_word_new_br_4: shoot<br>taxi<br>grocery<br>stool
-bip_39_word_new_br_5: shoot<br>taxi<br>grocery<br>stool<br>orbit
-bip_39_word_new_br_6: shoot<br>taxi<br>grocery<br>stool<br>orbit<br>slim
-bip_39_word_new_br_7: shoot<br>taxi<br>grocery<br>stool<br>orbit<br>slim<br>aware
-bip_39_word_new_br_8: shoot<br>taxi<br>grocery<br>stool<br>orbit<br>slim<br>aware<br>hedgehog
-bip_39_word_new_br_9: shoot<br>taxi<br>grocery<br>stool<br>orbit<br>slim<br>aware<br>hedgehog<br>drum
-bip_39_word_new_line_1: shoot
-bip_39_word_new_line_10: 'shoot
-
-  taxi
-
-  grocery
-
-  stool
-
-  orbit
-
-  slim
-
-  aware
-
-  hedgehog
-
-  drum
-
-  keen'
-bip_39_word_new_line_11: 'shoot
-
-  taxi
-
-  grocery
-
-  stool
-
-  orbit
-
-  slim
-
-  aware
-
-  hedgehog
-
-  drum
-
-  keen
-
-  coast'
 bip_39_word_new_line_12: 'shoot
 
   taxi
@@ -95,129 +36,16 @@ bip_39_word_new_line_3: 'shoot
   taxi
 
   grocery'
-bip_39_word_new_line_4: 'shoot
-
-  taxi
-
-  grocery
-
-  stool'
-bip_39_word_new_line_5: 'shoot
-
-  taxi
-
-  grocery
-
-  stool
-
-  orbit'
-bip_39_word_new_line_6: 'shoot
-
-  taxi
-
-  grocery
-
-  stool
-
-  orbit
-
-  slim'
-bip_39_word_new_line_7: 'shoot
-
-  taxi
-
-  grocery
-
-  stool
-
-  orbit
-
-  slim
-
-  aware'
-bip_39_word_new_line_8: 'shoot
-
-  taxi
-
-  grocery
-
-  stool
-
-  orbit
-
-  slim
-
-  aware
-
-  hedgehog'
-bip_39_word_new_line_9: 'shoot
-
-  taxi
-
-  grocery
-
-  stool
-
-  orbit
-
-  slim
-
-  aware
-
-  hedgehog
-
-  drum'
-bip_39_word_no_space_1: shoot
-bip_39_word_no_space_10: shoottaxigrocerystoolorbitslimawarehedgehogdrumkeen
-bip_39_word_no_space_11: shoottaxigrocerystoolorbitslimawarehedgehogdrumkeencoast
 bip_39_word_no_space_12: shoottaxigrocerystoolorbitslimawarehedgehogdrumkeencoastamount
 bip_39_word_no_space_2: shoottaxi
 bip_39_word_no_space_3: shoottaxigrocery
-bip_39_word_no_space_4: shoottaxigrocerystool
-bip_39_word_no_space_5: shoottaxigrocerystoolorbit
-bip_39_word_no_space_6: shoottaxigrocerystoolorbitslim
-bip_39_word_no_space_7: shoottaxigrocerystoolorbitslimaware
-bip_39_word_no_space_8: shoottaxigrocerystoolorbitslimawarehedgehog
-bip_39_word_no_space_9: shoottaxigrocerystoolorbitslimawarehedgehogdrum
-bip_39_word_space_0:
-- shoot
-- taxi
-- grocery
-- stool
-- orbit
-- slim
-- aware
-- hedgehog
-- drum
-- keen
-- coast
-- amount
-bip_39_word_space_1: shoot
-bip_39_word_space_10: shoot taxi grocery stool orbit slim aware hedgehog drum keen
-bip_39_word_space_11: shoot taxi grocery stool orbit slim aware hedgehog drum keen
-  coast
 bip_39_word_space_12: shoot taxi grocery stool orbit slim aware hedgehog drum keen
   coast amount
 bip_39_word_space_2: shoot taxi
 bip_39_word_space_3: shoot taxi grocery
-bip_39_word_space_4: shoot taxi grocery stool
-bip_39_word_space_5: shoot taxi grocery stool orbit
-bip_39_word_space_6: shoot taxi grocery stool orbit slim
-bip_39_word_space_7: shoot taxi grocery stool orbit slim aware
-bip_39_word_space_8: shoot taxi grocery stool orbit slim aware hedgehog
-bip_39_word_space_9: shoot taxi grocery stool orbit slim aware hedgehog drum
-bip_39_word_underscore_1: shoot
-bip_39_word_underscore_10: shoot_taxi_grocery_stool_orbit_slim_aware_hedgehog_drum_keen
-bip_39_word_underscore_11: shoot_taxi_grocery_stool_orbit_slim_aware_hedgehog_drum_keen_coast
 bip_39_word_underscore_12: shoot_taxi_grocery_stool_orbit_slim_aware_hedgehog_drum_keen_coast_amount
 bip_39_word_underscore_2: shoot_taxi
 bip_39_word_underscore_3: shoot_taxi_grocery
-bip_39_word_underscore_4: shoot_taxi_grocery_stool
-bip_39_word_underscore_5: shoot_taxi_grocery_stool_orbit
-bip_39_word_underscore_6: shoot_taxi_grocery_stool_orbit_slim
-bip_39_word_underscore_7: shoot_taxi_grocery_stool_orbit_slim_aware
-bip_39_word_underscore_8: shoot_taxi_grocery_stool_orbit_slim_aware_hedgehog
-bip_39_word_underscore_9: shoot_taxi_grocery_stool_orbit_slim_aware_hedgehog_drum
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

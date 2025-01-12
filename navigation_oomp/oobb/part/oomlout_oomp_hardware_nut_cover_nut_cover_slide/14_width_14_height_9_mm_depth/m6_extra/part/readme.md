@@ -13,7 +13,7 @@ oomlout oomp hardware nut cover nut cover slide 14x14x9
 
 ### name
 * name: Oobb Part Oomlout Oomp Hardware Nut Cover Nut Cover Slide 14 Width 14 Height 9 mm Depth M6 Extra
-* name_short: 
+* name_short: Oomlout Oomp Hardware Nut Cover Nut
 ### id
 * oomp_id: oobb_part_oomlout_oomp_hardware_nut_cover_nut_cover_slide_14_width_14_height_9_mm_depth_m6_extra
   * classification: oobb
@@ -49,7 +49,7 @@ oomlout oomp hardware nut cover nut cover slide 14x14x9
 
 #### link
 
-                              
+[link_main](https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/oomlout_oomp_hardware_nut_cover_nut_cover_slide/14_width_14_height_9_mm_depth/m6_extra/part)                              
 
 #### price
 
@@ -76,15 +76,19 @@ oomlout oomp hardware nut cover nut cover slide 14x14x9
 | description_main_name | 14 Width 14 Height 9 mm Depth |  
 | directory | parts/oobb_part_oomlout_oomp_hardware_nut_cover_nut_cover_slide_14_width_14_height_9_mm_depth_m6_extra |  
 | extra | m6 |  
-| folder | C:\gh\oomlout_oobb_version_4_generated_parts\things\oobb_part_oomlout_oomp_hardware_nut_cover_nut_cover_slide_14_width_14_height_9_mm_depth_m6_extra |  
+| folder | C:\gh\oomlout_oobb_version_4_generated_parts\parts\oobb_part_oomlout_oomp_hardware_nut_cover_nut_cover_slide_14_width_14_height_9_mm_depth_m6_extra |  
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oomlout_oomp_hardware_nut_cover_nut_cover_slide_14_width_14_height_9_mm_depth_m6_extra |  
 | height | 14 |  
 | height_mm | 209 |  
 | id | oobb_part_oomlout_oomp_hardware_nut_cover_nut_cover_slide_14_width_14_height_9_mm_depth_m6_extra |  
+| link_1 | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/oomlout_oomp_hardware_nut_cover_nut_cover_slide/14_width_14_height_9_mm_depth/m6_extra/part |  
+| link_1_name | link_main |  
+| link_main | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/oomlout_oomp_hardware_nut_cover_nut_cover_slide/14_width_14_height_9_mm_depth/m6_extra/part |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%209q7ug |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%209q7ug |  
 | link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%209q7ug |  
 | link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%209q7ug |  
+| link_redirect | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/oobb_oomlout_oomp_hardware_nut_cover_nut_cover_slide_14_14_09_ex_m6 |  
 | manufacturer |  |  
 | manufacturer_name |  |  
 | md5 | f95338460d3979c2068ef8e2c2d0e95a |  
@@ -93,6 +97,7 @@ oomlout oomp hardware nut cover nut cover slide 14x14x9
 | md5_6 | f95338 |  
 | md5_6_alpha | 9q7ug |  
 | name | Oobb Part Oomlout Oomp Hardware Nut Cover Nut Cover Slide 14 Width 14 Height 9 mm Depth M6 Extra |  
+| name_short | Oomlout Oomp Hardware Nut Cover Nut |  
 | oomlout_detail_hierarchy_1 | oobb |  
 | oomlout_detail_hierarchy_2 | part |  
 | oomlout_detail_hierarchy_3 | oomp_hardware_nut |  

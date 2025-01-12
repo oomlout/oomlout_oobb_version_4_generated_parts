@@ -1,68 +1,9 @@
-bip_39_word_dash_1: regular
-bip_39_word_dash_10: regular-junk-stomach-stick-occur-weasel-arrange-buyer-lab-baby
-bip_39_word_dash_11: regular-junk-stomach-stick-occur-weasel-arrange-buyer-lab-baby-zero
 bip_39_word_dash_12: regular-junk-stomach-stick-occur-weasel-arrange-buyer-lab-baby-zero-audit
 bip_39_word_dash_2: regular-junk
 bip_39_word_dash_3: regular-junk-stomach
-bip_39_word_dash_4: regular-junk-stomach-stick
-bip_39_word_dash_5: regular-junk-stomach-stick-occur
-bip_39_word_dash_6: regular-junk-stomach-stick-occur-weasel
-bip_39_word_dash_7: regular-junk-stomach-stick-occur-weasel-arrange
-bip_39_word_dash_8: regular-junk-stomach-stick-occur-weasel-arrange-buyer
-bip_39_word_dash_9: regular-junk-stomach-stick-occur-weasel-arrange-buyer-lab
-bip_39_word_new_br_1: regular
-bip_39_word_new_br_10: regular<br>junk<br>stomach<br>stick<br>occur<br>weasel<br>arrange<br>buyer<br>lab<br>baby
-bip_39_word_new_br_11: regular<br>junk<br>stomach<br>stick<br>occur<br>weasel<br>arrange<br>buyer<br>lab<br>baby<br>zero
 bip_39_word_new_br_12: regular<br>junk<br>stomach<br>stick<br>occur<br>weasel<br>arrange<br>buyer<br>lab<br>baby<br>zero<br>audit
 bip_39_word_new_br_2: regular<br>junk
 bip_39_word_new_br_3: regular<br>junk<br>stomach
-bip_39_word_new_br_4: regular<br>junk<br>stomach<br>stick
-bip_39_word_new_br_5: regular<br>junk<br>stomach<br>stick<br>occur
-bip_39_word_new_br_6: regular<br>junk<br>stomach<br>stick<br>occur<br>weasel
-bip_39_word_new_br_7: regular<br>junk<br>stomach<br>stick<br>occur<br>weasel<br>arrange
-bip_39_word_new_br_8: regular<br>junk<br>stomach<br>stick<br>occur<br>weasel<br>arrange<br>buyer
-bip_39_word_new_br_9: regular<br>junk<br>stomach<br>stick<br>occur<br>weasel<br>arrange<br>buyer<br>lab
-bip_39_word_new_line_1: regular
-bip_39_word_new_line_10: 'regular
-
-  junk
-
-  stomach
-
-  stick
-
-  occur
-
-  weasel
-
-  arrange
-
-  buyer
-
-  lab
-
-  baby'
-bip_39_word_new_line_11: 'regular
-
-  junk
-
-  stomach
-
-  stick
-
-  occur
-
-  weasel
-
-  arrange
-
-  buyer
-
-  lab
-
-  baby
-
-  zero'
 bip_39_word_new_line_12: 'regular
 
   junk
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'regular
   junk
 
   stomach'
-bip_39_word_new_line_4: 'regular
-
-  junk
-
-  stomach
-
-  stick'
-bip_39_word_new_line_5: 'regular
-
-  junk
-
-  stomach
-
-  stick
-
-  occur'
-bip_39_word_new_line_6: 'regular
-
-  junk
-
-  stomach
-
-  stick
-
-  occur
-
-  weasel'
-bip_39_word_new_line_7: 'regular
-
-  junk
-
-  stomach
-
-  stick
-
-  occur
-
-  weasel
-
-  arrange'
-bip_39_word_new_line_8: 'regular
-
-  junk
-
-  stomach
-
-  stick
-
-  occur
-
-  weasel
-
-  arrange
-
-  buyer'
-bip_39_word_new_line_9: 'regular
-
-  junk
-
-  stomach
-
-  stick
-
-  occur
-
-  weasel
-
-  arrange
-
-  buyer
-
-  lab'
-bip_39_word_no_space_1: regular
-bip_39_word_no_space_10: regularjunkstomachstickoccurweaselarrangebuyerlabbaby
-bip_39_word_no_space_11: regularjunkstomachstickoccurweaselarrangebuyerlabbabyzero
 bip_39_word_no_space_12: regularjunkstomachstickoccurweaselarrangebuyerlabbabyzeroaudit
 bip_39_word_no_space_2: regularjunk
 bip_39_word_no_space_3: regularjunkstomach
-bip_39_word_no_space_4: regularjunkstomachstick
-bip_39_word_no_space_5: regularjunkstomachstickoccur
-bip_39_word_no_space_6: regularjunkstomachstickoccurweasel
-bip_39_word_no_space_7: regularjunkstomachstickoccurweaselarrange
-bip_39_word_no_space_8: regularjunkstomachstickoccurweaselarrangebuyer
-bip_39_word_no_space_9: regularjunkstomachstickoccurweaselarrangebuyerlab
-bip_39_word_space_0:
-- regular
-- junk
-- stomach
-- stick
-- occur
-- weasel
-- arrange
-- buyer
-- lab
-- baby
-- zero
-- audit
-bip_39_word_space_1: regular
-bip_39_word_space_10: regular junk stomach stick occur weasel arrange buyer lab baby
-bip_39_word_space_11: regular junk stomach stick occur weasel arrange buyer lab baby
-  zero
 bip_39_word_space_12: regular junk stomach stick occur weasel arrange buyer lab baby
   zero audit
 bip_39_word_space_2: regular junk
 bip_39_word_space_3: regular junk stomach
-bip_39_word_space_4: regular junk stomach stick
-bip_39_word_space_5: regular junk stomach stick occur
-bip_39_word_space_6: regular junk stomach stick occur weasel
-bip_39_word_space_7: regular junk stomach stick occur weasel arrange
-bip_39_word_space_8: regular junk stomach stick occur weasel arrange buyer
-bip_39_word_space_9: regular junk stomach stick occur weasel arrange buyer lab
-bip_39_word_underscore_1: regular
-bip_39_word_underscore_10: regular_junk_stomach_stick_occur_weasel_arrange_buyer_lab_baby
-bip_39_word_underscore_11: regular_junk_stomach_stick_occur_weasel_arrange_buyer_lab_baby_zero
 bip_39_word_underscore_12: regular_junk_stomach_stick_occur_weasel_arrange_buyer_lab_baby_zero_audit
 bip_39_word_underscore_2: regular_junk
 bip_39_word_underscore_3: regular_junk_stomach
-bip_39_word_underscore_4: regular_junk_stomach_stick
-bip_39_word_underscore_5: regular_junk_stomach_stick_occur
-bip_39_word_underscore_6: regular_junk_stomach_stick_occur_weasel
-bip_39_word_underscore_7: regular_junk_stomach_stick_occur_weasel_arrange
-bip_39_word_underscore_8: regular_junk_stomach_stick_occur_weasel_arrange_buyer
-bip_39_word_underscore_9: regular_junk_stomach_stick_occur_weasel_arrange_buyer_lab
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

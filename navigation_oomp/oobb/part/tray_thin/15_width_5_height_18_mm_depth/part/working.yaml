@@ -1,68 +1,9 @@
-bip_39_word_dash_1: aisle
-bip_39_word_dash_10: aisle-clump-narrow-duty-six-wink-grit-snow-regular-spell
-bip_39_word_dash_11: aisle-clump-narrow-duty-six-wink-grit-snow-regular-spell-slam
 bip_39_word_dash_12: aisle-clump-narrow-duty-six-wink-grit-snow-regular-spell-slam-apology
 bip_39_word_dash_2: aisle-clump
 bip_39_word_dash_3: aisle-clump-narrow
-bip_39_word_dash_4: aisle-clump-narrow-duty
-bip_39_word_dash_5: aisle-clump-narrow-duty-six
-bip_39_word_dash_6: aisle-clump-narrow-duty-six-wink
-bip_39_word_dash_7: aisle-clump-narrow-duty-six-wink-grit
-bip_39_word_dash_8: aisle-clump-narrow-duty-six-wink-grit-snow
-bip_39_word_dash_9: aisle-clump-narrow-duty-six-wink-grit-snow-regular
-bip_39_word_new_br_1: aisle
-bip_39_word_new_br_10: aisle<br>clump<br>narrow<br>duty<br>six<br>wink<br>grit<br>snow<br>regular<br>spell
-bip_39_word_new_br_11: aisle<br>clump<br>narrow<br>duty<br>six<br>wink<br>grit<br>snow<br>regular<br>spell<br>slam
 bip_39_word_new_br_12: aisle<br>clump<br>narrow<br>duty<br>six<br>wink<br>grit<br>snow<br>regular<br>spell<br>slam<br>apology
 bip_39_word_new_br_2: aisle<br>clump
 bip_39_word_new_br_3: aisle<br>clump<br>narrow
-bip_39_word_new_br_4: aisle<br>clump<br>narrow<br>duty
-bip_39_word_new_br_5: aisle<br>clump<br>narrow<br>duty<br>six
-bip_39_word_new_br_6: aisle<br>clump<br>narrow<br>duty<br>six<br>wink
-bip_39_word_new_br_7: aisle<br>clump<br>narrow<br>duty<br>six<br>wink<br>grit
-bip_39_word_new_br_8: aisle<br>clump<br>narrow<br>duty<br>six<br>wink<br>grit<br>snow
-bip_39_word_new_br_9: aisle<br>clump<br>narrow<br>duty<br>six<br>wink<br>grit<br>snow<br>regular
-bip_39_word_new_line_1: aisle
-bip_39_word_new_line_10: 'aisle
-
-  clump
-
-  narrow
-
-  duty
-
-  six
-
-  wink
-
-  grit
-
-  snow
-
-  regular
-
-  spell'
-bip_39_word_new_line_11: 'aisle
-
-  clump
-
-  narrow
-
-  duty
-
-  six
-
-  wink
-
-  grit
-
-  snow
-
-  regular
-
-  spell
-
-  slam'
 bip_39_word_new_line_12: 'aisle
 
   clump
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'aisle
   clump
 
   narrow'
-bip_39_word_new_line_4: 'aisle
-
-  clump
-
-  narrow
-
-  duty'
-bip_39_word_new_line_5: 'aisle
-
-  clump
-
-  narrow
-
-  duty
-
-  six'
-bip_39_word_new_line_6: 'aisle
-
-  clump
-
-  narrow
-
-  duty
-
-  six
-
-  wink'
-bip_39_word_new_line_7: 'aisle
-
-  clump
-
-  narrow
-
-  duty
-
-  six
-
-  wink
-
-  grit'
-bip_39_word_new_line_8: 'aisle
-
-  clump
-
-  narrow
-
-  duty
-
-  six
-
-  wink
-
-  grit
-
-  snow'
-bip_39_word_new_line_9: 'aisle
-
-  clump
-
-  narrow
-
-  duty
-
-  six
-
-  wink
-
-  grit
-
-  snow
-
-  regular'
-bip_39_word_no_space_1: aisle
-bip_39_word_no_space_10: aisleclumpnarrowdutysixwinkgritsnowregularspell
-bip_39_word_no_space_11: aisleclumpnarrowdutysixwinkgritsnowregularspellslam
 bip_39_word_no_space_12: aisleclumpnarrowdutysixwinkgritsnowregularspellslamapology
 bip_39_word_no_space_2: aisleclump
 bip_39_word_no_space_3: aisleclumpnarrow
-bip_39_word_no_space_4: aisleclumpnarrowduty
-bip_39_word_no_space_5: aisleclumpnarrowdutysix
-bip_39_word_no_space_6: aisleclumpnarrowdutysixwink
-bip_39_word_no_space_7: aisleclumpnarrowdutysixwinkgrit
-bip_39_word_no_space_8: aisleclumpnarrowdutysixwinkgritsnow
-bip_39_word_no_space_9: aisleclumpnarrowdutysixwinkgritsnowregular
-bip_39_word_space_0:
-- aisle
-- clump
-- narrow
-- duty
-- six
-- wink
-- grit
-- snow
-- regular
-- spell
-- slam
-- apology
-bip_39_word_space_1: aisle
-bip_39_word_space_10: aisle clump narrow duty six wink grit snow regular spell
-bip_39_word_space_11: aisle clump narrow duty six wink grit snow regular spell slam
 bip_39_word_space_12: aisle clump narrow duty six wink grit snow regular spell slam
   apology
 bip_39_word_space_2: aisle clump
 bip_39_word_space_3: aisle clump narrow
-bip_39_word_space_4: aisle clump narrow duty
-bip_39_word_space_5: aisle clump narrow duty six
-bip_39_word_space_6: aisle clump narrow duty six wink
-bip_39_word_space_7: aisle clump narrow duty six wink grit
-bip_39_word_space_8: aisle clump narrow duty six wink grit snow
-bip_39_word_space_9: aisle clump narrow duty six wink grit snow regular
-bip_39_word_underscore_1: aisle
-bip_39_word_underscore_10: aisle_clump_narrow_duty_six_wink_grit_snow_regular_spell
-bip_39_word_underscore_11: aisle_clump_narrow_duty_six_wink_grit_snow_regular_spell_slam
 bip_39_word_underscore_12: aisle_clump_narrow_duty_six_wink_grit_snow_regular_spell_slam_apology
 bip_39_word_underscore_2: aisle_clump
 bip_39_word_underscore_3: aisle_clump_narrow
-bip_39_word_underscore_4: aisle_clump_narrow_duty
-bip_39_word_underscore_5: aisle_clump_narrow_duty_six
-bip_39_word_underscore_6: aisle_clump_narrow_duty_six_wink
-bip_39_word_underscore_7: aisle_clump_narrow_duty_six_wink_grit
-bip_39_word_underscore_8: aisle_clump_narrow_duty_six_wink_grit_snow
-bip_39_word_underscore_9: aisle_clump_narrow_duty_six_wink_grit_snow_regular
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

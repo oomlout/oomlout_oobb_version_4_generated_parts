@@ -1,68 +1,9 @@
-bip_39_word_dash_1: arch
-bip_39_word_dash_10: arch-ride-couch-play-have-produce-please-spike-omit-shrug
-bip_39_word_dash_11: arch-ride-couch-play-have-produce-please-spike-omit-shrug-client
 bip_39_word_dash_12: arch-ride-couch-play-have-produce-please-spike-omit-shrug-client-ask
 bip_39_word_dash_2: arch-ride
 bip_39_word_dash_3: arch-ride-couch
-bip_39_word_dash_4: arch-ride-couch-play
-bip_39_word_dash_5: arch-ride-couch-play-have
-bip_39_word_dash_6: arch-ride-couch-play-have-produce
-bip_39_word_dash_7: arch-ride-couch-play-have-produce-please
-bip_39_word_dash_8: arch-ride-couch-play-have-produce-please-spike
-bip_39_word_dash_9: arch-ride-couch-play-have-produce-please-spike-omit
-bip_39_word_new_br_1: arch
-bip_39_word_new_br_10: arch<br>ride<br>couch<br>play<br>have<br>produce<br>please<br>spike<br>omit<br>shrug
-bip_39_word_new_br_11: arch<br>ride<br>couch<br>play<br>have<br>produce<br>please<br>spike<br>omit<br>shrug<br>client
 bip_39_word_new_br_12: arch<br>ride<br>couch<br>play<br>have<br>produce<br>please<br>spike<br>omit<br>shrug<br>client<br>ask
 bip_39_word_new_br_2: arch<br>ride
 bip_39_word_new_br_3: arch<br>ride<br>couch
-bip_39_word_new_br_4: arch<br>ride<br>couch<br>play
-bip_39_word_new_br_5: arch<br>ride<br>couch<br>play<br>have
-bip_39_word_new_br_6: arch<br>ride<br>couch<br>play<br>have<br>produce
-bip_39_word_new_br_7: arch<br>ride<br>couch<br>play<br>have<br>produce<br>please
-bip_39_word_new_br_8: arch<br>ride<br>couch<br>play<br>have<br>produce<br>please<br>spike
-bip_39_word_new_br_9: arch<br>ride<br>couch<br>play<br>have<br>produce<br>please<br>spike<br>omit
-bip_39_word_new_line_1: arch
-bip_39_word_new_line_10: 'arch
-
-  ride
-
-  couch
-
-  play
-
-  have
-
-  produce
-
-  please
-
-  spike
-
-  omit
-
-  shrug'
-bip_39_word_new_line_11: 'arch
-
-  ride
-
-  couch
-
-  play
-
-  have
-
-  produce
-
-  please
-
-  spike
-
-  omit
-
-  shrug
-
-  client'
 bip_39_word_new_line_12: 'arch
 
   ride
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'arch
   ride
 
   couch'
-bip_39_word_new_line_4: 'arch
-
-  ride
-
-  couch
-
-  play'
-bip_39_word_new_line_5: 'arch
-
-  ride
-
-  couch
-
-  play
-
-  have'
-bip_39_word_new_line_6: 'arch
-
-  ride
-
-  couch
-
-  play
-
-  have
-
-  produce'
-bip_39_word_new_line_7: 'arch
-
-  ride
-
-  couch
-
-  play
-
-  have
-
-  produce
-
-  please'
-bip_39_word_new_line_8: 'arch
-
-  ride
-
-  couch
-
-  play
-
-  have
-
-  produce
-
-  please
-
-  spike'
-bip_39_word_new_line_9: 'arch
-
-  ride
-
-  couch
-
-  play
-
-  have
-
-  produce
-
-  please
-
-  spike
-
-  omit'
-bip_39_word_no_space_1: arch
-bip_39_word_no_space_10: archridecouchplayhaveproducepleasespikeomitshrug
-bip_39_word_no_space_11: archridecouchplayhaveproducepleasespikeomitshrugclient
 bip_39_word_no_space_12: archridecouchplayhaveproducepleasespikeomitshrugclientask
 bip_39_word_no_space_2: archride
 bip_39_word_no_space_3: archridecouch
-bip_39_word_no_space_4: archridecouchplay
-bip_39_word_no_space_5: archridecouchplayhave
-bip_39_word_no_space_6: archridecouchplayhaveproduce
-bip_39_word_no_space_7: archridecouchplayhaveproduceplease
-bip_39_word_no_space_8: archridecouchplayhaveproducepleasespike
-bip_39_word_no_space_9: archridecouchplayhaveproducepleasespikeomit
-bip_39_word_space_0:
-- arch
-- ride
-- couch
-- play
-- have
-- produce
-- please
-- spike
-- omit
-- shrug
-- client
-- ask
-bip_39_word_space_1: arch
-bip_39_word_space_10: arch ride couch play have produce please spike omit shrug
-bip_39_word_space_11: arch ride couch play have produce please spike omit shrug client
 bip_39_word_space_12: arch ride couch play have produce please spike omit shrug client
   ask
 bip_39_word_space_2: arch ride
 bip_39_word_space_3: arch ride couch
-bip_39_word_space_4: arch ride couch play
-bip_39_word_space_5: arch ride couch play have
-bip_39_word_space_6: arch ride couch play have produce
-bip_39_word_space_7: arch ride couch play have produce please
-bip_39_word_space_8: arch ride couch play have produce please spike
-bip_39_word_space_9: arch ride couch play have produce please spike omit
-bip_39_word_underscore_1: arch
-bip_39_word_underscore_10: arch_ride_couch_play_have_produce_please_spike_omit_shrug
-bip_39_word_underscore_11: arch_ride_couch_play_have_produce_please_spike_omit_shrug_client
 bip_39_word_underscore_12: arch_ride_couch_play_have_produce_please_spike_omit_shrug_client_ask
 bip_39_word_underscore_2: arch_ride
 bip_39_word_underscore_3: arch_ride_couch
-bip_39_word_underscore_4: arch_ride_couch_play
-bip_39_word_underscore_5: arch_ride_couch_play_have
-bip_39_word_underscore_6: arch_ride_couch_play_have_produce
-bip_39_word_underscore_7: arch_ride_couch_play_have_produce_please
-bip_39_word_underscore_8: arch_ride_couch_play_have_produce_please_spike
-bip_39_word_underscore_9: arch_ride_couch_play_have_produce_please_spike_omit
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

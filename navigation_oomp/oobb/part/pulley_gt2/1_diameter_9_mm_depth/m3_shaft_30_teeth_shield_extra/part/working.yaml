@@ -1,68 +1,9 @@
-bip_39_word_dash_1: bomb
-bip_39_word_dash_10: bomb-high-timber-once-accuse-pigeon-simple-robot-blanket-valid
-bip_39_word_dash_11: bomb-high-timber-once-accuse-pigeon-simple-robot-blanket-valid-below
 bip_39_word_dash_12: bomb-high-timber-once-accuse-pigeon-simple-robot-blanket-valid-below-arm
 bip_39_word_dash_2: bomb-high
 bip_39_word_dash_3: bomb-high-timber
-bip_39_word_dash_4: bomb-high-timber-once
-bip_39_word_dash_5: bomb-high-timber-once-accuse
-bip_39_word_dash_6: bomb-high-timber-once-accuse-pigeon
-bip_39_word_dash_7: bomb-high-timber-once-accuse-pigeon-simple
-bip_39_word_dash_8: bomb-high-timber-once-accuse-pigeon-simple-robot
-bip_39_word_dash_9: bomb-high-timber-once-accuse-pigeon-simple-robot-blanket
-bip_39_word_new_br_1: bomb
-bip_39_word_new_br_10: bomb<br>high<br>timber<br>once<br>accuse<br>pigeon<br>simple<br>robot<br>blanket<br>valid
-bip_39_word_new_br_11: bomb<br>high<br>timber<br>once<br>accuse<br>pigeon<br>simple<br>robot<br>blanket<br>valid<br>below
 bip_39_word_new_br_12: bomb<br>high<br>timber<br>once<br>accuse<br>pigeon<br>simple<br>robot<br>blanket<br>valid<br>below<br>arm
 bip_39_word_new_br_2: bomb<br>high
 bip_39_word_new_br_3: bomb<br>high<br>timber
-bip_39_word_new_br_4: bomb<br>high<br>timber<br>once
-bip_39_word_new_br_5: bomb<br>high<br>timber<br>once<br>accuse
-bip_39_word_new_br_6: bomb<br>high<br>timber<br>once<br>accuse<br>pigeon
-bip_39_word_new_br_7: bomb<br>high<br>timber<br>once<br>accuse<br>pigeon<br>simple
-bip_39_word_new_br_8: bomb<br>high<br>timber<br>once<br>accuse<br>pigeon<br>simple<br>robot
-bip_39_word_new_br_9: bomb<br>high<br>timber<br>once<br>accuse<br>pigeon<br>simple<br>robot<br>blanket
-bip_39_word_new_line_1: bomb
-bip_39_word_new_line_10: 'bomb
-
-  high
-
-  timber
-
-  once
-
-  accuse
-
-  pigeon
-
-  simple
-
-  robot
-
-  blanket
-
-  valid'
-bip_39_word_new_line_11: 'bomb
-
-  high
-
-  timber
-
-  once
-
-  accuse
-
-  pigeon
-
-  simple
-
-  robot
-
-  blanket
-
-  valid
-
-  below'
 bip_39_word_new_line_12: 'bomb
 
   high
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'bomb
   high
 
   timber'
-bip_39_word_new_line_4: 'bomb
-
-  high
-
-  timber
-
-  once'
-bip_39_word_new_line_5: 'bomb
-
-  high
-
-  timber
-
-  once
-
-  accuse'
-bip_39_word_new_line_6: 'bomb
-
-  high
-
-  timber
-
-  once
-
-  accuse
-
-  pigeon'
-bip_39_word_new_line_7: 'bomb
-
-  high
-
-  timber
-
-  once
-
-  accuse
-
-  pigeon
-
-  simple'
-bip_39_word_new_line_8: 'bomb
-
-  high
-
-  timber
-
-  once
-
-  accuse
-
-  pigeon
-
-  simple
-
-  robot'
-bip_39_word_new_line_9: 'bomb
-
-  high
-
-  timber
-
-  once
-
-  accuse
-
-  pigeon
-
-  simple
-
-  robot
-
-  blanket'
-bip_39_word_no_space_1: bomb
-bip_39_word_no_space_10: bombhightimberonceaccusepigeonsimplerobotblanketvalid
-bip_39_word_no_space_11: bombhightimberonceaccusepigeonsimplerobotblanketvalidbelow
 bip_39_word_no_space_12: bombhightimberonceaccusepigeonsimplerobotblanketvalidbelowarm
 bip_39_word_no_space_2: bombhigh
 bip_39_word_no_space_3: bombhightimber
-bip_39_word_no_space_4: bombhightimberonce
-bip_39_word_no_space_5: bombhightimberonceaccuse
-bip_39_word_no_space_6: bombhightimberonceaccusepigeon
-bip_39_word_no_space_7: bombhightimberonceaccusepigeonsimple
-bip_39_word_no_space_8: bombhightimberonceaccusepigeonsimplerobot
-bip_39_word_no_space_9: bombhightimberonceaccusepigeonsimplerobotblanket
-bip_39_word_space_0:
-- bomb
-- high
-- timber
-- once
-- accuse
-- pigeon
-- simple
-- robot
-- blanket
-- valid
-- below
-- arm
-bip_39_word_space_1: bomb
-bip_39_word_space_10: bomb high timber once accuse pigeon simple robot blanket valid
-bip_39_word_space_11: bomb high timber once accuse pigeon simple robot blanket valid
-  below
 bip_39_word_space_12: bomb high timber once accuse pigeon simple robot blanket valid
   below arm
 bip_39_word_space_2: bomb high
 bip_39_word_space_3: bomb high timber
-bip_39_word_space_4: bomb high timber once
-bip_39_word_space_5: bomb high timber once accuse
-bip_39_word_space_6: bomb high timber once accuse pigeon
-bip_39_word_space_7: bomb high timber once accuse pigeon simple
-bip_39_word_space_8: bomb high timber once accuse pigeon simple robot
-bip_39_word_space_9: bomb high timber once accuse pigeon simple robot blanket
-bip_39_word_underscore_1: bomb
-bip_39_word_underscore_10: bomb_high_timber_once_accuse_pigeon_simple_robot_blanket_valid
-bip_39_word_underscore_11: bomb_high_timber_once_accuse_pigeon_simple_robot_blanket_valid_below
 bip_39_word_underscore_12: bomb_high_timber_once_accuse_pigeon_simple_robot_blanket_valid_below_arm
 bip_39_word_underscore_2: bomb_high
 bip_39_word_underscore_3: bomb_high_timber
-bip_39_word_underscore_4: bomb_high_timber_once
-bip_39_word_underscore_5: bomb_high_timber_once_accuse
-bip_39_word_underscore_6: bomb_high_timber_once_accuse_pigeon
-bip_39_word_underscore_7: bomb_high_timber_once_accuse_pigeon_simple
-bip_39_word_underscore_8: bomb_high_timber_once_accuse_pigeon_simple_robot
-bip_39_word_underscore_9: bomb_high_timber_once_accuse_pigeon_simple_robot_blanket
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

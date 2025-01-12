@@ -1,68 +1,9 @@
-bip_39_word_dash_1: student
-bip_39_word_dash_10: student-display-float-chunk-decide-retire-meadow-brass-primary-scrap
-bip_39_word_dash_11: student-display-float-chunk-decide-retire-meadow-brass-primary-scrap-ride
 bip_39_word_dash_12: student-display-float-chunk-decide-retire-meadow-brass-primary-scrap-ride-arm
 bip_39_word_dash_2: student-display
 bip_39_word_dash_3: student-display-float
-bip_39_word_dash_4: student-display-float-chunk
-bip_39_word_dash_5: student-display-float-chunk-decide
-bip_39_word_dash_6: student-display-float-chunk-decide-retire
-bip_39_word_dash_7: student-display-float-chunk-decide-retire-meadow
-bip_39_word_dash_8: student-display-float-chunk-decide-retire-meadow-brass
-bip_39_word_dash_9: student-display-float-chunk-decide-retire-meadow-brass-primary
-bip_39_word_new_br_1: student
-bip_39_word_new_br_10: student<br>display<br>float<br>chunk<br>decide<br>retire<br>meadow<br>brass<br>primary<br>scrap
-bip_39_word_new_br_11: student<br>display<br>float<br>chunk<br>decide<br>retire<br>meadow<br>brass<br>primary<br>scrap<br>ride
 bip_39_word_new_br_12: student<br>display<br>float<br>chunk<br>decide<br>retire<br>meadow<br>brass<br>primary<br>scrap<br>ride<br>arm
 bip_39_word_new_br_2: student<br>display
 bip_39_word_new_br_3: student<br>display<br>float
-bip_39_word_new_br_4: student<br>display<br>float<br>chunk
-bip_39_word_new_br_5: student<br>display<br>float<br>chunk<br>decide
-bip_39_word_new_br_6: student<br>display<br>float<br>chunk<br>decide<br>retire
-bip_39_word_new_br_7: student<br>display<br>float<br>chunk<br>decide<br>retire<br>meadow
-bip_39_word_new_br_8: student<br>display<br>float<br>chunk<br>decide<br>retire<br>meadow<br>brass
-bip_39_word_new_br_9: student<br>display<br>float<br>chunk<br>decide<br>retire<br>meadow<br>brass<br>primary
-bip_39_word_new_line_1: student
-bip_39_word_new_line_10: 'student
-
-  display
-
-  float
-
-  chunk
-
-  decide
-
-  retire
-
-  meadow
-
-  brass
-
-  primary
-
-  scrap'
-bip_39_word_new_line_11: 'student
-
-  display
-
-  float
-
-  chunk
-
-  decide
-
-  retire
-
-  meadow
-
-  brass
-
-  primary
-
-  scrap
-
-  ride'
 bip_39_word_new_line_12: 'student
 
   display
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'student
   display
 
   float'
-bip_39_word_new_line_4: 'student
-
-  display
-
-  float
-
-  chunk'
-bip_39_word_new_line_5: 'student
-
-  display
-
-  float
-
-  chunk
-
-  decide'
-bip_39_word_new_line_6: 'student
-
-  display
-
-  float
-
-  chunk
-
-  decide
-
-  retire'
-bip_39_word_new_line_7: 'student
-
-  display
-
-  float
-
-  chunk
-
-  decide
-
-  retire
-
-  meadow'
-bip_39_word_new_line_8: 'student
-
-  display
-
-  float
-
-  chunk
-
-  decide
-
-  retire
-
-  meadow
-
-  brass'
-bip_39_word_new_line_9: 'student
-
-  display
-
-  float
-
-  chunk
-
-  decide
-
-  retire
-
-  meadow
-
-  brass
-
-  primary'
-bip_39_word_no_space_1: student
-bip_39_word_no_space_10: studentdisplayfloatchunkdecideretiremeadowbrassprimaryscrap
-bip_39_word_no_space_11: studentdisplayfloatchunkdecideretiremeadowbrassprimaryscrapride
 bip_39_word_no_space_12: studentdisplayfloatchunkdecideretiremeadowbrassprimaryscrapridearm
 bip_39_word_no_space_2: studentdisplay
 bip_39_word_no_space_3: studentdisplayfloat
-bip_39_word_no_space_4: studentdisplayfloatchunk
-bip_39_word_no_space_5: studentdisplayfloatchunkdecide
-bip_39_word_no_space_6: studentdisplayfloatchunkdecideretire
-bip_39_word_no_space_7: studentdisplayfloatchunkdecideretiremeadow
-bip_39_word_no_space_8: studentdisplayfloatchunkdecideretiremeadowbrass
-bip_39_word_no_space_9: studentdisplayfloatchunkdecideretiremeadowbrassprimary
-bip_39_word_space_0:
-- student
-- display
-- float
-- chunk
-- decide
-- retire
-- meadow
-- brass
-- primary
-- scrap
-- ride
-- arm
-bip_39_word_space_1: student
-bip_39_word_space_10: student display float chunk decide retire meadow brass primary
-  scrap
-bip_39_word_space_11: student display float chunk decide retire meadow brass primary
-  scrap ride
 bip_39_word_space_12: student display float chunk decide retire meadow brass primary
   scrap ride arm
 bip_39_word_space_2: student display
 bip_39_word_space_3: student display float
-bip_39_word_space_4: student display float chunk
-bip_39_word_space_5: student display float chunk decide
-bip_39_word_space_6: student display float chunk decide retire
-bip_39_word_space_7: student display float chunk decide retire meadow
-bip_39_word_space_8: student display float chunk decide retire meadow brass
-bip_39_word_space_9: student display float chunk decide retire meadow brass primary
-bip_39_word_underscore_1: student
-bip_39_word_underscore_10: student_display_float_chunk_decide_retire_meadow_brass_primary_scrap
-bip_39_word_underscore_11: student_display_float_chunk_decide_retire_meadow_brass_primary_scrap_ride
 bip_39_word_underscore_12: student_display_float_chunk_decide_retire_meadow_brass_primary_scrap_ride_arm
 bip_39_word_underscore_2: student_display
 bip_39_word_underscore_3: student_display_float
-bip_39_word_underscore_4: student_display_float_chunk
-bip_39_word_underscore_5: student_display_float_chunk_decide
-bip_39_word_underscore_6: student_display_float_chunk_decide_retire
-bip_39_word_underscore_7: student_display_float_chunk_decide_retire_meadow
-bip_39_word_underscore_8: student_display_float_chunk_decide_retire_meadow_brass
-bip_39_word_underscore_9: student_display_float_chunk_decide_retire_meadow_brass_primary
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

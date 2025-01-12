@@ -1,68 +1,9 @@
-bip_39_word_dash_1: concert
-bip_39_word_dash_10: concert-example-fuel-caught-apology-tobacco-client-smoke-swear-nature
-bip_39_word_dash_11: concert-example-fuel-caught-apology-tobacco-client-smoke-swear-nature-front
 bip_39_word_dash_12: concert-example-fuel-caught-apology-tobacco-client-smoke-swear-nature-front-annual
 bip_39_word_dash_2: concert-example
 bip_39_word_dash_3: concert-example-fuel
-bip_39_word_dash_4: concert-example-fuel-caught
-bip_39_word_dash_5: concert-example-fuel-caught-apology
-bip_39_word_dash_6: concert-example-fuel-caught-apology-tobacco
-bip_39_word_dash_7: concert-example-fuel-caught-apology-tobacco-client
-bip_39_word_dash_8: concert-example-fuel-caught-apology-tobacco-client-smoke
-bip_39_word_dash_9: concert-example-fuel-caught-apology-tobacco-client-smoke-swear
-bip_39_word_new_br_1: concert
-bip_39_word_new_br_10: concert<br>example<br>fuel<br>caught<br>apology<br>tobacco<br>client<br>smoke<br>swear<br>nature
-bip_39_word_new_br_11: concert<br>example<br>fuel<br>caught<br>apology<br>tobacco<br>client<br>smoke<br>swear<br>nature<br>front
 bip_39_word_new_br_12: concert<br>example<br>fuel<br>caught<br>apology<br>tobacco<br>client<br>smoke<br>swear<br>nature<br>front<br>annual
 bip_39_word_new_br_2: concert<br>example
 bip_39_word_new_br_3: concert<br>example<br>fuel
-bip_39_word_new_br_4: concert<br>example<br>fuel<br>caught
-bip_39_word_new_br_5: concert<br>example<br>fuel<br>caught<br>apology
-bip_39_word_new_br_6: concert<br>example<br>fuel<br>caught<br>apology<br>tobacco
-bip_39_word_new_br_7: concert<br>example<br>fuel<br>caught<br>apology<br>tobacco<br>client
-bip_39_word_new_br_8: concert<br>example<br>fuel<br>caught<br>apology<br>tobacco<br>client<br>smoke
-bip_39_word_new_br_9: concert<br>example<br>fuel<br>caught<br>apology<br>tobacco<br>client<br>smoke<br>swear
-bip_39_word_new_line_1: concert
-bip_39_word_new_line_10: 'concert
-
-  example
-
-  fuel
-
-  caught
-
-  apology
-
-  tobacco
-
-  client
-
-  smoke
-
-  swear
-
-  nature'
-bip_39_word_new_line_11: 'concert
-
-  example
-
-  fuel
-
-  caught
-
-  apology
-
-  tobacco
-
-  client
-
-  smoke
-
-  swear
-
-  nature
-
-  front'
 bip_39_word_new_line_12: 'concert
 
   example
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'concert
   example
 
   fuel'
-bip_39_word_new_line_4: 'concert
-
-  example
-
-  fuel
-
-  caught'
-bip_39_word_new_line_5: 'concert
-
-  example
-
-  fuel
-
-  caught
-
-  apology'
-bip_39_word_new_line_6: 'concert
-
-  example
-
-  fuel
-
-  caught
-
-  apology
-
-  tobacco'
-bip_39_word_new_line_7: 'concert
-
-  example
-
-  fuel
-
-  caught
-
-  apology
-
-  tobacco
-
-  client'
-bip_39_word_new_line_8: 'concert
-
-  example
-
-  fuel
-
-  caught
-
-  apology
-
-  tobacco
-
-  client
-
-  smoke'
-bip_39_word_new_line_9: 'concert
-
-  example
-
-  fuel
-
-  caught
-
-  apology
-
-  tobacco
-
-  client
-
-  smoke
-
-  swear'
-bip_39_word_no_space_1: concert
-bip_39_word_no_space_10: concertexamplefuelcaughtapologytobaccoclientsmokeswearnature
-bip_39_word_no_space_11: concertexamplefuelcaughtapologytobaccoclientsmokeswearnaturefront
 bip_39_word_no_space_12: concertexamplefuelcaughtapologytobaccoclientsmokeswearnaturefrontannual
 bip_39_word_no_space_2: concertexample
 bip_39_word_no_space_3: concertexamplefuel
-bip_39_word_no_space_4: concertexamplefuelcaught
-bip_39_word_no_space_5: concertexamplefuelcaughtapology
-bip_39_word_no_space_6: concertexamplefuelcaughtapologytobacco
-bip_39_word_no_space_7: concertexamplefuelcaughtapologytobaccoclient
-bip_39_word_no_space_8: concertexamplefuelcaughtapologytobaccoclientsmoke
-bip_39_word_no_space_9: concertexamplefuelcaughtapologytobaccoclientsmokeswear
-bip_39_word_space_0:
-- concert
-- example
-- fuel
-- caught
-- apology
-- tobacco
-- client
-- smoke
-- swear
-- nature
-- front
-- annual
-bip_39_word_space_1: concert
-bip_39_word_space_10: concert example fuel caught apology tobacco client smoke swear
-  nature
-bip_39_word_space_11: concert example fuel caught apology tobacco client smoke swear
-  nature front
 bip_39_word_space_12: concert example fuel caught apology tobacco client smoke swear
   nature front annual
 bip_39_word_space_2: concert example
 bip_39_word_space_3: concert example fuel
-bip_39_word_space_4: concert example fuel caught
-bip_39_word_space_5: concert example fuel caught apology
-bip_39_word_space_6: concert example fuel caught apology tobacco
-bip_39_word_space_7: concert example fuel caught apology tobacco client
-bip_39_word_space_8: concert example fuel caught apology tobacco client smoke
-bip_39_word_space_9: concert example fuel caught apology tobacco client smoke swear
-bip_39_word_underscore_1: concert
-bip_39_word_underscore_10: concert_example_fuel_caught_apology_tobacco_client_smoke_swear_nature
-bip_39_word_underscore_11: concert_example_fuel_caught_apology_tobacco_client_smoke_swear_nature_front
 bip_39_word_underscore_12: concert_example_fuel_caught_apology_tobacco_client_smoke_swear_nature_front_annual
 bip_39_word_underscore_2: concert_example
 bip_39_word_underscore_3: concert_example_fuel
-bip_39_word_underscore_4: concert_example_fuel_caught
-bip_39_word_underscore_5: concert_example_fuel_caught_apology
-bip_39_word_underscore_6: concert_example_fuel_caught_apology_tobacco
-bip_39_word_underscore_7: concert_example_fuel_caught_apology_tobacco_client
-bip_39_word_underscore_8: concert_example_fuel_caught_apology_tobacco_client_smoke
-bip_39_word_underscore_9: concert_example_fuel_caught_apology_tobacco_client_smoke_swear
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

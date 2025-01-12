@@ -1,68 +1,9 @@
-bip_39_word_dash_1: latin
-bip_39_word_dash_10: latin-swim-quantum-like-damp-zebra-catch-chuckle-empower-crumble
-bip_39_word_dash_11: latin-swim-quantum-like-damp-zebra-catch-chuckle-empower-crumble-liquid
 bip_39_word_dash_12: latin-swim-quantum-like-damp-zebra-catch-chuckle-empower-crumble-liquid-absorb
 bip_39_word_dash_2: latin-swim
 bip_39_word_dash_3: latin-swim-quantum
-bip_39_word_dash_4: latin-swim-quantum-like
-bip_39_word_dash_5: latin-swim-quantum-like-damp
-bip_39_word_dash_6: latin-swim-quantum-like-damp-zebra
-bip_39_word_dash_7: latin-swim-quantum-like-damp-zebra-catch
-bip_39_word_dash_8: latin-swim-quantum-like-damp-zebra-catch-chuckle
-bip_39_word_dash_9: latin-swim-quantum-like-damp-zebra-catch-chuckle-empower
-bip_39_word_new_br_1: latin
-bip_39_word_new_br_10: latin<br>swim<br>quantum<br>like<br>damp<br>zebra<br>catch<br>chuckle<br>empower<br>crumble
-bip_39_word_new_br_11: latin<br>swim<br>quantum<br>like<br>damp<br>zebra<br>catch<br>chuckle<br>empower<br>crumble<br>liquid
 bip_39_word_new_br_12: latin<br>swim<br>quantum<br>like<br>damp<br>zebra<br>catch<br>chuckle<br>empower<br>crumble<br>liquid<br>absorb
 bip_39_word_new_br_2: latin<br>swim
 bip_39_word_new_br_3: latin<br>swim<br>quantum
-bip_39_word_new_br_4: latin<br>swim<br>quantum<br>like
-bip_39_word_new_br_5: latin<br>swim<br>quantum<br>like<br>damp
-bip_39_word_new_br_6: latin<br>swim<br>quantum<br>like<br>damp<br>zebra
-bip_39_word_new_br_7: latin<br>swim<br>quantum<br>like<br>damp<br>zebra<br>catch
-bip_39_word_new_br_8: latin<br>swim<br>quantum<br>like<br>damp<br>zebra<br>catch<br>chuckle
-bip_39_word_new_br_9: latin<br>swim<br>quantum<br>like<br>damp<br>zebra<br>catch<br>chuckle<br>empower
-bip_39_word_new_line_1: latin
-bip_39_word_new_line_10: 'latin
-
-  swim
-
-  quantum
-
-  like
-
-  damp
-
-  zebra
-
-  catch
-
-  chuckle
-
-  empower
-
-  crumble'
-bip_39_word_new_line_11: 'latin
-
-  swim
-
-  quantum
-
-  like
-
-  damp
-
-  zebra
-
-  catch
-
-  chuckle
-
-  empower
-
-  crumble
-
-  liquid'
 bip_39_word_new_line_12: 'latin
 
   swim
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'latin
   swim
 
   quantum'
-bip_39_word_new_line_4: 'latin
-
-  swim
-
-  quantum
-
-  like'
-bip_39_word_new_line_5: 'latin
-
-  swim
-
-  quantum
-
-  like
-
-  damp'
-bip_39_word_new_line_6: 'latin
-
-  swim
-
-  quantum
-
-  like
-
-  damp
-
-  zebra'
-bip_39_word_new_line_7: 'latin
-
-  swim
-
-  quantum
-
-  like
-
-  damp
-
-  zebra
-
-  catch'
-bip_39_word_new_line_8: 'latin
-
-  swim
-
-  quantum
-
-  like
-
-  damp
-
-  zebra
-
-  catch
-
-  chuckle'
-bip_39_word_new_line_9: 'latin
-
-  swim
-
-  quantum
-
-  like
-
-  damp
-
-  zebra
-
-  catch
-
-  chuckle
-
-  empower'
-bip_39_word_no_space_1: latin
-bip_39_word_no_space_10: latinswimquantumlikedampzebracatchchuckleempowercrumble
-bip_39_word_no_space_11: latinswimquantumlikedampzebracatchchuckleempowercrumbleliquid
 bip_39_word_no_space_12: latinswimquantumlikedampzebracatchchuckleempowercrumbleliquidabsorb
 bip_39_word_no_space_2: latinswim
 bip_39_word_no_space_3: latinswimquantum
-bip_39_word_no_space_4: latinswimquantumlike
-bip_39_word_no_space_5: latinswimquantumlikedamp
-bip_39_word_no_space_6: latinswimquantumlikedampzebra
-bip_39_word_no_space_7: latinswimquantumlikedampzebracatch
-bip_39_word_no_space_8: latinswimquantumlikedampzebracatchchuckle
-bip_39_word_no_space_9: latinswimquantumlikedampzebracatchchuckleempower
-bip_39_word_space_0:
-- latin
-- swim
-- quantum
-- like
-- damp
-- zebra
-- catch
-- chuckle
-- empower
-- crumble
-- liquid
-- absorb
-bip_39_word_space_1: latin
-bip_39_word_space_10: latin swim quantum like damp zebra catch chuckle empower crumble
-bip_39_word_space_11: latin swim quantum like damp zebra catch chuckle empower crumble
-  liquid
 bip_39_word_space_12: latin swim quantum like damp zebra catch chuckle empower crumble
   liquid absorb
 bip_39_word_space_2: latin swim
 bip_39_word_space_3: latin swim quantum
-bip_39_word_space_4: latin swim quantum like
-bip_39_word_space_5: latin swim quantum like damp
-bip_39_word_space_6: latin swim quantum like damp zebra
-bip_39_word_space_7: latin swim quantum like damp zebra catch
-bip_39_word_space_8: latin swim quantum like damp zebra catch chuckle
-bip_39_word_space_9: latin swim quantum like damp zebra catch chuckle empower
-bip_39_word_underscore_1: latin
-bip_39_word_underscore_10: latin_swim_quantum_like_damp_zebra_catch_chuckle_empower_crumble
-bip_39_word_underscore_11: latin_swim_quantum_like_damp_zebra_catch_chuckle_empower_crumble_liquid
 bip_39_word_underscore_12: latin_swim_quantum_like_damp_zebra_catch_chuckle_empower_crumble_liquid_absorb
 bip_39_word_underscore_2: latin_swim
 bip_39_word_underscore_3: latin_swim_quantum
-bip_39_word_underscore_4: latin_swim_quantum_like
-bip_39_word_underscore_5: latin_swim_quantum_like_damp
-bip_39_word_underscore_6: latin_swim_quantum_like_damp_zebra
-bip_39_word_underscore_7: latin_swim_quantum_like_damp_zebra_catch
-bip_39_word_underscore_8: latin_swim_quantum_like_damp_zebra_catch_chuckle
-bip_39_word_underscore_9: latin_swim_quantum_like_damp_zebra_catch_chuckle_empower
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

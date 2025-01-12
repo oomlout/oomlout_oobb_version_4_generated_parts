@@ -1,68 +1,9 @@
-bip_39_word_dash_1: monkey
-bip_39_word_dash_10: monkey-mutual-question-isolate-old-better-speed-act-object-coconut
-bip_39_word_dash_11: monkey-mutual-question-isolate-old-better-speed-act-object-coconut-indoor
 bip_39_word_dash_12: monkey-mutual-question-isolate-old-better-speed-act-object-coconut-indoor-attack
 bip_39_word_dash_2: monkey-mutual
 bip_39_word_dash_3: monkey-mutual-question
-bip_39_word_dash_4: monkey-mutual-question-isolate
-bip_39_word_dash_5: monkey-mutual-question-isolate-old
-bip_39_word_dash_6: monkey-mutual-question-isolate-old-better
-bip_39_word_dash_7: monkey-mutual-question-isolate-old-better-speed
-bip_39_word_dash_8: monkey-mutual-question-isolate-old-better-speed-act
-bip_39_word_dash_9: monkey-mutual-question-isolate-old-better-speed-act-object
-bip_39_word_new_br_1: monkey
-bip_39_word_new_br_10: monkey<br>mutual<br>question<br>isolate<br>old<br>better<br>speed<br>act<br>object<br>coconut
-bip_39_word_new_br_11: monkey<br>mutual<br>question<br>isolate<br>old<br>better<br>speed<br>act<br>object<br>coconut<br>indoor
 bip_39_word_new_br_12: monkey<br>mutual<br>question<br>isolate<br>old<br>better<br>speed<br>act<br>object<br>coconut<br>indoor<br>attack
 bip_39_word_new_br_2: monkey<br>mutual
 bip_39_word_new_br_3: monkey<br>mutual<br>question
-bip_39_word_new_br_4: monkey<br>mutual<br>question<br>isolate
-bip_39_word_new_br_5: monkey<br>mutual<br>question<br>isolate<br>old
-bip_39_word_new_br_6: monkey<br>mutual<br>question<br>isolate<br>old<br>better
-bip_39_word_new_br_7: monkey<br>mutual<br>question<br>isolate<br>old<br>better<br>speed
-bip_39_word_new_br_8: monkey<br>mutual<br>question<br>isolate<br>old<br>better<br>speed<br>act
-bip_39_word_new_br_9: monkey<br>mutual<br>question<br>isolate<br>old<br>better<br>speed<br>act<br>object
-bip_39_word_new_line_1: monkey
-bip_39_word_new_line_10: 'monkey
-
-  mutual
-
-  question
-
-  isolate
-
-  old
-
-  better
-
-  speed
-
-  act
-
-  object
-
-  coconut'
-bip_39_word_new_line_11: 'monkey
-
-  mutual
-
-  question
-
-  isolate
-
-  old
-
-  better
-
-  speed
-
-  act
-
-  object
-
-  coconut
-
-  indoor'
 bip_39_word_new_line_12: 'monkey
 
   mutual
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'monkey
   mutual
 
   question'
-bip_39_word_new_line_4: 'monkey
-
-  mutual
-
-  question
-
-  isolate'
-bip_39_word_new_line_5: 'monkey
-
-  mutual
-
-  question
-
-  isolate
-
-  old'
-bip_39_word_new_line_6: 'monkey
-
-  mutual
-
-  question
-
-  isolate
-
-  old
-
-  better'
-bip_39_word_new_line_7: 'monkey
-
-  mutual
-
-  question
-
-  isolate
-
-  old
-
-  better
-
-  speed'
-bip_39_word_new_line_8: 'monkey
-
-  mutual
-
-  question
-
-  isolate
-
-  old
-
-  better
-
-  speed
-
-  act'
-bip_39_word_new_line_9: 'monkey
-
-  mutual
-
-  question
-
-  isolate
-
-  old
-
-  better
-
-  speed
-
-  act
-
-  object'
-bip_39_word_no_space_1: monkey
-bip_39_word_no_space_10: monkeymutualquestionisolateoldbetterspeedactobjectcoconut
-bip_39_word_no_space_11: monkeymutualquestionisolateoldbetterspeedactobjectcoconutindoor
 bip_39_word_no_space_12: monkeymutualquestionisolateoldbetterspeedactobjectcoconutindoorattack
 bip_39_word_no_space_2: monkeymutual
 bip_39_word_no_space_3: monkeymutualquestion
-bip_39_word_no_space_4: monkeymutualquestionisolate
-bip_39_word_no_space_5: monkeymutualquestionisolateold
-bip_39_word_no_space_6: monkeymutualquestionisolateoldbetter
-bip_39_word_no_space_7: monkeymutualquestionisolateoldbetterspeed
-bip_39_word_no_space_8: monkeymutualquestionisolateoldbetterspeedact
-bip_39_word_no_space_9: monkeymutualquestionisolateoldbetterspeedactobject
-bip_39_word_space_0:
-- monkey
-- mutual
-- question
-- isolate
-- old
-- better
-- speed
-- act
-- object
-- coconut
-- indoor
-- attack
-bip_39_word_space_1: monkey
-bip_39_word_space_10: monkey mutual question isolate old better speed act object coconut
-bip_39_word_space_11: monkey mutual question isolate old better speed act object coconut
-  indoor
 bip_39_word_space_12: monkey mutual question isolate old better speed act object coconut
   indoor attack
 bip_39_word_space_2: monkey mutual
 bip_39_word_space_3: monkey mutual question
-bip_39_word_space_4: monkey mutual question isolate
-bip_39_word_space_5: monkey mutual question isolate old
-bip_39_word_space_6: monkey mutual question isolate old better
-bip_39_word_space_7: monkey mutual question isolate old better speed
-bip_39_word_space_8: monkey mutual question isolate old better speed act
-bip_39_word_space_9: monkey mutual question isolate old better speed act object
-bip_39_word_underscore_1: monkey
-bip_39_word_underscore_10: monkey_mutual_question_isolate_old_better_speed_act_object_coconut
-bip_39_word_underscore_11: monkey_mutual_question_isolate_old_better_speed_act_object_coconut_indoor
 bip_39_word_underscore_12: monkey_mutual_question_isolate_old_better_speed_act_object_coconut_indoor_attack
 bip_39_word_underscore_2: monkey_mutual
 bip_39_word_underscore_3: monkey_mutual_question
-bip_39_word_underscore_4: monkey_mutual_question_isolate
-bip_39_word_underscore_5: monkey_mutual_question_isolate_old
-bip_39_word_underscore_6: monkey_mutual_question_isolate_old_better
-bip_39_word_underscore_7: monkey_mutual_question_isolate_old_better_speed
-bip_39_word_underscore_8: monkey_mutual_question_isolate_old_better_speed_act
-bip_39_word_underscore_9: monkey_mutual_question_isolate_old_better_speed_act_object
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

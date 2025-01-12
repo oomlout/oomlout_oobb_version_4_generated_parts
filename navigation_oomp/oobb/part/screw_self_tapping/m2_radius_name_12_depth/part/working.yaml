@@ -1,68 +1,9 @@
-bip_39_word_dash_1: ordinary
-bip_39_word_dash_10: ordinary-morning-lunch-yard-trim-nephew-brave-assault-room-execute
-bip_39_word_dash_11: ordinary-morning-lunch-yard-trim-nephew-brave-assault-room-execute-veteran
 bip_39_word_dash_12: ordinary-morning-lunch-yard-trim-nephew-brave-assault-room-execute-veteran-armor
 bip_39_word_dash_2: ordinary-morning
 bip_39_word_dash_3: ordinary-morning-lunch
-bip_39_word_dash_4: ordinary-morning-lunch-yard
-bip_39_word_dash_5: ordinary-morning-lunch-yard-trim
-bip_39_word_dash_6: ordinary-morning-lunch-yard-trim-nephew
-bip_39_word_dash_7: ordinary-morning-lunch-yard-trim-nephew-brave
-bip_39_word_dash_8: ordinary-morning-lunch-yard-trim-nephew-brave-assault
-bip_39_word_dash_9: ordinary-morning-lunch-yard-trim-nephew-brave-assault-room
-bip_39_word_new_br_1: ordinary
-bip_39_word_new_br_10: ordinary<br>morning<br>lunch<br>yard<br>trim<br>nephew<br>brave<br>assault<br>room<br>execute
-bip_39_word_new_br_11: ordinary<br>morning<br>lunch<br>yard<br>trim<br>nephew<br>brave<br>assault<br>room<br>execute<br>veteran
 bip_39_word_new_br_12: ordinary<br>morning<br>lunch<br>yard<br>trim<br>nephew<br>brave<br>assault<br>room<br>execute<br>veteran<br>armor
 bip_39_word_new_br_2: ordinary<br>morning
 bip_39_word_new_br_3: ordinary<br>morning<br>lunch
-bip_39_word_new_br_4: ordinary<br>morning<br>lunch<br>yard
-bip_39_word_new_br_5: ordinary<br>morning<br>lunch<br>yard<br>trim
-bip_39_word_new_br_6: ordinary<br>morning<br>lunch<br>yard<br>trim<br>nephew
-bip_39_word_new_br_7: ordinary<br>morning<br>lunch<br>yard<br>trim<br>nephew<br>brave
-bip_39_word_new_br_8: ordinary<br>morning<br>lunch<br>yard<br>trim<br>nephew<br>brave<br>assault
-bip_39_word_new_br_9: ordinary<br>morning<br>lunch<br>yard<br>trim<br>nephew<br>brave<br>assault<br>room
-bip_39_word_new_line_1: ordinary
-bip_39_word_new_line_10: 'ordinary
-
-  morning
-
-  lunch
-
-  yard
-
-  trim
-
-  nephew
-
-  brave
-
-  assault
-
-  room
-
-  execute'
-bip_39_word_new_line_11: 'ordinary
-
-  morning
-
-  lunch
-
-  yard
-
-  trim
-
-  nephew
-
-  brave
-
-  assault
-
-  room
-
-  execute
-
-  veteran'
 bip_39_word_new_line_12: 'ordinary
 
   morning
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'ordinary
   morning
 
   lunch'
-bip_39_word_new_line_4: 'ordinary
-
-  morning
-
-  lunch
-
-  yard'
-bip_39_word_new_line_5: 'ordinary
-
-  morning
-
-  lunch
-
-  yard
-
-  trim'
-bip_39_word_new_line_6: 'ordinary
-
-  morning
-
-  lunch
-
-  yard
-
-  trim
-
-  nephew'
-bip_39_word_new_line_7: 'ordinary
-
-  morning
-
-  lunch
-
-  yard
-
-  trim
-
-  nephew
-
-  brave'
-bip_39_word_new_line_8: 'ordinary
-
-  morning
-
-  lunch
-
-  yard
-
-  trim
-
-  nephew
-
-  brave
-
-  assault'
-bip_39_word_new_line_9: 'ordinary
-
-  morning
-
-  lunch
-
-  yard
-
-  trim
-
-  nephew
-
-  brave
-
-  assault
-
-  room'
-bip_39_word_no_space_1: ordinary
-bip_39_word_no_space_10: ordinarymorninglunchyardtrimnephewbraveassaultroomexecute
-bip_39_word_no_space_11: ordinarymorninglunchyardtrimnephewbraveassaultroomexecuteveteran
 bip_39_word_no_space_12: ordinarymorninglunchyardtrimnephewbraveassaultroomexecuteveteranarmor
 bip_39_word_no_space_2: ordinarymorning
 bip_39_word_no_space_3: ordinarymorninglunch
-bip_39_word_no_space_4: ordinarymorninglunchyard
-bip_39_word_no_space_5: ordinarymorninglunchyardtrim
-bip_39_word_no_space_6: ordinarymorninglunchyardtrimnephew
-bip_39_word_no_space_7: ordinarymorninglunchyardtrimnephewbrave
-bip_39_word_no_space_8: ordinarymorninglunchyardtrimnephewbraveassault
-bip_39_word_no_space_9: ordinarymorninglunchyardtrimnephewbraveassaultroom
-bip_39_word_space_0:
-- ordinary
-- morning
-- lunch
-- yard
-- trim
-- nephew
-- brave
-- assault
-- room
-- execute
-- veteran
-- armor
-bip_39_word_space_1: ordinary
-bip_39_word_space_10: ordinary morning lunch yard trim nephew brave assault room execute
-bip_39_word_space_11: ordinary morning lunch yard trim nephew brave assault room execute
-  veteran
 bip_39_word_space_12: ordinary morning lunch yard trim nephew brave assault room execute
   veteran armor
 bip_39_word_space_2: ordinary morning
 bip_39_word_space_3: ordinary morning lunch
-bip_39_word_space_4: ordinary morning lunch yard
-bip_39_word_space_5: ordinary morning lunch yard trim
-bip_39_word_space_6: ordinary morning lunch yard trim nephew
-bip_39_word_space_7: ordinary morning lunch yard trim nephew brave
-bip_39_word_space_8: ordinary morning lunch yard trim nephew brave assault
-bip_39_word_space_9: ordinary morning lunch yard trim nephew brave assault room
-bip_39_word_underscore_1: ordinary
-bip_39_word_underscore_10: ordinary_morning_lunch_yard_trim_nephew_brave_assault_room_execute
-bip_39_word_underscore_11: ordinary_morning_lunch_yard_trim_nephew_brave_assault_room_execute_veteran
 bip_39_word_underscore_12: ordinary_morning_lunch_yard_trim_nephew_brave_assault_room_execute_veteran_armor
 bip_39_word_underscore_2: ordinary_morning
 bip_39_word_underscore_3: ordinary_morning_lunch
-bip_39_word_underscore_4: ordinary_morning_lunch_yard
-bip_39_word_underscore_5: ordinary_morning_lunch_yard_trim
-bip_39_word_underscore_6: ordinary_morning_lunch_yard_trim_nephew
-bip_39_word_underscore_7: ordinary_morning_lunch_yard_trim_nephew_brave
-bip_39_word_underscore_8: ordinary_morning_lunch_yard_trim_nephew_brave_assault
-bip_39_word_underscore_9: ordinary_morning_lunch_yard_trim_nephew_brave_assault_room
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

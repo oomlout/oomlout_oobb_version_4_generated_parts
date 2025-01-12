@@ -1,68 +1,9 @@
-bip_39_word_dash_1: gun
-bip_39_word_dash_10: gun-myself-civil-armed-vault-upgrade-shoot-giggle-file-april
-bip_39_word_dash_11: gun-myself-civil-armed-vault-upgrade-shoot-giggle-file-april-salute
 bip_39_word_dash_12: gun-myself-civil-armed-vault-upgrade-shoot-giggle-file-april-salute-aunt
 bip_39_word_dash_2: gun-myself
 bip_39_word_dash_3: gun-myself-civil
-bip_39_word_dash_4: gun-myself-civil-armed
-bip_39_word_dash_5: gun-myself-civil-armed-vault
-bip_39_word_dash_6: gun-myself-civil-armed-vault-upgrade
-bip_39_word_dash_7: gun-myself-civil-armed-vault-upgrade-shoot
-bip_39_word_dash_8: gun-myself-civil-armed-vault-upgrade-shoot-giggle
-bip_39_word_dash_9: gun-myself-civil-armed-vault-upgrade-shoot-giggle-file
-bip_39_word_new_br_1: gun
-bip_39_word_new_br_10: gun<br>myself<br>civil<br>armed<br>vault<br>upgrade<br>shoot<br>giggle<br>file<br>april
-bip_39_word_new_br_11: gun<br>myself<br>civil<br>armed<br>vault<br>upgrade<br>shoot<br>giggle<br>file<br>april<br>salute
 bip_39_word_new_br_12: gun<br>myself<br>civil<br>armed<br>vault<br>upgrade<br>shoot<br>giggle<br>file<br>april<br>salute<br>aunt
 bip_39_word_new_br_2: gun<br>myself
 bip_39_word_new_br_3: gun<br>myself<br>civil
-bip_39_word_new_br_4: gun<br>myself<br>civil<br>armed
-bip_39_word_new_br_5: gun<br>myself<br>civil<br>armed<br>vault
-bip_39_word_new_br_6: gun<br>myself<br>civil<br>armed<br>vault<br>upgrade
-bip_39_word_new_br_7: gun<br>myself<br>civil<br>armed<br>vault<br>upgrade<br>shoot
-bip_39_word_new_br_8: gun<br>myself<br>civil<br>armed<br>vault<br>upgrade<br>shoot<br>giggle
-bip_39_word_new_br_9: gun<br>myself<br>civil<br>armed<br>vault<br>upgrade<br>shoot<br>giggle<br>file
-bip_39_word_new_line_1: gun
-bip_39_word_new_line_10: 'gun
-
-  myself
-
-  civil
-
-  armed
-
-  vault
-
-  upgrade
-
-  shoot
-
-  giggle
-
-  file
-
-  april'
-bip_39_word_new_line_11: 'gun
-
-  myself
-
-  civil
-
-  armed
-
-  vault
-
-  upgrade
-
-  shoot
-
-  giggle
-
-  file
-
-  april
-
-  salute'
 bip_39_word_new_line_12: 'gun
 
   myself
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'gun
   myself
 
   civil'
-bip_39_word_new_line_4: 'gun
-
-  myself
-
-  civil
-
-  armed'
-bip_39_word_new_line_5: 'gun
-
-  myself
-
-  civil
-
-  armed
-
-  vault'
-bip_39_word_new_line_6: 'gun
-
-  myself
-
-  civil
-
-  armed
-
-  vault
-
-  upgrade'
-bip_39_word_new_line_7: 'gun
-
-  myself
-
-  civil
-
-  armed
-
-  vault
-
-  upgrade
-
-  shoot'
-bip_39_word_new_line_8: 'gun
-
-  myself
-
-  civil
-
-  armed
-
-  vault
-
-  upgrade
-
-  shoot
-
-  giggle'
-bip_39_word_new_line_9: 'gun
-
-  myself
-
-  civil
-
-  armed
-
-  vault
-
-  upgrade
-
-  shoot
-
-  giggle
-
-  file'
-bip_39_word_no_space_1: gun
-bip_39_word_no_space_10: gunmyselfcivilarmedvaultupgradeshootgigglefileapril
-bip_39_word_no_space_11: gunmyselfcivilarmedvaultupgradeshootgigglefileaprilsalute
 bip_39_word_no_space_12: gunmyselfcivilarmedvaultupgradeshootgigglefileaprilsaluteaunt
 bip_39_word_no_space_2: gunmyself
 bip_39_word_no_space_3: gunmyselfcivil
-bip_39_word_no_space_4: gunmyselfcivilarmed
-bip_39_word_no_space_5: gunmyselfcivilarmedvault
-bip_39_word_no_space_6: gunmyselfcivilarmedvaultupgrade
-bip_39_word_no_space_7: gunmyselfcivilarmedvaultupgradeshoot
-bip_39_word_no_space_8: gunmyselfcivilarmedvaultupgradeshootgiggle
-bip_39_word_no_space_9: gunmyselfcivilarmedvaultupgradeshootgigglefile
-bip_39_word_space_0:
-- gun
-- myself
-- civil
-- armed
-- vault
-- upgrade
-- shoot
-- giggle
-- file
-- april
-- salute
-- aunt
-bip_39_word_space_1: gun
-bip_39_word_space_10: gun myself civil armed vault upgrade shoot giggle file april
-bip_39_word_space_11: gun myself civil armed vault upgrade shoot giggle file april
-  salute
 bip_39_word_space_12: gun myself civil armed vault upgrade shoot giggle file april
   salute aunt
 bip_39_word_space_2: gun myself
 bip_39_word_space_3: gun myself civil
-bip_39_word_space_4: gun myself civil armed
-bip_39_word_space_5: gun myself civil armed vault
-bip_39_word_space_6: gun myself civil armed vault upgrade
-bip_39_word_space_7: gun myself civil armed vault upgrade shoot
-bip_39_word_space_8: gun myself civil armed vault upgrade shoot giggle
-bip_39_word_space_9: gun myself civil armed vault upgrade shoot giggle file
-bip_39_word_underscore_1: gun
-bip_39_word_underscore_10: gun_myself_civil_armed_vault_upgrade_shoot_giggle_file_april
-bip_39_word_underscore_11: gun_myself_civil_armed_vault_upgrade_shoot_giggle_file_april_salute
 bip_39_word_underscore_12: gun_myself_civil_armed_vault_upgrade_shoot_giggle_file_april_salute_aunt
 bip_39_word_underscore_2: gun_myself
 bip_39_word_underscore_3: gun_myself_civil
-bip_39_word_underscore_4: gun_myself_civil_armed
-bip_39_word_underscore_5: gun_myself_civil_armed_vault
-bip_39_word_underscore_6: gun_myself_civil_armed_vault_upgrade
-bip_39_word_underscore_7: gun_myself_civil_armed_vault_upgrade_shoot
-bip_39_word_underscore_8: gun_myself_civil_armed_vault_upgrade_shoot_giggle
-bip_39_word_underscore_9: gun_myself_civil_armed_vault_upgrade_shoot_giggle_file
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

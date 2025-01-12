@@ -1,68 +1,9 @@
-bip_39_word_dash_1: cash
-bip_39_word_dash_10: cash-void-leg-sad-useless-valley-cheese-main-ecology-umbrella
-bip_39_word_dash_11: cash-void-leg-sad-useless-valley-cheese-main-ecology-umbrella-myself
 bip_39_word_dash_12: cash-void-leg-sad-useless-valley-cheese-main-ecology-umbrella-myself-accuse
 bip_39_word_dash_2: cash-void
 bip_39_word_dash_3: cash-void-leg
-bip_39_word_dash_4: cash-void-leg-sad
-bip_39_word_dash_5: cash-void-leg-sad-useless
-bip_39_word_dash_6: cash-void-leg-sad-useless-valley
-bip_39_word_dash_7: cash-void-leg-sad-useless-valley-cheese
-bip_39_word_dash_8: cash-void-leg-sad-useless-valley-cheese-main
-bip_39_word_dash_9: cash-void-leg-sad-useless-valley-cheese-main-ecology
-bip_39_word_new_br_1: cash
-bip_39_word_new_br_10: cash<br>void<br>leg<br>sad<br>useless<br>valley<br>cheese<br>main<br>ecology<br>umbrella
-bip_39_word_new_br_11: cash<br>void<br>leg<br>sad<br>useless<br>valley<br>cheese<br>main<br>ecology<br>umbrella<br>myself
 bip_39_word_new_br_12: cash<br>void<br>leg<br>sad<br>useless<br>valley<br>cheese<br>main<br>ecology<br>umbrella<br>myself<br>accuse
 bip_39_word_new_br_2: cash<br>void
 bip_39_word_new_br_3: cash<br>void<br>leg
-bip_39_word_new_br_4: cash<br>void<br>leg<br>sad
-bip_39_word_new_br_5: cash<br>void<br>leg<br>sad<br>useless
-bip_39_word_new_br_6: cash<br>void<br>leg<br>sad<br>useless<br>valley
-bip_39_word_new_br_7: cash<br>void<br>leg<br>sad<br>useless<br>valley<br>cheese
-bip_39_word_new_br_8: cash<br>void<br>leg<br>sad<br>useless<br>valley<br>cheese<br>main
-bip_39_word_new_br_9: cash<br>void<br>leg<br>sad<br>useless<br>valley<br>cheese<br>main<br>ecology
-bip_39_word_new_line_1: cash
-bip_39_word_new_line_10: 'cash
-
-  void
-
-  leg
-
-  sad
-
-  useless
-
-  valley
-
-  cheese
-
-  main
-
-  ecology
-
-  umbrella'
-bip_39_word_new_line_11: 'cash
-
-  void
-
-  leg
-
-  sad
-
-  useless
-
-  valley
-
-  cheese
-
-  main
-
-  ecology
-
-  umbrella
-
-  myself'
 bip_39_word_new_line_12: 'cash
 
   void
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'cash
   void
 
   leg'
-bip_39_word_new_line_4: 'cash
-
-  void
-
-  leg
-
-  sad'
-bip_39_word_new_line_5: 'cash
-
-  void
-
-  leg
-
-  sad
-
-  useless'
-bip_39_word_new_line_6: 'cash
-
-  void
-
-  leg
-
-  sad
-
-  useless
-
-  valley'
-bip_39_word_new_line_7: 'cash
-
-  void
-
-  leg
-
-  sad
-
-  useless
-
-  valley
-
-  cheese'
-bip_39_word_new_line_8: 'cash
-
-  void
-
-  leg
-
-  sad
-
-  useless
-
-  valley
-
-  cheese
-
-  main'
-bip_39_word_new_line_9: 'cash
-
-  void
-
-  leg
-
-  sad
-
-  useless
-
-  valley
-
-  cheese
-
-  main
-
-  ecology'
-bip_39_word_no_space_1: cash
-bip_39_word_no_space_10: cashvoidlegsaduselessvalleycheesemainecologyumbrella
-bip_39_word_no_space_11: cashvoidlegsaduselessvalleycheesemainecologyumbrellamyself
 bip_39_word_no_space_12: cashvoidlegsaduselessvalleycheesemainecologyumbrellamyselfaccuse
 bip_39_word_no_space_2: cashvoid
 bip_39_word_no_space_3: cashvoidleg
-bip_39_word_no_space_4: cashvoidlegsad
-bip_39_word_no_space_5: cashvoidlegsaduseless
-bip_39_word_no_space_6: cashvoidlegsaduselessvalley
-bip_39_word_no_space_7: cashvoidlegsaduselessvalleycheese
-bip_39_word_no_space_8: cashvoidlegsaduselessvalleycheesemain
-bip_39_word_no_space_9: cashvoidlegsaduselessvalleycheesemainecology
-bip_39_word_space_0:
-- cash
-- void
-- leg
-- sad
-- useless
-- valley
-- cheese
-- main
-- ecology
-- umbrella
-- myself
-- accuse
-bip_39_word_space_1: cash
-bip_39_word_space_10: cash void leg sad useless valley cheese main ecology umbrella
-bip_39_word_space_11: cash void leg sad useless valley cheese main ecology umbrella
-  myself
 bip_39_word_space_12: cash void leg sad useless valley cheese main ecology umbrella
   myself accuse
 bip_39_word_space_2: cash void
 bip_39_word_space_3: cash void leg
-bip_39_word_space_4: cash void leg sad
-bip_39_word_space_5: cash void leg sad useless
-bip_39_word_space_6: cash void leg sad useless valley
-bip_39_word_space_7: cash void leg sad useless valley cheese
-bip_39_word_space_8: cash void leg sad useless valley cheese main
-bip_39_word_space_9: cash void leg sad useless valley cheese main ecology
-bip_39_word_underscore_1: cash
-bip_39_word_underscore_10: cash_void_leg_sad_useless_valley_cheese_main_ecology_umbrella
-bip_39_word_underscore_11: cash_void_leg_sad_useless_valley_cheese_main_ecology_umbrella_myself
 bip_39_word_underscore_12: cash_void_leg_sad_useless_valley_cheese_main_ecology_umbrella_myself_accuse
 bip_39_word_underscore_2: cash_void
 bip_39_word_underscore_3: cash_void_leg
-bip_39_word_underscore_4: cash_void_leg_sad
-bip_39_word_underscore_5: cash_void_leg_sad_useless
-bip_39_word_underscore_6: cash_void_leg_sad_useless_valley
-bip_39_word_underscore_7: cash_void_leg_sad_useless_valley_cheese
-bip_39_word_underscore_8: cash_void_leg_sad_useless_valley_cheese_main
-bip_39_word_underscore_9: cash_void_leg_sad_useless_valley_cheese_main_ecology
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: require
-bip_39_word_dash_10: require-wolf-also-eagle-minimum-become-maid-despair-street-degree
-bip_39_word_dash_11: require-wolf-also-eagle-minimum-become-maid-despair-street-degree-income
 bip_39_word_dash_12: require-wolf-also-eagle-minimum-become-maid-despair-street-degree-income-alley
 bip_39_word_dash_2: require-wolf
 bip_39_word_dash_3: require-wolf-also
-bip_39_word_dash_4: require-wolf-also-eagle
-bip_39_word_dash_5: require-wolf-also-eagle-minimum
-bip_39_word_dash_6: require-wolf-also-eagle-minimum-become
-bip_39_word_dash_7: require-wolf-also-eagle-minimum-become-maid
-bip_39_word_dash_8: require-wolf-also-eagle-minimum-become-maid-despair
-bip_39_word_dash_9: require-wolf-also-eagle-minimum-become-maid-despair-street
-bip_39_word_new_br_1: require
-bip_39_word_new_br_10: require<br>wolf<br>also<br>eagle<br>minimum<br>become<br>maid<br>despair<br>street<br>degree
-bip_39_word_new_br_11: require<br>wolf<br>also<br>eagle<br>minimum<br>become<br>maid<br>despair<br>street<br>degree<br>income
 bip_39_word_new_br_12: require<br>wolf<br>also<br>eagle<br>minimum<br>become<br>maid<br>despair<br>street<br>degree<br>income<br>alley
 bip_39_word_new_br_2: require<br>wolf
 bip_39_word_new_br_3: require<br>wolf<br>also
-bip_39_word_new_br_4: require<br>wolf<br>also<br>eagle
-bip_39_word_new_br_5: require<br>wolf<br>also<br>eagle<br>minimum
-bip_39_word_new_br_6: require<br>wolf<br>also<br>eagle<br>minimum<br>become
-bip_39_word_new_br_7: require<br>wolf<br>also<br>eagle<br>minimum<br>become<br>maid
-bip_39_word_new_br_8: require<br>wolf<br>also<br>eagle<br>minimum<br>become<br>maid<br>despair
-bip_39_word_new_br_9: require<br>wolf<br>also<br>eagle<br>minimum<br>become<br>maid<br>despair<br>street
-bip_39_word_new_line_1: require
-bip_39_word_new_line_10: 'require
-
-  wolf
-
-  also
-
-  eagle
-
-  minimum
-
-  become
-
-  maid
-
-  despair
-
-  street
-
-  degree'
-bip_39_word_new_line_11: 'require
-
-  wolf
-
-  also
-
-  eagle
-
-  minimum
-
-  become
-
-  maid
-
-  despair
-
-  street
-
-  degree
-
-  income'
 bip_39_word_new_line_12: 'require
 
   wolf
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'require
   wolf
 
   also'
-bip_39_word_new_line_4: 'require
-
-  wolf
-
-  also
-
-  eagle'
-bip_39_word_new_line_5: 'require
-
-  wolf
-
-  also
-
-  eagle
-
-  minimum'
-bip_39_word_new_line_6: 'require
-
-  wolf
-
-  also
-
-  eagle
-
-  minimum
-
-  become'
-bip_39_word_new_line_7: 'require
-
-  wolf
-
-  also
-
-  eagle
-
-  minimum
-
-  become
-
-  maid'
-bip_39_word_new_line_8: 'require
-
-  wolf
-
-  also
-
-  eagle
-
-  minimum
-
-  become
-
-  maid
-
-  despair'
-bip_39_word_new_line_9: 'require
-
-  wolf
-
-  also
-
-  eagle
-
-  minimum
-
-  become
-
-  maid
-
-  despair
-
-  street'
-bip_39_word_no_space_1: require
-bip_39_word_no_space_10: requirewolfalsoeagleminimumbecomemaiddespairstreetdegree
-bip_39_word_no_space_11: requirewolfalsoeagleminimumbecomemaiddespairstreetdegreeincome
 bip_39_word_no_space_12: requirewolfalsoeagleminimumbecomemaiddespairstreetdegreeincomealley
 bip_39_word_no_space_2: requirewolf
 bip_39_word_no_space_3: requirewolfalso
-bip_39_word_no_space_4: requirewolfalsoeagle
-bip_39_word_no_space_5: requirewolfalsoeagleminimum
-bip_39_word_no_space_6: requirewolfalsoeagleminimumbecome
-bip_39_word_no_space_7: requirewolfalsoeagleminimumbecomemaid
-bip_39_word_no_space_8: requirewolfalsoeagleminimumbecomemaiddespair
-bip_39_word_no_space_9: requirewolfalsoeagleminimumbecomemaiddespairstreet
-bip_39_word_space_0:
-- require
-- wolf
-- also
-- eagle
-- minimum
-- become
-- maid
-- despair
-- street
-- degree
-- income
-- alley
-bip_39_word_space_1: require
-bip_39_word_space_10: require wolf also eagle minimum become maid despair street degree
-bip_39_word_space_11: require wolf also eagle minimum become maid despair street degree
-  income
 bip_39_word_space_12: require wolf also eagle minimum become maid despair street degree
   income alley
 bip_39_word_space_2: require wolf
 bip_39_word_space_3: require wolf also
-bip_39_word_space_4: require wolf also eagle
-bip_39_word_space_5: require wolf also eagle minimum
-bip_39_word_space_6: require wolf also eagle minimum become
-bip_39_word_space_7: require wolf also eagle minimum become maid
-bip_39_word_space_8: require wolf also eagle minimum become maid despair
-bip_39_word_space_9: require wolf also eagle minimum become maid despair street
-bip_39_word_underscore_1: require
-bip_39_word_underscore_10: require_wolf_also_eagle_minimum_become_maid_despair_street_degree
-bip_39_word_underscore_11: require_wolf_also_eagle_minimum_become_maid_despair_street_degree_income
 bip_39_word_underscore_12: require_wolf_also_eagle_minimum_become_maid_despair_street_degree_income_alley
 bip_39_word_underscore_2: require_wolf
 bip_39_word_underscore_3: require_wolf_also
-bip_39_word_underscore_4: require_wolf_also_eagle
-bip_39_word_underscore_5: require_wolf_also_eagle_minimum
-bip_39_word_underscore_6: require_wolf_also_eagle_minimum_become
-bip_39_word_underscore_7: require_wolf_also_eagle_minimum_become_maid
-bip_39_word_underscore_8: require_wolf_also_eagle_minimum_become_maid_despair
-bip_39_word_underscore_9: require_wolf_also_eagle_minimum_become_maid_despair_street
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

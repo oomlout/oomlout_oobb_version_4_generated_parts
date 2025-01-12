@@ -1,68 +1,9 @@
-bip_39_word_dash_1: gather
-bip_39_word_dash_10: gather-tail-cabin-impact-size-eagle-reflect-engage-attitude-junk
-bip_39_word_dash_11: gather-tail-cabin-impact-size-eagle-reflect-engage-attitude-junk-saddle
 bip_39_word_dash_12: gather-tail-cabin-impact-size-eagle-reflect-engage-attitude-junk-saddle-agent
 bip_39_word_dash_2: gather-tail
 bip_39_word_dash_3: gather-tail-cabin
-bip_39_word_dash_4: gather-tail-cabin-impact
-bip_39_word_dash_5: gather-tail-cabin-impact-size
-bip_39_word_dash_6: gather-tail-cabin-impact-size-eagle
-bip_39_word_dash_7: gather-tail-cabin-impact-size-eagle-reflect
-bip_39_word_dash_8: gather-tail-cabin-impact-size-eagle-reflect-engage
-bip_39_word_dash_9: gather-tail-cabin-impact-size-eagle-reflect-engage-attitude
-bip_39_word_new_br_1: gather
-bip_39_word_new_br_10: gather<br>tail<br>cabin<br>impact<br>size<br>eagle<br>reflect<br>engage<br>attitude<br>junk
-bip_39_word_new_br_11: gather<br>tail<br>cabin<br>impact<br>size<br>eagle<br>reflect<br>engage<br>attitude<br>junk<br>saddle
 bip_39_word_new_br_12: gather<br>tail<br>cabin<br>impact<br>size<br>eagle<br>reflect<br>engage<br>attitude<br>junk<br>saddle<br>agent
 bip_39_word_new_br_2: gather<br>tail
 bip_39_word_new_br_3: gather<br>tail<br>cabin
-bip_39_word_new_br_4: gather<br>tail<br>cabin<br>impact
-bip_39_word_new_br_5: gather<br>tail<br>cabin<br>impact<br>size
-bip_39_word_new_br_6: gather<br>tail<br>cabin<br>impact<br>size<br>eagle
-bip_39_word_new_br_7: gather<br>tail<br>cabin<br>impact<br>size<br>eagle<br>reflect
-bip_39_word_new_br_8: gather<br>tail<br>cabin<br>impact<br>size<br>eagle<br>reflect<br>engage
-bip_39_word_new_br_9: gather<br>tail<br>cabin<br>impact<br>size<br>eagle<br>reflect<br>engage<br>attitude
-bip_39_word_new_line_1: gather
-bip_39_word_new_line_10: 'gather
-
-  tail
-
-  cabin
-
-  impact
-
-  size
-
-  eagle
-
-  reflect
-
-  engage
-
-  attitude
-
-  junk'
-bip_39_word_new_line_11: 'gather
-
-  tail
-
-  cabin
-
-  impact
-
-  size
-
-  eagle
-
-  reflect
-
-  engage
-
-  attitude
-
-  junk
-
-  saddle'
 bip_39_word_new_line_12: 'gather
 
   tail
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'gather
   tail
 
   cabin'
-bip_39_word_new_line_4: 'gather
-
-  tail
-
-  cabin
-
-  impact'
-bip_39_word_new_line_5: 'gather
-
-  tail
-
-  cabin
-
-  impact
-
-  size'
-bip_39_word_new_line_6: 'gather
-
-  tail
-
-  cabin
-
-  impact
-
-  size
-
-  eagle'
-bip_39_word_new_line_7: 'gather
-
-  tail
-
-  cabin
-
-  impact
-
-  size
-
-  eagle
-
-  reflect'
-bip_39_word_new_line_8: 'gather
-
-  tail
-
-  cabin
-
-  impact
-
-  size
-
-  eagle
-
-  reflect
-
-  engage'
-bip_39_word_new_line_9: 'gather
-
-  tail
-
-  cabin
-
-  impact
-
-  size
-
-  eagle
-
-  reflect
-
-  engage
-
-  attitude'
-bip_39_word_no_space_1: gather
-bip_39_word_no_space_10: gathertailcabinimpactsizeeaglereflectengageattitudejunk
-bip_39_word_no_space_11: gathertailcabinimpactsizeeaglereflectengageattitudejunksaddle
 bip_39_word_no_space_12: gathertailcabinimpactsizeeaglereflectengageattitudejunksaddleagent
 bip_39_word_no_space_2: gathertail
 bip_39_word_no_space_3: gathertailcabin
-bip_39_word_no_space_4: gathertailcabinimpact
-bip_39_word_no_space_5: gathertailcabinimpactsize
-bip_39_word_no_space_6: gathertailcabinimpactsizeeagle
-bip_39_word_no_space_7: gathertailcabinimpactsizeeaglereflect
-bip_39_word_no_space_8: gathertailcabinimpactsizeeaglereflectengage
-bip_39_word_no_space_9: gathertailcabinimpactsizeeaglereflectengageattitude
-bip_39_word_space_0:
-- gather
-- tail
-- cabin
-- impact
-- size
-- eagle
-- reflect
-- engage
-- attitude
-- junk
-- saddle
-- agent
-bip_39_word_space_1: gather
-bip_39_word_space_10: gather tail cabin impact size eagle reflect engage attitude
-  junk
-bip_39_word_space_11: gather tail cabin impact size eagle reflect engage attitude
-  junk saddle
 bip_39_word_space_12: gather tail cabin impact size eagle reflect engage attitude
   junk saddle agent
 bip_39_word_space_2: gather tail
 bip_39_word_space_3: gather tail cabin
-bip_39_word_space_4: gather tail cabin impact
-bip_39_word_space_5: gather tail cabin impact size
-bip_39_word_space_6: gather tail cabin impact size eagle
-bip_39_word_space_7: gather tail cabin impact size eagle reflect
-bip_39_word_space_8: gather tail cabin impact size eagle reflect engage
-bip_39_word_space_9: gather tail cabin impact size eagle reflect engage attitude
-bip_39_word_underscore_1: gather
-bip_39_word_underscore_10: gather_tail_cabin_impact_size_eagle_reflect_engage_attitude_junk
-bip_39_word_underscore_11: gather_tail_cabin_impact_size_eagle_reflect_engage_attitude_junk_saddle
 bip_39_word_underscore_12: gather_tail_cabin_impact_size_eagle_reflect_engage_attitude_junk_saddle_agent
 bip_39_word_underscore_2: gather_tail
 bip_39_word_underscore_3: gather_tail_cabin
-bip_39_word_underscore_4: gather_tail_cabin_impact
-bip_39_word_underscore_5: gather_tail_cabin_impact_size
-bip_39_word_underscore_6: gather_tail_cabin_impact_size_eagle
-bip_39_word_underscore_7: gather_tail_cabin_impact_size_eagle_reflect
-bip_39_word_underscore_8: gather_tail_cabin_impact_size_eagle_reflect_engage
-bip_39_word_underscore_9: gather_tail_cabin_impact_size_eagle_reflect_engage_attitude
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

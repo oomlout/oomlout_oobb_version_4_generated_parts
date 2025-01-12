@@ -1,68 +1,9 @@
-bip_39_word_dash_1: build
-bip_39_word_dash_10: build-skull-wool-rail-marble-medal-month-almost-since-nurse
-bip_39_word_dash_11: build-skull-wool-rail-marble-medal-month-almost-since-nurse-three
 bip_39_word_dash_12: build-skull-wool-rail-marble-medal-month-almost-since-nurse-three-afford
 bip_39_word_dash_2: build-skull
 bip_39_word_dash_3: build-skull-wool
-bip_39_word_dash_4: build-skull-wool-rail
-bip_39_word_dash_5: build-skull-wool-rail-marble
-bip_39_word_dash_6: build-skull-wool-rail-marble-medal
-bip_39_word_dash_7: build-skull-wool-rail-marble-medal-month
-bip_39_word_dash_8: build-skull-wool-rail-marble-medal-month-almost
-bip_39_word_dash_9: build-skull-wool-rail-marble-medal-month-almost-since
-bip_39_word_new_br_1: build
-bip_39_word_new_br_10: build<br>skull<br>wool<br>rail<br>marble<br>medal<br>month<br>almost<br>since<br>nurse
-bip_39_word_new_br_11: build<br>skull<br>wool<br>rail<br>marble<br>medal<br>month<br>almost<br>since<br>nurse<br>three
 bip_39_word_new_br_12: build<br>skull<br>wool<br>rail<br>marble<br>medal<br>month<br>almost<br>since<br>nurse<br>three<br>afford
 bip_39_word_new_br_2: build<br>skull
 bip_39_word_new_br_3: build<br>skull<br>wool
-bip_39_word_new_br_4: build<br>skull<br>wool<br>rail
-bip_39_word_new_br_5: build<br>skull<br>wool<br>rail<br>marble
-bip_39_word_new_br_6: build<br>skull<br>wool<br>rail<br>marble<br>medal
-bip_39_word_new_br_7: build<br>skull<br>wool<br>rail<br>marble<br>medal<br>month
-bip_39_word_new_br_8: build<br>skull<br>wool<br>rail<br>marble<br>medal<br>month<br>almost
-bip_39_word_new_br_9: build<br>skull<br>wool<br>rail<br>marble<br>medal<br>month<br>almost<br>since
-bip_39_word_new_line_1: build
-bip_39_word_new_line_10: 'build
-
-  skull
-
-  wool
-
-  rail
-
-  marble
-
-  medal
-
-  month
-
-  almost
-
-  since
-
-  nurse'
-bip_39_word_new_line_11: 'build
-
-  skull
-
-  wool
-
-  rail
-
-  marble
-
-  medal
-
-  month
-
-  almost
-
-  since
-
-  nurse
-
-  three'
 bip_39_word_new_line_12: 'build
 
   skull
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'build
   skull
 
   wool'
-bip_39_word_new_line_4: 'build
-
-  skull
-
-  wool
-
-  rail'
-bip_39_word_new_line_5: 'build
-
-  skull
-
-  wool
-
-  rail
-
-  marble'
-bip_39_word_new_line_6: 'build
-
-  skull
-
-  wool
-
-  rail
-
-  marble
-
-  medal'
-bip_39_word_new_line_7: 'build
-
-  skull
-
-  wool
-
-  rail
-
-  marble
-
-  medal
-
-  month'
-bip_39_word_new_line_8: 'build
-
-  skull
-
-  wool
-
-  rail
-
-  marble
-
-  medal
-
-  month
-
-  almost'
-bip_39_word_new_line_9: 'build
-
-  skull
-
-  wool
-
-  rail
-
-  marble
-
-  medal
-
-  month
-
-  almost
-
-  since'
-bip_39_word_no_space_1: build
-bip_39_word_no_space_10: buildskullwoolrailmarblemedalmonthalmostsincenurse
-bip_39_word_no_space_11: buildskullwoolrailmarblemedalmonthalmostsincenursethree
 bip_39_word_no_space_12: buildskullwoolrailmarblemedalmonthalmostsincenursethreeafford
 bip_39_word_no_space_2: buildskull
 bip_39_word_no_space_3: buildskullwool
-bip_39_word_no_space_4: buildskullwoolrail
-bip_39_word_no_space_5: buildskullwoolrailmarble
-bip_39_word_no_space_6: buildskullwoolrailmarblemedal
-bip_39_word_no_space_7: buildskullwoolrailmarblemedalmonth
-bip_39_word_no_space_8: buildskullwoolrailmarblemedalmonthalmost
-bip_39_word_no_space_9: buildskullwoolrailmarblemedalmonthalmostsince
-bip_39_word_space_0:
-- build
-- skull
-- wool
-- rail
-- marble
-- medal
-- month
-- almost
-- since
-- nurse
-- three
-- afford
-bip_39_word_space_1: build
-bip_39_word_space_10: build skull wool rail marble medal month almost since nurse
-bip_39_word_space_11: build skull wool rail marble medal month almost since nurse
-  three
 bip_39_word_space_12: build skull wool rail marble medal month almost since nurse
   three afford
 bip_39_word_space_2: build skull
 bip_39_word_space_3: build skull wool
-bip_39_word_space_4: build skull wool rail
-bip_39_word_space_5: build skull wool rail marble
-bip_39_word_space_6: build skull wool rail marble medal
-bip_39_word_space_7: build skull wool rail marble medal month
-bip_39_word_space_8: build skull wool rail marble medal month almost
-bip_39_word_space_9: build skull wool rail marble medal month almost since
-bip_39_word_underscore_1: build
-bip_39_word_underscore_10: build_skull_wool_rail_marble_medal_month_almost_since_nurse
-bip_39_word_underscore_11: build_skull_wool_rail_marble_medal_month_almost_since_nurse_three
 bip_39_word_underscore_12: build_skull_wool_rail_marble_medal_month_almost_since_nurse_three_afford
 bip_39_word_underscore_2: build_skull
 bip_39_word_underscore_3: build_skull_wool
-bip_39_word_underscore_4: build_skull_wool_rail
-bip_39_word_underscore_5: build_skull_wool_rail_marble
-bip_39_word_underscore_6: build_skull_wool_rail_marble_medal
-bip_39_word_underscore_7: build_skull_wool_rail_marble_medal_month
-bip_39_word_underscore_8: build_skull_wool_rail_marble_medal_month_almost
-bip_39_word_underscore_9: build_skull_wool_rail_marble_medal_month_almost_since
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

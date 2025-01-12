@@ -1,68 +1,9 @@
-bip_39_word_dash_1: cupboard
-bip_39_word_dash_10: cupboard-current-mercy-stuff-blame-modify-risk-bar-onion-result
-bip_39_word_dash_11: cupboard-current-mercy-stuff-blame-modify-risk-bar-onion-result-fault
 bip_39_word_dash_12: cupboard-current-mercy-stuff-blame-modify-risk-bar-onion-result-fault-assume
 bip_39_word_dash_2: cupboard-current
 bip_39_word_dash_3: cupboard-current-mercy
-bip_39_word_dash_4: cupboard-current-mercy-stuff
-bip_39_word_dash_5: cupboard-current-mercy-stuff-blame
-bip_39_word_dash_6: cupboard-current-mercy-stuff-blame-modify
-bip_39_word_dash_7: cupboard-current-mercy-stuff-blame-modify-risk
-bip_39_word_dash_8: cupboard-current-mercy-stuff-blame-modify-risk-bar
-bip_39_word_dash_9: cupboard-current-mercy-stuff-blame-modify-risk-bar-onion
-bip_39_word_new_br_1: cupboard
-bip_39_word_new_br_10: cupboard<br>current<br>mercy<br>stuff<br>blame<br>modify<br>risk<br>bar<br>onion<br>result
-bip_39_word_new_br_11: cupboard<br>current<br>mercy<br>stuff<br>blame<br>modify<br>risk<br>bar<br>onion<br>result<br>fault
 bip_39_word_new_br_12: cupboard<br>current<br>mercy<br>stuff<br>blame<br>modify<br>risk<br>bar<br>onion<br>result<br>fault<br>assume
 bip_39_word_new_br_2: cupboard<br>current
 bip_39_word_new_br_3: cupboard<br>current<br>mercy
-bip_39_word_new_br_4: cupboard<br>current<br>mercy<br>stuff
-bip_39_word_new_br_5: cupboard<br>current<br>mercy<br>stuff<br>blame
-bip_39_word_new_br_6: cupboard<br>current<br>mercy<br>stuff<br>blame<br>modify
-bip_39_word_new_br_7: cupboard<br>current<br>mercy<br>stuff<br>blame<br>modify<br>risk
-bip_39_word_new_br_8: cupboard<br>current<br>mercy<br>stuff<br>blame<br>modify<br>risk<br>bar
-bip_39_word_new_br_9: cupboard<br>current<br>mercy<br>stuff<br>blame<br>modify<br>risk<br>bar<br>onion
-bip_39_word_new_line_1: cupboard
-bip_39_word_new_line_10: 'cupboard
-
-  current
-
-  mercy
-
-  stuff
-
-  blame
-
-  modify
-
-  risk
-
-  bar
-
-  onion
-
-  result'
-bip_39_word_new_line_11: 'cupboard
-
-  current
-
-  mercy
-
-  stuff
-
-  blame
-
-  modify
-
-  risk
-
-  bar
-
-  onion
-
-  result
-
-  fault'
 bip_39_word_new_line_12: 'cupboard
 
   current
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'cupboard
   current
 
   mercy'
-bip_39_word_new_line_4: 'cupboard
-
-  current
-
-  mercy
-
-  stuff'
-bip_39_word_new_line_5: 'cupboard
-
-  current
-
-  mercy
-
-  stuff
-
-  blame'
-bip_39_word_new_line_6: 'cupboard
-
-  current
-
-  mercy
-
-  stuff
-
-  blame
-
-  modify'
-bip_39_word_new_line_7: 'cupboard
-
-  current
-
-  mercy
-
-  stuff
-
-  blame
-
-  modify
-
-  risk'
-bip_39_word_new_line_8: 'cupboard
-
-  current
-
-  mercy
-
-  stuff
-
-  blame
-
-  modify
-
-  risk
-
-  bar'
-bip_39_word_new_line_9: 'cupboard
-
-  current
-
-  mercy
-
-  stuff
-
-  blame
-
-  modify
-
-  risk
-
-  bar
-
-  onion'
-bip_39_word_no_space_1: cupboard
-bip_39_word_no_space_10: cupboardcurrentmercystuffblamemodifyriskbaronionresult
-bip_39_word_no_space_11: cupboardcurrentmercystuffblamemodifyriskbaronionresultfault
 bip_39_word_no_space_12: cupboardcurrentmercystuffblamemodifyriskbaronionresultfaultassume
 bip_39_word_no_space_2: cupboardcurrent
 bip_39_word_no_space_3: cupboardcurrentmercy
-bip_39_word_no_space_4: cupboardcurrentmercystuff
-bip_39_word_no_space_5: cupboardcurrentmercystuffblame
-bip_39_word_no_space_6: cupboardcurrentmercystuffblamemodify
-bip_39_word_no_space_7: cupboardcurrentmercystuffblamemodifyrisk
-bip_39_word_no_space_8: cupboardcurrentmercystuffblamemodifyriskbar
-bip_39_word_no_space_9: cupboardcurrentmercystuffblamemodifyriskbaronion
-bip_39_word_space_0:
-- cupboard
-- current
-- mercy
-- stuff
-- blame
-- modify
-- risk
-- bar
-- onion
-- result
-- fault
-- assume
-bip_39_word_space_1: cupboard
-bip_39_word_space_10: cupboard current mercy stuff blame modify risk bar onion result
-bip_39_word_space_11: cupboard current mercy stuff blame modify risk bar onion result
-  fault
 bip_39_word_space_12: cupboard current mercy stuff blame modify risk bar onion result
   fault assume
 bip_39_word_space_2: cupboard current
 bip_39_word_space_3: cupboard current mercy
-bip_39_word_space_4: cupboard current mercy stuff
-bip_39_word_space_5: cupboard current mercy stuff blame
-bip_39_word_space_6: cupboard current mercy stuff blame modify
-bip_39_word_space_7: cupboard current mercy stuff blame modify risk
-bip_39_word_space_8: cupboard current mercy stuff blame modify risk bar
-bip_39_word_space_9: cupboard current mercy stuff blame modify risk bar onion
-bip_39_word_underscore_1: cupboard
-bip_39_word_underscore_10: cupboard_current_mercy_stuff_blame_modify_risk_bar_onion_result
-bip_39_word_underscore_11: cupboard_current_mercy_stuff_blame_modify_risk_bar_onion_result_fault
 bip_39_word_underscore_12: cupboard_current_mercy_stuff_blame_modify_risk_bar_onion_result_fault_assume
 bip_39_word_underscore_2: cupboard_current
 bip_39_word_underscore_3: cupboard_current_mercy
-bip_39_word_underscore_4: cupboard_current_mercy_stuff
-bip_39_word_underscore_5: cupboard_current_mercy_stuff_blame
-bip_39_word_underscore_6: cupboard_current_mercy_stuff_blame_modify
-bip_39_word_underscore_7: cupboard_current_mercy_stuff_blame_modify_risk
-bip_39_word_underscore_8: cupboard_current_mercy_stuff_blame_modify_risk_bar
-bip_39_word_underscore_9: cupboard_current_mercy_stuff_blame_modify_risk_bar_onion
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

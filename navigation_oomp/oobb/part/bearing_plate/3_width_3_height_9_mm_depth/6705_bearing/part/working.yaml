@@ -1,69 +1,10 @@
 bearing: '6705'
-bip_39_word_dash_1: brick
-bip_39_word_dash_10: brick-orphan-phrase-draft-resemble-duty-measure-offer-setup-tank
-bip_39_word_dash_11: brick-orphan-phrase-draft-resemble-duty-measure-offer-setup-tank-harvest
 bip_39_word_dash_12: brick-orphan-phrase-draft-resemble-duty-measure-offer-setup-tank-harvest-adjust
 bip_39_word_dash_2: brick-orphan
 bip_39_word_dash_3: brick-orphan-phrase
-bip_39_word_dash_4: brick-orphan-phrase-draft
-bip_39_word_dash_5: brick-orphan-phrase-draft-resemble
-bip_39_word_dash_6: brick-orphan-phrase-draft-resemble-duty
-bip_39_word_dash_7: brick-orphan-phrase-draft-resemble-duty-measure
-bip_39_word_dash_8: brick-orphan-phrase-draft-resemble-duty-measure-offer
-bip_39_word_dash_9: brick-orphan-phrase-draft-resemble-duty-measure-offer-setup
-bip_39_word_new_br_1: brick
-bip_39_word_new_br_10: brick<br>orphan<br>phrase<br>draft<br>resemble<br>duty<br>measure<br>offer<br>setup<br>tank
-bip_39_word_new_br_11: brick<br>orphan<br>phrase<br>draft<br>resemble<br>duty<br>measure<br>offer<br>setup<br>tank<br>harvest
 bip_39_word_new_br_12: brick<br>orphan<br>phrase<br>draft<br>resemble<br>duty<br>measure<br>offer<br>setup<br>tank<br>harvest<br>adjust
 bip_39_word_new_br_2: brick<br>orphan
 bip_39_word_new_br_3: brick<br>orphan<br>phrase
-bip_39_word_new_br_4: brick<br>orphan<br>phrase<br>draft
-bip_39_word_new_br_5: brick<br>orphan<br>phrase<br>draft<br>resemble
-bip_39_word_new_br_6: brick<br>orphan<br>phrase<br>draft<br>resemble<br>duty
-bip_39_word_new_br_7: brick<br>orphan<br>phrase<br>draft<br>resemble<br>duty<br>measure
-bip_39_word_new_br_8: brick<br>orphan<br>phrase<br>draft<br>resemble<br>duty<br>measure<br>offer
-bip_39_word_new_br_9: brick<br>orphan<br>phrase<br>draft<br>resemble<br>duty<br>measure<br>offer<br>setup
-bip_39_word_new_line_1: brick
-bip_39_word_new_line_10: 'brick
-
-  orphan
-
-  phrase
-
-  draft
-
-  resemble
-
-  duty
-
-  measure
-
-  offer
-
-  setup
-
-  tank'
-bip_39_word_new_line_11: 'brick
-
-  orphan
-
-  phrase
-
-  draft
-
-  resemble
-
-  duty
-
-  measure
-
-  offer
-
-  setup
-
-  tank
-
-  harvest'
 bip_39_word_new_line_12: 'brick
 
   orphan
@@ -95,130 +36,16 @@ bip_39_word_new_line_3: 'brick
   orphan
 
   phrase'
-bip_39_word_new_line_4: 'brick
-
-  orphan
-
-  phrase
-
-  draft'
-bip_39_word_new_line_5: 'brick
-
-  orphan
-
-  phrase
-
-  draft
-
-  resemble'
-bip_39_word_new_line_6: 'brick
-
-  orphan
-
-  phrase
-
-  draft
-
-  resemble
-
-  duty'
-bip_39_word_new_line_7: 'brick
-
-  orphan
-
-  phrase
-
-  draft
-
-  resemble
-
-  duty
-
-  measure'
-bip_39_word_new_line_8: 'brick
-
-  orphan
-
-  phrase
-
-  draft
-
-  resemble
-
-  duty
-
-  measure
-
-  offer'
-bip_39_word_new_line_9: 'brick
-
-  orphan
-
-  phrase
-
-  draft
-
-  resemble
-
-  duty
-
-  measure
-
-  offer
-
-  setup'
-bip_39_word_no_space_1: brick
-bip_39_word_no_space_10: brickorphanphrasedraftresembledutymeasureoffersetuptank
-bip_39_word_no_space_11: brickorphanphrasedraftresembledutymeasureoffersetuptankharvest
 bip_39_word_no_space_12: brickorphanphrasedraftresembledutymeasureoffersetuptankharvestadjust
 bip_39_word_no_space_2: brickorphan
 bip_39_word_no_space_3: brickorphanphrase
-bip_39_word_no_space_4: brickorphanphrasedraft
-bip_39_word_no_space_5: brickorphanphrasedraftresemble
-bip_39_word_no_space_6: brickorphanphrasedraftresembleduty
-bip_39_word_no_space_7: brickorphanphrasedraftresembledutymeasure
-bip_39_word_no_space_8: brickorphanphrasedraftresembledutymeasureoffer
-bip_39_word_no_space_9: brickorphanphrasedraftresembledutymeasureoffersetup
-bip_39_word_space_0:
-- brick
-- orphan
-- phrase
-- draft
-- resemble
-- duty
-- measure
-- offer
-- setup
-- tank
-- harvest
-- adjust
-bip_39_word_space_1: brick
-bip_39_word_space_10: brick orphan phrase draft resemble duty measure offer setup
-  tank
-bip_39_word_space_11: brick orphan phrase draft resemble duty measure offer setup
-  tank harvest
 bip_39_word_space_12: brick orphan phrase draft resemble duty measure offer setup
   tank harvest adjust
 bip_39_word_space_2: brick orphan
 bip_39_word_space_3: brick orphan phrase
-bip_39_word_space_4: brick orphan phrase draft
-bip_39_word_space_5: brick orphan phrase draft resemble
-bip_39_word_space_6: brick orphan phrase draft resemble duty
-bip_39_word_space_7: brick orphan phrase draft resemble duty measure
-bip_39_word_space_8: brick orphan phrase draft resemble duty measure offer
-bip_39_word_space_9: brick orphan phrase draft resemble duty measure offer setup
-bip_39_word_underscore_1: brick
-bip_39_word_underscore_10: brick_orphan_phrase_draft_resemble_duty_measure_offer_setup_tank
-bip_39_word_underscore_11: brick_orphan_phrase_draft_resemble_duty_measure_offer_setup_tank_harvest
 bip_39_word_underscore_12: brick_orphan_phrase_draft_resemble_duty_measure_offer_setup_tank_harvest_adjust
 bip_39_word_underscore_2: brick_orphan
 bip_39_word_underscore_3: brick_orphan_phrase
-bip_39_word_underscore_4: brick_orphan_phrase_draft
-bip_39_word_underscore_5: brick_orphan_phrase_draft_resemble
-bip_39_word_underscore_6: brick_orphan_phrase_draft_resemble_duty
-bip_39_word_underscore_7: brick_orphan_phrase_draft_resemble_duty_measure
-bip_39_word_underscore_8: brick_orphan_phrase_draft_resemble_duty_measure_offer
-bip_39_word_underscore_9: brick_orphan_phrase_draft_resemble_duty_measure_offer_setup
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

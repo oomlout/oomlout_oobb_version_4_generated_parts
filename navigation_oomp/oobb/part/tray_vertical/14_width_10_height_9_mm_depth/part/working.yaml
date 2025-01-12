@@ -1,68 +1,9 @@
-bip_39_word_dash_1: joke
-bip_39_word_dash_10: joke-duck-mystery-cube-unhappy-left-bronze-desert-solid-lock
-bip_39_word_dash_11: joke-duck-mystery-cube-unhappy-left-bronze-desert-solid-lock-thing
 bip_39_word_dash_12: joke-duck-mystery-cube-unhappy-left-bronze-desert-solid-lock-thing-aisle
 bip_39_word_dash_2: joke-duck
 bip_39_word_dash_3: joke-duck-mystery
-bip_39_word_dash_4: joke-duck-mystery-cube
-bip_39_word_dash_5: joke-duck-mystery-cube-unhappy
-bip_39_word_dash_6: joke-duck-mystery-cube-unhappy-left
-bip_39_word_dash_7: joke-duck-mystery-cube-unhappy-left-bronze
-bip_39_word_dash_8: joke-duck-mystery-cube-unhappy-left-bronze-desert
-bip_39_word_dash_9: joke-duck-mystery-cube-unhappy-left-bronze-desert-solid
-bip_39_word_new_br_1: joke
-bip_39_word_new_br_10: joke<br>duck<br>mystery<br>cube<br>unhappy<br>left<br>bronze<br>desert<br>solid<br>lock
-bip_39_word_new_br_11: joke<br>duck<br>mystery<br>cube<br>unhappy<br>left<br>bronze<br>desert<br>solid<br>lock<br>thing
 bip_39_word_new_br_12: joke<br>duck<br>mystery<br>cube<br>unhappy<br>left<br>bronze<br>desert<br>solid<br>lock<br>thing<br>aisle
 bip_39_word_new_br_2: joke<br>duck
 bip_39_word_new_br_3: joke<br>duck<br>mystery
-bip_39_word_new_br_4: joke<br>duck<br>mystery<br>cube
-bip_39_word_new_br_5: joke<br>duck<br>mystery<br>cube<br>unhappy
-bip_39_word_new_br_6: joke<br>duck<br>mystery<br>cube<br>unhappy<br>left
-bip_39_word_new_br_7: joke<br>duck<br>mystery<br>cube<br>unhappy<br>left<br>bronze
-bip_39_word_new_br_8: joke<br>duck<br>mystery<br>cube<br>unhappy<br>left<br>bronze<br>desert
-bip_39_word_new_br_9: joke<br>duck<br>mystery<br>cube<br>unhappy<br>left<br>bronze<br>desert<br>solid
-bip_39_word_new_line_1: joke
-bip_39_word_new_line_10: 'joke
-
-  duck
-
-  mystery
-
-  cube
-
-  unhappy
-
-  left
-
-  bronze
-
-  desert
-
-  solid
-
-  lock'
-bip_39_word_new_line_11: 'joke
-
-  duck
-
-  mystery
-
-  cube
-
-  unhappy
-
-  left
-
-  bronze
-
-  desert
-
-  solid
-
-  lock
-
-  thing'
 bip_39_word_new_line_12: 'joke
 
   duck
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'joke
   duck
 
   mystery'
-bip_39_word_new_line_4: 'joke
-
-  duck
-
-  mystery
-
-  cube'
-bip_39_word_new_line_5: 'joke
-
-  duck
-
-  mystery
-
-  cube
-
-  unhappy'
-bip_39_word_new_line_6: 'joke
-
-  duck
-
-  mystery
-
-  cube
-
-  unhappy
-
-  left'
-bip_39_word_new_line_7: 'joke
-
-  duck
-
-  mystery
-
-  cube
-
-  unhappy
-
-  left
-
-  bronze'
-bip_39_word_new_line_8: 'joke
-
-  duck
-
-  mystery
-
-  cube
-
-  unhappy
-
-  left
-
-  bronze
-
-  desert'
-bip_39_word_new_line_9: 'joke
-
-  duck
-
-  mystery
-
-  cube
-
-  unhappy
-
-  left
-
-  bronze
-
-  desert
-
-  solid'
-bip_39_word_no_space_1: joke
-bip_39_word_no_space_10: jokeduckmysterycubeunhappyleftbronzedesertsolidlock
-bip_39_word_no_space_11: jokeduckmysterycubeunhappyleftbronzedesertsolidlockthing
 bip_39_word_no_space_12: jokeduckmysterycubeunhappyleftbronzedesertsolidlockthingaisle
 bip_39_word_no_space_2: jokeduck
 bip_39_word_no_space_3: jokeduckmystery
-bip_39_word_no_space_4: jokeduckmysterycube
-bip_39_word_no_space_5: jokeduckmysterycubeunhappy
-bip_39_word_no_space_6: jokeduckmysterycubeunhappyleft
-bip_39_word_no_space_7: jokeduckmysterycubeunhappyleftbronze
-bip_39_word_no_space_8: jokeduckmysterycubeunhappyleftbronzedesert
-bip_39_word_no_space_9: jokeduckmysterycubeunhappyleftbronzedesertsolid
-bip_39_word_space_0:
-- joke
-- duck
-- mystery
-- cube
-- unhappy
-- left
-- bronze
-- desert
-- solid
-- lock
-- thing
-- aisle
-bip_39_word_space_1: joke
-bip_39_word_space_10: joke duck mystery cube unhappy left bronze desert solid lock
-bip_39_word_space_11: joke duck mystery cube unhappy left bronze desert solid lock
-  thing
 bip_39_word_space_12: joke duck mystery cube unhappy left bronze desert solid lock
   thing aisle
 bip_39_word_space_2: joke duck
 bip_39_word_space_3: joke duck mystery
-bip_39_word_space_4: joke duck mystery cube
-bip_39_word_space_5: joke duck mystery cube unhappy
-bip_39_word_space_6: joke duck mystery cube unhappy left
-bip_39_word_space_7: joke duck mystery cube unhappy left bronze
-bip_39_word_space_8: joke duck mystery cube unhappy left bronze desert
-bip_39_word_space_9: joke duck mystery cube unhappy left bronze desert solid
-bip_39_word_underscore_1: joke
-bip_39_word_underscore_10: joke_duck_mystery_cube_unhappy_left_bronze_desert_solid_lock
-bip_39_word_underscore_11: joke_duck_mystery_cube_unhappy_left_bronze_desert_solid_lock_thing
 bip_39_word_underscore_12: joke_duck_mystery_cube_unhappy_left_bronze_desert_solid_lock_thing_aisle
 bip_39_word_underscore_2: joke_duck
 bip_39_word_underscore_3: joke_duck_mystery
-bip_39_word_underscore_4: joke_duck_mystery_cube
-bip_39_word_underscore_5: joke_duck_mystery_cube_unhappy
-bip_39_word_underscore_6: joke_duck_mystery_cube_unhappy_left
-bip_39_word_underscore_7: joke_duck_mystery_cube_unhappy_left_bronze
-bip_39_word_underscore_8: joke_duck_mystery_cube_unhappy_left_bronze_desert
-bip_39_word_underscore_9: joke_duck_mystery_cube_unhappy_left_bronze_desert_solid
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

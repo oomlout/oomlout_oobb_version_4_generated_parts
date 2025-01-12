@@ -1,68 +1,9 @@
-bip_39_word_dash_1: slice
-bip_39_word_dash_10: slice-trigger-chat-sample-soldier-prefer-sad-civil-control-code
-bip_39_word_dash_11: slice-trigger-chat-sample-soldier-prefer-sad-civil-control-code-option
 bip_39_word_dash_12: slice-trigger-chat-sample-soldier-prefer-sad-civil-control-code-option-attitude
 bip_39_word_dash_2: slice-trigger
 bip_39_word_dash_3: slice-trigger-chat
-bip_39_word_dash_4: slice-trigger-chat-sample
-bip_39_word_dash_5: slice-trigger-chat-sample-soldier
-bip_39_word_dash_6: slice-trigger-chat-sample-soldier-prefer
-bip_39_word_dash_7: slice-trigger-chat-sample-soldier-prefer-sad
-bip_39_word_dash_8: slice-trigger-chat-sample-soldier-prefer-sad-civil
-bip_39_word_dash_9: slice-trigger-chat-sample-soldier-prefer-sad-civil-control
-bip_39_word_new_br_1: slice
-bip_39_word_new_br_10: slice<br>trigger<br>chat<br>sample<br>soldier<br>prefer<br>sad<br>civil<br>control<br>code
-bip_39_word_new_br_11: slice<br>trigger<br>chat<br>sample<br>soldier<br>prefer<br>sad<br>civil<br>control<br>code<br>option
 bip_39_word_new_br_12: slice<br>trigger<br>chat<br>sample<br>soldier<br>prefer<br>sad<br>civil<br>control<br>code<br>option<br>attitude
 bip_39_word_new_br_2: slice<br>trigger
 bip_39_word_new_br_3: slice<br>trigger<br>chat
-bip_39_word_new_br_4: slice<br>trigger<br>chat<br>sample
-bip_39_word_new_br_5: slice<br>trigger<br>chat<br>sample<br>soldier
-bip_39_word_new_br_6: slice<br>trigger<br>chat<br>sample<br>soldier<br>prefer
-bip_39_word_new_br_7: slice<br>trigger<br>chat<br>sample<br>soldier<br>prefer<br>sad
-bip_39_word_new_br_8: slice<br>trigger<br>chat<br>sample<br>soldier<br>prefer<br>sad<br>civil
-bip_39_word_new_br_9: slice<br>trigger<br>chat<br>sample<br>soldier<br>prefer<br>sad<br>civil<br>control
-bip_39_word_new_line_1: slice
-bip_39_word_new_line_10: 'slice
-
-  trigger
-
-  chat
-
-  sample
-
-  soldier
-
-  prefer
-
-  sad
-
-  civil
-
-  control
-
-  code'
-bip_39_word_new_line_11: 'slice
-
-  trigger
-
-  chat
-
-  sample
-
-  soldier
-
-  prefer
-
-  sad
-
-  civil
-
-  control
-
-  code
-
-  option'
 bip_39_word_new_line_12: 'slice
 
   trigger
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'slice
   trigger
 
   chat'
-bip_39_word_new_line_4: 'slice
-
-  trigger
-
-  chat
-
-  sample'
-bip_39_word_new_line_5: 'slice
-
-  trigger
-
-  chat
-
-  sample
-
-  soldier'
-bip_39_word_new_line_6: 'slice
-
-  trigger
-
-  chat
-
-  sample
-
-  soldier
-
-  prefer'
-bip_39_word_new_line_7: 'slice
-
-  trigger
-
-  chat
-
-  sample
-
-  soldier
-
-  prefer
-
-  sad'
-bip_39_word_new_line_8: 'slice
-
-  trigger
-
-  chat
-
-  sample
-
-  soldier
-
-  prefer
-
-  sad
-
-  civil'
-bip_39_word_new_line_9: 'slice
-
-  trigger
-
-  chat
-
-  sample
-
-  soldier
-
-  prefer
-
-  sad
-
-  civil
-
-  control'
-bip_39_word_no_space_1: slice
-bip_39_word_no_space_10: slicetriggerchatsamplesoldierprefersadcivilcontrolcode
-bip_39_word_no_space_11: slicetriggerchatsamplesoldierprefersadcivilcontrolcodeoption
 bip_39_word_no_space_12: slicetriggerchatsamplesoldierprefersadcivilcontrolcodeoptionattitude
 bip_39_word_no_space_2: slicetrigger
 bip_39_word_no_space_3: slicetriggerchat
-bip_39_word_no_space_4: slicetriggerchatsample
-bip_39_word_no_space_5: slicetriggerchatsamplesoldier
-bip_39_word_no_space_6: slicetriggerchatsamplesoldierprefer
-bip_39_word_no_space_7: slicetriggerchatsamplesoldierprefersad
-bip_39_word_no_space_8: slicetriggerchatsamplesoldierprefersadcivil
-bip_39_word_no_space_9: slicetriggerchatsamplesoldierprefersadcivilcontrol
-bip_39_word_space_0:
-- slice
-- trigger
-- chat
-- sample
-- soldier
-- prefer
-- sad
-- civil
-- control
-- code
-- option
-- attitude
-bip_39_word_space_1: slice
-bip_39_word_space_10: slice trigger chat sample soldier prefer sad civil control code
-bip_39_word_space_11: slice trigger chat sample soldier prefer sad civil control code
-  option
 bip_39_word_space_12: slice trigger chat sample soldier prefer sad civil control code
   option attitude
 bip_39_word_space_2: slice trigger
 bip_39_word_space_3: slice trigger chat
-bip_39_word_space_4: slice trigger chat sample
-bip_39_word_space_5: slice trigger chat sample soldier
-bip_39_word_space_6: slice trigger chat sample soldier prefer
-bip_39_word_space_7: slice trigger chat sample soldier prefer sad
-bip_39_word_space_8: slice trigger chat sample soldier prefer sad civil
-bip_39_word_space_9: slice trigger chat sample soldier prefer sad civil control
-bip_39_word_underscore_1: slice
-bip_39_word_underscore_10: slice_trigger_chat_sample_soldier_prefer_sad_civil_control_code
-bip_39_word_underscore_11: slice_trigger_chat_sample_soldier_prefer_sad_civil_control_code_option
 bip_39_word_underscore_12: slice_trigger_chat_sample_soldier_prefer_sad_civil_control_code_option_attitude
 bip_39_word_underscore_2: slice_trigger
 bip_39_word_underscore_3: slice_trigger_chat
-bip_39_word_underscore_4: slice_trigger_chat_sample
-bip_39_word_underscore_5: slice_trigger_chat_sample_soldier
-bip_39_word_underscore_6: slice_trigger_chat_sample_soldier_prefer
-bip_39_word_underscore_7: slice_trigger_chat_sample_soldier_prefer_sad
-bip_39_word_underscore_8: slice_trigger_chat_sample_soldier_prefer_sad_civil
-bip_39_word_underscore_9: slice_trigger_chat_sample_soldier_prefer_sad_civil_control
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

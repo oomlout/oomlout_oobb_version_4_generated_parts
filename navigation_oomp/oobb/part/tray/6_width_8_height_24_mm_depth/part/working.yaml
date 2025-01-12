@@ -1,68 +1,9 @@
-bip_39_word_dash_1: onion
-bip_39_word_dash_10: onion-drip-ocean-youth-soft-chef-cruise-pitch-useful-stick
-bip_39_word_dash_11: onion-drip-ocean-youth-soft-chef-cruise-pitch-useful-stick-animal
 bip_39_word_dash_12: onion-drip-ocean-youth-soft-chef-cruise-pitch-useful-stick-animal-avocado
 bip_39_word_dash_2: onion-drip
 bip_39_word_dash_3: onion-drip-ocean
-bip_39_word_dash_4: onion-drip-ocean-youth
-bip_39_word_dash_5: onion-drip-ocean-youth-soft
-bip_39_word_dash_6: onion-drip-ocean-youth-soft-chef
-bip_39_word_dash_7: onion-drip-ocean-youth-soft-chef-cruise
-bip_39_word_dash_8: onion-drip-ocean-youth-soft-chef-cruise-pitch
-bip_39_word_dash_9: onion-drip-ocean-youth-soft-chef-cruise-pitch-useful
-bip_39_word_new_br_1: onion
-bip_39_word_new_br_10: onion<br>drip<br>ocean<br>youth<br>soft<br>chef<br>cruise<br>pitch<br>useful<br>stick
-bip_39_word_new_br_11: onion<br>drip<br>ocean<br>youth<br>soft<br>chef<br>cruise<br>pitch<br>useful<br>stick<br>animal
 bip_39_word_new_br_12: onion<br>drip<br>ocean<br>youth<br>soft<br>chef<br>cruise<br>pitch<br>useful<br>stick<br>animal<br>avocado
 bip_39_word_new_br_2: onion<br>drip
 bip_39_word_new_br_3: onion<br>drip<br>ocean
-bip_39_word_new_br_4: onion<br>drip<br>ocean<br>youth
-bip_39_word_new_br_5: onion<br>drip<br>ocean<br>youth<br>soft
-bip_39_word_new_br_6: onion<br>drip<br>ocean<br>youth<br>soft<br>chef
-bip_39_word_new_br_7: onion<br>drip<br>ocean<br>youth<br>soft<br>chef<br>cruise
-bip_39_word_new_br_8: onion<br>drip<br>ocean<br>youth<br>soft<br>chef<br>cruise<br>pitch
-bip_39_word_new_br_9: onion<br>drip<br>ocean<br>youth<br>soft<br>chef<br>cruise<br>pitch<br>useful
-bip_39_word_new_line_1: onion
-bip_39_word_new_line_10: 'onion
-
-  drip
-
-  ocean
-
-  youth
-
-  soft
-
-  chef
-
-  cruise
-
-  pitch
-
-  useful
-
-  stick'
-bip_39_word_new_line_11: 'onion
-
-  drip
-
-  ocean
-
-  youth
-
-  soft
-
-  chef
-
-  cruise
-
-  pitch
-
-  useful
-
-  stick
-
-  animal'
 bip_39_word_new_line_12: 'onion
 
   drip
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'onion
   drip
 
   ocean'
-bip_39_word_new_line_4: 'onion
-
-  drip
-
-  ocean
-
-  youth'
-bip_39_word_new_line_5: 'onion
-
-  drip
-
-  ocean
-
-  youth
-
-  soft'
-bip_39_word_new_line_6: 'onion
-
-  drip
-
-  ocean
-
-  youth
-
-  soft
-
-  chef'
-bip_39_word_new_line_7: 'onion
-
-  drip
-
-  ocean
-
-  youth
-
-  soft
-
-  chef
-
-  cruise'
-bip_39_word_new_line_8: 'onion
-
-  drip
-
-  ocean
-
-  youth
-
-  soft
-
-  chef
-
-  cruise
-
-  pitch'
-bip_39_word_new_line_9: 'onion
-
-  drip
-
-  ocean
-
-  youth
-
-  soft
-
-  chef
-
-  cruise
-
-  pitch
-
-  useful'
-bip_39_word_no_space_1: onion
-bip_39_word_no_space_10: oniondripoceanyouthsoftchefcruisepitchusefulstick
-bip_39_word_no_space_11: oniondripoceanyouthsoftchefcruisepitchusefulstickanimal
 bip_39_word_no_space_12: oniondripoceanyouthsoftchefcruisepitchusefulstickanimalavocado
 bip_39_word_no_space_2: oniondrip
 bip_39_word_no_space_3: oniondripocean
-bip_39_word_no_space_4: oniondripoceanyouth
-bip_39_word_no_space_5: oniondripoceanyouthsoft
-bip_39_word_no_space_6: oniondripoceanyouthsoftchef
-bip_39_word_no_space_7: oniondripoceanyouthsoftchefcruise
-bip_39_word_no_space_8: oniondripoceanyouthsoftchefcruisepitch
-bip_39_word_no_space_9: oniondripoceanyouthsoftchefcruisepitchuseful
-bip_39_word_space_0:
-- onion
-- drip
-- ocean
-- youth
-- soft
-- chef
-- cruise
-- pitch
-- useful
-- stick
-- animal
-- avocado
-bip_39_word_space_1: onion
-bip_39_word_space_10: onion drip ocean youth soft chef cruise pitch useful stick
-bip_39_word_space_11: onion drip ocean youth soft chef cruise pitch useful stick animal
 bip_39_word_space_12: onion drip ocean youth soft chef cruise pitch useful stick animal
   avocado
 bip_39_word_space_2: onion drip
 bip_39_word_space_3: onion drip ocean
-bip_39_word_space_4: onion drip ocean youth
-bip_39_word_space_5: onion drip ocean youth soft
-bip_39_word_space_6: onion drip ocean youth soft chef
-bip_39_word_space_7: onion drip ocean youth soft chef cruise
-bip_39_word_space_8: onion drip ocean youth soft chef cruise pitch
-bip_39_word_space_9: onion drip ocean youth soft chef cruise pitch useful
-bip_39_word_underscore_1: onion
-bip_39_word_underscore_10: onion_drip_ocean_youth_soft_chef_cruise_pitch_useful_stick
-bip_39_word_underscore_11: onion_drip_ocean_youth_soft_chef_cruise_pitch_useful_stick_animal
 bip_39_word_underscore_12: onion_drip_ocean_youth_soft_chef_cruise_pitch_useful_stick_animal_avocado
 bip_39_word_underscore_2: onion_drip
 bip_39_word_underscore_3: onion_drip_ocean
-bip_39_word_underscore_4: onion_drip_ocean_youth
-bip_39_word_underscore_5: onion_drip_ocean_youth_soft
-bip_39_word_underscore_6: onion_drip_ocean_youth_soft_chef
-bip_39_word_underscore_7: onion_drip_ocean_youth_soft_chef_cruise
-bip_39_word_underscore_8: onion_drip_ocean_youth_soft_chef_cruise_pitch
-bip_39_word_underscore_9: onion_drip_ocean_youth_soft_chef_cruise_pitch_useful
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

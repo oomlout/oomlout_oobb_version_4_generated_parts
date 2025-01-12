@@ -1,68 +1,9 @@
-bip_39_word_dash_1: winner
-bip_39_word_dash_10: winner-vessel-wait-pause-box-swim-snow-fetch-glimpse-deputy
-bip_39_word_dash_11: winner-vessel-wait-pause-box-swim-snow-fetch-glimpse-deputy-silly
 bip_39_word_dash_12: winner-vessel-wait-pause-box-swim-snow-fetch-glimpse-deputy-silly-around
 bip_39_word_dash_2: winner-vessel
 bip_39_word_dash_3: winner-vessel-wait
-bip_39_word_dash_4: winner-vessel-wait-pause
-bip_39_word_dash_5: winner-vessel-wait-pause-box
-bip_39_word_dash_6: winner-vessel-wait-pause-box-swim
-bip_39_word_dash_7: winner-vessel-wait-pause-box-swim-snow
-bip_39_word_dash_8: winner-vessel-wait-pause-box-swim-snow-fetch
-bip_39_word_dash_9: winner-vessel-wait-pause-box-swim-snow-fetch-glimpse
-bip_39_word_new_br_1: winner
-bip_39_word_new_br_10: winner<br>vessel<br>wait<br>pause<br>box<br>swim<br>snow<br>fetch<br>glimpse<br>deputy
-bip_39_word_new_br_11: winner<br>vessel<br>wait<br>pause<br>box<br>swim<br>snow<br>fetch<br>glimpse<br>deputy<br>silly
 bip_39_word_new_br_12: winner<br>vessel<br>wait<br>pause<br>box<br>swim<br>snow<br>fetch<br>glimpse<br>deputy<br>silly<br>around
 bip_39_word_new_br_2: winner<br>vessel
 bip_39_word_new_br_3: winner<br>vessel<br>wait
-bip_39_word_new_br_4: winner<br>vessel<br>wait<br>pause
-bip_39_word_new_br_5: winner<br>vessel<br>wait<br>pause<br>box
-bip_39_word_new_br_6: winner<br>vessel<br>wait<br>pause<br>box<br>swim
-bip_39_word_new_br_7: winner<br>vessel<br>wait<br>pause<br>box<br>swim<br>snow
-bip_39_word_new_br_8: winner<br>vessel<br>wait<br>pause<br>box<br>swim<br>snow<br>fetch
-bip_39_word_new_br_9: winner<br>vessel<br>wait<br>pause<br>box<br>swim<br>snow<br>fetch<br>glimpse
-bip_39_word_new_line_1: winner
-bip_39_word_new_line_10: 'winner
-
-  vessel
-
-  wait
-
-  pause
-
-  box
-
-  swim
-
-  snow
-
-  fetch
-
-  glimpse
-
-  deputy'
-bip_39_word_new_line_11: 'winner
-
-  vessel
-
-  wait
-
-  pause
-
-  box
-
-  swim
-
-  snow
-
-  fetch
-
-  glimpse
-
-  deputy
-
-  silly'
 bip_39_word_new_line_12: 'winner
 
   vessel
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'winner
   vessel
 
   wait'
-bip_39_word_new_line_4: 'winner
-
-  vessel
-
-  wait
-
-  pause'
-bip_39_word_new_line_5: 'winner
-
-  vessel
-
-  wait
-
-  pause
-
-  box'
-bip_39_word_new_line_6: 'winner
-
-  vessel
-
-  wait
-
-  pause
-
-  box
-
-  swim'
-bip_39_word_new_line_7: 'winner
-
-  vessel
-
-  wait
-
-  pause
-
-  box
-
-  swim
-
-  snow'
-bip_39_word_new_line_8: 'winner
-
-  vessel
-
-  wait
-
-  pause
-
-  box
-
-  swim
-
-  snow
-
-  fetch'
-bip_39_word_new_line_9: 'winner
-
-  vessel
-
-  wait
-
-  pause
-
-  box
-
-  swim
-
-  snow
-
-  fetch
-
-  glimpse'
-bip_39_word_no_space_1: winner
-bip_39_word_no_space_10: winnervesselwaitpauseboxswimsnowfetchglimpsedeputy
-bip_39_word_no_space_11: winnervesselwaitpauseboxswimsnowfetchglimpsedeputysilly
 bip_39_word_no_space_12: winnervesselwaitpauseboxswimsnowfetchglimpsedeputysillyaround
 bip_39_word_no_space_2: winnervessel
 bip_39_word_no_space_3: winnervesselwait
-bip_39_word_no_space_4: winnervesselwaitpause
-bip_39_word_no_space_5: winnervesselwaitpausebox
-bip_39_word_no_space_6: winnervesselwaitpauseboxswim
-bip_39_word_no_space_7: winnervesselwaitpauseboxswimsnow
-bip_39_word_no_space_8: winnervesselwaitpauseboxswimsnowfetch
-bip_39_word_no_space_9: winnervesselwaitpauseboxswimsnowfetchglimpse
-bip_39_word_space_0:
-- winner
-- vessel
-- wait
-- pause
-- box
-- swim
-- snow
-- fetch
-- glimpse
-- deputy
-- silly
-- around
-bip_39_word_space_1: winner
-bip_39_word_space_10: winner vessel wait pause box swim snow fetch glimpse deputy
-bip_39_word_space_11: winner vessel wait pause box swim snow fetch glimpse deputy
-  silly
 bip_39_word_space_12: winner vessel wait pause box swim snow fetch glimpse deputy
   silly around
 bip_39_word_space_2: winner vessel
 bip_39_word_space_3: winner vessel wait
-bip_39_word_space_4: winner vessel wait pause
-bip_39_word_space_5: winner vessel wait pause box
-bip_39_word_space_6: winner vessel wait pause box swim
-bip_39_word_space_7: winner vessel wait pause box swim snow
-bip_39_word_space_8: winner vessel wait pause box swim snow fetch
-bip_39_word_space_9: winner vessel wait pause box swim snow fetch glimpse
-bip_39_word_underscore_1: winner
-bip_39_word_underscore_10: winner_vessel_wait_pause_box_swim_snow_fetch_glimpse_deputy
-bip_39_word_underscore_11: winner_vessel_wait_pause_box_swim_snow_fetch_glimpse_deputy_silly
 bip_39_word_underscore_12: winner_vessel_wait_pause_box_swim_snow_fetch_glimpse_deputy_silly_around
 bip_39_word_underscore_2: winner_vessel
 bip_39_word_underscore_3: winner_vessel_wait
-bip_39_word_underscore_4: winner_vessel_wait_pause
-bip_39_word_underscore_5: winner_vessel_wait_pause_box
-bip_39_word_underscore_6: winner_vessel_wait_pause_box_swim
-bip_39_word_underscore_7: winner_vessel_wait_pause_box_swim_snow
-bip_39_word_underscore_8: winner_vessel_wait_pause_box_swim_snow_fetch
-bip_39_word_underscore_9: winner_vessel_wait_pause_box_swim_snow_fetch_glimpse
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

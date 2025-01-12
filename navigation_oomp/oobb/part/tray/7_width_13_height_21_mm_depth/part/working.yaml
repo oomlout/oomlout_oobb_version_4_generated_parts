@@ -1,68 +1,9 @@
-bip_39_word_dash_1: turtle
-bip_39_word_dash_10: turtle-random-east-swarm-fury-wish-fog-planet-patrol-debate
-bip_39_word_dash_11: turtle-random-east-swarm-fury-wish-fog-planet-patrol-debate-holiday
 bip_39_word_dash_12: turtle-random-east-swarm-fury-wish-fog-planet-patrol-debate-holiday-add
 bip_39_word_dash_2: turtle-random
 bip_39_word_dash_3: turtle-random-east
-bip_39_word_dash_4: turtle-random-east-swarm
-bip_39_word_dash_5: turtle-random-east-swarm-fury
-bip_39_word_dash_6: turtle-random-east-swarm-fury-wish
-bip_39_word_dash_7: turtle-random-east-swarm-fury-wish-fog
-bip_39_word_dash_8: turtle-random-east-swarm-fury-wish-fog-planet
-bip_39_word_dash_9: turtle-random-east-swarm-fury-wish-fog-planet-patrol
-bip_39_word_new_br_1: turtle
-bip_39_word_new_br_10: turtle<br>random<br>east<br>swarm<br>fury<br>wish<br>fog<br>planet<br>patrol<br>debate
-bip_39_word_new_br_11: turtle<br>random<br>east<br>swarm<br>fury<br>wish<br>fog<br>planet<br>patrol<br>debate<br>holiday
 bip_39_word_new_br_12: turtle<br>random<br>east<br>swarm<br>fury<br>wish<br>fog<br>planet<br>patrol<br>debate<br>holiday<br>add
 bip_39_word_new_br_2: turtle<br>random
 bip_39_word_new_br_3: turtle<br>random<br>east
-bip_39_word_new_br_4: turtle<br>random<br>east<br>swarm
-bip_39_word_new_br_5: turtle<br>random<br>east<br>swarm<br>fury
-bip_39_word_new_br_6: turtle<br>random<br>east<br>swarm<br>fury<br>wish
-bip_39_word_new_br_7: turtle<br>random<br>east<br>swarm<br>fury<br>wish<br>fog
-bip_39_word_new_br_8: turtle<br>random<br>east<br>swarm<br>fury<br>wish<br>fog<br>planet
-bip_39_word_new_br_9: turtle<br>random<br>east<br>swarm<br>fury<br>wish<br>fog<br>planet<br>patrol
-bip_39_word_new_line_1: turtle
-bip_39_word_new_line_10: 'turtle
-
-  random
-
-  east
-
-  swarm
-
-  fury
-
-  wish
-
-  fog
-
-  planet
-
-  patrol
-
-  debate'
-bip_39_word_new_line_11: 'turtle
-
-  random
-
-  east
-
-  swarm
-
-  fury
-
-  wish
-
-  fog
-
-  planet
-
-  patrol
-
-  debate
-
-  holiday'
 bip_39_word_new_line_12: 'turtle
 
   random
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'turtle
   random
 
   east'
-bip_39_word_new_line_4: 'turtle
-
-  random
-
-  east
-
-  swarm'
-bip_39_word_new_line_5: 'turtle
-
-  random
-
-  east
-
-  swarm
-
-  fury'
-bip_39_word_new_line_6: 'turtle
-
-  random
-
-  east
-
-  swarm
-
-  fury
-
-  wish'
-bip_39_word_new_line_7: 'turtle
-
-  random
-
-  east
-
-  swarm
-
-  fury
-
-  wish
-
-  fog'
-bip_39_word_new_line_8: 'turtle
-
-  random
-
-  east
-
-  swarm
-
-  fury
-
-  wish
-
-  fog
-
-  planet'
-bip_39_word_new_line_9: 'turtle
-
-  random
-
-  east
-
-  swarm
-
-  fury
-
-  wish
-
-  fog
-
-  planet
-
-  patrol'
-bip_39_word_no_space_1: turtle
-bip_39_word_no_space_10: turtlerandomeastswarmfurywishfogplanetpatroldebate
-bip_39_word_no_space_11: turtlerandomeastswarmfurywishfogplanetpatroldebateholiday
 bip_39_word_no_space_12: turtlerandomeastswarmfurywishfogplanetpatroldebateholidayadd
 bip_39_word_no_space_2: turtlerandom
 bip_39_word_no_space_3: turtlerandomeast
-bip_39_word_no_space_4: turtlerandomeastswarm
-bip_39_word_no_space_5: turtlerandomeastswarmfury
-bip_39_word_no_space_6: turtlerandomeastswarmfurywish
-bip_39_word_no_space_7: turtlerandomeastswarmfurywishfog
-bip_39_word_no_space_8: turtlerandomeastswarmfurywishfogplanet
-bip_39_word_no_space_9: turtlerandomeastswarmfurywishfogplanetpatrol
-bip_39_word_space_0:
-- turtle
-- random
-- east
-- swarm
-- fury
-- wish
-- fog
-- planet
-- patrol
-- debate
-- holiday
-- add
-bip_39_word_space_1: turtle
-bip_39_word_space_10: turtle random east swarm fury wish fog planet patrol debate
-bip_39_word_space_11: turtle random east swarm fury wish fog planet patrol debate
-  holiday
 bip_39_word_space_12: turtle random east swarm fury wish fog planet patrol debate
   holiday add
 bip_39_word_space_2: turtle random
 bip_39_word_space_3: turtle random east
-bip_39_word_space_4: turtle random east swarm
-bip_39_word_space_5: turtle random east swarm fury
-bip_39_word_space_6: turtle random east swarm fury wish
-bip_39_word_space_7: turtle random east swarm fury wish fog
-bip_39_word_space_8: turtle random east swarm fury wish fog planet
-bip_39_word_space_9: turtle random east swarm fury wish fog planet patrol
-bip_39_word_underscore_1: turtle
-bip_39_word_underscore_10: turtle_random_east_swarm_fury_wish_fog_planet_patrol_debate
-bip_39_word_underscore_11: turtle_random_east_swarm_fury_wish_fog_planet_patrol_debate_holiday
 bip_39_word_underscore_12: turtle_random_east_swarm_fury_wish_fog_planet_patrol_debate_holiday_add
 bip_39_word_underscore_2: turtle_random
 bip_39_word_underscore_3: turtle_random_east
-bip_39_word_underscore_4: turtle_random_east_swarm
-bip_39_word_underscore_5: turtle_random_east_swarm_fury
-bip_39_word_underscore_6: turtle_random_east_swarm_fury_wish
-bip_39_word_underscore_7: turtle_random_east_swarm_fury_wish_fog
-bip_39_word_underscore_8: turtle_random_east_swarm_fury_wish_fog_planet
-bip_39_word_underscore_9: turtle_random_east_swarm_fury_wish_fog_planet_patrol
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

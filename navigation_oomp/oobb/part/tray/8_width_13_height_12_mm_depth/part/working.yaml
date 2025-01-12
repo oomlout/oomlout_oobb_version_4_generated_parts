@@ -1,68 +1,9 @@
-bip_39_word_dash_1: army
-bip_39_word_dash_10: army-egg-horse-garage-orphan-awkward-similar-carry-marine-soap
-bip_39_word_dash_11: army-egg-horse-garage-orphan-awkward-similar-carry-marine-soap-minimum
 bip_39_word_dash_12: army-egg-horse-garage-orphan-awkward-similar-carry-marine-soap-minimum-art
 bip_39_word_dash_2: army-egg
 bip_39_word_dash_3: army-egg-horse
-bip_39_word_dash_4: army-egg-horse-garage
-bip_39_word_dash_5: army-egg-horse-garage-orphan
-bip_39_word_dash_6: army-egg-horse-garage-orphan-awkward
-bip_39_word_dash_7: army-egg-horse-garage-orphan-awkward-similar
-bip_39_word_dash_8: army-egg-horse-garage-orphan-awkward-similar-carry
-bip_39_word_dash_9: army-egg-horse-garage-orphan-awkward-similar-carry-marine
-bip_39_word_new_br_1: army
-bip_39_word_new_br_10: army<br>egg<br>horse<br>garage<br>orphan<br>awkward<br>similar<br>carry<br>marine<br>soap
-bip_39_word_new_br_11: army<br>egg<br>horse<br>garage<br>orphan<br>awkward<br>similar<br>carry<br>marine<br>soap<br>minimum
 bip_39_word_new_br_12: army<br>egg<br>horse<br>garage<br>orphan<br>awkward<br>similar<br>carry<br>marine<br>soap<br>minimum<br>art
 bip_39_word_new_br_2: army<br>egg
 bip_39_word_new_br_3: army<br>egg<br>horse
-bip_39_word_new_br_4: army<br>egg<br>horse<br>garage
-bip_39_word_new_br_5: army<br>egg<br>horse<br>garage<br>orphan
-bip_39_word_new_br_6: army<br>egg<br>horse<br>garage<br>orphan<br>awkward
-bip_39_word_new_br_7: army<br>egg<br>horse<br>garage<br>orphan<br>awkward<br>similar
-bip_39_word_new_br_8: army<br>egg<br>horse<br>garage<br>orphan<br>awkward<br>similar<br>carry
-bip_39_word_new_br_9: army<br>egg<br>horse<br>garage<br>orphan<br>awkward<br>similar<br>carry<br>marine
-bip_39_word_new_line_1: army
-bip_39_word_new_line_10: 'army
-
-  egg
-
-  horse
-
-  garage
-
-  orphan
-
-  awkward
-
-  similar
-
-  carry
-
-  marine
-
-  soap'
-bip_39_word_new_line_11: 'army
-
-  egg
-
-  horse
-
-  garage
-
-  orphan
-
-  awkward
-
-  similar
-
-  carry
-
-  marine
-
-  soap
-
-  minimum'
 bip_39_word_new_line_12: 'army
 
   egg
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'army
   egg
 
   horse'
-bip_39_word_new_line_4: 'army
-
-  egg
-
-  horse
-
-  garage'
-bip_39_word_new_line_5: 'army
-
-  egg
-
-  horse
-
-  garage
-
-  orphan'
-bip_39_word_new_line_6: 'army
-
-  egg
-
-  horse
-
-  garage
-
-  orphan
-
-  awkward'
-bip_39_word_new_line_7: 'army
-
-  egg
-
-  horse
-
-  garage
-
-  orphan
-
-  awkward
-
-  similar'
-bip_39_word_new_line_8: 'army
-
-  egg
-
-  horse
-
-  garage
-
-  orphan
-
-  awkward
-
-  similar
-
-  carry'
-bip_39_word_new_line_9: 'army
-
-  egg
-
-  horse
-
-  garage
-
-  orphan
-
-  awkward
-
-  similar
-
-  carry
-
-  marine'
-bip_39_word_no_space_1: army
-bip_39_word_no_space_10: armyegghorsegarageorphanawkwardsimilarcarrymarinesoap
-bip_39_word_no_space_11: armyegghorsegarageorphanawkwardsimilarcarrymarinesoapminimum
 bip_39_word_no_space_12: armyegghorsegarageorphanawkwardsimilarcarrymarinesoapminimumart
 bip_39_word_no_space_2: armyegg
 bip_39_word_no_space_3: armyegghorse
-bip_39_word_no_space_4: armyegghorsegarage
-bip_39_word_no_space_5: armyegghorsegarageorphan
-bip_39_word_no_space_6: armyegghorsegarageorphanawkward
-bip_39_word_no_space_7: armyegghorsegarageorphanawkwardsimilar
-bip_39_word_no_space_8: armyegghorsegarageorphanawkwardsimilarcarry
-bip_39_word_no_space_9: armyegghorsegarageorphanawkwardsimilarcarrymarine
-bip_39_word_space_0:
-- army
-- egg
-- horse
-- garage
-- orphan
-- awkward
-- similar
-- carry
-- marine
-- soap
-- minimum
-- art
-bip_39_word_space_1: army
-bip_39_word_space_10: army egg horse garage orphan awkward similar carry marine soap
-bip_39_word_space_11: army egg horse garage orphan awkward similar carry marine soap
-  minimum
 bip_39_word_space_12: army egg horse garage orphan awkward similar carry marine soap
   minimum art
 bip_39_word_space_2: army egg
 bip_39_word_space_3: army egg horse
-bip_39_word_space_4: army egg horse garage
-bip_39_word_space_5: army egg horse garage orphan
-bip_39_word_space_6: army egg horse garage orphan awkward
-bip_39_word_space_7: army egg horse garage orphan awkward similar
-bip_39_word_space_8: army egg horse garage orphan awkward similar carry
-bip_39_word_space_9: army egg horse garage orphan awkward similar carry marine
-bip_39_word_underscore_1: army
-bip_39_word_underscore_10: army_egg_horse_garage_orphan_awkward_similar_carry_marine_soap
-bip_39_word_underscore_11: army_egg_horse_garage_orphan_awkward_similar_carry_marine_soap_minimum
 bip_39_word_underscore_12: army_egg_horse_garage_orphan_awkward_similar_carry_marine_soap_minimum_art
 bip_39_word_underscore_2: army_egg
 bip_39_word_underscore_3: army_egg_horse
-bip_39_word_underscore_4: army_egg_horse_garage
-bip_39_word_underscore_5: army_egg_horse_garage_orphan
-bip_39_word_underscore_6: army_egg_horse_garage_orphan_awkward
-bip_39_word_underscore_7: army_egg_horse_garage_orphan_awkward_similar
-bip_39_word_underscore_8: army_egg_horse_garage_orphan_awkward_similar_carry
-bip_39_word_underscore_9: army_egg_horse_garage_orphan_awkward_similar_carry_marine
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

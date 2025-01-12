@@ -1,68 +1,9 @@
-bip_39_word_dash_1: impulse
-bip_39_word_dash_10: impulse-sunny-sibling-limit-horse-subway-gloom-prize-bracket-ticket
-bip_39_word_dash_11: impulse-sunny-sibling-limit-horse-subway-gloom-prize-bracket-ticket-discover
 bip_39_word_dash_12: impulse-sunny-sibling-limit-horse-subway-gloom-prize-bracket-ticket-discover-absurd
 bip_39_word_dash_2: impulse-sunny
 bip_39_word_dash_3: impulse-sunny-sibling
-bip_39_word_dash_4: impulse-sunny-sibling-limit
-bip_39_word_dash_5: impulse-sunny-sibling-limit-horse
-bip_39_word_dash_6: impulse-sunny-sibling-limit-horse-subway
-bip_39_word_dash_7: impulse-sunny-sibling-limit-horse-subway-gloom
-bip_39_word_dash_8: impulse-sunny-sibling-limit-horse-subway-gloom-prize
-bip_39_word_dash_9: impulse-sunny-sibling-limit-horse-subway-gloom-prize-bracket
-bip_39_word_new_br_1: impulse
-bip_39_word_new_br_10: impulse<br>sunny<br>sibling<br>limit<br>horse<br>subway<br>gloom<br>prize<br>bracket<br>ticket
-bip_39_word_new_br_11: impulse<br>sunny<br>sibling<br>limit<br>horse<br>subway<br>gloom<br>prize<br>bracket<br>ticket<br>discover
 bip_39_word_new_br_12: impulse<br>sunny<br>sibling<br>limit<br>horse<br>subway<br>gloom<br>prize<br>bracket<br>ticket<br>discover<br>absurd
 bip_39_word_new_br_2: impulse<br>sunny
 bip_39_word_new_br_3: impulse<br>sunny<br>sibling
-bip_39_word_new_br_4: impulse<br>sunny<br>sibling<br>limit
-bip_39_word_new_br_5: impulse<br>sunny<br>sibling<br>limit<br>horse
-bip_39_word_new_br_6: impulse<br>sunny<br>sibling<br>limit<br>horse<br>subway
-bip_39_word_new_br_7: impulse<br>sunny<br>sibling<br>limit<br>horse<br>subway<br>gloom
-bip_39_word_new_br_8: impulse<br>sunny<br>sibling<br>limit<br>horse<br>subway<br>gloom<br>prize
-bip_39_word_new_br_9: impulse<br>sunny<br>sibling<br>limit<br>horse<br>subway<br>gloom<br>prize<br>bracket
-bip_39_word_new_line_1: impulse
-bip_39_word_new_line_10: 'impulse
-
-  sunny
-
-  sibling
-
-  limit
-
-  horse
-
-  subway
-
-  gloom
-
-  prize
-
-  bracket
-
-  ticket'
-bip_39_word_new_line_11: 'impulse
-
-  sunny
-
-  sibling
-
-  limit
-
-  horse
-
-  subway
-
-  gloom
-
-  prize
-
-  bracket
-
-  ticket
-
-  discover'
 bip_39_word_new_line_12: 'impulse
 
   sunny
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'impulse
   sunny
 
   sibling'
-bip_39_word_new_line_4: 'impulse
-
-  sunny
-
-  sibling
-
-  limit'
-bip_39_word_new_line_5: 'impulse
-
-  sunny
-
-  sibling
-
-  limit
-
-  horse'
-bip_39_word_new_line_6: 'impulse
-
-  sunny
-
-  sibling
-
-  limit
-
-  horse
-
-  subway'
-bip_39_word_new_line_7: 'impulse
-
-  sunny
-
-  sibling
-
-  limit
-
-  horse
-
-  subway
-
-  gloom'
-bip_39_word_new_line_8: 'impulse
-
-  sunny
-
-  sibling
-
-  limit
-
-  horse
-
-  subway
-
-  gloom
-
-  prize'
-bip_39_word_new_line_9: 'impulse
-
-  sunny
-
-  sibling
-
-  limit
-
-  horse
-
-  subway
-
-  gloom
-
-  prize
-
-  bracket'
-bip_39_word_no_space_1: impulse
-bip_39_word_no_space_10: impulsesunnysiblinglimithorsesubwaygloomprizebracketticket
-bip_39_word_no_space_11: impulsesunnysiblinglimithorsesubwaygloomprizebracketticketdiscover
 bip_39_word_no_space_12: impulsesunnysiblinglimithorsesubwaygloomprizebracketticketdiscoverabsurd
 bip_39_word_no_space_2: impulsesunny
 bip_39_word_no_space_3: impulsesunnysibling
-bip_39_word_no_space_4: impulsesunnysiblinglimit
-bip_39_word_no_space_5: impulsesunnysiblinglimithorse
-bip_39_word_no_space_6: impulsesunnysiblinglimithorsesubway
-bip_39_word_no_space_7: impulsesunnysiblinglimithorsesubwaygloom
-bip_39_word_no_space_8: impulsesunnysiblinglimithorsesubwaygloomprize
-bip_39_word_no_space_9: impulsesunnysiblinglimithorsesubwaygloomprizebracket
-bip_39_word_space_0:
-- impulse
-- sunny
-- sibling
-- limit
-- horse
-- subway
-- gloom
-- prize
-- bracket
-- ticket
-- discover
-- absurd
-bip_39_word_space_1: impulse
-bip_39_word_space_10: impulse sunny sibling limit horse subway gloom prize bracket
-  ticket
-bip_39_word_space_11: impulse sunny sibling limit horse subway gloom prize bracket
-  ticket discover
 bip_39_word_space_12: impulse sunny sibling limit horse subway gloom prize bracket
   ticket discover absurd
 bip_39_word_space_2: impulse sunny
 bip_39_word_space_3: impulse sunny sibling
-bip_39_word_space_4: impulse sunny sibling limit
-bip_39_word_space_5: impulse sunny sibling limit horse
-bip_39_word_space_6: impulse sunny sibling limit horse subway
-bip_39_word_space_7: impulse sunny sibling limit horse subway gloom
-bip_39_word_space_8: impulse sunny sibling limit horse subway gloom prize
-bip_39_word_space_9: impulse sunny sibling limit horse subway gloom prize bracket
-bip_39_word_underscore_1: impulse
-bip_39_word_underscore_10: impulse_sunny_sibling_limit_horse_subway_gloom_prize_bracket_ticket
-bip_39_word_underscore_11: impulse_sunny_sibling_limit_horse_subway_gloom_prize_bracket_ticket_discover
 bip_39_word_underscore_12: impulse_sunny_sibling_limit_horse_subway_gloom_prize_bracket_ticket_discover_absurd
 bip_39_word_underscore_2: impulse_sunny
 bip_39_word_underscore_3: impulse_sunny_sibling
-bip_39_word_underscore_4: impulse_sunny_sibling_limit
-bip_39_word_underscore_5: impulse_sunny_sibling_limit_horse
-bip_39_word_underscore_6: impulse_sunny_sibling_limit_horse_subway
-bip_39_word_underscore_7: impulse_sunny_sibling_limit_horse_subway_gloom
-bip_39_word_underscore_8: impulse_sunny_sibling_limit_horse_subway_gloom_prize
-bip_39_word_underscore_9: impulse_sunny_sibling_limit_horse_subway_gloom_prize_bracket
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

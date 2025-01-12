@@ -1,68 +1,9 @@
-bip_39_word_dash_1: brick
-bip_39_word_dash_10: brick-actress-north-spice-earth-claw-lamp-squirrel-vote-pony
-bip_39_word_dash_11: brick-actress-north-spice-earth-claw-lamp-squirrel-vote-pony-captain
 bip_39_word_dash_12: brick-actress-north-spice-earth-claw-lamp-squirrel-vote-pony-captain-ankle
 bip_39_word_dash_2: brick-actress
 bip_39_word_dash_3: brick-actress-north
-bip_39_word_dash_4: brick-actress-north-spice
-bip_39_word_dash_5: brick-actress-north-spice-earth
-bip_39_word_dash_6: brick-actress-north-spice-earth-claw
-bip_39_word_dash_7: brick-actress-north-spice-earth-claw-lamp
-bip_39_word_dash_8: brick-actress-north-spice-earth-claw-lamp-squirrel
-bip_39_word_dash_9: brick-actress-north-spice-earth-claw-lamp-squirrel-vote
-bip_39_word_new_br_1: brick
-bip_39_word_new_br_10: brick<br>actress<br>north<br>spice<br>earth<br>claw<br>lamp<br>squirrel<br>vote<br>pony
-bip_39_word_new_br_11: brick<br>actress<br>north<br>spice<br>earth<br>claw<br>lamp<br>squirrel<br>vote<br>pony<br>captain
 bip_39_word_new_br_12: brick<br>actress<br>north<br>spice<br>earth<br>claw<br>lamp<br>squirrel<br>vote<br>pony<br>captain<br>ankle
 bip_39_word_new_br_2: brick<br>actress
 bip_39_word_new_br_3: brick<br>actress<br>north
-bip_39_word_new_br_4: brick<br>actress<br>north<br>spice
-bip_39_word_new_br_5: brick<br>actress<br>north<br>spice<br>earth
-bip_39_word_new_br_6: brick<br>actress<br>north<br>spice<br>earth<br>claw
-bip_39_word_new_br_7: brick<br>actress<br>north<br>spice<br>earth<br>claw<br>lamp
-bip_39_word_new_br_8: brick<br>actress<br>north<br>spice<br>earth<br>claw<br>lamp<br>squirrel
-bip_39_word_new_br_9: brick<br>actress<br>north<br>spice<br>earth<br>claw<br>lamp<br>squirrel<br>vote
-bip_39_word_new_line_1: brick
-bip_39_word_new_line_10: 'brick
-
-  actress
-
-  north
-
-  spice
-
-  earth
-
-  claw
-
-  lamp
-
-  squirrel
-
-  vote
-
-  pony'
-bip_39_word_new_line_11: 'brick
-
-  actress
-
-  north
-
-  spice
-
-  earth
-
-  claw
-
-  lamp
-
-  squirrel
-
-  vote
-
-  pony
-
-  captain'
 bip_39_word_new_line_12: 'brick
 
   actress
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'brick
   actress
 
   north'
-bip_39_word_new_line_4: 'brick
-
-  actress
-
-  north
-
-  spice'
-bip_39_word_new_line_5: 'brick
-
-  actress
-
-  north
-
-  spice
-
-  earth'
-bip_39_word_new_line_6: 'brick
-
-  actress
-
-  north
-
-  spice
-
-  earth
-
-  claw'
-bip_39_word_new_line_7: 'brick
-
-  actress
-
-  north
-
-  spice
-
-  earth
-
-  claw
-
-  lamp'
-bip_39_word_new_line_8: 'brick
-
-  actress
-
-  north
-
-  spice
-
-  earth
-
-  claw
-
-  lamp
-
-  squirrel'
-bip_39_word_new_line_9: 'brick
-
-  actress
-
-  north
-
-  spice
-
-  earth
-
-  claw
-
-  lamp
-
-  squirrel
-
-  vote'
-bip_39_word_no_space_1: brick
-bip_39_word_no_space_10: brickactressnorthspiceearthclawlampsquirrelvotepony
-bip_39_word_no_space_11: brickactressnorthspiceearthclawlampsquirrelvoteponycaptain
 bip_39_word_no_space_12: brickactressnorthspiceearthclawlampsquirrelvoteponycaptainankle
 bip_39_word_no_space_2: brickactress
 bip_39_word_no_space_3: brickactressnorth
-bip_39_word_no_space_4: brickactressnorthspice
-bip_39_word_no_space_5: brickactressnorthspiceearth
-bip_39_word_no_space_6: brickactressnorthspiceearthclaw
-bip_39_word_no_space_7: brickactressnorthspiceearthclawlamp
-bip_39_word_no_space_8: brickactressnorthspiceearthclawlampsquirrel
-bip_39_word_no_space_9: brickactressnorthspiceearthclawlampsquirrelvote
-bip_39_word_space_0:
-- brick
-- actress
-- north
-- spice
-- earth
-- claw
-- lamp
-- squirrel
-- vote
-- pony
-- captain
-- ankle
-bip_39_word_space_1: brick
-bip_39_word_space_10: brick actress north spice earth claw lamp squirrel vote pony
-bip_39_word_space_11: brick actress north spice earth claw lamp squirrel vote pony
-  captain
 bip_39_word_space_12: brick actress north spice earth claw lamp squirrel vote pony
   captain ankle
 bip_39_word_space_2: brick actress
 bip_39_word_space_3: brick actress north
-bip_39_word_space_4: brick actress north spice
-bip_39_word_space_5: brick actress north spice earth
-bip_39_word_space_6: brick actress north spice earth claw
-bip_39_word_space_7: brick actress north spice earth claw lamp
-bip_39_word_space_8: brick actress north spice earth claw lamp squirrel
-bip_39_word_space_9: brick actress north spice earth claw lamp squirrel vote
-bip_39_word_underscore_1: brick
-bip_39_word_underscore_10: brick_actress_north_spice_earth_claw_lamp_squirrel_vote_pony
-bip_39_word_underscore_11: brick_actress_north_spice_earth_claw_lamp_squirrel_vote_pony_captain
 bip_39_word_underscore_12: brick_actress_north_spice_earth_claw_lamp_squirrel_vote_pony_captain_ankle
 bip_39_word_underscore_2: brick_actress
 bip_39_word_underscore_3: brick_actress_north
-bip_39_word_underscore_4: brick_actress_north_spice
-bip_39_word_underscore_5: brick_actress_north_spice_earth
-bip_39_word_underscore_6: brick_actress_north_spice_earth_claw
-bip_39_word_underscore_7: brick_actress_north_spice_earth_claw_lamp
-bip_39_word_underscore_8: brick_actress_north_spice_earth_claw_lamp_squirrel
-bip_39_word_underscore_9: brick_actress_north_spice_earth_claw_lamp_squirrel_vote
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

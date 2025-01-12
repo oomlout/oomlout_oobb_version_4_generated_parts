@@ -1,68 +1,9 @@
-bip_39_word_dash_1: series
-bip_39_word_dash_10: series-atom-student-ring-raccoon-trial-plunge-strike-story-hazard
-bip_39_word_dash_11: series-atom-student-ring-raccoon-trial-plunge-strike-story-hazard-hawk
 bip_39_word_dash_12: series-atom-student-ring-raccoon-trial-plunge-strike-story-hazard-hawk-art
 bip_39_word_dash_2: series-atom
 bip_39_word_dash_3: series-atom-student
-bip_39_word_dash_4: series-atom-student-ring
-bip_39_word_dash_5: series-atom-student-ring-raccoon
-bip_39_word_dash_6: series-atom-student-ring-raccoon-trial
-bip_39_word_dash_7: series-atom-student-ring-raccoon-trial-plunge
-bip_39_word_dash_8: series-atom-student-ring-raccoon-trial-plunge-strike
-bip_39_word_dash_9: series-atom-student-ring-raccoon-trial-plunge-strike-story
-bip_39_word_new_br_1: series
-bip_39_word_new_br_10: series<br>atom<br>student<br>ring<br>raccoon<br>trial<br>plunge<br>strike<br>story<br>hazard
-bip_39_word_new_br_11: series<br>atom<br>student<br>ring<br>raccoon<br>trial<br>plunge<br>strike<br>story<br>hazard<br>hawk
 bip_39_word_new_br_12: series<br>atom<br>student<br>ring<br>raccoon<br>trial<br>plunge<br>strike<br>story<br>hazard<br>hawk<br>art
 bip_39_word_new_br_2: series<br>atom
 bip_39_word_new_br_3: series<br>atom<br>student
-bip_39_word_new_br_4: series<br>atom<br>student<br>ring
-bip_39_word_new_br_5: series<br>atom<br>student<br>ring<br>raccoon
-bip_39_word_new_br_6: series<br>atom<br>student<br>ring<br>raccoon<br>trial
-bip_39_word_new_br_7: series<br>atom<br>student<br>ring<br>raccoon<br>trial<br>plunge
-bip_39_word_new_br_8: series<br>atom<br>student<br>ring<br>raccoon<br>trial<br>plunge<br>strike
-bip_39_word_new_br_9: series<br>atom<br>student<br>ring<br>raccoon<br>trial<br>plunge<br>strike<br>story
-bip_39_word_new_line_1: series
-bip_39_word_new_line_10: 'series
-
-  atom
-
-  student
-
-  ring
-
-  raccoon
-
-  trial
-
-  plunge
-
-  strike
-
-  story
-
-  hazard'
-bip_39_word_new_line_11: 'series
-
-  atom
-
-  student
-
-  ring
-
-  raccoon
-
-  trial
-
-  plunge
-
-  strike
-
-  story
-
-  hazard
-
-  hawk'
 bip_39_word_new_line_12: 'series
 
   atom
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'series
   atom
 
   student'
-bip_39_word_new_line_4: 'series
-
-  atom
-
-  student
-
-  ring'
-bip_39_word_new_line_5: 'series
-
-  atom
-
-  student
-
-  ring
-
-  raccoon'
-bip_39_word_new_line_6: 'series
-
-  atom
-
-  student
-
-  ring
-
-  raccoon
-
-  trial'
-bip_39_word_new_line_7: 'series
-
-  atom
-
-  student
-
-  ring
-
-  raccoon
-
-  trial
-
-  plunge'
-bip_39_word_new_line_8: 'series
-
-  atom
-
-  student
-
-  ring
-
-  raccoon
-
-  trial
-
-  plunge
-
-  strike'
-bip_39_word_new_line_9: 'series
-
-  atom
-
-  student
-
-  ring
-
-  raccoon
-
-  trial
-
-  plunge
-
-  strike
-
-  story'
-bip_39_word_no_space_1: series
-bip_39_word_no_space_10: seriesatomstudentringraccoontrialplungestrikestoryhazard
-bip_39_word_no_space_11: seriesatomstudentringraccoontrialplungestrikestoryhazardhawk
 bip_39_word_no_space_12: seriesatomstudentringraccoontrialplungestrikestoryhazardhawkart
 bip_39_word_no_space_2: seriesatom
 bip_39_word_no_space_3: seriesatomstudent
-bip_39_word_no_space_4: seriesatomstudentring
-bip_39_word_no_space_5: seriesatomstudentringraccoon
-bip_39_word_no_space_6: seriesatomstudentringraccoontrial
-bip_39_word_no_space_7: seriesatomstudentringraccoontrialplunge
-bip_39_word_no_space_8: seriesatomstudentringraccoontrialplungestrike
-bip_39_word_no_space_9: seriesatomstudentringraccoontrialplungestrikestory
-bip_39_word_space_0:
-- series
-- atom
-- student
-- ring
-- raccoon
-- trial
-- plunge
-- strike
-- story
-- hazard
-- hawk
-- art
-bip_39_word_space_1: series
-bip_39_word_space_10: series atom student ring raccoon trial plunge strike story hazard
-bip_39_word_space_11: series atom student ring raccoon trial plunge strike story hazard
-  hawk
 bip_39_word_space_12: series atom student ring raccoon trial plunge strike story hazard
   hawk art
 bip_39_word_space_2: series atom
 bip_39_word_space_3: series atom student
-bip_39_word_space_4: series atom student ring
-bip_39_word_space_5: series atom student ring raccoon
-bip_39_word_space_6: series atom student ring raccoon trial
-bip_39_word_space_7: series atom student ring raccoon trial plunge
-bip_39_word_space_8: series atom student ring raccoon trial plunge strike
-bip_39_word_space_9: series atom student ring raccoon trial plunge strike story
-bip_39_word_underscore_1: series
-bip_39_word_underscore_10: series_atom_student_ring_raccoon_trial_plunge_strike_story_hazard
-bip_39_word_underscore_11: series_atom_student_ring_raccoon_trial_plunge_strike_story_hazard_hawk
 bip_39_word_underscore_12: series_atom_student_ring_raccoon_trial_plunge_strike_story_hazard_hawk_art
 bip_39_word_underscore_2: series_atom
 bip_39_word_underscore_3: series_atom_student
-bip_39_word_underscore_4: series_atom_student_ring
-bip_39_word_underscore_5: series_atom_student_ring_raccoon
-bip_39_word_underscore_6: series_atom_student_ring_raccoon_trial
-bip_39_word_underscore_7: series_atom_student_ring_raccoon_trial_plunge
-bip_39_word_underscore_8: series_atom_student_ring_raccoon_trial_plunge_strike
-bip_39_word_underscore_9: series_atom_student_ring_raccoon_trial_plunge_strike_story
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: tenant
-bip_39_word_dash_10: tenant-jacket-cute-cash-potato-rain-panic-book-exclude-riot
-bip_39_word_dash_11: tenant-jacket-cute-cash-potato-rain-panic-book-exclude-riot-dynamic
 bip_39_word_dash_12: tenant-jacket-cute-cash-potato-rain-panic-book-exclude-riot-dynamic-acid
 bip_39_word_dash_2: tenant-jacket
 bip_39_word_dash_3: tenant-jacket-cute
-bip_39_word_dash_4: tenant-jacket-cute-cash
-bip_39_word_dash_5: tenant-jacket-cute-cash-potato
-bip_39_word_dash_6: tenant-jacket-cute-cash-potato-rain
-bip_39_word_dash_7: tenant-jacket-cute-cash-potato-rain-panic
-bip_39_word_dash_8: tenant-jacket-cute-cash-potato-rain-panic-book
-bip_39_word_dash_9: tenant-jacket-cute-cash-potato-rain-panic-book-exclude
-bip_39_word_new_br_1: tenant
-bip_39_word_new_br_10: tenant<br>jacket<br>cute<br>cash<br>potato<br>rain<br>panic<br>book<br>exclude<br>riot
-bip_39_word_new_br_11: tenant<br>jacket<br>cute<br>cash<br>potato<br>rain<br>panic<br>book<br>exclude<br>riot<br>dynamic
 bip_39_word_new_br_12: tenant<br>jacket<br>cute<br>cash<br>potato<br>rain<br>panic<br>book<br>exclude<br>riot<br>dynamic<br>acid
 bip_39_word_new_br_2: tenant<br>jacket
 bip_39_word_new_br_3: tenant<br>jacket<br>cute
-bip_39_word_new_br_4: tenant<br>jacket<br>cute<br>cash
-bip_39_word_new_br_5: tenant<br>jacket<br>cute<br>cash<br>potato
-bip_39_word_new_br_6: tenant<br>jacket<br>cute<br>cash<br>potato<br>rain
-bip_39_word_new_br_7: tenant<br>jacket<br>cute<br>cash<br>potato<br>rain<br>panic
-bip_39_word_new_br_8: tenant<br>jacket<br>cute<br>cash<br>potato<br>rain<br>panic<br>book
-bip_39_word_new_br_9: tenant<br>jacket<br>cute<br>cash<br>potato<br>rain<br>panic<br>book<br>exclude
-bip_39_word_new_line_1: tenant
-bip_39_word_new_line_10: 'tenant
-
-  jacket
-
-  cute
-
-  cash
-
-  potato
-
-  rain
-
-  panic
-
-  book
-
-  exclude
-
-  riot'
-bip_39_word_new_line_11: 'tenant
-
-  jacket
-
-  cute
-
-  cash
-
-  potato
-
-  rain
-
-  panic
-
-  book
-
-  exclude
-
-  riot
-
-  dynamic'
 bip_39_word_new_line_12: 'tenant
 
   jacket
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'tenant
   jacket
 
   cute'
-bip_39_word_new_line_4: 'tenant
-
-  jacket
-
-  cute
-
-  cash'
-bip_39_word_new_line_5: 'tenant
-
-  jacket
-
-  cute
-
-  cash
-
-  potato'
-bip_39_word_new_line_6: 'tenant
-
-  jacket
-
-  cute
-
-  cash
-
-  potato
-
-  rain'
-bip_39_word_new_line_7: 'tenant
-
-  jacket
-
-  cute
-
-  cash
-
-  potato
-
-  rain
-
-  panic'
-bip_39_word_new_line_8: 'tenant
-
-  jacket
-
-  cute
-
-  cash
-
-  potato
-
-  rain
-
-  panic
-
-  book'
-bip_39_word_new_line_9: 'tenant
-
-  jacket
-
-  cute
-
-  cash
-
-  potato
-
-  rain
-
-  panic
-
-  book
-
-  exclude'
-bip_39_word_no_space_1: tenant
-bip_39_word_no_space_10: tenantjacketcutecashpotatorainpanicbookexcluderiot
-bip_39_word_no_space_11: tenantjacketcutecashpotatorainpanicbookexcluderiotdynamic
 bip_39_word_no_space_12: tenantjacketcutecashpotatorainpanicbookexcluderiotdynamicacid
 bip_39_word_no_space_2: tenantjacket
 bip_39_word_no_space_3: tenantjacketcute
-bip_39_word_no_space_4: tenantjacketcutecash
-bip_39_word_no_space_5: tenantjacketcutecashpotato
-bip_39_word_no_space_6: tenantjacketcutecashpotatorain
-bip_39_word_no_space_7: tenantjacketcutecashpotatorainpanic
-bip_39_word_no_space_8: tenantjacketcutecashpotatorainpanicbook
-bip_39_word_no_space_9: tenantjacketcutecashpotatorainpanicbookexclude
-bip_39_word_space_0:
-- tenant
-- jacket
-- cute
-- cash
-- potato
-- rain
-- panic
-- book
-- exclude
-- riot
-- dynamic
-- acid
-bip_39_word_space_1: tenant
-bip_39_word_space_10: tenant jacket cute cash potato rain panic book exclude riot
-bip_39_word_space_11: tenant jacket cute cash potato rain panic book exclude riot
-  dynamic
 bip_39_word_space_12: tenant jacket cute cash potato rain panic book exclude riot
   dynamic acid
 bip_39_word_space_2: tenant jacket
 bip_39_word_space_3: tenant jacket cute
-bip_39_word_space_4: tenant jacket cute cash
-bip_39_word_space_5: tenant jacket cute cash potato
-bip_39_word_space_6: tenant jacket cute cash potato rain
-bip_39_word_space_7: tenant jacket cute cash potato rain panic
-bip_39_word_space_8: tenant jacket cute cash potato rain panic book
-bip_39_word_space_9: tenant jacket cute cash potato rain panic book exclude
-bip_39_word_underscore_1: tenant
-bip_39_word_underscore_10: tenant_jacket_cute_cash_potato_rain_panic_book_exclude_riot
-bip_39_word_underscore_11: tenant_jacket_cute_cash_potato_rain_panic_book_exclude_riot_dynamic
 bip_39_word_underscore_12: tenant_jacket_cute_cash_potato_rain_panic_book_exclude_riot_dynamic_acid
 bip_39_word_underscore_2: tenant_jacket
 bip_39_word_underscore_3: tenant_jacket_cute
-bip_39_word_underscore_4: tenant_jacket_cute_cash
-bip_39_word_underscore_5: tenant_jacket_cute_cash_potato
-bip_39_word_underscore_6: tenant_jacket_cute_cash_potato_rain
-bip_39_word_underscore_7: tenant_jacket_cute_cash_potato_rain_panic
-bip_39_word_underscore_8: tenant_jacket_cute_cash_potato_rain_panic_book
-bip_39_word_underscore_9: tenant_jacket_cute_cash_potato_rain_panic_book_exclude
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: good
-bip_39_word_dash_10: good-sniff-arena-toast-silent-coast-fetch-ostrich-woman-small
-bip_39_word_dash_11: good-sniff-arena-toast-silent-coast-fetch-ostrich-woman-small-trap
 bip_39_word_dash_12: good-sniff-arena-toast-silent-coast-fetch-ostrich-woman-small-trap-affair
 bip_39_word_dash_2: good-sniff
 bip_39_word_dash_3: good-sniff-arena
-bip_39_word_dash_4: good-sniff-arena-toast
-bip_39_word_dash_5: good-sniff-arena-toast-silent
-bip_39_word_dash_6: good-sniff-arena-toast-silent-coast
-bip_39_word_dash_7: good-sniff-arena-toast-silent-coast-fetch
-bip_39_word_dash_8: good-sniff-arena-toast-silent-coast-fetch-ostrich
-bip_39_word_dash_9: good-sniff-arena-toast-silent-coast-fetch-ostrich-woman
-bip_39_word_new_br_1: good
-bip_39_word_new_br_10: good<br>sniff<br>arena<br>toast<br>silent<br>coast<br>fetch<br>ostrich<br>woman<br>small
-bip_39_word_new_br_11: good<br>sniff<br>arena<br>toast<br>silent<br>coast<br>fetch<br>ostrich<br>woman<br>small<br>trap
 bip_39_word_new_br_12: good<br>sniff<br>arena<br>toast<br>silent<br>coast<br>fetch<br>ostrich<br>woman<br>small<br>trap<br>affair
 bip_39_word_new_br_2: good<br>sniff
 bip_39_word_new_br_3: good<br>sniff<br>arena
-bip_39_word_new_br_4: good<br>sniff<br>arena<br>toast
-bip_39_word_new_br_5: good<br>sniff<br>arena<br>toast<br>silent
-bip_39_word_new_br_6: good<br>sniff<br>arena<br>toast<br>silent<br>coast
-bip_39_word_new_br_7: good<br>sniff<br>arena<br>toast<br>silent<br>coast<br>fetch
-bip_39_word_new_br_8: good<br>sniff<br>arena<br>toast<br>silent<br>coast<br>fetch<br>ostrich
-bip_39_word_new_br_9: good<br>sniff<br>arena<br>toast<br>silent<br>coast<br>fetch<br>ostrich<br>woman
-bip_39_word_new_line_1: good
-bip_39_word_new_line_10: 'good
-
-  sniff
-
-  arena
-
-  toast
-
-  silent
-
-  coast
-
-  fetch
-
-  ostrich
-
-  woman
-
-  small'
-bip_39_word_new_line_11: 'good
-
-  sniff
-
-  arena
-
-  toast
-
-  silent
-
-  coast
-
-  fetch
-
-  ostrich
-
-  woman
-
-  small
-
-  trap'
 bip_39_word_new_line_12: 'good
 
   sniff
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'good
   sniff
 
   arena'
-bip_39_word_new_line_4: 'good
-
-  sniff
-
-  arena
-
-  toast'
-bip_39_word_new_line_5: 'good
-
-  sniff
-
-  arena
-
-  toast
-
-  silent'
-bip_39_word_new_line_6: 'good
-
-  sniff
-
-  arena
-
-  toast
-
-  silent
-
-  coast'
-bip_39_word_new_line_7: 'good
-
-  sniff
-
-  arena
-
-  toast
-
-  silent
-
-  coast
-
-  fetch'
-bip_39_word_new_line_8: 'good
-
-  sniff
-
-  arena
-
-  toast
-
-  silent
-
-  coast
-
-  fetch
-
-  ostrich'
-bip_39_word_new_line_9: 'good
-
-  sniff
-
-  arena
-
-  toast
-
-  silent
-
-  coast
-
-  fetch
-
-  ostrich
-
-  woman'
-bip_39_word_no_space_1: good
-bip_39_word_no_space_10: goodsniffarenatoastsilentcoastfetchostrichwomansmall
-bip_39_word_no_space_11: goodsniffarenatoastsilentcoastfetchostrichwomansmalltrap
 bip_39_word_no_space_12: goodsniffarenatoastsilentcoastfetchostrichwomansmalltrapaffair
 bip_39_word_no_space_2: goodsniff
 bip_39_word_no_space_3: goodsniffarena
-bip_39_word_no_space_4: goodsniffarenatoast
-bip_39_word_no_space_5: goodsniffarenatoastsilent
-bip_39_word_no_space_6: goodsniffarenatoastsilentcoast
-bip_39_word_no_space_7: goodsniffarenatoastsilentcoastfetch
-bip_39_word_no_space_8: goodsniffarenatoastsilentcoastfetchostrich
-bip_39_word_no_space_9: goodsniffarenatoastsilentcoastfetchostrichwoman
-bip_39_word_space_0:
-- good
-- sniff
-- arena
-- toast
-- silent
-- coast
-- fetch
-- ostrich
-- woman
-- small
-- trap
-- affair
-bip_39_word_space_1: good
-bip_39_word_space_10: good sniff arena toast silent coast fetch ostrich woman small
-bip_39_word_space_11: good sniff arena toast silent coast fetch ostrich woman small
-  trap
 bip_39_word_space_12: good sniff arena toast silent coast fetch ostrich woman small
   trap affair
 bip_39_word_space_2: good sniff
 bip_39_word_space_3: good sniff arena
-bip_39_word_space_4: good sniff arena toast
-bip_39_word_space_5: good sniff arena toast silent
-bip_39_word_space_6: good sniff arena toast silent coast
-bip_39_word_space_7: good sniff arena toast silent coast fetch
-bip_39_word_space_8: good sniff arena toast silent coast fetch ostrich
-bip_39_word_space_9: good sniff arena toast silent coast fetch ostrich woman
-bip_39_word_underscore_1: good
-bip_39_word_underscore_10: good_sniff_arena_toast_silent_coast_fetch_ostrich_woman_small
-bip_39_word_underscore_11: good_sniff_arena_toast_silent_coast_fetch_ostrich_woman_small_trap
 bip_39_word_underscore_12: good_sniff_arena_toast_silent_coast_fetch_ostrich_woman_small_trap_affair
 bip_39_word_underscore_2: good_sniff
 bip_39_word_underscore_3: good_sniff_arena
-bip_39_word_underscore_4: good_sniff_arena_toast
-bip_39_word_underscore_5: good_sniff_arena_toast_silent
-bip_39_word_underscore_6: good_sniff_arena_toast_silent_coast
-bip_39_word_underscore_7: good_sniff_arena_toast_silent_coast_fetch
-bip_39_word_underscore_8: good_sniff_arena_toast_silent_coast_fetch_ostrich
-bip_39_word_underscore_9: good_sniff_arena_toast_silent_coast_fetch_ostrich_woman
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

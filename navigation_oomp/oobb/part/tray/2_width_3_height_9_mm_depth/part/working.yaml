@@ -1,68 +1,9 @@
-bip_39_word_dash_1: purchase
-bip_39_word_dash_10: purchase-blanket-radio-before-inhale-example-dumb-pluck-better-crash
-bip_39_word_dash_11: purchase-blanket-radio-before-inhale-example-dumb-pluck-better-crash-multiply
 bip_39_word_dash_12: purchase-blanket-radio-before-inhale-example-dumb-pluck-better-crash-multiply-always
 bip_39_word_dash_2: purchase-blanket
 bip_39_word_dash_3: purchase-blanket-radio
-bip_39_word_dash_4: purchase-blanket-radio-before
-bip_39_word_dash_5: purchase-blanket-radio-before-inhale
-bip_39_word_dash_6: purchase-blanket-radio-before-inhale-example
-bip_39_word_dash_7: purchase-blanket-radio-before-inhale-example-dumb
-bip_39_word_dash_8: purchase-blanket-radio-before-inhale-example-dumb-pluck
-bip_39_word_dash_9: purchase-blanket-radio-before-inhale-example-dumb-pluck-better
-bip_39_word_new_br_1: purchase
-bip_39_word_new_br_10: purchase<br>blanket<br>radio<br>before<br>inhale<br>example<br>dumb<br>pluck<br>better<br>crash
-bip_39_word_new_br_11: purchase<br>blanket<br>radio<br>before<br>inhale<br>example<br>dumb<br>pluck<br>better<br>crash<br>multiply
 bip_39_word_new_br_12: purchase<br>blanket<br>radio<br>before<br>inhale<br>example<br>dumb<br>pluck<br>better<br>crash<br>multiply<br>always
 bip_39_word_new_br_2: purchase<br>blanket
 bip_39_word_new_br_3: purchase<br>blanket<br>radio
-bip_39_word_new_br_4: purchase<br>blanket<br>radio<br>before
-bip_39_word_new_br_5: purchase<br>blanket<br>radio<br>before<br>inhale
-bip_39_word_new_br_6: purchase<br>blanket<br>radio<br>before<br>inhale<br>example
-bip_39_word_new_br_7: purchase<br>blanket<br>radio<br>before<br>inhale<br>example<br>dumb
-bip_39_word_new_br_8: purchase<br>blanket<br>radio<br>before<br>inhale<br>example<br>dumb<br>pluck
-bip_39_word_new_br_9: purchase<br>blanket<br>radio<br>before<br>inhale<br>example<br>dumb<br>pluck<br>better
-bip_39_word_new_line_1: purchase
-bip_39_word_new_line_10: 'purchase
-
-  blanket
-
-  radio
-
-  before
-
-  inhale
-
-  example
-
-  dumb
-
-  pluck
-
-  better
-
-  crash'
-bip_39_word_new_line_11: 'purchase
-
-  blanket
-
-  radio
-
-  before
-
-  inhale
-
-  example
-
-  dumb
-
-  pluck
-
-  better
-
-  crash
-
-  multiply'
 bip_39_word_new_line_12: 'purchase
 
   blanket
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'purchase
   blanket
 
   radio'
-bip_39_word_new_line_4: 'purchase
-
-  blanket
-
-  radio
-
-  before'
-bip_39_word_new_line_5: 'purchase
-
-  blanket
-
-  radio
-
-  before
-
-  inhale'
-bip_39_word_new_line_6: 'purchase
-
-  blanket
-
-  radio
-
-  before
-
-  inhale
-
-  example'
-bip_39_word_new_line_7: 'purchase
-
-  blanket
-
-  radio
-
-  before
-
-  inhale
-
-  example
-
-  dumb'
-bip_39_word_new_line_8: 'purchase
-
-  blanket
-
-  radio
-
-  before
-
-  inhale
-
-  example
-
-  dumb
-
-  pluck'
-bip_39_word_new_line_9: 'purchase
-
-  blanket
-
-  radio
-
-  before
-
-  inhale
-
-  example
-
-  dumb
-
-  pluck
-
-  better'
-bip_39_word_no_space_1: purchase
-bip_39_word_no_space_10: purchaseblanketradiobeforeinhaleexampledumbpluckbettercrash
-bip_39_word_no_space_11: purchaseblanketradiobeforeinhaleexampledumbpluckbettercrashmultiply
 bip_39_word_no_space_12: purchaseblanketradiobeforeinhaleexampledumbpluckbettercrashmultiplyalways
 bip_39_word_no_space_2: purchaseblanket
 bip_39_word_no_space_3: purchaseblanketradio
-bip_39_word_no_space_4: purchaseblanketradiobefore
-bip_39_word_no_space_5: purchaseblanketradiobeforeinhale
-bip_39_word_no_space_6: purchaseblanketradiobeforeinhaleexample
-bip_39_word_no_space_7: purchaseblanketradiobeforeinhaleexampledumb
-bip_39_word_no_space_8: purchaseblanketradiobeforeinhaleexampledumbpluck
-bip_39_word_no_space_9: purchaseblanketradiobeforeinhaleexampledumbpluckbetter
-bip_39_word_space_0:
-- purchase
-- blanket
-- radio
-- before
-- inhale
-- example
-- dumb
-- pluck
-- better
-- crash
-- multiply
-- always
-bip_39_word_space_1: purchase
-bip_39_word_space_10: purchase blanket radio before inhale example dumb pluck better
-  crash
-bip_39_word_space_11: purchase blanket radio before inhale example dumb pluck better
-  crash multiply
 bip_39_word_space_12: purchase blanket radio before inhale example dumb pluck better
   crash multiply always
 bip_39_word_space_2: purchase blanket
 bip_39_word_space_3: purchase blanket radio
-bip_39_word_space_4: purchase blanket radio before
-bip_39_word_space_5: purchase blanket radio before inhale
-bip_39_word_space_6: purchase blanket radio before inhale example
-bip_39_word_space_7: purchase blanket radio before inhale example dumb
-bip_39_word_space_8: purchase blanket radio before inhale example dumb pluck
-bip_39_word_space_9: purchase blanket radio before inhale example dumb pluck better
-bip_39_word_underscore_1: purchase
-bip_39_word_underscore_10: purchase_blanket_radio_before_inhale_example_dumb_pluck_better_crash
-bip_39_word_underscore_11: purchase_blanket_radio_before_inhale_example_dumb_pluck_better_crash_multiply
 bip_39_word_underscore_12: purchase_blanket_radio_before_inhale_example_dumb_pluck_better_crash_multiply_always
 bip_39_word_underscore_2: purchase_blanket
 bip_39_word_underscore_3: purchase_blanket_radio
-bip_39_word_underscore_4: purchase_blanket_radio_before
-bip_39_word_underscore_5: purchase_blanket_radio_before_inhale
-bip_39_word_underscore_6: purchase_blanket_radio_before_inhale_example
-bip_39_word_underscore_7: purchase_blanket_radio_before_inhale_example_dumb
-bip_39_word_underscore_8: purchase_blanket_radio_before_inhale_example_dumb_pluck
-bip_39_word_underscore_9: purchase_blanket_radio_before_inhale_example_dumb_pluck_better
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

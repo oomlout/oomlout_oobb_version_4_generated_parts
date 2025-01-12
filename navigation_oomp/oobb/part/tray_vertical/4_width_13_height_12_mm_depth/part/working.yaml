@@ -1,68 +1,9 @@
-bip_39_word_dash_1: stereo
-bip_39_word_dash_10: stereo-auto-live-ritual-begin-powder-virtual-call-catch-erase
-bip_39_word_dash_11: stereo-auto-live-ritual-begin-powder-virtual-call-catch-erase-exist
 bip_39_word_dash_12: stereo-auto-live-ritual-begin-powder-virtual-call-catch-erase-exist-air
 bip_39_word_dash_2: stereo-auto
 bip_39_word_dash_3: stereo-auto-live
-bip_39_word_dash_4: stereo-auto-live-ritual
-bip_39_word_dash_5: stereo-auto-live-ritual-begin
-bip_39_word_dash_6: stereo-auto-live-ritual-begin-powder
-bip_39_word_dash_7: stereo-auto-live-ritual-begin-powder-virtual
-bip_39_word_dash_8: stereo-auto-live-ritual-begin-powder-virtual-call
-bip_39_word_dash_9: stereo-auto-live-ritual-begin-powder-virtual-call-catch
-bip_39_word_new_br_1: stereo
-bip_39_word_new_br_10: stereo<br>auto<br>live<br>ritual<br>begin<br>powder<br>virtual<br>call<br>catch<br>erase
-bip_39_word_new_br_11: stereo<br>auto<br>live<br>ritual<br>begin<br>powder<br>virtual<br>call<br>catch<br>erase<br>exist
 bip_39_word_new_br_12: stereo<br>auto<br>live<br>ritual<br>begin<br>powder<br>virtual<br>call<br>catch<br>erase<br>exist<br>air
 bip_39_word_new_br_2: stereo<br>auto
 bip_39_word_new_br_3: stereo<br>auto<br>live
-bip_39_word_new_br_4: stereo<br>auto<br>live<br>ritual
-bip_39_word_new_br_5: stereo<br>auto<br>live<br>ritual<br>begin
-bip_39_word_new_br_6: stereo<br>auto<br>live<br>ritual<br>begin<br>powder
-bip_39_word_new_br_7: stereo<br>auto<br>live<br>ritual<br>begin<br>powder<br>virtual
-bip_39_word_new_br_8: stereo<br>auto<br>live<br>ritual<br>begin<br>powder<br>virtual<br>call
-bip_39_word_new_br_9: stereo<br>auto<br>live<br>ritual<br>begin<br>powder<br>virtual<br>call<br>catch
-bip_39_word_new_line_1: stereo
-bip_39_word_new_line_10: 'stereo
-
-  auto
-
-  live
-
-  ritual
-
-  begin
-
-  powder
-
-  virtual
-
-  call
-
-  catch
-
-  erase'
-bip_39_word_new_line_11: 'stereo
-
-  auto
-
-  live
-
-  ritual
-
-  begin
-
-  powder
-
-  virtual
-
-  call
-
-  catch
-
-  erase
-
-  exist'
 bip_39_word_new_line_12: 'stereo
 
   auto
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'stereo
   auto
 
   live'
-bip_39_word_new_line_4: 'stereo
-
-  auto
-
-  live
-
-  ritual'
-bip_39_word_new_line_5: 'stereo
-
-  auto
-
-  live
-
-  ritual
-
-  begin'
-bip_39_word_new_line_6: 'stereo
-
-  auto
-
-  live
-
-  ritual
-
-  begin
-
-  powder'
-bip_39_word_new_line_7: 'stereo
-
-  auto
-
-  live
-
-  ritual
-
-  begin
-
-  powder
-
-  virtual'
-bip_39_word_new_line_8: 'stereo
-
-  auto
-
-  live
-
-  ritual
-
-  begin
-
-  powder
-
-  virtual
-
-  call'
-bip_39_word_new_line_9: 'stereo
-
-  auto
-
-  live
-
-  ritual
-
-  begin
-
-  powder
-
-  virtual
-
-  call
-
-  catch'
-bip_39_word_no_space_1: stereo
-bip_39_word_no_space_10: stereoautoliveritualbeginpowdervirtualcallcatcherase
-bip_39_word_no_space_11: stereoautoliveritualbeginpowdervirtualcallcatcheraseexist
 bip_39_word_no_space_12: stereoautoliveritualbeginpowdervirtualcallcatcheraseexistair
 bip_39_word_no_space_2: stereoauto
 bip_39_word_no_space_3: stereoautolive
-bip_39_word_no_space_4: stereoautoliveritual
-bip_39_word_no_space_5: stereoautoliveritualbegin
-bip_39_word_no_space_6: stereoautoliveritualbeginpowder
-bip_39_word_no_space_7: stereoautoliveritualbeginpowdervirtual
-bip_39_word_no_space_8: stereoautoliveritualbeginpowdervirtualcall
-bip_39_word_no_space_9: stereoautoliveritualbeginpowdervirtualcallcatch
-bip_39_word_space_0:
-- stereo
-- auto
-- live
-- ritual
-- begin
-- powder
-- virtual
-- call
-- catch
-- erase
-- exist
-- air
-bip_39_word_space_1: stereo
-bip_39_word_space_10: stereo auto live ritual begin powder virtual call catch erase
-bip_39_word_space_11: stereo auto live ritual begin powder virtual call catch erase
-  exist
 bip_39_word_space_12: stereo auto live ritual begin powder virtual call catch erase
   exist air
 bip_39_word_space_2: stereo auto
 bip_39_word_space_3: stereo auto live
-bip_39_word_space_4: stereo auto live ritual
-bip_39_word_space_5: stereo auto live ritual begin
-bip_39_word_space_6: stereo auto live ritual begin powder
-bip_39_word_space_7: stereo auto live ritual begin powder virtual
-bip_39_word_space_8: stereo auto live ritual begin powder virtual call
-bip_39_word_space_9: stereo auto live ritual begin powder virtual call catch
-bip_39_word_underscore_1: stereo
-bip_39_word_underscore_10: stereo_auto_live_ritual_begin_powder_virtual_call_catch_erase
-bip_39_word_underscore_11: stereo_auto_live_ritual_begin_powder_virtual_call_catch_erase_exist
 bip_39_word_underscore_12: stereo_auto_live_ritual_begin_powder_virtual_call_catch_erase_exist_air
 bip_39_word_underscore_2: stereo_auto
 bip_39_word_underscore_3: stereo_auto_live
-bip_39_word_underscore_4: stereo_auto_live_ritual
-bip_39_word_underscore_5: stereo_auto_live_ritual_begin
-bip_39_word_underscore_6: stereo_auto_live_ritual_begin_powder
-bip_39_word_underscore_7: stereo_auto_live_ritual_begin_powder_virtual
-bip_39_word_underscore_8: stereo_auto_live_ritual_begin_powder_virtual_call
-bip_39_word_underscore_9: stereo_auto_live_ritual_begin_powder_virtual_call_catch
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

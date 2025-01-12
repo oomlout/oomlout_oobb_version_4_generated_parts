@@ -1,68 +1,9 @@
-bip_39_word_dash_1: pitch
-bip_39_word_dash_10: pitch-drip-rare-stereo-pelican-panther-age-mercy-copper-various
-bip_39_word_dash_11: pitch-drip-rare-stereo-pelican-panther-age-mercy-copper-various-enjoy
 bip_39_word_dash_12: pitch-drip-rare-stereo-pelican-panther-age-mercy-copper-various-enjoy-ahead
 bip_39_word_dash_2: pitch-drip
 bip_39_word_dash_3: pitch-drip-rare
-bip_39_word_dash_4: pitch-drip-rare-stereo
-bip_39_word_dash_5: pitch-drip-rare-stereo-pelican
-bip_39_word_dash_6: pitch-drip-rare-stereo-pelican-panther
-bip_39_word_dash_7: pitch-drip-rare-stereo-pelican-panther-age
-bip_39_word_dash_8: pitch-drip-rare-stereo-pelican-panther-age-mercy
-bip_39_word_dash_9: pitch-drip-rare-stereo-pelican-panther-age-mercy-copper
-bip_39_word_new_br_1: pitch
-bip_39_word_new_br_10: pitch<br>drip<br>rare<br>stereo<br>pelican<br>panther<br>age<br>mercy<br>copper<br>various
-bip_39_word_new_br_11: pitch<br>drip<br>rare<br>stereo<br>pelican<br>panther<br>age<br>mercy<br>copper<br>various<br>enjoy
 bip_39_word_new_br_12: pitch<br>drip<br>rare<br>stereo<br>pelican<br>panther<br>age<br>mercy<br>copper<br>various<br>enjoy<br>ahead
 bip_39_word_new_br_2: pitch<br>drip
 bip_39_word_new_br_3: pitch<br>drip<br>rare
-bip_39_word_new_br_4: pitch<br>drip<br>rare<br>stereo
-bip_39_word_new_br_5: pitch<br>drip<br>rare<br>stereo<br>pelican
-bip_39_word_new_br_6: pitch<br>drip<br>rare<br>stereo<br>pelican<br>panther
-bip_39_word_new_br_7: pitch<br>drip<br>rare<br>stereo<br>pelican<br>panther<br>age
-bip_39_word_new_br_8: pitch<br>drip<br>rare<br>stereo<br>pelican<br>panther<br>age<br>mercy
-bip_39_word_new_br_9: pitch<br>drip<br>rare<br>stereo<br>pelican<br>panther<br>age<br>mercy<br>copper
-bip_39_word_new_line_1: pitch
-bip_39_word_new_line_10: 'pitch
-
-  drip
-
-  rare
-
-  stereo
-
-  pelican
-
-  panther
-
-  age
-
-  mercy
-
-  copper
-
-  various'
-bip_39_word_new_line_11: 'pitch
-
-  drip
-
-  rare
-
-  stereo
-
-  pelican
-
-  panther
-
-  age
-
-  mercy
-
-  copper
-
-  various
-
-  enjoy'
 bip_39_word_new_line_12: 'pitch
 
   drip
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'pitch
   drip
 
   rare'
-bip_39_word_new_line_4: 'pitch
-
-  drip
-
-  rare
-
-  stereo'
-bip_39_word_new_line_5: 'pitch
-
-  drip
-
-  rare
-
-  stereo
-
-  pelican'
-bip_39_word_new_line_6: 'pitch
-
-  drip
-
-  rare
-
-  stereo
-
-  pelican
-
-  panther'
-bip_39_word_new_line_7: 'pitch
-
-  drip
-
-  rare
-
-  stereo
-
-  pelican
-
-  panther
-
-  age'
-bip_39_word_new_line_8: 'pitch
-
-  drip
-
-  rare
-
-  stereo
-
-  pelican
-
-  panther
-
-  age
-
-  mercy'
-bip_39_word_new_line_9: 'pitch
-
-  drip
-
-  rare
-
-  stereo
-
-  pelican
-
-  panther
-
-  age
-
-  mercy
-
-  copper'
-bip_39_word_no_space_1: pitch
-bip_39_word_no_space_10: pitchdriprarestereopelicanpantheragemercycoppervarious
-bip_39_word_no_space_11: pitchdriprarestereopelicanpantheragemercycoppervariousenjoy
 bip_39_word_no_space_12: pitchdriprarestereopelicanpantheragemercycoppervariousenjoyahead
 bip_39_word_no_space_2: pitchdrip
 bip_39_word_no_space_3: pitchdriprare
-bip_39_word_no_space_4: pitchdriprarestereo
-bip_39_word_no_space_5: pitchdriprarestereopelican
-bip_39_word_no_space_6: pitchdriprarestereopelicanpanther
-bip_39_word_no_space_7: pitchdriprarestereopelicanpantherage
-bip_39_word_no_space_8: pitchdriprarestereopelicanpantheragemercy
-bip_39_word_no_space_9: pitchdriprarestereopelicanpantheragemercycopper
-bip_39_word_space_0:
-- pitch
-- drip
-- rare
-- stereo
-- pelican
-- panther
-- age
-- mercy
-- copper
-- various
-- enjoy
-- ahead
-bip_39_word_space_1: pitch
-bip_39_word_space_10: pitch drip rare stereo pelican panther age mercy copper various
-bip_39_word_space_11: pitch drip rare stereo pelican panther age mercy copper various
-  enjoy
 bip_39_word_space_12: pitch drip rare stereo pelican panther age mercy copper various
   enjoy ahead
 bip_39_word_space_2: pitch drip
 bip_39_word_space_3: pitch drip rare
-bip_39_word_space_4: pitch drip rare stereo
-bip_39_word_space_5: pitch drip rare stereo pelican
-bip_39_word_space_6: pitch drip rare stereo pelican panther
-bip_39_word_space_7: pitch drip rare stereo pelican panther age
-bip_39_word_space_8: pitch drip rare stereo pelican panther age mercy
-bip_39_word_space_9: pitch drip rare stereo pelican panther age mercy copper
-bip_39_word_underscore_1: pitch
-bip_39_word_underscore_10: pitch_drip_rare_stereo_pelican_panther_age_mercy_copper_various
-bip_39_word_underscore_11: pitch_drip_rare_stereo_pelican_panther_age_mercy_copper_various_enjoy
 bip_39_word_underscore_12: pitch_drip_rare_stereo_pelican_panther_age_mercy_copper_various_enjoy_ahead
 bip_39_word_underscore_2: pitch_drip
 bip_39_word_underscore_3: pitch_drip_rare
-bip_39_word_underscore_4: pitch_drip_rare_stereo
-bip_39_word_underscore_5: pitch_drip_rare_stereo_pelican
-bip_39_word_underscore_6: pitch_drip_rare_stereo_pelican_panther
-bip_39_word_underscore_7: pitch_drip_rare_stereo_pelican_panther_age
-bip_39_word_underscore_8: pitch_drip_rare_stereo_pelican_panther_age_mercy
-bip_39_word_underscore_9: pitch_drip_rare_stereo_pelican_panther_age_mercy_copper
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

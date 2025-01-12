@@ -1,68 +1,9 @@
-bip_39_word_dash_1: truth
-bip_39_word_dash_10: truth-pepper-knife-lonely-turn-leaf-ocean-roof-oil-stamp
-bip_39_word_dash_11: truth-pepper-knife-lonely-turn-leaf-ocean-roof-oil-stamp-toy
 bip_39_word_dash_12: truth-pepper-knife-lonely-turn-leaf-ocean-roof-oil-stamp-toy-alarm
 bip_39_word_dash_2: truth-pepper
 bip_39_word_dash_3: truth-pepper-knife
-bip_39_word_dash_4: truth-pepper-knife-lonely
-bip_39_word_dash_5: truth-pepper-knife-lonely-turn
-bip_39_word_dash_6: truth-pepper-knife-lonely-turn-leaf
-bip_39_word_dash_7: truth-pepper-knife-lonely-turn-leaf-ocean
-bip_39_word_dash_8: truth-pepper-knife-lonely-turn-leaf-ocean-roof
-bip_39_word_dash_9: truth-pepper-knife-lonely-turn-leaf-ocean-roof-oil
-bip_39_word_new_br_1: truth
-bip_39_word_new_br_10: truth<br>pepper<br>knife<br>lonely<br>turn<br>leaf<br>ocean<br>roof<br>oil<br>stamp
-bip_39_word_new_br_11: truth<br>pepper<br>knife<br>lonely<br>turn<br>leaf<br>ocean<br>roof<br>oil<br>stamp<br>toy
 bip_39_word_new_br_12: truth<br>pepper<br>knife<br>lonely<br>turn<br>leaf<br>ocean<br>roof<br>oil<br>stamp<br>toy<br>alarm
 bip_39_word_new_br_2: truth<br>pepper
 bip_39_word_new_br_3: truth<br>pepper<br>knife
-bip_39_word_new_br_4: truth<br>pepper<br>knife<br>lonely
-bip_39_word_new_br_5: truth<br>pepper<br>knife<br>lonely<br>turn
-bip_39_word_new_br_6: truth<br>pepper<br>knife<br>lonely<br>turn<br>leaf
-bip_39_word_new_br_7: truth<br>pepper<br>knife<br>lonely<br>turn<br>leaf<br>ocean
-bip_39_word_new_br_8: truth<br>pepper<br>knife<br>lonely<br>turn<br>leaf<br>ocean<br>roof
-bip_39_word_new_br_9: truth<br>pepper<br>knife<br>lonely<br>turn<br>leaf<br>ocean<br>roof<br>oil
-bip_39_word_new_line_1: truth
-bip_39_word_new_line_10: 'truth
-
-  pepper
-
-  knife
-
-  lonely
-
-  turn
-
-  leaf
-
-  ocean
-
-  roof
-
-  oil
-
-  stamp'
-bip_39_word_new_line_11: 'truth
-
-  pepper
-
-  knife
-
-  lonely
-
-  turn
-
-  leaf
-
-  ocean
-
-  roof
-
-  oil
-
-  stamp
-
-  toy'
 bip_39_word_new_line_12: 'truth
 
   pepper
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'truth
   pepper
 
   knife'
-bip_39_word_new_line_4: 'truth
-
-  pepper
-
-  knife
-
-  lonely'
-bip_39_word_new_line_5: 'truth
-
-  pepper
-
-  knife
-
-  lonely
-
-  turn'
-bip_39_word_new_line_6: 'truth
-
-  pepper
-
-  knife
-
-  lonely
-
-  turn
-
-  leaf'
-bip_39_word_new_line_7: 'truth
-
-  pepper
-
-  knife
-
-  lonely
-
-  turn
-
-  leaf
-
-  ocean'
-bip_39_word_new_line_8: 'truth
-
-  pepper
-
-  knife
-
-  lonely
-
-  turn
-
-  leaf
-
-  ocean
-
-  roof'
-bip_39_word_new_line_9: 'truth
-
-  pepper
-
-  knife
-
-  lonely
-
-  turn
-
-  leaf
-
-  ocean
-
-  roof
-
-  oil'
-bip_39_word_no_space_1: truth
-bip_39_word_no_space_10: truthpepperknifelonelyturnleafoceanroofoilstamp
-bip_39_word_no_space_11: truthpepperknifelonelyturnleafoceanroofoilstamptoy
 bip_39_word_no_space_12: truthpepperknifelonelyturnleafoceanroofoilstamptoyalarm
 bip_39_word_no_space_2: truthpepper
 bip_39_word_no_space_3: truthpepperknife
-bip_39_word_no_space_4: truthpepperknifelonely
-bip_39_word_no_space_5: truthpepperknifelonelyturn
-bip_39_word_no_space_6: truthpepperknifelonelyturnleaf
-bip_39_word_no_space_7: truthpepperknifelonelyturnleafocean
-bip_39_word_no_space_8: truthpepperknifelonelyturnleafoceanroof
-bip_39_word_no_space_9: truthpepperknifelonelyturnleafoceanroofoil
-bip_39_word_space_0:
-- truth
-- pepper
-- knife
-- lonely
-- turn
-- leaf
-- ocean
-- roof
-- oil
-- stamp
-- toy
-- alarm
-bip_39_word_space_1: truth
-bip_39_word_space_10: truth pepper knife lonely turn leaf ocean roof oil stamp
-bip_39_word_space_11: truth pepper knife lonely turn leaf ocean roof oil stamp toy
 bip_39_word_space_12: truth pepper knife lonely turn leaf ocean roof oil stamp toy
   alarm
 bip_39_word_space_2: truth pepper
 bip_39_word_space_3: truth pepper knife
-bip_39_word_space_4: truth pepper knife lonely
-bip_39_word_space_5: truth pepper knife lonely turn
-bip_39_word_space_6: truth pepper knife lonely turn leaf
-bip_39_word_space_7: truth pepper knife lonely turn leaf ocean
-bip_39_word_space_8: truth pepper knife lonely turn leaf ocean roof
-bip_39_word_space_9: truth pepper knife lonely turn leaf ocean roof oil
-bip_39_word_underscore_1: truth
-bip_39_word_underscore_10: truth_pepper_knife_lonely_turn_leaf_ocean_roof_oil_stamp
-bip_39_word_underscore_11: truth_pepper_knife_lonely_turn_leaf_ocean_roof_oil_stamp_toy
 bip_39_word_underscore_12: truth_pepper_knife_lonely_turn_leaf_ocean_roof_oil_stamp_toy_alarm
 bip_39_word_underscore_2: truth_pepper
 bip_39_word_underscore_3: truth_pepper_knife
-bip_39_word_underscore_4: truth_pepper_knife_lonely
-bip_39_word_underscore_5: truth_pepper_knife_lonely_turn
-bip_39_word_underscore_6: truth_pepper_knife_lonely_turn_leaf
-bip_39_word_underscore_7: truth_pepper_knife_lonely_turn_leaf_ocean
-bip_39_word_underscore_8: truth_pepper_knife_lonely_turn_leaf_ocean_roof
-bip_39_word_underscore_9: truth_pepper_knife_lonely_turn_leaf_ocean_roof_oil
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

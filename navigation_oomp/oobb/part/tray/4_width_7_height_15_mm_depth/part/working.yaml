@@ -1,68 +1,9 @@
-bip_39_word_dash_1: wine
-bip_39_word_dash_10: wine-water-skirt-census-gather-position-beauty-day-toilet-payment
-bip_39_word_dash_11: wine-water-skirt-census-gather-position-beauty-day-toilet-payment-rival
 bip_39_word_dash_12: wine-water-skirt-census-gather-position-beauty-day-toilet-payment-rival-august
 bip_39_word_dash_2: wine-water
 bip_39_word_dash_3: wine-water-skirt
-bip_39_word_dash_4: wine-water-skirt-census
-bip_39_word_dash_5: wine-water-skirt-census-gather
-bip_39_word_dash_6: wine-water-skirt-census-gather-position
-bip_39_word_dash_7: wine-water-skirt-census-gather-position-beauty
-bip_39_word_dash_8: wine-water-skirt-census-gather-position-beauty-day
-bip_39_word_dash_9: wine-water-skirt-census-gather-position-beauty-day-toilet
-bip_39_word_new_br_1: wine
-bip_39_word_new_br_10: wine<br>water<br>skirt<br>census<br>gather<br>position<br>beauty<br>day<br>toilet<br>payment
-bip_39_word_new_br_11: wine<br>water<br>skirt<br>census<br>gather<br>position<br>beauty<br>day<br>toilet<br>payment<br>rival
 bip_39_word_new_br_12: wine<br>water<br>skirt<br>census<br>gather<br>position<br>beauty<br>day<br>toilet<br>payment<br>rival<br>august
 bip_39_word_new_br_2: wine<br>water
 bip_39_word_new_br_3: wine<br>water<br>skirt
-bip_39_word_new_br_4: wine<br>water<br>skirt<br>census
-bip_39_word_new_br_5: wine<br>water<br>skirt<br>census<br>gather
-bip_39_word_new_br_6: wine<br>water<br>skirt<br>census<br>gather<br>position
-bip_39_word_new_br_7: wine<br>water<br>skirt<br>census<br>gather<br>position<br>beauty
-bip_39_word_new_br_8: wine<br>water<br>skirt<br>census<br>gather<br>position<br>beauty<br>day
-bip_39_word_new_br_9: wine<br>water<br>skirt<br>census<br>gather<br>position<br>beauty<br>day<br>toilet
-bip_39_word_new_line_1: wine
-bip_39_word_new_line_10: 'wine
-
-  water
-
-  skirt
-
-  census
-
-  gather
-
-  position
-
-  beauty
-
-  day
-
-  toilet
-
-  payment'
-bip_39_word_new_line_11: 'wine
-
-  water
-
-  skirt
-
-  census
-
-  gather
-
-  position
-
-  beauty
-
-  day
-
-  toilet
-
-  payment
-
-  rival'
 bip_39_word_new_line_12: 'wine
 
   water
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'wine
   water
 
   skirt'
-bip_39_word_new_line_4: 'wine
-
-  water
-
-  skirt
-
-  census'
-bip_39_word_new_line_5: 'wine
-
-  water
-
-  skirt
-
-  census
-
-  gather'
-bip_39_word_new_line_6: 'wine
-
-  water
-
-  skirt
-
-  census
-
-  gather
-
-  position'
-bip_39_word_new_line_7: 'wine
-
-  water
-
-  skirt
-
-  census
-
-  gather
-
-  position
-
-  beauty'
-bip_39_word_new_line_8: 'wine
-
-  water
-
-  skirt
-
-  census
-
-  gather
-
-  position
-
-  beauty
-
-  day'
-bip_39_word_new_line_9: 'wine
-
-  water
-
-  skirt
-
-  census
-
-  gather
-
-  position
-
-  beauty
-
-  day
-
-  toilet'
-bip_39_word_no_space_1: wine
-bip_39_word_no_space_10: winewaterskirtcensusgatherpositionbeautydaytoiletpayment
-bip_39_word_no_space_11: winewaterskirtcensusgatherpositionbeautydaytoiletpaymentrival
 bip_39_word_no_space_12: winewaterskirtcensusgatherpositionbeautydaytoiletpaymentrivalaugust
 bip_39_word_no_space_2: winewater
 bip_39_word_no_space_3: winewaterskirt
-bip_39_word_no_space_4: winewaterskirtcensus
-bip_39_word_no_space_5: winewaterskirtcensusgather
-bip_39_word_no_space_6: winewaterskirtcensusgatherposition
-bip_39_word_no_space_7: winewaterskirtcensusgatherpositionbeauty
-bip_39_word_no_space_8: winewaterskirtcensusgatherpositionbeautyday
-bip_39_word_no_space_9: winewaterskirtcensusgatherpositionbeautydaytoilet
-bip_39_word_space_0:
-- wine
-- water
-- skirt
-- census
-- gather
-- position
-- beauty
-- day
-- toilet
-- payment
-- rival
-- august
-bip_39_word_space_1: wine
-bip_39_word_space_10: wine water skirt census gather position beauty day toilet payment
-bip_39_word_space_11: wine water skirt census gather position beauty day toilet payment
-  rival
 bip_39_word_space_12: wine water skirt census gather position beauty day toilet payment
   rival august
 bip_39_word_space_2: wine water
 bip_39_word_space_3: wine water skirt
-bip_39_word_space_4: wine water skirt census
-bip_39_word_space_5: wine water skirt census gather
-bip_39_word_space_6: wine water skirt census gather position
-bip_39_word_space_7: wine water skirt census gather position beauty
-bip_39_word_space_8: wine water skirt census gather position beauty day
-bip_39_word_space_9: wine water skirt census gather position beauty day toilet
-bip_39_word_underscore_1: wine
-bip_39_word_underscore_10: wine_water_skirt_census_gather_position_beauty_day_toilet_payment
-bip_39_word_underscore_11: wine_water_skirt_census_gather_position_beauty_day_toilet_payment_rival
 bip_39_word_underscore_12: wine_water_skirt_census_gather_position_beauty_day_toilet_payment_rival_august
 bip_39_word_underscore_2: wine_water
 bip_39_word_underscore_3: wine_water_skirt
-bip_39_word_underscore_4: wine_water_skirt_census
-bip_39_word_underscore_5: wine_water_skirt_census_gather
-bip_39_word_underscore_6: wine_water_skirt_census_gather_position
-bip_39_word_underscore_7: wine_water_skirt_census_gather_position_beauty
-bip_39_word_underscore_8: wine_water_skirt_census_gather_position_beauty_day
-bip_39_word_underscore_9: wine_water_skirt_census_gather_position_beauty_day_toilet
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

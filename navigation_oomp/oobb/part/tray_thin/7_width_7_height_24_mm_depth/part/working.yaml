@@ -1,68 +1,9 @@
-bip_39_word_dash_1: scan
-bip_39_word_dash_10: scan-sudden-wink-dry-gain-radar-fault-mail-uncle-group
-bip_39_word_dash_11: scan-sudden-wink-dry-gain-radar-fault-mail-uncle-group-sunny
 bip_39_word_dash_12: scan-sudden-wink-dry-gain-radar-fault-mail-uncle-group-sunny-acid
 bip_39_word_dash_2: scan-sudden
 bip_39_word_dash_3: scan-sudden-wink
-bip_39_word_dash_4: scan-sudden-wink-dry
-bip_39_word_dash_5: scan-sudden-wink-dry-gain
-bip_39_word_dash_6: scan-sudden-wink-dry-gain-radar
-bip_39_word_dash_7: scan-sudden-wink-dry-gain-radar-fault
-bip_39_word_dash_8: scan-sudden-wink-dry-gain-radar-fault-mail
-bip_39_word_dash_9: scan-sudden-wink-dry-gain-radar-fault-mail-uncle
-bip_39_word_new_br_1: scan
-bip_39_word_new_br_10: scan<br>sudden<br>wink<br>dry<br>gain<br>radar<br>fault<br>mail<br>uncle<br>group
-bip_39_word_new_br_11: scan<br>sudden<br>wink<br>dry<br>gain<br>radar<br>fault<br>mail<br>uncle<br>group<br>sunny
 bip_39_word_new_br_12: scan<br>sudden<br>wink<br>dry<br>gain<br>radar<br>fault<br>mail<br>uncle<br>group<br>sunny<br>acid
 bip_39_word_new_br_2: scan<br>sudden
 bip_39_word_new_br_3: scan<br>sudden<br>wink
-bip_39_word_new_br_4: scan<br>sudden<br>wink<br>dry
-bip_39_word_new_br_5: scan<br>sudden<br>wink<br>dry<br>gain
-bip_39_word_new_br_6: scan<br>sudden<br>wink<br>dry<br>gain<br>radar
-bip_39_word_new_br_7: scan<br>sudden<br>wink<br>dry<br>gain<br>radar<br>fault
-bip_39_word_new_br_8: scan<br>sudden<br>wink<br>dry<br>gain<br>radar<br>fault<br>mail
-bip_39_word_new_br_9: scan<br>sudden<br>wink<br>dry<br>gain<br>radar<br>fault<br>mail<br>uncle
-bip_39_word_new_line_1: scan
-bip_39_word_new_line_10: 'scan
-
-  sudden
-
-  wink
-
-  dry
-
-  gain
-
-  radar
-
-  fault
-
-  mail
-
-  uncle
-
-  group'
-bip_39_word_new_line_11: 'scan
-
-  sudden
-
-  wink
-
-  dry
-
-  gain
-
-  radar
-
-  fault
-
-  mail
-
-  uncle
-
-  group
-
-  sunny'
 bip_39_word_new_line_12: 'scan
 
   sudden
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'scan
   sudden
 
   wink'
-bip_39_word_new_line_4: 'scan
-
-  sudden
-
-  wink
-
-  dry'
-bip_39_word_new_line_5: 'scan
-
-  sudden
-
-  wink
-
-  dry
-
-  gain'
-bip_39_word_new_line_6: 'scan
-
-  sudden
-
-  wink
-
-  dry
-
-  gain
-
-  radar'
-bip_39_word_new_line_7: 'scan
-
-  sudden
-
-  wink
-
-  dry
-
-  gain
-
-  radar
-
-  fault'
-bip_39_word_new_line_8: 'scan
-
-  sudden
-
-  wink
-
-  dry
-
-  gain
-
-  radar
-
-  fault
-
-  mail'
-bip_39_word_new_line_9: 'scan
-
-  sudden
-
-  wink
-
-  dry
-
-  gain
-
-  radar
-
-  fault
-
-  mail
-
-  uncle'
-bip_39_word_no_space_1: scan
-bip_39_word_no_space_10: scansuddenwinkdrygainradarfaultmailunclegroup
-bip_39_word_no_space_11: scansuddenwinkdrygainradarfaultmailunclegroupsunny
 bip_39_word_no_space_12: scansuddenwinkdrygainradarfaultmailunclegroupsunnyacid
 bip_39_word_no_space_2: scansudden
 bip_39_word_no_space_3: scansuddenwink
-bip_39_word_no_space_4: scansuddenwinkdry
-bip_39_word_no_space_5: scansuddenwinkdrygain
-bip_39_word_no_space_6: scansuddenwinkdrygainradar
-bip_39_word_no_space_7: scansuddenwinkdrygainradarfault
-bip_39_word_no_space_8: scansuddenwinkdrygainradarfaultmail
-bip_39_word_no_space_9: scansuddenwinkdrygainradarfaultmailuncle
-bip_39_word_space_0:
-- scan
-- sudden
-- wink
-- dry
-- gain
-- radar
-- fault
-- mail
-- uncle
-- group
-- sunny
-- acid
-bip_39_word_space_1: scan
-bip_39_word_space_10: scan sudden wink dry gain radar fault mail uncle group
-bip_39_word_space_11: scan sudden wink dry gain radar fault mail uncle group sunny
 bip_39_word_space_12: scan sudden wink dry gain radar fault mail uncle group sunny
   acid
 bip_39_word_space_2: scan sudden
 bip_39_word_space_3: scan sudden wink
-bip_39_word_space_4: scan sudden wink dry
-bip_39_word_space_5: scan sudden wink dry gain
-bip_39_word_space_6: scan sudden wink dry gain radar
-bip_39_word_space_7: scan sudden wink dry gain radar fault
-bip_39_word_space_8: scan sudden wink dry gain radar fault mail
-bip_39_word_space_9: scan sudden wink dry gain radar fault mail uncle
-bip_39_word_underscore_1: scan
-bip_39_word_underscore_10: scan_sudden_wink_dry_gain_radar_fault_mail_uncle_group
-bip_39_word_underscore_11: scan_sudden_wink_dry_gain_radar_fault_mail_uncle_group_sunny
 bip_39_word_underscore_12: scan_sudden_wink_dry_gain_radar_fault_mail_uncle_group_sunny_acid
 bip_39_word_underscore_2: scan_sudden
 bip_39_word_underscore_3: scan_sudden_wink
-bip_39_word_underscore_4: scan_sudden_wink_dry
-bip_39_word_underscore_5: scan_sudden_wink_dry_gain
-bip_39_word_underscore_6: scan_sudden_wink_dry_gain_radar
-bip_39_word_underscore_7: scan_sudden_wink_dry_gain_radar_fault
-bip_39_word_underscore_8: scan_sudden_wink_dry_gain_radar_fault_mail
-bip_39_word_underscore_9: scan_sudden_wink_dry_gain_radar_fault_mail_uncle
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

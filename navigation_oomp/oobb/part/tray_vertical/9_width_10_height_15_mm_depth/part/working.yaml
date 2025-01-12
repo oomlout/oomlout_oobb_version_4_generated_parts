@@ -1,68 +1,9 @@
-bip_39_word_dash_1: life
-bip_39_word_dash_10: life-coffee-fresh-lock-lottery-shed-ranch-tube-morning-improve
-bip_39_word_dash_11: life-coffee-fresh-lock-lottery-shed-ranch-tube-morning-improve-arrange
 bip_39_word_dash_12: life-coffee-fresh-lock-lottery-shed-ranch-tube-morning-improve-arrange-all
 bip_39_word_dash_2: life-coffee
 bip_39_word_dash_3: life-coffee-fresh
-bip_39_word_dash_4: life-coffee-fresh-lock
-bip_39_word_dash_5: life-coffee-fresh-lock-lottery
-bip_39_word_dash_6: life-coffee-fresh-lock-lottery-shed
-bip_39_word_dash_7: life-coffee-fresh-lock-lottery-shed-ranch
-bip_39_word_dash_8: life-coffee-fresh-lock-lottery-shed-ranch-tube
-bip_39_word_dash_9: life-coffee-fresh-lock-lottery-shed-ranch-tube-morning
-bip_39_word_new_br_1: life
-bip_39_word_new_br_10: life<br>coffee<br>fresh<br>lock<br>lottery<br>shed<br>ranch<br>tube<br>morning<br>improve
-bip_39_word_new_br_11: life<br>coffee<br>fresh<br>lock<br>lottery<br>shed<br>ranch<br>tube<br>morning<br>improve<br>arrange
 bip_39_word_new_br_12: life<br>coffee<br>fresh<br>lock<br>lottery<br>shed<br>ranch<br>tube<br>morning<br>improve<br>arrange<br>all
 bip_39_word_new_br_2: life<br>coffee
 bip_39_word_new_br_3: life<br>coffee<br>fresh
-bip_39_word_new_br_4: life<br>coffee<br>fresh<br>lock
-bip_39_word_new_br_5: life<br>coffee<br>fresh<br>lock<br>lottery
-bip_39_word_new_br_6: life<br>coffee<br>fresh<br>lock<br>lottery<br>shed
-bip_39_word_new_br_7: life<br>coffee<br>fresh<br>lock<br>lottery<br>shed<br>ranch
-bip_39_word_new_br_8: life<br>coffee<br>fresh<br>lock<br>lottery<br>shed<br>ranch<br>tube
-bip_39_word_new_br_9: life<br>coffee<br>fresh<br>lock<br>lottery<br>shed<br>ranch<br>tube<br>morning
-bip_39_word_new_line_1: life
-bip_39_word_new_line_10: 'life
-
-  coffee
-
-  fresh
-
-  lock
-
-  lottery
-
-  shed
-
-  ranch
-
-  tube
-
-  morning
-
-  improve'
-bip_39_word_new_line_11: 'life
-
-  coffee
-
-  fresh
-
-  lock
-
-  lottery
-
-  shed
-
-  ranch
-
-  tube
-
-  morning
-
-  improve
-
-  arrange'
 bip_39_word_new_line_12: 'life
 
   coffee
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'life
   coffee
 
   fresh'
-bip_39_word_new_line_4: 'life
-
-  coffee
-
-  fresh
-
-  lock'
-bip_39_word_new_line_5: 'life
-
-  coffee
-
-  fresh
-
-  lock
-
-  lottery'
-bip_39_word_new_line_6: 'life
-
-  coffee
-
-  fresh
-
-  lock
-
-  lottery
-
-  shed'
-bip_39_word_new_line_7: 'life
-
-  coffee
-
-  fresh
-
-  lock
-
-  lottery
-
-  shed
-
-  ranch'
-bip_39_word_new_line_8: 'life
-
-  coffee
-
-  fresh
-
-  lock
-
-  lottery
-
-  shed
-
-  ranch
-
-  tube'
-bip_39_word_new_line_9: 'life
-
-  coffee
-
-  fresh
-
-  lock
-
-  lottery
-
-  shed
-
-  ranch
-
-  tube
-
-  morning'
-bip_39_word_no_space_1: life
-bip_39_word_no_space_10: lifecoffeefreshlocklotteryshedranchtubemorningimprove
-bip_39_word_no_space_11: lifecoffeefreshlocklotteryshedranchtubemorningimprovearrange
 bip_39_word_no_space_12: lifecoffeefreshlocklotteryshedranchtubemorningimprovearrangeall
 bip_39_word_no_space_2: lifecoffee
 bip_39_word_no_space_3: lifecoffeefresh
-bip_39_word_no_space_4: lifecoffeefreshlock
-bip_39_word_no_space_5: lifecoffeefreshlocklottery
-bip_39_word_no_space_6: lifecoffeefreshlocklotteryshed
-bip_39_word_no_space_7: lifecoffeefreshlocklotteryshedranch
-bip_39_word_no_space_8: lifecoffeefreshlocklotteryshedranchtube
-bip_39_word_no_space_9: lifecoffeefreshlocklotteryshedranchtubemorning
-bip_39_word_space_0:
-- life
-- coffee
-- fresh
-- lock
-- lottery
-- shed
-- ranch
-- tube
-- morning
-- improve
-- arrange
-- all
-bip_39_word_space_1: life
-bip_39_word_space_10: life coffee fresh lock lottery shed ranch tube morning improve
-bip_39_word_space_11: life coffee fresh lock lottery shed ranch tube morning improve
-  arrange
 bip_39_word_space_12: life coffee fresh lock lottery shed ranch tube morning improve
   arrange all
 bip_39_word_space_2: life coffee
 bip_39_word_space_3: life coffee fresh
-bip_39_word_space_4: life coffee fresh lock
-bip_39_word_space_5: life coffee fresh lock lottery
-bip_39_word_space_6: life coffee fresh lock lottery shed
-bip_39_word_space_7: life coffee fresh lock lottery shed ranch
-bip_39_word_space_8: life coffee fresh lock lottery shed ranch tube
-bip_39_word_space_9: life coffee fresh lock lottery shed ranch tube morning
-bip_39_word_underscore_1: life
-bip_39_word_underscore_10: life_coffee_fresh_lock_lottery_shed_ranch_tube_morning_improve
-bip_39_word_underscore_11: life_coffee_fresh_lock_lottery_shed_ranch_tube_morning_improve_arrange
 bip_39_word_underscore_12: life_coffee_fresh_lock_lottery_shed_ranch_tube_morning_improve_arrange_all
 bip_39_word_underscore_2: life_coffee
 bip_39_word_underscore_3: life_coffee_fresh
-bip_39_word_underscore_4: life_coffee_fresh_lock
-bip_39_word_underscore_5: life_coffee_fresh_lock_lottery
-bip_39_word_underscore_6: life_coffee_fresh_lock_lottery_shed
-bip_39_word_underscore_7: life_coffee_fresh_lock_lottery_shed_ranch
-bip_39_word_underscore_8: life_coffee_fresh_lock_lottery_shed_ranch_tube
-bip_39_word_underscore_9: life_coffee_fresh_lock_lottery_shed_ranch_tube_morning
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

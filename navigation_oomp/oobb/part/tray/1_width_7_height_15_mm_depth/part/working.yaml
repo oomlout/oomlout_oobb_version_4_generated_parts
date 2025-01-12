@@ -1,68 +1,9 @@
-bip_39_word_dash_1: leaf
-bip_39_word_dash_10: leaf-scan-scene-you-patch-pet-decade-rhythm-lucky-boss
-bip_39_word_dash_11: leaf-scan-scene-you-patch-pet-decade-rhythm-lucky-boss-crisp
 bip_39_word_dash_12: leaf-scan-scene-you-patch-pet-decade-rhythm-lucky-boss-crisp-absorb
 bip_39_word_dash_2: leaf-scan
 bip_39_word_dash_3: leaf-scan-scene
-bip_39_word_dash_4: leaf-scan-scene-you
-bip_39_word_dash_5: leaf-scan-scene-you-patch
-bip_39_word_dash_6: leaf-scan-scene-you-patch-pet
-bip_39_word_dash_7: leaf-scan-scene-you-patch-pet-decade
-bip_39_word_dash_8: leaf-scan-scene-you-patch-pet-decade-rhythm
-bip_39_word_dash_9: leaf-scan-scene-you-patch-pet-decade-rhythm-lucky
-bip_39_word_new_br_1: leaf
-bip_39_word_new_br_10: leaf<br>scan<br>scene<br>you<br>patch<br>pet<br>decade<br>rhythm<br>lucky<br>boss
-bip_39_word_new_br_11: leaf<br>scan<br>scene<br>you<br>patch<br>pet<br>decade<br>rhythm<br>lucky<br>boss<br>crisp
 bip_39_word_new_br_12: leaf<br>scan<br>scene<br>you<br>patch<br>pet<br>decade<br>rhythm<br>lucky<br>boss<br>crisp<br>absorb
 bip_39_word_new_br_2: leaf<br>scan
 bip_39_word_new_br_3: leaf<br>scan<br>scene
-bip_39_word_new_br_4: leaf<br>scan<br>scene<br>you
-bip_39_word_new_br_5: leaf<br>scan<br>scene<br>you<br>patch
-bip_39_word_new_br_6: leaf<br>scan<br>scene<br>you<br>patch<br>pet
-bip_39_word_new_br_7: leaf<br>scan<br>scene<br>you<br>patch<br>pet<br>decade
-bip_39_word_new_br_8: leaf<br>scan<br>scene<br>you<br>patch<br>pet<br>decade<br>rhythm
-bip_39_word_new_br_9: leaf<br>scan<br>scene<br>you<br>patch<br>pet<br>decade<br>rhythm<br>lucky
-bip_39_word_new_line_1: leaf
-bip_39_word_new_line_10: 'leaf
-
-  scan
-
-  scene
-
-  you
-
-  patch
-
-  pet
-
-  decade
-
-  rhythm
-
-  lucky
-
-  boss'
-bip_39_word_new_line_11: 'leaf
-
-  scan
-
-  scene
-
-  you
-
-  patch
-
-  pet
-
-  decade
-
-  rhythm
-
-  lucky
-
-  boss
-
-  crisp'
 bip_39_word_new_line_12: 'leaf
 
   scan
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'leaf
   scan
 
   scene'
-bip_39_word_new_line_4: 'leaf
-
-  scan
-
-  scene
-
-  you'
-bip_39_word_new_line_5: 'leaf
-
-  scan
-
-  scene
-
-  you
-
-  patch'
-bip_39_word_new_line_6: 'leaf
-
-  scan
-
-  scene
-
-  you
-
-  patch
-
-  pet'
-bip_39_word_new_line_7: 'leaf
-
-  scan
-
-  scene
-
-  you
-
-  patch
-
-  pet
-
-  decade'
-bip_39_word_new_line_8: 'leaf
-
-  scan
-
-  scene
-
-  you
-
-  patch
-
-  pet
-
-  decade
-
-  rhythm'
-bip_39_word_new_line_9: 'leaf
-
-  scan
-
-  scene
-
-  you
-
-  patch
-
-  pet
-
-  decade
-
-  rhythm
-
-  lucky'
-bip_39_word_no_space_1: leaf
-bip_39_word_no_space_10: leafscansceneyoupatchpetdecaderhythmluckyboss
-bip_39_word_no_space_11: leafscansceneyoupatchpetdecaderhythmluckybosscrisp
 bip_39_word_no_space_12: leafscansceneyoupatchpetdecaderhythmluckybosscrispabsorb
 bip_39_word_no_space_2: leafscan
 bip_39_word_no_space_3: leafscanscene
-bip_39_word_no_space_4: leafscansceneyou
-bip_39_word_no_space_5: leafscansceneyoupatch
-bip_39_word_no_space_6: leafscansceneyoupatchpet
-bip_39_word_no_space_7: leafscansceneyoupatchpetdecade
-bip_39_word_no_space_8: leafscansceneyoupatchpetdecaderhythm
-bip_39_word_no_space_9: leafscansceneyoupatchpetdecaderhythmlucky
-bip_39_word_space_0:
-- leaf
-- scan
-- scene
-- you
-- patch
-- pet
-- decade
-- rhythm
-- lucky
-- boss
-- crisp
-- absorb
-bip_39_word_space_1: leaf
-bip_39_word_space_10: leaf scan scene you patch pet decade rhythm lucky boss
-bip_39_word_space_11: leaf scan scene you patch pet decade rhythm lucky boss crisp
 bip_39_word_space_12: leaf scan scene you patch pet decade rhythm lucky boss crisp
   absorb
 bip_39_word_space_2: leaf scan
 bip_39_word_space_3: leaf scan scene
-bip_39_word_space_4: leaf scan scene you
-bip_39_word_space_5: leaf scan scene you patch
-bip_39_word_space_6: leaf scan scene you patch pet
-bip_39_word_space_7: leaf scan scene you patch pet decade
-bip_39_word_space_8: leaf scan scene you patch pet decade rhythm
-bip_39_word_space_9: leaf scan scene you patch pet decade rhythm lucky
-bip_39_word_underscore_1: leaf
-bip_39_word_underscore_10: leaf_scan_scene_you_patch_pet_decade_rhythm_lucky_boss
-bip_39_word_underscore_11: leaf_scan_scene_you_patch_pet_decade_rhythm_lucky_boss_crisp
 bip_39_word_underscore_12: leaf_scan_scene_you_patch_pet_decade_rhythm_lucky_boss_crisp_absorb
 bip_39_word_underscore_2: leaf_scan
 bip_39_word_underscore_3: leaf_scan_scene
-bip_39_word_underscore_4: leaf_scan_scene_you
-bip_39_word_underscore_5: leaf_scan_scene_you_patch
-bip_39_word_underscore_6: leaf_scan_scene_you_patch_pet
-bip_39_word_underscore_7: leaf_scan_scene_you_patch_pet_decade
-bip_39_word_underscore_8: leaf_scan_scene_you_patch_pet_decade_rhythm
-bip_39_word_underscore_9: leaf_scan_scene_you_patch_pet_decade_rhythm_lucky
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

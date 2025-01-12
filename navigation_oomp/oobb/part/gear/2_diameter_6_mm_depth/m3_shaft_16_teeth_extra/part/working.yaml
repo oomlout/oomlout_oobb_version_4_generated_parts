@@ -1,68 +1,9 @@
-bip_39_word_dash_1: glide
-bip_39_word_dash_10: glide-human-calm-mutual-apple-broom-bracket-mule-mutual-glare
-bip_39_word_dash_11: glide-human-calm-mutual-apple-broom-bracket-mule-mutual-glare-gap
 bip_39_word_dash_12: glide-human-calm-mutual-apple-broom-bracket-mule-mutual-glare-gap-arrive
 bip_39_word_dash_2: glide-human
 bip_39_word_dash_3: glide-human-calm
-bip_39_word_dash_4: glide-human-calm-mutual
-bip_39_word_dash_5: glide-human-calm-mutual-apple
-bip_39_word_dash_6: glide-human-calm-mutual-apple-broom
-bip_39_word_dash_7: glide-human-calm-mutual-apple-broom-bracket
-bip_39_word_dash_8: glide-human-calm-mutual-apple-broom-bracket-mule
-bip_39_word_dash_9: glide-human-calm-mutual-apple-broom-bracket-mule-mutual
-bip_39_word_new_br_1: glide
-bip_39_word_new_br_10: glide<br>human<br>calm<br>mutual<br>apple<br>broom<br>bracket<br>mule<br>mutual<br>glare
-bip_39_word_new_br_11: glide<br>human<br>calm<br>mutual<br>apple<br>broom<br>bracket<br>mule<br>mutual<br>glare<br>gap
 bip_39_word_new_br_12: glide<br>human<br>calm<br>mutual<br>apple<br>broom<br>bracket<br>mule<br>mutual<br>glare<br>gap<br>arrive
 bip_39_word_new_br_2: glide<br>human
 bip_39_word_new_br_3: glide<br>human<br>calm
-bip_39_word_new_br_4: glide<br>human<br>calm<br>mutual
-bip_39_word_new_br_5: glide<br>human<br>calm<br>mutual<br>apple
-bip_39_word_new_br_6: glide<br>human<br>calm<br>mutual<br>apple<br>broom
-bip_39_word_new_br_7: glide<br>human<br>calm<br>mutual<br>apple<br>broom<br>bracket
-bip_39_word_new_br_8: glide<br>human<br>calm<br>mutual<br>apple<br>broom<br>bracket<br>mule
-bip_39_word_new_br_9: glide<br>human<br>calm<br>mutual<br>apple<br>broom<br>bracket<br>mule<br>mutual
-bip_39_word_new_line_1: glide
-bip_39_word_new_line_10: 'glide
-
-  human
-
-  calm
-
-  mutual
-
-  apple
-
-  broom
-
-  bracket
-
-  mule
-
-  mutual
-
-  glare'
-bip_39_word_new_line_11: 'glide
-
-  human
-
-  calm
-
-  mutual
-
-  apple
-
-  broom
-
-  bracket
-
-  mule
-
-  mutual
-
-  glare
-
-  gap'
 bip_39_word_new_line_12: 'glide
 
   human
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'glide
   human
 
   calm'
-bip_39_word_new_line_4: 'glide
-
-  human
-
-  calm
-
-  mutual'
-bip_39_word_new_line_5: 'glide
-
-  human
-
-  calm
-
-  mutual
-
-  apple'
-bip_39_word_new_line_6: 'glide
-
-  human
-
-  calm
-
-  mutual
-
-  apple
-
-  broom'
-bip_39_word_new_line_7: 'glide
-
-  human
-
-  calm
-
-  mutual
-
-  apple
-
-  broom
-
-  bracket'
-bip_39_word_new_line_8: 'glide
-
-  human
-
-  calm
-
-  mutual
-
-  apple
-
-  broom
-
-  bracket
-
-  mule'
-bip_39_word_new_line_9: 'glide
-
-  human
-
-  calm
-
-  mutual
-
-  apple
-
-  broom
-
-  bracket
-
-  mule
-
-  mutual'
-bip_39_word_no_space_1: glide
-bip_39_word_no_space_10: glidehumancalmmutualapplebroombracketmulemutualglare
-bip_39_word_no_space_11: glidehumancalmmutualapplebroombracketmulemutualglaregap
 bip_39_word_no_space_12: glidehumancalmmutualapplebroombracketmulemutualglaregaparrive
 bip_39_word_no_space_2: glidehuman
 bip_39_word_no_space_3: glidehumancalm
-bip_39_word_no_space_4: glidehumancalmmutual
-bip_39_word_no_space_5: glidehumancalmmutualapple
-bip_39_word_no_space_6: glidehumancalmmutualapplebroom
-bip_39_word_no_space_7: glidehumancalmmutualapplebroombracket
-bip_39_word_no_space_8: glidehumancalmmutualapplebroombracketmule
-bip_39_word_no_space_9: glidehumancalmmutualapplebroombracketmulemutual
-bip_39_word_space_0:
-- glide
-- human
-- calm
-- mutual
-- apple
-- broom
-- bracket
-- mule
-- mutual
-- glare
-- gap
-- arrive
-bip_39_word_space_1: glide
-bip_39_word_space_10: glide human calm mutual apple broom bracket mule mutual glare
-bip_39_word_space_11: glide human calm mutual apple broom bracket mule mutual glare
-  gap
 bip_39_word_space_12: glide human calm mutual apple broom bracket mule mutual glare
   gap arrive
 bip_39_word_space_2: glide human
 bip_39_word_space_3: glide human calm
-bip_39_word_space_4: glide human calm mutual
-bip_39_word_space_5: glide human calm mutual apple
-bip_39_word_space_6: glide human calm mutual apple broom
-bip_39_word_space_7: glide human calm mutual apple broom bracket
-bip_39_word_space_8: glide human calm mutual apple broom bracket mule
-bip_39_word_space_9: glide human calm mutual apple broom bracket mule mutual
-bip_39_word_underscore_1: glide
-bip_39_word_underscore_10: glide_human_calm_mutual_apple_broom_bracket_mule_mutual_glare
-bip_39_word_underscore_11: glide_human_calm_mutual_apple_broom_bracket_mule_mutual_glare_gap
 bip_39_word_underscore_12: glide_human_calm_mutual_apple_broom_bracket_mule_mutual_glare_gap_arrive
 bip_39_word_underscore_2: glide_human
 bip_39_word_underscore_3: glide_human_calm
-bip_39_word_underscore_4: glide_human_calm_mutual
-bip_39_word_underscore_5: glide_human_calm_mutual_apple
-bip_39_word_underscore_6: glide_human_calm_mutual_apple_broom
-bip_39_word_underscore_7: glide_human_calm_mutual_apple_broom_bracket
-bip_39_word_underscore_8: glide_human_calm_mutual_apple_broom_bracket_mule
-bip_39_word_underscore_9: glide_human_calm_mutual_apple_broom_bracket_mule_mutual
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

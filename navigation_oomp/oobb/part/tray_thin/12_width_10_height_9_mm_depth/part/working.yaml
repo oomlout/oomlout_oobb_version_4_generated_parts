@@ -1,68 +1,9 @@
-bip_39_word_dash_1: base
-bip_39_word_dash_10: base-oblige-expose-behave-tennis-immune-review-catalog-ostrich-shed
-bip_39_word_dash_11: base-oblige-expose-behave-tennis-immune-review-catalog-ostrich-shed-business
 bip_39_word_dash_12: base-oblige-expose-behave-tennis-immune-review-catalog-ostrich-shed-business-attend
 bip_39_word_dash_2: base-oblige
 bip_39_word_dash_3: base-oblige-expose
-bip_39_word_dash_4: base-oblige-expose-behave
-bip_39_word_dash_5: base-oblige-expose-behave-tennis
-bip_39_word_dash_6: base-oblige-expose-behave-tennis-immune
-bip_39_word_dash_7: base-oblige-expose-behave-tennis-immune-review
-bip_39_word_dash_8: base-oblige-expose-behave-tennis-immune-review-catalog
-bip_39_word_dash_9: base-oblige-expose-behave-tennis-immune-review-catalog-ostrich
-bip_39_word_new_br_1: base
-bip_39_word_new_br_10: base<br>oblige<br>expose<br>behave<br>tennis<br>immune<br>review<br>catalog<br>ostrich<br>shed
-bip_39_word_new_br_11: base<br>oblige<br>expose<br>behave<br>tennis<br>immune<br>review<br>catalog<br>ostrich<br>shed<br>business
 bip_39_word_new_br_12: base<br>oblige<br>expose<br>behave<br>tennis<br>immune<br>review<br>catalog<br>ostrich<br>shed<br>business<br>attend
 bip_39_word_new_br_2: base<br>oblige
 bip_39_word_new_br_3: base<br>oblige<br>expose
-bip_39_word_new_br_4: base<br>oblige<br>expose<br>behave
-bip_39_word_new_br_5: base<br>oblige<br>expose<br>behave<br>tennis
-bip_39_word_new_br_6: base<br>oblige<br>expose<br>behave<br>tennis<br>immune
-bip_39_word_new_br_7: base<br>oblige<br>expose<br>behave<br>tennis<br>immune<br>review
-bip_39_word_new_br_8: base<br>oblige<br>expose<br>behave<br>tennis<br>immune<br>review<br>catalog
-bip_39_word_new_br_9: base<br>oblige<br>expose<br>behave<br>tennis<br>immune<br>review<br>catalog<br>ostrich
-bip_39_word_new_line_1: base
-bip_39_word_new_line_10: 'base
-
-  oblige
-
-  expose
-
-  behave
-
-  tennis
-
-  immune
-
-  review
-
-  catalog
-
-  ostrich
-
-  shed'
-bip_39_word_new_line_11: 'base
-
-  oblige
-
-  expose
-
-  behave
-
-  tennis
-
-  immune
-
-  review
-
-  catalog
-
-  ostrich
-
-  shed
-
-  business'
 bip_39_word_new_line_12: 'base
 
   oblige
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'base
   oblige
 
   expose'
-bip_39_word_new_line_4: 'base
-
-  oblige
-
-  expose
-
-  behave'
-bip_39_word_new_line_5: 'base
-
-  oblige
-
-  expose
-
-  behave
-
-  tennis'
-bip_39_word_new_line_6: 'base
-
-  oblige
-
-  expose
-
-  behave
-
-  tennis
-
-  immune'
-bip_39_word_new_line_7: 'base
-
-  oblige
-
-  expose
-
-  behave
-
-  tennis
-
-  immune
-
-  review'
-bip_39_word_new_line_8: 'base
-
-  oblige
-
-  expose
-
-  behave
-
-  tennis
-
-  immune
-
-  review
-
-  catalog'
-bip_39_word_new_line_9: 'base
-
-  oblige
-
-  expose
-
-  behave
-
-  tennis
-
-  immune
-
-  review
-
-  catalog
-
-  ostrich'
-bip_39_word_no_space_1: base
-bip_39_word_no_space_10: baseobligeexposebehavetennisimmunereviewcatalogostrichshed
-bip_39_word_no_space_11: baseobligeexposebehavetennisimmunereviewcatalogostrichshedbusiness
 bip_39_word_no_space_12: baseobligeexposebehavetennisimmunereviewcatalogostrichshedbusinessattend
 bip_39_word_no_space_2: baseoblige
 bip_39_word_no_space_3: baseobligeexpose
-bip_39_word_no_space_4: baseobligeexposebehave
-bip_39_word_no_space_5: baseobligeexposebehavetennis
-bip_39_word_no_space_6: baseobligeexposebehavetennisimmune
-bip_39_word_no_space_7: baseobligeexposebehavetennisimmunereview
-bip_39_word_no_space_8: baseobligeexposebehavetennisimmunereviewcatalog
-bip_39_word_no_space_9: baseobligeexposebehavetennisimmunereviewcatalogostrich
-bip_39_word_space_0:
-- base
-- oblige
-- expose
-- behave
-- tennis
-- immune
-- review
-- catalog
-- ostrich
-- shed
-- business
-- attend
-bip_39_word_space_1: base
-bip_39_word_space_10: base oblige expose behave tennis immune review catalog ostrich
-  shed
-bip_39_word_space_11: base oblige expose behave tennis immune review catalog ostrich
-  shed business
 bip_39_word_space_12: base oblige expose behave tennis immune review catalog ostrich
   shed business attend
 bip_39_word_space_2: base oblige
 bip_39_word_space_3: base oblige expose
-bip_39_word_space_4: base oblige expose behave
-bip_39_word_space_5: base oblige expose behave tennis
-bip_39_word_space_6: base oblige expose behave tennis immune
-bip_39_word_space_7: base oblige expose behave tennis immune review
-bip_39_word_space_8: base oblige expose behave tennis immune review catalog
-bip_39_word_space_9: base oblige expose behave tennis immune review catalog ostrich
-bip_39_word_underscore_1: base
-bip_39_word_underscore_10: base_oblige_expose_behave_tennis_immune_review_catalog_ostrich_shed
-bip_39_word_underscore_11: base_oblige_expose_behave_tennis_immune_review_catalog_ostrich_shed_business
 bip_39_word_underscore_12: base_oblige_expose_behave_tennis_immune_review_catalog_ostrich_shed_business_attend
 bip_39_word_underscore_2: base_oblige
 bip_39_word_underscore_3: base_oblige_expose
-bip_39_word_underscore_4: base_oblige_expose_behave
-bip_39_word_underscore_5: base_oblige_expose_behave_tennis
-bip_39_word_underscore_6: base_oblige_expose_behave_tennis_immune
-bip_39_word_underscore_7: base_oblige_expose_behave_tennis_immune_review
-bip_39_word_underscore_8: base_oblige_expose_behave_tennis_immune_review_catalog
-bip_39_word_underscore_9: base_oblige_expose_behave_tennis_immune_review_catalog_ostrich
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

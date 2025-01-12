@@ -1,68 +1,9 @@
-bip_39_word_dash_1: inject
-bip_39_word_dash_10: inject-media-noodle-cricket-maze-unable-chalk-spawn-poverty-dawn
-bip_39_word_dash_11: inject-media-noodle-cricket-maze-unable-chalk-spawn-poverty-dawn-choose
 bip_39_word_dash_12: inject-media-noodle-cricket-maze-unable-chalk-spawn-poverty-dawn-choose-appear
 bip_39_word_dash_2: inject-media
 bip_39_word_dash_3: inject-media-noodle
-bip_39_word_dash_4: inject-media-noodle-cricket
-bip_39_word_dash_5: inject-media-noodle-cricket-maze
-bip_39_word_dash_6: inject-media-noodle-cricket-maze-unable
-bip_39_word_dash_7: inject-media-noodle-cricket-maze-unable-chalk
-bip_39_word_dash_8: inject-media-noodle-cricket-maze-unable-chalk-spawn
-bip_39_word_dash_9: inject-media-noodle-cricket-maze-unable-chalk-spawn-poverty
-bip_39_word_new_br_1: inject
-bip_39_word_new_br_10: inject<br>media<br>noodle<br>cricket<br>maze<br>unable<br>chalk<br>spawn<br>poverty<br>dawn
-bip_39_word_new_br_11: inject<br>media<br>noodle<br>cricket<br>maze<br>unable<br>chalk<br>spawn<br>poverty<br>dawn<br>choose
 bip_39_word_new_br_12: inject<br>media<br>noodle<br>cricket<br>maze<br>unable<br>chalk<br>spawn<br>poverty<br>dawn<br>choose<br>appear
 bip_39_word_new_br_2: inject<br>media
 bip_39_word_new_br_3: inject<br>media<br>noodle
-bip_39_word_new_br_4: inject<br>media<br>noodle<br>cricket
-bip_39_word_new_br_5: inject<br>media<br>noodle<br>cricket<br>maze
-bip_39_word_new_br_6: inject<br>media<br>noodle<br>cricket<br>maze<br>unable
-bip_39_word_new_br_7: inject<br>media<br>noodle<br>cricket<br>maze<br>unable<br>chalk
-bip_39_word_new_br_8: inject<br>media<br>noodle<br>cricket<br>maze<br>unable<br>chalk<br>spawn
-bip_39_word_new_br_9: inject<br>media<br>noodle<br>cricket<br>maze<br>unable<br>chalk<br>spawn<br>poverty
-bip_39_word_new_line_1: inject
-bip_39_word_new_line_10: 'inject
-
-  media
-
-  noodle
-
-  cricket
-
-  maze
-
-  unable
-
-  chalk
-
-  spawn
-
-  poverty
-
-  dawn'
-bip_39_word_new_line_11: 'inject
-
-  media
-
-  noodle
-
-  cricket
-
-  maze
-
-  unable
-
-  chalk
-
-  spawn
-
-  poverty
-
-  dawn
-
-  choose'
 bip_39_word_new_line_12: 'inject
 
   media
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'inject
   media
 
   noodle'
-bip_39_word_new_line_4: 'inject
-
-  media
-
-  noodle
-
-  cricket'
-bip_39_word_new_line_5: 'inject
-
-  media
-
-  noodle
-
-  cricket
-
-  maze'
-bip_39_word_new_line_6: 'inject
-
-  media
-
-  noodle
-
-  cricket
-
-  maze
-
-  unable'
-bip_39_word_new_line_7: 'inject
-
-  media
-
-  noodle
-
-  cricket
-
-  maze
-
-  unable
-
-  chalk'
-bip_39_word_new_line_8: 'inject
-
-  media
-
-  noodle
-
-  cricket
-
-  maze
-
-  unable
-
-  chalk
-
-  spawn'
-bip_39_word_new_line_9: 'inject
-
-  media
-
-  noodle
-
-  cricket
-
-  maze
-
-  unable
-
-  chalk
-
-  spawn
-
-  poverty'
-bip_39_word_no_space_1: inject
-bip_39_word_no_space_10: injectmedianoodlecricketmazeunablechalkspawnpovertydawn
-bip_39_word_no_space_11: injectmedianoodlecricketmazeunablechalkspawnpovertydawnchoose
 bip_39_word_no_space_12: injectmedianoodlecricketmazeunablechalkspawnpovertydawnchooseappear
 bip_39_word_no_space_2: injectmedia
 bip_39_word_no_space_3: injectmedianoodle
-bip_39_word_no_space_4: injectmedianoodlecricket
-bip_39_word_no_space_5: injectmedianoodlecricketmaze
-bip_39_word_no_space_6: injectmedianoodlecricketmazeunable
-bip_39_word_no_space_7: injectmedianoodlecricketmazeunablechalk
-bip_39_word_no_space_8: injectmedianoodlecricketmazeunablechalkspawn
-bip_39_word_no_space_9: injectmedianoodlecricketmazeunablechalkspawnpoverty
-bip_39_word_space_0:
-- inject
-- media
-- noodle
-- cricket
-- maze
-- unable
-- chalk
-- spawn
-- poverty
-- dawn
-- choose
-- appear
-bip_39_word_space_1: inject
-bip_39_word_space_10: inject media noodle cricket maze unable chalk spawn poverty
-  dawn
-bip_39_word_space_11: inject media noodle cricket maze unable chalk spawn poverty
-  dawn choose
 bip_39_word_space_12: inject media noodle cricket maze unable chalk spawn poverty
   dawn choose appear
 bip_39_word_space_2: inject media
 bip_39_word_space_3: inject media noodle
-bip_39_word_space_4: inject media noodle cricket
-bip_39_word_space_5: inject media noodle cricket maze
-bip_39_word_space_6: inject media noodle cricket maze unable
-bip_39_word_space_7: inject media noodle cricket maze unable chalk
-bip_39_word_space_8: inject media noodle cricket maze unable chalk spawn
-bip_39_word_space_9: inject media noodle cricket maze unable chalk spawn poverty
-bip_39_word_underscore_1: inject
-bip_39_word_underscore_10: inject_media_noodle_cricket_maze_unable_chalk_spawn_poverty_dawn
-bip_39_word_underscore_11: inject_media_noodle_cricket_maze_unable_chalk_spawn_poverty_dawn_choose
 bip_39_word_underscore_12: inject_media_noodle_cricket_maze_unable_chalk_spawn_poverty_dawn_choose_appear
 bip_39_word_underscore_2: inject_media
 bip_39_word_underscore_3: inject_media_noodle
-bip_39_word_underscore_4: inject_media_noodle_cricket
-bip_39_word_underscore_5: inject_media_noodle_cricket_maze
-bip_39_word_underscore_6: inject_media_noodle_cricket_maze_unable
-bip_39_word_underscore_7: inject_media_noodle_cricket_maze_unable_chalk
-bip_39_word_underscore_8: inject_media_noodle_cricket_maze_unable_chalk_spawn
-bip_39_word_underscore_9: inject_media_noodle_cricket_maze_unable_chalk_spawn_poverty
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: kid
-bip_39_word_dash_10: kid-host-mad-visit-trip-margin-monkey-obscure-black-orbit
-bip_39_word_dash_11: kid-host-mad-visit-trip-margin-monkey-obscure-black-orbit-raise
 bip_39_word_dash_12: kid-host-mad-visit-trip-margin-monkey-obscure-black-orbit-raise-angle
 bip_39_word_dash_2: kid-host
 bip_39_word_dash_3: kid-host-mad
-bip_39_word_dash_4: kid-host-mad-visit
-bip_39_word_dash_5: kid-host-mad-visit-trip
-bip_39_word_dash_6: kid-host-mad-visit-trip-margin
-bip_39_word_dash_7: kid-host-mad-visit-trip-margin-monkey
-bip_39_word_dash_8: kid-host-mad-visit-trip-margin-monkey-obscure
-bip_39_word_dash_9: kid-host-mad-visit-trip-margin-monkey-obscure-black
-bip_39_word_new_br_1: kid
-bip_39_word_new_br_10: kid<br>host<br>mad<br>visit<br>trip<br>margin<br>monkey<br>obscure<br>black<br>orbit
-bip_39_word_new_br_11: kid<br>host<br>mad<br>visit<br>trip<br>margin<br>monkey<br>obscure<br>black<br>orbit<br>raise
 bip_39_word_new_br_12: kid<br>host<br>mad<br>visit<br>trip<br>margin<br>monkey<br>obscure<br>black<br>orbit<br>raise<br>angle
 bip_39_word_new_br_2: kid<br>host
 bip_39_word_new_br_3: kid<br>host<br>mad
-bip_39_word_new_br_4: kid<br>host<br>mad<br>visit
-bip_39_word_new_br_5: kid<br>host<br>mad<br>visit<br>trip
-bip_39_word_new_br_6: kid<br>host<br>mad<br>visit<br>trip<br>margin
-bip_39_word_new_br_7: kid<br>host<br>mad<br>visit<br>trip<br>margin<br>monkey
-bip_39_word_new_br_8: kid<br>host<br>mad<br>visit<br>trip<br>margin<br>monkey<br>obscure
-bip_39_word_new_br_9: kid<br>host<br>mad<br>visit<br>trip<br>margin<br>monkey<br>obscure<br>black
-bip_39_word_new_line_1: kid
-bip_39_word_new_line_10: 'kid
-
-  host
-
-  mad
-
-  visit
-
-  trip
-
-  margin
-
-  monkey
-
-  obscure
-
-  black
-
-  orbit'
-bip_39_word_new_line_11: 'kid
-
-  host
-
-  mad
-
-  visit
-
-  trip
-
-  margin
-
-  monkey
-
-  obscure
-
-  black
-
-  orbit
-
-  raise'
 bip_39_word_new_line_12: 'kid
 
   host
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'kid
   host
 
   mad'
-bip_39_word_new_line_4: 'kid
-
-  host
-
-  mad
-
-  visit'
-bip_39_word_new_line_5: 'kid
-
-  host
-
-  mad
-
-  visit
-
-  trip'
-bip_39_word_new_line_6: 'kid
-
-  host
-
-  mad
-
-  visit
-
-  trip
-
-  margin'
-bip_39_word_new_line_7: 'kid
-
-  host
-
-  mad
-
-  visit
-
-  trip
-
-  margin
-
-  monkey'
-bip_39_word_new_line_8: 'kid
-
-  host
-
-  mad
-
-  visit
-
-  trip
-
-  margin
-
-  monkey
-
-  obscure'
-bip_39_word_new_line_9: 'kid
-
-  host
-
-  mad
-
-  visit
-
-  trip
-
-  margin
-
-  monkey
-
-  obscure
-
-  black'
-bip_39_word_no_space_1: kid
-bip_39_word_no_space_10: kidhostmadvisittripmarginmonkeyobscureblackorbit
-bip_39_word_no_space_11: kidhostmadvisittripmarginmonkeyobscureblackorbitraise
 bip_39_word_no_space_12: kidhostmadvisittripmarginmonkeyobscureblackorbitraiseangle
 bip_39_word_no_space_2: kidhost
 bip_39_word_no_space_3: kidhostmad
-bip_39_word_no_space_4: kidhostmadvisit
-bip_39_word_no_space_5: kidhostmadvisittrip
-bip_39_word_no_space_6: kidhostmadvisittripmargin
-bip_39_word_no_space_7: kidhostmadvisittripmarginmonkey
-bip_39_word_no_space_8: kidhostmadvisittripmarginmonkeyobscure
-bip_39_word_no_space_9: kidhostmadvisittripmarginmonkeyobscureblack
-bip_39_word_space_0:
-- kid
-- host
-- mad
-- visit
-- trip
-- margin
-- monkey
-- obscure
-- black
-- orbit
-- raise
-- angle
-bip_39_word_space_1: kid
-bip_39_word_space_10: kid host mad visit trip margin monkey obscure black orbit
-bip_39_word_space_11: kid host mad visit trip margin monkey obscure black orbit raise
 bip_39_word_space_12: kid host mad visit trip margin monkey obscure black orbit raise
   angle
 bip_39_word_space_2: kid host
 bip_39_word_space_3: kid host mad
-bip_39_word_space_4: kid host mad visit
-bip_39_word_space_5: kid host mad visit trip
-bip_39_word_space_6: kid host mad visit trip margin
-bip_39_word_space_7: kid host mad visit trip margin monkey
-bip_39_word_space_8: kid host mad visit trip margin monkey obscure
-bip_39_word_space_9: kid host mad visit trip margin monkey obscure black
-bip_39_word_underscore_1: kid
-bip_39_word_underscore_10: kid_host_mad_visit_trip_margin_monkey_obscure_black_orbit
-bip_39_word_underscore_11: kid_host_mad_visit_trip_margin_monkey_obscure_black_orbit_raise
 bip_39_word_underscore_12: kid_host_mad_visit_trip_margin_monkey_obscure_black_orbit_raise_angle
 bip_39_word_underscore_2: kid_host
 bip_39_word_underscore_3: kid_host_mad
-bip_39_word_underscore_4: kid_host_mad_visit
-bip_39_word_underscore_5: kid_host_mad_visit_trip
-bip_39_word_underscore_6: kid_host_mad_visit_trip_margin
-bip_39_word_underscore_7: kid_host_mad_visit_trip_margin_monkey
-bip_39_word_underscore_8: kid_host_mad_visit_trip_margin_monkey_obscure
-bip_39_word_underscore_9: kid_host_mad_visit_trip_margin_monkey_obscure_black
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

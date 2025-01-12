@@ -1,68 +1,9 @@
-bip_39_word_dash_1: exclude
-bip_39_word_dash_10: exclude-soap-century-animal-rate-basket-behave-suspect-inject-accuse
-bip_39_word_dash_11: exclude-soap-century-animal-rate-basket-behave-suspect-inject-accuse-harvest
 bip_39_word_dash_12: exclude-soap-century-animal-rate-basket-behave-suspect-inject-accuse-harvest-abuse
 bip_39_word_dash_2: exclude-soap
 bip_39_word_dash_3: exclude-soap-century
-bip_39_word_dash_4: exclude-soap-century-animal
-bip_39_word_dash_5: exclude-soap-century-animal-rate
-bip_39_word_dash_6: exclude-soap-century-animal-rate-basket
-bip_39_word_dash_7: exclude-soap-century-animal-rate-basket-behave
-bip_39_word_dash_8: exclude-soap-century-animal-rate-basket-behave-suspect
-bip_39_word_dash_9: exclude-soap-century-animal-rate-basket-behave-suspect-inject
-bip_39_word_new_br_1: exclude
-bip_39_word_new_br_10: exclude<br>soap<br>century<br>animal<br>rate<br>basket<br>behave<br>suspect<br>inject<br>accuse
-bip_39_word_new_br_11: exclude<br>soap<br>century<br>animal<br>rate<br>basket<br>behave<br>suspect<br>inject<br>accuse<br>harvest
 bip_39_word_new_br_12: exclude<br>soap<br>century<br>animal<br>rate<br>basket<br>behave<br>suspect<br>inject<br>accuse<br>harvest<br>abuse
 bip_39_word_new_br_2: exclude<br>soap
 bip_39_word_new_br_3: exclude<br>soap<br>century
-bip_39_word_new_br_4: exclude<br>soap<br>century<br>animal
-bip_39_word_new_br_5: exclude<br>soap<br>century<br>animal<br>rate
-bip_39_word_new_br_6: exclude<br>soap<br>century<br>animal<br>rate<br>basket
-bip_39_word_new_br_7: exclude<br>soap<br>century<br>animal<br>rate<br>basket<br>behave
-bip_39_word_new_br_8: exclude<br>soap<br>century<br>animal<br>rate<br>basket<br>behave<br>suspect
-bip_39_word_new_br_9: exclude<br>soap<br>century<br>animal<br>rate<br>basket<br>behave<br>suspect<br>inject
-bip_39_word_new_line_1: exclude
-bip_39_word_new_line_10: 'exclude
-
-  soap
-
-  century
-
-  animal
-
-  rate
-
-  basket
-
-  behave
-
-  suspect
-
-  inject
-
-  accuse'
-bip_39_word_new_line_11: 'exclude
-
-  soap
-
-  century
-
-  animal
-
-  rate
-
-  basket
-
-  behave
-
-  suspect
-
-  inject
-
-  accuse
-
-  harvest'
 bip_39_word_new_line_12: 'exclude
 
   soap
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'exclude
   soap
 
   century'
-bip_39_word_new_line_4: 'exclude
-
-  soap
-
-  century
-
-  animal'
-bip_39_word_new_line_5: 'exclude
-
-  soap
-
-  century
-
-  animal
-
-  rate'
-bip_39_word_new_line_6: 'exclude
-
-  soap
-
-  century
-
-  animal
-
-  rate
-
-  basket'
-bip_39_word_new_line_7: 'exclude
-
-  soap
-
-  century
-
-  animal
-
-  rate
-
-  basket
-
-  behave'
-bip_39_word_new_line_8: 'exclude
-
-  soap
-
-  century
-
-  animal
-
-  rate
-
-  basket
-
-  behave
-
-  suspect'
-bip_39_word_new_line_9: 'exclude
-
-  soap
-
-  century
-
-  animal
-
-  rate
-
-  basket
-
-  behave
-
-  suspect
-
-  inject'
-bip_39_word_no_space_1: exclude
-bip_39_word_no_space_10: excludesoapcenturyanimalratebasketbehavesuspectinjectaccuse
-bip_39_word_no_space_11: excludesoapcenturyanimalratebasketbehavesuspectinjectaccuseharvest
 bip_39_word_no_space_12: excludesoapcenturyanimalratebasketbehavesuspectinjectaccuseharvestabuse
 bip_39_word_no_space_2: excludesoap
 bip_39_word_no_space_3: excludesoapcentury
-bip_39_word_no_space_4: excludesoapcenturyanimal
-bip_39_word_no_space_5: excludesoapcenturyanimalrate
-bip_39_word_no_space_6: excludesoapcenturyanimalratebasket
-bip_39_word_no_space_7: excludesoapcenturyanimalratebasketbehave
-bip_39_word_no_space_8: excludesoapcenturyanimalratebasketbehavesuspect
-bip_39_word_no_space_9: excludesoapcenturyanimalratebasketbehavesuspectinject
-bip_39_word_space_0:
-- exclude
-- soap
-- century
-- animal
-- rate
-- basket
-- behave
-- suspect
-- inject
-- accuse
-- harvest
-- abuse
-bip_39_word_space_1: exclude
-bip_39_word_space_10: exclude soap century animal rate basket behave suspect inject
-  accuse
-bip_39_word_space_11: exclude soap century animal rate basket behave suspect inject
-  accuse harvest
 bip_39_word_space_12: exclude soap century animal rate basket behave suspect inject
   accuse harvest abuse
 bip_39_word_space_2: exclude soap
 bip_39_word_space_3: exclude soap century
-bip_39_word_space_4: exclude soap century animal
-bip_39_word_space_5: exclude soap century animal rate
-bip_39_word_space_6: exclude soap century animal rate basket
-bip_39_word_space_7: exclude soap century animal rate basket behave
-bip_39_word_space_8: exclude soap century animal rate basket behave suspect
-bip_39_word_space_9: exclude soap century animal rate basket behave suspect inject
-bip_39_word_underscore_1: exclude
-bip_39_word_underscore_10: exclude_soap_century_animal_rate_basket_behave_suspect_inject_accuse
-bip_39_word_underscore_11: exclude_soap_century_animal_rate_basket_behave_suspect_inject_accuse_harvest
 bip_39_word_underscore_12: exclude_soap_century_animal_rate_basket_behave_suspect_inject_accuse_harvest_abuse
 bip_39_word_underscore_2: exclude_soap
 bip_39_word_underscore_3: exclude_soap_century
-bip_39_word_underscore_4: exclude_soap_century_animal
-bip_39_word_underscore_5: exclude_soap_century_animal_rate
-bip_39_word_underscore_6: exclude_soap_century_animal_rate_basket
-bip_39_word_underscore_7: exclude_soap_century_animal_rate_basket_behave
-bip_39_word_underscore_8: exclude_soap_century_animal_rate_basket_behave_suspect
-bip_39_word_underscore_9: exclude_soap_century_animal_rate_basket_behave_suspect_inject
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

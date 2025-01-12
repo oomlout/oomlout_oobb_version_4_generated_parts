@@ -1,68 +1,9 @@
-bip_39_word_dash_1: arrest
-bip_39_word_dash_10: arrest-test-toy-divorce-window-evidence-dinner-crisp-budget-mutual
-bip_39_word_dash_11: arrest-test-toy-divorce-window-evidence-dinner-crisp-budget-mutual-suspect
 bip_39_word_dash_12: arrest-test-toy-divorce-window-evidence-dinner-crisp-budget-mutual-suspect-arch
 bip_39_word_dash_2: arrest-test
 bip_39_word_dash_3: arrest-test-toy
-bip_39_word_dash_4: arrest-test-toy-divorce
-bip_39_word_dash_5: arrest-test-toy-divorce-window
-bip_39_word_dash_6: arrest-test-toy-divorce-window-evidence
-bip_39_word_dash_7: arrest-test-toy-divorce-window-evidence-dinner
-bip_39_word_dash_8: arrest-test-toy-divorce-window-evidence-dinner-crisp
-bip_39_word_dash_9: arrest-test-toy-divorce-window-evidence-dinner-crisp-budget
-bip_39_word_new_br_1: arrest
-bip_39_word_new_br_10: arrest<br>test<br>toy<br>divorce<br>window<br>evidence<br>dinner<br>crisp<br>budget<br>mutual
-bip_39_word_new_br_11: arrest<br>test<br>toy<br>divorce<br>window<br>evidence<br>dinner<br>crisp<br>budget<br>mutual<br>suspect
 bip_39_word_new_br_12: arrest<br>test<br>toy<br>divorce<br>window<br>evidence<br>dinner<br>crisp<br>budget<br>mutual<br>suspect<br>arch
 bip_39_word_new_br_2: arrest<br>test
 bip_39_word_new_br_3: arrest<br>test<br>toy
-bip_39_word_new_br_4: arrest<br>test<br>toy<br>divorce
-bip_39_word_new_br_5: arrest<br>test<br>toy<br>divorce<br>window
-bip_39_word_new_br_6: arrest<br>test<br>toy<br>divorce<br>window<br>evidence
-bip_39_word_new_br_7: arrest<br>test<br>toy<br>divorce<br>window<br>evidence<br>dinner
-bip_39_word_new_br_8: arrest<br>test<br>toy<br>divorce<br>window<br>evidence<br>dinner<br>crisp
-bip_39_word_new_br_9: arrest<br>test<br>toy<br>divorce<br>window<br>evidence<br>dinner<br>crisp<br>budget
-bip_39_word_new_line_1: arrest
-bip_39_word_new_line_10: 'arrest
-
-  test
-
-  toy
-
-  divorce
-
-  window
-
-  evidence
-
-  dinner
-
-  crisp
-
-  budget
-
-  mutual'
-bip_39_word_new_line_11: 'arrest
-
-  test
-
-  toy
-
-  divorce
-
-  window
-
-  evidence
-
-  dinner
-
-  crisp
-
-  budget
-
-  mutual
-
-  suspect'
 bip_39_word_new_line_12: 'arrest
 
   test
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'arrest
   test
 
   toy'
-bip_39_word_new_line_4: 'arrest
-
-  test
-
-  toy
-
-  divorce'
-bip_39_word_new_line_5: 'arrest
-
-  test
-
-  toy
-
-  divorce
-
-  window'
-bip_39_word_new_line_6: 'arrest
-
-  test
-
-  toy
-
-  divorce
-
-  window
-
-  evidence'
-bip_39_word_new_line_7: 'arrest
-
-  test
-
-  toy
-
-  divorce
-
-  window
-
-  evidence
-
-  dinner'
-bip_39_word_new_line_8: 'arrest
-
-  test
-
-  toy
-
-  divorce
-
-  window
-
-  evidence
-
-  dinner
-
-  crisp'
-bip_39_word_new_line_9: 'arrest
-
-  test
-
-  toy
-
-  divorce
-
-  window
-
-  evidence
-
-  dinner
-
-  crisp
-
-  budget'
-bip_39_word_no_space_1: arrest
-bip_39_word_no_space_10: arresttesttoydivorcewindowevidencedinnercrispbudgetmutual
-bip_39_word_no_space_11: arresttesttoydivorcewindowevidencedinnercrispbudgetmutualsuspect
 bip_39_word_no_space_12: arresttesttoydivorcewindowevidencedinnercrispbudgetmutualsuspectarch
 bip_39_word_no_space_2: arresttest
 bip_39_word_no_space_3: arresttesttoy
-bip_39_word_no_space_4: arresttesttoydivorce
-bip_39_word_no_space_5: arresttesttoydivorcewindow
-bip_39_word_no_space_6: arresttesttoydivorcewindowevidence
-bip_39_word_no_space_7: arresttesttoydivorcewindowevidencedinner
-bip_39_word_no_space_8: arresttesttoydivorcewindowevidencedinnercrisp
-bip_39_word_no_space_9: arresttesttoydivorcewindowevidencedinnercrispbudget
-bip_39_word_space_0:
-- arrest
-- test
-- toy
-- divorce
-- window
-- evidence
-- dinner
-- crisp
-- budget
-- mutual
-- suspect
-- arch
-bip_39_word_space_1: arrest
-bip_39_word_space_10: arrest test toy divorce window evidence dinner crisp budget
-  mutual
-bip_39_word_space_11: arrest test toy divorce window evidence dinner crisp budget
-  mutual suspect
 bip_39_word_space_12: arrest test toy divorce window evidence dinner crisp budget
   mutual suspect arch
 bip_39_word_space_2: arrest test
 bip_39_word_space_3: arrest test toy
-bip_39_word_space_4: arrest test toy divorce
-bip_39_word_space_5: arrest test toy divorce window
-bip_39_word_space_6: arrest test toy divorce window evidence
-bip_39_word_space_7: arrest test toy divorce window evidence dinner
-bip_39_word_space_8: arrest test toy divorce window evidence dinner crisp
-bip_39_word_space_9: arrest test toy divorce window evidence dinner crisp budget
-bip_39_word_underscore_1: arrest
-bip_39_word_underscore_10: arrest_test_toy_divorce_window_evidence_dinner_crisp_budget_mutual
-bip_39_word_underscore_11: arrest_test_toy_divorce_window_evidence_dinner_crisp_budget_mutual_suspect
 bip_39_word_underscore_12: arrest_test_toy_divorce_window_evidence_dinner_crisp_budget_mutual_suspect_arch
 bip_39_word_underscore_2: arrest_test
 bip_39_word_underscore_3: arrest_test_toy
-bip_39_word_underscore_4: arrest_test_toy_divorce
-bip_39_word_underscore_5: arrest_test_toy_divorce_window
-bip_39_word_underscore_6: arrest_test_toy_divorce_window_evidence
-bip_39_word_underscore_7: arrest_test_toy_divorce_window_evidence_dinner
-bip_39_word_underscore_8: arrest_test_toy_divorce_window_evidence_dinner_crisp
-bip_39_word_underscore_9: arrest_test_toy_divorce_window_evidence_dinner_crisp_budget
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

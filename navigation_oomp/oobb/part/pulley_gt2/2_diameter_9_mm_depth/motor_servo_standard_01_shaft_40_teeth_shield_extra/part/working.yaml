@@ -1,68 +1,9 @@
-bip_39_word_dash_1: dust
-bip_39_word_dash_10: dust-catalog-normal-target-history-enforce-blanket-taxi-write-fresh
-bip_39_word_dash_11: dust-catalog-normal-target-history-enforce-blanket-taxi-write-fresh-liar
 bip_39_word_dash_12: dust-catalog-normal-target-history-enforce-blanket-taxi-write-fresh-liar-act
 bip_39_word_dash_2: dust-catalog
 bip_39_word_dash_3: dust-catalog-normal
-bip_39_word_dash_4: dust-catalog-normal-target
-bip_39_word_dash_5: dust-catalog-normal-target-history
-bip_39_word_dash_6: dust-catalog-normal-target-history-enforce
-bip_39_word_dash_7: dust-catalog-normal-target-history-enforce-blanket
-bip_39_word_dash_8: dust-catalog-normal-target-history-enforce-blanket-taxi
-bip_39_word_dash_9: dust-catalog-normal-target-history-enforce-blanket-taxi-write
-bip_39_word_new_br_1: dust
-bip_39_word_new_br_10: dust<br>catalog<br>normal<br>target<br>history<br>enforce<br>blanket<br>taxi<br>write<br>fresh
-bip_39_word_new_br_11: dust<br>catalog<br>normal<br>target<br>history<br>enforce<br>blanket<br>taxi<br>write<br>fresh<br>liar
 bip_39_word_new_br_12: dust<br>catalog<br>normal<br>target<br>history<br>enforce<br>blanket<br>taxi<br>write<br>fresh<br>liar<br>act
 bip_39_word_new_br_2: dust<br>catalog
 bip_39_word_new_br_3: dust<br>catalog<br>normal
-bip_39_word_new_br_4: dust<br>catalog<br>normal<br>target
-bip_39_word_new_br_5: dust<br>catalog<br>normal<br>target<br>history
-bip_39_word_new_br_6: dust<br>catalog<br>normal<br>target<br>history<br>enforce
-bip_39_word_new_br_7: dust<br>catalog<br>normal<br>target<br>history<br>enforce<br>blanket
-bip_39_word_new_br_8: dust<br>catalog<br>normal<br>target<br>history<br>enforce<br>blanket<br>taxi
-bip_39_word_new_br_9: dust<br>catalog<br>normal<br>target<br>history<br>enforce<br>blanket<br>taxi<br>write
-bip_39_word_new_line_1: dust
-bip_39_word_new_line_10: 'dust
-
-  catalog
-
-  normal
-
-  target
-
-  history
-
-  enforce
-
-  blanket
-
-  taxi
-
-  write
-
-  fresh'
-bip_39_word_new_line_11: 'dust
-
-  catalog
-
-  normal
-
-  target
-
-  history
-
-  enforce
-
-  blanket
-
-  taxi
-
-  write
-
-  fresh
-
-  liar'
 bip_39_word_new_line_12: 'dust
 
   catalog
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'dust
   catalog
 
   normal'
-bip_39_word_new_line_4: 'dust
-
-  catalog
-
-  normal
-
-  target'
-bip_39_word_new_line_5: 'dust
-
-  catalog
-
-  normal
-
-  target
-
-  history'
-bip_39_word_new_line_6: 'dust
-
-  catalog
-
-  normal
-
-  target
-
-  history
-
-  enforce'
-bip_39_word_new_line_7: 'dust
-
-  catalog
-
-  normal
-
-  target
-
-  history
-
-  enforce
-
-  blanket'
-bip_39_word_new_line_8: 'dust
-
-  catalog
-
-  normal
-
-  target
-
-  history
-
-  enforce
-
-  blanket
-
-  taxi'
-bip_39_word_new_line_9: 'dust
-
-  catalog
-
-  normal
-
-  target
-
-  history
-
-  enforce
-
-  blanket
-
-  taxi
-
-  write'
-bip_39_word_no_space_1: dust
-bip_39_word_no_space_10: dustcatalognormaltargethistoryenforceblankettaxiwritefresh
-bip_39_word_no_space_11: dustcatalognormaltargethistoryenforceblankettaxiwritefreshliar
 bip_39_word_no_space_12: dustcatalognormaltargethistoryenforceblankettaxiwritefreshliaract
 bip_39_word_no_space_2: dustcatalog
 bip_39_word_no_space_3: dustcatalognormal
-bip_39_word_no_space_4: dustcatalognormaltarget
-bip_39_word_no_space_5: dustcatalognormaltargethistory
-bip_39_word_no_space_6: dustcatalognormaltargethistoryenforce
-bip_39_word_no_space_7: dustcatalognormaltargethistoryenforceblanket
-bip_39_word_no_space_8: dustcatalognormaltargethistoryenforceblankettaxi
-bip_39_word_no_space_9: dustcatalognormaltargethistoryenforceblankettaxiwrite
-bip_39_word_space_0:
-- dust
-- catalog
-- normal
-- target
-- history
-- enforce
-- blanket
-- taxi
-- write
-- fresh
-- liar
-- act
-bip_39_word_space_1: dust
-bip_39_word_space_10: dust catalog normal target history enforce blanket taxi write
-  fresh
-bip_39_word_space_11: dust catalog normal target history enforce blanket taxi write
-  fresh liar
 bip_39_word_space_12: dust catalog normal target history enforce blanket taxi write
   fresh liar act
 bip_39_word_space_2: dust catalog
 bip_39_word_space_3: dust catalog normal
-bip_39_word_space_4: dust catalog normal target
-bip_39_word_space_5: dust catalog normal target history
-bip_39_word_space_6: dust catalog normal target history enforce
-bip_39_word_space_7: dust catalog normal target history enforce blanket
-bip_39_word_space_8: dust catalog normal target history enforce blanket taxi
-bip_39_word_space_9: dust catalog normal target history enforce blanket taxi write
-bip_39_word_underscore_1: dust
-bip_39_word_underscore_10: dust_catalog_normal_target_history_enforce_blanket_taxi_write_fresh
-bip_39_word_underscore_11: dust_catalog_normal_target_history_enforce_blanket_taxi_write_fresh_liar
 bip_39_word_underscore_12: dust_catalog_normal_target_history_enforce_blanket_taxi_write_fresh_liar_act
 bip_39_word_underscore_2: dust_catalog
 bip_39_word_underscore_3: dust_catalog_normal
-bip_39_word_underscore_4: dust_catalog_normal_target
-bip_39_word_underscore_5: dust_catalog_normal_target_history
-bip_39_word_underscore_6: dust_catalog_normal_target_history_enforce
-bip_39_word_underscore_7: dust_catalog_normal_target_history_enforce_blanket
-bip_39_word_underscore_8: dust_catalog_normal_target_history_enforce_blanket_taxi
-bip_39_word_underscore_9: dust_catalog_normal_target_history_enforce_blanket_taxi_write
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

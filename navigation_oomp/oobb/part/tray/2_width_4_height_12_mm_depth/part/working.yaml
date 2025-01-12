@@ -1,68 +1,9 @@
-bip_39_word_dash_1: coin
-bip_39_word_dash_10: coin-credit-employ-broken-outside-high-onion-change-advance-hat
-bip_39_word_dash_11: coin-credit-employ-broken-outside-high-onion-change-advance-hat-mean
 bip_39_word_dash_12: coin-credit-employ-broken-outside-high-onion-change-advance-hat-mean-ancient
 bip_39_word_dash_2: coin-credit
 bip_39_word_dash_3: coin-credit-employ
-bip_39_word_dash_4: coin-credit-employ-broken
-bip_39_word_dash_5: coin-credit-employ-broken-outside
-bip_39_word_dash_6: coin-credit-employ-broken-outside-high
-bip_39_word_dash_7: coin-credit-employ-broken-outside-high-onion
-bip_39_word_dash_8: coin-credit-employ-broken-outside-high-onion-change
-bip_39_word_dash_9: coin-credit-employ-broken-outside-high-onion-change-advance
-bip_39_word_new_br_1: coin
-bip_39_word_new_br_10: coin<br>credit<br>employ<br>broken<br>outside<br>high<br>onion<br>change<br>advance<br>hat
-bip_39_word_new_br_11: coin<br>credit<br>employ<br>broken<br>outside<br>high<br>onion<br>change<br>advance<br>hat<br>mean
 bip_39_word_new_br_12: coin<br>credit<br>employ<br>broken<br>outside<br>high<br>onion<br>change<br>advance<br>hat<br>mean<br>ancient
 bip_39_word_new_br_2: coin<br>credit
 bip_39_word_new_br_3: coin<br>credit<br>employ
-bip_39_word_new_br_4: coin<br>credit<br>employ<br>broken
-bip_39_word_new_br_5: coin<br>credit<br>employ<br>broken<br>outside
-bip_39_word_new_br_6: coin<br>credit<br>employ<br>broken<br>outside<br>high
-bip_39_word_new_br_7: coin<br>credit<br>employ<br>broken<br>outside<br>high<br>onion
-bip_39_word_new_br_8: coin<br>credit<br>employ<br>broken<br>outside<br>high<br>onion<br>change
-bip_39_word_new_br_9: coin<br>credit<br>employ<br>broken<br>outside<br>high<br>onion<br>change<br>advance
-bip_39_word_new_line_1: coin
-bip_39_word_new_line_10: 'coin
-
-  credit
-
-  employ
-
-  broken
-
-  outside
-
-  high
-
-  onion
-
-  change
-
-  advance
-
-  hat'
-bip_39_word_new_line_11: 'coin
-
-  credit
-
-  employ
-
-  broken
-
-  outside
-
-  high
-
-  onion
-
-  change
-
-  advance
-
-  hat
-
-  mean'
 bip_39_word_new_line_12: 'coin
 
   credit
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'coin
   credit
 
   employ'
-bip_39_word_new_line_4: 'coin
-
-  credit
-
-  employ
-
-  broken'
-bip_39_word_new_line_5: 'coin
-
-  credit
-
-  employ
-
-  broken
-
-  outside'
-bip_39_word_new_line_6: 'coin
-
-  credit
-
-  employ
-
-  broken
-
-  outside
-
-  high'
-bip_39_word_new_line_7: 'coin
-
-  credit
-
-  employ
-
-  broken
-
-  outside
-
-  high
-
-  onion'
-bip_39_word_new_line_8: 'coin
-
-  credit
-
-  employ
-
-  broken
-
-  outside
-
-  high
-
-  onion
-
-  change'
-bip_39_word_new_line_9: 'coin
-
-  credit
-
-  employ
-
-  broken
-
-  outside
-
-  high
-
-  onion
-
-  change
-
-  advance'
-bip_39_word_no_space_1: coin
-bip_39_word_no_space_10: coincreditemploybrokenoutsidehighonionchangeadvancehat
-bip_39_word_no_space_11: coincreditemploybrokenoutsidehighonionchangeadvancehatmean
 bip_39_word_no_space_12: coincreditemploybrokenoutsidehighonionchangeadvancehatmeanancient
 bip_39_word_no_space_2: coincredit
 bip_39_word_no_space_3: coincreditemploy
-bip_39_word_no_space_4: coincreditemploybroken
-bip_39_word_no_space_5: coincreditemploybrokenoutside
-bip_39_word_no_space_6: coincreditemploybrokenoutsidehigh
-bip_39_word_no_space_7: coincreditemploybrokenoutsidehighonion
-bip_39_word_no_space_8: coincreditemploybrokenoutsidehighonionchange
-bip_39_word_no_space_9: coincreditemploybrokenoutsidehighonionchangeadvance
-bip_39_word_space_0:
-- coin
-- credit
-- employ
-- broken
-- outside
-- high
-- onion
-- change
-- advance
-- hat
-- mean
-- ancient
-bip_39_word_space_1: coin
-bip_39_word_space_10: coin credit employ broken outside high onion change advance
-  hat
-bip_39_word_space_11: coin credit employ broken outside high onion change advance
-  hat mean
 bip_39_word_space_12: coin credit employ broken outside high onion change advance
   hat mean ancient
 bip_39_word_space_2: coin credit
 bip_39_word_space_3: coin credit employ
-bip_39_word_space_4: coin credit employ broken
-bip_39_word_space_5: coin credit employ broken outside
-bip_39_word_space_6: coin credit employ broken outside high
-bip_39_word_space_7: coin credit employ broken outside high onion
-bip_39_word_space_8: coin credit employ broken outside high onion change
-bip_39_word_space_9: coin credit employ broken outside high onion change advance
-bip_39_word_underscore_1: coin
-bip_39_word_underscore_10: coin_credit_employ_broken_outside_high_onion_change_advance_hat
-bip_39_word_underscore_11: coin_credit_employ_broken_outside_high_onion_change_advance_hat_mean
 bip_39_word_underscore_12: coin_credit_employ_broken_outside_high_onion_change_advance_hat_mean_ancient
 bip_39_word_underscore_2: coin_credit
 bip_39_word_underscore_3: coin_credit_employ
-bip_39_word_underscore_4: coin_credit_employ_broken
-bip_39_word_underscore_5: coin_credit_employ_broken_outside
-bip_39_word_underscore_6: coin_credit_employ_broken_outside_high
-bip_39_word_underscore_7: coin_credit_employ_broken_outside_high_onion
-bip_39_word_underscore_8: coin_credit_employ_broken_outside_high_onion_change
-bip_39_word_underscore_9: coin_credit_employ_broken_outside_high_onion_change_advance
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

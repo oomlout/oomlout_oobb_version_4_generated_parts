@@ -1,68 +1,9 @@
-bip_39_word_dash_1: clerk
-bip_39_word_dash_10: clerk-grain-cupboard-turtle-raw-envelope-flash-pear-stumble-payment
-bip_39_word_dash_11: clerk-grain-cupboard-turtle-raw-envelope-flash-pear-stumble-payment-crisp
 bip_39_word_dash_12: clerk-grain-cupboard-turtle-raw-envelope-flash-pear-stumble-payment-crisp-appear
 bip_39_word_dash_2: clerk-grain
 bip_39_word_dash_3: clerk-grain-cupboard
-bip_39_word_dash_4: clerk-grain-cupboard-turtle
-bip_39_word_dash_5: clerk-grain-cupboard-turtle-raw
-bip_39_word_dash_6: clerk-grain-cupboard-turtle-raw-envelope
-bip_39_word_dash_7: clerk-grain-cupboard-turtle-raw-envelope-flash
-bip_39_word_dash_8: clerk-grain-cupboard-turtle-raw-envelope-flash-pear
-bip_39_word_dash_9: clerk-grain-cupboard-turtle-raw-envelope-flash-pear-stumble
-bip_39_word_new_br_1: clerk
-bip_39_word_new_br_10: clerk<br>grain<br>cupboard<br>turtle<br>raw<br>envelope<br>flash<br>pear<br>stumble<br>payment
-bip_39_word_new_br_11: clerk<br>grain<br>cupboard<br>turtle<br>raw<br>envelope<br>flash<br>pear<br>stumble<br>payment<br>crisp
 bip_39_word_new_br_12: clerk<br>grain<br>cupboard<br>turtle<br>raw<br>envelope<br>flash<br>pear<br>stumble<br>payment<br>crisp<br>appear
 bip_39_word_new_br_2: clerk<br>grain
 bip_39_word_new_br_3: clerk<br>grain<br>cupboard
-bip_39_word_new_br_4: clerk<br>grain<br>cupboard<br>turtle
-bip_39_word_new_br_5: clerk<br>grain<br>cupboard<br>turtle<br>raw
-bip_39_word_new_br_6: clerk<br>grain<br>cupboard<br>turtle<br>raw<br>envelope
-bip_39_word_new_br_7: clerk<br>grain<br>cupboard<br>turtle<br>raw<br>envelope<br>flash
-bip_39_word_new_br_8: clerk<br>grain<br>cupboard<br>turtle<br>raw<br>envelope<br>flash<br>pear
-bip_39_word_new_br_9: clerk<br>grain<br>cupboard<br>turtle<br>raw<br>envelope<br>flash<br>pear<br>stumble
-bip_39_word_new_line_1: clerk
-bip_39_word_new_line_10: 'clerk
-
-  grain
-
-  cupboard
-
-  turtle
-
-  raw
-
-  envelope
-
-  flash
-
-  pear
-
-  stumble
-
-  payment'
-bip_39_word_new_line_11: 'clerk
-
-  grain
-
-  cupboard
-
-  turtle
-
-  raw
-
-  envelope
-
-  flash
-
-  pear
-
-  stumble
-
-  payment
-
-  crisp'
 bip_39_word_new_line_12: 'clerk
 
   grain
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'clerk
   grain
 
   cupboard'
-bip_39_word_new_line_4: 'clerk
-
-  grain
-
-  cupboard
-
-  turtle'
-bip_39_word_new_line_5: 'clerk
-
-  grain
-
-  cupboard
-
-  turtle
-
-  raw'
-bip_39_word_new_line_6: 'clerk
-
-  grain
-
-  cupboard
-
-  turtle
-
-  raw
-
-  envelope'
-bip_39_word_new_line_7: 'clerk
-
-  grain
-
-  cupboard
-
-  turtle
-
-  raw
-
-  envelope
-
-  flash'
-bip_39_word_new_line_8: 'clerk
-
-  grain
-
-  cupboard
-
-  turtle
-
-  raw
-
-  envelope
-
-  flash
-
-  pear'
-bip_39_word_new_line_9: 'clerk
-
-  grain
-
-  cupboard
-
-  turtle
-
-  raw
-
-  envelope
-
-  flash
-
-  pear
-
-  stumble'
-bip_39_word_no_space_1: clerk
-bip_39_word_no_space_10: clerkgraincupboardturtlerawenvelopeflashpearstumblepayment
-bip_39_word_no_space_11: clerkgraincupboardturtlerawenvelopeflashpearstumblepaymentcrisp
 bip_39_word_no_space_12: clerkgraincupboardturtlerawenvelopeflashpearstumblepaymentcrispappear
 bip_39_word_no_space_2: clerkgrain
 bip_39_word_no_space_3: clerkgraincupboard
-bip_39_word_no_space_4: clerkgraincupboardturtle
-bip_39_word_no_space_5: clerkgraincupboardturtleraw
-bip_39_word_no_space_6: clerkgraincupboardturtlerawenvelope
-bip_39_word_no_space_7: clerkgraincupboardturtlerawenvelopeflash
-bip_39_word_no_space_8: clerkgraincupboardturtlerawenvelopeflashpear
-bip_39_word_no_space_9: clerkgraincupboardturtlerawenvelopeflashpearstumble
-bip_39_word_space_0:
-- clerk
-- grain
-- cupboard
-- turtle
-- raw
-- envelope
-- flash
-- pear
-- stumble
-- payment
-- crisp
-- appear
-bip_39_word_space_1: clerk
-bip_39_word_space_10: clerk grain cupboard turtle raw envelope flash pear stumble
-  payment
-bip_39_word_space_11: clerk grain cupboard turtle raw envelope flash pear stumble
-  payment crisp
 bip_39_word_space_12: clerk grain cupboard turtle raw envelope flash pear stumble
   payment crisp appear
 bip_39_word_space_2: clerk grain
 bip_39_word_space_3: clerk grain cupboard
-bip_39_word_space_4: clerk grain cupboard turtle
-bip_39_word_space_5: clerk grain cupboard turtle raw
-bip_39_word_space_6: clerk grain cupboard turtle raw envelope
-bip_39_word_space_7: clerk grain cupboard turtle raw envelope flash
-bip_39_word_space_8: clerk grain cupboard turtle raw envelope flash pear
-bip_39_word_space_9: clerk grain cupboard turtle raw envelope flash pear stumble
-bip_39_word_underscore_1: clerk
-bip_39_word_underscore_10: clerk_grain_cupboard_turtle_raw_envelope_flash_pear_stumble_payment
-bip_39_word_underscore_11: clerk_grain_cupboard_turtle_raw_envelope_flash_pear_stumble_payment_crisp
 bip_39_word_underscore_12: clerk_grain_cupboard_turtle_raw_envelope_flash_pear_stumble_payment_crisp_appear
 bip_39_word_underscore_2: clerk_grain
 bip_39_word_underscore_3: clerk_grain_cupboard
-bip_39_word_underscore_4: clerk_grain_cupboard_turtle
-bip_39_word_underscore_5: clerk_grain_cupboard_turtle_raw
-bip_39_word_underscore_6: clerk_grain_cupboard_turtle_raw_envelope
-bip_39_word_underscore_7: clerk_grain_cupboard_turtle_raw_envelope_flash
-bip_39_word_underscore_8: clerk_grain_cupboard_turtle_raw_envelope_flash_pear
-bip_39_word_underscore_9: clerk_grain_cupboard_turtle_raw_envelope_flash_pear_stumble
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

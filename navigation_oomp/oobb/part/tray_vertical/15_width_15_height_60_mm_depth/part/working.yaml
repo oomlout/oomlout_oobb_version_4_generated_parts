@@ -1,68 +1,9 @@
-bip_39_word_dash_1: damage
-bip_39_word_dash_10: damage-frozen-saddle-shy-vast-material-scorpion-opera-trade-cinnamon
-bip_39_word_dash_11: damage-frozen-saddle-shy-vast-material-scorpion-opera-trade-cinnamon-obvious
 bip_39_word_dash_12: damage-frozen-saddle-shy-vast-material-scorpion-opera-trade-cinnamon-obvious-add
 bip_39_word_dash_2: damage-frozen
 bip_39_word_dash_3: damage-frozen-saddle
-bip_39_word_dash_4: damage-frozen-saddle-shy
-bip_39_word_dash_5: damage-frozen-saddle-shy-vast
-bip_39_word_dash_6: damage-frozen-saddle-shy-vast-material
-bip_39_word_dash_7: damage-frozen-saddle-shy-vast-material-scorpion
-bip_39_word_dash_8: damage-frozen-saddle-shy-vast-material-scorpion-opera
-bip_39_word_dash_9: damage-frozen-saddle-shy-vast-material-scorpion-opera-trade
-bip_39_word_new_br_1: damage
-bip_39_word_new_br_10: damage<br>frozen<br>saddle<br>shy<br>vast<br>material<br>scorpion<br>opera<br>trade<br>cinnamon
-bip_39_word_new_br_11: damage<br>frozen<br>saddle<br>shy<br>vast<br>material<br>scorpion<br>opera<br>trade<br>cinnamon<br>obvious
 bip_39_word_new_br_12: damage<br>frozen<br>saddle<br>shy<br>vast<br>material<br>scorpion<br>opera<br>trade<br>cinnamon<br>obvious<br>add
 bip_39_word_new_br_2: damage<br>frozen
 bip_39_word_new_br_3: damage<br>frozen<br>saddle
-bip_39_word_new_br_4: damage<br>frozen<br>saddle<br>shy
-bip_39_word_new_br_5: damage<br>frozen<br>saddle<br>shy<br>vast
-bip_39_word_new_br_6: damage<br>frozen<br>saddle<br>shy<br>vast<br>material
-bip_39_word_new_br_7: damage<br>frozen<br>saddle<br>shy<br>vast<br>material<br>scorpion
-bip_39_word_new_br_8: damage<br>frozen<br>saddle<br>shy<br>vast<br>material<br>scorpion<br>opera
-bip_39_word_new_br_9: damage<br>frozen<br>saddle<br>shy<br>vast<br>material<br>scorpion<br>opera<br>trade
-bip_39_word_new_line_1: damage
-bip_39_word_new_line_10: 'damage
-
-  frozen
-
-  saddle
-
-  shy
-
-  vast
-
-  material
-
-  scorpion
-
-  opera
-
-  trade
-
-  cinnamon'
-bip_39_word_new_line_11: 'damage
-
-  frozen
-
-  saddle
-
-  shy
-
-  vast
-
-  material
-
-  scorpion
-
-  opera
-
-  trade
-
-  cinnamon
-
-  obvious'
 bip_39_word_new_line_12: 'damage
 
   frozen
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'damage
   frozen
 
   saddle'
-bip_39_word_new_line_4: 'damage
-
-  frozen
-
-  saddle
-
-  shy'
-bip_39_word_new_line_5: 'damage
-
-  frozen
-
-  saddle
-
-  shy
-
-  vast'
-bip_39_word_new_line_6: 'damage
-
-  frozen
-
-  saddle
-
-  shy
-
-  vast
-
-  material'
-bip_39_word_new_line_7: 'damage
-
-  frozen
-
-  saddle
-
-  shy
-
-  vast
-
-  material
-
-  scorpion'
-bip_39_word_new_line_8: 'damage
-
-  frozen
-
-  saddle
-
-  shy
-
-  vast
-
-  material
-
-  scorpion
-
-  opera'
-bip_39_word_new_line_9: 'damage
-
-  frozen
-
-  saddle
-
-  shy
-
-  vast
-
-  material
-
-  scorpion
-
-  opera
-
-  trade'
-bip_39_word_no_space_1: damage
-bip_39_word_no_space_10: damagefrozensaddleshyvastmaterialscorpionoperatradecinnamon
-bip_39_word_no_space_11: damagefrozensaddleshyvastmaterialscorpionoperatradecinnamonobvious
 bip_39_word_no_space_12: damagefrozensaddleshyvastmaterialscorpionoperatradecinnamonobviousadd
 bip_39_word_no_space_2: damagefrozen
 bip_39_word_no_space_3: damagefrozensaddle
-bip_39_word_no_space_4: damagefrozensaddleshy
-bip_39_word_no_space_5: damagefrozensaddleshyvast
-bip_39_word_no_space_6: damagefrozensaddleshyvastmaterial
-bip_39_word_no_space_7: damagefrozensaddleshyvastmaterialscorpion
-bip_39_word_no_space_8: damagefrozensaddleshyvastmaterialscorpionopera
-bip_39_word_no_space_9: damagefrozensaddleshyvastmaterialscorpionoperatrade
-bip_39_word_space_0:
-- damage
-- frozen
-- saddle
-- shy
-- vast
-- material
-- scorpion
-- opera
-- trade
-- cinnamon
-- obvious
-- add
-bip_39_word_space_1: damage
-bip_39_word_space_10: damage frozen saddle shy vast material scorpion opera trade
-  cinnamon
-bip_39_word_space_11: damage frozen saddle shy vast material scorpion opera trade
-  cinnamon obvious
 bip_39_word_space_12: damage frozen saddle shy vast material scorpion opera trade
   cinnamon obvious add
 bip_39_word_space_2: damage frozen
 bip_39_word_space_3: damage frozen saddle
-bip_39_word_space_4: damage frozen saddle shy
-bip_39_word_space_5: damage frozen saddle shy vast
-bip_39_word_space_6: damage frozen saddle shy vast material
-bip_39_word_space_7: damage frozen saddle shy vast material scorpion
-bip_39_word_space_8: damage frozen saddle shy vast material scorpion opera
-bip_39_word_space_9: damage frozen saddle shy vast material scorpion opera trade
-bip_39_word_underscore_1: damage
-bip_39_word_underscore_10: damage_frozen_saddle_shy_vast_material_scorpion_opera_trade_cinnamon
-bip_39_word_underscore_11: damage_frozen_saddle_shy_vast_material_scorpion_opera_trade_cinnamon_obvious
 bip_39_word_underscore_12: damage_frozen_saddle_shy_vast_material_scorpion_opera_trade_cinnamon_obvious_add
 bip_39_word_underscore_2: damage_frozen
 bip_39_word_underscore_3: damage_frozen_saddle
-bip_39_word_underscore_4: damage_frozen_saddle_shy
-bip_39_word_underscore_5: damage_frozen_saddle_shy_vast
-bip_39_word_underscore_6: damage_frozen_saddle_shy_vast_material
-bip_39_word_underscore_7: damage_frozen_saddle_shy_vast_material_scorpion
-bip_39_word_underscore_8: damage_frozen_saddle_shy_vast_material_scorpion_opera
-bip_39_word_underscore_9: damage_frozen_saddle_shy_vast_material_scorpion_opera_trade
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: toss
-bip_39_word_dash_10: toss-tank-spawn-debris-execute-help-imitate-robust-thrive-van
-bip_39_word_dash_11: toss-tank-spawn-debris-execute-help-imitate-robust-thrive-van-breeze
 bip_39_word_dash_12: toss-tank-spawn-debris-execute-help-imitate-robust-thrive-van-breeze-almost
 bip_39_word_dash_2: toss-tank
 bip_39_word_dash_3: toss-tank-spawn
-bip_39_word_dash_4: toss-tank-spawn-debris
-bip_39_word_dash_5: toss-tank-spawn-debris-execute
-bip_39_word_dash_6: toss-tank-spawn-debris-execute-help
-bip_39_word_dash_7: toss-tank-spawn-debris-execute-help-imitate
-bip_39_word_dash_8: toss-tank-spawn-debris-execute-help-imitate-robust
-bip_39_word_dash_9: toss-tank-spawn-debris-execute-help-imitate-robust-thrive
-bip_39_word_new_br_1: toss
-bip_39_word_new_br_10: toss<br>tank<br>spawn<br>debris<br>execute<br>help<br>imitate<br>robust<br>thrive<br>van
-bip_39_word_new_br_11: toss<br>tank<br>spawn<br>debris<br>execute<br>help<br>imitate<br>robust<br>thrive<br>van<br>breeze
 bip_39_word_new_br_12: toss<br>tank<br>spawn<br>debris<br>execute<br>help<br>imitate<br>robust<br>thrive<br>van<br>breeze<br>almost
 bip_39_word_new_br_2: toss<br>tank
 bip_39_word_new_br_3: toss<br>tank<br>spawn
-bip_39_word_new_br_4: toss<br>tank<br>spawn<br>debris
-bip_39_word_new_br_5: toss<br>tank<br>spawn<br>debris<br>execute
-bip_39_word_new_br_6: toss<br>tank<br>spawn<br>debris<br>execute<br>help
-bip_39_word_new_br_7: toss<br>tank<br>spawn<br>debris<br>execute<br>help<br>imitate
-bip_39_word_new_br_8: toss<br>tank<br>spawn<br>debris<br>execute<br>help<br>imitate<br>robust
-bip_39_word_new_br_9: toss<br>tank<br>spawn<br>debris<br>execute<br>help<br>imitate<br>robust<br>thrive
-bip_39_word_new_line_1: toss
-bip_39_word_new_line_10: 'toss
-
-  tank
-
-  spawn
-
-  debris
-
-  execute
-
-  help
-
-  imitate
-
-  robust
-
-  thrive
-
-  van'
-bip_39_word_new_line_11: 'toss
-
-  tank
-
-  spawn
-
-  debris
-
-  execute
-
-  help
-
-  imitate
-
-  robust
-
-  thrive
-
-  van
-
-  breeze'
 bip_39_word_new_line_12: 'toss
 
   tank
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'toss
   tank
 
   spawn'
-bip_39_word_new_line_4: 'toss
-
-  tank
-
-  spawn
-
-  debris'
-bip_39_word_new_line_5: 'toss
-
-  tank
-
-  spawn
-
-  debris
-
-  execute'
-bip_39_word_new_line_6: 'toss
-
-  tank
-
-  spawn
-
-  debris
-
-  execute
-
-  help'
-bip_39_word_new_line_7: 'toss
-
-  tank
-
-  spawn
-
-  debris
-
-  execute
-
-  help
-
-  imitate'
-bip_39_word_new_line_8: 'toss
-
-  tank
-
-  spawn
-
-  debris
-
-  execute
-
-  help
-
-  imitate
-
-  robust'
-bip_39_word_new_line_9: 'toss
-
-  tank
-
-  spawn
-
-  debris
-
-  execute
-
-  help
-
-  imitate
-
-  robust
-
-  thrive'
-bip_39_word_no_space_1: toss
-bip_39_word_no_space_10: tosstankspawndebrisexecutehelpimitaterobustthrivevan
-bip_39_word_no_space_11: tosstankspawndebrisexecutehelpimitaterobustthrivevanbreeze
 bip_39_word_no_space_12: tosstankspawndebrisexecutehelpimitaterobustthrivevanbreezealmost
 bip_39_word_no_space_2: tosstank
 bip_39_word_no_space_3: tosstankspawn
-bip_39_word_no_space_4: tosstankspawndebris
-bip_39_word_no_space_5: tosstankspawndebrisexecute
-bip_39_word_no_space_6: tosstankspawndebrisexecutehelp
-bip_39_word_no_space_7: tosstankspawndebrisexecutehelpimitate
-bip_39_word_no_space_8: tosstankspawndebrisexecutehelpimitaterobust
-bip_39_word_no_space_9: tosstankspawndebrisexecutehelpimitaterobustthrive
-bip_39_word_space_0:
-- toss
-- tank
-- spawn
-- debris
-- execute
-- help
-- imitate
-- robust
-- thrive
-- van
-- breeze
-- almost
-bip_39_word_space_1: toss
-bip_39_word_space_10: toss tank spawn debris execute help imitate robust thrive van
-bip_39_word_space_11: toss tank spawn debris execute help imitate robust thrive van
-  breeze
 bip_39_word_space_12: toss tank spawn debris execute help imitate robust thrive van
   breeze almost
 bip_39_word_space_2: toss tank
 bip_39_word_space_3: toss tank spawn
-bip_39_word_space_4: toss tank spawn debris
-bip_39_word_space_5: toss tank spawn debris execute
-bip_39_word_space_6: toss tank spawn debris execute help
-bip_39_word_space_7: toss tank spawn debris execute help imitate
-bip_39_word_space_8: toss tank spawn debris execute help imitate robust
-bip_39_word_space_9: toss tank spawn debris execute help imitate robust thrive
-bip_39_word_underscore_1: toss
-bip_39_word_underscore_10: toss_tank_spawn_debris_execute_help_imitate_robust_thrive_van
-bip_39_word_underscore_11: toss_tank_spawn_debris_execute_help_imitate_robust_thrive_van_breeze
 bip_39_word_underscore_12: toss_tank_spawn_debris_execute_help_imitate_robust_thrive_van_breeze_almost
 bip_39_word_underscore_2: toss_tank
 bip_39_word_underscore_3: toss_tank_spawn
-bip_39_word_underscore_4: toss_tank_spawn_debris
-bip_39_word_underscore_5: toss_tank_spawn_debris_execute
-bip_39_word_underscore_6: toss_tank_spawn_debris_execute_help
-bip_39_word_underscore_7: toss_tank_spawn_debris_execute_help_imitate
-bip_39_word_underscore_8: toss_tank_spawn_debris_execute_help_imitate_robust
-bip_39_word_underscore_9: toss_tank_spawn_debris_execute_help_imitate_robust_thrive
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

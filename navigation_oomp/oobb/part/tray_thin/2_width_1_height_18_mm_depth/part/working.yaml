@@ -1,68 +1,9 @@
-bip_39_word_dash_1: amount
-bip_39_word_dash_10: amount-level-ticket-buzz-slot-tree-sausage-grief-orbit-radio
-bip_39_word_dash_11: amount-level-ticket-buzz-slot-tree-sausage-grief-orbit-radio-wave
 bip_39_word_dash_12: amount-level-ticket-buzz-slot-tree-sausage-grief-orbit-radio-wave-arctic
 bip_39_word_dash_2: amount-level
 bip_39_word_dash_3: amount-level-ticket
-bip_39_word_dash_4: amount-level-ticket-buzz
-bip_39_word_dash_5: amount-level-ticket-buzz-slot
-bip_39_word_dash_6: amount-level-ticket-buzz-slot-tree
-bip_39_word_dash_7: amount-level-ticket-buzz-slot-tree-sausage
-bip_39_word_dash_8: amount-level-ticket-buzz-slot-tree-sausage-grief
-bip_39_word_dash_9: amount-level-ticket-buzz-slot-tree-sausage-grief-orbit
-bip_39_word_new_br_1: amount
-bip_39_word_new_br_10: amount<br>level<br>ticket<br>buzz<br>slot<br>tree<br>sausage<br>grief<br>orbit<br>radio
-bip_39_word_new_br_11: amount<br>level<br>ticket<br>buzz<br>slot<br>tree<br>sausage<br>grief<br>orbit<br>radio<br>wave
 bip_39_word_new_br_12: amount<br>level<br>ticket<br>buzz<br>slot<br>tree<br>sausage<br>grief<br>orbit<br>radio<br>wave<br>arctic
 bip_39_word_new_br_2: amount<br>level
 bip_39_word_new_br_3: amount<br>level<br>ticket
-bip_39_word_new_br_4: amount<br>level<br>ticket<br>buzz
-bip_39_word_new_br_5: amount<br>level<br>ticket<br>buzz<br>slot
-bip_39_word_new_br_6: amount<br>level<br>ticket<br>buzz<br>slot<br>tree
-bip_39_word_new_br_7: amount<br>level<br>ticket<br>buzz<br>slot<br>tree<br>sausage
-bip_39_word_new_br_8: amount<br>level<br>ticket<br>buzz<br>slot<br>tree<br>sausage<br>grief
-bip_39_word_new_br_9: amount<br>level<br>ticket<br>buzz<br>slot<br>tree<br>sausage<br>grief<br>orbit
-bip_39_word_new_line_1: amount
-bip_39_word_new_line_10: 'amount
-
-  level
-
-  ticket
-
-  buzz
-
-  slot
-
-  tree
-
-  sausage
-
-  grief
-
-  orbit
-
-  radio'
-bip_39_word_new_line_11: 'amount
-
-  level
-
-  ticket
-
-  buzz
-
-  slot
-
-  tree
-
-  sausage
-
-  grief
-
-  orbit
-
-  radio
-
-  wave'
 bip_39_word_new_line_12: 'amount
 
   level
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'amount
   level
 
   ticket'
-bip_39_word_new_line_4: 'amount
-
-  level
-
-  ticket
-
-  buzz'
-bip_39_word_new_line_5: 'amount
-
-  level
-
-  ticket
-
-  buzz
-
-  slot'
-bip_39_word_new_line_6: 'amount
-
-  level
-
-  ticket
-
-  buzz
-
-  slot
-
-  tree'
-bip_39_word_new_line_7: 'amount
-
-  level
-
-  ticket
-
-  buzz
-
-  slot
-
-  tree
-
-  sausage'
-bip_39_word_new_line_8: 'amount
-
-  level
-
-  ticket
-
-  buzz
-
-  slot
-
-  tree
-
-  sausage
-
-  grief'
-bip_39_word_new_line_9: 'amount
-
-  level
-
-  ticket
-
-  buzz
-
-  slot
-
-  tree
-
-  sausage
-
-  grief
-
-  orbit'
-bip_39_word_no_space_1: amount
-bip_39_word_no_space_10: amountlevelticketbuzzslottreesausagegrieforbitradio
-bip_39_word_no_space_11: amountlevelticketbuzzslottreesausagegrieforbitradiowave
 bip_39_word_no_space_12: amountlevelticketbuzzslottreesausagegrieforbitradiowavearctic
 bip_39_word_no_space_2: amountlevel
 bip_39_word_no_space_3: amountlevelticket
-bip_39_word_no_space_4: amountlevelticketbuzz
-bip_39_word_no_space_5: amountlevelticketbuzzslot
-bip_39_word_no_space_6: amountlevelticketbuzzslottree
-bip_39_word_no_space_7: amountlevelticketbuzzslottreesausage
-bip_39_word_no_space_8: amountlevelticketbuzzslottreesausagegrief
-bip_39_word_no_space_9: amountlevelticketbuzzslottreesausagegrieforbit
-bip_39_word_space_0:
-- amount
-- level
-- ticket
-- buzz
-- slot
-- tree
-- sausage
-- grief
-- orbit
-- radio
-- wave
-- arctic
-bip_39_word_space_1: amount
-bip_39_word_space_10: amount level ticket buzz slot tree sausage grief orbit radio
-bip_39_word_space_11: amount level ticket buzz slot tree sausage grief orbit radio
-  wave
 bip_39_word_space_12: amount level ticket buzz slot tree sausage grief orbit radio
   wave arctic
 bip_39_word_space_2: amount level
 bip_39_word_space_3: amount level ticket
-bip_39_word_space_4: amount level ticket buzz
-bip_39_word_space_5: amount level ticket buzz slot
-bip_39_word_space_6: amount level ticket buzz slot tree
-bip_39_word_space_7: amount level ticket buzz slot tree sausage
-bip_39_word_space_8: amount level ticket buzz slot tree sausage grief
-bip_39_word_space_9: amount level ticket buzz slot tree sausage grief orbit
-bip_39_word_underscore_1: amount
-bip_39_word_underscore_10: amount_level_ticket_buzz_slot_tree_sausage_grief_orbit_radio
-bip_39_word_underscore_11: amount_level_ticket_buzz_slot_tree_sausage_grief_orbit_radio_wave
 bip_39_word_underscore_12: amount_level_ticket_buzz_slot_tree_sausage_grief_orbit_radio_wave_arctic
 bip_39_word_underscore_2: amount_level
 bip_39_word_underscore_3: amount_level_ticket
-bip_39_word_underscore_4: amount_level_ticket_buzz
-bip_39_word_underscore_5: amount_level_ticket_buzz_slot
-bip_39_word_underscore_6: amount_level_ticket_buzz_slot_tree
-bip_39_word_underscore_7: amount_level_ticket_buzz_slot_tree_sausage
-bip_39_word_underscore_8: amount_level_ticket_buzz_slot_tree_sausage_grief
-bip_39_word_underscore_9: amount_level_ticket_buzz_slot_tree_sausage_grief_orbit
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

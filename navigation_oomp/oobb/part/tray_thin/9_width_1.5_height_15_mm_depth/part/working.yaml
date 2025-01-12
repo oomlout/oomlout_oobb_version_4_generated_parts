@@ -1,68 +1,9 @@
-bip_39_word_dash_1: column
-bip_39_word_dash_10: column-siege-meat-blame-lock-hope-gain-fury-call-shrimp
-bip_39_word_dash_11: column-siege-meat-blame-lock-hope-gain-fury-call-shrimp-meat
 bip_39_word_dash_12: column-siege-meat-blame-lock-hope-gain-fury-call-shrimp-meat-audit
 bip_39_word_dash_2: column-siege
 bip_39_word_dash_3: column-siege-meat
-bip_39_word_dash_4: column-siege-meat-blame
-bip_39_word_dash_5: column-siege-meat-blame-lock
-bip_39_word_dash_6: column-siege-meat-blame-lock-hope
-bip_39_word_dash_7: column-siege-meat-blame-lock-hope-gain
-bip_39_word_dash_8: column-siege-meat-blame-lock-hope-gain-fury
-bip_39_word_dash_9: column-siege-meat-blame-lock-hope-gain-fury-call
-bip_39_word_new_br_1: column
-bip_39_word_new_br_10: column<br>siege<br>meat<br>blame<br>lock<br>hope<br>gain<br>fury<br>call<br>shrimp
-bip_39_word_new_br_11: column<br>siege<br>meat<br>blame<br>lock<br>hope<br>gain<br>fury<br>call<br>shrimp<br>meat
 bip_39_word_new_br_12: column<br>siege<br>meat<br>blame<br>lock<br>hope<br>gain<br>fury<br>call<br>shrimp<br>meat<br>audit
 bip_39_word_new_br_2: column<br>siege
 bip_39_word_new_br_3: column<br>siege<br>meat
-bip_39_word_new_br_4: column<br>siege<br>meat<br>blame
-bip_39_word_new_br_5: column<br>siege<br>meat<br>blame<br>lock
-bip_39_word_new_br_6: column<br>siege<br>meat<br>blame<br>lock<br>hope
-bip_39_word_new_br_7: column<br>siege<br>meat<br>blame<br>lock<br>hope<br>gain
-bip_39_word_new_br_8: column<br>siege<br>meat<br>blame<br>lock<br>hope<br>gain<br>fury
-bip_39_word_new_br_9: column<br>siege<br>meat<br>blame<br>lock<br>hope<br>gain<br>fury<br>call
-bip_39_word_new_line_1: column
-bip_39_word_new_line_10: 'column
-
-  siege
-
-  meat
-
-  blame
-
-  lock
-
-  hope
-
-  gain
-
-  fury
-
-  call
-
-  shrimp'
-bip_39_word_new_line_11: 'column
-
-  siege
-
-  meat
-
-  blame
-
-  lock
-
-  hope
-
-  gain
-
-  fury
-
-  call
-
-  shrimp
-
-  meat'
 bip_39_word_new_line_12: 'column
 
   siege
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'column
   siege
 
   meat'
-bip_39_word_new_line_4: 'column
-
-  siege
-
-  meat
-
-  blame'
-bip_39_word_new_line_5: 'column
-
-  siege
-
-  meat
-
-  blame
-
-  lock'
-bip_39_word_new_line_6: 'column
-
-  siege
-
-  meat
-
-  blame
-
-  lock
-
-  hope'
-bip_39_word_new_line_7: 'column
-
-  siege
-
-  meat
-
-  blame
-
-  lock
-
-  hope
-
-  gain'
-bip_39_word_new_line_8: 'column
-
-  siege
-
-  meat
-
-  blame
-
-  lock
-
-  hope
-
-  gain
-
-  fury'
-bip_39_word_new_line_9: 'column
-
-  siege
-
-  meat
-
-  blame
-
-  lock
-
-  hope
-
-  gain
-
-  fury
-
-  call'
-bip_39_word_no_space_1: column
-bip_39_word_no_space_10: columnsiegemeatblamelockhopegainfurycallshrimp
-bip_39_word_no_space_11: columnsiegemeatblamelockhopegainfurycallshrimpmeat
 bip_39_word_no_space_12: columnsiegemeatblamelockhopegainfurycallshrimpmeataudit
 bip_39_word_no_space_2: columnsiege
 bip_39_word_no_space_3: columnsiegemeat
-bip_39_word_no_space_4: columnsiegemeatblame
-bip_39_word_no_space_5: columnsiegemeatblamelock
-bip_39_word_no_space_6: columnsiegemeatblamelockhope
-bip_39_word_no_space_7: columnsiegemeatblamelockhopegain
-bip_39_word_no_space_8: columnsiegemeatblamelockhopegainfury
-bip_39_word_no_space_9: columnsiegemeatblamelockhopegainfurycall
-bip_39_word_space_0:
-- column
-- siege
-- meat
-- blame
-- lock
-- hope
-- gain
-- fury
-- call
-- shrimp
-- meat
-- audit
-bip_39_word_space_1: column
-bip_39_word_space_10: column siege meat blame lock hope gain fury call shrimp
-bip_39_word_space_11: column siege meat blame lock hope gain fury call shrimp meat
 bip_39_word_space_12: column siege meat blame lock hope gain fury call shrimp meat
   audit
 bip_39_word_space_2: column siege
 bip_39_word_space_3: column siege meat
-bip_39_word_space_4: column siege meat blame
-bip_39_word_space_5: column siege meat blame lock
-bip_39_word_space_6: column siege meat blame lock hope
-bip_39_word_space_7: column siege meat blame lock hope gain
-bip_39_word_space_8: column siege meat blame lock hope gain fury
-bip_39_word_space_9: column siege meat blame lock hope gain fury call
-bip_39_word_underscore_1: column
-bip_39_word_underscore_10: column_siege_meat_blame_lock_hope_gain_fury_call_shrimp
-bip_39_word_underscore_11: column_siege_meat_blame_lock_hope_gain_fury_call_shrimp_meat
 bip_39_word_underscore_12: column_siege_meat_blame_lock_hope_gain_fury_call_shrimp_meat_audit
 bip_39_word_underscore_2: column_siege
 bip_39_word_underscore_3: column_siege_meat
-bip_39_word_underscore_4: column_siege_meat_blame
-bip_39_word_underscore_5: column_siege_meat_blame_lock
-bip_39_word_underscore_6: column_siege_meat_blame_lock_hope
-bip_39_word_underscore_7: column_siege_meat_blame_lock_hope_gain
-bip_39_word_underscore_8: column_siege_meat_blame_lock_hope_gain_fury
-bip_39_word_underscore_9: column_siege_meat_blame_lock_hope_gain_fury_call
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

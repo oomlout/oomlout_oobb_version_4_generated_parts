@@ -1,68 +1,9 @@
-bip_39_word_dash_1: deny
-bip_39_word_dash_10: deny-ticket-chuckle-someone-hole-peanut-february-about-burst-hospital
-bip_39_word_dash_11: deny-ticket-chuckle-someone-hole-peanut-february-about-burst-hospital-bridge
 bip_39_word_dash_12: deny-ticket-chuckle-someone-hole-peanut-february-about-burst-hospital-bridge-already
 bip_39_word_dash_2: deny-ticket
 bip_39_word_dash_3: deny-ticket-chuckle
-bip_39_word_dash_4: deny-ticket-chuckle-someone
-bip_39_word_dash_5: deny-ticket-chuckle-someone-hole
-bip_39_word_dash_6: deny-ticket-chuckle-someone-hole-peanut
-bip_39_word_dash_7: deny-ticket-chuckle-someone-hole-peanut-february
-bip_39_word_dash_8: deny-ticket-chuckle-someone-hole-peanut-february-about
-bip_39_word_dash_9: deny-ticket-chuckle-someone-hole-peanut-february-about-burst
-bip_39_word_new_br_1: deny
-bip_39_word_new_br_10: deny<br>ticket<br>chuckle<br>someone<br>hole<br>peanut<br>february<br>about<br>burst<br>hospital
-bip_39_word_new_br_11: deny<br>ticket<br>chuckle<br>someone<br>hole<br>peanut<br>february<br>about<br>burst<br>hospital<br>bridge
 bip_39_word_new_br_12: deny<br>ticket<br>chuckle<br>someone<br>hole<br>peanut<br>february<br>about<br>burst<br>hospital<br>bridge<br>already
 bip_39_word_new_br_2: deny<br>ticket
 bip_39_word_new_br_3: deny<br>ticket<br>chuckle
-bip_39_word_new_br_4: deny<br>ticket<br>chuckle<br>someone
-bip_39_word_new_br_5: deny<br>ticket<br>chuckle<br>someone<br>hole
-bip_39_word_new_br_6: deny<br>ticket<br>chuckle<br>someone<br>hole<br>peanut
-bip_39_word_new_br_7: deny<br>ticket<br>chuckle<br>someone<br>hole<br>peanut<br>february
-bip_39_word_new_br_8: deny<br>ticket<br>chuckle<br>someone<br>hole<br>peanut<br>february<br>about
-bip_39_word_new_br_9: deny<br>ticket<br>chuckle<br>someone<br>hole<br>peanut<br>february<br>about<br>burst
-bip_39_word_new_line_1: deny
-bip_39_word_new_line_10: 'deny
-
-  ticket
-
-  chuckle
-
-  someone
-
-  hole
-
-  peanut
-
-  february
-
-  about
-
-  burst
-
-  hospital'
-bip_39_word_new_line_11: 'deny
-
-  ticket
-
-  chuckle
-
-  someone
-
-  hole
-
-  peanut
-
-  february
-
-  about
-
-  burst
-
-  hospital
-
-  bridge'
 bip_39_word_new_line_12: 'deny
 
   ticket
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'deny
   ticket
 
   chuckle'
-bip_39_word_new_line_4: 'deny
-
-  ticket
-
-  chuckle
-
-  someone'
-bip_39_word_new_line_5: 'deny
-
-  ticket
-
-  chuckle
-
-  someone
-
-  hole'
-bip_39_word_new_line_6: 'deny
-
-  ticket
-
-  chuckle
-
-  someone
-
-  hole
-
-  peanut'
-bip_39_word_new_line_7: 'deny
-
-  ticket
-
-  chuckle
-
-  someone
-
-  hole
-
-  peanut
-
-  february'
-bip_39_word_new_line_8: 'deny
-
-  ticket
-
-  chuckle
-
-  someone
-
-  hole
-
-  peanut
-
-  february
-
-  about'
-bip_39_word_new_line_9: 'deny
-
-  ticket
-
-  chuckle
-
-  someone
-
-  hole
-
-  peanut
-
-  february
-
-  about
-
-  burst'
-bip_39_word_no_space_1: deny
-bip_39_word_no_space_10: denyticketchucklesomeoneholepeanutfebruaryaboutbursthospital
-bip_39_word_no_space_11: denyticketchucklesomeoneholepeanutfebruaryaboutbursthospitalbridge
 bip_39_word_no_space_12: denyticketchucklesomeoneholepeanutfebruaryaboutbursthospitalbridgealready
 bip_39_word_no_space_2: denyticket
 bip_39_word_no_space_3: denyticketchuckle
-bip_39_word_no_space_4: denyticketchucklesomeone
-bip_39_word_no_space_5: denyticketchucklesomeonehole
-bip_39_word_no_space_6: denyticketchucklesomeoneholepeanut
-bip_39_word_no_space_7: denyticketchucklesomeoneholepeanutfebruary
-bip_39_word_no_space_8: denyticketchucklesomeoneholepeanutfebruaryabout
-bip_39_word_no_space_9: denyticketchucklesomeoneholepeanutfebruaryaboutburst
-bip_39_word_space_0:
-- deny
-- ticket
-- chuckle
-- someone
-- hole
-- peanut
-- february
-- about
-- burst
-- hospital
-- bridge
-- already
-bip_39_word_space_1: deny
-bip_39_word_space_10: deny ticket chuckle someone hole peanut february about burst
-  hospital
-bip_39_word_space_11: deny ticket chuckle someone hole peanut february about burst
-  hospital bridge
 bip_39_word_space_12: deny ticket chuckle someone hole peanut february about burst
   hospital bridge already
 bip_39_word_space_2: deny ticket
 bip_39_word_space_3: deny ticket chuckle
-bip_39_word_space_4: deny ticket chuckle someone
-bip_39_word_space_5: deny ticket chuckle someone hole
-bip_39_word_space_6: deny ticket chuckle someone hole peanut
-bip_39_word_space_7: deny ticket chuckle someone hole peanut february
-bip_39_word_space_8: deny ticket chuckle someone hole peanut february about
-bip_39_word_space_9: deny ticket chuckle someone hole peanut february about burst
-bip_39_word_underscore_1: deny
-bip_39_word_underscore_10: deny_ticket_chuckle_someone_hole_peanut_february_about_burst_hospital
-bip_39_word_underscore_11: deny_ticket_chuckle_someone_hole_peanut_february_about_burst_hospital_bridge
 bip_39_word_underscore_12: deny_ticket_chuckle_someone_hole_peanut_february_about_burst_hospital_bridge_already
 bip_39_word_underscore_2: deny_ticket
 bip_39_word_underscore_3: deny_ticket_chuckle
-bip_39_word_underscore_4: deny_ticket_chuckle_someone
-bip_39_word_underscore_5: deny_ticket_chuckle_someone_hole
-bip_39_word_underscore_6: deny_ticket_chuckle_someone_hole_peanut
-bip_39_word_underscore_7: deny_ticket_chuckle_someone_hole_peanut_february
-bip_39_word_underscore_8: deny_ticket_chuckle_someone_hole_peanut_february_about
-bip_39_word_underscore_9: deny_ticket_chuckle_someone_hole_peanut_february_about_burst
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

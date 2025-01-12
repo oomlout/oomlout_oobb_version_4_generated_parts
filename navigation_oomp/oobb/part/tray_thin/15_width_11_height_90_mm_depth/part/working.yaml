@@ -1,68 +1,9 @@
-bip_39_word_dash_1: episode
-bip_39_word_dash_10: episode-ship-arctic-organ-language-chest-wrap-basic-focus-join
-bip_39_word_dash_11: episode-ship-arctic-organ-language-chest-wrap-basic-focus-join-move
 bip_39_word_dash_12: episode-ship-arctic-organ-language-chest-wrap-basic-focus-join-move-apple
 bip_39_word_dash_2: episode-ship
 bip_39_word_dash_3: episode-ship-arctic
-bip_39_word_dash_4: episode-ship-arctic-organ
-bip_39_word_dash_5: episode-ship-arctic-organ-language
-bip_39_word_dash_6: episode-ship-arctic-organ-language-chest
-bip_39_word_dash_7: episode-ship-arctic-organ-language-chest-wrap
-bip_39_word_dash_8: episode-ship-arctic-organ-language-chest-wrap-basic
-bip_39_word_dash_9: episode-ship-arctic-organ-language-chest-wrap-basic-focus
-bip_39_word_new_br_1: episode
-bip_39_word_new_br_10: episode<br>ship<br>arctic<br>organ<br>language<br>chest<br>wrap<br>basic<br>focus<br>join
-bip_39_word_new_br_11: episode<br>ship<br>arctic<br>organ<br>language<br>chest<br>wrap<br>basic<br>focus<br>join<br>move
 bip_39_word_new_br_12: episode<br>ship<br>arctic<br>organ<br>language<br>chest<br>wrap<br>basic<br>focus<br>join<br>move<br>apple
 bip_39_word_new_br_2: episode<br>ship
 bip_39_word_new_br_3: episode<br>ship<br>arctic
-bip_39_word_new_br_4: episode<br>ship<br>arctic<br>organ
-bip_39_word_new_br_5: episode<br>ship<br>arctic<br>organ<br>language
-bip_39_word_new_br_6: episode<br>ship<br>arctic<br>organ<br>language<br>chest
-bip_39_word_new_br_7: episode<br>ship<br>arctic<br>organ<br>language<br>chest<br>wrap
-bip_39_word_new_br_8: episode<br>ship<br>arctic<br>organ<br>language<br>chest<br>wrap<br>basic
-bip_39_word_new_br_9: episode<br>ship<br>arctic<br>organ<br>language<br>chest<br>wrap<br>basic<br>focus
-bip_39_word_new_line_1: episode
-bip_39_word_new_line_10: 'episode
-
-  ship
-
-  arctic
-
-  organ
-
-  language
-
-  chest
-
-  wrap
-
-  basic
-
-  focus
-
-  join'
-bip_39_word_new_line_11: 'episode
-
-  ship
-
-  arctic
-
-  organ
-
-  language
-
-  chest
-
-  wrap
-
-  basic
-
-  focus
-
-  join
-
-  move'
 bip_39_word_new_line_12: 'episode
 
   ship
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'episode
   ship
 
   arctic'
-bip_39_word_new_line_4: 'episode
-
-  ship
-
-  arctic
-
-  organ'
-bip_39_word_new_line_5: 'episode
-
-  ship
-
-  arctic
-
-  organ
-
-  language'
-bip_39_word_new_line_6: 'episode
-
-  ship
-
-  arctic
-
-  organ
-
-  language
-
-  chest'
-bip_39_word_new_line_7: 'episode
-
-  ship
-
-  arctic
-
-  organ
-
-  language
-
-  chest
-
-  wrap'
-bip_39_word_new_line_8: 'episode
-
-  ship
-
-  arctic
-
-  organ
-
-  language
-
-  chest
-
-  wrap
-
-  basic'
-bip_39_word_new_line_9: 'episode
-
-  ship
-
-  arctic
-
-  organ
-
-  language
-
-  chest
-
-  wrap
-
-  basic
-
-  focus'
-bip_39_word_no_space_1: episode
-bip_39_word_no_space_10: episodeshiparcticorganlanguagechestwrapbasicfocusjoin
-bip_39_word_no_space_11: episodeshiparcticorganlanguagechestwrapbasicfocusjoinmove
 bip_39_word_no_space_12: episodeshiparcticorganlanguagechestwrapbasicfocusjoinmoveapple
 bip_39_word_no_space_2: episodeship
 bip_39_word_no_space_3: episodeshiparctic
-bip_39_word_no_space_4: episodeshiparcticorgan
-bip_39_word_no_space_5: episodeshiparcticorganlanguage
-bip_39_word_no_space_6: episodeshiparcticorganlanguagechest
-bip_39_word_no_space_7: episodeshiparcticorganlanguagechestwrap
-bip_39_word_no_space_8: episodeshiparcticorganlanguagechestwrapbasic
-bip_39_word_no_space_9: episodeshiparcticorganlanguagechestwrapbasicfocus
-bip_39_word_space_0:
-- episode
-- ship
-- arctic
-- organ
-- language
-- chest
-- wrap
-- basic
-- focus
-- join
-- move
-- apple
-bip_39_word_space_1: episode
-bip_39_word_space_10: episode ship arctic organ language chest wrap basic focus join
-bip_39_word_space_11: episode ship arctic organ language chest wrap basic focus join
-  move
 bip_39_word_space_12: episode ship arctic organ language chest wrap basic focus join
   move apple
 bip_39_word_space_2: episode ship
 bip_39_word_space_3: episode ship arctic
-bip_39_word_space_4: episode ship arctic organ
-bip_39_word_space_5: episode ship arctic organ language
-bip_39_word_space_6: episode ship arctic organ language chest
-bip_39_word_space_7: episode ship arctic organ language chest wrap
-bip_39_word_space_8: episode ship arctic organ language chest wrap basic
-bip_39_word_space_9: episode ship arctic organ language chest wrap basic focus
-bip_39_word_underscore_1: episode
-bip_39_word_underscore_10: episode_ship_arctic_organ_language_chest_wrap_basic_focus_join
-bip_39_word_underscore_11: episode_ship_arctic_organ_language_chest_wrap_basic_focus_join_move
 bip_39_word_underscore_12: episode_ship_arctic_organ_language_chest_wrap_basic_focus_join_move_apple
 bip_39_word_underscore_2: episode_ship
 bip_39_word_underscore_3: episode_ship_arctic
-bip_39_word_underscore_4: episode_ship_arctic_organ
-bip_39_word_underscore_5: episode_ship_arctic_organ_language
-bip_39_word_underscore_6: episode_ship_arctic_organ_language_chest
-bip_39_word_underscore_7: episode_ship_arctic_organ_language_chest_wrap
-bip_39_word_underscore_8: episode_ship_arctic_organ_language_chest_wrap_basic
-bip_39_word_underscore_9: episode_ship_arctic_organ_language_chest_wrap_basic_focus
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

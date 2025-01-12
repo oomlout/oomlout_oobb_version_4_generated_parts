@@ -1,68 +1,9 @@
-bip_39_word_dash_1: loan
-bip_39_word_dash_10: loan-cousin-woman-come-join-steel-cliff-egg-blue-idle
-bip_39_word_dash_11: loan-cousin-woman-come-join-steel-cliff-egg-blue-idle-welcome
 bip_39_word_dash_12: loan-cousin-woman-come-join-steel-cliff-egg-blue-idle-welcome-approve
 bip_39_word_dash_2: loan-cousin
 bip_39_word_dash_3: loan-cousin-woman
-bip_39_word_dash_4: loan-cousin-woman-come
-bip_39_word_dash_5: loan-cousin-woman-come-join
-bip_39_word_dash_6: loan-cousin-woman-come-join-steel
-bip_39_word_dash_7: loan-cousin-woman-come-join-steel-cliff
-bip_39_word_dash_8: loan-cousin-woman-come-join-steel-cliff-egg
-bip_39_word_dash_9: loan-cousin-woman-come-join-steel-cliff-egg-blue
-bip_39_word_new_br_1: loan
-bip_39_word_new_br_10: loan<br>cousin<br>woman<br>come<br>join<br>steel<br>cliff<br>egg<br>blue<br>idle
-bip_39_word_new_br_11: loan<br>cousin<br>woman<br>come<br>join<br>steel<br>cliff<br>egg<br>blue<br>idle<br>welcome
 bip_39_word_new_br_12: loan<br>cousin<br>woman<br>come<br>join<br>steel<br>cliff<br>egg<br>blue<br>idle<br>welcome<br>approve
 bip_39_word_new_br_2: loan<br>cousin
 bip_39_word_new_br_3: loan<br>cousin<br>woman
-bip_39_word_new_br_4: loan<br>cousin<br>woman<br>come
-bip_39_word_new_br_5: loan<br>cousin<br>woman<br>come<br>join
-bip_39_word_new_br_6: loan<br>cousin<br>woman<br>come<br>join<br>steel
-bip_39_word_new_br_7: loan<br>cousin<br>woman<br>come<br>join<br>steel<br>cliff
-bip_39_word_new_br_8: loan<br>cousin<br>woman<br>come<br>join<br>steel<br>cliff<br>egg
-bip_39_word_new_br_9: loan<br>cousin<br>woman<br>come<br>join<br>steel<br>cliff<br>egg<br>blue
-bip_39_word_new_line_1: loan
-bip_39_word_new_line_10: 'loan
-
-  cousin
-
-  woman
-
-  come
-
-  join
-
-  steel
-
-  cliff
-
-  egg
-
-  blue
-
-  idle'
-bip_39_word_new_line_11: 'loan
-
-  cousin
-
-  woman
-
-  come
-
-  join
-
-  steel
-
-  cliff
-
-  egg
-
-  blue
-
-  idle
-
-  welcome'
 bip_39_word_new_line_12: 'loan
 
   cousin
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'loan
   cousin
 
   woman'
-bip_39_word_new_line_4: 'loan
-
-  cousin
-
-  woman
-
-  come'
-bip_39_word_new_line_5: 'loan
-
-  cousin
-
-  woman
-
-  come
-
-  join'
-bip_39_word_new_line_6: 'loan
-
-  cousin
-
-  woman
-
-  come
-
-  join
-
-  steel'
-bip_39_word_new_line_7: 'loan
-
-  cousin
-
-  woman
-
-  come
-
-  join
-
-  steel
-
-  cliff'
-bip_39_word_new_line_8: 'loan
-
-  cousin
-
-  woman
-
-  come
-
-  join
-
-  steel
-
-  cliff
-
-  egg'
-bip_39_word_new_line_9: 'loan
-
-  cousin
-
-  woman
-
-  come
-
-  join
-
-  steel
-
-  cliff
-
-  egg
-
-  blue'
-bip_39_word_no_space_1: loan
-bip_39_word_no_space_10: loancousinwomancomejoinsteelcliffeggblueidle
-bip_39_word_no_space_11: loancousinwomancomejoinsteelcliffeggblueidlewelcome
 bip_39_word_no_space_12: loancousinwomancomejoinsteelcliffeggblueidlewelcomeapprove
 bip_39_word_no_space_2: loancousin
 bip_39_word_no_space_3: loancousinwoman
-bip_39_word_no_space_4: loancousinwomancome
-bip_39_word_no_space_5: loancousinwomancomejoin
-bip_39_word_no_space_6: loancousinwomancomejoinsteel
-bip_39_word_no_space_7: loancousinwomancomejoinsteelcliff
-bip_39_word_no_space_8: loancousinwomancomejoinsteelcliffegg
-bip_39_word_no_space_9: loancousinwomancomejoinsteelcliffeggblue
-bip_39_word_space_0:
-- loan
-- cousin
-- woman
-- come
-- join
-- steel
-- cliff
-- egg
-- blue
-- idle
-- welcome
-- approve
-bip_39_word_space_1: loan
-bip_39_word_space_10: loan cousin woman come join steel cliff egg blue idle
-bip_39_word_space_11: loan cousin woman come join steel cliff egg blue idle welcome
 bip_39_word_space_12: loan cousin woman come join steel cliff egg blue idle welcome
   approve
 bip_39_word_space_2: loan cousin
 bip_39_word_space_3: loan cousin woman
-bip_39_word_space_4: loan cousin woman come
-bip_39_word_space_5: loan cousin woman come join
-bip_39_word_space_6: loan cousin woman come join steel
-bip_39_word_space_7: loan cousin woman come join steel cliff
-bip_39_word_space_8: loan cousin woman come join steel cliff egg
-bip_39_word_space_9: loan cousin woman come join steel cliff egg blue
-bip_39_word_underscore_1: loan
-bip_39_word_underscore_10: loan_cousin_woman_come_join_steel_cliff_egg_blue_idle
-bip_39_word_underscore_11: loan_cousin_woman_come_join_steel_cliff_egg_blue_idle_welcome
 bip_39_word_underscore_12: loan_cousin_woman_come_join_steel_cliff_egg_blue_idle_welcome_approve
 bip_39_word_underscore_2: loan_cousin
 bip_39_word_underscore_3: loan_cousin_woman
-bip_39_word_underscore_4: loan_cousin_woman_come
-bip_39_word_underscore_5: loan_cousin_woman_come_join
-bip_39_word_underscore_6: loan_cousin_woman_come_join_steel
-bip_39_word_underscore_7: loan_cousin_woman_come_join_steel_cliff
-bip_39_word_underscore_8: loan_cousin_woman_come_join_steel_cliff_egg
-bip_39_word_underscore_9: loan_cousin_woman_come_join_steel_cliff_egg_blue
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

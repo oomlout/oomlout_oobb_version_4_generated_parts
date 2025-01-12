@@ -1,68 +1,9 @@
-bip_39_word_dash_1: scissors
-bip_39_word_dash_10: scissors-reject-cattle-midnight-word-say-forward-agree-zone-virtual
-bip_39_word_dash_11: scissors-reject-cattle-midnight-word-say-forward-agree-zone-virtual-follow
 bip_39_word_dash_12: scissors-reject-cattle-midnight-word-say-forward-agree-zone-virtual-follow-artefact
 bip_39_word_dash_2: scissors-reject
 bip_39_word_dash_3: scissors-reject-cattle
-bip_39_word_dash_4: scissors-reject-cattle-midnight
-bip_39_word_dash_5: scissors-reject-cattle-midnight-word
-bip_39_word_dash_6: scissors-reject-cattle-midnight-word-say
-bip_39_word_dash_7: scissors-reject-cattle-midnight-word-say-forward
-bip_39_word_dash_8: scissors-reject-cattle-midnight-word-say-forward-agree
-bip_39_word_dash_9: scissors-reject-cattle-midnight-word-say-forward-agree-zone
-bip_39_word_new_br_1: scissors
-bip_39_word_new_br_10: scissors<br>reject<br>cattle<br>midnight<br>word<br>say<br>forward<br>agree<br>zone<br>virtual
-bip_39_word_new_br_11: scissors<br>reject<br>cattle<br>midnight<br>word<br>say<br>forward<br>agree<br>zone<br>virtual<br>follow
 bip_39_word_new_br_12: scissors<br>reject<br>cattle<br>midnight<br>word<br>say<br>forward<br>agree<br>zone<br>virtual<br>follow<br>artefact
 bip_39_word_new_br_2: scissors<br>reject
 bip_39_word_new_br_3: scissors<br>reject<br>cattle
-bip_39_word_new_br_4: scissors<br>reject<br>cattle<br>midnight
-bip_39_word_new_br_5: scissors<br>reject<br>cattle<br>midnight<br>word
-bip_39_word_new_br_6: scissors<br>reject<br>cattle<br>midnight<br>word<br>say
-bip_39_word_new_br_7: scissors<br>reject<br>cattle<br>midnight<br>word<br>say<br>forward
-bip_39_word_new_br_8: scissors<br>reject<br>cattle<br>midnight<br>word<br>say<br>forward<br>agree
-bip_39_word_new_br_9: scissors<br>reject<br>cattle<br>midnight<br>word<br>say<br>forward<br>agree<br>zone
-bip_39_word_new_line_1: scissors
-bip_39_word_new_line_10: 'scissors
-
-  reject
-
-  cattle
-
-  midnight
-
-  word
-
-  say
-
-  forward
-
-  agree
-
-  zone
-
-  virtual'
-bip_39_word_new_line_11: 'scissors
-
-  reject
-
-  cattle
-
-  midnight
-
-  word
-
-  say
-
-  forward
-
-  agree
-
-  zone
-
-  virtual
-
-  follow'
 bip_39_word_new_line_12: 'scissors
 
   reject
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'scissors
   reject
 
   cattle'
-bip_39_word_new_line_4: 'scissors
-
-  reject
-
-  cattle
-
-  midnight'
-bip_39_word_new_line_5: 'scissors
-
-  reject
-
-  cattle
-
-  midnight
-
-  word'
-bip_39_word_new_line_6: 'scissors
-
-  reject
-
-  cattle
-
-  midnight
-
-  word
-
-  say'
-bip_39_word_new_line_7: 'scissors
-
-  reject
-
-  cattle
-
-  midnight
-
-  word
-
-  say
-
-  forward'
-bip_39_word_new_line_8: 'scissors
-
-  reject
-
-  cattle
-
-  midnight
-
-  word
-
-  say
-
-  forward
-
-  agree'
-bip_39_word_new_line_9: 'scissors
-
-  reject
-
-  cattle
-
-  midnight
-
-  word
-
-  say
-
-  forward
-
-  agree
-
-  zone'
-bip_39_word_no_space_1: scissors
-bip_39_word_no_space_10: scissorsrejectcattlemidnightwordsayforwardagreezonevirtual
-bip_39_word_no_space_11: scissorsrejectcattlemidnightwordsayforwardagreezonevirtualfollow
 bip_39_word_no_space_12: scissorsrejectcattlemidnightwordsayforwardagreezonevirtualfollowartefact
 bip_39_word_no_space_2: scissorsreject
 bip_39_word_no_space_3: scissorsrejectcattle
-bip_39_word_no_space_4: scissorsrejectcattlemidnight
-bip_39_word_no_space_5: scissorsrejectcattlemidnightword
-bip_39_word_no_space_6: scissorsrejectcattlemidnightwordsay
-bip_39_word_no_space_7: scissorsrejectcattlemidnightwordsayforward
-bip_39_word_no_space_8: scissorsrejectcattlemidnightwordsayforwardagree
-bip_39_word_no_space_9: scissorsrejectcattlemidnightwordsayforwardagreezone
-bip_39_word_space_0:
-- scissors
-- reject
-- cattle
-- midnight
-- word
-- say
-- forward
-- agree
-- zone
-- virtual
-- follow
-- artefact
-bip_39_word_space_1: scissors
-bip_39_word_space_10: scissors reject cattle midnight word say forward agree zone
-  virtual
-bip_39_word_space_11: scissors reject cattle midnight word say forward agree zone
-  virtual follow
 bip_39_word_space_12: scissors reject cattle midnight word say forward agree zone
   virtual follow artefact
 bip_39_word_space_2: scissors reject
 bip_39_word_space_3: scissors reject cattle
-bip_39_word_space_4: scissors reject cattle midnight
-bip_39_word_space_5: scissors reject cattle midnight word
-bip_39_word_space_6: scissors reject cattle midnight word say
-bip_39_word_space_7: scissors reject cattle midnight word say forward
-bip_39_word_space_8: scissors reject cattle midnight word say forward agree
-bip_39_word_space_9: scissors reject cattle midnight word say forward agree zone
-bip_39_word_underscore_1: scissors
-bip_39_word_underscore_10: scissors_reject_cattle_midnight_word_say_forward_agree_zone_virtual
-bip_39_word_underscore_11: scissors_reject_cattle_midnight_word_say_forward_agree_zone_virtual_follow
 bip_39_word_underscore_12: scissors_reject_cattle_midnight_word_say_forward_agree_zone_virtual_follow_artefact
 bip_39_word_underscore_2: scissors_reject
 bip_39_word_underscore_3: scissors_reject_cattle
-bip_39_word_underscore_4: scissors_reject_cattle_midnight
-bip_39_word_underscore_5: scissors_reject_cattle_midnight_word
-bip_39_word_underscore_6: scissors_reject_cattle_midnight_word_say
-bip_39_word_underscore_7: scissors_reject_cattle_midnight_word_say_forward
-bip_39_word_underscore_8: scissors_reject_cattle_midnight_word_say_forward_agree
-bip_39_word_underscore_9: scissors_reject_cattle_midnight_word_say_forward_agree_zone
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: today
-bip_39_word_dash_10: today-basic-admit-giraffe-swamp-people-unknown-liberty-cluster-there
-bip_39_word_dash_11: today-basic-admit-giraffe-swamp-people-unknown-liberty-cluster-there-proof
 bip_39_word_dash_12: today-basic-admit-giraffe-swamp-people-unknown-liberty-cluster-there-proof-angle
 bip_39_word_dash_2: today-basic
 bip_39_word_dash_3: today-basic-admit
-bip_39_word_dash_4: today-basic-admit-giraffe
-bip_39_word_dash_5: today-basic-admit-giraffe-swamp
-bip_39_word_dash_6: today-basic-admit-giraffe-swamp-people
-bip_39_word_dash_7: today-basic-admit-giraffe-swamp-people-unknown
-bip_39_word_dash_8: today-basic-admit-giraffe-swamp-people-unknown-liberty
-bip_39_word_dash_9: today-basic-admit-giraffe-swamp-people-unknown-liberty-cluster
-bip_39_word_new_br_1: today
-bip_39_word_new_br_10: today<br>basic<br>admit<br>giraffe<br>swamp<br>people<br>unknown<br>liberty<br>cluster<br>there
-bip_39_word_new_br_11: today<br>basic<br>admit<br>giraffe<br>swamp<br>people<br>unknown<br>liberty<br>cluster<br>there<br>proof
 bip_39_word_new_br_12: today<br>basic<br>admit<br>giraffe<br>swamp<br>people<br>unknown<br>liberty<br>cluster<br>there<br>proof<br>angle
 bip_39_word_new_br_2: today<br>basic
 bip_39_word_new_br_3: today<br>basic<br>admit
-bip_39_word_new_br_4: today<br>basic<br>admit<br>giraffe
-bip_39_word_new_br_5: today<br>basic<br>admit<br>giraffe<br>swamp
-bip_39_word_new_br_6: today<br>basic<br>admit<br>giraffe<br>swamp<br>people
-bip_39_word_new_br_7: today<br>basic<br>admit<br>giraffe<br>swamp<br>people<br>unknown
-bip_39_word_new_br_8: today<br>basic<br>admit<br>giraffe<br>swamp<br>people<br>unknown<br>liberty
-bip_39_word_new_br_9: today<br>basic<br>admit<br>giraffe<br>swamp<br>people<br>unknown<br>liberty<br>cluster
-bip_39_word_new_line_1: today
-bip_39_word_new_line_10: 'today
-
-  basic
-
-  admit
-
-  giraffe
-
-  swamp
-
-  people
-
-  unknown
-
-  liberty
-
-  cluster
-
-  there'
-bip_39_word_new_line_11: 'today
-
-  basic
-
-  admit
-
-  giraffe
-
-  swamp
-
-  people
-
-  unknown
-
-  liberty
-
-  cluster
-
-  there
-
-  proof'
 bip_39_word_new_line_12: 'today
 
   basic
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'today
   basic
 
   admit'
-bip_39_word_new_line_4: 'today
-
-  basic
-
-  admit
-
-  giraffe'
-bip_39_word_new_line_5: 'today
-
-  basic
-
-  admit
-
-  giraffe
-
-  swamp'
-bip_39_word_new_line_6: 'today
-
-  basic
-
-  admit
-
-  giraffe
-
-  swamp
-
-  people'
-bip_39_word_new_line_7: 'today
-
-  basic
-
-  admit
-
-  giraffe
-
-  swamp
-
-  people
-
-  unknown'
-bip_39_word_new_line_8: 'today
-
-  basic
-
-  admit
-
-  giraffe
-
-  swamp
-
-  people
-
-  unknown
-
-  liberty'
-bip_39_word_new_line_9: 'today
-
-  basic
-
-  admit
-
-  giraffe
-
-  swamp
-
-  people
-
-  unknown
-
-  liberty
-
-  cluster'
-bip_39_word_no_space_1: today
-bip_39_word_no_space_10: todaybasicadmitgiraffeswamppeopleunknownlibertyclusterthere
-bip_39_word_no_space_11: todaybasicadmitgiraffeswamppeopleunknownlibertyclusterthereproof
 bip_39_word_no_space_12: todaybasicadmitgiraffeswamppeopleunknownlibertyclusterthereproofangle
 bip_39_word_no_space_2: todaybasic
 bip_39_word_no_space_3: todaybasicadmit
-bip_39_word_no_space_4: todaybasicadmitgiraffe
-bip_39_word_no_space_5: todaybasicadmitgiraffeswamp
-bip_39_word_no_space_6: todaybasicadmitgiraffeswamppeople
-bip_39_word_no_space_7: todaybasicadmitgiraffeswamppeopleunknown
-bip_39_word_no_space_8: todaybasicadmitgiraffeswamppeopleunknownliberty
-bip_39_word_no_space_9: todaybasicadmitgiraffeswamppeopleunknownlibertycluster
-bip_39_word_space_0:
-- today
-- basic
-- admit
-- giraffe
-- swamp
-- people
-- unknown
-- liberty
-- cluster
-- there
-- proof
-- angle
-bip_39_word_space_1: today
-bip_39_word_space_10: today basic admit giraffe swamp people unknown liberty cluster
-  there
-bip_39_word_space_11: today basic admit giraffe swamp people unknown liberty cluster
-  there proof
 bip_39_word_space_12: today basic admit giraffe swamp people unknown liberty cluster
   there proof angle
 bip_39_word_space_2: today basic
 bip_39_word_space_3: today basic admit
-bip_39_word_space_4: today basic admit giraffe
-bip_39_word_space_5: today basic admit giraffe swamp
-bip_39_word_space_6: today basic admit giraffe swamp people
-bip_39_word_space_7: today basic admit giraffe swamp people unknown
-bip_39_word_space_8: today basic admit giraffe swamp people unknown liberty
-bip_39_word_space_9: today basic admit giraffe swamp people unknown liberty cluster
-bip_39_word_underscore_1: today
-bip_39_word_underscore_10: today_basic_admit_giraffe_swamp_people_unknown_liberty_cluster_there
-bip_39_word_underscore_11: today_basic_admit_giraffe_swamp_people_unknown_liberty_cluster_there_proof
 bip_39_word_underscore_12: today_basic_admit_giraffe_swamp_people_unknown_liberty_cluster_there_proof_angle
 bip_39_word_underscore_2: today_basic
 bip_39_word_underscore_3: today_basic_admit
-bip_39_word_underscore_4: today_basic_admit_giraffe
-bip_39_word_underscore_5: today_basic_admit_giraffe_swamp
-bip_39_word_underscore_6: today_basic_admit_giraffe_swamp_people
-bip_39_word_underscore_7: today_basic_admit_giraffe_swamp_people_unknown
-bip_39_word_underscore_8: today_basic_admit_giraffe_swamp_people_unknown_liberty
-bip_39_word_underscore_9: today_basic_admit_giraffe_swamp_people_unknown_liberty_cluster
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

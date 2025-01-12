@@ -1,68 +1,9 @@
-bip_39_word_dash_1: thunder
-bip_39_word_dash_10: thunder-void-almost-drift-true-better-odor-upgrade-elbow-fetch
-bip_39_word_dash_11: thunder-void-almost-drift-true-better-odor-upgrade-elbow-fetch-convince
 bip_39_word_dash_12: thunder-void-almost-drift-true-better-odor-upgrade-elbow-fetch-convince-absent
 bip_39_word_dash_2: thunder-void
 bip_39_word_dash_3: thunder-void-almost
-bip_39_word_dash_4: thunder-void-almost-drift
-bip_39_word_dash_5: thunder-void-almost-drift-true
-bip_39_word_dash_6: thunder-void-almost-drift-true-better
-bip_39_word_dash_7: thunder-void-almost-drift-true-better-odor
-bip_39_word_dash_8: thunder-void-almost-drift-true-better-odor-upgrade
-bip_39_word_dash_9: thunder-void-almost-drift-true-better-odor-upgrade-elbow
-bip_39_word_new_br_1: thunder
-bip_39_word_new_br_10: thunder<br>void<br>almost<br>drift<br>true<br>better<br>odor<br>upgrade<br>elbow<br>fetch
-bip_39_word_new_br_11: thunder<br>void<br>almost<br>drift<br>true<br>better<br>odor<br>upgrade<br>elbow<br>fetch<br>convince
 bip_39_word_new_br_12: thunder<br>void<br>almost<br>drift<br>true<br>better<br>odor<br>upgrade<br>elbow<br>fetch<br>convince<br>absent
 bip_39_word_new_br_2: thunder<br>void
 bip_39_word_new_br_3: thunder<br>void<br>almost
-bip_39_word_new_br_4: thunder<br>void<br>almost<br>drift
-bip_39_word_new_br_5: thunder<br>void<br>almost<br>drift<br>true
-bip_39_word_new_br_6: thunder<br>void<br>almost<br>drift<br>true<br>better
-bip_39_word_new_br_7: thunder<br>void<br>almost<br>drift<br>true<br>better<br>odor
-bip_39_word_new_br_8: thunder<br>void<br>almost<br>drift<br>true<br>better<br>odor<br>upgrade
-bip_39_word_new_br_9: thunder<br>void<br>almost<br>drift<br>true<br>better<br>odor<br>upgrade<br>elbow
-bip_39_word_new_line_1: thunder
-bip_39_word_new_line_10: 'thunder
-
-  void
-
-  almost
-
-  drift
-
-  true
-
-  better
-
-  odor
-
-  upgrade
-
-  elbow
-
-  fetch'
-bip_39_word_new_line_11: 'thunder
-
-  void
-
-  almost
-
-  drift
-
-  true
-
-  better
-
-  odor
-
-  upgrade
-
-  elbow
-
-  fetch
-
-  convince'
 bip_39_word_new_line_12: 'thunder
 
   void
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'thunder
   void
 
   almost'
-bip_39_word_new_line_4: 'thunder
-
-  void
-
-  almost
-
-  drift'
-bip_39_word_new_line_5: 'thunder
-
-  void
-
-  almost
-
-  drift
-
-  true'
-bip_39_word_new_line_6: 'thunder
-
-  void
-
-  almost
-
-  drift
-
-  true
-
-  better'
-bip_39_word_new_line_7: 'thunder
-
-  void
-
-  almost
-
-  drift
-
-  true
-
-  better
-
-  odor'
-bip_39_word_new_line_8: 'thunder
-
-  void
-
-  almost
-
-  drift
-
-  true
-
-  better
-
-  odor
-
-  upgrade'
-bip_39_word_new_line_9: 'thunder
-
-  void
-
-  almost
-
-  drift
-
-  true
-
-  better
-
-  odor
-
-  upgrade
-
-  elbow'
-bip_39_word_no_space_1: thunder
-bip_39_word_no_space_10: thundervoidalmostdrifttruebetterodorupgradeelbowfetch
-bip_39_word_no_space_11: thundervoidalmostdrifttruebetterodorupgradeelbowfetchconvince
 bip_39_word_no_space_12: thundervoidalmostdrifttruebetterodorupgradeelbowfetchconvinceabsent
 bip_39_word_no_space_2: thundervoid
 bip_39_word_no_space_3: thundervoidalmost
-bip_39_word_no_space_4: thundervoidalmostdrift
-bip_39_word_no_space_5: thundervoidalmostdrifttrue
-bip_39_word_no_space_6: thundervoidalmostdrifttruebetter
-bip_39_word_no_space_7: thundervoidalmostdrifttruebetterodor
-bip_39_word_no_space_8: thundervoidalmostdrifttruebetterodorupgrade
-bip_39_word_no_space_9: thundervoidalmostdrifttruebetterodorupgradeelbow
-bip_39_word_space_0:
-- thunder
-- void
-- almost
-- drift
-- 'true'
-- better
-- odor
-- upgrade
-- elbow
-- fetch
-- convince
-- absent
-bip_39_word_space_1: thunder
-bip_39_word_space_10: thunder void almost drift true better odor upgrade elbow fetch
-bip_39_word_space_11: thunder void almost drift true better odor upgrade elbow fetch
-  convince
 bip_39_word_space_12: thunder void almost drift true better odor upgrade elbow fetch
   convince absent
 bip_39_word_space_2: thunder void
 bip_39_word_space_3: thunder void almost
-bip_39_word_space_4: thunder void almost drift
-bip_39_word_space_5: thunder void almost drift true
-bip_39_word_space_6: thunder void almost drift true better
-bip_39_word_space_7: thunder void almost drift true better odor
-bip_39_word_space_8: thunder void almost drift true better odor upgrade
-bip_39_word_space_9: thunder void almost drift true better odor upgrade elbow
-bip_39_word_underscore_1: thunder
-bip_39_word_underscore_10: thunder_void_almost_drift_true_better_odor_upgrade_elbow_fetch
-bip_39_word_underscore_11: thunder_void_almost_drift_true_better_odor_upgrade_elbow_fetch_convince
 bip_39_word_underscore_12: thunder_void_almost_drift_true_better_odor_upgrade_elbow_fetch_convince_absent
 bip_39_word_underscore_2: thunder_void
 bip_39_word_underscore_3: thunder_void_almost
-bip_39_word_underscore_4: thunder_void_almost_drift
-bip_39_word_underscore_5: thunder_void_almost_drift_true
-bip_39_word_underscore_6: thunder_void_almost_drift_true_better
-bip_39_word_underscore_7: thunder_void_almost_drift_true_better_odor
-bip_39_word_underscore_8: thunder_void_almost_drift_true_better_odor_upgrade
-bip_39_word_underscore_9: thunder_void_almost_drift_true_better_odor_upgrade_elbow
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

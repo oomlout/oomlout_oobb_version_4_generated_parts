@@ -1,68 +1,9 @@
-bip_39_word_dash_1: climb
-bip_39_word_dash_10: climb-come-unable-void-nut-guard-explain-slim-wood-hour
-bip_39_word_dash_11: climb-come-unable-void-nut-guard-explain-slim-wood-hour-impact
 bip_39_word_dash_12: climb-come-unable-void-nut-guard-explain-slim-wood-hour-impact-animal
 bip_39_word_dash_2: climb-come
 bip_39_word_dash_3: climb-come-unable
-bip_39_word_dash_4: climb-come-unable-void
-bip_39_word_dash_5: climb-come-unable-void-nut
-bip_39_word_dash_6: climb-come-unable-void-nut-guard
-bip_39_word_dash_7: climb-come-unable-void-nut-guard-explain
-bip_39_word_dash_8: climb-come-unable-void-nut-guard-explain-slim
-bip_39_word_dash_9: climb-come-unable-void-nut-guard-explain-slim-wood
-bip_39_word_new_br_1: climb
-bip_39_word_new_br_10: climb<br>come<br>unable<br>void<br>nut<br>guard<br>explain<br>slim<br>wood<br>hour
-bip_39_word_new_br_11: climb<br>come<br>unable<br>void<br>nut<br>guard<br>explain<br>slim<br>wood<br>hour<br>impact
 bip_39_word_new_br_12: climb<br>come<br>unable<br>void<br>nut<br>guard<br>explain<br>slim<br>wood<br>hour<br>impact<br>animal
 bip_39_word_new_br_2: climb<br>come
 bip_39_word_new_br_3: climb<br>come<br>unable
-bip_39_word_new_br_4: climb<br>come<br>unable<br>void
-bip_39_word_new_br_5: climb<br>come<br>unable<br>void<br>nut
-bip_39_word_new_br_6: climb<br>come<br>unable<br>void<br>nut<br>guard
-bip_39_word_new_br_7: climb<br>come<br>unable<br>void<br>nut<br>guard<br>explain
-bip_39_word_new_br_8: climb<br>come<br>unable<br>void<br>nut<br>guard<br>explain<br>slim
-bip_39_word_new_br_9: climb<br>come<br>unable<br>void<br>nut<br>guard<br>explain<br>slim<br>wood
-bip_39_word_new_line_1: climb
-bip_39_word_new_line_10: 'climb
-
-  come
-
-  unable
-
-  void
-
-  nut
-
-  guard
-
-  explain
-
-  slim
-
-  wood
-
-  hour'
-bip_39_word_new_line_11: 'climb
-
-  come
-
-  unable
-
-  void
-
-  nut
-
-  guard
-
-  explain
-
-  slim
-
-  wood
-
-  hour
-
-  impact'
 bip_39_word_new_line_12: 'climb
 
   come
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'climb
   come
 
   unable'
-bip_39_word_new_line_4: 'climb
-
-  come
-
-  unable
-
-  void'
-bip_39_word_new_line_5: 'climb
-
-  come
-
-  unable
-
-  void
-
-  nut'
-bip_39_word_new_line_6: 'climb
-
-  come
-
-  unable
-
-  void
-
-  nut
-
-  guard'
-bip_39_word_new_line_7: 'climb
-
-  come
-
-  unable
-
-  void
-
-  nut
-
-  guard
-
-  explain'
-bip_39_word_new_line_8: 'climb
-
-  come
-
-  unable
-
-  void
-
-  nut
-
-  guard
-
-  explain
-
-  slim'
-bip_39_word_new_line_9: 'climb
-
-  come
-
-  unable
-
-  void
-
-  nut
-
-  guard
-
-  explain
-
-  slim
-
-  wood'
-bip_39_word_no_space_1: climb
-bip_39_word_no_space_10: climbcomeunablevoidnutguardexplainslimwoodhour
-bip_39_word_no_space_11: climbcomeunablevoidnutguardexplainslimwoodhourimpact
 bip_39_word_no_space_12: climbcomeunablevoidnutguardexplainslimwoodhourimpactanimal
 bip_39_word_no_space_2: climbcome
 bip_39_word_no_space_3: climbcomeunable
-bip_39_word_no_space_4: climbcomeunablevoid
-bip_39_word_no_space_5: climbcomeunablevoidnut
-bip_39_word_no_space_6: climbcomeunablevoidnutguard
-bip_39_word_no_space_7: climbcomeunablevoidnutguardexplain
-bip_39_word_no_space_8: climbcomeunablevoidnutguardexplainslim
-bip_39_word_no_space_9: climbcomeunablevoidnutguardexplainslimwood
-bip_39_word_space_0:
-- climb
-- come
-- unable
-- void
-- nut
-- guard
-- explain
-- slim
-- wood
-- hour
-- impact
-- animal
-bip_39_word_space_1: climb
-bip_39_word_space_10: climb come unable void nut guard explain slim wood hour
-bip_39_word_space_11: climb come unable void nut guard explain slim wood hour impact
 bip_39_word_space_12: climb come unable void nut guard explain slim wood hour impact
   animal
 bip_39_word_space_2: climb come
 bip_39_word_space_3: climb come unable
-bip_39_word_space_4: climb come unable void
-bip_39_word_space_5: climb come unable void nut
-bip_39_word_space_6: climb come unable void nut guard
-bip_39_word_space_7: climb come unable void nut guard explain
-bip_39_word_space_8: climb come unable void nut guard explain slim
-bip_39_word_space_9: climb come unable void nut guard explain slim wood
-bip_39_word_underscore_1: climb
-bip_39_word_underscore_10: climb_come_unable_void_nut_guard_explain_slim_wood_hour
-bip_39_word_underscore_11: climb_come_unable_void_nut_guard_explain_slim_wood_hour_impact
 bip_39_word_underscore_12: climb_come_unable_void_nut_guard_explain_slim_wood_hour_impact_animal
 bip_39_word_underscore_2: climb_come
 bip_39_word_underscore_3: climb_come_unable
-bip_39_word_underscore_4: climb_come_unable_void
-bip_39_word_underscore_5: climb_come_unable_void_nut
-bip_39_word_underscore_6: climb_come_unable_void_nut_guard
-bip_39_word_underscore_7: climb_come_unable_void_nut_guard_explain
-bip_39_word_underscore_8: climb_come_unable_void_nut_guard_explain_slim
-bip_39_word_underscore_9: climb_come_unable_void_nut_guard_explain_slim_wood
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

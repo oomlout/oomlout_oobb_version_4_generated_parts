@@ -1,68 +1,9 @@
-bip_39_word_dash_1: record
-bip_39_word_dash_10: record-bid-carpet-pull-detail-play-galaxy-toward-fragile-stock
-bip_39_word_dash_11: record-bid-carpet-pull-detail-play-galaxy-toward-fragile-stock-rough
 bip_39_word_dash_12: record-bid-carpet-pull-detail-play-galaxy-toward-fragile-stock-rough-around
 bip_39_word_dash_2: record-bid
 bip_39_word_dash_3: record-bid-carpet
-bip_39_word_dash_4: record-bid-carpet-pull
-bip_39_word_dash_5: record-bid-carpet-pull-detail
-bip_39_word_dash_6: record-bid-carpet-pull-detail-play
-bip_39_word_dash_7: record-bid-carpet-pull-detail-play-galaxy
-bip_39_word_dash_8: record-bid-carpet-pull-detail-play-galaxy-toward
-bip_39_word_dash_9: record-bid-carpet-pull-detail-play-galaxy-toward-fragile
-bip_39_word_new_br_1: record
-bip_39_word_new_br_10: record<br>bid<br>carpet<br>pull<br>detail<br>play<br>galaxy<br>toward<br>fragile<br>stock
-bip_39_word_new_br_11: record<br>bid<br>carpet<br>pull<br>detail<br>play<br>galaxy<br>toward<br>fragile<br>stock<br>rough
 bip_39_word_new_br_12: record<br>bid<br>carpet<br>pull<br>detail<br>play<br>galaxy<br>toward<br>fragile<br>stock<br>rough<br>around
 bip_39_word_new_br_2: record<br>bid
 bip_39_word_new_br_3: record<br>bid<br>carpet
-bip_39_word_new_br_4: record<br>bid<br>carpet<br>pull
-bip_39_word_new_br_5: record<br>bid<br>carpet<br>pull<br>detail
-bip_39_word_new_br_6: record<br>bid<br>carpet<br>pull<br>detail<br>play
-bip_39_word_new_br_7: record<br>bid<br>carpet<br>pull<br>detail<br>play<br>galaxy
-bip_39_word_new_br_8: record<br>bid<br>carpet<br>pull<br>detail<br>play<br>galaxy<br>toward
-bip_39_word_new_br_9: record<br>bid<br>carpet<br>pull<br>detail<br>play<br>galaxy<br>toward<br>fragile
-bip_39_word_new_line_1: record
-bip_39_word_new_line_10: 'record
-
-  bid
-
-  carpet
-
-  pull
-
-  detail
-
-  play
-
-  galaxy
-
-  toward
-
-  fragile
-
-  stock'
-bip_39_word_new_line_11: 'record
-
-  bid
-
-  carpet
-
-  pull
-
-  detail
-
-  play
-
-  galaxy
-
-  toward
-
-  fragile
-
-  stock
-
-  rough'
 bip_39_word_new_line_12: 'record
 
   bid
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'record
   bid
 
   carpet'
-bip_39_word_new_line_4: 'record
-
-  bid
-
-  carpet
-
-  pull'
-bip_39_word_new_line_5: 'record
-
-  bid
-
-  carpet
-
-  pull
-
-  detail'
-bip_39_word_new_line_6: 'record
-
-  bid
-
-  carpet
-
-  pull
-
-  detail
-
-  play'
-bip_39_word_new_line_7: 'record
-
-  bid
-
-  carpet
-
-  pull
-
-  detail
-
-  play
-
-  galaxy'
-bip_39_word_new_line_8: 'record
-
-  bid
-
-  carpet
-
-  pull
-
-  detail
-
-  play
-
-  galaxy
-
-  toward'
-bip_39_word_new_line_9: 'record
-
-  bid
-
-  carpet
-
-  pull
-
-  detail
-
-  play
-
-  galaxy
-
-  toward
-
-  fragile'
-bip_39_word_no_space_1: record
-bip_39_word_no_space_10: recordbidcarpetpulldetailplaygalaxytowardfragilestock
-bip_39_word_no_space_11: recordbidcarpetpulldetailplaygalaxytowardfragilestockrough
 bip_39_word_no_space_12: recordbidcarpetpulldetailplaygalaxytowardfragilestockrougharound
 bip_39_word_no_space_2: recordbid
 bip_39_word_no_space_3: recordbidcarpet
-bip_39_word_no_space_4: recordbidcarpetpull
-bip_39_word_no_space_5: recordbidcarpetpulldetail
-bip_39_word_no_space_6: recordbidcarpetpulldetailplay
-bip_39_word_no_space_7: recordbidcarpetpulldetailplaygalaxy
-bip_39_word_no_space_8: recordbidcarpetpulldetailplaygalaxytoward
-bip_39_word_no_space_9: recordbidcarpetpulldetailplaygalaxytowardfragile
-bip_39_word_space_0:
-- record
-- bid
-- carpet
-- pull
-- detail
-- play
-- galaxy
-- toward
-- fragile
-- stock
-- rough
-- around
-bip_39_word_space_1: record
-bip_39_word_space_10: record bid carpet pull detail play galaxy toward fragile stock
-bip_39_word_space_11: record bid carpet pull detail play galaxy toward fragile stock
-  rough
 bip_39_word_space_12: record bid carpet pull detail play galaxy toward fragile stock
   rough around
 bip_39_word_space_2: record bid
 bip_39_word_space_3: record bid carpet
-bip_39_word_space_4: record bid carpet pull
-bip_39_word_space_5: record bid carpet pull detail
-bip_39_word_space_6: record bid carpet pull detail play
-bip_39_word_space_7: record bid carpet pull detail play galaxy
-bip_39_word_space_8: record bid carpet pull detail play galaxy toward
-bip_39_word_space_9: record bid carpet pull detail play galaxy toward fragile
-bip_39_word_underscore_1: record
-bip_39_word_underscore_10: record_bid_carpet_pull_detail_play_galaxy_toward_fragile_stock
-bip_39_word_underscore_11: record_bid_carpet_pull_detail_play_galaxy_toward_fragile_stock_rough
 bip_39_word_underscore_12: record_bid_carpet_pull_detail_play_galaxy_toward_fragile_stock_rough_around
 bip_39_word_underscore_2: record_bid
 bip_39_word_underscore_3: record_bid_carpet
-bip_39_word_underscore_4: record_bid_carpet_pull
-bip_39_word_underscore_5: record_bid_carpet_pull_detail
-bip_39_word_underscore_6: record_bid_carpet_pull_detail_play
-bip_39_word_underscore_7: record_bid_carpet_pull_detail_play_galaxy
-bip_39_word_underscore_8: record_bid_carpet_pull_detail_play_galaxy_toward
-bip_39_word_underscore_9: record_bid_carpet_pull_detail_play_galaxy_toward_fragile
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

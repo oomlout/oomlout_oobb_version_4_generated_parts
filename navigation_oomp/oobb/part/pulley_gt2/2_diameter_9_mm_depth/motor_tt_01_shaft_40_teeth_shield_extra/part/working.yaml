@@ -1,68 +1,9 @@
-bip_39_word_dash_1: trigger
-bip_39_word_dash_10: trigger-uncover-bomb-fame-latin-regular-trust-derive-monitor-casual
-bip_39_word_dash_11: trigger-uncover-bomb-fame-latin-regular-trust-derive-monitor-casual-crouch
 bip_39_word_dash_12: trigger-uncover-bomb-fame-latin-regular-trust-derive-monitor-casual-crouch-album
 bip_39_word_dash_2: trigger-uncover
 bip_39_word_dash_3: trigger-uncover-bomb
-bip_39_word_dash_4: trigger-uncover-bomb-fame
-bip_39_word_dash_5: trigger-uncover-bomb-fame-latin
-bip_39_word_dash_6: trigger-uncover-bomb-fame-latin-regular
-bip_39_word_dash_7: trigger-uncover-bomb-fame-latin-regular-trust
-bip_39_word_dash_8: trigger-uncover-bomb-fame-latin-regular-trust-derive
-bip_39_word_dash_9: trigger-uncover-bomb-fame-latin-regular-trust-derive-monitor
-bip_39_word_new_br_1: trigger
-bip_39_word_new_br_10: trigger<br>uncover<br>bomb<br>fame<br>latin<br>regular<br>trust<br>derive<br>monitor<br>casual
-bip_39_word_new_br_11: trigger<br>uncover<br>bomb<br>fame<br>latin<br>regular<br>trust<br>derive<br>monitor<br>casual<br>crouch
 bip_39_word_new_br_12: trigger<br>uncover<br>bomb<br>fame<br>latin<br>regular<br>trust<br>derive<br>monitor<br>casual<br>crouch<br>album
 bip_39_word_new_br_2: trigger<br>uncover
 bip_39_word_new_br_3: trigger<br>uncover<br>bomb
-bip_39_word_new_br_4: trigger<br>uncover<br>bomb<br>fame
-bip_39_word_new_br_5: trigger<br>uncover<br>bomb<br>fame<br>latin
-bip_39_word_new_br_6: trigger<br>uncover<br>bomb<br>fame<br>latin<br>regular
-bip_39_word_new_br_7: trigger<br>uncover<br>bomb<br>fame<br>latin<br>regular<br>trust
-bip_39_word_new_br_8: trigger<br>uncover<br>bomb<br>fame<br>latin<br>regular<br>trust<br>derive
-bip_39_word_new_br_9: trigger<br>uncover<br>bomb<br>fame<br>latin<br>regular<br>trust<br>derive<br>monitor
-bip_39_word_new_line_1: trigger
-bip_39_word_new_line_10: 'trigger
-
-  uncover
-
-  bomb
-
-  fame
-
-  latin
-
-  regular
-
-  trust
-
-  derive
-
-  monitor
-
-  casual'
-bip_39_word_new_line_11: 'trigger
-
-  uncover
-
-  bomb
-
-  fame
-
-  latin
-
-  regular
-
-  trust
-
-  derive
-
-  monitor
-
-  casual
-
-  crouch'
 bip_39_word_new_line_12: 'trigger
 
   uncover
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'trigger
   uncover
 
   bomb'
-bip_39_word_new_line_4: 'trigger
-
-  uncover
-
-  bomb
-
-  fame'
-bip_39_word_new_line_5: 'trigger
-
-  uncover
-
-  bomb
-
-  fame
-
-  latin'
-bip_39_word_new_line_6: 'trigger
-
-  uncover
-
-  bomb
-
-  fame
-
-  latin
-
-  regular'
-bip_39_word_new_line_7: 'trigger
-
-  uncover
-
-  bomb
-
-  fame
-
-  latin
-
-  regular
-
-  trust'
-bip_39_word_new_line_8: 'trigger
-
-  uncover
-
-  bomb
-
-  fame
-
-  latin
-
-  regular
-
-  trust
-
-  derive'
-bip_39_word_new_line_9: 'trigger
-
-  uncover
-
-  bomb
-
-  fame
-
-  latin
-
-  regular
-
-  trust
-
-  derive
-
-  monitor'
-bip_39_word_no_space_1: trigger
-bip_39_word_no_space_10: triggeruncoverbombfamelatinregulartrustderivemonitorcasual
-bip_39_word_no_space_11: triggeruncoverbombfamelatinregulartrustderivemonitorcasualcrouch
 bip_39_word_no_space_12: triggeruncoverbombfamelatinregulartrustderivemonitorcasualcrouchalbum
 bip_39_word_no_space_2: triggeruncover
 bip_39_word_no_space_3: triggeruncoverbomb
-bip_39_word_no_space_4: triggeruncoverbombfame
-bip_39_word_no_space_5: triggeruncoverbombfamelatin
-bip_39_word_no_space_6: triggeruncoverbombfamelatinregular
-bip_39_word_no_space_7: triggeruncoverbombfamelatinregulartrust
-bip_39_word_no_space_8: triggeruncoverbombfamelatinregulartrustderive
-bip_39_word_no_space_9: triggeruncoverbombfamelatinregulartrustderivemonitor
-bip_39_word_space_0:
-- trigger
-- uncover
-- bomb
-- fame
-- latin
-- regular
-- trust
-- derive
-- monitor
-- casual
-- crouch
-- album
-bip_39_word_space_1: trigger
-bip_39_word_space_10: trigger uncover bomb fame latin regular trust derive monitor
-  casual
-bip_39_word_space_11: trigger uncover bomb fame latin regular trust derive monitor
-  casual crouch
 bip_39_word_space_12: trigger uncover bomb fame latin regular trust derive monitor
   casual crouch album
 bip_39_word_space_2: trigger uncover
 bip_39_word_space_3: trigger uncover bomb
-bip_39_word_space_4: trigger uncover bomb fame
-bip_39_word_space_5: trigger uncover bomb fame latin
-bip_39_word_space_6: trigger uncover bomb fame latin regular
-bip_39_word_space_7: trigger uncover bomb fame latin regular trust
-bip_39_word_space_8: trigger uncover bomb fame latin regular trust derive
-bip_39_word_space_9: trigger uncover bomb fame latin regular trust derive monitor
-bip_39_word_underscore_1: trigger
-bip_39_word_underscore_10: trigger_uncover_bomb_fame_latin_regular_trust_derive_monitor_casual
-bip_39_word_underscore_11: trigger_uncover_bomb_fame_latin_regular_trust_derive_monitor_casual_crouch
 bip_39_word_underscore_12: trigger_uncover_bomb_fame_latin_regular_trust_derive_monitor_casual_crouch_album
 bip_39_word_underscore_2: trigger_uncover
 bip_39_word_underscore_3: trigger_uncover_bomb
-bip_39_word_underscore_4: trigger_uncover_bomb_fame
-bip_39_word_underscore_5: trigger_uncover_bomb_fame_latin
-bip_39_word_underscore_6: trigger_uncover_bomb_fame_latin_regular
-bip_39_word_underscore_7: trigger_uncover_bomb_fame_latin_regular_trust
-bip_39_word_underscore_8: trigger_uncover_bomb_fame_latin_regular_trust_derive
-bip_39_word_underscore_9: trigger_uncover_bomb_fame_latin_regular_trust_derive_monitor
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

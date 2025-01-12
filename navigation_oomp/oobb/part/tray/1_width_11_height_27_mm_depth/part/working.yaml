@@ -1,68 +1,9 @@
-bip_39_word_dash_1: sentence
-bip_39_word_dash_10: sentence-salt-blade-loyal-legal-arch-capable-cancel-piano-work
-bip_39_word_dash_11: sentence-salt-blade-loyal-legal-arch-capable-cancel-piano-work-list
 bip_39_word_dash_12: sentence-salt-blade-loyal-legal-arch-capable-cancel-piano-work-list-average
 bip_39_word_dash_2: sentence-salt
 bip_39_word_dash_3: sentence-salt-blade
-bip_39_word_dash_4: sentence-salt-blade-loyal
-bip_39_word_dash_5: sentence-salt-blade-loyal-legal
-bip_39_word_dash_6: sentence-salt-blade-loyal-legal-arch
-bip_39_word_dash_7: sentence-salt-blade-loyal-legal-arch-capable
-bip_39_word_dash_8: sentence-salt-blade-loyal-legal-arch-capable-cancel
-bip_39_word_dash_9: sentence-salt-blade-loyal-legal-arch-capable-cancel-piano
-bip_39_word_new_br_1: sentence
-bip_39_word_new_br_10: sentence<br>salt<br>blade<br>loyal<br>legal<br>arch<br>capable<br>cancel<br>piano<br>work
-bip_39_word_new_br_11: sentence<br>salt<br>blade<br>loyal<br>legal<br>arch<br>capable<br>cancel<br>piano<br>work<br>list
 bip_39_word_new_br_12: sentence<br>salt<br>blade<br>loyal<br>legal<br>arch<br>capable<br>cancel<br>piano<br>work<br>list<br>average
 bip_39_word_new_br_2: sentence<br>salt
 bip_39_word_new_br_3: sentence<br>salt<br>blade
-bip_39_word_new_br_4: sentence<br>salt<br>blade<br>loyal
-bip_39_word_new_br_5: sentence<br>salt<br>blade<br>loyal<br>legal
-bip_39_word_new_br_6: sentence<br>salt<br>blade<br>loyal<br>legal<br>arch
-bip_39_word_new_br_7: sentence<br>salt<br>blade<br>loyal<br>legal<br>arch<br>capable
-bip_39_word_new_br_8: sentence<br>salt<br>blade<br>loyal<br>legal<br>arch<br>capable<br>cancel
-bip_39_word_new_br_9: sentence<br>salt<br>blade<br>loyal<br>legal<br>arch<br>capable<br>cancel<br>piano
-bip_39_word_new_line_1: sentence
-bip_39_word_new_line_10: 'sentence
-
-  salt
-
-  blade
-
-  loyal
-
-  legal
-
-  arch
-
-  capable
-
-  cancel
-
-  piano
-
-  work'
-bip_39_word_new_line_11: 'sentence
-
-  salt
-
-  blade
-
-  loyal
-
-  legal
-
-  arch
-
-  capable
-
-  cancel
-
-  piano
-
-  work
-
-  list'
 bip_39_word_new_line_12: 'sentence
 
   salt
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'sentence
   salt
 
   blade'
-bip_39_word_new_line_4: 'sentence
-
-  salt
-
-  blade
-
-  loyal'
-bip_39_word_new_line_5: 'sentence
-
-  salt
-
-  blade
-
-  loyal
-
-  legal'
-bip_39_word_new_line_6: 'sentence
-
-  salt
-
-  blade
-
-  loyal
-
-  legal
-
-  arch'
-bip_39_word_new_line_7: 'sentence
-
-  salt
-
-  blade
-
-  loyal
-
-  legal
-
-  arch
-
-  capable'
-bip_39_word_new_line_8: 'sentence
-
-  salt
-
-  blade
-
-  loyal
-
-  legal
-
-  arch
-
-  capable
-
-  cancel'
-bip_39_word_new_line_9: 'sentence
-
-  salt
-
-  blade
-
-  loyal
-
-  legal
-
-  arch
-
-  capable
-
-  cancel
-
-  piano'
-bip_39_word_no_space_1: sentence
-bip_39_word_no_space_10: sentencesaltbladeloyallegalarchcapablecancelpianowork
-bip_39_word_no_space_11: sentencesaltbladeloyallegalarchcapablecancelpianoworklist
 bip_39_word_no_space_12: sentencesaltbladeloyallegalarchcapablecancelpianoworklistaverage
 bip_39_word_no_space_2: sentencesalt
 bip_39_word_no_space_3: sentencesaltblade
-bip_39_word_no_space_4: sentencesaltbladeloyal
-bip_39_word_no_space_5: sentencesaltbladeloyallegal
-bip_39_word_no_space_6: sentencesaltbladeloyallegalarch
-bip_39_word_no_space_7: sentencesaltbladeloyallegalarchcapable
-bip_39_word_no_space_8: sentencesaltbladeloyallegalarchcapablecancel
-bip_39_word_no_space_9: sentencesaltbladeloyallegalarchcapablecancelpiano
-bip_39_word_space_0:
-- sentence
-- salt
-- blade
-- loyal
-- legal
-- arch
-- capable
-- cancel
-- piano
-- work
-- list
-- average
-bip_39_word_space_1: sentence
-bip_39_word_space_10: sentence salt blade loyal legal arch capable cancel piano work
-bip_39_word_space_11: sentence salt blade loyal legal arch capable cancel piano work
-  list
 bip_39_word_space_12: sentence salt blade loyal legal arch capable cancel piano work
   list average
 bip_39_word_space_2: sentence salt
 bip_39_word_space_3: sentence salt blade
-bip_39_word_space_4: sentence salt blade loyal
-bip_39_word_space_5: sentence salt blade loyal legal
-bip_39_word_space_6: sentence salt blade loyal legal arch
-bip_39_word_space_7: sentence salt blade loyal legal arch capable
-bip_39_word_space_8: sentence salt blade loyal legal arch capable cancel
-bip_39_word_space_9: sentence salt blade loyal legal arch capable cancel piano
-bip_39_word_underscore_1: sentence
-bip_39_word_underscore_10: sentence_salt_blade_loyal_legal_arch_capable_cancel_piano_work
-bip_39_word_underscore_11: sentence_salt_blade_loyal_legal_arch_capable_cancel_piano_work_list
 bip_39_word_underscore_12: sentence_salt_blade_loyal_legal_arch_capable_cancel_piano_work_list_average
 bip_39_word_underscore_2: sentence_salt
 bip_39_word_underscore_3: sentence_salt_blade
-bip_39_word_underscore_4: sentence_salt_blade_loyal
-bip_39_word_underscore_5: sentence_salt_blade_loyal_legal
-bip_39_word_underscore_6: sentence_salt_blade_loyal_legal_arch
-bip_39_word_underscore_7: sentence_salt_blade_loyal_legal_arch_capable
-bip_39_word_underscore_8: sentence_salt_blade_loyal_legal_arch_capable_cancel
-bip_39_word_underscore_9: sentence_salt_blade_loyal_legal_arch_capable_cancel_piano
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: finger
-bip_39_word_dash_10: finger-box-envelope-circle-census-setup-dance-cabbage-bean-turtle
-bip_39_word_dash_11: finger-box-envelope-circle-census-setup-dance-cabbage-bean-turtle-verify
 bip_39_word_dash_12: finger-box-envelope-circle-census-setup-dance-cabbage-bean-turtle-verify-accuse
 bip_39_word_dash_2: finger-box
 bip_39_word_dash_3: finger-box-envelope
-bip_39_word_dash_4: finger-box-envelope-circle
-bip_39_word_dash_5: finger-box-envelope-circle-census
-bip_39_word_dash_6: finger-box-envelope-circle-census-setup
-bip_39_word_dash_7: finger-box-envelope-circle-census-setup-dance
-bip_39_word_dash_8: finger-box-envelope-circle-census-setup-dance-cabbage
-bip_39_word_dash_9: finger-box-envelope-circle-census-setup-dance-cabbage-bean
-bip_39_word_new_br_1: finger
-bip_39_word_new_br_10: finger<br>box<br>envelope<br>circle<br>census<br>setup<br>dance<br>cabbage<br>bean<br>turtle
-bip_39_word_new_br_11: finger<br>box<br>envelope<br>circle<br>census<br>setup<br>dance<br>cabbage<br>bean<br>turtle<br>verify
 bip_39_word_new_br_12: finger<br>box<br>envelope<br>circle<br>census<br>setup<br>dance<br>cabbage<br>bean<br>turtle<br>verify<br>accuse
 bip_39_word_new_br_2: finger<br>box
 bip_39_word_new_br_3: finger<br>box<br>envelope
-bip_39_word_new_br_4: finger<br>box<br>envelope<br>circle
-bip_39_word_new_br_5: finger<br>box<br>envelope<br>circle<br>census
-bip_39_word_new_br_6: finger<br>box<br>envelope<br>circle<br>census<br>setup
-bip_39_word_new_br_7: finger<br>box<br>envelope<br>circle<br>census<br>setup<br>dance
-bip_39_word_new_br_8: finger<br>box<br>envelope<br>circle<br>census<br>setup<br>dance<br>cabbage
-bip_39_word_new_br_9: finger<br>box<br>envelope<br>circle<br>census<br>setup<br>dance<br>cabbage<br>bean
-bip_39_word_new_line_1: finger
-bip_39_word_new_line_10: 'finger
-
-  box
-
-  envelope
-
-  circle
-
-  census
-
-  setup
-
-  dance
-
-  cabbage
-
-  bean
-
-  turtle'
-bip_39_word_new_line_11: 'finger
-
-  box
-
-  envelope
-
-  circle
-
-  census
-
-  setup
-
-  dance
-
-  cabbage
-
-  bean
-
-  turtle
-
-  verify'
 bip_39_word_new_line_12: 'finger
 
   box
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'finger
   box
 
   envelope'
-bip_39_word_new_line_4: 'finger
-
-  box
-
-  envelope
-
-  circle'
-bip_39_word_new_line_5: 'finger
-
-  box
-
-  envelope
-
-  circle
-
-  census'
-bip_39_word_new_line_6: 'finger
-
-  box
-
-  envelope
-
-  circle
-
-  census
-
-  setup'
-bip_39_word_new_line_7: 'finger
-
-  box
-
-  envelope
-
-  circle
-
-  census
-
-  setup
-
-  dance'
-bip_39_word_new_line_8: 'finger
-
-  box
-
-  envelope
-
-  circle
-
-  census
-
-  setup
-
-  dance
-
-  cabbage'
-bip_39_word_new_line_9: 'finger
-
-  box
-
-  envelope
-
-  circle
-
-  census
-
-  setup
-
-  dance
-
-  cabbage
-
-  bean'
-bip_39_word_no_space_1: finger
-bip_39_word_no_space_10: fingerboxenvelopecirclecensussetupdancecabbagebeanturtle
-bip_39_word_no_space_11: fingerboxenvelopecirclecensussetupdancecabbagebeanturtleverify
 bip_39_word_no_space_12: fingerboxenvelopecirclecensussetupdancecabbagebeanturtleverifyaccuse
 bip_39_word_no_space_2: fingerbox
 bip_39_word_no_space_3: fingerboxenvelope
-bip_39_word_no_space_4: fingerboxenvelopecircle
-bip_39_word_no_space_5: fingerboxenvelopecirclecensus
-bip_39_word_no_space_6: fingerboxenvelopecirclecensussetup
-bip_39_word_no_space_7: fingerboxenvelopecirclecensussetupdance
-bip_39_word_no_space_8: fingerboxenvelopecirclecensussetupdancecabbage
-bip_39_word_no_space_9: fingerboxenvelopecirclecensussetupdancecabbagebean
-bip_39_word_space_0:
-- finger
-- box
-- envelope
-- circle
-- census
-- setup
-- dance
-- cabbage
-- bean
-- turtle
-- verify
-- accuse
-bip_39_word_space_1: finger
-bip_39_word_space_10: finger box envelope circle census setup dance cabbage bean turtle
-bip_39_word_space_11: finger box envelope circle census setup dance cabbage bean turtle
-  verify
 bip_39_word_space_12: finger box envelope circle census setup dance cabbage bean turtle
   verify accuse
 bip_39_word_space_2: finger box
 bip_39_word_space_3: finger box envelope
-bip_39_word_space_4: finger box envelope circle
-bip_39_word_space_5: finger box envelope circle census
-bip_39_word_space_6: finger box envelope circle census setup
-bip_39_word_space_7: finger box envelope circle census setup dance
-bip_39_word_space_8: finger box envelope circle census setup dance cabbage
-bip_39_word_space_9: finger box envelope circle census setup dance cabbage bean
-bip_39_word_underscore_1: finger
-bip_39_word_underscore_10: finger_box_envelope_circle_census_setup_dance_cabbage_bean_turtle
-bip_39_word_underscore_11: finger_box_envelope_circle_census_setup_dance_cabbage_bean_turtle_verify
 bip_39_word_underscore_12: finger_box_envelope_circle_census_setup_dance_cabbage_bean_turtle_verify_accuse
 bip_39_word_underscore_2: finger_box
 bip_39_word_underscore_3: finger_box_envelope
-bip_39_word_underscore_4: finger_box_envelope_circle
-bip_39_word_underscore_5: finger_box_envelope_circle_census
-bip_39_word_underscore_6: finger_box_envelope_circle_census_setup
-bip_39_word_underscore_7: finger_box_envelope_circle_census_setup_dance
-bip_39_word_underscore_8: finger_box_envelope_circle_census_setup_dance_cabbage
-bip_39_word_underscore_9: finger_box_envelope_circle_census_setup_dance_cabbage_bean
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

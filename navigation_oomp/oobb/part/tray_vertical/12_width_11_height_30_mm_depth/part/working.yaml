@@ -1,68 +1,9 @@
-bip_39_word_dash_1: degree
-bip_39_word_dash_10: degree-hidden-silent-maze-crush-ignore-excess-summer-aware-usual
-bip_39_word_dash_11: degree-hidden-silent-maze-crush-ignore-excess-summer-aware-usual-trend
 bip_39_word_dash_12: degree-hidden-silent-maze-crush-ignore-excess-summer-aware-usual-trend-acoustic
 bip_39_word_dash_2: degree-hidden
 bip_39_word_dash_3: degree-hidden-silent
-bip_39_word_dash_4: degree-hidden-silent-maze
-bip_39_word_dash_5: degree-hidden-silent-maze-crush
-bip_39_word_dash_6: degree-hidden-silent-maze-crush-ignore
-bip_39_word_dash_7: degree-hidden-silent-maze-crush-ignore-excess
-bip_39_word_dash_8: degree-hidden-silent-maze-crush-ignore-excess-summer
-bip_39_word_dash_9: degree-hidden-silent-maze-crush-ignore-excess-summer-aware
-bip_39_word_new_br_1: degree
-bip_39_word_new_br_10: degree<br>hidden<br>silent<br>maze<br>crush<br>ignore<br>excess<br>summer<br>aware<br>usual
-bip_39_word_new_br_11: degree<br>hidden<br>silent<br>maze<br>crush<br>ignore<br>excess<br>summer<br>aware<br>usual<br>trend
 bip_39_word_new_br_12: degree<br>hidden<br>silent<br>maze<br>crush<br>ignore<br>excess<br>summer<br>aware<br>usual<br>trend<br>acoustic
 bip_39_word_new_br_2: degree<br>hidden
 bip_39_word_new_br_3: degree<br>hidden<br>silent
-bip_39_word_new_br_4: degree<br>hidden<br>silent<br>maze
-bip_39_word_new_br_5: degree<br>hidden<br>silent<br>maze<br>crush
-bip_39_word_new_br_6: degree<br>hidden<br>silent<br>maze<br>crush<br>ignore
-bip_39_word_new_br_7: degree<br>hidden<br>silent<br>maze<br>crush<br>ignore<br>excess
-bip_39_word_new_br_8: degree<br>hidden<br>silent<br>maze<br>crush<br>ignore<br>excess<br>summer
-bip_39_word_new_br_9: degree<br>hidden<br>silent<br>maze<br>crush<br>ignore<br>excess<br>summer<br>aware
-bip_39_word_new_line_1: degree
-bip_39_word_new_line_10: 'degree
-
-  hidden
-
-  silent
-
-  maze
-
-  crush
-
-  ignore
-
-  excess
-
-  summer
-
-  aware
-
-  usual'
-bip_39_word_new_line_11: 'degree
-
-  hidden
-
-  silent
-
-  maze
-
-  crush
-
-  ignore
-
-  excess
-
-  summer
-
-  aware
-
-  usual
-
-  trend'
 bip_39_word_new_line_12: 'degree
 
   hidden
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'degree
   hidden
 
   silent'
-bip_39_word_new_line_4: 'degree
-
-  hidden
-
-  silent
-
-  maze'
-bip_39_word_new_line_5: 'degree
-
-  hidden
-
-  silent
-
-  maze
-
-  crush'
-bip_39_word_new_line_6: 'degree
-
-  hidden
-
-  silent
-
-  maze
-
-  crush
-
-  ignore'
-bip_39_word_new_line_7: 'degree
-
-  hidden
-
-  silent
-
-  maze
-
-  crush
-
-  ignore
-
-  excess'
-bip_39_word_new_line_8: 'degree
-
-  hidden
-
-  silent
-
-  maze
-
-  crush
-
-  ignore
-
-  excess
-
-  summer'
-bip_39_word_new_line_9: 'degree
-
-  hidden
-
-  silent
-
-  maze
-
-  crush
-
-  ignore
-
-  excess
-
-  summer
-
-  aware'
-bip_39_word_no_space_1: degree
-bip_39_word_no_space_10: degreehiddensilentmazecrushignoreexcesssummerawareusual
-bip_39_word_no_space_11: degreehiddensilentmazecrushignoreexcesssummerawareusualtrend
 bip_39_word_no_space_12: degreehiddensilentmazecrushignoreexcesssummerawareusualtrendacoustic
 bip_39_word_no_space_2: degreehidden
 bip_39_word_no_space_3: degreehiddensilent
-bip_39_word_no_space_4: degreehiddensilentmaze
-bip_39_word_no_space_5: degreehiddensilentmazecrush
-bip_39_word_no_space_6: degreehiddensilentmazecrushignore
-bip_39_word_no_space_7: degreehiddensilentmazecrushignoreexcess
-bip_39_word_no_space_8: degreehiddensilentmazecrushignoreexcesssummer
-bip_39_word_no_space_9: degreehiddensilentmazecrushignoreexcesssummeraware
-bip_39_word_space_0:
-- degree
-- hidden
-- silent
-- maze
-- crush
-- ignore
-- excess
-- summer
-- aware
-- usual
-- trend
-- acoustic
-bip_39_word_space_1: degree
-bip_39_word_space_10: degree hidden silent maze crush ignore excess summer aware usual
-bip_39_word_space_11: degree hidden silent maze crush ignore excess summer aware usual
-  trend
 bip_39_word_space_12: degree hidden silent maze crush ignore excess summer aware usual
   trend acoustic
 bip_39_word_space_2: degree hidden
 bip_39_word_space_3: degree hidden silent
-bip_39_word_space_4: degree hidden silent maze
-bip_39_word_space_5: degree hidden silent maze crush
-bip_39_word_space_6: degree hidden silent maze crush ignore
-bip_39_word_space_7: degree hidden silent maze crush ignore excess
-bip_39_word_space_8: degree hidden silent maze crush ignore excess summer
-bip_39_word_space_9: degree hidden silent maze crush ignore excess summer aware
-bip_39_word_underscore_1: degree
-bip_39_word_underscore_10: degree_hidden_silent_maze_crush_ignore_excess_summer_aware_usual
-bip_39_word_underscore_11: degree_hidden_silent_maze_crush_ignore_excess_summer_aware_usual_trend
 bip_39_word_underscore_12: degree_hidden_silent_maze_crush_ignore_excess_summer_aware_usual_trend_acoustic
 bip_39_word_underscore_2: degree_hidden
 bip_39_word_underscore_3: degree_hidden_silent
-bip_39_word_underscore_4: degree_hidden_silent_maze
-bip_39_word_underscore_5: degree_hidden_silent_maze_crush
-bip_39_word_underscore_6: degree_hidden_silent_maze_crush_ignore
-bip_39_word_underscore_7: degree_hidden_silent_maze_crush_ignore_excess
-bip_39_word_underscore_8: degree_hidden_silent_maze_crush_ignore_excess_summer
-bip_39_word_underscore_9: degree_hidden_silent_maze_crush_ignore_excess_summer_aware
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

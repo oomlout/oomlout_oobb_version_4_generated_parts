@@ -1,68 +1,9 @@
-bip_39_word_dash_1: stage
-bip_39_word_dash_10: stage-goose-critic-slight-lecture-fish-sheriff-puppy-ceiling-mind
-bip_39_word_dash_11: stage-goose-critic-slight-lecture-fish-sheriff-puppy-ceiling-mind-churn
 bip_39_word_dash_12: stage-goose-critic-slight-lecture-fish-sheriff-puppy-ceiling-mind-churn-adjust
 bip_39_word_dash_2: stage-goose
 bip_39_word_dash_3: stage-goose-critic
-bip_39_word_dash_4: stage-goose-critic-slight
-bip_39_word_dash_5: stage-goose-critic-slight-lecture
-bip_39_word_dash_6: stage-goose-critic-slight-lecture-fish
-bip_39_word_dash_7: stage-goose-critic-slight-lecture-fish-sheriff
-bip_39_word_dash_8: stage-goose-critic-slight-lecture-fish-sheriff-puppy
-bip_39_word_dash_9: stage-goose-critic-slight-lecture-fish-sheriff-puppy-ceiling
-bip_39_word_new_br_1: stage
-bip_39_word_new_br_10: stage<br>goose<br>critic<br>slight<br>lecture<br>fish<br>sheriff<br>puppy<br>ceiling<br>mind
-bip_39_word_new_br_11: stage<br>goose<br>critic<br>slight<br>lecture<br>fish<br>sheriff<br>puppy<br>ceiling<br>mind<br>churn
 bip_39_word_new_br_12: stage<br>goose<br>critic<br>slight<br>lecture<br>fish<br>sheriff<br>puppy<br>ceiling<br>mind<br>churn<br>adjust
 bip_39_word_new_br_2: stage<br>goose
 bip_39_word_new_br_3: stage<br>goose<br>critic
-bip_39_word_new_br_4: stage<br>goose<br>critic<br>slight
-bip_39_word_new_br_5: stage<br>goose<br>critic<br>slight<br>lecture
-bip_39_word_new_br_6: stage<br>goose<br>critic<br>slight<br>lecture<br>fish
-bip_39_word_new_br_7: stage<br>goose<br>critic<br>slight<br>lecture<br>fish<br>sheriff
-bip_39_word_new_br_8: stage<br>goose<br>critic<br>slight<br>lecture<br>fish<br>sheriff<br>puppy
-bip_39_word_new_br_9: stage<br>goose<br>critic<br>slight<br>lecture<br>fish<br>sheriff<br>puppy<br>ceiling
-bip_39_word_new_line_1: stage
-bip_39_word_new_line_10: 'stage
-
-  goose
-
-  critic
-
-  slight
-
-  lecture
-
-  fish
-
-  sheriff
-
-  puppy
-
-  ceiling
-
-  mind'
-bip_39_word_new_line_11: 'stage
-
-  goose
-
-  critic
-
-  slight
-
-  lecture
-
-  fish
-
-  sheriff
-
-  puppy
-
-  ceiling
-
-  mind
-
-  churn'
 bip_39_word_new_line_12: 'stage
 
   goose
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'stage
   goose
 
   critic'
-bip_39_word_new_line_4: 'stage
-
-  goose
-
-  critic
-
-  slight'
-bip_39_word_new_line_5: 'stage
-
-  goose
-
-  critic
-
-  slight
-
-  lecture'
-bip_39_word_new_line_6: 'stage
-
-  goose
-
-  critic
-
-  slight
-
-  lecture
-
-  fish'
-bip_39_word_new_line_7: 'stage
-
-  goose
-
-  critic
-
-  slight
-
-  lecture
-
-  fish
-
-  sheriff'
-bip_39_word_new_line_8: 'stage
-
-  goose
-
-  critic
-
-  slight
-
-  lecture
-
-  fish
-
-  sheriff
-
-  puppy'
-bip_39_word_new_line_9: 'stage
-
-  goose
-
-  critic
-
-  slight
-
-  lecture
-
-  fish
-
-  sheriff
-
-  puppy
-
-  ceiling'
-bip_39_word_no_space_1: stage
-bip_39_word_no_space_10: stagegoosecriticslightlecturefishsheriffpuppyceilingmind
-bip_39_word_no_space_11: stagegoosecriticslightlecturefishsheriffpuppyceilingmindchurn
 bip_39_word_no_space_12: stagegoosecriticslightlecturefishsheriffpuppyceilingmindchurnadjust
 bip_39_word_no_space_2: stagegoose
 bip_39_word_no_space_3: stagegoosecritic
-bip_39_word_no_space_4: stagegoosecriticslight
-bip_39_word_no_space_5: stagegoosecriticslightlecture
-bip_39_word_no_space_6: stagegoosecriticslightlecturefish
-bip_39_word_no_space_7: stagegoosecriticslightlecturefishsheriff
-bip_39_word_no_space_8: stagegoosecriticslightlecturefishsheriffpuppy
-bip_39_word_no_space_9: stagegoosecriticslightlecturefishsheriffpuppyceiling
-bip_39_word_space_0:
-- stage
-- goose
-- critic
-- slight
-- lecture
-- fish
-- sheriff
-- puppy
-- ceiling
-- mind
-- churn
-- adjust
-bip_39_word_space_1: stage
-bip_39_word_space_10: stage goose critic slight lecture fish sheriff puppy ceiling
-  mind
-bip_39_word_space_11: stage goose critic slight lecture fish sheriff puppy ceiling
-  mind churn
 bip_39_word_space_12: stage goose critic slight lecture fish sheriff puppy ceiling
   mind churn adjust
 bip_39_word_space_2: stage goose
 bip_39_word_space_3: stage goose critic
-bip_39_word_space_4: stage goose critic slight
-bip_39_word_space_5: stage goose critic slight lecture
-bip_39_word_space_6: stage goose critic slight lecture fish
-bip_39_word_space_7: stage goose critic slight lecture fish sheriff
-bip_39_word_space_8: stage goose critic slight lecture fish sheriff puppy
-bip_39_word_space_9: stage goose critic slight lecture fish sheriff puppy ceiling
-bip_39_word_underscore_1: stage
-bip_39_word_underscore_10: stage_goose_critic_slight_lecture_fish_sheriff_puppy_ceiling_mind
-bip_39_word_underscore_11: stage_goose_critic_slight_lecture_fish_sheriff_puppy_ceiling_mind_churn
 bip_39_word_underscore_12: stage_goose_critic_slight_lecture_fish_sheriff_puppy_ceiling_mind_churn_adjust
 bip_39_word_underscore_2: stage_goose
 bip_39_word_underscore_3: stage_goose_critic
-bip_39_word_underscore_4: stage_goose_critic_slight
-bip_39_word_underscore_5: stage_goose_critic_slight_lecture
-bip_39_word_underscore_6: stage_goose_critic_slight_lecture_fish
-bip_39_word_underscore_7: stage_goose_critic_slight_lecture_fish_sheriff
-bip_39_word_underscore_8: stage_goose_critic_slight_lecture_fish_sheriff_puppy
-bip_39_word_underscore_9: stage_goose_critic_slight_lecture_fish_sheriff_puppy_ceiling
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

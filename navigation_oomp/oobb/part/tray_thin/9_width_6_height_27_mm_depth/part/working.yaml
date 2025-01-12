@@ -1,68 +1,9 @@
-bip_39_word_dash_1: loan
-bip_39_word_dash_10: loan-bargain-busy-master-merge-dilemma-crazy-gossip-quantum-cereal
-bip_39_word_dash_11: loan-bargain-busy-master-merge-dilemma-crazy-gossip-quantum-cereal-case
 bip_39_word_dash_12: loan-bargain-busy-master-merge-dilemma-crazy-gossip-quantum-cereal-case-appear
 bip_39_word_dash_2: loan-bargain
 bip_39_word_dash_3: loan-bargain-busy
-bip_39_word_dash_4: loan-bargain-busy-master
-bip_39_word_dash_5: loan-bargain-busy-master-merge
-bip_39_word_dash_6: loan-bargain-busy-master-merge-dilemma
-bip_39_word_dash_7: loan-bargain-busy-master-merge-dilemma-crazy
-bip_39_word_dash_8: loan-bargain-busy-master-merge-dilemma-crazy-gossip
-bip_39_word_dash_9: loan-bargain-busy-master-merge-dilemma-crazy-gossip-quantum
-bip_39_word_new_br_1: loan
-bip_39_word_new_br_10: loan<br>bargain<br>busy<br>master<br>merge<br>dilemma<br>crazy<br>gossip<br>quantum<br>cereal
-bip_39_word_new_br_11: loan<br>bargain<br>busy<br>master<br>merge<br>dilemma<br>crazy<br>gossip<br>quantum<br>cereal<br>case
 bip_39_word_new_br_12: loan<br>bargain<br>busy<br>master<br>merge<br>dilemma<br>crazy<br>gossip<br>quantum<br>cereal<br>case<br>appear
 bip_39_word_new_br_2: loan<br>bargain
 bip_39_word_new_br_3: loan<br>bargain<br>busy
-bip_39_word_new_br_4: loan<br>bargain<br>busy<br>master
-bip_39_word_new_br_5: loan<br>bargain<br>busy<br>master<br>merge
-bip_39_word_new_br_6: loan<br>bargain<br>busy<br>master<br>merge<br>dilemma
-bip_39_word_new_br_7: loan<br>bargain<br>busy<br>master<br>merge<br>dilemma<br>crazy
-bip_39_word_new_br_8: loan<br>bargain<br>busy<br>master<br>merge<br>dilemma<br>crazy<br>gossip
-bip_39_word_new_br_9: loan<br>bargain<br>busy<br>master<br>merge<br>dilemma<br>crazy<br>gossip<br>quantum
-bip_39_word_new_line_1: loan
-bip_39_word_new_line_10: 'loan
-
-  bargain
-
-  busy
-
-  master
-
-  merge
-
-  dilemma
-
-  crazy
-
-  gossip
-
-  quantum
-
-  cereal'
-bip_39_word_new_line_11: 'loan
-
-  bargain
-
-  busy
-
-  master
-
-  merge
-
-  dilemma
-
-  crazy
-
-  gossip
-
-  quantum
-
-  cereal
-
-  case'
 bip_39_word_new_line_12: 'loan
 
   bargain
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'loan
   bargain
 
   busy'
-bip_39_word_new_line_4: 'loan
-
-  bargain
-
-  busy
-
-  master'
-bip_39_word_new_line_5: 'loan
-
-  bargain
-
-  busy
-
-  master
-
-  merge'
-bip_39_word_new_line_6: 'loan
-
-  bargain
-
-  busy
-
-  master
-
-  merge
-
-  dilemma'
-bip_39_word_new_line_7: 'loan
-
-  bargain
-
-  busy
-
-  master
-
-  merge
-
-  dilemma
-
-  crazy'
-bip_39_word_new_line_8: 'loan
-
-  bargain
-
-  busy
-
-  master
-
-  merge
-
-  dilemma
-
-  crazy
-
-  gossip'
-bip_39_word_new_line_9: 'loan
-
-  bargain
-
-  busy
-
-  master
-
-  merge
-
-  dilemma
-
-  crazy
-
-  gossip
-
-  quantum'
-bip_39_word_no_space_1: loan
-bip_39_word_no_space_10: loanbargainbusymastermergedilemmacrazygossipquantumcereal
-bip_39_word_no_space_11: loanbargainbusymastermergedilemmacrazygossipquantumcerealcase
 bip_39_word_no_space_12: loanbargainbusymastermergedilemmacrazygossipquantumcerealcaseappear
 bip_39_word_no_space_2: loanbargain
 bip_39_word_no_space_3: loanbargainbusy
-bip_39_word_no_space_4: loanbargainbusymaster
-bip_39_word_no_space_5: loanbargainbusymastermerge
-bip_39_word_no_space_6: loanbargainbusymastermergedilemma
-bip_39_word_no_space_7: loanbargainbusymastermergedilemmacrazy
-bip_39_word_no_space_8: loanbargainbusymastermergedilemmacrazygossip
-bip_39_word_no_space_9: loanbargainbusymastermergedilemmacrazygossipquantum
-bip_39_word_space_0:
-- loan
-- bargain
-- busy
-- master
-- merge
-- dilemma
-- crazy
-- gossip
-- quantum
-- cereal
-- case
-- appear
-bip_39_word_space_1: loan
-bip_39_word_space_10: loan bargain busy master merge dilemma crazy gossip quantum
-  cereal
-bip_39_word_space_11: loan bargain busy master merge dilemma crazy gossip quantum
-  cereal case
 bip_39_word_space_12: loan bargain busy master merge dilemma crazy gossip quantum
   cereal case appear
 bip_39_word_space_2: loan bargain
 bip_39_word_space_3: loan bargain busy
-bip_39_word_space_4: loan bargain busy master
-bip_39_word_space_5: loan bargain busy master merge
-bip_39_word_space_6: loan bargain busy master merge dilemma
-bip_39_word_space_7: loan bargain busy master merge dilemma crazy
-bip_39_word_space_8: loan bargain busy master merge dilemma crazy gossip
-bip_39_word_space_9: loan bargain busy master merge dilemma crazy gossip quantum
-bip_39_word_underscore_1: loan
-bip_39_word_underscore_10: loan_bargain_busy_master_merge_dilemma_crazy_gossip_quantum_cereal
-bip_39_word_underscore_11: loan_bargain_busy_master_merge_dilemma_crazy_gossip_quantum_cereal_case
 bip_39_word_underscore_12: loan_bargain_busy_master_merge_dilemma_crazy_gossip_quantum_cereal_case_appear
 bip_39_word_underscore_2: loan_bargain
 bip_39_word_underscore_3: loan_bargain_busy
-bip_39_word_underscore_4: loan_bargain_busy_master
-bip_39_word_underscore_5: loan_bargain_busy_master_merge
-bip_39_word_underscore_6: loan_bargain_busy_master_merge_dilemma
-bip_39_word_underscore_7: loan_bargain_busy_master_merge_dilemma_crazy
-bip_39_word_underscore_8: loan_bargain_busy_master_merge_dilemma_crazy_gossip
-bip_39_word_underscore_9: loan_bargain_busy_master_merge_dilemma_crazy_gossip_quantum
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

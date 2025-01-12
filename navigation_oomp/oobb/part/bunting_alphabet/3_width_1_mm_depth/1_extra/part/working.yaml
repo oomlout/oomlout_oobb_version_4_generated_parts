@@ -1,68 +1,9 @@
-bip_39_word_dash_1: month
-bip_39_word_dash_10: month-misery-forest-mad-fix-sorry-cart-rude-exercise-enhance
-bip_39_word_dash_11: month-misery-forest-mad-fix-sorry-cart-rude-exercise-enhance-prison
 bip_39_word_dash_12: month-misery-forest-mad-fix-sorry-cart-rude-exercise-enhance-prison-artefact
 bip_39_word_dash_2: month-misery
 bip_39_word_dash_3: month-misery-forest
-bip_39_word_dash_4: month-misery-forest-mad
-bip_39_word_dash_5: month-misery-forest-mad-fix
-bip_39_word_dash_6: month-misery-forest-mad-fix-sorry
-bip_39_word_dash_7: month-misery-forest-mad-fix-sorry-cart
-bip_39_word_dash_8: month-misery-forest-mad-fix-sorry-cart-rude
-bip_39_word_dash_9: month-misery-forest-mad-fix-sorry-cart-rude-exercise
-bip_39_word_new_br_1: month
-bip_39_word_new_br_10: month<br>misery<br>forest<br>mad<br>fix<br>sorry<br>cart<br>rude<br>exercise<br>enhance
-bip_39_word_new_br_11: month<br>misery<br>forest<br>mad<br>fix<br>sorry<br>cart<br>rude<br>exercise<br>enhance<br>prison
 bip_39_word_new_br_12: month<br>misery<br>forest<br>mad<br>fix<br>sorry<br>cart<br>rude<br>exercise<br>enhance<br>prison<br>artefact
 bip_39_word_new_br_2: month<br>misery
 bip_39_word_new_br_3: month<br>misery<br>forest
-bip_39_word_new_br_4: month<br>misery<br>forest<br>mad
-bip_39_word_new_br_5: month<br>misery<br>forest<br>mad<br>fix
-bip_39_word_new_br_6: month<br>misery<br>forest<br>mad<br>fix<br>sorry
-bip_39_word_new_br_7: month<br>misery<br>forest<br>mad<br>fix<br>sorry<br>cart
-bip_39_word_new_br_8: month<br>misery<br>forest<br>mad<br>fix<br>sorry<br>cart<br>rude
-bip_39_word_new_br_9: month<br>misery<br>forest<br>mad<br>fix<br>sorry<br>cart<br>rude<br>exercise
-bip_39_word_new_line_1: month
-bip_39_word_new_line_10: 'month
-
-  misery
-
-  forest
-
-  mad
-
-  fix
-
-  sorry
-
-  cart
-
-  rude
-
-  exercise
-
-  enhance'
-bip_39_word_new_line_11: 'month
-
-  misery
-
-  forest
-
-  mad
-
-  fix
-
-  sorry
-
-  cart
-
-  rude
-
-  exercise
-
-  enhance
-
-  prison'
 bip_39_word_new_line_12: 'month
 
   misery
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'month
   misery
 
   forest'
-bip_39_word_new_line_4: 'month
-
-  misery
-
-  forest
-
-  mad'
-bip_39_word_new_line_5: 'month
-
-  misery
-
-  forest
-
-  mad
-
-  fix'
-bip_39_word_new_line_6: 'month
-
-  misery
-
-  forest
-
-  mad
-
-  fix
-
-  sorry'
-bip_39_word_new_line_7: 'month
-
-  misery
-
-  forest
-
-  mad
-
-  fix
-
-  sorry
-
-  cart'
-bip_39_word_new_line_8: 'month
-
-  misery
-
-  forest
-
-  mad
-
-  fix
-
-  sorry
-
-  cart
-
-  rude'
-bip_39_word_new_line_9: 'month
-
-  misery
-
-  forest
-
-  mad
-
-  fix
-
-  sorry
-
-  cart
-
-  rude
-
-  exercise'
-bip_39_word_no_space_1: month
-bip_39_word_no_space_10: monthmiseryforestmadfixsorrycartrudeexerciseenhance
-bip_39_word_no_space_11: monthmiseryforestmadfixsorrycartrudeexerciseenhanceprison
 bip_39_word_no_space_12: monthmiseryforestmadfixsorrycartrudeexerciseenhanceprisonartefact
 bip_39_word_no_space_2: monthmisery
 bip_39_word_no_space_3: monthmiseryforest
-bip_39_word_no_space_4: monthmiseryforestmad
-bip_39_word_no_space_5: monthmiseryforestmadfix
-bip_39_word_no_space_6: monthmiseryforestmadfixsorry
-bip_39_word_no_space_7: monthmiseryforestmadfixsorrycart
-bip_39_word_no_space_8: monthmiseryforestmadfixsorrycartrude
-bip_39_word_no_space_9: monthmiseryforestmadfixsorrycartrudeexercise
-bip_39_word_space_0:
-- month
-- misery
-- forest
-- mad
-- fix
-- sorry
-- cart
-- rude
-- exercise
-- enhance
-- prison
-- artefact
-bip_39_word_space_1: month
-bip_39_word_space_10: month misery forest mad fix sorry cart rude exercise enhance
-bip_39_word_space_11: month misery forest mad fix sorry cart rude exercise enhance
-  prison
 bip_39_word_space_12: month misery forest mad fix sorry cart rude exercise enhance
   prison artefact
 bip_39_word_space_2: month misery
 bip_39_word_space_3: month misery forest
-bip_39_word_space_4: month misery forest mad
-bip_39_word_space_5: month misery forest mad fix
-bip_39_word_space_6: month misery forest mad fix sorry
-bip_39_word_space_7: month misery forest mad fix sorry cart
-bip_39_word_space_8: month misery forest mad fix sorry cart rude
-bip_39_word_space_9: month misery forest mad fix sorry cart rude exercise
-bip_39_word_underscore_1: month
-bip_39_word_underscore_10: month_misery_forest_mad_fix_sorry_cart_rude_exercise_enhance
-bip_39_word_underscore_11: month_misery_forest_mad_fix_sorry_cart_rude_exercise_enhance_prison
 bip_39_word_underscore_12: month_misery_forest_mad_fix_sorry_cart_rude_exercise_enhance_prison_artefact
 bip_39_word_underscore_2: month_misery
 bip_39_word_underscore_3: month_misery_forest
-bip_39_word_underscore_4: month_misery_forest_mad
-bip_39_word_underscore_5: month_misery_forest_mad_fix
-bip_39_word_underscore_6: month_misery_forest_mad_fix_sorry
-bip_39_word_underscore_7: month_misery_forest_mad_fix_sorry_cart
-bip_39_word_underscore_8: month_misery_forest_mad_fix_sorry_cart_rude
-bip_39_word_underscore_9: month_misery_forest_mad_fix_sorry_cart_rude_exercise
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: salute
-bip_39_word_dash_10: salute-void-harbor-jungle-entire-empty-jazz-utility-shy-float
-bip_39_word_dash_11: salute-void-harbor-jungle-entire-empty-jazz-utility-shy-float-blue
 bip_39_word_dash_12: salute-void-harbor-jungle-entire-empty-jazz-utility-shy-float-blue-advance
 bip_39_word_dash_2: salute-void
 bip_39_word_dash_3: salute-void-harbor
-bip_39_word_dash_4: salute-void-harbor-jungle
-bip_39_word_dash_5: salute-void-harbor-jungle-entire
-bip_39_word_dash_6: salute-void-harbor-jungle-entire-empty
-bip_39_word_dash_7: salute-void-harbor-jungle-entire-empty-jazz
-bip_39_word_dash_8: salute-void-harbor-jungle-entire-empty-jazz-utility
-bip_39_word_dash_9: salute-void-harbor-jungle-entire-empty-jazz-utility-shy
-bip_39_word_new_br_1: salute
-bip_39_word_new_br_10: salute<br>void<br>harbor<br>jungle<br>entire<br>empty<br>jazz<br>utility<br>shy<br>float
-bip_39_word_new_br_11: salute<br>void<br>harbor<br>jungle<br>entire<br>empty<br>jazz<br>utility<br>shy<br>float<br>blue
 bip_39_word_new_br_12: salute<br>void<br>harbor<br>jungle<br>entire<br>empty<br>jazz<br>utility<br>shy<br>float<br>blue<br>advance
 bip_39_word_new_br_2: salute<br>void
 bip_39_word_new_br_3: salute<br>void<br>harbor
-bip_39_word_new_br_4: salute<br>void<br>harbor<br>jungle
-bip_39_word_new_br_5: salute<br>void<br>harbor<br>jungle<br>entire
-bip_39_word_new_br_6: salute<br>void<br>harbor<br>jungle<br>entire<br>empty
-bip_39_word_new_br_7: salute<br>void<br>harbor<br>jungle<br>entire<br>empty<br>jazz
-bip_39_word_new_br_8: salute<br>void<br>harbor<br>jungle<br>entire<br>empty<br>jazz<br>utility
-bip_39_word_new_br_9: salute<br>void<br>harbor<br>jungle<br>entire<br>empty<br>jazz<br>utility<br>shy
-bip_39_word_new_line_1: salute
-bip_39_word_new_line_10: 'salute
-
-  void
-
-  harbor
-
-  jungle
-
-  entire
-
-  empty
-
-  jazz
-
-  utility
-
-  shy
-
-  float'
-bip_39_word_new_line_11: 'salute
-
-  void
-
-  harbor
-
-  jungle
-
-  entire
-
-  empty
-
-  jazz
-
-  utility
-
-  shy
-
-  float
-
-  blue'
 bip_39_word_new_line_12: 'salute
 
   void
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'salute
   void
 
   harbor'
-bip_39_word_new_line_4: 'salute
-
-  void
-
-  harbor
-
-  jungle'
-bip_39_word_new_line_5: 'salute
-
-  void
-
-  harbor
-
-  jungle
-
-  entire'
-bip_39_word_new_line_6: 'salute
-
-  void
-
-  harbor
-
-  jungle
-
-  entire
-
-  empty'
-bip_39_word_new_line_7: 'salute
-
-  void
-
-  harbor
-
-  jungle
-
-  entire
-
-  empty
-
-  jazz'
-bip_39_word_new_line_8: 'salute
-
-  void
-
-  harbor
-
-  jungle
-
-  entire
-
-  empty
-
-  jazz
-
-  utility'
-bip_39_word_new_line_9: 'salute
-
-  void
-
-  harbor
-
-  jungle
-
-  entire
-
-  empty
-
-  jazz
-
-  utility
-
-  shy'
-bip_39_word_no_space_1: salute
-bip_39_word_no_space_10: salutevoidharborjungleentireemptyjazzutilityshyfloat
-bip_39_word_no_space_11: salutevoidharborjungleentireemptyjazzutilityshyfloatblue
 bip_39_word_no_space_12: salutevoidharborjungleentireemptyjazzutilityshyfloatblueadvance
 bip_39_word_no_space_2: salutevoid
 bip_39_word_no_space_3: salutevoidharbor
-bip_39_word_no_space_4: salutevoidharborjungle
-bip_39_word_no_space_5: salutevoidharborjungleentire
-bip_39_word_no_space_6: salutevoidharborjungleentireempty
-bip_39_word_no_space_7: salutevoidharborjungleentireemptyjazz
-bip_39_word_no_space_8: salutevoidharborjungleentireemptyjazzutility
-bip_39_word_no_space_9: salutevoidharborjungleentireemptyjazzutilityshy
-bip_39_word_space_0:
-- salute
-- void
-- harbor
-- jungle
-- entire
-- empty
-- jazz
-- utility
-- shy
-- float
-- blue
-- advance
-bip_39_word_space_1: salute
-bip_39_word_space_10: salute void harbor jungle entire empty jazz utility shy float
-bip_39_word_space_11: salute void harbor jungle entire empty jazz utility shy float
-  blue
 bip_39_word_space_12: salute void harbor jungle entire empty jazz utility shy float
   blue advance
 bip_39_word_space_2: salute void
 bip_39_word_space_3: salute void harbor
-bip_39_word_space_4: salute void harbor jungle
-bip_39_word_space_5: salute void harbor jungle entire
-bip_39_word_space_6: salute void harbor jungle entire empty
-bip_39_word_space_7: salute void harbor jungle entire empty jazz
-bip_39_word_space_8: salute void harbor jungle entire empty jazz utility
-bip_39_word_space_9: salute void harbor jungle entire empty jazz utility shy
-bip_39_word_underscore_1: salute
-bip_39_word_underscore_10: salute_void_harbor_jungle_entire_empty_jazz_utility_shy_float
-bip_39_word_underscore_11: salute_void_harbor_jungle_entire_empty_jazz_utility_shy_float_blue
 bip_39_word_underscore_12: salute_void_harbor_jungle_entire_empty_jazz_utility_shy_float_blue_advance
 bip_39_word_underscore_2: salute_void
 bip_39_word_underscore_3: salute_void_harbor
-bip_39_word_underscore_4: salute_void_harbor_jungle
-bip_39_word_underscore_5: salute_void_harbor_jungle_entire
-bip_39_word_underscore_6: salute_void_harbor_jungle_entire_empty
-bip_39_word_underscore_7: salute_void_harbor_jungle_entire_empty_jazz
-bip_39_word_underscore_8: salute_void_harbor_jungle_entire_empty_jazz_utility
-bip_39_word_underscore_9: salute_void_harbor_jungle_entire_empty_jazz_utility_shy
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

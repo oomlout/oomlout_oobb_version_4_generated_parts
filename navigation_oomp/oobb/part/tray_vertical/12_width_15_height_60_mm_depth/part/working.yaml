@@ -1,68 +1,9 @@
-bip_39_word_dash_1: sheriff
-bip_39_word_dash_10: sheriff-normal-tuna-canyon-define-sausage-fat-curtain-frame-furnace
-bip_39_word_dash_11: sheriff-normal-tuna-canyon-define-sausage-fat-curtain-frame-furnace-ring
 bip_39_word_dash_12: sheriff-normal-tuna-canyon-define-sausage-fat-curtain-frame-furnace-ring-atom
 bip_39_word_dash_2: sheriff-normal
 bip_39_word_dash_3: sheriff-normal-tuna
-bip_39_word_dash_4: sheriff-normal-tuna-canyon
-bip_39_word_dash_5: sheriff-normal-tuna-canyon-define
-bip_39_word_dash_6: sheriff-normal-tuna-canyon-define-sausage
-bip_39_word_dash_7: sheriff-normal-tuna-canyon-define-sausage-fat
-bip_39_word_dash_8: sheriff-normal-tuna-canyon-define-sausage-fat-curtain
-bip_39_word_dash_9: sheriff-normal-tuna-canyon-define-sausage-fat-curtain-frame
-bip_39_word_new_br_1: sheriff
-bip_39_word_new_br_10: sheriff<br>normal<br>tuna<br>canyon<br>define<br>sausage<br>fat<br>curtain<br>frame<br>furnace
-bip_39_word_new_br_11: sheriff<br>normal<br>tuna<br>canyon<br>define<br>sausage<br>fat<br>curtain<br>frame<br>furnace<br>ring
 bip_39_word_new_br_12: sheriff<br>normal<br>tuna<br>canyon<br>define<br>sausage<br>fat<br>curtain<br>frame<br>furnace<br>ring<br>atom
 bip_39_word_new_br_2: sheriff<br>normal
 bip_39_word_new_br_3: sheriff<br>normal<br>tuna
-bip_39_word_new_br_4: sheriff<br>normal<br>tuna<br>canyon
-bip_39_word_new_br_5: sheriff<br>normal<br>tuna<br>canyon<br>define
-bip_39_word_new_br_6: sheriff<br>normal<br>tuna<br>canyon<br>define<br>sausage
-bip_39_word_new_br_7: sheriff<br>normal<br>tuna<br>canyon<br>define<br>sausage<br>fat
-bip_39_word_new_br_8: sheriff<br>normal<br>tuna<br>canyon<br>define<br>sausage<br>fat<br>curtain
-bip_39_word_new_br_9: sheriff<br>normal<br>tuna<br>canyon<br>define<br>sausage<br>fat<br>curtain<br>frame
-bip_39_word_new_line_1: sheriff
-bip_39_word_new_line_10: 'sheriff
-
-  normal
-
-  tuna
-
-  canyon
-
-  define
-
-  sausage
-
-  fat
-
-  curtain
-
-  frame
-
-  furnace'
-bip_39_word_new_line_11: 'sheriff
-
-  normal
-
-  tuna
-
-  canyon
-
-  define
-
-  sausage
-
-  fat
-
-  curtain
-
-  frame
-
-  furnace
-
-  ring'
 bip_39_word_new_line_12: 'sheriff
 
   normal
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'sheriff
   normal
 
   tuna'
-bip_39_word_new_line_4: 'sheriff
-
-  normal
-
-  tuna
-
-  canyon'
-bip_39_word_new_line_5: 'sheriff
-
-  normal
-
-  tuna
-
-  canyon
-
-  define'
-bip_39_word_new_line_6: 'sheriff
-
-  normal
-
-  tuna
-
-  canyon
-
-  define
-
-  sausage'
-bip_39_word_new_line_7: 'sheriff
-
-  normal
-
-  tuna
-
-  canyon
-
-  define
-
-  sausage
-
-  fat'
-bip_39_word_new_line_8: 'sheriff
-
-  normal
-
-  tuna
-
-  canyon
-
-  define
-
-  sausage
-
-  fat
-
-  curtain'
-bip_39_word_new_line_9: 'sheriff
-
-  normal
-
-  tuna
-
-  canyon
-
-  define
-
-  sausage
-
-  fat
-
-  curtain
-
-  frame'
-bip_39_word_no_space_1: sheriff
-bip_39_word_no_space_10: sheriffnormaltunacanyondefinesausagefatcurtainframefurnace
-bip_39_word_no_space_11: sheriffnormaltunacanyondefinesausagefatcurtainframefurnacering
 bip_39_word_no_space_12: sheriffnormaltunacanyondefinesausagefatcurtainframefurnaceringatom
 bip_39_word_no_space_2: sheriffnormal
 bip_39_word_no_space_3: sheriffnormaltuna
-bip_39_word_no_space_4: sheriffnormaltunacanyon
-bip_39_word_no_space_5: sheriffnormaltunacanyondefine
-bip_39_word_no_space_6: sheriffnormaltunacanyondefinesausage
-bip_39_word_no_space_7: sheriffnormaltunacanyondefinesausagefat
-bip_39_word_no_space_8: sheriffnormaltunacanyondefinesausagefatcurtain
-bip_39_word_no_space_9: sheriffnormaltunacanyondefinesausagefatcurtainframe
-bip_39_word_space_0:
-- sheriff
-- normal
-- tuna
-- canyon
-- define
-- sausage
-- fat
-- curtain
-- frame
-- furnace
-- ring
-- atom
-bip_39_word_space_1: sheriff
-bip_39_word_space_10: sheriff normal tuna canyon define sausage fat curtain frame
-  furnace
-bip_39_word_space_11: sheriff normal tuna canyon define sausage fat curtain frame
-  furnace ring
 bip_39_word_space_12: sheriff normal tuna canyon define sausage fat curtain frame
   furnace ring atom
 bip_39_word_space_2: sheriff normal
 bip_39_word_space_3: sheriff normal tuna
-bip_39_word_space_4: sheriff normal tuna canyon
-bip_39_word_space_5: sheriff normal tuna canyon define
-bip_39_word_space_6: sheriff normal tuna canyon define sausage
-bip_39_word_space_7: sheriff normal tuna canyon define sausage fat
-bip_39_word_space_8: sheriff normal tuna canyon define sausage fat curtain
-bip_39_word_space_9: sheriff normal tuna canyon define sausage fat curtain frame
-bip_39_word_underscore_1: sheriff
-bip_39_word_underscore_10: sheriff_normal_tuna_canyon_define_sausage_fat_curtain_frame_furnace
-bip_39_word_underscore_11: sheriff_normal_tuna_canyon_define_sausage_fat_curtain_frame_furnace_ring
 bip_39_word_underscore_12: sheriff_normal_tuna_canyon_define_sausage_fat_curtain_frame_furnace_ring_atom
 bip_39_word_underscore_2: sheriff_normal
 bip_39_word_underscore_3: sheriff_normal_tuna
-bip_39_word_underscore_4: sheriff_normal_tuna_canyon
-bip_39_word_underscore_5: sheriff_normal_tuna_canyon_define
-bip_39_word_underscore_6: sheriff_normal_tuna_canyon_define_sausage
-bip_39_word_underscore_7: sheriff_normal_tuna_canyon_define_sausage_fat
-bip_39_word_underscore_8: sheriff_normal_tuna_canyon_define_sausage_fat_curtain
-bip_39_word_underscore_9: sheriff_normal_tuna_canyon_define_sausage_fat_curtain_frame
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: define
-bip_39_word_dash_10: define-choice-music-shock-woman-crystal-scrap-stairs-reveal-crowd
-bip_39_word_dash_11: define-choice-music-shock-woman-crystal-scrap-stairs-reveal-crowd-sick
 bip_39_word_dash_12: define-choice-music-shock-woman-crystal-scrap-stairs-reveal-crowd-sick-animal
 bip_39_word_dash_2: define-choice
 bip_39_word_dash_3: define-choice-music
-bip_39_word_dash_4: define-choice-music-shock
-bip_39_word_dash_5: define-choice-music-shock-woman
-bip_39_word_dash_6: define-choice-music-shock-woman-crystal
-bip_39_word_dash_7: define-choice-music-shock-woman-crystal-scrap
-bip_39_word_dash_8: define-choice-music-shock-woman-crystal-scrap-stairs
-bip_39_word_dash_9: define-choice-music-shock-woman-crystal-scrap-stairs-reveal
-bip_39_word_new_br_1: define
-bip_39_word_new_br_10: define<br>choice<br>music<br>shock<br>woman<br>crystal<br>scrap<br>stairs<br>reveal<br>crowd
-bip_39_word_new_br_11: define<br>choice<br>music<br>shock<br>woman<br>crystal<br>scrap<br>stairs<br>reveal<br>crowd<br>sick
 bip_39_word_new_br_12: define<br>choice<br>music<br>shock<br>woman<br>crystal<br>scrap<br>stairs<br>reveal<br>crowd<br>sick<br>animal
 bip_39_word_new_br_2: define<br>choice
 bip_39_word_new_br_3: define<br>choice<br>music
-bip_39_word_new_br_4: define<br>choice<br>music<br>shock
-bip_39_word_new_br_5: define<br>choice<br>music<br>shock<br>woman
-bip_39_word_new_br_6: define<br>choice<br>music<br>shock<br>woman<br>crystal
-bip_39_word_new_br_7: define<br>choice<br>music<br>shock<br>woman<br>crystal<br>scrap
-bip_39_word_new_br_8: define<br>choice<br>music<br>shock<br>woman<br>crystal<br>scrap<br>stairs
-bip_39_word_new_br_9: define<br>choice<br>music<br>shock<br>woman<br>crystal<br>scrap<br>stairs<br>reveal
-bip_39_word_new_line_1: define
-bip_39_word_new_line_10: 'define
-
-  choice
-
-  music
-
-  shock
-
-  woman
-
-  crystal
-
-  scrap
-
-  stairs
-
-  reveal
-
-  crowd'
-bip_39_word_new_line_11: 'define
-
-  choice
-
-  music
-
-  shock
-
-  woman
-
-  crystal
-
-  scrap
-
-  stairs
-
-  reveal
-
-  crowd
-
-  sick'
 bip_39_word_new_line_12: 'define
 
   choice
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'define
   choice
 
   music'
-bip_39_word_new_line_4: 'define
-
-  choice
-
-  music
-
-  shock'
-bip_39_word_new_line_5: 'define
-
-  choice
-
-  music
-
-  shock
-
-  woman'
-bip_39_word_new_line_6: 'define
-
-  choice
-
-  music
-
-  shock
-
-  woman
-
-  crystal'
-bip_39_word_new_line_7: 'define
-
-  choice
-
-  music
-
-  shock
-
-  woman
-
-  crystal
-
-  scrap'
-bip_39_word_new_line_8: 'define
-
-  choice
-
-  music
-
-  shock
-
-  woman
-
-  crystal
-
-  scrap
-
-  stairs'
-bip_39_word_new_line_9: 'define
-
-  choice
-
-  music
-
-  shock
-
-  woman
-
-  crystal
-
-  scrap
-
-  stairs
-
-  reveal'
-bip_39_word_no_space_1: define
-bip_39_word_no_space_10: definechoicemusicshockwomancrystalscrapstairsrevealcrowd
-bip_39_word_no_space_11: definechoicemusicshockwomancrystalscrapstairsrevealcrowdsick
 bip_39_word_no_space_12: definechoicemusicshockwomancrystalscrapstairsrevealcrowdsickanimal
 bip_39_word_no_space_2: definechoice
 bip_39_word_no_space_3: definechoicemusic
-bip_39_word_no_space_4: definechoicemusicshock
-bip_39_word_no_space_5: definechoicemusicshockwoman
-bip_39_word_no_space_6: definechoicemusicshockwomancrystal
-bip_39_word_no_space_7: definechoicemusicshockwomancrystalscrap
-bip_39_word_no_space_8: definechoicemusicshockwomancrystalscrapstairs
-bip_39_word_no_space_9: definechoicemusicshockwomancrystalscrapstairsreveal
-bip_39_word_space_0:
-- define
-- choice
-- music
-- shock
-- woman
-- crystal
-- scrap
-- stairs
-- reveal
-- crowd
-- sick
-- animal
-bip_39_word_space_1: define
-bip_39_word_space_10: define choice music shock woman crystal scrap stairs reveal
-  crowd
-bip_39_word_space_11: define choice music shock woman crystal scrap stairs reveal
-  crowd sick
 bip_39_word_space_12: define choice music shock woman crystal scrap stairs reveal
   crowd sick animal
 bip_39_word_space_2: define choice
 bip_39_word_space_3: define choice music
-bip_39_word_space_4: define choice music shock
-bip_39_word_space_5: define choice music shock woman
-bip_39_word_space_6: define choice music shock woman crystal
-bip_39_word_space_7: define choice music shock woman crystal scrap
-bip_39_word_space_8: define choice music shock woman crystal scrap stairs
-bip_39_word_space_9: define choice music shock woman crystal scrap stairs reveal
-bip_39_word_underscore_1: define
-bip_39_word_underscore_10: define_choice_music_shock_woman_crystal_scrap_stairs_reveal_crowd
-bip_39_word_underscore_11: define_choice_music_shock_woman_crystal_scrap_stairs_reveal_crowd_sick
 bip_39_word_underscore_12: define_choice_music_shock_woman_crystal_scrap_stairs_reveal_crowd_sick_animal
 bip_39_word_underscore_2: define_choice
 bip_39_word_underscore_3: define_choice_music
-bip_39_word_underscore_4: define_choice_music_shock
-bip_39_word_underscore_5: define_choice_music_shock_woman
-bip_39_word_underscore_6: define_choice_music_shock_woman_crystal
-bip_39_word_underscore_7: define_choice_music_shock_woman_crystal_scrap
-bip_39_word_underscore_8: define_choice_music_shock_woman_crystal_scrap_stairs
-bip_39_word_underscore_9: define_choice_music_shock_woman_crystal_scrap_stairs_reveal
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

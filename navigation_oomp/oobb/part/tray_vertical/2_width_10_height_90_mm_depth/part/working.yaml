@@ -1,68 +1,9 @@
-bip_39_word_dash_1: permit
-bip_39_word_dash_10: permit-obscure-remain-rich-quiz-inmate-weather-raven-crew-tornado
-bip_39_word_dash_11: permit-obscure-remain-rich-quiz-inmate-weather-raven-crew-tornado-hollow
 bip_39_word_dash_12: permit-obscure-remain-rich-quiz-inmate-weather-raven-crew-tornado-hollow-abuse
 bip_39_word_dash_2: permit-obscure
 bip_39_word_dash_3: permit-obscure-remain
-bip_39_word_dash_4: permit-obscure-remain-rich
-bip_39_word_dash_5: permit-obscure-remain-rich-quiz
-bip_39_word_dash_6: permit-obscure-remain-rich-quiz-inmate
-bip_39_word_dash_7: permit-obscure-remain-rich-quiz-inmate-weather
-bip_39_word_dash_8: permit-obscure-remain-rich-quiz-inmate-weather-raven
-bip_39_word_dash_9: permit-obscure-remain-rich-quiz-inmate-weather-raven-crew
-bip_39_word_new_br_1: permit
-bip_39_word_new_br_10: permit<br>obscure<br>remain<br>rich<br>quiz<br>inmate<br>weather<br>raven<br>crew<br>tornado
-bip_39_word_new_br_11: permit<br>obscure<br>remain<br>rich<br>quiz<br>inmate<br>weather<br>raven<br>crew<br>tornado<br>hollow
 bip_39_word_new_br_12: permit<br>obscure<br>remain<br>rich<br>quiz<br>inmate<br>weather<br>raven<br>crew<br>tornado<br>hollow<br>abuse
 bip_39_word_new_br_2: permit<br>obscure
 bip_39_word_new_br_3: permit<br>obscure<br>remain
-bip_39_word_new_br_4: permit<br>obscure<br>remain<br>rich
-bip_39_word_new_br_5: permit<br>obscure<br>remain<br>rich<br>quiz
-bip_39_word_new_br_6: permit<br>obscure<br>remain<br>rich<br>quiz<br>inmate
-bip_39_word_new_br_7: permit<br>obscure<br>remain<br>rich<br>quiz<br>inmate<br>weather
-bip_39_word_new_br_8: permit<br>obscure<br>remain<br>rich<br>quiz<br>inmate<br>weather<br>raven
-bip_39_word_new_br_9: permit<br>obscure<br>remain<br>rich<br>quiz<br>inmate<br>weather<br>raven<br>crew
-bip_39_word_new_line_1: permit
-bip_39_word_new_line_10: 'permit
-
-  obscure
-
-  remain
-
-  rich
-
-  quiz
-
-  inmate
-
-  weather
-
-  raven
-
-  crew
-
-  tornado'
-bip_39_word_new_line_11: 'permit
-
-  obscure
-
-  remain
-
-  rich
-
-  quiz
-
-  inmate
-
-  weather
-
-  raven
-
-  crew
-
-  tornado
-
-  hollow'
 bip_39_word_new_line_12: 'permit
 
   obscure
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'permit
   obscure
 
   remain'
-bip_39_word_new_line_4: 'permit
-
-  obscure
-
-  remain
-
-  rich'
-bip_39_word_new_line_5: 'permit
-
-  obscure
-
-  remain
-
-  rich
-
-  quiz'
-bip_39_word_new_line_6: 'permit
-
-  obscure
-
-  remain
-
-  rich
-
-  quiz
-
-  inmate'
-bip_39_word_new_line_7: 'permit
-
-  obscure
-
-  remain
-
-  rich
-
-  quiz
-
-  inmate
-
-  weather'
-bip_39_word_new_line_8: 'permit
-
-  obscure
-
-  remain
-
-  rich
-
-  quiz
-
-  inmate
-
-  weather
-
-  raven'
-bip_39_word_new_line_9: 'permit
-
-  obscure
-
-  remain
-
-  rich
-
-  quiz
-
-  inmate
-
-  weather
-
-  raven
-
-  crew'
-bip_39_word_no_space_1: permit
-bip_39_word_no_space_10: permitobscureremainrichquizinmateweatherravencrewtornado
-bip_39_word_no_space_11: permitobscureremainrichquizinmateweatherravencrewtornadohollow
 bip_39_word_no_space_12: permitobscureremainrichquizinmateweatherravencrewtornadohollowabuse
 bip_39_word_no_space_2: permitobscure
 bip_39_word_no_space_3: permitobscureremain
-bip_39_word_no_space_4: permitobscureremainrich
-bip_39_word_no_space_5: permitobscureremainrichquiz
-bip_39_word_no_space_6: permitobscureremainrichquizinmate
-bip_39_word_no_space_7: permitobscureremainrichquizinmateweather
-bip_39_word_no_space_8: permitobscureremainrichquizinmateweatherraven
-bip_39_word_no_space_9: permitobscureremainrichquizinmateweatherravencrew
-bip_39_word_space_0:
-- permit
-- obscure
-- remain
-- rich
-- quiz
-- inmate
-- weather
-- raven
-- crew
-- tornado
-- hollow
-- abuse
-bip_39_word_space_1: permit
-bip_39_word_space_10: permit obscure remain rich quiz inmate weather raven crew tornado
-bip_39_word_space_11: permit obscure remain rich quiz inmate weather raven crew tornado
-  hollow
 bip_39_word_space_12: permit obscure remain rich quiz inmate weather raven crew tornado
   hollow abuse
 bip_39_word_space_2: permit obscure
 bip_39_word_space_3: permit obscure remain
-bip_39_word_space_4: permit obscure remain rich
-bip_39_word_space_5: permit obscure remain rich quiz
-bip_39_word_space_6: permit obscure remain rich quiz inmate
-bip_39_word_space_7: permit obscure remain rich quiz inmate weather
-bip_39_word_space_8: permit obscure remain rich quiz inmate weather raven
-bip_39_word_space_9: permit obscure remain rich quiz inmate weather raven crew
-bip_39_word_underscore_1: permit
-bip_39_word_underscore_10: permit_obscure_remain_rich_quiz_inmate_weather_raven_crew_tornado
-bip_39_word_underscore_11: permit_obscure_remain_rich_quiz_inmate_weather_raven_crew_tornado_hollow
 bip_39_word_underscore_12: permit_obscure_remain_rich_quiz_inmate_weather_raven_crew_tornado_hollow_abuse
 bip_39_word_underscore_2: permit_obscure
 bip_39_word_underscore_3: permit_obscure_remain
-bip_39_word_underscore_4: permit_obscure_remain_rich
-bip_39_word_underscore_5: permit_obscure_remain_rich_quiz
-bip_39_word_underscore_6: permit_obscure_remain_rich_quiz_inmate
-bip_39_word_underscore_7: permit_obscure_remain_rich_quiz_inmate_weather
-bip_39_word_underscore_8: permit_obscure_remain_rich_quiz_inmate_weather_raven
-bip_39_word_underscore_9: permit_obscure_remain_rich_quiz_inmate_weather_raven_crew
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

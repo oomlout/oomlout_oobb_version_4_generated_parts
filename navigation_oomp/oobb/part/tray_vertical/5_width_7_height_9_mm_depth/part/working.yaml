@@ -1,68 +1,9 @@
-bip_39_word_dash_1: secret
-bip_39_word_dash_10: secret-parade-rubber-walnut-busy-time-cruel-march-surge-honey
-bip_39_word_dash_11: secret-parade-rubber-walnut-busy-time-cruel-march-surge-honey-nerve
 bip_39_word_dash_12: secret-parade-rubber-walnut-busy-time-cruel-march-surge-honey-nerve-absorb
 bip_39_word_dash_2: secret-parade
 bip_39_word_dash_3: secret-parade-rubber
-bip_39_word_dash_4: secret-parade-rubber-walnut
-bip_39_word_dash_5: secret-parade-rubber-walnut-busy
-bip_39_word_dash_6: secret-parade-rubber-walnut-busy-time
-bip_39_word_dash_7: secret-parade-rubber-walnut-busy-time-cruel
-bip_39_word_dash_8: secret-parade-rubber-walnut-busy-time-cruel-march
-bip_39_word_dash_9: secret-parade-rubber-walnut-busy-time-cruel-march-surge
-bip_39_word_new_br_1: secret
-bip_39_word_new_br_10: secret<br>parade<br>rubber<br>walnut<br>busy<br>time<br>cruel<br>march<br>surge<br>honey
-bip_39_word_new_br_11: secret<br>parade<br>rubber<br>walnut<br>busy<br>time<br>cruel<br>march<br>surge<br>honey<br>nerve
 bip_39_word_new_br_12: secret<br>parade<br>rubber<br>walnut<br>busy<br>time<br>cruel<br>march<br>surge<br>honey<br>nerve<br>absorb
 bip_39_word_new_br_2: secret<br>parade
 bip_39_word_new_br_3: secret<br>parade<br>rubber
-bip_39_word_new_br_4: secret<br>parade<br>rubber<br>walnut
-bip_39_word_new_br_5: secret<br>parade<br>rubber<br>walnut<br>busy
-bip_39_word_new_br_6: secret<br>parade<br>rubber<br>walnut<br>busy<br>time
-bip_39_word_new_br_7: secret<br>parade<br>rubber<br>walnut<br>busy<br>time<br>cruel
-bip_39_word_new_br_8: secret<br>parade<br>rubber<br>walnut<br>busy<br>time<br>cruel<br>march
-bip_39_word_new_br_9: secret<br>parade<br>rubber<br>walnut<br>busy<br>time<br>cruel<br>march<br>surge
-bip_39_word_new_line_1: secret
-bip_39_word_new_line_10: 'secret
-
-  parade
-
-  rubber
-
-  walnut
-
-  busy
-
-  time
-
-  cruel
-
-  march
-
-  surge
-
-  honey'
-bip_39_word_new_line_11: 'secret
-
-  parade
-
-  rubber
-
-  walnut
-
-  busy
-
-  time
-
-  cruel
-
-  march
-
-  surge
-
-  honey
-
-  nerve'
 bip_39_word_new_line_12: 'secret
 
   parade
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'secret
   parade
 
   rubber'
-bip_39_word_new_line_4: 'secret
-
-  parade
-
-  rubber
-
-  walnut'
-bip_39_word_new_line_5: 'secret
-
-  parade
-
-  rubber
-
-  walnut
-
-  busy'
-bip_39_word_new_line_6: 'secret
-
-  parade
-
-  rubber
-
-  walnut
-
-  busy
-
-  time'
-bip_39_word_new_line_7: 'secret
-
-  parade
-
-  rubber
-
-  walnut
-
-  busy
-
-  time
-
-  cruel'
-bip_39_word_new_line_8: 'secret
-
-  parade
-
-  rubber
-
-  walnut
-
-  busy
-
-  time
-
-  cruel
-
-  march'
-bip_39_word_new_line_9: 'secret
-
-  parade
-
-  rubber
-
-  walnut
-
-  busy
-
-  time
-
-  cruel
-
-  march
-
-  surge'
-bip_39_word_no_space_1: secret
-bip_39_word_no_space_10: secretparaderubberwalnutbusytimecruelmarchsurgehoney
-bip_39_word_no_space_11: secretparaderubberwalnutbusytimecruelmarchsurgehoneynerve
 bip_39_word_no_space_12: secretparaderubberwalnutbusytimecruelmarchsurgehoneynerveabsorb
 bip_39_word_no_space_2: secretparade
 bip_39_word_no_space_3: secretparaderubber
-bip_39_word_no_space_4: secretparaderubberwalnut
-bip_39_word_no_space_5: secretparaderubberwalnutbusy
-bip_39_word_no_space_6: secretparaderubberwalnutbusytime
-bip_39_word_no_space_7: secretparaderubberwalnutbusytimecruel
-bip_39_word_no_space_8: secretparaderubberwalnutbusytimecruelmarch
-bip_39_word_no_space_9: secretparaderubberwalnutbusytimecruelmarchsurge
-bip_39_word_space_0:
-- secret
-- parade
-- rubber
-- walnut
-- busy
-- time
-- cruel
-- march
-- surge
-- honey
-- nerve
-- absorb
-bip_39_word_space_1: secret
-bip_39_word_space_10: secret parade rubber walnut busy time cruel march surge honey
-bip_39_word_space_11: secret parade rubber walnut busy time cruel march surge honey
-  nerve
 bip_39_word_space_12: secret parade rubber walnut busy time cruel march surge honey
   nerve absorb
 bip_39_word_space_2: secret parade
 bip_39_word_space_3: secret parade rubber
-bip_39_word_space_4: secret parade rubber walnut
-bip_39_word_space_5: secret parade rubber walnut busy
-bip_39_word_space_6: secret parade rubber walnut busy time
-bip_39_word_space_7: secret parade rubber walnut busy time cruel
-bip_39_word_space_8: secret parade rubber walnut busy time cruel march
-bip_39_word_space_9: secret parade rubber walnut busy time cruel march surge
-bip_39_word_underscore_1: secret
-bip_39_word_underscore_10: secret_parade_rubber_walnut_busy_time_cruel_march_surge_honey
-bip_39_word_underscore_11: secret_parade_rubber_walnut_busy_time_cruel_march_surge_honey_nerve
 bip_39_word_underscore_12: secret_parade_rubber_walnut_busy_time_cruel_march_surge_honey_nerve_absorb
 bip_39_word_underscore_2: secret_parade
 bip_39_word_underscore_3: secret_parade_rubber
-bip_39_word_underscore_4: secret_parade_rubber_walnut
-bip_39_word_underscore_5: secret_parade_rubber_walnut_busy
-bip_39_word_underscore_6: secret_parade_rubber_walnut_busy_time
-bip_39_word_underscore_7: secret_parade_rubber_walnut_busy_time_cruel
-bip_39_word_underscore_8: secret_parade_rubber_walnut_busy_time_cruel_march
-bip_39_word_underscore_9: secret_parade_rubber_walnut_busy_time_cruel_march_surge
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

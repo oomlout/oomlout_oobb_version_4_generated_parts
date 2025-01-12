@@ -1,68 +1,9 @@
-bip_39_word_dash_1: name
-bip_39_word_dash_10: name-obey-ostrich-dinner-game-immune-soap-leaf-hold-collect
-bip_39_word_dash_11: name-obey-ostrich-dinner-game-immune-soap-leaf-hold-collect-easy
 bip_39_word_dash_12: name-obey-ostrich-dinner-game-immune-soap-leaf-hold-collect-easy-about
 bip_39_word_dash_2: name-obey
 bip_39_word_dash_3: name-obey-ostrich
-bip_39_word_dash_4: name-obey-ostrich-dinner
-bip_39_word_dash_5: name-obey-ostrich-dinner-game
-bip_39_word_dash_6: name-obey-ostrich-dinner-game-immune
-bip_39_word_dash_7: name-obey-ostrich-dinner-game-immune-soap
-bip_39_word_dash_8: name-obey-ostrich-dinner-game-immune-soap-leaf
-bip_39_word_dash_9: name-obey-ostrich-dinner-game-immune-soap-leaf-hold
-bip_39_word_new_br_1: name
-bip_39_word_new_br_10: name<br>obey<br>ostrich<br>dinner<br>game<br>immune<br>soap<br>leaf<br>hold<br>collect
-bip_39_word_new_br_11: name<br>obey<br>ostrich<br>dinner<br>game<br>immune<br>soap<br>leaf<br>hold<br>collect<br>easy
 bip_39_word_new_br_12: name<br>obey<br>ostrich<br>dinner<br>game<br>immune<br>soap<br>leaf<br>hold<br>collect<br>easy<br>about
 bip_39_word_new_br_2: name<br>obey
 bip_39_word_new_br_3: name<br>obey<br>ostrich
-bip_39_word_new_br_4: name<br>obey<br>ostrich<br>dinner
-bip_39_word_new_br_5: name<br>obey<br>ostrich<br>dinner<br>game
-bip_39_word_new_br_6: name<br>obey<br>ostrich<br>dinner<br>game<br>immune
-bip_39_word_new_br_7: name<br>obey<br>ostrich<br>dinner<br>game<br>immune<br>soap
-bip_39_word_new_br_8: name<br>obey<br>ostrich<br>dinner<br>game<br>immune<br>soap<br>leaf
-bip_39_word_new_br_9: name<br>obey<br>ostrich<br>dinner<br>game<br>immune<br>soap<br>leaf<br>hold
-bip_39_word_new_line_1: name
-bip_39_word_new_line_10: 'name
-
-  obey
-
-  ostrich
-
-  dinner
-
-  game
-
-  immune
-
-  soap
-
-  leaf
-
-  hold
-
-  collect'
-bip_39_word_new_line_11: 'name
-
-  obey
-
-  ostrich
-
-  dinner
-
-  game
-
-  immune
-
-  soap
-
-  leaf
-
-  hold
-
-  collect
-
-  easy'
 bip_39_word_new_line_12: 'name
 
   obey
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'name
   obey
 
   ostrich'
-bip_39_word_new_line_4: 'name
-
-  obey
-
-  ostrich
-
-  dinner'
-bip_39_word_new_line_5: 'name
-
-  obey
-
-  ostrich
-
-  dinner
-
-  game'
-bip_39_word_new_line_6: 'name
-
-  obey
-
-  ostrich
-
-  dinner
-
-  game
-
-  immune'
-bip_39_word_new_line_7: 'name
-
-  obey
-
-  ostrich
-
-  dinner
-
-  game
-
-  immune
-
-  soap'
-bip_39_word_new_line_8: 'name
-
-  obey
-
-  ostrich
-
-  dinner
-
-  game
-
-  immune
-
-  soap
-
-  leaf'
-bip_39_word_new_line_9: 'name
-
-  obey
-
-  ostrich
-
-  dinner
-
-  game
-
-  immune
-
-  soap
-
-  leaf
-
-  hold'
-bip_39_word_no_space_1: name
-bip_39_word_no_space_10: nameobeyostrichdinnergameimmunesoapleafholdcollect
-bip_39_word_no_space_11: nameobeyostrichdinnergameimmunesoapleafholdcollecteasy
 bip_39_word_no_space_12: nameobeyostrichdinnergameimmunesoapleafholdcollecteasyabout
 bip_39_word_no_space_2: nameobey
 bip_39_word_no_space_3: nameobeyostrich
-bip_39_word_no_space_4: nameobeyostrichdinner
-bip_39_word_no_space_5: nameobeyostrichdinnergame
-bip_39_word_no_space_6: nameobeyostrichdinnergameimmune
-bip_39_word_no_space_7: nameobeyostrichdinnergameimmunesoap
-bip_39_word_no_space_8: nameobeyostrichdinnergameimmunesoapleaf
-bip_39_word_no_space_9: nameobeyostrichdinnergameimmunesoapleafhold
-bip_39_word_space_0:
-- name
-- obey
-- ostrich
-- dinner
-- game
-- immune
-- soap
-- leaf
-- hold
-- collect
-- easy
-- about
-bip_39_word_space_1: name
-bip_39_word_space_10: name obey ostrich dinner game immune soap leaf hold collect
-bip_39_word_space_11: name obey ostrich dinner game immune soap leaf hold collect
-  easy
 bip_39_word_space_12: name obey ostrich dinner game immune soap leaf hold collect
   easy about
 bip_39_word_space_2: name obey
 bip_39_word_space_3: name obey ostrich
-bip_39_word_space_4: name obey ostrich dinner
-bip_39_word_space_5: name obey ostrich dinner game
-bip_39_word_space_6: name obey ostrich dinner game immune
-bip_39_word_space_7: name obey ostrich dinner game immune soap
-bip_39_word_space_8: name obey ostrich dinner game immune soap leaf
-bip_39_word_space_9: name obey ostrich dinner game immune soap leaf hold
-bip_39_word_underscore_1: name
-bip_39_word_underscore_10: name_obey_ostrich_dinner_game_immune_soap_leaf_hold_collect
-bip_39_word_underscore_11: name_obey_ostrich_dinner_game_immune_soap_leaf_hold_collect_easy
 bip_39_word_underscore_12: name_obey_ostrich_dinner_game_immune_soap_leaf_hold_collect_easy_about
 bip_39_word_underscore_2: name_obey
 bip_39_word_underscore_3: name_obey_ostrich
-bip_39_word_underscore_4: name_obey_ostrich_dinner
-bip_39_word_underscore_5: name_obey_ostrich_dinner_game
-bip_39_word_underscore_6: name_obey_ostrich_dinner_game_immune
-bip_39_word_underscore_7: name_obey_ostrich_dinner_game_immune_soap
-bip_39_word_underscore_8: name_obey_ostrich_dinner_game_immune_soap_leaf
-bip_39_word_underscore_9: name_obey_ostrich_dinner_game_immune_soap_leaf_hold
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

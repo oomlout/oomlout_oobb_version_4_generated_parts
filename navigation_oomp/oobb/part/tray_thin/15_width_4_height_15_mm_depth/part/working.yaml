@@ -1,68 +1,9 @@
-bip_39_word_dash_1: match
-bip_39_word_dash_10: match-close-ten-slot-govern-enact-better-banana-hero-review
-bip_39_word_dash_11: match-close-ten-slot-govern-enact-better-banana-hero-review-access
 bip_39_word_dash_12: match-close-ten-slot-govern-enact-better-banana-hero-review-access-aim
 bip_39_word_dash_2: match-close
 bip_39_word_dash_3: match-close-ten
-bip_39_word_dash_4: match-close-ten-slot
-bip_39_word_dash_5: match-close-ten-slot-govern
-bip_39_word_dash_6: match-close-ten-slot-govern-enact
-bip_39_word_dash_7: match-close-ten-slot-govern-enact-better
-bip_39_word_dash_8: match-close-ten-slot-govern-enact-better-banana
-bip_39_word_dash_9: match-close-ten-slot-govern-enact-better-banana-hero
-bip_39_word_new_br_1: match
-bip_39_word_new_br_10: match<br>close<br>ten<br>slot<br>govern<br>enact<br>better<br>banana<br>hero<br>review
-bip_39_word_new_br_11: match<br>close<br>ten<br>slot<br>govern<br>enact<br>better<br>banana<br>hero<br>review<br>access
 bip_39_word_new_br_12: match<br>close<br>ten<br>slot<br>govern<br>enact<br>better<br>banana<br>hero<br>review<br>access<br>aim
 bip_39_word_new_br_2: match<br>close
 bip_39_word_new_br_3: match<br>close<br>ten
-bip_39_word_new_br_4: match<br>close<br>ten<br>slot
-bip_39_word_new_br_5: match<br>close<br>ten<br>slot<br>govern
-bip_39_word_new_br_6: match<br>close<br>ten<br>slot<br>govern<br>enact
-bip_39_word_new_br_7: match<br>close<br>ten<br>slot<br>govern<br>enact<br>better
-bip_39_word_new_br_8: match<br>close<br>ten<br>slot<br>govern<br>enact<br>better<br>banana
-bip_39_word_new_br_9: match<br>close<br>ten<br>slot<br>govern<br>enact<br>better<br>banana<br>hero
-bip_39_word_new_line_1: match
-bip_39_word_new_line_10: 'match
-
-  close
-
-  ten
-
-  slot
-
-  govern
-
-  enact
-
-  better
-
-  banana
-
-  hero
-
-  review'
-bip_39_word_new_line_11: 'match
-
-  close
-
-  ten
-
-  slot
-
-  govern
-
-  enact
-
-  better
-
-  banana
-
-  hero
-
-  review
-
-  access'
 bip_39_word_new_line_12: 'match
 
   close
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'match
   close
 
   ten'
-bip_39_word_new_line_4: 'match
-
-  close
-
-  ten
-
-  slot'
-bip_39_word_new_line_5: 'match
-
-  close
-
-  ten
-
-  slot
-
-  govern'
-bip_39_word_new_line_6: 'match
-
-  close
-
-  ten
-
-  slot
-
-  govern
-
-  enact'
-bip_39_word_new_line_7: 'match
-
-  close
-
-  ten
-
-  slot
-
-  govern
-
-  enact
-
-  better'
-bip_39_word_new_line_8: 'match
-
-  close
-
-  ten
-
-  slot
-
-  govern
-
-  enact
-
-  better
-
-  banana'
-bip_39_word_new_line_9: 'match
-
-  close
-
-  ten
-
-  slot
-
-  govern
-
-  enact
-
-  better
-
-  banana
-
-  hero'
-bip_39_word_no_space_1: match
-bip_39_word_no_space_10: matchclosetenslotgovernenactbetterbananaheroreview
-bip_39_word_no_space_11: matchclosetenslotgovernenactbetterbananaheroreviewaccess
 bip_39_word_no_space_12: matchclosetenslotgovernenactbetterbananaheroreviewaccessaim
 bip_39_word_no_space_2: matchclose
 bip_39_word_no_space_3: matchcloseten
-bip_39_word_no_space_4: matchclosetenslot
-bip_39_word_no_space_5: matchclosetenslotgovern
-bip_39_word_no_space_6: matchclosetenslotgovernenact
-bip_39_word_no_space_7: matchclosetenslotgovernenactbetter
-bip_39_word_no_space_8: matchclosetenslotgovernenactbetterbanana
-bip_39_word_no_space_9: matchclosetenslotgovernenactbetterbananahero
-bip_39_word_space_0:
-- match
-- close
-- ten
-- slot
-- govern
-- enact
-- better
-- banana
-- hero
-- review
-- access
-- aim
-bip_39_word_space_1: match
-bip_39_word_space_10: match close ten slot govern enact better banana hero review
-bip_39_word_space_11: match close ten slot govern enact better banana hero review
-  access
 bip_39_word_space_12: match close ten slot govern enact better banana hero review
   access aim
 bip_39_word_space_2: match close
 bip_39_word_space_3: match close ten
-bip_39_word_space_4: match close ten slot
-bip_39_word_space_5: match close ten slot govern
-bip_39_word_space_6: match close ten slot govern enact
-bip_39_word_space_7: match close ten slot govern enact better
-bip_39_word_space_8: match close ten slot govern enact better banana
-bip_39_word_space_9: match close ten slot govern enact better banana hero
-bip_39_word_underscore_1: match
-bip_39_word_underscore_10: match_close_ten_slot_govern_enact_better_banana_hero_review
-bip_39_word_underscore_11: match_close_ten_slot_govern_enact_better_banana_hero_review_access
 bip_39_word_underscore_12: match_close_ten_slot_govern_enact_better_banana_hero_review_access_aim
 bip_39_word_underscore_2: match_close
 bip_39_word_underscore_3: match_close_ten
-bip_39_word_underscore_4: match_close_ten_slot
-bip_39_word_underscore_5: match_close_ten_slot_govern
-bip_39_word_underscore_6: match_close_ten_slot_govern_enact
-bip_39_word_underscore_7: match_close_ten_slot_govern_enact_better
-bip_39_word_underscore_8: match_close_ten_slot_govern_enact_better_banana
-bip_39_word_underscore_9: match_close_ten_slot_govern_enact_better_banana_hero
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

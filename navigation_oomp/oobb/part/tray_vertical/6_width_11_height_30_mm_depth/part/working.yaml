@@ -1,68 +1,9 @@
-bip_39_word_dash_1: grape
-bip_39_word_dash_10: grape-similar-atom-bundle-ride-devote-put-mixture-stay-ability
-bip_39_word_dash_11: grape-similar-atom-bundle-ride-devote-put-mixture-stay-ability-glue
 bip_39_word_dash_12: grape-similar-atom-bundle-ride-devote-put-mixture-stay-ability-glue-album
 bip_39_word_dash_2: grape-similar
 bip_39_word_dash_3: grape-similar-atom
-bip_39_word_dash_4: grape-similar-atom-bundle
-bip_39_word_dash_5: grape-similar-atom-bundle-ride
-bip_39_word_dash_6: grape-similar-atom-bundle-ride-devote
-bip_39_word_dash_7: grape-similar-atom-bundle-ride-devote-put
-bip_39_word_dash_8: grape-similar-atom-bundle-ride-devote-put-mixture
-bip_39_word_dash_9: grape-similar-atom-bundle-ride-devote-put-mixture-stay
-bip_39_word_new_br_1: grape
-bip_39_word_new_br_10: grape<br>similar<br>atom<br>bundle<br>ride<br>devote<br>put<br>mixture<br>stay<br>ability
-bip_39_word_new_br_11: grape<br>similar<br>atom<br>bundle<br>ride<br>devote<br>put<br>mixture<br>stay<br>ability<br>glue
 bip_39_word_new_br_12: grape<br>similar<br>atom<br>bundle<br>ride<br>devote<br>put<br>mixture<br>stay<br>ability<br>glue<br>album
 bip_39_word_new_br_2: grape<br>similar
 bip_39_word_new_br_3: grape<br>similar<br>atom
-bip_39_word_new_br_4: grape<br>similar<br>atom<br>bundle
-bip_39_word_new_br_5: grape<br>similar<br>atom<br>bundle<br>ride
-bip_39_word_new_br_6: grape<br>similar<br>atom<br>bundle<br>ride<br>devote
-bip_39_word_new_br_7: grape<br>similar<br>atom<br>bundle<br>ride<br>devote<br>put
-bip_39_word_new_br_8: grape<br>similar<br>atom<br>bundle<br>ride<br>devote<br>put<br>mixture
-bip_39_word_new_br_9: grape<br>similar<br>atom<br>bundle<br>ride<br>devote<br>put<br>mixture<br>stay
-bip_39_word_new_line_1: grape
-bip_39_word_new_line_10: 'grape
-
-  similar
-
-  atom
-
-  bundle
-
-  ride
-
-  devote
-
-  put
-
-  mixture
-
-  stay
-
-  ability'
-bip_39_word_new_line_11: 'grape
-
-  similar
-
-  atom
-
-  bundle
-
-  ride
-
-  devote
-
-  put
-
-  mixture
-
-  stay
-
-  ability
-
-  glue'
 bip_39_word_new_line_12: 'grape
 
   similar
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'grape
   similar
 
   atom'
-bip_39_word_new_line_4: 'grape
-
-  similar
-
-  atom
-
-  bundle'
-bip_39_word_new_line_5: 'grape
-
-  similar
-
-  atom
-
-  bundle
-
-  ride'
-bip_39_word_new_line_6: 'grape
-
-  similar
-
-  atom
-
-  bundle
-
-  ride
-
-  devote'
-bip_39_word_new_line_7: 'grape
-
-  similar
-
-  atom
-
-  bundle
-
-  ride
-
-  devote
-
-  put'
-bip_39_word_new_line_8: 'grape
-
-  similar
-
-  atom
-
-  bundle
-
-  ride
-
-  devote
-
-  put
-
-  mixture'
-bip_39_word_new_line_9: 'grape
-
-  similar
-
-  atom
-
-  bundle
-
-  ride
-
-  devote
-
-  put
-
-  mixture
-
-  stay'
-bip_39_word_no_space_1: grape
-bip_39_word_no_space_10: grapesimilaratombundleridedevoteputmixturestayability
-bip_39_word_no_space_11: grapesimilaratombundleridedevoteputmixturestayabilityglue
 bip_39_word_no_space_12: grapesimilaratombundleridedevoteputmixturestayabilitygluealbum
 bip_39_word_no_space_2: grapesimilar
 bip_39_word_no_space_3: grapesimilaratom
-bip_39_word_no_space_4: grapesimilaratombundle
-bip_39_word_no_space_5: grapesimilaratombundleride
-bip_39_word_no_space_6: grapesimilaratombundleridedevote
-bip_39_word_no_space_7: grapesimilaratombundleridedevoteput
-bip_39_word_no_space_8: grapesimilaratombundleridedevoteputmixture
-bip_39_word_no_space_9: grapesimilaratombundleridedevoteputmixturestay
-bip_39_word_space_0:
-- grape
-- similar
-- atom
-- bundle
-- ride
-- devote
-- put
-- mixture
-- stay
-- ability
-- glue
-- album
-bip_39_word_space_1: grape
-bip_39_word_space_10: grape similar atom bundle ride devote put mixture stay ability
-bip_39_word_space_11: grape similar atom bundle ride devote put mixture stay ability
-  glue
 bip_39_word_space_12: grape similar atom bundle ride devote put mixture stay ability
   glue album
 bip_39_word_space_2: grape similar
 bip_39_word_space_3: grape similar atom
-bip_39_word_space_4: grape similar atom bundle
-bip_39_word_space_5: grape similar atom bundle ride
-bip_39_word_space_6: grape similar atom bundle ride devote
-bip_39_word_space_7: grape similar atom bundle ride devote put
-bip_39_word_space_8: grape similar atom bundle ride devote put mixture
-bip_39_word_space_9: grape similar atom bundle ride devote put mixture stay
-bip_39_word_underscore_1: grape
-bip_39_word_underscore_10: grape_similar_atom_bundle_ride_devote_put_mixture_stay_ability
-bip_39_word_underscore_11: grape_similar_atom_bundle_ride_devote_put_mixture_stay_ability_glue
 bip_39_word_underscore_12: grape_similar_atom_bundle_ride_devote_put_mixture_stay_ability_glue_album
 bip_39_word_underscore_2: grape_similar
 bip_39_word_underscore_3: grape_similar_atom
-bip_39_word_underscore_4: grape_similar_atom_bundle
-bip_39_word_underscore_5: grape_similar_atom_bundle_ride
-bip_39_word_underscore_6: grape_similar_atom_bundle_ride_devote
-bip_39_word_underscore_7: grape_similar_atom_bundle_ride_devote_put
-bip_39_word_underscore_8: grape_similar_atom_bundle_ride_devote_put_mixture
-bip_39_word_underscore_9: grape_similar_atom_bundle_ride_devote_put_mixture_stay
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: club
-bip_39_word_dash_10: club-join-length-network-key-giggle-strike-setup-adjust-erase
-bip_39_word_dash_11: club-join-length-network-key-giggle-strike-setup-adjust-erase-stadium
 bip_39_word_dash_12: club-join-length-network-key-giggle-strike-setup-adjust-erase-stadium-actual
 bip_39_word_dash_2: club-join
 bip_39_word_dash_3: club-join-length
-bip_39_word_dash_4: club-join-length-network
-bip_39_word_dash_5: club-join-length-network-key
-bip_39_word_dash_6: club-join-length-network-key-giggle
-bip_39_word_dash_7: club-join-length-network-key-giggle-strike
-bip_39_word_dash_8: club-join-length-network-key-giggle-strike-setup
-bip_39_word_dash_9: club-join-length-network-key-giggle-strike-setup-adjust
-bip_39_word_new_br_1: club
-bip_39_word_new_br_10: club<br>join<br>length<br>network<br>key<br>giggle<br>strike<br>setup<br>adjust<br>erase
-bip_39_word_new_br_11: club<br>join<br>length<br>network<br>key<br>giggle<br>strike<br>setup<br>adjust<br>erase<br>stadium
 bip_39_word_new_br_12: club<br>join<br>length<br>network<br>key<br>giggle<br>strike<br>setup<br>adjust<br>erase<br>stadium<br>actual
 bip_39_word_new_br_2: club<br>join
 bip_39_word_new_br_3: club<br>join<br>length
-bip_39_word_new_br_4: club<br>join<br>length<br>network
-bip_39_word_new_br_5: club<br>join<br>length<br>network<br>key
-bip_39_word_new_br_6: club<br>join<br>length<br>network<br>key<br>giggle
-bip_39_word_new_br_7: club<br>join<br>length<br>network<br>key<br>giggle<br>strike
-bip_39_word_new_br_8: club<br>join<br>length<br>network<br>key<br>giggle<br>strike<br>setup
-bip_39_word_new_br_9: club<br>join<br>length<br>network<br>key<br>giggle<br>strike<br>setup<br>adjust
-bip_39_word_new_line_1: club
-bip_39_word_new_line_10: 'club
-
-  join
-
-  length
-
-  network
-
-  key
-
-  giggle
-
-  strike
-
-  setup
-
-  adjust
-
-  erase'
-bip_39_word_new_line_11: 'club
-
-  join
-
-  length
-
-  network
-
-  key
-
-  giggle
-
-  strike
-
-  setup
-
-  adjust
-
-  erase
-
-  stadium'
 bip_39_word_new_line_12: 'club
 
   join
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'club
   join
 
   length'
-bip_39_word_new_line_4: 'club
-
-  join
-
-  length
-
-  network'
-bip_39_word_new_line_5: 'club
-
-  join
-
-  length
-
-  network
-
-  key'
-bip_39_word_new_line_6: 'club
-
-  join
-
-  length
-
-  network
-
-  key
-
-  giggle'
-bip_39_word_new_line_7: 'club
-
-  join
-
-  length
-
-  network
-
-  key
-
-  giggle
-
-  strike'
-bip_39_word_new_line_8: 'club
-
-  join
-
-  length
-
-  network
-
-  key
-
-  giggle
-
-  strike
-
-  setup'
-bip_39_word_new_line_9: 'club
-
-  join
-
-  length
-
-  network
-
-  key
-
-  giggle
-
-  strike
-
-  setup
-
-  adjust'
-bip_39_word_no_space_1: club
-bip_39_word_no_space_10: clubjoinlengthnetworkkeygigglestrikesetupadjusterase
-bip_39_word_no_space_11: clubjoinlengthnetworkkeygigglestrikesetupadjusterasestadium
 bip_39_word_no_space_12: clubjoinlengthnetworkkeygigglestrikesetupadjusterasestadiumactual
 bip_39_word_no_space_2: clubjoin
 bip_39_word_no_space_3: clubjoinlength
-bip_39_word_no_space_4: clubjoinlengthnetwork
-bip_39_word_no_space_5: clubjoinlengthnetworkkey
-bip_39_word_no_space_6: clubjoinlengthnetworkkeygiggle
-bip_39_word_no_space_7: clubjoinlengthnetworkkeygigglestrike
-bip_39_word_no_space_8: clubjoinlengthnetworkkeygigglestrikesetup
-bip_39_word_no_space_9: clubjoinlengthnetworkkeygigglestrikesetupadjust
-bip_39_word_space_0:
-- club
-- join
-- length
-- network
-- key
-- giggle
-- strike
-- setup
-- adjust
-- erase
-- stadium
-- actual
-bip_39_word_space_1: club
-bip_39_word_space_10: club join length network key giggle strike setup adjust erase
-bip_39_word_space_11: club join length network key giggle strike setup adjust erase
-  stadium
 bip_39_word_space_12: club join length network key giggle strike setup adjust erase
   stadium actual
 bip_39_word_space_2: club join
 bip_39_word_space_3: club join length
-bip_39_word_space_4: club join length network
-bip_39_word_space_5: club join length network key
-bip_39_word_space_6: club join length network key giggle
-bip_39_word_space_7: club join length network key giggle strike
-bip_39_word_space_8: club join length network key giggle strike setup
-bip_39_word_space_9: club join length network key giggle strike setup adjust
-bip_39_word_underscore_1: club
-bip_39_word_underscore_10: club_join_length_network_key_giggle_strike_setup_adjust_erase
-bip_39_word_underscore_11: club_join_length_network_key_giggle_strike_setup_adjust_erase_stadium
 bip_39_word_underscore_12: club_join_length_network_key_giggle_strike_setup_adjust_erase_stadium_actual
 bip_39_word_underscore_2: club_join
 bip_39_word_underscore_3: club_join_length
-bip_39_word_underscore_4: club_join_length_network
-bip_39_word_underscore_5: club_join_length_network_key
-bip_39_word_underscore_6: club_join_length_network_key_giggle
-bip_39_word_underscore_7: club_join_length_network_key_giggle_strike
-bip_39_word_underscore_8: club_join_length_network_key_giggle_strike_setup
-bip_39_word_underscore_9: club_join_length_network_key_giggle_strike_setup_adjust
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

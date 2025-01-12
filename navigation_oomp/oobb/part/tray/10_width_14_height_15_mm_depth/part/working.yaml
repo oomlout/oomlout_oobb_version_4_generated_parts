@@ -1,68 +1,9 @@
-bip_39_word_dash_1: actor
-bip_39_word_dash_10: actor-modify-spare-surprise-mix-tray-token-junk-shove-health
-bip_39_word_dash_11: actor-modify-spare-surprise-mix-tray-token-junk-shove-health-vocal
 bip_39_word_dash_12: actor-modify-spare-surprise-mix-tray-token-junk-shove-health-vocal-accuse
 bip_39_word_dash_2: actor-modify
 bip_39_word_dash_3: actor-modify-spare
-bip_39_word_dash_4: actor-modify-spare-surprise
-bip_39_word_dash_5: actor-modify-spare-surprise-mix
-bip_39_word_dash_6: actor-modify-spare-surprise-mix-tray
-bip_39_word_dash_7: actor-modify-spare-surprise-mix-tray-token
-bip_39_word_dash_8: actor-modify-spare-surprise-mix-tray-token-junk
-bip_39_word_dash_9: actor-modify-spare-surprise-mix-tray-token-junk-shove
-bip_39_word_new_br_1: actor
-bip_39_word_new_br_10: actor<br>modify<br>spare<br>surprise<br>mix<br>tray<br>token<br>junk<br>shove<br>health
-bip_39_word_new_br_11: actor<br>modify<br>spare<br>surprise<br>mix<br>tray<br>token<br>junk<br>shove<br>health<br>vocal
 bip_39_word_new_br_12: actor<br>modify<br>spare<br>surprise<br>mix<br>tray<br>token<br>junk<br>shove<br>health<br>vocal<br>accuse
 bip_39_word_new_br_2: actor<br>modify
 bip_39_word_new_br_3: actor<br>modify<br>spare
-bip_39_word_new_br_4: actor<br>modify<br>spare<br>surprise
-bip_39_word_new_br_5: actor<br>modify<br>spare<br>surprise<br>mix
-bip_39_word_new_br_6: actor<br>modify<br>spare<br>surprise<br>mix<br>tray
-bip_39_word_new_br_7: actor<br>modify<br>spare<br>surprise<br>mix<br>tray<br>token
-bip_39_word_new_br_8: actor<br>modify<br>spare<br>surprise<br>mix<br>tray<br>token<br>junk
-bip_39_word_new_br_9: actor<br>modify<br>spare<br>surprise<br>mix<br>tray<br>token<br>junk<br>shove
-bip_39_word_new_line_1: actor
-bip_39_word_new_line_10: 'actor
-
-  modify
-
-  spare
-
-  surprise
-
-  mix
-
-  tray
-
-  token
-
-  junk
-
-  shove
-
-  health'
-bip_39_word_new_line_11: 'actor
-
-  modify
-
-  spare
-
-  surprise
-
-  mix
-
-  tray
-
-  token
-
-  junk
-
-  shove
-
-  health
-
-  vocal'
 bip_39_word_new_line_12: 'actor
 
   modify
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'actor
   modify
 
   spare'
-bip_39_word_new_line_4: 'actor
-
-  modify
-
-  spare
-
-  surprise'
-bip_39_word_new_line_5: 'actor
-
-  modify
-
-  spare
-
-  surprise
-
-  mix'
-bip_39_word_new_line_6: 'actor
-
-  modify
-
-  spare
-
-  surprise
-
-  mix
-
-  tray'
-bip_39_word_new_line_7: 'actor
-
-  modify
-
-  spare
-
-  surprise
-
-  mix
-
-  tray
-
-  token'
-bip_39_word_new_line_8: 'actor
-
-  modify
-
-  spare
-
-  surprise
-
-  mix
-
-  tray
-
-  token
-
-  junk'
-bip_39_word_new_line_9: 'actor
-
-  modify
-
-  spare
-
-  surprise
-
-  mix
-
-  tray
-
-  token
-
-  junk
-
-  shove'
-bip_39_word_no_space_1: actor
-bip_39_word_no_space_10: actormodifysparesurprisemixtraytokenjunkshovehealth
-bip_39_word_no_space_11: actormodifysparesurprisemixtraytokenjunkshovehealthvocal
 bip_39_word_no_space_12: actormodifysparesurprisemixtraytokenjunkshovehealthvocalaccuse
 bip_39_word_no_space_2: actormodify
 bip_39_word_no_space_3: actormodifyspare
-bip_39_word_no_space_4: actormodifysparesurprise
-bip_39_word_no_space_5: actormodifysparesurprisemix
-bip_39_word_no_space_6: actormodifysparesurprisemixtray
-bip_39_word_no_space_7: actormodifysparesurprisemixtraytoken
-bip_39_word_no_space_8: actormodifysparesurprisemixtraytokenjunk
-bip_39_word_no_space_9: actormodifysparesurprisemixtraytokenjunkshove
-bip_39_word_space_0:
-- actor
-- modify
-- spare
-- surprise
-- mix
-- tray
-- token
-- junk
-- shove
-- health
-- vocal
-- accuse
-bip_39_word_space_1: actor
-bip_39_word_space_10: actor modify spare surprise mix tray token junk shove health
-bip_39_word_space_11: actor modify spare surprise mix tray token junk shove health
-  vocal
 bip_39_word_space_12: actor modify spare surprise mix tray token junk shove health
   vocal accuse
 bip_39_word_space_2: actor modify
 bip_39_word_space_3: actor modify spare
-bip_39_word_space_4: actor modify spare surprise
-bip_39_word_space_5: actor modify spare surprise mix
-bip_39_word_space_6: actor modify spare surprise mix tray
-bip_39_word_space_7: actor modify spare surprise mix tray token
-bip_39_word_space_8: actor modify spare surprise mix tray token junk
-bip_39_word_space_9: actor modify spare surprise mix tray token junk shove
-bip_39_word_underscore_1: actor
-bip_39_word_underscore_10: actor_modify_spare_surprise_mix_tray_token_junk_shove_health
-bip_39_word_underscore_11: actor_modify_spare_surprise_mix_tray_token_junk_shove_health_vocal
 bip_39_word_underscore_12: actor_modify_spare_surprise_mix_tray_token_junk_shove_health_vocal_accuse
 bip_39_word_underscore_2: actor_modify
 bip_39_word_underscore_3: actor_modify_spare
-bip_39_word_underscore_4: actor_modify_spare_surprise
-bip_39_word_underscore_5: actor_modify_spare_surprise_mix
-bip_39_word_underscore_6: actor_modify_spare_surprise_mix_tray
-bip_39_word_underscore_7: actor_modify_spare_surprise_mix_tray_token
-bip_39_word_underscore_8: actor_modify_spare_surprise_mix_tray_token_junk
-bip_39_word_underscore_9: actor_modify_spare_surprise_mix_tray_token_junk_shove
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

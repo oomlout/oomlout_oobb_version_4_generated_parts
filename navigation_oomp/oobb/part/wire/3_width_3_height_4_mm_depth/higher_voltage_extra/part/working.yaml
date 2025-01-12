@@ -1,68 +1,9 @@
-bip_39_word_dash_1: midnight
-bip_39_word_dash_10: midnight-slam-exotic-detect-boring-library-grocery-lunch-train-survey
-bip_39_word_dash_11: midnight-slam-exotic-detect-boring-library-grocery-lunch-train-survey-small
 bip_39_word_dash_12: midnight-slam-exotic-detect-boring-library-grocery-lunch-train-survey-small-ancient
 bip_39_word_dash_2: midnight-slam
 bip_39_word_dash_3: midnight-slam-exotic
-bip_39_word_dash_4: midnight-slam-exotic-detect
-bip_39_word_dash_5: midnight-slam-exotic-detect-boring
-bip_39_word_dash_6: midnight-slam-exotic-detect-boring-library
-bip_39_word_dash_7: midnight-slam-exotic-detect-boring-library-grocery
-bip_39_word_dash_8: midnight-slam-exotic-detect-boring-library-grocery-lunch
-bip_39_word_dash_9: midnight-slam-exotic-detect-boring-library-grocery-lunch-train
-bip_39_word_new_br_1: midnight
-bip_39_word_new_br_10: midnight<br>slam<br>exotic<br>detect<br>boring<br>library<br>grocery<br>lunch<br>train<br>survey
-bip_39_word_new_br_11: midnight<br>slam<br>exotic<br>detect<br>boring<br>library<br>grocery<br>lunch<br>train<br>survey<br>small
 bip_39_word_new_br_12: midnight<br>slam<br>exotic<br>detect<br>boring<br>library<br>grocery<br>lunch<br>train<br>survey<br>small<br>ancient
 bip_39_word_new_br_2: midnight<br>slam
 bip_39_word_new_br_3: midnight<br>slam<br>exotic
-bip_39_word_new_br_4: midnight<br>slam<br>exotic<br>detect
-bip_39_word_new_br_5: midnight<br>slam<br>exotic<br>detect<br>boring
-bip_39_word_new_br_6: midnight<br>slam<br>exotic<br>detect<br>boring<br>library
-bip_39_word_new_br_7: midnight<br>slam<br>exotic<br>detect<br>boring<br>library<br>grocery
-bip_39_word_new_br_8: midnight<br>slam<br>exotic<br>detect<br>boring<br>library<br>grocery<br>lunch
-bip_39_word_new_br_9: midnight<br>slam<br>exotic<br>detect<br>boring<br>library<br>grocery<br>lunch<br>train
-bip_39_word_new_line_1: midnight
-bip_39_word_new_line_10: 'midnight
-
-  slam
-
-  exotic
-
-  detect
-
-  boring
-
-  library
-
-  grocery
-
-  lunch
-
-  train
-
-  survey'
-bip_39_word_new_line_11: 'midnight
-
-  slam
-
-  exotic
-
-  detect
-
-  boring
-
-  library
-
-  grocery
-
-  lunch
-
-  train
-
-  survey
-
-  small'
 bip_39_word_new_line_12: 'midnight
 
   slam
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'midnight
   slam
 
   exotic'
-bip_39_word_new_line_4: 'midnight
-
-  slam
-
-  exotic
-
-  detect'
-bip_39_word_new_line_5: 'midnight
-
-  slam
-
-  exotic
-
-  detect
-
-  boring'
-bip_39_word_new_line_6: 'midnight
-
-  slam
-
-  exotic
-
-  detect
-
-  boring
-
-  library'
-bip_39_word_new_line_7: 'midnight
-
-  slam
-
-  exotic
-
-  detect
-
-  boring
-
-  library
-
-  grocery'
-bip_39_word_new_line_8: 'midnight
-
-  slam
-
-  exotic
-
-  detect
-
-  boring
-
-  library
-
-  grocery
-
-  lunch'
-bip_39_word_new_line_9: 'midnight
-
-  slam
-
-  exotic
-
-  detect
-
-  boring
-
-  library
-
-  grocery
-
-  lunch
-
-  train'
-bip_39_word_no_space_1: midnight
-bip_39_word_no_space_10: midnightslamexoticdetectboringlibrarygrocerylunchtrainsurvey
-bip_39_word_no_space_11: midnightslamexoticdetectboringlibrarygrocerylunchtrainsurveysmall
 bip_39_word_no_space_12: midnightslamexoticdetectboringlibrarygrocerylunchtrainsurveysmallancient
 bip_39_word_no_space_2: midnightslam
 bip_39_word_no_space_3: midnightslamexotic
-bip_39_word_no_space_4: midnightslamexoticdetect
-bip_39_word_no_space_5: midnightslamexoticdetectboring
-bip_39_word_no_space_6: midnightslamexoticdetectboringlibrary
-bip_39_word_no_space_7: midnightslamexoticdetectboringlibrarygrocery
-bip_39_word_no_space_8: midnightslamexoticdetectboringlibrarygrocerylunch
-bip_39_word_no_space_9: midnightslamexoticdetectboringlibrarygrocerylunchtrain
-bip_39_word_space_0:
-- midnight
-- slam
-- exotic
-- detect
-- boring
-- library
-- grocery
-- lunch
-- train
-- survey
-- small
-- ancient
-bip_39_word_space_1: midnight
-bip_39_word_space_10: midnight slam exotic detect boring library grocery lunch train
-  survey
-bip_39_word_space_11: midnight slam exotic detect boring library grocery lunch train
-  survey small
 bip_39_word_space_12: midnight slam exotic detect boring library grocery lunch train
   survey small ancient
 bip_39_word_space_2: midnight slam
 bip_39_word_space_3: midnight slam exotic
-bip_39_word_space_4: midnight slam exotic detect
-bip_39_word_space_5: midnight slam exotic detect boring
-bip_39_word_space_6: midnight slam exotic detect boring library
-bip_39_word_space_7: midnight slam exotic detect boring library grocery
-bip_39_word_space_8: midnight slam exotic detect boring library grocery lunch
-bip_39_word_space_9: midnight slam exotic detect boring library grocery lunch train
-bip_39_word_underscore_1: midnight
-bip_39_word_underscore_10: midnight_slam_exotic_detect_boring_library_grocery_lunch_train_survey
-bip_39_word_underscore_11: midnight_slam_exotic_detect_boring_library_grocery_lunch_train_survey_small
 bip_39_word_underscore_12: midnight_slam_exotic_detect_boring_library_grocery_lunch_train_survey_small_ancient
 bip_39_word_underscore_2: midnight_slam
 bip_39_word_underscore_3: midnight_slam_exotic
-bip_39_word_underscore_4: midnight_slam_exotic_detect
-bip_39_word_underscore_5: midnight_slam_exotic_detect_boring
-bip_39_word_underscore_6: midnight_slam_exotic_detect_boring_library
-bip_39_word_underscore_7: midnight_slam_exotic_detect_boring_library_grocery
-bip_39_word_underscore_8: midnight_slam_exotic_detect_boring_library_grocery_lunch
-bip_39_word_underscore_9: midnight_slam_exotic_detect_boring_library_grocery_lunch_train
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

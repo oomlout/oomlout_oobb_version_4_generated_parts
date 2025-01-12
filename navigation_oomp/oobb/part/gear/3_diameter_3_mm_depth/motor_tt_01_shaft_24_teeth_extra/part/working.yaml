@@ -1,68 +1,9 @@
-bip_39_word_dash_1: purpose
-bip_39_word_dash_10: purpose-erase-until-orchard-gentle-gap-immense-country-law-milk
-bip_39_word_dash_11: purpose-erase-until-orchard-gentle-gap-immense-country-law-milk-miracle
 bip_39_word_dash_12: purpose-erase-until-orchard-gentle-gap-immense-country-law-milk-miracle-armed
 bip_39_word_dash_2: purpose-erase
 bip_39_word_dash_3: purpose-erase-until
-bip_39_word_dash_4: purpose-erase-until-orchard
-bip_39_word_dash_5: purpose-erase-until-orchard-gentle
-bip_39_word_dash_6: purpose-erase-until-orchard-gentle-gap
-bip_39_word_dash_7: purpose-erase-until-orchard-gentle-gap-immense
-bip_39_word_dash_8: purpose-erase-until-orchard-gentle-gap-immense-country
-bip_39_word_dash_9: purpose-erase-until-orchard-gentle-gap-immense-country-law
-bip_39_word_new_br_1: purpose
-bip_39_word_new_br_10: purpose<br>erase<br>until<br>orchard<br>gentle<br>gap<br>immense<br>country<br>law<br>milk
-bip_39_word_new_br_11: purpose<br>erase<br>until<br>orchard<br>gentle<br>gap<br>immense<br>country<br>law<br>milk<br>miracle
 bip_39_word_new_br_12: purpose<br>erase<br>until<br>orchard<br>gentle<br>gap<br>immense<br>country<br>law<br>milk<br>miracle<br>armed
 bip_39_word_new_br_2: purpose<br>erase
 bip_39_word_new_br_3: purpose<br>erase<br>until
-bip_39_word_new_br_4: purpose<br>erase<br>until<br>orchard
-bip_39_word_new_br_5: purpose<br>erase<br>until<br>orchard<br>gentle
-bip_39_word_new_br_6: purpose<br>erase<br>until<br>orchard<br>gentle<br>gap
-bip_39_word_new_br_7: purpose<br>erase<br>until<br>orchard<br>gentle<br>gap<br>immense
-bip_39_word_new_br_8: purpose<br>erase<br>until<br>orchard<br>gentle<br>gap<br>immense<br>country
-bip_39_word_new_br_9: purpose<br>erase<br>until<br>orchard<br>gentle<br>gap<br>immense<br>country<br>law
-bip_39_word_new_line_1: purpose
-bip_39_word_new_line_10: 'purpose
-
-  erase
-
-  until
-
-  orchard
-
-  gentle
-
-  gap
-
-  immense
-
-  country
-
-  law
-
-  milk'
-bip_39_word_new_line_11: 'purpose
-
-  erase
-
-  until
-
-  orchard
-
-  gentle
-
-  gap
-
-  immense
-
-  country
-
-  law
-
-  milk
-
-  miracle'
 bip_39_word_new_line_12: 'purpose
 
   erase
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'purpose
   erase
 
   until'
-bip_39_word_new_line_4: 'purpose
-
-  erase
-
-  until
-
-  orchard'
-bip_39_word_new_line_5: 'purpose
-
-  erase
-
-  until
-
-  orchard
-
-  gentle'
-bip_39_word_new_line_6: 'purpose
-
-  erase
-
-  until
-
-  orchard
-
-  gentle
-
-  gap'
-bip_39_word_new_line_7: 'purpose
-
-  erase
-
-  until
-
-  orchard
-
-  gentle
-
-  gap
-
-  immense'
-bip_39_word_new_line_8: 'purpose
-
-  erase
-
-  until
-
-  orchard
-
-  gentle
-
-  gap
-
-  immense
-
-  country'
-bip_39_word_new_line_9: 'purpose
-
-  erase
-
-  until
-
-  orchard
-
-  gentle
-
-  gap
-
-  immense
-
-  country
-
-  law'
-bip_39_word_no_space_1: purpose
-bip_39_word_no_space_10: purposeeraseuntilorchardgentlegapimmensecountrylawmilk
-bip_39_word_no_space_11: purposeeraseuntilorchardgentlegapimmensecountrylawmilkmiracle
 bip_39_word_no_space_12: purposeeraseuntilorchardgentlegapimmensecountrylawmilkmiraclearmed
 bip_39_word_no_space_2: purposeerase
 bip_39_word_no_space_3: purposeeraseuntil
-bip_39_word_no_space_4: purposeeraseuntilorchard
-bip_39_word_no_space_5: purposeeraseuntilorchardgentle
-bip_39_word_no_space_6: purposeeraseuntilorchardgentlegap
-bip_39_word_no_space_7: purposeeraseuntilorchardgentlegapimmense
-bip_39_word_no_space_8: purposeeraseuntilorchardgentlegapimmensecountry
-bip_39_word_no_space_9: purposeeraseuntilorchardgentlegapimmensecountrylaw
-bip_39_word_space_0:
-- purpose
-- erase
-- until
-- orchard
-- gentle
-- gap
-- immense
-- country
-- law
-- milk
-- miracle
-- armed
-bip_39_word_space_1: purpose
-bip_39_word_space_10: purpose erase until orchard gentle gap immense country law milk
-bip_39_word_space_11: purpose erase until orchard gentle gap immense country law milk
-  miracle
 bip_39_word_space_12: purpose erase until orchard gentle gap immense country law milk
   miracle armed
 bip_39_word_space_2: purpose erase
 bip_39_word_space_3: purpose erase until
-bip_39_word_space_4: purpose erase until orchard
-bip_39_word_space_5: purpose erase until orchard gentle
-bip_39_word_space_6: purpose erase until orchard gentle gap
-bip_39_word_space_7: purpose erase until orchard gentle gap immense
-bip_39_word_space_8: purpose erase until orchard gentle gap immense country
-bip_39_word_space_9: purpose erase until orchard gentle gap immense country law
-bip_39_word_underscore_1: purpose
-bip_39_word_underscore_10: purpose_erase_until_orchard_gentle_gap_immense_country_law_milk
-bip_39_word_underscore_11: purpose_erase_until_orchard_gentle_gap_immense_country_law_milk_miracle
 bip_39_word_underscore_12: purpose_erase_until_orchard_gentle_gap_immense_country_law_milk_miracle_armed
 bip_39_word_underscore_2: purpose_erase
 bip_39_word_underscore_3: purpose_erase_until
-bip_39_word_underscore_4: purpose_erase_until_orchard
-bip_39_word_underscore_5: purpose_erase_until_orchard_gentle
-bip_39_word_underscore_6: purpose_erase_until_orchard_gentle_gap
-bip_39_word_underscore_7: purpose_erase_until_orchard_gentle_gap_immense
-bip_39_word_underscore_8: purpose_erase_until_orchard_gentle_gap_immense_country
-bip_39_word_underscore_9: purpose_erase_until_orchard_gentle_gap_immense_country_law
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

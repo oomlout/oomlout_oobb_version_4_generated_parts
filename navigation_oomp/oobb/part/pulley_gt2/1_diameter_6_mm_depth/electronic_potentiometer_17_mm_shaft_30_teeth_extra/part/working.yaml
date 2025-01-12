@@ -1,68 +1,9 @@
-bip_39_word_dash_1: tuna
-bip_39_word_dash_10: tuna-omit-only-ensure-disagree-picture-lobster-firm-banner-dirt
-bip_39_word_dash_11: tuna-omit-only-ensure-disagree-picture-lobster-firm-banner-dirt-absent
 bip_39_word_dash_12: tuna-omit-only-ensure-disagree-picture-lobster-firm-banner-dirt-absent-album
 bip_39_word_dash_2: tuna-omit
 bip_39_word_dash_3: tuna-omit-only
-bip_39_word_dash_4: tuna-omit-only-ensure
-bip_39_word_dash_5: tuna-omit-only-ensure-disagree
-bip_39_word_dash_6: tuna-omit-only-ensure-disagree-picture
-bip_39_word_dash_7: tuna-omit-only-ensure-disagree-picture-lobster
-bip_39_word_dash_8: tuna-omit-only-ensure-disagree-picture-lobster-firm
-bip_39_word_dash_9: tuna-omit-only-ensure-disagree-picture-lobster-firm-banner
-bip_39_word_new_br_1: tuna
-bip_39_word_new_br_10: tuna<br>omit<br>only<br>ensure<br>disagree<br>picture<br>lobster<br>firm<br>banner<br>dirt
-bip_39_word_new_br_11: tuna<br>omit<br>only<br>ensure<br>disagree<br>picture<br>lobster<br>firm<br>banner<br>dirt<br>absent
 bip_39_word_new_br_12: tuna<br>omit<br>only<br>ensure<br>disagree<br>picture<br>lobster<br>firm<br>banner<br>dirt<br>absent<br>album
 bip_39_word_new_br_2: tuna<br>omit
 bip_39_word_new_br_3: tuna<br>omit<br>only
-bip_39_word_new_br_4: tuna<br>omit<br>only<br>ensure
-bip_39_word_new_br_5: tuna<br>omit<br>only<br>ensure<br>disagree
-bip_39_word_new_br_6: tuna<br>omit<br>only<br>ensure<br>disagree<br>picture
-bip_39_word_new_br_7: tuna<br>omit<br>only<br>ensure<br>disagree<br>picture<br>lobster
-bip_39_word_new_br_8: tuna<br>omit<br>only<br>ensure<br>disagree<br>picture<br>lobster<br>firm
-bip_39_word_new_br_9: tuna<br>omit<br>only<br>ensure<br>disagree<br>picture<br>lobster<br>firm<br>banner
-bip_39_word_new_line_1: tuna
-bip_39_word_new_line_10: 'tuna
-
-  omit
-
-  only
-
-  ensure
-
-  disagree
-
-  picture
-
-  lobster
-
-  firm
-
-  banner
-
-  dirt'
-bip_39_word_new_line_11: 'tuna
-
-  omit
-
-  only
-
-  ensure
-
-  disagree
-
-  picture
-
-  lobster
-
-  firm
-
-  banner
-
-  dirt
-
-  absent'
 bip_39_word_new_line_12: 'tuna
 
   omit
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'tuna
   omit
 
   only'
-bip_39_word_new_line_4: 'tuna
-
-  omit
-
-  only
-
-  ensure'
-bip_39_word_new_line_5: 'tuna
-
-  omit
-
-  only
-
-  ensure
-
-  disagree'
-bip_39_word_new_line_6: 'tuna
-
-  omit
-
-  only
-
-  ensure
-
-  disagree
-
-  picture'
-bip_39_word_new_line_7: 'tuna
-
-  omit
-
-  only
-
-  ensure
-
-  disagree
-
-  picture
-
-  lobster'
-bip_39_word_new_line_8: 'tuna
-
-  omit
-
-  only
-
-  ensure
-
-  disagree
-
-  picture
-
-  lobster
-
-  firm'
-bip_39_word_new_line_9: 'tuna
-
-  omit
-
-  only
-
-  ensure
-
-  disagree
-
-  picture
-
-  lobster
-
-  firm
-
-  banner'
-bip_39_word_no_space_1: tuna
-bip_39_word_no_space_10: tunaomitonlyensuredisagreepicturelobsterfirmbannerdirt
-bip_39_word_no_space_11: tunaomitonlyensuredisagreepicturelobsterfirmbannerdirtabsent
 bip_39_word_no_space_12: tunaomitonlyensuredisagreepicturelobsterfirmbannerdirtabsentalbum
 bip_39_word_no_space_2: tunaomit
 bip_39_word_no_space_3: tunaomitonly
-bip_39_word_no_space_4: tunaomitonlyensure
-bip_39_word_no_space_5: tunaomitonlyensuredisagree
-bip_39_word_no_space_6: tunaomitonlyensuredisagreepicture
-bip_39_word_no_space_7: tunaomitonlyensuredisagreepicturelobster
-bip_39_word_no_space_8: tunaomitonlyensuredisagreepicturelobsterfirm
-bip_39_word_no_space_9: tunaomitonlyensuredisagreepicturelobsterfirmbanner
-bip_39_word_space_0:
-- tuna
-- omit
-- only
-- ensure
-- disagree
-- picture
-- lobster
-- firm
-- banner
-- dirt
-- absent
-- album
-bip_39_word_space_1: tuna
-bip_39_word_space_10: tuna omit only ensure disagree picture lobster firm banner dirt
-bip_39_word_space_11: tuna omit only ensure disagree picture lobster firm banner dirt
-  absent
 bip_39_word_space_12: tuna omit only ensure disagree picture lobster firm banner dirt
   absent album
 bip_39_word_space_2: tuna omit
 bip_39_word_space_3: tuna omit only
-bip_39_word_space_4: tuna omit only ensure
-bip_39_word_space_5: tuna omit only ensure disagree
-bip_39_word_space_6: tuna omit only ensure disagree picture
-bip_39_word_space_7: tuna omit only ensure disagree picture lobster
-bip_39_word_space_8: tuna omit only ensure disagree picture lobster firm
-bip_39_word_space_9: tuna omit only ensure disagree picture lobster firm banner
-bip_39_word_underscore_1: tuna
-bip_39_word_underscore_10: tuna_omit_only_ensure_disagree_picture_lobster_firm_banner_dirt
-bip_39_word_underscore_11: tuna_omit_only_ensure_disagree_picture_lobster_firm_banner_dirt_absent
 bip_39_word_underscore_12: tuna_omit_only_ensure_disagree_picture_lobster_firm_banner_dirt_absent_album
 bip_39_word_underscore_2: tuna_omit
 bip_39_word_underscore_3: tuna_omit_only
-bip_39_word_underscore_4: tuna_omit_only_ensure
-bip_39_word_underscore_5: tuna_omit_only_ensure_disagree
-bip_39_word_underscore_6: tuna_omit_only_ensure_disagree_picture
-bip_39_word_underscore_7: tuna_omit_only_ensure_disagree_picture_lobster
-bip_39_word_underscore_8: tuna_omit_only_ensure_disagree_picture_lobster_firm
-bip_39_word_underscore_9: tuna_omit_only_ensure_disagree_picture_lobster_firm_banner
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

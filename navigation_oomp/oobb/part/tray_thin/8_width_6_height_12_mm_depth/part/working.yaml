@@ -1,68 +1,9 @@
-bip_39_word_dash_1: turtle
-bip_39_word_dash_10: turtle-explain-mechanic-foil-involve-crumble-actual-window-icon-job
-bip_39_word_dash_11: turtle-explain-mechanic-foil-involve-crumble-actual-window-icon-job-bread
 bip_39_word_dash_12: turtle-explain-mechanic-foil-involve-crumble-actual-window-icon-job-bread-arena
 bip_39_word_dash_2: turtle-explain
 bip_39_word_dash_3: turtle-explain-mechanic
-bip_39_word_dash_4: turtle-explain-mechanic-foil
-bip_39_word_dash_5: turtle-explain-mechanic-foil-involve
-bip_39_word_dash_6: turtle-explain-mechanic-foil-involve-crumble
-bip_39_word_dash_7: turtle-explain-mechanic-foil-involve-crumble-actual
-bip_39_word_dash_8: turtle-explain-mechanic-foil-involve-crumble-actual-window
-bip_39_word_dash_9: turtle-explain-mechanic-foil-involve-crumble-actual-window-icon
-bip_39_word_new_br_1: turtle
-bip_39_word_new_br_10: turtle<br>explain<br>mechanic<br>foil<br>involve<br>crumble<br>actual<br>window<br>icon<br>job
-bip_39_word_new_br_11: turtle<br>explain<br>mechanic<br>foil<br>involve<br>crumble<br>actual<br>window<br>icon<br>job<br>bread
 bip_39_word_new_br_12: turtle<br>explain<br>mechanic<br>foil<br>involve<br>crumble<br>actual<br>window<br>icon<br>job<br>bread<br>arena
 bip_39_word_new_br_2: turtle<br>explain
 bip_39_word_new_br_3: turtle<br>explain<br>mechanic
-bip_39_word_new_br_4: turtle<br>explain<br>mechanic<br>foil
-bip_39_word_new_br_5: turtle<br>explain<br>mechanic<br>foil<br>involve
-bip_39_word_new_br_6: turtle<br>explain<br>mechanic<br>foil<br>involve<br>crumble
-bip_39_word_new_br_7: turtle<br>explain<br>mechanic<br>foil<br>involve<br>crumble<br>actual
-bip_39_word_new_br_8: turtle<br>explain<br>mechanic<br>foil<br>involve<br>crumble<br>actual<br>window
-bip_39_word_new_br_9: turtle<br>explain<br>mechanic<br>foil<br>involve<br>crumble<br>actual<br>window<br>icon
-bip_39_word_new_line_1: turtle
-bip_39_word_new_line_10: 'turtle
-
-  explain
-
-  mechanic
-
-  foil
-
-  involve
-
-  crumble
-
-  actual
-
-  window
-
-  icon
-
-  job'
-bip_39_word_new_line_11: 'turtle
-
-  explain
-
-  mechanic
-
-  foil
-
-  involve
-
-  crumble
-
-  actual
-
-  window
-
-  icon
-
-  job
-
-  bread'
 bip_39_word_new_line_12: 'turtle
 
   explain
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'turtle
   explain
 
   mechanic'
-bip_39_word_new_line_4: 'turtle
-
-  explain
-
-  mechanic
-
-  foil'
-bip_39_word_new_line_5: 'turtle
-
-  explain
-
-  mechanic
-
-  foil
-
-  involve'
-bip_39_word_new_line_6: 'turtle
-
-  explain
-
-  mechanic
-
-  foil
-
-  involve
-
-  crumble'
-bip_39_word_new_line_7: 'turtle
-
-  explain
-
-  mechanic
-
-  foil
-
-  involve
-
-  crumble
-
-  actual'
-bip_39_word_new_line_8: 'turtle
-
-  explain
-
-  mechanic
-
-  foil
-
-  involve
-
-  crumble
-
-  actual
-
-  window'
-bip_39_word_new_line_9: 'turtle
-
-  explain
-
-  mechanic
-
-  foil
-
-  involve
-
-  crumble
-
-  actual
-
-  window
-
-  icon'
-bip_39_word_no_space_1: turtle
-bip_39_word_no_space_10: turtleexplainmechanicfoilinvolvecrumbleactualwindowiconjob
-bip_39_word_no_space_11: turtleexplainmechanicfoilinvolvecrumbleactualwindowiconjobbread
 bip_39_word_no_space_12: turtleexplainmechanicfoilinvolvecrumbleactualwindowiconjobbreadarena
 bip_39_word_no_space_2: turtleexplain
 bip_39_word_no_space_3: turtleexplainmechanic
-bip_39_word_no_space_4: turtleexplainmechanicfoil
-bip_39_word_no_space_5: turtleexplainmechanicfoilinvolve
-bip_39_word_no_space_6: turtleexplainmechanicfoilinvolvecrumble
-bip_39_word_no_space_7: turtleexplainmechanicfoilinvolvecrumbleactual
-bip_39_word_no_space_8: turtleexplainmechanicfoilinvolvecrumbleactualwindow
-bip_39_word_no_space_9: turtleexplainmechanicfoilinvolvecrumbleactualwindowicon
-bip_39_word_space_0:
-- turtle
-- explain
-- mechanic
-- foil
-- involve
-- crumble
-- actual
-- window
-- icon
-- job
-- bread
-- arena
-bip_39_word_space_1: turtle
-bip_39_word_space_10: turtle explain mechanic foil involve crumble actual window icon
-  job
-bip_39_word_space_11: turtle explain mechanic foil involve crumble actual window icon
-  job bread
 bip_39_word_space_12: turtle explain mechanic foil involve crumble actual window icon
   job bread arena
 bip_39_word_space_2: turtle explain
 bip_39_word_space_3: turtle explain mechanic
-bip_39_word_space_4: turtle explain mechanic foil
-bip_39_word_space_5: turtle explain mechanic foil involve
-bip_39_word_space_6: turtle explain mechanic foil involve crumble
-bip_39_word_space_7: turtle explain mechanic foil involve crumble actual
-bip_39_word_space_8: turtle explain mechanic foil involve crumble actual window
-bip_39_word_space_9: turtle explain mechanic foil involve crumble actual window icon
-bip_39_word_underscore_1: turtle
-bip_39_word_underscore_10: turtle_explain_mechanic_foil_involve_crumble_actual_window_icon_job
-bip_39_word_underscore_11: turtle_explain_mechanic_foil_involve_crumble_actual_window_icon_job_bread
 bip_39_word_underscore_12: turtle_explain_mechanic_foil_involve_crumble_actual_window_icon_job_bread_arena
 bip_39_word_underscore_2: turtle_explain
 bip_39_word_underscore_3: turtle_explain_mechanic
-bip_39_word_underscore_4: turtle_explain_mechanic_foil
-bip_39_word_underscore_5: turtle_explain_mechanic_foil_involve
-bip_39_word_underscore_6: turtle_explain_mechanic_foil_involve_crumble
-bip_39_word_underscore_7: turtle_explain_mechanic_foil_involve_crumble_actual
-bip_39_word_underscore_8: turtle_explain_mechanic_foil_involve_crumble_actual_window
-bip_39_word_underscore_9: turtle_explain_mechanic_foil_involve_crumble_actual_window_icon
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

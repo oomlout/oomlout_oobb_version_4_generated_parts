@@ -1,68 +1,9 @@
-bip_39_word_dash_1: universe
-bip_39_word_dash_10: universe-outdoor-sense-tornado-crawl-cinnamon-long-farm-radar-pink
-bip_39_word_dash_11: universe-outdoor-sense-tornado-crawl-cinnamon-long-farm-radar-pink-elbow
 bip_39_word_dash_12: universe-outdoor-sense-tornado-crawl-cinnamon-long-farm-radar-pink-elbow-aisle
 bip_39_word_dash_2: universe-outdoor
 bip_39_word_dash_3: universe-outdoor-sense
-bip_39_word_dash_4: universe-outdoor-sense-tornado
-bip_39_word_dash_5: universe-outdoor-sense-tornado-crawl
-bip_39_word_dash_6: universe-outdoor-sense-tornado-crawl-cinnamon
-bip_39_word_dash_7: universe-outdoor-sense-tornado-crawl-cinnamon-long
-bip_39_word_dash_8: universe-outdoor-sense-tornado-crawl-cinnamon-long-farm
-bip_39_word_dash_9: universe-outdoor-sense-tornado-crawl-cinnamon-long-farm-radar
-bip_39_word_new_br_1: universe
-bip_39_word_new_br_10: universe<br>outdoor<br>sense<br>tornado<br>crawl<br>cinnamon<br>long<br>farm<br>radar<br>pink
-bip_39_word_new_br_11: universe<br>outdoor<br>sense<br>tornado<br>crawl<br>cinnamon<br>long<br>farm<br>radar<br>pink<br>elbow
 bip_39_word_new_br_12: universe<br>outdoor<br>sense<br>tornado<br>crawl<br>cinnamon<br>long<br>farm<br>radar<br>pink<br>elbow<br>aisle
 bip_39_word_new_br_2: universe<br>outdoor
 bip_39_word_new_br_3: universe<br>outdoor<br>sense
-bip_39_word_new_br_4: universe<br>outdoor<br>sense<br>tornado
-bip_39_word_new_br_5: universe<br>outdoor<br>sense<br>tornado<br>crawl
-bip_39_word_new_br_6: universe<br>outdoor<br>sense<br>tornado<br>crawl<br>cinnamon
-bip_39_word_new_br_7: universe<br>outdoor<br>sense<br>tornado<br>crawl<br>cinnamon<br>long
-bip_39_word_new_br_8: universe<br>outdoor<br>sense<br>tornado<br>crawl<br>cinnamon<br>long<br>farm
-bip_39_word_new_br_9: universe<br>outdoor<br>sense<br>tornado<br>crawl<br>cinnamon<br>long<br>farm<br>radar
-bip_39_word_new_line_1: universe
-bip_39_word_new_line_10: 'universe
-
-  outdoor
-
-  sense
-
-  tornado
-
-  crawl
-
-  cinnamon
-
-  long
-
-  farm
-
-  radar
-
-  pink'
-bip_39_word_new_line_11: 'universe
-
-  outdoor
-
-  sense
-
-  tornado
-
-  crawl
-
-  cinnamon
-
-  long
-
-  farm
-
-  radar
-
-  pink
-
-  elbow'
 bip_39_word_new_line_12: 'universe
 
   outdoor
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'universe
   outdoor
 
   sense'
-bip_39_word_new_line_4: 'universe
-
-  outdoor
-
-  sense
-
-  tornado'
-bip_39_word_new_line_5: 'universe
-
-  outdoor
-
-  sense
-
-  tornado
-
-  crawl'
-bip_39_word_new_line_6: 'universe
-
-  outdoor
-
-  sense
-
-  tornado
-
-  crawl
-
-  cinnamon'
-bip_39_word_new_line_7: 'universe
-
-  outdoor
-
-  sense
-
-  tornado
-
-  crawl
-
-  cinnamon
-
-  long'
-bip_39_word_new_line_8: 'universe
-
-  outdoor
-
-  sense
-
-  tornado
-
-  crawl
-
-  cinnamon
-
-  long
-
-  farm'
-bip_39_word_new_line_9: 'universe
-
-  outdoor
-
-  sense
-
-  tornado
-
-  crawl
-
-  cinnamon
-
-  long
-
-  farm
-
-  radar'
-bip_39_word_no_space_1: universe
-bip_39_word_no_space_10: universeoutdoorsensetornadocrawlcinnamonlongfarmradarpink
-bip_39_word_no_space_11: universeoutdoorsensetornadocrawlcinnamonlongfarmradarpinkelbow
 bip_39_word_no_space_12: universeoutdoorsensetornadocrawlcinnamonlongfarmradarpinkelbowaisle
 bip_39_word_no_space_2: universeoutdoor
 bip_39_word_no_space_3: universeoutdoorsense
-bip_39_word_no_space_4: universeoutdoorsensetornado
-bip_39_word_no_space_5: universeoutdoorsensetornadocrawl
-bip_39_word_no_space_6: universeoutdoorsensetornadocrawlcinnamon
-bip_39_word_no_space_7: universeoutdoorsensetornadocrawlcinnamonlong
-bip_39_word_no_space_8: universeoutdoorsensetornadocrawlcinnamonlongfarm
-bip_39_word_no_space_9: universeoutdoorsensetornadocrawlcinnamonlongfarmradar
-bip_39_word_space_0:
-- universe
-- outdoor
-- sense
-- tornado
-- crawl
-- cinnamon
-- long
-- farm
-- radar
-- pink
-- elbow
-- aisle
-bip_39_word_space_1: universe
-bip_39_word_space_10: universe outdoor sense tornado crawl cinnamon long farm radar
-  pink
-bip_39_word_space_11: universe outdoor sense tornado crawl cinnamon long farm radar
-  pink elbow
 bip_39_word_space_12: universe outdoor sense tornado crawl cinnamon long farm radar
   pink elbow aisle
 bip_39_word_space_2: universe outdoor
 bip_39_word_space_3: universe outdoor sense
-bip_39_word_space_4: universe outdoor sense tornado
-bip_39_word_space_5: universe outdoor sense tornado crawl
-bip_39_word_space_6: universe outdoor sense tornado crawl cinnamon
-bip_39_word_space_7: universe outdoor sense tornado crawl cinnamon long
-bip_39_word_space_8: universe outdoor sense tornado crawl cinnamon long farm
-bip_39_word_space_9: universe outdoor sense tornado crawl cinnamon long farm radar
-bip_39_word_underscore_1: universe
-bip_39_word_underscore_10: universe_outdoor_sense_tornado_crawl_cinnamon_long_farm_radar_pink
-bip_39_word_underscore_11: universe_outdoor_sense_tornado_crawl_cinnamon_long_farm_radar_pink_elbow
 bip_39_word_underscore_12: universe_outdoor_sense_tornado_crawl_cinnamon_long_farm_radar_pink_elbow_aisle
 bip_39_word_underscore_2: universe_outdoor
 bip_39_word_underscore_3: universe_outdoor_sense
-bip_39_word_underscore_4: universe_outdoor_sense_tornado
-bip_39_word_underscore_5: universe_outdoor_sense_tornado_crawl
-bip_39_word_underscore_6: universe_outdoor_sense_tornado_crawl_cinnamon
-bip_39_word_underscore_7: universe_outdoor_sense_tornado_crawl_cinnamon_long
-bip_39_word_underscore_8: universe_outdoor_sense_tornado_crawl_cinnamon_long_farm
-bip_39_word_underscore_9: universe_outdoor_sense_tornado_crawl_cinnamon_long_farm_radar
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: minimum
-bip_39_word_dash_10: minimum-outside-present-rail-cannon-tornado-illegal-talk-teach-slush
-bip_39_word_dash_11: minimum-outside-present-rail-cannon-tornado-illegal-talk-teach-slush-basic
 bip_39_word_dash_12: minimum-outside-present-rail-cannon-tornado-illegal-talk-teach-slush-basic-above
 bip_39_word_dash_2: minimum-outside
 bip_39_word_dash_3: minimum-outside-present
-bip_39_word_dash_4: minimum-outside-present-rail
-bip_39_word_dash_5: minimum-outside-present-rail-cannon
-bip_39_word_dash_6: minimum-outside-present-rail-cannon-tornado
-bip_39_word_dash_7: minimum-outside-present-rail-cannon-tornado-illegal
-bip_39_word_dash_8: minimum-outside-present-rail-cannon-tornado-illegal-talk
-bip_39_word_dash_9: minimum-outside-present-rail-cannon-tornado-illegal-talk-teach
-bip_39_word_new_br_1: minimum
-bip_39_word_new_br_10: minimum<br>outside<br>present<br>rail<br>cannon<br>tornado<br>illegal<br>talk<br>teach<br>slush
-bip_39_word_new_br_11: minimum<br>outside<br>present<br>rail<br>cannon<br>tornado<br>illegal<br>talk<br>teach<br>slush<br>basic
 bip_39_word_new_br_12: minimum<br>outside<br>present<br>rail<br>cannon<br>tornado<br>illegal<br>talk<br>teach<br>slush<br>basic<br>above
 bip_39_word_new_br_2: minimum<br>outside
 bip_39_word_new_br_3: minimum<br>outside<br>present
-bip_39_word_new_br_4: minimum<br>outside<br>present<br>rail
-bip_39_word_new_br_5: minimum<br>outside<br>present<br>rail<br>cannon
-bip_39_word_new_br_6: minimum<br>outside<br>present<br>rail<br>cannon<br>tornado
-bip_39_word_new_br_7: minimum<br>outside<br>present<br>rail<br>cannon<br>tornado<br>illegal
-bip_39_word_new_br_8: minimum<br>outside<br>present<br>rail<br>cannon<br>tornado<br>illegal<br>talk
-bip_39_word_new_br_9: minimum<br>outside<br>present<br>rail<br>cannon<br>tornado<br>illegal<br>talk<br>teach
-bip_39_word_new_line_1: minimum
-bip_39_word_new_line_10: 'minimum
-
-  outside
-
-  present
-
-  rail
-
-  cannon
-
-  tornado
-
-  illegal
-
-  talk
-
-  teach
-
-  slush'
-bip_39_word_new_line_11: 'minimum
-
-  outside
-
-  present
-
-  rail
-
-  cannon
-
-  tornado
-
-  illegal
-
-  talk
-
-  teach
-
-  slush
-
-  basic'
 bip_39_word_new_line_12: 'minimum
 
   outside
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'minimum
   outside
 
   present'
-bip_39_word_new_line_4: 'minimum
-
-  outside
-
-  present
-
-  rail'
-bip_39_word_new_line_5: 'minimum
-
-  outside
-
-  present
-
-  rail
-
-  cannon'
-bip_39_word_new_line_6: 'minimum
-
-  outside
-
-  present
-
-  rail
-
-  cannon
-
-  tornado'
-bip_39_word_new_line_7: 'minimum
-
-  outside
-
-  present
-
-  rail
-
-  cannon
-
-  tornado
-
-  illegal'
-bip_39_word_new_line_8: 'minimum
-
-  outside
-
-  present
-
-  rail
-
-  cannon
-
-  tornado
-
-  illegal
-
-  talk'
-bip_39_word_new_line_9: 'minimum
-
-  outside
-
-  present
-
-  rail
-
-  cannon
-
-  tornado
-
-  illegal
-
-  talk
-
-  teach'
-bip_39_word_no_space_1: minimum
-bip_39_word_no_space_10: minimumoutsidepresentrailcannontornadoillegaltalkteachslush
-bip_39_word_no_space_11: minimumoutsidepresentrailcannontornadoillegaltalkteachslushbasic
 bip_39_word_no_space_12: minimumoutsidepresentrailcannontornadoillegaltalkteachslushbasicabove
 bip_39_word_no_space_2: minimumoutside
 bip_39_word_no_space_3: minimumoutsidepresent
-bip_39_word_no_space_4: minimumoutsidepresentrail
-bip_39_word_no_space_5: minimumoutsidepresentrailcannon
-bip_39_word_no_space_6: minimumoutsidepresentrailcannontornado
-bip_39_word_no_space_7: minimumoutsidepresentrailcannontornadoillegal
-bip_39_word_no_space_8: minimumoutsidepresentrailcannontornadoillegaltalk
-bip_39_word_no_space_9: minimumoutsidepresentrailcannontornadoillegaltalkteach
-bip_39_word_space_0:
-- minimum
-- outside
-- present
-- rail
-- cannon
-- tornado
-- illegal
-- talk
-- teach
-- slush
-- basic
-- above
-bip_39_word_space_1: minimum
-bip_39_word_space_10: minimum outside present rail cannon tornado illegal talk teach
-  slush
-bip_39_word_space_11: minimum outside present rail cannon tornado illegal talk teach
-  slush basic
 bip_39_word_space_12: minimum outside present rail cannon tornado illegal talk teach
   slush basic above
 bip_39_word_space_2: minimum outside
 bip_39_word_space_3: minimum outside present
-bip_39_word_space_4: minimum outside present rail
-bip_39_word_space_5: minimum outside present rail cannon
-bip_39_word_space_6: minimum outside present rail cannon tornado
-bip_39_word_space_7: minimum outside present rail cannon tornado illegal
-bip_39_word_space_8: minimum outside present rail cannon tornado illegal talk
-bip_39_word_space_9: minimum outside present rail cannon tornado illegal talk teach
-bip_39_word_underscore_1: minimum
-bip_39_word_underscore_10: minimum_outside_present_rail_cannon_tornado_illegal_talk_teach_slush
-bip_39_word_underscore_11: minimum_outside_present_rail_cannon_tornado_illegal_talk_teach_slush_basic
 bip_39_word_underscore_12: minimum_outside_present_rail_cannon_tornado_illegal_talk_teach_slush_basic_above
 bip_39_word_underscore_2: minimum_outside
 bip_39_word_underscore_3: minimum_outside_present
-bip_39_word_underscore_4: minimum_outside_present_rail
-bip_39_word_underscore_5: minimum_outside_present_rail_cannon
-bip_39_word_underscore_6: minimum_outside_present_rail_cannon_tornado
-bip_39_word_underscore_7: minimum_outside_present_rail_cannon_tornado_illegal
-bip_39_word_underscore_8: minimum_outside_present_rail_cannon_tornado_illegal_talk
-bip_39_word_underscore_9: minimum_outside_present_rail_cannon_tornado_illegal_talk_teach
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

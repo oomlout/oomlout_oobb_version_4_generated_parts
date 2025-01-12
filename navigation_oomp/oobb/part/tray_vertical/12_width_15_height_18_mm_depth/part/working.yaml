@@ -1,68 +1,9 @@
-bip_39_word_dash_1: addict
-bip_39_word_dash_10: addict-analyst-decade-coast-expect-lobster-legend-swarm-wrist-click
-bip_39_word_dash_11: addict-analyst-decade-coast-expect-lobster-legend-swarm-wrist-click-normal
 bip_39_word_dash_12: addict-analyst-decade-coast-expect-lobster-legend-swarm-wrist-click-normal-air
 bip_39_word_dash_2: addict-analyst
 bip_39_word_dash_3: addict-analyst-decade
-bip_39_word_dash_4: addict-analyst-decade-coast
-bip_39_word_dash_5: addict-analyst-decade-coast-expect
-bip_39_word_dash_6: addict-analyst-decade-coast-expect-lobster
-bip_39_word_dash_7: addict-analyst-decade-coast-expect-lobster-legend
-bip_39_word_dash_8: addict-analyst-decade-coast-expect-lobster-legend-swarm
-bip_39_word_dash_9: addict-analyst-decade-coast-expect-lobster-legend-swarm-wrist
-bip_39_word_new_br_1: addict
-bip_39_word_new_br_10: addict<br>analyst<br>decade<br>coast<br>expect<br>lobster<br>legend<br>swarm<br>wrist<br>click
-bip_39_word_new_br_11: addict<br>analyst<br>decade<br>coast<br>expect<br>lobster<br>legend<br>swarm<br>wrist<br>click<br>normal
 bip_39_word_new_br_12: addict<br>analyst<br>decade<br>coast<br>expect<br>lobster<br>legend<br>swarm<br>wrist<br>click<br>normal<br>air
 bip_39_word_new_br_2: addict<br>analyst
 bip_39_word_new_br_3: addict<br>analyst<br>decade
-bip_39_word_new_br_4: addict<br>analyst<br>decade<br>coast
-bip_39_word_new_br_5: addict<br>analyst<br>decade<br>coast<br>expect
-bip_39_word_new_br_6: addict<br>analyst<br>decade<br>coast<br>expect<br>lobster
-bip_39_word_new_br_7: addict<br>analyst<br>decade<br>coast<br>expect<br>lobster<br>legend
-bip_39_word_new_br_8: addict<br>analyst<br>decade<br>coast<br>expect<br>lobster<br>legend<br>swarm
-bip_39_word_new_br_9: addict<br>analyst<br>decade<br>coast<br>expect<br>lobster<br>legend<br>swarm<br>wrist
-bip_39_word_new_line_1: addict
-bip_39_word_new_line_10: 'addict
-
-  analyst
-
-  decade
-
-  coast
-
-  expect
-
-  lobster
-
-  legend
-
-  swarm
-
-  wrist
-
-  click'
-bip_39_word_new_line_11: 'addict
-
-  analyst
-
-  decade
-
-  coast
-
-  expect
-
-  lobster
-
-  legend
-
-  swarm
-
-  wrist
-
-  click
-
-  normal'
 bip_39_word_new_line_12: 'addict
 
   analyst
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'addict
   analyst
 
   decade'
-bip_39_word_new_line_4: 'addict
-
-  analyst
-
-  decade
-
-  coast'
-bip_39_word_new_line_5: 'addict
-
-  analyst
-
-  decade
-
-  coast
-
-  expect'
-bip_39_word_new_line_6: 'addict
-
-  analyst
-
-  decade
-
-  coast
-
-  expect
-
-  lobster'
-bip_39_word_new_line_7: 'addict
-
-  analyst
-
-  decade
-
-  coast
-
-  expect
-
-  lobster
-
-  legend'
-bip_39_word_new_line_8: 'addict
-
-  analyst
-
-  decade
-
-  coast
-
-  expect
-
-  lobster
-
-  legend
-
-  swarm'
-bip_39_word_new_line_9: 'addict
-
-  analyst
-
-  decade
-
-  coast
-
-  expect
-
-  lobster
-
-  legend
-
-  swarm
-
-  wrist'
-bip_39_word_no_space_1: addict
-bip_39_word_no_space_10: addictanalystdecadecoastexpectlobsterlegendswarmwristclick
-bip_39_word_no_space_11: addictanalystdecadecoastexpectlobsterlegendswarmwristclicknormal
 bip_39_word_no_space_12: addictanalystdecadecoastexpectlobsterlegendswarmwristclicknormalair
 bip_39_word_no_space_2: addictanalyst
 bip_39_word_no_space_3: addictanalystdecade
-bip_39_word_no_space_4: addictanalystdecadecoast
-bip_39_word_no_space_5: addictanalystdecadecoastexpect
-bip_39_word_no_space_6: addictanalystdecadecoastexpectlobster
-bip_39_word_no_space_7: addictanalystdecadecoastexpectlobsterlegend
-bip_39_word_no_space_8: addictanalystdecadecoastexpectlobsterlegendswarm
-bip_39_word_no_space_9: addictanalystdecadecoastexpectlobsterlegendswarmwrist
-bip_39_word_space_0:
-- addict
-- analyst
-- decade
-- coast
-- expect
-- lobster
-- legend
-- swarm
-- wrist
-- click
-- normal
-- air
-bip_39_word_space_1: addict
-bip_39_word_space_10: addict analyst decade coast expect lobster legend swarm wrist
-  click
-bip_39_word_space_11: addict analyst decade coast expect lobster legend swarm wrist
-  click normal
 bip_39_word_space_12: addict analyst decade coast expect lobster legend swarm wrist
   click normal air
 bip_39_word_space_2: addict analyst
 bip_39_word_space_3: addict analyst decade
-bip_39_word_space_4: addict analyst decade coast
-bip_39_word_space_5: addict analyst decade coast expect
-bip_39_word_space_6: addict analyst decade coast expect lobster
-bip_39_word_space_7: addict analyst decade coast expect lobster legend
-bip_39_word_space_8: addict analyst decade coast expect lobster legend swarm
-bip_39_word_space_9: addict analyst decade coast expect lobster legend swarm wrist
-bip_39_word_underscore_1: addict
-bip_39_word_underscore_10: addict_analyst_decade_coast_expect_lobster_legend_swarm_wrist_click
-bip_39_word_underscore_11: addict_analyst_decade_coast_expect_lobster_legend_swarm_wrist_click_normal
 bip_39_word_underscore_12: addict_analyst_decade_coast_expect_lobster_legend_swarm_wrist_click_normal_air
 bip_39_word_underscore_2: addict_analyst
 bip_39_word_underscore_3: addict_analyst_decade
-bip_39_word_underscore_4: addict_analyst_decade_coast
-bip_39_word_underscore_5: addict_analyst_decade_coast_expect
-bip_39_word_underscore_6: addict_analyst_decade_coast_expect_lobster
-bip_39_word_underscore_7: addict_analyst_decade_coast_expect_lobster_legend
-bip_39_word_underscore_8: addict_analyst_decade_coast_expect_lobster_legend_swarm
-bip_39_word_underscore_9: addict_analyst_decade_coast_expect_lobster_legend_swarm_wrist
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

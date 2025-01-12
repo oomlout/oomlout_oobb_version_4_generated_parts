@@ -1,68 +1,9 @@
-bip_39_word_dash_1: sea
-bip_39_word_dash_10: sea-item-blush-decorate-erase-always-convince-measure-board-bulk
-bip_39_word_dash_11: sea-item-blush-decorate-erase-always-convince-measure-board-bulk-cluster
 bip_39_word_dash_12: sea-item-blush-decorate-erase-always-convince-measure-board-bulk-cluster-abstract
 bip_39_word_dash_2: sea-item
 bip_39_word_dash_3: sea-item-blush
-bip_39_word_dash_4: sea-item-blush-decorate
-bip_39_word_dash_5: sea-item-blush-decorate-erase
-bip_39_word_dash_6: sea-item-blush-decorate-erase-always
-bip_39_word_dash_7: sea-item-blush-decorate-erase-always-convince
-bip_39_word_dash_8: sea-item-blush-decorate-erase-always-convince-measure
-bip_39_word_dash_9: sea-item-blush-decorate-erase-always-convince-measure-board
-bip_39_word_new_br_1: sea
-bip_39_word_new_br_10: sea<br>item<br>blush<br>decorate<br>erase<br>always<br>convince<br>measure<br>board<br>bulk
-bip_39_word_new_br_11: sea<br>item<br>blush<br>decorate<br>erase<br>always<br>convince<br>measure<br>board<br>bulk<br>cluster
 bip_39_word_new_br_12: sea<br>item<br>blush<br>decorate<br>erase<br>always<br>convince<br>measure<br>board<br>bulk<br>cluster<br>abstract
 bip_39_word_new_br_2: sea<br>item
 bip_39_word_new_br_3: sea<br>item<br>blush
-bip_39_word_new_br_4: sea<br>item<br>blush<br>decorate
-bip_39_word_new_br_5: sea<br>item<br>blush<br>decorate<br>erase
-bip_39_word_new_br_6: sea<br>item<br>blush<br>decorate<br>erase<br>always
-bip_39_word_new_br_7: sea<br>item<br>blush<br>decorate<br>erase<br>always<br>convince
-bip_39_word_new_br_8: sea<br>item<br>blush<br>decorate<br>erase<br>always<br>convince<br>measure
-bip_39_word_new_br_9: sea<br>item<br>blush<br>decorate<br>erase<br>always<br>convince<br>measure<br>board
-bip_39_word_new_line_1: sea
-bip_39_word_new_line_10: 'sea
-
-  item
-
-  blush
-
-  decorate
-
-  erase
-
-  always
-
-  convince
-
-  measure
-
-  board
-
-  bulk'
-bip_39_word_new_line_11: 'sea
-
-  item
-
-  blush
-
-  decorate
-
-  erase
-
-  always
-
-  convince
-
-  measure
-
-  board
-
-  bulk
-
-  cluster'
 bip_39_word_new_line_12: 'sea
 
   item
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'sea
   item
 
   blush'
-bip_39_word_new_line_4: 'sea
-
-  item
-
-  blush
-
-  decorate'
-bip_39_word_new_line_5: 'sea
-
-  item
-
-  blush
-
-  decorate
-
-  erase'
-bip_39_word_new_line_6: 'sea
-
-  item
-
-  blush
-
-  decorate
-
-  erase
-
-  always'
-bip_39_word_new_line_7: 'sea
-
-  item
-
-  blush
-
-  decorate
-
-  erase
-
-  always
-
-  convince'
-bip_39_word_new_line_8: 'sea
-
-  item
-
-  blush
-
-  decorate
-
-  erase
-
-  always
-
-  convince
-
-  measure'
-bip_39_word_new_line_9: 'sea
-
-  item
-
-  blush
-
-  decorate
-
-  erase
-
-  always
-
-  convince
-
-  measure
-
-  board'
-bip_39_word_no_space_1: sea
-bip_39_word_no_space_10: seaitemblushdecorateerasealwaysconvincemeasureboardbulk
-bip_39_word_no_space_11: seaitemblushdecorateerasealwaysconvincemeasureboardbulkcluster
 bip_39_word_no_space_12: seaitemblushdecorateerasealwaysconvincemeasureboardbulkclusterabstract
 bip_39_word_no_space_2: seaitem
 bip_39_word_no_space_3: seaitemblush
-bip_39_word_no_space_4: seaitemblushdecorate
-bip_39_word_no_space_5: seaitemblushdecorateerase
-bip_39_word_no_space_6: seaitemblushdecorateerasealways
-bip_39_word_no_space_7: seaitemblushdecorateerasealwaysconvince
-bip_39_word_no_space_8: seaitemblushdecorateerasealwaysconvincemeasure
-bip_39_word_no_space_9: seaitemblushdecorateerasealwaysconvincemeasureboard
-bip_39_word_space_0:
-- sea
-- item
-- blush
-- decorate
-- erase
-- always
-- convince
-- measure
-- board
-- bulk
-- cluster
-- abstract
-bip_39_word_space_1: sea
-bip_39_word_space_10: sea item blush decorate erase always convince measure board
-  bulk
-bip_39_word_space_11: sea item blush decorate erase always convince measure board
-  bulk cluster
 bip_39_word_space_12: sea item blush decorate erase always convince measure board
   bulk cluster abstract
 bip_39_word_space_2: sea item
 bip_39_word_space_3: sea item blush
-bip_39_word_space_4: sea item blush decorate
-bip_39_word_space_5: sea item blush decorate erase
-bip_39_word_space_6: sea item blush decorate erase always
-bip_39_word_space_7: sea item blush decorate erase always convince
-bip_39_word_space_8: sea item blush decorate erase always convince measure
-bip_39_word_space_9: sea item blush decorate erase always convince measure board
-bip_39_word_underscore_1: sea
-bip_39_word_underscore_10: sea_item_blush_decorate_erase_always_convince_measure_board_bulk
-bip_39_word_underscore_11: sea_item_blush_decorate_erase_always_convince_measure_board_bulk_cluster
 bip_39_word_underscore_12: sea_item_blush_decorate_erase_always_convince_measure_board_bulk_cluster_abstract
 bip_39_word_underscore_2: sea_item
 bip_39_word_underscore_3: sea_item_blush
-bip_39_word_underscore_4: sea_item_blush_decorate
-bip_39_word_underscore_5: sea_item_blush_decorate_erase
-bip_39_word_underscore_6: sea_item_blush_decorate_erase_always
-bip_39_word_underscore_7: sea_item_blush_decorate_erase_always_convince
-bip_39_word_underscore_8: sea_item_blush_decorate_erase_always_convince_measure
-bip_39_word_underscore_9: sea_item_blush_decorate_erase_always_convince_measure_board
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

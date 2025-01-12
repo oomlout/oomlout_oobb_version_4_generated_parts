@@ -1,68 +1,9 @@
-bip_39_word_dash_1: tell
-bip_39_word_dash_10: tell-input-current-invest-prize-bone-barrel-suggest-spoon-sorry
-bip_39_word_dash_11: tell-input-current-invest-prize-bone-barrel-suggest-spoon-sorry-panda
 bip_39_word_dash_12: tell-input-current-invest-prize-bone-barrel-suggest-spoon-sorry-panda-absorb
 bip_39_word_dash_2: tell-input
 bip_39_word_dash_3: tell-input-current
-bip_39_word_dash_4: tell-input-current-invest
-bip_39_word_dash_5: tell-input-current-invest-prize
-bip_39_word_dash_6: tell-input-current-invest-prize-bone
-bip_39_word_dash_7: tell-input-current-invest-prize-bone-barrel
-bip_39_word_dash_8: tell-input-current-invest-prize-bone-barrel-suggest
-bip_39_word_dash_9: tell-input-current-invest-prize-bone-barrel-suggest-spoon
-bip_39_word_new_br_1: tell
-bip_39_word_new_br_10: tell<br>input<br>current<br>invest<br>prize<br>bone<br>barrel<br>suggest<br>spoon<br>sorry
-bip_39_word_new_br_11: tell<br>input<br>current<br>invest<br>prize<br>bone<br>barrel<br>suggest<br>spoon<br>sorry<br>panda
 bip_39_word_new_br_12: tell<br>input<br>current<br>invest<br>prize<br>bone<br>barrel<br>suggest<br>spoon<br>sorry<br>panda<br>absorb
 bip_39_word_new_br_2: tell<br>input
 bip_39_word_new_br_3: tell<br>input<br>current
-bip_39_word_new_br_4: tell<br>input<br>current<br>invest
-bip_39_word_new_br_5: tell<br>input<br>current<br>invest<br>prize
-bip_39_word_new_br_6: tell<br>input<br>current<br>invest<br>prize<br>bone
-bip_39_word_new_br_7: tell<br>input<br>current<br>invest<br>prize<br>bone<br>barrel
-bip_39_word_new_br_8: tell<br>input<br>current<br>invest<br>prize<br>bone<br>barrel<br>suggest
-bip_39_word_new_br_9: tell<br>input<br>current<br>invest<br>prize<br>bone<br>barrel<br>suggest<br>spoon
-bip_39_word_new_line_1: tell
-bip_39_word_new_line_10: 'tell
-
-  input
-
-  current
-
-  invest
-
-  prize
-
-  bone
-
-  barrel
-
-  suggest
-
-  spoon
-
-  sorry'
-bip_39_word_new_line_11: 'tell
-
-  input
-
-  current
-
-  invest
-
-  prize
-
-  bone
-
-  barrel
-
-  suggest
-
-  spoon
-
-  sorry
-
-  panda'
 bip_39_word_new_line_12: 'tell
 
   input
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'tell
   input
 
   current'
-bip_39_word_new_line_4: 'tell
-
-  input
-
-  current
-
-  invest'
-bip_39_word_new_line_5: 'tell
-
-  input
-
-  current
-
-  invest
-
-  prize'
-bip_39_word_new_line_6: 'tell
-
-  input
-
-  current
-
-  invest
-
-  prize
-
-  bone'
-bip_39_word_new_line_7: 'tell
-
-  input
-
-  current
-
-  invest
-
-  prize
-
-  bone
-
-  barrel'
-bip_39_word_new_line_8: 'tell
-
-  input
-
-  current
-
-  invest
-
-  prize
-
-  bone
-
-  barrel
-
-  suggest'
-bip_39_word_new_line_9: 'tell
-
-  input
-
-  current
-
-  invest
-
-  prize
-
-  bone
-
-  barrel
-
-  suggest
-
-  spoon'
-bip_39_word_no_space_1: tell
-bip_39_word_no_space_10: tellinputcurrentinvestprizebonebarrelsuggestspoonsorry
-bip_39_word_no_space_11: tellinputcurrentinvestprizebonebarrelsuggestspoonsorrypanda
 bip_39_word_no_space_12: tellinputcurrentinvestprizebonebarrelsuggestspoonsorrypandaabsorb
 bip_39_word_no_space_2: tellinput
 bip_39_word_no_space_3: tellinputcurrent
-bip_39_word_no_space_4: tellinputcurrentinvest
-bip_39_word_no_space_5: tellinputcurrentinvestprize
-bip_39_word_no_space_6: tellinputcurrentinvestprizebone
-bip_39_word_no_space_7: tellinputcurrentinvestprizebonebarrel
-bip_39_word_no_space_8: tellinputcurrentinvestprizebonebarrelsuggest
-bip_39_word_no_space_9: tellinputcurrentinvestprizebonebarrelsuggestspoon
-bip_39_word_space_0:
-- tell
-- input
-- current
-- invest
-- prize
-- bone
-- barrel
-- suggest
-- spoon
-- sorry
-- panda
-- absorb
-bip_39_word_space_1: tell
-bip_39_word_space_10: tell input current invest prize bone barrel suggest spoon sorry
-bip_39_word_space_11: tell input current invest prize bone barrel suggest spoon sorry
-  panda
 bip_39_word_space_12: tell input current invest prize bone barrel suggest spoon sorry
   panda absorb
 bip_39_word_space_2: tell input
 bip_39_word_space_3: tell input current
-bip_39_word_space_4: tell input current invest
-bip_39_word_space_5: tell input current invest prize
-bip_39_word_space_6: tell input current invest prize bone
-bip_39_word_space_7: tell input current invest prize bone barrel
-bip_39_word_space_8: tell input current invest prize bone barrel suggest
-bip_39_word_space_9: tell input current invest prize bone barrel suggest spoon
-bip_39_word_underscore_1: tell
-bip_39_word_underscore_10: tell_input_current_invest_prize_bone_barrel_suggest_spoon_sorry
-bip_39_word_underscore_11: tell_input_current_invest_prize_bone_barrel_suggest_spoon_sorry_panda
 bip_39_word_underscore_12: tell_input_current_invest_prize_bone_barrel_suggest_spoon_sorry_panda_absorb
 bip_39_word_underscore_2: tell_input
 bip_39_word_underscore_3: tell_input_current
-bip_39_word_underscore_4: tell_input_current_invest
-bip_39_word_underscore_5: tell_input_current_invest_prize
-bip_39_word_underscore_6: tell_input_current_invest_prize_bone
-bip_39_word_underscore_7: tell_input_current_invest_prize_bone_barrel
-bip_39_word_underscore_8: tell_input_current_invest_prize_bone_barrel_suggest
-bip_39_word_underscore_9: tell_input_current_invest_prize_bone_barrel_suggest_spoon
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

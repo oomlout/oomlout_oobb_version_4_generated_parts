@@ -1,68 +1,9 @@
-bip_39_word_dash_1: movie
-bip_39_word_dash_10: movie-patient-supply-gas-kangaroo-because-indoor-oblige-eternal-spoil
-bip_39_word_dash_11: movie-patient-supply-gas-kangaroo-because-indoor-oblige-eternal-spoil-cause
 bip_39_word_dash_12: movie-patient-supply-gas-kangaroo-because-indoor-oblige-eternal-spoil-cause-alert
 bip_39_word_dash_2: movie-patient
 bip_39_word_dash_3: movie-patient-supply
-bip_39_word_dash_4: movie-patient-supply-gas
-bip_39_word_dash_5: movie-patient-supply-gas-kangaroo
-bip_39_word_dash_6: movie-patient-supply-gas-kangaroo-because
-bip_39_word_dash_7: movie-patient-supply-gas-kangaroo-because-indoor
-bip_39_word_dash_8: movie-patient-supply-gas-kangaroo-because-indoor-oblige
-bip_39_word_dash_9: movie-patient-supply-gas-kangaroo-because-indoor-oblige-eternal
-bip_39_word_new_br_1: movie
-bip_39_word_new_br_10: movie<br>patient<br>supply<br>gas<br>kangaroo<br>because<br>indoor<br>oblige<br>eternal<br>spoil
-bip_39_word_new_br_11: movie<br>patient<br>supply<br>gas<br>kangaroo<br>because<br>indoor<br>oblige<br>eternal<br>spoil<br>cause
 bip_39_word_new_br_12: movie<br>patient<br>supply<br>gas<br>kangaroo<br>because<br>indoor<br>oblige<br>eternal<br>spoil<br>cause<br>alert
 bip_39_word_new_br_2: movie<br>patient
 bip_39_word_new_br_3: movie<br>patient<br>supply
-bip_39_word_new_br_4: movie<br>patient<br>supply<br>gas
-bip_39_word_new_br_5: movie<br>patient<br>supply<br>gas<br>kangaroo
-bip_39_word_new_br_6: movie<br>patient<br>supply<br>gas<br>kangaroo<br>because
-bip_39_word_new_br_7: movie<br>patient<br>supply<br>gas<br>kangaroo<br>because<br>indoor
-bip_39_word_new_br_8: movie<br>patient<br>supply<br>gas<br>kangaroo<br>because<br>indoor<br>oblige
-bip_39_word_new_br_9: movie<br>patient<br>supply<br>gas<br>kangaroo<br>because<br>indoor<br>oblige<br>eternal
-bip_39_word_new_line_1: movie
-bip_39_word_new_line_10: 'movie
-
-  patient
-
-  supply
-
-  gas
-
-  kangaroo
-
-  because
-
-  indoor
-
-  oblige
-
-  eternal
-
-  spoil'
-bip_39_word_new_line_11: 'movie
-
-  patient
-
-  supply
-
-  gas
-
-  kangaroo
-
-  because
-
-  indoor
-
-  oblige
-
-  eternal
-
-  spoil
-
-  cause'
 bip_39_word_new_line_12: 'movie
 
   patient
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'movie
   patient
 
   supply'
-bip_39_word_new_line_4: 'movie
-
-  patient
-
-  supply
-
-  gas'
-bip_39_word_new_line_5: 'movie
-
-  patient
-
-  supply
-
-  gas
-
-  kangaroo'
-bip_39_word_new_line_6: 'movie
-
-  patient
-
-  supply
-
-  gas
-
-  kangaroo
-
-  because'
-bip_39_word_new_line_7: 'movie
-
-  patient
-
-  supply
-
-  gas
-
-  kangaroo
-
-  because
-
-  indoor'
-bip_39_word_new_line_8: 'movie
-
-  patient
-
-  supply
-
-  gas
-
-  kangaroo
-
-  because
-
-  indoor
-
-  oblige'
-bip_39_word_new_line_9: 'movie
-
-  patient
-
-  supply
-
-  gas
-
-  kangaroo
-
-  because
-
-  indoor
-
-  oblige
-
-  eternal'
-bip_39_word_no_space_1: movie
-bip_39_word_no_space_10: moviepatientsupplygaskangaroobecauseindoorobligeeternalspoil
-bip_39_word_no_space_11: moviepatientsupplygaskangaroobecauseindoorobligeeternalspoilcause
 bip_39_word_no_space_12: moviepatientsupplygaskangaroobecauseindoorobligeeternalspoilcausealert
 bip_39_word_no_space_2: moviepatient
 bip_39_word_no_space_3: moviepatientsupply
-bip_39_word_no_space_4: moviepatientsupplygas
-bip_39_word_no_space_5: moviepatientsupplygaskangaroo
-bip_39_word_no_space_6: moviepatientsupplygaskangaroobecause
-bip_39_word_no_space_7: moviepatientsupplygaskangaroobecauseindoor
-bip_39_word_no_space_8: moviepatientsupplygaskangaroobecauseindooroblige
-bip_39_word_no_space_9: moviepatientsupplygaskangaroobecauseindoorobligeeternal
-bip_39_word_space_0:
-- movie
-- patient
-- supply
-- gas
-- kangaroo
-- because
-- indoor
-- oblige
-- eternal
-- spoil
-- cause
-- alert
-bip_39_word_space_1: movie
-bip_39_word_space_10: movie patient supply gas kangaroo because indoor oblige eternal
-  spoil
-bip_39_word_space_11: movie patient supply gas kangaroo because indoor oblige eternal
-  spoil cause
 bip_39_word_space_12: movie patient supply gas kangaroo because indoor oblige eternal
   spoil cause alert
 bip_39_word_space_2: movie patient
 bip_39_word_space_3: movie patient supply
-bip_39_word_space_4: movie patient supply gas
-bip_39_word_space_5: movie patient supply gas kangaroo
-bip_39_word_space_6: movie patient supply gas kangaroo because
-bip_39_word_space_7: movie patient supply gas kangaroo because indoor
-bip_39_word_space_8: movie patient supply gas kangaroo because indoor oblige
-bip_39_word_space_9: movie patient supply gas kangaroo because indoor oblige eternal
-bip_39_word_underscore_1: movie
-bip_39_word_underscore_10: movie_patient_supply_gas_kangaroo_because_indoor_oblige_eternal_spoil
-bip_39_word_underscore_11: movie_patient_supply_gas_kangaroo_because_indoor_oblige_eternal_spoil_cause
 bip_39_word_underscore_12: movie_patient_supply_gas_kangaroo_because_indoor_oblige_eternal_spoil_cause_alert
 bip_39_word_underscore_2: movie_patient
 bip_39_word_underscore_3: movie_patient_supply
-bip_39_word_underscore_4: movie_patient_supply_gas
-bip_39_word_underscore_5: movie_patient_supply_gas_kangaroo
-bip_39_word_underscore_6: movie_patient_supply_gas_kangaroo_because
-bip_39_word_underscore_7: movie_patient_supply_gas_kangaroo_because_indoor
-bip_39_word_underscore_8: movie_patient_supply_gas_kangaroo_because_indoor_oblige
-bip_39_word_underscore_9: movie_patient_supply_gas_kangaroo_because_indoor_oblige_eternal
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: ice
-bip_39_word_dash_10: ice-misery-renew-fine-super-cradle-wasp-paper-credit-clutch
-bip_39_word_dash_11: ice-misery-renew-fine-super-cradle-wasp-paper-credit-clutch-check
 bip_39_word_dash_12: ice-misery-renew-fine-super-cradle-wasp-paper-credit-clutch-check-advice
 bip_39_word_dash_2: ice-misery
 bip_39_word_dash_3: ice-misery-renew
-bip_39_word_dash_4: ice-misery-renew-fine
-bip_39_word_dash_5: ice-misery-renew-fine-super
-bip_39_word_dash_6: ice-misery-renew-fine-super-cradle
-bip_39_word_dash_7: ice-misery-renew-fine-super-cradle-wasp
-bip_39_word_dash_8: ice-misery-renew-fine-super-cradle-wasp-paper
-bip_39_word_dash_9: ice-misery-renew-fine-super-cradle-wasp-paper-credit
-bip_39_word_new_br_1: ice
-bip_39_word_new_br_10: ice<br>misery<br>renew<br>fine<br>super<br>cradle<br>wasp<br>paper<br>credit<br>clutch
-bip_39_word_new_br_11: ice<br>misery<br>renew<br>fine<br>super<br>cradle<br>wasp<br>paper<br>credit<br>clutch<br>check
 bip_39_word_new_br_12: ice<br>misery<br>renew<br>fine<br>super<br>cradle<br>wasp<br>paper<br>credit<br>clutch<br>check<br>advice
 bip_39_word_new_br_2: ice<br>misery
 bip_39_word_new_br_3: ice<br>misery<br>renew
-bip_39_word_new_br_4: ice<br>misery<br>renew<br>fine
-bip_39_word_new_br_5: ice<br>misery<br>renew<br>fine<br>super
-bip_39_word_new_br_6: ice<br>misery<br>renew<br>fine<br>super<br>cradle
-bip_39_word_new_br_7: ice<br>misery<br>renew<br>fine<br>super<br>cradle<br>wasp
-bip_39_word_new_br_8: ice<br>misery<br>renew<br>fine<br>super<br>cradle<br>wasp<br>paper
-bip_39_word_new_br_9: ice<br>misery<br>renew<br>fine<br>super<br>cradle<br>wasp<br>paper<br>credit
-bip_39_word_new_line_1: ice
-bip_39_word_new_line_10: 'ice
-
-  misery
-
-  renew
-
-  fine
-
-  super
-
-  cradle
-
-  wasp
-
-  paper
-
-  credit
-
-  clutch'
-bip_39_word_new_line_11: 'ice
-
-  misery
-
-  renew
-
-  fine
-
-  super
-
-  cradle
-
-  wasp
-
-  paper
-
-  credit
-
-  clutch
-
-  check'
 bip_39_word_new_line_12: 'ice
 
   misery
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'ice
   misery
 
   renew'
-bip_39_word_new_line_4: 'ice
-
-  misery
-
-  renew
-
-  fine'
-bip_39_word_new_line_5: 'ice
-
-  misery
-
-  renew
-
-  fine
-
-  super'
-bip_39_word_new_line_6: 'ice
-
-  misery
-
-  renew
-
-  fine
-
-  super
-
-  cradle'
-bip_39_word_new_line_7: 'ice
-
-  misery
-
-  renew
-
-  fine
-
-  super
-
-  cradle
-
-  wasp'
-bip_39_word_new_line_8: 'ice
-
-  misery
-
-  renew
-
-  fine
-
-  super
-
-  cradle
-
-  wasp
-
-  paper'
-bip_39_word_new_line_9: 'ice
-
-  misery
-
-  renew
-
-  fine
-
-  super
-
-  cradle
-
-  wasp
-
-  paper
-
-  credit'
-bip_39_word_no_space_1: ice
-bip_39_word_no_space_10: icemiseryrenewfinesupercradlewasppapercreditclutch
-bip_39_word_no_space_11: icemiseryrenewfinesupercradlewasppapercreditclutchcheck
 bip_39_word_no_space_12: icemiseryrenewfinesupercradlewasppapercreditclutchcheckadvice
 bip_39_word_no_space_2: icemisery
 bip_39_word_no_space_3: icemiseryrenew
-bip_39_word_no_space_4: icemiseryrenewfine
-bip_39_word_no_space_5: icemiseryrenewfinesuper
-bip_39_word_no_space_6: icemiseryrenewfinesupercradle
-bip_39_word_no_space_7: icemiseryrenewfinesupercradlewasp
-bip_39_word_no_space_8: icemiseryrenewfinesupercradlewasppaper
-bip_39_word_no_space_9: icemiseryrenewfinesupercradlewasppapercredit
-bip_39_word_space_0:
-- ice
-- misery
-- renew
-- fine
-- super
-- cradle
-- wasp
-- paper
-- credit
-- clutch
-- check
-- advice
-bip_39_word_space_1: ice
-bip_39_word_space_10: ice misery renew fine super cradle wasp paper credit clutch
-bip_39_word_space_11: ice misery renew fine super cradle wasp paper credit clutch
-  check
 bip_39_word_space_12: ice misery renew fine super cradle wasp paper credit clutch
   check advice
 bip_39_word_space_2: ice misery
 bip_39_word_space_3: ice misery renew
-bip_39_word_space_4: ice misery renew fine
-bip_39_word_space_5: ice misery renew fine super
-bip_39_word_space_6: ice misery renew fine super cradle
-bip_39_word_space_7: ice misery renew fine super cradle wasp
-bip_39_word_space_8: ice misery renew fine super cradle wasp paper
-bip_39_word_space_9: ice misery renew fine super cradle wasp paper credit
-bip_39_word_underscore_1: ice
-bip_39_word_underscore_10: ice_misery_renew_fine_super_cradle_wasp_paper_credit_clutch
-bip_39_word_underscore_11: ice_misery_renew_fine_super_cradle_wasp_paper_credit_clutch_check
 bip_39_word_underscore_12: ice_misery_renew_fine_super_cradle_wasp_paper_credit_clutch_check_advice
 bip_39_word_underscore_2: ice_misery
 bip_39_word_underscore_3: ice_misery_renew
-bip_39_word_underscore_4: ice_misery_renew_fine
-bip_39_word_underscore_5: ice_misery_renew_fine_super
-bip_39_word_underscore_6: ice_misery_renew_fine_super_cradle
-bip_39_word_underscore_7: ice_misery_renew_fine_super_cradle_wasp
-bip_39_word_underscore_8: ice_misery_renew_fine_super_cradle_wasp_paper
-bip_39_word_underscore_9: ice_misery_renew_fine_super_cradle_wasp_paper_credit
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

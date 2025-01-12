@@ -1,68 +1,9 @@
-bip_39_word_dash_1: range
-bip_39_word_dash_10: range-update-depend-use-depend-hammer-resemble-panda-van-slender
-bip_39_word_dash_11: range-update-depend-use-depend-hammer-resemble-panda-van-slender-salad
 bip_39_word_dash_12: range-update-depend-use-depend-hammer-resemble-panda-van-slender-salad-ask
 bip_39_word_dash_2: range-update
 bip_39_word_dash_3: range-update-depend
-bip_39_word_dash_4: range-update-depend-use
-bip_39_word_dash_5: range-update-depend-use-depend
-bip_39_word_dash_6: range-update-depend-use-depend-hammer
-bip_39_word_dash_7: range-update-depend-use-depend-hammer-resemble
-bip_39_word_dash_8: range-update-depend-use-depend-hammer-resemble-panda
-bip_39_word_dash_9: range-update-depend-use-depend-hammer-resemble-panda-van
-bip_39_word_new_br_1: range
-bip_39_word_new_br_10: range<br>update<br>depend<br>use<br>depend<br>hammer<br>resemble<br>panda<br>van<br>slender
-bip_39_word_new_br_11: range<br>update<br>depend<br>use<br>depend<br>hammer<br>resemble<br>panda<br>van<br>slender<br>salad
 bip_39_word_new_br_12: range<br>update<br>depend<br>use<br>depend<br>hammer<br>resemble<br>panda<br>van<br>slender<br>salad<br>ask
 bip_39_word_new_br_2: range<br>update
 bip_39_word_new_br_3: range<br>update<br>depend
-bip_39_word_new_br_4: range<br>update<br>depend<br>use
-bip_39_word_new_br_5: range<br>update<br>depend<br>use<br>depend
-bip_39_word_new_br_6: range<br>update<br>depend<br>use<br>depend<br>hammer
-bip_39_word_new_br_7: range<br>update<br>depend<br>use<br>depend<br>hammer<br>resemble
-bip_39_word_new_br_8: range<br>update<br>depend<br>use<br>depend<br>hammer<br>resemble<br>panda
-bip_39_word_new_br_9: range<br>update<br>depend<br>use<br>depend<br>hammer<br>resemble<br>panda<br>van
-bip_39_word_new_line_1: range
-bip_39_word_new_line_10: 'range
-
-  update
-
-  depend
-
-  use
-
-  depend
-
-  hammer
-
-  resemble
-
-  panda
-
-  van
-
-  slender'
-bip_39_word_new_line_11: 'range
-
-  update
-
-  depend
-
-  use
-
-  depend
-
-  hammer
-
-  resemble
-
-  panda
-
-  van
-
-  slender
-
-  salad'
 bip_39_word_new_line_12: 'range
 
   update
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'range
   update
 
   depend'
-bip_39_word_new_line_4: 'range
-
-  update
-
-  depend
-
-  use'
-bip_39_word_new_line_5: 'range
-
-  update
-
-  depend
-
-  use
-
-  depend'
-bip_39_word_new_line_6: 'range
-
-  update
-
-  depend
-
-  use
-
-  depend
-
-  hammer'
-bip_39_word_new_line_7: 'range
-
-  update
-
-  depend
-
-  use
-
-  depend
-
-  hammer
-
-  resemble'
-bip_39_word_new_line_8: 'range
-
-  update
-
-  depend
-
-  use
-
-  depend
-
-  hammer
-
-  resemble
-
-  panda'
-bip_39_word_new_line_9: 'range
-
-  update
-
-  depend
-
-  use
-
-  depend
-
-  hammer
-
-  resemble
-
-  panda
-
-  van'
-bip_39_word_no_space_1: range
-bip_39_word_no_space_10: rangeupdatedependusedependhammerresemblepandavanslender
-bip_39_word_no_space_11: rangeupdatedependusedependhammerresemblepandavanslendersalad
 bip_39_word_no_space_12: rangeupdatedependusedependhammerresemblepandavanslendersaladask
 bip_39_word_no_space_2: rangeupdate
 bip_39_word_no_space_3: rangeupdatedepend
-bip_39_word_no_space_4: rangeupdatedependuse
-bip_39_word_no_space_5: rangeupdatedependusedepend
-bip_39_word_no_space_6: rangeupdatedependusedependhammer
-bip_39_word_no_space_7: rangeupdatedependusedependhammerresemble
-bip_39_word_no_space_8: rangeupdatedependusedependhammerresemblepanda
-bip_39_word_no_space_9: rangeupdatedependusedependhammerresemblepandavan
-bip_39_word_space_0:
-- range
-- update
-- depend
-- use
-- depend
-- hammer
-- resemble
-- panda
-- van
-- slender
-- salad
-- ask
-bip_39_word_space_1: range
-bip_39_word_space_10: range update depend use depend hammer resemble panda van slender
-bip_39_word_space_11: range update depend use depend hammer resemble panda van slender
-  salad
 bip_39_word_space_12: range update depend use depend hammer resemble panda van slender
   salad ask
 bip_39_word_space_2: range update
 bip_39_word_space_3: range update depend
-bip_39_word_space_4: range update depend use
-bip_39_word_space_5: range update depend use depend
-bip_39_word_space_6: range update depend use depend hammer
-bip_39_word_space_7: range update depend use depend hammer resemble
-bip_39_word_space_8: range update depend use depend hammer resemble panda
-bip_39_word_space_9: range update depend use depend hammer resemble panda van
-bip_39_word_underscore_1: range
-bip_39_word_underscore_10: range_update_depend_use_depend_hammer_resemble_panda_van_slender
-bip_39_word_underscore_11: range_update_depend_use_depend_hammer_resemble_panda_van_slender_salad
 bip_39_word_underscore_12: range_update_depend_use_depend_hammer_resemble_panda_van_slender_salad_ask
 bip_39_word_underscore_2: range_update
 bip_39_word_underscore_3: range_update_depend
-bip_39_word_underscore_4: range_update_depend_use
-bip_39_word_underscore_5: range_update_depend_use_depend
-bip_39_word_underscore_6: range_update_depend_use_depend_hammer
-bip_39_word_underscore_7: range_update_depend_use_depend_hammer_resemble
-bip_39_word_underscore_8: range_update_depend_use_depend_hammer_resemble_panda
-bip_39_word_underscore_9: range_update_depend_use_depend_hammer_resemble_panda_van
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

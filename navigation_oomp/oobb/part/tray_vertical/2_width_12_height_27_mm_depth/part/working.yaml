@@ -1,68 +1,9 @@
-bip_39_word_dash_1: pluck
-bip_39_word_dash_10: pluck-cattle-true-tiger-garbage-island-describe-tiger-deputy-prepare
-bip_39_word_dash_11: pluck-cattle-true-tiger-garbage-island-describe-tiger-deputy-prepare-there
 bip_39_word_dash_12: pluck-cattle-true-tiger-garbage-island-describe-tiger-deputy-prepare-there-access
 bip_39_word_dash_2: pluck-cattle
 bip_39_word_dash_3: pluck-cattle-true
-bip_39_word_dash_4: pluck-cattle-true-tiger
-bip_39_word_dash_5: pluck-cattle-true-tiger-garbage
-bip_39_word_dash_6: pluck-cattle-true-tiger-garbage-island
-bip_39_word_dash_7: pluck-cattle-true-tiger-garbage-island-describe
-bip_39_word_dash_8: pluck-cattle-true-tiger-garbage-island-describe-tiger
-bip_39_word_dash_9: pluck-cattle-true-tiger-garbage-island-describe-tiger-deputy
-bip_39_word_new_br_1: pluck
-bip_39_word_new_br_10: pluck<br>cattle<br>true<br>tiger<br>garbage<br>island<br>describe<br>tiger<br>deputy<br>prepare
-bip_39_word_new_br_11: pluck<br>cattle<br>true<br>tiger<br>garbage<br>island<br>describe<br>tiger<br>deputy<br>prepare<br>there
 bip_39_word_new_br_12: pluck<br>cattle<br>true<br>tiger<br>garbage<br>island<br>describe<br>tiger<br>deputy<br>prepare<br>there<br>access
 bip_39_word_new_br_2: pluck<br>cattle
 bip_39_word_new_br_3: pluck<br>cattle<br>true
-bip_39_word_new_br_4: pluck<br>cattle<br>true<br>tiger
-bip_39_word_new_br_5: pluck<br>cattle<br>true<br>tiger<br>garbage
-bip_39_word_new_br_6: pluck<br>cattle<br>true<br>tiger<br>garbage<br>island
-bip_39_word_new_br_7: pluck<br>cattle<br>true<br>tiger<br>garbage<br>island<br>describe
-bip_39_word_new_br_8: pluck<br>cattle<br>true<br>tiger<br>garbage<br>island<br>describe<br>tiger
-bip_39_word_new_br_9: pluck<br>cattle<br>true<br>tiger<br>garbage<br>island<br>describe<br>tiger<br>deputy
-bip_39_word_new_line_1: pluck
-bip_39_word_new_line_10: 'pluck
-
-  cattle
-
-  true
-
-  tiger
-
-  garbage
-
-  island
-
-  describe
-
-  tiger
-
-  deputy
-
-  prepare'
-bip_39_word_new_line_11: 'pluck
-
-  cattle
-
-  true
-
-  tiger
-
-  garbage
-
-  island
-
-  describe
-
-  tiger
-
-  deputy
-
-  prepare
-
-  there'
 bip_39_word_new_line_12: 'pluck
 
   cattle
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'pluck
   cattle
 
   true'
-bip_39_word_new_line_4: 'pluck
-
-  cattle
-
-  true
-
-  tiger'
-bip_39_word_new_line_5: 'pluck
-
-  cattle
-
-  true
-
-  tiger
-
-  garbage'
-bip_39_word_new_line_6: 'pluck
-
-  cattle
-
-  true
-
-  tiger
-
-  garbage
-
-  island'
-bip_39_word_new_line_7: 'pluck
-
-  cattle
-
-  true
-
-  tiger
-
-  garbage
-
-  island
-
-  describe'
-bip_39_word_new_line_8: 'pluck
-
-  cattle
-
-  true
-
-  tiger
-
-  garbage
-
-  island
-
-  describe
-
-  tiger'
-bip_39_word_new_line_9: 'pluck
-
-  cattle
-
-  true
-
-  tiger
-
-  garbage
-
-  island
-
-  describe
-
-  tiger
-
-  deputy'
-bip_39_word_no_space_1: pluck
-bip_39_word_no_space_10: pluckcattletruetigergarbageislanddescribetigerdeputyprepare
-bip_39_word_no_space_11: pluckcattletruetigergarbageislanddescribetigerdeputypreparethere
 bip_39_word_no_space_12: pluckcattletruetigergarbageislanddescribetigerdeputypreparethereaccess
 bip_39_word_no_space_2: pluckcattle
 bip_39_word_no_space_3: pluckcattletrue
-bip_39_word_no_space_4: pluckcattletruetiger
-bip_39_word_no_space_5: pluckcattletruetigergarbage
-bip_39_word_no_space_6: pluckcattletruetigergarbageisland
-bip_39_word_no_space_7: pluckcattletruetigergarbageislanddescribe
-bip_39_word_no_space_8: pluckcattletruetigergarbageislanddescribetiger
-bip_39_word_no_space_9: pluckcattletruetigergarbageislanddescribetigerdeputy
-bip_39_word_space_0:
-- pluck
-- cattle
-- 'true'
-- tiger
-- garbage
-- island
-- describe
-- tiger
-- deputy
-- prepare
-- there
-- access
-bip_39_word_space_1: pluck
-bip_39_word_space_10: pluck cattle true tiger garbage island describe tiger deputy
-  prepare
-bip_39_word_space_11: pluck cattle true tiger garbage island describe tiger deputy
-  prepare there
 bip_39_word_space_12: pluck cattle true tiger garbage island describe tiger deputy
   prepare there access
 bip_39_word_space_2: pluck cattle
 bip_39_word_space_3: pluck cattle true
-bip_39_word_space_4: pluck cattle true tiger
-bip_39_word_space_5: pluck cattle true tiger garbage
-bip_39_word_space_6: pluck cattle true tiger garbage island
-bip_39_word_space_7: pluck cattle true tiger garbage island describe
-bip_39_word_space_8: pluck cattle true tiger garbage island describe tiger
-bip_39_word_space_9: pluck cattle true tiger garbage island describe tiger deputy
-bip_39_word_underscore_1: pluck
-bip_39_word_underscore_10: pluck_cattle_true_tiger_garbage_island_describe_tiger_deputy_prepare
-bip_39_word_underscore_11: pluck_cattle_true_tiger_garbage_island_describe_tiger_deputy_prepare_there
 bip_39_word_underscore_12: pluck_cattle_true_tiger_garbage_island_describe_tiger_deputy_prepare_there_access
 bip_39_word_underscore_2: pluck_cattle
 bip_39_word_underscore_3: pluck_cattle_true
-bip_39_word_underscore_4: pluck_cattle_true_tiger
-bip_39_word_underscore_5: pluck_cattle_true_tiger_garbage
-bip_39_word_underscore_6: pluck_cattle_true_tiger_garbage_island
-bip_39_word_underscore_7: pluck_cattle_true_tiger_garbage_island_describe
-bip_39_word_underscore_8: pluck_cattle_true_tiger_garbage_island_describe_tiger
-bip_39_word_underscore_9: pluck_cattle_true_tiger_garbage_island_describe_tiger_deputy
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

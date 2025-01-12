@@ -1,68 +1,9 @@
-bip_39_word_dash_1: brisk
-bip_39_word_dash_10: brisk-hole-moon-obey-midnight-satoshi-merge-cage-fold-creek
-bip_39_word_dash_11: brisk-hole-moon-obey-midnight-satoshi-merge-cage-fold-creek-letter
 bip_39_word_dash_12: brisk-hole-moon-obey-midnight-satoshi-merge-cage-fold-creek-letter-arch
 bip_39_word_dash_2: brisk-hole
 bip_39_word_dash_3: brisk-hole-moon
-bip_39_word_dash_4: brisk-hole-moon-obey
-bip_39_word_dash_5: brisk-hole-moon-obey-midnight
-bip_39_word_dash_6: brisk-hole-moon-obey-midnight-satoshi
-bip_39_word_dash_7: brisk-hole-moon-obey-midnight-satoshi-merge
-bip_39_word_dash_8: brisk-hole-moon-obey-midnight-satoshi-merge-cage
-bip_39_word_dash_9: brisk-hole-moon-obey-midnight-satoshi-merge-cage-fold
-bip_39_word_new_br_1: brisk
-bip_39_word_new_br_10: brisk<br>hole<br>moon<br>obey<br>midnight<br>satoshi<br>merge<br>cage<br>fold<br>creek
-bip_39_word_new_br_11: brisk<br>hole<br>moon<br>obey<br>midnight<br>satoshi<br>merge<br>cage<br>fold<br>creek<br>letter
 bip_39_word_new_br_12: brisk<br>hole<br>moon<br>obey<br>midnight<br>satoshi<br>merge<br>cage<br>fold<br>creek<br>letter<br>arch
 bip_39_word_new_br_2: brisk<br>hole
 bip_39_word_new_br_3: brisk<br>hole<br>moon
-bip_39_word_new_br_4: brisk<br>hole<br>moon<br>obey
-bip_39_word_new_br_5: brisk<br>hole<br>moon<br>obey<br>midnight
-bip_39_word_new_br_6: brisk<br>hole<br>moon<br>obey<br>midnight<br>satoshi
-bip_39_word_new_br_7: brisk<br>hole<br>moon<br>obey<br>midnight<br>satoshi<br>merge
-bip_39_word_new_br_8: brisk<br>hole<br>moon<br>obey<br>midnight<br>satoshi<br>merge<br>cage
-bip_39_word_new_br_9: brisk<br>hole<br>moon<br>obey<br>midnight<br>satoshi<br>merge<br>cage<br>fold
-bip_39_word_new_line_1: brisk
-bip_39_word_new_line_10: 'brisk
-
-  hole
-
-  moon
-
-  obey
-
-  midnight
-
-  satoshi
-
-  merge
-
-  cage
-
-  fold
-
-  creek'
-bip_39_word_new_line_11: 'brisk
-
-  hole
-
-  moon
-
-  obey
-
-  midnight
-
-  satoshi
-
-  merge
-
-  cage
-
-  fold
-
-  creek
-
-  letter'
 bip_39_word_new_line_12: 'brisk
 
   hole
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'brisk
   hole
 
   moon'
-bip_39_word_new_line_4: 'brisk
-
-  hole
-
-  moon
-
-  obey'
-bip_39_word_new_line_5: 'brisk
-
-  hole
-
-  moon
-
-  obey
-
-  midnight'
-bip_39_word_new_line_6: 'brisk
-
-  hole
-
-  moon
-
-  obey
-
-  midnight
-
-  satoshi'
-bip_39_word_new_line_7: 'brisk
-
-  hole
-
-  moon
-
-  obey
-
-  midnight
-
-  satoshi
-
-  merge'
-bip_39_word_new_line_8: 'brisk
-
-  hole
-
-  moon
-
-  obey
-
-  midnight
-
-  satoshi
-
-  merge
-
-  cage'
-bip_39_word_new_line_9: 'brisk
-
-  hole
-
-  moon
-
-  obey
-
-  midnight
-
-  satoshi
-
-  merge
-
-  cage
-
-  fold'
-bip_39_word_no_space_1: brisk
-bip_39_word_no_space_10: briskholemoonobeymidnightsatoshimergecagefoldcreek
-bip_39_word_no_space_11: briskholemoonobeymidnightsatoshimergecagefoldcreekletter
 bip_39_word_no_space_12: briskholemoonobeymidnightsatoshimergecagefoldcreekletterarch
 bip_39_word_no_space_2: briskhole
 bip_39_word_no_space_3: briskholemoon
-bip_39_word_no_space_4: briskholemoonobey
-bip_39_word_no_space_5: briskholemoonobeymidnight
-bip_39_word_no_space_6: briskholemoonobeymidnightsatoshi
-bip_39_word_no_space_7: briskholemoonobeymidnightsatoshimerge
-bip_39_word_no_space_8: briskholemoonobeymidnightsatoshimergecage
-bip_39_word_no_space_9: briskholemoonobeymidnightsatoshimergecagefold
-bip_39_word_space_0:
-- brisk
-- hole
-- moon
-- obey
-- midnight
-- satoshi
-- merge
-- cage
-- fold
-- creek
-- letter
-- arch
-bip_39_word_space_1: brisk
-bip_39_word_space_10: brisk hole moon obey midnight satoshi merge cage fold creek
-bip_39_word_space_11: brisk hole moon obey midnight satoshi merge cage fold creek
-  letter
 bip_39_word_space_12: brisk hole moon obey midnight satoshi merge cage fold creek
   letter arch
 bip_39_word_space_2: brisk hole
 bip_39_word_space_3: brisk hole moon
-bip_39_word_space_4: brisk hole moon obey
-bip_39_word_space_5: brisk hole moon obey midnight
-bip_39_word_space_6: brisk hole moon obey midnight satoshi
-bip_39_word_space_7: brisk hole moon obey midnight satoshi merge
-bip_39_word_space_8: brisk hole moon obey midnight satoshi merge cage
-bip_39_word_space_9: brisk hole moon obey midnight satoshi merge cage fold
-bip_39_word_underscore_1: brisk
-bip_39_word_underscore_10: brisk_hole_moon_obey_midnight_satoshi_merge_cage_fold_creek
-bip_39_word_underscore_11: brisk_hole_moon_obey_midnight_satoshi_merge_cage_fold_creek_letter
 bip_39_word_underscore_12: brisk_hole_moon_obey_midnight_satoshi_merge_cage_fold_creek_letter_arch
 bip_39_word_underscore_2: brisk_hole
 bip_39_word_underscore_3: brisk_hole_moon
-bip_39_word_underscore_4: brisk_hole_moon_obey
-bip_39_word_underscore_5: brisk_hole_moon_obey_midnight
-bip_39_word_underscore_6: brisk_hole_moon_obey_midnight_satoshi
-bip_39_word_underscore_7: brisk_hole_moon_obey_midnight_satoshi_merge
-bip_39_word_underscore_8: brisk_hole_moon_obey_midnight_satoshi_merge_cage
-bip_39_word_underscore_9: brisk_hole_moon_obey_midnight_satoshi_merge_cage_fold
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

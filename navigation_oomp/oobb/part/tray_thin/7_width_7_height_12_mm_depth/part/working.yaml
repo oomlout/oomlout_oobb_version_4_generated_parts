@@ -1,68 +1,9 @@
-bip_39_word_dash_1: build
-bip_39_word_dash_10: build-around-cupboard-salad-pigeon-spot-capital-engine-scrap-auto
-bip_39_word_dash_11: build-around-cupboard-salad-pigeon-spot-capital-engine-scrap-auto-move
 bip_39_word_dash_12: build-around-cupboard-salad-pigeon-spot-capital-engine-scrap-auto-move-alien
 bip_39_word_dash_2: build-around
 bip_39_word_dash_3: build-around-cupboard
-bip_39_word_dash_4: build-around-cupboard-salad
-bip_39_word_dash_5: build-around-cupboard-salad-pigeon
-bip_39_word_dash_6: build-around-cupboard-salad-pigeon-spot
-bip_39_word_dash_7: build-around-cupboard-salad-pigeon-spot-capital
-bip_39_word_dash_8: build-around-cupboard-salad-pigeon-spot-capital-engine
-bip_39_word_dash_9: build-around-cupboard-salad-pigeon-spot-capital-engine-scrap
-bip_39_word_new_br_1: build
-bip_39_word_new_br_10: build<br>around<br>cupboard<br>salad<br>pigeon<br>spot<br>capital<br>engine<br>scrap<br>auto
-bip_39_word_new_br_11: build<br>around<br>cupboard<br>salad<br>pigeon<br>spot<br>capital<br>engine<br>scrap<br>auto<br>move
 bip_39_word_new_br_12: build<br>around<br>cupboard<br>salad<br>pigeon<br>spot<br>capital<br>engine<br>scrap<br>auto<br>move<br>alien
 bip_39_word_new_br_2: build<br>around
 bip_39_word_new_br_3: build<br>around<br>cupboard
-bip_39_word_new_br_4: build<br>around<br>cupboard<br>salad
-bip_39_word_new_br_5: build<br>around<br>cupboard<br>salad<br>pigeon
-bip_39_word_new_br_6: build<br>around<br>cupboard<br>salad<br>pigeon<br>spot
-bip_39_word_new_br_7: build<br>around<br>cupboard<br>salad<br>pigeon<br>spot<br>capital
-bip_39_word_new_br_8: build<br>around<br>cupboard<br>salad<br>pigeon<br>spot<br>capital<br>engine
-bip_39_word_new_br_9: build<br>around<br>cupboard<br>salad<br>pigeon<br>spot<br>capital<br>engine<br>scrap
-bip_39_word_new_line_1: build
-bip_39_word_new_line_10: 'build
-
-  around
-
-  cupboard
-
-  salad
-
-  pigeon
-
-  spot
-
-  capital
-
-  engine
-
-  scrap
-
-  auto'
-bip_39_word_new_line_11: 'build
-
-  around
-
-  cupboard
-
-  salad
-
-  pigeon
-
-  spot
-
-  capital
-
-  engine
-
-  scrap
-
-  auto
-
-  move'
 bip_39_word_new_line_12: 'build
 
   around
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'build
   around
 
   cupboard'
-bip_39_word_new_line_4: 'build
-
-  around
-
-  cupboard
-
-  salad'
-bip_39_word_new_line_5: 'build
-
-  around
-
-  cupboard
-
-  salad
-
-  pigeon'
-bip_39_word_new_line_6: 'build
-
-  around
-
-  cupboard
-
-  salad
-
-  pigeon
-
-  spot'
-bip_39_word_new_line_7: 'build
-
-  around
-
-  cupboard
-
-  salad
-
-  pigeon
-
-  spot
-
-  capital'
-bip_39_word_new_line_8: 'build
-
-  around
-
-  cupboard
-
-  salad
-
-  pigeon
-
-  spot
-
-  capital
-
-  engine'
-bip_39_word_new_line_9: 'build
-
-  around
-
-  cupboard
-
-  salad
-
-  pigeon
-
-  spot
-
-  capital
-
-  engine
-
-  scrap'
-bip_39_word_no_space_1: build
-bip_39_word_no_space_10: buildaroundcupboardsaladpigeonspotcapitalenginescrapauto
-bip_39_word_no_space_11: buildaroundcupboardsaladpigeonspotcapitalenginescrapautomove
 bip_39_word_no_space_12: buildaroundcupboardsaladpigeonspotcapitalenginescrapautomovealien
 bip_39_word_no_space_2: buildaround
 bip_39_word_no_space_3: buildaroundcupboard
-bip_39_word_no_space_4: buildaroundcupboardsalad
-bip_39_word_no_space_5: buildaroundcupboardsaladpigeon
-bip_39_word_no_space_6: buildaroundcupboardsaladpigeonspot
-bip_39_word_no_space_7: buildaroundcupboardsaladpigeonspotcapital
-bip_39_word_no_space_8: buildaroundcupboardsaladpigeonspotcapitalengine
-bip_39_word_no_space_9: buildaroundcupboardsaladpigeonspotcapitalenginescrap
-bip_39_word_space_0:
-- build
-- around
-- cupboard
-- salad
-- pigeon
-- spot
-- capital
-- engine
-- scrap
-- auto
-- move
-- alien
-bip_39_word_space_1: build
-bip_39_word_space_10: build around cupboard salad pigeon spot capital engine scrap
-  auto
-bip_39_word_space_11: build around cupboard salad pigeon spot capital engine scrap
-  auto move
 bip_39_word_space_12: build around cupboard salad pigeon spot capital engine scrap
   auto move alien
 bip_39_word_space_2: build around
 bip_39_word_space_3: build around cupboard
-bip_39_word_space_4: build around cupboard salad
-bip_39_word_space_5: build around cupboard salad pigeon
-bip_39_word_space_6: build around cupboard salad pigeon spot
-bip_39_word_space_7: build around cupboard salad pigeon spot capital
-bip_39_word_space_8: build around cupboard salad pigeon spot capital engine
-bip_39_word_space_9: build around cupboard salad pigeon spot capital engine scrap
-bip_39_word_underscore_1: build
-bip_39_word_underscore_10: build_around_cupboard_salad_pigeon_spot_capital_engine_scrap_auto
-bip_39_word_underscore_11: build_around_cupboard_salad_pigeon_spot_capital_engine_scrap_auto_move
 bip_39_word_underscore_12: build_around_cupboard_salad_pigeon_spot_capital_engine_scrap_auto_move_alien
 bip_39_word_underscore_2: build_around
 bip_39_word_underscore_3: build_around_cupboard
-bip_39_word_underscore_4: build_around_cupboard_salad
-bip_39_word_underscore_5: build_around_cupboard_salad_pigeon
-bip_39_word_underscore_6: build_around_cupboard_salad_pigeon_spot
-bip_39_word_underscore_7: build_around_cupboard_salad_pigeon_spot_capital
-bip_39_word_underscore_8: build_around_cupboard_salad_pigeon_spot_capital_engine
-bip_39_word_underscore_9: build_around_cupboard_salad_pigeon_spot_capital_engine_scrap
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

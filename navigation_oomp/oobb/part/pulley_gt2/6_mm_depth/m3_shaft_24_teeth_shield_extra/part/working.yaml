@@ -1,68 +1,9 @@
-bip_39_word_dash_1: attract
-bip_39_word_dash_10: attract-quit-account-meat-cube-minute-vacuum-must-junior-simple
-bip_39_word_dash_11: attract-quit-account-meat-cube-minute-vacuum-must-junior-simple-stand
 bip_39_word_dash_12: attract-quit-account-meat-cube-minute-vacuum-must-junior-simple-stand-aisle
 bip_39_word_dash_2: attract-quit
 bip_39_word_dash_3: attract-quit-account
-bip_39_word_dash_4: attract-quit-account-meat
-bip_39_word_dash_5: attract-quit-account-meat-cube
-bip_39_word_dash_6: attract-quit-account-meat-cube-minute
-bip_39_word_dash_7: attract-quit-account-meat-cube-minute-vacuum
-bip_39_word_dash_8: attract-quit-account-meat-cube-minute-vacuum-must
-bip_39_word_dash_9: attract-quit-account-meat-cube-minute-vacuum-must-junior
-bip_39_word_new_br_1: attract
-bip_39_word_new_br_10: attract<br>quit<br>account<br>meat<br>cube<br>minute<br>vacuum<br>must<br>junior<br>simple
-bip_39_word_new_br_11: attract<br>quit<br>account<br>meat<br>cube<br>minute<br>vacuum<br>must<br>junior<br>simple<br>stand
 bip_39_word_new_br_12: attract<br>quit<br>account<br>meat<br>cube<br>minute<br>vacuum<br>must<br>junior<br>simple<br>stand<br>aisle
 bip_39_word_new_br_2: attract<br>quit
 bip_39_word_new_br_3: attract<br>quit<br>account
-bip_39_word_new_br_4: attract<br>quit<br>account<br>meat
-bip_39_word_new_br_5: attract<br>quit<br>account<br>meat<br>cube
-bip_39_word_new_br_6: attract<br>quit<br>account<br>meat<br>cube<br>minute
-bip_39_word_new_br_7: attract<br>quit<br>account<br>meat<br>cube<br>minute<br>vacuum
-bip_39_word_new_br_8: attract<br>quit<br>account<br>meat<br>cube<br>minute<br>vacuum<br>must
-bip_39_word_new_br_9: attract<br>quit<br>account<br>meat<br>cube<br>minute<br>vacuum<br>must<br>junior
-bip_39_word_new_line_1: attract
-bip_39_word_new_line_10: 'attract
-
-  quit
-
-  account
-
-  meat
-
-  cube
-
-  minute
-
-  vacuum
-
-  must
-
-  junior
-
-  simple'
-bip_39_word_new_line_11: 'attract
-
-  quit
-
-  account
-
-  meat
-
-  cube
-
-  minute
-
-  vacuum
-
-  must
-
-  junior
-
-  simple
-
-  stand'
 bip_39_word_new_line_12: 'attract
 
   quit
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'attract
   quit
 
   account'
-bip_39_word_new_line_4: 'attract
-
-  quit
-
-  account
-
-  meat'
-bip_39_word_new_line_5: 'attract
-
-  quit
-
-  account
-
-  meat
-
-  cube'
-bip_39_word_new_line_6: 'attract
-
-  quit
-
-  account
-
-  meat
-
-  cube
-
-  minute'
-bip_39_word_new_line_7: 'attract
-
-  quit
-
-  account
-
-  meat
-
-  cube
-
-  minute
-
-  vacuum'
-bip_39_word_new_line_8: 'attract
-
-  quit
-
-  account
-
-  meat
-
-  cube
-
-  minute
-
-  vacuum
-
-  must'
-bip_39_word_new_line_9: 'attract
-
-  quit
-
-  account
-
-  meat
-
-  cube
-
-  minute
-
-  vacuum
-
-  must
-
-  junior'
-bip_39_word_no_space_1: attract
-bip_39_word_no_space_10: attractquitaccountmeatcubeminutevacuummustjuniorsimple
-bip_39_word_no_space_11: attractquitaccountmeatcubeminutevacuummustjuniorsimplestand
 bip_39_word_no_space_12: attractquitaccountmeatcubeminutevacuummustjuniorsimplestandaisle
 bip_39_word_no_space_2: attractquit
 bip_39_word_no_space_3: attractquitaccount
-bip_39_word_no_space_4: attractquitaccountmeat
-bip_39_word_no_space_5: attractquitaccountmeatcube
-bip_39_word_no_space_6: attractquitaccountmeatcubeminute
-bip_39_word_no_space_7: attractquitaccountmeatcubeminutevacuum
-bip_39_word_no_space_8: attractquitaccountmeatcubeminutevacuummust
-bip_39_word_no_space_9: attractquitaccountmeatcubeminutevacuummustjunior
-bip_39_word_space_0:
-- attract
-- quit
-- account
-- meat
-- cube
-- minute
-- vacuum
-- must
-- junior
-- simple
-- stand
-- aisle
-bip_39_word_space_1: attract
-bip_39_word_space_10: attract quit account meat cube minute vacuum must junior simple
-bip_39_word_space_11: attract quit account meat cube minute vacuum must junior simple
-  stand
 bip_39_word_space_12: attract quit account meat cube minute vacuum must junior simple
   stand aisle
 bip_39_word_space_2: attract quit
 bip_39_word_space_3: attract quit account
-bip_39_word_space_4: attract quit account meat
-bip_39_word_space_5: attract quit account meat cube
-bip_39_word_space_6: attract quit account meat cube minute
-bip_39_word_space_7: attract quit account meat cube minute vacuum
-bip_39_word_space_8: attract quit account meat cube minute vacuum must
-bip_39_word_space_9: attract quit account meat cube minute vacuum must junior
-bip_39_word_underscore_1: attract
-bip_39_word_underscore_10: attract_quit_account_meat_cube_minute_vacuum_must_junior_simple
-bip_39_word_underscore_11: attract_quit_account_meat_cube_minute_vacuum_must_junior_simple_stand
 bip_39_word_underscore_12: attract_quit_account_meat_cube_minute_vacuum_must_junior_simple_stand_aisle
 bip_39_word_underscore_2: attract_quit
 bip_39_word_underscore_3: attract_quit_account
-bip_39_word_underscore_4: attract_quit_account_meat
-bip_39_word_underscore_5: attract_quit_account_meat_cube
-bip_39_word_underscore_6: attract_quit_account_meat_cube_minute
-bip_39_word_underscore_7: attract_quit_account_meat_cube_minute_vacuum
-bip_39_word_underscore_8: attract_quit_account_meat_cube_minute_vacuum_must
-bip_39_word_underscore_9: attract_quit_account_meat_cube_minute_vacuum_must_junior
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

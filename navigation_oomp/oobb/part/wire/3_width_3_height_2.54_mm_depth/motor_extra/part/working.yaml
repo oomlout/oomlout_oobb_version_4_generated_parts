@@ -1,68 +1,9 @@
-bip_39_word_dash_1: very
-bip_39_word_dash_10: very-sing-salad-stable-gun-debate-enrich-sad-wood-weasel
-bip_39_word_dash_11: very-sing-salad-stable-gun-debate-enrich-sad-wood-weasel-lake
 bip_39_word_dash_12: very-sing-salad-stable-gun-debate-enrich-sad-wood-weasel-lake-alarm
 bip_39_word_dash_2: very-sing
 bip_39_word_dash_3: very-sing-salad
-bip_39_word_dash_4: very-sing-salad-stable
-bip_39_word_dash_5: very-sing-salad-stable-gun
-bip_39_word_dash_6: very-sing-salad-stable-gun-debate
-bip_39_word_dash_7: very-sing-salad-stable-gun-debate-enrich
-bip_39_word_dash_8: very-sing-salad-stable-gun-debate-enrich-sad
-bip_39_word_dash_9: very-sing-salad-stable-gun-debate-enrich-sad-wood
-bip_39_word_new_br_1: very
-bip_39_word_new_br_10: very<br>sing<br>salad<br>stable<br>gun<br>debate<br>enrich<br>sad<br>wood<br>weasel
-bip_39_word_new_br_11: very<br>sing<br>salad<br>stable<br>gun<br>debate<br>enrich<br>sad<br>wood<br>weasel<br>lake
 bip_39_word_new_br_12: very<br>sing<br>salad<br>stable<br>gun<br>debate<br>enrich<br>sad<br>wood<br>weasel<br>lake<br>alarm
 bip_39_word_new_br_2: very<br>sing
 bip_39_word_new_br_3: very<br>sing<br>salad
-bip_39_word_new_br_4: very<br>sing<br>salad<br>stable
-bip_39_word_new_br_5: very<br>sing<br>salad<br>stable<br>gun
-bip_39_word_new_br_6: very<br>sing<br>salad<br>stable<br>gun<br>debate
-bip_39_word_new_br_7: very<br>sing<br>salad<br>stable<br>gun<br>debate<br>enrich
-bip_39_word_new_br_8: very<br>sing<br>salad<br>stable<br>gun<br>debate<br>enrich<br>sad
-bip_39_word_new_br_9: very<br>sing<br>salad<br>stable<br>gun<br>debate<br>enrich<br>sad<br>wood
-bip_39_word_new_line_1: very
-bip_39_word_new_line_10: 'very
-
-  sing
-
-  salad
-
-  stable
-
-  gun
-
-  debate
-
-  enrich
-
-  sad
-
-  wood
-
-  weasel'
-bip_39_word_new_line_11: 'very
-
-  sing
-
-  salad
-
-  stable
-
-  gun
-
-  debate
-
-  enrich
-
-  sad
-
-  wood
-
-  weasel
-
-  lake'
 bip_39_word_new_line_12: 'very
 
   sing
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'very
   sing
 
   salad'
-bip_39_word_new_line_4: 'very
-
-  sing
-
-  salad
-
-  stable'
-bip_39_word_new_line_5: 'very
-
-  sing
-
-  salad
-
-  stable
-
-  gun'
-bip_39_word_new_line_6: 'very
-
-  sing
-
-  salad
-
-  stable
-
-  gun
-
-  debate'
-bip_39_word_new_line_7: 'very
-
-  sing
-
-  salad
-
-  stable
-
-  gun
-
-  debate
-
-  enrich'
-bip_39_word_new_line_8: 'very
-
-  sing
-
-  salad
-
-  stable
-
-  gun
-
-  debate
-
-  enrich
-
-  sad'
-bip_39_word_new_line_9: 'very
-
-  sing
-
-  salad
-
-  stable
-
-  gun
-
-  debate
-
-  enrich
-
-  sad
-
-  wood'
-bip_39_word_no_space_1: very
-bip_39_word_no_space_10: verysingsaladstablegundebateenrichsadwoodweasel
-bip_39_word_no_space_11: verysingsaladstablegundebateenrichsadwoodweasellake
 bip_39_word_no_space_12: verysingsaladstablegundebateenrichsadwoodweasellakealarm
 bip_39_word_no_space_2: verysing
 bip_39_word_no_space_3: verysingsalad
-bip_39_word_no_space_4: verysingsaladstable
-bip_39_word_no_space_5: verysingsaladstablegun
-bip_39_word_no_space_6: verysingsaladstablegundebate
-bip_39_word_no_space_7: verysingsaladstablegundebateenrich
-bip_39_word_no_space_8: verysingsaladstablegundebateenrichsad
-bip_39_word_no_space_9: verysingsaladstablegundebateenrichsadwood
-bip_39_word_space_0:
-- very
-- sing
-- salad
-- stable
-- gun
-- debate
-- enrich
-- sad
-- wood
-- weasel
-- lake
-- alarm
-bip_39_word_space_1: very
-bip_39_word_space_10: very sing salad stable gun debate enrich sad wood weasel
-bip_39_word_space_11: very sing salad stable gun debate enrich sad wood weasel lake
 bip_39_word_space_12: very sing salad stable gun debate enrich sad wood weasel lake
   alarm
 bip_39_word_space_2: very sing
 bip_39_word_space_3: very sing salad
-bip_39_word_space_4: very sing salad stable
-bip_39_word_space_5: very sing salad stable gun
-bip_39_word_space_6: very sing salad stable gun debate
-bip_39_word_space_7: very sing salad stable gun debate enrich
-bip_39_word_space_8: very sing salad stable gun debate enrich sad
-bip_39_word_space_9: very sing salad stable gun debate enrich sad wood
-bip_39_word_underscore_1: very
-bip_39_word_underscore_10: very_sing_salad_stable_gun_debate_enrich_sad_wood_weasel
-bip_39_word_underscore_11: very_sing_salad_stable_gun_debate_enrich_sad_wood_weasel_lake
 bip_39_word_underscore_12: very_sing_salad_stable_gun_debate_enrich_sad_wood_weasel_lake_alarm
 bip_39_word_underscore_2: very_sing
 bip_39_word_underscore_3: very_sing_salad
-bip_39_word_underscore_4: very_sing_salad_stable
-bip_39_word_underscore_5: very_sing_salad_stable_gun
-bip_39_word_underscore_6: very_sing_salad_stable_gun_debate
-bip_39_word_underscore_7: very_sing_salad_stable_gun_debate_enrich
-bip_39_word_underscore_8: very_sing_salad_stable_gun_debate_enrich_sad
-bip_39_word_underscore_9: very_sing_salad_stable_gun_debate_enrich_sad_wood
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

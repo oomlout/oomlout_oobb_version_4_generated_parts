@@ -1,68 +1,9 @@
-bip_39_word_dash_1: blanket
-bip_39_word_dash_10: blanket-matrix-episode-program-apart-beef-fever-chair-tail-cherry
-bip_39_word_dash_11: blanket-matrix-episode-program-apart-beef-fever-chair-tail-cherry-saddle
 bip_39_word_dash_12: blanket-matrix-episode-program-apart-beef-fever-chair-tail-cherry-saddle-auto
 bip_39_word_dash_2: blanket-matrix
 bip_39_word_dash_3: blanket-matrix-episode
-bip_39_word_dash_4: blanket-matrix-episode-program
-bip_39_word_dash_5: blanket-matrix-episode-program-apart
-bip_39_word_dash_6: blanket-matrix-episode-program-apart-beef
-bip_39_word_dash_7: blanket-matrix-episode-program-apart-beef-fever
-bip_39_word_dash_8: blanket-matrix-episode-program-apart-beef-fever-chair
-bip_39_word_dash_9: blanket-matrix-episode-program-apart-beef-fever-chair-tail
-bip_39_word_new_br_1: blanket
-bip_39_word_new_br_10: blanket<br>matrix<br>episode<br>program<br>apart<br>beef<br>fever<br>chair<br>tail<br>cherry
-bip_39_word_new_br_11: blanket<br>matrix<br>episode<br>program<br>apart<br>beef<br>fever<br>chair<br>tail<br>cherry<br>saddle
 bip_39_word_new_br_12: blanket<br>matrix<br>episode<br>program<br>apart<br>beef<br>fever<br>chair<br>tail<br>cherry<br>saddle<br>auto
 bip_39_word_new_br_2: blanket<br>matrix
 bip_39_word_new_br_3: blanket<br>matrix<br>episode
-bip_39_word_new_br_4: blanket<br>matrix<br>episode<br>program
-bip_39_word_new_br_5: blanket<br>matrix<br>episode<br>program<br>apart
-bip_39_word_new_br_6: blanket<br>matrix<br>episode<br>program<br>apart<br>beef
-bip_39_word_new_br_7: blanket<br>matrix<br>episode<br>program<br>apart<br>beef<br>fever
-bip_39_word_new_br_8: blanket<br>matrix<br>episode<br>program<br>apart<br>beef<br>fever<br>chair
-bip_39_word_new_br_9: blanket<br>matrix<br>episode<br>program<br>apart<br>beef<br>fever<br>chair<br>tail
-bip_39_word_new_line_1: blanket
-bip_39_word_new_line_10: 'blanket
-
-  matrix
-
-  episode
-
-  program
-
-  apart
-
-  beef
-
-  fever
-
-  chair
-
-  tail
-
-  cherry'
-bip_39_word_new_line_11: 'blanket
-
-  matrix
-
-  episode
-
-  program
-
-  apart
-
-  beef
-
-  fever
-
-  chair
-
-  tail
-
-  cherry
-
-  saddle'
 bip_39_word_new_line_12: 'blanket
 
   matrix
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'blanket
   matrix
 
   episode'
-bip_39_word_new_line_4: 'blanket
-
-  matrix
-
-  episode
-
-  program'
-bip_39_word_new_line_5: 'blanket
-
-  matrix
-
-  episode
-
-  program
-
-  apart'
-bip_39_word_new_line_6: 'blanket
-
-  matrix
-
-  episode
-
-  program
-
-  apart
-
-  beef'
-bip_39_word_new_line_7: 'blanket
-
-  matrix
-
-  episode
-
-  program
-
-  apart
-
-  beef
-
-  fever'
-bip_39_word_new_line_8: 'blanket
-
-  matrix
-
-  episode
-
-  program
-
-  apart
-
-  beef
-
-  fever
-
-  chair'
-bip_39_word_new_line_9: 'blanket
-
-  matrix
-
-  episode
-
-  program
-
-  apart
-
-  beef
-
-  fever
-
-  chair
-
-  tail'
-bip_39_word_no_space_1: blanket
-bip_39_word_no_space_10: blanketmatrixepisodeprogramapartbeeffeverchairtailcherry
-bip_39_word_no_space_11: blanketmatrixepisodeprogramapartbeeffeverchairtailcherrysaddle
 bip_39_word_no_space_12: blanketmatrixepisodeprogramapartbeeffeverchairtailcherrysaddleauto
 bip_39_word_no_space_2: blanketmatrix
 bip_39_word_no_space_3: blanketmatrixepisode
-bip_39_word_no_space_4: blanketmatrixepisodeprogram
-bip_39_word_no_space_5: blanketmatrixepisodeprogramapart
-bip_39_word_no_space_6: blanketmatrixepisodeprogramapartbeef
-bip_39_word_no_space_7: blanketmatrixepisodeprogramapartbeeffever
-bip_39_word_no_space_8: blanketmatrixepisodeprogramapartbeeffeverchair
-bip_39_word_no_space_9: blanketmatrixepisodeprogramapartbeeffeverchairtail
-bip_39_word_space_0:
-- blanket
-- matrix
-- episode
-- program
-- apart
-- beef
-- fever
-- chair
-- tail
-- cherry
-- saddle
-- auto
-bip_39_word_space_1: blanket
-bip_39_word_space_10: blanket matrix episode program apart beef fever chair tail cherry
-bip_39_word_space_11: blanket matrix episode program apart beef fever chair tail cherry
-  saddle
 bip_39_word_space_12: blanket matrix episode program apart beef fever chair tail cherry
   saddle auto
 bip_39_word_space_2: blanket matrix
 bip_39_word_space_3: blanket matrix episode
-bip_39_word_space_4: blanket matrix episode program
-bip_39_word_space_5: blanket matrix episode program apart
-bip_39_word_space_6: blanket matrix episode program apart beef
-bip_39_word_space_7: blanket matrix episode program apart beef fever
-bip_39_word_space_8: blanket matrix episode program apart beef fever chair
-bip_39_word_space_9: blanket matrix episode program apart beef fever chair tail
-bip_39_word_underscore_1: blanket
-bip_39_word_underscore_10: blanket_matrix_episode_program_apart_beef_fever_chair_tail_cherry
-bip_39_word_underscore_11: blanket_matrix_episode_program_apart_beef_fever_chair_tail_cherry_saddle
 bip_39_word_underscore_12: blanket_matrix_episode_program_apart_beef_fever_chair_tail_cherry_saddle_auto
 bip_39_word_underscore_2: blanket_matrix
 bip_39_word_underscore_3: blanket_matrix_episode
-bip_39_word_underscore_4: blanket_matrix_episode_program
-bip_39_word_underscore_5: blanket_matrix_episode_program_apart
-bip_39_word_underscore_6: blanket_matrix_episode_program_apart_beef
-bip_39_word_underscore_7: blanket_matrix_episode_program_apart_beef_fever
-bip_39_word_underscore_8: blanket_matrix_episode_program_apart_beef_fever_chair
-bip_39_word_underscore_9: blanket_matrix_episode_program_apart_beef_fever_chair_tail
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

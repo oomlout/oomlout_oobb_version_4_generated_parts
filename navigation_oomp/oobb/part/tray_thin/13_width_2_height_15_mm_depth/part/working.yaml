@@ -1,68 +1,9 @@
-bip_39_word_dash_1: run
-bip_39_word_dash_10: run-fish-magic-picnic-movie-choose-toy-slow-over-involve
-bip_39_word_dash_11: run-fish-magic-picnic-movie-choose-toy-slow-over-involve-follow
 bip_39_word_dash_12: run-fish-magic-picnic-movie-choose-toy-slow-over-involve-follow-adjust
 bip_39_word_dash_2: run-fish
 bip_39_word_dash_3: run-fish-magic
-bip_39_word_dash_4: run-fish-magic-picnic
-bip_39_word_dash_5: run-fish-magic-picnic-movie
-bip_39_word_dash_6: run-fish-magic-picnic-movie-choose
-bip_39_word_dash_7: run-fish-magic-picnic-movie-choose-toy
-bip_39_word_dash_8: run-fish-magic-picnic-movie-choose-toy-slow
-bip_39_word_dash_9: run-fish-magic-picnic-movie-choose-toy-slow-over
-bip_39_word_new_br_1: run
-bip_39_word_new_br_10: run<br>fish<br>magic<br>picnic<br>movie<br>choose<br>toy<br>slow<br>over<br>involve
-bip_39_word_new_br_11: run<br>fish<br>magic<br>picnic<br>movie<br>choose<br>toy<br>slow<br>over<br>involve<br>follow
 bip_39_word_new_br_12: run<br>fish<br>magic<br>picnic<br>movie<br>choose<br>toy<br>slow<br>over<br>involve<br>follow<br>adjust
 bip_39_word_new_br_2: run<br>fish
 bip_39_word_new_br_3: run<br>fish<br>magic
-bip_39_word_new_br_4: run<br>fish<br>magic<br>picnic
-bip_39_word_new_br_5: run<br>fish<br>magic<br>picnic<br>movie
-bip_39_word_new_br_6: run<br>fish<br>magic<br>picnic<br>movie<br>choose
-bip_39_word_new_br_7: run<br>fish<br>magic<br>picnic<br>movie<br>choose<br>toy
-bip_39_word_new_br_8: run<br>fish<br>magic<br>picnic<br>movie<br>choose<br>toy<br>slow
-bip_39_word_new_br_9: run<br>fish<br>magic<br>picnic<br>movie<br>choose<br>toy<br>slow<br>over
-bip_39_word_new_line_1: run
-bip_39_word_new_line_10: 'run
-
-  fish
-
-  magic
-
-  picnic
-
-  movie
-
-  choose
-
-  toy
-
-  slow
-
-  over
-
-  involve'
-bip_39_word_new_line_11: 'run
-
-  fish
-
-  magic
-
-  picnic
-
-  movie
-
-  choose
-
-  toy
-
-  slow
-
-  over
-
-  involve
-
-  follow'
 bip_39_word_new_line_12: 'run
 
   fish
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'run
   fish
 
   magic'
-bip_39_word_new_line_4: 'run
-
-  fish
-
-  magic
-
-  picnic'
-bip_39_word_new_line_5: 'run
-
-  fish
-
-  magic
-
-  picnic
-
-  movie'
-bip_39_word_new_line_6: 'run
-
-  fish
-
-  magic
-
-  picnic
-
-  movie
-
-  choose'
-bip_39_word_new_line_7: 'run
-
-  fish
-
-  magic
-
-  picnic
-
-  movie
-
-  choose
-
-  toy'
-bip_39_word_new_line_8: 'run
-
-  fish
-
-  magic
-
-  picnic
-
-  movie
-
-  choose
-
-  toy
-
-  slow'
-bip_39_word_new_line_9: 'run
-
-  fish
-
-  magic
-
-  picnic
-
-  movie
-
-  choose
-
-  toy
-
-  slow
-
-  over'
-bip_39_word_no_space_1: run
-bip_39_word_no_space_10: runfishmagicpicnicmoviechoosetoyslowoverinvolve
-bip_39_word_no_space_11: runfishmagicpicnicmoviechoosetoyslowoverinvolvefollow
 bip_39_word_no_space_12: runfishmagicpicnicmoviechoosetoyslowoverinvolvefollowadjust
 bip_39_word_no_space_2: runfish
 bip_39_word_no_space_3: runfishmagic
-bip_39_word_no_space_4: runfishmagicpicnic
-bip_39_word_no_space_5: runfishmagicpicnicmovie
-bip_39_word_no_space_6: runfishmagicpicnicmoviechoose
-bip_39_word_no_space_7: runfishmagicpicnicmoviechoosetoy
-bip_39_word_no_space_8: runfishmagicpicnicmoviechoosetoyslow
-bip_39_word_no_space_9: runfishmagicpicnicmoviechoosetoyslowover
-bip_39_word_space_0:
-- run
-- fish
-- magic
-- picnic
-- movie
-- choose
-- toy
-- slow
-- over
-- involve
-- follow
-- adjust
-bip_39_word_space_1: run
-bip_39_word_space_10: run fish magic picnic movie choose toy slow over involve
-bip_39_word_space_11: run fish magic picnic movie choose toy slow over involve follow
 bip_39_word_space_12: run fish magic picnic movie choose toy slow over involve follow
   adjust
 bip_39_word_space_2: run fish
 bip_39_word_space_3: run fish magic
-bip_39_word_space_4: run fish magic picnic
-bip_39_word_space_5: run fish magic picnic movie
-bip_39_word_space_6: run fish magic picnic movie choose
-bip_39_word_space_7: run fish magic picnic movie choose toy
-bip_39_word_space_8: run fish magic picnic movie choose toy slow
-bip_39_word_space_9: run fish magic picnic movie choose toy slow over
-bip_39_word_underscore_1: run
-bip_39_word_underscore_10: run_fish_magic_picnic_movie_choose_toy_slow_over_involve
-bip_39_word_underscore_11: run_fish_magic_picnic_movie_choose_toy_slow_over_involve_follow
 bip_39_word_underscore_12: run_fish_magic_picnic_movie_choose_toy_slow_over_involve_follow_adjust
 bip_39_word_underscore_2: run_fish
 bip_39_word_underscore_3: run_fish_magic
-bip_39_word_underscore_4: run_fish_magic_picnic
-bip_39_word_underscore_5: run_fish_magic_picnic_movie
-bip_39_word_underscore_6: run_fish_magic_picnic_movie_choose
-bip_39_word_underscore_7: run_fish_magic_picnic_movie_choose_toy
-bip_39_word_underscore_8: run_fish_magic_picnic_movie_choose_toy_slow
-bip_39_word_underscore_9: run_fish_magic_picnic_movie_choose_toy_slow_over
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

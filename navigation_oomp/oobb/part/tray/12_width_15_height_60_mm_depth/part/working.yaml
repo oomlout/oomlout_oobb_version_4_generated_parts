@@ -1,68 +1,9 @@
-bip_39_word_dash_1: weapon
-bip_39_word_dash_10: weapon-field-aspect-step-roof-very-ill-foam-square-burger
-bip_39_word_dash_11: weapon-field-aspect-step-roof-very-ill-foam-square-burger-sorry
 bip_39_word_dash_12: weapon-field-aspect-step-roof-very-ill-foam-square-burger-sorry-almost
 bip_39_word_dash_2: weapon-field
 bip_39_word_dash_3: weapon-field-aspect
-bip_39_word_dash_4: weapon-field-aspect-step
-bip_39_word_dash_5: weapon-field-aspect-step-roof
-bip_39_word_dash_6: weapon-field-aspect-step-roof-very
-bip_39_word_dash_7: weapon-field-aspect-step-roof-very-ill
-bip_39_word_dash_8: weapon-field-aspect-step-roof-very-ill-foam
-bip_39_word_dash_9: weapon-field-aspect-step-roof-very-ill-foam-square
-bip_39_word_new_br_1: weapon
-bip_39_word_new_br_10: weapon<br>field<br>aspect<br>step<br>roof<br>very<br>ill<br>foam<br>square<br>burger
-bip_39_word_new_br_11: weapon<br>field<br>aspect<br>step<br>roof<br>very<br>ill<br>foam<br>square<br>burger<br>sorry
 bip_39_word_new_br_12: weapon<br>field<br>aspect<br>step<br>roof<br>very<br>ill<br>foam<br>square<br>burger<br>sorry<br>almost
 bip_39_word_new_br_2: weapon<br>field
 bip_39_word_new_br_3: weapon<br>field<br>aspect
-bip_39_word_new_br_4: weapon<br>field<br>aspect<br>step
-bip_39_word_new_br_5: weapon<br>field<br>aspect<br>step<br>roof
-bip_39_word_new_br_6: weapon<br>field<br>aspect<br>step<br>roof<br>very
-bip_39_word_new_br_7: weapon<br>field<br>aspect<br>step<br>roof<br>very<br>ill
-bip_39_word_new_br_8: weapon<br>field<br>aspect<br>step<br>roof<br>very<br>ill<br>foam
-bip_39_word_new_br_9: weapon<br>field<br>aspect<br>step<br>roof<br>very<br>ill<br>foam<br>square
-bip_39_word_new_line_1: weapon
-bip_39_word_new_line_10: 'weapon
-
-  field
-
-  aspect
-
-  step
-
-  roof
-
-  very
-
-  ill
-
-  foam
-
-  square
-
-  burger'
-bip_39_word_new_line_11: 'weapon
-
-  field
-
-  aspect
-
-  step
-
-  roof
-
-  very
-
-  ill
-
-  foam
-
-  square
-
-  burger
-
-  sorry'
 bip_39_word_new_line_12: 'weapon
 
   field
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'weapon
   field
 
   aspect'
-bip_39_word_new_line_4: 'weapon
-
-  field
-
-  aspect
-
-  step'
-bip_39_word_new_line_5: 'weapon
-
-  field
-
-  aspect
-
-  step
-
-  roof'
-bip_39_word_new_line_6: 'weapon
-
-  field
-
-  aspect
-
-  step
-
-  roof
-
-  very'
-bip_39_word_new_line_7: 'weapon
-
-  field
-
-  aspect
-
-  step
-
-  roof
-
-  very
-
-  ill'
-bip_39_word_new_line_8: 'weapon
-
-  field
-
-  aspect
-
-  step
-
-  roof
-
-  very
-
-  ill
-
-  foam'
-bip_39_word_new_line_9: 'weapon
-
-  field
-
-  aspect
-
-  step
-
-  roof
-
-  very
-
-  ill
-
-  foam
-
-  square'
-bip_39_word_no_space_1: weapon
-bip_39_word_no_space_10: weaponfieldaspectsteproofveryillfoamsquareburger
-bip_39_word_no_space_11: weaponfieldaspectsteproofveryillfoamsquareburgersorry
 bip_39_word_no_space_12: weaponfieldaspectsteproofveryillfoamsquareburgersorryalmost
 bip_39_word_no_space_2: weaponfield
 bip_39_word_no_space_3: weaponfieldaspect
-bip_39_word_no_space_4: weaponfieldaspectstep
-bip_39_word_no_space_5: weaponfieldaspectsteproof
-bip_39_word_no_space_6: weaponfieldaspectsteproofvery
-bip_39_word_no_space_7: weaponfieldaspectsteproofveryill
-bip_39_word_no_space_8: weaponfieldaspectsteproofveryillfoam
-bip_39_word_no_space_9: weaponfieldaspectsteproofveryillfoamsquare
-bip_39_word_space_0:
-- weapon
-- field
-- aspect
-- step
-- roof
-- very
-- ill
-- foam
-- square
-- burger
-- sorry
-- almost
-bip_39_word_space_1: weapon
-bip_39_word_space_10: weapon field aspect step roof very ill foam square burger
-bip_39_word_space_11: weapon field aspect step roof very ill foam square burger sorry
 bip_39_word_space_12: weapon field aspect step roof very ill foam square burger sorry
   almost
 bip_39_word_space_2: weapon field
 bip_39_word_space_3: weapon field aspect
-bip_39_word_space_4: weapon field aspect step
-bip_39_word_space_5: weapon field aspect step roof
-bip_39_word_space_6: weapon field aspect step roof very
-bip_39_word_space_7: weapon field aspect step roof very ill
-bip_39_word_space_8: weapon field aspect step roof very ill foam
-bip_39_word_space_9: weapon field aspect step roof very ill foam square
-bip_39_word_underscore_1: weapon
-bip_39_word_underscore_10: weapon_field_aspect_step_roof_very_ill_foam_square_burger
-bip_39_word_underscore_11: weapon_field_aspect_step_roof_very_ill_foam_square_burger_sorry
 bip_39_word_underscore_12: weapon_field_aspect_step_roof_very_ill_foam_square_burger_sorry_almost
 bip_39_word_underscore_2: weapon_field
 bip_39_word_underscore_3: weapon_field_aspect
-bip_39_word_underscore_4: weapon_field_aspect_step
-bip_39_word_underscore_5: weapon_field_aspect_step_roof
-bip_39_word_underscore_6: weapon_field_aspect_step_roof_very
-bip_39_word_underscore_7: weapon_field_aspect_step_roof_very_ill
-bip_39_word_underscore_8: weapon_field_aspect_step_roof_very_ill_foam
-bip_39_word_underscore_9: weapon_field_aspect_step_roof_very_ill_foam_square
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: rug
-bip_39_word_dash_10: rug-kick-company-burger-razor-dinosaur-nurse-minute-field-high
-bip_39_word_dash_11: rug-kick-company-burger-razor-dinosaur-nurse-minute-field-high-human
 bip_39_word_dash_12: rug-kick-company-burger-razor-dinosaur-nurse-minute-field-high-human-anchor
 bip_39_word_dash_2: rug-kick
 bip_39_word_dash_3: rug-kick-company
-bip_39_word_dash_4: rug-kick-company-burger
-bip_39_word_dash_5: rug-kick-company-burger-razor
-bip_39_word_dash_6: rug-kick-company-burger-razor-dinosaur
-bip_39_word_dash_7: rug-kick-company-burger-razor-dinosaur-nurse
-bip_39_word_dash_8: rug-kick-company-burger-razor-dinosaur-nurse-minute
-bip_39_word_dash_9: rug-kick-company-burger-razor-dinosaur-nurse-minute-field
-bip_39_word_new_br_1: rug
-bip_39_word_new_br_10: rug<br>kick<br>company<br>burger<br>razor<br>dinosaur<br>nurse<br>minute<br>field<br>high
-bip_39_word_new_br_11: rug<br>kick<br>company<br>burger<br>razor<br>dinosaur<br>nurse<br>minute<br>field<br>high<br>human
 bip_39_word_new_br_12: rug<br>kick<br>company<br>burger<br>razor<br>dinosaur<br>nurse<br>minute<br>field<br>high<br>human<br>anchor
 bip_39_word_new_br_2: rug<br>kick
 bip_39_word_new_br_3: rug<br>kick<br>company
-bip_39_word_new_br_4: rug<br>kick<br>company<br>burger
-bip_39_word_new_br_5: rug<br>kick<br>company<br>burger<br>razor
-bip_39_word_new_br_6: rug<br>kick<br>company<br>burger<br>razor<br>dinosaur
-bip_39_word_new_br_7: rug<br>kick<br>company<br>burger<br>razor<br>dinosaur<br>nurse
-bip_39_word_new_br_8: rug<br>kick<br>company<br>burger<br>razor<br>dinosaur<br>nurse<br>minute
-bip_39_word_new_br_9: rug<br>kick<br>company<br>burger<br>razor<br>dinosaur<br>nurse<br>minute<br>field
-bip_39_word_new_line_1: rug
-bip_39_word_new_line_10: 'rug
-
-  kick
-
-  company
-
-  burger
-
-  razor
-
-  dinosaur
-
-  nurse
-
-  minute
-
-  field
-
-  high'
-bip_39_word_new_line_11: 'rug
-
-  kick
-
-  company
-
-  burger
-
-  razor
-
-  dinosaur
-
-  nurse
-
-  minute
-
-  field
-
-  high
-
-  human'
 bip_39_word_new_line_12: 'rug
 
   kick
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'rug
   kick
 
   company'
-bip_39_word_new_line_4: 'rug
-
-  kick
-
-  company
-
-  burger'
-bip_39_word_new_line_5: 'rug
-
-  kick
-
-  company
-
-  burger
-
-  razor'
-bip_39_word_new_line_6: 'rug
-
-  kick
-
-  company
-
-  burger
-
-  razor
-
-  dinosaur'
-bip_39_word_new_line_7: 'rug
-
-  kick
-
-  company
-
-  burger
-
-  razor
-
-  dinosaur
-
-  nurse'
-bip_39_word_new_line_8: 'rug
-
-  kick
-
-  company
-
-  burger
-
-  razor
-
-  dinosaur
-
-  nurse
-
-  minute'
-bip_39_word_new_line_9: 'rug
-
-  kick
-
-  company
-
-  burger
-
-  razor
-
-  dinosaur
-
-  nurse
-
-  minute
-
-  field'
-bip_39_word_no_space_1: rug
-bip_39_word_no_space_10: rugkickcompanyburgerrazordinosaurnurseminutefieldhigh
-bip_39_word_no_space_11: rugkickcompanyburgerrazordinosaurnurseminutefieldhighhuman
 bip_39_word_no_space_12: rugkickcompanyburgerrazordinosaurnurseminutefieldhighhumananchor
 bip_39_word_no_space_2: rugkick
 bip_39_word_no_space_3: rugkickcompany
-bip_39_word_no_space_4: rugkickcompanyburger
-bip_39_word_no_space_5: rugkickcompanyburgerrazor
-bip_39_word_no_space_6: rugkickcompanyburgerrazordinosaur
-bip_39_word_no_space_7: rugkickcompanyburgerrazordinosaurnurse
-bip_39_word_no_space_8: rugkickcompanyburgerrazordinosaurnurseminute
-bip_39_word_no_space_9: rugkickcompanyburgerrazordinosaurnurseminutefield
-bip_39_word_space_0:
-- rug
-- kick
-- company
-- burger
-- razor
-- dinosaur
-- nurse
-- minute
-- field
-- high
-- human
-- anchor
-bip_39_word_space_1: rug
-bip_39_word_space_10: rug kick company burger razor dinosaur nurse minute field high
-bip_39_word_space_11: rug kick company burger razor dinosaur nurse minute field high
-  human
 bip_39_word_space_12: rug kick company burger razor dinosaur nurse minute field high
   human anchor
 bip_39_word_space_2: rug kick
 bip_39_word_space_3: rug kick company
-bip_39_word_space_4: rug kick company burger
-bip_39_word_space_5: rug kick company burger razor
-bip_39_word_space_6: rug kick company burger razor dinosaur
-bip_39_word_space_7: rug kick company burger razor dinosaur nurse
-bip_39_word_space_8: rug kick company burger razor dinosaur nurse minute
-bip_39_word_space_9: rug kick company burger razor dinosaur nurse minute field
-bip_39_word_underscore_1: rug
-bip_39_word_underscore_10: rug_kick_company_burger_razor_dinosaur_nurse_minute_field_high
-bip_39_word_underscore_11: rug_kick_company_burger_razor_dinosaur_nurse_minute_field_high_human
 bip_39_word_underscore_12: rug_kick_company_burger_razor_dinosaur_nurse_minute_field_high_human_anchor
 bip_39_word_underscore_2: rug_kick
 bip_39_word_underscore_3: rug_kick_company
-bip_39_word_underscore_4: rug_kick_company_burger
-bip_39_word_underscore_5: rug_kick_company_burger_razor
-bip_39_word_underscore_6: rug_kick_company_burger_razor_dinosaur
-bip_39_word_underscore_7: rug_kick_company_burger_razor_dinosaur_nurse
-bip_39_word_underscore_8: rug_kick_company_burger_razor_dinosaur_nurse_minute
-bip_39_word_underscore_9: rug_kick_company_burger_razor_dinosaur_nurse_minute_field
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: clap
-bip_39_word_dash_10: clap-wing-vocal-exclude-lift-kangaroo-busy-tube-hidden-bargain
-bip_39_word_dash_11: clap-wing-vocal-exclude-lift-kangaroo-busy-tube-hidden-bargain-beauty
 bip_39_word_dash_12: clap-wing-vocal-exclude-lift-kangaroo-busy-tube-hidden-bargain-beauty-arrest
 bip_39_word_dash_2: clap-wing
 bip_39_word_dash_3: clap-wing-vocal
-bip_39_word_dash_4: clap-wing-vocal-exclude
-bip_39_word_dash_5: clap-wing-vocal-exclude-lift
-bip_39_word_dash_6: clap-wing-vocal-exclude-lift-kangaroo
-bip_39_word_dash_7: clap-wing-vocal-exclude-lift-kangaroo-busy
-bip_39_word_dash_8: clap-wing-vocal-exclude-lift-kangaroo-busy-tube
-bip_39_word_dash_9: clap-wing-vocal-exclude-lift-kangaroo-busy-tube-hidden
-bip_39_word_new_br_1: clap
-bip_39_word_new_br_10: clap<br>wing<br>vocal<br>exclude<br>lift<br>kangaroo<br>busy<br>tube<br>hidden<br>bargain
-bip_39_word_new_br_11: clap<br>wing<br>vocal<br>exclude<br>lift<br>kangaroo<br>busy<br>tube<br>hidden<br>bargain<br>beauty
 bip_39_word_new_br_12: clap<br>wing<br>vocal<br>exclude<br>lift<br>kangaroo<br>busy<br>tube<br>hidden<br>bargain<br>beauty<br>arrest
 bip_39_word_new_br_2: clap<br>wing
 bip_39_word_new_br_3: clap<br>wing<br>vocal
-bip_39_word_new_br_4: clap<br>wing<br>vocal<br>exclude
-bip_39_word_new_br_5: clap<br>wing<br>vocal<br>exclude<br>lift
-bip_39_word_new_br_6: clap<br>wing<br>vocal<br>exclude<br>lift<br>kangaroo
-bip_39_word_new_br_7: clap<br>wing<br>vocal<br>exclude<br>lift<br>kangaroo<br>busy
-bip_39_word_new_br_8: clap<br>wing<br>vocal<br>exclude<br>lift<br>kangaroo<br>busy<br>tube
-bip_39_word_new_br_9: clap<br>wing<br>vocal<br>exclude<br>lift<br>kangaroo<br>busy<br>tube<br>hidden
-bip_39_word_new_line_1: clap
-bip_39_word_new_line_10: 'clap
-
-  wing
-
-  vocal
-
-  exclude
-
-  lift
-
-  kangaroo
-
-  busy
-
-  tube
-
-  hidden
-
-  bargain'
-bip_39_word_new_line_11: 'clap
-
-  wing
-
-  vocal
-
-  exclude
-
-  lift
-
-  kangaroo
-
-  busy
-
-  tube
-
-  hidden
-
-  bargain
-
-  beauty'
 bip_39_word_new_line_12: 'clap
 
   wing
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'clap
   wing
 
   vocal'
-bip_39_word_new_line_4: 'clap
-
-  wing
-
-  vocal
-
-  exclude'
-bip_39_word_new_line_5: 'clap
-
-  wing
-
-  vocal
-
-  exclude
-
-  lift'
-bip_39_word_new_line_6: 'clap
-
-  wing
-
-  vocal
-
-  exclude
-
-  lift
-
-  kangaroo'
-bip_39_word_new_line_7: 'clap
-
-  wing
-
-  vocal
-
-  exclude
-
-  lift
-
-  kangaroo
-
-  busy'
-bip_39_word_new_line_8: 'clap
-
-  wing
-
-  vocal
-
-  exclude
-
-  lift
-
-  kangaroo
-
-  busy
-
-  tube'
-bip_39_word_new_line_9: 'clap
-
-  wing
-
-  vocal
-
-  exclude
-
-  lift
-
-  kangaroo
-
-  busy
-
-  tube
-
-  hidden'
-bip_39_word_no_space_1: clap
-bip_39_word_no_space_10: clapwingvocalexcludeliftkangaroobusytubehiddenbargain
-bip_39_word_no_space_11: clapwingvocalexcludeliftkangaroobusytubehiddenbargainbeauty
 bip_39_word_no_space_12: clapwingvocalexcludeliftkangaroobusytubehiddenbargainbeautyarrest
 bip_39_word_no_space_2: clapwing
 bip_39_word_no_space_3: clapwingvocal
-bip_39_word_no_space_4: clapwingvocalexclude
-bip_39_word_no_space_5: clapwingvocalexcludelift
-bip_39_word_no_space_6: clapwingvocalexcludeliftkangaroo
-bip_39_word_no_space_7: clapwingvocalexcludeliftkangaroobusy
-bip_39_word_no_space_8: clapwingvocalexcludeliftkangaroobusytube
-bip_39_word_no_space_9: clapwingvocalexcludeliftkangaroobusytubehidden
-bip_39_word_space_0:
-- clap
-- wing
-- vocal
-- exclude
-- lift
-- kangaroo
-- busy
-- tube
-- hidden
-- bargain
-- beauty
-- arrest
-bip_39_word_space_1: clap
-bip_39_word_space_10: clap wing vocal exclude lift kangaroo busy tube hidden bargain
-bip_39_word_space_11: clap wing vocal exclude lift kangaroo busy tube hidden bargain
-  beauty
 bip_39_word_space_12: clap wing vocal exclude lift kangaroo busy tube hidden bargain
   beauty arrest
 bip_39_word_space_2: clap wing
 bip_39_word_space_3: clap wing vocal
-bip_39_word_space_4: clap wing vocal exclude
-bip_39_word_space_5: clap wing vocal exclude lift
-bip_39_word_space_6: clap wing vocal exclude lift kangaroo
-bip_39_word_space_7: clap wing vocal exclude lift kangaroo busy
-bip_39_word_space_8: clap wing vocal exclude lift kangaroo busy tube
-bip_39_word_space_9: clap wing vocal exclude lift kangaroo busy tube hidden
-bip_39_word_underscore_1: clap
-bip_39_word_underscore_10: clap_wing_vocal_exclude_lift_kangaroo_busy_tube_hidden_bargain
-bip_39_word_underscore_11: clap_wing_vocal_exclude_lift_kangaroo_busy_tube_hidden_bargain_beauty
 bip_39_word_underscore_12: clap_wing_vocal_exclude_lift_kangaroo_busy_tube_hidden_bargain_beauty_arrest
 bip_39_word_underscore_2: clap_wing
 bip_39_word_underscore_3: clap_wing_vocal
-bip_39_word_underscore_4: clap_wing_vocal_exclude
-bip_39_word_underscore_5: clap_wing_vocal_exclude_lift
-bip_39_word_underscore_6: clap_wing_vocal_exclude_lift_kangaroo
-bip_39_word_underscore_7: clap_wing_vocal_exclude_lift_kangaroo_busy
-bip_39_word_underscore_8: clap_wing_vocal_exclude_lift_kangaroo_busy_tube
-bip_39_word_underscore_9: clap_wing_vocal_exclude_lift_kangaroo_busy_tube_hidden
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

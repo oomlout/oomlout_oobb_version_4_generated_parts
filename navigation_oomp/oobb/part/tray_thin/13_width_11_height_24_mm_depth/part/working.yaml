@@ -1,68 +1,9 @@
-bip_39_word_dash_1: wisdom
-bip_39_word_dash_10: wisdom-clown-scorpion-dumb-ignore-then-broom-weekend-cluster-bulk
-bip_39_word_dash_11: wisdom-clown-scorpion-dumb-ignore-then-broom-weekend-cluster-bulk-spring
 bip_39_word_dash_12: wisdom-clown-scorpion-dumb-ignore-then-broom-weekend-cluster-bulk-spring-attend
 bip_39_word_dash_2: wisdom-clown
 bip_39_word_dash_3: wisdom-clown-scorpion
-bip_39_word_dash_4: wisdom-clown-scorpion-dumb
-bip_39_word_dash_5: wisdom-clown-scorpion-dumb-ignore
-bip_39_word_dash_6: wisdom-clown-scorpion-dumb-ignore-then
-bip_39_word_dash_7: wisdom-clown-scorpion-dumb-ignore-then-broom
-bip_39_word_dash_8: wisdom-clown-scorpion-dumb-ignore-then-broom-weekend
-bip_39_word_dash_9: wisdom-clown-scorpion-dumb-ignore-then-broom-weekend-cluster
-bip_39_word_new_br_1: wisdom
-bip_39_word_new_br_10: wisdom<br>clown<br>scorpion<br>dumb<br>ignore<br>then<br>broom<br>weekend<br>cluster<br>bulk
-bip_39_word_new_br_11: wisdom<br>clown<br>scorpion<br>dumb<br>ignore<br>then<br>broom<br>weekend<br>cluster<br>bulk<br>spring
 bip_39_word_new_br_12: wisdom<br>clown<br>scorpion<br>dumb<br>ignore<br>then<br>broom<br>weekend<br>cluster<br>bulk<br>spring<br>attend
 bip_39_word_new_br_2: wisdom<br>clown
 bip_39_word_new_br_3: wisdom<br>clown<br>scorpion
-bip_39_word_new_br_4: wisdom<br>clown<br>scorpion<br>dumb
-bip_39_word_new_br_5: wisdom<br>clown<br>scorpion<br>dumb<br>ignore
-bip_39_word_new_br_6: wisdom<br>clown<br>scorpion<br>dumb<br>ignore<br>then
-bip_39_word_new_br_7: wisdom<br>clown<br>scorpion<br>dumb<br>ignore<br>then<br>broom
-bip_39_word_new_br_8: wisdom<br>clown<br>scorpion<br>dumb<br>ignore<br>then<br>broom<br>weekend
-bip_39_word_new_br_9: wisdom<br>clown<br>scorpion<br>dumb<br>ignore<br>then<br>broom<br>weekend<br>cluster
-bip_39_word_new_line_1: wisdom
-bip_39_word_new_line_10: 'wisdom
-
-  clown
-
-  scorpion
-
-  dumb
-
-  ignore
-
-  then
-
-  broom
-
-  weekend
-
-  cluster
-
-  bulk'
-bip_39_word_new_line_11: 'wisdom
-
-  clown
-
-  scorpion
-
-  dumb
-
-  ignore
-
-  then
-
-  broom
-
-  weekend
-
-  cluster
-
-  bulk
-
-  spring'
 bip_39_word_new_line_12: 'wisdom
 
   clown
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'wisdom
   clown
 
   scorpion'
-bip_39_word_new_line_4: 'wisdom
-
-  clown
-
-  scorpion
-
-  dumb'
-bip_39_word_new_line_5: 'wisdom
-
-  clown
-
-  scorpion
-
-  dumb
-
-  ignore'
-bip_39_word_new_line_6: 'wisdom
-
-  clown
-
-  scorpion
-
-  dumb
-
-  ignore
-
-  then'
-bip_39_word_new_line_7: 'wisdom
-
-  clown
-
-  scorpion
-
-  dumb
-
-  ignore
-
-  then
-
-  broom'
-bip_39_word_new_line_8: 'wisdom
-
-  clown
-
-  scorpion
-
-  dumb
-
-  ignore
-
-  then
-
-  broom
-
-  weekend'
-bip_39_word_new_line_9: 'wisdom
-
-  clown
-
-  scorpion
-
-  dumb
-
-  ignore
-
-  then
-
-  broom
-
-  weekend
-
-  cluster'
-bip_39_word_no_space_1: wisdom
-bip_39_word_no_space_10: wisdomclownscorpiondumbignorethenbroomweekendclusterbulk
-bip_39_word_no_space_11: wisdomclownscorpiondumbignorethenbroomweekendclusterbulkspring
 bip_39_word_no_space_12: wisdomclownscorpiondumbignorethenbroomweekendclusterbulkspringattend
 bip_39_word_no_space_2: wisdomclown
 bip_39_word_no_space_3: wisdomclownscorpion
-bip_39_word_no_space_4: wisdomclownscorpiondumb
-bip_39_word_no_space_5: wisdomclownscorpiondumbignore
-bip_39_word_no_space_6: wisdomclownscorpiondumbignorethen
-bip_39_word_no_space_7: wisdomclownscorpiondumbignorethenbroom
-bip_39_word_no_space_8: wisdomclownscorpiondumbignorethenbroomweekend
-bip_39_word_no_space_9: wisdomclownscorpiondumbignorethenbroomweekendcluster
-bip_39_word_space_0:
-- wisdom
-- clown
-- scorpion
-- dumb
-- ignore
-- then
-- broom
-- weekend
-- cluster
-- bulk
-- spring
-- attend
-bip_39_word_space_1: wisdom
-bip_39_word_space_10: wisdom clown scorpion dumb ignore then broom weekend cluster
-  bulk
-bip_39_word_space_11: wisdom clown scorpion dumb ignore then broom weekend cluster
-  bulk spring
 bip_39_word_space_12: wisdom clown scorpion dumb ignore then broom weekend cluster
   bulk spring attend
 bip_39_word_space_2: wisdom clown
 bip_39_word_space_3: wisdom clown scorpion
-bip_39_word_space_4: wisdom clown scorpion dumb
-bip_39_word_space_5: wisdom clown scorpion dumb ignore
-bip_39_word_space_6: wisdom clown scorpion dumb ignore then
-bip_39_word_space_7: wisdom clown scorpion dumb ignore then broom
-bip_39_word_space_8: wisdom clown scorpion dumb ignore then broom weekend
-bip_39_word_space_9: wisdom clown scorpion dumb ignore then broom weekend cluster
-bip_39_word_underscore_1: wisdom
-bip_39_word_underscore_10: wisdom_clown_scorpion_dumb_ignore_then_broom_weekend_cluster_bulk
-bip_39_word_underscore_11: wisdom_clown_scorpion_dumb_ignore_then_broom_weekend_cluster_bulk_spring
 bip_39_word_underscore_12: wisdom_clown_scorpion_dumb_ignore_then_broom_weekend_cluster_bulk_spring_attend
 bip_39_word_underscore_2: wisdom_clown
 bip_39_word_underscore_3: wisdom_clown_scorpion
-bip_39_word_underscore_4: wisdom_clown_scorpion_dumb
-bip_39_word_underscore_5: wisdom_clown_scorpion_dumb_ignore
-bip_39_word_underscore_6: wisdom_clown_scorpion_dumb_ignore_then
-bip_39_word_underscore_7: wisdom_clown_scorpion_dumb_ignore_then_broom
-bip_39_word_underscore_8: wisdom_clown_scorpion_dumb_ignore_then_broom_weekend
-bip_39_word_underscore_9: wisdom_clown_scorpion_dumb_ignore_then_broom_weekend_cluster
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

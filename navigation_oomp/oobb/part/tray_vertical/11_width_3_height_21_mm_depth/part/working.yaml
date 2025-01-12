@@ -1,68 +1,9 @@
-bip_39_word_dash_1: eyebrow
-bip_39_word_dash_10: eyebrow-ramp-dinner-session-rebuild-dutch-enact-celery-hip-force
-bip_39_word_dash_11: eyebrow-ramp-dinner-session-rebuild-dutch-enact-celery-hip-force-renew
 bip_39_word_dash_12: eyebrow-ramp-dinner-session-rebuild-dutch-enact-celery-hip-force-renew-absent
 bip_39_word_dash_2: eyebrow-ramp
 bip_39_word_dash_3: eyebrow-ramp-dinner
-bip_39_word_dash_4: eyebrow-ramp-dinner-session
-bip_39_word_dash_5: eyebrow-ramp-dinner-session-rebuild
-bip_39_word_dash_6: eyebrow-ramp-dinner-session-rebuild-dutch
-bip_39_word_dash_7: eyebrow-ramp-dinner-session-rebuild-dutch-enact
-bip_39_word_dash_8: eyebrow-ramp-dinner-session-rebuild-dutch-enact-celery
-bip_39_word_dash_9: eyebrow-ramp-dinner-session-rebuild-dutch-enact-celery-hip
-bip_39_word_new_br_1: eyebrow
-bip_39_word_new_br_10: eyebrow<br>ramp<br>dinner<br>session<br>rebuild<br>dutch<br>enact<br>celery<br>hip<br>force
-bip_39_word_new_br_11: eyebrow<br>ramp<br>dinner<br>session<br>rebuild<br>dutch<br>enact<br>celery<br>hip<br>force<br>renew
 bip_39_word_new_br_12: eyebrow<br>ramp<br>dinner<br>session<br>rebuild<br>dutch<br>enact<br>celery<br>hip<br>force<br>renew<br>absent
 bip_39_word_new_br_2: eyebrow<br>ramp
 bip_39_word_new_br_3: eyebrow<br>ramp<br>dinner
-bip_39_word_new_br_4: eyebrow<br>ramp<br>dinner<br>session
-bip_39_word_new_br_5: eyebrow<br>ramp<br>dinner<br>session<br>rebuild
-bip_39_word_new_br_6: eyebrow<br>ramp<br>dinner<br>session<br>rebuild<br>dutch
-bip_39_word_new_br_7: eyebrow<br>ramp<br>dinner<br>session<br>rebuild<br>dutch<br>enact
-bip_39_word_new_br_8: eyebrow<br>ramp<br>dinner<br>session<br>rebuild<br>dutch<br>enact<br>celery
-bip_39_word_new_br_9: eyebrow<br>ramp<br>dinner<br>session<br>rebuild<br>dutch<br>enact<br>celery<br>hip
-bip_39_word_new_line_1: eyebrow
-bip_39_word_new_line_10: 'eyebrow
-
-  ramp
-
-  dinner
-
-  session
-
-  rebuild
-
-  dutch
-
-  enact
-
-  celery
-
-  hip
-
-  force'
-bip_39_word_new_line_11: 'eyebrow
-
-  ramp
-
-  dinner
-
-  session
-
-  rebuild
-
-  dutch
-
-  enact
-
-  celery
-
-  hip
-
-  force
-
-  renew'
 bip_39_word_new_line_12: 'eyebrow
 
   ramp
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'eyebrow
   ramp
 
   dinner'
-bip_39_word_new_line_4: 'eyebrow
-
-  ramp
-
-  dinner
-
-  session'
-bip_39_word_new_line_5: 'eyebrow
-
-  ramp
-
-  dinner
-
-  session
-
-  rebuild'
-bip_39_word_new_line_6: 'eyebrow
-
-  ramp
-
-  dinner
-
-  session
-
-  rebuild
-
-  dutch'
-bip_39_word_new_line_7: 'eyebrow
-
-  ramp
-
-  dinner
-
-  session
-
-  rebuild
-
-  dutch
-
-  enact'
-bip_39_word_new_line_8: 'eyebrow
-
-  ramp
-
-  dinner
-
-  session
-
-  rebuild
-
-  dutch
-
-  enact
-
-  celery'
-bip_39_word_new_line_9: 'eyebrow
-
-  ramp
-
-  dinner
-
-  session
-
-  rebuild
-
-  dutch
-
-  enact
-
-  celery
-
-  hip'
-bip_39_word_no_space_1: eyebrow
-bip_39_word_no_space_10: eyebrowrampdinnersessionrebuilddutchenactceleryhipforce
-bip_39_word_no_space_11: eyebrowrampdinnersessionrebuilddutchenactceleryhipforcerenew
 bip_39_word_no_space_12: eyebrowrampdinnersessionrebuilddutchenactceleryhipforcerenewabsent
 bip_39_word_no_space_2: eyebrowramp
 bip_39_word_no_space_3: eyebrowrampdinner
-bip_39_word_no_space_4: eyebrowrampdinnersession
-bip_39_word_no_space_5: eyebrowrampdinnersessionrebuild
-bip_39_word_no_space_6: eyebrowrampdinnersessionrebuilddutch
-bip_39_word_no_space_7: eyebrowrampdinnersessionrebuilddutchenact
-bip_39_word_no_space_8: eyebrowrampdinnersessionrebuilddutchenactcelery
-bip_39_word_no_space_9: eyebrowrampdinnersessionrebuilddutchenactceleryhip
-bip_39_word_space_0:
-- eyebrow
-- ramp
-- dinner
-- session
-- rebuild
-- dutch
-- enact
-- celery
-- hip
-- force
-- renew
-- absent
-bip_39_word_space_1: eyebrow
-bip_39_word_space_10: eyebrow ramp dinner session rebuild dutch enact celery hip force
-bip_39_word_space_11: eyebrow ramp dinner session rebuild dutch enact celery hip force
-  renew
 bip_39_word_space_12: eyebrow ramp dinner session rebuild dutch enact celery hip force
   renew absent
 bip_39_word_space_2: eyebrow ramp
 bip_39_word_space_3: eyebrow ramp dinner
-bip_39_word_space_4: eyebrow ramp dinner session
-bip_39_word_space_5: eyebrow ramp dinner session rebuild
-bip_39_word_space_6: eyebrow ramp dinner session rebuild dutch
-bip_39_word_space_7: eyebrow ramp dinner session rebuild dutch enact
-bip_39_word_space_8: eyebrow ramp dinner session rebuild dutch enact celery
-bip_39_word_space_9: eyebrow ramp dinner session rebuild dutch enact celery hip
-bip_39_word_underscore_1: eyebrow
-bip_39_word_underscore_10: eyebrow_ramp_dinner_session_rebuild_dutch_enact_celery_hip_force
-bip_39_word_underscore_11: eyebrow_ramp_dinner_session_rebuild_dutch_enact_celery_hip_force_renew
 bip_39_word_underscore_12: eyebrow_ramp_dinner_session_rebuild_dutch_enact_celery_hip_force_renew_absent
 bip_39_word_underscore_2: eyebrow_ramp
 bip_39_word_underscore_3: eyebrow_ramp_dinner
-bip_39_word_underscore_4: eyebrow_ramp_dinner_session
-bip_39_word_underscore_5: eyebrow_ramp_dinner_session_rebuild
-bip_39_word_underscore_6: eyebrow_ramp_dinner_session_rebuild_dutch
-bip_39_word_underscore_7: eyebrow_ramp_dinner_session_rebuild_dutch_enact
-bip_39_word_underscore_8: eyebrow_ramp_dinner_session_rebuild_dutch_enact_celery
-bip_39_word_underscore_9: eyebrow_ramp_dinner_session_rebuild_dutch_enact_celery_hip
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

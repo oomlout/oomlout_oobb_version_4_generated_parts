@@ -1,68 +1,9 @@
-bip_39_word_dash_1: nurse
-bip_39_word_dash_10: nurse-hour-sugar-remember-census-shallow-apology-tooth-deputy-knee
-bip_39_word_dash_11: nurse-hour-sugar-remember-census-shallow-apology-tooth-deputy-knee-layer
 bip_39_word_dash_12: nurse-hour-sugar-remember-census-shallow-apology-tooth-deputy-knee-layer-above
 bip_39_word_dash_2: nurse-hour
 bip_39_word_dash_3: nurse-hour-sugar
-bip_39_word_dash_4: nurse-hour-sugar-remember
-bip_39_word_dash_5: nurse-hour-sugar-remember-census
-bip_39_word_dash_6: nurse-hour-sugar-remember-census-shallow
-bip_39_word_dash_7: nurse-hour-sugar-remember-census-shallow-apology
-bip_39_word_dash_8: nurse-hour-sugar-remember-census-shallow-apology-tooth
-bip_39_word_dash_9: nurse-hour-sugar-remember-census-shallow-apology-tooth-deputy
-bip_39_word_new_br_1: nurse
-bip_39_word_new_br_10: nurse<br>hour<br>sugar<br>remember<br>census<br>shallow<br>apology<br>tooth<br>deputy<br>knee
-bip_39_word_new_br_11: nurse<br>hour<br>sugar<br>remember<br>census<br>shallow<br>apology<br>tooth<br>deputy<br>knee<br>layer
 bip_39_word_new_br_12: nurse<br>hour<br>sugar<br>remember<br>census<br>shallow<br>apology<br>tooth<br>deputy<br>knee<br>layer<br>above
 bip_39_word_new_br_2: nurse<br>hour
 bip_39_word_new_br_3: nurse<br>hour<br>sugar
-bip_39_word_new_br_4: nurse<br>hour<br>sugar<br>remember
-bip_39_word_new_br_5: nurse<br>hour<br>sugar<br>remember<br>census
-bip_39_word_new_br_6: nurse<br>hour<br>sugar<br>remember<br>census<br>shallow
-bip_39_word_new_br_7: nurse<br>hour<br>sugar<br>remember<br>census<br>shallow<br>apology
-bip_39_word_new_br_8: nurse<br>hour<br>sugar<br>remember<br>census<br>shallow<br>apology<br>tooth
-bip_39_word_new_br_9: nurse<br>hour<br>sugar<br>remember<br>census<br>shallow<br>apology<br>tooth<br>deputy
-bip_39_word_new_line_1: nurse
-bip_39_word_new_line_10: 'nurse
-
-  hour
-
-  sugar
-
-  remember
-
-  census
-
-  shallow
-
-  apology
-
-  tooth
-
-  deputy
-
-  knee'
-bip_39_word_new_line_11: 'nurse
-
-  hour
-
-  sugar
-
-  remember
-
-  census
-
-  shallow
-
-  apology
-
-  tooth
-
-  deputy
-
-  knee
-
-  layer'
 bip_39_word_new_line_12: 'nurse
 
   hour
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'nurse
   hour
 
   sugar'
-bip_39_word_new_line_4: 'nurse
-
-  hour
-
-  sugar
-
-  remember'
-bip_39_word_new_line_5: 'nurse
-
-  hour
-
-  sugar
-
-  remember
-
-  census'
-bip_39_word_new_line_6: 'nurse
-
-  hour
-
-  sugar
-
-  remember
-
-  census
-
-  shallow'
-bip_39_word_new_line_7: 'nurse
-
-  hour
-
-  sugar
-
-  remember
-
-  census
-
-  shallow
-
-  apology'
-bip_39_word_new_line_8: 'nurse
-
-  hour
-
-  sugar
-
-  remember
-
-  census
-
-  shallow
-
-  apology
-
-  tooth'
-bip_39_word_new_line_9: 'nurse
-
-  hour
-
-  sugar
-
-  remember
-
-  census
-
-  shallow
-
-  apology
-
-  tooth
-
-  deputy'
-bip_39_word_no_space_1: nurse
-bip_39_word_no_space_10: nursehoursugarremembercensusshallowapologytoothdeputyknee
-bip_39_word_no_space_11: nursehoursugarremembercensusshallowapologytoothdeputykneelayer
 bip_39_word_no_space_12: nursehoursugarremembercensusshallowapologytoothdeputykneelayerabove
 bip_39_word_no_space_2: nursehour
 bip_39_word_no_space_3: nursehoursugar
-bip_39_word_no_space_4: nursehoursugarremember
-bip_39_word_no_space_5: nursehoursugarremembercensus
-bip_39_word_no_space_6: nursehoursugarremembercensusshallow
-bip_39_word_no_space_7: nursehoursugarremembercensusshallowapology
-bip_39_word_no_space_8: nursehoursugarremembercensusshallowapologytooth
-bip_39_word_no_space_9: nursehoursugarremembercensusshallowapologytoothdeputy
-bip_39_word_space_0:
-- nurse
-- hour
-- sugar
-- remember
-- census
-- shallow
-- apology
-- tooth
-- deputy
-- knee
-- layer
-- above
-bip_39_word_space_1: nurse
-bip_39_word_space_10: nurse hour sugar remember census shallow apology tooth deputy
-  knee
-bip_39_word_space_11: nurse hour sugar remember census shallow apology tooth deputy
-  knee layer
 bip_39_word_space_12: nurse hour sugar remember census shallow apology tooth deputy
   knee layer above
 bip_39_word_space_2: nurse hour
 bip_39_word_space_3: nurse hour sugar
-bip_39_word_space_4: nurse hour sugar remember
-bip_39_word_space_5: nurse hour sugar remember census
-bip_39_word_space_6: nurse hour sugar remember census shallow
-bip_39_word_space_7: nurse hour sugar remember census shallow apology
-bip_39_word_space_8: nurse hour sugar remember census shallow apology tooth
-bip_39_word_space_9: nurse hour sugar remember census shallow apology tooth deputy
-bip_39_word_underscore_1: nurse
-bip_39_word_underscore_10: nurse_hour_sugar_remember_census_shallow_apology_tooth_deputy_knee
-bip_39_word_underscore_11: nurse_hour_sugar_remember_census_shallow_apology_tooth_deputy_knee_layer
 bip_39_word_underscore_12: nurse_hour_sugar_remember_census_shallow_apology_tooth_deputy_knee_layer_above
 bip_39_word_underscore_2: nurse_hour
 bip_39_word_underscore_3: nurse_hour_sugar
-bip_39_word_underscore_4: nurse_hour_sugar_remember
-bip_39_word_underscore_5: nurse_hour_sugar_remember_census
-bip_39_word_underscore_6: nurse_hour_sugar_remember_census_shallow
-bip_39_word_underscore_7: nurse_hour_sugar_remember_census_shallow_apology
-bip_39_word_underscore_8: nurse_hour_sugar_remember_census_shallow_apology_tooth
-bip_39_word_underscore_9: nurse_hour_sugar_remember_census_shallow_apology_tooth_deputy
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

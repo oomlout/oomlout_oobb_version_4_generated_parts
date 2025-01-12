@@ -1,68 +1,9 @@
-bip_39_word_dash_1: leisure
-bip_39_word_dash_10: leisure-blush-salad-coach-crater-maple-deposit-turn-reject-pencil
-bip_39_word_dash_11: leisure-blush-salad-coach-crater-maple-deposit-turn-reject-pencil-danger
 bip_39_word_dash_12: leisure-blush-salad-coach-crater-maple-deposit-turn-reject-pencil-danger-auto
 bip_39_word_dash_2: leisure-blush
 bip_39_word_dash_3: leisure-blush-salad
-bip_39_word_dash_4: leisure-blush-salad-coach
-bip_39_word_dash_5: leisure-blush-salad-coach-crater
-bip_39_word_dash_6: leisure-blush-salad-coach-crater-maple
-bip_39_word_dash_7: leisure-blush-salad-coach-crater-maple-deposit
-bip_39_word_dash_8: leisure-blush-salad-coach-crater-maple-deposit-turn
-bip_39_word_dash_9: leisure-blush-salad-coach-crater-maple-deposit-turn-reject
-bip_39_word_new_br_1: leisure
-bip_39_word_new_br_10: leisure<br>blush<br>salad<br>coach<br>crater<br>maple<br>deposit<br>turn<br>reject<br>pencil
-bip_39_word_new_br_11: leisure<br>blush<br>salad<br>coach<br>crater<br>maple<br>deposit<br>turn<br>reject<br>pencil<br>danger
 bip_39_word_new_br_12: leisure<br>blush<br>salad<br>coach<br>crater<br>maple<br>deposit<br>turn<br>reject<br>pencil<br>danger<br>auto
 bip_39_word_new_br_2: leisure<br>blush
 bip_39_word_new_br_3: leisure<br>blush<br>salad
-bip_39_word_new_br_4: leisure<br>blush<br>salad<br>coach
-bip_39_word_new_br_5: leisure<br>blush<br>salad<br>coach<br>crater
-bip_39_word_new_br_6: leisure<br>blush<br>salad<br>coach<br>crater<br>maple
-bip_39_word_new_br_7: leisure<br>blush<br>salad<br>coach<br>crater<br>maple<br>deposit
-bip_39_word_new_br_8: leisure<br>blush<br>salad<br>coach<br>crater<br>maple<br>deposit<br>turn
-bip_39_word_new_br_9: leisure<br>blush<br>salad<br>coach<br>crater<br>maple<br>deposit<br>turn<br>reject
-bip_39_word_new_line_1: leisure
-bip_39_word_new_line_10: 'leisure
-
-  blush
-
-  salad
-
-  coach
-
-  crater
-
-  maple
-
-  deposit
-
-  turn
-
-  reject
-
-  pencil'
-bip_39_word_new_line_11: 'leisure
-
-  blush
-
-  salad
-
-  coach
-
-  crater
-
-  maple
-
-  deposit
-
-  turn
-
-  reject
-
-  pencil
-
-  danger'
 bip_39_word_new_line_12: 'leisure
 
   blush
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'leisure
   blush
 
   salad'
-bip_39_word_new_line_4: 'leisure
-
-  blush
-
-  salad
-
-  coach'
-bip_39_word_new_line_5: 'leisure
-
-  blush
-
-  salad
-
-  coach
-
-  crater'
-bip_39_word_new_line_6: 'leisure
-
-  blush
-
-  salad
-
-  coach
-
-  crater
-
-  maple'
-bip_39_word_new_line_7: 'leisure
-
-  blush
-
-  salad
-
-  coach
-
-  crater
-
-  maple
-
-  deposit'
-bip_39_word_new_line_8: 'leisure
-
-  blush
-
-  salad
-
-  coach
-
-  crater
-
-  maple
-
-  deposit
-
-  turn'
-bip_39_word_new_line_9: 'leisure
-
-  blush
-
-  salad
-
-  coach
-
-  crater
-
-  maple
-
-  deposit
-
-  turn
-
-  reject'
-bip_39_word_no_space_1: leisure
-bip_39_word_no_space_10: leisureblushsaladcoachcratermapledepositturnrejectpencil
-bip_39_word_no_space_11: leisureblushsaladcoachcratermapledepositturnrejectpencildanger
 bip_39_word_no_space_12: leisureblushsaladcoachcratermapledepositturnrejectpencildangerauto
 bip_39_word_no_space_2: leisureblush
 bip_39_word_no_space_3: leisureblushsalad
-bip_39_word_no_space_4: leisureblushsaladcoach
-bip_39_word_no_space_5: leisureblushsaladcoachcrater
-bip_39_word_no_space_6: leisureblushsaladcoachcratermaple
-bip_39_word_no_space_7: leisureblushsaladcoachcratermapledeposit
-bip_39_word_no_space_8: leisureblushsaladcoachcratermapledepositturn
-bip_39_word_no_space_9: leisureblushsaladcoachcratermapledepositturnreject
-bip_39_word_space_0:
-- leisure
-- blush
-- salad
-- coach
-- crater
-- maple
-- deposit
-- turn
-- reject
-- pencil
-- danger
-- auto
-bip_39_word_space_1: leisure
-bip_39_word_space_10: leisure blush salad coach crater maple deposit turn reject pencil
-bip_39_word_space_11: leisure blush salad coach crater maple deposit turn reject pencil
-  danger
 bip_39_word_space_12: leisure blush salad coach crater maple deposit turn reject pencil
   danger auto
 bip_39_word_space_2: leisure blush
 bip_39_word_space_3: leisure blush salad
-bip_39_word_space_4: leisure blush salad coach
-bip_39_word_space_5: leisure blush salad coach crater
-bip_39_word_space_6: leisure blush salad coach crater maple
-bip_39_word_space_7: leisure blush salad coach crater maple deposit
-bip_39_word_space_8: leisure blush salad coach crater maple deposit turn
-bip_39_word_space_9: leisure blush salad coach crater maple deposit turn reject
-bip_39_word_underscore_1: leisure
-bip_39_word_underscore_10: leisure_blush_salad_coach_crater_maple_deposit_turn_reject_pencil
-bip_39_word_underscore_11: leisure_blush_salad_coach_crater_maple_deposit_turn_reject_pencil_danger
 bip_39_word_underscore_12: leisure_blush_salad_coach_crater_maple_deposit_turn_reject_pencil_danger_auto
 bip_39_word_underscore_2: leisure_blush
 bip_39_word_underscore_3: leisure_blush_salad
-bip_39_word_underscore_4: leisure_blush_salad_coach
-bip_39_word_underscore_5: leisure_blush_salad_coach_crater
-bip_39_word_underscore_6: leisure_blush_salad_coach_crater_maple
-bip_39_word_underscore_7: leisure_blush_salad_coach_crater_maple_deposit
-bip_39_word_underscore_8: leisure_blush_salad_coach_crater_maple_deposit_turn
-bip_39_word_underscore_9: leisure_blush_salad_coach_crater_maple_deposit_turn_reject
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: patient
-bip_39_word_dash_10: patient-unveil-sell-blush-mercy-cigar-issue-evil-float-differ
-bip_39_word_dash_11: patient-unveil-sell-blush-mercy-cigar-issue-evil-float-differ-mercy
 bip_39_word_dash_12: patient-unveil-sell-blush-mercy-cigar-issue-evil-float-differ-mercy-artefact
 bip_39_word_dash_2: patient-unveil
 bip_39_word_dash_3: patient-unveil-sell
-bip_39_word_dash_4: patient-unveil-sell-blush
-bip_39_word_dash_5: patient-unveil-sell-blush-mercy
-bip_39_word_dash_6: patient-unveil-sell-blush-mercy-cigar
-bip_39_word_dash_7: patient-unveil-sell-blush-mercy-cigar-issue
-bip_39_word_dash_8: patient-unveil-sell-blush-mercy-cigar-issue-evil
-bip_39_word_dash_9: patient-unveil-sell-blush-mercy-cigar-issue-evil-float
-bip_39_word_new_br_1: patient
-bip_39_word_new_br_10: patient<br>unveil<br>sell<br>blush<br>mercy<br>cigar<br>issue<br>evil<br>float<br>differ
-bip_39_word_new_br_11: patient<br>unveil<br>sell<br>blush<br>mercy<br>cigar<br>issue<br>evil<br>float<br>differ<br>mercy
 bip_39_word_new_br_12: patient<br>unveil<br>sell<br>blush<br>mercy<br>cigar<br>issue<br>evil<br>float<br>differ<br>mercy<br>artefact
 bip_39_word_new_br_2: patient<br>unveil
 bip_39_word_new_br_3: patient<br>unveil<br>sell
-bip_39_word_new_br_4: patient<br>unveil<br>sell<br>blush
-bip_39_word_new_br_5: patient<br>unveil<br>sell<br>blush<br>mercy
-bip_39_word_new_br_6: patient<br>unveil<br>sell<br>blush<br>mercy<br>cigar
-bip_39_word_new_br_7: patient<br>unveil<br>sell<br>blush<br>mercy<br>cigar<br>issue
-bip_39_word_new_br_8: patient<br>unveil<br>sell<br>blush<br>mercy<br>cigar<br>issue<br>evil
-bip_39_word_new_br_9: patient<br>unveil<br>sell<br>blush<br>mercy<br>cigar<br>issue<br>evil<br>float
-bip_39_word_new_line_1: patient
-bip_39_word_new_line_10: 'patient
-
-  unveil
-
-  sell
-
-  blush
-
-  mercy
-
-  cigar
-
-  issue
-
-  evil
-
-  float
-
-  differ'
-bip_39_word_new_line_11: 'patient
-
-  unveil
-
-  sell
-
-  blush
-
-  mercy
-
-  cigar
-
-  issue
-
-  evil
-
-  float
-
-  differ
-
-  mercy'
 bip_39_word_new_line_12: 'patient
 
   unveil
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'patient
   unveil
 
   sell'
-bip_39_word_new_line_4: 'patient
-
-  unveil
-
-  sell
-
-  blush'
-bip_39_word_new_line_5: 'patient
-
-  unveil
-
-  sell
-
-  blush
-
-  mercy'
-bip_39_word_new_line_6: 'patient
-
-  unveil
-
-  sell
-
-  blush
-
-  mercy
-
-  cigar'
-bip_39_word_new_line_7: 'patient
-
-  unveil
-
-  sell
-
-  blush
-
-  mercy
-
-  cigar
-
-  issue'
-bip_39_word_new_line_8: 'patient
-
-  unveil
-
-  sell
-
-  blush
-
-  mercy
-
-  cigar
-
-  issue
-
-  evil'
-bip_39_word_new_line_9: 'patient
-
-  unveil
-
-  sell
-
-  blush
-
-  mercy
-
-  cigar
-
-  issue
-
-  evil
-
-  float'
-bip_39_word_no_space_1: patient
-bip_39_word_no_space_10: patientunveilsellblushmercycigarissueevilfloatdiffer
-bip_39_word_no_space_11: patientunveilsellblushmercycigarissueevilfloatdiffermercy
 bip_39_word_no_space_12: patientunveilsellblushmercycigarissueevilfloatdiffermercyartefact
 bip_39_word_no_space_2: patientunveil
 bip_39_word_no_space_3: patientunveilsell
-bip_39_word_no_space_4: patientunveilsellblush
-bip_39_word_no_space_5: patientunveilsellblushmercy
-bip_39_word_no_space_6: patientunveilsellblushmercycigar
-bip_39_word_no_space_7: patientunveilsellblushmercycigarissue
-bip_39_word_no_space_8: patientunveilsellblushmercycigarissueevil
-bip_39_word_no_space_9: patientunveilsellblushmercycigarissueevilfloat
-bip_39_word_space_0:
-- patient
-- unveil
-- sell
-- blush
-- mercy
-- cigar
-- issue
-- evil
-- float
-- differ
-- mercy
-- artefact
-bip_39_word_space_1: patient
-bip_39_word_space_10: patient unveil sell blush mercy cigar issue evil float differ
-bip_39_word_space_11: patient unveil sell blush mercy cigar issue evil float differ
-  mercy
 bip_39_word_space_12: patient unveil sell blush mercy cigar issue evil float differ
   mercy artefact
 bip_39_word_space_2: patient unveil
 bip_39_word_space_3: patient unveil sell
-bip_39_word_space_4: patient unveil sell blush
-bip_39_word_space_5: patient unveil sell blush mercy
-bip_39_word_space_6: patient unveil sell blush mercy cigar
-bip_39_word_space_7: patient unveil sell blush mercy cigar issue
-bip_39_word_space_8: patient unveil sell blush mercy cigar issue evil
-bip_39_word_space_9: patient unveil sell blush mercy cigar issue evil float
-bip_39_word_underscore_1: patient
-bip_39_word_underscore_10: patient_unveil_sell_blush_mercy_cigar_issue_evil_float_differ
-bip_39_word_underscore_11: patient_unveil_sell_blush_mercy_cigar_issue_evil_float_differ_mercy
 bip_39_word_underscore_12: patient_unveil_sell_blush_mercy_cigar_issue_evil_float_differ_mercy_artefact
 bip_39_word_underscore_2: patient_unveil
 bip_39_word_underscore_3: patient_unveil_sell
-bip_39_word_underscore_4: patient_unveil_sell_blush
-bip_39_word_underscore_5: patient_unveil_sell_blush_mercy
-bip_39_word_underscore_6: patient_unveil_sell_blush_mercy_cigar
-bip_39_word_underscore_7: patient_unveil_sell_blush_mercy_cigar_issue
-bip_39_word_underscore_8: patient_unveil_sell_blush_mercy_cigar_issue_evil
-bip_39_word_underscore_9: patient_unveil_sell_blush_mercy_cigar_issue_evil_float
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

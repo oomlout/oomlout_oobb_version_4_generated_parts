@@ -1,68 +1,9 @@
-bip_39_word_dash_1: fossil
-bip_39_word_dash_10: fossil-spring-slice-tragic-broom-lonely-canoe-bottom-reject-ugly
-bip_39_word_dash_11: fossil-spring-slice-tragic-broom-lonely-canoe-bottom-reject-ugly-best
 bip_39_word_dash_12: fossil-spring-slice-tragic-broom-lonely-canoe-bottom-reject-ugly-best-able
 bip_39_word_dash_2: fossil-spring
 bip_39_word_dash_3: fossil-spring-slice
-bip_39_word_dash_4: fossil-spring-slice-tragic
-bip_39_word_dash_5: fossil-spring-slice-tragic-broom
-bip_39_word_dash_6: fossil-spring-slice-tragic-broom-lonely
-bip_39_word_dash_7: fossil-spring-slice-tragic-broom-lonely-canoe
-bip_39_word_dash_8: fossil-spring-slice-tragic-broom-lonely-canoe-bottom
-bip_39_word_dash_9: fossil-spring-slice-tragic-broom-lonely-canoe-bottom-reject
-bip_39_word_new_br_1: fossil
-bip_39_word_new_br_10: fossil<br>spring<br>slice<br>tragic<br>broom<br>lonely<br>canoe<br>bottom<br>reject<br>ugly
-bip_39_word_new_br_11: fossil<br>spring<br>slice<br>tragic<br>broom<br>lonely<br>canoe<br>bottom<br>reject<br>ugly<br>best
 bip_39_word_new_br_12: fossil<br>spring<br>slice<br>tragic<br>broom<br>lonely<br>canoe<br>bottom<br>reject<br>ugly<br>best<br>able
 bip_39_word_new_br_2: fossil<br>spring
 bip_39_word_new_br_3: fossil<br>spring<br>slice
-bip_39_word_new_br_4: fossil<br>spring<br>slice<br>tragic
-bip_39_word_new_br_5: fossil<br>spring<br>slice<br>tragic<br>broom
-bip_39_word_new_br_6: fossil<br>spring<br>slice<br>tragic<br>broom<br>lonely
-bip_39_word_new_br_7: fossil<br>spring<br>slice<br>tragic<br>broom<br>lonely<br>canoe
-bip_39_word_new_br_8: fossil<br>spring<br>slice<br>tragic<br>broom<br>lonely<br>canoe<br>bottom
-bip_39_word_new_br_9: fossil<br>spring<br>slice<br>tragic<br>broom<br>lonely<br>canoe<br>bottom<br>reject
-bip_39_word_new_line_1: fossil
-bip_39_word_new_line_10: 'fossil
-
-  spring
-
-  slice
-
-  tragic
-
-  broom
-
-  lonely
-
-  canoe
-
-  bottom
-
-  reject
-
-  ugly'
-bip_39_word_new_line_11: 'fossil
-
-  spring
-
-  slice
-
-  tragic
-
-  broom
-
-  lonely
-
-  canoe
-
-  bottom
-
-  reject
-
-  ugly
-
-  best'
 bip_39_word_new_line_12: 'fossil
 
   spring
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'fossil
   spring
 
   slice'
-bip_39_word_new_line_4: 'fossil
-
-  spring
-
-  slice
-
-  tragic'
-bip_39_word_new_line_5: 'fossil
-
-  spring
-
-  slice
-
-  tragic
-
-  broom'
-bip_39_word_new_line_6: 'fossil
-
-  spring
-
-  slice
-
-  tragic
-
-  broom
-
-  lonely'
-bip_39_word_new_line_7: 'fossil
-
-  spring
-
-  slice
-
-  tragic
-
-  broom
-
-  lonely
-
-  canoe'
-bip_39_word_new_line_8: 'fossil
-
-  spring
-
-  slice
-
-  tragic
-
-  broom
-
-  lonely
-
-  canoe
-
-  bottom'
-bip_39_word_new_line_9: 'fossil
-
-  spring
-
-  slice
-
-  tragic
-
-  broom
-
-  lonely
-
-  canoe
-
-  bottom
-
-  reject'
-bip_39_word_no_space_1: fossil
-bip_39_word_no_space_10: fossilspringslicetragicbroomlonelycanoebottomrejectugly
-bip_39_word_no_space_11: fossilspringslicetragicbroomlonelycanoebottomrejectuglybest
 bip_39_word_no_space_12: fossilspringslicetragicbroomlonelycanoebottomrejectuglybestable
 bip_39_word_no_space_2: fossilspring
 bip_39_word_no_space_3: fossilspringslice
-bip_39_word_no_space_4: fossilspringslicetragic
-bip_39_word_no_space_5: fossilspringslicetragicbroom
-bip_39_word_no_space_6: fossilspringslicetragicbroomlonely
-bip_39_word_no_space_7: fossilspringslicetragicbroomlonelycanoe
-bip_39_word_no_space_8: fossilspringslicetragicbroomlonelycanoebottom
-bip_39_word_no_space_9: fossilspringslicetragicbroomlonelycanoebottomreject
-bip_39_word_space_0:
-- fossil
-- spring
-- slice
-- tragic
-- broom
-- lonely
-- canoe
-- bottom
-- reject
-- ugly
-- best
-- able
-bip_39_word_space_1: fossil
-bip_39_word_space_10: fossil spring slice tragic broom lonely canoe bottom reject
-  ugly
-bip_39_word_space_11: fossil spring slice tragic broom lonely canoe bottom reject
-  ugly best
 bip_39_word_space_12: fossil spring slice tragic broom lonely canoe bottom reject
   ugly best able
 bip_39_word_space_2: fossil spring
 bip_39_word_space_3: fossil spring slice
-bip_39_word_space_4: fossil spring slice tragic
-bip_39_word_space_5: fossil spring slice tragic broom
-bip_39_word_space_6: fossil spring slice tragic broom lonely
-bip_39_word_space_7: fossil spring slice tragic broom lonely canoe
-bip_39_word_space_8: fossil spring slice tragic broom lonely canoe bottom
-bip_39_word_space_9: fossil spring slice tragic broom lonely canoe bottom reject
-bip_39_word_underscore_1: fossil
-bip_39_word_underscore_10: fossil_spring_slice_tragic_broom_lonely_canoe_bottom_reject_ugly
-bip_39_word_underscore_11: fossil_spring_slice_tragic_broom_lonely_canoe_bottom_reject_ugly_best
 bip_39_word_underscore_12: fossil_spring_slice_tragic_broom_lonely_canoe_bottom_reject_ugly_best_able
 bip_39_word_underscore_2: fossil_spring
 bip_39_word_underscore_3: fossil_spring_slice
-bip_39_word_underscore_4: fossil_spring_slice_tragic
-bip_39_word_underscore_5: fossil_spring_slice_tragic_broom
-bip_39_word_underscore_6: fossil_spring_slice_tragic_broom_lonely
-bip_39_word_underscore_7: fossil_spring_slice_tragic_broom_lonely_canoe
-bip_39_word_underscore_8: fossil_spring_slice_tragic_broom_lonely_canoe_bottom
-bip_39_word_underscore_9: fossil_spring_slice_tragic_broom_lonely_canoe_bottom_reject
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

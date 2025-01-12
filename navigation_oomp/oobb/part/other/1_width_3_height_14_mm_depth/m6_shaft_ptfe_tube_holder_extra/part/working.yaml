@@ -1,68 +1,9 @@
-bip_39_word_dash_1: pipe
-bip_39_word_dash_10: pipe-measure-fat-pepper-dad-crouch-kidney-paddle-misery-call
-bip_39_word_dash_11: pipe-measure-fat-pepper-dad-crouch-kidney-paddle-misery-call-cat
 bip_39_word_dash_12: pipe-measure-fat-pepper-dad-crouch-kidney-paddle-misery-call-cat-ask
 bip_39_word_dash_2: pipe-measure
 bip_39_word_dash_3: pipe-measure-fat
-bip_39_word_dash_4: pipe-measure-fat-pepper
-bip_39_word_dash_5: pipe-measure-fat-pepper-dad
-bip_39_word_dash_6: pipe-measure-fat-pepper-dad-crouch
-bip_39_word_dash_7: pipe-measure-fat-pepper-dad-crouch-kidney
-bip_39_word_dash_8: pipe-measure-fat-pepper-dad-crouch-kidney-paddle
-bip_39_word_dash_9: pipe-measure-fat-pepper-dad-crouch-kidney-paddle-misery
-bip_39_word_new_br_1: pipe
-bip_39_word_new_br_10: pipe<br>measure<br>fat<br>pepper<br>dad<br>crouch<br>kidney<br>paddle<br>misery<br>call
-bip_39_word_new_br_11: pipe<br>measure<br>fat<br>pepper<br>dad<br>crouch<br>kidney<br>paddle<br>misery<br>call<br>cat
 bip_39_word_new_br_12: pipe<br>measure<br>fat<br>pepper<br>dad<br>crouch<br>kidney<br>paddle<br>misery<br>call<br>cat<br>ask
 bip_39_word_new_br_2: pipe<br>measure
 bip_39_word_new_br_3: pipe<br>measure<br>fat
-bip_39_word_new_br_4: pipe<br>measure<br>fat<br>pepper
-bip_39_word_new_br_5: pipe<br>measure<br>fat<br>pepper<br>dad
-bip_39_word_new_br_6: pipe<br>measure<br>fat<br>pepper<br>dad<br>crouch
-bip_39_word_new_br_7: pipe<br>measure<br>fat<br>pepper<br>dad<br>crouch<br>kidney
-bip_39_word_new_br_8: pipe<br>measure<br>fat<br>pepper<br>dad<br>crouch<br>kidney<br>paddle
-bip_39_word_new_br_9: pipe<br>measure<br>fat<br>pepper<br>dad<br>crouch<br>kidney<br>paddle<br>misery
-bip_39_word_new_line_1: pipe
-bip_39_word_new_line_10: 'pipe
-
-  measure
-
-  fat
-
-  pepper
-
-  dad
-
-  crouch
-
-  kidney
-
-  paddle
-
-  misery
-
-  call'
-bip_39_word_new_line_11: 'pipe
-
-  measure
-
-  fat
-
-  pepper
-
-  dad
-
-  crouch
-
-  kidney
-
-  paddle
-
-  misery
-
-  call
-
-  cat'
 bip_39_word_new_line_12: 'pipe
 
   measure
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'pipe
   measure
 
   fat'
-bip_39_word_new_line_4: 'pipe
-
-  measure
-
-  fat
-
-  pepper'
-bip_39_word_new_line_5: 'pipe
-
-  measure
-
-  fat
-
-  pepper
-
-  dad'
-bip_39_word_new_line_6: 'pipe
-
-  measure
-
-  fat
-
-  pepper
-
-  dad
-
-  crouch'
-bip_39_word_new_line_7: 'pipe
-
-  measure
-
-  fat
-
-  pepper
-
-  dad
-
-  crouch
-
-  kidney'
-bip_39_word_new_line_8: 'pipe
-
-  measure
-
-  fat
-
-  pepper
-
-  dad
-
-  crouch
-
-  kidney
-
-  paddle'
-bip_39_word_new_line_9: 'pipe
-
-  measure
-
-  fat
-
-  pepper
-
-  dad
-
-  crouch
-
-  kidney
-
-  paddle
-
-  misery'
-bip_39_word_no_space_1: pipe
-bip_39_word_no_space_10: pipemeasurefatpepperdadcrouchkidneypaddlemiserycall
-bip_39_word_no_space_11: pipemeasurefatpepperdadcrouchkidneypaddlemiserycallcat
 bip_39_word_no_space_12: pipemeasurefatpepperdadcrouchkidneypaddlemiserycallcatask
 bip_39_word_no_space_2: pipemeasure
 bip_39_word_no_space_3: pipemeasurefat
-bip_39_word_no_space_4: pipemeasurefatpepper
-bip_39_word_no_space_5: pipemeasurefatpepperdad
-bip_39_word_no_space_6: pipemeasurefatpepperdadcrouch
-bip_39_word_no_space_7: pipemeasurefatpepperdadcrouchkidney
-bip_39_word_no_space_8: pipemeasurefatpepperdadcrouchkidneypaddle
-bip_39_word_no_space_9: pipemeasurefatpepperdadcrouchkidneypaddlemisery
-bip_39_word_space_0:
-- pipe
-- measure
-- fat
-- pepper
-- dad
-- crouch
-- kidney
-- paddle
-- misery
-- call
-- cat
-- ask
-bip_39_word_space_1: pipe
-bip_39_word_space_10: pipe measure fat pepper dad crouch kidney paddle misery call
-bip_39_word_space_11: pipe measure fat pepper dad crouch kidney paddle misery call
-  cat
 bip_39_word_space_12: pipe measure fat pepper dad crouch kidney paddle misery call
   cat ask
 bip_39_word_space_2: pipe measure
 bip_39_word_space_3: pipe measure fat
-bip_39_word_space_4: pipe measure fat pepper
-bip_39_word_space_5: pipe measure fat pepper dad
-bip_39_word_space_6: pipe measure fat pepper dad crouch
-bip_39_word_space_7: pipe measure fat pepper dad crouch kidney
-bip_39_word_space_8: pipe measure fat pepper dad crouch kidney paddle
-bip_39_word_space_9: pipe measure fat pepper dad crouch kidney paddle misery
-bip_39_word_underscore_1: pipe
-bip_39_word_underscore_10: pipe_measure_fat_pepper_dad_crouch_kidney_paddle_misery_call
-bip_39_word_underscore_11: pipe_measure_fat_pepper_dad_crouch_kidney_paddle_misery_call_cat
 bip_39_word_underscore_12: pipe_measure_fat_pepper_dad_crouch_kidney_paddle_misery_call_cat_ask
 bip_39_word_underscore_2: pipe_measure
 bip_39_word_underscore_3: pipe_measure_fat
-bip_39_word_underscore_4: pipe_measure_fat_pepper
-bip_39_word_underscore_5: pipe_measure_fat_pepper_dad
-bip_39_word_underscore_6: pipe_measure_fat_pepper_dad_crouch
-bip_39_word_underscore_7: pipe_measure_fat_pepper_dad_crouch_kidney
-bip_39_word_underscore_8: pipe_measure_fat_pepper_dad_crouch_kidney_paddle
-bip_39_word_underscore_9: pipe_measure_fat_pepper_dad_crouch_kidney_paddle_misery
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

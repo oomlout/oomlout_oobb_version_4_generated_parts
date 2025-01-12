@@ -1,68 +1,9 @@
-bip_39_word_dash_1: split
-bip_39_word_dash_10: split-bone-expand-peasant-buddy-jaguar-game-brave-small-shove
-bip_39_word_dash_11: split-bone-expand-peasant-buddy-jaguar-game-brave-small-shove-promote
 bip_39_word_dash_12: split-bone-expand-peasant-buddy-jaguar-game-brave-small-shove-promote-author
 bip_39_word_dash_2: split-bone
 bip_39_word_dash_3: split-bone-expand
-bip_39_word_dash_4: split-bone-expand-peasant
-bip_39_word_dash_5: split-bone-expand-peasant-buddy
-bip_39_word_dash_6: split-bone-expand-peasant-buddy-jaguar
-bip_39_word_dash_7: split-bone-expand-peasant-buddy-jaguar-game
-bip_39_word_dash_8: split-bone-expand-peasant-buddy-jaguar-game-brave
-bip_39_word_dash_9: split-bone-expand-peasant-buddy-jaguar-game-brave-small
-bip_39_word_new_br_1: split
-bip_39_word_new_br_10: split<br>bone<br>expand<br>peasant<br>buddy<br>jaguar<br>game<br>brave<br>small<br>shove
-bip_39_word_new_br_11: split<br>bone<br>expand<br>peasant<br>buddy<br>jaguar<br>game<br>brave<br>small<br>shove<br>promote
 bip_39_word_new_br_12: split<br>bone<br>expand<br>peasant<br>buddy<br>jaguar<br>game<br>brave<br>small<br>shove<br>promote<br>author
 bip_39_word_new_br_2: split<br>bone
 bip_39_word_new_br_3: split<br>bone<br>expand
-bip_39_word_new_br_4: split<br>bone<br>expand<br>peasant
-bip_39_word_new_br_5: split<br>bone<br>expand<br>peasant<br>buddy
-bip_39_word_new_br_6: split<br>bone<br>expand<br>peasant<br>buddy<br>jaguar
-bip_39_word_new_br_7: split<br>bone<br>expand<br>peasant<br>buddy<br>jaguar<br>game
-bip_39_word_new_br_8: split<br>bone<br>expand<br>peasant<br>buddy<br>jaguar<br>game<br>brave
-bip_39_word_new_br_9: split<br>bone<br>expand<br>peasant<br>buddy<br>jaguar<br>game<br>brave<br>small
-bip_39_word_new_line_1: split
-bip_39_word_new_line_10: 'split
-
-  bone
-
-  expand
-
-  peasant
-
-  buddy
-
-  jaguar
-
-  game
-
-  brave
-
-  small
-
-  shove'
-bip_39_word_new_line_11: 'split
-
-  bone
-
-  expand
-
-  peasant
-
-  buddy
-
-  jaguar
-
-  game
-
-  brave
-
-  small
-
-  shove
-
-  promote'
 bip_39_word_new_line_12: 'split
 
   bone
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'split
   bone
 
   expand'
-bip_39_word_new_line_4: 'split
-
-  bone
-
-  expand
-
-  peasant'
-bip_39_word_new_line_5: 'split
-
-  bone
-
-  expand
-
-  peasant
-
-  buddy'
-bip_39_word_new_line_6: 'split
-
-  bone
-
-  expand
-
-  peasant
-
-  buddy
-
-  jaguar'
-bip_39_word_new_line_7: 'split
-
-  bone
-
-  expand
-
-  peasant
-
-  buddy
-
-  jaguar
-
-  game'
-bip_39_word_new_line_8: 'split
-
-  bone
-
-  expand
-
-  peasant
-
-  buddy
-
-  jaguar
-
-  game
-
-  brave'
-bip_39_word_new_line_9: 'split
-
-  bone
-
-  expand
-
-  peasant
-
-  buddy
-
-  jaguar
-
-  game
-
-  brave
-
-  small'
-bip_39_word_no_space_1: split
-bip_39_word_no_space_10: splitboneexpandpeasantbuddyjaguargamebravesmallshove
-bip_39_word_no_space_11: splitboneexpandpeasantbuddyjaguargamebravesmallshovepromote
 bip_39_word_no_space_12: splitboneexpandpeasantbuddyjaguargamebravesmallshovepromoteauthor
 bip_39_word_no_space_2: splitbone
 bip_39_word_no_space_3: splitboneexpand
-bip_39_word_no_space_4: splitboneexpandpeasant
-bip_39_word_no_space_5: splitboneexpandpeasantbuddy
-bip_39_word_no_space_6: splitboneexpandpeasantbuddyjaguar
-bip_39_word_no_space_7: splitboneexpandpeasantbuddyjaguargame
-bip_39_word_no_space_8: splitboneexpandpeasantbuddyjaguargamebrave
-bip_39_word_no_space_9: splitboneexpandpeasantbuddyjaguargamebravesmall
-bip_39_word_space_0:
-- split
-- bone
-- expand
-- peasant
-- buddy
-- jaguar
-- game
-- brave
-- small
-- shove
-- promote
-- author
-bip_39_word_space_1: split
-bip_39_word_space_10: split bone expand peasant buddy jaguar game brave small shove
-bip_39_word_space_11: split bone expand peasant buddy jaguar game brave small shove
-  promote
 bip_39_word_space_12: split bone expand peasant buddy jaguar game brave small shove
   promote author
 bip_39_word_space_2: split bone
 bip_39_word_space_3: split bone expand
-bip_39_word_space_4: split bone expand peasant
-bip_39_word_space_5: split bone expand peasant buddy
-bip_39_word_space_6: split bone expand peasant buddy jaguar
-bip_39_word_space_7: split bone expand peasant buddy jaguar game
-bip_39_word_space_8: split bone expand peasant buddy jaguar game brave
-bip_39_word_space_9: split bone expand peasant buddy jaguar game brave small
-bip_39_word_underscore_1: split
-bip_39_word_underscore_10: split_bone_expand_peasant_buddy_jaguar_game_brave_small_shove
-bip_39_word_underscore_11: split_bone_expand_peasant_buddy_jaguar_game_brave_small_shove_promote
 bip_39_word_underscore_12: split_bone_expand_peasant_buddy_jaguar_game_brave_small_shove_promote_author
 bip_39_word_underscore_2: split_bone
 bip_39_word_underscore_3: split_bone_expand
-bip_39_word_underscore_4: split_bone_expand_peasant
-bip_39_word_underscore_5: split_bone_expand_peasant_buddy
-bip_39_word_underscore_6: split_bone_expand_peasant_buddy_jaguar
-bip_39_word_underscore_7: split_bone_expand_peasant_buddy_jaguar_game
-bip_39_word_underscore_8: split_bone_expand_peasant_buddy_jaguar_game_brave
-bip_39_word_underscore_9: split_bone_expand_peasant_buddy_jaguar_game_brave_small
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

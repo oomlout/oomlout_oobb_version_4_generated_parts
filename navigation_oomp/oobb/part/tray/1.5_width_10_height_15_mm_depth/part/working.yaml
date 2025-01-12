@@ -1,68 +1,9 @@
-bip_39_word_dash_1: scissors
-bip_39_word_dash_10: scissors-crisp-stereo-speed-armor-crisp-hamster-wire-garbage-midnight
-bip_39_word_dash_11: scissors-crisp-stereo-speed-armor-crisp-hamster-wire-garbage-midnight-original
 bip_39_word_dash_12: scissors-crisp-stereo-speed-armor-crisp-hamster-wire-garbage-midnight-original-alarm
 bip_39_word_dash_2: scissors-crisp
 bip_39_word_dash_3: scissors-crisp-stereo
-bip_39_word_dash_4: scissors-crisp-stereo-speed
-bip_39_word_dash_5: scissors-crisp-stereo-speed-armor
-bip_39_word_dash_6: scissors-crisp-stereo-speed-armor-crisp
-bip_39_word_dash_7: scissors-crisp-stereo-speed-armor-crisp-hamster
-bip_39_word_dash_8: scissors-crisp-stereo-speed-armor-crisp-hamster-wire
-bip_39_word_dash_9: scissors-crisp-stereo-speed-armor-crisp-hamster-wire-garbage
-bip_39_word_new_br_1: scissors
-bip_39_word_new_br_10: scissors<br>crisp<br>stereo<br>speed<br>armor<br>crisp<br>hamster<br>wire<br>garbage<br>midnight
-bip_39_word_new_br_11: scissors<br>crisp<br>stereo<br>speed<br>armor<br>crisp<br>hamster<br>wire<br>garbage<br>midnight<br>original
 bip_39_word_new_br_12: scissors<br>crisp<br>stereo<br>speed<br>armor<br>crisp<br>hamster<br>wire<br>garbage<br>midnight<br>original<br>alarm
 bip_39_word_new_br_2: scissors<br>crisp
 bip_39_word_new_br_3: scissors<br>crisp<br>stereo
-bip_39_word_new_br_4: scissors<br>crisp<br>stereo<br>speed
-bip_39_word_new_br_5: scissors<br>crisp<br>stereo<br>speed<br>armor
-bip_39_word_new_br_6: scissors<br>crisp<br>stereo<br>speed<br>armor<br>crisp
-bip_39_word_new_br_7: scissors<br>crisp<br>stereo<br>speed<br>armor<br>crisp<br>hamster
-bip_39_word_new_br_8: scissors<br>crisp<br>stereo<br>speed<br>armor<br>crisp<br>hamster<br>wire
-bip_39_word_new_br_9: scissors<br>crisp<br>stereo<br>speed<br>armor<br>crisp<br>hamster<br>wire<br>garbage
-bip_39_word_new_line_1: scissors
-bip_39_word_new_line_10: 'scissors
-
-  crisp
-
-  stereo
-
-  speed
-
-  armor
-
-  crisp
-
-  hamster
-
-  wire
-
-  garbage
-
-  midnight'
-bip_39_word_new_line_11: 'scissors
-
-  crisp
-
-  stereo
-
-  speed
-
-  armor
-
-  crisp
-
-  hamster
-
-  wire
-
-  garbage
-
-  midnight
-
-  original'
 bip_39_word_new_line_12: 'scissors
 
   crisp
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'scissors
   crisp
 
   stereo'
-bip_39_word_new_line_4: 'scissors
-
-  crisp
-
-  stereo
-
-  speed'
-bip_39_word_new_line_5: 'scissors
-
-  crisp
-
-  stereo
-
-  speed
-
-  armor'
-bip_39_word_new_line_6: 'scissors
-
-  crisp
-
-  stereo
-
-  speed
-
-  armor
-
-  crisp'
-bip_39_word_new_line_7: 'scissors
-
-  crisp
-
-  stereo
-
-  speed
-
-  armor
-
-  crisp
-
-  hamster'
-bip_39_word_new_line_8: 'scissors
-
-  crisp
-
-  stereo
-
-  speed
-
-  armor
-
-  crisp
-
-  hamster
-
-  wire'
-bip_39_word_new_line_9: 'scissors
-
-  crisp
-
-  stereo
-
-  speed
-
-  armor
-
-  crisp
-
-  hamster
-
-  wire
-
-  garbage'
-bip_39_word_no_space_1: scissors
-bip_39_word_no_space_10: scissorscrispstereospeedarmorcrisphamsterwiregarbagemidnight
-bip_39_word_no_space_11: scissorscrispstereospeedarmorcrisphamsterwiregarbagemidnightoriginal
 bip_39_word_no_space_12: scissorscrispstereospeedarmorcrisphamsterwiregarbagemidnightoriginalalarm
 bip_39_word_no_space_2: scissorscrisp
 bip_39_word_no_space_3: scissorscrispstereo
-bip_39_word_no_space_4: scissorscrispstereospeed
-bip_39_word_no_space_5: scissorscrispstereospeedarmor
-bip_39_word_no_space_6: scissorscrispstereospeedarmorcrisp
-bip_39_word_no_space_7: scissorscrispstereospeedarmorcrisphamster
-bip_39_word_no_space_8: scissorscrispstereospeedarmorcrisphamsterwire
-bip_39_word_no_space_9: scissorscrispstereospeedarmorcrisphamsterwiregarbage
-bip_39_word_space_0:
-- scissors
-- crisp
-- stereo
-- speed
-- armor
-- crisp
-- hamster
-- wire
-- garbage
-- midnight
-- original
-- alarm
-bip_39_word_space_1: scissors
-bip_39_word_space_10: scissors crisp stereo speed armor crisp hamster wire garbage
-  midnight
-bip_39_word_space_11: scissors crisp stereo speed armor crisp hamster wire garbage
-  midnight original
 bip_39_word_space_12: scissors crisp stereo speed armor crisp hamster wire garbage
   midnight original alarm
 bip_39_word_space_2: scissors crisp
 bip_39_word_space_3: scissors crisp stereo
-bip_39_word_space_4: scissors crisp stereo speed
-bip_39_word_space_5: scissors crisp stereo speed armor
-bip_39_word_space_6: scissors crisp stereo speed armor crisp
-bip_39_word_space_7: scissors crisp stereo speed armor crisp hamster
-bip_39_word_space_8: scissors crisp stereo speed armor crisp hamster wire
-bip_39_word_space_9: scissors crisp stereo speed armor crisp hamster wire garbage
-bip_39_word_underscore_1: scissors
-bip_39_word_underscore_10: scissors_crisp_stereo_speed_armor_crisp_hamster_wire_garbage_midnight
-bip_39_word_underscore_11: scissors_crisp_stereo_speed_armor_crisp_hamster_wire_garbage_midnight_original
 bip_39_word_underscore_12: scissors_crisp_stereo_speed_armor_crisp_hamster_wire_garbage_midnight_original_alarm
 bip_39_word_underscore_2: scissors_crisp
 bip_39_word_underscore_3: scissors_crisp_stereo
-bip_39_word_underscore_4: scissors_crisp_stereo_speed
-bip_39_word_underscore_5: scissors_crisp_stereo_speed_armor
-bip_39_word_underscore_6: scissors_crisp_stereo_speed_armor_crisp
-bip_39_word_underscore_7: scissors_crisp_stereo_speed_armor_crisp_hamster
-bip_39_word_underscore_8: scissors_crisp_stereo_speed_armor_crisp_hamster_wire
-bip_39_word_underscore_9: scissors_crisp_stereo_speed_armor_crisp_hamster_wire_garbage
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: sibling
-bip_39_word_dash_10: sibling-frost-biology-escape-zebra-modify-robot-march-bag-coyote
-bip_39_word_dash_11: sibling-frost-biology-escape-zebra-modify-robot-march-bag-coyote-flame
 bip_39_word_dash_12: sibling-frost-biology-escape-zebra-modify-robot-march-bag-coyote-flame-approve
 bip_39_word_dash_2: sibling-frost
 bip_39_word_dash_3: sibling-frost-biology
-bip_39_word_dash_4: sibling-frost-biology-escape
-bip_39_word_dash_5: sibling-frost-biology-escape-zebra
-bip_39_word_dash_6: sibling-frost-biology-escape-zebra-modify
-bip_39_word_dash_7: sibling-frost-biology-escape-zebra-modify-robot
-bip_39_word_dash_8: sibling-frost-biology-escape-zebra-modify-robot-march
-bip_39_word_dash_9: sibling-frost-biology-escape-zebra-modify-robot-march-bag
-bip_39_word_new_br_1: sibling
-bip_39_word_new_br_10: sibling<br>frost<br>biology<br>escape<br>zebra<br>modify<br>robot<br>march<br>bag<br>coyote
-bip_39_word_new_br_11: sibling<br>frost<br>biology<br>escape<br>zebra<br>modify<br>robot<br>march<br>bag<br>coyote<br>flame
 bip_39_word_new_br_12: sibling<br>frost<br>biology<br>escape<br>zebra<br>modify<br>robot<br>march<br>bag<br>coyote<br>flame<br>approve
 bip_39_word_new_br_2: sibling<br>frost
 bip_39_word_new_br_3: sibling<br>frost<br>biology
-bip_39_word_new_br_4: sibling<br>frost<br>biology<br>escape
-bip_39_word_new_br_5: sibling<br>frost<br>biology<br>escape<br>zebra
-bip_39_word_new_br_6: sibling<br>frost<br>biology<br>escape<br>zebra<br>modify
-bip_39_word_new_br_7: sibling<br>frost<br>biology<br>escape<br>zebra<br>modify<br>robot
-bip_39_word_new_br_8: sibling<br>frost<br>biology<br>escape<br>zebra<br>modify<br>robot<br>march
-bip_39_word_new_br_9: sibling<br>frost<br>biology<br>escape<br>zebra<br>modify<br>robot<br>march<br>bag
-bip_39_word_new_line_1: sibling
-bip_39_word_new_line_10: 'sibling
-
-  frost
-
-  biology
-
-  escape
-
-  zebra
-
-  modify
-
-  robot
-
-  march
-
-  bag
-
-  coyote'
-bip_39_word_new_line_11: 'sibling
-
-  frost
-
-  biology
-
-  escape
-
-  zebra
-
-  modify
-
-  robot
-
-  march
-
-  bag
-
-  coyote
-
-  flame'
 bip_39_word_new_line_12: 'sibling
 
   frost
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'sibling
   frost
 
   biology'
-bip_39_word_new_line_4: 'sibling
-
-  frost
-
-  biology
-
-  escape'
-bip_39_word_new_line_5: 'sibling
-
-  frost
-
-  biology
-
-  escape
-
-  zebra'
-bip_39_word_new_line_6: 'sibling
-
-  frost
-
-  biology
-
-  escape
-
-  zebra
-
-  modify'
-bip_39_word_new_line_7: 'sibling
-
-  frost
-
-  biology
-
-  escape
-
-  zebra
-
-  modify
-
-  robot'
-bip_39_word_new_line_8: 'sibling
-
-  frost
-
-  biology
-
-  escape
-
-  zebra
-
-  modify
-
-  robot
-
-  march'
-bip_39_word_new_line_9: 'sibling
-
-  frost
-
-  biology
-
-  escape
-
-  zebra
-
-  modify
-
-  robot
-
-  march
-
-  bag'
-bip_39_word_no_space_1: sibling
-bip_39_word_no_space_10: siblingfrostbiologyescapezebramodifyrobotmarchbagcoyote
-bip_39_word_no_space_11: siblingfrostbiologyescapezebramodifyrobotmarchbagcoyoteflame
 bip_39_word_no_space_12: siblingfrostbiologyescapezebramodifyrobotmarchbagcoyoteflameapprove
 bip_39_word_no_space_2: siblingfrost
 bip_39_word_no_space_3: siblingfrostbiology
-bip_39_word_no_space_4: siblingfrostbiologyescape
-bip_39_word_no_space_5: siblingfrostbiologyescapezebra
-bip_39_word_no_space_6: siblingfrostbiologyescapezebramodify
-bip_39_word_no_space_7: siblingfrostbiologyescapezebramodifyrobot
-bip_39_word_no_space_8: siblingfrostbiologyescapezebramodifyrobotmarch
-bip_39_word_no_space_9: siblingfrostbiologyescapezebramodifyrobotmarchbag
-bip_39_word_space_0:
-- sibling
-- frost
-- biology
-- escape
-- zebra
-- modify
-- robot
-- march
-- bag
-- coyote
-- flame
-- approve
-bip_39_word_space_1: sibling
-bip_39_word_space_10: sibling frost biology escape zebra modify robot march bag coyote
-bip_39_word_space_11: sibling frost biology escape zebra modify robot march bag coyote
-  flame
 bip_39_word_space_12: sibling frost biology escape zebra modify robot march bag coyote
   flame approve
 bip_39_word_space_2: sibling frost
 bip_39_word_space_3: sibling frost biology
-bip_39_word_space_4: sibling frost biology escape
-bip_39_word_space_5: sibling frost biology escape zebra
-bip_39_word_space_6: sibling frost biology escape zebra modify
-bip_39_word_space_7: sibling frost biology escape zebra modify robot
-bip_39_word_space_8: sibling frost biology escape zebra modify robot march
-bip_39_word_space_9: sibling frost biology escape zebra modify robot march bag
-bip_39_word_underscore_1: sibling
-bip_39_word_underscore_10: sibling_frost_biology_escape_zebra_modify_robot_march_bag_coyote
-bip_39_word_underscore_11: sibling_frost_biology_escape_zebra_modify_robot_march_bag_coyote_flame
 bip_39_word_underscore_12: sibling_frost_biology_escape_zebra_modify_robot_march_bag_coyote_flame_approve
 bip_39_word_underscore_2: sibling_frost
 bip_39_word_underscore_3: sibling_frost_biology
-bip_39_word_underscore_4: sibling_frost_biology_escape
-bip_39_word_underscore_5: sibling_frost_biology_escape_zebra
-bip_39_word_underscore_6: sibling_frost_biology_escape_zebra_modify
-bip_39_word_underscore_7: sibling_frost_biology_escape_zebra_modify_robot
-bip_39_word_underscore_8: sibling_frost_biology_escape_zebra_modify_robot_march
-bip_39_word_underscore_9: sibling_frost_biology_escape_zebra_modify_robot_march_bag
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

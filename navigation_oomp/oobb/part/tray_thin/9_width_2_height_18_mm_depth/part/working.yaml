@@ -1,68 +1,9 @@
-bip_39_word_dash_1: rabbit
-bip_39_word_dash_10: rabbit-midnight-human-cheese-arch-tank-hospital-hard-bulk-reform
-bip_39_word_dash_11: rabbit-midnight-human-cheese-arch-tank-hospital-hard-bulk-reform-drum
 bip_39_word_dash_12: rabbit-midnight-human-cheese-arch-tank-hospital-hard-bulk-reform-drum-agent
 bip_39_word_dash_2: rabbit-midnight
 bip_39_word_dash_3: rabbit-midnight-human
-bip_39_word_dash_4: rabbit-midnight-human-cheese
-bip_39_word_dash_5: rabbit-midnight-human-cheese-arch
-bip_39_word_dash_6: rabbit-midnight-human-cheese-arch-tank
-bip_39_word_dash_7: rabbit-midnight-human-cheese-arch-tank-hospital
-bip_39_word_dash_8: rabbit-midnight-human-cheese-arch-tank-hospital-hard
-bip_39_word_dash_9: rabbit-midnight-human-cheese-arch-tank-hospital-hard-bulk
-bip_39_word_new_br_1: rabbit
-bip_39_word_new_br_10: rabbit<br>midnight<br>human<br>cheese<br>arch<br>tank<br>hospital<br>hard<br>bulk<br>reform
-bip_39_word_new_br_11: rabbit<br>midnight<br>human<br>cheese<br>arch<br>tank<br>hospital<br>hard<br>bulk<br>reform<br>drum
 bip_39_word_new_br_12: rabbit<br>midnight<br>human<br>cheese<br>arch<br>tank<br>hospital<br>hard<br>bulk<br>reform<br>drum<br>agent
 bip_39_word_new_br_2: rabbit<br>midnight
 bip_39_word_new_br_3: rabbit<br>midnight<br>human
-bip_39_word_new_br_4: rabbit<br>midnight<br>human<br>cheese
-bip_39_word_new_br_5: rabbit<br>midnight<br>human<br>cheese<br>arch
-bip_39_word_new_br_6: rabbit<br>midnight<br>human<br>cheese<br>arch<br>tank
-bip_39_word_new_br_7: rabbit<br>midnight<br>human<br>cheese<br>arch<br>tank<br>hospital
-bip_39_word_new_br_8: rabbit<br>midnight<br>human<br>cheese<br>arch<br>tank<br>hospital<br>hard
-bip_39_word_new_br_9: rabbit<br>midnight<br>human<br>cheese<br>arch<br>tank<br>hospital<br>hard<br>bulk
-bip_39_word_new_line_1: rabbit
-bip_39_word_new_line_10: 'rabbit
-
-  midnight
-
-  human
-
-  cheese
-
-  arch
-
-  tank
-
-  hospital
-
-  hard
-
-  bulk
-
-  reform'
-bip_39_word_new_line_11: 'rabbit
-
-  midnight
-
-  human
-
-  cheese
-
-  arch
-
-  tank
-
-  hospital
-
-  hard
-
-  bulk
-
-  reform
-
-  drum'
 bip_39_word_new_line_12: 'rabbit
 
   midnight
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'rabbit
   midnight
 
   human'
-bip_39_word_new_line_4: 'rabbit
-
-  midnight
-
-  human
-
-  cheese'
-bip_39_word_new_line_5: 'rabbit
-
-  midnight
-
-  human
-
-  cheese
-
-  arch'
-bip_39_word_new_line_6: 'rabbit
-
-  midnight
-
-  human
-
-  cheese
-
-  arch
-
-  tank'
-bip_39_word_new_line_7: 'rabbit
-
-  midnight
-
-  human
-
-  cheese
-
-  arch
-
-  tank
-
-  hospital'
-bip_39_word_new_line_8: 'rabbit
-
-  midnight
-
-  human
-
-  cheese
-
-  arch
-
-  tank
-
-  hospital
-
-  hard'
-bip_39_word_new_line_9: 'rabbit
-
-  midnight
-
-  human
-
-  cheese
-
-  arch
-
-  tank
-
-  hospital
-
-  hard
-
-  bulk'
-bip_39_word_no_space_1: rabbit
-bip_39_word_no_space_10: rabbitmidnighthumancheesearchtankhospitalhardbulkreform
-bip_39_word_no_space_11: rabbitmidnighthumancheesearchtankhospitalhardbulkreformdrum
 bip_39_word_no_space_12: rabbitmidnighthumancheesearchtankhospitalhardbulkreformdrumagent
 bip_39_word_no_space_2: rabbitmidnight
 bip_39_word_no_space_3: rabbitmidnighthuman
-bip_39_word_no_space_4: rabbitmidnighthumancheese
-bip_39_word_no_space_5: rabbitmidnighthumancheesearch
-bip_39_word_no_space_6: rabbitmidnighthumancheesearchtank
-bip_39_word_no_space_7: rabbitmidnighthumancheesearchtankhospital
-bip_39_word_no_space_8: rabbitmidnighthumancheesearchtankhospitalhard
-bip_39_word_no_space_9: rabbitmidnighthumancheesearchtankhospitalhardbulk
-bip_39_word_space_0:
-- rabbit
-- midnight
-- human
-- cheese
-- arch
-- tank
-- hospital
-- hard
-- bulk
-- reform
-- drum
-- agent
-bip_39_word_space_1: rabbit
-bip_39_word_space_10: rabbit midnight human cheese arch tank hospital hard bulk reform
-bip_39_word_space_11: rabbit midnight human cheese arch tank hospital hard bulk reform
-  drum
 bip_39_word_space_12: rabbit midnight human cheese arch tank hospital hard bulk reform
   drum agent
 bip_39_word_space_2: rabbit midnight
 bip_39_word_space_3: rabbit midnight human
-bip_39_word_space_4: rabbit midnight human cheese
-bip_39_word_space_5: rabbit midnight human cheese arch
-bip_39_word_space_6: rabbit midnight human cheese arch tank
-bip_39_word_space_7: rabbit midnight human cheese arch tank hospital
-bip_39_word_space_8: rabbit midnight human cheese arch tank hospital hard
-bip_39_word_space_9: rabbit midnight human cheese arch tank hospital hard bulk
-bip_39_word_underscore_1: rabbit
-bip_39_word_underscore_10: rabbit_midnight_human_cheese_arch_tank_hospital_hard_bulk_reform
-bip_39_word_underscore_11: rabbit_midnight_human_cheese_arch_tank_hospital_hard_bulk_reform_drum
 bip_39_word_underscore_12: rabbit_midnight_human_cheese_arch_tank_hospital_hard_bulk_reform_drum_agent
 bip_39_word_underscore_2: rabbit_midnight
 bip_39_word_underscore_3: rabbit_midnight_human
-bip_39_word_underscore_4: rabbit_midnight_human_cheese
-bip_39_word_underscore_5: rabbit_midnight_human_cheese_arch
-bip_39_word_underscore_6: rabbit_midnight_human_cheese_arch_tank
-bip_39_word_underscore_7: rabbit_midnight_human_cheese_arch_tank_hospital
-bip_39_word_underscore_8: rabbit_midnight_human_cheese_arch_tank_hospital_hard
-bip_39_word_underscore_9: rabbit_midnight_human_cheese_arch_tank_hospital_hard_bulk
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: setup
-bip_39_word_dash_10: setup-heavy-spread-monkey-scan-business-dial-violin-tower-creek
-bip_39_word_dash_11: setup-heavy-spread-monkey-scan-business-dial-violin-tower-creek-meat
 bip_39_word_dash_12: setup-heavy-spread-monkey-scan-business-dial-violin-tower-creek-meat-actual
 bip_39_word_dash_2: setup-heavy
 bip_39_word_dash_3: setup-heavy-spread
-bip_39_word_dash_4: setup-heavy-spread-monkey
-bip_39_word_dash_5: setup-heavy-spread-monkey-scan
-bip_39_word_dash_6: setup-heavy-spread-monkey-scan-business
-bip_39_word_dash_7: setup-heavy-spread-monkey-scan-business-dial
-bip_39_word_dash_8: setup-heavy-spread-monkey-scan-business-dial-violin
-bip_39_word_dash_9: setup-heavy-spread-monkey-scan-business-dial-violin-tower
-bip_39_word_new_br_1: setup
-bip_39_word_new_br_10: setup<br>heavy<br>spread<br>monkey<br>scan<br>business<br>dial<br>violin<br>tower<br>creek
-bip_39_word_new_br_11: setup<br>heavy<br>spread<br>monkey<br>scan<br>business<br>dial<br>violin<br>tower<br>creek<br>meat
 bip_39_word_new_br_12: setup<br>heavy<br>spread<br>monkey<br>scan<br>business<br>dial<br>violin<br>tower<br>creek<br>meat<br>actual
 bip_39_word_new_br_2: setup<br>heavy
 bip_39_word_new_br_3: setup<br>heavy<br>spread
-bip_39_word_new_br_4: setup<br>heavy<br>spread<br>monkey
-bip_39_word_new_br_5: setup<br>heavy<br>spread<br>monkey<br>scan
-bip_39_word_new_br_6: setup<br>heavy<br>spread<br>monkey<br>scan<br>business
-bip_39_word_new_br_7: setup<br>heavy<br>spread<br>monkey<br>scan<br>business<br>dial
-bip_39_word_new_br_8: setup<br>heavy<br>spread<br>monkey<br>scan<br>business<br>dial<br>violin
-bip_39_word_new_br_9: setup<br>heavy<br>spread<br>monkey<br>scan<br>business<br>dial<br>violin<br>tower
-bip_39_word_new_line_1: setup
-bip_39_word_new_line_10: 'setup
-
-  heavy
-
-  spread
-
-  monkey
-
-  scan
-
-  business
-
-  dial
-
-  violin
-
-  tower
-
-  creek'
-bip_39_word_new_line_11: 'setup
-
-  heavy
-
-  spread
-
-  monkey
-
-  scan
-
-  business
-
-  dial
-
-  violin
-
-  tower
-
-  creek
-
-  meat'
 bip_39_word_new_line_12: 'setup
 
   heavy
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'setup
   heavy
 
   spread'
-bip_39_word_new_line_4: 'setup
-
-  heavy
-
-  spread
-
-  monkey'
-bip_39_word_new_line_5: 'setup
-
-  heavy
-
-  spread
-
-  monkey
-
-  scan'
-bip_39_word_new_line_6: 'setup
-
-  heavy
-
-  spread
-
-  monkey
-
-  scan
-
-  business'
-bip_39_word_new_line_7: 'setup
-
-  heavy
-
-  spread
-
-  monkey
-
-  scan
-
-  business
-
-  dial'
-bip_39_word_new_line_8: 'setup
-
-  heavy
-
-  spread
-
-  monkey
-
-  scan
-
-  business
-
-  dial
-
-  violin'
-bip_39_word_new_line_9: 'setup
-
-  heavy
-
-  spread
-
-  monkey
-
-  scan
-
-  business
-
-  dial
-
-  violin
-
-  tower'
-bip_39_word_no_space_1: setup
-bip_39_word_no_space_10: setupheavyspreadmonkeyscanbusinessdialviolintowercreek
-bip_39_word_no_space_11: setupheavyspreadmonkeyscanbusinessdialviolintowercreekmeat
 bip_39_word_no_space_12: setupheavyspreadmonkeyscanbusinessdialviolintowercreekmeatactual
 bip_39_word_no_space_2: setupheavy
 bip_39_word_no_space_3: setupheavyspread
-bip_39_word_no_space_4: setupheavyspreadmonkey
-bip_39_word_no_space_5: setupheavyspreadmonkeyscan
-bip_39_word_no_space_6: setupheavyspreadmonkeyscanbusiness
-bip_39_word_no_space_7: setupheavyspreadmonkeyscanbusinessdial
-bip_39_word_no_space_8: setupheavyspreadmonkeyscanbusinessdialviolin
-bip_39_word_no_space_9: setupheavyspreadmonkeyscanbusinessdialviolintower
-bip_39_word_space_0:
-- setup
-- heavy
-- spread
-- monkey
-- scan
-- business
-- dial
-- violin
-- tower
-- creek
-- meat
-- actual
-bip_39_word_space_1: setup
-bip_39_word_space_10: setup heavy spread monkey scan business dial violin tower creek
-bip_39_word_space_11: setup heavy spread monkey scan business dial violin tower creek
-  meat
 bip_39_word_space_12: setup heavy spread monkey scan business dial violin tower creek
   meat actual
 bip_39_word_space_2: setup heavy
 bip_39_word_space_3: setup heavy spread
-bip_39_word_space_4: setup heavy spread monkey
-bip_39_word_space_5: setup heavy spread monkey scan
-bip_39_word_space_6: setup heavy spread monkey scan business
-bip_39_word_space_7: setup heavy spread monkey scan business dial
-bip_39_word_space_8: setup heavy spread monkey scan business dial violin
-bip_39_word_space_9: setup heavy spread monkey scan business dial violin tower
-bip_39_word_underscore_1: setup
-bip_39_word_underscore_10: setup_heavy_spread_monkey_scan_business_dial_violin_tower_creek
-bip_39_word_underscore_11: setup_heavy_spread_monkey_scan_business_dial_violin_tower_creek_meat
 bip_39_word_underscore_12: setup_heavy_spread_monkey_scan_business_dial_violin_tower_creek_meat_actual
 bip_39_word_underscore_2: setup_heavy
 bip_39_word_underscore_3: setup_heavy_spread
-bip_39_word_underscore_4: setup_heavy_spread_monkey
-bip_39_word_underscore_5: setup_heavy_spread_monkey_scan
-bip_39_word_underscore_6: setup_heavy_spread_monkey_scan_business
-bip_39_word_underscore_7: setup_heavy_spread_monkey_scan_business_dial
-bip_39_word_underscore_8: setup_heavy_spread_monkey_scan_business_dial_violin
-bip_39_word_underscore_9: setup_heavy_spread_monkey_scan_business_dial_violin_tower
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

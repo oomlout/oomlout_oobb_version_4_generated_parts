@@ -1,68 +1,9 @@
-bip_39_word_dash_1: ecology
-bip_39_word_dash_10: ecology-tail-net-place-other-unit-door-extra-entire-valid
-bip_39_word_dash_11: ecology-tail-net-place-other-unit-door-extra-entire-valid-knee
 bip_39_word_dash_12: ecology-tail-net-place-other-unit-door-extra-entire-valid-knee-area
 bip_39_word_dash_2: ecology-tail
 bip_39_word_dash_3: ecology-tail-net
-bip_39_word_dash_4: ecology-tail-net-place
-bip_39_word_dash_5: ecology-tail-net-place-other
-bip_39_word_dash_6: ecology-tail-net-place-other-unit
-bip_39_word_dash_7: ecology-tail-net-place-other-unit-door
-bip_39_word_dash_8: ecology-tail-net-place-other-unit-door-extra
-bip_39_word_dash_9: ecology-tail-net-place-other-unit-door-extra-entire
-bip_39_word_new_br_1: ecology
-bip_39_word_new_br_10: ecology<br>tail<br>net<br>place<br>other<br>unit<br>door<br>extra<br>entire<br>valid
-bip_39_word_new_br_11: ecology<br>tail<br>net<br>place<br>other<br>unit<br>door<br>extra<br>entire<br>valid<br>knee
 bip_39_word_new_br_12: ecology<br>tail<br>net<br>place<br>other<br>unit<br>door<br>extra<br>entire<br>valid<br>knee<br>area
 bip_39_word_new_br_2: ecology<br>tail
 bip_39_word_new_br_3: ecology<br>tail<br>net
-bip_39_word_new_br_4: ecology<br>tail<br>net<br>place
-bip_39_word_new_br_5: ecology<br>tail<br>net<br>place<br>other
-bip_39_word_new_br_6: ecology<br>tail<br>net<br>place<br>other<br>unit
-bip_39_word_new_br_7: ecology<br>tail<br>net<br>place<br>other<br>unit<br>door
-bip_39_word_new_br_8: ecology<br>tail<br>net<br>place<br>other<br>unit<br>door<br>extra
-bip_39_word_new_br_9: ecology<br>tail<br>net<br>place<br>other<br>unit<br>door<br>extra<br>entire
-bip_39_word_new_line_1: ecology
-bip_39_word_new_line_10: 'ecology
-
-  tail
-
-  net
-
-  place
-
-  other
-
-  unit
-
-  door
-
-  extra
-
-  entire
-
-  valid'
-bip_39_word_new_line_11: 'ecology
-
-  tail
-
-  net
-
-  place
-
-  other
-
-  unit
-
-  door
-
-  extra
-
-  entire
-
-  valid
-
-  knee'
 bip_39_word_new_line_12: 'ecology
 
   tail
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'ecology
   tail
 
   net'
-bip_39_word_new_line_4: 'ecology
-
-  tail
-
-  net
-
-  place'
-bip_39_word_new_line_5: 'ecology
-
-  tail
-
-  net
-
-  place
-
-  other'
-bip_39_word_new_line_6: 'ecology
-
-  tail
-
-  net
-
-  place
-
-  other
-
-  unit'
-bip_39_word_new_line_7: 'ecology
-
-  tail
-
-  net
-
-  place
-
-  other
-
-  unit
-
-  door'
-bip_39_word_new_line_8: 'ecology
-
-  tail
-
-  net
-
-  place
-
-  other
-
-  unit
-
-  door
-
-  extra'
-bip_39_word_new_line_9: 'ecology
-
-  tail
-
-  net
-
-  place
-
-  other
-
-  unit
-
-  door
-
-  extra
-
-  entire'
-bip_39_word_no_space_1: ecology
-bip_39_word_no_space_10: ecologytailnetplaceotherunitdoorextraentirevalid
-bip_39_word_no_space_11: ecologytailnetplaceotherunitdoorextraentirevalidknee
 bip_39_word_no_space_12: ecologytailnetplaceotherunitdoorextraentirevalidkneearea
 bip_39_word_no_space_2: ecologytail
 bip_39_word_no_space_3: ecologytailnet
-bip_39_word_no_space_4: ecologytailnetplace
-bip_39_word_no_space_5: ecologytailnetplaceother
-bip_39_word_no_space_6: ecologytailnetplaceotherunit
-bip_39_word_no_space_7: ecologytailnetplaceotherunitdoor
-bip_39_word_no_space_8: ecologytailnetplaceotherunitdoorextra
-bip_39_word_no_space_9: ecologytailnetplaceotherunitdoorextraentire
-bip_39_word_space_0:
-- ecology
-- tail
-- net
-- place
-- other
-- unit
-- door
-- extra
-- entire
-- valid
-- knee
-- area
-bip_39_word_space_1: ecology
-bip_39_word_space_10: ecology tail net place other unit door extra entire valid
-bip_39_word_space_11: ecology tail net place other unit door extra entire valid knee
 bip_39_word_space_12: ecology tail net place other unit door extra entire valid knee
   area
 bip_39_word_space_2: ecology tail
 bip_39_word_space_3: ecology tail net
-bip_39_word_space_4: ecology tail net place
-bip_39_word_space_5: ecology tail net place other
-bip_39_word_space_6: ecology tail net place other unit
-bip_39_word_space_7: ecology tail net place other unit door
-bip_39_word_space_8: ecology tail net place other unit door extra
-bip_39_word_space_9: ecology tail net place other unit door extra entire
-bip_39_word_underscore_1: ecology
-bip_39_word_underscore_10: ecology_tail_net_place_other_unit_door_extra_entire_valid
-bip_39_word_underscore_11: ecology_tail_net_place_other_unit_door_extra_entire_valid_knee
 bip_39_word_underscore_12: ecology_tail_net_place_other_unit_door_extra_entire_valid_knee_area
 bip_39_word_underscore_2: ecology_tail
 bip_39_word_underscore_3: ecology_tail_net
-bip_39_word_underscore_4: ecology_tail_net_place
-bip_39_word_underscore_5: ecology_tail_net_place_other
-bip_39_word_underscore_6: ecology_tail_net_place_other_unit
-bip_39_word_underscore_7: ecology_tail_net_place_other_unit_door
-bip_39_word_underscore_8: ecology_tail_net_place_other_unit_door_extra
-bip_39_word_underscore_9: ecology_tail_net_place_other_unit_door_extra_entire
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

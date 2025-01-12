@@ -1,68 +1,9 @@
-bip_39_word_dash_1: daughter
-bip_39_word_dash_10: daughter-crouch-file-future-congress-artefact-swim-glance-grant-inner
-bip_39_word_dash_11: daughter-crouch-file-future-congress-artefact-swim-glance-grant-inner-north
 bip_39_word_dash_12: daughter-crouch-file-future-congress-artefact-swim-glance-grant-inner-north-arrow
 bip_39_word_dash_2: daughter-crouch
 bip_39_word_dash_3: daughter-crouch-file
-bip_39_word_dash_4: daughter-crouch-file-future
-bip_39_word_dash_5: daughter-crouch-file-future-congress
-bip_39_word_dash_6: daughter-crouch-file-future-congress-artefact
-bip_39_word_dash_7: daughter-crouch-file-future-congress-artefact-swim
-bip_39_word_dash_8: daughter-crouch-file-future-congress-artefact-swim-glance
-bip_39_word_dash_9: daughter-crouch-file-future-congress-artefact-swim-glance-grant
-bip_39_word_new_br_1: daughter
-bip_39_word_new_br_10: daughter<br>crouch<br>file<br>future<br>congress<br>artefact<br>swim<br>glance<br>grant<br>inner
-bip_39_word_new_br_11: daughter<br>crouch<br>file<br>future<br>congress<br>artefact<br>swim<br>glance<br>grant<br>inner<br>north
 bip_39_word_new_br_12: daughter<br>crouch<br>file<br>future<br>congress<br>artefact<br>swim<br>glance<br>grant<br>inner<br>north<br>arrow
 bip_39_word_new_br_2: daughter<br>crouch
 bip_39_word_new_br_3: daughter<br>crouch<br>file
-bip_39_word_new_br_4: daughter<br>crouch<br>file<br>future
-bip_39_word_new_br_5: daughter<br>crouch<br>file<br>future<br>congress
-bip_39_word_new_br_6: daughter<br>crouch<br>file<br>future<br>congress<br>artefact
-bip_39_word_new_br_7: daughter<br>crouch<br>file<br>future<br>congress<br>artefact<br>swim
-bip_39_word_new_br_8: daughter<br>crouch<br>file<br>future<br>congress<br>artefact<br>swim<br>glance
-bip_39_word_new_br_9: daughter<br>crouch<br>file<br>future<br>congress<br>artefact<br>swim<br>glance<br>grant
-bip_39_word_new_line_1: daughter
-bip_39_word_new_line_10: 'daughter
-
-  crouch
-
-  file
-
-  future
-
-  congress
-
-  artefact
-
-  swim
-
-  glance
-
-  grant
-
-  inner'
-bip_39_word_new_line_11: 'daughter
-
-  crouch
-
-  file
-
-  future
-
-  congress
-
-  artefact
-
-  swim
-
-  glance
-
-  grant
-
-  inner
-
-  north'
 bip_39_word_new_line_12: 'daughter
 
   crouch
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'daughter
   crouch
 
   file'
-bip_39_word_new_line_4: 'daughter
-
-  crouch
-
-  file
-
-  future'
-bip_39_word_new_line_5: 'daughter
-
-  crouch
-
-  file
-
-  future
-
-  congress'
-bip_39_word_new_line_6: 'daughter
-
-  crouch
-
-  file
-
-  future
-
-  congress
-
-  artefact'
-bip_39_word_new_line_7: 'daughter
-
-  crouch
-
-  file
-
-  future
-
-  congress
-
-  artefact
-
-  swim'
-bip_39_word_new_line_8: 'daughter
-
-  crouch
-
-  file
-
-  future
-
-  congress
-
-  artefact
-
-  swim
-
-  glance'
-bip_39_word_new_line_9: 'daughter
-
-  crouch
-
-  file
-
-  future
-
-  congress
-
-  artefact
-
-  swim
-
-  glance
-
-  grant'
-bip_39_word_no_space_1: daughter
-bip_39_word_no_space_10: daughtercrouchfilefuturecongressartefactswimglancegrantinner
-bip_39_word_no_space_11: daughtercrouchfilefuturecongressartefactswimglancegrantinnernorth
 bip_39_word_no_space_12: daughtercrouchfilefuturecongressartefactswimglancegrantinnernortharrow
 bip_39_word_no_space_2: daughtercrouch
 bip_39_word_no_space_3: daughtercrouchfile
-bip_39_word_no_space_4: daughtercrouchfilefuture
-bip_39_word_no_space_5: daughtercrouchfilefuturecongress
-bip_39_word_no_space_6: daughtercrouchfilefuturecongressartefact
-bip_39_word_no_space_7: daughtercrouchfilefuturecongressartefactswim
-bip_39_word_no_space_8: daughtercrouchfilefuturecongressartefactswimglance
-bip_39_word_no_space_9: daughtercrouchfilefuturecongressartefactswimglancegrant
-bip_39_word_space_0:
-- daughter
-- crouch
-- file
-- future
-- congress
-- artefact
-- swim
-- glance
-- grant
-- inner
-- north
-- arrow
-bip_39_word_space_1: daughter
-bip_39_word_space_10: daughter crouch file future congress artefact swim glance grant
-  inner
-bip_39_word_space_11: daughter crouch file future congress artefact swim glance grant
-  inner north
 bip_39_word_space_12: daughter crouch file future congress artefact swim glance grant
   inner north arrow
 bip_39_word_space_2: daughter crouch
 bip_39_word_space_3: daughter crouch file
-bip_39_word_space_4: daughter crouch file future
-bip_39_word_space_5: daughter crouch file future congress
-bip_39_word_space_6: daughter crouch file future congress artefact
-bip_39_word_space_7: daughter crouch file future congress artefact swim
-bip_39_word_space_8: daughter crouch file future congress artefact swim glance
-bip_39_word_space_9: daughter crouch file future congress artefact swim glance grant
-bip_39_word_underscore_1: daughter
-bip_39_word_underscore_10: daughter_crouch_file_future_congress_artefact_swim_glance_grant_inner
-bip_39_word_underscore_11: daughter_crouch_file_future_congress_artefact_swim_glance_grant_inner_north
 bip_39_word_underscore_12: daughter_crouch_file_future_congress_artefact_swim_glance_grant_inner_north_arrow
 bip_39_word_underscore_2: daughter_crouch
 bip_39_word_underscore_3: daughter_crouch_file
-bip_39_word_underscore_4: daughter_crouch_file_future
-bip_39_word_underscore_5: daughter_crouch_file_future_congress
-bip_39_word_underscore_6: daughter_crouch_file_future_congress_artefact
-bip_39_word_underscore_7: daughter_crouch_file_future_congress_artefact_swim
-bip_39_word_underscore_8: daughter_crouch_file_future_congress_artefact_swim_glance
-bip_39_word_underscore_9: daughter_crouch_file_future_congress_artefact_swim_glance_grant
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

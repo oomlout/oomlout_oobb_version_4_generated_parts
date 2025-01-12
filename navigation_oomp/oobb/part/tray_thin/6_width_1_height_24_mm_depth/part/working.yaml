@@ -1,68 +1,9 @@
-bip_39_word_dash_1: project
-bip_39_word_dash_10: project-acoustic-sight-search-pave-cat-simple-addict-roast-panic
-bip_39_word_dash_11: project-acoustic-sight-search-pave-cat-simple-addict-roast-panic-owner
 bip_39_word_dash_12: project-acoustic-sight-search-pave-cat-simple-addict-roast-panic-owner-angry
 bip_39_word_dash_2: project-acoustic
 bip_39_word_dash_3: project-acoustic-sight
-bip_39_word_dash_4: project-acoustic-sight-search
-bip_39_word_dash_5: project-acoustic-sight-search-pave
-bip_39_word_dash_6: project-acoustic-sight-search-pave-cat
-bip_39_word_dash_7: project-acoustic-sight-search-pave-cat-simple
-bip_39_word_dash_8: project-acoustic-sight-search-pave-cat-simple-addict
-bip_39_word_dash_9: project-acoustic-sight-search-pave-cat-simple-addict-roast
-bip_39_word_new_br_1: project
-bip_39_word_new_br_10: project<br>acoustic<br>sight<br>search<br>pave<br>cat<br>simple<br>addict<br>roast<br>panic
-bip_39_word_new_br_11: project<br>acoustic<br>sight<br>search<br>pave<br>cat<br>simple<br>addict<br>roast<br>panic<br>owner
 bip_39_word_new_br_12: project<br>acoustic<br>sight<br>search<br>pave<br>cat<br>simple<br>addict<br>roast<br>panic<br>owner<br>angry
 bip_39_word_new_br_2: project<br>acoustic
 bip_39_word_new_br_3: project<br>acoustic<br>sight
-bip_39_word_new_br_4: project<br>acoustic<br>sight<br>search
-bip_39_word_new_br_5: project<br>acoustic<br>sight<br>search<br>pave
-bip_39_word_new_br_6: project<br>acoustic<br>sight<br>search<br>pave<br>cat
-bip_39_word_new_br_7: project<br>acoustic<br>sight<br>search<br>pave<br>cat<br>simple
-bip_39_word_new_br_8: project<br>acoustic<br>sight<br>search<br>pave<br>cat<br>simple<br>addict
-bip_39_word_new_br_9: project<br>acoustic<br>sight<br>search<br>pave<br>cat<br>simple<br>addict<br>roast
-bip_39_word_new_line_1: project
-bip_39_word_new_line_10: 'project
-
-  acoustic
-
-  sight
-
-  search
-
-  pave
-
-  cat
-
-  simple
-
-  addict
-
-  roast
-
-  panic'
-bip_39_word_new_line_11: 'project
-
-  acoustic
-
-  sight
-
-  search
-
-  pave
-
-  cat
-
-  simple
-
-  addict
-
-  roast
-
-  panic
-
-  owner'
 bip_39_word_new_line_12: 'project
 
   acoustic
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'project
   acoustic
 
   sight'
-bip_39_word_new_line_4: 'project
-
-  acoustic
-
-  sight
-
-  search'
-bip_39_word_new_line_5: 'project
-
-  acoustic
-
-  sight
-
-  search
-
-  pave'
-bip_39_word_new_line_6: 'project
-
-  acoustic
-
-  sight
-
-  search
-
-  pave
-
-  cat'
-bip_39_word_new_line_7: 'project
-
-  acoustic
-
-  sight
-
-  search
-
-  pave
-
-  cat
-
-  simple'
-bip_39_word_new_line_8: 'project
-
-  acoustic
-
-  sight
-
-  search
-
-  pave
-
-  cat
-
-  simple
-
-  addict'
-bip_39_word_new_line_9: 'project
-
-  acoustic
-
-  sight
-
-  search
-
-  pave
-
-  cat
-
-  simple
-
-  addict
-
-  roast'
-bip_39_word_no_space_1: project
-bip_39_word_no_space_10: projectacousticsightsearchpavecatsimpleaddictroastpanic
-bip_39_word_no_space_11: projectacousticsightsearchpavecatsimpleaddictroastpanicowner
 bip_39_word_no_space_12: projectacousticsightsearchpavecatsimpleaddictroastpanicownerangry
 bip_39_word_no_space_2: projectacoustic
 bip_39_word_no_space_3: projectacousticsight
-bip_39_word_no_space_4: projectacousticsightsearch
-bip_39_word_no_space_5: projectacousticsightsearchpave
-bip_39_word_no_space_6: projectacousticsightsearchpavecat
-bip_39_word_no_space_7: projectacousticsightsearchpavecatsimple
-bip_39_word_no_space_8: projectacousticsightsearchpavecatsimpleaddict
-bip_39_word_no_space_9: projectacousticsightsearchpavecatsimpleaddictroast
-bip_39_word_space_0:
-- project
-- acoustic
-- sight
-- search
-- pave
-- cat
-- simple
-- addict
-- roast
-- panic
-- owner
-- angry
-bip_39_word_space_1: project
-bip_39_word_space_10: project acoustic sight search pave cat simple addict roast panic
-bip_39_word_space_11: project acoustic sight search pave cat simple addict roast panic
-  owner
 bip_39_word_space_12: project acoustic sight search pave cat simple addict roast panic
   owner angry
 bip_39_word_space_2: project acoustic
 bip_39_word_space_3: project acoustic sight
-bip_39_word_space_4: project acoustic sight search
-bip_39_word_space_5: project acoustic sight search pave
-bip_39_word_space_6: project acoustic sight search pave cat
-bip_39_word_space_7: project acoustic sight search pave cat simple
-bip_39_word_space_8: project acoustic sight search pave cat simple addict
-bip_39_word_space_9: project acoustic sight search pave cat simple addict roast
-bip_39_word_underscore_1: project
-bip_39_word_underscore_10: project_acoustic_sight_search_pave_cat_simple_addict_roast_panic
-bip_39_word_underscore_11: project_acoustic_sight_search_pave_cat_simple_addict_roast_panic_owner
 bip_39_word_underscore_12: project_acoustic_sight_search_pave_cat_simple_addict_roast_panic_owner_angry
 bip_39_word_underscore_2: project_acoustic
 bip_39_word_underscore_3: project_acoustic_sight
-bip_39_word_underscore_4: project_acoustic_sight_search
-bip_39_word_underscore_5: project_acoustic_sight_search_pave
-bip_39_word_underscore_6: project_acoustic_sight_search_pave_cat
-bip_39_word_underscore_7: project_acoustic_sight_search_pave_cat_simple
-bip_39_word_underscore_8: project_acoustic_sight_search_pave_cat_simple_addict
-bip_39_word_underscore_9: project_acoustic_sight_search_pave_cat_simple_addict_roast
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

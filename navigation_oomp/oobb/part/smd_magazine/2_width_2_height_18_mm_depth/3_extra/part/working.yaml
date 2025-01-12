@@ -1,68 +1,9 @@
-bip_39_word_dash_1: run
-bip_39_word_dash_10: run-stage-man-lake-assume-fence-impose-fit-have-luxury
-bip_39_word_dash_11: run-stage-man-lake-assume-fence-impose-fit-have-luxury-faint
 bip_39_word_dash_12: run-stage-man-lake-assume-fence-impose-fit-have-luxury-faint-alone
 bip_39_word_dash_2: run-stage
 bip_39_word_dash_3: run-stage-man
-bip_39_word_dash_4: run-stage-man-lake
-bip_39_word_dash_5: run-stage-man-lake-assume
-bip_39_word_dash_6: run-stage-man-lake-assume-fence
-bip_39_word_dash_7: run-stage-man-lake-assume-fence-impose
-bip_39_word_dash_8: run-stage-man-lake-assume-fence-impose-fit
-bip_39_word_dash_9: run-stage-man-lake-assume-fence-impose-fit-have
-bip_39_word_new_br_1: run
-bip_39_word_new_br_10: run<br>stage<br>man<br>lake<br>assume<br>fence<br>impose<br>fit<br>have<br>luxury
-bip_39_word_new_br_11: run<br>stage<br>man<br>lake<br>assume<br>fence<br>impose<br>fit<br>have<br>luxury<br>faint
 bip_39_word_new_br_12: run<br>stage<br>man<br>lake<br>assume<br>fence<br>impose<br>fit<br>have<br>luxury<br>faint<br>alone
 bip_39_word_new_br_2: run<br>stage
 bip_39_word_new_br_3: run<br>stage<br>man
-bip_39_word_new_br_4: run<br>stage<br>man<br>lake
-bip_39_word_new_br_5: run<br>stage<br>man<br>lake<br>assume
-bip_39_word_new_br_6: run<br>stage<br>man<br>lake<br>assume<br>fence
-bip_39_word_new_br_7: run<br>stage<br>man<br>lake<br>assume<br>fence<br>impose
-bip_39_word_new_br_8: run<br>stage<br>man<br>lake<br>assume<br>fence<br>impose<br>fit
-bip_39_word_new_br_9: run<br>stage<br>man<br>lake<br>assume<br>fence<br>impose<br>fit<br>have
-bip_39_word_new_line_1: run
-bip_39_word_new_line_10: 'run
-
-  stage
-
-  man
-
-  lake
-
-  assume
-
-  fence
-
-  impose
-
-  fit
-
-  have
-
-  luxury'
-bip_39_word_new_line_11: 'run
-
-  stage
-
-  man
-
-  lake
-
-  assume
-
-  fence
-
-  impose
-
-  fit
-
-  have
-
-  luxury
-
-  faint'
 bip_39_word_new_line_12: 'run
 
   stage
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'run
   stage
 
   man'
-bip_39_word_new_line_4: 'run
-
-  stage
-
-  man
-
-  lake'
-bip_39_word_new_line_5: 'run
-
-  stage
-
-  man
-
-  lake
-
-  assume'
-bip_39_word_new_line_6: 'run
-
-  stage
-
-  man
-
-  lake
-
-  assume
-
-  fence'
-bip_39_word_new_line_7: 'run
-
-  stage
-
-  man
-
-  lake
-
-  assume
-
-  fence
-
-  impose'
-bip_39_word_new_line_8: 'run
-
-  stage
-
-  man
-
-  lake
-
-  assume
-
-  fence
-
-  impose
-
-  fit'
-bip_39_word_new_line_9: 'run
-
-  stage
-
-  man
-
-  lake
-
-  assume
-
-  fence
-
-  impose
-
-  fit
-
-  have'
-bip_39_word_no_space_1: run
-bip_39_word_no_space_10: runstagemanlakeassumefenceimposefithaveluxury
-bip_39_word_no_space_11: runstagemanlakeassumefenceimposefithaveluxuryfaint
 bip_39_word_no_space_12: runstagemanlakeassumefenceimposefithaveluxuryfaintalone
 bip_39_word_no_space_2: runstage
 bip_39_word_no_space_3: runstageman
-bip_39_word_no_space_4: runstagemanlake
-bip_39_word_no_space_5: runstagemanlakeassume
-bip_39_word_no_space_6: runstagemanlakeassumefence
-bip_39_word_no_space_7: runstagemanlakeassumefenceimpose
-bip_39_word_no_space_8: runstagemanlakeassumefenceimposefit
-bip_39_word_no_space_9: runstagemanlakeassumefenceimposefithave
-bip_39_word_space_0:
-- run
-- stage
-- man
-- lake
-- assume
-- fence
-- impose
-- fit
-- have
-- luxury
-- faint
-- alone
-bip_39_word_space_1: run
-bip_39_word_space_10: run stage man lake assume fence impose fit have luxury
-bip_39_word_space_11: run stage man lake assume fence impose fit have luxury faint
 bip_39_word_space_12: run stage man lake assume fence impose fit have luxury faint
   alone
 bip_39_word_space_2: run stage
 bip_39_word_space_3: run stage man
-bip_39_word_space_4: run stage man lake
-bip_39_word_space_5: run stage man lake assume
-bip_39_word_space_6: run stage man lake assume fence
-bip_39_word_space_7: run stage man lake assume fence impose
-bip_39_word_space_8: run stage man lake assume fence impose fit
-bip_39_word_space_9: run stage man lake assume fence impose fit have
-bip_39_word_underscore_1: run
-bip_39_word_underscore_10: run_stage_man_lake_assume_fence_impose_fit_have_luxury
-bip_39_word_underscore_11: run_stage_man_lake_assume_fence_impose_fit_have_luxury_faint
 bip_39_word_underscore_12: run_stage_man_lake_assume_fence_impose_fit_have_luxury_faint_alone
 bip_39_word_underscore_2: run_stage
 bip_39_word_underscore_3: run_stage_man
-bip_39_word_underscore_4: run_stage_man_lake
-bip_39_word_underscore_5: run_stage_man_lake_assume
-bip_39_word_underscore_6: run_stage_man_lake_assume_fence
-bip_39_word_underscore_7: run_stage_man_lake_assume_fence_impose
-bip_39_word_underscore_8: run_stage_man_lake_assume_fence_impose_fit
-bip_39_word_underscore_9: run_stage_man_lake_assume_fence_impose_fit_have
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: arm
-bip_39_word_dash_10: arm-sniff-direct-coin-combine-tail-enact-hen-transfer-ivory
-bip_39_word_dash_11: arm-sniff-direct-coin-combine-tail-enact-hen-transfer-ivory-neutral
 bip_39_word_dash_12: arm-sniff-direct-coin-combine-tail-enact-hen-transfer-ivory-neutral-also
 bip_39_word_dash_2: arm-sniff
 bip_39_word_dash_3: arm-sniff-direct
-bip_39_word_dash_4: arm-sniff-direct-coin
-bip_39_word_dash_5: arm-sniff-direct-coin-combine
-bip_39_word_dash_6: arm-sniff-direct-coin-combine-tail
-bip_39_word_dash_7: arm-sniff-direct-coin-combine-tail-enact
-bip_39_word_dash_8: arm-sniff-direct-coin-combine-tail-enact-hen
-bip_39_word_dash_9: arm-sniff-direct-coin-combine-tail-enact-hen-transfer
-bip_39_word_new_br_1: arm
-bip_39_word_new_br_10: arm<br>sniff<br>direct<br>coin<br>combine<br>tail<br>enact<br>hen<br>transfer<br>ivory
-bip_39_word_new_br_11: arm<br>sniff<br>direct<br>coin<br>combine<br>tail<br>enact<br>hen<br>transfer<br>ivory<br>neutral
 bip_39_word_new_br_12: arm<br>sniff<br>direct<br>coin<br>combine<br>tail<br>enact<br>hen<br>transfer<br>ivory<br>neutral<br>also
 bip_39_word_new_br_2: arm<br>sniff
 bip_39_word_new_br_3: arm<br>sniff<br>direct
-bip_39_word_new_br_4: arm<br>sniff<br>direct<br>coin
-bip_39_word_new_br_5: arm<br>sniff<br>direct<br>coin<br>combine
-bip_39_word_new_br_6: arm<br>sniff<br>direct<br>coin<br>combine<br>tail
-bip_39_word_new_br_7: arm<br>sniff<br>direct<br>coin<br>combine<br>tail<br>enact
-bip_39_word_new_br_8: arm<br>sniff<br>direct<br>coin<br>combine<br>tail<br>enact<br>hen
-bip_39_word_new_br_9: arm<br>sniff<br>direct<br>coin<br>combine<br>tail<br>enact<br>hen<br>transfer
-bip_39_word_new_line_1: arm
-bip_39_word_new_line_10: 'arm
-
-  sniff
-
-  direct
-
-  coin
-
-  combine
-
-  tail
-
-  enact
-
-  hen
-
-  transfer
-
-  ivory'
-bip_39_word_new_line_11: 'arm
-
-  sniff
-
-  direct
-
-  coin
-
-  combine
-
-  tail
-
-  enact
-
-  hen
-
-  transfer
-
-  ivory
-
-  neutral'
 bip_39_word_new_line_12: 'arm
 
   sniff
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'arm
   sniff
 
   direct'
-bip_39_word_new_line_4: 'arm
-
-  sniff
-
-  direct
-
-  coin'
-bip_39_word_new_line_5: 'arm
-
-  sniff
-
-  direct
-
-  coin
-
-  combine'
-bip_39_word_new_line_6: 'arm
-
-  sniff
-
-  direct
-
-  coin
-
-  combine
-
-  tail'
-bip_39_word_new_line_7: 'arm
-
-  sniff
-
-  direct
-
-  coin
-
-  combine
-
-  tail
-
-  enact'
-bip_39_word_new_line_8: 'arm
-
-  sniff
-
-  direct
-
-  coin
-
-  combine
-
-  tail
-
-  enact
-
-  hen'
-bip_39_word_new_line_9: 'arm
-
-  sniff
-
-  direct
-
-  coin
-
-  combine
-
-  tail
-
-  enact
-
-  hen
-
-  transfer'
-bip_39_word_no_space_1: arm
-bip_39_word_no_space_10: armsniffdirectcoincombinetailenacthentransferivory
-bip_39_word_no_space_11: armsniffdirectcoincombinetailenacthentransferivoryneutral
 bip_39_word_no_space_12: armsniffdirectcoincombinetailenacthentransferivoryneutralalso
 bip_39_word_no_space_2: armsniff
 bip_39_word_no_space_3: armsniffdirect
-bip_39_word_no_space_4: armsniffdirectcoin
-bip_39_word_no_space_5: armsniffdirectcoincombine
-bip_39_word_no_space_6: armsniffdirectcoincombinetail
-bip_39_word_no_space_7: armsniffdirectcoincombinetailenact
-bip_39_word_no_space_8: armsniffdirectcoincombinetailenacthen
-bip_39_word_no_space_9: armsniffdirectcoincombinetailenacthentransfer
-bip_39_word_space_0:
-- arm
-- sniff
-- direct
-- coin
-- combine
-- tail
-- enact
-- hen
-- transfer
-- ivory
-- neutral
-- also
-bip_39_word_space_1: arm
-bip_39_word_space_10: arm sniff direct coin combine tail enact hen transfer ivory
-bip_39_word_space_11: arm sniff direct coin combine tail enact hen transfer ivory
-  neutral
 bip_39_word_space_12: arm sniff direct coin combine tail enact hen transfer ivory
   neutral also
 bip_39_word_space_2: arm sniff
 bip_39_word_space_3: arm sniff direct
-bip_39_word_space_4: arm sniff direct coin
-bip_39_word_space_5: arm sniff direct coin combine
-bip_39_word_space_6: arm sniff direct coin combine tail
-bip_39_word_space_7: arm sniff direct coin combine tail enact
-bip_39_word_space_8: arm sniff direct coin combine tail enact hen
-bip_39_word_space_9: arm sniff direct coin combine tail enact hen transfer
-bip_39_word_underscore_1: arm
-bip_39_word_underscore_10: arm_sniff_direct_coin_combine_tail_enact_hen_transfer_ivory
-bip_39_word_underscore_11: arm_sniff_direct_coin_combine_tail_enact_hen_transfer_ivory_neutral
 bip_39_word_underscore_12: arm_sniff_direct_coin_combine_tail_enact_hen_transfer_ivory_neutral_also
 bip_39_word_underscore_2: arm_sniff
 bip_39_word_underscore_3: arm_sniff_direct
-bip_39_word_underscore_4: arm_sniff_direct_coin
-bip_39_word_underscore_5: arm_sniff_direct_coin_combine
-bip_39_word_underscore_6: arm_sniff_direct_coin_combine_tail
-bip_39_word_underscore_7: arm_sniff_direct_coin_combine_tail_enact
-bip_39_word_underscore_8: arm_sniff_direct_coin_combine_tail_enact_hen
-bip_39_word_underscore_9: arm_sniff_direct_coin_combine_tail_enact_hen_transfer
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

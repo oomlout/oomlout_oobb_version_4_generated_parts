@@ -1,68 +1,9 @@
-bip_39_word_dash_1: soul
-bip_39_word_dash_10: soul-route-entry-fault-timber-defy-sugar-burden-obscure-next
-bip_39_word_dash_11: soul-route-entry-fault-timber-defy-sugar-burden-obscure-next-beyond
 bip_39_word_dash_12: soul-route-entry-fault-timber-defy-sugar-burden-obscure-next-beyond-alert
 bip_39_word_dash_2: soul-route
 bip_39_word_dash_3: soul-route-entry
-bip_39_word_dash_4: soul-route-entry-fault
-bip_39_word_dash_5: soul-route-entry-fault-timber
-bip_39_word_dash_6: soul-route-entry-fault-timber-defy
-bip_39_word_dash_7: soul-route-entry-fault-timber-defy-sugar
-bip_39_word_dash_8: soul-route-entry-fault-timber-defy-sugar-burden
-bip_39_word_dash_9: soul-route-entry-fault-timber-defy-sugar-burden-obscure
-bip_39_word_new_br_1: soul
-bip_39_word_new_br_10: soul<br>route<br>entry<br>fault<br>timber<br>defy<br>sugar<br>burden<br>obscure<br>next
-bip_39_word_new_br_11: soul<br>route<br>entry<br>fault<br>timber<br>defy<br>sugar<br>burden<br>obscure<br>next<br>beyond
 bip_39_word_new_br_12: soul<br>route<br>entry<br>fault<br>timber<br>defy<br>sugar<br>burden<br>obscure<br>next<br>beyond<br>alert
 bip_39_word_new_br_2: soul<br>route
 bip_39_word_new_br_3: soul<br>route<br>entry
-bip_39_word_new_br_4: soul<br>route<br>entry<br>fault
-bip_39_word_new_br_5: soul<br>route<br>entry<br>fault<br>timber
-bip_39_word_new_br_6: soul<br>route<br>entry<br>fault<br>timber<br>defy
-bip_39_word_new_br_7: soul<br>route<br>entry<br>fault<br>timber<br>defy<br>sugar
-bip_39_word_new_br_8: soul<br>route<br>entry<br>fault<br>timber<br>defy<br>sugar<br>burden
-bip_39_word_new_br_9: soul<br>route<br>entry<br>fault<br>timber<br>defy<br>sugar<br>burden<br>obscure
-bip_39_word_new_line_1: soul
-bip_39_word_new_line_10: 'soul
-
-  route
-
-  entry
-
-  fault
-
-  timber
-
-  defy
-
-  sugar
-
-  burden
-
-  obscure
-
-  next'
-bip_39_word_new_line_11: 'soul
-
-  route
-
-  entry
-
-  fault
-
-  timber
-
-  defy
-
-  sugar
-
-  burden
-
-  obscure
-
-  next
-
-  beyond'
 bip_39_word_new_line_12: 'soul
 
   route
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'soul
   route
 
   entry'
-bip_39_word_new_line_4: 'soul
-
-  route
-
-  entry
-
-  fault'
-bip_39_word_new_line_5: 'soul
-
-  route
-
-  entry
-
-  fault
-
-  timber'
-bip_39_word_new_line_6: 'soul
-
-  route
-
-  entry
-
-  fault
-
-  timber
-
-  defy'
-bip_39_word_new_line_7: 'soul
-
-  route
-
-  entry
-
-  fault
-
-  timber
-
-  defy
-
-  sugar'
-bip_39_word_new_line_8: 'soul
-
-  route
-
-  entry
-
-  fault
-
-  timber
-
-  defy
-
-  sugar
-
-  burden'
-bip_39_word_new_line_9: 'soul
-
-  route
-
-  entry
-
-  fault
-
-  timber
-
-  defy
-
-  sugar
-
-  burden
-
-  obscure'
-bip_39_word_no_space_1: soul
-bip_39_word_no_space_10: soulrouteentryfaulttimberdefysugarburdenobscurenext
-bip_39_word_no_space_11: soulrouteentryfaulttimberdefysugarburdenobscurenextbeyond
 bip_39_word_no_space_12: soulrouteentryfaulttimberdefysugarburdenobscurenextbeyondalert
 bip_39_word_no_space_2: soulroute
 bip_39_word_no_space_3: soulrouteentry
-bip_39_word_no_space_4: soulrouteentryfault
-bip_39_word_no_space_5: soulrouteentryfaulttimber
-bip_39_word_no_space_6: soulrouteentryfaulttimberdefy
-bip_39_word_no_space_7: soulrouteentryfaulttimberdefysugar
-bip_39_word_no_space_8: soulrouteentryfaulttimberdefysugarburden
-bip_39_word_no_space_9: soulrouteentryfaulttimberdefysugarburdenobscure
-bip_39_word_space_0:
-- soul
-- route
-- entry
-- fault
-- timber
-- defy
-- sugar
-- burden
-- obscure
-- next
-- beyond
-- alert
-bip_39_word_space_1: soul
-bip_39_word_space_10: soul route entry fault timber defy sugar burden obscure next
-bip_39_word_space_11: soul route entry fault timber defy sugar burden obscure next
-  beyond
 bip_39_word_space_12: soul route entry fault timber defy sugar burden obscure next
   beyond alert
 bip_39_word_space_2: soul route
 bip_39_word_space_3: soul route entry
-bip_39_word_space_4: soul route entry fault
-bip_39_word_space_5: soul route entry fault timber
-bip_39_word_space_6: soul route entry fault timber defy
-bip_39_word_space_7: soul route entry fault timber defy sugar
-bip_39_word_space_8: soul route entry fault timber defy sugar burden
-bip_39_word_space_9: soul route entry fault timber defy sugar burden obscure
-bip_39_word_underscore_1: soul
-bip_39_word_underscore_10: soul_route_entry_fault_timber_defy_sugar_burden_obscure_next
-bip_39_word_underscore_11: soul_route_entry_fault_timber_defy_sugar_burden_obscure_next_beyond
 bip_39_word_underscore_12: soul_route_entry_fault_timber_defy_sugar_burden_obscure_next_beyond_alert
 bip_39_word_underscore_2: soul_route
 bip_39_word_underscore_3: soul_route_entry
-bip_39_word_underscore_4: soul_route_entry_fault
-bip_39_word_underscore_5: soul_route_entry_fault_timber
-bip_39_word_underscore_6: soul_route_entry_fault_timber_defy
-bip_39_word_underscore_7: soul_route_entry_fault_timber_defy_sugar
-bip_39_word_underscore_8: soul_route_entry_fault_timber_defy_sugar_burden
-bip_39_word_underscore_9: soul_route_entry_fault_timber_defy_sugar_burden_obscure
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

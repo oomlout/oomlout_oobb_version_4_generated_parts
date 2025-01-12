@@ -1,68 +1,9 @@
-bip_39_word_dash_1: risk
-bip_39_word_dash_10: risk-curious-morning-leaf-large-core-gym-wrap-tribe-share
-bip_39_word_dash_11: risk-curious-morning-leaf-large-core-gym-wrap-tribe-share-heavy
 bip_39_word_dash_12: risk-curious-morning-leaf-large-core-gym-wrap-tribe-share-heavy-alter
 bip_39_word_dash_2: risk-curious
 bip_39_word_dash_3: risk-curious-morning
-bip_39_word_dash_4: risk-curious-morning-leaf
-bip_39_word_dash_5: risk-curious-morning-leaf-large
-bip_39_word_dash_6: risk-curious-morning-leaf-large-core
-bip_39_word_dash_7: risk-curious-morning-leaf-large-core-gym
-bip_39_word_dash_8: risk-curious-morning-leaf-large-core-gym-wrap
-bip_39_word_dash_9: risk-curious-morning-leaf-large-core-gym-wrap-tribe
-bip_39_word_new_br_1: risk
-bip_39_word_new_br_10: risk<br>curious<br>morning<br>leaf<br>large<br>core<br>gym<br>wrap<br>tribe<br>share
-bip_39_word_new_br_11: risk<br>curious<br>morning<br>leaf<br>large<br>core<br>gym<br>wrap<br>tribe<br>share<br>heavy
 bip_39_word_new_br_12: risk<br>curious<br>morning<br>leaf<br>large<br>core<br>gym<br>wrap<br>tribe<br>share<br>heavy<br>alter
 bip_39_word_new_br_2: risk<br>curious
 bip_39_word_new_br_3: risk<br>curious<br>morning
-bip_39_word_new_br_4: risk<br>curious<br>morning<br>leaf
-bip_39_word_new_br_5: risk<br>curious<br>morning<br>leaf<br>large
-bip_39_word_new_br_6: risk<br>curious<br>morning<br>leaf<br>large<br>core
-bip_39_word_new_br_7: risk<br>curious<br>morning<br>leaf<br>large<br>core<br>gym
-bip_39_word_new_br_8: risk<br>curious<br>morning<br>leaf<br>large<br>core<br>gym<br>wrap
-bip_39_word_new_br_9: risk<br>curious<br>morning<br>leaf<br>large<br>core<br>gym<br>wrap<br>tribe
-bip_39_word_new_line_1: risk
-bip_39_word_new_line_10: 'risk
-
-  curious
-
-  morning
-
-  leaf
-
-  large
-
-  core
-
-  gym
-
-  wrap
-
-  tribe
-
-  share'
-bip_39_word_new_line_11: 'risk
-
-  curious
-
-  morning
-
-  leaf
-
-  large
-
-  core
-
-  gym
-
-  wrap
-
-  tribe
-
-  share
-
-  heavy'
 bip_39_word_new_line_12: 'risk
 
   curious
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'risk
   curious
 
   morning'
-bip_39_word_new_line_4: 'risk
-
-  curious
-
-  morning
-
-  leaf'
-bip_39_word_new_line_5: 'risk
-
-  curious
-
-  morning
-
-  leaf
-
-  large'
-bip_39_word_new_line_6: 'risk
-
-  curious
-
-  morning
-
-  leaf
-
-  large
-
-  core'
-bip_39_word_new_line_7: 'risk
-
-  curious
-
-  morning
-
-  leaf
-
-  large
-
-  core
-
-  gym'
-bip_39_word_new_line_8: 'risk
-
-  curious
-
-  morning
-
-  leaf
-
-  large
-
-  core
-
-  gym
-
-  wrap'
-bip_39_word_new_line_9: 'risk
-
-  curious
-
-  morning
-
-  leaf
-
-  large
-
-  core
-
-  gym
-
-  wrap
-
-  tribe'
-bip_39_word_no_space_1: risk
-bip_39_word_no_space_10: riskcuriousmorningleaflargecoregymwraptribeshare
-bip_39_word_no_space_11: riskcuriousmorningleaflargecoregymwraptribeshareheavy
 bip_39_word_no_space_12: riskcuriousmorningleaflargecoregymwraptribeshareheavyalter
 bip_39_word_no_space_2: riskcurious
 bip_39_word_no_space_3: riskcuriousmorning
-bip_39_word_no_space_4: riskcuriousmorningleaf
-bip_39_word_no_space_5: riskcuriousmorningleaflarge
-bip_39_word_no_space_6: riskcuriousmorningleaflargecore
-bip_39_word_no_space_7: riskcuriousmorningleaflargecoregym
-bip_39_word_no_space_8: riskcuriousmorningleaflargecoregymwrap
-bip_39_word_no_space_9: riskcuriousmorningleaflargecoregymwraptribe
-bip_39_word_space_0:
-- risk
-- curious
-- morning
-- leaf
-- large
-- core
-- gym
-- wrap
-- tribe
-- share
-- heavy
-- alter
-bip_39_word_space_1: risk
-bip_39_word_space_10: risk curious morning leaf large core gym wrap tribe share
-bip_39_word_space_11: risk curious morning leaf large core gym wrap tribe share heavy
 bip_39_word_space_12: risk curious morning leaf large core gym wrap tribe share heavy
   alter
 bip_39_word_space_2: risk curious
 bip_39_word_space_3: risk curious morning
-bip_39_word_space_4: risk curious morning leaf
-bip_39_word_space_5: risk curious morning leaf large
-bip_39_word_space_6: risk curious morning leaf large core
-bip_39_word_space_7: risk curious morning leaf large core gym
-bip_39_word_space_8: risk curious morning leaf large core gym wrap
-bip_39_word_space_9: risk curious morning leaf large core gym wrap tribe
-bip_39_word_underscore_1: risk
-bip_39_word_underscore_10: risk_curious_morning_leaf_large_core_gym_wrap_tribe_share
-bip_39_word_underscore_11: risk_curious_morning_leaf_large_core_gym_wrap_tribe_share_heavy
 bip_39_word_underscore_12: risk_curious_morning_leaf_large_core_gym_wrap_tribe_share_heavy_alter
 bip_39_word_underscore_2: risk_curious
 bip_39_word_underscore_3: risk_curious_morning
-bip_39_word_underscore_4: risk_curious_morning_leaf
-bip_39_word_underscore_5: risk_curious_morning_leaf_large
-bip_39_word_underscore_6: risk_curious_morning_leaf_large_core
-bip_39_word_underscore_7: risk_curious_morning_leaf_large_core_gym
-bip_39_word_underscore_8: risk_curious_morning_leaf_large_core_gym_wrap
-bip_39_word_underscore_9: risk_curious_morning_leaf_large_core_gym_wrap_tribe
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

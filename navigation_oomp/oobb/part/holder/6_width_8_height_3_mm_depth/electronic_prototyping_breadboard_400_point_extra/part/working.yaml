@@ -1,68 +1,9 @@
-bip_39_word_dash_1: render
-bip_39_word_dash_10: render-approve-story-faith-review-position-void-because-edge-faith
-bip_39_word_dash_11: render-approve-story-faith-review-position-void-because-edge-faith-spatial
 bip_39_word_dash_12: render-approve-story-faith-review-position-void-because-edge-faith-spatial-agree
 bip_39_word_dash_2: render-approve
 bip_39_word_dash_3: render-approve-story
-bip_39_word_dash_4: render-approve-story-faith
-bip_39_word_dash_5: render-approve-story-faith-review
-bip_39_word_dash_6: render-approve-story-faith-review-position
-bip_39_word_dash_7: render-approve-story-faith-review-position-void
-bip_39_word_dash_8: render-approve-story-faith-review-position-void-because
-bip_39_word_dash_9: render-approve-story-faith-review-position-void-because-edge
-bip_39_word_new_br_1: render
-bip_39_word_new_br_10: render<br>approve<br>story<br>faith<br>review<br>position<br>void<br>because<br>edge<br>faith
-bip_39_word_new_br_11: render<br>approve<br>story<br>faith<br>review<br>position<br>void<br>because<br>edge<br>faith<br>spatial
 bip_39_word_new_br_12: render<br>approve<br>story<br>faith<br>review<br>position<br>void<br>because<br>edge<br>faith<br>spatial<br>agree
 bip_39_word_new_br_2: render<br>approve
 bip_39_word_new_br_3: render<br>approve<br>story
-bip_39_word_new_br_4: render<br>approve<br>story<br>faith
-bip_39_word_new_br_5: render<br>approve<br>story<br>faith<br>review
-bip_39_word_new_br_6: render<br>approve<br>story<br>faith<br>review<br>position
-bip_39_word_new_br_7: render<br>approve<br>story<br>faith<br>review<br>position<br>void
-bip_39_word_new_br_8: render<br>approve<br>story<br>faith<br>review<br>position<br>void<br>because
-bip_39_word_new_br_9: render<br>approve<br>story<br>faith<br>review<br>position<br>void<br>because<br>edge
-bip_39_word_new_line_1: render
-bip_39_word_new_line_10: 'render
-
-  approve
-
-  story
-
-  faith
-
-  review
-
-  position
-
-  void
-
-  because
-
-  edge
-
-  faith'
-bip_39_word_new_line_11: 'render
-
-  approve
-
-  story
-
-  faith
-
-  review
-
-  position
-
-  void
-
-  because
-
-  edge
-
-  faith
-
-  spatial'
 bip_39_word_new_line_12: 'render
 
   approve
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'render
   approve
 
   story'
-bip_39_word_new_line_4: 'render
-
-  approve
-
-  story
-
-  faith'
-bip_39_word_new_line_5: 'render
-
-  approve
-
-  story
-
-  faith
-
-  review'
-bip_39_word_new_line_6: 'render
-
-  approve
-
-  story
-
-  faith
-
-  review
-
-  position'
-bip_39_word_new_line_7: 'render
-
-  approve
-
-  story
-
-  faith
-
-  review
-
-  position
-
-  void'
-bip_39_word_new_line_8: 'render
-
-  approve
-
-  story
-
-  faith
-
-  review
-
-  position
-
-  void
-
-  because'
-bip_39_word_new_line_9: 'render
-
-  approve
-
-  story
-
-  faith
-
-  review
-
-  position
-
-  void
-
-  because
-
-  edge'
-bip_39_word_no_space_1: render
-bip_39_word_no_space_10: renderapprovestoryfaithreviewpositionvoidbecauseedgefaith
-bip_39_word_no_space_11: renderapprovestoryfaithreviewpositionvoidbecauseedgefaithspatial
 bip_39_word_no_space_12: renderapprovestoryfaithreviewpositionvoidbecauseedgefaithspatialagree
 bip_39_word_no_space_2: renderapprove
 bip_39_word_no_space_3: renderapprovestory
-bip_39_word_no_space_4: renderapprovestoryfaith
-bip_39_word_no_space_5: renderapprovestoryfaithreview
-bip_39_word_no_space_6: renderapprovestoryfaithreviewposition
-bip_39_word_no_space_7: renderapprovestoryfaithreviewpositionvoid
-bip_39_word_no_space_8: renderapprovestoryfaithreviewpositionvoidbecause
-bip_39_word_no_space_9: renderapprovestoryfaithreviewpositionvoidbecauseedge
-bip_39_word_space_0:
-- render
-- approve
-- story
-- faith
-- review
-- position
-- void
-- because
-- edge
-- faith
-- spatial
-- agree
-bip_39_word_space_1: render
-bip_39_word_space_10: render approve story faith review position void because edge
-  faith
-bip_39_word_space_11: render approve story faith review position void because edge
-  faith spatial
 bip_39_word_space_12: render approve story faith review position void because edge
   faith spatial agree
 bip_39_word_space_2: render approve
 bip_39_word_space_3: render approve story
-bip_39_word_space_4: render approve story faith
-bip_39_word_space_5: render approve story faith review
-bip_39_word_space_6: render approve story faith review position
-bip_39_word_space_7: render approve story faith review position void
-bip_39_word_space_8: render approve story faith review position void because
-bip_39_word_space_9: render approve story faith review position void because edge
-bip_39_word_underscore_1: render
-bip_39_word_underscore_10: render_approve_story_faith_review_position_void_because_edge_faith
-bip_39_word_underscore_11: render_approve_story_faith_review_position_void_because_edge_faith_spatial
 bip_39_word_underscore_12: render_approve_story_faith_review_position_void_because_edge_faith_spatial_agree
 bip_39_word_underscore_2: render_approve
 bip_39_word_underscore_3: render_approve_story
-bip_39_word_underscore_4: render_approve_story_faith
-bip_39_word_underscore_5: render_approve_story_faith_review
-bip_39_word_underscore_6: render_approve_story_faith_review_position
-bip_39_word_underscore_7: render_approve_story_faith_review_position_void
-bip_39_word_underscore_8: render_approve_story_faith_review_position_void_because
-bip_39_word_underscore_9: render_approve_story_faith_review_position_void_because_edge
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

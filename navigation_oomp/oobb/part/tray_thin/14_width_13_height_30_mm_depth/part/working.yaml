@@ -1,68 +1,9 @@
-bip_39_word_dash_1: palm
-bip_39_word_dash_10: palm-breeze-foil-embrace-reopen-expose-coral-upset-airport-rubber
-bip_39_word_dash_11: palm-breeze-foil-embrace-reopen-expose-coral-upset-airport-rubber-swap
 bip_39_word_dash_12: palm-breeze-foil-embrace-reopen-expose-coral-upset-airport-rubber-swap-avocado
 bip_39_word_dash_2: palm-breeze
 bip_39_word_dash_3: palm-breeze-foil
-bip_39_word_dash_4: palm-breeze-foil-embrace
-bip_39_word_dash_5: palm-breeze-foil-embrace-reopen
-bip_39_word_dash_6: palm-breeze-foil-embrace-reopen-expose
-bip_39_word_dash_7: palm-breeze-foil-embrace-reopen-expose-coral
-bip_39_word_dash_8: palm-breeze-foil-embrace-reopen-expose-coral-upset
-bip_39_word_dash_9: palm-breeze-foil-embrace-reopen-expose-coral-upset-airport
-bip_39_word_new_br_1: palm
-bip_39_word_new_br_10: palm<br>breeze<br>foil<br>embrace<br>reopen<br>expose<br>coral<br>upset<br>airport<br>rubber
-bip_39_word_new_br_11: palm<br>breeze<br>foil<br>embrace<br>reopen<br>expose<br>coral<br>upset<br>airport<br>rubber<br>swap
 bip_39_word_new_br_12: palm<br>breeze<br>foil<br>embrace<br>reopen<br>expose<br>coral<br>upset<br>airport<br>rubber<br>swap<br>avocado
 bip_39_word_new_br_2: palm<br>breeze
 bip_39_word_new_br_3: palm<br>breeze<br>foil
-bip_39_word_new_br_4: palm<br>breeze<br>foil<br>embrace
-bip_39_word_new_br_5: palm<br>breeze<br>foil<br>embrace<br>reopen
-bip_39_word_new_br_6: palm<br>breeze<br>foil<br>embrace<br>reopen<br>expose
-bip_39_word_new_br_7: palm<br>breeze<br>foil<br>embrace<br>reopen<br>expose<br>coral
-bip_39_word_new_br_8: palm<br>breeze<br>foil<br>embrace<br>reopen<br>expose<br>coral<br>upset
-bip_39_word_new_br_9: palm<br>breeze<br>foil<br>embrace<br>reopen<br>expose<br>coral<br>upset<br>airport
-bip_39_word_new_line_1: palm
-bip_39_word_new_line_10: 'palm
-
-  breeze
-
-  foil
-
-  embrace
-
-  reopen
-
-  expose
-
-  coral
-
-  upset
-
-  airport
-
-  rubber'
-bip_39_word_new_line_11: 'palm
-
-  breeze
-
-  foil
-
-  embrace
-
-  reopen
-
-  expose
-
-  coral
-
-  upset
-
-  airport
-
-  rubber
-
-  swap'
 bip_39_word_new_line_12: 'palm
 
   breeze
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'palm
   breeze
 
   foil'
-bip_39_word_new_line_4: 'palm
-
-  breeze
-
-  foil
-
-  embrace'
-bip_39_word_new_line_5: 'palm
-
-  breeze
-
-  foil
-
-  embrace
-
-  reopen'
-bip_39_word_new_line_6: 'palm
-
-  breeze
-
-  foil
-
-  embrace
-
-  reopen
-
-  expose'
-bip_39_word_new_line_7: 'palm
-
-  breeze
-
-  foil
-
-  embrace
-
-  reopen
-
-  expose
-
-  coral'
-bip_39_word_new_line_8: 'palm
-
-  breeze
-
-  foil
-
-  embrace
-
-  reopen
-
-  expose
-
-  coral
-
-  upset'
-bip_39_word_new_line_9: 'palm
-
-  breeze
-
-  foil
-
-  embrace
-
-  reopen
-
-  expose
-
-  coral
-
-  upset
-
-  airport'
-bip_39_word_no_space_1: palm
-bip_39_word_no_space_10: palmbreezefoilembracereopenexposecoralupsetairportrubber
-bip_39_word_no_space_11: palmbreezefoilembracereopenexposecoralupsetairportrubberswap
 bip_39_word_no_space_12: palmbreezefoilembracereopenexposecoralupsetairportrubberswapavocado
 bip_39_word_no_space_2: palmbreeze
 bip_39_word_no_space_3: palmbreezefoil
-bip_39_word_no_space_4: palmbreezefoilembrace
-bip_39_word_no_space_5: palmbreezefoilembracereopen
-bip_39_word_no_space_6: palmbreezefoilembracereopenexpose
-bip_39_word_no_space_7: palmbreezefoilembracereopenexposecoral
-bip_39_word_no_space_8: palmbreezefoilembracereopenexposecoralupset
-bip_39_word_no_space_9: palmbreezefoilembracereopenexposecoralupsetairport
-bip_39_word_space_0:
-- palm
-- breeze
-- foil
-- embrace
-- reopen
-- expose
-- coral
-- upset
-- airport
-- rubber
-- swap
-- avocado
-bip_39_word_space_1: palm
-bip_39_word_space_10: palm breeze foil embrace reopen expose coral upset airport rubber
-bip_39_word_space_11: palm breeze foil embrace reopen expose coral upset airport rubber
-  swap
 bip_39_word_space_12: palm breeze foil embrace reopen expose coral upset airport rubber
   swap avocado
 bip_39_word_space_2: palm breeze
 bip_39_word_space_3: palm breeze foil
-bip_39_word_space_4: palm breeze foil embrace
-bip_39_word_space_5: palm breeze foil embrace reopen
-bip_39_word_space_6: palm breeze foil embrace reopen expose
-bip_39_word_space_7: palm breeze foil embrace reopen expose coral
-bip_39_word_space_8: palm breeze foil embrace reopen expose coral upset
-bip_39_word_space_9: palm breeze foil embrace reopen expose coral upset airport
-bip_39_word_underscore_1: palm
-bip_39_word_underscore_10: palm_breeze_foil_embrace_reopen_expose_coral_upset_airport_rubber
-bip_39_word_underscore_11: palm_breeze_foil_embrace_reopen_expose_coral_upset_airport_rubber_swap
 bip_39_word_underscore_12: palm_breeze_foil_embrace_reopen_expose_coral_upset_airport_rubber_swap_avocado
 bip_39_word_underscore_2: palm_breeze
 bip_39_word_underscore_3: palm_breeze_foil
-bip_39_word_underscore_4: palm_breeze_foil_embrace
-bip_39_word_underscore_5: palm_breeze_foil_embrace_reopen
-bip_39_word_underscore_6: palm_breeze_foil_embrace_reopen_expose
-bip_39_word_underscore_7: palm_breeze_foil_embrace_reopen_expose_coral
-bip_39_word_underscore_8: palm_breeze_foil_embrace_reopen_expose_coral_upset
-bip_39_word_underscore_9: palm_breeze_foil_embrace_reopen_expose_coral_upset_airport
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

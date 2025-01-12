@@ -1,68 +1,9 @@
-bip_39_word_dash_1: drive
-bip_39_word_dash_10: drive-fade-vessel-brush-dragon-orient-monster-general-evoke-object
-bip_39_word_dash_11: drive-fade-vessel-brush-dragon-orient-monster-general-evoke-object-hurt
 bip_39_word_dash_12: drive-fade-vessel-brush-dragon-orient-monster-general-evoke-object-hurt-account
 bip_39_word_dash_2: drive-fade
 bip_39_word_dash_3: drive-fade-vessel
-bip_39_word_dash_4: drive-fade-vessel-brush
-bip_39_word_dash_5: drive-fade-vessel-brush-dragon
-bip_39_word_dash_6: drive-fade-vessel-brush-dragon-orient
-bip_39_word_dash_7: drive-fade-vessel-brush-dragon-orient-monster
-bip_39_word_dash_8: drive-fade-vessel-brush-dragon-orient-monster-general
-bip_39_word_dash_9: drive-fade-vessel-brush-dragon-orient-monster-general-evoke
-bip_39_word_new_br_1: drive
-bip_39_word_new_br_10: drive<br>fade<br>vessel<br>brush<br>dragon<br>orient<br>monster<br>general<br>evoke<br>object
-bip_39_word_new_br_11: drive<br>fade<br>vessel<br>brush<br>dragon<br>orient<br>monster<br>general<br>evoke<br>object<br>hurt
 bip_39_word_new_br_12: drive<br>fade<br>vessel<br>brush<br>dragon<br>orient<br>monster<br>general<br>evoke<br>object<br>hurt<br>account
 bip_39_word_new_br_2: drive<br>fade
 bip_39_word_new_br_3: drive<br>fade<br>vessel
-bip_39_word_new_br_4: drive<br>fade<br>vessel<br>brush
-bip_39_word_new_br_5: drive<br>fade<br>vessel<br>brush<br>dragon
-bip_39_word_new_br_6: drive<br>fade<br>vessel<br>brush<br>dragon<br>orient
-bip_39_word_new_br_7: drive<br>fade<br>vessel<br>brush<br>dragon<br>orient<br>monster
-bip_39_word_new_br_8: drive<br>fade<br>vessel<br>brush<br>dragon<br>orient<br>monster<br>general
-bip_39_word_new_br_9: drive<br>fade<br>vessel<br>brush<br>dragon<br>orient<br>monster<br>general<br>evoke
-bip_39_word_new_line_1: drive
-bip_39_word_new_line_10: 'drive
-
-  fade
-
-  vessel
-
-  brush
-
-  dragon
-
-  orient
-
-  monster
-
-  general
-
-  evoke
-
-  object'
-bip_39_word_new_line_11: 'drive
-
-  fade
-
-  vessel
-
-  brush
-
-  dragon
-
-  orient
-
-  monster
-
-  general
-
-  evoke
-
-  object
-
-  hurt'
 bip_39_word_new_line_12: 'drive
 
   fade
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'drive
   fade
 
   vessel'
-bip_39_word_new_line_4: 'drive
-
-  fade
-
-  vessel
-
-  brush'
-bip_39_word_new_line_5: 'drive
-
-  fade
-
-  vessel
-
-  brush
-
-  dragon'
-bip_39_word_new_line_6: 'drive
-
-  fade
-
-  vessel
-
-  brush
-
-  dragon
-
-  orient'
-bip_39_word_new_line_7: 'drive
-
-  fade
-
-  vessel
-
-  brush
-
-  dragon
-
-  orient
-
-  monster'
-bip_39_word_new_line_8: 'drive
-
-  fade
-
-  vessel
-
-  brush
-
-  dragon
-
-  orient
-
-  monster
-
-  general'
-bip_39_word_new_line_9: 'drive
-
-  fade
-
-  vessel
-
-  brush
-
-  dragon
-
-  orient
-
-  monster
-
-  general
-
-  evoke'
-bip_39_word_no_space_1: drive
-bip_39_word_no_space_10: drivefadevesselbrushdragonorientmonstergeneralevokeobject
-bip_39_word_no_space_11: drivefadevesselbrushdragonorientmonstergeneralevokeobjecthurt
 bip_39_word_no_space_12: drivefadevesselbrushdragonorientmonstergeneralevokeobjecthurtaccount
 bip_39_word_no_space_2: drivefade
 bip_39_word_no_space_3: drivefadevessel
-bip_39_word_no_space_4: drivefadevesselbrush
-bip_39_word_no_space_5: drivefadevesselbrushdragon
-bip_39_word_no_space_6: drivefadevesselbrushdragonorient
-bip_39_word_no_space_7: drivefadevesselbrushdragonorientmonster
-bip_39_word_no_space_8: drivefadevesselbrushdragonorientmonstergeneral
-bip_39_word_no_space_9: drivefadevesselbrushdragonorientmonstergeneralevoke
-bip_39_word_space_0:
-- drive
-- fade
-- vessel
-- brush
-- dragon
-- orient
-- monster
-- general
-- evoke
-- object
-- hurt
-- account
-bip_39_word_space_1: drive
-bip_39_word_space_10: drive fade vessel brush dragon orient monster general evoke
-  object
-bip_39_word_space_11: drive fade vessel brush dragon orient monster general evoke
-  object hurt
 bip_39_word_space_12: drive fade vessel brush dragon orient monster general evoke
   object hurt account
 bip_39_word_space_2: drive fade
 bip_39_word_space_3: drive fade vessel
-bip_39_word_space_4: drive fade vessel brush
-bip_39_word_space_5: drive fade vessel brush dragon
-bip_39_word_space_6: drive fade vessel brush dragon orient
-bip_39_word_space_7: drive fade vessel brush dragon orient monster
-bip_39_word_space_8: drive fade vessel brush dragon orient monster general
-bip_39_word_space_9: drive fade vessel brush dragon orient monster general evoke
-bip_39_word_underscore_1: drive
-bip_39_word_underscore_10: drive_fade_vessel_brush_dragon_orient_monster_general_evoke_object
-bip_39_word_underscore_11: drive_fade_vessel_brush_dragon_orient_monster_general_evoke_object_hurt
 bip_39_word_underscore_12: drive_fade_vessel_brush_dragon_orient_monster_general_evoke_object_hurt_account
 bip_39_word_underscore_2: drive_fade
 bip_39_word_underscore_3: drive_fade_vessel
-bip_39_word_underscore_4: drive_fade_vessel_brush
-bip_39_word_underscore_5: drive_fade_vessel_brush_dragon
-bip_39_word_underscore_6: drive_fade_vessel_brush_dragon_orient
-bip_39_word_underscore_7: drive_fade_vessel_brush_dragon_orient_monster
-bip_39_word_underscore_8: drive_fade_vessel_brush_dragon_orient_monster_general
-bip_39_word_underscore_9: drive_fade_vessel_brush_dragon_orient_monster_general_evoke
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

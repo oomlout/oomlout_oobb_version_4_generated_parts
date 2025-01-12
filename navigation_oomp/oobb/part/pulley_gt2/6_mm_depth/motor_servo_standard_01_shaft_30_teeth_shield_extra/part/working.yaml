@@ -1,68 +1,9 @@
-bip_39_word_dash_1: hedgehog
-bip_39_word_dash_10: hedgehog-bring-clay-rug-clap-staff-meadow-audit-suffer-sing
-bip_39_word_dash_11: hedgehog-bring-clay-rug-clap-staff-meadow-audit-suffer-sing-rescue
 bip_39_word_dash_12: hedgehog-bring-clay-rug-clap-staff-meadow-audit-suffer-sing-rescue-ankle
 bip_39_word_dash_2: hedgehog-bring
 bip_39_word_dash_3: hedgehog-bring-clay
-bip_39_word_dash_4: hedgehog-bring-clay-rug
-bip_39_word_dash_5: hedgehog-bring-clay-rug-clap
-bip_39_word_dash_6: hedgehog-bring-clay-rug-clap-staff
-bip_39_word_dash_7: hedgehog-bring-clay-rug-clap-staff-meadow
-bip_39_word_dash_8: hedgehog-bring-clay-rug-clap-staff-meadow-audit
-bip_39_word_dash_9: hedgehog-bring-clay-rug-clap-staff-meadow-audit-suffer
-bip_39_word_new_br_1: hedgehog
-bip_39_word_new_br_10: hedgehog<br>bring<br>clay<br>rug<br>clap<br>staff<br>meadow<br>audit<br>suffer<br>sing
-bip_39_word_new_br_11: hedgehog<br>bring<br>clay<br>rug<br>clap<br>staff<br>meadow<br>audit<br>suffer<br>sing<br>rescue
 bip_39_word_new_br_12: hedgehog<br>bring<br>clay<br>rug<br>clap<br>staff<br>meadow<br>audit<br>suffer<br>sing<br>rescue<br>ankle
 bip_39_word_new_br_2: hedgehog<br>bring
 bip_39_word_new_br_3: hedgehog<br>bring<br>clay
-bip_39_word_new_br_4: hedgehog<br>bring<br>clay<br>rug
-bip_39_word_new_br_5: hedgehog<br>bring<br>clay<br>rug<br>clap
-bip_39_word_new_br_6: hedgehog<br>bring<br>clay<br>rug<br>clap<br>staff
-bip_39_word_new_br_7: hedgehog<br>bring<br>clay<br>rug<br>clap<br>staff<br>meadow
-bip_39_word_new_br_8: hedgehog<br>bring<br>clay<br>rug<br>clap<br>staff<br>meadow<br>audit
-bip_39_word_new_br_9: hedgehog<br>bring<br>clay<br>rug<br>clap<br>staff<br>meadow<br>audit<br>suffer
-bip_39_word_new_line_1: hedgehog
-bip_39_word_new_line_10: 'hedgehog
-
-  bring
-
-  clay
-
-  rug
-
-  clap
-
-  staff
-
-  meadow
-
-  audit
-
-  suffer
-
-  sing'
-bip_39_word_new_line_11: 'hedgehog
-
-  bring
-
-  clay
-
-  rug
-
-  clap
-
-  staff
-
-  meadow
-
-  audit
-
-  suffer
-
-  sing
-
-  rescue'
 bip_39_word_new_line_12: 'hedgehog
 
   bring
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'hedgehog
   bring
 
   clay'
-bip_39_word_new_line_4: 'hedgehog
-
-  bring
-
-  clay
-
-  rug'
-bip_39_word_new_line_5: 'hedgehog
-
-  bring
-
-  clay
-
-  rug
-
-  clap'
-bip_39_word_new_line_6: 'hedgehog
-
-  bring
-
-  clay
-
-  rug
-
-  clap
-
-  staff'
-bip_39_word_new_line_7: 'hedgehog
-
-  bring
-
-  clay
-
-  rug
-
-  clap
-
-  staff
-
-  meadow'
-bip_39_word_new_line_8: 'hedgehog
-
-  bring
-
-  clay
-
-  rug
-
-  clap
-
-  staff
-
-  meadow
-
-  audit'
-bip_39_word_new_line_9: 'hedgehog
-
-  bring
-
-  clay
-
-  rug
-
-  clap
-
-  staff
-
-  meadow
-
-  audit
-
-  suffer'
-bip_39_word_no_space_1: hedgehog
-bip_39_word_no_space_10: hedgehogbringclayrugclapstaffmeadowauditsuffersing
-bip_39_word_no_space_11: hedgehogbringclayrugclapstaffmeadowauditsuffersingrescue
 bip_39_word_no_space_12: hedgehogbringclayrugclapstaffmeadowauditsuffersingrescueankle
 bip_39_word_no_space_2: hedgehogbring
 bip_39_word_no_space_3: hedgehogbringclay
-bip_39_word_no_space_4: hedgehogbringclayrug
-bip_39_word_no_space_5: hedgehogbringclayrugclap
-bip_39_word_no_space_6: hedgehogbringclayrugclapstaff
-bip_39_word_no_space_7: hedgehogbringclayrugclapstaffmeadow
-bip_39_word_no_space_8: hedgehogbringclayrugclapstaffmeadowaudit
-bip_39_word_no_space_9: hedgehogbringclayrugclapstaffmeadowauditsuffer
-bip_39_word_space_0:
-- hedgehog
-- bring
-- clay
-- rug
-- clap
-- staff
-- meadow
-- audit
-- suffer
-- sing
-- rescue
-- ankle
-bip_39_word_space_1: hedgehog
-bip_39_word_space_10: hedgehog bring clay rug clap staff meadow audit suffer sing
-bip_39_word_space_11: hedgehog bring clay rug clap staff meadow audit suffer sing
-  rescue
 bip_39_word_space_12: hedgehog bring clay rug clap staff meadow audit suffer sing
   rescue ankle
 bip_39_word_space_2: hedgehog bring
 bip_39_word_space_3: hedgehog bring clay
-bip_39_word_space_4: hedgehog bring clay rug
-bip_39_word_space_5: hedgehog bring clay rug clap
-bip_39_word_space_6: hedgehog bring clay rug clap staff
-bip_39_word_space_7: hedgehog bring clay rug clap staff meadow
-bip_39_word_space_8: hedgehog bring clay rug clap staff meadow audit
-bip_39_word_space_9: hedgehog bring clay rug clap staff meadow audit suffer
-bip_39_word_underscore_1: hedgehog
-bip_39_word_underscore_10: hedgehog_bring_clay_rug_clap_staff_meadow_audit_suffer_sing
-bip_39_word_underscore_11: hedgehog_bring_clay_rug_clap_staff_meadow_audit_suffer_sing_rescue
 bip_39_word_underscore_12: hedgehog_bring_clay_rug_clap_staff_meadow_audit_suffer_sing_rescue_ankle
 bip_39_word_underscore_2: hedgehog_bring
 bip_39_word_underscore_3: hedgehog_bring_clay
-bip_39_word_underscore_4: hedgehog_bring_clay_rug
-bip_39_word_underscore_5: hedgehog_bring_clay_rug_clap
-bip_39_word_underscore_6: hedgehog_bring_clay_rug_clap_staff
-bip_39_word_underscore_7: hedgehog_bring_clay_rug_clap_staff_meadow
-bip_39_word_underscore_8: hedgehog_bring_clay_rug_clap_staff_meadow_audit
-bip_39_word_underscore_9: hedgehog_bring_clay_rug_clap_staff_meadow_audit_suffer
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

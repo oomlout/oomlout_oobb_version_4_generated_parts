@@ -1,69 +1,10 @@
 bearing_name: '6814'
-bip_39_word_dash_1: order
-bip_39_word_dash_10: order-course-angle-never-dilemma-fresh-service-explain-grow-there
-bip_39_word_dash_11: order-course-angle-never-dilemma-fresh-service-explain-grow-there-liar
 bip_39_word_dash_12: order-course-angle-never-dilemma-fresh-service-explain-grow-there-liar-adapt
 bip_39_word_dash_2: order-course
 bip_39_word_dash_3: order-course-angle
-bip_39_word_dash_4: order-course-angle-never
-bip_39_word_dash_5: order-course-angle-never-dilemma
-bip_39_word_dash_6: order-course-angle-never-dilemma-fresh
-bip_39_word_dash_7: order-course-angle-never-dilemma-fresh-service
-bip_39_word_dash_8: order-course-angle-never-dilemma-fresh-service-explain
-bip_39_word_dash_9: order-course-angle-never-dilemma-fresh-service-explain-grow
-bip_39_word_new_br_1: order
-bip_39_word_new_br_10: order<br>course<br>angle<br>never<br>dilemma<br>fresh<br>service<br>explain<br>grow<br>there
-bip_39_word_new_br_11: order<br>course<br>angle<br>never<br>dilemma<br>fresh<br>service<br>explain<br>grow<br>there<br>liar
 bip_39_word_new_br_12: order<br>course<br>angle<br>never<br>dilemma<br>fresh<br>service<br>explain<br>grow<br>there<br>liar<br>adapt
 bip_39_word_new_br_2: order<br>course
 bip_39_word_new_br_3: order<br>course<br>angle
-bip_39_word_new_br_4: order<br>course<br>angle<br>never
-bip_39_word_new_br_5: order<br>course<br>angle<br>never<br>dilemma
-bip_39_word_new_br_6: order<br>course<br>angle<br>never<br>dilemma<br>fresh
-bip_39_word_new_br_7: order<br>course<br>angle<br>never<br>dilemma<br>fresh<br>service
-bip_39_word_new_br_8: order<br>course<br>angle<br>never<br>dilemma<br>fresh<br>service<br>explain
-bip_39_word_new_br_9: order<br>course<br>angle<br>never<br>dilemma<br>fresh<br>service<br>explain<br>grow
-bip_39_word_new_line_1: order
-bip_39_word_new_line_10: 'order
-
-  course
-
-  angle
-
-  never
-
-  dilemma
-
-  fresh
-
-  service
-
-  explain
-
-  grow
-
-  there'
-bip_39_word_new_line_11: 'order
-
-  course
-
-  angle
-
-  never
-
-  dilemma
-
-  fresh
-
-  service
-
-  explain
-
-  grow
-
-  there
-
-  liar'
 bip_39_word_new_line_12: 'order
 
   course
@@ -95,130 +36,16 @@ bip_39_word_new_line_3: 'order
   course
 
   angle'
-bip_39_word_new_line_4: 'order
-
-  course
-
-  angle
-
-  never'
-bip_39_word_new_line_5: 'order
-
-  course
-
-  angle
-
-  never
-
-  dilemma'
-bip_39_word_new_line_6: 'order
-
-  course
-
-  angle
-
-  never
-
-  dilemma
-
-  fresh'
-bip_39_word_new_line_7: 'order
-
-  course
-
-  angle
-
-  never
-
-  dilemma
-
-  fresh
-
-  service'
-bip_39_word_new_line_8: 'order
-
-  course
-
-  angle
-
-  never
-
-  dilemma
-
-  fresh
-
-  service
-
-  explain'
-bip_39_word_new_line_9: 'order
-
-  course
-
-  angle
-
-  never
-
-  dilemma
-
-  fresh
-
-  service
-
-  explain
-
-  grow'
-bip_39_word_no_space_1: order
-bip_39_word_no_space_10: ordercourseangleneverdilemmafreshserviceexplaingrowthere
-bip_39_word_no_space_11: ordercourseangleneverdilemmafreshserviceexplaingrowthereliar
 bip_39_word_no_space_12: ordercourseangleneverdilemmafreshserviceexplaingrowthereliaradapt
 bip_39_word_no_space_2: ordercourse
 bip_39_word_no_space_3: ordercourseangle
-bip_39_word_no_space_4: ordercourseanglenever
-bip_39_word_no_space_5: ordercourseangleneverdilemma
-bip_39_word_no_space_6: ordercourseangleneverdilemmafresh
-bip_39_word_no_space_7: ordercourseangleneverdilemmafreshservice
-bip_39_word_no_space_8: ordercourseangleneverdilemmafreshserviceexplain
-bip_39_word_no_space_9: ordercourseangleneverdilemmafreshserviceexplaingrow
-bip_39_word_space_0:
-- order
-- course
-- angle
-- never
-- dilemma
-- fresh
-- service
-- explain
-- grow
-- there
-- liar
-- adapt
-bip_39_word_space_1: order
-bip_39_word_space_10: order course angle never dilemma fresh service explain grow
-  there
-bip_39_word_space_11: order course angle never dilemma fresh service explain grow
-  there liar
 bip_39_word_space_12: order course angle never dilemma fresh service explain grow
   there liar adapt
 bip_39_word_space_2: order course
 bip_39_word_space_3: order course angle
-bip_39_word_space_4: order course angle never
-bip_39_word_space_5: order course angle never dilemma
-bip_39_word_space_6: order course angle never dilemma fresh
-bip_39_word_space_7: order course angle never dilemma fresh service
-bip_39_word_space_8: order course angle never dilemma fresh service explain
-bip_39_word_space_9: order course angle never dilemma fresh service explain grow
-bip_39_word_underscore_1: order
-bip_39_word_underscore_10: order_course_angle_never_dilemma_fresh_service_explain_grow_there
-bip_39_word_underscore_11: order_course_angle_never_dilemma_fresh_service_explain_grow_there_liar
 bip_39_word_underscore_12: order_course_angle_never_dilemma_fresh_service_explain_grow_there_liar_adapt
 bip_39_word_underscore_2: order_course
 bip_39_word_underscore_3: order_course_angle
-bip_39_word_underscore_4: order_course_angle_never
-bip_39_word_underscore_5: order_course_angle_never_dilemma
-bip_39_word_underscore_6: order_course_angle_never_dilemma_fresh
-bip_39_word_underscore_7: order_course_angle_never_dilemma_fresh_service
-bip_39_word_underscore_8: order_course_angle_never_dilemma_fresh_service_explain
-bip_39_word_underscore_9: order_course_angle_never_dilemma_fresh_service_explain_grow
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

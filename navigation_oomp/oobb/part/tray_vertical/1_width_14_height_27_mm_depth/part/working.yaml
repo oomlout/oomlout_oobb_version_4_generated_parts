@@ -1,68 +1,9 @@
-bip_39_word_dash_1: pulse
-bip_39_word_dash_10: pulse-fault-toilet-guitar-alter-crane-mixed-raccoon-about-ecology
-bip_39_word_dash_11: pulse-fault-toilet-guitar-alter-crane-mixed-raccoon-about-ecology-detect
 bip_39_word_dash_12: pulse-fault-toilet-guitar-alter-crane-mixed-raccoon-about-ecology-detect-alter
 bip_39_word_dash_2: pulse-fault
 bip_39_word_dash_3: pulse-fault-toilet
-bip_39_word_dash_4: pulse-fault-toilet-guitar
-bip_39_word_dash_5: pulse-fault-toilet-guitar-alter
-bip_39_word_dash_6: pulse-fault-toilet-guitar-alter-crane
-bip_39_word_dash_7: pulse-fault-toilet-guitar-alter-crane-mixed
-bip_39_word_dash_8: pulse-fault-toilet-guitar-alter-crane-mixed-raccoon
-bip_39_word_dash_9: pulse-fault-toilet-guitar-alter-crane-mixed-raccoon-about
-bip_39_word_new_br_1: pulse
-bip_39_word_new_br_10: pulse<br>fault<br>toilet<br>guitar<br>alter<br>crane<br>mixed<br>raccoon<br>about<br>ecology
-bip_39_word_new_br_11: pulse<br>fault<br>toilet<br>guitar<br>alter<br>crane<br>mixed<br>raccoon<br>about<br>ecology<br>detect
 bip_39_word_new_br_12: pulse<br>fault<br>toilet<br>guitar<br>alter<br>crane<br>mixed<br>raccoon<br>about<br>ecology<br>detect<br>alter
 bip_39_word_new_br_2: pulse<br>fault
 bip_39_word_new_br_3: pulse<br>fault<br>toilet
-bip_39_word_new_br_4: pulse<br>fault<br>toilet<br>guitar
-bip_39_word_new_br_5: pulse<br>fault<br>toilet<br>guitar<br>alter
-bip_39_word_new_br_6: pulse<br>fault<br>toilet<br>guitar<br>alter<br>crane
-bip_39_word_new_br_7: pulse<br>fault<br>toilet<br>guitar<br>alter<br>crane<br>mixed
-bip_39_word_new_br_8: pulse<br>fault<br>toilet<br>guitar<br>alter<br>crane<br>mixed<br>raccoon
-bip_39_word_new_br_9: pulse<br>fault<br>toilet<br>guitar<br>alter<br>crane<br>mixed<br>raccoon<br>about
-bip_39_word_new_line_1: pulse
-bip_39_word_new_line_10: 'pulse
-
-  fault
-
-  toilet
-
-  guitar
-
-  alter
-
-  crane
-
-  mixed
-
-  raccoon
-
-  about
-
-  ecology'
-bip_39_word_new_line_11: 'pulse
-
-  fault
-
-  toilet
-
-  guitar
-
-  alter
-
-  crane
-
-  mixed
-
-  raccoon
-
-  about
-
-  ecology
-
-  detect'
 bip_39_word_new_line_12: 'pulse
 
   fault
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'pulse
   fault
 
   toilet'
-bip_39_word_new_line_4: 'pulse
-
-  fault
-
-  toilet
-
-  guitar'
-bip_39_word_new_line_5: 'pulse
-
-  fault
-
-  toilet
-
-  guitar
-
-  alter'
-bip_39_word_new_line_6: 'pulse
-
-  fault
-
-  toilet
-
-  guitar
-
-  alter
-
-  crane'
-bip_39_word_new_line_7: 'pulse
-
-  fault
-
-  toilet
-
-  guitar
-
-  alter
-
-  crane
-
-  mixed'
-bip_39_word_new_line_8: 'pulse
-
-  fault
-
-  toilet
-
-  guitar
-
-  alter
-
-  crane
-
-  mixed
-
-  raccoon'
-bip_39_word_new_line_9: 'pulse
-
-  fault
-
-  toilet
-
-  guitar
-
-  alter
-
-  crane
-
-  mixed
-
-  raccoon
-
-  about'
-bip_39_word_no_space_1: pulse
-bip_39_word_no_space_10: pulsefaulttoiletguitaraltercranemixedraccoonaboutecology
-bip_39_word_no_space_11: pulsefaulttoiletguitaraltercranemixedraccoonaboutecologydetect
 bip_39_word_no_space_12: pulsefaulttoiletguitaraltercranemixedraccoonaboutecologydetectalter
 bip_39_word_no_space_2: pulsefault
 bip_39_word_no_space_3: pulsefaulttoilet
-bip_39_word_no_space_4: pulsefaulttoiletguitar
-bip_39_word_no_space_5: pulsefaulttoiletguitaralter
-bip_39_word_no_space_6: pulsefaulttoiletguitaraltercrane
-bip_39_word_no_space_7: pulsefaulttoiletguitaraltercranemixed
-bip_39_word_no_space_8: pulsefaulttoiletguitaraltercranemixedraccoon
-bip_39_word_no_space_9: pulsefaulttoiletguitaraltercranemixedraccoonabout
-bip_39_word_space_0:
-- pulse
-- fault
-- toilet
-- guitar
-- alter
-- crane
-- mixed
-- raccoon
-- about
-- ecology
-- detect
-- alter
-bip_39_word_space_1: pulse
-bip_39_word_space_10: pulse fault toilet guitar alter crane mixed raccoon about ecology
-bip_39_word_space_11: pulse fault toilet guitar alter crane mixed raccoon about ecology
-  detect
 bip_39_word_space_12: pulse fault toilet guitar alter crane mixed raccoon about ecology
   detect alter
 bip_39_word_space_2: pulse fault
 bip_39_word_space_3: pulse fault toilet
-bip_39_word_space_4: pulse fault toilet guitar
-bip_39_word_space_5: pulse fault toilet guitar alter
-bip_39_word_space_6: pulse fault toilet guitar alter crane
-bip_39_word_space_7: pulse fault toilet guitar alter crane mixed
-bip_39_word_space_8: pulse fault toilet guitar alter crane mixed raccoon
-bip_39_word_space_9: pulse fault toilet guitar alter crane mixed raccoon about
-bip_39_word_underscore_1: pulse
-bip_39_word_underscore_10: pulse_fault_toilet_guitar_alter_crane_mixed_raccoon_about_ecology
-bip_39_word_underscore_11: pulse_fault_toilet_guitar_alter_crane_mixed_raccoon_about_ecology_detect
 bip_39_word_underscore_12: pulse_fault_toilet_guitar_alter_crane_mixed_raccoon_about_ecology_detect_alter
 bip_39_word_underscore_2: pulse_fault
 bip_39_word_underscore_3: pulse_fault_toilet
-bip_39_word_underscore_4: pulse_fault_toilet_guitar
-bip_39_word_underscore_5: pulse_fault_toilet_guitar_alter
-bip_39_word_underscore_6: pulse_fault_toilet_guitar_alter_crane
-bip_39_word_underscore_7: pulse_fault_toilet_guitar_alter_crane_mixed
-bip_39_word_underscore_8: pulse_fault_toilet_guitar_alter_crane_mixed_raccoon
-bip_39_word_underscore_9: pulse_fault_toilet_guitar_alter_crane_mixed_raccoon_about
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

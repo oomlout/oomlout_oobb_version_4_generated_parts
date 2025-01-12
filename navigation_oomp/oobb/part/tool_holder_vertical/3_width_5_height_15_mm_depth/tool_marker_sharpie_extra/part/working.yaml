@@ -1,68 +1,9 @@
-bip_39_word_dash_1: ensure
-bip_39_word_dash_10: ensure-curious-modify-potato-denial-choose-squirrel-face-sword-cinnamon
-bip_39_word_dash_11: ensure-curious-modify-potato-denial-choose-squirrel-face-sword-cinnamon-boss
 bip_39_word_dash_12: ensure-curious-modify-potato-denial-choose-squirrel-face-sword-cinnamon-boss-absurd
 bip_39_word_dash_2: ensure-curious
 bip_39_word_dash_3: ensure-curious-modify
-bip_39_word_dash_4: ensure-curious-modify-potato
-bip_39_word_dash_5: ensure-curious-modify-potato-denial
-bip_39_word_dash_6: ensure-curious-modify-potato-denial-choose
-bip_39_word_dash_7: ensure-curious-modify-potato-denial-choose-squirrel
-bip_39_word_dash_8: ensure-curious-modify-potato-denial-choose-squirrel-face
-bip_39_word_dash_9: ensure-curious-modify-potato-denial-choose-squirrel-face-sword
-bip_39_word_new_br_1: ensure
-bip_39_word_new_br_10: ensure<br>curious<br>modify<br>potato<br>denial<br>choose<br>squirrel<br>face<br>sword<br>cinnamon
-bip_39_word_new_br_11: ensure<br>curious<br>modify<br>potato<br>denial<br>choose<br>squirrel<br>face<br>sword<br>cinnamon<br>boss
 bip_39_word_new_br_12: ensure<br>curious<br>modify<br>potato<br>denial<br>choose<br>squirrel<br>face<br>sword<br>cinnamon<br>boss<br>absurd
 bip_39_word_new_br_2: ensure<br>curious
 bip_39_word_new_br_3: ensure<br>curious<br>modify
-bip_39_word_new_br_4: ensure<br>curious<br>modify<br>potato
-bip_39_word_new_br_5: ensure<br>curious<br>modify<br>potato<br>denial
-bip_39_word_new_br_6: ensure<br>curious<br>modify<br>potato<br>denial<br>choose
-bip_39_word_new_br_7: ensure<br>curious<br>modify<br>potato<br>denial<br>choose<br>squirrel
-bip_39_word_new_br_8: ensure<br>curious<br>modify<br>potato<br>denial<br>choose<br>squirrel<br>face
-bip_39_word_new_br_9: ensure<br>curious<br>modify<br>potato<br>denial<br>choose<br>squirrel<br>face<br>sword
-bip_39_word_new_line_1: ensure
-bip_39_word_new_line_10: 'ensure
-
-  curious
-
-  modify
-
-  potato
-
-  denial
-
-  choose
-
-  squirrel
-
-  face
-
-  sword
-
-  cinnamon'
-bip_39_word_new_line_11: 'ensure
-
-  curious
-
-  modify
-
-  potato
-
-  denial
-
-  choose
-
-  squirrel
-
-  face
-
-  sword
-
-  cinnamon
-
-  boss'
 bip_39_word_new_line_12: 'ensure
 
   curious
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'ensure
   curious
 
   modify'
-bip_39_word_new_line_4: 'ensure
-
-  curious
-
-  modify
-
-  potato'
-bip_39_word_new_line_5: 'ensure
-
-  curious
-
-  modify
-
-  potato
-
-  denial'
-bip_39_word_new_line_6: 'ensure
-
-  curious
-
-  modify
-
-  potato
-
-  denial
-
-  choose'
-bip_39_word_new_line_7: 'ensure
-
-  curious
-
-  modify
-
-  potato
-
-  denial
-
-  choose
-
-  squirrel'
-bip_39_word_new_line_8: 'ensure
-
-  curious
-
-  modify
-
-  potato
-
-  denial
-
-  choose
-
-  squirrel
-
-  face'
-bip_39_word_new_line_9: 'ensure
-
-  curious
-
-  modify
-
-  potato
-
-  denial
-
-  choose
-
-  squirrel
-
-  face
-
-  sword'
-bip_39_word_no_space_1: ensure
-bip_39_word_no_space_10: ensurecuriousmodifypotatodenialchoosesquirrelfaceswordcinnamon
-bip_39_word_no_space_11: ensurecuriousmodifypotatodenialchoosesquirrelfaceswordcinnamonboss
 bip_39_word_no_space_12: ensurecuriousmodifypotatodenialchoosesquirrelfaceswordcinnamonbossabsurd
 bip_39_word_no_space_2: ensurecurious
 bip_39_word_no_space_3: ensurecuriousmodify
-bip_39_word_no_space_4: ensurecuriousmodifypotato
-bip_39_word_no_space_5: ensurecuriousmodifypotatodenial
-bip_39_word_no_space_6: ensurecuriousmodifypotatodenialchoose
-bip_39_word_no_space_7: ensurecuriousmodifypotatodenialchoosesquirrel
-bip_39_word_no_space_8: ensurecuriousmodifypotatodenialchoosesquirrelface
-bip_39_word_no_space_9: ensurecuriousmodifypotatodenialchoosesquirrelfacesword
-bip_39_word_space_0:
-- ensure
-- curious
-- modify
-- potato
-- denial
-- choose
-- squirrel
-- face
-- sword
-- cinnamon
-- boss
-- absurd
-bip_39_word_space_1: ensure
-bip_39_word_space_10: ensure curious modify potato denial choose squirrel face sword
-  cinnamon
-bip_39_word_space_11: ensure curious modify potato denial choose squirrel face sword
-  cinnamon boss
 bip_39_word_space_12: ensure curious modify potato denial choose squirrel face sword
   cinnamon boss absurd
 bip_39_word_space_2: ensure curious
 bip_39_word_space_3: ensure curious modify
-bip_39_word_space_4: ensure curious modify potato
-bip_39_word_space_5: ensure curious modify potato denial
-bip_39_word_space_6: ensure curious modify potato denial choose
-bip_39_word_space_7: ensure curious modify potato denial choose squirrel
-bip_39_word_space_8: ensure curious modify potato denial choose squirrel face
-bip_39_word_space_9: ensure curious modify potato denial choose squirrel face sword
-bip_39_word_underscore_1: ensure
-bip_39_word_underscore_10: ensure_curious_modify_potato_denial_choose_squirrel_face_sword_cinnamon
-bip_39_word_underscore_11: ensure_curious_modify_potato_denial_choose_squirrel_face_sword_cinnamon_boss
 bip_39_word_underscore_12: ensure_curious_modify_potato_denial_choose_squirrel_face_sword_cinnamon_boss_absurd
 bip_39_word_underscore_2: ensure_curious
 bip_39_word_underscore_3: ensure_curious_modify
-bip_39_word_underscore_4: ensure_curious_modify_potato
-bip_39_word_underscore_5: ensure_curious_modify_potato_denial
-bip_39_word_underscore_6: ensure_curious_modify_potato_denial_choose
-bip_39_word_underscore_7: ensure_curious_modify_potato_denial_choose_squirrel
-bip_39_word_underscore_8: ensure_curious_modify_potato_denial_choose_squirrel_face
-bip_39_word_underscore_9: ensure_curious_modify_potato_denial_choose_squirrel_face_sword
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

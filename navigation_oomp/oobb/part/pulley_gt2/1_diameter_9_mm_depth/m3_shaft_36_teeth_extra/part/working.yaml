@@ -1,68 +1,9 @@
-bip_39_word_dash_1: degree
-bip_39_word_dash_10: degree-pause-assume-decorate-equip-drill-garbage-combine-army-top
-bip_39_word_dash_11: degree-pause-assume-decorate-equip-drill-garbage-combine-army-top-index
 bip_39_word_dash_12: degree-pause-assume-decorate-equip-drill-garbage-combine-army-top-index-amateur
 bip_39_word_dash_2: degree-pause
 bip_39_word_dash_3: degree-pause-assume
-bip_39_word_dash_4: degree-pause-assume-decorate
-bip_39_word_dash_5: degree-pause-assume-decorate-equip
-bip_39_word_dash_6: degree-pause-assume-decorate-equip-drill
-bip_39_word_dash_7: degree-pause-assume-decorate-equip-drill-garbage
-bip_39_word_dash_8: degree-pause-assume-decorate-equip-drill-garbage-combine
-bip_39_word_dash_9: degree-pause-assume-decorate-equip-drill-garbage-combine-army
-bip_39_word_new_br_1: degree
-bip_39_word_new_br_10: degree<br>pause<br>assume<br>decorate<br>equip<br>drill<br>garbage<br>combine<br>army<br>top
-bip_39_word_new_br_11: degree<br>pause<br>assume<br>decorate<br>equip<br>drill<br>garbage<br>combine<br>army<br>top<br>index
 bip_39_word_new_br_12: degree<br>pause<br>assume<br>decorate<br>equip<br>drill<br>garbage<br>combine<br>army<br>top<br>index<br>amateur
 bip_39_word_new_br_2: degree<br>pause
 bip_39_word_new_br_3: degree<br>pause<br>assume
-bip_39_word_new_br_4: degree<br>pause<br>assume<br>decorate
-bip_39_word_new_br_5: degree<br>pause<br>assume<br>decorate<br>equip
-bip_39_word_new_br_6: degree<br>pause<br>assume<br>decorate<br>equip<br>drill
-bip_39_word_new_br_7: degree<br>pause<br>assume<br>decorate<br>equip<br>drill<br>garbage
-bip_39_word_new_br_8: degree<br>pause<br>assume<br>decorate<br>equip<br>drill<br>garbage<br>combine
-bip_39_word_new_br_9: degree<br>pause<br>assume<br>decorate<br>equip<br>drill<br>garbage<br>combine<br>army
-bip_39_word_new_line_1: degree
-bip_39_word_new_line_10: 'degree
-
-  pause
-
-  assume
-
-  decorate
-
-  equip
-
-  drill
-
-  garbage
-
-  combine
-
-  army
-
-  top'
-bip_39_word_new_line_11: 'degree
-
-  pause
-
-  assume
-
-  decorate
-
-  equip
-
-  drill
-
-  garbage
-
-  combine
-
-  army
-
-  top
-
-  index'
 bip_39_word_new_line_12: 'degree
 
   pause
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'degree
   pause
 
   assume'
-bip_39_word_new_line_4: 'degree
-
-  pause
-
-  assume
-
-  decorate'
-bip_39_word_new_line_5: 'degree
-
-  pause
-
-  assume
-
-  decorate
-
-  equip'
-bip_39_word_new_line_6: 'degree
-
-  pause
-
-  assume
-
-  decorate
-
-  equip
-
-  drill'
-bip_39_word_new_line_7: 'degree
-
-  pause
-
-  assume
-
-  decorate
-
-  equip
-
-  drill
-
-  garbage'
-bip_39_word_new_line_8: 'degree
-
-  pause
-
-  assume
-
-  decorate
-
-  equip
-
-  drill
-
-  garbage
-
-  combine'
-bip_39_word_new_line_9: 'degree
-
-  pause
-
-  assume
-
-  decorate
-
-  equip
-
-  drill
-
-  garbage
-
-  combine
-
-  army'
-bip_39_word_no_space_1: degree
-bip_39_word_no_space_10: degreepauseassumedecorateequipdrillgarbagecombinearmytop
-bip_39_word_no_space_11: degreepauseassumedecorateequipdrillgarbagecombinearmytopindex
 bip_39_word_no_space_12: degreepauseassumedecorateequipdrillgarbagecombinearmytopindexamateur
 bip_39_word_no_space_2: degreepause
 bip_39_word_no_space_3: degreepauseassume
-bip_39_word_no_space_4: degreepauseassumedecorate
-bip_39_word_no_space_5: degreepauseassumedecorateequip
-bip_39_word_no_space_6: degreepauseassumedecorateequipdrill
-bip_39_word_no_space_7: degreepauseassumedecorateequipdrillgarbage
-bip_39_word_no_space_8: degreepauseassumedecorateequipdrillgarbagecombine
-bip_39_word_no_space_9: degreepauseassumedecorateequipdrillgarbagecombinearmy
-bip_39_word_space_0:
-- degree
-- pause
-- assume
-- decorate
-- equip
-- drill
-- garbage
-- combine
-- army
-- top
-- index
-- amateur
-bip_39_word_space_1: degree
-bip_39_word_space_10: degree pause assume decorate equip drill garbage combine army
-  top
-bip_39_word_space_11: degree pause assume decorate equip drill garbage combine army
-  top index
 bip_39_word_space_12: degree pause assume decorate equip drill garbage combine army
   top index amateur
 bip_39_word_space_2: degree pause
 bip_39_word_space_3: degree pause assume
-bip_39_word_space_4: degree pause assume decorate
-bip_39_word_space_5: degree pause assume decorate equip
-bip_39_word_space_6: degree pause assume decorate equip drill
-bip_39_word_space_7: degree pause assume decorate equip drill garbage
-bip_39_word_space_8: degree pause assume decorate equip drill garbage combine
-bip_39_word_space_9: degree pause assume decorate equip drill garbage combine army
-bip_39_word_underscore_1: degree
-bip_39_word_underscore_10: degree_pause_assume_decorate_equip_drill_garbage_combine_army_top
-bip_39_word_underscore_11: degree_pause_assume_decorate_equip_drill_garbage_combine_army_top_index
 bip_39_word_underscore_12: degree_pause_assume_decorate_equip_drill_garbage_combine_army_top_index_amateur
 bip_39_word_underscore_2: degree_pause
 bip_39_word_underscore_3: degree_pause_assume
-bip_39_word_underscore_4: degree_pause_assume_decorate
-bip_39_word_underscore_5: degree_pause_assume_decorate_equip
-bip_39_word_underscore_6: degree_pause_assume_decorate_equip_drill
-bip_39_word_underscore_7: degree_pause_assume_decorate_equip_drill_garbage
-bip_39_word_underscore_8: degree_pause_assume_decorate_equip_drill_garbage_combine
-bip_39_word_underscore_9: degree_pause_assume_decorate_equip_drill_garbage_combine_army
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

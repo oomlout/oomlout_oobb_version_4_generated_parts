@@ -1,68 +1,9 @@
-bip_39_word_dash_1: impose
-bip_39_word_dash_10: impose-ticket-leg-dust-argue-general-blast-then-cruise-empower
-bip_39_word_dash_11: impose-ticket-leg-dust-argue-general-blast-then-cruise-empower-label
 bip_39_word_dash_12: impose-ticket-leg-dust-argue-general-blast-then-cruise-empower-label-abstract
 bip_39_word_dash_2: impose-ticket
 bip_39_word_dash_3: impose-ticket-leg
-bip_39_word_dash_4: impose-ticket-leg-dust
-bip_39_word_dash_5: impose-ticket-leg-dust-argue
-bip_39_word_dash_6: impose-ticket-leg-dust-argue-general
-bip_39_word_dash_7: impose-ticket-leg-dust-argue-general-blast
-bip_39_word_dash_8: impose-ticket-leg-dust-argue-general-blast-then
-bip_39_word_dash_9: impose-ticket-leg-dust-argue-general-blast-then-cruise
-bip_39_word_new_br_1: impose
-bip_39_word_new_br_10: impose<br>ticket<br>leg<br>dust<br>argue<br>general<br>blast<br>then<br>cruise<br>empower
-bip_39_word_new_br_11: impose<br>ticket<br>leg<br>dust<br>argue<br>general<br>blast<br>then<br>cruise<br>empower<br>label
 bip_39_word_new_br_12: impose<br>ticket<br>leg<br>dust<br>argue<br>general<br>blast<br>then<br>cruise<br>empower<br>label<br>abstract
 bip_39_word_new_br_2: impose<br>ticket
 bip_39_word_new_br_3: impose<br>ticket<br>leg
-bip_39_word_new_br_4: impose<br>ticket<br>leg<br>dust
-bip_39_word_new_br_5: impose<br>ticket<br>leg<br>dust<br>argue
-bip_39_word_new_br_6: impose<br>ticket<br>leg<br>dust<br>argue<br>general
-bip_39_word_new_br_7: impose<br>ticket<br>leg<br>dust<br>argue<br>general<br>blast
-bip_39_word_new_br_8: impose<br>ticket<br>leg<br>dust<br>argue<br>general<br>blast<br>then
-bip_39_word_new_br_9: impose<br>ticket<br>leg<br>dust<br>argue<br>general<br>blast<br>then<br>cruise
-bip_39_word_new_line_1: impose
-bip_39_word_new_line_10: 'impose
-
-  ticket
-
-  leg
-
-  dust
-
-  argue
-
-  general
-
-  blast
-
-  then
-
-  cruise
-
-  empower'
-bip_39_word_new_line_11: 'impose
-
-  ticket
-
-  leg
-
-  dust
-
-  argue
-
-  general
-
-  blast
-
-  then
-
-  cruise
-
-  empower
-
-  label'
 bip_39_word_new_line_12: 'impose
 
   ticket
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'impose
   ticket
 
   leg'
-bip_39_word_new_line_4: 'impose
-
-  ticket
-
-  leg
-
-  dust'
-bip_39_word_new_line_5: 'impose
-
-  ticket
-
-  leg
-
-  dust
-
-  argue'
-bip_39_word_new_line_6: 'impose
-
-  ticket
-
-  leg
-
-  dust
-
-  argue
-
-  general'
-bip_39_word_new_line_7: 'impose
-
-  ticket
-
-  leg
-
-  dust
-
-  argue
-
-  general
-
-  blast'
-bip_39_word_new_line_8: 'impose
-
-  ticket
-
-  leg
-
-  dust
-
-  argue
-
-  general
-
-  blast
-
-  then'
-bip_39_word_new_line_9: 'impose
-
-  ticket
-
-  leg
-
-  dust
-
-  argue
-
-  general
-
-  blast
-
-  then
-
-  cruise'
-bip_39_word_no_space_1: impose
-bip_39_word_no_space_10: imposeticketlegdustarguegeneralblastthencruiseempower
-bip_39_word_no_space_11: imposeticketlegdustarguegeneralblastthencruiseempowerlabel
 bip_39_word_no_space_12: imposeticketlegdustarguegeneralblastthencruiseempowerlabelabstract
 bip_39_word_no_space_2: imposeticket
 bip_39_word_no_space_3: imposeticketleg
-bip_39_word_no_space_4: imposeticketlegdust
-bip_39_word_no_space_5: imposeticketlegdustargue
-bip_39_word_no_space_6: imposeticketlegdustarguegeneral
-bip_39_word_no_space_7: imposeticketlegdustarguegeneralblast
-bip_39_word_no_space_8: imposeticketlegdustarguegeneralblastthen
-bip_39_word_no_space_9: imposeticketlegdustarguegeneralblastthencruise
-bip_39_word_space_0:
-- impose
-- ticket
-- leg
-- dust
-- argue
-- general
-- blast
-- then
-- cruise
-- empower
-- label
-- abstract
-bip_39_word_space_1: impose
-bip_39_word_space_10: impose ticket leg dust argue general blast then cruise empower
-bip_39_word_space_11: impose ticket leg dust argue general blast then cruise empower
-  label
 bip_39_word_space_12: impose ticket leg dust argue general blast then cruise empower
   label abstract
 bip_39_word_space_2: impose ticket
 bip_39_word_space_3: impose ticket leg
-bip_39_word_space_4: impose ticket leg dust
-bip_39_word_space_5: impose ticket leg dust argue
-bip_39_word_space_6: impose ticket leg dust argue general
-bip_39_word_space_7: impose ticket leg dust argue general blast
-bip_39_word_space_8: impose ticket leg dust argue general blast then
-bip_39_word_space_9: impose ticket leg dust argue general blast then cruise
-bip_39_word_underscore_1: impose
-bip_39_word_underscore_10: impose_ticket_leg_dust_argue_general_blast_then_cruise_empower
-bip_39_word_underscore_11: impose_ticket_leg_dust_argue_general_blast_then_cruise_empower_label
 bip_39_word_underscore_12: impose_ticket_leg_dust_argue_general_blast_then_cruise_empower_label_abstract
 bip_39_word_underscore_2: impose_ticket
 bip_39_word_underscore_3: impose_ticket_leg
-bip_39_word_underscore_4: impose_ticket_leg_dust
-bip_39_word_underscore_5: impose_ticket_leg_dust_argue
-bip_39_word_underscore_6: impose_ticket_leg_dust_argue_general
-bip_39_word_underscore_7: impose_ticket_leg_dust_argue_general_blast
-bip_39_word_underscore_8: impose_ticket_leg_dust_argue_general_blast_then
-bip_39_word_underscore_9: impose_ticket_leg_dust_argue_general_blast_then_cruise
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

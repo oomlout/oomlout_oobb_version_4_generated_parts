@@ -1,68 +1,9 @@
-bip_39_word_dash_1: coyote
-bip_39_word_dash_10: coyote-praise-beyond-fluid-bunker-swim-witness-debate-celery-muffin
-bip_39_word_dash_11: coyote-praise-beyond-fluid-bunker-swim-witness-debate-celery-muffin-river
 bip_39_word_dash_12: coyote-praise-beyond-fluid-bunker-swim-witness-debate-celery-muffin-river-alert
 bip_39_word_dash_2: coyote-praise
 bip_39_word_dash_3: coyote-praise-beyond
-bip_39_word_dash_4: coyote-praise-beyond-fluid
-bip_39_word_dash_5: coyote-praise-beyond-fluid-bunker
-bip_39_word_dash_6: coyote-praise-beyond-fluid-bunker-swim
-bip_39_word_dash_7: coyote-praise-beyond-fluid-bunker-swim-witness
-bip_39_word_dash_8: coyote-praise-beyond-fluid-bunker-swim-witness-debate
-bip_39_word_dash_9: coyote-praise-beyond-fluid-bunker-swim-witness-debate-celery
-bip_39_word_new_br_1: coyote
-bip_39_word_new_br_10: coyote<br>praise<br>beyond<br>fluid<br>bunker<br>swim<br>witness<br>debate<br>celery<br>muffin
-bip_39_word_new_br_11: coyote<br>praise<br>beyond<br>fluid<br>bunker<br>swim<br>witness<br>debate<br>celery<br>muffin<br>river
 bip_39_word_new_br_12: coyote<br>praise<br>beyond<br>fluid<br>bunker<br>swim<br>witness<br>debate<br>celery<br>muffin<br>river<br>alert
 bip_39_word_new_br_2: coyote<br>praise
 bip_39_word_new_br_3: coyote<br>praise<br>beyond
-bip_39_word_new_br_4: coyote<br>praise<br>beyond<br>fluid
-bip_39_word_new_br_5: coyote<br>praise<br>beyond<br>fluid<br>bunker
-bip_39_word_new_br_6: coyote<br>praise<br>beyond<br>fluid<br>bunker<br>swim
-bip_39_word_new_br_7: coyote<br>praise<br>beyond<br>fluid<br>bunker<br>swim<br>witness
-bip_39_word_new_br_8: coyote<br>praise<br>beyond<br>fluid<br>bunker<br>swim<br>witness<br>debate
-bip_39_word_new_br_9: coyote<br>praise<br>beyond<br>fluid<br>bunker<br>swim<br>witness<br>debate<br>celery
-bip_39_word_new_line_1: coyote
-bip_39_word_new_line_10: 'coyote
-
-  praise
-
-  beyond
-
-  fluid
-
-  bunker
-
-  swim
-
-  witness
-
-  debate
-
-  celery
-
-  muffin'
-bip_39_word_new_line_11: 'coyote
-
-  praise
-
-  beyond
-
-  fluid
-
-  bunker
-
-  swim
-
-  witness
-
-  debate
-
-  celery
-
-  muffin
-
-  river'
 bip_39_word_new_line_12: 'coyote
 
   praise
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'coyote
   praise
 
   beyond'
-bip_39_word_new_line_4: 'coyote
-
-  praise
-
-  beyond
-
-  fluid'
-bip_39_word_new_line_5: 'coyote
-
-  praise
-
-  beyond
-
-  fluid
-
-  bunker'
-bip_39_word_new_line_6: 'coyote
-
-  praise
-
-  beyond
-
-  fluid
-
-  bunker
-
-  swim'
-bip_39_word_new_line_7: 'coyote
-
-  praise
-
-  beyond
-
-  fluid
-
-  bunker
-
-  swim
-
-  witness'
-bip_39_word_new_line_8: 'coyote
-
-  praise
-
-  beyond
-
-  fluid
-
-  bunker
-
-  swim
-
-  witness
-
-  debate'
-bip_39_word_new_line_9: 'coyote
-
-  praise
-
-  beyond
-
-  fluid
-
-  bunker
-
-  swim
-
-  witness
-
-  debate
-
-  celery'
-bip_39_word_no_space_1: coyote
-bip_39_word_no_space_10: coyotepraisebeyondfluidbunkerswimwitnessdebatecelerymuffin
-bip_39_word_no_space_11: coyotepraisebeyondfluidbunkerswimwitnessdebatecelerymuffinriver
 bip_39_word_no_space_12: coyotepraisebeyondfluidbunkerswimwitnessdebatecelerymuffinriveralert
 bip_39_word_no_space_2: coyotepraise
 bip_39_word_no_space_3: coyotepraisebeyond
-bip_39_word_no_space_4: coyotepraisebeyondfluid
-bip_39_word_no_space_5: coyotepraisebeyondfluidbunker
-bip_39_word_no_space_6: coyotepraisebeyondfluidbunkerswim
-bip_39_word_no_space_7: coyotepraisebeyondfluidbunkerswimwitness
-bip_39_word_no_space_8: coyotepraisebeyondfluidbunkerswimwitnessdebate
-bip_39_word_no_space_9: coyotepraisebeyondfluidbunkerswimwitnessdebatecelery
-bip_39_word_space_0:
-- coyote
-- praise
-- beyond
-- fluid
-- bunker
-- swim
-- witness
-- debate
-- celery
-- muffin
-- river
-- alert
-bip_39_word_space_1: coyote
-bip_39_word_space_10: coyote praise beyond fluid bunker swim witness debate celery
-  muffin
-bip_39_word_space_11: coyote praise beyond fluid bunker swim witness debate celery
-  muffin river
 bip_39_word_space_12: coyote praise beyond fluid bunker swim witness debate celery
   muffin river alert
 bip_39_word_space_2: coyote praise
 bip_39_word_space_3: coyote praise beyond
-bip_39_word_space_4: coyote praise beyond fluid
-bip_39_word_space_5: coyote praise beyond fluid bunker
-bip_39_word_space_6: coyote praise beyond fluid bunker swim
-bip_39_word_space_7: coyote praise beyond fluid bunker swim witness
-bip_39_word_space_8: coyote praise beyond fluid bunker swim witness debate
-bip_39_word_space_9: coyote praise beyond fluid bunker swim witness debate celery
-bip_39_word_underscore_1: coyote
-bip_39_word_underscore_10: coyote_praise_beyond_fluid_bunker_swim_witness_debate_celery_muffin
-bip_39_word_underscore_11: coyote_praise_beyond_fluid_bunker_swim_witness_debate_celery_muffin_river
 bip_39_word_underscore_12: coyote_praise_beyond_fluid_bunker_swim_witness_debate_celery_muffin_river_alert
 bip_39_word_underscore_2: coyote_praise
 bip_39_word_underscore_3: coyote_praise_beyond
-bip_39_word_underscore_4: coyote_praise_beyond_fluid
-bip_39_word_underscore_5: coyote_praise_beyond_fluid_bunker
-bip_39_word_underscore_6: coyote_praise_beyond_fluid_bunker_swim
-bip_39_word_underscore_7: coyote_praise_beyond_fluid_bunker_swim_witness
-bip_39_word_underscore_8: coyote_praise_beyond_fluid_bunker_swim_witness_debate
-bip_39_word_underscore_9: coyote_praise_beyond_fluid_bunker_swim_witness_debate_celery
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

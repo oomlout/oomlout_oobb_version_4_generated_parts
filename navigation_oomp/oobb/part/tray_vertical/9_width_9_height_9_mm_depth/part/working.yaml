@@ -1,68 +1,9 @@
-bip_39_word_dash_1: orbit
-bip_39_word_dash_10: orbit-tomato-tray-buffalo-fantasy-auto-neither-pumpkin-scout-blade
-bip_39_word_dash_11: orbit-tomato-tray-buffalo-fantasy-auto-neither-pumpkin-scout-blade-pact
 bip_39_word_dash_12: orbit-tomato-tray-buffalo-fantasy-auto-neither-pumpkin-scout-blade-pact-above
 bip_39_word_dash_2: orbit-tomato
 bip_39_word_dash_3: orbit-tomato-tray
-bip_39_word_dash_4: orbit-tomato-tray-buffalo
-bip_39_word_dash_5: orbit-tomato-tray-buffalo-fantasy
-bip_39_word_dash_6: orbit-tomato-tray-buffalo-fantasy-auto
-bip_39_word_dash_7: orbit-tomato-tray-buffalo-fantasy-auto-neither
-bip_39_word_dash_8: orbit-tomato-tray-buffalo-fantasy-auto-neither-pumpkin
-bip_39_word_dash_9: orbit-tomato-tray-buffalo-fantasy-auto-neither-pumpkin-scout
-bip_39_word_new_br_1: orbit
-bip_39_word_new_br_10: orbit<br>tomato<br>tray<br>buffalo<br>fantasy<br>auto<br>neither<br>pumpkin<br>scout<br>blade
-bip_39_word_new_br_11: orbit<br>tomato<br>tray<br>buffalo<br>fantasy<br>auto<br>neither<br>pumpkin<br>scout<br>blade<br>pact
 bip_39_word_new_br_12: orbit<br>tomato<br>tray<br>buffalo<br>fantasy<br>auto<br>neither<br>pumpkin<br>scout<br>blade<br>pact<br>above
 bip_39_word_new_br_2: orbit<br>tomato
 bip_39_word_new_br_3: orbit<br>tomato<br>tray
-bip_39_word_new_br_4: orbit<br>tomato<br>tray<br>buffalo
-bip_39_word_new_br_5: orbit<br>tomato<br>tray<br>buffalo<br>fantasy
-bip_39_word_new_br_6: orbit<br>tomato<br>tray<br>buffalo<br>fantasy<br>auto
-bip_39_word_new_br_7: orbit<br>tomato<br>tray<br>buffalo<br>fantasy<br>auto<br>neither
-bip_39_word_new_br_8: orbit<br>tomato<br>tray<br>buffalo<br>fantasy<br>auto<br>neither<br>pumpkin
-bip_39_word_new_br_9: orbit<br>tomato<br>tray<br>buffalo<br>fantasy<br>auto<br>neither<br>pumpkin<br>scout
-bip_39_word_new_line_1: orbit
-bip_39_word_new_line_10: 'orbit
-
-  tomato
-
-  tray
-
-  buffalo
-
-  fantasy
-
-  auto
-
-  neither
-
-  pumpkin
-
-  scout
-
-  blade'
-bip_39_word_new_line_11: 'orbit
-
-  tomato
-
-  tray
-
-  buffalo
-
-  fantasy
-
-  auto
-
-  neither
-
-  pumpkin
-
-  scout
-
-  blade
-
-  pact'
 bip_39_word_new_line_12: 'orbit
 
   tomato
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'orbit
   tomato
 
   tray'
-bip_39_word_new_line_4: 'orbit
-
-  tomato
-
-  tray
-
-  buffalo'
-bip_39_word_new_line_5: 'orbit
-
-  tomato
-
-  tray
-
-  buffalo
-
-  fantasy'
-bip_39_word_new_line_6: 'orbit
-
-  tomato
-
-  tray
-
-  buffalo
-
-  fantasy
-
-  auto'
-bip_39_word_new_line_7: 'orbit
-
-  tomato
-
-  tray
-
-  buffalo
-
-  fantasy
-
-  auto
-
-  neither'
-bip_39_word_new_line_8: 'orbit
-
-  tomato
-
-  tray
-
-  buffalo
-
-  fantasy
-
-  auto
-
-  neither
-
-  pumpkin'
-bip_39_word_new_line_9: 'orbit
-
-  tomato
-
-  tray
-
-  buffalo
-
-  fantasy
-
-  auto
-
-  neither
-
-  pumpkin
-
-  scout'
-bip_39_word_no_space_1: orbit
-bip_39_word_no_space_10: orbittomatotraybuffalofantasyautoneitherpumpkinscoutblade
-bip_39_word_no_space_11: orbittomatotraybuffalofantasyautoneitherpumpkinscoutbladepact
 bip_39_word_no_space_12: orbittomatotraybuffalofantasyautoneitherpumpkinscoutbladepactabove
 bip_39_word_no_space_2: orbittomato
 bip_39_word_no_space_3: orbittomatotray
-bip_39_word_no_space_4: orbittomatotraybuffalo
-bip_39_word_no_space_5: orbittomatotraybuffalofantasy
-bip_39_word_no_space_6: orbittomatotraybuffalofantasyauto
-bip_39_word_no_space_7: orbittomatotraybuffalofantasyautoneither
-bip_39_word_no_space_8: orbittomatotraybuffalofantasyautoneitherpumpkin
-bip_39_word_no_space_9: orbittomatotraybuffalofantasyautoneitherpumpkinscout
-bip_39_word_space_0:
-- orbit
-- tomato
-- tray
-- buffalo
-- fantasy
-- auto
-- neither
-- pumpkin
-- scout
-- blade
-- pact
-- above
-bip_39_word_space_1: orbit
-bip_39_word_space_10: orbit tomato tray buffalo fantasy auto neither pumpkin scout
-  blade
-bip_39_word_space_11: orbit tomato tray buffalo fantasy auto neither pumpkin scout
-  blade pact
 bip_39_word_space_12: orbit tomato tray buffalo fantasy auto neither pumpkin scout
   blade pact above
 bip_39_word_space_2: orbit tomato
 bip_39_word_space_3: orbit tomato tray
-bip_39_word_space_4: orbit tomato tray buffalo
-bip_39_word_space_5: orbit tomato tray buffalo fantasy
-bip_39_word_space_6: orbit tomato tray buffalo fantasy auto
-bip_39_word_space_7: orbit tomato tray buffalo fantasy auto neither
-bip_39_word_space_8: orbit tomato tray buffalo fantasy auto neither pumpkin
-bip_39_word_space_9: orbit tomato tray buffalo fantasy auto neither pumpkin scout
-bip_39_word_underscore_1: orbit
-bip_39_word_underscore_10: orbit_tomato_tray_buffalo_fantasy_auto_neither_pumpkin_scout_blade
-bip_39_word_underscore_11: orbit_tomato_tray_buffalo_fantasy_auto_neither_pumpkin_scout_blade_pact
 bip_39_word_underscore_12: orbit_tomato_tray_buffalo_fantasy_auto_neither_pumpkin_scout_blade_pact_above
 bip_39_word_underscore_2: orbit_tomato
 bip_39_word_underscore_3: orbit_tomato_tray
-bip_39_word_underscore_4: orbit_tomato_tray_buffalo
-bip_39_word_underscore_5: orbit_tomato_tray_buffalo_fantasy
-bip_39_word_underscore_6: orbit_tomato_tray_buffalo_fantasy_auto
-bip_39_word_underscore_7: orbit_tomato_tray_buffalo_fantasy_auto_neither
-bip_39_word_underscore_8: orbit_tomato_tray_buffalo_fantasy_auto_neither_pumpkin
-bip_39_word_underscore_9: orbit_tomato_tray_buffalo_fantasy_auto_neither_pumpkin_scout
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: piece
-bip_39_word_dash_10: piece-cigar-cricket-immense-birth-pluck-slot-slight-conduct-goose
-bip_39_word_dash_11: piece-cigar-cricket-immense-birth-pluck-slot-slight-conduct-goose-donate
 bip_39_word_dash_12: piece-cigar-cricket-immense-birth-pluck-slot-slight-conduct-goose-donate-auto
 bip_39_word_dash_2: piece-cigar
 bip_39_word_dash_3: piece-cigar-cricket
-bip_39_word_dash_4: piece-cigar-cricket-immense
-bip_39_word_dash_5: piece-cigar-cricket-immense-birth
-bip_39_word_dash_6: piece-cigar-cricket-immense-birth-pluck
-bip_39_word_dash_7: piece-cigar-cricket-immense-birth-pluck-slot
-bip_39_word_dash_8: piece-cigar-cricket-immense-birth-pluck-slot-slight
-bip_39_word_dash_9: piece-cigar-cricket-immense-birth-pluck-slot-slight-conduct
-bip_39_word_new_br_1: piece
-bip_39_word_new_br_10: piece<br>cigar<br>cricket<br>immense<br>birth<br>pluck<br>slot<br>slight<br>conduct<br>goose
-bip_39_word_new_br_11: piece<br>cigar<br>cricket<br>immense<br>birth<br>pluck<br>slot<br>slight<br>conduct<br>goose<br>donate
 bip_39_word_new_br_12: piece<br>cigar<br>cricket<br>immense<br>birth<br>pluck<br>slot<br>slight<br>conduct<br>goose<br>donate<br>auto
 bip_39_word_new_br_2: piece<br>cigar
 bip_39_word_new_br_3: piece<br>cigar<br>cricket
-bip_39_word_new_br_4: piece<br>cigar<br>cricket<br>immense
-bip_39_word_new_br_5: piece<br>cigar<br>cricket<br>immense<br>birth
-bip_39_word_new_br_6: piece<br>cigar<br>cricket<br>immense<br>birth<br>pluck
-bip_39_word_new_br_7: piece<br>cigar<br>cricket<br>immense<br>birth<br>pluck<br>slot
-bip_39_word_new_br_8: piece<br>cigar<br>cricket<br>immense<br>birth<br>pluck<br>slot<br>slight
-bip_39_word_new_br_9: piece<br>cigar<br>cricket<br>immense<br>birth<br>pluck<br>slot<br>slight<br>conduct
-bip_39_word_new_line_1: piece
-bip_39_word_new_line_10: 'piece
-
-  cigar
-
-  cricket
-
-  immense
-
-  birth
-
-  pluck
-
-  slot
-
-  slight
-
-  conduct
-
-  goose'
-bip_39_word_new_line_11: 'piece
-
-  cigar
-
-  cricket
-
-  immense
-
-  birth
-
-  pluck
-
-  slot
-
-  slight
-
-  conduct
-
-  goose
-
-  donate'
 bip_39_word_new_line_12: 'piece
 
   cigar
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'piece
   cigar
 
   cricket'
-bip_39_word_new_line_4: 'piece
-
-  cigar
-
-  cricket
-
-  immense'
-bip_39_word_new_line_5: 'piece
-
-  cigar
-
-  cricket
-
-  immense
-
-  birth'
-bip_39_word_new_line_6: 'piece
-
-  cigar
-
-  cricket
-
-  immense
-
-  birth
-
-  pluck'
-bip_39_word_new_line_7: 'piece
-
-  cigar
-
-  cricket
-
-  immense
-
-  birth
-
-  pluck
-
-  slot'
-bip_39_word_new_line_8: 'piece
-
-  cigar
-
-  cricket
-
-  immense
-
-  birth
-
-  pluck
-
-  slot
-
-  slight'
-bip_39_word_new_line_9: 'piece
-
-  cigar
-
-  cricket
-
-  immense
-
-  birth
-
-  pluck
-
-  slot
-
-  slight
-
-  conduct'
-bip_39_word_no_space_1: piece
-bip_39_word_no_space_10: piececigarcricketimmensebirthpluckslotslightconductgoose
-bip_39_word_no_space_11: piececigarcricketimmensebirthpluckslotslightconductgoosedonate
 bip_39_word_no_space_12: piececigarcricketimmensebirthpluckslotslightconductgoosedonateauto
 bip_39_word_no_space_2: piececigar
 bip_39_word_no_space_3: piececigarcricket
-bip_39_word_no_space_4: piececigarcricketimmense
-bip_39_word_no_space_5: piececigarcricketimmensebirth
-bip_39_word_no_space_6: piececigarcricketimmensebirthpluck
-bip_39_word_no_space_7: piececigarcricketimmensebirthpluckslot
-bip_39_word_no_space_8: piececigarcricketimmensebirthpluckslotslight
-bip_39_word_no_space_9: piececigarcricketimmensebirthpluckslotslightconduct
-bip_39_word_space_0:
-- piece
-- cigar
-- cricket
-- immense
-- birth
-- pluck
-- slot
-- slight
-- conduct
-- goose
-- donate
-- auto
-bip_39_word_space_1: piece
-bip_39_word_space_10: piece cigar cricket immense birth pluck slot slight conduct
-  goose
-bip_39_word_space_11: piece cigar cricket immense birth pluck slot slight conduct
-  goose donate
 bip_39_word_space_12: piece cigar cricket immense birth pluck slot slight conduct
   goose donate auto
 bip_39_word_space_2: piece cigar
 bip_39_word_space_3: piece cigar cricket
-bip_39_word_space_4: piece cigar cricket immense
-bip_39_word_space_5: piece cigar cricket immense birth
-bip_39_word_space_6: piece cigar cricket immense birth pluck
-bip_39_word_space_7: piece cigar cricket immense birth pluck slot
-bip_39_word_space_8: piece cigar cricket immense birth pluck slot slight
-bip_39_word_space_9: piece cigar cricket immense birth pluck slot slight conduct
-bip_39_word_underscore_1: piece
-bip_39_word_underscore_10: piece_cigar_cricket_immense_birth_pluck_slot_slight_conduct_goose
-bip_39_word_underscore_11: piece_cigar_cricket_immense_birth_pluck_slot_slight_conduct_goose_donate
 bip_39_word_underscore_12: piece_cigar_cricket_immense_birth_pluck_slot_slight_conduct_goose_donate_auto
 bip_39_word_underscore_2: piece_cigar
 bip_39_word_underscore_3: piece_cigar_cricket
-bip_39_word_underscore_4: piece_cigar_cricket_immense
-bip_39_word_underscore_5: piece_cigar_cricket_immense_birth
-bip_39_word_underscore_6: piece_cigar_cricket_immense_birth_pluck
-bip_39_word_underscore_7: piece_cigar_cricket_immense_birth_pluck_slot
-bip_39_word_underscore_8: piece_cigar_cricket_immense_birth_pluck_slot_slight
-bip_39_word_underscore_9: piece_cigar_cricket_immense_birth_pluck_slot_slight_conduct
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

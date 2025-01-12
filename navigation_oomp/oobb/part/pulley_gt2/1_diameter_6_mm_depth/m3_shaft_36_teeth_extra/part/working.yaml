@@ -1,68 +1,9 @@
-bip_39_word_dash_1: type
-bip_39_word_dash_10: type-grab-extend-fall-damage-fit-same-number-link-kingdom
-bip_39_word_dash_11: type-grab-extend-fall-damage-fit-same-number-link-kingdom-alcohol
 bip_39_word_dash_12: type-grab-extend-fall-damage-fit-same-number-link-kingdom-alcohol-add
 bip_39_word_dash_2: type-grab
 bip_39_word_dash_3: type-grab-extend
-bip_39_word_dash_4: type-grab-extend-fall
-bip_39_word_dash_5: type-grab-extend-fall-damage
-bip_39_word_dash_6: type-grab-extend-fall-damage-fit
-bip_39_word_dash_7: type-grab-extend-fall-damage-fit-same
-bip_39_word_dash_8: type-grab-extend-fall-damage-fit-same-number
-bip_39_word_dash_9: type-grab-extend-fall-damage-fit-same-number-link
-bip_39_word_new_br_1: type
-bip_39_word_new_br_10: type<br>grab<br>extend<br>fall<br>damage<br>fit<br>same<br>number<br>link<br>kingdom
-bip_39_word_new_br_11: type<br>grab<br>extend<br>fall<br>damage<br>fit<br>same<br>number<br>link<br>kingdom<br>alcohol
 bip_39_word_new_br_12: type<br>grab<br>extend<br>fall<br>damage<br>fit<br>same<br>number<br>link<br>kingdom<br>alcohol<br>add
 bip_39_word_new_br_2: type<br>grab
 bip_39_word_new_br_3: type<br>grab<br>extend
-bip_39_word_new_br_4: type<br>grab<br>extend<br>fall
-bip_39_word_new_br_5: type<br>grab<br>extend<br>fall<br>damage
-bip_39_word_new_br_6: type<br>grab<br>extend<br>fall<br>damage<br>fit
-bip_39_word_new_br_7: type<br>grab<br>extend<br>fall<br>damage<br>fit<br>same
-bip_39_word_new_br_8: type<br>grab<br>extend<br>fall<br>damage<br>fit<br>same<br>number
-bip_39_word_new_br_9: type<br>grab<br>extend<br>fall<br>damage<br>fit<br>same<br>number<br>link
-bip_39_word_new_line_1: type
-bip_39_word_new_line_10: 'type
-
-  grab
-
-  extend
-
-  fall
-
-  damage
-
-  fit
-
-  same
-
-  number
-
-  link
-
-  kingdom'
-bip_39_word_new_line_11: 'type
-
-  grab
-
-  extend
-
-  fall
-
-  damage
-
-  fit
-
-  same
-
-  number
-
-  link
-
-  kingdom
-
-  alcohol'
 bip_39_word_new_line_12: 'type
 
   grab
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'type
   grab
 
   extend'
-bip_39_word_new_line_4: 'type
-
-  grab
-
-  extend
-
-  fall'
-bip_39_word_new_line_5: 'type
-
-  grab
-
-  extend
-
-  fall
-
-  damage'
-bip_39_word_new_line_6: 'type
-
-  grab
-
-  extend
-
-  fall
-
-  damage
-
-  fit'
-bip_39_word_new_line_7: 'type
-
-  grab
-
-  extend
-
-  fall
-
-  damage
-
-  fit
-
-  same'
-bip_39_word_new_line_8: 'type
-
-  grab
-
-  extend
-
-  fall
-
-  damage
-
-  fit
-
-  same
-
-  number'
-bip_39_word_new_line_9: 'type
-
-  grab
-
-  extend
-
-  fall
-
-  damage
-
-  fit
-
-  same
-
-  number
-
-  link'
-bip_39_word_no_space_1: type
-bip_39_word_no_space_10: typegrabextendfalldamagefitsamenumberlinkkingdom
-bip_39_word_no_space_11: typegrabextendfalldamagefitsamenumberlinkkingdomalcohol
 bip_39_word_no_space_12: typegrabextendfalldamagefitsamenumberlinkkingdomalcoholadd
 bip_39_word_no_space_2: typegrab
 bip_39_word_no_space_3: typegrabextend
-bip_39_word_no_space_4: typegrabextendfall
-bip_39_word_no_space_5: typegrabextendfalldamage
-bip_39_word_no_space_6: typegrabextendfalldamagefit
-bip_39_word_no_space_7: typegrabextendfalldamagefitsame
-bip_39_word_no_space_8: typegrabextendfalldamagefitsamenumber
-bip_39_word_no_space_9: typegrabextendfalldamagefitsamenumberlink
-bip_39_word_space_0:
-- type
-- grab
-- extend
-- fall
-- damage
-- fit
-- same
-- number
-- link
-- kingdom
-- alcohol
-- add
-bip_39_word_space_1: type
-bip_39_word_space_10: type grab extend fall damage fit same number link kingdom
-bip_39_word_space_11: type grab extend fall damage fit same number link kingdom alcohol
 bip_39_word_space_12: type grab extend fall damage fit same number link kingdom alcohol
   add
 bip_39_word_space_2: type grab
 bip_39_word_space_3: type grab extend
-bip_39_word_space_4: type grab extend fall
-bip_39_word_space_5: type grab extend fall damage
-bip_39_word_space_6: type grab extend fall damage fit
-bip_39_word_space_7: type grab extend fall damage fit same
-bip_39_word_space_8: type grab extend fall damage fit same number
-bip_39_word_space_9: type grab extend fall damage fit same number link
-bip_39_word_underscore_1: type
-bip_39_word_underscore_10: type_grab_extend_fall_damage_fit_same_number_link_kingdom
-bip_39_word_underscore_11: type_grab_extend_fall_damage_fit_same_number_link_kingdom_alcohol
 bip_39_word_underscore_12: type_grab_extend_fall_damage_fit_same_number_link_kingdom_alcohol_add
 bip_39_word_underscore_2: type_grab
 bip_39_word_underscore_3: type_grab_extend
-bip_39_word_underscore_4: type_grab_extend_fall
-bip_39_word_underscore_5: type_grab_extend_fall_damage
-bip_39_word_underscore_6: type_grab_extend_fall_damage_fit
-bip_39_word_underscore_7: type_grab_extend_fall_damage_fit_same
-bip_39_word_underscore_8: type_grab_extend_fall_damage_fit_same_number
-bip_39_word_underscore_9: type_grab_extend_fall_damage_fit_same_number_link
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: equip
-bip_39_word_dash_10: equip-undo-update-torch-fetch-bulk-engine-bitter-clay-cement
-bip_39_word_dash_11: equip-undo-update-torch-fetch-bulk-engine-bitter-clay-cement-flock
 bip_39_word_dash_12: equip-undo-update-torch-fetch-bulk-engine-bitter-clay-cement-flock-agent
 bip_39_word_dash_2: equip-undo
 bip_39_word_dash_3: equip-undo-update
-bip_39_word_dash_4: equip-undo-update-torch
-bip_39_word_dash_5: equip-undo-update-torch-fetch
-bip_39_word_dash_6: equip-undo-update-torch-fetch-bulk
-bip_39_word_dash_7: equip-undo-update-torch-fetch-bulk-engine
-bip_39_word_dash_8: equip-undo-update-torch-fetch-bulk-engine-bitter
-bip_39_word_dash_9: equip-undo-update-torch-fetch-bulk-engine-bitter-clay
-bip_39_word_new_br_1: equip
-bip_39_word_new_br_10: equip<br>undo<br>update<br>torch<br>fetch<br>bulk<br>engine<br>bitter<br>clay<br>cement
-bip_39_word_new_br_11: equip<br>undo<br>update<br>torch<br>fetch<br>bulk<br>engine<br>bitter<br>clay<br>cement<br>flock
 bip_39_word_new_br_12: equip<br>undo<br>update<br>torch<br>fetch<br>bulk<br>engine<br>bitter<br>clay<br>cement<br>flock<br>agent
 bip_39_word_new_br_2: equip<br>undo
 bip_39_word_new_br_3: equip<br>undo<br>update
-bip_39_word_new_br_4: equip<br>undo<br>update<br>torch
-bip_39_word_new_br_5: equip<br>undo<br>update<br>torch<br>fetch
-bip_39_word_new_br_6: equip<br>undo<br>update<br>torch<br>fetch<br>bulk
-bip_39_word_new_br_7: equip<br>undo<br>update<br>torch<br>fetch<br>bulk<br>engine
-bip_39_word_new_br_8: equip<br>undo<br>update<br>torch<br>fetch<br>bulk<br>engine<br>bitter
-bip_39_word_new_br_9: equip<br>undo<br>update<br>torch<br>fetch<br>bulk<br>engine<br>bitter<br>clay
-bip_39_word_new_line_1: equip
-bip_39_word_new_line_10: 'equip
-
-  undo
-
-  update
-
-  torch
-
-  fetch
-
-  bulk
-
-  engine
-
-  bitter
-
-  clay
-
-  cement'
-bip_39_word_new_line_11: 'equip
-
-  undo
-
-  update
-
-  torch
-
-  fetch
-
-  bulk
-
-  engine
-
-  bitter
-
-  clay
-
-  cement
-
-  flock'
 bip_39_word_new_line_12: 'equip
 
   undo
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'equip
   undo
 
   update'
-bip_39_word_new_line_4: 'equip
-
-  undo
-
-  update
-
-  torch'
-bip_39_word_new_line_5: 'equip
-
-  undo
-
-  update
-
-  torch
-
-  fetch'
-bip_39_word_new_line_6: 'equip
-
-  undo
-
-  update
-
-  torch
-
-  fetch
-
-  bulk'
-bip_39_word_new_line_7: 'equip
-
-  undo
-
-  update
-
-  torch
-
-  fetch
-
-  bulk
-
-  engine'
-bip_39_word_new_line_8: 'equip
-
-  undo
-
-  update
-
-  torch
-
-  fetch
-
-  bulk
-
-  engine
-
-  bitter'
-bip_39_word_new_line_9: 'equip
-
-  undo
-
-  update
-
-  torch
-
-  fetch
-
-  bulk
-
-  engine
-
-  bitter
-
-  clay'
-bip_39_word_no_space_1: equip
-bip_39_word_no_space_10: equipundoupdatetorchfetchbulkenginebitterclaycement
-bip_39_word_no_space_11: equipundoupdatetorchfetchbulkenginebitterclaycementflock
 bip_39_word_no_space_12: equipundoupdatetorchfetchbulkenginebitterclaycementflockagent
 bip_39_word_no_space_2: equipundo
 bip_39_word_no_space_3: equipundoupdate
-bip_39_word_no_space_4: equipundoupdatetorch
-bip_39_word_no_space_5: equipundoupdatetorchfetch
-bip_39_word_no_space_6: equipundoupdatetorchfetchbulk
-bip_39_word_no_space_7: equipundoupdatetorchfetchbulkengine
-bip_39_word_no_space_8: equipundoupdatetorchfetchbulkenginebitter
-bip_39_word_no_space_9: equipundoupdatetorchfetchbulkenginebitterclay
-bip_39_word_space_0:
-- equip
-- undo
-- update
-- torch
-- fetch
-- bulk
-- engine
-- bitter
-- clay
-- cement
-- flock
-- agent
-bip_39_word_space_1: equip
-bip_39_word_space_10: equip undo update torch fetch bulk engine bitter clay cement
-bip_39_word_space_11: equip undo update torch fetch bulk engine bitter clay cement
-  flock
 bip_39_word_space_12: equip undo update torch fetch bulk engine bitter clay cement
   flock agent
 bip_39_word_space_2: equip undo
 bip_39_word_space_3: equip undo update
-bip_39_word_space_4: equip undo update torch
-bip_39_word_space_5: equip undo update torch fetch
-bip_39_word_space_6: equip undo update torch fetch bulk
-bip_39_word_space_7: equip undo update torch fetch bulk engine
-bip_39_word_space_8: equip undo update torch fetch bulk engine bitter
-bip_39_word_space_9: equip undo update torch fetch bulk engine bitter clay
-bip_39_word_underscore_1: equip
-bip_39_word_underscore_10: equip_undo_update_torch_fetch_bulk_engine_bitter_clay_cement
-bip_39_word_underscore_11: equip_undo_update_torch_fetch_bulk_engine_bitter_clay_cement_flock
 bip_39_word_underscore_12: equip_undo_update_torch_fetch_bulk_engine_bitter_clay_cement_flock_agent
 bip_39_word_underscore_2: equip_undo
 bip_39_word_underscore_3: equip_undo_update
-bip_39_word_underscore_4: equip_undo_update_torch
-bip_39_word_underscore_5: equip_undo_update_torch_fetch
-bip_39_word_underscore_6: equip_undo_update_torch_fetch_bulk
-bip_39_word_underscore_7: equip_undo_update_torch_fetch_bulk_engine
-bip_39_word_underscore_8: equip_undo_update_torch_fetch_bulk_engine_bitter
-bip_39_word_underscore_9: equip_undo_update_torch_fetch_bulk_engine_bitter_clay
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: long
-bip_39_word_dash_10: long-dove-morning-park-success-kidney-transfer-find-dirt-parade
-bip_39_word_dash_11: long-dove-morning-park-success-kidney-transfer-find-dirt-parade-suit
 bip_39_word_dash_12: long-dove-morning-park-success-kidney-transfer-find-dirt-parade-suit-ankle
 bip_39_word_dash_2: long-dove
 bip_39_word_dash_3: long-dove-morning
-bip_39_word_dash_4: long-dove-morning-park
-bip_39_word_dash_5: long-dove-morning-park-success
-bip_39_word_dash_6: long-dove-morning-park-success-kidney
-bip_39_word_dash_7: long-dove-morning-park-success-kidney-transfer
-bip_39_word_dash_8: long-dove-morning-park-success-kidney-transfer-find
-bip_39_word_dash_9: long-dove-morning-park-success-kidney-transfer-find-dirt
-bip_39_word_new_br_1: long
-bip_39_word_new_br_10: long<br>dove<br>morning<br>park<br>success<br>kidney<br>transfer<br>find<br>dirt<br>parade
-bip_39_word_new_br_11: long<br>dove<br>morning<br>park<br>success<br>kidney<br>transfer<br>find<br>dirt<br>parade<br>suit
 bip_39_word_new_br_12: long<br>dove<br>morning<br>park<br>success<br>kidney<br>transfer<br>find<br>dirt<br>parade<br>suit<br>ankle
 bip_39_word_new_br_2: long<br>dove
 bip_39_word_new_br_3: long<br>dove<br>morning
-bip_39_word_new_br_4: long<br>dove<br>morning<br>park
-bip_39_word_new_br_5: long<br>dove<br>morning<br>park<br>success
-bip_39_word_new_br_6: long<br>dove<br>morning<br>park<br>success<br>kidney
-bip_39_word_new_br_7: long<br>dove<br>morning<br>park<br>success<br>kidney<br>transfer
-bip_39_word_new_br_8: long<br>dove<br>morning<br>park<br>success<br>kidney<br>transfer<br>find
-bip_39_word_new_br_9: long<br>dove<br>morning<br>park<br>success<br>kidney<br>transfer<br>find<br>dirt
-bip_39_word_new_line_1: long
-bip_39_word_new_line_10: 'long
-
-  dove
-
-  morning
-
-  park
-
-  success
-
-  kidney
-
-  transfer
-
-  find
-
-  dirt
-
-  parade'
-bip_39_word_new_line_11: 'long
-
-  dove
-
-  morning
-
-  park
-
-  success
-
-  kidney
-
-  transfer
-
-  find
-
-  dirt
-
-  parade
-
-  suit'
 bip_39_word_new_line_12: 'long
 
   dove
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'long
   dove
 
   morning'
-bip_39_word_new_line_4: 'long
-
-  dove
-
-  morning
-
-  park'
-bip_39_word_new_line_5: 'long
-
-  dove
-
-  morning
-
-  park
-
-  success'
-bip_39_word_new_line_6: 'long
-
-  dove
-
-  morning
-
-  park
-
-  success
-
-  kidney'
-bip_39_word_new_line_7: 'long
-
-  dove
-
-  morning
-
-  park
-
-  success
-
-  kidney
-
-  transfer'
-bip_39_word_new_line_8: 'long
-
-  dove
-
-  morning
-
-  park
-
-  success
-
-  kidney
-
-  transfer
-
-  find'
-bip_39_word_new_line_9: 'long
-
-  dove
-
-  morning
-
-  park
-
-  success
-
-  kidney
-
-  transfer
-
-  find
-
-  dirt'
-bip_39_word_no_space_1: long
-bip_39_word_no_space_10: longdovemorningparksuccesskidneytransferfinddirtparade
-bip_39_word_no_space_11: longdovemorningparksuccesskidneytransferfinddirtparadesuit
 bip_39_word_no_space_12: longdovemorningparksuccesskidneytransferfinddirtparadesuitankle
 bip_39_word_no_space_2: longdove
 bip_39_word_no_space_3: longdovemorning
-bip_39_word_no_space_4: longdovemorningpark
-bip_39_word_no_space_5: longdovemorningparksuccess
-bip_39_word_no_space_6: longdovemorningparksuccesskidney
-bip_39_word_no_space_7: longdovemorningparksuccesskidneytransfer
-bip_39_word_no_space_8: longdovemorningparksuccesskidneytransferfind
-bip_39_word_no_space_9: longdovemorningparksuccesskidneytransferfinddirt
-bip_39_word_space_0:
-- long
-- dove
-- morning
-- park
-- success
-- kidney
-- transfer
-- find
-- dirt
-- parade
-- suit
-- ankle
-bip_39_word_space_1: long
-bip_39_word_space_10: long dove morning park success kidney transfer find dirt parade
-bip_39_word_space_11: long dove morning park success kidney transfer find dirt parade
-  suit
 bip_39_word_space_12: long dove morning park success kidney transfer find dirt parade
   suit ankle
 bip_39_word_space_2: long dove
 bip_39_word_space_3: long dove morning
-bip_39_word_space_4: long dove morning park
-bip_39_word_space_5: long dove morning park success
-bip_39_word_space_6: long dove morning park success kidney
-bip_39_word_space_7: long dove morning park success kidney transfer
-bip_39_word_space_8: long dove morning park success kidney transfer find
-bip_39_word_space_9: long dove morning park success kidney transfer find dirt
-bip_39_word_underscore_1: long
-bip_39_word_underscore_10: long_dove_morning_park_success_kidney_transfer_find_dirt_parade
-bip_39_word_underscore_11: long_dove_morning_park_success_kidney_transfer_find_dirt_parade_suit
 bip_39_word_underscore_12: long_dove_morning_park_success_kidney_transfer_find_dirt_parade_suit_ankle
 bip_39_word_underscore_2: long_dove
 bip_39_word_underscore_3: long_dove_morning
-bip_39_word_underscore_4: long_dove_morning_park
-bip_39_word_underscore_5: long_dove_morning_park_success
-bip_39_word_underscore_6: long_dove_morning_park_success_kidney
-bip_39_word_underscore_7: long_dove_morning_park_success_kidney_transfer
-bip_39_word_underscore_8: long_dove_morning_park_success_kidney_transfer_find
-bip_39_word_underscore_9: long_dove_morning_park_success_kidney_transfer_find_dirt
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: filter
-bip_39_word_dash_10: filter-net-hello-hope-worth-august-add-soft-frown-series
-bip_39_word_dash_11: filter-net-hello-hope-worth-august-add-soft-frown-series-rail
 bip_39_word_dash_12: filter-net-hello-hope-worth-august-add-soft-frown-series-rail-aunt
 bip_39_word_dash_2: filter-net
 bip_39_word_dash_3: filter-net-hello
-bip_39_word_dash_4: filter-net-hello-hope
-bip_39_word_dash_5: filter-net-hello-hope-worth
-bip_39_word_dash_6: filter-net-hello-hope-worth-august
-bip_39_word_dash_7: filter-net-hello-hope-worth-august-add
-bip_39_word_dash_8: filter-net-hello-hope-worth-august-add-soft
-bip_39_word_dash_9: filter-net-hello-hope-worth-august-add-soft-frown
-bip_39_word_new_br_1: filter
-bip_39_word_new_br_10: filter<br>net<br>hello<br>hope<br>worth<br>august<br>add<br>soft<br>frown<br>series
-bip_39_word_new_br_11: filter<br>net<br>hello<br>hope<br>worth<br>august<br>add<br>soft<br>frown<br>series<br>rail
 bip_39_word_new_br_12: filter<br>net<br>hello<br>hope<br>worth<br>august<br>add<br>soft<br>frown<br>series<br>rail<br>aunt
 bip_39_word_new_br_2: filter<br>net
 bip_39_word_new_br_3: filter<br>net<br>hello
-bip_39_word_new_br_4: filter<br>net<br>hello<br>hope
-bip_39_word_new_br_5: filter<br>net<br>hello<br>hope<br>worth
-bip_39_word_new_br_6: filter<br>net<br>hello<br>hope<br>worth<br>august
-bip_39_word_new_br_7: filter<br>net<br>hello<br>hope<br>worth<br>august<br>add
-bip_39_word_new_br_8: filter<br>net<br>hello<br>hope<br>worth<br>august<br>add<br>soft
-bip_39_word_new_br_9: filter<br>net<br>hello<br>hope<br>worth<br>august<br>add<br>soft<br>frown
-bip_39_word_new_line_1: filter
-bip_39_word_new_line_10: 'filter
-
-  net
-
-  hello
-
-  hope
-
-  worth
-
-  august
-
-  add
-
-  soft
-
-  frown
-
-  series'
-bip_39_word_new_line_11: 'filter
-
-  net
-
-  hello
-
-  hope
-
-  worth
-
-  august
-
-  add
-
-  soft
-
-  frown
-
-  series
-
-  rail'
 bip_39_word_new_line_12: 'filter
 
   net
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'filter
   net
 
   hello'
-bip_39_word_new_line_4: 'filter
-
-  net
-
-  hello
-
-  hope'
-bip_39_word_new_line_5: 'filter
-
-  net
-
-  hello
-
-  hope
-
-  worth'
-bip_39_word_new_line_6: 'filter
-
-  net
-
-  hello
-
-  hope
-
-  worth
-
-  august'
-bip_39_word_new_line_7: 'filter
-
-  net
-
-  hello
-
-  hope
-
-  worth
-
-  august
-
-  add'
-bip_39_word_new_line_8: 'filter
-
-  net
-
-  hello
-
-  hope
-
-  worth
-
-  august
-
-  add
-
-  soft'
-bip_39_word_new_line_9: 'filter
-
-  net
-
-  hello
-
-  hope
-
-  worth
-
-  august
-
-  add
-
-  soft
-
-  frown'
-bip_39_word_no_space_1: filter
-bip_39_word_no_space_10: filternethellohopeworthaugustaddsoftfrownseries
-bip_39_word_no_space_11: filternethellohopeworthaugustaddsoftfrownseriesrail
 bip_39_word_no_space_12: filternethellohopeworthaugustaddsoftfrownseriesrailaunt
 bip_39_word_no_space_2: filternet
 bip_39_word_no_space_3: filternethello
-bip_39_word_no_space_4: filternethellohope
-bip_39_word_no_space_5: filternethellohopeworth
-bip_39_word_no_space_6: filternethellohopeworthaugust
-bip_39_word_no_space_7: filternethellohopeworthaugustadd
-bip_39_word_no_space_8: filternethellohopeworthaugustaddsoft
-bip_39_word_no_space_9: filternethellohopeworthaugustaddsoftfrown
-bip_39_word_space_0:
-- filter
-- net
-- hello
-- hope
-- worth
-- august
-- add
-- soft
-- frown
-- series
-- rail
-- aunt
-bip_39_word_space_1: filter
-bip_39_word_space_10: filter net hello hope worth august add soft frown series
-bip_39_word_space_11: filter net hello hope worth august add soft frown series rail
 bip_39_word_space_12: filter net hello hope worth august add soft frown series rail
   aunt
 bip_39_word_space_2: filter net
 bip_39_word_space_3: filter net hello
-bip_39_word_space_4: filter net hello hope
-bip_39_word_space_5: filter net hello hope worth
-bip_39_word_space_6: filter net hello hope worth august
-bip_39_word_space_7: filter net hello hope worth august add
-bip_39_word_space_8: filter net hello hope worth august add soft
-bip_39_word_space_9: filter net hello hope worth august add soft frown
-bip_39_word_underscore_1: filter
-bip_39_word_underscore_10: filter_net_hello_hope_worth_august_add_soft_frown_series
-bip_39_word_underscore_11: filter_net_hello_hope_worth_august_add_soft_frown_series_rail
 bip_39_word_underscore_12: filter_net_hello_hope_worth_august_add_soft_frown_series_rail_aunt
 bip_39_word_underscore_2: filter_net
 bip_39_word_underscore_3: filter_net_hello
-bip_39_word_underscore_4: filter_net_hello_hope
-bip_39_word_underscore_5: filter_net_hello_hope_worth
-bip_39_word_underscore_6: filter_net_hello_hope_worth_august
-bip_39_word_underscore_7: filter_net_hello_hope_worth_august_add
-bip_39_word_underscore_8: filter_net_hello_hope_worth_august_add_soft
-bip_39_word_underscore_9: filter_net_hello_hope_worth_august_add_soft_frown
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

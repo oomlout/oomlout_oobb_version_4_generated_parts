@@ -1,68 +1,9 @@
-bip_39_word_dash_1: detect
-bip_39_word_dash_10: detect-swap-jewel-dune-ostrich-leaf-broccoli-pen-critic-fashion
-bip_39_word_dash_11: detect-swap-jewel-dune-ostrich-leaf-broccoli-pen-critic-fashion-vote
 bip_39_word_dash_12: detect-swap-jewel-dune-ostrich-leaf-broccoli-pen-critic-fashion-vote-admit
 bip_39_word_dash_2: detect-swap
 bip_39_word_dash_3: detect-swap-jewel
-bip_39_word_dash_4: detect-swap-jewel-dune
-bip_39_word_dash_5: detect-swap-jewel-dune-ostrich
-bip_39_word_dash_6: detect-swap-jewel-dune-ostrich-leaf
-bip_39_word_dash_7: detect-swap-jewel-dune-ostrich-leaf-broccoli
-bip_39_word_dash_8: detect-swap-jewel-dune-ostrich-leaf-broccoli-pen
-bip_39_word_dash_9: detect-swap-jewel-dune-ostrich-leaf-broccoli-pen-critic
-bip_39_word_new_br_1: detect
-bip_39_word_new_br_10: detect<br>swap<br>jewel<br>dune<br>ostrich<br>leaf<br>broccoli<br>pen<br>critic<br>fashion
-bip_39_word_new_br_11: detect<br>swap<br>jewel<br>dune<br>ostrich<br>leaf<br>broccoli<br>pen<br>critic<br>fashion<br>vote
 bip_39_word_new_br_12: detect<br>swap<br>jewel<br>dune<br>ostrich<br>leaf<br>broccoli<br>pen<br>critic<br>fashion<br>vote<br>admit
 bip_39_word_new_br_2: detect<br>swap
 bip_39_word_new_br_3: detect<br>swap<br>jewel
-bip_39_word_new_br_4: detect<br>swap<br>jewel<br>dune
-bip_39_word_new_br_5: detect<br>swap<br>jewel<br>dune<br>ostrich
-bip_39_word_new_br_6: detect<br>swap<br>jewel<br>dune<br>ostrich<br>leaf
-bip_39_word_new_br_7: detect<br>swap<br>jewel<br>dune<br>ostrich<br>leaf<br>broccoli
-bip_39_word_new_br_8: detect<br>swap<br>jewel<br>dune<br>ostrich<br>leaf<br>broccoli<br>pen
-bip_39_word_new_br_9: detect<br>swap<br>jewel<br>dune<br>ostrich<br>leaf<br>broccoli<br>pen<br>critic
-bip_39_word_new_line_1: detect
-bip_39_word_new_line_10: 'detect
-
-  swap
-
-  jewel
-
-  dune
-
-  ostrich
-
-  leaf
-
-  broccoli
-
-  pen
-
-  critic
-
-  fashion'
-bip_39_word_new_line_11: 'detect
-
-  swap
-
-  jewel
-
-  dune
-
-  ostrich
-
-  leaf
-
-  broccoli
-
-  pen
-
-  critic
-
-  fashion
-
-  vote'
 bip_39_word_new_line_12: 'detect
 
   swap
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'detect
   swap
 
   jewel'
-bip_39_word_new_line_4: 'detect
-
-  swap
-
-  jewel
-
-  dune'
-bip_39_word_new_line_5: 'detect
-
-  swap
-
-  jewel
-
-  dune
-
-  ostrich'
-bip_39_word_new_line_6: 'detect
-
-  swap
-
-  jewel
-
-  dune
-
-  ostrich
-
-  leaf'
-bip_39_word_new_line_7: 'detect
-
-  swap
-
-  jewel
-
-  dune
-
-  ostrich
-
-  leaf
-
-  broccoli'
-bip_39_word_new_line_8: 'detect
-
-  swap
-
-  jewel
-
-  dune
-
-  ostrich
-
-  leaf
-
-  broccoli
-
-  pen'
-bip_39_word_new_line_9: 'detect
-
-  swap
-
-  jewel
-
-  dune
-
-  ostrich
-
-  leaf
-
-  broccoli
-
-  pen
-
-  critic'
-bip_39_word_no_space_1: detect
-bip_39_word_no_space_10: detectswapjewelduneostrichleafbroccolipencriticfashion
-bip_39_word_no_space_11: detectswapjewelduneostrichleafbroccolipencriticfashionvote
 bip_39_word_no_space_12: detectswapjewelduneostrichleafbroccolipencriticfashionvoteadmit
 bip_39_word_no_space_2: detectswap
 bip_39_word_no_space_3: detectswapjewel
-bip_39_word_no_space_4: detectswapjeweldune
-bip_39_word_no_space_5: detectswapjewelduneostrich
-bip_39_word_no_space_6: detectswapjewelduneostrichleaf
-bip_39_word_no_space_7: detectswapjewelduneostrichleafbroccoli
-bip_39_word_no_space_8: detectswapjewelduneostrichleafbroccolipen
-bip_39_word_no_space_9: detectswapjewelduneostrichleafbroccolipencritic
-bip_39_word_space_0:
-- detect
-- swap
-- jewel
-- dune
-- ostrich
-- leaf
-- broccoli
-- pen
-- critic
-- fashion
-- vote
-- admit
-bip_39_word_space_1: detect
-bip_39_word_space_10: detect swap jewel dune ostrich leaf broccoli pen critic fashion
-bip_39_word_space_11: detect swap jewel dune ostrich leaf broccoli pen critic fashion
-  vote
 bip_39_word_space_12: detect swap jewel dune ostrich leaf broccoli pen critic fashion
   vote admit
 bip_39_word_space_2: detect swap
 bip_39_word_space_3: detect swap jewel
-bip_39_word_space_4: detect swap jewel dune
-bip_39_word_space_5: detect swap jewel dune ostrich
-bip_39_word_space_6: detect swap jewel dune ostrich leaf
-bip_39_word_space_7: detect swap jewel dune ostrich leaf broccoli
-bip_39_word_space_8: detect swap jewel dune ostrich leaf broccoli pen
-bip_39_word_space_9: detect swap jewel dune ostrich leaf broccoli pen critic
-bip_39_word_underscore_1: detect
-bip_39_word_underscore_10: detect_swap_jewel_dune_ostrich_leaf_broccoli_pen_critic_fashion
-bip_39_word_underscore_11: detect_swap_jewel_dune_ostrich_leaf_broccoli_pen_critic_fashion_vote
 bip_39_word_underscore_12: detect_swap_jewel_dune_ostrich_leaf_broccoli_pen_critic_fashion_vote_admit
 bip_39_word_underscore_2: detect_swap
 bip_39_word_underscore_3: detect_swap_jewel
-bip_39_word_underscore_4: detect_swap_jewel_dune
-bip_39_word_underscore_5: detect_swap_jewel_dune_ostrich
-bip_39_word_underscore_6: detect_swap_jewel_dune_ostrich_leaf
-bip_39_word_underscore_7: detect_swap_jewel_dune_ostrich_leaf_broccoli
-bip_39_word_underscore_8: detect_swap_jewel_dune_ostrich_leaf_broccoli_pen
-bip_39_word_underscore_9: detect_swap_jewel_dune_ostrich_leaf_broccoli_pen_critic
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

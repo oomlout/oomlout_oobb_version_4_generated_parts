@@ -1,68 +1,9 @@
-bip_39_word_dash_1: solid
-bip_39_word_dash_10: solid-odor-century-leaf-eyebrow-model-domain-chicken-humble-very
-bip_39_word_dash_11: solid-odor-century-leaf-eyebrow-model-domain-chicken-humble-very-shell
 bip_39_word_dash_12: solid-odor-century-leaf-eyebrow-model-domain-chicken-humble-very-shell-alien
 bip_39_word_dash_2: solid-odor
 bip_39_word_dash_3: solid-odor-century
-bip_39_word_dash_4: solid-odor-century-leaf
-bip_39_word_dash_5: solid-odor-century-leaf-eyebrow
-bip_39_word_dash_6: solid-odor-century-leaf-eyebrow-model
-bip_39_word_dash_7: solid-odor-century-leaf-eyebrow-model-domain
-bip_39_word_dash_8: solid-odor-century-leaf-eyebrow-model-domain-chicken
-bip_39_word_dash_9: solid-odor-century-leaf-eyebrow-model-domain-chicken-humble
-bip_39_word_new_br_1: solid
-bip_39_word_new_br_10: solid<br>odor<br>century<br>leaf<br>eyebrow<br>model<br>domain<br>chicken<br>humble<br>very
-bip_39_word_new_br_11: solid<br>odor<br>century<br>leaf<br>eyebrow<br>model<br>domain<br>chicken<br>humble<br>very<br>shell
 bip_39_word_new_br_12: solid<br>odor<br>century<br>leaf<br>eyebrow<br>model<br>domain<br>chicken<br>humble<br>very<br>shell<br>alien
 bip_39_word_new_br_2: solid<br>odor
 bip_39_word_new_br_3: solid<br>odor<br>century
-bip_39_word_new_br_4: solid<br>odor<br>century<br>leaf
-bip_39_word_new_br_5: solid<br>odor<br>century<br>leaf<br>eyebrow
-bip_39_word_new_br_6: solid<br>odor<br>century<br>leaf<br>eyebrow<br>model
-bip_39_word_new_br_7: solid<br>odor<br>century<br>leaf<br>eyebrow<br>model<br>domain
-bip_39_word_new_br_8: solid<br>odor<br>century<br>leaf<br>eyebrow<br>model<br>domain<br>chicken
-bip_39_word_new_br_9: solid<br>odor<br>century<br>leaf<br>eyebrow<br>model<br>domain<br>chicken<br>humble
-bip_39_word_new_line_1: solid
-bip_39_word_new_line_10: 'solid
-
-  odor
-
-  century
-
-  leaf
-
-  eyebrow
-
-  model
-
-  domain
-
-  chicken
-
-  humble
-
-  very'
-bip_39_word_new_line_11: 'solid
-
-  odor
-
-  century
-
-  leaf
-
-  eyebrow
-
-  model
-
-  domain
-
-  chicken
-
-  humble
-
-  very
-
-  shell'
 bip_39_word_new_line_12: 'solid
 
   odor
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'solid
   odor
 
   century'
-bip_39_word_new_line_4: 'solid
-
-  odor
-
-  century
-
-  leaf'
-bip_39_word_new_line_5: 'solid
-
-  odor
-
-  century
-
-  leaf
-
-  eyebrow'
-bip_39_word_new_line_6: 'solid
-
-  odor
-
-  century
-
-  leaf
-
-  eyebrow
-
-  model'
-bip_39_word_new_line_7: 'solid
-
-  odor
-
-  century
-
-  leaf
-
-  eyebrow
-
-  model
-
-  domain'
-bip_39_word_new_line_8: 'solid
-
-  odor
-
-  century
-
-  leaf
-
-  eyebrow
-
-  model
-
-  domain
-
-  chicken'
-bip_39_word_new_line_9: 'solid
-
-  odor
-
-  century
-
-  leaf
-
-  eyebrow
-
-  model
-
-  domain
-
-  chicken
-
-  humble'
-bip_39_word_no_space_1: solid
-bip_39_word_no_space_10: solidodorcenturyleafeyebrowmodeldomainchickenhumblevery
-bip_39_word_no_space_11: solidodorcenturyleafeyebrowmodeldomainchickenhumbleveryshell
 bip_39_word_no_space_12: solidodorcenturyleafeyebrowmodeldomainchickenhumbleveryshellalien
 bip_39_word_no_space_2: solidodor
 bip_39_word_no_space_3: solidodorcentury
-bip_39_word_no_space_4: solidodorcenturyleaf
-bip_39_word_no_space_5: solidodorcenturyleafeyebrow
-bip_39_word_no_space_6: solidodorcenturyleafeyebrowmodel
-bip_39_word_no_space_7: solidodorcenturyleafeyebrowmodeldomain
-bip_39_word_no_space_8: solidodorcenturyleafeyebrowmodeldomainchicken
-bip_39_word_no_space_9: solidodorcenturyleafeyebrowmodeldomainchickenhumble
-bip_39_word_space_0:
-- solid
-- odor
-- century
-- leaf
-- eyebrow
-- model
-- domain
-- chicken
-- humble
-- very
-- shell
-- alien
-bip_39_word_space_1: solid
-bip_39_word_space_10: solid odor century leaf eyebrow model domain chicken humble
-  very
-bip_39_word_space_11: solid odor century leaf eyebrow model domain chicken humble
-  very shell
 bip_39_word_space_12: solid odor century leaf eyebrow model domain chicken humble
   very shell alien
 bip_39_word_space_2: solid odor
 bip_39_word_space_3: solid odor century
-bip_39_word_space_4: solid odor century leaf
-bip_39_word_space_5: solid odor century leaf eyebrow
-bip_39_word_space_6: solid odor century leaf eyebrow model
-bip_39_word_space_7: solid odor century leaf eyebrow model domain
-bip_39_word_space_8: solid odor century leaf eyebrow model domain chicken
-bip_39_word_space_9: solid odor century leaf eyebrow model domain chicken humble
-bip_39_word_underscore_1: solid
-bip_39_word_underscore_10: solid_odor_century_leaf_eyebrow_model_domain_chicken_humble_very
-bip_39_word_underscore_11: solid_odor_century_leaf_eyebrow_model_domain_chicken_humble_very_shell
 bip_39_word_underscore_12: solid_odor_century_leaf_eyebrow_model_domain_chicken_humble_very_shell_alien
 bip_39_word_underscore_2: solid_odor
 bip_39_word_underscore_3: solid_odor_century
-bip_39_word_underscore_4: solid_odor_century_leaf
-bip_39_word_underscore_5: solid_odor_century_leaf_eyebrow
-bip_39_word_underscore_6: solid_odor_century_leaf_eyebrow_model
-bip_39_word_underscore_7: solid_odor_century_leaf_eyebrow_model_domain
-bip_39_word_underscore_8: solid_odor_century_leaf_eyebrow_model_domain_chicken
-bip_39_word_underscore_9: solid_odor_century_leaf_eyebrow_model_domain_chicken_humble
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

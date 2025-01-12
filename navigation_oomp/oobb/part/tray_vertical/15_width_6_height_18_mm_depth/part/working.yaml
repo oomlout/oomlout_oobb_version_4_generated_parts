@@ -1,68 +1,9 @@
-bip_39_word_dash_1: gate
-bip_39_word_dash_10: gate-modify-tip-evoke-wreck-museum-dinosaur-left-deposit-lab
-bip_39_word_dash_11: gate-modify-tip-evoke-wreck-museum-dinosaur-left-deposit-lab-joy
 bip_39_word_dash_12: gate-modify-tip-evoke-wreck-museum-dinosaur-left-deposit-lab-joy-allow
 bip_39_word_dash_2: gate-modify
 bip_39_word_dash_3: gate-modify-tip
-bip_39_word_dash_4: gate-modify-tip-evoke
-bip_39_word_dash_5: gate-modify-tip-evoke-wreck
-bip_39_word_dash_6: gate-modify-tip-evoke-wreck-museum
-bip_39_word_dash_7: gate-modify-tip-evoke-wreck-museum-dinosaur
-bip_39_word_dash_8: gate-modify-tip-evoke-wreck-museum-dinosaur-left
-bip_39_word_dash_9: gate-modify-tip-evoke-wreck-museum-dinosaur-left-deposit
-bip_39_word_new_br_1: gate
-bip_39_word_new_br_10: gate<br>modify<br>tip<br>evoke<br>wreck<br>museum<br>dinosaur<br>left<br>deposit<br>lab
-bip_39_word_new_br_11: gate<br>modify<br>tip<br>evoke<br>wreck<br>museum<br>dinosaur<br>left<br>deposit<br>lab<br>joy
 bip_39_word_new_br_12: gate<br>modify<br>tip<br>evoke<br>wreck<br>museum<br>dinosaur<br>left<br>deposit<br>lab<br>joy<br>allow
 bip_39_word_new_br_2: gate<br>modify
 bip_39_word_new_br_3: gate<br>modify<br>tip
-bip_39_word_new_br_4: gate<br>modify<br>tip<br>evoke
-bip_39_word_new_br_5: gate<br>modify<br>tip<br>evoke<br>wreck
-bip_39_word_new_br_6: gate<br>modify<br>tip<br>evoke<br>wreck<br>museum
-bip_39_word_new_br_7: gate<br>modify<br>tip<br>evoke<br>wreck<br>museum<br>dinosaur
-bip_39_word_new_br_8: gate<br>modify<br>tip<br>evoke<br>wreck<br>museum<br>dinosaur<br>left
-bip_39_word_new_br_9: gate<br>modify<br>tip<br>evoke<br>wreck<br>museum<br>dinosaur<br>left<br>deposit
-bip_39_word_new_line_1: gate
-bip_39_word_new_line_10: 'gate
-
-  modify
-
-  tip
-
-  evoke
-
-  wreck
-
-  museum
-
-  dinosaur
-
-  left
-
-  deposit
-
-  lab'
-bip_39_word_new_line_11: 'gate
-
-  modify
-
-  tip
-
-  evoke
-
-  wreck
-
-  museum
-
-  dinosaur
-
-  left
-
-  deposit
-
-  lab
-
-  joy'
 bip_39_word_new_line_12: 'gate
 
   modify
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'gate
   modify
 
   tip'
-bip_39_word_new_line_4: 'gate
-
-  modify
-
-  tip
-
-  evoke'
-bip_39_word_new_line_5: 'gate
-
-  modify
-
-  tip
-
-  evoke
-
-  wreck'
-bip_39_word_new_line_6: 'gate
-
-  modify
-
-  tip
-
-  evoke
-
-  wreck
-
-  museum'
-bip_39_word_new_line_7: 'gate
-
-  modify
-
-  tip
-
-  evoke
-
-  wreck
-
-  museum
-
-  dinosaur'
-bip_39_word_new_line_8: 'gate
-
-  modify
-
-  tip
-
-  evoke
-
-  wreck
-
-  museum
-
-  dinosaur
-
-  left'
-bip_39_word_new_line_9: 'gate
-
-  modify
-
-  tip
-
-  evoke
-
-  wreck
-
-  museum
-
-  dinosaur
-
-  left
-
-  deposit'
-bip_39_word_no_space_1: gate
-bip_39_word_no_space_10: gatemodifytipevokewreckmuseumdinosaurleftdepositlab
-bip_39_word_no_space_11: gatemodifytipevokewreckmuseumdinosaurleftdepositlabjoy
 bip_39_word_no_space_12: gatemodifytipevokewreckmuseumdinosaurleftdepositlabjoyallow
 bip_39_word_no_space_2: gatemodify
 bip_39_word_no_space_3: gatemodifytip
-bip_39_word_no_space_4: gatemodifytipevoke
-bip_39_word_no_space_5: gatemodifytipevokewreck
-bip_39_word_no_space_6: gatemodifytipevokewreckmuseum
-bip_39_word_no_space_7: gatemodifytipevokewreckmuseumdinosaur
-bip_39_word_no_space_8: gatemodifytipevokewreckmuseumdinosaurleft
-bip_39_word_no_space_9: gatemodifytipevokewreckmuseumdinosaurleftdeposit
-bip_39_word_space_0:
-- gate
-- modify
-- tip
-- evoke
-- wreck
-- museum
-- dinosaur
-- left
-- deposit
-- lab
-- joy
-- allow
-bip_39_word_space_1: gate
-bip_39_word_space_10: gate modify tip evoke wreck museum dinosaur left deposit lab
-bip_39_word_space_11: gate modify tip evoke wreck museum dinosaur left deposit lab
-  joy
 bip_39_word_space_12: gate modify tip evoke wreck museum dinosaur left deposit lab
   joy allow
 bip_39_word_space_2: gate modify
 bip_39_word_space_3: gate modify tip
-bip_39_word_space_4: gate modify tip evoke
-bip_39_word_space_5: gate modify tip evoke wreck
-bip_39_word_space_6: gate modify tip evoke wreck museum
-bip_39_word_space_7: gate modify tip evoke wreck museum dinosaur
-bip_39_word_space_8: gate modify tip evoke wreck museum dinosaur left
-bip_39_word_space_9: gate modify tip evoke wreck museum dinosaur left deposit
-bip_39_word_underscore_1: gate
-bip_39_word_underscore_10: gate_modify_tip_evoke_wreck_museum_dinosaur_left_deposit_lab
-bip_39_word_underscore_11: gate_modify_tip_evoke_wreck_museum_dinosaur_left_deposit_lab_joy
 bip_39_word_underscore_12: gate_modify_tip_evoke_wreck_museum_dinosaur_left_deposit_lab_joy_allow
 bip_39_word_underscore_2: gate_modify
 bip_39_word_underscore_3: gate_modify_tip
-bip_39_word_underscore_4: gate_modify_tip_evoke
-bip_39_word_underscore_5: gate_modify_tip_evoke_wreck
-bip_39_word_underscore_6: gate_modify_tip_evoke_wreck_museum
-bip_39_word_underscore_7: gate_modify_tip_evoke_wreck_museum_dinosaur
-bip_39_word_underscore_8: gate_modify_tip_evoke_wreck_museum_dinosaur_left
-bip_39_word_underscore_9: gate_modify_tip_evoke_wreck_museum_dinosaur_left_deposit
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

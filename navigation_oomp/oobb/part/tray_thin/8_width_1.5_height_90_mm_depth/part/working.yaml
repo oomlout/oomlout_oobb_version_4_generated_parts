@@ -1,68 +1,9 @@
-bip_39_word_dash_1: spare
-bip_39_word_dash_10: spare-piece-pull-remain-rely-street-balance-siege-route-stuff
-bip_39_word_dash_11: spare-piece-pull-remain-rely-street-balance-siege-route-stuff-captain
 bip_39_word_dash_12: spare-piece-pull-remain-rely-street-balance-siege-route-stuff-captain-adapt
 bip_39_word_dash_2: spare-piece
 bip_39_word_dash_3: spare-piece-pull
-bip_39_word_dash_4: spare-piece-pull-remain
-bip_39_word_dash_5: spare-piece-pull-remain-rely
-bip_39_word_dash_6: spare-piece-pull-remain-rely-street
-bip_39_word_dash_7: spare-piece-pull-remain-rely-street-balance
-bip_39_word_dash_8: spare-piece-pull-remain-rely-street-balance-siege
-bip_39_word_dash_9: spare-piece-pull-remain-rely-street-balance-siege-route
-bip_39_word_new_br_1: spare
-bip_39_word_new_br_10: spare<br>piece<br>pull<br>remain<br>rely<br>street<br>balance<br>siege<br>route<br>stuff
-bip_39_word_new_br_11: spare<br>piece<br>pull<br>remain<br>rely<br>street<br>balance<br>siege<br>route<br>stuff<br>captain
 bip_39_word_new_br_12: spare<br>piece<br>pull<br>remain<br>rely<br>street<br>balance<br>siege<br>route<br>stuff<br>captain<br>adapt
 bip_39_word_new_br_2: spare<br>piece
 bip_39_word_new_br_3: spare<br>piece<br>pull
-bip_39_word_new_br_4: spare<br>piece<br>pull<br>remain
-bip_39_word_new_br_5: spare<br>piece<br>pull<br>remain<br>rely
-bip_39_word_new_br_6: spare<br>piece<br>pull<br>remain<br>rely<br>street
-bip_39_word_new_br_7: spare<br>piece<br>pull<br>remain<br>rely<br>street<br>balance
-bip_39_word_new_br_8: spare<br>piece<br>pull<br>remain<br>rely<br>street<br>balance<br>siege
-bip_39_word_new_br_9: spare<br>piece<br>pull<br>remain<br>rely<br>street<br>balance<br>siege<br>route
-bip_39_word_new_line_1: spare
-bip_39_word_new_line_10: 'spare
-
-  piece
-
-  pull
-
-  remain
-
-  rely
-
-  street
-
-  balance
-
-  siege
-
-  route
-
-  stuff'
-bip_39_word_new_line_11: 'spare
-
-  piece
-
-  pull
-
-  remain
-
-  rely
-
-  street
-
-  balance
-
-  siege
-
-  route
-
-  stuff
-
-  captain'
 bip_39_word_new_line_12: 'spare
 
   piece
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'spare
   piece
 
   pull'
-bip_39_word_new_line_4: 'spare
-
-  piece
-
-  pull
-
-  remain'
-bip_39_word_new_line_5: 'spare
-
-  piece
-
-  pull
-
-  remain
-
-  rely'
-bip_39_word_new_line_6: 'spare
-
-  piece
-
-  pull
-
-  remain
-
-  rely
-
-  street'
-bip_39_word_new_line_7: 'spare
-
-  piece
-
-  pull
-
-  remain
-
-  rely
-
-  street
-
-  balance'
-bip_39_word_new_line_8: 'spare
-
-  piece
-
-  pull
-
-  remain
-
-  rely
-
-  street
-
-  balance
-
-  siege'
-bip_39_word_new_line_9: 'spare
-
-  piece
-
-  pull
-
-  remain
-
-  rely
-
-  street
-
-  balance
-
-  siege
-
-  route'
-bip_39_word_no_space_1: spare
-bip_39_word_no_space_10: sparepiecepullremainrelystreetbalancesiegeroutestuff
-bip_39_word_no_space_11: sparepiecepullremainrelystreetbalancesiegeroutestuffcaptain
 bip_39_word_no_space_12: sparepiecepullremainrelystreetbalancesiegeroutestuffcaptainadapt
 bip_39_word_no_space_2: sparepiece
 bip_39_word_no_space_3: sparepiecepull
-bip_39_word_no_space_4: sparepiecepullremain
-bip_39_word_no_space_5: sparepiecepullremainrely
-bip_39_word_no_space_6: sparepiecepullremainrelystreet
-bip_39_word_no_space_7: sparepiecepullremainrelystreetbalance
-bip_39_word_no_space_8: sparepiecepullremainrelystreetbalancesiege
-bip_39_word_no_space_9: sparepiecepullremainrelystreetbalancesiegeroute
-bip_39_word_space_0:
-- spare
-- piece
-- pull
-- remain
-- rely
-- street
-- balance
-- siege
-- route
-- stuff
-- captain
-- adapt
-bip_39_word_space_1: spare
-bip_39_word_space_10: spare piece pull remain rely street balance siege route stuff
-bip_39_word_space_11: spare piece pull remain rely street balance siege route stuff
-  captain
 bip_39_word_space_12: spare piece pull remain rely street balance siege route stuff
   captain adapt
 bip_39_word_space_2: spare piece
 bip_39_word_space_3: spare piece pull
-bip_39_word_space_4: spare piece pull remain
-bip_39_word_space_5: spare piece pull remain rely
-bip_39_word_space_6: spare piece pull remain rely street
-bip_39_word_space_7: spare piece pull remain rely street balance
-bip_39_word_space_8: spare piece pull remain rely street balance siege
-bip_39_word_space_9: spare piece pull remain rely street balance siege route
-bip_39_word_underscore_1: spare
-bip_39_word_underscore_10: spare_piece_pull_remain_rely_street_balance_siege_route_stuff
-bip_39_word_underscore_11: spare_piece_pull_remain_rely_street_balance_siege_route_stuff_captain
 bip_39_word_underscore_12: spare_piece_pull_remain_rely_street_balance_siege_route_stuff_captain_adapt
 bip_39_word_underscore_2: spare_piece
 bip_39_word_underscore_3: spare_piece_pull
-bip_39_word_underscore_4: spare_piece_pull_remain
-bip_39_word_underscore_5: spare_piece_pull_remain_rely
-bip_39_word_underscore_6: spare_piece_pull_remain_rely_street
-bip_39_word_underscore_7: spare_piece_pull_remain_rely_street_balance
-bip_39_word_underscore_8: spare_piece_pull_remain_rely_street_balance_siege
-bip_39_word_underscore_9: spare_piece_pull_remain_rely_street_balance_siege_route
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

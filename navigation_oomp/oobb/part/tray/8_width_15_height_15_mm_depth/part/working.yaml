@@ -1,68 +1,9 @@
-bip_39_word_dash_1: label
-bip_39_word_dash_10: label-month-age-eternal-lizard-frog-bundle-affair-teach-pattern
-bip_39_word_dash_11: label-month-age-eternal-lizard-frog-bundle-affair-teach-pattern-follow
 bip_39_word_dash_12: label-month-age-eternal-lizard-frog-bundle-affair-teach-pattern-follow-analyst
 bip_39_word_dash_2: label-month
 bip_39_word_dash_3: label-month-age
-bip_39_word_dash_4: label-month-age-eternal
-bip_39_word_dash_5: label-month-age-eternal-lizard
-bip_39_word_dash_6: label-month-age-eternal-lizard-frog
-bip_39_word_dash_7: label-month-age-eternal-lizard-frog-bundle
-bip_39_word_dash_8: label-month-age-eternal-lizard-frog-bundle-affair
-bip_39_word_dash_9: label-month-age-eternal-lizard-frog-bundle-affair-teach
-bip_39_word_new_br_1: label
-bip_39_word_new_br_10: label<br>month<br>age<br>eternal<br>lizard<br>frog<br>bundle<br>affair<br>teach<br>pattern
-bip_39_word_new_br_11: label<br>month<br>age<br>eternal<br>lizard<br>frog<br>bundle<br>affair<br>teach<br>pattern<br>follow
 bip_39_word_new_br_12: label<br>month<br>age<br>eternal<br>lizard<br>frog<br>bundle<br>affair<br>teach<br>pattern<br>follow<br>analyst
 bip_39_word_new_br_2: label<br>month
 bip_39_word_new_br_3: label<br>month<br>age
-bip_39_word_new_br_4: label<br>month<br>age<br>eternal
-bip_39_word_new_br_5: label<br>month<br>age<br>eternal<br>lizard
-bip_39_word_new_br_6: label<br>month<br>age<br>eternal<br>lizard<br>frog
-bip_39_word_new_br_7: label<br>month<br>age<br>eternal<br>lizard<br>frog<br>bundle
-bip_39_word_new_br_8: label<br>month<br>age<br>eternal<br>lizard<br>frog<br>bundle<br>affair
-bip_39_word_new_br_9: label<br>month<br>age<br>eternal<br>lizard<br>frog<br>bundle<br>affair<br>teach
-bip_39_word_new_line_1: label
-bip_39_word_new_line_10: 'label
-
-  month
-
-  age
-
-  eternal
-
-  lizard
-
-  frog
-
-  bundle
-
-  affair
-
-  teach
-
-  pattern'
-bip_39_word_new_line_11: 'label
-
-  month
-
-  age
-
-  eternal
-
-  lizard
-
-  frog
-
-  bundle
-
-  affair
-
-  teach
-
-  pattern
-
-  follow'
 bip_39_word_new_line_12: 'label
 
   month
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'label
   month
 
   age'
-bip_39_word_new_line_4: 'label
-
-  month
-
-  age
-
-  eternal'
-bip_39_word_new_line_5: 'label
-
-  month
-
-  age
-
-  eternal
-
-  lizard'
-bip_39_word_new_line_6: 'label
-
-  month
-
-  age
-
-  eternal
-
-  lizard
-
-  frog'
-bip_39_word_new_line_7: 'label
-
-  month
-
-  age
-
-  eternal
-
-  lizard
-
-  frog
-
-  bundle'
-bip_39_word_new_line_8: 'label
-
-  month
-
-  age
-
-  eternal
-
-  lizard
-
-  frog
-
-  bundle
-
-  affair'
-bip_39_word_new_line_9: 'label
-
-  month
-
-  age
-
-  eternal
-
-  lizard
-
-  frog
-
-  bundle
-
-  affair
-
-  teach'
-bip_39_word_no_space_1: label
-bip_39_word_no_space_10: labelmonthageeternallizardfrogbundleaffairteachpattern
-bip_39_word_no_space_11: labelmonthageeternallizardfrogbundleaffairteachpatternfollow
 bip_39_word_no_space_12: labelmonthageeternallizardfrogbundleaffairteachpatternfollowanalyst
 bip_39_word_no_space_2: labelmonth
 bip_39_word_no_space_3: labelmonthage
-bip_39_word_no_space_4: labelmonthageeternal
-bip_39_word_no_space_5: labelmonthageeternallizard
-bip_39_word_no_space_6: labelmonthageeternallizardfrog
-bip_39_word_no_space_7: labelmonthageeternallizardfrogbundle
-bip_39_word_no_space_8: labelmonthageeternallizardfrogbundleaffair
-bip_39_word_no_space_9: labelmonthageeternallizardfrogbundleaffairteach
-bip_39_word_space_0:
-- label
-- month
-- age
-- eternal
-- lizard
-- frog
-- bundle
-- affair
-- teach
-- pattern
-- follow
-- analyst
-bip_39_word_space_1: label
-bip_39_word_space_10: label month age eternal lizard frog bundle affair teach pattern
-bip_39_word_space_11: label month age eternal lizard frog bundle affair teach pattern
-  follow
 bip_39_word_space_12: label month age eternal lizard frog bundle affair teach pattern
   follow analyst
 bip_39_word_space_2: label month
 bip_39_word_space_3: label month age
-bip_39_word_space_4: label month age eternal
-bip_39_word_space_5: label month age eternal lizard
-bip_39_word_space_6: label month age eternal lizard frog
-bip_39_word_space_7: label month age eternal lizard frog bundle
-bip_39_word_space_8: label month age eternal lizard frog bundle affair
-bip_39_word_space_9: label month age eternal lizard frog bundle affair teach
-bip_39_word_underscore_1: label
-bip_39_word_underscore_10: label_month_age_eternal_lizard_frog_bundle_affair_teach_pattern
-bip_39_word_underscore_11: label_month_age_eternal_lizard_frog_bundle_affair_teach_pattern_follow
 bip_39_word_underscore_12: label_month_age_eternal_lizard_frog_bundle_affair_teach_pattern_follow_analyst
 bip_39_word_underscore_2: label_month
 bip_39_word_underscore_3: label_month_age
-bip_39_word_underscore_4: label_month_age_eternal
-bip_39_word_underscore_5: label_month_age_eternal_lizard
-bip_39_word_underscore_6: label_month_age_eternal_lizard_frog
-bip_39_word_underscore_7: label_month_age_eternal_lizard_frog_bundle
-bip_39_word_underscore_8: label_month_age_eternal_lizard_frog_bundle_affair
-bip_39_word_underscore_9: label_month_age_eternal_lizard_frog_bundle_affair_teach
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: receive
-bip_39_word_dash_10: receive-nothing-urge-three-call-front-volcano-toward-pink-treat
-bip_39_word_dash_11: receive-nothing-urge-three-call-front-volcano-toward-pink-treat-middle
 bip_39_word_dash_12: receive-nothing-urge-three-call-front-volcano-toward-pink-treat-middle-again
 bip_39_word_dash_2: receive-nothing
 bip_39_word_dash_3: receive-nothing-urge
-bip_39_word_dash_4: receive-nothing-urge-three
-bip_39_word_dash_5: receive-nothing-urge-three-call
-bip_39_word_dash_6: receive-nothing-urge-three-call-front
-bip_39_word_dash_7: receive-nothing-urge-three-call-front-volcano
-bip_39_word_dash_8: receive-nothing-urge-three-call-front-volcano-toward
-bip_39_word_dash_9: receive-nothing-urge-three-call-front-volcano-toward-pink
-bip_39_word_new_br_1: receive
-bip_39_word_new_br_10: receive<br>nothing<br>urge<br>three<br>call<br>front<br>volcano<br>toward<br>pink<br>treat
-bip_39_word_new_br_11: receive<br>nothing<br>urge<br>three<br>call<br>front<br>volcano<br>toward<br>pink<br>treat<br>middle
 bip_39_word_new_br_12: receive<br>nothing<br>urge<br>three<br>call<br>front<br>volcano<br>toward<br>pink<br>treat<br>middle<br>again
 bip_39_word_new_br_2: receive<br>nothing
 bip_39_word_new_br_3: receive<br>nothing<br>urge
-bip_39_word_new_br_4: receive<br>nothing<br>urge<br>three
-bip_39_word_new_br_5: receive<br>nothing<br>urge<br>three<br>call
-bip_39_word_new_br_6: receive<br>nothing<br>urge<br>three<br>call<br>front
-bip_39_word_new_br_7: receive<br>nothing<br>urge<br>three<br>call<br>front<br>volcano
-bip_39_word_new_br_8: receive<br>nothing<br>urge<br>three<br>call<br>front<br>volcano<br>toward
-bip_39_word_new_br_9: receive<br>nothing<br>urge<br>three<br>call<br>front<br>volcano<br>toward<br>pink
-bip_39_word_new_line_1: receive
-bip_39_word_new_line_10: 'receive
-
-  nothing
-
-  urge
-
-  three
-
-  call
-
-  front
-
-  volcano
-
-  toward
-
-  pink
-
-  treat'
-bip_39_word_new_line_11: 'receive
-
-  nothing
-
-  urge
-
-  three
-
-  call
-
-  front
-
-  volcano
-
-  toward
-
-  pink
-
-  treat
-
-  middle'
 bip_39_word_new_line_12: 'receive
 
   nothing
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'receive
   nothing
 
   urge'
-bip_39_word_new_line_4: 'receive
-
-  nothing
-
-  urge
-
-  three'
-bip_39_word_new_line_5: 'receive
-
-  nothing
-
-  urge
-
-  three
-
-  call'
-bip_39_word_new_line_6: 'receive
-
-  nothing
-
-  urge
-
-  three
-
-  call
-
-  front'
-bip_39_word_new_line_7: 'receive
-
-  nothing
-
-  urge
-
-  three
-
-  call
-
-  front
-
-  volcano'
-bip_39_word_new_line_8: 'receive
-
-  nothing
-
-  urge
-
-  three
-
-  call
-
-  front
-
-  volcano
-
-  toward'
-bip_39_word_new_line_9: 'receive
-
-  nothing
-
-  urge
-
-  three
-
-  call
-
-  front
-
-  volcano
-
-  toward
-
-  pink'
-bip_39_word_no_space_1: receive
-bip_39_word_no_space_10: receivenothingurgethreecallfrontvolcanotowardpinktreat
-bip_39_word_no_space_11: receivenothingurgethreecallfrontvolcanotowardpinktreatmiddle
 bip_39_word_no_space_12: receivenothingurgethreecallfrontvolcanotowardpinktreatmiddleagain
 bip_39_word_no_space_2: receivenothing
 bip_39_word_no_space_3: receivenothingurge
-bip_39_word_no_space_4: receivenothingurgethree
-bip_39_word_no_space_5: receivenothingurgethreecall
-bip_39_word_no_space_6: receivenothingurgethreecallfront
-bip_39_word_no_space_7: receivenothingurgethreecallfrontvolcano
-bip_39_word_no_space_8: receivenothingurgethreecallfrontvolcanotoward
-bip_39_word_no_space_9: receivenothingurgethreecallfrontvolcanotowardpink
-bip_39_word_space_0:
-- receive
-- nothing
-- urge
-- three
-- call
-- front
-- volcano
-- toward
-- pink
-- treat
-- middle
-- again
-bip_39_word_space_1: receive
-bip_39_word_space_10: receive nothing urge three call front volcano toward pink treat
-bip_39_word_space_11: receive nothing urge three call front volcano toward pink treat
-  middle
 bip_39_word_space_12: receive nothing urge three call front volcano toward pink treat
   middle again
 bip_39_word_space_2: receive nothing
 bip_39_word_space_3: receive nothing urge
-bip_39_word_space_4: receive nothing urge three
-bip_39_word_space_5: receive nothing urge three call
-bip_39_word_space_6: receive nothing urge three call front
-bip_39_word_space_7: receive nothing urge three call front volcano
-bip_39_word_space_8: receive nothing urge three call front volcano toward
-bip_39_word_space_9: receive nothing urge three call front volcano toward pink
-bip_39_word_underscore_1: receive
-bip_39_word_underscore_10: receive_nothing_urge_three_call_front_volcano_toward_pink_treat
-bip_39_word_underscore_11: receive_nothing_urge_three_call_front_volcano_toward_pink_treat_middle
 bip_39_word_underscore_12: receive_nothing_urge_three_call_front_volcano_toward_pink_treat_middle_again
 bip_39_word_underscore_2: receive_nothing
 bip_39_word_underscore_3: receive_nothing_urge
-bip_39_word_underscore_4: receive_nothing_urge_three
-bip_39_word_underscore_5: receive_nothing_urge_three_call
-bip_39_word_underscore_6: receive_nothing_urge_three_call_front
-bip_39_word_underscore_7: receive_nothing_urge_three_call_front_volcano
-bip_39_word_underscore_8: receive_nothing_urge_three_call_front_volcano_toward
-bip_39_word_underscore_9: receive_nothing_urge_three_call_front_volcano_toward_pink
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

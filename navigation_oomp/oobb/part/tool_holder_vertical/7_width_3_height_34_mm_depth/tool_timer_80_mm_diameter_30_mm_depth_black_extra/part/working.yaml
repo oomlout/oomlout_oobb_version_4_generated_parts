@@ -1,68 +1,9 @@
-bip_39_word_dash_1: town
-bip_39_word_dash_10: town-claw-lake-rescue-taste-salmon-diesel-nuclear-habit-atom
-bip_39_word_dash_11: town-claw-lake-rescue-taste-salmon-diesel-nuclear-habit-atom-peace
 bip_39_word_dash_12: town-claw-lake-rescue-taste-salmon-diesel-nuclear-habit-atom-peace-audit
 bip_39_word_dash_2: town-claw
 bip_39_word_dash_3: town-claw-lake
-bip_39_word_dash_4: town-claw-lake-rescue
-bip_39_word_dash_5: town-claw-lake-rescue-taste
-bip_39_word_dash_6: town-claw-lake-rescue-taste-salmon
-bip_39_word_dash_7: town-claw-lake-rescue-taste-salmon-diesel
-bip_39_word_dash_8: town-claw-lake-rescue-taste-salmon-diesel-nuclear
-bip_39_word_dash_9: town-claw-lake-rescue-taste-salmon-diesel-nuclear-habit
-bip_39_word_new_br_1: town
-bip_39_word_new_br_10: town<br>claw<br>lake<br>rescue<br>taste<br>salmon<br>diesel<br>nuclear<br>habit<br>atom
-bip_39_word_new_br_11: town<br>claw<br>lake<br>rescue<br>taste<br>salmon<br>diesel<br>nuclear<br>habit<br>atom<br>peace
 bip_39_word_new_br_12: town<br>claw<br>lake<br>rescue<br>taste<br>salmon<br>diesel<br>nuclear<br>habit<br>atom<br>peace<br>audit
 bip_39_word_new_br_2: town<br>claw
 bip_39_word_new_br_3: town<br>claw<br>lake
-bip_39_word_new_br_4: town<br>claw<br>lake<br>rescue
-bip_39_word_new_br_5: town<br>claw<br>lake<br>rescue<br>taste
-bip_39_word_new_br_6: town<br>claw<br>lake<br>rescue<br>taste<br>salmon
-bip_39_word_new_br_7: town<br>claw<br>lake<br>rescue<br>taste<br>salmon<br>diesel
-bip_39_word_new_br_8: town<br>claw<br>lake<br>rescue<br>taste<br>salmon<br>diesel<br>nuclear
-bip_39_word_new_br_9: town<br>claw<br>lake<br>rescue<br>taste<br>salmon<br>diesel<br>nuclear<br>habit
-bip_39_word_new_line_1: town
-bip_39_word_new_line_10: 'town
-
-  claw
-
-  lake
-
-  rescue
-
-  taste
-
-  salmon
-
-  diesel
-
-  nuclear
-
-  habit
-
-  atom'
-bip_39_word_new_line_11: 'town
-
-  claw
-
-  lake
-
-  rescue
-
-  taste
-
-  salmon
-
-  diesel
-
-  nuclear
-
-  habit
-
-  atom
-
-  peace'
 bip_39_word_new_line_12: 'town
 
   claw
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'town
   claw
 
   lake'
-bip_39_word_new_line_4: 'town
-
-  claw
-
-  lake
-
-  rescue'
-bip_39_word_new_line_5: 'town
-
-  claw
-
-  lake
-
-  rescue
-
-  taste'
-bip_39_word_new_line_6: 'town
-
-  claw
-
-  lake
-
-  rescue
-
-  taste
-
-  salmon'
-bip_39_word_new_line_7: 'town
-
-  claw
-
-  lake
-
-  rescue
-
-  taste
-
-  salmon
-
-  diesel'
-bip_39_word_new_line_8: 'town
-
-  claw
-
-  lake
-
-  rescue
-
-  taste
-
-  salmon
-
-  diesel
-
-  nuclear'
-bip_39_word_new_line_9: 'town
-
-  claw
-
-  lake
-
-  rescue
-
-  taste
-
-  salmon
-
-  diesel
-
-  nuclear
-
-  habit'
-bip_39_word_no_space_1: town
-bip_39_word_no_space_10: townclawlakerescuetastesalmondieselnuclearhabitatom
-bip_39_word_no_space_11: townclawlakerescuetastesalmondieselnuclearhabitatompeace
 bip_39_word_no_space_12: townclawlakerescuetastesalmondieselnuclearhabitatompeaceaudit
 bip_39_word_no_space_2: townclaw
 bip_39_word_no_space_3: townclawlake
-bip_39_word_no_space_4: townclawlakerescue
-bip_39_word_no_space_5: townclawlakerescuetaste
-bip_39_word_no_space_6: townclawlakerescuetastesalmon
-bip_39_word_no_space_7: townclawlakerescuetastesalmondiesel
-bip_39_word_no_space_8: townclawlakerescuetastesalmondieselnuclear
-bip_39_word_no_space_9: townclawlakerescuetastesalmondieselnuclearhabit
-bip_39_word_space_0:
-- town
-- claw
-- lake
-- rescue
-- taste
-- salmon
-- diesel
-- nuclear
-- habit
-- atom
-- peace
-- audit
-bip_39_word_space_1: town
-bip_39_word_space_10: town claw lake rescue taste salmon diesel nuclear habit atom
-bip_39_word_space_11: town claw lake rescue taste salmon diesel nuclear habit atom
-  peace
 bip_39_word_space_12: town claw lake rescue taste salmon diesel nuclear habit atom
   peace audit
 bip_39_word_space_2: town claw
 bip_39_word_space_3: town claw lake
-bip_39_word_space_4: town claw lake rescue
-bip_39_word_space_5: town claw lake rescue taste
-bip_39_word_space_6: town claw lake rescue taste salmon
-bip_39_word_space_7: town claw lake rescue taste salmon diesel
-bip_39_word_space_8: town claw lake rescue taste salmon diesel nuclear
-bip_39_word_space_9: town claw lake rescue taste salmon diesel nuclear habit
-bip_39_word_underscore_1: town
-bip_39_word_underscore_10: town_claw_lake_rescue_taste_salmon_diesel_nuclear_habit_atom
-bip_39_word_underscore_11: town_claw_lake_rescue_taste_salmon_diesel_nuclear_habit_atom_peace
 bip_39_word_underscore_12: town_claw_lake_rescue_taste_salmon_diesel_nuclear_habit_atom_peace_audit
 bip_39_word_underscore_2: town_claw
 bip_39_word_underscore_3: town_claw_lake
-bip_39_word_underscore_4: town_claw_lake_rescue
-bip_39_word_underscore_5: town_claw_lake_rescue_taste
-bip_39_word_underscore_6: town_claw_lake_rescue_taste_salmon
-bip_39_word_underscore_7: town_claw_lake_rescue_taste_salmon_diesel
-bip_39_word_underscore_8: town_claw_lake_rescue_taste_salmon_diesel_nuclear
-bip_39_word_underscore_9: town_claw_lake_rescue_taste_salmon_diesel_nuclear_habit
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

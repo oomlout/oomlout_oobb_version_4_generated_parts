@@ -1,68 +1,9 @@
-bip_39_word_dash_1: language
-bip_39_word_dash_10: language-fee-that-hole-industry-present-afraid-bread-apart-pigeon
-bip_39_word_dash_11: language-fee-that-hole-industry-present-afraid-bread-apart-pigeon-census
 bip_39_word_dash_12: language-fee-that-hole-industry-present-afraid-bread-apart-pigeon-census-august
 bip_39_word_dash_2: language-fee
 bip_39_word_dash_3: language-fee-that
-bip_39_word_dash_4: language-fee-that-hole
-bip_39_word_dash_5: language-fee-that-hole-industry
-bip_39_word_dash_6: language-fee-that-hole-industry-present
-bip_39_word_dash_7: language-fee-that-hole-industry-present-afraid
-bip_39_word_dash_8: language-fee-that-hole-industry-present-afraid-bread
-bip_39_word_dash_9: language-fee-that-hole-industry-present-afraid-bread-apart
-bip_39_word_new_br_1: language
-bip_39_word_new_br_10: language<br>fee<br>that<br>hole<br>industry<br>present<br>afraid<br>bread<br>apart<br>pigeon
-bip_39_word_new_br_11: language<br>fee<br>that<br>hole<br>industry<br>present<br>afraid<br>bread<br>apart<br>pigeon<br>census
 bip_39_word_new_br_12: language<br>fee<br>that<br>hole<br>industry<br>present<br>afraid<br>bread<br>apart<br>pigeon<br>census<br>august
 bip_39_word_new_br_2: language<br>fee
 bip_39_word_new_br_3: language<br>fee<br>that
-bip_39_word_new_br_4: language<br>fee<br>that<br>hole
-bip_39_word_new_br_5: language<br>fee<br>that<br>hole<br>industry
-bip_39_word_new_br_6: language<br>fee<br>that<br>hole<br>industry<br>present
-bip_39_word_new_br_7: language<br>fee<br>that<br>hole<br>industry<br>present<br>afraid
-bip_39_word_new_br_8: language<br>fee<br>that<br>hole<br>industry<br>present<br>afraid<br>bread
-bip_39_word_new_br_9: language<br>fee<br>that<br>hole<br>industry<br>present<br>afraid<br>bread<br>apart
-bip_39_word_new_line_1: language
-bip_39_word_new_line_10: 'language
-
-  fee
-
-  that
-
-  hole
-
-  industry
-
-  present
-
-  afraid
-
-  bread
-
-  apart
-
-  pigeon'
-bip_39_word_new_line_11: 'language
-
-  fee
-
-  that
-
-  hole
-
-  industry
-
-  present
-
-  afraid
-
-  bread
-
-  apart
-
-  pigeon
-
-  census'
 bip_39_word_new_line_12: 'language
 
   fee
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'language
   fee
 
   that'
-bip_39_word_new_line_4: 'language
-
-  fee
-
-  that
-
-  hole'
-bip_39_word_new_line_5: 'language
-
-  fee
-
-  that
-
-  hole
-
-  industry'
-bip_39_word_new_line_6: 'language
-
-  fee
-
-  that
-
-  hole
-
-  industry
-
-  present'
-bip_39_word_new_line_7: 'language
-
-  fee
-
-  that
-
-  hole
-
-  industry
-
-  present
-
-  afraid'
-bip_39_word_new_line_8: 'language
-
-  fee
-
-  that
-
-  hole
-
-  industry
-
-  present
-
-  afraid
-
-  bread'
-bip_39_word_new_line_9: 'language
-
-  fee
-
-  that
-
-  hole
-
-  industry
-
-  present
-
-  afraid
-
-  bread
-
-  apart'
-bip_39_word_no_space_1: language
-bip_39_word_no_space_10: languagefeethatholeindustrypresentafraidbreadapartpigeon
-bip_39_word_no_space_11: languagefeethatholeindustrypresentafraidbreadapartpigeoncensus
 bip_39_word_no_space_12: languagefeethatholeindustrypresentafraidbreadapartpigeoncensusaugust
 bip_39_word_no_space_2: languagefee
 bip_39_word_no_space_3: languagefeethat
-bip_39_word_no_space_4: languagefeethathole
-bip_39_word_no_space_5: languagefeethatholeindustry
-bip_39_word_no_space_6: languagefeethatholeindustrypresent
-bip_39_word_no_space_7: languagefeethatholeindustrypresentafraid
-bip_39_word_no_space_8: languagefeethatholeindustrypresentafraidbread
-bip_39_word_no_space_9: languagefeethatholeindustrypresentafraidbreadapart
-bip_39_word_space_0:
-- language
-- fee
-- that
-- hole
-- industry
-- present
-- afraid
-- bread
-- apart
-- pigeon
-- census
-- august
-bip_39_word_space_1: language
-bip_39_word_space_10: language fee that hole industry present afraid bread apart pigeon
-bip_39_word_space_11: language fee that hole industry present afraid bread apart pigeon
-  census
 bip_39_word_space_12: language fee that hole industry present afraid bread apart pigeon
   census august
 bip_39_word_space_2: language fee
 bip_39_word_space_3: language fee that
-bip_39_word_space_4: language fee that hole
-bip_39_word_space_5: language fee that hole industry
-bip_39_word_space_6: language fee that hole industry present
-bip_39_word_space_7: language fee that hole industry present afraid
-bip_39_word_space_8: language fee that hole industry present afraid bread
-bip_39_word_space_9: language fee that hole industry present afraid bread apart
-bip_39_word_underscore_1: language
-bip_39_word_underscore_10: language_fee_that_hole_industry_present_afraid_bread_apart_pigeon
-bip_39_word_underscore_11: language_fee_that_hole_industry_present_afraid_bread_apart_pigeon_census
 bip_39_word_underscore_12: language_fee_that_hole_industry_present_afraid_bread_apart_pigeon_census_august
 bip_39_word_underscore_2: language_fee
 bip_39_word_underscore_3: language_fee_that
-bip_39_word_underscore_4: language_fee_that_hole
-bip_39_word_underscore_5: language_fee_that_hole_industry
-bip_39_word_underscore_6: language_fee_that_hole_industry_present
-bip_39_word_underscore_7: language_fee_that_hole_industry_present_afraid
-bip_39_word_underscore_8: language_fee_that_hole_industry_present_afraid_bread
-bip_39_word_underscore_9: language_fee_that_hole_industry_present_afraid_bread_apart
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

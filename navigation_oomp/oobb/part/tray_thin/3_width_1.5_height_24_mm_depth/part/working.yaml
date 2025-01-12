@@ -1,68 +1,9 @@
-bip_39_word_dash_1: roast
-bip_39_word_dash_10: roast-slab-connect-shoot-panther-bus-right-few-garbage-lava
-bip_39_word_dash_11: roast-slab-connect-shoot-panther-bus-right-few-garbage-lava-faith
 bip_39_word_dash_12: roast-slab-connect-shoot-panther-bus-right-few-garbage-lava-faith-author
 bip_39_word_dash_2: roast-slab
 bip_39_word_dash_3: roast-slab-connect
-bip_39_word_dash_4: roast-slab-connect-shoot
-bip_39_word_dash_5: roast-slab-connect-shoot-panther
-bip_39_word_dash_6: roast-slab-connect-shoot-panther-bus
-bip_39_word_dash_7: roast-slab-connect-shoot-panther-bus-right
-bip_39_word_dash_8: roast-slab-connect-shoot-panther-bus-right-few
-bip_39_word_dash_9: roast-slab-connect-shoot-panther-bus-right-few-garbage
-bip_39_word_new_br_1: roast
-bip_39_word_new_br_10: roast<br>slab<br>connect<br>shoot<br>panther<br>bus<br>right<br>few<br>garbage<br>lava
-bip_39_word_new_br_11: roast<br>slab<br>connect<br>shoot<br>panther<br>bus<br>right<br>few<br>garbage<br>lava<br>faith
 bip_39_word_new_br_12: roast<br>slab<br>connect<br>shoot<br>panther<br>bus<br>right<br>few<br>garbage<br>lava<br>faith<br>author
 bip_39_word_new_br_2: roast<br>slab
 bip_39_word_new_br_3: roast<br>slab<br>connect
-bip_39_word_new_br_4: roast<br>slab<br>connect<br>shoot
-bip_39_word_new_br_5: roast<br>slab<br>connect<br>shoot<br>panther
-bip_39_word_new_br_6: roast<br>slab<br>connect<br>shoot<br>panther<br>bus
-bip_39_word_new_br_7: roast<br>slab<br>connect<br>shoot<br>panther<br>bus<br>right
-bip_39_word_new_br_8: roast<br>slab<br>connect<br>shoot<br>panther<br>bus<br>right<br>few
-bip_39_word_new_br_9: roast<br>slab<br>connect<br>shoot<br>panther<br>bus<br>right<br>few<br>garbage
-bip_39_word_new_line_1: roast
-bip_39_word_new_line_10: 'roast
-
-  slab
-
-  connect
-
-  shoot
-
-  panther
-
-  bus
-
-  right
-
-  few
-
-  garbage
-
-  lava'
-bip_39_word_new_line_11: 'roast
-
-  slab
-
-  connect
-
-  shoot
-
-  panther
-
-  bus
-
-  right
-
-  few
-
-  garbage
-
-  lava
-
-  faith'
 bip_39_word_new_line_12: 'roast
 
   slab
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'roast
   slab
 
   connect'
-bip_39_word_new_line_4: 'roast
-
-  slab
-
-  connect
-
-  shoot'
-bip_39_word_new_line_5: 'roast
-
-  slab
-
-  connect
-
-  shoot
-
-  panther'
-bip_39_word_new_line_6: 'roast
-
-  slab
-
-  connect
-
-  shoot
-
-  panther
-
-  bus'
-bip_39_word_new_line_7: 'roast
-
-  slab
-
-  connect
-
-  shoot
-
-  panther
-
-  bus
-
-  right'
-bip_39_word_new_line_8: 'roast
-
-  slab
-
-  connect
-
-  shoot
-
-  panther
-
-  bus
-
-  right
-
-  few'
-bip_39_word_new_line_9: 'roast
-
-  slab
-
-  connect
-
-  shoot
-
-  panther
-
-  bus
-
-  right
-
-  few
-
-  garbage'
-bip_39_word_no_space_1: roast
-bip_39_word_no_space_10: roastslabconnectshootpantherbusrightfewgarbagelava
-bip_39_word_no_space_11: roastslabconnectshootpantherbusrightfewgarbagelavafaith
 bip_39_word_no_space_12: roastslabconnectshootpantherbusrightfewgarbagelavafaithauthor
 bip_39_word_no_space_2: roastslab
 bip_39_word_no_space_3: roastslabconnect
-bip_39_word_no_space_4: roastslabconnectshoot
-bip_39_word_no_space_5: roastslabconnectshootpanther
-bip_39_word_no_space_6: roastslabconnectshootpantherbus
-bip_39_word_no_space_7: roastslabconnectshootpantherbusright
-bip_39_word_no_space_8: roastslabconnectshootpantherbusrightfew
-bip_39_word_no_space_9: roastslabconnectshootpantherbusrightfewgarbage
-bip_39_word_space_0:
-- roast
-- slab
-- connect
-- shoot
-- panther
-- bus
-- right
-- few
-- garbage
-- lava
-- faith
-- author
-bip_39_word_space_1: roast
-bip_39_word_space_10: roast slab connect shoot panther bus right few garbage lava
-bip_39_word_space_11: roast slab connect shoot panther bus right few garbage lava
-  faith
 bip_39_word_space_12: roast slab connect shoot panther bus right few garbage lava
   faith author
 bip_39_word_space_2: roast slab
 bip_39_word_space_3: roast slab connect
-bip_39_word_space_4: roast slab connect shoot
-bip_39_word_space_5: roast slab connect shoot panther
-bip_39_word_space_6: roast slab connect shoot panther bus
-bip_39_word_space_7: roast slab connect shoot panther bus right
-bip_39_word_space_8: roast slab connect shoot panther bus right few
-bip_39_word_space_9: roast slab connect shoot panther bus right few garbage
-bip_39_word_underscore_1: roast
-bip_39_word_underscore_10: roast_slab_connect_shoot_panther_bus_right_few_garbage_lava
-bip_39_word_underscore_11: roast_slab_connect_shoot_panther_bus_right_few_garbage_lava_faith
 bip_39_word_underscore_12: roast_slab_connect_shoot_panther_bus_right_few_garbage_lava_faith_author
 bip_39_word_underscore_2: roast_slab
 bip_39_word_underscore_3: roast_slab_connect
-bip_39_word_underscore_4: roast_slab_connect_shoot
-bip_39_word_underscore_5: roast_slab_connect_shoot_panther
-bip_39_word_underscore_6: roast_slab_connect_shoot_panther_bus
-bip_39_word_underscore_7: roast_slab_connect_shoot_panther_bus_right
-bip_39_word_underscore_8: roast_slab_connect_shoot_panther_bus_right_few
-bip_39_word_underscore_9: roast_slab_connect_shoot_panther_bus_right_few_garbage
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

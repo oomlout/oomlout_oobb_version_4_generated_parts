@@ -1,68 +1,9 @@
-bip_39_word_dash_1: raise
-bip_39_word_dash_10: raise-derive-couple-dream-amount-disorder-leaf-merry-know-wet
-bip_39_word_dash_11: raise-derive-couple-dream-amount-disorder-leaf-merry-know-wet-donkey
 bip_39_word_dash_12: raise-derive-couple-dream-amount-disorder-leaf-merry-know-wet-donkey-actual
 bip_39_word_dash_2: raise-derive
 bip_39_word_dash_3: raise-derive-couple
-bip_39_word_dash_4: raise-derive-couple-dream
-bip_39_word_dash_5: raise-derive-couple-dream-amount
-bip_39_word_dash_6: raise-derive-couple-dream-amount-disorder
-bip_39_word_dash_7: raise-derive-couple-dream-amount-disorder-leaf
-bip_39_word_dash_8: raise-derive-couple-dream-amount-disorder-leaf-merry
-bip_39_word_dash_9: raise-derive-couple-dream-amount-disorder-leaf-merry-know
-bip_39_word_new_br_1: raise
-bip_39_word_new_br_10: raise<br>derive<br>couple<br>dream<br>amount<br>disorder<br>leaf<br>merry<br>know<br>wet
-bip_39_word_new_br_11: raise<br>derive<br>couple<br>dream<br>amount<br>disorder<br>leaf<br>merry<br>know<br>wet<br>donkey
 bip_39_word_new_br_12: raise<br>derive<br>couple<br>dream<br>amount<br>disorder<br>leaf<br>merry<br>know<br>wet<br>donkey<br>actual
 bip_39_word_new_br_2: raise<br>derive
 bip_39_word_new_br_3: raise<br>derive<br>couple
-bip_39_word_new_br_4: raise<br>derive<br>couple<br>dream
-bip_39_word_new_br_5: raise<br>derive<br>couple<br>dream<br>amount
-bip_39_word_new_br_6: raise<br>derive<br>couple<br>dream<br>amount<br>disorder
-bip_39_word_new_br_7: raise<br>derive<br>couple<br>dream<br>amount<br>disorder<br>leaf
-bip_39_word_new_br_8: raise<br>derive<br>couple<br>dream<br>amount<br>disorder<br>leaf<br>merry
-bip_39_word_new_br_9: raise<br>derive<br>couple<br>dream<br>amount<br>disorder<br>leaf<br>merry<br>know
-bip_39_word_new_line_1: raise
-bip_39_word_new_line_10: 'raise
-
-  derive
-
-  couple
-
-  dream
-
-  amount
-
-  disorder
-
-  leaf
-
-  merry
-
-  know
-
-  wet'
-bip_39_word_new_line_11: 'raise
-
-  derive
-
-  couple
-
-  dream
-
-  amount
-
-  disorder
-
-  leaf
-
-  merry
-
-  know
-
-  wet
-
-  donkey'
 bip_39_word_new_line_12: 'raise
 
   derive
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'raise
   derive
 
   couple'
-bip_39_word_new_line_4: 'raise
-
-  derive
-
-  couple
-
-  dream'
-bip_39_word_new_line_5: 'raise
-
-  derive
-
-  couple
-
-  dream
-
-  amount'
-bip_39_word_new_line_6: 'raise
-
-  derive
-
-  couple
-
-  dream
-
-  amount
-
-  disorder'
-bip_39_word_new_line_7: 'raise
-
-  derive
-
-  couple
-
-  dream
-
-  amount
-
-  disorder
-
-  leaf'
-bip_39_word_new_line_8: 'raise
-
-  derive
-
-  couple
-
-  dream
-
-  amount
-
-  disorder
-
-  leaf
-
-  merry'
-bip_39_word_new_line_9: 'raise
-
-  derive
-
-  couple
-
-  dream
-
-  amount
-
-  disorder
-
-  leaf
-
-  merry
-
-  know'
-bip_39_word_no_space_1: raise
-bip_39_word_no_space_10: raisederivecoupledreamamountdisorderleafmerryknowwet
-bip_39_word_no_space_11: raisederivecoupledreamamountdisorderleafmerryknowwetdonkey
 bip_39_word_no_space_12: raisederivecoupledreamamountdisorderleafmerryknowwetdonkeyactual
 bip_39_word_no_space_2: raisederive
 bip_39_word_no_space_3: raisederivecouple
-bip_39_word_no_space_4: raisederivecoupledream
-bip_39_word_no_space_5: raisederivecoupledreamamount
-bip_39_word_no_space_6: raisederivecoupledreamamountdisorder
-bip_39_word_no_space_7: raisederivecoupledreamamountdisorderleaf
-bip_39_word_no_space_8: raisederivecoupledreamamountdisorderleafmerry
-bip_39_word_no_space_9: raisederivecoupledreamamountdisorderleafmerryknow
-bip_39_word_space_0:
-- raise
-- derive
-- couple
-- dream
-- amount
-- disorder
-- leaf
-- merry
-- know
-- wet
-- donkey
-- actual
-bip_39_word_space_1: raise
-bip_39_word_space_10: raise derive couple dream amount disorder leaf merry know wet
-bip_39_word_space_11: raise derive couple dream amount disorder leaf merry know wet
-  donkey
 bip_39_word_space_12: raise derive couple dream amount disorder leaf merry know wet
   donkey actual
 bip_39_word_space_2: raise derive
 bip_39_word_space_3: raise derive couple
-bip_39_word_space_4: raise derive couple dream
-bip_39_word_space_5: raise derive couple dream amount
-bip_39_word_space_6: raise derive couple dream amount disorder
-bip_39_word_space_7: raise derive couple dream amount disorder leaf
-bip_39_word_space_8: raise derive couple dream amount disorder leaf merry
-bip_39_word_space_9: raise derive couple dream amount disorder leaf merry know
-bip_39_word_underscore_1: raise
-bip_39_word_underscore_10: raise_derive_couple_dream_amount_disorder_leaf_merry_know_wet
-bip_39_word_underscore_11: raise_derive_couple_dream_amount_disorder_leaf_merry_know_wet_donkey
 bip_39_word_underscore_12: raise_derive_couple_dream_amount_disorder_leaf_merry_know_wet_donkey_actual
 bip_39_word_underscore_2: raise_derive
 bip_39_word_underscore_3: raise_derive_couple
-bip_39_word_underscore_4: raise_derive_couple_dream
-bip_39_word_underscore_5: raise_derive_couple_dream_amount
-bip_39_word_underscore_6: raise_derive_couple_dream_amount_disorder
-bip_39_word_underscore_7: raise_derive_couple_dream_amount_disorder_leaf
-bip_39_word_underscore_8: raise_derive_couple_dream_amount_disorder_leaf_merry
-bip_39_word_underscore_9: raise_derive_couple_dream_amount_disorder_leaf_merry_know
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

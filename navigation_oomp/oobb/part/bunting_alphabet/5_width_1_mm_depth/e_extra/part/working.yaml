@@ -1,68 +1,9 @@
-bip_39_word_dash_1: reject
-bip_39_word_dash_10: reject-admit-apart-trash-fatal-month-when-crop-immense-pencil
-bip_39_word_dash_11: reject-admit-apart-trash-fatal-month-when-crop-immense-pencil-chief
 bip_39_word_dash_12: reject-admit-apart-trash-fatal-month-when-crop-immense-pencil-chief-attack
 bip_39_word_dash_2: reject-admit
 bip_39_word_dash_3: reject-admit-apart
-bip_39_word_dash_4: reject-admit-apart-trash
-bip_39_word_dash_5: reject-admit-apart-trash-fatal
-bip_39_word_dash_6: reject-admit-apart-trash-fatal-month
-bip_39_word_dash_7: reject-admit-apart-trash-fatal-month-when
-bip_39_word_dash_8: reject-admit-apart-trash-fatal-month-when-crop
-bip_39_word_dash_9: reject-admit-apart-trash-fatal-month-when-crop-immense
-bip_39_word_new_br_1: reject
-bip_39_word_new_br_10: reject<br>admit<br>apart<br>trash<br>fatal<br>month<br>when<br>crop<br>immense<br>pencil
-bip_39_word_new_br_11: reject<br>admit<br>apart<br>trash<br>fatal<br>month<br>when<br>crop<br>immense<br>pencil<br>chief
 bip_39_word_new_br_12: reject<br>admit<br>apart<br>trash<br>fatal<br>month<br>when<br>crop<br>immense<br>pencil<br>chief<br>attack
 bip_39_word_new_br_2: reject<br>admit
 bip_39_word_new_br_3: reject<br>admit<br>apart
-bip_39_word_new_br_4: reject<br>admit<br>apart<br>trash
-bip_39_word_new_br_5: reject<br>admit<br>apart<br>trash<br>fatal
-bip_39_word_new_br_6: reject<br>admit<br>apart<br>trash<br>fatal<br>month
-bip_39_word_new_br_7: reject<br>admit<br>apart<br>trash<br>fatal<br>month<br>when
-bip_39_word_new_br_8: reject<br>admit<br>apart<br>trash<br>fatal<br>month<br>when<br>crop
-bip_39_word_new_br_9: reject<br>admit<br>apart<br>trash<br>fatal<br>month<br>when<br>crop<br>immense
-bip_39_word_new_line_1: reject
-bip_39_word_new_line_10: 'reject
-
-  admit
-
-  apart
-
-  trash
-
-  fatal
-
-  month
-
-  when
-
-  crop
-
-  immense
-
-  pencil'
-bip_39_word_new_line_11: 'reject
-
-  admit
-
-  apart
-
-  trash
-
-  fatal
-
-  month
-
-  when
-
-  crop
-
-  immense
-
-  pencil
-
-  chief'
 bip_39_word_new_line_12: 'reject
 
   admit
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'reject
   admit
 
   apart'
-bip_39_word_new_line_4: 'reject
-
-  admit
-
-  apart
-
-  trash'
-bip_39_word_new_line_5: 'reject
-
-  admit
-
-  apart
-
-  trash
-
-  fatal'
-bip_39_word_new_line_6: 'reject
-
-  admit
-
-  apart
-
-  trash
-
-  fatal
-
-  month'
-bip_39_word_new_line_7: 'reject
-
-  admit
-
-  apart
-
-  trash
-
-  fatal
-
-  month
-
-  when'
-bip_39_word_new_line_8: 'reject
-
-  admit
-
-  apart
-
-  trash
-
-  fatal
-
-  month
-
-  when
-
-  crop'
-bip_39_word_new_line_9: 'reject
-
-  admit
-
-  apart
-
-  trash
-
-  fatal
-
-  month
-
-  when
-
-  crop
-
-  immense'
-bip_39_word_no_space_1: reject
-bip_39_word_no_space_10: rejectadmitaparttrashfatalmonthwhencropimmensepencil
-bip_39_word_no_space_11: rejectadmitaparttrashfatalmonthwhencropimmensepencilchief
 bip_39_word_no_space_12: rejectadmitaparttrashfatalmonthwhencropimmensepencilchiefattack
 bip_39_word_no_space_2: rejectadmit
 bip_39_word_no_space_3: rejectadmitapart
-bip_39_word_no_space_4: rejectadmitaparttrash
-bip_39_word_no_space_5: rejectadmitaparttrashfatal
-bip_39_word_no_space_6: rejectadmitaparttrashfatalmonth
-bip_39_word_no_space_7: rejectadmitaparttrashfatalmonthwhen
-bip_39_word_no_space_8: rejectadmitaparttrashfatalmonthwhencrop
-bip_39_word_no_space_9: rejectadmitaparttrashfatalmonthwhencropimmense
-bip_39_word_space_0:
-- reject
-- admit
-- apart
-- trash
-- fatal
-- month
-- when
-- crop
-- immense
-- pencil
-- chief
-- attack
-bip_39_word_space_1: reject
-bip_39_word_space_10: reject admit apart trash fatal month when crop immense pencil
-bip_39_word_space_11: reject admit apart trash fatal month when crop immense pencil
-  chief
 bip_39_word_space_12: reject admit apart trash fatal month when crop immense pencil
   chief attack
 bip_39_word_space_2: reject admit
 bip_39_word_space_3: reject admit apart
-bip_39_word_space_4: reject admit apart trash
-bip_39_word_space_5: reject admit apart trash fatal
-bip_39_word_space_6: reject admit apart trash fatal month
-bip_39_word_space_7: reject admit apart trash fatal month when
-bip_39_word_space_8: reject admit apart trash fatal month when crop
-bip_39_word_space_9: reject admit apart trash fatal month when crop immense
-bip_39_word_underscore_1: reject
-bip_39_word_underscore_10: reject_admit_apart_trash_fatal_month_when_crop_immense_pencil
-bip_39_word_underscore_11: reject_admit_apart_trash_fatal_month_when_crop_immense_pencil_chief
 bip_39_word_underscore_12: reject_admit_apart_trash_fatal_month_when_crop_immense_pencil_chief_attack
 bip_39_word_underscore_2: reject_admit
 bip_39_word_underscore_3: reject_admit_apart
-bip_39_word_underscore_4: reject_admit_apart_trash
-bip_39_word_underscore_5: reject_admit_apart_trash_fatal
-bip_39_word_underscore_6: reject_admit_apart_trash_fatal_month
-bip_39_word_underscore_7: reject_admit_apart_trash_fatal_month_when
-bip_39_word_underscore_8: reject_admit_apart_trash_fatal_month_when_crop
-bip_39_word_underscore_9: reject_admit_apart_trash_fatal_month_when_crop_immense
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

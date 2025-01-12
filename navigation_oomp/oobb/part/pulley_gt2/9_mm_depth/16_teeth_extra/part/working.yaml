@@ -1,68 +1,9 @@
-bip_39_word_dash_1: lottery
-bip_39_word_dash_10: lottery-need-sunset-bicycle-float-share-girl-ostrich-crawl-feed
-bip_39_word_dash_11: lottery-need-sunset-bicycle-float-share-girl-ostrich-crawl-feed-crew
 bip_39_word_dash_12: lottery-need-sunset-bicycle-float-share-girl-ostrich-crawl-feed-crew-apart
 bip_39_word_dash_2: lottery-need
 bip_39_word_dash_3: lottery-need-sunset
-bip_39_word_dash_4: lottery-need-sunset-bicycle
-bip_39_word_dash_5: lottery-need-sunset-bicycle-float
-bip_39_word_dash_6: lottery-need-sunset-bicycle-float-share
-bip_39_word_dash_7: lottery-need-sunset-bicycle-float-share-girl
-bip_39_word_dash_8: lottery-need-sunset-bicycle-float-share-girl-ostrich
-bip_39_word_dash_9: lottery-need-sunset-bicycle-float-share-girl-ostrich-crawl
-bip_39_word_new_br_1: lottery
-bip_39_word_new_br_10: lottery<br>need<br>sunset<br>bicycle<br>float<br>share<br>girl<br>ostrich<br>crawl<br>feed
-bip_39_word_new_br_11: lottery<br>need<br>sunset<br>bicycle<br>float<br>share<br>girl<br>ostrich<br>crawl<br>feed<br>crew
 bip_39_word_new_br_12: lottery<br>need<br>sunset<br>bicycle<br>float<br>share<br>girl<br>ostrich<br>crawl<br>feed<br>crew<br>apart
 bip_39_word_new_br_2: lottery<br>need
 bip_39_word_new_br_3: lottery<br>need<br>sunset
-bip_39_word_new_br_4: lottery<br>need<br>sunset<br>bicycle
-bip_39_word_new_br_5: lottery<br>need<br>sunset<br>bicycle<br>float
-bip_39_word_new_br_6: lottery<br>need<br>sunset<br>bicycle<br>float<br>share
-bip_39_word_new_br_7: lottery<br>need<br>sunset<br>bicycle<br>float<br>share<br>girl
-bip_39_word_new_br_8: lottery<br>need<br>sunset<br>bicycle<br>float<br>share<br>girl<br>ostrich
-bip_39_word_new_br_9: lottery<br>need<br>sunset<br>bicycle<br>float<br>share<br>girl<br>ostrich<br>crawl
-bip_39_word_new_line_1: lottery
-bip_39_word_new_line_10: 'lottery
-
-  need
-
-  sunset
-
-  bicycle
-
-  float
-
-  share
-
-  girl
-
-  ostrich
-
-  crawl
-
-  feed'
-bip_39_word_new_line_11: 'lottery
-
-  need
-
-  sunset
-
-  bicycle
-
-  float
-
-  share
-
-  girl
-
-  ostrich
-
-  crawl
-
-  feed
-
-  crew'
 bip_39_word_new_line_12: 'lottery
 
   need
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'lottery
   need
 
   sunset'
-bip_39_word_new_line_4: 'lottery
-
-  need
-
-  sunset
-
-  bicycle'
-bip_39_word_new_line_5: 'lottery
-
-  need
-
-  sunset
-
-  bicycle
-
-  float'
-bip_39_word_new_line_6: 'lottery
-
-  need
-
-  sunset
-
-  bicycle
-
-  float
-
-  share'
-bip_39_word_new_line_7: 'lottery
-
-  need
-
-  sunset
-
-  bicycle
-
-  float
-
-  share
-
-  girl'
-bip_39_word_new_line_8: 'lottery
-
-  need
-
-  sunset
-
-  bicycle
-
-  float
-
-  share
-
-  girl
-
-  ostrich'
-bip_39_word_new_line_9: 'lottery
-
-  need
-
-  sunset
-
-  bicycle
-
-  float
-
-  share
-
-  girl
-
-  ostrich
-
-  crawl'
-bip_39_word_no_space_1: lottery
-bip_39_word_no_space_10: lotteryneedsunsetbicyclefloatsharegirlostrichcrawlfeed
-bip_39_word_no_space_11: lotteryneedsunsetbicyclefloatsharegirlostrichcrawlfeedcrew
 bip_39_word_no_space_12: lotteryneedsunsetbicyclefloatsharegirlostrichcrawlfeedcrewapart
 bip_39_word_no_space_2: lotteryneed
 bip_39_word_no_space_3: lotteryneedsunset
-bip_39_word_no_space_4: lotteryneedsunsetbicycle
-bip_39_word_no_space_5: lotteryneedsunsetbicyclefloat
-bip_39_word_no_space_6: lotteryneedsunsetbicyclefloatshare
-bip_39_word_no_space_7: lotteryneedsunsetbicyclefloatsharegirl
-bip_39_word_no_space_8: lotteryneedsunsetbicyclefloatsharegirlostrich
-bip_39_word_no_space_9: lotteryneedsunsetbicyclefloatsharegirlostrichcrawl
-bip_39_word_space_0:
-- lottery
-- need
-- sunset
-- bicycle
-- float
-- share
-- girl
-- ostrich
-- crawl
-- feed
-- crew
-- apart
-bip_39_word_space_1: lottery
-bip_39_word_space_10: lottery need sunset bicycle float share girl ostrich crawl feed
-bip_39_word_space_11: lottery need sunset bicycle float share girl ostrich crawl feed
-  crew
 bip_39_word_space_12: lottery need sunset bicycle float share girl ostrich crawl feed
   crew apart
 bip_39_word_space_2: lottery need
 bip_39_word_space_3: lottery need sunset
-bip_39_word_space_4: lottery need sunset bicycle
-bip_39_word_space_5: lottery need sunset bicycle float
-bip_39_word_space_6: lottery need sunset bicycle float share
-bip_39_word_space_7: lottery need sunset bicycle float share girl
-bip_39_word_space_8: lottery need sunset bicycle float share girl ostrich
-bip_39_word_space_9: lottery need sunset bicycle float share girl ostrich crawl
-bip_39_word_underscore_1: lottery
-bip_39_word_underscore_10: lottery_need_sunset_bicycle_float_share_girl_ostrich_crawl_feed
-bip_39_word_underscore_11: lottery_need_sunset_bicycle_float_share_girl_ostrich_crawl_feed_crew
 bip_39_word_underscore_12: lottery_need_sunset_bicycle_float_share_girl_ostrich_crawl_feed_crew_apart
 bip_39_word_underscore_2: lottery_need
 bip_39_word_underscore_3: lottery_need_sunset
-bip_39_word_underscore_4: lottery_need_sunset_bicycle
-bip_39_word_underscore_5: lottery_need_sunset_bicycle_float
-bip_39_word_underscore_6: lottery_need_sunset_bicycle_float_share
-bip_39_word_underscore_7: lottery_need_sunset_bicycle_float_share_girl
-bip_39_word_underscore_8: lottery_need_sunset_bicycle_float_share_girl_ostrich
-bip_39_word_underscore_9: lottery_need_sunset_bicycle_float_share_girl_ostrich_crawl
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

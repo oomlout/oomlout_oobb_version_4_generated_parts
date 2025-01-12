@@ -1,68 +1,9 @@
-bip_39_word_dash_1: zoo
-bip_39_word_dash_10: zoo-chase-clump-train-power-afraid-spike-erupt-alone-carry
-bip_39_word_dash_11: zoo-chase-clump-train-power-afraid-spike-erupt-alone-carry-spoil
 bip_39_word_dash_12: zoo-chase-clump-train-power-afraid-spike-erupt-alone-carry-spoil-avocado
 bip_39_word_dash_2: zoo-chase
 bip_39_word_dash_3: zoo-chase-clump
-bip_39_word_dash_4: zoo-chase-clump-train
-bip_39_word_dash_5: zoo-chase-clump-train-power
-bip_39_word_dash_6: zoo-chase-clump-train-power-afraid
-bip_39_word_dash_7: zoo-chase-clump-train-power-afraid-spike
-bip_39_word_dash_8: zoo-chase-clump-train-power-afraid-spike-erupt
-bip_39_word_dash_9: zoo-chase-clump-train-power-afraid-spike-erupt-alone
-bip_39_word_new_br_1: zoo
-bip_39_word_new_br_10: zoo<br>chase<br>clump<br>train<br>power<br>afraid<br>spike<br>erupt<br>alone<br>carry
-bip_39_word_new_br_11: zoo<br>chase<br>clump<br>train<br>power<br>afraid<br>spike<br>erupt<br>alone<br>carry<br>spoil
 bip_39_word_new_br_12: zoo<br>chase<br>clump<br>train<br>power<br>afraid<br>spike<br>erupt<br>alone<br>carry<br>spoil<br>avocado
 bip_39_word_new_br_2: zoo<br>chase
 bip_39_word_new_br_3: zoo<br>chase<br>clump
-bip_39_word_new_br_4: zoo<br>chase<br>clump<br>train
-bip_39_word_new_br_5: zoo<br>chase<br>clump<br>train<br>power
-bip_39_word_new_br_6: zoo<br>chase<br>clump<br>train<br>power<br>afraid
-bip_39_word_new_br_7: zoo<br>chase<br>clump<br>train<br>power<br>afraid<br>spike
-bip_39_word_new_br_8: zoo<br>chase<br>clump<br>train<br>power<br>afraid<br>spike<br>erupt
-bip_39_word_new_br_9: zoo<br>chase<br>clump<br>train<br>power<br>afraid<br>spike<br>erupt<br>alone
-bip_39_word_new_line_1: zoo
-bip_39_word_new_line_10: 'zoo
-
-  chase
-
-  clump
-
-  train
-
-  power
-
-  afraid
-
-  spike
-
-  erupt
-
-  alone
-
-  carry'
-bip_39_word_new_line_11: 'zoo
-
-  chase
-
-  clump
-
-  train
-
-  power
-
-  afraid
-
-  spike
-
-  erupt
-
-  alone
-
-  carry
-
-  spoil'
 bip_39_word_new_line_12: 'zoo
 
   chase
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'zoo
   chase
 
   clump'
-bip_39_word_new_line_4: 'zoo
-
-  chase
-
-  clump
-
-  train'
-bip_39_word_new_line_5: 'zoo
-
-  chase
-
-  clump
-
-  train
-
-  power'
-bip_39_word_new_line_6: 'zoo
-
-  chase
-
-  clump
-
-  train
-
-  power
-
-  afraid'
-bip_39_word_new_line_7: 'zoo
-
-  chase
-
-  clump
-
-  train
-
-  power
-
-  afraid
-
-  spike'
-bip_39_word_new_line_8: 'zoo
-
-  chase
-
-  clump
-
-  train
-
-  power
-
-  afraid
-
-  spike
-
-  erupt'
-bip_39_word_new_line_9: 'zoo
-
-  chase
-
-  clump
-
-  train
-
-  power
-
-  afraid
-
-  spike
-
-  erupt
-
-  alone'
-bip_39_word_no_space_1: zoo
-bip_39_word_no_space_10: zoochaseclumptrainpowerafraidspikeeruptalonecarry
-bip_39_word_no_space_11: zoochaseclumptrainpowerafraidspikeeruptalonecarryspoil
 bip_39_word_no_space_12: zoochaseclumptrainpowerafraidspikeeruptalonecarryspoilavocado
 bip_39_word_no_space_2: zoochase
 bip_39_word_no_space_3: zoochaseclump
-bip_39_word_no_space_4: zoochaseclumptrain
-bip_39_word_no_space_5: zoochaseclumptrainpower
-bip_39_word_no_space_6: zoochaseclumptrainpowerafraid
-bip_39_word_no_space_7: zoochaseclumptrainpowerafraidspike
-bip_39_word_no_space_8: zoochaseclumptrainpowerafraidspikeerupt
-bip_39_word_no_space_9: zoochaseclumptrainpowerafraidspikeeruptalone
-bip_39_word_space_0:
-- zoo
-- chase
-- clump
-- train
-- power
-- afraid
-- spike
-- erupt
-- alone
-- carry
-- spoil
-- avocado
-bip_39_word_space_1: zoo
-bip_39_word_space_10: zoo chase clump train power afraid spike erupt alone carry
-bip_39_word_space_11: zoo chase clump train power afraid spike erupt alone carry spoil
 bip_39_word_space_12: zoo chase clump train power afraid spike erupt alone carry spoil
   avocado
 bip_39_word_space_2: zoo chase
 bip_39_word_space_3: zoo chase clump
-bip_39_word_space_4: zoo chase clump train
-bip_39_word_space_5: zoo chase clump train power
-bip_39_word_space_6: zoo chase clump train power afraid
-bip_39_word_space_7: zoo chase clump train power afraid spike
-bip_39_word_space_8: zoo chase clump train power afraid spike erupt
-bip_39_word_space_9: zoo chase clump train power afraid spike erupt alone
-bip_39_word_underscore_1: zoo
-bip_39_word_underscore_10: zoo_chase_clump_train_power_afraid_spike_erupt_alone_carry
-bip_39_word_underscore_11: zoo_chase_clump_train_power_afraid_spike_erupt_alone_carry_spoil
 bip_39_word_underscore_12: zoo_chase_clump_train_power_afraid_spike_erupt_alone_carry_spoil_avocado
 bip_39_word_underscore_2: zoo_chase
 bip_39_word_underscore_3: zoo_chase_clump
-bip_39_word_underscore_4: zoo_chase_clump_train
-bip_39_word_underscore_5: zoo_chase_clump_train_power
-bip_39_word_underscore_6: zoo_chase_clump_train_power_afraid
-bip_39_word_underscore_7: zoo_chase_clump_train_power_afraid_spike
-bip_39_word_underscore_8: zoo_chase_clump_train_power_afraid_spike_erupt
-bip_39_word_underscore_9: zoo_chase_clump_train_power_afraid_spike_erupt_alone
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: cost
-bip_39_word_dash_10: cost-cruel-siren-silent-suffer-nephew-typical-inner-super-south
-bip_39_word_dash_11: cost-cruel-siren-silent-suffer-nephew-typical-inner-super-south-grant
 bip_39_word_dash_12: cost-cruel-siren-silent-suffer-nephew-typical-inner-super-south-grant-acoustic
 bip_39_word_dash_2: cost-cruel
 bip_39_word_dash_3: cost-cruel-siren
-bip_39_word_dash_4: cost-cruel-siren-silent
-bip_39_word_dash_5: cost-cruel-siren-silent-suffer
-bip_39_word_dash_6: cost-cruel-siren-silent-suffer-nephew
-bip_39_word_dash_7: cost-cruel-siren-silent-suffer-nephew-typical
-bip_39_word_dash_8: cost-cruel-siren-silent-suffer-nephew-typical-inner
-bip_39_word_dash_9: cost-cruel-siren-silent-suffer-nephew-typical-inner-super
-bip_39_word_new_br_1: cost
-bip_39_word_new_br_10: cost<br>cruel<br>siren<br>silent<br>suffer<br>nephew<br>typical<br>inner<br>super<br>south
-bip_39_word_new_br_11: cost<br>cruel<br>siren<br>silent<br>suffer<br>nephew<br>typical<br>inner<br>super<br>south<br>grant
 bip_39_word_new_br_12: cost<br>cruel<br>siren<br>silent<br>suffer<br>nephew<br>typical<br>inner<br>super<br>south<br>grant<br>acoustic
 bip_39_word_new_br_2: cost<br>cruel
 bip_39_word_new_br_3: cost<br>cruel<br>siren
-bip_39_word_new_br_4: cost<br>cruel<br>siren<br>silent
-bip_39_word_new_br_5: cost<br>cruel<br>siren<br>silent<br>suffer
-bip_39_word_new_br_6: cost<br>cruel<br>siren<br>silent<br>suffer<br>nephew
-bip_39_word_new_br_7: cost<br>cruel<br>siren<br>silent<br>suffer<br>nephew<br>typical
-bip_39_word_new_br_8: cost<br>cruel<br>siren<br>silent<br>suffer<br>nephew<br>typical<br>inner
-bip_39_word_new_br_9: cost<br>cruel<br>siren<br>silent<br>suffer<br>nephew<br>typical<br>inner<br>super
-bip_39_word_new_line_1: cost
-bip_39_word_new_line_10: 'cost
-
-  cruel
-
-  siren
-
-  silent
-
-  suffer
-
-  nephew
-
-  typical
-
-  inner
-
-  super
-
-  south'
-bip_39_word_new_line_11: 'cost
-
-  cruel
-
-  siren
-
-  silent
-
-  suffer
-
-  nephew
-
-  typical
-
-  inner
-
-  super
-
-  south
-
-  grant'
 bip_39_word_new_line_12: 'cost
 
   cruel
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'cost
   cruel
 
   siren'
-bip_39_word_new_line_4: 'cost
-
-  cruel
-
-  siren
-
-  silent'
-bip_39_word_new_line_5: 'cost
-
-  cruel
-
-  siren
-
-  silent
-
-  suffer'
-bip_39_word_new_line_6: 'cost
-
-  cruel
-
-  siren
-
-  silent
-
-  suffer
-
-  nephew'
-bip_39_word_new_line_7: 'cost
-
-  cruel
-
-  siren
-
-  silent
-
-  suffer
-
-  nephew
-
-  typical'
-bip_39_word_new_line_8: 'cost
-
-  cruel
-
-  siren
-
-  silent
-
-  suffer
-
-  nephew
-
-  typical
-
-  inner'
-bip_39_word_new_line_9: 'cost
-
-  cruel
-
-  siren
-
-  silent
-
-  suffer
-
-  nephew
-
-  typical
-
-  inner
-
-  super'
-bip_39_word_no_space_1: cost
-bip_39_word_no_space_10: costcruelsirensilentsuffernephewtypicalinnersupersouth
-bip_39_word_no_space_11: costcruelsirensilentsuffernephewtypicalinnersupersouthgrant
 bip_39_word_no_space_12: costcruelsirensilentsuffernephewtypicalinnersupersouthgrantacoustic
 bip_39_word_no_space_2: costcruel
 bip_39_word_no_space_3: costcruelsiren
-bip_39_word_no_space_4: costcruelsirensilent
-bip_39_word_no_space_5: costcruelsirensilentsuffer
-bip_39_word_no_space_6: costcruelsirensilentsuffernephew
-bip_39_word_no_space_7: costcruelsirensilentsuffernephewtypical
-bip_39_word_no_space_8: costcruelsirensilentsuffernephewtypicalinner
-bip_39_word_no_space_9: costcruelsirensilentsuffernephewtypicalinnersuper
-bip_39_word_space_0:
-- cost
-- cruel
-- siren
-- silent
-- suffer
-- nephew
-- typical
-- inner
-- super
-- south
-- grant
-- acoustic
-bip_39_word_space_1: cost
-bip_39_word_space_10: cost cruel siren silent suffer nephew typical inner super south
-bip_39_word_space_11: cost cruel siren silent suffer nephew typical inner super south
-  grant
 bip_39_word_space_12: cost cruel siren silent suffer nephew typical inner super south
   grant acoustic
 bip_39_word_space_2: cost cruel
 bip_39_word_space_3: cost cruel siren
-bip_39_word_space_4: cost cruel siren silent
-bip_39_word_space_5: cost cruel siren silent suffer
-bip_39_word_space_6: cost cruel siren silent suffer nephew
-bip_39_word_space_7: cost cruel siren silent suffer nephew typical
-bip_39_word_space_8: cost cruel siren silent suffer nephew typical inner
-bip_39_word_space_9: cost cruel siren silent suffer nephew typical inner super
-bip_39_word_underscore_1: cost
-bip_39_word_underscore_10: cost_cruel_siren_silent_suffer_nephew_typical_inner_super_south
-bip_39_word_underscore_11: cost_cruel_siren_silent_suffer_nephew_typical_inner_super_south_grant
 bip_39_word_underscore_12: cost_cruel_siren_silent_suffer_nephew_typical_inner_super_south_grant_acoustic
 bip_39_word_underscore_2: cost_cruel
 bip_39_word_underscore_3: cost_cruel_siren
-bip_39_word_underscore_4: cost_cruel_siren_silent
-bip_39_word_underscore_5: cost_cruel_siren_silent_suffer
-bip_39_word_underscore_6: cost_cruel_siren_silent_suffer_nephew
-bip_39_word_underscore_7: cost_cruel_siren_silent_suffer_nephew_typical
-bip_39_word_underscore_8: cost_cruel_siren_silent_suffer_nephew_typical_inner
-bip_39_word_underscore_9: cost_cruel_siren_silent_suffer_nephew_typical_inner_super
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

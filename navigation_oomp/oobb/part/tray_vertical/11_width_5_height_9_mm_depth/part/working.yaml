@@ -1,68 +1,9 @@
-bip_39_word_dash_1: wait
-bip_39_word_dash_10: wait-clump-region-source-soft-federal-gather-disorder-eye-minor
-bip_39_word_dash_11: wait-clump-region-source-soft-federal-gather-disorder-eye-minor-crash
 bip_39_word_dash_12: wait-clump-region-source-soft-federal-gather-disorder-eye-minor-crash-arena
 bip_39_word_dash_2: wait-clump
 bip_39_word_dash_3: wait-clump-region
-bip_39_word_dash_4: wait-clump-region-source
-bip_39_word_dash_5: wait-clump-region-source-soft
-bip_39_word_dash_6: wait-clump-region-source-soft-federal
-bip_39_word_dash_7: wait-clump-region-source-soft-federal-gather
-bip_39_word_dash_8: wait-clump-region-source-soft-federal-gather-disorder
-bip_39_word_dash_9: wait-clump-region-source-soft-federal-gather-disorder-eye
-bip_39_word_new_br_1: wait
-bip_39_word_new_br_10: wait<br>clump<br>region<br>source<br>soft<br>federal<br>gather<br>disorder<br>eye<br>minor
-bip_39_word_new_br_11: wait<br>clump<br>region<br>source<br>soft<br>federal<br>gather<br>disorder<br>eye<br>minor<br>crash
 bip_39_word_new_br_12: wait<br>clump<br>region<br>source<br>soft<br>federal<br>gather<br>disorder<br>eye<br>minor<br>crash<br>arena
 bip_39_word_new_br_2: wait<br>clump
 bip_39_word_new_br_3: wait<br>clump<br>region
-bip_39_word_new_br_4: wait<br>clump<br>region<br>source
-bip_39_word_new_br_5: wait<br>clump<br>region<br>source<br>soft
-bip_39_word_new_br_6: wait<br>clump<br>region<br>source<br>soft<br>federal
-bip_39_word_new_br_7: wait<br>clump<br>region<br>source<br>soft<br>federal<br>gather
-bip_39_word_new_br_8: wait<br>clump<br>region<br>source<br>soft<br>federal<br>gather<br>disorder
-bip_39_word_new_br_9: wait<br>clump<br>region<br>source<br>soft<br>federal<br>gather<br>disorder<br>eye
-bip_39_word_new_line_1: wait
-bip_39_word_new_line_10: 'wait
-
-  clump
-
-  region
-
-  source
-
-  soft
-
-  federal
-
-  gather
-
-  disorder
-
-  eye
-
-  minor'
-bip_39_word_new_line_11: 'wait
-
-  clump
-
-  region
-
-  source
-
-  soft
-
-  federal
-
-  gather
-
-  disorder
-
-  eye
-
-  minor
-
-  crash'
 bip_39_word_new_line_12: 'wait
 
   clump
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'wait
   clump
 
   region'
-bip_39_word_new_line_4: 'wait
-
-  clump
-
-  region
-
-  source'
-bip_39_word_new_line_5: 'wait
-
-  clump
-
-  region
-
-  source
-
-  soft'
-bip_39_word_new_line_6: 'wait
-
-  clump
-
-  region
-
-  source
-
-  soft
-
-  federal'
-bip_39_word_new_line_7: 'wait
-
-  clump
-
-  region
-
-  source
-
-  soft
-
-  federal
-
-  gather'
-bip_39_word_new_line_8: 'wait
-
-  clump
-
-  region
-
-  source
-
-  soft
-
-  federal
-
-  gather
-
-  disorder'
-bip_39_word_new_line_9: 'wait
-
-  clump
-
-  region
-
-  source
-
-  soft
-
-  federal
-
-  gather
-
-  disorder
-
-  eye'
-bip_39_word_no_space_1: wait
-bip_39_word_no_space_10: waitclumpregionsourcesoftfederalgatherdisordereyeminor
-bip_39_word_no_space_11: waitclumpregionsourcesoftfederalgatherdisordereyeminorcrash
 bip_39_word_no_space_12: waitclumpregionsourcesoftfederalgatherdisordereyeminorcrasharena
 bip_39_word_no_space_2: waitclump
 bip_39_word_no_space_3: waitclumpregion
-bip_39_word_no_space_4: waitclumpregionsource
-bip_39_word_no_space_5: waitclumpregionsourcesoft
-bip_39_word_no_space_6: waitclumpregionsourcesoftfederal
-bip_39_word_no_space_7: waitclumpregionsourcesoftfederalgather
-bip_39_word_no_space_8: waitclumpregionsourcesoftfederalgatherdisorder
-bip_39_word_no_space_9: waitclumpregionsourcesoftfederalgatherdisordereye
-bip_39_word_space_0:
-- wait
-- clump
-- region
-- source
-- soft
-- federal
-- gather
-- disorder
-- eye
-- minor
-- crash
-- arena
-bip_39_word_space_1: wait
-bip_39_word_space_10: wait clump region source soft federal gather disorder eye minor
-bip_39_word_space_11: wait clump region source soft federal gather disorder eye minor
-  crash
 bip_39_word_space_12: wait clump region source soft federal gather disorder eye minor
   crash arena
 bip_39_word_space_2: wait clump
 bip_39_word_space_3: wait clump region
-bip_39_word_space_4: wait clump region source
-bip_39_word_space_5: wait clump region source soft
-bip_39_word_space_6: wait clump region source soft federal
-bip_39_word_space_7: wait clump region source soft federal gather
-bip_39_word_space_8: wait clump region source soft federal gather disorder
-bip_39_word_space_9: wait clump region source soft federal gather disorder eye
-bip_39_word_underscore_1: wait
-bip_39_word_underscore_10: wait_clump_region_source_soft_federal_gather_disorder_eye_minor
-bip_39_word_underscore_11: wait_clump_region_source_soft_federal_gather_disorder_eye_minor_crash
 bip_39_word_underscore_12: wait_clump_region_source_soft_federal_gather_disorder_eye_minor_crash_arena
 bip_39_word_underscore_2: wait_clump
 bip_39_word_underscore_3: wait_clump_region
-bip_39_word_underscore_4: wait_clump_region_source
-bip_39_word_underscore_5: wait_clump_region_source_soft
-bip_39_word_underscore_6: wait_clump_region_source_soft_federal
-bip_39_word_underscore_7: wait_clump_region_source_soft_federal_gather
-bip_39_word_underscore_8: wait_clump_region_source_soft_federal_gather_disorder
-bip_39_word_underscore_9: wait_clump_region_source_soft_federal_gather_disorder_eye
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

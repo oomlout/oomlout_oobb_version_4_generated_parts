@@ -1,68 +1,9 @@
-bip_39_word_dash_1: patch
-bip_39_word_dash_10: patch-extra-unknown-random-cash-trust-game-when-matrix-place
-bip_39_word_dash_11: patch-extra-unknown-random-cash-trust-game-when-matrix-place-famous
 bip_39_word_dash_12: patch-extra-unknown-random-cash-trust-game-when-matrix-place-famous-age
 bip_39_word_dash_2: patch-extra
 bip_39_word_dash_3: patch-extra-unknown
-bip_39_word_dash_4: patch-extra-unknown-random
-bip_39_word_dash_5: patch-extra-unknown-random-cash
-bip_39_word_dash_6: patch-extra-unknown-random-cash-trust
-bip_39_word_dash_7: patch-extra-unknown-random-cash-trust-game
-bip_39_word_dash_8: patch-extra-unknown-random-cash-trust-game-when
-bip_39_word_dash_9: patch-extra-unknown-random-cash-trust-game-when-matrix
-bip_39_word_new_br_1: patch
-bip_39_word_new_br_10: patch<br>extra<br>unknown<br>random<br>cash<br>trust<br>game<br>when<br>matrix<br>place
-bip_39_word_new_br_11: patch<br>extra<br>unknown<br>random<br>cash<br>trust<br>game<br>when<br>matrix<br>place<br>famous
 bip_39_word_new_br_12: patch<br>extra<br>unknown<br>random<br>cash<br>trust<br>game<br>when<br>matrix<br>place<br>famous<br>age
 bip_39_word_new_br_2: patch<br>extra
 bip_39_word_new_br_3: patch<br>extra<br>unknown
-bip_39_word_new_br_4: patch<br>extra<br>unknown<br>random
-bip_39_word_new_br_5: patch<br>extra<br>unknown<br>random<br>cash
-bip_39_word_new_br_6: patch<br>extra<br>unknown<br>random<br>cash<br>trust
-bip_39_word_new_br_7: patch<br>extra<br>unknown<br>random<br>cash<br>trust<br>game
-bip_39_word_new_br_8: patch<br>extra<br>unknown<br>random<br>cash<br>trust<br>game<br>when
-bip_39_word_new_br_9: patch<br>extra<br>unknown<br>random<br>cash<br>trust<br>game<br>when<br>matrix
-bip_39_word_new_line_1: patch
-bip_39_word_new_line_10: 'patch
-
-  extra
-
-  unknown
-
-  random
-
-  cash
-
-  trust
-
-  game
-
-  when
-
-  matrix
-
-  place'
-bip_39_word_new_line_11: 'patch
-
-  extra
-
-  unknown
-
-  random
-
-  cash
-
-  trust
-
-  game
-
-  when
-
-  matrix
-
-  place
-
-  famous'
 bip_39_word_new_line_12: 'patch
 
   extra
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'patch
   extra
 
   unknown'
-bip_39_word_new_line_4: 'patch
-
-  extra
-
-  unknown
-
-  random'
-bip_39_word_new_line_5: 'patch
-
-  extra
-
-  unknown
-
-  random
-
-  cash'
-bip_39_word_new_line_6: 'patch
-
-  extra
-
-  unknown
-
-  random
-
-  cash
-
-  trust'
-bip_39_word_new_line_7: 'patch
-
-  extra
-
-  unknown
-
-  random
-
-  cash
-
-  trust
-
-  game'
-bip_39_word_new_line_8: 'patch
-
-  extra
-
-  unknown
-
-  random
-
-  cash
-
-  trust
-
-  game
-
-  when'
-bip_39_word_new_line_9: 'patch
-
-  extra
-
-  unknown
-
-  random
-
-  cash
-
-  trust
-
-  game
-
-  when
-
-  matrix'
-bip_39_word_no_space_1: patch
-bip_39_word_no_space_10: patchextraunknownrandomcashtrustgamewhenmatrixplace
-bip_39_word_no_space_11: patchextraunknownrandomcashtrustgamewhenmatrixplacefamous
 bip_39_word_no_space_12: patchextraunknownrandomcashtrustgamewhenmatrixplacefamousage
 bip_39_word_no_space_2: patchextra
 bip_39_word_no_space_3: patchextraunknown
-bip_39_word_no_space_4: patchextraunknownrandom
-bip_39_word_no_space_5: patchextraunknownrandomcash
-bip_39_word_no_space_6: patchextraunknownrandomcashtrust
-bip_39_word_no_space_7: patchextraunknownrandomcashtrustgame
-bip_39_word_no_space_8: patchextraunknownrandomcashtrustgamewhen
-bip_39_word_no_space_9: patchextraunknownrandomcashtrustgamewhenmatrix
-bip_39_word_space_0:
-- patch
-- extra
-- unknown
-- random
-- cash
-- trust
-- game
-- when
-- matrix
-- place
-- famous
-- age
-bip_39_word_space_1: patch
-bip_39_word_space_10: patch extra unknown random cash trust game when matrix place
-bip_39_word_space_11: patch extra unknown random cash trust game when matrix place
-  famous
 bip_39_word_space_12: patch extra unknown random cash trust game when matrix place
   famous age
 bip_39_word_space_2: patch extra
 bip_39_word_space_3: patch extra unknown
-bip_39_word_space_4: patch extra unknown random
-bip_39_word_space_5: patch extra unknown random cash
-bip_39_word_space_6: patch extra unknown random cash trust
-bip_39_word_space_7: patch extra unknown random cash trust game
-bip_39_word_space_8: patch extra unknown random cash trust game when
-bip_39_word_space_9: patch extra unknown random cash trust game when matrix
-bip_39_word_underscore_1: patch
-bip_39_word_underscore_10: patch_extra_unknown_random_cash_trust_game_when_matrix_place
-bip_39_word_underscore_11: patch_extra_unknown_random_cash_trust_game_when_matrix_place_famous
 bip_39_word_underscore_12: patch_extra_unknown_random_cash_trust_game_when_matrix_place_famous_age
 bip_39_word_underscore_2: patch_extra
 bip_39_word_underscore_3: patch_extra_unknown
-bip_39_word_underscore_4: patch_extra_unknown_random
-bip_39_word_underscore_5: patch_extra_unknown_random_cash
-bip_39_word_underscore_6: patch_extra_unknown_random_cash_trust
-bip_39_word_underscore_7: patch_extra_unknown_random_cash_trust_game
-bip_39_word_underscore_8: patch_extra_unknown_random_cash_trust_game_when
-bip_39_word_underscore_9: patch_extra_unknown_random_cash_trust_game_when_matrix
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

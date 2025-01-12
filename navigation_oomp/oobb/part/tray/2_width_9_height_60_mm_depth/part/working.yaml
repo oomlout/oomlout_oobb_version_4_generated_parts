@@ -1,68 +1,9 @@
-bip_39_word_dash_1: rent
-bip_39_word_dash_10: rent-sport-sibling-village-intact-solid-hammer-cigar-bar-pull
-bip_39_word_dash_11: rent-sport-sibling-village-intact-solid-hammer-cigar-bar-pull-photo
 bip_39_word_dash_12: rent-sport-sibling-village-intact-solid-hammer-cigar-bar-pull-photo-action
 bip_39_word_dash_2: rent-sport
 bip_39_word_dash_3: rent-sport-sibling
-bip_39_word_dash_4: rent-sport-sibling-village
-bip_39_word_dash_5: rent-sport-sibling-village-intact
-bip_39_word_dash_6: rent-sport-sibling-village-intact-solid
-bip_39_word_dash_7: rent-sport-sibling-village-intact-solid-hammer
-bip_39_word_dash_8: rent-sport-sibling-village-intact-solid-hammer-cigar
-bip_39_word_dash_9: rent-sport-sibling-village-intact-solid-hammer-cigar-bar
-bip_39_word_new_br_1: rent
-bip_39_word_new_br_10: rent<br>sport<br>sibling<br>village<br>intact<br>solid<br>hammer<br>cigar<br>bar<br>pull
-bip_39_word_new_br_11: rent<br>sport<br>sibling<br>village<br>intact<br>solid<br>hammer<br>cigar<br>bar<br>pull<br>photo
 bip_39_word_new_br_12: rent<br>sport<br>sibling<br>village<br>intact<br>solid<br>hammer<br>cigar<br>bar<br>pull<br>photo<br>action
 bip_39_word_new_br_2: rent<br>sport
 bip_39_word_new_br_3: rent<br>sport<br>sibling
-bip_39_word_new_br_4: rent<br>sport<br>sibling<br>village
-bip_39_word_new_br_5: rent<br>sport<br>sibling<br>village<br>intact
-bip_39_word_new_br_6: rent<br>sport<br>sibling<br>village<br>intact<br>solid
-bip_39_word_new_br_7: rent<br>sport<br>sibling<br>village<br>intact<br>solid<br>hammer
-bip_39_word_new_br_8: rent<br>sport<br>sibling<br>village<br>intact<br>solid<br>hammer<br>cigar
-bip_39_word_new_br_9: rent<br>sport<br>sibling<br>village<br>intact<br>solid<br>hammer<br>cigar<br>bar
-bip_39_word_new_line_1: rent
-bip_39_word_new_line_10: 'rent
-
-  sport
-
-  sibling
-
-  village
-
-  intact
-
-  solid
-
-  hammer
-
-  cigar
-
-  bar
-
-  pull'
-bip_39_word_new_line_11: 'rent
-
-  sport
-
-  sibling
-
-  village
-
-  intact
-
-  solid
-
-  hammer
-
-  cigar
-
-  bar
-
-  pull
-
-  photo'
 bip_39_word_new_line_12: 'rent
 
   sport
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'rent
   sport
 
   sibling'
-bip_39_word_new_line_4: 'rent
-
-  sport
-
-  sibling
-
-  village'
-bip_39_word_new_line_5: 'rent
-
-  sport
-
-  sibling
-
-  village
-
-  intact'
-bip_39_word_new_line_6: 'rent
-
-  sport
-
-  sibling
-
-  village
-
-  intact
-
-  solid'
-bip_39_word_new_line_7: 'rent
-
-  sport
-
-  sibling
-
-  village
-
-  intact
-
-  solid
-
-  hammer'
-bip_39_word_new_line_8: 'rent
-
-  sport
-
-  sibling
-
-  village
-
-  intact
-
-  solid
-
-  hammer
-
-  cigar'
-bip_39_word_new_line_9: 'rent
-
-  sport
-
-  sibling
-
-  village
-
-  intact
-
-  solid
-
-  hammer
-
-  cigar
-
-  bar'
-bip_39_word_no_space_1: rent
-bip_39_word_no_space_10: rentsportsiblingvillageintactsolidhammercigarbarpull
-bip_39_word_no_space_11: rentsportsiblingvillageintactsolidhammercigarbarpullphoto
 bip_39_word_no_space_12: rentsportsiblingvillageintactsolidhammercigarbarpullphotoaction
 bip_39_word_no_space_2: rentsport
 bip_39_word_no_space_3: rentsportsibling
-bip_39_word_no_space_4: rentsportsiblingvillage
-bip_39_word_no_space_5: rentsportsiblingvillageintact
-bip_39_word_no_space_6: rentsportsiblingvillageintactsolid
-bip_39_word_no_space_7: rentsportsiblingvillageintactsolidhammer
-bip_39_word_no_space_8: rentsportsiblingvillageintactsolidhammercigar
-bip_39_word_no_space_9: rentsportsiblingvillageintactsolidhammercigarbar
-bip_39_word_space_0:
-- rent
-- sport
-- sibling
-- village
-- intact
-- solid
-- hammer
-- cigar
-- bar
-- pull
-- photo
-- action
-bip_39_word_space_1: rent
-bip_39_word_space_10: rent sport sibling village intact solid hammer cigar bar pull
-bip_39_word_space_11: rent sport sibling village intact solid hammer cigar bar pull
-  photo
 bip_39_word_space_12: rent sport sibling village intact solid hammer cigar bar pull
   photo action
 bip_39_word_space_2: rent sport
 bip_39_word_space_3: rent sport sibling
-bip_39_word_space_4: rent sport sibling village
-bip_39_word_space_5: rent sport sibling village intact
-bip_39_word_space_6: rent sport sibling village intact solid
-bip_39_word_space_7: rent sport sibling village intact solid hammer
-bip_39_word_space_8: rent sport sibling village intact solid hammer cigar
-bip_39_word_space_9: rent sport sibling village intact solid hammer cigar bar
-bip_39_word_underscore_1: rent
-bip_39_word_underscore_10: rent_sport_sibling_village_intact_solid_hammer_cigar_bar_pull
-bip_39_word_underscore_11: rent_sport_sibling_village_intact_solid_hammer_cigar_bar_pull_photo
 bip_39_word_underscore_12: rent_sport_sibling_village_intact_solid_hammer_cigar_bar_pull_photo_action
 bip_39_word_underscore_2: rent_sport
 bip_39_word_underscore_3: rent_sport_sibling
-bip_39_word_underscore_4: rent_sport_sibling_village
-bip_39_word_underscore_5: rent_sport_sibling_village_intact
-bip_39_word_underscore_6: rent_sport_sibling_village_intact_solid
-bip_39_word_underscore_7: rent_sport_sibling_village_intact_solid_hammer
-bip_39_word_underscore_8: rent_sport_sibling_village_intact_solid_hammer_cigar
-bip_39_word_underscore_9: rent_sport_sibling_village_intact_solid_hammer_cigar_bar
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

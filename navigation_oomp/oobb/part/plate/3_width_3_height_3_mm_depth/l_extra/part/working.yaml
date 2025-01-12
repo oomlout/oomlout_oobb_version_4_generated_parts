@@ -1,68 +1,9 @@
-bip_39_word_dash_1: state
-bip_39_word_dash_10: state-grain-become-rate-wolf-bounce-explain-faith-tunnel-bulk
-bip_39_word_dash_11: state-grain-become-rate-wolf-bounce-explain-faith-tunnel-bulk-female
 bip_39_word_dash_12: state-grain-become-rate-wolf-bounce-explain-faith-tunnel-bulk-female-address
 bip_39_word_dash_2: state-grain
 bip_39_word_dash_3: state-grain-become
-bip_39_word_dash_4: state-grain-become-rate
-bip_39_word_dash_5: state-grain-become-rate-wolf
-bip_39_word_dash_6: state-grain-become-rate-wolf-bounce
-bip_39_word_dash_7: state-grain-become-rate-wolf-bounce-explain
-bip_39_word_dash_8: state-grain-become-rate-wolf-bounce-explain-faith
-bip_39_word_dash_9: state-grain-become-rate-wolf-bounce-explain-faith-tunnel
-bip_39_word_new_br_1: state
-bip_39_word_new_br_10: state<br>grain<br>become<br>rate<br>wolf<br>bounce<br>explain<br>faith<br>tunnel<br>bulk
-bip_39_word_new_br_11: state<br>grain<br>become<br>rate<br>wolf<br>bounce<br>explain<br>faith<br>tunnel<br>bulk<br>female
 bip_39_word_new_br_12: state<br>grain<br>become<br>rate<br>wolf<br>bounce<br>explain<br>faith<br>tunnel<br>bulk<br>female<br>address
 bip_39_word_new_br_2: state<br>grain
 bip_39_word_new_br_3: state<br>grain<br>become
-bip_39_word_new_br_4: state<br>grain<br>become<br>rate
-bip_39_word_new_br_5: state<br>grain<br>become<br>rate<br>wolf
-bip_39_word_new_br_6: state<br>grain<br>become<br>rate<br>wolf<br>bounce
-bip_39_word_new_br_7: state<br>grain<br>become<br>rate<br>wolf<br>bounce<br>explain
-bip_39_word_new_br_8: state<br>grain<br>become<br>rate<br>wolf<br>bounce<br>explain<br>faith
-bip_39_word_new_br_9: state<br>grain<br>become<br>rate<br>wolf<br>bounce<br>explain<br>faith<br>tunnel
-bip_39_word_new_line_1: state
-bip_39_word_new_line_10: 'state
-
-  grain
-
-  become
-
-  rate
-
-  wolf
-
-  bounce
-
-  explain
-
-  faith
-
-  tunnel
-
-  bulk'
-bip_39_word_new_line_11: 'state
-
-  grain
-
-  become
-
-  rate
-
-  wolf
-
-  bounce
-
-  explain
-
-  faith
-
-  tunnel
-
-  bulk
-
-  female'
 bip_39_word_new_line_12: 'state
 
   grain
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'state
   grain
 
   become'
-bip_39_word_new_line_4: 'state
-
-  grain
-
-  become
-
-  rate'
-bip_39_word_new_line_5: 'state
-
-  grain
-
-  become
-
-  rate
-
-  wolf'
-bip_39_word_new_line_6: 'state
-
-  grain
-
-  become
-
-  rate
-
-  wolf
-
-  bounce'
-bip_39_word_new_line_7: 'state
-
-  grain
-
-  become
-
-  rate
-
-  wolf
-
-  bounce
-
-  explain'
-bip_39_word_new_line_8: 'state
-
-  grain
-
-  become
-
-  rate
-
-  wolf
-
-  bounce
-
-  explain
-
-  faith'
-bip_39_word_new_line_9: 'state
-
-  grain
-
-  become
-
-  rate
-
-  wolf
-
-  bounce
-
-  explain
-
-  faith
-
-  tunnel'
-bip_39_word_no_space_1: state
-bip_39_word_no_space_10: stategrainbecomeratewolfbounceexplainfaithtunnelbulk
-bip_39_word_no_space_11: stategrainbecomeratewolfbounceexplainfaithtunnelbulkfemale
 bip_39_word_no_space_12: stategrainbecomeratewolfbounceexplainfaithtunnelbulkfemaleaddress
 bip_39_word_no_space_2: stategrain
 bip_39_word_no_space_3: stategrainbecome
-bip_39_word_no_space_4: stategrainbecomerate
-bip_39_word_no_space_5: stategrainbecomeratewolf
-bip_39_word_no_space_6: stategrainbecomeratewolfbounce
-bip_39_word_no_space_7: stategrainbecomeratewolfbounceexplain
-bip_39_word_no_space_8: stategrainbecomeratewolfbounceexplainfaith
-bip_39_word_no_space_9: stategrainbecomeratewolfbounceexplainfaithtunnel
-bip_39_word_space_0:
-- state
-- grain
-- become
-- rate
-- wolf
-- bounce
-- explain
-- faith
-- tunnel
-- bulk
-- female
-- address
-bip_39_word_space_1: state
-bip_39_word_space_10: state grain become rate wolf bounce explain faith tunnel bulk
-bip_39_word_space_11: state grain become rate wolf bounce explain faith tunnel bulk
-  female
 bip_39_word_space_12: state grain become rate wolf bounce explain faith tunnel bulk
   female address
 bip_39_word_space_2: state grain
 bip_39_word_space_3: state grain become
-bip_39_word_space_4: state grain become rate
-bip_39_word_space_5: state grain become rate wolf
-bip_39_word_space_6: state grain become rate wolf bounce
-bip_39_word_space_7: state grain become rate wolf bounce explain
-bip_39_word_space_8: state grain become rate wolf bounce explain faith
-bip_39_word_space_9: state grain become rate wolf bounce explain faith tunnel
-bip_39_word_underscore_1: state
-bip_39_word_underscore_10: state_grain_become_rate_wolf_bounce_explain_faith_tunnel_bulk
-bip_39_word_underscore_11: state_grain_become_rate_wolf_bounce_explain_faith_tunnel_bulk_female
 bip_39_word_underscore_12: state_grain_become_rate_wolf_bounce_explain_faith_tunnel_bulk_female_address
 bip_39_word_underscore_2: state_grain
 bip_39_word_underscore_3: state_grain_become
-bip_39_word_underscore_4: state_grain_become_rate
-bip_39_word_underscore_5: state_grain_become_rate_wolf
-bip_39_word_underscore_6: state_grain_become_rate_wolf_bounce
-bip_39_word_underscore_7: state_grain_become_rate_wolf_bounce_explain
-bip_39_word_underscore_8: state_grain_become_rate_wolf_bounce_explain_faith
-bip_39_word_underscore_9: state_grain_become_rate_wolf_bounce_explain_faith_tunnel
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: sausage
-bip_39_word_dash_10: sausage-turtle-gauge-letter-destroy-announce-wash-laptop-social-other
-bip_39_word_dash_11: sausage-turtle-gauge-letter-destroy-announce-wash-laptop-social-other-finish
 bip_39_word_dash_12: sausage-turtle-gauge-letter-destroy-announce-wash-laptop-social-other-finish-auto
 bip_39_word_dash_2: sausage-turtle
 bip_39_word_dash_3: sausage-turtle-gauge
-bip_39_word_dash_4: sausage-turtle-gauge-letter
-bip_39_word_dash_5: sausage-turtle-gauge-letter-destroy
-bip_39_word_dash_6: sausage-turtle-gauge-letter-destroy-announce
-bip_39_word_dash_7: sausage-turtle-gauge-letter-destroy-announce-wash
-bip_39_word_dash_8: sausage-turtle-gauge-letter-destroy-announce-wash-laptop
-bip_39_word_dash_9: sausage-turtle-gauge-letter-destroy-announce-wash-laptop-social
-bip_39_word_new_br_1: sausage
-bip_39_word_new_br_10: sausage<br>turtle<br>gauge<br>letter<br>destroy<br>announce<br>wash<br>laptop<br>social<br>other
-bip_39_word_new_br_11: sausage<br>turtle<br>gauge<br>letter<br>destroy<br>announce<br>wash<br>laptop<br>social<br>other<br>finish
 bip_39_word_new_br_12: sausage<br>turtle<br>gauge<br>letter<br>destroy<br>announce<br>wash<br>laptop<br>social<br>other<br>finish<br>auto
 bip_39_word_new_br_2: sausage<br>turtle
 bip_39_word_new_br_3: sausage<br>turtle<br>gauge
-bip_39_word_new_br_4: sausage<br>turtle<br>gauge<br>letter
-bip_39_word_new_br_5: sausage<br>turtle<br>gauge<br>letter<br>destroy
-bip_39_word_new_br_6: sausage<br>turtle<br>gauge<br>letter<br>destroy<br>announce
-bip_39_word_new_br_7: sausage<br>turtle<br>gauge<br>letter<br>destroy<br>announce<br>wash
-bip_39_word_new_br_8: sausage<br>turtle<br>gauge<br>letter<br>destroy<br>announce<br>wash<br>laptop
-bip_39_word_new_br_9: sausage<br>turtle<br>gauge<br>letter<br>destroy<br>announce<br>wash<br>laptop<br>social
-bip_39_word_new_line_1: sausage
-bip_39_word_new_line_10: 'sausage
-
-  turtle
-
-  gauge
-
-  letter
-
-  destroy
-
-  announce
-
-  wash
-
-  laptop
-
-  social
-
-  other'
-bip_39_word_new_line_11: 'sausage
-
-  turtle
-
-  gauge
-
-  letter
-
-  destroy
-
-  announce
-
-  wash
-
-  laptop
-
-  social
-
-  other
-
-  finish'
 bip_39_word_new_line_12: 'sausage
 
   turtle
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'sausage
   turtle
 
   gauge'
-bip_39_word_new_line_4: 'sausage
-
-  turtle
-
-  gauge
-
-  letter'
-bip_39_word_new_line_5: 'sausage
-
-  turtle
-
-  gauge
-
-  letter
-
-  destroy'
-bip_39_word_new_line_6: 'sausage
-
-  turtle
-
-  gauge
-
-  letter
-
-  destroy
-
-  announce'
-bip_39_word_new_line_7: 'sausage
-
-  turtle
-
-  gauge
-
-  letter
-
-  destroy
-
-  announce
-
-  wash'
-bip_39_word_new_line_8: 'sausage
-
-  turtle
-
-  gauge
-
-  letter
-
-  destroy
-
-  announce
-
-  wash
-
-  laptop'
-bip_39_word_new_line_9: 'sausage
-
-  turtle
-
-  gauge
-
-  letter
-
-  destroy
-
-  announce
-
-  wash
-
-  laptop
-
-  social'
-bip_39_word_no_space_1: sausage
-bip_39_word_no_space_10: sausageturtlegaugeletterdestroyannouncewashlaptopsocialother
-bip_39_word_no_space_11: sausageturtlegaugeletterdestroyannouncewashlaptopsocialotherfinish
 bip_39_word_no_space_12: sausageturtlegaugeletterdestroyannouncewashlaptopsocialotherfinishauto
 bip_39_word_no_space_2: sausageturtle
 bip_39_word_no_space_3: sausageturtlegauge
-bip_39_word_no_space_4: sausageturtlegaugeletter
-bip_39_word_no_space_5: sausageturtlegaugeletterdestroy
-bip_39_word_no_space_6: sausageturtlegaugeletterdestroyannounce
-bip_39_word_no_space_7: sausageturtlegaugeletterdestroyannouncewash
-bip_39_word_no_space_8: sausageturtlegaugeletterdestroyannouncewashlaptop
-bip_39_word_no_space_9: sausageturtlegaugeletterdestroyannouncewashlaptopsocial
-bip_39_word_space_0:
-- sausage
-- turtle
-- gauge
-- letter
-- destroy
-- announce
-- wash
-- laptop
-- social
-- other
-- finish
-- auto
-bip_39_word_space_1: sausage
-bip_39_word_space_10: sausage turtle gauge letter destroy announce wash laptop social
-  other
-bip_39_word_space_11: sausage turtle gauge letter destroy announce wash laptop social
-  other finish
 bip_39_word_space_12: sausage turtle gauge letter destroy announce wash laptop social
   other finish auto
 bip_39_word_space_2: sausage turtle
 bip_39_word_space_3: sausage turtle gauge
-bip_39_word_space_4: sausage turtle gauge letter
-bip_39_word_space_5: sausage turtle gauge letter destroy
-bip_39_word_space_6: sausage turtle gauge letter destroy announce
-bip_39_word_space_7: sausage turtle gauge letter destroy announce wash
-bip_39_word_space_8: sausage turtle gauge letter destroy announce wash laptop
-bip_39_word_space_9: sausage turtle gauge letter destroy announce wash laptop social
-bip_39_word_underscore_1: sausage
-bip_39_word_underscore_10: sausage_turtle_gauge_letter_destroy_announce_wash_laptop_social_other
-bip_39_word_underscore_11: sausage_turtle_gauge_letter_destroy_announce_wash_laptop_social_other_finish
 bip_39_word_underscore_12: sausage_turtle_gauge_letter_destroy_announce_wash_laptop_social_other_finish_auto
 bip_39_word_underscore_2: sausage_turtle
 bip_39_word_underscore_3: sausage_turtle_gauge
-bip_39_word_underscore_4: sausage_turtle_gauge_letter
-bip_39_word_underscore_5: sausage_turtle_gauge_letter_destroy
-bip_39_word_underscore_6: sausage_turtle_gauge_letter_destroy_announce
-bip_39_word_underscore_7: sausage_turtle_gauge_letter_destroy_announce_wash
-bip_39_word_underscore_8: sausage_turtle_gauge_letter_destroy_announce_wash_laptop
-bip_39_word_underscore_9: sausage_turtle_gauge_letter_destroy_announce_wash_laptop_social
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

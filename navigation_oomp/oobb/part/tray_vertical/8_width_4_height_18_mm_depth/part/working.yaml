@@ -1,68 +1,9 @@
-bip_39_word_dash_1: pledge
-bip_39_word_dash_10: pledge-lucky-hazard-dizzy-assault-panda-dragon-law-tuna-drop
-bip_39_word_dash_11: pledge-lucky-hazard-dizzy-assault-panda-dragon-law-tuna-drop-rhythm
 bip_39_word_dash_12: pledge-lucky-hazard-dizzy-assault-panda-dragon-law-tuna-drop-rhythm-announce
 bip_39_word_dash_2: pledge-lucky
 bip_39_word_dash_3: pledge-lucky-hazard
-bip_39_word_dash_4: pledge-lucky-hazard-dizzy
-bip_39_word_dash_5: pledge-lucky-hazard-dizzy-assault
-bip_39_word_dash_6: pledge-lucky-hazard-dizzy-assault-panda
-bip_39_word_dash_7: pledge-lucky-hazard-dizzy-assault-panda-dragon
-bip_39_word_dash_8: pledge-lucky-hazard-dizzy-assault-panda-dragon-law
-bip_39_word_dash_9: pledge-lucky-hazard-dizzy-assault-panda-dragon-law-tuna
-bip_39_word_new_br_1: pledge
-bip_39_word_new_br_10: pledge<br>lucky<br>hazard<br>dizzy<br>assault<br>panda<br>dragon<br>law<br>tuna<br>drop
-bip_39_word_new_br_11: pledge<br>lucky<br>hazard<br>dizzy<br>assault<br>panda<br>dragon<br>law<br>tuna<br>drop<br>rhythm
 bip_39_word_new_br_12: pledge<br>lucky<br>hazard<br>dizzy<br>assault<br>panda<br>dragon<br>law<br>tuna<br>drop<br>rhythm<br>announce
 bip_39_word_new_br_2: pledge<br>lucky
 bip_39_word_new_br_3: pledge<br>lucky<br>hazard
-bip_39_word_new_br_4: pledge<br>lucky<br>hazard<br>dizzy
-bip_39_word_new_br_5: pledge<br>lucky<br>hazard<br>dizzy<br>assault
-bip_39_word_new_br_6: pledge<br>lucky<br>hazard<br>dizzy<br>assault<br>panda
-bip_39_word_new_br_7: pledge<br>lucky<br>hazard<br>dizzy<br>assault<br>panda<br>dragon
-bip_39_word_new_br_8: pledge<br>lucky<br>hazard<br>dizzy<br>assault<br>panda<br>dragon<br>law
-bip_39_word_new_br_9: pledge<br>lucky<br>hazard<br>dizzy<br>assault<br>panda<br>dragon<br>law<br>tuna
-bip_39_word_new_line_1: pledge
-bip_39_word_new_line_10: 'pledge
-
-  lucky
-
-  hazard
-
-  dizzy
-
-  assault
-
-  panda
-
-  dragon
-
-  law
-
-  tuna
-
-  drop'
-bip_39_word_new_line_11: 'pledge
-
-  lucky
-
-  hazard
-
-  dizzy
-
-  assault
-
-  panda
-
-  dragon
-
-  law
-
-  tuna
-
-  drop
-
-  rhythm'
 bip_39_word_new_line_12: 'pledge
 
   lucky
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'pledge
   lucky
 
   hazard'
-bip_39_word_new_line_4: 'pledge
-
-  lucky
-
-  hazard
-
-  dizzy'
-bip_39_word_new_line_5: 'pledge
-
-  lucky
-
-  hazard
-
-  dizzy
-
-  assault'
-bip_39_word_new_line_6: 'pledge
-
-  lucky
-
-  hazard
-
-  dizzy
-
-  assault
-
-  panda'
-bip_39_word_new_line_7: 'pledge
-
-  lucky
-
-  hazard
-
-  dizzy
-
-  assault
-
-  panda
-
-  dragon'
-bip_39_word_new_line_8: 'pledge
-
-  lucky
-
-  hazard
-
-  dizzy
-
-  assault
-
-  panda
-
-  dragon
-
-  law'
-bip_39_word_new_line_9: 'pledge
-
-  lucky
-
-  hazard
-
-  dizzy
-
-  assault
-
-  panda
-
-  dragon
-
-  law
-
-  tuna'
-bip_39_word_no_space_1: pledge
-bip_39_word_no_space_10: pledgeluckyhazarddizzyassaultpandadragonlawtunadrop
-bip_39_word_no_space_11: pledgeluckyhazarddizzyassaultpandadragonlawtunadroprhythm
 bip_39_word_no_space_12: pledgeluckyhazarddizzyassaultpandadragonlawtunadroprhythmannounce
 bip_39_word_no_space_2: pledgelucky
 bip_39_word_no_space_3: pledgeluckyhazard
-bip_39_word_no_space_4: pledgeluckyhazarddizzy
-bip_39_word_no_space_5: pledgeluckyhazarddizzyassault
-bip_39_word_no_space_6: pledgeluckyhazarddizzyassaultpanda
-bip_39_word_no_space_7: pledgeluckyhazarddizzyassaultpandadragon
-bip_39_word_no_space_8: pledgeluckyhazarddizzyassaultpandadragonlaw
-bip_39_word_no_space_9: pledgeluckyhazarddizzyassaultpandadragonlawtuna
-bip_39_word_space_0:
-- pledge
-- lucky
-- hazard
-- dizzy
-- assault
-- panda
-- dragon
-- law
-- tuna
-- drop
-- rhythm
-- announce
-bip_39_word_space_1: pledge
-bip_39_word_space_10: pledge lucky hazard dizzy assault panda dragon law tuna drop
-bip_39_word_space_11: pledge lucky hazard dizzy assault panda dragon law tuna drop
-  rhythm
 bip_39_word_space_12: pledge lucky hazard dizzy assault panda dragon law tuna drop
   rhythm announce
 bip_39_word_space_2: pledge lucky
 bip_39_word_space_3: pledge lucky hazard
-bip_39_word_space_4: pledge lucky hazard dizzy
-bip_39_word_space_5: pledge lucky hazard dizzy assault
-bip_39_word_space_6: pledge lucky hazard dizzy assault panda
-bip_39_word_space_7: pledge lucky hazard dizzy assault panda dragon
-bip_39_word_space_8: pledge lucky hazard dizzy assault panda dragon law
-bip_39_word_space_9: pledge lucky hazard dizzy assault panda dragon law tuna
-bip_39_word_underscore_1: pledge
-bip_39_word_underscore_10: pledge_lucky_hazard_dizzy_assault_panda_dragon_law_tuna_drop
-bip_39_word_underscore_11: pledge_lucky_hazard_dizzy_assault_panda_dragon_law_tuna_drop_rhythm
 bip_39_word_underscore_12: pledge_lucky_hazard_dizzy_assault_panda_dragon_law_tuna_drop_rhythm_announce
 bip_39_word_underscore_2: pledge_lucky
 bip_39_word_underscore_3: pledge_lucky_hazard
-bip_39_word_underscore_4: pledge_lucky_hazard_dizzy
-bip_39_word_underscore_5: pledge_lucky_hazard_dizzy_assault
-bip_39_word_underscore_6: pledge_lucky_hazard_dizzy_assault_panda
-bip_39_word_underscore_7: pledge_lucky_hazard_dizzy_assault_panda_dragon
-bip_39_word_underscore_8: pledge_lucky_hazard_dizzy_assault_panda_dragon_law
-bip_39_word_underscore_9: pledge_lucky_hazard_dizzy_assault_panda_dragon_law_tuna
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

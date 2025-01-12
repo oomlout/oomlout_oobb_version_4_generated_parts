@@ -1,68 +1,9 @@
-bip_39_word_dash_1: kid
-bip_39_word_dash_10: kid-lemon-example-reveal-picnic-dog-silver-powder-over-dragon
-bip_39_word_dash_11: kid-lemon-example-reveal-picnic-dog-silver-powder-over-dragon-captain
 bip_39_word_dash_12: kid-lemon-example-reveal-picnic-dog-silver-powder-over-dragon-captain-author
 bip_39_word_dash_2: kid-lemon
 bip_39_word_dash_3: kid-lemon-example
-bip_39_word_dash_4: kid-lemon-example-reveal
-bip_39_word_dash_5: kid-lemon-example-reveal-picnic
-bip_39_word_dash_6: kid-lemon-example-reveal-picnic-dog
-bip_39_word_dash_7: kid-lemon-example-reveal-picnic-dog-silver
-bip_39_word_dash_8: kid-lemon-example-reveal-picnic-dog-silver-powder
-bip_39_word_dash_9: kid-lemon-example-reveal-picnic-dog-silver-powder-over
-bip_39_word_new_br_1: kid
-bip_39_word_new_br_10: kid<br>lemon<br>example<br>reveal<br>picnic<br>dog<br>silver<br>powder<br>over<br>dragon
-bip_39_word_new_br_11: kid<br>lemon<br>example<br>reveal<br>picnic<br>dog<br>silver<br>powder<br>over<br>dragon<br>captain
 bip_39_word_new_br_12: kid<br>lemon<br>example<br>reveal<br>picnic<br>dog<br>silver<br>powder<br>over<br>dragon<br>captain<br>author
 bip_39_word_new_br_2: kid<br>lemon
 bip_39_word_new_br_3: kid<br>lemon<br>example
-bip_39_word_new_br_4: kid<br>lemon<br>example<br>reveal
-bip_39_word_new_br_5: kid<br>lemon<br>example<br>reveal<br>picnic
-bip_39_word_new_br_6: kid<br>lemon<br>example<br>reveal<br>picnic<br>dog
-bip_39_word_new_br_7: kid<br>lemon<br>example<br>reveal<br>picnic<br>dog<br>silver
-bip_39_word_new_br_8: kid<br>lemon<br>example<br>reveal<br>picnic<br>dog<br>silver<br>powder
-bip_39_word_new_br_9: kid<br>lemon<br>example<br>reveal<br>picnic<br>dog<br>silver<br>powder<br>over
-bip_39_word_new_line_1: kid
-bip_39_word_new_line_10: 'kid
-
-  lemon
-
-  example
-
-  reveal
-
-  picnic
-
-  dog
-
-  silver
-
-  powder
-
-  over
-
-  dragon'
-bip_39_word_new_line_11: 'kid
-
-  lemon
-
-  example
-
-  reveal
-
-  picnic
-
-  dog
-
-  silver
-
-  powder
-
-  over
-
-  dragon
-
-  captain'
 bip_39_word_new_line_12: 'kid
 
   lemon
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'kid
   lemon
 
   example'
-bip_39_word_new_line_4: 'kid
-
-  lemon
-
-  example
-
-  reveal'
-bip_39_word_new_line_5: 'kid
-
-  lemon
-
-  example
-
-  reveal
-
-  picnic'
-bip_39_word_new_line_6: 'kid
-
-  lemon
-
-  example
-
-  reveal
-
-  picnic
-
-  dog'
-bip_39_word_new_line_7: 'kid
-
-  lemon
-
-  example
-
-  reveal
-
-  picnic
-
-  dog
-
-  silver'
-bip_39_word_new_line_8: 'kid
-
-  lemon
-
-  example
-
-  reveal
-
-  picnic
-
-  dog
-
-  silver
-
-  powder'
-bip_39_word_new_line_9: 'kid
-
-  lemon
-
-  example
-
-  reveal
-
-  picnic
-
-  dog
-
-  silver
-
-  powder
-
-  over'
-bip_39_word_no_space_1: kid
-bip_39_word_no_space_10: kidlemonexamplerevealpicnicdogsilverpowderoverdragon
-bip_39_word_no_space_11: kidlemonexamplerevealpicnicdogsilverpowderoverdragoncaptain
 bip_39_word_no_space_12: kidlemonexamplerevealpicnicdogsilverpowderoverdragoncaptainauthor
 bip_39_word_no_space_2: kidlemon
 bip_39_word_no_space_3: kidlemonexample
-bip_39_word_no_space_4: kidlemonexamplereveal
-bip_39_word_no_space_5: kidlemonexamplerevealpicnic
-bip_39_word_no_space_6: kidlemonexamplerevealpicnicdog
-bip_39_word_no_space_7: kidlemonexamplerevealpicnicdogsilver
-bip_39_word_no_space_8: kidlemonexamplerevealpicnicdogsilverpowder
-bip_39_word_no_space_9: kidlemonexamplerevealpicnicdogsilverpowderover
-bip_39_word_space_0:
-- kid
-- lemon
-- example
-- reveal
-- picnic
-- dog
-- silver
-- powder
-- over
-- dragon
-- captain
-- author
-bip_39_word_space_1: kid
-bip_39_word_space_10: kid lemon example reveal picnic dog silver powder over dragon
-bip_39_word_space_11: kid lemon example reveal picnic dog silver powder over dragon
-  captain
 bip_39_word_space_12: kid lemon example reveal picnic dog silver powder over dragon
   captain author
 bip_39_word_space_2: kid lemon
 bip_39_word_space_3: kid lemon example
-bip_39_word_space_4: kid lemon example reveal
-bip_39_word_space_5: kid lemon example reveal picnic
-bip_39_word_space_6: kid lemon example reveal picnic dog
-bip_39_word_space_7: kid lemon example reveal picnic dog silver
-bip_39_word_space_8: kid lemon example reveal picnic dog silver powder
-bip_39_word_space_9: kid lemon example reveal picnic dog silver powder over
-bip_39_word_underscore_1: kid
-bip_39_word_underscore_10: kid_lemon_example_reveal_picnic_dog_silver_powder_over_dragon
-bip_39_word_underscore_11: kid_lemon_example_reveal_picnic_dog_silver_powder_over_dragon_captain
 bip_39_word_underscore_12: kid_lemon_example_reveal_picnic_dog_silver_powder_over_dragon_captain_author
 bip_39_word_underscore_2: kid_lemon
 bip_39_word_underscore_3: kid_lemon_example
-bip_39_word_underscore_4: kid_lemon_example_reveal
-bip_39_word_underscore_5: kid_lemon_example_reveal_picnic
-bip_39_word_underscore_6: kid_lemon_example_reveal_picnic_dog
-bip_39_word_underscore_7: kid_lemon_example_reveal_picnic_dog_silver
-bip_39_word_underscore_8: kid_lemon_example_reveal_picnic_dog_silver_powder
-bip_39_word_underscore_9: kid_lemon_example_reveal_picnic_dog_silver_powder_over
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

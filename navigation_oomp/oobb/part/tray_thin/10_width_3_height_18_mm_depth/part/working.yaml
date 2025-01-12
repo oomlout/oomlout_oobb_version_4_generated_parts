@@ -1,68 +1,9 @@
-bip_39_word_dash_1: model
-bip_39_word_dash_10: model-blur-kid-absurd-speak-arctic-shuffle-ladder-sound-coast
-bip_39_word_dash_11: model-blur-kid-absurd-speak-arctic-shuffle-ladder-sound-coast-brave
 bip_39_word_dash_12: model-blur-kid-absurd-speak-arctic-shuffle-ladder-sound-coast-brave-admit
 bip_39_word_dash_2: model-blur
 bip_39_word_dash_3: model-blur-kid
-bip_39_word_dash_4: model-blur-kid-absurd
-bip_39_word_dash_5: model-blur-kid-absurd-speak
-bip_39_word_dash_6: model-blur-kid-absurd-speak-arctic
-bip_39_word_dash_7: model-blur-kid-absurd-speak-arctic-shuffle
-bip_39_word_dash_8: model-blur-kid-absurd-speak-arctic-shuffle-ladder
-bip_39_word_dash_9: model-blur-kid-absurd-speak-arctic-shuffle-ladder-sound
-bip_39_word_new_br_1: model
-bip_39_word_new_br_10: model<br>blur<br>kid<br>absurd<br>speak<br>arctic<br>shuffle<br>ladder<br>sound<br>coast
-bip_39_word_new_br_11: model<br>blur<br>kid<br>absurd<br>speak<br>arctic<br>shuffle<br>ladder<br>sound<br>coast<br>brave
 bip_39_word_new_br_12: model<br>blur<br>kid<br>absurd<br>speak<br>arctic<br>shuffle<br>ladder<br>sound<br>coast<br>brave<br>admit
 bip_39_word_new_br_2: model<br>blur
 bip_39_word_new_br_3: model<br>blur<br>kid
-bip_39_word_new_br_4: model<br>blur<br>kid<br>absurd
-bip_39_word_new_br_5: model<br>blur<br>kid<br>absurd<br>speak
-bip_39_word_new_br_6: model<br>blur<br>kid<br>absurd<br>speak<br>arctic
-bip_39_word_new_br_7: model<br>blur<br>kid<br>absurd<br>speak<br>arctic<br>shuffle
-bip_39_word_new_br_8: model<br>blur<br>kid<br>absurd<br>speak<br>arctic<br>shuffle<br>ladder
-bip_39_word_new_br_9: model<br>blur<br>kid<br>absurd<br>speak<br>arctic<br>shuffle<br>ladder<br>sound
-bip_39_word_new_line_1: model
-bip_39_word_new_line_10: 'model
-
-  blur
-
-  kid
-
-  absurd
-
-  speak
-
-  arctic
-
-  shuffle
-
-  ladder
-
-  sound
-
-  coast'
-bip_39_word_new_line_11: 'model
-
-  blur
-
-  kid
-
-  absurd
-
-  speak
-
-  arctic
-
-  shuffle
-
-  ladder
-
-  sound
-
-  coast
-
-  brave'
 bip_39_word_new_line_12: 'model
 
   blur
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'model
   blur
 
   kid'
-bip_39_word_new_line_4: 'model
-
-  blur
-
-  kid
-
-  absurd'
-bip_39_word_new_line_5: 'model
-
-  blur
-
-  kid
-
-  absurd
-
-  speak'
-bip_39_word_new_line_6: 'model
-
-  blur
-
-  kid
-
-  absurd
-
-  speak
-
-  arctic'
-bip_39_word_new_line_7: 'model
-
-  blur
-
-  kid
-
-  absurd
-
-  speak
-
-  arctic
-
-  shuffle'
-bip_39_word_new_line_8: 'model
-
-  blur
-
-  kid
-
-  absurd
-
-  speak
-
-  arctic
-
-  shuffle
-
-  ladder'
-bip_39_word_new_line_9: 'model
-
-  blur
-
-  kid
-
-  absurd
-
-  speak
-
-  arctic
-
-  shuffle
-
-  ladder
-
-  sound'
-bip_39_word_no_space_1: model
-bip_39_word_no_space_10: modelblurkidabsurdspeakarcticshuffleladdersoundcoast
-bip_39_word_no_space_11: modelblurkidabsurdspeakarcticshuffleladdersoundcoastbrave
 bip_39_word_no_space_12: modelblurkidabsurdspeakarcticshuffleladdersoundcoastbraveadmit
 bip_39_word_no_space_2: modelblur
 bip_39_word_no_space_3: modelblurkid
-bip_39_word_no_space_4: modelblurkidabsurd
-bip_39_word_no_space_5: modelblurkidabsurdspeak
-bip_39_word_no_space_6: modelblurkidabsurdspeakarctic
-bip_39_word_no_space_7: modelblurkidabsurdspeakarcticshuffle
-bip_39_word_no_space_8: modelblurkidabsurdspeakarcticshuffleladder
-bip_39_word_no_space_9: modelblurkidabsurdspeakarcticshuffleladdersound
-bip_39_word_space_0:
-- model
-- blur
-- kid
-- absurd
-- speak
-- arctic
-- shuffle
-- ladder
-- sound
-- coast
-- brave
-- admit
-bip_39_word_space_1: model
-bip_39_word_space_10: model blur kid absurd speak arctic shuffle ladder sound coast
-bip_39_word_space_11: model blur kid absurd speak arctic shuffle ladder sound coast
-  brave
 bip_39_word_space_12: model blur kid absurd speak arctic shuffle ladder sound coast
   brave admit
 bip_39_word_space_2: model blur
 bip_39_word_space_3: model blur kid
-bip_39_word_space_4: model blur kid absurd
-bip_39_word_space_5: model blur kid absurd speak
-bip_39_word_space_6: model blur kid absurd speak arctic
-bip_39_word_space_7: model blur kid absurd speak arctic shuffle
-bip_39_word_space_8: model blur kid absurd speak arctic shuffle ladder
-bip_39_word_space_9: model blur kid absurd speak arctic shuffle ladder sound
-bip_39_word_underscore_1: model
-bip_39_word_underscore_10: model_blur_kid_absurd_speak_arctic_shuffle_ladder_sound_coast
-bip_39_word_underscore_11: model_blur_kid_absurd_speak_arctic_shuffle_ladder_sound_coast_brave
 bip_39_word_underscore_12: model_blur_kid_absurd_speak_arctic_shuffle_ladder_sound_coast_brave_admit
 bip_39_word_underscore_2: model_blur
 bip_39_word_underscore_3: model_blur_kid
-bip_39_word_underscore_4: model_blur_kid_absurd
-bip_39_word_underscore_5: model_blur_kid_absurd_speak
-bip_39_word_underscore_6: model_blur_kid_absurd_speak_arctic
-bip_39_word_underscore_7: model_blur_kid_absurd_speak_arctic_shuffle
-bip_39_word_underscore_8: model_blur_kid_absurd_speak_arctic_shuffle_ladder
-bip_39_word_underscore_9: model_blur_kid_absurd_speak_arctic_shuffle_ladder_sound
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

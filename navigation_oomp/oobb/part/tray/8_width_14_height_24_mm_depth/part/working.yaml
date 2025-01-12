@@ -1,68 +1,9 @@
-bip_39_word_dash_1: engine
-bip_39_word_dash_10: engine-tunnel-jump-ice-boost-tape-sail-jacket-fatal-then
-bip_39_word_dash_11: engine-tunnel-jump-ice-boost-tape-sail-jacket-fatal-then-profit
 bip_39_word_dash_12: engine-tunnel-jump-ice-boost-tape-sail-jacket-fatal-then-profit-across
 bip_39_word_dash_2: engine-tunnel
 bip_39_word_dash_3: engine-tunnel-jump
-bip_39_word_dash_4: engine-tunnel-jump-ice
-bip_39_word_dash_5: engine-tunnel-jump-ice-boost
-bip_39_word_dash_6: engine-tunnel-jump-ice-boost-tape
-bip_39_word_dash_7: engine-tunnel-jump-ice-boost-tape-sail
-bip_39_word_dash_8: engine-tunnel-jump-ice-boost-tape-sail-jacket
-bip_39_word_dash_9: engine-tunnel-jump-ice-boost-tape-sail-jacket-fatal
-bip_39_word_new_br_1: engine
-bip_39_word_new_br_10: engine<br>tunnel<br>jump<br>ice<br>boost<br>tape<br>sail<br>jacket<br>fatal<br>then
-bip_39_word_new_br_11: engine<br>tunnel<br>jump<br>ice<br>boost<br>tape<br>sail<br>jacket<br>fatal<br>then<br>profit
 bip_39_word_new_br_12: engine<br>tunnel<br>jump<br>ice<br>boost<br>tape<br>sail<br>jacket<br>fatal<br>then<br>profit<br>across
 bip_39_word_new_br_2: engine<br>tunnel
 bip_39_word_new_br_3: engine<br>tunnel<br>jump
-bip_39_word_new_br_4: engine<br>tunnel<br>jump<br>ice
-bip_39_word_new_br_5: engine<br>tunnel<br>jump<br>ice<br>boost
-bip_39_word_new_br_6: engine<br>tunnel<br>jump<br>ice<br>boost<br>tape
-bip_39_word_new_br_7: engine<br>tunnel<br>jump<br>ice<br>boost<br>tape<br>sail
-bip_39_word_new_br_8: engine<br>tunnel<br>jump<br>ice<br>boost<br>tape<br>sail<br>jacket
-bip_39_word_new_br_9: engine<br>tunnel<br>jump<br>ice<br>boost<br>tape<br>sail<br>jacket<br>fatal
-bip_39_word_new_line_1: engine
-bip_39_word_new_line_10: 'engine
-
-  tunnel
-
-  jump
-
-  ice
-
-  boost
-
-  tape
-
-  sail
-
-  jacket
-
-  fatal
-
-  then'
-bip_39_word_new_line_11: 'engine
-
-  tunnel
-
-  jump
-
-  ice
-
-  boost
-
-  tape
-
-  sail
-
-  jacket
-
-  fatal
-
-  then
-
-  profit'
 bip_39_word_new_line_12: 'engine
 
   tunnel
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'engine
   tunnel
 
   jump'
-bip_39_word_new_line_4: 'engine
-
-  tunnel
-
-  jump
-
-  ice'
-bip_39_word_new_line_5: 'engine
-
-  tunnel
-
-  jump
-
-  ice
-
-  boost'
-bip_39_word_new_line_6: 'engine
-
-  tunnel
-
-  jump
-
-  ice
-
-  boost
-
-  tape'
-bip_39_word_new_line_7: 'engine
-
-  tunnel
-
-  jump
-
-  ice
-
-  boost
-
-  tape
-
-  sail'
-bip_39_word_new_line_8: 'engine
-
-  tunnel
-
-  jump
-
-  ice
-
-  boost
-
-  tape
-
-  sail
-
-  jacket'
-bip_39_word_new_line_9: 'engine
-
-  tunnel
-
-  jump
-
-  ice
-
-  boost
-
-  tape
-
-  sail
-
-  jacket
-
-  fatal'
-bip_39_word_no_space_1: engine
-bip_39_word_no_space_10: enginetunneljumpiceboosttapesailjacketfatalthen
-bip_39_word_no_space_11: enginetunneljumpiceboosttapesailjacketfatalthenprofit
 bip_39_word_no_space_12: enginetunneljumpiceboosttapesailjacketfatalthenprofitacross
 bip_39_word_no_space_2: enginetunnel
 bip_39_word_no_space_3: enginetunneljump
-bip_39_word_no_space_4: enginetunneljumpice
-bip_39_word_no_space_5: enginetunneljumpiceboost
-bip_39_word_no_space_6: enginetunneljumpiceboosttape
-bip_39_word_no_space_7: enginetunneljumpiceboosttapesail
-bip_39_word_no_space_8: enginetunneljumpiceboosttapesailjacket
-bip_39_word_no_space_9: enginetunneljumpiceboosttapesailjacketfatal
-bip_39_word_space_0:
-- engine
-- tunnel
-- jump
-- ice
-- boost
-- tape
-- sail
-- jacket
-- fatal
-- then
-- profit
-- across
-bip_39_word_space_1: engine
-bip_39_word_space_10: engine tunnel jump ice boost tape sail jacket fatal then
-bip_39_word_space_11: engine tunnel jump ice boost tape sail jacket fatal then profit
 bip_39_word_space_12: engine tunnel jump ice boost tape sail jacket fatal then profit
   across
 bip_39_word_space_2: engine tunnel
 bip_39_word_space_3: engine tunnel jump
-bip_39_word_space_4: engine tunnel jump ice
-bip_39_word_space_5: engine tunnel jump ice boost
-bip_39_word_space_6: engine tunnel jump ice boost tape
-bip_39_word_space_7: engine tunnel jump ice boost tape sail
-bip_39_word_space_8: engine tunnel jump ice boost tape sail jacket
-bip_39_word_space_9: engine tunnel jump ice boost tape sail jacket fatal
-bip_39_word_underscore_1: engine
-bip_39_word_underscore_10: engine_tunnel_jump_ice_boost_tape_sail_jacket_fatal_then
-bip_39_word_underscore_11: engine_tunnel_jump_ice_boost_tape_sail_jacket_fatal_then_profit
 bip_39_word_underscore_12: engine_tunnel_jump_ice_boost_tape_sail_jacket_fatal_then_profit_across
 bip_39_word_underscore_2: engine_tunnel
 bip_39_word_underscore_3: engine_tunnel_jump
-bip_39_word_underscore_4: engine_tunnel_jump_ice
-bip_39_word_underscore_5: engine_tunnel_jump_ice_boost
-bip_39_word_underscore_6: engine_tunnel_jump_ice_boost_tape
-bip_39_word_underscore_7: engine_tunnel_jump_ice_boost_tape_sail
-bip_39_word_underscore_8: engine_tunnel_jump_ice_boost_tape_sail_jacket
-bip_39_word_underscore_9: engine_tunnel_jump_ice_boost_tape_sail_jacket_fatal
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

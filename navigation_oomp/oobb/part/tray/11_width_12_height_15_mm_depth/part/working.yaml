@@ -1,68 +1,9 @@
-bip_39_word_dash_1: actor
-bip_39_word_dash_10: actor-margin-leaf-palace-horror-discover-lion-side-volcano-jar
-bip_39_word_dash_11: actor-margin-leaf-palace-horror-discover-lion-side-volcano-jar-cool
 bip_39_word_dash_12: actor-margin-leaf-palace-horror-discover-lion-side-volcano-jar-cool-advance
 bip_39_word_dash_2: actor-margin
 bip_39_word_dash_3: actor-margin-leaf
-bip_39_word_dash_4: actor-margin-leaf-palace
-bip_39_word_dash_5: actor-margin-leaf-palace-horror
-bip_39_word_dash_6: actor-margin-leaf-palace-horror-discover
-bip_39_word_dash_7: actor-margin-leaf-palace-horror-discover-lion
-bip_39_word_dash_8: actor-margin-leaf-palace-horror-discover-lion-side
-bip_39_word_dash_9: actor-margin-leaf-palace-horror-discover-lion-side-volcano
-bip_39_word_new_br_1: actor
-bip_39_word_new_br_10: actor<br>margin<br>leaf<br>palace<br>horror<br>discover<br>lion<br>side<br>volcano<br>jar
-bip_39_word_new_br_11: actor<br>margin<br>leaf<br>palace<br>horror<br>discover<br>lion<br>side<br>volcano<br>jar<br>cool
 bip_39_word_new_br_12: actor<br>margin<br>leaf<br>palace<br>horror<br>discover<br>lion<br>side<br>volcano<br>jar<br>cool<br>advance
 bip_39_word_new_br_2: actor<br>margin
 bip_39_word_new_br_3: actor<br>margin<br>leaf
-bip_39_word_new_br_4: actor<br>margin<br>leaf<br>palace
-bip_39_word_new_br_5: actor<br>margin<br>leaf<br>palace<br>horror
-bip_39_word_new_br_6: actor<br>margin<br>leaf<br>palace<br>horror<br>discover
-bip_39_word_new_br_7: actor<br>margin<br>leaf<br>palace<br>horror<br>discover<br>lion
-bip_39_word_new_br_8: actor<br>margin<br>leaf<br>palace<br>horror<br>discover<br>lion<br>side
-bip_39_word_new_br_9: actor<br>margin<br>leaf<br>palace<br>horror<br>discover<br>lion<br>side<br>volcano
-bip_39_word_new_line_1: actor
-bip_39_word_new_line_10: 'actor
-
-  margin
-
-  leaf
-
-  palace
-
-  horror
-
-  discover
-
-  lion
-
-  side
-
-  volcano
-
-  jar'
-bip_39_word_new_line_11: 'actor
-
-  margin
-
-  leaf
-
-  palace
-
-  horror
-
-  discover
-
-  lion
-
-  side
-
-  volcano
-
-  jar
-
-  cool'
 bip_39_word_new_line_12: 'actor
 
   margin
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'actor
   margin
 
   leaf'
-bip_39_word_new_line_4: 'actor
-
-  margin
-
-  leaf
-
-  palace'
-bip_39_word_new_line_5: 'actor
-
-  margin
-
-  leaf
-
-  palace
-
-  horror'
-bip_39_word_new_line_6: 'actor
-
-  margin
-
-  leaf
-
-  palace
-
-  horror
-
-  discover'
-bip_39_word_new_line_7: 'actor
-
-  margin
-
-  leaf
-
-  palace
-
-  horror
-
-  discover
-
-  lion'
-bip_39_word_new_line_8: 'actor
-
-  margin
-
-  leaf
-
-  palace
-
-  horror
-
-  discover
-
-  lion
-
-  side'
-bip_39_word_new_line_9: 'actor
-
-  margin
-
-  leaf
-
-  palace
-
-  horror
-
-  discover
-
-  lion
-
-  side
-
-  volcano'
-bip_39_word_no_space_1: actor
-bip_39_word_no_space_10: actormarginleafpalacehorrordiscoverlionsidevolcanojar
-bip_39_word_no_space_11: actormarginleafpalacehorrordiscoverlionsidevolcanojarcool
 bip_39_word_no_space_12: actormarginleafpalacehorrordiscoverlionsidevolcanojarcooladvance
 bip_39_word_no_space_2: actormargin
 bip_39_word_no_space_3: actormarginleaf
-bip_39_word_no_space_4: actormarginleafpalace
-bip_39_word_no_space_5: actormarginleafpalacehorror
-bip_39_word_no_space_6: actormarginleafpalacehorrordiscover
-bip_39_word_no_space_7: actormarginleafpalacehorrordiscoverlion
-bip_39_word_no_space_8: actormarginleafpalacehorrordiscoverlionside
-bip_39_word_no_space_9: actormarginleafpalacehorrordiscoverlionsidevolcano
-bip_39_word_space_0:
-- actor
-- margin
-- leaf
-- palace
-- horror
-- discover
-- lion
-- side
-- volcano
-- jar
-- cool
-- advance
-bip_39_word_space_1: actor
-bip_39_word_space_10: actor margin leaf palace horror discover lion side volcano jar
-bip_39_word_space_11: actor margin leaf palace horror discover lion side volcano jar
-  cool
 bip_39_word_space_12: actor margin leaf palace horror discover lion side volcano jar
   cool advance
 bip_39_word_space_2: actor margin
 bip_39_word_space_3: actor margin leaf
-bip_39_word_space_4: actor margin leaf palace
-bip_39_word_space_5: actor margin leaf palace horror
-bip_39_word_space_6: actor margin leaf palace horror discover
-bip_39_word_space_7: actor margin leaf palace horror discover lion
-bip_39_word_space_8: actor margin leaf palace horror discover lion side
-bip_39_word_space_9: actor margin leaf palace horror discover lion side volcano
-bip_39_word_underscore_1: actor
-bip_39_word_underscore_10: actor_margin_leaf_palace_horror_discover_lion_side_volcano_jar
-bip_39_word_underscore_11: actor_margin_leaf_palace_horror_discover_lion_side_volcano_jar_cool
 bip_39_word_underscore_12: actor_margin_leaf_palace_horror_discover_lion_side_volcano_jar_cool_advance
 bip_39_word_underscore_2: actor_margin
 bip_39_word_underscore_3: actor_margin_leaf
-bip_39_word_underscore_4: actor_margin_leaf_palace
-bip_39_word_underscore_5: actor_margin_leaf_palace_horror
-bip_39_word_underscore_6: actor_margin_leaf_palace_horror_discover
-bip_39_word_underscore_7: actor_margin_leaf_palace_horror_discover_lion
-bip_39_word_underscore_8: actor_margin_leaf_palace_horror_discover_lion_side
-bip_39_word_underscore_9: actor_margin_leaf_palace_horror_discover_lion_side_volcano
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

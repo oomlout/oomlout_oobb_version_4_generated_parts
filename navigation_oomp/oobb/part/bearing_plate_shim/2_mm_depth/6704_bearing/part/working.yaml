@@ -1,69 +1,10 @@
 bearing: '6704'
-bip_39_word_dash_1: crawl
-bip_39_word_dash_10: crawl-assist-refuse-warfare-wagon-sting-comfort-chair-nest-fresh
-bip_39_word_dash_11: crawl-assist-refuse-warfare-wagon-sting-comfort-chair-nest-fresh-zoo
 bip_39_word_dash_12: crawl-assist-refuse-warfare-wagon-sting-comfort-chair-nest-fresh-zoo-amount
 bip_39_word_dash_2: crawl-assist
 bip_39_word_dash_3: crawl-assist-refuse
-bip_39_word_dash_4: crawl-assist-refuse-warfare
-bip_39_word_dash_5: crawl-assist-refuse-warfare-wagon
-bip_39_word_dash_6: crawl-assist-refuse-warfare-wagon-sting
-bip_39_word_dash_7: crawl-assist-refuse-warfare-wagon-sting-comfort
-bip_39_word_dash_8: crawl-assist-refuse-warfare-wagon-sting-comfort-chair
-bip_39_word_dash_9: crawl-assist-refuse-warfare-wagon-sting-comfort-chair-nest
-bip_39_word_new_br_1: crawl
-bip_39_word_new_br_10: crawl<br>assist<br>refuse<br>warfare<br>wagon<br>sting<br>comfort<br>chair<br>nest<br>fresh
-bip_39_word_new_br_11: crawl<br>assist<br>refuse<br>warfare<br>wagon<br>sting<br>comfort<br>chair<br>nest<br>fresh<br>zoo
 bip_39_word_new_br_12: crawl<br>assist<br>refuse<br>warfare<br>wagon<br>sting<br>comfort<br>chair<br>nest<br>fresh<br>zoo<br>amount
 bip_39_word_new_br_2: crawl<br>assist
 bip_39_word_new_br_3: crawl<br>assist<br>refuse
-bip_39_word_new_br_4: crawl<br>assist<br>refuse<br>warfare
-bip_39_word_new_br_5: crawl<br>assist<br>refuse<br>warfare<br>wagon
-bip_39_word_new_br_6: crawl<br>assist<br>refuse<br>warfare<br>wagon<br>sting
-bip_39_word_new_br_7: crawl<br>assist<br>refuse<br>warfare<br>wagon<br>sting<br>comfort
-bip_39_word_new_br_8: crawl<br>assist<br>refuse<br>warfare<br>wagon<br>sting<br>comfort<br>chair
-bip_39_word_new_br_9: crawl<br>assist<br>refuse<br>warfare<br>wagon<br>sting<br>comfort<br>chair<br>nest
-bip_39_word_new_line_1: crawl
-bip_39_word_new_line_10: 'crawl
-
-  assist
-
-  refuse
-
-  warfare
-
-  wagon
-
-  sting
-
-  comfort
-
-  chair
-
-  nest
-
-  fresh'
-bip_39_word_new_line_11: 'crawl
-
-  assist
-
-  refuse
-
-  warfare
-
-  wagon
-
-  sting
-
-  comfort
-
-  chair
-
-  nest
-
-  fresh
-
-  zoo'
 bip_39_word_new_line_12: 'crawl
 
   assist
@@ -95,129 +36,16 @@ bip_39_word_new_line_3: 'crawl
   assist
 
   refuse'
-bip_39_word_new_line_4: 'crawl
-
-  assist
-
-  refuse
-
-  warfare'
-bip_39_word_new_line_5: 'crawl
-
-  assist
-
-  refuse
-
-  warfare
-
-  wagon'
-bip_39_word_new_line_6: 'crawl
-
-  assist
-
-  refuse
-
-  warfare
-
-  wagon
-
-  sting'
-bip_39_word_new_line_7: 'crawl
-
-  assist
-
-  refuse
-
-  warfare
-
-  wagon
-
-  sting
-
-  comfort'
-bip_39_word_new_line_8: 'crawl
-
-  assist
-
-  refuse
-
-  warfare
-
-  wagon
-
-  sting
-
-  comfort
-
-  chair'
-bip_39_word_new_line_9: 'crawl
-
-  assist
-
-  refuse
-
-  warfare
-
-  wagon
-
-  sting
-
-  comfort
-
-  chair
-
-  nest'
-bip_39_word_no_space_1: crawl
-bip_39_word_no_space_10: crawlassistrefusewarfarewagonstingcomfortchairnestfresh
-bip_39_word_no_space_11: crawlassistrefusewarfarewagonstingcomfortchairnestfreshzoo
 bip_39_word_no_space_12: crawlassistrefusewarfarewagonstingcomfortchairnestfreshzooamount
 bip_39_word_no_space_2: crawlassist
 bip_39_word_no_space_3: crawlassistrefuse
-bip_39_word_no_space_4: crawlassistrefusewarfare
-bip_39_word_no_space_5: crawlassistrefusewarfarewagon
-bip_39_word_no_space_6: crawlassistrefusewarfarewagonsting
-bip_39_word_no_space_7: crawlassistrefusewarfarewagonstingcomfort
-bip_39_word_no_space_8: crawlassistrefusewarfarewagonstingcomfortchair
-bip_39_word_no_space_9: crawlassistrefusewarfarewagonstingcomfortchairnest
-bip_39_word_space_0:
-- crawl
-- assist
-- refuse
-- warfare
-- wagon
-- sting
-- comfort
-- chair
-- nest
-- fresh
-- zoo
-- amount
-bip_39_word_space_1: crawl
-bip_39_word_space_10: crawl assist refuse warfare wagon sting comfort chair nest fresh
-bip_39_word_space_11: crawl assist refuse warfare wagon sting comfort chair nest fresh
-  zoo
 bip_39_word_space_12: crawl assist refuse warfare wagon sting comfort chair nest fresh
   zoo amount
 bip_39_word_space_2: crawl assist
 bip_39_word_space_3: crawl assist refuse
-bip_39_word_space_4: crawl assist refuse warfare
-bip_39_word_space_5: crawl assist refuse warfare wagon
-bip_39_word_space_6: crawl assist refuse warfare wagon sting
-bip_39_word_space_7: crawl assist refuse warfare wagon sting comfort
-bip_39_word_space_8: crawl assist refuse warfare wagon sting comfort chair
-bip_39_word_space_9: crawl assist refuse warfare wagon sting comfort chair nest
-bip_39_word_underscore_1: crawl
-bip_39_word_underscore_10: crawl_assist_refuse_warfare_wagon_sting_comfort_chair_nest_fresh
-bip_39_word_underscore_11: crawl_assist_refuse_warfare_wagon_sting_comfort_chair_nest_fresh_zoo
 bip_39_word_underscore_12: crawl_assist_refuse_warfare_wagon_sting_comfort_chair_nest_fresh_zoo_amount
 bip_39_word_underscore_2: crawl_assist
 bip_39_word_underscore_3: crawl_assist_refuse
-bip_39_word_underscore_4: crawl_assist_refuse_warfare
-bip_39_word_underscore_5: crawl_assist_refuse_warfare_wagon
-bip_39_word_underscore_6: crawl_assist_refuse_warfare_wagon_sting
-bip_39_word_underscore_7: crawl_assist_refuse_warfare_wagon_sting_comfort
-bip_39_word_underscore_8: crawl_assist_refuse_warfare_wagon_sting_comfort_chair
-bip_39_word_underscore_9: crawl_assist_refuse_warfare_wagon_sting_comfort_chair_nest
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

@@ -1,69 +1,10 @@
 bearing_name: '6808'
-bip_39_word_dash_1: buddy
-bip_39_word_dash_10: buddy-all-noodle-chapter-vivid-enough-vacuum-shoulder-describe-student
-bip_39_word_dash_11: buddy-all-noodle-chapter-vivid-enough-vacuum-shoulder-describe-student-razor
 bip_39_word_dash_12: buddy-all-noodle-chapter-vivid-enough-vacuum-shoulder-describe-student-razor-absent
 bip_39_word_dash_2: buddy-all
 bip_39_word_dash_3: buddy-all-noodle
-bip_39_word_dash_4: buddy-all-noodle-chapter
-bip_39_word_dash_5: buddy-all-noodle-chapter-vivid
-bip_39_word_dash_6: buddy-all-noodle-chapter-vivid-enough
-bip_39_word_dash_7: buddy-all-noodle-chapter-vivid-enough-vacuum
-bip_39_word_dash_8: buddy-all-noodle-chapter-vivid-enough-vacuum-shoulder
-bip_39_word_dash_9: buddy-all-noodle-chapter-vivid-enough-vacuum-shoulder-describe
-bip_39_word_new_br_1: buddy
-bip_39_word_new_br_10: buddy<br>all<br>noodle<br>chapter<br>vivid<br>enough<br>vacuum<br>shoulder<br>describe<br>student
-bip_39_word_new_br_11: buddy<br>all<br>noodle<br>chapter<br>vivid<br>enough<br>vacuum<br>shoulder<br>describe<br>student<br>razor
 bip_39_word_new_br_12: buddy<br>all<br>noodle<br>chapter<br>vivid<br>enough<br>vacuum<br>shoulder<br>describe<br>student<br>razor<br>absent
 bip_39_word_new_br_2: buddy<br>all
 bip_39_word_new_br_3: buddy<br>all<br>noodle
-bip_39_word_new_br_4: buddy<br>all<br>noodle<br>chapter
-bip_39_word_new_br_5: buddy<br>all<br>noodle<br>chapter<br>vivid
-bip_39_word_new_br_6: buddy<br>all<br>noodle<br>chapter<br>vivid<br>enough
-bip_39_word_new_br_7: buddy<br>all<br>noodle<br>chapter<br>vivid<br>enough<br>vacuum
-bip_39_word_new_br_8: buddy<br>all<br>noodle<br>chapter<br>vivid<br>enough<br>vacuum<br>shoulder
-bip_39_word_new_br_9: buddy<br>all<br>noodle<br>chapter<br>vivid<br>enough<br>vacuum<br>shoulder<br>describe
-bip_39_word_new_line_1: buddy
-bip_39_word_new_line_10: 'buddy
-
-  all
-
-  noodle
-
-  chapter
-
-  vivid
-
-  enough
-
-  vacuum
-
-  shoulder
-
-  describe
-
-  student'
-bip_39_word_new_line_11: 'buddy
-
-  all
-
-  noodle
-
-  chapter
-
-  vivid
-
-  enough
-
-  vacuum
-
-  shoulder
-
-  describe
-
-  student
-
-  razor'
 bip_39_word_new_line_12: 'buddy
 
   all
@@ -95,130 +36,16 @@ bip_39_word_new_line_3: 'buddy
   all
 
   noodle'
-bip_39_word_new_line_4: 'buddy
-
-  all
-
-  noodle
-
-  chapter'
-bip_39_word_new_line_5: 'buddy
-
-  all
-
-  noodle
-
-  chapter
-
-  vivid'
-bip_39_word_new_line_6: 'buddy
-
-  all
-
-  noodle
-
-  chapter
-
-  vivid
-
-  enough'
-bip_39_word_new_line_7: 'buddy
-
-  all
-
-  noodle
-
-  chapter
-
-  vivid
-
-  enough
-
-  vacuum'
-bip_39_word_new_line_8: 'buddy
-
-  all
-
-  noodle
-
-  chapter
-
-  vivid
-
-  enough
-
-  vacuum
-
-  shoulder'
-bip_39_word_new_line_9: 'buddy
-
-  all
-
-  noodle
-
-  chapter
-
-  vivid
-
-  enough
-
-  vacuum
-
-  shoulder
-
-  describe'
-bip_39_word_no_space_1: buddy
-bip_39_word_no_space_10: buddyallnoodlechaptervividenoughvacuumshoulderdescribestudent
-bip_39_word_no_space_11: buddyallnoodlechaptervividenoughvacuumshoulderdescribestudentrazor
 bip_39_word_no_space_12: buddyallnoodlechaptervividenoughvacuumshoulderdescribestudentrazorabsent
 bip_39_word_no_space_2: buddyall
 bip_39_word_no_space_3: buddyallnoodle
-bip_39_word_no_space_4: buddyallnoodlechapter
-bip_39_word_no_space_5: buddyallnoodlechaptervivid
-bip_39_word_no_space_6: buddyallnoodlechaptervividenough
-bip_39_word_no_space_7: buddyallnoodlechaptervividenoughvacuum
-bip_39_word_no_space_8: buddyallnoodlechaptervividenoughvacuumshoulder
-bip_39_word_no_space_9: buddyallnoodlechaptervividenoughvacuumshoulderdescribe
-bip_39_word_space_0:
-- buddy
-- all
-- noodle
-- chapter
-- vivid
-- enough
-- vacuum
-- shoulder
-- describe
-- student
-- razor
-- absent
-bip_39_word_space_1: buddy
-bip_39_word_space_10: buddy all noodle chapter vivid enough vacuum shoulder describe
-  student
-bip_39_word_space_11: buddy all noodle chapter vivid enough vacuum shoulder describe
-  student razor
 bip_39_word_space_12: buddy all noodle chapter vivid enough vacuum shoulder describe
   student razor absent
 bip_39_word_space_2: buddy all
 bip_39_word_space_3: buddy all noodle
-bip_39_word_space_4: buddy all noodle chapter
-bip_39_word_space_5: buddy all noodle chapter vivid
-bip_39_word_space_6: buddy all noodle chapter vivid enough
-bip_39_word_space_7: buddy all noodle chapter vivid enough vacuum
-bip_39_word_space_8: buddy all noodle chapter vivid enough vacuum shoulder
-bip_39_word_space_9: buddy all noodle chapter vivid enough vacuum shoulder describe
-bip_39_word_underscore_1: buddy
-bip_39_word_underscore_10: buddy_all_noodle_chapter_vivid_enough_vacuum_shoulder_describe_student
-bip_39_word_underscore_11: buddy_all_noodle_chapter_vivid_enough_vacuum_shoulder_describe_student_razor
 bip_39_word_underscore_12: buddy_all_noodle_chapter_vivid_enough_vacuum_shoulder_describe_student_razor_absent
 bip_39_word_underscore_2: buddy_all
 bip_39_word_underscore_3: buddy_all_noodle
-bip_39_word_underscore_4: buddy_all_noodle_chapter
-bip_39_word_underscore_5: buddy_all_noodle_chapter_vivid
-bip_39_word_underscore_6: buddy_all_noodle_chapter_vivid_enough
-bip_39_word_underscore_7: buddy_all_noodle_chapter_vivid_enough_vacuum
-bip_39_word_underscore_8: buddy_all_noodle_chapter_vivid_enough_vacuum_shoulder
-bip_39_word_underscore_9: buddy_all_noodle_chapter_vivid_enough_vacuum_shoulder_describe
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

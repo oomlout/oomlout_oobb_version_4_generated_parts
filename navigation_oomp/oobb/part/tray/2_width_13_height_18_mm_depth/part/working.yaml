@@ -1,68 +1,9 @@
-bip_39_word_dash_1: goose
-bip_39_word_dash_10: goose-drive-pioneer-crouch-today-glance-naive-ride-hybrid-ordinary
-bip_39_word_dash_11: goose-drive-pioneer-crouch-today-glance-naive-ride-hybrid-ordinary-urge
 bip_39_word_dash_12: goose-drive-pioneer-crouch-today-glance-naive-ride-hybrid-ordinary-urge-about
 bip_39_word_dash_2: goose-drive
 bip_39_word_dash_3: goose-drive-pioneer
-bip_39_word_dash_4: goose-drive-pioneer-crouch
-bip_39_word_dash_5: goose-drive-pioneer-crouch-today
-bip_39_word_dash_6: goose-drive-pioneer-crouch-today-glance
-bip_39_word_dash_7: goose-drive-pioneer-crouch-today-glance-naive
-bip_39_word_dash_8: goose-drive-pioneer-crouch-today-glance-naive-ride
-bip_39_word_dash_9: goose-drive-pioneer-crouch-today-glance-naive-ride-hybrid
-bip_39_word_new_br_1: goose
-bip_39_word_new_br_10: goose<br>drive<br>pioneer<br>crouch<br>today<br>glance<br>naive<br>ride<br>hybrid<br>ordinary
-bip_39_word_new_br_11: goose<br>drive<br>pioneer<br>crouch<br>today<br>glance<br>naive<br>ride<br>hybrid<br>ordinary<br>urge
 bip_39_word_new_br_12: goose<br>drive<br>pioneer<br>crouch<br>today<br>glance<br>naive<br>ride<br>hybrid<br>ordinary<br>urge<br>about
 bip_39_word_new_br_2: goose<br>drive
 bip_39_word_new_br_3: goose<br>drive<br>pioneer
-bip_39_word_new_br_4: goose<br>drive<br>pioneer<br>crouch
-bip_39_word_new_br_5: goose<br>drive<br>pioneer<br>crouch<br>today
-bip_39_word_new_br_6: goose<br>drive<br>pioneer<br>crouch<br>today<br>glance
-bip_39_word_new_br_7: goose<br>drive<br>pioneer<br>crouch<br>today<br>glance<br>naive
-bip_39_word_new_br_8: goose<br>drive<br>pioneer<br>crouch<br>today<br>glance<br>naive<br>ride
-bip_39_word_new_br_9: goose<br>drive<br>pioneer<br>crouch<br>today<br>glance<br>naive<br>ride<br>hybrid
-bip_39_word_new_line_1: goose
-bip_39_word_new_line_10: 'goose
-
-  drive
-
-  pioneer
-
-  crouch
-
-  today
-
-  glance
-
-  naive
-
-  ride
-
-  hybrid
-
-  ordinary'
-bip_39_word_new_line_11: 'goose
-
-  drive
-
-  pioneer
-
-  crouch
-
-  today
-
-  glance
-
-  naive
-
-  ride
-
-  hybrid
-
-  ordinary
-
-  urge'
 bip_39_word_new_line_12: 'goose
 
   drive
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'goose
   drive
 
   pioneer'
-bip_39_word_new_line_4: 'goose
-
-  drive
-
-  pioneer
-
-  crouch'
-bip_39_word_new_line_5: 'goose
-
-  drive
-
-  pioneer
-
-  crouch
-
-  today'
-bip_39_word_new_line_6: 'goose
-
-  drive
-
-  pioneer
-
-  crouch
-
-  today
-
-  glance'
-bip_39_word_new_line_7: 'goose
-
-  drive
-
-  pioneer
-
-  crouch
-
-  today
-
-  glance
-
-  naive'
-bip_39_word_new_line_8: 'goose
-
-  drive
-
-  pioneer
-
-  crouch
-
-  today
-
-  glance
-
-  naive
-
-  ride'
-bip_39_word_new_line_9: 'goose
-
-  drive
-
-  pioneer
-
-  crouch
-
-  today
-
-  glance
-
-  naive
-
-  ride
-
-  hybrid'
-bip_39_word_no_space_1: goose
-bip_39_word_no_space_10: goosedrivepioneercrouchtodayglancenaiveridehybridordinary
-bip_39_word_no_space_11: goosedrivepioneercrouchtodayglancenaiveridehybridordinaryurge
 bip_39_word_no_space_12: goosedrivepioneercrouchtodayglancenaiveridehybridordinaryurgeabout
 bip_39_word_no_space_2: goosedrive
 bip_39_word_no_space_3: goosedrivepioneer
-bip_39_word_no_space_4: goosedrivepioneercrouch
-bip_39_word_no_space_5: goosedrivepioneercrouchtoday
-bip_39_word_no_space_6: goosedrivepioneercrouchtodayglance
-bip_39_word_no_space_7: goosedrivepioneercrouchtodayglancenaive
-bip_39_word_no_space_8: goosedrivepioneercrouchtodayglancenaiveride
-bip_39_word_no_space_9: goosedrivepioneercrouchtodayglancenaiveridehybrid
-bip_39_word_space_0:
-- goose
-- drive
-- pioneer
-- crouch
-- today
-- glance
-- naive
-- ride
-- hybrid
-- ordinary
-- urge
-- about
-bip_39_word_space_1: goose
-bip_39_word_space_10: goose drive pioneer crouch today glance naive ride hybrid ordinary
-bip_39_word_space_11: goose drive pioneer crouch today glance naive ride hybrid ordinary
-  urge
 bip_39_word_space_12: goose drive pioneer crouch today glance naive ride hybrid ordinary
   urge about
 bip_39_word_space_2: goose drive
 bip_39_word_space_3: goose drive pioneer
-bip_39_word_space_4: goose drive pioneer crouch
-bip_39_word_space_5: goose drive pioneer crouch today
-bip_39_word_space_6: goose drive pioneer crouch today glance
-bip_39_word_space_7: goose drive pioneer crouch today glance naive
-bip_39_word_space_8: goose drive pioneer crouch today glance naive ride
-bip_39_word_space_9: goose drive pioneer crouch today glance naive ride hybrid
-bip_39_word_underscore_1: goose
-bip_39_word_underscore_10: goose_drive_pioneer_crouch_today_glance_naive_ride_hybrid_ordinary
-bip_39_word_underscore_11: goose_drive_pioneer_crouch_today_glance_naive_ride_hybrid_ordinary_urge
 bip_39_word_underscore_12: goose_drive_pioneer_crouch_today_glance_naive_ride_hybrid_ordinary_urge_about
 bip_39_word_underscore_2: goose_drive
 bip_39_word_underscore_3: goose_drive_pioneer
-bip_39_word_underscore_4: goose_drive_pioneer_crouch
-bip_39_word_underscore_5: goose_drive_pioneer_crouch_today
-bip_39_word_underscore_6: goose_drive_pioneer_crouch_today_glance
-bip_39_word_underscore_7: goose_drive_pioneer_crouch_today_glance_naive
-bip_39_word_underscore_8: goose_drive_pioneer_crouch_today_glance_naive_ride
-bip_39_word_underscore_9: goose_drive_pioneer_crouch_today_glance_naive_ride_hybrid
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: verify
-bip_39_word_dash_10: verify-obvious-interest-source-midnight-tattoo-floor-brass-close-radio
-bip_39_word_dash_11: verify-obvious-interest-source-midnight-tattoo-floor-brass-close-radio-boring
 bip_39_word_dash_12: verify-obvious-interest-source-midnight-tattoo-floor-brass-close-radio-boring-audit
 bip_39_word_dash_2: verify-obvious
 bip_39_word_dash_3: verify-obvious-interest
-bip_39_word_dash_4: verify-obvious-interest-source
-bip_39_word_dash_5: verify-obvious-interest-source-midnight
-bip_39_word_dash_6: verify-obvious-interest-source-midnight-tattoo
-bip_39_word_dash_7: verify-obvious-interest-source-midnight-tattoo-floor
-bip_39_word_dash_8: verify-obvious-interest-source-midnight-tattoo-floor-brass
-bip_39_word_dash_9: verify-obvious-interest-source-midnight-tattoo-floor-brass-close
-bip_39_word_new_br_1: verify
-bip_39_word_new_br_10: verify<br>obvious<br>interest<br>source<br>midnight<br>tattoo<br>floor<br>brass<br>close<br>radio
-bip_39_word_new_br_11: verify<br>obvious<br>interest<br>source<br>midnight<br>tattoo<br>floor<br>brass<br>close<br>radio<br>boring
 bip_39_word_new_br_12: verify<br>obvious<br>interest<br>source<br>midnight<br>tattoo<br>floor<br>brass<br>close<br>radio<br>boring<br>audit
 bip_39_word_new_br_2: verify<br>obvious
 bip_39_word_new_br_3: verify<br>obvious<br>interest
-bip_39_word_new_br_4: verify<br>obvious<br>interest<br>source
-bip_39_word_new_br_5: verify<br>obvious<br>interest<br>source<br>midnight
-bip_39_word_new_br_6: verify<br>obvious<br>interest<br>source<br>midnight<br>tattoo
-bip_39_word_new_br_7: verify<br>obvious<br>interest<br>source<br>midnight<br>tattoo<br>floor
-bip_39_word_new_br_8: verify<br>obvious<br>interest<br>source<br>midnight<br>tattoo<br>floor<br>brass
-bip_39_word_new_br_9: verify<br>obvious<br>interest<br>source<br>midnight<br>tattoo<br>floor<br>brass<br>close
-bip_39_word_new_line_1: verify
-bip_39_word_new_line_10: 'verify
-
-  obvious
-
-  interest
-
-  source
-
-  midnight
-
-  tattoo
-
-  floor
-
-  brass
-
-  close
-
-  radio'
-bip_39_word_new_line_11: 'verify
-
-  obvious
-
-  interest
-
-  source
-
-  midnight
-
-  tattoo
-
-  floor
-
-  brass
-
-  close
-
-  radio
-
-  boring'
 bip_39_word_new_line_12: 'verify
 
   obvious
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'verify
   obvious
 
   interest'
-bip_39_word_new_line_4: 'verify
-
-  obvious
-
-  interest
-
-  source'
-bip_39_word_new_line_5: 'verify
-
-  obvious
-
-  interest
-
-  source
-
-  midnight'
-bip_39_word_new_line_6: 'verify
-
-  obvious
-
-  interest
-
-  source
-
-  midnight
-
-  tattoo'
-bip_39_word_new_line_7: 'verify
-
-  obvious
-
-  interest
-
-  source
-
-  midnight
-
-  tattoo
-
-  floor'
-bip_39_word_new_line_8: 'verify
-
-  obvious
-
-  interest
-
-  source
-
-  midnight
-
-  tattoo
-
-  floor
-
-  brass'
-bip_39_word_new_line_9: 'verify
-
-  obvious
-
-  interest
-
-  source
-
-  midnight
-
-  tattoo
-
-  floor
-
-  brass
-
-  close'
-bip_39_word_no_space_1: verify
-bip_39_word_no_space_10: verifyobviousinterestsourcemidnighttattoofloorbrasscloseradio
-bip_39_word_no_space_11: verifyobviousinterestsourcemidnighttattoofloorbrasscloseradioboring
 bip_39_word_no_space_12: verifyobviousinterestsourcemidnighttattoofloorbrasscloseradioboringaudit
 bip_39_word_no_space_2: verifyobvious
 bip_39_word_no_space_3: verifyobviousinterest
-bip_39_word_no_space_4: verifyobviousinterestsource
-bip_39_word_no_space_5: verifyobviousinterestsourcemidnight
-bip_39_word_no_space_6: verifyobviousinterestsourcemidnighttattoo
-bip_39_word_no_space_7: verifyobviousinterestsourcemidnighttattoofloor
-bip_39_word_no_space_8: verifyobviousinterestsourcemidnighttattoofloorbrass
-bip_39_word_no_space_9: verifyobviousinterestsourcemidnighttattoofloorbrassclose
-bip_39_word_space_0:
-- verify
-- obvious
-- interest
-- source
-- midnight
-- tattoo
-- floor
-- brass
-- close
-- radio
-- boring
-- audit
-bip_39_word_space_1: verify
-bip_39_word_space_10: verify obvious interest source midnight tattoo floor brass close
-  radio
-bip_39_word_space_11: verify obvious interest source midnight tattoo floor brass close
-  radio boring
 bip_39_word_space_12: verify obvious interest source midnight tattoo floor brass close
   radio boring audit
 bip_39_word_space_2: verify obvious
 bip_39_word_space_3: verify obvious interest
-bip_39_word_space_4: verify obvious interest source
-bip_39_word_space_5: verify obvious interest source midnight
-bip_39_word_space_6: verify obvious interest source midnight tattoo
-bip_39_word_space_7: verify obvious interest source midnight tattoo floor
-bip_39_word_space_8: verify obvious interest source midnight tattoo floor brass
-bip_39_word_space_9: verify obvious interest source midnight tattoo floor brass close
-bip_39_word_underscore_1: verify
-bip_39_word_underscore_10: verify_obvious_interest_source_midnight_tattoo_floor_brass_close_radio
-bip_39_word_underscore_11: verify_obvious_interest_source_midnight_tattoo_floor_brass_close_radio_boring
 bip_39_word_underscore_12: verify_obvious_interest_source_midnight_tattoo_floor_brass_close_radio_boring_audit
 bip_39_word_underscore_2: verify_obvious
 bip_39_word_underscore_3: verify_obvious_interest
-bip_39_word_underscore_4: verify_obvious_interest_source
-bip_39_word_underscore_5: verify_obvious_interest_source_midnight
-bip_39_word_underscore_6: verify_obvious_interest_source_midnight_tattoo
-bip_39_word_underscore_7: verify_obvious_interest_source_midnight_tattoo_floor
-bip_39_word_underscore_8: verify_obvious_interest_source_midnight_tattoo_floor_brass
-bip_39_word_underscore_9: verify_obvious_interest_source_midnight_tattoo_floor_brass_close
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

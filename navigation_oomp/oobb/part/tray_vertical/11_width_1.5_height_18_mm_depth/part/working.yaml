@@ -1,68 +1,9 @@
-bip_39_word_dash_1: mean
-bip_39_word_dash_10: mean-guess-address-feature-choice-allow-best-isolate-pony-utility
-bip_39_word_dash_11: mean-guess-address-feature-choice-allow-best-isolate-pony-utility-convince
 bip_39_word_dash_12: mean-guess-address-feature-choice-allow-best-isolate-pony-utility-convince-arrange
 bip_39_word_dash_2: mean-guess
 bip_39_word_dash_3: mean-guess-address
-bip_39_word_dash_4: mean-guess-address-feature
-bip_39_word_dash_5: mean-guess-address-feature-choice
-bip_39_word_dash_6: mean-guess-address-feature-choice-allow
-bip_39_word_dash_7: mean-guess-address-feature-choice-allow-best
-bip_39_word_dash_8: mean-guess-address-feature-choice-allow-best-isolate
-bip_39_word_dash_9: mean-guess-address-feature-choice-allow-best-isolate-pony
-bip_39_word_new_br_1: mean
-bip_39_word_new_br_10: mean<br>guess<br>address<br>feature<br>choice<br>allow<br>best<br>isolate<br>pony<br>utility
-bip_39_word_new_br_11: mean<br>guess<br>address<br>feature<br>choice<br>allow<br>best<br>isolate<br>pony<br>utility<br>convince
 bip_39_word_new_br_12: mean<br>guess<br>address<br>feature<br>choice<br>allow<br>best<br>isolate<br>pony<br>utility<br>convince<br>arrange
 bip_39_word_new_br_2: mean<br>guess
 bip_39_word_new_br_3: mean<br>guess<br>address
-bip_39_word_new_br_4: mean<br>guess<br>address<br>feature
-bip_39_word_new_br_5: mean<br>guess<br>address<br>feature<br>choice
-bip_39_word_new_br_6: mean<br>guess<br>address<br>feature<br>choice<br>allow
-bip_39_word_new_br_7: mean<br>guess<br>address<br>feature<br>choice<br>allow<br>best
-bip_39_word_new_br_8: mean<br>guess<br>address<br>feature<br>choice<br>allow<br>best<br>isolate
-bip_39_word_new_br_9: mean<br>guess<br>address<br>feature<br>choice<br>allow<br>best<br>isolate<br>pony
-bip_39_word_new_line_1: mean
-bip_39_word_new_line_10: 'mean
-
-  guess
-
-  address
-
-  feature
-
-  choice
-
-  allow
-
-  best
-
-  isolate
-
-  pony
-
-  utility'
-bip_39_word_new_line_11: 'mean
-
-  guess
-
-  address
-
-  feature
-
-  choice
-
-  allow
-
-  best
-
-  isolate
-
-  pony
-
-  utility
-
-  convince'
 bip_39_word_new_line_12: 'mean
 
   guess
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'mean
   guess
 
   address'
-bip_39_word_new_line_4: 'mean
-
-  guess
-
-  address
-
-  feature'
-bip_39_word_new_line_5: 'mean
-
-  guess
-
-  address
-
-  feature
-
-  choice'
-bip_39_word_new_line_6: 'mean
-
-  guess
-
-  address
-
-  feature
-
-  choice
-
-  allow'
-bip_39_word_new_line_7: 'mean
-
-  guess
-
-  address
-
-  feature
-
-  choice
-
-  allow
-
-  best'
-bip_39_word_new_line_8: 'mean
-
-  guess
-
-  address
-
-  feature
-
-  choice
-
-  allow
-
-  best
-
-  isolate'
-bip_39_word_new_line_9: 'mean
-
-  guess
-
-  address
-
-  feature
-
-  choice
-
-  allow
-
-  best
-
-  isolate
-
-  pony'
-bip_39_word_no_space_1: mean
-bip_39_word_no_space_10: meanguessaddressfeaturechoiceallowbestisolateponyutility
-bip_39_word_no_space_11: meanguessaddressfeaturechoiceallowbestisolateponyutilityconvince
 bip_39_word_no_space_12: meanguessaddressfeaturechoiceallowbestisolateponyutilityconvincearrange
 bip_39_word_no_space_2: meanguess
 bip_39_word_no_space_3: meanguessaddress
-bip_39_word_no_space_4: meanguessaddressfeature
-bip_39_word_no_space_5: meanguessaddressfeaturechoice
-bip_39_word_no_space_6: meanguessaddressfeaturechoiceallow
-bip_39_word_no_space_7: meanguessaddressfeaturechoiceallowbest
-bip_39_word_no_space_8: meanguessaddressfeaturechoiceallowbestisolate
-bip_39_word_no_space_9: meanguessaddressfeaturechoiceallowbestisolatepony
-bip_39_word_space_0:
-- mean
-- guess
-- address
-- feature
-- choice
-- allow
-- best
-- isolate
-- pony
-- utility
-- convince
-- arrange
-bip_39_word_space_1: mean
-bip_39_word_space_10: mean guess address feature choice allow best isolate pony utility
-bip_39_word_space_11: mean guess address feature choice allow best isolate pony utility
-  convince
 bip_39_word_space_12: mean guess address feature choice allow best isolate pony utility
   convince arrange
 bip_39_word_space_2: mean guess
 bip_39_word_space_3: mean guess address
-bip_39_word_space_4: mean guess address feature
-bip_39_word_space_5: mean guess address feature choice
-bip_39_word_space_6: mean guess address feature choice allow
-bip_39_word_space_7: mean guess address feature choice allow best
-bip_39_word_space_8: mean guess address feature choice allow best isolate
-bip_39_word_space_9: mean guess address feature choice allow best isolate pony
-bip_39_word_underscore_1: mean
-bip_39_word_underscore_10: mean_guess_address_feature_choice_allow_best_isolate_pony_utility
-bip_39_word_underscore_11: mean_guess_address_feature_choice_allow_best_isolate_pony_utility_convince
 bip_39_word_underscore_12: mean_guess_address_feature_choice_allow_best_isolate_pony_utility_convince_arrange
 bip_39_word_underscore_2: mean_guess
 bip_39_word_underscore_3: mean_guess_address
-bip_39_word_underscore_4: mean_guess_address_feature
-bip_39_word_underscore_5: mean_guess_address_feature_choice
-bip_39_word_underscore_6: mean_guess_address_feature_choice_allow
-bip_39_word_underscore_7: mean_guess_address_feature_choice_allow_best
-bip_39_word_underscore_8: mean_guess_address_feature_choice_allow_best_isolate
-bip_39_word_underscore_9: mean_guess_address_feature_choice_allow_best_isolate_pony
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

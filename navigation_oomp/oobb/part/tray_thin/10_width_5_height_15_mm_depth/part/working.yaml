@@ -1,68 +1,9 @@
-bip_39_word_dash_1: erode
-bip_39_word_dash_10: erode-fabric-fish-sword-kangaroo-pond-minimum-fruit-slow-thunder
-bip_39_word_dash_11: erode-fabric-fish-sword-kangaroo-pond-minimum-fruit-slow-thunder-unfair
 bip_39_word_dash_12: erode-fabric-fish-sword-kangaroo-pond-minimum-fruit-slow-thunder-unfair-arch
 bip_39_word_dash_2: erode-fabric
 bip_39_word_dash_3: erode-fabric-fish
-bip_39_word_dash_4: erode-fabric-fish-sword
-bip_39_word_dash_5: erode-fabric-fish-sword-kangaroo
-bip_39_word_dash_6: erode-fabric-fish-sword-kangaroo-pond
-bip_39_word_dash_7: erode-fabric-fish-sword-kangaroo-pond-minimum
-bip_39_word_dash_8: erode-fabric-fish-sword-kangaroo-pond-minimum-fruit
-bip_39_word_dash_9: erode-fabric-fish-sword-kangaroo-pond-minimum-fruit-slow
-bip_39_word_new_br_1: erode
-bip_39_word_new_br_10: erode<br>fabric<br>fish<br>sword<br>kangaroo<br>pond<br>minimum<br>fruit<br>slow<br>thunder
-bip_39_word_new_br_11: erode<br>fabric<br>fish<br>sword<br>kangaroo<br>pond<br>minimum<br>fruit<br>slow<br>thunder<br>unfair
 bip_39_word_new_br_12: erode<br>fabric<br>fish<br>sword<br>kangaroo<br>pond<br>minimum<br>fruit<br>slow<br>thunder<br>unfair<br>arch
 bip_39_word_new_br_2: erode<br>fabric
 bip_39_word_new_br_3: erode<br>fabric<br>fish
-bip_39_word_new_br_4: erode<br>fabric<br>fish<br>sword
-bip_39_word_new_br_5: erode<br>fabric<br>fish<br>sword<br>kangaroo
-bip_39_word_new_br_6: erode<br>fabric<br>fish<br>sword<br>kangaroo<br>pond
-bip_39_word_new_br_7: erode<br>fabric<br>fish<br>sword<br>kangaroo<br>pond<br>minimum
-bip_39_word_new_br_8: erode<br>fabric<br>fish<br>sword<br>kangaroo<br>pond<br>minimum<br>fruit
-bip_39_word_new_br_9: erode<br>fabric<br>fish<br>sword<br>kangaroo<br>pond<br>minimum<br>fruit<br>slow
-bip_39_word_new_line_1: erode
-bip_39_word_new_line_10: 'erode
-
-  fabric
-
-  fish
-
-  sword
-
-  kangaroo
-
-  pond
-
-  minimum
-
-  fruit
-
-  slow
-
-  thunder'
-bip_39_word_new_line_11: 'erode
-
-  fabric
-
-  fish
-
-  sword
-
-  kangaroo
-
-  pond
-
-  minimum
-
-  fruit
-
-  slow
-
-  thunder
-
-  unfair'
 bip_39_word_new_line_12: 'erode
 
   fabric
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'erode
   fabric
 
   fish'
-bip_39_word_new_line_4: 'erode
-
-  fabric
-
-  fish
-
-  sword'
-bip_39_word_new_line_5: 'erode
-
-  fabric
-
-  fish
-
-  sword
-
-  kangaroo'
-bip_39_word_new_line_6: 'erode
-
-  fabric
-
-  fish
-
-  sword
-
-  kangaroo
-
-  pond'
-bip_39_word_new_line_7: 'erode
-
-  fabric
-
-  fish
-
-  sword
-
-  kangaroo
-
-  pond
-
-  minimum'
-bip_39_word_new_line_8: 'erode
-
-  fabric
-
-  fish
-
-  sword
-
-  kangaroo
-
-  pond
-
-  minimum
-
-  fruit'
-bip_39_word_new_line_9: 'erode
-
-  fabric
-
-  fish
-
-  sword
-
-  kangaroo
-
-  pond
-
-  minimum
-
-  fruit
-
-  slow'
-bip_39_word_no_space_1: erode
-bip_39_word_no_space_10: erodefabricfishswordkangaroopondminimumfruitslowthunder
-bip_39_word_no_space_11: erodefabricfishswordkangaroopondminimumfruitslowthunderunfair
 bip_39_word_no_space_12: erodefabricfishswordkangaroopondminimumfruitslowthunderunfairarch
 bip_39_word_no_space_2: erodefabric
 bip_39_word_no_space_3: erodefabricfish
-bip_39_word_no_space_4: erodefabricfishsword
-bip_39_word_no_space_5: erodefabricfishswordkangaroo
-bip_39_word_no_space_6: erodefabricfishswordkangaroopond
-bip_39_word_no_space_7: erodefabricfishswordkangaroopondminimum
-bip_39_word_no_space_8: erodefabricfishswordkangaroopondminimumfruit
-bip_39_word_no_space_9: erodefabricfishswordkangaroopondminimumfruitslow
-bip_39_word_space_0:
-- erode
-- fabric
-- fish
-- sword
-- kangaroo
-- pond
-- minimum
-- fruit
-- slow
-- thunder
-- unfair
-- arch
-bip_39_word_space_1: erode
-bip_39_word_space_10: erode fabric fish sword kangaroo pond minimum fruit slow thunder
-bip_39_word_space_11: erode fabric fish sword kangaroo pond minimum fruit slow thunder
-  unfair
 bip_39_word_space_12: erode fabric fish sword kangaroo pond minimum fruit slow thunder
   unfair arch
 bip_39_word_space_2: erode fabric
 bip_39_word_space_3: erode fabric fish
-bip_39_word_space_4: erode fabric fish sword
-bip_39_word_space_5: erode fabric fish sword kangaroo
-bip_39_word_space_6: erode fabric fish sword kangaroo pond
-bip_39_word_space_7: erode fabric fish sword kangaroo pond minimum
-bip_39_word_space_8: erode fabric fish sword kangaroo pond minimum fruit
-bip_39_word_space_9: erode fabric fish sword kangaroo pond minimum fruit slow
-bip_39_word_underscore_1: erode
-bip_39_word_underscore_10: erode_fabric_fish_sword_kangaroo_pond_minimum_fruit_slow_thunder
-bip_39_word_underscore_11: erode_fabric_fish_sword_kangaroo_pond_minimum_fruit_slow_thunder_unfair
 bip_39_word_underscore_12: erode_fabric_fish_sword_kangaroo_pond_minimum_fruit_slow_thunder_unfair_arch
 bip_39_word_underscore_2: erode_fabric
 bip_39_word_underscore_3: erode_fabric_fish
-bip_39_word_underscore_4: erode_fabric_fish_sword
-bip_39_word_underscore_5: erode_fabric_fish_sword_kangaroo
-bip_39_word_underscore_6: erode_fabric_fish_sword_kangaroo_pond
-bip_39_word_underscore_7: erode_fabric_fish_sword_kangaroo_pond_minimum
-bip_39_word_underscore_8: erode_fabric_fish_sword_kangaroo_pond_minimum_fruit
-bip_39_word_underscore_9: erode_fabric_fish_sword_kangaroo_pond_minimum_fruit_slow
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

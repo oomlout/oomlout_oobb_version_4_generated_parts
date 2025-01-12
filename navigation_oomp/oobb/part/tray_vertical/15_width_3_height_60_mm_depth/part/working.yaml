@@ -1,68 +1,9 @@
-bip_39_word_dash_1: chest
-bip_39_word_dash_10: chest-garage-lumber-clip-knock-foam-damage-damage-goose-gorilla
-bip_39_word_dash_11: chest-garage-lumber-clip-knock-foam-damage-damage-goose-gorilla-ticket
 bip_39_word_dash_12: chest-garage-lumber-clip-knock-foam-damage-damage-goose-gorilla-ticket-allow
 bip_39_word_dash_2: chest-garage
 bip_39_word_dash_3: chest-garage-lumber
-bip_39_word_dash_4: chest-garage-lumber-clip
-bip_39_word_dash_5: chest-garage-lumber-clip-knock
-bip_39_word_dash_6: chest-garage-lumber-clip-knock-foam
-bip_39_word_dash_7: chest-garage-lumber-clip-knock-foam-damage
-bip_39_word_dash_8: chest-garage-lumber-clip-knock-foam-damage-damage
-bip_39_word_dash_9: chest-garage-lumber-clip-knock-foam-damage-damage-goose
-bip_39_word_new_br_1: chest
-bip_39_word_new_br_10: chest<br>garage<br>lumber<br>clip<br>knock<br>foam<br>damage<br>damage<br>goose<br>gorilla
-bip_39_word_new_br_11: chest<br>garage<br>lumber<br>clip<br>knock<br>foam<br>damage<br>damage<br>goose<br>gorilla<br>ticket
 bip_39_word_new_br_12: chest<br>garage<br>lumber<br>clip<br>knock<br>foam<br>damage<br>damage<br>goose<br>gorilla<br>ticket<br>allow
 bip_39_word_new_br_2: chest<br>garage
 bip_39_word_new_br_3: chest<br>garage<br>lumber
-bip_39_word_new_br_4: chest<br>garage<br>lumber<br>clip
-bip_39_word_new_br_5: chest<br>garage<br>lumber<br>clip<br>knock
-bip_39_word_new_br_6: chest<br>garage<br>lumber<br>clip<br>knock<br>foam
-bip_39_word_new_br_7: chest<br>garage<br>lumber<br>clip<br>knock<br>foam<br>damage
-bip_39_word_new_br_8: chest<br>garage<br>lumber<br>clip<br>knock<br>foam<br>damage<br>damage
-bip_39_word_new_br_9: chest<br>garage<br>lumber<br>clip<br>knock<br>foam<br>damage<br>damage<br>goose
-bip_39_word_new_line_1: chest
-bip_39_word_new_line_10: 'chest
-
-  garage
-
-  lumber
-
-  clip
-
-  knock
-
-  foam
-
-  damage
-
-  damage
-
-  goose
-
-  gorilla'
-bip_39_word_new_line_11: 'chest
-
-  garage
-
-  lumber
-
-  clip
-
-  knock
-
-  foam
-
-  damage
-
-  damage
-
-  goose
-
-  gorilla
-
-  ticket'
 bip_39_word_new_line_12: 'chest
 
   garage
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'chest
   garage
 
   lumber'
-bip_39_word_new_line_4: 'chest
-
-  garage
-
-  lumber
-
-  clip'
-bip_39_word_new_line_5: 'chest
-
-  garage
-
-  lumber
-
-  clip
-
-  knock'
-bip_39_word_new_line_6: 'chest
-
-  garage
-
-  lumber
-
-  clip
-
-  knock
-
-  foam'
-bip_39_word_new_line_7: 'chest
-
-  garage
-
-  lumber
-
-  clip
-
-  knock
-
-  foam
-
-  damage'
-bip_39_word_new_line_8: 'chest
-
-  garage
-
-  lumber
-
-  clip
-
-  knock
-
-  foam
-
-  damage
-
-  damage'
-bip_39_word_new_line_9: 'chest
-
-  garage
-
-  lumber
-
-  clip
-
-  knock
-
-  foam
-
-  damage
-
-  damage
-
-  goose'
-bip_39_word_no_space_1: chest
-bip_39_word_no_space_10: chestgaragelumberclipknockfoamdamagedamagegoosegorilla
-bip_39_word_no_space_11: chestgaragelumberclipknockfoamdamagedamagegoosegorillaticket
 bip_39_word_no_space_12: chestgaragelumberclipknockfoamdamagedamagegoosegorillaticketallow
 bip_39_word_no_space_2: chestgarage
 bip_39_word_no_space_3: chestgaragelumber
-bip_39_word_no_space_4: chestgaragelumberclip
-bip_39_word_no_space_5: chestgaragelumberclipknock
-bip_39_word_no_space_6: chestgaragelumberclipknockfoam
-bip_39_word_no_space_7: chestgaragelumberclipknockfoamdamage
-bip_39_word_no_space_8: chestgaragelumberclipknockfoamdamagedamage
-bip_39_word_no_space_9: chestgaragelumberclipknockfoamdamagedamagegoose
-bip_39_word_space_0:
-- chest
-- garage
-- lumber
-- clip
-- knock
-- foam
-- damage
-- damage
-- goose
-- gorilla
-- ticket
-- allow
-bip_39_word_space_1: chest
-bip_39_word_space_10: chest garage lumber clip knock foam damage damage goose gorilla
-bip_39_word_space_11: chest garage lumber clip knock foam damage damage goose gorilla
-  ticket
 bip_39_word_space_12: chest garage lumber clip knock foam damage damage goose gorilla
   ticket allow
 bip_39_word_space_2: chest garage
 bip_39_word_space_3: chest garage lumber
-bip_39_word_space_4: chest garage lumber clip
-bip_39_word_space_5: chest garage lumber clip knock
-bip_39_word_space_6: chest garage lumber clip knock foam
-bip_39_word_space_7: chest garage lumber clip knock foam damage
-bip_39_word_space_8: chest garage lumber clip knock foam damage damage
-bip_39_word_space_9: chest garage lumber clip knock foam damage damage goose
-bip_39_word_underscore_1: chest
-bip_39_word_underscore_10: chest_garage_lumber_clip_knock_foam_damage_damage_goose_gorilla
-bip_39_word_underscore_11: chest_garage_lumber_clip_knock_foam_damage_damage_goose_gorilla_ticket
 bip_39_word_underscore_12: chest_garage_lumber_clip_knock_foam_damage_damage_goose_gorilla_ticket_allow
 bip_39_word_underscore_2: chest_garage
 bip_39_word_underscore_3: chest_garage_lumber
-bip_39_word_underscore_4: chest_garage_lumber_clip
-bip_39_word_underscore_5: chest_garage_lumber_clip_knock
-bip_39_word_underscore_6: chest_garage_lumber_clip_knock_foam
-bip_39_word_underscore_7: chest_garage_lumber_clip_knock_foam_damage
-bip_39_word_underscore_8: chest_garage_lumber_clip_knock_foam_damage_damage
-bip_39_word_underscore_9: chest_garage_lumber_clip_knock_foam_damage_damage_goose
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

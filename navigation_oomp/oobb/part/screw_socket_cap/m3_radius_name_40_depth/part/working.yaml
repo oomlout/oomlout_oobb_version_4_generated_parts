@@ -1,45 +1,9 @@
-bip_39_word_dash_1: room
-bip_39_word_dash_10: room-depth-occur-shed-nurse-husband-deny-critic-yard-neutral
 bip_39_word_dash_11: room-depth-occur-shed-nurse-husband-deny-critic-yard-neutral-pact
 bip_39_word_dash_2: room-depth
 bip_39_word_dash_3: room-depth-occur
-bip_39_word_dash_4: room-depth-occur-shed
-bip_39_word_dash_5: room-depth-occur-shed-nurse
-bip_39_word_dash_6: room-depth-occur-shed-nurse-husband
-bip_39_word_dash_7: room-depth-occur-shed-nurse-husband-deny
-bip_39_word_dash_8: room-depth-occur-shed-nurse-husband-deny-critic
-bip_39_word_dash_9: room-depth-occur-shed-nurse-husband-deny-critic-yard
-bip_39_word_new_br_1: room
-bip_39_word_new_br_10: room<br>depth<br>occur<br>shed<br>nurse<br>husband<br>deny<br>critic<br>yard<br>neutral
 bip_39_word_new_br_11: room<br>depth<br>occur<br>shed<br>nurse<br>husband<br>deny<br>critic<br>yard<br>neutral<br>pact
 bip_39_word_new_br_2: room<br>depth
 bip_39_word_new_br_3: room<br>depth<br>occur
-bip_39_word_new_br_4: room<br>depth<br>occur<br>shed
-bip_39_word_new_br_5: room<br>depth<br>occur<br>shed<br>nurse
-bip_39_word_new_br_6: room<br>depth<br>occur<br>shed<br>nurse<br>husband
-bip_39_word_new_br_7: room<br>depth<br>occur<br>shed<br>nurse<br>husband<br>deny
-bip_39_word_new_br_8: room<br>depth<br>occur<br>shed<br>nurse<br>husband<br>deny<br>critic
-bip_39_word_new_br_9: room<br>depth<br>occur<br>shed<br>nurse<br>husband<br>deny<br>critic<br>yard
-bip_39_word_new_line_1: room
-bip_39_word_new_line_10: 'room
-
-  depth
-
-  occur
-
-  shed
-
-  nurse
-
-  husband
-
-  deny
-
-  critic
-
-  yard
-
-  neutral'
 bip_39_word_new_line_11: 'room
 
   depth
@@ -69,124 +33,16 @@ bip_39_word_new_line_3: 'room
   depth
 
   occur'
-bip_39_word_new_line_4: 'room
-
-  depth
-
-  occur
-
-  shed'
-bip_39_word_new_line_5: 'room
-
-  depth
-
-  occur
-
-  shed
-
-  nurse'
-bip_39_word_new_line_6: 'room
-
-  depth
-
-  occur
-
-  shed
-
-  nurse
-
-  husband'
-bip_39_word_new_line_7: 'room
-
-  depth
-
-  occur
-
-  shed
-
-  nurse
-
-  husband
-
-  deny'
-bip_39_word_new_line_8: 'room
-
-  depth
-
-  occur
-
-  shed
-
-  nurse
-
-  husband
-
-  deny
-
-  critic'
-bip_39_word_new_line_9: 'room
-
-  depth
-
-  occur
-
-  shed
-
-  nurse
-
-  husband
-
-  deny
-
-  critic
-
-  yard'
-bip_39_word_no_space_1: room
-bip_39_word_no_space_10: roomdepthoccurshednursehusbanddenycriticyardneutral
 bip_39_word_no_space_11: roomdepthoccurshednursehusbanddenycriticyardneutralpact
 bip_39_word_no_space_2: roomdepth
 bip_39_word_no_space_3: roomdepthoccur
-bip_39_word_no_space_4: roomdepthoccurshed
-bip_39_word_no_space_5: roomdepthoccurshednurse
-bip_39_word_no_space_6: roomdepthoccurshednursehusband
-bip_39_word_no_space_7: roomdepthoccurshednursehusbanddeny
-bip_39_word_no_space_8: roomdepthoccurshednursehusbanddenycritic
-bip_39_word_no_space_9: roomdepthoccurshednursehusbanddenycriticyard
-bip_39_word_space_0:
-- room
-- depth
-- occur
-- shed
-- nurse
-- husband
-- deny
-- critic
-- yard
-- neutral
-- pact
-bip_39_word_space_1: room
-bip_39_word_space_10: room depth occur shed nurse husband deny critic yard neutral
 bip_39_word_space_11: room depth occur shed nurse husband deny critic yard neutral
   pact
 bip_39_word_space_2: room depth
 bip_39_word_space_3: room depth occur
-bip_39_word_space_4: room depth occur shed
-bip_39_word_space_5: room depth occur shed nurse
-bip_39_word_space_6: room depth occur shed nurse husband
-bip_39_word_space_7: room depth occur shed nurse husband deny
-bip_39_word_space_8: room depth occur shed nurse husband deny critic
-bip_39_word_space_9: room depth occur shed nurse husband deny critic yard
-bip_39_word_underscore_1: room
-bip_39_word_underscore_10: room_depth_occur_shed_nurse_husband_deny_critic_yard_neutral
 bip_39_word_underscore_11: room_depth_occur_shed_nurse_husband_deny_critic_yard_neutral_pact
 bip_39_word_underscore_2: room_depth
 bip_39_word_underscore_3: room_depth_occur
-bip_39_word_underscore_4: room_depth_occur_shed
-bip_39_word_underscore_5: room_depth_occur_shed_nurse
-bip_39_word_underscore_6: room_depth_occur_shed_nurse_husband
-bip_39_word_underscore_7: room_depth_occur_shed_nurse_husband_deny
-bip_39_word_underscore_8: room_depth_occur_shed_nurse_husband_deny_critic
-bip_39_word_underscore_9: room_depth_occur_shed_nurse_husband_deny_critic_yard
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

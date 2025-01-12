@@ -1,68 +1,9 @@
-bip_39_word_dash_1: energy
-bip_39_word_dash_10: energy-movie-blind-acid-pattern-crane-grass-silly-horn-yellow
-bip_39_word_dash_11: energy-movie-blind-acid-pattern-crane-grass-silly-horn-yellow-diamond
 bip_39_word_dash_12: energy-movie-blind-acid-pattern-crane-grass-silly-horn-yellow-diamond-attend
 bip_39_word_dash_2: energy-movie
 bip_39_word_dash_3: energy-movie-blind
-bip_39_word_dash_4: energy-movie-blind-acid
-bip_39_word_dash_5: energy-movie-blind-acid-pattern
-bip_39_word_dash_6: energy-movie-blind-acid-pattern-crane
-bip_39_word_dash_7: energy-movie-blind-acid-pattern-crane-grass
-bip_39_word_dash_8: energy-movie-blind-acid-pattern-crane-grass-silly
-bip_39_word_dash_9: energy-movie-blind-acid-pattern-crane-grass-silly-horn
-bip_39_word_new_br_1: energy
-bip_39_word_new_br_10: energy<br>movie<br>blind<br>acid<br>pattern<br>crane<br>grass<br>silly<br>horn<br>yellow
-bip_39_word_new_br_11: energy<br>movie<br>blind<br>acid<br>pattern<br>crane<br>grass<br>silly<br>horn<br>yellow<br>diamond
 bip_39_word_new_br_12: energy<br>movie<br>blind<br>acid<br>pattern<br>crane<br>grass<br>silly<br>horn<br>yellow<br>diamond<br>attend
 bip_39_word_new_br_2: energy<br>movie
 bip_39_word_new_br_3: energy<br>movie<br>blind
-bip_39_word_new_br_4: energy<br>movie<br>blind<br>acid
-bip_39_word_new_br_5: energy<br>movie<br>blind<br>acid<br>pattern
-bip_39_word_new_br_6: energy<br>movie<br>blind<br>acid<br>pattern<br>crane
-bip_39_word_new_br_7: energy<br>movie<br>blind<br>acid<br>pattern<br>crane<br>grass
-bip_39_word_new_br_8: energy<br>movie<br>blind<br>acid<br>pattern<br>crane<br>grass<br>silly
-bip_39_word_new_br_9: energy<br>movie<br>blind<br>acid<br>pattern<br>crane<br>grass<br>silly<br>horn
-bip_39_word_new_line_1: energy
-bip_39_word_new_line_10: 'energy
-
-  movie
-
-  blind
-
-  acid
-
-  pattern
-
-  crane
-
-  grass
-
-  silly
-
-  horn
-
-  yellow'
-bip_39_word_new_line_11: 'energy
-
-  movie
-
-  blind
-
-  acid
-
-  pattern
-
-  crane
-
-  grass
-
-  silly
-
-  horn
-
-  yellow
-
-  diamond'
 bip_39_word_new_line_12: 'energy
 
   movie
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'energy
   movie
 
   blind'
-bip_39_word_new_line_4: 'energy
-
-  movie
-
-  blind
-
-  acid'
-bip_39_word_new_line_5: 'energy
-
-  movie
-
-  blind
-
-  acid
-
-  pattern'
-bip_39_word_new_line_6: 'energy
-
-  movie
-
-  blind
-
-  acid
-
-  pattern
-
-  crane'
-bip_39_word_new_line_7: 'energy
-
-  movie
-
-  blind
-
-  acid
-
-  pattern
-
-  crane
-
-  grass'
-bip_39_word_new_line_8: 'energy
-
-  movie
-
-  blind
-
-  acid
-
-  pattern
-
-  crane
-
-  grass
-
-  silly'
-bip_39_word_new_line_9: 'energy
-
-  movie
-
-  blind
-
-  acid
-
-  pattern
-
-  crane
-
-  grass
-
-  silly
-
-  horn'
-bip_39_word_no_space_1: energy
-bip_39_word_no_space_10: energymovieblindacidpatterncranegrasssillyhornyellow
-bip_39_word_no_space_11: energymovieblindacidpatterncranegrasssillyhornyellowdiamond
 bip_39_word_no_space_12: energymovieblindacidpatterncranegrasssillyhornyellowdiamondattend
 bip_39_word_no_space_2: energymovie
 bip_39_word_no_space_3: energymovieblind
-bip_39_word_no_space_4: energymovieblindacid
-bip_39_word_no_space_5: energymovieblindacidpattern
-bip_39_word_no_space_6: energymovieblindacidpatterncrane
-bip_39_word_no_space_7: energymovieblindacidpatterncranegrass
-bip_39_word_no_space_8: energymovieblindacidpatterncranegrasssilly
-bip_39_word_no_space_9: energymovieblindacidpatterncranegrasssillyhorn
-bip_39_word_space_0:
-- energy
-- movie
-- blind
-- acid
-- pattern
-- crane
-- grass
-- silly
-- horn
-- yellow
-- diamond
-- attend
-bip_39_word_space_1: energy
-bip_39_word_space_10: energy movie blind acid pattern crane grass silly horn yellow
-bip_39_word_space_11: energy movie blind acid pattern crane grass silly horn yellow
-  diamond
 bip_39_word_space_12: energy movie blind acid pattern crane grass silly horn yellow
   diamond attend
 bip_39_word_space_2: energy movie
 bip_39_word_space_3: energy movie blind
-bip_39_word_space_4: energy movie blind acid
-bip_39_word_space_5: energy movie blind acid pattern
-bip_39_word_space_6: energy movie blind acid pattern crane
-bip_39_word_space_7: energy movie blind acid pattern crane grass
-bip_39_word_space_8: energy movie blind acid pattern crane grass silly
-bip_39_word_space_9: energy movie blind acid pattern crane grass silly horn
-bip_39_word_underscore_1: energy
-bip_39_word_underscore_10: energy_movie_blind_acid_pattern_crane_grass_silly_horn_yellow
-bip_39_word_underscore_11: energy_movie_blind_acid_pattern_crane_grass_silly_horn_yellow_diamond
 bip_39_word_underscore_12: energy_movie_blind_acid_pattern_crane_grass_silly_horn_yellow_diamond_attend
 bip_39_word_underscore_2: energy_movie
 bip_39_word_underscore_3: energy_movie_blind
-bip_39_word_underscore_4: energy_movie_blind_acid
-bip_39_word_underscore_5: energy_movie_blind_acid_pattern
-bip_39_word_underscore_6: energy_movie_blind_acid_pattern_crane
-bip_39_word_underscore_7: energy_movie_blind_acid_pattern_crane_grass
-bip_39_word_underscore_8: energy_movie_blind_acid_pattern_crane_grass_silly
-bip_39_word_underscore_9: energy_movie_blind_acid_pattern_crane_grass_silly_horn
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

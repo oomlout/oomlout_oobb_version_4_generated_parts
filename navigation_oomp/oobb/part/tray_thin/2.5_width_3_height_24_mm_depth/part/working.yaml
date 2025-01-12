@@ -1,68 +1,9 @@
-bip_39_word_dash_1: hint
-bip_39_word_dash_10: hint-walnut-region-twist-wrong-mask-person-primary-bomb-describe
-bip_39_word_dash_11: hint-walnut-region-twist-wrong-mask-person-primary-bomb-describe-undo
 bip_39_word_dash_12: hint-walnut-region-twist-wrong-mask-person-primary-bomb-describe-undo-always
 bip_39_word_dash_2: hint-walnut
 bip_39_word_dash_3: hint-walnut-region
-bip_39_word_dash_4: hint-walnut-region-twist
-bip_39_word_dash_5: hint-walnut-region-twist-wrong
-bip_39_word_dash_6: hint-walnut-region-twist-wrong-mask
-bip_39_word_dash_7: hint-walnut-region-twist-wrong-mask-person
-bip_39_word_dash_8: hint-walnut-region-twist-wrong-mask-person-primary
-bip_39_word_dash_9: hint-walnut-region-twist-wrong-mask-person-primary-bomb
-bip_39_word_new_br_1: hint
-bip_39_word_new_br_10: hint<br>walnut<br>region<br>twist<br>wrong<br>mask<br>person<br>primary<br>bomb<br>describe
-bip_39_word_new_br_11: hint<br>walnut<br>region<br>twist<br>wrong<br>mask<br>person<br>primary<br>bomb<br>describe<br>undo
 bip_39_word_new_br_12: hint<br>walnut<br>region<br>twist<br>wrong<br>mask<br>person<br>primary<br>bomb<br>describe<br>undo<br>always
 bip_39_word_new_br_2: hint<br>walnut
 bip_39_word_new_br_3: hint<br>walnut<br>region
-bip_39_word_new_br_4: hint<br>walnut<br>region<br>twist
-bip_39_word_new_br_5: hint<br>walnut<br>region<br>twist<br>wrong
-bip_39_word_new_br_6: hint<br>walnut<br>region<br>twist<br>wrong<br>mask
-bip_39_word_new_br_7: hint<br>walnut<br>region<br>twist<br>wrong<br>mask<br>person
-bip_39_word_new_br_8: hint<br>walnut<br>region<br>twist<br>wrong<br>mask<br>person<br>primary
-bip_39_word_new_br_9: hint<br>walnut<br>region<br>twist<br>wrong<br>mask<br>person<br>primary<br>bomb
-bip_39_word_new_line_1: hint
-bip_39_word_new_line_10: 'hint
-
-  walnut
-
-  region
-
-  twist
-
-  wrong
-
-  mask
-
-  person
-
-  primary
-
-  bomb
-
-  describe'
-bip_39_word_new_line_11: 'hint
-
-  walnut
-
-  region
-
-  twist
-
-  wrong
-
-  mask
-
-  person
-
-  primary
-
-  bomb
-
-  describe
-
-  undo'
 bip_39_word_new_line_12: 'hint
 
   walnut
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'hint
   walnut
 
   region'
-bip_39_word_new_line_4: 'hint
-
-  walnut
-
-  region
-
-  twist'
-bip_39_word_new_line_5: 'hint
-
-  walnut
-
-  region
-
-  twist
-
-  wrong'
-bip_39_word_new_line_6: 'hint
-
-  walnut
-
-  region
-
-  twist
-
-  wrong
-
-  mask'
-bip_39_word_new_line_7: 'hint
-
-  walnut
-
-  region
-
-  twist
-
-  wrong
-
-  mask
-
-  person'
-bip_39_word_new_line_8: 'hint
-
-  walnut
-
-  region
-
-  twist
-
-  wrong
-
-  mask
-
-  person
-
-  primary'
-bip_39_word_new_line_9: 'hint
-
-  walnut
-
-  region
-
-  twist
-
-  wrong
-
-  mask
-
-  person
-
-  primary
-
-  bomb'
-bip_39_word_no_space_1: hint
-bip_39_word_no_space_10: hintwalnutregiontwistwrongmaskpersonprimarybombdescribe
-bip_39_word_no_space_11: hintwalnutregiontwistwrongmaskpersonprimarybombdescribeundo
 bip_39_word_no_space_12: hintwalnutregiontwistwrongmaskpersonprimarybombdescribeundoalways
 bip_39_word_no_space_2: hintwalnut
 bip_39_word_no_space_3: hintwalnutregion
-bip_39_word_no_space_4: hintwalnutregiontwist
-bip_39_word_no_space_5: hintwalnutregiontwistwrong
-bip_39_word_no_space_6: hintwalnutregiontwistwrongmask
-bip_39_word_no_space_7: hintwalnutregiontwistwrongmaskperson
-bip_39_word_no_space_8: hintwalnutregiontwistwrongmaskpersonprimary
-bip_39_word_no_space_9: hintwalnutregiontwistwrongmaskpersonprimarybomb
-bip_39_word_space_0:
-- hint
-- walnut
-- region
-- twist
-- wrong
-- mask
-- person
-- primary
-- bomb
-- describe
-- undo
-- always
-bip_39_word_space_1: hint
-bip_39_word_space_10: hint walnut region twist wrong mask person primary bomb describe
-bip_39_word_space_11: hint walnut region twist wrong mask person primary bomb describe
-  undo
 bip_39_word_space_12: hint walnut region twist wrong mask person primary bomb describe
   undo always
 bip_39_word_space_2: hint walnut
 bip_39_word_space_3: hint walnut region
-bip_39_word_space_4: hint walnut region twist
-bip_39_word_space_5: hint walnut region twist wrong
-bip_39_word_space_6: hint walnut region twist wrong mask
-bip_39_word_space_7: hint walnut region twist wrong mask person
-bip_39_word_space_8: hint walnut region twist wrong mask person primary
-bip_39_word_space_9: hint walnut region twist wrong mask person primary bomb
-bip_39_word_underscore_1: hint
-bip_39_word_underscore_10: hint_walnut_region_twist_wrong_mask_person_primary_bomb_describe
-bip_39_word_underscore_11: hint_walnut_region_twist_wrong_mask_person_primary_bomb_describe_undo
 bip_39_word_underscore_12: hint_walnut_region_twist_wrong_mask_person_primary_bomb_describe_undo_always
 bip_39_word_underscore_2: hint_walnut
 bip_39_word_underscore_3: hint_walnut_region
-bip_39_word_underscore_4: hint_walnut_region_twist
-bip_39_word_underscore_5: hint_walnut_region_twist_wrong
-bip_39_word_underscore_6: hint_walnut_region_twist_wrong_mask
-bip_39_word_underscore_7: hint_walnut_region_twist_wrong_mask_person
-bip_39_word_underscore_8: hint_walnut_region_twist_wrong_mask_person_primary
-bip_39_word_underscore_9: hint_walnut_region_twist_wrong_mask_person_primary_bomb
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

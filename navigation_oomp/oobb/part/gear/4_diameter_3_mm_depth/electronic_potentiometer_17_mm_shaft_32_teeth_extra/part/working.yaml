@@ -1,68 +1,9 @@
-bip_39_word_dash_1: cash
-bip_39_word_dash_10: cash-vehicle-bird-option-industry-champion-unit-emerge-quote-budget
-bip_39_word_dash_11: cash-vehicle-bird-option-industry-champion-unit-emerge-quote-budget-dash
 bip_39_word_dash_12: cash-vehicle-bird-option-industry-champion-unit-emerge-quote-budget-dash-animal
 bip_39_word_dash_2: cash-vehicle
 bip_39_word_dash_3: cash-vehicle-bird
-bip_39_word_dash_4: cash-vehicle-bird-option
-bip_39_word_dash_5: cash-vehicle-bird-option-industry
-bip_39_word_dash_6: cash-vehicle-bird-option-industry-champion
-bip_39_word_dash_7: cash-vehicle-bird-option-industry-champion-unit
-bip_39_word_dash_8: cash-vehicle-bird-option-industry-champion-unit-emerge
-bip_39_word_dash_9: cash-vehicle-bird-option-industry-champion-unit-emerge-quote
-bip_39_word_new_br_1: cash
-bip_39_word_new_br_10: cash<br>vehicle<br>bird<br>option<br>industry<br>champion<br>unit<br>emerge<br>quote<br>budget
-bip_39_word_new_br_11: cash<br>vehicle<br>bird<br>option<br>industry<br>champion<br>unit<br>emerge<br>quote<br>budget<br>dash
 bip_39_word_new_br_12: cash<br>vehicle<br>bird<br>option<br>industry<br>champion<br>unit<br>emerge<br>quote<br>budget<br>dash<br>animal
 bip_39_word_new_br_2: cash<br>vehicle
 bip_39_word_new_br_3: cash<br>vehicle<br>bird
-bip_39_word_new_br_4: cash<br>vehicle<br>bird<br>option
-bip_39_word_new_br_5: cash<br>vehicle<br>bird<br>option<br>industry
-bip_39_word_new_br_6: cash<br>vehicle<br>bird<br>option<br>industry<br>champion
-bip_39_word_new_br_7: cash<br>vehicle<br>bird<br>option<br>industry<br>champion<br>unit
-bip_39_word_new_br_8: cash<br>vehicle<br>bird<br>option<br>industry<br>champion<br>unit<br>emerge
-bip_39_word_new_br_9: cash<br>vehicle<br>bird<br>option<br>industry<br>champion<br>unit<br>emerge<br>quote
-bip_39_word_new_line_1: cash
-bip_39_word_new_line_10: 'cash
-
-  vehicle
-
-  bird
-
-  option
-
-  industry
-
-  champion
-
-  unit
-
-  emerge
-
-  quote
-
-  budget'
-bip_39_word_new_line_11: 'cash
-
-  vehicle
-
-  bird
-
-  option
-
-  industry
-
-  champion
-
-  unit
-
-  emerge
-
-  quote
-
-  budget
-
-  dash'
 bip_39_word_new_line_12: 'cash
 
   vehicle
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'cash
   vehicle
 
   bird'
-bip_39_word_new_line_4: 'cash
-
-  vehicle
-
-  bird
-
-  option'
-bip_39_word_new_line_5: 'cash
-
-  vehicle
-
-  bird
-
-  option
-
-  industry'
-bip_39_word_new_line_6: 'cash
-
-  vehicle
-
-  bird
-
-  option
-
-  industry
-
-  champion'
-bip_39_word_new_line_7: 'cash
-
-  vehicle
-
-  bird
-
-  option
-
-  industry
-
-  champion
-
-  unit'
-bip_39_word_new_line_8: 'cash
-
-  vehicle
-
-  bird
-
-  option
-
-  industry
-
-  champion
-
-  unit
-
-  emerge'
-bip_39_word_new_line_9: 'cash
-
-  vehicle
-
-  bird
-
-  option
-
-  industry
-
-  champion
-
-  unit
-
-  emerge
-
-  quote'
-bip_39_word_no_space_1: cash
-bip_39_word_no_space_10: cashvehiclebirdoptionindustrychampionunitemergequotebudget
-bip_39_word_no_space_11: cashvehiclebirdoptionindustrychampionunitemergequotebudgetdash
 bip_39_word_no_space_12: cashvehiclebirdoptionindustrychampionunitemergequotebudgetdashanimal
 bip_39_word_no_space_2: cashvehicle
 bip_39_word_no_space_3: cashvehiclebird
-bip_39_word_no_space_4: cashvehiclebirdoption
-bip_39_word_no_space_5: cashvehiclebirdoptionindustry
-bip_39_word_no_space_6: cashvehiclebirdoptionindustrychampion
-bip_39_word_no_space_7: cashvehiclebirdoptionindustrychampionunit
-bip_39_word_no_space_8: cashvehiclebirdoptionindustrychampionunitemerge
-bip_39_word_no_space_9: cashvehiclebirdoptionindustrychampionunitemergequote
-bip_39_word_space_0:
-- cash
-- vehicle
-- bird
-- option
-- industry
-- champion
-- unit
-- emerge
-- quote
-- budget
-- dash
-- animal
-bip_39_word_space_1: cash
-bip_39_word_space_10: cash vehicle bird option industry champion unit emerge quote
-  budget
-bip_39_word_space_11: cash vehicle bird option industry champion unit emerge quote
-  budget dash
 bip_39_word_space_12: cash vehicle bird option industry champion unit emerge quote
   budget dash animal
 bip_39_word_space_2: cash vehicle
 bip_39_word_space_3: cash vehicle bird
-bip_39_word_space_4: cash vehicle bird option
-bip_39_word_space_5: cash vehicle bird option industry
-bip_39_word_space_6: cash vehicle bird option industry champion
-bip_39_word_space_7: cash vehicle bird option industry champion unit
-bip_39_word_space_8: cash vehicle bird option industry champion unit emerge
-bip_39_word_space_9: cash vehicle bird option industry champion unit emerge quote
-bip_39_word_underscore_1: cash
-bip_39_word_underscore_10: cash_vehicle_bird_option_industry_champion_unit_emerge_quote_budget
-bip_39_word_underscore_11: cash_vehicle_bird_option_industry_champion_unit_emerge_quote_budget_dash
 bip_39_word_underscore_12: cash_vehicle_bird_option_industry_champion_unit_emerge_quote_budget_dash_animal
 bip_39_word_underscore_2: cash_vehicle
 bip_39_word_underscore_3: cash_vehicle_bird
-bip_39_word_underscore_4: cash_vehicle_bird_option
-bip_39_word_underscore_5: cash_vehicle_bird_option_industry
-bip_39_word_underscore_6: cash_vehicle_bird_option_industry_champion
-bip_39_word_underscore_7: cash_vehicle_bird_option_industry_champion_unit
-bip_39_word_underscore_8: cash_vehicle_bird_option_industry_champion_unit_emerge
-bip_39_word_underscore_9: cash_vehicle_bird_option_industry_champion_unit_emerge_quote
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

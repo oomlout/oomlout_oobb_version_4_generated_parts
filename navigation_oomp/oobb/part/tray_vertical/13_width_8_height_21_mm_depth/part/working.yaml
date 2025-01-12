@@ -1,68 +1,9 @@
-bip_39_word_dash_1: plug
-bip_39_word_dash_10: plug-state-immune-swallow-border-pig-boy-drive-member-chicken
-bip_39_word_dash_11: plug-state-immune-swallow-border-pig-boy-drive-member-chicken-hospital
 bip_39_word_dash_12: plug-state-immune-swallow-border-pig-boy-drive-member-chicken-hospital-advance
 bip_39_word_dash_2: plug-state
 bip_39_word_dash_3: plug-state-immune
-bip_39_word_dash_4: plug-state-immune-swallow
-bip_39_word_dash_5: plug-state-immune-swallow-border
-bip_39_word_dash_6: plug-state-immune-swallow-border-pig
-bip_39_word_dash_7: plug-state-immune-swallow-border-pig-boy
-bip_39_word_dash_8: plug-state-immune-swallow-border-pig-boy-drive
-bip_39_word_dash_9: plug-state-immune-swallow-border-pig-boy-drive-member
-bip_39_word_new_br_1: plug
-bip_39_word_new_br_10: plug<br>state<br>immune<br>swallow<br>border<br>pig<br>boy<br>drive<br>member<br>chicken
-bip_39_word_new_br_11: plug<br>state<br>immune<br>swallow<br>border<br>pig<br>boy<br>drive<br>member<br>chicken<br>hospital
 bip_39_word_new_br_12: plug<br>state<br>immune<br>swallow<br>border<br>pig<br>boy<br>drive<br>member<br>chicken<br>hospital<br>advance
 bip_39_word_new_br_2: plug<br>state
 bip_39_word_new_br_3: plug<br>state<br>immune
-bip_39_word_new_br_4: plug<br>state<br>immune<br>swallow
-bip_39_word_new_br_5: plug<br>state<br>immune<br>swallow<br>border
-bip_39_word_new_br_6: plug<br>state<br>immune<br>swallow<br>border<br>pig
-bip_39_word_new_br_7: plug<br>state<br>immune<br>swallow<br>border<br>pig<br>boy
-bip_39_word_new_br_8: plug<br>state<br>immune<br>swallow<br>border<br>pig<br>boy<br>drive
-bip_39_word_new_br_9: plug<br>state<br>immune<br>swallow<br>border<br>pig<br>boy<br>drive<br>member
-bip_39_word_new_line_1: plug
-bip_39_word_new_line_10: 'plug
-
-  state
-
-  immune
-
-  swallow
-
-  border
-
-  pig
-
-  boy
-
-  drive
-
-  member
-
-  chicken'
-bip_39_word_new_line_11: 'plug
-
-  state
-
-  immune
-
-  swallow
-
-  border
-
-  pig
-
-  boy
-
-  drive
-
-  member
-
-  chicken
-
-  hospital'
 bip_39_word_new_line_12: 'plug
 
   state
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'plug
   state
 
   immune'
-bip_39_word_new_line_4: 'plug
-
-  state
-
-  immune
-
-  swallow'
-bip_39_word_new_line_5: 'plug
-
-  state
-
-  immune
-
-  swallow
-
-  border'
-bip_39_word_new_line_6: 'plug
-
-  state
-
-  immune
-
-  swallow
-
-  border
-
-  pig'
-bip_39_word_new_line_7: 'plug
-
-  state
-
-  immune
-
-  swallow
-
-  border
-
-  pig
-
-  boy'
-bip_39_word_new_line_8: 'plug
-
-  state
-
-  immune
-
-  swallow
-
-  border
-
-  pig
-
-  boy
-
-  drive'
-bip_39_word_new_line_9: 'plug
-
-  state
-
-  immune
-
-  swallow
-
-  border
-
-  pig
-
-  boy
-
-  drive
-
-  member'
-bip_39_word_no_space_1: plug
-bip_39_word_no_space_10: plugstateimmuneswallowborderpigboydrivememberchicken
-bip_39_word_no_space_11: plugstateimmuneswallowborderpigboydrivememberchickenhospital
 bip_39_word_no_space_12: plugstateimmuneswallowborderpigboydrivememberchickenhospitaladvance
 bip_39_word_no_space_2: plugstate
 bip_39_word_no_space_3: plugstateimmune
-bip_39_word_no_space_4: plugstateimmuneswallow
-bip_39_word_no_space_5: plugstateimmuneswallowborder
-bip_39_word_no_space_6: plugstateimmuneswallowborderpig
-bip_39_word_no_space_7: plugstateimmuneswallowborderpigboy
-bip_39_word_no_space_8: plugstateimmuneswallowborderpigboydrive
-bip_39_word_no_space_9: plugstateimmuneswallowborderpigboydrivemember
-bip_39_word_space_0:
-- plug
-- state
-- immune
-- swallow
-- border
-- pig
-- boy
-- drive
-- member
-- chicken
-- hospital
-- advance
-bip_39_word_space_1: plug
-bip_39_word_space_10: plug state immune swallow border pig boy drive member chicken
-bip_39_word_space_11: plug state immune swallow border pig boy drive member chicken
-  hospital
 bip_39_word_space_12: plug state immune swallow border pig boy drive member chicken
   hospital advance
 bip_39_word_space_2: plug state
 bip_39_word_space_3: plug state immune
-bip_39_word_space_4: plug state immune swallow
-bip_39_word_space_5: plug state immune swallow border
-bip_39_word_space_6: plug state immune swallow border pig
-bip_39_word_space_7: plug state immune swallow border pig boy
-bip_39_word_space_8: plug state immune swallow border pig boy drive
-bip_39_word_space_9: plug state immune swallow border pig boy drive member
-bip_39_word_underscore_1: plug
-bip_39_word_underscore_10: plug_state_immune_swallow_border_pig_boy_drive_member_chicken
-bip_39_word_underscore_11: plug_state_immune_swallow_border_pig_boy_drive_member_chicken_hospital
 bip_39_word_underscore_12: plug_state_immune_swallow_border_pig_boy_drive_member_chicken_hospital_advance
 bip_39_word_underscore_2: plug_state
 bip_39_word_underscore_3: plug_state_immune
-bip_39_word_underscore_4: plug_state_immune_swallow
-bip_39_word_underscore_5: plug_state_immune_swallow_border
-bip_39_word_underscore_6: plug_state_immune_swallow_border_pig
-bip_39_word_underscore_7: plug_state_immune_swallow_border_pig_boy
-bip_39_word_underscore_8: plug_state_immune_swallow_border_pig_boy_drive
-bip_39_word_underscore_9: plug_state_immune_swallow_border_pig_boy_drive_member
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: usual
-bip_39_word_dash_10: usual-avocado-car-veteran-corn-another-kiwi-point-exclude-secret
-bip_39_word_dash_11: usual-avocado-car-veteran-corn-another-kiwi-point-exclude-secret-trick
 bip_39_word_dash_12: usual-avocado-car-veteran-corn-another-kiwi-point-exclude-secret-trick-alone
 bip_39_word_dash_2: usual-avocado
 bip_39_word_dash_3: usual-avocado-car
-bip_39_word_dash_4: usual-avocado-car-veteran
-bip_39_word_dash_5: usual-avocado-car-veteran-corn
-bip_39_word_dash_6: usual-avocado-car-veteran-corn-another
-bip_39_word_dash_7: usual-avocado-car-veteran-corn-another-kiwi
-bip_39_word_dash_8: usual-avocado-car-veteran-corn-another-kiwi-point
-bip_39_word_dash_9: usual-avocado-car-veteran-corn-another-kiwi-point-exclude
-bip_39_word_new_br_1: usual
-bip_39_word_new_br_10: usual<br>avocado<br>car<br>veteran<br>corn<br>another<br>kiwi<br>point<br>exclude<br>secret
-bip_39_word_new_br_11: usual<br>avocado<br>car<br>veteran<br>corn<br>another<br>kiwi<br>point<br>exclude<br>secret<br>trick
 bip_39_word_new_br_12: usual<br>avocado<br>car<br>veteran<br>corn<br>another<br>kiwi<br>point<br>exclude<br>secret<br>trick<br>alone
 bip_39_word_new_br_2: usual<br>avocado
 bip_39_word_new_br_3: usual<br>avocado<br>car
-bip_39_word_new_br_4: usual<br>avocado<br>car<br>veteran
-bip_39_word_new_br_5: usual<br>avocado<br>car<br>veteran<br>corn
-bip_39_word_new_br_6: usual<br>avocado<br>car<br>veteran<br>corn<br>another
-bip_39_word_new_br_7: usual<br>avocado<br>car<br>veteran<br>corn<br>another<br>kiwi
-bip_39_word_new_br_8: usual<br>avocado<br>car<br>veteran<br>corn<br>another<br>kiwi<br>point
-bip_39_word_new_br_9: usual<br>avocado<br>car<br>veteran<br>corn<br>another<br>kiwi<br>point<br>exclude
-bip_39_word_new_line_1: usual
-bip_39_word_new_line_10: 'usual
-
-  avocado
-
-  car
-
-  veteran
-
-  corn
-
-  another
-
-  kiwi
-
-  point
-
-  exclude
-
-  secret'
-bip_39_word_new_line_11: 'usual
-
-  avocado
-
-  car
-
-  veteran
-
-  corn
-
-  another
-
-  kiwi
-
-  point
-
-  exclude
-
-  secret
-
-  trick'
 bip_39_word_new_line_12: 'usual
 
   avocado
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'usual
   avocado
 
   car'
-bip_39_word_new_line_4: 'usual
-
-  avocado
-
-  car
-
-  veteran'
-bip_39_word_new_line_5: 'usual
-
-  avocado
-
-  car
-
-  veteran
-
-  corn'
-bip_39_word_new_line_6: 'usual
-
-  avocado
-
-  car
-
-  veteran
-
-  corn
-
-  another'
-bip_39_word_new_line_7: 'usual
-
-  avocado
-
-  car
-
-  veteran
-
-  corn
-
-  another
-
-  kiwi'
-bip_39_word_new_line_8: 'usual
-
-  avocado
-
-  car
-
-  veteran
-
-  corn
-
-  another
-
-  kiwi
-
-  point'
-bip_39_word_new_line_9: 'usual
-
-  avocado
-
-  car
-
-  veteran
-
-  corn
-
-  another
-
-  kiwi
-
-  point
-
-  exclude'
-bip_39_word_no_space_1: usual
-bip_39_word_no_space_10: usualavocadocarveterancornanotherkiwipointexcludesecret
-bip_39_word_no_space_11: usualavocadocarveterancornanotherkiwipointexcludesecrettrick
 bip_39_word_no_space_12: usualavocadocarveterancornanotherkiwipointexcludesecrettrickalone
 bip_39_word_no_space_2: usualavocado
 bip_39_word_no_space_3: usualavocadocar
-bip_39_word_no_space_4: usualavocadocarveteran
-bip_39_word_no_space_5: usualavocadocarveterancorn
-bip_39_word_no_space_6: usualavocadocarveterancornanother
-bip_39_word_no_space_7: usualavocadocarveterancornanotherkiwi
-bip_39_word_no_space_8: usualavocadocarveterancornanotherkiwipoint
-bip_39_word_no_space_9: usualavocadocarveterancornanotherkiwipointexclude
-bip_39_word_space_0:
-- usual
-- avocado
-- car
-- veteran
-- corn
-- another
-- kiwi
-- point
-- exclude
-- secret
-- trick
-- alone
-bip_39_word_space_1: usual
-bip_39_word_space_10: usual avocado car veteran corn another kiwi point exclude secret
-bip_39_word_space_11: usual avocado car veteran corn another kiwi point exclude secret
-  trick
 bip_39_word_space_12: usual avocado car veteran corn another kiwi point exclude secret
   trick alone
 bip_39_word_space_2: usual avocado
 bip_39_word_space_3: usual avocado car
-bip_39_word_space_4: usual avocado car veteran
-bip_39_word_space_5: usual avocado car veteran corn
-bip_39_word_space_6: usual avocado car veteran corn another
-bip_39_word_space_7: usual avocado car veteran corn another kiwi
-bip_39_word_space_8: usual avocado car veteran corn another kiwi point
-bip_39_word_space_9: usual avocado car veteran corn another kiwi point exclude
-bip_39_word_underscore_1: usual
-bip_39_word_underscore_10: usual_avocado_car_veteran_corn_another_kiwi_point_exclude_secret
-bip_39_word_underscore_11: usual_avocado_car_veteran_corn_another_kiwi_point_exclude_secret_trick
 bip_39_word_underscore_12: usual_avocado_car_veteran_corn_another_kiwi_point_exclude_secret_trick_alone
 bip_39_word_underscore_2: usual_avocado
 bip_39_word_underscore_3: usual_avocado_car
-bip_39_word_underscore_4: usual_avocado_car_veteran
-bip_39_word_underscore_5: usual_avocado_car_veteran_corn
-bip_39_word_underscore_6: usual_avocado_car_veteran_corn_another
-bip_39_word_underscore_7: usual_avocado_car_veteran_corn_another_kiwi
-bip_39_word_underscore_8: usual_avocado_car_veteran_corn_another_kiwi_point
-bip_39_word_underscore_9: usual_avocado_car_veteran_corn_another_kiwi_point_exclude
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

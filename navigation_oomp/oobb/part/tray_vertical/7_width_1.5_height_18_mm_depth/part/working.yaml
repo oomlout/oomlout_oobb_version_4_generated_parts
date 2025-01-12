@@ -1,68 +1,9 @@
-bip_39_word_dash_1: spread
-bip_39_word_dash_10: spread-picnic-stadium-celery-diagram-recall-omit-tobacco-addict-chief
-bip_39_word_dash_11: spread-picnic-stadium-celery-diagram-recall-omit-tobacco-addict-chief-domain
 bip_39_word_dash_12: spread-picnic-stadium-celery-diagram-recall-omit-tobacco-addict-chief-domain-advance
 bip_39_word_dash_2: spread-picnic
 bip_39_word_dash_3: spread-picnic-stadium
-bip_39_word_dash_4: spread-picnic-stadium-celery
-bip_39_word_dash_5: spread-picnic-stadium-celery-diagram
-bip_39_word_dash_6: spread-picnic-stadium-celery-diagram-recall
-bip_39_word_dash_7: spread-picnic-stadium-celery-diagram-recall-omit
-bip_39_word_dash_8: spread-picnic-stadium-celery-diagram-recall-omit-tobacco
-bip_39_word_dash_9: spread-picnic-stadium-celery-diagram-recall-omit-tobacco-addict
-bip_39_word_new_br_1: spread
-bip_39_word_new_br_10: spread<br>picnic<br>stadium<br>celery<br>diagram<br>recall<br>omit<br>tobacco<br>addict<br>chief
-bip_39_word_new_br_11: spread<br>picnic<br>stadium<br>celery<br>diagram<br>recall<br>omit<br>tobacco<br>addict<br>chief<br>domain
 bip_39_word_new_br_12: spread<br>picnic<br>stadium<br>celery<br>diagram<br>recall<br>omit<br>tobacco<br>addict<br>chief<br>domain<br>advance
 bip_39_word_new_br_2: spread<br>picnic
 bip_39_word_new_br_3: spread<br>picnic<br>stadium
-bip_39_word_new_br_4: spread<br>picnic<br>stadium<br>celery
-bip_39_word_new_br_5: spread<br>picnic<br>stadium<br>celery<br>diagram
-bip_39_word_new_br_6: spread<br>picnic<br>stadium<br>celery<br>diagram<br>recall
-bip_39_word_new_br_7: spread<br>picnic<br>stadium<br>celery<br>diagram<br>recall<br>omit
-bip_39_word_new_br_8: spread<br>picnic<br>stadium<br>celery<br>diagram<br>recall<br>omit<br>tobacco
-bip_39_word_new_br_9: spread<br>picnic<br>stadium<br>celery<br>diagram<br>recall<br>omit<br>tobacco<br>addict
-bip_39_word_new_line_1: spread
-bip_39_word_new_line_10: 'spread
-
-  picnic
-
-  stadium
-
-  celery
-
-  diagram
-
-  recall
-
-  omit
-
-  tobacco
-
-  addict
-
-  chief'
-bip_39_word_new_line_11: 'spread
-
-  picnic
-
-  stadium
-
-  celery
-
-  diagram
-
-  recall
-
-  omit
-
-  tobacco
-
-  addict
-
-  chief
-
-  domain'
 bip_39_word_new_line_12: 'spread
 
   picnic
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'spread
   picnic
 
   stadium'
-bip_39_word_new_line_4: 'spread
-
-  picnic
-
-  stadium
-
-  celery'
-bip_39_word_new_line_5: 'spread
-
-  picnic
-
-  stadium
-
-  celery
-
-  diagram'
-bip_39_word_new_line_6: 'spread
-
-  picnic
-
-  stadium
-
-  celery
-
-  diagram
-
-  recall'
-bip_39_word_new_line_7: 'spread
-
-  picnic
-
-  stadium
-
-  celery
-
-  diagram
-
-  recall
-
-  omit'
-bip_39_word_new_line_8: 'spread
-
-  picnic
-
-  stadium
-
-  celery
-
-  diagram
-
-  recall
-
-  omit
-
-  tobacco'
-bip_39_word_new_line_9: 'spread
-
-  picnic
-
-  stadium
-
-  celery
-
-  diagram
-
-  recall
-
-  omit
-
-  tobacco
-
-  addict'
-bip_39_word_no_space_1: spread
-bip_39_word_no_space_10: spreadpicnicstadiumcelerydiagramrecallomittobaccoaddictchief
-bip_39_word_no_space_11: spreadpicnicstadiumcelerydiagramrecallomittobaccoaddictchiefdomain
 bip_39_word_no_space_12: spreadpicnicstadiumcelerydiagramrecallomittobaccoaddictchiefdomainadvance
 bip_39_word_no_space_2: spreadpicnic
 bip_39_word_no_space_3: spreadpicnicstadium
-bip_39_word_no_space_4: spreadpicnicstadiumcelery
-bip_39_word_no_space_5: spreadpicnicstadiumcelerydiagram
-bip_39_word_no_space_6: spreadpicnicstadiumcelerydiagramrecall
-bip_39_word_no_space_7: spreadpicnicstadiumcelerydiagramrecallomit
-bip_39_word_no_space_8: spreadpicnicstadiumcelerydiagramrecallomittobacco
-bip_39_word_no_space_9: spreadpicnicstadiumcelerydiagramrecallomittobaccoaddict
-bip_39_word_space_0:
-- spread
-- picnic
-- stadium
-- celery
-- diagram
-- recall
-- omit
-- tobacco
-- addict
-- chief
-- domain
-- advance
-bip_39_word_space_1: spread
-bip_39_word_space_10: spread picnic stadium celery diagram recall omit tobacco addict
-  chief
-bip_39_word_space_11: spread picnic stadium celery diagram recall omit tobacco addict
-  chief domain
 bip_39_word_space_12: spread picnic stadium celery diagram recall omit tobacco addict
   chief domain advance
 bip_39_word_space_2: spread picnic
 bip_39_word_space_3: spread picnic stadium
-bip_39_word_space_4: spread picnic stadium celery
-bip_39_word_space_5: spread picnic stadium celery diagram
-bip_39_word_space_6: spread picnic stadium celery diagram recall
-bip_39_word_space_7: spread picnic stadium celery diagram recall omit
-bip_39_word_space_8: spread picnic stadium celery diagram recall omit tobacco
-bip_39_word_space_9: spread picnic stadium celery diagram recall omit tobacco addict
-bip_39_word_underscore_1: spread
-bip_39_word_underscore_10: spread_picnic_stadium_celery_diagram_recall_omit_tobacco_addict_chief
-bip_39_word_underscore_11: spread_picnic_stadium_celery_diagram_recall_omit_tobacco_addict_chief_domain
 bip_39_word_underscore_12: spread_picnic_stadium_celery_diagram_recall_omit_tobacco_addict_chief_domain_advance
 bip_39_word_underscore_2: spread_picnic
 bip_39_word_underscore_3: spread_picnic_stadium
-bip_39_word_underscore_4: spread_picnic_stadium_celery
-bip_39_word_underscore_5: spread_picnic_stadium_celery_diagram
-bip_39_word_underscore_6: spread_picnic_stadium_celery_diagram_recall
-bip_39_word_underscore_7: spread_picnic_stadium_celery_diagram_recall_omit
-bip_39_word_underscore_8: spread_picnic_stadium_celery_diagram_recall_omit_tobacco
-bip_39_word_underscore_9: spread_picnic_stadium_celery_diagram_recall_omit_tobacco_addict
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

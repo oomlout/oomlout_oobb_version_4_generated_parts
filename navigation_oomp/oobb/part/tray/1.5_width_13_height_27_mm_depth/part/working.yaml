@@ -1,45 +1,9 @@
-bip_39_word_dash_1: avoid
-bip_39_word_dash_10: avoid-diesel-fork-claw-wheel-music-lottery-movie-fringe-pair
 bip_39_word_dash_11: avoid-diesel-fork-claw-wheel-music-lottery-movie-fringe-pair-void
 bip_39_word_dash_2: avoid-diesel
 bip_39_word_dash_3: avoid-diesel-fork
-bip_39_word_dash_4: avoid-diesel-fork-claw
-bip_39_word_dash_5: avoid-diesel-fork-claw-wheel
-bip_39_word_dash_6: avoid-diesel-fork-claw-wheel-music
-bip_39_word_dash_7: avoid-diesel-fork-claw-wheel-music-lottery
-bip_39_word_dash_8: avoid-diesel-fork-claw-wheel-music-lottery-movie
-bip_39_word_dash_9: avoid-diesel-fork-claw-wheel-music-lottery-movie-fringe
-bip_39_word_new_br_1: avoid
-bip_39_word_new_br_10: avoid<br>diesel<br>fork<br>claw<br>wheel<br>music<br>lottery<br>movie<br>fringe<br>pair
 bip_39_word_new_br_11: avoid<br>diesel<br>fork<br>claw<br>wheel<br>music<br>lottery<br>movie<br>fringe<br>pair<br>void
 bip_39_word_new_br_2: avoid<br>diesel
 bip_39_word_new_br_3: avoid<br>diesel<br>fork
-bip_39_word_new_br_4: avoid<br>diesel<br>fork<br>claw
-bip_39_word_new_br_5: avoid<br>diesel<br>fork<br>claw<br>wheel
-bip_39_word_new_br_6: avoid<br>diesel<br>fork<br>claw<br>wheel<br>music
-bip_39_word_new_br_7: avoid<br>diesel<br>fork<br>claw<br>wheel<br>music<br>lottery
-bip_39_word_new_br_8: avoid<br>diesel<br>fork<br>claw<br>wheel<br>music<br>lottery<br>movie
-bip_39_word_new_br_9: avoid<br>diesel<br>fork<br>claw<br>wheel<br>music<br>lottery<br>movie<br>fringe
-bip_39_word_new_line_1: avoid
-bip_39_word_new_line_10: 'avoid
-
-  diesel
-
-  fork
-
-  claw
-
-  wheel
-
-  music
-
-  lottery
-
-  movie
-
-  fringe
-
-  pair'
 bip_39_word_new_line_11: 'avoid
 
   diesel
@@ -69,124 +33,16 @@ bip_39_word_new_line_3: 'avoid
   diesel
 
   fork'
-bip_39_word_new_line_4: 'avoid
-
-  diesel
-
-  fork
-
-  claw'
-bip_39_word_new_line_5: 'avoid
-
-  diesel
-
-  fork
-
-  claw
-
-  wheel'
-bip_39_word_new_line_6: 'avoid
-
-  diesel
-
-  fork
-
-  claw
-
-  wheel
-
-  music'
-bip_39_word_new_line_7: 'avoid
-
-  diesel
-
-  fork
-
-  claw
-
-  wheel
-
-  music
-
-  lottery'
-bip_39_word_new_line_8: 'avoid
-
-  diesel
-
-  fork
-
-  claw
-
-  wheel
-
-  music
-
-  lottery
-
-  movie'
-bip_39_word_new_line_9: 'avoid
-
-  diesel
-
-  fork
-
-  claw
-
-  wheel
-
-  music
-
-  lottery
-
-  movie
-
-  fringe'
-bip_39_word_no_space_1: avoid
-bip_39_word_no_space_10: avoiddieselforkclawwheelmusiclotterymoviefringepair
 bip_39_word_no_space_11: avoiddieselforkclawwheelmusiclotterymoviefringepairvoid
 bip_39_word_no_space_2: avoiddiesel
 bip_39_word_no_space_3: avoiddieselfork
-bip_39_word_no_space_4: avoiddieselforkclaw
-bip_39_word_no_space_5: avoiddieselforkclawwheel
-bip_39_word_no_space_6: avoiddieselforkclawwheelmusic
-bip_39_word_no_space_7: avoiddieselforkclawwheelmusiclottery
-bip_39_word_no_space_8: avoiddieselforkclawwheelmusiclotterymovie
-bip_39_word_no_space_9: avoiddieselforkclawwheelmusiclotterymoviefringe
-bip_39_word_space_0:
-- avoid
-- diesel
-- fork
-- claw
-- wheel
-- music
-- lottery
-- movie
-- fringe
-- pair
-- void
-bip_39_word_space_1: avoid
-bip_39_word_space_10: avoid diesel fork claw wheel music lottery movie fringe pair
 bip_39_word_space_11: avoid diesel fork claw wheel music lottery movie fringe pair
   void
 bip_39_word_space_2: avoid diesel
 bip_39_word_space_3: avoid diesel fork
-bip_39_word_space_4: avoid diesel fork claw
-bip_39_word_space_5: avoid diesel fork claw wheel
-bip_39_word_space_6: avoid diesel fork claw wheel music
-bip_39_word_space_7: avoid diesel fork claw wheel music lottery
-bip_39_word_space_8: avoid diesel fork claw wheel music lottery movie
-bip_39_word_space_9: avoid diesel fork claw wheel music lottery movie fringe
-bip_39_word_underscore_1: avoid
-bip_39_word_underscore_10: avoid_diesel_fork_claw_wheel_music_lottery_movie_fringe_pair
 bip_39_word_underscore_11: avoid_diesel_fork_claw_wheel_music_lottery_movie_fringe_pair_void
 bip_39_word_underscore_2: avoid_diesel
 bip_39_word_underscore_3: avoid_diesel_fork
-bip_39_word_underscore_4: avoid_diesel_fork_claw
-bip_39_word_underscore_5: avoid_diesel_fork_claw_wheel
-bip_39_word_underscore_6: avoid_diesel_fork_claw_wheel_music
-bip_39_word_underscore_7: avoid_diesel_fork_claw_wheel_music_lottery
-bip_39_word_underscore_8: avoid_diesel_fork_claw_wheel_music_lottery_movie
-bip_39_word_underscore_9: avoid_diesel_fork_claw_wheel_music_lottery_movie_fringe
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

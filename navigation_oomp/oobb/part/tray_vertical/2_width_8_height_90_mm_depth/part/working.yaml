@@ -1,68 +1,9 @@
-bip_39_word_dash_1: armor
-bip_39_word_dash_10: armor-flavor-express-glare-skull-odor-mouse-cash-burden-over
-bip_39_word_dash_11: armor-flavor-express-glare-skull-odor-mouse-cash-burden-over-still
 bip_39_word_dash_12: armor-flavor-express-glare-skull-odor-mouse-cash-burden-over-still-armed
 bip_39_word_dash_2: armor-flavor
 bip_39_word_dash_3: armor-flavor-express
-bip_39_word_dash_4: armor-flavor-express-glare
-bip_39_word_dash_5: armor-flavor-express-glare-skull
-bip_39_word_dash_6: armor-flavor-express-glare-skull-odor
-bip_39_word_dash_7: armor-flavor-express-glare-skull-odor-mouse
-bip_39_word_dash_8: armor-flavor-express-glare-skull-odor-mouse-cash
-bip_39_word_dash_9: armor-flavor-express-glare-skull-odor-mouse-cash-burden
-bip_39_word_new_br_1: armor
-bip_39_word_new_br_10: armor<br>flavor<br>express<br>glare<br>skull<br>odor<br>mouse<br>cash<br>burden<br>over
-bip_39_word_new_br_11: armor<br>flavor<br>express<br>glare<br>skull<br>odor<br>mouse<br>cash<br>burden<br>over<br>still
 bip_39_word_new_br_12: armor<br>flavor<br>express<br>glare<br>skull<br>odor<br>mouse<br>cash<br>burden<br>over<br>still<br>armed
 bip_39_word_new_br_2: armor<br>flavor
 bip_39_word_new_br_3: armor<br>flavor<br>express
-bip_39_word_new_br_4: armor<br>flavor<br>express<br>glare
-bip_39_word_new_br_5: armor<br>flavor<br>express<br>glare<br>skull
-bip_39_word_new_br_6: armor<br>flavor<br>express<br>glare<br>skull<br>odor
-bip_39_word_new_br_7: armor<br>flavor<br>express<br>glare<br>skull<br>odor<br>mouse
-bip_39_word_new_br_8: armor<br>flavor<br>express<br>glare<br>skull<br>odor<br>mouse<br>cash
-bip_39_word_new_br_9: armor<br>flavor<br>express<br>glare<br>skull<br>odor<br>mouse<br>cash<br>burden
-bip_39_word_new_line_1: armor
-bip_39_word_new_line_10: 'armor
-
-  flavor
-
-  express
-
-  glare
-
-  skull
-
-  odor
-
-  mouse
-
-  cash
-
-  burden
-
-  over'
-bip_39_word_new_line_11: 'armor
-
-  flavor
-
-  express
-
-  glare
-
-  skull
-
-  odor
-
-  mouse
-
-  cash
-
-  burden
-
-  over
-
-  still'
 bip_39_word_new_line_12: 'armor
 
   flavor
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'armor
   flavor
 
   express'
-bip_39_word_new_line_4: 'armor
-
-  flavor
-
-  express
-
-  glare'
-bip_39_word_new_line_5: 'armor
-
-  flavor
-
-  express
-
-  glare
-
-  skull'
-bip_39_word_new_line_6: 'armor
-
-  flavor
-
-  express
-
-  glare
-
-  skull
-
-  odor'
-bip_39_word_new_line_7: 'armor
-
-  flavor
-
-  express
-
-  glare
-
-  skull
-
-  odor
-
-  mouse'
-bip_39_word_new_line_8: 'armor
-
-  flavor
-
-  express
-
-  glare
-
-  skull
-
-  odor
-
-  mouse
-
-  cash'
-bip_39_word_new_line_9: 'armor
-
-  flavor
-
-  express
-
-  glare
-
-  skull
-
-  odor
-
-  mouse
-
-  cash
-
-  burden'
-bip_39_word_no_space_1: armor
-bip_39_word_no_space_10: armorflavorexpressglareskullodormousecashburdenover
-bip_39_word_no_space_11: armorflavorexpressglareskullodormousecashburdenoverstill
 bip_39_word_no_space_12: armorflavorexpressglareskullodormousecashburdenoverstillarmed
 bip_39_word_no_space_2: armorflavor
 bip_39_word_no_space_3: armorflavorexpress
-bip_39_word_no_space_4: armorflavorexpressglare
-bip_39_word_no_space_5: armorflavorexpressglareskull
-bip_39_word_no_space_6: armorflavorexpressglareskullodor
-bip_39_word_no_space_7: armorflavorexpressglareskullodormouse
-bip_39_word_no_space_8: armorflavorexpressglareskullodormousecash
-bip_39_word_no_space_9: armorflavorexpressglareskullodormousecashburden
-bip_39_word_space_0:
-- armor
-- flavor
-- express
-- glare
-- skull
-- odor
-- mouse
-- cash
-- burden
-- over
-- still
-- armed
-bip_39_word_space_1: armor
-bip_39_word_space_10: armor flavor express glare skull odor mouse cash burden over
-bip_39_word_space_11: armor flavor express glare skull odor mouse cash burden over
-  still
 bip_39_word_space_12: armor flavor express glare skull odor mouse cash burden over
   still armed
 bip_39_word_space_2: armor flavor
 bip_39_word_space_3: armor flavor express
-bip_39_word_space_4: armor flavor express glare
-bip_39_word_space_5: armor flavor express glare skull
-bip_39_word_space_6: armor flavor express glare skull odor
-bip_39_word_space_7: armor flavor express glare skull odor mouse
-bip_39_word_space_8: armor flavor express glare skull odor mouse cash
-bip_39_word_space_9: armor flavor express glare skull odor mouse cash burden
-bip_39_word_underscore_1: armor
-bip_39_word_underscore_10: armor_flavor_express_glare_skull_odor_mouse_cash_burden_over
-bip_39_word_underscore_11: armor_flavor_express_glare_skull_odor_mouse_cash_burden_over_still
 bip_39_word_underscore_12: armor_flavor_express_glare_skull_odor_mouse_cash_burden_over_still_armed
 bip_39_word_underscore_2: armor_flavor
 bip_39_word_underscore_3: armor_flavor_express
-bip_39_word_underscore_4: armor_flavor_express_glare
-bip_39_word_underscore_5: armor_flavor_express_glare_skull
-bip_39_word_underscore_6: armor_flavor_express_glare_skull_odor
-bip_39_word_underscore_7: armor_flavor_express_glare_skull_odor_mouse
-bip_39_word_underscore_8: armor_flavor_express_glare_skull_odor_mouse_cash
-bip_39_word_underscore_9: armor_flavor_express_glare_skull_odor_mouse_cash_burden
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

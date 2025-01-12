@@ -1,68 +1,9 @@
-bip_39_word_dash_1: sphere
-bip_39_word_dash_10: sphere-swamp-modify-honey-town-normal-rabbit-jazz-innocent-lobster
-bip_39_word_dash_11: sphere-swamp-modify-honey-town-normal-rabbit-jazz-innocent-lobster-empty
 bip_39_word_dash_12: sphere-swamp-modify-honey-town-normal-rabbit-jazz-innocent-lobster-empty-arrest
 bip_39_word_dash_2: sphere-swamp
 bip_39_word_dash_3: sphere-swamp-modify
-bip_39_word_dash_4: sphere-swamp-modify-honey
-bip_39_word_dash_5: sphere-swamp-modify-honey-town
-bip_39_word_dash_6: sphere-swamp-modify-honey-town-normal
-bip_39_word_dash_7: sphere-swamp-modify-honey-town-normal-rabbit
-bip_39_word_dash_8: sphere-swamp-modify-honey-town-normal-rabbit-jazz
-bip_39_word_dash_9: sphere-swamp-modify-honey-town-normal-rabbit-jazz-innocent
-bip_39_word_new_br_1: sphere
-bip_39_word_new_br_10: sphere<br>swamp<br>modify<br>honey<br>town<br>normal<br>rabbit<br>jazz<br>innocent<br>lobster
-bip_39_word_new_br_11: sphere<br>swamp<br>modify<br>honey<br>town<br>normal<br>rabbit<br>jazz<br>innocent<br>lobster<br>empty
 bip_39_word_new_br_12: sphere<br>swamp<br>modify<br>honey<br>town<br>normal<br>rabbit<br>jazz<br>innocent<br>lobster<br>empty<br>arrest
 bip_39_word_new_br_2: sphere<br>swamp
 bip_39_word_new_br_3: sphere<br>swamp<br>modify
-bip_39_word_new_br_4: sphere<br>swamp<br>modify<br>honey
-bip_39_word_new_br_5: sphere<br>swamp<br>modify<br>honey<br>town
-bip_39_word_new_br_6: sphere<br>swamp<br>modify<br>honey<br>town<br>normal
-bip_39_word_new_br_7: sphere<br>swamp<br>modify<br>honey<br>town<br>normal<br>rabbit
-bip_39_word_new_br_8: sphere<br>swamp<br>modify<br>honey<br>town<br>normal<br>rabbit<br>jazz
-bip_39_word_new_br_9: sphere<br>swamp<br>modify<br>honey<br>town<br>normal<br>rabbit<br>jazz<br>innocent
-bip_39_word_new_line_1: sphere
-bip_39_word_new_line_10: 'sphere
-
-  swamp
-
-  modify
-
-  honey
-
-  town
-
-  normal
-
-  rabbit
-
-  jazz
-
-  innocent
-
-  lobster'
-bip_39_word_new_line_11: 'sphere
-
-  swamp
-
-  modify
-
-  honey
-
-  town
-
-  normal
-
-  rabbit
-
-  jazz
-
-  innocent
-
-  lobster
-
-  empty'
 bip_39_word_new_line_12: 'sphere
 
   swamp
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'sphere
   swamp
 
   modify'
-bip_39_word_new_line_4: 'sphere
-
-  swamp
-
-  modify
-
-  honey'
-bip_39_word_new_line_5: 'sphere
-
-  swamp
-
-  modify
-
-  honey
-
-  town'
-bip_39_word_new_line_6: 'sphere
-
-  swamp
-
-  modify
-
-  honey
-
-  town
-
-  normal'
-bip_39_word_new_line_7: 'sphere
-
-  swamp
-
-  modify
-
-  honey
-
-  town
-
-  normal
-
-  rabbit'
-bip_39_word_new_line_8: 'sphere
-
-  swamp
-
-  modify
-
-  honey
-
-  town
-
-  normal
-
-  rabbit
-
-  jazz'
-bip_39_word_new_line_9: 'sphere
-
-  swamp
-
-  modify
-
-  honey
-
-  town
-
-  normal
-
-  rabbit
-
-  jazz
-
-  innocent'
-bip_39_word_no_space_1: sphere
-bip_39_word_no_space_10: sphereswampmodifyhoneytownnormalrabbitjazzinnocentlobster
-bip_39_word_no_space_11: sphereswampmodifyhoneytownnormalrabbitjazzinnocentlobsterempty
 bip_39_word_no_space_12: sphereswampmodifyhoneytownnormalrabbitjazzinnocentlobsteremptyarrest
 bip_39_word_no_space_2: sphereswamp
 bip_39_word_no_space_3: sphereswampmodify
-bip_39_word_no_space_4: sphereswampmodifyhoney
-bip_39_word_no_space_5: sphereswampmodifyhoneytown
-bip_39_word_no_space_6: sphereswampmodifyhoneytownnormal
-bip_39_word_no_space_7: sphereswampmodifyhoneytownnormalrabbit
-bip_39_word_no_space_8: sphereswampmodifyhoneytownnormalrabbitjazz
-bip_39_word_no_space_9: sphereswampmodifyhoneytownnormalrabbitjazzinnocent
-bip_39_word_space_0:
-- sphere
-- swamp
-- modify
-- honey
-- town
-- normal
-- rabbit
-- jazz
-- innocent
-- lobster
-- empty
-- arrest
-bip_39_word_space_1: sphere
-bip_39_word_space_10: sphere swamp modify honey town normal rabbit jazz innocent lobster
-bip_39_word_space_11: sphere swamp modify honey town normal rabbit jazz innocent lobster
-  empty
 bip_39_word_space_12: sphere swamp modify honey town normal rabbit jazz innocent lobster
   empty arrest
 bip_39_word_space_2: sphere swamp
 bip_39_word_space_3: sphere swamp modify
-bip_39_word_space_4: sphere swamp modify honey
-bip_39_word_space_5: sphere swamp modify honey town
-bip_39_word_space_6: sphere swamp modify honey town normal
-bip_39_word_space_7: sphere swamp modify honey town normal rabbit
-bip_39_word_space_8: sphere swamp modify honey town normal rabbit jazz
-bip_39_word_space_9: sphere swamp modify honey town normal rabbit jazz innocent
-bip_39_word_underscore_1: sphere
-bip_39_word_underscore_10: sphere_swamp_modify_honey_town_normal_rabbit_jazz_innocent_lobster
-bip_39_word_underscore_11: sphere_swamp_modify_honey_town_normal_rabbit_jazz_innocent_lobster_empty
 bip_39_word_underscore_12: sphere_swamp_modify_honey_town_normal_rabbit_jazz_innocent_lobster_empty_arrest
 bip_39_word_underscore_2: sphere_swamp
 bip_39_word_underscore_3: sphere_swamp_modify
-bip_39_word_underscore_4: sphere_swamp_modify_honey
-bip_39_word_underscore_5: sphere_swamp_modify_honey_town
-bip_39_word_underscore_6: sphere_swamp_modify_honey_town_normal
-bip_39_word_underscore_7: sphere_swamp_modify_honey_town_normal_rabbit
-bip_39_word_underscore_8: sphere_swamp_modify_honey_town_normal_rabbit_jazz
-bip_39_word_underscore_9: sphere_swamp_modify_honey_town_normal_rabbit_jazz_innocent
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

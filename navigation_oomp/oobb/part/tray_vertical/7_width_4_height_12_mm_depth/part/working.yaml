@@ -1,68 +1,9 @@
-bip_39_word_dash_1: double
-bip_39_word_dash_10: double-need-palm-talk-rocket-sphere-blanket-era-field-clump
-bip_39_word_dash_11: double-need-palm-talk-rocket-sphere-blanket-era-field-clump-popular
 bip_39_word_dash_12: double-need-palm-talk-rocket-sphere-blanket-era-field-clump-popular-addict
 bip_39_word_dash_2: double-need
 bip_39_word_dash_3: double-need-palm
-bip_39_word_dash_4: double-need-palm-talk
-bip_39_word_dash_5: double-need-palm-talk-rocket
-bip_39_word_dash_6: double-need-palm-talk-rocket-sphere
-bip_39_word_dash_7: double-need-palm-talk-rocket-sphere-blanket
-bip_39_word_dash_8: double-need-palm-talk-rocket-sphere-blanket-era
-bip_39_word_dash_9: double-need-palm-talk-rocket-sphere-blanket-era-field
-bip_39_word_new_br_1: double
-bip_39_word_new_br_10: double<br>need<br>palm<br>talk<br>rocket<br>sphere<br>blanket<br>era<br>field<br>clump
-bip_39_word_new_br_11: double<br>need<br>palm<br>talk<br>rocket<br>sphere<br>blanket<br>era<br>field<br>clump<br>popular
 bip_39_word_new_br_12: double<br>need<br>palm<br>talk<br>rocket<br>sphere<br>blanket<br>era<br>field<br>clump<br>popular<br>addict
 bip_39_word_new_br_2: double<br>need
 bip_39_word_new_br_3: double<br>need<br>palm
-bip_39_word_new_br_4: double<br>need<br>palm<br>talk
-bip_39_word_new_br_5: double<br>need<br>palm<br>talk<br>rocket
-bip_39_word_new_br_6: double<br>need<br>palm<br>talk<br>rocket<br>sphere
-bip_39_word_new_br_7: double<br>need<br>palm<br>talk<br>rocket<br>sphere<br>blanket
-bip_39_word_new_br_8: double<br>need<br>palm<br>talk<br>rocket<br>sphere<br>blanket<br>era
-bip_39_word_new_br_9: double<br>need<br>palm<br>talk<br>rocket<br>sphere<br>blanket<br>era<br>field
-bip_39_word_new_line_1: double
-bip_39_word_new_line_10: 'double
-
-  need
-
-  palm
-
-  talk
-
-  rocket
-
-  sphere
-
-  blanket
-
-  era
-
-  field
-
-  clump'
-bip_39_word_new_line_11: 'double
-
-  need
-
-  palm
-
-  talk
-
-  rocket
-
-  sphere
-
-  blanket
-
-  era
-
-  field
-
-  clump
-
-  popular'
 bip_39_word_new_line_12: 'double
 
   need
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'double
   need
 
   palm'
-bip_39_word_new_line_4: 'double
-
-  need
-
-  palm
-
-  talk'
-bip_39_word_new_line_5: 'double
-
-  need
-
-  palm
-
-  talk
-
-  rocket'
-bip_39_word_new_line_6: 'double
-
-  need
-
-  palm
-
-  talk
-
-  rocket
-
-  sphere'
-bip_39_word_new_line_7: 'double
-
-  need
-
-  palm
-
-  talk
-
-  rocket
-
-  sphere
-
-  blanket'
-bip_39_word_new_line_8: 'double
-
-  need
-
-  palm
-
-  talk
-
-  rocket
-
-  sphere
-
-  blanket
-
-  era'
-bip_39_word_new_line_9: 'double
-
-  need
-
-  palm
-
-  talk
-
-  rocket
-
-  sphere
-
-  blanket
-
-  era
-
-  field'
-bip_39_word_no_space_1: double
-bip_39_word_no_space_10: doubleneedpalmtalkrocketsphereblanketerafieldclump
-bip_39_word_no_space_11: doubleneedpalmtalkrocketsphereblanketerafieldclumppopular
 bip_39_word_no_space_12: doubleneedpalmtalkrocketsphereblanketerafieldclumppopularaddict
 bip_39_word_no_space_2: doubleneed
 bip_39_word_no_space_3: doubleneedpalm
-bip_39_word_no_space_4: doubleneedpalmtalk
-bip_39_word_no_space_5: doubleneedpalmtalkrocket
-bip_39_word_no_space_6: doubleneedpalmtalkrocketsphere
-bip_39_word_no_space_7: doubleneedpalmtalkrocketsphereblanket
-bip_39_word_no_space_8: doubleneedpalmtalkrocketsphereblanketera
-bip_39_word_no_space_9: doubleneedpalmtalkrocketsphereblanketerafield
-bip_39_word_space_0:
-- double
-- need
-- palm
-- talk
-- rocket
-- sphere
-- blanket
-- era
-- field
-- clump
-- popular
-- addict
-bip_39_word_space_1: double
-bip_39_word_space_10: double need palm talk rocket sphere blanket era field clump
-bip_39_word_space_11: double need palm talk rocket sphere blanket era field clump
-  popular
 bip_39_word_space_12: double need palm talk rocket sphere blanket era field clump
   popular addict
 bip_39_word_space_2: double need
 bip_39_word_space_3: double need palm
-bip_39_word_space_4: double need palm talk
-bip_39_word_space_5: double need palm talk rocket
-bip_39_word_space_6: double need palm talk rocket sphere
-bip_39_word_space_7: double need palm talk rocket sphere blanket
-bip_39_word_space_8: double need palm talk rocket sphere blanket era
-bip_39_word_space_9: double need palm talk rocket sphere blanket era field
-bip_39_word_underscore_1: double
-bip_39_word_underscore_10: double_need_palm_talk_rocket_sphere_blanket_era_field_clump
-bip_39_word_underscore_11: double_need_palm_talk_rocket_sphere_blanket_era_field_clump_popular
 bip_39_word_underscore_12: double_need_palm_talk_rocket_sphere_blanket_era_field_clump_popular_addict
 bip_39_word_underscore_2: double_need
 bip_39_word_underscore_3: double_need_palm
-bip_39_word_underscore_4: double_need_palm_talk
-bip_39_word_underscore_5: double_need_palm_talk_rocket
-bip_39_word_underscore_6: double_need_palm_talk_rocket_sphere
-bip_39_word_underscore_7: double_need_palm_talk_rocket_sphere_blanket
-bip_39_word_underscore_8: double_need_palm_talk_rocket_sphere_blanket_era
-bip_39_word_underscore_9: double_need_palm_talk_rocket_sphere_blanket_era_field
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

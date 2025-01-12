@@ -1,68 +1,9 @@
-bip_39_word_dash_1: call
-bip_39_word_dash_10: call-recall-drift-cabbage-boss-clarify-resource-stem-volume-chair
-bip_39_word_dash_11: call-recall-drift-cabbage-boss-clarify-resource-stem-volume-chair-spin
 bip_39_word_dash_12: call-recall-drift-cabbage-boss-clarify-resource-stem-volume-chair-spin-aim
 bip_39_word_dash_2: call-recall
 bip_39_word_dash_3: call-recall-drift
-bip_39_word_dash_4: call-recall-drift-cabbage
-bip_39_word_dash_5: call-recall-drift-cabbage-boss
-bip_39_word_dash_6: call-recall-drift-cabbage-boss-clarify
-bip_39_word_dash_7: call-recall-drift-cabbage-boss-clarify-resource
-bip_39_word_dash_8: call-recall-drift-cabbage-boss-clarify-resource-stem
-bip_39_word_dash_9: call-recall-drift-cabbage-boss-clarify-resource-stem-volume
-bip_39_word_new_br_1: call
-bip_39_word_new_br_10: call<br>recall<br>drift<br>cabbage<br>boss<br>clarify<br>resource<br>stem<br>volume<br>chair
-bip_39_word_new_br_11: call<br>recall<br>drift<br>cabbage<br>boss<br>clarify<br>resource<br>stem<br>volume<br>chair<br>spin
 bip_39_word_new_br_12: call<br>recall<br>drift<br>cabbage<br>boss<br>clarify<br>resource<br>stem<br>volume<br>chair<br>spin<br>aim
 bip_39_word_new_br_2: call<br>recall
 bip_39_word_new_br_3: call<br>recall<br>drift
-bip_39_word_new_br_4: call<br>recall<br>drift<br>cabbage
-bip_39_word_new_br_5: call<br>recall<br>drift<br>cabbage<br>boss
-bip_39_word_new_br_6: call<br>recall<br>drift<br>cabbage<br>boss<br>clarify
-bip_39_word_new_br_7: call<br>recall<br>drift<br>cabbage<br>boss<br>clarify<br>resource
-bip_39_word_new_br_8: call<br>recall<br>drift<br>cabbage<br>boss<br>clarify<br>resource<br>stem
-bip_39_word_new_br_9: call<br>recall<br>drift<br>cabbage<br>boss<br>clarify<br>resource<br>stem<br>volume
-bip_39_word_new_line_1: call
-bip_39_word_new_line_10: 'call
-
-  recall
-
-  drift
-
-  cabbage
-
-  boss
-
-  clarify
-
-  resource
-
-  stem
-
-  volume
-
-  chair'
-bip_39_word_new_line_11: 'call
-
-  recall
-
-  drift
-
-  cabbage
-
-  boss
-
-  clarify
-
-  resource
-
-  stem
-
-  volume
-
-  chair
-
-  spin'
 bip_39_word_new_line_12: 'call
 
   recall
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'call
   recall
 
   drift'
-bip_39_word_new_line_4: 'call
-
-  recall
-
-  drift
-
-  cabbage'
-bip_39_word_new_line_5: 'call
-
-  recall
-
-  drift
-
-  cabbage
-
-  boss'
-bip_39_word_new_line_6: 'call
-
-  recall
-
-  drift
-
-  cabbage
-
-  boss
-
-  clarify'
-bip_39_word_new_line_7: 'call
-
-  recall
-
-  drift
-
-  cabbage
-
-  boss
-
-  clarify
-
-  resource'
-bip_39_word_new_line_8: 'call
-
-  recall
-
-  drift
-
-  cabbage
-
-  boss
-
-  clarify
-
-  resource
-
-  stem'
-bip_39_word_new_line_9: 'call
-
-  recall
-
-  drift
-
-  cabbage
-
-  boss
-
-  clarify
-
-  resource
-
-  stem
-
-  volume'
-bip_39_word_no_space_1: call
-bip_39_word_no_space_10: callrecalldriftcabbagebossclarifyresourcestemvolumechair
-bip_39_word_no_space_11: callrecalldriftcabbagebossclarifyresourcestemvolumechairspin
 bip_39_word_no_space_12: callrecalldriftcabbagebossclarifyresourcestemvolumechairspinaim
 bip_39_word_no_space_2: callrecall
 bip_39_word_no_space_3: callrecalldrift
-bip_39_word_no_space_4: callrecalldriftcabbage
-bip_39_word_no_space_5: callrecalldriftcabbageboss
-bip_39_word_no_space_6: callrecalldriftcabbagebossclarify
-bip_39_word_no_space_7: callrecalldriftcabbagebossclarifyresource
-bip_39_word_no_space_8: callrecalldriftcabbagebossclarifyresourcestem
-bip_39_word_no_space_9: callrecalldriftcabbagebossclarifyresourcestemvolume
-bip_39_word_space_0:
-- call
-- recall
-- drift
-- cabbage
-- boss
-- clarify
-- resource
-- stem
-- volume
-- chair
-- spin
-- aim
-bip_39_word_space_1: call
-bip_39_word_space_10: call recall drift cabbage boss clarify resource stem volume
-  chair
-bip_39_word_space_11: call recall drift cabbage boss clarify resource stem volume
-  chair spin
 bip_39_word_space_12: call recall drift cabbage boss clarify resource stem volume
   chair spin aim
 bip_39_word_space_2: call recall
 bip_39_word_space_3: call recall drift
-bip_39_word_space_4: call recall drift cabbage
-bip_39_word_space_5: call recall drift cabbage boss
-bip_39_word_space_6: call recall drift cabbage boss clarify
-bip_39_word_space_7: call recall drift cabbage boss clarify resource
-bip_39_word_space_8: call recall drift cabbage boss clarify resource stem
-bip_39_word_space_9: call recall drift cabbage boss clarify resource stem volume
-bip_39_word_underscore_1: call
-bip_39_word_underscore_10: call_recall_drift_cabbage_boss_clarify_resource_stem_volume_chair
-bip_39_word_underscore_11: call_recall_drift_cabbage_boss_clarify_resource_stem_volume_chair_spin
 bip_39_word_underscore_12: call_recall_drift_cabbage_boss_clarify_resource_stem_volume_chair_spin_aim
 bip_39_word_underscore_2: call_recall
 bip_39_word_underscore_3: call_recall_drift
-bip_39_word_underscore_4: call_recall_drift_cabbage
-bip_39_word_underscore_5: call_recall_drift_cabbage_boss
-bip_39_word_underscore_6: call_recall_drift_cabbage_boss_clarify
-bip_39_word_underscore_7: call_recall_drift_cabbage_boss_clarify_resource
-bip_39_word_underscore_8: call_recall_drift_cabbage_boss_clarify_resource_stem
-bip_39_word_underscore_9: call_recall_drift_cabbage_boss_clarify_resource_stem_volume
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

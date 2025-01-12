@@ -1,68 +1,9 @@
-bip_39_word_dash_1: quantum
-bip_39_word_dash_10: quantum-chair-inherit-citizen-envelope-choose-nut-stadium-empty-supply
-bip_39_word_dash_11: quantum-chair-inherit-citizen-envelope-choose-nut-stadium-empty-supply-uncle
 bip_39_word_dash_12: quantum-chair-inherit-citizen-envelope-choose-nut-stadium-empty-supply-uncle-always
 bip_39_word_dash_2: quantum-chair
 bip_39_word_dash_3: quantum-chair-inherit
-bip_39_word_dash_4: quantum-chair-inherit-citizen
-bip_39_word_dash_5: quantum-chair-inherit-citizen-envelope
-bip_39_word_dash_6: quantum-chair-inherit-citizen-envelope-choose
-bip_39_word_dash_7: quantum-chair-inherit-citizen-envelope-choose-nut
-bip_39_word_dash_8: quantum-chair-inherit-citizen-envelope-choose-nut-stadium
-bip_39_word_dash_9: quantum-chair-inherit-citizen-envelope-choose-nut-stadium-empty
-bip_39_word_new_br_1: quantum
-bip_39_word_new_br_10: quantum<br>chair<br>inherit<br>citizen<br>envelope<br>choose<br>nut<br>stadium<br>empty<br>supply
-bip_39_word_new_br_11: quantum<br>chair<br>inherit<br>citizen<br>envelope<br>choose<br>nut<br>stadium<br>empty<br>supply<br>uncle
 bip_39_word_new_br_12: quantum<br>chair<br>inherit<br>citizen<br>envelope<br>choose<br>nut<br>stadium<br>empty<br>supply<br>uncle<br>always
 bip_39_word_new_br_2: quantum<br>chair
 bip_39_word_new_br_3: quantum<br>chair<br>inherit
-bip_39_word_new_br_4: quantum<br>chair<br>inherit<br>citizen
-bip_39_word_new_br_5: quantum<br>chair<br>inherit<br>citizen<br>envelope
-bip_39_word_new_br_6: quantum<br>chair<br>inherit<br>citizen<br>envelope<br>choose
-bip_39_word_new_br_7: quantum<br>chair<br>inherit<br>citizen<br>envelope<br>choose<br>nut
-bip_39_word_new_br_8: quantum<br>chair<br>inherit<br>citizen<br>envelope<br>choose<br>nut<br>stadium
-bip_39_word_new_br_9: quantum<br>chair<br>inherit<br>citizen<br>envelope<br>choose<br>nut<br>stadium<br>empty
-bip_39_word_new_line_1: quantum
-bip_39_word_new_line_10: 'quantum
-
-  chair
-
-  inherit
-
-  citizen
-
-  envelope
-
-  choose
-
-  nut
-
-  stadium
-
-  empty
-
-  supply'
-bip_39_word_new_line_11: 'quantum
-
-  chair
-
-  inherit
-
-  citizen
-
-  envelope
-
-  choose
-
-  nut
-
-  stadium
-
-  empty
-
-  supply
-
-  uncle'
 bip_39_word_new_line_12: 'quantum
 
   chair
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'quantum
   chair
 
   inherit'
-bip_39_word_new_line_4: 'quantum
-
-  chair
-
-  inherit
-
-  citizen'
-bip_39_word_new_line_5: 'quantum
-
-  chair
-
-  inherit
-
-  citizen
-
-  envelope'
-bip_39_word_new_line_6: 'quantum
-
-  chair
-
-  inherit
-
-  citizen
-
-  envelope
-
-  choose'
-bip_39_word_new_line_7: 'quantum
-
-  chair
-
-  inherit
-
-  citizen
-
-  envelope
-
-  choose
-
-  nut'
-bip_39_word_new_line_8: 'quantum
-
-  chair
-
-  inherit
-
-  citizen
-
-  envelope
-
-  choose
-
-  nut
-
-  stadium'
-bip_39_word_new_line_9: 'quantum
-
-  chair
-
-  inherit
-
-  citizen
-
-  envelope
-
-  choose
-
-  nut
-
-  stadium
-
-  empty'
-bip_39_word_no_space_1: quantum
-bip_39_word_no_space_10: quantumchairinheritcitizenenvelopechoosenutstadiumemptysupply
-bip_39_word_no_space_11: quantumchairinheritcitizenenvelopechoosenutstadiumemptysupplyuncle
 bip_39_word_no_space_12: quantumchairinheritcitizenenvelopechoosenutstadiumemptysupplyunclealways
 bip_39_word_no_space_2: quantumchair
 bip_39_word_no_space_3: quantumchairinherit
-bip_39_word_no_space_4: quantumchairinheritcitizen
-bip_39_word_no_space_5: quantumchairinheritcitizenenvelope
-bip_39_word_no_space_6: quantumchairinheritcitizenenvelopechoose
-bip_39_word_no_space_7: quantumchairinheritcitizenenvelopechoosenut
-bip_39_word_no_space_8: quantumchairinheritcitizenenvelopechoosenutstadium
-bip_39_word_no_space_9: quantumchairinheritcitizenenvelopechoosenutstadiumempty
-bip_39_word_space_0:
-- quantum
-- chair
-- inherit
-- citizen
-- envelope
-- choose
-- nut
-- stadium
-- empty
-- supply
-- uncle
-- always
-bip_39_word_space_1: quantum
-bip_39_word_space_10: quantum chair inherit citizen envelope choose nut stadium empty
-  supply
-bip_39_word_space_11: quantum chair inherit citizen envelope choose nut stadium empty
-  supply uncle
 bip_39_word_space_12: quantum chair inherit citizen envelope choose nut stadium empty
   supply uncle always
 bip_39_word_space_2: quantum chair
 bip_39_word_space_3: quantum chair inherit
-bip_39_word_space_4: quantum chair inherit citizen
-bip_39_word_space_5: quantum chair inherit citizen envelope
-bip_39_word_space_6: quantum chair inherit citizen envelope choose
-bip_39_word_space_7: quantum chair inherit citizen envelope choose nut
-bip_39_word_space_8: quantum chair inherit citizen envelope choose nut stadium
-bip_39_word_space_9: quantum chair inherit citizen envelope choose nut stadium empty
-bip_39_word_underscore_1: quantum
-bip_39_word_underscore_10: quantum_chair_inherit_citizen_envelope_choose_nut_stadium_empty_supply
-bip_39_word_underscore_11: quantum_chair_inherit_citizen_envelope_choose_nut_stadium_empty_supply_uncle
 bip_39_word_underscore_12: quantum_chair_inherit_citizen_envelope_choose_nut_stadium_empty_supply_uncle_always
 bip_39_word_underscore_2: quantum_chair
 bip_39_word_underscore_3: quantum_chair_inherit
-bip_39_word_underscore_4: quantum_chair_inherit_citizen
-bip_39_word_underscore_5: quantum_chair_inherit_citizen_envelope
-bip_39_word_underscore_6: quantum_chair_inherit_citizen_envelope_choose
-bip_39_word_underscore_7: quantum_chair_inherit_citizen_envelope_choose_nut
-bip_39_word_underscore_8: quantum_chair_inherit_citizen_envelope_choose_nut_stadium
-bip_39_word_underscore_9: quantum_chair_inherit_citizen_envelope_choose_nut_stadium_empty
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

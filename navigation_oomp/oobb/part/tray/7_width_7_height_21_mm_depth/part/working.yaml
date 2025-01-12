@@ -1,68 +1,9 @@
-bip_39_word_dash_1: crush
-bip_39_word_dash_10: crush-blast-mass-judge-cross-smart-noble-bacon-bus-expect
-bip_39_word_dash_11: crush-blast-mass-judge-cross-smart-noble-bacon-bus-expect-error
 bip_39_word_dash_12: crush-blast-mass-judge-cross-smart-noble-bacon-bus-expect-error-august
 bip_39_word_dash_2: crush-blast
 bip_39_word_dash_3: crush-blast-mass
-bip_39_word_dash_4: crush-blast-mass-judge
-bip_39_word_dash_5: crush-blast-mass-judge-cross
-bip_39_word_dash_6: crush-blast-mass-judge-cross-smart
-bip_39_word_dash_7: crush-blast-mass-judge-cross-smart-noble
-bip_39_word_dash_8: crush-blast-mass-judge-cross-smart-noble-bacon
-bip_39_word_dash_9: crush-blast-mass-judge-cross-smart-noble-bacon-bus
-bip_39_word_new_br_1: crush
-bip_39_word_new_br_10: crush<br>blast<br>mass<br>judge<br>cross<br>smart<br>noble<br>bacon<br>bus<br>expect
-bip_39_word_new_br_11: crush<br>blast<br>mass<br>judge<br>cross<br>smart<br>noble<br>bacon<br>bus<br>expect<br>error
 bip_39_word_new_br_12: crush<br>blast<br>mass<br>judge<br>cross<br>smart<br>noble<br>bacon<br>bus<br>expect<br>error<br>august
 bip_39_word_new_br_2: crush<br>blast
 bip_39_word_new_br_3: crush<br>blast<br>mass
-bip_39_word_new_br_4: crush<br>blast<br>mass<br>judge
-bip_39_word_new_br_5: crush<br>blast<br>mass<br>judge<br>cross
-bip_39_word_new_br_6: crush<br>blast<br>mass<br>judge<br>cross<br>smart
-bip_39_word_new_br_7: crush<br>blast<br>mass<br>judge<br>cross<br>smart<br>noble
-bip_39_word_new_br_8: crush<br>blast<br>mass<br>judge<br>cross<br>smart<br>noble<br>bacon
-bip_39_word_new_br_9: crush<br>blast<br>mass<br>judge<br>cross<br>smart<br>noble<br>bacon<br>bus
-bip_39_word_new_line_1: crush
-bip_39_word_new_line_10: 'crush
-
-  blast
-
-  mass
-
-  judge
-
-  cross
-
-  smart
-
-  noble
-
-  bacon
-
-  bus
-
-  expect'
-bip_39_word_new_line_11: 'crush
-
-  blast
-
-  mass
-
-  judge
-
-  cross
-
-  smart
-
-  noble
-
-  bacon
-
-  bus
-
-  expect
-
-  error'
 bip_39_word_new_line_12: 'crush
 
   blast
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'crush
   blast
 
   mass'
-bip_39_word_new_line_4: 'crush
-
-  blast
-
-  mass
-
-  judge'
-bip_39_word_new_line_5: 'crush
-
-  blast
-
-  mass
-
-  judge
-
-  cross'
-bip_39_word_new_line_6: 'crush
-
-  blast
-
-  mass
-
-  judge
-
-  cross
-
-  smart'
-bip_39_word_new_line_7: 'crush
-
-  blast
-
-  mass
-
-  judge
-
-  cross
-
-  smart
-
-  noble'
-bip_39_word_new_line_8: 'crush
-
-  blast
-
-  mass
-
-  judge
-
-  cross
-
-  smart
-
-  noble
-
-  bacon'
-bip_39_word_new_line_9: 'crush
-
-  blast
-
-  mass
-
-  judge
-
-  cross
-
-  smart
-
-  noble
-
-  bacon
-
-  bus'
-bip_39_word_no_space_1: crush
-bip_39_word_no_space_10: crushblastmassjudgecrosssmartnoblebaconbusexpect
-bip_39_word_no_space_11: crushblastmassjudgecrosssmartnoblebaconbusexpecterror
 bip_39_word_no_space_12: crushblastmassjudgecrosssmartnoblebaconbusexpecterroraugust
 bip_39_word_no_space_2: crushblast
 bip_39_word_no_space_3: crushblastmass
-bip_39_word_no_space_4: crushblastmassjudge
-bip_39_word_no_space_5: crushblastmassjudgecross
-bip_39_word_no_space_6: crushblastmassjudgecrosssmart
-bip_39_word_no_space_7: crushblastmassjudgecrosssmartnoble
-bip_39_word_no_space_8: crushblastmassjudgecrosssmartnoblebacon
-bip_39_word_no_space_9: crushblastmassjudgecrosssmartnoblebaconbus
-bip_39_word_space_0:
-- crush
-- blast
-- mass
-- judge
-- cross
-- smart
-- noble
-- bacon
-- bus
-- expect
-- error
-- august
-bip_39_word_space_1: crush
-bip_39_word_space_10: crush blast mass judge cross smart noble bacon bus expect
-bip_39_word_space_11: crush blast mass judge cross smart noble bacon bus expect error
 bip_39_word_space_12: crush blast mass judge cross smart noble bacon bus expect error
   august
 bip_39_word_space_2: crush blast
 bip_39_word_space_3: crush blast mass
-bip_39_word_space_4: crush blast mass judge
-bip_39_word_space_5: crush blast mass judge cross
-bip_39_word_space_6: crush blast mass judge cross smart
-bip_39_word_space_7: crush blast mass judge cross smart noble
-bip_39_word_space_8: crush blast mass judge cross smart noble bacon
-bip_39_word_space_9: crush blast mass judge cross smart noble bacon bus
-bip_39_word_underscore_1: crush
-bip_39_word_underscore_10: crush_blast_mass_judge_cross_smart_noble_bacon_bus_expect
-bip_39_word_underscore_11: crush_blast_mass_judge_cross_smart_noble_bacon_bus_expect_error
 bip_39_word_underscore_12: crush_blast_mass_judge_cross_smart_noble_bacon_bus_expect_error_august
 bip_39_word_underscore_2: crush_blast
 bip_39_word_underscore_3: crush_blast_mass
-bip_39_word_underscore_4: crush_blast_mass_judge
-bip_39_word_underscore_5: crush_blast_mass_judge_cross
-bip_39_word_underscore_6: crush_blast_mass_judge_cross_smart
-bip_39_word_underscore_7: crush_blast_mass_judge_cross_smart_noble
-bip_39_word_underscore_8: crush_blast_mass_judge_cross_smart_noble_bacon
-bip_39_word_underscore_9: crush_blast_mass_judge_cross_smart_noble_bacon_bus
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: pact
-bip_39_word_dash_10: pact-basic-monkey-seek-win-indoor-library-victory-loyal-polar
-bip_39_word_dash_11: pact-basic-monkey-seek-win-indoor-library-victory-loyal-polar-connect
 bip_39_word_dash_12: pact-basic-monkey-seek-win-indoor-library-victory-loyal-polar-connect-angle
 bip_39_word_dash_2: pact-basic
 bip_39_word_dash_3: pact-basic-monkey
-bip_39_word_dash_4: pact-basic-monkey-seek
-bip_39_word_dash_5: pact-basic-monkey-seek-win
-bip_39_word_dash_6: pact-basic-monkey-seek-win-indoor
-bip_39_word_dash_7: pact-basic-monkey-seek-win-indoor-library
-bip_39_word_dash_8: pact-basic-monkey-seek-win-indoor-library-victory
-bip_39_word_dash_9: pact-basic-monkey-seek-win-indoor-library-victory-loyal
-bip_39_word_new_br_1: pact
-bip_39_word_new_br_10: pact<br>basic<br>monkey<br>seek<br>win<br>indoor<br>library<br>victory<br>loyal<br>polar
-bip_39_word_new_br_11: pact<br>basic<br>monkey<br>seek<br>win<br>indoor<br>library<br>victory<br>loyal<br>polar<br>connect
 bip_39_word_new_br_12: pact<br>basic<br>monkey<br>seek<br>win<br>indoor<br>library<br>victory<br>loyal<br>polar<br>connect<br>angle
 bip_39_word_new_br_2: pact<br>basic
 bip_39_word_new_br_3: pact<br>basic<br>monkey
-bip_39_word_new_br_4: pact<br>basic<br>monkey<br>seek
-bip_39_word_new_br_5: pact<br>basic<br>monkey<br>seek<br>win
-bip_39_word_new_br_6: pact<br>basic<br>monkey<br>seek<br>win<br>indoor
-bip_39_word_new_br_7: pact<br>basic<br>monkey<br>seek<br>win<br>indoor<br>library
-bip_39_word_new_br_8: pact<br>basic<br>monkey<br>seek<br>win<br>indoor<br>library<br>victory
-bip_39_word_new_br_9: pact<br>basic<br>monkey<br>seek<br>win<br>indoor<br>library<br>victory<br>loyal
-bip_39_word_new_line_1: pact
-bip_39_word_new_line_10: 'pact
-
-  basic
-
-  monkey
-
-  seek
-
-  win
-
-  indoor
-
-  library
-
-  victory
-
-  loyal
-
-  polar'
-bip_39_word_new_line_11: 'pact
-
-  basic
-
-  monkey
-
-  seek
-
-  win
-
-  indoor
-
-  library
-
-  victory
-
-  loyal
-
-  polar
-
-  connect'
 bip_39_word_new_line_12: 'pact
 
   basic
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'pact
   basic
 
   monkey'
-bip_39_word_new_line_4: 'pact
-
-  basic
-
-  monkey
-
-  seek'
-bip_39_word_new_line_5: 'pact
-
-  basic
-
-  monkey
-
-  seek
-
-  win'
-bip_39_word_new_line_6: 'pact
-
-  basic
-
-  monkey
-
-  seek
-
-  win
-
-  indoor'
-bip_39_word_new_line_7: 'pact
-
-  basic
-
-  monkey
-
-  seek
-
-  win
-
-  indoor
-
-  library'
-bip_39_word_new_line_8: 'pact
-
-  basic
-
-  monkey
-
-  seek
-
-  win
-
-  indoor
-
-  library
-
-  victory'
-bip_39_word_new_line_9: 'pact
-
-  basic
-
-  monkey
-
-  seek
-
-  win
-
-  indoor
-
-  library
-
-  victory
-
-  loyal'
-bip_39_word_no_space_1: pact
-bip_39_word_no_space_10: pactbasicmonkeyseekwinindoorlibraryvictoryloyalpolar
-bip_39_word_no_space_11: pactbasicmonkeyseekwinindoorlibraryvictoryloyalpolarconnect
 bip_39_word_no_space_12: pactbasicmonkeyseekwinindoorlibraryvictoryloyalpolarconnectangle
 bip_39_word_no_space_2: pactbasic
 bip_39_word_no_space_3: pactbasicmonkey
-bip_39_word_no_space_4: pactbasicmonkeyseek
-bip_39_word_no_space_5: pactbasicmonkeyseekwin
-bip_39_word_no_space_6: pactbasicmonkeyseekwinindoor
-bip_39_word_no_space_7: pactbasicmonkeyseekwinindoorlibrary
-bip_39_word_no_space_8: pactbasicmonkeyseekwinindoorlibraryvictory
-bip_39_word_no_space_9: pactbasicmonkeyseekwinindoorlibraryvictoryloyal
-bip_39_word_space_0:
-- pact
-- basic
-- monkey
-- seek
-- win
-- indoor
-- library
-- victory
-- loyal
-- polar
-- connect
-- angle
-bip_39_word_space_1: pact
-bip_39_word_space_10: pact basic monkey seek win indoor library victory loyal polar
-bip_39_word_space_11: pact basic monkey seek win indoor library victory loyal polar
-  connect
 bip_39_word_space_12: pact basic monkey seek win indoor library victory loyal polar
   connect angle
 bip_39_word_space_2: pact basic
 bip_39_word_space_3: pact basic monkey
-bip_39_word_space_4: pact basic monkey seek
-bip_39_word_space_5: pact basic monkey seek win
-bip_39_word_space_6: pact basic monkey seek win indoor
-bip_39_word_space_7: pact basic monkey seek win indoor library
-bip_39_word_space_8: pact basic monkey seek win indoor library victory
-bip_39_word_space_9: pact basic monkey seek win indoor library victory loyal
-bip_39_word_underscore_1: pact
-bip_39_word_underscore_10: pact_basic_monkey_seek_win_indoor_library_victory_loyal_polar
-bip_39_word_underscore_11: pact_basic_monkey_seek_win_indoor_library_victory_loyal_polar_connect
 bip_39_word_underscore_12: pact_basic_monkey_seek_win_indoor_library_victory_loyal_polar_connect_angle
 bip_39_word_underscore_2: pact_basic
 bip_39_word_underscore_3: pact_basic_monkey
-bip_39_word_underscore_4: pact_basic_monkey_seek
-bip_39_word_underscore_5: pact_basic_monkey_seek_win
-bip_39_word_underscore_6: pact_basic_monkey_seek_win_indoor
-bip_39_word_underscore_7: pact_basic_monkey_seek_win_indoor_library
-bip_39_word_underscore_8: pact_basic_monkey_seek_win_indoor_library_victory
-bip_39_word_underscore_9: pact_basic_monkey_seek_win_indoor_library_victory_loyal
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

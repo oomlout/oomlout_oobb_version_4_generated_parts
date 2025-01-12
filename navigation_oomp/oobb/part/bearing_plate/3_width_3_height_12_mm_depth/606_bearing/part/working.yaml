@@ -1,69 +1,10 @@
 bearing: '606'
-bip_39_word_dash_1: mixture
-bip_39_word_dash_10: mixture-ocean-globe-else-maximum-frozen-cash-physical-poverty-pencil
-bip_39_word_dash_11: mixture-ocean-globe-else-maximum-frozen-cash-physical-poverty-pencil-ordinary
 bip_39_word_dash_12: mixture-ocean-globe-else-maximum-frozen-cash-physical-poverty-pencil-ordinary-afford
 bip_39_word_dash_2: mixture-ocean
 bip_39_word_dash_3: mixture-ocean-globe
-bip_39_word_dash_4: mixture-ocean-globe-else
-bip_39_word_dash_5: mixture-ocean-globe-else-maximum
-bip_39_word_dash_6: mixture-ocean-globe-else-maximum-frozen
-bip_39_word_dash_7: mixture-ocean-globe-else-maximum-frozen-cash
-bip_39_word_dash_8: mixture-ocean-globe-else-maximum-frozen-cash-physical
-bip_39_word_dash_9: mixture-ocean-globe-else-maximum-frozen-cash-physical-poverty
-bip_39_word_new_br_1: mixture
-bip_39_word_new_br_10: mixture<br>ocean<br>globe<br>else<br>maximum<br>frozen<br>cash<br>physical<br>poverty<br>pencil
-bip_39_word_new_br_11: mixture<br>ocean<br>globe<br>else<br>maximum<br>frozen<br>cash<br>physical<br>poverty<br>pencil<br>ordinary
 bip_39_word_new_br_12: mixture<br>ocean<br>globe<br>else<br>maximum<br>frozen<br>cash<br>physical<br>poverty<br>pencil<br>ordinary<br>afford
 bip_39_word_new_br_2: mixture<br>ocean
 bip_39_word_new_br_3: mixture<br>ocean<br>globe
-bip_39_word_new_br_4: mixture<br>ocean<br>globe<br>else
-bip_39_word_new_br_5: mixture<br>ocean<br>globe<br>else<br>maximum
-bip_39_word_new_br_6: mixture<br>ocean<br>globe<br>else<br>maximum<br>frozen
-bip_39_word_new_br_7: mixture<br>ocean<br>globe<br>else<br>maximum<br>frozen<br>cash
-bip_39_word_new_br_8: mixture<br>ocean<br>globe<br>else<br>maximum<br>frozen<br>cash<br>physical
-bip_39_word_new_br_9: mixture<br>ocean<br>globe<br>else<br>maximum<br>frozen<br>cash<br>physical<br>poverty
-bip_39_word_new_line_1: mixture
-bip_39_word_new_line_10: 'mixture
-
-  ocean
-
-  globe
-
-  else
-
-  maximum
-
-  frozen
-
-  cash
-
-  physical
-
-  poverty
-
-  pencil'
-bip_39_word_new_line_11: 'mixture
-
-  ocean
-
-  globe
-
-  else
-
-  maximum
-
-  frozen
-
-  cash
-
-  physical
-
-  poverty
-
-  pencil
-
-  ordinary'
 bip_39_word_new_line_12: 'mixture
 
   ocean
@@ -95,130 +36,16 @@ bip_39_word_new_line_3: 'mixture
   ocean
 
   globe'
-bip_39_word_new_line_4: 'mixture
-
-  ocean
-
-  globe
-
-  else'
-bip_39_word_new_line_5: 'mixture
-
-  ocean
-
-  globe
-
-  else
-
-  maximum'
-bip_39_word_new_line_6: 'mixture
-
-  ocean
-
-  globe
-
-  else
-
-  maximum
-
-  frozen'
-bip_39_word_new_line_7: 'mixture
-
-  ocean
-
-  globe
-
-  else
-
-  maximum
-
-  frozen
-
-  cash'
-bip_39_word_new_line_8: 'mixture
-
-  ocean
-
-  globe
-
-  else
-
-  maximum
-
-  frozen
-
-  cash
-
-  physical'
-bip_39_word_new_line_9: 'mixture
-
-  ocean
-
-  globe
-
-  else
-
-  maximum
-
-  frozen
-
-  cash
-
-  physical
-
-  poverty'
-bip_39_word_no_space_1: mixture
-bip_39_word_no_space_10: mixtureoceanglobeelsemaximumfrozencashphysicalpovertypencil
-bip_39_word_no_space_11: mixtureoceanglobeelsemaximumfrozencashphysicalpovertypencilordinary
 bip_39_word_no_space_12: mixtureoceanglobeelsemaximumfrozencashphysicalpovertypencilordinaryafford
 bip_39_word_no_space_2: mixtureocean
 bip_39_word_no_space_3: mixtureoceanglobe
-bip_39_word_no_space_4: mixtureoceanglobeelse
-bip_39_word_no_space_5: mixtureoceanglobeelsemaximum
-bip_39_word_no_space_6: mixtureoceanglobeelsemaximumfrozen
-bip_39_word_no_space_7: mixtureoceanglobeelsemaximumfrozencash
-bip_39_word_no_space_8: mixtureoceanglobeelsemaximumfrozencashphysical
-bip_39_word_no_space_9: mixtureoceanglobeelsemaximumfrozencashphysicalpoverty
-bip_39_word_space_0:
-- mixture
-- ocean
-- globe
-- else
-- maximum
-- frozen
-- cash
-- physical
-- poverty
-- pencil
-- ordinary
-- afford
-bip_39_word_space_1: mixture
-bip_39_word_space_10: mixture ocean globe else maximum frozen cash physical poverty
-  pencil
-bip_39_word_space_11: mixture ocean globe else maximum frozen cash physical poverty
-  pencil ordinary
 bip_39_word_space_12: mixture ocean globe else maximum frozen cash physical poverty
   pencil ordinary afford
 bip_39_word_space_2: mixture ocean
 bip_39_word_space_3: mixture ocean globe
-bip_39_word_space_4: mixture ocean globe else
-bip_39_word_space_5: mixture ocean globe else maximum
-bip_39_word_space_6: mixture ocean globe else maximum frozen
-bip_39_word_space_7: mixture ocean globe else maximum frozen cash
-bip_39_word_space_8: mixture ocean globe else maximum frozen cash physical
-bip_39_word_space_9: mixture ocean globe else maximum frozen cash physical poverty
-bip_39_word_underscore_1: mixture
-bip_39_word_underscore_10: mixture_ocean_globe_else_maximum_frozen_cash_physical_poverty_pencil
-bip_39_word_underscore_11: mixture_ocean_globe_else_maximum_frozen_cash_physical_poverty_pencil_ordinary
 bip_39_word_underscore_12: mixture_ocean_globe_else_maximum_frozen_cash_physical_poverty_pencil_ordinary_afford
 bip_39_word_underscore_2: mixture_ocean
 bip_39_word_underscore_3: mixture_ocean_globe
-bip_39_word_underscore_4: mixture_ocean_globe_else
-bip_39_word_underscore_5: mixture_ocean_globe_else_maximum
-bip_39_word_underscore_6: mixture_ocean_globe_else_maximum_frozen
-bip_39_word_underscore_7: mixture_ocean_globe_else_maximum_frozen_cash
-bip_39_word_underscore_8: mixture_ocean_globe_else_maximum_frozen_cash_physical
-bip_39_word_underscore_9: mixture_ocean_globe_else_maximum_frozen_cash_physical_poverty
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

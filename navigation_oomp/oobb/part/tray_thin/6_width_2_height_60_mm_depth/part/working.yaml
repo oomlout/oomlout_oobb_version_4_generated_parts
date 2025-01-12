@@ -1,68 +1,9 @@
-bip_39_word_dash_1: target
-bip_39_word_dash_10: target-transfer-jump-slab-uncle-exile-supreme-analyst-ocean-man
-bip_39_word_dash_11: target-transfer-jump-slab-uncle-exile-supreme-analyst-ocean-man-soup
 bip_39_word_dash_12: target-transfer-jump-slab-uncle-exile-supreme-analyst-ocean-man-soup-assist
 bip_39_word_dash_2: target-transfer
 bip_39_word_dash_3: target-transfer-jump
-bip_39_word_dash_4: target-transfer-jump-slab
-bip_39_word_dash_5: target-transfer-jump-slab-uncle
-bip_39_word_dash_6: target-transfer-jump-slab-uncle-exile
-bip_39_word_dash_7: target-transfer-jump-slab-uncle-exile-supreme
-bip_39_word_dash_8: target-transfer-jump-slab-uncle-exile-supreme-analyst
-bip_39_word_dash_9: target-transfer-jump-slab-uncle-exile-supreme-analyst-ocean
-bip_39_word_new_br_1: target
-bip_39_word_new_br_10: target<br>transfer<br>jump<br>slab<br>uncle<br>exile<br>supreme<br>analyst<br>ocean<br>man
-bip_39_word_new_br_11: target<br>transfer<br>jump<br>slab<br>uncle<br>exile<br>supreme<br>analyst<br>ocean<br>man<br>soup
 bip_39_word_new_br_12: target<br>transfer<br>jump<br>slab<br>uncle<br>exile<br>supreme<br>analyst<br>ocean<br>man<br>soup<br>assist
 bip_39_word_new_br_2: target<br>transfer
 bip_39_word_new_br_3: target<br>transfer<br>jump
-bip_39_word_new_br_4: target<br>transfer<br>jump<br>slab
-bip_39_word_new_br_5: target<br>transfer<br>jump<br>slab<br>uncle
-bip_39_word_new_br_6: target<br>transfer<br>jump<br>slab<br>uncle<br>exile
-bip_39_word_new_br_7: target<br>transfer<br>jump<br>slab<br>uncle<br>exile<br>supreme
-bip_39_word_new_br_8: target<br>transfer<br>jump<br>slab<br>uncle<br>exile<br>supreme<br>analyst
-bip_39_word_new_br_9: target<br>transfer<br>jump<br>slab<br>uncle<br>exile<br>supreme<br>analyst<br>ocean
-bip_39_word_new_line_1: target
-bip_39_word_new_line_10: 'target
-
-  transfer
-
-  jump
-
-  slab
-
-  uncle
-
-  exile
-
-  supreme
-
-  analyst
-
-  ocean
-
-  man'
-bip_39_word_new_line_11: 'target
-
-  transfer
-
-  jump
-
-  slab
-
-  uncle
-
-  exile
-
-  supreme
-
-  analyst
-
-  ocean
-
-  man
-
-  soup'
 bip_39_word_new_line_12: 'target
 
   transfer
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'target
   transfer
 
   jump'
-bip_39_word_new_line_4: 'target
-
-  transfer
-
-  jump
-
-  slab'
-bip_39_word_new_line_5: 'target
-
-  transfer
-
-  jump
-
-  slab
-
-  uncle'
-bip_39_word_new_line_6: 'target
-
-  transfer
-
-  jump
-
-  slab
-
-  uncle
-
-  exile'
-bip_39_word_new_line_7: 'target
-
-  transfer
-
-  jump
-
-  slab
-
-  uncle
-
-  exile
-
-  supreme'
-bip_39_word_new_line_8: 'target
-
-  transfer
-
-  jump
-
-  slab
-
-  uncle
-
-  exile
-
-  supreme
-
-  analyst'
-bip_39_word_new_line_9: 'target
-
-  transfer
-
-  jump
-
-  slab
-
-  uncle
-
-  exile
-
-  supreme
-
-  analyst
-
-  ocean'
-bip_39_word_no_space_1: target
-bip_39_word_no_space_10: targettransferjumpslabuncleexilesupremeanalystoceanman
-bip_39_word_no_space_11: targettransferjumpslabuncleexilesupremeanalystoceanmansoup
 bip_39_word_no_space_12: targettransferjumpslabuncleexilesupremeanalystoceanmansoupassist
 bip_39_word_no_space_2: targettransfer
 bip_39_word_no_space_3: targettransferjump
-bip_39_word_no_space_4: targettransferjumpslab
-bip_39_word_no_space_5: targettransferjumpslabuncle
-bip_39_word_no_space_6: targettransferjumpslabuncleexile
-bip_39_word_no_space_7: targettransferjumpslabuncleexilesupreme
-bip_39_word_no_space_8: targettransferjumpslabuncleexilesupremeanalyst
-bip_39_word_no_space_9: targettransferjumpslabuncleexilesupremeanalystocean
-bip_39_word_space_0:
-- target
-- transfer
-- jump
-- slab
-- uncle
-- exile
-- supreme
-- analyst
-- ocean
-- man
-- soup
-- assist
-bip_39_word_space_1: target
-bip_39_word_space_10: target transfer jump slab uncle exile supreme analyst ocean
-  man
-bip_39_word_space_11: target transfer jump slab uncle exile supreme analyst ocean
-  man soup
 bip_39_word_space_12: target transfer jump slab uncle exile supreme analyst ocean
   man soup assist
 bip_39_word_space_2: target transfer
 bip_39_word_space_3: target transfer jump
-bip_39_word_space_4: target transfer jump slab
-bip_39_word_space_5: target transfer jump slab uncle
-bip_39_word_space_6: target transfer jump slab uncle exile
-bip_39_word_space_7: target transfer jump slab uncle exile supreme
-bip_39_word_space_8: target transfer jump slab uncle exile supreme analyst
-bip_39_word_space_9: target transfer jump slab uncle exile supreme analyst ocean
-bip_39_word_underscore_1: target
-bip_39_word_underscore_10: target_transfer_jump_slab_uncle_exile_supreme_analyst_ocean_man
-bip_39_word_underscore_11: target_transfer_jump_slab_uncle_exile_supreme_analyst_ocean_man_soup
 bip_39_word_underscore_12: target_transfer_jump_slab_uncle_exile_supreme_analyst_ocean_man_soup_assist
 bip_39_word_underscore_2: target_transfer
 bip_39_word_underscore_3: target_transfer_jump
-bip_39_word_underscore_4: target_transfer_jump_slab
-bip_39_word_underscore_5: target_transfer_jump_slab_uncle
-bip_39_word_underscore_6: target_transfer_jump_slab_uncle_exile
-bip_39_word_underscore_7: target_transfer_jump_slab_uncle_exile_supreme
-bip_39_word_underscore_8: target_transfer_jump_slab_uncle_exile_supreme_analyst
-bip_39_word_underscore_9: target_transfer_jump_slab_uncle_exile_supreme_analyst_ocean
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

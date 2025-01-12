@@ -1,68 +1,9 @@
-bip_39_word_dash_1: castle
-bip_39_word_dash_10: castle-evolve-since-junk-elevator-actual-hurry-delay-car-canyon
-bip_39_word_dash_11: castle-evolve-since-junk-elevator-actual-hurry-delay-car-canyon-solar
 bip_39_word_dash_12: castle-evolve-since-junk-elevator-actual-hurry-delay-car-canyon-solar-announce
 bip_39_word_dash_2: castle-evolve
 bip_39_word_dash_3: castle-evolve-since
-bip_39_word_dash_4: castle-evolve-since-junk
-bip_39_word_dash_5: castle-evolve-since-junk-elevator
-bip_39_word_dash_6: castle-evolve-since-junk-elevator-actual
-bip_39_word_dash_7: castle-evolve-since-junk-elevator-actual-hurry
-bip_39_word_dash_8: castle-evolve-since-junk-elevator-actual-hurry-delay
-bip_39_word_dash_9: castle-evolve-since-junk-elevator-actual-hurry-delay-car
-bip_39_word_new_br_1: castle
-bip_39_word_new_br_10: castle<br>evolve<br>since<br>junk<br>elevator<br>actual<br>hurry<br>delay<br>car<br>canyon
-bip_39_word_new_br_11: castle<br>evolve<br>since<br>junk<br>elevator<br>actual<br>hurry<br>delay<br>car<br>canyon<br>solar
 bip_39_word_new_br_12: castle<br>evolve<br>since<br>junk<br>elevator<br>actual<br>hurry<br>delay<br>car<br>canyon<br>solar<br>announce
 bip_39_word_new_br_2: castle<br>evolve
 bip_39_word_new_br_3: castle<br>evolve<br>since
-bip_39_word_new_br_4: castle<br>evolve<br>since<br>junk
-bip_39_word_new_br_5: castle<br>evolve<br>since<br>junk<br>elevator
-bip_39_word_new_br_6: castle<br>evolve<br>since<br>junk<br>elevator<br>actual
-bip_39_word_new_br_7: castle<br>evolve<br>since<br>junk<br>elevator<br>actual<br>hurry
-bip_39_word_new_br_8: castle<br>evolve<br>since<br>junk<br>elevator<br>actual<br>hurry<br>delay
-bip_39_word_new_br_9: castle<br>evolve<br>since<br>junk<br>elevator<br>actual<br>hurry<br>delay<br>car
-bip_39_word_new_line_1: castle
-bip_39_word_new_line_10: 'castle
-
-  evolve
-
-  since
-
-  junk
-
-  elevator
-
-  actual
-
-  hurry
-
-  delay
-
-  car
-
-  canyon'
-bip_39_word_new_line_11: 'castle
-
-  evolve
-
-  since
-
-  junk
-
-  elevator
-
-  actual
-
-  hurry
-
-  delay
-
-  car
-
-  canyon
-
-  solar'
 bip_39_word_new_line_12: 'castle
 
   evolve
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'castle
   evolve
 
   since'
-bip_39_word_new_line_4: 'castle
-
-  evolve
-
-  since
-
-  junk'
-bip_39_word_new_line_5: 'castle
-
-  evolve
-
-  since
-
-  junk
-
-  elevator'
-bip_39_word_new_line_6: 'castle
-
-  evolve
-
-  since
-
-  junk
-
-  elevator
-
-  actual'
-bip_39_word_new_line_7: 'castle
-
-  evolve
-
-  since
-
-  junk
-
-  elevator
-
-  actual
-
-  hurry'
-bip_39_word_new_line_8: 'castle
-
-  evolve
-
-  since
-
-  junk
-
-  elevator
-
-  actual
-
-  hurry
-
-  delay'
-bip_39_word_new_line_9: 'castle
-
-  evolve
-
-  since
-
-  junk
-
-  elevator
-
-  actual
-
-  hurry
-
-  delay
-
-  car'
-bip_39_word_no_space_1: castle
-bip_39_word_no_space_10: castleevolvesincejunkelevatoractualhurrydelaycarcanyon
-bip_39_word_no_space_11: castleevolvesincejunkelevatoractualhurrydelaycarcanyonsolar
 bip_39_word_no_space_12: castleevolvesincejunkelevatoractualhurrydelaycarcanyonsolarannounce
 bip_39_word_no_space_2: castleevolve
 bip_39_word_no_space_3: castleevolvesince
-bip_39_word_no_space_4: castleevolvesincejunk
-bip_39_word_no_space_5: castleevolvesincejunkelevator
-bip_39_word_no_space_6: castleevolvesincejunkelevatoractual
-bip_39_word_no_space_7: castleevolvesincejunkelevatoractualhurry
-bip_39_word_no_space_8: castleevolvesincejunkelevatoractualhurrydelay
-bip_39_word_no_space_9: castleevolvesincejunkelevatoractualhurrydelaycar
-bip_39_word_space_0:
-- castle
-- evolve
-- since
-- junk
-- elevator
-- actual
-- hurry
-- delay
-- car
-- canyon
-- solar
-- announce
-bip_39_word_space_1: castle
-bip_39_word_space_10: castle evolve since junk elevator actual hurry delay car canyon
-bip_39_word_space_11: castle evolve since junk elevator actual hurry delay car canyon
-  solar
 bip_39_word_space_12: castle evolve since junk elevator actual hurry delay car canyon
   solar announce
 bip_39_word_space_2: castle evolve
 bip_39_word_space_3: castle evolve since
-bip_39_word_space_4: castle evolve since junk
-bip_39_word_space_5: castle evolve since junk elevator
-bip_39_word_space_6: castle evolve since junk elevator actual
-bip_39_word_space_7: castle evolve since junk elevator actual hurry
-bip_39_word_space_8: castle evolve since junk elevator actual hurry delay
-bip_39_word_space_9: castle evolve since junk elevator actual hurry delay car
-bip_39_word_underscore_1: castle
-bip_39_word_underscore_10: castle_evolve_since_junk_elevator_actual_hurry_delay_car_canyon
-bip_39_word_underscore_11: castle_evolve_since_junk_elevator_actual_hurry_delay_car_canyon_solar
 bip_39_word_underscore_12: castle_evolve_since_junk_elevator_actual_hurry_delay_car_canyon_solar_announce
 bip_39_word_underscore_2: castle_evolve
 bip_39_word_underscore_3: castle_evolve_since
-bip_39_word_underscore_4: castle_evolve_since_junk
-bip_39_word_underscore_5: castle_evolve_since_junk_elevator
-bip_39_word_underscore_6: castle_evolve_since_junk_elevator_actual
-bip_39_word_underscore_7: castle_evolve_since_junk_elevator_actual_hurry
-bip_39_word_underscore_8: castle_evolve_since_junk_elevator_actual_hurry_delay
-bip_39_word_underscore_9: castle_evolve_since_junk_elevator_actual_hurry_delay_car
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

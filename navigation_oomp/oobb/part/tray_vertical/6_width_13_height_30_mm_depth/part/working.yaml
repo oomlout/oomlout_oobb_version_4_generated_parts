@@ -1,68 +1,9 @@
-bip_39_word_dash_1: sunset
-bip_39_word_dash_10: sunset-lunar-place-provide-blanket-sure-blue-bleak-swap-door
-bip_39_word_dash_11: sunset-lunar-place-provide-blanket-sure-blue-bleak-swap-door-depth
 bip_39_word_dash_12: sunset-lunar-place-provide-blanket-sure-blue-bleak-swap-door-depth-around
 bip_39_word_dash_2: sunset-lunar
 bip_39_word_dash_3: sunset-lunar-place
-bip_39_word_dash_4: sunset-lunar-place-provide
-bip_39_word_dash_5: sunset-lunar-place-provide-blanket
-bip_39_word_dash_6: sunset-lunar-place-provide-blanket-sure
-bip_39_word_dash_7: sunset-lunar-place-provide-blanket-sure-blue
-bip_39_word_dash_8: sunset-lunar-place-provide-blanket-sure-blue-bleak
-bip_39_word_dash_9: sunset-lunar-place-provide-blanket-sure-blue-bleak-swap
-bip_39_word_new_br_1: sunset
-bip_39_word_new_br_10: sunset<br>lunar<br>place<br>provide<br>blanket<br>sure<br>blue<br>bleak<br>swap<br>door
-bip_39_word_new_br_11: sunset<br>lunar<br>place<br>provide<br>blanket<br>sure<br>blue<br>bleak<br>swap<br>door<br>depth
 bip_39_word_new_br_12: sunset<br>lunar<br>place<br>provide<br>blanket<br>sure<br>blue<br>bleak<br>swap<br>door<br>depth<br>around
 bip_39_word_new_br_2: sunset<br>lunar
 bip_39_word_new_br_3: sunset<br>lunar<br>place
-bip_39_word_new_br_4: sunset<br>lunar<br>place<br>provide
-bip_39_word_new_br_5: sunset<br>lunar<br>place<br>provide<br>blanket
-bip_39_word_new_br_6: sunset<br>lunar<br>place<br>provide<br>blanket<br>sure
-bip_39_word_new_br_7: sunset<br>lunar<br>place<br>provide<br>blanket<br>sure<br>blue
-bip_39_word_new_br_8: sunset<br>lunar<br>place<br>provide<br>blanket<br>sure<br>blue<br>bleak
-bip_39_word_new_br_9: sunset<br>lunar<br>place<br>provide<br>blanket<br>sure<br>blue<br>bleak<br>swap
-bip_39_word_new_line_1: sunset
-bip_39_word_new_line_10: 'sunset
-
-  lunar
-
-  place
-
-  provide
-
-  blanket
-
-  sure
-
-  blue
-
-  bleak
-
-  swap
-
-  door'
-bip_39_word_new_line_11: 'sunset
-
-  lunar
-
-  place
-
-  provide
-
-  blanket
-
-  sure
-
-  blue
-
-  bleak
-
-  swap
-
-  door
-
-  depth'
 bip_39_word_new_line_12: 'sunset
 
   lunar
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'sunset
   lunar
 
   place'
-bip_39_word_new_line_4: 'sunset
-
-  lunar
-
-  place
-
-  provide'
-bip_39_word_new_line_5: 'sunset
-
-  lunar
-
-  place
-
-  provide
-
-  blanket'
-bip_39_word_new_line_6: 'sunset
-
-  lunar
-
-  place
-
-  provide
-
-  blanket
-
-  sure'
-bip_39_word_new_line_7: 'sunset
-
-  lunar
-
-  place
-
-  provide
-
-  blanket
-
-  sure
-
-  blue'
-bip_39_word_new_line_8: 'sunset
-
-  lunar
-
-  place
-
-  provide
-
-  blanket
-
-  sure
-
-  blue
-
-  bleak'
-bip_39_word_new_line_9: 'sunset
-
-  lunar
-
-  place
-
-  provide
-
-  blanket
-
-  sure
-
-  blue
-
-  bleak
-
-  swap'
-bip_39_word_no_space_1: sunset
-bip_39_word_no_space_10: sunsetlunarplaceprovideblanketsurebluebleakswapdoor
-bip_39_word_no_space_11: sunsetlunarplaceprovideblanketsurebluebleakswapdoordepth
 bip_39_word_no_space_12: sunsetlunarplaceprovideblanketsurebluebleakswapdoordeptharound
 bip_39_word_no_space_2: sunsetlunar
 bip_39_word_no_space_3: sunsetlunarplace
-bip_39_word_no_space_4: sunsetlunarplaceprovide
-bip_39_word_no_space_5: sunsetlunarplaceprovideblanket
-bip_39_word_no_space_6: sunsetlunarplaceprovideblanketsure
-bip_39_word_no_space_7: sunsetlunarplaceprovideblanketsureblue
-bip_39_word_no_space_8: sunsetlunarplaceprovideblanketsurebluebleak
-bip_39_word_no_space_9: sunsetlunarplaceprovideblanketsurebluebleakswap
-bip_39_word_space_0:
-- sunset
-- lunar
-- place
-- provide
-- blanket
-- sure
-- blue
-- bleak
-- swap
-- door
-- depth
-- around
-bip_39_word_space_1: sunset
-bip_39_word_space_10: sunset lunar place provide blanket sure blue bleak swap door
-bip_39_word_space_11: sunset lunar place provide blanket sure blue bleak swap door
-  depth
 bip_39_word_space_12: sunset lunar place provide blanket sure blue bleak swap door
   depth around
 bip_39_word_space_2: sunset lunar
 bip_39_word_space_3: sunset lunar place
-bip_39_word_space_4: sunset lunar place provide
-bip_39_word_space_5: sunset lunar place provide blanket
-bip_39_word_space_6: sunset lunar place provide blanket sure
-bip_39_word_space_7: sunset lunar place provide blanket sure blue
-bip_39_word_space_8: sunset lunar place provide blanket sure blue bleak
-bip_39_word_space_9: sunset lunar place provide blanket sure blue bleak swap
-bip_39_word_underscore_1: sunset
-bip_39_word_underscore_10: sunset_lunar_place_provide_blanket_sure_blue_bleak_swap_door
-bip_39_word_underscore_11: sunset_lunar_place_provide_blanket_sure_blue_bleak_swap_door_depth
 bip_39_word_underscore_12: sunset_lunar_place_provide_blanket_sure_blue_bleak_swap_door_depth_around
 bip_39_word_underscore_2: sunset_lunar
 bip_39_word_underscore_3: sunset_lunar_place
-bip_39_word_underscore_4: sunset_lunar_place_provide
-bip_39_word_underscore_5: sunset_lunar_place_provide_blanket
-bip_39_word_underscore_6: sunset_lunar_place_provide_blanket_sure
-bip_39_word_underscore_7: sunset_lunar_place_provide_blanket_sure_blue
-bip_39_word_underscore_8: sunset_lunar_place_provide_blanket_sure_blue_bleak
-bip_39_word_underscore_9: sunset_lunar_place_provide_blanket_sure_blue_bleak_swap
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

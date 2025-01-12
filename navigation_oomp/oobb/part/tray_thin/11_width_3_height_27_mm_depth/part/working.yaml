@@ -1,68 +1,9 @@
-bip_39_word_dash_1: arch
-bip_39_word_dash_10: arch-primary-journey-episode-chunk-knock-whip-monitor-crime-chimney
-bip_39_word_dash_11: arch-primary-journey-episode-chunk-knock-whip-monitor-crime-chimney-swamp
 bip_39_word_dash_12: arch-primary-journey-episode-chunk-knock-whip-monitor-crime-chimney-swamp-angle
 bip_39_word_dash_2: arch-primary
 bip_39_word_dash_3: arch-primary-journey
-bip_39_word_dash_4: arch-primary-journey-episode
-bip_39_word_dash_5: arch-primary-journey-episode-chunk
-bip_39_word_dash_6: arch-primary-journey-episode-chunk-knock
-bip_39_word_dash_7: arch-primary-journey-episode-chunk-knock-whip
-bip_39_word_dash_8: arch-primary-journey-episode-chunk-knock-whip-monitor
-bip_39_word_dash_9: arch-primary-journey-episode-chunk-knock-whip-monitor-crime
-bip_39_word_new_br_1: arch
-bip_39_word_new_br_10: arch<br>primary<br>journey<br>episode<br>chunk<br>knock<br>whip<br>monitor<br>crime<br>chimney
-bip_39_word_new_br_11: arch<br>primary<br>journey<br>episode<br>chunk<br>knock<br>whip<br>monitor<br>crime<br>chimney<br>swamp
 bip_39_word_new_br_12: arch<br>primary<br>journey<br>episode<br>chunk<br>knock<br>whip<br>monitor<br>crime<br>chimney<br>swamp<br>angle
 bip_39_word_new_br_2: arch<br>primary
 bip_39_word_new_br_3: arch<br>primary<br>journey
-bip_39_word_new_br_4: arch<br>primary<br>journey<br>episode
-bip_39_word_new_br_5: arch<br>primary<br>journey<br>episode<br>chunk
-bip_39_word_new_br_6: arch<br>primary<br>journey<br>episode<br>chunk<br>knock
-bip_39_word_new_br_7: arch<br>primary<br>journey<br>episode<br>chunk<br>knock<br>whip
-bip_39_word_new_br_8: arch<br>primary<br>journey<br>episode<br>chunk<br>knock<br>whip<br>monitor
-bip_39_word_new_br_9: arch<br>primary<br>journey<br>episode<br>chunk<br>knock<br>whip<br>monitor<br>crime
-bip_39_word_new_line_1: arch
-bip_39_word_new_line_10: 'arch
-
-  primary
-
-  journey
-
-  episode
-
-  chunk
-
-  knock
-
-  whip
-
-  monitor
-
-  crime
-
-  chimney'
-bip_39_word_new_line_11: 'arch
-
-  primary
-
-  journey
-
-  episode
-
-  chunk
-
-  knock
-
-  whip
-
-  monitor
-
-  crime
-
-  chimney
-
-  swamp'
 bip_39_word_new_line_12: 'arch
 
   primary
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'arch
   primary
 
   journey'
-bip_39_word_new_line_4: 'arch
-
-  primary
-
-  journey
-
-  episode'
-bip_39_word_new_line_5: 'arch
-
-  primary
-
-  journey
-
-  episode
-
-  chunk'
-bip_39_word_new_line_6: 'arch
-
-  primary
-
-  journey
-
-  episode
-
-  chunk
-
-  knock'
-bip_39_word_new_line_7: 'arch
-
-  primary
-
-  journey
-
-  episode
-
-  chunk
-
-  knock
-
-  whip'
-bip_39_word_new_line_8: 'arch
-
-  primary
-
-  journey
-
-  episode
-
-  chunk
-
-  knock
-
-  whip
-
-  monitor'
-bip_39_word_new_line_9: 'arch
-
-  primary
-
-  journey
-
-  episode
-
-  chunk
-
-  knock
-
-  whip
-
-  monitor
-
-  crime'
-bip_39_word_no_space_1: arch
-bip_39_word_no_space_10: archprimaryjourneyepisodechunkknockwhipmonitorcrimechimney
-bip_39_word_no_space_11: archprimaryjourneyepisodechunkknockwhipmonitorcrimechimneyswamp
 bip_39_word_no_space_12: archprimaryjourneyepisodechunkknockwhipmonitorcrimechimneyswampangle
 bip_39_word_no_space_2: archprimary
 bip_39_word_no_space_3: archprimaryjourney
-bip_39_word_no_space_4: archprimaryjourneyepisode
-bip_39_word_no_space_5: archprimaryjourneyepisodechunk
-bip_39_word_no_space_6: archprimaryjourneyepisodechunkknock
-bip_39_word_no_space_7: archprimaryjourneyepisodechunkknockwhip
-bip_39_word_no_space_8: archprimaryjourneyepisodechunkknockwhipmonitor
-bip_39_word_no_space_9: archprimaryjourneyepisodechunkknockwhipmonitorcrime
-bip_39_word_space_0:
-- arch
-- primary
-- journey
-- episode
-- chunk
-- knock
-- whip
-- monitor
-- crime
-- chimney
-- swamp
-- angle
-bip_39_word_space_1: arch
-bip_39_word_space_10: arch primary journey episode chunk knock whip monitor crime
-  chimney
-bip_39_word_space_11: arch primary journey episode chunk knock whip monitor crime
-  chimney swamp
 bip_39_word_space_12: arch primary journey episode chunk knock whip monitor crime
   chimney swamp angle
 bip_39_word_space_2: arch primary
 bip_39_word_space_3: arch primary journey
-bip_39_word_space_4: arch primary journey episode
-bip_39_word_space_5: arch primary journey episode chunk
-bip_39_word_space_6: arch primary journey episode chunk knock
-bip_39_word_space_7: arch primary journey episode chunk knock whip
-bip_39_word_space_8: arch primary journey episode chunk knock whip monitor
-bip_39_word_space_9: arch primary journey episode chunk knock whip monitor crime
-bip_39_word_underscore_1: arch
-bip_39_word_underscore_10: arch_primary_journey_episode_chunk_knock_whip_monitor_crime_chimney
-bip_39_word_underscore_11: arch_primary_journey_episode_chunk_knock_whip_monitor_crime_chimney_swamp
 bip_39_word_underscore_12: arch_primary_journey_episode_chunk_knock_whip_monitor_crime_chimney_swamp_angle
 bip_39_word_underscore_2: arch_primary
 bip_39_word_underscore_3: arch_primary_journey
-bip_39_word_underscore_4: arch_primary_journey_episode
-bip_39_word_underscore_5: arch_primary_journey_episode_chunk
-bip_39_word_underscore_6: arch_primary_journey_episode_chunk_knock
-bip_39_word_underscore_7: arch_primary_journey_episode_chunk_knock_whip
-bip_39_word_underscore_8: arch_primary_journey_episode_chunk_knock_whip_monitor
-bip_39_word_underscore_9: arch_primary_journey_episode_chunk_knock_whip_monitor_crime
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

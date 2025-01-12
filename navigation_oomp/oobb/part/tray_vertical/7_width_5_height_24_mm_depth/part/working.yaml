@@ -1,68 +1,9 @@
-bip_39_word_dash_1: make
-bip_39_word_dash_10: make-eight-range-tongue-draw-fame-choose-bulb-remind-peasant
-bip_39_word_dash_11: make-eight-range-tongue-draw-fame-choose-bulb-remind-peasant-regret
 bip_39_word_dash_12: make-eight-range-tongue-draw-fame-choose-bulb-remind-peasant-regret-act
 bip_39_word_dash_2: make-eight
 bip_39_word_dash_3: make-eight-range
-bip_39_word_dash_4: make-eight-range-tongue
-bip_39_word_dash_5: make-eight-range-tongue-draw
-bip_39_word_dash_6: make-eight-range-tongue-draw-fame
-bip_39_word_dash_7: make-eight-range-tongue-draw-fame-choose
-bip_39_word_dash_8: make-eight-range-tongue-draw-fame-choose-bulb
-bip_39_word_dash_9: make-eight-range-tongue-draw-fame-choose-bulb-remind
-bip_39_word_new_br_1: make
-bip_39_word_new_br_10: make<br>eight<br>range<br>tongue<br>draw<br>fame<br>choose<br>bulb<br>remind<br>peasant
-bip_39_word_new_br_11: make<br>eight<br>range<br>tongue<br>draw<br>fame<br>choose<br>bulb<br>remind<br>peasant<br>regret
 bip_39_word_new_br_12: make<br>eight<br>range<br>tongue<br>draw<br>fame<br>choose<br>bulb<br>remind<br>peasant<br>regret<br>act
 bip_39_word_new_br_2: make<br>eight
 bip_39_word_new_br_3: make<br>eight<br>range
-bip_39_word_new_br_4: make<br>eight<br>range<br>tongue
-bip_39_word_new_br_5: make<br>eight<br>range<br>tongue<br>draw
-bip_39_word_new_br_6: make<br>eight<br>range<br>tongue<br>draw<br>fame
-bip_39_word_new_br_7: make<br>eight<br>range<br>tongue<br>draw<br>fame<br>choose
-bip_39_word_new_br_8: make<br>eight<br>range<br>tongue<br>draw<br>fame<br>choose<br>bulb
-bip_39_word_new_br_9: make<br>eight<br>range<br>tongue<br>draw<br>fame<br>choose<br>bulb<br>remind
-bip_39_word_new_line_1: make
-bip_39_word_new_line_10: 'make
-
-  eight
-
-  range
-
-  tongue
-
-  draw
-
-  fame
-
-  choose
-
-  bulb
-
-  remind
-
-  peasant'
-bip_39_word_new_line_11: 'make
-
-  eight
-
-  range
-
-  tongue
-
-  draw
-
-  fame
-
-  choose
-
-  bulb
-
-  remind
-
-  peasant
-
-  regret'
 bip_39_word_new_line_12: 'make
 
   eight
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'make
   eight
 
   range'
-bip_39_word_new_line_4: 'make
-
-  eight
-
-  range
-
-  tongue'
-bip_39_word_new_line_5: 'make
-
-  eight
-
-  range
-
-  tongue
-
-  draw'
-bip_39_word_new_line_6: 'make
-
-  eight
-
-  range
-
-  tongue
-
-  draw
-
-  fame'
-bip_39_word_new_line_7: 'make
-
-  eight
-
-  range
-
-  tongue
-
-  draw
-
-  fame
-
-  choose'
-bip_39_word_new_line_8: 'make
-
-  eight
-
-  range
-
-  tongue
-
-  draw
-
-  fame
-
-  choose
-
-  bulb'
-bip_39_word_new_line_9: 'make
-
-  eight
-
-  range
-
-  tongue
-
-  draw
-
-  fame
-
-  choose
-
-  bulb
-
-  remind'
-bip_39_word_no_space_1: make
-bip_39_word_no_space_10: makeeightrangetonguedrawfamechoosebulbremindpeasant
-bip_39_word_no_space_11: makeeightrangetonguedrawfamechoosebulbremindpeasantregret
 bip_39_word_no_space_12: makeeightrangetonguedrawfamechoosebulbremindpeasantregretact
 bip_39_word_no_space_2: makeeight
 bip_39_word_no_space_3: makeeightrange
-bip_39_word_no_space_4: makeeightrangetongue
-bip_39_word_no_space_5: makeeightrangetonguedraw
-bip_39_word_no_space_6: makeeightrangetonguedrawfame
-bip_39_word_no_space_7: makeeightrangetonguedrawfamechoose
-bip_39_word_no_space_8: makeeightrangetonguedrawfamechoosebulb
-bip_39_word_no_space_9: makeeightrangetonguedrawfamechoosebulbremind
-bip_39_word_space_0:
-- make
-- eight
-- range
-- tongue
-- draw
-- fame
-- choose
-- bulb
-- remind
-- peasant
-- regret
-- act
-bip_39_word_space_1: make
-bip_39_word_space_10: make eight range tongue draw fame choose bulb remind peasant
-bip_39_word_space_11: make eight range tongue draw fame choose bulb remind peasant
-  regret
 bip_39_word_space_12: make eight range tongue draw fame choose bulb remind peasant
   regret act
 bip_39_word_space_2: make eight
 bip_39_word_space_3: make eight range
-bip_39_word_space_4: make eight range tongue
-bip_39_word_space_5: make eight range tongue draw
-bip_39_word_space_6: make eight range tongue draw fame
-bip_39_word_space_7: make eight range tongue draw fame choose
-bip_39_word_space_8: make eight range tongue draw fame choose bulb
-bip_39_word_space_9: make eight range tongue draw fame choose bulb remind
-bip_39_word_underscore_1: make
-bip_39_word_underscore_10: make_eight_range_tongue_draw_fame_choose_bulb_remind_peasant
-bip_39_word_underscore_11: make_eight_range_tongue_draw_fame_choose_bulb_remind_peasant_regret
 bip_39_word_underscore_12: make_eight_range_tongue_draw_fame_choose_bulb_remind_peasant_regret_act
 bip_39_word_underscore_2: make_eight
 bip_39_word_underscore_3: make_eight_range
-bip_39_word_underscore_4: make_eight_range_tongue
-bip_39_word_underscore_5: make_eight_range_tongue_draw
-bip_39_word_underscore_6: make_eight_range_tongue_draw_fame
-bip_39_word_underscore_7: make_eight_range_tongue_draw_fame_choose
-bip_39_word_underscore_8: make_eight_range_tongue_draw_fame_choose_bulb
-bip_39_word_underscore_9: make_eight_range_tongue_draw_fame_choose_bulb_remind
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

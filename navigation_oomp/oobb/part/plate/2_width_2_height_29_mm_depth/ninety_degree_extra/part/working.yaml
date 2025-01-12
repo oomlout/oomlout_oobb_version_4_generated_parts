@@ -1,68 +1,9 @@
-bip_39_word_dash_1: census
-bip_39_word_dash_10: census-express-sniff-crowd-try-inflict-weird-example-dentist-fury
-bip_39_word_dash_11: census-express-sniff-crowd-try-inflict-weird-example-dentist-fury-adapt
 bip_39_word_dash_12: census-express-sniff-crowd-try-inflict-weird-example-dentist-fury-adapt-amazing
 bip_39_word_dash_2: census-express
 bip_39_word_dash_3: census-express-sniff
-bip_39_word_dash_4: census-express-sniff-crowd
-bip_39_word_dash_5: census-express-sniff-crowd-try
-bip_39_word_dash_6: census-express-sniff-crowd-try-inflict
-bip_39_word_dash_7: census-express-sniff-crowd-try-inflict-weird
-bip_39_word_dash_8: census-express-sniff-crowd-try-inflict-weird-example
-bip_39_word_dash_9: census-express-sniff-crowd-try-inflict-weird-example-dentist
-bip_39_word_new_br_1: census
-bip_39_word_new_br_10: census<br>express<br>sniff<br>crowd<br>try<br>inflict<br>weird<br>example<br>dentist<br>fury
-bip_39_word_new_br_11: census<br>express<br>sniff<br>crowd<br>try<br>inflict<br>weird<br>example<br>dentist<br>fury<br>adapt
 bip_39_word_new_br_12: census<br>express<br>sniff<br>crowd<br>try<br>inflict<br>weird<br>example<br>dentist<br>fury<br>adapt<br>amazing
 bip_39_word_new_br_2: census<br>express
 bip_39_word_new_br_3: census<br>express<br>sniff
-bip_39_word_new_br_4: census<br>express<br>sniff<br>crowd
-bip_39_word_new_br_5: census<br>express<br>sniff<br>crowd<br>try
-bip_39_word_new_br_6: census<br>express<br>sniff<br>crowd<br>try<br>inflict
-bip_39_word_new_br_7: census<br>express<br>sniff<br>crowd<br>try<br>inflict<br>weird
-bip_39_word_new_br_8: census<br>express<br>sniff<br>crowd<br>try<br>inflict<br>weird<br>example
-bip_39_word_new_br_9: census<br>express<br>sniff<br>crowd<br>try<br>inflict<br>weird<br>example<br>dentist
-bip_39_word_new_line_1: census
-bip_39_word_new_line_10: 'census
-
-  express
-
-  sniff
-
-  crowd
-
-  try
-
-  inflict
-
-  weird
-
-  example
-
-  dentist
-
-  fury'
-bip_39_word_new_line_11: 'census
-
-  express
-
-  sniff
-
-  crowd
-
-  try
-
-  inflict
-
-  weird
-
-  example
-
-  dentist
-
-  fury
-
-  adapt'
 bip_39_word_new_line_12: 'census
 
   express
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'census
   express
 
   sniff'
-bip_39_word_new_line_4: 'census
-
-  express
-
-  sniff
-
-  crowd'
-bip_39_word_new_line_5: 'census
-
-  express
-
-  sniff
-
-  crowd
-
-  try'
-bip_39_word_new_line_6: 'census
-
-  express
-
-  sniff
-
-  crowd
-
-  try
-
-  inflict'
-bip_39_word_new_line_7: 'census
-
-  express
-
-  sniff
-
-  crowd
-
-  try
-
-  inflict
-
-  weird'
-bip_39_word_new_line_8: 'census
-
-  express
-
-  sniff
-
-  crowd
-
-  try
-
-  inflict
-
-  weird
-
-  example'
-bip_39_word_new_line_9: 'census
-
-  express
-
-  sniff
-
-  crowd
-
-  try
-
-  inflict
-
-  weird
-
-  example
-
-  dentist'
-bip_39_word_no_space_1: census
-bip_39_word_no_space_10: censusexpresssniffcrowdtryinflictweirdexampledentistfury
-bip_39_word_no_space_11: censusexpresssniffcrowdtryinflictweirdexampledentistfuryadapt
 bip_39_word_no_space_12: censusexpresssniffcrowdtryinflictweirdexampledentistfuryadaptamazing
 bip_39_word_no_space_2: censusexpress
 bip_39_word_no_space_3: censusexpresssniff
-bip_39_word_no_space_4: censusexpresssniffcrowd
-bip_39_word_no_space_5: censusexpresssniffcrowdtry
-bip_39_word_no_space_6: censusexpresssniffcrowdtryinflict
-bip_39_word_no_space_7: censusexpresssniffcrowdtryinflictweird
-bip_39_word_no_space_8: censusexpresssniffcrowdtryinflictweirdexample
-bip_39_word_no_space_9: censusexpresssniffcrowdtryinflictweirdexampledentist
-bip_39_word_space_0:
-- census
-- express
-- sniff
-- crowd
-- try
-- inflict
-- weird
-- example
-- dentist
-- fury
-- adapt
-- amazing
-bip_39_word_space_1: census
-bip_39_word_space_10: census express sniff crowd try inflict weird example dentist
-  fury
-bip_39_word_space_11: census express sniff crowd try inflict weird example dentist
-  fury adapt
 bip_39_word_space_12: census express sniff crowd try inflict weird example dentist
   fury adapt amazing
 bip_39_word_space_2: census express
 bip_39_word_space_3: census express sniff
-bip_39_word_space_4: census express sniff crowd
-bip_39_word_space_5: census express sniff crowd try
-bip_39_word_space_6: census express sniff crowd try inflict
-bip_39_word_space_7: census express sniff crowd try inflict weird
-bip_39_word_space_8: census express sniff crowd try inflict weird example
-bip_39_word_space_9: census express sniff crowd try inflict weird example dentist
-bip_39_word_underscore_1: census
-bip_39_word_underscore_10: census_express_sniff_crowd_try_inflict_weird_example_dentist_fury
-bip_39_word_underscore_11: census_express_sniff_crowd_try_inflict_weird_example_dentist_fury_adapt
 bip_39_word_underscore_12: census_express_sniff_crowd_try_inflict_weird_example_dentist_fury_adapt_amazing
 bip_39_word_underscore_2: census_express
 bip_39_word_underscore_3: census_express_sniff
-bip_39_word_underscore_4: census_express_sniff_crowd
-bip_39_word_underscore_5: census_express_sniff_crowd_try
-bip_39_word_underscore_6: census_express_sniff_crowd_try_inflict
-bip_39_word_underscore_7: census_express_sniff_crowd_try_inflict_weird
-bip_39_word_underscore_8: census_express_sniff_crowd_try_inflict_weird_example
-bip_39_word_underscore_9: census_express_sniff_crowd_try_inflict_weird_example_dentist
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

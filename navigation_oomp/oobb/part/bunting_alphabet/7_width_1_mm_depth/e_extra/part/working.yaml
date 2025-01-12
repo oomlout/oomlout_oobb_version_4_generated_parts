@@ -1,68 +1,9 @@
-bip_39_word_dash_1: portion
-bip_39_word_dash_10: portion-object-pact-someone-order-pulse-off-raise-enrich-curve
-bip_39_word_dash_11: portion-object-pact-someone-order-pulse-off-raise-enrich-curve-fringe
 bip_39_word_dash_12: portion-object-pact-someone-order-pulse-off-raise-enrich-curve-fringe-arch
 bip_39_word_dash_2: portion-object
 bip_39_word_dash_3: portion-object-pact
-bip_39_word_dash_4: portion-object-pact-someone
-bip_39_word_dash_5: portion-object-pact-someone-order
-bip_39_word_dash_6: portion-object-pact-someone-order-pulse
-bip_39_word_dash_7: portion-object-pact-someone-order-pulse-off
-bip_39_word_dash_8: portion-object-pact-someone-order-pulse-off-raise
-bip_39_word_dash_9: portion-object-pact-someone-order-pulse-off-raise-enrich
-bip_39_word_new_br_1: portion
-bip_39_word_new_br_10: portion<br>object<br>pact<br>someone<br>order<br>pulse<br>off<br>raise<br>enrich<br>curve
-bip_39_word_new_br_11: portion<br>object<br>pact<br>someone<br>order<br>pulse<br>off<br>raise<br>enrich<br>curve<br>fringe
 bip_39_word_new_br_12: portion<br>object<br>pact<br>someone<br>order<br>pulse<br>off<br>raise<br>enrich<br>curve<br>fringe<br>arch
 bip_39_word_new_br_2: portion<br>object
 bip_39_word_new_br_3: portion<br>object<br>pact
-bip_39_word_new_br_4: portion<br>object<br>pact<br>someone
-bip_39_word_new_br_5: portion<br>object<br>pact<br>someone<br>order
-bip_39_word_new_br_6: portion<br>object<br>pact<br>someone<br>order<br>pulse
-bip_39_word_new_br_7: portion<br>object<br>pact<br>someone<br>order<br>pulse<br>off
-bip_39_word_new_br_8: portion<br>object<br>pact<br>someone<br>order<br>pulse<br>off<br>raise
-bip_39_word_new_br_9: portion<br>object<br>pact<br>someone<br>order<br>pulse<br>off<br>raise<br>enrich
-bip_39_word_new_line_1: portion
-bip_39_word_new_line_10: 'portion
-
-  object
-
-  pact
-
-  someone
-
-  order
-
-  pulse
-
-  off
-
-  raise
-
-  enrich
-
-  curve'
-bip_39_word_new_line_11: 'portion
-
-  object
-
-  pact
-
-  someone
-
-  order
-
-  pulse
-
-  off
-
-  raise
-
-  enrich
-
-  curve
-
-  fringe'
 bip_39_word_new_line_12: 'portion
 
   object
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'portion
   object
 
   pact'
-bip_39_word_new_line_4: 'portion
-
-  object
-
-  pact
-
-  someone'
-bip_39_word_new_line_5: 'portion
-
-  object
-
-  pact
-
-  someone
-
-  order'
-bip_39_word_new_line_6: 'portion
-
-  object
-
-  pact
-
-  someone
-
-  order
-
-  pulse'
-bip_39_word_new_line_7: 'portion
-
-  object
-
-  pact
-
-  someone
-
-  order
-
-  pulse
-
-  off'
-bip_39_word_new_line_8: 'portion
-
-  object
-
-  pact
-
-  someone
-
-  order
-
-  pulse
-
-  off
-
-  raise'
-bip_39_word_new_line_9: 'portion
-
-  object
-
-  pact
-
-  someone
-
-  order
-
-  pulse
-
-  off
-
-  raise
-
-  enrich'
-bip_39_word_no_space_1: portion
-bip_39_word_no_space_10: portionobjectpactsomeoneorderpulseoffraiseenrichcurve
-bip_39_word_no_space_11: portionobjectpactsomeoneorderpulseoffraiseenrichcurvefringe
 bip_39_word_no_space_12: portionobjectpactsomeoneorderpulseoffraiseenrichcurvefringearch
 bip_39_word_no_space_2: portionobject
 bip_39_word_no_space_3: portionobjectpact
-bip_39_word_no_space_4: portionobjectpactsomeone
-bip_39_word_no_space_5: portionobjectpactsomeoneorder
-bip_39_word_no_space_6: portionobjectpactsomeoneorderpulse
-bip_39_word_no_space_7: portionobjectpactsomeoneorderpulseoff
-bip_39_word_no_space_8: portionobjectpactsomeoneorderpulseoffraise
-bip_39_word_no_space_9: portionobjectpactsomeoneorderpulseoffraiseenrich
-bip_39_word_space_0:
-- portion
-- object
-- pact
-- someone
-- order
-- pulse
-- 'off'
-- raise
-- enrich
-- curve
-- fringe
-- arch
-bip_39_word_space_1: portion
-bip_39_word_space_10: portion object pact someone order pulse off raise enrich curve
-bip_39_word_space_11: portion object pact someone order pulse off raise enrich curve
-  fringe
 bip_39_word_space_12: portion object pact someone order pulse off raise enrich curve
   fringe arch
 bip_39_word_space_2: portion object
 bip_39_word_space_3: portion object pact
-bip_39_word_space_4: portion object pact someone
-bip_39_word_space_5: portion object pact someone order
-bip_39_word_space_6: portion object pact someone order pulse
-bip_39_word_space_7: portion object pact someone order pulse off
-bip_39_word_space_8: portion object pact someone order pulse off raise
-bip_39_word_space_9: portion object pact someone order pulse off raise enrich
-bip_39_word_underscore_1: portion
-bip_39_word_underscore_10: portion_object_pact_someone_order_pulse_off_raise_enrich_curve
-bip_39_word_underscore_11: portion_object_pact_someone_order_pulse_off_raise_enrich_curve_fringe
 bip_39_word_underscore_12: portion_object_pact_someone_order_pulse_off_raise_enrich_curve_fringe_arch
 bip_39_word_underscore_2: portion_object
 bip_39_word_underscore_3: portion_object_pact
-bip_39_word_underscore_4: portion_object_pact_someone
-bip_39_word_underscore_5: portion_object_pact_someone_order
-bip_39_word_underscore_6: portion_object_pact_someone_order_pulse
-bip_39_word_underscore_7: portion_object_pact_someone_order_pulse_off
-bip_39_word_underscore_8: portion_object_pact_someone_order_pulse_off_raise
-bip_39_word_underscore_9: portion_object_pact_someone_order_pulse_off_raise_enrich
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

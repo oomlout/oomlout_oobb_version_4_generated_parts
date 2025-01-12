@@ -1,68 +1,9 @@
-bip_39_word_dash_1: release
-bip_39_word_dash_10: release-crater-crisp-civil-coffee-silk-long-way-ship-volume
-bip_39_word_dash_11: release-crater-crisp-civil-coffee-silk-long-way-ship-volume-coil
 bip_39_word_dash_12: release-crater-crisp-civil-coffee-silk-long-way-ship-volume-coil-area
 bip_39_word_dash_2: release-crater
 bip_39_word_dash_3: release-crater-crisp
-bip_39_word_dash_4: release-crater-crisp-civil
-bip_39_word_dash_5: release-crater-crisp-civil-coffee
-bip_39_word_dash_6: release-crater-crisp-civil-coffee-silk
-bip_39_word_dash_7: release-crater-crisp-civil-coffee-silk-long
-bip_39_word_dash_8: release-crater-crisp-civil-coffee-silk-long-way
-bip_39_word_dash_9: release-crater-crisp-civil-coffee-silk-long-way-ship
-bip_39_word_new_br_1: release
-bip_39_word_new_br_10: release<br>crater<br>crisp<br>civil<br>coffee<br>silk<br>long<br>way<br>ship<br>volume
-bip_39_word_new_br_11: release<br>crater<br>crisp<br>civil<br>coffee<br>silk<br>long<br>way<br>ship<br>volume<br>coil
 bip_39_word_new_br_12: release<br>crater<br>crisp<br>civil<br>coffee<br>silk<br>long<br>way<br>ship<br>volume<br>coil<br>area
 bip_39_word_new_br_2: release<br>crater
 bip_39_word_new_br_3: release<br>crater<br>crisp
-bip_39_word_new_br_4: release<br>crater<br>crisp<br>civil
-bip_39_word_new_br_5: release<br>crater<br>crisp<br>civil<br>coffee
-bip_39_word_new_br_6: release<br>crater<br>crisp<br>civil<br>coffee<br>silk
-bip_39_word_new_br_7: release<br>crater<br>crisp<br>civil<br>coffee<br>silk<br>long
-bip_39_word_new_br_8: release<br>crater<br>crisp<br>civil<br>coffee<br>silk<br>long<br>way
-bip_39_word_new_br_9: release<br>crater<br>crisp<br>civil<br>coffee<br>silk<br>long<br>way<br>ship
-bip_39_word_new_line_1: release
-bip_39_word_new_line_10: 'release
-
-  crater
-
-  crisp
-
-  civil
-
-  coffee
-
-  silk
-
-  long
-
-  way
-
-  ship
-
-  volume'
-bip_39_word_new_line_11: 'release
-
-  crater
-
-  crisp
-
-  civil
-
-  coffee
-
-  silk
-
-  long
-
-  way
-
-  ship
-
-  volume
-
-  coil'
 bip_39_word_new_line_12: 'release
 
   crater
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'release
   crater
 
   crisp'
-bip_39_word_new_line_4: 'release
-
-  crater
-
-  crisp
-
-  civil'
-bip_39_word_new_line_5: 'release
-
-  crater
-
-  crisp
-
-  civil
-
-  coffee'
-bip_39_word_new_line_6: 'release
-
-  crater
-
-  crisp
-
-  civil
-
-  coffee
-
-  silk'
-bip_39_word_new_line_7: 'release
-
-  crater
-
-  crisp
-
-  civil
-
-  coffee
-
-  silk
-
-  long'
-bip_39_word_new_line_8: 'release
-
-  crater
-
-  crisp
-
-  civil
-
-  coffee
-
-  silk
-
-  long
-
-  way'
-bip_39_word_new_line_9: 'release
-
-  crater
-
-  crisp
-
-  civil
-
-  coffee
-
-  silk
-
-  long
-
-  way
-
-  ship'
-bip_39_word_no_space_1: release
-bip_39_word_no_space_10: releasecratercrispcivilcoffeesilklongwayshipvolume
-bip_39_word_no_space_11: releasecratercrispcivilcoffeesilklongwayshipvolumecoil
 bip_39_word_no_space_12: releasecratercrispcivilcoffeesilklongwayshipvolumecoilarea
 bip_39_word_no_space_2: releasecrater
 bip_39_word_no_space_3: releasecratercrisp
-bip_39_word_no_space_4: releasecratercrispcivil
-bip_39_word_no_space_5: releasecratercrispcivilcoffee
-bip_39_word_no_space_6: releasecratercrispcivilcoffeesilk
-bip_39_word_no_space_7: releasecratercrispcivilcoffeesilklong
-bip_39_word_no_space_8: releasecratercrispcivilcoffeesilklongway
-bip_39_word_no_space_9: releasecratercrispcivilcoffeesilklongwayship
-bip_39_word_space_0:
-- release
-- crater
-- crisp
-- civil
-- coffee
-- silk
-- long
-- way
-- ship
-- volume
-- coil
-- area
-bip_39_word_space_1: release
-bip_39_word_space_10: release crater crisp civil coffee silk long way ship volume
-bip_39_word_space_11: release crater crisp civil coffee silk long way ship volume
-  coil
 bip_39_word_space_12: release crater crisp civil coffee silk long way ship volume
   coil area
 bip_39_word_space_2: release crater
 bip_39_word_space_3: release crater crisp
-bip_39_word_space_4: release crater crisp civil
-bip_39_word_space_5: release crater crisp civil coffee
-bip_39_word_space_6: release crater crisp civil coffee silk
-bip_39_word_space_7: release crater crisp civil coffee silk long
-bip_39_word_space_8: release crater crisp civil coffee silk long way
-bip_39_word_space_9: release crater crisp civil coffee silk long way ship
-bip_39_word_underscore_1: release
-bip_39_word_underscore_10: release_crater_crisp_civil_coffee_silk_long_way_ship_volume
-bip_39_word_underscore_11: release_crater_crisp_civil_coffee_silk_long_way_ship_volume_coil
 bip_39_word_underscore_12: release_crater_crisp_civil_coffee_silk_long_way_ship_volume_coil_area
 bip_39_word_underscore_2: release_crater
 bip_39_word_underscore_3: release_crater_crisp
-bip_39_word_underscore_4: release_crater_crisp_civil
-bip_39_word_underscore_5: release_crater_crisp_civil_coffee
-bip_39_word_underscore_6: release_crater_crisp_civil_coffee_silk
-bip_39_word_underscore_7: release_crater_crisp_civil_coffee_silk_long
-bip_39_word_underscore_8: release_crater_crisp_civil_coffee_silk_long_way
-bip_39_word_underscore_9: release_crater_crisp_civil_coffee_silk_long_way_ship
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

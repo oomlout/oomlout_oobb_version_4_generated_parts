@@ -1,68 +1,9 @@
-bip_39_word_dash_1: control
-bip_39_word_dash_10: control-stomach-resource-elevator-nature-motion-refuse-sick-rich-stairs
-bip_39_word_dash_11: control-stomach-resource-elevator-nature-motion-refuse-sick-rich-stairs-member
 bip_39_word_dash_12: control-stomach-resource-elevator-nature-motion-refuse-sick-rich-stairs-member-adjust
 bip_39_word_dash_2: control-stomach
 bip_39_word_dash_3: control-stomach-resource
-bip_39_word_dash_4: control-stomach-resource-elevator
-bip_39_word_dash_5: control-stomach-resource-elevator-nature
-bip_39_word_dash_6: control-stomach-resource-elevator-nature-motion
-bip_39_word_dash_7: control-stomach-resource-elevator-nature-motion-refuse
-bip_39_word_dash_8: control-stomach-resource-elevator-nature-motion-refuse-sick
-bip_39_word_dash_9: control-stomach-resource-elevator-nature-motion-refuse-sick-rich
-bip_39_word_new_br_1: control
-bip_39_word_new_br_10: control<br>stomach<br>resource<br>elevator<br>nature<br>motion<br>refuse<br>sick<br>rich<br>stairs
-bip_39_word_new_br_11: control<br>stomach<br>resource<br>elevator<br>nature<br>motion<br>refuse<br>sick<br>rich<br>stairs<br>member
 bip_39_word_new_br_12: control<br>stomach<br>resource<br>elevator<br>nature<br>motion<br>refuse<br>sick<br>rich<br>stairs<br>member<br>adjust
 bip_39_word_new_br_2: control<br>stomach
 bip_39_word_new_br_3: control<br>stomach<br>resource
-bip_39_word_new_br_4: control<br>stomach<br>resource<br>elevator
-bip_39_word_new_br_5: control<br>stomach<br>resource<br>elevator<br>nature
-bip_39_word_new_br_6: control<br>stomach<br>resource<br>elevator<br>nature<br>motion
-bip_39_word_new_br_7: control<br>stomach<br>resource<br>elevator<br>nature<br>motion<br>refuse
-bip_39_word_new_br_8: control<br>stomach<br>resource<br>elevator<br>nature<br>motion<br>refuse<br>sick
-bip_39_word_new_br_9: control<br>stomach<br>resource<br>elevator<br>nature<br>motion<br>refuse<br>sick<br>rich
-bip_39_word_new_line_1: control
-bip_39_word_new_line_10: 'control
-
-  stomach
-
-  resource
-
-  elevator
-
-  nature
-
-  motion
-
-  refuse
-
-  sick
-
-  rich
-
-  stairs'
-bip_39_word_new_line_11: 'control
-
-  stomach
-
-  resource
-
-  elevator
-
-  nature
-
-  motion
-
-  refuse
-
-  sick
-
-  rich
-
-  stairs
-
-  member'
 bip_39_word_new_line_12: 'control
 
   stomach
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'control
   stomach
 
   resource'
-bip_39_word_new_line_4: 'control
-
-  stomach
-
-  resource
-
-  elevator'
-bip_39_word_new_line_5: 'control
-
-  stomach
-
-  resource
-
-  elevator
-
-  nature'
-bip_39_word_new_line_6: 'control
-
-  stomach
-
-  resource
-
-  elevator
-
-  nature
-
-  motion'
-bip_39_word_new_line_7: 'control
-
-  stomach
-
-  resource
-
-  elevator
-
-  nature
-
-  motion
-
-  refuse'
-bip_39_word_new_line_8: 'control
-
-  stomach
-
-  resource
-
-  elevator
-
-  nature
-
-  motion
-
-  refuse
-
-  sick'
-bip_39_word_new_line_9: 'control
-
-  stomach
-
-  resource
-
-  elevator
-
-  nature
-
-  motion
-
-  refuse
-
-  sick
-
-  rich'
-bip_39_word_no_space_1: control
-bip_39_word_no_space_10: controlstomachresourceelevatornaturemotionrefusesickrichstairs
-bip_39_word_no_space_11: controlstomachresourceelevatornaturemotionrefusesickrichstairsmember
 bip_39_word_no_space_12: controlstomachresourceelevatornaturemotionrefusesickrichstairsmemberadjust
 bip_39_word_no_space_2: controlstomach
 bip_39_word_no_space_3: controlstomachresource
-bip_39_word_no_space_4: controlstomachresourceelevator
-bip_39_word_no_space_5: controlstomachresourceelevatornature
-bip_39_word_no_space_6: controlstomachresourceelevatornaturemotion
-bip_39_word_no_space_7: controlstomachresourceelevatornaturemotionrefuse
-bip_39_word_no_space_8: controlstomachresourceelevatornaturemotionrefusesick
-bip_39_word_no_space_9: controlstomachresourceelevatornaturemotionrefusesickrich
-bip_39_word_space_0:
-- control
-- stomach
-- resource
-- elevator
-- nature
-- motion
-- refuse
-- sick
-- rich
-- stairs
-- member
-- adjust
-bip_39_word_space_1: control
-bip_39_word_space_10: control stomach resource elevator nature motion refuse sick
-  rich stairs
-bip_39_word_space_11: control stomach resource elevator nature motion refuse sick
-  rich stairs member
 bip_39_word_space_12: control stomach resource elevator nature motion refuse sick
   rich stairs member adjust
 bip_39_word_space_2: control stomach
 bip_39_word_space_3: control stomach resource
-bip_39_word_space_4: control stomach resource elevator
-bip_39_word_space_5: control stomach resource elevator nature
-bip_39_word_space_6: control stomach resource elevator nature motion
-bip_39_word_space_7: control stomach resource elevator nature motion refuse
-bip_39_word_space_8: control stomach resource elevator nature motion refuse sick
-bip_39_word_space_9: control stomach resource elevator nature motion refuse sick rich
-bip_39_word_underscore_1: control
-bip_39_word_underscore_10: control_stomach_resource_elevator_nature_motion_refuse_sick_rich_stairs
-bip_39_word_underscore_11: control_stomach_resource_elevator_nature_motion_refuse_sick_rich_stairs_member
 bip_39_word_underscore_12: control_stomach_resource_elevator_nature_motion_refuse_sick_rich_stairs_member_adjust
 bip_39_word_underscore_2: control_stomach
 bip_39_word_underscore_3: control_stomach_resource
-bip_39_word_underscore_4: control_stomach_resource_elevator
-bip_39_word_underscore_5: control_stomach_resource_elevator_nature
-bip_39_word_underscore_6: control_stomach_resource_elevator_nature_motion
-bip_39_word_underscore_7: control_stomach_resource_elevator_nature_motion_refuse
-bip_39_word_underscore_8: control_stomach_resource_elevator_nature_motion_refuse_sick
-bip_39_word_underscore_9: control_stomach_resource_elevator_nature_motion_refuse_sick_rich
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

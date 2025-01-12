@@ -1,68 +1,9 @@
-bip_39_word_dash_1: fetch
-bip_39_word_dash_10: fetch-label-capable-cup-survey-repeat-eternal-silk-isolate-mercy
-bip_39_word_dash_11: fetch-label-capable-cup-survey-repeat-eternal-silk-isolate-mercy-scout
 bip_39_word_dash_12: fetch-label-capable-cup-survey-repeat-eternal-silk-isolate-mercy-scout-address
 bip_39_word_dash_2: fetch-label
 bip_39_word_dash_3: fetch-label-capable
-bip_39_word_dash_4: fetch-label-capable-cup
-bip_39_word_dash_5: fetch-label-capable-cup-survey
-bip_39_word_dash_6: fetch-label-capable-cup-survey-repeat
-bip_39_word_dash_7: fetch-label-capable-cup-survey-repeat-eternal
-bip_39_word_dash_8: fetch-label-capable-cup-survey-repeat-eternal-silk
-bip_39_word_dash_9: fetch-label-capable-cup-survey-repeat-eternal-silk-isolate
-bip_39_word_new_br_1: fetch
-bip_39_word_new_br_10: fetch<br>label<br>capable<br>cup<br>survey<br>repeat<br>eternal<br>silk<br>isolate<br>mercy
-bip_39_word_new_br_11: fetch<br>label<br>capable<br>cup<br>survey<br>repeat<br>eternal<br>silk<br>isolate<br>mercy<br>scout
 bip_39_word_new_br_12: fetch<br>label<br>capable<br>cup<br>survey<br>repeat<br>eternal<br>silk<br>isolate<br>mercy<br>scout<br>address
 bip_39_word_new_br_2: fetch<br>label
 bip_39_word_new_br_3: fetch<br>label<br>capable
-bip_39_word_new_br_4: fetch<br>label<br>capable<br>cup
-bip_39_word_new_br_5: fetch<br>label<br>capable<br>cup<br>survey
-bip_39_word_new_br_6: fetch<br>label<br>capable<br>cup<br>survey<br>repeat
-bip_39_word_new_br_7: fetch<br>label<br>capable<br>cup<br>survey<br>repeat<br>eternal
-bip_39_word_new_br_8: fetch<br>label<br>capable<br>cup<br>survey<br>repeat<br>eternal<br>silk
-bip_39_word_new_br_9: fetch<br>label<br>capable<br>cup<br>survey<br>repeat<br>eternal<br>silk<br>isolate
-bip_39_word_new_line_1: fetch
-bip_39_word_new_line_10: 'fetch
-
-  label
-
-  capable
-
-  cup
-
-  survey
-
-  repeat
-
-  eternal
-
-  silk
-
-  isolate
-
-  mercy'
-bip_39_word_new_line_11: 'fetch
-
-  label
-
-  capable
-
-  cup
-
-  survey
-
-  repeat
-
-  eternal
-
-  silk
-
-  isolate
-
-  mercy
-
-  scout'
 bip_39_word_new_line_12: 'fetch
 
   label
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'fetch
   label
 
   capable'
-bip_39_word_new_line_4: 'fetch
-
-  label
-
-  capable
-
-  cup'
-bip_39_word_new_line_5: 'fetch
-
-  label
-
-  capable
-
-  cup
-
-  survey'
-bip_39_word_new_line_6: 'fetch
-
-  label
-
-  capable
-
-  cup
-
-  survey
-
-  repeat'
-bip_39_word_new_line_7: 'fetch
-
-  label
-
-  capable
-
-  cup
-
-  survey
-
-  repeat
-
-  eternal'
-bip_39_word_new_line_8: 'fetch
-
-  label
-
-  capable
-
-  cup
-
-  survey
-
-  repeat
-
-  eternal
-
-  silk'
-bip_39_word_new_line_9: 'fetch
-
-  label
-
-  capable
-
-  cup
-
-  survey
-
-  repeat
-
-  eternal
-
-  silk
-
-  isolate'
-bip_39_word_no_space_1: fetch
-bip_39_word_no_space_10: fetchlabelcapablecupsurveyrepeateternalsilkisolatemercy
-bip_39_word_no_space_11: fetchlabelcapablecupsurveyrepeateternalsilkisolatemercyscout
 bip_39_word_no_space_12: fetchlabelcapablecupsurveyrepeateternalsilkisolatemercyscoutaddress
 bip_39_word_no_space_2: fetchlabel
 bip_39_word_no_space_3: fetchlabelcapable
-bip_39_word_no_space_4: fetchlabelcapablecup
-bip_39_word_no_space_5: fetchlabelcapablecupsurvey
-bip_39_word_no_space_6: fetchlabelcapablecupsurveyrepeat
-bip_39_word_no_space_7: fetchlabelcapablecupsurveyrepeateternal
-bip_39_word_no_space_8: fetchlabelcapablecupsurveyrepeateternalsilk
-bip_39_word_no_space_9: fetchlabelcapablecupsurveyrepeateternalsilkisolate
-bip_39_word_space_0:
-- fetch
-- label
-- capable
-- cup
-- survey
-- repeat
-- eternal
-- silk
-- isolate
-- mercy
-- scout
-- address
-bip_39_word_space_1: fetch
-bip_39_word_space_10: fetch label capable cup survey repeat eternal silk isolate mercy
-bip_39_word_space_11: fetch label capable cup survey repeat eternal silk isolate mercy
-  scout
 bip_39_word_space_12: fetch label capable cup survey repeat eternal silk isolate mercy
   scout address
 bip_39_word_space_2: fetch label
 bip_39_word_space_3: fetch label capable
-bip_39_word_space_4: fetch label capable cup
-bip_39_word_space_5: fetch label capable cup survey
-bip_39_word_space_6: fetch label capable cup survey repeat
-bip_39_word_space_7: fetch label capable cup survey repeat eternal
-bip_39_word_space_8: fetch label capable cup survey repeat eternal silk
-bip_39_word_space_9: fetch label capable cup survey repeat eternal silk isolate
-bip_39_word_underscore_1: fetch
-bip_39_word_underscore_10: fetch_label_capable_cup_survey_repeat_eternal_silk_isolate_mercy
-bip_39_word_underscore_11: fetch_label_capable_cup_survey_repeat_eternal_silk_isolate_mercy_scout
 bip_39_word_underscore_12: fetch_label_capable_cup_survey_repeat_eternal_silk_isolate_mercy_scout_address
 bip_39_word_underscore_2: fetch_label
 bip_39_word_underscore_3: fetch_label_capable
-bip_39_word_underscore_4: fetch_label_capable_cup
-bip_39_word_underscore_5: fetch_label_capable_cup_survey
-bip_39_word_underscore_6: fetch_label_capable_cup_survey_repeat
-bip_39_word_underscore_7: fetch_label_capable_cup_survey_repeat_eternal
-bip_39_word_underscore_8: fetch_label_capable_cup_survey_repeat_eternal_silk
-bip_39_word_underscore_9: fetch_label_capable_cup_survey_repeat_eternal_silk_isolate
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

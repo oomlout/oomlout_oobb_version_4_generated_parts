@@ -1,68 +1,9 @@
-bip_39_word_dash_1: carpet
-bip_39_word_dash_10: carpet-nothing-again-same-bacon-rice-film-size-aunt-ship
-bip_39_word_dash_11: carpet-nothing-again-same-bacon-rice-film-size-aunt-ship-great
 bip_39_word_dash_12: carpet-nothing-again-same-bacon-rice-film-size-aunt-ship-great-aunt
 bip_39_word_dash_2: carpet-nothing
 bip_39_word_dash_3: carpet-nothing-again
-bip_39_word_dash_4: carpet-nothing-again-same
-bip_39_word_dash_5: carpet-nothing-again-same-bacon
-bip_39_word_dash_6: carpet-nothing-again-same-bacon-rice
-bip_39_word_dash_7: carpet-nothing-again-same-bacon-rice-film
-bip_39_word_dash_8: carpet-nothing-again-same-bacon-rice-film-size
-bip_39_word_dash_9: carpet-nothing-again-same-bacon-rice-film-size-aunt
-bip_39_word_new_br_1: carpet
-bip_39_word_new_br_10: carpet<br>nothing<br>again<br>same<br>bacon<br>rice<br>film<br>size<br>aunt<br>ship
-bip_39_word_new_br_11: carpet<br>nothing<br>again<br>same<br>bacon<br>rice<br>film<br>size<br>aunt<br>ship<br>great
 bip_39_word_new_br_12: carpet<br>nothing<br>again<br>same<br>bacon<br>rice<br>film<br>size<br>aunt<br>ship<br>great<br>aunt
 bip_39_word_new_br_2: carpet<br>nothing
 bip_39_word_new_br_3: carpet<br>nothing<br>again
-bip_39_word_new_br_4: carpet<br>nothing<br>again<br>same
-bip_39_word_new_br_5: carpet<br>nothing<br>again<br>same<br>bacon
-bip_39_word_new_br_6: carpet<br>nothing<br>again<br>same<br>bacon<br>rice
-bip_39_word_new_br_7: carpet<br>nothing<br>again<br>same<br>bacon<br>rice<br>film
-bip_39_word_new_br_8: carpet<br>nothing<br>again<br>same<br>bacon<br>rice<br>film<br>size
-bip_39_word_new_br_9: carpet<br>nothing<br>again<br>same<br>bacon<br>rice<br>film<br>size<br>aunt
-bip_39_word_new_line_1: carpet
-bip_39_word_new_line_10: 'carpet
-
-  nothing
-
-  again
-
-  same
-
-  bacon
-
-  rice
-
-  film
-
-  size
-
-  aunt
-
-  ship'
-bip_39_word_new_line_11: 'carpet
-
-  nothing
-
-  again
-
-  same
-
-  bacon
-
-  rice
-
-  film
-
-  size
-
-  aunt
-
-  ship
-
-  great'
 bip_39_word_new_line_12: 'carpet
 
   nothing
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'carpet
   nothing
 
   again'
-bip_39_word_new_line_4: 'carpet
-
-  nothing
-
-  again
-
-  same'
-bip_39_word_new_line_5: 'carpet
-
-  nothing
-
-  again
-
-  same
-
-  bacon'
-bip_39_word_new_line_6: 'carpet
-
-  nothing
-
-  again
-
-  same
-
-  bacon
-
-  rice'
-bip_39_word_new_line_7: 'carpet
-
-  nothing
-
-  again
-
-  same
-
-  bacon
-
-  rice
-
-  film'
-bip_39_word_new_line_8: 'carpet
-
-  nothing
-
-  again
-
-  same
-
-  bacon
-
-  rice
-
-  film
-
-  size'
-bip_39_word_new_line_9: 'carpet
-
-  nothing
-
-  again
-
-  same
-
-  bacon
-
-  rice
-
-  film
-
-  size
-
-  aunt'
-bip_39_word_no_space_1: carpet
-bip_39_word_no_space_10: carpetnothingagainsamebaconricefilmsizeauntship
-bip_39_word_no_space_11: carpetnothingagainsamebaconricefilmsizeauntshipgreat
 bip_39_word_no_space_12: carpetnothingagainsamebaconricefilmsizeauntshipgreataunt
 bip_39_word_no_space_2: carpetnothing
 bip_39_word_no_space_3: carpetnothingagain
-bip_39_word_no_space_4: carpetnothingagainsame
-bip_39_word_no_space_5: carpetnothingagainsamebacon
-bip_39_word_no_space_6: carpetnothingagainsamebaconrice
-bip_39_word_no_space_7: carpetnothingagainsamebaconricefilm
-bip_39_word_no_space_8: carpetnothingagainsamebaconricefilmsize
-bip_39_word_no_space_9: carpetnothingagainsamebaconricefilmsizeaunt
-bip_39_word_space_0:
-- carpet
-- nothing
-- again
-- same
-- bacon
-- rice
-- film
-- size
-- aunt
-- ship
-- great
-- aunt
-bip_39_word_space_1: carpet
-bip_39_word_space_10: carpet nothing again same bacon rice film size aunt ship
-bip_39_word_space_11: carpet nothing again same bacon rice film size aunt ship great
 bip_39_word_space_12: carpet nothing again same bacon rice film size aunt ship great
   aunt
 bip_39_word_space_2: carpet nothing
 bip_39_word_space_3: carpet nothing again
-bip_39_word_space_4: carpet nothing again same
-bip_39_word_space_5: carpet nothing again same bacon
-bip_39_word_space_6: carpet nothing again same bacon rice
-bip_39_word_space_7: carpet nothing again same bacon rice film
-bip_39_word_space_8: carpet nothing again same bacon rice film size
-bip_39_word_space_9: carpet nothing again same bacon rice film size aunt
-bip_39_word_underscore_1: carpet
-bip_39_word_underscore_10: carpet_nothing_again_same_bacon_rice_film_size_aunt_ship
-bip_39_word_underscore_11: carpet_nothing_again_same_bacon_rice_film_size_aunt_ship_great
 bip_39_word_underscore_12: carpet_nothing_again_same_bacon_rice_film_size_aunt_ship_great_aunt
 bip_39_word_underscore_2: carpet_nothing
 bip_39_word_underscore_3: carpet_nothing_again
-bip_39_word_underscore_4: carpet_nothing_again_same
-bip_39_word_underscore_5: carpet_nothing_again_same_bacon
-bip_39_word_underscore_6: carpet_nothing_again_same_bacon_rice
-bip_39_word_underscore_7: carpet_nothing_again_same_bacon_rice_film
-bip_39_word_underscore_8: carpet_nothing_again_same_bacon_rice_film_size
-bip_39_word_underscore_9: carpet_nothing_again_same_bacon_rice_film_size_aunt
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

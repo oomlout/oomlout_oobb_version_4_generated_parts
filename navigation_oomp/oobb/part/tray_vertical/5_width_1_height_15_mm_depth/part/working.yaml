@@ -1,68 +1,9 @@
-bip_39_word_dash_1: simple
-bip_39_word_dash_10: simple-shed-autumn-caution-knee-need-carpet-solve-more-car
-bip_39_word_dash_11: simple-shed-autumn-caution-knee-need-carpet-solve-more-car-abandon
 bip_39_word_dash_12: simple-shed-autumn-caution-knee-need-carpet-solve-more-car-abandon-achieve
 bip_39_word_dash_2: simple-shed
 bip_39_word_dash_3: simple-shed-autumn
-bip_39_word_dash_4: simple-shed-autumn-caution
-bip_39_word_dash_5: simple-shed-autumn-caution-knee
-bip_39_word_dash_6: simple-shed-autumn-caution-knee-need
-bip_39_word_dash_7: simple-shed-autumn-caution-knee-need-carpet
-bip_39_word_dash_8: simple-shed-autumn-caution-knee-need-carpet-solve
-bip_39_word_dash_9: simple-shed-autumn-caution-knee-need-carpet-solve-more
-bip_39_word_new_br_1: simple
-bip_39_word_new_br_10: simple<br>shed<br>autumn<br>caution<br>knee<br>need<br>carpet<br>solve<br>more<br>car
-bip_39_word_new_br_11: simple<br>shed<br>autumn<br>caution<br>knee<br>need<br>carpet<br>solve<br>more<br>car<br>abandon
 bip_39_word_new_br_12: simple<br>shed<br>autumn<br>caution<br>knee<br>need<br>carpet<br>solve<br>more<br>car<br>abandon<br>achieve
 bip_39_word_new_br_2: simple<br>shed
 bip_39_word_new_br_3: simple<br>shed<br>autumn
-bip_39_word_new_br_4: simple<br>shed<br>autumn<br>caution
-bip_39_word_new_br_5: simple<br>shed<br>autumn<br>caution<br>knee
-bip_39_word_new_br_6: simple<br>shed<br>autumn<br>caution<br>knee<br>need
-bip_39_word_new_br_7: simple<br>shed<br>autumn<br>caution<br>knee<br>need<br>carpet
-bip_39_word_new_br_8: simple<br>shed<br>autumn<br>caution<br>knee<br>need<br>carpet<br>solve
-bip_39_word_new_br_9: simple<br>shed<br>autumn<br>caution<br>knee<br>need<br>carpet<br>solve<br>more
-bip_39_word_new_line_1: simple
-bip_39_word_new_line_10: 'simple
-
-  shed
-
-  autumn
-
-  caution
-
-  knee
-
-  need
-
-  carpet
-
-  solve
-
-  more
-
-  car'
-bip_39_word_new_line_11: 'simple
-
-  shed
-
-  autumn
-
-  caution
-
-  knee
-
-  need
-
-  carpet
-
-  solve
-
-  more
-
-  car
-
-  abandon'
 bip_39_word_new_line_12: 'simple
 
   shed
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'simple
   shed
 
   autumn'
-bip_39_word_new_line_4: 'simple
-
-  shed
-
-  autumn
-
-  caution'
-bip_39_word_new_line_5: 'simple
-
-  shed
-
-  autumn
-
-  caution
-
-  knee'
-bip_39_word_new_line_6: 'simple
-
-  shed
-
-  autumn
-
-  caution
-
-  knee
-
-  need'
-bip_39_word_new_line_7: 'simple
-
-  shed
-
-  autumn
-
-  caution
-
-  knee
-
-  need
-
-  carpet'
-bip_39_word_new_line_8: 'simple
-
-  shed
-
-  autumn
-
-  caution
-
-  knee
-
-  need
-
-  carpet
-
-  solve'
-bip_39_word_new_line_9: 'simple
-
-  shed
-
-  autumn
-
-  caution
-
-  knee
-
-  need
-
-  carpet
-
-  solve
-
-  more'
-bip_39_word_no_space_1: simple
-bip_39_word_no_space_10: simpleshedautumncautionkneeneedcarpetsolvemorecar
-bip_39_word_no_space_11: simpleshedautumncautionkneeneedcarpetsolvemorecarabandon
 bip_39_word_no_space_12: simpleshedautumncautionkneeneedcarpetsolvemorecarabandonachieve
 bip_39_word_no_space_2: simpleshed
 bip_39_word_no_space_3: simpleshedautumn
-bip_39_word_no_space_4: simpleshedautumncaution
-bip_39_word_no_space_5: simpleshedautumncautionknee
-bip_39_word_no_space_6: simpleshedautumncautionkneeneed
-bip_39_word_no_space_7: simpleshedautumncautionkneeneedcarpet
-bip_39_word_no_space_8: simpleshedautumncautionkneeneedcarpetsolve
-bip_39_word_no_space_9: simpleshedautumncautionkneeneedcarpetsolvemore
-bip_39_word_space_0:
-- simple
-- shed
-- autumn
-- caution
-- knee
-- need
-- carpet
-- solve
-- more
-- car
-- abandon
-- achieve
-bip_39_word_space_1: simple
-bip_39_word_space_10: simple shed autumn caution knee need carpet solve more car
-bip_39_word_space_11: simple shed autumn caution knee need carpet solve more car abandon
 bip_39_word_space_12: simple shed autumn caution knee need carpet solve more car abandon
   achieve
 bip_39_word_space_2: simple shed
 bip_39_word_space_3: simple shed autumn
-bip_39_word_space_4: simple shed autumn caution
-bip_39_word_space_5: simple shed autumn caution knee
-bip_39_word_space_6: simple shed autumn caution knee need
-bip_39_word_space_7: simple shed autumn caution knee need carpet
-bip_39_word_space_8: simple shed autumn caution knee need carpet solve
-bip_39_word_space_9: simple shed autumn caution knee need carpet solve more
-bip_39_word_underscore_1: simple
-bip_39_word_underscore_10: simple_shed_autumn_caution_knee_need_carpet_solve_more_car
-bip_39_word_underscore_11: simple_shed_autumn_caution_knee_need_carpet_solve_more_car_abandon
 bip_39_word_underscore_12: simple_shed_autumn_caution_knee_need_carpet_solve_more_car_abandon_achieve
 bip_39_word_underscore_2: simple_shed
 bip_39_word_underscore_3: simple_shed_autumn
-bip_39_word_underscore_4: simple_shed_autumn_caution
-bip_39_word_underscore_5: simple_shed_autumn_caution_knee
-bip_39_word_underscore_6: simple_shed_autumn_caution_knee_need
-bip_39_word_underscore_7: simple_shed_autumn_caution_knee_need_carpet
-bip_39_word_underscore_8: simple_shed_autumn_caution_knee_need_carpet_solve
-bip_39_word_underscore_9: simple_shed_autumn_caution_knee_need_carpet_solve_more
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

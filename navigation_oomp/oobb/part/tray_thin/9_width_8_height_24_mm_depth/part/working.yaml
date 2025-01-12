@@ -1,68 +1,9 @@
-bip_39_word_dash_1: gossip
-bip_39_word_dash_10: gossip-payment-chimney-hungry-present-scale-favorite-spatial-evil-orchard
-bip_39_word_dash_11: gossip-payment-chimney-hungry-present-scale-favorite-spatial-evil-orchard-above
 bip_39_word_dash_12: gossip-payment-chimney-hungry-present-scale-favorite-spatial-evil-orchard-above-acquire
 bip_39_word_dash_2: gossip-payment
 bip_39_word_dash_3: gossip-payment-chimney
-bip_39_word_dash_4: gossip-payment-chimney-hungry
-bip_39_word_dash_5: gossip-payment-chimney-hungry-present
-bip_39_word_dash_6: gossip-payment-chimney-hungry-present-scale
-bip_39_word_dash_7: gossip-payment-chimney-hungry-present-scale-favorite
-bip_39_word_dash_8: gossip-payment-chimney-hungry-present-scale-favorite-spatial
-bip_39_word_dash_9: gossip-payment-chimney-hungry-present-scale-favorite-spatial-evil
-bip_39_word_new_br_1: gossip
-bip_39_word_new_br_10: gossip<br>payment<br>chimney<br>hungry<br>present<br>scale<br>favorite<br>spatial<br>evil<br>orchard
-bip_39_word_new_br_11: gossip<br>payment<br>chimney<br>hungry<br>present<br>scale<br>favorite<br>spatial<br>evil<br>orchard<br>above
 bip_39_word_new_br_12: gossip<br>payment<br>chimney<br>hungry<br>present<br>scale<br>favorite<br>spatial<br>evil<br>orchard<br>above<br>acquire
 bip_39_word_new_br_2: gossip<br>payment
 bip_39_word_new_br_3: gossip<br>payment<br>chimney
-bip_39_word_new_br_4: gossip<br>payment<br>chimney<br>hungry
-bip_39_word_new_br_5: gossip<br>payment<br>chimney<br>hungry<br>present
-bip_39_word_new_br_6: gossip<br>payment<br>chimney<br>hungry<br>present<br>scale
-bip_39_word_new_br_7: gossip<br>payment<br>chimney<br>hungry<br>present<br>scale<br>favorite
-bip_39_word_new_br_8: gossip<br>payment<br>chimney<br>hungry<br>present<br>scale<br>favorite<br>spatial
-bip_39_word_new_br_9: gossip<br>payment<br>chimney<br>hungry<br>present<br>scale<br>favorite<br>spatial<br>evil
-bip_39_word_new_line_1: gossip
-bip_39_word_new_line_10: 'gossip
-
-  payment
-
-  chimney
-
-  hungry
-
-  present
-
-  scale
-
-  favorite
-
-  spatial
-
-  evil
-
-  orchard'
-bip_39_word_new_line_11: 'gossip
-
-  payment
-
-  chimney
-
-  hungry
-
-  present
-
-  scale
-
-  favorite
-
-  spatial
-
-  evil
-
-  orchard
-
-  above'
 bip_39_word_new_line_12: 'gossip
 
   payment
@@ -94,131 +35,16 @@ bip_39_word_new_line_3: 'gossip
   payment
 
   chimney'
-bip_39_word_new_line_4: 'gossip
-
-  payment
-
-  chimney
-
-  hungry'
-bip_39_word_new_line_5: 'gossip
-
-  payment
-
-  chimney
-
-  hungry
-
-  present'
-bip_39_word_new_line_6: 'gossip
-
-  payment
-
-  chimney
-
-  hungry
-
-  present
-
-  scale'
-bip_39_word_new_line_7: 'gossip
-
-  payment
-
-  chimney
-
-  hungry
-
-  present
-
-  scale
-
-  favorite'
-bip_39_word_new_line_8: 'gossip
-
-  payment
-
-  chimney
-
-  hungry
-
-  present
-
-  scale
-
-  favorite
-
-  spatial'
-bip_39_word_new_line_9: 'gossip
-
-  payment
-
-  chimney
-
-  hungry
-
-  present
-
-  scale
-
-  favorite
-
-  spatial
-
-  evil'
-bip_39_word_no_space_1: gossip
-bip_39_word_no_space_10: gossippaymentchimneyhungrypresentscalefavoritespatialevilorchard
-bip_39_word_no_space_11: gossippaymentchimneyhungrypresentscalefavoritespatialevilorchardabove
 bip_39_word_no_space_12: gossippaymentchimneyhungrypresentscalefavoritespatialevilorchardaboveacquire
 bip_39_word_no_space_2: gossippayment
 bip_39_word_no_space_3: gossippaymentchimney
-bip_39_word_no_space_4: gossippaymentchimneyhungry
-bip_39_word_no_space_5: gossippaymentchimneyhungrypresent
-bip_39_word_no_space_6: gossippaymentchimneyhungrypresentscale
-bip_39_word_no_space_7: gossippaymentchimneyhungrypresentscalefavorite
-bip_39_word_no_space_8: gossippaymentchimneyhungrypresentscalefavoritespatial
-bip_39_word_no_space_9: gossippaymentchimneyhungrypresentscalefavoritespatialevil
-bip_39_word_space_0:
-- gossip
-- payment
-- chimney
-- hungry
-- present
-- scale
-- favorite
-- spatial
-- evil
-- orchard
-- above
-- acquire
-bip_39_word_space_1: gossip
-bip_39_word_space_10: gossip payment chimney hungry present scale favorite spatial
-  evil orchard
-bip_39_word_space_11: gossip payment chimney hungry present scale favorite spatial
-  evil orchard above
 bip_39_word_space_12: gossip payment chimney hungry present scale favorite spatial
   evil orchard above acquire
 bip_39_word_space_2: gossip payment
 bip_39_word_space_3: gossip payment chimney
-bip_39_word_space_4: gossip payment chimney hungry
-bip_39_word_space_5: gossip payment chimney hungry present
-bip_39_word_space_6: gossip payment chimney hungry present scale
-bip_39_word_space_7: gossip payment chimney hungry present scale favorite
-bip_39_word_space_8: gossip payment chimney hungry present scale favorite spatial
-bip_39_word_space_9: gossip payment chimney hungry present scale favorite spatial
-  evil
-bip_39_word_underscore_1: gossip
-bip_39_word_underscore_10: gossip_payment_chimney_hungry_present_scale_favorite_spatial_evil_orchard
-bip_39_word_underscore_11: gossip_payment_chimney_hungry_present_scale_favorite_spatial_evil_orchard_above
 bip_39_word_underscore_12: gossip_payment_chimney_hungry_present_scale_favorite_spatial_evil_orchard_above_acquire
 bip_39_word_underscore_2: gossip_payment
 bip_39_word_underscore_3: gossip_payment_chimney
-bip_39_word_underscore_4: gossip_payment_chimney_hungry
-bip_39_word_underscore_5: gossip_payment_chimney_hungry_present
-bip_39_word_underscore_6: gossip_payment_chimney_hungry_present_scale
-bip_39_word_underscore_7: gossip_payment_chimney_hungry_present_scale_favorite
-bip_39_word_underscore_8: gossip_payment_chimney_hungry_present_scale_favorite_spatial
-bip_39_word_underscore_9: gossip_payment_chimney_hungry_present_scale_favorite_spatial_evil
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

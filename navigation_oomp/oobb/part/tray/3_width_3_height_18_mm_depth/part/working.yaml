@@ -1,68 +1,9 @@
-bip_39_word_dash_1: version
-bip_39_word_dash_10: version-session-panda-visa-pet-correct-stairs-disease-kidney-mimic
-bip_39_word_dash_11: version-session-panda-visa-pet-correct-stairs-disease-kidney-mimic-seat
 bip_39_word_dash_12: version-session-panda-visa-pet-correct-stairs-disease-kidney-mimic-seat-average
 bip_39_word_dash_2: version-session
 bip_39_word_dash_3: version-session-panda
-bip_39_word_dash_4: version-session-panda-visa
-bip_39_word_dash_5: version-session-panda-visa-pet
-bip_39_word_dash_6: version-session-panda-visa-pet-correct
-bip_39_word_dash_7: version-session-panda-visa-pet-correct-stairs
-bip_39_word_dash_8: version-session-panda-visa-pet-correct-stairs-disease
-bip_39_word_dash_9: version-session-panda-visa-pet-correct-stairs-disease-kidney
-bip_39_word_new_br_1: version
-bip_39_word_new_br_10: version<br>session<br>panda<br>visa<br>pet<br>correct<br>stairs<br>disease<br>kidney<br>mimic
-bip_39_word_new_br_11: version<br>session<br>panda<br>visa<br>pet<br>correct<br>stairs<br>disease<br>kidney<br>mimic<br>seat
 bip_39_word_new_br_12: version<br>session<br>panda<br>visa<br>pet<br>correct<br>stairs<br>disease<br>kidney<br>mimic<br>seat<br>average
 bip_39_word_new_br_2: version<br>session
 bip_39_word_new_br_3: version<br>session<br>panda
-bip_39_word_new_br_4: version<br>session<br>panda<br>visa
-bip_39_word_new_br_5: version<br>session<br>panda<br>visa<br>pet
-bip_39_word_new_br_6: version<br>session<br>panda<br>visa<br>pet<br>correct
-bip_39_word_new_br_7: version<br>session<br>panda<br>visa<br>pet<br>correct<br>stairs
-bip_39_word_new_br_8: version<br>session<br>panda<br>visa<br>pet<br>correct<br>stairs<br>disease
-bip_39_word_new_br_9: version<br>session<br>panda<br>visa<br>pet<br>correct<br>stairs<br>disease<br>kidney
-bip_39_word_new_line_1: version
-bip_39_word_new_line_10: 'version
-
-  session
-
-  panda
-
-  visa
-
-  pet
-
-  correct
-
-  stairs
-
-  disease
-
-  kidney
-
-  mimic'
-bip_39_word_new_line_11: 'version
-
-  session
-
-  panda
-
-  visa
-
-  pet
-
-  correct
-
-  stairs
-
-  disease
-
-  kidney
-
-  mimic
-
-  seat'
 bip_39_word_new_line_12: 'version
 
   session
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'version
   session
 
   panda'
-bip_39_word_new_line_4: 'version
-
-  session
-
-  panda
-
-  visa'
-bip_39_word_new_line_5: 'version
-
-  session
-
-  panda
-
-  visa
-
-  pet'
-bip_39_word_new_line_6: 'version
-
-  session
-
-  panda
-
-  visa
-
-  pet
-
-  correct'
-bip_39_word_new_line_7: 'version
-
-  session
-
-  panda
-
-  visa
-
-  pet
-
-  correct
-
-  stairs'
-bip_39_word_new_line_8: 'version
-
-  session
-
-  panda
-
-  visa
-
-  pet
-
-  correct
-
-  stairs
-
-  disease'
-bip_39_word_new_line_9: 'version
-
-  session
-
-  panda
-
-  visa
-
-  pet
-
-  correct
-
-  stairs
-
-  disease
-
-  kidney'
-bip_39_word_no_space_1: version
-bip_39_word_no_space_10: versionsessionpandavisapetcorrectstairsdiseasekidneymimic
-bip_39_word_no_space_11: versionsessionpandavisapetcorrectstairsdiseasekidneymimicseat
 bip_39_word_no_space_12: versionsessionpandavisapetcorrectstairsdiseasekidneymimicseataverage
 bip_39_word_no_space_2: versionsession
 bip_39_word_no_space_3: versionsessionpanda
-bip_39_word_no_space_4: versionsessionpandavisa
-bip_39_word_no_space_5: versionsessionpandavisapet
-bip_39_word_no_space_6: versionsessionpandavisapetcorrect
-bip_39_word_no_space_7: versionsessionpandavisapetcorrectstairs
-bip_39_word_no_space_8: versionsessionpandavisapetcorrectstairsdisease
-bip_39_word_no_space_9: versionsessionpandavisapetcorrectstairsdiseasekidney
-bip_39_word_space_0:
-- version
-- session
-- panda
-- visa
-- pet
-- correct
-- stairs
-- disease
-- kidney
-- mimic
-- seat
-- average
-bip_39_word_space_1: version
-bip_39_word_space_10: version session panda visa pet correct stairs disease kidney
-  mimic
-bip_39_word_space_11: version session panda visa pet correct stairs disease kidney
-  mimic seat
 bip_39_word_space_12: version session panda visa pet correct stairs disease kidney
   mimic seat average
 bip_39_word_space_2: version session
 bip_39_word_space_3: version session panda
-bip_39_word_space_4: version session panda visa
-bip_39_word_space_5: version session panda visa pet
-bip_39_word_space_6: version session panda visa pet correct
-bip_39_word_space_7: version session panda visa pet correct stairs
-bip_39_word_space_8: version session panda visa pet correct stairs disease
-bip_39_word_space_9: version session panda visa pet correct stairs disease kidney
-bip_39_word_underscore_1: version
-bip_39_word_underscore_10: version_session_panda_visa_pet_correct_stairs_disease_kidney_mimic
-bip_39_word_underscore_11: version_session_panda_visa_pet_correct_stairs_disease_kidney_mimic_seat
 bip_39_word_underscore_12: version_session_panda_visa_pet_correct_stairs_disease_kidney_mimic_seat_average
 bip_39_word_underscore_2: version_session
 bip_39_word_underscore_3: version_session_panda
-bip_39_word_underscore_4: version_session_panda_visa
-bip_39_word_underscore_5: version_session_panda_visa_pet
-bip_39_word_underscore_6: version_session_panda_visa_pet_correct
-bip_39_word_underscore_7: version_session_panda_visa_pet_correct_stairs
-bip_39_word_underscore_8: version_session_panda_visa_pet_correct_stairs_disease
-bip_39_word_underscore_9: version_session_panda_visa_pet_correct_stairs_disease_kidney
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

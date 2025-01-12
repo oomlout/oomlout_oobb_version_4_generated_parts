@@ -1,68 +1,9 @@
-bip_39_word_dash_1: pulp
-bip_39_word_dash_10: pulp-lamp-settle-merry-demand-topple-staff-impact-fall-nephew
-bip_39_word_dash_11: pulp-lamp-settle-merry-demand-topple-staff-impact-fall-nephew-cinnamon
 bip_39_word_dash_12: pulp-lamp-settle-merry-demand-topple-staff-impact-fall-nephew-cinnamon-aunt
 bip_39_word_dash_2: pulp-lamp
 bip_39_word_dash_3: pulp-lamp-settle
-bip_39_word_dash_4: pulp-lamp-settle-merry
-bip_39_word_dash_5: pulp-lamp-settle-merry-demand
-bip_39_word_dash_6: pulp-lamp-settle-merry-demand-topple
-bip_39_word_dash_7: pulp-lamp-settle-merry-demand-topple-staff
-bip_39_word_dash_8: pulp-lamp-settle-merry-demand-topple-staff-impact
-bip_39_word_dash_9: pulp-lamp-settle-merry-demand-topple-staff-impact-fall
-bip_39_word_new_br_1: pulp
-bip_39_word_new_br_10: pulp<br>lamp<br>settle<br>merry<br>demand<br>topple<br>staff<br>impact<br>fall<br>nephew
-bip_39_word_new_br_11: pulp<br>lamp<br>settle<br>merry<br>demand<br>topple<br>staff<br>impact<br>fall<br>nephew<br>cinnamon
 bip_39_word_new_br_12: pulp<br>lamp<br>settle<br>merry<br>demand<br>topple<br>staff<br>impact<br>fall<br>nephew<br>cinnamon<br>aunt
 bip_39_word_new_br_2: pulp<br>lamp
 bip_39_word_new_br_3: pulp<br>lamp<br>settle
-bip_39_word_new_br_4: pulp<br>lamp<br>settle<br>merry
-bip_39_word_new_br_5: pulp<br>lamp<br>settle<br>merry<br>demand
-bip_39_word_new_br_6: pulp<br>lamp<br>settle<br>merry<br>demand<br>topple
-bip_39_word_new_br_7: pulp<br>lamp<br>settle<br>merry<br>demand<br>topple<br>staff
-bip_39_word_new_br_8: pulp<br>lamp<br>settle<br>merry<br>demand<br>topple<br>staff<br>impact
-bip_39_word_new_br_9: pulp<br>lamp<br>settle<br>merry<br>demand<br>topple<br>staff<br>impact<br>fall
-bip_39_word_new_line_1: pulp
-bip_39_word_new_line_10: 'pulp
-
-  lamp
-
-  settle
-
-  merry
-
-  demand
-
-  topple
-
-  staff
-
-  impact
-
-  fall
-
-  nephew'
-bip_39_word_new_line_11: 'pulp
-
-  lamp
-
-  settle
-
-  merry
-
-  demand
-
-  topple
-
-  staff
-
-  impact
-
-  fall
-
-  nephew
-
-  cinnamon'
 bip_39_word_new_line_12: 'pulp
 
   lamp
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'pulp
   lamp
 
   settle'
-bip_39_word_new_line_4: 'pulp
-
-  lamp
-
-  settle
-
-  merry'
-bip_39_word_new_line_5: 'pulp
-
-  lamp
-
-  settle
-
-  merry
-
-  demand'
-bip_39_word_new_line_6: 'pulp
-
-  lamp
-
-  settle
-
-  merry
-
-  demand
-
-  topple'
-bip_39_word_new_line_7: 'pulp
-
-  lamp
-
-  settle
-
-  merry
-
-  demand
-
-  topple
-
-  staff'
-bip_39_word_new_line_8: 'pulp
-
-  lamp
-
-  settle
-
-  merry
-
-  demand
-
-  topple
-
-  staff
-
-  impact'
-bip_39_word_new_line_9: 'pulp
-
-  lamp
-
-  settle
-
-  merry
-
-  demand
-
-  topple
-
-  staff
-
-  impact
-
-  fall'
-bip_39_word_no_space_1: pulp
-bip_39_word_no_space_10: pulplampsettlemerrydemandtopplestaffimpactfallnephew
-bip_39_word_no_space_11: pulplampsettlemerrydemandtopplestaffimpactfallnephewcinnamon
 bip_39_word_no_space_12: pulplampsettlemerrydemandtopplestaffimpactfallnephewcinnamonaunt
 bip_39_word_no_space_2: pulplamp
 bip_39_word_no_space_3: pulplampsettle
-bip_39_word_no_space_4: pulplampsettlemerry
-bip_39_word_no_space_5: pulplampsettlemerrydemand
-bip_39_word_no_space_6: pulplampsettlemerrydemandtopple
-bip_39_word_no_space_7: pulplampsettlemerrydemandtopplestaff
-bip_39_word_no_space_8: pulplampsettlemerrydemandtopplestaffimpact
-bip_39_word_no_space_9: pulplampsettlemerrydemandtopplestaffimpactfall
-bip_39_word_space_0:
-- pulp
-- lamp
-- settle
-- merry
-- demand
-- topple
-- staff
-- impact
-- fall
-- nephew
-- cinnamon
-- aunt
-bip_39_word_space_1: pulp
-bip_39_word_space_10: pulp lamp settle merry demand topple staff impact fall nephew
-bip_39_word_space_11: pulp lamp settle merry demand topple staff impact fall nephew
-  cinnamon
 bip_39_word_space_12: pulp lamp settle merry demand topple staff impact fall nephew
   cinnamon aunt
 bip_39_word_space_2: pulp lamp
 bip_39_word_space_3: pulp lamp settle
-bip_39_word_space_4: pulp lamp settle merry
-bip_39_word_space_5: pulp lamp settle merry demand
-bip_39_word_space_6: pulp lamp settle merry demand topple
-bip_39_word_space_7: pulp lamp settle merry demand topple staff
-bip_39_word_space_8: pulp lamp settle merry demand topple staff impact
-bip_39_word_space_9: pulp lamp settle merry demand topple staff impact fall
-bip_39_word_underscore_1: pulp
-bip_39_word_underscore_10: pulp_lamp_settle_merry_demand_topple_staff_impact_fall_nephew
-bip_39_word_underscore_11: pulp_lamp_settle_merry_demand_topple_staff_impact_fall_nephew_cinnamon
 bip_39_word_underscore_12: pulp_lamp_settle_merry_demand_topple_staff_impact_fall_nephew_cinnamon_aunt
 bip_39_word_underscore_2: pulp_lamp
 bip_39_word_underscore_3: pulp_lamp_settle
-bip_39_word_underscore_4: pulp_lamp_settle_merry
-bip_39_word_underscore_5: pulp_lamp_settle_merry_demand
-bip_39_word_underscore_6: pulp_lamp_settle_merry_demand_topple
-bip_39_word_underscore_7: pulp_lamp_settle_merry_demand_topple_staff
-bip_39_word_underscore_8: pulp_lamp_settle_merry_demand_topple_staff_impact
-bip_39_word_underscore_9: pulp_lamp_settle_merry_demand_topple_staff_impact_fall
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

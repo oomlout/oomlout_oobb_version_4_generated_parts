@@ -1,68 +1,9 @@
-bip_39_word_dash_1: feature
-bip_39_word_dash_10: feature-pluck-truck-exile-junior-farm-nut-fault-hole-valve
-bip_39_word_dash_11: feature-pluck-truck-exile-junior-farm-nut-fault-hole-valve-grit
 bip_39_word_dash_12: feature-pluck-truck-exile-junior-farm-nut-fault-hole-valve-grit-aunt
 bip_39_word_dash_2: feature-pluck
 bip_39_word_dash_3: feature-pluck-truck
-bip_39_word_dash_4: feature-pluck-truck-exile
-bip_39_word_dash_5: feature-pluck-truck-exile-junior
-bip_39_word_dash_6: feature-pluck-truck-exile-junior-farm
-bip_39_word_dash_7: feature-pluck-truck-exile-junior-farm-nut
-bip_39_word_dash_8: feature-pluck-truck-exile-junior-farm-nut-fault
-bip_39_word_dash_9: feature-pluck-truck-exile-junior-farm-nut-fault-hole
-bip_39_word_new_br_1: feature
-bip_39_word_new_br_10: feature<br>pluck<br>truck<br>exile<br>junior<br>farm<br>nut<br>fault<br>hole<br>valve
-bip_39_word_new_br_11: feature<br>pluck<br>truck<br>exile<br>junior<br>farm<br>nut<br>fault<br>hole<br>valve<br>grit
 bip_39_word_new_br_12: feature<br>pluck<br>truck<br>exile<br>junior<br>farm<br>nut<br>fault<br>hole<br>valve<br>grit<br>aunt
 bip_39_word_new_br_2: feature<br>pluck
 bip_39_word_new_br_3: feature<br>pluck<br>truck
-bip_39_word_new_br_4: feature<br>pluck<br>truck<br>exile
-bip_39_word_new_br_5: feature<br>pluck<br>truck<br>exile<br>junior
-bip_39_word_new_br_6: feature<br>pluck<br>truck<br>exile<br>junior<br>farm
-bip_39_word_new_br_7: feature<br>pluck<br>truck<br>exile<br>junior<br>farm<br>nut
-bip_39_word_new_br_8: feature<br>pluck<br>truck<br>exile<br>junior<br>farm<br>nut<br>fault
-bip_39_word_new_br_9: feature<br>pluck<br>truck<br>exile<br>junior<br>farm<br>nut<br>fault<br>hole
-bip_39_word_new_line_1: feature
-bip_39_word_new_line_10: 'feature
-
-  pluck
-
-  truck
-
-  exile
-
-  junior
-
-  farm
-
-  nut
-
-  fault
-
-  hole
-
-  valve'
-bip_39_word_new_line_11: 'feature
-
-  pluck
-
-  truck
-
-  exile
-
-  junior
-
-  farm
-
-  nut
-
-  fault
-
-  hole
-
-  valve
-
-  grit'
 bip_39_word_new_line_12: 'feature
 
   pluck
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'feature
   pluck
 
   truck'
-bip_39_word_new_line_4: 'feature
-
-  pluck
-
-  truck
-
-  exile'
-bip_39_word_new_line_5: 'feature
-
-  pluck
-
-  truck
-
-  exile
-
-  junior'
-bip_39_word_new_line_6: 'feature
-
-  pluck
-
-  truck
-
-  exile
-
-  junior
-
-  farm'
-bip_39_word_new_line_7: 'feature
-
-  pluck
-
-  truck
-
-  exile
-
-  junior
-
-  farm
-
-  nut'
-bip_39_word_new_line_8: 'feature
-
-  pluck
-
-  truck
-
-  exile
-
-  junior
-
-  farm
-
-  nut
-
-  fault'
-bip_39_word_new_line_9: 'feature
-
-  pluck
-
-  truck
-
-  exile
-
-  junior
-
-  farm
-
-  nut
-
-  fault
-
-  hole'
-bip_39_word_no_space_1: feature
-bip_39_word_no_space_10: featureplucktruckexilejuniorfarmnutfaultholevalve
-bip_39_word_no_space_11: featureplucktruckexilejuniorfarmnutfaultholevalvegrit
 bip_39_word_no_space_12: featureplucktruckexilejuniorfarmnutfaultholevalvegritaunt
 bip_39_word_no_space_2: featurepluck
 bip_39_word_no_space_3: featureplucktruck
-bip_39_word_no_space_4: featureplucktruckexile
-bip_39_word_no_space_5: featureplucktruckexilejunior
-bip_39_word_no_space_6: featureplucktruckexilejuniorfarm
-bip_39_word_no_space_7: featureplucktruckexilejuniorfarmnut
-bip_39_word_no_space_8: featureplucktruckexilejuniorfarmnutfault
-bip_39_word_no_space_9: featureplucktruckexilejuniorfarmnutfaulthole
-bip_39_word_space_0:
-- feature
-- pluck
-- truck
-- exile
-- junior
-- farm
-- nut
-- fault
-- hole
-- valve
-- grit
-- aunt
-bip_39_word_space_1: feature
-bip_39_word_space_10: feature pluck truck exile junior farm nut fault hole valve
-bip_39_word_space_11: feature pluck truck exile junior farm nut fault hole valve grit
 bip_39_word_space_12: feature pluck truck exile junior farm nut fault hole valve grit
   aunt
 bip_39_word_space_2: feature pluck
 bip_39_word_space_3: feature pluck truck
-bip_39_word_space_4: feature pluck truck exile
-bip_39_word_space_5: feature pluck truck exile junior
-bip_39_word_space_6: feature pluck truck exile junior farm
-bip_39_word_space_7: feature pluck truck exile junior farm nut
-bip_39_word_space_8: feature pluck truck exile junior farm nut fault
-bip_39_word_space_9: feature pluck truck exile junior farm nut fault hole
-bip_39_word_underscore_1: feature
-bip_39_word_underscore_10: feature_pluck_truck_exile_junior_farm_nut_fault_hole_valve
-bip_39_word_underscore_11: feature_pluck_truck_exile_junior_farm_nut_fault_hole_valve_grit
 bip_39_word_underscore_12: feature_pluck_truck_exile_junior_farm_nut_fault_hole_valve_grit_aunt
 bip_39_word_underscore_2: feature_pluck
 bip_39_word_underscore_3: feature_pluck_truck
-bip_39_word_underscore_4: feature_pluck_truck_exile
-bip_39_word_underscore_5: feature_pluck_truck_exile_junior
-bip_39_word_underscore_6: feature_pluck_truck_exile_junior_farm
-bip_39_word_underscore_7: feature_pluck_truck_exile_junior_farm_nut
-bip_39_word_underscore_8: feature_pluck_truck_exile_junior_farm_nut_fault
-bip_39_word_underscore_9: feature_pluck_truck_exile_junior_farm_nut_fault_hole
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

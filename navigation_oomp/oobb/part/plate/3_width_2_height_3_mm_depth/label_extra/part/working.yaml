@@ -1,68 +1,9 @@
-bip_39_word_dash_1: require
-bip_39_word_dash_10: require-earn-cruel-ostrich-scale-plunge-abandon-bracket-victory-abandon
-bip_39_word_dash_11: require-earn-cruel-ostrich-scale-plunge-abandon-bracket-victory-abandon-author
 bip_39_word_dash_12: require-earn-cruel-ostrich-scale-plunge-abandon-bracket-victory-abandon-author-anchor
 bip_39_word_dash_2: require-earn
 bip_39_word_dash_3: require-earn-cruel
-bip_39_word_dash_4: require-earn-cruel-ostrich
-bip_39_word_dash_5: require-earn-cruel-ostrich-scale
-bip_39_word_dash_6: require-earn-cruel-ostrich-scale-plunge
-bip_39_word_dash_7: require-earn-cruel-ostrich-scale-plunge-abandon
-bip_39_word_dash_8: require-earn-cruel-ostrich-scale-plunge-abandon-bracket
-bip_39_word_dash_9: require-earn-cruel-ostrich-scale-plunge-abandon-bracket-victory
-bip_39_word_new_br_1: require
-bip_39_word_new_br_10: require<br>earn<br>cruel<br>ostrich<br>scale<br>plunge<br>abandon<br>bracket<br>victory<br>abandon
-bip_39_word_new_br_11: require<br>earn<br>cruel<br>ostrich<br>scale<br>plunge<br>abandon<br>bracket<br>victory<br>abandon<br>author
 bip_39_word_new_br_12: require<br>earn<br>cruel<br>ostrich<br>scale<br>plunge<br>abandon<br>bracket<br>victory<br>abandon<br>author<br>anchor
 bip_39_word_new_br_2: require<br>earn
 bip_39_word_new_br_3: require<br>earn<br>cruel
-bip_39_word_new_br_4: require<br>earn<br>cruel<br>ostrich
-bip_39_word_new_br_5: require<br>earn<br>cruel<br>ostrich<br>scale
-bip_39_word_new_br_6: require<br>earn<br>cruel<br>ostrich<br>scale<br>plunge
-bip_39_word_new_br_7: require<br>earn<br>cruel<br>ostrich<br>scale<br>plunge<br>abandon
-bip_39_word_new_br_8: require<br>earn<br>cruel<br>ostrich<br>scale<br>plunge<br>abandon<br>bracket
-bip_39_word_new_br_9: require<br>earn<br>cruel<br>ostrich<br>scale<br>plunge<br>abandon<br>bracket<br>victory
-bip_39_word_new_line_1: require
-bip_39_word_new_line_10: 'require
-
-  earn
-
-  cruel
-
-  ostrich
-
-  scale
-
-  plunge
-
-  abandon
-
-  bracket
-
-  victory
-
-  abandon'
-bip_39_word_new_line_11: 'require
-
-  earn
-
-  cruel
-
-  ostrich
-
-  scale
-
-  plunge
-
-  abandon
-
-  bracket
-
-  victory
-
-  abandon
-
-  author'
 bip_39_word_new_line_12: 'require
 
   earn
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'require
   earn
 
   cruel'
-bip_39_word_new_line_4: 'require
-
-  earn
-
-  cruel
-
-  ostrich'
-bip_39_word_new_line_5: 'require
-
-  earn
-
-  cruel
-
-  ostrich
-
-  scale'
-bip_39_word_new_line_6: 'require
-
-  earn
-
-  cruel
-
-  ostrich
-
-  scale
-
-  plunge'
-bip_39_word_new_line_7: 'require
-
-  earn
-
-  cruel
-
-  ostrich
-
-  scale
-
-  plunge
-
-  abandon'
-bip_39_word_new_line_8: 'require
-
-  earn
-
-  cruel
-
-  ostrich
-
-  scale
-
-  plunge
-
-  abandon
-
-  bracket'
-bip_39_word_new_line_9: 'require
-
-  earn
-
-  cruel
-
-  ostrich
-
-  scale
-
-  plunge
-
-  abandon
-
-  bracket
-
-  victory'
-bip_39_word_no_space_1: require
-bip_39_word_no_space_10: requireearncruelostrichscaleplungeabandonbracketvictoryabandon
-bip_39_word_no_space_11: requireearncruelostrichscaleplungeabandonbracketvictoryabandonauthor
 bip_39_word_no_space_12: requireearncruelostrichscaleplungeabandonbracketvictoryabandonauthoranchor
 bip_39_word_no_space_2: requireearn
 bip_39_word_no_space_3: requireearncruel
-bip_39_word_no_space_4: requireearncruelostrich
-bip_39_word_no_space_5: requireearncruelostrichscale
-bip_39_word_no_space_6: requireearncruelostrichscaleplunge
-bip_39_word_no_space_7: requireearncruelostrichscaleplungeabandon
-bip_39_word_no_space_8: requireearncruelostrichscaleplungeabandonbracket
-bip_39_word_no_space_9: requireearncruelostrichscaleplungeabandonbracketvictory
-bip_39_word_space_0:
-- require
-- earn
-- cruel
-- ostrich
-- scale
-- plunge
-- abandon
-- bracket
-- victory
-- abandon
-- author
-- anchor
-bip_39_word_space_1: require
-bip_39_word_space_10: require earn cruel ostrich scale plunge abandon bracket victory
-  abandon
-bip_39_word_space_11: require earn cruel ostrich scale plunge abandon bracket victory
-  abandon author
 bip_39_word_space_12: require earn cruel ostrich scale plunge abandon bracket victory
   abandon author anchor
 bip_39_word_space_2: require earn
 bip_39_word_space_3: require earn cruel
-bip_39_word_space_4: require earn cruel ostrich
-bip_39_word_space_5: require earn cruel ostrich scale
-bip_39_word_space_6: require earn cruel ostrich scale plunge
-bip_39_word_space_7: require earn cruel ostrich scale plunge abandon
-bip_39_word_space_8: require earn cruel ostrich scale plunge abandon bracket
-bip_39_word_space_9: require earn cruel ostrich scale plunge abandon bracket victory
-bip_39_word_underscore_1: require
-bip_39_word_underscore_10: require_earn_cruel_ostrich_scale_plunge_abandon_bracket_victory_abandon
-bip_39_word_underscore_11: require_earn_cruel_ostrich_scale_plunge_abandon_bracket_victory_abandon_author
 bip_39_word_underscore_12: require_earn_cruel_ostrich_scale_plunge_abandon_bracket_victory_abandon_author_anchor
 bip_39_word_underscore_2: require_earn
 bip_39_word_underscore_3: require_earn_cruel
-bip_39_word_underscore_4: require_earn_cruel_ostrich
-bip_39_word_underscore_5: require_earn_cruel_ostrich_scale
-bip_39_word_underscore_6: require_earn_cruel_ostrich_scale_plunge
-bip_39_word_underscore_7: require_earn_cruel_ostrich_scale_plunge_abandon
-bip_39_word_underscore_8: require_earn_cruel_ostrich_scale_plunge_abandon_bracket
-bip_39_word_underscore_9: require_earn_cruel_ostrich_scale_plunge_abandon_bracket_victory
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

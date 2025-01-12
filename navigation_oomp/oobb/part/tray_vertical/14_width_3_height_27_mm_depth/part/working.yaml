@@ -1,68 +1,9 @@
-bip_39_word_dash_1: color
-bip_39_word_dash_10: color-flight-toss-swift-level-gadget-pause-cup-frame-off
-bip_39_word_dash_11: color-flight-toss-swift-level-gadget-pause-cup-frame-off-audit
 bip_39_word_dash_12: color-flight-toss-swift-level-gadget-pause-cup-frame-off-audit-assault
 bip_39_word_dash_2: color-flight
 bip_39_word_dash_3: color-flight-toss
-bip_39_word_dash_4: color-flight-toss-swift
-bip_39_word_dash_5: color-flight-toss-swift-level
-bip_39_word_dash_6: color-flight-toss-swift-level-gadget
-bip_39_word_dash_7: color-flight-toss-swift-level-gadget-pause
-bip_39_word_dash_8: color-flight-toss-swift-level-gadget-pause-cup
-bip_39_word_dash_9: color-flight-toss-swift-level-gadget-pause-cup-frame
-bip_39_word_new_br_1: color
-bip_39_word_new_br_10: color<br>flight<br>toss<br>swift<br>level<br>gadget<br>pause<br>cup<br>frame<br>off
-bip_39_word_new_br_11: color<br>flight<br>toss<br>swift<br>level<br>gadget<br>pause<br>cup<br>frame<br>off<br>audit
 bip_39_word_new_br_12: color<br>flight<br>toss<br>swift<br>level<br>gadget<br>pause<br>cup<br>frame<br>off<br>audit<br>assault
 bip_39_word_new_br_2: color<br>flight
 bip_39_word_new_br_3: color<br>flight<br>toss
-bip_39_word_new_br_4: color<br>flight<br>toss<br>swift
-bip_39_word_new_br_5: color<br>flight<br>toss<br>swift<br>level
-bip_39_word_new_br_6: color<br>flight<br>toss<br>swift<br>level<br>gadget
-bip_39_word_new_br_7: color<br>flight<br>toss<br>swift<br>level<br>gadget<br>pause
-bip_39_word_new_br_8: color<br>flight<br>toss<br>swift<br>level<br>gadget<br>pause<br>cup
-bip_39_word_new_br_9: color<br>flight<br>toss<br>swift<br>level<br>gadget<br>pause<br>cup<br>frame
-bip_39_word_new_line_1: color
-bip_39_word_new_line_10: 'color
-
-  flight
-
-  toss
-
-  swift
-
-  level
-
-  gadget
-
-  pause
-
-  cup
-
-  frame
-
-  off'
-bip_39_word_new_line_11: 'color
-
-  flight
-
-  toss
-
-  swift
-
-  level
-
-  gadget
-
-  pause
-
-  cup
-
-  frame
-
-  off
-
-  audit'
 bip_39_word_new_line_12: 'color
 
   flight
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'color
   flight
 
   toss'
-bip_39_word_new_line_4: 'color
-
-  flight
-
-  toss
-
-  swift'
-bip_39_word_new_line_5: 'color
-
-  flight
-
-  toss
-
-  swift
-
-  level'
-bip_39_word_new_line_6: 'color
-
-  flight
-
-  toss
-
-  swift
-
-  level
-
-  gadget'
-bip_39_word_new_line_7: 'color
-
-  flight
-
-  toss
-
-  swift
-
-  level
-
-  gadget
-
-  pause'
-bip_39_word_new_line_8: 'color
-
-  flight
-
-  toss
-
-  swift
-
-  level
-
-  gadget
-
-  pause
-
-  cup'
-bip_39_word_new_line_9: 'color
-
-  flight
-
-  toss
-
-  swift
-
-  level
-
-  gadget
-
-  pause
-
-  cup
-
-  frame'
-bip_39_word_no_space_1: color
-bip_39_word_no_space_10: colorflighttossswiftlevelgadgetpausecupframeoff
-bip_39_word_no_space_11: colorflighttossswiftlevelgadgetpausecupframeoffaudit
 bip_39_word_no_space_12: colorflighttossswiftlevelgadgetpausecupframeoffauditassault
 bip_39_word_no_space_2: colorflight
 bip_39_word_no_space_3: colorflighttoss
-bip_39_word_no_space_4: colorflighttossswift
-bip_39_word_no_space_5: colorflighttossswiftlevel
-bip_39_word_no_space_6: colorflighttossswiftlevelgadget
-bip_39_word_no_space_7: colorflighttossswiftlevelgadgetpause
-bip_39_word_no_space_8: colorflighttossswiftlevelgadgetpausecup
-bip_39_word_no_space_9: colorflighttossswiftlevelgadgetpausecupframe
-bip_39_word_space_0:
-- color
-- flight
-- toss
-- swift
-- level
-- gadget
-- pause
-- cup
-- frame
-- 'off'
-- audit
-- assault
-bip_39_word_space_1: color
-bip_39_word_space_10: color flight toss swift level gadget pause cup frame off
-bip_39_word_space_11: color flight toss swift level gadget pause cup frame off audit
 bip_39_word_space_12: color flight toss swift level gadget pause cup frame off audit
   assault
 bip_39_word_space_2: color flight
 bip_39_word_space_3: color flight toss
-bip_39_word_space_4: color flight toss swift
-bip_39_word_space_5: color flight toss swift level
-bip_39_word_space_6: color flight toss swift level gadget
-bip_39_word_space_7: color flight toss swift level gadget pause
-bip_39_word_space_8: color flight toss swift level gadget pause cup
-bip_39_word_space_9: color flight toss swift level gadget pause cup frame
-bip_39_word_underscore_1: color
-bip_39_word_underscore_10: color_flight_toss_swift_level_gadget_pause_cup_frame_off
-bip_39_word_underscore_11: color_flight_toss_swift_level_gadget_pause_cup_frame_off_audit
 bip_39_word_underscore_12: color_flight_toss_swift_level_gadget_pause_cup_frame_off_audit_assault
 bip_39_word_underscore_2: color_flight
 bip_39_word_underscore_3: color_flight_toss
-bip_39_word_underscore_4: color_flight_toss_swift
-bip_39_word_underscore_5: color_flight_toss_swift_level
-bip_39_word_underscore_6: color_flight_toss_swift_level_gadget
-bip_39_word_underscore_7: color_flight_toss_swift_level_gadget_pause
-bip_39_word_underscore_8: color_flight_toss_swift_level_gadget_pause_cup
-bip_39_word_underscore_9: color_flight_toss_swift_level_gadget_pause_cup_frame
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: upgrade
-bip_39_word_dash_10: upgrade-cactus-silent-wisdom-raven-laundry-supreme-cluster-match-cargo
-bip_39_word_dash_11: upgrade-cactus-silent-wisdom-raven-laundry-supreme-cluster-match-cargo-rude
 bip_39_word_dash_12: upgrade-cactus-silent-wisdom-raven-laundry-supreme-cluster-match-cargo-rude-arch
 bip_39_word_dash_2: upgrade-cactus
 bip_39_word_dash_3: upgrade-cactus-silent
-bip_39_word_dash_4: upgrade-cactus-silent-wisdom
-bip_39_word_dash_5: upgrade-cactus-silent-wisdom-raven
-bip_39_word_dash_6: upgrade-cactus-silent-wisdom-raven-laundry
-bip_39_word_dash_7: upgrade-cactus-silent-wisdom-raven-laundry-supreme
-bip_39_word_dash_8: upgrade-cactus-silent-wisdom-raven-laundry-supreme-cluster
-bip_39_word_dash_9: upgrade-cactus-silent-wisdom-raven-laundry-supreme-cluster-match
-bip_39_word_new_br_1: upgrade
-bip_39_word_new_br_10: upgrade<br>cactus<br>silent<br>wisdom<br>raven<br>laundry<br>supreme<br>cluster<br>match<br>cargo
-bip_39_word_new_br_11: upgrade<br>cactus<br>silent<br>wisdom<br>raven<br>laundry<br>supreme<br>cluster<br>match<br>cargo<br>rude
 bip_39_word_new_br_12: upgrade<br>cactus<br>silent<br>wisdom<br>raven<br>laundry<br>supreme<br>cluster<br>match<br>cargo<br>rude<br>arch
 bip_39_word_new_br_2: upgrade<br>cactus
 bip_39_word_new_br_3: upgrade<br>cactus<br>silent
-bip_39_word_new_br_4: upgrade<br>cactus<br>silent<br>wisdom
-bip_39_word_new_br_5: upgrade<br>cactus<br>silent<br>wisdom<br>raven
-bip_39_word_new_br_6: upgrade<br>cactus<br>silent<br>wisdom<br>raven<br>laundry
-bip_39_word_new_br_7: upgrade<br>cactus<br>silent<br>wisdom<br>raven<br>laundry<br>supreme
-bip_39_word_new_br_8: upgrade<br>cactus<br>silent<br>wisdom<br>raven<br>laundry<br>supreme<br>cluster
-bip_39_word_new_br_9: upgrade<br>cactus<br>silent<br>wisdom<br>raven<br>laundry<br>supreme<br>cluster<br>match
-bip_39_word_new_line_1: upgrade
-bip_39_word_new_line_10: 'upgrade
-
-  cactus
-
-  silent
-
-  wisdom
-
-  raven
-
-  laundry
-
-  supreme
-
-  cluster
-
-  match
-
-  cargo'
-bip_39_word_new_line_11: 'upgrade
-
-  cactus
-
-  silent
-
-  wisdom
-
-  raven
-
-  laundry
-
-  supreme
-
-  cluster
-
-  match
-
-  cargo
-
-  rude'
 bip_39_word_new_line_12: 'upgrade
 
   cactus
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'upgrade
   cactus
 
   silent'
-bip_39_word_new_line_4: 'upgrade
-
-  cactus
-
-  silent
-
-  wisdom'
-bip_39_word_new_line_5: 'upgrade
-
-  cactus
-
-  silent
-
-  wisdom
-
-  raven'
-bip_39_word_new_line_6: 'upgrade
-
-  cactus
-
-  silent
-
-  wisdom
-
-  raven
-
-  laundry'
-bip_39_word_new_line_7: 'upgrade
-
-  cactus
-
-  silent
-
-  wisdom
-
-  raven
-
-  laundry
-
-  supreme'
-bip_39_word_new_line_8: 'upgrade
-
-  cactus
-
-  silent
-
-  wisdom
-
-  raven
-
-  laundry
-
-  supreme
-
-  cluster'
-bip_39_word_new_line_9: 'upgrade
-
-  cactus
-
-  silent
-
-  wisdom
-
-  raven
-
-  laundry
-
-  supreme
-
-  cluster
-
-  match'
-bip_39_word_no_space_1: upgrade
-bip_39_word_no_space_10: upgradecactussilentwisdomravenlaundrysupremeclustermatchcargo
-bip_39_word_no_space_11: upgradecactussilentwisdomravenlaundrysupremeclustermatchcargorude
 bip_39_word_no_space_12: upgradecactussilentwisdomravenlaundrysupremeclustermatchcargorudearch
 bip_39_word_no_space_2: upgradecactus
 bip_39_word_no_space_3: upgradecactussilent
-bip_39_word_no_space_4: upgradecactussilentwisdom
-bip_39_word_no_space_5: upgradecactussilentwisdomraven
-bip_39_word_no_space_6: upgradecactussilentwisdomravenlaundry
-bip_39_word_no_space_7: upgradecactussilentwisdomravenlaundrysupreme
-bip_39_word_no_space_8: upgradecactussilentwisdomravenlaundrysupremecluster
-bip_39_word_no_space_9: upgradecactussilentwisdomravenlaundrysupremeclustermatch
-bip_39_word_space_0:
-- upgrade
-- cactus
-- silent
-- wisdom
-- raven
-- laundry
-- supreme
-- cluster
-- match
-- cargo
-- rude
-- arch
-bip_39_word_space_1: upgrade
-bip_39_word_space_10: upgrade cactus silent wisdom raven laundry supreme cluster match
-  cargo
-bip_39_word_space_11: upgrade cactus silent wisdom raven laundry supreme cluster match
-  cargo rude
 bip_39_word_space_12: upgrade cactus silent wisdom raven laundry supreme cluster match
   cargo rude arch
 bip_39_word_space_2: upgrade cactus
 bip_39_word_space_3: upgrade cactus silent
-bip_39_word_space_4: upgrade cactus silent wisdom
-bip_39_word_space_5: upgrade cactus silent wisdom raven
-bip_39_word_space_6: upgrade cactus silent wisdom raven laundry
-bip_39_word_space_7: upgrade cactus silent wisdom raven laundry supreme
-bip_39_word_space_8: upgrade cactus silent wisdom raven laundry supreme cluster
-bip_39_word_space_9: upgrade cactus silent wisdom raven laundry supreme cluster match
-bip_39_word_underscore_1: upgrade
-bip_39_word_underscore_10: upgrade_cactus_silent_wisdom_raven_laundry_supreme_cluster_match_cargo
-bip_39_word_underscore_11: upgrade_cactus_silent_wisdom_raven_laundry_supreme_cluster_match_cargo_rude
 bip_39_word_underscore_12: upgrade_cactus_silent_wisdom_raven_laundry_supreme_cluster_match_cargo_rude_arch
 bip_39_word_underscore_2: upgrade_cactus
 bip_39_word_underscore_3: upgrade_cactus_silent
-bip_39_word_underscore_4: upgrade_cactus_silent_wisdom
-bip_39_word_underscore_5: upgrade_cactus_silent_wisdom_raven
-bip_39_word_underscore_6: upgrade_cactus_silent_wisdom_raven_laundry
-bip_39_word_underscore_7: upgrade_cactus_silent_wisdom_raven_laundry_supreme
-bip_39_word_underscore_8: upgrade_cactus_silent_wisdom_raven_laundry_supreme_cluster
-bip_39_word_underscore_9: upgrade_cactus_silent_wisdom_raven_laundry_supreme_cluster_match
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

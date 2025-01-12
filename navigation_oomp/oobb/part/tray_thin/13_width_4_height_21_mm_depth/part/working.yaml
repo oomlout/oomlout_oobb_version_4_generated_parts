@@ -1,68 +1,9 @@
-bip_39_word_dash_1: enroll
-bip_39_word_dash_10: enroll-nothing-multiply-little-coin-inflict-apple-dumb-body-limit
-bip_39_word_dash_11: enroll-nothing-multiply-little-coin-inflict-apple-dumb-body-limit-axis
 bip_39_word_dash_12: enroll-nothing-multiply-little-coin-inflict-apple-dumb-body-limit-axis-apart
 bip_39_word_dash_2: enroll-nothing
 bip_39_word_dash_3: enroll-nothing-multiply
-bip_39_word_dash_4: enroll-nothing-multiply-little
-bip_39_word_dash_5: enroll-nothing-multiply-little-coin
-bip_39_word_dash_6: enroll-nothing-multiply-little-coin-inflict
-bip_39_word_dash_7: enroll-nothing-multiply-little-coin-inflict-apple
-bip_39_word_dash_8: enroll-nothing-multiply-little-coin-inflict-apple-dumb
-bip_39_word_dash_9: enroll-nothing-multiply-little-coin-inflict-apple-dumb-body
-bip_39_word_new_br_1: enroll
-bip_39_word_new_br_10: enroll<br>nothing<br>multiply<br>little<br>coin<br>inflict<br>apple<br>dumb<br>body<br>limit
-bip_39_word_new_br_11: enroll<br>nothing<br>multiply<br>little<br>coin<br>inflict<br>apple<br>dumb<br>body<br>limit<br>axis
 bip_39_word_new_br_12: enroll<br>nothing<br>multiply<br>little<br>coin<br>inflict<br>apple<br>dumb<br>body<br>limit<br>axis<br>apart
 bip_39_word_new_br_2: enroll<br>nothing
 bip_39_word_new_br_3: enroll<br>nothing<br>multiply
-bip_39_word_new_br_4: enroll<br>nothing<br>multiply<br>little
-bip_39_word_new_br_5: enroll<br>nothing<br>multiply<br>little<br>coin
-bip_39_word_new_br_6: enroll<br>nothing<br>multiply<br>little<br>coin<br>inflict
-bip_39_word_new_br_7: enroll<br>nothing<br>multiply<br>little<br>coin<br>inflict<br>apple
-bip_39_word_new_br_8: enroll<br>nothing<br>multiply<br>little<br>coin<br>inflict<br>apple<br>dumb
-bip_39_word_new_br_9: enroll<br>nothing<br>multiply<br>little<br>coin<br>inflict<br>apple<br>dumb<br>body
-bip_39_word_new_line_1: enroll
-bip_39_word_new_line_10: 'enroll
-
-  nothing
-
-  multiply
-
-  little
-
-  coin
-
-  inflict
-
-  apple
-
-  dumb
-
-  body
-
-  limit'
-bip_39_word_new_line_11: 'enroll
-
-  nothing
-
-  multiply
-
-  little
-
-  coin
-
-  inflict
-
-  apple
-
-  dumb
-
-  body
-
-  limit
-
-  axis'
 bip_39_word_new_line_12: 'enroll
 
   nothing
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'enroll
   nothing
 
   multiply'
-bip_39_word_new_line_4: 'enroll
-
-  nothing
-
-  multiply
-
-  little'
-bip_39_word_new_line_5: 'enroll
-
-  nothing
-
-  multiply
-
-  little
-
-  coin'
-bip_39_word_new_line_6: 'enroll
-
-  nothing
-
-  multiply
-
-  little
-
-  coin
-
-  inflict'
-bip_39_word_new_line_7: 'enroll
-
-  nothing
-
-  multiply
-
-  little
-
-  coin
-
-  inflict
-
-  apple'
-bip_39_word_new_line_8: 'enroll
-
-  nothing
-
-  multiply
-
-  little
-
-  coin
-
-  inflict
-
-  apple
-
-  dumb'
-bip_39_word_new_line_9: 'enroll
-
-  nothing
-
-  multiply
-
-  little
-
-  coin
-
-  inflict
-
-  apple
-
-  dumb
-
-  body'
-bip_39_word_no_space_1: enroll
-bip_39_word_no_space_10: enrollnothingmultiplylittlecoininflictappledumbbodylimit
-bip_39_word_no_space_11: enrollnothingmultiplylittlecoininflictappledumbbodylimitaxis
 bip_39_word_no_space_12: enrollnothingmultiplylittlecoininflictappledumbbodylimitaxisapart
 bip_39_word_no_space_2: enrollnothing
 bip_39_word_no_space_3: enrollnothingmultiply
-bip_39_word_no_space_4: enrollnothingmultiplylittle
-bip_39_word_no_space_5: enrollnothingmultiplylittlecoin
-bip_39_word_no_space_6: enrollnothingmultiplylittlecoininflict
-bip_39_word_no_space_7: enrollnothingmultiplylittlecoininflictapple
-bip_39_word_no_space_8: enrollnothingmultiplylittlecoininflictappledumb
-bip_39_word_no_space_9: enrollnothingmultiplylittlecoininflictappledumbbody
-bip_39_word_space_0:
-- enroll
-- nothing
-- multiply
-- little
-- coin
-- inflict
-- apple
-- dumb
-- body
-- limit
-- axis
-- apart
-bip_39_word_space_1: enroll
-bip_39_word_space_10: enroll nothing multiply little coin inflict apple dumb body
-  limit
-bip_39_word_space_11: enroll nothing multiply little coin inflict apple dumb body
-  limit axis
 bip_39_word_space_12: enroll nothing multiply little coin inflict apple dumb body
   limit axis apart
 bip_39_word_space_2: enroll nothing
 bip_39_word_space_3: enroll nothing multiply
-bip_39_word_space_4: enroll nothing multiply little
-bip_39_word_space_5: enroll nothing multiply little coin
-bip_39_word_space_6: enroll nothing multiply little coin inflict
-bip_39_word_space_7: enroll nothing multiply little coin inflict apple
-bip_39_word_space_8: enroll nothing multiply little coin inflict apple dumb
-bip_39_word_space_9: enroll nothing multiply little coin inflict apple dumb body
-bip_39_word_underscore_1: enroll
-bip_39_word_underscore_10: enroll_nothing_multiply_little_coin_inflict_apple_dumb_body_limit
-bip_39_word_underscore_11: enroll_nothing_multiply_little_coin_inflict_apple_dumb_body_limit_axis
 bip_39_word_underscore_12: enroll_nothing_multiply_little_coin_inflict_apple_dumb_body_limit_axis_apart
 bip_39_word_underscore_2: enroll_nothing
 bip_39_word_underscore_3: enroll_nothing_multiply
-bip_39_word_underscore_4: enroll_nothing_multiply_little
-bip_39_word_underscore_5: enroll_nothing_multiply_little_coin
-bip_39_word_underscore_6: enroll_nothing_multiply_little_coin_inflict
-bip_39_word_underscore_7: enroll_nothing_multiply_little_coin_inflict_apple
-bip_39_word_underscore_8: enroll_nothing_multiply_little_coin_inflict_apple_dumb
-bip_39_word_underscore_9: enroll_nothing_multiply_little_coin_inflict_apple_dumb_body
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

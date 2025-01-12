@@ -1,68 +1,9 @@
-bip_39_word_dash_1: require
-bip_39_word_dash_10: require-subway-hope-emerge-other-auction-viable-wreck-plate-drip
-bip_39_word_dash_11: require-subway-hope-emerge-other-auction-viable-wreck-plate-drip-unfold
 bip_39_word_dash_12: require-subway-hope-emerge-other-auction-viable-wreck-plate-drip-unfold-auction
 bip_39_word_dash_2: require-subway
 bip_39_word_dash_3: require-subway-hope
-bip_39_word_dash_4: require-subway-hope-emerge
-bip_39_word_dash_5: require-subway-hope-emerge-other
-bip_39_word_dash_6: require-subway-hope-emerge-other-auction
-bip_39_word_dash_7: require-subway-hope-emerge-other-auction-viable
-bip_39_word_dash_8: require-subway-hope-emerge-other-auction-viable-wreck
-bip_39_word_dash_9: require-subway-hope-emerge-other-auction-viable-wreck-plate
-bip_39_word_new_br_1: require
-bip_39_word_new_br_10: require<br>subway<br>hope<br>emerge<br>other<br>auction<br>viable<br>wreck<br>plate<br>drip
-bip_39_word_new_br_11: require<br>subway<br>hope<br>emerge<br>other<br>auction<br>viable<br>wreck<br>plate<br>drip<br>unfold
 bip_39_word_new_br_12: require<br>subway<br>hope<br>emerge<br>other<br>auction<br>viable<br>wreck<br>plate<br>drip<br>unfold<br>auction
 bip_39_word_new_br_2: require<br>subway
 bip_39_word_new_br_3: require<br>subway<br>hope
-bip_39_word_new_br_4: require<br>subway<br>hope<br>emerge
-bip_39_word_new_br_5: require<br>subway<br>hope<br>emerge<br>other
-bip_39_word_new_br_6: require<br>subway<br>hope<br>emerge<br>other<br>auction
-bip_39_word_new_br_7: require<br>subway<br>hope<br>emerge<br>other<br>auction<br>viable
-bip_39_word_new_br_8: require<br>subway<br>hope<br>emerge<br>other<br>auction<br>viable<br>wreck
-bip_39_word_new_br_9: require<br>subway<br>hope<br>emerge<br>other<br>auction<br>viable<br>wreck<br>plate
-bip_39_word_new_line_1: require
-bip_39_word_new_line_10: 'require
-
-  subway
-
-  hope
-
-  emerge
-
-  other
-
-  auction
-
-  viable
-
-  wreck
-
-  plate
-
-  drip'
-bip_39_word_new_line_11: 'require
-
-  subway
-
-  hope
-
-  emerge
-
-  other
-
-  auction
-
-  viable
-
-  wreck
-
-  plate
-
-  drip
-
-  unfold'
 bip_39_word_new_line_12: 'require
 
   subway
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'require
   subway
 
   hope'
-bip_39_word_new_line_4: 'require
-
-  subway
-
-  hope
-
-  emerge'
-bip_39_word_new_line_5: 'require
-
-  subway
-
-  hope
-
-  emerge
-
-  other'
-bip_39_word_new_line_6: 'require
-
-  subway
-
-  hope
-
-  emerge
-
-  other
-
-  auction'
-bip_39_word_new_line_7: 'require
-
-  subway
-
-  hope
-
-  emerge
-
-  other
-
-  auction
-
-  viable'
-bip_39_word_new_line_8: 'require
-
-  subway
-
-  hope
-
-  emerge
-
-  other
-
-  auction
-
-  viable
-
-  wreck'
-bip_39_word_new_line_9: 'require
-
-  subway
-
-  hope
-
-  emerge
-
-  other
-
-  auction
-
-  viable
-
-  wreck
-
-  plate'
-bip_39_word_no_space_1: require
-bip_39_word_no_space_10: requiresubwayhopeemergeotherauctionviablewreckplatedrip
-bip_39_word_no_space_11: requiresubwayhopeemergeotherauctionviablewreckplatedripunfold
 bip_39_word_no_space_12: requiresubwayhopeemergeotherauctionviablewreckplatedripunfoldauction
 bip_39_word_no_space_2: requiresubway
 bip_39_word_no_space_3: requiresubwayhope
-bip_39_word_no_space_4: requiresubwayhopeemerge
-bip_39_word_no_space_5: requiresubwayhopeemergeother
-bip_39_word_no_space_6: requiresubwayhopeemergeotherauction
-bip_39_word_no_space_7: requiresubwayhopeemergeotherauctionviable
-bip_39_word_no_space_8: requiresubwayhopeemergeotherauctionviablewreck
-bip_39_word_no_space_9: requiresubwayhopeemergeotherauctionviablewreckplate
-bip_39_word_space_0:
-- require
-- subway
-- hope
-- emerge
-- other
-- auction
-- viable
-- wreck
-- plate
-- drip
-- unfold
-- auction
-bip_39_word_space_1: require
-bip_39_word_space_10: require subway hope emerge other auction viable wreck plate
-  drip
-bip_39_word_space_11: require subway hope emerge other auction viable wreck plate
-  drip unfold
 bip_39_word_space_12: require subway hope emerge other auction viable wreck plate
   drip unfold auction
 bip_39_word_space_2: require subway
 bip_39_word_space_3: require subway hope
-bip_39_word_space_4: require subway hope emerge
-bip_39_word_space_5: require subway hope emerge other
-bip_39_word_space_6: require subway hope emerge other auction
-bip_39_word_space_7: require subway hope emerge other auction viable
-bip_39_word_space_8: require subway hope emerge other auction viable wreck
-bip_39_word_space_9: require subway hope emerge other auction viable wreck plate
-bip_39_word_underscore_1: require
-bip_39_word_underscore_10: require_subway_hope_emerge_other_auction_viable_wreck_plate_drip
-bip_39_word_underscore_11: require_subway_hope_emerge_other_auction_viable_wreck_plate_drip_unfold
 bip_39_word_underscore_12: require_subway_hope_emerge_other_auction_viable_wreck_plate_drip_unfold_auction
 bip_39_word_underscore_2: require_subway
 bip_39_word_underscore_3: require_subway_hope
-bip_39_word_underscore_4: require_subway_hope_emerge
-bip_39_word_underscore_5: require_subway_hope_emerge_other
-bip_39_word_underscore_6: require_subway_hope_emerge_other_auction
-bip_39_word_underscore_7: require_subway_hope_emerge_other_auction_viable
-bip_39_word_underscore_8: require_subway_hope_emerge_other_auction_viable_wreck
-bip_39_word_underscore_9: require_subway_hope_emerge_other_auction_viable_wreck_plate
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

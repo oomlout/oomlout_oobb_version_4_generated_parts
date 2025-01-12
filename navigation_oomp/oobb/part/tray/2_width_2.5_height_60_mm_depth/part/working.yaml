@@ -1,68 +1,9 @@
-bip_39_word_dash_1: region
-bip_39_word_dash_10: region-broken-second-filter-involve-danger-century-leave-behind-judge
-bip_39_word_dash_11: region-broken-second-filter-involve-danger-century-leave-behind-judge-end
 bip_39_word_dash_12: region-broken-second-filter-involve-danger-century-leave-behind-judge-end-alter
 bip_39_word_dash_2: region-broken
 bip_39_word_dash_3: region-broken-second
-bip_39_word_dash_4: region-broken-second-filter
-bip_39_word_dash_5: region-broken-second-filter-involve
-bip_39_word_dash_6: region-broken-second-filter-involve-danger
-bip_39_word_dash_7: region-broken-second-filter-involve-danger-century
-bip_39_word_dash_8: region-broken-second-filter-involve-danger-century-leave
-bip_39_word_dash_9: region-broken-second-filter-involve-danger-century-leave-behind
-bip_39_word_new_br_1: region
-bip_39_word_new_br_10: region<br>broken<br>second<br>filter<br>involve<br>danger<br>century<br>leave<br>behind<br>judge
-bip_39_word_new_br_11: region<br>broken<br>second<br>filter<br>involve<br>danger<br>century<br>leave<br>behind<br>judge<br>end
 bip_39_word_new_br_12: region<br>broken<br>second<br>filter<br>involve<br>danger<br>century<br>leave<br>behind<br>judge<br>end<br>alter
 bip_39_word_new_br_2: region<br>broken
 bip_39_word_new_br_3: region<br>broken<br>second
-bip_39_word_new_br_4: region<br>broken<br>second<br>filter
-bip_39_word_new_br_5: region<br>broken<br>second<br>filter<br>involve
-bip_39_word_new_br_6: region<br>broken<br>second<br>filter<br>involve<br>danger
-bip_39_word_new_br_7: region<br>broken<br>second<br>filter<br>involve<br>danger<br>century
-bip_39_word_new_br_8: region<br>broken<br>second<br>filter<br>involve<br>danger<br>century<br>leave
-bip_39_word_new_br_9: region<br>broken<br>second<br>filter<br>involve<br>danger<br>century<br>leave<br>behind
-bip_39_word_new_line_1: region
-bip_39_word_new_line_10: 'region
-
-  broken
-
-  second
-
-  filter
-
-  involve
-
-  danger
-
-  century
-
-  leave
-
-  behind
-
-  judge'
-bip_39_word_new_line_11: 'region
-
-  broken
-
-  second
-
-  filter
-
-  involve
-
-  danger
-
-  century
-
-  leave
-
-  behind
-
-  judge
-
-  end'
 bip_39_word_new_line_12: 'region
 
   broken
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'region
   broken
 
   second'
-bip_39_word_new_line_4: 'region
-
-  broken
-
-  second
-
-  filter'
-bip_39_word_new_line_5: 'region
-
-  broken
-
-  second
-
-  filter
-
-  involve'
-bip_39_word_new_line_6: 'region
-
-  broken
-
-  second
-
-  filter
-
-  involve
-
-  danger'
-bip_39_word_new_line_7: 'region
-
-  broken
-
-  second
-
-  filter
-
-  involve
-
-  danger
-
-  century'
-bip_39_word_new_line_8: 'region
-
-  broken
-
-  second
-
-  filter
-
-  involve
-
-  danger
-
-  century
-
-  leave'
-bip_39_word_new_line_9: 'region
-
-  broken
-
-  second
-
-  filter
-
-  involve
-
-  danger
-
-  century
-
-  leave
-
-  behind'
-bip_39_word_no_space_1: region
-bip_39_word_no_space_10: regionbrokensecondfilterinvolvedangercenturyleavebehindjudge
-bip_39_word_no_space_11: regionbrokensecondfilterinvolvedangercenturyleavebehindjudgeend
 bip_39_word_no_space_12: regionbrokensecondfilterinvolvedangercenturyleavebehindjudgeendalter
 bip_39_word_no_space_2: regionbroken
 bip_39_word_no_space_3: regionbrokensecond
-bip_39_word_no_space_4: regionbrokensecondfilter
-bip_39_word_no_space_5: regionbrokensecondfilterinvolve
-bip_39_word_no_space_6: regionbrokensecondfilterinvolvedanger
-bip_39_word_no_space_7: regionbrokensecondfilterinvolvedangercentury
-bip_39_word_no_space_8: regionbrokensecondfilterinvolvedangercenturyleave
-bip_39_word_no_space_9: regionbrokensecondfilterinvolvedangercenturyleavebehind
-bip_39_word_space_0:
-- region
-- broken
-- second
-- filter
-- involve
-- danger
-- century
-- leave
-- behind
-- judge
-- end
-- alter
-bip_39_word_space_1: region
-bip_39_word_space_10: region broken second filter involve danger century leave behind
-  judge
-bip_39_word_space_11: region broken second filter involve danger century leave behind
-  judge end
 bip_39_word_space_12: region broken second filter involve danger century leave behind
   judge end alter
 bip_39_word_space_2: region broken
 bip_39_word_space_3: region broken second
-bip_39_word_space_4: region broken second filter
-bip_39_word_space_5: region broken second filter involve
-bip_39_word_space_6: region broken second filter involve danger
-bip_39_word_space_7: region broken second filter involve danger century
-bip_39_word_space_8: region broken second filter involve danger century leave
-bip_39_word_space_9: region broken second filter involve danger century leave behind
-bip_39_word_underscore_1: region
-bip_39_word_underscore_10: region_broken_second_filter_involve_danger_century_leave_behind_judge
-bip_39_word_underscore_11: region_broken_second_filter_involve_danger_century_leave_behind_judge_end
 bip_39_word_underscore_12: region_broken_second_filter_involve_danger_century_leave_behind_judge_end_alter
 bip_39_word_underscore_2: region_broken
 bip_39_word_underscore_3: region_broken_second
-bip_39_word_underscore_4: region_broken_second_filter
-bip_39_word_underscore_5: region_broken_second_filter_involve
-bip_39_word_underscore_6: region_broken_second_filter_involve_danger
-bip_39_word_underscore_7: region_broken_second_filter_involve_danger_century
-bip_39_word_underscore_8: region_broken_second_filter_involve_danger_century_leave
-bip_39_word_underscore_9: region_broken_second_filter_involve_danger_century_leave_behind
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

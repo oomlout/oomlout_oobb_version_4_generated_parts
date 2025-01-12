@@ -1,68 +1,9 @@
-bip_39_word_dash_1: drink
-bip_39_word_dash_10: drink-rhythm-divert-habit-latin-labor-thumb-opera-unfair-trust
-bip_39_word_dash_11: drink-rhythm-divert-habit-latin-labor-thumb-opera-unfair-trust-grief
 bip_39_word_dash_12: drink-rhythm-divert-habit-latin-labor-thumb-opera-unfair-trust-grief-admit
 bip_39_word_dash_2: drink-rhythm
 bip_39_word_dash_3: drink-rhythm-divert
-bip_39_word_dash_4: drink-rhythm-divert-habit
-bip_39_word_dash_5: drink-rhythm-divert-habit-latin
-bip_39_word_dash_6: drink-rhythm-divert-habit-latin-labor
-bip_39_word_dash_7: drink-rhythm-divert-habit-latin-labor-thumb
-bip_39_word_dash_8: drink-rhythm-divert-habit-latin-labor-thumb-opera
-bip_39_word_dash_9: drink-rhythm-divert-habit-latin-labor-thumb-opera-unfair
-bip_39_word_new_br_1: drink
-bip_39_word_new_br_10: drink<br>rhythm<br>divert<br>habit<br>latin<br>labor<br>thumb<br>opera<br>unfair<br>trust
-bip_39_word_new_br_11: drink<br>rhythm<br>divert<br>habit<br>latin<br>labor<br>thumb<br>opera<br>unfair<br>trust<br>grief
 bip_39_word_new_br_12: drink<br>rhythm<br>divert<br>habit<br>latin<br>labor<br>thumb<br>opera<br>unfair<br>trust<br>grief<br>admit
 bip_39_word_new_br_2: drink<br>rhythm
 bip_39_word_new_br_3: drink<br>rhythm<br>divert
-bip_39_word_new_br_4: drink<br>rhythm<br>divert<br>habit
-bip_39_word_new_br_5: drink<br>rhythm<br>divert<br>habit<br>latin
-bip_39_word_new_br_6: drink<br>rhythm<br>divert<br>habit<br>latin<br>labor
-bip_39_word_new_br_7: drink<br>rhythm<br>divert<br>habit<br>latin<br>labor<br>thumb
-bip_39_word_new_br_8: drink<br>rhythm<br>divert<br>habit<br>latin<br>labor<br>thumb<br>opera
-bip_39_word_new_br_9: drink<br>rhythm<br>divert<br>habit<br>latin<br>labor<br>thumb<br>opera<br>unfair
-bip_39_word_new_line_1: drink
-bip_39_word_new_line_10: 'drink
-
-  rhythm
-
-  divert
-
-  habit
-
-  latin
-
-  labor
-
-  thumb
-
-  opera
-
-  unfair
-
-  trust'
-bip_39_word_new_line_11: 'drink
-
-  rhythm
-
-  divert
-
-  habit
-
-  latin
-
-  labor
-
-  thumb
-
-  opera
-
-  unfair
-
-  trust
-
-  grief'
 bip_39_word_new_line_12: 'drink
 
   rhythm
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'drink
   rhythm
 
   divert'
-bip_39_word_new_line_4: 'drink
-
-  rhythm
-
-  divert
-
-  habit'
-bip_39_word_new_line_5: 'drink
-
-  rhythm
-
-  divert
-
-  habit
-
-  latin'
-bip_39_word_new_line_6: 'drink
-
-  rhythm
-
-  divert
-
-  habit
-
-  latin
-
-  labor'
-bip_39_word_new_line_7: 'drink
-
-  rhythm
-
-  divert
-
-  habit
-
-  latin
-
-  labor
-
-  thumb'
-bip_39_word_new_line_8: 'drink
-
-  rhythm
-
-  divert
-
-  habit
-
-  latin
-
-  labor
-
-  thumb
-
-  opera'
-bip_39_word_new_line_9: 'drink
-
-  rhythm
-
-  divert
-
-  habit
-
-  latin
-
-  labor
-
-  thumb
-
-  opera
-
-  unfair'
-bip_39_word_no_space_1: drink
-bip_39_word_no_space_10: drinkrhythmdiverthabitlatinlaborthumboperaunfairtrust
-bip_39_word_no_space_11: drinkrhythmdiverthabitlatinlaborthumboperaunfairtrustgrief
 bip_39_word_no_space_12: drinkrhythmdiverthabitlatinlaborthumboperaunfairtrustgriefadmit
 bip_39_word_no_space_2: drinkrhythm
 bip_39_word_no_space_3: drinkrhythmdivert
-bip_39_word_no_space_4: drinkrhythmdiverthabit
-bip_39_word_no_space_5: drinkrhythmdiverthabitlatin
-bip_39_word_no_space_6: drinkrhythmdiverthabitlatinlabor
-bip_39_word_no_space_7: drinkrhythmdiverthabitlatinlaborthumb
-bip_39_word_no_space_8: drinkrhythmdiverthabitlatinlaborthumbopera
-bip_39_word_no_space_9: drinkrhythmdiverthabitlatinlaborthumboperaunfair
-bip_39_word_space_0:
-- drink
-- rhythm
-- divert
-- habit
-- latin
-- labor
-- thumb
-- opera
-- unfair
-- trust
-- grief
-- admit
-bip_39_word_space_1: drink
-bip_39_word_space_10: drink rhythm divert habit latin labor thumb opera unfair trust
-bip_39_word_space_11: drink rhythm divert habit latin labor thumb opera unfair trust
-  grief
 bip_39_word_space_12: drink rhythm divert habit latin labor thumb opera unfair trust
   grief admit
 bip_39_word_space_2: drink rhythm
 bip_39_word_space_3: drink rhythm divert
-bip_39_word_space_4: drink rhythm divert habit
-bip_39_word_space_5: drink rhythm divert habit latin
-bip_39_word_space_6: drink rhythm divert habit latin labor
-bip_39_word_space_7: drink rhythm divert habit latin labor thumb
-bip_39_word_space_8: drink rhythm divert habit latin labor thumb opera
-bip_39_word_space_9: drink rhythm divert habit latin labor thumb opera unfair
-bip_39_word_underscore_1: drink
-bip_39_word_underscore_10: drink_rhythm_divert_habit_latin_labor_thumb_opera_unfair_trust
-bip_39_word_underscore_11: drink_rhythm_divert_habit_latin_labor_thumb_opera_unfair_trust_grief
 bip_39_word_underscore_12: drink_rhythm_divert_habit_latin_labor_thumb_opera_unfair_trust_grief_admit
 bip_39_word_underscore_2: drink_rhythm
 bip_39_word_underscore_3: drink_rhythm_divert
-bip_39_word_underscore_4: drink_rhythm_divert_habit
-bip_39_word_underscore_5: drink_rhythm_divert_habit_latin
-bip_39_word_underscore_6: drink_rhythm_divert_habit_latin_labor
-bip_39_word_underscore_7: drink_rhythm_divert_habit_latin_labor_thumb
-bip_39_word_underscore_8: drink_rhythm_divert_habit_latin_labor_thumb_opera
-bip_39_word_underscore_9: drink_rhythm_divert_habit_latin_labor_thumb_opera_unfair
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

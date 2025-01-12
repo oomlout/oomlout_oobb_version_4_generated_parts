@@ -1,68 +1,9 @@
-bip_39_word_dash_1: stuff
-bip_39_word_dash_10: stuff-gap-vague-acid-trip-river-stick-inform-market-scrap
-bip_39_word_dash_11: stuff-gap-vague-acid-trip-river-stick-inform-market-scrap-length
 bip_39_word_dash_12: stuff-gap-vague-acid-trip-river-stick-inform-market-scrap-length-arrive
 bip_39_word_dash_2: stuff-gap
 bip_39_word_dash_3: stuff-gap-vague
-bip_39_word_dash_4: stuff-gap-vague-acid
-bip_39_word_dash_5: stuff-gap-vague-acid-trip
-bip_39_word_dash_6: stuff-gap-vague-acid-trip-river
-bip_39_word_dash_7: stuff-gap-vague-acid-trip-river-stick
-bip_39_word_dash_8: stuff-gap-vague-acid-trip-river-stick-inform
-bip_39_word_dash_9: stuff-gap-vague-acid-trip-river-stick-inform-market
-bip_39_word_new_br_1: stuff
-bip_39_word_new_br_10: stuff<br>gap<br>vague<br>acid<br>trip<br>river<br>stick<br>inform<br>market<br>scrap
-bip_39_word_new_br_11: stuff<br>gap<br>vague<br>acid<br>trip<br>river<br>stick<br>inform<br>market<br>scrap<br>length
 bip_39_word_new_br_12: stuff<br>gap<br>vague<br>acid<br>trip<br>river<br>stick<br>inform<br>market<br>scrap<br>length<br>arrive
 bip_39_word_new_br_2: stuff<br>gap
 bip_39_word_new_br_3: stuff<br>gap<br>vague
-bip_39_word_new_br_4: stuff<br>gap<br>vague<br>acid
-bip_39_word_new_br_5: stuff<br>gap<br>vague<br>acid<br>trip
-bip_39_word_new_br_6: stuff<br>gap<br>vague<br>acid<br>trip<br>river
-bip_39_word_new_br_7: stuff<br>gap<br>vague<br>acid<br>trip<br>river<br>stick
-bip_39_word_new_br_8: stuff<br>gap<br>vague<br>acid<br>trip<br>river<br>stick<br>inform
-bip_39_word_new_br_9: stuff<br>gap<br>vague<br>acid<br>trip<br>river<br>stick<br>inform<br>market
-bip_39_word_new_line_1: stuff
-bip_39_word_new_line_10: 'stuff
-
-  gap
-
-  vague
-
-  acid
-
-  trip
-
-  river
-
-  stick
-
-  inform
-
-  market
-
-  scrap'
-bip_39_word_new_line_11: 'stuff
-
-  gap
-
-  vague
-
-  acid
-
-  trip
-
-  river
-
-  stick
-
-  inform
-
-  market
-
-  scrap
-
-  length'
 bip_39_word_new_line_12: 'stuff
 
   gap
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'stuff
   gap
 
   vague'
-bip_39_word_new_line_4: 'stuff
-
-  gap
-
-  vague
-
-  acid'
-bip_39_word_new_line_5: 'stuff
-
-  gap
-
-  vague
-
-  acid
-
-  trip'
-bip_39_word_new_line_6: 'stuff
-
-  gap
-
-  vague
-
-  acid
-
-  trip
-
-  river'
-bip_39_word_new_line_7: 'stuff
-
-  gap
-
-  vague
-
-  acid
-
-  trip
-
-  river
-
-  stick'
-bip_39_word_new_line_8: 'stuff
-
-  gap
-
-  vague
-
-  acid
-
-  trip
-
-  river
-
-  stick
-
-  inform'
-bip_39_word_new_line_9: 'stuff
-
-  gap
-
-  vague
-
-  acid
-
-  trip
-
-  river
-
-  stick
-
-  inform
-
-  market'
-bip_39_word_no_space_1: stuff
-bip_39_word_no_space_10: stuffgapvagueacidtripriverstickinformmarketscrap
-bip_39_word_no_space_11: stuffgapvagueacidtripriverstickinformmarketscraplength
 bip_39_word_no_space_12: stuffgapvagueacidtripriverstickinformmarketscraplengtharrive
 bip_39_word_no_space_2: stuffgap
 bip_39_word_no_space_3: stuffgapvague
-bip_39_word_no_space_4: stuffgapvagueacid
-bip_39_word_no_space_5: stuffgapvagueacidtrip
-bip_39_word_no_space_6: stuffgapvagueacidtripriver
-bip_39_word_no_space_7: stuffgapvagueacidtripriverstick
-bip_39_word_no_space_8: stuffgapvagueacidtripriverstickinform
-bip_39_word_no_space_9: stuffgapvagueacidtripriverstickinformmarket
-bip_39_word_space_0:
-- stuff
-- gap
-- vague
-- acid
-- trip
-- river
-- stick
-- inform
-- market
-- scrap
-- length
-- arrive
-bip_39_word_space_1: stuff
-bip_39_word_space_10: stuff gap vague acid trip river stick inform market scrap
-bip_39_word_space_11: stuff gap vague acid trip river stick inform market scrap length
 bip_39_word_space_12: stuff gap vague acid trip river stick inform market scrap length
   arrive
 bip_39_word_space_2: stuff gap
 bip_39_word_space_3: stuff gap vague
-bip_39_word_space_4: stuff gap vague acid
-bip_39_word_space_5: stuff gap vague acid trip
-bip_39_word_space_6: stuff gap vague acid trip river
-bip_39_word_space_7: stuff gap vague acid trip river stick
-bip_39_word_space_8: stuff gap vague acid trip river stick inform
-bip_39_word_space_9: stuff gap vague acid trip river stick inform market
-bip_39_word_underscore_1: stuff
-bip_39_word_underscore_10: stuff_gap_vague_acid_trip_river_stick_inform_market_scrap
-bip_39_word_underscore_11: stuff_gap_vague_acid_trip_river_stick_inform_market_scrap_length
 bip_39_word_underscore_12: stuff_gap_vague_acid_trip_river_stick_inform_market_scrap_length_arrive
 bip_39_word_underscore_2: stuff_gap
 bip_39_word_underscore_3: stuff_gap_vague
-bip_39_word_underscore_4: stuff_gap_vague_acid
-bip_39_word_underscore_5: stuff_gap_vague_acid_trip
-bip_39_word_underscore_6: stuff_gap_vague_acid_trip_river
-bip_39_word_underscore_7: stuff_gap_vague_acid_trip_river_stick
-bip_39_word_underscore_8: stuff_gap_vague_acid_trip_river_stick_inform
-bip_39_word_underscore_9: stuff_gap_vague_acid_trip_river_stick_inform_market
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

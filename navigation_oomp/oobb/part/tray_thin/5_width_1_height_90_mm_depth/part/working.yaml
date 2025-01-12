@@ -1,68 +1,9 @@
-bip_39_word_dash_1: bus
-bip_39_word_dash_10: bus-annual-oxygen-culture-grief-velvet-visa-motor-advance-city
-bip_39_word_dash_11: bus-annual-oxygen-culture-grief-velvet-visa-motor-advance-city-return
 bip_39_word_dash_12: bus-annual-oxygen-culture-grief-velvet-visa-motor-advance-city-return-assume
 bip_39_word_dash_2: bus-annual
 bip_39_word_dash_3: bus-annual-oxygen
-bip_39_word_dash_4: bus-annual-oxygen-culture
-bip_39_word_dash_5: bus-annual-oxygen-culture-grief
-bip_39_word_dash_6: bus-annual-oxygen-culture-grief-velvet
-bip_39_word_dash_7: bus-annual-oxygen-culture-grief-velvet-visa
-bip_39_word_dash_8: bus-annual-oxygen-culture-grief-velvet-visa-motor
-bip_39_word_dash_9: bus-annual-oxygen-culture-grief-velvet-visa-motor-advance
-bip_39_word_new_br_1: bus
-bip_39_word_new_br_10: bus<br>annual<br>oxygen<br>culture<br>grief<br>velvet<br>visa<br>motor<br>advance<br>city
-bip_39_word_new_br_11: bus<br>annual<br>oxygen<br>culture<br>grief<br>velvet<br>visa<br>motor<br>advance<br>city<br>return
 bip_39_word_new_br_12: bus<br>annual<br>oxygen<br>culture<br>grief<br>velvet<br>visa<br>motor<br>advance<br>city<br>return<br>assume
 bip_39_word_new_br_2: bus<br>annual
 bip_39_word_new_br_3: bus<br>annual<br>oxygen
-bip_39_word_new_br_4: bus<br>annual<br>oxygen<br>culture
-bip_39_word_new_br_5: bus<br>annual<br>oxygen<br>culture<br>grief
-bip_39_word_new_br_6: bus<br>annual<br>oxygen<br>culture<br>grief<br>velvet
-bip_39_word_new_br_7: bus<br>annual<br>oxygen<br>culture<br>grief<br>velvet<br>visa
-bip_39_word_new_br_8: bus<br>annual<br>oxygen<br>culture<br>grief<br>velvet<br>visa<br>motor
-bip_39_word_new_br_9: bus<br>annual<br>oxygen<br>culture<br>grief<br>velvet<br>visa<br>motor<br>advance
-bip_39_word_new_line_1: bus
-bip_39_word_new_line_10: 'bus
-
-  annual
-
-  oxygen
-
-  culture
-
-  grief
-
-  velvet
-
-  visa
-
-  motor
-
-  advance
-
-  city'
-bip_39_word_new_line_11: 'bus
-
-  annual
-
-  oxygen
-
-  culture
-
-  grief
-
-  velvet
-
-  visa
-
-  motor
-
-  advance
-
-  city
-
-  return'
 bip_39_word_new_line_12: 'bus
 
   annual
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'bus
   annual
 
   oxygen'
-bip_39_word_new_line_4: 'bus
-
-  annual
-
-  oxygen
-
-  culture'
-bip_39_word_new_line_5: 'bus
-
-  annual
-
-  oxygen
-
-  culture
-
-  grief'
-bip_39_word_new_line_6: 'bus
-
-  annual
-
-  oxygen
-
-  culture
-
-  grief
-
-  velvet'
-bip_39_word_new_line_7: 'bus
-
-  annual
-
-  oxygen
-
-  culture
-
-  grief
-
-  velvet
-
-  visa'
-bip_39_word_new_line_8: 'bus
-
-  annual
-
-  oxygen
-
-  culture
-
-  grief
-
-  velvet
-
-  visa
-
-  motor'
-bip_39_word_new_line_9: 'bus
-
-  annual
-
-  oxygen
-
-  culture
-
-  grief
-
-  velvet
-
-  visa
-
-  motor
-
-  advance'
-bip_39_word_no_space_1: bus
-bip_39_word_no_space_10: busannualoxygenculturegriefvelvetvisamotoradvancecity
-bip_39_word_no_space_11: busannualoxygenculturegriefvelvetvisamotoradvancecityreturn
 bip_39_word_no_space_12: busannualoxygenculturegriefvelvetvisamotoradvancecityreturnassume
 bip_39_word_no_space_2: busannual
 bip_39_word_no_space_3: busannualoxygen
-bip_39_word_no_space_4: busannualoxygenculture
-bip_39_word_no_space_5: busannualoxygenculturegrief
-bip_39_word_no_space_6: busannualoxygenculturegriefvelvet
-bip_39_word_no_space_7: busannualoxygenculturegriefvelvetvisa
-bip_39_word_no_space_8: busannualoxygenculturegriefvelvetvisamotor
-bip_39_word_no_space_9: busannualoxygenculturegriefvelvetvisamotoradvance
-bip_39_word_space_0:
-- bus
-- annual
-- oxygen
-- culture
-- grief
-- velvet
-- visa
-- motor
-- advance
-- city
-- return
-- assume
-bip_39_word_space_1: bus
-bip_39_word_space_10: bus annual oxygen culture grief velvet visa motor advance city
-bip_39_word_space_11: bus annual oxygen culture grief velvet visa motor advance city
-  return
 bip_39_word_space_12: bus annual oxygen culture grief velvet visa motor advance city
   return assume
 bip_39_word_space_2: bus annual
 bip_39_word_space_3: bus annual oxygen
-bip_39_word_space_4: bus annual oxygen culture
-bip_39_word_space_5: bus annual oxygen culture grief
-bip_39_word_space_6: bus annual oxygen culture grief velvet
-bip_39_word_space_7: bus annual oxygen culture grief velvet visa
-bip_39_word_space_8: bus annual oxygen culture grief velvet visa motor
-bip_39_word_space_9: bus annual oxygen culture grief velvet visa motor advance
-bip_39_word_underscore_1: bus
-bip_39_word_underscore_10: bus_annual_oxygen_culture_grief_velvet_visa_motor_advance_city
-bip_39_word_underscore_11: bus_annual_oxygen_culture_grief_velvet_visa_motor_advance_city_return
 bip_39_word_underscore_12: bus_annual_oxygen_culture_grief_velvet_visa_motor_advance_city_return_assume
 bip_39_word_underscore_2: bus_annual
 bip_39_word_underscore_3: bus_annual_oxygen
-bip_39_word_underscore_4: bus_annual_oxygen_culture
-bip_39_word_underscore_5: bus_annual_oxygen_culture_grief
-bip_39_word_underscore_6: bus_annual_oxygen_culture_grief_velvet
-bip_39_word_underscore_7: bus_annual_oxygen_culture_grief_velvet_visa
-bip_39_word_underscore_8: bus_annual_oxygen_culture_grief_velvet_visa_motor
-bip_39_word_underscore_9: bus_annual_oxygen_culture_grief_velvet_visa_motor_advance
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

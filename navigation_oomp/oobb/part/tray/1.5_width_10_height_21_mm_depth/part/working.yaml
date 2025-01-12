@@ -1,68 +1,9 @@
-bip_39_word_dash_1: grape
-bip_39_word_dash_10: grape-crew-merge-embody-hurt-verb-upgrade-safe-student-fortune
-bip_39_word_dash_11: grape-crew-merge-embody-hurt-verb-upgrade-safe-student-fortune-walnut
 bip_39_word_dash_12: grape-crew-merge-embody-hurt-verb-upgrade-safe-student-fortune-walnut-attitude
 bip_39_word_dash_2: grape-crew
 bip_39_word_dash_3: grape-crew-merge
-bip_39_word_dash_4: grape-crew-merge-embody
-bip_39_word_dash_5: grape-crew-merge-embody-hurt
-bip_39_word_dash_6: grape-crew-merge-embody-hurt-verb
-bip_39_word_dash_7: grape-crew-merge-embody-hurt-verb-upgrade
-bip_39_word_dash_8: grape-crew-merge-embody-hurt-verb-upgrade-safe
-bip_39_word_dash_9: grape-crew-merge-embody-hurt-verb-upgrade-safe-student
-bip_39_word_new_br_1: grape
-bip_39_word_new_br_10: grape<br>crew<br>merge<br>embody<br>hurt<br>verb<br>upgrade<br>safe<br>student<br>fortune
-bip_39_word_new_br_11: grape<br>crew<br>merge<br>embody<br>hurt<br>verb<br>upgrade<br>safe<br>student<br>fortune<br>walnut
 bip_39_word_new_br_12: grape<br>crew<br>merge<br>embody<br>hurt<br>verb<br>upgrade<br>safe<br>student<br>fortune<br>walnut<br>attitude
 bip_39_word_new_br_2: grape<br>crew
 bip_39_word_new_br_3: grape<br>crew<br>merge
-bip_39_word_new_br_4: grape<br>crew<br>merge<br>embody
-bip_39_word_new_br_5: grape<br>crew<br>merge<br>embody<br>hurt
-bip_39_word_new_br_6: grape<br>crew<br>merge<br>embody<br>hurt<br>verb
-bip_39_word_new_br_7: grape<br>crew<br>merge<br>embody<br>hurt<br>verb<br>upgrade
-bip_39_word_new_br_8: grape<br>crew<br>merge<br>embody<br>hurt<br>verb<br>upgrade<br>safe
-bip_39_word_new_br_9: grape<br>crew<br>merge<br>embody<br>hurt<br>verb<br>upgrade<br>safe<br>student
-bip_39_word_new_line_1: grape
-bip_39_word_new_line_10: 'grape
-
-  crew
-
-  merge
-
-  embody
-
-  hurt
-
-  verb
-
-  upgrade
-
-  safe
-
-  student
-
-  fortune'
-bip_39_word_new_line_11: 'grape
-
-  crew
-
-  merge
-
-  embody
-
-  hurt
-
-  verb
-
-  upgrade
-
-  safe
-
-  student
-
-  fortune
-
-  walnut'
 bip_39_word_new_line_12: 'grape
 
   crew
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'grape
   crew
 
   merge'
-bip_39_word_new_line_4: 'grape
-
-  crew
-
-  merge
-
-  embody'
-bip_39_word_new_line_5: 'grape
-
-  crew
-
-  merge
-
-  embody
-
-  hurt'
-bip_39_word_new_line_6: 'grape
-
-  crew
-
-  merge
-
-  embody
-
-  hurt
-
-  verb'
-bip_39_word_new_line_7: 'grape
-
-  crew
-
-  merge
-
-  embody
-
-  hurt
-
-  verb
-
-  upgrade'
-bip_39_word_new_line_8: 'grape
-
-  crew
-
-  merge
-
-  embody
-
-  hurt
-
-  verb
-
-  upgrade
-
-  safe'
-bip_39_word_new_line_9: 'grape
-
-  crew
-
-  merge
-
-  embody
-
-  hurt
-
-  verb
-
-  upgrade
-
-  safe
-
-  student'
-bip_39_word_no_space_1: grape
-bip_39_word_no_space_10: grapecrewmergeembodyhurtverbupgradesafestudentfortune
-bip_39_word_no_space_11: grapecrewmergeembodyhurtverbupgradesafestudentfortunewalnut
 bip_39_word_no_space_12: grapecrewmergeembodyhurtverbupgradesafestudentfortunewalnutattitude
 bip_39_word_no_space_2: grapecrew
 bip_39_word_no_space_3: grapecrewmerge
-bip_39_word_no_space_4: grapecrewmergeembody
-bip_39_word_no_space_5: grapecrewmergeembodyhurt
-bip_39_word_no_space_6: grapecrewmergeembodyhurtverb
-bip_39_word_no_space_7: grapecrewmergeembodyhurtverbupgrade
-bip_39_word_no_space_8: grapecrewmergeembodyhurtverbupgradesafe
-bip_39_word_no_space_9: grapecrewmergeembodyhurtverbupgradesafestudent
-bip_39_word_space_0:
-- grape
-- crew
-- merge
-- embody
-- hurt
-- verb
-- upgrade
-- safe
-- student
-- fortune
-- walnut
-- attitude
-bip_39_word_space_1: grape
-bip_39_word_space_10: grape crew merge embody hurt verb upgrade safe student fortune
-bip_39_word_space_11: grape crew merge embody hurt verb upgrade safe student fortune
-  walnut
 bip_39_word_space_12: grape crew merge embody hurt verb upgrade safe student fortune
   walnut attitude
 bip_39_word_space_2: grape crew
 bip_39_word_space_3: grape crew merge
-bip_39_word_space_4: grape crew merge embody
-bip_39_word_space_5: grape crew merge embody hurt
-bip_39_word_space_6: grape crew merge embody hurt verb
-bip_39_word_space_7: grape crew merge embody hurt verb upgrade
-bip_39_word_space_8: grape crew merge embody hurt verb upgrade safe
-bip_39_word_space_9: grape crew merge embody hurt verb upgrade safe student
-bip_39_word_underscore_1: grape
-bip_39_word_underscore_10: grape_crew_merge_embody_hurt_verb_upgrade_safe_student_fortune
-bip_39_word_underscore_11: grape_crew_merge_embody_hurt_verb_upgrade_safe_student_fortune_walnut
 bip_39_word_underscore_12: grape_crew_merge_embody_hurt_verb_upgrade_safe_student_fortune_walnut_attitude
 bip_39_word_underscore_2: grape_crew
 bip_39_word_underscore_3: grape_crew_merge
-bip_39_word_underscore_4: grape_crew_merge_embody
-bip_39_word_underscore_5: grape_crew_merge_embody_hurt
-bip_39_word_underscore_6: grape_crew_merge_embody_hurt_verb
-bip_39_word_underscore_7: grape_crew_merge_embody_hurt_verb_upgrade
-bip_39_word_underscore_8: grape_crew_merge_embody_hurt_verb_upgrade_safe
-bip_39_word_underscore_9: grape_crew_merge_embody_hurt_verb_upgrade_safe_student
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

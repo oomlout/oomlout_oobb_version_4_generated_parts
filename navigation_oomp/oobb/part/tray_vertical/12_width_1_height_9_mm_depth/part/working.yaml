@@ -1,68 +1,9 @@
-bip_39_word_dash_1: number
-bip_39_word_dash_10: number-speed-dog-ecology-topple-stadium-ocean-fine-token-suspect
-bip_39_word_dash_11: number-speed-dog-ecology-topple-stadium-ocean-fine-token-suspect-cotton
 bip_39_word_dash_12: number-speed-dog-ecology-topple-stadium-ocean-fine-token-suspect-cotton-around
 bip_39_word_dash_2: number-speed
 bip_39_word_dash_3: number-speed-dog
-bip_39_word_dash_4: number-speed-dog-ecology
-bip_39_word_dash_5: number-speed-dog-ecology-topple
-bip_39_word_dash_6: number-speed-dog-ecology-topple-stadium
-bip_39_word_dash_7: number-speed-dog-ecology-topple-stadium-ocean
-bip_39_word_dash_8: number-speed-dog-ecology-topple-stadium-ocean-fine
-bip_39_word_dash_9: number-speed-dog-ecology-topple-stadium-ocean-fine-token
-bip_39_word_new_br_1: number
-bip_39_word_new_br_10: number<br>speed<br>dog<br>ecology<br>topple<br>stadium<br>ocean<br>fine<br>token<br>suspect
-bip_39_word_new_br_11: number<br>speed<br>dog<br>ecology<br>topple<br>stadium<br>ocean<br>fine<br>token<br>suspect<br>cotton
 bip_39_word_new_br_12: number<br>speed<br>dog<br>ecology<br>topple<br>stadium<br>ocean<br>fine<br>token<br>suspect<br>cotton<br>around
 bip_39_word_new_br_2: number<br>speed
 bip_39_word_new_br_3: number<br>speed<br>dog
-bip_39_word_new_br_4: number<br>speed<br>dog<br>ecology
-bip_39_word_new_br_5: number<br>speed<br>dog<br>ecology<br>topple
-bip_39_word_new_br_6: number<br>speed<br>dog<br>ecology<br>topple<br>stadium
-bip_39_word_new_br_7: number<br>speed<br>dog<br>ecology<br>topple<br>stadium<br>ocean
-bip_39_word_new_br_8: number<br>speed<br>dog<br>ecology<br>topple<br>stadium<br>ocean<br>fine
-bip_39_word_new_br_9: number<br>speed<br>dog<br>ecology<br>topple<br>stadium<br>ocean<br>fine<br>token
-bip_39_word_new_line_1: number
-bip_39_word_new_line_10: 'number
-
-  speed
-
-  dog
-
-  ecology
-
-  topple
-
-  stadium
-
-  ocean
-
-  fine
-
-  token
-
-  suspect'
-bip_39_word_new_line_11: 'number
-
-  speed
-
-  dog
-
-  ecology
-
-  topple
-
-  stadium
-
-  ocean
-
-  fine
-
-  token
-
-  suspect
-
-  cotton'
 bip_39_word_new_line_12: 'number
 
   speed
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'number
   speed
 
   dog'
-bip_39_word_new_line_4: 'number
-
-  speed
-
-  dog
-
-  ecology'
-bip_39_word_new_line_5: 'number
-
-  speed
-
-  dog
-
-  ecology
-
-  topple'
-bip_39_word_new_line_6: 'number
-
-  speed
-
-  dog
-
-  ecology
-
-  topple
-
-  stadium'
-bip_39_word_new_line_7: 'number
-
-  speed
-
-  dog
-
-  ecology
-
-  topple
-
-  stadium
-
-  ocean'
-bip_39_word_new_line_8: 'number
-
-  speed
-
-  dog
-
-  ecology
-
-  topple
-
-  stadium
-
-  ocean
-
-  fine'
-bip_39_word_new_line_9: 'number
-
-  speed
-
-  dog
-
-  ecology
-
-  topple
-
-  stadium
-
-  ocean
-
-  fine
-
-  token'
-bip_39_word_no_space_1: number
-bip_39_word_no_space_10: numberspeeddogecologytopplestadiumoceanfinetokensuspect
-bip_39_word_no_space_11: numberspeeddogecologytopplestadiumoceanfinetokensuspectcotton
 bip_39_word_no_space_12: numberspeeddogecologytopplestadiumoceanfinetokensuspectcottonaround
 bip_39_word_no_space_2: numberspeed
 bip_39_word_no_space_3: numberspeeddog
-bip_39_word_no_space_4: numberspeeddogecology
-bip_39_word_no_space_5: numberspeeddogecologytopple
-bip_39_word_no_space_6: numberspeeddogecologytopplestadium
-bip_39_word_no_space_7: numberspeeddogecologytopplestadiumocean
-bip_39_word_no_space_8: numberspeeddogecologytopplestadiumoceanfine
-bip_39_word_no_space_9: numberspeeddogecologytopplestadiumoceanfinetoken
-bip_39_word_space_0:
-- number
-- speed
-- dog
-- ecology
-- topple
-- stadium
-- ocean
-- fine
-- token
-- suspect
-- cotton
-- around
-bip_39_word_space_1: number
-bip_39_word_space_10: number speed dog ecology topple stadium ocean fine token suspect
-bip_39_word_space_11: number speed dog ecology topple stadium ocean fine token suspect
-  cotton
 bip_39_word_space_12: number speed dog ecology topple stadium ocean fine token suspect
   cotton around
 bip_39_word_space_2: number speed
 bip_39_word_space_3: number speed dog
-bip_39_word_space_4: number speed dog ecology
-bip_39_word_space_5: number speed dog ecology topple
-bip_39_word_space_6: number speed dog ecology topple stadium
-bip_39_word_space_7: number speed dog ecology topple stadium ocean
-bip_39_word_space_8: number speed dog ecology topple stadium ocean fine
-bip_39_word_space_9: number speed dog ecology topple stadium ocean fine token
-bip_39_word_underscore_1: number
-bip_39_word_underscore_10: number_speed_dog_ecology_topple_stadium_ocean_fine_token_suspect
-bip_39_word_underscore_11: number_speed_dog_ecology_topple_stadium_ocean_fine_token_suspect_cotton
 bip_39_word_underscore_12: number_speed_dog_ecology_topple_stadium_ocean_fine_token_suspect_cotton_around
 bip_39_word_underscore_2: number_speed
 bip_39_word_underscore_3: number_speed_dog
-bip_39_word_underscore_4: number_speed_dog_ecology
-bip_39_word_underscore_5: number_speed_dog_ecology_topple
-bip_39_word_underscore_6: number_speed_dog_ecology_topple_stadium
-bip_39_word_underscore_7: number_speed_dog_ecology_topple_stadium_ocean
-bip_39_word_underscore_8: number_speed_dog_ecology_topple_stadium_ocean_fine
-bip_39_word_underscore_9: number_speed_dog_ecology_topple_stadium_ocean_fine_token
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

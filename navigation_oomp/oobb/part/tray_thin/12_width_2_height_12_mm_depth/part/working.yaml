@@ -1,68 +1,9 @@
-bip_39_word_dash_1: pilot
-bip_39_word_dash_10: pilot-course-glide-doctor-satoshi-submit-prison-scrub-wink-scissors
-bip_39_word_dash_11: pilot-course-glide-doctor-satoshi-submit-prison-scrub-wink-scissors-hedgehog
 bip_39_word_dash_12: pilot-course-glide-doctor-satoshi-submit-prison-scrub-wink-scissors-hedgehog-afraid
 bip_39_word_dash_2: pilot-course
 bip_39_word_dash_3: pilot-course-glide
-bip_39_word_dash_4: pilot-course-glide-doctor
-bip_39_word_dash_5: pilot-course-glide-doctor-satoshi
-bip_39_word_dash_6: pilot-course-glide-doctor-satoshi-submit
-bip_39_word_dash_7: pilot-course-glide-doctor-satoshi-submit-prison
-bip_39_word_dash_8: pilot-course-glide-doctor-satoshi-submit-prison-scrub
-bip_39_word_dash_9: pilot-course-glide-doctor-satoshi-submit-prison-scrub-wink
-bip_39_word_new_br_1: pilot
-bip_39_word_new_br_10: pilot<br>course<br>glide<br>doctor<br>satoshi<br>submit<br>prison<br>scrub<br>wink<br>scissors
-bip_39_word_new_br_11: pilot<br>course<br>glide<br>doctor<br>satoshi<br>submit<br>prison<br>scrub<br>wink<br>scissors<br>hedgehog
 bip_39_word_new_br_12: pilot<br>course<br>glide<br>doctor<br>satoshi<br>submit<br>prison<br>scrub<br>wink<br>scissors<br>hedgehog<br>afraid
 bip_39_word_new_br_2: pilot<br>course
 bip_39_word_new_br_3: pilot<br>course<br>glide
-bip_39_word_new_br_4: pilot<br>course<br>glide<br>doctor
-bip_39_word_new_br_5: pilot<br>course<br>glide<br>doctor<br>satoshi
-bip_39_word_new_br_6: pilot<br>course<br>glide<br>doctor<br>satoshi<br>submit
-bip_39_word_new_br_7: pilot<br>course<br>glide<br>doctor<br>satoshi<br>submit<br>prison
-bip_39_word_new_br_8: pilot<br>course<br>glide<br>doctor<br>satoshi<br>submit<br>prison<br>scrub
-bip_39_word_new_br_9: pilot<br>course<br>glide<br>doctor<br>satoshi<br>submit<br>prison<br>scrub<br>wink
-bip_39_word_new_line_1: pilot
-bip_39_word_new_line_10: 'pilot
-
-  course
-
-  glide
-
-  doctor
-
-  satoshi
-
-  submit
-
-  prison
-
-  scrub
-
-  wink
-
-  scissors'
-bip_39_word_new_line_11: 'pilot
-
-  course
-
-  glide
-
-  doctor
-
-  satoshi
-
-  submit
-
-  prison
-
-  scrub
-
-  wink
-
-  scissors
-
-  hedgehog'
 bip_39_word_new_line_12: 'pilot
 
   course
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'pilot
   course
 
   glide'
-bip_39_word_new_line_4: 'pilot
-
-  course
-
-  glide
-
-  doctor'
-bip_39_word_new_line_5: 'pilot
-
-  course
-
-  glide
-
-  doctor
-
-  satoshi'
-bip_39_word_new_line_6: 'pilot
-
-  course
-
-  glide
-
-  doctor
-
-  satoshi
-
-  submit'
-bip_39_word_new_line_7: 'pilot
-
-  course
-
-  glide
-
-  doctor
-
-  satoshi
-
-  submit
-
-  prison'
-bip_39_word_new_line_8: 'pilot
-
-  course
-
-  glide
-
-  doctor
-
-  satoshi
-
-  submit
-
-  prison
-
-  scrub'
-bip_39_word_new_line_9: 'pilot
-
-  course
-
-  glide
-
-  doctor
-
-  satoshi
-
-  submit
-
-  prison
-
-  scrub
-
-  wink'
-bip_39_word_no_space_1: pilot
-bip_39_word_no_space_10: pilotcourseglidedoctorsatoshisubmitprisonscrubwinkscissors
-bip_39_word_no_space_11: pilotcourseglidedoctorsatoshisubmitprisonscrubwinkscissorshedgehog
 bip_39_word_no_space_12: pilotcourseglidedoctorsatoshisubmitprisonscrubwinkscissorshedgehogafraid
 bip_39_word_no_space_2: pilotcourse
 bip_39_word_no_space_3: pilotcourseglide
-bip_39_word_no_space_4: pilotcourseglidedoctor
-bip_39_word_no_space_5: pilotcourseglidedoctorsatoshi
-bip_39_word_no_space_6: pilotcourseglidedoctorsatoshisubmit
-bip_39_word_no_space_7: pilotcourseglidedoctorsatoshisubmitprison
-bip_39_word_no_space_8: pilotcourseglidedoctorsatoshisubmitprisonscrub
-bip_39_word_no_space_9: pilotcourseglidedoctorsatoshisubmitprisonscrubwink
-bip_39_word_space_0:
-- pilot
-- course
-- glide
-- doctor
-- satoshi
-- submit
-- prison
-- scrub
-- wink
-- scissors
-- hedgehog
-- afraid
-bip_39_word_space_1: pilot
-bip_39_word_space_10: pilot course glide doctor satoshi submit prison scrub wink scissors
-bip_39_word_space_11: pilot course glide doctor satoshi submit prison scrub wink scissors
-  hedgehog
 bip_39_word_space_12: pilot course glide doctor satoshi submit prison scrub wink scissors
   hedgehog afraid
 bip_39_word_space_2: pilot course
 bip_39_word_space_3: pilot course glide
-bip_39_word_space_4: pilot course glide doctor
-bip_39_word_space_5: pilot course glide doctor satoshi
-bip_39_word_space_6: pilot course glide doctor satoshi submit
-bip_39_word_space_7: pilot course glide doctor satoshi submit prison
-bip_39_word_space_8: pilot course glide doctor satoshi submit prison scrub
-bip_39_word_space_9: pilot course glide doctor satoshi submit prison scrub wink
-bip_39_word_underscore_1: pilot
-bip_39_word_underscore_10: pilot_course_glide_doctor_satoshi_submit_prison_scrub_wink_scissors
-bip_39_word_underscore_11: pilot_course_glide_doctor_satoshi_submit_prison_scrub_wink_scissors_hedgehog
 bip_39_word_underscore_12: pilot_course_glide_doctor_satoshi_submit_prison_scrub_wink_scissors_hedgehog_afraid
 bip_39_word_underscore_2: pilot_course
 bip_39_word_underscore_3: pilot_course_glide
-bip_39_word_underscore_4: pilot_course_glide_doctor
-bip_39_word_underscore_5: pilot_course_glide_doctor_satoshi
-bip_39_word_underscore_6: pilot_course_glide_doctor_satoshi_submit
-bip_39_word_underscore_7: pilot_course_glide_doctor_satoshi_submit_prison
-bip_39_word_underscore_8: pilot_course_glide_doctor_satoshi_submit_prison_scrub
-bip_39_word_underscore_9: pilot_course_glide_doctor_satoshi_submit_prison_scrub_wink
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

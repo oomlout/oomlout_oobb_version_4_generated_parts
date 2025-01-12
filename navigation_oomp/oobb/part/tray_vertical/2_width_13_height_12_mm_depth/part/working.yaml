@@ -1,68 +1,9 @@
-bip_39_word_dash_1: march
-bip_39_word_dash_10: march-pause-define-double-right-tired-panic-avoid-sword-labor
-bip_39_word_dash_11: march-pause-define-double-right-tired-panic-avoid-sword-labor-color
 bip_39_word_dash_12: march-pause-define-double-right-tired-panic-avoid-sword-labor-color-all
 bip_39_word_dash_2: march-pause
 bip_39_word_dash_3: march-pause-define
-bip_39_word_dash_4: march-pause-define-double
-bip_39_word_dash_5: march-pause-define-double-right
-bip_39_word_dash_6: march-pause-define-double-right-tired
-bip_39_word_dash_7: march-pause-define-double-right-tired-panic
-bip_39_word_dash_8: march-pause-define-double-right-tired-panic-avoid
-bip_39_word_dash_9: march-pause-define-double-right-tired-panic-avoid-sword
-bip_39_word_new_br_1: march
-bip_39_word_new_br_10: march<br>pause<br>define<br>double<br>right<br>tired<br>panic<br>avoid<br>sword<br>labor
-bip_39_word_new_br_11: march<br>pause<br>define<br>double<br>right<br>tired<br>panic<br>avoid<br>sword<br>labor<br>color
 bip_39_word_new_br_12: march<br>pause<br>define<br>double<br>right<br>tired<br>panic<br>avoid<br>sword<br>labor<br>color<br>all
 bip_39_word_new_br_2: march<br>pause
 bip_39_word_new_br_3: march<br>pause<br>define
-bip_39_word_new_br_4: march<br>pause<br>define<br>double
-bip_39_word_new_br_5: march<br>pause<br>define<br>double<br>right
-bip_39_word_new_br_6: march<br>pause<br>define<br>double<br>right<br>tired
-bip_39_word_new_br_7: march<br>pause<br>define<br>double<br>right<br>tired<br>panic
-bip_39_word_new_br_8: march<br>pause<br>define<br>double<br>right<br>tired<br>panic<br>avoid
-bip_39_word_new_br_9: march<br>pause<br>define<br>double<br>right<br>tired<br>panic<br>avoid<br>sword
-bip_39_word_new_line_1: march
-bip_39_word_new_line_10: 'march
-
-  pause
-
-  define
-
-  double
-
-  right
-
-  tired
-
-  panic
-
-  avoid
-
-  sword
-
-  labor'
-bip_39_word_new_line_11: 'march
-
-  pause
-
-  define
-
-  double
-
-  right
-
-  tired
-
-  panic
-
-  avoid
-
-  sword
-
-  labor
-
-  color'
 bip_39_word_new_line_12: 'march
 
   pause
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'march
   pause
 
   define'
-bip_39_word_new_line_4: 'march
-
-  pause
-
-  define
-
-  double'
-bip_39_word_new_line_5: 'march
-
-  pause
-
-  define
-
-  double
-
-  right'
-bip_39_word_new_line_6: 'march
-
-  pause
-
-  define
-
-  double
-
-  right
-
-  tired'
-bip_39_word_new_line_7: 'march
-
-  pause
-
-  define
-
-  double
-
-  right
-
-  tired
-
-  panic'
-bip_39_word_new_line_8: 'march
-
-  pause
-
-  define
-
-  double
-
-  right
-
-  tired
-
-  panic
-
-  avoid'
-bip_39_word_new_line_9: 'march
-
-  pause
-
-  define
-
-  double
-
-  right
-
-  tired
-
-  panic
-
-  avoid
-
-  sword'
-bip_39_word_no_space_1: march
-bip_39_word_no_space_10: marchpausedefinedoublerighttiredpanicavoidswordlabor
-bip_39_word_no_space_11: marchpausedefinedoublerighttiredpanicavoidswordlaborcolor
 bip_39_word_no_space_12: marchpausedefinedoublerighttiredpanicavoidswordlaborcolorall
 bip_39_word_no_space_2: marchpause
 bip_39_word_no_space_3: marchpausedefine
-bip_39_word_no_space_4: marchpausedefinedouble
-bip_39_word_no_space_5: marchpausedefinedoubleright
-bip_39_word_no_space_6: marchpausedefinedoublerighttired
-bip_39_word_no_space_7: marchpausedefinedoublerighttiredpanic
-bip_39_word_no_space_8: marchpausedefinedoublerighttiredpanicavoid
-bip_39_word_no_space_9: marchpausedefinedoublerighttiredpanicavoidsword
-bip_39_word_space_0:
-- march
-- pause
-- define
-- double
-- right
-- tired
-- panic
-- avoid
-- sword
-- labor
-- color
-- all
-bip_39_word_space_1: march
-bip_39_word_space_10: march pause define double right tired panic avoid sword labor
-bip_39_word_space_11: march pause define double right tired panic avoid sword labor
-  color
 bip_39_word_space_12: march pause define double right tired panic avoid sword labor
   color all
 bip_39_word_space_2: march pause
 bip_39_word_space_3: march pause define
-bip_39_word_space_4: march pause define double
-bip_39_word_space_5: march pause define double right
-bip_39_word_space_6: march pause define double right tired
-bip_39_word_space_7: march pause define double right tired panic
-bip_39_word_space_8: march pause define double right tired panic avoid
-bip_39_word_space_9: march pause define double right tired panic avoid sword
-bip_39_word_underscore_1: march
-bip_39_word_underscore_10: march_pause_define_double_right_tired_panic_avoid_sword_labor
-bip_39_word_underscore_11: march_pause_define_double_right_tired_panic_avoid_sword_labor_color
 bip_39_word_underscore_12: march_pause_define_double_right_tired_panic_avoid_sword_labor_color_all
 bip_39_word_underscore_2: march_pause
 bip_39_word_underscore_3: march_pause_define
-bip_39_word_underscore_4: march_pause_define_double
-bip_39_word_underscore_5: march_pause_define_double_right
-bip_39_word_underscore_6: march_pause_define_double_right_tired
-bip_39_word_underscore_7: march_pause_define_double_right_tired_panic
-bip_39_word_underscore_8: march_pause_define_double_right_tired_panic_avoid
-bip_39_word_underscore_9: march_pause_define_double_right_tired_panic_avoid_sword
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

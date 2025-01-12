@@ -1,68 +1,9 @@
-bip_39_word_dash_1: consider
-bip_39_word_dash_10: consider-destroy-involve-dinner-betray-boat-hour-scissors-slice-journey
-bip_39_word_dash_11: consider-destroy-involve-dinner-betray-boat-hour-scissors-slice-journey-label
 bip_39_word_dash_12: consider-destroy-involve-dinner-betray-boat-hour-scissors-slice-journey-label-angry
 bip_39_word_dash_2: consider-destroy
 bip_39_word_dash_3: consider-destroy-involve
-bip_39_word_dash_4: consider-destroy-involve-dinner
-bip_39_word_dash_5: consider-destroy-involve-dinner-betray
-bip_39_word_dash_6: consider-destroy-involve-dinner-betray-boat
-bip_39_word_dash_7: consider-destroy-involve-dinner-betray-boat-hour
-bip_39_word_dash_8: consider-destroy-involve-dinner-betray-boat-hour-scissors
-bip_39_word_dash_9: consider-destroy-involve-dinner-betray-boat-hour-scissors-slice
-bip_39_word_new_br_1: consider
-bip_39_word_new_br_10: consider<br>destroy<br>involve<br>dinner<br>betray<br>boat<br>hour<br>scissors<br>slice<br>journey
-bip_39_word_new_br_11: consider<br>destroy<br>involve<br>dinner<br>betray<br>boat<br>hour<br>scissors<br>slice<br>journey<br>label
 bip_39_word_new_br_12: consider<br>destroy<br>involve<br>dinner<br>betray<br>boat<br>hour<br>scissors<br>slice<br>journey<br>label<br>angry
 bip_39_word_new_br_2: consider<br>destroy
 bip_39_word_new_br_3: consider<br>destroy<br>involve
-bip_39_word_new_br_4: consider<br>destroy<br>involve<br>dinner
-bip_39_word_new_br_5: consider<br>destroy<br>involve<br>dinner<br>betray
-bip_39_word_new_br_6: consider<br>destroy<br>involve<br>dinner<br>betray<br>boat
-bip_39_word_new_br_7: consider<br>destroy<br>involve<br>dinner<br>betray<br>boat<br>hour
-bip_39_word_new_br_8: consider<br>destroy<br>involve<br>dinner<br>betray<br>boat<br>hour<br>scissors
-bip_39_word_new_br_9: consider<br>destroy<br>involve<br>dinner<br>betray<br>boat<br>hour<br>scissors<br>slice
-bip_39_word_new_line_1: consider
-bip_39_word_new_line_10: 'consider
-
-  destroy
-
-  involve
-
-  dinner
-
-  betray
-
-  boat
-
-  hour
-
-  scissors
-
-  slice
-
-  journey'
-bip_39_word_new_line_11: 'consider
-
-  destroy
-
-  involve
-
-  dinner
-
-  betray
-
-  boat
-
-  hour
-
-  scissors
-
-  slice
-
-  journey
-
-  label'
 bip_39_word_new_line_12: 'consider
 
   destroy
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'consider
   destroy
 
   involve'
-bip_39_word_new_line_4: 'consider
-
-  destroy
-
-  involve
-
-  dinner'
-bip_39_word_new_line_5: 'consider
-
-  destroy
-
-  involve
-
-  dinner
-
-  betray'
-bip_39_word_new_line_6: 'consider
-
-  destroy
-
-  involve
-
-  dinner
-
-  betray
-
-  boat'
-bip_39_word_new_line_7: 'consider
-
-  destroy
-
-  involve
-
-  dinner
-
-  betray
-
-  boat
-
-  hour'
-bip_39_word_new_line_8: 'consider
-
-  destroy
-
-  involve
-
-  dinner
-
-  betray
-
-  boat
-
-  hour
-
-  scissors'
-bip_39_word_new_line_9: 'consider
-
-  destroy
-
-  involve
-
-  dinner
-
-  betray
-
-  boat
-
-  hour
-
-  scissors
-
-  slice'
-bip_39_word_no_space_1: consider
-bip_39_word_no_space_10: considerdestroyinvolvedinnerbetrayboathourscissorsslicejourney
-bip_39_word_no_space_11: considerdestroyinvolvedinnerbetrayboathourscissorsslicejourneylabel
 bip_39_word_no_space_12: considerdestroyinvolvedinnerbetrayboathourscissorsslicejourneylabelangry
 bip_39_word_no_space_2: considerdestroy
 bip_39_word_no_space_3: considerdestroyinvolve
-bip_39_word_no_space_4: considerdestroyinvolvedinner
-bip_39_word_no_space_5: considerdestroyinvolvedinnerbetray
-bip_39_word_no_space_6: considerdestroyinvolvedinnerbetrayboat
-bip_39_word_no_space_7: considerdestroyinvolvedinnerbetrayboathour
-bip_39_word_no_space_8: considerdestroyinvolvedinnerbetrayboathourscissors
-bip_39_word_no_space_9: considerdestroyinvolvedinnerbetrayboathourscissorsslice
-bip_39_word_space_0:
-- consider
-- destroy
-- involve
-- dinner
-- betray
-- boat
-- hour
-- scissors
-- slice
-- journey
-- label
-- angry
-bip_39_word_space_1: consider
-bip_39_word_space_10: consider destroy involve dinner betray boat hour scissors slice
-  journey
-bip_39_word_space_11: consider destroy involve dinner betray boat hour scissors slice
-  journey label
 bip_39_word_space_12: consider destroy involve dinner betray boat hour scissors slice
   journey label angry
 bip_39_word_space_2: consider destroy
 bip_39_word_space_3: consider destroy involve
-bip_39_word_space_4: consider destroy involve dinner
-bip_39_word_space_5: consider destroy involve dinner betray
-bip_39_word_space_6: consider destroy involve dinner betray boat
-bip_39_word_space_7: consider destroy involve dinner betray boat hour
-bip_39_word_space_8: consider destroy involve dinner betray boat hour scissors
-bip_39_word_space_9: consider destroy involve dinner betray boat hour scissors slice
-bip_39_word_underscore_1: consider
-bip_39_word_underscore_10: consider_destroy_involve_dinner_betray_boat_hour_scissors_slice_journey
-bip_39_word_underscore_11: consider_destroy_involve_dinner_betray_boat_hour_scissors_slice_journey_label
 bip_39_word_underscore_12: consider_destroy_involve_dinner_betray_boat_hour_scissors_slice_journey_label_angry
 bip_39_word_underscore_2: consider_destroy
 bip_39_word_underscore_3: consider_destroy_involve
-bip_39_word_underscore_4: consider_destroy_involve_dinner
-bip_39_word_underscore_5: consider_destroy_involve_dinner_betray
-bip_39_word_underscore_6: consider_destroy_involve_dinner_betray_boat
-bip_39_word_underscore_7: consider_destroy_involve_dinner_betray_boat_hour
-bip_39_word_underscore_8: consider_destroy_involve_dinner_betray_boat_hour_scissors
-bip_39_word_underscore_9: consider_destroy_involve_dinner_betray_boat_hour_scissors_slice
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

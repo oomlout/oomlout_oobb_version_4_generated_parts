@@ -1,68 +1,9 @@
-bip_39_word_dash_1: record
-bip_39_word_dash_10: record-pave-lady-quiz-citizen-veteran-wage-peace-urban-laundry
-bip_39_word_dash_11: record-pave-lady-quiz-citizen-veteran-wage-peace-urban-laundry-unaware
 bip_39_word_dash_12: record-pave-lady-quiz-citizen-veteran-wage-peace-urban-laundry-unaware-arena
 bip_39_word_dash_2: record-pave
 bip_39_word_dash_3: record-pave-lady
-bip_39_word_dash_4: record-pave-lady-quiz
-bip_39_word_dash_5: record-pave-lady-quiz-citizen
-bip_39_word_dash_6: record-pave-lady-quiz-citizen-veteran
-bip_39_word_dash_7: record-pave-lady-quiz-citizen-veteran-wage
-bip_39_word_dash_8: record-pave-lady-quiz-citizen-veteran-wage-peace
-bip_39_word_dash_9: record-pave-lady-quiz-citizen-veteran-wage-peace-urban
-bip_39_word_new_br_1: record
-bip_39_word_new_br_10: record<br>pave<br>lady<br>quiz<br>citizen<br>veteran<br>wage<br>peace<br>urban<br>laundry
-bip_39_word_new_br_11: record<br>pave<br>lady<br>quiz<br>citizen<br>veteran<br>wage<br>peace<br>urban<br>laundry<br>unaware
 bip_39_word_new_br_12: record<br>pave<br>lady<br>quiz<br>citizen<br>veteran<br>wage<br>peace<br>urban<br>laundry<br>unaware<br>arena
 bip_39_word_new_br_2: record<br>pave
 bip_39_word_new_br_3: record<br>pave<br>lady
-bip_39_word_new_br_4: record<br>pave<br>lady<br>quiz
-bip_39_word_new_br_5: record<br>pave<br>lady<br>quiz<br>citizen
-bip_39_word_new_br_6: record<br>pave<br>lady<br>quiz<br>citizen<br>veteran
-bip_39_word_new_br_7: record<br>pave<br>lady<br>quiz<br>citizen<br>veteran<br>wage
-bip_39_word_new_br_8: record<br>pave<br>lady<br>quiz<br>citizen<br>veteran<br>wage<br>peace
-bip_39_word_new_br_9: record<br>pave<br>lady<br>quiz<br>citizen<br>veteran<br>wage<br>peace<br>urban
-bip_39_word_new_line_1: record
-bip_39_word_new_line_10: 'record
-
-  pave
-
-  lady
-
-  quiz
-
-  citizen
-
-  veteran
-
-  wage
-
-  peace
-
-  urban
-
-  laundry'
-bip_39_word_new_line_11: 'record
-
-  pave
-
-  lady
-
-  quiz
-
-  citizen
-
-  veteran
-
-  wage
-
-  peace
-
-  urban
-
-  laundry
-
-  unaware'
 bip_39_word_new_line_12: 'record
 
   pave
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'record
   pave
 
   lady'
-bip_39_word_new_line_4: 'record
-
-  pave
-
-  lady
-
-  quiz'
-bip_39_word_new_line_5: 'record
-
-  pave
-
-  lady
-
-  quiz
-
-  citizen'
-bip_39_word_new_line_6: 'record
-
-  pave
-
-  lady
-
-  quiz
-
-  citizen
-
-  veteran'
-bip_39_word_new_line_7: 'record
-
-  pave
-
-  lady
-
-  quiz
-
-  citizen
-
-  veteran
-
-  wage'
-bip_39_word_new_line_8: 'record
-
-  pave
-
-  lady
-
-  quiz
-
-  citizen
-
-  veteran
-
-  wage
-
-  peace'
-bip_39_word_new_line_9: 'record
-
-  pave
-
-  lady
-
-  quiz
-
-  citizen
-
-  veteran
-
-  wage
-
-  peace
-
-  urban'
-bip_39_word_no_space_1: record
-bip_39_word_no_space_10: recordpaveladyquizcitizenveteranwagepeaceurbanlaundry
-bip_39_word_no_space_11: recordpaveladyquizcitizenveteranwagepeaceurbanlaundryunaware
 bip_39_word_no_space_12: recordpaveladyquizcitizenveteranwagepeaceurbanlaundryunawarearena
 bip_39_word_no_space_2: recordpave
 bip_39_word_no_space_3: recordpavelady
-bip_39_word_no_space_4: recordpaveladyquiz
-bip_39_word_no_space_5: recordpaveladyquizcitizen
-bip_39_word_no_space_6: recordpaveladyquizcitizenveteran
-bip_39_word_no_space_7: recordpaveladyquizcitizenveteranwage
-bip_39_word_no_space_8: recordpaveladyquizcitizenveteranwagepeace
-bip_39_word_no_space_9: recordpaveladyquizcitizenveteranwagepeaceurban
-bip_39_word_space_0:
-- record
-- pave
-- lady
-- quiz
-- citizen
-- veteran
-- wage
-- peace
-- urban
-- laundry
-- unaware
-- arena
-bip_39_word_space_1: record
-bip_39_word_space_10: record pave lady quiz citizen veteran wage peace urban laundry
-bip_39_word_space_11: record pave lady quiz citizen veteran wage peace urban laundry
-  unaware
 bip_39_word_space_12: record pave lady quiz citizen veteran wage peace urban laundry
   unaware arena
 bip_39_word_space_2: record pave
 bip_39_word_space_3: record pave lady
-bip_39_word_space_4: record pave lady quiz
-bip_39_word_space_5: record pave lady quiz citizen
-bip_39_word_space_6: record pave lady quiz citizen veteran
-bip_39_word_space_7: record pave lady quiz citizen veteran wage
-bip_39_word_space_8: record pave lady quiz citizen veteran wage peace
-bip_39_word_space_9: record pave lady quiz citizen veteran wage peace urban
-bip_39_word_underscore_1: record
-bip_39_word_underscore_10: record_pave_lady_quiz_citizen_veteran_wage_peace_urban_laundry
-bip_39_word_underscore_11: record_pave_lady_quiz_citizen_veteran_wage_peace_urban_laundry_unaware
 bip_39_word_underscore_12: record_pave_lady_quiz_citizen_veteran_wage_peace_urban_laundry_unaware_arena
 bip_39_word_underscore_2: record_pave
 bip_39_word_underscore_3: record_pave_lady
-bip_39_word_underscore_4: record_pave_lady_quiz
-bip_39_word_underscore_5: record_pave_lady_quiz_citizen
-bip_39_word_underscore_6: record_pave_lady_quiz_citizen_veteran
-bip_39_word_underscore_7: record_pave_lady_quiz_citizen_veteran_wage
-bip_39_word_underscore_8: record_pave_lady_quiz_citizen_veteran_wage_peace
-bip_39_word_underscore_9: record_pave_lady_quiz_citizen_veteran_wage_peace_urban
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

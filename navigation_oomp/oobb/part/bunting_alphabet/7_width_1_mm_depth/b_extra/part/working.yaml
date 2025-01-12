@@ -1,68 +1,9 @@
-bip_39_word_dash_1: cliff
-bip_39_word_dash_10: cliff-zero-rice-float-good-sunny-bone-grunt-void-peasant
-bip_39_word_dash_11: cliff-zero-rice-float-good-sunny-bone-grunt-void-peasant-swap
 bip_39_word_dash_12: cliff-zero-rice-float-good-sunny-bone-grunt-void-peasant-swap-across
 bip_39_word_dash_2: cliff-zero
 bip_39_word_dash_3: cliff-zero-rice
-bip_39_word_dash_4: cliff-zero-rice-float
-bip_39_word_dash_5: cliff-zero-rice-float-good
-bip_39_word_dash_6: cliff-zero-rice-float-good-sunny
-bip_39_word_dash_7: cliff-zero-rice-float-good-sunny-bone
-bip_39_word_dash_8: cliff-zero-rice-float-good-sunny-bone-grunt
-bip_39_word_dash_9: cliff-zero-rice-float-good-sunny-bone-grunt-void
-bip_39_word_new_br_1: cliff
-bip_39_word_new_br_10: cliff<br>zero<br>rice<br>float<br>good<br>sunny<br>bone<br>grunt<br>void<br>peasant
-bip_39_word_new_br_11: cliff<br>zero<br>rice<br>float<br>good<br>sunny<br>bone<br>grunt<br>void<br>peasant<br>swap
 bip_39_word_new_br_12: cliff<br>zero<br>rice<br>float<br>good<br>sunny<br>bone<br>grunt<br>void<br>peasant<br>swap<br>across
 bip_39_word_new_br_2: cliff<br>zero
 bip_39_word_new_br_3: cliff<br>zero<br>rice
-bip_39_word_new_br_4: cliff<br>zero<br>rice<br>float
-bip_39_word_new_br_5: cliff<br>zero<br>rice<br>float<br>good
-bip_39_word_new_br_6: cliff<br>zero<br>rice<br>float<br>good<br>sunny
-bip_39_word_new_br_7: cliff<br>zero<br>rice<br>float<br>good<br>sunny<br>bone
-bip_39_word_new_br_8: cliff<br>zero<br>rice<br>float<br>good<br>sunny<br>bone<br>grunt
-bip_39_word_new_br_9: cliff<br>zero<br>rice<br>float<br>good<br>sunny<br>bone<br>grunt<br>void
-bip_39_word_new_line_1: cliff
-bip_39_word_new_line_10: 'cliff
-
-  zero
-
-  rice
-
-  float
-
-  good
-
-  sunny
-
-  bone
-
-  grunt
-
-  void
-
-  peasant'
-bip_39_word_new_line_11: 'cliff
-
-  zero
-
-  rice
-
-  float
-
-  good
-
-  sunny
-
-  bone
-
-  grunt
-
-  void
-
-  peasant
-
-  swap'
 bip_39_word_new_line_12: 'cliff
 
   zero
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'cliff
   zero
 
   rice'
-bip_39_word_new_line_4: 'cliff
-
-  zero
-
-  rice
-
-  float'
-bip_39_word_new_line_5: 'cliff
-
-  zero
-
-  rice
-
-  float
-
-  good'
-bip_39_word_new_line_6: 'cliff
-
-  zero
-
-  rice
-
-  float
-
-  good
-
-  sunny'
-bip_39_word_new_line_7: 'cliff
-
-  zero
-
-  rice
-
-  float
-
-  good
-
-  sunny
-
-  bone'
-bip_39_word_new_line_8: 'cliff
-
-  zero
-
-  rice
-
-  float
-
-  good
-
-  sunny
-
-  bone
-
-  grunt'
-bip_39_word_new_line_9: 'cliff
-
-  zero
-
-  rice
-
-  float
-
-  good
-
-  sunny
-
-  bone
-
-  grunt
-
-  void'
-bip_39_word_no_space_1: cliff
-bip_39_word_no_space_10: cliffzeroricefloatgoodsunnybonegruntvoidpeasant
-bip_39_word_no_space_11: cliffzeroricefloatgoodsunnybonegruntvoidpeasantswap
 bip_39_word_no_space_12: cliffzeroricefloatgoodsunnybonegruntvoidpeasantswapacross
 bip_39_word_no_space_2: cliffzero
 bip_39_word_no_space_3: cliffzerorice
-bip_39_word_no_space_4: cliffzeroricefloat
-bip_39_word_no_space_5: cliffzeroricefloatgood
-bip_39_word_no_space_6: cliffzeroricefloatgoodsunny
-bip_39_word_no_space_7: cliffzeroricefloatgoodsunnybone
-bip_39_word_no_space_8: cliffzeroricefloatgoodsunnybonegrunt
-bip_39_word_no_space_9: cliffzeroricefloatgoodsunnybonegruntvoid
-bip_39_word_space_0:
-- cliff
-- zero
-- rice
-- float
-- good
-- sunny
-- bone
-- grunt
-- void
-- peasant
-- swap
-- across
-bip_39_word_space_1: cliff
-bip_39_word_space_10: cliff zero rice float good sunny bone grunt void peasant
-bip_39_word_space_11: cliff zero rice float good sunny bone grunt void peasant swap
 bip_39_word_space_12: cliff zero rice float good sunny bone grunt void peasant swap
   across
 bip_39_word_space_2: cliff zero
 bip_39_word_space_3: cliff zero rice
-bip_39_word_space_4: cliff zero rice float
-bip_39_word_space_5: cliff zero rice float good
-bip_39_word_space_6: cliff zero rice float good sunny
-bip_39_word_space_7: cliff zero rice float good sunny bone
-bip_39_word_space_8: cliff zero rice float good sunny bone grunt
-bip_39_word_space_9: cliff zero rice float good sunny bone grunt void
-bip_39_word_underscore_1: cliff
-bip_39_word_underscore_10: cliff_zero_rice_float_good_sunny_bone_grunt_void_peasant
-bip_39_word_underscore_11: cliff_zero_rice_float_good_sunny_bone_grunt_void_peasant_swap
 bip_39_word_underscore_12: cliff_zero_rice_float_good_sunny_bone_grunt_void_peasant_swap_across
 bip_39_word_underscore_2: cliff_zero
 bip_39_word_underscore_3: cliff_zero_rice
-bip_39_word_underscore_4: cliff_zero_rice_float
-bip_39_word_underscore_5: cliff_zero_rice_float_good
-bip_39_word_underscore_6: cliff_zero_rice_float_good_sunny
-bip_39_word_underscore_7: cliff_zero_rice_float_good_sunny_bone
-bip_39_word_underscore_8: cliff_zero_rice_float_good_sunny_bone_grunt
-bip_39_word_underscore_9: cliff_zero_rice_float_good_sunny_bone_grunt_void
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: crush
-bip_39_word_dash_10: crush-purpose-spring-sadness-satoshi-mule-east-venture-dove-large
-bip_39_word_dash_11: crush-purpose-spring-sadness-satoshi-mule-east-venture-dove-large-motor
 bip_39_word_dash_12: crush-purpose-spring-sadness-satoshi-mule-east-venture-dove-large-motor-around
 bip_39_word_dash_2: crush-purpose
 bip_39_word_dash_3: crush-purpose-spring
-bip_39_word_dash_4: crush-purpose-spring-sadness
-bip_39_word_dash_5: crush-purpose-spring-sadness-satoshi
-bip_39_word_dash_6: crush-purpose-spring-sadness-satoshi-mule
-bip_39_word_dash_7: crush-purpose-spring-sadness-satoshi-mule-east
-bip_39_word_dash_8: crush-purpose-spring-sadness-satoshi-mule-east-venture
-bip_39_word_dash_9: crush-purpose-spring-sadness-satoshi-mule-east-venture-dove
-bip_39_word_new_br_1: crush
-bip_39_word_new_br_10: crush<br>purpose<br>spring<br>sadness<br>satoshi<br>mule<br>east<br>venture<br>dove<br>large
-bip_39_word_new_br_11: crush<br>purpose<br>spring<br>sadness<br>satoshi<br>mule<br>east<br>venture<br>dove<br>large<br>motor
 bip_39_word_new_br_12: crush<br>purpose<br>spring<br>sadness<br>satoshi<br>mule<br>east<br>venture<br>dove<br>large<br>motor<br>around
 bip_39_word_new_br_2: crush<br>purpose
 bip_39_word_new_br_3: crush<br>purpose<br>spring
-bip_39_word_new_br_4: crush<br>purpose<br>spring<br>sadness
-bip_39_word_new_br_5: crush<br>purpose<br>spring<br>sadness<br>satoshi
-bip_39_word_new_br_6: crush<br>purpose<br>spring<br>sadness<br>satoshi<br>mule
-bip_39_word_new_br_7: crush<br>purpose<br>spring<br>sadness<br>satoshi<br>mule<br>east
-bip_39_word_new_br_8: crush<br>purpose<br>spring<br>sadness<br>satoshi<br>mule<br>east<br>venture
-bip_39_word_new_br_9: crush<br>purpose<br>spring<br>sadness<br>satoshi<br>mule<br>east<br>venture<br>dove
-bip_39_word_new_line_1: crush
-bip_39_word_new_line_10: 'crush
-
-  purpose
-
-  spring
-
-  sadness
-
-  satoshi
-
-  mule
-
-  east
-
-  venture
-
-  dove
-
-  large'
-bip_39_word_new_line_11: 'crush
-
-  purpose
-
-  spring
-
-  sadness
-
-  satoshi
-
-  mule
-
-  east
-
-  venture
-
-  dove
-
-  large
-
-  motor'
 bip_39_word_new_line_12: 'crush
 
   purpose
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'crush
   purpose
 
   spring'
-bip_39_word_new_line_4: 'crush
-
-  purpose
-
-  spring
-
-  sadness'
-bip_39_word_new_line_5: 'crush
-
-  purpose
-
-  spring
-
-  sadness
-
-  satoshi'
-bip_39_word_new_line_6: 'crush
-
-  purpose
-
-  spring
-
-  sadness
-
-  satoshi
-
-  mule'
-bip_39_word_new_line_7: 'crush
-
-  purpose
-
-  spring
-
-  sadness
-
-  satoshi
-
-  mule
-
-  east'
-bip_39_word_new_line_8: 'crush
-
-  purpose
-
-  spring
-
-  sadness
-
-  satoshi
-
-  mule
-
-  east
-
-  venture'
-bip_39_word_new_line_9: 'crush
-
-  purpose
-
-  spring
-
-  sadness
-
-  satoshi
-
-  mule
-
-  east
-
-  venture
-
-  dove'
-bip_39_word_no_space_1: crush
-bip_39_word_no_space_10: crushpurposespringsadnesssatoshimuleeastventuredovelarge
-bip_39_word_no_space_11: crushpurposespringsadnesssatoshimuleeastventuredovelargemotor
 bip_39_word_no_space_12: crushpurposespringsadnesssatoshimuleeastventuredovelargemotoraround
 bip_39_word_no_space_2: crushpurpose
 bip_39_word_no_space_3: crushpurposespring
-bip_39_word_no_space_4: crushpurposespringsadness
-bip_39_word_no_space_5: crushpurposespringsadnesssatoshi
-bip_39_word_no_space_6: crushpurposespringsadnesssatoshimule
-bip_39_word_no_space_7: crushpurposespringsadnesssatoshimuleeast
-bip_39_word_no_space_8: crushpurposespringsadnesssatoshimuleeastventure
-bip_39_word_no_space_9: crushpurposespringsadnesssatoshimuleeastventuredove
-bip_39_word_space_0:
-- crush
-- purpose
-- spring
-- sadness
-- satoshi
-- mule
-- east
-- venture
-- dove
-- large
-- motor
-- around
-bip_39_word_space_1: crush
-bip_39_word_space_10: crush purpose spring sadness satoshi mule east venture dove
-  large
-bip_39_word_space_11: crush purpose spring sadness satoshi mule east venture dove
-  large motor
 bip_39_word_space_12: crush purpose spring sadness satoshi mule east venture dove
   large motor around
 bip_39_word_space_2: crush purpose
 bip_39_word_space_3: crush purpose spring
-bip_39_word_space_4: crush purpose spring sadness
-bip_39_word_space_5: crush purpose spring sadness satoshi
-bip_39_word_space_6: crush purpose spring sadness satoshi mule
-bip_39_word_space_7: crush purpose spring sadness satoshi mule east
-bip_39_word_space_8: crush purpose spring sadness satoshi mule east venture
-bip_39_word_space_9: crush purpose spring sadness satoshi mule east venture dove
-bip_39_word_underscore_1: crush
-bip_39_word_underscore_10: crush_purpose_spring_sadness_satoshi_mule_east_venture_dove_large
-bip_39_word_underscore_11: crush_purpose_spring_sadness_satoshi_mule_east_venture_dove_large_motor
 bip_39_word_underscore_12: crush_purpose_spring_sadness_satoshi_mule_east_venture_dove_large_motor_around
 bip_39_word_underscore_2: crush_purpose
 bip_39_word_underscore_3: crush_purpose_spring
-bip_39_word_underscore_4: crush_purpose_spring_sadness
-bip_39_word_underscore_5: crush_purpose_spring_sadness_satoshi
-bip_39_word_underscore_6: crush_purpose_spring_sadness_satoshi_mule
-bip_39_word_underscore_7: crush_purpose_spring_sadness_satoshi_mule_east
-bip_39_word_underscore_8: crush_purpose_spring_sadness_satoshi_mule_east_venture
-bip_39_word_underscore_9: crush_purpose_spring_sadness_satoshi_mule_east_venture_dove
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

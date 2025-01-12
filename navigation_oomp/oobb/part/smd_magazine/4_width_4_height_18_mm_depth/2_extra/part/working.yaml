@@ -1,68 +1,9 @@
-bip_39_word_dash_1: nurse
-bip_39_word_dash_10: nurse-toilet-soldier-inform-size-various-erase-tube-brother-target
-bip_39_word_dash_11: nurse-toilet-soldier-inform-size-various-erase-tube-brother-target-aunt
 bip_39_word_dash_12: nurse-toilet-soldier-inform-size-various-erase-tube-brother-target-aunt-alpha
 bip_39_word_dash_2: nurse-toilet
 bip_39_word_dash_3: nurse-toilet-soldier
-bip_39_word_dash_4: nurse-toilet-soldier-inform
-bip_39_word_dash_5: nurse-toilet-soldier-inform-size
-bip_39_word_dash_6: nurse-toilet-soldier-inform-size-various
-bip_39_word_dash_7: nurse-toilet-soldier-inform-size-various-erase
-bip_39_word_dash_8: nurse-toilet-soldier-inform-size-various-erase-tube
-bip_39_word_dash_9: nurse-toilet-soldier-inform-size-various-erase-tube-brother
-bip_39_word_new_br_1: nurse
-bip_39_word_new_br_10: nurse<br>toilet<br>soldier<br>inform<br>size<br>various<br>erase<br>tube<br>brother<br>target
-bip_39_word_new_br_11: nurse<br>toilet<br>soldier<br>inform<br>size<br>various<br>erase<br>tube<br>brother<br>target<br>aunt
 bip_39_word_new_br_12: nurse<br>toilet<br>soldier<br>inform<br>size<br>various<br>erase<br>tube<br>brother<br>target<br>aunt<br>alpha
 bip_39_word_new_br_2: nurse<br>toilet
 bip_39_word_new_br_3: nurse<br>toilet<br>soldier
-bip_39_word_new_br_4: nurse<br>toilet<br>soldier<br>inform
-bip_39_word_new_br_5: nurse<br>toilet<br>soldier<br>inform<br>size
-bip_39_word_new_br_6: nurse<br>toilet<br>soldier<br>inform<br>size<br>various
-bip_39_word_new_br_7: nurse<br>toilet<br>soldier<br>inform<br>size<br>various<br>erase
-bip_39_word_new_br_8: nurse<br>toilet<br>soldier<br>inform<br>size<br>various<br>erase<br>tube
-bip_39_word_new_br_9: nurse<br>toilet<br>soldier<br>inform<br>size<br>various<br>erase<br>tube<br>brother
-bip_39_word_new_line_1: nurse
-bip_39_word_new_line_10: 'nurse
-
-  toilet
-
-  soldier
-
-  inform
-
-  size
-
-  various
-
-  erase
-
-  tube
-
-  brother
-
-  target'
-bip_39_word_new_line_11: 'nurse
-
-  toilet
-
-  soldier
-
-  inform
-
-  size
-
-  various
-
-  erase
-
-  tube
-
-  brother
-
-  target
-
-  aunt'
 bip_39_word_new_line_12: 'nurse
 
   toilet
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'nurse
   toilet
 
   soldier'
-bip_39_word_new_line_4: 'nurse
-
-  toilet
-
-  soldier
-
-  inform'
-bip_39_word_new_line_5: 'nurse
-
-  toilet
-
-  soldier
-
-  inform
-
-  size'
-bip_39_word_new_line_6: 'nurse
-
-  toilet
-
-  soldier
-
-  inform
-
-  size
-
-  various'
-bip_39_word_new_line_7: 'nurse
-
-  toilet
-
-  soldier
-
-  inform
-
-  size
-
-  various
-
-  erase'
-bip_39_word_new_line_8: 'nurse
-
-  toilet
-
-  soldier
-
-  inform
-
-  size
-
-  various
-
-  erase
-
-  tube'
-bip_39_word_new_line_9: 'nurse
-
-  toilet
-
-  soldier
-
-  inform
-
-  size
-
-  various
-
-  erase
-
-  tube
-
-  brother'
-bip_39_word_no_space_1: nurse
-bip_39_word_no_space_10: nursetoiletsoldierinformsizevariouserasetubebrothertarget
-bip_39_word_no_space_11: nursetoiletsoldierinformsizevariouserasetubebrothertargetaunt
 bip_39_word_no_space_12: nursetoiletsoldierinformsizevariouserasetubebrothertargetauntalpha
 bip_39_word_no_space_2: nursetoilet
 bip_39_word_no_space_3: nursetoiletsoldier
-bip_39_word_no_space_4: nursetoiletsoldierinform
-bip_39_word_no_space_5: nursetoiletsoldierinformsize
-bip_39_word_no_space_6: nursetoiletsoldierinformsizevarious
-bip_39_word_no_space_7: nursetoiletsoldierinformsizevariouserase
-bip_39_word_no_space_8: nursetoiletsoldierinformsizevariouserasetube
-bip_39_word_no_space_9: nursetoiletsoldierinformsizevariouserasetubebrother
-bip_39_word_space_0:
-- nurse
-- toilet
-- soldier
-- inform
-- size
-- various
-- erase
-- tube
-- brother
-- target
-- aunt
-- alpha
-bip_39_word_space_1: nurse
-bip_39_word_space_10: nurse toilet soldier inform size various erase tube brother
-  target
-bip_39_word_space_11: nurse toilet soldier inform size various erase tube brother
-  target aunt
 bip_39_word_space_12: nurse toilet soldier inform size various erase tube brother
   target aunt alpha
 bip_39_word_space_2: nurse toilet
 bip_39_word_space_3: nurse toilet soldier
-bip_39_word_space_4: nurse toilet soldier inform
-bip_39_word_space_5: nurse toilet soldier inform size
-bip_39_word_space_6: nurse toilet soldier inform size various
-bip_39_word_space_7: nurse toilet soldier inform size various erase
-bip_39_word_space_8: nurse toilet soldier inform size various erase tube
-bip_39_word_space_9: nurse toilet soldier inform size various erase tube brother
-bip_39_word_underscore_1: nurse
-bip_39_word_underscore_10: nurse_toilet_soldier_inform_size_various_erase_tube_brother_target
-bip_39_word_underscore_11: nurse_toilet_soldier_inform_size_various_erase_tube_brother_target_aunt
 bip_39_word_underscore_12: nurse_toilet_soldier_inform_size_various_erase_tube_brother_target_aunt_alpha
 bip_39_word_underscore_2: nurse_toilet
 bip_39_word_underscore_3: nurse_toilet_soldier
-bip_39_word_underscore_4: nurse_toilet_soldier_inform
-bip_39_word_underscore_5: nurse_toilet_soldier_inform_size
-bip_39_word_underscore_6: nurse_toilet_soldier_inform_size_various
-bip_39_word_underscore_7: nurse_toilet_soldier_inform_size_various_erase
-bip_39_word_underscore_8: nurse_toilet_soldier_inform_size_various_erase_tube
-bip_39_word_underscore_9: nurse_toilet_soldier_inform_size_various_erase_tube_brother
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: isolate
-bip_39_word_dash_10: isolate-cake-seven-will-hazard-oblige-inmate-gravity-hurt-just
-bip_39_word_dash_11: isolate-cake-seven-will-hazard-oblige-inmate-gravity-hurt-just-deer
 bip_39_word_dash_12: isolate-cake-seven-will-hazard-oblige-inmate-gravity-hurt-just-deer-alert
 bip_39_word_dash_2: isolate-cake
 bip_39_word_dash_3: isolate-cake-seven
-bip_39_word_dash_4: isolate-cake-seven-will
-bip_39_word_dash_5: isolate-cake-seven-will-hazard
-bip_39_word_dash_6: isolate-cake-seven-will-hazard-oblige
-bip_39_word_dash_7: isolate-cake-seven-will-hazard-oblige-inmate
-bip_39_word_dash_8: isolate-cake-seven-will-hazard-oblige-inmate-gravity
-bip_39_word_dash_9: isolate-cake-seven-will-hazard-oblige-inmate-gravity-hurt
-bip_39_word_new_br_1: isolate
-bip_39_word_new_br_10: isolate<br>cake<br>seven<br>will<br>hazard<br>oblige<br>inmate<br>gravity<br>hurt<br>just
-bip_39_word_new_br_11: isolate<br>cake<br>seven<br>will<br>hazard<br>oblige<br>inmate<br>gravity<br>hurt<br>just<br>deer
 bip_39_word_new_br_12: isolate<br>cake<br>seven<br>will<br>hazard<br>oblige<br>inmate<br>gravity<br>hurt<br>just<br>deer<br>alert
 bip_39_word_new_br_2: isolate<br>cake
 bip_39_word_new_br_3: isolate<br>cake<br>seven
-bip_39_word_new_br_4: isolate<br>cake<br>seven<br>will
-bip_39_word_new_br_5: isolate<br>cake<br>seven<br>will<br>hazard
-bip_39_word_new_br_6: isolate<br>cake<br>seven<br>will<br>hazard<br>oblige
-bip_39_word_new_br_7: isolate<br>cake<br>seven<br>will<br>hazard<br>oblige<br>inmate
-bip_39_word_new_br_8: isolate<br>cake<br>seven<br>will<br>hazard<br>oblige<br>inmate<br>gravity
-bip_39_word_new_br_9: isolate<br>cake<br>seven<br>will<br>hazard<br>oblige<br>inmate<br>gravity<br>hurt
-bip_39_word_new_line_1: isolate
-bip_39_word_new_line_10: 'isolate
-
-  cake
-
-  seven
-
-  will
-
-  hazard
-
-  oblige
-
-  inmate
-
-  gravity
-
-  hurt
-
-  just'
-bip_39_word_new_line_11: 'isolate
-
-  cake
-
-  seven
-
-  will
-
-  hazard
-
-  oblige
-
-  inmate
-
-  gravity
-
-  hurt
-
-  just
-
-  deer'
 bip_39_word_new_line_12: 'isolate
 
   cake
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'isolate
   cake
 
   seven'
-bip_39_word_new_line_4: 'isolate
-
-  cake
-
-  seven
-
-  will'
-bip_39_word_new_line_5: 'isolate
-
-  cake
-
-  seven
-
-  will
-
-  hazard'
-bip_39_word_new_line_6: 'isolate
-
-  cake
-
-  seven
-
-  will
-
-  hazard
-
-  oblige'
-bip_39_word_new_line_7: 'isolate
-
-  cake
-
-  seven
-
-  will
-
-  hazard
-
-  oblige
-
-  inmate'
-bip_39_word_new_line_8: 'isolate
-
-  cake
-
-  seven
-
-  will
-
-  hazard
-
-  oblige
-
-  inmate
-
-  gravity'
-bip_39_word_new_line_9: 'isolate
-
-  cake
-
-  seven
-
-  will
-
-  hazard
-
-  oblige
-
-  inmate
-
-  gravity
-
-  hurt'
-bip_39_word_no_space_1: isolate
-bip_39_word_no_space_10: isolatecakesevenwillhazardobligeinmategravityhurtjust
-bip_39_word_no_space_11: isolatecakesevenwillhazardobligeinmategravityhurtjustdeer
 bip_39_word_no_space_12: isolatecakesevenwillhazardobligeinmategravityhurtjustdeeralert
 bip_39_word_no_space_2: isolatecake
 bip_39_word_no_space_3: isolatecakeseven
-bip_39_word_no_space_4: isolatecakesevenwill
-bip_39_word_no_space_5: isolatecakesevenwillhazard
-bip_39_word_no_space_6: isolatecakesevenwillhazardoblige
-bip_39_word_no_space_7: isolatecakesevenwillhazardobligeinmate
-bip_39_word_no_space_8: isolatecakesevenwillhazardobligeinmategravity
-bip_39_word_no_space_9: isolatecakesevenwillhazardobligeinmategravityhurt
-bip_39_word_space_0:
-- isolate
-- cake
-- seven
-- will
-- hazard
-- oblige
-- inmate
-- gravity
-- hurt
-- just
-- deer
-- alert
-bip_39_word_space_1: isolate
-bip_39_word_space_10: isolate cake seven will hazard oblige inmate gravity hurt just
-bip_39_word_space_11: isolate cake seven will hazard oblige inmate gravity hurt just
-  deer
 bip_39_word_space_12: isolate cake seven will hazard oblige inmate gravity hurt just
   deer alert
 bip_39_word_space_2: isolate cake
 bip_39_word_space_3: isolate cake seven
-bip_39_word_space_4: isolate cake seven will
-bip_39_word_space_5: isolate cake seven will hazard
-bip_39_word_space_6: isolate cake seven will hazard oblige
-bip_39_word_space_7: isolate cake seven will hazard oblige inmate
-bip_39_word_space_8: isolate cake seven will hazard oblige inmate gravity
-bip_39_word_space_9: isolate cake seven will hazard oblige inmate gravity hurt
-bip_39_word_underscore_1: isolate
-bip_39_word_underscore_10: isolate_cake_seven_will_hazard_oblige_inmate_gravity_hurt_just
-bip_39_word_underscore_11: isolate_cake_seven_will_hazard_oblige_inmate_gravity_hurt_just_deer
 bip_39_word_underscore_12: isolate_cake_seven_will_hazard_oblige_inmate_gravity_hurt_just_deer_alert
 bip_39_word_underscore_2: isolate_cake
 bip_39_word_underscore_3: isolate_cake_seven
-bip_39_word_underscore_4: isolate_cake_seven_will
-bip_39_word_underscore_5: isolate_cake_seven_will_hazard
-bip_39_word_underscore_6: isolate_cake_seven_will_hazard_oblige
-bip_39_word_underscore_7: isolate_cake_seven_will_hazard_oblige_inmate
-bip_39_word_underscore_8: isolate_cake_seven_will_hazard_oblige_inmate_gravity
-bip_39_word_underscore_9: isolate_cake_seven_will_hazard_oblige_inmate_gravity_hurt
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

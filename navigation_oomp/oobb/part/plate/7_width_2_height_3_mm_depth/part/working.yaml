@@ -1,68 +1,9 @@
-bip_39_word_dash_1: decide
-bip_39_word_dash_10: decide-soda-grape-suit-ancient-pig-brave-quick-device-dutch
-bip_39_word_dash_11: decide-soda-grape-suit-ancient-pig-brave-quick-device-dutch-stadium
 bip_39_word_dash_12: decide-soda-grape-suit-ancient-pig-brave-quick-device-dutch-stadium-accuse
 bip_39_word_dash_2: decide-soda
 bip_39_word_dash_3: decide-soda-grape
-bip_39_word_dash_4: decide-soda-grape-suit
-bip_39_word_dash_5: decide-soda-grape-suit-ancient
-bip_39_word_dash_6: decide-soda-grape-suit-ancient-pig
-bip_39_word_dash_7: decide-soda-grape-suit-ancient-pig-brave
-bip_39_word_dash_8: decide-soda-grape-suit-ancient-pig-brave-quick
-bip_39_word_dash_9: decide-soda-grape-suit-ancient-pig-brave-quick-device
-bip_39_word_new_br_1: decide
-bip_39_word_new_br_10: decide<br>soda<br>grape<br>suit<br>ancient<br>pig<br>brave<br>quick<br>device<br>dutch
-bip_39_word_new_br_11: decide<br>soda<br>grape<br>suit<br>ancient<br>pig<br>brave<br>quick<br>device<br>dutch<br>stadium
 bip_39_word_new_br_12: decide<br>soda<br>grape<br>suit<br>ancient<br>pig<br>brave<br>quick<br>device<br>dutch<br>stadium<br>accuse
 bip_39_word_new_br_2: decide<br>soda
 bip_39_word_new_br_3: decide<br>soda<br>grape
-bip_39_word_new_br_4: decide<br>soda<br>grape<br>suit
-bip_39_word_new_br_5: decide<br>soda<br>grape<br>suit<br>ancient
-bip_39_word_new_br_6: decide<br>soda<br>grape<br>suit<br>ancient<br>pig
-bip_39_word_new_br_7: decide<br>soda<br>grape<br>suit<br>ancient<br>pig<br>brave
-bip_39_word_new_br_8: decide<br>soda<br>grape<br>suit<br>ancient<br>pig<br>brave<br>quick
-bip_39_word_new_br_9: decide<br>soda<br>grape<br>suit<br>ancient<br>pig<br>brave<br>quick<br>device
-bip_39_word_new_line_1: decide
-bip_39_word_new_line_10: 'decide
-
-  soda
-
-  grape
-
-  suit
-
-  ancient
-
-  pig
-
-  brave
-
-  quick
-
-  device
-
-  dutch'
-bip_39_word_new_line_11: 'decide
-
-  soda
-
-  grape
-
-  suit
-
-  ancient
-
-  pig
-
-  brave
-
-  quick
-
-  device
-
-  dutch
-
-  stadium'
 bip_39_word_new_line_12: 'decide
 
   soda
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'decide
   soda
 
   grape'
-bip_39_word_new_line_4: 'decide
-
-  soda
-
-  grape
-
-  suit'
-bip_39_word_new_line_5: 'decide
-
-  soda
-
-  grape
-
-  suit
-
-  ancient'
-bip_39_word_new_line_6: 'decide
-
-  soda
-
-  grape
-
-  suit
-
-  ancient
-
-  pig'
-bip_39_word_new_line_7: 'decide
-
-  soda
-
-  grape
-
-  suit
-
-  ancient
-
-  pig
-
-  brave'
-bip_39_word_new_line_8: 'decide
-
-  soda
-
-  grape
-
-  suit
-
-  ancient
-
-  pig
-
-  brave
-
-  quick'
-bip_39_word_new_line_9: 'decide
-
-  soda
-
-  grape
-
-  suit
-
-  ancient
-
-  pig
-
-  brave
-
-  quick
-
-  device'
-bip_39_word_no_space_1: decide
-bip_39_word_no_space_10: decidesodagrapesuitancientpigbravequickdevicedutch
-bip_39_word_no_space_11: decidesodagrapesuitancientpigbravequickdevicedutchstadium
 bip_39_word_no_space_12: decidesodagrapesuitancientpigbravequickdevicedutchstadiumaccuse
 bip_39_word_no_space_2: decidesoda
 bip_39_word_no_space_3: decidesodagrape
-bip_39_word_no_space_4: decidesodagrapesuit
-bip_39_word_no_space_5: decidesodagrapesuitancient
-bip_39_word_no_space_6: decidesodagrapesuitancientpig
-bip_39_word_no_space_7: decidesodagrapesuitancientpigbrave
-bip_39_word_no_space_8: decidesodagrapesuitancientpigbravequick
-bip_39_word_no_space_9: decidesodagrapesuitancientpigbravequickdevice
-bip_39_word_space_0:
-- decide
-- soda
-- grape
-- suit
-- ancient
-- pig
-- brave
-- quick
-- device
-- dutch
-- stadium
-- accuse
-bip_39_word_space_1: decide
-bip_39_word_space_10: decide soda grape suit ancient pig brave quick device dutch
-bip_39_word_space_11: decide soda grape suit ancient pig brave quick device dutch
-  stadium
 bip_39_word_space_12: decide soda grape suit ancient pig brave quick device dutch
   stadium accuse
 bip_39_word_space_2: decide soda
 bip_39_word_space_3: decide soda grape
-bip_39_word_space_4: decide soda grape suit
-bip_39_word_space_5: decide soda grape suit ancient
-bip_39_word_space_6: decide soda grape suit ancient pig
-bip_39_word_space_7: decide soda grape suit ancient pig brave
-bip_39_word_space_8: decide soda grape suit ancient pig brave quick
-bip_39_word_space_9: decide soda grape suit ancient pig brave quick device
-bip_39_word_underscore_1: decide
-bip_39_word_underscore_10: decide_soda_grape_suit_ancient_pig_brave_quick_device_dutch
-bip_39_word_underscore_11: decide_soda_grape_suit_ancient_pig_brave_quick_device_dutch_stadium
 bip_39_word_underscore_12: decide_soda_grape_suit_ancient_pig_brave_quick_device_dutch_stadium_accuse
 bip_39_word_underscore_2: decide_soda
 bip_39_word_underscore_3: decide_soda_grape
-bip_39_word_underscore_4: decide_soda_grape_suit
-bip_39_word_underscore_5: decide_soda_grape_suit_ancient
-bip_39_word_underscore_6: decide_soda_grape_suit_ancient_pig
-bip_39_word_underscore_7: decide_soda_grape_suit_ancient_pig_brave
-bip_39_word_underscore_8: decide_soda_grape_suit_ancient_pig_brave_quick
-bip_39_word_underscore_9: decide_soda_grape_suit_ancient_pig_brave_quick_device
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

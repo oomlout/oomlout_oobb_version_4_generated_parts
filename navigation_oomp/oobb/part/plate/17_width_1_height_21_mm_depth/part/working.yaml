@@ -1,68 +1,9 @@
-bip_39_word_dash_1: vault
-bip_39_word_dash_10: vault-rain-family-wild-season-afford-ignore-mirror-very-cross
-bip_39_word_dash_11: vault-rain-family-wild-season-afford-ignore-mirror-very-cross-cycle
 bip_39_word_dash_12: vault-rain-family-wild-season-afford-ignore-mirror-very-cross-cycle-accident
 bip_39_word_dash_2: vault-rain
 bip_39_word_dash_3: vault-rain-family
-bip_39_word_dash_4: vault-rain-family-wild
-bip_39_word_dash_5: vault-rain-family-wild-season
-bip_39_word_dash_6: vault-rain-family-wild-season-afford
-bip_39_word_dash_7: vault-rain-family-wild-season-afford-ignore
-bip_39_word_dash_8: vault-rain-family-wild-season-afford-ignore-mirror
-bip_39_word_dash_9: vault-rain-family-wild-season-afford-ignore-mirror-very
-bip_39_word_new_br_1: vault
-bip_39_word_new_br_10: vault<br>rain<br>family<br>wild<br>season<br>afford<br>ignore<br>mirror<br>very<br>cross
-bip_39_word_new_br_11: vault<br>rain<br>family<br>wild<br>season<br>afford<br>ignore<br>mirror<br>very<br>cross<br>cycle
 bip_39_word_new_br_12: vault<br>rain<br>family<br>wild<br>season<br>afford<br>ignore<br>mirror<br>very<br>cross<br>cycle<br>accident
 bip_39_word_new_br_2: vault<br>rain
 bip_39_word_new_br_3: vault<br>rain<br>family
-bip_39_word_new_br_4: vault<br>rain<br>family<br>wild
-bip_39_word_new_br_5: vault<br>rain<br>family<br>wild<br>season
-bip_39_word_new_br_6: vault<br>rain<br>family<br>wild<br>season<br>afford
-bip_39_word_new_br_7: vault<br>rain<br>family<br>wild<br>season<br>afford<br>ignore
-bip_39_word_new_br_8: vault<br>rain<br>family<br>wild<br>season<br>afford<br>ignore<br>mirror
-bip_39_word_new_br_9: vault<br>rain<br>family<br>wild<br>season<br>afford<br>ignore<br>mirror<br>very
-bip_39_word_new_line_1: vault
-bip_39_word_new_line_10: 'vault
-
-  rain
-
-  family
-
-  wild
-
-  season
-
-  afford
-
-  ignore
-
-  mirror
-
-  very
-
-  cross'
-bip_39_word_new_line_11: 'vault
-
-  rain
-
-  family
-
-  wild
-
-  season
-
-  afford
-
-  ignore
-
-  mirror
-
-  very
-
-  cross
-
-  cycle'
 bip_39_word_new_line_12: 'vault
 
   rain
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'vault
   rain
 
   family'
-bip_39_word_new_line_4: 'vault
-
-  rain
-
-  family
-
-  wild'
-bip_39_word_new_line_5: 'vault
-
-  rain
-
-  family
-
-  wild
-
-  season'
-bip_39_word_new_line_6: 'vault
-
-  rain
-
-  family
-
-  wild
-
-  season
-
-  afford'
-bip_39_word_new_line_7: 'vault
-
-  rain
-
-  family
-
-  wild
-
-  season
-
-  afford
-
-  ignore'
-bip_39_word_new_line_8: 'vault
-
-  rain
-
-  family
-
-  wild
-
-  season
-
-  afford
-
-  ignore
-
-  mirror'
-bip_39_word_new_line_9: 'vault
-
-  rain
-
-  family
-
-  wild
-
-  season
-
-  afford
-
-  ignore
-
-  mirror
-
-  very'
-bip_39_word_no_space_1: vault
-bip_39_word_no_space_10: vaultrainfamilywildseasonaffordignoremirrorverycross
-bip_39_word_no_space_11: vaultrainfamilywildseasonaffordignoremirrorverycrosscycle
 bip_39_word_no_space_12: vaultrainfamilywildseasonaffordignoremirrorverycrosscycleaccident
 bip_39_word_no_space_2: vaultrain
 bip_39_word_no_space_3: vaultrainfamily
-bip_39_word_no_space_4: vaultrainfamilywild
-bip_39_word_no_space_5: vaultrainfamilywildseason
-bip_39_word_no_space_6: vaultrainfamilywildseasonafford
-bip_39_word_no_space_7: vaultrainfamilywildseasonaffordignore
-bip_39_word_no_space_8: vaultrainfamilywildseasonaffordignoremirror
-bip_39_word_no_space_9: vaultrainfamilywildseasonaffordignoremirrorvery
-bip_39_word_space_0:
-- vault
-- rain
-- family
-- wild
-- season
-- afford
-- ignore
-- mirror
-- very
-- cross
-- cycle
-- accident
-bip_39_word_space_1: vault
-bip_39_word_space_10: vault rain family wild season afford ignore mirror very cross
-bip_39_word_space_11: vault rain family wild season afford ignore mirror very cross
-  cycle
 bip_39_word_space_12: vault rain family wild season afford ignore mirror very cross
   cycle accident
 bip_39_word_space_2: vault rain
 bip_39_word_space_3: vault rain family
-bip_39_word_space_4: vault rain family wild
-bip_39_word_space_5: vault rain family wild season
-bip_39_word_space_6: vault rain family wild season afford
-bip_39_word_space_7: vault rain family wild season afford ignore
-bip_39_word_space_8: vault rain family wild season afford ignore mirror
-bip_39_word_space_9: vault rain family wild season afford ignore mirror very
-bip_39_word_underscore_1: vault
-bip_39_word_underscore_10: vault_rain_family_wild_season_afford_ignore_mirror_very_cross
-bip_39_word_underscore_11: vault_rain_family_wild_season_afford_ignore_mirror_very_cross_cycle
 bip_39_word_underscore_12: vault_rain_family_wild_season_afford_ignore_mirror_very_cross_cycle_accident
 bip_39_word_underscore_2: vault_rain
 bip_39_word_underscore_3: vault_rain_family
-bip_39_word_underscore_4: vault_rain_family_wild
-bip_39_word_underscore_5: vault_rain_family_wild_season
-bip_39_word_underscore_6: vault_rain_family_wild_season_afford
-bip_39_word_underscore_7: vault_rain_family_wild_season_afford_ignore
-bip_39_word_underscore_8: vault_rain_family_wild_season_afford_ignore_mirror
-bip_39_word_underscore_9: vault_rain_family_wild_season_afford_ignore_mirror_very
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: spin
-bip_39_word_dash_10: spin-recipe-dolphin-sadness-buzz-goat-salute-vague-stock-elephant
-bip_39_word_dash_11: spin-recipe-dolphin-sadness-buzz-goat-salute-vague-stock-elephant-route
 bip_39_word_dash_12: spin-recipe-dolphin-sadness-buzz-goat-salute-vague-stock-elephant-route-aim
 bip_39_word_dash_2: spin-recipe
 bip_39_word_dash_3: spin-recipe-dolphin
-bip_39_word_dash_4: spin-recipe-dolphin-sadness
-bip_39_word_dash_5: spin-recipe-dolphin-sadness-buzz
-bip_39_word_dash_6: spin-recipe-dolphin-sadness-buzz-goat
-bip_39_word_dash_7: spin-recipe-dolphin-sadness-buzz-goat-salute
-bip_39_word_dash_8: spin-recipe-dolphin-sadness-buzz-goat-salute-vague
-bip_39_word_dash_9: spin-recipe-dolphin-sadness-buzz-goat-salute-vague-stock
-bip_39_word_new_br_1: spin
-bip_39_word_new_br_10: spin<br>recipe<br>dolphin<br>sadness<br>buzz<br>goat<br>salute<br>vague<br>stock<br>elephant
-bip_39_word_new_br_11: spin<br>recipe<br>dolphin<br>sadness<br>buzz<br>goat<br>salute<br>vague<br>stock<br>elephant<br>route
 bip_39_word_new_br_12: spin<br>recipe<br>dolphin<br>sadness<br>buzz<br>goat<br>salute<br>vague<br>stock<br>elephant<br>route<br>aim
 bip_39_word_new_br_2: spin<br>recipe
 bip_39_word_new_br_3: spin<br>recipe<br>dolphin
-bip_39_word_new_br_4: spin<br>recipe<br>dolphin<br>sadness
-bip_39_word_new_br_5: spin<br>recipe<br>dolphin<br>sadness<br>buzz
-bip_39_word_new_br_6: spin<br>recipe<br>dolphin<br>sadness<br>buzz<br>goat
-bip_39_word_new_br_7: spin<br>recipe<br>dolphin<br>sadness<br>buzz<br>goat<br>salute
-bip_39_word_new_br_8: spin<br>recipe<br>dolphin<br>sadness<br>buzz<br>goat<br>salute<br>vague
-bip_39_word_new_br_9: spin<br>recipe<br>dolphin<br>sadness<br>buzz<br>goat<br>salute<br>vague<br>stock
-bip_39_word_new_line_1: spin
-bip_39_word_new_line_10: 'spin
-
-  recipe
-
-  dolphin
-
-  sadness
-
-  buzz
-
-  goat
-
-  salute
-
-  vague
-
-  stock
-
-  elephant'
-bip_39_word_new_line_11: 'spin
-
-  recipe
-
-  dolphin
-
-  sadness
-
-  buzz
-
-  goat
-
-  salute
-
-  vague
-
-  stock
-
-  elephant
-
-  route'
 bip_39_word_new_line_12: 'spin
 
   recipe
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'spin
   recipe
 
   dolphin'
-bip_39_word_new_line_4: 'spin
-
-  recipe
-
-  dolphin
-
-  sadness'
-bip_39_word_new_line_5: 'spin
-
-  recipe
-
-  dolphin
-
-  sadness
-
-  buzz'
-bip_39_word_new_line_6: 'spin
-
-  recipe
-
-  dolphin
-
-  sadness
-
-  buzz
-
-  goat'
-bip_39_word_new_line_7: 'spin
-
-  recipe
-
-  dolphin
-
-  sadness
-
-  buzz
-
-  goat
-
-  salute'
-bip_39_word_new_line_8: 'spin
-
-  recipe
-
-  dolphin
-
-  sadness
-
-  buzz
-
-  goat
-
-  salute
-
-  vague'
-bip_39_word_new_line_9: 'spin
-
-  recipe
-
-  dolphin
-
-  sadness
-
-  buzz
-
-  goat
-
-  salute
-
-  vague
-
-  stock'
-bip_39_word_no_space_1: spin
-bip_39_word_no_space_10: spinrecipedolphinsadnessbuzzgoatsalutevaguestockelephant
-bip_39_word_no_space_11: spinrecipedolphinsadnessbuzzgoatsalutevaguestockelephantroute
 bip_39_word_no_space_12: spinrecipedolphinsadnessbuzzgoatsalutevaguestockelephantrouteaim
 bip_39_word_no_space_2: spinrecipe
 bip_39_word_no_space_3: spinrecipedolphin
-bip_39_word_no_space_4: spinrecipedolphinsadness
-bip_39_word_no_space_5: spinrecipedolphinsadnessbuzz
-bip_39_word_no_space_6: spinrecipedolphinsadnessbuzzgoat
-bip_39_word_no_space_7: spinrecipedolphinsadnessbuzzgoatsalute
-bip_39_word_no_space_8: spinrecipedolphinsadnessbuzzgoatsalutevague
-bip_39_word_no_space_9: spinrecipedolphinsadnessbuzzgoatsalutevaguestock
-bip_39_word_space_0:
-- spin
-- recipe
-- dolphin
-- sadness
-- buzz
-- goat
-- salute
-- vague
-- stock
-- elephant
-- route
-- aim
-bip_39_word_space_1: spin
-bip_39_word_space_10: spin recipe dolphin sadness buzz goat salute vague stock elephant
-bip_39_word_space_11: spin recipe dolphin sadness buzz goat salute vague stock elephant
-  route
 bip_39_word_space_12: spin recipe dolphin sadness buzz goat salute vague stock elephant
   route aim
 bip_39_word_space_2: spin recipe
 bip_39_word_space_3: spin recipe dolphin
-bip_39_word_space_4: spin recipe dolphin sadness
-bip_39_word_space_5: spin recipe dolphin sadness buzz
-bip_39_word_space_6: spin recipe dolphin sadness buzz goat
-bip_39_word_space_7: spin recipe dolphin sadness buzz goat salute
-bip_39_word_space_8: spin recipe dolphin sadness buzz goat salute vague
-bip_39_word_space_9: spin recipe dolphin sadness buzz goat salute vague stock
-bip_39_word_underscore_1: spin
-bip_39_word_underscore_10: spin_recipe_dolphin_sadness_buzz_goat_salute_vague_stock_elephant
-bip_39_word_underscore_11: spin_recipe_dolphin_sadness_buzz_goat_salute_vague_stock_elephant_route
 bip_39_word_underscore_12: spin_recipe_dolphin_sadness_buzz_goat_salute_vague_stock_elephant_route_aim
 bip_39_word_underscore_2: spin_recipe
 bip_39_word_underscore_3: spin_recipe_dolphin
-bip_39_word_underscore_4: spin_recipe_dolphin_sadness
-bip_39_word_underscore_5: spin_recipe_dolphin_sadness_buzz
-bip_39_word_underscore_6: spin_recipe_dolphin_sadness_buzz_goat
-bip_39_word_underscore_7: spin_recipe_dolphin_sadness_buzz_goat_salute
-bip_39_word_underscore_8: spin_recipe_dolphin_sadness_buzz_goat_salute_vague
-bip_39_word_underscore_9: spin_recipe_dolphin_sadness_buzz_goat_salute_vague_stock
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

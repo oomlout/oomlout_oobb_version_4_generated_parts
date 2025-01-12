@@ -1,68 +1,9 @@
-bip_39_word_dash_1: seminar
-bip_39_word_dash_10: seminar-dinosaur-glue-impose-mask-shiver-tooth-marriage-guess-useless
-bip_39_word_dash_11: seminar-dinosaur-glue-impose-mask-shiver-tooth-marriage-guess-useless-fragile
 bip_39_word_dash_12: seminar-dinosaur-glue-impose-mask-shiver-tooth-marriage-guess-useless-fragile-among
 bip_39_word_dash_2: seminar-dinosaur
 bip_39_word_dash_3: seminar-dinosaur-glue
-bip_39_word_dash_4: seminar-dinosaur-glue-impose
-bip_39_word_dash_5: seminar-dinosaur-glue-impose-mask
-bip_39_word_dash_6: seminar-dinosaur-glue-impose-mask-shiver
-bip_39_word_dash_7: seminar-dinosaur-glue-impose-mask-shiver-tooth
-bip_39_word_dash_8: seminar-dinosaur-glue-impose-mask-shiver-tooth-marriage
-bip_39_word_dash_9: seminar-dinosaur-glue-impose-mask-shiver-tooth-marriage-guess
-bip_39_word_new_br_1: seminar
-bip_39_word_new_br_10: seminar<br>dinosaur<br>glue<br>impose<br>mask<br>shiver<br>tooth<br>marriage<br>guess<br>useless
-bip_39_word_new_br_11: seminar<br>dinosaur<br>glue<br>impose<br>mask<br>shiver<br>tooth<br>marriage<br>guess<br>useless<br>fragile
 bip_39_word_new_br_12: seminar<br>dinosaur<br>glue<br>impose<br>mask<br>shiver<br>tooth<br>marriage<br>guess<br>useless<br>fragile<br>among
 bip_39_word_new_br_2: seminar<br>dinosaur
 bip_39_word_new_br_3: seminar<br>dinosaur<br>glue
-bip_39_word_new_br_4: seminar<br>dinosaur<br>glue<br>impose
-bip_39_word_new_br_5: seminar<br>dinosaur<br>glue<br>impose<br>mask
-bip_39_word_new_br_6: seminar<br>dinosaur<br>glue<br>impose<br>mask<br>shiver
-bip_39_word_new_br_7: seminar<br>dinosaur<br>glue<br>impose<br>mask<br>shiver<br>tooth
-bip_39_word_new_br_8: seminar<br>dinosaur<br>glue<br>impose<br>mask<br>shiver<br>tooth<br>marriage
-bip_39_word_new_br_9: seminar<br>dinosaur<br>glue<br>impose<br>mask<br>shiver<br>tooth<br>marriage<br>guess
-bip_39_word_new_line_1: seminar
-bip_39_word_new_line_10: 'seminar
-
-  dinosaur
-
-  glue
-
-  impose
-
-  mask
-
-  shiver
-
-  tooth
-
-  marriage
-
-  guess
-
-  useless'
-bip_39_word_new_line_11: 'seminar
-
-  dinosaur
-
-  glue
-
-  impose
-
-  mask
-
-  shiver
-
-  tooth
-
-  marriage
-
-  guess
-
-  useless
-
-  fragile'
 bip_39_word_new_line_12: 'seminar
 
   dinosaur
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'seminar
   dinosaur
 
   glue'
-bip_39_word_new_line_4: 'seminar
-
-  dinosaur
-
-  glue
-
-  impose'
-bip_39_word_new_line_5: 'seminar
-
-  dinosaur
-
-  glue
-
-  impose
-
-  mask'
-bip_39_word_new_line_6: 'seminar
-
-  dinosaur
-
-  glue
-
-  impose
-
-  mask
-
-  shiver'
-bip_39_word_new_line_7: 'seminar
-
-  dinosaur
-
-  glue
-
-  impose
-
-  mask
-
-  shiver
-
-  tooth'
-bip_39_word_new_line_8: 'seminar
-
-  dinosaur
-
-  glue
-
-  impose
-
-  mask
-
-  shiver
-
-  tooth
-
-  marriage'
-bip_39_word_new_line_9: 'seminar
-
-  dinosaur
-
-  glue
-
-  impose
-
-  mask
-
-  shiver
-
-  tooth
-
-  marriage
-
-  guess'
-bip_39_word_no_space_1: seminar
-bip_39_word_no_space_10: seminardinosaurglueimposemaskshivertoothmarriageguessuseless
-bip_39_word_no_space_11: seminardinosaurglueimposemaskshivertoothmarriageguessuselessfragile
 bip_39_word_no_space_12: seminardinosaurglueimposemaskshivertoothmarriageguessuselessfragileamong
 bip_39_word_no_space_2: seminardinosaur
 bip_39_word_no_space_3: seminardinosaurglue
-bip_39_word_no_space_4: seminardinosaurglueimpose
-bip_39_word_no_space_5: seminardinosaurglueimposemask
-bip_39_word_no_space_6: seminardinosaurglueimposemaskshiver
-bip_39_word_no_space_7: seminardinosaurglueimposemaskshivertooth
-bip_39_word_no_space_8: seminardinosaurglueimposemaskshivertoothmarriage
-bip_39_word_no_space_9: seminardinosaurglueimposemaskshivertoothmarriageguess
-bip_39_word_space_0:
-- seminar
-- dinosaur
-- glue
-- impose
-- mask
-- shiver
-- tooth
-- marriage
-- guess
-- useless
-- fragile
-- among
-bip_39_word_space_1: seminar
-bip_39_word_space_10: seminar dinosaur glue impose mask shiver tooth marriage guess
-  useless
-bip_39_word_space_11: seminar dinosaur glue impose mask shiver tooth marriage guess
-  useless fragile
 bip_39_word_space_12: seminar dinosaur glue impose mask shiver tooth marriage guess
   useless fragile among
 bip_39_word_space_2: seminar dinosaur
 bip_39_word_space_3: seminar dinosaur glue
-bip_39_word_space_4: seminar dinosaur glue impose
-bip_39_word_space_5: seminar dinosaur glue impose mask
-bip_39_word_space_6: seminar dinosaur glue impose mask shiver
-bip_39_word_space_7: seminar dinosaur glue impose mask shiver tooth
-bip_39_word_space_8: seminar dinosaur glue impose mask shiver tooth marriage
-bip_39_word_space_9: seminar dinosaur glue impose mask shiver tooth marriage guess
-bip_39_word_underscore_1: seminar
-bip_39_word_underscore_10: seminar_dinosaur_glue_impose_mask_shiver_tooth_marriage_guess_useless
-bip_39_word_underscore_11: seminar_dinosaur_glue_impose_mask_shiver_tooth_marriage_guess_useless_fragile
 bip_39_word_underscore_12: seminar_dinosaur_glue_impose_mask_shiver_tooth_marriage_guess_useless_fragile_among
 bip_39_word_underscore_2: seminar_dinosaur
 bip_39_word_underscore_3: seminar_dinosaur_glue
-bip_39_word_underscore_4: seminar_dinosaur_glue_impose
-bip_39_word_underscore_5: seminar_dinosaur_glue_impose_mask
-bip_39_word_underscore_6: seminar_dinosaur_glue_impose_mask_shiver
-bip_39_word_underscore_7: seminar_dinosaur_glue_impose_mask_shiver_tooth
-bip_39_word_underscore_8: seminar_dinosaur_glue_impose_mask_shiver_tooth_marriage
-bip_39_word_underscore_9: seminar_dinosaur_glue_impose_mask_shiver_tooth_marriage_guess
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

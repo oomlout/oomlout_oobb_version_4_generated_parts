@@ -1,68 +1,9 @@
-bip_39_word_dash_1: asset
-bip_39_word_dash_10: asset-tent-paddle-orange-survey-rib-silent-biology-hard-saddle
-bip_39_word_dash_11: asset-tent-paddle-orange-survey-rib-silent-biology-hard-saddle-random
 bip_39_word_dash_12: asset-tent-paddle-orange-survey-rib-silent-biology-hard-saddle-random-arrive
 bip_39_word_dash_2: asset-tent
 bip_39_word_dash_3: asset-tent-paddle
-bip_39_word_dash_4: asset-tent-paddle-orange
-bip_39_word_dash_5: asset-tent-paddle-orange-survey
-bip_39_word_dash_6: asset-tent-paddle-orange-survey-rib
-bip_39_word_dash_7: asset-tent-paddle-orange-survey-rib-silent
-bip_39_word_dash_8: asset-tent-paddle-orange-survey-rib-silent-biology
-bip_39_word_dash_9: asset-tent-paddle-orange-survey-rib-silent-biology-hard
-bip_39_word_new_br_1: asset
-bip_39_word_new_br_10: asset<br>tent<br>paddle<br>orange<br>survey<br>rib<br>silent<br>biology<br>hard<br>saddle
-bip_39_word_new_br_11: asset<br>tent<br>paddle<br>orange<br>survey<br>rib<br>silent<br>biology<br>hard<br>saddle<br>random
 bip_39_word_new_br_12: asset<br>tent<br>paddle<br>orange<br>survey<br>rib<br>silent<br>biology<br>hard<br>saddle<br>random<br>arrive
 bip_39_word_new_br_2: asset<br>tent
 bip_39_word_new_br_3: asset<br>tent<br>paddle
-bip_39_word_new_br_4: asset<br>tent<br>paddle<br>orange
-bip_39_word_new_br_5: asset<br>tent<br>paddle<br>orange<br>survey
-bip_39_word_new_br_6: asset<br>tent<br>paddle<br>orange<br>survey<br>rib
-bip_39_word_new_br_7: asset<br>tent<br>paddle<br>orange<br>survey<br>rib<br>silent
-bip_39_word_new_br_8: asset<br>tent<br>paddle<br>orange<br>survey<br>rib<br>silent<br>biology
-bip_39_word_new_br_9: asset<br>tent<br>paddle<br>orange<br>survey<br>rib<br>silent<br>biology<br>hard
-bip_39_word_new_line_1: asset
-bip_39_word_new_line_10: 'asset
-
-  tent
-
-  paddle
-
-  orange
-
-  survey
-
-  rib
-
-  silent
-
-  biology
-
-  hard
-
-  saddle'
-bip_39_word_new_line_11: 'asset
-
-  tent
-
-  paddle
-
-  orange
-
-  survey
-
-  rib
-
-  silent
-
-  biology
-
-  hard
-
-  saddle
-
-  random'
 bip_39_word_new_line_12: 'asset
 
   tent
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'asset
   tent
 
   paddle'
-bip_39_word_new_line_4: 'asset
-
-  tent
-
-  paddle
-
-  orange'
-bip_39_word_new_line_5: 'asset
-
-  tent
-
-  paddle
-
-  orange
-
-  survey'
-bip_39_word_new_line_6: 'asset
-
-  tent
-
-  paddle
-
-  orange
-
-  survey
-
-  rib'
-bip_39_word_new_line_7: 'asset
-
-  tent
-
-  paddle
-
-  orange
-
-  survey
-
-  rib
-
-  silent'
-bip_39_word_new_line_8: 'asset
-
-  tent
-
-  paddle
-
-  orange
-
-  survey
-
-  rib
-
-  silent
-
-  biology'
-bip_39_word_new_line_9: 'asset
-
-  tent
-
-  paddle
-
-  orange
-
-  survey
-
-  rib
-
-  silent
-
-  biology
-
-  hard'
-bip_39_word_no_space_1: asset
-bip_39_word_no_space_10: assettentpaddleorangesurveyribsilentbiologyhardsaddle
-bip_39_word_no_space_11: assettentpaddleorangesurveyribsilentbiologyhardsaddlerandom
 bip_39_word_no_space_12: assettentpaddleorangesurveyribsilentbiologyhardsaddlerandomarrive
 bip_39_word_no_space_2: assettent
 bip_39_word_no_space_3: assettentpaddle
-bip_39_word_no_space_4: assettentpaddleorange
-bip_39_word_no_space_5: assettentpaddleorangesurvey
-bip_39_word_no_space_6: assettentpaddleorangesurveyrib
-bip_39_word_no_space_7: assettentpaddleorangesurveyribsilent
-bip_39_word_no_space_8: assettentpaddleorangesurveyribsilentbiology
-bip_39_word_no_space_9: assettentpaddleorangesurveyribsilentbiologyhard
-bip_39_word_space_0:
-- asset
-- tent
-- paddle
-- orange
-- survey
-- rib
-- silent
-- biology
-- hard
-- saddle
-- random
-- arrive
-bip_39_word_space_1: asset
-bip_39_word_space_10: asset tent paddle orange survey rib silent biology hard saddle
-bip_39_word_space_11: asset tent paddle orange survey rib silent biology hard saddle
-  random
 bip_39_word_space_12: asset tent paddle orange survey rib silent biology hard saddle
   random arrive
 bip_39_word_space_2: asset tent
 bip_39_word_space_3: asset tent paddle
-bip_39_word_space_4: asset tent paddle orange
-bip_39_word_space_5: asset tent paddle orange survey
-bip_39_word_space_6: asset tent paddle orange survey rib
-bip_39_word_space_7: asset tent paddle orange survey rib silent
-bip_39_word_space_8: asset tent paddle orange survey rib silent biology
-bip_39_word_space_9: asset tent paddle orange survey rib silent biology hard
-bip_39_word_underscore_1: asset
-bip_39_word_underscore_10: asset_tent_paddle_orange_survey_rib_silent_biology_hard_saddle
-bip_39_word_underscore_11: asset_tent_paddle_orange_survey_rib_silent_biology_hard_saddle_random
 bip_39_word_underscore_12: asset_tent_paddle_orange_survey_rib_silent_biology_hard_saddle_random_arrive
 bip_39_word_underscore_2: asset_tent
 bip_39_word_underscore_3: asset_tent_paddle
-bip_39_word_underscore_4: asset_tent_paddle_orange
-bip_39_word_underscore_5: asset_tent_paddle_orange_survey
-bip_39_word_underscore_6: asset_tent_paddle_orange_survey_rib
-bip_39_word_underscore_7: asset_tent_paddle_orange_survey_rib_silent
-bip_39_word_underscore_8: asset_tent_paddle_orange_survey_rib_silent_biology
-bip_39_word_underscore_9: asset_tent_paddle_orange_survey_rib_silent_biology_hard
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: speak
-bip_39_word_dash_10: speak-depart-walk-action-elevator-flower-quarter-evolve-alert-ask
-bip_39_word_dash_11: speak-depart-walk-action-elevator-flower-quarter-evolve-alert-ask-tourist
 bip_39_word_dash_12: speak-depart-walk-action-elevator-flower-quarter-evolve-alert-ask-tourist-art
 bip_39_word_dash_2: speak-depart
 bip_39_word_dash_3: speak-depart-walk
-bip_39_word_dash_4: speak-depart-walk-action
-bip_39_word_dash_5: speak-depart-walk-action-elevator
-bip_39_word_dash_6: speak-depart-walk-action-elevator-flower
-bip_39_word_dash_7: speak-depart-walk-action-elevator-flower-quarter
-bip_39_word_dash_8: speak-depart-walk-action-elevator-flower-quarter-evolve
-bip_39_word_dash_9: speak-depart-walk-action-elevator-flower-quarter-evolve-alert
-bip_39_word_new_br_1: speak
-bip_39_word_new_br_10: speak<br>depart<br>walk<br>action<br>elevator<br>flower<br>quarter<br>evolve<br>alert<br>ask
-bip_39_word_new_br_11: speak<br>depart<br>walk<br>action<br>elevator<br>flower<br>quarter<br>evolve<br>alert<br>ask<br>tourist
 bip_39_word_new_br_12: speak<br>depart<br>walk<br>action<br>elevator<br>flower<br>quarter<br>evolve<br>alert<br>ask<br>tourist<br>art
 bip_39_word_new_br_2: speak<br>depart
 bip_39_word_new_br_3: speak<br>depart<br>walk
-bip_39_word_new_br_4: speak<br>depart<br>walk<br>action
-bip_39_word_new_br_5: speak<br>depart<br>walk<br>action<br>elevator
-bip_39_word_new_br_6: speak<br>depart<br>walk<br>action<br>elevator<br>flower
-bip_39_word_new_br_7: speak<br>depart<br>walk<br>action<br>elevator<br>flower<br>quarter
-bip_39_word_new_br_8: speak<br>depart<br>walk<br>action<br>elevator<br>flower<br>quarter<br>evolve
-bip_39_word_new_br_9: speak<br>depart<br>walk<br>action<br>elevator<br>flower<br>quarter<br>evolve<br>alert
-bip_39_word_new_line_1: speak
-bip_39_word_new_line_10: 'speak
-
-  depart
-
-  walk
-
-  action
-
-  elevator
-
-  flower
-
-  quarter
-
-  evolve
-
-  alert
-
-  ask'
-bip_39_word_new_line_11: 'speak
-
-  depart
-
-  walk
-
-  action
-
-  elevator
-
-  flower
-
-  quarter
-
-  evolve
-
-  alert
-
-  ask
-
-  tourist'
 bip_39_word_new_line_12: 'speak
 
   depart
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'speak
   depart
 
   walk'
-bip_39_word_new_line_4: 'speak
-
-  depart
-
-  walk
-
-  action'
-bip_39_word_new_line_5: 'speak
-
-  depart
-
-  walk
-
-  action
-
-  elevator'
-bip_39_word_new_line_6: 'speak
-
-  depart
-
-  walk
-
-  action
-
-  elevator
-
-  flower'
-bip_39_word_new_line_7: 'speak
-
-  depart
-
-  walk
-
-  action
-
-  elevator
-
-  flower
-
-  quarter'
-bip_39_word_new_line_8: 'speak
-
-  depart
-
-  walk
-
-  action
-
-  elevator
-
-  flower
-
-  quarter
-
-  evolve'
-bip_39_word_new_line_9: 'speak
-
-  depart
-
-  walk
-
-  action
-
-  elevator
-
-  flower
-
-  quarter
-
-  evolve
-
-  alert'
-bip_39_word_no_space_1: speak
-bip_39_word_no_space_10: speakdepartwalkactionelevatorflowerquarterevolvealertask
-bip_39_word_no_space_11: speakdepartwalkactionelevatorflowerquarterevolvealertasktourist
 bip_39_word_no_space_12: speakdepartwalkactionelevatorflowerquarterevolvealertasktouristart
 bip_39_word_no_space_2: speakdepart
 bip_39_word_no_space_3: speakdepartwalk
-bip_39_word_no_space_4: speakdepartwalkaction
-bip_39_word_no_space_5: speakdepartwalkactionelevator
-bip_39_word_no_space_6: speakdepartwalkactionelevatorflower
-bip_39_word_no_space_7: speakdepartwalkactionelevatorflowerquarter
-bip_39_word_no_space_8: speakdepartwalkactionelevatorflowerquarterevolve
-bip_39_word_no_space_9: speakdepartwalkactionelevatorflowerquarterevolvealert
-bip_39_word_space_0:
-- speak
-- depart
-- walk
-- action
-- elevator
-- flower
-- quarter
-- evolve
-- alert
-- ask
-- tourist
-- art
-bip_39_word_space_1: speak
-bip_39_word_space_10: speak depart walk action elevator flower quarter evolve alert
-  ask
-bip_39_word_space_11: speak depart walk action elevator flower quarter evolve alert
-  ask tourist
 bip_39_word_space_12: speak depart walk action elevator flower quarter evolve alert
   ask tourist art
 bip_39_word_space_2: speak depart
 bip_39_word_space_3: speak depart walk
-bip_39_word_space_4: speak depart walk action
-bip_39_word_space_5: speak depart walk action elevator
-bip_39_word_space_6: speak depart walk action elevator flower
-bip_39_word_space_7: speak depart walk action elevator flower quarter
-bip_39_word_space_8: speak depart walk action elevator flower quarter evolve
-bip_39_word_space_9: speak depart walk action elevator flower quarter evolve alert
-bip_39_word_underscore_1: speak
-bip_39_word_underscore_10: speak_depart_walk_action_elevator_flower_quarter_evolve_alert_ask
-bip_39_word_underscore_11: speak_depart_walk_action_elevator_flower_quarter_evolve_alert_ask_tourist
 bip_39_word_underscore_12: speak_depart_walk_action_elevator_flower_quarter_evolve_alert_ask_tourist_art
 bip_39_word_underscore_2: speak_depart
 bip_39_word_underscore_3: speak_depart_walk
-bip_39_word_underscore_4: speak_depart_walk_action
-bip_39_word_underscore_5: speak_depart_walk_action_elevator
-bip_39_word_underscore_6: speak_depart_walk_action_elevator_flower
-bip_39_word_underscore_7: speak_depart_walk_action_elevator_flower_quarter
-bip_39_word_underscore_8: speak_depart_walk_action_elevator_flower_quarter_evolve
-bip_39_word_underscore_9: speak_depart_walk_action_elevator_flower_quarter_evolve_alert
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

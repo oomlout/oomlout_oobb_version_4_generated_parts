@@ -1,68 +1,9 @@
-bip_39_word_dash_1: crawl
-bip_39_word_dash_10: crawl-anger-agree-program-patient-trouble-clap-visit-push-audit
-bip_39_word_dash_11: crawl-anger-agree-program-patient-trouble-clap-visit-push-audit-divorce
 bip_39_word_dash_12: crawl-anger-agree-program-patient-trouble-clap-visit-push-audit-divorce-arrange
 bip_39_word_dash_2: crawl-anger
 bip_39_word_dash_3: crawl-anger-agree
-bip_39_word_dash_4: crawl-anger-agree-program
-bip_39_word_dash_5: crawl-anger-agree-program-patient
-bip_39_word_dash_6: crawl-anger-agree-program-patient-trouble
-bip_39_word_dash_7: crawl-anger-agree-program-patient-trouble-clap
-bip_39_word_dash_8: crawl-anger-agree-program-patient-trouble-clap-visit
-bip_39_word_dash_9: crawl-anger-agree-program-patient-trouble-clap-visit-push
-bip_39_word_new_br_1: crawl
-bip_39_word_new_br_10: crawl<br>anger<br>agree<br>program<br>patient<br>trouble<br>clap<br>visit<br>push<br>audit
-bip_39_word_new_br_11: crawl<br>anger<br>agree<br>program<br>patient<br>trouble<br>clap<br>visit<br>push<br>audit<br>divorce
 bip_39_word_new_br_12: crawl<br>anger<br>agree<br>program<br>patient<br>trouble<br>clap<br>visit<br>push<br>audit<br>divorce<br>arrange
 bip_39_word_new_br_2: crawl<br>anger
 bip_39_word_new_br_3: crawl<br>anger<br>agree
-bip_39_word_new_br_4: crawl<br>anger<br>agree<br>program
-bip_39_word_new_br_5: crawl<br>anger<br>agree<br>program<br>patient
-bip_39_word_new_br_6: crawl<br>anger<br>agree<br>program<br>patient<br>trouble
-bip_39_word_new_br_7: crawl<br>anger<br>agree<br>program<br>patient<br>trouble<br>clap
-bip_39_word_new_br_8: crawl<br>anger<br>agree<br>program<br>patient<br>trouble<br>clap<br>visit
-bip_39_word_new_br_9: crawl<br>anger<br>agree<br>program<br>patient<br>trouble<br>clap<br>visit<br>push
-bip_39_word_new_line_1: crawl
-bip_39_word_new_line_10: 'crawl
-
-  anger
-
-  agree
-
-  program
-
-  patient
-
-  trouble
-
-  clap
-
-  visit
-
-  push
-
-  audit'
-bip_39_word_new_line_11: 'crawl
-
-  anger
-
-  agree
-
-  program
-
-  patient
-
-  trouble
-
-  clap
-
-  visit
-
-  push
-
-  audit
-
-  divorce'
 bip_39_word_new_line_12: 'crawl
 
   anger
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'crawl
   anger
 
   agree'
-bip_39_word_new_line_4: 'crawl
-
-  anger
-
-  agree
-
-  program'
-bip_39_word_new_line_5: 'crawl
-
-  anger
-
-  agree
-
-  program
-
-  patient'
-bip_39_word_new_line_6: 'crawl
-
-  anger
-
-  agree
-
-  program
-
-  patient
-
-  trouble'
-bip_39_word_new_line_7: 'crawl
-
-  anger
-
-  agree
-
-  program
-
-  patient
-
-  trouble
-
-  clap'
-bip_39_word_new_line_8: 'crawl
-
-  anger
-
-  agree
-
-  program
-
-  patient
-
-  trouble
-
-  clap
-
-  visit'
-bip_39_word_new_line_9: 'crawl
-
-  anger
-
-  agree
-
-  program
-
-  patient
-
-  trouble
-
-  clap
-
-  visit
-
-  push'
-bip_39_word_no_space_1: crawl
-bip_39_word_no_space_10: crawlangeragreeprogrampatienttroubleclapvisitpushaudit
-bip_39_word_no_space_11: crawlangeragreeprogrampatienttroubleclapvisitpushauditdivorce
 bip_39_word_no_space_12: crawlangeragreeprogrampatienttroubleclapvisitpushauditdivorcearrange
 bip_39_word_no_space_2: crawlanger
 bip_39_word_no_space_3: crawlangeragree
-bip_39_word_no_space_4: crawlangeragreeprogram
-bip_39_word_no_space_5: crawlangeragreeprogrampatient
-bip_39_word_no_space_6: crawlangeragreeprogrampatienttrouble
-bip_39_word_no_space_7: crawlangeragreeprogrampatienttroubleclap
-bip_39_word_no_space_8: crawlangeragreeprogrampatienttroubleclapvisit
-bip_39_word_no_space_9: crawlangeragreeprogrampatienttroubleclapvisitpush
-bip_39_word_space_0:
-- crawl
-- anger
-- agree
-- program
-- patient
-- trouble
-- clap
-- visit
-- push
-- audit
-- divorce
-- arrange
-bip_39_word_space_1: crawl
-bip_39_word_space_10: crawl anger agree program patient trouble clap visit push audit
-bip_39_word_space_11: crawl anger agree program patient trouble clap visit push audit
-  divorce
 bip_39_word_space_12: crawl anger agree program patient trouble clap visit push audit
   divorce arrange
 bip_39_word_space_2: crawl anger
 bip_39_word_space_3: crawl anger agree
-bip_39_word_space_4: crawl anger agree program
-bip_39_word_space_5: crawl anger agree program patient
-bip_39_word_space_6: crawl anger agree program patient trouble
-bip_39_word_space_7: crawl anger agree program patient trouble clap
-bip_39_word_space_8: crawl anger agree program patient trouble clap visit
-bip_39_word_space_9: crawl anger agree program patient trouble clap visit push
-bip_39_word_underscore_1: crawl
-bip_39_word_underscore_10: crawl_anger_agree_program_patient_trouble_clap_visit_push_audit
-bip_39_word_underscore_11: crawl_anger_agree_program_patient_trouble_clap_visit_push_audit_divorce
 bip_39_word_underscore_12: crawl_anger_agree_program_patient_trouble_clap_visit_push_audit_divorce_arrange
 bip_39_word_underscore_2: crawl_anger
 bip_39_word_underscore_3: crawl_anger_agree
-bip_39_word_underscore_4: crawl_anger_agree_program
-bip_39_word_underscore_5: crawl_anger_agree_program_patient
-bip_39_word_underscore_6: crawl_anger_agree_program_patient_trouble
-bip_39_word_underscore_7: crawl_anger_agree_program_patient_trouble_clap
-bip_39_word_underscore_8: crawl_anger_agree_program_patient_trouble_clap_visit
-bip_39_word_underscore_9: crawl_anger_agree_program_patient_trouble_clap_visit_push
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

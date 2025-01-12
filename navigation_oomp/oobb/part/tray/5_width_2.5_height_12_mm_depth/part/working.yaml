@@ -1,68 +1,9 @@
-bip_39_word_dash_1: length
-bip_39_word_dash_10: length-float-brave-shrimp-space-outer-camera-fatal-dial-finger
-bip_39_word_dash_11: length-float-brave-shrimp-space-outer-camera-fatal-dial-finger-father
 bip_39_word_dash_12: length-float-brave-shrimp-space-outer-camera-fatal-dial-finger-father-age
 bip_39_word_dash_2: length-float
 bip_39_word_dash_3: length-float-brave
-bip_39_word_dash_4: length-float-brave-shrimp
-bip_39_word_dash_5: length-float-brave-shrimp-space
-bip_39_word_dash_6: length-float-brave-shrimp-space-outer
-bip_39_word_dash_7: length-float-brave-shrimp-space-outer-camera
-bip_39_word_dash_8: length-float-brave-shrimp-space-outer-camera-fatal
-bip_39_word_dash_9: length-float-brave-shrimp-space-outer-camera-fatal-dial
-bip_39_word_new_br_1: length
-bip_39_word_new_br_10: length<br>float<br>brave<br>shrimp<br>space<br>outer<br>camera<br>fatal<br>dial<br>finger
-bip_39_word_new_br_11: length<br>float<br>brave<br>shrimp<br>space<br>outer<br>camera<br>fatal<br>dial<br>finger<br>father
 bip_39_word_new_br_12: length<br>float<br>brave<br>shrimp<br>space<br>outer<br>camera<br>fatal<br>dial<br>finger<br>father<br>age
 bip_39_word_new_br_2: length<br>float
 bip_39_word_new_br_3: length<br>float<br>brave
-bip_39_word_new_br_4: length<br>float<br>brave<br>shrimp
-bip_39_word_new_br_5: length<br>float<br>brave<br>shrimp<br>space
-bip_39_word_new_br_6: length<br>float<br>brave<br>shrimp<br>space<br>outer
-bip_39_word_new_br_7: length<br>float<br>brave<br>shrimp<br>space<br>outer<br>camera
-bip_39_word_new_br_8: length<br>float<br>brave<br>shrimp<br>space<br>outer<br>camera<br>fatal
-bip_39_word_new_br_9: length<br>float<br>brave<br>shrimp<br>space<br>outer<br>camera<br>fatal<br>dial
-bip_39_word_new_line_1: length
-bip_39_word_new_line_10: 'length
-
-  float
-
-  brave
-
-  shrimp
-
-  space
-
-  outer
-
-  camera
-
-  fatal
-
-  dial
-
-  finger'
-bip_39_word_new_line_11: 'length
-
-  float
-
-  brave
-
-  shrimp
-
-  space
-
-  outer
-
-  camera
-
-  fatal
-
-  dial
-
-  finger
-
-  father'
 bip_39_word_new_line_12: 'length
 
   float
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'length
   float
 
   brave'
-bip_39_word_new_line_4: 'length
-
-  float
-
-  brave
-
-  shrimp'
-bip_39_word_new_line_5: 'length
-
-  float
-
-  brave
-
-  shrimp
-
-  space'
-bip_39_word_new_line_6: 'length
-
-  float
-
-  brave
-
-  shrimp
-
-  space
-
-  outer'
-bip_39_word_new_line_7: 'length
-
-  float
-
-  brave
-
-  shrimp
-
-  space
-
-  outer
-
-  camera'
-bip_39_word_new_line_8: 'length
-
-  float
-
-  brave
-
-  shrimp
-
-  space
-
-  outer
-
-  camera
-
-  fatal'
-bip_39_word_new_line_9: 'length
-
-  float
-
-  brave
-
-  shrimp
-
-  space
-
-  outer
-
-  camera
-
-  fatal
-
-  dial'
-bip_39_word_no_space_1: length
-bip_39_word_no_space_10: lengthfloatbraveshrimpspaceoutercamerafataldialfinger
-bip_39_word_no_space_11: lengthfloatbraveshrimpspaceoutercamerafataldialfingerfather
 bip_39_word_no_space_12: lengthfloatbraveshrimpspaceoutercamerafataldialfingerfatherage
 bip_39_word_no_space_2: lengthfloat
 bip_39_word_no_space_3: lengthfloatbrave
-bip_39_word_no_space_4: lengthfloatbraveshrimp
-bip_39_word_no_space_5: lengthfloatbraveshrimpspace
-bip_39_word_no_space_6: lengthfloatbraveshrimpspaceouter
-bip_39_word_no_space_7: lengthfloatbraveshrimpspaceoutercamera
-bip_39_word_no_space_8: lengthfloatbraveshrimpspaceoutercamerafatal
-bip_39_word_no_space_9: lengthfloatbraveshrimpspaceoutercamerafataldial
-bip_39_word_space_0:
-- length
-- float
-- brave
-- shrimp
-- space
-- outer
-- camera
-- fatal
-- dial
-- finger
-- father
-- age
-bip_39_word_space_1: length
-bip_39_word_space_10: length float brave shrimp space outer camera fatal dial finger
-bip_39_word_space_11: length float brave shrimp space outer camera fatal dial finger
-  father
 bip_39_word_space_12: length float brave shrimp space outer camera fatal dial finger
   father age
 bip_39_word_space_2: length float
 bip_39_word_space_3: length float brave
-bip_39_word_space_4: length float brave shrimp
-bip_39_word_space_5: length float brave shrimp space
-bip_39_word_space_6: length float brave shrimp space outer
-bip_39_word_space_7: length float brave shrimp space outer camera
-bip_39_word_space_8: length float brave shrimp space outer camera fatal
-bip_39_word_space_9: length float brave shrimp space outer camera fatal dial
-bip_39_word_underscore_1: length
-bip_39_word_underscore_10: length_float_brave_shrimp_space_outer_camera_fatal_dial_finger
-bip_39_word_underscore_11: length_float_brave_shrimp_space_outer_camera_fatal_dial_finger_father
 bip_39_word_underscore_12: length_float_brave_shrimp_space_outer_camera_fatal_dial_finger_father_age
 bip_39_word_underscore_2: length_float
 bip_39_word_underscore_3: length_float_brave
-bip_39_word_underscore_4: length_float_brave_shrimp
-bip_39_word_underscore_5: length_float_brave_shrimp_space
-bip_39_word_underscore_6: length_float_brave_shrimp_space_outer
-bip_39_word_underscore_7: length_float_brave_shrimp_space_outer_camera
-bip_39_word_underscore_8: length_float_brave_shrimp_space_outer_camera_fatal
-bip_39_word_underscore_9: length_float_brave_shrimp_space_outer_camera_fatal_dial
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

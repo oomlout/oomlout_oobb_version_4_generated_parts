@@ -1,68 +1,9 @@
-bip_39_word_dash_1: kitchen
-bip_39_word_dash_10: kitchen-bachelor-nature-drift-just-oven-rough-foster-tower-accuse
-bip_39_word_dash_11: kitchen-bachelor-nature-drift-just-oven-rough-foster-tower-accuse-thumb
 bip_39_word_dash_12: kitchen-bachelor-nature-drift-just-oven-rough-foster-tower-accuse-thumb-august
 bip_39_word_dash_2: kitchen-bachelor
 bip_39_word_dash_3: kitchen-bachelor-nature
-bip_39_word_dash_4: kitchen-bachelor-nature-drift
-bip_39_word_dash_5: kitchen-bachelor-nature-drift-just
-bip_39_word_dash_6: kitchen-bachelor-nature-drift-just-oven
-bip_39_word_dash_7: kitchen-bachelor-nature-drift-just-oven-rough
-bip_39_word_dash_8: kitchen-bachelor-nature-drift-just-oven-rough-foster
-bip_39_word_dash_9: kitchen-bachelor-nature-drift-just-oven-rough-foster-tower
-bip_39_word_new_br_1: kitchen
-bip_39_word_new_br_10: kitchen<br>bachelor<br>nature<br>drift<br>just<br>oven<br>rough<br>foster<br>tower<br>accuse
-bip_39_word_new_br_11: kitchen<br>bachelor<br>nature<br>drift<br>just<br>oven<br>rough<br>foster<br>tower<br>accuse<br>thumb
 bip_39_word_new_br_12: kitchen<br>bachelor<br>nature<br>drift<br>just<br>oven<br>rough<br>foster<br>tower<br>accuse<br>thumb<br>august
 bip_39_word_new_br_2: kitchen<br>bachelor
 bip_39_word_new_br_3: kitchen<br>bachelor<br>nature
-bip_39_word_new_br_4: kitchen<br>bachelor<br>nature<br>drift
-bip_39_word_new_br_5: kitchen<br>bachelor<br>nature<br>drift<br>just
-bip_39_word_new_br_6: kitchen<br>bachelor<br>nature<br>drift<br>just<br>oven
-bip_39_word_new_br_7: kitchen<br>bachelor<br>nature<br>drift<br>just<br>oven<br>rough
-bip_39_word_new_br_8: kitchen<br>bachelor<br>nature<br>drift<br>just<br>oven<br>rough<br>foster
-bip_39_word_new_br_9: kitchen<br>bachelor<br>nature<br>drift<br>just<br>oven<br>rough<br>foster<br>tower
-bip_39_word_new_line_1: kitchen
-bip_39_word_new_line_10: 'kitchen
-
-  bachelor
-
-  nature
-
-  drift
-
-  just
-
-  oven
-
-  rough
-
-  foster
-
-  tower
-
-  accuse'
-bip_39_word_new_line_11: 'kitchen
-
-  bachelor
-
-  nature
-
-  drift
-
-  just
-
-  oven
-
-  rough
-
-  foster
-
-  tower
-
-  accuse
-
-  thumb'
 bip_39_word_new_line_12: 'kitchen
 
   bachelor
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'kitchen
   bachelor
 
   nature'
-bip_39_word_new_line_4: 'kitchen
-
-  bachelor
-
-  nature
-
-  drift'
-bip_39_word_new_line_5: 'kitchen
-
-  bachelor
-
-  nature
-
-  drift
-
-  just'
-bip_39_word_new_line_6: 'kitchen
-
-  bachelor
-
-  nature
-
-  drift
-
-  just
-
-  oven'
-bip_39_word_new_line_7: 'kitchen
-
-  bachelor
-
-  nature
-
-  drift
-
-  just
-
-  oven
-
-  rough'
-bip_39_word_new_line_8: 'kitchen
-
-  bachelor
-
-  nature
-
-  drift
-
-  just
-
-  oven
-
-  rough
-
-  foster'
-bip_39_word_new_line_9: 'kitchen
-
-  bachelor
-
-  nature
-
-  drift
-
-  just
-
-  oven
-
-  rough
-
-  foster
-
-  tower'
-bip_39_word_no_space_1: kitchen
-bip_39_word_no_space_10: kitchenbachelornaturedriftjustovenroughfostertoweraccuse
-bip_39_word_no_space_11: kitchenbachelornaturedriftjustovenroughfostertoweraccusethumb
 bip_39_word_no_space_12: kitchenbachelornaturedriftjustovenroughfostertoweraccusethumbaugust
 bip_39_word_no_space_2: kitchenbachelor
 bip_39_word_no_space_3: kitchenbachelornature
-bip_39_word_no_space_4: kitchenbachelornaturedrift
-bip_39_word_no_space_5: kitchenbachelornaturedriftjust
-bip_39_word_no_space_6: kitchenbachelornaturedriftjustoven
-bip_39_word_no_space_7: kitchenbachelornaturedriftjustovenrough
-bip_39_word_no_space_8: kitchenbachelornaturedriftjustovenroughfoster
-bip_39_word_no_space_9: kitchenbachelornaturedriftjustovenroughfostertower
-bip_39_word_space_0:
-- kitchen
-- bachelor
-- nature
-- drift
-- just
-- oven
-- rough
-- foster
-- tower
-- accuse
-- thumb
-- august
-bip_39_word_space_1: kitchen
-bip_39_word_space_10: kitchen bachelor nature drift just oven rough foster tower accuse
-bip_39_word_space_11: kitchen bachelor nature drift just oven rough foster tower accuse
-  thumb
 bip_39_word_space_12: kitchen bachelor nature drift just oven rough foster tower accuse
   thumb august
 bip_39_word_space_2: kitchen bachelor
 bip_39_word_space_3: kitchen bachelor nature
-bip_39_word_space_4: kitchen bachelor nature drift
-bip_39_word_space_5: kitchen bachelor nature drift just
-bip_39_word_space_6: kitchen bachelor nature drift just oven
-bip_39_word_space_7: kitchen bachelor nature drift just oven rough
-bip_39_word_space_8: kitchen bachelor nature drift just oven rough foster
-bip_39_word_space_9: kitchen bachelor nature drift just oven rough foster tower
-bip_39_word_underscore_1: kitchen
-bip_39_word_underscore_10: kitchen_bachelor_nature_drift_just_oven_rough_foster_tower_accuse
-bip_39_word_underscore_11: kitchen_bachelor_nature_drift_just_oven_rough_foster_tower_accuse_thumb
 bip_39_word_underscore_12: kitchen_bachelor_nature_drift_just_oven_rough_foster_tower_accuse_thumb_august
 bip_39_word_underscore_2: kitchen_bachelor
 bip_39_word_underscore_3: kitchen_bachelor_nature
-bip_39_word_underscore_4: kitchen_bachelor_nature_drift
-bip_39_word_underscore_5: kitchen_bachelor_nature_drift_just
-bip_39_word_underscore_6: kitchen_bachelor_nature_drift_just_oven
-bip_39_word_underscore_7: kitchen_bachelor_nature_drift_just_oven_rough
-bip_39_word_underscore_8: kitchen_bachelor_nature_drift_just_oven_rough_foster
-bip_39_word_underscore_9: kitchen_bachelor_nature_drift_just_oven_rough_foster_tower
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: vital
-bip_39_word_dash_10: vital-display-also-pretty-verb-ready-ask-neutral-wire-garbage
-bip_39_word_dash_11: vital-display-also-pretty-verb-ready-ask-neutral-wire-garbage-dynamic
 bip_39_word_dash_12: vital-display-also-pretty-verb-ready-ask-neutral-wire-garbage-dynamic-artefact
 bip_39_word_dash_2: vital-display
 bip_39_word_dash_3: vital-display-also
-bip_39_word_dash_4: vital-display-also-pretty
-bip_39_word_dash_5: vital-display-also-pretty-verb
-bip_39_word_dash_6: vital-display-also-pretty-verb-ready
-bip_39_word_dash_7: vital-display-also-pretty-verb-ready-ask
-bip_39_word_dash_8: vital-display-also-pretty-verb-ready-ask-neutral
-bip_39_word_dash_9: vital-display-also-pretty-verb-ready-ask-neutral-wire
-bip_39_word_new_br_1: vital
-bip_39_word_new_br_10: vital<br>display<br>also<br>pretty<br>verb<br>ready<br>ask<br>neutral<br>wire<br>garbage
-bip_39_word_new_br_11: vital<br>display<br>also<br>pretty<br>verb<br>ready<br>ask<br>neutral<br>wire<br>garbage<br>dynamic
 bip_39_word_new_br_12: vital<br>display<br>also<br>pretty<br>verb<br>ready<br>ask<br>neutral<br>wire<br>garbage<br>dynamic<br>artefact
 bip_39_word_new_br_2: vital<br>display
 bip_39_word_new_br_3: vital<br>display<br>also
-bip_39_word_new_br_4: vital<br>display<br>also<br>pretty
-bip_39_word_new_br_5: vital<br>display<br>also<br>pretty<br>verb
-bip_39_word_new_br_6: vital<br>display<br>also<br>pretty<br>verb<br>ready
-bip_39_word_new_br_7: vital<br>display<br>also<br>pretty<br>verb<br>ready<br>ask
-bip_39_word_new_br_8: vital<br>display<br>also<br>pretty<br>verb<br>ready<br>ask<br>neutral
-bip_39_word_new_br_9: vital<br>display<br>also<br>pretty<br>verb<br>ready<br>ask<br>neutral<br>wire
-bip_39_word_new_line_1: vital
-bip_39_word_new_line_10: 'vital
-
-  display
-
-  also
-
-  pretty
-
-  verb
-
-  ready
-
-  ask
-
-  neutral
-
-  wire
-
-  garbage'
-bip_39_word_new_line_11: 'vital
-
-  display
-
-  also
-
-  pretty
-
-  verb
-
-  ready
-
-  ask
-
-  neutral
-
-  wire
-
-  garbage
-
-  dynamic'
 bip_39_word_new_line_12: 'vital
 
   display
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'vital
   display
 
   also'
-bip_39_word_new_line_4: 'vital
-
-  display
-
-  also
-
-  pretty'
-bip_39_word_new_line_5: 'vital
-
-  display
-
-  also
-
-  pretty
-
-  verb'
-bip_39_word_new_line_6: 'vital
-
-  display
-
-  also
-
-  pretty
-
-  verb
-
-  ready'
-bip_39_word_new_line_7: 'vital
-
-  display
-
-  also
-
-  pretty
-
-  verb
-
-  ready
-
-  ask'
-bip_39_word_new_line_8: 'vital
-
-  display
-
-  also
-
-  pretty
-
-  verb
-
-  ready
-
-  ask
-
-  neutral'
-bip_39_word_new_line_9: 'vital
-
-  display
-
-  also
-
-  pretty
-
-  verb
-
-  ready
-
-  ask
-
-  neutral
-
-  wire'
-bip_39_word_no_space_1: vital
-bip_39_word_no_space_10: vitaldisplayalsoprettyverbreadyaskneutralwiregarbage
-bip_39_word_no_space_11: vitaldisplayalsoprettyverbreadyaskneutralwiregarbagedynamic
 bip_39_word_no_space_12: vitaldisplayalsoprettyverbreadyaskneutralwiregarbagedynamicartefact
 bip_39_word_no_space_2: vitaldisplay
 bip_39_word_no_space_3: vitaldisplayalso
-bip_39_word_no_space_4: vitaldisplayalsopretty
-bip_39_word_no_space_5: vitaldisplayalsoprettyverb
-bip_39_word_no_space_6: vitaldisplayalsoprettyverbready
-bip_39_word_no_space_7: vitaldisplayalsoprettyverbreadyask
-bip_39_word_no_space_8: vitaldisplayalsoprettyverbreadyaskneutral
-bip_39_word_no_space_9: vitaldisplayalsoprettyverbreadyaskneutralwire
-bip_39_word_space_0:
-- vital
-- display
-- also
-- pretty
-- verb
-- ready
-- ask
-- neutral
-- wire
-- garbage
-- dynamic
-- artefact
-bip_39_word_space_1: vital
-bip_39_word_space_10: vital display also pretty verb ready ask neutral wire garbage
-bip_39_word_space_11: vital display also pretty verb ready ask neutral wire garbage
-  dynamic
 bip_39_word_space_12: vital display also pretty verb ready ask neutral wire garbage
   dynamic artefact
 bip_39_word_space_2: vital display
 bip_39_word_space_3: vital display also
-bip_39_word_space_4: vital display also pretty
-bip_39_word_space_5: vital display also pretty verb
-bip_39_word_space_6: vital display also pretty verb ready
-bip_39_word_space_7: vital display also pretty verb ready ask
-bip_39_word_space_8: vital display also pretty verb ready ask neutral
-bip_39_word_space_9: vital display also pretty verb ready ask neutral wire
-bip_39_word_underscore_1: vital
-bip_39_word_underscore_10: vital_display_also_pretty_verb_ready_ask_neutral_wire_garbage
-bip_39_word_underscore_11: vital_display_also_pretty_verb_ready_ask_neutral_wire_garbage_dynamic
 bip_39_word_underscore_12: vital_display_also_pretty_verb_ready_ask_neutral_wire_garbage_dynamic_artefact
 bip_39_word_underscore_2: vital_display
 bip_39_word_underscore_3: vital_display_also
-bip_39_word_underscore_4: vital_display_also_pretty
-bip_39_word_underscore_5: vital_display_also_pretty_verb
-bip_39_word_underscore_6: vital_display_also_pretty_verb_ready
-bip_39_word_underscore_7: vital_display_also_pretty_verb_ready_ask
-bip_39_word_underscore_8: vital_display_also_pretty_verb_ready_ask_neutral
-bip_39_word_underscore_9: vital_display_also_pretty_verb_ready_ask_neutral_wire
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

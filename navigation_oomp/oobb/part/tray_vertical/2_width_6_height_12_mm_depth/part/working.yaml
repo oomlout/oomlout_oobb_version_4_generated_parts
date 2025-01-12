@@ -1,68 +1,9 @@
-bip_39_word_dash_1: ginger
-bip_39_word_dash_10: ginger-gas-bunker-picnic-artist-local-original-loud-dawn-wagon
-bip_39_word_dash_11: ginger-gas-bunker-picnic-artist-local-original-loud-dawn-wagon-pear
 bip_39_word_dash_12: ginger-gas-bunker-picnic-artist-local-original-loud-dawn-wagon-pear-abuse
 bip_39_word_dash_2: ginger-gas
 bip_39_word_dash_3: ginger-gas-bunker
-bip_39_word_dash_4: ginger-gas-bunker-picnic
-bip_39_word_dash_5: ginger-gas-bunker-picnic-artist
-bip_39_word_dash_6: ginger-gas-bunker-picnic-artist-local
-bip_39_word_dash_7: ginger-gas-bunker-picnic-artist-local-original
-bip_39_word_dash_8: ginger-gas-bunker-picnic-artist-local-original-loud
-bip_39_word_dash_9: ginger-gas-bunker-picnic-artist-local-original-loud-dawn
-bip_39_word_new_br_1: ginger
-bip_39_word_new_br_10: ginger<br>gas<br>bunker<br>picnic<br>artist<br>local<br>original<br>loud<br>dawn<br>wagon
-bip_39_word_new_br_11: ginger<br>gas<br>bunker<br>picnic<br>artist<br>local<br>original<br>loud<br>dawn<br>wagon<br>pear
 bip_39_word_new_br_12: ginger<br>gas<br>bunker<br>picnic<br>artist<br>local<br>original<br>loud<br>dawn<br>wagon<br>pear<br>abuse
 bip_39_word_new_br_2: ginger<br>gas
 bip_39_word_new_br_3: ginger<br>gas<br>bunker
-bip_39_word_new_br_4: ginger<br>gas<br>bunker<br>picnic
-bip_39_word_new_br_5: ginger<br>gas<br>bunker<br>picnic<br>artist
-bip_39_word_new_br_6: ginger<br>gas<br>bunker<br>picnic<br>artist<br>local
-bip_39_word_new_br_7: ginger<br>gas<br>bunker<br>picnic<br>artist<br>local<br>original
-bip_39_word_new_br_8: ginger<br>gas<br>bunker<br>picnic<br>artist<br>local<br>original<br>loud
-bip_39_word_new_br_9: ginger<br>gas<br>bunker<br>picnic<br>artist<br>local<br>original<br>loud<br>dawn
-bip_39_word_new_line_1: ginger
-bip_39_word_new_line_10: 'ginger
-
-  gas
-
-  bunker
-
-  picnic
-
-  artist
-
-  local
-
-  original
-
-  loud
-
-  dawn
-
-  wagon'
-bip_39_word_new_line_11: 'ginger
-
-  gas
-
-  bunker
-
-  picnic
-
-  artist
-
-  local
-
-  original
-
-  loud
-
-  dawn
-
-  wagon
-
-  pear'
 bip_39_word_new_line_12: 'ginger
 
   gas
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'ginger
   gas
 
   bunker'
-bip_39_word_new_line_4: 'ginger
-
-  gas
-
-  bunker
-
-  picnic'
-bip_39_word_new_line_5: 'ginger
-
-  gas
-
-  bunker
-
-  picnic
-
-  artist'
-bip_39_word_new_line_6: 'ginger
-
-  gas
-
-  bunker
-
-  picnic
-
-  artist
-
-  local'
-bip_39_word_new_line_7: 'ginger
-
-  gas
-
-  bunker
-
-  picnic
-
-  artist
-
-  local
-
-  original'
-bip_39_word_new_line_8: 'ginger
-
-  gas
-
-  bunker
-
-  picnic
-
-  artist
-
-  local
-
-  original
-
-  loud'
-bip_39_word_new_line_9: 'ginger
-
-  gas
-
-  bunker
-
-  picnic
-
-  artist
-
-  local
-
-  original
-
-  loud
-
-  dawn'
-bip_39_word_no_space_1: ginger
-bip_39_word_no_space_10: gingergasbunkerpicnicartistlocaloriginallouddawnwagon
-bip_39_word_no_space_11: gingergasbunkerpicnicartistlocaloriginallouddawnwagonpear
 bip_39_word_no_space_12: gingergasbunkerpicnicartistlocaloriginallouddawnwagonpearabuse
 bip_39_word_no_space_2: gingergas
 bip_39_word_no_space_3: gingergasbunker
-bip_39_word_no_space_4: gingergasbunkerpicnic
-bip_39_word_no_space_5: gingergasbunkerpicnicartist
-bip_39_word_no_space_6: gingergasbunkerpicnicartistlocal
-bip_39_word_no_space_7: gingergasbunkerpicnicartistlocaloriginal
-bip_39_word_no_space_8: gingergasbunkerpicnicartistlocaloriginalloud
-bip_39_word_no_space_9: gingergasbunkerpicnicartistlocaloriginallouddawn
-bip_39_word_space_0:
-- ginger
-- gas
-- bunker
-- picnic
-- artist
-- local
-- original
-- loud
-- dawn
-- wagon
-- pear
-- abuse
-bip_39_word_space_1: ginger
-bip_39_word_space_10: ginger gas bunker picnic artist local original loud dawn wagon
-bip_39_word_space_11: ginger gas bunker picnic artist local original loud dawn wagon
-  pear
 bip_39_word_space_12: ginger gas bunker picnic artist local original loud dawn wagon
   pear abuse
 bip_39_word_space_2: ginger gas
 bip_39_word_space_3: ginger gas bunker
-bip_39_word_space_4: ginger gas bunker picnic
-bip_39_word_space_5: ginger gas bunker picnic artist
-bip_39_word_space_6: ginger gas bunker picnic artist local
-bip_39_word_space_7: ginger gas bunker picnic artist local original
-bip_39_word_space_8: ginger gas bunker picnic artist local original loud
-bip_39_word_space_9: ginger gas bunker picnic artist local original loud dawn
-bip_39_word_underscore_1: ginger
-bip_39_word_underscore_10: ginger_gas_bunker_picnic_artist_local_original_loud_dawn_wagon
-bip_39_word_underscore_11: ginger_gas_bunker_picnic_artist_local_original_loud_dawn_wagon_pear
 bip_39_word_underscore_12: ginger_gas_bunker_picnic_artist_local_original_loud_dawn_wagon_pear_abuse
 bip_39_word_underscore_2: ginger_gas
 bip_39_word_underscore_3: ginger_gas_bunker
-bip_39_word_underscore_4: ginger_gas_bunker_picnic
-bip_39_word_underscore_5: ginger_gas_bunker_picnic_artist
-bip_39_word_underscore_6: ginger_gas_bunker_picnic_artist_local
-bip_39_word_underscore_7: ginger_gas_bunker_picnic_artist_local_original
-bip_39_word_underscore_8: ginger_gas_bunker_picnic_artist_local_original_loud
-bip_39_word_underscore_9: ginger_gas_bunker_picnic_artist_local_original_loud_dawn
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

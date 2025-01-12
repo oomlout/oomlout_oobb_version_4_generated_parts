@@ -1,68 +1,9 @@
-bip_39_word_dash_1: fly
-bip_39_word_dash_10: fly-party-dizzy-witness-alert-sweet-tortoise-source-million-demand
-bip_39_word_dash_11: fly-party-dizzy-witness-alert-sweet-tortoise-source-million-demand-solution
 bip_39_word_dash_12: fly-party-dizzy-witness-alert-sweet-tortoise-source-million-demand-solution-accuse
 bip_39_word_dash_2: fly-party
 bip_39_word_dash_3: fly-party-dizzy
-bip_39_word_dash_4: fly-party-dizzy-witness
-bip_39_word_dash_5: fly-party-dizzy-witness-alert
-bip_39_word_dash_6: fly-party-dizzy-witness-alert-sweet
-bip_39_word_dash_7: fly-party-dizzy-witness-alert-sweet-tortoise
-bip_39_word_dash_8: fly-party-dizzy-witness-alert-sweet-tortoise-source
-bip_39_word_dash_9: fly-party-dizzy-witness-alert-sweet-tortoise-source-million
-bip_39_word_new_br_1: fly
-bip_39_word_new_br_10: fly<br>party<br>dizzy<br>witness<br>alert<br>sweet<br>tortoise<br>source<br>million<br>demand
-bip_39_word_new_br_11: fly<br>party<br>dizzy<br>witness<br>alert<br>sweet<br>tortoise<br>source<br>million<br>demand<br>solution
 bip_39_word_new_br_12: fly<br>party<br>dizzy<br>witness<br>alert<br>sweet<br>tortoise<br>source<br>million<br>demand<br>solution<br>accuse
 bip_39_word_new_br_2: fly<br>party
 bip_39_word_new_br_3: fly<br>party<br>dizzy
-bip_39_word_new_br_4: fly<br>party<br>dizzy<br>witness
-bip_39_word_new_br_5: fly<br>party<br>dizzy<br>witness<br>alert
-bip_39_word_new_br_6: fly<br>party<br>dizzy<br>witness<br>alert<br>sweet
-bip_39_word_new_br_7: fly<br>party<br>dizzy<br>witness<br>alert<br>sweet<br>tortoise
-bip_39_word_new_br_8: fly<br>party<br>dizzy<br>witness<br>alert<br>sweet<br>tortoise<br>source
-bip_39_word_new_br_9: fly<br>party<br>dizzy<br>witness<br>alert<br>sweet<br>tortoise<br>source<br>million
-bip_39_word_new_line_1: fly
-bip_39_word_new_line_10: 'fly
-
-  party
-
-  dizzy
-
-  witness
-
-  alert
-
-  sweet
-
-  tortoise
-
-  source
-
-  million
-
-  demand'
-bip_39_word_new_line_11: 'fly
-
-  party
-
-  dizzy
-
-  witness
-
-  alert
-
-  sweet
-
-  tortoise
-
-  source
-
-  million
-
-  demand
-
-  solution'
 bip_39_word_new_line_12: 'fly
 
   party
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'fly
   party
 
   dizzy'
-bip_39_word_new_line_4: 'fly
-
-  party
-
-  dizzy
-
-  witness'
-bip_39_word_new_line_5: 'fly
-
-  party
-
-  dizzy
-
-  witness
-
-  alert'
-bip_39_word_new_line_6: 'fly
-
-  party
-
-  dizzy
-
-  witness
-
-  alert
-
-  sweet'
-bip_39_word_new_line_7: 'fly
-
-  party
-
-  dizzy
-
-  witness
-
-  alert
-
-  sweet
-
-  tortoise'
-bip_39_word_new_line_8: 'fly
-
-  party
-
-  dizzy
-
-  witness
-
-  alert
-
-  sweet
-
-  tortoise
-
-  source'
-bip_39_word_new_line_9: 'fly
-
-  party
-
-  dizzy
-
-  witness
-
-  alert
-
-  sweet
-
-  tortoise
-
-  source
-
-  million'
-bip_39_word_no_space_1: fly
-bip_39_word_no_space_10: flypartydizzywitnessalertsweettortoisesourcemilliondemand
-bip_39_word_no_space_11: flypartydizzywitnessalertsweettortoisesourcemilliondemandsolution
 bip_39_word_no_space_12: flypartydizzywitnessalertsweettortoisesourcemilliondemandsolutionaccuse
 bip_39_word_no_space_2: flyparty
 bip_39_word_no_space_3: flypartydizzy
-bip_39_word_no_space_4: flypartydizzywitness
-bip_39_word_no_space_5: flypartydizzywitnessalert
-bip_39_word_no_space_6: flypartydizzywitnessalertsweet
-bip_39_word_no_space_7: flypartydizzywitnessalertsweettortoise
-bip_39_word_no_space_8: flypartydizzywitnessalertsweettortoisesource
-bip_39_word_no_space_9: flypartydizzywitnessalertsweettortoisesourcemillion
-bip_39_word_space_0:
-- fly
-- party
-- dizzy
-- witness
-- alert
-- sweet
-- tortoise
-- source
-- million
-- demand
-- solution
-- accuse
-bip_39_word_space_1: fly
-bip_39_word_space_10: fly party dizzy witness alert sweet tortoise source million
-  demand
-bip_39_word_space_11: fly party dizzy witness alert sweet tortoise source million
-  demand solution
 bip_39_word_space_12: fly party dizzy witness alert sweet tortoise source million
   demand solution accuse
 bip_39_word_space_2: fly party
 bip_39_word_space_3: fly party dizzy
-bip_39_word_space_4: fly party dizzy witness
-bip_39_word_space_5: fly party dizzy witness alert
-bip_39_word_space_6: fly party dizzy witness alert sweet
-bip_39_word_space_7: fly party dizzy witness alert sweet tortoise
-bip_39_word_space_8: fly party dizzy witness alert sweet tortoise source
-bip_39_word_space_9: fly party dizzy witness alert sweet tortoise source million
-bip_39_word_underscore_1: fly
-bip_39_word_underscore_10: fly_party_dizzy_witness_alert_sweet_tortoise_source_million_demand
-bip_39_word_underscore_11: fly_party_dizzy_witness_alert_sweet_tortoise_source_million_demand_solution
 bip_39_word_underscore_12: fly_party_dizzy_witness_alert_sweet_tortoise_source_million_demand_solution_accuse
 bip_39_word_underscore_2: fly_party
 bip_39_word_underscore_3: fly_party_dizzy
-bip_39_word_underscore_4: fly_party_dizzy_witness
-bip_39_word_underscore_5: fly_party_dizzy_witness_alert
-bip_39_word_underscore_6: fly_party_dizzy_witness_alert_sweet
-bip_39_word_underscore_7: fly_party_dizzy_witness_alert_sweet_tortoise
-bip_39_word_underscore_8: fly_party_dizzy_witness_alert_sweet_tortoise_source
-bip_39_word_underscore_9: fly_party_dizzy_witness_alert_sweet_tortoise_source_million
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

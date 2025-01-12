@@ -1,68 +1,9 @@
-bip_39_word_dash_1: allow
-bip_39_word_dash_10: allow-pet-intact-end-tackle-pumpkin-girl-engage-person-middle
-bip_39_word_dash_11: allow-pet-intact-end-tackle-pumpkin-girl-engage-person-middle-broom
 bip_39_word_dash_12: allow-pet-intact-end-tackle-pumpkin-girl-engage-person-middle-broom-aerobic
 bip_39_word_dash_2: allow-pet
 bip_39_word_dash_3: allow-pet-intact
-bip_39_word_dash_4: allow-pet-intact-end
-bip_39_word_dash_5: allow-pet-intact-end-tackle
-bip_39_word_dash_6: allow-pet-intact-end-tackle-pumpkin
-bip_39_word_dash_7: allow-pet-intact-end-tackle-pumpkin-girl
-bip_39_word_dash_8: allow-pet-intact-end-tackle-pumpkin-girl-engage
-bip_39_word_dash_9: allow-pet-intact-end-tackle-pumpkin-girl-engage-person
-bip_39_word_new_br_1: allow
-bip_39_word_new_br_10: allow<br>pet<br>intact<br>end<br>tackle<br>pumpkin<br>girl<br>engage<br>person<br>middle
-bip_39_word_new_br_11: allow<br>pet<br>intact<br>end<br>tackle<br>pumpkin<br>girl<br>engage<br>person<br>middle<br>broom
 bip_39_word_new_br_12: allow<br>pet<br>intact<br>end<br>tackle<br>pumpkin<br>girl<br>engage<br>person<br>middle<br>broom<br>aerobic
 bip_39_word_new_br_2: allow<br>pet
 bip_39_word_new_br_3: allow<br>pet<br>intact
-bip_39_word_new_br_4: allow<br>pet<br>intact<br>end
-bip_39_word_new_br_5: allow<br>pet<br>intact<br>end<br>tackle
-bip_39_word_new_br_6: allow<br>pet<br>intact<br>end<br>tackle<br>pumpkin
-bip_39_word_new_br_7: allow<br>pet<br>intact<br>end<br>tackle<br>pumpkin<br>girl
-bip_39_word_new_br_8: allow<br>pet<br>intact<br>end<br>tackle<br>pumpkin<br>girl<br>engage
-bip_39_word_new_br_9: allow<br>pet<br>intact<br>end<br>tackle<br>pumpkin<br>girl<br>engage<br>person
-bip_39_word_new_line_1: allow
-bip_39_word_new_line_10: 'allow
-
-  pet
-
-  intact
-
-  end
-
-  tackle
-
-  pumpkin
-
-  girl
-
-  engage
-
-  person
-
-  middle'
-bip_39_word_new_line_11: 'allow
-
-  pet
-
-  intact
-
-  end
-
-  tackle
-
-  pumpkin
-
-  girl
-
-  engage
-
-  person
-
-  middle
-
-  broom'
 bip_39_word_new_line_12: 'allow
 
   pet
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'allow
   pet
 
   intact'
-bip_39_word_new_line_4: 'allow
-
-  pet
-
-  intact
-
-  end'
-bip_39_word_new_line_5: 'allow
-
-  pet
-
-  intact
-
-  end
-
-  tackle'
-bip_39_word_new_line_6: 'allow
-
-  pet
-
-  intact
-
-  end
-
-  tackle
-
-  pumpkin'
-bip_39_word_new_line_7: 'allow
-
-  pet
-
-  intact
-
-  end
-
-  tackle
-
-  pumpkin
-
-  girl'
-bip_39_word_new_line_8: 'allow
-
-  pet
-
-  intact
-
-  end
-
-  tackle
-
-  pumpkin
-
-  girl
-
-  engage'
-bip_39_word_new_line_9: 'allow
-
-  pet
-
-  intact
-
-  end
-
-  tackle
-
-  pumpkin
-
-  girl
-
-  engage
-
-  person'
-bip_39_word_no_space_1: allow
-bip_39_word_no_space_10: allowpetintactendtacklepumpkingirlengagepersonmiddle
-bip_39_word_no_space_11: allowpetintactendtacklepumpkingirlengagepersonmiddlebroom
 bip_39_word_no_space_12: allowpetintactendtacklepumpkingirlengagepersonmiddlebroomaerobic
 bip_39_word_no_space_2: allowpet
 bip_39_word_no_space_3: allowpetintact
-bip_39_word_no_space_4: allowpetintactend
-bip_39_word_no_space_5: allowpetintactendtackle
-bip_39_word_no_space_6: allowpetintactendtacklepumpkin
-bip_39_word_no_space_7: allowpetintactendtacklepumpkingirl
-bip_39_word_no_space_8: allowpetintactendtacklepumpkingirlengage
-bip_39_word_no_space_9: allowpetintactendtacklepumpkingirlengageperson
-bip_39_word_space_0:
-- allow
-- pet
-- intact
-- end
-- tackle
-- pumpkin
-- girl
-- engage
-- person
-- middle
-- broom
-- aerobic
-bip_39_word_space_1: allow
-bip_39_word_space_10: allow pet intact end tackle pumpkin girl engage person middle
-bip_39_word_space_11: allow pet intact end tackle pumpkin girl engage person middle
-  broom
 bip_39_word_space_12: allow pet intact end tackle pumpkin girl engage person middle
   broom aerobic
 bip_39_word_space_2: allow pet
 bip_39_word_space_3: allow pet intact
-bip_39_word_space_4: allow pet intact end
-bip_39_word_space_5: allow pet intact end tackle
-bip_39_word_space_6: allow pet intact end tackle pumpkin
-bip_39_word_space_7: allow pet intact end tackle pumpkin girl
-bip_39_word_space_8: allow pet intact end tackle pumpkin girl engage
-bip_39_word_space_9: allow pet intact end tackle pumpkin girl engage person
-bip_39_word_underscore_1: allow
-bip_39_word_underscore_10: allow_pet_intact_end_tackle_pumpkin_girl_engage_person_middle
-bip_39_word_underscore_11: allow_pet_intact_end_tackle_pumpkin_girl_engage_person_middle_broom
 bip_39_word_underscore_12: allow_pet_intact_end_tackle_pumpkin_girl_engage_person_middle_broom_aerobic
 bip_39_word_underscore_2: allow_pet
 bip_39_word_underscore_3: allow_pet_intact
-bip_39_word_underscore_4: allow_pet_intact_end
-bip_39_word_underscore_5: allow_pet_intact_end_tackle
-bip_39_word_underscore_6: allow_pet_intact_end_tackle_pumpkin
-bip_39_word_underscore_7: allow_pet_intact_end_tackle_pumpkin_girl
-bip_39_word_underscore_8: allow_pet_intact_end_tackle_pumpkin_girl_engage
-bip_39_word_underscore_9: allow_pet_intact_end_tackle_pumpkin_girl_engage_person
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: raise
-bip_39_word_dash_10: raise-metal-pulse-slush-shy-clutch-picture-piano-decrease-square
-bip_39_word_dash_11: raise-metal-pulse-slush-shy-clutch-picture-piano-decrease-square-tray
 bip_39_word_dash_12: raise-metal-pulse-slush-shy-clutch-picture-piano-decrease-square-tray-appear
 bip_39_word_dash_2: raise-metal
 bip_39_word_dash_3: raise-metal-pulse
-bip_39_word_dash_4: raise-metal-pulse-slush
-bip_39_word_dash_5: raise-metal-pulse-slush-shy
-bip_39_word_dash_6: raise-metal-pulse-slush-shy-clutch
-bip_39_word_dash_7: raise-metal-pulse-slush-shy-clutch-picture
-bip_39_word_dash_8: raise-metal-pulse-slush-shy-clutch-picture-piano
-bip_39_word_dash_9: raise-metal-pulse-slush-shy-clutch-picture-piano-decrease
-bip_39_word_new_br_1: raise
-bip_39_word_new_br_10: raise<br>metal<br>pulse<br>slush<br>shy<br>clutch<br>picture<br>piano<br>decrease<br>square
-bip_39_word_new_br_11: raise<br>metal<br>pulse<br>slush<br>shy<br>clutch<br>picture<br>piano<br>decrease<br>square<br>tray
 bip_39_word_new_br_12: raise<br>metal<br>pulse<br>slush<br>shy<br>clutch<br>picture<br>piano<br>decrease<br>square<br>tray<br>appear
 bip_39_word_new_br_2: raise<br>metal
 bip_39_word_new_br_3: raise<br>metal<br>pulse
-bip_39_word_new_br_4: raise<br>metal<br>pulse<br>slush
-bip_39_word_new_br_5: raise<br>metal<br>pulse<br>slush<br>shy
-bip_39_word_new_br_6: raise<br>metal<br>pulse<br>slush<br>shy<br>clutch
-bip_39_word_new_br_7: raise<br>metal<br>pulse<br>slush<br>shy<br>clutch<br>picture
-bip_39_word_new_br_8: raise<br>metal<br>pulse<br>slush<br>shy<br>clutch<br>picture<br>piano
-bip_39_word_new_br_9: raise<br>metal<br>pulse<br>slush<br>shy<br>clutch<br>picture<br>piano<br>decrease
-bip_39_word_new_line_1: raise
-bip_39_word_new_line_10: 'raise
-
-  metal
-
-  pulse
-
-  slush
-
-  shy
-
-  clutch
-
-  picture
-
-  piano
-
-  decrease
-
-  square'
-bip_39_word_new_line_11: 'raise
-
-  metal
-
-  pulse
-
-  slush
-
-  shy
-
-  clutch
-
-  picture
-
-  piano
-
-  decrease
-
-  square
-
-  tray'
 bip_39_word_new_line_12: 'raise
 
   metal
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'raise
   metal
 
   pulse'
-bip_39_word_new_line_4: 'raise
-
-  metal
-
-  pulse
-
-  slush'
-bip_39_word_new_line_5: 'raise
-
-  metal
-
-  pulse
-
-  slush
-
-  shy'
-bip_39_word_new_line_6: 'raise
-
-  metal
-
-  pulse
-
-  slush
-
-  shy
-
-  clutch'
-bip_39_word_new_line_7: 'raise
-
-  metal
-
-  pulse
-
-  slush
-
-  shy
-
-  clutch
-
-  picture'
-bip_39_word_new_line_8: 'raise
-
-  metal
-
-  pulse
-
-  slush
-
-  shy
-
-  clutch
-
-  picture
-
-  piano'
-bip_39_word_new_line_9: 'raise
-
-  metal
-
-  pulse
-
-  slush
-
-  shy
-
-  clutch
-
-  picture
-
-  piano
-
-  decrease'
-bip_39_word_no_space_1: raise
-bip_39_word_no_space_10: raisemetalpulseslushshyclutchpicturepianodecreasesquare
-bip_39_word_no_space_11: raisemetalpulseslushshyclutchpicturepianodecreasesquaretray
 bip_39_word_no_space_12: raisemetalpulseslushshyclutchpicturepianodecreasesquaretrayappear
 bip_39_word_no_space_2: raisemetal
 bip_39_word_no_space_3: raisemetalpulse
-bip_39_word_no_space_4: raisemetalpulseslush
-bip_39_word_no_space_5: raisemetalpulseslushshy
-bip_39_word_no_space_6: raisemetalpulseslushshyclutch
-bip_39_word_no_space_7: raisemetalpulseslushshyclutchpicture
-bip_39_word_no_space_8: raisemetalpulseslushshyclutchpicturepiano
-bip_39_word_no_space_9: raisemetalpulseslushshyclutchpicturepianodecrease
-bip_39_word_space_0:
-- raise
-- metal
-- pulse
-- slush
-- shy
-- clutch
-- picture
-- piano
-- decrease
-- square
-- tray
-- appear
-bip_39_word_space_1: raise
-bip_39_word_space_10: raise metal pulse slush shy clutch picture piano decrease square
-bip_39_word_space_11: raise metal pulse slush shy clutch picture piano decrease square
-  tray
 bip_39_word_space_12: raise metal pulse slush shy clutch picture piano decrease square
   tray appear
 bip_39_word_space_2: raise metal
 bip_39_word_space_3: raise metal pulse
-bip_39_word_space_4: raise metal pulse slush
-bip_39_word_space_5: raise metal pulse slush shy
-bip_39_word_space_6: raise metal pulse slush shy clutch
-bip_39_word_space_7: raise metal pulse slush shy clutch picture
-bip_39_word_space_8: raise metal pulse slush shy clutch picture piano
-bip_39_word_space_9: raise metal pulse slush shy clutch picture piano decrease
-bip_39_word_underscore_1: raise
-bip_39_word_underscore_10: raise_metal_pulse_slush_shy_clutch_picture_piano_decrease_square
-bip_39_word_underscore_11: raise_metal_pulse_slush_shy_clutch_picture_piano_decrease_square_tray
 bip_39_word_underscore_12: raise_metal_pulse_slush_shy_clutch_picture_piano_decrease_square_tray_appear
 bip_39_word_underscore_2: raise_metal
 bip_39_word_underscore_3: raise_metal_pulse
-bip_39_word_underscore_4: raise_metal_pulse_slush
-bip_39_word_underscore_5: raise_metal_pulse_slush_shy
-bip_39_word_underscore_6: raise_metal_pulse_slush_shy_clutch
-bip_39_word_underscore_7: raise_metal_pulse_slush_shy_clutch_picture
-bip_39_word_underscore_8: raise_metal_pulse_slush_shy_clutch_picture_piano
-bip_39_word_underscore_9: raise_metal_pulse_slush_shy_clutch_picture_piano_decrease
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

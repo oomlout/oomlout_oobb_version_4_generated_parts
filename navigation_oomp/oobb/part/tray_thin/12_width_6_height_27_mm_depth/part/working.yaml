@@ -1,68 +1,9 @@
-bip_39_word_dash_1: tube
-bip_39_word_dash_10: tube-deny-melody-dawn-truth-hurry-autumn-route-lounge-arm
-bip_39_word_dash_11: tube-deny-melody-dawn-truth-hurry-autumn-route-lounge-arm-net
 bip_39_word_dash_12: tube-deny-melody-dawn-truth-hurry-autumn-route-lounge-arm-net-amateur
 bip_39_word_dash_2: tube-deny
 bip_39_word_dash_3: tube-deny-melody
-bip_39_word_dash_4: tube-deny-melody-dawn
-bip_39_word_dash_5: tube-deny-melody-dawn-truth
-bip_39_word_dash_6: tube-deny-melody-dawn-truth-hurry
-bip_39_word_dash_7: tube-deny-melody-dawn-truth-hurry-autumn
-bip_39_word_dash_8: tube-deny-melody-dawn-truth-hurry-autumn-route
-bip_39_word_dash_9: tube-deny-melody-dawn-truth-hurry-autumn-route-lounge
-bip_39_word_new_br_1: tube
-bip_39_word_new_br_10: tube<br>deny<br>melody<br>dawn<br>truth<br>hurry<br>autumn<br>route<br>lounge<br>arm
-bip_39_word_new_br_11: tube<br>deny<br>melody<br>dawn<br>truth<br>hurry<br>autumn<br>route<br>lounge<br>arm<br>net
 bip_39_word_new_br_12: tube<br>deny<br>melody<br>dawn<br>truth<br>hurry<br>autumn<br>route<br>lounge<br>arm<br>net<br>amateur
 bip_39_word_new_br_2: tube<br>deny
 bip_39_word_new_br_3: tube<br>deny<br>melody
-bip_39_word_new_br_4: tube<br>deny<br>melody<br>dawn
-bip_39_word_new_br_5: tube<br>deny<br>melody<br>dawn<br>truth
-bip_39_word_new_br_6: tube<br>deny<br>melody<br>dawn<br>truth<br>hurry
-bip_39_word_new_br_7: tube<br>deny<br>melody<br>dawn<br>truth<br>hurry<br>autumn
-bip_39_word_new_br_8: tube<br>deny<br>melody<br>dawn<br>truth<br>hurry<br>autumn<br>route
-bip_39_word_new_br_9: tube<br>deny<br>melody<br>dawn<br>truth<br>hurry<br>autumn<br>route<br>lounge
-bip_39_word_new_line_1: tube
-bip_39_word_new_line_10: 'tube
-
-  deny
-
-  melody
-
-  dawn
-
-  truth
-
-  hurry
-
-  autumn
-
-  route
-
-  lounge
-
-  arm'
-bip_39_word_new_line_11: 'tube
-
-  deny
-
-  melody
-
-  dawn
-
-  truth
-
-  hurry
-
-  autumn
-
-  route
-
-  lounge
-
-  arm
-
-  net'
 bip_39_word_new_line_12: 'tube
 
   deny
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'tube
   deny
 
   melody'
-bip_39_word_new_line_4: 'tube
-
-  deny
-
-  melody
-
-  dawn'
-bip_39_word_new_line_5: 'tube
-
-  deny
-
-  melody
-
-  dawn
-
-  truth'
-bip_39_word_new_line_6: 'tube
-
-  deny
-
-  melody
-
-  dawn
-
-  truth
-
-  hurry'
-bip_39_word_new_line_7: 'tube
-
-  deny
-
-  melody
-
-  dawn
-
-  truth
-
-  hurry
-
-  autumn'
-bip_39_word_new_line_8: 'tube
-
-  deny
-
-  melody
-
-  dawn
-
-  truth
-
-  hurry
-
-  autumn
-
-  route'
-bip_39_word_new_line_9: 'tube
-
-  deny
-
-  melody
-
-  dawn
-
-  truth
-
-  hurry
-
-  autumn
-
-  route
-
-  lounge'
-bip_39_word_no_space_1: tube
-bip_39_word_no_space_10: tubedenymelodydawntruthhurryautumnrouteloungearm
-bip_39_word_no_space_11: tubedenymelodydawntruthhurryautumnrouteloungearmnet
 bip_39_word_no_space_12: tubedenymelodydawntruthhurryautumnrouteloungearmnetamateur
 bip_39_word_no_space_2: tubedeny
 bip_39_word_no_space_3: tubedenymelody
-bip_39_word_no_space_4: tubedenymelodydawn
-bip_39_word_no_space_5: tubedenymelodydawntruth
-bip_39_word_no_space_6: tubedenymelodydawntruthhurry
-bip_39_word_no_space_7: tubedenymelodydawntruthhurryautumn
-bip_39_word_no_space_8: tubedenymelodydawntruthhurryautumnroute
-bip_39_word_no_space_9: tubedenymelodydawntruthhurryautumnroutelounge
-bip_39_word_space_0:
-- tube
-- deny
-- melody
-- dawn
-- truth
-- hurry
-- autumn
-- route
-- lounge
-- arm
-- net
-- amateur
-bip_39_word_space_1: tube
-bip_39_word_space_10: tube deny melody dawn truth hurry autumn route lounge arm
-bip_39_word_space_11: tube deny melody dawn truth hurry autumn route lounge arm net
 bip_39_word_space_12: tube deny melody dawn truth hurry autumn route lounge arm net
   amateur
 bip_39_word_space_2: tube deny
 bip_39_word_space_3: tube deny melody
-bip_39_word_space_4: tube deny melody dawn
-bip_39_word_space_5: tube deny melody dawn truth
-bip_39_word_space_6: tube deny melody dawn truth hurry
-bip_39_word_space_7: tube deny melody dawn truth hurry autumn
-bip_39_word_space_8: tube deny melody dawn truth hurry autumn route
-bip_39_word_space_9: tube deny melody dawn truth hurry autumn route lounge
-bip_39_word_underscore_1: tube
-bip_39_word_underscore_10: tube_deny_melody_dawn_truth_hurry_autumn_route_lounge_arm
-bip_39_word_underscore_11: tube_deny_melody_dawn_truth_hurry_autumn_route_lounge_arm_net
 bip_39_word_underscore_12: tube_deny_melody_dawn_truth_hurry_autumn_route_lounge_arm_net_amateur
 bip_39_word_underscore_2: tube_deny
 bip_39_word_underscore_3: tube_deny_melody
-bip_39_word_underscore_4: tube_deny_melody_dawn
-bip_39_word_underscore_5: tube_deny_melody_dawn_truth
-bip_39_word_underscore_6: tube_deny_melody_dawn_truth_hurry
-bip_39_word_underscore_7: tube_deny_melody_dawn_truth_hurry_autumn
-bip_39_word_underscore_8: tube_deny_melody_dawn_truth_hurry_autumn_route
-bip_39_word_underscore_9: tube_deny_melody_dawn_truth_hurry_autumn_route_lounge
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

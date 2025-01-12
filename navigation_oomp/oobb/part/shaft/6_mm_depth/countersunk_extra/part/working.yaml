@@ -1,68 +1,9 @@
-bip_39_word_dash_1: write
-bip_39_word_dash_10: write-tray-doll-nuclear-issue-attack-bird-man-power-dumb
-bip_39_word_dash_11: write-tray-doll-nuclear-issue-attack-bird-man-power-dumb-assault
 bip_39_word_dash_12: write-tray-doll-nuclear-issue-attack-bird-man-power-dumb-assault-aim
 bip_39_word_dash_2: write-tray
 bip_39_word_dash_3: write-tray-doll
-bip_39_word_dash_4: write-tray-doll-nuclear
-bip_39_word_dash_5: write-tray-doll-nuclear-issue
-bip_39_word_dash_6: write-tray-doll-nuclear-issue-attack
-bip_39_word_dash_7: write-tray-doll-nuclear-issue-attack-bird
-bip_39_word_dash_8: write-tray-doll-nuclear-issue-attack-bird-man
-bip_39_word_dash_9: write-tray-doll-nuclear-issue-attack-bird-man-power
-bip_39_word_new_br_1: write
-bip_39_word_new_br_10: write<br>tray<br>doll<br>nuclear<br>issue<br>attack<br>bird<br>man<br>power<br>dumb
-bip_39_word_new_br_11: write<br>tray<br>doll<br>nuclear<br>issue<br>attack<br>bird<br>man<br>power<br>dumb<br>assault
 bip_39_word_new_br_12: write<br>tray<br>doll<br>nuclear<br>issue<br>attack<br>bird<br>man<br>power<br>dumb<br>assault<br>aim
 bip_39_word_new_br_2: write<br>tray
 bip_39_word_new_br_3: write<br>tray<br>doll
-bip_39_word_new_br_4: write<br>tray<br>doll<br>nuclear
-bip_39_word_new_br_5: write<br>tray<br>doll<br>nuclear<br>issue
-bip_39_word_new_br_6: write<br>tray<br>doll<br>nuclear<br>issue<br>attack
-bip_39_word_new_br_7: write<br>tray<br>doll<br>nuclear<br>issue<br>attack<br>bird
-bip_39_word_new_br_8: write<br>tray<br>doll<br>nuclear<br>issue<br>attack<br>bird<br>man
-bip_39_word_new_br_9: write<br>tray<br>doll<br>nuclear<br>issue<br>attack<br>bird<br>man<br>power
-bip_39_word_new_line_1: write
-bip_39_word_new_line_10: 'write
-
-  tray
-
-  doll
-
-  nuclear
-
-  issue
-
-  attack
-
-  bird
-
-  man
-
-  power
-
-  dumb'
-bip_39_word_new_line_11: 'write
-
-  tray
-
-  doll
-
-  nuclear
-
-  issue
-
-  attack
-
-  bird
-
-  man
-
-  power
-
-  dumb
-
-  assault'
 bip_39_word_new_line_12: 'write
 
   tray
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'write
   tray
 
   doll'
-bip_39_word_new_line_4: 'write
-
-  tray
-
-  doll
-
-  nuclear'
-bip_39_word_new_line_5: 'write
-
-  tray
-
-  doll
-
-  nuclear
-
-  issue'
-bip_39_word_new_line_6: 'write
-
-  tray
-
-  doll
-
-  nuclear
-
-  issue
-
-  attack'
-bip_39_word_new_line_7: 'write
-
-  tray
-
-  doll
-
-  nuclear
-
-  issue
-
-  attack
-
-  bird'
-bip_39_word_new_line_8: 'write
-
-  tray
-
-  doll
-
-  nuclear
-
-  issue
-
-  attack
-
-  bird
-
-  man'
-bip_39_word_new_line_9: 'write
-
-  tray
-
-  doll
-
-  nuclear
-
-  issue
-
-  attack
-
-  bird
-
-  man
-
-  power'
-bip_39_word_no_space_1: write
-bip_39_word_no_space_10: writetraydollnuclearissueattackbirdmanpowerdumb
-bip_39_word_no_space_11: writetraydollnuclearissueattackbirdmanpowerdumbassault
 bip_39_word_no_space_12: writetraydollnuclearissueattackbirdmanpowerdumbassaultaim
 bip_39_word_no_space_2: writetray
 bip_39_word_no_space_3: writetraydoll
-bip_39_word_no_space_4: writetraydollnuclear
-bip_39_word_no_space_5: writetraydollnuclearissue
-bip_39_word_no_space_6: writetraydollnuclearissueattack
-bip_39_word_no_space_7: writetraydollnuclearissueattackbird
-bip_39_word_no_space_8: writetraydollnuclearissueattackbirdman
-bip_39_word_no_space_9: writetraydollnuclearissueattackbirdmanpower
-bip_39_word_space_0:
-- write
-- tray
-- doll
-- nuclear
-- issue
-- attack
-- bird
-- man
-- power
-- dumb
-- assault
-- aim
-bip_39_word_space_1: write
-bip_39_word_space_10: write tray doll nuclear issue attack bird man power dumb
-bip_39_word_space_11: write tray doll nuclear issue attack bird man power dumb assault
 bip_39_word_space_12: write tray doll nuclear issue attack bird man power dumb assault
   aim
 bip_39_word_space_2: write tray
 bip_39_word_space_3: write tray doll
-bip_39_word_space_4: write tray doll nuclear
-bip_39_word_space_5: write tray doll nuclear issue
-bip_39_word_space_6: write tray doll nuclear issue attack
-bip_39_word_space_7: write tray doll nuclear issue attack bird
-bip_39_word_space_8: write tray doll nuclear issue attack bird man
-bip_39_word_space_9: write tray doll nuclear issue attack bird man power
-bip_39_word_underscore_1: write
-bip_39_word_underscore_10: write_tray_doll_nuclear_issue_attack_bird_man_power_dumb
-bip_39_word_underscore_11: write_tray_doll_nuclear_issue_attack_bird_man_power_dumb_assault
 bip_39_word_underscore_12: write_tray_doll_nuclear_issue_attack_bird_man_power_dumb_assault_aim
 bip_39_word_underscore_2: write_tray
 bip_39_word_underscore_3: write_tray_doll
-bip_39_word_underscore_4: write_tray_doll_nuclear
-bip_39_word_underscore_5: write_tray_doll_nuclear_issue
-bip_39_word_underscore_6: write_tray_doll_nuclear_issue_attack
-bip_39_word_underscore_7: write_tray_doll_nuclear_issue_attack_bird
-bip_39_word_underscore_8: write_tray_doll_nuclear_issue_attack_bird_man
-bip_39_word_underscore_9: write_tray_doll_nuclear_issue_attack_bird_man_power
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

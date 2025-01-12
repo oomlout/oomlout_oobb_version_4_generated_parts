@@ -1,68 +1,9 @@
-bip_39_word_dash_1: regular
-bip_39_word_dash_10: regular-scatter-during-bag-memory-umbrella-curtain-void-improve-midnight
-bip_39_word_dash_11: regular-scatter-during-bag-memory-umbrella-curtain-void-improve-midnight-demand
 bip_39_word_dash_12: regular-scatter-during-bag-memory-umbrella-curtain-void-improve-midnight-demand-annual
 bip_39_word_dash_2: regular-scatter
 bip_39_word_dash_3: regular-scatter-during
-bip_39_word_dash_4: regular-scatter-during-bag
-bip_39_word_dash_5: regular-scatter-during-bag-memory
-bip_39_word_dash_6: regular-scatter-during-bag-memory-umbrella
-bip_39_word_dash_7: regular-scatter-during-bag-memory-umbrella-curtain
-bip_39_word_dash_8: regular-scatter-during-bag-memory-umbrella-curtain-void
-bip_39_word_dash_9: regular-scatter-during-bag-memory-umbrella-curtain-void-improve
-bip_39_word_new_br_1: regular
-bip_39_word_new_br_10: regular<br>scatter<br>during<br>bag<br>memory<br>umbrella<br>curtain<br>void<br>improve<br>midnight
-bip_39_word_new_br_11: regular<br>scatter<br>during<br>bag<br>memory<br>umbrella<br>curtain<br>void<br>improve<br>midnight<br>demand
 bip_39_word_new_br_12: regular<br>scatter<br>during<br>bag<br>memory<br>umbrella<br>curtain<br>void<br>improve<br>midnight<br>demand<br>annual
 bip_39_word_new_br_2: regular<br>scatter
 bip_39_word_new_br_3: regular<br>scatter<br>during
-bip_39_word_new_br_4: regular<br>scatter<br>during<br>bag
-bip_39_word_new_br_5: regular<br>scatter<br>during<br>bag<br>memory
-bip_39_word_new_br_6: regular<br>scatter<br>during<br>bag<br>memory<br>umbrella
-bip_39_word_new_br_7: regular<br>scatter<br>during<br>bag<br>memory<br>umbrella<br>curtain
-bip_39_word_new_br_8: regular<br>scatter<br>during<br>bag<br>memory<br>umbrella<br>curtain<br>void
-bip_39_word_new_br_9: regular<br>scatter<br>during<br>bag<br>memory<br>umbrella<br>curtain<br>void<br>improve
-bip_39_word_new_line_1: regular
-bip_39_word_new_line_10: 'regular
-
-  scatter
-
-  during
-
-  bag
-
-  memory
-
-  umbrella
-
-  curtain
-
-  void
-
-  improve
-
-  midnight'
-bip_39_word_new_line_11: 'regular
-
-  scatter
-
-  during
-
-  bag
-
-  memory
-
-  umbrella
-
-  curtain
-
-  void
-
-  improve
-
-  midnight
-
-  demand'
 bip_39_word_new_line_12: 'regular
 
   scatter
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'regular
   scatter
 
   during'
-bip_39_word_new_line_4: 'regular
-
-  scatter
-
-  during
-
-  bag'
-bip_39_word_new_line_5: 'regular
-
-  scatter
-
-  during
-
-  bag
-
-  memory'
-bip_39_word_new_line_6: 'regular
-
-  scatter
-
-  during
-
-  bag
-
-  memory
-
-  umbrella'
-bip_39_word_new_line_7: 'regular
-
-  scatter
-
-  during
-
-  bag
-
-  memory
-
-  umbrella
-
-  curtain'
-bip_39_word_new_line_8: 'regular
-
-  scatter
-
-  during
-
-  bag
-
-  memory
-
-  umbrella
-
-  curtain
-
-  void'
-bip_39_word_new_line_9: 'regular
-
-  scatter
-
-  during
-
-  bag
-
-  memory
-
-  umbrella
-
-  curtain
-
-  void
-
-  improve'
-bip_39_word_no_space_1: regular
-bip_39_word_no_space_10: regularscatterduringbagmemoryumbrellacurtainvoidimprovemidnight
-bip_39_word_no_space_11: regularscatterduringbagmemoryumbrellacurtainvoidimprovemidnightdemand
 bip_39_word_no_space_12: regularscatterduringbagmemoryumbrellacurtainvoidimprovemidnightdemandannual
 bip_39_word_no_space_2: regularscatter
 bip_39_word_no_space_3: regularscatterduring
-bip_39_word_no_space_4: regularscatterduringbag
-bip_39_word_no_space_5: regularscatterduringbagmemory
-bip_39_word_no_space_6: regularscatterduringbagmemoryumbrella
-bip_39_word_no_space_7: regularscatterduringbagmemoryumbrellacurtain
-bip_39_word_no_space_8: regularscatterduringbagmemoryumbrellacurtainvoid
-bip_39_word_no_space_9: regularscatterduringbagmemoryumbrellacurtainvoidimprove
-bip_39_word_space_0:
-- regular
-- scatter
-- during
-- bag
-- memory
-- umbrella
-- curtain
-- void
-- improve
-- midnight
-- demand
-- annual
-bip_39_word_space_1: regular
-bip_39_word_space_10: regular scatter during bag memory umbrella curtain void improve
-  midnight
-bip_39_word_space_11: regular scatter during bag memory umbrella curtain void improve
-  midnight demand
 bip_39_word_space_12: regular scatter during bag memory umbrella curtain void improve
   midnight demand annual
 bip_39_word_space_2: regular scatter
 bip_39_word_space_3: regular scatter during
-bip_39_word_space_4: regular scatter during bag
-bip_39_word_space_5: regular scatter during bag memory
-bip_39_word_space_6: regular scatter during bag memory umbrella
-bip_39_word_space_7: regular scatter during bag memory umbrella curtain
-bip_39_word_space_8: regular scatter during bag memory umbrella curtain void
-bip_39_word_space_9: regular scatter during bag memory umbrella curtain void improve
-bip_39_word_underscore_1: regular
-bip_39_word_underscore_10: regular_scatter_during_bag_memory_umbrella_curtain_void_improve_midnight
-bip_39_word_underscore_11: regular_scatter_during_bag_memory_umbrella_curtain_void_improve_midnight_demand
 bip_39_word_underscore_12: regular_scatter_during_bag_memory_umbrella_curtain_void_improve_midnight_demand_annual
 bip_39_word_underscore_2: regular_scatter
 bip_39_word_underscore_3: regular_scatter_during
-bip_39_word_underscore_4: regular_scatter_during_bag
-bip_39_word_underscore_5: regular_scatter_during_bag_memory
-bip_39_word_underscore_6: regular_scatter_during_bag_memory_umbrella
-bip_39_word_underscore_7: regular_scatter_during_bag_memory_umbrella_curtain
-bip_39_word_underscore_8: regular_scatter_during_bag_memory_umbrella_curtain_void
-bip_39_word_underscore_9: regular_scatter_during_bag_memory_umbrella_curtain_void_improve
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

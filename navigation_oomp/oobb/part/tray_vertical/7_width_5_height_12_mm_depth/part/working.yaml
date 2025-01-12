@@ -1,68 +1,9 @@
-bip_39_word_dash_1: jungle
-bip_39_word_dash_10: jungle-device-couch-brush-glide-mimic-chunk-stick-abandon-kitchen
-bip_39_word_dash_11: jungle-device-couch-brush-glide-mimic-chunk-stick-abandon-kitchen-liar
 bip_39_word_dash_12: jungle-device-couch-brush-glide-mimic-chunk-stick-abandon-kitchen-liar-army
 bip_39_word_dash_2: jungle-device
 bip_39_word_dash_3: jungle-device-couch
-bip_39_word_dash_4: jungle-device-couch-brush
-bip_39_word_dash_5: jungle-device-couch-brush-glide
-bip_39_word_dash_6: jungle-device-couch-brush-glide-mimic
-bip_39_word_dash_7: jungle-device-couch-brush-glide-mimic-chunk
-bip_39_word_dash_8: jungle-device-couch-brush-glide-mimic-chunk-stick
-bip_39_word_dash_9: jungle-device-couch-brush-glide-mimic-chunk-stick-abandon
-bip_39_word_new_br_1: jungle
-bip_39_word_new_br_10: jungle<br>device<br>couch<br>brush<br>glide<br>mimic<br>chunk<br>stick<br>abandon<br>kitchen
-bip_39_word_new_br_11: jungle<br>device<br>couch<br>brush<br>glide<br>mimic<br>chunk<br>stick<br>abandon<br>kitchen<br>liar
 bip_39_word_new_br_12: jungle<br>device<br>couch<br>brush<br>glide<br>mimic<br>chunk<br>stick<br>abandon<br>kitchen<br>liar<br>army
 bip_39_word_new_br_2: jungle<br>device
 bip_39_word_new_br_3: jungle<br>device<br>couch
-bip_39_word_new_br_4: jungle<br>device<br>couch<br>brush
-bip_39_word_new_br_5: jungle<br>device<br>couch<br>brush<br>glide
-bip_39_word_new_br_6: jungle<br>device<br>couch<br>brush<br>glide<br>mimic
-bip_39_word_new_br_7: jungle<br>device<br>couch<br>brush<br>glide<br>mimic<br>chunk
-bip_39_word_new_br_8: jungle<br>device<br>couch<br>brush<br>glide<br>mimic<br>chunk<br>stick
-bip_39_word_new_br_9: jungle<br>device<br>couch<br>brush<br>glide<br>mimic<br>chunk<br>stick<br>abandon
-bip_39_word_new_line_1: jungle
-bip_39_word_new_line_10: 'jungle
-
-  device
-
-  couch
-
-  brush
-
-  glide
-
-  mimic
-
-  chunk
-
-  stick
-
-  abandon
-
-  kitchen'
-bip_39_word_new_line_11: 'jungle
-
-  device
-
-  couch
-
-  brush
-
-  glide
-
-  mimic
-
-  chunk
-
-  stick
-
-  abandon
-
-  kitchen
-
-  liar'
 bip_39_word_new_line_12: 'jungle
 
   device
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'jungle
   device
 
   couch'
-bip_39_word_new_line_4: 'jungle
-
-  device
-
-  couch
-
-  brush'
-bip_39_word_new_line_5: 'jungle
-
-  device
-
-  couch
-
-  brush
-
-  glide'
-bip_39_word_new_line_6: 'jungle
-
-  device
-
-  couch
-
-  brush
-
-  glide
-
-  mimic'
-bip_39_word_new_line_7: 'jungle
-
-  device
-
-  couch
-
-  brush
-
-  glide
-
-  mimic
-
-  chunk'
-bip_39_word_new_line_8: 'jungle
-
-  device
-
-  couch
-
-  brush
-
-  glide
-
-  mimic
-
-  chunk
-
-  stick'
-bip_39_word_new_line_9: 'jungle
-
-  device
-
-  couch
-
-  brush
-
-  glide
-
-  mimic
-
-  chunk
-
-  stick
-
-  abandon'
-bip_39_word_no_space_1: jungle
-bip_39_word_no_space_10: jungledevicecouchbrushglidemimicchunkstickabandonkitchen
-bip_39_word_no_space_11: jungledevicecouchbrushglidemimicchunkstickabandonkitchenliar
 bip_39_word_no_space_12: jungledevicecouchbrushglidemimicchunkstickabandonkitchenliararmy
 bip_39_word_no_space_2: jungledevice
 bip_39_word_no_space_3: jungledevicecouch
-bip_39_word_no_space_4: jungledevicecouchbrush
-bip_39_word_no_space_5: jungledevicecouchbrushglide
-bip_39_word_no_space_6: jungledevicecouchbrushglidemimic
-bip_39_word_no_space_7: jungledevicecouchbrushglidemimicchunk
-bip_39_word_no_space_8: jungledevicecouchbrushglidemimicchunkstick
-bip_39_word_no_space_9: jungledevicecouchbrushglidemimicchunkstickabandon
-bip_39_word_space_0:
-- jungle
-- device
-- couch
-- brush
-- glide
-- mimic
-- chunk
-- stick
-- abandon
-- kitchen
-- liar
-- army
-bip_39_word_space_1: jungle
-bip_39_word_space_10: jungle device couch brush glide mimic chunk stick abandon kitchen
-bip_39_word_space_11: jungle device couch brush glide mimic chunk stick abandon kitchen
-  liar
 bip_39_word_space_12: jungle device couch brush glide mimic chunk stick abandon kitchen
   liar army
 bip_39_word_space_2: jungle device
 bip_39_word_space_3: jungle device couch
-bip_39_word_space_4: jungle device couch brush
-bip_39_word_space_5: jungle device couch brush glide
-bip_39_word_space_6: jungle device couch brush glide mimic
-bip_39_word_space_7: jungle device couch brush glide mimic chunk
-bip_39_word_space_8: jungle device couch brush glide mimic chunk stick
-bip_39_word_space_9: jungle device couch brush glide mimic chunk stick abandon
-bip_39_word_underscore_1: jungle
-bip_39_word_underscore_10: jungle_device_couch_brush_glide_mimic_chunk_stick_abandon_kitchen
-bip_39_word_underscore_11: jungle_device_couch_brush_glide_mimic_chunk_stick_abandon_kitchen_liar
 bip_39_word_underscore_12: jungle_device_couch_brush_glide_mimic_chunk_stick_abandon_kitchen_liar_army
 bip_39_word_underscore_2: jungle_device
 bip_39_word_underscore_3: jungle_device_couch
-bip_39_word_underscore_4: jungle_device_couch_brush
-bip_39_word_underscore_5: jungle_device_couch_brush_glide
-bip_39_word_underscore_6: jungle_device_couch_brush_glide_mimic
-bip_39_word_underscore_7: jungle_device_couch_brush_glide_mimic_chunk
-bip_39_word_underscore_8: jungle_device_couch_brush_glide_mimic_chunk_stick
-bip_39_word_underscore_9: jungle_device_couch_brush_glide_mimic_chunk_stick_abandon
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

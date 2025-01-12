@@ -1,68 +1,9 @@
-bip_39_word_dash_1: frame
-bip_39_word_dash_10: frame-love-when-bright-day-stumble-shop-female-embark-motion
-bip_39_word_dash_11: frame-love-when-bright-day-stumble-shop-female-embark-motion-base
 bip_39_word_dash_12: frame-love-when-bright-day-stumble-shop-female-embark-motion-base-avocado
 bip_39_word_dash_2: frame-love
 bip_39_word_dash_3: frame-love-when
-bip_39_word_dash_4: frame-love-when-bright
-bip_39_word_dash_5: frame-love-when-bright-day
-bip_39_word_dash_6: frame-love-when-bright-day-stumble
-bip_39_word_dash_7: frame-love-when-bright-day-stumble-shop
-bip_39_word_dash_8: frame-love-when-bright-day-stumble-shop-female
-bip_39_word_dash_9: frame-love-when-bright-day-stumble-shop-female-embark
-bip_39_word_new_br_1: frame
-bip_39_word_new_br_10: frame<br>love<br>when<br>bright<br>day<br>stumble<br>shop<br>female<br>embark<br>motion
-bip_39_word_new_br_11: frame<br>love<br>when<br>bright<br>day<br>stumble<br>shop<br>female<br>embark<br>motion<br>base
 bip_39_word_new_br_12: frame<br>love<br>when<br>bright<br>day<br>stumble<br>shop<br>female<br>embark<br>motion<br>base<br>avocado
 bip_39_word_new_br_2: frame<br>love
 bip_39_word_new_br_3: frame<br>love<br>when
-bip_39_word_new_br_4: frame<br>love<br>when<br>bright
-bip_39_word_new_br_5: frame<br>love<br>when<br>bright<br>day
-bip_39_word_new_br_6: frame<br>love<br>when<br>bright<br>day<br>stumble
-bip_39_word_new_br_7: frame<br>love<br>when<br>bright<br>day<br>stumble<br>shop
-bip_39_word_new_br_8: frame<br>love<br>when<br>bright<br>day<br>stumble<br>shop<br>female
-bip_39_word_new_br_9: frame<br>love<br>when<br>bright<br>day<br>stumble<br>shop<br>female<br>embark
-bip_39_word_new_line_1: frame
-bip_39_word_new_line_10: 'frame
-
-  love
-
-  when
-
-  bright
-
-  day
-
-  stumble
-
-  shop
-
-  female
-
-  embark
-
-  motion'
-bip_39_word_new_line_11: 'frame
-
-  love
-
-  when
-
-  bright
-
-  day
-
-  stumble
-
-  shop
-
-  female
-
-  embark
-
-  motion
-
-  base'
 bip_39_word_new_line_12: 'frame
 
   love
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'frame
   love
 
   when'
-bip_39_word_new_line_4: 'frame
-
-  love
-
-  when
-
-  bright'
-bip_39_word_new_line_5: 'frame
-
-  love
-
-  when
-
-  bright
-
-  day'
-bip_39_word_new_line_6: 'frame
-
-  love
-
-  when
-
-  bright
-
-  day
-
-  stumble'
-bip_39_word_new_line_7: 'frame
-
-  love
-
-  when
-
-  bright
-
-  day
-
-  stumble
-
-  shop'
-bip_39_word_new_line_8: 'frame
-
-  love
-
-  when
-
-  bright
-
-  day
-
-  stumble
-
-  shop
-
-  female'
-bip_39_word_new_line_9: 'frame
-
-  love
-
-  when
-
-  bright
-
-  day
-
-  stumble
-
-  shop
-
-  female
-
-  embark'
-bip_39_word_no_space_1: frame
-bip_39_word_no_space_10: framelovewhenbrightdaystumbleshopfemaleembarkmotion
-bip_39_word_no_space_11: framelovewhenbrightdaystumbleshopfemaleembarkmotionbase
 bip_39_word_no_space_12: framelovewhenbrightdaystumbleshopfemaleembarkmotionbaseavocado
 bip_39_word_no_space_2: framelove
 bip_39_word_no_space_3: framelovewhen
-bip_39_word_no_space_4: framelovewhenbright
-bip_39_word_no_space_5: framelovewhenbrightday
-bip_39_word_no_space_6: framelovewhenbrightdaystumble
-bip_39_word_no_space_7: framelovewhenbrightdaystumbleshop
-bip_39_word_no_space_8: framelovewhenbrightdaystumbleshopfemale
-bip_39_word_no_space_9: framelovewhenbrightdaystumbleshopfemaleembark
-bip_39_word_space_0:
-- frame
-- love
-- when
-- bright
-- day
-- stumble
-- shop
-- female
-- embark
-- motion
-- base
-- avocado
-bip_39_word_space_1: frame
-bip_39_word_space_10: frame love when bright day stumble shop female embark motion
-bip_39_word_space_11: frame love when bright day stumble shop female embark motion
-  base
 bip_39_word_space_12: frame love when bright day stumble shop female embark motion
   base avocado
 bip_39_word_space_2: frame love
 bip_39_word_space_3: frame love when
-bip_39_word_space_4: frame love when bright
-bip_39_word_space_5: frame love when bright day
-bip_39_word_space_6: frame love when bright day stumble
-bip_39_word_space_7: frame love when bright day stumble shop
-bip_39_word_space_8: frame love when bright day stumble shop female
-bip_39_word_space_9: frame love when bright day stumble shop female embark
-bip_39_word_underscore_1: frame
-bip_39_word_underscore_10: frame_love_when_bright_day_stumble_shop_female_embark_motion
-bip_39_word_underscore_11: frame_love_when_bright_day_stumble_shop_female_embark_motion_base
 bip_39_word_underscore_12: frame_love_when_bright_day_stumble_shop_female_embark_motion_base_avocado
 bip_39_word_underscore_2: frame_love
 bip_39_word_underscore_3: frame_love_when
-bip_39_word_underscore_4: frame_love_when_bright
-bip_39_word_underscore_5: frame_love_when_bright_day
-bip_39_word_underscore_6: frame_love_when_bright_day_stumble
-bip_39_word_underscore_7: frame_love_when_bright_day_stumble_shop
-bip_39_word_underscore_8: frame_love_when_bright_day_stumble_shop_female
-bip_39_word_underscore_9: frame_love_when_bright_day_stumble_shop_female_embark
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

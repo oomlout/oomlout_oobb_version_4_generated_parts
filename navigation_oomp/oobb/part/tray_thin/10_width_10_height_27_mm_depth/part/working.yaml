@@ -1,68 +1,9 @@
-bip_39_word_dash_1: fog
-bip_39_word_dash_10: fog-upper-case-city-purchase-phrase-staff-fox-win-ready
-bip_39_word_dash_11: fog-upper-case-city-purchase-phrase-staff-fox-win-ready-come
 bip_39_word_dash_12: fog-upper-case-city-purchase-phrase-staff-fox-win-ready-come-assume
 bip_39_word_dash_2: fog-upper
 bip_39_word_dash_3: fog-upper-case
-bip_39_word_dash_4: fog-upper-case-city
-bip_39_word_dash_5: fog-upper-case-city-purchase
-bip_39_word_dash_6: fog-upper-case-city-purchase-phrase
-bip_39_word_dash_7: fog-upper-case-city-purchase-phrase-staff
-bip_39_word_dash_8: fog-upper-case-city-purchase-phrase-staff-fox
-bip_39_word_dash_9: fog-upper-case-city-purchase-phrase-staff-fox-win
-bip_39_word_new_br_1: fog
-bip_39_word_new_br_10: fog<br>upper<br>case<br>city<br>purchase<br>phrase<br>staff<br>fox<br>win<br>ready
-bip_39_word_new_br_11: fog<br>upper<br>case<br>city<br>purchase<br>phrase<br>staff<br>fox<br>win<br>ready<br>come
 bip_39_word_new_br_12: fog<br>upper<br>case<br>city<br>purchase<br>phrase<br>staff<br>fox<br>win<br>ready<br>come<br>assume
 bip_39_word_new_br_2: fog<br>upper
 bip_39_word_new_br_3: fog<br>upper<br>case
-bip_39_word_new_br_4: fog<br>upper<br>case<br>city
-bip_39_word_new_br_5: fog<br>upper<br>case<br>city<br>purchase
-bip_39_word_new_br_6: fog<br>upper<br>case<br>city<br>purchase<br>phrase
-bip_39_word_new_br_7: fog<br>upper<br>case<br>city<br>purchase<br>phrase<br>staff
-bip_39_word_new_br_8: fog<br>upper<br>case<br>city<br>purchase<br>phrase<br>staff<br>fox
-bip_39_word_new_br_9: fog<br>upper<br>case<br>city<br>purchase<br>phrase<br>staff<br>fox<br>win
-bip_39_word_new_line_1: fog
-bip_39_word_new_line_10: 'fog
-
-  upper
-
-  case
-
-  city
-
-  purchase
-
-  phrase
-
-  staff
-
-  fox
-
-  win
-
-  ready'
-bip_39_word_new_line_11: 'fog
-
-  upper
-
-  case
-
-  city
-
-  purchase
-
-  phrase
-
-  staff
-
-  fox
-
-  win
-
-  ready
-
-  come'
 bip_39_word_new_line_12: 'fog
 
   upper
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'fog
   upper
 
   case'
-bip_39_word_new_line_4: 'fog
-
-  upper
-
-  case
-
-  city'
-bip_39_word_new_line_5: 'fog
-
-  upper
-
-  case
-
-  city
-
-  purchase'
-bip_39_word_new_line_6: 'fog
-
-  upper
-
-  case
-
-  city
-
-  purchase
-
-  phrase'
-bip_39_word_new_line_7: 'fog
-
-  upper
-
-  case
-
-  city
-
-  purchase
-
-  phrase
-
-  staff'
-bip_39_word_new_line_8: 'fog
-
-  upper
-
-  case
-
-  city
-
-  purchase
-
-  phrase
-
-  staff
-
-  fox'
-bip_39_word_new_line_9: 'fog
-
-  upper
-
-  case
-
-  city
-
-  purchase
-
-  phrase
-
-  staff
-
-  fox
-
-  win'
-bip_39_word_no_space_1: fog
-bip_39_word_no_space_10: foguppercasecitypurchasephrasestafffoxwinready
-bip_39_word_no_space_11: foguppercasecitypurchasephrasestafffoxwinreadycome
 bip_39_word_no_space_12: foguppercasecitypurchasephrasestafffoxwinreadycomeassume
 bip_39_word_no_space_2: fogupper
 bip_39_word_no_space_3: foguppercase
-bip_39_word_no_space_4: foguppercasecity
-bip_39_word_no_space_5: foguppercasecitypurchase
-bip_39_word_no_space_6: foguppercasecitypurchasephrase
-bip_39_word_no_space_7: foguppercasecitypurchasephrasestaff
-bip_39_word_no_space_8: foguppercasecitypurchasephrasestafffox
-bip_39_word_no_space_9: foguppercasecitypurchasephrasestafffoxwin
-bip_39_word_space_0:
-- fog
-- upper
-- case
-- city
-- purchase
-- phrase
-- staff
-- fox
-- win
-- ready
-- come
-- assume
-bip_39_word_space_1: fog
-bip_39_word_space_10: fog upper case city purchase phrase staff fox win ready
-bip_39_word_space_11: fog upper case city purchase phrase staff fox win ready come
 bip_39_word_space_12: fog upper case city purchase phrase staff fox win ready come
   assume
 bip_39_word_space_2: fog upper
 bip_39_word_space_3: fog upper case
-bip_39_word_space_4: fog upper case city
-bip_39_word_space_5: fog upper case city purchase
-bip_39_word_space_6: fog upper case city purchase phrase
-bip_39_word_space_7: fog upper case city purchase phrase staff
-bip_39_word_space_8: fog upper case city purchase phrase staff fox
-bip_39_word_space_9: fog upper case city purchase phrase staff fox win
-bip_39_word_underscore_1: fog
-bip_39_word_underscore_10: fog_upper_case_city_purchase_phrase_staff_fox_win_ready
-bip_39_word_underscore_11: fog_upper_case_city_purchase_phrase_staff_fox_win_ready_come
 bip_39_word_underscore_12: fog_upper_case_city_purchase_phrase_staff_fox_win_ready_come_assume
 bip_39_word_underscore_2: fog_upper
 bip_39_word_underscore_3: fog_upper_case
-bip_39_word_underscore_4: fog_upper_case_city
-bip_39_word_underscore_5: fog_upper_case_city_purchase
-bip_39_word_underscore_6: fog_upper_case_city_purchase_phrase
-bip_39_word_underscore_7: fog_upper_case_city_purchase_phrase_staff
-bip_39_word_underscore_8: fog_upper_case_city_purchase_phrase_staff_fox
-bip_39_word_underscore_9: fog_upper_case_city_purchase_phrase_staff_fox_win
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

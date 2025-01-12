@@ -1,68 +1,9 @@
-bip_39_word_dash_1: crash
-bip_39_word_dash_10: crash-celery-spare-random-salt-clock-butter-bird-leaf-spin
-bip_39_word_dash_11: crash-celery-spare-random-salt-clock-butter-bird-leaf-spin-panda
 bip_39_word_dash_12: crash-celery-spare-random-salt-clock-butter-bird-leaf-spin-panda-admit
 bip_39_word_dash_2: crash-celery
 bip_39_word_dash_3: crash-celery-spare
-bip_39_word_dash_4: crash-celery-spare-random
-bip_39_word_dash_5: crash-celery-spare-random-salt
-bip_39_word_dash_6: crash-celery-spare-random-salt-clock
-bip_39_word_dash_7: crash-celery-spare-random-salt-clock-butter
-bip_39_word_dash_8: crash-celery-spare-random-salt-clock-butter-bird
-bip_39_word_dash_9: crash-celery-spare-random-salt-clock-butter-bird-leaf
-bip_39_word_new_br_1: crash
-bip_39_word_new_br_10: crash<br>celery<br>spare<br>random<br>salt<br>clock<br>butter<br>bird<br>leaf<br>spin
-bip_39_word_new_br_11: crash<br>celery<br>spare<br>random<br>salt<br>clock<br>butter<br>bird<br>leaf<br>spin<br>panda
 bip_39_word_new_br_12: crash<br>celery<br>spare<br>random<br>salt<br>clock<br>butter<br>bird<br>leaf<br>spin<br>panda<br>admit
 bip_39_word_new_br_2: crash<br>celery
 bip_39_word_new_br_3: crash<br>celery<br>spare
-bip_39_word_new_br_4: crash<br>celery<br>spare<br>random
-bip_39_word_new_br_5: crash<br>celery<br>spare<br>random<br>salt
-bip_39_word_new_br_6: crash<br>celery<br>spare<br>random<br>salt<br>clock
-bip_39_word_new_br_7: crash<br>celery<br>spare<br>random<br>salt<br>clock<br>butter
-bip_39_word_new_br_8: crash<br>celery<br>spare<br>random<br>salt<br>clock<br>butter<br>bird
-bip_39_word_new_br_9: crash<br>celery<br>spare<br>random<br>salt<br>clock<br>butter<br>bird<br>leaf
-bip_39_word_new_line_1: crash
-bip_39_word_new_line_10: 'crash
-
-  celery
-
-  spare
-
-  random
-
-  salt
-
-  clock
-
-  butter
-
-  bird
-
-  leaf
-
-  spin'
-bip_39_word_new_line_11: 'crash
-
-  celery
-
-  spare
-
-  random
-
-  salt
-
-  clock
-
-  butter
-
-  bird
-
-  leaf
-
-  spin
-
-  panda'
 bip_39_word_new_line_12: 'crash
 
   celery
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'crash
   celery
 
   spare'
-bip_39_word_new_line_4: 'crash
-
-  celery
-
-  spare
-
-  random'
-bip_39_word_new_line_5: 'crash
-
-  celery
-
-  spare
-
-  random
-
-  salt'
-bip_39_word_new_line_6: 'crash
-
-  celery
-
-  spare
-
-  random
-
-  salt
-
-  clock'
-bip_39_word_new_line_7: 'crash
-
-  celery
-
-  spare
-
-  random
-
-  salt
-
-  clock
-
-  butter'
-bip_39_word_new_line_8: 'crash
-
-  celery
-
-  spare
-
-  random
-
-  salt
-
-  clock
-
-  butter
-
-  bird'
-bip_39_word_new_line_9: 'crash
-
-  celery
-
-  spare
-
-  random
-
-  salt
-
-  clock
-
-  butter
-
-  bird
-
-  leaf'
-bip_39_word_no_space_1: crash
-bip_39_word_no_space_10: crashcelerysparerandomsaltclockbutterbirdleafspin
-bip_39_word_no_space_11: crashcelerysparerandomsaltclockbutterbirdleafspinpanda
 bip_39_word_no_space_12: crashcelerysparerandomsaltclockbutterbirdleafspinpandaadmit
 bip_39_word_no_space_2: crashcelery
 bip_39_word_no_space_3: crashceleryspare
-bip_39_word_no_space_4: crashcelerysparerandom
-bip_39_word_no_space_5: crashcelerysparerandomsalt
-bip_39_word_no_space_6: crashcelerysparerandomsaltclock
-bip_39_word_no_space_7: crashcelerysparerandomsaltclockbutter
-bip_39_word_no_space_8: crashcelerysparerandomsaltclockbutterbird
-bip_39_word_no_space_9: crashcelerysparerandomsaltclockbutterbirdleaf
-bip_39_word_space_0:
-- crash
-- celery
-- spare
-- random
-- salt
-- clock
-- butter
-- bird
-- leaf
-- spin
-- panda
-- admit
-bip_39_word_space_1: crash
-bip_39_word_space_10: crash celery spare random salt clock butter bird leaf spin
-bip_39_word_space_11: crash celery spare random salt clock butter bird leaf spin panda
 bip_39_word_space_12: crash celery spare random salt clock butter bird leaf spin panda
   admit
 bip_39_word_space_2: crash celery
 bip_39_word_space_3: crash celery spare
-bip_39_word_space_4: crash celery spare random
-bip_39_word_space_5: crash celery spare random salt
-bip_39_word_space_6: crash celery spare random salt clock
-bip_39_word_space_7: crash celery spare random salt clock butter
-bip_39_word_space_8: crash celery spare random salt clock butter bird
-bip_39_word_space_9: crash celery spare random salt clock butter bird leaf
-bip_39_word_underscore_1: crash
-bip_39_word_underscore_10: crash_celery_spare_random_salt_clock_butter_bird_leaf_spin
-bip_39_word_underscore_11: crash_celery_spare_random_salt_clock_butter_bird_leaf_spin_panda
 bip_39_word_underscore_12: crash_celery_spare_random_salt_clock_butter_bird_leaf_spin_panda_admit
 bip_39_word_underscore_2: crash_celery
 bip_39_word_underscore_3: crash_celery_spare
-bip_39_word_underscore_4: crash_celery_spare_random
-bip_39_word_underscore_5: crash_celery_spare_random_salt
-bip_39_word_underscore_6: crash_celery_spare_random_salt_clock
-bip_39_word_underscore_7: crash_celery_spare_random_salt_clock_butter
-bip_39_word_underscore_8: crash_celery_spare_random_salt_clock_butter_bird
-bip_39_word_underscore_9: crash_celery_spare_random_salt_clock_butter_bird_leaf
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: fluid
-bip_39_word_dash_10: fluid-reflect-antenna-valley-flee-gain-year-crisp-cement-coffee
-bip_39_word_dash_11: fluid-reflect-antenna-valley-flee-gain-year-crisp-cement-coffee-cabbage
 bip_39_word_dash_12: fluid-reflect-antenna-valley-flee-gain-year-crisp-cement-coffee-cabbage-absorb
 bip_39_word_dash_2: fluid-reflect
 bip_39_word_dash_3: fluid-reflect-antenna
-bip_39_word_dash_4: fluid-reflect-antenna-valley
-bip_39_word_dash_5: fluid-reflect-antenna-valley-flee
-bip_39_word_dash_6: fluid-reflect-antenna-valley-flee-gain
-bip_39_word_dash_7: fluid-reflect-antenna-valley-flee-gain-year
-bip_39_word_dash_8: fluid-reflect-antenna-valley-flee-gain-year-crisp
-bip_39_word_dash_9: fluid-reflect-antenna-valley-flee-gain-year-crisp-cement
-bip_39_word_new_br_1: fluid
-bip_39_word_new_br_10: fluid<br>reflect<br>antenna<br>valley<br>flee<br>gain<br>year<br>crisp<br>cement<br>coffee
-bip_39_word_new_br_11: fluid<br>reflect<br>antenna<br>valley<br>flee<br>gain<br>year<br>crisp<br>cement<br>coffee<br>cabbage
 bip_39_word_new_br_12: fluid<br>reflect<br>antenna<br>valley<br>flee<br>gain<br>year<br>crisp<br>cement<br>coffee<br>cabbage<br>absorb
 bip_39_word_new_br_2: fluid<br>reflect
 bip_39_word_new_br_3: fluid<br>reflect<br>antenna
-bip_39_word_new_br_4: fluid<br>reflect<br>antenna<br>valley
-bip_39_word_new_br_5: fluid<br>reflect<br>antenna<br>valley<br>flee
-bip_39_word_new_br_6: fluid<br>reflect<br>antenna<br>valley<br>flee<br>gain
-bip_39_word_new_br_7: fluid<br>reflect<br>antenna<br>valley<br>flee<br>gain<br>year
-bip_39_word_new_br_8: fluid<br>reflect<br>antenna<br>valley<br>flee<br>gain<br>year<br>crisp
-bip_39_word_new_br_9: fluid<br>reflect<br>antenna<br>valley<br>flee<br>gain<br>year<br>crisp<br>cement
-bip_39_word_new_line_1: fluid
-bip_39_word_new_line_10: 'fluid
-
-  reflect
-
-  antenna
-
-  valley
-
-  flee
-
-  gain
-
-  year
-
-  crisp
-
-  cement
-
-  coffee'
-bip_39_word_new_line_11: 'fluid
-
-  reflect
-
-  antenna
-
-  valley
-
-  flee
-
-  gain
-
-  year
-
-  crisp
-
-  cement
-
-  coffee
-
-  cabbage'
 bip_39_word_new_line_12: 'fluid
 
   reflect
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'fluid
   reflect
 
   antenna'
-bip_39_word_new_line_4: 'fluid
-
-  reflect
-
-  antenna
-
-  valley'
-bip_39_word_new_line_5: 'fluid
-
-  reflect
-
-  antenna
-
-  valley
-
-  flee'
-bip_39_word_new_line_6: 'fluid
-
-  reflect
-
-  antenna
-
-  valley
-
-  flee
-
-  gain'
-bip_39_word_new_line_7: 'fluid
-
-  reflect
-
-  antenna
-
-  valley
-
-  flee
-
-  gain
-
-  year'
-bip_39_word_new_line_8: 'fluid
-
-  reflect
-
-  antenna
-
-  valley
-
-  flee
-
-  gain
-
-  year
-
-  crisp'
-bip_39_word_new_line_9: 'fluid
-
-  reflect
-
-  antenna
-
-  valley
-
-  flee
-
-  gain
-
-  year
-
-  crisp
-
-  cement'
-bip_39_word_no_space_1: fluid
-bip_39_word_no_space_10: fluidreflectantennavalleyfleegainyearcrispcementcoffee
-bip_39_word_no_space_11: fluidreflectantennavalleyfleegainyearcrispcementcoffeecabbage
 bip_39_word_no_space_12: fluidreflectantennavalleyfleegainyearcrispcementcoffeecabbageabsorb
 bip_39_word_no_space_2: fluidreflect
 bip_39_word_no_space_3: fluidreflectantenna
-bip_39_word_no_space_4: fluidreflectantennavalley
-bip_39_word_no_space_5: fluidreflectantennavalleyflee
-bip_39_word_no_space_6: fluidreflectantennavalleyfleegain
-bip_39_word_no_space_7: fluidreflectantennavalleyfleegainyear
-bip_39_word_no_space_8: fluidreflectantennavalleyfleegainyearcrisp
-bip_39_word_no_space_9: fluidreflectantennavalleyfleegainyearcrispcement
-bip_39_word_space_0:
-- fluid
-- reflect
-- antenna
-- valley
-- flee
-- gain
-- year
-- crisp
-- cement
-- coffee
-- cabbage
-- absorb
-bip_39_word_space_1: fluid
-bip_39_word_space_10: fluid reflect antenna valley flee gain year crisp cement coffee
-bip_39_word_space_11: fluid reflect antenna valley flee gain year crisp cement coffee
-  cabbage
 bip_39_word_space_12: fluid reflect antenna valley flee gain year crisp cement coffee
   cabbage absorb
 bip_39_word_space_2: fluid reflect
 bip_39_word_space_3: fluid reflect antenna
-bip_39_word_space_4: fluid reflect antenna valley
-bip_39_word_space_5: fluid reflect antenna valley flee
-bip_39_word_space_6: fluid reflect antenna valley flee gain
-bip_39_word_space_7: fluid reflect antenna valley flee gain year
-bip_39_word_space_8: fluid reflect antenna valley flee gain year crisp
-bip_39_word_space_9: fluid reflect antenna valley flee gain year crisp cement
-bip_39_word_underscore_1: fluid
-bip_39_word_underscore_10: fluid_reflect_antenna_valley_flee_gain_year_crisp_cement_coffee
-bip_39_word_underscore_11: fluid_reflect_antenna_valley_flee_gain_year_crisp_cement_coffee_cabbage
 bip_39_word_underscore_12: fluid_reflect_antenna_valley_flee_gain_year_crisp_cement_coffee_cabbage_absorb
 bip_39_word_underscore_2: fluid_reflect
 bip_39_word_underscore_3: fluid_reflect_antenna
-bip_39_word_underscore_4: fluid_reflect_antenna_valley
-bip_39_word_underscore_5: fluid_reflect_antenna_valley_flee
-bip_39_word_underscore_6: fluid_reflect_antenna_valley_flee_gain
-bip_39_word_underscore_7: fluid_reflect_antenna_valley_flee_gain_year
-bip_39_word_underscore_8: fluid_reflect_antenna_valley_flee_gain_year_crisp
-bip_39_word_underscore_9: fluid_reflect_antenna_valley_flee_gain_year_crisp_cement
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

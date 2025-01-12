@@ -1,68 +1,9 @@
-bip_39_word_dash_1: filter
-bip_39_word_dash_10: filter-arch-sunset-liquid-donate-melody-urge-misery-steak-warfare
-bip_39_word_dash_11: filter-arch-sunset-liquid-donate-melody-urge-misery-steak-warfare-aunt
 bip_39_word_dash_12: filter-arch-sunset-liquid-donate-melody-urge-misery-steak-warfare-aunt-alert
 bip_39_word_dash_2: filter-arch
 bip_39_word_dash_3: filter-arch-sunset
-bip_39_word_dash_4: filter-arch-sunset-liquid
-bip_39_word_dash_5: filter-arch-sunset-liquid-donate
-bip_39_word_dash_6: filter-arch-sunset-liquid-donate-melody
-bip_39_word_dash_7: filter-arch-sunset-liquid-donate-melody-urge
-bip_39_word_dash_8: filter-arch-sunset-liquid-donate-melody-urge-misery
-bip_39_word_dash_9: filter-arch-sunset-liquid-donate-melody-urge-misery-steak
-bip_39_word_new_br_1: filter
-bip_39_word_new_br_10: filter<br>arch<br>sunset<br>liquid<br>donate<br>melody<br>urge<br>misery<br>steak<br>warfare
-bip_39_word_new_br_11: filter<br>arch<br>sunset<br>liquid<br>donate<br>melody<br>urge<br>misery<br>steak<br>warfare<br>aunt
 bip_39_word_new_br_12: filter<br>arch<br>sunset<br>liquid<br>donate<br>melody<br>urge<br>misery<br>steak<br>warfare<br>aunt<br>alert
 bip_39_word_new_br_2: filter<br>arch
 bip_39_word_new_br_3: filter<br>arch<br>sunset
-bip_39_word_new_br_4: filter<br>arch<br>sunset<br>liquid
-bip_39_word_new_br_5: filter<br>arch<br>sunset<br>liquid<br>donate
-bip_39_word_new_br_6: filter<br>arch<br>sunset<br>liquid<br>donate<br>melody
-bip_39_word_new_br_7: filter<br>arch<br>sunset<br>liquid<br>donate<br>melody<br>urge
-bip_39_word_new_br_8: filter<br>arch<br>sunset<br>liquid<br>donate<br>melody<br>urge<br>misery
-bip_39_word_new_br_9: filter<br>arch<br>sunset<br>liquid<br>donate<br>melody<br>urge<br>misery<br>steak
-bip_39_word_new_line_1: filter
-bip_39_word_new_line_10: 'filter
-
-  arch
-
-  sunset
-
-  liquid
-
-  donate
-
-  melody
-
-  urge
-
-  misery
-
-  steak
-
-  warfare'
-bip_39_word_new_line_11: 'filter
-
-  arch
-
-  sunset
-
-  liquid
-
-  donate
-
-  melody
-
-  urge
-
-  misery
-
-  steak
-
-  warfare
-
-  aunt'
 bip_39_word_new_line_12: 'filter
 
   arch
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'filter
   arch
 
   sunset'
-bip_39_word_new_line_4: 'filter
-
-  arch
-
-  sunset
-
-  liquid'
-bip_39_word_new_line_5: 'filter
-
-  arch
-
-  sunset
-
-  liquid
-
-  donate'
-bip_39_word_new_line_6: 'filter
-
-  arch
-
-  sunset
-
-  liquid
-
-  donate
-
-  melody'
-bip_39_word_new_line_7: 'filter
-
-  arch
-
-  sunset
-
-  liquid
-
-  donate
-
-  melody
-
-  urge'
-bip_39_word_new_line_8: 'filter
-
-  arch
-
-  sunset
-
-  liquid
-
-  donate
-
-  melody
-
-  urge
-
-  misery'
-bip_39_word_new_line_9: 'filter
-
-  arch
-
-  sunset
-
-  liquid
-
-  donate
-
-  melody
-
-  urge
-
-  misery
-
-  steak'
-bip_39_word_no_space_1: filter
-bip_39_word_no_space_10: filterarchsunsetliquiddonatemelodyurgemiserysteakwarfare
-bip_39_word_no_space_11: filterarchsunsetliquiddonatemelodyurgemiserysteakwarfareaunt
 bip_39_word_no_space_12: filterarchsunsetliquiddonatemelodyurgemiserysteakwarfareauntalert
 bip_39_word_no_space_2: filterarch
 bip_39_word_no_space_3: filterarchsunset
-bip_39_word_no_space_4: filterarchsunsetliquid
-bip_39_word_no_space_5: filterarchsunsetliquiddonate
-bip_39_word_no_space_6: filterarchsunsetliquiddonatemelody
-bip_39_word_no_space_7: filterarchsunsetliquiddonatemelodyurge
-bip_39_word_no_space_8: filterarchsunsetliquiddonatemelodyurgemisery
-bip_39_word_no_space_9: filterarchsunsetliquiddonatemelodyurgemiserysteak
-bip_39_word_space_0:
-- filter
-- arch
-- sunset
-- liquid
-- donate
-- melody
-- urge
-- misery
-- steak
-- warfare
-- aunt
-- alert
-bip_39_word_space_1: filter
-bip_39_word_space_10: filter arch sunset liquid donate melody urge misery steak warfare
-bip_39_word_space_11: filter arch sunset liquid donate melody urge misery steak warfare
-  aunt
 bip_39_word_space_12: filter arch sunset liquid donate melody urge misery steak warfare
   aunt alert
 bip_39_word_space_2: filter arch
 bip_39_word_space_3: filter arch sunset
-bip_39_word_space_4: filter arch sunset liquid
-bip_39_word_space_5: filter arch sunset liquid donate
-bip_39_word_space_6: filter arch sunset liquid donate melody
-bip_39_word_space_7: filter arch sunset liquid donate melody urge
-bip_39_word_space_8: filter arch sunset liquid donate melody urge misery
-bip_39_word_space_9: filter arch sunset liquid donate melody urge misery steak
-bip_39_word_underscore_1: filter
-bip_39_word_underscore_10: filter_arch_sunset_liquid_donate_melody_urge_misery_steak_warfare
-bip_39_word_underscore_11: filter_arch_sunset_liquid_donate_melody_urge_misery_steak_warfare_aunt
 bip_39_word_underscore_12: filter_arch_sunset_liquid_donate_melody_urge_misery_steak_warfare_aunt_alert
 bip_39_word_underscore_2: filter_arch
 bip_39_word_underscore_3: filter_arch_sunset
-bip_39_word_underscore_4: filter_arch_sunset_liquid
-bip_39_word_underscore_5: filter_arch_sunset_liquid_donate
-bip_39_word_underscore_6: filter_arch_sunset_liquid_donate_melody
-bip_39_word_underscore_7: filter_arch_sunset_liquid_donate_melody_urge
-bip_39_word_underscore_8: filter_arch_sunset_liquid_donate_melody_urge_misery
-bip_39_word_underscore_9: filter_arch_sunset_liquid_donate_melody_urge_misery_steak
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

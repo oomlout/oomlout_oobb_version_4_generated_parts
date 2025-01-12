@@ -1,68 +1,9 @@
-bip_39_word_dash_1: pluck
-bip_39_word_dash_10: pluck-mask-glory-soda-usage-garlic-bench-scene-evoke-ribbon
-bip_39_word_dash_11: pluck-mask-glory-soda-usage-garlic-bench-scene-evoke-ribbon-enjoy
 bip_39_word_dash_12: pluck-mask-glory-soda-usage-garlic-bench-scene-evoke-ribbon-enjoy-arch
 bip_39_word_dash_2: pluck-mask
 bip_39_word_dash_3: pluck-mask-glory
-bip_39_word_dash_4: pluck-mask-glory-soda
-bip_39_word_dash_5: pluck-mask-glory-soda-usage
-bip_39_word_dash_6: pluck-mask-glory-soda-usage-garlic
-bip_39_word_dash_7: pluck-mask-glory-soda-usage-garlic-bench
-bip_39_word_dash_8: pluck-mask-glory-soda-usage-garlic-bench-scene
-bip_39_word_dash_9: pluck-mask-glory-soda-usage-garlic-bench-scene-evoke
-bip_39_word_new_br_1: pluck
-bip_39_word_new_br_10: pluck<br>mask<br>glory<br>soda<br>usage<br>garlic<br>bench<br>scene<br>evoke<br>ribbon
-bip_39_word_new_br_11: pluck<br>mask<br>glory<br>soda<br>usage<br>garlic<br>bench<br>scene<br>evoke<br>ribbon<br>enjoy
 bip_39_word_new_br_12: pluck<br>mask<br>glory<br>soda<br>usage<br>garlic<br>bench<br>scene<br>evoke<br>ribbon<br>enjoy<br>arch
 bip_39_word_new_br_2: pluck<br>mask
 bip_39_word_new_br_3: pluck<br>mask<br>glory
-bip_39_word_new_br_4: pluck<br>mask<br>glory<br>soda
-bip_39_word_new_br_5: pluck<br>mask<br>glory<br>soda<br>usage
-bip_39_word_new_br_6: pluck<br>mask<br>glory<br>soda<br>usage<br>garlic
-bip_39_word_new_br_7: pluck<br>mask<br>glory<br>soda<br>usage<br>garlic<br>bench
-bip_39_word_new_br_8: pluck<br>mask<br>glory<br>soda<br>usage<br>garlic<br>bench<br>scene
-bip_39_word_new_br_9: pluck<br>mask<br>glory<br>soda<br>usage<br>garlic<br>bench<br>scene<br>evoke
-bip_39_word_new_line_1: pluck
-bip_39_word_new_line_10: 'pluck
-
-  mask
-
-  glory
-
-  soda
-
-  usage
-
-  garlic
-
-  bench
-
-  scene
-
-  evoke
-
-  ribbon'
-bip_39_word_new_line_11: 'pluck
-
-  mask
-
-  glory
-
-  soda
-
-  usage
-
-  garlic
-
-  bench
-
-  scene
-
-  evoke
-
-  ribbon
-
-  enjoy'
 bip_39_word_new_line_12: 'pluck
 
   mask
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'pluck
   mask
 
   glory'
-bip_39_word_new_line_4: 'pluck
-
-  mask
-
-  glory
-
-  soda'
-bip_39_word_new_line_5: 'pluck
-
-  mask
-
-  glory
-
-  soda
-
-  usage'
-bip_39_word_new_line_6: 'pluck
-
-  mask
-
-  glory
-
-  soda
-
-  usage
-
-  garlic'
-bip_39_word_new_line_7: 'pluck
-
-  mask
-
-  glory
-
-  soda
-
-  usage
-
-  garlic
-
-  bench'
-bip_39_word_new_line_8: 'pluck
-
-  mask
-
-  glory
-
-  soda
-
-  usage
-
-  garlic
-
-  bench
-
-  scene'
-bip_39_word_new_line_9: 'pluck
-
-  mask
-
-  glory
-
-  soda
-
-  usage
-
-  garlic
-
-  bench
-
-  scene
-
-  evoke'
-bip_39_word_no_space_1: pluck
-bip_39_word_no_space_10: pluckmaskglorysodausagegarlicbenchsceneevokeribbon
-bip_39_word_no_space_11: pluckmaskglorysodausagegarlicbenchsceneevokeribbonenjoy
 bip_39_word_no_space_12: pluckmaskglorysodausagegarlicbenchsceneevokeribbonenjoyarch
 bip_39_word_no_space_2: pluckmask
 bip_39_word_no_space_3: pluckmaskglory
-bip_39_word_no_space_4: pluckmaskglorysoda
-bip_39_word_no_space_5: pluckmaskglorysodausage
-bip_39_word_no_space_6: pluckmaskglorysodausagegarlic
-bip_39_word_no_space_7: pluckmaskglorysodausagegarlicbench
-bip_39_word_no_space_8: pluckmaskglorysodausagegarlicbenchscene
-bip_39_word_no_space_9: pluckmaskglorysodausagegarlicbenchsceneevoke
-bip_39_word_space_0:
-- pluck
-- mask
-- glory
-- soda
-- usage
-- garlic
-- bench
-- scene
-- evoke
-- ribbon
-- enjoy
-- arch
-bip_39_word_space_1: pluck
-bip_39_word_space_10: pluck mask glory soda usage garlic bench scene evoke ribbon
-bip_39_word_space_11: pluck mask glory soda usage garlic bench scene evoke ribbon
-  enjoy
 bip_39_word_space_12: pluck mask glory soda usage garlic bench scene evoke ribbon
   enjoy arch
 bip_39_word_space_2: pluck mask
 bip_39_word_space_3: pluck mask glory
-bip_39_word_space_4: pluck mask glory soda
-bip_39_word_space_5: pluck mask glory soda usage
-bip_39_word_space_6: pluck mask glory soda usage garlic
-bip_39_word_space_7: pluck mask glory soda usage garlic bench
-bip_39_word_space_8: pluck mask glory soda usage garlic bench scene
-bip_39_word_space_9: pluck mask glory soda usage garlic bench scene evoke
-bip_39_word_underscore_1: pluck
-bip_39_word_underscore_10: pluck_mask_glory_soda_usage_garlic_bench_scene_evoke_ribbon
-bip_39_word_underscore_11: pluck_mask_glory_soda_usage_garlic_bench_scene_evoke_ribbon_enjoy
 bip_39_word_underscore_12: pluck_mask_glory_soda_usage_garlic_bench_scene_evoke_ribbon_enjoy_arch
 bip_39_word_underscore_2: pluck_mask
 bip_39_word_underscore_3: pluck_mask_glory
-bip_39_word_underscore_4: pluck_mask_glory_soda
-bip_39_word_underscore_5: pluck_mask_glory_soda_usage
-bip_39_word_underscore_6: pluck_mask_glory_soda_usage_garlic
-bip_39_word_underscore_7: pluck_mask_glory_soda_usage_garlic_bench
-bip_39_word_underscore_8: pluck_mask_glory_soda_usage_garlic_bench_scene
-bip_39_word_underscore_9: pluck_mask_glory_soda_usage_garlic_bench_scene_evoke
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: term
-bip_39_word_dash_10: term-emotion-impose-guilt-symbol-impose-crane-arrest-safe-abandon
-bip_39_word_dash_11: term-emotion-impose-guilt-symbol-impose-crane-arrest-safe-abandon-nephew
 bip_39_word_dash_12: term-emotion-impose-guilt-symbol-impose-crane-arrest-safe-abandon-nephew-advice
 bip_39_word_dash_2: term-emotion
 bip_39_word_dash_3: term-emotion-impose
-bip_39_word_dash_4: term-emotion-impose-guilt
-bip_39_word_dash_5: term-emotion-impose-guilt-symbol
-bip_39_word_dash_6: term-emotion-impose-guilt-symbol-impose
-bip_39_word_dash_7: term-emotion-impose-guilt-symbol-impose-crane
-bip_39_word_dash_8: term-emotion-impose-guilt-symbol-impose-crane-arrest
-bip_39_word_dash_9: term-emotion-impose-guilt-symbol-impose-crane-arrest-safe
-bip_39_word_new_br_1: term
-bip_39_word_new_br_10: term<br>emotion<br>impose<br>guilt<br>symbol<br>impose<br>crane<br>arrest<br>safe<br>abandon
-bip_39_word_new_br_11: term<br>emotion<br>impose<br>guilt<br>symbol<br>impose<br>crane<br>arrest<br>safe<br>abandon<br>nephew
 bip_39_word_new_br_12: term<br>emotion<br>impose<br>guilt<br>symbol<br>impose<br>crane<br>arrest<br>safe<br>abandon<br>nephew<br>advice
 bip_39_word_new_br_2: term<br>emotion
 bip_39_word_new_br_3: term<br>emotion<br>impose
-bip_39_word_new_br_4: term<br>emotion<br>impose<br>guilt
-bip_39_word_new_br_5: term<br>emotion<br>impose<br>guilt<br>symbol
-bip_39_word_new_br_6: term<br>emotion<br>impose<br>guilt<br>symbol<br>impose
-bip_39_word_new_br_7: term<br>emotion<br>impose<br>guilt<br>symbol<br>impose<br>crane
-bip_39_word_new_br_8: term<br>emotion<br>impose<br>guilt<br>symbol<br>impose<br>crane<br>arrest
-bip_39_word_new_br_9: term<br>emotion<br>impose<br>guilt<br>symbol<br>impose<br>crane<br>arrest<br>safe
-bip_39_word_new_line_1: term
-bip_39_word_new_line_10: 'term
-
-  emotion
-
-  impose
-
-  guilt
-
-  symbol
-
-  impose
-
-  crane
-
-  arrest
-
-  safe
-
-  abandon'
-bip_39_word_new_line_11: 'term
-
-  emotion
-
-  impose
-
-  guilt
-
-  symbol
-
-  impose
-
-  crane
-
-  arrest
-
-  safe
-
-  abandon
-
-  nephew'
 bip_39_word_new_line_12: 'term
 
   emotion
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'term
   emotion
 
   impose'
-bip_39_word_new_line_4: 'term
-
-  emotion
-
-  impose
-
-  guilt'
-bip_39_word_new_line_5: 'term
-
-  emotion
-
-  impose
-
-  guilt
-
-  symbol'
-bip_39_word_new_line_6: 'term
-
-  emotion
-
-  impose
-
-  guilt
-
-  symbol
-
-  impose'
-bip_39_word_new_line_7: 'term
-
-  emotion
-
-  impose
-
-  guilt
-
-  symbol
-
-  impose
-
-  crane'
-bip_39_word_new_line_8: 'term
-
-  emotion
-
-  impose
-
-  guilt
-
-  symbol
-
-  impose
-
-  crane
-
-  arrest'
-bip_39_word_new_line_9: 'term
-
-  emotion
-
-  impose
-
-  guilt
-
-  symbol
-
-  impose
-
-  crane
-
-  arrest
-
-  safe'
-bip_39_word_no_space_1: term
-bip_39_word_no_space_10: termemotionimposeguiltsymbolimposecranearrestsafeabandon
-bip_39_word_no_space_11: termemotionimposeguiltsymbolimposecranearrestsafeabandonnephew
 bip_39_word_no_space_12: termemotionimposeguiltsymbolimposecranearrestsafeabandonnephewadvice
 bip_39_word_no_space_2: termemotion
 bip_39_word_no_space_3: termemotionimpose
-bip_39_word_no_space_4: termemotionimposeguilt
-bip_39_word_no_space_5: termemotionimposeguiltsymbol
-bip_39_word_no_space_6: termemotionimposeguiltsymbolimpose
-bip_39_word_no_space_7: termemotionimposeguiltsymbolimposecrane
-bip_39_word_no_space_8: termemotionimposeguiltsymbolimposecranearrest
-bip_39_word_no_space_9: termemotionimposeguiltsymbolimposecranearrestsafe
-bip_39_word_space_0:
-- term
-- emotion
-- impose
-- guilt
-- symbol
-- impose
-- crane
-- arrest
-- safe
-- abandon
-- nephew
-- advice
-bip_39_word_space_1: term
-bip_39_word_space_10: term emotion impose guilt symbol impose crane arrest safe abandon
-bip_39_word_space_11: term emotion impose guilt symbol impose crane arrest safe abandon
-  nephew
 bip_39_word_space_12: term emotion impose guilt symbol impose crane arrest safe abandon
   nephew advice
 bip_39_word_space_2: term emotion
 bip_39_word_space_3: term emotion impose
-bip_39_word_space_4: term emotion impose guilt
-bip_39_word_space_5: term emotion impose guilt symbol
-bip_39_word_space_6: term emotion impose guilt symbol impose
-bip_39_word_space_7: term emotion impose guilt symbol impose crane
-bip_39_word_space_8: term emotion impose guilt symbol impose crane arrest
-bip_39_word_space_9: term emotion impose guilt symbol impose crane arrest safe
-bip_39_word_underscore_1: term
-bip_39_word_underscore_10: term_emotion_impose_guilt_symbol_impose_crane_arrest_safe_abandon
-bip_39_word_underscore_11: term_emotion_impose_guilt_symbol_impose_crane_arrest_safe_abandon_nephew
 bip_39_word_underscore_12: term_emotion_impose_guilt_symbol_impose_crane_arrest_safe_abandon_nephew_advice
 bip_39_word_underscore_2: term_emotion
 bip_39_word_underscore_3: term_emotion_impose
-bip_39_word_underscore_4: term_emotion_impose_guilt
-bip_39_word_underscore_5: term_emotion_impose_guilt_symbol
-bip_39_word_underscore_6: term_emotion_impose_guilt_symbol_impose
-bip_39_word_underscore_7: term_emotion_impose_guilt_symbol_impose_crane
-bip_39_word_underscore_8: term_emotion_impose_guilt_symbol_impose_crane_arrest
-bip_39_word_underscore_9: term_emotion_impose_guilt_symbol_impose_crane_arrest_safe
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

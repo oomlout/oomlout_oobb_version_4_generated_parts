@@ -1,68 +1,9 @@
-bip_39_word_dash_1: news
-bip_39_word_dash_10: news-ice-cabbage-industry-cake-opera-excite-strong-certain-swift
-bip_39_word_dash_11: news-ice-cabbage-industry-cake-opera-excite-strong-certain-swift-wreck
 bip_39_word_dash_12: news-ice-cabbage-industry-cake-opera-excite-strong-certain-swift-wreck-alley
 bip_39_word_dash_2: news-ice
 bip_39_word_dash_3: news-ice-cabbage
-bip_39_word_dash_4: news-ice-cabbage-industry
-bip_39_word_dash_5: news-ice-cabbage-industry-cake
-bip_39_word_dash_6: news-ice-cabbage-industry-cake-opera
-bip_39_word_dash_7: news-ice-cabbage-industry-cake-opera-excite
-bip_39_word_dash_8: news-ice-cabbage-industry-cake-opera-excite-strong
-bip_39_word_dash_9: news-ice-cabbage-industry-cake-opera-excite-strong-certain
-bip_39_word_new_br_1: news
-bip_39_word_new_br_10: news<br>ice<br>cabbage<br>industry<br>cake<br>opera<br>excite<br>strong<br>certain<br>swift
-bip_39_word_new_br_11: news<br>ice<br>cabbage<br>industry<br>cake<br>opera<br>excite<br>strong<br>certain<br>swift<br>wreck
 bip_39_word_new_br_12: news<br>ice<br>cabbage<br>industry<br>cake<br>opera<br>excite<br>strong<br>certain<br>swift<br>wreck<br>alley
 bip_39_word_new_br_2: news<br>ice
 bip_39_word_new_br_3: news<br>ice<br>cabbage
-bip_39_word_new_br_4: news<br>ice<br>cabbage<br>industry
-bip_39_word_new_br_5: news<br>ice<br>cabbage<br>industry<br>cake
-bip_39_word_new_br_6: news<br>ice<br>cabbage<br>industry<br>cake<br>opera
-bip_39_word_new_br_7: news<br>ice<br>cabbage<br>industry<br>cake<br>opera<br>excite
-bip_39_word_new_br_8: news<br>ice<br>cabbage<br>industry<br>cake<br>opera<br>excite<br>strong
-bip_39_word_new_br_9: news<br>ice<br>cabbage<br>industry<br>cake<br>opera<br>excite<br>strong<br>certain
-bip_39_word_new_line_1: news
-bip_39_word_new_line_10: 'news
-
-  ice
-
-  cabbage
-
-  industry
-
-  cake
-
-  opera
-
-  excite
-
-  strong
-
-  certain
-
-  swift'
-bip_39_word_new_line_11: 'news
-
-  ice
-
-  cabbage
-
-  industry
-
-  cake
-
-  opera
-
-  excite
-
-  strong
-
-  certain
-
-  swift
-
-  wreck'
 bip_39_word_new_line_12: 'news
 
   ice
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'news
   ice
 
   cabbage'
-bip_39_word_new_line_4: 'news
-
-  ice
-
-  cabbage
-
-  industry'
-bip_39_word_new_line_5: 'news
-
-  ice
-
-  cabbage
-
-  industry
-
-  cake'
-bip_39_word_new_line_6: 'news
-
-  ice
-
-  cabbage
-
-  industry
-
-  cake
-
-  opera'
-bip_39_word_new_line_7: 'news
-
-  ice
-
-  cabbage
-
-  industry
-
-  cake
-
-  opera
-
-  excite'
-bip_39_word_new_line_8: 'news
-
-  ice
-
-  cabbage
-
-  industry
-
-  cake
-
-  opera
-
-  excite
-
-  strong'
-bip_39_word_new_line_9: 'news
-
-  ice
-
-  cabbage
-
-  industry
-
-  cake
-
-  opera
-
-  excite
-
-  strong
-
-  certain'
-bip_39_word_no_space_1: news
-bip_39_word_no_space_10: newsicecabbageindustrycakeoperaexcitestrongcertainswift
-bip_39_word_no_space_11: newsicecabbageindustrycakeoperaexcitestrongcertainswiftwreck
 bip_39_word_no_space_12: newsicecabbageindustrycakeoperaexcitestrongcertainswiftwreckalley
 bip_39_word_no_space_2: newsice
 bip_39_word_no_space_3: newsicecabbage
-bip_39_word_no_space_4: newsicecabbageindustry
-bip_39_word_no_space_5: newsicecabbageindustrycake
-bip_39_word_no_space_6: newsicecabbageindustrycakeopera
-bip_39_word_no_space_7: newsicecabbageindustrycakeoperaexcite
-bip_39_word_no_space_8: newsicecabbageindustrycakeoperaexcitestrong
-bip_39_word_no_space_9: newsicecabbageindustrycakeoperaexcitestrongcertain
-bip_39_word_space_0:
-- news
-- ice
-- cabbage
-- industry
-- cake
-- opera
-- excite
-- strong
-- certain
-- swift
-- wreck
-- alley
-bip_39_word_space_1: news
-bip_39_word_space_10: news ice cabbage industry cake opera excite strong certain swift
-bip_39_word_space_11: news ice cabbage industry cake opera excite strong certain swift
-  wreck
 bip_39_word_space_12: news ice cabbage industry cake opera excite strong certain swift
   wreck alley
 bip_39_word_space_2: news ice
 bip_39_word_space_3: news ice cabbage
-bip_39_word_space_4: news ice cabbage industry
-bip_39_word_space_5: news ice cabbage industry cake
-bip_39_word_space_6: news ice cabbage industry cake opera
-bip_39_word_space_7: news ice cabbage industry cake opera excite
-bip_39_word_space_8: news ice cabbage industry cake opera excite strong
-bip_39_word_space_9: news ice cabbage industry cake opera excite strong certain
-bip_39_word_underscore_1: news
-bip_39_word_underscore_10: news_ice_cabbage_industry_cake_opera_excite_strong_certain_swift
-bip_39_word_underscore_11: news_ice_cabbage_industry_cake_opera_excite_strong_certain_swift_wreck
 bip_39_word_underscore_12: news_ice_cabbage_industry_cake_opera_excite_strong_certain_swift_wreck_alley
 bip_39_word_underscore_2: news_ice
 bip_39_word_underscore_3: news_ice_cabbage
-bip_39_word_underscore_4: news_ice_cabbage_industry
-bip_39_word_underscore_5: news_ice_cabbage_industry_cake
-bip_39_word_underscore_6: news_ice_cabbage_industry_cake_opera
-bip_39_word_underscore_7: news_ice_cabbage_industry_cake_opera_excite
-bip_39_word_underscore_8: news_ice_cabbage_industry_cake_opera_excite_strong
-bip_39_word_underscore_9: news_ice_cabbage_industry_cake_opera_excite_strong_certain
 classification: oobb
 classification_length_1: o
 classification_length_2: oo
