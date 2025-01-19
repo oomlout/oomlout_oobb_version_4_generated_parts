@@ -1,0 +1,95 @@
+-   depth: 0
+    extra: motor_servo_standard_01_all_print
+    height: 3
+    hole_sides:
+    - left
+    - right
+    - top
+    - bottom
+    include_connecting_screws: false
+    pos:
+    - 0
+    - 0
+    - 1.5
+    pos_plate:
+    - 0
+    - 0
+    - 1.5
+    shape: oobb_plate
+    thickness: 0
+    type: positive
+    width: 5
+-   extra: motor_servo_standard_01_all_print
+    height: 3
+    hole_sides:
+    - left
+    - right
+    - top
+    - bottom
+    include_connecting_screws: false
+    pos:
+    - 1.5
+    - 0
+    - 1.5
+    pos_plate:
+    - 0
+    - 0
+    - 1.5
+    shape: rounded_rectangle
+    size:
+    - 23
+    - 22
+    - -1.5
+    thickness: 0
+    type: negative
+    width: 5
+-   both_holes: true
+    extra: motor_servo_standard_01_all_print
+    height: 3
+    hole_sides:
+    - left
+    - right
+    - top
+    - bottom
+    holes:
+    - left
+    - right
+    - top
+    - bottom
+    include_connecting_screws: false
+    pos:
+    - 0
+    - 0
+    - 1.5
+    pos_plate:
+    - 0
+    - 0
+    - 1.5
+    shape: oobb_holes
+    thickness: 0
+    type: p
+    width: 5
+-   extra: motor_servo_standard_01_all_print
+    height: 3
+    hole_sides:
+    - left
+    - right
+    - top
+    - bottom
+    include_connecting_screws: false
+    pos:
+    - 0
+    - 0
+    - 0
+    pos_plate:
+    - 0
+    - 0
+    - 1.5
+    rot:
+    - 0
+    - 0
+    - 0
+    shape: oobb_motor_servo_standard_01_all_print
+    thickness: 0
+    type: negative
+    width: 5
