@@ -1,0 +1,94 @@
+classification: oobb
+color: ''
+components:
+-   -   depth: 3
+        h: 3
+        inclusion: laser
+        pos: &id001
+        - 0
+        - 0
+        - -1.5
+        r: 1.0
+        radius: 1.0
+        shape: cylinder
+        type: p
+    -   depth: 3
+        h: 3
+        inclusion: 3dpr
+        pos: *id001
+        r: 1.0
+        radius: 1.0
+        shape: cylinder
+        type: p
+    -   depth: 3
+        h: 3
+        inclusion: 'true'
+        pos: *id001
+        r: 1.0
+        radius: 1.0
+        shape: cylinder
+        type: p
+-   -   depth: 6
+        h: 6
+        inclusion: laser
+        pos: &id002
+        - 0
+        - 0
+        - -1.5
+        r: 3.0
+        shape: cylinder
+        type: p
+    -   depth: 6
+        h: 6
+        inclusion: 3dpr
+        pos: *id002
+        r: 2.85
+        shape: cylinder
+        type: p
+    -   depth: 6
+        h: 6
+        inclusion: 'true'
+        pos: *id002
+        r: 3.0
+        shape: cylinder
+        type: p
+-   -   h: 200
+        inclusion: laser
+        pos: &id003
+        - 0
+        - 0
+        - -100.0
+        r: 1.5
+        shape: cylinder
+        type: n
+    -   h: 200
+        inclusion: 3dpr
+        pos: *id003
+        r: 1.8
+        shape: cylinder
+        type: n
+    -   h: 200
+        inclusion: 'true'
+        pos: *id003
+        r: 1.5
+        shape: cylinder
+        type: n
+components_objects: []
+components_string: []
+description: shaft 0x0x3
+description_extra: washer_extra
+description_main: 3_mm_depth_washer_extra
+extra: washer
+folder: C:\gh\oomlout_oobb_version_4_generated_parts\parts\oobb_part_shaft_3_mm_depth_washer_extra_washer_extra
+id: oobb_part_shaft_3_mm_depth_washer_extra_washer_extra
+link_main: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/shaft/3_mm_depth_washer_extra/washer_extra/part
+link_redirect: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/oobb_shaft_03_ex_washer
+manufacturer: ''
+name: Oobb Part Shaft 3 mm Depth Washer Extra Washer Extra
+name_short: Shaft 3 Washer Extra Washer Extra
+part_number: ''
+short_name: ''
+size: shaft
+thickness: 3
+thickness_mm: 3
+type: part

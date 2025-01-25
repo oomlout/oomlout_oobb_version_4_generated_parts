@@ -956,7 +956,7 @@ components:
         -   -   -   clearance: top
                     depth: 26
                     extra: motor_tt_01
-                    h: 53.2
+                    h: 253.2
                     height: 3
                     inclusion: 3dpr
                     pos:
@@ -2080,7 +2080,7 @@ components:
                     - bottom
                     depth: 16
                     extra: motor_tt_01
-                    h: 50
+                    h: 250
                     height: 3
                     inclusion: laser
                     pos:
@@ -2133,120 +2133,19 @@ components:
                 type: positive
                 width: 6
         -   -   objects:
-                -   clearance:
-                    - top
-                    - bottom
-                    depth: 50
-                    height: 150
+                -   depth: 250
+                    height: 250
                     inclusion: laser
                     pos:
                     - 0
                     - 0
-                    - -150
+                    - -250
                     r: 3.1734999999999998
                     shape: polyg
                     sides: 6
                     type: positive
                     width: 6
-                -   -   -   -   -   -   clearance:
-                                        - top
-                                        - bottom
-                                        depth: 50
-                                        height: 3
-                                        inclusion: 3dpr
-                                        pos:
-                                        - -1.75
-                                        - -3.25
-                                        - -150.3
-                                        rotX: 0
-                                        rotY: 0
-                                        rotZ: 0
-                                        shape: cube
-                                        size:
-                                        - 3.5
-                                        - 6.5
-                                        - 0.3
-                                        type: positive
-                                        width: 6
-                        -   -   -   -   clearance:
-                                        - top
-                                        - bottom
-                                        depth: 50
-                                        height: 3
-                                        inclusion: 3dpr
-                                        pos:
-                                        - -1.75
-                                        - -1.75
-                                        - -150.60000000000002
-                                        rotX: 0
-                                        rotY: 0
-                                        rotZ: 0
-                                        shape: cube
-                                        size:
-                                        - 3.5
-                                        - 3.5
-                                        - 0.3
-                                        type: positive
-                                        width: 6
-                -   -   -   -   -   -   clearance:
-                                        - top
-                                        - bottom
-                                        depth: 50
-                                        height: 3
-                                        inclusion: 3dpr
-                                        pos:
-                                        - -1.75
-                                        - -3.25
-                                        - 0
-                                        rotX: 0
-                                        rotY: 0
-                                        rotZ: 0
-                                        shape: cube
-                                        size:
-                                        - 3.5
-                                        - 6.5
-                                        - 0.3
-                                        type: positive
-                                        width: 6
-                        -   -   -   -   clearance:
-                                        - top
-                                        - bottom
-                                        depth: 50
-                                        height: 3
-                                        inclusion: 3dpr
-                                        pos:
-                                        - -1.75
-                                        - -1.75
-                                        - 0.3
-                                        rotX: 0
-                                        rotY: 0
-                                        rotZ: 0
-                                        shape: cube
-                                        size:
-                                        - 3.5
-                                        - 3.5
-                                        - 0.3
-                                        type: positive
-                                        width: 6
-                -   clearance:
-                    - top
-                    - bottom
-                    depth: 50
-                    height: 250
-                    inclusion: 3dpr
-                    pos:
-                    - 0
-                    - 0
-                    - -250
-                    r: 3.4619999999999997
-                    shape: polyg
-                    sides: 6
-                    type: positive
-                    width: 6
-                -   -   -   -   -   -   clearance:
-                                        - top
-                                        - bottom
-                                        depth: 50
+                -   -   -   -   -   -   depth: 250
                                         height: 3
                                         inclusion: 3dpr
                                         pos:
@@ -2263,10 +2162,7 @@ components:
                                         - 0.3
                                         type: positive
                                         width: 6
-                        -   -   -   -   clearance:
-                                        - top
-                                        - bottom
-                                        depth: 50
+                        -   -   -   -   depth: 250
                                         height: 3
                                         inclusion: 3dpr
                                         pos:
@@ -2283,10 +2179,7 @@ components:
                                         - 0.3
                                         type: positive
                                         width: 6
-                -   -   -   -   -   -   clearance:
-                                        - top
-                                        - bottom
-                                        depth: 50
+                -   -   -   -   -   -   depth: 250
                                         height: 3
                                         inclusion: 3dpr
                                         pos:
@@ -2303,10 +2196,7 @@ components:
                                         - 0.3
                                         type: positive
                                         width: 6
-                        -   -   -   -   clearance:
-                                        - top
-                                        - bottom
-                                        depth: 50
+                        -   -   -   -   depth: 250
                                         height: 3
                                         inclusion: 3dpr
                                         pos:
@@ -2323,31 +2213,105 @@ components:
                                         - 0.3
                                         type: positive
                                         width: 6
-                -   clearance:
-                    - top
-                    - bottom
-                    depth: 50
-                    height: 350
+                -   depth: 250
+                    height: 250
+                    inclusion: 3dpr
+                    pos:
+                    - 0
+                    - 0
+                    - -250
+                    r: 3.4619999999999997
+                    shape: polyg
+                    sides: 6
+                    type: positive
+                    width: 6
+                -   -   -   -   -   -   depth: 250
+                                        height: 3
+                                        inclusion: 3dpr
+                                        pos:
+                                        - -1.75
+                                        - -3.25
+                                        - -250.3
+                                        rotX: 0
+                                        rotY: 0
+                                        rotZ: 0
+                                        shape: cube
+                                        size:
+                                        - 3.5
+                                        - 6.5
+                                        - 0.3
+                                        type: positive
+                                        width: 6
+                        -   -   -   -   depth: 250
+                                        height: 3
+                                        inclusion: 3dpr
+                                        pos:
+                                        - -1.75
+                                        - -1.75
+                                        - -250.60000000000002
+                                        rotX: 0
+                                        rotY: 0
+                                        rotZ: 0
+                                        shape: cube
+                                        size:
+                                        - 3.5
+                                        - 3.5
+                                        - 0.3
+                                        type: positive
+                                        width: 6
+                -   -   -   -   -   -   depth: 250
+                                        height: 3
+                                        inclusion: 3dpr
+                                        pos:
+                                        - -1.75
+                                        - -3.25
+                                        - 0
+                                        rotX: 0
+                                        rotY: 0
+                                        rotZ: 0
+                                        shape: cube
+                                        size:
+                                        - 3.5
+                                        - 6.5
+                                        - 0.3
+                                        type: positive
+                                        width: 6
+                        -   -   -   -   depth: 250
+                                        height: 3
+                                        inclusion: 3dpr
+                                        pos:
+                                        - -1.75
+                                        - -1.75
+                                        - 0.3
+                                        rotX: 0
+                                        rotY: 0
+                                        rotZ: 0
+                                        shape: cube
+                                        size:
+                                        - 3.5
+                                        - 3.5
+                                        - 0.3
+                                        type: positive
+                                        width: 6
+                -   depth: 250
+                    height: 250
                     inclusion: 'true'
                     pos:
                     - 0
                     - 0
-                    - -350
+                    - -250
                     r: 3.1734999999999998
                     shape: polyg
                     sides: 6
                     type: positive
                     width: 6
-                -   -   -   -   -   -   clearance:
-                                        - top
-                                        - bottom
-                                        depth: 50
+                -   -   -   -   -   -   depth: 250
                                         height: 3
                                         inclusion: 3dpr
                                         pos:
                                         - -1.75
                                         - -3.25
-                                        - -350.3
+                                        - -250.3
                                         rotX: 0
                                         rotY: 0
                                         rotZ: 0
@@ -2358,16 +2322,13 @@ components:
                                         - 0.3
                                         type: positive
                                         width: 6
-                        -   -   -   -   clearance:
-                                        - top
-                                        - bottom
-                                        depth: 50
+                        -   -   -   -   depth: 250
                                         height: 3
                                         inclusion: 3dpr
                                         pos:
                                         - -1.75
                                         - -1.75
-                                        - -350.6
+                                        - -250.60000000000002
                                         rotX: 0
                                         rotY: 0
                                         rotZ: 0
@@ -2378,10 +2339,7 @@ components:
                                         - 0.3
                                         type: positive
                                         width: 6
-                -   -   -   -   -   -   clearance:
-                                        - top
-                                        - bottom
-                                        depth: 50
+                -   -   -   -   -   -   depth: 250
                                         height: 3
                                         inclusion: 3dpr
                                         pos:
@@ -2398,10 +2356,7 @@ components:
                                         - 0.3
                                         type: positive
                                         width: 6
-                        -   -   -   -   clearance:
-                                        - top
-                                        - bottom
-                                        depth: 50
+                        -   -   -   -   depth: 250
                                         height: 3
                                         inclusion: 3dpr
                                         pos:
@@ -2421,7 +2376,7 @@ components:
                 pos:
                 - 0
                 - 0
-                - 36.5
+                - -13.5
                 rot:
                 - 0
                 - 0
@@ -2450,7 +2405,7 @@ components:
                     - bottom
                     depth: 16
                     extra: motor_tt_01
-                    h: 50
+                    h: 250
                     height: 3
                     inclusion: 3dpr
                     pos:
@@ -2503,120 +2458,19 @@ components:
                 type: positive
                 width: 6
         -   -   objects:
-                -   clearance:
-                    - top
-                    - bottom
-                    depth: 50
-                    height: 150
+                -   depth: 250
+                    height: 250
                     inclusion: laser
                     pos:
                     - 0
                     - 0
-                    - -150
+                    - -250
                     r: 3.1734999999999998
                     shape: polyg
                     sides: 6
                     type: positive
                     width: 6
-                -   -   -   -   -   -   clearance:
-                                        - top
-                                        - bottom
-                                        depth: 50
-                                        height: 3
-                                        inclusion: 3dpr
-                                        pos:
-                                        - -1.75
-                                        - -3.25
-                                        - -150.3
-                                        rotX: 0
-                                        rotY: 0
-                                        rotZ: 0
-                                        shape: cube
-                                        size:
-                                        - 3.5
-                                        - 6.5
-                                        - 0.3
-                                        type: positive
-                                        width: 6
-                        -   -   -   -   clearance:
-                                        - top
-                                        - bottom
-                                        depth: 50
-                                        height: 3
-                                        inclusion: 3dpr
-                                        pos:
-                                        - -1.75
-                                        - -1.75
-                                        - -150.60000000000002
-                                        rotX: 0
-                                        rotY: 0
-                                        rotZ: 0
-                                        shape: cube
-                                        size:
-                                        - 3.5
-                                        - 3.5
-                                        - 0.3
-                                        type: positive
-                                        width: 6
-                -   -   -   -   -   -   clearance:
-                                        - top
-                                        - bottom
-                                        depth: 50
-                                        height: 3
-                                        inclusion: 3dpr
-                                        pos:
-                                        - -1.75
-                                        - -3.25
-                                        - 0
-                                        rotX: 0
-                                        rotY: 0
-                                        rotZ: 0
-                                        shape: cube
-                                        size:
-                                        - 3.5
-                                        - 6.5
-                                        - 0.3
-                                        type: positive
-                                        width: 6
-                        -   -   -   -   clearance:
-                                        - top
-                                        - bottom
-                                        depth: 50
-                                        height: 3
-                                        inclusion: 3dpr
-                                        pos:
-                                        - -1.75
-                                        - -1.75
-                                        - 0.3
-                                        rotX: 0
-                                        rotY: 0
-                                        rotZ: 0
-                                        shape: cube
-                                        size:
-                                        - 3.5
-                                        - 3.5
-                                        - 0.3
-                                        type: positive
-                                        width: 6
-                -   clearance:
-                    - top
-                    - bottom
-                    depth: 50
-                    height: 250
-                    inclusion: 3dpr
-                    pos:
-                    - 0
-                    - 0
-                    - -250
-                    r: 3.4619999999999997
-                    shape: polyg
-                    sides: 6
-                    type: positive
-                    width: 6
-                -   -   -   -   -   -   clearance:
-                                        - top
-                                        - bottom
-                                        depth: 50
+                -   -   -   -   -   -   depth: 250
                                         height: 3
                                         inclusion: 3dpr
                                         pos:
@@ -2633,10 +2487,7 @@ components:
                                         - 0.3
                                         type: positive
                                         width: 6
-                        -   -   -   -   clearance:
-                                        - top
-                                        - bottom
-                                        depth: 50
+                        -   -   -   -   depth: 250
                                         height: 3
                                         inclusion: 3dpr
                                         pos:
@@ -2653,10 +2504,7 @@ components:
                                         - 0.3
                                         type: positive
                                         width: 6
-                -   -   -   -   -   -   clearance:
-                                        - top
-                                        - bottom
-                                        depth: 50
+                -   -   -   -   -   -   depth: 250
                                         height: 3
                                         inclusion: 3dpr
                                         pos:
@@ -2673,10 +2521,7 @@ components:
                                         - 0.3
                                         type: positive
                                         width: 6
-                        -   -   -   -   clearance:
-                                        - top
-                                        - bottom
-                                        depth: 50
+                        -   -   -   -   depth: 250
                                         height: 3
                                         inclusion: 3dpr
                                         pos:
@@ -2693,31 +2538,105 @@ components:
                                         - 0.3
                                         type: positive
                                         width: 6
-                -   clearance:
-                    - top
-                    - bottom
-                    depth: 50
-                    height: 350
+                -   depth: 250
+                    height: 250
+                    inclusion: 3dpr
+                    pos:
+                    - 0
+                    - 0
+                    - -250
+                    r: 3.4619999999999997
+                    shape: polyg
+                    sides: 6
+                    type: positive
+                    width: 6
+                -   -   -   -   -   -   depth: 250
+                                        height: 3
+                                        inclusion: 3dpr
+                                        pos:
+                                        - -1.75
+                                        - -3.25
+                                        - -250.3
+                                        rotX: 0
+                                        rotY: 0
+                                        rotZ: 0
+                                        shape: cube
+                                        size:
+                                        - 3.5
+                                        - 6.5
+                                        - 0.3
+                                        type: positive
+                                        width: 6
+                        -   -   -   -   depth: 250
+                                        height: 3
+                                        inclusion: 3dpr
+                                        pos:
+                                        - -1.75
+                                        - -1.75
+                                        - -250.60000000000002
+                                        rotX: 0
+                                        rotY: 0
+                                        rotZ: 0
+                                        shape: cube
+                                        size:
+                                        - 3.5
+                                        - 3.5
+                                        - 0.3
+                                        type: positive
+                                        width: 6
+                -   -   -   -   -   -   depth: 250
+                                        height: 3
+                                        inclusion: 3dpr
+                                        pos:
+                                        - -1.75
+                                        - -3.25
+                                        - 0
+                                        rotX: 0
+                                        rotY: 0
+                                        rotZ: 0
+                                        shape: cube
+                                        size:
+                                        - 3.5
+                                        - 6.5
+                                        - 0.3
+                                        type: positive
+                                        width: 6
+                        -   -   -   -   depth: 250
+                                        height: 3
+                                        inclusion: 3dpr
+                                        pos:
+                                        - -1.75
+                                        - -1.75
+                                        - 0.3
+                                        rotX: 0
+                                        rotY: 0
+                                        rotZ: 0
+                                        shape: cube
+                                        size:
+                                        - 3.5
+                                        - 3.5
+                                        - 0.3
+                                        type: positive
+                                        width: 6
+                -   depth: 250
+                    height: 250
                     inclusion: 'true'
                     pos:
                     - 0
                     - 0
-                    - -350
+                    - -250
                     r: 3.1734999999999998
                     shape: polyg
                     sides: 6
                     type: positive
                     width: 6
-                -   -   -   -   -   -   clearance:
-                                        - top
-                                        - bottom
-                                        depth: 50
+                -   -   -   -   -   -   depth: 250
                                         height: 3
                                         inclusion: 3dpr
                                         pos:
                                         - -1.75
                                         - -3.25
-                                        - -350.3
+                                        - -250.3
                                         rotX: 0
                                         rotY: 0
                                         rotZ: 0
@@ -2728,16 +2647,13 @@ components:
                                         - 0.3
                                         type: positive
                                         width: 6
-                        -   -   -   -   clearance:
-                                        - top
-                                        - bottom
-                                        depth: 50
+                        -   -   -   -   depth: 250
                                         height: 3
                                         inclusion: 3dpr
                                         pos:
                                         - -1.75
                                         - -1.75
-                                        - -350.6
+                                        - -250.60000000000002
                                         rotX: 0
                                         rotY: 0
                                         rotZ: 0
@@ -2748,10 +2664,7 @@ components:
                                         - 0.3
                                         type: positive
                                         width: 6
-                -   -   -   -   -   -   clearance:
-                                        - top
-                                        - bottom
-                                        depth: 50
+                -   -   -   -   -   -   depth: 250
                                         height: 3
                                         inclusion: 3dpr
                                         pos:
@@ -2768,10 +2681,7 @@ components:
                                         - 0.3
                                         type: positive
                                         width: 6
-                        -   -   -   -   clearance:
-                                        - top
-                                        - bottom
-                                        depth: 50
+                        -   -   -   -   depth: 250
                                         height: 3
                                         inclusion: 3dpr
                                         pos:
@@ -2791,7 +2701,7 @@ components:
                 pos:
                 - 0
                 - 0
-                - 37.0
+                - -13.0
                 rot:
                 - 0
                 - 0
@@ -2820,7 +2730,7 @@ components:
                     - bottom
                     depth: 16
                     extra: motor_tt_01
-                    h: 50
+                    h: 250
                     height: 3
                     inclusion: 'true'
                     pos:
@@ -2873,120 +2783,19 @@ components:
                 type: positive
                 width: 6
         -   -   objects:
-                -   clearance:
-                    - top
-                    - bottom
-                    depth: 50
-                    height: 150
+                -   depth: 250
+                    height: 250
                     inclusion: laser
                     pos:
                     - 0
                     - 0
-                    - -150
+                    - -250
                     r: 3.1734999999999998
                     shape: polyg
                     sides: 6
                     type: positive
                     width: 6
-                -   -   -   -   -   -   clearance:
-                                        - top
-                                        - bottom
-                                        depth: 50
-                                        height: 3
-                                        inclusion: 3dpr
-                                        pos:
-                                        - -1.75
-                                        - -3.25
-                                        - -150.3
-                                        rotX: 0
-                                        rotY: 0
-                                        rotZ: 0
-                                        shape: cube
-                                        size:
-                                        - 3.5
-                                        - 6.5
-                                        - 0.3
-                                        type: positive
-                                        width: 6
-                        -   -   -   -   clearance:
-                                        - top
-                                        - bottom
-                                        depth: 50
-                                        height: 3
-                                        inclusion: 3dpr
-                                        pos:
-                                        - -1.75
-                                        - -1.75
-                                        - -150.60000000000002
-                                        rotX: 0
-                                        rotY: 0
-                                        rotZ: 0
-                                        shape: cube
-                                        size:
-                                        - 3.5
-                                        - 3.5
-                                        - 0.3
-                                        type: positive
-                                        width: 6
-                -   -   -   -   -   -   clearance:
-                                        - top
-                                        - bottom
-                                        depth: 50
-                                        height: 3
-                                        inclusion: 3dpr
-                                        pos:
-                                        - -1.75
-                                        - -3.25
-                                        - 0
-                                        rotX: 0
-                                        rotY: 0
-                                        rotZ: 0
-                                        shape: cube
-                                        size:
-                                        - 3.5
-                                        - 6.5
-                                        - 0.3
-                                        type: positive
-                                        width: 6
-                        -   -   -   -   clearance:
-                                        - top
-                                        - bottom
-                                        depth: 50
-                                        height: 3
-                                        inclusion: 3dpr
-                                        pos:
-                                        - -1.75
-                                        - -1.75
-                                        - 0.3
-                                        rotX: 0
-                                        rotY: 0
-                                        rotZ: 0
-                                        shape: cube
-                                        size:
-                                        - 3.5
-                                        - 3.5
-                                        - 0.3
-                                        type: positive
-                                        width: 6
-                -   clearance:
-                    - top
-                    - bottom
-                    depth: 50
-                    height: 250
-                    inclusion: 3dpr
-                    pos:
-                    - 0
-                    - 0
-                    - -250
-                    r: 3.4619999999999997
-                    shape: polyg
-                    sides: 6
-                    type: positive
-                    width: 6
-                -   -   -   -   -   -   clearance:
-                                        - top
-                                        - bottom
-                                        depth: 50
+                -   -   -   -   -   -   depth: 250
                                         height: 3
                                         inclusion: 3dpr
                                         pos:
@@ -3003,10 +2812,7 @@ components:
                                         - 0.3
                                         type: positive
                                         width: 6
-                        -   -   -   -   clearance:
-                                        - top
-                                        - bottom
-                                        depth: 50
+                        -   -   -   -   depth: 250
                                         height: 3
                                         inclusion: 3dpr
                                         pos:
@@ -3023,10 +2829,7 @@ components:
                                         - 0.3
                                         type: positive
                                         width: 6
-                -   -   -   -   -   -   clearance:
-                                        - top
-                                        - bottom
-                                        depth: 50
+                -   -   -   -   -   -   depth: 250
                                         height: 3
                                         inclusion: 3dpr
                                         pos:
@@ -3043,10 +2846,7 @@ components:
                                         - 0.3
                                         type: positive
                                         width: 6
-                        -   -   -   -   clearance:
-                                        - top
-                                        - bottom
-                                        depth: 50
+                        -   -   -   -   depth: 250
                                         height: 3
                                         inclusion: 3dpr
                                         pos:
@@ -3063,31 +2863,105 @@ components:
                                         - 0.3
                                         type: positive
                                         width: 6
-                -   clearance:
-                    - top
-                    - bottom
-                    depth: 50
-                    height: 350
+                -   depth: 250
+                    height: 250
+                    inclusion: 3dpr
+                    pos:
+                    - 0
+                    - 0
+                    - -250
+                    r: 3.4619999999999997
+                    shape: polyg
+                    sides: 6
+                    type: positive
+                    width: 6
+                -   -   -   -   -   -   depth: 250
+                                        height: 3
+                                        inclusion: 3dpr
+                                        pos:
+                                        - -1.75
+                                        - -3.25
+                                        - -250.3
+                                        rotX: 0
+                                        rotY: 0
+                                        rotZ: 0
+                                        shape: cube
+                                        size:
+                                        - 3.5
+                                        - 6.5
+                                        - 0.3
+                                        type: positive
+                                        width: 6
+                        -   -   -   -   depth: 250
+                                        height: 3
+                                        inclusion: 3dpr
+                                        pos:
+                                        - -1.75
+                                        - -1.75
+                                        - -250.60000000000002
+                                        rotX: 0
+                                        rotY: 0
+                                        rotZ: 0
+                                        shape: cube
+                                        size:
+                                        - 3.5
+                                        - 3.5
+                                        - 0.3
+                                        type: positive
+                                        width: 6
+                -   -   -   -   -   -   depth: 250
+                                        height: 3
+                                        inclusion: 3dpr
+                                        pos:
+                                        - -1.75
+                                        - -3.25
+                                        - 0
+                                        rotX: 0
+                                        rotY: 0
+                                        rotZ: 0
+                                        shape: cube
+                                        size:
+                                        - 3.5
+                                        - 6.5
+                                        - 0.3
+                                        type: positive
+                                        width: 6
+                        -   -   -   -   depth: 250
+                                        height: 3
+                                        inclusion: 3dpr
+                                        pos:
+                                        - -1.75
+                                        - -1.75
+                                        - 0.3
+                                        rotX: 0
+                                        rotY: 0
+                                        rotZ: 0
+                                        shape: cube
+                                        size:
+                                        - 3.5
+                                        - 3.5
+                                        - 0.3
+                                        type: positive
+                                        width: 6
+                -   depth: 250
+                    height: 250
                     inclusion: 'true'
                     pos:
                     - 0
                     - 0
-                    - -350
+                    - -250
                     r: 3.1734999999999998
                     shape: polyg
                     sides: 6
                     type: positive
                     width: 6
-                -   -   -   -   -   -   clearance:
-                                        - top
-                                        - bottom
-                                        depth: 50
+                -   -   -   -   -   -   depth: 250
                                         height: 3
                                         inclusion: 3dpr
                                         pos:
                                         - -1.75
                                         - -3.25
-                                        - -350.3
+                                        - -250.3
                                         rotX: 0
                                         rotY: 0
                                         rotZ: 0
@@ -3098,16 +2972,13 @@ components:
                                         - 0.3
                                         type: positive
                                         width: 6
-                        -   -   -   -   clearance:
-                                        - top
-                                        - bottom
-                                        depth: 50
+                        -   -   -   -   depth: 250
                                         height: 3
                                         inclusion: 3dpr
                                         pos:
                                         - -1.75
                                         - -1.75
-                                        - -350.6
+                                        - -250.60000000000002
                                         rotX: 0
                                         rotY: 0
                                         rotZ: 0
@@ -3118,10 +2989,7 @@ components:
                                         - 0.3
                                         type: positive
                                         width: 6
-                -   -   -   -   -   -   clearance:
-                                        - top
-                                        - bottom
-                                        depth: 50
+                -   -   -   -   -   -   depth: 250
                                         height: 3
                                         inclusion: 3dpr
                                         pos:
@@ -3138,10 +3006,7 @@ components:
                                         - 0.3
                                         type: positive
                                         width: 6
-                        -   -   -   -   clearance:
-                                        - top
-                                        - bottom
-                                        depth: 50
+                        -   -   -   -   depth: 250
                                         height: 3
                                         inclusion: 3dpr
                                         pos:
@@ -3161,7 +3026,7 @@ components:
                 pos:
                 - 0
                 - 0
-                - 36.5
+                - -13.5
                 rot:
                 - 0
                 - 0
@@ -3201,7 +3066,7 @@ components:
                     - bottom
                     depth: 16
                     extra: motor_tt_01
-                    h: 50
+                    h: 250
                     height: 3
                     inclusion: laser
                     pos:
@@ -3254,120 +3119,19 @@ components:
                 type: positive
                 width: 6
         -   -   objects:
-                -   clearance:
-                    - top
-                    - bottom
-                    depth: 50
-                    height: 150
+                -   depth: 250
+                    height: 250
                     inclusion: laser
                     pos:
                     - 0
                     - 0
-                    - -150
+                    - -250
                     r: 3.1734999999999998
                     shape: polyg
                     sides: 6
                     type: positive
                     width: 6
-                -   -   -   -   -   -   clearance:
-                                        - top
-                                        - bottom
-                                        depth: 50
-                                        height: 3
-                                        inclusion: 3dpr
-                                        pos:
-                                        - -1.75
-                                        - -3.25
-                                        - -150.3
-                                        rotX: 0
-                                        rotY: 0
-                                        rotZ: 0
-                                        shape: cube
-                                        size:
-                                        - 3.5
-                                        - 6.5
-                                        - 0.3
-                                        type: positive
-                                        width: 6
-                        -   -   -   -   clearance:
-                                        - top
-                                        - bottom
-                                        depth: 50
-                                        height: 3
-                                        inclusion: 3dpr
-                                        pos:
-                                        - -1.75
-                                        - -1.75
-                                        - -150.60000000000002
-                                        rotX: 0
-                                        rotY: 0
-                                        rotZ: 0
-                                        shape: cube
-                                        size:
-                                        - 3.5
-                                        - 3.5
-                                        - 0.3
-                                        type: positive
-                                        width: 6
-                -   -   -   -   -   -   clearance:
-                                        - top
-                                        - bottom
-                                        depth: 50
-                                        height: 3
-                                        inclusion: 3dpr
-                                        pos:
-                                        - -1.75
-                                        - -3.25
-                                        - 0
-                                        rotX: 0
-                                        rotY: 0
-                                        rotZ: 0
-                                        shape: cube
-                                        size:
-                                        - 3.5
-                                        - 6.5
-                                        - 0.3
-                                        type: positive
-                                        width: 6
-                        -   -   -   -   clearance:
-                                        - top
-                                        - bottom
-                                        depth: 50
-                                        height: 3
-                                        inclusion: 3dpr
-                                        pos:
-                                        - -1.75
-                                        - -1.75
-                                        - 0.3
-                                        rotX: 0
-                                        rotY: 0
-                                        rotZ: 0
-                                        shape: cube
-                                        size:
-                                        - 3.5
-                                        - 3.5
-                                        - 0.3
-                                        type: positive
-                                        width: 6
-                -   clearance:
-                    - top
-                    - bottom
-                    depth: 50
-                    height: 250
-                    inclusion: 3dpr
-                    pos:
-                    - 0
-                    - 0
-                    - -250
-                    r: 3.4619999999999997
-                    shape: polyg
-                    sides: 6
-                    type: positive
-                    width: 6
-                -   -   -   -   -   -   clearance:
-                                        - top
-                                        - bottom
-                                        depth: 50
+                -   -   -   -   -   -   depth: 250
                                         height: 3
                                         inclusion: 3dpr
                                         pos:
@@ -3384,10 +3148,7 @@ components:
                                         - 0.3
                                         type: positive
                                         width: 6
-                        -   -   -   -   clearance:
-                                        - top
-                                        - bottom
-                                        depth: 50
+                        -   -   -   -   depth: 250
                                         height: 3
                                         inclusion: 3dpr
                                         pos:
@@ -3404,10 +3165,7 @@ components:
                                         - 0.3
                                         type: positive
                                         width: 6
-                -   -   -   -   -   -   clearance:
-                                        - top
-                                        - bottom
-                                        depth: 50
+                -   -   -   -   -   -   depth: 250
                                         height: 3
                                         inclusion: 3dpr
                                         pos:
@@ -3424,10 +3182,7 @@ components:
                                         - 0.3
                                         type: positive
                                         width: 6
-                        -   -   -   -   clearance:
-                                        - top
-                                        - bottom
-                                        depth: 50
+                        -   -   -   -   depth: 250
                                         height: 3
                                         inclusion: 3dpr
                                         pos:
@@ -3444,31 +3199,105 @@ components:
                                         - 0.3
                                         type: positive
                                         width: 6
-                -   clearance:
-                    - top
-                    - bottom
-                    depth: 50
-                    height: 350
+                -   depth: 250
+                    height: 250
+                    inclusion: 3dpr
+                    pos:
+                    - 0
+                    - 0
+                    - -250
+                    r: 3.4619999999999997
+                    shape: polyg
+                    sides: 6
+                    type: positive
+                    width: 6
+                -   -   -   -   -   -   depth: 250
+                                        height: 3
+                                        inclusion: 3dpr
+                                        pos:
+                                        - -1.75
+                                        - -3.25
+                                        - -250.3
+                                        rotX: 0
+                                        rotY: 0
+                                        rotZ: 0
+                                        shape: cube
+                                        size:
+                                        - 3.5
+                                        - 6.5
+                                        - 0.3
+                                        type: positive
+                                        width: 6
+                        -   -   -   -   depth: 250
+                                        height: 3
+                                        inclusion: 3dpr
+                                        pos:
+                                        - -1.75
+                                        - -1.75
+                                        - -250.60000000000002
+                                        rotX: 0
+                                        rotY: 0
+                                        rotZ: 0
+                                        shape: cube
+                                        size:
+                                        - 3.5
+                                        - 3.5
+                                        - 0.3
+                                        type: positive
+                                        width: 6
+                -   -   -   -   -   -   depth: 250
+                                        height: 3
+                                        inclusion: 3dpr
+                                        pos:
+                                        - -1.75
+                                        - -3.25
+                                        - 0
+                                        rotX: 0
+                                        rotY: 0
+                                        rotZ: 0
+                                        shape: cube
+                                        size:
+                                        - 3.5
+                                        - 6.5
+                                        - 0.3
+                                        type: positive
+                                        width: 6
+                        -   -   -   -   depth: 250
+                                        height: 3
+                                        inclusion: 3dpr
+                                        pos:
+                                        - -1.75
+                                        - -1.75
+                                        - 0.3
+                                        rotX: 0
+                                        rotY: 0
+                                        rotZ: 0
+                                        shape: cube
+                                        size:
+                                        - 3.5
+                                        - 3.5
+                                        - 0.3
+                                        type: positive
+                                        width: 6
+                -   depth: 250
+                    height: 250
                     inclusion: 'true'
                     pos:
                     - 0
                     - 0
-                    - -350
+                    - -250
                     r: 3.1734999999999998
                     shape: polyg
                     sides: 6
                     type: positive
                     width: 6
-                -   -   -   -   -   -   clearance:
-                                        - top
-                                        - bottom
-                                        depth: 50
+                -   -   -   -   -   -   depth: 250
                                         height: 3
                                         inclusion: 3dpr
                                         pos:
                                         - -1.75
                                         - -3.25
-                                        - -350.3
+                                        - -250.3
                                         rotX: 0
                                         rotY: 0
                                         rotZ: 0
@@ -3479,16 +3308,13 @@ components:
                                         - 0.3
                                         type: positive
                                         width: 6
-                        -   -   -   -   clearance:
-                                        - top
-                                        - bottom
-                                        depth: 50
+                        -   -   -   -   depth: 250
                                         height: 3
                                         inclusion: 3dpr
                                         pos:
                                         - -1.75
                                         - -1.75
-                                        - -350.6
+                                        - -250.60000000000002
                                         rotX: 0
                                         rotY: 0
                                         rotZ: 0
@@ -3499,10 +3325,7 @@ components:
                                         - 0.3
                                         type: positive
                                         width: 6
-                -   -   -   -   -   -   clearance:
-                                        - top
-                                        - bottom
-                                        depth: 50
+                -   -   -   -   -   -   depth: 250
                                         height: 3
                                         inclusion: 3dpr
                                         pos:
@@ -3519,10 +3342,7 @@ components:
                                         - 0.3
                                         type: positive
                                         width: 6
-                        -   -   -   -   clearance:
-                                        - top
-                                        - bottom
-                                        depth: 50
+                        -   -   -   -   depth: 250
                                         height: 3
                                         inclusion: 3dpr
                                         pos:
@@ -3542,7 +3362,7 @@ components:
                 pos:
                 - 0
                 - 0
-                - 36.5
+                - -13.5
                 rot:
                 - 0
                 - 0
@@ -3571,7 +3391,7 @@ components:
                     - bottom
                     depth: 16
                     extra: motor_tt_01
-                    h: 50
+                    h: 250
                     height: 3
                     inclusion: 3dpr
                     pos:
@@ -3624,120 +3444,19 @@ components:
                 type: positive
                 width: 6
         -   -   objects:
-                -   clearance:
-                    - top
-                    - bottom
-                    depth: 50
-                    height: 150
+                -   depth: 250
+                    height: 250
                     inclusion: laser
                     pos:
                     - 0
                     - 0
-                    - -150
+                    - -250
                     r: 3.1734999999999998
                     shape: polyg
                     sides: 6
                     type: positive
                     width: 6
-                -   -   -   -   -   -   clearance:
-                                        - top
-                                        - bottom
-                                        depth: 50
-                                        height: 3
-                                        inclusion: 3dpr
-                                        pos:
-                                        - -1.75
-                                        - -3.25
-                                        - -150.3
-                                        rotX: 0
-                                        rotY: 0
-                                        rotZ: 0
-                                        shape: cube
-                                        size:
-                                        - 3.5
-                                        - 6.5
-                                        - 0.3
-                                        type: positive
-                                        width: 6
-                        -   -   -   -   clearance:
-                                        - top
-                                        - bottom
-                                        depth: 50
-                                        height: 3
-                                        inclusion: 3dpr
-                                        pos:
-                                        - -1.75
-                                        - -1.75
-                                        - -150.60000000000002
-                                        rotX: 0
-                                        rotY: 0
-                                        rotZ: 0
-                                        shape: cube
-                                        size:
-                                        - 3.5
-                                        - 3.5
-                                        - 0.3
-                                        type: positive
-                                        width: 6
-                -   -   -   -   -   -   clearance:
-                                        - top
-                                        - bottom
-                                        depth: 50
-                                        height: 3
-                                        inclusion: 3dpr
-                                        pos:
-                                        - -1.75
-                                        - -3.25
-                                        - 0
-                                        rotX: 0
-                                        rotY: 0
-                                        rotZ: 0
-                                        shape: cube
-                                        size:
-                                        - 3.5
-                                        - 6.5
-                                        - 0.3
-                                        type: positive
-                                        width: 6
-                        -   -   -   -   clearance:
-                                        - top
-                                        - bottom
-                                        depth: 50
-                                        height: 3
-                                        inclusion: 3dpr
-                                        pos:
-                                        - -1.75
-                                        - -1.75
-                                        - 0.3
-                                        rotX: 0
-                                        rotY: 0
-                                        rotZ: 0
-                                        shape: cube
-                                        size:
-                                        - 3.5
-                                        - 3.5
-                                        - 0.3
-                                        type: positive
-                                        width: 6
-                -   clearance:
-                    - top
-                    - bottom
-                    depth: 50
-                    height: 250
-                    inclusion: 3dpr
-                    pos:
-                    - 0
-                    - 0
-                    - -250
-                    r: 3.4619999999999997
-                    shape: polyg
-                    sides: 6
-                    type: positive
-                    width: 6
-                -   -   -   -   -   -   clearance:
-                                        - top
-                                        - bottom
-                                        depth: 50
+                -   -   -   -   -   -   depth: 250
                                         height: 3
                                         inclusion: 3dpr
                                         pos:
@@ -3754,10 +3473,7 @@ components:
                                         - 0.3
                                         type: positive
                                         width: 6
-                        -   -   -   -   clearance:
-                                        - top
-                                        - bottom
-                                        depth: 50
+                        -   -   -   -   depth: 250
                                         height: 3
                                         inclusion: 3dpr
                                         pos:
@@ -3774,10 +3490,7 @@ components:
                                         - 0.3
                                         type: positive
                                         width: 6
-                -   -   -   -   -   -   clearance:
-                                        - top
-                                        - bottom
-                                        depth: 50
+                -   -   -   -   -   -   depth: 250
                                         height: 3
                                         inclusion: 3dpr
                                         pos:
@@ -3794,10 +3507,7 @@ components:
                                         - 0.3
                                         type: positive
                                         width: 6
-                        -   -   -   -   clearance:
-                                        - top
-                                        - bottom
-                                        depth: 50
+                        -   -   -   -   depth: 250
                                         height: 3
                                         inclusion: 3dpr
                                         pos:
@@ -3814,31 +3524,105 @@ components:
                                         - 0.3
                                         type: positive
                                         width: 6
-                -   clearance:
-                    - top
-                    - bottom
-                    depth: 50
-                    height: 350
+                -   depth: 250
+                    height: 250
+                    inclusion: 3dpr
+                    pos:
+                    - 0
+                    - 0
+                    - -250
+                    r: 3.4619999999999997
+                    shape: polyg
+                    sides: 6
+                    type: positive
+                    width: 6
+                -   -   -   -   -   -   depth: 250
+                                        height: 3
+                                        inclusion: 3dpr
+                                        pos:
+                                        - -1.75
+                                        - -3.25
+                                        - -250.3
+                                        rotX: 0
+                                        rotY: 0
+                                        rotZ: 0
+                                        shape: cube
+                                        size:
+                                        - 3.5
+                                        - 6.5
+                                        - 0.3
+                                        type: positive
+                                        width: 6
+                        -   -   -   -   depth: 250
+                                        height: 3
+                                        inclusion: 3dpr
+                                        pos:
+                                        - -1.75
+                                        - -1.75
+                                        - -250.60000000000002
+                                        rotX: 0
+                                        rotY: 0
+                                        rotZ: 0
+                                        shape: cube
+                                        size:
+                                        - 3.5
+                                        - 3.5
+                                        - 0.3
+                                        type: positive
+                                        width: 6
+                -   -   -   -   -   -   depth: 250
+                                        height: 3
+                                        inclusion: 3dpr
+                                        pos:
+                                        - -1.75
+                                        - -3.25
+                                        - 0
+                                        rotX: 0
+                                        rotY: 0
+                                        rotZ: 0
+                                        shape: cube
+                                        size:
+                                        - 3.5
+                                        - 6.5
+                                        - 0.3
+                                        type: positive
+                                        width: 6
+                        -   -   -   -   depth: 250
+                                        height: 3
+                                        inclusion: 3dpr
+                                        pos:
+                                        - -1.75
+                                        - -1.75
+                                        - 0.3
+                                        rotX: 0
+                                        rotY: 0
+                                        rotZ: 0
+                                        shape: cube
+                                        size:
+                                        - 3.5
+                                        - 3.5
+                                        - 0.3
+                                        type: positive
+                                        width: 6
+                -   depth: 250
+                    height: 250
                     inclusion: 'true'
                     pos:
                     - 0
                     - 0
-                    - -350
+                    - -250
                     r: 3.1734999999999998
                     shape: polyg
                     sides: 6
                     type: positive
                     width: 6
-                -   -   -   -   -   -   clearance:
-                                        - top
-                                        - bottom
-                                        depth: 50
+                -   -   -   -   -   -   depth: 250
                                         height: 3
                                         inclusion: 3dpr
                                         pos:
                                         - -1.75
                                         - -3.25
-                                        - -350.3
+                                        - -250.3
                                         rotX: 0
                                         rotY: 0
                                         rotZ: 0
@@ -3849,16 +3633,13 @@ components:
                                         - 0.3
                                         type: positive
                                         width: 6
-                        -   -   -   -   clearance:
-                                        - top
-                                        - bottom
-                                        depth: 50
+                        -   -   -   -   depth: 250
                                         height: 3
                                         inclusion: 3dpr
                                         pos:
                                         - -1.75
                                         - -1.75
-                                        - -350.6
+                                        - -250.60000000000002
                                         rotX: 0
                                         rotY: 0
                                         rotZ: 0
@@ -3869,10 +3650,7 @@ components:
                                         - 0.3
                                         type: positive
                                         width: 6
-                -   -   -   -   -   -   clearance:
-                                        - top
-                                        - bottom
-                                        depth: 50
+                -   -   -   -   -   -   depth: 250
                                         height: 3
                                         inclusion: 3dpr
                                         pos:
@@ -3889,10 +3667,7 @@ components:
                                         - 0.3
                                         type: positive
                                         width: 6
-                        -   -   -   -   clearance:
-                                        - top
-                                        - bottom
-                                        depth: 50
+                        -   -   -   -   depth: 250
                                         height: 3
                                         inclusion: 3dpr
                                         pos:
@@ -3912,7 +3687,7 @@ components:
                 pos:
                 - 0
                 - 0
-                - 37.0
+                - -13.0
                 rot:
                 - 0
                 - 0
@@ -3941,7 +3716,7 @@ components:
                     - bottom
                     depth: 16
                     extra: motor_tt_01
-                    h: 50
+                    h: 250
                     height: 3
                     inclusion: 'true'
                     pos:
@@ -3994,120 +3769,19 @@ components:
                 type: positive
                 width: 6
         -   -   objects:
-                -   clearance:
-                    - top
-                    - bottom
-                    depth: 50
-                    height: 150
+                -   depth: 250
+                    height: 250
                     inclusion: laser
                     pos:
                     - 0
                     - 0
-                    - -150
+                    - -250
                     r: 3.1734999999999998
                     shape: polyg
                     sides: 6
                     type: positive
                     width: 6
-                -   -   -   -   -   -   clearance:
-                                        - top
-                                        - bottom
-                                        depth: 50
-                                        height: 3
-                                        inclusion: 3dpr
-                                        pos:
-                                        - -1.75
-                                        - -3.25
-                                        - -150.3
-                                        rotX: 0
-                                        rotY: 0
-                                        rotZ: 0
-                                        shape: cube
-                                        size:
-                                        - 3.5
-                                        - 6.5
-                                        - 0.3
-                                        type: positive
-                                        width: 6
-                        -   -   -   -   clearance:
-                                        - top
-                                        - bottom
-                                        depth: 50
-                                        height: 3
-                                        inclusion: 3dpr
-                                        pos:
-                                        - -1.75
-                                        - -1.75
-                                        - -150.60000000000002
-                                        rotX: 0
-                                        rotY: 0
-                                        rotZ: 0
-                                        shape: cube
-                                        size:
-                                        - 3.5
-                                        - 3.5
-                                        - 0.3
-                                        type: positive
-                                        width: 6
-                -   -   -   -   -   -   clearance:
-                                        - top
-                                        - bottom
-                                        depth: 50
-                                        height: 3
-                                        inclusion: 3dpr
-                                        pos:
-                                        - -1.75
-                                        - -3.25
-                                        - 0
-                                        rotX: 0
-                                        rotY: 0
-                                        rotZ: 0
-                                        shape: cube
-                                        size:
-                                        - 3.5
-                                        - 6.5
-                                        - 0.3
-                                        type: positive
-                                        width: 6
-                        -   -   -   -   clearance:
-                                        - top
-                                        - bottom
-                                        depth: 50
-                                        height: 3
-                                        inclusion: 3dpr
-                                        pos:
-                                        - -1.75
-                                        - -1.75
-                                        - 0.3
-                                        rotX: 0
-                                        rotY: 0
-                                        rotZ: 0
-                                        shape: cube
-                                        size:
-                                        - 3.5
-                                        - 3.5
-                                        - 0.3
-                                        type: positive
-                                        width: 6
-                -   clearance:
-                    - top
-                    - bottom
-                    depth: 50
-                    height: 250
-                    inclusion: 3dpr
-                    pos:
-                    - 0
-                    - 0
-                    - -250
-                    r: 3.4619999999999997
-                    shape: polyg
-                    sides: 6
-                    type: positive
-                    width: 6
-                -   -   -   -   -   -   clearance:
-                                        - top
-                                        - bottom
-                                        depth: 50
+                -   -   -   -   -   -   depth: 250
                                         height: 3
                                         inclusion: 3dpr
                                         pos:
@@ -4124,10 +3798,7 @@ components:
                                         - 0.3
                                         type: positive
                                         width: 6
-                        -   -   -   -   clearance:
-                                        - top
-                                        - bottom
-                                        depth: 50
+                        -   -   -   -   depth: 250
                                         height: 3
                                         inclusion: 3dpr
                                         pos:
@@ -4144,10 +3815,7 @@ components:
                                         - 0.3
                                         type: positive
                                         width: 6
-                -   -   -   -   -   -   clearance:
-                                        - top
-                                        - bottom
-                                        depth: 50
+                -   -   -   -   -   -   depth: 250
                                         height: 3
                                         inclusion: 3dpr
                                         pos:
@@ -4164,10 +3832,7 @@ components:
                                         - 0.3
                                         type: positive
                                         width: 6
-                        -   -   -   -   clearance:
-                                        - top
-                                        - bottom
-                                        depth: 50
+                        -   -   -   -   depth: 250
                                         height: 3
                                         inclusion: 3dpr
                                         pos:
@@ -4184,31 +3849,105 @@ components:
                                         - 0.3
                                         type: positive
                                         width: 6
-                -   clearance:
-                    - top
-                    - bottom
-                    depth: 50
-                    height: 350
+                -   depth: 250
+                    height: 250
+                    inclusion: 3dpr
+                    pos:
+                    - 0
+                    - 0
+                    - -250
+                    r: 3.4619999999999997
+                    shape: polyg
+                    sides: 6
+                    type: positive
+                    width: 6
+                -   -   -   -   -   -   depth: 250
+                                        height: 3
+                                        inclusion: 3dpr
+                                        pos:
+                                        - -1.75
+                                        - -3.25
+                                        - -250.3
+                                        rotX: 0
+                                        rotY: 0
+                                        rotZ: 0
+                                        shape: cube
+                                        size:
+                                        - 3.5
+                                        - 6.5
+                                        - 0.3
+                                        type: positive
+                                        width: 6
+                        -   -   -   -   depth: 250
+                                        height: 3
+                                        inclusion: 3dpr
+                                        pos:
+                                        - -1.75
+                                        - -1.75
+                                        - -250.60000000000002
+                                        rotX: 0
+                                        rotY: 0
+                                        rotZ: 0
+                                        shape: cube
+                                        size:
+                                        - 3.5
+                                        - 3.5
+                                        - 0.3
+                                        type: positive
+                                        width: 6
+                -   -   -   -   -   -   depth: 250
+                                        height: 3
+                                        inclusion: 3dpr
+                                        pos:
+                                        - -1.75
+                                        - -3.25
+                                        - 0
+                                        rotX: 0
+                                        rotY: 0
+                                        rotZ: 0
+                                        shape: cube
+                                        size:
+                                        - 3.5
+                                        - 6.5
+                                        - 0.3
+                                        type: positive
+                                        width: 6
+                        -   -   -   -   depth: 250
+                                        height: 3
+                                        inclusion: 3dpr
+                                        pos:
+                                        - -1.75
+                                        - -1.75
+                                        - 0.3
+                                        rotX: 0
+                                        rotY: 0
+                                        rotZ: 0
+                                        shape: cube
+                                        size:
+                                        - 3.5
+                                        - 3.5
+                                        - 0.3
+                                        type: positive
+                                        width: 6
+                -   depth: 250
+                    height: 250
                     inclusion: 'true'
                     pos:
                     - 0
                     - 0
-                    - -350
+                    - -250
                     r: 3.1734999999999998
                     shape: polyg
                     sides: 6
                     type: positive
                     width: 6
-                -   -   -   -   -   -   clearance:
-                                        - top
-                                        - bottom
-                                        depth: 50
+                -   -   -   -   -   -   depth: 250
                                         height: 3
                                         inclusion: 3dpr
                                         pos:
                                         - -1.75
                                         - -3.25
-                                        - -350.3
+                                        - -250.3
                                         rotX: 0
                                         rotY: 0
                                         rotZ: 0
@@ -4219,16 +3958,13 @@ components:
                                         - 0.3
                                         type: positive
                                         width: 6
-                        -   -   -   -   clearance:
-                                        - top
-                                        - bottom
-                                        depth: 50
+                        -   -   -   -   depth: 250
                                         height: 3
                                         inclusion: 3dpr
                                         pos:
                                         - -1.75
                                         - -1.75
-                                        - -350.6
+                                        - -250.60000000000002
                                         rotX: 0
                                         rotY: 0
                                         rotZ: 0
@@ -4239,10 +3975,7 @@ components:
                                         - 0.3
                                         type: positive
                                         width: 6
-                -   -   -   -   -   -   clearance:
-                                        - top
-                                        - bottom
-                                        depth: 50
+                -   -   -   -   -   -   depth: 250
                                         height: 3
                                         inclusion: 3dpr
                                         pos:
@@ -4259,10 +3992,7 @@ components:
                                         - 0.3
                                         type: positive
                                         width: 6
-                        -   -   -   -   clearance:
-                                        - top
-                                        - bottom
-                                        depth: 50
+                        -   -   -   -   depth: 250
                                         height: 3
                                         inclusion: 3dpr
                                         pos:
@@ -4282,7 +4012,7 @@ components:
                 pos:
                 - 0
                 - 0
-                - 36.5
+                - -13.5
                 rot:
                 - 0
                 - 0
@@ -4322,7 +4052,7 @@ components:
                     - bottom
                     depth: 16
                     extra: motor_tt_01
-                    h: 50
+                    h: 250
                     height: 3
                     inclusion: laser
                     pos:
@@ -4375,120 +4105,19 @@ components:
                 type: positive
                 width: 6
         -   -   objects:
-                -   clearance:
-                    - top
-                    - bottom
-                    depth: 50
-                    height: 150
+                -   depth: 250
+                    height: 250
                     inclusion: laser
                     pos:
                     - 0
                     - 0
-                    - -150
+                    - -250
                     r: 3.1734999999999998
                     shape: polyg
                     sides: 6
                     type: positive
                     width: 6
-                -   -   -   -   -   -   clearance:
-                                        - top
-                                        - bottom
-                                        depth: 50
-                                        height: 3
-                                        inclusion: 3dpr
-                                        pos:
-                                        - -1.75
-                                        - -3.25
-                                        - -150.3
-                                        rotX: 0
-                                        rotY: 0
-                                        rotZ: 0
-                                        shape: cube
-                                        size:
-                                        - 3.5
-                                        - 6.5
-                                        - 0.3
-                                        type: positive
-                                        width: 6
-                        -   -   -   -   clearance:
-                                        - top
-                                        - bottom
-                                        depth: 50
-                                        height: 3
-                                        inclusion: 3dpr
-                                        pos:
-                                        - -1.75
-                                        - -1.75
-                                        - -150.60000000000002
-                                        rotX: 0
-                                        rotY: 0
-                                        rotZ: 0
-                                        shape: cube
-                                        size:
-                                        - 3.5
-                                        - 3.5
-                                        - 0.3
-                                        type: positive
-                                        width: 6
-                -   -   -   -   -   -   clearance:
-                                        - top
-                                        - bottom
-                                        depth: 50
-                                        height: 3
-                                        inclusion: 3dpr
-                                        pos:
-                                        - -1.75
-                                        - -3.25
-                                        - 0
-                                        rotX: 0
-                                        rotY: 0
-                                        rotZ: 0
-                                        shape: cube
-                                        size:
-                                        - 3.5
-                                        - 6.5
-                                        - 0.3
-                                        type: positive
-                                        width: 6
-                        -   -   -   -   clearance:
-                                        - top
-                                        - bottom
-                                        depth: 50
-                                        height: 3
-                                        inclusion: 3dpr
-                                        pos:
-                                        - -1.75
-                                        - -1.75
-                                        - 0.3
-                                        rotX: 0
-                                        rotY: 0
-                                        rotZ: 0
-                                        shape: cube
-                                        size:
-                                        - 3.5
-                                        - 3.5
-                                        - 0.3
-                                        type: positive
-                                        width: 6
-                -   clearance:
-                    - top
-                    - bottom
-                    depth: 50
-                    height: 250
-                    inclusion: 3dpr
-                    pos:
-                    - 0
-                    - 0
-                    - -250
-                    r: 3.4619999999999997
-                    shape: polyg
-                    sides: 6
-                    type: positive
-                    width: 6
-                -   -   -   -   -   -   clearance:
-                                        - top
-                                        - bottom
-                                        depth: 50
+                -   -   -   -   -   -   depth: 250
                                         height: 3
                                         inclusion: 3dpr
                                         pos:
@@ -4505,10 +4134,7 @@ components:
                                         - 0.3
                                         type: positive
                                         width: 6
-                        -   -   -   -   clearance:
-                                        - top
-                                        - bottom
-                                        depth: 50
+                        -   -   -   -   depth: 250
                                         height: 3
                                         inclusion: 3dpr
                                         pos:
@@ -4525,10 +4151,7 @@ components:
                                         - 0.3
                                         type: positive
                                         width: 6
-                -   -   -   -   -   -   clearance:
-                                        - top
-                                        - bottom
-                                        depth: 50
+                -   -   -   -   -   -   depth: 250
                                         height: 3
                                         inclusion: 3dpr
                                         pos:
@@ -4545,10 +4168,7 @@ components:
                                         - 0.3
                                         type: positive
                                         width: 6
-                        -   -   -   -   clearance:
-                                        - top
-                                        - bottom
-                                        depth: 50
+                        -   -   -   -   depth: 250
                                         height: 3
                                         inclusion: 3dpr
                                         pos:
@@ -4565,31 +4185,105 @@ components:
                                         - 0.3
                                         type: positive
                                         width: 6
-                -   clearance:
-                    - top
-                    - bottom
-                    depth: 50
-                    height: 350
+                -   depth: 250
+                    height: 250
+                    inclusion: 3dpr
+                    pos:
+                    - 0
+                    - 0
+                    - -250
+                    r: 3.4619999999999997
+                    shape: polyg
+                    sides: 6
+                    type: positive
+                    width: 6
+                -   -   -   -   -   -   depth: 250
+                                        height: 3
+                                        inclusion: 3dpr
+                                        pos:
+                                        - -1.75
+                                        - -3.25
+                                        - -250.3
+                                        rotX: 0
+                                        rotY: 0
+                                        rotZ: 0
+                                        shape: cube
+                                        size:
+                                        - 3.5
+                                        - 6.5
+                                        - 0.3
+                                        type: positive
+                                        width: 6
+                        -   -   -   -   depth: 250
+                                        height: 3
+                                        inclusion: 3dpr
+                                        pos:
+                                        - -1.75
+                                        - -1.75
+                                        - -250.60000000000002
+                                        rotX: 0
+                                        rotY: 0
+                                        rotZ: 0
+                                        shape: cube
+                                        size:
+                                        - 3.5
+                                        - 3.5
+                                        - 0.3
+                                        type: positive
+                                        width: 6
+                -   -   -   -   -   -   depth: 250
+                                        height: 3
+                                        inclusion: 3dpr
+                                        pos:
+                                        - -1.75
+                                        - -3.25
+                                        - 0
+                                        rotX: 0
+                                        rotY: 0
+                                        rotZ: 0
+                                        shape: cube
+                                        size:
+                                        - 3.5
+                                        - 6.5
+                                        - 0.3
+                                        type: positive
+                                        width: 6
+                        -   -   -   -   depth: 250
+                                        height: 3
+                                        inclusion: 3dpr
+                                        pos:
+                                        - -1.75
+                                        - -1.75
+                                        - 0.3
+                                        rotX: 0
+                                        rotY: 0
+                                        rotZ: 0
+                                        shape: cube
+                                        size:
+                                        - 3.5
+                                        - 3.5
+                                        - 0.3
+                                        type: positive
+                                        width: 6
+                -   depth: 250
+                    height: 250
                     inclusion: 'true'
                     pos:
                     - 0
                     - 0
-                    - -350
+                    - -250
                     r: 3.1734999999999998
                     shape: polyg
                     sides: 6
                     type: positive
                     width: 6
-                -   -   -   -   -   -   clearance:
-                                        - top
-                                        - bottom
-                                        depth: 50
+                -   -   -   -   -   -   depth: 250
                                         height: 3
                                         inclusion: 3dpr
                                         pos:
                                         - -1.75
                                         - -3.25
-                                        - -350.3
+                                        - -250.3
                                         rotX: 0
                                         rotY: 0
                                         rotZ: 0
@@ -4600,16 +4294,13 @@ components:
                                         - 0.3
                                         type: positive
                                         width: 6
-                        -   -   -   -   clearance:
-                                        - top
-                                        - bottom
-                                        depth: 50
+                        -   -   -   -   depth: 250
                                         height: 3
                                         inclusion: 3dpr
                                         pos:
                                         - -1.75
                                         - -1.75
-                                        - -350.6
+                                        - -250.60000000000002
                                         rotX: 0
                                         rotY: 0
                                         rotZ: 0
@@ -4620,10 +4311,7 @@ components:
                                         - 0.3
                                         type: positive
                                         width: 6
-                -   -   -   -   -   -   clearance:
-                                        - top
-                                        - bottom
-                                        depth: 50
+                -   -   -   -   -   -   depth: 250
                                         height: 3
                                         inclusion: 3dpr
                                         pos:
@@ -4640,10 +4328,7 @@ components:
                                         - 0.3
                                         type: positive
                                         width: 6
-                        -   -   -   -   clearance:
-                                        - top
-                                        - bottom
-                                        depth: 50
+                        -   -   -   -   depth: 250
                                         height: 3
                                         inclusion: 3dpr
                                         pos:
@@ -4663,7 +4348,7 @@ components:
                 pos:
                 - 0
                 - 0
-                - 36.5
+                - -13.5
                 rot:
                 - 0
                 - 0
@@ -4692,7 +4377,7 @@ components:
                     - bottom
                     depth: 16
                     extra: motor_tt_01
-                    h: 50
+                    h: 250
                     height: 3
                     inclusion: 3dpr
                     pos:
@@ -4745,120 +4430,19 @@ components:
                 type: positive
                 width: 6
         -   -   objects:
-                -   clearance:
-                    - top
-                    - bottom
-                    depth: 50
-                    height: 150
+                -   depth: 250
+                    height: 250
                     inclusion: laser
                     pos:
                     - 0
                     - 0
-                    - -150
+                    - -250
                     r: 3.1734999999999998
                     shape: polyg
                     sides: 6
                     type: positive
                     width: 6
-                -   -   -   -   -   -   clearance:
-                                        - top
-                                        - bottom
-                                        depth: 50
-                                        height: 3
-                                        inclusion: 3dpr
-                                        pos:
-                                        - -1.75
-                                        - -3.25
-                                        - -150.3
-                                        rotX: 0
-                                        rotY: 0
-                                        rotZ: 0
-                                        shape: cube
-                                        size:
-                                        - 3.5
-                                        - 6.5
-                                        - 0.3
-                                        type: positive
-                                        width: 6
-                        -   -   -   -   clearance:
-                                        - top
-                                        - bottom
-                                        depth: 50
-                                        height: 3
-                                        inclusion: 3dpr
-                                        pos:
-                                        - -1.75
-                                        - -1.75
-                                        - -150.60000000000002
-                                        rotX: 0
-                                        rotY: 0
-                                        rotZ: 0
-                                        shape: cube
-                                        size:
-                                        - 3.5
-                                        - 3.5
-                                        - 0.3
-                                        type: positive
-                                        width: 6
-                -   -   -   -   -   -   clearance:
-                                        - top
-                                        - bottom
-                                        depth: 50
-                                        height: 3
-                                        inclusion: 3dpr
-                                        pos:
-                                        - -1.75
-                                        - -3.25
-                                        - 0
-                                        rotX: 0
-                                        rotY: 0
-                                        rotZ: 0
-                                        shape: cube
-                                        size:
-                                        - 3.5
-                                        - 6.5
-                                        - 0.3
-                                        type: positive
-                                        width: 6
-                        -   -   -   -   clearance:
-                                        - top
-                                        - bottom
-                                        depth: 50
-                                        height: 3
-                                        inclusion: 3dpr
-                                        pos:
-                                        - -1.75
-                                        - -1.75
-                                        - 0.3
-                                        rotX: 0
-                                        rotY: 0
-                                        rotZ: 0
-                                        shape: cube
-                                        size:
-                                        - 3.5
-                                        - 3.5
-                                        - 0.3
-                                        type: positive
-                                        width: 6
-                -   clearance:
-                    - top
-                    - bottom
-                    depth: 50
-                    height: 250
-                    inclusion: 3dpr
-                    pos:
-                    - 0
-                    - 0
-                    - -250
-                    r: 3.4619999999999997
-                    shape: polyg
-                    sides: 6
-                    type: positive
-                    width: 6
-                -   -   -   -   -   -   clearance:
-                                        - top
-                                        - bottom
-                                        depth: 50
+                -   -   -   -   -   -   depth: 250
                                         height: 3
                                         inclusion: 3dpr
                                         pos:
@@ -4875,10 +4459,7 @@ components:
                                         - 0.3
                                         type: positive
                                         width: 6
-                        -   -   -   -   clearance:
-                                        - top
-                                        - bottom
-                                        depth: 50
+                        -   -   -   -   depth: 250
                                         height: 3
                                         inclusion: 3dpr
                                         pos:
@@ -4895,10 +4476,7 @@ components:
                                         - 0.3
                                         type: positive
                                         width: 6
-                -   -   -   -   -   -   clearance:
-                                        - top
-                                        - bottom
-                                        depth: 50
+                -   -   -   -   -   -   depth: 250
                                         height: 3
                                         inclusion: 3dpr
                                         pos:
@@ -4915,10 +4493,7 @@ components:
                                         - 0.3
                                         type: positive
                                         width: 6
-                        -   -   -   -   clearance:
-                                        - top
-                                        - bottom
-                                        depth: 50
+                        -   -   -   -   depth: 250
                                         height: 3
                                         inclusion: 3dpr
                                         pos:
@@ -4935,31 +4510,105 @@ components:
                                         - 0.3
                                         type: positive
                                         width: 6
-                -   clearance:
-                    - top
-                    - bottom
-                    depth: 50
-                    height: 350
+                -   depth: 250
+                    height: 250
+                    inclusion: 3dpr
+                    pos:
+                    - 0
+                    - 0
+                    - -250
+                    r: 3.4619999999999997
+                    shape: polyg
+                    sides: 6
+                    type: positive
+                    width: 6
+                -   -   -   -   -   -   depth: 250
+                                        height: 3
+                                        inclusion: 3dpr
+                                        pos:
+                                        - -1.75
+                                        - -3.25
+                                        - -250.3
+                                        rotX: 0
+                                        rotY: 0
+                                        rotZ: 0
+                                        shape: cube
+                                        size:
+                                        - 3.5
+                                        - 6.5
+                                        - 0.3
+                                        type: positive
+                                        width: 6
+                        -   -   -   -   depth: 250
+                                        height: 3
+                                        inclusion: 3dpr
+                                        pos:
+                                        - -1.75
+                                        - -1.75
+                                        - -250.60000000000002
+                                        rotX: 0
+                                        rotY: 0
+                                        rotZ: 0
+                                        shape: cube
+                                        size:
+                                        - 3.5
+                                        - 3.5
+                                        - 0.3
+                                        type: positive
+                                        width: 6
+                -   -   -   -   -   -   depth: 250
+                                        height: 3
+                                        inclusion: 3dpr
+                                        pos:
+                                        - -1.75
+                                        - -3.25
+                                        - 0
+                                        rotX: 0
+                                        rotY: 0
+                                        rotZ: 0
+                                        shape: cube
+                                        size:
+                                        - 3.5
+                                        - 6.5
+                                        - 0.3
+                                        type: positive
+                                        width: 6
+                        -   -   -   -   depth: 250
+                                        height: 3
+                                        inclusion: 3dpr
+                                        pos:
+                                        - -1.75
+                                        - -1.75
+                                        - 0.3
+                                        rotX: 0
+                                        rotY: 0
+                                        rotZ: 0
+                                        shape: cube
+                                        size:
+                                        - 3.5
+                                        - 3.5
+                                        - 0.3
+                                        type: positive
+                                        width: 6
+                -   depth: 250
+                    height: 250
                     inclusion: 'true'
                     pos:
                     - 0
                     - 0
-                    - -350
+                    - -250
                     r: 3.1734999999999998
                     shape: polyg
                     sides: 6
                     type: positive
                     width: 6
-                -   -   -   -   -   -   clearance:
-                                        - top
-                                        - bottom
-                                        depth: 50
+                -   -   -   -   -   -   depth: 250
                                         height: 3
                                         inclusion: 3dpr
                                         pos:
                                         - -1.75
                                         - -3.25
-                                        - -350.3
+                                        - -250.3
                                         rotX: 0
                                         rotY: 0
                                         rotZ: 0
@@ -4970,16 +4619,13 @@ components:
                                         - 0.3
                                         type: positive
                                         width: 6
-                        -   -   -   -   clearance:
-                                        - top
-                                        - bottom
-                                        depth: 50
+                        -   -   -   -   depth: 250
                                         height: 3
                                         inclusion: 3dpr
                                         pos:
                                         - -1.75
                                         - -1.75
-                                        - -350.6
+                                        - -250.60000000000002
                                         rotX: 0
                                         rotY: 0
                                         rotZ: 0
@@ -4990,10 +4636,7 @@ components:
                                         - 0.3
                                         type: positive
                                         width: 6
-                -   -   -   -   -   -   clearance:
-                                        - top
-                                        - bottom
-                                        depth: 50
+                -   -   -   -   -   -   depth: 250
                                         height: 3
                                         inclusion: 3dpr
                                         pos:
@@ -5010,10 +4653,7 @@ components:
                                         - 0.3
                                         type: positive
                                         width: 6
-                        -   -   -   -   clearance:
-                                        - top
-                                        - bottom
-                                        depth: 50
+                        -   -   -   -   depth: 250
                                         height: 3
                                         inclusion: 3dpr
                                         pos:
@@ -5033,7 +4673,7 @@ components:
                 pos:
                 - 0
                 - 0
-                - 37.0
+                - -13.0
                 rot:
                 - 0
                 - 0
@@ -5062,7 +4702,7 @@ components:
                     - bottom
                     depth: 16
                     extra: motor_tt_01
-                    h: 50
+                    h: 250
                     height: 3
                     inclusion: 'true'
                     pos:
@@ -5115,120 +4755,19 @@ components:
                 type: positive
                 width: 6
         -   -   objects:
-                -   clearance:
-                    - top
-                    - bottom
-                    depth: 50
-                    height: 150
+                -   depth: 250
+                    height: 250
                     inclusion: laser
                     pos:
                     - 0
                     - 0
-                    - -150
+                    - -250
                     r: 3.1734999999999998
                     shape: polyg
                     sides: 6
                     type: positive
                     width: 6
-                -   -   -   -   -   -   clearance:
-                                        - top
-                                        - bottom
-                                        depth: 50
-                                        height: 3
-                                        inclusion: 3dpr
-                                        pos:
-                                        - -1.75
-                                        - -3.25
-                                        - -150.3
-                                        rotX: 0
-                                        rotY: 0
-                                        rotZ: 0
-                                        shape: cube
-                                        size:
-                                        - 3.5
-                                        - 6.5
-                                        - 0.3
-                                        type: positive
-                                        width: 6
-                        -   -   -   -   clearance:
-                                        - top
-                                        - bottom
-                                        depth: 50
-                                        height: 3
-                                        inclusion: 3dpr
-                                        pos:
-                                        - -1.75
-                                        - -1.75
-                                        - -150.60000000000002
-                                        rotX: 0
-                                        rotY: 0
-                                        rotZ: 0
-                                        shape: cube
-                                        size:
-                                        - 3.5
-                                        - 3.5
-                                        - 0.3
-                                        type: positive
-                                        width: 6
-                -   -   -   -   -   -   clearance:
-                                        - top
-                                        - bottom
-                                        depth: 50
-                                        height: 3
-                                        inclusion: 3dpr
-                                        pos:
-                                        - -1.75
-                                        - -3.25
-                                        - 0
-                                        rotX: 0
-                                        rotY: 0
-                                        rotZ: 0
-                                        shape: cube
-                                        size:
-                                        - 3.5
-                                        - 6.5
-                                        - 0.3
-                                        type: positive
-                                        width: 6
-                        -   -   -   -   clearance:
-                                        - top
-                                        - bottom
-                                        depth: 50
-                                        height: 3
-                                        inclusion: 3dpr
-                                        pos:
-                                        - -1.75
-                                        - -1.75
-                                        - 0.3
-                                        rotX: 0
-                                        rotY: 0
-                                        rotZ: 0
-                                        shape: cube
-                                        size:
-                                        - 3.5
-                                        - 3.5
-                                        - 0.3
-                                        type: positive
-                                        width: 6
-                -   clearance:
-                    - top
-                    - bottom
-                    depth: 50
-                    height: 250
-                    inclusion: 3dpr
-                    pos:
-                    - 0
-                    - 0
-                    - -250
-                    r: 3.4619999999999997
-                    shape: polyg
-                    sides: 6
-                    type: positive
-                    width: 6
-                -   -   -   -   -   -   clearance:
-                                        - top
-                                        - bottom
-                                        depth: 50
+                -   -   -   -   -   -   depth: 250
                                         height: 3
                                         inclusion: 3dpr
                                         pos:
@@ -5245,10 +4784,7 @@ components:
                                         - 0.3
                                         type: positive
                                         width: 6
-                        -   -   -   -   clearance:
-                                        - top
-                                        - bottom
-                                        depth: 50
+                        -   -   -   -   depth: 250
                                         height: 3
                                         inclusion: 3dpr
                                         pos:
@@ -5265,10 +4801,7 @@ components:
                                         - 0.3
                                         type: positive
                                         width: 6
-                -   -   -   -   -   -   clearance:
-                                        - top
-                                        - bottom
-                                        depth: 50
+                -   -   -   -   -   -   depth: 250
                                         height: 3
                                         inclusion: 3dpr
                                         pos:
@@ -5285,10 +4818,7 @@ components:
                                         - 0.3
                                         type: positive
                                         width: 6
-                        -   -   -   -   clearance:
-                                        - top
-                                        - bottom
-                                        depth: 50
+                        -   -   -   -   depth: 250
                                         height: 3
                                         inclusion: 3dpr
                                         pos:
@@ -5305,31 +4835,105 @@ components:
                                         - 0.3
                                         type: positive
                                         width: 6
-                -   clearance:
-                    - top
-                    - bottom
-                    depth: 50
-                    height: 350
+                -   depth: 250
+                    height: 250
+                    inclusion: 3dpr
+                    pos:
+                    - 0
+                    - 0
+                    - -250
+                    r: 3.4619999999999997
+                    shape: polyg
+                    sides: 6
+                    type: positive
+                    width: 6
+                -   -   -   -   -   -   depth: 250
+                                        height: 3
+                                        inclusion: 3dpr
+                                        pos:
+                                        - -1.75
+                                        - -3.25
+                                        - -250.3
+                                        rotX: 0
+                                        rotY: 0
+                                        rotZ: 0
+                                        shape: cube
+                                        size:
+                                        - 3.5
+                                        - 6.5
+                                        - 0.3
+                                        type: positive
+                                        width: 6
+                        -   -   -   -   depth: 250
+                                        height: 3
+                                        inclusion: 3dpr
+                                        pos:
+                                        - -1.75
+                                        - -1.75
+                                        - -250.60000000000002
+                                        rotX: 0
+                                        rotY: 0
+                                        rotZ: 0
+                                        shape: cube
+                                        size:
+                                        - 3.5
+                                        - 3.5
+                                        - 0.3
+                                        type: positive
+                                        width: 6
+                -   -   -   -   -   -   depth: 250
+                                        height: 3
+                                        inclusion: 3dpr
+                                        pos:
+                                        - -1.75
+                                        - -3.25
+                                        - 0
+                                        rotX: 0
+                                        rotY: 0
+                                        rotZ: 0
+                                        shape: cube
+                                        size:
+                                        - 3.5
+                                        - 6.5
+                                        - 0.3
+                                        type: positive
+                                        width: 6
+                        -   -   -   -   depth: 250
+                                        height: 3
+                                        inclusion: 3dpr
+                                        pos:
+                                        - -1.75
+                                        - -1.75
+                                        - 0.3
+                                        rotX: 0
+                                        rotY: 0
+                                        rotZ: 0
+                                        shape: cube
+                                        size:
+                                        - 3.5
+                                        - 3.5
+                                        - 0.3
+                                        type: positive
+                                        width: 6
+                -   depth: 250
+                    height: 250
                     inclusion: 'true'
                     pos:
                     - 0
                     - 0
-                    - -350
+                    - -250
                     r: 3.1734999999999998
                     shape: polyg
                     sides: 6
                     type: positive
                     width: 6
-                -   -   -   -   -   -   clearance:
-                                        - top
-                                        - bottom
-                                        depth: 50
+                -   -   -   -   -   -   depth: 250
                                         height: 3
                                         inclusion: 3dpr
                                         pos:
                                         - -1.75
                                         - -3.25
-                                        - -350.3
+                                        - -250.3
                                         rotX: 0
                                         rotY: 0
                                         rotZ: 0
@@ -5340,16 +4944,13 @@ components:
                                         - 0.3
                                         type: positive
                                         width: 6
-                        -   -   -   -   clearance:
-                                        - top
-                                        - bottom
-                                        depth: 50
+                        -   -   -   -   depth: 250
                                         height: 3
                                         inclusion: 3dpr
                                         pos:
                                         - -1.75
                                         - -1.75
-                                        - -350.6
+                                        - -250.60000000000002
                                         rotX: 0
                                         rotY: 0
                                         rotZ: 0
@@ -5360,10 +4961,7 @@ components:
                                         - 0.3
                                         type: positive
                                         width: 6
-                -   -   -   -   -   -   clearance:
-                                        - top
-                                        - bottom
-                                        depth: 50
+                -   -   -   -   -   -   depth: 250
                                         height: 3
                                         inclusion: 3dpr
                                         pos:
@@ -5380,10 +4978,7 @@ components:
                                         - 0.3
                                         type: positive
                                         width: 6
-                        -   -   -   -   clearance:
-                                        - top
-                                        - bottom
-                                        depth: 50
+                        -   -   -   -   depth: 250
                                         height: 3
                                         inclusion: 3dpr
                                         pos:
@@ -5403,7 +4998,7 @@ components:
                 pos:
                 - 0
                 - 0
-                - 36.5
+                - -13.5
                 rot:
                 - 0
                 - 0
@@ -5443,7 +5038,7 @@ components:
                     - bottom
                     depth: 16
                     extra: motor_tt_01
-                    h: 50
+                    h: 250
                     height: 3
                     inclusion: laser
                     pos:
@@ -5496,120 +5091,19 @@ components:
                 type: positive
                 width: 6
         -   -   objects:
-                -   clearance:
-                    - top
-                    - bottom
-                    depth: 50
-                    height: 150
+                -   depth: 250
+                    height: 250
                     inclusion: laser
                     pos:
                     - 0
                     - 0
-                    - -150
+                    - -250
                     r: 3.1734999999999998
                     shape: polyg
                     sides: 6
                     type: positive
                     width: 6
-                -   -   -   -   -   -   clearance:
-                                        - top
-                                        - bottom
-                                        depth: 50
-                                        height: 3
-                                        inclusion: 3dpr
-                                        pos:
-                                        - -1.75
-                                        - -3.25
-                                        - -150.3
-                                        rotX: 0
-                                        rotY: 0
-                                        rotZ: 0
-                                        shape: cube
-                                        size:
-                                        - 3.5
-                                        - 6.5
-                                        - 0.3
-                                        type: positive
-                                        width: 6
-                        -   -   -   -   clearance:
-                                        - top
-                                        - bottom
-                                        depth: 50
-                                        height: 3
-                                        inclusion: 3dpr
-                                        pos:
-                                        - -1.75
-                                        - -1.75
-                                        - -150.60000000000002
-                                        rotX: 0
-                                        rotY: 0
-                                        rotZ: 0
-                                        shape: cube
-                                        size:
-                                        - 3.5
-                                        - 3.5
-                                        - 0.3
-                                        type: positive
-                                        width: 6
-                -   -   -   -   -   -   clearance:
-                                        - top
-                                        - bottom
-                                        depth: 50
-                                        height: 3
-                                        inclusion: 3dpr
-                                        pos:
-                                        - -1.75
-                                        - -3.25
-                                        - 0
-                                        rotX: 0
-                                        rotY: 0
-                                        rotZ: 0
-                                        shape: cube
-                                        size:
-                                        - 3.5
-                                        - 6.5
-                                        - 0.3
-                                        type: positive
-                                        width: 6
-                        -   -   -   -   clearance:
-                                        - top
-                                        - bottom
-                                        depth: 50
-                                        height: 3
-                                        inclusion: 3dpr
-                                        pos:
-                                        - -1.75
-                                        - -1.75
-                                        - 0.3
-                                        rotX: 0
-                                        rotY: 0
-                                        rotZ: 0
-                                        shape: cube
-                                        size:
-                                        - 3.5
-                                        - 3.5
-                                        - 0.3
-                                        type: positive
-                                        width: 6
-                -   clearance:
-                    - top
-                    - bottom
-                    depth: 50
-                    height: 250
-                    inclusion: 3dpr
-                    pos:
-                    - 0
-                    - 0
-                    - -250
-                    r: 3.4619999999999997
-                    shape: polyg
-                    sides: 6
-                    type: positive
-                    width: 6
-                -   -   -   -   -   -   clearance:
-                                        - top
-                                        - bottom
-                                        depth: 50
+                -   -   -   -   -   -   depth: 250
                                         height: 3
                                         inclusion: 3dpr
                                         pos:
@@ -5626,10 +5120,7 @@ components:
                                         - 0.3
                                         type: positive
                                         width: 6
-                        -   -   -   -   clearance:
-                                        - top
-                                        - bottom
-                                        depth: 50
+                        -   -   -   -   depth: 250
                                         height: 3
                                         inclusion: 3dpr
                                         pos:
@@ -5646,10 +5137,7 @@ components:
                                         - 0.3
                                         type: positive
                                         width: 6
-                -   -   -   -   -   -   clearance:
-                                        - top
-                                        - bottom
-                                        depth: 50
+                -   -   -   -   -   -   depth: 250
                                         height: 3
                                         inclusion: 3dpr
                                         pos:
@@ -5666,10 +5154,7 @@ components:
                                         - 0.3
                                         type: positive
                                         width: 6
-                        -   -   -   -   clearance:
-                                        - top
-                                        - bottom
-                                        depth: 50
+                        -   -   -   -   depth: 250
                                         height: 3
                                         inclusion: 3dpr
                                         pos:
@@ -5686,31 +5171,105 @@ components:
                                         - 0.3
                                         type: positive
                                         width: 6
-                -   clearance:
-                    - top
-                    - bottom
-                    depth: 50
-                    height: 350
+                -   depth: 250
+                    height: 250
+                    inclusion: 3dpr
+                    pos:
+                    - 0
+                    - 0
+                    - -250
+                    r: 3.4619999999999997
+                    shape: polyg
+                    sides: 6
+                    type: positive
+                    width: 6
+                -   -   -   -   -   -   depth: 250
+                                        height: 3
+                                        inclusion: 3dpr
+                                        pos:
+                                        - -1.75
+                                        - -3.25
+                                        - -250.3
+                                        rotX: 0
+                                        rotY: 0
+                                        rotZ: 0
+                                        shape: cube
+                                        size:
+                                        - 3.5
+                                        - 6.5
+                                        - 0.3
+                                        type: positive
+                                        width: 6
+                        -   -   -   -   depth: 250
+                                        height: 3
+                                        inclusion: 3dpr
+                                        pos:
+                                        - -1.75
+                                        - -1.75
+                                        - -250.60000000000002
+                                        rotX: 0
+                                        rotY: 0
+                                        rotZ: 0
+                                        shape: cube
+                                        size:
+                                        - 3.5
+                                        - 3.5
+                                        - 0.3
+                                        type: positive
+                                        width: 6
+                -   -   -   -   -   -   depth: 250
+                                        height: 3
+                                        inclusion: 3dpr
+                                        pos:
+                                        - -1.75
+                                        - -3.25
+                                        - 0
+                                        rotX: 0
+                                        rotY: 0
+                                        rotZ: 0
+                                        shape: cube
+                                        size:
+                                        - 3.5
+                                        - 6.5
+                                        - 0.3
+                                        type: positive
+                                        width: 6
+                        -   -   -   -   depth: 250
+                                        height: 3
+                                        inclusion: 3dpr
+                                        pos:
+                                        - -1.75
+                                        - -1.75
+                                        - 0.3
+                                        rotX: 0
+                                        rotY: 0
+                                        rotZ: 0
+                                        shape: cube
+                                        size:
+                                        - 3.5
+                                        - 3.5
+                                        - 0.3
+                                        type: positive
+                                        width: 6
+                -   depth: 250
+                    height: 250
                     inclusion: 'true'
                     pos:
                     - 0
                     - 0
-                    - -350
+                    - -250
                     r: 3.1734999999999998
                     shape: polyg
                     sides: 6
                     type: positive
                     width: 6
-                -   -   -   -   -   -   clearance:
-                                        - top
-                                        - bottom
-                                        depth: 50
+                -   -   -   -   -   -   depth: 250
                                         height: 3
                                         inclusion: 3dpr
                                         pos:
                                         - -1.75
                                         - -3.25
-                                        - -350.3
+                                        - -250.3
                                         rotX: 0
                                         rotY: 0
                                         rotZ: 0
@@ -5721,16 +5280,13 @@ components:
                                         - 0.3
                                         type: positive
                                         width: 6
-                        -   -   -   -   clearance:
-                                        - top
-                                        - bottom
-                                        depth: 50
+                        -   -   -   -   depth: 250
                                         height: 3
                                         inclusion: 3dpr
                                         pos:
                                         - -1.75
                                         - -1.75
-                                        - -350.6
+                                        - -250.60000000000002
                                         rotX: 0
                                         rotY: 0
                                         rotZ: 0
@@ -5741,10 +5297,7 @@ components:
                                         - 0.3
                                         type: positive
                                         width: 6
-                -   -   -   -   -   -   clearance:
-                                        - top
-                                        - bottom
-                                        depth: 50
+                -   -   -   -   -   -   depth: 250
                                         height: 3
                                         inclusion: 3dpr
                                         pos:
@@ -5761,10 +5314,7 @@ components:
                                         - 0.3
                                         type: positive
                                         width: 6
-                        -   -   -   -   clearance:
-                                        - top
-                                        - bottom
-                                        depth: 50
+                        -   -   -   -   depth: 250
                                         height: 3
                                         inclusion: 3dpr
                                         pos:
@@ -5784,7 +5334,7 @@ components:
                 pos:
                 - 0
                 - 0
-                - 36.5
+                - -13.5
                 rot:
                 - 0
                 - 0
@@ -5813,7 +5363,7 @@ components:
                     - bottom
                     depth: 16
                     extra: motor_tt_01
-                    h: 50
+                    h: 250
                     height: 3
                     inclusion: 3dpr
                     pos:
@@ -5866,120 +5416,19 @@ components:
                 type: positive
                 width: 6
         -   -   objects:
-                -   clearance:
-                    - top
-                    - bottom
-                    depth: 50
-                    height: 150
+                -   depth: 250
+                    height: 250
                     inclusion: laser
                     pos:
                     - 0
                     - 0
-                    - -150
+                    - -250
                     r: 3.1734999999999998
                     shape: polyg
                     sides: 6
                     type: positive
                     width: 6
-                -   -   -   -   -   -   clearance:
-                                        - top
-                                        - bottom
-                                        depth: 50
-                                        height: 3
-                                        inclusion: 3dpr
-                                        pos:
-                                        - -1.75
-                                        - -3.25
-                                        - -150.3
-                                        rotX: 0
-                                        rotY: 0
-                                        rotZ: 0
-                                        shape: cube
-                                        size:
-                                        - 3.5
-                                        - 6.5
-                                        - 0.3
-                                        type: positive
-                                        width: 6
-                        -   -   -   -   clearance:
-                                        - top
-                                        - bottom
-                                        depth: 50
-                                        height: 3
-                                        inclusion: 3dpr
-                                        pos:
-                                        - -1.75
-                                        - -1.75
-                                        - -150.60000000000002
-                                        rotX: 0
-                                        rotY: 0
-                                        rotZ: 0
-                                        shape: cube
-                                        size:
-                                        - 3.5
-                                        - 3.5
-                                        - 0.3
-                                        type: positive
-                                        width: 6
-                -   -   -   -   -   -   clearance:
-                                        - top
-                                        - bottom
-                                        depth: 50
-                                        height: 3
-                                        inclusion: 3dpr
-                                        pos:
-                                        - -1.75
-                                        - -3.25
-                                        - 0
-                                        rotX: 0
-                                        rotY: 0
-                                        rotZ: 0
-                                        shape: cube
-                                        size:
-                                        - 3.5
-                                        - 6.5
-                                        - 0.3
-                                        type: positive
-                                        width: 6
-                        -   -   -   -   clearance:
-                                        - top
-                                        - bottom
-                                        depth: 50
-                                        height: 3
-                                        inclusion: 3dpr
-                                        pos:
-                                        - -1.75
-                                        - -1.75
-                                        - 0.3
-                                        rotX: 0
-                                        rotY: 0
-                                        rotZ: 0
-                                        shape: cube
-                                        size:
-                                        - 3.5
-                                        - 3.5
-                                        - 0.3
-                                        type: positive
-                                        width: 6
-                -   clearance:
-                    - top
-                    - bottom
-                    depth: 50
-                    height: 250
-                    inclusion: 3dpr
-                    pos:
-                    - 0
-                    - 0
-                    - -250
-                    r: 3.4619999999999997
-                    shape: polyg
-                    sides: 6
-                    type: positive
-                    width: 6
-                -   -   -   -   -   -   clearance:
-                                        - top
-                                        - bottom
-                                        depth: 50
+                -   -   -   -   -   -   depth: 250
                                         height: 3
                                         inclusion: 3dpr
                                         pos:
@@ -5996,10 +5445,7 @@ components:
                                         - 0.3
                                         type: positive
                                         width: 6
-                        -   -   -   -   clearance:
-                                        - top
-                                        - bottom
-                                        depth: 50
+                        -   -   -   -   depth: 250
                                         height: 3
                                         inclusion: 3dpr
                                         pos:
@@ -6016,10 +5462,7 @@ components:
                                         - 0.3
                                         type: positive
                                         width: 6
-                -   -   -   -   -   -   clearance:
-                                        - top
-                                        - bottom
-                                        depth: 50
+                -   -   -   -   -   -   depth: 250
                                         height: 3
                                         inclusion: 3dpr
                                         pos:
@@ -6036,10 +5479,7 @@ components:
                                         - 0.3
                                         type: positive
                                         width: 6
-                        -   -   -   -   clearance:
-                                        - top
-                                        - bottom
-                                        depth: 50
+                        -   -   -   -   depth: 250
                                         height: 3
                                         inclusion: 3dpr
                                         pos:
@@ -6056,31 +5496,105 @@ components:
                                         - 0.3
                                         type: positive
                                         width: 6
-                -   clearance:
-                    - top
-                    - bottom
-                    depth: 50
-                    height: 350
+                -   depth: 250
+                    height: 250
+                    inclusion: 3dpr
+                    pos:
+                    - 0
+                    - 0
+                    - -250
+                    r: 3.4619999999999997
+                    shape: polyg
+                    sides: 6
+                    type: positive
+                    width: 6
+                -   -   -   -   -   -   depth: 250
+                                        height: 3
+                                        inclusion: 3dpr
+                                        pos:
+                                        - -1.75
+                                        - -3.25
+                                        - -250.3
+                                        rotX: 0
+                                        rotY: 0
+                                        rotZ: 0
+                                        shape: cube
+                                        size:
+                                        - 3.5
+                                        - 6.5
+                                        - 0.3
+                                        type: positive
+                                        width: 6
+                        -   -   -   -   depth: 250
+                                        height: 3
+                                        inclusion: 3dpr
+                                        pos:
+                                        - -1.75
+                                        - -1.75
+                                        - -250.60000000000002
+                                        rotX: 0
+                                        rotY: 0
+                                        rotZ: 0
+                                        shape: cube
+                                        size:
+                                        - 3.5
+                                        - 3.5
+                                        - 0.3
+                                        type: positive
+                                        width: 6
+                -   -   -   -   -   -   depth: 250
+                                        height: 3
+                                        inclusion: 3dpr
+                                        pos:
+                                        - -1.75
+                                        - -3.25
+                                        - 0
+                                        rotX: 0
+                                        rotY: 0
+                                        rotZ: 0
+                                        shape: cube
+                                        size:
+                                        - 3.5
+                                        - 6.5
+                                        - 0.3
+                                        type: positive
+                                        width: 6
+                        -   -   -   -   depth: 250
+                                        height: 3
+                                        inclusion: 3dpr
+                                        pos:
+                                        - -1.75
+                                        - -1.75
+                                        - 0.3
+                                        rotX: 0
+                                        rotY: 0
+                                        rotZ: 0
+                                        shape: cube
+                                        size:
+                                        - 3.5
+                                        - 3.5
+                                        - 0.3
+                                        type: positive
+                                        width: 6
+                -   depth: 250
+                    height: 250
                     inclusion: 'true'
                     pos:
                     - 0
                     - 0
-                    - -350
+                    - -250
                     r: 3.1734999999999998
                     shape: polyg
                     sides: 6
                     type: positive
                     width: 6
-                -   -   -   -   -   -   clearance:
-                                        - top
-                                        - bottom
-                                        depth: 50
+                -   -   -   -   -   -   depth: 250
                                         height: 3
                                         inclusion: 3dpr
                                         pos:
                                         - -1.75
                                         - -3.25
-                                        - -350.3
+                                        - -250.3
                                         rotX: 0
                                         rotY: 0
                                         rotZ: 0
@@ -6091,16 +5605,13 @@ components:
                                         - 0.3
                                         type: positive
                                         width: 6
-                        -   -   -   -   clearance:
-                                        - top
-                                        - bottom
-                                        depth: 50
+                        -   -   -   -   depth: 250
                                         height: 3
                                         inclusion: 3dpr
                                         pos:
                                         - -1.75
                                         - -1.75
-                                        - -350.6
+                                        - -250.60000000000002
                                         rotX: 0
                                         rotY: 0
                                         rotZ: 0
@@ -6111,10 +5622,7 @@ components:
                                         - 0.3
                                         type: positive
                                         width: 6
-                -   -   -   -   -   -   clearance:
-                                        - top
-                                        - bottom
-                                        depth: 50
+                -   -   -   -   -   -   depth: 250
                                         height: 3
                                         inclusion: 3dpr
                                         pos:
@@ -6131,10 +5639,7 @@ components:
                                         - 0.3
                                         type: positive
                                         width: 6
-                        -   -   -   -   clearance:
-                                        - top
-                                        - bottom
-                                        depth: 50
+                        -   -   -   -   depth: 250
                                         height: 3
                                         inclusion: 3dpr
                                         pos:
@@ -6154,7 +5659,7 @@ components:
                 pos:
                 - 0
                 - 0
-                - 37.0
+                - -13.0
                 rot:
                 - 0
                 - 0
@@ -6183,7 +5688,7 @@ components:
                     - bottom
                     depth: 16
                     extra: motor_tt_01
-                    h: 50
+                    h: 250
                     height: 3
                     inclusion: 'true'
                     pos:
@@ -6236,120 +5741,19 @@ components:
                 type: positive
                 width: 6
         -   -   objects:
-                -   clearance:
-                    - top
-                    - bottom
-                    depth: 50
-                    height: 150
+                -   depth: 250
+                    height: 250
                     inclusion: laser
                     pos:
                     - 0
                     - 0
-                    - -150
+                    - -250
                     r: 3.1734999999999998
                     shape: polyg
                     sides: 6
                     type: positive
                     width: 6
-                -   -   -   -   -   -   clearance:
-                                        - top
-                                        - bottom
-                                        depth: 50
-                                        height: 3
-                                        inclusion: 3dpr
-                                        pos:
-                                        - -1.75
-                                        - -3.25
-                                        - -150.3
-                                        rotX: 0
-                                        rotY: 0
-                                        rotZ: 0
-                                        shape: cube
-                                        size:
-                                        - 3.5
-                                        - 6.5
-                                        - 0.3
-                                        type: positive
-                                        width: 6
-                        -   -   -   -   clearance:
-                                        - top
-                                        - bottom
-                                        depth: 50
-                                        height: 3
-                                        inclusion: 3dpr
-                                        pos:
-                                        - -1.75
-                                        - -1.75
-                                        - -150.60000000000002
-                                        rotX: 0
-                                        rotY: 0
-                                        rotZ: 0
-                                        shape: cube
-                                        size:
-                                        - 3.5
-                                        - 3.5
-                                        - 0.3
-                                        type: positive
-                                        width: 6
-                -   -   -   -   -   -   clearance:
-                                        - top
-                                        - bottom
-                                        depth: 50
-                                        height: 3
-                                        inclusion: 3dpr
-                                        pos:
-                                        - -1.75
-                                        - -3.25
-                                        - 0
-                                        rotX: 0
-                                        rotY: 0
-                                        rotZ: 0
-                                        shape: cube
-                                        size:
-                                        - 3.5
-                                        - 6.5
-                                        - 0.3
-                                        type: positive
-                                        width: 6
-                        -   -   -   -   clearance:
-                                        - top
-                                        - bottom
-                                        depth: 50
-                                        height: 3
-                                        inclusion: 3dpr
-                                        pos:
-                                        - -1.75
-                                        - -1.75
-                                        - 0.3
-                                        rotX: 0
-                                        rotY: 0
-                                        rotZ: 0
-                                        shape: cube
-                                        size:
-                                        - 3.5
-                                        - 3.5
-                                        - 0.3
-                                        type: positive
-                                        width: 6
-                -   clearance:
-                    - top
-                    - bottom
-                    depth: 50
-                    height: 250
-                    inclusion: 3dpr
-                    pos:
-                    - 0
-                    - 0
-                    - -250
-                    r: 3.4619999999999997
-                    shape: polyg
-                    sides: 6
-                    type: positive
-                    width: 6
-                -   -   -   -   -   -   clearance:
-                                        - top
-                                        - bottom
-                                        depth: 50
+                -   -   -   -   -   -   depth: 250
                                         height: 3
                                         inclusion: 3dpr
                                         pos:
@@ -6366,10 +5770,7 @@ components:
                                         - 0.3
                                         type: positive
                                         width: 6
-                        -   -   -   -   clearance:
-                                        - top
-                                        - bottom
-                                        depth: 50
+                        -   -   -   -   depth: 250
                                         height: 3
                                         inclusion: 3dpr
                                         pos:
@@ -6386,10 +5787,7 @@ components:
                                         - 0.3
                                         type: positive
                                         width: 6
-                -   -   -   -   -   -   clearance:
-                                        - top
-                                        - bottom
-                                        depth: 50
+                -   -   -   -   -   -   depth: 250
                                         height: 3
                                         inclusion: 3dpr
                                         pos:
@@ -6406,10 +5804,7 @@ components:
                                         - 0.3
                                         type: positive
                                         width: 6
-                        -   -   -   -   clearance:
-                                        - top
-                                        - bottom
-                                        depth: 50
+                        -   -   -   -   depth: 250
                                         height: 3
                                         inclusion: 3dpr
                                         pos:
@@ -6426,31 +5821,105 @@ components:
                                         - 0.3
                                         type: positive
                                         width: 6
-                -   clearance:
-                    - top
-                    - bottom
-                    depth: 50
-                    height: 350
+                -   depth: 250
+                    height: 250
+                    inclusion: 3dpr
+                    pos:
+                    - 0
+                    - 0
+                    - -250
+                    r: 3.4619999999999997
+                    shape: polyg
+                    sides: 6
+                    type: positive
+                    width: 6
+                -   -   -   -   -   -   depth: 250
+                                        height: 3
+                                        inclusion: 3dpr
+                                        pos:
+                                        - -1.75
+                                        - -3.25
+                                        - -250.3
+                                        rotX: 0
+                                        rotY: 0
+                                        rotZ: 0
+                                        shape: cube
+                                        size:
+                                        - 3.5
+                                        - 6.5
+                                        - 0.3
+                                        type: positive
+                                        width: 6
+                        -   -   -   -   depth: 250
+                                        height: 3
+                                        inclusion: 3dpr
+                                        pos:
+                                        - -1.75
+                                        - -1.75
+                                        - -250.60000000000002
+                                        rotX: 0
+                                        rotY: 0
+                                        rotZ: 0
+                                        shape: cube
+                                        size:
+                                        - 3.5
+                                        - 3.5
+                                        - 0.3
+                                        type: positive
+                                        width: 6
+                -   -   -   -   -   -   depth: 250
+                                        height: 3
+                                        inclusion: 3dpr
+                                        pos:
+                                        - -1.75
+                                        - -3.25
+                                        - 0
+                                        rotX: 0
+                                        rotY: 0
+                                        rotZ: 0
+                                        shape: cube
+                                        size:
+                                        - 3.5
+                                        - 6.5
+                                        - 0.3
+                                        type: positive
+                                        width: 6
+                        -   -   -   -   depth: 250
+                                        height: 3
+                                        inclusion: 3dpr
+                                        pos:
+                                        - -1.75
+                                        - -1.75
+                                        - 0.3
+                                        rotX: 0
+                                        rotY: 0
+                                        rotZ: 0
+                                        shape: cube
+                                        size:
+                                        - 3.5
+                                        - 3.5
+                                        - 0.3
+                                        type: positive
+                                        width: 6
+                -   depth: 250
+                    height: 250
                     inclusion: 'true'
                     pos:
                     - 0
                     - 0
-                    - -350
+                    - -250
                     r: 3.1734999999999998
                     shape: polyg
                     sides: 6
                     type: positive
                     width: 6
-                -   -   -   -   -   -   clearance:
-                                        - top
-                                        - bottom
-                                        depth: 50
+                -   -   -   -   -   -   depth: 250
                                         height: 3
                                         inclusion: 3dpr
                                         pos:
                                         - -1.75
                                         - -3.25
-                                        - -350.3
+                                        - -250.3
                                         rotX: 0
                                         rotY: 0
                                         rotZ: 0
@@ -6461,16 +5930,13 @@ components:
                                         - 0.3
                                         type: positive
                                         width: 6
-                        -   -   -   -   clearance:
-                                        - top
-                                        - bottom
-                                        depth: 50
+                        -   -   -   -   depth: 250
                                         height: 3
                                         inclusion: 3dpr
                                         pos:
                                         - -1.75
                                         - -1.75
-                                        - -350.6
+                                        - -250.60000000000002
                                         rotX: 0
                                         rotY: 0
                                         rotZ: 0
@@ -6481,10 +5947,7 @@ components:
                                         - 0.3
                                         type: positive
                                         width: 6
-                -   -   -   -   -   -   clearance:
-                                        - top
-                                        - bottom
-                                        depth: 50
+                -   -   -   -   -   -   depth: 250
                                         height: 3
                                         inclusion: 3dpr
                                         pos:
@@ -6501,10 +5964,7 @@ components:
                                         - 0.3
                                         type: positive
                                         width: 6
-                        -   -   -   -   clearance:
-                                        - top
-                                        - bottom
-                                        depth: 50
+                        -   -   -   -   depth: 250
                                         height: 3
                                         inclusion: 3dpr
                                         pos:
@@ -6524,7 +5984,7 @@ components:
                 pos:
                 - 0
                 - 0
-                - 36.5
+                - -13.5
                 rot:
                 - 0
                 - 0

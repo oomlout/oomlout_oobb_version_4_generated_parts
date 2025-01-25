@@ -43,7 +43,7 @@ components:
                 width: 1
         -   -   -   clearance: top
                     depth: 6
-                    h: 50
+                    h: 250
                     height: 1
                     inclusion: laser
                     m: ''
@@ -111,7 +111,7 @@ components:
                 width: 1
         -   -   -   clearance: top
                     depth: 6
-                    h: 50
+                    h: 250
                     height: 1
                     inclusion: 3dpr
                     m: ''
@@ -179,7 +179,7 @@ components:
                 width: 1
         -   -   -   clearance: top
                     depth: 6
-                    h: 50
+                    h: 250
                     height: 1
                     inclusion: 'true'
                     m: ''
@@ -258,7 +258,7 @@ components:
                 width: 1
         -   -   -   clearance: top
                     depth: 6
-                    h: 50
+                    h: 250
                     height: 1
                     inclusion: laser
                     m: ''
@@ -326,7 +326,7 @@ components:
                 width: 1
         -   -   -   clearance: top
                     depth: 6
-                    h: 50
+                    h: 250
                     height: 1
                     inclusion: 3dpr
                     m: ''
@@ -394,7 +394,7 @@ components:
                 width: 1
         -   -   -   clearance: top
                     depth: 6
-                    h: 50
+                    h: 250
                     height: 1
                     inclusion: 'true'
                     m: ''
@@ -473,7 +473,7 @@ components:
                 width: 1
         -   -   -   clearance: top
                     depth: 6
-                    h: 50
+                    h: 250
                     height: 1
                     inclusion: laser
                     m: ''
@@ -541,7 +541,7 @@ components:
                 width: 1
         -   -   -   clearance: top
                     depth: 6
-                    h: 50
+                    h: 250
                     height: 1
                     inclusion: 3dpr
                     m: ''
@@ -609,7 +609,7 @@ components:
                 width: 1
         -   -   -   clearance: top
                     depth: 6
-                    h: 50
+                    h: 250
                     height: 1
                     inclusion: 'true'
                     m: ''
@@ -688,7 +688,7 @@ components:
                 width: 1
         -   -   -   clearance: top
                     depth: 6
-                    h: 50
+                    h: 250
                     height: 1
                     inclusion: laser
                     m: ''
@@ -756,7 +756,7 @@ components:
                 width: 1
         -   -   -   clearance: top
                     depth: 6
-                    h: 50
+                    h: 250
                     height: 1
                     inclusion: 3dpr
                     m: ''
@@ -824,7 +824,7 @@ components:
                 width: 1
         -   -   -   clearance: top
                     depth: 6
-                    h: 50
+                    h: 250
                     height: 1
                     inclusion: 'true'
                     m: ''

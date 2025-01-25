@@ -1,0 +1,736 @@
+{
+    "description": "bunting alphabet 5x0x1",
+    "id": "oobb_part_bunting_alphabet_5_width_1_mm_depth_c_extra_c_extra",
+    "type": "part",
+    "width": 5,
+    "thickness": 1,
+    "extra": "c",
+    "width_mm": 74,
+    "thickness_mm": 1,
+    "components": [
+        [
+            {
+                "type": "p",
+                "shape": "rounded_rectangle",
+                "size": [
+                    74,
+                    14,
+                    1
+                ],
+                "pos": [
+                    0,
+                    0,
+                    0
+                ],
+                "width": 5,
+                "depth": 1,
+                "extra": "c"
+            }
+        ],
+        [
+            [
+                [
+                    {
+                        "type": "negative",
+                        "shape": "hole",
+                        "r": 3.0,
+                        "pos": [
+                            -30.0,
+                            0.0,
+                            0
+                        ],
+                        "inclusion": "laser"
+                    }
+                ]
+            ],
+            [
+                [
+                    {
+                        "type": "negative",
+                        "shape": "hole",
+                        "r": 3.0,
+                        "pos": [
+                            -15.0,
+                            0.0,
+                            0
+                        ],
+                        "inclusion": "laser"
+                    }
+                ]
+            ],
+            [
+                [
+                    {
+                        "type": "negative",
+                        "shape": "hole",
+                        "r": 3.0,
+                        "pos": [
+                            0.0,
+                            0.0,
+                            0
+                        ],
+                        "inclusion": "laser"
+                    }
+                ]
+            ],
+            [
+                [
+                    {
+                        "type": "negative",
+                        "shape": "hole",
+                        "r": 3.0,
+                        "pos": [
+                            15.0,
+                            0.0,
+                            0
+                        ],
+                        "inclusion": "laser"
+                    }
+                ]
+            ],
+            [
+                [
+                    {
+                        "type": "negative",
+                        "shape": "hole",
+                        "r": 3.0,
+                        "pos": [
+                            30.0,
+                            0.0,
+                            0
+                        ],
+                        "inclusion": "laser"
+                    }
+                ]
+            ],
+            [
+                [
+                    {
+                        "type": "negative",
+                        "shape": "hole",
+                        "r": 3.25,
+                        "pos": [
+                            -30.0,
+                            0.0,
+                            0
+                        ],
+                        "inclusion": "3dpr"
+                    }
+                ]
+            ],
+            [
+                [
+                    {
+                        "type": "negative",
+                        "shape": "hole",
+                        "r": 3.25,
+                        "pos": [
+                            -15.0,
+                            0.0,
+                            0
+                        ],
+                        "inclusion": "3dpr"
+                    }
+                ]
+            ],
+            [
+                [
+                    {
+                        "type": "negative",
+                        "shape": "hole",
+                        "r": 3.25,
+                        "pos": [
+                            0.0,
+                            0.0,
+                            0
+                        ],
+                        "inclusion": "3dpr"
+                    }
+                ]
+            ],
+            [
+                [
+                    {
+                        "type": "negative",
+                        "shape": "hole",
+                        "r": 3.25,
+                        "pos": [
+                            15.0,
+                            0.0,
+                            0
+                        ],
+                        "inclusion": "3dpr"
+                    }
+                ]
+            ],
+            [
+                [
+                    {
+                        "type": "negative",
+                        "shape": "hole",
+                        "r": 3.25,
+                        "pos": [
+                            30.0,
+                            0.0,
+                            0
+                        ],
+                        "inclusion": "3dpr"
+                    }
+                ]
+            ],
+            [
+                [
+                    {
+                        "type": "negative",
+                        "shape": "hole",
+                        "r": 3.0,
+                        "pos": [
+                            -30.0,
+                            0.0,
+                            0
+                        ],
+                        "inclusion": "true"
+                    }
+                ]
+            ],
+            [
+                [
+                    {
+                        "type": "negative",
+                        "shape": "hole",
+                        "r": 3.0,
+                        "pos": [
+                            -15.0,
+                            0.0,
+                            0
+                        ],
+                        "inclusion": "true"
+                    }
+                ]
+            ],
+            [
+                [
+                    {
+                        "type": "negative",
+                        "shape": "hole",
+                        "r": 3.0,
+                        "pos": [
+                            0.0,
+                            0.0,
+                            0
+                        ],
+                        "inclusion": "true"
+                    }
+                ]
+            ],
+            [
+                [
+                    {
+                        "type": "negative",
+                        "shape": "hole",
+                        "r": 3.0,
+                        "pos": [
+                            15.0,
+                            0.0,
+                            0
+                        ],
+                        "inclusion": "true"
+                    }
+                ]
+            ],
+            [
+                [
+                    {
+                        "type": "negative",
+                        "shape": "hole",
+                        "r": 3.0,
+                        "pos": [
+                            30.0,
+                            0.0,
+                            0
+                        ],
+                        "inclusion": "true"
+                    }
+                ]
+            ],
+            [
+                [
+                    {
+                        "type": "negative",
+                        "shape": "hole",
+                        "r": 1.5,
+                        "pos": [
+                            -30.0,
+                            0.0,
+                            0
+                        ],
+                        "inclusion": "laser"
+                    }
+                ]
+            ],
+            [
+                [
+                    {
+                        "type": "negative",
+                        "shape": "hole",
+                        "r": 1.5,
+                        "pos": [
+                            -22.5,
+                            0.0,
+                            0
+                        ],
+                        "inclusion": "laser"
+                    }
+                ]
+            ],
+            [
+                [
+                    {
+                        "type": "negative",
+                        "shape": "hole",
+                        "r": 1.5,
+                        "pos": [
+                            -15.0,
+                            0.0,
+                            0
+                        ],
+                        "inclusion": "laser"
+                    }
+                ]
+            ],
+            [
+                [
+                    {
+                        "type": "negative",
+                        "shape": "hole",
+                        "r": 1.5,
+                        "pos": [
+                            -7.5,
+                            0.0,
+                            0
+                        ],
+                        "inclusion": "laser"
+                    }
+                ]
+            ],
+            [
+                [
+                    {
+                        "type": "negative",
+                        "shape": "hole",
+                        "r": 1.5,
+                        "pos": [
+                            0.0,
+                            0.0,
+                            0
+                        ],
+                        "inclusion": "laser"
+                    }
+                ]
+            ],
+            [
+                [
+                    {
+                        "type": "negative",
+                        "shape": "hole",
+                        "r": 1.5,
+                        "pos": [
+                            7.5,
+                            0.0,
+                            0
+                        ],
+                        "inclusion": "laser"
+                    }
+                ]
+            ],
+            [
+                [
+                    {
+                        "type": "negative",
+                        "shape": "hole",
+                        "r": 1.5,
+                        "pos": [
+                            15.0,
+                            0.0,
+                            0
+                        ],
+                        "inclusion": "laser"
+                    }
+                ]
+            ],
+            [
+                [
+                    {
+                        "type": "negative",
+                        "shape": "hole",
+                        "r": 1.5,
+                        "pos": [
+                            22.5,
+                            0.0,
+                            0
+                        ],
+                        "inclusion": "laser"
+                    }
+                ]
+            ],
+            [
+                [
+                    {
+                        "type": "negative",
+                        "shape": "hole",
+                        "r": 1.5,
+                        "pos": [
+                            30.0,
+                            0.0,
+                            0
+                        ],
+                        "inclusion": "laser"
+                    }
+                ]
+            ],
+            [
+                [
+                    {
+                        "type": "negative",
+                        "shape": "hole",
+                        "r": 1.8,
+                        "pos": [
+                            -30.0,
+                            0.0,
+                            0
+                        ],
+                        "inclusion": "3dpr"
+                    }
+                ]
+            ],
+            [
+                [
+                    {
+                        "type": "negative",
+                        "shape": "hole",
+                        "r": 1.8,
+                        "pos": [
+                            -22.5,
+                            0.0,
+                            0
+                        ],
+                        "inclusion": "3dpr"
+                    }
+                ]
+            ],
+            [
+                [
+                    {
+                        "type": "negative",
+                        "shape": "hole",
+                        "r": 1.8,
+                        "pos": [
+                            -15.0,
+                            0.0,
+                            0
+                        ],
+                        "inclusion": "3dpr"
+                    }
+                ]
+            ],
+            [
+                [
+                    {
+                        "type": "negative",
+                        "shape": "hole",
+                        "r": 1.8,
+                        "pos": [
+                            -7.5,
+                            0.0,
+                            0
+                        ],
+                        "inclusion": "3dpr"
+                    }
+                ]
+            ],
+            [
+                [
+                    {
+                        "type": "negative",
+                        "shape": "hole",
+                        "r": 1.8,
+                        "pos": [
+                            0.0,
+                            0.0,
+                            0
+                        ],
+                        "inclusion": "3dpr"
+                    }
+                ]
+            ],
+            [
+                [
+                    {
+                        "type": "negative",
+                        "shape": "hole",
+                        "r": 1.8,
+                        "pos": [
+                            7.5,
+                            0.0,
+                            0
+                        ],
+                        "inclusion": "3dpr"
+                    }
+                ]
+            ],
+            [
+                [
+                    {
+                        "type": "negative",
+                        "shape": "hole",
+                        "r": 1.8,
+                        "pos": [
+                            15.0,
+                            0.0,
+                            0
+                        ],
+                        "inclusion": "3dpr"
+                    }
+                ]
+            ],
+            [
+                [
+                    {
+                        "type": "negative",
+                        "shape": "hole",
+                        "r": 1.8,
+                        "pos": [
+                            22.5,
+                            0.0,
+                            0
+                        ],
+                        "inclusion": "3dpr"
+                    }
+                ]
+            ],
+            [
+                [
+                    {
+                        "type": "negative",
+                        "shape": "hole",
+                        "r": 1.8,
+                        "pos": [
+                            30.0,
+                            0.0,
+                            0
+                        ],
+                        "inclusion": "3dpr"
+                    }
+                ]
+            ],
+            [
+                [
+                    {
+                        "type": "negative",
+                        "shape": "hole",
+                        "r": 1.5,
+                        "pos": [
+                            -30.0,
+                            0.0,
+                            0
+                        ],
+                        "inclusion": "true"
+                    }
+                ]
+            ],
+            [
+                [
+                    {
+                        "type": "negative",
+                        "shape": "hole",
+                        "r": 1.5,
+                        "pos": [
+                            -22.5,
+                            0.0,
+                            0
+                        ],
+                        "inclusion": "true"
+                    }
+                ]
+            ],
+            [
+                [
+                    {
+                        "type": "negative",
+                        "shape": "hole",
+                        "r": 1.5,
+                        "pos": [
+                            -15.0,
+                            0.0,
+                            0
+                        ],
+                        "inclusion": "true"
+                    }
+                ]
+            ],
+            [
+                [
+                    {
+                        "type": "negative",
+                        "shape": "hole",
+                        "r": 1.5,
+                        "pos": [
+                            -7.5,
+                            0.0,
+                            0
+                        ],
+                        "inclusion": "true"
+                    }
+                ]
+            ],
+            [
+                [
+                    {
+                        "type": "negative",
+                        "shape": "hole",
+                        "r": 1.5,
+                        "pos": [
+                            0.0,
+                            0.0,
+                            0
+                        ],
+                        "inclusion": "true"
+                    }
+                ]
+            ],
+            [
+                [
+                    {
+                        "type": "negative",
+                        "shape": "hole",
+                        "r": 1.5,
+                        "pos": [
+                            7.5,
+                            0.0,
+                            0
+                        ],
+                        "inclusion": "true"
+                    }
+                ]
+            ],
+            [
+                [
+                    {
+                        "type": "negative",
+                        "shape": "hole",
+                        "r": 1.5,
+                        "pos": [
+                            15.0,
+                            0.0,
+                            0
+                        ],
+                        "inclusion": "true"
+                    }
+                ]
+            ],
+            [
+                [
+                    {
+                        "type": "negative",
+                        "shape": "hole",
+                        "r": 1.5,
+                        "pos": [
+                            22.5,
+                            0.0,
+                            0
+                        ],
+                        "inclusion": "true"
+                    }
+                ]
+            ],
+            [
+                [
+                    {
+                        "type": "negative",
+                        "shape": "hole",
+                        "r": 1.5,
+                        "pos": [
+                            30.0,
+                            0.0,
+                            0
+                        ],
+                        "inclusion": "true"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                {
+                    "type": "p",
+                    "shape": "text",
+                    "size": 57.0,
+                    "pos": [
+                        0,
+                        -5,
+                        0
+                    ],
+                    "height": 1,
+                    "width": 5,
+                    "text": "C",
+                    "valign": "top",
+                    "halign": "center",
+                    "font": "DejaVu Sans Mono:style=Bold",
+                    "extra": "c"
+                }
+            ]
+        ]
+    ],
+    "components_string": [
+        "oobb_plate_shape_p_type_1_depth_5_width_1_thickness_c_extra_oobb_size",
+        "oobb_holes_shape_n_type_5_width_1_thickness_c_extra_oobb_size_1_height_'all'_holes_true_both_holes"
+    ],
+    "components_objects": [
+        {
+            "type": "p",
+            "width": 5,
+            "thickness": 1,
+            "extra": "c",
+            "size": "oobb",
+            "shape": "oobb_plate",
+            "depth": 1,
+            "pos": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "type": "n",
+            "width": 5,
+            "thickness": 1,
+            "extra": "c",
+            "size": "oobb",
+            "shape": "oobb_holes",
+            "height": 1,
+            "holes": [
+                "all"
+            ],
+            "both_holes": true,
+            "m": "#",
+            "pos": [
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    "classification": "oobb",
+    "size": "bunting_alphabet",
+    "color": "",
+    "description_main": "5_width_1_mm_depth_c_extra",
+    "description_extra": "c_extra",
+    "manufacturer": "",
+    "part_number": "",
+    "short_name": "",
+    "link_redirect": "https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/oobb_bunting_alphabet_05_01_ex_c",
+    "link_main": "https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/bunting_alphabet/5_width_1_mm_depth_c_extra/c_extra/part",
+    "name": "Oobb Part Bunting Alphabet 5 Width 1 mm Depth C Extra C Extra",
+    "name_short": "Bunting Alphabet 5x1 C Extra C Extra",
+    "folder": "C:\\gh\\oomlout_oobb_version_4_generated_parts\\parts\\oobb_part_bunting_alphabet_5_width_1_mm_depth_c_extra_c_extra"
+}

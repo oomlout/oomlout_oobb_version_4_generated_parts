@@ -1,0 +1,254 @@
+bip_39_word_dash_12: bench-snap-scissors-shield-garage-tennis-cart-visa-proud-mirror-satoshi-above
+bip_39_word_dash_2: bench-snap
+bip_39_word_dash_3: bench-snap-scissors
+bip_39_word_new_br_12: bench<br>snap<br>scissors<br>shield<br>garage<br>tennis<br>cart<br>visa<br>proud<br>mirror<br>satoshi<br>above
+bip_39_word_new_br_2: bench<br>snap
+bip_39_word_new_br_3: bench<br>snap<br>scissors
+bip_39_word_new_line_12: 'bench
+
+  snap
+
+  scissors
+
+  shield
+
+  garage
+
+  tennis
+
+  cart
+
+  visa
+
+  proud
+
+  mirror
+
+  satoshi
+
+  above'
+bip_39_word_new_line_2: 'bench
+
+  snap'
+bip_39_word_new_line_3: 'bench
+
+  snap
+
+  scissors'
+bip_39_word_no_space_12: benchsnapscissorsshieldgaragetenniscartvisaproudmirrorsatoshiabove
+bip_39_word_no_space_2: benchsnap
+bip_39_word_no_space_3: benchsnapscissors
+bip_39_word_space_12: bench snap scissors shield garage tennis cart visa proud mirror
+  satoshi above
+bip_39_word_space_2: bench snap
+bip_39_word_space_3: bench snap scissors
+bip_39_word_underscore_12: bench_snap_scissors_shield_garage_tennis_cart_visa_proud_mirror_satoshi_above
+bip_39_word_underscore_2: bench_snap
+bip_39_word_underscore_3: bench_snap_scissors
+classification: oobb
+classification_length_1: o
+classification_length_2: oo
+classification_length_3: oob
+classification_length_4: oobb
+classification_length_5: oobb
+classification_length_6: oobb
+classification_name: Oobb
+classification_no_space_length_1: o
+classification_no_space_length_2: oo
+classification_no_space_length_3: oob
+classification_no_space_length_4: oobb
+classification_no_space_length_5: oobb
+classification_no_space_length_6: oobb
+classification_no_space_upper_length_1: O
+classification_no_space_upper_length_2: OO
+classification_no_space_upper_length_3: OOB
+classification_no_space_upper_length_4: OOBB
+classification_no_space_upper_length_5: OOBB
+classification_no_space_upper_length_6: OOBB
+classification_upper_length_1: O
+classification_upper_length_2: OO
+classification_upper_length_3: OOB
+classification_upper_length_4: OOBB
+classification_upper_length_5: OOBB
+classification_upper_length_6: OOBB
+color: ''
+color_name: ''
+components: []
+components_objects: []
+components_string: []
+description: pulley gt2 0x0x9
+description_extra: 48_teeth_extra
+description_extra_length_1: '4'
+description_extra_length_2: '48'
+description_extra_length_3: '48_'
+description_extra_length_4: 48_t
+description_extra_length_5: 48_te
+description_extra_length_6: 48_tee
+description_extra_name: 48 Teeth Extra
+description_extra_no_space_length_1: '4'
+description_extra_no_space_length_2: '48'
+description_extra_no_space_length_3: 48t
+description_extra_no_space_length_4: 48te
+description_extra_no_space_length_5: 48tee
+description_extra_no_space_length_6: 48teet
+description_extra_no_space_upper_length_1: '4'
+description_extra_no_space_upper_length_2: '48'
+description_extra_no_space_upper_length_3: 48T
+description_extra_no_space_upper_length_4: 48TE
+description_extra_no_space_upper_length_5: 48TEE
+description_extra_no_space_upper_length_6: 48TEET
+description_extra_upper_length_1: '4'
+description_extra_upper_length_2: '48'
+description_extra_upper_length_3: '48_'
+description_extra_upper_length_4: 48_T
+description_extra_upper_length_5: 48_TE
+description_extra_upper_length_6: 48_TEE
+description_main: 9_mm_depth_48_teeth_extra
+description_main_length_1: '9'
+description_main_length_2: '9_'
+description_main_length_3: 9_m
+description_main_length_4: 9_mm
+description_main_length_5: 9_mm_
+description_main_length_6: 9_mm_d
+description_main_name: 9 mm Depth 48 Teeth Extra
+description_main_no_space_length_1: '9'
+description_main_no_space_length_2: 9m
+description_main_no_space_length_3: 9mm
+description_main_no_space_length_4: 9mmd
+description_main_no_space_length_5: 9mmde
+description_main_no_space_length_6: 9mmdep
+description_main_no_space_upper_length_1: '9'
+description_main_no_space_upper_length_2: 9M
+description_main_no_space_upper_length_3: 9MM
+description_main_no_space_upper_length_4: 9MMD
+description_main_no_space_upper_length_5: 9MMDE
+description_main_no_space_upper_length_6: 9MMDEP
+description_main_upper_length_1: '9'
+description_main_upper_length_2: '9_'
+description_main_upper_length_3: 9_M
+description_main_upper_length_4: 9_MM
+description_main_upper_length_5: 9_MM_
+description_main_upper_length_6: 9_MM_D
+directory: parts/oobb_part_pulley_gt2_9_mm_depth_48_teeth_extra_48_teeth_extra
+extra: 48_teeth
+folder: C:\gh\oomlout_oobb_version_4_generated_parts\parts\oobb_part_pulley_gt2_9_mm_depth_48_teeth_extra_48_teeth_extra
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_9_mm_depth_48_teeth_extra_48_teeth_extra
+id: oobb_part_pulley_gt2_9_mm_depth_48_teeth_extra_48_teeth_extra
+id_no_class: part_pulley_gt2_9_mm_depth_48_teeth_extra_48_teeth_extra
+id_no_color: 9mmdepth48teethextra48teethextra
+id_no_size: 9_mm_depth_48_teeth_extra_48_teeth_extra
+id_no_type: pulley_gt2_9_mm_depth_48_teeth_extra_48_teeth_extra
+link_1: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/pulley_gt2/9_mm_depth_48_teeth_extra/48_teeth_extra/part
+link_1_name: link_main
+link_main: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/pulley_gt2/9_mm_depth_48_teeth_extra/48_teeth_extra/part
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20dc6b
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20dc6b
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%20dc6b
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20dc6b
+link_redirect: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/oobb_pulley_gt2_09_ex_48_teeth
+manufacturer: ''
+manufacturer_name: ''
+md5: 097ee36566f4a4637cafbc5b823350a8
+md5_10: 097ee36566
+md5_10_upper: 097EE36566
+md5_5: 097ee
+md5_5_upper: 097EE
+md5_6: 097ee3
+md5_6_alpha: dc6b
+md5_6_alpha_upper: DC6B
+md5_6_upper: 097EE3
+name: Oobb Part Pulley Gt2 9 mm Depth 48 Teeth Extra 48 Teeth Extra
+name_no_class: Part Pulley Gt2 9 mm Depth 48 Teeth Extra 48 Teeth Extra
+name_no_color: 9mmdepth48Teethextra48Teethextra
+name_no_size: 9 mm Depth 48 Teeth Extra 48 Teeth Extra
+name_no_type: Pulley Gt2 9 mm Depth 48 Teeth Extra 48 Teeth Extra
+name_short: Pulley Gt2 9 48 Teeth Extra 48 Teeth
+oomlout_detail_hierarchy_1: oobb
+oomlout_detail_hierarchy_1_upper: OOBB
+oomlout_detail_hierarchy_1_upper_length_4: OOBB
+oomlout_detail_hierarchy_2: part
+oomlout_detail_hierarchy_2_upper: PART
+oomlout_detail_hierarchy_2_upper_length_4: PART
+oomlout_detail_hierarchy_3: pulley_gt2
+oomlout_detail_hierarchy_3_upper: PULLEY_GT2
+oomlout_detail_hierarchy_3_upper_length_4: PULL
+oomlout_detail_hierarchy_4: 9_mm_depth
+oomlout_detail_hierarchy_4_upper: 9_MM_DEPTH
+oomlout_detail_hierarchy_4_upper_length_4: 9DEP
+oomlout_detail_hierarchy_5: 48_teeth_extra
+oomlout_detail_hierarchy_5_upper: 48_TEETH_EXTRA
+oomlout_detail_hierarchy_5_upper_length_4: 48_T
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_oobb_part_pulley_gt2_9_mm_depth_48_teeth_extra_48_teeth_extra
+oomp_word: angry fax rowboat
+oomp_word_emoji: ':angry: :fax: :rowboat:'
+oomp_word_emoji_list:
+- ':angry:'
+- ':fax:'
+- ':rowboat:'
+oomp_word_list:
+- angry
+- fax
+- rowboat
+part_number: ''
+part_number_name: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+shaft: ''
+short_name: ''
+size: pulley_gt2
+size_length_1: p
+size_length_2: pu
+size_length_3: pul
+size_length_4: pull
+size_length_5: pulle
+size_length_6: pulley
+size_name: Pulley Gt2
+size_no_space_length_1: p
+size_no_space_length_2: pu
+size_no_space_length_3: pul
+size_no_space_length_4: pull
+size_no_space_length_5: pulle
+size_no_space_length_6: pulley
+size_no_space_upper_length_1: P
+size_no_space_upper_length_2: PU
+size_no_space_upper_length_3: PUL
+size_no_space_upper_length_4: PULL
+size_no_space_upper_length_5: PULLE
+size_no_space_upper_length_6: PULLEY
+size_upper_length_1: P
+size_upper_length_2: PU
+size_upper_length_3: PUL
+size_upper_length_4: PULL
+size_upper_length_5: PULLE
+size_upper_length_6: PULLEY
+thickness: 9
+thickness_mm: 9
+type: part
+type_length_1: p
+type_length_2: pa
+type_length_3: par
+type_length_4: part
+type_length_5: part
+type_length_6: part
+type_name: Part
+type_no_space_length_1: p
+type_no_space_length_2: pa
+type_no_space_length_3: par
+type_no_space_length_4: part
+type_no_space_length_5: part
+type_no_space_length_6: part
+type_no_space_upper_length_1: P
+type_no_space_upper_length_2: PA
+type_no_space_upper_length_3: PAR
+type_no_space_upper_length_4: PART
+type_no_space_upper_length_5: PART
+type_no_space_upper_length_6: PART
+type_upper_length_1: P
+type_upper_length_2: PA
+type_upper_length_3: PAR
+type_upper_length_4: PART
+type_upper_length_5: PART
+type_upper_length_6: PART

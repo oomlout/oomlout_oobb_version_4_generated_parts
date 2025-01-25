@@ -681,7 +681,7 @@ components:
         -   -   -   clearance: top
                     depth: 41
                     extra: motor_servo_standard_01_bottom
-                    h: 53.2
+                    h: 253.2
                     height: 3
                     inclusion: 3dpr
                     pos:
@@ -1593,7 +1593,7 @@ components:
         -   -   -   clearance: top
                     depth: 41
                     extra: motor_servo_standard_01_bottom
-                    h: 53.2
+                    h: 253.2
                     height: 3
                     inclusion: 3dpr
                     pos:
@@ -2505,7 +2505,7 @@ components:
         -   -   -   clearance: top
                     depth: 41
                     extra: motor_servo_standard_01_bottom
-                    h: 53.2
+                    h: 253.2
                     height: 3
                     inclusion: 3dpr
                     pos:
@@ -3417,7 +3417,7 @@ components:
         -   -   -   clearance: top
                     depth: 41
                     extra: motor_servo_standard_01_bottom
-                    h: 53.2
+                    h: 253.2
                     height: 3
                     inclusion: 3dpr
                     pos:
@@ -4175,27 +4175,25 @@ components:
                         type: positive
                         width: 5
                 -   -   objects:
-                        -   clearance: bottom
-                            depth: 50
-                            height: 100
+                        -   depth: 250
+                            height: 250
                             inclusion: laser
                             pos:
                             - 0
                             - 0
-                            - -150
+                            - -250
                             r: 3.1734999999999998
                             shape: polyg
                             sides: 6
                             type: positive
                             width: 5
-                        -   -   -   -   -   -   clearance: bottom
-                                                depth: 50
+                        -   -   -   -   -   -   depth: 250
                                                 height: 3
                                                 inclusion: 3dpr
                                                 pos:
                                                 - -1.75
                                                 - -3.25
-                                                - -100.3
+                                                - -250.3
                                                 rotX: 0
                                                 rotY: 0
                                                 rotZ: 0
@@ -4206,14 +4204,13 @@ components:
                                                 - 0.3
                                                 type: positive
                                                 width: 5
-                                -   -   -   -   clearance: bottom
-                                                depth: 50
+                                -   -   -   -   depth: 250
                                                 height: 3
                                                 inclusion: 3dpr
                                                 pos:
                                                 - -1.75
                                                 - -1.75
-                                                - -100.6
+                                                - -250.60000000000002
                                                 rotX: 0
                                                 rotY: 0
                                                 rotZ: 0
@@ -4224,8 +4221,7 @@ components:
                                                 - 0.3
                                                 type: positive
                                                 width: 5
-                        -   -   -   -   -   -   clearance: bottom
-                                                depth: 50
+                        -   -   -   -   -   -   depth: 250
                                                 height: 3
                                                 inclusion: 3dpr
                                                 pos:
@@ -4242,8 +4238,7 @@ components:
                                                 - 0.3
                                                 type: positive
                                                 width: 5
-                                -   -   -   -   clearance: bottom
-                                                depth: 50
+                                -   -   -   -   depth: 250
                                                 height: 3
                                                 inclusion: 3dpr
                                                 pos:
@@ -4260,27 +4255,25 @@ components:
                                                 - 0.3
                                                 type: positive
                                                 width: 5
-                        -   clearance: bottom
-                            depth: 50
-                            height: 150
+                        -   depth: 250
+                            height: 250
                             inclusion: 3dpr
                             pos:
                             - 0
                             - 0
-                            - -200
+                            - -250
                             r: 3.4619999999999997
                             shape: polyg
                             sides: 6
                             type: positive
                             width: 5
-                        -   -   -   -   -   -   clearance: bottom
-                                                depth: 50
+                        -   -   -   -   -   -   depth: 250
                                                 height: 3
                                                 inclusion: 3dpr
                                                 pos:
                                                 - -1.75
                                                 - -3.25
-                                                - -150.3
+                                                - -250.3
                                                 rotX: 0
                                                 rotY: 0
                                                 rotZ: 0
@@ -4291,14 +4284,13 @@ components:
                                                 - 0.3
                                                 type: positive
                                                 width: 5
-                                -   -   -   -   clearance: bottom
-                                                depth: 50
+                                -   -   -   -   depth: 250
                                                 height: 3
                                                 inclusion: 3dpr
                                                 pos:
                                                 - -1.75
                                                 - -1.75
-                                                - -150.60000000000002
+                                                - -250.60000000000002
                                                 rotX: 0
                                                 rotY: 0
                                                 rotZ: 0
@@ -4309,8 +4301,7 @@ components:
                                                 - 0.3
                                                 type: positive
                                                 width: 5
-                        -   -   -   -   -   -   clearance: bottom
-                                                depth: 50
+                        -   -   -   -   -   -   depth: 250
                                                 height: 3
                                                 inclusion: 3dpr
                                                 pos:
@@ -4327,8 +4318,7 @@ components:
                                                 - 0.3
                                                 type: positive
                                                 width: 5
-                                -   -   -   -   clearance: bottom
-                                                depth: 50
+                                -   -   -   -   depth: 250
                                                 height: 3
                                                 inclusion: 3dpr
                                                 pos:
@@ -4345,9 +4335,8 @@ components:
                                                 - 0.3
                                                 type: positive
                                                 width: 5
-                        -   clearance: bottom
-                            depth: 50
-                            height: 200
+                        -   depth: 250
+                            height: 250
                             inclusion: 'true'
                             pos:
                             - 0
@@ -4358,14 +4347,13 @@ components:
                             sides: 6
                             type: positive
                             width: 5
-                        -   -   -   -   -   -   clearance: bottom
-                                                depth: 50
+                        -   -   -   -   -   -   depth: 250
                                                 height: 3
                                                 inclusion: 3dpr
                                                 pos:
                                                 - -1.75
                                                 - -3.25
-                                                - -200.3
+                                                - -250.3
                                                 rotX: 0
                                                 rotY: 0
                                                 rotZ: 0
@@ -4376,14 +4364,13 @@ components:
                                                 - 0.3
                                                 type: positive
                                                 width: 5
-                                -   -   -   -   clearance: bottom
-                                                depth: 50
+                                -   -   -   -   depth: 250
                                                 height: 3
                                                 inclusion: 3dpr
                                                 pos:
                                                 - -1.75
                                                 - -1.75
-                                                - -200.60000000000002
+                                                - -250.60000000000002
                                                 rotX: 0
                                                 rotY: 0
                                                 rotZ: 0
@@ -4394,8 +4381,7 @@ components:
                                                 - 0.3
                                                 type: positive
                                                 width: 5
-                        -   -   -   -   -   -   clearance: bottom
-                                                depth: 50
+                        -   -   -   -   -   -   depth: 250
                                                 height: 3
                                                 inclusion: 3dpr
                                                 pos:
@@ -4412,8 +4398,7 @@ components:
                                                 - 0.3
                                                 type: positive
                                                 width: 5
-                                -   -   -   -   clearance: bottom
-                                                depth: 50
+                                -   -   -   -   depth: 250
                                                 height: 3
                                                 inclusion: 3dpr
                                                 pos:
@@ -4433,7 +4418,7 @@ components:
                         pos:
                         - 0
                         - 0
-                        - 52.5
+                        - 2.5
                         rot:
                         - 0
                         - 0
@@ -4494,27 +4479,25 @@ components:
                         type: positive
                         width: 5
                 -   -   objects:
-                        -   clearance: bottom
-                            depth: 50
-                            height: 100
+                        -   depth: 250
+                            height: 250
                             inclusion: laser
                             pos:
                             - 0
                             - 0
-                            - -150
+                            - -250
                             r: 3.1734999999999998
                             shape: polyg
                             sides: 6
                             type: positive
                             width: 5
-                        -   -   -   -   -   -   clearance: bottom
-                                                depth: 50
+                        -   -   -   -   -   -   depth: 250
                                                 height: 3
                                                 inclusion: 3dpr
                                                 pos:
                                                 - -1.75
                                                 - -3.25
-                                                - -100.3
+                                                - -250.3
                                                 rotX: 0
                                                 rotY: 0
                                                 rotZ: 0
@@ -4525,14 +4508,13 @@ components:
                                                 - 0.3
                                                 type: positive
                                                 width: 5
-                                -   -   -   -   clearance: bottom
-                                                depth: 50
+                                -   -   -   -   depth: 250
                                                 height: 3
                                                 inclusion: 3dpr
                                                 pos:
                                                 - -1.75
                                                 - -1.75
-                                                - -100.6
+                                                - -250.60000000000002
                                                 rotX: 0
                                                 rotY: 0
                                                 rotZ: 0
@@ -4543,8 +4525,7 @@ components:
                                                 - 0.3
                                                 type: positive
                                                 width: 5
-                        -   -   -   -   -   -   clearance: bottom
-                                                depth: 50
+                        -   -   -   -   -   -   depth: 250
                                                 height: 3
                                                 inclusion: 3dpr
                                                 pos:
@@ -4561,8 +4542,7 @@ components:
                                                 - 0.3
                                                 type: positive
                                                 width: 5
-                                -   -   -   -   clearance: bottom
-                                                depth: 50
+                                -   -   -   -   depth: 250
                                                 height: 3
                                                 inclusion: 3dpr
                                                 pos:
@@ -4579,27 +4559,25 @@ components:
                                                 - 0.3
                                                 type: positive
                                                 width: 5
-                        -   clearance: bottom
-                            depth: 50
-                            height: 150
+                        -   depth: 250
+                            height: 250
                             inclusion: 3dpr
                             pos:
                             - 0
                             - 0
-                            - -200
+                            - -250
                             r: 3.4619999999999997
                             shape: polyg
                             sides: 6
                             type: positive
                             width: 5
-                        -   -   -   -   -   -   clearance: bottom
-                                                depth: 50
+                        -   -   -   -   -   -   depth: 250
                                                 height: 3
                                                 inclusion: 3dpr
                                                 pos:
                                                 - -1.75
                                                 - -3.25
-                                                - -150.3
+                                                - -250.3
                                                 rotX: 0
                                                 rotY: 0
                                                 rotZ: 0
@@ -4610,14 +4588,13 @@ components:
                                                 - 0.3
                                                 type: positive
                                                 width: 5
-                                -   -   -   -   clearance: bottom
-                                                depth: 50
+                                -   -   -   -   depth: 250
                                                 height: 3
                                                 inclusion: 3dpr
                                                 pos:
                                                 - -1.75
                                                 - -1.75
-                                                - -150.60000000000002
+                                                - -250.60000000000002
                                                 rotX: 0
                                                 rotY: 0
                                                 rotZ: 0
@@ -4628,8 +4605,7 @@ components:
                                                 - 0.3
                                                 type: positive
                                                 width: 5
-                        -   -   -   -   -   -   clearance: bottom
-                                                depth: 50
+                        -   -   -   -   -   -   depth: 250
                                                 height: 3
                                                 inclusion: 3dpr
                                                 pos:
@@ -4646,8 +4622,7 @@ components:
                                                 - 0.3
                                                 type: positive
                                                 width: 5
-                                -   -   -   -   clearance: bottom
-                                                depth: 50
+                                -   -   -   -   depth: 250
                                                 height: 3
                                                 inclusion: 3dpr
                                                 pos:
@@ -4664,9 +4639,8 @@ components:
                                                 - 0.3
                                                 type: positive
                                                 width: 5
-                        -   clearance: bottom
-                            depth: 50
-                            height: 200
+                        -   depth: 250
+                            height: 250
                             inclusion: 'true'
                             pos:
                             - 0
@@ -4677,14 +4651,13 @@ components:
                             sides: 6
                             type: positive
                             width: 5
-                        -   -   -   -   -   -   clearance: bottom
-                                                depth: 50
+                        -   -   -   -   -   -   depth: 250
                                                 height: 3
                                                 inclusion: 3dpr
                                                 pos:
                                                 - -1.75
                                                 - -3.25
-                                                - -200.3
+                                                - -250.3
                                                 rotX: 0
                                                 rotY: 0
                                                 rotZ: 0
@@ -4695,14 +4668,13 @@ components:
                                                 - 0.3
                                                 type: positive
                                                 width: 5
-                                -   -   -   -   clearance: bottom
-                                                depth: 50
+                                -   -   -   -   depth: 250
                                                 height: 3
                                                 inclusion: 3dpr
                                                 pos:
                                                 - -1.75
                                                 - -1.75
-                                                - -200.60000000000002
+                                                - -250.60000000000002
                                                 rotX: 0
                                                 rotY: 0
                                                 rotZ: 0
@@ -4713,8 +4685,7 @@ components:
                                                 - 0.3
                                                 type: positive
                                                 width: 5
-                        -   -   -   -   -   -   clearance: bottom
-                                                depth: 50
+                        -   -   -   -   -   -   depth: 250
                                                 height: 3
                                                 inclusion: 3dpr
                                                 pos:
@@ -4731,8 +4702,7 @@ components:
                                                 - 0.3
                                                 type: positive
                                                 width: 5
-                                -   -   -   -   clearance: bottom
-                                                depth: 50
+                                -   -   -   -   depth: 250
                                                 height: 3
                                                 inclusion: 3dpr
                                                 pos:
@@ -4752,7 +4722,7 @@ components:
                         pos:
                         - 0
                         - 0
-                        - 53.0
+                        - 3.0
                         rot:
                         - 0
                         - 0
@@ -4847,27 +4817,25 @@ components:
                         type: positive
                         width: 5
                 -   -   objects:
-                        -   clearance: bottom
-                            depth: 50
-                            height: 100
+                        -   depth: 250
+                            height: 250
                             inclusion: laser
                             pos:
                             - 0
                             - 0
-                            - -150
+                            - -250
                             r: 3.1734999999999998
                             shape: polyg
                             sides: 6
                             type: positive
                             width: 5
-                        -   -   -   -   -   -   clearance: bottom
-                                                depth: 50
+                        -   -   -   -   -   -   depth: 250
                                                 height: 3
                                                 inclusion: 3dpr
                                                 pos:
                                                 - -1.75
                                                 - -3.25
-                                                - -100.3
+                                                - -250.3
                                                 rotX: 0
                                                 rotY: 0
                                                 rotZ: 0
@@ -4878,14 +4846,13 @@ components:
                                                 - 0.3
                                                 type: positive
                                                 width: 5
-                                -   -   -   -   clearance: bottom
-                                                depth: 50
+                                -   -   -   -   depth: 250
                                                 height: 3
                                                 inclusion: 3dpr
                                                 pos:
                                                 - -1.75
                                                 - -1.75
-                                                - -100.6
+                                                - -250.60000000000002
                                                 rotX: 0
                                                 rotY: 0
                                                 rotZ: 0
@@ -4896,8 +4863,7 @@ components:
                                                 - 0.3
                                                 type: positive
                                                 width: 5
-                        -   -   -   -   -   -   clearance: bottom
-                                                depth: 50
+                        -   -   -   -   -   -   depth: 250
                                                 height: 3
                                                 inclusion: 3dpr
                                                 pos:
@@ -4914,8 +4880,7 @@ components:
                                                 - 0.3
                                                 type: positive
                                                 width: 5
-                                -   -   -   -   clearance: bottom
-                                                depth: 50
+                                -   -   -   -   depth: 250
                                                 height: 3
                                                 inclusion: 3dpr
                                                 pos:
@@ -4932,27 +4897,25 @@ components:
                                                 - 0.3
                                                 type: positive
                                                 width: 5
-                        -   clearance: bottom
-                            depth: 50
-                            height: 150
+                        -   depth: 250
+                            height: 250
                             inclusion: 3dpr
                             pos:
                             - 0
                             - 0
-                            - -200
+                            - -250
                             r: 3.4619999999999997
                             shape: polyg
                             sides: 6
                             type: positive
                             width: 5
-                        -   -   -   -   -   -   clearance: bottom
-                                                depth: 50
+                        -   -   -   -   -   -   depth: 250
                                                 height: 3
                                                 inclusion: 3dpr
                                                 pos:
                                                 - -1.75
                                                 - -3.25
-                                                - -150.3
+                                                - -250.3
                                                 rotX: 0
                                                 rotY: 0
                                                 rotZ: 0
@@ -4963,14 +4926,13 @@ components:
                                                 - 0.3
                                                 type: positive
                                                 width: 5
-                                -   -   -   -   clearance: bottom
-                                                depth: 50
+                                -   -   -   -   depth: 250
                                                 height: 3
                                                 inclusion: 3dpr
                                                 pos:
                                                 - -1.75
                                                 - -1.75
-                                                - -150.60000000000002
+                                                - -250.60000000000002
                                                 rotX: 0
                                                 rotY: 0
                                                 rotZ: 0
@@ -4981,8 +4943,7 @@ components:
                                                 - 0.3
                                                 type: positive
                                                 width: 5
-                        -   -   -   -   -   -   clearance: bottom
-                                                depth: 50
+                        -   -   -   -   -   -   depth: 250
                                                 height: 3
                                                 inclusion: 3dpr
                                                 pos:
@@ -4999,8 +4960,7 @@ components:
                                                 - 0.3
                                                 type: positive
                                                 width: 5
-                                -   -   -   -   clearance: bottom
-                                                depth: 50
+                                -   -   -   -   depth: 250
                                                 height: 3
                                                 inclusion: 3dpr
                                                 pos:
@@ -5017,9 +4977,8 @@ components:
                                                 - 0.3
                                                 type: positive
                                                 width: 5
-                        -   clearance: bottom
-                            depth: 50
-                            height: 200
+                        -   depth: 250
+                            height: 250
                             inclusion: 'true'
                             pos:
                             - 0
@@ -5030,14 +4989,13 @@ components:
                             sides: 6
                             type: positive
                             width: 5
-                        -   -   -   -   -   -   clearance: bottom
-                                                depth: 50
+                        -   -   -   -   -   -   depth: 250
                                                 height: 3
                                                 inclusion: 3dpr
                                                 pos:
                                                 - -1.75
                                                 - -3.25
-                                                - -200.3
+                                                - -250.3
                                                 rotX: 0
                                                 rotY: 0
                                                 rotZ: 0
@@ -5048,14 +5006,13 @@ components:
                                                 - 0.3
                                                 type: positive
                                                 width: 5
-                                -   -   -   -   clearance: bottom
-                                                depth: 50
+                                -   -   -   -   depth: 250
                                                 height: 3
                                                 inclusion: 3dpr
                                                 pos:
                                                 - -1.75
                                                 - -1.75
-                                                - -200.60000000000002
+                                                - -250.60000000000002
                                                 rotX: 0
                                                 rotY: 0
                                                 rotZ: 0
@@ -5066,8 +5023,7 @@ components:
                                                 - 0.3
                                                 type: positive
                                                 width: 5
-                        -   -   -   -   -   -   clearance: bottom
-                                                depth: 50
+                        -   -   -   -   -   -   depth: 250
                                                 height: 3
                                                 inclusion: 3dpr
                                                 pos:
@@ -5084,8 +5040,7 @@ components:
                                                 - 0.3
                                                 type: positive
                                                 width: 5
-                                -   -   -   -   clearance: bottom
-                                                depth: 50
+                                -   -   -   -   depth: 250
                                                 height: 3
                                                 inclusion: 3dpr
                                                 pos:
@@ -5105,7 +5060,7 @@ components:
                         pos:
                         - 0
                         - 0
-                        - 52.5
+                        - 2.5
                         rot:
                         - 0
                         - 0
@@ -5210,27 +5165,25 @@ components:
                         type: positive
                         width: 5
                 -   -   objects:
-                        -   clearance: bottom
-                            depth: 50
-                            height: 100
+                        -   depth: 250
+                            height: 250
                             inclusion: laser
                             pos:
                             - 0
                             - 0
-                            - -150
+                            - -250
                             r: 3.1734999999999998
                             shape: polyg
                             sides: 6
                             type: positive
                             width: 5
-                        -   -   -   -   -   -   clearance: bottom
-                                                depth: 50
+                        -   -   -   -   -   -   depth: 250
                                                 height: 3
                                                 inclusion: 3dpr
                                                 pos:
                                                 - -1.75
                                                 - -3.25
-                                                - -100.3
+                                                - -250.3
                                                 rotX: 0
                                                 rotY: 0
                                                 rotZ: 0
@@ -5241,14 +5194,13 @@ components:
                                                 - 0.3
                                                 type: positive
                                                 width: 5
-                                -   -   -   -   clearance: bottom
-                                                depth: 50
+                                -   -   -   -   depth: 250
                                                 height: 3
                                                 inclusion: 3dpr
                                                 pos:
                                                 - -1.75
                                                 - -1.75
-                                                - -100.6
+                                                - -250.60000000000002
                                                 rotX: 0
                                                 rotY: 0
                                                 rotZ: 0
@@ -5259,8 +5211,7 @@ components:
                                                 - 0.3
                                                 type: positive
                                                 width: 5
-                        -   -   -   -   -   -   clearance: bottom
-                                                depth: 50
+                        -   -   -   -   -   -   depth: 250
                                                 height: 3
                                                 inclusion: 3dpr
                                                 pos:
@@ -5277,8 +5228,7 @@ components:
                                                 - 0.3
                                                 type: positive
                                                 width: 5
-                                -   -   -   -   clearance: bottom
-                                                depth: 50
+                                -   -   -   -   depth: 250
                                                 height: 3
                                                 inclusion: 3dpr
                                                 pos:
@@ -5295,27 +5245,25 @@ components:
                                                 - 0.3
                                                 type: positive
                                                 width: 5
-                        -   clearance: bottom
-                            depth: 50
-                            height: 150
+                        -   depth: 250
+                            height: 250
                             inclusion: 3dpr
                             pos:
                             - 0
                             - 0
-                            - -200
+                            - -250
                             r: 3.4619999999999997
                             shape: polyg
                             sides: 6
                             type: positive
                             width: 5
-                        -   -   -   -   -   -   clearance: bottom
-                                                depth: 50
+                        -   -   -   -   -   -   depth: 250
                                                 height: 3
                                                 inclusion: 3dpr
                                                 pos:
                                                 - -1.75
                                                 - -3.25
-                                                - -150.3
+                                                - -250.3
                                                 rotX: 0
                                                 rotY: 0
                                                 rotZ: 0
@@ -5326,14 +5274,13 @@ components:
                                                 - 0.3
                                                 type: positive
                                                 width: 5
-                                -   -   -   -   clearance: bottom
-                                                depth: 50
+                                -   -   -   -   depth: 250
                                                 height: 3
                                                 inclusion: 3dpr
                                                 pos:
                                                 - -1.75
                                                 - -1.75
-                                                - -150.60000000000002
+                                                - -250.60000000000002
                                                 rotX: 0
                                                 rotY: 0
                                                 rotZ: 0
@@ -5344,8 +5291,7 @@ components:
                                                 - 0.3
                                                 type: positive
                                                 width: 5
-                        -   -   -   -   -   -   clearance: bottom
-                                                depth: 50
+                        -   -   -   -   -   -   depth: 250
                                                 height: 3
                                                 inclusion: 3dpr
                                                 pos:
@@ -5362,8 +5308,7 @@ components:
                                                 - 0.3
                                                 type: positive
                                                 width: 5
-                                -   -   -   -   clearance: bottom
-                                                depth: 50
+                                -   -   -   -   depth: 250
                                                 height: 3
                                                 inclusion: 3dpr
                                                 pos:
@@ -5380,9 +5325,8 @@ components:
                                                 - 0.3
                                                 type: positive
                                                 width: 5
-                        -   clearance: bottom
-                            depth: 50
-                            height: 200
+                        -   depth: 250
+                            height: 250
                             inclusion: 'true'
                             pos:
                             - 0
@@ -5393,14 +5337,13 @@ components:
                             sides: 6
                             type: positive
                             width: 5
-                        -   -   -   -   -   -   clearance: bottom
-                                                depth: 50
+                        -   -   -   -   -   -   depth: 250
                                                 height: 3
                                                 inclusion: 3dpr
                                                 pos:
                                                 - -1.75
                                                 - -3.25
-                                                - -200.3
+                                                - -250.3
                                                 rotX: 0
                                                 rotY: 0
                                                 rotZ: 0
@@ -5411,14 +5354,13 @@ components:
                                                 - 0.3
                                                 type: positive
                                                 width: 5
-                                -   -   -   -   clearance: bottom
-                                                depth: 50
+                                -   -   -   -   depth: 250
                                                 height: 3
                                                 inclusion: 3dpr
                                                 pos:
                                                 - -1.75
                                                 - -1.75
-                                                - -200.60000000000002
+                                                - -250.60000000000002
                                                 rotX: 0
                                                 rotY: 0
                                                 rotZ: 0
@@ -5429,8 +5371,7 @@ components:
                                                 - 0.3
                                                 type: positive
                                                 width: 5
-                        -   -   -   -   -   -   clearance: bottom
-                                                depth: 50
+                        -   -   -   -   -   -   depth: 250
                                                 height: 3
                                                 inclusion: 3dpr
                                                 pos:
@@ -5447,8 +5388,7 @@ components:
                                                 - 0.3
                                                 type: positive
                                                 width: 5
-                                -   -   -   -   clearance: bottom
-                                                depth: 50
+                                -   -   -   -   depth: 250
                                                 height: 3
                                                 inclusion: 3dpr
                                                 pos:
@@ -5468,7 +5408,7 @@ components:
                         pos:
                         - 0
                         - 0
-                        - 52.5
+                        - 2.5
                         rot:
                         - 0
                         - 0
@@ -5529,27 +5469,25 @@ components:
                         type: positive
                         width: 5
                 -   -   objects:
-                        -   clearance: bottom
-                            depth: 50
-                            height: 100
+                        -   depth: 250
+                            height: 250
                             inclusion: laser
                             pos:
                             - 0
                             - 0
-                            - -150
+                            - -250
                             r: 3.1734999999999998
                             shape: polyg
                             sides: 6
                             type: positive
                             width: 5
-                        -   -   -   -   -   -   clearance: bottom
-                                                depth: 50
+                        -   -   -   -   -   -   depth: 250
                                                 height: 3
                                                 inclusion: 3dpr
                                                 pos:
                                                 - -1.75
                                                 - -3.25
-                                                - -100.3
+                                                - -250.3
                                                 rotX: 0
                                                 rotY: 0
                                                 rotZ: 0
@@ -5560,14 +5498,13 @@ components:
                                                 - 0.3
                                                 type: positive
                                                 width: 5
-                                -   -   -   -   clearance: bottom
-                                                depth: 50
+                                -   -   -   -   depth: 250
                                                 height: 3
                                                 inclusion: 3dpr
                                                 pos:
                                                 - -1.75
                                                 - -1.75
-                                                - -100.6
+                                                - -250.60000000000002
                                                 rotX: 0
                                                 rotY: 0
                                                 rotZ: 0
@@ -5578,8 +5515,7 @@ components:
                                                 - 0.3
                                                 type: positive
                                                 width: 5
-                        -   -   -   -   -   -   clearance: bottom
-                                                depth: 50
+                        -   -   -   -   -   -   depth: 250
                                                 height: 3
                                                 inclusion: 3dpr
                                                 pos:
@@ -5596,8 +5532,7 @@ components:
                                                 - 0.3
                                                 type: positive
                                                 width: 5
-                                -   -   -   -   clearance: bottom
-                                                depth: 50
+                                -   -   -   -   depth: 250
                                                 height: 3
                                                 inclusion: 3dpr
                                                 pos:
@@ -5614,27 +5549,25 @@ components:
                                                 - 0.3
                                                 type: positive
                                                 width: 5
-                        -   clearance: bottom
-                            depth: 50
-                            height: 150
+                        -   depth: 250
+                            height: 250
                             inclusion: 3dpr
                             pos:
                             - 0
                             - 0
-                            - -200
+                            - -250
                             r: 3.4619999999999997
                             shape: polyg
                             sides: 6
                             type: positive
                             width: 5
-                        -   -   -   -   -   -   clearance: bottom
-                                                depth: 50
+                        -   -   -   -   -   -   depth: 250
                                                 height: 3
                                                 inclusion: 3dpr
                                                 pos:
                                                 - -1.75
                                                 - -3.25
-                                                - -150.3
+                                                - -250.3
                                                 rotX: 0
                                                 rotY: 0
                                                 rotZ: 0
@@ -5645,14 +5578,13 @@ components:
                                                 - 0.3
                                                 type: positive
                                                 width: 5
-                                -   -   -   -   clearance: bottom
-                                                depth: 50
+                                -   -   -   -   depth: 250
                                                 height: 3
                                                 inclusion: 3dpr
                                                 pos:
                                                 - -1.75
                                                 - -1.75
-                                                - -150.60000000000002
+                                                - -250.60000000000002
                                                 rotX: 0
                                                 rotY: 0
                                                 rotZ: 0
@@ -5663,8 +5595,7 @@ components:
                                                 - 0.3
                                                 type: positive
                                                 width: 5
-                        -   -   -   -   -   -   clearance: bottom
-                                                depth: 50
+                        -   -   -   -   -   -   depth: 250
                                                 height: 3
                                                 inclusion: 3dpr
                                                 pos:
@@ -5681,8 +5612,7 @@ components:
                                                 - 0.3
                                                 type: positive
                                                 width: 5
-                                -   -   -   -   clearance: bottom
-                                                depth: 50
+                                -   -   -   -   depth: 250
                                                 height: 3
                                                 inclusion: 3dpr
                                                 pos:
@@ -5699,9 +5629,8 @@ components:
                                                 - 0.3
                                                 type: positive
                                                 width: 5
-                        -   clearance: bottom
-                            depth: 50
-                            height: 200
+                        -   depth: 250
+                            height: 250
                             inclusion: 'true'
                             pos:
                             - 0
@@ -5712,14 +5641,13 @@ components:
                             sides: 6
                             type: positive
                             width: 5
-                        -   -   -   -   -   -   clearance: bottom
-                                                depth: 50
+                        -   -   -   -   -   -   depth: 250
                                                 height: 3
                                                 inclusion: 3dpr
                                                 pos:
                                                 - -1.75
                                                 - -3.25
-                                                - -200.3
+                                                - -250.3
                                                 rotX: 0
                                                 rotY: 0
                                                 rotZ: 0
@@ -5730,14 +5658,13 @@ components:
                                                 - 0.3
                                                 type: positive
                                                 width: 5
-                                -   -   -   -   clearance: bottom
-                                                depth: 50
+                                -   -   -   -   depth: 250
                                                 height: 3
                                                 inclusion: 3dpr
                                                 pos:
                                                 - -1.75
                                                 - -1.75
-                                                - -200.60000000000002
+                                                - -250.60000000000002
                                                 rotX: 0
                                                 rotY: 0
                                                 rotZ: 0
@@ -5748,8 +5675,7 @@ components:
                                                 - 0.3
                                                 type: positive
                                                 width: 5
-                        -   -   -   -   -   -   clearance: bottom
-                                                depth: 50
+                        -   -   -   -   -   -   depth: 250
                                                 height: 3
                                                 inclusion: 3dpr
                                                 pos:
@@ -5766,8 +5692,7 @@ components:
                                                 - 0.3
                                                 type: positive
                                                 width: 5
-                                -   -   -   -   clearance: bottom
-                                                depth: 50
+                                -   -   -   -   depth: 250
                                                 height: 3
                                                 inclusion: 3dpr
                                                 pos:
@@ -5787,7 +5712,7 @@ components:
                         pos:
                         - 0
                         - 0
-                        - 53.0
+                        - 3.0
                         rot:
                         - 0
                         - 0
@@ -5882,27 +5807,25 @@ components:
                         type: positive
                         width: 5
                 -   -   objects:
-                        -   clearance: bottom
-                            depth: 50
-                            height: 100
+                        -   depth: 250
+                            height: 250
                             inclusion: laser
                             pos:
                             - 0
                             - 0
-                            - -150
+                            - -250
                             r: 3.1734999999999998
                             shape: polyg
                             sides: 6
                             type: positive
                             width: 5
-                        -   -   -   -   -   -   clearance: bottom
-                                                depth: 50
+                        -   -   -   -   -   -   depth: 250
                                                 height: 3
                                                 inclusion: 3dpr
                                                 pos:
                                                 - -1.75
                                                 - -3.25
-                                                - -100.3
+                                                - -250.3
                                                 rotX: 0
                                                 rotY: 0
                                                 rotZ: 0
@@ -5913,14 +5836,13 @@ components:
                                                 - 0.3
                                                 type: positive
                                                 width: 5
-                                -   -   -   -   clearance: bottom
-                                                depth: 50
+                                -   -   -   -   depth: 250
                                                 height: 3
                                                 inclusion: 3dpr
                                                 pos:
                                                 - -1.75
                                                 - -1.75
-                                                - -100.6
+                                                - -250.60000000000002
                                                 rotX: 0
                                                 rotY: 0
                                                 rotZ: 0
@@ -5931,8 +5853,7 @@ components:
                                                 - 0.3
                                                 type: positive
                                                 width: 5
-                        -   -   -   -   -   -   clearance: bottom
-                                                depth: 50
+                        -   -   -   -   -   -   depth: 250
                                                 height: 3
                                                 inclusion: 3dpr
                                                 pos:
@@ -5949,8 +5870,7 @@ components:
                                                 - 0.3
                                                 type: positive
                                                 width: 5
-                                -   -   -   -   clearance: bottom
-                                                depth: 50
+                                -   -   -   -   depth: 250
                                                 height: 3
                                                 inclusion: 3dpr
                                                 pos:
@@ -5967,27 +5887,25 @@ components:
                                                 - 0.3
                                                 type: positive
                                                 width: 5
-                        -   clearance: bottom
-                            depth: 50
-                            height: 150
+                        -   depth: 250
+                            height: 250
                             inclusion: 3dpr
                             pos:
                             - 0
                             - 0
-                            - -200
+                            - -250
                             r: 3.4619999999999997
                             shape: polyg
                             sides: 6
                             type: positive
                             width: 5
-                        -   -   -   -   -   -   clearance: bottom
-                                                depth: 50
+                        -   -   -   -   -   -   depth: 250
                                                 height: 3
                                                 inclusion: 3dpr
                                                 pos:
                                                 - -1.75
                                                 - -3.25
-                                                - -150.3
+                                                - -250.3
                                                 rotX: 0
                                                 rotY: 0
                                                 rotZ: 0
@@ -5998,14 +5916,13 @@ components:
                                                 - 0.3
                                                 type: positive
                                                 width: 5
-                                -   -   -   -   clearance: bottom
-                                                depth: 50
+                                -   -   -   -   depth: 250
                                                 height: 3
                                                 inclusion: 3dpr
                                                 pos:
                                                 - -1.75
                                                 - -1.75
-                                                - -150.60000000000002
+                                                - -250.60000000000002
                                                 rotX: 0
                                                 rotY: 0
                                                 rotZ: 0
@@ -6016,8 +5933,7 @@ components:
                                                 - 0.3
                                                 type: positive
                                                 width: 5
-                        -   -   -   -   -   -   clearance: bottom
-                                                depth: 50
+                        -   -   -   -   -   -   depth: 250
                                                 height: 3
                                                 inclusion: 3dpr
                                                 pos:
@@ -6034,8 +5950,7 @@ components:
                                                 - 0.3
                                                 type: positive
                                                 width: 5
-                                -   -   -   -   clearance: bottom
-                                                depth: 50
+                                -   -   -   -   depth: 250
                                                 height: 3
                                                 inclusion: 3dpr
                                                 pos:
@@ -6052,9 +5967,8 @@ components:
                                                 - 0.3
                                                 type: positive
                                                 width: 5
-                        -   clearance: bottom
-                            depth: 50
-                            height: 200
+                        -   depth: 250
+                            height: 250
                             inclusion: 'true'
                             pos:
                             - 0
@@ -6065,14 +5979,13 @@ components:
                             sides: 6
                             type: positive
                             width: 5
-                        -   -   -   -   -   -   clearance: bottom
-                                                depth: 50
+                        -   -   -   -   -   -   depth: 250
                                                 height: 3
                                                 inclusion: 3dpr
                                                 pos:
                                                 - -1.75
                                                 - -3.25
-                                                - -200.3
+                                                - -250.3
                                                 rotX: 0
                                                 rotY: 0
                                                 rotZ: 0
@@ -6083,14 +5996,13 @@ components:
                                                 - 0.3
                                                 type: positive
                                                 width: 5
-                                -   -   -   -   clearance: bottom
-                                                depth: 50
+                                -   -   -   -   depth: 250
                                                 height: 3
                                                 inclusion: 3dpr
                                                 pos:
                                                 - -1.75
                                                 - -1.75
-                                                - -200.60000000000002
+                                                - -250.60000000000002
                                                 rotX: 0
                                                 rotY: 0
                                                 rotZ: 0
@@ -6101,8 +6013,7 @@ components:
                                                 - 0.3
                                                 type: positive
                                                 width: 5
-                        -   -   -   -   -   -   clearance: bottom
-                                                depth: 50
+                        -   -   -   -   -   -   depth: 250
                                                 height: 3
                                                 inclusion: 3dpr
                                                 pos:
@@ -6119,8 +6030,7 @@ components:
                                                 - 0.3
                                                 type: positive
                                                 width: 5
-                                -   -   -   -   clearance: bottom
-                                                depth: 50
+                                -   -   -   -   depth: 250
                                                 height: 3
                                                 inclusion: 3dpr
                                                 pos:
@@ -6140,7 +6050,7 @@ components:
                         pos:
                         - 0
                         - 0
-                        - 52.5
+                        - 2.5
                         rot:
                         - 0
                         - 0
@@ -6245,27 +6155,25 @@ components:
                         type: positive
                         width: 5
                 -   -   objects:
-                        -   clearance: bottom
-                            depth: 50
-                            height: 100
+                        -   depth: 250
+                            height: 250
                             inclusion: laser
                             pos:
                             - 0
                             - 0
-                            - -150
+                            - -250
                             r: 3.1734999999999998
                             shape: polyg
                             sides: 6
                             type: positive
                             width: 5
-                        -   -   -   -   -   -   clearance: bottom
-                                                depth: 50
+                        -   -   -   -   -   -   depth: 250
                                                 height: 3
                                                 inclusion: 3dpr
                                                 pos:
                                                 - -1.75
                                                 - -3.25
-                                                - -100.3
+                                                - -250.3
                                                 rotX: 0
                                                 rotY: 0
                                                 rotZ: 0
@@ -6276,14 +6184,13 @@ components:
                                                 - 0.3
                                                 type: positive
                                                 width: 5
-                                -   -   -   -   clearance: bottom
-                                                depth: 50
+                                -   -   -   -   depth: 250
                                                 height: 3
                                                 inclusion: 3dpr
                                                 pos:
                                                 - -1.75
                                                 - -1.75
-                                                - -100.6
+                                                - -250.60000000000002
                                                 rotX: 0
                                                 rotY: 0
                                                 rotZ: 0
@@ -6294,8 +6201,7 @@ components:
                                                 - 0.3
                                                 type: positive
                                                 width: 5
-                        -   -   -   -   -   -   clearance: bottom
-                                                depth: 50
+                        -   -   -   -   -   -   depth: 250
                                                 height: 3
                                                 inclusion: 3dpr
                                                 pos:
@@ -6312,8 +6218,7 @@ components:
                                                 - 0.3
                                                 type: positive
                                                 width: 5
-                                -   -   -   -   clearance: bottom
-                                                depth: 50
+                                -   -   -   -   depth: 250
                                                 height: 3
                                                 inclusion: 3dpr
                                                 pos:
@@ -6330,27 +6235,25 @@ components:
                                                 - 0.3
                                                 type: positive
                                                 width: 5
-                        -   clearance: bottom
-                            depth: 50
-                            height: 150
+                        -   depth: 250
+                            height: 250
                             inclusion: 3dpr
                             pos:
                             - 0
                             - 0
-                            - -200
+                            - -250
                             r: 3.4619999999999997
                             shape: polyg
                             sides: 6
                             type: positive
                             width: 5
-                        -   -   -   -   -   -   clearance: bottom
-                                                depth: 50
+                        -   -   -   -   -   -   depth: 250
                                                 height: 3
                                                 inclusion: 3dpr
                                                 pos:
                                                 - -1.75
                                                 - -3.25
-                                                - -150.3
+                                                - -250.3
                                                 rotX: 0
                                                 rotY: 0
                                                 rotZ: 0
@@ -6361,14 +6264,13 @@ components:
                                                 - 0.3
                                                 type: positive
                                                 width: 5
-                                -   -   -   -   clearance: bottom
-                                                depth: 50
+                                -   -   -   -   depth: 250
                                                 height: 3
                                                 inclusion: 3dpr
                                                 pos:
                                                 - -1.75
                                                 - -1.75
-                                                - -150.60000000000002
+                                                - -250.60000000000002
                                                 rotX: 0
                                                 rotY: 0
                                                 rotZ: 0
@@ -6379,8 +6281,7 @@ components:
                                                 - 0.3
                                                 type: positive
                                                 width: 5
-                        -   -   -   -   -   -   clearance: bottom
-                                                depth: 50
+                        -   -   -   -   -   -   depth: 250
                                                 height: 3
                                                 inclusion: 3dpr
                                                 pos:
@@ -6397,8 +6298,7 @@ components:
                                                 - 0.3
                                                 type: positive
                                                 width: 5
-                                -   -   -   -   clearance: bottom
-                                                depth: 50
+                                -   -   -   -   depth: 250
                                                 height: 3
                                                 inclusion: 3dpr
                                                 pos:
@@ -6415,9 +6315,8 @@ components:
                                                 - 0.3
                                                 type: positive
                                                 width: 5
-                        -   clearance: bottom
-                            depth: 50
-                            height: 200
+                        -   depth: 250
+                            height: 250
                             inclusion: 'true'
                             pos:
                             - 0
@@ -6428,14 +6327,13 @@ components:
                             sides: 6
                             type: positive
                             width: 5
-                        -   -   -   -   -   -   clearance: bottom
-                                                depth: 50
+                        -   -   -   -   -   -   depth: 250
                                                 height: 3
                                                 inclusion: 3dpr
                                                 pos:
                                                 - -1.75
                                                 - -3.25
-                                                - -200.3
+                                                - -250.3
                                                 rotX: 0
                                                 rotY: 0
                                                 rotZ: 0
@@ -6446,14 +6344,13 @@ components:
                                                 - 0.3
                                                 type: positive
                                                 width: 5
-                                -   -   -   -   clearance: bottom
-                                                depth: 50
+                                -   -   -   -   depth: 250
                                                 height: 3
                                                 inclusion: 3dpr
                                                 pos:
                                                 - -1.75
                                                 - -1.75
-                                                - -200.60000000000002
+                                                - -250.60000000000002
                                                 rotX: 0
                                                 rotY: 0
                                                 rotZ: 0
@@ -6464,8 +6361,7 @@ components:
                                                 - 0.3
                                                 type: positive
                                                 width: 5
-                        -   -   -   -   -   -   clearance: bottom
-                                                depth: 50
+                        -   -   -   -   -   -   depth: 250
                                                 height: 3
                                                 inclusion: 3dpr
                                                 pos:
@@ -6482,8 +6378,7 @@ components:
                                                 - 0.3
                                                 type: positive
                                                 width: 5
-                                -   -   -   -   clearance: bottom
-                                                depth: 50
+                                -   -   -   -   depth: 250
                                                 height: 3
                                                 inclusion: 3dpr
                                                 pos:
@@ -6503,7 +6398,7 @@ components:
                         pos:
                         - 0
                         - 0
-                        - 52.5
+                        - 2.5
                         rot:
                         - 0
                         - 0
@@ -6564,27 +6459,25 @@ components:
                         type: positive
                         width: 5
                 -   -   objects:
-                        -   clearance: bottom
-                            depth: 50
-                            height: 100
+                        -   depth: 250
+                            height: 250
                             inclusion: laser
                             pos:
                             - 0
                             - 0
-                            - -150
+                            - -250
                             r: 3.1734999999999998
                             shape: polyg
                             sides: 6
                             type: positive
                             width: 5
-                        -   -   -   -   -   -   clearance: bottom
-                                                depth: 50
+                        -   -   -   -   -   -   depth: 250
                                                 height: 3
                                                 inclusion: 3dpr
                                                 pos:
                                                 - -1.75
                                                 - -3.25
-                                                - -100.3
+                                                - -250.3
                                                 rotX: 0
                                                 rotY: 0
                                                 rotZ: 0
@@ -6595,14 +6488,13 @@ components:
                                                 - 0.3
                                                 type: positive
                                                 width: 5
-                                -   -   -   -   clearance: bottom
-                                                depth: 50
+                                -   -   -   -   depth: 250
                                                 height: 3
                                                 inclusion: 3dpr
                                                 pos:
                                                 - -1.75
                                                 - -1.75
-                                                - -100.6
+                                                - -250.60000000000002
                                                 rotX: 0
                                                 rotY: 0
                                                 rotZ: 0
@@ -6613,8 +6505,7 @@ components:
                                                 - 0.3
                                                 type: positive
                                                 width: 5
-                        -   -   -   -   -   -   clearance: bottom
-                                                depth: 50
+                        -   -   -   -   -   -   depth: 250
                                                 height: 3
                                                 inclusion: 3dpr
                                                 pos:
@@ -6631,8 +6522,7 @@ components:
                                                 - 0.3
                                                 type: positive
                                                 width: 5
-                                -   -   -   -   clearance: bottom
-                                                depth: 50
+                                -   -   -   -   depth: 250
                                                 height: 3
                                                 inclusion: 3dpr
                                                 pos:
@@ -6649,27 +6539,25 @@ components:
                                                 - 0.3
                                                 type: positive
                                                 width: 5
-                        -   clearance: bottom
-                            depth: 50
-                            height: 150
+                        -   depth: 250
+                            height: 250
                             inclusion: 3dpr
                             pos:
                             - 0
                             - 0
-                            - -200
+                            - -250
                             r: 3.4619999999999997
                             shape: polyg
                             sides: 6
                             type: positive
                             width: 5
-                        -   -   -   -   -   -   clearance: bottom
-                                                depth: 50
+                        -   -   -   -   -   -   depth: 250
                                                 height: 3
                                                 inclusion: 3dpr
                                                 pos:
                                                 - -1.75
                                                 - -3.25
-                                                - -150.3
+                                                - -250.3
                                                 rotX: 0
                                                 rotY: 0
                                                 rotZ: 0
@@ -6680,14 +6568,13 @@ components:
                                                 - 0.3
                                                 type: positive
                                                 width: 5
-                                -   -   -   -   clearance: bottom
-                                                depth: 50
+                                -   -   -   -   depth: 250
                                                 height: 3
                                                 inclusion: 3dpr
                                                 pos:
                                                 - -1.75
                                                 - -1.75
-                                                - -150.60000000000002
+                                                - -250.60000000000002
                                                 rotX: 0
                                                 rotY: 0
                                                 rotZ: 0
@@ -6698,8 +6585,7 @@ components:
                                                 - 0.3
                                                 type: positive
                                                 width: 5
-                        -   -   -   -   -   -   clearance: bottom
-                                                depth: 50
+                        -   -   -   -   -   -   depth: 250
                                                 height: 3
                                                 inclusion: 3dpr
                                                 pos:
@@ -6716,8 +6602,7 @@ components:
                                                 - 0.3
                                                 type: positive
                                                 width: 5
-                                -   -   -   -   clearance: bottom
-                                                depth: 50
+                                -   -   -   -   depth: 250
                                                 height: 3
                                                 inclusion: 3dpr
                                                 pos:
@@ -6734,9 +6619,8 @@ components:
                                                 - 0.3
                                                 type: positive
                                                 width: 5
-                        -   clearance: bottom
-                            depth: 50
-                            height: 200
+                        -   depth: 250
+                            height: 250
                             inclusion: 'true'
                             pos:
                             - 0
@@ -6747,14 +6631,13 @@ components:
                             sides: 6
                             type: positive
                             width: 5
-                        -   -   -   -   -   -   clearance: bottom
-                                                depth: 50
+                        -   -   -   -   -   -   depth: 250
                                                 height: 3
                                                 inclusion: 3dpr
                                                 pos:
                                                 - -1.75
                                                 - -3.25
-                                                - -200.3
+                                                - -250.3
                                                 rotX: 0
                                                 rotY: 0
                                                 rotZ: 0
@@ -6765,14 +6648,13 @@ components:
                                                 - 0.3
                                                 type: positive
                                                 width: 5
-                                -   -   -   -   clearance: bottom
-                                                depth: 50
+                                -   -   -   -   depth: 250
                                                 height: 3
                                                 inclusion: 3dpr
                                                 pos:
                                                 - -1.75
                                                 - -1.75
-                                                - -200.60000000000002
+                                                - -250.60000000000002
                                                 rotX: 0
                                                 rotY: 0
                                                 rotZ: 0
@@ -6783,8 +6665,7 @@ components:
                                                 - 0.3
                                                 type: positive
                                                 width: 5
-                        -   -   -   -   -   -   clearance: bottom
-                                                depth: 50
+                        -   -   -   -   -   -   depth: 250
                                                 height: 3
                                                 inclusion: 3dpr
                                                 pos:
@@ -6801,8 +6682,7 @@ components:
                                                 - 0.3
                                                 type: positive
                                                 width: 5
-                                -   -   -   -   clearance: bottom
-                                                depth: 50
+                                -   -   -   -   depth: 250
                                                 height: 3
                                                 inclusion: 3dpr
                                                 pos:
@@ -6822,7 +6702,7 @@ components:
                         pos:
                         - 0
                         - 0
-                        - 53.0
+                        - 3.0
                         rot:
                         - 0
                         - 0
@@ -6917,27 +6797,25 @@ components:
                         type: positive
                         width: 5
                 -   -   objects:
-                        -   clearance: bottom
-                            depth: 50
-                            height: 100
+                        -   depth: 250
+                            height: 250
                             inclusion: laser
                             pos:
                             - 0
                             - 0
-                            - -150
+                            - -250
                             r: 3.1734999999999998
                             shape: polyg
                             sides: 6
                             type: positive
                             width: 5
-                        -   -   -   -   -   -   clearance: bottom
-                                                depth: 50
+                        -   -   -   -   -   -   depth: 250
                                                 height: 3
                                                 inclusion: 3dpr
                                                 pos:
                                                 - -1.75
                                                 - -3.25
-                                                - -100.3
+                                                - -250.3
                                                 rotX: 0
                                                 rotY: 0
                                                 rotZ: 0
@@ -6948,14 +6826,13 @@ components:
                                                 - 0.3
                                                 type: positive
                                                 width: 5
-                                -   -   -   -   clearance: bottom
-                                                depth: 50
+                                -   -   -   -   depth: 250
                                                 height: 3
                                                 inclusion: 3dpr
                                                 pos:
                                                 - -1.75
                                                 - -1.75
-                                                - -100.6
+                                                - -250.60000000000002
                                                 rotX: 0
                                                 rotY: 0
                                                 rotZ: 0
@@ -6966,8 +6843,7 @@ components:
                                                 - 0.3
                                                 type: positive
                                                 width: 5
-                        -   -   -   -   -   -   clearance: bottom
-                                                depth: 50
+                        -   -   -   -   -   -   depth: 250
                                                 height: 3
                                                 inclusion: 3dpr
                                                 pos:
@@ -6984,8 +6860,7 @@ components:
                                                 - 0.3
                                                 type: positive
                                                 width: 5
-                                -   -   -   -   clearance: bottom
-                                                depth: 50
+                                -   -   -   -   depth: 250
                                                 height: 3
                                                 inclusion: 3dpr
                                                 pos:
@@ -7002,27 +6877,25 @@ components:
                                                 - 0.3
                                                 type: positive
                                                 width: 5
-                        -   clearance: bottom
-                            depth: 50
-                            height: 150
+                        -   depth: 250
+                            height: 250
                             inclusion: 3dpr
                             pos:
                             - 0
                             - 0
-                            - -200
+                            - -250
                             r: 3.4619999999999997
                             shape: polyg
                             sides: 6
                             type: positive
                             width: 5
-                        -   -   -   -   -   -   clearance: bottom
-                                                depth: 50
+                        -   -   -   -   -   -   depth: 250
                                                 height: 3
                                                 inclusion: 3dpr
                                                 pos:
                                                 - -1.75
                                                 - -3.25
-                                                - -150.3
+                                                - -250.3
                                                 rotX: 0
                                                 rotY: 0
                                                 rotZ: 0
@@ -7033,14 +6906,13 @@ components:
                                                 - 0.3
                                                 type: positive
                                                 width: 5
-                                -   -   -   -   clearance: bottom
-                                                depth: 50
+                                -   -   -   -   depth: 250
                                                 height: 3
                                                 inclusion: 3dpr
                                                 pos:
                                                 - -1.75
                                                 - -1.75
-                                                - -150.60000000000002
+                                                - -250.60000000000002
                                                 rotX: 0
                                                 rotY: 0
                                                 rotZ: 0
@@ -7051,8 +6923,7 @@ components:
                                                 - 0.3
                                                 type: positive
                                                 width: 5
-                        -   -   -   -   -   -   clearance: bottom
-                                                depth: 50
+                        -   -   -   -   -   -   depth: 250
                                                 height: 3
                                                 inclusion: 3dpr
                                                 pos:
@@ -7069,8 +6940,7 @@ components:
                                                 - 0.3
                                                 type: positive
                                                 width: 5
-                                -   -   -   -   clearance: bottom
-                                                depth: 50
+                                -   -   -   -   depth: 250
                                                 height: 3
                                                 inclusion: 3dpr
                                                 pos:
@@ -7087,9 +6957,8 @@ components:
                                                 - 0.3
                                                 type: positive
                                                 width: 5
-                        -   clearance: bottom
-                            depth: 50
-                            height: 200
+                        -   depth: 250
+                            height: 250
                             inclusion: 'true'
                             pos:
                             - 0
@@ -7100,14 +6969,13 @@ components:
                             sides: 6
                             type: positive
                             width: 5
-                        -   -   -   -   -   -   clearance: bottom
-                                                depth: 50
+                        -   -   -   -   -   -   depth: 250
                                                 height: 3
                                                 inclusion: 3dpr
                                                 pos:
                                                 - -1.75
                                                 - -3.25
-                                                - -200.3
+                                                - -250.3
                                                 rotX: 0
                                                 rotY: 0
                                                 rotZ: 0
@@ -7118,14 +6986,13 @@ components:
                                                 - 0.3
                                                 type: positive
                                                 width: 5
-                                -   -   -   -   clearance: bottom
-                                                depth: 50
+                                -   -   -   -   depth: 250
                                                 height: 3
                                                 inclusion: 3dpr
                                                 pos:
                                                 - -1.75
                                                 - -1.75
-                                                - -200.60000000000002
+                                                - -250.60000000000002
                                                 rotX: 0
                                                 rotY: 0
                                                 rotZ: 0
@@ -7136,8 +7003,7 @@ components:
                                                 - 0.3
                                                 type: positive
                                                 width: 5
-                        -   -   -   -   -   -   clearance: bottom
-                                                depth: 50
+                        -   -   -   -   -   -   depth: 250
                                                 height: 3
                                                 inclusion: 3dpr
                                                 pos:
@@ -7154,8 +7020,7 @@ components:
                                                 - 0.3
                                                 type: positive
                                                 width: 5
-                                -   -   -   -   clearance: bottom
-                                                depth: 50
+                                -   -   -   -   depth: 250
                                                 height: 3
                                                 inclusion: 3dpr
                                                 pos:
@@ -7175,7 +7040,7 @@ components:
                         pos:
                         - 0
                         - 0
-                        - 52.5
+                        - 2.5
                         rot:
                         - 0
                         - 0
@@ -7280,27 +7145,25 @@ components:
                         type: positive
                         width: 5
                 -   -   objects:
-                        -   clearance: bottom
-                            depth: 50
-                            height: 100
+                        -   depth: 250
+                            height: 250
                             inclusion: laser
                             pos:
                             - 0
                             - 0
-                            - -150
+                            - -250
                             r: 3.1734999999999998
                             shape: polyg
                             sides: 6
                             type: positive
                             width: 5
-                        -   -   -   -   -   -   clearance: bottom
-                                                depth: 50
+                        -   -   -   -   -   -   depth: 250
                                                 height: 3
                                                 inclusion: 3dpr
                                                 pos:
                                                 - -1.75
                                                 - -3.25
-                                                - -100.3
+                                                - -250.3
                                                 rotX: 0
                                                 rotY: 0
                                                 rotZ: 0
@@ -7311,14 +7174,13 @@ components:
                                                 - 0.3
                                                 type: positive
                                                 width: 5
-                                -   -   -   -   clearance: bottom
-                                                depth: 50
+                                -   -   -   -   depth: 250
                                                 height: 3
                                                 inclusion: 3dpr
                                                 pos:
                                                 - -1.75
                                                 - -1.75
-                                                - -100.6
+                                                - -250.60000000000002
                                                 rotX: 0
                                                 rotY: 0
                                                 rotZ: 0
@@ -7329,8 +7191,7 @@ components:
                                                 - 0.3
                                                 type: positive
                                                 width: 5
-                        -   -   -   -   -   -   clearance: bottom
-                                                depth: 50
+                        -   -   -   -   -   -   depth: 250
                                                 height: 3
                                                 inclusion: 3dpr
                                                 pos:
@@ -7347,8 +7208,7 @@ components:
                                                 - 0.3
                                                 type: positive
                                                 width: 5
-                                -   -   -   -   clearance: bottom
-                                                depth: 50
+                                -   -   -   -   depth: 250
                                                 height: 3
                                                 inclusion: 3dpr
                                                 pos:
@@ -7365,27 +7225,25 @@ components:
                                                 - 0.3
                                                 type: positive
                                                 width: 5
-                        -   clearance: bottom
-                            depth: 50
-                            height: 150
+                        -   depth: 250
+                            height: 250
                             inclusion: 3dpr
                             pos:
                             - 0
                             - 0
-                            - -200
+                            - -250
                             r: 3.4619999999999997
                             shape: polyg
                             sides: 6
                             type: positive
                             width: 5
-                        -   -   -   -   -   -   clearance: bottom
-                                                depth: 50
+                        -   -   -   -   -   -   depth: 250
                                                 height: 3
                                                 inclusion: 3dpr
                                                 pos:
                                                 - -1.75
                                                 - -3.25
-                                                - -150.3
+                                                - -250.3
                                                 rotX: 0
                                                 rotY: 0
                                                 rotZ: 0
@@ -7396,14 +7254,13 @@ components:
                                                 - 0.3
                                                 type: positive
                                                 width: 5
-                                -   -   -   -   clearance: bottom
-                                                depth: 50
+                                -   -   -   -   depth: 250
                                                 height: 3
                                                 inclusion: 3dpr
                                                 pos:
                                                 - -1.75
                                                 - -1.75
-                                                - -150.60000000000002
+                                                - -250.60000000000002
                                                 rotX: 0
                                                 rotY: 0
                                                 rotZ: 0
@@ -7414,8 +7271,7 @@ components:
                                                 - 0.3
                                                 type: positive
                                                 width: 5
-                        -   -   -   -   -   -   clearance: bottom
-                                                depth: 50
+                        -   -   -   -   -   -   depth: 250
                                                 height: 3
                                                 inclusion: 3dpr
                                                 pos:
@@ -7432,8 +7288,7 @@ components:
                                                 - 0.3
                                                 type: positive
                                                 width: 5
-                                -   -   -   -   clearance: bottom
-                                                depth: 50
+                                -   -   -   -   depth: 250
                                                 height: 3
                                                 inclusion: 3dpr
                                                 pos:
@@ -7450,9 +7305,8 @@ components:
                                                 - 0.3
                                                 type: positive
                                                 width: 5
-                        -   clearance: bottom
-                            depth: 50
-                            height: 200
+                        -   depth: 250
+                            height: 250
                             inclusion: 'true'
                             pos:
                             - 0
@@ -7463,14 +7317,13 @@ components:
                             sides: 6
                             type: positive
                             width: 5
-                        -   -   -   -   -   -   clearance: bottom
-                                                depth: 50
+                        -   -   -   -   -   -   depth: 250
                                                 height: 3
                                                 inclusion: 3dpr
                                                 pos:
                                                 - -1.75
                                                 - -3.25
-                                                - -200.3
+                                                - -250.3
                                                 rotX: 0
                                                 rotY: 0
                                                 rotZ: 0
@@ -7481,14 +7334,13 @@ components:
                                                 - 0.3
                                                 type: positive
                                                 width: 5
-                                -   -   -   -   clearance: bottom
-                                                depth: 50
+                                -   -   -   -   depth: 250
                                                 height: 3
                                                 inclusion: 3dpr
                                                 pos:
                                                 - -1.75
                                                 - -1.75
-                                                - -200.60000000000002
+                                                - -250.60000000000002
                                                 rotX: 0
                                                 rotY: 0
                                                 rotZ: 0
@@ -7499,8 +7351,7 @@ components:
                                                 - 0.3
                                                 type: positive
                                                 width: 5
-                        -   -   -   -   -   -   clearance: bottom
-                                                depth: 50
+                        -   -   -   -   -   -   depth: 250
                                                 height: 3
                                                 inclusion: 3dpr
                                                 pos:
@@ -7517,8 +7368,7 @@ components:
                                                 - 0.3
                                                 type: positive
                                                 width: 5
-                                -   -   -   -   clearance: bottom
-                                                depth: 50
+                                -   -   -   -   depth: 250
                                                 height: 3
                                                 inclusion: 3dpr
                                                 pos:
@@ -7538,7 +7388,7 @@ components:
                         pos:
                         - 0
                         - 0
-                        - 52.5
+                        - 2.5
                         rot:
                         - 0
                         - 0
@@ -7599,27 +7449,25 @@ components:
                         type: positive
                         width: 5
                 -   -   objects:
-                        -   clearance: bottom
-                            depth: 50
-                            height: 100
+                        -   depth: 250
+                            height: 250
                             inclusion: laser
                             pos:
                             - 0
                             - 0
-                            - -150
+                            - -250
                             r: 3.1734999999999998
                             shape: polyg
                             sides: 6
                             type: positive
                             width: 5
-                        -   -   -   -   -   -   clearance: bottom
-                                                depth: 50
+                        -   -   -   -   -   -   depth: 250
                                                 height: 3
                                                 inclusion: 3dpr
                                                 pos:
                                                 - -1.75
                                                 - -3.25
-                                                - -100.3
+                                                - -250.3
                                                 rotX: 0
                                                 rotY: 0
                                                 rotZ: 0
@@ -7630,14 +7478,13 @@ components:
                                                 - 0.3
                                                 type: positive
                                                 width: 5
-                                -   -   -   -   clearance: bottom
-                                                depth: 50
+                                -   -   -   -   depth: 250
                                                 height: 3
                                                 inclusion: 3dpr
                                                 pos:
                                                 - -1.75
                                                 - -1.75
-                                                - -100.6
+                                                - -250.60000000000002
                                                 rotX: 0
                                                 rotY: 0
                                                 rotZ: 0
@@ -7648,8 +7495,7 @@ components:
                                                 - 0.3
                                                 type: positive
                                                 width: 5
-                        -   -   -   -   -   -   clearance: bottom
-                                                depth: 50
+                        -   -   -   -   -   -   depth: 250
                                                 height: 3
                                                 inclusion: 3dpr
                                                 pos:
@@ -7666,8 +7512,7 @@ components:
                                                 - 0.3
                                                 type: positive
                                                 width: 5
-                                -   -   -   -   clearance: bottom
-                                                depth: 50
+                                -   -   -   -   depth: 250
                                                 height: 3
                                                 inclusion: 3dpr
                                                 pos:
@@ -7684,27 +7529,25 @@ components:
                                                 - 0.3
                                                 type: positive
                                                 width: 5
-                        -   clearance: bottom
-                            depth: 50
-                            height: 150
+                        -   depth: 250
+                            height: 250
                             inclusion: 3dpr
                             pos:
                             - 0
                             - 0
-                            - -200
+                            - -250
                             r: 3.4619999999999997
                             shape: polyg
                             sides: 6
                             type: positive
                             width: 5
-                        -   -   -   -   -   -   clearance: bottom
-                                                depth: 50
+                        -   -   -   -   -   -   depth: 250
                                                 height: 3
                                                 inclusion: 3dpr
                                                 pos:
                                                 - -1.75
                                                 - -3.25
-                                                - -150.3
+                                                - -250.3
                                                 rotX: 0
                                                 rotY: 0
                                                 rotZ: 0
@@ -7715,14 +7558,13 @@ components:
                                                 - 0.3
                                                 type: positive
                                                 width: 5
-                                -   -   -   -   clearance: bottom
-                                                depth: 50
+                                -   -   -   -   depth: 250
                                                 height: 3
                                                 inclusion: 3dpr
                                                 pos:
                                                 - -1.75
                                                 - -1.75
-                                                - -150.60000000000002
+                                                - -250.60000000000002
                                                 rotX: 0
                                                 rotY: 0
                                                 rotZ: 0
@@ -7733,8 +7575,7 @@ components:
                                                 - 0.3
                                                 type: positive
                                                 width: 5
-                        -   -   -   -   -   -   clearance: bottom
-                                                depth: 50
+                        -   -   -   -   -   -   depth: 250
                                                 height: 3
                                                 inclusion: 3dpr
                                                 pos:
@@ -7751,8 +7592,7 @@ components:
                                                 - 0.3
                                                 type: positive
                                                 width: 5
-                                -   -   -   -   clearance: bottom
-                                                depth: 50
+                                -   -   -   -   depth: 250
                                                 height: 3
                                                 inclusion: 3dpr
                                                 pos:
@@ -7769,9 +7609,8 @@ components:
                                                 - 0.3
                                                 type: positive
                                                 width: 5
-                        -   clearance: bottom
-                            depth: 50
-                            height: 200
+                        -   depth: 250
+                            height: 250
                             inclusion: 'true'
                             pos:
                             - 0
@@ -7782,14 +7621,13 @@ components:
                             sides: 6
                             type: positive
                             width: 5
-                        -   -   -   -   -   -   clearance: bottom
-                                                depth: 50
+                        -   -   -   -   -   -   depth: 250
                                                 height: 3
                                                 inclusion: 3dpr
                                                 pos:
                                                 - -1.75
                                                 - -3.25
-                                                - -200.3
+                                                - -250.3
                                                 rotX: 0
                                                 rotY: 0
                                                 rotZ: 0
@@ -7800,14 +7638,13 @@ components:
                                                 - 0.3
                                                 type: positive
                                                 width: 5
-                                -   -   -   -   clearance: bottom
-                                                depth: 50
+                                -   -   -   -   depth: 250
                                                 height: 3
                                                 inclusion: 3dpr
                                                 pos:
                                                 - -1.75
                                                 - -1.75
-                                                - -200.60000000000002
+                                                - -250.60000000000002
                                                 rotX: 0
                                                 rotY: 0
                                                 rotZ: 0
@@ -7818,8 +7655,7 @@ components:
                                                 - 0.3
                                                 type: positive
                                                 width: 5
-                        -   -   -   -   -   -   clearance: bottom
-                                                depth: 50
+                        -   -   -   -   -   -   depth: 250
                                                 height: 3
                                                 inclusion: 3dpr
                                                 pos:
@@ -7836,8 +7672,7 @@ components:
                                                 - 0.3
                                                 type: positive
                                                 width: 5
-                                -   -   -   -   clearance: bottom
-                                                depth: 50
+                                -   -   -   -   depth: 250
                                                 height: 3
                                                 inclusion: 3dpr
                                                 pos:
@@ -7857,7 +7692,7 @@ components:
                         pos:
                         - 0
                         - 0
-                        - 53.0
+                        - 3.0
                         rot:
                         - 0
                         - 0
@@ -7952,27 +7787,25 @@ components:
                         type: positive
                         width: 5
                 -   -   objects:
-                        -   clearance: bottom
-                            depth: 50
-                            height: 100
+                        -   depth: 250
+                            height: 250
                             inclusion: laser
                             pos:
                             - 0
                             - 0
-                            - -150
+                            - -250
                             r: 3.1734999999999998
                             shape: polyg
                             sides: 6
                             type: positive
                             width: 5
-                        -   -   -   -   -   -   clearance: bottom
-                                                depth: 50
+                        -   -   -   -   -   -   depth: 250
                                                 height: 3
                                                 inclusion: 3dpr
                                                 pos:
                                                 - -1.75
                                                 - -3.25
-                                                - -100.3
+                                                - -250.3
                                                 rotX: 0
                                                 rotY: 0
                                                 rotZ: 0
@@ -7983,14 +7816,13 @@ components:
                                                 - 0.3
                                                 type: positive
                                                 width: 5
-                                -   -   -   -   clearance: bottom
-                                                depth: 50
+                                -   -   -   -   depth: 250
                                                 height: 3
                                                 inclusion: 3dpr
                                                 pos:
                                                 - -1.75
                                                 - -1.75
-                                                - -100.6
+                                                - -250.60000000000002
                                                 rotX: 0
                                                 rotY: 0
                                                 rotZ: 0
@@ -8001,8 +7833,7 @@ components:
                                                 - 0.3
                                                 type: positive
                                                 width: 5
-                        -   -   -   -   -   -   clearance: bottom
-                                                depth: 50
+                        -   -   -   -   -   -   depth: 250
                                                 height: 3
                                                 inclusion: 3dpr
                                                 pos:
@@ -8019,8 +7850,7 @@ components:
                                                 - 0.3
                                                 type: positive
                                                 width: 5
-                                -   -   -   -   clearance: bottom
-                                                depth: 50
+                                -   -   -   -   depth: 250
                                                 height: 3
                                                 inclusion: 3dpr
                                                 pos:
@@ -8037,27 +7867,25 @@ components:
                                                 - 0.3
                                                 type: positive
                                                 width: 5
-                        -   clearance: bottom
-                            depth: 50
-                            height: 150
+                        -   depth: 250
+                            height: 250
                             inclusion: 3dpr
                             pos:
                             - 0
                             - 0
-                            - -200
+                            - -250
                             r: 3.4619999999999997
                             shape: polyg
                             sides: 6
                             type: positive
                             width: 5
-                        -   -   -   -   -   -   clearance: bottom
-                                                depth: 50
+                        -   -   -   -   -   -   depth: 250
                                                 height: 3
                                                 inclusion: 3dpr
                                                 pos:
                                                 - -1.75
                                                 - -3.25
-                                                - -150.3
+                                                - -250.3
                                                 rotX: 0
                                                 rotY: 0
                                                 rotZ: 0
@@ -8068,14 +7896,13 @@ components:
                                                 - 0.3
                                                 type: positive
                                                 width: 5
-                                -   -   -   -   clearance: bottom
-                                                depth: 50
+                                -   -   -   -   depth: 250
                                                 height: 3
                                                 inclusion: 3dpr
                                                 pos:
                                                 - -1.75
                                                 - -1.75
-                                                - -150.60000000000002
+                                                - -250.60000000000002
                                                 rotX: 0
                                                 rotY: 0
                                                 rotZ: 0
@@ -8086,8 +7913,7 @@ components:
                                                 - 0.3
                                                 type: positive
                                                 width: 5
-                        -   -   -   -   -   -   clearance: bottom
-                                                depth: 50
+                        -   -   -   -   -   -   depth: 250
                                                 height: 3
                                                 inclusion: 3dpr
                                                 pos:
@@ -8104,8 +7930,7 @@ components:
                                                 - 0.3
                                                 type: positive
                                                 width: 5
-                                -   -   -   -   clearance: bottom
-                                                depth: 50
+                                -   -   -   -   depth: 250
                                                 height: 3
                                                 inclusion: 3dpr
                                                 pos:
@@ -8122,9 +7947,8 @@ components:
                                                 - 0.3
                                                 type: positive
                                                 width: 5
-                        -   clearance: bottom
-                            depth: 50
-                            height: 200
+                        -   depth: 250
+                            height: 250
                             inclusion: 'true'
                             pos:
                             - 0
@@ -8135,14 +7959,13 @@ components:
                             sides: 6
                             type: positive
                             width: 5
-                        -   -   -   -   -   -   clearance: bottom
-                                                depth: 50
+                        -   -   -   -   -   -   depth: 250
                                                 height: 3
                                                 inclusion: 3dpr
                                                 pos:
                                                 - -1.75
                                                 - -3.25
-                                                - -200.3
+                                                - -250.3
                                                 rotX: 0
                                                 rotY: 0
                                                 rotZ: 0
@@ -8153,14 +7976,13 @@ components:
                                                 - 0.3
                                                 type: positive
                                                 width: 5
-                                -   -   -   -   clearance: bottom
-                                                depth: 50
+                                -   -   -   -   depth: 250
                                                 height: 3
                                                 inclusion: 3dpr
                                                 pos:
                                                 - -1.75
                                                 - -1.75
-                                                - -200.60000000000002
+                                                - -250.60000000000002
                                                 rotX: 0
                                                 rotY: 0
                                                 rotZ: 0
@@ -8171,8 +7993,7 @@ components:
                                                 - 0.3
                                                 type: positive
                                                 width: 5
-                        -   -   -   -   -   -   clearance: bottom
-                                                depth: 50
+                        -   -   -   -   -   -   depth: 250
                                                 height: 3
                                                 inclusion: 3dpr
                                                 pos:
@@ -8189,8 +8010,7 @@ components:
                                                 - 0.3
                                                 type: positive
                                                 width: 5
-                                -   -   -   -   clearance: bottom
-                                                depth: 50
+                                -   -   -   -   depth: 250
                                                 height: 3
                                                 inclusion: 3dpr
                                                 pos:
@@ -8210,7 +8030,7 @@ components:
                         pos:
                         - 0
                         - 0
-                        - 52.5
+                        - 2.5
                         rot:
                         - 0
                         - 0
