@@ -2,9 +2,9 @@ import os
 
 
 def main(**kwargs):
-    #import time
+    import time
     #wait an hour
-    #time.sleep(3600)
+    time.sleep(7200)
     #clone or pull oomlout_oompbuilder into temporary/oomlout_oomp_builder
     repo_url = "https://github.com/oomlout/oomlout_oomp_builder"
     repo_dir = "temporary\\oomlout_oomp_builder"
