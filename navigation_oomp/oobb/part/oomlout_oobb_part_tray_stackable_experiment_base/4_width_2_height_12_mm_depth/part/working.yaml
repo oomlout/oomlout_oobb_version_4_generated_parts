@@ -1,68 +1,9 @@
-bip_39_word_dash_1: album
-bip_39_word_dash_10: album-title-correct-own-doll-liberty-onion-spice-pride-grass
-bip_39_word_dash_11: album-title-correct-own-doll-liberty-onion-spice-pride-grass-hollow
 bip_39_word_dash_12: album-title-correct-own-doll-liberty-onion-spice-pride-grass-hollow-acquire
 bip_39_word_dash_2: album-title
 bip_39_word_dash_3: album-title-correct
-bip_39_word_dash_4: album-title-correct-own
-bip_39_word_dash_5: album-title-correct-own-doll
-bip_39_word_dash_6: album-title-correct-own-doll-liberty
-bip_39_word_dash_7: album-title-correct-own-doll-liberty-onion
-bip_39_word_dash_8: album-title-correct-own-doll-liberty-onion-spice
-bip_39_word_dash_9: album-title-correct-own-doll-liberty-onion-spice-pride
-bip_39_word_new_br_1: album
-bip_39_word_new_br_10: album<br>title<br>correct<br>own<br>doll<br>liberty<br>onion<br>spice<br>pride<br>grass
-bip_39_word_new_br_11: album<br>title<br>correct<br>own<br>doll<br>liberty<br>onion<br>spice<br>pride<br>grass<br>hollow
 bip_39_word_new_br_12: album<br>title<br>correct<br>own<br>doll<br>liberty<br>onion<br>spice<br>pride<br>grass<br>hollow<br>acquire
 bip_39_word_new_br_2: album<br>title
 bip_39_word_new_br_3: album<br>title<br>correct
-bip_39_word_new_br_4: album<br>title<br>correct<br>own
-bip_39_word_new_br_5: album<br>title<br>correct<br>own<br>doll
-bip_39_word_new_br_6: album<br>title<br>correct<br>own<br>doll<br>liberty
-bip_39_word_new_br_7: album<br>title<br>correct<br>own<br>doll<br>liberty<br>onion
-bip_39_word_new_br_8: album<br>title<br>correct<br>own<br>doll<br>liberty<br>onion<br>spice
-bip_39_word_new_br_9: album<br>title<br>correct<br>own<br>doll<br>liberty<br>onion<br>spice<br>pride
-bip_39_word_new_line_1: album
-bip_39_word_new_line_10: 'album
-
-  title
-
-  correct
-
-  own
-
-  doll
-
-  liberty
-
-  onion
-
-  spice
-
-  pride
-
-  grass'
-bip_39_word_new_line_11: 'album
-
-  title
-
-  correct
-
-  own
-
-  doll
-
-  liberty
-
-  onion
-
-  spice
-
-  pride
-
-  grass
-
-  hollow'
 bip_39_word_new_line_12: 'album
 
   title
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'album
   title
 
   correct'
-bip_39_word_new_line_4: 'album
-
-  title
-
-  correct
-
-  own'
-bip_39_word_new_line_5: 'album
-
-  title
-
-  correct
-
-  own
-
-  doll'
-bip_39_word_new_line_6: 'album
-
-  title
-
-  correct
-
-  own
-
-  doll
-
-  liberty'
-bip_39_word_new_line_7: 'album
-
-  title
-
-  correct
-
-  own
-
-  doll
-
-  liberty
-
-  onion'
-bip_39_word_new_line_8: 'album
-
-  title
-
-  correct
-
-  own
-
-  doll
-
-  liberty
-
-  onion
-
-  spice'
-bip_39_word_new_line_9: 'album
-
-  title
-
-  correct
-
-  own
-
-  doll
-
-  liberty
-
-  onion
-
-  spice
-
-  pride'
-bip_39_word_no_space_1: album
-bip_39_word_no_space_10: albumtitlecorrectowndolllibertyonionspicepridegrass
-bip_39_word_no_space_11: albumtitlecorrectowndolllibertyonionspicepridegrasshollow
 bip_39_word_no_space_12: albumtitlecorrectowndolllibertyonionspicepridegrasshollowacquire
 bip_39_word_no_space_2: albumtitle
 bip_39_word_no_space_3: albumtitlecorrect
-bip_39_word_no_space_4: albumtitlecorrectown
-bip_39_word_no_space_5: albumtitlecorrectowndoll
-bip_39_word_no_space_6: albumtitlecorrectowndollliberty
-bip_39_word_no_space_7: albumtitlecorrectowndolllibertyonion
-bip_39_word_no_space_8: albumtitlecorrectowndolllibertyonionspice
-bip_39_word_no_space_9: albumtitlecorrectowndolllibertyonionspicepride
-bip_39_word_space_0:
-- album
-- title
-- correct
-- own
-- doll
-- liberty
-- onion
-- spice
-- pride
-- grass
-- hollow
-- acquire
-bip_39_word_space_1: album
-bip_39_word_space_10: album title correct own doll liberty onion spice pride grass
-bip_39_word_space_11: album title correct own doll liberty onion spice pride grass
-  hollow
 bip_39_word_space_12: album title correct own doll liberty onion spice pride grass
   hollow acquire
 bip_39_word_space_2: album title
 bip_39_word_space_3: album title correct
-bip_39_word_space_4: album title correct own
-bip_39_word_space_5: album title correct own doll
-bip_39_word_space_6: album title correct own doll liberty
-bip_39_word_space_7: album title correct own doll liberty onion
-bip_39_word_space_8: album title correct own doll liberty onion spice
-bip_39_word_space_9: album title correct own doll liberty onion spice pride
-bip_39_word_underscore_1: album
-bip_39_word_underscore_10: album_title_correct_own_doll_liberty_onion_spice_pride_grass
-bip_39_word_underscore_11: album_title_correct_own_doll_liberty_onion_spice_pride_grass_hollow
 bip_39_word_underscore_12: album_title_correct_own_doll_liberty_onion_spice_pride_grass_hollow_acquire
 bip_39_word_underscore_2: album_title
 bip_39_word_underscore_3: album_title_correct
-bip_39_word_underscore_4: album_title_correct_own
-bip_39_word_underscore_5: album_title_correct_own_doll
-bip_39_word_underscore_6: album_title_correct_own_doll_liberty
-bip_39_word_underscore_7: album_title_correct_own_doll_liberty_onion
-bip_39_word_underscore_8: album_title_correct_own_doll_liberty_onion_spice
-bip_39_word_underscore_9: album_title_correct_own_doll_liberty_onion_spice_pride
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

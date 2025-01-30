@@ -1,68 +1,9 @@
-bip_39_word_dash_1: hill
-bip_39_word_dash_10: hill-spare-network-success-donor-honey-kit-current-cousin-bread
-bip_39_word_dash_11: hill-spare-network-success-donor-honey-kit-current-cousin-bread-flush
 bip_39_word_dash_12: hill-spare-network-success-donor-honey-kit-current-cousin-bread-flush-art
 bip_39_word_dash_2: hill-spare
 bip_39_word_dash_3: hill-spare-network
-bip_39_word_dash_4: hill-spare-network-success
-bip_39_word_dash_5: hill-spare-network-success-donor
-bip_39_word_dash_6: hill-spare-network-success-donor-honey
-bip_39_word_dash_7: hill-spare-network-success-donor-honey-kit
-bip_39_word_dash_8: hill-spare-network-success-donor-honey-kit-current
-bip_39_word_dash_9: hill-spare-network-success-donor-honey-kit-current-cousin
-bip_39_word_new_br_1: hill
-bip_39_word_new_br_10: hill<br>spare<br>network<br>success<br>donor<br>honey<br>kit<br>current<br>cousin<br>bread
-bip_39_word_new_br_11: hill<br>spare<br>network<br>success<br>donor<br>honey<br>kit<br>current<br>cousin<br>bread<br>flush
 bip_39_word_new_br_12: hill<br>spare<br>network<br>success<br>donor<br>honey<br>kit<br>current<br>cousin<br>bread<br>flush<br>art
 bip_39_word_new_br_2: hill<br>spare
 bip_39_word_new_br_3: hill<br>spare<br>network
-bip_39_word_new_br_4: hill<br>spare<br>network<br>success
-bip_39_word_new_br_5: hill<br>spare<br>network<br>success<br>donor
-bip_39_word_new_br_6: hill<br>spare<br>network<br>success<br>donor<br>honey
-bip_39_word_new_br_7: hill<br>spare<br>network<br>success<br>donor<br>honey<br>kit
-bip_39_word_new_br_8: hill<br>spare<br>network<br>success<br>donor<br>honey<br>kit<br>current
-bip_39_word_new_br_9: hill<br>spare<br>network<br>success<br>donor<br>honey<br>kit<br>current<br>cousin
-bip_39_word_new_line_1: hill
-bip_39_word_new_line_10: 'hill
-
-  spare
-
-  network
-
-  success
-
-  donor
-
-  honey
-
-  kit
-
-  current
-
-  cousin
-
-  bread'
-bip_39_word_new_line_11: 'hill
-
-  spare
-
-  network
-
-  success
-
-  donor
-
-  honey
-
-  kit
-
-  current
-
-  cousin
-
-  bread
-
-  flush'
 bip_39_word_new_line_12: 'hill
 
   spare
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'hill
   spare
 
   network'
-bip_39_word_new_line_4: 'hill
-
-  spare
-
-  network
-
-  success'
-bip_39_word_new_line_5: 'hill
-
-  spare
-
-  network
-
-  success
-
-  donor'
-bip_39_word_new_line_6: 'hill
-
-  spare
-
-  network
-
-  success
-
-  donor
-
-  honey'
-bip_39_word_new_line_7: 'hill
-
-  spare
-
-  network
-
-  success
-
-  donor
-
-  honey
-
-  kit'
-bip_39_word_new_line_8: 'hill
-
-  spare
-
-  network
-
-  success
-
-  donor
-
-  honey
-
-  kit
-
-  current'
-bip_39_word_new_line_9: 'hill
-
-  spare
-
-  network
-
-  success
-
-  donor
-
-  honey
-
-  kit
-
-  current
-
-  cousin'
-bip_39_word_no_space_1: hill
-bip_39_word_no_space_10: hillsparenetworksuccessdonorhoneykitcurrentcousinbread
-bip_39_word_no_space_11: hillsparenetworksuccessdonorhoneykitcurrentcousinbreadflush
 bip_39_word_no_space_12: hillsparenetworksuccessdonorhoneykitcurrentcousinbreadflushart
 bip_39_word_no_space_2: hillspare
 bip_39_word_no_space_3: hillsparenetwork
-bip_39_word_no_space_4: hillsparenetworksuccess
-bip_39_word_no_space_5: hillsparenetworksuccessdonor
-bip_39_word_no_space_6: hillsparenetworksuccessdonorhoney
-bip_39_word_no_space_7: hillsparenetworksuccessdonorhoneykit
-bip_39_word_no_space_8: hillsparenetworksuccessdonorhoneykitcurrent
-bip_39_word_no_space_9: hillsparenetworksuccessdonorhoneykitcurrentcousin
-bip_39_word_space_0:
-- hill
-- spare
-- network
-- success
-- donor
-- honey
-- kit
-- current
-- cousin
-- bread
-- flush
-- art
-bip_39_word_space_1: hill
-bip_39_word_space_10: hill spare network success donor honey kit current cousin bread
-bip_39_word_space_11: hill spare network success donor honey kit current cousin bread
-  flush
 bip_39_word_space_12: hill spare network success donor honey kit current cousin bread
   flush art
 bip_39_word_space_2: hill spare
 bip_39_word_space_3: hill spare network
-bip_39_word_space_4: hill spare network success
-bip_39_word_space_5: hill spare network success donor
-bip_39_word_space_6: hill spare network success donor honey
-bip_39_word_space_7: hill spare network success donor honey kit
-bip_39_word_space_8: hill spare network success donor honey kit current
-bip_39_word_space_9: hill spare network success donor honey kit current cousin
-bip_39_word_underscore_1: hill
-bip_39_word_underscore_10: hill_spare_network_success_donor_honey_kit_current_cousin_bread
-bip_39_word_underscore_11: hill_spare_network_success_donor_honey_kit_current_cousin_bread_flush
 bip_39_word_underscore_12: hill_spare_network_success_donor_honey_kit_current_cousin_bread_flush_art
 bip_39_word_underscore_2: hill_spare
 bip_39_word_underscore_3: hill_spare_network
-bip_39_word_underscore_4: hill_spare_network_success
-bip_39_word_underscore_5: hill_spare_network_success_donor
-bip_39_word_underscore_6: hill_spare_network_success_donor_honey
-bip_39_word_underscore_7: hill_spare_network_success_donor_honey_kit
-bip_39_word_underscore_8: hill_spare_network_success_donor_honey_kit_current
-bip_39_word_underscore_9: hill_spare_network_success_donor_honey_kit_current_cousin
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

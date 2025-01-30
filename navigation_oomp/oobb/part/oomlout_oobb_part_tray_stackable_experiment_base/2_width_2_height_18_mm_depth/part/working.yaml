@@ -1,68 +1,9 @@
-bip_39_word_dash_1: gas
-bip_39_word_dash_10: gas-tomorrow-topic-sell-leaf-heavy-second-inherit-side-raise
-bip_39_word_dash_11: gas-tomorrow-topic-sell-leaf-heavy-second-inherit-side-raise-day
 bip_39_word_dash_12: gas-tomorrow-topic-sell-leaf-heavy-second-inherit-side-raise-day-alcohol
 bip_39_word_dash_2: gas-tomorrow
 bip_39_word_dash_3: gas-tomorrow-topic
-bip_39_word_dash_4: gas-tomorrow-topic-sell
-bip_39_word_dash_5: gas-tomorrow-topic-sell-leaf
-bip_39_word_dash_6: gas-tomorrow-topic-sell-leaf-heavy
-bip_39_word_dash_7: gas-tomorrow-topic-sell-leaf-heavy-second
-bip_39_word_dash_8: gas-tomorrow-topic-sell-leaf-heavy-second-inherit
-bip_39_word_dash_9: gas-tomorrow-topic-sell-leaf-heavy-second-inherit-side
-bip_39_word_new_br_1: gas
-bip_39_word_new_br_10: gas<br>tomorrow<br>topic<br>sell<br>leaf<br>heavy<br>second<br>inherit<br>side<br>raise
-bip_39_word_new_br_11: gas<br>tomorrow<br>topic<br>sell<br>leaf<br>heavy<br>second<br>inherit<br>side<br>raise<br>day
 bip_39_word_new_br_12: gas<br>tomorrow<br>topic<br>sell<br>leaf<br>heavy<br>second<br>inherit<br>side<br>raise<br>day<br>alcohol
 bip_39_word_new_br_2: gas<br>tomorrow
 bip_39_word_new_br_3: gas<br>tomorrow<br>topic
-bip_39_word_new_br_4: gas<br>tomorrow<br>topic<br>sell
-bip_39_word_new_br_5: gas<br>tomorrow<br>topic<br>sell<br>leaf
-bip_39_word_new_br_6: gas<br>tomorrow<br>topic<br>sell<br>leaf<br>heavy
-bip_39_word_new_br_7: gas<br>tomorrow<br>topic<br>sell<br>leaf<br>heavy<br>second
-bip_39_word_new_br_8: gas<br>tomorrow<br>topic<br>sell<br>leaf<br>heavy<br>second<br>inherit
-bip_39_word_new_br_9: gas<br>tomorrow<br>topic<br>sell<br>leaf<br>heavy<br>second<br>inherit<br>side
-bip_39_word_new_line_1: gas
-bip_39_word_new_line_10: 'gas
-
-  tomorrow
-
-  topic
-
-  sell
-
-  leaf
-
-  heavy
-
-  second
-
-  inherit
-
-  side
-
-  raise'
-bip_39_word_new_line_11: 'gas
-
-  tomorrow
-
-  topic
-
-  sell
-
-  leaf
-
-  heavy
-
-  second
-
-  inherit
-
-  side
-
-  raise
-
-  day'
 bip_39_word_new_line_12: 'gas
 
   tomorrow
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'gas
   tomorrow
 
   topic'
-bip_39_word_new_line_4: 'gas
-
-  tomorrow
-
-  topic
-
-  sell'
-bip_39_word_new_line_5: 'gas
-
-  tomorrow
-
-  topic
-
-  sell
-
-  leaf'
-bip_39_word_new_line_6: 'gas
-
-  tomorrow
-
-  topic
-
-  sell
-
-  leaf
-
-  heavy'
-bip_39_word_new_line_7: 'gas
-
-  tomorrow
-
-  topic
-
-  sell
-
-  leaf
-
-  heavy
-
-  second'
-bip_39_word_new_line_8: 'gas
-
-  tomorrow
-
-  topic
-
-  sell
-
-  leaf
-
-  heavy
-
-  second
-
-  inherit'
-bip_39_word_new_line_9: 'gas
-
-  tomorrow
-
-  topic
-
-  sell
-
-  leaf
-
-  heavy
-
-  second
-
-  inherit
-
-  side'
-bip_39_word_no_space_1: gas
-bip_39_word_no_space_10: gastomorrowtopicsellleafheavysecondinheritsideraise
-bip_39_word_no_space_11: gastomorrowtopicsellleafheavysecondinheritsideraiseday
 bip_39_word_no_space_12: gastomorrowtopicsellleafheavysecondinheritsideraisedayalcohol
 bip_39_word_no_space_2: gastomorrow
 bip_39_word_no_space_3: gastomorrowtopic
-bip_39_word_no_space_4: gastomorrowtopicsell
-bip_39_word_no_space_5: gastomorrowtopicsellleaf
-bip_39_word_no_space_6: gastomorrowtopicsellleafheavy
-bip_39_word_no_space_7: gastomorrowtopicsellleafheavysecond
-bip_39_word_no_space_8: gastomorrowtopicsellleafheavysecondinherit
-bip_39_word_no_space_9: gastomorrowtopicsellleafheavysecondinheritside
-bip_39_word_space_0:
-- gas
-- tomorrow
-- topic
-- sell
-- leaf
-- heavy
-- second
-- inherit
-- side
-- raise
-- day
-- alcohol
-bip_39_word_space_1: gas
-bip_39_word_space_10: gas tomorrow topic sell leaf heavy second inherit side raise
-bip_39_word_space_11: gas tomorrow topic sell leaf heavy second inherit side raise
-  day
 bip_39_word_space_12: gas tomorrow topic sell leaf heavy second inherit side raise
   day alcohol
 bip_39_word_space_2: gas tomorrow
 bip_39_word_space_3: gas tomorrow topic
-bip_39_word_space_4: gas tomorrow topic sell
-bip_39_word_space_5: gas tomorrow topic sell leaf
-bip_39_word_space_6: gas tomorrow topic sell leaf heavy
-bip_39_word_space_7: gas tomorrow topic sell leaf heavy second
-bip_39_word_space_8: gas tomorrow topic sell leaf heavy second inherit
-bip_39_word_space_9: gas tomorrow topic sell leaf heavy second inherit side
-bip_39_word_underscore_1: gas
-bip_39_word_underscore_10: gas_tomorrow_topic_sell_leaf_heavy_second_inherit_side_raise
-bip_39_word_underscore_11: gas_tomorrow_topic_sell_leaf_heavy_second_inherit_side_raise_day
 bip_39_word_underscore_12: gas_tomorrow_topic_sell_leaf_heavy_second_inherit_side_raise_day_alcohol
 bip_39_word_underscore_2: gas_tomorrow
 bip_39_word_underscore_3: gas_tomorrow_topic
-bip_39_word_underscore_4: gas_tomorrow_topic_sell
-bip_39_word_underscore_5: gas_tomorrow_topic_sell_leaf
-bip_39_word_underscore_6: gas_tomorrow_topic_sell_leaf_heavy
-bip_39_word_underscore_7: gas_tomorrow_topic_sell_leaf_heavy_second
-bip_39_word_underscore_8: gas_tomorrow_topic_sell_leaf_heavy_second_inherit
-bip_39_word_underscore_9: gas_tomorrow_topic_sell_leaf_heavy_second_inherit_side
 classification: oobb
 classification_length_1: o
 classification_length_2: oo
