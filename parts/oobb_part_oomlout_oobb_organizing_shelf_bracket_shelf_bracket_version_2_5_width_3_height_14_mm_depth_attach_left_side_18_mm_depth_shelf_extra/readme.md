@@ -1,0 +1,123 @@
+# Oobb Part Oomlout Oobb Organizing Shelf Bracket Shelf Bracket Version 2 5 Width 3 Height 14 mm Depth Attach Left Side 18 mm Depth Shelf Extra  
+
+note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
+
+##  part details
+  
+
+
+
+oomlout oobb organizing shelf bracket shelf bracket version 2 5x3x14
+
+
+
+### name
+* name: Oobb Part Oomlout Oobb Organizing Shelf Bracket Shelf Bracket Version 2 5 Width 3 Height 14 mm Depth Attach Left Side 18 mm Depth Shelf Extra
+* name_short: Oomlout Oobb Organizing Shelf Bracket
+### id
+* oomp_id: oobb_part_oomlout_oobb_organizing_shelf_bracket_shelf_bracket_version_2_5_width_3_height_14_mm_depth_attach_left_side_18_mm_depth_shelf_extra
+  * classification: oobb
+  * type: part
+  * size: oomlout_oobb_organizing_shelf_bracket_shelf_bracket_version_2
+  * color: 
+  * description_main: 5_width_3_height_14_mm_depth
+  * description_extra: attach_left_side_18_mm_depth_shelf_extra
+  * manufacturer: 
+  * part_number: 
+  * bip 39 word 2: gold delay
+  * bip 39 word 3: gold delay remember
+  * bip 39 word: gold delay remember clean island memory element age elegant toddler merry author
+
+### other_codes
+* short_code: 
+* oomp_word: six thumbsdown bell
+* oomp_word_emoji :six: :thumbsdown: :bell:
+* md5_6_alpha: 9n2wo
+* md5_6: f71778
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%209n2wo)
+[3x2_oomp_table](http://192.168.1.108:1112/?label=oomp%209n2wo)
+[2x1](http://192.168.1.242:1112/?label=oomp%209n2wo)
+[6x4](http://192.168.1.55:1112/?label=oomp%209n2wo)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/oomlout_oobb_organizing_shelf_bracket_shelf_bracket_version_2/5_width_3_height_14_mm_depth/attach_left_side_18_mm_depth_shelf_extra/part)                              
+
+#### price
+
+
+
+
+
+
+
+### all codes 
+| key | value |  
+| --- | --- |  
+| classification | oobb |  
+| classification_name | Oobb |  
+| color |  |  
+| color_name |  |  
+| components | [] |  
+| components_objects | [] |  
+| components_string | [] |  
+| description | oomlout oobb organizing shelf bracket shelf bracket version 2 5x3x14 |  
+| description_extra | attach_left_side_18_mm_depth_shelf_extra |  
+| description_extra_name | Attach Left Side 18 mm Depth Shelf Extra |  
+| description_main | 5_width_3_height_14_mm_depth |  
+| description_main_name | 5 Width 3 Height 14 mm Depth |  
+| directory | parts/oobb_part_oomlout_oobb_organizing_shelf_bracket_shelf_bracket_version_2_5_width_3_height_14_mm_depth_attach_left_side_18_mm_depth_shelf_extra |  
+| extra | attach_left_side_18_mm_depth_shelf |  
+| folder | C:\gh\oomlout_oobb_version_4_generated_parts\parts\oobb_part_oomlout_oobb_organizing_shelf_bracket_shelf_bracket_version_2_5_width_3_height_14_mm_depth_attach_left_side_18_mm_depth_shelf_extra |  
+| github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oomlout_oobb_organizing_shelf_bracket_shelf_bracket_version_2_5_width_3_height_14_mm_depth_attach_left_side_18_mm_depth_shelf_extra |  
+| height | 3 |  
+| height_mm | 44 |  
+| id | oobb_part_oomlout_oobb_organizing_shelf_bracket_shelf_bracket_version_2_5_width_3_height_14_mm_depth_attach_left_side_18_mm_depth_shelf_extra |  
+| link_1 | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/oomlout_oobb_organizing_shelf_bracket_shelf_bracket_version_2/5_width_3_height_14_mm_depth/attach_left_side_18_mm_depth_shelf_extra/part |  
+| link_1_name | link_main |  
+| link_main | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/oomlout_oobb_organizing_shelf_bracket_shelf_bracket_version_2/5_width_3_height_14_mm_depth/attach_left_side_18_mm_depth_shelf_extra/part |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%209n2wo |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%209n2wo |  
+| link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%209n2wo |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%209n2wo |  
+| link_redirect | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/oobb_oomlout_oobb_organizing_shelf_bracket_shelf_bracket_version_2_05_03_14_ex_attach_left_side_18_mm_depth_shelf |  
+| manufacturer |  |  
+| manufacturer_name |  |  
+| md5 | f71778da3c04c8f62bbb32a56b4e7b22 |  
+| md5_10 | f71778da3c |  
+| md5_5 | f7177 |  
+| md5_6 | f71778 |  
+| md5_6_alpha | 9n2wo |  
+| name | Oobb Part Oomlout Oobb Organizing Shelf Bracket Shelf Bracket Version 2 5 Width 3 Height 14 mm Depth Attach Left Side 18 mm Depth Shelf Extra |  
+| name_short | Oomlout Oobb Organizing Shelf Bracket |  
+| oomlout_detail_hierarchy_1 | oobb |  
+| oomlout_detail_hierarchy_2 | part |  
+| oomlout_detail_hierarchy_3 | oobb_organizing_shelf |  
+| oomlout_detail_hierarchy_4 | bracket_shelf_bracket_version_2 |  
+| oomlout_detail_hierarchy_5 | 14_mm_depth |  
+| oomlout_detail_hierarchy_6 | 18_mm_depth |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
+| oomp_key | oomp_oobb_part_oomlout_oobb_organizing_shelf_bracket_shelf_bracket_version_2_5_width_3_height_14_mm_depth_attach_left_side_18_mm_depth_shelf_extra |  
+| oomp_word | six thumbsdown bell |  
+| oomp_word_emoji | :six: :thumbsdown: :bell: |  
+| oomp_word_emoji_list | [':six:', ':thumbsdown:', ':bell:'] |  
+| oomp_word_list | ['six', 'thumbsdown', 'bell'] |  
+| part_number |  |  
+| part_number_name |  |  
+| short_name |  |  
+| size | oomlout_oobb_organizing_shelf_bracket_shelf_bracket_version_2 |  
+| size_name | Oomlout Oobb Organizing Shelf Bracket Shelf Bracket Version 2 |  
+| thickness | 14 |  
+| thickness_mm | 14 |  
+| type | part |  
+| type_name | Part |  
+| width | 5 |  
+| width_mm | 74 |  

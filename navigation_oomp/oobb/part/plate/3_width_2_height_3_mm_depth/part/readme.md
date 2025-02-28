@@ -87,7 +87,7 @@ plate 3x2x3
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%2094pg0 |  
 | link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%2094pg0 |  
 | link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%2094pg0 |  
-| link_redirect | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/_plate_03_02_03 |  
+| link_redirect | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/oobb_plate_03_02_03 |  
 | manufacturer |  |  
 | manufacturer_name |  |  
 | md5 | ea02d04b3f92aa8cb41701820899022a |  
