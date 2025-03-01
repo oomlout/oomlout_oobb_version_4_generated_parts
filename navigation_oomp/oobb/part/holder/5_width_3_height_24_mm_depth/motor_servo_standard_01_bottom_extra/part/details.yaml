@@ -4045,11 +4045,25 @@ components:
                     m: '*'
                     pos:
                     - 0
+                    - 14
+                    - 0
+                    shape: text
+                    size: 4.5
+                    text: COMMENT motor_servo_standard_01_shaft_
+                    type: n
+            -   -   center: true
+                    color: gray
+                    comment: motor_servo_standard_01_shaft_hole
+                    depth: 1
+                    font: Arial:style=Bold
+                    m: '*'
+                    pos:
+                    - 0
                     - 7
                     - 0
                     shape: text
                     size: 4.5
-                    text: COMMENT motor_servo_standard_01_shaft_hole
+                    text: hole
                     type: n
         -   -   clearance: bottom
                 depth: 25

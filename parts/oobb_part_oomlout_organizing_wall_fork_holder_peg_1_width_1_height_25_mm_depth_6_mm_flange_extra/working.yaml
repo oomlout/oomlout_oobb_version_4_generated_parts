@@ -1,27 +1,263 @@
+bip_39_word_dash_12: sudden-apart-rude-kind-layer-quarter-catalog-bleak-vanish-other-expire-another
+bip_39_word_dash_2: sudden-apart
+bip_39_word_dash_3: sudden-apart-rude
+bip_39_word_new_br_12: sudden<br>apart<br>rude<br>kind<br>layer<br>quarter<br>catalog<br>bleak<br>vanish<br>other<br>expire<br>another
+bip_39_word_new_br_2: sudden<br>apart
+bip_39_word_new_br_3: sudden<br>apart<br>rude
+bip_39_word_new_line_12: 'sudden
+
+  apart
+
+  rude
+
+  kind
+
+  layer
+
+  quarter
+
+  catalog
+
+  bleak
+
+  vanish
+
+  other
+
+  expire
+
+  another'
+bip_39_word_new_line_2: 'sudden
+
+  apart'
+bip_39_word_new_line_3: 'sudden
+
+  apart
+
+  rude'
+bip_39_word_no_space_12: suddenapartrudekindlayerquartercatalogbleakvanishotherexpireanother
+bip_39_word_no_space_2: suddenapart
+bip_39_word_no_space_3: suddenapartrude
+bip_39_word_space_12: sudden apart rude kind layer quarter catalog bleak vanish other
+  expire another
+bip_39_word_space_2: sudden apart
+bip_39_word_space_3: sudden apart rude
+bip_39_word_underscore_12: sudden_apart_rude_kind_layer_quarter_catalog_bleak_vanish_other_expire_another
+bip_39_word_underscore_2: sudden_apart
+bip_39_word_underscore_3: sudden_apart_rude
 classification: oobb
+classification_length_1: o
+classification_length_2: oo
+classification_length_3: oob
+classification_length_4: oobb
+classification_length_5: oobb
+classification_length_6: oobb
+classification_name: Oobb
+classification_no_space_length_1: o
+classification_no_space_length_2: oo
+classification_no_space_length_3: oob
+classification_no_space_length_4: oobb
+classification_no_space_length_5: oobb
+classification_no_space_length_6: oobb
+classification_no_space_upper_length_1: O
+classification_no_space_upper_length_2: OO
+classification_no_space_upper_length_3: OOB
+classification_no_space_upper_length_4: OOBB
+classification_no_space_upper_length_5: OOBB
+classification_no_space_upper_length_6: OOBB
+classification_upper_length_1: O
+classification_upper_length_2: OO
+classification_upper_length_3: OOB
+classification_upper_length_4: OOBB
+classification_upper_length_5: OOBB
+classification_upper_length_6: OOBB
 color: ''
+color_name: ''
 components: []
 components_objects: []
 components_string: []
 description: oomlout organizing wall fork holder peg 1x1x25
 description_extra: 6_mm_flange_extra
+description_extra_length_1: '6'
+description_extra_length_2: '6_'
+description_extra_length_3: 6_m
+description_extra_length_4: 6_mm
+description_extra_length_5: 6_mm_
+description_extra_length_6: 6_mm_f
+description_extra_name: 6 mm Flange Extra
+description_extra_no_space_length_1: '6'
+description_extra_no_space_length_2: 6m
+description_extra_no_space_length_3: 6mm
+description_extra_no_space_length_4: 6mmf
+description_extra_no_space_length_5: 6mmfl
+description_extra_no_space_length_6: 6mmfla
+description_extra_no_space_upper_length_1: '6'
+description_extra_no_space_upper_length_2: 6M
+description_extra_no_space_upper_length_3: 6MM
+description_extra_no_space_upper_length_4: 6MMF
+description_extra_no_space_upper_length_5: 6MMFL
+description_extra_no_space_upper_length_6: 6MMFLA
+description_extra_upper_length_1: '6'
+description_extra_upper_length_2: '6_'
+description_extra_upper_length_3: 6_M
+description_extra_upper_length_4: 6_MM
+description_extra_upper_length_5: 6_MM_
+description_extra_upper_length_6: 6_MM_F
 description_main: 1_width_1_height_25_mm_depth
+description_main_length_1: '1'
+description_main_length_2: '1_'
+description_main_length_3: 1_w
+description_main_length_4: 1_wi
+description_main_length_5: 1_wid
+description_main_length_6: 1_widt
+description_main_name: 1 Width 1 Height 25 mm Depth
+description_main_no_space_length_1: '1'
+description_main_no_space_length_2: 1w
+description_main_no_space_length_3: 1wi
+description_main_no_space_length_4: 1wid
+description_main_no_space_length_5: 1widt
+description_main_no_space_length_6: 1width
+description_main_no_space_upper_length_1: '1'
+description_main_no_space_upper_length_2: 1W
+description_main_no_space_upper_length_3: 1WI
+description_main_no_space_upper_length_4: 1WID
+description_main_no_space_upper_length_5: 1WIDT
+description_main_no_space_upper_length_6: 1WIDTH
+description_main_upper_length_1: '1'
+description_main_upper_length_2: '1_'
+description_main_upper_length_3: 1_W
+description_main_upper_length_4: 1_WI
+description_main_upper_length_5: 1_WID
+description_main_upper_length_6: 1_WIDT
+directory: parts/oobb_part_oomlout_organizing_wall_fork_holder_peg_1_width_1_height_25_mm_depth_6_mm_flange_extra
 extra: 6_mm_flange
 folder: C:\gh\oomlout_oobb_version_4_generated_parts\parts\oobb_part_oomlout_organizing_wall_fork_holder_peg_1_width_1_height_25_mm_depth_6_mm_flange_extra
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oomlout_organizing_wall_fork_holder_peg_1_width_1_height_25_mm_depth_6_mm_flange_extra
 height: 1
 height_mm: 14
 id: oobb_part_oomlout_organizing_wall_fork_holder_peg_1_width_1_height_25_mm_depth_6_mm_flange_extra
+id_no_class: part_oomlout_organizing_wall_fork_holder_peg_1_width_1_height_25_mm_depth_6_mm_flange_extra
+id_no_color: 1width1height25mmdepth6mmflangeextra
+id_no_size: 1_width_1_height_25_mm_depth_6_mm_flange_extra
+id_no_type: oomlout_organizing_wall_fork_holder_peg_1_width_1_height_25_mm_depth_6_mm_flange_extra
+link_1: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/oomlout_organizing_wall_fork_holder_peg/1_width_1_height_25_mm_depth/6_mm_flange_extra/part
+link_1_name: link_main
 link_main: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/oomlout_organizing_wall_fork_holder_peg/1_width_1_height_25_mm_depth/6_mm_flange_extra/part
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%205ye3r
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%205ye3r
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%205ye3r
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%205ye3r
 link_redirect: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/oobb_oomlout_organizing_wall_fork_holder_peg_01_01_25_ex_6_mm_flange
 manufacturer: ''
+manufacturer_name: ''
+md5: 98a0e7478a17847ebdbf27a979c296c4
+md5_10: 98a0e7478a
+md5_10_upper: 98A0E7478A
+md5_5: 98a0e
+md5_5_upper: 98A0E
+md5_6: 98a0e7
+md5_6_alpha: 5ye3r
+md5_6_alpha_upper: 5YE3R
+md5_6_upper: 98A0E7
 name: Oobb Part Oomlout Organizing Wall Fork Holder Peg 1 Width 1 Height 25 mm Depth
-    6 mm Flange Extra
+  6 mm Flange Extra
+name_no_class: Part Oomlout Organizing Wall Fork Holder Peg 1 Width 1 Height 25 mm
+  Depth 6 mm Flange Extra
+name_no_color: 1Width1Height25mmdepth6mmflangeextra
+name_no_size: 1 Width 1 Height 25 mm Depth 6 mm Flange Extra
+name_no_type: Oomlout Organizing Wall Fork Holder Peg 1 Width 1 Height 25 mm Depth
+  6 mm Flange Extra
 name_short: Oomlout Organizing Wall Fork Holder Peg
+oomlout_detail_hierarchy_1: oobb
+oomlout_detail_hierarchy_1_upper: OOBB
+oomlout_detail_hierarchy_1_upper_length_4: OOBB
+oomlout_detail_hierarchy_2: part
+oomlout_detail_hierarchy_2_upper: PART
+oomlout_detail_hierarchy_2_upper_length_4: PART
+oomlout_detail_hierarchy_3: organizing_wall_fork
+oomlout_detail_hierarchy_3_upper: ORGANIZING_WALL_FORK
+oomlout_detail_hierarchy_3_upper_length_4: ORGA
+oomlout_detail_hierarchy_4: holder_peg
+oomlout_detail_hierarchy_4_upper: HOLDER_PEG
+oomlout_detail_hierarchy_4_upper_length_4: HOLD
+oomlout_detail_hierarchy_5: 25_mm_depth
+oomlout_detail_hierarchy_5_upper: 25_MM_DEPTH
+oomlout_detail_hierarchy_5_upper_length_4: 25DE
+oomlout_detail_hierarchy_6: 6_mm_flange_extra
+oomlout_detail_hierarchy_6_upper: 6_MM_FLANGE_EXTRA
+oomlout_detail_hierarchy_6_upper_length_4: 6FLA
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_oobb_part_oomlout_organizing_wall_fork_holder_peg_1_width_1_height_25_mm_depth_6_mm_flange_extra
+oomp_word: tennis ring helicopter
+oomp_word_emoji: ':tennis: :ring: :helicopter:'
+oomp_word_emoji_list:
+- ':tennis:'
+- ':ring:'
+- ':helicopter:'
+oomp_word_list:
+- tennis
+- ring
+- helicopter
 part_number: ''
+part_number_name: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
 short_name: ''
 size: oomlout_organizing_wall_fork_holder_peg
+size_length_1: o
+size_length_2: oo
+size_length_3: oom
+size_length_4: ooml
+size_length_5: oomlo
+size_length_6: oomlou
+size_name: Oomlout Organizing Wall Fork Holder Peg
+size_no_space_length_1: o
+size_no_space_length_2: oo
+size_no_space_length_3: oom
+size_no_space_length_4: ooml
+size_no_space_length_5: oomlo
+size_no_space_length_6: oomlou
+size_no_space_upper_length_1: O
+size_no_space_upper_length_2: OO
+size_no_space_upper_length_3: OOM
+size_no_space_upper_length_4: OOML
+size_no_space_upper_length_5: OOMLO
+size_no_space_upper_length_6: OOMLOU
+size_upper_length_1: O
+size_upper_length_2: OO
+size_upper_length_3: OOM
+size_upper_length_4: OOML
+size_upper_length_5: OOMLO
+size_upper_length_6: OOMLOU
 thickness: 25
 thickness_mm: 25
 type: part
+type_length_1: p
+type_length_2: pa
+type_length_3: par
+type_length_4: part
+type_length_5: part
+type_length_6: part
+type_name: Part
+type_no_space_length_1: p
+type_no_space_length_2: pa
+type_no_space_length_3: par
+type_no_space_length_4: part
+type_no_space_length_5: part
+type_no_space_length_6: part
+type_no_space_upper_length_1: P
+type_no_space_upper_length_2: PA
+type_no_space_upper_length_3: PAR
+type_no_space_upper_length_4: PART
+type_no_space_upper_length_5: PART
+type_no_space_upper_length_6: PART
+type_upper_length_1: P
+type_upper_length_2: PA
+type_upper_length_3: PAR
+type_upper_length_4: PART
+type_upper_length_5: PART
+type_upper_length_6: PART
 width: 1
 width_mm: 14

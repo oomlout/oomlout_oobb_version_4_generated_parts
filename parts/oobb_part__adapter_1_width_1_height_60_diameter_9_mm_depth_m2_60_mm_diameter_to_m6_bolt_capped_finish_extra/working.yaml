@@ -1,28 +1,271 @@
+bip_39_word_dash_12: bubble-this-truck-drill-crunch-tumble-upon-category-hover-silk-index-amused
+bip_39_word_dash_2: bubble-this
+bip_39_word_dash_3: bubble-this-truck
+bip_39_word_new_br_12: bubble<br>this<br>truck<br>drill<br>crunch<br>tumble<br>upon<br>category<br>hover<br>silk<br>index<br>amused
+bip_39_word_new_br_2: bubble<br>this
+bip_39_word_new_br_3: bubble<br>this<br>truck
+bip_39_word_new_line_12: 'bubble
+
+  this
+
+  truck
+
+  drill
+
+  crunch
+
+  tumble
+
+  upon
+
+  category
+
+  hover
+
+  silk
+
+  index
+
+  amused'
+bip_39_word_new_line_2: 'bubble
+
+  this'
+bip_39_word_new_line_3: 'bubble
+
+  this
+
+  truck'
+bip_39_word_no_space_12: bubblethistruckdrillcrunchtumbleuponcategoryhoversilkindexamused
+bip_39_word_no_space_2: bubblethis
+bip_39_word_no_space_3: bubblethistruck
+bip_39_word_space_12: bubble this truck drill crunch tumble upon category hover silk
+  index amused
+bip_39_word_space_2: bubble this
+bip_39_word_space_3: bubble this truck
+bip_39_word_underscore_12: bubble_this_truck_drill_crunch_tumble_upon_category_hover_silk_index_amused
+bip_39_word_underscore_2: bubble_this
+bip_39_word_underscore_3: bubble_this_truck
 classification: oobb
+classification_length_1: o
+classification_length_2: oo
+classification_length_3: oob
+classification_length_4: oobb
+classification_length_5: oobb
+classification_length_6: oobb
+classification_name: Oobb
+classification_no_space_length_1: o
+classification_no_space_length_2: oo
+classification_no_space_length_3: oob
+classification_no_space_length_4: oobb
+classification_no_space_length_5: oobb
+classification_no_space_length_6: oobb
+classification_no_space_upper_length_1: O
+classification_no_space_upper_length_2: OO
+classification_no_space_upper_length_3: OOB
+classification_no_space_upper_length_4: OOBB
+classification_no_space_upper_length_5: OOBB
+classification_no_space_upper_length_6: OOBB
+classification_upper_length_1: O
+classification_upper_length_2: OO
+classification_upper_length_3: OOB
+classification_upper_length_4: OOBB
+classification_upper_length_5: OOBB
+classification_upper_length_6: OOBB
 color: ''
+color_name: ''
 components: []
 components_objects: []
 components_string: []
 description: ' adapter 1x1x9'
 description_extra: m2_60_mm_diameter_to_m6_bolt_capped_finish_extra
+description_extra_length_1: m
+description_extra_length_2: m2
+description_extra_length_3: m2_
+description_extra_length_4: m2_6
+description_extra_length_5: m2_60
+description_extra_length_6: m2_60_
+description_extra_name: M2 60 mm Diameter To M6 Bolt Capped Finish Extra
+description_extra_no_space_length_1: m
+description_extra_no_space_length_2: m2
+description_extra_no_space_length_3: m26
+description_extra_no_space_length_4: m260
+description_extra_no_space_length_5: m260m
+description_extra_no_space_length_6: m260mm
+description_extra_no_space_upper_length_1: M
+description_extra_no_space_upper_length_2: M2
+description_extra_no_space_upper_length_3: M26
+description_extra_no_space_upper_length_4: M260
+description_extra_no_space_upper_length_5: M260M
+description_extra_no_space_upper_length_6: M260MM
+description_extra_upper_length_1: M
+description_extra_upper_length_2: M2
+description_extra_upper_length_3: M2_
+description_extra_upper_length_4: M2_6
+description_extra_upper_length_5: M2_60
+description_extra_upper_length_6: M2_60_
 description_main: 1_width_1_height_60_diameter_9_mm_depth
+description_main_length_1: '1'
+description_main_length_2: '1_'
+description_main_length_3: 1_w
+description_main_length_4: 1_wi
+description_main_length_5: 1_wid
+description_main_length_6: 1_widt
+description_main_name: 1 Width 1 Height 60 Diameter 9 mm Depth
+description_main_no_space_length_1: '1'
+description_main_no_space_length_2: 1w
+description_main_no_space_length_3: 1wi
+description_main_no_space_length_4: 1wid
+description_main_no_space_length_5: 1widt
+description_main_no_space_length_6: 1width
+description_main_no_space_upper_length_1: '1'
+description_main_no_space_upper_length_2: 1W
+description_main_no_space_upper_length_3: 1WI
+description_main_no_space_upper_length_4: 1WID
+description_main_no_space_upper_length_5: 1WIDT
+description_main_no_space_upper_length_6: 1WIDTH
+description_main_upper_length_1: '1'
+description_main_upper_length_2: '1_'
+description_main_upper_length_3: 1_W
+description_main_upper_length_4: 1_WI
+description_main_upper_length_5: 1_WID
+description_main_upper_length_6: 1_WIDT
 diameter: '60'
+directory: parts/oobb_part__adapter_1_width_1_height_60_diameter_9_mm_depth_m2_60_mm_diameter_to_m6_bolt_capped_finish_extra
 extra: m2_60_mm_diameter_to_m6_bolt_capped_finish
 folder: C:\gh\oomlout_oobb_version_4_generated_parts\parts\oobb_part__adapter_1_width_1_height_60_diameter_9_mm_depth_m2_60_mm_diameter_to_m6_bolt_capped_finish_extra
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part__adapter_1_width_1_height_60_diameter_9_mm_depth_m2_60_mm_diameter_to_m6_bolt_capped_finish_extra
 height: 1
 height_mm: 14
 id: oobb_part__adapter_1_width_1_height_60_diameter_9_mm_depth_m2_60_mm_diameter_to_m6_bolt_capped_finish_extra
+id_no_class: part__adapter_1_width_1_height_60_diameter_9_mm_depth_m2_60_mm_diameter_to_m6_bolt_capped_finish_extra
+id_no_color: 1width1height60diameter9mmdepthm260mmdiametertom6boltcappedfinishextra
+id_no_size: 1_width_1_height_60_diameter_9_mm_depth_m2_60_mm_diameter_to_m6_bolt_capped_finish_extra
+id_no_type: _adapter_1_width_1_height_60_diameter_9_mm_depth_m2_60_mm_diameter_to_m6_bolt_capped_finish_extra
+link_1: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/_adapter/1_width_1_height_60_diameter_9_mm_depth/m2_60_mm_diameter_to_m6_bolt_capped_finish_extra/part
+link_1_name: link_main
 link_main: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/_adapter/1_width_1_height_60_diameter_9_mm_depth/m2_60_mm_diameter_to_m6_bolt_capped_finish_extra/part
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2053v76
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2053v76
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%2053v76
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2053v76
 link_redirect: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/oobb__adapter_01_01_60_09_ex_m2_60_mm_diameter_to_m6_bolt_capped_finish
 manufacturer: ''
+manufacturer_name: ''
+md5: 82e5b22373243ddfa91a742fd27830ea
+md5_10: 82e5b22373
+md5_10_upper: 82E5B22373
+md5_5: 82e5b
+md5_5_upper: 82E5B
+md5_6: 82e5b2
+md5_6_alpha: 53v76
+md5_6_alpha_upper: 53V76
+md5_6_upper: 82E5B2
 name: Oobb Part  Adapter 1 Width 1 Height 60 Diameter 9 mm Depth M2 60 mm Diameter
-    To M6 Bolt Capped Finish Extra
+  To M6 Bolt Capped Finish Extra
+name_no_class: Part  Adapter 1 Width 1 Height 60 Diameter 9 mm Depth M2 60 mm Diameter
+  To M6 Bolt Capped Finish Extra
+name_no_color: 1Width1Height60Diameter9mmdepthm260mmdiametertom6Boltcappedfinishextra
+name_no_size: 1 Width 1 Height 60 Diameter 9 mm Depth M2 60 mm Diameter To M6 Bolt
+  Capped Finish Extra
+name_no_type: ' Adapter 1 Width 1 Height 60 Diameter 9 mm Depth M2 60 mm Diameter
+  To M6 Bolt Capped Finish Extra'
 name_short: Adapter 1x1x60x9 M2 60 mmxTo M6 Bolt
+oomlout_detail_hierarchy_1: oobb
+oomlout_detail_hierarchy_1_upper: OOBB
+oomlout_detail_hierarchy_1_upper_length_4: OOBB
+oomlout_detail_hierarchy_2: part
+oomlout_detail_hierarchy_2_upper: PART
+oomlout_detail_hierarchy_2_upper_length_4: PART
+oomlout_detail_hierarchy_3: _adapter
+oomlout_detail_hierarchy_3_upper: _ADAPTER
+oomlout_detail_hierarchy_3_upper_length_4: _ADA
+oomlout_detail_hierarchy_4: 60_diameter
+oomlout_detail_hierarchy_4_upper: 60_DIAMETER
+oomlout_detail_hierarchy_4_upper_length_4: 60_D
+oomlout_detail_hierarchy_5: 9_mm_depth
+oomlout_detail_hierarchy_5_upper: 9_MM_DEPTH
+oomlout_detail_hierarchy_5_upper_length_4: 9DEP
+oomlout_detail_hierarchy_6: m2_60_mm_diameter
+oomlout_detail_hierarchy_6_upper: M2_60_MM_DIAMETER
+oomlout_detail_hierarchy_6_upper_length_4: M2_6
+oomlout_detail_hierarchy_7: to_m6_bolt_capped
+oomlout_detail_hierarchy_7_upper: TO_M6_BOLT_CAPPED
+oomlout_detail_hierarchy_7_upper_length_4: TO_M
+oomlout_detail_hierarchy_8: finish_extra
+oomlout_detail_hierarchy_8_upper: FINISH_EXTRA
+oomlout_detail_hierarchy_8_upper_length_4: FINI
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_oobb_part__adapter_1_width_1_height_60_diameter_9_mm_depth_m2_60_mm_diameter_to_m6_bolt_capped_finish_extra
+oomp_word: radio rocket handbag
+oomp_word_emoji: ':radio: :rocket: :handbag:'
+oomp_word_emoji_list:
+- ':radio:'
+- ':rocket:'
+- ':handbag:'
+oomp_word_list:
+- radio
+- rocket
+- handbag
 part_number: ''
+part_number_name: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
 short_name: ''
 size: _adapter
+size_length_1: _
+size_length_2: _a
+size_length_3: _ad
+size_length_4: _ada
+size_length_5: _adap
+size_length_6: _adapt
+size_name: ' Adapter'
+size_no_space_length_1: a
+size_no_space_length_2: ad
+size_no_space_length_3: ada
+size_no_space_length_4: adap
+size_no_space_length_5: adapt
+size_no_space_length_6: adapte
+size_no_space_upper_length_1: A
+size_no_space_upper_length_2: AD
+size_no_space_upper_length_3: ADA
+size_no_space_upper_length_4: ADAP
+size_no_space_upper_length_5: ADAPT
+size_no_space_upper_length_6: ADAPTE
+size_upper_length_1: _
+size_upper_length_2: _A
+size_upper_length_3: _AD
+size_upper_length_4: _ADA
+size_upper_length_5: _ADAP
+size_upper_length_6: _ADAPT
 thickness: 9
 thickness_mm: 9
 type: part
+type_length_1: p
+type_length_2: pa
+type_length_3: par
+type_length_4: part
+type_length_5: part
+type_length_6: part
+type_name: Part
+type_no_space_length_1: p
+type_no_space_length_2: pa
+type_no_space_length_3: par
+type_no_space_length_4: part
+type_no_space_length_5: part
+type_no_space_length_6: part
+type_no_space_upper_length_1: P
+type_no_space_upper_length_2: PA
+type_no_space_upper_length_3: PAR
+type_no_space_upper_length_4: PART
+type_no_space_upper_length_5: PART
+type_no_space_upper_length_6: PART
+type_upper_length_1: P
+type_upper_length_2: PA
+type_upper_length_3: PAR
+type_upper_length_4: PART
+type_upper_length_5: PART
+type_upper_length_6: PART
 width: 1
 width_mm: 14

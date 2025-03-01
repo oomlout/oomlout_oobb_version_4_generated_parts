@@ -1,28 +1,271 @@
+bip_39_word_dash_12: train-curtain-over-inspire-inform-cup-front-neck-impact-average-soda-abstract
+bip_39_word_dash_2: train-curtain
+bip_39_word_dash_3: train-curtain-over
+bip_39_word_new_br_12: train<br>curtain<br>over<br>inspire<br>inform<br>cup<br>front<br>neck<br>impact<br>average<br>soda<br>abstract
+bip_39_word_new_br_2: train<br>curtain
+bip_39_word_new_br_3: train<br>curtain<br>over
+bip_39_word_new_line_12: 'train
+
+  curtain
+
+  over
+
+  inspire
+
+  inform
+
+  cup
+
+  front
+
+  neck
+
+  impact
+
+  average
+
+  soda
+
+  abstract'
+bip_39_word_new_line_2: 'train
+
+  curtain'
+bip_39_word_new_line_3: 'train
+
+  curtain
+
+  over'
+bip_39_word_no_space_12: traincurtainoverinspireinformcupfrontneckimpactaveragesodaabstract
+bip_39_word_no_space_2: traincurtain
+bip_39_word_no_space_3: traincurtainover
+bip_39_word_space_12: train curtain over inspire inform cup front neck impact average
+  soda abstract
+bip_39_word_space_2: train curtain
+bip_39_word_space_3: train curtain over
+bip_39_word_underscore_12: train_curtain_over_inspire_inform_cup_front_neck_impact_average_soda_abstract
+bip_39_word_underscore_2: train_curtain
+bip_39_word_underscore_3: train_curtain_over
 classification: oobb
+classification_length_1: o
+classification_length_2: oo
+classification_length_3: oob
+classification_length_4: oobb
+classification_length_5: oobb
+classification_length_6: oobb
+classification_name: Oobb
+classification_no_space_length_1: o
+classification_no_space_length_2: oo
+classification_no_space_length_3: oob
+classification_no_space_length_4: oobb
+classification_no_space_length_5: oobb
+classification_no_space_length_6: oobb
+classification_no_space_upper_length_1: O
+classification_no_space_upper_length_2: OO
+classification_no_space_upper_length_3: OOB
+classification_no_space_upper_length_4: OOBB
+classification_no_space_upper_length_5: OOBB
+classification_no_space_upper_length_6: OOBB
+classification_upper_length_1: O
+classification_upper_length_2: OO
+classification_upper_length_3: OOB
+classification_upper_length_4: OOBB
+classification_upper_length_5: OOBB
+classification_upper_length_6: OOBB
 color: ''
+color_name: ''
 components: []
 components_objects: []
 components_string: []
 description: ' adapter 1x1x6'
 description_extra: m4_nut_45_mm_diameter_to_flat_capped_finish_extra
+description_extra_length_1: m
+description_extra_length_2: m4
+description_extra_length_3: m4_
+description_extra_length_4: m4_n
+description_extra_length_5: m4_nu
+description_extra_length_6: m4_nut
+description_extra_name: M4 Nut 45 mm Diameter To Flat Capped Finish Extra
+description_extra_no_space_length_1: m
+description_extra_no_space_length_2: m4
+description_extra_no_space_length_3: m4n
+description_extra_no_space_length_4: m4nu
+description_extra_no_space_length_5: m4nut
+description_extra_no_space_length_6: m4nut4
+description_extra_no_space_upper_length_1: M
+description_extra_no_space_upper_length_2: M4
+description_extra_no_space_upper_length_3: M4N
+description_extra_no_space_upper_length_4: M4NU
+description_extra_no_space_upper_length_5: M4NUT
+description_extra_no_space_upper_length_6: M4NUT4
+description_extra_upper_length_1: M
+description_extra_upper_length_2: M4
+description_extra_upper_length_3: M4_
+description_extra_upper_length_4: M4_N
+description_extra_upper_length_5: M4_NU
+description_extra_upper_length_6: M4_NUT
 description_main: 1_width_1_height_45_diameter_6_mm_depth
+description_main_length_1: '1'
+description_main_length_2: '1_'
+description_main_length_3: 1_w
+description_main_length_4: 1_wi
+description_main_length_5: 1_wid
+description_main_length_6: 1_widt
+description_main_name: 1 Width 1 Height 45 Diameter 6 mm Depth
+description_main_no_space_length_1: '1'
+description_main_no_space_length_2: 1w
+description_main_no_space_length_3: 1wi
+description_main_no_space_length_4: 1wid
+description_main_no_space_length_5: 1widt
+description_main_no_space_length_6: 1width
+description_main_no_space_upper_length_1: '1'
+description_main_no_space_upper_length_2: 1W
+description_main_no_space_upper_length_3: 1WI
+description_main_no_space_upper_length_4: 1WID
+description_main_no_space_upper_length_5: 1WIDT
+description_main_no_space_upper_length_6: 1WIDTH
+description_main_upper_length_1: '1'
+description_main_upper_length_2: '1_'
+description_main_upper_length_3: 1_W
+description_main_upper_length_4: 1_WI
+description_main_upper_length_5: 1_WID
+description_main_upper_length_6: 1_WIDT
 diameter: '45'
+directory: parts/oobb_part__adapter_1_width_1_height_45_diameter_6_mm_depth_m4_nut_45_mm_diameter_to_flat_capped_finish_extra
 extra: m4_nut_45_mm_diameter_to_flat_capped_finish
 folder: C:\gh\oomlout_oobb_version_4_generated_parts\parts\oobb_part__adapter_1_width_1_height_45_diameter_6_mm_depth_m4_nut_45_mm_diameter_to_flat_capped_finish_extra
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part__adapter_1_width_1_height_45_diameter_6_mm_depth_m4_nut_45_mm_diameter_to_flat_capped_finish_extra
 height: 1
 height_mm: 14
 id: oobb_part__adapter_1_width_1_height_45_diameter_6_mm_depth_m4_nut_45_mm_diameter_to_flat_capped_finish_extra
+id_no_class: part__adapter_1_width_1_height_45_diameter_6_mm_depth_m4_nut_45_mm_diameter_to_flat_capped_finish_extra
+id_no_color: 1width1height45diameter6mmdepthm4nut45mmdiametertoflatcappedfinishextra
+id_no_size: 1_width_1_height_45_diameter_6_mm_depth_m4_nut_45_mm_diameter_to_flat_capped_finish_extra
+id_no_type: _adapter_1_width_1_height_45_diameter_6_mm_depth_m4_nut_45_mm_diameter_to_flat_capped_finish_extra
+link_1: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/_adapter/1_width_1_height_45_diameter_6_mm_depth/m4_nut_45_mm_diameter_to_flat_capped_finish_extra/part
+link_1_name: link_main
 link_main: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/_adapter/1_width_1_height_45_diameter_6_mm_depth/m4_nut_45_mm_diameter_to_flat_capped_finish_extra/part
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20lxdv
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20lxdv
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%20lxdv
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20lxdv
 link_redirect: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/oobb__adapter_01_01_45_06_ex_m4_nut_45_mm_diameter_to_flat_capped_finish
 manufacturer: ''
+manufacturer_name: ''
+md5: 0f9c43f38e93aba8d6b9c7553bcd8f38
+md5_10: 0f9c43f38e
+md5_10_upper: 0F9C43F38E
+md5_5: 0f9c4
+md5_5_upper: 0F9C4
+md5_6: 0f9c43
+md5_6_alpha: lxdv
+md5_6_alpha_upper: LXDV
+md5_6_upper: 0F9C43
 name: Oobb Part  Adapter 1 Width 1 Height 45 Diameter 6 mm Depth M4 Nut 45 mm Diameter
-    To Flat Capped Finish Extra
+  To Flat Capped Finish Extra
+name_no_class: Part  Adapter 1 Width 1 Height 45 Diameter 6 mm Depth M4 Nut 45 mm
+  Diameter To Flat Capped Finish Extra
+name_no_color: 1Width1Height45Diameter6mmdepthm4Nut45mmdiametertoflatcappedfinishextra
+name_no_size: 1 Width 1 Height 45 Diameter 6 mm Depth M4 Nut 45 mm Diameter To Flat
+  Capped Finish Extra
+name_no_type: ' Adapter 1 Width 1 Height 45 Diameter 6 mm Depth M4 Nut 45 mm Diameter
+  To Flat Capped Finish Extra'
 name_short: Adapter 1x1x45x6 M4 Nut 45 mmxTo Flat
+oomlout_detail_hierarchy_1: oobb
+oomlout_detail_hierarchy_1_upper: OOBB
+oomlout_detail_hierarchy_1_upper_length_4: OOBB
+oomlout_detail_hierarchy_2: part
+oomlout_detail_hierarchy_2_upper: PART
+oomlout_detail_hierarchy_2_upper_length_4: PART
+oomlout_detail_hierarchy_3: _adapter
+oomlout_detail_hierarchy_3_upper: _ADAPTER
+oomlout_detail_hierarchy_3_upper_length_4: _ADA
+oomlout_detail_hierarchy_4: 45_diameter
+oomlout_detail_hierarchy_4_upper: 45_DIAMETER
+oomlout_detail_hierarchy_4_upper_length_4: 45_D
+oomlout_detail_hierarchy_5: 6_mm_depth
+oomlout_detail_hierarchy_5_upper: 6_MM_DEPTH
+oomlout_detail_hierarchy_5_upper_length_4: 6DEP
+oomlout_detail_hierarchy_6: m4_nut_45_mm
+oomlout_detail_hierarchy_6_upper: M4_NUT_45_MM
+oomlout_detail_hierarchy_6_upper_length_4: M4_N
+oomlout_detail_hierarchy_7: diameter_to_flat_capped
+oomlout_detail_hierarchy_7_upper: DIAMETER_TO_FLAT_CAPPED
+oomlout_detail_hierarchy_7_upper_length_4: DIAM
+oomlout_detail_hierarchy_8: finish_extra
+oomlout_detail_hierarchy_8_upper: FINISH_EXTRA
+oomlout_detail_hierarchy_8_upper_length_4: FINI
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_oobb_part__adapter_1_width_1_height_45_diameter_6_mm_depth_m4_nut_45_mm_diameter_to_flat_capped_finish_extra
+oomp_word: sparkles spades elephant
+oomp_word_emoji: ':sparkles: :spades: :elephant:'
+oomp_word_emoji_list:
+- ':sparkles:'
+- ':spades:'
+- ':elephant:'
+oomp_word_list:
+- sparkles
+- spades
+- elephant
 part_number: ''
+part_number_name: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
 short_name: ''
 size: _adapter
+size_length_1: _
+size_length_2: _a
+size_length_3: _ad
+size_length_4: _ada
+size_length_5: _adap
+size_length_6: _adapt
+size_name: ' Adapter'
+size_no_space_length_1: a
+size_no_space_length_2: ad
+size_no_space_length_3: ada
+size_no_space_length_4: adap
+size_no_space_length_5: adapt
+size_no_space_length_6: adapte
+size_no_space_upper_length_1: A
+size_no_space_upper_length_2: AD
+size_no_space_upper_length_3: ADA
+size_no_space_upper_length_4: ADAP
+size_no_space_upper_length_5: ADAPT
+size_no_space_upper_length_6: ADAPTE
+size_upper_length_1: _
+size_upper_length_2: _A
+size_upper_length_3: _AD
+size_upper_length_4: _ADA
+size_upper_length_5: _ADAP
+size_upper_length_6: _ADAPT
 thickness: 6
 thickness_mm: 6
 type: part
+type_length_1: p
+type_length_2: pa
+type_length_3: par
+type_length_4: part
+type_length_5: part
+type_length_6: part
+type_name: Part
+type_no_space_length_1: p
+type_no_space_length_2: pa
+type_no_space_length_3: par
+type_no_space_length_4: part
+type_no_space_length_5: part
+type_no_space_length_6: part
+type_no_space_upper_length_1: P
+type_no_space_upper_length_2: PA
+type_no_space_upper_length_3: PAR
+type_no_space_upper_length_4: PART
+type_no_space_upper_length_5: PART
+type_no_space_upper_length_6: PART
+type_upper_length_1: P
+type_upper_length_2: PA
+type_upper_length_3: PAR
+type_upper_length_4: PART
+type_upper_length_5: PART
+type_upper_length_6: PART
 width: 1
 width_mm: 14

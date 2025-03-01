@@ -1,28 +1,271 @@
+bip_39_word_dash_12: chunk-engine-crunch-merge-present-enforce-release-endorse-ribbon-also-wool-arrive
+bip_39_word_dash_2: chunk-engine
+bip_39_word_dash_3: chunk-engine-crunch
+bip_39_word_new_br_12: chunk<br>engine<br>crunch<br>merge<br>present<br>enforce<br>release<br>endorse<br>ribbon<br>also<br>wool<br>arrive
+bip_39_word_new_br_2: chunk<br>engine
+bip_39_word_new_br_3: chunk<br>engine<br>crunch
+bip_39_word_new_line_12: 'chunk
+
+  engine
+
+  crunch
+
+  merge
+
+  present
+
+  enforce
+
+  release
+
+  endorse
+
+  ribbon
+
+  also
+
+  wool
+
+  arrive'
+bip_39_word_new_line_2: 'chunk
+
+  engine'
+bip_39_word_new_line_3: 'chunk
+
+  engine
+
+  crunch'
+bip_39_word_no_space_12: chunkenginecrunchmergepresentenforcereleaseendorseribbonalsowoolarrive
+bip_39_word_no_space_2: chunkengine
+bip_39_word_no_space_3: chunkenginecrunch
+bip_39_word_space_12: chunk engine crunch merge present enforce release endorse ribbon
+  also wool arrive
+bip_39_word_space_2: chunk engine
+bip_39_word_space_3: chunk engine crunch
+bip_39_word_underscore_12: chunk_engine_crunch_merge_present_enforce_release_endorse_ribbon_also_wool_arrive
+bip_39_word_underscore_2: chunk_engine
+bip_39_word_underscore_3: chunk_engine_crunch
 classification: oobb
+classification_length_1: o
+classification_length_2: oo
+classification_length_3: oob
+classification_length_4: oobb
+classification_length_5: oobb
+classification_length_6: oobb
+classification_name: Oobb
+classification_no_space_length_1: o
+classification_no_space_length_2: oo
+classification_no_space_length_3: oob
+classification_no_space_length_4: oobb
+classification_no_space_length_5: oobb
+classification_no_space_length_6: oobb
+classification_no_space_upper_length_1: O
+classification_no_space_upper_length_2: OO
+classification_no_space_upper_length_3: OOB
+classification_no_space_upper_length_4: OOBB
+classification_no_space_upper_length_5: OOBB
+classification_no_space_upper_length_6: OOBB
+classification_upper_length_1: O
+classification_upper_length_2: OO
+classification_upper_length_3: OOB
+classification_upper_length_4: OOBB
+classification_upper_length_5: OOBB
+classification_upper_length_6: OOBB
 color: ''
+color_name: ''
 components: []
 components_objects: []
 components_string: []
 description: ' adapter 1x1x9'
 description_extra: m4_screw_wood_45_mm_diameter_to_m6_bolt_capped_finish_extra
+description_extra_length_1: m
+description_extra_length_2: m4
+description_extra_length_3: m4_
+description_extra_length_4: m4_s
+description_extra_length_5: m4_sc
+description_extra_length_6: m4_scr
+description_extra_name: M4 Screw Wood 45 mm Diameter To M6 Bolt Capped Finish Extra
+description_extra_no_space_length_1: m
+description_extra_no_space_length_2: m4
+description_extra_no_space_length_3: m4s
+description_extra_no_space_length_4: m4sc
+description_extra_no_space_length_5: m4scr
+description_extra_no_space_length_6: m4scre
+description_extra_no_space_upper_length_1: M
+description_extra_no_space_upper_length_2: M4
+description_extra_no_space_upper_length_3: M4S
+description_extra_no_space_upper_length_4: M4SC
+description_extra_no_space_upper_length_5: M4SCR
+description_extra_no_space_upper_length_6: M4SCRE
+description_extra_upper_length_1: M
+description_extra_upper_length_2: M4
+description_extra_upper_length_3: M4_
+description_extra_upper_length_4: M4_S
+description_extra_upper_length_5: M4_SC
+description_extra_upper_length_6: M4_SCR
 description_main: 1_width_1_height_45_diameter_9_mm_depth
+description_main_length_1: '1'
+description_main_length_2: '1_'
+description_main_length_3: 1_w
+description_main_length_4: 1_wi
+description_main_length_5: 1_wid
+description_main_length_6: 1_widt
+description_main_name: 1 Width 1 Height 45 Diameter 9 mm Depth
+description_main_no_space_length_1: '1'
+description_main_no_space_length_2: 1w
+description_main_no_space_length_3: 1wi
+description_main_no_space_length_4: 1wid
+description_main_no_space_length_5: 1widt
+description_main_no_space_length_6: 1width
+description_main_no_space_upper_length_1: '1'
+description_main_no_space_upper_length_2: 1W
+description_main_no_space_upper_length_3: 1WI
+description_main_no_space_upper_length_4: 1WID
+description_main_no_space_upper_length_5: 1WIDT
+description_main_no_space_upper_length_6: 1WIDTH
+description_main_upper_length_1: '1'
+description_main_upper_length_2: '1_'
+description_main_upper_length_3: 1_W
+description_main_upper_length_4: 1_WI
+description_main_upper_length_5: 1_WID
+description_main_upper_length_6: 1_WIDT
 diameter: '45'
+directory: parts/oobb_part__adapter_1_width_1_height_45_diameter_9_mm_depth_m4_screw_wood_45_mm_diameter_to_m6_bolt_capped_finish_extra
 extra: m4_screw_wood_45_mm_diameter_to_m6_bolt_capped_finish
 folder: C:\gh\oomlout_oobb_version_4_generated_parts\parts\oobb_part__adapter_1_width_1_height_45_diameter_9_mm_depth_m4_screw_wood_45_mm_diameter_to_m6_bolt_capped_finish_extra
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part__adapter_1_width_1_height_45_diameter_9_mm_depth_m4_screw_wood_45_mm_diameter_to_m6_bolt_capped_finish_extra
 height: 1
 height_mm: 14
 id: oobb_part__adapter_1_width_1_height_45_diameter_9_mm_depth_m4_screw_wood_45_mm_diameter_to_m6_bolt_capped_finish_extra
+id_no_class: part__adapter_1_width_1_height_45_diameter_9_mm_depth_m4_screw_wood_45_mm_diameter_to_m6_bolt_capped_finish_extra
+id_no_color: 1width1height45diameter9mmdepthm4screwwood45mmdiametertom6boltcappedfinishextra
+id_no_size: 1_width_1_height_45_diameter_9_mm_depth_m4_screw_wood_45_mm_diameter_to_m6_bolt_capped_finish_extra
+id_no_type: _adapter_1_width_1_height_45_diameter_9_mm_depth_m4_screw_wood_45_mm_diameter_to_m6_bolt_capped_finish_extra
+link_1: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/_adapter/1_width_1_height_45_diameter_9_mm_depth/m4_screw_wood_45_mm_diameter_to_m6_bolt_capped_finish_extra/part
+link_1_name: link_main
 link_main: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/_adapter/1_width_1_height_45_diameter_9_mm_depth/m4_screw_wood_45_mm_diameter_to_m6_bolt_capped_finish_extra/part
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%207vpmp
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%207vpmp
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%207vpmp
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%207vpmp
 link_redirect: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/oobb__adapter_01_01_45_09_ex_m4_screw_wood_45_mm_diameter_to_m6_bolt_capped_finish
 manufacturer: ''
+manufacturer_name: ''
+md5: c9fa81d5c849d6a528d508b669d29945
+md5_10: c9fa81d5c8
+md5_10_upper: C9FA81D5C8
+md5_5: c9fa8
+md5_5_upper: C9FA8
+md5_6: c9fa81
+md5_6_alpha: 7vpmp
+md5_6_alpha_upper: 7VPMP
+md5_6_upper: C9FA81
 name: Oobb Part  Adapter 1 Width 1 Height 45 Diameter 9 mm Depth M4 Screw Wood 45
-    mm Diameter To M6 Bolt Capped Finish Extra
+  mm Diameter To M6 Bolt Capped Finish Extra
+name_no_class: Part  Adapter 1 Width 1 Height 45 Diameter 9 mm Depth M4 Screw Wood
+  45 mm Diameter To M6 Bolt Capped Finish Extra
+name_no_color: 1Width1Height45Diameter9mmdepthm4Screwwood45mmdiametertom6Boltcappedfinishextra
+name_no_size: 1 Width 1 Height 45 Diameter 9 mm Depth M4 Screw Wood 45 mm Diameter
+  To M6 Bolt Capped Finish Extra
+name_no_type: ' Adapter 1 Width 1 Height 45 Diameter 9 mm Depth M4 Screw Wood 45 mm
+  Diameter To M6 Bolt Capped Finish Extra'
 name_short: Adapter 1x1x45x9 M4 Screw Wood 45
+oomlout_detail_hierarchy_1: oobb
+oomlout_detail_hierarchy_1_upper: OOBB
+oomlout_detail_hierarchy_1_upper_length_4: OOBB
+oomlout_detail_hierarchy_2: part
+oomlout_detail_hierarchy_2_upper: PART
+oomlout_detail_hierarchy_2_upper_length_4: PART
+oomlout_detail_hierarchy_3: _adapter
+oomlout_detail_hierarchy_3_upper: _ADAPTER
+oomlout_detail_hierarchy_3_upper_length_4: _ADA
+oomlout_detail_hierarchy_4: 45_diameter
+oomlout_detail_hierarchy_4_upper: 45_DIAMETER
+oomlout_detail_hierarchy_4_upper_length_4: 45_D
+oomlout_detail_hierarchy_5: 9_mm_depth
+oomlout_detail_hierarchy_5_upper: 9_MM_DEPTH
+oomlout_detail_hierarchy_5_upper_length_4: 9DEP
+oomlout_detail_hierarchy_6: m4_swood_45_mm
+oomlout_detail_hierarchy_6_upper: M4_SWOOD_45_MM
+oomlout_detail_hierarchy_6_upper_length_4: M4_S
+oomlout_detail_hierarchy_7: diameter_to_m6_bolt
+oomlout_detail_hierarchy_7_upper: DIAMETER_TO_M6_BOLT
+oomlout_detail_hierarchy_7_upper_length_4: DIAM
+oomlout_detail_hierarchy_8: capped_finish_extra
+oomlout_detail_hierarchy_8_upper: CAPPED_FINISH_EXTRA
+oomlout_detail_hierarchy_8_upper_length_4: CAPP
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_oobb_part__adapter_1_width_1_height_45_diameter_9_mm_depth_m4_screw_wood_45_mm_diameter_to_m6_bolt_capped_finish_extra
+oomp_word: lemon nine watch
+oomp_word_emoji: ':lemon: :nine: :watch:'
+oomp_word_emoji_list:
+- ':lemon:'
+- ':nine:'
+- ':watch:'
+oomp_word_list:
+- lemon
+- nine
+- watch
 part_number: ''
+part_number_name: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
 short_name: ''
 size: _adapter
+size_length_1: _
+size_length_2: _a
+size_length_3: _ad
+size_length_4: _ada
+size_length_5: _adap
+size_length_6: _adapt
+size_name: ' Adapter'
+size_no_space_length_1: a
+size_no_space_length_2: ad
+size_no_space_length_3: ada
+size_no_space_length_4: adap
+size_no_space_length_5: adapt
+size_no_space_length_6: adapte
+size_no_space_upper_length_1: A
+size_no_space_upper_length_2: AD
+size_no_space_upper_length_3: ADA
+size_no_space_upper_length_4: ADAP
+size_no_space_upper_length_5: ADAPT
+size_no_space_upper_length_6: ADAPTE
+size_upper_length_1: _
+size_upper_length_2: _A
+size_upper_length_3: _AD
+size_upper_length_4: _ADA
+size_upper_length_5: _ADAP
+size_upper_length_6: _ADAPT
 thickness: 9
 thickness_mm: 9
 type: part
+type_length_1: p
+type_length_2: pa
+type_length_3: par
+type_length_4: part
+type_length_5: part
+type_length_6: part
+type_name: Part
+type_no_space_length_1: p
+type_no_space_length_2: pa
+type_no_space_length_3: par
+type_no_space_length_4: part
+type_no_space_length_5: part
+type_no_space_length_6: part
+type_no_space_upper_length_1: P
+type_no_space_upper_length_2: PA
+type_no_space_upper_length_3: PAR
+type_no_space_upper_length_4: PART
+type_no_space_upper_length_5: PART
+type_no_space_upper_length_6: PART
+type_upper_length_1: P
+type_upper_length_2: PA
+type_upper_length_3: PAR
+type_upper_length_4: PART
+type_upper_length_5: PART
+type_upper_length_6: PART
 width: 1
 width_mm: 14

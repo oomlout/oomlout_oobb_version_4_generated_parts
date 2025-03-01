@@ -6680,12 +6680,31 @@
                                 "size": 4.5,
                                 "pos": [
                                     0,
+                                    14,
+                                    0
+                                ],
+                                "m": "*",
+                                "depth": 1,
+                                "text": "COMMENT motor_servo_standard_01_shaft_",
+                                "font": "Arial:style=Bold"
+                            }
+                        ],
+                        [
+                            {
+                                "type": "n",
+                                "shape": "text",
+                                "color": "gray",
+                                "center": true,
+                                "comment": "motor_servo_standard_01_shaft_hole",
+                                "size": 4.5,
+                                "pos": [
+                                    0,
                                     7,
                                     0
                                 ],
                                 "m": "*",
                                 "depth": 1,
-                                "text": "COMMENT motor_servo_standard_01_shaft_hole",
+                                "text": "hole",
                                 "font": "Arial:style=Bold"
                             }
                         ]
@@ -20015,12 +20034,31 @@
                                 "size": 4.5,
                                 "pos": [
                                     0,
+                                    14,
+                                    0
+                                ],
+                                "m": "*",
+                                "depth": 1,
+                                "text": "COMMENT motor_servo_standard_01_shaft_",
+                                "font": "Arial:style=Bold"
+                            }
+                        ],
+                        [
+                            {
+                                "type": "n",
+                                "shape": "text",
+                                "color": "gray",
+                                "center": true,
+                                "comment": "motor_servo_standard_01_shaft_hole",
+                                "size": 4.5,
+                                "pos": [
+                                    0,
                                     7,
                                     0
                                 ],
                                 "m": "*",
                                 "depth": 1,
-                                "text": "COMMENT motor_servo_standard_01_shaft_hole",
+                                "text": "hole",
                                 "font": "Arial:style=Bold"
                             }
                         ]
@@ -33219,12 +33257,31 @@
                                 "size": 4.5,
                                 "pos": [
                                     0,
+                                    14,
+                                    0
+                                ],
+                                "m": "*",
+                                "depth": 1,
+                                "text": "COMMENT motor_servo_standard_01_shaft_",
+                                "font": "Arial:style=Bold"
+                            }
+                        ],
+                        [
+                            {
+                                "type": "n",
+                                "shape": "text",
+                                "color": "gray",
+                                "center": true,
+                                "comment": "motor_servo_standard_01_shaft_hole",
+                                "size": 4.5,
+                                "pos": [
+                                    0,
                                     7,
                                     0
                                 ],
                                 "m": "*",
                                 "depth": 1,
-                                "text": "COMMENT motor_servo_standard_01_shaft_hole",
+                                "text": "hole",
                                 "font": "Arial:style=Bold"
                             }
                         ]

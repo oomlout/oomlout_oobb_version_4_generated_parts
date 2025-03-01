@@ -87,7 +87,7 @@ plate 3x1x9
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%2021qst |  
 | link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%2021qst |  
 | link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%2021qst |  
-| link_redirect | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/oobb_plate_03_01_09 |  
+| link_redirect | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/_plate_03_01_09 |  
 | manufacturer |  |  
 | manufacturer_name |  |  
 | md5 | 347fed72141f6304837d231744e7564d |  

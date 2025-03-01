@@ -87,7 +87,7 @@ plate 1x1x3
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%204kken |  
 | link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%204kken |  
 | link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%204kken |  
-| link_redirect | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/oobb_plate_01_01_03 |  
+| link_redirect | https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/_plate_01_01_03 |  
 | manufacturer |  |  
 | manufacturer_name |  |  
 | md5 | 75284f5d19024fe37f80f73330c9cfea |  
