@@ -1,1 +1,0 @@
-* [tool_tdpb_drill_cleaner_m6_extra](tool_tdpb_drill_cleaner_m6_extra)

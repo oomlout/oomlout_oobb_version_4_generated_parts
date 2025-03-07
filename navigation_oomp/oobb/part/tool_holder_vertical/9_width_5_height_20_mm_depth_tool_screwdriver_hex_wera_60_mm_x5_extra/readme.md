@@ -1,1 +1,0 @@
-* [tool_screwdriver_hex_wera_60_mm_x5_extra](tool_screwdriver_hex_wera_60_mm_x5_extra)

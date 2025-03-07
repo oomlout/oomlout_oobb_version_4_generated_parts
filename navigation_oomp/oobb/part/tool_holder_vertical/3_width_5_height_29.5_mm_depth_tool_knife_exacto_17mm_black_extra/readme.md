@@ -1,1 +1,0 @@
-* [tool_knife_exacto_17mm_black_extra](tool_knife_exacto_17mm_black_extra)

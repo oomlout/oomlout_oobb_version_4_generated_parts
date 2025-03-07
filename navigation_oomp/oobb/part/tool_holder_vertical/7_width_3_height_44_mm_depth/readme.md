@@ -1,1 +1,0 @@
-* [tool_measure_tape_measure_5000_mm_length_stanley_1_30_696_extra](tool_measure_tape_measure_5000_mm_length_stanley_1_30_696_extra)

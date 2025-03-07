@@ -1,0 +1,70 @@
+bearing: '6704'
+classification: oobb
+color: ''
+components:
+-   -   depth: 2
+        h: 2
+        inclusion: laser
+        pos: &id001
+        - 0
+        - 0
+        - -1.0
+        r: 12.0
+        shape: cylinder
+        type: p
+    -   depth: 2
+        h: 2
+        inclusion: 3dpr
+        pos: *id001
+        r: 12.2
+        shape: cylinder
+        type: p
+    -   depth: 2
+        h: 2
+        inclusion: 'true'
+        pos: *id001
+        r: 12.0
+        shape: cylinder
+        type: p
+-   -   depth: 2
+        h: 2
+        inclusion: laser
+        pos: &id002
+        - 0
+        - 0
+        - -1.0
+        r: 8.5
+        shape: cylinder
+        type: n
+    -   depth: 2
+        h: 2
+        inclusion: 3dpr
+        pos: *id002
+        r: 8.5
+        shape: cylinder
+        type: n
+    -   depth: 2
+        h: 2
+        inclusion: 'true'
+        pos: *id002
+        r: 8.5
+        shape: cylinder
+        type: n
+components_objects: []
+components_string: []
+description: bearing plate shim 0x0x2
+description_extra: 6704_bearing
+description_main: 2_mm_depth
+folder: C:\gh\oomlout_oobb_version_4_generated_parts\parts\oobb_part_bearing_plate_shim_2_mm_depth_6704_bearing
+id: oobb_part_bearing_plate_shim_2_mm_depth_6704_bearing
+link_main: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/bearing_plate_shim/2_mm_depth/6704_bearing/part
+link_redirect: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/oobb_bearing_plate_shim_02_6704
+manufacturer: ''
+name: Oobb Part Bearing Plate Shim 2 mm Depth 6704 Bearing
+name_short: Bearing Plate Shim 2 6704 Bearing
+part_number: ''
+short_name: ''
+size: bearing_plate_shim
+thickness: 2
+thickness_mm: 2
+type: part

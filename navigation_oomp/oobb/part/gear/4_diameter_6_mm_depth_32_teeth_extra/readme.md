@@ -1,6 +1,0 @@
-* [32_teeth_extra](32_teeth_extra)
-* [electronic_potentiometer_17_mm_shaft_32_teeth_extra](electronic_potentiometer_17_mm_shaft_32_teeth_extra)
-* [m3_shaft_32_teeth_extra](m3_shaft_32_teeth_extra)
-* [motor_n20_shaft_32_teeth_extra](motor_n20_shaft_32_teeth_extra)
-* [motor_servo_standard_01_shaft_32_teeth_extra](motor_servo_standard_01_shaft_32_teeth_extra)
-* [motor_tt_01_shaft_32_teeth_extra](motor_tt_01_shaft_32_teeth_extra)

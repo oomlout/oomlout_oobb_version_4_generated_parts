@@ -1,1 +1,0 @@
-* [tool_tdpb_glue_stick_prit_medium_extra](tool_tdpb_glue_stick_prit_medium_extra)

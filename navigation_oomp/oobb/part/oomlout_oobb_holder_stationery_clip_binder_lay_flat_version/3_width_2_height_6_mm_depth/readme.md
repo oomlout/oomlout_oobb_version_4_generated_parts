@@ -1,2 +1,0 @@
-* [stationery_clip_binder_100_mm_width_metal_extra](stationery_clip_binder_100_mm_width_metal_extra)
-* [stationery_clip_binder_38_mm_width_metal_extra](stationery_clip_binder_38_mm_width_metal_extra)

@@ -21,6 +21,10 @@ def main(**kwargs):
         command = f"copy {repo_dir}\\configuration {config_dir}"
         print(command)
         os.system(command)
+
+        
+
+
         
     
 

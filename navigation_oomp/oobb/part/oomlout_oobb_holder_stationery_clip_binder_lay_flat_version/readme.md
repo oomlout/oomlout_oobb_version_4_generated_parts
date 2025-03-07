@@ -1,3 +1,0 @@
-* [3_width_2_height_6_mm_depth](3_width_2_height_6_mm_depth)
-  * [stationery_clip_binder_100_mm_width_metal_extra](3_width_2_height_6_mm_depth/stationery_clip_binder_100_mm_width_metal_extra)
-  * [stationery_clip_binder_38_mm_width_metal_extra](3_width_2_height_6_mm_depth/stationery_clip_binder_38_mm_width_metal_extra)

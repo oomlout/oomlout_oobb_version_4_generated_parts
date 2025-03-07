@@ -1,1 +1,0 @@
-* [tool_side_cutters_generic_110_mm_red_extra](tool_side_cutters_generic_110_mm_red_extra)

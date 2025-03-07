@@ -1,1 +1,0 @@
-* [tool_wire_strippers_generic_120_red_extra](tool_wire_strippers_generic_120_red_extra)

@@ -1,1 +1,0 @@
-* [electronic_prototyping_breadboard_400_point_extra](electronic_prototyping_breadboard_400_point_extra)

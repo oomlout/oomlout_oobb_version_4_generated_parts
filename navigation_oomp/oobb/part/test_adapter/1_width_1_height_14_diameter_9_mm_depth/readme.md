@@ -1,2 +1,0 @@
-* [m5_screw_wood_14_mm_diameter_to_flat_extra](m5_screw_wood_14_mm_diameter_to_flat_extra)
-* [m5_screw_wood_14_mm_diameter_to_m6_bolt_extra](m5_screw_wood_14_mm_diameter_to_m6_bolt_extra)

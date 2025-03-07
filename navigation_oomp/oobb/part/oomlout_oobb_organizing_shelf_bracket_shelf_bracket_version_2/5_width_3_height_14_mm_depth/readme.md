@@ -1,2 +1,0 @@
-* [attach_left_side_18_mm_depth_shelf_extra](attach_left_side_18_mm_depth_shelf_extra)
-* [attach_right_side_18_mm_depth_shelf_extra](attach_right_side_18_mm_depth_shelf_extra)

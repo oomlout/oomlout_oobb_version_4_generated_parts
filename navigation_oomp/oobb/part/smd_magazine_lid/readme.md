@@ -1,6 +1,0 @@
-* [2_width_2_height](2_width_2_height)
-* [3_width_3_height](3_width_3_height)
-* [4_width_4_height](4_width_4_height)
-* [5_width_5_height](5_width_5_height)
-* [7_width_7_height](7_width_7_height)
-* [9_width_9_height](9_width_9_height)

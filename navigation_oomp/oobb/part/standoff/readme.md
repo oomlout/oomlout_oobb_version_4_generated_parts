@@ -1,8 +1,0 @@
-* [m3_radius_name_10_depth](m3_radius_name_10_depth)
-* [m3_radius_name_12_depth](m3_radius_name_12_depth)
-* [m3_radius_name_15_depth](m3_radius_name_15_depth)
-* [m3_radius_name_20_depth](m3_radius_name_20_depth)
-* [m3_radius_name_25_depth](m3_radius_name_25_depth)
-* [m3_radius_name_30_depth](m3_radius_name_30_depth)
-* [m3_radius_name_6_depth](m3_radius_name_6_depth)
-* [m3_radius_name_8_depth](m3_radius_name_8_depth)

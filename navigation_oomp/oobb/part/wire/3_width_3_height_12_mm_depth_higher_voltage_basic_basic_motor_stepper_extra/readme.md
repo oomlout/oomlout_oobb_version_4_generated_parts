@@ -1,1 +1,0 @@
-* [higher_voltage_basic_basic_motor_stepper_extra](higher_voltage_basic_basic_motor_stepper_extra)

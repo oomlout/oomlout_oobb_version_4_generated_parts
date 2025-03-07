@@ -1,1 +1,0 @@
-* [tool_screwdriver_driver_bit_x8_extra](tool_screwdriver_driver_bit_x8_extra)

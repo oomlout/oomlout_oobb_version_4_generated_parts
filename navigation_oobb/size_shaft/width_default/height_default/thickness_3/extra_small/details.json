@@ -1,0 +1,148 @@
+{
+    "description": "shaft 0x0x3",
+    "id": "oobb_part_shaft_3_mm_depth_small_extra_small_extra",
+    "type": "part",
+    "thickness": 3,
+    "extra": "small",
+    "thickness_mm": 3,
+    "components": [
+        [
+            {
+                "type": "p",
+                "shape": "cylinder",
+                "r": 5.0,
+                "radius": 5.0,
+                "h": 3,
+                "pos": [
+                    0,
+                    0,
+                    -1.5
+                ],
+                "inclusion": "laser",
+                "depth": 3
+            },
+            {
+                "type": "p",
+                "shape": "cylinder",
+                "r": 5.0,
+                "radius": 5.0,
+                "h": 3,
+                "pos": [
+                    0,
+                    0,
+                    -1.5
+                ],
+                "inclusion": "3dpr",
+                "depth": 3
+            },
+            {
+                "type": "p",
+                "shape": "cylinder",
+                "r": 5.0,
+                "radius": 5.0,
+                "h": 3,
+                "pos": [
+                    0,
+                    0,
+                    -1.5
+                ],
+                "inclusion": "true",
+                "depth": 3
+            }
+        ],
+        [
+            {
+                "type": "p",
+                "shape": "cylinder",
+                "r": 3.0,
+                "h": 6,
+                "pos": [
+                    0,
+                    0,
+                    -1.5
+                ],
+                "inclusion": "laser",
+                "depth": 6
+            },
+            {
+                "type": "p",
+                "shape": "cylinder",
+                "r": 2.85,
+                "h": 6,
+                "pos": [
+                    0,
+                    0,
+                    -1.5
+                ],
+                "inclusion": "3dpr",
+                "depth": 6
+            },
+            {
+                "type": "p",
+                "shape": "cylinder",
+                "r": 3.0,
+                "h": 6,
+                "pos": [
+                    0,
+                    0,
+                    -1.5
+                ],
+                "inclusion": "true",
+                "depth": 6
+            }
+        ],
+        [
+            {
+                "type": "n",
+                "shape": "cylinder",
+                "r": 1.5,
+                "h": 200,
+                "pos": [
+                    0,
+                    0,
+                    -100.0
+                ],
+                "inclusion": "laser"
+            },
+            {
+                "type": "n",
+                "shape": "cylinder",
+                "r": 1.8,
+                "h": 200,
+                "pos": [
+                    0,
+                    0,
+                    -100.0
+                ],
+                "inclusion": "3dpr"
+            },
+            {
+                "type": "n",
+                "shape": "cylinder",
+                "r": 1.5,
+                "h": 200,
+                "pos": [
+                    0,
+                    0,
+                    -100.0
+                ],
+                "inclusion": "true"
+            }
+        ]
+    ],
+    "components_string": [],
+    "components_objects": [],
+    "classification": "oobb",
+    "size": "shaft",
+    "color": "",
+    "description_main": "3_mm_depth_small_extra",
+    "description_extra": "small_extra",
+    "manufacturer": "",
+    "part_number": "",
+    "short_name": "",
+    "link_redirect": "https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/oobb_shaft_03_ex_small",
+    "link_main": "https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/shaft/3_mm_depth_small_extra/small_extra/part",
+    "name": "Oobb Part Shaft 3 mm Depth Small Extra Small Extra",
+    "name_short": "Shaft 3 Small Extra Small Extra",
+    "folder": "C:\\gh\\oomlout_oobb_version_4_generated_parts\\parts\\oobb_part_shaft_3_mm_depth_small_extra_small_extra"
+}

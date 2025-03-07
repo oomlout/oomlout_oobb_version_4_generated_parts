@@ -1,1 +1,0 @@
-* [tool_pliers_needlenose_generic_130_mm_blue_extra](tool_pliers_needlenose_generic_130_mm_blue_extra)

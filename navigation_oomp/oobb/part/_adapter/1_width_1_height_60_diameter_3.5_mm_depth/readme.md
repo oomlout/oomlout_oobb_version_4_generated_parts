@@ -1,4 +1,0 @@
-* [m4_nut_60_mm_diameter_to_flat_capped_finish_extra](m4_nut_60_mm_diameter_to_flat_capped_finish_extra)
-* [m4_nut_60_mm_diameter_to_flat_extra](m4_nut_60_mm_diameter_to_flat_extra)
-* [m4_nut_60_mm_diameter_to_m6_bolt_capped_finish_extra](m4_nut_60_mm_diameter_to_m6_bolt_capped_finish_extra)
-* [m4_nut_60_mm_diameter_to_m6_bolt_extra](m4_nut_60_mm_diameter_to_m6_bolt_extra)
