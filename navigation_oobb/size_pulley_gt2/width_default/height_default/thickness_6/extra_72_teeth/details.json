@@ -1,11 +1,11 @@
 {
     "description": "pulley gt2 0x0x6",
-    "id": "oobb_part_pulley_gt2_3_diameter_6_mm_depth_motor_servo_standard_01_shaft_72_teeth_extra",
+    "id": "oobb_part_pulley_gt2_3_diameter_6_mm_depth_motor_tt_01_shaft_72_teeth_extra",
     "type": "part",
     "diameter": 3,
     "thickness": 6,
     "extra": "72_teeth",
-    "shaft": "motor_servo_standard_01",
+    "shaft": "motor_tt_01",
     "thickness_mm": 6,
     "components": [
         [
@@ -1543,554 +1543,338 @@
             ]
         ],
         [
-            {
-                "type": "rotation",
-                "typetype": "n",
-                "pos": [
-                    0,
-                    0,
-                    2
-                ],
-                "rot": [
-                    0,
-                    0,
-                    45
-                ],
-                "objects": [
+            [
+                [
                     [
                         {
-                            "type": "p",
-                            "shape": "cylinder",
-                            "r": 1.25,
-                            "h": 200,
+                            "type": "n",
+                            "shape": "cube",
+                            "size": [
+                                5.4,
+                                3.75,
+                                6
+                            ],
                             "pos": [
-                                0,
-                                0,
-                                -100.0
+                                -2.7,
+                                -1.875,
+                                -6
                             ],
-                            "inclusion": "laser",
-                            "m": "#"
-                        },
-                        {
-                            "type": "p",
-                            "shape": "cylinder",
-                            "r": 1.55,
-                            "h": 200,
-                            "pos": [
-                                0,
-                                0,
-                                -100.0
-                            ],
-                            "inclusion": "3dpr",
-                            "m": "#"
-                        },
-                        {
-                            "type": "p",
-                            "shape": "cylinder",
-                            "r": 1.25,
-                            "h": 200,
-                            "pos": [
-                                0,
-                                0,
-                                -100.0
-                            ],
-                            "inclusion": "true",
-                            "m": "#"
-                        }
-                    ],
-                    [
-                        {
-                            "type": "rotation",
-                            "typetype": "p",
-                            "pos": [
-                                0,
-                                -7.375,
-                                2.5
-                            ],
-                            "rot": [
-                                0,
-                                0,
-                                0
-                            ],
-                            "objects": [
-                                [
-                                    [
-                                        {
-                                            "type": "positive",
-                                            "shape": "cylinder",
-                                            "r": 2.5,
-                                            "h": 1.25,
-                                            "pos": [
-                                                0,
-                                                0,
-                                                -1.25
-                                            ],
-                                            "inclusion": "laser",
-                                            "m": "#",
-                                            "depth": 15,
-                                            "clearance": "top"
-                                        }
-                                    ]
-                                ],
-                                [
-                                    {
-                                        "type": "positive",
-                                        "shape": "cylinder",
-                                        "r": 1.0,
-                                        "radius": 1.0,
-                                        "h": 15,
-                                        "pos": [
-                                            0,
-                                            0,
-                                            -16.25
-                                        ],
-                                        "inclusion": "laser",
-                                        "m": "#",
-                                        "depth": 15,
-                                        "clearance": "top"
-                                    },
-                                    {
-                                        "type": "positive",
-                                        "shape": "cylinder",
-                                        "r": 1.0,
-                                        "radius": 1.0,
-                                        "h": 15,
-                                        "pos": [
-                                            0,
-                                            0,
-                                            -16.25
-                                        ],
-                                        "inclusion": "3dpr",
-                                        "m": "#",
-                                        "depth": 15,
-                                        "clearance": "top"
-                                    },
-                                    {
-                                        "type": "positive",
-                                        "shape": "cylinder",
-                                        "r": 1.0,
-                                        "radius": 1.0,
-                                        "h": 15,
-                                        "pos": [
-                                            0,
-                                            0,
-                                            -16.25
-                                        ],
-                                        "inclusion": "true",
-                                        "m": "#",
-                                        "depth": 15,
-                                        "clearance": "top"
-                                    }
-                                ],
-                                [
-                                    [
-                                        {
-                                            "type": "positive",
-                                            "shape": "cylinder",
-                                            "r": 2.75,
-                                            "h": 252.5,
-                                            "pos": [
-                                                0,
-                                                0,
-                                                -2.5
-                                            ],
-                                            "inclusion": "3dpr",
-                                            "m": "#",
-                                            "depth": 15,
-                                            "clearance": "top"
-                                        }
-                                    ]
-                                ],
-                                [
-                                    {
-                                        "type": "positive",
-                                        "shape": "cylinder",
-                                        "r": 1.375,
-                                        "radius": 1.375,
-                                        "h": 15,
-                                        "pos": [
-                                            0,
-                                            0,
-                                            -17.5
-                                        ],
-                                        "inclusion": "laser",
-                                        "m": "#",
-                                        "depth": 15,
-                                        "clearance": "top"
-                                    },
-                                    {
-                                        "type": "positive",
-                                        "shape": "cylinder",
-                                        "r": 1.375,
-                                        "radius": 1.375,
-                                        "h": 15,
-                                        "pos": [
-                                            0,
-                                            0,
-                                            -17.5
-                                        ],
-                                        "inclusion": "3dpr",
-                                        "m": "#",
-                                        "depth": 15,
-                                        "clearance": "top"
-                                    },
-                                    {
-                                        "type": "positive",
-                                        "shape": "cylinder",
-                                        "r": 1.375,
-                                        "radius": 1.375,
-                                        "h": 15,
-                                        "pos": [
-                                            0,
-                                            0,
-                                            -17.5
-                                        ],
-                                        "inclusion": "true",
-                                        "m": "#",
-                                        "depth": 15,
-                                        "clearance": "top"
-                                    }
-                                ],
-                                [
-                                    [
-                                        {
-                                            "type": "positive",
-                                            "shape": "cylinder",
-                                            "r": 2.5,
-                                            "h": 1.3,
-                                            "pos": [
-                                                0,
-                                                0,
-                                                -1.3
-                                            ],
-                                            "inclusion": "true",
-                                            "m": "#",
-                                            "depth": 15,
-                                            "clearance": "top"
-                                        }
-                                    ]
-                                ],
-                                [
-                                    {
-                                        "type": "positive",
-                                        "shape": "cylinder",
-                                        "r": 1.0,
-                                        "radius": 1.0,
-                                        "h": 15,
-                                        "pos": [
-                                            0,
-                                            0,
-                                            -16.3
-                                        ],
-                                        "inclusion": "laser",
-                                        "m": "#",
-                                        "depth": 15,
-                                        "clearance": "top"
-                                    },
-                                    {
-                                        "type": "positive",
-                                        "shape": "cylinder",
-                                        "r": 1.0,
-                                        "radius": 1.0,
-                                        "h": 15,
-                                        "pos": [
-                                            0,
-                                            0,
-                                            -16.3
-                                        ],
-                                        "inclusion": "3dpr",
-                                        "m": "#",
-                                        "depth": 15,
-                                        "clearance": "top"
-                                    },
-                                    {
-                                        "type": "positive",
-                                        "shape": "cylinder",
-                                        "r": 1.0,
-                                        "radius": 1.0,
-                                        "h": 15,
-                                        "pos": [
-                                            0,
-                                            0,
-                                            -16.3
-                                        ],
-                                        "inclusion": "true",
-                                        "m": "#",
-                                        "depth": 15,
-                                        "clearance": "top"
-                                    }
-                                ]
-                            ]
-                        }
-                    ],
-                    [
-                        {
-                            "type": "rotation",
-                            "typetype": "p",
-                            "pos": [
-                                0,
-                                7.375,
-                                2.5
-                            ],
-                            "rot": [
-                                0,
-                                0,
-                                0
-                            ],
-                            "objects": [
-                                [
-                                    [
-                                        {
-                                            "type": "positive",
-                                            "shape": "cylinder",
-                                            "r": 2.5,
-                                            "h": 1.25,
-                                            "pos": [
-                                                0,
-                                                0,
-                                                -1.25
-                                            ],
-                                            "inclusion": "laser",
-                                            "m": "#",
-                                            "depth": 15,
-                                            "clearance": "top"
-                                        }
-                                    ]
-                                ],
-                                [
-                                    {
-                                        "type": "positive",
-                                        "shape": "cylinder",
-                                        "r": 1.0,
-                                        "radius": 1.0,
-                                        "h": 15,
-                                        "pos": [
-                                            0,
-                                            0,
-                                            -16.25
-                                        ],
-                                        "inclusion": "laser",
-                                        "m": "#",
-                                        "depth": 15,
-                                        "clearance": "top"
-                                    },
-                                    {
-                                        "type": "positive",
-                                        "shape": "cylinder",
-                                        "r": 1.0,
-                                        "radius": 1.0,
-                                        "h": 15,
-                                        "pos": [
-                                            0,
-                                            0,
-                                            -16.25
-                                        ],
-                                        "inclusion": "3dpr",
-                                        "m": "#",
-                                        "depth": 15,
-                                        "clearance": "top"
-                                    },
-                                    {
-                                        "type": "positive",
-                                        "shape": "cylinder",
-                                        "r": 1.0,
-                                        "radius": 1.0,
-                                        "h": 15,
-                                        "pos": [
-                                            0,
-                                            0,
-                                            -16.25
-                                        ],
-                                        "inclusion": "true",
-                                        "m": "#",
-                                        "depth": 15,
-                                        "clearance": "top"
-                                    }
-                                ],
-                                [
-                                    [
-                                        {
-                                            "type": "positive",
-                                            "shape": "cylinder",
-                                            "r": 2.75,
-                                            "h": 252.5,
-                                            "pos": [
-                                                0,
-                                                0,
-                                                -2.5
-                                            ],
-                                            "inclusion": "3dpr",
-                                            "m": "#",
-                                            "depth": 15,
-                                            "clearance": "top"
-                                        }
-                                    ]
-                                ],
-                                [
-                                    {
-                                        "type": "positive",
-                                        "shape": "cylinder",
-                                        "r": 1.375,
-                                        "radius": 1.375,
-                                        "h": 15,
-                                        "pos": [
-                                            0,
-                                            0,
-                                            -17.5
-                                        ],
-                                        "inclusion": "laser",
-                                        "m": "#",
-                                        "depth": 15,
-                                        "clearance": "top"
-                                    },
-                                    {
-                                        "type": "positive",
-                                        "shape": "cylinder",
-                                        "r": 1.375,
-                                        "radius": 1.375,
-                                        "h": 15,
-                                        "pos": [
-                                            0,
-                                            0,
-                                            -17.5
-                                        ],
-                                        "inclusion": "3dpr",
-                                        "m": "#",
-                                        "depth": 15,
-                                        "clearance": "top"
-                                    },
-                                    {
-                                        "type": "positive",
-                                        "shape": "cylinder",
-                                        "r": 1.375,
-                                        "radius": 1.375,
-                                        "h": 15,
-                                        "pos": [
-                                            0,
-                                            0,
-                                            -17.5
-                                        ],
-                                        "inclusion": "true",
-                                        "m": "#",
-                                        "depth": 15,
-                                        "clearance": "top"
-                                    }
-                                ],
-                                [
-                                    [
-                                        {
-                                            "type": "positive",
-                                            "shape": "cylinder",
-                                            "r": 2.5,
-                                            "h": 1.3,
-                                            "pos": [
-                                                0,
-                                                0,
-                                                -1.3
-                                            ],
-                                            "inclusion": "true",
-                                            "m": "#",
-                                            "depth": 15,
-                                            "clearance": "top"
-                                        }
-                                    ]
-                                ],
-                                [
-                                    {
-                                        "type": "positive",
-                                        "shape": "cylinder",
-                                        "r": 1.0,
-                                        "radius": 1.0,
-                                        "h": 15,
-                                        "pos": [
-                                            0,
-                                            0,
-                                            -16.3
-                                        ],
-                                        "inclusion": "laser",
-                                        "m": "#",
-                                        "depth": 15,
-                                        "clearance": "top"
-                                    },
-                                    {
-                                        "type": "positive",
-                                        "shape": "cylinder",
-                                        "r": 1.0,
-                                        "radius": 1.0,
-                                        "h": 15,
-                                        "pos": [
-                                            0,
-                                            0,
-                                            -16.3
-                                        ],
-                                        "inclusion": "3dpr",
-                                        "m": "#",
-                                        "depth": 15,
-                                        "clearance": "top"
-                                    },
-                                    {
-                                        "type": "positive",
-                                        "shape": "cylinder",
-                                        "r": 1.0,
-                                        "radius": 1.0,
-                                        "h": 15,
-                                        "pos": [
-                                            0,
-                                            0,
-                                            -16.3
-                                        ],
-                                        "inclusion": "true",
-                                        "m": "#",
-                                        "depth": 15,
-                                        "clearance": "top"
-                                    }
-                                ]
-                            ]
-                        }
-                    ],
-                    [
-                        {
-                            "type": "p",
-                            "shape": "cylinder",
-                            "r": 3.0,
-                            "h": 200,
-                            "pos": [
-                                0,
-                                0,
-                                -100.0
-                            ],
-                            "inclusion": "laser",
-                            "m": "#"
-                        },
-                        {
-                            "type": "p",
-                            "shape": "cylinder",
-                            "r": 3.25,
-                            "h": 200,
-                            "pos": [
-                                0,
-                                0,
-                                -100.0
-                            ],
-                            "inclusion": "3dpr",
-                            "m": "#"
-                        },
-                        {
-                            "type": "p",
-                            "shape": "cylinder",
-                            "r": 3.0,
-                            "h": 200,
-                            "pos": [
-                                0,
-                                0,
-                                -100.0
-                            ],
-                            "inclusion": "true",
                             "m": "#"
                         }
                     ]
                 ]
-            }
+            ],
+            [
+                [
+                    {
+                        "type": "rotation",
+                        "typetype": "n",
+                        "pos": [
+                            0,
+                            0,
+                            2
+                        ],
+                        "rot": [
+                            0,
+                            0,
+                            0
+                        ],
+                        "objects": [
+                            [
+                                [
+                                    {
+                                        "type": "positive",
+                                        "shape": "cylinder",
+                                        "r": 2.5,
+                                        "h": 1.25,
+                                        "pos": [
+                                            0,
+                                            0,
+                                            0
+                                        ],
+                                        "inclusion": "laser",
+                                        "m": "#",
+                                        "depth": 12,
+                                        "clearance": [
+                                            "top"
+                                        ]
+                                    }
+                                ]
+                            ],
+                            [
+                                {
+                                    "type": "positive",
+                                    "shape": "cylinder",
+                                    "r": 0.75,
+                                    "radius": 0.75,
+                                    "h": 12,
+                                    "pos": [
+                                        0,
+                                        0,
+                                        -12.0
+                                    ],
+                                    "inclusion": "laser",
+                                    "m": "#",
+                                    "depth": 12,
+                                    "clearance": [
+                                        "top"
+                                    ]
+                                },
+                                {
+                                    "type": "positive",
+                                    "shape": "cylinder",
+                                    "r": 0.75,
+                                    "radius": 0.75,
+                                    "h": 12,
+                                    "pos": [
+                                        0,
+                                        0,
+                                        -12.0
+                                    ],
+                                    "inclusion": "3dpr",
+                                    "m": "#",
+                                    "depth": 12,
+                                    "clearance": [
+                                        "top"
+                                    ]
+                                },
+                                {
+                                    "type": "positive",
+                                    "shape": "cylinder",
+                                    "r": 0.75,
+                                    "radius": 0.75,
+                                    "h": 12,
+                                    "pos": [
+                                        0,
+                                        0,
+                                        -12.0
+                                    ],
+                                    "inclusion": "true",
+                                    "m": "#",
+                                    "depth": 12,
+                                    "clearance": [
+                                        "top"
+                                    ]
+                                }
+                            ],
+                            [
+                                [
+                                    {
+                                        "type": "positive",
+                                        "shape": "cylinder",
+                                        "r": 2.75,
+                                        "h": 252.5,
+                                        "pos": [
+                                            0,
+                                            0,
+                                            0
+                                        ],
+                                        "inclusion": "3dpr",
+                                        "m": "#",
+                                        "depth": 12,
+                                        "clearance": [
+                                            "top"
+                                        ]
+                                    }
+                                ]
+                            ],
+                            [
+                                {
+                                    "type": "positive",
+                                    "shape": "cylinder",
+                                    "r": 1.0,
+                                    "radius": 1.0,
+                                    "h": 12,
+                                    "pos": [
+                                        0,
+                                        0,
+                                        -12.0
+                                    ],
+                                    "inclusion": "laser",
+                                    "m": "#",
+                                    "depth": 12,
+                                    "clearance": [
+                                        "top"
+                                    ]
+                                },
+                                {
+                                    "type": "positive",
+                                    "shape": "cylinder",
+                                    "r": 1.0,
+                                    "radius": 1.0,
+                                    "h": 12,
+                                    "pos": [
+                                        0,
+                                        0,
+                                        -12.0
+                                    ],
+                                    "inclusion": "3dpr",
+                                    "m": "#",
+                                    "depth": 12,
+                                    "clearance": [
+                                        "top"
+                                    ]
+                                },
+                                {
+                                    "type": "positive",
+                                    "shape": "cylinder",
+                                    "r": 1.0,
+                                    "radius": 1.0,
+                                    "h": 12,
+                                    "pos": [
+                                        0,
+                                        0,
+                                        -12.0
+                                    ],
+                                    "inclusion": "true",
+                                    "m": "#",
+                                    "depth": 12,
+                                    "clearance": [
+                                        "top"
+                                    ]
+                                }
+                            ],
+                            [
+                                [
+                                    [
+                                        [
+                                            {
+                                                "type": "positive",
+                                                "shape": "cube",
+                                                "size": [
+                                                    2.5,
+                                                    5.5,
+                                                    0.3
+                                                ],
+                                                "pos": [
+                                                    -1.25,
+                                                    -2.75,
+                                                    -0.3
+                                                ],
+                                                "rotX": 0,
+                                                "rotY": 0,
+                                                "rotZ": 0,
+                                                "inclusion": "3dpr",
+                                                "m": "#",
+                                                "depth": 12,
+                                                "clearance": [
+                                                    "top"
+                                                ]
+                                            }
+                                        ]
+                                    ]
+                                ],
+                                [
+                                    [
+                                        [
+                                            {
+                                                "type": "positive",
+                                                "shape": "cube",
+                                                "size": [
+                                                    2.5,
+                                                    2.5,
+                                                    0.3
+                                                ],
+                                                "pos": [
+                                                    -1.25,
+                                                    -1.25,
+                                                    -0.6
+                                                ],
+                                                "rotX": 0,
+                                                "rotY": 0,
+                                                "rotZ": 0,
+                                                "inclusion": "3dpr",
+                                                "m": "#",
+                                                "depth": 12,
+                                                "clearance": [
+                                                    "top"
+                                                ]
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            ],
+                            [
+                                [
+                                    {
+                                        "type": "positive",
+                                        "shape": "cylinder",
+                                        "r": 2.5,
+                                        "h": 1.3,
+                                        "pos": [
+                                            0,
+                                            0,
+                                            0
+                                        ],
+                                        "inclusion": "true",
+                                        "m": "#",
+                                        "depth": 12,
+                                        "clearance": [
+                                            "top"
+                                        ]
+                                    }
+                                ]
+                            ],
+                            [
+                                {
+                                    "type": "positive",
+                                    "shape": "cylinder",
+                                    "r": 0.75,
+                                    "radius": 0.75,
+                                    "h": 12,
+                                    "pos": [
+                                        0,
+                                        0,
+                                        -12.0
+                                    ],
+                                    "inclusion": "laser",
+                                    "m": "#",
+                                    "depth": 12,
+                                    "clearance": [
+                                        "top"
+                                    ]
+                                },
+                                {
+                                    "type": "positive",
+                                    "shape": "cylinder",
+                                    "r": 0.75,
+                                    "radius": 0.75,
+                                    "h": 12,
+                                    "pos": [
+                                        0,
+                                        0,
+                                        -12.0
+                                    ],
+                                    "inclusion": "3dpr",
+                                    "m": "#",
+                                    "depth": 12,
+                                    "clearance": [
+                                        "top"
+                                    ]
+                                },
+                                {
+                                    "type": "positive",
+                                    "shape": "cylinder",
+                                    "r": 0.75,
+                                    "radius": 0.75,
+                                    "h": 12,
+                                    "pos": [
+                                        0,
+                                        0,
+                                        -12.0
+                                    ],
+                                    "inclusion": "true",
+                                    "m": "#",
+                                    "depth": 12,
+                                    "clearance": [
+                                        "top"
+                                    ]
+                                }
+                            ]
+                        ]
+                    }
+                ]
+            ]
         ],
         [
             {
@@ -2141,17 +1925,17 @@
         ]
     ],
     "components_string": [
-        "pulley_gt2_shape_p_type_8.5_depth_0_0_-4.25_pos_6_thickness_72_teeth_extra_motor_servo_standard_01_shaft_3_diameter_72_number_of_teeth",
-        "oobb_holes_shape_n_type_6_thickness_72_teeth_extra_motor_servo_standard_01_shaft_3_diameter_1_width_1_height_true_both_holes_true_circle_false_middle",
-        "oobb_motor_servo_standard_01_shape_n_type_0_0_2_pos_6_thickness_motor_servo_standard_01_shaft_3_diameter_shaft_part_0_0_45_rot_false_overhang",
-        "oobb_slice_shape_n_type_6_thickness_72_teeth_extra_motor_servo_standard_01_shaft_3_diameter"
+        "pulley_gt2_shape_p_type_8.5_depth_0_0_-4.25_pos_6_thickness_72_teeth_extra_motor_tt_01_shaft_3_diameter_72_number_of_teeth",
+        "oobb_holes_shape_n_type_6_thickness_72_teeth_extra_motor_tt_01_shaft_3_diameter_1_width_1_height_true_both_holes_true_circle_false_middle",
+        "oobb_motor_tt_01_shape_n_type_6_thickness_motor_tt_01_shaft_3_diameter_shaft_part",
+        "oobb_slice_shape_n_type_6_thickness_72_teeth_extra_motor_tt_01_shaft_3_diameter"
     ],
     "components_objects": [
         {
             "type": "p",
             "thickness": 6,
             "extra": "72_teeth",
-            "shaft": "motor_servo_standard_01",
+            "shaft": "motor_tt_01",
             "diameter": 3,
             "pos": [
                 0,
@@ -2166,7 +1950,7 @@
             "type": "n",
             "thickness": 6,
             "extra": "72_teeth",
-            "shaft": "motor_servo_standard_01",
+            "shaft": "motor_tt_01",
             "diameter": 3,
             "pos": [
                 0,
@@ -2183,28 +1967,22 @@
         {
             "type": "n",
             "thickness": 6,
-            "shaft": "motor_servo_standard_01",
+            "shaft": "motor_tt_01",
             "diameter": 3,
             "pos": [
                 0,
                 0,
-                2
+                0
             ],
-            "shape": "oobb_motor_servo_standard_01",
+            "shape": "oobb_motor_tt_01",
             "part": "shaft",
-            "rot": [
-                0,
-                0,
-                45
-            ],
-            "overhang": false,
             "m": "#"
         },
         {
             "type": "n",
             "thickness": 6,
             "extra": "72_teeth",
-            "shaft": "motor_servo_standard_01",
+            "shaft": "motor_tt_01",
             "diameter": 3,
             "pos": [
                 0,
@@ -2218,13 +1996,13 @@
     "size": "pulley_gt2",
     "color": "",
     "description_main": "3_diameter_6_mm_depth",
-    "description_extra": "motor_servo_standard_01_shaft_72_teeth_extra",
+    "description_extra": "motor_tt_01_shaft_72_teeth_extra",
     "manufacturer": "",
     "part_number": "",
     "short_name": "",
-    "link_redirect": "https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/oobb_pulley_gt2_03_06_ex_72_teeth_sh_motor_servo_standard_01",
-    "link_main": "https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/pulley_gt2/3_diameter_6_mm_depth/motor_servo_standard_01_shaft_72_teeth_extra/part",
-    "name": "Oobb Part Pulley Gt2 3 Diameter 6 mm Depth Motor Servo Standard 01 Shaft 72 Teeth Extra",
-    "name_short": "Pulley Gt2 3x6 Motor Servo Standard 01",
-    "folder": "C:\\gh\\oomlout_oobb_version_4_generated_parts\\parts\\oobb_part_pulley_gt2_3_diameter_6_mm_depth_motor_servo_standard_01_shaft_72_teeth_extra"
+    "link_redirect": "https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/oobb_pulley_gt2_03_06_ex_72_teeth_sh_motor_tt_01",
+    "link_main": "https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/pulley_gt2/3_diameter_6_mm_depth/motor_tt_01_shaft_72_teeth_extra/part",
+    "name": "Oobb Part Pulley Gt2 3 Diameter 6 mm Depth Motor Tt 01 Shaft 72 Teeth Extra",
+    "name_short": "Pulley Gt2 3x6 Motor Tt 01 Shaft 72",
+    "folder": "C:\\gh\\oomlout_oobb_version_4_generated_parts\\parts\\oobb_part_pulley_gt2_3_diameter_6_mm_depth_motor_tt_01_shaft_72_teeth_extra"
 }
