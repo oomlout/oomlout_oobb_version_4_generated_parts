@@ -1,23 +1,257 @@
+bip_39_word_dash_12: useless-sniff-album-follow-harvest-city-case-bid-wood-oyster-radio-about
+bip_39_word_dash_2: useless-sniff
+bip_39_word_dash_3: useless-sniff-album
+bip_39_word_new_br_12: useless<br>sniff<br>album<br>follow<br>harvest<br>city<br>case<br>bid<br>wood<br>oyster<br>radio<br>about
+bip_39_word_new_br_2: useless<br>sniff
+bip_39_word_new_br_3: useless<br>sniff<br>album
+bip_39_word_new_line_12: 'useless
+
+  sniff
+
+  album
+
+  follow
+
+  harvest
+
+  city
+
+  case
+
+  bid
+
+  wood
+
+  oyster
+
+  radio
+
+  about'
+bip_39_word_new_line_2: 'useless
+
+  sniff'
+bip_39_word_new_line_3: 'useless
+
+  sniff
+
+  album'
+bip_39_word_no_space_12: uselesssniffalbumfollowharvestcitycasebidwoodoysterradioabout
+bip_39_word_no_space_2: uselesssniff
+bip_39_word_no_space_3: uselesssniffalbum
+bip_39_word_space_12: useless sniff album follow harvest city case bid wood oyster
+  radio about
+bip_39_word_space_2: useless sniff
+bip_39_word_space_3: useless sniff album
+bip_39_word_underscore_12: useless_sniff_album_follow_harvest_city_case_bid_wood_oyster_radio_about
+bip_39_word_underscore_2: useless_sniff
+bip_39_word_underscore_3: useless_sniff_album
 classification: oobb
+classification_length_1: o
+classification_length_2: oo
+classification_length_3: oob
+classification_length_4: oobb
+classification_length_5: oobb
+classification_length_6: oobb
+classification_name: Oobb
+classification_no_space_length_1: o
+classification_no_space_length_2: oo
+classification_no_space_length_3: oob
+classification_no_space_length_4: oobb
+classification_no_space_length_5: oobb
+classification_no_space_length_6: oobb
+classification_no_space_upper_length_1: O
+classification_no_space_upper_length_2: OO
+classification_no_space_upper_length_3: OOB
+classification_no_space_upper_length_4: OOBB
+classification_no_space_upper_length_5: OOBB
+classification_no_space_upper_length_6: OOBB
+classification_upper_length_1: O
+classification_upper_length_2: OO
+classification_upper_length_3: OOB
+classification_upper_length_4: OOBB
+classification_upper_length_5: OOBB
+classification_upper_length_6: OOBB
 color: ''
+color_name: ''
 components: []
 components_objects: []
 components_string: []
 description: pulley gt2 0x0x9
 description_extra: motor_n20_shaft_144_teeth_shield_extra
+description_extra_length_1: m
+description_extra_length_2: mo
+description_extra_length_3: mot
+description_extra_length_4: moto
+description_extra_length_5: motor
+description_extra_length_6: motor_
+description_extra_name: Motor N20 Shaft 144 Teeth Shield Extra
+description_extra_no_space_length_1: m
+description_extra_no_space_length_2: mo
+description_extra_no_space_length_3: mot
+description_extra_no_space_length_4: moto
+description_extra_no_space_length_5: motor
+description_extra_no_space_length_6: motorn
+description_extra_no_space_upper_length_1: M
+description_extra_no_space_upper_length_2: MO
+description_extra_no_space_upper_length_3: MOT
+description_extra_no_space_upper_length_4: MOTO
+description_extra_no_space_upper_length_5: MOTOR
+description_extra_no_space_upper_length_6: MOTORN
+description_extra_upper_length_1: M
+description_extra_upper_length_2: MO
+description_extra_upper_length_3: MOT
+description_extra_upper_length_4: MOTO
+description_extra_upper_length_5: MOTOR
+description_extra_upper_length_6: MOTOR_
 description_main: 9_mm_depth
+description_main_length_1: '9'
+description_main_length_2: '9_'
+description_main_length_3: 9_m
+description_main_length_4: 9_mm
+description_main_length_5: 9_mm_
+description_main_length_6: 9_mm_d
+description_main_name: 9 mm Depth
+description_main_no_space_length_1: '9'
+description_main_no_space_length_2: 9m
+description_main_no_space_length_3: 9mm
+description_main_no_space_length_4: 9mmd
+description_main_no_space_length_5: 9mmde
+description_main_no_space_length_6: 9mmdep
+description_main_no_space_upper_length_1: '9'
+description_main_no_space_upper_length_2: 9M
+description_main_no_space_upper_length_3: 9MM
+description_main_no_space_upper_length_4: 9MMD
+description_main_no_space_upper_length_5: 9MMDE
+description_main_no_space_upper_length_6: 9MMDEP
+description_main_upper_length_1: '9'
+description_main_upper_length_2: '9_'
+description_main_upper_length_3: 9_M
+description_main_upper_length_4: 9_MM
+description_main_upper_length_5: 9_MM_
+description_main_upper_length_6: 9_MM_D
+directory: parts/oobb_part_pulley_gt2_9_mm_depth_motor_n20_shaft_144_teeth_shield_extra
 extra: 144_teeth_shield
 folder: C:\gh\oomlout_oobb_version_4_generated_parts\parts\oobb_part_pulley_gt2_9_mm_depth_motor_n20_shaft_144_teeth_shield_extra
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_9_mm_depth_motor_n20_shaft_144_teeth_shield_extra
 id: oobb_part_pulley_gt2_9_mm_depth_motor_n20_shaft_144_teeth_shield_extra
+id_no_class: part_pulley_gt2_9_mm_depth_motor_n20_shaft_144_teeth_shield_extra
+id_no_color: 9mmdepthmotorn20shaft144teethshieldextra
+id_no_size: 9_mm_depth_motor_n20_shaft_144_teeth_shield_extra
+id_no_type: pulley_gt2_9_mm_depth_motor_n20_shaft_144_teeth_shield_extra
+link_1: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/pulley_gt2/9_mm_depth/motor_n20_shaft_144_teeth_shield_extra/part
+link_1_name: link_main
 link_main: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/pulley_gt2/9_mm_depth/motor_n20_shaft_144_teeth_shield_extra/part
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20ad9j
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20ad9j
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%20ad9j
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20ad9j
 link_redirect: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/oobb_pulley_gt2_09_ex_144_teeth_shield_sh_motor_n20
 manufacturer: ''
+manufacturer_name: ''
+md5: 0761a79fe9160464a5b4b5aa0bf35f80
+md5_10: 0761a79fe9
+md5_10_upper: 0761A79FE9
+md5_5: 0761a
+md5_5_upper: 0761A
+md5_6: 0761a7
+md5_6_alpha: ad9j
+md5_6_alpha_upper: AD9J
+md5_6_upper: 0761A7
 name: Oobb Part Pulley Gt2 9 mm Depth Motor N20 Shaft 144 Teeth Shield Extra
+name_no_class: Part Pulley Gt2 9 mm Depth Motor N20 Shaft 144 Teeth Shield Extra
+name_no_color: 9mmdepthmotorn20Shaft144Teethshieldextra
+name_no_size: 9 mm Depth Motor N20 Shaft 144 Teeth Shield Extra
+name_no_type: Pulley Gt2 9 mm Depth Motor N20 Shaft 144 Teeth Shield Extra
 name_short: Pulley Gt2 9 Motor N20 Shaft 144 Teeth
+oomlout_detail_hierarchy_1: oobb
+oomlout_detail_hierarchy_1_upper: OOBB
+oomlout_detail_hierarchy_1_upper_length_4: OOBB
+oomlout_detail_hierarchy_2: part
+oomlout_detail_hierarchy_2_upper: PART
+oomlout_detail_hierarchy_2_upper_length_4: PART
+oomlout_detail_hierarchy_3: pulley_gt2
+oomlout_detail_hierarchy_3_upper: PULLEY_GT2
+oomlout_detail_hierarchy_3_upper_length_4: PULL
+oomlout_detail_hierarchy_4: 9_mm_depth
+oomlout_detail_hierarchy_4_upper: 9_MM_DEPTH
+oomlout_detail_hierarchy_4_upper_length_4: 9DEP
+oomlout_detail_hierarchy_5: motor_n20_shaft_144
+oomlout_detail_hierarchy_5_upper: MOTOR_N20_SHAFT_144
+oomlout_detail_hierarchy_5_upper_length_4: MOTO
+oomlout_detail_hierarchy_6: teeth_shield_extra
+oomlout_detail_hierarchy_6_upper: TEETH_SHIELD_EXTRA
+oomlout_detail_hierarchy_6_upper_length_4: TEET
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_oobb_part_pulley_gt2_9_mm_depth_motor_n20_shaft_144_teeth_shield_extra
+oomp_word: cry bouquet guitar
+oomp_word_emoji: ':cry: :bouquet: :guitar:'
+oomp_word_emoji_list:
+- ':cry:'
+- ':bouquet:'
+- ':guitar:'
+oomp_word_list:
+- cry
+- bouquet
+- guitar
 part_number: ''
+part_number_name: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
 shaft: motor_n20
 short_name: ''
 size: pulley_gt2
+size_length_1: p
+size_length_2: pu
+size_length_3: pul
+size_length_4: pull
+size_length_5: pulle
+size_length_6: pulley
+size_name: Pulley Gt2
+size_no_space_length_1: p
+size_no_space_length_2: pu
+size_no_space_length_3: pul
+size_no_space_length_4: pull
+size_no_space_length_5: pulle
+size_no_space_length_6: pulley
+size_no_space_upper_length_1: P
+size_no_space_upper_length_2: PU
+size_no_space_upper_length_3: PUL
+size_no_space_upper_length_4: PULL
+size_no_space_upper_length_5: PULLE
+size_no_space_upper_length_6: PULLEY
+size_upper_length_1: P
+size_upper_length_2: PU
+size_upper_length_3: PUL
+size_upper_length_4: PULL
+size_upper_length_5: PULLE
+size_upper_length_6: PULLEY
 thickness: 9
 thickness_mm: 9
 type: part
+type_length_1: p
+type_length_2: pa
+type_length_3: par
+type_length_4: part
+type_length_5: part
+type_length_6: part
+type_name: Part
+type_no_space_length_1: p
+type_no_space_length_2: pa
+type_no_space_length_3: par
+type_no_space_length_4: part
+type_no_space_length_5: part
+type_no_space_length_6: part
+type_no_space_upper_length_1: P
+type_no_space_upper_length_2: PA
+type_no_space_upper_length_3: PAR
+type_no_space_upper_length_4: PART
+type_no_space_upper_length_5: PART
+type_no_space_upper_length_6: PART
+type_upper_length_1: P
+type_upper_length_2: PA
+type_upper_length_3: PAR
+type_upper_length_4: PART
+type_upper_length_5: PART
+type_upper_length_6: PART
